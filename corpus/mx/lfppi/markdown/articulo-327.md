@@ -21,10 +21,10 @@ La inscripción del reconocimiento de una denominación de origen o indicación 
 
 I.- Nulidad, en cualquiera de los siguientes casos:
 
-a) Cuando se otorgue en contravención a las disposiciones de esta Ley, o
+a) Cuando se otorgue en contravención a las disposiciones de esta [Ley](articulo-4.md), o
 
 b) Cuando se otorgue atendiendo a datos y documentos falsos.
 
 II.- Cancelación, cuando el documento al que se refiere la fracción II del artículo [316](articulo-316.md), deje de surtir efectos en el país de origen.
 
-La declaración de nulidad o cancelación de la inscripción se hará administrativamente por el Instituto de oficio, a petición de parte o del Ministerio Público Federal, cuando tenga algún interés la Federación.
+La declaración de nulidad o cancelación de la inscripción se hará administrativamente por el [Instituto](articulo-4.md) de oficio, a petición de parte o del Ministerio Público Federal, cuando tenga algún interés la Federación.

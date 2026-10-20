@@ -17,4 +17,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Artículo 204
 
-La persona Permisionaria debe ser responsable del contenido y veracidad de la información proporcionada en la plataforma de información electrónica, por lo que cualquier falsedad u omisión es de su exclusiva responsabilidad, sin perjuicio de las consecuencias legales que se prevén en la Normatividad vigente.
+La persona Permisionaria debe ser responsable del contenido y veracidad de la información proporcionada en la plataforma de información electrónica, por lo que cualquier falsedad u omisión es de su exclusiva responsabilidad, sin perjuicio de las consecuencias legales que se prevén en la [Normatividad](articulo-3.md) vigente.

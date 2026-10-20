@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CFPC.pdf
 source_sha256: db545f3918f1c1907dac23d6431d5076c8de91af1fbf97dcf5b5b2a68b165299
 ---
 
-> Título UNICO · Capítulo VI
+> Título Único · Capítulo VII
 
 # Artículo 613
 
@@ -26,5 +26,3 @@ El juez del proceso individual notificará a la parte actora de la existencia de
 Tratándose de derechos o intereses individuales de incidencia colectiva, en caso de la improcedencia de la pretensión en el procedimiento colectivo, los interesados tendrán a salvo sus derechos para ejercerlos por la vía individual.
 
 Artículo adicionado DOF 30-08-2011
-
-Capítulo VIII Cosa Juzgada Capítulo adicionado DOF 30-08-2011

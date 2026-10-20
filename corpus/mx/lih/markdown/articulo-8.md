@@ -17,4 +17,4 @@ source_sha256: 8262a75eac7bfb608d4f48657ffb2714fe115d0b9694c42ac81624fd275bf5f6
 
 # Artículo 8
 
-Las Contraprestaciones señaladas en las fracciones II, III y IV del apartado A del artículo [6](articulo-6.md) de esta Ley serán pagadas en efectivo por el Contratista al Estado Mexicano, en cada Periodo conforme se establezca en el Contrato.
+Las [Contraprestaciones](articulo-3.md) señaladas en las fracciones II, III y IV del apartado A del artículo [6](articulo-6.md) de esta Ley serán pagadas en efectivo por el Contratista al Estado Mexicano, en cada [Periodo](articulo-3.md) conforme se establezca en el [Contrato](articulo-3.md).

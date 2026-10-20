@@ -17,6 +17,6 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 80
 
-El Instituto está facultado para proporcionar servicios de carácter preventivo, individualmente o a través de procedimientos de alcance general, con el objeto de evitar la realización de riesgos de trabajo entre la población asegurada.
+El [Instituto](articulo-5-A.md) está facultado para proporcionar servicios de carácter preventivo, individualmente o a través de procedimientos de alcance general, con el objeto de evitar la realización de riesgos de trabajo entre la población asegurada.
 
 En especial, el Instituto establecerá programas para promover y apoyar la aplicación de acciones preventivas de riesgos de trabajo en las empresas de hasta cien trabajadores.

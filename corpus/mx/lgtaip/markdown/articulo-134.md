@@ -17,4 +17,4 @@ source_sha256: e81e23876bd08da81cb8392af7054f6187ad043ca8f965777b455f9d12554e8b
 
 # Artículo 134
 
-La respuesta a la solicitud deberá ser notificada a la persona interesada en el menor tiempo posible, que no podrá exceder de veinte días, contados a partir del día siguiente a la presentación de aquélla. Excepcionalmente, el plazo referido en el párrafo anterior podrá ampliarse hasta por diez días más, siempre y cuando se justifiquen de manera fundada y motivada las razones ante el Comité de Transparencia, y este emita la resolución respectiva, la cual deberá notificarse a la persona solicitante antes de su vencimiento.
+La respuesta a la solicitud deberá ser notificada a la persona interesada en el menor tiempo posible, que no podrá exceder de veinte días, contados a partir del día siguiente a la presentación de aquélla. Excepcionalmente, el plazo referido en el párrafo anterior podrá ampliarse hasta por diez días más, siempre y cuando se justifiquen de manera fundada y motivada las razones ante el [Comité de Transparencia](articulo-3.md), y este emita la resolución respectiva, la cual deberá notificarse a la persona solicitante antes de su vencimiento.

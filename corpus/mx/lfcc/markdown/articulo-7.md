@@ -17,7 +17,7 @@ source_sha256: 0305c9a7ba90c8d0bbe973be2a134a650976ce5d25c304458cb0fd5401b8ddde
 
 # Artículo 7
 
-Para los procesos de inscripción y registro al Padrón, la Secretaría, por conducto de la Comisión, en el ámbito de sus atribuciones, aprovechará de la mejor manera las tecnologías de la información y aplicará en lo conducente los principios a que se refiere el artículo 7 de la Ley General de Mejora Regulatoria.
+Para los procesos de inscripción y registro al [Padrón](articulo-3.md), la [Secretaría](articulo-3.md), por conducto de la [Comisión](articulo-3.md), en el ámbito de sus atribuciones, aprovechará de la mejor manera las tecnologías de la información y aplicará en lo conducente los principios a que se refiere el artículo 7 de la [Ley](articulo-3.md) General de Mejora Regulatoria.
 
 Las personas podrán hacer llegar a la Secretaría el o los temas de los trámites o procedimientos cuya simplificación requieren o los problemas que han enfrentado durante la práctica de las visitas domiciliarias, para efectos de que, según corresponda, la Secretaría, por conducto de la Comisión, y las autoridades competentes lleven a cabo acciones para entender dicha problemática.
 

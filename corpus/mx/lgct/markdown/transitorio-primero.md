@@ -15,4 +15,4 @@ source_sha256: 9f964bc5c075d7cf47e5e9df7c2fbe262eb5bd1794de9b230dbd72026a51ae5e
 
 # PRIMERO
 
-La presente Ley entrará en vigor 90 días después de su publicación en el Diario Oficial de la Federación.
+La presente [Ley](articulo-6.md) entrará en vigor 90 días después de su publicación en el Diario Oficial de la Federación.

@@ -18,9 +18,9 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 14
 
-Las Sociedades Financieras Populares con Nivel de Operaciones I y II deberán designar al menos un Consejero independiente para que participe en los trabajos del Consejo de Administración. Las Sociedades Financieras Populares con Nivel de Operaciones III y IV deberán cumplir con el porcentaje mínimo de Consejeros independientes a que se refiere el segundo párrafo del artículo 18 de la Ley.
+Las [Sociedades](articulo-1.md) Financieras Populares con Nivel de Operaciones I y II deberán designar al menos un [Consejero](articulo-1.md) independiente para que participe en los trabajos del [Consejo de Administración](articulo-1.md). Las Sociedades Financieras Populares con Nivel de Operaciones III y IV deberán cumplir con el porcentaje mínimo de Consejeros independientes a que se refiere el segundo párrafo del artículo 18 de la [Ley](articulo-1.md).
 
-En todo caso, los Consejeros independientes de las Sociedades Financieras Populares y las Federaciones a que se refiere la Ley, deberán reunir los requisitos siguientes:
+En todo caso, los Consejeros independientes de las Sociedades Financieras Populares y las [Federaciones](articulo-1.md) a que se refiere la Ley, deberán reunir los requisitos siguientes:
 
 I. Acreditar conocimientos y experiencia en materia financiera y administrativa;
 

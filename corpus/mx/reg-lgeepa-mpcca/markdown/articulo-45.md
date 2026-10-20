@@ -17,6 +17,6 @@ source_sha256: cf47ab93fdea40d2b3e41b58784df62f89dd90b4482dd3b7f25adc7f6957036b
 
 # Artículo 45
 
-La Secretaría elaborará y mantendrá actualizado el Inventario de Fuentes de Jurisdicción Federal, así como de sus emisiones, con el propósito de contar con un banco de datos que le permita formular las estrategias necesarias para el control de la contaminación atmosférica.
+La [Secretaría](articulo-6o.md) elaborará y mantendrá actualizado el Inventario de Fuentes de Jurisdicción Federal, así como de sus emisiones, con el propósito de contar con un banco de datos que le permita formular las estrategias necesarias para el control de la contaminación atmosférica.
 
-Este inventario se integrará con la información que se presente en los términos del artículo 18 del Reglamento.
+Este inventario se integrará con la información que se presente en los términos del artículo 18 del [Reglamento](articulo-6o.md).

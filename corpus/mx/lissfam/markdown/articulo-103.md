@@ -25,6 +25,6 @@ II. Durante la vigencia del crédito, se continuará aplicando el total de la ap
 
 III. Una vez liquidado el crédito otorgado al miembro de las Instituciones Armadas, se continuará aplicando el total de las aportaciones al depósito en su favor;
 
-IV. Cuando el militar quede separado del activo, disfrute de licencia ilimitada o en caso de muerte, se entregará el total de los depósitos constituidos, al militar o a sus beneficiarios en los términos de la presente Ley, y
+IV. Cuando el militar quede separado del activo, disfrute de licencia ilimitada o en caso de muerte, se entregará el total de los depósitos constituidos, al militar o a sus beneficiarios en los términos de la presente [Ley](articulo-4o.md), y
 
 V. En el caso de que los militares hubieren recibido crédito hipotecario con recursos del fondo de la vivienda, la devolución de los depósitos se hará con deducción de las cantidades que se hubieren aplicado al pago del crédito hipotecario o en los términos de las fracciones I y II de este artículo.

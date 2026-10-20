@@ -17,4 +17,4 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 140
 
-El Instituto podrá por una sola vez, a solicitud del patrón, conceder un plazo mayor al inicialmente aceptado u otorgado, sin que en total exceda de cuarenta y ocho meses y, en su caso, agregar adeudos por cédulas de liquidación diferentes a las cuotas mensuales no vencidas.
+El [Instituto](../../lss/markdown/articulo-5-A.md) podrá por una sola vez, a solicitud del patrón, conceder un plazo mayor al inicialmente aceptado u otorgado, sin que en total exceda de cuarenta y ocho meses y, en su caso, agregar adeudos por cédulas de liquidación diferentes a las cuotas mensuales no vencidas.

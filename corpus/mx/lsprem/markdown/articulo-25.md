@@ -17,7 +17,7 @@ source_sha256: bcc21844355854fe331c842c21436d721d6c2856b5c5986715fe39f4a845b317
 
 # Artículo 25
 
-Son funciones del Consejo Ciudadano: I. Proponer los criterios que la Junta de Gobierno deberá seguir para asegurar la independencia y una política editorial imparcial y objetiva del Sistema;
+Son funciones del [Consejo Ciudadano](articulo-2.md): I. Proponer los criterios que la [Junta de Gobierno](articulo-2.md) deberá seguir para asegurar la independencia y una política editorial imparcial y objetiva del [Sistema](articulo-2.md);
 
 II. Elaborar proyectos que contribuyan a fortalecer los fines del Sistema;
 

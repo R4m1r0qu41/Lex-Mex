@@ -17,4 +17,4 @@ source_sha256: cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7
 
 # Artículo 87
 
-Los Usuarios que deseen obtener los servicios de orientación jurídica y defensoría legal, están obligados a comprobar ante la Comisión Nacional que no cuentan con los recursos suficientes para contratar un defensor especializado en la materia que atienda sus intereses.
+Los [Usuarios](articulo-2o.md) que deseen obtener los servicios de orientación jurídica y defensoría legal, están obligados a comprobar ante la [Comisión Nacional](articulo-2o.md) que no cuentan con los recursos suficientes para contratar un defensor especializado en la materia que atienda sus intereses.

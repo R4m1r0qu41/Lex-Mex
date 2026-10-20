@@ -17,4 +17,4 @@ source_sha256: 9816ce7f9d6b9b1781eb9935869bd45677c60d721d3352865b6524c2e75db8cd
 
 # Artículo 18
 
-Cada Delegación contará con un Comité Técnico, que tendrá por objeto fungir como órgano de análisis y apoyo en la toma de decisiones respecto de la administración y enajenación de los bienes.
+Cada [Delegación](articulo-2.md) contará con un [Comité Técnico](articulo-2.md), que tendrá por objeto fungir como órgano de análisis y apoyo en la toma de decisiones respecto de la administración y enajenación de los bienes.

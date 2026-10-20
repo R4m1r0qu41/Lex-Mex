@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título VI · Capítulo II
+
 # Artículo 193
 
 Las casas de bolsa que reciban instrucciones de terceros, celebren operaciones en bolsa o proporcionen servicios fiduciarios, deberán utilizar los servicios de personas físicas para operar en bolsa, para celebrar operaciones con el público de asesoría, promoción, compra y venta de valores o para actuar como delegados fiduciarios, según se trate, autorizadas por la [Comisión](articulo-2.md), siempre que se acredite que cuentan con calidad técnica, honorabilidad e historial crediticio satisfactorio. En todo caso deberán otorgarse los poderes que correspondan.

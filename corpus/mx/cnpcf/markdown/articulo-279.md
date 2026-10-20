@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo II
+
 # Artículo 279
 
 Los medios de prueba también podrán desahogarse en audiencia virtual, cuando su naturaleza así lo permita, sea posible técnicamente, exista consenso de las partes y resulte necesario a juicio de la autoridad jurisdiccional, conforme a lo dispuesto en el Libro Octavo del presente [Código Nacional](articulo-2.md).

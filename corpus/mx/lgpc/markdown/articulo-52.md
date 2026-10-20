@@ -17,7 +17,7 @@ source_sha256: d8dd1de3627b899bb4faf31c2812c3d5f14f7108be153d5aa8dd549b9136184a
 
 # Artículo 52
 
-Son derechos y obligaciones de los Grupos Voluntarios:
+Son derechos y obligaciones de los [Grupos Voluntarios](articulo-2.md):
 
 I. Disponer del reconocimiento oficial una vez obtenido su registro;
 

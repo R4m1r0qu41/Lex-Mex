@@ -17,4 +17,4 @@ source_sha256: b19bcf104673af06117a6d4f3c947591f7a65999f19bad3dcfe2599a29bb3ab0
 
 # Artículo 66
 
-En un plazo de cinco días hábiles contados a partir de la presentación del aviso a que se refiere el [artículo anterior](articulo-65.md), la Secretaría debe hacer de conocimiento a las instancias, dependencias u organismos competentes los subproductos descubiertos, a efecto de que determinen lo que corresponda.
+En un plazo de cinco días hábiles contados a partir de la presentación del aviso a que se refiere el [artículo anterior](articulo-65.md), la [Secretaría](articulo-3.md) debe hacer de conocimiento a las instancias, dependencias u organismos competentes los subproductos descubiertos, a efecto de que determinen lo que corresponda.

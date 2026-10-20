@@ -17,7 +17,7 @@ source_sha256: 32822f50bb2de81185408f9450d61a49d678429c52c5379822a507c7027a5275
 
 # Artículo 43
 
-Corresponde al Gobierno Federal, por conducto de la Secretaría, las siguientes atribuciones:
+Corresponde al Gobierno Federal, por conducto de la [Secretaría](articulo-5.md), las siguientes atribuciones:
 
 I. Proyectar y coordinar la planeación nacional y regional del desarrollo social con la participación que, de acuerdo con la Constitución y demás leyes aplicables, corresponda a los gobiernos de las entidades federativas y los municipales;
 
@@ -29,7 +29,7 @@ IV. Diseñar y coordinar los programas y apoyos federales en las Zonas de Atenci
 
 V. Promover la celebración de convenios con dependencias del Ejecutivo Federal, entidades federativas, municipios y organizaciones civiles y privadas, para la instrumentación de los programas relacionados con el desarrollo social;
 
-VI. Diseñar los criterios de ejecución anual del Programa en el ámbito de su competencia; VII. Promover y fomentar la participación de la sociedad, en la elaboración y ejecución de la Política de Desarrollo Social; Fracción reformada DOF 16-07-2025
+VI. Diseñar los criterios de ejecución anual del Programa en el ámbito de su competencia; VII. Promover y fomentar la participación de la sociedad, en la elaboración y ejecución de la [Política de Desarrollo Social](articulo-5.md); Fracción reformada DOF 16-07-2025
 
 VIII. Promover y apoyar instrumentos de financiamiento en materia de desarrollo social;
 

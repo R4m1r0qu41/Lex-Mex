@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf
 source_sha256: ca63a23a4b7444ebdbdad93759fbf46bd14c069e587c5878decf89fc9c12ca8e
 ---
 
+> Título Tercero · Capítulo III
+
 # Artículo 84
 
 En caso de falta absoluta del Presidente de la República, en tanto el Congreso nombra al presidente interino o substituto, lo que deberá ocurrir en un término no mayor a sesenta días, el Secretario de Gobernación asumirá provisionalmente la titularidad del Poder Ejecutivo. En este caso no será aplicable lo establecido en las fracciones II, III y VI del artículo [82](articulo-82.md) de esta Constitución.

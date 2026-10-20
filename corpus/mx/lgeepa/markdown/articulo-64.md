@@ -21,6 +21,6 @@ En el otorgamiento o expedición de permisos, licencias, concesiones, o en gener
 
 El solicitante deberá en tales casos demostrar ante la autoridad competente, su capacidad técnica y económica para llevar a cabo la exploración, explotación o aprovechamiento de que se trate, sin causar deterioro al equilibrio ecológico.
 
-La Secretaría, así como las Secretarías de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación y de la Reforma Agraria, prestará oportunamente a ejidatarios, comuneros y pequeños propietarios la asesoría técnica necesaria para el cumplimiento de lo dispuesto en el párrafo anterior, cuando éstos no cuenten con suficientes recursos económicos para procurársela. Párrafo reformado DOF 13-12-1996, 09-04-2012
+La [Secretaría](articulo-3o.md), así como las Secretarías de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación y de la Reforma Agraria, prestará oportunamente a ejidatarios, comuneros y pequeños propietarios la asesoría técnica necesaria para el cumplimiento de lo dispuesto en el párrafo anterior, cuando éstos no cuenten con suficientes recursos económicos para procurársela. Párrafo reformado DOF 13-12-1996, 09-04-2012
 
 La Secretaría, tomando como base los estudios técnicos y socioeconómicos practicados, podrá solicitar a la autoridad competente, la cancelación o revocación del permiso, licencia, concesión o autorización correspondiente, cuando la exploración, explotación o aprovechamiento de recursos ocasione o pueda ocasionar deterioro al equilibrio ecológico.

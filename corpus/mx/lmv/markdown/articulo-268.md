@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título IX · Capítulo VI
+
 # Artículo 268
 
 La [Secretaría](articulo-2.md), a propuesta de la [Comisión](articulo-2.md), o bien, oyendo su opinión y previo otorgamiento del derecho de audiencia, podrá revocar la concesión para operar como bolsa de valores, cuando se actualice alguno de los supuestos a que se refiere el artículo [269](articulo-269.md) de esta Ley.

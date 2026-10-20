@@ -37,7 +37,7 @@ VIII. Los estados financieros trimestrales y anuales de los permisionarios de ju
 
 IX. Los procedimientos de sanción administrativa en curso en materia de juegos con apuestas y sorteos, incluidos aquellos que se encuentren en litigio judicial, así como cualquier procedimiento legal ejercido en contra de la persona permisionaria, accionistas o beneficiarias; Fracción reformada DOF 16-11-2023
 
-X. Las resoluciones que adopte el Consejo Consultivo;
+X. Las resoluciones que adopte el [Consejo Consultivo](articulo-3.md);
 
 XI. La relativa a los Órganos Técnicos de Consulta en materia de Hipódromos, Galgódromos y Frontones, y
 

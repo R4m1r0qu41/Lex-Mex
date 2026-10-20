@@ -17,4 +17,4 @@ source_sha256: 0125eed7519ad260330f9a04f78c0e4a1ce93c06e67c98ac3c535416787656ba
 
 # Artículo 20
 
-Las comercializadoras, arrendadoras, instituciones de crédito, de seguros, de fianzas y las organizaciones auxiliares del crédito que celebren actos jurídicos relacionados con vehículos, deberán exigir respecto del mismo la acreditación de su inscripción en el Registro.
+Las comercializadoras, arrendadoras, instituciones de crédito, de seguros, de fianzas y las organizaciones auxiliares del crédito que celebren actos jurídicos relacionados con vehículos, deberán exigir respecto del mismo la acreditación de su inscripción en el [Registro](articulo-2.md).

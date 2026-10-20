@@ -17,6 +17,6 @@ source_sha256: 0125eed7519ad260330f9a04f78c0e4a1ce93c06e67c98ac3c535416787656ba
 
 # Artículo 15
 
-La inscripción de los vehículos en el Registro es obligatoria. La inscripción definitiva se realizará una sola vez y será obligatoria por quienes fabriquen o ensamblen vehículos en territorio nacional, destinados al mercado nacional o quienes importen vehículos destinados a permanecer definitivamente en éste.
+La inscripción de los vehículos en el [Registro](articulo-2.md) es obligatoria. La inscripción definitiva se realizará una sola vez y será obligatoria por quienes fabriquen o ensamblen vehículos en territorio nacional, destinados al mercado nacional o quienes importen vehículos destinados a permanecer definitivamente en éste.
 
 Igualmente realizarán obligatoriamente la inscripción provisional, quienes importen temporalmente vehículos o importen vehículos en franquicia.

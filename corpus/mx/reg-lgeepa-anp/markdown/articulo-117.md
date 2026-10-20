@@ -17,7 +17,7 @@ source_sha256: 4e276866fce1638948a6daf1a5c0438fa412554f1a6e0381cbdf7cb300e3db75
 
 # Artículo 117
 
-Los interesados en promover el establecimiento de un área natural protegida en los términos del [artículo anterior](articulo-116.md) deberán presentar a la Secretaría:
+Los interesados en promover el establecimiento de un área natural protegida en los términos del [artículo anterior](articulo-116.md) deberán presentar a la [Secretaría](articulo-3o.md):
 
 I.- Solicitud por escrito que contenga nombre, denominación o razón social, de quien propone la declaratoria;
 

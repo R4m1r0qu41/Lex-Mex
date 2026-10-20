@@ -17,4 +17,4 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 188
 
-La sanción impuesta en términos del artículo [304](../../lss/markdown/articulo-304.md) de la Ley, excluye la aplicación de cualquiera otra prevista en la Ley, por el mismo acto u omisión.
+La sanción impuesta en términos del artículo [304](../../lss/markdown/articulo-304.md) de la [Ley](../../lss/markdown/articulo-5-A.md), excluye la aplicación de cualquiera otra prevista en la Ley, por el mismo acto u omisión.

@@ -17,4 +17,4 @@ source_sha256: 0305c9a7ba90c8d0bbe973be2a134a650976ce5d25c304458cb0fd5401b8ddde
 
 # Artículo 2
 
-La aplicación de la presente Ley le corresponde a la Secretaría de Economía del Poder Ejecutivo Federal por conducto de la Comisión Nacional de Mejora Regulatoria.
+La aplicación de la presente [Ley](articulo-3.md) le corresponde a la [Secretaría](articulo-3.md) de Economía del Poder Ejecutivo Federal por conducto de la [Comisión](articulo-3.md) Nacional de Mejora Regulatoria.

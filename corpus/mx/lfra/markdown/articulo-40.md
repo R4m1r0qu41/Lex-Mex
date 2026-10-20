@@ -17,12 +17,12 @@ source_sha256: 7211b1c71876d2ea4776c11dc1e045ebbb34b7e98b130f16c7864f75f5e90744
 
 # Artículo 40
 
-Una vez que el juez reciba las propuestas para la reparación del daño o su compensación conforme a lo previsto por el artículo [38](articulo-38.md) de la presente Ley, requerirá a la Secretaría, para que en el término de diez días, formule su opinión en relación a la idoneidad y legalidad de las propuestas.
+Una vez que el juez reciba las propuestas para la reparación del daño o su compensación conforme a lo previsto por el artículo [38](articulo-38.md) de la presente [Ley](articulo-2o.md), requerirá a la [Secretaría](articulo-2o.md), para que en el término de diez días, formule su opinión en relación a la idoneidad y legalidad de las propuestas.
 
 En caso de que una de las partes fuera omisa, se estará a la propuesta de la otra, siempre que ésta reciba opinión favorable de la Secretaría.
 
 En caso de que ambas partes sean omisas, o las propuestas no cuenten con la opinión favorable de la Secretaría, se estará a lo que disponga dicha dependencia. Para este efecto, se le requerirá para que formule una propuesta oficial en el término de ocho días.
 
-Los gastos en los que incurra la Secretaría podrán hacerse con cargo al Fondo previsto en el artículo [45](articulo-45.md) de esta Ley. En estos casos, la administración pública federal estará obligada a demandar al responsable la restitución de los recursos económicos erogados, incluyendo los intereses legales correspondientes, los que serán reintegrados a dicho Fondo.
+Los gastos en los que incurra la Secretaría podrán hacerse con cargo al [Fondo](articulo-2o.md) previsto en el artículo [45](articulo-45.md) de esta Ley. En estos casos, la administración pública federal estará obligada a demandar al responsable la restitución de los recursos económicos erogados, incluyendo los intereses legales correspondientes, los que serán reintegrados a dicho Fondo.
 
 Si existiesen diversas alternativas que pudieran generar los mismos resultados positivos de reparación o compensación, se optará por la menos onerosa para el responsable.

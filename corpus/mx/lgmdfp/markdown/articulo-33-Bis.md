@@ -17,4 +17,4 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Artículo 33 Bis
 
-A las personas participantes que no intervinieron directamente en la privación de la libertad ni en la privación de la vida de la víctima y proporcionen información efectiva que permita la localización con vida de la víctima o conduzca a la localización del cadáver o los restos humanos de la Persona Desaparecida, se les impondrá una pena de ocho a doce años de prisión y multa de tres mil a cinco mil veces el valor diario de la Unidad de Medida y Actualización.
+A las personas participantes que no intervinieron directamente en la privación de la libertad ni en la privación de la vida de la víctima y proporcionen información efectiva que permita la localización con vida de la víctima o conduzca a la localización del cadáver o los restos humanos de la [Persona Desaparecida](articulo-4.md), se les impondrá una pena de ocho a doce años de prisión y multa de tres mil a cinco mil veces el valor diario de la Unidad de Medida y Actualización.

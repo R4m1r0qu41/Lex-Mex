@@ -19,9 +19,9 @@ source_sha256: 96092a4581d4e87910eb58939da4045879e4fe613b12f4413d7392bcc2c6e884
 
 Para portar armas se requiere la licencia respectiva.
 
-Los militares con jerarquía de Generales, Jefes y Oficiales o sus equivalentes en la Fuerza Armada Permanente pueden poseer y portar armas, cargadores, accesorios y municiones sin licencia, con la sola acreditación de su personalidad militar vigente. Párrafo reformado DOF 21-12-1995, 29-05-2025
+Los militares con jerarquía de Generales, Jefes y Oficiales o sus equivalentes en la [Fuerza Armada Permanente](articulo-1o-Bis.md) pueden poseer y portar armas, cargadores, accesorios y municiones sin licencia, con la sola acreditación de su personalidad militar vigente. Párrafo reformado DOF 21-12-1995, 29-05-2025
 
-Pueden portar armas, en los casos y con las condiciones y requisitos que establecen la presente Ley y su Reglamento, las personas integrantes de:
+Pueden portar armas, en los casos y con las condiciones y requisitos que establecen la presente [Ley](articulo-1o-Bis.md) y su [Reglamento](articulo-1o-Bis.md), las personas integrantes de:
 
 I.- Las instituciones policiales y de procuración de justicia federales, estatales, de la Ciudad de México, municipales y de las alcaldías;
 
@@ -31,4 +31,4 @@ III.- Las empresas de seguridad privada, y
 
 IV.- Los ciudadanos que cubran los requisitos establecidos en esta Ley y demás disposiciones legales aplicables. Párrafo adicionado DOF 21-12-1995. Reformado DOF 06-12-2022, 29-05-2025
 
-Se prohíbe a los militares portar armas de su propiedad para prestar sus servicios en empresas de seguridad privada o con particulares, sin la autorización de la Secretaría o de la Secretaría de Marina, según corresponda. Párrafo adicionado DOF 29-05-2025
+Se prohíbe a los militares portar armas de su propiedad para prestar sus servicios en empresas de seguridad privada o con particulares, sin la autorización de la [Secretaría](articulo-1o-Bis.md) o de la Secretaría de Marina, según corresponda. Párrafo adicionado DOF 29-05-2025

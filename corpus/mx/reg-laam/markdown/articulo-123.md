@@ -17,6 +17,6 @@ source_sha256: 8515c812258bcc7c342e8566ff623c7f5e880f2eb9ee2ad154758077089f11ca
 
 # Artículo 123
 
-Los actos de reconocido valor o de extraordinarios méritos del personal naval, en el desarrollo de operaciones de guerra que los hagan merecedores de ascensos, serán los establecidos en la Ley de Recompensas de la Armada de México en los supuestos dados para la Condecoración al Valor Heroico en sus modalidades de Primera, Segunda y Tercera Clase.
+Los actos de reconocido valor o de extraordinarios méritos del personal naval, en el desarrollo de operaciones de guerra que los hagan merecedores de ascensos, serán los establecidos en la [Ley](articulo-5.md) de Recompensas de la Armada de México en los supuestos dados para la Condecoración al Valor Heroico en sus modalidades de Primera, Segunda y Tercera Clase.
 
 Artículo reformado DOF 22-09-2010

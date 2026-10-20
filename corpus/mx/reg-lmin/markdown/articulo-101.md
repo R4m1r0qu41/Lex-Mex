@@ -19,7 +19,7 @@ source_sha256: 4d25bcb022ab62a24462e11a230c9554c0120012913ab4599cd3ec1b2b275c1d
 
 Se suspenderán los efectos del registro de un perito minero por un año, cuando:
 
-I. Reciba dos amonestaciones de la Secretaría durante un año, por no haber realizado los trabajos periciales conforme a lo establecido por este Reglamento y las normas técnicas aplicables, o más del cinco por ciento de los trabajos periciales que realice en un año no se ajusten a lo previsto por dichas normas y originen: a) La desaprobación de las solicitudes de que se trate;
+I. Reciba dos amonestaciones de la [Secretaría](articulo-1o.md) durante un año, por no haber realizado los trabajos periciales conforme a lo establecido por este Reglamento y las normas técnicas aplicables, o más del cinco por ciento de los trabajos periciales que realice en un año no se ajusten a lo previsto por dichas normas y originen: a) La desaprobación de las solicitudes de que se trate;
 
 b) El otorgamiento de las concesiones respectivas de forma diversa a la solicitada por el promovente, o
 
@@ -31,6 +31,6 @@ III. Se niegue a corregir las deficiencias o a subsanar las omisiones que la Sec
 
 IV. No comunique la separación de alguno de los responsables, en los términos del párrafo primero del artículo [99](articulo-99.md) de este Reglamento, o
 
-V. La ubicación de la mojonera no corresponda a las coordenadas del punto de partida y se encuentre fuera del rango establecido en el Manual, o bien, se acredite posteriormente que no coinciden la ubicación de la mojonera que identificó el punto de partida de la solicitud original, con las coordenadas correspondientes al punto de partida, determinadas en el título de concesión o asignación expedido.
+V. La ubicación de la mojonera no corresponda a las coordenadas del punto de partida y se encuentre fuera del rango establecido en el [Manual](articulo-1o.md), o bien, se acredite posteriormente que no coinciden la ubicación de la mojonera que identificó el punto de partida de la solicitud original, con las coordenadas correspondientes al punto de partida, determinadas en el título de concesión o asignación expedido.
 
 Durante el periodo de suspensión, los peritos mineros únicamente podrán realizar correcciones o subsanar omisiones de trabajos efectuados con anterioridad a dicha suspensión.

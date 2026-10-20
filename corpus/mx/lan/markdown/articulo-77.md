@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAN.pdf
 source_sha256: 4ef50d6b4b3a6ad0378720c5d49463b4f17d70d9de39f895ed5dae4d2e21736d
 ---
 
-> Título SEXTO
+> Título SEXTO · Capítulo II
 
 # Artículo 77
 
@@ -38,5 +38,3 @@ Las autoridades mencionadas en el Párrafo Primero del presente Artículo, brind
 Lo establecido para los distritos de riego y las unidades de riego será aplicable, en lo conducente, a los distritos de temporal tecnificado.
 
 Artículo reformado DOF 29-04-2004
-
-Capítulo III Uso en Generación de Energía Eléctrica

@@ -15,6 +15,6 @@ source_sha256: 0a9852297132d8972d0c2f77e1b67d614bd296632109065e703bd09254187aea
 
 # Artículo 36
 
-Cuando una persona sea liberada por la autoridad correspondiente, en términos de ley, dentro de los cinco días siguientes será cancelada la información en el Sistema de Consulta; no obstante, quedará en el Registro de manera permanente.
+Cuando una persona sea liberada por la autoridad correspondiente, en términos de ley, dentro de los cinco días siguientes será cancelada la información en el [Sistema de Consulta](articulo-2.md); no obstante, quedará en el [Registro](articulo-2.md) de manera permanente.
 
 El Registro no genera antecedentes penales.

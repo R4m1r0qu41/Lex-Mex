@@ -17,4 +17,4 @@ source_sha256: b3c906475b455176de73da17f4f93a73f295965dc9bcca854b48417c7d4d3cfc
 
 # Artículo 35
 
-Los plazos establecidos en esta Ley para la resolución de una solicitud de permiso de liberación al ambiente de OGMs, sea experimental o en programa piloto, serán prorrogables, en caso de que el interesado no cuente con la autorización expedida por la SSA en los términos de este ordenamiento, siempre y cuando dicha autorización sea requisito para la expedición del permiso respectivo.
+Los plazos establecidos en esta Ley para la resolución de una solicitud de permiso de liberación al ambiente de OGMs, sea experimental o en programa piloto, serán prorrogables, en caso de que el interesado no cuente con la autorización expedida por la [SSA](articulo-3.md) en los términos de este ordenamiento, siempre y cuando dicha autorización sea requisito para la expedición del permiso respectivo.

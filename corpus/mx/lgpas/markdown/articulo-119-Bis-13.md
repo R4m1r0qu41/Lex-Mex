@@ -17,7 +17,7 @@ source_sha256: 160e5e85efddb1749a79f6b154af31711a9b31a5e32bace3c07e2859c2620ecf
 
 # Artículo 119 Bis 13
 
-Será parte del sistema de trazabilidad de los recursos, partes y derivados de origen pesquero o acuícola, para consumo humano, nacionales, de importación o exportación regulados por este capítulo y de acuerdo a lo establecido en normas oficiales mexicanas y demás disposiciones jurídicas que expida la Secretaría, la información que defina respecto de dichos recursos, partes y derivados, entre otros aspectos:
+Será parte del sistema de trazabilidad de los recursos, partes y derivados de origen pesquero o acuícola, para consumo humano, nacionales, de importación o exportación regulados por este capítulo y de acuerdo a lo establecido en normas oficiales mexicanas y demás disposiciones jurídicas que expida la [Secretaría](articulo-4o.md), la información que defina respecto de dichos recursos, partes y derivados, entre otros aspectos:
 
 I. El origen;
 

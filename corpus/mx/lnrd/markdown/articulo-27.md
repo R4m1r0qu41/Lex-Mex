@@ -15,4 +15,4 @@ source_sha256: 0a9852297132d8972d0c2f77e1b67d614bd296632109065e703bd09254187aea
 
 # Artículo 27
 
-La Secretaría implementará los mecanismos de seguridad y de carácter operativo para el debido funcionamiento, autorización, cancelación y consulta del Registro, de conformidad con la presente Ley, la Ley General del Sistema Nacional de Seguridad Pública y otras disposiciones jurídicas que al efecto emita.
+La [Secretaría](articulo-2.md) implementará los mecanismos de seguridad y de carácter operativo para el debido funcionamiento, autorización, cancelación y consulta del [Registro](articulo-2.md), de conformidad con la presente [Ley](articulo-2.md), la Ley General del Sistema Nacional de Seguridad Pública y otras disposiciones jurídicas que al efecto emita.

@@ -17,7 +17,7 @@ source_sha256: d0021bbef2e0c3251d6efdea2c1efd9959ff3f02df4bcd1fc37c1ee7826a72ba
 
 # Artículo 53
 
-Se consideran ilícitas las prácticas monopólicas absolutas, consistentes en los contratos, convenios, arreglos, combinaciones o intercambios de información entre Agentes Económicos que sean competidores actuales o potenciales entre sí, cuyo objeto o efecto sea cualquiera de las siguientes: Párrafo reformado DOF 16-07-2025
+Se consideran ilícitas las prácticas monopólicas absolutas, consistentes en los contratos, convenios, arreglos, combinaciones o intercambios de información entre [Agentes Económicos](articulo-3.md) que sean competidores actuales o potenciales entre sí, cuyo objeto o efecto sea cualquiera de las siguientes: Párrafo reformado DOF 16-07-2025
 
 I. Fijar, elevar, concertar o manipular el precio de venta o compra de bienes o servicios al que son ofrecidos o demandados en los mercados;
 

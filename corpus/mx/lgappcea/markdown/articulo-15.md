@@ -17,4 +17,4 @@ source_sha256: 8d3d1a9b2d2dec12c65695cd5b87d60f76e2f3c64356f73ab6011d7dc40fbe37
 
 # Artículo 15
 
-El titular de la Secretaría recabará del Consejo de Salubridad General la opinión sobre programas y proyectos de investigación científica y de formación de recursos humanos, así como sobre el establecimiento de nuevos estudios profesionales, técnicos, auxiliares y especialidades que se requieran en materia de la condición del espectro autista, con fundamento en lo dispuesto en la Ley General de Salud.
+El titular de la [Secretaría](articulo-3.md) recabará del Consejo de Salubridad General la opinión sobre programas y proyectos de investigación científica y de formación de recursos humanos, así como sobre el establecimiento de nuevos estudios profesionales, técnicos, auxiliares y especialidades que se requieran en materia de la condición del espectro autista, con fundamento en lo dispuesto en la Ley General de Salud.

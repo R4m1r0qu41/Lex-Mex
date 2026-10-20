@@ -1,0 +1,25 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-3",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lppddhp",
+  "source_sha256": "43b274e9565f7bfe9e8d404998a6baf17ac415d624a70cbcde9f1f3b639d56a7",
+  "extracted_text_sha256": "fdc4d27bea70409e0193083c4dd9fab9255b8cb37d81bad84849963903b8f26e",
+  "status": "detected",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:regulation:reg-lppddhp:article:3",
+      "provision_text_sha256": "8e83adadc3ee3c586db912e794e29ef14dafc9eadfc7c4b02efd6c4427b267ab",
+      "method": "established_pass",
+      "fractions": [
+        "I",
+        "II",
+        "III"
+      ],
+      "unread_fractions": [],
+      "term_count": 3
+    }
+  ],
+  "imports": [],
+  "term_count": 3,
+  "usage_count": 91
+}

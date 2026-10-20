@@ -17,4 +17,4 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 315
 
-El Instituto reconocerá a las denominaciones de origen o indicaciones geográficas protegidas en el extranjero, en términos de los Tratados Internacionales y conforme a lo previsto en el presente Capítulo.
+El [Instituto](articulo-4.md) reconocerá a las denominaciones de origen o indicaciones geográficas protegidas en el extranjero, en términos de los [Tratados Internacionales](articulo-4.md) y conforme a lo previsto en el presente Capítulo.

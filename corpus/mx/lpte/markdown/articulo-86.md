@@ -17,4 +17,4 @@ source_sha256: c24aa3a57883383635d5271683dd76e561f21852328f0e89f6bf1c2a09aa2d41
 
 # Artículo 86
 
-La Secretaría, en colaboración con la Secretaría de Economía y el apoyo técnico de la CONUEE, debe diseñar y establecer un programa para asesorar y apoyar a las micros, pequeñas y medianas empresas en la implementación de medidas de Eficiencia Energética, informar sobre los beneficios que ésta conlleva, e identificar las opciones de financiamiento para que éstas realicen mejoras de Eficiencia Energética.
+La [Secretaría](articulo-3.md), en colaboración con la Secretaría de Economía y el apoyo técnico de la [CONUEE](articulo-3.md), debe diseñar y establecer un programa para asesorar y apoyar a las micros, pequeñas y medianas empresas en la implementación de medidas de [Eficiencia Energética](articulo-3.md), informar sobre los beneficios que ésta conlleva, e identificar las opciones de financiamiento para que éstas realicen mejoras de Eficiencia Energética.

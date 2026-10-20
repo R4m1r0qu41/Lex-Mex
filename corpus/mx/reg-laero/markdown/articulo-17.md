@@ -15,11 +15,11 @@ source_sha256: ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776
 
 # Artículo 17
 
-El interesado en obtener un permiso para administrar, explotar, operar y, en su caso, construir un aeródromo de servicio particular, debe presentar solicitud por escrito a la Secretaría, precisando lo señalado en el artículo [8](articulo-8.md) de este Reglamento y acompañar:
+El interesado en obtener un permiso para administrar, explotar, operar y, en su caso, construir un aeródromo de servicio particular, debe presentar solicitud por escrito a la [Secretaría](articulo-2.md), precisando lo señalado en el artículo [8](articulo-8.md) de este Reglamento y acompañar:
 
 I. Por lo que respecta a su capacidad jurídica:
 
-a) Tratándose de persona física, acta de nacimiento e identificación oficial; en caso de persona moral, escritura constitutiva y sus modificaciones; b) Declaración escrita, bajo protesta de decir verdad, en la que el peticionario exprese que no se encuentra dentro de los supuestos del artículo [22](../../laero/markdown/articulo-22.md) de la Ley. En caso de ser persona moral, deberán presentarla el director general o su equivalente, y los miembros del órgano de administración;
+a) Tratándose de persona física, acta de nacimiento e identificación oficial; en caso de persona moral, escritura constitutiva y sus modificaciones; b) Declaración escrita, bajo protesta de decir verdad, en la que el peticionario exprese que no se encuentra dentro de los supuestos del artículo [22](../../laero/markdown/articulo-22.md) de la [Ley](articulo-2.md). En caso de ser persona moral, deberán presentarla el director general o su equivalente, y los miembros del órgano de administración;
 
 II. Los documentos que acrediten la posibilidad de uso de suelo de los terrenos para utilizarlos como aeródromo civil, y
 

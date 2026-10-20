@@ -17,4 +17,4 @@ source_sha256: b34326588bd6e7519e33411d3658239e3aefb56cef0fae5d775bc894af64a565
 
 # Artículo 78
 
-La Secretaría, en coordinación con la Secretaría de Salud, emitirá las normas oficiales mexicanas para la caracterización de los sitios contaminados y evaluará los riesgos al ambiente y la salud que de ello deriven, para determinar, en función del riesgo, las acciones de remediación que procedan.
+La [Secretaría](articulo-5.md), en coordinación con la Secretaría de Salud, emitirá las normas oficiales mexicanas para la caracterización de los sitios contaminados y evaluará los riesgos al ambiente y la salud que de ello deriven, para determinar, en función del riesgo, las acciones de remediación que procedan.

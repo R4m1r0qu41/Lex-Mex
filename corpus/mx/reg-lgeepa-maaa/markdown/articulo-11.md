@@ -17,10 +17,10 @@ source_sha256: d50b44df321cf8be51375c07cee5dbcf03eac76df1cd11ab4bd777c9fce0f789
 
 # Artículo 11
 
-La obtención de un Certificado comprenderá las siguientes etapas:
+La obtención de un [Certificado](articulo-2.md) comprenderá las siguientes etapas:
 
 I. Solicitud de Certificado;
 
-II. Presentación del Informe de Auditoría Ambiental; REGLAMENTO DE LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE EN MATERIA DE AUTORREGULACIÓN Y AUDITORÍAS AMBIENTALES III. Plan de Acción, en su caso, y
+II. Presentación del [Informe de Auditoría Ambiental](articulo-2.md); III. [Plan de Acción](articulo-2.md), en su caso, y
 
 IV. Certificación.

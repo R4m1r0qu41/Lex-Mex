@@ -17,6 +17,6 @@ source_sha256: 703f083c0baedfb4ef5ce8b62c78684d8ee0073f393321d476d75ebe4878e1d5
 
 # Artículo 44
 
-Las Instituciones Educativas son organismos integrantes del Sistema que tienen como misión formar, capacitar y actualizar al personal del Ejército, Fuerza Aérea y Guardia Nacional, y se clasifican en Colegios, Escuelas, Centros de Estudios, Unidades-Escuelas, Institutos y otras Instituciones Educativas que coadyuven al cumplimiento de su misión.
+Las [Instituciones Educativas](articulo-3.md) son organismos integrantes del [Sistema](articulo-3.md) que tienen como misión formar, capacitar y actualizar al personal del Ejército, Fuerza Aérea y Guardia Nacional, y se clasifican en Colegios, Escuelas, Centros de Estudios, Unidades-Escuelas, Institutos y otras Instituciones Educativas que coadyuven al cumplimiento de su misión.
 
 Artículo reformado DOF 01-02-2023, 20-03-2026

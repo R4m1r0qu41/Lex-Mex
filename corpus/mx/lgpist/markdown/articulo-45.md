@@ -17,7 +17,7 @@ source_sha256: 1e7d06c67fac4c8a100d2bb2845cc765fba5e8ce09d27d30b2b44432ffeb8c41
 
 # Artículo 45
 
-El dictamen médico-psicológico basado en el Protocolo de Estambul elaborado por organismos nacionales especializados en la protección de los derechos humanos, o el peritaje independiente en su caso, se integrará como medio de prueba en la carpeta, siempre y cuando se satisfagan los requisitos establecidos en esta Ley, en la normatividad que los rige y en la legislación procesal penal aplicable, debiendo contener, cuando menos: a) Los antecedentes médicos y psicológicos, así como la descripción por la persona examinada de los actos de violencia;
+El dictamen médico-psicológico basado en el [Protocolo de Estambul](articulo-5.md) elaborado por organismos nacionales especializados en la protección de los derechos humanos, o el peritaje independiente en su caso, se integrará como medio de prueba en la carpeta, siempre y cuando se satisfagan los requisitos establecidos en esta [Ley](articulo-5.md), en la normatividad que los rige y en la legislación procesal penal aplicable, debiendo contener, cuando menos: a) Los antecedentes médicos y psicológicos, así como la descripción por la persona examinada de los actos de violencia;
 
 b) El estado de salud actual, físico y mental, o la presencia de síntomas;
 

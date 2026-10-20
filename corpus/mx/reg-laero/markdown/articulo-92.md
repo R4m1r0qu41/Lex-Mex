@@ -15,7 +15,7 @@ source_sha256: ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776
 
 # Artículo 92
 
-El transportista aéreo que solicite la autorización de la Secretaría para operar con horarios, itinerarios o planes de vuelo en horas fuera del horario de operación de un aeródromo, deberá acompañar por escrito el consentimiento del administrador aeroportuario que corresponda.
+El transportista aéreo que solicite la autorización de la [Secretaría](articulo-2.md) para operar con horarios, itinerarios o planes de vuelo en horas fuera del horario de operación de un aeródromo, deberá acompañar por escrito el consentimiento del administrador aeroportuario que corresponda.
 
 La Secretaría escuchará la opinión del comandante de aeródromo, así como la recomendación del comité de operación y horarios, de las autoridades competentes y del órgano u organismo prestador de los servicios a la navegación aérea y resolverá lo conducente.
 

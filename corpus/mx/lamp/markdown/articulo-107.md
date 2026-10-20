@@ -29,7 +29,9 @@ b) Las leyes federales;
 
 c) Las constituciones de los Estados y el Estatuto de Gobierno del Distrito Federal;
 
-d) Las leyes de los Estados y de la Ciudad de México; Inciso reformado DOF 13-03-2025 LEY DE AMPARO, REGLAMENTARIA DE LOS ARTÍCULOS [103](../../cpeum/markdown/articulo-103.md) Y [107](../../cpeum/markdown/articulo-107.md) DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS e) Los reglamentos federales;
+d) Las leyes de los Estados y de la Ciudad de México; Inciso reformado DOF 13-03-2025
+
+e) Los reglamentos federales;
 
 f) Los reglamentos locales; y
 
@@ -53,7 +55,7 @@ En los procedimientos de remate la última resolución es aquélla que en forma 
 
 V. Contra actos en juicio cuyos efectos sean de imposible reparación, entendiéndose por ellos los que afecten materialmente derechos sustantivos tutelados en la Constitución Política de los Estados Unidos Mexicanos y en los tratados internacionales de los que el Estado Mexicano sea parte;
 
-VI. Contra actos dentro o fuera de juicio que afecten a personas extrañas; LEY DE AMPARO, REGLAMENTARIA DE LOS ARTÍCULOS [103](../../cpeum/markdown/articulo-103.md) Y [107](../../cpeum/markdown/articulo-107.md) DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS VII. Contra las omisiones del o la Ministerio Público en la investigación de los delitos, así como las resoluciones de reserva, no ejercicio, desistimiento de la acción penal, o por suspensión de procedimiento cuando no esté satisfecha la reparación del daño; Fracción reformada DOF 14-07-2014, 13-03-2025
+VI. Contra actos dentro o fuera de juicio que afecten a personas extrañas; VII. Contra las omisiones del o la Ministerio Público en la investigación de los delitos, así como las resoluciones de reserva, no ejercicio, desistimiento de la acción penal, o por suspensión de procedimiento cuando no esté satisfecha la reparación del daño; Fracción reformada DOF 14-07-2014, 13-03-2025
 
 VIII. Contra actos de autoridad que determinen inhibir o declinar la competencia o el conocimiento de un asunto, y Fracción reformada DOF 14-07-2014
 

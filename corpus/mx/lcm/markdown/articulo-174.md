@@ -23,6 +23,6 @@ I. El [Comerciante](articulo-4o.md) y los [Acreedores Reconocidos](articulo-4o.m
 
 II. El Comerciante y un grupo de Acreedores Reconocidos que representen al menos la mitad del monto total reconocido designen de común acuerdo a persona física o moral que no figure en el registro del Instituto y que deseen que funja como síndico, en cuyo caso deberán convenir con él sus honorarios. Los acreedores subordinados a los que se refiere la fracción II del artículo [222 Bis](articulo-222-Bis.md), incluyendo a las personas a que se refieren los artículos [15](articulo-15.md), fracción I, y [117](articulo-117.md), fracción II, no participarán en la votación a que se refiere esta fracción. Fracción reformada DOF 10-01-2014
 
-En tal supuesto, el Juez lo hará del conocimiento del Instituto al día siguiente quedando sin efecto la designación hecha por el Instituto. El síndico así designado asumirá todos los derechos y las obligaciones que esta Ley atribuye a los síndicos.
+En tal supuesto, el Juez lo hará del conocimiento del Instituto al día siguiente quedando sin efecto la designación hecha por el Instituto. El síndico así designado asumirá todos los derechos y las obligaciones que esta [Ley](articulo-4o.md) atribuye a los síndicos.
 
 En caso de sustitución del síndico, el sustituido deberá observar lo dispuesto para el conciliador en el [artículo anterior](articulo-173.md).

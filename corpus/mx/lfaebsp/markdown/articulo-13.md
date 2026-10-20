@@ -17,7 +17,7 @@ source_sha256: 269e72195414406bcbd3e90ac40ec26e031a9ea519316c44ee30bdfdf3163059
 
 # Artículo 13
 
-Respecto de los Bienes, activos o empresas, el Instituto y, en su caso, los depositarios, comodatarios, interventores, liquidadores o administradores que hayan designado tendrán, además de las obligaciones previstas en esta Ley, las que señala el Código Civil Federal para el depositario, comodatario y, en general, para los usufructuarios. Párrafo reformado DOF 09-08-2019
+Respecto de los [Bienes](articulo-2o.md), activos o empresas, el [Instituto](articulo-2o.md) y, en su caso, los depositarios, comodatarios, interventores, liquidadores o administradores que hayan designado tendrán, además de las obligaciones previstas en esta Ley, las que señala el Código Civil Federal para el depositario, comodatario y, en general, para los usufructuarios. Párrafo reformado DOF 09-08-2019
 
 Para la debida conservación y, en su caso, buen funcionamiento de los Bienes, activos o empresas, incluyendo el de los inmuebles destinados a actividades agropecuarias, empresas, negociaciones o establecimientos, el Instituto tendrá todas las facultades y obligaciones de un mandatario para pleitos y cobranzas, actos de administración, para otorgar y suscribir títulos de crédito y, en los casos previstos en esta Ley, actos de dominio. Párrafo reformado DOF 09-08-2019
 

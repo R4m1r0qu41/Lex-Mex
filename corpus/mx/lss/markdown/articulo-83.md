@@ -17,7 +17,7 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 83
 
-Los patrones deben cooperar con el Instituto en la prevención de los riesgos de trabajo, en los términos siguientes:
+Los patrones deben cooperar con el [Instituto](articulo-5-A.md) en la prevención de los riesgos de trabajo, en los términos siguientes:
 
 I. Facilitarle la realización de estudios e investigaciones;
 

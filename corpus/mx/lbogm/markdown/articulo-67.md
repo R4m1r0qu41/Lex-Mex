@@ -17,7 +17,7 @@ source_sha256: b3c906475b455176de73da17f4f93a73f295965dc9bcca854b48417c7d4d3cfc
 
 # Artículo 67
 
-Los interesados a los que la Secretaría correspondiente les haya negado el permiso solicitado, podrán pedir a dicha Secretaría la reconsideración de la resolución respectiva, cuando se considere que:
+Los interesados a los que la [Secretaría](articulo-3.md) correspondiente les haya negado el permiso solicitado, podrán pedir a dicha Secretaría la reconsideración de la resolución respectiva, cuando se considere que:
 
 I. Se ha producido un cambio en las circunstancias que puede influir en el resultado del estudio de los posibles riesgos en el cual se basó la resolución, o
 

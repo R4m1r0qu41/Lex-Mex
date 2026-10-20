@@ -18,11 +18,11 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 266
 
-En adición a lo señalado en los artículos 63 y 70 de la Ley, así como en los estatutos sociales de la Federación o Confederación, el Contralor Normativo tendrá, según corresponda, las atribuciones siguientes:
+En adición a lo señalado en los artículos 63 y 70 de la [Ley](articulo-1.md), así como en los estatutos sociales de la [Federación](articulo-1.md) o [Confederación](articulo-1.md), el [Contralor Normativo](articulo-1.md) tendrá, según corresponda, las atribuciones siguientes:
 
-I. Revisar el funcionamiento de la Sociedad Financiera Popular, incluyendo el desempeño de directivos y funcionarios.
+I. Revisar el funcionamiento de la [Sociedad](articulo-1.md) Financiera Popular, incluyendo el desempeño de directivos y funcionarios.
 
-II. Vigilar que los libros de actas de la asamblea general de afiliadas, Consejo de Administración, de las sesiones de que se trate, se lleven adecuadamente y conforme a las políticas, en su caso, aprobadas para ello.
+II. Vigilar que los libros de actas de la asamblea general de afiliadas, [Consejo de Administración](articulo-1.md), de las sesiones de que se trate, se lleven adecuadamente y conforme a las políticas, en su caso, aprobadas para ello.
 
 III. Contar con voto de calidad en su carácter de presidente del Consejo de Vigilancia;
 

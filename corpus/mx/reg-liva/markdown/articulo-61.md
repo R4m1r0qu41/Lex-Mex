@@ -17,4 +17,4 @@ source_sha256: 4f46c1f92fb5682281a7679836e517de95975786fa5326848a331c9eb946cc5f
 
 # Artículo 61
 
-Para los efectos del artículo [29](../../liva/markdown/articulo-29.md), último párrafo de la Ley, se considera que los servicios personales independientes prestados por residentes en el país, son aprovechados en el extranjero por un residente en el extranjero sin establecimiento en el país, cuando dichos servicios sean contratados y pagados por la persona residente en el extranjero y se cumplan los requisitos previstos en el segundo párrafo del artículo [58](articulo-58.md) de este Reglamento.
+Para los efectos del artículo [29](../../liva/markdown/articulo-29.md), último párrafo de la [Ley](articulo-1.md), se considera que los servicios personales independientes prestados por residentes en el país, son aprovechados en el extranjero por un residente en el extranjero sin establecimiento en el país, cuando dichos servicios sean contratados y pagados por la persona residente en el extranjero y se cumplan los requisitos previstos en el segundo párrafo del artículo [58](articulo-58.md) de este Reglamento.

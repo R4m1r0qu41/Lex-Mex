@@ -17,7 +17,7 @@ source_sha256: 0305c9a7ba90c8d0bbe973be2a134a650976ce5d25c304458cb0fd5401b8ddde
 
 # Artículo 16
 
-Las personas que incurran en las causales previstas en el primer párrafo del artículo [15](articulo-15.md), serán sancionadas con la suspensión de su inscripción en el Padrón y no podrán quedar sujetas a los beneficios y facilidades administrativas que se otorguen en el marco de la presente Ley por el plazo de un año, contado a partir de que sea firme la resolución que determine la aplicación de la sanción.
+Las personas que incurran en las causales previstas en el primer párrafo del artículo [15](articulo-15.md), serán sancionadas con la suspensión de su inscripción en el [Padrón](articulo-3.md) y no podrán quedar sujetas a los beneficios y facilidades administrativas que se otorguen en el marco de la presente [Ley](articulo-3.md) por el plazo de un año, contado a partir de que sea firme la resolución que determine la aplicación de la sanción.
 
 Las personas que sean sancionadas en los términos de la presente Ley podrán ser incluidas de nueva cuenta en el Padrón, una vez que se regularicen en el cumplimiento de sus obligaciones regulatorias y fiscales que, en su caso, hayan incumplido; causando baja por cinco años en el caso de incurrir de nueva vez en cualquier causal debidamente acreditada por la autoridad verificadora.
 

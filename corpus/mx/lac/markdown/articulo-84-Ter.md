@@ -13,9 +13,11 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAC.pdf
 source_sha256: 07199878c4f94748c983998437198eb7c645ad76967c444dfe26d50a535d23ae
 ---
 
+> Capítulo XVIII
+
 # Artículo 84 Ter
 
-La Agencia Federal de Aviación Civil dará seguimiento a las irregularidades detectadas durante el ejercicio de las actividades de vigilancia y verificación.
+La [Agencia Federal de Aviación Civil](articulo-2.md) dará seguimiento a las irregularidades detectadas durante el ejercicio de las actividades de vigilancia y verificación.
 
 La Agencia Federal de Aviación Civil, para la aplicación de sanciones a las personas infractoras, instaurará, sustanciará y resolverá los procedimientos administrativos que correspondan, en términos de lo dispuesto en esta Ley, sus reglamentos, la Ley Federal de Procedimiento Administrativo y demás disposiciones aplicables.
 

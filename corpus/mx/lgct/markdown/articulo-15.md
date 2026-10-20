@@ -23,6 +23,6 @@ I. Mantener un anuncio situado al interior del establecimiento con las leyendas 
 
 II. Exigir a la persona que se presente a adquirir productos del tabaco que acredite su mayoría de edad con identificación oficial con fotografía, sin la cual no podrá realizarse lo anterior;
 
-III. Exhibir en los establecimientos las leyendas de advertencia, imágenes y pictogramas autorizados por la Secretaría, y IV. Las demás referentes al comercio, suministro, distribución y venta de productos del tabaco establecidos en esta Ley, en la Ley General de Salud, y en todas las disposiciones aplicables.
+III. Exhibir en los establecimientos las leyendas de advertencia, imágenes y pictogramas autorizados por la [Secretaría](articulo-6.md), y IV. Las demás referentes al comercio, suministro, distribución y venta de productos del tabaco establecidos en esta [Ley](articulo-6.md), en la Ley General de Salud, y en todas las disposiciones aplicables.
 
 El presente artículo se sujetará a lo establecido en los reglamentos correspondientes y demás disposiciones aplicables.

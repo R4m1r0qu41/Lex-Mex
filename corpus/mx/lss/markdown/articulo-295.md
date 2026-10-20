@@ -17,6 +17,6 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 295
 
-Las controversias entre los asegurados o sus beneficiarios y el Instituto sobre las prestaciones que esta Ley otorga, deberán tramitarse ante los Tribunales Federales en materia laboral, en tanto que las que se presenten entre el Instituto y los patrones y demás sujetos obligados, se tramitarán ante el Tribunal Federal de Justicia Administrativa.
+Las controversias entre los asegurados o sus beneficiarios y el [Instituto](articulo-5-A.md) sobre las prestaciones que esta [Ley](articulo-5-A.md) otorga, deberán tramitarse ante los Tribunales Federales en materia laboral, en tanto que las que se presenten entre el Instituto y los patrones y demás sujetos obligados, se tramitarán ante el Tribunal Federal de Justicia Administrativa.
 
 Artículo reformado DOF 20-12-2001, 01-05-2019

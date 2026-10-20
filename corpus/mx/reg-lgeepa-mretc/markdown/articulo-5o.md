@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGEEPA_MRETC_311
 source_sha256: 71c334347de911b670b7e920a44db19f2555f611203ec25d227733687972f424
 ---
 
+> Capítulo II · Sección I
+
 # Artículo 5o
 
-La información que se integre a la Base de datos del Registro que presenten los establecimientos sujetos a reporte de competencia federal, será actualizada con los datos correspondientes a sus emisiones, transferencias de contaminantes y sustancias sujetas a reporte de competencia federal.
+La información que se integre a la [Base de datos](articulo-3o.md) del [Registro](articulo-3o.md) que presenten los establecimientos sujetos a reporte de competencia federal, será actualizada con los datos correspondientes a sus emisiones, transferencias de contaminantes y sustancias sujetas a reporte de competencia federal.

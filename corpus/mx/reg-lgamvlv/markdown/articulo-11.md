@@ -17,7 +17,7 @@ source_sha256: 71ee875c26fc6a1024ea9481ca0690721959514689d860112c3093f0176dfcfb
 
 # Artículo 11
 
-Para la ejecución del Modelo de Prevención, se tomarán en cuenta los siguientes aspectos:
+Para la ejecución del [Modelo](articulo-2.md) de Prevención, se tomarán en cuenta los siguientes aspectos:
 
 I. Niveles del Modelo:
 

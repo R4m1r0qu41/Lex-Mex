@@ -17,7 +17,7 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 286-H
 
-Los nombramientos del personal a que se refiere este Capítulo, correspondiente a los dos niveles jerárquicos inferiores al Director General y los que representen al Instituto en la circunscripción territorial que se establezca en el reglamento respectivo, deberán recaer en personas que reúnan los siguientes requisitos:
+Los nombramientos del personal a que se refiere este Capítulo, correspondiente a los dos niveles jerárquicos inferiores al Director General y los que representen al [Instituto](articulo-5-A.md) en la circunscripción territorial que se establezca en el reglamento respectivo, deberán recaer en personas que reúnan los siguientes requisitos:
 
 I. Ser de reconocida honorabilidad y calidad moral;
 

@@ -17,7 +17,7 @@ source_sha256: c78882a0177403ee04cd38dd09fa1657dc221b7f6827ddacf251c699ede867e4
 
 # Artículo 73 OCTIES
 
-La Agencia Federal de Aviación Civil debe establecer un sistema de certificación que asegure que las personas instructoras en seguridad de la aviación civil, así como las que aplican los controles de seguridad, estén calificadas en las competencias y habilidades requeridas por las disposiciones técnico-administrativas correspondientes.
+La [Agencia Federal de Aviación Civil](articulo-2.md) debe establecer un sistema de certificación que asegure que las personas instructoras en seguridad de la aviación civil, así como las que aplican los controles de seguridad, estén calificadas en las competencias y habilidades requeridas por las disposiciones técnico-administrativas correspondientes.
 
 Las personas concesionarias, permisionarias, asignatarias y operadoras aeroportuarias de aeródromos civiles deben asegurarse que las personas que implementen los controles de seguridad estén certificadas, de conformidad con los requisitos del sistema de certificación establecido por la Agencia Federal de Aviación Civil.
 

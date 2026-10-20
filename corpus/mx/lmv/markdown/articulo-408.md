@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título XV · Capítulo V
+
 # Artículo 408
 
 Las notificaciones por medios electrónicos podrán realizarse siempre y cuando el interesado así lo haya aceptado o solicitado expresamente por escrito a las autoridades financieras, a través de los sistemas automatizados y con los mecanismos de seguridad que las mismas establezcan.

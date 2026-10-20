@@ -17,6 +17,6 @@ source_sha256: d0021bbef2e0c3251d6efdea2c1efd9959ff3f02df4bcd1fc37c1ee7826a72ba
 
 # Artículo 137
 
-Las facultades de la Comisión para iniciar los procedimientos que pudieran derivar en responsabilidad e imposición de sanciones de conformidad con esta Ley, se extinguen en un plazo de diez años contados a partir de la fecha en que se realizó la concentración ilícita o no autorizada, o en otros casos, a partir de que cesó la conducta prohibida por esta Ley.
+Las facultades de la [Comisión](articulo-3.md) para iniciar los procedimientos que pudieran derivar en responsabilidad e imposición de sanciones de conformidad con esta Ley, se extinguen en un plazo de diez años contados a partir de la fecha en que se realizó la concentración ilícita o no autorizada, o en otros casos, a partir de que cesó la conducta prohibida por esta Ley.
 
 Artículo reformado DOF 16-07-2025

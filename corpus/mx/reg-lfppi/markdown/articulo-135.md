@@ -17,4 +17,4 @@ source_sha256: 51dd3b9347aab0e63387e02f689edd4fa3ea43a93933a0027f9a9977fffba83d
 
 # Artículo 135
 
-Para efectos del artículo [280](../../lfppi/markdown/articulo-280.md) de la Ley, la solicitud de transformación deberá cumplir con los requisitos establecidos en dicho ordenamiento y este Reglamento para la figura en la cual se pretenda transformar la solicitud inicial.
+Para efectos del artículo [280](../../lfppi/markdown/articulo-280.md) de la Ley, la solicitud de transformación deberá cumplir con los requisitos establecidos en dicho ordenamiento y este [Reglamento](articulo-2.md) para la figura en la cual se pretenda transformar la solicitud inicial.

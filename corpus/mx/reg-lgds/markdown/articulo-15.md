@@ -17,4 +17,4 @@ source_sha256: aca2d65d2eef1b7c26ab431772ce7364305d103f5e4bacc87da02064df005ae3
 
 # Artículo 15
 
-Los programas de la Administración Pública Federal que se deriven del Sistema Nacional de Planeación, relativos al desarrollo social, incluirán, según sea el caso, las materias previstas en los artículos [14](../../lgds/markdown/articulo-14.md) y [19](../../lgds/markdown/articulo-19.md) de la Ley, y atenderán a los grupos y personas identificados en situación de pobreza, marginación y vulnerabilidad.
+Los programas de la Administración Pública Federal que se deriven del Sistema Nacional de Planeación, relativos al desarrollo social, incluirán, según sea el caso, las materias previstas en los artículos [14](../../lgds/markdown/articulo-14.md) y [19](../../lgds/markdown/articulo-19.md) de la [Ley](articulo-3.md), y atenderán a los grupos y personas identificados en situación de pobreza, marginación y vulnerabilidad.

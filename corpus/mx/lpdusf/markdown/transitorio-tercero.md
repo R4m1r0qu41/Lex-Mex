@@ -15,4 +15,4 @@ source_sha256: cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7
 
 # TERCERO
 
-Para los efectos de los artículos [72](articulo-72.md) y [83](articulo-83.md) de esta Ley, las menciones a la Comisión Nacional de Seguros y Fianzas en los artículos 135 y 136 de la Ley General de Instituciones y Sociedades Mutualistas de Seguros, y 93 y 94 de la Ley Federal de Instituciones de Fianzas, se deberán entender referidas a la Comisión Nacional para la Defensa de los Usuarios de Servicios Financieros.
+Para los efectos de los artículos [72](articulo-72.md) y [83](articulo-83.md) de esta Ley, las menciones a la [Comisión Nacional](articulo-2o.md) de Seguros y Fianzas en los artículos 135 y 136 de la Ley General de Instituciones y Sociedades Mutualistas de Seguros, y 93 y 94 de la Ley Federal de Instituciones de Fianzas, se deberán entender referidas a la Comisión Nacional para la Defensa de los [Usuarios](articulo-2o.md) de Servicios Financieros.

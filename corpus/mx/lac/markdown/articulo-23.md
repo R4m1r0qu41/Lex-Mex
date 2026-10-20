@@ -13,13 +13,15 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAC.pdf
 source_sha256: 07199878c4f94748c983998437198eb7c645ad76967c444dfe26d50a535d23ae
 ---
 
+> Capítulo IV · Sección Segunda
+
 # Artículo 23
 
 Los servicios de transporte aéreo no regular, nacional e internacional, incluyen, entre otros, los de fletamento y de taxis aéreos. Párrafo reformado DOF 03-05-2023
 
 En el caso de los servicios de fletamento, los permisionarios deberán observar lo siguiente:
 
-I. Los vuelos o paquetes de vuelos quedan sujetos a autorización previa de la Agencia Federal de Aviación Civil; Fracción reformada DOF 03-05-2023
+I. Los vuelos o paquetes de vuelos quedan sujetos a autorización previa de la [Agencia Federal de Aviación Civil](articulo-2.md); Fracción reformada DOF 03-05-2023
 
 II. Los servicios que presten en ningún caso podrán traducirse o de hecho ser equivalentes a los del transporte aéreo regular;
 

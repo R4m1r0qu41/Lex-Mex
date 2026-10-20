@@ -15,4 +15,4 @@ source_sha256: 716e427a30e9982ccaa0576288aad2ad5305c624b236a0f342b6a87d60b7a9ed
 
 # TERCERO
 
-Todas las referencias que en los ordenamientos jurídicos se hagan al Reglamento de la Ley de Transición Energética, se entienden hechas al presente ordenamiento, en lo que no se opongan a este.
+Todas las referencias que en los ordenamientos jurídicos se hagan al [Reglamento](articulo-5.md) de la [Ley](articulo-5.md) de Transición Energética, se entienden hechas al presente ordenamiento, en lo que no se opongan a este.

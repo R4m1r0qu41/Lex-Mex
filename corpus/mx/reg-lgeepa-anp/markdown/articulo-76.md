@@ -17,7 +17,7 @@ source_sha256: 4e276866fce1638948a6daf1a5c0438fa412554f1a6e0381cbdf7cb300e3db75
 
 # Artículo 76
 
-Una vez que se cuente con el programa de manejo del área protegida, la Secretaría publicará en el Diario Oficial de la Federación y en la Gaceta Ecológica un resumen del mismo, que deberá contener lo siguiente:
+Una vez que se cuente con el programa de manejo del área protegida, la [Secretaría](articulo-3o.md) publicará en el Diario Oficial de la Federación y en la Gaceta Ecológica un resumen del mismo, que deberá contener lo siguiente:
 
 I. Categoría y nombre del área natural protegida;
 

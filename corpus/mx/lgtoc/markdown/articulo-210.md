@@ -25,7 +25,9 @@ II.- La denominación, el objeto y el domicilio de la sociedad emisora; Fracció
 
 III.- El importe del capital pagado de la sociedad emisora y el de su activo y de su pasivo, según el balance que se practique precisamente para efectuar la emisión; Fracción reformada DOF 31-08-1933. Fe de erratas DOF 09-09-1933. Recorrida DOF 30-12-1982
 
-IV.- El importe de la emisión, con especificación del número y del valor nominal de las obligaciones que se emitan; Fracción recorrida DOF 30-12-1982 V.- El tipo de interés pactado; Fracción recorrida DOF 30-12-1982
+IV.- El importe de la emisión, con especificación del número y del valor nominal de las obligaciones que se emitan; Fracción recorrida DOF 30-12-1982
+
+V.- El tipo de interés pactado; Fracción recorrida DOF 30-12-1982
 
 VI.- El término señalado para el pago de interés y de capital y los plazos, condiciones y manera en que las obligaciones han de ser amortizadas; Fracción recorrida DOF 30-12-1982
 

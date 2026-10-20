@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título XVI
+
 # Artículo 417
 
 La información que en los términos de esta Ley y de las disposiciones de carácter general que de ella deriven, deban proporcionar a la [Comisión](articulo-2.md) las emisoras y entidades financieras a que se refiere esta Ley, proveniente de sistemas automatizados, se pondrá a disposición de dicha autoridad por cualquiera de las siguientes formas:

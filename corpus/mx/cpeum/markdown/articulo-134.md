@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf
 source_sha256: ca63a23a4b7444ebdbdad93759fbf46bd14c069e587c5878decf89fc9c12ca8e
 ---
 
+> Título Séptimo
+
 # Artículo 134
 
 Los recursos económicos de que dispongan la Federación, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, se administrarán con eficiencia, eficacia, economía, transparencia y honradez para satisfacer los objetivos a los que estén destinados. Párrafo reformado DOF 07-05-2008, 29-01-2016
@@ -31,10 +33,10 @@ El manejo de recursos económicos federales por parte de las entidades federativ
 
 Los servidores públicos serán responsables del cumplimiento de estas bases en los términos del Título Cuarto de esta Constitución.
 
-Los servidores públicos de la Federación, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, tienen en todo tiempo la obligación de aplicar con imparcialidad los recursos públicos que están bajo su responsabilidad, sin influir en la equidad de la competencia entre los partidos políticos. Párrafo adicionado DOF 13-11-2007. Reformado DOF 29-01-2016 La propaganda, bajo cualquier modalidad de comunicación social, que difundan como tales, los poderes públicos, los órganos autónomos, las dependencias y entidades de la administración pública y cualquier otro ente de los tres órdenes de gobierno, deberá tener carácter institucional y fines informativos, educativos o de orientación social. En ningún caso esta propaganda incluirá nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público. Párrafo adicionado DOF 13-11-2007
+Los servidores públicos de la Federación, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, tienen en todo tiempo la obligación de aplicar con imparcialidad los recursos públicos que están bajo su responsabilidad, sin influir en la equidad de la competencia entre los partidos políticos. Párrafo adicionado DOF 13-11-2007. Reformado DOF 29-01-2016
+
+La propaganda, bajo cualquier modalidad de comunicación social, que difundan como tales, los poderes públicos, los órganos autónomos, las dependencias y entidades de la administración pública y cualquier otro ente de los tres órdenes de gobierno, deberá tener carácter institucional y fines informativos, educativos o de orientación social. En ningún caso esta propaganda incluirá nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público. Párrafo adicionado DOF 13-11-2007
 
 Las leyes, en sus respectivos ámbitos de aplicación, garantizarán el estricto cumplimiento de lo previsto en los dos párrafos anteriores, incluyendo el régimen de sanciones a que haya lugar. Párrafo adicionado DOF 13-11-2007
 
 Artículo reformado DOF 28-12-1982
-
-Título Octavo De las Reformas de la Constitución

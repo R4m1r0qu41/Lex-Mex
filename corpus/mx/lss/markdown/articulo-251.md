@@ -17,7 +17,7 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 251
 
-El Instituto Mexicano del Seguro Social tiene las facultades y atribuciones siguientes: I. Administrar los seguros de riesgos de trabajo, enfermedades y maternidad, invalidez y vida, guarderías y prestaciones sociales, salud para la familia, adicionales y otros, así como prestar los servicios de beneficio colectivo que señala esta Ley; Fracción reformada DOF 20-12-2001
+El [Instituto](articulo-5-A.md) Mexicano del Seguro Social tiene las facultades y atribuciones siguientes: I. Administrar los seguros de riesgos de trabajo, enfermedades y maternidad, invalidez y vida, guarderías y prestaciones sociales, salud para la familia, adicionales y otros, así como prestar los servicios de beneficio colectivo que señala esta [Ley](articulo-5-A.md); Fracción reformada DOF 20-12-2001
 
 II. Satisfacer las prestaciones que se establecen en esta Ley;
 
@@ -55,7 +55,7 @@ XVII. Determinar y hacer efectivo el monto de los capitales constitutivos en los
 
 XVIII. Ordenar y practicar visitas domiciliarias con el personal que al efecto se designe y requerir la exhibición de libros y documentos, a fin de comprobar el cumplimiento de las obligaciones que establece la Ley y demás disposiciones aplicables; Fracción reformada DOF 20-12-2001
 
-XIX. Ordenar y practicar las investigaciones correspondientes en los casos de sustitución patronal y de responsabilidad solidaria previstos en esta Ley y en el Código, y emitir los dictámenes respectivos; Fracción reformada DOF 20-12-2001
+XIX. Ordenar y practicar las investigaciones correspondientes en los casos de sustitución patronal y de responsabilidad solidaria previstos en esta Ley y en el [Código](articulo-5-A.md), y emitir los dictámenes respectivos; Fracción reformada DOF 20-12-2001
 
 XX. Establecer coordinación con las dependencias y entidades de las Administraciones Públicas Federal, Estatales y Municipales, para el cumplimiento de sus objetivos;
 

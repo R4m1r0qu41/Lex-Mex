@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo I
+
 # Artículo 252
 
 Una vez publicado el auto que señala fecha para la celebración de la audiencia preliminar y hasta el dictado de la sentencia definitiva, las promociones de las partes que se encuentren relacionadas con el procedimiento deberán formularse oralmente al inicio de la audiencia respectiva. Las peticiones que no impulsen el procedimiento se harán valer antes del cierre de la audiencia. Cualquier promoción o petición que se presente por escrito en dichas etapas, serán devueltas al interesado, sin necesidad de acuerdo.

@@ -15,7 +15,7 @@ source_sha256: ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776
 
 # Artículo 12
 
-Cuando la Secretaría considere, en términos del último párrafo del artículo [12](../../laero/markdown/articulo-12.md) de la Ley, que se requiere reubicar un aeropuerto en operación, lo notificará por escrito al concesionario, especificando las razones por las que considera necesaria la reubicación. El concesionario contará con un plazo de noventa días hábiles siguientes a la notificación para manifestar lo que a su derecho convenga.
+Cuando la [Secretaría](articulo-2.md) considere, en términos del último párrafo del artículo [12](../../laero/markdown/articulo-12.md) de la [Ley](articulo-2.md), que se requiere reubicar un aeropuerto en operación, lo notificará por escrito al concesionario, especificando las razones por las que considera necesaria la reubicación. El concesionario contará con un plazo de noventa días hábiles siguientes a la notificación para manifestar lo que a su derecho convenga.
 
 La Secretaría resolverá lo conducente dentro de los noventa días hábiles siguientes a que se reciba la respuesta del concesionario, o bien, haya vencido el plazo señalado en el párrafo anterior, lo que ocurra
 

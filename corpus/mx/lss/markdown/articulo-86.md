@@ -17,4 +17,4 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 86
 
-Para tener derecho a las prestaciones consignadas en este capítulo, el asegurado, el pensionado y los beneficiarios deberán sujetarse a las prescripciones y tratamientos médicos indicados por el Instituto.
+Para tener derecho a las prestaciones consignadas en este capítulo, el asegurado, el pensionado y los beneficiarios deberán sujetarse a las prescripciones y tratamientos médicos indicados por el [Instituto](articulo-5-A.md).

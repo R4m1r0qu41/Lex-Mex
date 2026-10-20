@@ -17,10 +17,10 @@ source_sha256: d25fabb2d2e90d9f76028717f83c442d05a4f64024f13461285bda8ebd389a04
 
 # Artículo 66
 
-La Secretaría emitirá lineamientos para establecer:
+La [Secretaría](articulo-3o.md) emitirá lineamientos para establecer:
 
 I. Métodos, procedimientos e instrumentos para la formulación, aplicación, expedición, ejecución, evaluación y modificación de los programas de ordenamiento ecológico;
 
 II. Medidas que promuevan el cumplimiento de las estrategias ecológicas contenidas en los programas de ordenamiento ecológico; y
 
-III. Las demás que fomente la integración y transparencia del Subsistema.
+III. Las demás que fomente la integración y transparencia del [Subsistema](articulo-3o.md).

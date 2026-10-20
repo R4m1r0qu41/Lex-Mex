@@ -22,4 +22,4 @@ Derogado.
 
 Sub Apartado C De la capitalización por riesgo operacional
 
-Artículo 69 Bis. - Las Sociedades Financieras Populares para calcular el requerimiento de capitalización por riesgo operacional, deberán utilizar el método del indicador de negocio de conformidad con el presente Sub Apartado, considerando las operaciones que tengan autorizadas por la Comisión y establecidas en sus estatutos sociales.
+Artículo 69 Bis. - Las [Sociedades](articulo-1.md) Financieras Populares para calcular el requerimiento de capitalización por riesgo operacional, deberán utilizar el método del indicador de negocio de conformidad con el presente Sub Apartado, considerando las operaciones que tengan autorizadas por la Comisión y establecidas en sus estatutos sociales.

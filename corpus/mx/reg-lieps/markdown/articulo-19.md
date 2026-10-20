@@ -17,4 +17,4 @@ source_sha256: cb15a70b51a87cff0f6d329d5e8a97617d71c955e46da65921037a77a83ca5f4
 
 # Artículo 19
 
-Para los efectos del artículo [22](../../lieps/markdown/articulo-22.md) de la Ley, las cantidades acreditables que deben comprobarse en los términos de dicho artículo, serán las que correspondan a los meses en que el valor de los actos o actividades se determine presuntivamente, y siempre que la documentación en que consten éstas reúna los requisitos que establecen la Ley, el Código Fiscal de la Federación y su Reglamento.
+Para los efectos del artículo [22](../../lieps/markdown/articulo-22.md) de la [Ley](articulo-1.md), las cantidades acreditables que deben comprobarse en los términos de dicho artículo, serán las que correspondan a los meses en que el valor de los actos o actividades se determine presuntivamente, y siempre que la documentación en que consten éstas reúna los requisitos que establecen la Ley, el Código Fiscal de la Federación y su Reglamento.

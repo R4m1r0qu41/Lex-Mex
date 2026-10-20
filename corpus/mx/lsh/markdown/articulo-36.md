@@ -17,4 +17,4 @@ source_sha256: 1405f36fd836ff74d059ebe7e50ae439cbb9e5e291a317514667f34a26f72a23
 
 # Artículo 36
 
-Para la revocación de la Asignación para Desarrollo Mixto debe atenderse lo establecido en los artículos [19](articulo-19.md), [20](articulo-20.md) y [21](articulo-21.md) de la presente Ley.
+Para la revocación de la [Asignación para Desarrollo Mixto](articulo-5.md) debe atenderse lo establecido en los artículos [19](articulo-19.md), [20](articulo-20.md) y [21](articulo-21.md) de la presente Ley.

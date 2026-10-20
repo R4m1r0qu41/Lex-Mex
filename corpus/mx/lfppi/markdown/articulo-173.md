@@ -63,7 +63,7 @@ XV.- Los signos, frases, elementos de imagen, oraciones, avisos o nombres comerc
 
 Se entenderán como tales, aquéllos que constituyan indicaciones falsas o engañosas sobre la naturaleza, composición, cualidades o el origen empresarial o gubernamental, de los productos o servicios que pretenden distinguir;
 
-XVI.- Los signos iguales o semejantes en grado de confusión a una marca que el Instituto estime o haya declarado notoriamente conocida en México, en términos del Capítulo III de este Título, para ser aplicadas a cualquier producto o servicio, cuando la marca cuyo registro se solicita pudiese:
+XVI.- Los signos iguales o semejantes en grado de confusión a una marca que el [Instituto](articulo-4.md) estime o haya declarado notoriamente conocida en México, en términos del Capítulo III de este Título, para ser aplicadas a cualquier producto o servicio, cuando la marca cuyo registro se solicita pudiese:
 
 a) Crear confusión o un riesgo de asociación con la persona titular de la marca notoriamente conocida; Inciso reformado DOF 03-04-2026
 
@@ -93,7 +93,7 @@ XXII.- Los signos solicitados de mala fe.
 
 Se entenderá por mala fe, entre otros casos, el haber solicitado el registro de un signo con el propósito de obtener un beneficio o ventaja indebida en perjuicio de su legítimo titular, y Párrafo reformado DOF 03-04-2026
 
-XXIII.- Los signos idénticos o semejantes en grado de confusión a los elementos que formen parte o se vinculen de manera clara al desarrollo del patrimonio cultural, conocimientos y expresiones culturales tradicionales, así como a las manifestaciones asociadas a los mismos y la propiedad intelectual colectiva de los pueblos y comunidades indígenas y afromexicanas, salvo que la solicitud sea presentada por personas integrantes de dichas comunidades, en términos de lo que establezca el Reglamento de esta Ley y previa autorización de la asamblea general comunitaria respectiva. Fracción adicionada DOF 03-04-2026
+XXIII.- Los signos idénticos o semejantes en grado de confusión a los elementos que formen parte o se vinculen de manera clara al desarrollo del patrimonio cultural, conocimientos y expresiones culturales tradicionales, así como a las manifestaciones asociadas a los mismos y la propiedad intelectual colectiva de los pueblos y comunidades indígenas y afromexicanas, salvo que la solicitud sea presentada por personas integrantes de dichas comunidades, en términos de lo que establezca el Reglamento de esta [Ley](articulo-4.md) y previa autorización de la asamblea general comunitaria respectiva. Fracción adicionada DOF 03-04-2026
 
 Lo dispuesto por las fracciones I, II, III, IV, V y VI del presente artículo no resultará aplicable, cuando derivado del uso que se hubiese hecho en el comercio en los productos o servicios para los cuales se solicita la marca, ésta haya adquirido un carácter distintivo en territorio nacional, de conformidad con lo dispuesto por el Reglamento de esta Ley. No se reconocerá que una forma tridimensional ha adquirido distintividad, cuando se solicite proteger únicamente la forma inherente a su naturaleza o funcionalidad.
 

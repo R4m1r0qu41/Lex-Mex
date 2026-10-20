@@ -15,7 +15,7 @@ source_sha256: 0e34f329befed4474eb7bc1bc195ba13bbe188edfbbabc914a44723e62eb9e44
 
 # Séptimo
 
-La Cámara de Diputados realizará las previsiones presupuestales necesarias para el efecto de que la Agencia cuente con el presupuesto necesario para iniciar sus funciones.
+La Cámara de Diputados realizará las previsiones presupuestales necesarias para el efecto de que la [Agencia](articulo-3o.md) cuente con el presupuesto necesario para iniciar sus funciones.
 
 Los recursos humanos, financieros y materiales con que cuenten las unidades administrativas de las dependencias y entidades que estén relacionadas con las funciones que se transfieren o asignan a la Agencia por virtud de este Decreto, se le traspasarán a fin de apoyar el cumplimiento de sus funciones.
 

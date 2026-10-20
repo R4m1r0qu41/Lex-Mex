@@ -17,4 +17,4 @@ source_sha256: ea96e97cbea2fd1919af78b94cd3466ee20a77e05989be2d482d2eb8061618c5
 
 # Artículo 41
 
-Está a cargo de la Secretaría el Registro Público de la Propiedad Federal, en el que se inscribirán los actos jurídicos y administrativos que acrediten la situación jurídica y administrativa de cada inmueble de la Federación, las entidades y las instituciones de carácter federal con personalidad jurídica y patrimonio propios a las que la Constitución Política de los Estados Unidos Mexicanos les otorga autonomía.
+Está a cargo de la [Secretaría](articulo-2.md) el Registro Público de la Propiedad Federal, en el que se inscribirán los actos jurídicos y administrativos que acrediten la situación jurídica y administrativa de cada inmueble de la [Federación](articulo-2.md), las entidades y las instituciones de carácter federal con personalidad jurídica y patrimonio propios a las que la Constitución Política de los Estados Unidos Mexicanos les otorga autonomía.

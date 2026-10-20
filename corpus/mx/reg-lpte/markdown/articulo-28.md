@@ -17,4 +17,4 @@ source_sha256: 716e427a30e9982ccaa0576288aad2ad5305c624b236a0f342b6a87d60b7a9ed
 
 # Artículo 28
 
-La Secretaría, con el apoyo del Consejo, debe realizar un análisis para asegurar que las líneas de acción de los Instrumentos de Planeación del Sector Energético contribuyan a alcanzar los fines últimos de la planeación vinculante del Sector Energético. En dicho análisis se debe garantizar su exhaustividad, coherencia, consistencia y coordinación.
+La [Secretaría](articulo-5.md), con el apoyo del [Consejo](articulo-5.md), debe realizar un análisis para asegurar que las líneas de acción de los [Instrumentos de Planeación del Sector Energético](articulo-5.md) contribuyan a alcanzar los fines últimos de la planeación vinculante del Sector Energético. En dicho análisis se debe garantizar su exhaustividad, coherencia, consistencia y coordinación.

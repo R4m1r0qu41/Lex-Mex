@@ -17,4 +17,4 @@ source_sha256: 71ee875c26fc6a1024ea9481ca0690721959514689d860112c3093f0176dfcfb
 
 # Artículo 63
 
-El Sistema promoverá, por conducto de los Mecanismos para el adelanto de las mujeres, y mediante instrumentos, que las entidades federativas establezcan políticas públicas en materia de violencia contra las mujeres, acordes con el Programa y la Política Nacional Integral.
+El Sistema promoverá, por conducto de los [Mecanismos para el adelanto de las mujeres](articulo-2.md), y mediante instrumentos, que las entidades federativas establezcan políticas públicas en materia de violencia contra las mujeres, acordes con el Programa y la [Política Nacional Integral](articulo-2.md).

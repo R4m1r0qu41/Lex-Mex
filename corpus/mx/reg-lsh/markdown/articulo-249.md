@@ -17,4 +17,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Artículo 249
 
-Por lo que hace a lo establecido en el Título Primero, Capítulo II de la Ley, se debe estar a lo previsto en la Ley de Planeación y Transición Energética y su reglamento, en este reglamento y demás Normatividad en la materia que al efecto emita la Secretaría.
+Por lo que hace a lo establecido en el Título Primero, Capítulo II de la [Ley](articulo-3.md), se debe estar a lo previsto en la Ley de Planeación y Transición Energética y su reglamento, en este reglamento y demás [Normatividad](articulo-3.md) en la materia que al efecto emita la [Secretaría](articulo-3.md).

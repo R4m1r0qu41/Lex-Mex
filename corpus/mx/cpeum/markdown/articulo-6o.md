@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf
 source_sha256: ca63a23a4b7444ebdbdad93759fbf46bd14c069e587c5878decf89fc9c12ca8e
 ---
 
+> Título Primero · Capítulo I
+
 # Artículo 6o
 
 La manifestación de las ideas no será objeto de ninguna inquisición judicial o administrativa, sino en el caso de que ataque a la moral, la vida privada o los derechos de terceros, provoque algún delito, o perturbe el orden público; el derecho de réplica será ejercido en los términos dispuestos por la ley. El derecho a la información será garantizado por el Estado. Párrafo reformado DOF 13-11-2007, 11-06-2013
@@ -25,7 +27,9 @@ Para efectos de lo dispuesto en el presente artículo se observará lo siguiente
 
 A. Para el ejercicio del derecho de acceso a la información, la Federación y las entidades federativas, en el ámbito de sus respectivas competencias, se regirán por los siguientes principios y bases: Párrafo reformado (para quedar como apartado A) DOF 11-06-2013. Reformado DOF 29-01-2016
 
-I. Toda la información en posesión de cualquier autoridad, entidad, órgano y organismo de los Poderes Ejecutivo, Legislativo y Judicial, órganos autónomos, partidos políticos, fideicomisos y fondos públicos, así como de cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito federal, estatal y municipal, es pública y sólo podrá ser reservada temporalmente por razones de interés público y seguridad nacional, en los términos que fijen las leyes. En la interpretación de este derecho deberá prevalecer el principio de máxima publicidad. Los sujetos obligados deberán documentar todo acto que derive del ejercicio de sus facultades, competencias o funciones, la ley determinará los supuestos específicos bajo los cuales procederá la declaración de inexistencia de la información. Fracción reformada DOF 07-02-2014 II. La información que se refiere a la vida privada y los datos personales será protegida en los términos y con las excepciones que fijen las leyes. Para tal efecto, los sujetos obligados contarán con las facultades suficientes para su atención.
+I. Toda la información en posesión de cualquier autoridad, entidad, órgano y organismo de los Poderes Ejecutivo, Legislativo y Judicial, órganos autónomos, partidos políticos, fideicomisos y fondos públicos, así como de cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito federal, estatal y municipal, es pública y sólo podrá ser reservada temporalmente por razones de interés público y seguridad nacional, en los términos que fijen las leyes. En la interpretación de este derecho deberá prevalecer el principio de máxima publicidad. Los sujetos obligados deberán documentar todo acto que derive del ejercicio de sus facultades, competencias o funciones, la ley determinará los supuestos específicos bajo los cuales procederá la declaración de inexistencia de la información. Fracción reformada DOF 07-02-2014
+
+II. La información que se refiere a la vida privada y los datos personales será protegida en los términos y con las excepciones que fijen las leyes. Para tal efecto, los sujetos obligados contarán con las facultades suficientes para su atención.
 
 Por lo que hace a la información relacionada con los datos personales en posesión de particulares, la ley a la que se refiere el artículo [90](articulo-90.md) de esta Constitución determinará la competencia para conocer de los procedimientos relativos a su protección, verificación e imposición de sanciones. Fracción reformada DOF 20-12-2024
 
@@ -45,7 +49,9 @@ Los sujetos obligados se regirán por la ley general en materia de transparencia
 
 El ejercicio de este derecho se regirá por los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad. Párrafo reformado DOF 20-12-2024
 
-La ley establecerá aquella información que se considere reservada o confidencial. Reforma DOF 20-12-2024: Derogó de la fracción los entonces párrafos cuarto, quinto y décimo sexto (antes reformados DOF 29-01-2016) Reforma DOF 20-12-2024: Derogó de la fracción los entonces párrafos séptimo a décimo quinto Fracción adicionada DOF 07-02-2014 Párrafo con fracciones (actual apartado A) adicionado DOF 20-07-2007 B. En materia de radiodifusión y telecomunicaciones:
+La ley establecerá aquella información que se considere reservada o confidencial. Reforma DOF 20-12-2024: Derogó de la fracción los entonces párrafos cuarto, quinto y décimo sexto (antes reformados DOF 29-01-2016) Reforma DOF 20-12-2024: Derogó de la fracción los entonces párrafos séptimo a décimo quinto Fracción adicionada DOF 07-02-2014 Párrafo con fracciones (actual apartado A) adicionado DOF 20-07-2007
+
+B. En materia de radiodifusión y telecomunicaciones:
 
 I. El Estado garantizará a la población su integración a la sociedad de la información y el conocimiento, mediante una política de inclusión digital universal con metas anuales y sexenales.
 

@@ -17,11 +17,11 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 236
 
-A las Sociedades que hayan sido clasificadas en la categoría 2, les serán aplicables las Medidas Correctivas Mínimas siguientes:
+A las Sociedades que hayan sido clasificadas en la categoría 2, les serán aplicables las [Medidas Correctivas Mínimas](articulo-1.md) siguientes:
 
-I. Informar a su Consejo de Administración la categoría en que fue clasificada en un plazo que no deberá exceder de 20 días hábiles, contados a partir de la fecha en que la Sociedad recibió la notificación a la que se refiere el primer párrafo del Artículo [234](articulo-234.md) de las presentes disposiciones.
+I. Informar a su [Consejo de Administración](articulo-1.md) la categoría en que fue clasificada en un plazo que no deberá exceder de 20 días hábiles, contados a partir de la fecha en que la Sociedad recibió la notificación a la que se refiere el primer párrafo del Artículo [234](articulo-234.md) de las presentes disposiciones.
 
-Asimismo, deberá informar a su Consejo de Administración en sesión previamente convocada, las causas que motivaron un deterioro en su Nivel de Capitalización que llevó a la Sociedad a ser clasificada en esta categoría, para lo cual deberá presentar un informe detallado de evaluación integral sobre su situación financiera, que señale el cumplimiento al marco regulatorio e incluya la evolución de los 2 últimos años de los principales indicadores que reflejen el grado de estabilidad y solvencia de la Sociedad, así como las observaciones que, en su caso, le hayan dirigido el Comité de Supervisión Auxiliar y la Comisión.
+Asimismo, deberá informar a su Consejo de Administración en sesión previamente convocada, las causas que motivaron un deterioro en su [Nivel de Capitalización](articulo-1.md) que llevó a la Sociedad a ser clasificada en esta categoría, para lo cual deberá presentar un informe detallado de evaluación integral sobre su situación financiera, que señale el cumplimiento al marco regulatorio e incluya la evolución de los 2 últimos años de los principales indicadores que reflejen el grado de estabilidad y solvencia de la Sociedad, así como las observaciones que, en su caso, le hayan dirigido el [Comité de Supervisión Auxiliar](articulo-1.md) y la [Comisión](articulo-1.md).
 
 La Sociedad de que se trate deberá presentar por escrito al Comité de Supervisión Auxiliar y a la Comisión, el informe citado en el párrafo anterior presentado al Consejo de Administración a más tardar a los 10 días hábiles de celebrada la sesión de dicho órgano.
 

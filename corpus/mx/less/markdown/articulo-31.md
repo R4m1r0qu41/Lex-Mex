@@ -17,7 +17,7 @@ source_sha256: 74f2c47c7a9282194b2972ec1366352d94f03042c6d0c7f10efde018cb9e3bfb
 
 # Artículo 31
 
-Los Organismos del Sector podrán asociarse entre sí para el mejor cumplimiento de sus fines.
+Los [Organismos del Sector](articulo-5o.md) podrán asociarse entre sí para el mejor cumplimiento de sus fines.
 
 Los Organismos del Sector para su mejor funcionamiento podrán integrarse en figuras que faciliten su desarrollo y crecimiento económico, en concordancia con lo que dispongan las normas que les resulten aplicables.
 

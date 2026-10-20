@@ -25,7 +25,7 @@ I. Garantizar la Defensa Exterior y la Seguridad Interior del Estado Mexicano;
 
 II. Optimizar las capacidades administrativas, logísticas, tecnológicas y de ciberdefensa del Ejército, Fuerza Aérea y Guardia Nacional;
 
-III. Impulsar una cultura axiológica con igualdad sustantiva en los Sistemas Educativo y de Adiestramiento Militar;
+III. Impulsar una cultura axiológica con igualdad sustantiva en los [Sistemas](articulo-3.md) Educativo y de Adiestramiento Militar;
 
 IV. Incorporar un liderazgo humanista, visionario, con pensamiento crítico y creativo que fortalezca la moral, la disciplina y el clima organizacional en el Ejército, Fuerza Aérea y Guardia Nacional, y
 

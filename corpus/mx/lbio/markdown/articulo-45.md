@@ -17,4 +17,4 @@ source_sha256: c1870db657a6564bbeb692a1778472db811a920626822de553ff5ca5194f95b4
 
 # Artículo 45
 
-Las controversias que se susciten entre quienes realicen la Producción, importación, exportación, Almacenamiento, Comercialización, Distribución y Expendio al Público de Biocombustibles, y las personas consumidoras, deben ser resueltas de conformidad con las disposiciones aplicables de la Ley Federal de Protección al Consumidor.
+Las controversias que se susciten entre quienes realicen la [Producción](articulo-2.md), importación, exportación, [Almacenamiento](articulo-2.md), [Comercialización](articulo-2.md), [Distribución](articulo-2.md) y [Expendio al Público](articulo-2.md) de [Biocombustibles](articulo-2.md), y las personas consumidoras, deben ser resueltas de conformidad con las disposiciones aplicables de la [Ley](articulo-2.md) Federal de Protección al Consumidor.

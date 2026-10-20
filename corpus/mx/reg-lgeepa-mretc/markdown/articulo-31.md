@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGEEPA_MRETC_311
 source_sha256: 71c334347de911b670b7e920a44db19f2555f611203ec25d227733687972f424
 ---
 
+> Capítulo V
+
 # Artículo 31
 
 La inspección y vigilancia se llevará a cabo por personal autorizado a través de:

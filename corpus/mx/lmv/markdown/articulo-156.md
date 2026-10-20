@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título VI · Capítulo I
+
 # Artículo 156
 
 La disolución y liquidación de las casas de bolsa se regirá por lo dispuesto en los capítulos X y XI de la Ley General de Sociedades Mercantiles, con las excepciones siguientes:

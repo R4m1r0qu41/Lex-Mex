@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Único · Capítulo II
+
 # Artículo 997
 
 Si los bienes embargados precautoriamente no estuvieren valuados anteriormente o no se define en audiencia de cumplimiento su valor por acuerdo de ambas partes, se ordenará el avalúo y en su caso, la venta en almoneda pública, en los términos previstos por este [Código Nacional](articulo-2.md).

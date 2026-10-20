@@ -17,7 +17,7 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 # Artículo 12
 
-Interés superior de la niñez Para efectos de esta Ley el interés superior de la niñez debe entenderse como derecho, principio y norma de procedimiento dirigido a asegurar el disfrute pleno y efectivo de todos sus derechos, en concordancia con la Ley General de los Derechos de Niñas, Niños y Adolescentes.
+Interés superior de la niñez Para efectos de esta [Ley](articulo-3.md) el interés superior de la niñez debe entenderse como derecho, principio y norma de procedimiento dirigido a asegurar el disfrute pleno y efectivo de todos sus derechos, en concordancia con la [Ley General](articulo-3.md) de los Derechos de Niñas, Niños y [Adolescentes](articulo-3.md).
 
 La determinación del interés superior debe apreciar integralmente:
 

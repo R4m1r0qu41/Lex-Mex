@@ -17,4 +17,4 @@ source_sha256: ea96e97cbea2fd1919af78b94cd3466ee20a77e05989be2d482d2eb8061618c5
 
 # Artículo 135
 
-Efectuada la enajenación, transferencia o destrucción, se procederá a la cancelación de registros en inventarios y se dará aviso a la Secretaría de la baja respectiva en los términos que ésta establezca.
+Efectuada la enajenación, transferencia o destrucción, se procederá a la cancelación de registros en inventarios y se dará aviso a la [Secretaría](articulo-2.md) de la baja respectiva en los términos que ésta establezca.

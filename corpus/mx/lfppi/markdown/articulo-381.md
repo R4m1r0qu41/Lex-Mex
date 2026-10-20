@@ -17,4 +17,4 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 381
 
-Si las partes llegan a un acuerdo, de manera previa a la celebración de la segunda reunión de negociación, podrán presentar ante el Instituto el convenio respectivo, debidamente formalizado o, en su caso, exhibirlo el día de la segunda reunión.
+Si las partes llegan a un acuerdo, de manera previa a la celebración de la segunda reunión de negociación, podrán presentar ante el [Instituto](articulo-4.md) el convenio respectivo, debidamente formalizado o, en su caso, exhibirlo el día de la segunda reunión.

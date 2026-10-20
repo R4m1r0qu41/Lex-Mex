@@ -17,6 +17,6 @@ source_sha256: 01b72308e67d46ba6ca8a6b07fb7584c6a74e905ea0c4b5be5c0c0d32a6d817a
 
 # Artículo 53
 
-La Promoción Especial tiene como propósito comprobar la aptitud profesional de las personas con la jerarquía de Subtenientes que acrediten los requisitos señalados para el ascenso a Teniente en el artículo [19](../../larefam/markdown/articulo-19.md) de la Ley.
+La [Promoción](articulo-5.md) Especial tiene como propósito comprobar la aptitud profesional de las personas con la jerarquía de Subtenientes que acrediten los requisitos señalados para el ascenso a Teniente en el artículo [19](../../larefam/markdown/articulo-19.md) de la Ley.
 
 Artículo reformado DOF 20-03-2026

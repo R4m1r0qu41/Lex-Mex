@@ -17,7 +17,7 @@ source_sha256: 0574853d06020030188e8aee1eae5dabb2b476ac630cc52be631a48d2b91adbc
 
 # Artículo 144
 
-Atendiendo a lo dispuesto por la presente Ley, la Ley Federal de Sanidad Vegetal y las demás disposiciones legales y reglamentarías aplicables, la Secretaría coordinadamente con la Secretarías de Salud, de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, y de Economía, participará en la determinación de restricciones arancelarias y no arancelarias relativas a la importación y exportación de materiales peligrosos. Párrafo reformado DOF 09-04-2012
+Atendiendo a lo dispuesto por la presente Ley, la Ley Federal de Sanidad Vegetal y las demás disposiciones legales y reglamentarías aplicables, la [Secretaría](articulo-3o.md) coordinadamente con la Secretarías de Salud, de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, y de Economía, participará en la determinación de restricciones arancelarias y no arancelarias relativas a la importación y exportación de materiales peligrosos. Párrafo reformado DOF 09-04-2012
 
 No podrán otorgarse autorizaciones para la importación de plaguicidas, fertilizantes y demás materiales peligrosos, cuando su uso no esté permitido en el país en el que se hayan elaborado o fabricado.
 

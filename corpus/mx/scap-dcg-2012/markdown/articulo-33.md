@@ -18,7 +18,7 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 33
 
-Los manuales de operación de la Sociedad deberán apegarse como mínimo a los lineamientos, políticas y objetivos establecidos por el Consejo de Administración y en específico a lo siguiente:
+Los manuales de operación de la Sociedad deberán apegarse como mínimo a los lineamientos, políticas y objetivos establecidos por el [Consejo de Administración](articulo-1.md) y en específico a lo siguiente:
 
 I. Manual de control interno.
 
@@ -28,7 +28,7 @@ a) Los objetivos, las políticas y procedimientos de control interno.
 
 b) La estructura organizacional, especificando a los responsables de llevar a cabo las diversas funciones en la Sociedad.
 
-c) Los sistemas de información dentro de la Sociedad, los cuales deberán permitir que la información sobre el estado en que se encuentren los créditos y los depósitos sea completa y oportuna; dicha información deberá estar disponible para el Comité de Supervisión Auxiliar, la Comisión, así como para el personal que se considere autorizado para acceder a dicha información.
+c) Los sistemas de información dentro de la Sociedad, los cuales deberán permitir que la información sobre el estado en que se encuentren los créditos y los depósitos sea completa y oportuna; dicha información deberá estar disponible para el [Comité de Supervisión Auxiliar](articulo-1.md), la [Comisión](articulo-1.md), así como para el personal que se considere autorizado para acceder a dicha información.
 
 d) La descripción de la normatividad interna de la Sociedad, es decir, de los manuales que existan y que se encuentren vigentes, así como su propósito.
 
@@ -46,11 +46,11 @@ Las Sociedades deberán establecer dentro del manual de crédito, metodologías 
 
 i) En su caso, la información que valide la experiencia de ahorro del acreditado.
 
-ii) La experiencia de pago del acreditado, revisando para tal efecto información cuya antigüedad no sea mayor a un mes, obtenida a través de una consulta realizada a alguna Sociedad de Información Crediticia, así como la información con la que cuente la propia Sociedad.
+ii) La experiencia de pago del acreditado, revisando para tal efecto información cuya antigüedad no sea mayor a un mes, obtenida a través de una consulta realizada a alguna [Sociedad de Información Crediticia](articulo-1.md), así como la información con la que cuente la propia Sociedad.
 
 iii) La capacidad de pago a través de los ingresos estimados del probable acreditado, de la relación entre el ingreso del posible deudor y el pago de la obligación y la relación entre el plazo de los créditos y la capacidad de generar recursos; así como del análisis de la totalidad de otros créditos y demás pasivos que el posible deudor tenga con la Sociedad y otras entidades financieras.
 
-iv) En caso de préstamos de liquidez a que se refiere el inciso h) de la fracción I del Artículo 19 de la Ley, la situación financiera de la Sociedad de que se trate y, en general, la información y documentación presentada por el posible acreditado.
+iv) En caso de préstamos de liquidez a que se refiere el inciso h) de la fracción I del Artículo 19 de la [Ley](articulo-1.md), la situación financiera de la Sociedad de que se trate y, en general, la información y documentación presentada por el posible acreditado.
 
 3. El plazo de los créditos se deberá establecer en función de los plazos de los recursos captados.
 
@@ -60,13 +60,13 @@ b) Integración de expedientes de crédito: Las políticas y procedimientos para
 
 1. Identificación del solicitante.
 
-i) Tratándose de préstamos de liquidez a que se refiere el inciso h) de la fracción I del Artículo 19 de la Ley, escrituras constitutivas de la Sociedad acreditada y modificaciones a las mismas, debidamente inscritas en el Registro Público de la Propiedad o de Comercio correspondiente y escrituras de otorgamiento de poderes en favor de las personas que suscriban el o los contratos y títulos de crédito.
+i) Tratándose de préstamos de liquidez a que se refiere el inciso h) de la fracción I del Artículo 19 de la Ley, escrituras constitutivas de la Sociedad acreditada y modificaciones a las mismas, debidamente inscritas en el [Registro](articulo-1.md) Público de la Propiedad o de Comercio correspondiente y escrituras de otorgamiento de poderes en favor de las personas que suscriban el o los contratos y títulos de crédito.
 
 ii) En el caso de personas físicas, identificación oficial vigente con fotografía y firma tanto del acreditado como del aval u obligado solidario. En defecto de lo anterior, copia del acta de nacimiento y comprobantes que permitan conocer la identidad de la persona de que se trate. En su caso, adicionalmente copia del acta de matrimonio.
 
-En el caso de acreditados que representen un “Riesgo Común”, de conformidad con lo establecido en el artículo [193 Bis](articulo-193-Bis.md) de las presentes disposiciones, el expediente que se conforme deberá identificar la pertenencia del Socio al grupo de “Riesgo Común” al que corresponda. En todo caso, las Sociedades deberán establecer las medidas que permitan en todo momento identificar a los integrantes de los grupos de “Riesgo Común” que existan.
+En el caso de acreditados que representen un “Riesgo Común”, de conformidad con lo establecido en el artículo [193 Bis](articulo-193-Bis.md) de las presentes disposiciones, el expediente que se conforme deberá identificar la pertenencia del [Socio](articulo-1.md) al grupo de “Riesgo Común” al que corresponda. En todo caso, las Sociedades deberán establecer las medidas que permitan en todo momento identificar a los integrantes de los grupos de “Riesgo Común” que existan.
 
-2. La solicitud de crédito debidamente requisitada y, en su caso, copia del acta del Consejo de Administración o del Comité de Crédito en la que conste su aprobación, según corresponda.
+2. La solicitud de crédito debidamente requisitada y, en su caso, copia del acta del Consejo de Administración o del [Comité de Crédito](articulo-1.md) en la que conste su aprobación, según corresponda.
 
 3. Tratándose de préstamos de liquidez a que se refiere el inciso h) de la fracción I del Artículo 19 de la Ley, estados financieros internos, así como, en su caso, los últimos estados financieros dictaminados de la Sociedad acreditada, con firma autógrafa del representante legal y con una antigüedad no mayor a 180 días.
 
@@ -74,7 +74,7 @@ En el caso de acreditados que representen un “Riesgo Común”, de conformidad
 
 5. Copia de los contratos y títulos de crédito con los que se haya documentado el crédito.
 
-Los contratos y demás instrumentos jurídicos que documenten las operaciones, deberán ser aprobados por el área jurídica o un responsable designado por el Director o Gerente General, previamente a la celebración de las mismas. Para los créditos comerciales con garantías reales o personales, dicha aprobación deberá expresarse en cada caso, mediante firma en los documentos respectivos.
+Los contratos y demás instrumentos jurídicos que documenten las operaciones, deberán ser aprobados por el área jurídica o un responsable designado por el [Director o Gerente General](articulo-1.md), previamente a la celebración de las mismas. Para los créditos comerciales con garantías reales o personales, dicha aprobación deberá expresarse en cada caso, mediante firma en los documentos respectivos.
 
 6. La documentación que acredite haber formulado ante una Sociedad de Información Crediticia una consulta previa, en términos de lo previsto por el Capítulo III del Título Tercero de las presentes disposiciones, así como la información sobre el historial del acreditado respecto del cumplimiento de sus obligaciones con la Sociedad.
 
@@ -112,7 +112,7 @@ ii) Las condiciones y la autorización de la reestructura o, de ser el caso, del
 
 iii) La información periódica del responsable de la cobranza judicial o extrajudicial del crédito, así como la documentación soporte correspondiente.
 
-11. Tratándose de préstamos de liquidez a que se refiere el Artículo 19, fracción I, inciso h) de la Ley, la evidencia de la aprobación efectuada por el Comité Técnico indicado en el Artículo [18](articulo-18.md) de las presentes disposiciones.
+11. Tratándose de préstamos de liquidez a que se refiere el Artículo 19, fracción I, inciso h) de la Ley, la evidencia de la aprobación efectuada por el [Comité Técnico](articulo-1.md) indicado en el Artículo [18](articulo-18.md) de las presentes disposiciones.
 
 12. Créditos castigados.
 
@@ -140,4 +140,4 @@ Toda reestructuración de crédito deberá realizarse de común acuerdo con el a
 
 Tratándose de los procedimientos de cobranza judicial, el Director o Gerente General designará el o las áreas de negocio que realizarán las funciones correspondientes, las cuales deberán ser independientes de las áreas de crédito.
 
-Igualmente, el manual de crédito deberá contener una sección específica de las políticas y procedimientos para la gestión y otorgamiento de Microcréditos Productivos, las cuales deberán ser congruentes con las aplicables al crédito en general y a los lineamientos mínimos a que se refiere la presente fracción.
+Igualmente, el manual de crédito deberá contener una sección específica de las políticas y procedimientos para la gestión y otorgamiento de [Microcréditos Productivos](articulo-1.md), las cuales deberán ser congruentes con las aplicables al crédito en general y a los lineamientos mínimos a que se refiere la presente fracción.

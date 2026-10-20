@@ -25,4 +25,4 @@ II. Tratándose de poderes otorgados en el extranjero o cualesquiera otros disti
 
 Sin perjuicio de lo anterior, los titulares podrán designar al momento de la celebración del contrato de depósito correspondiente, a la o las personas que podrán representarlos para efectos de lo previsto en este capítulo.
 
-Los Interesados deberán acreditar su identidad de acuerdo con lo que prevé el último párrafo del Artículo [279](articulo-279.md) de las presentes disposiciones.
+Los [Interesados](articulo-1.md) deberán acreditar su identidad de acuerdo con lo que prevé el último párrafo del Artículo [279](articulo-279.md) de las presentes disposiciones.

@@ -15,4 +15,4 @@ source_sha256: e5c0ecb4328043b7090ee5d73e982d6a04410f1330f6fdb350a7a34527eb2e59
 
 # QUINTO
 
-La Secretaría en un plazo no mayor de 180 días publicará la Carta Nacional Pesquera. En tanto ésta no sea publicada, la Secretaría continuará dictando sus resoluciones conforme a la información disponible.
+La [Secretaría](articulo-2o.md) en un plazo no mayor de 180 días publicará la Carta Nacional Pesquera. En tanto ésta no sea publicada, la Secretaría continuará dictando sus resoluciones conforme a la información disponible.

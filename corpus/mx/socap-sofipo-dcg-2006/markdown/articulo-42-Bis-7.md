@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 42 Bis 7
 
-Para la determinación de la PIi en operaciones de factoraje, las Sociedades Financieras Populares identificarán en quién recae el riesgo de crédito; para tales efectos, se considerará al factorado que transmite a la Sociedad Financiera Popular los derechos de crédito que tenga a su favor a la propia Sociedad Financiera Popular factorante y al sujeto obligado al pago de los derechos de crédito correspondientes. En este sentido:
+Para la determinación de la PIi en operaciones de factoraje, las [Sociedades](articulo-1.md) Financieras Populares identificarán en quién recae el riesgo de crédito; para tales efectos, se considerará al factorado que transmite a la Sociedad Financiera Popular los derechos de crédito que tenga a su favor a la propia Sociedad Financiera Popular factorante y al sujeto obligado al pago de los derechos de crédito correspondientes. En este sentido:
 
 I. La PIi corresponde al sujeto obligado al pago de los derechos de crédito, dependiendo del grupo al que pertenezca según lo establecido en el artículo [42 Bis 6](articulo-42-Bis-6.md) de las presentes disposiciones.
 

@@ -17,7 +17,7 @@ source_sha256: bd9ba59ab5016fd7d8737d382113a20e450b188e586925c31a1ef7c2af3f0065
 
 # Artículo 21
 
-Una vez que la Secretaría reciba del extranjero la solicitud de Carta de Naturalización y todos los requisitos señalados en la Ley y el presente Reglamento, se estará a lo siguiente:
+Una vez que la Secretaría reciba del extranjero la solicitud de Carta de Naturalización y todos los requisitos señalados en la [Ley](articulo-2.md) y el presente Reglamento, se estará a lo siguiente:
 
 I.- De conformidad con el artículo [23](../../lnac/markdown/articulo-23.md) de la Ley, la Secretaría en un término de quince días hábiles dará vista a la Secretaría de Gobernación, para que en un término no mayor de cuarenta y cinco días hábiles, contados a partir de la recepción del oficio de petición, emita su opinión respecto de la solicitud de naturalización.
 

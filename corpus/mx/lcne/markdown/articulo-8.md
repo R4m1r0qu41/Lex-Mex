@@ -17,9 +17,9 @@ source_sha256: 7c13fd20564f1e7230268a0943cc226368b24c44886d6738c479f4c42cbe77de
 
 # Artículo 8
 
-En el sector eléctrico, la Comisión tiene las atribuciones siguientes de conformidad con lo señalado en la Ley del Sector Eléctrico:
+En el sector eléctrico, la [Comisión](articulo-6.md) tiene las atribuciones siguientes de conformidad con lo señalado en la Ley del Sector Eléctrico:
 
-I. Emitir la metodología para determinar las tarifas y contraprestaciones del sector y realizar el seguimiento de costos, previa opinión favorable de la Secretaría;
+I. Emitir la metodología para determinar las tarifas y contraprestaciones del sector y realizar el seguimiento de costos, previa opinión favorable de la [Secretaría](articulo-6.md);
 
 II. Evaluar la productividad y eficiencia de la empresa pública del Estado, Comisión Federal de Electricidad;
 

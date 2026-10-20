@@ -17,6 +17,6 @@ source_sha256: 7211b1c71876d2ea4776c11dc1e045ebbb34b7e98b130f16c7864f75f5e90744
 
 # Artículo 42
 
-La Procuraduría auxiliará a la autoridad judicial en la verificación del cumplimiento de las obligaciones a cargo del responsable.
+La [Procuraduría](articulo-2o.md) auxiliará a la autoridad judicial en la verificación del cumplimiento de las obligaciones a cargo del responsable.
 
 Dicha dependencia informará bimestralmente al Juez sobre los avances en el cumplimiento de las sentencias. Las partes podrán manifestar lo que a su derecho convenga respecto al incumplimiento o deficiente ejecución de dicha resolución.

@@ -17,7 +17,7 @@ source_sha256: e5c0ecb4328043b7090ee5d73e982d6a04410f1330f6fdb350a7a34527eb2e59
 
 # Artículo 67
 
-La Secretaría resolverá la solicitud de autorización a que se refiere el [artículo anterior](articulo-66.md), en los términos siguientes:
+La [Secretaría](articulo-2o.md) resolverá la solicitud de autorización a que se refiere el [artículo anterior](articulo-66.md), en los términos siguientes:
 
 I. Para desembarcar productos frescos o enhielados en un plazo de 3 días hábiles, bajo el procedimiento siguiente:
 

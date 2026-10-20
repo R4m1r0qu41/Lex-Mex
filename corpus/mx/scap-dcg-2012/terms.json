@@ -23,6 +23,17 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:auditor-interno",
+    "term": "Auditor Interno",
+    "instrument_id": "urn:lex-mx:federal:regulation:scap-dcg-2012",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1",
+    "fraction": "III",
+    "start_char": 613,
+    "end_char": 1941,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:autenticacion",
     "term": "Autenticación",
     "instrument_id": "urn:lex-mx:federal:regulation:scap-dcg-2012",
@@ -56,6 +67,28 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:ccp",
+    "term": "CCP",
+    "instrument_id": "urn:lex-mx:federal:regulation:scap-dcg-2012",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1",
+    "fraction": "VII",
+    "start_char": 2656,
+    "end_char": 2854,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:cetes",
+    "term": "CETES",
+    "instrument_id": "urn:lex-mx:federal:regulation:scap-dcg-2012",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1",
+    "fraction": "VIII",
+    "start_char": 2854,
+    "end_char": 3359,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:cifrado",
     "term": "Cifrado",
     "instrument_id": "urn:lex-mx:federal:regulation:scap-dcg-2012",
@@ -67,6 +100,116 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:comision",
+    "term": "Comisión",
+    "instrument_id": "urn:lex-mx:federal:regulation:scap-dcg-2012",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1",
+    "fraction": "X",
+    "start_char": 3566,
+    "end_char": 3626,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:comite-de-auditoria",
+    "term": "Comité de Auditoría",
+    "instrument_id": "urn:lex-mx:federal:regulation:scap-dcg-2012",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1",
+    "fraction": "XI",
+    "start_char": 3626,
+    "end_char": 4123,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:comite-de-credito",
+    "term": "Comité de Crédito",
+    "instrument_id": "urn:lex-mx:federal:regulation:scap-dcg-2012",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1",
+    "fraction": "XII",
+    "start_char": 4123,
+    "end_char": 5024,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:comite-de-proteccion-al-ahorro-cooperativo",
+    "term": "Comité de Protección al Ahorro Cooperativo",
+    "instrument_id": "urn:lex-mx:federal:regulation:scap-dcg-2012",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1",
+    "fraction": "XIII",
+    "start_char": 5024,
+    "end_char": 5263,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:comite-de-riesgos",
+    "term": "Comité de Riesgos",
+    "instrument_id": "urn:lex-mx:federal:regulation:scap-dcg-2012",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1",
+    "fraction": "XIV",
+    "start_char": 5263,
+    "end_char": 5418,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:comite-de-supervision-auxiliar",
+    "term": "Comité de Supervisión Auxiliar",
+    "instrument_id": "urn:lex-mx:federal:regulation:scap-dcg-2012",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1",
+    "fraction": "XV",
+    "start_char": 5418,
+    "end_char": 5609,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:comite-tecnico",
+    "term": "Comité Técnico",
+    "instrument_id": "urn:lex-mx:federal:regulation:scap-dcg-2012",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1",
+    "fraction": "XVI",
+    "start_char": 5609,
+    "end_char": 5697,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:consejeros",
+    "term": "Consejeros",
+    "instrument_id": "urn:lex-mx:federal:regulation:scap-dcg-2012",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1",
+    "fraction": "XVII",
+    "start_char": 5697,
+    "end_char": 5814,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:consejo-de-administracion",
+    "term": "Consejo de Administración",
+    "instrument_id": "urn:lex-mx:federal:regulation:scap-dcg-2012",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1",
+    "fraction": "XVIII",
+    "start_char": 5814,
+    "end_char": 6024,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:consejo-de-vigilancia",
+    "term": "Consejo de Vigilancia",
+    "instrument_id": "urn:lex-mx:federal:regulation:scap-dcg-2012",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1",
+    "fraction": "XIX",
+    "start_char": 6024,
+    "end_char": 6225,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:contrasena",
     "term": "Contraseña",
     "instrument_id": "urn:lex-mx:federal:regulation:scap-dcg-2012",
@@ -74,6 +217,39 @@
     "fraction": "XX",
     "start_char": 6225,
     "end_char": 6348,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:cotitular",
+    "term": "Cotitular",
+    "instrument_id": "urn:lex-mx:federal:regulation:scap-dcg-2012",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1",
+    "fraction": "XXI",
+    "start_char": 6348,
+    "end_char": 6438,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:criterios-de-contabilidad",
+    "term": "Criterios de Contabilidad",
+    "instrument_id": "urn:lex-mx:federal:regulation:scap-dcg-2012",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1",
+    "fraction": "XXII",
+    "start_char": 6438,
+    "end_char": 6707,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:cuentas-colectivas",
+    "term": "Cuentas Colectivas",
+    "instrument_id": "urn:lex-mx:federal:regulation:scap-dcg-2012",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1",
+    "fraction": "XXIII",
+    "start_char": 6707,
+    "end_char": 6812,
     "basis": "express_definition"
   },
   {
@@ -111,6 +287,39 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:cuentas-individuales",
+    "term": "Cuentas Individuales",
+    "instrument_id": "urn:lex-mx:federal:regulation:scap-dcg-2012",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1",
+    "fraction": "XXVII",
+    "start_char": 7181,
+    "end_char": 7985,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:cuentas-mancomunadas",
+    "term": "Cuentas Mancomunadas",
+    "instrument_id": "urn:lex-mx:federal:regulation:scap-dcg-2012",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1",
+    "fraction": "XXVIII",
+    "start_char": 7985,
+    "end_char": 8187,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:cuentas-solidarias",
+    "term": "Cuentas Solidarias",
+    "instrument_id": "urn:lex-mx:federal:regulation:scap-dcg-2012",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1",
+    "fraction": "XXIX",
+    "start_char": 8187,
+    "end_char": 8338,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:desbloqueo-de-factores-de-autenticacion",
     "term": "Desbloqueo de Factores de Autenticación",
     "instrument_id": "urn:lex-mx:federal:regulation:scap-dcg-2012",
@@ -118,6 +327,17 @@
     "fraction": "XXX",
     "start_char": 8338,
     "end_char": 8500,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:director-o-gerente-general",
+    "term": "Director o Gerente General",
+    "instrument_id": "urn:lex-mx:federal:regulation:scap-dcg-2012",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1",
+    "fraction": "XXXI",
+    "start_char": 8500,
+    "end_char": 8815,
     "basis": "express_definition"
   },
   {
@@ -139,6 +359,17 @@
     "defining_provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1",
     "fraction": "XXXIII",
     "start_char": 8919,
+    "end_char": 9516,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:esquema-de-cobertura-en-paso-y-medida-(pari-passu)",
+    "term": "Esquema de Cobertura en Paso y Medida (Pari-Passu)",
+    "instrument_id": "urn:lex-mx:federal:regulation:scap-dcg-2012",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1",
+    "fraction": "XXXIII Bis",
+    "start_char": 9516,
     "end_char": 10021,
     "basis": "express_definition"
   },
@@ -166,6 +397,39 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:fondo-de-proteccion",
+    "term": "Fondo de Protección",
+    "instrument_id": "urn:lex-mx:federal:regulation:scap-dcg-2012",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1",
+    "fraction": "XXXVI",
+    "start_char": 11633,
+    "end_char": 11751,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:grabacion",
+    "term": "Grabación",
+    "instrument_id": "urn:lex-mx:federal:regulation:scap-dcg-2012",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1",
+    "fraction": "XXXVII",
+    "start_char": 11751,
+    "end_char": 11989,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:grado-de-inversion",
+    "term": "Grado de Inversión",
+    "instrument_id": "urn:lex-mx:federal:regulation:scap-dcg-2012",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1",
+    "fraction": "XXXVIII",
+    "start_char": 11989,
+    "end_char": 12171,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:identificador-de-usuario",
     "term": "Identificador de Usuario",
     "instrument_id": "urn:lex-mx:federal:regulation:scap-dcg-2012",
@@ -184,6 +448,94 @@
     "fraction": "XL",
     "start_char": 12431,
     "end_char": 12753,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:instrumentos-de-deuda",
+    "term": "Instrumentos de Deuda",
+    "instrument_id": "urn:lex-mx:federal:regulation:scap-dcg-2012",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1",
+    "fraction": "XLI",
+    "start_char": 12753,
+    "end_char": 12963,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:interesado",
+    "term": "Interesado",
+    "instrument_id": "urn:lex-mx:federal:regulation:scap-dcg-2012",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1",
+    "fraction": "XLII",
+    "start_char": 12963,
+    "end_char": 13154,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:institucion-calificadora-de-valores",
+    "term": "Institución Calificadora de Valores",
+    "instrument_id": "urn:lex-mx:federal:regulation:scap-dcg-2012",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1",
+    "fraction": "XLIII",
+    "start_char": 13154,
+    "end_char": 13326,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:regulation:scap-dcg-2012",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1",
+    "fraction": "XLIV",
+    "start_char": 13326,
+    "end_char": 13533,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:ley-de-cooperativas",
+    "term": "Ley de Cooperativas",
+    "instrument_id": "urn:lex-mx:federal:regulation:scap-dcg-2012",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1",
+    "fraction": "XLV",
+    "start_char": 13533,
+    "end_char": 13707,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:medidas-correctivas",
+    "term": "Medidas Correctivas",
+    "instrument_id": "urn:lex-mx:federal:regulation:scap-dcg-2012",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1",
+    "fraction": "XLVI",
+    "start_char": 13707,
+    "end_char": 14936,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:medidas-correctivas-especiales-adicionales",
+    "term": "Medidas Correctivas Especiales Adicionales",
+    "instrument_id": "urn:lex-mx:federal:regulation:scap-dcg-2012",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1",
+    "fraction": "XLVII",
+    "start_char": 14936,
+    "end_char": 15107,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:medidas-correctivas-minimas",
+    "term": "Medidas Correctivas Mínimas",
+    "instrument_id": "urn:lex-mx:federal:regulation:scap-dcg-2012",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1",
+    "fraction": "XLVIII",
+    "start_char": 15107,
+    "end_char": 15304,
     "basis": "express_definition"
   },
   {
@@ -210,13 +562,90 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:microcredito-productivo",
+    "term": "Microcrédito Productivo",
+    "instrument_id": "urn:lex-mx:federal:regulation:scap-dcg-2012",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1",
+    "fraction": "LI",
+    "start_char": 15735,
+    "end_char": 16237,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:miembros-del-comite-de-supervision-auxiliar",
+    "term": "Miembros del Comité de Supervisión Auxiliar",
+    "instrument_id": "urn:lex-mx:federal:regulation:scap-dcg-2012",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1",
+    "fraction": "LIII",
+    "start_char": 16237,
+    "end_char": 16432,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:miembros-del-consejo-de-vigilancia",
+    "term": "Miembros del Consejo de Vigilancia",
+    "instrument_id": "urn:lex-mx:federal:regulation:scap-dcg-2012",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1",
+    "fraction": "LIV",
+    "start_char": 16432,
+    "end_char": 16528,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:nivel-de-capitalizacion",
+    "term": "Nivel de Capitalización",
+    "instrument_id": "urn:lex-mx:federal:regulation:scap-dcg-2012",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1",
+    "fraction": "LV",
+    "start_char": 16528,
+    "end_char": 16728,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:operacion-monetaria",
     "term": "Operación Monetaria",
     "instrument_id": "urn:lex-mx:federal:regulation:scap-dcg-2012",
     "defining_provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1",
     "fraction": "LVI",
     "start_char": 16728,
+    "end_char": 17598,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:proveedor-de-proteccion",
+    "term": "Proveedor de Protección",
+    "instrument_id": "urn:lex-mx:federal:regulation:scap-dcg-2012",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1",
+    "fraction": "LVI Bis",
+    "start_char": 17598,
     "end_char": 17783,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:registro",
+    "term": "Registro",
+    "instrument_id": "urn:lex-mx:federal:regulation:scap-dcg-2012",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1",
+    "fraction": "LVII",
+    "start_char": 17783,
+    "end_char": 17998,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:regulation:scap-dcg-2012",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1",
+    "fraction": "LVIII",
+    "start_char": 17998,
+    "end_char": 18065,
     "basis": "express_definition"
   },
   {
@@ -265,6 +694,28 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:servicios-avanzados-moviles",
+    "term": "Servicios Avanzados Móviles",
+    "instrument_id": "urn:lex-mx:federal:regulation:scap-dcg-2012",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1",
+    "fraction": "LXIII",
+    "start_char": 19389,
+    "end_char": 19646,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:servicios-basicos-moviles-o-pago-movil",
+    "term": "Servicios Básicos Móviles o Pago Móvil",
+    "instrument_id": "urn:lex-mx:federal:regulation:scap-dcg-2012",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1",
+    "fraction": "LXIV",
+    "start_char": 19646,
+    "end_char": 22277,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:servicios-electronicos",
     "term": "Servicios Electrónicos",
     "instrument_id": "urn:lex-mx:federal:regulation:scap-dcg-2012",
@@ -287,6 +738,28 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:siti",
+    "term": "SITI",
+    "instrument_id": "urn:lex-mx:federal:regulation:scap-dcg-2012",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1",
+    "fraction": "LXVII",
+    "start_char": 22662,
+    "end_char": 22902,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:sociedad-o-sociedad-cooperativa-de-ahorro-y-prestamo",
+    "term": "Sociedad o Sociedad Cooperativa de Ahorro y Préstamo",
+    "instrument_id": "urn:lex-mx:federal:regulation:scap-dcg-2012",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1",
+    "fraction": "LXVIII",
+    "start_char": 22902,
+    "end_char": 23107,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:sociedad-cooperativa-de-ahorro-y-prestamo-con-nivel-de-operaciones-basico",
     "term": "Sociedad Cooperativa de Ahorro y Préstamo con Nivel de Operaciones Básico",
     "instrument_id": "urn:lex-mx:federal:regulation:scap-dcg-2012",
@@ -294,6 +767,61 @@
     "fraction": "LXIX",
     "start_char": 23107,
     "end_char": 23315,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:sociedad-de-informacion-crediticia",
+    "term": "Sociedad de Información Crediticia",
+    "instrument_id": "urn:lex-mx:federal:regulation:scap-dcg-2012",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1",
+    "fraction": "LXX",
+    "start_char": 23315,
+    "end_char": 23475,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:socio",
+    "term": "Socio",
+    "instrument_id": "urn:lex-mx:federal:regulation:scap-dcg-2012",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1",
+    "fraction": "LXXI",
+    "start_char": 23475,
+    "end_char": 23659,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:supervision-extra-situ",
+    "term": "Supervisión Extra-situ",
+    "instrument_id": "urn:lex-mx:federal:regulation:scap-dcg-2012",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1",
+    "fraction": "LXXII",
+    "start_char": 23659,
+    "end_char": 24042,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:supervision-in-situ",
+    "term": "Supervisión In-situ",
+    "instrument_id": "urn:lex-mx:federal:regulation:scap-dcg-2012",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1",
+    "fraction": "LXXIII",
+    "start_char": 24042,
+    "end_char": 24441,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:supervisor-auxiliar",
+    "term": "Supervisor Auxiliar",
+    "instrument_id": "urn:lex-mx:federal:regulation:scap-dcg-2012",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1",
+    "fraction": "LXXIV",
+    "start_char": 24441,
+    "end_char": 25496,
     "basis": "express_definition"
   },
   {
@@ -309,6 +837,50 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:telefono-movil",
+    "term": "Teléfono Móvil",
+    "instrument_id": "urn:lex-mx:federal:regulation:scap-dcg-2012",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1",
+    "fraction": "LXXVI",
+    "start_char": 25805,
+    "end_char": 25971,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:terminal-punto-de-venta",
+    "term": "Terminal Punto de Venta",
+    "instrument_id": "urn:lex-mx:federal:regulation:scap-dcg-2012",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1",
+    "fraction": "LXXVII",
+    "start_char": 25971,
+    "end_char": 26665,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:tiie",
+    "term": "TIIE",
+    "instrument_id": "urn:lex-mx:federal:regulation:scap-dcg-2012",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1",
+    "fraction": "LXXVIII",
+    "start_char": 26665,
+    "end_char": 26812,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:udi",
+    "term": "UDI",
+    "instrument_id": "urn:lex-mx:federal:regulation:scap-dcg-2012",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1",
+    "fraction": "LXXIX",
+    "start_char": 26812,
+    "end_char": 27274,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:usuario",
     "term": "Usuario",
     "instrument_id": "urn:lex-mx:federal:regulation:scap-dcg-2012",
@@ -316,6 +888,17 @@
     "fraction": "LXXX",
     "start_char": 27274,
     "end_char": 27406,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:valores-gubernamentales",
+    "term": "Valores Gubernamentales",
+    "instrument_id": "urn:lex-mx:federal:regulation:scap-dcg-2012",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1",
+    "fraction": "LXXXI",
+    "start_char": 27406,
+    "end_char": 28376,
     "basis": "express_definition"
   }
 ]

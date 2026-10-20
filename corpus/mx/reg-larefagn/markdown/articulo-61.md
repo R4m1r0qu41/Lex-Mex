@@ -17,4 +17,4 @@ source_sha256: 01b72308e67d46ba6ca8a6b07fb7584c6a74e905ea0c4b5be5c0c0d32a6d817a
 
 # Artículo 61
 
-El Estado Mayor comunicará anualmente el inicio y la culminación del período general de pruebas, atendiendo a lo establecido en los artículos [16](../../larefam/markdown/articulo-16.md) y [23](../../larefam/markdown/articulo-23.md) de la Ley.
+El [Estado Mayor](articulo-5.md) comunicará anualmente el inicio y la culminación del período general de pruebas, atendiendo a lo establecido en los artículos [16](../../larefam/markdown/articulo-16.md) y [23](../../larefam/markdown/articulo-23.md) de la Ley.

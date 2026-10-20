@@ -17,8 +17,8 @@ source_sha256: 269e72195414406bcbd3e90ac40ec26e031a9ea519316c44ee30bdfdf3163059
 
 # Artículo 79
 
-La administración del Instituto estará a cargo de: Párrafo reformado DOF 09-08-2019
+La administración del [Instituto](articulo-2o.md) estará a cargo de: Párrafo reformado DOF 09-08-2019
 
-I.- La Junta de Gobierno, y
+I.- La [Junta de Gobierno](articulo-2o.md), y
 
 II.- La persona Titular de la Dirección General. Fracción reformada DOF 09-08-2019

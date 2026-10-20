@@ -33,7 +33,7 @@ VI.- Contaminación: La presencia en el ambiente de uno o más contaminantes o d
 
 VI BIS. Contaminación lumínica: El resplandor luminoso en ambientes nocturnos o brillo producido por la difusión y reflexión de la luz en los gases, aerosoles y partículas en suspensión en la atmósfera, que altera las condiciones naturales de luminosidad en horas nocturnas y dificultan las observaciones astronómicas de los objetos celestes, debido a la luz intrusa, debiendo distinguirse el brillo natural, atribuible a la radiación de fuentes u objetos celestes y a la luminiscencia de las capas altas de la atmósfera; Fracción adicionada DOF 18-01-2021
 
-VI TER.- Contaminación por ruido: Todo sonido generado por actividades humanas que, por su intensidad, duración o frecuencia, implique riesgo, molestia, perjuicio o daño para las personas, para otros seres vivos o para el ambiente; o los que superen los niveles fijados por las normas oficiales mexicanas; Fracción adicionada DOF 29-03-2022
+VI TER.- [Contaminación](articulo-3o.md) por ruido: Todo sonido generado por actividades humanas que, por su intensidad, duración o frecuencia, implique riesgo, molestia, perjuicio o daño para las personas, para otros seres vivos o para el ambiente; o los que superen los niveles fijados por las normas oficiales mexicanas; Fracción adicionada DOF 29-03-2022
 
 VII.- Contaminante: Toda materia o energía en cualesquiera de sus estados físicos y formas, que al incorporarse o actuar en la atmósfera, agua, suelo, flora, fauna o cualquier elemento natural, altere o modifique su composición y condición natural;
 
@@ -49,9 +49,9 @@ XII.- Desequilibrio ecológico: La alteración de las relaciones de interdepende
 
 XIII.- Ecosistema: La unidad funcional básica de interacción de los organismos vivos entre sí y de éstos con el ambiente, en un espacio y tiempo determinados;
 
-XIII Bis.- Ecosistemas costeros: Las playas, las dunas costeras, los acantilados, franjas intermareales; los humedales costeros tales como las lagunas interdunarias, las lagunas costeras, los esteros, las marismas, los pantanos, las ciénegas, los manglares, los petenes, los oasis, los cenotes, los pastizales, los palmares y las selvas inundables; los arrecifes de coral; los ecosistemas formados por comunidades de macroalgas y de pastos marinos, fondos marinos o bentos y las costas rocosas. Estos se caracterizan porque se localizan en la zona costera pudiendo comprender porciones marinas, acuáticas y/o terrestres; que abarcan en el mar a partir de una profundidad de menos de 200 metros, hasta 100 km tierra adentro o 50 m de elevación.
+XIII Bis.- [Ecosistemas](articulo-3o.md) costeros: Las playas, las dunas costeras, los acantilados, franjas intermareales; los humedales costeros tales como las lagunas interdunarias, las lagunas costeras, los esteros, las marismas, los pantanos, las ciénegas, los manglares, los petenes, los oasis, los cenotes, los pastizales, los palmares y las selvas inundables; los arrecifes de coral; los ecosistemas formados por comunidades de macroalgas y de pastos marinos, fondos marinos o bentos y las costas rocosas. Estos se caracterizan porque se localizan en la zona costera pudiendo comprender porciones marinas, acuáticas y/o terrestres; que abarcan en el mar a partir de una profundidad de menos de 200 metros, hasta 100 km tierra adentro o 50 m de elevación.
 
-La Secretaría, en colaboración con las entidades federativas y los municipios, determinará la zona costera nacional tomando en consideración las interacciones fisiográficas y biológicas particulares de la zona que se trate y la publicará en el Diario Oficial de la Federación mediante Acuerdo. Fracción adicionada DOF 23-04-2018
+La [Secretaría](articulo-3o.md), en colaboración con las entidades federativas y los municipios, determinará la zona costera nacional tomando en consideración las interacciones fisiográficas y biológicas particulares de la zona que se trate y la publicará en el Diario Oficial de la Federación mediante Acuerdo. Fracción adicionada DOF 23-04-2018
 
 XIV.- Equilibrio ecológico: La relación de interdependencia entre los elementos que conforman el ambiente que hace posible la existencia, transformación y desarrollo del hombre y demás seres vivos;
 
@@ -99,11 +99,11 @@ XXXI.- Región ecológica: La unidad del territorio nacional que comparte caract
 
 XXXII.- Residuo: Material o producto cuyo propietario o poseedor desecha y que se encuentra en estado sólido o semisólido, o es un líquido o gas contenido en recipientes o depósitos, y que puede ser susceptible de ser valorizado o requiere sujetarse a tratamiento o disposición final conforme a la normativa ambiental aplicable; Fracción recorrida DOF 28-01-2011. Reformada DOF 19-01-2026
 
-XXXIII.- Residuos peligrosos: son aquellos que posean alguna de las características de corrosividad, reactividad, explosividad, toxicidad, inflamabilidad o que contengan agentes infecciosos que le confieran peligrosidad, así como envases, recipientes, embalajes y suelos que hayan sido contaminados cuando se transfieran a otro sitio y por tanto, representan un peligro al equilibrio ecológico o el ambiente; Fracción recorrida DOF 28-01-2011. Reformada DOF 16-01-2014
+XXXIII.- [Residuos](articulo-3o.md) peligrosos: son aquellos que posean alguna de las características de corrosividad, reactividad, explosividad, toxicidad, inflamabilidad o que contengan agentes infecciosos que le confieran peligrosidad, así como envases, recipientes, embalajes y suelos que hayan sido contaminados cuando se transfieran a otro sitio y por tanto, representan un peligro al equilibrio ecológico o el ambiente; Fracción recorrida DOF 28-01-2011. Reformada DOF 16-01-2014
 
 XXXIV.- Restauración: Conjunto de actividades tendientes a la recuperación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales; Fracción recorrida DOF 28-01-2011
 
-XXXV. Secretaría: La Secretaría de Medio Ambiente y Recursos Naturales. Fracción reformada DOF 07-01-2000. Recorrida DOF 28-01-2011. Reformada DOF 09-04-2012
+XXXV. Secretaría: La Secretaría de Medio [Ambiente](articulo-3o.md) y Recursos Naturales. Fracción reformada DOF 07-01-2000. Recorrida DOF 28-01-2011. Reformada DOF 09-04-2012
 
 XXXVI. Servicios ambientales: los beneficios tangibles e intangibles, generados por los ecosistemas, necesarios para la supervivencia del sistema natural y biológico en su conjunto, y para que proporcionen beneficios al ser humano; Fracción adicionada DOF 04-06-2012
 

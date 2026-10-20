@@ -17,7 +17,7 @@ source_sha256: 5a0e15e01ac963917e019e3cc4ad07e96d76cc6c82c8b4238dfbb3a58a146847
 
 # Artículo 65
 
-El Consejo Nacional contará con un órgano de vigilancia integrado por una persona Comisaria Pública propietaria y una suplente, designadas por la Secretaría de la Función Pública, quienes tendrán las facultades que les otorgan la Ley Federal de las Entidades Paraestatales y las demás disposiciones jurídicas aplicables.
+El [Consejo Nacional](articulo-4.md) contará con un órgano de vigilancia integrado por una persona Comisaria Pública propietaria y una suplente, designadas por la Secretaría de la Función Pública, quienes tendrán las facultades que les otorgan la [Ley](articulo-4.md) Federal de las Entidades Paraestatales y las demás disposiciones jurídicas aplicables.
 
 El Consejo Nacional contará con un Órgano Interno de Control que dependerá jerárquica, funcional y presupuestariamente de la Secretaría de la Función Pública.
 

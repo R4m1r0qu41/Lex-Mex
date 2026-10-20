@@ -17,6 +17,6 @@ source_sha256: 667636f9e0ea65e72ac9d6d7b4d7563a183b75d0f140268a61929c74f5f88041
 
 # Artículo 28
 
-Una vez admitida la solicitud, SALUD evaluará los datos y documentos presentados con la misma, para determinar si cumplen con la información y los requisitos establecidos en la Ley, el presente Reglamento y demás disposiciones aplicables. De ser necesario, prevendrá al promovente, por escrito y por una sola vez para que subsane la omisión.
+Una vez admitida la solicitud, [SALUD](articulo-2.md) evaluará los datos y documentos presentados con la misma, para determinar si cumplen con la información y los requisitos establecidos en la [Ley](articulo-2.md), el presente Reglamento y demás disposiciones aplicables. De ser necesario, prevendrá al promovente, por escrito y por una sola vez para que subsane la omisión.
 
 El plazo para realizar la evaluación y requerir al promovente de la información o requisitos que no se ajusten a lo previsto en la Ley, el Reglamento y demás disposiciones aplicables, será de treinta días hábiles, contados a partir del día hábil siguiente a la presentación de la solicitud del trámite.

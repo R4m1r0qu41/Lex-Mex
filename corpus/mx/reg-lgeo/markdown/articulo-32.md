@@ -17,4 +17,4 @@ source_sha256: b19bcf104673af06117a6d4f3c947591f7a65999f19bad3dcfe2599a29bb3ab0
 
 # Artículo 32
 
-Para efectos del presente Reglamento, debe entenderse por acuíferos adyacentes al Yacimiento Geotérmico, los subyacentes, suprayacentes y todos aquellos que se encuentren cercanos, no sólo al Yacimiento Geotérmico, sino también los cercanos a pozos exploratorios, de producción, de reinyección, observación u otros.
+Para efectos del presente [Reglamento](articulo-3.md), debe entenderse por acuíferos adyacentes al Yacimiento Geotérmico, los subyacentes, suprayacentes y todos aquellos que se encuentren cercanos, no sólo al Yacimiento Geotérmico, sino también los cercanos a pozos exploratorios, de producción, de reinyección, observación u otros.

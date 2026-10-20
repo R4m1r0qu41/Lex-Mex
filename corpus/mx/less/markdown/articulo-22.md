@@ -17,6 +17,6 @@ source_sha256: 74f2c47c7a9282194b2972ec1366352d94f03042c6d0c7f10efde018cb9e3bfb
 
 # Artículo 22
 
-El Consejo se regirá en términos del Acuerdo, así como por sus Normas Internas de Funcionamiento.
+El [Consejo](articulo-5o.md) se regirá en términos del [Acuerdo](articulo-5o.md), así como por sus Normas Internas de Funcionamiento.
 
 Artículo reformado DOF 11-06-2013, 30-12-2015

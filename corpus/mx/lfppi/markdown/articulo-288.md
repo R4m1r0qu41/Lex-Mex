@@ -17,7 +17,7 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 288
 
-Si la resolución a que se refiere el artículo [286](articulo-286.md), otorga la protección de la denominación de origen o indicación geográfica solicitada, el Instituto ordenará la publicación de la declaración de protección en el Diario Oficial.
+Si la resolución a que se refiere el artículo [286](articulo-286.md), otorga la protección de la denominación de origen o indicación geográfica solicitada, el [Instituto](articulo-4.md) ordenará la publicación de la declaración de protección en el [Diario Oficial](articulo-4.md).
 
 La declaración determinará en definitiva los elementos de la denominación de origen o indicación geográfica protegida detallando:
 

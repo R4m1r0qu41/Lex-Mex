@@ -13,10 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LNEP.pdf
 source_sha256: 91abecabe50a5e414e0835daa9086ce3b307fffb9ebe626dab3bb9d1eae51680
 ---
 
-> Título TERCERO
+> Título TERCERO · Capítulo II
 
 # Artículo 80
 
 Convenios con instituciones del sector salud Se deberán celebrar convenios con instituciones públicas y privadas del sector salud en los ámbitos federal y local, a efecto de atender las urgencias médico-quirúrgicas cuya intervención no se pueda llevar a cabo en los Centros Penitenciarios, así como para la designación del personal médico que proporcione servicios de salud de manera continua y permanentemente en el Sistema Penitenciario Nacional.
-
-Capítulo III Actividades Físicas y Deportivas

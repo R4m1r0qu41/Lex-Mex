@@ -17,10 +17,10 @@ source_sha256: 9816ce7f9d6b9b1781eb9935869bd45677c60d721d3352865b6524c2e75db8cd
 
 # Artículo 47
 
-Si dentro de los veinte minutos previos al vencimiento del plazo para concluir la subasta, se recibe una postura que mejore las anteriores, no se cerrará la subasta y a partir de las 12:00 horas del día de que se trate, el Instituto concederá plazos sucesivos de cinco minutos cada uno, hasta que la última postura no sea mejorada y se dé por concluida la subasta.
+Si dentro de los veinte minutos previos al vencimiento del plazo para concluir la subasta, se recibe una postura que mejore las anteriores, no se cerrará la subasta y a partir de las 12:00 horas del día de que se trate, el [Instituto](../../lss/markdown/articulo-5-A.md) concederá plazos sucesivos de cinco minutos cada uno, hasta que la última postura no sea mejorada y se dé por concluida la subasta.
 
 Cuando existan varios postores que hayan ofrecido una suma igual y dicha suma sea la postura más alta, se declarará ganadora a aquella postura que se haya recibido primero que las otras que se encuentren en la misma circunstancia.
 
 Concluida la subasta, el Instituto comunicará a través de su página electrónica, y al correo electrónico proporcionado por cada uno de los postores, el nombre del ganador. Asimismo, hará del conocimiento de los demás postores los términos y condiciones para la devolución de su garantía de seriedad y sostenimiento.
 
-De igual forma, comunicará al postor ganador el plazo para que se presente en las oficinas de la convocante, a firmar el acta que se levante, de conformidad con el artículo [51](articulo-51.md), del presente Reglamento.
+De igual forma, comunicará al postor ganador el plazo para que se presente en las oficinas de la convocante, a firmar el acta que se levante, de conformidad con el artículo [51](articulo-51.md), del presente [Reglamento](articulo-2.md).

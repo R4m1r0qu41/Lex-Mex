@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título III · Capítulo I
+
 # Artículo 64 Bis 2
 
 Las emisiones de certificados bursátiles fiduciarios de desarrollo que se realicen bajo el mecanismo de llamadas de capital, que se inscriban en el [Registro](articulo-2.md), se harán mediante declaración unilateral de la voluntad. Conforme este mecanismo, los emisores podrán ejercer la opción de requerir a los tenedores, con posterioridad a la colocación de una parte de la emisión, aportaciones adicionales de recursos al patrimonio del fideicomiso para la ejecución de sus fines.

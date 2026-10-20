@@ -18,4 +18,4 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 209 Bis 2
 
-Las Sociedades Financieras Populares, como resultado de la aplicación del [Sistema de Remuneración](articulo-1.md), deberán generar información documental suficiente para permitir la revisión permanente del Sistema de Remuneración por parte del Comité de Remuneración, así como del personal responsable de la administración integral de riesgos o cuando este no exista, del Comisario o, en su caso, del comité de riesgos.
+Las [Sociedades](articulo-1.md) Financieras Populares, como resultado de la aplicación del [Sistema de Remuneración](articulo-1.md), deberán generar información documental suficiente para permitir la revisión permanente del Sistema de Remuneración por parte del [Comité de Remuneración](articulo-1.md), así como del personal responsable de la administración integral de riesgos o cuando este no exista, del Comisario o, en su caso, del comité de riesgos.

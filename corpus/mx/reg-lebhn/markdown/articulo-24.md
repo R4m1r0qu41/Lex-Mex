@@ -17,4 +17,4 @@ source_sha256: 3a86c9bc8afe7162bbcc0c31a28250ca91cfbf2cb6a08deddae0653977ae3d3f
 
 # Artículo 24
 
-En caso de que la solicitud no cumpla con todos los requisitos, la Secretaría prevendrá por única ocasión a la persona solicitante para que subsane la omisión dentro del plazo de quince días naturales. Si la prevención no fuera desahogada en el plazo correspondiente, el trámite de la solicitud será desechado, sin perjuicio del derecho de las personas peticionarias de volver a presentarla.
+En caso de que la solicitud no cumpla con todos los requisitos, la [Secretaría](articulo-2.md) prevendrá por única ocasión a la persona solicitante para que subsane la omisión dentro del plazo de quince días naturales. Si la prevención no fuera desahogada en el plazo correspondiente, el trámite de la solicitud será desechado, sin perjuicio del derecho de las personas peticionarias de volver a presentarla.

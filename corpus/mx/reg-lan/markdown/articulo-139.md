@@ -25,7 +25,7 @@ II. Los parámetros, así como las concentraciones y cargas máximas correspondi
 
 a) Forma y procedimientos para la toma de muestras y la determinación de las cargas contaminantes, y
 
-b) Forma en que se presentará a "La Comisión" la información que les solicite, sobre el cumplimiento de las condiciones particulares de descarga.
+b) Forma en que se presentará a "[La Comisión](articulo-1o.md)" la información que les solicite, sobre el cumplimiento de las condiciones particulares de descarga.
 
 IV. Forma y, en su caso, plazos en que se ajustará a lo dispuesto en las condiciones y especificaciones técnicas que señale "La Comisión", para los puntos de descarga autorizados, incluida la construcción de las obras e instalaciones para la recirculación de las aguas y para el manejo y tratamiento de las aguas residuales, y
 

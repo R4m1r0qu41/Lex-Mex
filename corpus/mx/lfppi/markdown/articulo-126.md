@@ -17,4 +17,4 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 126
 
-Cuando en la tramitación de una patente existan retrasos irrazonables, directamente atribuibles al Instituto que se traduzcan en un plazo de más de cinco años, entre la fecha de presentación de la solicitud en México y el otorgamiento de la patente, a petición del interesado se podrá otorgar un certificado complementario para ajustar la vigencia de la misma.
+Cuando en la tramitación de una patente existan retrasos irrazonables, directamente atribuibles al [Instituto](articulo-4.md) que se traduzcan en un plazo de más de cinco años, entre la fecha de presentación de la solicitud en México y el otorgamiento de la patente, a petición del interesado se podrá otorgar un certificado complementario para ajustar la vigencia de la misma.

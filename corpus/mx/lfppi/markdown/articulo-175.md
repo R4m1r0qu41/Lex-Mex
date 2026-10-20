@@ -23,7 +23,7 @@ I.- Una tercera persona que de buena fe explotaba en territorio nacional la mism
 
 II.- Cualquier persona que comercialice, distribuya, adquiera o use el producto al que se aplica la marca registrada, luego que dicho producto hubiera sido introducido lícitamente en el comercio por la persona titular de la marca registrada o por la persona a quien le haya concedido licencia. Párrafo reformado DOF 03-04-2026
 
-Queda comprendida en este supuesto la importación de los productos legítimos a los que se aplica la marca, que realice cualquier persona para su uso, distribución o comercialización en México, en los términos y condiciones que señale el Reglamento de esta Ley, y
+Queda comprendida en este supuesto la importación de los productos legítimos a los que se aplica la marca, que realice cualquier persona para su uso, distribución o comercialización en México, en los términos y condiciones que señale el Reglamento de esta [Ley](articulo-4.md), y
 
 III.- Una persona física o moral que aplique su nombre, denominación o razón social a los productos que elabore o distribuya, a los servicios que preste, o a sus establecimientos, o lo use como parte de su nombre comercial, siempre que lo aplique en la forma en que esté acostumbrado a usarlo y que tenga caracteres que lo distingan claramente de un homónimo ya registrado como marca o publicado como nombre comercial.
 

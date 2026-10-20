@@ -23,4 +23,4 @@ I. Existan normas oficiales mexicanas u otras disposiciones que regulen las emis
 
 II. Las obras o actividades estén expresamente previstas por un plan parcial o programa parcial de desarrollo urbano o de ordenamiento ecológico que cuente con previa autorización en materia de impacto ambiental respecto del conjunto de obras o actividades incluidas en él, o
 
-III. Se trate de instalaciones ubicadas en parques industriales previamente autorizados por la Secretaría, en los términos de la Ley y de este reglamento.
+III. Se trate de instalaciones ubicadas en parques industriales previamente autorizados por la [Secretaría](articulo-3o.md), en los términos de la [Ley](articulo-3o.md) y de este reglamento.

@@ -17,7 +17,7 @@ source_sha256: 9f964bc5c075d7cf47e5e9df7c2fbe262eb5bd1794de9b230dbd72026a51ae5e
 
 # Artículo 2
 
-La presente Ley se aplicará a las siguientes materias:
+La presente [Ley](articulo-6.md) se aplicará a las siguientes materias:
 
 I. Control sanitario de los productos del tabaco, así como su importación, y
 

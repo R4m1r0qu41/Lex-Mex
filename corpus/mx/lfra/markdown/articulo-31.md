@@ -17,4 +17,4 @@ source_sha256: 7211b1c71876d2ea4776c11dc1e045ebbb34b7e98b130f16c7864f75f5e90744
 
 # Artículo 31
 
-La autoridad jurisdiccional que conozca de las acciones y demandas a que hace referencia el presente Capítulo, deberá ordenar a la Secretaría y a la Procuraduría, a efecto de que imponga inmediatamente las medidas preventivas y correctivas procedentes en el ámbito de sus atribuciones.
+La autoridad jurisdiccional que conozca de las acciones y demandas a que hace referencia el presente Capítulo, deberá ordenar a la [Secretaría](articulo-2o.md) y a la [Procuraduría](articulo-2o.md), a efecto de que imponga inmediatamente las medidas preventivas y correctivas procedentes en el ámbito de sus atribuciones.

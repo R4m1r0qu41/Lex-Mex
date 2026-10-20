@@ -25,4 +25,4 @@ II. Proyectos de presupuestos de egresos; y
 
 III. Programas de obra pública.
 
-La Secretaría llevará a cabo la evaluación y seguimiento de los programas y proyectos a que se refiere este artículo y emitirá observaciones y recomendaciones a fin de promover que las dependencias y entidades determinen y, en su caso, ajusten su congruencia con el programa de ordenamiento ecológico general del territorio.
+La [Secretaría](articulo-3o.md) llevará a cabo la evaluación y seguimiento de los programas y proyectos a que se refiere este artículo y emitirá observaciones y recomendaciones a fin de promover que las dependencias y entidades determinen y, en su caso, ajusten su congruencia con el programa de ordenamiento ecológico general del territorio.

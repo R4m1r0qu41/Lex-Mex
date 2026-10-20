@@ -24,7 +24,7 @@ Serie A.
 
 Criterios relativos al esquema general de la contabilidad para Sociedades Cooperativas de Ahorro y Préstamo.
 
-A-1 Esquema básico del conjunto de Criterios de Contabilidad aplicables a las Sociedades Cooperativas de Ahorro y Préstamo.
+A-1 Esquema básico del conjunto de [Criterios de Contabilidad](articulo-1.md) aplicables a las Sociedades Cooperativas de Ahorro y Préstamo.
 
 A-2 Aplicación de normas particulares.
 
@@ -76,9 +76,9 @@ D-3 Estado de variaciones en el capital contable.107
 
 D-4 Estado de flujos de efectivo.
 
-La Comisión, podrá autorizar a las Sociedades Cooperativas de Ahorro y Préstamo con niveles de operación I a IV, criterios contables especiales con carácter temporal respecto de la aplicación de los criterios de contabilidad contenidos en el Anexo E de estas disposiciones, cuando las autoridades competentes emitan declaratorias de emergencia o desastre natural ante la ocurrencia de fenómenos naturales perturbadores que generen afectaciones a la economía que, a juicio de la Comisión, pudieran ocasionar un impacto adverso en la solvencia o liquidez de dos o más Sociedades Cooperativas de Ahorro y Préstamo y, en su caso, en la estabilidad del sistema financiero.
+La [Comisión](articulo-1.md), podrá autorizar a las Sociedades Cooperativas de Ahorro y Préstamo con niveles de operación I a IV, criterios contables especiales con carácter temporal respecto de la aplicación de los criterios de contabilidad contenidos en el Anexo E de estas disposiciones, cuando las autoridades competentes emitan declaratorias de emergencia o desastre natural ante la ocurrencia de fenómenos naturales perturbadores que generen afectaciones a la economía que, a juicio de la Comisión, pudieran ocasionar un impacto adverso en la solvencia o liquidez de dos o más Sociedades Cooperativas de Ahorro y Préstamo y, en su caso, en la estabilidad del sistema financiero.
 
-Para efectos de lo establecido en el párrafo anterior, deberá entenderse por fenómeno natural perturbador lo referido en la Ley General de Protección Civil o la que la sustituya.
+Para efectos de lo establecido en el párrafo anterior, deberá entenderse por fenómeno natural perturbador lo referido en la [Ley](articulo-1.md) General de Protección Civil o la que la sustituya.
 
 Para obtener autorización de aplicación de criterios contables especiales deberá enviarse a la Comisión por lo menos, lo siguiente:
 

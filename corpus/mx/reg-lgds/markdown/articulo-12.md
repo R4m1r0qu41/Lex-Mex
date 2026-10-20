@@ -17,7 +17,7 @@ source_sha256: aca2d65d2eef1b7c26ab431772ce7364305d103f5e4bacc87da02064df005ae3
 
 # Artículo 12
 
-El Programa Nacional incluirá, por lo menos, lo siguiente:
+El [Programa Nacional](articulo-3.md) incluirá, por lo menos, lo siguiente:
 
 I. Un diagnóstico nacional correspondiente al desarrollo social, con enfoque transversal e integral, haciendo especial referencia, entre otros, a los siguientes aspectos:
 
@@ -45,7 +45,7 @@ k) Infraestructura social básica;
 
 l) Fomento del sector social de la economía, y
 
-m) Los demás aspectos a que se refiere el artículo [19](../../lgds/markdown/articulo-19.md) de la Ley.
+m) Los demás aspectos a que se refiere el artículo [19](../../lgds/markdown/articulo-19.md) de la [Ley](articulo-3.md).
 
 La aplicación de este precepto será sin perjuicio de las atribuciones que competan a otras dependencias y entidades de la Administración Pública Federal.
 

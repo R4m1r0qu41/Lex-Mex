@@ -18,4 +18,4 @@ source_sha256: 8ac502b97188bd6e795781e9821be6e62ccdd8050cdd3be74aab52a888e67939
 
 # Artículo 120
 
-El Comité de Auditoría en la elaboración del informe a que se refiere el artículo [119](articulo-119.md) fracción VI de las presentes disposiciones, escuchará a la [Dirección General](articulo-1.md), al auditor interno y al responsable o responsables de las funciones de Contraloría Interna de la unión de crédito. En caso de existir diferencia de opinión entre estos últimos, al respecto del Sistema de [Control](articulo-1.md) Interno, deberán incorporarse en dicho informe, tales diferencias.
+El [Comité de Auditoría](articulo-1.md) en la elaboración del informe a que se refiere el artículo [119](articulo-119.md) fracción VI de las presentes disposiciones, escuchará a la [Dirección General](articulo-1.md), al auditor interno y al responsable o responsables de las funciones de [Contraloría Interna](articulo-1.md) de la unión de crédito. En caso de existir diferencia de opinión entre estos últimos, al respecto del [Sistema de Control Interno](articulo-1.md), deberán incorporarse en dicho informe, tales diferencias.

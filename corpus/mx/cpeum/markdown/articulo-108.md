@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf
 source_sha256: ca63a23a4b7444ebdbdad93759fbf46bd14c069e587c5878decf89fc9c12ca8e
 ---
 
+> Título Cuarto
+
 # Artículo 108
 
 Para los efectos de las responsabilidades a que alude este Título se reputarán como servidores públicos a los representantes de elección popular, a los miembros del Poder Judicial de la Federación, los funcionarios y empleados y, en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en el Congreso de la Unión o en la Administración Pública Federal, así como a los servidores públicos de los organismos a los que esta Constitución otorgue autonomía, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones. Párrafo reformado DOF 22-08-1996, 13-11-2007, 29-01-2016

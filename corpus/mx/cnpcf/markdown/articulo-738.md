@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Primero · Capítulo I
+
 # Artículo 738
 
 El inventario puede ser presentado por el albacea, cuando el acervo hereditario se constituya únicamente por inmuebles, y una vez que se encuentren exhibidos los avalúos se señalará fecha dentro de los cinco días siguientes, para que el albacea ante la presencia judicial ratifique el inventario a efecto de cumplir con la solemnidad y si comparecieran todos los reconocidos como herederos manifestando su conformidad se aprobará de plano, en caso contrario se procederá de acuerdo a lo dispuesto en este [Código Nacional](articulo-2.md).

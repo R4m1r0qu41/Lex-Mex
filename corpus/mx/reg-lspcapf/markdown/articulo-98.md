@@ -21,7 +21,7 @@ I. Allegarse de los elementos que tengan relación con el acto impugnado;
 
 II. Emitir los acuerdos de admisión y desahogo de pruebas y, en general, cualquier otro que se requiera en la substanciación del recurso;
 
-III. Requerir a la persona promovente el cumplimiento de algún requisito establecido en la Ley y en otros ordenamientos aplicables, en los casos en que se haya omitido, como la presentación del documento mediante el cual se acredite su personalidad, el señalamiento de su domicilio en la Ciudad de México o el medio de comunicación electrónica, para oír y recibir notificaciones; Fracción reformada DOF 04-01-2024
+III. Requerir a la persona promovente el cumplimiento de algún requisito establecido en la [Ley](articulo-2.md) y en otros ordenamientos aplicables, en los casos en que se haya omitido, como la presentación del documento mediante el cual se acredite su personalidad, el señalamiento de su domicilio en la Ciudad de México o el medio de comunicación electrónica, para oír y recibir notificaciones; Fracción reformada DOF 04-01-2024
 
 IV. Dar vista a los terceros interesados con el recurso interpuesto, para que dentro del plazo de cinco días hábiles, manifiesten lo que a su derecho convenga y, en su caso, ofrezcan pruebas;
 

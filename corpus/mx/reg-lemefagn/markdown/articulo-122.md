@@ -17,4 +17,4 @@ source_sha256: 703f083c0baedfb4ef5ce8b62c78684d8ee0073f393321d476d75ebe4878e1d5
 
 # Artículo 122
 
-La Dirección y Rectoría capacitará al personal que habrá de participar en la materialización de las campañas de difusión a la admisión al Sistema.
+La Dirección y Rectoría capacitará al personal que habrá de participar en la materialización de las campañas de difusión a la admisión al [Sistema](articulo-3.md).

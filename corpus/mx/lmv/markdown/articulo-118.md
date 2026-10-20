@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título VI · Capítulo I
+
 # Artículo 118
 
 Las acciones representativas del capital social de las casas de bolsa deberán pagarse íntegramente en dinero en el acto de ser suscritas. Las mencionadas acciones se mantendrán en depósito en alguna de las instituciones para el depósito de valores reguladas en esta Ley, las cuales en ningún caso se encontrarán obligadas a entregarlas a los titulares.

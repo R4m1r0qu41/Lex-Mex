@@ -17,4 +17,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Artículo 15
 
-La Secretaría puede otorgar, sustituir, modificar y revocar, así como autorizar la renuncia de Asignaciones a Petróleos Mexicanos.
+La [Secretaría](articulo-3.md) puede otorgar, sustituir, modificar y revocar, así como autorizar la renuncia de Asignaciones a [Petróleos Mexicanos](articulo-3.md).

@@ -17,6 +17,6 @@ source_sha256: 45deb87bfd634dfbd1cb7d9fd67a476ad954187908eb0cb06256c90ccc0feb80
 
 # Artículo 10
 
-Las acreditaciones de las personas integrantes de las dependencias que conforman la Comisión deberán realizarse por escrito y ser expedidas por sus respectivas personas titulares dirigidas a la persona titular de la Comisión. En el caso de las demás personas integrantes, las acreditaciones serán emitidas por las personas titulares o las personas representantes legales de cada organización.
+Las acreditaciones de las personas integrantes de las dependencias que conforman la [Comisión](articulo-3.md) deberán realizarse por escrito y ser expedidas por sus respectivas personas titulares dirigidas a la persona titular de la Comisión. En el caso de las demás personas integrantes, las acreditaciones serán emitidas por las personas titulares o las personas representantes legales de cada organización.
 
 Quienes integran la Comisión desempeñarán sus funciones de manera honorífica, por lo que no recibirán retribución ni emolumento alguno por las funciones que realicen dentro de ella.

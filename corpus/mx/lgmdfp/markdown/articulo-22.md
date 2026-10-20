@@ -17,4 +17,4 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Artículo 22
 
-Si de las diligencias practicadas en la investigación de hechos probablemente constitutivos de delitos distintos a los previstos en esta Ley, el agente del Ministerio Público advierte la probable comisión de algún delito previsto en el presente ordenamiento, debe identificar y remitir copia de la investigación a la Fiscalía Especializada competente.
+Si de las diligencias practicadas en la investigación de hechos probablemente constitutivos de delitos distintos a los previstos en esta Ley, el agente del Ministerio Público advierte la probable comisión de algún delito previsto en el presente ordenamiento, debe identificar y remitir copia de la investigación a la [Fiscalía Especializada](articulo-4.md) competente.

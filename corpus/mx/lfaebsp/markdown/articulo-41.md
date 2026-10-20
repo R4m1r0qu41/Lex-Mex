@@ -17,6 +17,6 @@ source_sha256: 269e72195414406bcbd3e90ac40ec26e031a9ea519316c44ee30bdfdf3163059
 
 # Artículo 41
 
-En las ventas que realice el Instituto, debe pactarse preferentemente el pago en una sola exhibición. La Junta de Gobierno emitirá los lineamientos para la venta en varias exhibiciones, las que considerarán las condiciones de mercado en operaciones similares, así como las garantías que en su caso procedan.
+En las ventas que realice el [Instituto](articulo-2o.md), debe pactarse preferentemente el pago en una sola exhibición. La [Junta de Gobierno](articulo-2o.md) emitirá los lineamientos para la venta en varias exhibiciones, las que considerarán las condiciones de mercado en operaciones similares, así como las garantías que en su caso procedan.
 
 Artículo reformado DOF 09-08-2019

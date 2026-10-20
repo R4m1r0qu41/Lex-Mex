@@ -17,4 +17,4 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 299
 
-El Comité de Supervisión Auxiliar deberá incluir dentro de los 10 días hábiles siguientes a la recepción de la solicitud de inscripción al Registro por parte de cada Sociedad, al menos la información que se señala en el Anexo L.
+El [Comité de Supervisión Auxiliar](articulo-1.md) deberá incluir dentro de los 10 días hábiles siguientes a la recepción de la solicitud de inscripción al [Registro](articulo-1.md) por parte de cada Sociedad, al menos la información que se señala en el Anexo L.

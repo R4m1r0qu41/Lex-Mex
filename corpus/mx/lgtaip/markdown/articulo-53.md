@@ -17,4 +17,4 @@ source_sha256: e81e23876bd08da81cb8392af7054f6187ad043ca8f965777b455f9d12554e8b
 
 # Artículo 53
 
-Las Autoridades garantes, en el ámbito de sus atribuciones, coadyuvarán con los sujetos obligados y representantes de la sociedad civil en la construcción e implementación de mecanismos de colaboración para la promoción e implementación de políticas y mecanismos de apertura institucional.
+Las [Autoridades garantes](articulo-3.md), en el ámbito de sus atribuciones, coadyuvarán con los sujetos obligados y representantes de la sociedad civil en la construcción e implementación de mecanismos de colaboración para la promoción e implementación de políticas y mecanismos de apertura institucional.

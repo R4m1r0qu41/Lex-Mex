@@ -17,7 +17,7 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 113 Bis
 
-Antes de que el Instituto declare el abandono, la persona solicitante podrá presentar la petición del restablecimiento de derecho de su solicitud, ante la falta de cumplimiento de un requerimiento contemplado por los artículos [106](articulo-106.md), [110](articulo-110.md) y [111](articulo-111.md) de esta Ley.
+Antes de que el [Instituto](articulo-4.md) declare el abandono, la persona solicitante podrá presentar la petición del restablecimiento de derecho de su solicitud, ante la falta de cumplimiento de un requerimiento contemplado por los artículos [106](articulo-106.md), [110](articulo-110.md) y [111](articulo-111.md) de esta [Ley](articulo-4.md).
 
 La petición del restablecimiento de derecho de la solicitud podrá presentarse dentro del plazo de quince días hábiles contado a partir del día hábil siguiente a la fecha del vencimiento del plazo incumplido, acompañada del comprobante de pago de la tarifa correspondiente.
 

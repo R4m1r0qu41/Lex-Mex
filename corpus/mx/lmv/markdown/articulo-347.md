@@ -13,9 +13,13 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título XII
+
 # Artículo 347
 
-Las personas que proporcionen servicios de auditoría externa, así como dictámenes, informes u opiniones previstas en esta Ley, responderán por los daños y perjuicios que ocasionen a la emisora o emisora simplificada que los contrate, cuando: Párrafo reformado DOF 28-12-2023 I. Por negligencia inexcusable, el dictamen u opinión que proporcionen contenga vicios u omisiones que en razón de su profesión u oficio debieran formar parte del análisis, evaluación o estudio que dio origen al dictamen u opinión.
+Las personas que proporcionen servicios de auditoría externa, así como dictámenes, informes u opiniones previstas en esta Ley, responderán por los daños y perjuicios que ocasionen a la emisora o emisora simplificada que los contrate, cuando: Párrafo reformado DOF 28-12-2023
+
+I. Por negligencia inexcusable, el dictamen u opinión que proporcionen contenga vicios u omisiones que en razón de su profesión u oficio debieran formar parte del análisis, evaluación o estudio que dio origen al dictamen u opinión.
 
 II. Intencionalmente, en el dictamen u opinión:
 

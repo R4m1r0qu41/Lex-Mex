@@ -17,7 +17,7 @@ source_sha256: cf47ab93fdea40d2b3e41b58784df62f89dd90b4482dd3b7f25adc7f6957036b
 
 # Artículo 17 BIS
 
-Para los efectos del presente Reglamento, se consideran subsectores específicos pertenecientes a cada uno de los sectores industriales señalados en el artículo [111 Bis](../../lgeepa/markdown/articulo-111-BIS.md) de la Ley, como fuentes fijas de jurisdicción Federal los siguientes:
+Para los efectos del presente [Reglamento](articulo-6o.md), se consideran subsectores específicos pertenecientes a cada uno de los sectores industriales señalados en el artículo [111 Bis](../../lgeepa/markdown/articulo-111-BIS.md) de la [Ley](articulo-6o.md), como fuentes fijas de jurisdicción Federal los siguientes:
 
 A) ACTIVIDADES DEL SECTOR HIDROCARBUROS Párrafo reformado DOF 31-10-2014
 
@@ -33,7 +33,9 @@ V. Transportación de petróleo crudo por ductos; incluye operación de las inst
 
 VI.- Transportación de gas natural y otros tipos de gases por ductos; incluye operación de las instalaciones; incluye la distribución de gas por ducto a consumidores; Fracción reformada DOF 31-10-2014
 
-VII.- Almacenamiento y distribución de petrolíferos y petroquímicos; incluye distribuidores a usuarios finales; Fracción reformada DOF 31-10-2014 REGLAMENTO DE LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE EN MATERIA DE PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DE LA ATMÓSFERA VIII. Transportación de petroquímicos por ductos; incluye la operación de las instalaciones, y
+VII.- Almacenamiento y distribución de petrolíferos y petroquímicos; incluye distribuidores a usuarios finales; Fracción reformada DOF 31-10-2014
+
+VIII. Transportación de petroquímicos por ductos; incluye la operación de las instalaciones, y
 
 IX. Transportación de petróleo refinado por ductos; incluye la operación de las instalaciones.
 
@@ -77,7 +79,7 @@ XVIII. Fabricación de explosivos; no incluye fuegos artificiales;
 
 XIX. Fabricación de limpiadores y pulimentos; sólo si se producen las sustancias básicas; no incluye la microindustria;
 
-XX. Fabricación de aceites esenciales; REGLAMENTO DE LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE EN MATERIA DE PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DE LA ATMÓSFERA XXI. Fabricación de grasas, aceites lubricantes y aditivos; incluye mezclas;
+XX. Fabricación de aceites esenciales; XXI. Fabricación de grasas, aceites lubricantes y aditivos; incluye mezclas;
 
 XXII. Fabricación de artículos de hule; sólo si se elabora el hule;
 
@@ -121,7 +123,7 @@ VI. Minería de manganeso; sólo incluye beneficio;
 
 VII. Minería de plata; sólo incluye beneficio;
 
-VIII. Minería de otros minerales metálicos no ferrosos; sólo incluye beneficio; REGLAMENTO DE LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE EN MATERIA DE PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DE LA ATMÓSFERA IX. Fabricación de coque y otros derivados del carbón mineral;
+VIII. Minería de otros minerales metálicos no ferrosos; sólo incluye beneficio; IX. Fabricación de coque y otros derivados del carbón mineral;
 
 X. Laminación primaria de hierro y acero; incluye ferroaleaciones, aceros comunes y especiales y desbastes primarios;
 
@@ -161,7 +163,7 @@ XXVII. Fabricación de acumuladores y pilas eléctricas, y
 
 XXVIII. Acuñación de monedas; incluye monedas conmemorativas.
 
-E) INDUSTRIA AUTOMOTRIZ REGLAMENTO DE LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE EN MATERIA DE PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DE LA ATMÓSFERA I. Fabricación de llantas y cámaras nuevas;
+E) INDUSTRIA AUTOMOTRIZ I. Fabricación de llantas y cámaras nuevas;
 
 II. Fabricación de motores a gasolina y diesel de uso industrial; sólo mediante procesos térmicos o de fundición;
 
@@ -203,7 +205,7 @@ III. Fabricación de yeso y sus productos; sólo incluye estos últimos cuando s
 
 H) INDUSTRIA DEL ASBESTO
 
-I. Fabricación de asbesto cemento y sus productos; incluye láminas, tinacos, tuberías y conexiones de asbesto cemento y tela de hilo de asbesto; REGLAMENTO DE LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE EN MATERIA DE PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DE LA ATMÓSFERA II. Autopartes para transportes fabricados con asbesto; incluye clutch, frenos y juntas, cuando se elabora la pasta de asbesto;
+I. Fabricación de asbesto cemento y sus productos; incluye láminas, tinacos, tuberías y conexiones de asbesto cemento y tela de hilo de asbesto; II. Autopartes para transportes fabricados con asbesto; incluye clutch, frenos y juntas, cuando se elabora la pasta de asbesto;
 
 III. Fabricación de ropa de protección para fuego y calor, y
 
@@ -243,7 +245,7 @@ I. Tratamiento de residuos biológico-infecciosos;
 
 II. Tratamiento físico de residuos peligrosos;
 
-III. Tratamiento químico de residuos peligrosos; REGLAMENTO DE LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE EN MATERIA DE PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DE LA ATMÓSFERA IV. Tratamiento biológico de residuos peligrosos;
+III. Tratamiento químico de residuos peligrosos; IV. Tratamiento biológico de residuos peligrosos;
 
 V. Tratamiento térmico de residuos peligrosos;
 

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Capítulo Único · Sección Segunda
+
 # Artículo 868
 
 Concluida la certificación referida en el [artículo anterior](articulo-867.md), la autoridad jurisdiccional Federal proveerá en el término de cuarenta y ocho horas sobre la admisión o desechamiento de la demanda, ordenará el emplazamiento a la parte demandada, y en su caso, dará vista por el plazo de tres días hábiles, a los órganos y organismos públicos referidos en el artículo [862](articulo-862.md) fracciones I, IV y V de este [Código Nacional](articulo-2.md), según la materia del litigio de que se trate.

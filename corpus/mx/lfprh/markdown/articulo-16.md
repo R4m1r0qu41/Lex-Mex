@@ -17,7 +17,7 @@ source_sha256: ce45c7c0c4e9099691e6e24bd2456d0b6f71f91ab27eedd5c4f2190b66d47741
 
 # Artículo 16
 
-La Ley de Ingresos y el [Presupuesto de Egresos](articulo-2.md) se elaborarán con base en objetivos y parámetros cuantificables de política económica, acompañados de sus correspondientes indicadores del desempeño, los cuales, junto con los criterios generales de política económica y los objetivos, estrategias y metas anuales, en el caso de la Administración Pública Federal, deberán ser congruentes con el Plan Nacional de Desarrollo y los programas que derivan del mismo, e incluirán cuando menos lo siguiente:
+La [Ley de Ingresos](articulo-2.md) y el [Presupuesto de Egresos](articulo-2.md) se elaborarán con base en objetivos y parámetros cuantificables de política económica, acompañados de sus correspondientes indicadores del desempeño, los cuales, junto con los criterios generales de política económica y los objetivos, estrategias y metas anuales, en el caso de la Administración Pública Federal, deberán ser congruentes con el Plan Nacional de Desarrollo y los programas que derivan del mismo, e incluirán cuando menos lo siguiente:
 
 I. Las líneas generales de política económica;
 

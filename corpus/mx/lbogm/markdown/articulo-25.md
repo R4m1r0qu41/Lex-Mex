@@ -17,7 +17,7 @@ source_sha256: b3c906475b455176de73da17f4f93a73f295965dc9bcca854b48417c7d4d3cfc
 
 # Artículo 25
 
-La Federación, por conducto de las Secretarías en el ámbito de su competencia y en los términos de las disposiciones aplicables, con el conocimiento de la CIBIOGEM, podrá celebrar convenios o acuerdos de coordinación con los gobiernos de las entidades federativas, con el objeto de:
+La Federación, por conducto de las [Secretarías](articulo-3.md) en el ámbito de su competencia y en los términos de las disposiciones aplicables, con el conocimiento de la [CIBIOGEM](articulo-3.md), podrá celebrar convenios o acuerdos de coordinación con los gobiernos de las entidades federativas, con el objeto de:
 
 I. Establecer la colaboración concurrente en el monitoreo de los riesgos que pudieran ocasionar las actividades de liberación de OGMs al ambiente, sea experimental o en programa piloto, que se determinen en dichos convenios o acuerdos, y
 

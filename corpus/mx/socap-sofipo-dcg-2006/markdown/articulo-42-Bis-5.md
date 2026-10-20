@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 42 Bis 5
 
-Las Sociedades Financieras Populares deberán asignar una PIi del 100 % al acreditado en los siguientes casos:
+Las [Sociedades](articulo-1.md) Financieras Populares deberán asignar una PIi del 100 % al acreditado en los siguientes casos:
 
 I. Cuando el acreditado tenga algún crédito con la Sociedad Financiera Popular que se encuentre en etapa 3.
 
@@ -28,4 +28,4 @@ a) La Sociedad Financiera Popular considere que pudieran existir indicios de det
 
 b) La Sociedad Financiera Popular haya demandado el concurso mercantil del deudor, o bien este último lo haya solicitado.
 
-III. Si la Sociedad Financiera Popular hubiere omitido durante tres meses consecutivos reportar a la Sociedad de Información Crediticia algún crédito del acreditado o bien, cuando se encuentre desactualizada la información de algún crédito del acreditado relacionada con el saldo y el comportamiento del pago que deba enviarse a dicha sociedad.
+III. Si la Sociedad Financiera Popular hubiere omitido durante tres meses consecutivos reportar a la [Sociedad de Información Crediticia](articulo-1.md) algún crédito del acreditado o bien, cuando se encuentre desactualizada la información de algún crédito del acreditado relacionada con el saldo y el comportamiento del pago que deba enviarse a dicha sociedad.

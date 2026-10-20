@@ -47,6 +47,6 @@ b. Los posibles efectos negativos del cambio climático;
 
 c. La localización de las actividades productivas y de aprovechamiento de los recursos naturales; y
 
-d. La localización de los asentamientos humanos y sus tendencias de crecimiento en términos de la Ley.
+d. La localización de los asentamientos humanos y sus tendencias de crecimiento en términos de la [Ley](articulo-3o.md).
 
-La aplicación de los criterios mencionados en las fracciones II y III de este artículo estará sujeta a los lineamientos que la Secretaría expida al efecto.
+La aplicación de los criterios mencionados en las fracciones II y III de este artículo estará sujeta a los lineamientos que la [Secretaría](articulo-3o.md) expida al efecto.

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título IV · Capítulo II
+
 # Artículo 99
 
 La [Comisión](articulo-2.md) podrá autorizar la realización de ofertas públicas de adquisición por porcentajes menores al señalado en la fracción III, inciso b) del artículo [98](articulo-98.md) de esta Ley, cuando así se justifique, tomando en consideración los derechos de todos los accionistas y en especial el de los minoritarios y siempre que la solicitud de autorización se acompañe del acta en la que conste la aprobación del consejo de administración de la sociedad, previa opinión favorable del comité que desempeñe funciones en materia de prácticas societarias.

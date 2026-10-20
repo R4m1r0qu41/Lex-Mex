@@ -19,7 +19,7 @@ source_sha256: 8262a75eac7bfb608d4f48657ffb2714fe115d0b9694c42ac81624fd275bf5f6
 
 Para los efectos de este Título, se considerará:
 
-I. Como valor de los Hidrocarburos extraídos, la suma del valor del Petróleo, el valor del Gas Natural y el valor de los Condensados, según corresponda, extraídos en el área de que se trate, en el periodo por el que esté obligado al pago del derecho; Fracción reformada DOF 18-03-2025
+I. Como valor de los Hidrocarburos extraídos, la suma del valor del Petróleo, el valor del Gas Natural y el valor de los [Condensados](articulo-3.md), según corresponda, extraídos en el área de que se trate, en el periodo por el que esté obligado al pago del derecho; Fracción reformada DOF 18-03-2025
 
 II. Como valor del Petróleo, la suma del valor de cada tipo de Petróleo extraído en el área de que se trate, en el periodo de que se trate. El valor de cada tipo de Petróleo extraído en el área de que se trate se entiende como el precio del Petróleo por barril del Petróleo extraído en dicha área, en el periodo de que se trate, multiplicado por el volumen de barriles de Petróleo extraído en el área en el mismo periodo por el que esté obligado al pago del derecho; Fracción reformada DOF 18-03-2025
 
@@ -27,7 +27,7 @@ III. Como valor del Gas Natural, el precio del Gas Natural multiplicado por el v
 
 IV. Como valor de los Condensados, el precio de los Condensados extraídos en el área de que se trate, en el periodo de que se trate, multiplicado por el volumen de barriles de Condensados extraídos en el área en el mismo periodo por el que esté obligado al pago del derecho; Fracción reformada DOF 18-03-2025
 
-V. Como precio del Petróleo, el precio promedio de exportación por barril del Petróleo extraído en el periodo de que se trate. En el caso de que algún tipo de Petróleo comercializado dentro del país no haya sido exportado, el precio promedio ponderado de estos se calculará ajustándolo por la calidad del Hidrocarburo de que se trate, de acuerdo con el contenido de azufre y los grados API que contenga. La Secretaría expedirá las reglas de carácter general que definan los métodos de ajuste correspondientes;
+V. Como precio del Petróleo, el precio promedio de exportación por barril del Petróleo extraído en el periodo de que se trate. En el caso de que algún tipo de Petróleo comercializado dentro del país no haya sido exportado, el precio promedio ponderado de estos se calculará ajustándolo por la calidad del Hidrocarburo de que se trate, de acuerdo con el contenido de azufre y los grados API que contenga. La [Secretaría](articulo-3.md) expedirá las reglas de carácter general que definan los métodos de ajuste correspondientes;
 
 VI. Como precio del Gas Natural, el precio promedio que en el periodo que corresponda haya tenido la unidad térmica de Gas Natural extraído por el contribuyente, determinado de conformidad con las reglas de carácter general a las que se refiere el último párrafo de este artículo; Fracción reformada DOF 18-03-2025
 

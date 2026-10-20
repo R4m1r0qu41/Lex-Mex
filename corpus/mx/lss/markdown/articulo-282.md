@@ -17,6 +17,6 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 282
 
-En el caso del seguro de retiro, cesantía en edad avanzada y vejez, se estará a lo dispuesto por el artículo [167](articulo-167.md) de esta Ley.
+En el caso del seguro de retiro, cesantía en edad avanzada y vejez, se estará a lo dispuesto por el artículo [167](articulo-167.md) de esta [Ley](articulo-5-A.md).
 
 Artículo reformado DOF 20-12-2001

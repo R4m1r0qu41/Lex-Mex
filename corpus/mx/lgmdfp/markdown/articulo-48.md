@@ -17,24 +17,24 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Artículo 48
 
-El Sistema Nacional para el ejercicio de sus facultades contará con las siguientes herramientas:
+El [Sistema Nacional](articulo-4.md) para el ejercicio de sus facultades contará con las siguientes herramientas:
 
-I. El Registro Nacional;
+I. El [Registro Nacional](articulo-4.md);
 
-II. El Banco Nacional de Datos Forenses;
+II. El [Banco Nacional de Datos Forenses](articulo-4.md);
 
 III. El Registro Nacional de Personas Fallecidas No Identificadas y No Reclamadas;
 
-IV. El Registro Nacional de Fosas;
+IV. El [Registro Nacional de Fosas](articulo-4.md);
 
-V. El Registro Administrativo de Detenciones;
+V. El [Registro Administrativo](articulo-4.md) de Detenciones;
 
 VI. La Alerta Amber;
 
-VI Bis. El Centro Nacional; Fracción adicionada DOF 13-05-2022
+VI Bis. El [Centro Nacional](articulo-4.md); Fracción adicionada DOF 13-05-2022
 
-VII. El Protocolo Homologado de Búsqueda y los protocolos previstos en el artículo [73](articulo-73.md) de esta Ley; Fracción reformada DOF 16-07-2025
+VII. El [Protocolo Homologado de Búsqueda](articulo-4.md) y los protocolos previstos en el artículo [73](articulo-73.md) de esta Ley; Fracción reformada DOF 16-07-2025
 
-VII Bis. La Base Nacional de Carpetas de Investigación, y Fracción adicionada DOF 16-07-2025
+VII Bis. La [Base Nacional de Carpetas de Investigación](articulo-4.md), y Fracción adicionada DOF 16-07-2025
 
 VIII. Otros registros necesarios para su operación en términos de lo que prevé esta Ley.

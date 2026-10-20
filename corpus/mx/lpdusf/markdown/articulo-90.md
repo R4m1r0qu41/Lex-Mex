@@ -17,9 +17,9 @@ source_sha256: cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7
 
 # Artículo 90
 
-Los Defensores tienen las siguientes obligaciones:
+Los [Defensores](articulo-2o.md) tienen las siguientes obligaciones:
 
-I. Desempeñar y prestar los servicios de orientación jurídica y defensoría legal, con la mayor atingencia y profesionalismo en beneficio de los Usuarios;
+I. Desempeñar y prestar los servicios de orientación jurídica y defensoría legal, con la mayor atingencia y profesionalismo en beneficio de los [Usuarios](articulo-2o.md);
 
 II. Hacer uso de todos los medios a su alcance, de acuerdo con la legislación vigente, para lograr una exitosa defensa de los Usuarios;
 

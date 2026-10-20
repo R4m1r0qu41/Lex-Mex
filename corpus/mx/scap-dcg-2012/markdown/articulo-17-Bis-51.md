@@ -34,6 +34,6 @@ VI. La capacidad de las Sociedades, en la administración integral de riesgos pa
 
 VII. La capacidad del Sistema de control interno para cumplir con las políticas y procedimientos que regulen y controlen la prestación de los servicios o comisiones a que se refiere este capítulo.
 
-El Consejo de Administración deberá designar a un responsable, que podrá ser el Auditor Interno o el Comité de Auditoría, para que dé seguimiento, evalúe y reporte periódicamente a dicho Consejo de Administración, el desempeño del prestador de servicios o comisionista, así como el cumplimiento de las normas aplicables relacionadas con los servicios o las operaciones correspondientes.
+El [Consejo de Administración](articulo-1.md) deberá designar a un responsable, que podrá ser el [Auditor Interno](articulo-1.md) o el [Comité de Auditoría](articulo-1.md), para que dé seguimiento, evalúe y reporte periódicamente a dicho Consejo de Administración, el desempeño del prestador de servicios o comisionista, así como el cumplimiento de las normas aplicables relacionadas con los servicios o las operaciones correspondientes.
 
 El Consejo de Administración deberá revisar cuando menos una vez al año, las políticas de selección de los terceros o comisionistas y aprobar las modificaciones que sean necesarias con base en los resultados de las evaluaciones realizadas por el responsable de dar seguimiento y evaluar el desempeño de aquellos.

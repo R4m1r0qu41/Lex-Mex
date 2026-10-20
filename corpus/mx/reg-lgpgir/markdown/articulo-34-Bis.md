@@ -17,7 +17,7 @@ source_sha256: ef64bacccac32c63c214d59f4860251db0365fc125840a6504c195288077888c
 
 # Artículo 34 Bis
 
-En términos del artículo 95 de la [Ley](articulo-2.md) de Hidrocarburos son de competencia federal los residuos generados en las Actividades del Sector Hidrocarburos.
+En términos del artículo 95 de la [Ley](articulo-2.md) de Hidrocarburos son de competencia federal los residuos generados en las [Actividades del Sector Hidrocarburos](articulo-2.md).
 
 Los residuos peligrosos que se generen en las actividades señaladas en el párrafo anterior se sujetarán a lo previsto en el presente [Reglamento](articulo-2.md). Los residuos de manejo especial se sujetarán a las reglas y disposiciones de carácter general que para tal efecto expida la Agencia.
 

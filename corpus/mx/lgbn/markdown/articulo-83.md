@@ -23,7 +23,7 @@ I.- Distribuir los espacios de los inmuebles de la manera más conveniente para 
 
 II.- Evitar e impedir actos que atenten contra la salvaguarda y preservación de los inmuebles, así como de los muebles que deban considerarse inmovilizados o que guarden conexión con el uso o destino religioso;
 
-III.- Presentar las denuncias que correspondan e informar de ello inmediatamente a la Secretaría y, tratándose de inmuebles federales considerados como monumentos históricos o artísticos conforme a la ley de la materia o la declaratoria correspondiente, a la Secretaría de Cultura; Fracción reformada DOF 17-12-2015
+III.- Presentar las denuncias que correspondan e informar de ello inmediatamente a la [Secretaría](articulo-2.md) y, tratándose de inmuebles federales considerados como monumentos históricos o artísticos conforme a la ley de la materia o la declaratoria correspondiente, a la Secretaría de Cultura; Fracción reformada DOF 17-12-2015
 
 IV.- Coadyuvar con la Secretaría en la integración de la información y documentación necesarias para obtener la resolución judicial o la declaración administrativa correspondiente respecto de los inmuebles nacionalizados, así como presentarlos a la propia Secretaría, la que determinará la vía procedente para tal efecto;
 

@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 212 Bis
 
-Cuando la Sociedad Financiera Popular decida hacer pública, a través de su página de Internet, cualquier tipo de información que, de conformidad con las disposiciones aplicables, no esté obligada a dar a conocer, se deberá acompañar el detalle analítico y de las bases metodológicas, que permitan comprender con claridad dicha información facilitando así una adecuada interpretación de la misma.
+Cuando la [Sociedad](articulo-1.md) Financiera Popular decida hacer pública, a través de su página de Internet, cualquier tipo de información que, de conformidad con las disposiciones aplicables, no esté obligada a dar a conocer, se deberá acompañar el detalle analítico y de las bases metodológicas, que permitan comprender con claridad dicha información facilitando así una adecuada interpretación de la misma.
 
 Las Sociedades Financieras Populares, al difundir a través de su página de Internet la información a que se refieren la fracción VI del artículo [212](articulo-212.md) anterior, así como el primer párrafo del presente artículo, deberán mantenerla en dicho medio, cuando menos durante los cinco trimestres siguientes a la fecha del estado financiero, para el caso de la información que se publica de manera trimestral, y durante los tres años siguientes a dicha fecha tratándose de la anual.
 

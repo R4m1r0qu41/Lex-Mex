@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título II · Capítulo II
+
 # Artículo 43
 
 Los presidentes de los comités que ejerzan las funciones en materia de prácticas societarias y de auditoría, serán designados y/o removidos de su cargo exclusivamente por la asamblea general de accionistas. Dichos presidentes no podrán presidir el consejo de administración y deberán ser seleccionados por su experiencia, por su reconocida capacidad y por su prestigio profesional. Asimismo, deberán elaborar un informe anual sobre las actividades que correspondan a dichos órganos y presentarlo al consejo de administración. Dicho informe, al menos, contemplará los aspectos siguientes:
@@ -46,5 +48,3 @@ g) Las medidas adoptadas con motivo de las observaciones que consideren relevant
 h) El seguimiento de los acuerdos de las asambleas de accionistas y del consejo de administración.
 
 Para la elaboración de los informes a que se refiere este precepto legal, así como de las opiniones señaladas en el artículo [42](articulo-42.md) de esta Ley, los comités de prácticas societarias y de auditoría deberán escuchar a los directivos relevantes; en caso de existir diferencia de opinión con estos últimos, incorporarán tales diferencias en los citados informes y opiniones.
-
-Sección III De la gestión, conducción y ejecución de los negocios sociales

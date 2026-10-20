@@ -19,7 +19,7 @@ source_sha256: 02ff746c921b436a1ab6c74e5f1bc429976595b1b0f82cb8c5b50db1004128c1
 
 Las administradoras sólo podrán cobrar a los trabajadores con cuenta individual las comisiones con cargo a esas cuentas que establezcan de conformidad con las reglas de carácter general que expida la Comisión.
 
-Para promover un mayor Rendimiento Neto a favor de los trabajadores, las comisiones por administración de las cuentas individuales sólo podrán cobrarse como un porcentaje sobre el valor de los activos administrados. Las administradoras sólo podrán cobrar cuotas fijas por los servicios que se señalen en el reglamento de esta ley, y en ningún caso por la administración de las cuentas.
+Para promover un mayor [Rendimiento Neto](articulo-3o.md) a favor de los trabajadores, las comisiones por administración de las cuentas individuales sólo podrán cobrarse como un porcentaje sobre el valor de los activos administrados. Las administradoras sólo podrán cobrar cuotas fijas por los servicios que se señalen en el reglamento de esta ley, y en ningún caso por la administración de las cuentas.
 
 Las administradoras podrán cobrar comisiones distintas por cada una de las sociedades de inversión que operen.
 

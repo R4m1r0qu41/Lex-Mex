@@ -19,7 +19,7 @@ source_sha256: 5a0e15e01ac963917e019e3cc4ad07e96d76cc6c82c8b4238dfbb3a58a146847
 
 La Junta de Gobierno, además de las atribuciones que le confieran otros ordenamientos, será competente para:
 
-I. Analizar y, en su caso, aprobar y expedir el Estatuto Orgánico y las modificaciones que le proponga la persona titular de la Dirección General, así como establecer los órganos internos permanentes o transitorios que estime convenientes para la realización del objeto del Consejo Nacional;
+I. Analizar y, en su caso, aprobar y expedir el Estatuto Orgánico y las modificaciones que le proponga la persona titular de la Dirección General, así como establecer los órganos internos permanentes o transitorios que estime convenientes para la realización del objeto del [Consejo Nacional](articulo-4.md);
 
 II. Aprobar, a propuesta de la persona titular de la Dirección General, la administración desconcentrada de funciones, programas y recursos;
 
@@ -37,13 +37,13 @@ VII. Autorizar la apertura de cuentas de inversión financiera, las que siempre 
 
 VIII. Aprobar las disposiciones y criterios para racionalizar el gasto administrativo y autorizar las erogaciones identificadas como gasto sujeto a criterios de racionalidad;
 
-IX. Aprobar las políticas y programas que someta a su consideración la persona titular de la Dirección General del Consejo Nacional, incluyendo el Programa Sectorial;
+IX. Aprobar las políticas y programas que someta a su consideración la persona titular de la Dirección General del Consejo Nacional, incluyendo el [Programa Sectorial](articulo-4.md);
 
-X. Aprobar y emitir las reglas de operación de los programas y sus modificaciones, de conformidad con lo dispuesto en la Ley Federal de Presupuesto y Responsabilidad Hacendaria y en su Reglamento, así como en el Presupuesto de Egresos de la Federación para el Ejercicio Fiscal que corresponda;
+X. Aprobar y emitir las reglas de operación de los programas y sus modificaciones, de conformidad con lo dispuesto en la [Ley](articulo-4.md) Federal de Presupuesto y Responsabilidad Hacendaria y en su Reglamento, así como en el Presupuesto de Egresos de la Federación para el Ejercicio Fiscal que corresponda;
 
 XI. Aprobar y emitir la reglamentación y normativa que someta a su consideración la persona titular de la Dirección General;
 
-XII. Reconocer como Centros Públicos a entidades paraestatales de la Administración Pública Federal que así lo ameriten, en los términos de esta Ley;
+XII. Reconocer como [Centros Públicos](articulo-4.md) a entidades paraestatales de la Administración Pública Federal que así lo ameriten, en los términos de esta Ley;
 
 XIII. Constituir, agrupar, fusionar, desincorporar o reintegrar Centros Públicos, de conformidad con las disposiciones legales y administrativas aplicables;
 

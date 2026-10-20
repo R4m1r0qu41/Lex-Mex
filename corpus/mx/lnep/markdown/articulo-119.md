@@ -13,10 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LNEP.pdf
 source_sha256: 91abecabe50a5e414e0835daa9086ce3b307fffb9ebe626dab3bb9d1eae51680
 ---
 
-> Título CUARTO
+> Título CUARTO · Capítulo IV
 
 # Artículo 119
 
 Controversias sobre medidas de seguridad Las controversias sobre la modificación, extinción o cesación de las medidas de seguridad, se resolverán de acuerdo con las normas previstas en el Código para personas imputables con los ajustes razonables que en el caso concreto acuerde el Juez de Ejecución, para garantizar su derecho a la defensa.
-
-Capítulo V Procedimiento Jurisdiccional

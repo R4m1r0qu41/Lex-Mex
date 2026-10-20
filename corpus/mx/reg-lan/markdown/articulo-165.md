@@ -17,8 +17,8 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 165
 
-"La Comisión" sólo podrá declarar la terminación de la concesión en los casos previstos en ley, y previa comprobación de la causa justificada respectiva.
+"[La Comisión](articulo-1o.md)" sólo podrá declarar la terminación de la concesión en los casos previstos en ley, y previa comprobación de la causa justificada respectiva.
 
 Previamente, "La Comisión", de oficio o a petición de tercero interesado, tramitará el expediente respectivo y dará a conocer al concesionario las causas de terminación. El concesionario dispondrá de un término de quince días hábiles para su defensa.
 
-En los casos de revocación, se estará al procedimiento que se señala en el artículo [49](articulo-49.md) de este "Reglamento".
+En los casos de revocación, se estará al procedimiento que se señala en el artículo [49](articulo-49.md) de este "[Reglamento](articulo-1o.md)".

@@ -17,7 +17,7 @@ source_sha256: 32822f50bb2de81185408f9450d61a49d678429c52c5379822a507c7027a5275
 
 # Artículo 19
 
-La Política de Desarrollo Social está conformada por: Párrafo reformado DOF 16-07-2025
+La [Política de Desarrollo Social](articulo-5.md) está conformada por: Párrafo reformado DOF 16-07-2025
 
 I. Los programas de educación obligatoria;
 

@@ -17,9 +17,9 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 304-A
 
-Son infracciones a esta Ley y a sus reglamentos, los actos u omisiones del patrón o sujeto obligado que se enumeran a continuación:
+Son infracciones a esta [Ley](articulo-5-A.md) y a sus reglamentos, los actos u omisiones del patrón o sujeto obligado que se enumeran a continuación:
 
-I. No registrarse ante el Instituto, o hacerlo fuera del plazo establecido en la Ley;
+I. No registrarse ante el [Instituto](articulo-5-A.md), o hacerlo fuera del plazo establecido en la Ley;
 
 II. No inscribir a sus trabajadores ante el Instituto o hacerlo en forma extemporánea;
 

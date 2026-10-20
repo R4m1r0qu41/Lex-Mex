@@ -25,4 +25,4 @@ Se consideran bienes regulados por leyes específicas, entre otros, los que sean
 
 Los bienes muebles e inmuebles propiedad de las instituciones de carácter federal con personalidad jurídica y patrimonio propios a las que la Constitución Política de los Estados Unidos Mexicanos les otorga autonomía, son inembargables e imprescriptibles. Estas instituciones establecerán, de conformidad con sus leyes específicas, las disposiciones que regularán los actos de adquisición, administración, control y enajenación de los bienes mencionados. En todo caso, dichas instituciones deberán tramitar la inscripción de los títulos a que se refiere la fracción I del artículo [42](articulo-42.md) de esta Ley, en el Registro Público de la Propiedad Federal.
 
-Los monumentos arqueológicos y los monumentos históricos y artísticos propiedad de la Federación, se regularán por esta Ley y la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos.
+Los monumentos arqueológicos y los monumentos históricos y artísticos propiedad de la [Federación](articulo-2.md), se regularán por esta Ley y la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos.

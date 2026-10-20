@@ -17,7 +17,7 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 176
 
-La extracción de materiales pétreos sólo se podrá concesionar en los cauces y vasos, siempre y cuando no se afecten las zonas de protección o seguridad de los mismos. "La Comisión" no expedirá concesiones para la explotación de materiales pétreos de las riberas o zonas federales de los cauces y vasos de propiedad nacional.
+La extracción de materiales pétreos sólo se podrá concesionar en los cauces y vasos, siempre y cuando no se afecten las zonas de protección o seguridad de los mismos. "[La Comisión](articulo-1o.md)" no expedirá concesiones para la explotación de materiales pétreos de las riberas o zonas federales de los cauces y vasos de propiedad nacional.
 
 Para el otorgamiento de concesiones para la extracción de materiales en cauces o vasos, se estará a lo siguiente:
 

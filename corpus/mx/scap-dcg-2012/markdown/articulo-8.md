@@ -17,11 +17,11 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 8
 
-El Comité de Supervisión Auxiliar, en adición a lo señalado en los Artículos [6](articulo-6.md) y [7](articulo-7.md) de estas disposiciones tomará en cuenta, para efectos de proponer a la Comisión el nivel de operaciones que, en su caso, pueda asignarse a la sociedad que se pretende autorizar, el análisis que realice sobre el programa general de operación, que presente la sociedad que se pretende autorizar en términos del Artículo 11, fracción II, de la Ley, así como los aspectos señalados en las fracciones siguientes:
+El [Comité de Supervisión Auxiliar](articulo-1.md), en adición a lo señalado en los Artículos [6](articulo-6.md) y [7](articulo-7.md) de estas disposiciones tomará en cuenta, para efectos de proponer a la [Comisión](articulo-1.md) el nivel de operaciones que, en su caso, pueda asignarse a la sociedad que se pretende autorizar, el análisis que realice sobre el programa general de operación, que presente la sociedad que se pretende autorizar en términos del Artículo 11, fracción II, de la [Ley](articulo-1.md), así como los aspectos señalados en las fracciones siguientes:
 
 I. Sistemas para la generación de información.
 
-II. Grado de cumplimiento a los manuales a que se refiere la fracción IX del Artículo [2](articulo-2.md) de las presentes disposiciones, en caso de que previo a la presentación de la solicitud de autorización ya contare con ellos, con excepción de los relativos a las políticas de identificación y conocimiento del Socio.
+II. Grado de cumplimiento a los manuales a que se refiere la fracción IX del Artículo [2](articulo-2.md) de las presentes disposiciones, en caso de que previo a la presentación de la solicitud de autorización ya contare con ellos, con excepción de los relativos a las políticas de identificación y conocimiento del [Socio](articulo-1.md).
 
 III. Equipos y sistemas de cómputo.
 

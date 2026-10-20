@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 128
 
-Las Sociedades Financieras Populares deberán implementar un Código de Ética, aprobado por el Consejo de Administración o, en su caso, por el Comité Técnico a que hace referencia el artículo [119](articulo-119.md) de estas disposiciones, en el cual se establezcan reglas apropiadas y prudentes que gobiernen la conducta y el comportamiento adecuado de sus consejeros, funcionarios y empleados, en su interacción con los clientes y al interior de la propia Sociedad Financiera Popular. El código de ética debe contemplar, como mínimo, los aspectos siguientes:
+Las [Sociedades](articulo-1.md) Financieras Populares deberán implementar un Código de Ética, aprobado por el [Consejo de Administración](articulo-1.md) o, en su caso, por el Comité Técnico a que hace referencia el artículo [119](articulo-119.md) de estas disposiciones, en el cual se establezcan reglas apropiadas y prudentes que gobiernen la conducta y el comportamiento adecuado de sus consejeros, funcionarios y empleados, en su interacción con los clientes y al interior de la propia Sociedad Financiera Popular. El código de ética debe contemplar, como mínimo, los aspectos siguientes:
 
 I. Guardar consistencia con la legislación aplicable, incluyendo las diferentes regulaciones, y disposiciones reglamentarias conducentes, y
 

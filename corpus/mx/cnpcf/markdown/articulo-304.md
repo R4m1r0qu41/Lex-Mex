@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo II
+
 # Artículo 304
 
 La autoridad jurisdiccional podrá designar personas peritos terceros en discordia de entre aquéllos autorizados como auxiliares de la administración de justicia por la autoridad jurisdiccional competente del Poder Judicial respectivo; o, de entre aquéllos propuestos, a su previa solicitud, por colegios, asociaciones o barras de profesionales, artísticas, técnicas o científicas o de las instituciones de educación superior públicas o privadas o las cámaras de industria, comercio, confederaciones de cámaras, conforme al objeto del peritaje.

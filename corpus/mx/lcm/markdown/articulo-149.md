@@ -17,6 +17,6 @@ source_sha256: 8e270686b885035488bfe310b0b42bb40e7154431794227ebe212dd7dc12e46a
 
 # Artículo 149
 
-El conciliador dentro de los tres días siguientes a su designación deberá hacer del conocimiento de los acreedores su nombramiento y señalar un domicilio, dentro de la jurisdicción del juez que conozca del concurso mercantil, para el cumplimiento de las obligaciones que le impone esta Ley.
+El conciliador dentro de los tres días siguientes a su designación deberá hacer del conocimiento de los acreedores su nombramiento y señalar un domicilio, dentro de la jurisdicción del juez que conozca del concurso mercantil, para el cumplimiento de las obligaciones que le impone esta [Ley](articulo-4o.md).
 
 El conciliador podrá reunirse con el [Comerciante](articulo-4o.md) y con los acreedores que estime convenientes y con aquellos que así se lo soliciten, ya sea conjunta o separadamente y comunicarse con ellos de cualquier forma.

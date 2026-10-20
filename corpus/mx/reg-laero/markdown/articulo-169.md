@@ -17,7 +17,7 @@ source_sha256: ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776
 
 El comandante de aeródromo tendrá las siguientes atribuciones:
 
-I. Verificar el cumplimiento de la Ley, este Reglamento, el programa local de seguridad o, en su caso, las medidas de seguridad y de las condiciones de la concesión o el permiso del aeródromo civil, de las normas, reglamentos y demás disposiciones aplicables que sean competencia de la Secretaría;
+I. Verificar el cumplimiento de la [Ley](articulo-2.md), este Reglamento, el programa local de seguridad o, en su caso, las medidas de seguridad y de las condiciones de la concesión o el permiso del aeródromo civil, de las normas, reglamentos y demás disposiciones aplicables que sean competencia de la [Secretaría](articulo-2.md);
 
 II. Conocer de todos los actos y hechos que incidan o puedan incidir en la operación y seguridad de los aeródromos civiles de su adscripción;
 

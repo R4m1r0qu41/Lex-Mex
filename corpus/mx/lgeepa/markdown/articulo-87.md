@@ -17,7 +17,7 @@ source_sha256: 0574853d06020030188e8aee1eae5dabb2b476ac630cc52be631a48d2b91adbc
 
 # Artículo 87
 
-El aprovechamiento de especies de flora y fauna silvestre en actividades económicas podrá autorizarse cuando los particulares garanticen su reproducción controlada o desarrollo en cautiverio o semicautiverio o cuando la tasa de explotación sea menor a la de renovación natural de las poblaciones, de acuerdo con las normas oficiales mexicanas que al efecto expida la Secretaría. No podrá autorizarse el aprovechamiento sobre poblaciones naturales de especies amenazadas o en peligro de extinción, excepto en los casos en que se garantice su reproducción controlada y el desarrollo de poblaciones de las especies que correspondan.
+El aprovechamiento de especies de flora y fauna silvestre en actividades económicas podrá autorizarse cuando los particulares garanticen su reproducción controlada o desarrollo en cautiverio o semicautiverio o cuando la tasa de explotación sea menor a la de renovación natural de las poblaciones, de acuerdo con las normas oficiales mexicanas que al efecto expida la [Secretaría](articulo-3o.md). No podrá autorizarse el aprovechamiento sobre poblaciones naturales de especies amenazadas o en peligro de extinción, excepto en los casos en que se garantice su reproducción controlada y el desarrollo de poblaciones de las especies que correspondan.
 
 La autorización para el aprovechamiento sustentable de especies endémicas se otorgará conforme a las normas oficiales mexicanas que al efecto expida la Secretaría, siempre que dicho aprovechamiento no amenace o ponga en peligro de extinción a la especie.
 

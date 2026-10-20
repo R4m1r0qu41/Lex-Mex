@@ -15,6 +15,6 @@ source_sha256: 1e7d06c67fac4c8a100d2bb2845cc765fba5e8ce09d27d30b2b44432ffeb8c41
 
 # Quinto
 
-La Procuraduría General de la República contará con un plazo de ciento ochenta días siguientes a la fecha en que el presente Decreto entre en vigor, para expedir el Programa Nacional para Prevenir y Sancionar la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes y contar con la infraestructura tecnológica necesaria para operar el Registro Nacional del Delito de Tortura.
+La [Procuraduría](articulo-5.md) General de la República contará con un plazo de ciento ochenta días siguientes a la fecha en que el presente Decreto entre en vigor, para expedir el [Programa Nacional](articulo-5.md) para Prevenir y Sancionar la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes y contar con la infraestructura tecnológica necesaria para operar el [Registro Nacional](articulo-5.md) del Delito de Tortura.
 
 Dentro de los noventa días posteriores al cumplimiento del plazo señalado en el párrafo anterior, las procuradurías y fiscalías de las entidades federativas deberán poner en marcha sus registros correspondientes.

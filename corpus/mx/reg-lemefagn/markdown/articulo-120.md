@@ -17,6 +17,6 @@ source_sha256: 703f083c0baedfb4ef5ce8b62c78684d8ee0073f393321d476d75ebe4878e1d5
 
 # Artículo 120
 
-La Dirección y Rectoría establecerá la coordinación que sea necesaria con la Secretaría de Educación Pública y otras dependencias de la Administración Pública, así como con instituciones educativas privadas del Sistema Educativo Nacional, para dar a conocer las opciones de admisión al Sistema.
+La Dirección y Rectoría establecerá la coordinación que sea necesaria con la Secretaría de Educación Pública y otras dependencias de la Administración Pública, así como con instituciones educativas privadas del [Sistema](articulo-3.md) Educativo Nacional, para dar a conocer las opciones de admisión al Sistema.
 
-Los Mandos Territoriales llevarán a cabo esta coordinación con las autoridades e Instituciones Educativas de su circunscripción.
+Los Mandos Territoriales llevarán a cabo esta coordinación con las autoridades e [Instituciones Educativas](articulo-3.md) de su circunscripción.

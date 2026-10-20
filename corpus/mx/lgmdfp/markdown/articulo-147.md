@@ -17,4 +17,4 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Artículo 147
 
-La Declaración Especial de Ausencia sólo tiene efectos de carácter civil, por lo que no produce efectos de prescripción penal ni constituye prueba plena en otros procesos judiciales.
+La [Declaración Especial de Ausencia](articulo-4.md) sólo tiene efectos de carácter civil, por lo que no produce efectos de prescripción penal ni constituye prueba plena en otros procesos judiciales.

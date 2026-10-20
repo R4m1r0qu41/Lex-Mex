@@ -17,4 +17,4 @@ source_sha256: 4f46c1f92fb5682281a7679836e517de95975786fa5326848a331c9eb946cc5f
 
 # Artículo 12
 
-Para los efectos del artículo [3](../../liva/markdown/articulo-3o.md)o. de la Ley, las misiones diplomáticas deberán aceptar invariablemente la traslación del impuesto. Sólo en los casos en que exista reciprocidad, las misiones diplomáticas tendrán derecho a solicitar la devolución del impuesto que les hubiese sido trasladado y que hayan pagado efectivamente, siempre que se reúnan los requisitos que al efecto establezca el Servicio de Administración Tributaria mediante reglas de carácter general.
+Para los efectos del artículo [3](../../liva/markdown/articulo-3o.md)o. de la [Ley](articulo-1.md), las misiones diplomáticas deberán aceptar invariablemente la traslación del impuesto. Sólo en los casos en que exista reciprocidad, las misiones diplomáticas tendrán derecho a solicitar la devolución del impuesto que les hubiese sido trasladado y que hayan pagado efectivamente, siempre que se reúnan los requisitos que al efecto establezca el Servicio de Administración Tributaria mediante reglas de carácter general.

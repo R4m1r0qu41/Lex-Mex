@@ -23,6 +23,6 @@ I. Contratar con la institución de seguros de su elección una renta vitalicia,
 
 II. Mantener el saldo de su cuenta individual en una Administradora de Fondos para el Retiro y efectuar con cargo a éste, retiros programados.
 
-Los supuestos referidos, se sujetarán a lo establecido en esta Ley y a las reglas de carácter general que expida la Comisión Nacional del Sistema de Ahorro para el Retiro. Párrafo reformado DOF 16-12-2020
+Los supuestos referidos, se sujetarán a lo establecido en esta [Ley](articulo-5-A.md) y a las reglas de carácter general que expida la Comisión Nacional del Sistema de Ahorro para el Retiro. Párrafo reformado DOF 16-12-2020
 
 El asegurado que elija la opción prevista en la fracción II o ambas podrá, en cualquier momento, contratar una renta vitalicia de acuerdo a lo dispuesto en la fracción I, excepto cuando la renta mensual vitalicia a convenirse fuera inferior al promedio de las pensiones garantizadas, que corresponda a un salario mínimo y sesenta años de edad, de acuerdo con la tabla establecida en el artículo [170](articulo-170.md) de esta Ley. Párrafo reformado DOF 16-12-2020

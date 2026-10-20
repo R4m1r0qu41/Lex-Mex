@@ -15,4 +15,4 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Segundo
 
-Se abroga la Ley del Registro Nacional de Datos de Personas Extraviadas o Desaparecidas.
+Se abroga la Ley del [Registro Nacional](articulo-4.md) de Datos de Personas Extraviadas o Desaparecidas.

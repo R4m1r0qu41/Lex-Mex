@@ -17,4 +17,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Artículo 120
 
-La realización de actividades de Compresión, Descompresión, Licuefacción y Regasificación de Gas Natural se debe determinar en la Normatividad que al efecto expidan la Comisión y la Agencia, según corresponda, en el ámbito de sus competencias.
+La realización de actividades de [Compresión](articulo-3.md), [Descompresión](articulo-3.md), [Licuefacción](articulo-3.md) y [Regasificación](articulo-3.md) de Gas Natural se debe determinar en la [Normatividad](articulo-3.md) que al efecto expidan la [Comisión](articulo-3.md) y la Agencia, según corresponda, en el ámbito de sus competencias.

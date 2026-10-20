@@ -17,4 +17,4 @@ source_sha256: 35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc
 
 # Artículo 131
 
-El Banco Nacional del Ejército, Fuerza Aérea y Armada, SNC, podrá otorgar préstamos a corto plazo a los militares con haber o haber de retiro y a los pensionistas de acuerdo con los recursos disponibles para este fin y conforme a su Ley Orgánica.
+El Banco Nacional del Ejército, Fuerza Aérea y Armada, SNC, podrá otorgar préstamos a corto plazo a los militares con haber o haber de retiro y a los pensionistas de acuerdo con los recursos disponibles para este fin y conforme a su [Ley](articulo-4o.md) Orgánica.

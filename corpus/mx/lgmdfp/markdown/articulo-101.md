@@ -17,4 +17,4 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Artículo 101
 
-Además de lo establecido en el [artículo anterior](articulo-100.md), los protocolos contendrán las medidas que deberán realizar la Comisión Nacional de Búsqueda y las Comisiones Locales de Búsqueda, así como las Fiscalías Especializadas en colaboración con otras dependencias e instituciones, públicas y privadas. Dichas medidas serán obligatorias a todas las instancias que integran el Sistema Nacional.
+Además de lo establecido en el [artículo anterior](articulo-100.md), los protocolos contendrán las medidas que deberán realizar la [Comisión Nacional de Búsqueda](articulo-4.md) y las [Comisiones Locales de Búsqueda](articulo-4.md), así como las [Fiscalías Especializadas](articulo-4.md) en colaboración con otras dependencias e instituciones, públicas y privadas. Dichas medidas serán obligatorias a todas las instancias que integran el [Sistema Nacional](articulo-4.md).

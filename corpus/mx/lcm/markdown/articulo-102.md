@@ -23,7 +23,7 @@ I. Cuando el Comerciante haya actuado como reportador, deberá transmitir al rep
 
 II. Cuando el Comerciante haya actuado como reportado, el contrato se dará por abandonado desde la fecha de declaración de concurso mercantil y el reportador podrá exigir el pago de las diferencias que, en su caso, existan a su favor precisamente en la fecha de la declaración del concurso mercantil, mediante el reconocimiento de créditos, conservando el Comerciante el precio de la operación y el reportador la propiedad y libre disposición de los títulos objeto del reporto, y
 
-III Los reportos celebrados entre el Comerciante y su contraparte en forma recíproca, sea que se documenten o no en contratos marco o normativos, se darán por vencidos en forma anticipada en la fecha de declaración del concurso mercantil, aun cuando su fecha de vencimiento sea posterior a ésta, debiendo compensarse en los términos de esta Ley.
+III Los reportos celebrados entre el Comerciante y su contraparte en forma recíproca, sea que se documenten o no en contratos marco o normativos, se darán por vencidos en forma anticipada en la fecha de declaración del concurso mercantil, aun cuando su fecha de vencimiento sea posterior a ésta, debiendo compensarse en los términos de esta [Ley](articulo-4o.md).
 
 En caso de que no exista previsión alguna en los convenios correspondientes para la compensación y liquidación de las prestaciones adeudadas, con el propósito de efectuar la compensación, el valor de los títulos se determinará conforme a su valor de mercado el día de la declaración del concurso mercantil. A falta de precio de mercado disponible y demostrable, el conciliador podrá encargar a un tercero experimentado en la materia, la valuación de los títulos.
 

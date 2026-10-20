@@ -17,6 +17,6 @@ source_sha256: 703f083c0baedfb4ef5ce8b62c78684d8ee0073f393321d476d75ebe4878e1d5
 
 # Artículo 154
 
-La revalidación es el acto mediante el cual la Dirección y Rectoría reconoce la equivalencia de estudios realizados por personal militar dentro del propio Sistema, para fines de cambio de Curso o de Institución Educativa.
+La revalidación es el acto mediante el cual la Dirección y Rectoría reconoce la equivalencia de estudios realizados por personal militar dentro del propio [Sistema](articulo-3.md), para fines de cambio de Curso o de [Institución Educativa](articulo-3.md).
 
 Cuando se trate de estudios realizados en el extranjero, el reconocimiento de equivalencia a que se refiere el párrafo anterior estará sujeto al cumplimiento de las disposiciones emitidas por la Secretaría de Educación Pública.

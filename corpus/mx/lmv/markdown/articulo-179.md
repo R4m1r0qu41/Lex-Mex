@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título VI · Capítulo II
+
 # Artículo 179
 
 Las casas de bolsa no podrán operar fuera de las bolsas de valores los valores listados en éstas, salvo que lo autorice la [Comisión](articulo-2.md), previo acuerdo de su Junta de Gobierno, supuesto en el cual adicionalmente podrá determinar las operaciones que sin ser concertadas en bolsa puedan considerarse como realizadas en ésta. Las operaciones con valores listados en bolsas de valores que celebren las casas de bolsa en mercados del exterior, quedan exceptuadas del requisito de autorización antes establecido.

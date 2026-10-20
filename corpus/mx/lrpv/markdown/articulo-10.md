@@ -17,4 +17,4 @@ source_sha256: 0125eed7519ad260330f9a04f78c0e4a1ce93c06e67c98ac3c535416787656ba
 
 # Artículo 10
 
-Las autoridades federales y las de las Entidades Federativas que proporcionen la información de sus respectivos padrones vehiculares al Registro, tendrán acceso a la información contenida en el mismo, de conformidad con los procedimientos y mecanismos de información que se establezcan en términos de la fracción I del artículo [3](articulo-3.md) de esta Ley.
+Las autoridades federales y las de las [Entidades Federativas](articulo-2.md) que proporcionen la información de sus respectivos padrones vehiculares al [Registro](articulo-2.md), tendrán acceso a la información contenida en el mismo, de conformidad con los procedimientos y mecanismos de información que se establezcan en términos de la fracción I del artículo [3](articulo-3.md) de esta Ley.

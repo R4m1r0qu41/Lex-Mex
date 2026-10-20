@@ -29,10 +29,10 @@ II. Establecer normas, procedimientos y medidas para vigilar que los procesos de
 
 conforme a los objetivos y lineamientos de la Sociedad, así como con observancia a los límites de exposición al riesgo de crédito y otros.
 
-III. Diseñar controles para que tanto la elaboración de información financiera, como la información generada y proporcionada al Comité de Supervisión Auxiliar y a las autoridades sea precisa, íntegra, confiable y oportuna.
+III. Diseñar controles para que tanto la elaboración de información financiera, como la información generada y proporcionada al [Comité de Supervisión Auxiliar](articulo-1.md) y a las autoridades sea precisa, íntegra, confiable y oportuna.
 
 Las funciones de contraloría interna que, en principio, corresponden a la Dirección o Gerencia General de la Sociedad, podrán ser asignadas a un área específica o, en su caso, a personal distribuido en varias áreas. El personal que realice tales funciones incluso podrá ser independiente jerárquicamente de la Dirección o Gerencia General; sin que en ningún caso las referidas funciones de contraloría puedan atribuirse a personas o unidades que representen un conflicto de interés para su adecuado desempeño.
 
 Las citadas funciones de contraloría interna, así como su asignación al interior de la Sociedad, deberán estar documentadas en manuales.
 
-El personal responsable de las funciones a que hace referencia el presente artículo, deberá entregar un reporte de su gestión, cuando menos semestralmente, al Consejo de Vigilancia y al Comité de Auditoría; así como al Director o Gerente General.
+El personal responsable de las funciones a que hace referencia el presente artículo, deberá entregar un reporte de su gestión, cuando menos semestralmente, al [Consejo de Vigilancia](articulo-1.md) y al [Comité de Auditoría](articulo-1.md); así como al [Director o Gerente General](articulo-1.md).

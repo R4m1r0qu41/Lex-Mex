@@ -17,7 +17,7 @@ source_sha256: 7b3cf7a0ff59f76503a97a535457c4a7dd3b1305e7a36f4fca82bd661eab1168
 
 # Artículo 13
 
-El Consejo de Seguridad Nacional es una instancia deliberativa cuya finalidad es establecer y articular la política en la materia. Por tanto conocerá los asuntos siguientes:
+El [Consejo](articulo-6.md) de Seguridad Nacional es una instancia deliberativa cuya finalidad es establecer y articular la política en la materia. Por tanto conocerá los asuntos siguientes:
 
 I. La integración y coordinación de los esfuerzos orientados a preservar la Seguridad Nacional;
 
@@ -33,7 +33,7 @@ VI. Las medidas necesarias para la Seguridad Nacional, dentro del marco de atrib
 
 VII. Los lineamientos para regular el uso de aparatos útiles en la intervención de comunicaciones privadas;
 
-VIII. Los lineamientos para que el Centro preste auxilio y colaboración en materia de Seguridad Pública, procuración de justicia y en cualquier otro ramo de la Administración Pública que acuerde el Consejo;
+VIII. Los lineamientos para que el [Centro](articulo-6.md) preste auxilio y colaboración en materia de Seguridad Pública, procuración de justicia y en cualquier otro ramo de la Administración Pública que acuerde el Consejo;
 
 IX. Los procesos de clasificación y desclasificación de información en materia de Seguridad Nacional, y
 

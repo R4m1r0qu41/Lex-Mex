@@ -17,4 +17,4 @@ source_sha256: 9080231242a59cbd78d30fb747864bc45cd63d3c4978f37086b01e45343f4244
 
 # Artículo 1
 
-El presente reglamento tiene por objeto regular la aplicación y debida observancia de la Ley de la Empresa Pública del Estado, Petróleos Mexicanos, el cual es de observancia obligatoria para esta empresa pública del Estado y quienes mantengan relación con ella.
+El presente reglamento tiene por objeto regular la aplicación y debida observancia de la [Ley](articulo-2.md) de la Empresa Pública del Estado, Petróleos Mexicanos, el cual es de observancia obligatoria para esta empresa pública del Estado y quienes mantengan relación con ella.

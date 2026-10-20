@@ -21,7 +21,7 @@ Las disposiciones de este Título son aplicables a todas las actividades relacio
 
 I.- ARMAS
 
-a).- Todas las armas permitidas, que figuran en los artículos [9](articulo-9o.md) y [10](articulo-10.md) de esta Ley; Inciso reformado DOF 29-05-2025
+a).- Todas las armas permitidas, que figuran en los artículos [9](articulo-9o.md) y [10](articulo-10.md) de esta [Ley](articulo-1o-Bis.md); Inciso reformado DOF 29-05-2025
 
 b).- Armas accionadas por gas, aire comprimido o pistón que generen una energía cinética superior a los 140 Joules; Inciso reformado DOF 29-05-2025
 
@@ -31,7 +31,7 @@ d).- Las partes constitutivas de las armas anteriores.
 
 II.- MUNICIONES
 
-a).- Municiones y sus partes constitutivas destinadas a las armas señaladas en la fracción anterior;
+a).- [Municiones](articulo-1o-Bis.md) y sus partes constitutivas destinadas a las armas señaladas en la fracción anterior;
 
 b).- Los cartuchos empleados en las herramientas de fijación de anclas en la industria de la construcción y que para su funcionamiento usan pólvora.
 

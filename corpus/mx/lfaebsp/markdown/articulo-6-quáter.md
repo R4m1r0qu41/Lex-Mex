@@ -17,9 +17,9 @@ source_sha256: 269e72195414406bcbd3e90ac40ec26e031a9ea519316c44ee30bdfdf3163059
 
 # Artículo 6 quáter
 
-Los Bienes provenientes de comercio exterior que sean puestos a disposición del Instituto, para su Transferencia, deberán ser retirados del lugar en que se ubiquen dentro de los 60 días naturales siguientes a la recepción de la solicitud de entrega que efectúe la Entidad Transferente, debidamente acompañada de la documentación complementaria.
+Los [Bienes](articulo-2o.md) provenientes de comercio exterior que sean puestos a disposición del [Instituto](articulo-2o.md), para su [Transferencia](articulo-2o.md), deberán ser retirados del lugar en que se ubiquen dentro de los 60 días naturales siguientes a la recepción de la solicitud de entrega que efectúe la [Entidad Transferente](articulo-2o.md), debidamente acompañada de la documentación complementaria.
 
-El plazo a que se refiere el párrafo anterior, empezará a correr siempre y cuando, la solicitud de entrega y la documentación complementaria que reciba el Instituto, cumplan con todos los requisitos que para tal efecto establecen esta Ley, el Reglamento y los lineamientos que expida la Junta de Gobierno.
+El plazo a que se refiere el párrafo anterior, empezará a correr siempre y cuando, la solicitud de entrega y la documentación complementaria que reciba el Instituto, cumplan con todos los requisitos que para tal efecto establecen esta Ley, el [Reglamento](articulo-2o.md) y los lineamientos que expida la [Junta de Gobierno](articulo-2o.md).
 
 En caso de que el Instituto no efectúe el retiro de los Bienes dentro del plazo a que se refiere el primer párrafo del presente artículo sin causa justificada, éstos podrán ser donados o destruidos directamente por la autoridad aduanera competente.
 

@@ -17,7 +17,7 @@ source_sha256: 4d25bcb022ab62a24462e11a230c9554c0120012913ab4599cd3ec1b2b275c1d
 
 # Artículo 55
 
-Para los efectos descritos en el artículo [21](../../lmin/markdown/articulo-21.md) de la Ley, los criterios para determinar el monto de la indemnización que consigne el avalúo practicado por el INDAABIN con motivo de la ocupación temporal o la constitución de servidumbre superficial, serán los siguientes:
+Para los efectos descritos en el artículo [21](../../lmin/markdown/articulo-21.md) de la [Ley](articulo-1o.md), los criterios para determinar el monto de la indemnización que consigne el avalúo practicado por el [INDAABIN](articulo-1o.md) con motivo de la ocupación temporal o la constitución de servidumbre superficial, serán los siguientes:
 
 I. Un pago por única vez equivalente al valor comercial de los bienes distintos del terreno objeto de la afectación, que deberá cubrirse en la primera indemnización;
 

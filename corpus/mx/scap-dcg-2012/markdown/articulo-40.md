@@ -17,7 +17,7 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 40
 
-Las Sociedades podrán establecer en los manuales de crédito procesos de autorizaciones automáticas de créditos que permitan otorgar el crédito correspondiente a cualquier Socio. Dichos procesos deberán comprender lo siguiente:
+Las Sociedades podrán establecer en los manuales de crédito procesos de autorizaciones automáticas de créditos que permitan otorgar el crédito correspondiente a cualquier [Socio](articulo-1.md). Dichos procesos deberán comprender lo siguiente:
 
 I. El establecimiento de la documentación mínima a ser entregada por tipo de crédito.
 
@@ -29,4 +29,4 @@ IV. El establecimiento de las tasas de interés conforme a sus políticas.
 
 Las autorizaciones automáticas se podrán otorgar respecto de créditos para un mismo Socio, incluyendo a sus dependientes económicos, cuyo importe en lo individual o en su conjunto, no sea mayor a 10,000 UDIS.
 
-Los funcionarios, Consejeros o miembros del Comité de Crédito, no podrán participar en ninguna etapa del proceso crediticio, cuando el crédito en cuestión pueda representar conflictos de intereses para dichas personas.
+Los funcionarios, [Consejeros](articulo-1.md) o miembros del [Comité de Crédito](articulo-1.md), no podrán participar en ninguna etapa del proceso crediticio, cuando el crédito en cuestión pueda representar conflictos de intereses para dichas personas.

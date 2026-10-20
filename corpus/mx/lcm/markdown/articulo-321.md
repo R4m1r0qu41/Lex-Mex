@@ -17,7 +17,7 @@ source_sha256: 8e270686b885035488bfe310b0b42bb40e7154431794227ebe212dd7dc12e46a
 
 # Artículo 321
 
-La Junta Directiva tiene las facultades indelegables siguientes: I. Emitir las reglas de carácter general a que se refiere la presente Ley;
+La Junta Directiva tiene las facultades indelegables siguientes: I. Emitir las reglas de carácter general a que se refiere la presente [Ley](articulo-4o.md);
 
 II. Aprobar la estructura administrativa básica del [Instituto](articulo-4o.md) así como, en su caso, las sedes de las delegaciones regionales;
 

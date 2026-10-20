@@ -19,4 +19,4 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 Reglas de la audiencia Previo a cualquier audiencia, el personal auxiliar del juzgado de ejecución llevará a cabo la identificación de toda persona que vaya a participar, para lo cual deberá proporcionar su nombre, apellidos, edad y domicilio.
 
-Las audiencias serán presididas por el Juez de Ejecución, y se realizarán en los términos previstos en esta Ley y el Código Nacional.
+Las audiencias serán presididas por el Juez de Ejecución, y se realizarán en los términos previstos en esta [Ley](articulo-3.md) y el [Código Nacional](articulo-3.md).

@@ -17,4 +17,4 @@ source_sha256: d9ffbbf8f19b54a93ff577abb1266e4be1316d935e79fad655242955fd80ff70
 
 # Artículo 25
 
-El trámite, diligencias, expedición de permisos, resoluciones y demás disposiciones que establece la presente Ley, se realizará en días y horas hábiles. Quedan exceptuados de esta disposición los actos de inspección y vigilancia que practique la Secretaría en los términos de la presente Ley, mismos que podrán llevarse a cabo en cualquier día y hora, sin que para ello deba mediar habilitación de días y horas.
+El trámite, diligencias, expedición de permisos, resoluciones y demás disposiciones que establece la presente [Ley](articulo-2.md), se realizará en días y horas hábiles. Quedan exceptuados de esta disposición los actos de inspección y vigilancia que practique la [Secretaría](articulo-2.md) en los términos de la presente Ley, mismos que podrán llevarse a cabo en cualquier día y hora, sin que para ello deba mediar habilitación de días y horas.

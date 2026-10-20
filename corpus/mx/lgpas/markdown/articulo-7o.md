@@ -17,6 +17,6 @@ source_sha256: 160e5e85efddb1749a79f6b154af31711a9b31a5e32bace3c07e2859c2620ecf
 
 # Artículo 7o
 
-Las atribuciones que esta Ley otorga a la Federación, serán ejercidas por el Poder Ejecutivo Federal a través de la Secretaría, salvo las que directamente correspondan al Presidente de la República por disposición expresa de la ley.
+Las atribuciones que esta Ley otorga a la Federación, serán ejercidas por el Poder Ejecutivo Federal a través de la [Secretaría](articulo-4o.md), salvo las que directamente correspondan al Presidente de la República por disposición expresa de la ley.
 
 Cuando, por razón de la materia y de conformidad con la Ley Orgánica de la Administración Pública Federal u otras disposiciones legales aplicables, se requiera de la intervención de otras dependencias, la Secretaría ejercerá sus atribuciones en coordinación con las mismas.

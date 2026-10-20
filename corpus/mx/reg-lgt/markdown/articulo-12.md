@@ -17,4 +17,4 @@ source_sha256: 6680a58c98673518aee46582b3137d28987c275785d1f0c97295f0d89c4b692b
 
 # Artículo 12
 
-Los integrantes de la Conferencia Nacional celebrarán reuniones ordinarias cuando menos una vez al año, en la Entidad Federativa que elijan por acuerdo de la mayoría, así como reuniones extraordinarias las veces que lo consideren pertinente.
+Los integrantes de la [Conferencia Nacional](articulo-2.md) celebrarán reuniones ordinarias cuando menos una vez al año, en la Entidad Federativa que elijan por acuerdo de la mayoría, así como reuniones extraordinarias las veces que lo consideren pertinente.

@@ -19,6 +19,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:code:cnpp:article:1:term-usage:342-350",
+    "provision_id": "urn:lex-mx:federal:code:cnpp:article:1",
+    "term_id": "urn:lex-mx:federal:code:cnpp:term:tratados",
+    "span": "Tratados",
+    "start_char": 342,
+    "end_char": 350
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:code:cnpp:article:2:term-usage:11-17",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:2",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:codigo",
@@ -43,6 +52,15 @@
     "span": "Constitución",
     "start_char": 491,
     "end_char": 503
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:code:cnpp:article:2:term-usage:513-521",
+    "provision_id": "urn:lex-mx:federal:code:cnpp:article:2",
+    "term_id": "urn:lex-mx:federal:code:cnpp:term:tratados",
+    "span": "Tratados",
+    "start_char": 513,
+    "end_char": 521
   },
   {
     "schema_version": "0.1.0",
@@ -253,6 +271,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:code:cnpp:article:4:term-usage:226-234",
+    "provision_id": "urn:lex-mx:federal:code:cnpp:article:4",
+    "term_id": "urn:lex-mx:federal:code:cnpp:term:tratados",
+    "span": "Tratados",
+    "start_char": 226,
+    "end_char": 234
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:code:cnpp:article:4:term-usage:256-262",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:4",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:codigo",
@@ -388,6 +415,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:code:cnpp:article:11:term-usage:177-185",
+    "provision_id": "urn:lex-mx:federal:code:cnpp:article:11",
+    "term_id": "urn:lex-mx:federal:code:cnpp:term:tratados",
+    "span": "Tratados",
+    "start_char": 177,
+    "end_char": 185
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:code:cnpp:article:12:term-usage:174-195",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:12",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:organo-jurisdiccional",
@@ -403,6 +439,15 @@
     "span": "Constitución",
     "start_char": 381,
     "end_char": 393
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:code:cnpp:article:12:term-usage:399-407",
+    "provision_id": "urn:lex-mx:federal:code:cnpp:article:12",
+    "term_id": "urn:lex-mx:federal:code:cnpp:term:tratados",
+    "span": "Tratados",
+    "start_char": 399,
+    "end_char": 407
   },
   {
     "schema_version": "0.1.0",
@@ -493,6 +538,15 @@
     "span": "Constitución",
     "start_char": 258,
     "end_char": 270
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:code:cnpp:article:18:term-usage:276-284",
+    "provision_id": "urn:lex-mx:federal:code:cnpp:article:18",
+    "term_id": "urn:lex-mx:federal:code:cnpp:term:tratados",
+    "span": "Tratados",
+    "start_char": 276,
+    "end_char": 284
   },
   {
     "schema_version": "0.1.0",
@@ -718,6 +772,15 @@
     "span": "Entidades federativas",
     "start_char": 1716,
     "end_char": 1737
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:code:cnpp:article:21:term-usage:1807-1814",
+    "provision_id": "urn:lex-mx:federal:code:cnpp:article:21",
+    "term_id": "urn:lex-mx:federal:code:cnpp:term:tratados",
+    "span": "Tratado",
+    "start_char": 1807,
+    "end_char": 1814
   },
   {
     "schema_version": "0.1.0",
@@ -1819,6 +1882,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:code:cnpp:article:64:term-usage:650-658",
+    "provision_id": "urn:lex-mx:federal:code:cnpp:article:64",
+    "term_id": "urn:lex-mx:federal:code:cnpp:term:tratados",
+    "span": "Tratados",
+    "start_char": 650,
+    "end_char": 658
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:code:cnpp:article:64:term-usage:715-721",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:64",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:codigo",
@@ -2881,6 +2953,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:code:cnpp:article:109:term-usage:5753-5761",
+    "provision_id": "urn:lex-mx:federal:code:cnpp:article:109",
+    "term_id": "urn:lex-mx:federal:code:cnpp:term:tratados",
+    "span": "Tratados",
+    "start_char": 5753,
+    "end_char": 5761
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:code:cnpp:article:109:term-usage:5801-5807",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:109",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:codigo",
@@ -3661,6 +3742,15 @@
     "span": "Constitución",
     "start_char": 252,
     "end_char": 264
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:code:cnpp:article:131:term-usage:274-282",
+    "provision_id": "urn:lex-mx:federal:code:cnpp:article:131",
+    "term_id": "urn:lex-mx:federal:code:cnpp:term:tratados",
+    "span": "Tratados",
+    "start_char": 274,
+    "end_char": 282
   },
   {
     "schema_version": "0.1.0",
@@ -5896,6 +5986,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:code:cnpp:article:214:term-usage:310-318",
+    "provision_id": "urn:lex-mx:federal:code:cnpp:article:214",
+    "term_id": "urn:lex-mx:federal:code:cnpp:term:tratados",
+    "span": "Tratados",
+    "start_char": 310,
+    "end_char": 318
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:code:cnpp:article:215:term-usage:145-163",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:215",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:ministerio-publico",
@@ -7396,6 +7495,15 @@
     "span": "Código",
     "start_char": 354,
     "end_char": 360
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:code:cnpp:article:287:term-usage:304-312",
+    "provision_id": "urn:lex-mx:federal:code:cnpp:article:287",
+    "term_id": "urn:lex-mx:federal:code:cnpp:term:tratados",
+    "span": "Tratados",
+    "start_char": 304,
+    "end_char": 312
   },
   {
     "schema_version": "0.1.0",
@@ -9352,6 +9460,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:code:cnpp:article:365:term-usage:1098-1106",
+    "provision_id": "urn:lex-mx:federal:code:cnpp:article:365",
+    "term_id": "urn:lex-mx:federal:code:cnpp:term:tratados",
+    "span": "Tratados",
+    "start_char": 1098,
+    "end_char": 1106
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:code:cnpp:article:365:term-usage:1199-1220",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:365",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:organo-jurisdiccional",
@@ -10369,6 +10486,33 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:code:cnpp:article:435:term-usage:211-218",
+    "provision_id": "urn:lex-mx:federal:code:cnpp:article:435",
+    "term_id": "urn:lex-mx:federal:code:cnpp:term:tratados",
+    "span": "Tratado",
+    "start_char": 211,
+    "end_char": 218
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:code:cnpp:article:435:term-usage:247-254",
+    "provision_id": "urn:lex-mx:federal:code:cnpp:article:435",
+    "term_id": "urn:lex-mx:federal:code:cnpp:term:tratados",
+    "span": "Tratado",
+    "start_char": 247,
+    "end_char": 254
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:code:cnpp:article:435:term-usage:476-483",
+    "provision_id": "urn:lex-mx:federal:code:cnpp:article:435",
+    "term_id": "urn:lex-mx:federal:code:cnpp:term:tratados",
+    "span": "Tratado",
+    "start_char": 476,
+    "end_char": 483
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:code:cnpp:article:435:term-usage:541-547",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:435",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:codigo",
@@ -10396,12 +10540,48 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:code:cnpp:article:438:term-usage:39-46",
+    "provision_id": "urn:lex-mx:federal:code:cnpp:article:438",
+    "term_id": "urn:lex-mx:federal:code:cnpp:term:tratados",
+    "span": "Tratado",
+    "start_char": 39,
+    "end_char": 46
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:code:cnpp:article:443:term-usage:239-246",
+    "provision_id": "urn:lex-mx:federal:code:cnpp:article:443",
+    "term_id": "urn:lex-mx:federal:code:cnpp:term:tratados",
+    "span": "Tratado",
+    "start_char": 239,
+    "end_char": 246
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:code:cnpp:article:447:term-usage:365-372",
+    "provision_id": "urn:lex-mx:federal:code:cnpp:article:447",
+    "term_id": "urn:lex-mx:federal:code:cnpp:term:tratados",
+    "span": "Tratado",
+    "start_char": 365,
+    "end_char": 372
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:code:cnpp:article:450:term-usage:246-267",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:450",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:organo-jurisdiccional",
     "span": "Órgano jurisdiccional",
     "start_char": 246,
     "end_char": 267
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:code:cnpp:article:452:term-usage:651-658",
+    "provision_id": "urn:lex-mx:federal:code:cnpp:article:452",
+    "term_id": "urn:lex-mx:federal:code:cnpp:term:tratados",
+    "span": "Tratado",
+    "start_char": 651,
+    "end_char": 658
   },
   {
     "schema_version": "0.1.0",
@@ -10420,6 +10600,24 @@
     "span": "Ministerio Público",
     "start_char": 808,
     "end_char": 826
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:code:cnpp:article:455:term-usage:189-196",
+    "provision_id": "urn:lex-mx:federal:code:cnpp:article:455",
+    "term_id": "urn:lex-mx:federal:code:cnpp:term:tratados",
+    "span": "Tratado",
+    "start_char": 189,
+    "end_char": 196
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:code:cnpp:article:455:term-usage:538-546",
+    "provision_id": "urn:lex-mx:federal:code:cnpp:article:455",
+    "term_id": "urn:lex-mx:federal:code:cnpp:term:tratados",
+    "span": "Tratados",
+    "start_char": 538,
+    "end_char": 546
   },
   {
     "schema_version": "0.1.0",
@@ -10825,6 +11023,15 @@
     "span": "Constitución",
     "start_char": 260,
     "end_char": 272
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:code:cnpp:article:482:term-usage:309-317",
+    "provision_id": "urn:lex-mx:federal:code:cnpp:article:482",
+    "term_id": "urn:lex-mx:federal:code:cnpp:term:tratados",
+    "span": "Tratados",
+    "start_char": 309,
+    "end_char": 317
   },
   {
     "schema_version": "0.1.0",

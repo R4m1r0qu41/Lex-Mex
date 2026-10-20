@@ -15,4 +15,4 @@ source_sha256: c1870db657a6564bbeb692a1778472db811a920626822de553ff5ca5194f95b4
 
 # Décimo Segundo
 
-Los permisos y autorizaciones otorgados por la SENER y la Comisión Reguladora de Energía para llevar a cabo las actividades de Producción, Almacenamiento, Distribución, Comercialización, Transporte y Expendio al Público de bioenergéticos o Biocombustibles con anterioridad a la entrada en vigor de esta Ley, mantienen su vigencia en los términos otorgados.
+Los permisos y autorizaciones otorgados por la [SENER](articulo-2.md) y la Comisión Reguladora de Energía para llevar a cabo las actividades de [Producción](articulo-2.md), [Almacenamiento](articulo-2.md), [Distribución](articulo-2.md), [Comercialización](articulo-2.md), [Transporte](articulo-2.md) y [Expendio al Público](articulo-2.md) de bioenergéticos o [Biocombustibles](articulo-2.md) con anterioridad a la entrada en vigor de esta [Ley](articulo-2.md), mantienen su vigencia en los términos otorgados.

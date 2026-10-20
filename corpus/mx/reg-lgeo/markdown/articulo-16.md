@@ -17,4 +17,4 @@ source_sha256: b19bcf104673af06117a6d4f3c947591f7a65999f19bad3dcfe2599a29bb3ab0
 
 # Artículo 16
 
-El otorgamiento de Permisos de Exploración, Permisos para Usos Diversos o Concesiones por parte de la Secretaría se debe ajustar a los criterios establecidos en la Ley, el Reglamento y la normativa aplicable en materia de geotermia.
+El otorgamiento de Permisos de Exploración, Permisos para Usos Diversos o Concesiones por parte de la [Secretaría](articulo-3.md) se debe ajustar a los criterios establecidos en la [Ley](articulo-3.md), el [Reglamento](articulo-3.md) y la normativa aplicable en materia de geotermia.

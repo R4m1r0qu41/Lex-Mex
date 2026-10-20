@@ -17,4 +17,4 @@ source_sha256: cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7
 
 # Artículo 51
 
-Con objeto de crear y fomentar entre los Usuarios una cultura adecuada del uso de las operaciones y servicios financieros, la Comisión Nacional se encargará de difundir entre los mismos la información relativa a los distintos servicios que ofrecen las Instituciones Financieras, así como de los programas que se otorguen en beneficio de los Usuarios.
+Con objeto de crear y fomentar entre los [Usuarios](articulo-2o.md) una cultura adecuada del uso de las operaciones y servicios financieros, la [Comisión Nacional](articulo-2o.md) se encargará de difundir entre los mismos la información relativa a los distintos servicios que ofrecen las [Instituciones Financieras](articulo-2o.md), así como de los programas que se otorguen en beneficio de los Usuarios.

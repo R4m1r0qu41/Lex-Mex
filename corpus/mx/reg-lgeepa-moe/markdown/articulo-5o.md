@@ -17,4 +17,4 @@ source_sha256: d25fabb2d2e90d9f76028717f83c442d05a4f64024f13461285bda8ebd389a04
 
 # Artículo 5o
 
-Las dependencias y entidades de la Administración Pública Federal proporcionarán a la Secretaría la información y el apoyo técnico que requiera para la formulación, expedición, ejecución, evaluación y modificación de los programas de ordenamiento ecológico de competencia de la misma, en términos de la Ley Orgánica de la Administración Pública Federal.
+Las dependencias y entidades de la Administración Pública Federal proporcionarán a la [Secretaría](articulo-3o.md) la información y el apoyo técnico que requiera para la formulación, expedición, ejecución, evaluación y modificación de los programas de ordenamiento ecológico de competencia de la misma, en términos de la [Ley](articulo-3o.md) Orgánica de la Administración Pública Federal.

@@ -41,7 +41,7 @@ XI. Aquellos otros que juzgue convenientes para proveer la liquidez, solvencia y
 
 La Comisión requerirá del previo acuerdo de su Junta de Gobierno para emitir las disposiciones de carácter general a que se refieren las fracciones I y VI anteriores.
 
-En la emisión de las disposiciones a que se refieren las fracciones III, IV y VIII, tratándose de operaciones que realicen las Sociedades Cooperativas de Ahorro y Préstamo en Zonas Rurales, la Comisión deberá considerar las restricciones y limitaciones que pudieran existir en dichas zonas, así como mecanismos de control que compensen dicha situación.
+En la emisión de las disposiciones a que se refieren las fracciones III, IV y VIII, tratándose de operaciones que realicen las Sociedades Cooperativas de Ahorro y Préstamo en [Zonas Rurales](articulo-2.md), la Comisión deberá considerar las restricciones y limitaciones que pudieran existir en dichas zonas, así como mecanismos de control que compensen dicha situación.
 
 Asimismo, cuando para el mejor cumplimiento de las atribuciones que le confiere el presente Artículo, lo estime conveniente, dicha Comisión podrá solicitar la opinión de la [Secretaría](articulo-2.md) y del Banco de México.
 

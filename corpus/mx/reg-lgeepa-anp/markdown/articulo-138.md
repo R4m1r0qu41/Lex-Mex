@@ -17,4 +17,4 @@ source_sha256: 4e276866fce1638948a6daf1a5c0438fa412554f1a6e0381cbdf7cb300e3db75
 
 # Artículo 138
 
-La vigilancia de los parques nacionales establecidos en las zonas marinas mexicanas, se llevará a cabo por personal autorizado de la Secretaría en coordinación con la Secretaría de Marina, atendiendo a sus respectivas competencias.
+La vigilancia de los parques nacionales establecidos en las zonas marinas mexicanas, se llevará a cabo por personal autorizado de la [Secretaría](articulo-3o.md) en coordinación con la Secretaría de Marina, atendiendo a sus respectivas competencias.

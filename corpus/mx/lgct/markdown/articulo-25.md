@@ -17,4 +17,4 @@ source_sha256: 9f964bc5c075d7cf47e5e9df7c2fbe262eb5bd1794de9b230dbd72026a51ae5e
 
 # Artículo 25
 
-Las publicaciones de comunicaciones internas para la distribución entre los empleados de la industria tabacalera no serán consideradas publicidad o promoción para efectos de esta Ley.
+Las publicaciones de comunicaciones internas para la distribución entre los empleados de la industria tabacalera no serán consideradas publicidad o promoción para efectos de esta [Ley](articulo-6.md).

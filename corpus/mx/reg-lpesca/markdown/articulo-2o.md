@@ -31,7 +31,7 @@ V. Esfuerzo pesquero: el número de individuos, embarcaciones y/o artes de pesca
 
 VI. Ley: Ley de Pesca;
 
-VII. Método de pesca: el conjunto de técnicas que basado en algún principio de captura, aprovecha las características biológicas y ecológicas de las especies y el comportamiento físico de las artes de pesca; VIII. Norma: la disposición de carácter obligatorio expedida por la Secretaría, de conformidad con lo previsto en la Ley Federal sobre Metrología y Normalización;
+VII. Método de pesca: el conjunto de técnicas que basado en algún principio de captura, aprovecha las características biológicas y ecológicas de las especies y el comportamiento físico de las artes de pesca; VIII. Norma: la disposición de carácter obligatorio expedida por la [Secretaría](articulo-2o.md), de conformidad con lo previsto en la [Ley](articulo-2o.md) Federal sobre Metrología y Normalización;
 
 IX. Planta flotante: la embarcación sin propulsión propia, que disponga de equipos para la industrialización de materia prima proveniente de otras embarcaciones;
 

@@ -17,4 +17,4 @@ source_sha256: 45deb87bfd634dfbd1cb7d9fd67a476ad954187908eb0cb06256c90ccc0feb80
 
 # Artículo 16
 
-El Sistema Nacional de Información de la Cafeticultura en México será de orden público y coordinado por la persona titular de la Secretaría.
+El Sistema Nacional de Información de la [Cafeticultura](articulo-3.md) en México será de orden público y coordinado por la persona titular de la [Secretaría](articulo-3.md).

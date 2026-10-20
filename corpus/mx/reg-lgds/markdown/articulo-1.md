@@ -17,4 +17,4 @@ source_sha256: aca2d65d2eef1b7c26ab431772ce7364305d103f5e4bacc87da02064df005ae3
 
 # Artículo 1
 
-El presente ordenamiento tiene por objeto reglamentar la Ley General de Desarrollo Social. Sus disposiciones son de orden público e interés social y su aplicación corresponde al Ejecutivo Federal por conducto de las dependencias y entidades de la Administración Pública Federal, en el ámbito de sus respectivas competencias.
+El presente ordenamiento tiene por objeto reglamentar la [Ley](articulo-3.md) General de Desarrollo Social. Sus disposiciones son de orden público e interés social y su aplicación corresponde al Ejecutivo Federal por conducto de las dependencias y entidades de la Administración Pública Federal, en el ámbito de sus respectivas competencias.

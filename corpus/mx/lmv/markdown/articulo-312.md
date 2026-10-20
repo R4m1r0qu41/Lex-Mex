@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título X · Capítulo II
+
 # Artículo 312
 
 Las contrapartes centrales de valores podrán divulgar la información de sus procedimientos para administrar riesgos, de sus recursos financieros y del monto de los recursos que reciban para garantizar el cumplimiento de las obligaciones de sus deudores y acreedores recíprocos.

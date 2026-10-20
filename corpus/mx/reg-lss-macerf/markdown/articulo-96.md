@@ -17,6 +17,6 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 96
 
-Se considerarán como familiares adicionales, para efectos del artículo 242 de la Ley, así como para los de este Reglamento, los abuelos, nietos, hermanos, primos, hijos de los hermanos y hermanos de los padres del sujeto de aseguramiento.
+Se considerarán como familiares adicionales, para efectos del artículo 242 de la [Ley](../../lss/markdown/articulo-5-A.md), así como para los de este Reglamento, los abuelos, nietos, hermanos, primos, hijos de los hermanos y hermanos de los padres del sujeto de aseguramiento.
 
 Para los efectos del párrafo final del artículo 242 de la Ley a los familiares adicionales se les considerará como parte de la familia del sujeto de aseguramiento.

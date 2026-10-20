@@ -20,9 +20,9 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 La solicitud de pago deberá presentarse en cualquiera de las sucursales que permanezcan abiertas de la Sociedad declarada en disolución y liquidación o de la que se hubiese decretado su concurso mercantil, o bien, de las oficinas determinadas para tal fin, detallando los aspectos siguientes:
 
-I. Nombre del titular o titulares de la cuenta o cuentas, ya sea Cuentas Individuales o Cuentas Colectivas, que se mantengan en la Sociedad de la que se hubiere hecho pública la resolución relativa a la disolución y liquidación o concurso mercantil.
+I. Nombre del titular o titulares de la cuenta o cuentas, ya sea [Cuentas Individuales](articulo-1.md) o [Cuentas Colectivas](articulo-1.md), que se mantengan en la Sociedad de la que se hubiere hecho pública la resolución relativa a la disolución y liquidación o concurso mercantil.
 
-II. Domicilio y, en su caso, número telefónico en el que se pueda localizar al Interesado.
+II. Domicilio y, en su caso, número telefónico en el que se pueda localizar al [Interesado](articulo-1.md).
 
 III. Número de la cuenta o Cuentas Individuales o Cuentas Colectivas en que participe el Interesado.
 
@@ -30,7 +30,7 @@ IV. Monto estimado de los depósitos conforme al último estado de cuenta recibi
 
 V. Forma en que se desea recibir el pago, de conformidad con lo previsto en el Artículo [286](articulo-286.md) de las presentes disposiciones.
 
-Para efectos de lo dispuesto en el párrafo anterior, las Sociedades deberán dar aviso tanto al Comité de Protección al Ahorro Cooperativo como a la Comisión, dentro de los 5 días hábiles siguientes a la declaración de disolución y liquidación o concurso mercantil, según corresponda, la ubicación de las sucursales que permanecerán abiertas al público u oficinas en las que se dará atención a los Socios. En todo caso, deberá haber por lo menos una sucursal u oficina en cada plaza en la que la Sociedad hubiere operado. Asimismo, en las sucursales abiertas se deberá informar al público a través de carteles, la ubicación del resto de sucursales abiertas u oficinas.
+Para efectos de lo dispuesto en el párrafo anterior, las Sociedades deberán dar aviso tanto al [Comité de Protección al Ahorro Cooperativo](articulo-1.md) como a la [Comisión](articulo-1.md), dentro de los 5 días hábiles siguientes a la declaración de disolución y liquidación o concurso mercantil, según corresponda, la ubicación de las sucursales que permanecerán abiertas al público u oficinas en las que se dará atención a los [Socios](articulo-1.md). En todo caso, deberá haber por lo menos una sucursal u oficina en cada plaza en la que la Sociedad hubiere operado. Asimismo, en las sucursales abiertas se deberá informar al público a través de carteles, la ubicación del resto de sucursales abiertas u oficinas.
 
 El Comité de Protección al Ahorro Cooperativo elaborará los formatos en donde se solicite la información anterior, mismos que deberán ser enviados por correo al domicilio que aparezca en el estado de cuenta del titular o titulares de la operación y que deberán tenerse a disposición de los Interesados en las sucursales de la Sociedad.
 

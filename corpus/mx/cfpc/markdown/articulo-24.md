@@ -43,6 +43,8 @@ c).- De las acciones de nulidad, rescisión y evicción de la partición heredit
 
 VII.- El del lugar en que se hizo una inscripción en el Registro Público de la Propiedad, cuando la acción que se entable no tenga más objeto que decretar su cancelación; Fracción reformada DOF 18-12-2002
 
-VIII.- En los actos de jurisdicción voluntaria, salva disposición contraria de la ley, es juez competente el del domicilio del que promueve; pero, si se trata de bienes raíces, lo es el del lugar en que estén ubicados, observándose, en lo aplicable, lo dispuesto en la fracción III. Fe de erratas al párrafo DOF 13-03-1943 Cuando haya varios tribunales competentes conforme a las disposiciones anteriores, en caso de conflicto de competencias se decidirá a favor del que haya prevenido en el conocimiento, y Párrafo reformado DOF 18-12-2002
+VIII.- En los actos de jurisdicción voluntaria, salva disposición contraria de la ley, es juez competente el del domicilio del que promueve; pero, si se trata de bienes raíces, lo es el del lugar en que estén ubicados, observándose, en lo aplicable, lo dispuesto en la fracción III. Fe de erratas al párrafo DOF 13-03-1943
+
+Cuando haya varios tribunales competentes conforme a las disposiciones anteriores, en caso de conflicto de competencias se decidirá a favor del que haya prevenido en el conocimiento, y Párrafo reformado DOF 18-12-2002
 
 IX.- Tratándose de juicios en los que el demandado sea indígena, será juez competente el del lugar en el que aquél tenga su domicilio; si ambas partes son indígenas, lo será el juez que ejerza jurisdicción en el domicilio del demandante. Fracción adicionada DOF 18-12-2002

@@ -17,7 +17,7 @@ source_sha256: ea96e97cbea2fd1919af78b94cd3466ee20a77e05989be2d482d2eb8061618c5
 
 # Artículo 64
 
-La Secretaría o la Secretaría de Medio Ambiente y Recursos Naturales, según corresponda, podrán autorizar a las instituciones destinatarias, a solicitud de éstas, a concesionar o arrendar a particulares el uso de espacios en los inmuebles destinados a su servicio, debiendo tomar en cuenta lo dispuesto por el artículo [62](articulo-62.md) de esta Ley.
+La [Secretaría](articulo-2.md) o la Secretaría de Medio Ambiente y Recursos Naturales, según corresponda, podrán autorizar a las instituciones destinatarias, a solicitud de éstas, a concesionar o arrendar a particulares el uso de espacios en los inmuebles destinados a su servicio, debiendo tomar en cuenta lo dispuesto por el artículo [62](articulo-62.md) de esta Ley.
 
 La Secretaría de Medio Ambiente y Recursos Naturales respecto de los inmuebles federales de su competencia, podrá autorizar a las instituciones destinatarias a asignar el uso de espacios a otras instituciones públicas, así como autorizar a las dependencias destinatarias que celebren acuerdos de coordinación con los gobiernos estatales para que, en el marco de la descentralización de funciones a favor de los gobiernos de los estados, transfieran a éstos el uso de inmuebles federales con fines de promoción del desarrollo estatal o regional. En estos casos, los beneficiarios del uso de los inmuebles federales asumirán los costos inherentes al uso y conservación del bien de que se trate.
 

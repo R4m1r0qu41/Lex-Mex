@@ -17,4 +17,4 @@ source_sha256: 89220c0c86445a873067e0095b4591c11847dfd11595ca3e11bbfcf09cef6754
 
 # Artículo 19
 
-La Secretaría debe elaborar el Programa Nacional con apoyo de las secretarías del ramo competentes, y con la participación de los sectores productivos.
+La [Secretaría](articulo-3.md) debe elaborar el [Programa Nacional](articulo-3.md) con apoyo de las secretarías del ramo competentes, y con la participación de los sectores productivos.

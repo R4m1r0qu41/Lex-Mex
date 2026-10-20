@@ -19,7 +19,7 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 Causas de reposición Habrá lugar a la reposición del procedimiento por alguna de las causas siguientes:
 
-I. Cuando en la tramitación de la audiencia de juicio oral o en el dictado de la sentencia se hubieren infringido derechos fundamentales asegurados por la [Constitución](articulo-3o.md), las leyes que de ella emanen y los Tratados;
+I. Cuando en la tramitación de la audiencia de juicio oral o en el dictado de la sentencia se hubieren infringido derechos fundamentales asegurados por la [Constitución](articulo-3o.md), las leyes que de ella emanen y los [Tratados](articulo-3o.md);
 
 II. Cuando no se desahoguen las pruebas que fueron admitidas legalmente, o no se desahoguen conforme a las disposiciones previstas en este [Código](articulo-3o.md);
 

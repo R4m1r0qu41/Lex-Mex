@@ -17,4 +17,4 @@ source_sha256: b34326588bd6e7519e33411d3658239e3aefb56cef0fae5d775bc894af64a565
 
 # Artículo 90
 
-Por el incumplimiento de las disposiciones legales aplicables, la Secretaría podrá negar o revocar las autorizaciones para la importación o exportación de residuos peligrosos, así como para su tránsito y transporte por el territorio nacional.
+Por el incumplimiento de las disposiciones legales aplicables, la [Secretaría](articulo-5.md) podrá negar o revocar las autorizaciones para la importación o exportación de residuos peligrosos, así como para su tránsito y transporte por el territorio nacional.

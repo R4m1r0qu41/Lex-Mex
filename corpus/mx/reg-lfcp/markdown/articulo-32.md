@@ -17,7 +17,7 @@ source_sha256: 43723ba379e128c1a1c1be4b085ecc870946cdec43d56f83e7314c077361368f
 
 # Artículo 32
 
-El corredor redactará las pólizas y actas sujetándose a lo dispuesto por la Ley, este reglamento y a lo siguiente:
+El corredor redactará las pólizas y actas sujetándose a lo dispuesto por la [Ley](articulo-2o.md), este reglamento y a lo siguiente:
 
 I.- No podrán utilizarse abreviaturas ni guarismos, excepto cuando la misma cantidad aparezca con letras;
 

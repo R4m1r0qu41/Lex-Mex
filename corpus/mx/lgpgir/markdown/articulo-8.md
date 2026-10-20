@@ -17,7 +17,7 @@ source_sha256: b34326588bd6e7519e33411d3658239e3aefb56cef0fae5d775bc894af64a565
 
 # Artículo 8
 
-Las atribuciones que esta Ley confiere a la Federación, serán ejercidas por el Ejecutivo Federal, a través de la Secretaría, salvo las que directamente correspondan al Presidente de la República por disposición expresa de Ley.
+Las atribuciones que esta [Ley](articulo-5.md) confiere a la Federación, serán ejercidas por el Ejecutivo Federal, a través de la [Secretaría](articulo-5.md), salvo las que directamente correspondan al Presidente de la República por disposición expresa de Ley.
 
 Cuando debido a las características de las materias objeto de esta Ley y de conformidad con la Ley Orgánica de la Administración Pública Federal u otras disposiciones legales aplicables, se requiera de la intervención de otras dependencias, la Secretaría ejercerá sus atribuciones en coordinación con las mismas.
 

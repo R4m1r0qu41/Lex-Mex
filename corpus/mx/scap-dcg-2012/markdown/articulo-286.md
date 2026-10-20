@@ -17,6 +17,6 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 286
 
-La institución de banca de desarrollo fiduciaria, efectuará el pago de las obligaciones objeto de protección mediante cheque nominativo, transferencia electrónica a una cuenta que mantenga el ahorrador en una entidad financiera, o bien, en efectivo, según lo haya estipulado el propio Interesado en su solicitud.
+La institución de banca de desarrollo fiduciaria, efectuará el pago de las obligaciones objeto de protección mediante cheque nominativo, transferencia electrónica a una cuenta que mantenga el ahorrador en una entidad financiera, o bien, en efectivo, según lo haya estipulado el propio [Interesado](articulo-1.md) en su solicitud.
 
 El Interesado, previa acreditación de identidad, podrá recibir el pago que le corresponda conforme al presente capítulo mediante el cheque o el efectivo respectivo y el comprobante de la transferencia, en la sucursal de la Sociedad en donde se hubiere presentado la solicitud, así como el estado de cuenta que ampare el cálculo del importe pagado por la institución de banca de desarrollo fiduciaria.

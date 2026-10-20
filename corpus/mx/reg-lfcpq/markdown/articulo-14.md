@@ -21,4 +21,4 @@ La Secretaría de Salud deberá ingresar a la base de datos la información cont
 
 Asimismo, deberá ingresar a la base de datos los avisos de importación y exportación que reciba dentro de los tres días siguientes a su recepción.
 
-La autoridad federal competente, en su caso, en el cumplimiento de los instrumentos internacionales relativos al objeto de la Ley, comunicará en forma previa la exportación a la autoridad competente del país importador, de acuerdo con lo establecido en las disposiciones internacionales aplicables. REGLAMENTO DE LA LEY FEDERAL PARA EL CONTROL DE PRECURSORES QUÍMICOS, PRODUCTOS QUÍMICOS ESENCIALES Y MÁQUINAS PARA ELABORAR CÁPSULAS, TABLETAS Y/O COMPRIMIDOS
+La autoridad federal competente, en su caso, en el cumplimiento de los instrumentos internacionales relativos al objeto de la [Ley](articulo-2.md), comunicará en forma previa la exportación a la autoridad competente del país importador, de acuerdo con lo establecido en las disposiciones internacionales aplicables. REGLAMENTO DE LA LEY FEDERAL PARA EL CONTROL DE PRECURSORES QUÍMICOS, PRODUCTOS QUÍMICOS ESENCIALES Y MÁQUINAS PARA ELABORAR CÁPSULAS, TABLETAS Y/O COMPRIMIDOS

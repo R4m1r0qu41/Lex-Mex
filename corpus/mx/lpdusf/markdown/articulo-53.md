@@ -17,6 +17,6 @@ source_sha256: cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7
 
 # Artículo 53
 
-Las Instituciones Financieras deberán proporcionar la información que les solicite la Comisión Nacional, para el cumplimiento de su objeto en los términos y plazos que ésta señale, en caso contrario, se harán acreedoras a las sanciones que establece esta Ley.
+Las [Instituciones Financieras](articulo-2o.md) deberán proporcionar la información que les solicite la [Comisión Nacional](articulo-2o.md), para el cumplimiento de su objeto en los términos y plazos que ésta señale, en caso contrario, se harán acreedoras a las sanciones que establece esta Ley.
 
 Artículo reformado DOF 15-06-2007

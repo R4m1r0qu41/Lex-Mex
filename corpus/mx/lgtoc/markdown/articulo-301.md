@@ -30,5 +30,3 @@ IV.- Por la falta o disminución de las garantías pactadas a cargo del acredita
 V.- Por hallarse cualquiera de las partes en estado de suspensión de pagos, de liquidación judicial o de quiebra;
 
 VI.- Por la muerte, interdicción, inhabilitación o ausencia del acreditado, o por disolución de la sociedad a cuyo favor se hubiere concedido el crédito. Fe de erratas al artículo DOF 08-09-1932. Reformado DOF 31-08-1933
-
-Sección Segunda De la Cuenta Corriente

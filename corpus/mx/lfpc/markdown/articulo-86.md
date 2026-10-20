@@ -13,11 +13,11 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPC.pdf
 source_sha256: 7fea623841fd6e05e8c0d01d2cf09f85b0b8e58ba4d9e4f6711f8bad1f448e55
 ---
 
-> Capítulo VIII BIS
+> Capítulo X
 
 # Artículo 86
 
-La Secretaría, mediante normas oficiales mexicanas podrá sujetar contratos de adhesión a registro previo ante la Procuraduría cuando impliquen o puedan implicar prestaciones desproporcionadas a cargo de los consumidores, obligaciones inequitativas o abusivas, o altas probabilidades de incumplimiento.
+La [Secretaría](articulo-2.md), mediante normas oficiales mexicanas podrá sujetar contratos de adhesión a registro previo ante la [Procuraduría](articulo-2.md) cuando impliquen o puedan implicar prestaciones desproporcionadas a cargo de los consumidores, obligaciones inequitativas o abusivas, o altas probabilidades de incumplimiento.
 
 Las normas podrán referirse a cualesquiera términos y condiciones, excepto precio.
 

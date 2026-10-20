@@ -23,7 +23,7 @@ I. Caracterización del OGM, en la que se deberá considerar lo que establezcan 
 
 II. La identificación de la zona donde se pretende liberar experimentalmente el OGM, incluyendo la especificación de la superficie total en la que se realizará la liberación;
 
-III. Un estudio de los posibles riesgos que la liberación de los OGMs pudiera generar al medio ambiente y a la diversidad biológica. Además, en los casos que sean de la competencia de la SAGARPA, el estudio deberá contener lo relativo a los posibles riesgos que la liberación de dichos organismos pudieran causar a la sanidad animal, vegetal o acuícola;
+III. Un estudio de los posibles riesgos que la liberación de los OGMs pudiera generar al medio ambiente y a la diversidad biológica. Además, en los casos que sean de la competencia de la [SAGARPA](articulo-3.md), el estudio deberá contener lo relativo a los posibles riesgos que la liberación de dichos organismos pudieran causar a la sanidad animal, vegetal o acuícola;
 
 IV. Las medidas y procedimientos de monitoreo de la actividad y de bioseguridad, que se llevarán a cabo al momento de realizarla y las posteriores a la liberación; V. En su caso, los antecedentes de liberación de los OGMs de que se trate en otros países;
 
@@ -31,4 +31,4 @@ VI. En su caso, se presentarán consideraciones sobre los riesgos de las alterna
 
 VII. La información que para cada caso determinen las normas oficiales mexicanas que deriven de esta Ley.
 
-Será requisito para obtener el permiso de liberación experimental al ambiente, que el solicitante cuente con la autorización del OGM que expida la SSA de conformidad con esta Ley, cuando dicho organismo tenga finalidades de salud pública o se destine a la biorremediación. El interesado podrá iniciar el trámite para obtener dicho permiso ante la Secretaría competente, pero no le será otorgado hasta que acredite en el expediente respectivo haber obtenido la autorización de la SSA.
+Será requisito para obtener el permiso de liberación experimental al ambiente, que el solicitante cuente con la autorización del OGM que expida la [SSA](articulo-3.md) de conformidad con esta Ley, cuando dicho organismo tenga finalidades de salud pública o se destine a la biorremediación. El interesado podrá iniciar el trámite para obtener dicho permiso ante la [Secretaría](articulo-3.md) competente, pero no le será otorgado hasta que acredite en el expediente respectivo haber obtenido la autorización de la SSA.

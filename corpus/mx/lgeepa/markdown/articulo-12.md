@@ -17,7 +17,7 @@ source_sha256: 0574853d06020030188e8aee1eae5dabb2b476ac630cc52be631a48d2b91adbc
 
 # Artículo 12
 
-Para los efectos del [artículo anterior](articulo-11.md), los convenios o acuerdos de coordinación que celebre la Federación, por conducto de la Secretaría, con los gobiernos de las entidades federativas, con la participación, en su caso, de sus Municipios o de las demarcaciones territoriales de la Ciudad de México, deberán sujetarse a las siguientes bases: Párrafo reformado DOF 19-01-2018
+Para los efectos del [artículo anterior](articulo-11.md), los convenios o acuerdos de coordinación que celebre la Federación, por conducto de la [Secretaría](articulo-3o.md), con los gobiernos de las entidades federativas, con la participación, en su caso, de sus Municipios o de las demarcaciones territoriales de la Ciudad de México, deberán sujetarse a las siguientes bases: Párrafo reformado DOF 19-01-2018
 
 I. Se celebrarán a petición de una Entidad Federativa, cuando ésta cuente con los medios necesarios, el personal capacitado, los recursos materiales y financieros, así como la estructura institucional específica para el desarrollo de las facultades que asumiría y que para tales efectos requiera la autoridad federal. Estos requerimientos dependerán del tipo de convenio o acuerdo a firmar y las capacidades serán evaluadas en conjunto con la Secretaría.
 

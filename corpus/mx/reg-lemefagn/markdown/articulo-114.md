@@ -17,6 +17,6 @@ source_sha256: 703f083c0baedfb4ef5ce8b62c78684d8ee0073f393321d476d75ebe4878e1d5
 
 # Artículo 114
 
-Las convocatorias son documentos en los que se establecen los requisitos, términos, condiciones y perfiles de ingreso, a los que se sujetarán las personas aspirantes a ingresar como personas discentes al Sistema. Párrafo reformado DOF 20-03-2026
+Las convocatorias son documentos en los que se establecen los requisitos, términos, condiciones y perfiles de ingreso, a los que se sujetarán las personas aspirantes a ingresar como personas discentes al [Sistema](articulo-3.md). Párrafo reformado DOF 20-03-2026
 
 La Secretaría, a propuesta de la Dirección y Rectoría, aprobará las convocatorias de admisión al Sistema.

@@ -55,4 +55,4 @@ Los sujetos comprendidos en las fracciones III a IX, inclusive, tendrán derecho
 
 a) Que dependan económicamente del asegurado o pensionado, y
 
-b) Que el asegurado tenga derecho a las prestaciones consignadas en el artículo [91](articulo-91.md) de esta Ley.
+b) Que el asegurado tenga derecho a las prestaciones consignadas en el artículo [91](articulo-91.md) de esta [Ley](articulo-5-A.md).

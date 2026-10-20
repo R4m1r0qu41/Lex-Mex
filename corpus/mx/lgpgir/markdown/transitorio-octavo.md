@@ -15,4 +15,4 @@ source_sha256: b34326588bd6e7519e33411d3658239e3aefb56cef0fae5d775bc894af64a565
 
 # OCTAVO
 
-Los responsables de formular los planes de manejo para los residuos peligrosos a los que hace referencia el artículo [31](articulo-31.md) de este ordenamiento, contarán con un plazo no mayor a dos años para formular y someter a consideración de la Secretaría dichos planes.
+Los responsables de formular los planes de manejo para los residuos peligrosos a los que hace referencia el artículo [31](articulo-31.md) de este ordenamiento, contarán con un plazo no mayor a dos años para formular y someter a consideración de la [Secretaría](articulo-5.md) dichos planes.

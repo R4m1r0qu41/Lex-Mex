@@ -17,4 +17,4 @@ source_sha256: 51dd3b9347aab0e63387e02f689edd4fa3ea43a93933a0027f9a9977fffba83d
 
 # Artículo 43
 
-Para la tramitación y conservación del registro de modelos de utilidad se aplicarán, en lo conducente, las disposiciones contenidas en este Capítulo para las patentes. Para el registro de los modelos de utilidad, será aplicable, en lo conducente, lo previsto en el artículo [42](articulo-42.md) de este Reglamento.
+Para la tramitación y conservación del registro de modelos de utilidad se aplicarán, en lo conducente, las disposiciones contenidas en este Capítulo para las patentes. Para el registro de los modelos de utilidad, será aplicable, en lo conducente, lo previsto en el artículo [42](articulo-42.md) de este [Reglamento](articulo-2.md).

@@ -17,4 +17,4 @@ source_sha256: 7b3cf7a0ff59f76503a97a535457c4a7dd3b1305e7a36f4fca82bd661eab1168
 
 # Artículo 18
 
-El Centro de Investigación y Seguridad Nacional, es un órgano administrativo desconcentrado de la Secretaría de Gobernación, con autonomía, técnica, operativa y de gasto, adscrito directamente al Titular de dicha Secretaría.
+El [Centro](articulo-6.md) de Investigación y Seguridad Nacional, es un órgano administrativo desconcentrado de la Secretaría de Gobernación, con autonomía, técnica, operativa y de gasto, adscrito directamente al Titular de dicha Secretaría.

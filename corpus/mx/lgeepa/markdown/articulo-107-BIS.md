@@ -17,7 +17,7 @@ source_sha256: 0574853d06020030188e8aee1eae5dabb2b476ac630cc52be631a48d2b91adbc
 
 # Artículo 107 BIS
 
-Para preservar y proteger los recursos no renovables y sus ecosistemas, las personas titulares de concesiones y asignaciones mineras deben presentar ante la Secretaría un Programa de Restauración, Cierre y Post-cierre de minas para su evaluación y, en su caso, autorización, de conformidad con el reglamento que se elabore al respecto.
+Para preservar y proteger los recursos no renovables y sus ecosistemas, las personas titulares de concesiones y asignaciones mineras deben presentar ante la [Secretaría](articulo-3o.md) un Programa de [Restauración](articulo-3o.md), Cierre y Post-cierre de minas para su evaluación y, en su caso, autorización, de conformidad con el reglamento que se elabore al respecto.
 
 En dicho programa se deben establecer las acciones de reparación, restauración, rehabilitación y remediación ambiental que se realizarán desde el inicio de las actividades de exploración, explotación y beneficio de minerales o sustancias hasta el post-cierre, en los términos previstos en las disposiciones jurídicas aplicables. El programa debe ser presentado por el ganador de un concurso de licitación para concesión minera, una vez emitido el fallo correspondiente. La Secretaría debe analizar y, en su caso, dictaminar la viabilidad del programa propuesto a más tardar en ciento ochenta días naturales a partir de la fecha de su presentación.
 

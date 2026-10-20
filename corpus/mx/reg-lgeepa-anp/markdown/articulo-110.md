@@ -17,4 +17,4 @@ source_sha256: 4e276866fce1638948a6daf1a5c0438fa412554f1a6e0381cbdf7cb300e3db75
 
 # Artículo 110
 
-La Secretaría diseñará, desarrollará y aplicará los instrumentos económicos establecidos en la Ley, en las áreas naturales protegidas de interés de la Federación, conforme al presente Reglamento, a la declaratoria correspondiente, al programa de manejo respectivo, así como al manual que para esos efectos expida la Secretaría.
+La [Secretaría](articulo-3o.md) diseñará, desarrollará y aplicará los instrumentos económicos establecidos en la [Ley](articulo-3o.md), en las áreas naturales protegidas de interés de la Federación, conforme al presente Reglamento, a la declaratoria correspondiente, al programa de manejo respectivo, así como al manual que para esos efectos expida la Secretaría.

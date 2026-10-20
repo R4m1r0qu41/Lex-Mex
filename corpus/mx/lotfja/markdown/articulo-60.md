@@ -23,4 +23,4 @@ I. Notificar, en el tiempo y forma prescritos por la ley, las resoluciones reca�
 
 II. Practicar las diligencias que se les encomienden, y
 
-III. Las demás que señalen las leyes o el Reglamento Interior del Tribunal.
+III. Las demás que señalen las leyes o el Reglamento Interior del [Tribunal](articulo-2.md).

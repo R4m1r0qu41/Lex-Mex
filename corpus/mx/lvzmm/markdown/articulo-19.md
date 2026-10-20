@@ -17,7 +17,7 @@ source_sha256: d9ffbbf8f19b54a93ff577abb1266e4be1316d935e79fad655242955fd80ff70
 
 # Artículo 19
 
-Para efectuar un vertimiento se requiere de permiso otorgado por la Secretaría en los términos y condiciones que establece la presente Ley, debiendo el interesado presentar lo siguiente:
+Para efectuar un vertimiento se requiere de permiso otorgado por la [Secretaría](articulo-2.md) en los términos y condiciones que establece la presente [Ley](articulo-2.md), debiendo el interesado presentar lo siguiente:
 
 I. Formato de solicitud, debidamente requisitado, firmado por el solicitante y el responsable de la operación del vertimiento;
 

@@ -18,4 +18,4 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 42 Bis
 
-Las Sociedades Financieras Populares deberán calificar y constituir las estimaciones preventivas para riesgos crediticios correspondientes a sus carteras crediticias de consumo, microcréditos y de vivienda de conformidad con la metodología establecida en el Anexo D de las presentes disposiciones.
+Las [Sociedades](articulo-1.md) Financieras Populares deberán calificar y constituir las estimaciones preventivas para riesgos crediticios correspondientes a sus carteras crediticias de consumo, microcréditos y de vivienda de conformidad con la metodología establecida en el Anexo D de las presentes disposiciones.

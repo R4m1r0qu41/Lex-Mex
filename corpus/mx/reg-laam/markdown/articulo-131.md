@@ -21,6 +21,6 @@ Se entenderá como situación de exclusión en el concurso de selección al pers
 
 I. No fue convocado, habiéndose considerado en la convocatoria a personal con menor antigüedad dentro de su mismo escalafón y grado, o Fracción reformada DOF 22-09-2010
 
-II. Durante el concurso de selección, sea separado del mismo por dejar de cumplir cualquiera de los requisitos que establece la Ley y el presente Reglamento.
+II. Durante el concurso de selección, sea separado del mismo por dejar de cumplir cualquiera de los requisitos que establece la [Ley](articulo-5.md) y el presente Reglamento.
 
 En ambos supuestos, el personal que considere afectados sus derechos por la exclusión, podrá interponer el recurso de inconformidad ante la Junta Naval.

@@ -1,1 +1,266 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lmin:term:cartografia-minera",
+    "term": "Cartografía minera",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lmin",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lmin:article:1",
+    "fraction": "I",
+    "start_char": 258,
+    "end_char": 687,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lmin:term:coordenadas",
+    "term": "Coordenadas",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lmin",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lmin:article:1",
+    "fraction": "II",
+    "start_char": 687,
+    "end_char": 915,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lmin:term:indaabin",
+    "term": "INDAABIN",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lmin",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lmin:article:1",
+    "fraction": "III",
+    "start_char": 915,
+    "end_char": 994,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lmin:term:indice-de-precios",
+    "term": "Índice de Precios",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lmin",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lmin:article:1",
+    "fraction": "IV",
+    "start_char": 994,
+    "end_char": 1191,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lmin:term:inegi",
+    "term": "INEGI",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lmin",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lmin:article:1",
+    "fraction": "V",
+    "start_char": 1191,
+    "end_char": 1252,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lmin:term:gps",
+    "term": "GPS",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lmin",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lmin:article:1",
+    "fraction": "VI",
+    "start_char": 1252,
+    "end_char": 1299,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lmin:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lmin",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lmin:article:1",
+    "fraction": "VII",
+    "start_char": 1299,
+    "end_char": 1325,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lmin:term:liga-topografica",
+    "term": "Liga topográfica",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lmin",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lmin:article:1",
+    "fraction": "VIII",
+    "start_char": 1325,
+    "end_char": 1486,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lmin:term:manual",
+    "term": "Manual",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lmin",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lmin:article:1",
+    "fraction": "IX",
+    "start_char": 1486,
+    "end_char": 1599,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lmin:term:mojonera-o-senal",
+    "term": "Mojonera o Señal",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lmin",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lmin:article:1",
+    "fraction": "X",
+    "start_char": 1599,
+    "end_char": 1788,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lmin:term:normas-tecnicas",
+    "term": "Normas Técnicas",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lmin",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lmin:article:1",
+    "fraction": "XI",
+    "start_char": 1788,
+    "end_char": 1922,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lmin:term:oficinas-centrales",
+    "term": "Oficinas Centrales",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lmin",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lmin:article:1",
+    "fraction": "XII",
+    "start_char": 1922,
+    "end_char": 1995,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lmin:term:perito-minero",
+    "term": "Perito Minero",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lmin",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lmin:article:1",
+    "fraction": "XIII",
+    "start_char": 1995,
+    "end_char": 2139,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lmin:term:posicionamiento",
+    "term": "Posicionamiento",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lmin",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lmin:article:1",
+    "fraction": "XIV",
+    "start_char": 2139,
+    "end_char": 2300,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lmin:term:punto-de-control",
+    "term": "Punto de control",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lmin",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lmin:article:1",
+    "fraction": "XV",
+    "start_char": 2300,
+    "end_char": 2405,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lmin:term:punto-de-partida",
+    "term": "Punto de partida",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lmin",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lmin:article:1",
+    "fraction": "XVI",
+    "start_char": 2405,
+    "end_char": 2618,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lmin:term:registro",
+    "term": "Registro",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lmin",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lmin:article:1",
+    "fraction": "XVII",
+    "start_char": 2618,
+    "end_char": 2667,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lmin:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lmin",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lmin:article:1",
+    "fraction": "XVIII",
+    "start_char": 2667,
+    "end_char": 2714,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lmin:term:servicio-geologico",
+    "term": "Servicio Geológico",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lmin",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lmin:article:1",
+    "fraction": "XIX",
+    "start_char": 2714,
+    "end_char": 2772,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lmin:term:sociedad-minera",
+    "term": "Sociedad minera",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lmin",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lmin:article:1",
+    "fraction": "XX",
+    "start_char": 2772,
+    "end_char": 2868,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lmin:term:trabajos-periciales",
+    "term": "Trabajos periciales",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lmin",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lmin:article:1",
+    "fraction": "XXI",
+    "start_char": 2868,
+    "end_char": 3107,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lmin:term:unidad-administrativa",
+    "term": "Unidad Administrativa",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lmin",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lmin:article:1",
+    "fraction": "XXII",
+    "start_char": 3107,
+    "end_char": 3179,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lmin:term:valor-de-facturacion",
+    "term": "Valor de Facturación",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lmin",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lmin:article:1",
+    "fraction": "XXIII",
+    "start_char": 3179,
+    "end_char": 3356,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lmin:term:valor-de-liquidacion",
+    "term": "Valor de Liquidación",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lmin",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lmin:article:1",
+    "fraction": "XXIV",
+    "start_char": 3356,
+    "end_char": 3563,
+    "basis": "express_definition"
+  }
+]

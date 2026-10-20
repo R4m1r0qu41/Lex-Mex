@@ -17,6 +17,6 @@ source_sha256: 8515c812258bcc7c342e8566ff623c7f5e880f2eb9ee2ad154758077089f11ca
 
 # Artículo 108
 
-Será responsabilidad de la Jefatura de Operaciones elaborar los listados y verificar el orden de prelación del personal participante.
+Será responsabilidad de la [Jefatura de Operaciones](articulo-5.md) elaborar los listados y verificar el orden de prelación del personal participante.
 
 Artículo reformado DOF 02-04-2026

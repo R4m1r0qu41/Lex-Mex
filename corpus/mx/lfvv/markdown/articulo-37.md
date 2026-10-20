@@ -17,4 +17,4 @@ source_sha256: 9ed842aa48bd26aee06dc45bbdbd65efcb32343c78040a5a5d091275bec38343
 
 # Artículo 37
 
-La Secretaría publicará, en el Diario Oficial de la Federación y en los medios que considere idóneos, las inscripciones que se realicen en el registro, las solicitudes de título de obtentor y cualquier información que considere de interés sobre la materia de la Presente Ley.
+La [Secretaría](articulo-2o.md) publicará, en el Diario Oficial de la Federación y en los medios que considere idóneos, las inscripciones que se realicen en el registro, las solicitudes de título de obtentor y cualquier información que considere de interés sobre la materia de la Presente Ley.

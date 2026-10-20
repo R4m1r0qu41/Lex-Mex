@@ -17,4 +17,4 @@ source_sha256: d8dd1de3627b899bb4faf31c2812c3d5f14f7108be153d5aa8dd549b9136184a
 
 # Artículo 36
 
-El Programa Nacional, estará basado en los principios que establece esta Ley, la Ley de Planeación, la Ley Federal de Transparencia y Acceso a la Información Pública y demás normatividad en materia de planeación, transparencia y rendición de cuentas.
+El [Programa Nacional](articulo-2.md), estará basado en los principios que establece esta Ley, la Ley de Planeación, la Ley Federal de Transparencia y Acceso a la Información Pública y demás normatividad en materia de planeación, transparencia y rendición de cuentas.

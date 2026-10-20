@@ -17,4 +17,4 @@ source_sha256: 716e427a30e9982ccaa0576288aad2ad5305c624b236a0f342b6a87d60b7a9ed
 
 # Artículo 44
 
-El PLADESE debe estar alineado con el PND y los demás Instrumentos de Planeación del Sector Energético.
+El PLADESE debe estar alineado con el [PND](articulo-5.md) y los demás [Instrumentos de Planeación del Sector Energético](articulo-5.md).

@@ -17,4 +17,4 @@ source_sha256: b34326588bd6e7519e33411d3658239e3aefb56cef0fae5d775bc894af64a565
 
 # Artículo 34
 
-Los sistemas de manejo ambiental que formulen y ejecuten las dependencias federales, las entidades federativas y los municipios, en el ámbito de sus respectivas competencias, se sujetarán a lo que se establece en la presente Ley.
+Los sistemas de manejo ambiental que formulen y ejecuten las dependencias federales, las entidades federativas y los municipios, en el ámbito de sus respectivas competencias, se sujetarán a lo que se establece en la presente [Ley](articulo-5.md).

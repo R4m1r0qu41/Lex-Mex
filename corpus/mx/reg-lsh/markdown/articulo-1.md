@@ -17,4 +17,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Artículo 1
 
-El presente ordenamiento es de observancia general y obligatoria en los Estados Unidos Mexicanos y tiene por objeto regular la aplicación y las actividades previstas en la Ley del Sector Hidrocarburos.
+El presente ordenamiento es de observancia general y obligatoria en los Estados Unidos Mexicanos y tiene por objeto regular la aplicación y las actividades previstas en la [Ley](articulo-3.md) del Sector Hidrocarburos.

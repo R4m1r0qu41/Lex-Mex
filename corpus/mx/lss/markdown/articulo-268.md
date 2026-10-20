@@ -23,7 +23,7 @@ I. Presidir las sesiones de la Asamblea General y del Consejo Técnico;
 
 II. Ejecutar los acuerdos del propio Consejo;
 
-III. Representar legalmente al Instituto, con todas las facultades que corresponden a los mandatarios generales para pleitos y cobranzas, actos de administración y de dominio, y las especiales que requieran cláusula especial conforme al Código Civil Federal o cualesquiera otra ley, así como ante todas las autoridades. Fracción reformada DOF 20-12-2001
+III. Representar legalmente al [Instituto](articulo-5-A.md), con todas las facultades que corresponden a los mandatarios generales para pleitos y cobranzas, actos de administración y de dominio, y las especiales que requieran cláusula especial conforme al [Código](articulo-5-A.md) Civil Federal o cualesquiera otra ley, así como ante todas las autoridades. Fracción reformada DOF 20-12-2001
 
 IV. Presentar anualmente al Consejo el informe de actividades, así como el programa de labores y el presupuesto de ingresos y egresos para el siguiente período;
 
@@ -33,7 +33,7 @@ VI. Presentar anualmente al Consejo Técnico el informe financiero y actuarial;
 
 VII. Proponer al Consejo la designación o destitución de los trabajadores de confianza mencionados en la fracción IX del artículo [264](articulo-264.md); Fracción reformada DOF 20-12-2001
 
-VIII. Nombrar y remover a los trabajadores de confianza a que se refiere el artículo [256](articulo-256.md) de esta Ley, facultad que podrá ser delegada en los términos que establezca el Reglamento Interior del Instituto, que deberá señalar las unidades administrativas del mismo y su circunscripción geográfica.
+VIII. Nombrar y remover a los trabajadores de confianza a que se refiere el artículo [256](articulo-256.md) de esta [Ley](articulo-5-A.md), facultad que podrá ser delegada en los términos que establezca el Reglamento Interior del Instituto, que deberá señalar las unidades administrativas del mismo y su circunscripción geográfica.
 
 En cualquier caso los trabajadores de confianza a que se refiere esta fracción y la anterior deberán contar con la capacidad, experiencia y demás requisitos que se determinen en el Estatuto a que se refiere el artículo [286](articulo-286.md) I de esta Ley; Fracción reformada DOF 20-12-2001
 

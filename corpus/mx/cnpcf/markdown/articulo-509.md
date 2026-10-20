@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo II
+
 # Artículo 509
 
 La autoridad jurisdiccional bajo su más estricta responsabilidad, revisará escrupulosamente la contestación de la demanda y desechará de plano las excepciones diferentes a las que se autorizan o aquéllas en que sea necesario exhibir documento y el mismo no se acompañe salvo los casos que se esté gestionando su exhibición en términos de este [Código Nacional](articulo-2.md).

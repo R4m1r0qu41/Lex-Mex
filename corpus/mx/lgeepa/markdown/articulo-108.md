@@ -17,7 +17,7 @@ source_sha256: 0574853d06020030188e8aee1eae5dabb2b476ac630cc52be631a48d2b91adbc
 
 # Artículo 108
 
-Para prevenir y controlar los efectos generados en la exploración y explotación de los recursos no renovables en el equilibrio ecológico e integridad de los ecosistemas, la Secretaría expedirá las normas oficiales mexicanas que permitan: Párrafo reformado DOF 13-12-1996
+Para prevenir y controlar los efectos generados en la exploración y explotación de los recursos no renovables en el equilibrio ecológico e integridad de los ecosistemas, la [Secretaría](articulo-3o.md) expedirá las normas oficiales mexicanas que permitan: Párrafo reformado DOF 13-12-1996
 
 I.- El control de la calidad de las aguas y la protección de las que sean utilizadas o sean el resultado de esas actividades, de modo que puedan ser objeto de otros usos; Fracción reformada DOF 13-12-1996
 

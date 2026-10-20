@@ -35,7 +35,7 @@ Cuando el domicilio se encuentre fuera de la circunscripción territorial del ó
 
 III. Cuando no conste en autos domicilio para oír notificaciones, o el señalado resulte inexacto:
 
-a) Las notificaciones personales a la persona quejosa se efectuarán por lista. LEY DE AMPARO, REGLAMENTARIA DE LOS ARTÍCULOS [103](../../cpeum/markdown/articulo-103.md) Y [107](../../cpeum/markdown/articulo-107.md) DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS Inciso reformado DOF 13-03-2025
+a) Las notificaciones personales a la persona quejosa se efectuarán por lista. Inciso reformado DOF 13-03-2025
 
 b) Tratándose de la primera notificación la persona tercera interesada y al o la particular señalada como autoridad responsable, el órgano jurisdiccional dictará las medidas que estime pertinentes con el propósito de que se investigue su domicilio y podrá requerir a la autoridad responsable para que proporcione el que ante ella se hubiera señalado. Siempre que el acto reclamado emane de un procedimiento judicial la notificación se hará en el último domicilio señalado para oír notificaciones en el juicio de origen.
 

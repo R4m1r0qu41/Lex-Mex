@@ -17,9 +17,9 @@ source_sha256: 4d25bcb022ab62a24462e11a230c9554c0120012913ab4599cd3ec1b2b275c1d
 
 # Artículo 34
 
-La Secretaría fijará un monto mínimo para la prima por descubrimiento o para la contraprestación económica, cuando hubiere establecido en las bases del concurso un monto específico para dicha contraprestación o prima, respectivamente, de acuerdo a lo dispuesto en el [artículo anterior](articulo-33.md), quedando a su juicio el dar a conocer dicho monto mínimo en las bases respectivas, durante el concurso o en fecha posterior a la terminación de éste.
+La [Secretaría](articulo-1o.md) fijará un monto mínimo para la prima por descubrimiento o para la contraprestación económica, cuando hubiere establecido en las bases del concurso un monto específico para dicha contraprestación o prima, respectivamente, de acuerdo a lo dispuesto en el [artículo anterior](articulo-33.md), quedando a su juicio el dar a conocer dicho monto mínimo en las bases respectivas, durante el concurso o en fecha posterior a la terminación de éste.
 
-Asimismo, la Secretaría dará a conocer la metodología que hubiere utilizado para determinar el referido monto mínimo, salvo que su contenido actualice alguna de las hipótesis previstas en los artículos 13 y 14 de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental.
+Asimismo, la Secretaría dará a conocer la metodología que hubiere utilizado para determinar el referido monto mínimo, salvo que su contenido actualice alguna de las hipótesis previstas en los artículos 13 y 14 de la [Ley](articulo-1o.md) Federal de Transparencia y Acceso a la Información Pública Gubernamental.
 
 La Secretaría también fijará un monto mínimo para valorar la propuesta económica ofrecida por los participantes, conforme al método a que se refiere la fracción V del artículo [31](articulo-31.md) de este Reglamento, cuando no fije el monto específico.
 

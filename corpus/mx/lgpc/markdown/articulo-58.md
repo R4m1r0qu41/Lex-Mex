@@ -17,9 +17,9 @@ source_sha256: d8dd1de3627b899bb4faf31c2812c3d5f14f7108be153d5aa8dd549b9136184a
 
 # Artículo 58
 
-Para acceder a los recursos de los Instrumentos Financieros de Gestión de Riesgos, se deberá:
+Para acceder a los recursos de los [Instrumentos Financieros de Gestión de Riesgos](articulo-2.md), se deberá:
 
-I. Presentar a la Secretaría una solicitud firmada por el titular de la instancia pública federal, o bien, del Poder Ejecutivo en caso que se trate de una entidad federativa, de acuerdo a los requisitos y términos previstos en la normatividad administrativa respectiva;
+I. Presentar a la [Secretaría](articulo-2.md) una solicitud firmada por el titular de la instancia pública federal, o bien, del Poder Ejecutivo en caso que se trate de una entidad federativa, de acuerdo a los requisitos y términos previstos en la normatividad administrativa respectiva;
 
 II. La manifestación expresa de que se evitarán las duplicidades con otros programas y fuentes de financiamiento, y
 

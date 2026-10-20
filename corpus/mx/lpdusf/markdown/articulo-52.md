@@ -17,7 +17,7 @@ source_sha256: cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7
 
 # Artículo 52
 
-A efecto de cumplir con el objetivo señalado en el [artículo anterior](articulo-51.md), la Comisión Nacional podrá solicitar a las Instituciones Financieras, la información referente a las características generales de los distintos productos, tasas de interés y, en general, sobre los servicios que se ofrecen a los Usuarios.
+A efecto de cumplir con el objetivo señalado en el [artículo anterior](articulo-51.md), la [Comisión Nacional](articulo-2o.md) podrá solicitar a las [Instituciones Financieras](articulo-2o.md), la información referente a las características generales de los distintos productos, tasas de interés y, en general, sobre los servicios que se ofrecen a los [Usuarios](articulo-2o.md).
 
 Cualquier persona que presuma que es beneficiaria de algún seguro de vida, podrá acudir a la Comisión Nacional a solicitar información que le permita saber si es beneficiaria de uno o varios seguros de vida, ya sean individuales o colectivos, incluyendo aquellos que se obtienen por la contratación de productos y servicios financieros. Párrafo adicionado DOF 06-05-2009
 

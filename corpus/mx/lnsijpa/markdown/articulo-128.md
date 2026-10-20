@@ -17,4 +17,4 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 # Artículo 128
 
-Criterios de Oportunidad Además de los casos en los que proceda la aplicación de los criterios de oportunidad, de acuerdo con el Código Nacional, el Ministerio Público podrá también prescindir de la acción penal cuando se trate de conductas atribuidas a adolescentes que no lesionen o pongan gravemente en riesgo el bien jurídico tutelado y que puedan ser consideradas como parte del proceso de desarrollo y formación.
+Criterios de Oportunidad Además de los casos en los que proceda la aplicación de los criterios de oportunidad, de acuerdo con el [Código Nacional](articulo-3.md), el Ministerio Público podrá también prescindir de la acción penal cuando se trate de conductas atribuidas a adolescentes que no lesionen o pongan gravemente en riesgo el bien jurídico tutelado y que puedan ser consideradas como parte del proceso de desarrollo y formación.

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf
 source_sha256: ca63a23a4b7444ebdbdad93759fbf46bd14c069e587c5878decf89fc9c12ca8e
 ---
 
+> Título Primero · Capítulo I
+
 # Artículo 2o
 
 La Nación Mexicana es única e indivisible, basada en la grandeza de sus pueblos y culturas. Párrafo reformado DOF 30-09-2024
@@ -71,7 +73,9 @@ Para tal efecto, dichas autoridades tienen la obligación de: Párrafo reformado
 
 I. Impulsar el desarrollo comunitario y regional de los pueblos y comunidades indígenas, para mejorar sus condiciones de vida y bienestar común, mediante planes de desarrollo que fortalezcan sus economías y fomenten la agroecología, los cultivos tradicionales, en especial el sistema milpa, las semillas nativas, los recursos agroalimentarios y el óptimo uso de la tierra, libres del uso de sustancias peligrosas y productos químicos tóxicos.
 
-La ley establecerá los mecanismos que faciliten la organización y desarrollo de las economías de los pueblos y comunidades indígenas, y reconocerá el trabajo comunitario como parte de su organización social y cultural. Fracción reformada DOF 30-09-2024 II. Determinar, mediante normas y criterios compensatorios, equitativos, justos y proporcionales, asignaciones presupuestales para los pueblos y comunidades indígenas, que serán administradas directamente por estos. Fracción adicionada DOF 30-09-2024
+La ley establecerá los mecanismos que faciliten la organización y desarrollo de las economías de los pueblos y comunidades indígenas, y reconocerá el trabajo comunitario como parte de su organización social y cultural. Fracción reformada DOF 30-09-2024
+
+II. Determinar, mediante normas y criterios compensatorios, equitativos, justos y proporcionales, asignaciones presupuestales para los pueblos y comunidades indígenas, que serán administradas directamente por estos. Fracción adicionada DOF 30-09-2024
 
 III. Adoptar las medidas necesarias para reconocer y proteger el patrimonio cultural, la propiedad intelectual colectiva, los conocimientos y las expresiones culturales tradicionales de los pueblos y comunidades indígenas, en los términos que establezca la ley. Fracción adicionada DOF 30-09-2024
 
@@ -93,7 +97,9 @@ VI. Garantizar el derecho a la alimentación nutritiva, suficiente y de calidad 
 
 VII. Mejorar las condiciones de vida de los pueblos y comunidades indígenas y de sus espacios para la convivencia y recreación, mediante acciones que garanticen el acceso al financiamiento para la construcción y mejoramiento de vivienda, así como ampliar la cobertura de los servicios sociales básicos, en armonía con su entorno natural y cultural, sus conocimientos y tecnologías tradicionales. Fracción reformada y recorrida (antes fracción IV) DOF 30-09-2024
 
-VIII. Garantizar la participación efectiva de las mujeres indígenas, en condiciones de igualdad, en los procesos de desarrollo integral de los pueblos y comunidades indígenas; su acceso a la educación, así como a la propiedad y posesión de la tierra; su participación en la toma de decisiones de carácter público, y la promoción y respeto de sus derechos humanos. Fracción reformada y recorrida (antes fracción V) DOF 30-09-2024 IX. Garantizar y extender la red de comunicaciones que permita la articulación de los pueblos y comunidades indígenas, mediante la construcción y ampliación de vías de comunicación, caminos artesanales, radiodifusión, telecomunicación e Internet de banda ancha. Fracción reformada y recorrida (antes fracción VI) DOF 30-09-2024
+VIII. Garantizar la participación efectiva de las mujeres indígenas, en condiciones de igualdad, en los procesos de desarrollo integral de los pueblos y comunidades indígenas; su acceso a la educación, así como a la propiedad y posesión de la tierra; su participación en la toma de decisiones de carácter público, y la promoción y respeto de sus derechos humanos. Fracción reformada y recorrida (antes fracción V) DOF 30-09-2024
+
+IX. Garantizar y extender la red de comunicaciones que permita la articulación de los pueblos y comunidades indígenas, mediante la construcción y ampliación de vías de comunicación, caminos artesanales, radiodifusión, telecomunicación e Internet de banda ancha. Fracción reformada y recorrida (antes fracción VI) DOF 30-09-2024
 
 X. Establecer y garantizar las condiciones para que los pueblos y comunidades indígenas puedan adquirir, operar, promover, desarrollar y administrar sus medios de comunicación, telecomunicaciones y nuevas tecnologías de la información, garantizando espacios óptimos del espectro radioeléctrico y de las redes e infraestructura, haciendo uso de sus lenguas y otros elementos culturales. Fracción adicionada DOF 30-09-2024
 

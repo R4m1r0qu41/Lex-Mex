@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo II
+
 # Artículo 508
 
 Presentado el escrito de demanda, acompañado del documento base de la acción, la autoridad jurisdiccional si encuentra que se reúnen los requisitos fijados por los artículos anteriores, admitirá la misma y mandará anotar la demanda en el Registro, Oficina o Instituto Público respectivo y que se corra traslado de ésta a la persona deudora y, en su caso, a quien sea titular registral del embargo o gravamen por plazo inferior a que se refiere la fracción III, del [artículo anterior](articulo-507.md), para que dentro del término de quince días ocurra a contestarla y a oponer las excepciones que no podrán ser otras que:

@@ -17,4 +17,4 @@ source_sha256: 9478163ef6ab468edc2be8def3bf84efedd03da5b6c166fba0430bfcb6d8467c
 
 # Artículo 25
 
-El Consejo de Administración, a propuesta debidamente justificada y presentada por al menos dos de sus integrantes, puede establecer los comités que considere necesarios para el desarrollo eficiente de las actividades de la Comisión Federal de Electricidad, con independencia de los previstos en el artículo [41](../../lepecfe/markdown/articulo-41.md) de la Ley.
+El [Consejo de Administración](articulo-2.md), a propuesta debidamente justificada y presentada por al menos dos de sus integrantes, puede establecer los comités que considere necesarios para el desarrollo eficiente de las actividades de la Comisión Federal de Electricidad, con independencia de los previstos en el artículo [41](../../lepecfe/markdown/articulo-41.md) de la [Ley](articulo-2.md).

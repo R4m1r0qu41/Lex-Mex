@@ -17,6 +17,6 @@ source_sha256: 8515c812258bcc7c342e8566ff623c7f5e880f2eb9ee2ad154758077089f11ca
 
 # Artículo 16 Bis
 
-Los ascensos por adecuación de grado se regirán conforme a lo dispuesto en el Manual que para tal efecto se emita y demás normatividad aplicable.
+Los ascensos por adecuación de grado se regirán conforme a lo dispuesto en el [Manual](articulo-5.md) que para tal efecto se emita y demás normatividad aplicable.
 
 Artículo adicionado DOF 02-04-2026

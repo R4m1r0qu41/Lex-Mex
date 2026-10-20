@@ -17,4 +17,4 @@ source_sha256: d25fabb2d2e90d9f76028717f83c442d05a4f64024f13461285bda8ebd389a04
 
 # Artículo 32
 
-Los convenios a que hace referencia el [artículo anterior](articulo-31.md) se regirán por lo dispuesto en la Ley y en la Ley de Planeación.
+Los convenios a que hace referencia el [artículo anterior](articulo-31.md) se regirán por lo dispuesto en la [Ley](articulo-3o.md) y en la Ley de Planeación.

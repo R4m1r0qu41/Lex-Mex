@@ -17,4 +17,4 @@ source_sha256: 51dd3b9347aab0e63387e02f689edd4fa3ea43a93933a0027f9a9977fffba83d
 
 # Artículo 4
 
-El Instituto podrá celebrar acuerdos interinstitucionales en materia de marcas, para facilitar el intercambio y el aprovechamiento del trabajo de otras oficinas de propiedad industrial, incluyendo la puesta a disposición de los resultados del examen que éstas practiquen. También podrá celebrar Acuerdos de colaboración para facilitar la protección de los signos a los que se refiere la fracción VII del artículo [173](../../lfppi/markdown/articulo-173.md) de la Ley, cuya titularidad les corresponda.
+El Instituto podrá celebrar acuerdos interinstitucionales en materia de marcas, para facilitar el intercambio y el aprovechamiento del trabajo de otras oficinas de propiedad industrial, incluyendo la puesta a disposición de los resultados del examen que éstas practiquen. También podrá celebrar [Acuerdos](articulo-2.md) de colaboración para facilitar la protección de los signos a los que se refiere la fracción VII del artículo [173](../../lfppi/markdown/articulo-173.md) de la Ley, cuya titularidad les corresponda.

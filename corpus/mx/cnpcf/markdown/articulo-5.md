@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Primero · Capítulo I
+
 # Artículo 5
 
 En los asuntos de orden familiar y civil, y sin alterar el principio de igualdad procesal, las partes podrán revelar su condición de vulnerabilidad, a fin de que la autoridad jurisdiccional provea ajustes de procedimiento en su caso y supla oportunamente de oficio, las deficiencias de sus planteamientos sobre la base de proteger los intereses de la familia, personas mayores, niñas, niños, adolescentes, personas con discapacidad o cualquier otra persona que se encuentre en alguna condición de vulnerabilidad.

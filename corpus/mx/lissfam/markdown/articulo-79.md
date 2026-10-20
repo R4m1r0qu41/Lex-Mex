@@ -17,4 +17,4 @@ source_sha256: 35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc
 
 # Artículo 79
 
-Cuando proceda el pago del seguro al cónyuge, o en su caso a la concubina o al concubino, los hijos y los padres del militar fallecido, el Instituto cubrirá su importe sin más requisitos que la presentación de la credencial correspondiente de afiliación. En cualquier otro caso, se comprobará la personalidad con una identificación oficial.
+Cuando proceda el pago del seguro al cónyuge, o en su caso a la concubina o al concubino, los hijos y los padres del militar fallecido, el [Instituto](articulo-4o.md) cubrirá su importe sin más requisitos que la presentación de la credencial correspondiente de afiliación. En cualquier otro caso, se comprobará la personalidad con una identificación oficial.

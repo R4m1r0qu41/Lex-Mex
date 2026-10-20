@@ -17,9 +17,9 @@ source_sha256: d0021bbef2e0c3251d6efdea2c1efd9959ff3f02df4bcd1fc37c1ee7826a72ba
 
 # Artículo 140
 
-La Comisión determinará la existencia de Agentes Económicos Preponderantes en los sectores de Telecomunicaciones y Radiodifusión y les impondrá las medidas necesarias para evitar que se afecte la competencia y la libre concurrencia.
+La [Comisión](articulo-3.md) determinará la existencia de [Agentes Económicos](articulo-3.md) Preponderantes en los sectores de Telecomunicaciones y Radiodifusión y les impondrá las medidas necesarias para evitar que se afecte la competencia y la libre concurrencia.
 
-Para efectos de lo dispuesto en esta Ley, se considerará como Agente Económico Preponderante, en razón de su participación nacional en la prestación de los servicios de Radiodifusión o Telecomunicaciones, a cualquiera que cuente, directa o indirectamente, con una participación nacional mayor al cincuenta por ciento, medido este porcentaje ya sea por el número de usuarios, suscriptores, audiencia, por el tráfico en sus redes o por la capacidad utilizada de las mismas, de acuerdo con los datos que proporcione la CRT o en su caso la Agencia.
+Para efectos de lo dispuesto en esta Ley, se considerará como Agente Económico Preponderante, en razón de su participación nacional en la prestación de los servicios de Radiodifusión o Telecomunicaciones, a cualquiera que cuente, directa o indirectamente, con una participación nacional mayor al cincuenta por ciento, medido este porcentaje ya sea por el número de usuarios, suscriptores, audiencia, por el tráfico en sus redes o por la capacidad utilizada de las mismas, de acuerdo con los datos que proporcione la [CRT](articulo-3.md) o en su caso la [Agencia](articulo-3.md).
 
 Las medidas específicas que, en su caso, se impongan al Agente Económico Preponderante se extinguirán en sus efectos por declaratoria de la Comisión una vez que, conforme a esta Ley, existan condiciones de competencia efectiva en el mercado del que se trate.
 

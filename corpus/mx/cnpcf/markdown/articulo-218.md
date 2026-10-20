@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Primero · Capítulo VIII
+
 # Artículo 218
 
 De acuerdo con la naturaleza del exhorto o despacho, podrán autorizarse áreas o autoridades jurisdiccionales especializadas para su diligenciación a cargo de personas servidoras públicas con facultades suficientes para su cumplimiento. Para la recepción y devolución de exhortos, cartas rogatorias y despachos, los Poderes Judiciales preferentemente harán uso de las tecnologías de la información y comunicación, de conformidad con lo dispuesto en la Ley Orgánica respectiva.

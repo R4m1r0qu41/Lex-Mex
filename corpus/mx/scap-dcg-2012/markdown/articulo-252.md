@@ -17,9 +17,9 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 252
 
-De manera enunciativa y no limitativa, a continuación se señalan las principales tareas que llevarán a cabo los Supervisores Auxiliares dentro de la fase de Supervisión In-situ:
+De manera enunciativa y no limitativa, a continuación se señalan las principales tareas que llevarán a cabo los [Supervisores Auxiliares](articulo-1.md) dentro de la fase de [Supervisión In-situ](articulo-1.md):
 
-I. Revisar el procedimiento de generación de información, verificando la correcta aplicación de los Criterios de Contabilidad vigentes para el registro, valuación, revelación y presentación de operaciones.
+I. Revisar el procedimiento de generación de información, verificando la correcta aplicación de los [Criterios de Contabilidad](articulo-1.md) vigentes para el registro, valuación, revelación y presentación de operaciones.
 
 II. Corroborar la existencia de una adecuada documentación que respalde las operaciones activas, pasivas y de servicios de la Sociedad.
 
@@ -33,7 +33,7 @@ VI. Examinar los procedimientos y sistemas internos de la Sociedad, con especial
 
 VII. Verificar que los sistemas automatizados y el soporte informático con que cuente la Sociedad sean confiables y adecuados a las características de las operaciones que realice la misma.
 
-VIII. Comprobar que las observaciones realizadas y las anomalías detectadas ya sea por la Supervisión Extra-situ o por anteriores visitas de inspección, hayan sido debidamente atendidas o corregidas.
+VIII. Comprobar que las observaciones realizadas y las anomalías detectadas ya sea por la [Supervisión Extra-situ](articulo-1.md) o por anteriores visitas de inspección, hayan sido debidamente atendidas o corregidas.
 
 IX. Investigar los asuntos específicos planteados por la Supervisión Extra-situ o derivados del proceso de planeación, así como las operaciones relacionadas con quejas o denuncias.
 
@@ -41,6 +41,6 @@ X. Elaborar, al menos, los documentos siguientes:
 
 a) Un reporte de avance mensual del programa anual de visitas que incluya, en su caso, las desviaciones respecto del programa y las causas que originaron dichas desviaciones.
 
-b) Un informe de inspección de cada visita realizada a una Sociedad sujeta a supervisión auxiliar, observando los estándares mínimos fijados en las políticas, lineamientos y planes de trabajo establecidos por el Comité Técnico.
+b) Un informe de inspección de cada visita realizada a una Sociedad sujeta a supervisión auxiliar, observando los estándares mínimos fijados en las políticas, lineamientos y planes de trabajo establecidos por el [Comité Técnico](articulo-1.md).
 
 Los resultados de las tareas a que se refiere el presente artículo deberán estar debidamente documentados en papeles de trabajo, expedientes o registros, así como en los informes, reportes, notas y diversos escritos que se elaboren como producto de los procesos de supervisión auxiliar.

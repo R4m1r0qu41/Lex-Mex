@@ -17,4 +17,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Artículo 155
 
-Las personas Permisionarias están obligadas a contar y mantener vigentes los seguros por daños, los cuales deben incluir en sus alcances lo necesario para cubrir los daños a terceros, además de acreditar que estos cumplen con los términos que establezca la Normatividad que al efecto emitan la Agencia, la Secretaría y la Comisión, en el ámbito de sus competencias, para hacer frente a las responsabilidades en que puedan incurrir por la realización de actividades permisionadas.
+Las personas Permisionarias están obligadas a contar y mantener vigentes los seguros por daños, los cuales deben incluir en sus alcances lo necesario para cubrir los daños a terceros, además de acreditar que estos cumplen con los términos que establezca la [Normatividad](articulo-3.md) que al efecto emitan la Agencia, la [Secretaría](articulo-3.md) y la [Comisión](articulo-3.md), en el ámbito de sus competencias, para hacer frente a las responsabilidades en que puedan incurrir por la realización de actividades permisionadas.

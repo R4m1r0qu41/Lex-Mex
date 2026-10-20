@@ -23,7 +23,7 @@ I. Autorizar la inscripción en el registro correspondiente a las personas que a
 
 II. Constituir y mantener los registros de visitadores, conciliadores y síndicos;
 
-III. Revocar, en los casos en los que conforme a esta Ley proceda, la autorización para la realización de las funciones de visitador, conciliador y síndico en los procedimientos de concurso mercantil;
+III. Revocar, en los casos en los que conforme a esta [Ley](articulo-4o.md) proceda, la autorización para la realización de las funciones de visitador, conciliador y síndico en los procedimientos de concurso mercantil;
 
 IV. Designar a las personas que desempeñarán las funciones de visitador, conciliador y síndico en cada concurso mercantil, de entre las inscritas en los registros correspondientes;
 

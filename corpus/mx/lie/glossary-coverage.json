@@ -1,0 +1,29 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-3",
+  "instrument_id": "urn:lex-mx:federal:statute:lie",
+  "source_sha256": "14cd17e37e96e766c8ab74950c71186d579c0ba6cc10ac9e8b06f6194af7d953",
+  "extracted_text_sha256": "4093279a70e0549e5f229c16a641e5492c67ecd557cbeee958c2db8fc2597be7",
+  "status": "detected",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lie:article:2",
+      "provision_text_sha256": "f151878cc37977a1edfa934ee80d016f08b2d030b619413dec48d7d65492da59",
+      "method": "wider_pass",
+      "fractions": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII"
+      ],
+      "repeal_placeholders": [],
+      "term_count": 7
+    }
+  ],
+  "imports": [],
+  "term_count": 7,
+  "usage_count": 70
+}

@@ -17,4 +17,4 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 129
 
-Aceptada la sustitución patronal o dictaminada ésta por el Instituto, se notificará al patrón sustituto el estado de adeudo del patrón sustituido. Dentro de los quince días hábiles siguientes a la notificación de dicho estado de adeudo, el patrón sustituto deberá pagar los créditos fiscales que se adeuden al Instituto. Lo anterior sin perjuicio de la responsabilidad solidaria que señala la Ley a cargo del patrón sustituido.
+Aceptada la sustitución patronal o dictaminada ésta por el [Instituto](../../lss/markdown/articulo-5-A.md), se notificará al patrón sustituto el estado de adeudo del patrón sustituido. Dentro de los quince días hábiles siguientes a la notificación de dicho estado de adeudo, el patrón sustituto deberá pagar los créditos fiscales que se adeuden al Instituto. Lo anterior sin perjuicio de la responsabilidad solidaria que señala la [Ley](../../lss/markdown/articulo-5-A.md) a cargo del patrón sustituido.

@@ -18,8 +18,8 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 135
 
-La Federación correspondiente podrá, oyendo la opinión de la Comisión:
+La [Federación](articulo-1.md) correspondiente podrá, oyendo la opinión de la Comisión:
 
-I. Ordenar la constitución de provisiones preventivas adicionales a las que deban crear las Sociedades Financieras Populares como resultado de su proceso de calificación de cartera crediticia, en caso de que dichas Sociedades Financieras Populares no se ajusten a la normatividad aplicable o a las políticas y procedimientos establecidos en materia de crédito, y/u
+I. Ordenar la constitución de provisiones preventivas adicionales a las que deban crear las [Sociedades](articulo-1.md) Financieras Populares como resultado de su proceso de calificación de cartera crediticia, en caso de que dichas Sociedades Financieras Populares no se ajusten a la normatividad aplicable o a las políticas y procedimientos establecidos en materia de crédito, y/u
 
 II. Ordenar la suspensión en el otorgamiento de nuevos créditos por parte de aquellas Sociedades Financieras Populares cuya actividad crediticia, en lo general, presente graves deficiencias.

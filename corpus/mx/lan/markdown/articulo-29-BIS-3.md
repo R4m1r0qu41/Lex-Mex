@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAN.pdf
 source_sha256: 4ef50d6b4b3a6ad0378720c5d49463b4f17d70d9de39f895ed5dae4d2e21736d
 ---
 
-> Título CUARTO
+> Título CUARTO · Capítulo III BIS
 
 # Artículo 29 BIS 3
 
@@ -29,7 +29,9 @@ IV. Muerte de la persona titular, salvo que se compruebe algún derecho sucesori
 
 V. Nulidad declarada por "la Autoridad del Agua" en los siguientes casos:
 
-a. Cuando se haya proporcionado información falsa para la obtención del título o cuando en la expedición del mismo haya mediado error o dolo atribuible a la persona concesionaria o asignataria; Inciso reformado DOF 11-12-2025 b. Cuando el proceso de tramitación e intitulación se demuestre que ha estado viciado con intervención de la persona concesionaria o asignataria o por interpósita persona; Inciso reformado DOF 11-12-2025
+a. Cuando se haya proporcionado información falsa para la obtención del título o cuando en la expedición del mismo haya mediado error o dolo atribuible a la persona concesionaria o asignataria; Inciso reformado DOF 11-12-2025
+
+b. Cuando el proceso de tramitación e intitulación se demuestre que ha estado viciado con intervención de la persona concesionaria o asignataria o por interpósita persona; Inciso reformado DOF 11-12-2025
 
 c. Por haber sido otorgada por la persona funcionaria sin facultades para ello; Inciso reformado DOF 11-12-2025
 
@@ -53,7 +55,9 @@ No se aplicará la extinción por caducidad parcial o total, cuando:
 
 5. La concesionaria o asignataria haya realizado inversiones tendientes a elevar la eficiencia en el uso del agua, por lo que sólo utilice una parte del volumen de agua concesionado o asignado; Inciso reformado DOF 11-12-2025
 
-6. La persona concesionaria o asignataria esté realizando las inversiones que correspondan, o ejecutando las obras autorizadas para la explotación, uso o aprovechamiento de las aguas nacionales, siempre que se encuentre dentro del plazo otorgado al efecto. Inciso reformado DOF 11-12-2025 La persona concesionaria o asignataria que se encuentre en alguno de los supuestos previstos en este Artículo, deberá presentar escrito fundamentado a "la Autoridad del Agua" dentro de los quince días hábiles siguientes a aquel en que se surta el supuesto respectivo. Párrafo reformado DOF 11-12-2025
+6. La persona concesionaria o asignataria esté realizando las inversiones que correspondan, o ejecutando las obras autorizadas para la explotación, uso o aprovechamiento de las aguas nacionales, siempre que se encuentre dentro del plazo otorgado al efecto. Inciso reformado DOF 11-12-2025
+
+La persona concesionaria o asignataria que se encuentre en alguno de los supuestos previstos en este Artículo, deberá presentar escrito fundamentado a "la Autoridad del Agua" dentro de los quince días hábiles siguientes a aquel en que se surta el supuesto respectivo. Párrafo reformado DOF 11-12-2025
 
 A dicho escrito deberá acompañar las pruebas que acrediten que se encuentra dentro del supuesto de suspensión que invoque.
 
@@ -68,5 +72,3 @@ VIII. Tratándose de distritos de riego, cuando sus reglamentos respectivos no s
 IX. Resoluciones firmes judiciales o administrativas que así lo determinen.
 
 Artículo adicionado DOF 29-04-2004
-
-Sección Tercera Revocación Sección adicionada DOF 29-04-2004

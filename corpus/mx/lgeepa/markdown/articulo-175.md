@@ -17,6 +17,6 @@ source_sha256: 0574853d06020030188e8aee1eae5dabb2b476ac630cc52be631a48d2b91adbc
 
 # Artículo 175
 
-La Secretaría podrá promover ante las autoridades federales o locales competentes, con base en los estudios que haga para ese efecto, la limitación o suspensión de la instalación o funcionamiento de industrias, comercios, servicios, desarrollos urbanos, turísticos o cualquier actividad que afecte o pueda afectar el ambiente, los recursos naturales, o causar desequilibrio ecológico o pérdida de la biodiversidad.
+La [Secretaría](articulo-3o.md) podrá promover ante las autoridades federales o locales competentes, con base en los estudios que haga para ese efecto, la limitación o suspensión de la instalación o funcionamiento de industrias, comercios, servicios, desarrollos urbanos, turísticos o cualquier actividad que afecte o pueda afectar el ambiente, los recursos naturales, o causar desequilibrio ecológico o pérdida de la biodiversidad.
 
 Artículo reformado DOF 13-12-1996

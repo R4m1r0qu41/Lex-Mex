@@ -17,6 +17,6 @@ source_sha256: 703f083c0baedfb4ef5ce8b62c78684d8ee0073f393321d476d75ebe4878e1d5
 
 # Artículo 38
 
-Las personas titulares de la Dirección de las Instituciones Educativas deberán pertenecer a la clasificación de Generales o Jefes, designados por la persona titular de la Secretaría, de conformidad con lo que establezca el reglamento del plantel respectivo.
+Las personas titulares de la Dirección de las [Instituciones Educativas](articulo-3.md) deberán pertenecer a la clasificación de Generales o Jefes, designados por la persona titular de la Secretaría, de conformidad con lo que establezca el reglamento del plantel respectivo.
 
 Artículo reformado DOF 20-03-2026

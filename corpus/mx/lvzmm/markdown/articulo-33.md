@@ -21,11 +21,11 @@ Durante la inspección y vigilancia el personal acreditado deberá observar lo s
 
 I. Se identificará con la persona con quien se entienda la diligencia, mostrándole el oficio correspondiente y requiriéndole para que en el acto designe dos testigos;
 
-II. En caso de negativa, o de que los testigos designados no acepten fungir como tales, el personal de la Secretaría los designará, haciendo constar dicha circunstancia en el acta, sin que esto afecte la validez de la inspección;
+II. En caso de negativa, o de que los testigos designados no acepten fungir como tales, el personal de la [Secretaría](articulo-2.md) los designará, haciendo constar dicha circunstancia en el acta, sin que esto afecte la validez de la inspección;
 
 III. Cuando en el lugar a inspeccionar no se encuentre persona con quien se entienda la diligencia, se deberá asentar en el acta dicha circunstancia;
 
-IV. La Secretaría, en el acta deberá determinar las acciones a implementarse derivadas de infracciones a la presente Ley;
+IV. La Secretaría, en el acta deberá determinar las acciones a implementarse derivadas de infracciones a la presente [Ley](articulo-2.md);
 
 V. La Secretaría, en el acta deberá determinar las medidas urgentes que deberán aplicarse en caso de que el vertimiento represente un riesgo inminente de daño a la salud humana o a los ecosistemas;
 

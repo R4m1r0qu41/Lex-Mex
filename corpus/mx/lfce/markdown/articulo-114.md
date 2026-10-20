@@ -17,6 +17,6 @@ source_sha256: d0021bbef2e0c3251d6efdea2c1efd9959ff3f02df4bcd1fc37c1ee7826a72ba
 
 # Artículo 114
 
-Cuando los plazos fijados por esta Ley, por su Reglamento o por las Disposiciones Regulatorias sean en días, éstos se entenderán como hábiles. Respecto de los establecidos en meses o años, el cómputo se hará de fecha a fecha, considerando incluso los días inhábiles. Párrafo reformado DOF 16-07-2025
+Cuando los plazos fijados por esta Ley, por su [Reglamento](articulo-3.md) o por las [Disposiciones Regulatorias](articulo-3.md) sean en días, éstos se entenderán como hábiles. Respecto de los establecidos en meses o años, el cómputo se hará de fecha a fecha, considerando incluso los días inhábiles. Párrafo reformado DOF 16-07-2025
 
 Cuando no se especifique plazo, se entenderán cinco días para cualquier actuación.

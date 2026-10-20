@@ -17,4 +17,4 @@ source_sha256: d9ffbbf8f19b54a93ff577abb1266e4be1316d935e79fad655242955fd80ff70
 
 # Artículo 62
 
-En el caso de los vertimientos realizados en contravención a la Ley en las zonas marinas mexicanas que causen daños al ambiente marino de otros Estados, los gobiernos extranjeros podrán demandar al responsable del vertimiento el pago de la remediación al medio marino, ante los tribunales mexicanos, sin perjuicio de las acciones que puedan ejercer los afectados ante los organismos internacionales para el pago de los daños y perjuicios ocasionados.
+En el caso de los vertimientos realizados en contravención a la [Ley](articulo-2.md) en las zonas marinas mexicanas que causen daños al ambiente marino de otros Estados, los gobiernos extranjeros podrán demandar al responsable del vertimiento el pago de la remediación al medio marino, ante los tribunales mexicanos, sin perjuicio de las acciones que puedan ejercer los afectados ante los organismos internacionales para el pago de los daños y perjuicios ocasionados.

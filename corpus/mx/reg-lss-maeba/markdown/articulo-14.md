@@ -17,8 +17,8 @@ source_sha256: 9816ce7f9d6b9b1781eb9935869bd45677c60d721d3352865b6524c2e75db8cd
 
 # Artículo 14
 
-La custodia de los bienes inicia con su recepción por parte de la Jefatura Delegacional de Servicios Administrativos que corresponda, por conducto del responsable del almacén de la Delegación, la que se hará constar mediante el acta de entrega recepción respectiva.
+La custodia de los bienes inicia con su recepción por parte de la Jefatura Delegacional de Servicios Administrativos que corresponda, por conducto del responsable del almacén de la [Delegación](articulo-2.md), la que se hará constar mediante el acta de entrega recepción respectiva.
 
-Si durante la administración o en el procedimiento de enajenación, sobreviene alguna circunstancia no imputable al Instituto, que haga incosteable la custodia y conservación de los bienes, la Delegación lo comunicará por escrito a la Dirección de Administración y Evaluación de Delegaciones, a efecto de que ésta resuelva lo procedente conforme a sus facultades.
+Si durante la administración o en el procedimiento de enajenación, sobreviene alguna circunstancia no imputable al [Instituto](../../lss/markdown/articulo-5-A.md), que haga incosteable la custodia y conservación de los bienes, la Delegación lo comunicará por escrito a la Dirección de Administración y Evaluación de Delegaciones, a efecto de que ésta resuelva lo procedente conforme a sus facultades.
 
 Se considera incosteable la custodia y conservación de los bienes cuando no resultan útiles para los fines que fueron afectos.

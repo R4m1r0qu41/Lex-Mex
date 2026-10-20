@@ -17,7 +17,7 @@ source_sha256: 8515c812258bcc7c342e8566ff623c7f5e880f2eb9ee2ad154758077089f11ca
 
 # Artículo 75
 
-Los deberes navales, las capacidades y habilidades físicas que ordinariamente desarrolla el personal participante acorde con su grado, serán determinantes para que la Comisión Coordinadora diseñe las pruebas físicas que se aplicarán al personal convocado, considerando: Párrafo reformado DOF 22-09-2010
+Los deberes navales, las capacidades y habilidades físicas que ordinariamente desarrolla el personal participante acorde con su grado, serán determinantes para que la [Comisión Coordinadora](articulo-5.md) diseñe las pruebas físicas que se aplicarán al personal convocado, considerando: Párrafo reformado DOF 22-09-2010
 
 I. Grado; Fracción reformada DOF 22-09-2010
 

@@ -17,6 +17,6 @@ source_sha256: 45deb87bfd634dfbd1cb7d9fd67a476ad954187908eb0cb06256c90ccc0feb80
 
 # Artículo 39
 
-La Comisión establecerá un Comité de Comercialización del Café, que estará integrado por personas expertas en la producción y comercialización del café, así como por representantes de los sectores involucrados.
+La [Comisión](articulo-3.md) establecerá un Comité de Comercialización del Café, que estará integrado por personas expertas en la producción y comercialización del café, así como por representantes de los sectores involucrados.
 
 El Comité tendrá la responsabilidad de revisar la información relativa a la producción de café, el consumo interno, las importaciones y exportaciones, entre otras cuestiones relevantes. Con base en la información recabada y su análisis, el Comité presentará a la Comisión propuestas de políticas públicas y medidas relacionadas con la oferta y demanda nacional de café mexicano.

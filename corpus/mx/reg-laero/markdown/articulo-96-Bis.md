@@ -15,7 +15,7 @@ source_sha256: ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776
 
 # Artículo 96 Bis
 
-Cuando la Secretaría, a través de la Agencia Federal de Aviación Civil, determine que un aeródromo se encuentra en condiciones de saturación en campo aéreo en horarios específicos, a partir de que surta efectos dicha determinación, los horarios de aterrizaje y despegue deben asignarse por series conforme a lo dispuesto en los artículos [95](articulo-95.md) y [96](articulo-96.md) del presente reglamento y en las bases generales que para tal efecto emita la Agencia Federal de Aviación Civil, previa aprobación de la persona titular de la Secretaría. Dichas bases deben considerar, por lo menos, lo siguiente: Párrafo reformado DOF 29-08-2025
+Cuando la [Secretaría](articulo-2.md), a través de la Agencia Federal de Aviación Civil, determine que un aeródromo se encuentra en condiciones de saturación en campo aéreo en horarios específicos, a partir de que surta efectos dicha determinación, los horarios de aterrizaje y despegue deben asignarse por series conforme a lo dispuesto en los artículos [95](articulo-95.md) y [96](articulo-96.md) del presente reglamento y en las bases generales que para tal efecto emita la Agencia Federal de Aviación Civil, previa aprobación de la persona titular de la Secretaría. Dichas bases deben considerar, por lo menos, lo siguiente: Párrafo reformado DOF 29-08-2025
 
 I. La prioridad histórica de una serie de horarios, la cual será identificada por la persona coordinadora de horarios, cuando la persona transportista aérea tiene prioridad de recibir de forma preferente a cualquier otra persona transportista aérea una serie de horarios que se hayan operado, sin demoras imputables dentro de los 15 minutos respecto al horario asignado, como mínimo durante el 80% del tiempo en el periodo asignado en la temporada equivalente anterior. Párrafo reformado DOF 29-08-2025
 
@@ -65,7 +65,7 @@ VIII. Los requisitos para devolución, cancelación, cesión, intercambio y oper
 
 IX. Las obligaciones de la administradora aeroportuaria para transparentar el procedimiento de asignación de horarios de aterrizaje y despegue, y Fracción reformada DOF 29-08-2025
 
-X. Las demás que determine la Secretaría observando las mejores prácticas internacionales en materia de asignación de horarios, cuando éstas no contraríen las disposiciones de la Ley y este Reglamento.
+X. Las demás que determine la Secretaría observando las mejores prácticas internacionales en materia de asignación de horarios, cuando éstas no contraríen las disposiciones de la [Ley](articulo-2.md) y este Reglamento.
 
 Las personas transportistas aéreas, al solicitar a la administradora aeroportuaria el horario de aterrizaje y despegue deberán ajustarse a lo que establezcan las bases generales para la asignación de horarios de aterrizaje y despegue para aeropuertos en condiciones de saturación, así como a las Reglas de Operación de cada Aeropuerto. Párrafo reformado DOF 29-08-2025
 

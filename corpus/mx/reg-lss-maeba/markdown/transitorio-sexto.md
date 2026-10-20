@@ -15,4 +15,4 @@ source_sha256: 9816ce7f9d6b9b1781eb9935869bd45677c60d721d3352865b6524c2e75db8cd
 
 # SEXTO
 
-El Instituto contará con 180 días naturales contados a partir de la entrada en vigor del presente ordenamiento para expedir los lineamientos para la asignación de la Clave Única que de acuerdo con su naturaleza permitirá su identificación.
+El [Instituto](../../lss/markdown/articulo-5-A.md) contará con 180 días naturales contados a partir de la entrada en vigor del presente ordenamiento para expedir los lineamientos para la asignación de la [Clave Única](articulo-2.md) que de acuerdo con su naturaleza permitirá su identificación.

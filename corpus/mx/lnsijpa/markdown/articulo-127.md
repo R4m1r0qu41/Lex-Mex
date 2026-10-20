@@ -17,4 +17,4 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 # Artículo 127
 
-Formas de terminación de la investigación El Ministerio Público podrá determinar abstenerse de investigar, el no ejercicio de la acción penal, decidir el archivo temporal o aplicar los criterios de oportunidad, en los términos previstos en esta Ley y en el Código Nacional.
+Formas de terminación de la investigación El Ministerio Público podrá determinar abstenerse de investigar, el no ejercicio de la acción penal, decidir el archivo temporal o aplicar los criterios de oportunidad, en los términos previstos en esta [Ley](articulo-3.md) y en el [Código Nacional](articulo-3.md).

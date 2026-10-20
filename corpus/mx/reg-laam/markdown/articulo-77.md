@@ -17,6 +17,6 @@ source_sha256: 8515c812258bcc7c342e8566ff623c7f5e880f2eb9ee2ad154758077089f11ca
 
 # Artículo 77
 
-La aplicación del examen y la seguridad del personal participante, será responsabilidad de las Comisiones Locales con el personal y medios que los Mandos le designen en apoyo.
+La aplicación del examen y la seguridad del personal participante, será responsabilidad de las [Comisiones Locales](articulo-5.md) con el personal y medios que los Mandos le designen en apoyo.
 
 Artículo reformado DOF 02-04-2026

@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAN.pdf
 source_sha256: 4ef50d6b4b3a6ad0378720c5d49463b4f17d70d9de39f895ed5dae4d2e21736d
 ---
 
-> Título SEXTO
+> Título SEXTO · Capítulo V
 
 # Artículo 84
 
@@ -22,5 +22,3 @@ source_sha256: 4ef50d6b4b3a6ad0378720c5d49463b4f17d70d9de39f895ed5dae4d2e21736d
 Para el cumplimiento eficaz y oportuno de lo dispuesto en el presente Artículo, "la Comisión" actuará en lo conducente a través de los Organismos de Cuenca.
 
 Artículo reformado DOF 29-04-2004
-
-Capítulo V BIS Cultura del Agua Capítulo adicionado DOF 29-04-2004

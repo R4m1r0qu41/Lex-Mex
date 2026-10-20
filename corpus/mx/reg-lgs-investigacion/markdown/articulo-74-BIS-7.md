@@ -23,7 +23,7 @@ I. Cumplir con las disposiciones contenidas en la Ley, este Reglamento y demás 
 
 II. Abstenerse de prestar sus servicios como tercero autorizado, cuando sean accionistas, asesores, causahabientes, apoderados, consejeros, comisarios, o cualquier otro tipo de relación con la persona que solicita sus servicios, que pueda significar un conflicto de intereses;
 
-III. Informar de manera inmediata a la Secretaría, de cualquier irregularidad o incumplimiento a las disposiciones sanitarias que identifiquen durante la evaluación de los protocolos de investigación que realice; REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE INVESTIGACION PARA LA SALUD IV. Proporcionar a la Secretaría informes sobre los dictámenes y recomendaciones técnicas que expidan sobre los protocolos de investigación que evalúen, así como proporcionar la información que les sea requerida por dicha dependencia;
+III. Informar de manera inmediata a la Secretaría, de cualquier irregularidad o incumplimiento a las disposiciones sanitarias que identifiquen durante la evaluación de los protocolos de investigación que realice; IV. Proporcionar a la Secretaría informes sobre los dictámenes y recomendaciones técnicas que expidan sobre los protocolos de investigación que evalúen, así como proporcionar la información que les sea requerida por dicha dependencia;
 
 V. Asistir a la Secretaría en casos de emergencia sanitaria, y
 

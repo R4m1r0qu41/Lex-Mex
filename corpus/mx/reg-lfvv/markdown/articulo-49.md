@@ -17,4 +17,4 @@ source_sha256: 23dcee090bbe0c4fb06c75d084cb65ce0b2e8f72a8d082e7059504412bde1614
 
 # Artículo 49
 
-Para que cualquier acto registrable surta efectos contra terceros, deberá estar inscrito en el Registro.
+Para que cualquier acto registrable surta efectos contra terceros, deberá estar inscrito en el [Registro](articulo-2o.md).

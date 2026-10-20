@@ -17,9 +17,9 @@ source_sha256: c1870db657a6564bbeb692a1778472db811a920626822de553ff5ca5194f95b4
 
 # Artículo 2
 
-Para efectos de la interpretación y aplicación de la presente Ley, se deben entender los conceptos y las definiciones, en singular o plural, establecidos en la Ley de Planeación y Transición Energética, la Ley del Sector Hidrocarburos, la Ley General para la Prevención y Gestión Integral de los Residuos, la Ley de Desarrollo Rural Sustentable y las siguientes:
+Para efectos de la interpretación y aplicación de la presente [Ley](articulo-2.md), se deben entender los conceptos y las definiciones, en singular o plural, establecidos en la Ley de Planeación y Transición Energética, la Ley del Sector Hidrocarburos, la Ley General para la Prevención y Gestión Integral de los Residuos, la Ley de Desarrollo Rural Sustentable y las siguientes:
 
-I. Almacenamiento: Depósito y resguardo de Biomasa o Biocombustibles, o ambos, en instalaciones determinadas para dicho fin, que pueden ubicarse en la superficie, el mar o el subsuelo;
+I. Almacenamiento: Depósito y resguardo de [Biomasa](articulo-2.md) o [Biocombustibles](articulo-2.md), o ambos, en instalaciones determinadas para dicho fin, que pueden ubicarse en la superficie, el mar o el subsuelo;
 
 II. Biocombustible: Los combustibles gaseosos, líquidos o sólidos producidos a partir del aprovechamiento energético directo de la Biomasa o los obtenidos a partir de su procesamiento. No se consideran las mezclas de Biocombustibles con petrolíferos como Biocombustible;
 
@@ -29,7 +29,7 @@ IV. Bitácora: Informe a través del cual las personas titulares de los permisos
 
 V. Comercialización: La venta al mayoreo de Biocombustibles cuya enajenación no está destinada a la venta al menudeo o al consumo final, excepto para el consumo propio;
 
-VI. Distribución: Actividad que consiste en adquirir, recibir, guardar, trasladar y, en su caso, conducir un determinado volumen de Biocombustibles desde una ubicación determinada hacia uno o varios destinos previamente asignados para su venta a personas Permisionarias de Expendio al Público;
+VI. Distribución: Actividad que consiste en adquirir, recibir, guardar, trasladar y, en su caso, conducir un determinado volumen de Biocombustibles desde una ubicación determinada hacia uno o varios destinos previamente asignados para su venta a personas Permisionarias de [Expendio al Público](articulo-2.md);
 
 VII. Estrategia: La Estrategia Nacional de Transición Energética;
 
@@ -47,8 +47,8 @@ XIV. SEMARNAT: La Secretaría de Medio Ambiente y Recursos Naturales;
 
 XV. SENER: La Secretaría de Energía;
 
-XVI. Subsistema: El Sistema de Información en Materia de Biocombustibles, administrado por la SENER y que forma parte del Sistema Nacional de Información Energética;
+XVI. Subsistema: El Sistema de Información en Materia de Biocombustibles, administrado por la [SENER](articulo-2.md) y que forma parte del Sistema Nacional de Información Energética;
 
 XVII. Suelos Marginales: Hace referencia a los espacios abandonados como consecuencia de su escaso valor productivo, estos suelos generalmente cuentan con un bajo valor de nutrientes para ser utilizados para cultivos intensivos, y
 
-XVIII. Transporte: Actividad de recibir, entregar y, en su caso, conducir Biocombustibles de un lugar a otro por medio de ductos u otros medios, que no conlleva la Enajenación o Comercialización de dicho producto por parte de quien la realiza. Se excluye de esta definición la Distribución.
+XVIII. Transporte: Actividad de recibir, entregar y, en su caso, conducir Biocombustibles de un lugar a otro por medio de ductos u otros medios, que no conlleva la Enajenación o [Comercialización](articulo-2.md) de dicho producto por parte de quien la realiza. Se excluye de esta definición la [Distribución](articulo-2.md).

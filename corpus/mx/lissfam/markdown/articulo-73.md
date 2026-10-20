@@ -17,4 +17,4 @@ source_sha256: 35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc
 
 # Artículo 73
 
-En el seguro de vida militar obligatorio, como en el potestativo, los militares podrán designar beneficiarios libremente. Las designaciones se formularán en el documento de afiliación o en escrito por triplicado dirigido al Instituto, con las firmas de dos testigos y la del asegurado, y su huella digital o sólo con ésta en caso de que no supiera firmar o estuviere impedido físicamente para hacerlo.
+En el seguro de vida militar obligatorio, como en el potestativo, los militares podrán designar beneficiarios libremente. Las designaciones se formularán en el documento de afiliación o en escrito por triplicado dirigido al [Instituto](articulo-4o.md), con las firmas de dos testigos y la del asegurado, y su huella digital o sólo con ésta en caso de que no supiera firmar o estuviere impedido físicamente para hacerlo.

@@ -13,8 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGEEPA_MRETC_311
 source_sha256: 71c334347de911b670b7e920a44db19f2555f611203ec25d227733687972f424
 ---
 
+> Capítulo II · Sección IV
+
 # Artículo 22
 
-Los Organismos Empresariales, las Cámaras, las Asociaciones Industriales, Instituciones Educativas y de Investigación, los Colegios y Asociaciones Profesionales, Organizaciones No Gubernamentales y expertos en la materia, podrán participar con la Secretaría en el desarrollo de metodologías de medición y estimación de emisiones y transferencia de contaminantes y sustancias cuando dichas metodologías y estimaciones no se encuentren previstas en Normas Oficiales Mexicanas.
-
-Capítulo III De la Organización del Registro
+Los Organismos Empresariales, las Cámaras, las Asociaciones Industriales, Instituciones Educativas y de Investigación, los Colegios y Asociaciones Profesionales, Organizaciones No Gubernamentales y expertos en la materia, podrán participar con la [Secretaría](articulo-3o.md) en el desarrollo de metodologías de medición y estimación de emisiones y transferencia de contaminantes y sustancias cuando dichas metodologías y estimaciones no se encuentren previstas en Normas Oficiales Mexicanas.

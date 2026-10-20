@@ -17,4 +17,4 @@ source_sha256: c1870db657a6564bbeb692a1778472db811a920626822de553ff5ca5194f95b4
 
 # Artículo 43
 
-La SEMARNAT debe sancionar administrativamente los incumplimientos a las disposiciones contenidas en la presente Ley y las que deriven de ella, de conformidad con la legislación ambiental aplicable.
+La [SEMARNAT](articulo-2.md) debe sancionar administrativamente los incumplimientos a las disposiciones contenidas en la presente [Ley](articulo-2.md) y las que deriven de ella, de conformidad con la legislación ambiental aplicable.

@@ -17,7 +17,7 @@ source_sha256: 8515c812258bcc7c342e8566ff623c7f5e880f2eb9ee2ad154758077089f11ca
 
 # Artículo 76
 
-Conforme al [artículo anterior](articulo-75.md), las pruebas físicas que servirán de referencia para ser seleccionadas y establecidas, de conformidad con la orientación que determine la Comisión Coordinadora, son las siguientes:
+Conforme al [artículo anterior](articulo-75.md), las pruebas físicas que servirán de referencia para ser seleccionadas y establecidas, de conformidad con la orientación que determine la [Comisión Coordinadora](articulo-5.md), son las siguientes:
 
 I. Fortaleza de extremidades superiores;
 

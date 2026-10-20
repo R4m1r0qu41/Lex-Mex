@@ -17,7 +17,7 @@ source_sha256: 160e5e85efddb1749a79f6b154af31711a9b31a5e32bace3c07e2859c2620ecf
 
 # Artículo 133
 
-Las infracciones a los preceptos de esta Ley, sus reglamentos y las normas oficiales mexicanas que de ella deriven, señaladas en el [artículo anterior](articulo-132.md), serán sancionadas administrativamente por la Secretaría con una o más de las siguientes sanciones:
+Las infracciones a los preceptos de esta Ley, sus reglamentos y las normas oficiales mexicanas que de ella deriven, señaladas en el [artículo anterior](articulo-132.md), serán sancionadas administrativamente por la [Secretaría](articulo-4o.md) con una o más de las siguientes sanciones:
 
 I. Amonestación con apercibimiento;
 

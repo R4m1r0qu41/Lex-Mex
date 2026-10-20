@@ -17,4 +17,4 @@ source_sha256: 9080231242a59cbd78d30fb747864bc45cd63d3c4978f37086b01e45343f4244
 
 # Artículo 67
 
-Para los efectos de lo previsto en el artículo [125](../../lepepm/markdown/articulo-125.md) de la Ley, la evaluación anual a cargo de la Persona Comisaria debe realizarse conforme a las mejores prácticas en la materia, así como procurar que los resultados de la evaluación y los reportes que deriven de esta, sean comparables en el tiempo.
+Para los efectos de lo previsto en el artículo [125](../../lepepm/markdown/articulo-125.md) de la [Ley](articulo-2.md), la evaluación anual a cargo de la [Persona Comisaria](articulo-2.md) debe realizarse conforme a las mejores prácticas en la materia, así como procurar que los resultados de la evaluación y los reportes que deriven de esta, sean comparables en el tiempo.

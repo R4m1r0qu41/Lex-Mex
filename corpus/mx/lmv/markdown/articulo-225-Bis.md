@@ -13,9 +13,11 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título VII
+
 # Artículo 225 Bis
 
-Los asesores en inversiones que estén constituidos como sociedades anónimas de conformidad con la Ley General de Sociedades Mercantiles, podrán solicitar a la [Comisión](articulo-2.md) autorización para actuar como socio fundador de fondos de inversión a los que se refiere el artículo 30 de la Ley de Fondos de Inversión.
+Los asesores en inversiones que estén constituidos como sociedades anónimas de conformidad con la Ley General de Sociedades Mercantiles, podrán solicitar a la [Comisión](articulo-2.md) autorización para actuar como socio fundador de fondos de inversión a los que se refiere el artículo [30](../../lfi/markdown/articulo-30.md) de la Ley de Fondos de Inversión.
 
 Los asesores en inversiones que obtengan la autorización a que se refiere el párrafo anterior, podrán proporcionar a dichos fondos de inversión el servicio de administración de cartera de Activos Objeto de Inversión, tomando decisiones de inversión a nombre y por cuenta de éstos, pudiendo por ello cobrar comisiones de administración y desempeño, de conformidad con lo dispuesto en esta Ley, en la Ley de Fondos de Inversión y en las disposiciones de carácter general que al efecto emita la Comisión.
 

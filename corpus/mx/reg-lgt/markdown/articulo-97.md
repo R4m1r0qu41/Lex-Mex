@@ -21,6 +21,6 @@ En los caminos y puentes de jurisdicción federal y, en su caso, de jurisdicció
 
 I. Atención y apoyo vial;
 
-II. Información oportuna sobre Servicios y Destinos Turísticos, y
+II. Información oportuna sobre Servicios y [Destinos Turísticos](articulo-2.md), y
 
-III. Los demás servicios que se indican en el Reglamento Interior de la Secretaría de Turismo.
+III. Los demás servicios que se indican en el Reglamento Interior de la Secretaría de [Turismo](articulo-2.md).

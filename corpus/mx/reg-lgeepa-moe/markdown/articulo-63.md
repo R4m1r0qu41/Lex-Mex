@@ -17,4 +17,4 @@ source_sha256: d25fabb2d2e90d9f76028717f83c442d05a4f64024f13461285bda8ebd389a04
 
 # Artículo 63
 
-La Secretaría incorporará al Subsistema las bitácoras ambientales de los procesos de ordenamiento ecológico, competencia de la Federación, así como de aquellos que se realicen mediante la suscripción de convenios de coordinación en términos del presente Reglamento.
+La [Secretaría](articulo-3o.md) incorporará al [Subsistema](articulo-3o.md) las bitácoras ambientales de los procesos de ordenamiento ecológico, competencia de la Federación, así como de aquellos que se realicen mediante la suscripción de convenios de coordinación en términos del presente [Reglamento](articulo-3o.md).

@@ -17,7 +17,7 @@ source_sha256: 9f964bc5c075d7cf47e5e9df7c2fbe262eb5bd1794de9b230dbd72026a51ae5e
 
 # Artículo 6
 
-Para efectos de esta Ley, se entiende por:
+Para efectos de esta [Ley](articulo-6.md), se entiende por:
 
 I. Cigarrillo: Cigarro pequeño de picadura envuelta en un papel de fumar;
 
@@ -25,7 +25,7 @@ II. Cigarro o Puro: Rollo de hojas de tabaco, que enciende por un extremo y se c
 
 III. Contenido: A la lista compuesta de ingredientes, así como los componentes diferentes del tabaco, como papel boquilla, tinta para impresión de marca, papel cigarro, filtro, envoltura de filtro y adhesivo de papel cigarro;
 
-IV. Control sanitario de los productos del Tabaco: Conjunto de acciones de orientación, educación, muestreo, verificación y en su caso, aplicación de medidas de seguridad y sanciones, que ejerce la Secretaría de Salud y otras autoridades competentes, con base en lo que establecen esta Ley, sus reglamentos, las normas oficiales mexicanas y demás disposiciones aplicables. Comprende diversas estrategias de reducción de la oferta, la demanda y los daños con objeto de mejorar la salud de la población reduciendo el consumo de productos del tabaco y la exposición al humo de tabaco de segunda mano;
+IV. Control sanitario de los productos del [Tabaco](articulo-6.md): Conjunto de acciones de orientación, educación, muestreo, verificación y en su caso, aplicación de medidas de seguridad y sanciones, que ejerce la [Secretaría](articulo-6.md) de Salud y otras autoridades competentes, con base en lo que establecen esta Ley, sus reglamentos, las normas oficiales mexicanas y demás disposiciones aplicables. Comprende diversas estrategias de reducción de la oferta, la demanda y los daños con objeto de mejorar la salud de la población reduciendo el consumo de productos del tabaco y la exposición al humo de tabaco de segunda mano;
 
 V. Denuncia Ciudadana: Notificación hecha a la autoridad competente por cualquier persona respecto de los hechos de incumplimiento de las disposiciones contenidas en esta Ley, sus reglamentos y demás disposiciones aplicables;
 

@@ -17,4 +17,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Artículo 262
 
-De conformidad con la Ley, la Secretaría y la Comisión se encuentran facultadas para vigilar y supervisar el cumplimiento de la misma, del presente reglamento y demás Normatividad en materia del sector hidrocarburos, mediante visitas de verificación, requerimientos de información, documentación, informes y comparecencias a los sujetos que realicen cualquiera de las actividades reguladas que prevé la Ley, el presente reglamento y demás Normatividad aplicable.
+De conformidad con la [Ley](articulo-3.md), la [Secretaría](articulo-3.md) y la [Comisión](articulo-3.md) se encuentran facultadas para vigilar y supervisar el cumplimiento de la misma, del presente reglamento y demás [Normatividad](articulo-3.md) en materia del sector hidrocarburos, mediante visitas de verificación, requerimientos de información, documentación, informes y comparecencias a los sujetos que realicen cualquiera de las actividades reguladas que prevé la Ley, el presente reglamento y demás Normatividad aplicable.

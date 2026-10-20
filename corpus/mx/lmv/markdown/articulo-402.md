@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título XV · Capítulo V
+
 # Artículo 402
 
 Las notificaciones personales podrán efectuarse en las oficinas de las autoridades financieras, cuando el interesado acuda a las mismas; para lo cual quien realice la notificación levantará por duplicado un acta, en la que asentará que hizo saber al interesado el contenido del oficio en el que conste el acto administrativo que deba notificarse; asimismo se harán constar, en lo conducente, las demás circunstancias a que se refiere el antepenúltimo párrafo del artículo [403](articulo-403.md) de esta Ley. El duplicado del acta se entregará al interesado.

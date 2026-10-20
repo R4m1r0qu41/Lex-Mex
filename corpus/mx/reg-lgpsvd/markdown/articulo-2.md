@@ -17,4 +17,4 @@ source_sha256: a1cc8f6043c35579235fd61d2e34977e1735af4ea6919d053f89462b97742335
 
 # Artículo 2
 
-Corresponde a la Secretaría de Gobernación, por conducto del Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública, la interpretación de este Reglamento para efectos administrativos, de conformidad con las disposiciones jurídicas aplicables y, en su caso, previa opinión de aquellas dependencias o entidades de la Administración Pública Federal a las que conforme al ámbito de sus competencias, corresponda pronunciarse.
+Corresponde a la [Secretaría](articulo-3.md) de Gobernación, por conducto del Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública, la interpretación de este Reglamento para efectos administrativos, de conformidad con las disposiciones jurídicas aplicables y, en su caso, previa opinión de aquellas dependencias o entidades de la Administración Pública Federal a las que conforme al ámbito de sus competencias, corresponda pronunciarse.

@@ -17,11 +17,11 @@ source_sha256: 4e276866fce1638948a6daf1a5c0438fa412554f1a6e0381cbdf7cb300e3db75
 
 # Artículo 16
 
-El Consejo tendrá las siguientes atribuciones:
+El [Consejo](articulo-3o.md) tendrá las siguientes atribuciones:
 
-I. Fungir como órgano de consulta y apoyo de la Secretaría en la formulación, ejecución, seguimiento y evaluación de la política para el establecimiento, manejo y vigilancia de las áreas naturales protegidas de su competencia; II. Emitir opinión sobre el otorgamiento de la administración de las áreas naturales protegidas, a que se refiere el artículo [6](articulo-6o.md)o. del presente Reglamento;
+I. Fungir como órgano de consulta y apoyo de la [Secretaría](articulo-3o.md) en la formulación, ejecución, seguimiento y evaluación de la política para el establecimiento, manejo y vigilancia de las áreas naturales protegidas de su competencia; II. Emitir opinión sobre el otorgamiento de la administración de las áreas naturales protegidas, a que se refiere el artículo [6](articulo-6o.md)o. del presente Reglamento;
 
-III. Emitir opiniones y recomendaciones para ser adoptadas por la Secretaría en el ejercicio de las facultades que en materia de áreas naturales protegidas le corresponden conforme a la Ley, a éste y a otros ordenamientos jurídicos aplicables;
+III. Emitir opiniones y recomendaciones para ser adoptadas por la Secretaría en el ejercicio de las facultades que en materia de áreas naturales protegidas le corresponden conforme a la [Ley](articulo-3o.md), a éste y a otros ordenamientos jurídicos aplicables;
 
 IV. Proponer a la Secretaría las ternas de los posibles candidatos a ocupar el cargo de Director de las Áreas Naturales Protegidas;
 

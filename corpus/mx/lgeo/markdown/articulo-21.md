@@ -17,4 +17,4 @@ source_sha256: 67309bf186af42de0f9e98010d38c89598676faea7f2b558ac9c9e6736d64d35
 
 # Artículo 21
 
-Las Concesiones otorgan a su persona titular, el derecho de uso, aprovechamiento y explotación de un Área Geotérmica y el Yacimiento Geotérmico localizado en el área objeto de la Concesión. Este derecho de aprovechamiento es inherente a la Concesión geotérmica y se extingue con ésta.
+Las [Concesiones](articulo-2.md) otorgan a su persona titular, el derecho de uso, aprovechamiento y explotación de un [Área Geotérmica](articulo-2.md) y el [Yacimiento Geotérmico](articulo-2.md) localizado en el área objeto de la Concesión. Este derecho de aprovechamiento es inherente a la Concesión geotérmica y se extingue con ésta.

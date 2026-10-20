@@ -17,7 +17,7 @@ source_sha256: 0ad7a7b6d7dffd7d9a582d74ebd6fc43e6baa79f71801a73dc70d1b77c414ded
 
 # Artículo 79
 
-La resolución que emita el Registro Nacional de Organismos Ganaderos al calificar una solicitud, deberá:
+La resolución que emita el Registro Nacional de Organismos [Ganaderos](articulo-2o.md) al calificar una solicitud, deberá:
 
 I. Constar por escrito señalando lugar y fecha de emisión;
 

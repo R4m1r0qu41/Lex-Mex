@@ -17,4 +17,4 @@ source_sha256: e81e23876bd08da81cb8392af7054f6187ad043ca8f965777b455f9d12554e8b
 
 # Artículo 173
 
-Las resoluciones de la unidad correspondiente de la Autoridad garante federal podrán: I. Desechar o sobreseer el recurso de inconformidad; II. Confirmar la resolución de la Autoridad garante local, o III. Revocar o modificar la resolución de la Autoridad garante local. La resolución será notificada al inconforme, al sujeto obligado, a la Autoridad garante local, y, en su caso, a la persona tercera interesada, a través de la Plataforma Nacional.
+Las resoluciones de la unidad correspondiente de la [Autoridad garante federal](articulo-3.md) podrán: I. Desechar o sobreseer el recurso de inconformidad; II. Confirmar la resolución de la [Autoridad garante local](articulo-3.md), o III. Revocar o modificar la resolución de la Autoridad garante local. La resolución será notificada al inconforme, al sujeto obligado, a la Autoridad garante local, y, en su caso, a la persona tercera interesada, a través de la [Plataforma Nacional](articulo-3.md).

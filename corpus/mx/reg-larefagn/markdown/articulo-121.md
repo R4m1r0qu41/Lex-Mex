@@ -23,7 +23,7 @@ I. Ser de la clase de arma, de servicio o de guardia nacional; Fracción reforma
 
 II. No haber estado sujeto a proceso en que haya resultado culpable o bien se le haya otorgado el retiro de la acción penal;
 
-III. Tener buena conducta civil y militar; IV. Ser de reconocida iniciativa y capacidad de trabajo, avalada por la persona titular de la Comandancia, Coordinación, Jefatura o Dirección del organismo al que pertenezca, mediante un documento que indique el cumplimiento de tal requisito; Fracción reformada DOF 20-03-2026
+III. Tener buena conducta civil y militar; IV. Ser de reconocida iniciativa y capacidad de trabajo, avalada por la persona titular de la Comandancia, Coordinación, Jefatura o [Dirección](articulo-5.md) del organismo al que pertenezca, mediante un documento que indique el cumplimiento de tal requisito; Fracción reformada DOF 20-03-2026
 
 V. Contar con un tiempo mínimo de servicios de 16 años;
 

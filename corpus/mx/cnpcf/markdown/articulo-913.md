@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Capítulo Único · Sección Primera
+
 # Artículo 913
 
 La parte que obtuvo sentencia definitiva favorable, puede adherirse a la apelación interpuesta en contra de la sentencia definitiva al momento de contestar los agravios, expresando los razonamientos tendientes a mejorar las consideraciones vertidas por la autoridad jurisdiccional en la resolución de que se trate. Con dicho escrito, se dará vista a la contraria para que en el plazo de tres días manifieste lo que a su derecho corresponda.

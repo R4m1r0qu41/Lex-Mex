@@ -17,4 +17,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Artículo 287
 
-En los casos en que la medida cautelar o precautoria haya sido ordenada e impuesta mediante acuerdo, la Secretaría o la Comisión debe ordenar su ejecución en un acta circunstanciada.
+En los casos en que la medida cautelar o precautoria haya sido ordenada e impuesta mediante acuerdo, la [Secretaría](articulo-3.md) o la [Comisión](articulo-3.md) debe ordenar su ejecución en un acta circunstanciada.

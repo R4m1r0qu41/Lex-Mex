@@ -18,6 +18,6 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 239
 
-Las Sociedades Financieras Populares previo a la utilización de mecanismos de microfilmación o grabación, deberán depositar ante la Comisión, un documento certificado por el funcionario responsable del área y por el Director o Gerente General, en el cual se describan los procedimientos institucionales que se seguirán para la microfilmación o grabación, que deberán incluir las normas contenidas en el presente Capítulo, así como también una descripción del sistema establecido para el control de documentos microfilmados o grabados a que se refieren los artículos [254](articulo-254.md) y [265](articulo-265.md), respectivamente.
+Las [Sociedades](articulo-1.md) Financieras Populares previo a la utilización de mecanismos de microfilmación o grabación, deberán depositar ante la Comisión, un documento certificado por el funcionario responsable del área y por el [Director o Gerente General](articulo-1.md), en el cual se describan los procedimientos institucionales que se seguirán para la microfilmación o grabación, que deberán incluir las normas contenidas en el presente Capítulo, así como también una descripción del sistema establecido para el control de documentos microfilmados o grabados a que se refieren los artículos [254](articulo-254.md) y [265](articulo-265.md), respectivamente.
 
 Segundo párrafo.- Derogado.

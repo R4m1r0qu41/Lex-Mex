@@ -1168,14 +1168,60 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:33-nonies:reference:890-892:18:direct",
-    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:33-nonies",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:33-decies:reference:52-54:18:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:33-decies",
     "source_span": "18",
-    "start_char": 890,
-    "end_char": 892,
+    "start_char": 52,
+    "end_char": 54,
     "target_instrument_id": "urn:lex-mx:federal:statute:lsem",
     "target_provision_id": "urn:lex-mx:federal:statute:lsem:article:18",
     "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct",
+    "resolution_rule": "parent_shorthand"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:33-duodecies:reference:289-295:40-bis:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:33-duodecies",
+    "source_span": "40-BIS",
+    "start_char": 289,
+    "end_char": 295,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lsem",
+    "target_provision_id": "urn:lex-mx:federal:statute:lsem:article:40-bis",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "segundo párrafo",
+        "start_char": 297,
+        "end_char": 312
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct",
+    "resolution_rule": "parent_shorthand"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:33-duodecies:reference:726-728:57:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:33-duodecies",
+    "source_span": "57",
+    "start_char": 726,
+    "end_char": 728,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lsem",
+    "target_provision_id": "urn:lex-mx:federal:statute:lsem:article:57",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracciones II y III",
+        "start_char": 693,
+        "end_char": 712
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -1239,6 +1285,22 @@
     "end_char": 57,
     "target_instrument_id": "urn:lex-mx:federal:statute:lsem",
     "target_provision_id": "urn:lex-mx:federal:statute:lsem:article:18",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct",
+    "resolution_rule": "parent_shorthand"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:33-terdecies:reference:320-322:40:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:33-terdecies",
+    "source_span": "40",
+    "start_char": 320,
+    "end_char": 322,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lsem",
+    "target_provision_id": "urn:lex-mx:federal:statute:lsem:article:40",
     "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,

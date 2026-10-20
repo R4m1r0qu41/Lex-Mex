@@ -17,4 +17,4 @@ source_sha256: 0ad7a7b6d7dffd7d9a582d74ebd6fc43e6baa79f71801a73dc70d1b77c414ded
 
 # Artículo 3o
 
-La Secretaría, coordinará con las demás dependencias y entidades de la Administración Pública Federal, así como con los gobiernos de las entidades federativas y municipios, en el ámbito de sus correspondientes atribuciones, la debida aplicación de este Reglamento.
+La Secretaría, coordinará con las demás dependencias y entidades de la Administración Pública Federal, así como con los gobiernos de las entidades federativas y municipios, en el ámbito de sus correspondientes atribuciones, la debida aplicación de este [Reglamento](articulo-2o.md).

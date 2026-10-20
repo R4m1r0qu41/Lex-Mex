@@ -1,1 +1,266 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:term:alto-mando",
+    "term": "Alto Mando",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-laam",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:5",
+    "fraction": "I",
+    "start_char": 78,
+    "end_char": 175,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:term:adecuacion-de-grado",
+    "term": "Adecuación de grado",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-laam",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:5",
+    "fraction": "I Bis",
+    "start_char": 175,
+    "end_char": 443,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:term:ascenso-de-forma-excepcional",
+    "term": "Ascenso de forma excepcional",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-laam",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:5",
+    "fraction": "I Ter",
+    "start_char": 443,
+    "end_char": 938,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:term:comision-coordinadora",
+    "term": "Comisión Coordinadora",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-laam",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:5",
+    "fraction": "II",
+    "start_char": 938,
+    "end_char": 1003,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:term:comision-local",
+    "term": "Comisión Local",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-laam",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:5",
+    "fraction": "III",
+    "start_char": 1003,
+    "end_char": 1217,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:term:concurso-de-seleccion",
+    "term": "Concurso de Selección",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-laam",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:5",
+    "fraction": "IV",
+    "start_char": 1217,
+    "end_char": 1654,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:term:direcciones-generales",
+    "term": "Direcciones Generales",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-laam",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:5",
+    "fraction": "V",
+    "start_char": 1654,
+    "end_char": 1994,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:term:directiva-de-promocion",
+    "term": "Directiva de Promoción",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-laam",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:5",
+    "fraction": "VI",
+    "start_char": 1994,
+    "end_char": 2194,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:term:escalafon",
+    "term": "Escalafón",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-laam",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:5",
+    "fraction": "VII",
+    "start_char": 2194,
+    "end_char": 2424,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:term:jefatura-de-operaciones",
+    "term": "Jefatura de Operaciones",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-laam",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:5",
+    "fraction": "VIII",
+    "start_char": 2424,
+    "end_char": 2526,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:term:institucion",
+    "term": "Institución",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-laam",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:5",
+    "fraction": "IX",
+    "start_char": 2526,
+    "end_char": 2565,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-laam",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:5",
+    "fraction": "X",
+    "start_char": 2565,
+    "end_char": 2614,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:term:mando-supremo",
+    "term": "Mando Supremo",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-laam",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:5",
+    "fraction": "XI",
+    "start_char": 2614,
+    "end_char": 2710,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:term:manual",
+    "term": "Manual",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-laam",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:5",
+    "fraction": "XII",
+    "start_char": 2710,
+    "end_char": 3076,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:term:oficialia-mayor",
+    "term": "Oficialía Mayor",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-laam",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:5",
+    "fraction": "XIII",
+    "start_char": 3076,
+    "end_char": 3147,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:term:orden-de-prelacion",
+    "term": "Orden de Prelación",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-laam",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:5",
+    "fraction": "XIII Bis",
+    "start_char": 3147,
+    "end_char": 3372,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:term:persona-participante",
+    "term": "Persona Participante",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-laam",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:5",
+    "fraction": "XIV",
+    "start_char": 3372,
+    "end_char": 3809,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:term:personal-de-apoyo",
+    "term": "Personal de Apoyo",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-laam",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:5",
+    "fraction": "XV",
+    "start_char": 3809,
+    "end_char": 3962,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:term:presidenta-o-presidente",
+    "term": "Presidenta o Presidente",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-laam",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:5",
+    "fraction": "XVI",
+    "start_char": 3962,
+    "end_char": 4107,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:term:presidentas-o-presidentes-de-las-comisiones-locales",
+    "term": "Presidentas o Presidentes de las Comisiones Locales",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-laam",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:5",
+    "fraction": "XVII",
+    "start_char": 4107,
+    "end_char": 4373,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:term:proceso-de-seleccion",
+    "term": "Proceso de Selección",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-laam",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:5",
+    "fraction": "XVII Bis",
+    "start_char": 4373,
+    "end_char": 4940,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:term:promocion-general",
+    "term": "Promoción General",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-laam",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:5",
+    "fraction": "XVIII",
+    "start_char": 4940,
+    "end_char": 5387,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:term:renuncia",
+    "term": "Renuncia",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-laam",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:5",
+    "fraction": "XIX",
+    "start_char": 5387,
+    "end_char": 5557,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-laam",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:5",
+    "fraction": "XX",
+    "start_char": 5557,
+    "end_char": 5632,
+    "basis": "express_definition"
+  }
+]

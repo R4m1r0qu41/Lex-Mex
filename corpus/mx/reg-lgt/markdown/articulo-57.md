@@ -17,7 +17,7 @@ source_sha256: 6680a58c98673518aee46582b3137d28987c275785d1f0c97295f0d89c4b692b
 
 # Artículo 57
 
-El Comité de Evaluación dará seguimiento al cumplimiento de las disposiciones aplicables a las Zonas de Desarrollo Turístico Sustentable.
+El Comité de Evaluación dará seguimiento al cumplimiento de las disposiciones aplicables a las Zonas de [Desarrollo Turístico](articulo-2.md) Sustentable.
 
 Cuando de las acciones de seguimiento señaladas en el párrafo anterior, se advierta la falta de cumplimiento de las disposiciones aplicables, el Comité de Evaluación propondrá a las autoridades solicitantes la adopción de las medidas correctivas necesarias y los plazos para llevarlas a cabo, de conformidad con las características y circunstancias particulares de cada zona.
 

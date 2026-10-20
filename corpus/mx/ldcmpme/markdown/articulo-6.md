@@ -17,4 +17,4 @@ source_sha256: 4933abadd27d345e7a5c1754af10ed429fd148b709b4a78d4f42447b5fcd546d
 
 # Artículo 6
 
-La Secretaría en el ámbito de su competencia, promoverá la participación de los Sectores para facilitar a las MIPYMES el acceso a Programas previstos en la presente Ley.
+La [Secretaría](articulo-3.md) en el ámbito de su competencia, promoverá la participación de los [Sectores](articulo-3.md) para facilitar a las [MIPYMES](articulo-3.md) el acceso a [Programas](articulo-3.md) previstos en la presente [Ley](articulo-3.md).

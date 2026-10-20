@@ -31,7 +31,7 @@ V. El uso de herramientas tecnológicas en términos que establece esta Ley;
 
 VI. Análisis de datos y estadísticas oficiales que muestren las tendencias históricas;
 
-VII. Evaluaciones participativas a través de diferentes medios como encuestas voluntarias, estructuradas o semiestructuradas a Familiares para evaluar la percepción o la eficacia de las medidas y procedimientos contemplados en la presente Ley, y
+VII. Evaluaciones participativas a través de diferentes medios como encuestas voluntarias, estructuradas o semiestructuradas a [Familiares](articulo-4.md) para evaluar la percepción o la eficacia de las medidas y procedimientos contemplados en la presente Ley, y
 
 VIII. Las mejores prácticas internacionales y los avances de la ciencia.
 

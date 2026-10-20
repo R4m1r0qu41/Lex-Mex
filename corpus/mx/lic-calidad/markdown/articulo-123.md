@@ -17,4 +17,4 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 # Artículo 123
 
-Tratándose de la aprobación de modelos o prototipos de instrumentos para medir, entre otros, las Normas Oficiales Mexicanas de metrología legal establecerán las clases de exactitud, métodos de medición y prueba; en su caso, los errores máximos tolerados e incertidumbre de medición; y las características generales de los mismos.
+Tratándose de la aprobación de modelos o prototipos de instrumentos para medir, entre otros, las [Normas Oficiales Mexicanas](articulo-4.md) de metrología legal establecerán las clases de exactitud, métodos de medición y prueba; en su caso, los errores máximos tolerados e incertidumbre de medición; y las características generales de los mismos.

@@ -17,4 +17,4 @@ source_sha256: 703f083c0baedfb4ef5ce8b62c78684d8ee0073f393321d476d75ebe4878e1d5
 
 # Artículo 8
 
-La creación y apertura de otras Instituciones Educativas, Jefaturas de Curso o Cursos, estará sujeta a las necesidades de capacitación de personal militar y a la disponibilidad de recursos humanos y presupuestales.
+La creación y apertura de otras [Instituciones Educativas](articulo-3.md), Jefaturas de Curso o Cursos, estará sujeta a las necesidades de capacitación de personal militar y a la disponibilidad de recursos humanos y presupuestales.

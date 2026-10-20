@@ -17,7 +17,7 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 # Artículo 19
 
-Además de las facultades expresamente conferidas en la presente Ley y en su Reglamento, corresponde al Presidente de la Comisión:
+Además de las facultades expresamente conferidas en la presente Ley y en su Reglamento, corresponde al Presidente de la [Comisión](articulo-4.md):
 
 I. Presidir las sesiones de la Comisión y someter a su consideración los asuntos que figuren en el orden del día;
 

@@ -17,7 +17,7 @@ source_sha256: cf47ab93fdea40d2b3e41b58784df62f89dd90b4482dd3b7f25adc7f6957036b
 
 # Artículo 46
 
-Las infracciones de carácter administrativo a los preceptos de la Ley y del Reglamento serán sancionadas por la Secretaría en asuntos de competencia federal, conforme a lo que establece el Reglamento, con una o más de las siguientes sanciones:
+Las infracciones de carácter administrativo a los preceptos de la [Ley](articulo-6o.md) y del [Reglamento](articulo-6o.md) serán sancionadas por la [Secretaría](articulo-6o.md) en asuntos de competencia federal, conforme a lo que establece el Reglamento, con una o más de las siguientes sanciones:
 
 I.- Multa por el equivalente de veinte a veinte mil días de salario mínimo general vigente en el Distrito Federal, en el momento de imponer la sanción;
 

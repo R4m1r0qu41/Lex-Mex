@@ -17,4 +17,4 @@ source_sha256: 67309bf186af42de0f9e98010d38c89598676faea7f2b558ac9c9e6736d64d35
 
 # Artículo 50
 
-Cuando los Recursos Geotérmicos incluidos en las Áreas Geotérmicas correspondientes a una Concesión se extiendan a otras Áreas Geotérmicas también objeto de Concesión cuya persona titular sea distinta, se puede acordar entre las partes el desarrollo de actividades de Explotación de Recursos Geotérmicos conjuntas, previa autorización de la Secretaría y bajo los criterios mínimos que esta defina.
+Cuando los [Recursos Geotérmicos](articulo-2.md) incluidos en las [Áreas Geotérmicas](articulo-2.md) correspondientes a una [Concesión](articulo-2.md) se extiendan a otras Áreas Geotérmicas también objeto de Concesión cuya persona titular sea distinta, se puede acordar entre las partes el desarrollo de actividades de [Explotación](articulo-2.md) de Recursos Geotérmicos conjuntas, previa autorización de la [Secretaría](articulo-2.md) y bajo los criterios mínimos que esta defina.

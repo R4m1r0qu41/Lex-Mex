@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGEEPA_MRETC_311
 source_sha256: 71c334347de911b670b7e920a44db19f2555f611203ec25d227733687972f424
 ---
 
+> Capítulo II · Sección III
+
 # Artículo 15
 
-La Cédula deberá contar en cada caso con la firma autógrafa o electrónica del representante legal del establecimiento sujeto a reporte, para lo cual el promovente deberá acreditar su personalidad al momento de iniciar el trámite de registro. REGLAMENTO DE LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE EN MATERIA DE REGISTRO DE EMISIONES Y TRANSFERENCIA DE CONTAMINANTES
+La [Cédula](articulo-3o.md) deberá contar en cada caso con la firma autógrafa o electrónica del representante legal del establecimiento sujeto a reporte, para lo cual el promovente deberá acreditar su personalidad al momento de iniciar el trámite de registro.

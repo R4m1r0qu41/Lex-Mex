@@ -21,11 +21,11 @@ La Secretaría tiene, además de las atribuciones conferidas en el artículo [4]
 
 I. Vigilar el cumplimiento de la Ley, del presente Reglamento y de las demás disposiciones jurídicas cuyo ámbito de aplicación tenga efectos en el sector turístico;
 
-II. Llevar a cabo la Promoción Turística ante los mercados nacional e internacional, a través del Consejo de Promoción;
+II. Llevar a cabo la [Promoción Turística](articulo-2.md) ante los mercados nacional e internacional, a través del Consejo de Promoción;
 
-III. Proponer a los Estados, Municipios, Distrito Federal y, en su caso, a los Prestadores de Servicios Turísticos, la realización de acciones comunes para la promoción y comercialización de los Destinos y Regiones Turísticas; IV. Establecer las bases de coordinación entre los tres órdenes de gobierno, para la regulación, administración y vigilancia de las Zonas de Desarrollo Turístico Sustentable, en los términos de las declaratorias que para tal efecto expida el titular del Ejecutivo Federal;
+III. Proponer a los Estados, Municipios, Distrito Federal y, en su caso, a los Prestadores de Servicios Turísticos, la realización de acciones comunes para la promoción y comercialización de los Destinos y Regiones Turísticas; IV. Establecer las bases de coordinación entre los tres órdenes de gobierno, para la regulación, administración y vigilancia de las Zonas de [Desarrollo Turístico](articulo-2.md) Sustentable, en los términos de las declaratorias que para tal efecto expida el titular del Ejecutivo Federal;
 
-V. Vigilar, en coordinación con las autoridades competentes, que en la planeación, programación, fomento y desarrollo del Turismo nacional, se observen los instrumentos de política ambiental, así como los ordenamientos en materia de desarrollo urbano;
+V. Vigilar, en coordinación con las autoridades competentes, que en la planeación, programación, fomento y desarrollo del [Turismo](articulo-2.md) nacional, se observen los instrumentos de política ambiental, así como los ordenamientos en materia de desarrollo urbano;
 
 VI. Solicitar a la Secretaría de Educación Pública y a las demás dependencias y entidades de los tres órdenes de gobierno competentes en materia de protección al patrimonio cultural, las autorizaciones o dictámenes necesarios para llevar a cabo acciones y programas coordinados en materia de Turismo, conforme a las disposiciones jurídicas aplicables;
 
@@ -33,7 +33,7 @@ VII. Imponer sanciones por las infracciones que se cometan a la Ley, al presente
 
 VIII. Organizar, con la participación de los Prestadores de Servicios Turísticos, eventos de carácter nacional e internacional enfocados a la promoción, fomento y comercialización de sus servicios;
 
-IX. Solicitar a la Secretaría de Comunicaciones y Transportes información sobre el estado que guarden las vías de comunicación terrestre, incluidas las ferroviarias, así como las instalaciones aeroportuarias y marítimas que permitan la comunicación con los diferentes Destinos Turísticos del país;
+IX. Solicitar a la Secretaría de Comunicaciones y Transportes información sobre el estado que guarden las vías de comunicación terrestre, incluidas las ferroviarias, así como las instalaciones aeroportuarias y marítimas que permitan la comunicación con los diferentes [Destinos Turísticos](articulo-2.md) del país;
 
 X. Coadyuvar, con las autoridades competentes, en la implementación de acciones necesarias en materia económica para fomentar la inversión en los Destinos Turísticos;
 

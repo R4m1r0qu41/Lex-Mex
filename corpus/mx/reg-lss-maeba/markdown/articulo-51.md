@@ -17,7 +17,7 @@ source_sha256: 9816ce7f9d6b9b1781eb9935869bd45677c60d721d3352865b6524c2e75db8cd
 
 # Artículo 51
 
-El acta en la que conste la adjudicación directa del bien deberá ser suscrita por el titular de la Delegación y por el adquirente o su representante legal, y contendrá, como mínimo, los datos siguientes:
+El acta en la que conste la adjudicación directa del bien deberá ser suscrita por el titular de la [Delegación](articulo-2.md) y por el adquirente o su representante legal, y contendrá, como mínimo, los datos siguientes:
 
 I. Descripción de los bienes a enajenar;
 

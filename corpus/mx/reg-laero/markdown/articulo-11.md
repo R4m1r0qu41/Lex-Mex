@@ -15,7 +15,7 @@ source_sha256: ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776
 
 # Artículo 11
 
-El concesionario interesado en que se le otorgue concesión para la administración, operación, explotación y, en su caso, construcción de un aeropuerto complementario, en términos del artículo [12](../../laero/markdown/articulo-12.md), fracción II, de la Ley, debe presentar ante la Secretaría una solicitud por escrito en la que precise lo señalado en el artículo [8](articulo-8.md) de este Reglamento, acompañada de:
+El concesionario interesado en que se le otorgue concesión para la administración, operación, explotación y, en su caso, construcción de un aeropuerto complementario, en términos del artículo [12](../../laero/markdown/articulo-12.md), fracción II, de la [Ley](articulo-2.md), debe presentar ante la [Secretaría](articulo-2.md) una solicitud por escrito en la que precise lo señalado en el artículo [8](articulo-8.md) de este Reglamento, acompañada de:
 
 I. La documentación señalada en las fracciones III, IV y V del artículo [9](articulo-9.md) de este Reglamento;
 

@@ -17,4 +17,4 @@ source_sha256: 9478163ef6ab468edc2be8def3bf84efedd03da5b6c166fba0430bfcb6d8467c
 
 # Artículo 11
 
-Las disposiciones contenidas en la Ley y en el presente reglamento, relacionadas con las responsabilidades, deberes y obligaciones, así como lo relativo a los impedimentos y al conflicto de interés de las personas integrantes del Consejo de Administración, son aplicables a las personas suplentes que se designen en términos de la Ley.
+Las disposiciones contenidas en la [Ley](articulo-2.md) y en el presente reglamento, relacionadas con las responsabilidades, deberes y obligaciones, así como lo relativo a los impedimentos y al conflicto de interés de las personas integrantes del [Consejo de Administración](articulo-2.md), son aplicables a las personas suplentes que se designen en términos de la Ley.

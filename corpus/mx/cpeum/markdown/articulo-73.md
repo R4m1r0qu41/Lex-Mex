@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf
 source_sha256: ca63a23a4b7444ebdbdad93759fbf46bd14c069e587c5878decf89fc9c12ca8e
 ---
 
+> Título Tercero · Capítulo II
+
 # Artículo 73
 
 El Congreso tiene facultad: Párrafo reformado DOF 24-10-1942, 10-02-1944
@@ -33,7 +35,9 @@ III. Para formar nuevos Estados dentro de los límites de los existentes, siendo
 
 5o. Que sea votada la erección del nuevo Estado por dos terceras partes de los diputados y senadores presentes en sus respectivas Cámaras.
 
-6o. Que la resolución del Congreso sea ratificada por la mayoría de las Legislaturas de las entidades federativas, previo examen de la copia del expediente, siempre que hayan dado su consentimiento las Legislaturas de las entidades federativas de cuyo territorio se trate. Numeral reformado DOF 29-01-2016 7o. Si las Legislaturas de las entidades federativas de cuyo territorio se trate, no hubieren dado su consentimiento, la ratificación de que habla la fracción anterior, deberá ser hecha por las dos terceras partes del total de Legislaturas de las demás entidades federativas. Numeral reformado DOF 29-01-2016
+6o. Que la resolución del Congreso sea ratificada por la mayoría de las Legislaturas de las entidades federativas, previo examen de la copia del expediente, siempre que hayan dado su consentimiento las Legislaturas de las entidades federativas de cuyo territorio se trate. Numeral reformado DOF 29-01-2016
+
+7o. Si las Legislaturas de las entidades federativas de cuyo territorio se trate, no hubieren dado su consentimiento, la ratificación de que habla la fracción anterior, deberá ser hecha por las dos terceras partes del total de Legislaturas de las demás entidades federativas. Numeral reformado DOF 29-01-2016
 
 IV. Derogada. Fe de erratas a la fracción DOF 06-02-1917. Derogada DOF 08-12-2005
 
@@ -151,7 +155,9 @@ Las entidades federativas participarán en el rendimiento de estas contribucione
 
 XXIX-A. Para expedir la ley general que establezca los principios y bases en materia de mecanismos alternativos de solución de controversias, con excepción de la materia penal; Fracción adicionada DOF 05-02-2017
 
-XXIX-B. Para legislar sobre las características y uso de la Bandera, Escudo e Himno Nacionales. Fracción adicionada DOF 24-10-1967 XXIX-C. Para expedir las leyes que establezcan la concurrencia del Gobierno Federal, de las entidades federativas, de los Municipios y, en su caso, de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, en materia de asentamientos humanos, con objeto de cumplir los fines previstos en el párrafo tercero del artículo [27](articulo-27.md) de esta Constitución, así como en materia de movilidad y seguridad vial; Fracción adicionada DOF 06-02-1976. Reformada DOF 29-01-2016, 18-12-2020
+XXIX-B. Para legislar sobre las características y uso de la Bandera, Escudo e Himno Nacionales. Fracción adicionada DOF 24-10-1967
+
+XXIX-C. Para expedir las leyes que establezcan la concurrencia del Gobierno Federal, de las entidades federativas, de los Municipios y, en su caso, de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, en materia de asentamientos humanos, con objeto de cumplir los fines previstos en el párrafo tercero del artículo [27](articulo-27.md) de esta Constitución, así como en materia de movilidad y seguridad vial; Fracción adicionada DOF 06-02-1976. Reformada DOF 29-01-2016, 18-12-2020
 
 XXIX-D. Para expedir leyes sobre planeación nacional del desarrollo económico y social, así como en materia de información estadística y geográfica de interés nacional; Fracción adicionada DOF 03-02-1983. Reformada DOF 07-04-2006
 

@@ -17,4 +17,4 @@ source_sha256: d8dd1de3627b899bb4faf31c2812c3d5f14f7108be153d5aa8dd549b9136184a
 
 # Artículo 6
 
-La coordinación y aplicación de esta Ley, se hará con respeto absoluto a las atribuciones constitucionales y legales de las autoridades e instituciones que intervienen en el Sistema Nacional.
+La coordinación y aplicación de esta Ley, se hará con respeto absoluto a las atribuciones constitucionales y legales de las autoridades e instituciones que intervienen en el [Sistema Nacional](articulo-2.md).

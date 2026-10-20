@@ -18,4 +18,4 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 205 Bis 7
 
-A las Sociedades Financieras Populares que hayan sido clasificadas en la categoría 1, no les será aplicable Medida Correctiva alguna.
+A las [Sociedades](articulo-1.md) Financieras Populares que hayan sido clasificadas en la categoría 1, no les será aplicable [Medida Correctiva](articulo-1.md) alguna.

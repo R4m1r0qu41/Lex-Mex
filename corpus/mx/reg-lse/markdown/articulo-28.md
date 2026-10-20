@@ -17,4 +17,4 @@ source_sha256: 4bcc982b308b0813469b30db61b53d5a2c41e5a7240b3b1cac2f1aeeb2c00a2e
 
 # Artículo 28
 
-La Secretaría y la CNE pueden implementar procedimientos simplificados para el otorgamiento de permisos de generación o almacenamiento de energía eléctrica para Proyectos Estratégicos y aquellos necesarios para salvaguardar la integridad del Sistema Eléctrico Nacional y del Mercado Eléctrico Mayorista.
+La Secretaría y la CNE pueden implementar procedimientos simplificados para el otorgamiento de permisos de generación o almacenamiento de energía eléctrica para [Proyectos Estratégicos](articulo-2.md) y aquellos necesarios para salvaguardar la integridad del Sistema Eléctrico Nacional y del Mercado Eléctrico Mayorista.

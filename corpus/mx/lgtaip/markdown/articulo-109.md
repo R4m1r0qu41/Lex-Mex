@@ -17,4 +17,4 @@ source_sha256: e81e23876bd08da81cb8392af7054f6187ad043ca8f965777b455f9d12554e8b
 
 # Artículo 109
 
-Los Documentos clasificados parcial o totalmente deberán llevar una leyenda que indique tal carácter, la fecha de la clasificación, el fundamento legal y, en su caso, el periodo de reserva.
+Los [Documentos](articulo-3.md) clasificados parcial o totalmente deberán llevar una leyenda que indique tal carácter, la fecha de la clasificación, el fundamento legal y, en su caso, el periodo de reserva.

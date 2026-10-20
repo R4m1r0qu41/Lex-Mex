@@ -17,4 +17,4 @@ source_sha256: 89220c0c86445a873067e0095b4591c11847dfd11595ca3e11bbfcf09cef6754
 
 # Artículo 11
 
-La Gestión Circular debe incorporar integralmente los aspectos ambientales, funcionales, económicos y sociales a lo largo del Ciclo de Vida de materiales, productos y residuos.
+La [Gestión Circular](articulo-3.md) debe incorporar integralmente los aspectos ambientales, funcionales, económicos y sociales a lo largo del [Ciclo de Vida](articulo-3.md) de materiales, productos y residuos.

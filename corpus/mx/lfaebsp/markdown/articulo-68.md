@@ -17,7 +17,7 @@ source_sha256: 269e72195414406bcbd3e90ac40ec26e031a9ea519316c44ee30bdfdf3163059
 
 # Artículo 68
 
-Los Bienes podrán enajenarse mediante adjudicación directa, previo dictamen del Instituto, el cual se emitirá de acuerdo con lo que al respecto disponga el Reglamento, que deberá constar por escrito, en los siguientes casos: Párrafo reformado DOF 09-08-2019
+Los [Bienes](articulo-2o.md) podrán enajenarse mediante adjudicación directa, previo dictamen del [Instituto](articulo-2o.md), el cual se emitirá de acuerdo con lo que al respecto disponga el [Reglamento](articulo-2o.md), que deberá constar por escrito, en los siguientes casos: Párrafo reformado DOF 09-08-2019
 
 I.- Se trate de bienes de fácil descomposición o deterioro, o de materiales inflamables, o no fungibles, siempre que en la localidad no se puedan guardar o depositar en lugares apropiados para su conservación;
 
@@ -33,6 +33,6 @@ VI.- Se trate créditos administrados o propiedad del Instituto, cuya propuesta 
 
 VII.- Se trate de Bienes sobre los que exista oferta de compra presentada por alguna dependencia, entidad paraestatal u órgano de la Administración Pública Federal, de las entidades federativas o municipios, así como cualquier otro órgano de gobierno, constitucional autónomo o con autonomía derivada de los órdenes constitucionales Federal o de alguna entidad federativa o municipio, y Fracción adicionada DOF 23-02-2005. Reformada DOF 09-08-2019
 
-VIII.- Se trate de Bienes provenientes de procesos de desincorporación, liquidación o extinción de empresas, así como de aquellos que determine la Junta de Gobierno. Fracción adicionada DOF 23-02-2005. Reformada DOF 09-08-2019
+VIII.- Se trate de Bienes provenientes de procesos de desincorporación, liquidación o extinción de empresas, así como de aquellos que determine la [Junta de Gobierno](articulo-2o.md). Fracción adicionada DOF 23-02-2005. Reformada DOF 09-08-2019
 
 A la propuesta de pago a que se refiere la fracción VI de este artículo, se le dará el mismo tratamiento que se daría si la hubiera presentado el propio acreditado. Párrafo adicionado DOF 23-02-2005

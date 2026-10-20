@@ -17,4 +17,4 @@ source_sha256: c24aa3a57883383635d5271683dd76e561f21852328f0e89f6bf1c2a09aa2d41
 
 # Artículo 89
 
-La Secretaría de Energía y la Comisión Nacional de Energía pueden realizar visitas de verificación, inspección y vigilancia, de acuerdo con las disposiciones aplicables.
+La [Secretaría](articulo-3.md) de Energía y la Comisión Nacional de Energía pueden realizar visitas de verificación, inspección y vigilancia, de acuerdo con las disposiciones aplicables.

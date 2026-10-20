@@ -17,4 +17,4 @@ source_sha256: 1405f36fd836ff74d059ebe7e50ae439cbb9e5e291a317514667f34a26f72a23
 
 # Artículo 15
 
-Cuando la Secretaría de Energía modifique el título de una Asignación, y únicamente en caso de que dicha modificación impacte o modifique a su vez el plan de Exploración o el plan de desarrollo para la Extracción o los planes o programas asociados a estos, la persona Asignataria debe presentar el plan modificado de que se trate a la Secretaría de Energía para su aprobación.
+Cuando la Secretaría de Energía modifique el título de una [Asignación](articulo-5.md), y únicamente en caso de que dicha modificación impacte o modifique a su vez el plan de [Exploración](articulo-5.md) o el plan de desarrollo para la [Extracción](articulo-5.md) o los planes o programas asociados a estos, la persona [Asignataria](articulo-5.md) debe presentar el plan modificado de que se trate a la Secretaría de Energía para su aprobación.

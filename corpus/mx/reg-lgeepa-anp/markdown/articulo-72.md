@@ -17,4 +17,4 @@ source_sha256: 4e276866fce1638948a6daf1a5c0438fa412554f1a6e0381cbdf7cb300e3db75
 
 # Artículo 72
 
-Las áreas naturales protegidas deberán contar con un programa de manejo que será elaborado por la Secretaría en los términos del artículo [65](../../lgeepa/markdown/articulo-65.md) de la Ley. El programa deberá sujetarse a las disposiciones contenidas en la declaratoria del área natural protegida de que se trate, y tendrá por objeto la administración de la misma.
+Las áreas naturales protegidas deberán contar con un programa de manejo que será elaborado por la [Secretaría](articulo-3o.md) en los términos del artículo [65](../../lgeepa/markdown/articulo-65.md) de la [Ley](articulo-3o.md). El programa deberá sujetarse a las disposiciones contenidas en la declaratoria del área natural protegida de que se trate, y tendrá por objeto la administración de la misma.

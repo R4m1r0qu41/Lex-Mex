@@ -17,4 +17,4 @@ source_sha256: 70464807d63da08244e495f2ff0ac30b12b30119926b84cedc7930397fcb80ef
 
 # Artículo 87
 
-La Secretaría, en coordinación con otras dependencias, determinará las condiciones y requisitos sanitarios que deberán cumplir las embarcaciones de pesca, de acuerdo con el tipo de pesquería para el cual serán utilizadas.
+La [Secretaría](articulo-2o.md), en coordinación con otras dependencias, determinará las condiciones y requisitos sanitarios que deberán cumplir las embarcaciones de pesca, de acuerdo con el tipo de pesquería para el cual serán utilizadas.

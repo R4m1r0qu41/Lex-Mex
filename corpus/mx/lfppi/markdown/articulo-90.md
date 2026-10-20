@@ -21,9 +21,9 @@ El registro de un esquema de trazado no producirá efecto alguno en contra de cu
 
 II.- Cree un esquema de trazado que cumpla con la exigencia de originalidad, sobre la base de la evaluación o el análisis de un esquema de trazado protegido, en los términos de la fracción I de este artículo.
 
-La persona creadora del segundo esquema de trazado podrá llevar a cabo cualquiera de los actos a que se refiere el artículo [88](articulo-88.md) de esta Ley, respecto del esquema de trazado por ella creado, sin la autorización de la persona titular del primer esquema de trazado protegido; Párrafo reformado DOF 03-04-2026
+La persona creadora del segundo esquema de trazado podrá llevar a cabo cualquiera de los actos a que se refiere el artículo [88](articulo-88.md) de esta [Ley](articulo-4.md), respecto del esquema de trazado por ella creado, sin la autorización de la persona titular del primer esquema de trazado protegido; Párrafo reformado DOF 03-04-2026
 
-III.- En forma independiente y con anterioridad a la publicación del registro en la Gaceta, haya creado un esquema de trazado original idéntico al esquema de trazado protegido. Quien trate de prevalerse de esta excepción en un procedimiento de declaración administrativa de infracción, tendrá la carga de la prueba;
+III.- En forma independiente y con anterioridad a la publicación del registro en la [Gaceta](articulo-4.md), haya creado un esquema de trazado original idéntico al esquema de trazado protegido. Quien trate de prevalerse de esta excepción en un procedimiento de declaración administrativa de infracción, tendrá la carga de la prueba;
 
 IV.- Realice cualquiera de los actos a que se refiere la fracción II del artículo [88](articulo-88.md) de esta Ley, sin la autorización de la persona titular, después de que hayan sido introducidos lícitamente en el comercio, en México o en cualquier parte del mundo, por la persona titular o con su consentimiento, respecto de: Párrafo reformado DOF 03-04-2026
 

@@ -22,7 +22,7 @@ Las Sociedades que ofrezcan [Servicios Electrónicos](articulo-1.md) a través d
 
 Se exceptúa de lo dispuesto por el párrafo anterior, a:
 
-I. Los dispositivos que se encuentren conectados a Teléfonos Móviles y funcionen de manera similar a las Terminales Punto de Venta.
+I. Los dispositivos que se encuentren conectados a [Teléfonos Móviles](articulo-1.md) y funcionen de manera similar a las Terminales Punto de Venta.
 
 II. Las Terminales Punto de Venta en las que únicamente se acepten tarjetas emitidas por la Sociedad adquirente.
 

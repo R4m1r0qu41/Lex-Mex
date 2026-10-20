@@ -17,4 +17,4 @@ source_sha256: 35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc
 
 # Artículo 59
 
-Para constituir el fondo de ahorro los Generales, Jefes, Oficiales y sus equivalentes en la Armada en servicio activo, deberán aportar una cuota quincenal equivalente al 6% de sus haberes. Al Gobierno Federal le corresponderá efectuar una aportación de igual monto. Este fondo será administrado por el Banco Nacional del Ejército, Fuerza Aérea y Armada, SNC, conforme a su Ley Orgánica.
+Para constituir el fondo de ahorro los Generales, Jefes, Oficiales y sus equivalentes en la Armada en servicio activo, deberán aportar una cuota quincenal equivalente al 6% de sus haberes. Al Gobierno Federal le corresponderá efectuar una aportación de igual monto. Este fondo será administrado por el Banco Nacional del Ejército, Fuerza Aérea y Armada, SNC, conforme a su [Ley](articulo-4o.md) Orgánica.

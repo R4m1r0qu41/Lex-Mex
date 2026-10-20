@@ -17,4 +17,4 @@ source_sha256: 23dcee090bbe0c4fb06c75d084cb65ce0b2e8f72a8d082e7059504412bde1614
 
 # Artículo 62
 
-La Secretaría, a través de la Dirección General de Agricultura, del SNICS y de las delegaciones en las entidades federativas, podrá verificar bienes, personas y vehículos de transporte, con el objeto de comprobar el cumplimiento de las disposiciones de la Ley y del presente Reglamento.
+La [Secretaría](articulo-2o.md), a través de la Dirección General de Agricultura, del [SNICS](articulo-2o.md) y de las delegaciones en las entidades federativas, podrá verificar bienes, personas y vehículos de transporte, con el objeto de comprobar el cumplimiento de las disposiciones de la [Ley](articulo-2o.md) y del presente Reglamento.

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Primero · Capítulo I
+
 # Artículo 400
 
 La consignación y el depósito de que hablan los artículos anteriores pueden hacerse por conducto de Fedatario Público, en este caso la designación de la persona depositaria será hecha bajo la responsabilidad de la persona deudora.

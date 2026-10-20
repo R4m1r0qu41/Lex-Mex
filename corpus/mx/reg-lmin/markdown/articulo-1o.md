@@ -27,15 +27,15 @@ II. Coordenadas: los valores en grados, minutos y, segundos en cuatro decimales,
 
 III. INDAABIN: el Instituto de Administración y Avalúos de Bienes Nacionales;
 
-IV. Índice de Precios: el Índice Nacional de Precios al Consumidor publicado por el INEGI en el Diario Oficial de la Federación, de acuerdo con lo dispuesto por el Código Fiscal de la Federación;
+IV. Índice de Precios: el Índice Nacional de Precios al Consumidor publicado por el [INEGI](articulo-1o.md) en el Diario Oficial de la Federación, de acuerdo con lo dispuesto por el Código Fiscal de la Federación;
 
 V. INEGI: el Instituto Nacional de Estadística y Geografía;
 
-VI. GPS: el Sistema de Posicionamiento Global; VII. Ley: la Ley Minera;
+VI. GPS: el Sistema de [Posicionamiento](articulo-1o.md) Global; VII. Ley: la Ley Minera;
 
-VIII. Liga topográfica: la distancia horizontal y rumbo astronómico entre dos puntos, obtenida mediante equipos que utilizan el sistema de posicionamiento GPS;
+VIII. Liga topográfica: la distancia horizontal y rumbo astronómico entre dos puntos, obtenida mediante equipos que utilizan el sistema de posicionamiento [GPS](articulo-1o.md);
 
-IX. Manual: el Manual de servicios al público en materia minera que al efecto expida la Secretaría de Economía;
+IX. Manual: el Manual de servicios al público en materia minera que al efecto expida la [Secretaría](articulo-1o.md) de Economía;
 
 X. Mojonera o Señal: el objeto físico que el solicitante o titular de una concesión o asignación minera puede colocar en el lugar donde se encuentran las coordenadas del punto de partida;
 
@@ -59,7 +59,7 @@ XIX. Servicio Geológico: el Servicio Geológico Mexicano;
 
 XX. Sociedad minera: una sociedad con capacidad legal para ser titular de concesiones mineras;
 
-XXI. Trabajos periciales: los trabajos efectuados por un perito minero para determinar el lote minero a que debe referirse una solicitud de concesión o de asignación minera según las características señaladas en el artículo [12](../../lmin/markdown/articulo-12.md) de la Ley;
+XXI. Trabajos periciales: los trabajos efectuados por un perito minero para determinar el lote minero a que debe referirse una solicitud de concesión o de asignación minera según las características señaladas en el artículo [12](../../lmin/markdown/articulo-12.md) de la [Ley](articulo-1o.md);
 
 XXII. Unidad Administrativa: las Agencias y Subdirecciones de Minería;
 

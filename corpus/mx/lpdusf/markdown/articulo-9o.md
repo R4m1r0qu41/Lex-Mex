@@ -17,4 +17,4 @@ source_sha256: cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7
 
 # Artículo 9o
 
-Las relaciones de trabajo entre la Comisión Nacional y sus trabajadores se regularán por la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del artículo 123 Constitucional, y las condiciones generales de trabajo que al efecto se determinen. Los trabajadores de la Comisión Nacional quedan incorporados al régimen del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
+Las relaciones de trabajo entre la [Comisión Nacional](articulo-2o.md) y sus trabajadores se regularán por la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del artículo 123 Constitucional, y las condiciones generales de trabajo que al efecto se determinen. Los trabajadores de la Comisión Nacional quedan incorporados al régimen del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.

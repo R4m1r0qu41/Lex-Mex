@@ -15,4 +15,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Vigésimo Primero
 
-El registro de las transacciones comerciales, volúmenes manejados, calidad y precios aplicados a los que se refiere el artículo [202](articulo-202.md) del presente reglamento se mantiene vigente en sus términos, en tanto no se emita la Normatividad aplicable a la plataforma de información electrónica.
+El registro de las transacciones comerciales, volúmenes manejados, calidad y precios aplicados a los que se refiere el artículo [202](articulo-202.md) del presente reglamento se mantiene vigente en sus términos, en tanto no se emita la [Normatividad](articulo-3.md) aplicable a la plataforma de información electrónica.

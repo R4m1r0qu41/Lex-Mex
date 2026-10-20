@@ -17,6 +17,6 @@ source_sha256: cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7
 
 # Artículo 39
 
-Para la vigilancia y control de la Comisión Nacional, la Secretaría de la Función Pública designará un Comisario Público Propietario y uno Suplente, quienes actuarán ante la Junta, independientemente del órgano de control interno a que se refiere este Capítulo.
+Para la vigilancia y control de la [Comisión Nacional](articulo-2o.md), la [Secretaría](articulo-2o.md) de la Función Pública designará un Comisario Público Propietario y uno Suplente, quienes actuarán ante la [Junta](articulo-2o.md), independientemente del órgano de control interno a que se refiere este Capítulo.
 
 Artículo reformado DOF 09-04-2012

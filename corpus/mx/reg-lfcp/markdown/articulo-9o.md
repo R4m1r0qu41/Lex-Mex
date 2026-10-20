@@ -17,7 +17,7 @@ source_sha256: 43723ba379e128c1a1c1be4b085ecc870946cdec43d56f83e7314c077361368f
 
 # Artículo 9o
 
-Para la realización del examen de aspirante deberá presentarse directamente ante la Secretaría, o a través del colegio de corredores local, la solicitud respectiva debidamente cumplimentada y firmada, en la cual se declare bajo protesta de decir verdad que los datos contenidos en ella son ciertos y que el firmante nunca ha sido condenado mediante sentencia ejecutoriada por delito intencional que merezca pena corporal, acompañada de la siguiente documentación:
+Para la realización del examen de aspirante deberá presentarse directamente ante la [Secretaría](articulo-2o.md), o a través del colegio de corredores local, la solicitud respectiva debidamente cumplimentada y firmada, en la cual se declare bajo protesta de decir verdad que los datos contenidos en ella son ciertos y que el firmante nunca ha sido condenado mediante sentencia ejecutoriada por delito intencional que merezca pena corporal, acompañada de la siguiente documentación:
 
 I.- Acta de nacimiento o comprobante de nacionalidad mexicana;
 

@@ -17,4 +17,4 @@ source_sha256: 45deb87bfd634dfbd1cb7d9fd67a476ad954187908eb0cb06256c90ccc0feb80
 
 # Artículo 33
 
-La Comisión podrá proponer medidas de apoyo a las organizaciones productivas de café para la adquisición de los servicios de asistencia técnica y capacitación.
+La [Comisión](articulo-3.md) podrá proponer medidas de apoyo a las organizaciones productivas de café para la adquisición de los servicios de asistencia técnica y capacitación.

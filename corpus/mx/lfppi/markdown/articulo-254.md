@@ -21,4 +21,4 @@ Cuando la persona titular de registros o solicitudes en trámite de dos o más m
 
 No será aplicable lo anterior, a marcas idénticas aplicadas a productos o servicios idénticos.
 
-El Instituto resolverá en definitiva lo que proceda, considerando que no se induzca al error al público consumidor respecto a la procedencia de los productos o servicios.
+El [Instituto](articulo-4.md) resolverá en definitiva lo que proceda, considerando que no se induzca al error al público consumidor respecto a la procedencia de los productos o servicios.

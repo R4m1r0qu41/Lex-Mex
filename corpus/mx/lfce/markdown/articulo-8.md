@@ -27,4 +27,4 @@ III. Dichas asociaciones o sociedades cooperativas estén bajo vigilancia o ampa
 
 IV. La membresía a dichas asociaciones o sociedades cooperativas sea voluntaria y se permita la libre entrada y salida de sus miembros, y
 
-V. No otorguen o distribuyan permisos o autorizaciones cuya expedición corresponda a dependencias o entidades de la administración pública federal. Los Agentes Económicos referidos en este artículo estarán sujetos a lo dispuesto en esta Ley respecto de los actos que no estén expresamente comprendidos dentro de la protección que señala el artículo [28](../../cpeum/markdown/articulo-28.md) de la Constitución Política de los Estados Unidos Mexicanos.
+V. No otorguen o distribuyan permisos o autorizaciones cuya expedición corresponda a dependencias o entidades de la administración pública federal. Los [Agentes Económicos](articulo-3.md) referidos en este artículo estarán sujetos a lo dispuesto en esta Ley respecto de los actos que no estén expresamente comprendidos dentro de la protección que señala el artículo [28](../../cpeum/markdown/articulo-28.md) de la Constitución Política de los Estados Unidos Mexicanos.

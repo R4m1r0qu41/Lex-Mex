@@ -15,4 +15,4 @@ source_sha256: 7c13fd20564f1e7230268a0943cc226368b24c44886d6738c479f4c42cbe77de
 
 # Tercero
 
-Las referencias normativas a la Comisión Nacional de Hidrocarburos y a la Comisión Reguladora de Energía se entienden hechas o conferidas a la Secretaría o a la Comisión, conforme a las atribuciones, competencias y facultades que les correspondan.
+Las referencias normativas a la [Comisión](articulo-6.md) Nacional de Hidrocarburos y a la Comisión Reguladora de Energía se entienden hechas o conferidas a la [Secretaría](articulo-6.md) o a la Comisión, conforme a las atribuciones, competencias y facultades que les correspondan.

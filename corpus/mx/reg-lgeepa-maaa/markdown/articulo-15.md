@@ -17,6 +17,6 @@ source_sha256: d50b44df321cf8be51375c07cee5dbcf03eac76df1cd11ab4bd777c9fce0f789
 
 # Artículo 15
 
-El Informe de Auditoría Ambiental deberá contener el dictamen que demuestre el Desempeño Ambiental de la Empresa y el resultado de la Auditoría Ambiental, elaborado por un Auditor Ambiental de conformidad con los Términos de Referencia. El informe deberá presentarse ante la Procuraduría o, en su caso, ante la Agencia, según corresponda, dentro de los sesenta días hábiles siguientes de aquél en que finalizó la Auditoría Ambiental. De no presentar el informe en el plazo antes señalado, el trámite será desechado.
+El [Informe de Auditoría Ambiental](articulo-2.md) deberá contener el dictamen que demuestre el [Desempeño Ambiental](articulo-2.md) de la [Empresa](articulo-2.md) y el resultado de la [Auditoría Ambiental](articulo-2.md), elaborado por un [Auditor Ambiental](articulo-2.md) de conformidad con los [Términos de Referencia](articulo-2.md). El informe deberá presentarse ante la [Procuraduría](articulo-2.md) o, en su caso, ante la [Agencia](articulo-2.md), según corresponda, dentro de los sesenta días hábiles siguientes de aquél en que finalizó la Auditoría Ambiental. De no presentar el informe en el plazo antes señalado, el trámite será desechado.
 
 Artículo reformado DOF 31-10-2014

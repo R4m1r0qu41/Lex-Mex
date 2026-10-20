@@ -17,4 +17,4 @@ source_sha256: b34326588bd6e7519e33411d3658239e3aefb56cef0fae5d775bc894af64a565
 
 # Artículo 114
 
-Las autoridades competentes de las entidades federativas y los municipios, procurarán establecer sanciones administrativas que contribuyan a inhibir que las personas físicas o morales violen las disposiciones de esta Ley.
+Las autoridades competentes de las entidades federativas y los municipios, procurarán establecer sanciones administrativas que contribuyan a inhibir que las personas físicas o morales violen las disposiciones de esta [Ley](articulo-5.md).

@@ -17,20 +17,20 @@ source_sha256: 1e7d06c67fac4c8a100d2bb2845cc765fba5e8ce09d27d30b2b44432ffeb8c41
 
 # Artículo 71
 
-En la aplicación del Programa Nacional, participarán:
+En la aplicación del [Programa Nacional](articulo-5.md), participarán:
 
-I. Las Instituciones de Procuración de Justicia;
+I. Las [Instituciones de Procuración de Justicia](articulo-5.md);
 
-II. Las Instituciones de Seguridad Pública;
+II. Las [Instituciones de Seguridad Pública](articulo-5.md);
 
-III. Las Instituciones Policiales;
+III. Las [Instituciones Policiales](articulo-5.md);
 
 IV. La Secretaría de Gobernación;
 
-V. La Comisión Ejecutiva y las Comisiones de Atención a Víctimas;
+V. La [Comisión Ejecutiva](articulo-5.md) y las [Comisiones de Atención a Víctimas](articulo-5.md);
 
 VI. El Instituto Nacional de las Mujeres;
 
 VII. Los Consejos de la Judicatura Federal y estatales; y
 
-VIII. Otras autoridades e instancias de los tres órdenes de gobierno que puedan contribuir al cumplimiento de la presente Ley.
+VIII. Otras autoridades e instancias de los tres órdenes de gobierno que puedan contribuir al cumplimiento de la presente [Ley](articulo-5.md).

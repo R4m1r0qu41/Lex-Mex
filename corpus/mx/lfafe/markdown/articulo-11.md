@@ -17,7 +17,7 @@ source_sha256: 96092a4581d4e87910eb58939da4045879e4fe613b12f4413d7392bcc2c6e884
 
 # Artículo 11
 
-Las armas, cargadores, municiones y materiales reservados para el uso exclusivo de la Fuerza Armada Permanente, son las siguientes: Párrafo reformado DOF 29-05-2025
+Las armas, cargadores, municiones y materiales reservados para el uso exclusivo de la [Fuerza Armada Permanente](articulo-1o-Bis.md), son las siguientes: Párrafo reformado DOF 29-05-2025
 
 a).- Revólveres calibre .357 Magnum y los superiores a .38 Especial.
 
@@ -29,7 +29,7 @@ d).- Pistolas, carabinas y fusiles con sistema automático, subametralladoras y 
 
 e).- Escopetas con cañón de longitud inferior a 635 mm. (25), las de calibre superior al 12 (.729 ó 18. 5 mm) y las lanzagases, con excepción de las de uso industrial.
 
-f).- Cargadores, municiones para las armas anteriores y cartuchos con artificios especiales como trazadores, incendiarios, perforantes, fumígenos, expansivos, de gases y los cargados con postas superiores al 00 (.84 cms. de diámetro) para escopeta; Inciso reformado DOF 29-05-2025
+f).- [Cargadores](articulo-1o-Bis.md), municiones para las armas anteriores y cartuchos con artificios especiales como trazadores, incendiarios, perforantes, fumígenos, expansivos, de gases y los cargados con postas superiores al 00 (.84 cms. de diámetro) para escopeta; Inciso reformado DOF 29-05-2025
 
 g).- Cañones, piezas de artillería, morteros y carros de combate con sus aditamentos, accesorios, proyectiles y municiones.
 
@@ -43,10 +43,10 @@ k).- Aeronaves de guerra y su armamento.
 
 k Bis).- Aeronaves pilotadas a distancia adaptadas para transportar, activar y detonar explosivos, artefactos explosivos, artefactos explosivos improvisados o armas, así como sustancias químicas que por sí solas o combinadas sean susceptibles de emplearse como explosivos. Inciso adicionado DOF 07-06-2024
 
-l).- Artificios de guerra, gases y substancias químicas de aplicación exclusivamente militar, y los ingenios diversos para su uso por las fuerzas armadas.
+l).- [Artificios](articulo-1o-Bis.md) de guerra, gases y substancias químicas de aplicación exclusivamente militar, y los ingenios diversos para su uso por las fuerzas armadas.
 
 m).- Silenciadores, y Inciso adicionado DOF 29-05-2025
 
 n).- Todos aquellos desarrollos tecnológicos en materia de armas y municiones, cuyas características balísticas igualen o excedan los descritos en los incisos anteriores, en cuanto a poder de penetración, alcance y volumen de fuego, así como aquellos accesorios, ingenios y vehículos blindados acondicionados para el empleo de armamento. Inciso adicionado DOF 29-05-2025
 
-La Secretaría puede autorizar el uso de las armas, municiones y materiales destinados exclusivamente para la guerra, mediante justificación de necesidad, individualmente o como corporación, a quienes desempeñen empleos o cargos de la Federación, de las entidades federativas, de los municipios y de las alcaldías de la Ciudad de México, así como a personas servidoras públicas extranjeras en los casos a que se refieren los artículos [28](articulo-28.md) y [28 Bis](articulo-28-Bis.md) de esta Ley. Párrafo reformado DOF 23-12-1974, 08-02-1985, 22-05-2015, 06-12-2022, 29-05-2025 Reforma DOF 29-05-2025: Suprimió del artículo el entonces párrafo segundo para quedar integrado en el actual último párrafo
+La [Secretaría](articulo-1o-Bis.md) puede autorizar el uso de las armas, municiones y materiales destinados exclusivamente para la guerra, mediante justificación de necesidad, individualmente o como corporación, a quienes desempeñen empleos o cargos de la Federación, de las entidades federativas, de los municipios y de las alcaldías de la Ciudad de México, así como a personas servidoras públicas extranjeras en los casos a que se refieren los artículos [28](articulo-28.md) y [28 Bis](articulo-28-Bis.md) de esta [Ley](articulo-1o-Bis.md). Párrafo reformado DOF 23-12-1974, 08-02-1985, 22-05-2015, 06-12-2022, 29-05-2025 Reforma DOF 29-05-2025: Suprimió del artículo el entonces párrafo segundo para quedar integrado en el actual último párrafo

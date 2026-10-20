@@ -17,11 +17,11 @@ source_sha256: 14cd17e37e96e766c8ab74950c71186d579c0ba6cc10ac9e8b06f6194af7d953
 
 # Artículo 26
 
-La Comisión tendrá las siguientes atribuciones:
+La [Comisión](articulo-2o.md) tendrá las siguientes atribuciones:
 
 I.- Dictar los lineamientos de política en materia de inversión extranjera y diseñar mecanismos para promover la inversión en México;
 
-II.- Resolver, a través de la Secretaría, sobre la procedencia y en su caso, sobre los términos y condiciones de la participación de la inversión extranjera de las actividades o adquisiciones con regulación específica, conforme a los artículos [8](articulo-8o.md)o. y 9o. de esta Ley;
+II.- Resolver, a través de la [Secretaría](articulo-2o.md), sobre la procedencia y en su caso, sobre los términos y condiciones de la participación de la inversión extranjera de las actividades o adquisiciones con regulación específica, conforme a los artículos [8](articulo-8o.md)o. y 9o. de esta Ley;
 
 III.- Ser órgano de consulta obligatoria en materia de inversión extranjera para las dependencias y entidades de la Administración Pública Federal;
 

@@ -15,11 +15,11 @@ source_sha256: 0a9852297132d8972d0c2f77e1b67d614bd296632109065e703bd09254187aea
 
 # Artículo 11
 
-La Secretaría será la instancia encargada de la administración y operación del Registro y tendrá las siguientes facultades:
+La [Secretaría](articulo-2.md) será la instancia encargada de la administración y operación del [Registro](articulo-2.md) y tendrá las siguientes facultades:
 
-I. Administrar, manejar, almacenar, concentrar, interconectar y conservar, de acuerdo con las disposiciones aplicables, la información que deba integrarse al Registro y que sea proporcionada por las instituciones de seguridad pública, en términos de esta Ley y otras disposiciones jurídicas aplicables;
+I. Administrar, manejar, almacenar, concentrar, interconectar y conservar, de acuerdo con las disposiciones aplicables, la información que deba integrarse al Registro y que sea proporcionada por las instituciones de seguridad pública, en términos de esta [Ley](articulo-2.md) y otras disposiciones jurídicas aplicables;
 
-II. Implementar, administrar y operar el Sistema de Consulta que permita acceder a través de herramientas tecnológicas a la versión pública del Registro;
+II. Implementar, administrar y operar el [Sistema de Consulta](articulo-2.md) que permita acceder a través de herramientas tecnológicas a la versión pública del Registro;
 
 III. Establecer un padrón de sujetos obligados que cuenten con claves de acceso para la captura, ingreso, envío, recepción, manejo, consulta o actualización de la información en el Registro, con base en las disposiciones jurídicas que al respecto se emitan;
 

@@ -17,4 +17,4 @@ source_sha256: c1870db657a6564bbeb692a1778472db811a920626822de553ff5ca5194f95b4
 
 # Artículo 4
 
-La interpretación para efectos administrativos y la aplicación de esta Ley corresponde al Ejecutivo Federal, a través de la SENER, la SADER y la SEMARNAT, en el ámbito de sus competencias.
+La interpretación para efectos administrativos y la aplicación de esta [Ley](articulo-2.md) corresponde al Ejecutivo Federal, a través de la [SENER](articulo-2.md), la [SADER](articulo-2.md) y la [SEMARNAT](articulo-2.md), en el ámbito de sus competencias.

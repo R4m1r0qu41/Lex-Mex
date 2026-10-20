@@ -17,4 +17,4 @@ source_sha256: 45deb87bfd634dfbd1cb7d9fd67a476ad954187908eb0cb06256c90ccc0feb80
 
 # Artículo 70
 
-La Secretaría, a través del Sistema Nacional Producto Café, colaborará en las acciones de certificación de productos y tipos de café, de conformidad con esta Ley, su reglamento y, en su caso, las Normas Oficiales Mexicanas aplicables a los productos y subproductos del café.
+La [Secretaría](articulo-3.md), a través del Sistema Nacional Producto Café, colaborará en las acciones de certificación de productos y tipos de café, de conformidad con esta Ley, su reglamento y, en su caso, las Normas Oficiales Mexicanas aplicables a los productos y subproductos del café.

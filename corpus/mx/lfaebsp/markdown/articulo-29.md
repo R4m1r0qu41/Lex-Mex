@@ -17,6 +17,6 @@ source_sha256: 269e72195414406bcbd3e90ac40ec26e031a9ea519316c44ee30bdfdf3163059
 
 # Artículo 29
 
-Los frutos y productos de los Bienes, activos o empresas serán enajenados por el Instituto, de conformidad con los procedimientos previstos en el Título Cuarto de esta Ley, con excepción de lo dispuesto por el tercer párrafo, del artículo [39](articulo-39.md) de esta Ley.
+Los frutos y productos de los [Bienes](articulo-2o.md), activos o empresas serán enajenados por el [Instituto](articulo-2o.md), de conformidad con los procedimientos previstos en el Título Cuarto de esta Ley, con excepción de lo dispuesto por el tercer párrafo, del artículo [39](articulo-39.md) de esta Ley.
 
 Artículo reformado DOF 23-02-2005, 09-08-2019

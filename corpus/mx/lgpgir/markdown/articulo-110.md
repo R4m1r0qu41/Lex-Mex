@@ -17,4 +17,4 @@ source_sha256: b34326588bd6e7519e33411d3658239e3aefb56cef0fae5d775bc894af64a565
 
 # Artículo 110
 
-En los casos en que la gravedad de la infracción lo amerite, la Secretaría solicitará a las autoridades, que hubieren otorgado, la suspensión, revocación o cancelación de las concesiones, licencias, permisos y autorizaciones en general para la realización de las actividades que hayan dado lugar a la comisión de la infracción.
+En los casos en que la gravedad de la infracción lo amerite, la [Secretaría](articulo-5.md) solicitará a las autoridades, que hubieren otorgado, la suspensión, revocación o cancelación de las concesiones, licencias, permisos y autorizaciones en general para la realización de las actividades que hayan dado lugar a la comisión de la infracción.

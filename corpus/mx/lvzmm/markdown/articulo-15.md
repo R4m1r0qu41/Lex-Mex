@@ -17,7 +17,7 @@ source_sha256: d9ffbbf8f19b54a93ff577abb1266e4be1316d935e79fad655242955fd80ff70
 
 # Artículo 15
 
-La Secretaría, por Acuerdo de su titular, en base a lo indicado en las directrices relativas al Protocolo sobre la Prevención de la Contaminación del Mar por vertimiento de desechos y otras materias, 1972, con la participación de otras Dependencias de la Administración Pública Federal e instituciones de investigación científica, expedirá los criterios que deberán observarse respecto de los desechos, materiales o sustancias que podrán ser objeto de solicitud de vertimiento. Acuerdo que será publicado anualmente en el Diario Oficial de la Federación.
+La [Secretaría](articulo-2.md), por Acuerdo de su titular, en base a lo indicado en las directrices relativas al Protocolo sobre la Prevención de la Contaminación del Mar por vertimiento de desechos y otras materias, 1972, con la participación de otras Dependencias de la Administración Pública Federal e instituciones de investigación científica, expedirá los criterios que deberán observarse respecto de los desechos, materiales o sustancias que podrán ser objeto de solicitud de vertimiento. Acuerdo que será publicado anualmente en el Diario Oficial de la Federación.
 
 Los criterios se definirán a partir de los componentes de los desechos, materiales y sustancias y la información disponible sobre sus posibles efectos sobre la salud humana y el ambiente marino y costero.
 

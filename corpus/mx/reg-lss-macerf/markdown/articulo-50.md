@@ -17,7 +17,7 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 50
 
-El Instituto recibirá los avisos de inscripción de los trabajadores que presenten los patrones o sus representantes, comprobando, en su caso, la veracidad de los datos, por los medios que estime pertinentes y de proceder, rectificará la información.
+El [Instituto](../../lss/markdown/articulo-5-A.md) recibirá los avisos de inscripción de los trabajadores que presenten los patrones o sus representantes, comprobando, en su caso, la veracidad de los datos, por los medios que estime pertinentes y de proceder, rectificará la información.
 
 El patrón que solicite por escrito al Instituto la rectificación de datos proporcionados respecto de la fecha de ingreso al trabajo o del salario del trabajador, deberá comprobar fehacientemente la procedencia de su petición con la información y documentación que se le solicite.
 

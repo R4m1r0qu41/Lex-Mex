@@ -19,7 +19,7 @@ source_sha256: 01b72308e67d46ba6ca8a6b07fb7584c6a74e905ea0c4b5be5c0c0d32a6d817a
 
 La capacidad física se acreditará mediante la aprobación de una prueba, que consta de los ejercicios de carrera de resistencia, de fuerza de abdomen y de flexión de brazos, conforme a lo siguiente:
 
-I. Para las personas con la jerarquía de Mayores, Oficiales de las armas, servicios y guardia nacional, así como Sargentos Primeros Especialistas, y aquellos que determine el Estado Mayor: Párrafo reformado DOF 20-03-2026
+I. Para las personas con la jerarquía de Mayores, Oficiales de las armas, servicios y guardia nacional, así como Sargentos Primeros [Especialistas](articulo-5.md), y aquellos que determine el [Estado Mayor](articulo-5.md): Párrafo reformado DOF 20-03-2026
 
 A. Carrera de resistencia:
 

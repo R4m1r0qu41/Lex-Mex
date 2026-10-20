@@ -17,7 +17,7 @@ source_sha256: 667636f9e0ea65e72ac9d6d7b4d7563a183b75d0f140268a61929c74f5f88041
 
 # Artículo 5
 
-Quienes pretendan realizar las actividades previstas en el artículo [32](../../lbogm/markdown/articulo-32.md) de la Ley, deberán presentar ante la Secretaría competente, una solicitud por escrito, en el formato que al efecto expidan las Secretarías competentes, acompañada de la información a que hacen referencia los artículos [16](articulo-16.md), [17](articulo-17.md) y [19](articulo-19.md) del presente Reglamento. Deberá presentarse una solicitud por cada OGM, en original y copia. Los datos que contendrá la solicitud serán los siguientes:
+Quienes pretendan realizar las actividades previstas en el artículo [32](../../lbogm/markdown/articulo-32.md) de la [Ley](articulo-2.md), deberán presentar ante la [Secretaría competente](articulo-2.md), una solicitud por escrito, en el formato que al efecto expidan las Secretarías competentes, acompañada de la información a que hacen referencia los artículos [16](articulo-16.md), [17](articulo-17.md) y [19](articulo-19.md) del presente Reglamento. Deberá presentarse una solicitud por cada OGM, en original y copia. Los datos que contendrá la solicitud serán los siguientes:
 
 I. Nombre, denominación o razón social del promovente y, en su caso, nombre del representante legal;
 
@@ -41,6 +41,6 @@ El promovente no estará obligado a proporcionar datos o entregar juegos adicion
 
 Adicionalmente a los requisitos antes mencionados, deberán presentarse los datos y documentos anexos que contengan la información y requisitos establecidos en los artículos 42, 43, 50, 51, 55 y 56 de la Ley, y 16, 17 y 19 del presente Reglamento, según la modalidad de liberación que corresponda.
 
-La solicitud deberá estar acompañada de dispositivos electrónicos de almacenamiento de información que contendrán la versión electrónica de la solicitud presentada por escrito, así como todos los datos y documentos anexos que contengan la información y requisitos establecidos en la Ley, el presente Reglamento y las NOM.
+La solicitud deberá estar acompañada de dispositivos electrónicos de almacenamiento de información que contendrán la versión electrónica de la solicitud presentada por escrito, así como todos los datos y documentos anexos que contengan la información y requisitos establecidos en la Ley, el presente Reglamento y las [NOM](articulo-2.md).
 
 Dicha versión electrónica deberá presentarse en el formato que mediante acuerdo expedido conjuntamente por SEMARNAT y SAGARPA y publicado en el Diario Oficial de la Federación se determine.

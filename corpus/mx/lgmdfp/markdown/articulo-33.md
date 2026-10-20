@@ -21,7 +21,7 @@ Las sanciones para el delito de desaparición forzada de personas previstas en e
 
 I. Si las personas autoras o partícipes liberan a la víctima espontáneamente dentro de los diez días siguientes a la desaparición, disminuirán hasta en dos terceras partes; Fracción reformada DOF 16-07-2025
 
-II. Si las personas autoras o partícipes proporcionan información efectiva que conduzca a la localización con vida de la Persona Desaparecida, disminuirán hasta en dos terceras partes; Fracción reformada DOF 16-07-2025
+II. Si las personas autoras o partícipes proporcionan información efectiva que conduzca a la localización con vida de la [Persona Desaparecida](articulo-4.md), disminuirán hasta en dos terceras partes; Fracción reformada DOF 16-07-2025
 
 III. Si las personas autoras o partícipes proporcionan información efectiva que conduzca a la localización del cadáver o los restos humanos de la Persona Desaparecida, disminuirán hasta en una tercera parte, y Fracción reformada DOF 16-07-2025
 

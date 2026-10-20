@@ -17,4 +17,4 @@ source_sha256: dfe63e9a5dca843a804e5d7878671e2899f2b088534d9ed9813e9878c20b12bd
 
 # Artículo 79
 
-La Guardia Nacional, por conducto del Secretario, podrá celebrar convenios de colaboración con entidades federativas o municipios para la realización de acciones continuas en materia de seguridad pública, por un tiempo determinado.
+La Guardia Nacional, por conducto del [Secretario](articulo-2.md), podrá celebrar convenios de colaboración con entidades federativas o municipios para la realización de acciones continuas en materia de seguridad pública, por un tiempo determinado.

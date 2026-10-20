@@ -17,7 +17,7 @@ source_sha256: 71ee875c26fc6a1024ea9481ca0690721959514689d860112c3093f0176dfcfb
 
 # Artículo 4
 
-Para la ejecución de la Ley y la articulación de la Política Nacional Integral, se establecen los Ejes de Acción, los cuales se implementarán a través de los Modelos.
+Para la ejecución de la Ley y la articulación de la [Política Nacional Integral](articulo-2.md), se establecen los Ejes de Acción, los cuales se implementarán a través de los [Modelos](articulo-2.md).
 
 Son Ejes de Acción los siguientes:
 
@@ -29,6 +29,6 @@ III. Sanción: Conjunto de estrategias para que los mecanismos judiciales y admi
 
 IV. Erradicación: Conjunto de estrategias para que los tres órdenes de gobierno se coordinen de manera efectiva en la ejecución de los Ejes de Acción establecidos en las fracciones anteriores y en mecanismos de no repetición, abatimiento a la impunidad y remoción de los obstáculos que por acción u omisión del Estado genera Violencia contra las Mujeres, a fin de erradicar las prácticas, conductas, normas, costumbres sociales y culturales que menoscaben o anulen los Derechos Humanos de las Mujeres.
 
-Para el diseño, elaboración y ejecución de los Modelos se deberán tomar en cuenta el Diagnóstico Nacional y el Programa, de conformidad con el artículo [42](../../lgamvlv/markdown/articulo-42.md), fracciones III y XII, de la Ley, así como la diversidad cultural del país.
+Para el diseño, elaboración y ejecución de los Modelos se deberán tomar en cuenta el [Diagnóstico Nacional](articulo-2.md) y el Programa, de conformidad con el artículo [42](../../lgamvlv/markdown/articulo-42.md), fracciones III y XII, de la Ley, así como la diversidad cultural del país.
 
 Artículo reformado DOF 25-11-2013

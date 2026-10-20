@@ -17,6 +17,6 @@ source_sha256: 4e276866fce1638948a6daf1a5c0438fa412554f1a6e0381cbdf7cb300e3db75
 
 # Artículo 48
 
-Las declaratorias para el establecimiento de las áreas naturales protegidas deberán contener lo previsto por el artículo [60](../../lgeepa/markdown/articulo-60.md) de la Ley.
+Las declaratorias para el establecimiento de las áreas naturales protegidas deberán contener lo previsto por el artículo [60](../../lgeepa/markdown/articulo-60.md) de la [Ley](articulo-3o.md).
 
 Cuando se determinen zonas núcleo y de amortiguamiento deberán señalarse sus respectivas subzonas.

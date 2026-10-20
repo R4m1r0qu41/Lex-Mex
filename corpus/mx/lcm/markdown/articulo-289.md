@@ -17,4 +17,4 @@ source_sha256: 8e270686b885035488bfe310b0b42bb40e7154431794227ebe212dd7dc12e46a
 
 # Artículo 289
 
-A partir del reconocimiento de un Procedimiento Extranjero, el Representante Extranjero estará facultado para participar en cualquier concurso mercantil que se haya abierto con arreglo a esta Ley.
+A partir del reconocimiento de un Procedimiento Extranjero, el Representante Extranjero estará facultado para participar en cualquier concurso mercantil que se haya abierto con arreglo a esta [Ley](articulo-4o.md).

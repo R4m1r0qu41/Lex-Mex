@@ -17,4 +17,4 @@ source_sha256: 7df3d678efda2306b68d3c0f5ca0e3e92b9066d5f773128f4ae19cb26bf44fff
 
 # Artículo 2
 
-La aplicación de este Reglamento corresponde al Ejecutivo Federal, por conducto de la SENER, la SEMARNAT y la SADER, en el ámbito de sus respectivas competencias, sin perjuicio de las atribuciones que correspondan a otras dependencias y entidades de la Administración Pública Federal.
+La aplicación de este [Reglamento](articulo-3.md) corresponde al Ejecutivo Federal, por conducto de la [SENER](articulo-3.md), la [SEMARNAT](articulo-3.md) y la [SADER](articulo-3.md), en el ámbito de sus respectivas competencias, sin perjuicio de las atribuciones que correspondan a otras dependencias y entidades de la Administración Pública Federal.

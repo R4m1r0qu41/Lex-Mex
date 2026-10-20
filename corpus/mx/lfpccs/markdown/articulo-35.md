@@ -19,8 +19,8 @@ source_sha256: ea99e8d1b13b36451e69f865d4aeeca08ce847fb7dcab648e77f65ca88991a8b
 
 Para importar semillas con fines de comercialización o puesta en circulación se deberá cumplir lo siguiente:
 
-I. Declarar su categoría equivalente conforme a lo establecido en esta Ley y las Reglas a que se refiere este ordenamiento; y
+I. Declarar su categoría equivalente conforme a lo establecido en esta Ley y las [Reglas](articulo-3.md) a que se refiere este ordenamiento; y
 
-II. Cumplir los requisitos fitosanitarios que fije la Secretaría, constando esto en el Certificado Fitosanitario Internacional o documento oficial equivalente, en los términos de la Ley Federal de Sanidad Vegetal.
+II. Cumplir los requisitos fitosanitarios que fije la [Secretaría](articulo-3.md), constando esto en el Certificado Fitosanitario Internacional o documento oficial equivalente, en los términos de la Ley Federal de Sanidad Vegetal.
 
 En los casos de importación de semillas que sean organismos genéticamente modificados, se deberá cumplir adicionalmente con lo establecido en la Ley de Bioseguridad de Organismos Genéticamente Modificados.

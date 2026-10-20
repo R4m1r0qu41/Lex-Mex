@@ -17,4 +17,4 @@ source_sha256: 45deb87bfd634dfbd1cb7d9fd67a476ad954187908eb0cb06256c90ccc0feb80
 
 # Artículo 60
 
-El Gobierno Federal, a través de la Secretaría, en coordinación con los gobiernos de las entidades federativas, impulsarán regiones cafetaleras que operen bajo sistemas de producción y beneficiado sustentables.
+El Gobierno Federal, a través de la [Secretaría](articulo-3.md), en coordinación con los gobiernos de las entidades federativas, impulsarán regiones cafetaleras que operen bajo sistemas de producción y beneficiado sustentables.

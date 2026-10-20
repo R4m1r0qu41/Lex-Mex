@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 163
 
-El Director o Gerente General deberá hacer observar la independencia entre el personal responsable de la administración integral de riesgos y el de negocios, así como difundir una mayor cultura en materia de administración de riesgos, adoptando al efecto entre otras medidas:
+El [Director o Gerente General](articulo-1.md) deberá hacer observar la independencia entre el personal responsable de la administración integral de riesgos y el de negocios, así como difundir una mayor cultura en materia de administración de riesgos, adoptando al efecto entre otras medidas:
 
 I. Programas de revisión del cumplimiento de objetivos, procedimientos y controles en la celebración de operaciones;
 
@@ -26,4 +26,4 @@ II. Sistemas de almacenamiento, procesamiento y manejo de información que permi
 
 III. Difusión y, en su caso, implementación de las medidas de acción para casos de contingencia por caso fortuito o fuerza mayor, y
 
-IV. Programas de capacitación para el personal responsable de la administración integral de riesgos y para todo aquél involucrado en las operaciones que impliquen riesgo para la Sociedad Financiera Popular.
+IV. Programas de capacitación para el personal responsable de la administración integral de riesgos y para todo aquél involucrado en las operaciones que impliquen riesgo para la [Sociedad](articulo-1.md) Financiera Popular.

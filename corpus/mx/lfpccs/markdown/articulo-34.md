@@ -21,4 +21,4 @@ Los organismos de certificación que efectúen la calificación de semillas, deb
 
 Las personas físicas o morales que ofrezcan o posean semilla sin ser productores, deben conservar factura o comprobante de compra de dicha semilla al menos por los dos años siguientes a la adquisición de la misma.
 
-La documentación a que se refiere este artículo podrá ser revisada en cualquier momento por la Secretaría a través del SNICS.
+La documentación a que se refiere este artículo podrá ser revisada en cualquier momento por la [Secretaría](articulo-3.md) a través del [SNICS](articulo-3.md).

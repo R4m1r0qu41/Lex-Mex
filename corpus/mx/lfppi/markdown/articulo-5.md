@@ -17,9 +17,9 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 5
 
-El Instituto Mexicano de la Propiedad Industrial, autoridad administrativa en materia de propiedad industrial, es un organismo descentralizado con personalidad jurídica y patrimonio propio, el cual tendrá las siguientes facultades:
+El [Instituto](articulo-4.md) Mexicano de la Propiedad Industrial, autoridad administrativa en materia de propiedad industrial, es un organismo descentralizado con personalidad jurídica y patrimonio propio, el cual tendrá las siguientes facultades:
 
-I.- Tramitar y, en su caso, otorgar patentes de invención, registros de modelos de utilidad, diseños industriales, esquemas de trazado de circuitos integrados, certificados complementarios, marcas, marcas colectivas o marcas de certificación; publicar nombres comerciales; así como inscribir sus renovaciones, transmisiones o licencias de uso y explotación; estimar o declarar la notoriedad o fama de marcas; emitir las declaraciones de protección a denominaciones de origen e indicaciones geográficas y autorizar el uso de las mismas, y las demás que le otorga esta Ley y su Reglamento para el reconocimiento y conservación de los derechos de propiedad industrial;
+I.- Tramitar y, en su caso, otorgar patentes de invención, registros de modelos de utilidad, diseños industriales, esquemas de trazado de circuitos integrados, certificados complementarios, marcas, marcas colectivas o marcas de certificación; publicar nombres comerciales; así como inscribir sus renovaciones, transmisiones o licencias de uso y explotación; estimar o declarar la notoriedad o fama de marcas; emitir las declaraciones de protección a denominaciones de origen e indicaciones geográficas y autorizar el uso de las mismas, y las demás que le otorga esta [Ley](articulo-4.md) y su Reglamento para el reconocimiento y conservación de los derechos de propiedad industrial;
 
 II.- Sustanciar los procedimientos de nulidad, caducidad y cancelación de los derechos de propiedad industrial; así como el reclamo de la titularidad de una patente o de un registro, o la cesación de los efectos de la publicación de un nombre comercial; formular las resoluciones y emitir las declaraciones administrativas correspondientes, conforme lo dispone esta Ley y su Reglamento y, en general, resolver las solicitudes que se susciten con motivo de la aplicación de estos ordenamientos; Fracción reformada DOF 03-04-2026
 
@@ -45,13 +45,13 @@ XII.- Actuar como depositario cuando se le designe conforme a esta Ley y, en su 
 
 XIII.- Sustanciar y resolver los recursos administrativos que se interpongan contra las resoluciones que emita, conforme a la competencia de las leyes cuya aplicación le corresponde;
 
-XIV.- Fungir como árbitro en la resolución de controversias relacionadas con la competencia de las leyes cuya aplicación le corresponde, cuando las personas involucradas la designen expresamente como tal, de conformidad con las disposiciones contenidas en el Código de Comercio; Fracción reformada DOF 03-04-2026 XV.- Publicar en la Gaceta los actos a los que se refiere esta Ley;
+XIV.- Fungir como árbitro en la resolución de controversias relacionadas con la competencia de las leyes cuya aplicación le corresponde, cuando las personas involucradas la designen expresamente como tal, de conformidad con las disposiciones contenidas en el Código de Comercio; Fracción reformada DOF 03-04-2026 XV.- Publicar en la [Gaceta](articulo-4.md) los actos a los que se refiere esta Ley;
 
 XVI.- Difundir la información derivada de las patentes, registros, publicaciones, declaratorias, declaraciones, autorizaciones y cualquier otra relacionada con las leyes cuya aplicación le corresponde, asegurando que sea accesible y se promueva la participación de mujeres y otros grupos en situación de vulnerabilidad o exclusión, en el uso y aprovechamiento de dicha información; Fracción reformada DOF 15-01-2026
 
 XVII.- Establecer las reglas para la gestión de trámites, incluido el procedimiento de declaración administrativa de infracción, a través de medios de comunicación electrónica; Fracción reformada DOF 03-04-2026
 
-XVIII.- Mantener el registro público de los derechos de propiedad industrial en los términos que establezca esta Ley y su Reglamento, sin perjuicio de lo que establezcan los Tratados Internacionales;
+XVIII.- Mantener el registro público de los derechos de propiedad industrial en los términos que establezca esta Ley y su Reglamento, sin perjuicio de lo que establezcan los [Tratados Internacionales](articulo-4.md);
 
 XIX.- Difundir, asesorar y dar servicio al público, conforme a la competencia de las leyes cuya aplicación le corresponde;
 

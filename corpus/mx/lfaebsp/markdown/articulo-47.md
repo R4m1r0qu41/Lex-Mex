@@ -39,7 +39,7 @@ X.- La indicación de que no podrán participar las personas que se encuentren e
 
 XI.- La indicación de que el fallo se dará a conocer por el mismo medio en que se hubiera hecho la convocatoria en junta pública, o mediante el uso de las tecnologías de la información y comunicación, según se determine; Fracción reformada DOF 09-08-2019
 
-XII.- Cualquier otra que de acuerdo a la naturaleza de los Bienes o su condición de venta señale el Instituto; Fracción reformada DOF 09-08-2019
+XII.- Cualquier otra que de acuerdo a la naturaleza de los [Bienes](articulo-2o.md) o su condición de venta señale el [Instituto](articulo-2o.md); Fracción reformada DOF 09-08-2019
 
 XIII.- Forma y monto de la garantía de seriedad de ofertas y de cumplimiento de las obligaciones que se deriven de los contratos de compraventa que, en su caso, deberán otorgar los interesados, de conformidad con las disposiciones establecidas por la Ley de Tesorería de la Federación, y Fracción adicionada DOF 09-08-2019
 

@@ -17,6 +17,6 @@ source_sha256: 0574853d06020030188e8aee1eae5dabb2b476ac630cc52be631a48d2b91adbc
 
 # Artículo 20 BIS 6
 
-La Secretaría podrá formular, expedir y ejecutar, en coordinación con las Dependencias competentes, programas de ordenamiento ecológico marino. Estos programas tendrán por objeto el establecer los lineamientos y previsiones a que deberá sujetarse la preservación, restauración, protección y aprovechamiento sustentable de los recursos naturales existentes en áreas o superficies específicas ubicadas en zonas marinas mexicanas, incluyendo las zonas federales adyacentes.
+La [Secretaría](articulo-3o.md) podrá formular, expedir y ejecutar, en coordinación con las Dependencias competentes, programas de ordenamiento ecológico marino. Estos programas tendrán por objeto el establecer los lineamientos y previsiones a que deberá sujetarse la preservación, restauración, protección y aprovechamiento sustentable de los recursos naturales existentes en áreas o superficies específicas ubicadas en zonas marinas mexicanas, incluyendo las zonas federales adyacentes.
 
 Artículo adicionado DOF 13-12-1996

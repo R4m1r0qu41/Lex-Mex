@@ -15,4 +15,4 @@ source_sha256: d23aedc9ffdb09b9202311f03023241da20445cb45aea855b37bfd9685768861
 
 # Décimo
 
-En tanto se realizan las adecuaciones en la PLATIICA que refiere el presente Reglamento, la Secretaría puede establecer los procedimientos y formatos por los cuales se atiendan los requerimientos previstos en este ordenamiento.
+En tanto se realizan las adecuaciones en la [PLATIICA](articulo-2.md) que refiere el presente Reglamento, la Secretaría puede establecer los procedimientos y formatos por los cuales se atiendan los requerimientos previstos en este ordenamiento.

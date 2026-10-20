@@ -17,7 +17,7 @@ source_sha256: 8515c812258bcc7c342e8566ff623c7f5e880f2eb9ee2ad154758077089f11ca
 
 # Artículo 31
 
-La Jefatura de Operaciones, seleccionará y determinará la cantidad del personal de Capitanes de Fragata a Vicealmirantes que se convocará en la promoción para ascenso, considerando: Párrafo reformado DOF 02-04-2026
+La [Jefatura de Operaciones](articulo-5.md), seleccionará y determinará la cantidad del personal de Capitanes de Fragata a Vicealmirantes que se convocará en la promoción para ascenso, considerando: Párrafo reformado DOF 02-04-2026
 
 I. Las vacantes autorizadas a cubrir;
 
@@ -25,4 +25,4 @@ II. La situación escalafonaria;
 
 III. Que el personal no se encuentre en situación de grado tope, y
 
-IV. Que el personal convocado no se encuentre en algunas de las situaciones establecidas en el artículo [51](../../laam/markdown/articulo-51.md) de la Ley.
+IV. Que el personal convocado no se encuentre en algunas de las situaciones establecidas en el artículo [51](../../laam/markdown/articulo-51.md) de la [Ley](articulo-5.md).

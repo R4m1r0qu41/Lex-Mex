@@ -17,4 +17,4 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 94
 
-La incorporación voluntaria de los sujetos a que se refiere este Capítulo, además de lo previsto en el artículo [88](articulo-88.md) de este Reglamento, terminará por incorporación al régimen obligatorio a través de Decreto del Ejecutivo Federal, en los términos del artículo [12](../../lss/markdown/articulo-12.md), fracción III, de la Ley. REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN
+La incorporación voluntaria de los sujetos a que se refiere este Capítulo, además de lo previsto en el artículo [88](articulo-88.md) de este Reglamento, terminará por incorporación al régimen obligatorio a través de Decreto del Ejecutivo Federal, en los términos del artículo [12](../../lss/markdown/articulo-12.md), fracción III, de la [Ley](../../lss/markdown/articulo-5-A.md). REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN

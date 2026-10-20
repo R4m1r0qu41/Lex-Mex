@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf
 source_sha256: 43927095d22ff7bc7780e78132d2160b5050b5f76026b539daec32be09d7341d
 ---
 
+> Título Segundo · Capítulo I
+
 # Artículo 14-D
 
 Las personas que tengan el uso o goce de un inmueble, dentro de la circunscripción de cualquier aduana, podrán solicitar al Servicio de Administración Tributaria la habilitación de dicho inmueble para la introducción de mercancías bajo el régimen de recinto fiscalizado estratégico y la autorización para su administración. El inmueble habilitado se denominará recinto fiscalizado estratégico. El interesado deberá cumplir con los requisitos que exija el Servicio de Administración Tributaria mediante reglas, para asegurar el interés fiscal. Párrafo reformado DOF 09-12-2013

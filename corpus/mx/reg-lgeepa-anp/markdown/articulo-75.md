@@ -17,7 +17,7 @@ source_sha256: 4e276866fce1638948a6daf1a5c0438fa412554f1a6e0381cbdf7cb300e3db75
 
 # Artículo 75
 
-Las reglas administrativas a que se refiere la fracción VII del artículo [66](../../lgeepa/markdown/articulo-66.md) de la Ley, deberán contener, conforme a la declaratoria y demás disposiciones legales y reglamentarias: I. Disposiciones generales;
+Las reglas administrativas a que se refiere la fracción VII del artículo [66](../../lgeepa/markdown/articulo-66.md) de la [Ley](articulo-3o.md), deberán contener, conforme a la declaratoria y demás disposiciones legales y reglamentarias: I. Disposiciones generales;
 
 II. Horarios de visita para la realización de las actividades que así lo requieran, de conformidad con las características propias de las mismas;
 

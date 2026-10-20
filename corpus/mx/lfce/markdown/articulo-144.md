@@ -17,11 +17,11 @@ source_sha256: d0021bbef2e0c3251d6efdea2c1efd9959ff3f02df4bcd1fc37c1ee7826a72ba
 
 # Artículo 144
 
-Para la imposición de los límites a que se refiere el [artículo anterior](articulo-143.md), la Comisión considerará:
+Para la imposición de los límites a que se refiere el [artículo anterior](articulo-143.md), la [Comisión](articulo-3.md) considerará:
 
 I. La existencia de barreras a la entrada de nuevos agentes y los elementos que previsiblemente puedan alterar tanto dichas barreras como la oferta de otros competidores en ese mercado o zona de cobertura;
 
-II. La existencia de otros medios de información y su relevancia; III. Las posibilidades de acceso del o de los Agentes Económicos y sus competidores a insumos esenciales que les permitan ofrecer servicios similares o equivalentes;
+II. La existencia de otros medios de información y su relevancia; III. Las posibilidades de acceso del o de los [Agentes Económicos](articulo-3.md) y sus competidores a insumos esenciales que les permitan ofrecer servicios similares o equivalentes;
 
 IV. El comportamiento durante los dos años previos del o los Agentes Económicos que participan en dicho mercado, y
 

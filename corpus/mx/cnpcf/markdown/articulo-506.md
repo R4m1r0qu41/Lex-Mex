@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo II
+
 # Artículo 506
 
 Se tramitará en la vía especial hipotecaria oral todo juicio que tenga por objeto la constitución, ampliación, división, registro y extinción de una hipoteca, así como su nulidad, cancelación, o bien, el pago o prelación del crédito que la hipoteca garantice.

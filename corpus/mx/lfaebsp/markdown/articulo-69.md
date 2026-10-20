@@ -17,7 +17,7 @@ source_sha256: 269e72195414406bcbd3e90ac40ec26e031a9ea519316c44ee30bdfdf3163059
 
 # Artículo 69
 
-El Instituto podrá llevar a cabo la destrucción de los Bienes en los casos que establezca el Reglamento y las disposiciones que regulen los Bienes de que se trate. Párrafo reformado DOF 09-08-2019
+El [Instituto](articulo-2o.md) podrá llevar a cabo la destrucción de los [Bienes](articulo-2o.md) en los casos que establezca el [Reglamento](articulo-2o.md) y las disposiciones que regulen los Bienes de que se trate. Párrafo reformado DOF 09-08-2019
 
 En toda destrucción se deberán observar las disposiciones de seguridad, salud, protección al medio ambiente y demás que resulten aplicables.
 

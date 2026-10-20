@@ -17,4 +17,4 @@ source_sha256: ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776
 
 Los comités locales de seguridad aeroportuaria que a la fecha de la entrada en vigor del presente Reglamento estén constituidos continuarán sesionando, no obstante dentro de los ciento cincuenta días hábiles siguientes a la entrada en vigor de este Reglamento deberán adecuar su organización y funcionamiento al mismo.
 
-Los concesionarios en un plazo máximo de ciento ochenta días siguientes a la entrada en vigor de este Reglamento presentarán a la Secretaría los reglamentos internos de dichos comités.
+Los concesionarios en un plazo máximo de ciento ochenta días siguientes a la entrada en vigor de este Reglamento presentarán a la [Secretaría](articulo-2.md) los reglamentos internos de dichos comités.

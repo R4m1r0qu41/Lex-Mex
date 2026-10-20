@@ -17,4 +17,4 @@ source_sha256: 9478163ef6ab468edc2be8def3bf84efedd03da5b6c166fba0430bfcb6d8467c
 
 # Artículo 14
 
-A la Persona Consejera de los Trabajadores y a su suplente les es aplicable lo dispuesto en los dos artículos anteriores, salvo lo señalado en el artículo [12](articulo-12.md), fracciones I y V, de este reglamento.
+A la [Persona Consejera de los Trabajadores](articulo-2.md) y a su suplente les es aplicable lo dispuesto en los dos artículos anteriores, salvo lo señalado en el artículo [12](articulo-12.md), fracciones I y V, de este reglamento.

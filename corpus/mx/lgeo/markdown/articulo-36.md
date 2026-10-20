@@ -17,6 +17,6 @@ source_sha256: 67309bf186af42de0f9e98010d38c89598676faea7f2b558ac9c9e6736d64d35
 
 # Artículo 36
 
-Al declararse la revocación de los Permisos de Exploración o Concesiones por cualquiera de las causales que señala el artículo [34](articulo-34.md) de esta Ley, las personas permisionarias de exploración o concesionarias deben retirar los bienes afectos a la Exploración o Explotación del Yacimiento Geotérmico correspondiente, sin que medie pago o compensación alguna.
+Al declararse la revocación de los Permisos de [Exploración](articulo-2.md) o [Concesiones](articulo-2.md) por cualquiera de las causales que señala el artículo [34](articulo-34.md) de esta [Ley](articulo-2.md), las personas permisionarias de exploración o concesionarias deben retirar los bienes afectos a la Exploración o [Explotación](articulo-2.md) del [Yacimiento Geotérmico](articulo-2.md) correspondiente, sin que medie pago o compensación alguna.
 
-Lo cual deben informar, por escrito, a la Secretaría dentro del término máximo de treinta días naturales contados a partir de la notificación de la terminación del Permiso de Exploración o Concesión, según corresponda, acreditando el retiro efectivo de los citados bienes, o informando la imposibilidad técnica para hacerlo.
+Lo cual deben informar, por escrito, a la [Secretaría](articulo-2.md) dentro del término máximo de treinta días naturales contados a partir de la notificación de la terminación del [Permiso de Exploración](articulo-2.md) o Concesión, según corresponda, acreditando el retiro efectivo de los citados bienes, o informando la imposibilidad técnica para hacerlo.

@@ -17,4 +17,4 @@ source_sha256: e81e23876bd08da81cb8392af7054f6187ad043ca8f965777b455f9d12554e8b
 
 # Artículo 22
 
-Los fideicomisos y fondos públicos que no cuenten con estructura orgánica y, por lo tanto, no sean considerados una entidad paraestatal, así como de los mandatos públicos y demás contratos análogos, deberán cumplir con las obligaciones de esta Ley a través de la unidad administrativa responsable de coordinar su operación.
+Los fideicomisos y fondos públicos que no cuenten con estructura orgánica y, por lo tanto, no sean considerados una entidad paraestatal, así como de los mandatos públicos y demás contratos análogos, deberán cumplir con las obligaciones de esta [Ley](articulo-3.md) a través de la unidad administrativa responsable de coordinar su operación.

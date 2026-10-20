@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 209
 
-Las Sociedades Financieras Populares remitirán al Comité de Supervisión correspondiente, las políticas y procedimientos que se contengan en el manual de crédito a que se refiere el artículo [208](articulo-208.md) anterior, aprobadas por el Consejo de Administración de la Sociedad Financiera Popular de que se trate.
+Las [Sociedades](articulo-1.md) Financieras Populares remitirán al Comité de Supervisión correspondiente, las políticas y procedimientos que se contengan en el manual de crédito a que se refiere el artículo [208](articulo-208.md) anterior, aprobadas por el [Consejo de Administración](articulo-1.md) de la Sociedad Financiera Popular de que se trate.
 
 La Comisión, en ejercicio de sus facultades de supervisión y vigilancia, podrá vetar u ordenar modificaciones a dichas políticas y procedimientos, cuando no cumplan con lo dispuesto en el presente Capítulo, dentro de los 30 días naturales siguientes a la fecha en que las reciba.
 

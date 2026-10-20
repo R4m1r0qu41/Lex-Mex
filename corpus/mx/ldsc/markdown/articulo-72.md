@@ -17,7 +17,7 @@ source_sha256: 45deb87bfd634dfbd1cb7d9fd67a476ad954187908eb0cb06256c90ccc0feb80
 
 # Artículo 72
 
-La Secretaría podrá colaborar con la Secretaría de Economía para:
+La [Secretaría](articulo-3.md) podrá colaborar con la Secretaría de Economía para:
 
 I. Presentar reportes e informes sobre la importación de café y sus efectos, en particular cuando existan indicios de posible existencia de prácticas desleales de comercio;
 
@@ -27,4 +27,4 @@ III. Proporcionar, a la Secretaría de Economía cuando lo solicite información
 
 IV. Entregar insumos técnicos y de diagnóstico a las autoridades competentes cuando así lo soliciten, sobre posibles riesgos de afectación al sector cafetalero nacional, derivados de importaciones que no cumplan con disposiciones normativas o acuerdos internacionales, sin que ello implique facultad alguna para autorizar, restringir o condicionar las importaciones.
 
-En todo momento, la Secretaría se apoyará de las recomendaciones y opiniones emitidas por la Comisión.
+En todo momento, la Secretaría se apoyará de las recomendaciones y opiniones emitidas por la [Comisión](articulo-3.md).

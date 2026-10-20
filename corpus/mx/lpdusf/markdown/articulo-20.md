@@ -17,4 +17,4 @@ source_sha256: cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7
 
 # Artículo 20
 
-Las resoluciones en las sesiones de la Junta requerirán del voto aprobatorio de la mayoría de los presentes, teniendo voto de calidad en caso de empate el presidente de la Junta, o en su caso, quien presida la sesión.
+Las resoluciones en las sesiones de la [Junta](articulo-2o.md) requerirán del voto aprobatorio de la mayoría de los presentes, teniendo voto de calidad en caso de empate el presidente de la Junta, o en su caso, quien presida la sesión.

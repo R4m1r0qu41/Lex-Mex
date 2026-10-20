@@ -17,7 +17,7 @@ source_sha256: 160e5e85efddb1749a79f6b154af31711a9b31a5e32bace3c07e2859c2620ecf
 
 # Artículo 90
 
-La Secretaría podrá otorgar permisos para la acuacultura a personas físicas o morales de nacionalidad mexicana, previo cumplimiento de los requisitos que se establezcan en esta Ley y en las disposiciones reglamentarias, mismos que deberán ser congruentes con los planes de ordenamiento acuícola.
+La [Secretaría](articulo-4o.md) podrá otorgar permisos para la acuacultura a personas físicas o morales de nacionalidad mexicana, previo cumplimiento de los requisitos que se establezcan en esta Ley y en las disposiciones reglamentarias, mismos que deberán ser congruentes con los planes de ordenamiento acuícola.
 
 Los solicitantes de permisos deberán acreditar la legal disposición de los bienes y equipos necesarios para cumplir con el objeto de la solicitud.
 
@@ -27,4 +27,4 @@ I. Nombre y domicilio del solicitante;
 
 II. Entidad federativa y municipio donde pretenda llevar a cabo la actividad; III. La duración por la que pretenda sea otorgada, y
 
-IV. Acreditar su inscripción en el Registro Nacional de Pesca y Acuacultura o copia de la solicitud, si se encuentra en trámite.
+IV. Acreditar su inscripción en el [Registro](articulo-4o.md) Nacional de [Pesca](articulo-4o.md) y [Acuacultura](articulo-4o.md) o copia de la solicitud, si se encuentra en trámite.

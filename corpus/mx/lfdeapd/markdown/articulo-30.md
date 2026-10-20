@@ -17,4 +17,4 @@ source_sha256: 4fadf9a6f2d22a9e48d8e29ed302456751da66eb723e0df1dc6ac45a5e4640b0
 
 # Artículo 30
 
-Si la Persona Desaparecida de la cual se emitió una Declaración Especial de Ausencia fuera localizada con vida o se prueba que sigue con vida, en caso de existir indicios de que la persona hizo creer su desaparición deliberada para evadir responsabilidades, sin perjuicio de las acciones legales conducentes, recobrará sus bienes en el estado en el que se hallen y no podrá reclamar de estos frutos ni rentas y, en su caso, también recobrará los derechos y obligaciones que tenía al momento de su desaparición.
+Si la [Persona Desaparecida](articulo-3.md) de la cual se emitió una [Declaración Especial de Ausencia](articulo-3.md) fuera localizada con vida o se prueba que sigue con vida, en caso de existir indicios de que la persona hizo creer su desaparición deliberada para evadir responsabilidades, sin perjuicio de las acciones legales conducentes, recobrará sus bienes en el estado en el que se hallen y no podrá reclamar de estos frutos ni rentas y, en su caso, también recobrará los derechos y obligaciones que tenía al momento de su desaparición.

@@ -17,6 +17,6 @@ source_sha256: c78882a0177403ee04cd38dd09fa1657dc221b7f6827ddacf251c699ede867e4
 
 # Artículo 67
 
-La Agencia Federal de Aviación Civil, cuando no existan condiciones razonables de competencia, debe establecer bases de regulación tarifaria y de precios para la prestación de los servicios aeroportuarios y para los arrendamientos y contraprestaciones relacionadas con los contratos que las personas concesionarias, asignatarias, operadoras aeroportuarias y permisionarias celebren con las personas prestadoras de servicios complementarios, de acuerdo con la Comisión Federal de Competencia Económica.
+La [Agencia Federal de Aviación Civil](articulo-2.md), cuando no existan condiciones razonables de competencia, debe establecer bases de regulación tarifaria y de precios para la prestación de los servicios aeroportuarios y para los arrendamientos y contraprestaciones relacionadas con los contratos que las personas concesionarias, asignatarias, operadoras aeroportuarias y permisionarias celebren con las personas prestadoras de servicios complementarios, de acuerdo con la Comisión Federal de Competencia Económica.
 
 Artículo reformado DOF 03-05-2023

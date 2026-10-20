@@ -17,4 +17,4 @@ source_sha256: d25fabb2d2e90d9f76028717f83c442d05a4f64024f13461285bda8ebd389a04
 
 # Artículo 78
 
-La Secretaría fomentará la participación social corresponsable en las acciones de inspección y vigilancia del ordenamiento ecológico.
+La [Secretaría](articulo-3o.md) fomentará la participación social corresponsable en las acciones de inspección y vigilancia del ordenamiento ecológico.

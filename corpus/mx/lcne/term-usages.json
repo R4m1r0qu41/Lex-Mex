@@ -1,1 +1,1361 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:1:term-usage:194-202",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:comision",
+    "span": "Comisión",
+    "start_char": 194,
+    "end_char": 202
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:2:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:comision",
+    "span": "Comisión",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:2:term-usage:83-93",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 83,
+    "end_char": 93
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:2:term-usage:269-302",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:actividades-en-materia-energetica",
+    "span": "Actividades en materia energética",
+    "start_char": 269,
+    "end_char": 302
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:2:term-usage:500-508",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:comision",
+    "span": "Comisión",
+    "start_char": 500,
+    "end_char": 508
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:3:term-usage:37-45",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:comision",
+    "span": "Comisión",
+    "start_char": 37,
+    "end_char": 45
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:3:term-usage:444-454",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 444,
+    "end_char": 454
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:4:term-usage:47-57",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 47,
+    "end_char": 57
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:6:term-usage:760-793",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:actividades-en-materia-energetica",
+    "span": "Actividades en materia energética",
+    "start_char": 760,
+    "end_char": 793
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:7:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:comision",
+    "span": "Comisión",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:7:term-usage:170-203",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:actividades-en-materia-energetica",
+    "span": "Actividades en materia energética",
+    "start_char": 170,
+    "end_char": 203
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:7:term-usage:341-374",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:actividades-en-materia-energetica",
+    "span": "Actividades en materia energética",
+    "start_char": 341,
+    "end_char": 374
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:7:term-usage:861-894",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:actividades-en-materia-energetica",
+    "span": "Actividades en materia energética",
+    "start_char": 861,
+    "end_char": 894
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:7:term-usage:964-981",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:sujeto-regulado",
+    "span": "Sujetos Regulados",
+    "start_char": 964,
+    "end_char": 981
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:7:term-usage:1346-1363",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:sujeto-regulado",
+    "span": "Sujetos Regulados",
+    "start_char": 1346,
+    "end_char": 1363
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:7:term-usage:1506-1539",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:actividades-en-materia-energetica",
+    "span": "Actividades en materia energética",
+    "start_char": 1506,
+    "end_char": 1539
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:7:term-usage:1562-1572",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1562,
+    "end_char": 1572
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:7:term-usage:2015-2048",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:actividades-en-materia-energetica",
+    "span": "Actividades en materia energética",
+    "start_char": 2015,
+    "end_char": 2048
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:7:term-usage:2229-2262",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:actividades-en-materia-energetica",
+    "span": "Actividades en materia energética",
+    "start_char": 2229,
+    "end_char": 2262
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:7:term-usage:2353-2364",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:secretaria",
+    "span": "Secretarías",
+    "start_char": 2353,
+    "end_char": 2364
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:7:term-usage:2899-2907",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:comision",
+    "span": "Comisión",
+    "start_char": 2899,
+    "end_char": 2907
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:7:term-usage:3010-3020",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3010,
+    "end_char": 3020
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:7:term-usage:3161-3171",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3161,
+    "end_char": 3171
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:7:term-usage:3462-3472",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3462,
+    "end_char": 3472
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:7:term-usage:3545-3555",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3545,
+    "end_char": 3555
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:7:term-usage:3718-3728",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3718,
+    "end_char": 3728
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:7:term-usage:3835-3845",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3835,
+    "end_char": 3845
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:7:term-usage:4510-4543",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:actividades-en-materia-energetica",
+    "span": "Actividades en materia energética",
+    "start_char": 4510,
+    "end_char": 4543
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:7:term-usage:4676-4686",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 4676,
+    "end_char": 4686
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:8:term-usage:27-35",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:comision",
+    "span": "Comisión",
+    "start_char": 27,
+    "end_char": 35
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:8:term-usage:287-297",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 287,
+    "end_char": 297
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:8:term-usage:376-384",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:comision",
+    "span": "Comisión",
+    "start_char": 376,
+    "end_char": 384
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:8:term-usage:1034-1042",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:comision",
+    "span": "Comisión",
+    "start_char": 1034,
+    "end_char": 1042
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:8:term-usage:1146-1156",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1146,
+    "end_char": 1156
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:8:term-usage:1203-1213",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1203,
+    "end_char": 1213
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:8:term-usage:1864-1874",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1864,
+    "end_char": 1874
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:9:term-usage:31-39",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:comision",
+    "span": "Comisión",
+    "start_char": 31,
+    "end_char": 39
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:9:term-usage:1009-1019",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1009,
+    "end_char": 1019
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:9:term-usage:1138-1148",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1138,
+    "end_char": 1148
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:10:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:comision",
+    "span": "Comisión",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:10:term-usage:366-376",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 366,
+    "end_char": 376
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:10:term-usage:382-390",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:comision",
+    "span": "Comisión",
+    "start_char": 382,
+    "end_char": 390
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:11:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:comision",
+    "span": "Comisión",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:11:term-usage:31-41",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 31,
+    "end_char": 41
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:12:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:comision",
+    "span": "Comisión",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:13:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:comision",
+    "span": "Comisión",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:14:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:comision",
+    "span": "Comisión",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:14:term-usage:1215-1223",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:comision",
+    "span": "Comisión",
+    "start_char": 1215,
+    "end_char": 1223
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:15:term-usage:1055-1063",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:comision",
+    "span": "Comisión",
+    "start_char": 1055,
+    "end_char": 1063
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:16:term-usage:49-57",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:comision",
+    "span": "Comisión",
+    "start_char": 49,
+    "end_char": 57
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:16:term-usage:137-145",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:comision",
+    "span": "Comisión",
+    "start_char": 137,
+    "end_char": 145
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:16:term-usage:404-414",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 404,
+    "end_char": 414
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:16:term-usage:585-593",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:comision",
+    "span": "Comisión",
+    "start_char": 585,
+    "end_char": 593
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:16:term-usage:800-808",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:comision",
+    "span": "Comisión",
+    "start_char": 800,
+    "end_char": 808
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:16:term-usage:1012-1020",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:comision",
+    "span": "Comisión",
+    "start_char": 1012,
+    "end_char": 1020
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:16:term-usage:1255-1263",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:comision",
+    "span": "Comisión",
+    "start_char": 1255,
+    "end_char": 1263
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:16:term-usage:2173-2183",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2173,
+    "end_char": 2183
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:16:term-usage:2317-2325",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:comision",
+    "span": "Comisión",
+    "start_char": 2317,
+    "end_char": 2325
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:16:term-usage:2708-2718",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2708,
+    "end_char": 2718
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:16:term-usage:2795-2803",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:comision",
+    "span": "Comisión",
+    "start_char": 2795,
+    "end_char": 2803
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:16:term-usage:2911-2921",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2911,
+    "end_char": 2921
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:16:term-usage:2943-2953",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2943,
+    "end_char": 2953
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:16:term-usage:3005-3015",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3005,
+    "end_char": 3015
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:16:term-usage:3091-3099",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:comision",
+    "span": "Comisión",
+    "start_char": 3091,
+    "end_char": 3099
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:16:term-usage:3281-3291",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3281,
+    "end_char": 3291
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:16:term-usage:3415-3425",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3415,
+    "end_char": 3425
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:16:term-usage:3536-3544",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:comision",
+    "span": "Comisión",
+    "start_char": 3536,
+    "end_char": 3544
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:16:term-usage:3718-3726",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:comision",
+    "span": "Comisión",
+    "start_char": 3718,
+    "end_char": 3726
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:16:term-usage:4048-4058",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 4048,
+    "end_char": 4058
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:16:term-usage:4533-4541",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:comision",
+    "span": "Comisión",
+    "start_char": 4533,
+    "end_char": 4541
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:16:term-usage:4674-4682",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:comision",
+    "span": "Comisión",
+    "start_char": 4674,
+    "end_char": 4682
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:16:term-usage:4934-4944",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 4934,
+    "end_char": 4944
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:16:term-usage:5264-5272",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:comision",
+    "span": "Comisión",
+    "start_char": 5264,
+    "end_char": 5272
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:17:term-usage:165-173",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:comision",
+    "span": "Comisión",
+    "start_char": 165,
+    "end_char": 173
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:17:term-usage:345-378",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:actividades-en-materia-energetica",
+    "span": "Actividades en materia energética",
+    "start_char": 345,
+    "end_char": 378
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:17:term-usage:475-483",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:comision",
+    "span": "Comisión",
+    "start_char": 475,
+    "end_char": 483
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:17:term-usage:792-825",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:actividades-en-materia-energetica",
+    "span": "Actividades en materia energética",
+    "start_char": 792,
+    "end_char": 825
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:17:term-usage:861-869",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:comision",
+    "span": "Comisión",
+    "start_char": 861,
+    "end_char": 869
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:17:term-usage:1198-1231",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:actividades-en-materia-energetica",
+    "span": "Actividades en materia energética",
+    "start_char": 1198,
+    "end_char": 1231
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:17:term-usage:1238-1246",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:comision",
+    "span": "Comisión",
+    "start_char": 1238,
+    "end_char": 1246
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:17:term-usage:1299-1309",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1299,
+    "end_char": 1309
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:17:term-usage:2259-2267",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:comision",
+    "span": "Comisión",
+    "start_char": 2259,
+    "end_char": 2267
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:17:term-usage:2509-2519",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2509,
+    "end_char": 2519
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:18:term-usage:24-32",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:comision",
+    "span": "Comisión",
+    "start_char": 24,
+    "end_char": 32
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:18:term-usage:82-92",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 82,
+    "end_char": 92
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:18:term-usage:179-189",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 179,
+    "end_char": 189
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:18:term-usage:237-247",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 237,
+    "end_char": 247
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:18:term-usage:286-294",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:comision",
+    "span": "Comisión",
+    "start_char": 286,
+    "end_char": 294
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:18:term-usage:333-341",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:comision",
+    "span": "Comisión",
+    "start_char": 333,
+    "end_char": 341
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:18:term-usage:431-441",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 431,
+    "end_char": 441
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:18:term-usage:1953-1961",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:comision",
+    "span": "Comisión",
+    "start_char": 1953,
+    "end_char": 1961
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:18:term-usage:2136-2144",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:comision",
+    "span": "Comisión",
+    "start_char": 2136,
+    "end_char": 2144
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:18:term-usage:2386-2396",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2386,
+    "end_char": 2396
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:18:term-usage:2426-2436",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2426,
+    "end_char": 2436
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:20:term-usage:97-105",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:comision",
+    "span": "Comisión",
+    "start_char": 97,
+    "end_char": 105
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:20:term-usage:294-304",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 294,
+    "end_char": 304
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:20:term-usage:406-414",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:comision",
+    "span": "Comisión",
+    "start_char": 406,
+    "end_char": 414
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:20:term-usage:1024-1032",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:comision",
+    "span": "Comisión",
+    "start_char": 1024,
+    "end_char": 1032
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:20:term-usage:1411-1419",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:comision",
+    "span": "Comisión",
+    "start_char": 1411,
+    "end_char": 1419
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:21:term-usage:606-639",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:actividades-en-materia-energetica",
+    "span": "Actividades en materia energética",
+    "start_char": 606,
+    "end_char": 639
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:21:term-usage:856-889",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:actividades-en-materia-energetica",
+    "span": "Actividades en materia energética",
+    "start_char": 856,
+    "end_char": 889
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:21:term-usage:1044-1052",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:comision",
+    "span": "Comisión",
+    "start_char": 1044,
+    "end_char": 1052
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:21:term-usage:1242-1250",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:comision",
+    "span": "Comisión",
+    "start_char": 1242,
+    "end_char": 1250
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:23:term-usage:1055-1088",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:actividades-en-materia-energetica",
+    "span": "Actividades en materia energética",
+    "start_char": 1055,
+    "end_char": 1088
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:25:term-usage:204-214",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 204,
+    "end_char": 214
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:25:term-usage:250-260",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 250,
+    "end_char": 260
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:26:term-usage:107-115",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:comision",
+    "span": "Comisión",
+    "start_char": 107,
+    "end_char": 115
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:27:term-usage:131-139",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:comision",
+    "span": "Comisión",
+    "start_char": 131,
+    "end_char": 139
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:28:term-usage:35-43",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:28",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:comision",
+    "span": "Comisión",
+    "start_char": 35,
+    "end_char": 43
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:28:term-usage:424-432",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:28",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:comision",
+    "span": "Comisión",
+    "start_char": 424,
+    "end_char": 432
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:article:28:term-usage:545-578",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:article:28",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:actividades-en-materia-energetica",
+    "span": "Actividades en materia energética",
+    "start_char": 545,
+    "end_char": 578
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:transitory:tercero:term-usage:32-40",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:comision",
+    "span": "Comisión",
+    "start_char": 32,
+    "end_char": 40
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:transitory:tercero:term-usage:74-82",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:comision",
+    "span": "Comisión",
+    "start_char": 74,
+    "end_char": 82
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:transitory:tercero:term-usage:143-153",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 143,
+    "end_char": 153
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:transitory:tercero:term-usage:161-169",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:comision",
+    "span": "Comisión",
+    "start_char": 161,
+    "end_char": 169
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:transitory:cuarto:term-usage:83-91",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:comision",
+    "span": "Comisión",
+    "start_char": 83,
+    "end_char": 91
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:transitory:quinto:term-usage:221-229",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:comision",
+    "span": "Comisión",
+    "start_char": 221,
+    "end_char": 229
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:transitory:sexto:term-usage:209-217",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:transitory:sexto",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:comision",
+    "span": "Comisión",
+    "start_char": 209,
+    "end_char": 217
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:transitory:septimo:term-usage:104-112",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:transitory:septimo",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:comision",
+    "span": "Comisión",
+    "start_char": 104,
+    "end_char": 112
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:transitory:septimo:term-usage:140-148",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:transitory:septimo",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:comision",
+    "span": "Comisión",
+    "start_char": 140,
+    "end_char": 148
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:transitory:octavo:term-usage:291-301",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:transitory:octavo",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:comision",
+    "span": "Comisiones",
+    "start_char": 291,
+    "end_char": 301
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:transitory:octavo:term-usage:380-390",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:transitory:octavo",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 380,
+    "end_char": 390
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:transitory:octavo:term-usage:399-407",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:transitory:octavo",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:comision",
+    "span": "Comisión",
+    "start_char": 399,
+    "end_char": 407
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:transitory:octavo:term-usage:677-687",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:transitory:octavo",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:comision",
+    "span": "Comisiones",
+    "start_char": 677,
+    "end_char": 687
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:transitory:octavo:term-usage:839-849",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:transitory:octavo",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 839,
+    "end_char": 849
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:transitory:octavo:term-usage:855-863",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:transitory:octavo",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:comision",
+    "span": "Comisión",
+    "start_char": 855,
+    "end_char": 863
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:transitory:octavo:term-usage:988-998",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:transitory:octavo",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:comision",
+    "span": "Comisiones",
+    "start_char": 988,
+    "end_char": 998
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:transitory:octavo:term-usage:1158-1168",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:transitory:octavo",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1158,
+    "end_char": 1168
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:transitory:octavo:term-usage:1176-1184",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:transitory:octavo",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:comision",
+    "span": "Comisión",
+    "start_char": 1176,
+    "end_char": 1184
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:transitory:octavo:term-usage:1660-1670",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:transitory:octavo",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:comision",
+    "span": "Comisiones",
+    "start_char": 1660,
+    "end_char": 1670
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:transitory:octavo:term-usage:1871-1879",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:transitory:octavo",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:comision",
+    "span": "Comisión",
+    "start_char": 1871,
+    "end_char": 1879
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:transitory:octavo:term-usage:2088-2096",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:transitory:octavo",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:comision",
+    "span": "Comisión",
+    "start_char": 2088,
+    "end_char": 2096
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:transitory:noveno:term-usage:170-187",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:transitory:noveno",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:sujeto-regulado",
+    "span": "Sujetos Regulados",
+    "start_char": 170,
+    "end_char": 187
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:transitory:noveno:term-usage:323-333",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:transitory:noveno",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 323,
+    "end_char": 333
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:transitory:noveno:term-usage:340-350",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:transitory:noveno",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:comision",
+    "span": "Comisiones",
+    "start_char": 340,
+    "end_char": 350
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:transitory:decimo:term-usage:46-56",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:transitory:decimo",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:comision",
+    "span": "Comisiones",
+    "start_char": 46,
+    "end_char": 56
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:transitory:decimo:term-usage:421-431",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:transitory:decimo",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 421,
+    "end_char": 431
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:transitory:decimo:term-usage:437-445",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:transitory:decimo",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:comision",
+    "span": "Comisión",
+    "start_char": 437,
+    "end_char": 445
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:transitory:decimo-primero:term-usage:88-98",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:transitory:decimo-primero",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:comision",
+    "span": "Comisiones",
+    "start_char": 88,
+    "end_char": 98
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:transitory:decimo-primero:term-usage:238-246",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:transitory:decimo-primero",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:comision",
+    "span": "Comisión",
+    "start_char": 238,
+    "end_char": 246
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:transitory:decimo-primero:term-usage:255-265",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:transitory:decimo-primero",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 255,
+    "end_char": 265
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:transitory:decimo-segundo:term-usage:190-200",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:transitory:decimo-segundo",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 190,
+    "end_char": 200
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:transitory:decimo-segundo:term-usage:244-254",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:transitory:decimo-segundo",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 244,
+    "end_char": 254
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:transitory:decimo-segundo:term-usage:389-399",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:transitory:decimo-segundo",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:comision",
+    "span": "Comisiones",
+    "start_char": 389,
+    "end_char": 399
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:transitory:decimo-segundo:term-usage:530-538",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:transitory:decimo-segundo",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:comision",
+    "span": "Comisión",
+    "start_char": 530,
+    "end_char": 538
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:transitory:decimo-tercero:term-usage:104-112",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:transitory:decimo-tercero",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:comision",
+    "span": "Comisión",
+    "start_char": 104,
+    "end_char": 112
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:transitory:decimo-tercero:term-usage:245-255",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:transitory:decimo-tercero",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:comision",
+    "span": "Comisiones",
+    "start_char": 245,
+    "end_char": 255
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:transitory:decimo-tercero:term-usage:382-390",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:transitory:decimo-tercero",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:comision",
+    "span": "Comisión",
+    "start_char": 382,
+    "end_char": 390
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:transitory:decimo-tercero:term-usage:398-408",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:transitory:decimo-tercero",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 398,
+    "end_char": 408
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:transitory:decimo-tercero:term-usage:430-440",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:transitory:decimo-tercero",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 430,
+    "end_char": 440
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:transitory:decimo-tercero:term-usage:448-456",
+    "provision_id": "urn:lex-mx:federal:statute:lcne:transitory:decimo-tercero",
+    "term_id": "urn:lex-mx:federal:statute:lcne:term:comision",
+    "span": "Comisión",
+    "start_char": 448,
+    "end_char": 456
+  }
+]

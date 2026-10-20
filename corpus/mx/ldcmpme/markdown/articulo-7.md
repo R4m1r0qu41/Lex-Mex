@@ -17,6 +17,6 @@ source_sha256: 4933abadd27d345e7a5c1754af10ed429fd148b709b4a78d4f42447b5fcd546d
 
 # Artículo 7
 
-La Secretaría diseñará, fomentará y promoverá la creación de instrumentos y mecanismos de garantía, así como de otros esquemas que faciliten el acceso al financiamiento a las MIPYMES, en igualdad de oportunidades para mujeres y hombres.
+La [Secretaría](articulo-3.md) diseñará, fomentará y promoverá la creación de instrumentos y mecanismos de garantía, así como de otros esquemas que faciliten el acceso al financiamiento a las [MIPYMES](articulo-3.md), en igualdad de oportunidades para mujeres y hombres.
 
 Artículo reformado DOF 21-01-2015

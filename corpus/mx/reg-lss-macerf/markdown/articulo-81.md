@@ -17,6 +17,6 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 81
 
-Los sujetos de aseguramiento señalados en este Título y sus beneficiarios deberán someterse a los exámenes y estudios que el Instituto determine para constatar su estado de salud.
+Los sujetos de aseguramiento señalados en este Título y sus beneficiarios deberán someterse a los exámenes y estudios que el [Instituto](../../lss/markdown/articulo-5-A.md) determine para constatar su estado de salud.
 
 En todos los casos y previamente al aseguramiento, los sujetos de referencia y sus beneficiarios deberán llenar y firmar individualmente el cuestionario médico que para tal efecto les será proporcionado por el Instituto. Tratándose de menores de edad o, en su caso, de incapacitados, el llenado y firma del cuestionario estará a cargo del asegurado.

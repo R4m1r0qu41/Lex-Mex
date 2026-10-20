@@ -17,9 +17,9 @@ source_sha256: cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7
 
 # Artículo 56 Bis
 
-Los contratos de adhesión que utilicen las Instituciones Financieras para la celebración de operaciones con Usuarios, en adición a los requisitos a los que están sujetos conforme a ésta y, en su caso, otras leyes, no deberán contener cláusulas abusivas.
+Los contratos de adhesión que utilicen las [Instituciones Financieras](articulo-2o.md) para la celebración de operaciones con [Usuarios](articulo-2o.md), en adición a los requisitos a los que están sujetos conforme a ésta y, en su caso, otras leyes, no deberán contener cláusulas abusivas.
 
-La Comisión Nacional, mediante disposiciones de carácter general que emita con el acuerdo de su Junta de Gobierno establecerá los casos y supuestos bajo los cuales se considere la existencia de una cláusula abusiva.
+La [Comisión Nacional](articulo-2o.md), mediante disposiciones de carácter general que emita con el acuerdo de su [Junta](articulo-2o.md) de Gobierno establecerá los casos y supuestos bajo los cuales se considere la existencia de una cláusula abusiva.
 
 Las disposiciones referidas en el párrafo anterior podrán referirse a cualesquiera términos y condiciones de los contratos de adhesión, excepto tasas de interés, comisiones, o cualquier otro concepto que implique la contraprestación recibida por una Institución Financiera por la operación de que se trate. Dichas disposiciones no podrán oponerse a las demás disposiciones o reglas que emitan otras autoridades en el ejercicio de sus atribuciones. En los casos de comisiones y otros conceptos que impliquen contraprestación recibida por una Institución Financiera por la operación de que se trate, la Junta de Gobierno de la Comisión Nacional emitirá opinión sobre éstas, misma que se publicará a través del Buró de Entidades Financieras.
 

@@ -17,7 +17,7 @@ source_sha256: 74f2c47c7a9282194b2972ec1366352d94f03042c6d0c7f10efde018cb9e3bfb
 
 # Artículo 45
 
-Los Organismos del Sector deberán ajustarse a lo siguiente: Párrafo reformado DOF 11-06-2013
+Los [Organismos del Sector](articulo-5o.md) deberán ajustarse a lo siguiente: Párrafo reformado DOF 11-06-2013
 
 I. Cumplir y hacer cumplir los fines, valores, principios y prácticas previstos en la presente Ley, lo cual acreditarán conforme al modelo de certificación correspondiente; Fracción reformada DOF 16-04-2025
 
@@ -27,7 +27,7 @@ III. Utilizar los beneficios que consagra la presente Ley para los fines con que
 
 IV. Conservar la documentación que demuestre el otorgamiento y uso de apoyos y estímulos públicos otorgados para los fines de sus actividades económicas;
 
-V. Informar al Instituto anualmente o en los casos que les sea requerido, sobre el ejercicio de los apoyos y estímulos públicos otorgados con fines de fomento;
+V. Informar al [Instituto](articulo-5o.md) anualmente o en los casos que les sea requerido, sobre el ejercicio de los apoyos y estímulos públicos otorgados con fines de fomento;
 
 VI. Proporcionar la información que les sea requerida por el Instituto y demás autoridades competentes sobre sus fines, estatutos, programas, actividades, beneficiarios, patrimonio, operación administrativa y financiera, estados financieros y uso de los apoyos y estímulos públicos que reciban;
 
@@ -35,7 +35,7 @@ VII. Cumplir en tiempo y forma con las normas de las recuperaciones financieras 
 
 VIII. Acatar las disposiciones, recomendaciones y sanciones administrativas que emita o disponga el Instituto y demás autoridades competentes;
 
-IX. Los Organismos del Sector deberán fomentar y difundir los principios, valores y prácticas de la economía social, formular y promover la implementación, en coordinación con las autoridades competentes, de estrategias, planes y programas que impulsen el desarrollo del Sector, así como ejercer cualquier actividad lícita en beneficio de sus Asociados y la comunidad;
+IX. Los Organismos del Sector deberán fomentar y difundir los principios, valores y prácticas de la economía social, formular y promover la implementación, en coordinación con las autoridades competentes, de estrategias, planes y programas que impulsen el desarrollo del [Sector](articulo-5o.md), así como ejercer cualquier actividad lícita en beneficio de sus [Asociados](articulo-5o.md) y la comunidad;
 
 X. Los Organismos del Sector realizarán programas de planeación estratégica para su desarrollo progresivo, elaborarán informes sobre servicios y beneficios económicos, educativos y sociales prestados en su ejercicio a sus Asociados y a la comunidad;
 

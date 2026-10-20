@@ -17,6 +17,6 @@ source_sha256: 23dcee090bbe0c4fb06c75d084cb65ce0b2e8f72a8d082e7059504412bde1614
 
 # Artículo 14
 
-El SNICS llevará un libro de solicitudes en el que asentará de inmediato los datos necesarios para la identificación de cada solicitud, por estricto orden progresivo de acuerdo con su fecha de presentación.
+El [SNICS](articulo-2o.md) llevará un libro de solicitudes en el que asentará de inmediato los datos necesarios para la identificación de cada solicitud, por estricto orden progresivo de acuerdo con su fecha de presentación.
 
-Dentro de los tres días hábiles siguientes a su recepción, el SNICS enviará la solicitud al Comité.
+Dentro de los tres días hábiles siguientes a su recepción, el SNICS enviará la solicitud al [Comité](articulo-2o.md).

@@ -17,6 +17,6 @@ source_sha256: 4fadf9a6f2d22a9e48d8e29ed302456751da66eb723e0df1dc6ac45a5e4640b0
 
 # Artículo 16
 
-A fin de garantizar la máxima protección a la Persona Desaparecida y a sus Familiares, el Órgano Jurisdiccional deberá dictar las medidas provisionales y cautelares que resulten necesarias en un plazo no mayor a quince días hábiles, contados a partir de que la solicitud haya sido presentada.
+A fin de garantizar la máxima protección a la [Persona Desaparecida](articulo-3.md) y a sus [Familiares](articulo-3.md), el [Órgano Jurisdiccional](articulo-3.md) deberá dictar las medidas provisionales y cautelares que resulten necesarias en un plazo no mayor a quince días hábiles, contados a partir de que la solicitud haya sido presentada.
 
-Dichas medidas versarán sobre la guarda, alimentos, patria potestad, uso de la vivienda y aquellas necesidades específicas que advierta de la revisión de la solicitud y la información que le remitan las autoridades, particularmente la Comisión Ejecutiva.
+Dichas medidas versarán sobre la guarda, alimentos, patria potestad, uso de la vivienda y aquellas necesidades específicas que advierta de la revisión de la solicitud y la información que le remitan las autoridades, particularmente la [Comisión Ejecutiva](articulo-3.md).

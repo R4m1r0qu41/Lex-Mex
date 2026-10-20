@@ -15,4 +15,4 @@ source_sha256: cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7
 
 # OCTAVO
 
-La Secretaría, realizará los trámites que sean necesarios para que la Comisión Nacional quede comprendido en el Presupuesto de Egresos de la Federación para el ejercicio fiscal de 1999.
+La [Secretaría](articulo-2o.md), realizará los trámites que sean necesarios para que la [Comisión Nacional](articulo-2o.md) quede comprendido en el Presupuesto de Egresos de la Federación para el ejercicio fiscal de 1999.

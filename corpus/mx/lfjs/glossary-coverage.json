@@ -1,0 +1,12 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-3",
+  "instrument_id": "urn:lex-mx:federal:statute:lfjs",
+  "source_sha256": "5ae2f5245fba7e584da7b7912f7a25342b8af171b291f52befe753a9139ac277",
+  "extracted_text_sha256": "9ae8af411cb637abcc466c5097a01b0ec131ac273f358b68a5b9c858281c19ad",
+  "status": "none_detected",
+  "glossaries": [],
+  "imports": [],
+  "term_count": 0,
+  "usage_count": 0
+}

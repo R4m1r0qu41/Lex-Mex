@@ -17,4 +17,4 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 294
 
-El Comité Técnico deberá establecer mecanismos de comunicación permanente que le permita verificar en forma continua, el cumplimiento de los requisitos, así como la inexistencia de impedimentos para que los miembros del Comité de Protección al Ahorro Cooperativo puedan continuar en el desempeño de sus funciones.
+El [Comité Técnico](articulo-1.md) deberá establecer mecanismos de comunicación permanente que le permita verificar en forma continua, el cumplimiento de los requisitos, así como la inexistencia de impedimentos para que los miembros del [Comité de Protección al Ahorro Cooperativo](articulo-1.md) puedan continuar en el desempeño de sus funciones.

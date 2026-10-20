@@ -17,7 +17,7 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 231
 
-El Instituto expedirá un título por cada marca, como constancia de su registro, en el cual se hará constar:
+El [Instituto](articulo-4.md) expedirá un título por cada marca, como constancia de su registro, en el cual se hará constar:
 
 I.- El número de registro de la marca;
 
@@ -33,4 +33,4 @@ VI.- Las fechas de presentación de la solicitud; de prioridad reconocida, y de 
 
 VII.- Su vigencia, y VIII.- La circunstancia de que la marca se otorgó por distintividad adquirida, en su caso.
 
-Solo podrán permitirse cambios en el título de una marca para corregir errores evidentes o de forma. Los cambios autorizados deberán ser publicados en la Gaceta.
+Solo podrán permitirse cambios en el título de una marca para corregir errores evidentes o de forma. Los cambios autorizados deberán ser publicados en la [Gaceta](articulo-4.md).

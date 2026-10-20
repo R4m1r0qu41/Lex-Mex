@@ -17,7 +17,7 @@ source_sha256: ea96e97cbea2fd1919af78b94cd3466ee20a77e05989be2d482d2eb8061618c5
 
 # Artículo 6
 
-Están sujetos al régimen de dominio público de la Federación:
+Están sujetos al régimen de dominio público de la [Federación](articulo-2.md):
 
 I.- Los bienes señalados en los artículos [27](../../cpeum/markdown/articulo-27.md), párrafos cuarto, quinto y octavo; [42](../../cpeum/markdown/articulo-42.md), fracción IV, y [132](../../cpeum/markdown/articulo-132.md) de la Constitución Política de los Estados Unidos Mexicanos;
 

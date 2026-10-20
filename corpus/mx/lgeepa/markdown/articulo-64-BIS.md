@@ -17,7 +17,7 @@ source_sha256: 0574853d06020030188e8aee1eae5dabb2b476ac630cc52be631a48d2b91adbc
 
 # Artículo 64 BIS
 
-El Ejecutivo Federal, a través de la Secretaría en coordinación con la Secretaría de Hacienda y Crédito Público, así como los gobiernos de las entidades federativas y de los Municipios, en el ámbito de sus respectivas competencias:
+El Ejecutivo Federal, a través de la [Secretaría](articulo-3o.md) en coordinación con la Secretaría de Hacienda y Crédito Público, así como los gobiernos de las entidades federativas y de los Municipios, en el ámbito de sus respectivas competencias:
 
 I.- Promoverán las inversiones públicas y privadas para el establecimiento y manejo de las áreas naturales protegidas;
 

@@ -17,4 +17,4 @@ source_sha256: e5c0ecb4328043b7090ee5d73e982d6a04410f1330f6fdb350a7a34527eb2e59
 
 # Artículo 150
 
-La Secretaría de Marina, actuando en apoyo de la Secretaría, levantará las actas relativas que pondrá a disposición inmediata de ésta junto con las embarcaciones, equipos, vehículos, artes de pesca y productos relacionados con las mismas, las que serán calificadas por la Secretaría, conforme a lo establecido en la Ley.
+La [Secretaría](articulo-2o.md) de Marina, actuando en apoyo de la Secretaría, levantará las actas relativas que pondrá a disposición inmediata de ésta junto con las embarcaciones, equipos, vehículos, artes de pesca y productos relacionados con las mismas, las que serán calificadas por la Secretaría, conforme a lo establecido en la [Ley](articulo-2o.md).

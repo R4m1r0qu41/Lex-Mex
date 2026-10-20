@@ -29,7 +29,7 @@ Los aeródromos de servicio al público incluyen los aeropuertos de servicio pú
 
 III. Aeródromo de servicio general: aeródromo de servicio al público, distinto de los aeropuertos, destinado a la atención de aeronaves, personas pasajeras, carga y correo del servicio de transporte aéreo no regular, así como de servicios aéreos a terceros y operaciones de aeronaves para uso particular; Fracción reformada DOF 03-05-2023 IV. Aeródromo de servicio particular: aeródromo civil destinado a los propios fines del permisionario, o a los de terceros con quienes libremente contrate;
 
-IV Bis. Aeródromo temporal: área definida de tierra, adecuada para el despegue y aterrizaje de aeronaves agrícolas que realizan labores de fumigación agrícola y aquellas aeronaves autorizadas por la Agencia Federal de Aviación Civil; Fracción adicionada DOF 03-05-2023
+IV Bis. Aeródromo temporal: área definida de tierra, adecuada para el despegue y aterrizaje de aeronaves agrícolas que realizan labores de fumigación agrícola y aquellas aeronaves autorizadas por la [Agencia Federal de Aviación Civil](articulo-2.md); Fracción adicionada DOF 03-05-2023
 
 V. Aeródromo internacional: aeródromo de servicio al público declarado internacional por el Ejecutivo Federal y habilitado, de conformidad con las disposiciones aplicables, con infraestructura, instalaciones y equipos adecuados para atender a las aeronaves, pasajeros, carga y correo del servicio de transporte aéreo internacional, y que cuenta con autoridades competentes;
 

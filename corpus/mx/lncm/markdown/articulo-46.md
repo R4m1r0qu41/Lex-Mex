@@ -21,6 +21,6 @@ Salvo en el caso de las arribadas forzosas, en la autorización o rechazo de arr
 
 La capitanía de puerto, en su ámbito de competencia, estará obligada a verificar que en la autorización de arribo a puerto de embarcaciones se respeten las normas aplicables en materia de seguridad en la navegación y la vida humana en el mar, prevención de la contaminación marina, así como las demás que establezcan los Tratados Internacionales.
 
-En caso de encontrarse algún incumplimiento a las normas aplicables en materia de Protección Marítima y Portuaria, la capitanía de puerto dará vista al CUMAR para que intervenga en los términos que establezca la Ley de Puertos.
+En caso de encontrarse algún incumplimiento a las normas aplicables en materia de [Protección Marítima y Portuaria](articulo-2.md), la capitanía de puerto dará vista al [CUMAR](articulo-2.md) para que intervenga en los términos que establezca la Ley de Puertos.
 
 Artículo reformado DOF 26-12-2013, 19-12-2016

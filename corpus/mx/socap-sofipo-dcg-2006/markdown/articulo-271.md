@@ -17,7 +17,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 271
 
-Las Confederaciones deberán proporcionar a la Comisión el Registro de sus Federaciones afiliadas en los términos siguientes:
+Las [Confederaciones](articulo-1.md) deberán proporcionar a la Comisión el [Registro](articulo-1.md) de sus [Federaciones](articulo-1.md) afiliadas en los términos siguientes:
 
 I. Por única vez y respecto de cada Federación afiliada, en un plazo de 30 días contado a partir de la fecha en que se celebre el contrato de afiliación respectivo, y
 

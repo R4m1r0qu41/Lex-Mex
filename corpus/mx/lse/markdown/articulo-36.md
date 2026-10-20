@@ -17,4 +17,4 @@ source_sha256: aa96853f010885bdf85160e944e5c0ef5c3c8e95422dfede280d228cf064310a
 
 # Artículo 36
 
-Las Centrales Eléctricas de generación para el Mercado Eléctrico Mayorista pueden desarrollarse por el Estado, por particulares o mediante esquemas para desarrollo mixto previstos en la presente Ley.
+Las [Centrales Eléctricas](articulo-3.md) de generación para el [Mercado Eléctrico Mayorista](articulo-3.md) pueden desarrollarse por el Estado, por particulares o mediante esquemas para desarrollo mixto previstos en la presente Ley.

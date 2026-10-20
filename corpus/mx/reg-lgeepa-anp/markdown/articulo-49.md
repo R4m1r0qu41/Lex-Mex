@@ -17,7 +17,7 @@ source_sha256: 4e276866fce1638948a6daf1a5c0438fa412554f1a6e0381cbdf7cb300e3db75
 
 # Artículo 49
 
-Para el cumplimiento de los objetivos previstos en la Ley, en relación al establecimiento y manejo de las áreas naturales protegidas, se realizará una subdivisión que permita identificar y delimitar las porciones del territorio que la conforman, acorde con sus elementos biológicos, físicos y socioeconómicos, los cuales constituyen un esquema integral y dinámico, por lo que cuando se realice la delimitación territorial de las actividades en las áreas naturales protegidas, ésta se llevará a cabo a través de las siguientes zonas y sus respectivas subzonas, de acuerdo a su categoría de manejo:
+Para el cumplimiento de los objetivos previstos en la [Ley](articulo-3o.md), en relación al establecimiento y manejo de las áreas naturales protegidas, se realizará una subdivisión que permita identificar y delimitar las porciones del territorio que la conforman, acorde con sus elementos biológicos, físicos y socioeconómicos, los cuales constituyen un esquema integral y dinámico, por lo que cuando se realice la delimitación territorial de las actividades en las áreas naturales protegidas, ésta se llevará a cabo a través de las siguientes zonas y sus respectivas subzonas, de acuerdo a su categoría de manejo:
 
 I. Las zonas núcleo, que tendrán como principal objetivo la preservación de los ecosistemas a mediano y largo plazo, y que podrán estar conformadas por las siguientes subzonas:
 

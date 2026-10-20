@@ -17,7 +17,7 @@ source_sha256: d0021bbef2e0c3251d6efdea2c1efd9959ff3f02df4bcd1fc37c1ee7826a72ba
 
 # Artículo 105
 
-Los Agentes Económicos podrán solicitar a la Comisión una opinión formal por escrito en el que conste claramente:
+Los [Agentes Económicos](articulo-3.md) podrán solicitar a la [Comisión](articulo-3.md) una opinión formal por escrito en el que conste claramente:
 
 I. La identidad de los Agentes Económicos afectados y una dirección de contacto para la Comisión;
 
@@ -27,6 +27,6 @@ III. Información completa y exhaustiva sobre todos los puntos relevantes para u
 
 V. Cualquier otra información que permita realizar una evaluación a la luz de lo establecido en el presente Capítulo de esta ley y, en particular, una declaración de que la conducta a la que se refiere la solicitud de opinión formal no se encuentra pendiente en un procedimiento ante un órgano jurisdiccional;
 
-VI. Si la solicitud de opinión formal contiene elementos que se consideren Información Confidencial, la indicación clara de tales elementos en un anexo por separado y con una explicación razonada del por qué se considera que la Comisión debe tratar dicha información como confidencial, y
+VI. Si la solicitud de opinión formal contiene elementos que se consideren [Información Confidencial](articulo-3.md), la indicación clara de tales elementos en un anexo por separado y con una explicación razonada del por qué se considera que la Comisión debe tratar dicha información como confidencial, y
 
 VII. Cualquier otra información o documentación pertinente para el asunto en cuestión.

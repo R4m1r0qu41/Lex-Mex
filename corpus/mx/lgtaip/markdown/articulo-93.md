@@ -17,4 +17,4 @@ source_sha256: e81e23876bd08da81cb8392af7054f6187ad043ca8f965777b455f9d12554e8b
 
 # Artículo 93
 
-Las Autoridades garantes, en el ámbito de sus competencias, deben resolver sobre la admisión de la denuncia, dentro de los tres días siguientes a su recepción.
+Las [Autoridades garantes](articulo-3.md), en el ámbito de sus competencias, deben resolver sobre la admisión de la denuncia, dentro de los tres días siguientes a su recepción.

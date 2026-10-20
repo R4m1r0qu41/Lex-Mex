@@ -17,4 +17,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Artículo 35
 
-En caso de que alguna persona Participante en las Asignaciones para Desarrollo Mixto sea designado como Operador Petrolero, este puede realizar todos los trámites, gestiones administrativas y regulatorias relacionados con las actividades objeto de la Asignación en cumplimiento de la Normatividad aplicable, en nombre y representación de la persona Asignataria.
+En caso de que alguna persona Participante en las Asignaciones para Desarrollo Mixto sea designado como Operador Petrolero, este puede realizar todos los trámites, gestiones administrativas y regulatorias relacionados con las actividades objeto de la Asignación en cumplimiento de la [Normatividad](articulo-3.md) aplicable, en nombre y representación de la persona Asignataria.

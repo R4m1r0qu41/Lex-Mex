@@ -18,4 +18,4 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 212 Bis 1
 
-Las Sociedades Financieras Populares podrán difundir en su página de Internet el estado de situación financiera y el estado de resultado integral consolidados no dictaminados, siempre que hayan sido aprobados por el Consejo de Administración y se precise en notas tal circunstancia. Dicha divulgación podrá efectuarse hasta en tanto no se cuente con los estados financieros dictaminados a que se refiere el artículo [212](articulo-212.md), fracción VI de las presentes disposiciones.
+Las [Sociedades](articulo-1.md) Financieras Populares podrán difundir en su página de Internet el estado de situación financiera y el estado de resultado integral consolidados no dictaminados, siempre que hayan sido aprobados por el [Consejo de Administración](articulo-1.md) y se precise en notas tal circunstancia. Dicha divulgación podrá efectuarse hasta en tanto no se cuente con los estados financieros dictaminados a que se refiere el artículo [212](articulo-212.md), fracción VI de las presentes disposiciones.

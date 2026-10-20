@@ -15,4 +15,4 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # TERCERO
 
-Las menciones que en otras disposiciones se hagan a la Ley de la Propiedad Industrial, se entenderán referidas a la Ley Federal de Protección a la Propiedad Industrial.
+Las menciones que en otras disposiciones se hagan a la [Ley](articulo-4.md) de la Propiedad Industrial, se entenderán referidas a la Ley Federal de Protección a la Propiedad Industrial.

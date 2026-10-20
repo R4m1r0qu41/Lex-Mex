@@ -18,15 +18,15 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 78
 
-Las Sociedades, dentro de sus procedimientos para la gestión y el otorgamiento de los Microcréditos Productivos establecidos en el manual de crédito, deberán incluir lo siguiente:
+Las Sociedades, dentro de sus procedimientos para la gestión y el otorgamiento de los [Microcréditos Productivos](articulo-1.md) establecidos en el manual de crédito, deberán incluir lo siguiente:
 
 I. Efectuar una visita de verificación o realizar una inspección ocular en el lugar donde el acreditado realice la actividad productiva que será financiada.
 
-En los casos en que la contratación para el otorgamiento de Microcréditos Productivos se celebre de manera no presencial, las Sociedades deberán observar el procedimiento y límites previstos en la disposición 4ª Bis de las Disposiciones de carácter general a que se refieren los artículos [71](../../lrascap/markdown/articulo-71.md) y [72](../../lrascap/markdown/articulo-72.md) de la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo, emitidas por la Secretaría, o las que las sustituyan.
+En los casos en que la contratación para el otorgamiento de Microcréditos Productivos se celebre de manera no presencial, las Sociedades deberán observar el procedimiento y límites previstos en la disposición 4ª Bis de las Disposiciones de carácter general a que se refieren los artículos [71](../../lrascap/markdown/articulo-71.md) y [72](../../lrascap/markdown/articulo-72.md) de la [Ley](articulo-1.md) para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo, emitidas por la [Secretaría](articulo-1.md), o las que las sustituyan.
 
 II. Efectuar un análisis de la capacidad de pago del acreditado, así como de la viabilidad de la actividad productiva a la que se destinará el Microcrédito Productivo, conforme a las políticas y procedimientos para su otorgamiento.
 
-III. Realizar una consulta ante una Sociedad de Información Crediticia, en términos de lo previsto por el Capítulo III del Título Tercero de las presentes disposiciones.
+III. Realizar una consulta ante una [Sociedad de Información Crediticia](articulo-1.md), en términos de lo previsto por el Capítulo III del Título Tercero de las presentes disposiciones.
 
 En el evento de que el crédito de que se trate se renueve o reestructure, deberá actualizarse el reporte emitido por la Sociedad de Información Crediticia del acreditado. Asimismo, las Sociedades deberán reportar a las Sociedades de Información Crediticia el importe contingente de los Microcréditos Productivos que los deudores en esquemas mancomunados estarían obligados a pagar cada uno, en caso de incumplimiento del acreditado principal.
 

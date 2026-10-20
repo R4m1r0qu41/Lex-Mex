@@ -47,7 +47,7 @@ XIV. Señalar al organizador los riesgos y desórdenes que puedan presentarse en
 
 XV. Firmar los boletos, contraseñas, cupones o cualquier otro comprobante que permita identificar al ganador y mediante el cual pueda reclamar el premio;
 
-XVI. Para los premios superiores a 1,500 UMA a valor diario, anotar el número de factura que ampare la propiedad de cada uno de los premios si se trata de bienes muebles y, si es el caso de inmuebles, el número de la escritura, nombre, número y domicilio del notario público o, en su caso, precisar estos datos respecto de la notaría en donde se lleve a cabo el trámite; Fracción reformada DOF 16-11-2023
+XVI. Para los premios superiores a 1,500 [UMA](articulo-3.md) a valor diario, anotar el número de factura que ampare la propiedad de cada uno de los premios si se trata de bienes muebles y, si es el caso de inmuebles, el número de la escritura, nombre, número y domicilio del notario público o, en su caso, precisar estos datos respecto de la notaría en donde se lleve a cabo el trámite; Fracción reformada DOF 16-11-2023
 
 XVII. Evitar la entrega de premios a menores de edad, debiendo hacerlo únicamente a sus padres o tutores, previa comprobación de su personalidad mediante los documentos idóneos con los que acrediten esa calidad, así como a través de las identificaciones respectivas. En los casos en que se requiera facturación o escrituración, ésta deberá hacerse a nombre del menor;
 

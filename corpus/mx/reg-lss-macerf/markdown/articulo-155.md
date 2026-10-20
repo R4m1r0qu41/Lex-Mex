@@ -17,7 +17,7 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 155
 
-No obstante contar con la inscripción en el Registro a que se refiere el artículo [153](articulo-153.md) de este Reglamento, no podrá emitir un dictamen sobre el cumplimiento de las obligaciones que la Ley y sus reglamentos imponen a los patrones, quien se encuentre en cualquiera de los supuestos siguientes:
+No obstante contar con la inscripción en el Registro a que se refiere el artículo [153](articulo-153.md) de este Reglamento, no podrá emitir un dictamen sobre el cumplimiento de las obligaciones que la [Ley](../../lss/markdown/articulo-5-A.md) y sus reglamentos imponen a los patrones, quien se encuentre en cualquiera de los supuestos siguientes:
 
 I. Ser el patrón a dictaminar, o en su caso, socio, asociado, director, administrador o empleado que tenga intervención en su administración;
 
@@ -31,7 +31,7 @@ V. Ser agente o corredor de bolsa de valores que se encuentre activo en su ejerc
 
 VI. Estar vinculado con el patrón de tal manera que le impida independencia o imparcialidad de criterios o bien, que los resultados de su dictamen determinen sus emolumentos;
 
-VII. Estar prestando sus servicios al Instituto o a otra autoridad fiscal competente para determinar contribuciones federales o locales, y
+VII. Estar prestando sus servicios al [Instituto](../../lss/markdown/articulo-5-A.md) o a otra autoridad fiscal competente para determinar contribuciones federales o locales, y
 
 VIII. Estar en una situación análoga a las mencionadas, que pueda afectar su imparcialidad.
 

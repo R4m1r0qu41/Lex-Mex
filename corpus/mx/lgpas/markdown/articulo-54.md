@@ -27,4 +27,4 @@ III. No iniciar la construcción de obras e instalaciones o la adquisición de e
 
 IV. No concluir las obras e instalaciones en las fechas señaladas.
 
-En los supuestos anteriores para que no constituyan causa de caducidad, se requiere que el interesado someta a consideración de la Secretaría los motivos que lo justifiquen para que ésta los califique y resuelva lo conducente.
+En los supuestos anteriores para que no constituyan causa de caducidad, se requiere que el interesado someta a consideración de la [Secretaría](articulo-4o.md) los motivos que lo justifiquen para que ésta los califique y resuelva lo conducente.

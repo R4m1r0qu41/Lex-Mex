@@ -19,7 +19,7 @@ source_sha256: 32639ede8448f91e6ddde556d4b8bceaf349b904bc21631f06e1c8a7a3d416f4
 
 Los Estados que no se adhieran al Sistema Nacional de Coordinación Fiscal participarán de la recaudación atribuible a sus respectivos territorios, conforme a las siguientes bases:
 
-I.- Del importe recaudado sobre cerveza:
+I.- Del importe recaudado sobre [cerveza](articulo-3o.md):
 
 a).- 2.8% a las entidades que la produzcan.
 
@@ -27,7 +27,7 @@ b).- 36.6% a las entidades donde se consuma.
 
 c).- 7.9% a los municipios de las entidades donde se consuma.
 
-II.- Del importe recaudado sobre gasolina:
+II.- Del importe recaudado sobre [gasolina](articulo-3o.md):
 
 a).- 8% a las entidades federativas.
 

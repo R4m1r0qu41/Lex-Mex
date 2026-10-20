@@ -19,6 +19,6 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 Audiencia de modificación por incumplimiento El Juez citará a las partes a una audiencia de adecuación de la medida por incumplimiento, que se realizará dentro de los diez días siguientes a la solicitud.
 
-En la audiencia, el Juez deberá escuchar a la persona adolescente y a la Defensa, quienes deberán exponer los motivos del incumplimiento, en su caso.
+En la audiencia, el Juez deberá escuchar a la persona adolescente y a la [Defensa](articulo-3.md), quienes deberán exponer los motivos del incumplimiento, en su caso.
 
-Si la persona adolescente estuviese en libertad y éste no se presentara, el Juez lo apercibirá con imponerle alguna de las medidas de apremio establecidas en el Código Nacional.
+Si la persona adolescente estuviese en libertad y éste no se presentara, el Juez lo apercibirá con imponerle alguna de las medidas de apremio establecidas en el [Código Nacional](articulo-3.md).

@@ -19,6 +19,6 @@ source_sha256: ce45c7c0c4e9099691e6e24bd2456d0b6f71f91ab27eedd5c4f2190b66d47741
 
 Los Poderes Legislativo y Judicial y los entes autónomos podrán autorizar erogaciones adicionales a las aprobadas en sus respectivos presupuestos, con cargo a los ingresos excedentes que en su caso generen, siempre y cuando:
 
-I. Registren ante la [Secretaría](articulo-2.md) dichos ingresos en los conceptos correspondientes de la Ley de Ingresos, y
+I. Registren ante la [Secretaría](articulo-2.md) dichos ingresos en los conceptos correspondientes de la [Ley de Ingresos](articulo-2.md), y
 
 II. Informen a la Secretaría sobre la obtención y la aplicación de dichos ingresos, para efectos de la integración de los informes trimestrales y la [Cuenta Pública](articulo-2.md).

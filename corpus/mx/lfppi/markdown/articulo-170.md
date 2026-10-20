@@ -17,4 +17,4 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 170
 
-Cualquier persona, física o moral, podrá hacer uso de marcas en la industria, en el comercio o en los servicios que presten. Sin embargo, el derecho a su uso exclusivo se obtiene mediante su registro en el Instituto.
+Cualquier persona, física o moral, podrá hacer uso de marcas en la industria, en el comercio o en los servicios que presten. Sin embargo, el derecho a su uso exclusivo se obtiene mediante su registro en el [Instituto](articulo-4.md).

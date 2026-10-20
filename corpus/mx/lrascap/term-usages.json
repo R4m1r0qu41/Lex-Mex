@@ -1819,6 +1819,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:31:term-usage:1692-1705",
+    "provision_id": "urn:lex-mx:federal:statute:lrascap:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lrascap:term:zona-rural",
+    "span": "Zonas Rurales",
+    "start_char": 1692,
+    "end_char": 1705
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lrascap:article:31:term-usage:1710-1718",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:31",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:comision",

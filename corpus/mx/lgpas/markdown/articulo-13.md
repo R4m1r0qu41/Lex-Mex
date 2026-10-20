@@ -19,9 +19,9 @@ source_sha256: 160e5e85efddb1749a79f6b154af31711a9b31a5e32bace3c07e2859c2620ecf
 
 Corresponden a los gobiernos de las Entidades Federativas, en el ámbito de su competencia de conformidad con lo dispuesto en esta Ley y lo que establezcan las leyes locales en la materia, las siguientes facultades: Párrafo reformado DOF 19-01-2018
 
-I. Diseñar y aplicar la política, los instrumentos y los programas para la pesca y la acuacultura estatal, en concordancia con la Política Nacional de Pesca y Acuacultura Sustentables, vinculándolos con los programas nacionales, sectoriales y regionales, así como con su respectivo Plan de Desarrollo de la entidad federativa; Fracción reformada DOF 19-01-2018
+I. Diseñar y aplicar la política, los instrumentos y los programas para la pesca y la acuacultura estatal, en concordancia con la Política Nacional de [Pesca](articulo-4o.md) y [Acuacultura](articulo-4o.md) Sustentables, vinculándolos con los programas nacionales, sectoriales y regionales, así como con su respectivo Plan de Desarrollo de la entidad federativa; Fracción reformada DOF 19-01-2018
 
-II. Formular y ejercer la política local de inspección y vigilancia pesquera y acuícola en el marco del Convenio específico signado con la Secretaría en estas materias y participar de conformidad con los acuerdos y convenios que se celebren con la Federación en las acciones de prevención y combate a la pesca ilegal, así como en la formulación y evaluación del Programa Integral de Inspección y Vigilancia para el Combate a la Pesca Ilegal;
+II. Formular y ejercer la política local de inspección y vigilancia pesquera y acuícola en el marco del Convenio específico signado con la [Secretaría](articulo-4o.md) en estas materias y participar de conformidad con los acuerdos y convenios que se celebren con la Federación en las acciones de prevención y combate a la pesca ilegal, así como en la formulación y evaluación del Programa Integral de Inspección y Vigilancia para el Combate a la Pesca Ilegal;
 
 III. Celebrar convenios o acuerdos de coordinación y colaboración con el gobierno federal en materia de pesca y acuacultura;
 
@@ -31,7 +31,7 @@ V. Integrar el Consejo de Pesca y Acuacultura de la entidad federativa para prom
 
 VI. Establecer, operar y mantener actualizado el Sistema de la entidad federativa de Información Pesquera y Acuícola y participar en la integración del Sistema Nacional de Información Pesquera y Acuícola, de conformidad con las disposiciones legales aplicables, así como integrar y operar el sistema estadístico pesquero y acuícola estatal y proporcionar la información estadística local a las autoridades federales competentes para actualizar la Carta Nacional Pesquera y la Carta Nacional Acuícola; Fracción reformada DOF 19-01-2018
 
-VII. Establecer, operar y mantener actualizado el Registro de la entidad federativa de Pesca y Acuacultura con carácter público y participar en la integración del Registro Nacional de Pesca y Acuacultura, de conformidad con las disposiciones legales aplicables; Fracción reformada DOF 19-01-2018
+VII. Establecer, operar y mantener actualizado el [Registro](articulo-4o.md) de la entidad federativa de Pesca y Acuacultura con carácter público y participar en la integración del Registro Nacional de Pesca y Acuacultura, de conformidad con las disposiciones legales aplicables; Fracción reformada DOF 19-01-2018
 
 VIII. Promover y apoyar la construcción, mejora y equipamiento de embarcaciones y artes de pesca, así como la creación y operación de esquemas de financiamiento adecuados para el desarrollo integral de la actividad pesquera y acuícola;
 

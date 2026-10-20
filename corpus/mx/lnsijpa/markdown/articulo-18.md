@@ -17,4 +17,4 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 # Artículo 18
 
-Mínima intervención y subsidiariedad La solución de controversias en los que esté involucrada alguna persona adolescente se hará prioritariamente sin recurrir a procedimientos judiciales, con pleno respeto a sus derechos humanos. Se privilegiará el uso de soluciones alternas en términos de esta Ley, el Código Nacional y la Ley de Mecanismos Alternativos.
+Mínima intervención y subsidiariedad La solución de controversias en los que esté involucrada alguna persona adolescente se hará prioritariamente sin recurrir a procedimientos judiciales, con pleno respeto a sus derechos humanos. Se privilegiará el uso de soluciones alternas en términos de esta [Ley](articulo-3.md), el [Código Nacional](articulo-3.md) y la [Ley de Mecanismos Alternativos](articulo-3.md).

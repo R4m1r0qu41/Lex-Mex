@@ -17,7 +17,7 @@ source_sha256: 32639ede8448f91e6ddde556d4b8bceaf349b904bc21631f06e1c8a7a3d416f4
 
 # Artículo 21
 
-Los contribuyentes del impuesto a que se refiere el artículo [2](articulo-2o.md)o., fracción I, inciso D) de esta Ley, presentarán una declaración semestral a más tardar el día 20 del mes de septiembre informando sobre los volúmenes y tipos de combustibles automotrices que en el primer semestre del año de calendario hayan enajenado, así como los autoconsumidos; y por el volumen y tipo de combustibles automotrices enajenados o autoconsumidos en el segundo semestre, el día 20 del mes de marzo del siguiente año de calendario. Estas declaraciones se presentarán con independencia de las demás declaraciones e información que establece esta Ley.
+Los contribuyentes del impuesto a que se refiere el artículo [2](articulo-2o.md)o., fracción I, inciso D) de esta Ley, presentarán una declaración semestral a más tardar el día 20 del mes de septiembre informando sobre los volúmenes y tipos de [combustibles automotrices](articulo-3o.md) que en el primer semestre del año de calendario hayan enajenado, así como los autoconsumidos; y por el volumen y tipo de combustibles automotrices enajenados o autoconsumidos en el segundo semestre, el día 20 del mes de marzo del siguiente año de calendario. Estas declaraciones se presentarán con independencia de las demás declaraciones e información que establece esta Ley.
 
 Las declaraciones a que se refiere el párrafo anterior deberán proporcionarse en los términos que señale el Servicio de Administración Tributaria, mediante reglas de carácter general.
 

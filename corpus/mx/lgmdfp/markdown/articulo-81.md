@@ -17,17 +17,17 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Artículo 81
 
-El Reporte puede realizarse las veinticuatro horas del día, todos los días del año, a través de cualquiera de los siguientes medios:
+El [Reporte](articulo-4.md) puede realizarse las veinticuatro horas del día, todos los días del año, a través de cualquiera de los siguientes medios:
 
 I. Telefónico, a través del número único nacional habilitado para tal efecto;
 
 II. Medios Digitales;
 
-III. Presencial, ante la Comisión Nacional de Búsqueda, las Comisiones Locales de Búsqueda y el Ministerio Público;
+III. Presencial, ante la [Comisión Nacional de Búsqueda](articulo-4.md), las [Comisiones Locales de Búsqueda](articulo-4.md) y el Ministerio Público;
 
-IV. Tratándose de personas que no residen en el territorio nacional, a través de las oficinas consulares o embajadas de México en el extranjero, las cuales deberán remitir sin dilación el Reporte a la Comisión Nacional de Búsqueda, a la Unidad de Investigación de Delitos para Personas Migrantes de la Fiscalía y a la Fiscalía Especializada que corresponda, o Fracción reformada DOF 20-05-2021
+IV. Tratándose de personas que no residen en el territorio nacional, a través de las oficinas consulares o embajadas de México en el extranjero, las cuales deberán remitir sin dilación el Reporte a la Comisión Nacional de Búsqueda, a la Unidad de Investigación de Delitos para Personas Migrantes de la [Fiscalía](articulo-4.md) y a la [Fiscalía Especializada](articulo-4.md) que corresponda, o Fracción reformada DOF 20-05-2021
 
-V. El Sistema Nacional, mediante acuerdo publicado en el Diario Oficial de la Federación, puede establecer medios adicionales a los previstos en este artículo para recibir Reportes.
+V. El [Sistema Nacional](articulo-4.md), mediante acuerdo publicado en el Diario Oficial de la Federación, puede establecer medios adicionales a los previstos en este artículo para recibir Reportes.
 
 Cuando la distancia o los medios de comunicación no permitan realizar el Reporte en términos de las fracciones anteriores, este puede realizarse ante la policía o la autoridad municipal que el Ayuntamiento designe para tal efecto y que cuente con la capacitación para aplicar el protocolo de búsqueda correspondiente.
 

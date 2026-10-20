@@ -1,0 +1,33 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-3",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-larefagn",
+  "source_sha256": "01b72308e67d46ba6ca8a6b07fb7584c6a74e905ea0c4b5be5c0c0d32a6d817a",
+  "extracted_text_sha256": "71930f8cb78e1905b297f4ef3914b0efa2e2fb58f808af1855a5075391109e9b",
+  "status": "detected",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:5",
+      "provision_text_sha256": "59065f58263f02a9cabb55e9b070794cc12dff1e32bcaff4947a822b6e91c6ba",
+      "method": "wider_pass",
+      "fractions": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI"
+      ],
+      "repeal_placeholders": [],
+      "term_count": 11
+    }
+  ],
+  "imports": [],
+  "term_count": 11,
+  "usage_count": 188
+}

@@ -17,4 +17,4 @@ source_sha256: 4e276866fce1638948a6daf1a5c0438fa412554f1a6e0381cbdf7cb300e3db75
 
 # Artículo 2o
 
-La aplicación de este Reglamento corresponde al Ejecutivo Federal, por conducto de la Secretaría de Medio Ambiente, Recursos Naturales y Pesca, sin perjuicio de las atribuciones de otras dependencias del Ejecutivo Federal, de los Estados, del Distrito Federal y de los Municipios, de conformidad con las disposiciones legales aplicables en el ámbito de su respectiva jurisdicción.
+La aplicación de este Reglamento corresponde al Ejecutivo Federal, por conducto de la [Secretaría](articulo-3o.md) de Medio Ambiente, Recursos Naturales y Pesca, sin perjuicio de las atribuciones de otras dependencias del Ejecutivo Federal, de los Estados, del Distrito Federal y de los Municipios, de conformidad con las disposiciones legales aplicables en el ámbito de su respectiva jurisdicción.

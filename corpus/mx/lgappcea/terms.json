@@ -1,1 +1,211 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgappcea:term:asistencia-social",
+    "term": "Asistencia social",
+    "instrument_id": "urn:lex-mx:federal:statute:lgappcea",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgappcea:article:3",
+    "fraction": "I",
+    "start_char": 47,
+    "end_char": 396,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgappcea:term:barreras-socioculturales",
+    "term": "Barreras socioculturales",
+    "instrument_id": "urn:lex-mx:federal:statute:lgappcea",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgappcea:article:3",
+    "fraction": "II",
+    "start_char": 396,
+    "end_char": 721,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgappcea:term:[certificado-de-habilitacion",
+    "term": "[Certificado de habilitación",
+    "instrument_id": "urn:lex-mx:federal:statute:lgappcea",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgappcea:article:3",
+    "fraction": "III",
+    "start_char": 721,
+    "end_char": 1132,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgappcea:term:comision",
+    "term": "Comisión",
+    "instrument_id": "urn:lex-mx:federal:statute:lgappcea",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgappcea:article:3",
+    "fraction": "IV",
+    "start_char": 1132,
+    "end_char": 1253,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgappcea:term:concurrencia",
+    "term": "Concurrencia",
+    "instrument_id": "urn:lex-mx:federal:statute:lgappcea",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgappcea:article:3",
+    "fraction": "V",
+    "start_char": 1253,
+    "end_char": 1554,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgappcea:term:derechos-humanos",
+    "term": "Derechos humanos",
+    "instrument_id": "urn:lex-mx:federal:statute:lgappcea",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgappcea:article:3",
+    "fraction": "VI",
+    "start_char": 1554,
+    "end_char": 2074,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgappcea:term:discapacidad",
+    "term": "Discapacidad",
+    "instrument_id": "urn:lex-mx:federal:statute:lgappcea",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgappcea:article:3",
+    "fraction": "VII",
+    "start_char": 2074,
+    "end_char": 2357,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgappcea:term:discriminacion",
+    "term": "Discriminación",
+    "instrument_id": "urn:lex-mx:federal:statute:lgappcea",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgappcea:article:3",
+    "fraction": "VIII",
+    "start_char": 2357,
+    "end_char": 2611,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgappcea:term:habilitacion-terapeutica",
+    "term": "Habilitación terapéutica",
+    "instrument_id": "urn:lex-mx:federal:statute:lgappcea",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgappcea:article:3",
+    "fraction": "IX",
+    "start_char": 2611,
+    "end_char": 2897,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgappcea:term:inclusion",
+    "term": "Inclusión",
+    "instrument_id": "urn:lex-mx:federal:statute:lgappcea",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgappcea:article:3",
+    "fraction": "X",
+    "start_char": 2897,
+    "end_char": 3052,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgappcea:term:integracion",
+    "term": "Integración",
+    "instrument_id": "urn:lex-mx:federal:statute:lgappcea",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgappcea:article:3",
+    "fraction": "XI",
+    "start_char": 3052,
+    "end_char": 3218,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgappcea:term:personas-con-la-condicion-del-espectro-autista",
+    "term": "Personas con la condición del espectro autista",
+    "instrument_id": "urn:lex-mx:federal:statute:lgappcea",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgappcea:article:3",
+    "fraction": "XII",
+    "start_char": 3218,
+    "end_char": 3466,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgappcea:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:statute:lgappcea",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgappcea:article:3",
+    "fraction": "XIII",
+    "start_char": 3466,
+    "end_char": 3506,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgappcea:term:sector-social",
+    "term": "Sector social",
+    "instrument_id": "urn:lex-mx:federal:statute:lgappcea",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgappcea:article:3",
+    "fraction": "XIV",
+    "start_char": 3506,
+    "end_char": 3638,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgappcea:term:sector-privado",
+    "term": "Sector privado",
+    "instrument_id": "urn:lex-mx:federal:statute:lgappcea",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgappcea:article:3",
+    "fraction": "XV",
+    "start_char": 3638,
+    "end_char": 3821,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgappcea:term:seguridad-juridica",
+    "term": "Seguridad jurídica",
+    "instrument_id": "urn:lex-mx:federal:statute:lgappcea",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgappcea:article:3",
+    "fraction": "XVI",
+    "start_char": 3821,
+    "end_char": 4089,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgappcea:term:seguridad-social",
+    "term": "Seguridad social",
+    "instrument_id": "urn:lex-mx:federal:statute:lgappcea",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgappcea:article:3",
+    "fraction": "XVII",
+    "start_char": 4089,
+    "end_char": 4318,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgappcea:term:sustentabilidad-ambiental",
+    "term": "Sustentabilidad ambiental",
+    "instrument_id": "urn:lex-mx:federal:statute:lgappcea",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgappcea:article:3",
+    "fraction": "XVIII",
+    "start_char": 4318,
+    "end_char": 4649,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgappcea:term:transversalidad",
+    "term": "Transversalidad",
+    "instrument_id": "urn:lex-mx:federal:statute:lgappcea",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgappcea:article:3",
+    "fraction": "XIX",
+    "start_char": 4649,
+    "end_char": 5056,
+    "basis": "express_definition"
+  }
+]

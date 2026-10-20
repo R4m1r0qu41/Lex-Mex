@@ -17,4 +17,4 @@ source_sha256: 6680a58c98673518aee46582b3137d28987c275785d1f0c97295f0d89c4b692b
 
 # Artículo 47
 
-La Secretaría, una vez publicado el Programa General y a solicitud de los Estados y del Distrito Federal, coadyuvará en la definición de la metodología y elaboración de los Programas Locales.
+La Secretaría, una vez publicado el [Programa General](articulo-2.md) y a solicitud de los Estados y del Distrito Federal, coadyuvará en la definición de la metodología y elaboración de los [Programas Locales](articulo-2.md).

@@ -53,4 +53,4 @@ b) En su caso, número y fecha de la concesión de acuacultura comercial, y
 
 V. En el caso de propietarios de laboratorios de producción acuícola, para la obtención de reproductores, únicamente para satisfacer sus necesidades de operación, además de la información señalada en la fracción I y de los documentos establecidos por la fracción II de este artículo, deberán proporcionar el nombre y ubicación del laboratorio.
 
-La captura y recolección del medio natural de los organismos acuáticos en cualquier estadio, se sujetará a las normas que, en su caso, emita la Secretaría, mismas que serán publicadas en el Diario Oficial de la Federación, quedando prohibida su captura con fines distintos a los de investigación o al de abasto para la acuacultura.
+La captura y recolección del medio natural de los organismos acuáticos en cualquier estadio, se sujetará a las normas que, en su caso, emita la [Secretaría](articulo-2o.md), mismas que serán publicadas en el Diario Oficial de la Federación, quedando prohibida su captura con fines distintos a los de investigación o al de abasto para la acuacultura.

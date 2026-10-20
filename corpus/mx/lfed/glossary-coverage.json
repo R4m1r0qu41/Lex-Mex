@@ -1,0 +1,44 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-3",
+  "instrument_id": "urn:lex-mx:federal:statute:lfed",
+  "source_sha256": "e6a8ce3c4efe726e0336a029d6906fcefe2f517c2cf1e44edea9c4862ddd8c68",
+  "extracted_text_sha256": "d9a440cacb5ea9075d1d2e947f613c4a1d641e6ae611ec738aed41c53626f1e0",
+  "status": "detected",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lfed:article:2",
+      "provision_text_sha256": "f32d297195a04c9e6a31836b8d7540084bff77f4fa4044e0e74ddb9433712d28",
+      "method": "established_pass",
+      "fractions": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII",
+        "XIII",
+        "XIV",
+        "XV",
+        "XVI",
+        "XVII",
+        "XVIII",
+        "XIX",
+        "XX",
+        "XXI",
+        "XXII"
+      ],
+      "unread_fractions": [],
+      "term_count": 22
+    }
+  ],
+  "imports": [],
+  "term_count": 22,
+  "usage_count": 695
+}

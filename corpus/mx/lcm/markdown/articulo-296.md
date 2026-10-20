@@ -17,7 +17,7 @@ source_sha256: 8e270686b885035488bfe310b0b42bb40e7154431794227ebe212dd7dc12e46a
 
 # Artículo 296
 
-Salvo lo dispuesto en el artículo [281](articulo-281.md) de esta Ley se otorgará reconocimiento a un Procedimiento Extranjero cuando:
+Salvo lo dispuesto en el artículo [281](articulo-281.md) de esta [Ley](articulo-4o.md) se otorgará reconocimiento a un Procedimiento Extranjero cuando:
 
 I. El Procedimiento Extranjero sea un procedimiento en el sentido de la fracción I del anterior artículo [279](articulo-279.md);
 

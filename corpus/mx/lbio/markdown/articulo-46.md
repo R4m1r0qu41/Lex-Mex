@@ -17,4 +17,4 @@ source_sha256: c1870db657a6564bbeb692a1778472db811a920626822de553ff5ca5194f95b4
 
 # Artículo 46
 
-Contra los actos de autoridad emitidos con motivo de la aplicación de esta Ley, los programas y demás disposiciones que deriven de la misma, se están a lo dispuesto en la Ley Federal de Procedimiento Administrativo.
+Contra los actos de autoridad emitidos con motivo de la aplicación de esta [Ley](articulo-2.md), los programas y demás disposiciones que deriven de la misma, se están a lo dispuesto en la Ley Federal de Procedimiento Administrativo.

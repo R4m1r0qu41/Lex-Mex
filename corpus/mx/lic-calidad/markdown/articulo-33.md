@@ -17,4 +17,4 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 # Artículo 33
 
-En todo momento, la Comisión podrá requerir a las Autoridades Normalizadoras que se analice la aplicación, efectos, observancia y cumplimiento de una Norma Oficial Mexicana a fin de que éstas elaboren y sometan a consideración de la Comisión un plan de acción para mejorar sus alcances e implementación.
+En todo momento, la [Comisión](articulo-4.md) podrá requerir a las [Autoridades Normalizadoras](articulo-4.md) que se analice la aplicación, efectos, observancia y cumplimiento de una [Norma Oficial Mexicana](articulo-4.md) a fin de que éstas elaboren y sometan a consideración de la Comisión un plan de acción para mejorar sus alcances e implementación.

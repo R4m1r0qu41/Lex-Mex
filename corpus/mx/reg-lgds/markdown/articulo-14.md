@@ -17,4 +17,4 @@ source_sha256: aca2d65d2eef1b7c26ab431772ce7364305d103f5e4bacc87da02064df005ae3
 
 # Artículo 14
 
-La Secretaría, en el ámbito de su competencia, será la encargada de promover, coordinar y concertar, según sea el caso, acciones con los sectores público, social y privado, para el cumplimiento y la ejecución del Programa Nacional, conforme a lo previsto en la Ley, la Ley de Planeación y el presente Reglamento.
+La Secretaría, en el ámbito de su competencia, será la encargada de promover, coordinar y concertar, según sea el caso, acciones con los sectores público, social y privado, para el cumplimiento y la ejecución del [Programa Nacional](articulo-3.md), conforme a lo previsto en la [Ley](articulo-3.md), la Ley de Planeación y el presente Reglamento.

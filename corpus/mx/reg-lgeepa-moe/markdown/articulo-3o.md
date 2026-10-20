@@ -17,7 +17,7 @@ source_sha256: d25fabb2d2e90d9f76028717f83c442d05a4f64024f13461285bda8ebd389a04
 
 # Artículo 3o
 
-Para los efectos de este Reglamento se estará a las definiciones previstas en la Ley General del Equilibrio Ecológico y la Protección al Ambiente y demás leyes aplicables, así como a las siguientes:
+Para los efectos de este [Reglamento](articulo-3o.md) se estará a las definiciones previstas en la [Ley](articulo-3o.md) General del Equilibrio Ecológico y la Protección al Ambiente y demás leyes aplicables, así como a las siguientes:
 
 I. Actividades incompatibles.- Aquellas que se presentan cuando un sector disminuye la capacidad de otro para aprovechar los recursos naturales, mantener los bienes y los servicios ambientales o proteger los ecosistemas y la biodiversidad de un área determinada;
 

@@ -17,6 +17,6 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 98
 
-Los sujetos de aseguramiento señalados en este Título, se someterán a los exámenes y estudios que el Instituto determine para constatar su estado de salud.
+Los sujetos de aseguramiento señalados en este Título, se someterán a los exámenes y estudios que el [Instituto](../../lss/markdown/articulo-5-A.md) determine para constatar su estado de salud.
 
 En todos los casos y previamente al aseguramiento, los sujetos de aseguramiento y sus familiares deberán llenar y firmar individualmente el cuestionario médico que para tal efecto les será proporcionado por el Instituto, a excepción de los casos en que el sujeto de aseguramiento labore en el extranjero, en cuyo caso se llenará un cuestionario médico familiar. Tratándose de menores de edad o, en su caso, de incapacitados, el llenado y firma del cuestionario estará a cargo de quien ejerza la patria potestad o la tutela.

@@ -17,7 +17,7 @@ source_sha256: 51d855a586ad7017a8d8f5c36819a2bd0d3d488f3f4b23594a729418a8b776b4
 
 # Artículo 38
 
-El Pleno de la Comisión Ejecutiva cuenta con una Secretaría Técnica, que ejerce las atribuciones siguientes:
+El Pleno de la Comisión Ejecutiva cuenta con una [Secretaría Técnica](articulo-3.md), que ejerce las atribuciones siguientes:
 
 I. Elaborar, suscribir, convocar y notificar las convocatorias a las sesiones ordinarias y extraordinarias del Pleno de la Comisión Ejecutiva;
 
@@ -33,4 +33,4 @@ VI. Integrar y someter a consideración de los comisionados el informe anual que
 
 VII. Elaborar las actas correspondientes, así como dar seguimiento a los acuerdos que se adopten en el Pleno de la Comisión Ejecutiva; VIII. Dar cuenta sobre las propuestas presentadas por instituciones u organizaciones privadas o sociales, colectivos o grupos de víctimas, que deban ser del conocimiento del Pleno de la Comisión Ejecutiva o del Sistema, y
 
-IX. Las demás que el Estatuto Orgánico le confiera y las que le encomiende el Pleno de la Comisión Ejecutiva.
+IX. Las demás que el [Estatuto Orgánico](articulo-3.md) le confiera y las que le encomiende el Pleno de la Comisión Ejecutiva.

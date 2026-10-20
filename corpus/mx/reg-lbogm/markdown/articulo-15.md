@@ -33,7 +33,7 @@ a) De ser el caso, las razones por las que se considera que el promovente no ate
 
 b) Las razones científicas o técnicas por las que se considera que los riesgos que pudieran presentar los OGM de que se trate, afectarán negativamente a la diversidad biológica, al medio ambiente, la sanidad animal, vegetal o acuícola, pudiéndoles causar daños graves o irreversibles;
 
-c) Las razones por las que la liberación solicitada contraviene la Ley, el presente Reglamento y las demás disposiciones aplicables, y
+c) Las razones por las que la liberación solicitada contraviene la [Ley](articulo-2.md), el presente Reglamento y las demás disposiciones aplicables, y
 
 d) Las demás determinaciones que formule la autoridad en ejercicio del enfoque precautorio establecido en la Ley.
 

@@ -17,6 +17,6 @@ source_sha256: 8515c812258bcc7c342e8566ff623c7f5e880f2eb9ee2ad154758077089f11ca
 
 # Artículo 16
 
-La Promoción General deberá atender los conceptos que se establecen en los artículos [18](../../laam/markdown/articulo-18.md) y [34](../../laam/markdown/articulo-34.md) de la Ley, en los términos que se prevén en dicha Ley, lo dispuesto por el presente Reglamento y demás disposiciones aplicables.
+La [Promoción General](articulo-5.md) deberá atender los conceptos que se establecen en los artículos [18](../../laam/markdown/articulo-18.md) y [34](../../laam/markdown/articulo-34.md) de la [Ley](articulo-5.md), en los términos que se prevén en dicha Ley, lo dispuesto por el presente Reglamento y demás disposiciones aplicables.
 
 Artículo reformado DOF 22-09-2010

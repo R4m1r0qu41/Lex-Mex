@@ -18,7 +18,7 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 17 Bis
 
-La Sociedad podrá pactar la celebración de sus operaciones y la prestación de servicios con sus Socios, a través de [Servicios Electrónicos](articulo-1.md), debiendo sujetarse a lo establecido por las presentes disposiciones y siempre que:
+La Sociedad podrá pactar la celebración de sus operaciones y la prestación de servicios con sus [Socios](articulo-1.md), a través de [Servicios Electrónicos](articulo-1.md), debiendo sujetarse a lo establecido por las presentes disposiciones y siempre que:
 
 I. En la contratación respectiva se establezca de manera clara y precisa, lo siguiente:
 

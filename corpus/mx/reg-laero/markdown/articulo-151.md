@@ -15,7 +15,7 @@ source_sha256: ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776
 
 # Artículo 151
 
-El concesionario o permisionario de un aeródromo civil debe contar con medidas de seguridad en las que se establezcan los dispositivos de control y los planes de contingencia y emergencia, en términos de la Ley, este Reglamento y las normas básicas de seguridad.
+El concesionario o permisionario de un aeródromo civil debe contar con medidas de seguridad en las que se establezcan los dispositivos de control y los planes de contingencia y emergencia, en términos de la [Ley](articulo-2.md), este Reglamento y las normas básicas de seguridad.
 
 Las normas básicas de seguridad se elaborarán conforme a los lineamientos que señale el Programa Nacional de Seguridad Aeroportuaria.
 

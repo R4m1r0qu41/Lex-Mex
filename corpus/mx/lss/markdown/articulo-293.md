@@ -21,7 +21,7 @@ En los casos en que una pensión u otra prestación en dinero se haya concedido 
 
 I. Si la modificación es en favor del asegurado o beneficiario:
 
-a) Desde la fecha de la vigencia de la prestación, si el error se debió al Instituto o a la Administradora de Fondos para el Retiro, que administre la cuenta individual del trabajador o a la Aseguradora respectiva.
+a) Desde la fecha de la vigencia de la prestación, si el error se debió al [Instituto](articulo-5-A.md) o a la Administradora de Fondos para el Retiro, que administre la cuenta individual del trabajador o a la Aseguradora respectiva.
 
 b) Desde la fecha en que se dicte el acuerdo de modificación, si el error se debió a datos falsos suministrados por el interesado.
 

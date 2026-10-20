@@ -15,4 +15,4 @@ source_sha256: 9478163ef6ab468edc2be8def3bf84efedd03da5b6c166fba0430bfcb6d8467c
 
 # Cuarto
 
-Los recursos de reconsideración presentados con anterioridad a la entrada en vigor del presente decreto deben ser sustanciados y resueltos conforme al Reglamento de la Ley de la Comisión Federal de Electricidad, vigente al momento de su interposición.
+Los recursos de reconsideración presentados con anterioridad a la entrada en vigor del presente decreto deben ser sustanciados y resueltos conforme al Reglamento de la [Ley](articulo-2.md) de la Comisión Federal de Electricidad, vigente al momento de su interposición.

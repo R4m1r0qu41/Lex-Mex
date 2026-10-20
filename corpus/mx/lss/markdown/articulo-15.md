@@ -19,15 +19,15 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 Las personas empleadoras están obligadas a: Párrafo reformado DOF 24-01-2024
 
-I. Registrarse e inscribir a sus trabajadores en el Instituto, comunicar sus altas y bajas, las modificaciones de su salario y los demás datos, dentro de plazos no mayores de cinco días hábiles; Fracción reformada DOF 20-12-2001
+I. Registrarse e inscribir a sus trabajadores en el [Instituto](articulo-5-A.md), comunicar sus altas y bajas, las modificaciones de su salario y los demás datos, dentro de plazos no mayores de cinco días hábiles; Fracción reformada DOF 20-12-2001
 
-II. Llevar registros, tales como nóminas y listas de raya en las que se asiente invariablemente el número de días trabajados y los salarios percibidos por sus trabajadores, además de otros datos que exijan la presente Ley y sus reglamentos. Es obligatorio conservar estos registros durante los cinco años siguientes al de su fecha;
+II. Llevar registros, tales como nóminas y listas de raya en las que se asiente invariablemente el número de días trabajados y los salarios percibidos por sus trabajadores, además de otros datos que exijan la presente [Ley](articulo-5-A.md) y sus reglamentos. Es obligatorio conservar estos registros durante los cinco años siguientes al de su fecha;
 
 III. Determinar las cuotas obrero patronales a su cargo y enterar su importe al Instituto; Fracción reformada DOF 20-12-2001
 
 IV. Proporcionar al Instituto los elementos necesarios para precisar la existencia, naturaleza y cuantía de las obligaciones a su cargo establecidas por esta Ley y los reglamentos que correspondan;
 
-V. Permitir las inspecciones y visitas domiciliarias que practique el Instituto, las que se sujetarán a lo establecido por esta Ley, el Código y los reglamentos respectivos; Fracción reformada DOF 20-12-2001
+V. Permitir las inspecciones y visitas domiciliarias que practique el Instituto, las que se sujetarán a lo establecido por esta Ley, el [Código](articulo-5-A.md) y los reglamentos respectivos; Fracción reformada DOF 20-12-2001
 
 VI. Tratándose de patrones que se dediquen en forma permanente o esporádica a la actividad de la construcción, deberán expedir y entregar a cada trabajador constancia escrita del número de días trabajados y del salario percibido, semanal o quincenalmente, conforme a los períodos de pago establecidos, las cuales, en su caso, podrán ser exhibidas por los trabajadores para acreditar sus derechos.
 

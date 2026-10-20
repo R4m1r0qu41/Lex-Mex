@@ -17,7 +17,7 @@ source_sha256: 39d132d9b54587ce0636972dfe474936d152717e7d656864e160a637347628c6
 
 # Artículo 14
 
-Las personas físicas o morales deben comunicar inmediatamente a la Comisión Federal para la Protección contra Riesgos Sanitarios mediante el Sistema Integral de Sustancias, lo siguiente: Párrafo reformado DOF 03-05-2023
+Las personas físicas o morales deben comunicar inmediatamente a la Comisión Federal para la Protección contra Riesgos Sanitarios mediante el [Sistema Integral de Sustancias](articulo-2.md), lo siguiente: Párrafo reformado DOF 03-05-2023
 
 I. Cualquier actividad regulada que involucre un volumen extraordinario de precursores químicos o productos químicos esenciales, un método de pago o entrega inusual, o cualquier circunstancia que pueda implicar un desvío; LEY FEDERAL PARA EL CONTROL DE PRECURSORES QUÍMICOS, PRODUCTOS QUÍMICOS ESENCIALES Y MÁQUINAS PARA ELABORAR CÁPSULAS, TABLETAS Y/O COMPRIMIDOS II. La propuesta para realizar cualquiera de las actividades reguladas cuya descripción o características coincidan con la información proporcionada previamente por cualquiera de las dependencias, y Fracción reformada DOF 03-05-2023
 

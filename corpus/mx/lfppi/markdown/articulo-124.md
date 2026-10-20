@@ -17,6 +17,6 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 124
 
-Será procedente la limitación del derecho conferido por un registro de diseño industrial, a la que hace referencia el artículo [121](articulo-121.md) de esta Ley, cuando los cambios propuestos no eliminen las características que confieren novedad al diseño o no amplíen la protección conferida por el registro.
+Será procedente la limitación del derecho conferido por un registro de diseño industrial, a la que hace referencia el artículo [121](articulo-121.md) de esta [Ley](articulo-4.md), cuando los cambios propuestos no eliminen las características que confieren novedad al diseño o no amplíen la protección conferida por el registro.
 
 La limitación se efectuará sin perjuicio de las resoluciones exigibles previamente dictadas sobre infracciones al registro de diseño industrial, tal y como fue concedido.

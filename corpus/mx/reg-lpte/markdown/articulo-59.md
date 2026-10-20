@@ -17,4 +17,4 @@ source_sha256: 716e427a30e9982ccaa0576288aad2ad5305c624b236a0f342b6a87d60b7a9ed
 
 # Artículo 59
 
-El Sistema Nacional de Información Energética tiene como finalidad concentrar, registrar, organizar, actualizar y difundir la información del Sector Energético para apoyar a la Secretaría a ejercer la planeación vinculante del Sector Energético.
+El Sistema Nacional de Información Energética tiene como finalidad concentrar, registrar, organizar, actualizar y difundir la información del Sector Energético para apoyar a la [Secretaría](articulo-5.md) a ejercer la planeación vinculante del Sector Energético.

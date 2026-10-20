@@ -17,4 +17,4 @@ source_sha256: 35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc
 
 # Artículo 93
 
-Las Secretarías de la Defensa Nacional y de Marina informarán del fallecimiento de los militares al Instituto, el cual tendrá la obligación de notificar fehacientemente por escrito a los beneficiarios para los efectos de este seguro.
+Las Secretarías de la Defensa Nacional y de Marina informarán del fallecimiento de los militares al [Instituto](articulo-4o.md), el cual tendrá la obligación de notificar fehacientemente por escrito a los beneficiarios para los efectos de este seguro.

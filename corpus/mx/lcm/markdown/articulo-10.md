@@ -17,7 +17,7 @@ source_sha256: 8e270686b885035488bfe310b0b42bb40e7154431794227ebe212dd7dc12e46a
 
 # Artículo 10
 
-Para los efectos de esta Ley, el incumplimiento generalizado en el pago de las obligaciones de un [Comerciante](articulo-4o.md) a que se refiere el [artículo anterior](articulo-9o.md), consiste en el incumplimiento en sus obligaciones de pago a dos o más acreedores distintos y se presenten las siguientes condiciones:
+Para los efectos de esta [Ley](articulo-4o.md), el incumplimiento generalizado en el pago de las obligaciones de un [Comerciante](articulo-4o.md) a que se refiere el [artículo anterior](articulo-9o.md), consiste en el incumplimiento en sus obligaciones de pago a dos o más acreedores distintos y se presenten las siguientes condiciones:
 
 I. Que de aquellas obligaciones vencidas a las que se refiere el párrafo anterior, las que tengan por lo menos treinta días de haber vencido representen el treinta y cinco por ciento o más de todas las obligaciones a cargo del Comerciante a la fecha en que se haya presentado la demanda o solicitud de concurso, y
 

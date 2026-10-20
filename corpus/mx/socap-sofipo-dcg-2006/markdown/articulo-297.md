@@ -18,6 +18,6 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 297
 
-El Comité Técnico, de conformidad con lo previsto en el presente Capítulo y en función del saldo al último día del mes de los depósitos de dinero que las Entidades reporten a las Federaciones, efectuará los cálculos para la determinación de las cuotas correspondientes al mes de que se trate.
+El Comité Técnico, de conformidad con lo previsto en el presente Capítulo y en función del saldo al último día del mes de los depósitos de dinero que las Entidades reporten a las [Federaciones](articulo-1.md), efectuará los cálculos para la determinación de las cuotas correspondientes al mes de que se trate.
 
 Segundo párrafo.- Derogado.

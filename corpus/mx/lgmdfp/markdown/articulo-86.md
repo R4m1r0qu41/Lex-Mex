@@ -17,7 +17,7 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Artículo 86
 
-La autoridad que recabe la Denuncia, Reporte o Noticia debe transmitirlo inmediatamente, a través de cualquier medio tecnológico o de telecomunicación, a la comisión que corresponda en términos de lo dispuesto en esta Ley. Asimismo, se encuentra obligada a aplicar todas las medidas necesarias para evitar la revictimización.
+La autoridad que recabe la Denuncia, [Reporte](articulo-4.md) o [Noticia](articulo-4.md) debe transmitirlo inmediatamente, a través de cualquier medio tecnológico o de telecomunicación, a la comisión que corresponda en términos de lo dispuesto en esta Ley. Asimismo, se encuentra obligada a aplicar todas las medidas necesarias para evitar la revictimización.
 
 Las autoridades que reciban la Denuncia, el Reporte o Noticia deberán implementar, inmediatamente, las acciones de búsqueda que les correspondan, de conformidad con lo dispuesto en el protocolo correspondiente.
 

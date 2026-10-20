@@ -17,4 +17,4 @@ source_sha256: cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7
 
 # Artículo 64
 
-Las autoridades a que se refiere la fracción IV del [artículo anterior](articulo-63.md), deberán contestar la solicitud que les formule la Comisión Nacional en un plazo no mayor de diez días hábiles contados a partir de la fecha en que reciban la solicitud.
+Las autoridades a que se refiere la fracción IV del [artículo anterior](articulo-63.md), deberán contestar la solicitud que les formule la [Comisión Nacional](articulo-2o.md) en un plazo no mayor de diez días hábiles contados a partir de la fecha en que reciban la solicitud.

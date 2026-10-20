@@ -17,4 +17,4 @@ source_sha256: d23aedc9ffdb09b9202311f03023241da20445cb45aea855b37bfd9685768861
 
 # Artículo 49
 
-El cargo de Secretariado Ejecutivo se ejerce por la persona titular de la Unidad Administrativa prevista en el Reglamento Interior de la Secretaría de Economía con la facultad de ejercer las atribuciones que la Ley le confiere a la Secretaría.
+El cargo de Secretariado Ejecutivo se ejerce por la persona titular de la Unidad Administrativa prevista en el Reglamento Interior de la Secretaría de Economía con la facultad de ejercer las atribuciones que la [Ley](articulo-2.md) le confiere a la Secretaría.

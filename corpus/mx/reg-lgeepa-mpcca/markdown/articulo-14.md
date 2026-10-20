@@ -17,4 +17,4 @@ source_sha256: cf47ab93fdea40d2b3e41b58784df62f89dd90b4482dd3b7f25adc7f6957036b
 
 # Artículo 14
 
-La Secretaría, previos los estudios correspondientes, promoverá ante las autoridades competentes la reubicación de las fuentes fijas, cuando las condiciones topográficas y meteorológicas del sitio en el que se ubican, dificulten la adecuada dispersión de contaminantes a la atmósfera, cuando la calidad del aire así lo requiera, o cuando las características de los contaminantes constituyan un riesgo inminente de desequilibrio ecológico.
+La [Secretaría](articulo-6o.md), previos los estudios correspondientes, promoverá ante las autoridades competentes la reubicación de las fuentes fijas, cuando las condiciones topográficas y meteorológicas del sitio en el que se ubican, dificulten la adecuada dispersión de contaminantes a la atmósfera, cuando la calidad del aire así lo requiera, o cuando las características de los contaminantes constituyan un riesgo inminente de desequilibrio ecológico.

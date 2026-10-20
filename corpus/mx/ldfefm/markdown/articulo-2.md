@@ -39,7 +39,7 @@ IX. Entes Públicos: los poderes Ejecutivo, Legislativo y Judicial, los organism
 
 X. Entidades Federativas: los Estados de la Federación y la Ciudad de México;
 
-XI. Financiamiento: toda operación constitutiva de un pasivo, directo o contingente, de corto, mediano o largo plazo, a cargo de los Entes Públicos, derivada de un crédito, empréstito o préstamo, incluyendo arrendamientos y factorajes financieros o cadenas productivas, independientemente de la forma mediante la que se instrumente; XII. Financiamiento Neto: la suma de las disposiciones realizadas de un Financiamiento, y las Disponibilidades, menos las amortizaciones efectuadas de la [Deuda Pública](articulo-2.md); Fracción reformada DOF 30-01-2018
+XI. Financiamiento: toda operación constitutiva de un pasivo, directo o contingente, de corto, mediano o largo plazo, a cargo de los Entes Públicos, derivada de un crédito, empréstito o préstamo, incluyendo arrendamientos y factorajes financieros o cadenas productivas, independientemente de la forma mediante la que se instrumente; XII. Financiamiento Neto: la suma de las disposiciones realizadas de un Financiamiento, y las [Disponibilidades](articulo-2.md), menos las amortizaciones efectuadas de la [Deuda Pública](articulo-2.md); Fracción reformada DOF 30-01-2018
 
 XIII. Fuente de pago: los recursos utilizados por los Entes Públicos para el pago de cualquier Financiamiento u Obligación;
 

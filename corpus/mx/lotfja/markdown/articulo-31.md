@@ -21,6 +21,6 @@ Los asuntos cuyo despacho competa a las Salas Regionales, serán asignados por t
 
 Para la validez de las sesiones de la Sala, será indispensable la presencia de los tres Magistrados y para resolver bastará mayoría de votos.
 
-En los juicios en la vía sumaria, el Magistrado que haya instruido el juicio lo resolverá, en términos de lo previsto en la Ley Federal de Procedimiento Contencioso Administrativo.
+En los juicios en la vía sumaria, el Magistrado que haya instruido el juicio lo resolverá, en términos de lo previsto en la [Ley](articulo-2.md) Federal de Procedimiento Contencioso Administrativo.
 
 Las sesiones de las Salas Regionales, así como las diligencias o audiencias que deban practicar serán públicas y se transmitirán por los medios electrónicos que faciliten su seguimiento, resguardando los datos personales de conformidad con la Ley Federal de Protección de Datos Personales en Posesión de los Particulares, la Ley Federal de Transparencia y Acceso a la Información Pública y la Ley General de Transparencia y Acceso a la Información Pública. Sólo en los casos que la Ley lo establezca, las sesiones podrán ser privadas, sin embargo, de estas se harán versiones públicas para la consulta ciudadana que, en su caso, sea requerida.

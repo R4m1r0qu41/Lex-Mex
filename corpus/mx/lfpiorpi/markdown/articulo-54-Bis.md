@@ -15,6 +15,6 @@ source_sha256: 2e35228bd3100a3a137f313359833c4836f2b4b6d4e52e1ce4fe58a970cd768f
 
 # Artículo 54 Bis
 
-La [Secretaría](articulo-3.md) podrá determinar, conforme a los mecanismos que para tal efecto se emitan en términos de las reglas de carácter general, que quienes realizan [Actividades Vulnerables](articulo-3.md) suspendan de manera temporal la realización de actos u operaciones con determinadas personas Clientes o Usuarias en tanto se subsane o resuelva el procedimiento establecido en dichos mecanismos.
+La [Secretaría](articulo-3.md) podrá determinar, conforme a los mecanismos que para tal efecto se emitan en términos de las reglas de carácter general, que quienes realizan [Actividades Vulnerables](articulo-3.md) suspendan de manera temporal la realización de actos u operaciones con determinadas personas [Clientes o Usuarias](articulo-3.md) en tanto se subsane o resuelva el procedimiento establecido en dichos mecanismos.
 
 Artículo adicionado DOF 16-07-2025

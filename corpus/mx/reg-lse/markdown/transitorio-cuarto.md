@@ -15,4 +15,4 @@ source_sha256: 4bcc982b308b0813469b30db61b53d5a2c41e5a7240b3b1cac2f1aeeb2c00a2e
 
 # Cuarto
 
-Las disposiciones jurídicas emitidas con anterioridad a la entrada en vigor del presente reglamento continúan vigentes hasta que inicie la vigencia de aquellas que las sustituyan, en lo que no se oponga a la Ley y el presente reglamento.
+Las disposiciones jurídicas emitidas con anterioridad a la entrada en vigor del presente reglamento continúan vigentes hasta que inicie la vigencia de aquellas que las sustituyan, en lo que no se oponga a la [Ley](articulo-2.md) y el presente reglamento.

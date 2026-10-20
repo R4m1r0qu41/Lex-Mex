@@ -17,4 +17,4 @@ source_sha256: 23dcee090bbe0c4fb06c75d084cb65ce0b2e8f72a8d082e7059504412bde1614
 
 # Artículo 69
 
-El responsable de ejecutar las medidas provisionales, deberá proceder, en lo conducente, con arreglo a lo dispuesto por la Ley Federal de Procedimiento Administrativo.
+El responsable de ejecutar las medidas provisionales, deberá proceder, en lo conducente, con arreglo a lo dispuesto por la [Ley](articulo-2o.md) Federal de Procedimiento Administrativo.

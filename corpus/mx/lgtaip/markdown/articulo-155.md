@@ -17,4 +17,4 @@ source_sha256: e81e23876bd08da81cb8392af7054f6187ad043ca8f965777b455f9d12554e8b
 
 # Artículo 155
 
-En las resoluciones las Autoridades garantes podrán señalarles a los sujetos obligados que la información que deben proporcionar sea considerada como obligación de transparencia de conformidad con el Capítulo II del Título Quinto, denominado “De las Obligaciones de Transparencia Comunes” de la presente Ley, atendiendo a la relevancia de la información, la incidencia de las solicitudes sobre la misma y el sentido reiterativo de las resoluciones.
+En las resoluciones las [Autoridades garantes](articulo-3.md) podrán señalarles a los sujetos obligados que la información que deben proporcionar sea considerada como obligación de transparencia de conformidad con el Capítulo II del Título Quinto, denominado “De las Obligaciones de Transparencia Comunes” de la presente [Ley](articulo-3.md), atendiendo a la relevancia de la información, la incidencia de las solicitudes sobre la misma y el sentido reiterativo de las resoluciones.

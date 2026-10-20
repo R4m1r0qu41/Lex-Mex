@@ -17,7 +17,9 @@ source_sha256: db545f3918f1c1907dac23d6431d5076c8de91af1fbf97dcf5b5b2a68b165299
 
 # Artículo 8º
 
-No será condenada en costas la parte que pierde, si no le es imputable la falta de composición voluntaria de la controversia, y, además, limitó su actuación, en el desarrollo del proceso, a lo estrictamente indispensable para hacer posible la definitiva resolución del negocio. Fe de erratas al párrafo DOF 13-03-1943 Se entiende que no es imputable a la parte la falta de composición voluntaria de la controversia.
+No será condenada en costas la parte que pierde, si no le es imputable la falta de composición voluntaria de la controversia, y, además, limitó su actuación, en el desarrollo del proceso, a lo estrictamente indispensable para hacer posible la definitiva resolución del negocio. Fe de erratas al párrafo DOF 13-03-1943
+
+Se entiende que no es imputable a la parte la falta de composición voluntaria de la controversia.
 
 I.- Cuando la ley ordena que sea decidida necesariamente por autoridad judicial;
 

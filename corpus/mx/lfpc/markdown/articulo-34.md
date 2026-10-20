@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPC.pdf
 source_sha256: 7fea623841fd6e05e8c0d01d2cf09f85b0b8e58ba4d9e4f6711f8bad1f448e55
 ---
 
+> Capítulo III
+
 # Artículo 34
 
 Los datos que ostenten los productos o sus etiquetas, envases y empaques y la publicidad respectiva, tanto de manufactura nacional como de procedencia extranjera, se expresarán en idioma español y su precio en moneda nacional en términos comprensibles y legibles conforme al sistema general de unidades de medida, sin perjuicio de que, además, se expresen en otro idioma u otro sistema de medida.

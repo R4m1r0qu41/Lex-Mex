@@ -17,4 +17,4 @@ source_sha256: 3a86c9bc8afe7162bbcc0c31a28250ca91cfbf2cb6a08deddae0653977ae3d3f
 
 # Artículo 32
 
-La difusión del Himno Nacional para efectos de la Ley y el presente reglamento, comprenderá su reproducción y circulación en cualquier forma, total o parcial y podrá realizarse, en su caso, en lenguaje de señas mexicana o en lengua indígena de la comunidad que corresponda, o en su caso, afromexicana, en los términos previstos en la Ley y este reglamento.
+La difusión del Himno Nacional para efectos de la [Ley](articulo-2.md) y el presente reglamento, comprenderá su reproducción y circulación en cualquier forma, total o parcial y podrá realizarse, en su caso, en lenguaje de señas mexicana o en lengua indígena de la comunidad que corresponda, o en su caso, afromexicana, en los términos previstos en la Ley y este reglamento.

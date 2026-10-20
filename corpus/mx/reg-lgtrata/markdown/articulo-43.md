@@ -17,6 +17,6 @@ source_sha256: 1d398a90955ef45ccb7baf4d56534c676cde8325e8b109c4d32120909e783694
 
 # Artículo 43
 
-La Comisión podrá solicitar la participación de Invitados Expertos para que coadyuven en la implementación de los programas y acciones de la Comisión, cuando así se requiera o porque han desarrollado actividades en apoyo de la Comisión.
+La Comisión podrá solicitar la participación de [Invitados Expertos](articulo-2.md) para que coadyuven en la implementación de los programas y acciones de la Comisión, cuando así se requiera o porque han desarrollado actividades en apoyo de la Comisión.
 
 Dicha participación será voluntaria y honorífica y se realizará en las sesiones de la Comisión, de la Subcomisión Consultiva y de los grupos de trabajo en temas específicos, en las que se traten asuntos relacionados con el tema que sea de su particular interés o competencia.

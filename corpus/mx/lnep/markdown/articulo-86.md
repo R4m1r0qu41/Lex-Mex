@@ -13,12 +13,10 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LNEP.pdf
 source_sha256: 91abecabe50a5e414e0835daa9086ce3b307fffb9ebe626dab3bb9d1eae51680
 ---
 
-> Título TERCERO
+> Título TERCERO · Capítulo IV
 
 # Artículo 86
 
 Programas educativos Los programas educativos serán conforme a los planes y programas oficiales que autorice la Secretaría de Educación Pública, o en su caso sus similares en las entidades federativas.
 
 La Autoridad Penitenciaria deberá celebrar convenios de colaboración con Instituciones públicas y privadas de carácter nacional e internacional en materia educativa para ampliar la oferta educativa y su calidad.
-
-Capítulo V Capacitación para el Trabajo

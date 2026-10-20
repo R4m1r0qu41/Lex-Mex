@@ -45,6 +45,6 @@ k) Empleos a generar, y
 
 II. Manifestación de impacto ambiental o informe preventivo o la autorización expedida por la autoridad competente, de conformidad con las disposiciones legales aplicables en la materia.
 
-La información vertida en el estudio técnico-económico deberá detallarse conforme a lo estipulado en las guías y manuales de procedimiento que para tal efecto elabore la Secretaría.
+La información vertida en el estudio técnico-económico deberá detallarse conforme a lo estipulado en las guías y manuales de procedimiento que para tal efecto elabore la [Secretaría](articulo-2o.md).
 
 En caso de que el solicitante no pueda realizar por sí dichos estudios, podrá efectuarlos un tercero y su costo será a cargo del solicitante.

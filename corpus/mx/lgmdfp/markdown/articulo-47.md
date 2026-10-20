@@ -17,6 +17,6 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Artículo 47
 
-Las sesiones del Sistema Nacional deben celebrarse de manera ordinaria, por lo menos, cada seis meses por convocatoria de la Secretaría Ejecutiva del Sistema Nacional, por instrucción de la persona que lo presida, y de manera extraordinaria cuantas veces sea necesario a propuesta de un tercio de sus integrantes. Párrafo reformado DOF 16-07-2025
+Las sesiones del [Sistema Nacional](articulo-4.md) deben celebrarse de manera ordinaria, por lo menos, cada seis meses por convocatoria de la Secretaría Ejecutiva del Sistema Nacional, por instrucción de la persona que lo presida, y de manera extraordinaria cuantas veces sea necesario a propuesta de un tercio de sus integrantes. Párrafo reformado DOF 16-07-2025
 
 Las convocatorias deben realizarse por oficio o por cualquier medio electrónico que asegure y deje constancia de su recepción, con al menos cinco días hábiles a la fecha de celebración de la sesión correspondiente, y dos días hábiles de anticipación para las sesiones extraordinarias. En ambos casos debe acompañarse el orden del día correspondiente.

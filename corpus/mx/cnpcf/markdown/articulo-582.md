@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Primero · Capítulo I
+
 # Artículo 582
 
 Decretada procedente la separación de personas, la autoridad jurisdiccional deberá prevenir a la parte solicitante para que presente la demanda correspondiente, dentro de un plazo de quince días hábiles, bajo el apercibimiento que de no realizarlo en el término señalado se levantará el acto prejudicial y cesarán los efectos de las medidas provisionales. En este sentido, podrá autorizarse por una sola ocasión una prórroga de hasta diez días hábiles.

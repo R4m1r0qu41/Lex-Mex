@@ -17,4 +17,4 @@ source_sha256: 9816ce7f9d6b9b1781eb9935869bd45677c60d721d3352865b6524c2e75db8cd
 
 # Artículo 55
 
-El adquirente podrá realizar el pago correspondiente, preferentemente a través de transferencia electrónica de fondos o mediante cheque certificado a favor del Instituto, en cuyo caso, el impuesto que se cause será a su cargo.
+El adquirente podrá realizar el pago correspondiente, preferentemente a través de transferencia electrónica de fondos o mediante cheque certificado a favor del [Instituto](../../lss/markdown/articulo-5-A.md), en cuyo caso, el impuesto que se cause será a su cargo.

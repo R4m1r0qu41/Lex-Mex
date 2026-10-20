@@ -17,4 +17,4 @@ source_sha256: 7b3cf7a0ff59f76503a97a535457c4a7dd3b1305e7a36f4fca82bd661eab1168
 
 # Artículo 2
 
-Corresponde al Titular del Ejecutivo Federal la determinación de la política en la materia y dictar los lineamientos que permitan articular las acciones de las dependencias que integran el Consejo de Seguridad Nacional.
+Corresponde al Titular del Ejecutivo Federal la determinación de la política en la materia y dictar los lineamientos que permitan articular las acciones de las dependencias que integran el [Consejo](articulo-6.md) de Seguridad Nacional.

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título IX · Capítulo II
+
 # Artículo 238
 
 Las acciones representativas del capital social de las bolsas de valores deberán pagarse íntegramente en dinero en el acto de ser suscritas. Las mencionadas acciones se mantendrán en depósito en alguna de las instituciones para el depósito de valores reguladas en esta Ley, las cuales en ningún caso se encontrarán obligadas a entregarlas a los titulares, salvo cuando se hubiere obtenido su inscripción en el [Registro](articulo-2.md) y, en su caso, oferta pública, en términos de lo establecido en el artículo [266](articulo-266.md) de esta Ley.

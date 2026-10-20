@@ -17,7 +17,7 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Artículo 134
 
-El Programa Nacional de Búsqueda y Localización, a cargo de la Comisión Nacional de Búsqueda, deberá contener, como mínimo:
+El Programa Nacional de Búsqueda y Localización, a cargo de la [Comisión Nacional de Búsqueda](articulo-4.md), deberá contener, como mínimo:
 
 I. Diagnóstico, línea de base e información metodológica sobre la elaboración del Programa;
 
@@ -33,7 +33,7 @@ VII. Las instituciones que participarán en la implementación del Programa, est
 
 VIII. El método específico de análisis de contexto que contribuya en la búsqueda y localización de personas desaparecidas en episodios de violencia política del pasado, en términos de las disposiciones aplicables;
 
-IX. El proceso para la depuración y organización de la información contenida en el Registro Nacional de Personas Desaparecidas y No Localizadas y su integración y armonización con otros registros que contengan información relevante para la búsqueda y localización de personas;
+IX. El proceso para la depuración y organización de la información contenida en el [Registro Nacional](articulo-4.md) de [Personas Desaparecidas](articulo-4.md) y No Localizadas y su integración y armonización con otros registros que contengan información relevante para la búsqueda y localización de personas;
 
 X. Los procesos, sistemas y mecanismos para la coordinación con el Programa Nacional de Exhumaciones e Identificación Forense;
 

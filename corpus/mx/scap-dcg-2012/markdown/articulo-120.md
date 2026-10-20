@@ -18,4 +18,4 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 120
 
-El manual de crédito deberá ser revisado y actualizado por lo menos una vez al año por el Comité de Crédito o su equivalente, en conjunto con el Director o Gerente General y, en su caso, las modificaciones deberán ser sometidas a la autorización del Consejo de Administración, el cual podrá escuchar la opinión del comité de apoyo a que hace referencia el Artículo [106](articulo-106.md) de las presentes disposiciones.”
+El manual de crédito deberá ser revisado y actualizado por lo menos una vez al año por el [Comité de Crédito](articulo-1.md) o su equivalente, en conjunto con el [Director o Gerente General](articulo-1.md) y, en su caso, las modificaciones deberán ser sometidas a la autorización del [Consejo de Administración](articulo-1.md), el cual podrá escuchar la opinión del comité de apoyo a que hace referencia el Artículo [106](articulo-106.md) de las presentes disposiciones.”

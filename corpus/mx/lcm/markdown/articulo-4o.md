@@ -17,7 +17,7 @@ source_sha256: 8e270686b885035488bfe310b0b42bb40e7154431794227ebe212dd7dc12e46a
 
 # Artículo 4o
 
-Para los efectos de esta Ley, se entenderá por:
+Para los efectos de esta [Ley](articulo-4o.md), se entenderá por:
 
 I. Acreedores Reconocidos, a aquéllos que adquieran tal carácter por virtud de la sentencia de reconocimiento, graduación y prelación de créditos;
 

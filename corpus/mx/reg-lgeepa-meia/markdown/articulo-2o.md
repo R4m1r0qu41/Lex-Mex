@@ -17,8 +17,8 @@ source_sha256: c7790df38b773b04e4769459d5fd49cca5b7a5b4955f7618632117275259071f
 
 # Artículo 2o
 
-La aplicación de este Reglamento compete al Ejecutivo Federal, por conducto de la Secretaría de Medio Ambiente y Recursos Naturales, de conformidad con las disposiciones legales y reglamentarias en la materia.
+La aplicación de este [Reglamento](articulo-3o.md) compete al Ejecutivo Federal, por conducto de la [Secretaría](articulo-3o.md) de Medio Ambiente y Recursos Naturales, de conformidad con las disposiciones legales y reglamentarias en la materia.
 
-La Secretaría ejercerá las atribuciones contenidas en el presente ordenamiento, incluidas las disposiciones relativas a la inspección, vigilancia y sanción, por conducto de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, cuando se trate de las obras, instalaciones o actividades del sector hidrocarburos y, cuando se trate de actividades distintas a dicho sector, la Secretaría ejercerá las atribuciones correspondientes a través de las unidades administrativas que defina su reglamento interior.
+La Secretaría ejercerá las atribuciones contenidas en el presente ordenamiento, incluidas las disposiciones relativas a la inspección, vigilancia y sanción, por conducto de la [Agencia](articulo-3o.md) Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, cuando se trate de las obras, instalaciones o actividades del sector hidrocarburos y, cuando se trate de actividades distintas a dicho sector, la Secretaría ejercerá las atribuciones correspondientes a través de las unidades administrativas que defina su reglamento interior.
 
 Artículo reformado DOF 31-10-2014

@@ -19,4 +19,4 @@ source_sha256: 160e5e85efddb1749a79f6b154af31711a9b31a5e32bace3c07e2859c2620ecf
 
 La Carta Nacional Acuícola, es la presentación cartográfica y escrita de los indicadores de la actividad, de las especies destinadas a la acuacultura, del desarrollo de la biotecnología y de las zonas por su vocación de cultivo. Su contenido tendrá carácter informativo para los sectores productivos y será consultivo y orientador para las autoridades competentes en la resolución de solicitudes de concesiones y permisos para la realización de las actividades acuícolas.
 
-La Secretaría aprobará y expedirá la Carta Nacional Acuícola y sus actualizaciones, y las publicará en el Diario Oficial de la Federación.
+La [Secretaría](articulo-4o.md) aprobará y expedirá la Carta Nacional Acuícola y sus actualizaciones, y las publicará en el Diario Oficial de la Federación.

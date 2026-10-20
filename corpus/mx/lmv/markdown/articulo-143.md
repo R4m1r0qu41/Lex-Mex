@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título VI · Capítulo I
+
 # Artículo 143
 
 El oficio que contenga el nombramiento de interventor-gerente y su revocación, deberán inscribirse en el [Registro](articulo-2.md) Público de Comercio que corresponda al domicilio del intermediario intervenido, sin más requisitos que el oficio respectivo de la [Comisión](articulo-2.md) en que conste dicho nombramiento, la sustitución de interventor-gerente o su revocación cuando la Comisión autorice levantar la intervención.

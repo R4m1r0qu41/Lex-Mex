@@ -17,6 +17,6 @@ source_sha256: f135d534dcd7a2734bc7f44e9381e7173c7d8033e1df75a2d4fb132d956e848b
 
 # Artículo 112
 
-Los Comités a que se refiere este Capítulo y las autoridades a las que éstas informen, mantendrán confidencialidad sobre los reportes que reciban de los investigadores, REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE INVESTIGACION PARA LA SALUD principalmente si las investigaciones están relacionadas con el desarrollo de insumos, tecnología y otros procesos aplicativos susceptibles de patentes o desarrollo comercial.
+Los Comités a que se refiere este Capítulo y las autoridades a las que éstas informen, mantendrán confidencialidad sobre los reportes que reciban de los investigadores, principalmente si las investigaciones están relacionadas con el desarrollo de insumos, tecnología y otros procesos aplicativos susceptibles de patentes o desarrollo comercial.
 
 Artículo reformado DOF 02-04-2014

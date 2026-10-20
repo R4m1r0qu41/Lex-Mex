@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGCC_MRNE_281014
 source_sha256: 62420210c5aaffe687daf130a64ff506009625340c554bfb36d2f1b5dcac0192
 ---
 
+> Capítulo I
+
 # Artículo 4
 
 Las actividades que se considerarán como Establecimientos Sujetos a Reporte agrupadas dentro de los sectores y subsectores señalados en el [artículo anterior](articulo-3.md), son las siguientes:
@@ -55,7 +57,7 @@ c. Subsector transporte marítimo:
 
 c.1. Transporte marítimo de carga y pasajeros;
 
-d. Subsector transporte terrestre: REGLAMENTO DE LA LEY GENERAL DE CAMBIO CLIMÁTICO EN MATERIA DEL REGISTRO NACIONAL DE EMISIONES d.1. Transporte de pasajeros por tierra, incluido el turístico;
+d. Subsector transporte terrestre: d.1. Transporte de pasajeros por tierra, incluido el turístico;
 
 d.2. Autotransporte de carga general;
 
@@ -107,7 +109,7 @@ d.3. Fabricación de herrajes y cerraduras;
 
 d.4. Maquinado de piezas metálicas y fabricación de tornillos;
 
-d.5. Fabricación de otros productos metálicos, y REGLAMENTO DE LA LEY GENERAL DE CAMBIO CLIMÁTICO EN MATERIA DEL REGISTRO NACIONAL DE EMISIONES d.6. Fabricación de maquinaria y equipo para el comercio y los servicios;
+d.5. Fabricación de otros productos metálicos, y d.6. Fabricación de maquinaria y equipo para el comercio y los servicios;
 
 e. Subsector industria minera:
 
@@ -157,7 +159,7 @@ i.3. Fabricación de petroquímicos del gas natural y petróleo refinado, y
 
 i.4. Transporte por ductos de otros productos;
 
-j. Subsector industria cementera y calera: REGLAMENTO DE LA LEY GENERAL DE CAMBIO CLIMÁTICO EN MATERIA DEL REGISTRO NACIONAL DE EMISIONES j.1. Fabricación de cemento y productos de concreto, y
+j. Subsector industria cementera y calera: j.1. Fabricación de cemento y productos de concreto, y
 
 j.2. Fabricación de cal, yeso y productos de yeso;
 
@@ -203,7 +205,7 @@ n.6. Matanza, empacado y procesamiento de carne de ganado, aves y otros animales
 
 n.7. Preparación y envasado de pescados y mariscos;
 
-n.8. Elaboración de productos de panadería y tortillas, y REGLAMENTO DE LA LEY GENERAL DE CAMBIO CLIMÁTICO EN MATERIA DEL REGISTRO NACIONAL DE EMISIONES n.9. Industria de las bebidas, incluyendo no alcohólicas, de cerveza y bebidas alcohólicas fermentadas y destiladas;
+n.8. Elaboración de productos de panadería y tortillas, y n.9. Industria de las bebidas, incluyendo no alcohólicas, de cerveza y bebidas alcohólicas fermentadas y destiladas;
 
 o. Subsector industria de la madera:
 
@@ -251,7 +253,7 @@ a. Subsector aguas residuales:
 
 a.1. Tratamiento de aguas residuales;
 
-b. Subsector residuos sólidos urbanos y residuos de manejo especial, incluyendo disposición final: REGLAMENTO DE LA LEY GENERAL DE CAMBIO CLIMÁTICO EN MATERIA DEL REGISTRO NACIONAL DE EMISIONES b.1. Actividades de reducción en la fuente de generación del residuo, separación, reutilización, reciclaje, co-procesamiento, tratamiento biológico, químico, físico o térmico, acopio, almacenamiento, transporte y disposición final de residuos, individualmente realizadas o combinadas de manera apropiada, y
+b. Subsector residuos sólidos urbanos y residuos de manejo especial, incluyendo disposición final: b.1. Actividades de reducción en la fuente de generación del residuo, separación, reutilización, reciclaje, co-procesamiento, tratamiento biológico, químico, físico o térmico, acopio, almacenamiento, transporte y disposición final de residuos, individualmente realizadas o combinadas de manera apropiada, y
 
 b.2. Actividades de remediación de sitios contaminados con residuos;
 
@@ -297,7 +299,7 @@ b.7. Comercio al por mayor de mobiliario y equipo de cómputo y de oficina, y de
 
 b.8. Comercio al por menor de abarrotes y alimentos;
 
-b.9. Comercio al por menor en tiendas de autoservicio; REGLAMENTO DE LA LEY GENERAL DE CAMBIO CLIMÁTICO EN MATERIA DEL REGISTRO NACIONAL DE EMISIONES b.10. Comercio al por menor en tiendas departamentales;
+b.9. Comercio al por menor en tiendas de autoservicio; b.10. Comercio al por menor en tiendas departamentales;
 
 b.11. Comercio al por menor de ropa, bisutería y accesorios de vestir, y
 
@@ -331,8 +333,8 @@ h.2. Alquiler sin intermediación de bienes raíces, y
 
 h.3. Inmobiliarias y corredores de bienes raíces.
 
-Las actividades agrupadas a los sectores transporte, agropecuario, residuos y de comercio y servicios a que se refieren las fracciones II, IV, V y VI del presente artículo, calcularán y reportarán sus Emisiones considerando todas las instalaciones, sucursales, locales, lugares donde se almacenen mercancías y en general cualquier local, instalación o sitio que utilicen para el desempeño de sus actividades.
+Las actividades agrupadas a los sectores transporte, agropecuario, residuos y de comercio y servicios a que se refieren las fracciones II, IV, V y VI del presente artículo, calcularán y reportarán sus [Emisiones](../../lgcc/markdown/articulo-3o.md) considerando todas las instalaciones, sucursales, locales, lugares donde se almacenen mercancías y en general cualquier local, instalación o sitio que utilicen para el desempeño de sus actividades.
 
-Las actividades previstas en las fracciones I y III del presente artículo calcularán y reportarán sus Emisiones Directas o Indirectas por instalación.
+Las actividades previstas en las fracciones I y III del presente artículo calcularán y reportarán sus [Emisiones Directas](articulo-2.md) o Indirectas por instalación.
 
-La Secretaría, mediante Acuerdo que publique en el Diario Oficial de la Federación podrá definir aspectos técnicos que permitan identificar a detalle las actividades específicas que, conforme al presente artículo, se consideran como Establecimientos Sujetos a Reporte, aun cuando, conforme a otras disposiciones jurídicas, no estén obligadas a proporcionar información sobre sus Emisiones o descargas a través de la Cédula de Operación Anual ante la Secretaría, pero que en su realización emitan, de manera directa o indirecta, Gases o Compuestos de Efecto Invernadero. REGLAMENTO DE LA LEY GENERAL DE CAMBIO CLIMÁTICO EN MATERIA DEL REGISTRO NACIONAL DE EMISIONES
+La [Secretaría](../../lgcc/markdown/articulo-3o.md), mediante Acuerdo que publique en el Diario Oficial de la Federación podrá definir aspectos técnicos que permitan identificar a detalle las actividades específicas que, conforme al presente artículo, se consideran como Establecimientos Sujetos a Reporte, aun cuando, conforme a otras disposiciones jurídicas, no estén obligadas a proporcionar información sobre sus Emisiones o descargas a través de la [Cédula de Operación Anual](articulo-2.md) ante la Secretaría, pero que en su realización emitan, de manera directa o indirecta, Gases o Compuestos de Efecto Invernadero.

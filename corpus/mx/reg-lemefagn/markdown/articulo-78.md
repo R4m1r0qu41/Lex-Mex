@@ -17,4 +17,4 @@ source_sha256: 703f083c0baedfb4ef5ce8b62c78684d8ee0073f393321d476d75ebe4878e1d5
 
 # Artículo 78
 
-Los planes y programas de estudio de las Instituciones Educativas y Jefaturas de Curso, producto de la planeación educativa, son instrumentos rectores del proceso educativo y tienen como finalidad el logro de los objetivos de la educación militar plasmados en la Ley y el Plan General.
+Los planes y programas de estudio de las [Instituciones Educativas](articulo-3.md) y Jefaturas de Curso, producto de la planeación educativa, son instrumentos rectores del proceso educativo y tienen como finalidad el logro de los objetivos de la educación militar plasmados en la Ley y el [Plan General](articulo-3.md).

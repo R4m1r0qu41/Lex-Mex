@@ -18,15 +18,15 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 71
 
-El Consejo de Administración deberá constituir un Comité de Auditoría, cuyo objeto sea apoyar al citado consejo en la definición de los lineamientos generales del sistema de control interno, así como en la verificación y evaluación de dicho sistema. Lo anterior, mediante la supervisión de las funciones de auditoría interna y, en su caso, externa, fungiendo como un canal de comunicación entre el Consejo de Administración y los auditores internos, externos y las autoridades supervisoras.
+El [Consejo de Administración](articulo-1.md) deberá constituir un [Comité de Auditoría](articulo-1.md), cuyo objeto sea apoyar al citado consejo en la definición de los lineamientos generales del sistema de control interno, así como en la verificación y evaluación de dicho sistema. Lo anterior, mediante la supervisión de las funciones de auditoría interna y, en su caso, externa, fungiendo como un canal de comunicación entre el Consejo de Administración y los auditores internos, externos y las autoridades supervisoras.
 
 El Comité de Auditoría se integrará en su mayoría por miembros del Consejo de Administración designados por el propio Consejo a propuesta de su presidente. Dicho Comité deberá contar con un mínimo de tres miembros y cuando menos uno de ellos, quien podrá ser o no consejero, deberá tener conocimientos técnicos o experiencia en materia de contaduría, auditoría y control interno, así como poseer conocimientos sobre la operación y la normatividad aplicable a las sociedades. El comité deberá realizar sus funciones de manera transparente, libre de conflictos de interés y sus miembros deberán conducirse sin estar supeditados a intereses personales, patrimoniales o económicos. Los miembros del comité podrán nombrar a su suplente.
 
-El Comité de Auditoría deberá informar al Consejo de Administración, cuando menos una vez al año, sobre la situación que guarda el sistema de control interno de la Sociedad, para lo cual deberá efectuar las pruebas que considere necesarias, pudiendo al efecto apoyarse en el Auditor Interno. El informe respectivo deberá contener, como mínimo, lo siguiente:
+El Comité de Auditoría deberá informar al Consejo de Administración, cuando menos una vez al año, sobre la situación que guarda el sistema de control interno de la Sociedad, para lo cual deberá efectuar las pruebas que considere necesarias, pudiendo al efecto apoyarse en el [Auditor Interno](articulo-1.md). El informe respectivo deberá contener, como mínimo, lo siguiente:
 
 I. Las deficiencias, desviaciones o aspectos del sistema de control interno que, en su caso, requieran una mejoría, tomando en cuenta para tal efecto los informes de los responsables de las funciones de contraloría interna.
 
-II. La mención y seguimiento de la implementación de las medidas preventivas y correctivas derivadas de las observaciones de la Comisión, así como de la evaluación del sistema de control interno realizada por el propio Comité de Auditoría.
+II. La mención y seguimiento de la implementación de las medidas preventivas y correctivas derivadas de las observaciones de la [Comisión](articulo-1.md), así como de la evaluación del sistema de control interno realizada por el propio Comité de Auditoría.
 
 III. La valoración del desempeño de las funciones de contraloría interna.
 

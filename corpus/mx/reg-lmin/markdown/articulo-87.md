@@ -17,4 +17,4 @@ source_sha256: 4d25bcb022ab62a24462e11a230c9554c0120012913ab4599cd3ec1b2b275c1d
 
 # Artículo 87
 
-Las actividades registrales se ejercerán de acuerdo con lo dispuesto por la Ley, este Reglamento y el Reglamento Interior de la Secretaría de Economía.
+Las actividades registrales se ejercerán de acuerdo con lo dispuesto por la [Ley](articulo-1o.md), este Reglamento y el Reglamento Interior de la [Secretaría](articulo-1o.md) de Economía.

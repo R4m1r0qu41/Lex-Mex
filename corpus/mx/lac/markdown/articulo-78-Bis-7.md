@@ -13,9 +13,11 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAC.pdf
 source_sha256: 07199878c4f94748c983998437198eb7c645ad76967c444dfe26d50a535d23ae
 ---
 
+> Capítulo XV Bis
+
 # Artículo 78 Bis 7
 
-Los datos e información sobre seguridad operacional que provenga de las fuentes señaladas en el artículo [78 Bis 5](articulo-78-Bis-5.md), así como los datos de las personas involucradas en los eventos relacionados con esa información, no se proporcionarán para fines diferentes para los que fue recopilada, por lo que nadie puede ser requerido, en conexión con un proceso judicial, administrativo o disciplinario, a aportar evidencias concernientes a la información de seguridad operacional proporcionada de manera voluntaria a la Agencia Federal de Aviación Civil, excepto por las siguientes causas: Párrafo reformado DOF 20-05-2021, 03-05-2023
+Los datos e información sobre seguridad operacional que provenga de las fuentes señaladas en el artículo [78 Bis 5](articulo-78-Bis-5.md), así como los datos de las personas involucradas en los eventos relacionados con esa información, no se proporcionarán para fines diferentes para los que fue recopilada, por lo que nadie puede ser requerido, en conexión con un proceso judicial, administrativo o disciplinario, a aportar evidencias concernientes a la información de seguridad operacional proporcionada de manera voluntaria a la [Agencia Federal de Aviación Civil](articulo-2.md), excepto por las siguientes causas: Párrafo reformado DOF 20-05-2021, 03-05-2023
 
 I. Por requerimiento expreso de una autoridad judicial o administrativa competente que haya determinado que la Agencia Federal de Aviación Civil tiene información necesaria para la administración de justicia, para lo cual la autoridad requirente debe proteger la información como reservada o confidencial dentro del proceso correspondiente, y Fracción reformada DOF 03-05-2023
 

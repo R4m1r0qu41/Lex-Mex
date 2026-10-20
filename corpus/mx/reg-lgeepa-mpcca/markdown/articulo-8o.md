@@ -17,7 +17,7 @@ source_sha256: cf47ab93fdea40d2b3e41b58784df62f89dd90b4482dd3b7f25adc7f6957036b
 
 # Artículo 8o
 
-Sin perjuicio de lo que establezcan otras disposiciones legales aplicables, compete a la Secretaría de Comunicaciones y Transportes:
+Sin perjuicio de lo que establezcan otras disposiciones legales aplicables, compete a la [Secretaría](articulo-6o.md) de Comunicaciones y Transportes:
 
 I.- Autorizar el establecimiento de centros de verificación obligatoria de los vehículos del transporte público federal;
 
@@ -25,6 +25,6 @@ II.- Establecer el programa para la verificación de los vehículos del transpor
 
 III.- Llevar el registro de los centros de verificación obligatoria de los vehículos del transporte público federal;
 
-IV.- Determinar las tarifas que regirán en la prestación de los servicios de verificación obligatoria que lleven a cabo los centros autorizados en los términos del Reglamento; y
+IV.- Determinar las tarifas que regirán en la prestación de los servicios de verificación obligatoria que lleven a cabo los centros autorizados en los términos del [Reglamento](articulo-6o.md); y
 
 V.- Expedir las calcomanías de baja emisión previstas en el Reglamento.

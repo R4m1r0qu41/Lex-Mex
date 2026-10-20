@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Único · Capítulo IV
+
 # Artículo 1075
 
 Cuando el monto líquido total de la condena sea igual o superior al valor de los bienes valuados y del certificado en el que se hagan constar los gravámenes, no aparecieren otras personas acreedoras, la parte ejecutante podrá optar por la adjudicación directa de los bienes. Contra la resolución que adjudica de forma directa al ejecutante, procede el recurso de apelación en ambos efectos.

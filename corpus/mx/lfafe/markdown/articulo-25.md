@@ -25,7 +25,7 @@ a).- Individuales, para personas físicas, las cuales deben revalidarse cada añ
 
 b).- Colectivas, para personas morales, las cuales deben revalidarse cada dos años, y
 
-II.- Oficiales Colectivas, para las instituciones a que se refiere el artículo [24](articulo-24.md) de esta Ley, las cuales deben revalidarse cada dos años.
+II.- Oficiales Colectivas, para las instituciones a que se refiere el artículo [24](articulo-24.md) de esta [Ley](articulo-1o-Bis.md), las cuales deben revalidarse cada dos años.
 
 Ambos tipos de licencias son intransferibles.
 

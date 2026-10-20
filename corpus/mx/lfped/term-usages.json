@@ -154,30 +154,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfped:article:15-quintus:term-usage:1585-1588",
-    "provision_id": "urn:lex-mx:federal:statute:lfped:article:15-quintus",
+    "id": "urn:lex-mx:federal:statute:lfped:article:15-septimus:term-usage:541-544",
+    "provision_id": "urn:lex-mx:federal:statute:lfped:article:15-septimus",
     "term_id": "urn:lex-mx:federal:statute:lfped:term:ley",
     "span": "Ley",
-    "start_char": 1585,
-    "end_char": 1588
+    "start_char": 541,
+    "end_char": 544
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfped:article:15-quintus:term-usage:2488-2495",
-    "provision_id": "urn:lex-mx:federal:statute:lfped:article:15-quintus",
+    "id": "urn:lex-mx:federal:statute:lfped:article:15-novenus:term-usage:140-147",
+    "provision_id": "urn:lex-mx:federal:statute:lfped:article:15-novenus",
     "term_id": "urn:lex-mx:federal:statute:lfped:term:consejo",
     "span": "Consejo",
-    "start_char": 2488,
-    "end_char": 2495
+    "start_char": 140,
+    "end_char": 147
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfped:article:15-quintus:term-usage:2529-2536",
-    "provision_id": "urn:lex-mx:federal:statute:lfped:article:15-quintus",
+    "id": "urn:lex-mx:federal:statute:lfped:article:15-novenus:term-usage:181-188",
+    "provision_id": "urn:lex-mx:federal:statute:lfped:article:15-novenus",
     "term_id": "urn:lex-mx:federal:statute:lfped:term:consejo",
     "span": "Consejo",
-    "start_char": 2529,
-    "end_char": 2536
+    "start_char": 181,
+    "end_char": 188
   },
   {
     "schema_version": "0.1.0",
@@ -1243,12 +1243,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfped:article:63-quintus:term-usage:1748-1755",
-    "provision_id": "urn:lex-mx:federal:statute:lfped:article:63-quintus",
+    "id": "urn:lex-mx:federal:statute:lfped:article:63-octavus:term-usage:261-268",
+    "provision_id": "urn:lex-mx:federal:statute:lfped:article:63-octavus",
     "term_id": "urn:lex-mx:federal:statute:lfped:term:consejo",
     "span": "Consejo",
-    "start_char": 1748,
-    "end_char": 1755
+    "start_char": 261,
+    "end_char": 268
   },
   {
     "schema_version": "0.1.0",

@@ -17,6 +17,6 @@ source_sha256: cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7
 
 # Artículo 54
 
-La Comisión Nacional informará al Público, sobre los índices de reclamaciones que se presenten ante ella, en contra de cada una de las Instituciones Financieras. La información será global, sin identificar a los Usuarios involucrados.
+La [Comisión Nacional](articulo-2o.md) informará al Público, sobre los índices de reclamaciones que se presenten ante ella, en contra de cada una de las [Instituciones Financieras](articulo-2o.md). La información será global, sin identificar a los [Usuarios](articulo-2o.md) involucrados.
 
 Artículo reformado DOF 05-01-2000

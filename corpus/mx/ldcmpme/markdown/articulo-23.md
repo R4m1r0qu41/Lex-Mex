@@ -17,6 +17,6 @@ source_sha256: 4933abadd27d345e7a5c1754af10ed429fd148b709b4a78d4f42447b5fcd546d
 
 # Artículo 23
 
-En cada Entidad Federativa se podrá conformar un Consejo Estatal para la Competitividad de la Micro, Pequeña y Mediana Empresa, que estudiará y propondrá en el ámbito regional, estatal, municipal y de las demarcaciones territoriales de la Ciudad de México, medidas de apoyo para el desarrollo de la competitividad de las MIPYMES a través del análisis de las propuestas surgidas del sector público y de los Sectores. Párrafo reformado DOF 19-05-2017
+En cada Entidad Federativa se podrá conformar un [Consejo Estatal](articulo-3.md) para la [Competitividad](articulo-3.md) de la Micro, Pequeña y Mediana Empresa, que estudiará y propondrá en el ámbito regional, estatal, municipal y de las demarcaciones territoriales de la Ciudad de México, medidas de apoyo para el desarrollo de la competitividad de las [MIPYMES](articulo-3.md) a través del análisis de las propuestas surgidas del sector público y de los [Sectores](articulo-3.md). Párrafo reformado DOF 19-05-2017
 
-El Consejo Estatal estará sujeto a los lineamientos que emita el Consejo.
+El Consejo Estatal estará sujeto a los lineamientos que emita el [Consejo](articulo-3.md).

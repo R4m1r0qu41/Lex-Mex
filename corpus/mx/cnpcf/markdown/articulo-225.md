@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Primero · Capítulo VIII
+
 # Artículo 225
 
 Tratándose de exhortos o despachos que libren las autoridades jurisdiccionales, serán remitidos por cualquier medio de comunicación, de manera directa a las autoridades jurisdiccionales que por razón de jurisdicción y competencia deban diligenciarlos, a través del correo electrónico institucional de la Administración de Gestión Judicial o Institución análoga que corresponda, conjuntamente con los documentos digitalizados de las constancias conducentes, mismos que una vez cumplimentados deberán ser devueltos por cualquiera de estas vías.

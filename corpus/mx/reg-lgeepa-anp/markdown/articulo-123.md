@@ -17,4 +17,4 @@ source_sha256: 4e276866fce1638948a6daf1a5c0438fa412554f1a6e0381cbdf7cb300e3db75
 
 # Artículo 123
 
-Para efectos de la designación del Director del área natural protegida respectiva, la Secretaría podrá aceptar la propuesta formulada por el promovente, siempre y cuando cumpla con los requisitos de la fracción II del artículo [8](articulo-8o.md)o. del presente Reglamento.
+Para efectos de la designación del Director del área natural protegida respectiva, la [Secretaría](articulo-3o.md) podrá aceptar la propuesta formulada por el promovente, siempre y cuando cumpla con los requisitos de la fracción II del artículo [8](articulo-8o.md)o. del presente Reglamento.

@@ -18,9 +18,9 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 265 Bis 3
 
-La Sociedad Financiera Popular, en el uso del Identificador de Usuario y los Factores de Autenticación, deberá ajustarse a lo siguiente:
+La [Sociedad](articulo-1.md) Financiera Popular, en el uso del [Identificador de Usuario](articulo-1.md) y los Factores de [Autenticación](articulo-1.md), deberá ajustarse a lo siguiente:
 
-I. Proveer lo necesario para impedir la lectura en la pantalla del Dispositivo de Acceso, de la información de identificación y Autenticación proporcionada por el Usuario, salvo que se trate de Servicio Telefónico de Audio Respuesta.
+I. Proveer lo necesario para impedir la lectura en la pantalla del [Dispositivo de Acceso](articulo-1.md), de la información de identificación y Autenticación proporcionada por el [Usuario](articulo-1.md), salvo que se trate de Servicio Telefónico de Audio Respuesta.
 
 En caso de que la tecnología utilizada en servicios de Pago Móvil no permita implementar lo señalado en el párrafo anterior y la información de los Factores de Autenticación se almacene en el dispositivo, la Sociedad Financiera Popular podrá ofrecer tal servicio obteniendo la previa autorización de la Comisión, en cuya solicitud deberán exponer los controles que les permitirán a los Usuarios realizar operaciones de forma segura.
 
@@ -28,4 +28,4 @@ Asimismo, la Sociedad Financiera Popular que obtenga la autorización a que se r
 
 II. Asegurar que en la generación, entrega, almacenamiento, desbloqueo y restablecimiento de los Factores de Autenticación, únicamente sea el Usuario quien los reciba, active, conozca, desbloquee y restablezca. El Usuario podrá autorizar a un tercero para recibir dichos Factores de Autenticación, siempre que la Sociedad Financiera Popular mantenga procedimientos para que dichas autorizaciones sean de carácter eventual y puedan ser revocados por el Usuario cuando así lo solicite.
 
-III. Contar con procedimientos para invalidar los Factores de Autenticación para impedir su uso en Servicios Electrónicos, cuando un Usuario o la misma Sociedad Financiera Popular cancele el uso de dicho servicio o cuando dicho Usuario deje de formar parte de la Sociedad Financiera Popular.
+III. Contar con procedimientos para invalidar los Factores de Autenticación para impedir su uso en [Servicios Electrónicos](articulo-1.md), cuando un Usuario o la misma Sociedad Financiera Popular cancele el uso de dicho servicio o cuando dicho Usuario deje de formar parte de la Sociedad Financiera Popular.

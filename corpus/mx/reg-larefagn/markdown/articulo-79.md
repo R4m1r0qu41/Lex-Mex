@@ -17,6 +17,6 @@ source_sha256: 01b72308e67d46ba6ca8a6b07fb7584c6a74e905ea0c4b5be5c0c0d32a6d817a
 
 # Artículo 79
 
-Con base en el Personal Potencial, el Estado Mayor y la Subsecretaría de la Defensa Nacional elaborarán un cronograma que incluya las actividades, responsabilidades, períodos y fechas que, una vez aprobado por la persona titular de la Secretaría, regulará el desarrollo de las etapas de esta Promoción.
+Con base en el [Personal Potencial](articulo-5.md), el [Estado Mayor](articulo-5.md) y la Subsecretaría de la Defensa Nacional elaborarán un cronograma que incluya las actividades, responsabilidades, períodos y fechas que, una vez aprobado por la persona titular de la Secretaría, regulará el desarrollo de las etapas de esta [Promoción](articulo-5.md).
 
 Artículo reformado DOF 20-03-2026

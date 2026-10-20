@@ -1,0 +1,12 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-3",
+  "instrument_id": "urn:lex-mx:federal:statute:lfsa",
+  "source_sha256": "199baa54ad422398c57a8c173ef25c3a75ed0d6532128d244fcd46246e6f4e08",
+  "extracted_text_sha256": "3bf7934e4f4482b44b6e8605db0b8e7abaffa86247354d80bf446547fefe630e",
+  "status": "none_detected",
+  "glossaries": [],
+  "imports": [],
+  "term_count": 0,
+  "usage_count": 0
+}

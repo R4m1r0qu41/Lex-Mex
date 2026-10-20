@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título VI · Capítulo I
+
 # Artículo 119
 
 La adquisición, mediante una o varias operaciones simultáneas o sucesivas, de acciones de la serie "O" del capital social de una casa de bolsa, por parte de una persona o grupo de personas, estará sujeta a los requisitos siguientes: I. Informar a la [Comisión](articulo-2.md) la adquisición del dos por ciento de la parte ordinaria del capital social, dentro de los tres días hábiles siguientes a que se alcance dicho porcentaje.

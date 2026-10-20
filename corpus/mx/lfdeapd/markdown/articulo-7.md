@@ -17,14 +17,14 @@ source_sha256: 4fadf9a6f2d22a9e48d8e29ed302456751da66eb723e0df1dc6ac45a5e4640b0
 
 # Artículo 7
 
-Pueden solicitar la Declaración Especial de Ausencia, sin orden de prelación entre los solicitantes:
+Pueden solicitar la [Declaración Especial de Ausencia](articulo-3.md), sin orden de prelación entre los solicitantes:
 
-I. Los Familiares;
+I. Los [Familiares](articulo-3.md);
 
-II. La persona que tenga una relación sentimental afectiva inmediata y cotidiana con la Persona Desaparecida, en términos de la legislación civil aplicable;
+II. La persona que tenga una relación sentimental afectiva inmediata y cotidiana con la [Persona Desaparecida](articulo-3.md), en términos de la legislación civil aplicable;
 
 III. Las personas que funjan como representantes legales de los Familiares;
 
 IV. El Ministerio Público a solicitud de los Familiares, y
 
-V. El Asesor Jurídico, quien, además, dará seguimiento al juicio civil y al cumplimiento de la resolución.
+V. El [Asesor Jurídico](articulo-3.md), quien, además, dará seguimiento al juicio civil y al cumplimiento de la resolución.

@@ -17,6 +17,6 @@ source_sha256: 8262a75eac7bfb608d4f48657ffb2714fe115d0b9694c42ac81624fd275bf5f6
 
 # Artículo 61
 
-La Secretaría debe incluir en la Cuenta de la Hacienda Pública Federal y en los Informes trimestrales sobre la situación económica, las finanzas públicas y la deuda pública, los ingresos obtenidos por el Estado Mexicano que deriven de los Contratos y del derecho a que se refiere la presente Ley.
+La [Secretaría](articulo-3.md) debe incluir en la Cuenta de la Hacienda Pública Federal y en los Informes trimestrales sobre la situación económica, las finanzas públicas y la deuda pública, los ingresos obtenidos por el Estado Mexicano que deriven de los [Contratos](articulo-3.md) y del derecho a que se refiere la presente Ley.
 
 Artículo reformado DOF 18-03-2025

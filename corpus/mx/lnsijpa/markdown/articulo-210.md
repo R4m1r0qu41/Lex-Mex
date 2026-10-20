@@ -17,7 +17,7 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 # Artículo 210
 
-Controversias Los Jueces de Ejecución conocerán, además de lo establecido en esta Ley, de las controversias relacionadas con:
+Controversias Los Jueces de Ejecución conocerán, además de lo establecido en esta [Ley](articulo-3.md), de las controversias relacionadas con:
 
 I. Las condiciones de internamiento y cuestiones relacionadas con las mismas;
 

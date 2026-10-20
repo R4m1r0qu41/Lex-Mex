@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf
 source_sha256: 43927095d22ff7bc7780e78132d2160b5050b5f76026b539daec32be09d7341d
 ---
 
+> Título Primero · Capítulo I
+
 # Artículo 2o
 
 Para los efectos de esta Ley se considera:
@@ -57,4 +59,6 @@ XIX. Retiro voluntario, la renuncia definitiva e irrevocable de los derechos que
 
 XX. Agencia aduanal, persona moral autorizada en términos del artículo [167-D](articulo-167-D.md) de esta Ley para promover el despacho aduanero de las mercancías por cuenta ajena en los diferentes regímenes aduaneros previstos en esta Ley. Fracción adicionada DOF 25-06-2018
 
-XXI. Agente aduanal, persona física autorizada en términos del artículo [159](articulo-159.md) de esta Ley mediante una patente, para promover por cuenta ajena el despacho aduanero de las mercancías, en los diferentes regímenes aduaneros previstos en esta Ley. Fracción adicionada DOF 25-06-2018 XXII. Régimen Aduanero, el destino que de conformidad con el Título Cuarto de esta Ley, determina el tratamiento jurídico que se dará a las mercancías sujetas a despacho, control y fiscalización de las autoridades aduaneras, incluyendo las obligaciones o restricciones aplicables, actos y formalidades inherentes al mismo. Fracción adicionada DOF 19-11-2025
+XXI. Agente aduanal, persona física autorizada en términos del artículo [159](articulo-159.md) de esta Ley mediante una patente, para promover por cuenta ajena el despacho aduanero de las mercancías, en los diferentes regímenes aduaneros previstos en esta Ley. Fracción adicionada DOF 25-06-2018
+
+XXII. Régimen Aduanero, el destino que de conformidad con el Título Cuarto de esta Ley, determina el tratamiento jurídico que se dará a las mercancías sujetas a despacho, control y fiscalización de las autoridades aduaneras, incluyendo las obligaciones o restricciones aplicables, actos y formalidades inherentes al mismo. Fracción adicionada DOF 19-11-2025

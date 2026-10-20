@@ -17,4 +17,4 @@ source_sha256: d25fabb2d2e90d9f76028717f83c442d05a4f64024f13461285bda8ebd389a04
 
 # Artículo 79
 
-Los servidores públicos que incurran en el incumplimiento de las disposiciones derivadas de este Reglamento, serán sancionados de conformidad con la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, sin perjuicio de las responsabilidades civiles o penales a que haya lugar.
+Los servidores públicos que incurran en el incumplimiento de las disposiciones derivadas de este [Reglamento](articulo-3o.md), serán sancionados de conformidad con la [Ley](articulo-3o.md) Federal de Responsabilidades Administrativas de los Servidores Públicos, sin perjuicio de las responsabilidades civiles o penales a que haya lugar.

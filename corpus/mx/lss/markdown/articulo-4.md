@@ -17,4 +17,4 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 4
 
-El Seguro Social es el instrumento básico de la seguridad social, establecido como un servicio público de carácter nacional en los términos de esta Ley, sin perjuicio de los sistemas instituidos por otros ordenamientos.
+El Seguro Social es el instrumento básico de la seguridad social, establecido como un servicio público de carácter nacional en los términos de esta [Ley](articulo-5-A.md), sin perjuicio de los sistemas instituidos por otros ordenamientos.

@@ -17,4 +17,4 @@ source_sha256: 716e427a30e9982ccaa0576288aad2ad5305c624b236a0f342b6a87d60b7a9ed
 
 # Artículo 90
 
-La CONUEE debe implementar el Registro UPAC de acuerdo con lo establecido en las disposiciones administrativas de carácter general que para tal efecto emita.
+La CONUEE debe implementar el [Registro UPAC](articulo-5.md) de acuerdo con lo establecido en las disposiciones administrativas de carácter general que para tal efecto emita.

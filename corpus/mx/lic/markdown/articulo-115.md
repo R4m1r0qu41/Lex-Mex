@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LIC.pdf
 source_sha256: 98225a423eaa3dc47c9ec4ddb49ef8b188ed7f8e7e9ef17323a1c33e47e4284d
 ---
 
-> Título QUINTO · Capítulo II
+> Título QUINTO · Capítulo IV
 
 # Artículo 115
 
@@ -53,7 +53,9 @@ Las instituciones de crédito deberán suspender de forma inmediata la realizaci
 
 La obligación de suspensión a que se refiere el párrafo anterior dejará de surtir sus efectos cuando la Secretaria de Hacienda y Crédito Público elimine de la lista de personas bloqueadas al cliente o usuario en cuestión. Párrafo adicionado DOF 10-01-2014
 
-La Secretaría de Hacienda y Crédito Público establecerá, en las disposiciones de carácter general a que se refiere este artículo, los parámetros para la determinación de la introducción o eliminación de personas en la lista de personas bloqueadas. Párrafo adicionado DOF 10-01-2014 El cumplimiento de las obligaciones señaladas en este artículo no implicará trasgresión alguna a lo establecido en el artículo [142](articulo-142.md) de esta Ley. Párrafo adicionado DOF 28-01-2004. Reformado DOF 10-01-2014
+La Secretaría de Hacienda y Crédito Público establecerá, en las disposiciones de carácter general a que se refiere este artículo, los parámetros para la determinación de la introducción o eliminación de personas en la lista de personas bloqueadas. Párrafo adicionado DOF 10-01-2014
+
+El cumplimiento de las obligaciones señaladas en este artículo no implicará trasgresión alguna a lo establecido en el artículo [142](articulo-142.md) de esta Ley. Párrafo adicionado DOF 28-01-2004. Reformado DOF 10-01-2014
 
 Las disposiciones de carácter general a que se refiere este artículo deberán ser observadas por las instituciones de crédito, así como por los miembros del consejo de administración, directivos, funcionarios, empleados y apoderados respectivos, por lo cual, tanto las entidades como las personas mencionadas serán responsables del estricto cumplimiento de las obligaciones que mediante dichas disposiciones se establezcan. Párrafo adicionado DOF 28-01-2004. Reformado DOF 18-07-2006
 

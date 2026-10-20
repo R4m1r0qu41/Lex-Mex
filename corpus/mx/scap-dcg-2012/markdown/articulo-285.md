@@ -17,7 +17,7 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 285
 
-La institución de banca de desarrollo que se desempeñe como fiduciaria en términos del contrato constitutivo del Fondo de Protección, deberá realizar el pago dentro de los 45 días naturales siguientes a partir de la fecha en que se haya recibido la información, siempre y cuando la solicitud de pago haya sido presentada dentro del plazo previsto en el Artículo [276](articulo-276.md) de las presentes disposiciones.
+La institución de banca de desarrollo que se desempeñe como fiduciaria en términos del contrato constitutivo del [Fondo de Protección](articulo-1.md), deberá realizar el pago dentro de los 45 días naturales siguientes a partir de la fecha en que se haya recibido la información, siempre y cuando la solicitud de pago haya sido presentada dentro del plazo previsto en el Artículo [276](articulo-276.md) de las presentes disposiciones.
 
 La fiduciaria deberá constituir una reserva hasta por un monto equivalente a la suma de las cantidades que conforme al presente capítulo le hubiere correspondido a aquellas personas que, de conformidad con la documentación, registros y libros de la Sociedad, tengan derecho a reclamar el pago de sus depósitos en términos de este capítulo y que no lo hayan solicitado.
 

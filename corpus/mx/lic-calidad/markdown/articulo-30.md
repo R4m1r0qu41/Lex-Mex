@@ -17,10 +17,10 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 # Artículo 30
 
-Las Normas Oficiales Mexicanas deberán ser redactadas y estructuradas de acuerdo con lo previsto en esta Ley y en su Reglamento.
+Las [Normas Oficiales Mexicanas](articulo-4.md) deberán ser redactadas y estructuradas de acuerdo con lo previsto en esta Ley y en su Reglamento.
 
-Cada Norma Oficial Mexicana deberá contener el Procedimiento de Evaluación de la Conformidad aplicable conforme al nivel de riesgo o de protección necesarios para salvaguardar los objetivos legítimos de interés público que pretende atender.
+Cada Norma Oficial Mexicana deberá contener el [Procedimiento de Evaluación de la Conformidad](articulo-4.md) aplicable conforme al nivel de riesgo o de protección necesarios para salvaguardar los objetivos legítimos de interés público que pretende atender.
 
-Para los temas identificados en el Programa o en su suplemento que incidan en el ámbito de competencia de diversas Autoridades Normalizadoras, éstas deberán seguir el mecanismo de coordinación determinado por la Comisión, así como trabajar de manera conjunta en la propuesta, anteproyecto y proyecto de la Norma Oficial Mexicana correspondiente, en los términos previstos en el Reglamento de la presente Ley, buscando que exista una sola Norma Oficial Mexicana por sector o materia.
+Para los temas identificados en el [Programa](articulo-4.md) o en su suplemento que incidan en el ámbito de competencia de diversas [Autoridades Normalizadoras](articulo-4.md), éstas deberán seguir el mecanismo de coordinación determinado por la [Comisión](articulo-4.md), así como trabajar de manera conjunta en la propuesta, anteproyecto y proyecto de la Norma Oficial Mexicana correspondiente, en los términos previstos en el Reglamento de la presente Ley, buscando que exista una sola Norma Oficial Mexicana por sector o materia.
 
 El Reglamento de esta Ley y, en su caso, la Comisión establecerán la clasificación de las Normas Oficiales Mexicanas considerando los objetivos legítimos de interés público que persigan.

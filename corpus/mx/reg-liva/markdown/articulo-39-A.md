@@ -17,6 +17,6 @@ source_sha256: 4f46c1f92fb5682281a7679836e517de95975786fa5326848a331c9eb946cc5f
 
 # Artículo 39-A
 
-Para efectos del artículo [15](../../liva/markdown/articulo-15.md), fracción X, inciso d) de la Ley, se entenderán comprendidos los servicios por los que deriven intereses que provengan de créditos hipotecarios para el pago de pasivos contraídos para la adquisición, la ampliación, la construcción o la reparación de bienes inmuebles destinados a casa habitación.
+Para efectos del artículo [15](../../liva/markdown/articulo-15.md), fracción X, inciso d) de la [Ley](articulo-1.md), se entenderán comprendidos los servicios por los que deriven intereses que provengan de créditos hipotecarios para el pago de pasivos contraídos para la adquisición, la ampliación, la construcción o la reparación de bienes inmuebles destinados a casa habitación.
 
 Artículo adicionado DOF 25-09-2014

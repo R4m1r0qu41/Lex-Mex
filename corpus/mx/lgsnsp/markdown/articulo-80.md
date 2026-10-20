@@ -17,4 +17,4 @@ source_sha256: 7f01ee1b1deb901a23976507adccbddefbea50b0fc9a4ddceaf1225d711d50d0
 
 # Artículo 80
 
-Las personas integrantes de las Instituciones de Seguridad Pública que hayan alcanzado las edades límite para la permanencia, previstas en las disposiciones que las rijan, podrán ser reubicadas, sin discriminación, a consideración de las instancias, en otras áreas de los servicios de las propias instituciones.
+Las personas integrantes de las [Instituciones de Seguridad Pública](articulo-4.md) que hayan alcanzado las edades límite para la permanencia, previstas en las disposiciones que las rijan, podrán ser reubicadas, sin discriminación, a consideración de las instancias, en otras áreas de los servicios de las propias instituciones.

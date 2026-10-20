@@ -17,4 +17,4 @@ source_sha256: b19bcf104673af06117a6d4f3c947591f7a65999f19bad3dcfe2599a29bb3ab0
 
 # Artículo 69
 
-En los casos y en los términos en que la Secretaría determine procedente un evento de fuerza mayor o caso fortuito, se debe entender que durante ese periodo es imposible la realización de las obras o trabajos objeto del Permiso de Exploración, Permiso para Usos Diversos, Concesión o Aprovechamiento Geotérmico Exento.
+En los casos y en los términos en que la [Secretaría](articulo-3.md) determine procedente un evento de fuerza mayor o caso fortuito, se debe entender que durante ese periodo es imposible la realización de las obras o trabajos objeto del Permiso de Exploración, Permiso para Usos Diversos, Concesión o Aprovechamiento Geotérmico Exento.

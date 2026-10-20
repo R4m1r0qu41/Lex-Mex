@@ -27,4 +27,4 @@ III.- Otorgue certificados en contravención a las reglas de uso;
 
 IV.- Se niegue a certificar el cumplimiento de las reglas de uso por parte de cualquier persona que compruebe estar dando cumplimiento a éstas, o
 
-V.- La indicación geográfica se quede sin efectos en términos del artículo [269](articulo-269.md) de esta Ley.
+V.- La indicación geográfica se quede sin efectos en términos del artículo [269](articulo-269.md) de esta [Ley](articulo-4.md).

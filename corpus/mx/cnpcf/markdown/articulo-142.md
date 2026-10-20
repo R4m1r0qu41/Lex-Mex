@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Primero · Capítulo II
+
 # Artículo 142
 
 La autoridad jurisdiccional podrá, por razones de orden o seguridad, antes del inicio y en el desarrollo de la audiencia, prohibir el ingreso físico o digital, a:

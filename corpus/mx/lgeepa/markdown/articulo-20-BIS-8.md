@@ -17,6 +17,6 @@ source_sha256: 0574853d06020030188e8aee1eae5dabb2b476ac630cc52be631a48d2b91adbc
 
 # Artículo 20 BIS 8
 
-La Secretaría promoverá el proceso de consulta previa, libre e informada y la participación de las comunidades indígenas y afromexicanas, las comunidades equiparables y de los propietarios y poseedores de la tierra en los procesos de elaboración, observancia, revisión y modificación de los Ordenamientos Ecológicos Territoriales, Ordenamientos Ecológicos Regionales y Ordenamientos Ecológicos Locales.
+La [Secretaría](articulo-3o.md) promoverá el proceso de consulta previa, libre e informada y la participación de las comunidades indígenas y afromexicanas, las comunidades equiparables y de los propietarios y poseedores de la tierra en los procesos de elaboración, observancia, revisión y modificación de los Ordenamientos Ecológicos Territoriales, Ordenamientos Ecológicos Regionales y Ordenamientos Ecológicos Locales.
 
 Artículo adicionado DOF 11-04-2022

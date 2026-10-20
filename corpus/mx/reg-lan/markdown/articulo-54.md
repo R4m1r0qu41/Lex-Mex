@@ -17,4 +17,4 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 54
 
-"La Comisión" establecerá oficinas del "Registro" en cada entidad federativa, donde se inscribirán los títulos de concesión, asignación y permiso y los actos señalados en el Capítulo IV, del Título Cuarto, de la "Ley".
+"[La Comisión](articulo-1o.md)" establecerá oficinas del "[Registro](articulo-1o.md)" en cada entidad federativa, donde se inscribirán los títulos de concesión, asignación y permiso y los actos señalados en el Capítulo IV, del Título Cuarto, de la "[Ley](articulo-1o.md)".

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título XV · Capítulo V
+
 # Artículo 403
 
 Las notificaciones personales también podrán practicarse con el interesado, en el último domicilio que hubiere proporcionado a la autoridad financiera correspondiente o en el último domicilio que haya señalado ante la propia autoridad en el procedimiento administrativo de que se trate, para lo cual se levantará acta en los términos a que se refiere el antepenúltimo párrafo de este artículo.

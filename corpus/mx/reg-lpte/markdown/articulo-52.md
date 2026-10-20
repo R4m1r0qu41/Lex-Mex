@@ -17,4 +17,4 @@ source_sha256: 716e427a30e9982ccaa0576288aad2ad5305c624b236a0f342b6a87d60b7a9ed
 
 # Artículo 52
 
-La elaboración del PROSENER y el seguimiento a sus indicadores y metas deben alinearse con lo establecido en las directrices de los programas derivados del PND que para estos fines establezca la Secretaría de Hacienda y Crédito Público.
+La elaboración del [PROSENER](articulo-5.md) y el seguimiento a sus indicadores y metas deben alinearse con lo establecido en las directrices de los programas derivados del [PND](articulo-5.md) que para estos fines establezca la [Secretaría](articulo-5.md) de Hacienda y Crédito Público.

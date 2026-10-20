@@ -17,7 +17,7 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 173
 
-El patrón que se dictamine en los términos del presente Reglamento estará a lo siguiente: REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN I. No serán sujetos de visitas domiciliarias por el o los ejercicios dictaminados, excepto cuando al revisar el dictamen se encuentre en su formulación irregularidades de tal naturaleza que obliguen al Instituto a ejercer sus facultades de comprobación.
+El patrón que se dictamine en los términos del presente Reglamento estará a lo siguiente: REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN I. No serán sujetos de visitas domiciliarias por el o los ejercicios dictaminados, excepto cuando al revisar el dictamen se encuentre en su formulación irregularidades de tal naturaleza que obliguen al [Instituto](../../lss/markdown/articulo-5-A.md) a ejercer sus facultades de comprobación.
 
 II. En los casos en que se hubieran emitido cédulas de liquidación por diferencias en el pago de cuotas y el dictamen se encuentre en proceso de formulación, el patrón deberá aclararlas, debiendo en su caso, liquidar el saldo a su cargo, tomándolas en cuenta el contador público autorizado que dictamine, como parte de su revisión en la determinación de las diferencias que resulten de su auditoría en forma específica para los trabajadores y por los periodos que se hubieran emitido, y
 
@@ -27,6 +27,6 @@ a).- Que se haya concluido y presentado el dictamen correspondiente;
 
 b).- Que los avisos afiliatorios y las modificaciones salariales derivados del referido dictamen se hubieran presentado por el patrón en los formatos o medios electrónicos dispuestos para ello, y
 
-c).- Que las cuotas obrero patronales a cargo del patrón, derivadas del dictamen, se hubiesen liquidado en su totalidad o se haya agotado el plazo de doce meses establecido en el artículo [149](articulo-149.md) de este Reglamento, de conformidad con el artículo [40](../../lss/markdown/articulo-40.md) C de la Ley.
+c).- Que las cuotas obrero patronales a cargo del patrón, derivadas del dictamen, se hubiesen liquidado en su totalidad o se haya agotado el plazo de doce meses establecido en el artículo [149](articulo-149.md) de este Reglamento, de conformidad con el artículo [40](../../lss/markdown/articulo-40.md) C de la [Ley](../../lss/markdown/articulo-5-A.md).
 
 Lo establecido en esta fracción no es aplicable bajo ninguna circunstancia a los créditos que se deriven del Seguro de Retiro, Cesantía en Edad Avanzada y Vejez; capitales constitutivos, recargos documentados, visitas domiciliarias y en general, resoluciones derivadas de cualquier medio de defensa ejercido por el patrón.

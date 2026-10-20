@@ -27,7 +27,7 @@ III. Ser controlado por la agregaduría militar de México en el país anfitrió
 
 IV. Aplicarse en la realización de sus estudios para obtener buenas calificaciones, conducirse con dignidad y observar buena conducta en el desempeño de sus actividades académicas y de convivencia escolar y social;
 
-V. Observar las disposiciones legales aplicables en el desempeño de su comisión en el país donde se encuentre, así como las normas protocolarias de la Fuerza Armada e Institución Educativa donde realice sus estudios;
+V. Observar las disposiciones legales aplicables en el desempeño de su comisión en el país donde se encuentre, así como las normas protocolarias de la Fuerza Armada e [Institución Educativa](articulo-3.md) donde realice sus estudios;
 
 VI. Sujetarse a las leyes y reglamentos militares vigentes en nuestro país, y
 

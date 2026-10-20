@@ -19,7 +19,7 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 Se declarará la nulidad del registro de una marca cuando:
 
-I.- Se haya otorgado en contravención de las disposiciones de esta Ley o la que hubiese estado vigente en la época de su registro.
+I.- Se haya otorgado en contravención de las disposiciones de esta [Ley](articulo-4.md) o la que hubiese estado vigente en la época de su registro.
 
 No obstante lo dispuesto en esta fracción, la acción de nulidad no podrá fundarse en la impugnación de la representación legal de la persona solicitante del registro de la marca, ni en trámites relativos a su otorgamiento o vigencia; Párrafo reformado DOF 03-04-2026
 
@@ -37,6 +37,6 @@ V.- La persona agente, representante legal, usuaria o distribuidora de la person
 
 VI.- Se haya obtenido de mala fe.
 
-Las acciones de nulidad previstas en las fracciones II, III y IV del presente artículo podrán ejercitarse dentro de un plazo de cinco años, contado a partir de la fecha en que surta sus efectos la publicación del registro en la Gaceta. Las relativas a las fracciones I, V y VI podrán ejercitarse en cualquier tiempo.
+Las acciones de nulidad previstas en las fracciones II, III y IV del presente artículo podrán ejercitarse dentro de un plazo de cinco años, contado a partir de la fecha en que surta sus efectos la publicación del registro en la [Gaceta](articulo-4.md). Las relativas a las fracciones I, V y VI podrán ejercitarse en cualquier tiempo.
 
-En la resolución que declare la nulidad parcial, el Instituto ordenará se asiente en el título respectivo una anotación marginal, en la cual se harán constar las modificaciones a éste, así como las causas que la originaron.
+En la resolución que declare la nulidad parcial, el [Instituto](articulo-4.md) ordenará se asiente en el título respectivo una anotación marginal, en la cual se harán constar las modificaciones a éste, así como las causas que la originaron.

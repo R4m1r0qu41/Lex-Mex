@@ -17,4 +17,4 @@ source_sha256: d23aedc9ffdb09b9202311f03023241da20445cb45aea855b37bfd9685768861
 
 # Artículo 98
 
-Los Organismos de Evaluación de la Conformidad deben informar semestralmente, a las Autoridades Normalizadoras que emitieron las Normas Oficiales Mexicanas en las que se encuentran acreditados, las solicitudes de prestación de servicios de Evaluación de la Conformidad que no atiendan por presencia de Conflicto de Interés, así como aquellas que no cumplen con los requerimientos de las Normas Oficiales Mexicanas.
+Los Organismos de Evaluación de la Conformidad deben informar semestralmente, a las Autoridades Normalizadoras que emitieron las Normas Oficiales Mexicanas en las que se encuentran acreditados, las solicitudes de prestación de servicios de Evaluación de la Conformidad que no atiendan por presencia de [Conflicto de Interés](articulo-2.md), así como aquellas que no cumplen con los requerimientos de las Normas Oficiales Mexicanas.

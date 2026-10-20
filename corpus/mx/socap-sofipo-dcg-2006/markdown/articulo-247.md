@@ -18,4 +18,4 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 247
 
-Una vez concluida la filmación de un rollo de película, podrá enviarse para su revelado a un establecimiento especializado, o bien ser revelado con equipo y personal de la propia Sociedad Financiera Popular, siempre que en uno u otro caso dicho revelado se realice mediante sistemas que garanticen un óptimo nivel de calidad y se preserve la confidencialidad a que hace mención el artículo 34 de la Ley.
+Una vez concluida la filmación de un rollo de película, podrá enviarse para su revelado a un establecimiento especializado, o bien ser revelado con equipo y personal de la propia [Sociedad](articulo-1.md) Financiera Popular, siempre que en uno u otro caso dicho revelado se realice mediante sistemas que garanticen un óptimo nivel de calidad y se preserve la confidencialidad a que hace mención el artículo 34 de la [Ley](articulo-1.md).

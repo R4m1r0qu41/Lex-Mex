@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LTOSF.pdf
 source_sha256: bf9e443e89a5c0ba268e76f20923ae25195ef5c1ffbacecff36693ca228c3667
 ---
 
+> Capítulo V · Sección VIII
+
 # Artículo 48
 
 El Banco de México sancionará con multa de mil a cinco mil días de salario, a las [Entidades Financieras](articulo-3.md) que:

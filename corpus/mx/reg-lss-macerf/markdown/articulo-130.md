@@ -17,4 +17,4 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 130
 
-Los responsables solidarios señalados en la Ley y el Código deberán pagar hasta el límite de su responsabilidad los créditos fiscales que se adeuden al Instituto, dentro de los quince días hábiles siguientes a aquél en que surta efectos la notificación de la resolución administrativa correspondiente.
+Los responsables solidarios señalados en la [Ley](../../lss/markdown/articulo-5-A.md) y el [Código](../../lss/markdown/articulo-5-A.md) deberán pagar hasta el límite de su responsabilidad los créditos fiscales que se adeuden al [Instituto](../../lss/markdown/articulo-5-A.md), dentro de los quince días hábiles siguientes a aquél en que surta efectos la notificación de la resolución administrativa correspondiente.

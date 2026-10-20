@@ -17,8 +17,8 @@ source_sha256: 4d25bcb022ab62a24462e11a230c9554c0120012913ab4599cd3ec1b2b275c1d
 
 # Artículo 98
 
-La inscripción en el Registro de Peritos Mineros tendrá vigencia de cinco años y podrá renovarse por plazos iguales, previa solicitud firmada por el interesado, presentada dentro de los sesenta días anteriores a la conclusión de la vigencia, a la que se acompañarán nuevas fotografías.
+La inscripción en el [Registro](articulo-1o.md) de [Peritos Mineros](articulo-1o.md) tendrá vigencia de cinco años y podrá renovarse por plazos iguales, previa solicitud firmada por el interesado, presentada dentro de los sesenta días anteriores a la conclusión de la vigencia, a la que se acompañarán nuevas fotografías.
 
 Si el interesado no efectúa la renovación de su registro, dentro del plazo señalado en el párrafo anterior, se procederá de oficio a la cancelación del mismo.
 
-La Secretaría publicará semestralmente en el Diario Oficial de la Federación un listado de los peritos registrados, así como de los suspendidos y cancelados, independientemente de su difusión por otros medios.
+La [Secretaría](articulo-1o.md) publicará semestralmente en el Diario Oficial de la Federación un listado de los peritos registrados, así como de los suspendidos y cancelados, independientemente de su difusión por otros medios.

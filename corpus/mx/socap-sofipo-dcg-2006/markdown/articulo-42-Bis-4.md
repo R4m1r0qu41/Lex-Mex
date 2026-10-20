@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 42 Bis 4
 
-Las Sociedades Financieras Populares calificarán, constituirán y registrarán en su contabilidad las reservas preventivas para cada uno de los créditos de su cartera crediticia comercial, utilizando para tal efecto el saldo del adeudo correspondiente al último día del mes, ajustándose a la metodología y a los requisitos de información establecidos conforme a lo siguiente:
+Las [Sociedades](articulo-1.md) Financieras Populares calificarán, constituirán y registrarán en su contabilidad las reservas preventivas para cada uno de los créditos de su cartera crediticia comercial, utilizando para tal efecto el saldo del adeudo correspondiente al último día del mes, ajustándose a la metodología y a los requisitos de información establecidos conforme a lo siguiente:
 
 I. Para aquellos créditos clasificados en etapa 1 o 3 de acuerdo con lo dispuesto en el artículo [42 Bis 3](articulo-42-Bis-3.md) de las presentes disposiciones, el monto de reservas a constituir por cada crédito será el resultado de multiplicar la Probabilidad de Incumplimiento por la Severidad de la Pérdida por la Exposición al Incumplimiento:
 

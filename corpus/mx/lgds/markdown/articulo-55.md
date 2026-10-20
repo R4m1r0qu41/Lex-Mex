@@ -17,4 +17,4 @@ source_sha256: 32822f50bb2de81185408f9450d61a49d678429c52c5379822a507c7027a5275
 
 # Artículo 55
 
-El Consejo es el órgano consultivo de la Secretaría, de participación ciudadana y conformación plural, que tendrá por objeto analizar y proponer programas y acciones que inciden en el cumplimiento de la Política Nacional de Desarrollo Social.
+El Consejo es el órgano consultivo de la [Secretaría](articulo-5.md), de participación ciudadana y conformación plural, que tendrá por objeto analizar y proponer programas y acciones que inciden en el cumplimiento de la Política Nacional de Desarrollo Social.

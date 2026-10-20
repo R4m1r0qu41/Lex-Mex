@@ -18,4 +18,4 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 211 Bis 8
 
-El área de auditoría interna de las Sociedades Financieras Populares deberá llevar a cabo revisiones periódicas y sistemáticas, acorde con su programa anual de trabajo, que permitan verificar el debido cumplimiento a lo establecido en el presente capítulo.
+El área de auditoría interna de las [Sociedades](articulo-1.md) Financieras Populares deberá llevar a cabo revisiones periódicas y sistemáticas, acorde con su programa anual de trabajo, que permitan verificar el debido cumplimiento a lo establecido en el presente capítulo.

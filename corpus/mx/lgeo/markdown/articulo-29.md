@@ -17,4 +17,4 @@ source_sha256: 67309bf186af42de0f9e98010d38c89598676faea7f2b558ac9c9e6736d64d35
 
 # Artículo 29
 
-Las Aguas Geotérmicas que provengan del ejercicio de un Permiso de Exploración o Concesión geotérmica deben ser re-inyectadas al Área Geotérmica con el fin de mantener la sustentabilidad de ésta, en términos de las disposiciones que resulten aplicables.
+Las [Aguas Geotérmicas](articulo-2.md) que provengan del ejercicio de un [Permiso de Exploración](articulo-2.md) o [Concesión](articulo-2.md) geotérmica deben ser re-inyectadas al [Área Geotérmica](articulo-2.md) con el fin de mantener la sustentabilidad de ésta, en términos de las disposiciones que resulten aplicables.

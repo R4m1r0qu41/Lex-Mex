@@ -19,4 +19,4 @@ source_sha256: 7b3cf7a0ff59f76503a97a535457c4a7dd3b1305e7a36f4fca82bd661eab1168
 
 Los informes y documentos distintos a los que se entreguen periódicamente, sólo podrán revelar datos en casos específicos, una vez que los mismos se encuentren concluidos.
 
-En todo caso, omitirán cualquier información cuya revelación indebida afecte la Seguridad Nacional, el desempeño de las funciones del Centro o la privacidad de los particulares. Para tal efecto, ningún informe o documento deberá revelar información reservada.
+En todo caso, omitirán cualquier información cuya revelación indebida afecte la Seguridad Nacional, el desempeño de las funciones del [Centro](articulo-6.md) o la privacidad de los particulares. Para tal efecto, ningún informe o documento deberá revelar información reservada.

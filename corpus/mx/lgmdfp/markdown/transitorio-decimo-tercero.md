@@ -15,6 +15,6 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Décimo Tercero
 
-El Banco Nacional de Datos Forenses, los registros forenses Federal y el de las Entidades Federativas comenzarán a operar dentro del año siguiente a la entrada en vigor del presente Decreto.
+El [Banco Nacional de Datos Forenses](articulo-4.md), los registros forenses Federal y el de las [Entidades Federativas](articulo-4.md) comenzarán a operar dentro del año siguiente a la entrada en vigor del presente Decreto.
 
 Dentro de los tres meses siguientes a que inicie la operación de dichos registros, las autoridades que posean información forense deberán incorporarla al registro que corresponda.

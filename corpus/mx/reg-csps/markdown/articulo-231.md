@@ -17,4 +17,4 @@ source_sha256: 70464807d63da08244e495f2ff0ac30b12b30119926b84cedc7930397fcb80ef
 
 # Artículo 231
 
-Tratándose de permisos sanitarios previos de importación, la Secretaría tendrá cinco días para resolver las solicitudes, y dos días cuando se trate de modificaciones a éstos. En caso de modificaciones, una vez transcurrido el plazo sin que la autoridad hubiese dictado resolución, ésta se tendrá por aprobada y, a petición del solicitante, la Secretaría deberá extender por escrito la constancia respectiva, a más tardar al día hábil siguiente a la presentación de la petición.
+Tratándose de permisos sanitarios previos de importación, la [Secretaría](articulo-2o.md) tendrá cinco días para resolver las solicitudes, y dos días cuando se trate de modificaciones a éstos. En caso de modificaciones, una vez transcurrido el plazo sin que la autoridad hubiese dictado resolución, ésta se tendrá por aprobada y, a petición del solicitante, la Secretaría deberá extender por escrito la constancia respectiva, a más tardar al día hábil siguiente a la presentación de la petición.

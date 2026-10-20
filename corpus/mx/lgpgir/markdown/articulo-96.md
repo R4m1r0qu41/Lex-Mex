@@ -31,7 +31,7 @@ V. Integrar la información relativa a la gestión integral de los residuos sól
 
 VI. Elaborar, actualizar y difundir el diagnóstico básico para la gestión integral de residuos sólidos urbanos y de manejo especial;
 
-VII. Coordinarse con las autoridades federales, con otras entidades federativas o municipios, según proceda, y concertar con representantes de organismos privados y sociales, para alcanzar las finalidades a que se refiere esta Ley y para la instrumentación de planes de manejo de los distintos residuos que sean de su competencia;
+VII. Coordinarse con las autoridades federales, con otras entidades federativas o municipios, según proceda, y concertar con representantes de organismos privados y sociales, para alcanzar las finalidades a que se refiere esta [Ley](articulo-5.md) y para la instrumentación de planes de manejo de los distintos residuos que sean de su competencia;
 
 VIII. Establecer programas para mejorar el desempeño ambiental de las cadenas productivas que intervienen en la segregación, acopio y preparación de los residuos sólidos urbanos y de manejo especial para su reciclaje;
 

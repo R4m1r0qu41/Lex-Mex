@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPC.pdf
 source_sha256: 7fea623841fd6e05e8c0d01d2cf09f85b0b8e58ba4d9e4f6711f8bad1f448e55
 ---
 
+> Capítulo VII
+
 # Artículo 70
 
 En los casos de compraventa a plazos de bienes muebles o inmuebles a que se refiere esta ley, si se rescinde el contrato, vendedor y comprador deben restituirse mutuamente las prestaciones que se hubieren hecho. El vendedor que hubiera entregado la cosa tendrá derecho a exigir por el uso de ella el pago de un alquiler o renta y, en su caso, una compensación por el demérito que haya sufrido el bien.

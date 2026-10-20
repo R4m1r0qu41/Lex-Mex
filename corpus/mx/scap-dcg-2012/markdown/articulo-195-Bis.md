@@ -18,7 +18,7 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 195 Bis
 
-La Comisión, podrá autorizar a las Sociedades Cooperativas de Ahorro y Préstamo con niveles de operación I a IV, respecto de la aplicación de los criterios de contabilidad previstos en el Anexo E de estas disposiciones, llevar a cabo registros contables especiales, cuando a juicio de la Comisión, estos sean necesarios para procurar la estabilidad y correcto funcionamiento de las Sociedades Cooperativas de Ahorro y Préstamo durante procesos de Saneamiento financiero o de Reestructuración corporativa, siempre que dichos procesos no deriven del incumplimiento al marco normativo que les resulte aplicable y que la Sociedad Cooperativa de Ahorro y Préstamo de que se trate, no se encuentre aplicando registros contables especiales a la fecha de la solicitud.
+La [Comisión](articulo-1.md), podrá autorizar a las Sociedades Cooperativas de Ahorro y Préstamo con niveles de operación I a IV, respecto de la aplicación de los criterios de contabilidad previstos en el Anexo E de estas disposiciones, llevar a cabo registros contables especiales, cuando a juicio de la Comisión, estos sean necesarios para procurar la estabilidad y correcto funcionamiento de las Sociedades Cooperativas de Ahorro y Préstamo durante procesos de Saneamiento financiero o de Reestructuración corporativa, siempre que dichos procesos no deriven del incumplimiento al marco normativo que les resulte aplicable y que la Sociedad Cooperativa de Ahorro y Préstamo de que se trate, no se encuentre aplicando registros contables especiales a la fecha de la solicitud.
 
 La solicitud para obtener la autorización de aplicación de registros contables especiales deberá enviarse a la Comisión conforme al formato contenido en el Anexo V de las presentes disposiciones y estar firmada con firma autógrafa, o bien, mediante [Firma Electrónica Avanzada o Fiable](articulo-1.md) por el representante legal de las Sociedades Cooperativas de Ahorro y Préstamo, y deberá contener por lo menos, lo siguiente:
 
@@ -30,7 +30,7 @@ III. Los indicadores de solvencia, liquidez, capital y aquellos relacionados con
 
 IV. Las acciones y medidas de remediación que conforman los procesos de Saneamiento financiero o de Reestructuración corporativa que requiere la Sociedad Cooperativas de Ahorro y Préstamo.
 
-V. Evidencia de que las acciones y medidas señaladas en la solicitud cuentan con la aprobación del Consejo de Administración de la Sociedad Cooperativa de Ahorro y Préstamo solicitante.
+V. Evidencia de que las acciones y medidas señaladas en la solicitud cuentan con la aprobación del [Consejo de Administración](articulo-1.md) de la Sociedad Cooperativa de Ahorro y Préstamo solicitante.
 
 Para efectos del presente artículo, se debe entender por:
 

@@ -17,7 +17,7 @@ source_sha256: 8515c812258bcc7c342e8566ff623c7f5e880f2eb9ee2ad154758077089f11ca
 
 # Artículo 28
 
-Son atribuciones de las Comisiones Locales, en el ámbito de sus respectivas competencias:
+Son atribuciones de las [Comisiones Locales](articulo-5.md), en el ámbito de sus respectivas competencias:
 
 I. Coordinar, conducir y supervisar el desarrollo de la promoción, conforme a las disposiciones aplicables;
 
@@ -25,6 +25,6 @@ II. Determinar y coordinar los recursos humanos y materiales necesarios; Fracci�
 
 III. Coordinar la integración, control y custodia de la información relativa al concurso de selección;
 
-IV. Mantener informada a la Comisión Coordinadora del avance y resultados de las actividades a su cargo, y
+IV. Mantener informada a la [Comisión Coordinadora](articulo-5.md) del avance y resultados de las actividades a su cargo, y
 
 V. Las demás que se le asignen por conducto de la Comisión Coordinadora.

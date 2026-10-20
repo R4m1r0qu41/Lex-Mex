@@ -21,6 +21,6 @@ Los permisos son intransferibles; toda contravención será sancionada, conforme
 
 El interesado deberá tener el permiso original, en el lugar, buque, plataforma o aeronave que utilice para el vertimiento. La omisión a esta obligación será sancionada.
 
-Los interesados contarán con un libro de registro denominado bitácora de vertimiento, que contendrá la información siguiente: fecha, hora, situación geográfica, profundidad, material vertido, volumen, método de vertido, embalaje, dirección y velocidad de la corriente, estado de la mar, dirección y velocidad del viento, temperatura y presión atmosférica, humedad relativa, temperatura del agua, nubosidad y cobertura del cielo; debiendo presentarse cuando sea requerido por la Secretaría.
+Los interesados contarán con un libro de registro denominado bitácora de vertimiento, que contendrá la información siguiente: fecha, hora, situación geográfica, profundidad, material vertido, volumen, método de vertido, embalaje, dirección y velocidad de la corriente, estado de la mar, dirección y velocidad del viento, temperatura y presión atmosférica, humedad relativa, temperatura del agua, nubosidad y cobertura del cielo; debiendo presentarse cuando sea requerido por la [Secretaría](articulo-2.md).
 
 La Secretaría establecerá la vigencia en el permiso, en función del tipo de vertimiento.

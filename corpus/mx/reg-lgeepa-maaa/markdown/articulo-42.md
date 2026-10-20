@@ -17,4 +17,4 @@ source_sha256: d50b44df321cf8be51375c07cee5dbcf03eac76df1cd11ab4bd777c9fce0f789
 
 # Artículo 42
 
-Será motivo de suspensión de la aprobación del Auditor Ambiental, además de los supuestos establecidos en la Ley Federal sobre Metrología y Normalización y su Reglamento, incumplir cualquiera de las obligaciones señaladas en el artículo [39](articulo-39.md) del presente Reglamento.
+Será motivo de suspensión de la aprobación del [Auditor Ambiental](articulo-2.md), además de los supuestos establecidos en la [Ley](articulo-2.md) Federal sobre Metrología y Normalización y su Reglamento, incumplir cualquiera de las obligaciones señaladas en el artículo [39](articulo-39.md) del presente Reglamento.

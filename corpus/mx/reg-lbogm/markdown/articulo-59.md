@@ -17,7 +17,7 @@ source_sha256: 667636f9e0ea65e72ac9d6d7b4d7563a183b75d0f140268a61929c74f5f88041
 
 # Artículo 59
 
-En caso de la liberación accidental, los permisionarios o quienes realicen actividades de utilización confinada deberán comunicar dicha situación a la Secretaría que expidió el permiso o a la cual se presentó el aviso, dentro de las veinticuatro horas siguientes a que se tenga conocimiento de la misma. Las Secretarías competentes establecerán en el permiso el medio a través del cual el permisionario deberá realizar esta comunicación, y en los formatos de los avisos a que se refiere el artículo [72](../../lbogm/markdown/articulo-72.md) de la Ley.
+En caso de la liberación accidental, los permisionarios o quienes realicen actividades de utilización confinada deberán comunicar dicha situación a la Secretaría que expidió el permiso o a la cual se presentó el aviso, dentro de las veinticuatro horas siguientes a que se tenga conocimiento de la misma. Las [Secretarías competentes](articulo-2.md) establecerán en el permiso el medio a través del cual el permisionario deberá realizar esta comunicación, y en los formatos de los avisos a que se refiere el artículo [72](../../lbogm/markdown/articulo-72.md) de la [Ley](articulo-2.md).
 
 Inmediatamente después de tomar conocimiento de la liberación accidental, la Secretaría que expidió el permiso o recibió el aviso deberá informar a las otras Secretarías sobre el accidente ocurrido y los riesgos o afectaciones que pudieran producirse o se hayan producido a la salud humana, al medio ambiente, la diversidad biológica o la sanidad animal, vegetal o acuícola. Estas dependencias podrán imponer en su ámbito de competencia las medidas de seguridad o de urgente aplicación que consideren necesarias para contender con dicha situación.
 
@@ -25,7 +25,7 @@ Adicionalmente a la comunicación señalada en el primer párrafo de este artíc
 
 I. Datos de identificación del permiso o del aviso;
 
-II. El polígono donde ocurrió la liberación accidental, ubicado en coordenadas UTM;
+II. El polígono donde ocurrió la liberación accidental, ubicado en coordenadas [UTM](articulo-2.md);
 
 III. Circunstancias y fecha estimada de la liberación accidental;
 

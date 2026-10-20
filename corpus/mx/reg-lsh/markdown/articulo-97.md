@@ -17,4 +17,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Artículo 97
 
-El Transvase solo puede llevarse a cabo desde Buque-tanque, Semirremolque, Carro-tanque o Auto- tanque hacia las instalaciones fijas de los Sistemas de Almacenamiento, Distribución, Formulación, Refinación de Petróleo y Licuefacción de Gas Natural y viceversa, así como para la entrega de Petrolíferos a instalaciones permisionadas para el Despacho para Autoconsumo que cuenten con permiso vigente.
+El [Transvase](articulo-3.md) solo puede llevarse a cabo desde [Buque-tanque](articulo-3.md), [Semirremolque](articulo-3.md), [Carro-tanque](articulo-3.md) o Auto- tanque hacia las instalaciones fijas de los [Sistemas](articulo-3.md) de Almacenamiento, Distribución, Formulación, [Refinación de Petróleo](articulo-3.md) y [Licuefacción](articulo-3.md) de Gas Natural y viceversa, así como para la entrega de Petrolíferos a instalaciones permisionadas para el [Despacho para Autoconsumo](articulo-3.md) que cuenten con permiso vigente.

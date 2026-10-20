@@ -18,4 +18,4 @@ source_sha256: 8ac502b97188bd6e795781e9821be6e62ccdd8050cdd3be74aab52a888e67939
 
 # Artículo 132
 
-Las facultades que, de acuerdo con lo dispuesto en las presentes disposiciones, corresponden al [Consejo](articulo-1.md), a los comisarios, al Comité de Auditoría y al director general serán ejercidas sin perjuicio de otras que se contengan en las demás disposiciones legales que les sean aplicables a las uniones de crédito.
+Las facultades que, de acuerdo con lo dispuesto en las presentes disposiciones, corresponden al [Consejo](articulo-1.md), a los comisarios, al [Comité de Auditoría](articulo-1.md) y al director general serán ejercidas sin perjuicio de otras que se contengan en las demás disposiciones legales que les sean aplicables a las uniones de crédito.

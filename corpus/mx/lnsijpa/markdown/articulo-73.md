@@ -17,6 +17,6 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 # Artículo 73
 
-Autoridades Auxiliares Los órganos del Sistema podrán auxiliarse de la Comisión Nacional de los Derechos Humanos y de los organismos de protección de los derechos humanos de las entidades federativas.
+Autoridades Auxiliares Los órganos del [Sistema](articulo-3.md) podrán auxiliarse de la Comisión Nacional de los Derechos Humanos y de los organismos de protección de los derechos humanos de las entidades federativas.
 
 Las policías y servicios periciales que actúen como auxiliares del Ministerio Público, también deberán acreditar que su personal cuenta con capacitación en materia de derechos de niñas, niños y adolescentes.

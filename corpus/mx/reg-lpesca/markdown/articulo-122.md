@@ -17,7 +17,7 @@ source_sha256: e5c0ecb4328043b7090ee5d73e982d6a04410f1330f6fdb350a7a34527eb2e59
 
 # Artículo 122
 
-La Secretaría resolverá la solicitud de autorización para la acuacultura didáctica en un plazo de 21 días hábiles, bajo el siguiente procedimiento:
+La [Secretaría](articulo-2o.md) resolverá la solicitud de autorización para la acuacultura didáctica en un plazo de 21 días hábiles, bajo el siguiente procedimiento:
 
 I. La Secretaría integrará el expediente en un plazo de 7 días hábiles, dentro del cual requerirá al interesado la información o documentación faltante. De no requerir al interesado subsane las deficiencias que existieren, se considerará integrado el expediente, y
 

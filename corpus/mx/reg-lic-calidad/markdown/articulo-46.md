@@ -17,4 +17,4 @@ source_sha256: d23aedc9ffdb09b9202311f03023241da20445cb45aea855b37bfd9685768861
 
 # Artículo 46
 
-Las personas integrantes del Consejo Técnico tienen las siguientes obligaciones: I. Participar en la elaboración de recomendaciones y propuestas de solución; II. Cumplir las funciones encomendadas, y III. Excusarse ante la Comisión de conocer algún asunto por Conflicto de Interés.
+Las personas integrantes del [Consejo Técnico](articulo-2.md) tienen las siguientes obligaciones: I. Participar en la elaboración de recomendaciones y propuestas de solución; II. Cumplir las funciones encomendadas, y III. Excusarse ante la Comisión de conocer algún asunto por [Conflicto de Interés](articulo-2.md).

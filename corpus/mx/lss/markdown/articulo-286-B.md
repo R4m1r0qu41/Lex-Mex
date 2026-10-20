@@ -17,7 +17,7 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 286-B
 
-A propuesta del Director General, con base en el proyecto de presupuesto para el siguiente ejercicio y en los estudios financieros y actuariales que se presenten cada año a la Asamblea General, en cumplimiento a lo dispuesto en los artículos [245](articulo-245.md) y [261](articulo-261.md) de esta Ley, el Consejo Técnico deberá aprobar anualmente en forma previa al inicio del ejercicio fiscal un Programa de Administración y Constitución de Reservas, el cual confirmará o adecuará en lo conducente, una vez que se conozca el presupuesto de gastos definitivo del Instituto. Este programa contendrá como mínimo los siguientes elementos:
+A propuesta del Director General, con base en el proyecto de presupuesto para el siguiente ejercicio y en los estudios financieros y actuariales que se presenten cada año a la Asamblea General, en cumplimiento a lo dispuesto en los artículos [245](articulo-245.md) y [261](articulo-261.md) de esta [Ley](articulo-5-A.md), el Consejo Técnico deberá aprobar anualmente en forma previa al inicio del ejercicio fiscal un Programa de Administración y Constitución de Reservas, el cual confirmará o adecuará en lo conducente, una vez que se conozca el presupuesto de gastos definitivo del [Instituto](articulo-5-A.md). Este programa contendrá como mínimo los siguientes elementos:
 
 I. Informe sobre la totalidad de los recursos financieros en poder del Instituto, separándolos por tipo de reservas y seguro conforme a lo que se establece en el artículo [280](articulo-280.md) de esta Ley;
 

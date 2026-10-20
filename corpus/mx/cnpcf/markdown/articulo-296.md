@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo II
+
 # Artículo 296
 
 Si la persona testigo o declarante no hablara o entendiera el idioma español, no sabe leer; o tiene algún impedimento de comunicación para la manifestación de su voluntad, declarará a través de la persona intérprete que le acompañe o la persona que para dichos efectos designe la autoridad jurisdiccional, preferentemente de forma gratuita, según el caso en particular.

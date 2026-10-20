@@ -29,8 +29,8 @@ IV. Si el pensionado o pensionada no estuviera casado civilmente o no mantuviere
 
 Estas asignaciones familiares se entregarán de preferencia al propio pensionado, pero la correspondiente a los hijos podrá entregarse a la persona o institución que los tenga bajo su cargo directo, en el caso de no vivir con el pensionado.
 
-Las asignaciones familiares cesarán con la muerte del familiar que la originó y, en el caso de los hijos, terminarán con la muerte de éstos o cuando cumplan los dieciséis años, o bien los veinticinco años, aplicándose en lo conducente lo dispuesto por el artículo [134](articulo-134.md) de esta Ley.
+Las asignaciones familiares cesarán con la muerte del familiar que la originó y, en el caso de los hijos, terminarán con la muerte de éstos o cuando cumplan los dieciséis años, o bien los veinticinco años, aplicándose en lo conducente lo dispuesto por el artículo [134](articulo-134.md) de esta [Ley](articulo-5-A.md).
 
 Las asignaciones familiares concedidas para los hijos del pensionado con motivo de no poderse mantener por sí mismos, debido a inhabilitación para trabajar por enfermedad crónica, física o psíquica, podrán continuarse pagando hasta en tanto no desaparezca la inhabilitación.
 
-El Instituto concederá en los términos de este artículo, las asignaciones familiares a los hijos del pensionado, mayores de dieciséis años, si cumplen con las condiciones mencionadas.
+El [Instituto](articulo-5-A.md) concederá en los términos de este artículo, las asignaciones familiares a los hijos del pensionado, mayores de dieciséis años, si cumplen con las condiciones mencionadas.

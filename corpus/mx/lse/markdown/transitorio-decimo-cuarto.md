@@ -15,6 +15,6 @@ source_sha256: aa96853f010885bdf85160e944e5c0ef5c3c8e95422dfede280d228cf064310a
 
 # Décimo Cuarto
 
-A la entrada en vigor de la presente Ley, la CNE debe revisar la metodología tarifaria y los costos del servicio de operación, investigación, actualización y desarrollo del CENACE conforme a los artículos [116](articulo-116.md) y [158](articulo-158.md), la cual surtirá efectos una vez que se emita.
+A la entrada en vigor de la presente Ley, la [CNE](articulo-3.md) debe revisar la metodología tarifaria y los costos del servicio de operación, investigación, actualización y desarrollo del [CENACE](articulo-3.md) conforme a los artículos [116](articulo-116.md) y [158](articulo-158.md), la cual surtirá efectos una vez que se emita.
 
 ARTÍCULO CUARTO A ARTÍCULO DÉCIMO.- ………

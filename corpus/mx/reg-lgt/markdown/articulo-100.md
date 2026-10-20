@@ -17,7 +17,7 @@ source_sha256: 6680a58c98673518aee46582b3137d28987c275785d1f0c97295f0d89c4b692b
 
 # Artículo 100
 
-Son objetivos del Sistema de Certificación:
+Son objetivos del [Sistema de Certificación](articulo-2.md):
 
 I. Garantizar la calidad de los Destinos y Servicios Turísticos;
 
@@ -27,6 +27,6 @@ III. Priorizar la satisfacción del Turista;
 
 IV. Promover las soluciones tecnológicas dirigidas a mejorar la competitividad de los Destinos y Servicios Turísticos;
 
-V. Contribuir a la sustentabilidad de las empresas y Destinos Turísticos del país, y
+V. Contribuir a la sustentabilidad de las empresas y [Destinos Turísticos](articulo-2.md) del país, y
 
 VI. Dar a conocer, entre los Prestadores de Servicios Turísticos, los certificados, distintivos y demás reconocimientos que en materia de calidad de servicios se establezcan en los lineamientos del Sistema de Certificación.

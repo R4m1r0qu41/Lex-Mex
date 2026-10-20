@@ -15,4 +15,4 @@ source_sha256: 0a9852297132d8972d0c2f77e1b67d614bd296632109065e703bd09254187aea
 
 # Artículo 15
 
-La Secretaría implementará lineamientos de revisión y control, con el objeto de garantizar un adecuado uso y tratamiento de los datos personales, en términos de la ley en la materia.
+La [Secretaría](articulo-2.md) implementará lineamientos de revisión y control, con el objeto de garantizar un adecuado uso y tratamiento de los datos personales, en términos de la ley en la materia.

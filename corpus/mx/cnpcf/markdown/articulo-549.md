@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Tercero · Capítulo II
+
 # Artículo 549
 
 Contra el laudo arbitral no procede recurso alguno. Contra la ejecución sólo serán posibles las siguientes excepciones que deberá probar la parte contra la cual se invoca el laudo:
@@ -28,11 +30,3 @@ IV. La composición del tribunal arbitral o el procedimiento arbitral no se ajus
 V. El laudo no sea aún obligatorio para las partes o hubiere sido anulado o suspendido por la autoridad jurisdiccional del país en que, o conforme a cuyo derecho, hubiere sido dictado ese laudo.
 
 En todos los casos, la autoridad jurisdiccional verificará de oficio que, el objeto de la controversia que se pretende ejecutar sea susceptible de arbitraje; o que el reconocimiento o la ejecución del laudo no sean contrarios al orden público.
-
-Libro Cuarto De la Justicia Familiar
-
-Título Primero Disposiciones Comunes a los Procedimientos Familiares
-
-Capítulo I Disposiciones Generales en Materia Familiar
-
-Sección Primera Generalidades

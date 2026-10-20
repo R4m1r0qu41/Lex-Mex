@@ -17,7 +17,7 @@ source_sha256: b32c33fa4ed071dc8bea1ad69ce8510cdb05016967e9e4fcb60f10c6f2216628
 
 # Artículo 5
 
-Las y los Magistrados que integran el Tribunal Federal de Justicia Administrativa, están impedidos para conocer de los asuntos por alguna de las siguientes causas:
+Las y los Magistrados que integran el [Tribunal](articulo-2.md) Federal de Justicia Administrativa, están impedidos para conocer de los asuntos por alguna de las siguientes causas:
 
 I. Tener parentesco en línea recta sin limitación de grado, en la colateral por consanguinidad hasta el cuarto grado y en la colateral por afinidad hasta el segundo, con alguno de los interesados, sus representantes, patronos o defensores;
 

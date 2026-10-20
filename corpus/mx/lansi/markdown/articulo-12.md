@@ -17,6 +17,6 @@ source_sha256: 0e34f329befed4474eb7bc1bc195ba13bbe188edfbbabc914a44723e62eb9e44
 
 # Artículo 12
 
-La Agencia establecerá las normas de carácter general para que los Regulados implementen Sistemas de Administración en las actividades que lleven a cabo.
+La [Agencia](articulo-3o.md) establecerá las normas de carácter general para que los [Regulados](articulo-3o.md) implementen Sistemas de Administración en las actividades que lleven a cabo.
 
-Los Sistemas de Administración a los que alude el párrafo anterior deberán prever los estándares, funciones, responsabilidades y encargados de la Seguridad Industrial, Seguridad Operativa y protección al medio ambiente.
+Los Sistemas de Administración a los que alude el párrafo anterior deberán prever los estándares, funciones, responsabilidades y encargados de la [Seguridad Industrial](articulo-3o.md), [Seguridad Operativa](articulo-3o.md) y protección al medio ambiente.

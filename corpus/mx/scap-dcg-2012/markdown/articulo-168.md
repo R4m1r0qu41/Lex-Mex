@@ -18,11 +18,11 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 168
 
-El Auditor Interno deberá verificar, entre otros aspectos, el funcionamiento adecuado del sistema de control interno, para lo cual, deberá evaluar la adecuada implementación y cumplimiento de las políticas y procedimientos en materia de control interno establecidos por el Consejo de Administración.
+El [Auditor Interno](articulo-1.md) deberá verificar, entre otros aspectos, el funcionamiento adecuado del sistema de control interno, para lo cual, deberá evaluar la adecuada implementación y cumplimiento de las políticas y procedimientos en materia de control interno establecidos por el [Consejo de Administración](articulo-1.md).
 
 Para cumplir con los objetivos señalados en el párrafo anterior, el área de auditoría interna tendrá las funciones y responsabilidades siguientes:
 
-I. Evaluar mediante pruebas sustantivas, procedimentales y de cumplimiento, el funcionamiento operativo de las distintas áreas de la Sociedad, así como su apego a los manuales de políticas y procedimientos que les sean aplicables, incluyendo el cumplimiento del código de ética por parte de Consejeros, Miembros del Consejo de Vigilancia, funcionarios y empleados.
+I. Evaluar mediante pruebas sustantivas, procedimentales y de cumplimiento, el funcionamiento operativo de las distintas áreas de la Sociedad, así como su apego a los manuales de políticas y procedimientos que les sean aplicables, incluyendo el cumplimiento del código de ética por parte de [Consejeros](articulo-1.md), [Miembros del Consejo de Vigilancia](articulo-1.md), funcionarios y empleados.
 
 II. Revisar que los sistemas informáticos, incluyendo los contables, operacionales y de cualquier otro tipo, cumplan con los objetivos para los cuales fueron implementados o diseñados, así como verificar que dichos sistemas generen información suficiente, íntegra, consistente y que fluya adecuadamente. En todo caso, deberá revisarse que la Institución cuente con planes de contingencia y medidas necesarias para evitar pérdidas de información, así como para, en su caso, su recuperación o rescate.
 

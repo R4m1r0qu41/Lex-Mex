@@ -17,4 +17,4 @@ source_sha256: d9ffbbf8f19b54a93ff577abb1266e4be1316d935e79fad655242955fd80ff70
 
 # Artículo 59
 
-La Secretaría en coordinación con las demás dependencias de la Administración Pública Federal, intervendrá para que los responsables del vertimiento cumplan con la remediación que corresponda y ejecuten acciones para prevenir la dispersión del contaminante en el medio marino.
+La [Secretaría](articulo-2.md) en coordinación con las demás dependencias de la Administración Pública Federal, intervendrá para que los responsables del vertimiento cumplan con la remediación que corresponda y ejecuten acciones para prevenir la dispersión del contaminante en el medio marino.

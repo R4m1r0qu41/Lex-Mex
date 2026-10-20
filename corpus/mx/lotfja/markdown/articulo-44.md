@@ -17,11 +17,11 @@ source_sha256: b32c33fa4ed071dc8bea1ad69ce8510cdb05016967e9e4fcb60f10c6f2216628
 
 # Artículo 44
 
-Los Magistrados sólo podrán ser removidos de sus cargos por las siguientes causas, previo procedimiento seguido ante la Junta de Gobierno y Administración y resuelto por el Pleno de la Sala Superior:
+Los Magistrados sólo podrán ser removidos de sus cargos por las siguientes causas, previo procedimiento seguido ante la [Junta](articulo-2.md) de Gobierno y Administración y resuelto por el Pleno de la Sala Superior:
 
 I. Incurrir en violaciones graves a los derechos humanos, previstos por la Constitución y los tratados internacionales de los que el Estado Mexicano sea parte;
 
-II. Incurrir en responsabilidad administrativa grave en términos de la Ley General de Responsabilidades Administrativas;
+II. Incurrir en responsabilidad administrativa grave en términos de la [Ley](articulo-2.md) General de Responsabilidades Administrativas;
 
 III. Haber sido condenado por delito doloso;
 

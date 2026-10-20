@@ -17,6 +17,6 @@ source_sha256: d0021bbef2e0c3251d6efdea2c1efd9959ff3f02df4bcd1fc37c1ee7826a72ba
 
 # Artículo 50
 
-El personal que preste sus servicios en la Comisión se regirá por las disposiciones del Apartado B del artículo [123](../../cpeum/markdown/articulo-123.md) de la Constitución Política de los Estados Unidos Mexicanos y de la Ley Federal de los Trabajadores al Servicio del Estado. Dicho personal quedará incorporado al régimen del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
+El personal que preste sus servicios en la [Comisión](articulo-3.md) se regirá por las disposiciones del Apartado B del artículo [123](../../cpeum/markdown/articulo-123.md) de la Constitución Política de los Estados Unidos Mexicanos y de la Ley Federal de los Trabajadores al Servicio del Estado. Dicho personal quedará incorporado al régimen del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
 
 Todos los servidores públicos que integran la plantilla laboral de la Comisión, serán considerados trabajadores de confianza debido a la naturaleza de las funciones que ésta desempeña.

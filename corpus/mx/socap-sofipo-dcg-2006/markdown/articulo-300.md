@@ -18,11 +18,11 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 300
 
-Los recursos que integran el Fondo de Protección, deberán invertirse en Valores Gubernamentales o en títulos representativos del capital social de sociedades de inversión en Instrumentos de Deuda, cuyas características específicas preserven, cuando menos, su valor adquisitivo conforme al Índice Nacional de Precios al Consumidor que dé a conocer el Banco de México, de conformidad con lo siguiente:
+Los recursos que integran el Fondo de Protección, deberán invertirse en [Valores Gubernamentales](articulo-1.md) o en títulos representativos del capital social de sociedades de inversión en [Instrumentos de Deuda](articulo-1.md), cuyas características específicas preserven, cuando menos, su valor adquisitivo conforme al Índice Nacional de Precios al Consumidor que dé a conocer el Banco de México, de conformidad con lo siguiente:
 
 I. Deberá invertirse por lo menos el 30 % y hasta el 100 %, directamente en valores gubernamentales, o bien indirectamente en dichos valores a través de sociedades de inversión que inviertan exclusivamente en instrumentos emitidos por el Gobierno Federal.
 
-II. Podrá invertirse hasta el 70 %, en títulos representativos del capital social de sociedades de inversión en Instrumentos de Deuda, distintas a las que se señalan en la fracción I de este artículo, que cuenten con Grado de Riesgo 2 en la escala local de conformidad con el Anexo K de las presentes disposiciones y, cuya duración promedio de su portafolio de inversiones o cartera de valores no sea mayor a 3 años.
+II. Podrá invertirse hasta el 70 %, en títulos representativos del capital social de sociedades de inversión en Instrumentos de Deuda, distintas a las que se señalan en la fracción I de este artículo, que cuenten con [Grado de Riesgo](articulo-1.md) 2 en la escala local de conformidad con el Anexo K de las presentes disposiciones y, cuya duración promedio de su portafolio de inversiones o cartera de valores no sea mayor a 3 años.
 
 III. Podrá invertirse hasta un 30 %, en títulos representativos del capital social de sociedades de inversión en Instrumentos de Deuda, distintas a las que se señalan en la fracción I de este artículo, que cuenten con la calificación más alta dentro del Grado de Riesgo 3 en la escala local de conformidad al Anexo K de las presentes disposiciones y, cuya duración promedio de su portafolio de inversiones o cartera de valores no sea mayor a 3 años.
 

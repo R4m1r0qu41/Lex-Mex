@@ -19,7 +19,7 @@ source_sha256: e5c0ecb4328043b7090ee5d73e982d6a04410f1330f6fdb350a7a34527eb2e59
 
 Son obligaciones de los concesionarios:
 
-I. Cultivar exclusivamente las especies autorizadas, en las zonas determinadas en el título correspondiente por la Secretaría y mediante los procedimientos autorizados;
+I. Cultivar exclusivamente las especies autorizadas, en las zonas determinadas en el título correspondiente por la [Secretaría](articulo-2o.md) y mediante los procedimientos autorizados;
 
 II. Presentar, durante los dos primeros meses de cada año, el avance de los proyectos técnicos y económicos en los que se fundamente la concesión; III. Presentar a la oficina de la Secretaría, que se encuentre más cercana a la unidad acuícola, cuando exista producción, los avisos de cosecha y/o producción, según corresponda, en un plazo no mayor de setenta y dos horas al término de la misma, debiendo llenarlos y firmarlos inmediatamente de terminada la cosecha. Igual obligación tendrán los acuacultores que no necesiten concesión; Reforma 28-01-2004
 

@@ -17,7 +17,7 @@ source_sha256: 4f46c1f92fb5682281a7679836e517de95975786fa5326848a331c9eb946cc5f
 
 # Artículo 10-A
 
-Para efectos del artículo [2](../../liva/markdown/articulo-2o.md)o.-A, fracción I, último párrafo de la Ley, se considera que no son alimentos preparados para su consumo en el lugar o establecimiento en que se enajenen, los siguientes:
+Para efectos del artículo [2](../../liva/markdown/articulo-2o.md)o.-A, fracción I, último párrafo de la [Ley](articulo-1.md), se considera que no son alimentos preparados para su consumo en el lugar o establecimiento en que se enajenen, los siguientes:
 
 I. Alimentos envasados al vacío o congelados;
 

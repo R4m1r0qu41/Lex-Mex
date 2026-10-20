@@ -17,4 +17,4 @@ source_sha256: 35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc
 
 # Artículo 223
 
-Los bienes, derechos y fondos del Instituto gozarán de todas las franquicias que en los mismos casos disfrute la Federación.
+Los bienes, derechos y fondos del [Instituto](articulo-4o.md) gozarán de todas las franquicias que en los mismos casos disfrute la Federación.

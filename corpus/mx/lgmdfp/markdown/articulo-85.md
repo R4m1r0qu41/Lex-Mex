@@ -17,11 +17,11 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Artículo 85
 
-La autoridad distinta a la Comisión Nacional de Búsqueda que reciba el Reporte debe recabar por lo menos, la información siguiente:
+La autoridad distinta a la [Comisión Nacional de Búsqueda](articulo-4.md) que reciba el [Reporte](articulo-4.md) debe recabar por lo menos, la información siguiente:
 
-I. El nombre, la edad y demás datos generales de la persona que lo presenta, salvo que se trate de Noticia o Reporte anónimo;
+I. El nombre, la edad y demás datos generales de la persona que lo presenta, salvo que se trate de [Noticia](articulo-4.md) o Reporte anónimo;
 
-I Bis. La Clave Única de Registro de Población de la Persona Desaparecida o No Localizada.
+I Bis. La [Clave Única de Registro de Población](articulo-4.md) de la [Persona Desaparecida](articulo-4.md) o No Localizada.
 
 No podrá condicionarse el procedimiento de búsqueda a la presentación de este requisito; Fracción adicionada DOF 16-07-2025
 

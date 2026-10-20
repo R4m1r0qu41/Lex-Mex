@@ -17,19 +17,19 @@ source_sha256: 6680a58c98673518aee46582b3137d28987c275785d1f0c97295f0d89c4b692b
 
 # Artículo 83
 
-Los Prestadores de Servicios Turísticos están obligados a inscribirse en el Registro Nacional de Turismo, de conformidad con el artículo [48](../../lgt/markdown/articulo-48.md) de la Ley.
+Los Prestadores de Servicios Turísticos están obligados a inscribirse en el Registro Nacional de [Turismo](articulo-2.md), de conformidad con el artículo [48](../../lgt/markdown/articulo-48.md) de la Ley.
 
 Para cumplir con lo señalado en el párrafo anterior, los Prestadores de Servicios Turísticos, obligados a la inscripción, son los señalados en el catálogo siguiente:
 
 I. Agencia de Viajes.- A aquél que en su carácter de intermediario, tiene como actividad la creación, promoción, comercialización o contratación de Servicios Turísticos, realizando sus actividades de manera virtual o en establecimientos comerciales. Las Agencias de Viajes, para efectos de su inscripción en el Registro Nacional de Turismo, se dividen en:
 
-a) Agencia de Viajes Mayorista: A aquél que tiene como actividad la Promoción Turística y la comercialización de Productos Turísticos, por ellas mismas o por conducto de Agencias de Viajes Minoristas, y
+a) Agencia de Viajes Mayorista: A aquél que tiene como actividad la [Promoción Turística](articulo-2.md) y la comercialización de [Productos Turísticos](articulo-2.md), por ellas mismas o por conducto de Agencias de Viajes Minoristas, y
 
 b) Agencia de Viajes Minorista: A aquél que ofrece y vende al público consumidor, todo tipo de Productos Turísticos, entre ellos, los integrados por operadores de viajes o mayoristas;
 
-II. Agencia Integradora de Servicios.- A aquél con conocimiento en un Destino Turístico que diseña, implementa y coordina de manera integral un conjunto de servicios consistentes en logística de eventos, actividades, tours y transportación entre otros, proporcionados dentro de un Destino Turístico ubicado en México;
+II. Agencia Integradora de Servicios.- A aquél con conocimiento en un [Destino Turístico](articulo-2.md) que diseña, implementa y coordina de manera integral un conjunto de servicios consistentes en logística de eventos, actividades, tours y transportación entre otros, proporcionados dentro de un Destino Turístico ubicado en México;
 
-III. Alimentos y Bebidas.- A aquél que tiene como función principal preparar y servir alimentos y bebidas ubicado en las áreas circundantes o dentro de aeropuertos, terminales de autobuses, estaciones de ferrocarril, museos, zonas arqueológicas, Centros Integralmente Planeados, playas, puertos marítimos, centros de ciudad, Destinos Turísticos, Ruta Turística, Circuitos Turísticos, así como en otros espacios con vocación turística;
+III. Alimentos y Bebidas.- A aquél que tiene como función principal preparar y servir alimentos y bebidas ubicado en las áreas circundantes o dentro de aeropuertos, terminales de autobuses, estaciones de ferrocarril, museos, zonas arqueológicas, Centros Integralmente Planeados, playas, puertos marítimos, centros de ciudad, Destinos Turísticos, Ruta Turística, [Circuitos Turísticos](articulo-2.md), así como en otros espacios con vocación turística;
 
 IV. Arrendadora de Autos.- A aquél que ofrece al Turista el servicio de alquiler de automóvil, para su goce o aprovechamiento temporal, ubicados principalmente en aeropuertos, terminales de autobuses, estaciones de ferrocarril y establecimientos de hospedaje, ya sea en el mismo Destino Turístico o cuando se encuentra de camino al mismo;
 

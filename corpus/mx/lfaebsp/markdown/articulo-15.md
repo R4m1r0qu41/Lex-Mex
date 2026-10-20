@@ -17,6 +17,6 @@ source_sha256: 269e72195414406bcbd3e90ac40ec26e031a9ea519316c44ee30bdfdf3163059
 
 # Artículo 15
 
-Los Bienes, activos o empresas serán recibidos, custodiados y conservados en los lugares que determine el Instituto.
+Los [Bienes](articulo-2o.md), activos o empresas serán recibidos, custodiados y conservados en los lugares que determine el [Instituto](articulo-2o.md).
 
 Artículo reformado DOF 09-08-2019

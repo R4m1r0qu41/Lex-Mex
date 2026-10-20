@@ -17,4 +17,4 @@ source_sha256: b19bcf104673af06117a6d4f3c947591f7a65999f19bad3dcfe2599a29bb3ab0
 
 # Artículo 2
 
-La aplicación de este Reglamento corresponde a la Secretaría, en el ámbito de su competencia, sin perjuicio de las atribuciones que correspondan a otras dependencias y entidades de la Administración Pública Federal.
+La aplicación de este [Reglamento](articulo-3.md) corresponde a la [Secretaría](articulo-3.md), en el ámbito de su competencia, sin perjuicio de las atribuciones que correspondan a otras dependencias y entidades de la Administración Pública Federal.

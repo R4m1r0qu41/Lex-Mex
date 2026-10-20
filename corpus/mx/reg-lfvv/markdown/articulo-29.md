@@ -17,6 +17,6 @@ source_sha256: 23dcee090bbe0c4fb06c75d084cb65ce0b2e8f72a8d082e7059504412bde1614
 
 # Artículo 29
 
-Verificado el requisito de novedad y aprobada la denominación de la variedad vegetal, el Comité dictaminará la procedencia de la solicitud.
+Verificado el requisito de novedad y aprobada la denominación de la variedad vegetal, el [Comité](articulo-2o.md) dictaminará la procedencia de la solicitud.
 
-Esta resolución se comunicará de inmediato a la Secretaría para la expedición de la constancia de presentación a que se refiere el artículo [35](articulo-35.md) de este Reglamento.
+Esta resolución se comunicará de inmediato a la [Secretaría](articulo-2o.md) para la expedición de la constancia de presentación a que se refiere el artículo [35](articulo-35.md) de este Reglamento.

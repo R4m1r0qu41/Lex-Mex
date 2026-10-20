@@ -17,4 +17,4 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 1
 
-La presente Ley es de observancia general en toda la República, en la forma y términos que la misma establece, sus disposiciones son de orden público y de interés social.
+La presente [Ley](articulo-5-A.md) es de observancia general en toda la República, en la forma y términos que la misma establece, sus disposiciones son de orden público y de interés social.

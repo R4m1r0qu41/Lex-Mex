@@ -1,0 +1,30 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-3",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeo",
+  "source_sha256": "b19bcf104673af06117a6d4f3c947591f7a65999f19bad3dcfe2599a29bb3ab0",
+  "extracted_text_sha256": "868bcb6fce3ece653cb47c736b44033c659f49ed3c5b929c9a7992b5ea11843a",
+  "status": "detected",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:regulation:reg-lgeo:article:3",
+      "provision_text_sha256": "6b6bd3eba0e340b28ea6bc34b194e101106648ba9892c3eb8921a94346aaebc2",
+      "method": "wider_pass",
+      "fractions": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII"
+      ],
+      "repeal_placeholders": [],
+      "term_count": 8
+    }
+  ],
+  "imports": [],
+  "term_count": 8,
+  "usage_count": 369
+}

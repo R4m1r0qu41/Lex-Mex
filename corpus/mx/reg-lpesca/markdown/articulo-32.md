@@ -17,6 +17,6 @@ source_sha256: e5c0ecb4328043b7090ee5d73e982d6a04410f1330f6fdb350a7a34527eb2e59
 
 # Artículo 32
 
-La captura incidental no podrá exceder del volumen que la Secretaría determine para cada pesquería, según las zonas, épocas y artes de pesca que correspondan. Los excedentes de los volúmenes de captura incidental que determine la Secretaría en las normas, serán considerados como pesca realizada sin concesión o permiso.
+La captura incidental no podrá exceder del volumen que la [Secretaría](articulo-2o.md) determine para cada pesquería, según las zonas, épocas y artes de pesca que correspondan. Los excedentes de los volúmenes de captura incidental que determine la Secretaría en las normas, serán considerados como pesca realizada sin concesión o permiso.
 
 La comercialización de la pesca incidental se sujetará a las normas que emita la Secretaría.

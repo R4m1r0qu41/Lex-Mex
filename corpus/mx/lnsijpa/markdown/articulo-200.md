@@ -17,7 +17,7 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 # Artículo 200
 
-Revisión periódica del Plan Individualizado de Ejecución El Plan Individualizado de Ejecución debe ser revisado de oficio cada tres meses por la Autoridad Administrativa quien informará al Juez de Ejecución sobre la forma y las condiciones en que la persona adolescente ha cumplido total o parcialmente con aquel y, en su caso, las razones de su incumplimiento.
+Revisión periódica del [Plan Individualizado de Ejecución](articulo-3.md) El Plan Individualizado de Ejecución debe ser revisado de oficio cada tres meses por la [Autoridad Administrativa](articulo-3.md) quien informará al Juez de Ejecución sobre la forma y las condiciones en que la persona adolescente ha cumplido total o parcialmente con aquel y, en su caso, las razones de su incumplimiento.
 
 La Autoridad Administrativa deberá informar a la persona adolescente, a la defensa, al Ministerio Público y en su caso, a la persona responsable de la persona adolescente, sobre los avances u obstáculos que haya enfrentado la persona adolescente para el cumplimiento del Plan Individualizado de Ejecución; y, en su caso, los cambios efectuados al mismo.
 

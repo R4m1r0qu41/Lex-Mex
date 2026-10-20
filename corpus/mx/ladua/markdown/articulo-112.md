@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf
 source_sha256: 43927095d22ff7bc7780e78132d2160b5050b5f76026b539daec32be09d7341d
 ---
 
-> Capítulo II · Sección TERCERA
+> Título Cuarto · Capítulo III
 
 # Artículo 112
 
@@ -24,7 +24,3 @@ Cuando la empresa que recibe las mercancías presente conjuntamente con el pedim
 Los procesos de transformación, elaboración o reparación de las mercancías podrán llevarse a cabo por persona distinta de las señaladas en el primer párrafo de este artículo, cuando cumplan con las condiciones de control que establezca el Reglamento.
 
 Para los efectos del presente artículo, quienes intervengan en la operación deberán solicitar, proporcionar y conservar, la información y documentación establecida en el artículo [59](articulo-59.md), fracción V de esta Ley, desde que la mercancía se destinó al régimen de importación temporal y hasta su transferencia, incluyendo toda aquella información o documentación con la que se acredite el proceso productivo al que se sometió la mercancía transferida, conforme a lo dispuesto en las reglas. Párrafo adicionado DOF 19-11-2025
-
-Sección Segunda Exportaciones temporales
-
-I Disposiciones generales

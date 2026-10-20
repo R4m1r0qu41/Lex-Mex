@@ -23,9 +23,9 @@ I. Garantizar un nivel adecuado y eficiente de protección de la salud humana, d
 
 II. Definir los principios y la política nacional en materia de bioseguridad de los OGMs y los instrumentos para su aplicación;
 
-III. Determinar las competencias de las diversas dependencias de la Administración Pública Federal en materia de bioseguridad de los OGMs; IV. Establecer las bases para la celebración de convenios o acuerdos de coordinación entre la Federación, por conducto de las Secretarías competentes y los gobiernos de las entidades federativas, para el mejor cumplimiento del objeto de esta Ley;
+III. Determinar las competencias de las diversas dependencias de la Administración Pública Federal en materia de bioseguridad de los OGMs; IV. Establecer las bases para la celebración de convenios o acuerdos de coordinación entre la Federación, por conducto de las [Secretarías](articulo-3.md) competentes y los gobiernos de las entidades federativas, para el mejor cumplimiento del objeto de esta Ley;
 
-V. Establecer las bases para el funcionamiento de la Comisión Intersecretarial de Bioseguridad de los Organismos Genéticamente Modificados, a través de la cual las Secretarías que la integran deban colaborar de manera coordinada, en el ámbito de sus competencias, en lo relativo a la bioseguridad de los organismos genéticamente modificados;
+V. Establecer las bases para el funcionamiento de la Comisión Intersecretarial de [Bioseguridad](articulo-3.md) de los [Organismos](articulo-3.md) Genéticamente Modificados, a través de la cual las Secretarías que la integran deban colaborar de manera coordinada, en el ámbito de sus competencias, en lo relativo a la bioseguridad de los organismos genéticamente modificados;
 
 VI. Establecer procedimientos administrativos y criterios para la evaluación y el monitoreo de los posibles riesgos que puedan ocasionar las actividades con organismos genéticamente modificados en la salud humana o en el medio ambiente y la diversidad biológica o en la sanidad animal, vegetal o acuícola;
 
@@ -35,7 +35,7 @@ VIII. Establecer el régimen de avisos para la realización de actividades de ut
 
 IX. Establecer el régimen de las autorizaciones de la Secretaría de Salud de organismos genéticamente modificados que se determinan en esta Ley;
 
-X. Crear y desarrollar el Sistema Nacional de Información sobre Bioseguridad y el Registro Nacional de Bioseguridad de los Organismos Genéticamente Modificados;
+X. Crear y desarrollar el Sistema Nacional de Información sobre Bioseguridad y el [Registro](articulo-3.md) Nacional de Bioseguridad de los Organismos Genéticamente Modificados;
 
 XI. Determinar las bases para el establecimiento caso por caso de áreas geográficas libres de OGMs en las que se prohíba y aquellas en las que se restrinja la realización de actividades con determinados organismos genéticamente modificados, así como de cultivos de los cuales México sea centro de origen, en especial del maíz, que mantendrá un régimen de protección especial;
 
@@ -43,6 +43,6 @@ XII. Establecer las bases del contenido de las normas oficiales mexicanas en mat
 
 XIII. Establecer medidas de control para garantizar la bioseguridad, así como las sanciones correspondientes en los casos de incumplimiento o violación a las disposiciones de esta Ley, sus reglamentos y las normas oficiales mexicanas que deriven de la misma;
 
-XIV. Establecer mecanismos para la participación pública en aspectos de bioseguridad materia de esta Ley, incluyendo el acceso a la información, la participación de los sectores privado, social y productivo a través del Consejo Consultivo Mixto de la CIBIOGEM, y la consulta pública sobre solicitudes de liberación de OGMs al ambiente, y
+XIV. Establecer mecanismos para la participación pública en aspectos de bioseguridad materia de esta Ley, incluyendo el acceso a la información, la participación de los sectores privado, social y productivo a través del Consejo Consultivo Mixto de la [CIBIOGEM](articulo-3.md), y la consulta pública sobre solicitudes de liberación de OGMs al ambiente, y
 
 XV. Establecer instrumentos de fomento a la investigación científica y tecnológica en bioseguridad y biotecnología.

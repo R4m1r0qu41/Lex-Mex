@@ -19,7 +19,7 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 La reunión de negociación se desarrollará conforme a lo siguiente:
 
-I.- El Instituto presentará un resumen de la controversia y conminará a las partes a llegar a una posible solución;
+I.- El [Instituto](articulo-4.md) presentará un resumen de la controversia y conminará a las partes a llegar a una posible solución;
 
 II.- Las partes expondrán los términos de sus propuestas, y
 

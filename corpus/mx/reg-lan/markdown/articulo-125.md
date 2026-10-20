@@ -17,4 +17,4 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 125
 
-"La Comisión" establecerá la coordinación necesaria con la Secretaría de Pesca, a fin de facilitar la resolución simultánea de las concesiones que en el ámbito de sus respectivas competencias tengan que expedir en materia de agua y acuacultura.
+"[La Comisión](articulo-1o.md)" establecerá la coordinación necesaria con la Secretaría de Pesca, a fin de facilitar la resolución simultánea de las concesiones que en el ámbito de sus respectivas competencias tengan que expedir en materia de agua y acuacultura.

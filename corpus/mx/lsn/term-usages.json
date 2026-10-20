@@ -1,1 +1,794 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:2:term-usage:189-196",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:consejo",
+    "span": "Consejo",
+    "start_char": 189,
+    "end_char": 196
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:8:term-usage:146-156",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:instancias",
+    "span": "Instancias",
+    "start_char": 146,
+    "end_char": 156
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:8:term-usage:401-408",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:consejo",
+    "span": "Consejo",
+    "start_char": 401,
+    "end_char": 408
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:12:term-usage:94-101",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:consejo",
+    "span": "Consejo",
+    "start_char": 94,
+    "end_char": 101
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:12:term-usage:694-700",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:centro",
+    "span": "Centro",
+    "start_char": 694,
+    "end_char": 700
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:12:term-usage:761-768",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:consejo",
+    "span": "Consejo",
+    "start_char": 761,
+    "end_char": 768
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:12:term-usage:883-890",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:consejo",
+    "span": "Consejo",
+    "start_char": 883,
+    "end_char": 890
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:12:term-usage:1154-1161",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:consejo",
+    "span": "Consejo",
+    "start_char": 1154,
+    "end_char": 1161
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:13:term-usage:3-10",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:consejo",
+    "span": "Consejo",
+    "start_char": 3,
+    "end_char": 10
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:13:term-usage:935-941",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:centro",
+    "span": "Centro",
+    "start_char": 935,
+    "end_char": 941
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:13:term-usage:1098-1105",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:consejo",
+    "span": "Consejo",
+    "start_char": 1098,
+    "end_char": 1105
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:14:term-usage:118-125",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:consejo",
+    "span": "Consejo",
+    "start_char": 118,
+    "end_char": 125
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:15:term-usage:26-33",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:consejo",
+    "span": "Consejo",
+    "start_char": 26,
+    "end_char": 33
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:15:term-usage:136-143",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:consejo",
+    "span": "Consejo",
+    "start_char": 136,
+    "end_char": 143
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:15:term-usage:334-341",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:consejo",
+    "span": "Consejo",
+    "start_char": 334,
+    "end_char": 341
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:15:term-usage:361-368",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:consejo",
+    "span": "Consejo",
+    "start_char": 361,
+    "end_char": 368
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:15:term-usage:523-530",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:consejo",
+    "span": "Consejo",
+    "start_char": 523,
+    "end_char": 530
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:15:term-usage:618-625",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:consejo",
+    "span": "Consejo",
+    "start_char": 618,
+    "end_char": 625
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:15:term-usage:864-871",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:consejo",
+    "span": "Consejo",
+    "start_char": 864,
+    "end_char": 871
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:15:term-usage:948-955",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:consejo",
+    "span": "Consejo",
+    "start_char": 948,
+    "end_char": 955
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:15:term-usage:1181-1188",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:consejo",
+    "span": "Consejo",
+    "start_char": 1181,
+    "end_char": 1188
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:15:term-usage:1384-1391",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:consejo",
+    "span": "Consejo",
+    "start_char": 1384,
+    "end_char": 1391
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:16:term-usage:3-10",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:consejo",
+    "span": "Consejo",
+    "start_char": 3,
+    "end_char": 10
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:17:term-usage:18-25",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:consejo",
+    "span": "Consejo",
+    "start_char": 18,
+    "end_char": 25
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:17:term-usage:235-242",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:consejo",
+    "span": "Consejo",
+    "start_char": 235,
+    "end_char": 242
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:17:term-usage:303-310",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:consejo",
+    "span": "Consejo",
+    "start_char": 303,
+    "end_char": 310
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:17:term-usage:465-472",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:consejo",
+    "span": "Consejo",
+    "start_char": 465,
+    "end_char": 472
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:18:term-usage:3-9",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:centro",
+    "span": "Centro",
+    "start_char": 3,
+    "end_char": 9
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:19:term-usage:21-27",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:centro",
+    "span": "Centro",
+    "start_char": 21,
+    "end_char": 27
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:19:term-usage:1471-1478",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:consejo",
+    "span": "Consejo",
+    "start_char": 1471,
+    "end_char": 1478
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:19:term-usage:2085-2092",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:consejo",
+    "span": "Consejo",
+    "start_char": 2085,
+    "end_char": 2092
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:19:term-usage:2185-2192",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:consejo",
+    "span": "Consejo",
+    "start_char": 2185,
+    "end_char": 2192
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:19:term-usage:2368-2375",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:consejo",
+    "span": "Consejo",
+    "start_char": 2368,
+    "end_char": 2375
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:20:term-usage:132-138",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:centro",
+    "span": "Centro",
+    "start_char": 132,
+    "end_char": 138
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:20:term-usage:435-441",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:centro",
+    "span": "Centro",
+    "start_char": 435,
+    "end_char": 441
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:21:term-usage:63-69",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:centro",
+    "span": "Centro",
+    "start_char": 63,
+    "end_char": 69
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:22:term-usage:28-34",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:centro",
+    "span": "Centro",
+    "start_char": 28,
+    "end_char": 34
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:24:term-usage:137-144",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:consejo",
+    "span": "Consejo",
+    "start_char": 137,
+    "end_char": 144
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:25:term-usage:135-142",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:consejo",
+    "span": "Consejo",
+    "start_char": 135,
+    "end_char": 142
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:25:term-usage:662-668",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:centro",
+    "span": "Centro",
+    "start_char": 662,
+    "end_char": 668
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:25:term-usage:876-883",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:consejo",
+    "span": "Consejo",
+    "start_char": 876,
+    "end_char": 883
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:27:term-usage:32-35",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:red",
+    "span": "Red",
+    "start_char": 32,
+    "end_char": 35
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:27:term-usage:168-171",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:red",
+    "span": "Red",
+    "start_char": 168,
+    "end_char": 171
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:27:term-usage:422-429",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:consejo",
+    "span": "Consejo",
+    "start_char": 422,
+    "end_char": 429
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:28:term-usage:20-27",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:article:28",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:consejo",
+    "span": "Consejo",
+    "start_char": 20,
+    "end_char": 27
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:34:term-usage:134-140",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:centro",
+    "span": "Centro",
+    "start_char": 134,
+    "end_char": 140
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:35:term-usage:201-207",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:article:35",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:centro",
+    "span": "Centro",
+    "start_char": 201,
+    "end_char": 207
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:36:term-usage:278-284",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:article:36",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:centro",
+    "span": "Centro",
+    "start_char": 278,
+    "end_char": 284
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:37:term-usage:350-356",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:article:37",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:centro",
+    "span": "Centro",
+    "start_char": 350,
+    "end_char": 356
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:41:term-usage:99-105",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:article:41",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:centro",
+    "span": "Centro",
+    "start_char": 99,
+    "end_char": 105
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:42:term-usage:160-166",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:article:42",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:centro",
+    "span": "Centro",
+    "start_char": 160,
+    "end_char": 166
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:42:term-usage:196-203",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:article:42",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:consejo",
+    "span": "Consejo",
+    "start_char": 196,
+    "end_char": 203
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:47:term-usage:122-128",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:article:47",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:centro",
+    "span": "Centro",
+    "start_char": 122,
+    "end_char": 128
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:47:term-usage:182-189",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:article:47",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:consejo",
+    "span": "Consejo",
+    "start_char": 182,
+    "end_char": 189
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:47:term-usage:341-347",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:article:47",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:centro",
+    "span": "Centro",
+    "start_char": 341,
+    "end_char": 347
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:50:term-usage:34-41",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:article:50",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:consejo",
+    "span": "Consejo",
+    "start_char": 34,
+    "end_char": 41
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:52:term-usage:73-79",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:article:52",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:centro",
+    "span": "Centro",
+    "start_char": 73,
+    "end_char": 79
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:53:term-usage:70-77",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:article:53",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:consejo",
+    "span": "Consejo",
+    "start_char": 70,
+    "end_char": 77
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:53:term-usage:86-92",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:article:53",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:centro",
+    "span": "Centro",
+    "start_char": 86,
+    "end_char": 92
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:55:term-usage:15-21",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:article:55",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:centro",
+    "span": "Centro",
+    "start_char": 15,
+    "end_char": 21
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:57:term-usage:94-100",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:article:57",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:centro",
+    "span": "Centro",
+    "start_char": 94,
+    "end_char": 100
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:57:term-usage:433-439",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:article:57",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:centro",
+    "span": "Centro",
+    "start_char": 433,
+    "end_char": 439
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:57:term-usage:602-608",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:article:57",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:centro",
+    "span": "Centro",
+    "start_char": 602,
+    "end_char": 608
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:57:term-usage:672-678",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:article:57",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:centro",
+    "span": "Centro",
+    "start_char": 672,
+    "end_char": 678
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:57:term-usage:759-765",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:article:57",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:centro",
+    "span": "Centro",
+    "start_char": 759,
+    "end_char": 765
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:57:term-usage:920-927",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:article:57",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:consejo",
+    "span": "Consejo",
+    "start_char": 920,
+    "end_char": 927
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:58:term-usage:104-111",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:article:58",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:consejo",
+    "span": "Consejo",
+    "start_char": 104,
+    "end_char": 111
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:59:term-usage:307-313",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:article:59",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:centro",
+    "span": "Centro",
+    "start_char": 307,
+    "end_char": 313
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:62:term-usage:155-161",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:article:62",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:centro",
+    "span": "Centro",
+    "start_char": 155,
+    "end_char": 161
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:65:term-usage:207-210",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:article:65",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:red",
+    "span": "Red",
+    "start_char": 207,
+    "end_char": 210
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:69:term-usage:4-23",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:article:69",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:agentes-extranjeros",
+    "span": "Agentes Extranjeros",
+    "start_char": 4,
+    "end_char": 23
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:70:term-usage:240-259",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:article:70",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:agentes-extranjeros",
+    "span": "Agentes Extranjeros",
+    "start_char": 240,
+    "end_char": 259
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:70:term-usage:397-404",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:article:70",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:consejo",
+    "span": "Consejo",
+    "start_char": 397,
+    "end_char": 404
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:70:term-usage:915-934",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:article:70",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:agentes-extranjeros",
+    "span": "Agentes Extranjeros",
+    "start_char": 915,
+    "end_char": 934
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:70:term-usage:1010-1029",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:article:70",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:agentes-extranjeros",
+    "span": "Agentes Extranjeros",
+    "start_char": 1010,
+    "end_char": 1029
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:71:term-usage:4-23",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:article:71",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:agentes-extranjeros",
+    "span": "Agentes Extranjeros",
+    "start_char": 4,
+    "end_char": 23
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:72:term-usage:4-23",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:article:72",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:agentes-extranjeros",
+    "span": "Agentes Extranjeros",
+    "start_char": 4,
+    "end_char": 23
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:73:term-usage:85-104",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:article:73",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:agentes-extranjeros",
+    "span": "Agentes Extranjeros",
+    "start_char": 85,
+    "end_char": 104
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:74:term-usage:474-493",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:article:74",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:agentes-extranjeros",
+    "span": "Agentes Extranjeros",
+    "start_char": 474,
+    "end_char": 493
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:75:term-usage:62-69",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:article:75",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:consejo",
+    "span": "Consejo",
+    "start_char": 62,
+    "end_char": 69
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:75:term-usage:360-367",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:article:75",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:consejo",
+    "span": "Consejo",
+    "start_char": 360,
+    "end_char": 367
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:75:term-usage:427-434",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:article:75",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:consejo",
+    "span": "Consejo",
+    "start_char": 427,
+    "end_char": 434
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:76:term-usage:61-68",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:article:76",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:consejo",
+    "span": "Consejo",
+    "start_char": 61,
+    "end_char": 68
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:76:term-usage:605-612",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:article:76",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:consejo",
+    "span": "Consejo",
+    "start_char": 605,
+    "end_char": 612
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:76:term-usage:617-624",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:article:76",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:consejo",
+    "span": "Consejo",
+    "start_char": 617,
+    "end_char": 624
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:transitory:segundo:term-usage:66-72",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:centro",
+    "span": "Centro",
+    "start_char": 66,
+    "end_char": 72
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:transitory:tercero:term-usage:3-10",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:consejo",
+    "span": "Consejo",
+    "start_char": 3,
+    "end_char": 10
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:transitory:sexto:term-usage:78-84",
+    "provision_id": "urn:lex-mx:federal:statute:lsn:transitory:sexto",
+    "term_id": "urn:lex-mx:federal:statute:lsn:term:centro",
+    "span": "Centro",
+    "start_char": 78,
+    "end_char": 84
+  }
+]

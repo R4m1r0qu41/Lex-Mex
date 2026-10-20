@@ -17,7 +17,7 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 273
 
-El Instituto deberá presentar al Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público, y al Congreso de la Unión, a más tardar el 30 de junio de cada año, un informe dictaminado por auditor externo, que incluya, al menos, los siguientes elementos:
+El [Instituto](articulo-5-A.md) deberá presentar al Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público, y al Congreso de la Unión, a más tardar el 30 de junio de cada año, un informe dictaminado por auditor externo, que incluya, al menos, los siguientes elementos:
 
 I. La situación financiera de cada uno de los seguros ofrecidos por el Instituto, y actuarial de sus reservas, aportando elementos de juicio para evaluar si las primas correspondientes son suficientes para cubrir los gastos actuales y futuros de los beneficios derivados de cada seguro;
 

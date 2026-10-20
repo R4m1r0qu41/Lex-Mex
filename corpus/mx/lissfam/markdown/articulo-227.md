@@ -17,6 +17,6 @@ source_sha256: 35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc
 
 # Artículo 227
 
-La contabilidad del Instituto queda sujeta a la revisión y glosa de las autoridades federales, dentro del ámbito de las facultades de su competencia, mediante una auditoría de carácter permanente.
+La contabilidad del [Instituto](articulo-4o.md) queda sujeta a la revisión y glosa de las autoridades federales, dentro del ámbito de las facultades de su competencia, mediante una auditoría de carácter permanente.
 
 Lo anterior se entiende sin perjuicio de las demás funciones de vigilancia que establezcan otras disposiciones legales.

@@ -31,4 +31,4 @@ VI. Mantenimiento y reparación de aeronaves;
 
 VII. Conexos: servicios de grúa, neutralización de combustible como consecuencia de derrames, enfriamiento de frenos, entre otros, y
 
-VIII. Los demás que determine y publique la Secretaría en el Diario Oficial de la Federación.
+VIII. Los demás que determine y publique la [Secretaría](articulo-2.md) en el Diario Oficial de la Federación.

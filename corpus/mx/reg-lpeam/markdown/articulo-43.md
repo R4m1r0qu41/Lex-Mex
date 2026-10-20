@@ -17,4 +17,4 @@ source_sha256: 4195c0740ad46978a8b0f2d43f0ac6d77e46b0216bd6f756950b1a050044ce98
 
 # Artículo 43
 
-El Centro debe realizar las gestiones correspondientes para publicar las ADIZ en el Diario Oficial de la Federación y coordinarse con la AFAC para su integración en la “Publicación de Información Aeronáutica”.
+El Centro debe realizar las gestiones correspondientes para publicar las [ADIZ](articulo-4.md) en el Diario Oficial de la Federación y coordinarse con la [AFAC](articulo-4.md) para su integración en la “Publicación de Información Aeronáutica”.

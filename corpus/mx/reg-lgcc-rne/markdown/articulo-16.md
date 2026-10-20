@@ -13,8 +13,10 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGCC_MRNE_281014
 source_sha256: 62420210c5aaffe687daf130a64ff506009625340c554bfb36d2f1b5dcac0192
 ---
 
+> Capítulo IV · Sección I
+
 # Artículo 16
 
-Los Establecimientos Sujetos a Reporte deberán, cada 3 años, adjuntar a la información que presenten para su integración al Registro, un Dictamen de Verificación, expedido por un Organismo acreditado y aprobado para tales efectos.
+Los Establecimientos Sujetos a Reporte deberán, cada 3 años, adjuntar a la información que presenten para su integración al [Registro](../../lgcc/markdown/articulo-3o.md), un [Dictamen de Verificación](articulo-2.md), expedido por un [Organismo](articulo-2.md) acreditado y aprobado para tales efectos.
 
-El Dictamen de Verificación de la información reportada se presentará ante la Secretaría durante el período comprendido entre el 1 de julio al 30 de noviembre del año en que el Establecimiento Sujeto a Reporte esté obligado a validar dicha información.
+El Dictamen de Verificación de la información reportada se presentará ante la [Secretaría](../../lgcc/markdown/articulo-3o.md) durante el período comprendido entre el 1 de julio al 30 de noviembre del año en que el [Establecimiento Sujeto a Reporte](articulo-2.md) esté obligado a validar dicha información.

@@ -17,4 +17,4 @@ source_sha256: 7f01ee1b1deb901a23976507adccbddefbea50b0fc9a4ddceaf1225d711d50d0
 
 # Artículo 125
 
-Las responsabilidades administrativas de las personas servidoras públicas de las Instituciones de Seguridad Pública por los actos y omisiones que afecten la legalidad, honradez, lealtad, imparcialidad, eficiencia y el respeto a los derechos humanos que deben observar en el desempeño de sus empleos, cargos y comisiones, serán investigadas, determinadas y aplicadas en los términos indicados por la Ley General de Responsabilidades Administrativas.
+Las responsabilidades administrativas de las personas servidoras públicas de las [Instituciones de Seguridad Pública](articulo-4.md) por los actos y omisiones que afecten la legalidad, honradez, lealtad, imparcialidad, eficiencia y el respeto a los derechos humanos que deben observar en el desempeño de sus empleos, cargos y comisiones, serán investigadas, determinadas y aplicadas en los términos indicados por la [Ley](articulo-4.md) General de Responsabilidades Administrativas.

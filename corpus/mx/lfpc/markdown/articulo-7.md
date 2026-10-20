@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPC.pdf
 source_sha256: 7fea623841fd6e05e8c0d01d2cf09f85b0b8e58ba4d9e4f6711f8bad1f448e55
 ---
 
+> Capítulo I
+
 # Artículo 7
 
 Todo proveedor está obligado a informar y a respetar los precios, tarifas, garantías, cantidades, calidades, medidas, intereses, cargos, términos, restricciones, plazos, fechas, modalidades, reservaciones y demás condiciones aplicables en la comercialización de bienes, productos o servicios, sobre todos aquellos que se hubiera ofrecido, obligado o convenido con el consumidor para la entrega del bien o prestación del servicio, y bajo ninguna circunstancia serán negados estos bienes, productos o servicios a persona alguna, así como la información de los mismos.

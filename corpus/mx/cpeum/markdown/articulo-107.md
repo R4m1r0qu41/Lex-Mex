@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf
 source_sha256: ca63a23a4b7444ebdbdad93759fbf46bd14c069e587c5878decf89fc9c12ca8e
 ---
 
+> Título Tercero · Capítulo IV
+
 # Artículo 107
 
 Las controversias de que habla el artículo [103](articulo-103.md) de esta Constitución, con excepción de aquellas en materia electoral, se sujetarán a los procedimientos que determine la ley reglamentaria, de acuerdo con las bases siguientes: Párrafo reformado DOF 25-10-1993, 06-06-2011
@@ -114,5 +116,3 @@ XVII. La autoridad responsable que desobedezca un auto de suspensión o que, ant
 XVIII. Se deroga. Fracción derogada DOF 03-09-1993
 
 Artículo reformado DOF 19-02-1951
-
-Título Cuarto De las Responsabilidades de los Servidores Públicos, Particulares Vinculados con Faltas Administrativas Graves o Hechos de Corrupción, y Patrimonial del Estado. Denominación del Título reformada DOF 28-12-1982, 14-06-2002, 27-05-2015

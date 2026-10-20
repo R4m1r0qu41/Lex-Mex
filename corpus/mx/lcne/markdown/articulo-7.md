@@ -17,9 +17,9 @@ source_sha256: 7c13fd20564f1e7230268a0943cc226368b24c44886d6738c479f4c42cbe77de
 
 # Artículo 7
 
-La Comisión tiene, en el ámbito de su competencia las atribuciones siguientes:
+La [Comisión](articulo-6.md) tiene, en el ámbito de su competencia las atribuciones siguientes:
 
-I. Emitir actos y resoluciones con carácter técnico, administrativo y operativo sobre las Actividades en materia energética, así como vigilar y supervisar su cumplimiento;
+I. Emitir actos y resoluciones con carácter técnico, administrativo y operativo sobre las [Actividades en materia energética](articulo-6.md), así como vigilar y supervisar su cumplimiento;
 
 II. Expedir la regulación y disposiciones administrativas de carácter general sobre las Actividades en materia energética, así como supervisar y vigilar su cumplimiento;
 
@@ -27,11 +27,11 @@ III. Emitir resoluciones, acuerdos, criterios de interpretación, directivas, ba
 
 IV. Imponer y ejecutar las sanciones respecto de los actos u omisiones que den lugar a ello, de conformidad con las disposiciones aplicables; V. Otorgar, modificar, actualizar, revocar y extinguir los permisos, autorizaciones y los demás actos administrativos sobre las Actividades en materia energética, así como vigilar y supervisar su cumplimiento;
 
-VI. Solicitar a los Sujetos Regulados la información y la documentación necesaria, así como la exhibición de dictámenes, reportes técnicos, informes de pruebas, contratos con terceros, estudios, certificados, documentos de evaluación de la conformidad o cualquier otro documento que se requiera para el ejercicio de sus atribuciones;
+VI. Solicitar a los [Sujetos Regulados](articulo-6.md) la información y la documentación necesaria, así como la exhibición de dictámenes, reportes técnicos, informes de pruebas, contratos con terceros, estudios, certificados, documentos de evaluación de la conformidad o cualquier otro documento que se requiera para el ejercicio de sus atribuciones;
 
 VII. Requerir a terceros que tengan relaciones de negocios con los Sujetos Regulados, información relacionada con las autorizaciones y permisos que se hayan emitido, y de los contratos, asignaciones y convenios relativos a las Actividades en materia energética;
 
-VIII. Proponer a la Secretaría las disposiciones para autorizar y vigilar a las personas especialistas técnicas, para la emisión de dictámenes y reportes técnicos para la evaluación de la conformidad del cumplimiento de la regulación técnica que emita;
+VIII. Proponer a la [Secretaría](articulo-6.md) las disposiciones para autorizar y vigilar a las personas especialistas técnicas, para la emisión de dictámenes y reportes técnicos para la evaluación de la conformidad del cumplimiento de la regulación técnica que emita;
 
 IX. Ordenar y realizar visitas de verificación, inspección o supervisión, y requerir la presentación de información y documentación;
 

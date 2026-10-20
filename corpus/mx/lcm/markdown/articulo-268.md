@@ -17,6 +17,6 @@ source_sha256: 8e270686b885035488bfe310b0b42bb40e7154431794227ebe212dd7dc12e46a
 
 # Artículo 268
 
-Cuando esta Ley no prevea el recurso de apelación procederá la revocación, que se tramitará conforme a las disposiciones del Código de Comercio.
+Cuando esta [Ley](articulo-4o.md) no prevea el recurso de apelación procederá la revocación, que se tramitará conforme a las disposiciones del Código de Comercio.
 
 Capítulo II De las medidas de apremio

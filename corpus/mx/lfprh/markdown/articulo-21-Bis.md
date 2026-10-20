@@ -21,7 +21,7 @@ En la operación de los fondos de Estabilización de los Ingresos de las [Entida
 
 I. El Fondo de Estabilización de los Ingresos de las Entidades Federativas tiene por finalidad lo establecido en el artículo [21](articulo-21.md), fracción II, párrafo segundo, de esta Ley;
 
-II. La finalidad del Fondo de Estabilización de los Ingresos Presupuestarios es aminorar el efecto sobre las finanzas públicas y la economía nacional cuando ocurran disminuciones de los ingresos del Gobierno Federal, con respecto a los estimados en la Ley de Ingresos, para propiciar condiciones que permitan cubrir el gasto previsto en el [Presupuesto de Egresos](articulo-2.md);
+II. La finalidad del Fondo de Estabilización de los Ingresos Presupuestarios es aminorar el efecto sobre las finanzas públicas y la economía nacional cuando ocurran disminuciones de los ingresos del Gobierno Federal, con respecto a los estimados en la [Ley de Ingresos](articulo-2.md), para propiciar condiciones que permitan cubrir el gasto previsto en el [Presupuesto de Egresos](articulo-2.md);
 
 III. Los Fondos se constituirán como fideicomisos públicos sin estructura orgánica, en términos de la presente Ley y demás disposiciones aplicables;
 

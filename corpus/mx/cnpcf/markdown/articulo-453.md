@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo I
+
 # Artículo 453
 
 En ningún caso se podrán tramitar ante Fedatario Público asuntos no contenciosos en los que esté involucrada la designación extraordinaria de apoyo, para el ejercicio de la capacidad jurídica, salvo aquellos asuntos autorizados por la autoridad jurisdiccional competente.

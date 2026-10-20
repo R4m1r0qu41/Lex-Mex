@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título X · Capítulo I
+
 # Artículo 288
 
 Con el objeto de que las instituciones para el depósito de valores puedan hacer valer oportunamente los derechos patrimoniales derivados de los valores que mantengan en depósito, se observará lo siguiente:

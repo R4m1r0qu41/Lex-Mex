@@ -21,9 +21,9 @@ El personal responsable de la administración integral de riesgos, para el cumpl
 
 I. Vigilar que la administración de riesgos sea integral y considere los riesgos en que incurre la Sociedad dentro de sus diversas líneas y unidades de negocios.
 
-II. Proponer la metodología y aplicarla una vez aprobada por el Comité de Riesgos para identificar, medir y vigilar los distintos tipos de riesgos a que se encuentra expuesta la Sociedad, así como los límites, utilizando para tal efecto los modelos, parámetros y escenarios para la medición y control del riesgo establecidos por el citado comité.
+II. Proponer la metodología y aplicarla una vez aprobada por el [Comité de Riesgos](articulo-1.md) para identificar, medir y vigilar los distintos tipos de riesgos a que se encuentra expuesta la Sociedad, así como los límites, utilizando para tal efecto los modelos, parámetros y escenarios para la medición y control del riesgo establecidos por el citado comité.
 
-III. Informar al Comité de Riesgos y al Director o Gerente General sobre:
+III. Informar al Comité de Riesgos y al [Director o Gerente General](articulo-1.md) sobre:
 
 a) La exposición global y por tipo de riesgo de la Sociedad, así como la específica de cada unidad de negocio, la cual se informará adicionalmente a los responsables de las unidades de negocios.
 
@@ -31,8 +31,8 @@ b) Las desviaciones que, en su caso, se presenten con respecto a los límites de
 
 Los informes a que se refiere esta fracción deberán presentarse mensualmente, o bien, con la frecuencia que se requiera en atención al dinamismo de los riesgos. Asimismo, se entregará diariamente al Director o Gerente General y a los responsables de las unidades de negocios, un informe sobre el comportamiento de los riesgos de mercado de la Sociedad.
 
-IV. Investigar y documentar las causas que originan desviaciones a los límites de exposición al riesgo establecidos, identificar si dichas desviaciones se presentan en forma reiterada e informar de manera oportuna sus resultados al Comité de Riesgos, al Director o Gerente General y al Auditor Interno.
+IV. Investigar y documentar las causas que originan desviaciones a los límites de exposición al riesgo establecidos, identificar si dichas desviaciones se presentan en forma reiterada e informar de manera oportuna sus resultados al Comité de Riesgos, al Director o Gerente General y al [Auditor Interno](articulo-1.md).
 
-V. Recomendar al Director o Gerente General y a los responsables de las unidades de negocios, disminuir la exposición al riesgo a los límites previamente aprobados por el Consejo de Administración.
+V. Recomendar al Director o Gerente General y a los responsables de las unidades de negocios, disminuir la exposición al riesgo a los límites previamente aprobados por el [Consejo de Administración](articulo-1.md).
 
 VI. Validar con base en la información que habrán de proporcionarle las unidades administrativas correspondientes de la Sociedad, los requerimientos de capitalización por riesgos de crédito y de mercado con que deberá cumplir esta última, con el objeto de verificar que se ajusten a las disposiciones aplicables.

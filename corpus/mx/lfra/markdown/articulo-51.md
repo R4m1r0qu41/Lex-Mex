@@ -17,6 +17,6 @@ source_sha256: 7211b1c71876d2ea4776c11dc1e045ebbb34b7e98b130f16c7864f75f5e90744
 
 # Artículo 51
 
-Los mecanismos alternativos que se refieran a conductas constitutivas de delitos contra el ambiente, respecto de las que no proceda el perdón o el desinterés jurídico de la víctima o de la procuraduría, se regularán en términos del Título Tercero de esta Ley y el Código Federal de Procedimientos Penales.
+Los mecanismos alternativos que se refieran a conductas constitutivas de delitos contra el ambiente, respecto de las que no proceda el perdón o el desinterés jurídico de la víctima o de la procuraduría, se regularán en términos del Título Tercero de esta [Ley](articulo-2o.md) y el Código Federal de Procedimientos Penales.
 
 El fin de estos mecanismos será lograr la justicia restaurativa, mediante la participación de la víctima u ofendido y el imputado, para buscar la solución a las controversias derivadas del hecho calificado como delito.

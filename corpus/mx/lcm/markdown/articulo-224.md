@@ -17,7 +17,7 @@ source_sha256: 8e270686b885035488bfe310b0b42bb40e7154431794227ebe212dd7dc12e46a
 
 # Artículo 224
 
-Son créditos contra la [Masa](articulo-4o.md) y serán pagados en el orden indicado y con anterioridad a cualquiera de los que se refiere el artículo [217](articulo-217.md) de esta Ley:
+Son créditos contra la [Masa](articulo-4o.md) y serán pagados en el orden indicado y con anterioridad a cualquiera de los que se refiere el artículo [217](articulo-217.md) de esta [Ley](articulo-4o.md):
 
 I. Los referidos en la fracción XXIII, apartado A, del artículo 123 constitucional y sus disposiciones reglamentarias; Fracción reformada DOF 10-01-2014
 

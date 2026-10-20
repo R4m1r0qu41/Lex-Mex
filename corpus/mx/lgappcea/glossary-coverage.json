@@ -1,0 +1,41 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-3",
+  "instrument_id": "urn:lex-mx:federal:statute:lgappcea",
+  "source_sha256": "8d3d1a9b2d2dec12c65695cd5b87d60f76e2f3c64356f73ab6011d7dc40fbe37",
+  "extracted_text_sha256": "69b6aa0fd7d2ea56ae6583617448cdbe63988e012f2e15a9b0d34afa2532747f",
+  "status": "detected",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lgappcea:article:3",
+      "provision_text_sha256": "9755c2456d68c2167cabd0dcf15efe94908f3b0e069d0cfca62acb026e6ac73d",
+      "method": "wider_pass",
+      "fractions": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII",
+        "XIII",
+        "XIV",
+        "XV",
+        "XVI",
+        "XVII",
+        "XVIII",
+        "XIX"
+      ],
+      "repeal_placeholders": [],
+      "term_count": 19
+    }
+  ],
+  "imports": [],
+  "term_count": 19,
+  "usage_count": 24
+}

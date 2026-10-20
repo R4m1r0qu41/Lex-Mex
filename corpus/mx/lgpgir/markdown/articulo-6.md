@@ -17,4 +17,4 @@ source_sha256: b34326588bd6e7519e33411d3658239e3aefb56cef0fae5d775bc894af64a565
 
 # Artículo 6
 
-La Federación, las entidades federativas y los municipios, ejercerán sus atribuciones en materia de prevención de la generación, aprovechamiento, gestión integral de los residuos, de prevención de la contaminación de sitios y su remediación, de conformidad con la distribución de competencias prevista en esta Ley y en otros ordenamientos legales.
+La Federación, las entidades federativas y los municipios, ejercerán sus atribuciones en materia de prevención de la generación, aprovechamiento, gestión integral de los residuos, de prevención de la contaminación de sitios y su remediación, de conformidad con la distribución de competencias prevista en esta [Ley](articulo-5.md) y en otros ordenamientos legales.

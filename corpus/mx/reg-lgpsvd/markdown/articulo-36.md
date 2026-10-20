@@ -17,4 +17,4 @@ source_sha256: a1cc8f6043c35579235fd61d2e34977e1735af4ea6919d053f89462b97742335
 
 # Artículo 36
 
-El Centro Nacional podrá coordinarse con la Subsecretaría, para promover la prevención social de la Violencia y la delincuencia en los tres órdenes de gobierno, en conjunto con instituciones del sistema educativo nacional, organizaciones de la sociedad civil, consejos de participación ciudadana en seguridad y otras formas de participación, en los términos de la Ley y la Ley General del Sistema Nacional de Seguridad Pública.
+El Centro Nacional podrá coordinarse con la [Subsecretaría](articulo-3.md), para promover la prevención social de la Violencia y la delincuencia en los tres órdenes de gobierno, en conjunto con instituciones del sistema educativo nacional, organizaciones de la sociedad civil, consejos de participación ciudadana en seguridad y otras formas de participación, en los términos de la Ley y la Ley General del Sistema Nacional de Seguridad Pública.

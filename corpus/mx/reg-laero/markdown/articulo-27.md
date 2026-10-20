@@ -15,7 +15,7 @@ source_sha256: ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776
 
 # Artículo 27
 
-Los concesionarios o permisionarios informarán a la Secretaría la designación del administrador aeroportuario en los términos del artículo [24](../../laero/markdown/articulo-24.md) de la Ley, debiendo acompañar lo siguiente:
+Los concesionarios o permisionarios informarán a la [Secretaría](articulo-2.md) la designación del administrador aeroportuario en los términos del artículo [24](../../laero/markdown/articulo-24.md) de la [Ley](articulo-2.md), debiendo acompañar lo siguiente:
 
 I. Manifestación escrita del administrador aeroportuario designado, realizada ante fedatario público, en la que haga constar, bajo protesta de decir verdad, lo siguiente:
 

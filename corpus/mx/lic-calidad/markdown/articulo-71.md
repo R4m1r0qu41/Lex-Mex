@@ -17,8 +17,8 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 # Artículo 71
 
-Los acuerdos de equivalencia son las resoluciones por las cuales la Secretaría, por sí o a solicitud de una parte interesada, reconoce o acepta unilateral o recíprocamente los reglamentos técnicos extranjeros, o los resultados de la Evaluación de la Conformidad que lleven a cabo las entidades internacionales o extranjeras.
+Los acuerdos de equivalencia son las resoluciones por las cuales la [Secretaría](articulo-4.md), por sí o a solicitud de una parte interesada, reconoce o acepta unilateral o recíprocamente los reglamentos técnicos extranjeros, o los resultados de la [Evaluación de la Conformidad](articulo-4.md) que lleven a cabo las entidades internacionales o extranjeras.
 
-Las resoluciones deberán contemplar cuando menos, el mismo grado de conformidad para lograr los objetivos legítimos perseguidos, así como las normas internacionales de pruebas, inspección, certificación y acreditación, previa opinión favorable, en su caso, de la Autoridad Normalizadora competente.
+Las resoluciones deberán contemplar cuando menos, el mismo grado de conformidad para lograr los objetivos legítimos perseguidos, así como las normas internacionales de pruebas, inspección, certificación y acreditación, previa opinión favorable, en su caso, de la [Autoridad Normalizadora](articulo-4.md) competente.
 
-En el caso de las medidas sanitarias y fitosanitarias, la equivalencia será reconocida por las Autoridades Normalizadoras competentes, contemplando cuando menos el mismo grado de conformidad para lograr los objetivos legítimos perseguidos por las Normas Oficiales Mexicanas que correspondan.
+En el caso de las medidas sanitarias y fitosanitarias, la equivalencia será reconocida por las Autoridades Normalizadoras competentes, contemplando cuando menos el mismo grado de conformidad para lograr los objetivos legítimos perseguidos por las [Normas Oficiales Mexicanas](articulo-4.md) que correspondan.

@@ -17,4 +17,4 @@ source_sha256: e81e23876bd08da81cb8392af7054f6187ad043ca8f965777b455f9d12554e8b
 
 # Artículo 17
 
-Ante la negativa de acceso a la información o inexistencia, el sujeto obligado deberá indicar que la información solicitada se encuentra comprendida dentro de alguna de las excepciones previstas en esta Ley o, en su caso, que no corresponde a sus facultades, competencias o funciones, o bien, no existe la obligación jurídica de documentarla.
+Ante la negativa de acceso a la información o inexistencia, el sujeto obligado deberá indicar que la información solicitada se encuentra comprendida dentro de alguna de las excepciones previstas en esta [Ley](articulo-3.md) o, en su caso, que no corresponde a sus facultades, competencias o funciones, o bien, no existe la obligación jurídica de documentarla.

@@ -19,7 +19,7 @@ source_sha256: 96092a4581d4e87910eb58939da4045879e4fe613b12f4413d7392bcc2c6e884
 
 Es facultad exclusiva de la persona titular de la Presidencia de la República autorizar el establecimiento de fábricas y comercios de armas.
 
-El control y vigilancia de las actividades y operaciones industriales y comerciales que se realicen con armas, municiones, artificios, explosivos y substancias químicas relacionadas, será hecho por la Secretaría.
+El control y vigilancia de las actividades y operaciones industriales y comerciales que se realicen con armas, municiones, artificios, explosivos y substancias químicas relacionadas, será hecho por la [Secretaría](articulo-1o-Bis.md).
 
 Los permisos específicos que se requieran en estas actividades serán otorgados por la Secretaría con conocimiento de la Secretaría de Seguridad y Protección Ciudadana y sin perjuicio de las atribuciones que competan a otras autoridades.
 

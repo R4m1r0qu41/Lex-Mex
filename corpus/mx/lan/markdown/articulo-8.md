@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAN.pdf
 source_sha256: 4ef50d6b4b3a6ad0378720c5d49463b4f17d70d9de39f895ed5dae4d2e21736d
 ---
 
-> Título SEGUNDO
+> Título SEGUNDO · Capítulo II BIS
 
 # Artículo 8
 
@@ -30,5 +30,3 @@ V. Expedir las Normas Oficiales Mexicanas en materia hídrica en los términos d
 VI. Las que en materia hídrica le asignen específicamente las disposiciones legales, así como aquellas que le delegue el Titular del Ejecutivo Federal.
 
 Artículo reformado DOF 29-04-2004
-
-Capítulo III Comisión Nacional del Agua Capítulo reubicado DOF 29-04-2004

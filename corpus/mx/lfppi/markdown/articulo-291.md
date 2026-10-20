@@ -17,6 +17,6 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 291
 
-La persona responsable de la certificación emitirá una constancia a toda persona cuyo producto cumpla con las condiciones determinadas en las reglas a que se refiere la fracción V del artículo [275](articulo-275.md) de esta Ley.
+La persona responsable de la certificación emitirá una constancia a toda persona cuyo producto cumpla con las condiciones determinadas en las reglas a que se refiere la fracción V del artículo [275](articulo-275.md) de esta [Ley](articulo-4.md).
 
 Artículo reformado DOF 03-04-2026

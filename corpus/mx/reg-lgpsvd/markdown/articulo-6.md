@@ -17,4 +17,4 @@ source_sha256: a1cc8f6043c35579235fd61d2e34977e1735af4ea6919d053f89462b97742335
 
 # Artículo 6
 
-La Secretaría, a través de la Subsecretaría, coordinará las acciones necesarias con las dependencias y entidades de la Administración Pública Federal cuyas funciones incidan en la prevención social de la Violencia y la delincuencia, para el diseño de estrategias en materia de salud pública, educación, cultura, deporte, empleo, vivienda, fomento cívico, protección social, seguridad pública y desarrollo social, económico y urbano, a fin de prevenir el fenómeno delictivo.
+La [Secretaría](articulo-3.md), a través de la [Subsecretaría](articulo-3.md), coordinará las acciones necesarias con las dependencias y entidades de la Administración Pública Federal cuyas funciones incidan en la prevención social de la Violencia y la delincuencia, para el diseño de estrategias en materia de salud pública, educación, cultura, deporte, empleo, vivienda, fomento cívico, protección social, seguridad pública y desarrollo social, económico y urbano, a fin de prevenir el fenómeno delictivo.

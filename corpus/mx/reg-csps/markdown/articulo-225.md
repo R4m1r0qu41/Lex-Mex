@@ -17,4 +17,4 @@ source_sha256: 70464807d63da08244e495f2ff0ac30b12b30119926b84cedc7930397fcb80ef
 
 # Artículo 225
 
-Cuando el presente Reglamento no especifique un plazo expreso para resolver sobre una solicitud, la Secretaría dispondrá de cuarenta días para ese efecto. En todos los casos, los plazos se contarán a partir del día siguiente al de la recepción de las solicitudes debidamente requisitadas.
+Cuando el presente Reglamento no especifique un plazo expreso para resolver sobre una solicitud, la [Secretaría](articulo-2o.md) dispondrá de cuarenta días para ese efecto. En todos los casos, los plazos se contarán a partir del día siguiente al de la recepción de las solicitudes debidamente requisitadas.

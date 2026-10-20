@@ -37,8 +37,8 @@ X. Sanitarios: atención médica de urgencias, ambulancia, incineración de prod
 
 XI. Derecho de acceso: para los servicios de transporte terrestre al público y para los prestadores de servicios, y
 
-XII. Los demás que determine y publique la Secretaría en el Diario Oficial de la Federación.
+XII. Los demás que determine y publique la [Secretaría](articulo-2.md) en el Diario Oficial de la Federación.
 
 Dentro de los servicios aeroportuarios se considera el arrendamiento y uso de la infraestructura, así como el derecho de acceso a ésta para la prestación de servicios complementarios y los señalados en las fracciones VII y XI.
 
-Los servicios aeroportuarios serán gratuitos para las aeronaves de Estado militares y aquellas que realicen funciones de seguridad nacional, en términos de lo dispuesto por los artículos [48](../../laero/markdown/articulo-48.md), fracción I y [53](../../laero/markdown/articulo-53.md) párrafo segundo de la Ley.
+Los servicios aeroportuarios serán gratuitos para las aeronaves de Estado militares y aquellas que realicen funciones de seguridad nacional, en términos de lo dispuesto por los artículos [48](../../laero/markdown/articulo-48.md), fracción I y [53](../../laero/markdown/articulo-53.md) párrafo segundo de la [Ley](articulo-2.md).

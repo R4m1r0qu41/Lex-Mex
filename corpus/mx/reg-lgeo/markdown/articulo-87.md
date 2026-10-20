@@ -17,4 +17,4 @@ source_sha256: b19bcf104673af06117a6d4f3c947591f7a65999f19bad3dcfe2599a29bb3ab0
 
 # Artículo 87
 
-Para los efectos del artículo [36](../../lgeo/markdown/articulo-36.md) de la Ley, los pozos perforados deben mantenerse en condiciones operativas y con las instalaciones necesarias para asegurar la estabilidad y seguridad de dichos pozos, asimismo, los bienes que deben retirar las personas titulares de los Permisos de Exploración o Concesiones no deben incluir aquellos cuyo retiro comprometa o afecte la estabilidad o seguridad de los pozos terminados.
+Para los efectos del artículo [36](../../lgeo/markdown/articulo-36.md) de la [Ley](articulo-3.md), los pozos perforados deben mantenerse en condiciones operativas y con las instalaciones necesarias para asegurar la estabilidad y seguridad de dichos pozos, asimismo, los bienes que deben retirar las personas titulares de los Permisos de Exploración o Concesiones no deben incluir aquellos cuyo retiro comprometa o afecte la estabilidad o seguridad de los pozos terminados.

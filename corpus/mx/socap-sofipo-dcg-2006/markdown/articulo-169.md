@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 169
 
-Para llevar a cabo la medición, vigilancia y control de los riesgos y la valuación de las posiciones de la Sociedad Financiera Popular, el personal responsable de la administración integral de riesgos deberá:
+Para llevar a cabo la medición, vigilancia y control de los riesgos y la valuación de las posiciones de la [Sociedad](articulo-1.md) Financiera Popular, el personal responsable de la administración integral de riesgos deberá:
 
 I. Contar con modelos y sistemas de medición de riesgos que incorporen información de mercado, en donde se refleje de forma precisa el valor de las posiciones y su sensibilidad a los diversos factores de riesgo;
 

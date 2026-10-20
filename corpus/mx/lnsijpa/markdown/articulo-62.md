@@ -19,4 +19,4 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 Competencia Auxiliar El Poder Judicial de la Federación establecerá el mecanismo más propicio para determinar el lugar de sus órganos jurisdiccionales, mediante el uso eficiente de los recursos.
 
-Cuando en el lugar de los hechos no se cuente con un Órgano Jurisdiccional federal, por vía de auxilio la competencia para conocer del asunto recaerá en los órganos jurisdiccionales locales.
+Cuando en el lugar de los hechos no se cuente con un [Órgano Jurisdiccional](articulo-3.md) federal, por vía de auxilio la competencia para conocer del asunto recaerá en los órganos jurisdiccionales locales.

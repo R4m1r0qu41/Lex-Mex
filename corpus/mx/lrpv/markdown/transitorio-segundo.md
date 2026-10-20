@@ -15,6 +15,6 @@ source_sha256: 0125eed7519ad260330f9a04f78c0e4a1ce93c06e67c98ac3c535416787656ba
 
 # Segundo
 
-Se abroga la Ley del Registro Nacional de Vehículos, publicada en el Diario Oficial de la Federación el dos de junio de 1998.
+Se abroga la Ley del [Registro](articulo-2.md) Nacional de [Vehículos](articulo-2.md), publicada en el Diario Oficial de la Federación el dos de junio de 1998.
 
 En tanto se expidan el Reglamento de esta Ley y demás ordenamientos aplicables, seguirán aplicándose los vigentes a la entrada en vigor de la presente Ley, en lo que no se opongan a ésta.

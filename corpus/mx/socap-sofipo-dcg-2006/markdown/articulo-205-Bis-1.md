@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 205 Bis 1
 
-La parte complementaria del capital neto de las Sociedades Financieras Populares se integrará por:
+La parte complementaria del capital neto de las [Sociedades](articulo-1.md) Financieras Populares se integrará por:
 
 89) a) Las estimaciones preventivas para riesgos crediticios adicionales constituidas hasta por un monto que no exceda del 15.63 por ciento de los requerimientos de capitalización por riesgo de crédito.
 
@@ -44,17 +44,17 @@ Hasta 1 0
 
 Artículo 205 Bis 1 a.- Las Sociedades Financieras Populares deberán considerar las inversiones realizadas por el “fondo de reservas para pensiones, jubilaciones y demás prestaciones del personal”, como si estas fueran realizadas por la propia Sociedad Financiera Popular, por lo que deberán restar, en el rubro que correspondan, dichas inversiones, siempre que estas actualicen alguno de los supuestos señalados en el artículo [205 Bis](articulo-205-Bis.md) de las presentes disposiciones.
 
-Asimismo, para determinar las Operaciones Sujetas a Riesgo de Crédito, las inversiones en valores realizadas por el “fondo de reservas para pensiones, jubilaciones y demás prestaciones del personal”, que no se hayan restado del capital, computarán de la manera siguiente:
+Asimismo, para determinar las [Operaciones Sujetas a Riesgo de Crédito](articulo-1.md), las inversiones en valores realizadas por el “fondo de reservas para pensiones, jubilaciones y demás prestaciones del personal”, que no se hayan restado del capital, computarán de la manera siguiente:
 
 I. Tratándose de títulos de deuda, en el grupo a que corresponda el emisor, y
 
 II. En el caso de inversiones en acciones, estas tendrán una ponderación de 100 por ciento
 
-Lo señalado en este artículo será aplicable cuando el fondo de pensiones de la Sociedad Financiera Popular sea de beneficios definidos, de conformidad con los Criterios Contables.
+Lo señalado en este artículo será aplicable cuando el fondo de pensiones de la Sociedad Financiera Popular sea de beneficios definidos, de conformidad con los [Criterios Contables](articulo-1.md).
 
 Artículos 205 Bis 1 b.- En ningún caso, el capital neto de una Sociedad Financiera Popular podrá ser menor al capital mínimo previsto en las presentes disposiciones para dichas sociedades.
 
-Las Sociedades Financieras Populares efectuarán mensualmente el cómputo del capital neto considerando los saldos al día último del mes de que se trate, y la información relativa a este deberá ser proporcionada a la Comisión y Federación que la supervise, de conformidad con lo establecido en el Título Octavo, Capítulo II de las presentes disposiciones.
+Las Sociedades Financieras Populares efectuarán mensualmente el cómputo del capital neto considerando los saldos al día último del mes de que se trate, y la información relativa a este deberá ser proporcionada a la Comisión y [Federación](articulo-1.md) que la supervise, de conformidad con lo establecido en el Título Octavo, Capítulo II de las presentes disposiciones.
 
 La Comisión, directamente o, a propuesta de la Federación, podrá determinar que alguna Sociedad Financiera Popular efectúe el cómputo del capital neto con mayor frecuencia y en cualquier fecha, cuando a su juicio determine que la Sociedad Financiera Popular está asumiendo riesgos notoriamente mayores a los que muestren las cifras de cierre de mes.
 

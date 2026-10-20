@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título VI
+
 # Artículo 113
 
 Los intermediarios del mercado de valores serán:
@@ -28,7 +30,3 @@ IV. Sociedades distribuidoras de acciones de sociedades de inversión y entidade
 Las casas de bolsa, en su organización y funcionamiento, se ajustarán a lo previsto en esta Ley.
 
 Las instituciones de crédito, las sociedades operadoras de sociedades de inversión, las administradoras de fondos para el retiro, las sociedades distribuidoras de acciones de sociedades de inversión y las entidades financieras autorizadas para actuar con el referido carácter de distribuidoras, en su organización y funcionamiento deberán observar lo establecido en las leyes del sistema financiero que las rijan y demás disposiciones que emanen de ellas.
-
-Capítulo I De las casas de bolsa
-
-Sección I De la organización

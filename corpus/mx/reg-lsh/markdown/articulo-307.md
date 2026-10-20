@@ -17,4 +17,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Artículo 307
 
-Para la ocupación temporal o la intervención, la Secretaría o la Comisión, en su caso, deben coordinarse con Petróleos Mexicanos o cualquier autoridad del Gobierno Federal, así como suscribir convenios de colaboración y coordinación con autoridades de los tres órdenes de gobierno que resulten necesarios.
+Para la ocupación temporal o la intervención, la [Secretaría](articulo-3.md) o la [Comisión](articulo-3.md), en su caso, deben coordinarse con [Petróleos Mexicanos](articulo-3.md) o cualquier autoridad del Gobierno Federal, así como suscribir convenios de colaboración y coordinación con autoridades de los tres órdenes de gobierno que resulten necesarios.

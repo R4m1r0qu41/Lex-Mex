@@ -17,4 +17,4 @@ source_sha256: ce45c7c0c4e9099691e6e24bd2456d0b6f71f91ab27eedd5c4f2190b66d47741
 
 # Artículo 71
 
-Salvo lo previsto en las leyes, el Ejecutivo Federal, por conducto de la Función Pública, determinará en forma expresa y general los casos en que proceda aceptar la compatibilidad para el desempeño de dos o más empleos o comisiones con cargo a los presupuestos de las dependencias y entidades, sin perjuicio del estricto cumplimiento de las tareas, horarios y jornadas de trabajo que correspondan. En todo caso, los interesados podrán optar por el empleo o comisión que les convenga.
+Salvo lo previsto en las leyes, el Ejecutivo Federal, por conducto de la [Función Pública](articulo-2.md), determinará en forma expresa y general los casos en que proceda aceptar la compatibilidad para el desempeño de dos o más empleos o comisiones con cargo a los presupuestos de las dependencias y entidades, sin perjuicio del estricto cumplimiento de las tareas, horarios y jornadas de trabajo que correspondan. En todo caso, los interesados podrán optar por el empleo o comisión que les convenga.

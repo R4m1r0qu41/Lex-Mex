@@ -13,16 +13,16 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGEEPA_MRETC_311
 source_sha256: 71c334347de911b670b7e920a44db19f2555f611203ec25d227733687972f424
 ---
 
+> Capítulo III
+
 # Artículo 24
 
-Los servidores públicos que integren la información a la Base de datos se encargarán de:
+Los servidores públicos que integren la información a la [Base de datos](articulo-3o.md) se encargarán de:
 
-I. Revisar e inscribir la información de emisiones y transferencia de contaminantes, y sustancias sujetas a reporte de competencia federal contenidas en la Cédula y concentrarla en los archivos que para tal efecto se destinen;
+I. Revisar e inscribir la información de emisiones y transferencia de contaminantes, y sustancias sujetas a reporte de competencia federal contenidas en la [Cédula](articulo-3o.md) y concentrarla en los archivos que para tal efecto se destinen;
 
-II. Integrar al Registro las Bases de datos que proporcionen el Gobierno del Distrito Federal, los Estados y en su caso, los Municipios;
+II. Integrar al [Registro](articulo-3o.md) las Bases de datos que proporcionen el Gobierno del Distrito Federal, los Estados y en su caso, los Municipios;
 
 III. Mantenerla actualizada, de acuerdo a la información que proporcionen los establecimientos sujetos a reporte, conforme a los procedimientos establecidos en este Reglamento, y
 
 IV. Sistematizar la información estadística sobre los datos inscritos y contenidos en la Base de datos.
-
-Capítulo IV De la Difusión de la Información Contenida en la Base de Datos del Registro

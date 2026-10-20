@@ -25,6 +25,6 @@ Cuando la enajenación de la totalidad de los bienes y derechos de la Masa como 
 
 Deberán promoverse, en todos los casos, los elementos de publicidad y operatividad que garanticen la objetividad y transparencia de los procedimientos correspondientes.
 
-Cuando dentro de los bienes y derechos de la Masa se incluyan valores, la enajenación de los mismos se llevará a cabo conforme a lo establecido en este capítulo, sin que sea aplicable la Ley del Mercado de Valores en lo relativo a ofertas de valores.
+Cuando dentro de los bienes y derechos de la Masa se incluyan valores, la enajenación de los mismos se llevará a cabo conforme a lo establecido en este capítulo, sin que sea aplicable la [Ley](articulo-4o.md) del Mercado de Valores en lo relativo a ofertas de valores.
 
 Artículo reformado DOF 10-01-2014

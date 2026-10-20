@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf
 source_sha256: ca63a23a4b7444ebdbdad93759fbf46bd14c069e587c5878decf89fc9c12ca8e
 ---
 
+> Título Séptimo
+
 # Artículo 130
 
 El principio histórico de la separación del Estado y las iglesias orienta las normas contenidas en el presente artículo. Las iglesias y demás agrupaciones religiosas se sujetarán a la ley.

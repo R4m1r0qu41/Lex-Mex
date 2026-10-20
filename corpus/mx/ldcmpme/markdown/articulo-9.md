@@ -17,7 +17,7 @@ source_sha256: 4933abadd27d345e7a5c1754af10ed429fd148b709b4a78d4f42447b5fcd546d
 
 # Artículo 9
 
-Los programas sectoriales referidos en el Artículo [5](articulo-5.md) de esta Ley, deberán contener, entre otros:
+Los programas sectoriales referidos en el Artículo [5](articulo-5.md) de esta [Ley](articulo-3.md), deberán contener, entre otros:
 
 I. La definición de los sectores prioritarios para el desarrollo económico;
 

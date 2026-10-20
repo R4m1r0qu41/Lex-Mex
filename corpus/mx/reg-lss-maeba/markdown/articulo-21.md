@@ -17,7 +17,7 @@ source_sha256: 9816ce7f9d6b9b1781eb9935869bd45677c60d721d3352865b6524c2e75db8cd
 
 # Artículo 21
 
-El Comité Técnico tendrá las atribuciones siguientes:
+El [Comité Técnico](articulo-2.md) tendrá las atribuciones siguientes:
 
 I. Aprobar el calendario anual de sesiones ordinarias;
 
@@ -33,4 +33,4 @@ VI. Determinar los casos en que los bienes, para efectos de su enajenación, pod
 
 VII. Evaluar y, en su caso, proponer las medidas que, de acuerdo a la naturaleza del bien, se requieran para su administración, y
 
-VIII. Las demás que determine el Consejo Técnico del Instituto y las que se establezcan en su Manual de Integración y Operación. REGLAMENTO DE LA LEY DEL SEGURO SOCIAL, EN MATERIA DE ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES ADJUDICADOS CON MOTIVO DE LA APLICACIÓN DEL PROCEDIMIENTO ADMINISTRATIVO DE EJECUCIÓN
+VIII. Las demás que determine el Consejo Técnico del [Instituto](../../lss/markdown/articulo-5-A.md) y las que se establezcan en su Manual de Integración y Operación.

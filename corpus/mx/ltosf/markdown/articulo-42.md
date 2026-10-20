@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LTOSF.pdf
 source_sha256: bf9e443e89a5c0ba268e76f20923ae25195ef5c1ffbacecff36693ca228c3667
 ---
 
+> Capítulo V · Sección V
+
 # Artículo 42
 
 La [Comisión](articulo-3.md) Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros sancionará con multa de dos mil a cinco mil días de salario, a las [Entidades Financieras](articulo-3.md): Párrafo reformado DOF 25-06-2009

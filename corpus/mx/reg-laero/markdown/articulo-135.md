@@ -15,7 +15,7 @@ source_sha256: ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776
 
 # Artículo 135
 
-Los concesionarios y permisionarios de aeródromos de servicio al público serán responsables de registrar ante la Secretaría las tarifas máximas y específicas de la totalidad de los servicios aeroportuarios y complementarios, debiéndose separar las tarifas por los servicios aeroportuarios de las tarifas por servicios complementarios y, cuando los servicios sean prestados por terceros, se habrá de identificar al prestador de los servicios.
+Los concesionarios y permisionarios de aeródromos de servicio al público serán responsables de registrar ante la [Secretaría](articulo-2.md) las tarifas máximas y específicas de la totalidad de los servicios aeroportuarios y complementarios, debiéndose separar las tarifas por los servicios aeroportuarios de las tarifas por servicios complementarios y, cuando los servicios sean prestados por terceros, se habrá de identificar al prestador de los servicios.
 
 Los concesionarios y permisionarios deberán presentar a consideración del comité de operación y horarios, o de los usuarios, según corresponda, las modificaciones que pretendan realizar ellos o los prestadores de servicios a las tarifas y sus reglas de aplicación, para que dentro del plazo de 15 días naturales siguientes emitan su recomendación u opinión, según corresponda; en caso de que durante dicho plazo no se pronuncien, las tarifas se tendrán por aceptadas.
 

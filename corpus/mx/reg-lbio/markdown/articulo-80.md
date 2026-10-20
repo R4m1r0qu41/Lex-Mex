@@ -17,4 +17,4 @@ source_sha256: 7df3d678efda2306b68d3c0f5ca0e3e92b9066d5f773128f4ae19cb26bf44fff
 
 # Artículo 80
 
-Para efectos de lo establecido en el [artículo anterior](articulo-79.md), las personas interesadas deben cumplir con los requisitos y procedimientos previstos en este Reglamento para el tipo de permiso o Autorización de que se trate.
+Para efectos de lo establecido en el [artículo anterior](articulo-79.md), las personas interesadas deben cumplir con los requisitos y procedimientos previstos en este [Reglamento](articulo-3.md) para el tipo de permiso o [Autorización](articulo-3.md) de que se trate.

@@ -17,4 +17,4 @@ source_sha256: e81e23876bd08da81cb8392af7054f6187ad043ca8f965777b455f9d12554e8b
 
 # Artículo 210
 
-En aquellos casos en que la persona presunta infractora tenga la calidad de persona servidora pública, las Autoridades garantes deberán remitir a la autoridad competente, junto con la denuncia correspondiente, un expediente en que se contengan todos los elementos que sustenten la presunta responsabilidad administrativa. La autoridad que conozca del asunto deberá informar de la conclusión del procedimiento y, en su caso, de la ejecución de la sanción a la autoridad denunciante.
+En aquellos casos en que la persona presunta infractora tenga la calidad de persona servidora pública, las [Autoridades garantes](articulo-3.md) deberán remitir a la autoridad competente, junto con la denuncia correspondiente, un expediente en que se contengan todos los elementos que sustenten la presunta responsabilidad administrativa. La autoridad que conozca del asunto deberá informar de la conclusión del procedimiento y, en su caso, de la ejecución de la sanción a la autoridad denunciante.

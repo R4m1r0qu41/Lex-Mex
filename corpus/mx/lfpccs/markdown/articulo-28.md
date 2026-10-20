@@ -17,4 +17,4 @@ source_sha256: ea99e8d1b13b36451e69f865d4aeeca08ce847fb7dcab648e77f65ca88991a8b
 
 # Artículo 28
 
-En el Reglamento de esta Ley y en las Reglas para cada especie, se establecerán los requisitos para la conservación de generaciones de cada categoría, excepto la Certificada. Lo anterior será aplicable también a las variedades de uso común.
+En el Reglamento de esta Ley y en las [Reglas](articulo-3.md) para cada especie, se establecerán los requisitos para la conservación de generaciones de cada categoría, excepto la Certificada. Lo anterior será aplicable también a las variedades de uso común.

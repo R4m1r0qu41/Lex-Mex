@@ -15,6 +15,6 @@ source_sha256: ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776
 
 # Artículo 154
 
-El concesionario o permisionario del aeródromo civil es responsable de llevar a cabo la revisión de los pasajeros y su equipaje de mano antes de entrar a la zona estéril, en los términos que se establezcan conforme al Programa Nacional de Seguridad Aeroportuaria. El transportista aéreo es responsable de efectuar la revisión del equipaje facturado o partes del mismo y la carga que vaya a transportar, de conformidad con lo establecido en la Ley de Aviación Civil y su Reglamento.
+El concesionario o permisionario del aeródromo civil es responsable de llevar a cabo la revisión de los pasajeros y su equipaje de mano antes de entrar a la zona estéril, en los términos que se establezcan conforme al Programa Nacional de Seguridad Aeroportuaria. El transportista aéreo es responsable de efectuar la revisión del equipaje facturado o partes del mismo y la carga que vaya a transportar, de conformidad con lo establecido en la [Ley](articulo-2.md) de Aviación Civil y su Reglamento.
 
 En caso de que el transportista aéreo requiera seguridad adicional será bajo su responsabilidad y a su cargo.

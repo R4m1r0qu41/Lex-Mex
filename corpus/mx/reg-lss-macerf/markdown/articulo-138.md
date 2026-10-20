@@ -17,7 +17,7 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 138
 
-Para los efectos de los artículos [40](../../lss/markdown/articulo-40.md) C y [40](../../lss/markdown/articulo-40.md) D de la Ley, quedará sin efecto la solicitud o autorización para el pago diferido o en parcialidades cuando:
+Para los efectos de los artículos [40](../../lss/markdown/articulo-40.md) C y [40](../../lss/markdown/articulo-40.md) D de la [Ley](../../lss/markdown/articulo-5-A.md), quedará sin efecto la solicitud o autorización para el pago diferido o en parcialidades cuando:
 
 I. Desaparezca o resulte insuficiente la garantía del interés fiscal otorgada, sin que el patrón presente nueva garantía o amplíe la que resulte insuficiente;
 
@@ -29,4 +29,4 @@ IV. El patrón omita el pago de las cuotas obrero patronales que se generen dent
 
 V. El patrón, tratándose de pago diferido, no lo realice en la fecha señalada.
 
-En los supuestos de las fracciones anteriores, el Instituto requerirá y hará exigible el saldo insoluto, mediante el procedimiento administrativo de ejecución o en su caso, procederá a hacer efectiva la garantía del interés fiscal. En el caso de la fracción II, el Instituto hará valer el derecho de preferencia, en términos del artículo [288](../../lss/markdown/articulo-288.md) de la Ley, ante el conciliador o juez de la causa.
+En los supuestos de las fracciones anteriores, el [Instituto](../../lss/markdown/articulo-5-A.md) requerirá y hará exigible el saldo insoluto, mediante el procedimiento administrativo de ejecución o en su caso, procederá a hacer efectiva la garantía del interés fiscal. En el caso de la fracción II, el Instituto hará valer el derecho de preferencia, en términos del artículo [288](../../lss/markdown/articulo-288.md) de la Ley, ante el conciliador o juez de la causa.

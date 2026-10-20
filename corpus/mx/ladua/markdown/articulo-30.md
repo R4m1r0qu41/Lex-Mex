@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf
 source_sha256: 43927095d22ff7bc7780e78132d2160b5050b5f76026b539daec32be09d7341d
 ---
 
+> Título Segundo · Capítulo II
+
 # Artículo 30
 
 Los plazos a que se refiere la fracción II del artículo [29](articulo-29.md) de esta Ley, se computarán a partir del día siguiente a aquel en que las mercancías ingresen al almacén en el que queden en depósito ante la aduana, salvo en los siguientes casos:

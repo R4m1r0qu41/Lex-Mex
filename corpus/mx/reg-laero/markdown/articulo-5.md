@@ -15,7 +15,7 @@ source_sha256: ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776
 
 # Artículo 5
 
-La Secretaría establecerá en las normas básicas de seguridad, y de acuerdo con los tratados internacionales, las diferentes categorías de los aeródromos civiles, atendiendo a la infraestructura, equipamiento y los estándares de seguridad y eficiencia con que cuenten para la operación de aeronaves.
+La [Secretaría](articulo-2.md) establecerá en las normas básicas de seguridad, y de acuerdo con los tratados internacionales, las diferentes categorías de los aeródromos civiles, atendiendo a la infraestructura, equipamiento y los estándares de seguridad y eficiencia con que cuenten para la operación de aeronaves.
 
 Con base en lo anterior, la Secretaría determinará en las concesiones y permisos la clasificación y categoría del aeródromo civil de que se trate.
 

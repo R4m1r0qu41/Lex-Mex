@@ -17,4 +17,4 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 136
 
-El certificado complementario caducará al vencimiento de su vigencia y los derechos que ampara se incorporarán al dominio público. La caducidad del certificado complementario no requerirá de declaración administrativa por parte del Instituto.
+El certificado complementario caducará al vencimiento de su vigencia y los derechos que ampara se incorporarán al dominio público. La caducidad del certificado complementario no requerirá de declaración administrativa por parte del [Instituto](articulo-4.md).

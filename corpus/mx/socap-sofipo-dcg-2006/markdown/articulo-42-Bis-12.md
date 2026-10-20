@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 42 Bis 12
 
-Las Sociedades Financieras Populares para calcular las estimaciones preventivas para riesgo de crédito podrán ajustar el valor de la Severidad de la Pérdida considerando las garantías no financieras que cumplan con lo establecido en las fracciones II y III del Anexo D Bis de las presentes disposiciones.
+Las [Sociedades](articulo-1.md) Financieras Populares para calcular las estimaciones preventivas para riesgo de crédito podrán ajustar el valor de la Severidad de la Pérdida considerando las garantías no financieras que cumplan con lo establecido en las fracciones II y III del Anexo D Bis de las presentes disposiciones.
 
 Las Sociedades Financieras Populares podrán obtener una Severidad de la Pérdida efectiva (SPi**) de acuerdo con la metodología siguiente:
 
@@ -66,6 +66,6 @@ c) Las reservas totales de cada crédito se determinarán sumando las reservas d
 
 VII. A las operaciones en donde CiGNF sea menor que C* se les asignará una SPi** igual a la resultante de aplicar lo establecido en el artículo [42 Bis 8](articulo-42-Bis-8.md) de las presentes disposiciones.
 
-Para efectos de lo dispuesto por el presente artículo, por otros instrumentos asimilables deberá entenderse a los fideicomisos de garantía o de administración o ambos, celebrados al amparo del artículo [382](../../lgtoc/markdown/articulo-382.md) de la Ley General de Títulos y Operaciones de Crédito, así como a las instrucciones irrevocables o contratos de mandato de garantía o ambos, referidos en el artículo [2596](../../ccf/markdown/articulo-2596.md) del Código Civil Federal, ambos instrumentos contenidos en el inciso d), fracción II, Anexo D Bis de las presentes disposiciones.
+Para efectos de lo dispuesto por el presente artículo, por otros instrumentos asimilables deberá entenderse a los fideicomisos de garantía o de administración o ambos, celebrados al amparo del artículo [382](../../lgtoc/markdown/articulo-382.md) de la [Ley](articulo-1.md) General de Títulos y Operaciones de Crédito, así como a las instrucciones irrevocables o contratos de mandato de garantía o ambos, referidos en el artículo [2596](../../ccf/markdown/articulo-2596.md) del Código Civil Federal, ambos instrumentos contenidos en el inciso d), fracción II, Anexo D Bis de las presentes disposiciones.
 
 Cuando se reciban garantías otorgadas por entidades financieras, sean estas nacionales o extranjeras, cuya validez esté sujeta al cumplimiento de términos y condiciones por parte de la Sociedad Financiera Popular acreedora de la garantía y los incumpla, no deberá tomarse en cuenta la garantía para efectos de lo establecido en el presente artículo.

@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcacsam:term:tiempo-de-servicio-efectivo",
+    "term": "Tiempo de servicio efectivo",
+    "instrument_id": "urn:lex-mx:federal:statute:lcacsam",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lcacsam:article:1",
+    "fraction": "I",
+    "start_char": 55,
+    "end_char": 277,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcacsam:term:tiempo-de-servicios",
+    "term": "Tiempo de servicios",
+    "instrument_id": "urn:lex-mx:federal:statute:lcacsam",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lcacsam:article:1",
+    "fraction": "II",
+    "start_char": 277,
+    "end_char": 418,
+    "basis": "express_definition"
+  }
+]

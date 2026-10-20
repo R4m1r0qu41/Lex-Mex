@@ -18,7 +18,7 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 308
 
-Las Sociedades proporcionarán mensualmente a la Comisión y al Comité de Supervisión Auxiliar, la información a que se refiere el artículo [307](articulo-307.md) anterior, con la periodicidad que a continuación se indica:181
+Las Sociedades proporcionarán mensualmente a la [Comisión](articulo-1.md) y al [Comité de Supervisión Auxiliar](articulo-1.md), la información a que se refiere el artículo [307](articulo-307.md) anterior, con la periodicidad que a continuación se indica:181
 
 I. Mensualmente:
 

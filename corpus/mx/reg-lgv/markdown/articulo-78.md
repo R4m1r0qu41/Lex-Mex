@@ -17,7 +17,7 @@ source_sha256: 51d855a586ad7017a8d8f5c36819a2bd0d3d488f3f4b23594a729418a8b776b4
 
 # Artículo 78
 
-Para los efectos de los Títulos Tercero y Cuarto de la Ley, el Fondo entregará los recursos para el reembolso de los gastos que por concepto de medidas de ayuda, asistencia y atención hayan realizado las víctimas tanto de delitos del orden federal como de violaciones a derechos humanos cometidas por autoridades federales, conforme a lo siguiente:
+Para los efectos de los Títulos Tercero y Cuarto de la Ley, el [Fondo](articulo-3.md) entregará los recursos para el reembolso de los gastos que por concepto de medidas de ayuda, asistencia y atención hayan realizado las víctimas tanto de delitos del orden federal como de violaciones a derechos humanos cometidas por autoridades federales, conforme a lo siguiente:
 
 I. Las víctimas deben estar inscritas en el Registro Nacional de Víctimas;
 

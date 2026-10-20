@@ -17,7 +17,7 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 318
 
-Recibida la solicitud, el Instituto procederá a realizar un examen, a fin de verificar si ésta cumple con los requisitos a que se refiere el artículo [316](articulo-316.md) de esta Ley.
+Recibida la solicitud, el [Instituto](articulo-4.md) procederá a realizar un examen, a fin de verificar si ésta cumple con los requisitos a que se refiere el artículo [316](articulo-316.md) de esta [Ley](articulo-4.md).
 
 Si la solicitud o la documentación exhibida no cumple con los requisitos legales o reglamentarios o si existe algún impedimento, el Instituto lo comunicará por escrito a la persona solicitante otorgándole un plazo de dos meses para que subsane los errores u omisiones en los que hubiese incurrido y manifieste lo que a su derecho convenga, siendo aplicable el plazo adicional establecido en el artículo [279](articulo-279.md) de la presente Ley. Párrafo reformado DOF 03-04-2026
 

@@ -15,4 +15,4 @@ source_sha256: 1405f36fd836ff74d059ebe7e50ae439cbb9e5e291a317514667f34a26f72a23
 
 # Vigésimo Primero
 
-Los pozos no otorgados en Asignaciones o Contratos, previo a la entrada en vigor de la presente Ley, que a la fecha tengan producción de Hidrocarburos bajo el resguardo de Petróleos Mexicanos, pueden ser otorgados en Asignaciones para Desarrollo Propio o en Asignaciones para Desarrollo Mixto.
+Los pozos no otorgados en [Asignaciones](articulo-5.md) o Contratos, previo a la entrada en vigor de la presente Ley, que a la fecha tengan producción de [Hidrocarburos](articulo-5.md) bajo el resguardo de [Petróleos](articulo-5.md) Mexicanos, pueden ser otorgados en Asignaciones para Desarrollo Propio o en Asignaciones para Desarrollo Mixto.

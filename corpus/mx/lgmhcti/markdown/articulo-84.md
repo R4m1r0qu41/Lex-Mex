@@ -17,7 +17,7 @@ source_sha256: 5a0e15e01ac963917e019e3cc4ad07e96d76cc6c82c8b4238dfbb3a58a146847
 
 # Artículo 84
 
-Los Centros Públicos gozan de autonomía técnica y de gestión, de conformidad con lo establecido en esta Ley, en la legislación aplicable y en sus instrumentos de creación, y la ejercerán con responsabilidad social, en favor del interés público y en congruencia con el Plan Nacional de Desarrollo, el Programa Especial y el programa sectorial correspondiente, sin perjuicio de las relaciones de coordinación sectorial que correspondan.
+Los [Centros Públicos](articulo-4.md) gozan de autonomía técnica y de gestión, de conformidad con lo establecido en esta [Ley](articulo-4.md), en la legislación aplicable y en sus instrumentos de creación, y la ejercerán con responsabilidad social, en favor del interés público y en congruencia con el Plan Nacional de Desarrollo, el [Programa Especial](articulo-4.md) y el programa sectorial correspondiente, sin perjuicio de las relaciones de coordinación sectorial que correspondan.
 
 Las actividades académicas, de investigación humanística y científica, desarrollo tecnológico e innovación que realicen los Centros Públicos deberán ser congruentes con los fines, principios y bases de la política pública, en los términos de sus programas institucionales. En el desarrollo y ejecución de dichas actividades se garantizará la libertad de investigación, de conformidad con lo previsto en la presente Ley.
 

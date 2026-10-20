@@ -17,4 +17,4 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 216
 
-El Instituto proporcionará el apoyo necesario a los servicios de solidaridad social que esta Ley le atribuye, sin perjuicio del eficaz otorgamiento de las prestaciones a que tienen derecho los trabajadores y demás beneficiarios del régimen obligatorio.
+El [Instituto](articulo-5-A.md) proporcionará el apoyo necesario a los servicios de solidaridad social que esta [Ley](articulo-5-A.md) le atribuye, sin perjuicio del eficaz otorgamiento de las prestaciones a que tienen derecho los trabajadores y demás beneficiarios del régimen obligatorio.

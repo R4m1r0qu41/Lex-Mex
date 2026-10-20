@@ -17,6 +17,6 @@ source_sha256: 96092a4581d4e87910eb58939da4045879e4fe613b12f4413d7392bcc2c6e884
 
 # Artículo 30
 
-Corresponde a la Secretaría la expedición, negación, suspensión y cancelación de las licencias de portación de armas; así como su registro, control y vigilancia.
+Corresponde a la [Secretaría](articulo-1o-Bis.md) la expedición, negación, suspensión y cancelación de las licencias de portación de armas; así como su registro, control y vigilancia.
 
 Artículo reformado DOF 29-05-2025

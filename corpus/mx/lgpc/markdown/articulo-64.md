@@ -17,7 +17,7 @@ source_sha256: d8dd1de3627b899bb4faf31c2812c3d5f14f7108be153d5aa8dd549b9136184a
 
 # Artículo 64
 
-Ante la inminencia o alta probabilidad de que ocurra un agente natural perturbador que ponga en riesgo la vida humana y cuando la rapidez de la actuación del Sistema Nacional sea esencial, la Secretaría podrá emitir una declaratoria de emergencia, a fin de poder brindar de manera inmediata los apoyos necesarios y urgentes para la población susceptible de ser afectada.
+Ante la inminencia o alta probabilidad de que ocurra un agente natural perturbador que ponga en riesgo la vida humana y cuando la rapidez de la actuación del [Sistema Nacional](articulo-2.md) sea esencial, la [Secretaría](articulo-2.md) podrá emitir una declaratoria de emergencia, a fin de poder brindar de manera inmediata los apoyos necesarios y urgentes para la población susceptible de ser afectada.
 
 La normatividad administrativa determinará los casos en que podrá emitirse una declaratoria de emergencia por inminencia o alta probabilidad, así como los apoyos que podrá brindarse con cargo al instrumento financiero de gestión de riesgos establecido para la atención de emergencia.
 

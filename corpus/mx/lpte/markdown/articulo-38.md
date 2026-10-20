@@ -17,4 +17,4 @@ source_sha256: c24aa3a57883383635d5271683dd76e561f21852328f0e89f6bf1c2a09aa2d41
 
 # Artículo 38
 
-La Comisión Federal de Electricidad y los suministradores de gas natural deben incluir en sus recibos de pago o facturas, leyendas para incentivar el uso eficiente de la energía y sus beneficios en la preservación del medio ambiente, así como de difusión de los programas públicos de Aprovechamiento Sustentable de la Energía y Eficiencia Energética. Las leyendas deben ser propuestas por la CONUEE.
+La Comisión Federal de Electricidad y los suministradores de gas natural deben incluir en sus recibos de pago o facturas, leyendas para incentivar el uso eficiente de la energía y sus beneficios en la preservación del medio ambiente, así como de difusión de los programas públicos de [Aprovechamiento Sustentable de la Energía](articulo-3.md) y [Eficiencia Energética](articulo-3.md). Las leyendas deben ser propuestas por la [CONUEE](articulo-3.md).

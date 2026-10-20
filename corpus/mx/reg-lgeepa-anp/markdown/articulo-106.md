@@ -17,4 +17,4 @@ source_sha256: 4e276866fce1638948a6daf1a5c0438fa412554f1a6e0381cbdf7cb300e3db75
 
 # Artículo 106
 
-Las unidades de manejo para la conservación de la vida silvestre dentro de un área natural protegida, deberán sujetarse a las disposiciones contenidas en la Ley General de Vida Silvestre, a la declaratoria correspondiente, el programa de manejo y demás disposiciones legales y reglamentarias aplicables.
+Las unidades de manejo para la conservación de la vida silvestre dentro de un área natural protegida, deberán sujetarse a las disposiciones contenidas en la [Ley](articulo-3o.md) General de Vida Silvestre, a la declaratoria correspondiente, el programa de manejo y demás disposiciones legales y reglamentarias aplicables.

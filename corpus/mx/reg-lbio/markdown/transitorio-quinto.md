@@ -15,4 +15,4 @@ source_sha256: 7df3d678efda2306b68d3c0f5ca0e3e92b9066d5f773128f4ae19cb26bf44fff
 
 # QUINTO
 
-Las personas titulares de permisos emitidos al amparo de la Ley de Promoción y Desarrollo de los Bioenergéticos y su reglamento que a la fecha de la publicación de este Reglamento no hayan obtenido la Constancia de Inicio de Operaciones, contarán con un plazo trescientos sesenta y cinco días contados a partir de la publicación de este Reglamento para solicitar el Aviso de inicio de operaciones en función de las actividades estipuladas en la Ley de Biocombustibles y en el presente Reglamento.
+Las personas titulares de permisos emitidos al amparo de la [Ley](articulo-3.md) de Promoción y Desarrollo de los Bioenergéticos y su reglamento que a la fecha de la publicación de este [Reglamento](articulo-3.md) no hayan obtenido la Constancia de Inicio de Operaciones, contarán con un plazo trescientos sesenta y cinco días contados a partir de la publicación de este Reglamento para solicitar el Aviso de inicio de operaciones en función de las actividades estipuladas en la Ley de Biocombustibles y en el presente Reglamento.

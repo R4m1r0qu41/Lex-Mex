@@ -1,0 +1,39 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-3",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lss-macerf",
+  "source_sha256": "78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9",
+  "extracted_text_sha256": "1510a93a1ecb8a5a1e39e6b2f2c6ed1c23faf8fbe90e8cc7e801827a805632e9",
+  "status": "configured",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:2",
+      "provision_text_sha256": "44a41abd7858a27aa2496ec66bee65df421432008325e166c0fd9a355690455e",
+      "method": "auto_whole",
+      "fractions": [
+        "I",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI"
+      ],
+      "repeal_placeholders": [
+        "II"
+      ],
+      "term_count": 10
+    }
+  ],
+  "imports": [
+    {
+      "additive_to": "urn:lex-mx:federal:statute:lss:article:5-a",
+      "term_count": 24
+    }
+  ],
+  "term_count": 10,
+  "usage_count": 449
+}

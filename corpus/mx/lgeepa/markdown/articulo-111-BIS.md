@@ -17,7 +17,7 @@ source_sha256: 0574853d06020030188e8aee1eae5dabb2b476ac630cc52be631a48d2b91adbc
 
 # Artículo 111 BIS
 
-Para la operación y funcionamiento de las fuentes fijas de jurisdicción federal que emitan o puedan emitir olores, gases o partículas sólidas o líquidas a la atmósfera, se requerirá autorización de la Secretaría.
+Para la operación y funcionamiento de las fuentes fijas de jurisdicción federal que emitan o puedan emitir olores, gases o partículas sólidas o líquidas a la atmósfera, se requerirá autorización de la [Secretaría](articulo-3o.md).
 
 Para los efectos a que se refiere esta Ley, se consideran fuentes fijas de jurisdicción federal, las industrias química, del petróleo y petroquímica, de pinturas y tintas, automotriz, de celulosa y papel, metalúrgica, del vidrio, de generación de energía eléctrica, del asbesto, cementera y calera y de tratamiento de residuos peligrosos.
 

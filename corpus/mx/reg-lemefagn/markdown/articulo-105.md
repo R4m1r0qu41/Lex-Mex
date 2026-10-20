@@ -17,4 +17,4 @@ source_sha256: 703f083c0baedfb4ef5ce8b62c78684d8ee0073f393321d476d75ebe4878e1d5
 
 # Artículo 105
 
-Las Instituciones Educativas y las Jefaturas de Curso deben adoptar, según el tipo, nivel y modalidad educativa, los procedimientos de evaluación del aprendizaje que señale la directiva en vigor.
+Las [Instituciones Educativas](articulo-3.md) y las Jefaturas de Curso deben adoptar, según el tipo, nivel y modalidad educativa, los procedimientos de evaluación del aprendizaje que señale la directiva en vigor.

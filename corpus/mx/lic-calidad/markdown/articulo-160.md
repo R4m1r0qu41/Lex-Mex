@@ -17,11 +17,11 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 # Artículo 160
 
-La Secretaría y las demás autoridades competentes, previo cumplimiento del derecho de audiencia de acuerdo a lo establecido en la Ley Federal de Procedimiento Administrativo podrá suspender total o parcialmente la autorización, la aprobación, la acreditación, el registro o la designación de las Entidades de Acreditación, Organismos de Evaluación de la Conformidad, sujetos facultados para estandarizar, Organismos Nacionales de Estandarización e Institutos Designados de Metrología, cuando:
+La [Secretaría](articulo-4.md) y las demás autoridades competentes, previo cumplimiento del derecho de audiencia de acuerdo a lo establecido en la Ley Federal de Procedimiento Administrativo podrá suspender total o parcialmente la autorización, la aprobación, la acreditación, el registro o la designación de las [Entidades de Acreditación](articulo-4.md), [Organismos de Evaluación de la Conformidad](articulo-4.md), sujetos facultados para estandarizar, Organismos Nacionales de Estandarización e Institutos Designados de Metrología, cuando:
 
 I. No proporcionen en forma oportuna y completa los informes que le sean requeridos respecto a su funcionamiento y operación;
 
-II. Se impida u obstaculicen las funciones de Verificación y Vigilancia;
+II. Se impida u obstaculicen las funciones de [Verificación](articulo-4.md) y [Vigilancia](articulo-4.md);
 
 III. Se disminuya la capacidad necesaria para realizar sus funciones;
 

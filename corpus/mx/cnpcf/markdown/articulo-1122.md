@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Capítulo I
+
 # Artículo 1122
 
 Para conocer de los efectos del matrimonio o figuras similares, es competente la autoridad jurisdiccional de la residencia o domicilio común; la de la residencia de la persona demandada o la del lugar en que se encuentre, a elección del actor.

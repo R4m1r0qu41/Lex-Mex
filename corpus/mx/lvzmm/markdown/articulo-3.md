@@ -17,7 +17,7 @@ source_sha256: d9ffbbf8f19b54a93ff577abb1266e4be1316d935e79fad655242955fd80ff70
 
 # Artículo 3
 
-Para efectos de la presente Ley, se entenderá como vertimiento en las zonas marinas mexicanas, lo siguiente: Párrafo reformado DOF 13-04-2020
+Para efectos de la presente [Ley](articulo-2.md), se entenderá como vertimiento en las zonas marinas mexicanas, lo siguiente: Párrafo reformado DOF 13-04-2020
 
 I. La evacuación deliberada de desechos u otras materias, desde buques, aeronaves, plataformas u otras construcciones con el único objeto de deshacerse de ellas; Fracción reformada DOF 13-04-2020
 

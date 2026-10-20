@@ -17,4 +17,4 @@ source_sha256: 7df3d678efda2306b68d3c0f5ca0e3e92b9066d5f773128f4ae19cb26bf44fff
 
 # Artículo 32
 
-La SENER debe emitir las Normas Oficiales Mexicanas o lineamientos en las que se precisen las especificaciones de calidad de los Biocombustibles que deben cumplirse en cada etapa de la cadena de valor de los Biocombustibles.
+La [SENER](articulo-3.md) debe emitir las Normas Oficiales Mexicanas o lineamientos en las que se precisen las especificaciones de calidad de los Biocombustibles que deben cumplirse en cada etapa de la cadena de valor de los Biocombustibles.

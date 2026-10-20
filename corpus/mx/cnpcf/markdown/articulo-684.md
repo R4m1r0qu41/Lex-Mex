@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Primero · Capítulo I
+
 # Artículo 684
 
 Será competente para conocer del procedimiento sucesorio testamentario o intestamentario, la autoridad jurisdiccional, en materia civil o familiar de conformidad con las leyes orgánicas del poder judicial de cada Entidad Federativa, así como la o el Notario Público en los términos que dispone el presente [Código Nacional](articulo-2.md).

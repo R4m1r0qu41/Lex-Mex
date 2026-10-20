@@ -17,6 +17,6 @@ source_sha256: 7b3cf7a0ff59f76503a97a535457c4a7dd3b1305e7a36f4fca82bd661eab1168
 
 # Artículo 72
 
-Los Agentes Extranjeros no tendrán ninguna inmunidad en caso de incurrir en la comisión de delitos o infracciones o por infringir las disposiciones normativas que prohíben a los extranjeros el ejercicio de funciones reservadas a las autoridades mexicanas.
+Los [Agentes Extranjeros](articulo-6.md) no tendrán ninguna inmunidad en caso de incurrir en la comisión de delitos o infracciones o por infringir las disposiciones normativas que prohíben a los extranjeros el ejercicio de funciones reservadas a las autoridades mexicanas.
 
 Artículo adicionado DOF 18-12-2020

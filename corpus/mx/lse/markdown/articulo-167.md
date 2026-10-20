@@ -17,4 +17,4 @@ source_sha256: aa96853f010885bdf85160e944e5c0ef5c3c8e95422dfede280d228cf064310a
 
 # Artículo 167
 
-La CNE autoriza, en su caso, los cobros que al efecto proponga el CENACE para la realización de estudios de características específicas de la infraestructura requerida y para los otros componentes del proceso de conexión de Centros de Carga e interconexión de Centrales Eléctricas, así como los demás servicios que se requieran para el funcionamiento eficiente del Sistema Eléctrico Nacional.
+La [CNE](articulo-3.md) autoriza, en su caso, los cobros que al efecto proponga el [CENACE](articulo-3.md) para la realización de estudios de características específicas de la infraestructura requerida y para los otros componentes del proceso de conexión de Centros de Carga e interconexión de [Centrales Eléctricas](articulo-3.md), así como los demás servicios que se requieran para el funcionamiento eficiente del [Sistema Eléctrico Nacional](articulo-3.md).

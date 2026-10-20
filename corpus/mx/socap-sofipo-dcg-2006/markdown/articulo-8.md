@@ -18,9 +18,9 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 8
 
-Las personas designadas como Consejeros, Miembros del Consejo de Vigilancia o Comisario, Director o Gerente General, Miembros del Comité de Supervisión, Contralor Normativo y Auditor Legal o Interno, deberán manifestar por escrito y bajo protesta de decir verdad a la Sociedad Financiera Popular, Federación o Confederación según corresponda:
+Las personas designadas como [Consejeros](articulo-1.md), [Miembros del Consejo de Vigilancia o Comisario](articulo-1.md), [Director o Gerente General](articulo-1.md), [Miembros del Comité de Supervisión](articulo-1.md), [Contralor Normativo](articulo-1.md) y [Auditor Legal](articulo-1.md) o Interno, deberán manifestar por escrito y bajo protesta de decir verdad a la [Sociedad](articulo-1.md) Financiera Popular, [Federación](articulo-1.md) o [Confederación](articulo-1.md) según corresponda:
 
-I. Tratándose de miembros del Comité de Supervisión, que no se encuentran en los supuestos a que se refieren las fracciones II a la VIII del artículo 67 de la Ley; para las demás personas señaladas en el párrafo anterior, que no se encuentran en los supuestos a que se refieren las fracciones I a VIII del artículo 21 de la Ley.
+I. Tratándose de miembros del Comité de Supervisión, que no se encuentran en los supuestos a que se refieren las fracciones II a la VIII del artículo 67 de la [Ley](articulo-1.md); para las demás personas señaladas en el párrafo anterior, que no se encuentran en los supuestos a que se refieren las fracciones I a VIII del artículo 21 de la Ley.
 
 Para efectos de lo dispuesto por la fracción IV del artículo 67 de la Ley, se considerarán como funcionarios al Director o Gerente General, y a los funcionarios que ocupen cargos con la jerarquía de hasta dos niveles inmediatos inferiores a la de aquél;
 

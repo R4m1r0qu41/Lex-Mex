@@ -18,11 +18,11 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 281
 
-De manera enunciativa y no limitativa, a continuación se señalan las principales tareas que llevarán a cabo los Supervisores Auxiliares dentro de la fase In-situ del proceso de supervisión auxiliar:
+De manera enunciativa y no limitativa, a continuación se señalan las principales tareas que llevarán a cabo los [Supervisores Auxiliares](articulo-1.md) dentro de la fase In-situ del proceso de supervisión auxiliar:
 
-I. Revisar el procedimiento de generación de información, verificando la correcta aplicación de los Criterios Contables vigentes para el registro, valuación, revelación y presentación de operaciones;
+I. Revisar el procedimiento de generación de información, verificando la correcta aplicación de los [Criterios Contables](articulo-1.md) vigentes para el registro, valuación, revelación y presentación de operaciones;
 
-II. Corroborar la existencia de una adecuada documentación que respalde las operaciones activas y pasivas de la Sociedad Financiera Popular;
+II. Corroborar la existencia de una adecuada documentación que respalde las operaciones activas y pasivas de la [Sociedad](articulo-1.md) Financiera Popular;
 
 III. Verificar el cumplimiento de la regulación prudencial y otras disposiciones legales aplicables en cuanto a operaciones, límites, procedimientos y tenencia accionaria, entre otros;
 
@@ -34,11 +34,11 @@ VI. Examinar los procedimientos y sistemas internos de la Sociedad Financiera Po
 
 VII. Verificar que los sistemas automatizados y el soporte informático con que cuente la Sociedad Financiera Popular sean confiables y adecuados a las características de las operaciones que realice la misma
 
-VIII. Comprobar que las observaciones realizadas y las anomalías detectadas ya sea por la Supervisión Extra-situ o por anteriores visitas de inspección, hayan sido debidamente atendidas o corregidas;
+VIII. Comprobar que las observaciones realizadas y las anomalías detectadas ya sea por la [Supervisión Extra-situ](articulo-1.md) o por anteriores visitas de inspección, hayan sido debidamente atendidas o corregidas;
 
 IX. Investigar los asuntos específicos planteados por la Supervisión Extra-situ o derivados del proceso de planeación, así como las operaciones relacionadas con quejas o denuncias, y
 
-X. Obtener resultados de los Supervisores Auxiliares respecto de las tareas señaladas en las fracciones anteriores y otras tareas de Supervisión In-situ.
+X. Obtener resultados de los Supervisores Auxiliares respecto de las tareas señaladas en las fracciones anteriores y otras tareas de [Supervisión In-situ](articulo-1.md).
 
 Dichos resultados, deberán estar debidamente fundamentados a través de papeles de trabajo, expedientes o registros, así como estar documentados adecuadamente mediante los informes, reportes, notas y diversos escritos que se elaboren como producto de los procesos de supervisión auxiliar.
 
@@ -46,4 +46,4 @@ En particular y de manera no limitativa, los Supervisores Auxiliares deberán el
 
 a) Un reporte de avance mensual del programa anual de visitas que incluya, en su caso, las desviaciones respecto del programa y las causas que originaron dichas desviaciones, y
 
-b) Un informe de inspección de cada visita realizada a una Sociedad Financiera Popular sujeta a supervisión auxiliar, observando los estándares mínimos fijados por la Comisión en la Guía de Supervisión Auxiliar.
+b) Un informe de inspección de cada visita realizada a una Sociedad Financiera Popular sujeta a supervisión auxiliar, observando los estándares mínimos fijados por la Comisión en la [Guía de Supervisión Auxiliar](articulo-1.md).

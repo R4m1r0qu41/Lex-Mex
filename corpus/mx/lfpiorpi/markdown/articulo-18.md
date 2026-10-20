@@ -17,7 +17,7 @@ source_sha256: 2e35228bd3100a3a137f313359833c4836f2b4b6d4e52e1ce4fe58a970cd768f
 
 Quienes realicen las [Actividades Vulnerables](articulo-3.md) a que se refiere el [artículo anterior](articulo-17.md) tendrán las obligaciones siguientes:
 
-I. Identificar y conocer de manera directa a las personas Clientes o Usuarias con quienes realicen la Actividad Vulnerable y verificar su identidad basándose en documentos u otros medios de identificación con reconocimiento oficial, así como recabar copia de los mismos, de conformidad con las Reglas de carácter general que emita la [Secretaría](articulo-3.md); Fracción reformada DOF 16-07-2025
+I. Identificar y conocer de manera directa a las personas [Clientes o Usuarias](articulo-3.md) con quienes realicen la Actividad Vulnerable y verificar su identidad basándose en documentos u otros medios de identificación con reconocimiento oficial, así como recabar copia de los mismos, de conformidad con las Reglas de carácter general que emita la [Secretaría](articulo-3.md); Fracción reformada DOF 16-07-2025
 
 II. Para los casos en que se establezca una [Relación de negocios](articulo-3.md), se solicitará a la Persona Cliente o Usuaria la información sobre su actividad u ocupación, basándose entre otros, en los avisos de inscripción y actualización de actividades presentados para efectos del Registro Federal de Contribuyentes; Fracción reformada DOF 16-07-2025
 
@@ -39,7 +39,7 @@ VI. Presentar los [Avisos](articulo-3.md) e Informes ante la Secretaría conform
 
 En caso de sospecha o de contar con información basada en hechos o indicios, de que los recursos relacionados con los actos u operaciones pudieran provenir o estar destinados a la comisión de los [Delitos de Operaciones con Recursos de Procedencia Ilícita](articulo-3.md), deberán presentar Aviso dentro de las 24 horas siguientes en que tuvieron conocimiento de dicha información o se generó la sospecha, incluso si el acto u operación no se celebró, considerando las guías que para tal efecto emita la Secretaría, de conformidad con las reglas de carácter general correspondientes; Fracción reformada DOF 16-07-2025
 
-VII. Llevar a cabo una evaluación con un enfoque basado en Riesgos, en términos de las reglas de carácter general que al efecto emita la Secretaría, que les permita identificar, analizar, entender y mitigar sus Riesgos, así como los de las personas Clientes o Usuarias; Fracción adicionada DOF 16-07-2025
+VII. Llevar a cabo una evaluación con un enfoque basado en [Riesgos](articulo-3.md), en términos de las reglas de carácter general que al efecto emita la Secretaría, que les permita identificar, analizar, entender y mitigar sus Riesgos, así como los de las personas Clientes o Usuarias; Fracción adicionada DOF 16-07-2025
 
 VIII. Elaborar y observar un Manual de Políticas Internas que contenga los criterios, medidas y procedimientos necesarios para cumplir con las obligaciones previstas en la presente Ley, incluyendo las que les permitan identificar y dar seguimiento a los actos u operaciones que lleven a cabo con Personas Políticamente Expuestas, en los términos de las reglas de carácter general que emita la Secretaría.
 

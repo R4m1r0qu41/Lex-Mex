@@ -17,9 +17,9 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 # Artículo 69
 
-Funciones de los Facilitadores Son obligaciones de los facilitadores:
+Funciones de los [Facilitadores](articulo-3.md) Son obligaciones de los facilitadores:
 
-I. Cumplir con la especialización en los términos de esta Ley y de las disposiciones aplicables en materia de justicia para adolescentes;
+I. Cumplir con la especialización en los términos de esta [Ley](articulo-3.md) y de las disposiciones aplicables en materia de justicia para adolescentes;
 
 II. Vigilar que en los mecanismos alternativos no se afecten derechos de terceros, disposiciones de orden público o interés social;
 
@@ -33,4 +33,4 @@ VI. Dar por concluido el proceso de mediación cuando no logre un equilibrio de 
 
 VII. Evitar sesiones conjuntas entre víctimas u ofendidos y personas adolescentes en los procesos restaurativos, cuando considere que podría ser riesgoso para alguna de las partes o contrario a los objetivos de la justicia restaurativa, y
 
-VIII. Las demás establecidas en esta Ley, en la Ley de Mecanismos Alternativos u otros ordenamientos aplicables.
+VIII. Las demás establecidas en esta Ley, en la [Ley de Mecanismos Alternativos](articulo-3.md) u otros ordenamientos aplicables.

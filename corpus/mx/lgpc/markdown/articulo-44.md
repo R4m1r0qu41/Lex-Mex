@@ -17,4 +17,4 @@ source_sha256: d8dd1de3627b899bb4faf31c2812c3d5f14f7108be153d5aa8dd549b9136184a
 
 # Artículo 44
 
-Los integrantes del Sistema Nacional promoverán mecanismos para motivar y facilitar la participación de sus dependencias de forma activa, real, concreta y responsable en acciones específicas que reflejen una cultura de prevención en protección civil.
+Los integrantes del [Sistema Nacional](articulo-2.md) promoverán mecanismos para motivar y facilitar la participación de sus dependencias de forma activa, real, concreta y responsable en acciones específicas que reflejen una cultura de prevención en protección civil.

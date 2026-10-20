@@ -21,4 +21,4 @@ La apelación deberá interponerse por escrito, dentro de los nueve días siguie
 
 El juez, en el auto que admita la interposición del recurso, dará vista a la parte contraria para que en el término de nueve días conteste los agravios, ofrezca pruebas y, en su caso, señale constancias para adicionar al testimonio. El juez ordenará que se asiente constancia en autos de la interposición del recurso y de la remisión del cuaderno de apelación correspondiente al tribunal de alzada dentro de un plazo de tres días, si fueren autos originales y de cinco si se tratare de testimonio.
 
-En los escritos de expresión de agravios y contestación, el [Comerciante](articulo-4o.md) podrá ofrecer las pruebas que esta Ley autoriza especificando los puntos sobre los que éstas deban versar.
+En los escritos de expresión de agravios y contestación, el [Comerciante](articulo-4o.md) podrá ofrecer las pruebas que esta [Ley](articulo-4o.md) autoriza especificando los puntos sobre los que éstas deban versar.

@@ -17,4 +17,4 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 55
 
-"La Comisión" expedirá las reglas y manuales que se requieran para la organización y operación del "Registro", y vigilará su cumplimiento.
+"[La Comisión](articulo-1o.md)" expedirá las reglas y manuales que se requieran para la organización y operación del "[Registro](articulo-1o.md)", y vigilará su cumplimiento.

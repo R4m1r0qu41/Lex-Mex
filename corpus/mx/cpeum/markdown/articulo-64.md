@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf
 source_sha256: ca63a23a4b7444ebdbdad93759fbf46bd14c069e587c5878decf89fc9c12ca8e
 ---
 
+> Título Tercero · Capítulo II
+
 # Artículo 64
 
 Los diputados y senadores que no concurran a una sesión, sin causa justificada o sin permiso de la Cámara respectiva, no tendrán derecho a la dieta correspondiente al día en que falten.

@@ -1,0 +1,30 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-3",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lemefagn",
+  "source_sha256": "703f083c0baedfb4ef5ce8b62c78684d8ee0073f393321d476d75ebe4878e1d5",
+  "extracted_text_sha256": "67027f39b824dc4562be2a49b97080cde42d1cfd687a646f4147e3351ce08aa1",
+  "status": "detected",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:3",
+      "provision_text_sha256": "585a32ae5198a0728f7c94dd9e7a7652025ff5e058b9af81160773d7b34ce5e3",
+      "method": "wider_pass",
+      "fractions": [
+        "III",
+        "IV",
+        "V",
+        "VII"
+      ],
+      "repeal_placeholders": [
+        "I",
+        "II",
+        "VI"
+      ],
+      "term_count": 4
+    }
+  ],
+  "imports": [],
+  "term_count": 4,
+  "usage_count": 204
+}

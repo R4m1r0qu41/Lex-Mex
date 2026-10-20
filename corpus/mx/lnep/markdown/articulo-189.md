@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LNEP.pdf
 source_sha256: 91abecabe50a5e414e0835daa9086ce3b307fffb9ebe626dab3bb9d1eae51680
 ---
 
-> Título QUINTO
+> Título QUINTO · Capítulo VIII
 
 # Artículo 189
 
@@ -42,5 +42,3 @@ II. No acudir a las sesiones del Centro de Tratamiento sin justificación, y
 III. No acudir a las audiencias judiciales, sin justificación.
 
 Para efecto de lo anterior, la reiteración debe entenderse como aquella conducta que haya sido sancionada con una medida disciplinaria con anterioridad por el Juez de Ejecución.
-
-Capítulo IX De las Medidas de Seguridad para Personas Inimputables

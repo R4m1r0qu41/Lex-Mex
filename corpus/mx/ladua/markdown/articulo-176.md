@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf
 source_sha256: 43927095d22ff7bc7780e78132d2160b5050b5f76026b539daec32be09d7341d
 ---
 
-> Capítulo II · Sección TERCERA
+> Título Octavo · Capítulo Unico
 
 # Artículo 176
 
@@ -35,7 +35,9 @@ VII. Cuando en la importación, exportación o retorno de mercancías el resulta
 
 VIII. Cuando las mercancías extranjeras en tránsito internacional se desvíen de las rutas fiscales o sean transportadas en medios distintos a los autorizados tratándose de tránsito interno. Fracción adicionada DOF 31-12-1998
 
-IX. Cuando se introduzcan o se extraigan mercancías del territorio nacional por aduana no autorizada. Fracción adicionada DOF 31-12-1998 X. Cuando no se acredite con la documentación aduanal correspondiente la legal estancia o tenencia de las mercancías en el país o que se sometieron a los trámites previstos en esta Ley, para su introducción al territorio nacional o para su salida del mismo. Se considera que se encuentran dentro de este supuesto, las mercancías que se presenten ante el mecanismo de selección automatizado sin pedimento, cuando éste sea exigible, o con un pedimento que no corresponda. Fracción adicionada DOF 31-12-1998
+IX. Cuando se introduzcan o se extraigan mercancías del territorio nacional por aduana no autorizada. Fracción adicionada DOF 31-12-1998
+
+X. Cuando no se acredite con la documentación aduanal correspondiente la legal estancia o tenencia de las mercancías en el país o que se sometieron a los trámites previstos en esta Ley, para su introducción al territorio nacional o para su salida del mismo. Se considera que se encuentran dentro de este supuesto, las mercancías que se presenten ante el mecanismo de selección automatizado sin pedimento, cuando éste sea exigible, o con un pedimento que no corresponda. Fracción adicionada DOF 31-12-1998
 
 XI. Cuando el nombre, denominación o razón social o domicilio del proveedor en el extranjero o domicilio fiscal del importador, señalado en el pedimento, o bien, en la transmisión electrónica o en el aviso consolidado, a que se refieren los artículos [36-A](articulo-36-A.md), [37-A](articulo-37-A.md), fracción I y [59-A](articulo-59-A.md) de la presente Ley, considerando, en su caso, el acuse de referencia declarado, sean falsos o inexistentes; o cuando en el domicilio señalado no se pueda localizar al proveedor o importador. Fracción adicionada DOF 01-01-2002. Reformada DOF 09-12-2013, 25-06-2018
 

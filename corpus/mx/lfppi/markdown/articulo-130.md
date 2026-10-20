@@ -19,10 +19,10 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 La solicitud deberá contener:
 
-I.- El número de expediente, fecha de presentación y fecha de la comunicación a la que se refiere el segundo párrafo del artículo [110](articulo-110.md) de esta Ley;
+I.- El número de expediente, fecha de presentación y fecha de la comunicación a la que se refiere el segundo párrafo del artículo [110](articulo-110.md) de esta [Ley](articulo-4.md);
 
 II.- Los argumentos de la persona solicitante sobre la procedencia del certificado complementario, y Fracción reformada DOF 03-04-2026
 
 III.- El pago de la tarifa correspondiente.
 
-Si el Instituto advierte la ausencia o deficiencia de alguno de los requisitos señalados en este artículo, requerirá por única vez a la persona interesada para que dentro del plazo de cinco días, precise o aclare lo que se considere necesario, o subsane omisiones. De no cumplimentarse el requerimiento formulado dentro del plazo señalado, la solicitud se desechará de plano. Párrafo reformado DOF 03-04-2026
+Si el [Instituto](articulo-4.md) advierte la ausencia o deficiencia de alguno de los requisitos señalados en este artículo, requerirá por única vez a la persona interesada para que dentro del plazo de cinco días, precise o aclare lo que se considere necesario, o subsane omisiones. De no cumplimentarse el requerimiento formulado dentro del plazo señalado, la solicitud se desechará de plano. Párrafo reformado DOF 03-04-2026

@@ -1,0 +1,30 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-3",
+  "instrument_id": "urn:lex-mx:federal:statute:lfgr",
+  "source_sha256": "cbd3307808b89748077396e108c02651da8099a5bc491657c17fa676618d85f1",
+  "extracted_text_sha256": "a8fca7cf2d04f2ac0104a32624e8f0ef758a20dfba3a0c67c5df01b7ba6617af",
+  "status": "detected",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lfgr:article:9",
+      "provision_text_sha256": "67b75585fd9d379925480d001b309ddd37d3e05a0e26bd79cd3a66ca338bd17a",
+      "method": "established_pass",
+      "fractions": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII"
+      ],
+      "unread_fractions": [],
+      "term_count": 8
+    }
+  ],
+  "imports": [],
+  "term_count": 8,
+  "usage_count": 502
+}

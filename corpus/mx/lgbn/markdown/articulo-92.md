@@ -17,4 +17,4 @@ source_sha256: ea96e97cbea2fd1919af78b94cd3466ee20a77e05989be2d482d2eb8061618c5
 
 # Artículo 92
 
-La enajenación a título gratuito de inmuebles federales a que se refiere el artículo [84](articulo-84.md) de esta Ley, sólo procederá mediante la presentación de proyectos que señalen el uso principal del inmueble y, en su caso, el tiempo previsto para la iniciación y conclusión de las obras, y los planes de financiamiento. En el caso de incumplimiento de los proyectos dentro de los plazos previstos, tanto el bien donado como sus mejoras revertirán a favor de la Federación.
+La enajenación a título gratuito de inmuebles federales a que se refiere el artículo [84](articulo-84.md) de esta Ley, sólo procederá mediante la presentación de proyectos que señalen el uso principal del inmueble y, en su caso, el tiempo previsto para la iniciación y conclusión de las obras, y los planes de financiamiento. En el caso de incumplimiento de los proyectos dentro de los plazos previstos, tanto el bien donado como sus mejoras revertirán a favor de la [Federación](articulo-2.md).

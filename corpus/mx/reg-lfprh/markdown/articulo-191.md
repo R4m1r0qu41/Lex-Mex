@@ -17,6 +17,6 @@ source_sha256: 030ed4c6e3950adecfd4c6376b31d216dc4d876d90b21190c982bccac0b03d7a
 
 # Artículo 191
 
-Las entidades deberán presentar a la Secretaría la Evaluación costo y beneficio de los nuevos proyectos de infraestructura productiva de largo plazo, así como de los cambios de alcance de proyectos ya autorizados, en términos de las disposiciones en materia de programas y proyectos de inversión que les sean aplicables de conformidad con este Reglamento. Párrafo reformado DOF 08-08-2025
+Las entidades deberán presentar a la Secretaría la [Evaluación costo y beneficio](articulo-2.md) de los nuevos proyectos de infraestructura productiva de largo plazo, así como de los cambios de alcance de proyectos ya autorizados, en términos de las disposiciones en materia de programas y proyectos de inversión que les sean aplicables de conformidad con este Reglamento. Párrafo reformado DOF 08-08-2025
 
 Todos los proyectos de infraestructura productiva de largo plazo, incluyendo sus cambios de alcance, deberán registrarse en la [Cartera](articulo-2.md) y requerirán contar con un administrador, en términos del artículo [43](articulo-43.md) de este Reglamento.

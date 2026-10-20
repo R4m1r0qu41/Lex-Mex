@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 210 Bis
 
-Los criterios de contabilidad para las Sociedades Financieras Populares contenidos en el Anexo E se encuentran divididos en las series y criterios que a continuación se indican:
+Los criterios de contabilidad para las [Sociedades](articulo-1.md) Financieras Populares contenidos en el Anexo E se encuentran divididos en las series y criterios que a continuación se indican:
 
 Serie A. Criterios relativos al esquema general de la contabilidad para Sociedades Financieras Populares, Sociedades Financieras Comunitarias y Organismos de Integración Financiera Rural.
 

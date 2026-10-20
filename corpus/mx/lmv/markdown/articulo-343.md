@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título XII
+
 # Artículo 343
 
 Los auditores externos que suscriban el dictamen a los estados financieros en representación de las personas morales que proporcionen los servicios de auditoría externa, deberán contar con honorabilidad; reunir los requisitos personales y profesionales que establezca la [Comisión](articulo-2.md) mediante disposiciones de carácter general, y ser socios de una persona moral que preste servicios profesionales de auditoría de estados financieros, y que cumpla con los requisitos de control de calidad que al efecto establezca la propia Comisión en las citadas disposiciones.

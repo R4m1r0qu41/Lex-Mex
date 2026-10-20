@@ -17,7 +17,7 @@ source_sha256: 01b72308e67d46ba6ca8a6b07fb7584c6a74e905ea0c4b5be5c0c0d32a6d817a
 
 # Artículo 14
 
-A efecto de que el Estado Mayor verifique que las personas militares consideradas para participar en las promociones de Sargentos Primeros Especialistas, Especial y General, cumplan con los requisitos de tiempo de servicios, antigüedad en el grado, tiempo de servicios en el grado, buena conducta, buena salud y cursos establecidos en la normativa correspondiente, las Direcciones integrarán un expediente de las personas participantes con la siguiente documentación: Párrafo reformado DOF 20-03-2026
+A efecto de que el [Estado Mayor](articulo-5.md) verifique que las personas militares consideradas para participar en las promociones de Sargentos Primeros [Especialistas](articulo-5.md), Especial y General, cumplan con los requisitos de tiempo de servicios, antigüedad en el grado, tiempo de servicios en el grado, buena conducta, buena salud y cursos establecidos en la normativa correspondiente, las [Direcciones](articulo-5.md) integrarán un expediente de las personas participantes con la siguiente documentación: Párrafo reformado DOF 20-03-2026
 
 I. Extracto de antecedentes; II. Copia del nombramiento o de la patente en el grado actual; Fracción reformada DOF 20-03-2026
 

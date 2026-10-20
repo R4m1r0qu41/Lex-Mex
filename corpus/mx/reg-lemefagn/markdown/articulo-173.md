@@ -17,6 +17,6 @@ source_sha256: 703f083c0baedfb4ef5ce8b62c78684d8ee0073f393321d476d75ebe4878e1d5
 
 # Artículo 173
 
-Las personas docentes civiles que incumplan alguna de las obligaciones a que se refieren los artículos 48 de la Ley y 23 del presente Reglamento, se harán acreedores a una amonestación escrita, signada por la persona titular de la Institución Educativa o Jefatura de Curso, remitiendo copia a su expediente.
+Las personas docentes civiles que incumplan alguna de las obligaciones a que se refieren los artículos 48 de la Ley y 23 del presente Reglamento, se harán acreedores a una amonestación escrita, signada por la persona titular de la [Institución Educativa](articulo-3.md) o Jefatura de Curso, remitiendo copia a su expediente.
 
 Artículo reformado DOF 20-03-2026

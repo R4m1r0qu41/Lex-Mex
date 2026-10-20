@@ -17,4 +17,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Artículo 18
 
-La Secretaría debe resolver sobre el otorgamiento de la Asignación para Desarrollo Propio, dentro de los sesenta días hábiles siguientes a partir de la admisión de la solicitud o manifestación de aceptación por Petróleos Mexicanos. Para el caso de las Asignaciones para Desarrollo Mixto, la Secretaría debe resolver dentro de los noventa días hábiles siguientes a partir de la admisión de la solicitud o manifestación de aceptación por Petróleos Mexicanos.
+La [Secretaría](articulo-3.md) debe resolver sobre el otorgamiento de la Asignación para Desarrollo Propio, dentro de los sesenta días hábiles siguientes a partir de la admisión de la solicitud o manifestación de aceptación por [Petróleos Mexicanos](articulo-3.md). Para el caso de las Asignaciones para Desarrollo Mixto, la Secretaría debe resolver dentro de los noventa días hábiles siguientes a partir de la admisión de la solicitud o manifestación de aceptación por Petróleos Mexicanos.

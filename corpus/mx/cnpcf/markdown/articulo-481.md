@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo II
+
 # Artículo 481
 
 Si la persona deudora, tratándose de juicio ejecutivo, no fuere encontrada después de habérsele buscado una vez en su domicilio, se le dejará citatorio para hora fija dentro de las veinticuatro horas siguientes, y si no espera, se practicará la diligencia con cualquier persona que se encuentre en la casa o a falta de ella con el vecino inmediato.

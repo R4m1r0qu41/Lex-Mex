@@ -19,7 +19,7 @@ source_sha256: 8262a75eac7bfb608d4f48657ffb2714fe115d0b9694c42ac81624fd275bf5f6
 
 Los Asignatarios deben pagar anualmente el derecho petrolero para el bienestar, aplicando al valor de los Hidrocarburos extraídos durante el ejercicio fiscal de que se trate, incluyendo el consumo que de estos productos efectúe el Asignatario, así como las mermas por derramas o quema de dichos productos, sin deducción alguna, las tasas siguientes:
 
-I. Tratándose de los Hidrocarburos distintos al Gas Natural No Asociado y sus Condensados, extraídos en áreas terrestres, áreas marítimas con tirante de agua inferior a quinientos metros y en el Paleocanal de Chicontepec:
+I. Tratándose de los Hidrocarburos distintos al Gas Natural No Asociado y sus [Condensados](articulo-3.md), extraídos en áreas terrestres, áreas marítimas con tirante de agua inferior a quinientos metros y en el Paleocanal de Chicontepec:
 
 a) Cuando el precio del Petróleo sea inferior a 57.8 dólares de los Estados Unidos de América por barril:
 

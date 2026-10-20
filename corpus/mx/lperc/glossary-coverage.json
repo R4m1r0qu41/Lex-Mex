@@ -1,0 +1,12 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-3",
+  "instrument_id": "urn:lex-mx:federal:statute:lperc",
+  "source_sha256": "6916ade44cdc7b0820565cdc6225c6514b4b1131b1d08c70cf2abb190998f192",
+  "extracted_text_sha256": "6e0e70a5e3ec8d477ca49bc0b2ba46dc79cab9ef36c8167d5aaf65848e3b9033",
+  "status": "none_detected",
+  "glossaries": [],
+  "imports": [],
+  "term_count": 0,
+  "usage_count": 0
+}

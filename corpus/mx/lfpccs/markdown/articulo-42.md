@@ -17,4 +17,4 @@ source_sha256: ea99e8d1b13b36451e69f865d4aeeca08ce847fb7dcab648e77f65ca88991a8b
 
 # Artículo 42
 
-Contra los actos de la Secretaría derivados de la aplicación de la presente Ley, procederá el recurso de revisión. El interesado deberá interponer el recurso, ante la autoridad responsable, en un término de quince días hábiles, contados a partir de la fecha de la notificación respectiva. El recurso se tramitará y substanciará en los términos del Título Sexto de la Ley Federal de Procedimiento Administrativo.
+Contra los actos de la [Secretaría](articulo-3.md) derivados de la aplicación de la presente Ley, procederá el recurso de revisión. El interesado deberá interponer el recurso, ante la autoridad responsable, en un término de quince días hábiles, contados a partir de la fecha de la notificación respectiva. El recurso se tramitará y substanciará en los términos del Título Sexto de la Ley Federal de Procedimiento Administrativo.

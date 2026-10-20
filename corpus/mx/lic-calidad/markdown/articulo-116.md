@@ -17,6 +17,6 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 # Artículo 116
 
-La metrología legal comprende las actividades relativas al control metrológico legal de instrumentos para medir que establezca la Evaluación de la Conformidad de las Normas Oficiales Mexicanas y Estándares de metrología legal.
+La metrología legal comprende las actividades relativas al control metrológico legal de instrumentos para medir que establezca la [Evaluación de la Conformidad](articulo-4.md) de las [Normas Oficiales Mexicanas](articulo-4.md) y [Estándares](articulo-4.md) de metrología legal.
 
 Cuando se establezcan actividades de metrología legal en las Normas Oficiales Mexicanas y Estándares, se deben atender las recomendaciones dispuestas por la Organización Internacional de Metrología Legal.

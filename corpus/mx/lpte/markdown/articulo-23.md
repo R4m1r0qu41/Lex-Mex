@@ -17,4 +17,4 @@ source_sha256: c24aa3a57883383635d5271683dd76e561f21852328f0e89f6bf1c2a09aa2d41
 
 # Artículo 23
 
-Los instrumentos de planeación establecidos en el artículo [21](articulo-21.md) de la presente Ley, así como sus actualizaciones se deben publicar en el Diario Oficial de la Federación, previa aprobación por parte de la persona titular de la Secretaría.
+Los instrumentos de planeación establecidos en el artículo [21](articulo-21.md) de la presente [Ley](articulo-3.md), así como sus actualizaciones se deben publicar en el Diario Oficial de la Federación, previa aprobación por parte de la persona titular de la [Secretaría](articulo-3.md).

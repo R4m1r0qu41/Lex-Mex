@@ -28,21 +28,21 @@ b) Recibir préstamos y créditos de entidades financieras nacionales o extranje
 
 c) Expedir y operar tarjetas de débito y tarjetas recargables.
 
-d) Recibir los apoyos del Comité de Protección al Ahorro Cooperativo, en términos del Artículo 55 de la Ley.
+d) Recibir los apoyos del [Comité de Protección al Ahorro Cooperativo](articulo-1.md), en términos del Artículo 55 de la [Ley](articulo-1.md).
 
 e) Otorgar su garantía en términos del Artículo 55 de la Ley.
 
-f) Otorgar a sus Socios, préstamos o créditos a un plazo máximo de 60 meses.
+f) Otorgar a sus [Socios](articulo-1.md), préstamos o créditos a un plazo máximo de 60 meses.
 
 g) Otorgar créditos o préstamos de carácter laboral a sus trabajadores.
 
-h) Otorgar a otras Sociedades, previa aprobación del Comité Técnico, con cargo a sus excedentes de capital, préstamos de liquidez, mismos que deberán descontar de su capital, debiendo sujetarse a los requisitos y condiciones establecidos en el Capítulo I del Título Tercero de las presentes disposiciones.
+h) Otorgar a otras Sociedades, previa aprobación del [Comité Técnico](articulo-1.md), con cargo a sus excedentes de capital, préstamos de liquidez, mismos que deberán descontar de su capital, debiendo sujetarse a los requisitos y condiciones establecidos en el Capítulo I del Título Tercero de las presentes disposiciones.
 
 i) Descontar, dar en garantía o negociar títulos de crédito y afectar los derechos provenientes de los contratos de crédito o préstamo que realicen con sus Socios o de las operaciones autorizadas con las personas de las que reciban dichos créditos o préstamos, únicamente con fideicomisos públicos, constituidos por los gobiernos Federal, estatales o del Distrito Federal para el fomento económico, o con instituciones de crédito y organizaciones auxiliares del crédito, en términos de lo dispuesto por el Artículo 21 de la Ley.
 
 j) Constituir depósitos a la vista o a plazo en instituciones de crédito.
 
-k) Invertir en Valores Gubernamentales, bancarios y de sociedades de inversión en instrumentos de deuda en moneda nacional.
+k) Invertir en [Valores Gubernamentales](articulo-1.md), bancarios y de sociedades de inversión en instrumentos de deuda en moneda nacional.
 
 l) Recibir y emitir órdenes de pago y transferencias.
 
@@ -60,7 +60,7 @@ q) Celebrar, como arrendatarias, contratos de arrendamiento financiero sobre equ
 
 r) Celebrar contratos de arrendamiento sobre bienes muebles e inmuebles para la consecución de su objeto.
 
-s) Realizar inversiones permanentes en otras sociedades, siempre y cuando les presten servicios auxiliares, complementarios o de tipo inmobiliario, incluyendo inversiones en el capital social de la Federación a la que se encuentren afiliadas, en términos de lo previsto por el Artículo 78 Bis 1 de la Ley de Cooperativas.
+s) Realizar inversiones permanentes en otras sociedades, siempre y cuando les presten servicios auxiliares, complementarios o de tipo inmobiliario, incluyendo inversiones en el capital social de la Federación a la que se encuentren afiliadas, en términos de lo previsto por el Artículo 78 Bis 1 de la [Ley de Cooperativas](articulo-1.md).
 
 t) Adquirir los bienes muebles e inmuebles necesarios para la realización de su objeto y enajenarlos cuando corresponda.
 

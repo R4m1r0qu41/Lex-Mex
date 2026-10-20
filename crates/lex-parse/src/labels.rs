@@ -166,7 +166,7 @@ fn letter_rank(letter: &str) -> u8 {
         .map_or(u8::MAX, |index| u8::try_from(index + 1).unwrap_or(u8::MAX))
 }
 
-fn strip_accents(value: &str) -> String {
+pub(crate) fn strip_accents(value: &str) -> String {
     value
         .chars()
         .map(|character| match character {

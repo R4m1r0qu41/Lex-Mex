@@ -17,7 +17,7 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 100
 
-Tratándose de solicitudes divisionales presentadas, voluntariamente o por requerimiento del Instituto, la persona solicitante deberá cumplir los siguientes requisitos: Párrafo reformado DOF 03-04-2026
+Tratándose de solicitudes divisionales presentadas, voluntariamente o por requerimiento del [Instituto](articulo-4.md), la persona solicitante deberá cumplir los siguientes requisitos: Párrafo reformado DOF 03-04-2026
 
 I.- Presentar las descripciones, reivindicaciones y dibujos necesarios para cada solicitud, excepto la documentación relativa a la prioridad reclamada y su traducción que ya se encuentren en la solicitud inicial y, en su caso, la cesión de derechos y el poder. Los dibujos y descripciones que se exhiban no sufrirán alteraciones que modifiquen la invención contemplada en la solicitud inicial;
 
@@ -25,7 +25,7 @@ II.- Reivindicar una invención diferente a la reclamada en la solicitud inicial
 
 Cuando con motivo de la división se haya dejado de reivindicar una invención o un grupo de invenciones, éstas no podrán ser reclamadas nuevamente en la solicitud inicial o en la que dio origen a la división, en su caso, y
 
-III.- Presentar la solicitud divisional dentro del plazo a que se refiere el artículo [111](articulo-111.md) de esta Ley o, cuando la división sea voluntaria, en los términos de su artículo [102](articulo-102.md).
+III.- Presentar la solicitud divisional dentro del plazo a que se refiere el artículo [111](articulo-111.md) de esta [Ley](articulo-4.md) o, cuando la división sea voluntaria, en los términos de su artículo [102](articulo-102.md).
 
 La solicitud divisional no podrá consistir en la división de otras solicitudes divisionales, salvo que ésta sea procedente a juicio del Instituto o le sea requerida a la persona solicitante, en términos del artículo [113](articulo-113.md) de esta Ley. Párrafo reformado DOF 03-04-2026
 

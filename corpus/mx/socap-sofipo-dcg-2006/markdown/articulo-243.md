@@ -20,7 +20,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 Al iniciar cada rollo deberá dejarse correr la película sin filmar, debiéndose mantener el espacio suficiente para la adecuada protección de las microfotografías que vayan a tomarse, y el ensamble a la máquina lectora. Posteriormente, se filmarán en primer término y en tamaño que sea legible a simple vista:
 
-I. La denominación o razón social de la Sociedad Financiera Popular y, en su caso, del área o dependencia de que se trate;
+I. La denominación o razón social de la [Sociedad](articulo-1.md) Financiera Popular y, en su caso, del área o dependencia de que se trate;
 
 II. La indicación de ser el principio, el número y demás referencias necesarias para la fácil identificación del rollo, y
 

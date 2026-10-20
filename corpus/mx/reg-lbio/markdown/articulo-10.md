@@ -17,4 +17,4 @@ source_sha256: 7df3d678efda2306b68d3c0f5ca0e3e92b9066d5f773128f4ae19cb26bf44fff
 
 # Artículo 10
 
-La SENER, para el otorgamiento de permisos y Autorizaciones, debe considerar lo establecido en los instrumentos de planeación del Sector Energético aplicables y el cumplimiento de las disposiciones administrativas de carácter general para la planeación vinculante que expida la SENER.
+La [SENER](articulo-3.md), para el otorgamiento de permisos y [Autorizaciones](articulo-3.md), debe considerar lo establecido en los instrumentos de planeación del Sector Energético aplicables y el cumplimiento de las disposiciones administrativas de carácter general para la planeación vinculante que expida la SENER.

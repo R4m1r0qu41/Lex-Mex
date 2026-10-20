@@ -25,4 +25,4 @@ II.- Secretaría, la Secretaría de Economía; Fracción reformada DOF 26-11-201
 
 III.- Días, los días naturales; y
 
-IV.- Corredor o corredor público, el particular con habilitación legalmente expedida por la Secretaría y publicada en el Diario Oficial de la Federación en los términos de la Ley y este Reglamento investido de fe pública y autorizado para ejercer las funciones que previene la propia Ley. Fracción reformada DOF 26-11-2012
+IV.- Corredor o corredor público, el particular con habilitación legalmente expedida por la [Secretaría](articulo-2o.md) y publicada en el Diario Oficial de la Federación en los términos de la [Ley](articulo-2o.md) y este Reglamento investido de fe pública y autorizado para ejercer las funciones que previene la propia Ley. Fracción reformada DOF 26-11-2012

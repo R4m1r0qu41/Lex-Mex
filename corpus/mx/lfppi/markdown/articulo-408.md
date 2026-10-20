@@ -17,4 +17,4 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 408
 
-En los procedimientos a que se refiere el [artículo anterior](articulo-407.md), la autoridad judicial podrá adoptar las medidas previstas en esta Ley, así como las contenidas en los Tratados Internacionales en los que México es parte.
+En los procedimientos a que se refiere el [artículo anterior](articulo-407.md), la autoridad judicial podrá adoptar las medidas previstas en esta [Ley](articulo-4.md), así como las contenidas en los [Tratados Internacionales](articulo-4.md) en los que México es parte.

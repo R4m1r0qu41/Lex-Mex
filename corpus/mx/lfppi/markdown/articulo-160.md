@@ -21,8 +21,8 @@ Las patentes o registros caducan y los derechos que amparan caen en el dominio p
 
 II.- Por no cubrir el pago de la tarifa previsto para mantener vigentes sus derechos, o dentro del plazo de gracia de seis meses siguientes a éste;
 
-III.- En el caso del artículo [149](articulo-149.md) de esta Ley, y
+III.- En el caso del artículo [149](articulo-149.md) de esta [Ley](articulo-4.md), y
 
 IV.- Cuando no se renueve el registro de un diseño industrial, en los términos de esta Ley.
 
-La caducidad a la que se refieren las fracciones I, II y IV del presente artículo, no requerirá de declaración administrativa por parte del Instituto.
+La caducidad a la que se refieren las fracciones I, II y IV del presente artículo, no requerirá de declaración administrativa por parte del [Instituto](articulo-4.md).

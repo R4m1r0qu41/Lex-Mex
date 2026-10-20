@@ -17,4 +17,4 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 # Artículo 103
 
-Audiencia Las audiencias se llevarán a cabo conforme lo establece el Código Nacional. Durante el debate las partes podrán expresar observaciones a las condiciones propuestas, las que serán resueltas de inmediato.
+Audiencia Las audiencias se llevarán a cabo conforme lo establece el [Código Nacional](articulo-3.md). Durante el debate las partes podrán expresar observaciones a las condiciones propuestas, las que serán resueltas de inmediato.

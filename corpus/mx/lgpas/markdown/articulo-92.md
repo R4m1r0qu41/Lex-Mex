@@ -17,4 +17,4 @@ source_sha256: 160e5e85efddb1749a79f6b154af31711a9b31a5e32bace3c07e2859c2620ecf
 
 # Artículo 92
 
-Las personas que realicen actividades de acuacultura, deberían presentar a la Secretaría los avisos de cosecha, producción y recolección, en la forma y términos que determine el reglamento de esta Ley.
+Las personas que realicen actividades de acuacultura, deberían presentar a la [Secretaría](articulo-4o.md) los avisos de cosecha, producción y recolección, en la forma y términos que determine el reglamento de esta Ley.

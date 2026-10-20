@@ -17,6 +17,6 @@ source_sha256: 4f46c1f92fb5682281a7679836e517de95975786fa5326848a331c9eb946cc5f
 
 # Artículo 29
 
-Para los efectos del artículo [9](../../liva/markdown/articulo-9o.md)o., fracción II de la Ley, la prestación de los servicios de construcción de inmuebles destinados a casa habitación, ampliación de ésta, así como la instalación de casas prefabricadas que sean utilizadas para este fin, se consideran comprendidos dentro de lo dispuesto por dicha fracción, siempre y cuando el prestador del servicio proporcione la mano de obra y materiales.
+Para los efectos del artículo [9](../../liva/markdown/articulo-9o.md)o., fracción II de la [Ley](articulo-1.md), la prestación de los servicios de construcción de inmuebles destinados a casa habitación, ampliación de ésta, así como la instalación de casas prefabricadas que sean utilizadas para este fin, se consideran comprendidos dentro de lo dispuesto por dicha fracción, siempre y cuando el prestador del servicio proporcione la mano de obra y materiales.
 
 Tratándose de unidades habitacionales, no se considera como destinadas a casa habitación las instalaciones y obras de urbanización, mercados, escuelas, centros o locales comerciales, o cualquier otra obra distinta a las señaladas.

@@ -17,7 +17,7 @@ source_sha256: d0021bbef2e0c3251d6efdea2c1efd9959ff3f02df4bcd1fc37c1ee7826a72ba
 
 # Artículo 108
 
-Las opiniones formales en materia de libre concurrencia y competencia económica emitidas por la Comisión deberán contener:
+Las opiniones formales en materia de libre concurrencia y competencia económica emitidas por la [Comisión](articulo-3.md) deberán contener:
 
 I. Una descripción sucinta de los hechos en los que se basa, y
 

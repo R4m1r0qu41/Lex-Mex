@@ -37,4 +37,4 @@ VIII. El establecimiento de un sistema de monitoreo del programa de ordenamiento
 
 IX. La permanencia o modificación de lineamientos y estrategias ecológicas a partir del análisis de los resultados del monitoreo. El proceso de ordenamiento ecológico deberá prever mecanismos para determinar con una periodicidad bienal, el cumplimiento de las metas previstas en los programas, así como la evaluación de los resultados respecto de las expectativas de ordenación del territorio planteadas.
 
-La Secretaría promoverá que la modificación de los programas de ordenamiento ecológico de su competencia, siga el mismo procedimiento para su formulación.
+La [Secretaría](articulo-3o.md) promoverá que la modificación de los programas de ordenamiento ecológico de su competencia, siga el mismo procedimiento para su formulación.

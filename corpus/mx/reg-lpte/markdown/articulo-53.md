@@ -17,4 +17,4 @@ source_sha256: 716e427a30e9982ccaa0576288aad2ad5305c624b236a0f342b6a87d60b7a9ed
 
 # Artículo 53
 
-La elaboración por primera vez y actualizaciones subsecuentes de la Estrategia, el PLATEASE, el PLADESE y el PLADESHi deben realizarse atendiendo a la estructura establecida en este Reglamento; asimismo, la coordinación y el seguimiento de estos instrumentos deben realizarse a través del Consejo y de conformidad con lo establecido en los Lineamientos de Operación.
+La elaboración por primera vez y actualizaciones subsecuentes de la Estrategia, el PLATEASE, el PLADESE y el PLADESHi deben realizarse atendiendo a la estructura establecida en este [Reglamento](articulo-5.md); asimismo, la coordinación y el seguimiento de estos instrumentos deben realizarse a través del [Consejo](articulo-5.md) y de conformidad con lo establecido en los [Lineamientos de Operación](articulo-5.md).

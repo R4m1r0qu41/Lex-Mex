@@ -17,6 +17,6 @@ source_sha256: d9ffbbf8f19b54a93ff577abb1266e4be1316d935e79fad655242955fd80ff70
 
 # Artículo 12
 
-No se otorgará el permiso de vertimiento, cuando la Secretaría advierta que existen posibilidades adecuadas de realizar un manejo integral de los residuos, que no impliquen riesgos para la salud humana o daños al ambiente, mayores a los que implicaría el vertimiento solicitado o costos desmesurados.
+No se otorgará el permiso de vertimiento, cuando la [Secretaría](articulo-2.md) advierta que existen posibilidades adecuadas de realizar un manejo integral de los residuos, que no impliquen riesgos para la salud humana o daños al ambiente, mayores a los que implicaría el vertimiento solicitado o costos desmesurados.
 
 Para identificar las posibilidades de manejo integral de residuos, la Secretaría podrá solicitar la opinión de la Secretaría de Medio Ambiente y Recursos Naturales, cuando se trate de residuos peligrosos, o de las autoridades ambientales competentes, cuando se trate de residuos de manejo especial o sólidos urbanos.

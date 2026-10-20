@@ -17,9 +17,9 @@ source_sha256: 9816ce7f9d6b9b1781eb9935869bd45677c60d721d3352865b6524c2e75db8cd
 
 # Artículo 19
 
-El Comité Técnico se integrará por:
+El [Comité Técnico](articulo-2.md) se integrará por:
 
-I. El titular de la Delegación, quien lo presidirá;
+I. El titular de la [Delegación](articulo-2.md), quien lo presidirá;
 
 II. El titular de la Jefatura Delegacional de Servicios Administrativos, quien fungirá como Secretario Ejecutivo;
 
@@ -29,9 +29,9 @@ IV. El titular de la Jefatura Delegacional de Servicios de Afiliación y Cobranz
 
 V. El titular de la Jefatura Delegacional de Servicios Jurídicos, quien fungirá como asesor;
 
-VI. Un servidor público designado por el Órgano Interno de Control en el Instituto, quien fungirá como asesor, y
+VI. Un servidor público designado por el Órgano Interno de Control en el [Instituto](../../lss/markdown/articulo-5-A.md), quien fungirá como asesor, y
 
-VII. El titular de la Subdelegación solicitante, quien asistirá como invitado.
+VII. El titular de la [Subdelegación](articulo-2.md) solicitante, quien asistirá como invitado.
 
 Los integrantes del Comité Técnico a que se refieren las fracciones I a IV, tendrán derecho a voz y voto. Los asesores e invitados participarán en las sesiones con voz, pero sin voto.
 

@@ -17,6 +17,6 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 328
 
-Las solicitudes de declaración administrativa de nulidad, caducidad, cancelación e infracción que establece esta Ley, se sustanciarán y resolverán con arreglo al procedimiento que señala este Capítulo y las formalidades que esta Ley prevé.
+Las solicitudes de declaración administrativa de nulidad, caducidad, cancelación e infracción que establece esta [Ley](articulo-4.md), se sustanciarán y resolverán con arreglo al procedimiento que señala este Capítulo y las formalidades que esta Ley prevé.
 
-Para efecto de las solicitudes de declaración administrativa de infracción, el Instituto podrá establecer las reglas para su presentación, sustanciación y resolución, a través de medios de comunicación electrónica. Párrafo adicionado DOF 03-04-2026
+Para efecto de las solicitudes de declaración administrativa de infracción, el [Instituto](articulo-4.md) podrá establecer las reglas para su presentación, sustanciación y resolución, a través de medios de comunicación electrónica. Párrafo adicionado DOF 03-04-2026

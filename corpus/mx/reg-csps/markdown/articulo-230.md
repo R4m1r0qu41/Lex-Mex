@@ -17,4 +17,4 @@ source_sha256: 70464807d63da08244e495f2ff0ac30b12b30119926b84cedc7930397fcb80ef
 
 # Artículo 230
 
-En los productos, servicios, establecimientos y actividades objeto de este Reglamento no se requerirá de la tarjeta de control sanitario a que se refiere el artículo [377](../../lgs/markdown/articulo-377.md) de la Ley.
+En los productos, servicios, establecimientos y actividades objeto de este Reglamento no se requerirá de la tarjeta de control sanitario a que se refiere el artículo [377](../../lgs/markdown/articulo-377.md) de la [Ley](articulo-2o.md).

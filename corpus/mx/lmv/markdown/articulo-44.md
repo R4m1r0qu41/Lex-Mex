@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título II · Capítulo II
+
 # Artículo 44
 
 Las funciones de gestión, conducción y ejecución de los negocios de la sociedad y de las personas morales que ésta controle, serán responsabilidad del director general, conforme a lo establecido en este artículo, sujetándose para ello a las estrategias, políticas y lineamientos aprobados por el consejo de administración.
@@ -39,7 +41,7 @@ IX. Dar cumplimiento a los requisitos legales y estatutarios establecidos con re
 
 X. Asegurar que se mantengan los sistemas de contabilidad, registro, archivo o información de la sociedad.
 
-XI. Elaborar y presentar al consejo de administración el informe a que se refiere el artículo 172 de la Ley General de Sociedades Mercantiles, con excepción de lo previsto en el inciso b) de dicho precepto.
+XI. Elaborar y presentar al consejo de administración el informe a que se refiere el artículo [172](../../lgsm/markdown/articulo-172.md) de la Ley General de Sociedades Mercantiles, con excepción de lo previsto en el inciso b) de dicho precepto.
 
 XII. Establecer mecanismos y controles internos que permitan verificar que los actos y operaciones de la sociedad y personas morales que ésta controle, se hayan apegado a la normativa aplicable, así como dar seguimiento a los resultados de esos mecanismos y controles internos y tomar las medidas que resulten necesarias en su caso.
 

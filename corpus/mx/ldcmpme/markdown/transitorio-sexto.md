@@ -15,4 +15,4 @@ source_sha256: 4933abadd27d345e7a5c1754af10ed429fd148b709b4a78d4f42447b5fcd546d
 
 # Sexto
 
-En las Entidades Federativas o en el caso del Distrito Federal, que exista algún consejo con características similares a un Consejo Estatal, podrán asumir el carácter de éstos llevando a cabo el objeto y las funciones establecidas en esta Ley, realizando las adecuaciones legales correspondientes.
+En las Entidades Federativas o en el caso del Distrito Federal, que exista algún consejo con características similares a un [Consejo Estatal](articulo-3.md), podrán asumir el carácter de éstos llevando a cabo el objeto y las funciones establecidas en esta [Ley](articulo-3.md), realizando las adecuaciones legales correspondientes.

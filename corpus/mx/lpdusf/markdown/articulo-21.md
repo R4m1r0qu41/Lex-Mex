@@ -17,6 +17,6 @@ source_sha256: cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7
 
 # Artículo 21
 
-El secretario de la Junta deberá enviar a los miembros de la misma, con una antelación no menor de siete días hábiles a la celebración de las sesiones, el orden del día acompañado de la información y documentación correspondientes, que les permita el conocimiento de los asuntos que se vayan a tratar.
+El secretario de la [Junta](articulo-2o.md) deberá enviar a los miembros de la misma, con una antelación no menor de siete días hábiles a la celebración de las sesiones, el orden del día acompañado de la información y documentación correspondientes, que les permita el conocimiento de los asuntos que se vayan a tratar.
 
-En caso de urgencia, a propuesta del Presidente, el secretario de la Junta podrá convocar a los miembros de ésta con una antelación de veinticuatro horas.
+En caso de urgencia, a propuesta del [Presidente](articulo-2o.md), el secretario de la Junta podrá convocar a los miembros de ésta con una antelación de veinticuatro horas.

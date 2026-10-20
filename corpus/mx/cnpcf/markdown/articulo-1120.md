@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Capítulo I
+
 # Artículo 1120
 
 En el caso de adopción internacional de niñas, niños o adolescentes, la competencia de las autoridades jurisdiccionales se regirá conforme a lo siguiente:

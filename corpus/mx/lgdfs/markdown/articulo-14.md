@@ -31,7 +31,7 @@ V. Llevar el registro y promover la conservación de los árboles históricos y 
 
 VI. Emitir Normas Oficiales Mexicanas en materia forestal y vigilar su cumplimiento;
 
-VII. Establecer los lineamientos para elaborar e integrar el [Sistema Nacional de Información Forestal](articulo-7.md) y el Sistema Nacional de Gestión Forestal; Fracción reformada DOF 11-04-2022
+VII. Establecer los lineamientos para elaborar e integrar el [Sistema Nacional de Información Forestal](articulo-7.md) y el [Sistema Nacional de Gestión Forestal](articulo-7.md); Fracción reformada DOF 11-04-2022
 
 VIII. Deslindar, poseer y administrar los terrenos nacionales forestales;
 

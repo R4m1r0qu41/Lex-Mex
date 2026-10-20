@@ -17,4 +17,4 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Artículo 148
 
-La Comisión Nacional de Búsqueda debe continuar con la búsqueda, de conformidad con esta Ley, así como de las Fiscalías Especializadas de continuar con la investigación y persecución de los delitos previstos en esta Ley, aun cuando alguno de los Familiares o persona legitimada haya solicitado la Declaración Especial de Ausencia.
+La [Comisión Nacional de Búsqueda](articulo-4.md) debe continuar con la búsqueda, de conformidad con esta Ley, así como de las [Fiscalías Especializadas](articulo-4.md) de continuar con la investigación y persecución de los delitos previstos en esta Ley, aun cuando alguno de los [Familiares](articulo-4.md) o persona legitimada haya solicitado la [Declaración Especial de Ausencia](articulo-4.md).

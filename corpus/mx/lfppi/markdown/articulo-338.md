@@ -17,6 +17,6 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 338
 
-Cuando el Instituto inicie de oficio el procedimiento de declaración administrativa, la notificación a la persona titular afectada o, en su caso, a la presunta persona infractora se hará de conformidad al Capítulo III del presente Título.
+Cuando el [Instituto](articulo-4.md) inicie de oficio el procedimiento de declaración administrativa, la notificación a la persona titular afectada o, en su caso, a la presunta persona infractora se hará de conformidad al Capítulo III del presente Título.
 
 Artículo reformado DOF 03-04-2026

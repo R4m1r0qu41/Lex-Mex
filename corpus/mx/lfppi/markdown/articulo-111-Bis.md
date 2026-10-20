@@ -17,7 +17,7 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 111 Bis
 
-El plazo para que el Instituto resuelva en forma definitiva sobre el otorgamiento o negativa de patentes o modelos de utilidad y diseños industriales, no deberá exceder de un año contado a partir de que se inició el examen de fondo de la solicitud correspondiente.
+El plazo para que el [Instituto](articulo-4.md) resuelva en forma definitiva sobre el otorgamiento o negativa de patentes o modelos de utilidad y diseños industriales, no deberá exceder de un año contado a partir de que se inició el examen de fondo de la solicitud correspondiente.
 
 Respecto de los esquemas de trazado de circuitos integrados, el Instituto resolverá la solicitud de registro en un plazo máximo de dos meses contado a partir de la fecha de presentación de la solicitud o, en su caso, de la fecha en que la persona solicitante solvente los requerimientos formulados, dentro del plazo inicial o en el adicional, según corresponda.
 

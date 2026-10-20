@@ -17,7 +17,7 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Artículo 68
 
-La Fiscalía y las Fiscalías y Procuradurías Locales deben contar con Fiscalías Especializadas para la investigación y persecución de los delitos de desaparición forzada de personas y desaparición cometida por particulares, las que deberán coordinarse y dar impulso permanente a la búsqueda de Personas Desaparecidas. Párrafo reformado DOF 20-05-2021
+La [Fiscalía](articulo-4.md) y las Fiscalías y Procuradurías Locales deben contar con [Fiscalías Especializadas](articulo-4.md) para la investigación y persecución de los delitos de desaparición forzada de personas y desaparición cometida por particulares, las que deberán coordinarse y dar impulso permanente a la búsqueda de [Personas Desaparecidas](articulo-4.md). Párrafo reformado DOF 20-05-2021
 
 Las Fiscalías Especializadas a que se refiere el párrafo primero de este artículo deben contar con los recursos humanos, financieros, materiales y técnicos especializados y multidisciplinarios, así como con:
 

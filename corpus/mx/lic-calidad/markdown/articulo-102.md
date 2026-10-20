@@ -19,7 +19,7 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 Los materiales de referencia certificados sirven de base para asignar valores de magnitud a patrones de medida o materiales de referencia para la clase de magnitud concerniente para asegurar la trazabilidad de las mediciones.
 
-El Centro Nacional de Metrología y los Institutos Designados de Metrología son autoridades reconocidas por la Secretaría para emitir la documentación técnica, certificación, que acompañará a un material de referencia certificado cuando este cumpla con la presente Ley.
+El Centro Nacional de Metrología y los Institutos Designados de Metrología son autoridades reconocidas por la [Secretaría](articulo-4.md) para emitir la documentación técnica, certificación, que acompañará a un material de referencia certificado cuando este cumpla con la presente Ley.
 
 Cuando se cuente con un material de referencia certificado por algún Instituto Nacional de Metrología o Instituto Designado de Metrología de algún país participante en el Arreglo, se considerará como reconocido por la Secretaría, previa opinión del Centro Nacional de Metrología o del Instituto Designado de Metrología que corresponda.
 

@@ -17,6 +17,6 @@ source_sha256: c7790df38b773b04e4769459d5fd49cca5b7a5b4955f7618632117275259071f
 
 # Artículo 20
 
-Con el objeto de no retardar el procedimiento de evaluación, la Secretaría comunicará al promovente, en el momento en que éste presente la solicitud y sus anexos, si existen deficiencias formales que puedan ser corregidas en ese mismo acto.
+Con el objeto de no retardar el procedimiento de evaluación, la [Secretaría](articulo-3o.md) comunicará al promovente, en el momento en que éste presente la solicitud y sus anexos, si existen deficiencias formales que puedan ser corregidas en ese mismo acto.
 
-En todo caso, la Secretaría se ajustará a lo previsto en el artículo [43](../../lfpa/markdown/articulo-43.md) de la Ley Federal de Procedimiento Administrativo.
+En todo caso, la Secretaría se ajustará a lo previsto en el artículo [43](../../lfpa/markdown/articulo-43.md) de la [Ley](articulo-3o.md) Federal de Procedimiento Administrativo.

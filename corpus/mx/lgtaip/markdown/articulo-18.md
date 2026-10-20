@@ -17,4 +17,4 @@ source_sha256: e81e23876bd08da81cb8392af7054f6187ad043ca8f965777b455f9d12554e8b
 
 # Artículo 18
 
-Todo procedimiento relacionado con el derecho de acceso, entrega y publicación a la información deberá: I. Sustanciarse de manera sencilla, clara y expedita, conforme a las disposiciones establecidas en esta Ley, y II. Propiciar las condiciones necesarias para garantizar que este sea accesible a cualquier persona, de conformidad con el artículo [1](../../cpeum/markdown/articulo-1o.md)o. de la Constitución Política de los Estados Unidos Mexicanos.
+Todo procedimiento relacionado con el derecho de acceso, entrega y publicación a la información deberá: I. Sustanciarse de manera sencilla, clara y expedita, conforme a las disposiciones establecidas en esta [Ley](articulo-3.md), y II. Propiciar las condiciones necesarias para garantizar que este sea accesible a cualquier persona, de conformidad con el artículo [1](../../cpeum/markdown/articulo-1o.md)o. de la Constitución Política de los Estados Unidos Mexicanos.

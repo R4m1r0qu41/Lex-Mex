@@ -17,4 +17,4 @@ source_sha256: 9f964bc5c075d7cf47e5e9df7c2fbe262eb5bd1794de9b230dbd72026a51ae5e
 
 # Artículo 34
 
-La Secretaría participará en las acciones que se realicen a fin de prevenir el comercio, distribución, venta y fabricación ilícita de productos del tabaco y de productos accesorios al tabaco.
+La [Secretaría](articulo-6.md) participará en las acciones que se realicen a fin de prevenir el comercio, distribución, venta y fabricación ilícita de productos del tabaco y de productos accesorios al tabaco.

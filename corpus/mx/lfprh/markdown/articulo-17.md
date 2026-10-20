@@ -17,7 +17,7 @@ source_sha256: ce45c7c0c4e9099691e6e24bd2456d0b6f71f91ab27eedd5c4f2190b66d47741
 
 # Artículo 17
 
-Los montos de ingreso previstos en la iniciativa y en la Ley de Ingresos, así como de gasto contenidos en el proyecto y en el [Presupuesto de Egresos](articulo-2.md), y los que se ejerzan en el año fiscal por los ejecutores del gasto, deberán contribuir a alcanzar la meta anual de los requerimientos financieros del sector público.
+Los montos de ingreso previstos en la iniciativa y en la [Ley de Ingresos](articulo-2.md), así como de gasto contenidos en el proyecto y en el [Presupuesto de Egresos](articulo-2.md), y los que se ejerzan en el año fiscal por los ejecutores del gasto, deberán contribuir a alcanzar la meta anual de los requerimientos financieros del sector público.
 
 En caso de que, al cierre del ejercicio fiscal, se observe una desviación respecto a la meta de los requerimientos financieros del sector público mayor al equivalente a un 2 por ciento del gasto neto total aprobado, la [Secretaría](articulo-2.md) deberá presentar una justificación de tal desviación en el último informe trimestral del ejercicio.
 

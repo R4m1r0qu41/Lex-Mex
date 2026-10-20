@@ -17,4 +17,4 @@ source_sha256: b32c33fa4ed071dc8bea1ad69ce8510cdb05016967e9e4fcb60f10c6f2216628
 
 # Artículo 7
 
-La Sala Superior se integrará por dieciséis Magistrados. Funcionará en un Pleno General, en Pleno Jurisdiccional, y en tres Secciones. De los Magistrados de la Sala Superior, catorce ejercerán funciones jurisdiccionales, uno de los cuales presidirá el Tribunal de conformidad con las reglas establecidas en la presente Ley, y dos formarán parte de la Junta de Gobierno y Administración.
+La Sala Superior se integrará por dieciséis Magistrados. Funcionará en un Pleno General, en Pleno Jurisdiccional, y en tres Secciones. De los Magistrados de la Sala Superior, catorce ejercerán funciones jurisdiccionales, uno de los cuales presidirá el [Tribunal](articulo-2.md) de conformidad con las reglas establecidas en la presente [Ley](articulo-2.md), y dos formarán parte de la [Junta](articulo-2.md) de Gobierno y Administración.

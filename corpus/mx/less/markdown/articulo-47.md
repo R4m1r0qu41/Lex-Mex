@@ -17,7 +17,7 @@ source_sha256: 74f2c47c7a9282194b2972ec1366352d94f03042c6d0c7f10efde018cb9e3bfb
 
 # Artículo 47
 
-Los Organismos del Sector no podrán recibir los apoyos y estímulos públicos previstos en esta Ley cuando incurran en alguno de los siguientes supuestos:
+Los [Organismos del Sector](articulo-5o.md) no podrán recibir los apoyos y estímulos públicos previstos en esta Ley cuando incurran en alguno de los siguientes supuestos:
 
 I. Exista entre sus administradores o representantes y los servidores públicos encargados de otorgar o autorizar los apoyos y estímulos públicos; relaciones de interés o parentesco por consanguinidad o afinidad hasta en cuarto grado, o sean cónyuges, y
 

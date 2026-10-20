@@ -17,4 +17,4 @@ source_sha256: 7f01ee1b1deb901a23976507adccbddefbea50b0fc9a4ddceaf1225d711d50d0
 
 # Artículo 66
 
-Las legislaciones de la Federación y de las entidades federativas establecerán que la antigüedad se clasificará y computará para cada una de las personas integrantes de las Instituciones Policiales, de la siguiente forma: I. Antigüedad en el servicio, a partir de la fecha de su ingreso a la institución respectiva, y II. Antigüedad en el grado, a partir de la fecha señalada en la constancia o patente de grado correspondiente. Sección I Reclutamiento, selección e ingreso
+Las legislaciones de la Federación y de las entidades federativas establecerán que la antigüedad se clasificará y computará para cada una de las personas integrantes de las [Instituciones Policiales](articulo-4.md), de la siguiente forma: I. Antigüedad en el servicio, a partir de la fecha de su ingreso a la institución respectiva, y II. Antigüedad en el grado, a partir de la fecha señalada en la constancia o patente de grado correspondiente. Sección I Reclutamiento, selección e ingreso

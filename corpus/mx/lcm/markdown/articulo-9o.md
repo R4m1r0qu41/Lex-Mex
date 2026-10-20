@@ -23,4 +23,4 @@ Se entenderá que un Comerciante incumplió generalizadamente en el pago de sus 
 
 I. El Comerciante solicite su declaración en concurso mercantil y se ubique en alguno de los supuestos consignados en las fracciones I o II del [artículo siguiente](articulo-10.md); Fracción reformada DOF 09-08-2019 II. Cualquier acreedor o el Ministerio Público hubiesen demandado la declaración de concurso mercantil del Comerciante y éste se ubique en los dos supuestos consignados en las fracciones I y II del [artículo siguiente](articulo-10.md), o Fracción reformada DOF 09-08-2019
 
-III. Cuando así lo determine el acuerdo de desincorporación o extinción de cualquier entidad paraestatal considerada en la Ley Federal de las Entidades Paraestatales. Fracción adicionada DOF 09-08-2019
+III. Cuando así lo determine el acuerdo de desincorporación o extinción de cualquier entidad paraestatal considerada en la [Ley](articulo-4o.md) Federal de las Entidades Paraestatales. Fracción adicionada DOF 09-08-2019

@@ -17,4 +17,4 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 # Artículo 65
 
-Servicio Profesional de Carrera Se deberán determinar los criterios para el ingreso, promoción y permanencia de sus funcionarios y operadores del Sistema Integral de Justicia Penal para Adolescentes conforme a las disposiciones aplicables al servicio profesional de carrera que, en su caso, corresponda.
+Servicio Profesional de Carrera Se deberán determinar los criterios para el ingreso, promoción y permanencia de sus funcionarios y operadores del [Sistema](articulo-3.md) Integral de Justicia Penal para [Adolescentes](articulo-3.md) conforme a las disposiciones aplicables al servicio profesional de carrera que, en su caso, corresponda.

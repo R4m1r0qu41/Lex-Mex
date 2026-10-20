@@ -17,4 +17,4 @@ source_sha256: aa96853f010885bdf85160e944e5c0ef5c3c8e95422dfede280d228cf064310a
 
 # Artículo 75
 
-Los Usuarios Calificados pueden recibir el Suministro Eléctrico y ofrecer la reducción de demanda y los Productos Asociados que resulten de su Demanda Controlable, a través de una Suministradora de Servicios Calificados.
+Los [Usuarios Calificados](articulo-3.md) pueden recibir el [Suministro Eléctrico](articulo-3.md) y ofrecer la reducción de demanda y los [Productos Asociados](articulo-3.md) que resulten de su [Demanda Controlable](articulo-3.md), a través de una [Suministradora de Servicios Calificados](articulo-3.md).

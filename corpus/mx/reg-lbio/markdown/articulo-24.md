@@ -17,4 +17,4 @@ source_sha256: 7df3d678efda2306b68d3c0f5ca0e3e92b9066d5f773128f4ae19cb26bf44fff
 
 # Artículo 24
 
-Para el otorgamiento de los permisos y Autorizaciones, la SENER, la SEMARNAT y la SADER pueden solicitar la opinión técnica de las dependencias o entidades competentes de la Administración Pública Federal, así como de expertos, cuando por las características del proyecto se estime que sus opiniones pueden proveer de elementos sustanciales para la evaluación de las solicitudes.
+Para el otorgamiento de los permisos y [Autorizaciones](articulo-3.md), la [SENER](articulo-3.md), la [SEMARNAT](articulo-3.md) y la [SADER](articulo-3.md) pueden solicitar la opinión técnica de las dependencias o entidades competentes de la Administración Pública Federal, así como de expertos, cuando por las características del proyecto se estime que sus opiniones pueden proveer de elementos sustanciales para la evaluación de las solicitudes.

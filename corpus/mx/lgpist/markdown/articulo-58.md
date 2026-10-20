@@ -17,9 +17,9 @@ source_sha256: 1e7d06c67fac4c8a100d2bb2845cc765fba5e8ce09d27d30b2b44432ffeb8c41
 
 # Artículo 58
 
-Para ser integrante y permanecer en las Fiscalías Especializadas encargadas de la investigación y persecución del delito de tortura será necesario cumplir con los siguientes requisitos: Párrafo reformado DOF 20-05-2021
+Para ser integrante y permanecer en las [Fiscalías Especializadas](articulo-5.md) encargadas de la investigación y persecución del delito de tortura será necesario cumplir con los siguientes requisitos: Párrafo reformado DOF 20-05-2021
 
-I. Tener acreditados los requisitos de ingreso y permanencia de la institución respectiva, de conformidad con la Ley General del Sistema Nacional de Seguridad Pública;
+I. Tener acreditados los requisitos de ingreso y permanencia de la institución respectiva, de conformidad con la [Ley](articulo-5.md) General del Sistema Nacional de Seguridad Pública;
 
 II. Tener el perfil que establezca la Conferencia Nacional de Procuración de Justicia y la Conferencia Nacional de Secretarios de Seguridad Pública, respectivamente; y
 

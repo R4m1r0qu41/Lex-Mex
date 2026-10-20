@@ -17,7 +17,7 @@ source_sha256: 45deb87bfd634dfbd1cb7d9fd67a476ad954187908eb0cb06256c90ccc0feb80
 
 # Artículo 15
 
-Quedan a cargo de la persona titular de la Comisión las siguientes actividades:
+Quedan a cargo de la persona titular de la [Comisión](articulo-3.md) las siguientes actividades:
 
 I. Formular y proponer las reglas de funcionamiento, así como de toma de decisiones y seguimiento de acuerdos de la Comisión;
 
@@ -25,7 +25,7 @@ II. Presentar, en su caso, a las y los integrantes de la Comisión las política
 
 III. Designar a las personas representantes de la Comisión ante las comisiones, congresos, organizaciones, instituciones y foros nacionales e internacionales en los que se participe;
 
-IV. Informar periódicamente a la Comisión sobre los avances en el Sistema Nacional de Registro Agropecuario y el Sistema Nacional de Información de la Cafeticultura en México, proporcionando datos actualizados sobre personas productoras, acopiadoras, apicultoras, industriales, comercializadoras, exportadoras e importadoras nacionales de café; V. Elaborar y presentar un informe semestral de actividades a las y los integrantes de la Comisión, que incluya el seguimiento de los acuerdos adoptados y un análisis detallado de los principales indicadores de la cafeticultura en México, tales como producción, persona beneficiada, industrialización y comercialización del café a nivel nacional e internacional;
+IV. Informar periódicamente a la Comisión sobre los avances en el Sistema Nacional de Registro Agropecuario y el Sistema Nacional de Información de la [Cafeticultura](articulo-3.md) en México, proporcionando datos actualizados sobre personas productoras, acopiadoras, apicultoras, industriales, comercializadoras, exportadoras e importadoras nacionales de café; V. Elaborar y presentar un informe semestral de actividades a las y los integrantes de la Comisión, que incluya el seguimiento de los acuerdos adoptados y un análisis detallado de los principales indicadores de la cafeticultura en México, tales como producción, persona beneficiada, industrialización y comercialización del café a nivel nacional e internacional;
 
 VI. Dar seguimiento a los acuerdos de la Comisión;
 

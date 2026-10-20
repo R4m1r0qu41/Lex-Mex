@@ -17,4 +17,4 @@ source_sha256: 716e427a30e9982ccaa0576288aad2ad5305c624b236a0f342b6a87d60b7a9ed
 
 # Artículo 132
 
-Toda resolución o acto que se emita con motivo de la aplicación de esta Ley debe notificarse en un plazo máximo de quince días hábiles, contados a partir de su emisión y debe contener el texto íntegro del acto, así como el fundamento legal en que se apoye con la indicación de si es o no definitivo en la vía administrativa, y en su caso, la expresión del recurso administrativo que proceda en su contra, el órgano ante el cual hubiera de presentarse y el plazo para su interposición.
+Toda resolución o acto que se emita con motivo de la aplicación de esta [Ley](articulo-5.md) debe notificarse en un plazo máximo de quince días hábiles, contados a partir de su emisión y debe contener el texto íntegro del acto, así como el fundamento legal en que se apoye con la indicación de si es o no definitivo en la vía administrativa, y en su caso, la expresión del recurso administrativo que proceda en su contra, el órgano ante el cual hubiera de presentarse y el plazo para su interposición.

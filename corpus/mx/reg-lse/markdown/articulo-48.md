@@ -17,4 +17,4 @@ source_sha256: 4bcc982b308b0813469b30db61b53d5a2c41e5a7240b3b1cac2f1aeeb2c00a2e
 
 # Artículo 48
 
-Las Centrales Eléctricas de Generación Exenta y Generación Distribuida deben cumplir con las Especificaciones Técnicas, así como con las disposiciones que emita la CNE en coordinación con la Secretaría en materia de Accesibilidad, Eficiencia, Calidad, Confiabilidad, Continuidad, Seguridad y Sostenibilidad. Dichas disposiciones deben tomar en cuenta que las Centrales Eléctricas de Generación Distribuida pueden constituirse como un medio para alcanzar los objetivos de Justicia Energética.
+Las Centrales Eléctricas de Generación Exenta y Generación Distribuida deben cumplir con las [Especificaciones Técnicas](articulo-2.md), así como con las disposiciones que emita la CNE en coordinación con la Secretaría en materia de Accesibilidad, [Eficiencia](articulo-2.md), Calidad, Confiabilidad, Continuidad, [Seguridad](articulo-2.md) y Sostenibilidad. Dichas disposiciones deben tomar en cuenta que las Centrales Eléctricas de Generación Distribuida pueden constituirse como un medio para alcanzar los objetivos de Justicia Energética.

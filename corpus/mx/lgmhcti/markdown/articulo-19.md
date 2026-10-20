@@ -21,6 +21,6 @@ Los programas de las entidades federativas deberán tener los siguientes element
 
 I. El diagnóstico y análisis del estado que guardan en la entidad federativa las humanidades, ciencias, tecnologías e innovación, en relación con los fines, principios y bases de las políticas públicas;
 
-II. Las propuestas, alternativas, lineamientos, estrategias, acciones, metas, indicadores y proyectos para el desarrollo en la entidad federativa de las bases de las políticas públicas, incluyendo los asuntos relacionados con la Agenda Nacional, agrupados de manera preferente por sectores y regiones, y
+II. Las propuestas, alternativas, lineamientos, estrategias, acciones, metas, indicadores y proyectos para el desarrollo en la entidad federativa de las bases de las políticas públicas, incluyendo los asuntos relacionados con la [Agenda Nacional](articulo-4.md), agrupados de manera preferente por sectores y regiones, y
 
 III. Las consideraciones y proyecciones de las estrategias y acciones para el desarrollo en la entidad federativa de las bases de las políticas públicas con una prospectiva de por lo menos veinte años.

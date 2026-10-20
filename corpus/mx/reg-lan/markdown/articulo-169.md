@@ -17,7 +17,7 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 169
 
-"La Comisión" al recibir el aviso al que se refiere el [artículo anterior](articulo-168.md), podrá:
+"[La Comisión](articulo-1o.md)" al recibir el aviso al que se refiere el [artículo anterior](articulo-168.md), podrá:
 
 I. Practicar inspección en el lugar;
 

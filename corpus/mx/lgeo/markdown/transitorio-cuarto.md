@@ -15,4 +15,4 @@ source_sha256: 67309bf186af42de0f9e98010d38c89598676faea7f2b558ac9c9e6736d64d35
 
 # Cuarto
 
-En tanto se expiden el Reglamento, la Secretaría tiene facultad para ejercer las atribuciones que le otorga la presente Ley a partir de su entrada en vigor.
+En tanto se expiden el [Reglamento](articulo-2.md), la [Secretaría](articulo-2.md) tiene facultad para ejercer las atribuciones que le otorga la presente [Ley](articulo-2.md) a partir de su entrada en vigor.

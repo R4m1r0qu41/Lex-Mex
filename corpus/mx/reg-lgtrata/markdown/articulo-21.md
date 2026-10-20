@@ -17,6 +17,6 @@ source_sha256: 1d398a90955ef45ccb7baf4d56534c676cde8325e8b109c4d32120909e783694
 
 # Artículo 21
 
-La Secretaría, a través de la Dirección General de Estrategias para la Atención de Derechos Humanos, elaborará el Modelo de Asistencia y Protección a Víctimas, Ofendidos y Testigos de los delitos en materia de trata de personas, en coordinación con la instancia competente de atención a víctimas y la Fiscalía.
+La Secretaría, a través de la Dirección General de Estrategias para la Atención de Derechos Humanos, elaborará el Modelo de Asistencia y Protección a Víctimas, Ofendidos y Testigos de los delitos en materia de trata de personas, en coordinación con la instancia competente de atención a víctimas y la [Fiscalía](articulo-2.md).
 
 El Instituto Nacional de las Mujeres podrá participar en la elaboración de dicho Modelo.

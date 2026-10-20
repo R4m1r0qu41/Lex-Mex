@@ -17,7 +17,7 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 30
 
-Si el Instituto rectifica la clasificación de un patrón por los supuestos señalados en alguna o algunas de las fracciones del [artículo anterior](articulo-29.md), la rectificación surtirá todos sus efectos a partir de la fecha que se determine en la resolución respectiva, de acuerdo con las reglas siguientes:
+Si el [Instituto](../../lss/markdown/articulo-5-A.md) rectifica la clasificación de un patrón por los supuestos señalados en alguna o algunas de las fracciones del [artículo anterior](articulo-29.md), la rectificación surtirá todos sus efectos a partir de la fecha que se determine en la resolución respectiva, de acuerdo con las reglas siguientes:
 
 I. En los supuestos a que se refieren las fracciones I y IV, la fecha será la que corresponda al registro inicial del patrón.
 
@@ -29,4 +29,4 @@ III. En los supuestos a que se refiere la fracción III, será la fecha en que o
 
 IV. En el supuesto a que se refiere la fracción V, la fecha será la que corresponda a la entrega de los resultados al Instituto, y
 
-V. En el supuesto a que se refiere la fracción VI, la rectificación de actividad, clase o cambio de fracción será a partir de que entre en vigor la Ley, el Reglamento o la que se fije en la sentencia definitiva.
+V. En el supuesto a que se refiere la fracción VI, la rectificación de actividad, clase o cambio de fracción será a partir de que entre en vigor la [Ley](../../lss/markdown/articulo-5-A.md), el Reglamento o la que se fije en la sentencia definitiva.

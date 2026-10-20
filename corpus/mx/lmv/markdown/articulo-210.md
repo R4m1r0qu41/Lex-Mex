@@ -13,13 +13,15 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título VI · Capítulo II
+
 # Artículo 210
 
 La [Comisión](articulo-2.md), mediante disposiciones de carácter general, señalará las bases a que se sujetará la aprobación de los estados financieros por parte de los administradores de las casas de bolsa; su difusión a través de cualquier medio de comunicación incluyendo a los medios electrónicos, ópticos o de cualquier otra tecnología, así como el procedimiento a que se ajustará la revisión que de los mismos efectúe la propia Comisión.
 
 La Comisión establecerá mediante disposiciones de carácter general, la forma y el contenido que deberán presentar los estados financieros de las casas de bolsa, de igual forma podrá ordenar que los estados financieros se difundan con las modificaciones pertinentes cuando contengan errores o alteraciones y en los plazos que al efecto establezca.
 
-Las casas de bolsa estarán exceptuadas del requisito de publicar sus estados financieros, conforme lo establece el artículo 177 de la Ley General de Sociedades Mercantiles.
+Las casas de bolsa estarán exceptuadas del requisito de publicar sus estados financieros, conforme lo establece el artículo [177](../../lgsm/markdown/articulo-177.md) de la Ley General de Sociedades Mercantiles.
 
 Los estados financieros anuales deberán estar dictaminados por un auditor externo independiente, quien será designado directamente por el consejo de administración de la casa de bolsa de que se trate.
 

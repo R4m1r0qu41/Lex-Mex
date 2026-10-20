@@ -17,4 +17,4 @@ source_sha256: 9f964bc5c075d7cf47e5e9df7c2fbe262eb5bd1794de9b230dbd72026a51ae5e
 
 # Artículo 38
 
-Los verificadores realizarán actos de orientación, educación, verificación de las disposiciones de esta Ley, de la Ley General de Salud y otras disposiciones en materia de control sanitario de los productos del tabaco.
+Los verificadores realizarán actos de orientación, educación, verificación de las disposiciones de esta [Ley](articulo-6.md), de la Ley General de Salud y otras disposiciones en materia de control sanitario de los productos del tabaco.

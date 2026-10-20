@@ -17,4 +17,4 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 253
 
-Todos los documentos y materiales de soporte derivados de la Supervisión que realicen los Supervisores Auxiliares, así como los sistemas automatizados, registros, técnicas, herramientas y demás elementos pertinentes para su realización, deberán encontrarse disponibles para la consulta o revisión por parte de la Comisión.
+Todos los documentos y materiales de soporte derivados de la Supervisión que realicen los [Supervisores Auxiliares](articulo-1.md), así como los sistemas automatizados, registros, técnicas, herramientas y demás elementos pertinentes para su realización, deberán encontrarse disponibles para la consulta o revisión por parte de la [Comisión](articulo-1.md).

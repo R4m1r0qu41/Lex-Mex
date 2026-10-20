@@ -17,4 +17,4 @@ source_sha256: e81e23876bd08da81cb8392af7054f6187ad043ca8f965777b455f9d12554e8b
 
 # Artículo 179
 
-Corresponderá a las Autoridades garantes locales, en el ámbito de su competencia, realizar el seguimiento y vigilancia del debido cumplimiento por parte del sujeto obligado respectivo de la nueva resolución emitida como consecuencia de la inconformidad, en términos del Capítulo II del presente Título.
+Corresponderá a las [Autoridades garantes locales](articulo-3.md), en el ámbito de su competencia, realizar el seguimiento y vigilancia del debido cumplimiento por parte del sujeto obligado respectivo de la nueva resolución emitida como consecuencia de la inconformidad, en términos del Capítulo II del presente Título.

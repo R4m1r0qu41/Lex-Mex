@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Único · Capítulo II
+
 # Artículo 1002
 
 Si la sentencia condena a la ejecución de un hecho o prestación de algún bien, la autoridad jurisdiccional señalará al que fue condenado a un plazo prudente para el cumplimiento. Si pasado el plazo el obligado no cumpliere, se observarán las reglas siguientes, dentro o fuera de audiencia de cumplimiento en ejecución de sentencia: I. Si el hecho fuere personal del obligado y no pudiere prestarse por otro, el ejecutante podrá reclamar el pago de daños y perjuicios a juicio de peritos, salvo que se hubiera condenado al pago de alguna pena, caso en el cuál por ésta, se despachará ejecución;

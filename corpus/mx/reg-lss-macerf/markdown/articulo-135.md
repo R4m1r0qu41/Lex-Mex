@@ -17,6 +17,6 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 135
 
-En tratándose de aquellos patrones que requieren de autorización previa para el pago diferido o en parcialidades, el Instituto en un plazo máximo de cuarenta y cinco días hábiles notificará al patrón o su representante legal, la resolución que haya recaído a su petición.
+En tratándose de aquellos patrones que requieren de autorización previa para el pago diferido o en parcialidades, el [Instituto](../../lss/markdown/articulo-5-A.md) en un plazo máximo de cuarenta y cinco días hábiles notificará al patrón o su representante legal, la resolución que haya recaído a su petición.
 
-Notificada la autorización de la solicitud por el Instituto, el patrón dispone de diez días hábiles, para constituir la garantía del interés fiscal en términos del Código.
+Notificada la autorización de la solicitud por el Instituto, el patrón dispone de diez días hábiles, para constituir la garantía del interés fiscal en términos del [Código](../../lss/markdown/articulo-5-A.md).

@@ -17,4 +17,4 @@ source_sha256: 667636f9e0ea65e72ac9d6d7b4d7563a183b75d0f140268a61929c74f5f88041
 
 # Artículo 27
 
-El plazo a que se refiere el artículo 95 de la Ley para expedir la autorización, comenzará a correr a partir del día hábil siguiente a aquél en que la solicitud sea admitida.
+El plazo a que se refiere el artículo 95 de la [Ley](articulo-2.md) para expedir la autorización, comenzará a correr a partir del día hábil siguiente a aquél en que la solicitud sea admitida.

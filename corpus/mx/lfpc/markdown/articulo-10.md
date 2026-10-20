@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPC.pdf
 source_sha256: 7fea623841fd6e05e8c0d01d2cf09f85b0b8e58ba4d9e4f6711f8bad1f448e55
 ---
 
+> Capítulo I
+
 # Artículo 10
 
 Queda prohibido a cualquier proveedor de bienes o servicios llevar a cabo acciones que atenten contra la libertad o seguridad o integridad personales de los consumidores bajo pretexto de registro o averiguación. En el caso de que alguien sea sorprendido en la comisión flagrante de un delito, los proveedores, sus agentes o empleados se limitarán, bajo su responsabilidad, a poner sin demora al presunto infractor a disposición de la autoridad competente. La infracción de esta disposición se sancionará de acuerdo con lo previsto en esta ley, independientemente de la reparación del daño moral y la indemnización por los daños y perjuicios ocasionados en caso de no comprobarse el delito imputado.

@@ -17,6 +17,6 @@ source_sha256: 1e7d06c67fac4c8a100d2bb2845cc765fba5e8ce09d27d30b2b44432ffeb8c41
 
 # Artículo 57
 
-La Fiscalía y las procuradurías de las treinta y dos entidades federativas capacitarán permanentemente a su personal en materia de planeación, desarrollo y técnicas de investigación criminal, uso adecuado, legal, proporcional, razonable y gradual de la fuerza, así como en derechos humanos.
+La [Fiscalía](articulo-5.md) y las procuradurías de las treinta y dos entidades federativas capacitarán permanentemente a su personal en materia de planeación, desarrollo y técnicas de investigación criminal, uso adecuado, legal, proporcional, razonable y gradual de la fuerza, así como en derechos humanos.
 
 Artículo reformado DOF 20-05-2021

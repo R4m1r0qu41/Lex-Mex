@@ -17,4 +17,4 @@ source_sha256: 4e276866fce1638948a6daf1a5c0438fa412554f1a6e0381cbdf7cb300e3db75
 
 # Artículo 25
 
-Cada Consejo Asesor elaborará su normatividad interna, en un plazo que no podrá exceder de sesenta días posteriores a su instalación.
+Cada [Consejo](articulo-3o.md) Asesor elaborará su normatividad interna, en un plazo que no podrá exceder de sesenta días posteriores a su instalación.

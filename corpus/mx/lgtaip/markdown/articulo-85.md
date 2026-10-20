@@ -17,4 +17,4 @@ source_sha256: e81e23876bd08da81cb8392af7054f6187ad043ca8f965777b455f9d12554e8b
 
 # Artículo 85
 
-Las Autoridades garantes vigilarán el debido cumplimiento a las obligaciones de transparencia que publiquen los sujetos obligados con lo dispuesto en los artículos [63](articulo-63.md) a [80](articulo-80.md) de esta Ley y demás disposiciones jurídicas aplicables.
+Las [Autoridades garantes](articulo-3.md) vigilarán el debido cumplimiento a las obligaciones de transparencia que publiquen los sujetos obligados con lo dispuesto en los artículos [63](articulo-63.md) a [80](articulo-80.md) de esta [Ley](articulo-3.md) y demás disposiciones jurídicas aplicables.

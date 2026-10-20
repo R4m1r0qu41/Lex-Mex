@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 62
 
-Las Sociedades Financieras Populares deberán mantener niveles de liquidez (65) (95) 14
+Las [Sociedades](articulo-1.md) Financieras Populares deberán mantener niveles de liquidez (65) (95) 14
 
 mínimos en relación con sus operaciones pasivas de corto plazo.
 
@@ -26,6 +26,6 @@ Para efectos de la presente regulación, se entenderá por “pasivos de corto p
 
 Las Sociedades Financieras Populares deberán mantener una posición de por lo menos el equivalente al 10 % de sus pasivos a corto plazo, invertidos en depósitos bancarios de dinero a la vista, así como en títulos bancarios, valores gubernamentales, otras inversiones en instrumentos financieros de deuda, y en efectivo y equivalentes de efectivo, cuyo plazo de vencimiento sea igual o menor a 30 días. Lo anterior, de acuerdo con las inversiones que puedan realizar según su Nivel de Operaciones.
 
-La Comisión o la Federación correspondiente, siempre y cuando ésta lo informe a la propia Comisión, podrán incrementar el coeficiente de liquidez cuando a su juicio y tomando en cuenta los riesgos asumidos por la Sociedad Financiera Popular de que se trate, dicha medida se justifique.”
+La Comisión o la [Federación](articulo-1.md) correspondiente, siempre y cuando ésta lo informe a la propia Comisión, podrán incrementar el coeficiente de liquidez cuando a su juicio y tomando en cuenta los riesgos asumidos por la Sociedad Financiera Popular de que se trate, dicha medida se justifique.”
 
 Apartado F (Derogado) Diversificación de riesgos en las operaciones (Derogado)

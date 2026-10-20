@@ -17,6 +17,6 @@ source_sha256: 0574853d06020030188e8aee1eae5dabb2b476ac630cc52be631a48d2b91adbc
 
 # Artículo 95
 
-La Secretaría deberá solicitar a los interesados, en los términos señalados en esta Ley, la realización de estudios de impacto ambiental previo al otorgamiento de concesiones, permisos y en general, autorizaciones para la realización de actividades pesqueras, cuando el aprovechamiento de las especies ponga en peligro su preservación o pueda causar desequilibrio ecológico.
+La [Secretaría](articulo-3o.md) deberá solicitar a los interesados, en los términos señalados en esta Ley, la realización de estudios de impacto ambiental previo al otorgamiento de concesiones, permisos y en general, autorizaciones para la realización de actividades pesqueras, cuando el aprovechamiento de las especies ponga en peligro su preservación o pueda causar desequilibrio ecológico.
 
 Artículo reformado DOF 13-12-1996

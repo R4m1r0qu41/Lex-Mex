@@ -17,4 +17,4 @@ source_sha256: 703f083c0baedfb4ef5ce8b62c78684d8ee0073f393321d476d75ebe4878e1d5
 
 # Artículo 153
 
-Los documentos que se expidan para certificar o acreditar estudios en el Sistema, deberán señalar específicamente los periodos en que se hayan realizado.
+Los documentos que se expidan para certificar o acreditar estudios en el [Sistema](articulo-3.md), deberán señalar específicamente los periodos en que se hayan realizado.

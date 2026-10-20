@@ -15,6 +15,6 @@ source_sha256: bcc21844355854fe331c842c21436d721d6c2856b5c5986715fe39f4a845b317
 
 # VIGÉSIMO SEXTO
 
-El Ejecutivo Federal deberá remitir al Senado de la República o, en su caso, a la Comisión Permanente, la propuesta de designación del Presidente del Sistema Público de Radiodifusión del Estado Mexicano, dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto.
+El Ejecutivo Federal deberá remitir al Senado de la República o, en su caso, a la Comisión Permanente, la propuesta de designación del [Presidente](articulo-2.md) del [Sistema](articulo-2.md) Público de Radiodifusión del Estado Mexicano, dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto.
 
 El Senado o, en su caso, la Comisión Permanente, deberá designar al Presidente del Sistema dentro de los treinta días naturales siguientes a aquél en que reciba la propuesta del Ejecutivo Federal.

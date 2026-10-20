@@ -17,4 +17,4 @@ source_sha256: f135d534dcd7a2734bc7f44e9381e7173c7d8033e1df75a2d4fb132d956e848b
 
 # Artículo 117
 
-El investigador principal seleccionará a los investigadores asociados con la formación académica y experiencia idóneas en las disciplinas científicas que se requieran para participar en el estudio. REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE INVESTIGACION PARA LA SALUD
+El investigador principal seleccionará a los investigadores asociados con la formación académica y experiencia idóneas en las disciplinas científicas que se requieran para participar en el estudio.

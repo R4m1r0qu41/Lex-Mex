@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Primero · Capítulo I
+
 # Artículo 752
 
 La intervención del albacea se concretará a vigilar la administración del o la cónyuge, del o la conviviente o del o la concubina, supérstite, y en cualquier momento en que observe que no se hace convenientemente, promoverá incidente ante la autoridad jurisdiccional, que conozca de la sucesión quien dará vista a quien se imputa la indebida administración, otorgando un término de tres días para que manifieste lo que a sus intereses convenga.

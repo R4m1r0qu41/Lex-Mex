@@ -17,6 +17,6 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 73
 
-El Instituto reconocerá como fecha de presentación de una solicitud de registro de diseño industrial la fecha y hora en que ésta sea recibida, siempre que la misma cumpla con los requisitos previstos en las fracciones II y IV del artículo [69](articulo-69.md) de esta Ley. La fecha de presentación determinará la prelación entre las solicitudes.
+El [Instituto](articulo-4.md) reconocerá como fecha de presentación de una solicitud de registro de diseño industrial la fecha y hora en que ésta sea recibida, siempre que la misma cumpla con los requisitos previstos en las fracciones II y IV del artículo [69](articulo-69.md) de esta [Ley](articulo-4.md). La fecha de presentación determinará la prelación entre las solicitudes.
 
 En el caso de que a la fecha en la que se recibió la solicitud ésta no cumpla con los requisitos señalados en el párrafo anterior, se tendrá como fecha de presentación aquélla en la que se dé el cumplimiento correspondiente.

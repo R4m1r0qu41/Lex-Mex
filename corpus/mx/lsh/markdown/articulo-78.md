@@ -17,4 +17,4 @@ source_sha256: 1405f36fd836ff74d059ebe7e50ae439cbb9e5e291a317514667f34a26f72a23
 
 # Artículo 78
 
-. La Secretaría de Energía o la Comisión Nacional de Energía pueden coordinarse con Petróleos Mexicanos o cualquier autoridad del Gobierno Federal, así como realizar convenios de colaboración y coordinación con autoridades de los tres órdenes de gobierno para que, en el ámbito de su competencia, supervisen, vigilen y verifiquen que las actividades reguladas en esta Ley se realicen sin perjuicio del interés público y social.
+. La Secretaría de Energía o la Comisión Nacional de Energía pueden coordinarse con [Petróleos](articulo-5.md) Mexicanos o cualquier autoridad del Gobierno Federal, así como realizar convenios de colaboración y coordinación con autoridades de los tres órdenes de gobierno para que, en el ámbito de su competencia, supervisen, vigilen y verifiquen que las actividades reguladas en esta Ley se realicen sin perjuicio del interés público y social.

@@ -17,7 +17,7 @@ source_sha256: 0574853d06020030188e8aee1eae5dabb2b476ac630cc52be631a48d2b91adbc
 
 # Artículo 182
 
-En aquellos casos en que, como resultado del ejercicio de sus atribuciones, la Secretaría tenga conocimiento de actos u omisiones que pudieran constituir delitos conforme a lo previsto en la legislación aplicable, formulará ante el Ministerio Público Federal la denuncia correspondiente.
+En aquellos casos en que, como resultado del ejercicio de sus atribuciones, la [Secretaría](articulo-3o.md) tenga conocimiento de actos u omisiones que pudieran constituir delitos conforme a lo previsto en la legislación aplicable, formulará ante el Ministerio Público Federal la denuncia correspondiente.
 
 Toda persona podrá presentar directamente las denuncias penales que correspondan a los delitos ambientales previstos en la legislación aplicable.
 

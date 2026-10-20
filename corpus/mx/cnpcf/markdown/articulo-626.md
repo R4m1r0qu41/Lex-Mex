@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo I
+
 # Artículo 626
 
 Una vez publicados los edictos a que se refiere el código civil respectivo o ley en materia de declaración especial de ausencia por desaparición, la autoridad jurisdiccional dictará la sentencia definitiva y en ese mismo acto se ordenará la expedición inmediata de las copias y oficios necesarios para hacer efectiva la resolución ante las personas públicas o privadas que correspondan a cada caso concreto.

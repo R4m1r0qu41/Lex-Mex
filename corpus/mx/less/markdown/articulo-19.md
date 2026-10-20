@@ -17,7 +17,7 @@ source_sha256: 74f2c47c7a9282194b2972ec1366352d94f03042c6d0c7f10efde018cb9e3bfb
 
 # Artículo 19
 
-El Instituto contará con delegaciones en términos del Acuerdo. Párrafo reformado DOF 30-12-2015
+El [Instituto](articulo-5o.md) contará con delegaciones en términos del [Acuerdo](articulo-5o.md). Párrafo reformado DOF 30-12-2015
 
 Los titulares de las delegaciones tendrán las atribuciones que determine el Acuerdo referido en el párrafo anterior.
 

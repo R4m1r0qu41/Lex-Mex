@@ -17,4 +17,4 @@ source_sha256: b19bcf104673af06117a6d4f3c947591f7a65999f19bad3dcfe2599a29bb3ab0
 
 # Artículo 45
 
-En términos del artículo que antecede, la Secretaría puede requerir a la persona promovente la información o aclaraciones que estime necesarias.
+En términos del artículo que antecede, la [Secretaría](articulo-3.md) puede requerir a la persona promovente la información o aclaraciones que estime necesarias.

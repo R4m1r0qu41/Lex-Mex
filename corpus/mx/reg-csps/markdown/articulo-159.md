@@ -17,4 +17,4 @@ source_sha256: 70464807d63da08244e495f2ff0ac30b12b30119926b84cedc7930397fcb80ef
 
 # Artículo 159
 
-La Secretaría, en coordinación con otras dependencias competentes, establecerá en las normas correspondientes los límites máximos permisibles de residuos de plaguicidas en los vegetales utilizados como materia prima de los productos a que se refiere este capítulo.
+La [Secretaría](articulo-2o.md), en coordinación con otras dependencias competentes, establecerá en las normas correspondientes los límites máximos permisibles de residuos de plaguicidas en los vegetales utilizados como materia prima de los productos a que se refiere este capítulo.

@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LIC.pdf
 source_sha256: 98225a423eaa3dc47c9ec4ddb49ef8b188ed7f8e7e9ef17323a1c33e47e4284d
 ---
 
-> Título QUINTO · Capítulo II
+> Título QUINTO · Capítulo II Bis
 
 # Artículo 110 Bis 1
 
@@ -44,5 +44,3 @@ El órgano encargado de resolver el recurso de revisión deberá atenderlo sin l
 Las Comisiones Nacionales Bancaria y de Valores y para la Protección y Defensa de los Usuarios de Servicios Financieros y el Instituto para la Protección al Ahorro Bancario deberán prever los mecanismos que eviten conflictos de interés entre el área que emite la resolución objeto del recurso y aquella que lo resuelve. Párrafo reformado DOF 25-06-2009, 10-01-2014
 
 Artículo adicionado DOF 06-02-2008
-
-Capítulo III De las Notificaciones Capítulo adicionado DOF 06-02-2008

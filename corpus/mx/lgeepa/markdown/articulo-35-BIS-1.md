@@ -17,7 +17,7 @@ source_sha256: 0574853d06020030188e8aee1eae5dabb2b476ac630cc52be631a48d2b91adbc
 
 # Artículo 35 BIS 1
 
-Las personas que presten servicios de impacto ambiental, serán responsables ante la Secretaría de los informes preventivos, manifestaciones de impacto ambiental y estudios de riesgo que elaboren, quienes declararán bajo protesta de decir verdad que en ellos se incorporan las mejores técnicas y metodologías existentes, así como la información y medidas de prevención y mitigación más efectivas.
+Las personas que presten servicios de impacto ambiental, serán responsables ante la [Secretaría](articulo-3o.md) de los informes preventivos, manifestaciones de impacto ambiental y estudios de riesgo que elaboren, quienes declararán bajo protesta de decir verdad que en ellos se incorporan las mejores técnicas y metodologías existentes, así como la información y medidas de prevención y mitigación más efectivas.
 
 Asimismo, los informes preventivos, las manifestaciones de impacto ambiental y los estudios de riesgo podrán ser presentados por los interesados, instituciones de investigación, colegios o asociaciones profesionales, en este caso la responsabilidad respecto del contenido del documento corresponderá a quien lo suscriba.
 

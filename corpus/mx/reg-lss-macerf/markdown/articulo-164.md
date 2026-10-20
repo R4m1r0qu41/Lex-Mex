@@ -17,9 +17,9 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 164
 
-La opinión que emita el contador público autorizado deberá apegarse al texto aprobado por el Instituto y contendrá lo siguiente:
+La opinión que emita el contador público autorizado deberá apegarse al texto aprobado por el [Instituto](../../lss/markdown/articulo-5-A.md) y contendrá lo siguiente:
 
-I. La manifestación, bajo protesta de decir verdad, que la opinión se elaboró en cumplimiento de la Ley y sus reglamentos, y que se realizó con apego a las normas de auditoría generalmente aceptadas, así como a los procedimientos de auditoría. Dicha manifestación podrá ser:
+I. La manifestación, bajo protesta de decir verdad, que la opinión se elaboró en cumplimiento de la [Ley](../../lss/markdown/articulo-5-A.md) y sus reglamentos, y que se realizó con apego a las normas de auditoría generalmente aceptadas, así como a los procedimientos de auditoría. Dicha manifestación podrá ser:
 
 a).- Limpia;
 

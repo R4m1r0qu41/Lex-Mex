@@ -17,4 +17,4 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 # Artículo 7
 
-Las autoridades y demás entes públicos federales, estatales y municipales deben observar y cumplir con las Normas Oficiales Mexicanas aplicables a los bienes, productos, procesos y servicios que adquieran o contraten bajo cualquier supuesto.
+Las autoridades y demás entes públicos federales, estatales y municipales deben observar y cumplir con las [Normas Oficiales Mexicanas](articulo-4.md) aplicables a los bienes, productos, procesos y servicios que adquieran o contraten bajo cualquier supuesto.

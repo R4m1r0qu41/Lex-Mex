@@ -17,4 +17,4 @@ source_sha256: 4bcc982b308b0813469b30db61b53d5a2c41e5a7240b3b1cac2f1aeeb2c00a2e
 
 # Artículo 205
 
-La autorización definitiva que emita la Secretaría sobre la Manifestación de Impacto Social del Sector Energético es un requisito obligatorio previo a que la Empresa Pública del Estado o las personas interesadas en obtener un permiso o una autorización inicien la construcción de la infraestructura.
+La autorización definitiva que emita la Secretaría sobre la Manifestación de [Impacto Social](articulo-2.md) del Sector Energético es un requisito obligatorio previo a que la Empresa Pública del Estado o las personas interesadas en obtener un permiso o una autorización inicien la construcción de la infraestructura.

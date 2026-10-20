@@ -17,6 +17,6 @@ source_sha256: b4a968d8e8c138ac2069f6afa0dc622178328df24f59cf58eddbab8efe4a7eff
 
 Las dependencias deben realizar la evaluación del desempeño de las personas servidoras públicas durante los meses de enero y febrero de cada año, la cual debe corresponder al ejercicio fiscal anterior. Párrafo reformado DOF 04-01-2024
 
-Las DGRH deben establecer los mecanismos para el resguardo de la documentación relativa a las evaluaciones del desempeño de las personas servidoras públicas, incluida la evidencia que soporte las valoraciones efectuadas, con objeto de acreditar, cuando corresponda, la objetividad y la veracidad de las mismas. Párrafo reformado DOF 04-01-2024
+Las [DGRH](articulo-2.md) deben establecer los mecanismos para el resguardo de la documentación relativa a las evaluaciones del desempeño de las personas servidoras públicas, incluida la evidencia que soporte las valoraciones efectuadas, con objeto de acreditar, cuando corresponda, la objetividad y la veracidad de las mismas. Párrafo reformado DOF 04-01-2024
 
 Los servidores públicos podrán tener acceso a la información y documentación relativa a las evaluaciones en las que participen directamente, así como a solicitar, en su caso, la revisión de las mismas ante el Comité Técnico de Profesionalización respectivo.

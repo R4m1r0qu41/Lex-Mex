@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Capítulo Único · Sección Primera
+
 # Artículo 912
 
 Admitida la apelación en efecto devolutivo, sólo se suspenderá la ejecución de la resolución en los casos en que, de los autos o de las sentencias recurridas derive una ejecución que pueda causar un daño irreparable o de difícil reparación. La parte apelante podrá solicitar la suspensión al interponer el recurso y deberá señalar con precisión los motivos por los que considera el daño irreparable o de difícil reparación, y, además, otorgue garantía mediante fianza o billete de depósito conforme a las reglas siguientes:

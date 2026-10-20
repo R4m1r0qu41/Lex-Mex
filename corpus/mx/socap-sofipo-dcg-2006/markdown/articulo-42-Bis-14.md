@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 42 Bis 14
 
-En caso de que las Sociedades Financieras Populares cuenten con Esquemas de Cobertura de Paso y Medida o Esquemas de Cobertura de Primeras Pérdidas para un crédito comercial o para un portafolios de créditos comerciales identificados y con características similares, únicamente serán reconocidos, para efectos de calificación de cartera, las personas contenidas en los grupos 1, 2 y 3 indicados en el apartado IV, Anexo D de las presentes disposiciones, debiendo aplicar el procedimiento siguiente:
+En caso de que las [Sociedades](articulo-1.md) Financieras Populares cuenten con Esquemas de Cobertura de Paso y Medida o Esquemas de Cobertura de Primeras Pérdidas para un crédito comercial o para un portafolios de créditos comerciales identificados y con características similares, únicamente serán reconocidos, para efectos de calificación de cartera, las personas contenidas en los grupos 1, 2 y 3 indicados en el apartado IV, Anexo D de las presentes disposiciones, debiendo aplicar el procedimiento siguiente:
 
 I. Las Sociedades Financieras Populares que sean beneficiarias de un Esquema de Cobertura de Paso y Medida, deberán constituir el monto de reservas preventivas aplicando el procedimiento siguiente:
 

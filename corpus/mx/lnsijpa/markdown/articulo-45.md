@@ -19,4 +19,4 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 Abstención de declarar Toda persona adolescente tiene derecho a abstenerse de declarar y a no incriminarse a sí misma. Su silencio no puede ser valorado en su contra.
 
-Si una persona adolescente, después de haberlo consultado con su defensa, quisiera hacer uso de su derecho a declarar, únicamente podrá hacerlo en presencia del Órgano Jurisdiccional competente y con la presencia de su defensa. En ningún caso se le exigirá protesta de decir verdad.
+Si una persona adolescente, después de haberlo consultado con su defensa, quisiera hacer uso de su derecho a declarar, únicamente podrá hacerlo en presencia del [Órgano Jurisdiccional](articulo-3.md) competente y con la presencia de su defensa. En ningún caso se le exigirá protesta de decir verdad.

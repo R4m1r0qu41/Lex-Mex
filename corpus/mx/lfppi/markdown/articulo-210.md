@@ -17,4 +17,4 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 210
 
-No se publicarán los nombres comerciales que carezcan de elementos que hagan distinguir a la empresa o establecimiento de que se trate de otros de su género, ni aquéllos que contravengan en lo aplicable, las disposiciones contenidas en el artículo [173](articulo-173.md) de esta Ley.
+No se publicarán los nombres comerciales que carezcan de elementos que hagan distinguir a la empresa o establecimiento de que se trate de otros de su género, ni aquéllos que contravengan en lo aplicable, las disposiciones contenidas en el artículo [173](articulo-173.md) de esta [Ley](articulo-4.md).

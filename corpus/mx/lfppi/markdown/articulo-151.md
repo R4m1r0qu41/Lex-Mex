@@ -17,6 +17,6 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 151
 
-Quien goce de una licencia obligatoria deberá iniciar la explotación de la patente dentro del plazo de dos años, contados a partir de la fecha en que se le hubiere concedido. De no cumplirse esto, salvo que existan causas justificadas a juicio del Instituto, procederá la revocación de la licencia de oficio o a petición de la persona titular de la patente.
+Quien goce de una licencia obligatoria deberá iniciar la explotación de la patente dentro del plazo de dos años, contados a partir de la fecha en que se le hubiere concedido. De no cumplirse esto, salvo que existan causas justificadas a juicio del [Instituto](articulo-4.md), procederá la revocación de la licencia de oficio o a petición de la persona titular de la patente.
 
 Artículo reformado DOF 03-04-2026

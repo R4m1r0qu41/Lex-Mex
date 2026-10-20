@@ -17,7 +17,7 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 36
 
-La persona física que realice una invención, modelo de utilidad, diseño industrial o esquema de trazado de circuito integrado o su causahabiente, tendrá el derecho exclusivo y temporal de explotación en su provecho, por sí o por otras personas con su consentimiento, de acuerdo con las disposiciones contenidas en esta Ley y su Reglamento. Párrafo reformado DOF 03-04-2026
+La persona física que realice una invención, modelo de utilidad, diseño industrial o esquema de trazado de circuito integrado o su causahabiente, tendrá el derecho exclusivo y temporal de explotación en su provecho, por sí o por otras personas con su consentimiento, de acuerdo con las disposiciones contenidas en esta [Ley](articulo-4.md) y su Reglamento. Párrafo reformado DOF 03-04-2026
 
 El derecho a que se refiere el párrafo anterior se otorgará a través de:
 

@@ -17,4 +17,4 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 90
 
-El Instituto elaborará los cuadros básicos de medicamentos que considere necesarios, sujetos a permanente actualización, a fin de que los productos en ellos comprendidos sean los de mayor eficacia terapéutica.
+El [Instituto](articulo-5-A.md) elaborará los cuadros básicos de medicamentos que considere necesarios, sujetos a permanente actualización, a fin de que los productos en ellos comprendidos sean los de mayor eficacia terapéutica.

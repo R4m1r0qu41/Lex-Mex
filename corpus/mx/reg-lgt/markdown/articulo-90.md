@@ -17,7 +17,7 @@ source_sha256: 6680a58c98673518aee46582b3137d28987c275785d1f0c97295f0d89c4b692b
 
 # Artículo 90
 
-A la solicitud de inscripción al Registro Nacional de Turismo, deberán acompañarse, en formato digital, los siguientes documentos: Párrafo reformado DOF 25-11-2025
+A la solicitud de inscripción al Registro Nacional de [Turismo](articulo-2.md), deberán acompañarse, en formato digital, los siguientes documentos: Párrafo reformado DOF 25-11-2025
 
 I. Aquéllos que acrediten estar autorizados para desarrollar la prestación de los Servicios Turísticos manifestados;
 
@@ -33,7 +33,7 @@ VI. Escritura pública o contrato que demuestre la propiedad o legal posesión d
 
 VII. Derogada Fracción derogada DOF 25-11-2025
 
-VIII. Credencial vigente expedida por la Secretaría, si la solicitud corresponde a Guías de Turistas; Fracción reformada DOF 25-11-2025
+VIII. Credencial vigente expedida por la Secretaría, si la solicitud corresponde a [Guías de Turistas](articulo-2.md); Fracción reformada DOF 25-11-2025
 
 IX. Identificación oficial de la persona propietaria o Representante Legal, y Fracción adicionada DOF 25-11-2025
 

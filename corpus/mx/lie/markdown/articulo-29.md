@@ -17,7 +17,7 @@ source_sha256: 14cd17e37e96e766c8ab74950c71186d579c0ba6cc10ac9e8b06f6194af7d953
 
 # Artículo 29
 
-Para evaluar las solicitudes que se sometan a su consideración, la Comisión atenderá a los criterios siguientes:
+Para evaluar las solicitudes que se sometan a su consideración, la [Comisión](articulo-2o.md) atenderá a los criterios siguientes:
 
 I.- El impacto sobre el empleo y la capacitación de los trabajadores;
 

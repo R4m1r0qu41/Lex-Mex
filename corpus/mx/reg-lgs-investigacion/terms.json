@@ -1,1 +1,123 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-investigacion:term:mujeres-en-edad-fertil",
+    "term": "Mujeres en edad fértil",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-investigacion",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-investigacion:article:40",
+    "fraction": "I",
+    "start_char": 54,
+    "end_char": 148,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-investigacion:term:embarazo",
+    "term": "Embarazo",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-investigacion",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-investigacion:article:40",
+    "fraction": "II",
+    "start_char": 148,
+    "end_char": 428,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-investigacion:term:embrion",
+    "term": "Embrión",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-investigacion",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-investigacion:article:40",
+    "fraction": "III",
+    "start_char": 428,
+    "end_char": 558,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-investigacion:term:feto",
+    "term": "Feto",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-investigacion",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-investigacion:article:40",
+    "fraction": "IV",
+    "start_char": 558,
+    "end_char": 694,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-investigacion:term:obito-fetal",
+    "term": "Obito Fetal",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-investigacion",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-investigacion:article:40",
+    "fraction": "V",
+    "start_char": 694,
+    "end_char": 744,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-investigacion:term:nacimiento-vivo",
+    "term": "Nacimiento vivo",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-investigacion",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-investigacion:article:40",
+    "fraction": "VI",
+    "start_char": 744,
+    "end_char": 994,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-investigacion:term:nacimiento-muerto",
+    "term": "Nacimiento Muerto",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-investigacion",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-investigacion:article:40",
+    "fraction": "VII",
+    "start_char": 994,
+    "end_char": 1251,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-investigacion:term:trabajo-de-parto",
+    "term": "Trabajo de parto",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-investigacion",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-investigacion:article:40",
+    "fraction": "VIII",
+    "start_char": 1251,
+    "end_char": 1486,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-investigacion:term:puerperio",
+    "term": "Puerperio",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-investigacion",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-investigacion:article:40",
+    "fraction": "IX",
+    "start_char": 1486,
+    "end_char": 1674,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-investigacion:term:lactancia",
+    "term": "Lactancia",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-investigacion",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-investigacion:article:40",
+    "fraction": "X",
+    "start_char": 1674,
+    "end_char": 1818,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-investigacion:term:fertilizacion-asistida",
+    "term": "Fertilización asistida",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-investigacion",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-investigacion:article:40",
+    "fraction": "XI",
+    "start_char": 1818,
+    "end_char": 1955,
+    "basis": "express_definition"
+  }
+]

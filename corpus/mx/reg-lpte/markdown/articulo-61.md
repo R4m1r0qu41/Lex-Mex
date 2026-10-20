@@ -17,4 +17,4 @@ source_sha256: 716e427a30e9982ccaa0576288aad2ad5305c624b236a0f342b6a87d60b7a9ed
 
 # Artículo 61
 
-La Secretaría es la responsable de la implementación, operación, administración y mejora continua del Sistema Nacional de Información Energética, así como de la interoperabilidad con los subsistemas de información.
+La [Secretaría](articulo-5.md) es la responsable de la implementación, operación, administración y mejora continua del Sistema Nacional de Información Energética, así como de la interoperabilidad con los subsistemas de información.

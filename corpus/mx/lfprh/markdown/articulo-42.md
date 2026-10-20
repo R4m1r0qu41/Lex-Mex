@@ -17,7 +17,7 @@ source_sha256: ce45c7c0c4e9099691e6e24bd2456d0b6f71f91ab27eedd5c4f2190b66d47741
 
 # Artículo 42
 
-La aprobación de la Ley de Ingresos y del [Presupuesto de Egresos](articulo-2.md) se sujetará al siguiente procedimiento:
+La aprobación de la [Ley de Ingresos](articulo-2.md) y del [Presupuesto de Egresos](articulo-2.md) se sujetará al siguiente procedimiento:
 
 I. El Ejecutivo Federal, por conducto de la [Secretaría](articulo-2.md), deberá enviar al Congreso de la Unión a más tardar el 1 de abril, un documento que presente los siguientes elementos: a) Los principales objetivos para la Ley de Ingresos y el Presupuesto de Egresos del año siguiente;
 

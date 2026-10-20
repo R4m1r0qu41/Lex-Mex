@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo I
+
 # Artículo 624
 
 Presentada la solicitud, en el mismo proveído la autoridad jurisdiccional dispondrá lo relativo a la admisión de las pruebas ofrecidas por la persona promovente cuando así fuere necesario, y ordenará recabar oficiosamente las probanzas que considere faltantes para el trámite y resolución de la declaración de ausencia y presunción de muerte o bien, la declaración especial de ausencia por desaparición, sin que ello signifique cargas onerosas o dilatorias a quienes solicitan.

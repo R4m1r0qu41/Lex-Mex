@@ -17,9 +17,9 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Artículo 143
 
-Para determinar la competencia de la autoridad jurisdiccional que conozca de la Declaración Especial de Ausencia se estará a cualquiera de los siguientes criterios:
+Para determinar la competencia de la autoridad jurisdiccional que conozca de la [Declaración Especial de Ausencia](articulo-4.md) se estará a cualquiera de los siguientes criterios:
 
-I. El último domicilio de la Persona Desaparecida;
+I. El último domicilio de la [Persona Desaparecida](articulo-4.md);
 
 II. El domicilio de la persona quien promueva la acción;
 

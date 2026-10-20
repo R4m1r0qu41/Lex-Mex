@@ -17,4 +17,4 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 290
 
-Los límites y condiciones para efectuar el pago de los depósitos de dinero a cargo de las Sociedades, así como la forma y términos en que se cubrirán las cantidades que correspondan a cada ahorrador a que se refiere el presente capítulo, deberán ser previstas en los contratos de depósito que las Sociedades celebren con sus Socios.
+Los límites y condiciones para efectuar el pago de los depósitos de dinero a cargo de las Sociedades, así como la forma y términos en que se cubrirán las cantidades que correspondan a cada ahorrador a que se refiere el presente capítulo, deberán ser previstas en los contratos de depósito que las Sociedades celebren con sus [Socios](articulo-1.md).

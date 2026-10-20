@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPC.pdf
 source_sha256: 7fea623841fd6e05e8c0d01d2cf09f85b0b8e58ba4d9e4f6711f8bad1f448e55
 ---
 
+> Capítulo II
+
 # Artículo 29
 
-Las relaciones de trabajo entre la Procuraduría y sus trabajadores se regularán por la Ley Federal de los Trabajadores al Servicio del Estado, reglamentaría del Apartado B) del artículo 123 Constitucional. Dentro del personal de confianza se considerará al que desempeñe funciones directivas, de investigación, vigilancia, inspección, supervisión y demás establecidas en dicha ley. Asimismo, tendrán este carácter quienes se encuentren adscritos a las oficinas superiores, los delegados, subdelegados y los que manejen fondos y valores.
+Las relaciones de trabajo entre la [Procuraduría](articulo-2.md) y sus trabajadores se regularán por la Ley Federal de los Trabajadores al Servicio del Estado, reglamentaría del Apartado B) del artículo 123 Constitucional. Dentro del personal de confianza se considerará al que desempeñe funciones directivas, de investigación, vigilancia, inspección, supervisión y demás establecidas en dicha ley. Asimismo, tendrán este carácter quienes se encuentren adscritos a las oficinas superiores, los delegados, subdelegados y los que manejen fondos y valores.

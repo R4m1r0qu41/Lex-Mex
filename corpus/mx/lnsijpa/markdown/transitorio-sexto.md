@@ -15,4 +15,4 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 # Sexto
 
-Convalidación o regularización de actuaciones Cuando por razón de competencia por fuero o territorio, se realicen actuaciones, el Órgano Jurisdiccional receptor podrá convalidarlas, siempre que de manera, fundada y motivada, se concluya que se respetaron las garantías esenciales del debido proceso en el procedimiento de origen.
+Convalidación o regularización de actuaciones Cuando por razón de competencia por fuero o territorio, se realicen actuaciones, el [Órgano Jurisdiccional](articulo-3.md) receptor podrá convalidarlas, siempre que de manera, fundada y motivada, se concluya que se respetaron las garantías esenciales del debido proceso en el procedimiento de origen.

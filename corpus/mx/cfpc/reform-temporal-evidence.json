@@ -1,5 +1,25 @@
 [
   {
+    "provision_id": "urn:lex-mx:federal:code:cfpc:amendment:1988-01-12:transitory:primero",
+    "label": "Transitorio PRIMERO — Decreto DOF 1988-01-12",
+    "text": "Este Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:code:cfpc:amendment:1988-01-12:transitory:segundo",
+    "label": "Transitorio SEGUNDO — Decreto DOF 1988-01-12",
+    "text": "Los procedimientos relativos a las materias a que se refiere el presente Decreto que se encuentren en trámite al momento de su entrada en vigor, continuarán sustanciándose conforme a las disposiciones vigentes al momento de su inicio."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:code:cfpc:amendment:1993-07-22:transitory:primero",
+    "label": "Transitorio PRIMERO — Decreto DOF 1993-07-22",
+    "text": "El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:code:cfpc:amendment:1993-07-22:transitory:segundo",
+    "label": "Transitorio SEGUNDO — Decreto DOF 1993-07-22",
+    "text": "Lo establecido en el presente decreto se aplicará a los procedimientos arbitrales de carácter comercial en trámite, así como al reconocimiento y a la ejecución de los laudos arbitrales comerciales, salvo acuerdo en contrario de las partes."
+  },
+  {
     "provision_id": "urn:lex-mx:federal:code:cfpc:amendment:2000-05-29:transitory:primero",
     "label": "Transitorio Primero — Decreto DOF 2000-05-29",
     "text": "El presente Decreto entrará en vigor a los nueve días siguientes de su publicación en el Diario Oficial de la Federación."
@@ -17,7 +37,12 @@
   {
     "provision_id": "urn:lex-mx:federal:code:cfpc:amendment:2000-05-29:transitory:cuarto",
     "label": "Transitorio Cuarto — Decreto DOF 2000-05-29",
-    "text": "En tanto se expide el Reglamento correspondiente, seguirán aplicándose los capítulos I a IV y VII del Título II del Reglamento del Registro Público de Comercio, publicado en el Diario Oficial de la Federación el 22 de enero de 1979, en lo que no se opongan a lo dispuesto en el presente Decreto.\n\nQuinto: La captura del acervo histórico del Registro Público de Comercio deberá concluirse, en . términos de los convenios de coordinación previstos en el artículo 18 del Código de Comercio a que se refiere el presente Decreto, a más tardar el 31 de diciembre de 2004.\n\nArtículo reformado DOF 13-06-2003"
+    "text": "En tanto se expide el Reglamento correspondiente, seguirán aplicándose los capítulos I a IV y VII del Título II del Reglamento del Registro Público de Comercio, publicado en el Diario Oficial de la Federación el 22 de enero de 1979, en lo que no se opongan a lo dispuesto en el presente Decreto."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:code:cfpc:amendment:2000-05-29:transitory:quinto",
+    "label": "Transitorio Quinto — Decreto DOF 2000-05-29",
+    "text": "La captura del acervo histórico del Registro Público de Comercio deberá concluirse, en . términos de los convenios de coordinación previstos en el artículo 18 del Código de Comercio a que se refiere el presente Decreto, a más tardar el 31 de diciembre de 2004.\n\nArtículo reformado DOF 13-06-2003"
   },
   {
     "provision_id": "urn:lex-mx:federal:code:cfpc:amendment:2000-05-29:transitory:sexto",
@@ -45,6 +70,16 @@
     "text": "Se derogan todas las disposiciones que se opongan al presente Decreto."
   },
   {
+    "provision_id": "urn:lex-mx:federal:code:cfpc:amendment:2003-06-13:transitory:unico",
+    "label": "Transitorio UNICO — Decreto DOF 2003-06-13",
+    "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:code:cfpc:amendment:2008-06-20:transitory:unico",
+    "label": "Transitorio Único — Decreto DOF 2008-06-20",
+    "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+  },
+  {
     "provision_id": "urn:lex-mx:federal:code:cfpc:amendment:2008-12-30:transitory:primero",
     "label": "Transitorio Primero — Decreto DOF 2008-12-30",
     "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
@@ -53,6 +88,71 @@
     "provision_id": "urn:lex-mx:federal:code:cfpc:amendment:2008-12-30:transitory:segundo",
     "label": "Transitorio Segundo — Decreto DOF 2008-12-30",
     "text": "La ejecución de las sentencias, laudos y resoluciones dictadas con anterioridad a la entrada en vigor del presente decreto, se sujetarán a las disposiciones vigentes al momento de haberse iniciado el procedimiento respectivo."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:code:cfpc:amendment:2011-05-24:transitory:unico",
+    "label": "Transitorio ÚNICO — Decreto DOF 2011-05-24",
+    "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:code:cfpc:amendment:2011-08-30:transitory:primero",
+    "label": "Transitorio PRIMERO — Decreto DOF 2011-08-30",
+    "text": "El presente Decreto entrará en vigor a los seis meses siguientes al día de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:code:cfpc:amendment:2011-08-30:transitory:segundo",
+    "label": "Transitorio SEGUNDO — Decreto DOF 2011-08-30",
+    "text": "Se derogan todas las disposiciones que se opongan a lo previsto en el presente Decreto."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:code:cfpc:amendment:2011-08-30:transitory:tercero",
+    "label": "Transitorio TERCERO — Decreto DOF 2011-08-30",
+    "text": "La Cámara de Diputados aprobará las modificaciones presupuestales necesarias a efecto de lograr el efectivo cumplimiento del presente Decreto."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:code:cfpc:amendment:2011-08-30:transitory:cuarto",
+    "label": "Transitorio CUARTO — Decreto DOF 2011-08-30",
+    "text": "El Consejo de la Judicatura Federal, en el ámbito de las atribuciones que le han sido conferidas, dictará las medidas necesarias para lograr el efectivo cumplimiento del presente Decreto."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:code:cfpc:amendment:2011-08-30:transitory:quinto",
+    "label": "Transitorio QUINTO — Decreto DOF 2011-08-30",
+    "text": "El Consejo de la Judicatura Federal deberá crear el Registro dentro de los noventa días siguientes a la entrada en vigor del presente decreto. El requisito previsto en la fracción II del artículo 620 del Código Federal de Procedimientos Civiles no será aplicable sino hasta después del primer año de entrada en vigor del presente Decreto."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:code:cfpc:amendment:2011-08-30:transitory:sexto",
+    "label": "Transitorio SEXTO — Decreto DOF 2011-08-30",
+    "text": "El Consejo de la Judicatura Federal deberá crear el Fondo a que se refiere el Capítulo XI del Título Único del Libro Quinto del Código Federal de Procedimientos Civiles dentro de los noventa días siguientes a la entrada en vigor del presente decreto. Mientras el Fondo no sea creado, los recursos que deriven de los procedimientos colectivos serán depositados en una institución bancaria y serán controlados directamente por el juez de la causa."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:code:cfpc:amendment:2012-01-16:transitory:primero",
+    "label": "Transitorio PRIMERO — Decreto DOF 2012-01-16",
+    "text": "El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo por lo dispuesto en el transitorio QUINTO siguiente."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:code:cfpc:amendment:2012-01-16:transitory:segundo",
+    "label": "Transitorio SEGUNDO — Decreto DOF 2012-01-16",
+    "text": "Los proyectos equiparables a los de asociación público-privada, que se hayan iniciado con anterioridad y se encuentren en procedimiento de contratación, ejecución o desarrollo a la entrada en vigor del presente decreto, continuarán rigiéndose conforme a las disposiciones vigentes con anterioridad a la entrada en vigor del mismo.\n\nEn caso de proyectos de asociación público-privada que se encuentren en la etapa de preparación a la entrada en vigor del presente decreto, las dependencias y entidades se sujetarán a las disposiciones de la Ley de Asociaciones Público Privadas, con absoluto respeto de los derechos adquiridos por terceros interesados en la contratación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:code:cfpc:amendment:2012-01-16:transitory:tercero",
+    "label": "Transitorio TERCERO — Decreto DOF 2012-01-16",
+    "text": "El Ejecutivo federal, para la expedición del reglamento correspondiente, contará con un plazo de doce meses a partir de la entrada en vigor del presente Decreto. La preparación e inicio de los proyectos a que se refiere la presente ley, quedará sujeta a la expedición de los lineamientos correspondientes por parte de la Secretaría de Hacienda y Crédito Público."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:code:cfpc:amendment:2012-01-16:transitory:cuarto",
+    "label": "Transitorio CUARTO — Decreto DOF 2012-01-16",
+    "text": "Las Secretarías de Estado podrán aplicar las medidas a que se refiere este decreto dentro de los procedimientos de expropiación en curso a la entrada en vigor del presente decreto."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:code:cfpc:amendment:2012-01-16:transitory:quinto",
+    "label": "Transitorio QUINTO — Decreto DOF 2012-01-16",
+    "text": "La reforma al artículo 50 de la Ley General de Bienes Nacionales entrará en vigor cuando el mecanismo de consulta electrónica del Inventario del Patrimonio Inmobiliario Federal y Paraestatal esté en funcionamiento, lo cual tendrá verificativo en un plazo no mayor a 180 días contados a partir del día siguiente a la publicación del Decreto en el Diario Oficial de la Federación. Para tal efecto, la Secretaría de la Función Pública publicará en el Diario Oficial de la Federación el aviso respectivo."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:code:cfpc:amendment:2012-01-16:transitory:sexto",
+    "label": "Transitorio SEXTO — Decreto DOF 2012-01-16",
+    "text": "Se deroga el Capítulo IV del Título Primero del Libro Tercero del Código Federal de Procedimientos Civiles que incluye los artículos 521 al 529 de dicho ordenamiento."
   },
   {
     "provision_id": "urn:lex-mx:federal:code:cfpc:amendment:2012-04-09:transitory:primero",
@@ -208,5 +308,105 @@
     "provision_id": "urn:lex-mx:federal:code:cfpc:amendment:2021-06-07:transitory:decimo-tercero",
     "label": "Transitorio Décimo Tercero — Decreto DOF 2021-06-07",
     "text": "[Con el fin de implementar la reforma constitucional al Poder Judicial de la Federación publicada en el Diario Oficial de la Federación de 11 de marzo de 2021 y las leyes reglamentarias a las que se refiere el presente Decreto, la persona que a su entrada en vigor ocupe la Presidencia de la Suprema Corte de Justicia de la Nación y del Consejo de la Judicatura Federal durará en ese encargo hasta el 30 de noviembre de 2024. Asimismo, el Consejero de la Judicatura Federal nombrado por el Pleno de la Suprema Corte de Justicia de la Nación el 1 de diciembre de 2016 concluirá su encargo el 30 de noviembre de 2023; el Consejero de la Judicatura Federal nombrado por el Pleno de la Suprema Corte de Justicia de la Nación el 24 de febrero de 2019 concluirá sus funciones el 23 de febrero de 2026; el Consejero de la Judicatura Federal nombrado por el Ejecutivo Federal el 18 de noviembre de 2019 concluirá el 17 de noviembre de 2026; las Consejeras de la Judicatura Federal designadas por el Senado de la República el 20 de noviembre de 2019 concluirán su encargo el 19 de noviembre de 2026; y el Consejero de la Judicatura Federal designado por el Pleno de la Suprema Corte de Justicia de la Nación el 1 de diciembre de 2019 durará en funciones hasta el 30 de noviembre de 2026.]\n\nArtículo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 17-11-2021 y publicada DOF 18-02-2022"
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:code:cfpc:amendment:2023-06-07:transitory:primero",
+    "label": "Transitorio Primero — Decreto DOF 2023-06-07",
+    "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:code:cfpc:amendment:2023-06-07:transitory:segundo",
+    "label": "Transitorio Segundo — Decreto DOF 2023-06-07",
+    "text": "La aplicación de lo dispuesto en el Código Nacional de Procedimientos Civiles y Familiares previsto en el presente Decreto, entrará en vigor gradualmente, como sigue: en el Orden Federal, de conformidad con la Declaratoria que indistinta y sucesivamente realicen las Cámaras de Diputados y Senadores que integran el Congreso de la Unión, previa solicitud del Poder Judicial de la Federación, sin que la misma pueda exceder del 1o. de abril de 2027.\n\nEn el caso de las Entidades Federativas, el presente Código Nacional, entrará en vigor en cada una de éstas de conformidad con la Declaratoria que al efecto emita el Congreso Local, previa solicitud del Poder Judicial del Estado correspondiente, sin que la misma pueda exceder del 1o. de abril de 2027.\n\nLa Declaratoria que al efecto se expida, deberá señalar expresamente la fecha en la que entrará en vigor el Código Nacional de Procedimientos Civiles y Familiares, y será publicada en el Diario Oficial de la Federación y en los Periódicos o Gacetas Oficiales del Estado, según corresponda.\n\nEntre la Declaratoria a que se hace referencia en los párrafos anteriores, y la entrada en vigor del presente Código Nacional de Procedimientos Civiles y Familiares, deberán mediar máximo 120 días naturales. En todos los casos, vencido el plazo, sin que se hubiera emitido la Declaratoria respectiva, la entrada en vigor será automática en todo el territorio nacional sin que la misma pueda exceder el día 1o. de abril de 2027."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:code:cfpc:amendment:2023-06-07:transitory:tercero",
+    "label": "Transitorio Tercero — Decreto DOF 2023-06-07",
+    "text": "De conformidad con el Artículo Segundo de las Disposiciones Transitorias de este Decreto, se abrogan el Código Federal de Procedimientos Civiles, así como la legislación procesal civil y familiar de las Entidades Federativas."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:code:cfpc:amendment:2023-06-07:transitory:cuarto",
+    "label": "Transitorio Cuarto — Decreto DOF 2023-06-07",
+    "text": "Los procedimientos civiles y familiares que a la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares se encuentren en trámite, continuarán su sustanciación de conformidad con la legislación aplicable en el momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del Código Nacional.\n\nNo procederá la acumulación de procesos civiles y familiares cuando alguno de ellos se esté tramitando conforme al presente Código Nacional, y el otro proceso conforme a un Código abrogado."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:code:cfpc:amendment:2023-06-07:transitory:quinto",
+    "label": "Transitorio Quinto — Decreto DOF 2023-06-07",
+    "text": "Cuando por razón de competencia, sea por fuero o territorio, se realicen actuaciones conforme a un fuero o sistema procesal distinto al que se remiten, podrá la autoridad jurisdiccional receptora convalidarlas, siempre que, de manera, fundada y motivada, se concluya que se respetaron las garantías esenciales del debido proceso en el procedimiento de origen.\n\nAsimismo, podrá regularizarse aquellas actuaciones que, también de manera fundada y motivada, la autoridad jurisdiccional que las recibe determine que las mismas deban ajustarse a las formalidades del sistema civil o familiar al cual se incorporarán tomando en cuenta su marco sustantivo interno."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:code:cfpc:amendment:2023-06-07:transitory:sexto",
+    "label": "Transitorio Sexto — Decreto DOF 2023-06-07",
+    "text": "En el caso de la Federación, la Cámara de Diputados, tomando en cuenta la estimación de ingresos aprobados para cada ejercicio fiscal, y con base en los principios de austeridad, eficiencia, eficacia y economía, contemplará en los ejercicios fiscales posteriores a la publicación del presente Decreto, una asignación de recursos presupuestarios para el cumplimiento del presente Decreto.\n\nPara efectos de lo anterior, el Poder Judicial de la Federación, al elaborar su proyecto de presupuesto de egresos anual, deberá observar los criterios generales de política económica, en los términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y demás disposiciones aplicables.\n\nLos Congresos Locales, en el ámbito de sus atribuciones, aprobarán los recursos presupuestarios correspondientes para los Poderes Judiciales de las Entidades Federativas, para el cumplimiento del presente Decreto.\n\nEn todo caso y siempre que proceda, las adecuaciones a las estructuras orgánicas, ocupacionales y salariales que se deriven de la ejecución del presente Decreto, deberán realizarse mediante movimientos compensados y no deberán incrementar el presupuesto regularizable de servicios personales."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:code:cfpc:amendment:2023-06-07:transitory:septimo",
+    "label": "Transitorio Séptimo — Decreto DOF 2023-06-07",
+    "text": "La Secretaría de Gobernación, sesenta días hábiles posteriores a la publicación de este Decreto, instalará y presidirá una Comisión para la Coordinación del Sistema de Justicia previsto en el presente Decreto, con la participación de la Presidencia de la Comisión Nacional de Tribunales Superiores de Justicia de los Estados Unidos Mexicanos; la Presidencia del Tribunal Superior de Justicia del Estado, así como la Presidencia de la Comisión de Justicia del Congreso Local que corresponda, quienes concurrirán a convocatoria o solicitud ante la Presidencia de la Comisión, con el fin de configurar la asistencia técnica a los Poderes Judiciales, Federal y Locales, en la instrumentación del Código Nacional de Procedimientos Civiles y Familiares con base en el desarrollo de habilidades, destrezas y sanas prácticas procesales, y la definición de estándares uniformes de operación del sistema; así como la correcta aplicación de los recursos públicos asignados; asimismo la Comisión contará con la representación de la Presidencia de la Comisión de Justicia tanto de la Cámara de Diputados como del Senado de la República; y la Presidencia del Consejo de la Judicatura Federal y Locales, en caso de ausencia de las personas designadas, concurrirán quienes ostenten su representación legal. En todos los casos las participaciones de quienes integran esta Comisión, serán honoríficos.\n\nLa Comisión tendrá por objeto analizar y acordar las políticas de coordinación necesarias para la instrumentación del Código Nacional de Procedimientos Civiles y Familiares, así como la armonización legislativa que apareja, en todo el territorio nacional. Para dichos efectos podrá convocar a los diversos grupos de la sociedad y la academia, de conformidad con las Bases de Operación que para dichos efectos expida la propia Comisión, en cumplimiento a su Acuerdo de instalación. La Comisión deberá remitir un Informe de Actividades a las Cámaras del Congreso General de los Estados Unidos Mexicanos."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:code:cfpc:amendment:2023-06-07:transitory:octavo",
+    "label": "Transitorio Octavo — Decreto DOF 2023-06-07",
+    "text": "La Comisión, atendiendo a lo previsto en el Artículo Sexto transitorio, contará con una Secretaría Técnica, encargada de ejecutar los Acuerdos y determinaciones de la Comisión, así como coadyuvar, coordinar y brindar apoyo a las autoridades Locales y Federales en la instrumentación del Código Nacional de Procedimientos Civiles y Familiares."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:code:cfpc:amendment:2023-06-07:transitory:noveno",
+    "label": "Transitorio Noveno — Decreto DOF 2023-06-07",
+    "text": "Los Poderes Judiciales de la Federación y de las Entidades Federativas, en el ámbito de sus respectivas competencias, establecerán las etapas y calendarios para llevar a cabo las acciones y medidas necesarias para la instrumentación del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con las asignaciones presupuestales aprobadas para ese fin en sus respectivos presupuestos de egresos del ejercicio fiscal que corresponda.\n\nLa Comisión prevista en el Artículo Séptimo de estas Disposiciones Transitorias, dará seguimiento a la implementación conforme a lo establecido o dispuesto en el párrafo anterior."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:code:cfpc:amendment:2023-06-07:transitory:decimo",
+    "label": "Transitorio Décimo — Decreto DOF 2023-06-07",
+    "text": "El Congreso General de los Estados Unidos Mexicanos, así como las Legislaturas de las Entidades Federativas, contarán con un plazo máximo de 180 días naturales posteriores a la publicación del presente Decreto, para expedir las actualizaciones normativas correspondientes para su debido cumplimiento."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:code:cfpc:amendment:2023-06-07:transitory:decimo-primero",
+    "label": "Transitorio Décimo Primero — Decreto DOF 2023-06-07",
+    "text": "Los Poderes Judiciales Federal y de las Entidades Federativas, deberán hacer los ajustes reglamentarios para la adopción de las mejoras en sus estructuras e infraestructura física y tecnológica y de capacitación en el plazo máximo de a la entrada en vigor del presente Código Nacional."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:code:cfpc:amendment:2023-06-07:transitory:decimo-segundo",
+    "label": "Transitorio Décimo Segundo — Decreto DOF 2023-06-07",
+    "text": "Para la instrumentación de lo dispuesto en este Decreto, tanto en el ámbito Federal como Local, las autoridades podrán establecer Convenios de Colaboración."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:code:cfpc:amendment:2023-06-07:transitory:decimo-tercero",
+    "label": "Transitorio Décimo Tercero — Decreto DOF 2023-06-07",
+    "text": "Toda referencia a la legislación procesal civil y familiar Federal y de las Entidades Federativas, en ordenamientos diversos, se entenderá a partir de la vigencia en las mismas, al Código Nacional de Procedimientos Civiles y Familiares."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:code:cfpc:amendment:2023-06-07:transitory:decimo-cuarto",
+    "label": "Transitorio Décimo Cuarto — Decreto DOF 2023-06-07",
+    "text": "El Consejo de la Judicatura Federal coordinará, con los Consejos de la Judicatura de las Entidades Federativas, la armonización regulatoria y operativa respecto de la información judicial a su cargo para la instrumentación de una plataforma digital bajo la denominación de Sistema Nacional de Información Jurisdiccional, para acceso y consulta pública, la cual deberá contener al menos el nombre de la persona actora, demandada, autoridad jurisdiccional que conoce del juicio o de la apelación, tipo de juicio, así como las resoluciones de primera y segunda instancia y en su caso si se promovió juicio de amparo.\n\nEn esta plataforma se agregará un apartado, en el que se contengan las direcciones de correo electrónico de las autoridades, peritos y auxiliares oficiales.\n\nDicha plataforma digital será administrada por el Consejo de la Judicatura Federal, quien tendrá control y resguardo absoluto de las bases de datos, bajo lineamientos que al efecto expida para el manejo y recopilación de la información, observando en todo momento el marco regulatorio en materia de transparencia."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:code:cfpc:amendment:2023-06-07:transitory:decimo-quinto",
+    "label": "Transitorio Décimo Quinto — Decreto DOF 2023-06-07",
+    "text": "En materia de digitalización de documentos en expedientes judiciales, mientras el Consejo de la Judicatura respectivo no establezca sus propios lineamientos, deberá cumplirse lo que para tal efecto establece la Norma Oficial Mexicana que señala los requisitos que deben observarse para la conservación de mensajes de datos y digitalización de documentos."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:code:cfpc:amendment:2023-06-07:transitory:decimo-sexto",
+    "label": "Transitorio Décimo Sexto — Decreto DOF 2023-06-07",
+    "text": "Para efecto de que todas las comunicaciones y notificaciones electrónicas, se les realicen a todas las autoridades, peritos y demás auxiliares oficiales a través de su dirección de correo electrónico oficial, deberán señalar dicha dirección en su página de internet oficial, de contar con ella, y en todo caso deberán hacerlo de conocimiento de los poderes judiciales dentro de los 90 días siguientes a la entrada en vigor del presente Decreto. Los poderes judiciales deberán registrar y almacenar dicha información, para remitirla al Sistema Nacional de Información Jurisdiccional a fin de que sea de acceso público."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:code:cfpc:amendment:2023-06-07:transitory:decimo-septimo",
+    "label": "Transitorio Décimo Séptimo — Decreto DOF 2023-06-07",
+    "text": "Los Consejos de la Judicatura Federal y de las Entidades Federativas, contarán con un plazo máximo de 180 días naturales a partir de la publicación de este Decreto, para emitir el formato único concursal; así como el diseño e instrumentación del Boletín Concursal Nacional Digital en la Plataforma del Sistema Nacional de Información Jurisdiccional, en el que se registre el número de expediente de cada proceso judicial de insolvencia que se admita, la fecha de admisión, el juzgado de radicación y el nombre de la persona deudora. Dicho registro será público, y tendrá por objeto servir de medio de notificación de los procedimientos de insolvencia a todos los acreedores que puedan ser afectados; así como a las autoridades jurisdiccionales que conozcan de algún proceso a favor o en contra de la persona deudora."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:code:cfpc:amendment:2023-06-07:transitory:decimo-octavo",
+    "label": "Transitorio Décimo Octavo — Decreto DOF 2023-06-07",
+    "text": "Las sociedades de información crediticia contarán con un plazo máximo de 180 días naturales a partir de la entrada gradual en vigor del presente Decreto según corresponda, para incorporar en sus reportes de crédito una clasificación especial que identifique a las personas deudoras que celebraron un convenio, plan de pagos, o sentencia, que deriven del concurso civil que prevé el presente Código Nacional."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:code:cfpc:amendment:2023-06-07:transitory:decimo-noveno",
+    "label": "Transitorio Décimo Noveno — Decreto DOF 2023-06-07",
+    "text": "Se derogan todas aquellas disposiciones que establezcan procedimientos de interdicción, cuyo efecto sea restringir la capacidad jurídica de las personas mayores de 18 años, de conformidad con lo previsto por las Disposiciones Transitorias del presente Decreto."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:code:cfpc:amendment:2023-06-07:transitory:vigesimo",
+    "label": "Transitorio Vigésimo — Decreto DOF 2023-06-07",
+    "text": "Para el caso que, en la fecha de publicación en el Diario Oficial de la Federación este Código Nacional, en la legislación vigente de las entidades federativas no exista regulación relacionada con el procedimiento especial de declaración de ausencia por desaparición, a partir del día siguiente de dicha publicación, se aplicarán supletoriamente las disposiciones del presente Código Nacional."
   }
 ]

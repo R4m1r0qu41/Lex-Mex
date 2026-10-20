@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo III
+
 # Artículo 363
 
 La autoridad judicial podrá señalar y desahogar tantas audiencias cuantas considere necesarias para decidir los debates que establezcan las partes, sean principales, incidentales o sobre medidas cautelares.

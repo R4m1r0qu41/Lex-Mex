@@ -15,4 +15,4 @@ source_sha256: 9478163ef6ab468edc2be8def3bf84efedd03da5b6c166fba0430bfcb6d8467c
 
 # Séptimo
 
-El Consejo de Administración debe expedir los criterios y lineamientos a que se refieren los artículos [28](articulo-28.md) y [31](articulo-31.md) de este reglamento, dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente ordenamiento.
+El [Consejo de Administración](articulo-2.md) debe expedir los criterios y lineamientos a que se refieren los artículos [28](articulo-28.md) y [31](articulo-31.md) de este reglamento, dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente ordenamiento.

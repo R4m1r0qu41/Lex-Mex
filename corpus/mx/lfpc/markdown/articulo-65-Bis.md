@@ -13,11 +13,13 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPC.pdf
 source_sha256: 7fea623841fd6e05e8c0d01d2cf09f85b0b8e58ba4d9e4f6711f8bad1f448e55
 ---
 
+> Capítulo VI
+
 # Artículo 65 Bis
 
 Para efectos de lo dispuesto en la presente ley, serán casas de empeño los proveedores personas físicas o morales no reguladas por leyes y autoridades financieras que en forma habitual o profesional realicen u oferten al público contrataciones u operaciones de mutuo con interés y garantía prendaria. Párrafo reformado DOF 11-01-2018
 
-Las personas a que se refiere el párrafo anterior no podrán prestar servicios ni realizar operaciones de las reservadas y reguladas por las leyes vigentes a las instituciones del sistema financiero nacional. La Procuraduría establecerá un registro público en el que se deberán inscribir las casas de empeño y los formatos de los contratos de adhesión que celebren con sus clientes.
+Las personas a que se refiere el párrafo anterior no podrán prestar servicios ni realizar operaciones de las reservadas y reguladas por las leyes vigentes a las instituciones del sistema financiero nacional. La [Procuraduría](articulo-2.md) establecerá un registro público en el que se deberán inscribir las casas de empeño y los formatos de los contratos de adhesión que celebren con sus clientes.
 
 Para organizarse y operar se requiere la inscripción en el Registro de Casas de Empeño, que compete otorgar a la Procuraduría. Por su naturaleza, los derechos derivados de la inscripción son intransmisibles.
 

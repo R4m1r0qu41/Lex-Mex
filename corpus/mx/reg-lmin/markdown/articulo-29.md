@@ -17,7 +17,7 @@ source_sha256: 4d25bcb022ab62a24462e11a230c9554c0120012913ab4599cd3ec1b2b275c1d
 
 # Artículo 29
 
-Las convocatorias a concurso para el otorgamiento de concesiones mineras a que se refiere la Ley, se publicarán en el Diario Oficial de la Federación. Dichas convocatorias deberán contener:
+Las convocatorias a concurso para el otorgamiento de concesiones mineras a que se refiere la [Ley](articulo-1o.md), se publicarán en el Diario Oficial de la Federación. Dichas convocatorias deberán contener:
 
 I. Nombre del lote o lotes objeto del concurso;
 
@@ -33,7 +33,7 @@ VI. Mencionar las principales sustancias encontradas hasta el momento;
 
 VII. El lugar, fechas y horarios en que podrán ser adquiridas las bases del concurso, así como su costo, y
 
-VIII. La demás información que la Secretaría considere apropiada para propiciar la mayor participación en los concursos.
+VIII. La demás información que la [Secretaría](articulo-1o.md) considere apropiada para propiciar la mayor participación en los concursos.
 
 Previo a la emisión de la convocatoria a concurso, la Secretaría deberá solicitar a las autoridades competentes la información necesaria que le permita verificar si dentro de la superficie en la que se emitirá la convocatoria, se realiza alguna de las actividades preferentes de exploración y extracción de petróleo y de los demás hidrocarburos o del servicio público de transmisión y distribución de energía eléctrica. Las autoridades competentes contarán con un plazo de cinco días hábiles, contado a partir del día siguiente al de la fecha de recepción de la solicitud de información correspondiente, para dar respuesta. Párrafo adicionado DOF 31-10-2014
 

@@ -17,9 +17,9 @@ source_sha256: 2a105e5201b86ff5517ca1ef8d971224ea8c717f195fdd5fa28b916c7e622e56
 
 # Artículo 41
 
-El Estado mexicano con el fin de garantizar la seguridad y protección de las personas, coadyuvará con los esfuerzos de otros Estados en la materia, comprometiéndose a prestar la asistencia recíproca, para el cumplimiento del objeto de la presente Ley, en los ámbitos de:
+El Estado mexicano con el fin de garantizar la seguridad y protección de las personas, coadyuvará con los esfuerzos de otros Estados en la materia, comprometiéndose a prestar la asistencia recíproca, para el cumplimiento del objeto de la presente [Ley](articulo-2.md), en los ámbitos de:
 
-I. Implementación de Medidas de Protección de personas, y
+I. Implementación de [Medidas de Protección](articulo-2.md) de personas, y
 
 II. Aplicación de procedimientos jurisdiccionales.
 

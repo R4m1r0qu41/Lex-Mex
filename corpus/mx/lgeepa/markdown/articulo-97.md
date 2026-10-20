@@ -17,6 +17,6 @@ source_sha256: 0574853d06020030188e8aee1eae5dabb2b476ac630cc52be631a48d2b91adbc
 
 # Artículo 97
 
-La Secretaría establecerá viveros, criaderos y reservas de especies de flora y fauna acuáticas.
+La [Secretaría](articulo-3o.md) establecerá viveros, criaderos y reservas de especies de flora y fauna acuáticas.
 
 Artículo reformado DOF 13-12-1996

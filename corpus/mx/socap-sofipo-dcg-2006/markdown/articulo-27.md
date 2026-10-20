@@ -18,6 +18,6 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 27
 
-Las Sociedades Financieras Populares, podrán realizar la compra y venta de divisas, por cuenta de terceros.
+Las [Sociedades](articulo-1.md) Financieras Populares, podrán realizar la compra y venta de divisas, por cuenta de terceros.
 
 Las Sociedades Financieras Populares en la realización de compra y venta de divisas por cuenta de terceros tendrán prohibido asumir algún tipo de riesgo cambiario.

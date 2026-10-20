@@ -17,4 +17,4 @@ source_sha256: 9f964bc5c075d7cf47e5e9df7c2fbe262eb5bd1794de9b230dbd72026a51ae5e
 
 # Artículo 49
 
-En caso de reincidencia se duplicará el monto de la multa que corresponda. Para los efectos de este capítulo se entiende por reincidencia, que el infractor incumpla la misma disposición de esta Ley o sus reglamentos dos o más veces dentro del periodo de un año, contado a partir de la fecha en que se le hubiera notificado la sanción inmediata anterior.
+En caso de reincidencia se duplicará el monto de la multa que corresponda. Para los efectos de este capítulo se entiende por reincidencia, que el infractor incumpla la misma disposición de esta [Ley](articulo-6.md) o sus reglamentos dos o más veces dentro del periodo de un año, contado a partir de la fecha en que se le hubiera notificado la sanción inmediata anterior.

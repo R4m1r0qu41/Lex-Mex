@@ -17,4 +17,4 @@ source_sha256: 1405f36fd836ff74d059ebe7e50ae439cbb9e5e291a317514667f34a26f72a23
 
 # Artículo 13
 
-La Secretaría de Energía puede otorgar o modificar las Asignaciones para Desarrollo Propio para realizar la Exploración y Extracción de Hidrocarburos exclusivamente a Petróleos Mexicanos quien debe fungir como Operador Petrolero.
+La Secretaría de Energía puede otorgar o modificar las [Asignaciones](articulo-5.md) para Desarrollo Propio para realizar la [Exploración](articulo-5.md) y [Extracción](articulo-5.md) de [Hidrocarburos](articulo-5.md) exclusivamente a [Petróleos](articulo-5.md) Mexicanos quien debe fungir como [Operador Petrolero](articulo-5.md).

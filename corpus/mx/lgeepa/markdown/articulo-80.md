@@ -27,7 +27,7 @@ III. Las acciones de sanidad fitopecuaria;
 
 IV.- La protección y conservación de la flora y fauna del territorio nacional, contra la acción perjudicial de especies exóticas invasoras, plagas y enfermedades, o la contaminación que pueda derivarse de actividades fitopecuarias; Fracción reformada DOF 06-04-2010
 
-V.- El establecimiento de un sistema nacional de información sobre biodiversidad y de certificación del uso sustentable de sus componentes que desarrolle la Comisión Nacional para el Conocimiento y Uso de la Biodiversidad, así como la regulación de la preservación y restauración de flora y fauna silvestre; Fracción reformada DOF 13-12-1996
+V.- El establecimiento de un sistema nacional de información sobre biodiversidad y de certificación del uso sustentable de sus componentes que desarrolle la Comisión Nacional para el Conocimiento y Uso de la [Biodiversidad](articulo-3o.md), así como la regulación de la preservación y restauración de flora y fauna silvestre; Fracción reformada DOF 13-12-1996
 
 VI. La formulación del programa anual de producción, repoblación, cultivo, siembra y diseminación de especies de la flora y fauna acuáticas;
 

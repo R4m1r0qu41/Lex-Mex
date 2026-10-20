@@ -17,4 +17,4 @@ source_sha256: 1e7d06c67fac4c8a100d2bb2845cc765fba5e8ce09d27d30b2b44432ffeb8c41
 
 # Artículo 3
 
-La aplicación de la presente Ley corresponde a las autoridades de los tres órdenes de gobierno en el ámbito de sus respectivas competencias, y se interpretará de conformidad con la Constitución y el derecho internacional, favoreciendo en todo tiempo la protección más amplia de los derechos de las personas Víctimas de tortura.
+La aplicación de la presente [Ley](articulo-5.md) corresponde a las autoridades de los tres órdenes de gobierno en el ámbito de sus respectivas competencias, y se interpretará de conformidad con la [Constitución](articulo-5.md) y el derecho internacional, favoreciendo en todo tiempo la protección más amplia de los derechos de las personas [Víctimas](articulo-5.md) de tortura.

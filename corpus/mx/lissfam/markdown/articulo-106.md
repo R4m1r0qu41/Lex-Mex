@@ -17,7 +17,7 @@ source_sha256: 35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc
 
 # Artículo 106
 
-Las normas generales que establezca la Junta Directiva, determinarán las cantidades globales que se asignen al financiamiento de:
+Las normas generales que establezca la [Junta](articulo-4o.md) Directiva, determinarán las cantidades globales que se asignen al financiamiento de:
 
 I. La adquisición en propiedad de habitaciones cómodas, e higiénicas, incluyendo los sujetos al régimen de condominio;
 

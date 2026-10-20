@@ -17,4 +17,4 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 282
 
-Todos los documentos y materiales de soporte derivados tanto de la Supervisión Extra-situ como In-situ que realicen los Supervisores Auxiliares, así como los sistemas automatizados, registros, técnicas, herramientas y demás elementos pertinentes para su realización, deberán encontrarse disponibles para la consulta o revisión por parte de la Comisión.
+Todos los documentos y materiales de soporte derivados tanto de la [Supervisión Extra-situ](articulo-1.md) como In-situ que realicen los [Supervisores Auxiliares](articulo-1.md), así como los sistemas automatizados, registros, técnicas, herramientas y demás elementos pertinentes para su realización, deberán encontrarse disponibles para la consulta o revisión por parte de la Comisión.

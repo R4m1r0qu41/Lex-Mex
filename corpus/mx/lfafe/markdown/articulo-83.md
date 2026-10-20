@@ -17,9 +17,9 @@ source_sha256: 96092a4581d4e87910eb58939da4045879e4fe613b12f4413d7392bcc2c6e884
 
 # Artículo 83
 
-A la persona que, sin licencia vigente, porte un arma de las reservadas para el uso exclusivo de la Fuerza Armada Permanente, se le sancionará con:
+A la persona que, sin licencia vigente, porte un arma de las reservadas para el uso exclusivo de la [Fuerza Armada Permanente](articulo-1o-Bis.md), se le sancionará con:
 
-I.- Prisión de tres meses a un año y multa de una a diez veces el valor diario de la Unidad de Medida y Actualización, cuando se trate de las armas comprendidas en los incisos i) y m) del artículo [11](articulo-11.md) de esta Ley;
+I.- Prisión de tres meses a un año y multa de una a diez veces el valor diario de la Unidad de Medida y Actualización, cuando se trate de las armas comprendidas en los incisos i) y m) del artículo [11](articulo-11.md) de esta [Ley](articulo-1o-Bis.md);
 
 II.- Prisión de cinco a diez años y multa de cien a trescientas veces el valor diario de la Unidad de Medida y Actualización, cuando se trate de armas, sus piezas o componentes comprendidas en los incisos a) y b) del artículo [11](articulo-11.md) de esta Ley; III.- Prisión de seis a quince años y multa de ciento cincuenta a quinientas veces el valor diario de la Unidad de Medida y Actualización, cuando se trate de las armas comprendidas en los incisos c), d) y e) del artículo [11](articulo-11.md) de esta Ley, y
 

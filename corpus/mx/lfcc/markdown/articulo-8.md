@@ -17,4 +17,4 @@ source_sha256: 0305c9a7ba90c8d0bbe973be2a134a650976ce5d25c304458cb0fd5401b8ddde
 
 # Artículo 8
 
-La Secretaría, por conducto de la Comisión, tomando en cuenta las características de la actividad económica que desempeñen las personas interesadas, definirá la información que deberán registrar en el Padrón y los criterios para realizar el registro, los cuales se difundirán ampliamente.
+La [Secretaría](articulo-3.md), por conducto de la [Comisión](articulo-3.md), tomando en cuenta las características de la actividad económica que desempeñen las personas interesadas, definirá la información que deberán registrar en el [Padrón](articulo-3.md) y los criterios para realizar el registro, los cuales se difundirán ampliamente.

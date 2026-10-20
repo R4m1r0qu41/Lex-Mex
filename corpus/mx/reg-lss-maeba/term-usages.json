@@ -1,1 +1,1775 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:1:term-usage:123-126",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 123,
+    "end_char": 126
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:1:term-usage:231-240",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 231,
+    "end_char": 240
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:1:term-usage:535-544",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 535,
+    "end_char": 544
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:2:term-usage:30-40",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 30,
+    "end_char": 40
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:2:term-usage:115-118",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 115,
+    "end_char": 118
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:2:term-usage:332-342",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 332,
+    "end_char": 342
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:2:term-usage:413-422",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 413,
+    "end_char": 422
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:2:term-usage:636-645",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 636,
+    "end_char": 645
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:2:term-usage:927-936",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 927,
+    "end_char": 936
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:2:term-usage:1180-1191",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:enajenacion",
+    "span": "Enajenación",
+    "start_char": 1180,
+    "end_char": 1191
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:2:term-usage:1286-1295",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 1286,
+    "end_char": 1295
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:2:term-usage:1359-1368",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 1359,
+    "end_char": 1368
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:2:term-usage:1461-1467",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:codigo",
+    "span": "Código",
+    "start_char": 1461,
+    "end_char": 1467
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:2:term-usage:1573-1582",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 1573,
+    "end_char": 1582
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:2:term-usage:1638-1648",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 1638,
+    "end_char": 1648
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:2:term-usage:1686-1689",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 1686,
+    "end_char": 1689
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:2:term-usage:1740-1751",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:enajenacion",
+    "span": "Enajenación",
+    "start_char": 1740,
+    "end_char": 1751
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:2:term-usage:1892-1902",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:delegacion",
+    "span": "Delegación",
+    "start_char": 1892,
+    "end_char": 1902
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:2:term-usage:2065-2074",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 2065,
+    "end_char": 2074
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:3:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:3:term-usage:30-42",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:delegacion",
+    "span": "Delegaciones",
+    "start_char": 30,
+    "end_char": 42
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:3:term-usage:45-60",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:subdelegacion",
+    "span": "Subdelegaciones",
+    "start_char": 45,
+    "end_char": 60
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:3:term-usage:108-111",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 108,
+    "end_char": 111
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:3:term-usage:116-122",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:codigo",
+    "span": "Código",
+    "start_char": 116,
+    "end_char": 122
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:3:term-usage:127-137",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 127,
+    "end_char": 137
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:3:term-usage:151-160",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 151,
+    "end_char": 160
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:3:term-usage:201-211",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 201,
+    "end_char": 211
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:3:term-usage:371-381",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 371,
+    "end_char": 381
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:4:term-usage:33-43",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 33,
+    "end_char": 43
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:4:term-usage:92-98",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:codigo",
+    "span": "Código",
+    "start_char": 92,
+    "end_char": 98
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:5:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:delegacion",
+    "span": "Delegación",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:5:term-usage:244-253",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 244,
+    "end_char": 253
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:7:term-usage:3-16",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:subdelegacion",
+    "span": "Subdelegación",
+    "start_char": 3,
+    "end_char": 16
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:8:term-usage:301-312",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:clave-unica",
+    "span": "Clave Única",
+    "start_char": 301,
+    "end_char": 312
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:8:term-usage:542-555",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:subdelegacion",
+    "span": "Subdelegación",
+    "start_char": 542,
+    "end_char": 555
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:8:term-usage:594-603",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 594,
+    "end_char": 603
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:8:term-usage:715-728",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:subdelegacion",
+    "span": "Subdelegación",
+    "start_char": 715,
+    "end_char": 728
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:9:term-usage:381-390",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 381,
+    "end_char": 390
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:9:term-usage:570-579",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 570,
+    "end_char": 579
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:10:term-usage:91-104",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:subdelegacion",
+    "span": "Subdelegación",
+    "start_char": 91,
+    "end_char": 104
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:10:term-usage:522-535",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:subdelegacion",
+    "span": "Subdelegación",
+    "start_char": 522,
+    "end_char": 535
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:10:term-usage:817-830",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:subdelegacion",
+    "span": "Subdelegación",
+    "start_char": 817,
+    "end_char": 830
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:10:term-usage:960-970",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 960,
+    "end_char": 970
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:10:term-usage:1052-1063",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:clave-unica",
+    "span": "Clave Única",
+    "start_char": 1052,
+    "end_char": 1063
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:10:term-usage:1202-1211",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 1202,
+    "end_char": 1211
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:11:term-usage:299-309",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 299,
+    "end_char": 309
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:12:term-usage:3-16",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:subdelegacion",
+    "span": "Subdelegación",
+    "start_char": 3,
+    "end_char": 16
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:13:term-usage:164-173",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 164,
+    "end_char": 173
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:13:term-usage:563-574",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:13",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:clave-unica",
+    "span": "Clave Única",
+    "start_char": 563,
+    "end_char": 574
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:13:term-usage:644-654",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:13",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 644,
+    "end_char": 654
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:14:term-usage:181-191",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:delegacion",
+    "span": "Delegación",
+    "start_char": 181,
+    "end_char": 191
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:14:term-usage:382-391",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 382,
+    "end_char": 391
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:14:term-usage:459-469",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:delegacion",
+    "span": "Delegación",
+    "start_char": 459,
+    "end_char": 469
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:14:term-usage:545-557",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:delegacion",
+    "span": "Delegaciones",
+    "start_char": 545,
+    "end_char": 557
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:16:term-usage:100-110",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:16",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:delegacion",
+    "span": "Delegación",
+    "start_char": 100,
+    "end_char": 110
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:16:term-usage:157-167",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:16",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:delegacion",
+    "span": "Delegación",
+    "start_char": 157,
+    "end_char": 167
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:17:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:17",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:delegacion",
+    "span": "Delegación",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:17:term-usage:668-678",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:17",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 668,
+    "end_char": 678
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:17:term-usage:718-721",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 718,
+    "end_char": 721
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:17:term-usage:791-801",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:17",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 791,
+    "end_char": 801
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:18:term-usage:5-15",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:18",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:delegacion",
+    "span": "Delegación",
+    "start_char": 5,
+    "end_char": 15
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:18:term-usage:31-45",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:18",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:comite-tecnico",
+    "span": "Comité Técnico",
+    "start_char": 31,
+    "end_char": 45
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:19:term-usage:3-17",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:19",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:comite-tecnico",
+    "span": "Comité Técnico",
+    "start_char": 3,
+    "end_char": 17
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:19:term-usage:57-67",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:19",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:delegacion",
+    "span": "Delegación",
+    "start_char": 57,
+    "end_char": 67
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:19:term-usage:578-587",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 578,
+    "end_char": 587
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:19:term-usage:641-654",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:19",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:subdelegacion",
+    "span": "Subdelegación",
+    "start_char": 641,
+    "end_char": 654
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:19:term-usage:719-733",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:19",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:comite-tecnico",
+    "span": "Comité Técnico",
+    "start_char": 719,
+    "end_char": 733
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:19:term-usage:887-901",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:19",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:comite-tecnico",
+    "span": "Comité Técnico",
+    "start_char": 887,
+    "end_char": 901
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:19:term-usage:1098-1112",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:19",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:comite-tecnico",
+    "span": "Comité Técnico",
+    "start_char": 1098,
+    "end_char": 1112
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:19:term-usage:1274-1288",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:19",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:comite-tecnico",
+    "span": "Comité Técnico",
+    "start_char": 1274,
+    "end_char": 1288
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:20:term-usage:20-34",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:comite-tecnico",
+    "span": "Comité Técnico",
+    "start_char": 20,
+    "end_char": 34
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:20:term-usage:97-111",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:comite-tecnico",
+    "span": "Comité Técnico",
+    "start_char": 97,
+    "end_char": 111
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:20:term-usage:213-227",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:comite-tecnico",
+    "span": "Comité Técnico",
+    "start_char": 213,
+    "end_char": 227
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:20:term-usage:494-508",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:comite-tecnico",
+    "span": "Comité Técnico",
+    "start_char": 494,
+    "end_char": 508
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:20:term-usage:773-787",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:comite-tecnico",
+    "span": "Comité Técnico",
+    "start_char": 773,
+    "end_char": 787
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:20:term-usage:847-861",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:comite-tecnico",
+    "span": "Comité Técnico",
+    "start_char": 847,
+    "end_char": 861
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:20:term-usage:1028-1042",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:comite-tecnico",
+    "span": "Comité Técnico",
+    "start_char": 1028,
+    "end_char": 1042
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:20:term-usage:1190-1204",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:comite-tecnico",
+    "span": "Comité Técnico",
+    "start_char": 1190,
+    "end_char": 1204
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:20:term-usage:1461-1475",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:comite-tecnico",
+    "span": "Comité Técnico",
+    "start_char": 1461,
+    "end_char": 1475
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:20:term-usage:1532-1546",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:comite-tecnico",
+    "span": "Comité Técnico",
+    "start_char": 1532,
+    "end_char": 1546
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:20:term-usage:1689-1703",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:comite-tecnico",
+    "span": "Comité Técnico",
+    "start_char": 1689,
+    "end_char": 1703
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:20:term-usage:1872-1888",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:comite-tecnico",
+    "span": "Comités Técnicos",
+    "start_char": 1872,
+    "end_char": 1888
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:20:term-usage:1909-1920",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:enajenacion",
+    "span": "Enajenación",
+    "start_char": 1909,
+    "end_char": 1920
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:20:term-usage:1977-1986",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 1977,
+    "end_char": 1986
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:21:term-usage:3-17",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:21",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:comite-tecnico",
+    "span": "Comité Técnico",
+    "start_char": 3,
+    "end_char": 17
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:21:term-usage:1124-1133",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 1124,
+    "end_char": 1133
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:22:term-usage:17-31",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:22",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:comite-tecnico",
+    "span": "Comité Técnico",
+    "start_char": 17,
+    "end_char": 31
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:22:term-usage:203-217",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:22",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:comite-tecnico",
+    "span": "Comité Técnico",
+    "start_char": 203,
+    "end_char": 217
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:22:term-usage:358-372",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:22",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:comite-tecnico",
+    "span": "Comité Técnico",
+    "start_char": 358,
+    "end_char": 372
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:22:term-usage:706-720",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:22",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:comite-tecnico",
+    "span": "Comité Técnico",
+    "start_char": 706,
+    "end_char": 720
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:22:term-usage:1057-1071",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:22",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:comite-tecnico",
+    "span": "Comité Técnico",
+    "start_char": 1057,
+    "end_char": 1071
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:22:term-usage:1566-1580",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:22",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:comite-tecnico",
+    "span": "Comité Técnico",
+    "start_char": 1566,
+    "end_char": 1580
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:23:term-usage:107-110",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 107,
+    "end_char": 110
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:23:term-usage:137-147",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 137,
+    "end_char": 147
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:23:term-usage:382-392",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:delegacion",
+    "span": "Delegación",
+    "start_char": 382,
+    "end_char": 392
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:23:term-usage:536-548",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:delegacion",
+    "span": "Delegaciones",
+    "start_char": 536,
+    "end_char": 548
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:23:term-usage:719-729",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 719,
+    "end_char": 729
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:24:term-usage:279-288",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 279,
+    "end_char": 288
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:24:term-usage:609-618",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 609,
+    "end_char": 618
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:25:term-usage:183-192",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 183,
+    "end_char": 192
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:25:term-usage:475-487",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:delegacion",
+    "span": "Delegaciones",
+    "start_char": 475,
+    "end_char": 487
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:25:term-usage:492-501",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 492,
+    "end_char": 501
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:25:term-usage:554-563",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 554,
+    "end_char": 563
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:25:term-usage:644-653",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 644,
+    "end_char": 653
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:25:term-usage:1126-1135",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 1126,
+    "end_char": 1135
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:26:term-usage:200-209",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 200,
+    "end_char": 209
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:26:term-usage:539-549",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:delegacion",
+    "span": "Delegación",
+    "start_char": 539,
+    "end_char": 549
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:27:term-usage:98-107",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 98,
+    "end_char": 107
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:27:term-usage:478-487",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 478,
+    "end_char": 487
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:27:term-usage:507-510",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 507,
+    "end_char": 510
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:28:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:28",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:delegacion",
+    "span": "Delegación",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:29:term-usage:508-522",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:29",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:comite-tecnico",
+    "span": "Comité Técnico",
+    "start_char": 508,
+    "end_char": 522
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:29:term-usage:876-885",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 876,
+    "end_char": 885
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:30:term-usage:252-262",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:30",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 252,
+    "end_char": 262
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:32:term-usage:231-241",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:32",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:delegacion",
+    "span": "Delegación",
+    "start_char": 231,
+    "end_char": 241
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:32:term-usage:244-257",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:32",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:subdelegacion",
+    "span": "Subdelegación",
+    "start_char": 244,
+    "end_char": 257
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:32:term-usage:299-309",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:32",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:delegacion",
+    "span": "Delegación",
+    "start_char": 299,
+    "end_char": 309
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:32:term-usage:376-385",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 376,
+    "end_char": 385
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:32:term-usage:499-509",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:32",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:delegacion",
+    "span": "Delegación",
+    "start_char": 499,
+    "end_char": 509
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:32:term-usage:512-525",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:32",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:subdelegacion",
+    "span": "Subdelegación",
+    "start_char": 512,
+    "end_char": 525
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:33:term-usage:244-254",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:33",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 244,
+    "end_char": 254
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:34:term-usage:293-302",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 293,
+    "end_char": 302
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:35:term-usage:130-139",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:35",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 130,
+    "end_char": 139
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:35:term-usage:558-567",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:35",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 558,
+    "end_char": 567
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:35:term-usage:837-846",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:35",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 837,
+    "end_char": 846
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:35:term-usage:1441-1451",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:35",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:delegacion",
+    "span": "Delegación",
+    "start_char": 1441,
+    "end_char": 1451
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:35:term-usage:1600-1609",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:35",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 1600,
+    "end_char": 1609
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:35:term-usage:1662-1672",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:35",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 1662,
+    "end_char": 1672
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:35:term-usage:1881-1890",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:35",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 1881,
+    "end_char": 1890
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:35:term-usage:2060-2069",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:35",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 2060,
+    "end_char": 2069
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:36:term-usage:87-97",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:36",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:delegacion",
+    "span": "Delegación",
+    "start_char": 87,
+    "end_char": 97
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:37:term-usage:249-259",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:37",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:delegacion",
+    "span": "Delegación",
+    "start_char": 249,
+    "end_char": 259
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:37:term-usage:262-275",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:37",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:subdelegacion",
+    "span": "Subdelegación",
+    "start_char": 262,
+    "end_char": 275
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:39:term-usage:1002-1011",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 1002,
+    "end_char": 1011
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:39:term-usage:1526-1535",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 1526,
+    "end_char": 1535
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:40:term-usage:839-849",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:40",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 839,
+    "end_char": 849
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:40:term-usage:1300-1310",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:40",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:delegacion",
+    "span": "Delegación",
+    "start_char": 1300,
+    "end_char": 1310
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:40:term-usage:1399-1408",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:40",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 1399,
+    "end_char": 1408
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:42:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:42",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:delegacion",
+    "span": "Delegación",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:42:term-usage:214-223",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:42",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 214,
+    "end_char": 223
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:43:term-usage:182-191",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:43",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 182,
+    "end_char": 191
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:44:term-usage:229-238",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:44",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 229,
+    "end_char": 238
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:44:term-usage:1651-1660",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:44",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 1651,
+    "end_char": 1660
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:44:term-usage:1737-1747",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:44",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 1737,
+    "end_char": 1747
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:44:term-usage:2232-2241",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:44",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 2232,
+    "end_char": 2241
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:46:term-usage:503-512",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:46",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 503,
+    "end_char": 512
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:46:term-usage:878-887",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:46",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 878,
+    "end_char": 887
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:47:term-usage:223-232",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:47",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 223,
+    "end_char": 232
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:47:term-usage:623-632",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:47",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 623,
+    "end_char": 632
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:47:term-usage:1105-1115",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:47",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 1105,
+    "end_char": 1115
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:49:term-usage:397-406",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:49",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 397,
+    "end_char": 406
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:49:term-usage:1058-1072",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:49",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:comite-tecnico",
+    "span": "Comité Técnico",
+    "start_char": 1058,
+    "end_char": 1072
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:49:term-usage:1619-1628",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:49",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 1619,
+    "end_char": 1628
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:50:term-usage:47-61",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:50",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:comite-tecnico",
+    "span": "Comité Técnico",
+    "start_char": 47,
+    "end_char": 61
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:51:term-usage:99-109",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:51",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:delegacion",
+    "span": "Delegación",
+    "start_char": 99,
+    "end_char": 109
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:51:term-usage:599-609",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:51",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:delegacion",
+    "span": "Delegación",
+    "start_char": 599,
+    "end_char": 609
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:53:term-usage:454-464",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:53",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:delegacion",
+    "span": "Delegación",
+    "start_char": 454,
+    "end_char": 464
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:55:term-usage:160-169",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:55",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 160,
+    "end_char": 169
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:56:term-usage:204-214",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:56",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:delegacion",
+    "span": "Delegación",
+    "start_char": 204,
+    "end_char": 214
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:56:term-usage:316-325",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:56",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 316,
+    "end_char": 325
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:56:term-usage:416-422",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:56",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:codigo",
+    "span": "Código",
+    "start_char": 416,
+    "end_char": 422
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:56:term-usage:529-539",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:56",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 529,
+    "end_char": 539
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:57:term-usage:213-223",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:57",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:delegacion",
+    "span": "Delegación",
+    "start_char": 213,
+    "end_char": 223
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:57:term-usage:265-274",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:57",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 265,
+    "end_char": 274
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:57:term-usage:335-344",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:57",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 335,
+    "end_char": 344
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:58:term-usage:76-89",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:58",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:subdelegacion",
+    "span": "Subdelegación",
+    "start_char": 76,
+    "end_char": 89
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:58:term-usage:175-184",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:58",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 175,
+    "end_char": 184
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:58:term-usage:677-686",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:58",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 677,
+    "end_char": 686
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:58:term-usage:817-823",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:58",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:codigo",
+    "span": "Código",
+    "start_char": 817,
+    "end_char": 823
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:transitory:primero:term-usage:12-22",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:transitory:primero",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 12,
+    "end_char": 22
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:transitory:segundo:term-usage:89-99",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 89,
+    "end_char": 99
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:transitory:tercero:term-usage:28-38",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 28,
+    "end_char": 38
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:transitory:tercero:term-usage:148-157",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 148,
+    "end_char": 157
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:transitory:tercero:term-usage:291-294",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 291,
+    "end_char": 294
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:transitory:cuarto:term-usage:83-93",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 83,
+    "end_char": 93
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:transitory:cuarto:term-usage:99-111",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:delegacion",
+    "span": "Delegaciones",
+    "start_char": 99,
+    "end_char": 111
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:transitory:cuarto:term-usage:208-221",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:subdelegacion",
+    "span": "Subdelegación",
+    "start_char": 208,
+    "end_char": 221
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:transitory:quinto:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:transitory:quinto:term-usage:228-238",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 228,
+    "end_char": 238
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:transitory:quinto:term-usage:324-333",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 324,
+    "end_char": 333
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:transitory:sexto:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:transitory:sexto",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:transitory:sexto:term-usage:166-177",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:transitory:sexto",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:clave-unica",
+    "span": "Clave Única",
+    "start_char": 166,
+    "end_char": 177
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:transitory:septimo:term-usage:35-44",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:transitory:septimo",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 35,
+    "end_char": 44
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:transitory:septimo:term-usage:90-100",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:transitory:septimo",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 90,
+    "end_char": 100
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:transitory:septimo:term-usage:139-154",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:transitory:septimo",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:subdelegacion",
+    "span": "Subdelegaciones",
+    "start_char": 139,
+    "end_char": 154
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:transitory:septimo:term-usage:196-206",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:transitory:septimo",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:delegacion",
+    "span": "Delegación",
+    "start_char": 196,
+    "end_char": 206
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:transitory:septimo:term-usage:397-407",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:transitory:septimo",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 397,
+    "end_char": 407
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:transitory:octavo:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:transitory:octavo",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:transitory:octavo:term-usage:151-161",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:transitory:octavo",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 151,
+    "end_char": 161
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:transitory:noveno:term-usage:23-32",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:transitory:noveno",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 23,
+    "end_char": 32
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:transitory:noveno:term-usage:117-127",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:transitory:noveno",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 117,
+    "end_char": 127
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:transitory:noveno:term-usage:173-189",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:transitory:noveno",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:comite-tecnico",
+    "span": "Comités Técnicos",
+    "start_char": 173,
+    "end_char": 189
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:transitory:noveno:term-usage:210-221",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:transitory:noveno",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:enajenacion",
+    "span": "Enajenación",
+    "start_char": 210,
+    "end_char": 221
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:transitory:noveno:term-usage:314-326",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:transitory:noveno",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:delegacion",
+    "span": "Delegaciones",
+    "start_char": 314,
+    "end_char": 326
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:transitory:noveno:term-usage:331-340",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:transitory:noveno",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 331,
+    "end_char": 340
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:transitory:noveno:term-usage:372-386",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:transitory:noveno",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:comite-tecnico",
+    "span": "Comité Técnico",
+    "start_char": 372,
+    "end_char": 386
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:transitory:noveno:term-usage:407-418",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:transitory:noveno",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:enajenacion",
+    "span": "Enajenación",
+    "start_char": 407,
+    "end_char": 418
+  }
+]

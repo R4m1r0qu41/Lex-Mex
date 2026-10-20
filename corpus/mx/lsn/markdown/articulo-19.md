@@ -17,7 +17,7 @@ source_sha256: 7b3cf7a0ff59f76503a97a535457c4a7dd3b1305e7a36f4fca82bd661eab1168
 
 # Artículo 19
 
-Son atribuciones del Centro:
+Son atribuciones del [Centro](articulo-6.md):
 
 I. Operar tareas de inteligencia como parte del sistema de seguridad nacional que contribuyan a preservar la integridad, estabilidad y permanencia del Estado Mexicano, a dar sustento a la gobernabilidad y a fortalecer el Estado de Derecho;
 
@@ -31,7 +31,7 @@ V. Proponer medidas de prevención, disuasión, contención y desactivación de 
 
 VI. Establecer cooperación interinstitucional con las diversas dependencias de la Administración Pública Federal, autoridades federales, de las entidades federativas y municipales o delegacionales, en estricto apego a sus respectivos ámbitos de competencia con la finalidad de coadyuvar en la preservación de la integridad, estabilidad y permanencia del Estado Mexicano;
 
-VII. Proponer al Consejo el establecimiento de sistemas de cooperación internacional, con el objeto de identificar posibles riesgos y amenazas a la soberanía y seguridad nacionales;
+VII. Proponer al [Consejo](articulo-6.md) el establecimiento de sistemas de cooperación internacional, con el objeto de identificar posibles riesgos y amenazas a la soberanía y seguridad nacionales;
 
 VIII. Adquirir, administrar y desarrollar tecnología especializada para la investigación y difusión confiable de las comunicaciones del Gobierno Federal en materia de Seguridad Nacional, así como para la protección de esas comunicaciones y de la información que posea;
 

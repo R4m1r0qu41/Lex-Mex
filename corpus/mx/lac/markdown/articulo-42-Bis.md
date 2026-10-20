@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAC.pdf
 source_sha256: 07199878c4f94748c983998437198eb7c645ad76967c444dfe26d50a535d23ae
 ---
 
+> Capítulo VIII
+
 # Artículo 42 Bis
 
 Para el servicio al público de transporte aéreo de pasajeros, el concesionario o permisionario, o sus representantes, tiene la obligación de informar y respetar las tarifas y restricciones. Asimismo, es responsable de que la información relativa a las tarifas esté permanentemente a disposición de los pasajeros y de que cumpla los siguientes requisitos:
@@ -23,6 +25,6 @@ II. La información y publicidad relacionada con las tarifas deberán ser exacta
 
 Cada tarifa deberá aplicarse en igualdad de condiciones para todos los pasajeros sin discriminación alguna.
 
-La violación a este artículo se considerará como infracción particularmente grave y se sancionará por la Procuraduría, conforme a lo dispuesto en la Ley Federal de Protección al Consumidor.
+La violación a este artículo se considerará como infracción particularmente grave y se sancionará por la [Procuraduría](articulo-2.md), conforme a lo dispuesto en la Ley Federal de Protección al Consumidor.
 
 Artículo adicionado DOF 26-06-2017

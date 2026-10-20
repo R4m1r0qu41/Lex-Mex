@@ -17,7 +17,7 @@ source_sha256: ea96e97cbea2fd1919af78b94cd3466ee20a77e05989be2d482d2eb8061618c5
 
 # Artículo 37
 
-La Secretaría solicitará, recibirá, compilará y concentrará la información y documentación relativas al patrimonio inmobiliario federal y paraestatal. Para ello, integrará lo siguiente:
+La [Secretaría](articulo-2.md) solicitará, recibirá, compilará y concentrará la información y documentación relativas al patrimonio inmobiliario federal y paraestatal. Para ello, integrará lo siguiente:
 
 I.- Inventario del Patrimonio Inmobiliario Federal y Paraestatal, que estará constituido por una base de datos relativos a los inmuebles, especificando aquéllos utilizados para fines religiosos;
 

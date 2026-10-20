@@ -17,6 +17,6 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Artículo 149
 
-Si la Persona Desaparecida declarada ausente es localizada con vida, ésta puede solicitar, ante el órgano jurisdiccional que declaró la ausencia, la recuperación de sus bienes.
+Si la [Persona Desaparecida](articulo-4.md) declarada ausente es localizada con vida, ésta puede solicitar, ante el órgano jurisdiccional que declaró la ausencia, la recuperación de sus bienes.
 
-Si la persona declarada ausente es encontrada sin vida, sus Familiares pueden solicitar al juez civil competente iniciar los procedimientos que conforme a la legislación civil aplicable correspondan.
+Si la persona declarada ausente es encontrada sin vida, sus [Familiares](articulo-4.md) pueden solicitar al juez civil competente iniciar los procedimientos que conforme a la legislación civil aplicable correspondan.

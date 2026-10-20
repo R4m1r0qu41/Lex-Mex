@@ -17,4 +17,4 @@ source_sha256: 7679afbbf32749e0c0bacab72644d41fc6ccdeeab3a2f25dfae8d26a065de01e
 
 # Artículo 69
 
-El Consejo contará con una Secretaría Ejecutiva, cuya persona titular deberá ser miembro propietario del Consejo, y a propuesta del mismo, será designado, en su caso, por la persona que funja como Presidente del Consejo, cuyas funciones serán desempeñadas a título honorífico.
+El [Consejo](articulo-4.md) contará con una [Secretaría](articulo-4.md) Ejecutiva, cuya persona titular deberá ser miembro propietario del Consejo, y a propuesta del mismo, será designado, en su caso, por la persona que funja como Presidente del Consejo, cuyas funciones serán desempeñadas a título honorífico.

@@ -17,7 +17,7 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 83
 
-Para efectos del artículo [44](../../lan/markdown/articulo-44.md) de la "Ley", en los títulos de asignación respectivos, "La Comisión" y los municipios, entidades federativas, entidades paraestatales o paramunicipales que presten los servicios públicos de agua potable y alcantarillado, establecerán:
+Para efectos del artículo [44](../../lan/markdown/articulo-44.md) de la "[Ley](articulo-1o.md)", en los títulos de asignación respectivos, "[La Comisión](articulo-1o.md)" y los municipios, entidades federativas, entidades paraestatales o paramunicipales que presten los servicios públicos de agua potable y alcantarillado, establecerán:
 
 I. La programación para el aprovechamiento de las fuentes de suministro de agua y la forma de su ejecución; II. Los sitios y formas de medición tanto del suministro como de la descarga de aguas residuales;
 

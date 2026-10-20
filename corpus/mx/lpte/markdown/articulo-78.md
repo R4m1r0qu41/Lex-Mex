@@ -17,4 +17,4 @@ source_sha256: c24aa3a57883383635d5271683dd76e561f21852328f0e89f6bf1c2a09aa2d41
 
 # Artículo 78
 
-El reconocimiento de excelencia en Eficiencia Energética está a cargo de la Secretaría, con el apoyo técnico de la CONUEE. Para su evaluación y otorgamiento, la CONUEE puede solicitar el apoyo de la Secretaría de Medio Ambiente y Recursos Naturales, de la Secretaría de Economía y de la Secretaría de Desarrollo Agrario, Territorial y Urbano.
+El reconocimiento de excelencia en [Eficiencia Energética](articulo-3.md) está a cargo de la [Secretaría](articulo-3.md), con el apoyo técnico de la [CONUEE](articulo-3.md). Para su evaluación y otorgamiento, la CONUEE puede solicitar el apoyo de la Secretaría de Medio Ambiente y Recursos Naturales, de la Secretaría de Economía y de la Secretaría de Desarrollo Agrario, Territorial y Urbano.

@@ -17,6 +17,6 @@ source_sha256: 71ee875c26fc6a1024ea9481ca0690721959514689d860112c3093f0176dfcfb
 
 # Artículo 44
 
-Corresponde al Sistema, a través de su Presidencia, la emisión de lineamientos normativos y metodológicos para prevenir, atender, sancionar y erradicar la Violencia contra las Mujeres en las Modalidades y tipos establecidos en la Ley. Para la emisión de lineamientos metodológicos, la Presidencia se coordinará con la Secretaría Ejecutiva.
+Corresponde al Sistema, a través de su Presidencia, la emisión de lineamientos normativos y metodológicos para prevenir, atender, sancionar y erradicar la Violencia contra las Mujeres en las Modalidades y tipos establecidos en la Ley. Para la emisión de lineamientos metodológicos, la Presidencia se coordinará con la [Secretaría Ejecutiva](articulo-2.md).
 
 Artículo reformado DOF 25-11-2013

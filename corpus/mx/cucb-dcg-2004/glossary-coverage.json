@@ -1,0 +1,49 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-3",
+  "instrument_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004",
+  "source_sha256": "98762f18214a47011d5f4f3d4eb63bf776be8e1528cc08888adaf47fe2829e85",
+  "extracted_text_sha256": "80e27236d2005570a911100d226d43401c8329a885be785e7e619b7075bffe2a",
+  "status": "detected",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1",
+      "provision_text_sha256": "b8a49128dcf75144528519ec5453538ffdc171904a31744ce19193c6c4bcf375",
+      "method": "established_pass",
+      "fractions": [
+        "I",
+        "II",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII",
+        "XIII",
+        "XIV",
+        "XV",
+        "XVI",
+        "XVII",
+        "XVIII",
+        "XIX",
+        "XXII",
+        "XXIV",
+        "XXVI",
+        "XXVII",
+        "XXVIII",
+        "XXIX",
+        "XXX",
+        "XXXI",
+        "XXXII"
+      ],
+      "unread_fractions": [],
+      "term_count": 27
+    }
+  ],
+  "imports": [],
+  "term_count": 27,
+  "usage_count": 303
+}

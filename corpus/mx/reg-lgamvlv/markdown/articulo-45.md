@@ -17,4 +17,4 @@ source_sha256: 71ee875c26fc6a1024ea9481ca0690721959514689d860112c3093f0176dfcfb
 
 # Artículo 45
 
-El Sistema, por medio de la Secretaría Ejecutiva, podrá invitar a las personas titulares del Poder Ejecutivo de las entidades federativas, a integrar un Consejo, que conozca y actualice el Programa, sin perjuicio de los convenios de coordinación que celebren con los gobiernos de las entidades federativas.
+El Sistema, por medio de la [Secretaría Ejecutiva](articulo-2.md), podrá invitar a las personas titulares del Poder Ejecutivo de las entidades federativas, a integrar un Consejo, que conozca y actualice el Programa, sin perjuicio de los convenios de coordinación que celebren con los gobiernos de las entidades federativas.

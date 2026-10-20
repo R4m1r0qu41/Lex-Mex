@@ -15,6 +15,6 @@ source_sha256: c1870db657a6564bbeb692a1778472db811a920626822de553ff5ca5194f95b4
 
 # Décimo Tercero
 
-Los pagos de derechos que en materia de bioenergéticos o Biocombustibles se establecen en favor de la Comisión Reguladora de Energía en la Ley Federal de Derechos, se entienden en favor de la SENER.
+Los pagos de derechos que en materia de bioenergéticos o [Biocombustibles](articulo-2.md) se establecen en favor de la Comisión Reguladora de Energía en la [Ley](articulo-2.md) Federal de Derechos, se entienden en favor de la [SENER](articulo-2.md).
 
 ARTÍCULO SÉPTIMO A ARTÍCULO DÉCIMO.- ………

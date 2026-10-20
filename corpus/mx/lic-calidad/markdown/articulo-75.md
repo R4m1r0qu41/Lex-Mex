@@ -17,13 +17,13 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 # Artículo 75
 
-Los Estándares deben contener en lo conducente y sujeto a lo previsto en el Reglamento de esta Ley:
+Los [Estándares](articulo-4.md) deben contener en lo conducente y sujeto a lo previsto en el Reglamento de esta Ley:
 
 I. Clave, título, objetivo y campo de aplicación del Estándar;
 
-II. En su caso, la referencia a otros Estándares, así como a Normas Internacionales para su implementación;
+II. En su caso, la referencia a otros Estándares, así como a [Normas Internacionales](articulo-4.md) para su implementación;
 
-III. Procedimiento de Evaluación de la Conformidad, cuando resulte procedente conforme a la naturaleza del bien, producto, proceso y servicio; IV. Identificar las Normas Internacionales aplicables en la materia y establecer el grado de concordancia de la propuesta con las mismas, señalando si es idéntica, modificada o no equivalente;
+III. [Procedimiento de Evaluación de la Conformidad](articulo-4.md), cuando resulte procedente conforme a la naturaleza del bien, producto, proceso y servicio; IV. Identificar las Normas Internacionales aplicables en la materia y establecer el grado de concordancia de la propuesta con las mismas, señalando si es idéntica, modificada o no equivalente;
 
 V. La bibliografía que corresponda, incluyendo, entre otros, los Estándares, las Normas Internacionales y los Reglamentos Técnicos que, en su caso, se tomaron como referencia para la elaboración de la propuesta de Estándar;
 

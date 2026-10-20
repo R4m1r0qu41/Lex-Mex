@@ -21,4 +21,4 @@ El patrón podrá sustituir al contador público autorizado, que hubiera designa
 
 Cuando el contador público autorizado no pueda formular el dictamen por incapacidad física o impedimento legal comprobados, el aviso para sustituirlo se podrá dar en cualquier tiempo antes de que concluya el plazo para presentar el dictamen.
 
-Si existe sustitución del contador público autorizado, el Instituto podrá autorizar, a solicitud del patrón, que el dictamen se presente dentro de los dos meses siguientes al plazo previsto en el artículo [161](articulo-161.md) de este Reglamento. REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN
+Si existe sustitución del contador público autorizado, el [Instituto](../../lss/markdown/articulo-5-A.md) podrá autorizar, a solicitud del patrón, que el dictamen se presente dentro de los dos meses siguientes al plazo previsto en el artículo [161](articulo-161.md) de este Reglamento. REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN

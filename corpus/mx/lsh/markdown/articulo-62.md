@@ -17,4 +17,4 @@ source_sha256: 1405f36fd836ff74d059ebe7e50ae439cbb9e5e291a317514667f34a26f72a23
 
 # Artículo 62
 
-La Secretaría de Energía puede realizar o contratar, conforme a las disposiciones aplicables en materia de contrataciones públicas, a Petróleos Mexicanos, a otras entidades públicas, a instituciones académicas y a cualquier otra persona para llevar a cabo actividades de Reconocimiento y Exploración Superficial, a cambio de una contraprestación, que en todos los casos debe estar referida a condiciones de mercado.
+La Secretaría de Energía puede realizar o contratar, conforme a las disposiciones aplicables en materia de contrataciones públicas, a [Petróleos](articulo-5.md) Mexicanos, a otras entidades públicas, a instituciones académicas y a cualquier otra persona para llevar a cabo actividades de [Reconocimiento y Exploración Superficial](articulo-5.md), a cambio de una contraprestación, que en todos los casos debe estar referida a condiciones de mercado.

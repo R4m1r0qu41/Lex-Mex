@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Primero · Capítulo I
+
 # Artículo 690
 
 La persona designada como interventor recibirá los bienes por inventario y tendrá el carácter de simple depositario o depositaria, sin poder desempeñar otras funciones administrativas que las de mera conservación y las que se refieran al pago de las deudas mortuorias con autorización judicial.

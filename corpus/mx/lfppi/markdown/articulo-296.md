@@ -17,4 +17,4 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 296
 
-Para obtener el reconocimiento en el extranjero de las denominaciones de origen o indicaciones geográficas nacionales, protegidas en términos de esta Ley, el Instituto de manera directa o por conducto de la autoridad competente, realizará las gestiones necesarias de conformidad con los Tratados Internacionales, acuerdos comerciales o legislación del país que corresponda.
+Para obtener el reconocimiento en el extranjero de las denominaciones de origen o indicaciones geográficas nacionales, protegidas en términos de esta [Ley](articulo-4.md), el [Instituto](articulo-4.md) de manera directa o por conducto de la autoridad competente, realizará las gestiones necesarias de conformidad con los [Tratados Internacionales](articulo-4.md), acuerdos comerciales o legislación del país que corresponda.

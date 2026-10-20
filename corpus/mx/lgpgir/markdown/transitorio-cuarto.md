@@ -15,4 +15,4 @@ source_sha256: b34326588bd6e7519e33411d3658239e3aefb56cef0fae5d775bc894af64a565
 
 # CUARTO
 
-Todos los procedimientos, recursos administrativos y demás asuntos relacionados con las materias a que refiere esta Ley, iniciados con anterioridad a la entrada en vigor al presente Decreto, se tramitarán y resolverán conforme a las disposiciones vigentes en ese momento.
+Todos los procedimientos, recursos administrativos y demás asuntos relacionados con las materias a que refiere esta [Ley](articulo-5.md), iniciados con anterioridad a la entrada en vigor al presente Decreto, se tramitarán y resolverán conforme a las disposiciones vigentes en ese momento.

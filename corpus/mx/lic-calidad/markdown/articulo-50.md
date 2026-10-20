@@ -17,11 +17,11 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 # Artículo 50
 
-Las Entidades de Acreditación deberán, en los términos previstos en el Reglamento de la Ley:
+Las [Entidades de Acreditación](articulo-4.md) deberán, en los términos previstos en el Reglamento de la Ley:
 
 I. Cumplir en todo momento con las condiciones y términos conforme a los cuales se le otorgó la autorización;
 
-II. Resolver las solicitudes de acreditación que le sean presentadas de manera imparcial; emitir las acreditaciones correspondientes y notificarlo a la Autoridad Normalizadora competente por materia, así como a la Secretaría;
+II. Resolver las solicitudes de acreditación que le sean presentadas de manera imparcial; emitir las acreditaciones correspondientes y notificarlo a la [Autoridad Normalizadora](articulo-4.md) competente por materia, así como a la [Secretaría](articulo-4.md);
 
 III. Permitir la presencia de representantes de las Autoridades Normalizadoras que así lo soliciten en el desarrollo de sus funciones;
 
@@ -29,7 +29,7 @@ IV. Integrar y coordinar los comités de evaluación para la acreditación;
 
 V. Incorporar a sus evaluadores en el Padrón Nacional de Evaluadores que disponga la Secretaría;
 
-VI. Revisar periódicamente el cumplimiento por parte de los Organismos de Evaluación de la Conformidad con las condiciones y requisitos que sirvieron de base para su acreditación;
+VI. Revisar periódicamente el cumplimiento por parte de los [Organismos de Evaluación de la Conformidad](articulo-4.md) con las condiciones y requisitos que sirvieron de base para su acreditación;
 
 VII. A solicitud de la Secretaría o de las Autoridades Normalizadoras, informar sobre los resultados de las revisiones y supervisiones que realicen de los Organismos de Evaluación de la Conformidad;
 
@@ -47,13 +47,13 @@ XIII. Mantener para consulta de cualquier interesado un catálogo clasificado y 
 
 XIV. Poner a consulta de cualquier interesado, información relativa a sus derechos y obligaciones; los medios a través de los cuales obtiene ingresos económicos; los acuerdos y reconocimientos internacionales en los que está involucrada; los esquemas de acreditación, incluyendo sus procesos de evaluación; las tarifas relativas a la acreditación; y la descripción de los derechos y obligaciones de los organismos de evaluación de la conformidad;
 
-XV. Ajustarse a las reglas, procedimientos y métodos que se establezcan en las Normas Oficiales Mexicanas, Estándares o Normas Internacionales ahí referidos o de otras disposiciones legales en materia de Evaluación de la Conformidad;
+XV. Ajustarse a las reglas, procedimientos y métodos que se establezcan en las [Normas Oficiales Mexicanas](articulo-4.md), [Estándares](articulo-4.md) o [Normas Internacionales](articulo-4.md) ahí referidos o de otras disposiciones legales en materia de [Evaluación de la Conformidad](articulo-4.md);
 
 XVI. Prestar sus servicios en condiciones no discriminatorias y observar las demás disposiciones en materia de competencia económica;
 
 XVII. Evitar la existencia de conflictos de interés que puedan afectar sus actuaciones y excusarse de actuar cuando existan tales conflictos;
 
-XVIII. Permitir la Vigilancia de sus actividades por parte de la Secretaría y de las Autoridades Normalizadoras en el ámbito de sus respectivas competencias;
+XVIII. Permitir la [Vigilancia](articulo-4.md) de sus actividades por parte de la Secretaría y de las Autoridades Normalizadoras en el ámbito de sus respectivas competencias;
 
 XIX. Actuar con imparcialidad e independencia, observando los principios previstos en esta Ley;
 

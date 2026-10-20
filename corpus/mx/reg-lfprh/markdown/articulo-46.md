@@ -17,7 +17,7 @@ source_sha256: 030ed4c6e3950adecfd4c6376b31d216dc4d876d90b21190c982bccac0b03d7a
 
 # Artículo 46
 
-La [Cartera](articulo-2.md) se integrará con los conceptos señalados en las fracciones de este artículo que cuenten con la Evaluación costo y beneficio correspondiente, presentada por las dependencias y entidades a través del sistema de programas y proyectos de inversión. Párrafo reformado DOF 04-09-2009, 08-08-2025
+La [Cartera](articulo-2.md) se integrará con los conceptos señalados en las fracciones de este artículo que cuenten con la [Evaluación costo y beneficio](articulo-2.md) correspondiente, presentada por las dependencias y entidades a través del sistema de programas y proyectos de inversión. Párrafo reformado DOF 04-09-2009, 08-08-2025
 
 Se deberá solicitar el registro en la Cartera de: I. Los programas y proyectos de inversión que ejecuten las dependencias y entidades;
 

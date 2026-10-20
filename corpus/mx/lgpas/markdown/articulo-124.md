@@ -17,4 +17,4 @@ source_sha256: 160e5e85efddb1749a79f6b154af31711a9b31a5e32bace3c07e2859c2620ecf
 
 # Artículo 124
 
-Para verificar y comprobar el cumplimiento de esta Ley, sus disposiciones reglamentarias, las normas oficiales que de ella deriven, la Secretaría realizará los actos de inspección y vigilancia, por conducto de personal debidamente autorizado y con la participación de la Secretaría de Marina en los casos en que corresponda.
+Para verificar y comprobar el cumplimiento de esta Ley, sus disposiciones reglamentarias, las normas oficiales que de ella deriven, la [Secretaría](articulo-4o.md) realizará los actos de inspección y vigilancia, por conducto de personal debidamente autorizado y con la participación de la Secretaría de Marina en los casos en que corresponda.

@@ -17,6 +17,6 @@ source_sha256: 01b72308e67d46ba6ca8a6b07fb7584c6a74e905ea0c4b5be5c0c0d32a6d817a
 
 # Artículo 88
 
-Al término de cada sesión, la persona titular de la Secretaría de la Comisión de Evaluación, elaborará el reporte de análisis y consulta con los resultados e incidentes que se presenten.
+Al término de cada sesión, la persona titular de la Secretaría de la [Comisión de Evaluación](articulo-5.md), elaborará el reporte de análisis y consulta con los resultados e incidentes que se presenten.
 
 Artículo reformado DOF 20-03-2026

@@ -17,4 +17,4 @@ source_sha256: 4fadf9a6f2d22a9e48d8e29ed302456751da66eb723e0df1dc6ac45a5e4640b0
 
 # Artículo 12
 
-Cuando el procedimiento de Declaración Especial de Ausencia verse sobre una Persona Desaparecida que sea migrante, el Mecanismo de Apoyo Exterior garantizará a los Familiares de ésta el acceso a dicho procedimiento, en términos de su competencia. Asimismo, el Órgano Jurisdiccional dictará las medidas necesarias para la protección de la Persona Desaparecida y sus Familiares.
+Cuando el procedimiento de [Declaración Especial de Ausencia](articulo-3.md) verse sobre una [Persona Desaparecida](articulo-3.md) que sea migrante, el [Mecanismo de Apoyo Exterior](articulo-3.md) garantizará a los [Familiares](articulo-3.md) de ésta el acceso a dicho procedimiento, en términos de su competencia. Asimismo, el [Órgano Jurisdiccional](articulo-3.md) dictará las medidas necesarias para la protección de la Persona Desaparecida y sus Familiares.

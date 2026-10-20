@@ -20,7 +20,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 Para efectos de la presente Sección se entenderá por:
 
-I. Riesgo de crédito: a las posibles pérdidas para la Sociedad Financiera Popular por la falta de pago de un acreditado.
+I. Riesgo de crédito: a las posibles pérdidas para la [Sociedad](articulo-1.md) Financiera Popular por la falta de pago de un acreditado.
 
 II. Riesgo operativo: a las posibles pérdidas para la Sociedad Financiera Popular por errores o fallas en el desarrollo de las actividades administrativas y operativas del negocio.
 
@@ -32,7 +32,7 @@ a) Por lo que hace al riesgo de crédito en general, establecer políticas y pro
 
 2. En su caso, sector económico y zona geográfica en los que la Sociedad Financiera Popular podrá celebrar operaciones;
 
-3. Límites de riesgo a cargo de un Cliente, grupo de Clientes o Grupo de personas que representen un “Riesgo Común”, de conformidad con lo establecido en el artículo [209 Bis 8](articulo-209-Bis-8.md) de las presentes disposiciones, y
+3. Límites de riesgo a cargo de un Cliente, grupo de Clientes o [Grupo de personas](articulo-1.md) que representen un “Riesgo Común”, de conformidad con lo establecido en el artículo [209 Bis 8](articulo-209-Bis-8.md) de las presentes disposiciones, y
 
 4. Vigilancia y control efectivo de la naturaleza, características, diversificación y calidad del portafolio de crédito.
 

@@ -17,6 +17,6 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 # Artículo 89
 
-Cuando la Comisión identifique que un Estándar vulnere, afecte o ponga en riesgo el adecuado desarrollo del mercado, deberá dar vista a la Comisión Federal de Competencia Económica para los efectos conducentes.
+Cuando la [Comisión](articulo-4.md) identifique que un [Estándar](articulo-4.md) vulnere, afecte o ponga en riesgo el adecuado desarrollo del mercado, deberá dar vista a la Comisión Federal de Competencia Económica para los efectos conducentes.
 
 Capítulo V Cumplimiento de los Estándares y su Demostración

@@ -21,4 +21,4 @@ La solicitud de autorización de un OGM deberá acompañarse de los siguientes r
 
 II. Los demás requisitos que se determinen en las normas oficiales mexicanas que deriven de esta Ley.
 
-Los lineamientos, criterios, características y requisitos de los estudios de los posibles riesgos que los OGMs puedan causar a la salud humana, serán determinados por la SSA en las normas oficiales mexicanas que expida conforme a esta Ley.
+Los lineamientos, criterios, características y requisitos de los estudios de los posibles riesgos que los OGMs puedan causar a la salud humana, serán determinados por la [SSA](articulo-3.md) en las normas oficiales mexicanas que expida conforme a esta Ley.

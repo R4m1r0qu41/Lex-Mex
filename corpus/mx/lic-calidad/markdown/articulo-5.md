@@ -17,15 +17,15 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 # Artículo 5
 
-El Sistema Nacional de Infraestructura de la Calidad, se sustenta en los siguientes principios generales:
+El [Sistema Nacional de Infraestructura de la Calidad](articulo-4.md), se sustenta en los siguientes principios generales:
 
 I. Planeación. Las actividades de normalización deben estar alineadas a las políticas públicas derivadas del Sistema Nacional de Planeación Democrática.
 
-II. Transparencia. Los procesos de elaboración y aplicación de las Normas Oficiales Mexicanas y los Estándares deben ser abiertos y accesibles a todos los sectores económicos y sociales. III. Integridad. Se debe evitar la presencia de conflictos de intereses en la actuación de las Autoridades Normalizadoras, los Organismos Nacionales de Estandarización, los demás sujetos facultados para estandarizar, las Entidades de Acreditación, los Organismos de Evaluación de la Conformidad, el Centro Nacional de Metrología y los Institutos Designados de Metrología.
+II. Transparencia. Los procesos de elaboración y aplicación de las [Normas Oficiales Mexicanas](articulo-4.md) y los [Estándares](articulo-4.md) deben ser abiertos y accesibles a todos los sectores económicos y sociales. III. Integridad. Se debe evitar la presencia de conflictos de intereses en la actuación de las [Autoridades Normalizadoras](articulo-4.md), los Organismos Nacionales de Estandarización, los demás sujetos facultados para estandarizar, las [Entidades de Acreditación](articulo-4.md), los [Organismos de Evaluación de la Conformidad](articulo-4.md), el Centro Nacional de Metrología y los Institutos Designados de Metrología.
 
 IV. Certidumbre. Los integrantes del Sistema Nacional de Infraestructura de la Calidad deben actuar en estricto apego a las disposiciones legales aplicables.
 
-V. Eficiencia. Se deben optimizar los recursos relativos a las actividades de normalización, estandarización, Evaluación de la Conformidad y metrología, así como simplificar los procesos en su gestión y tiempo de ejecución.
+V. Eficiencia. Se deben optimizar los recursos relativos a las actividades de normalización, estandarización, [Evaluación de la Conformidad](articulo-4.md) y metrología, así como simplificar los procesos en su gestión y tiempo de ejecución.
 
 VI. Agilidad. Los procedimientos en la elaboración, revisión y cancelación de Normas Oficiales Mexicanas y Estándares deben efectuarse de manera pronta y expedita y, para el caso de las Normas Oficiales Mexicanas, buscando una atención óptima a los objetivos legítimos de interés público previstos en esta Ley, así como favorecer los avances tecnológicos y cumplir con los fines de la presente Ley.
 
@@ -35,7 +35,7 @@ VIII. Mejores prácticas internacionales. Las Normas Oficiales Mexicanas y los E
 
 IX. Calidad. Coadyuvar a la mejora continua en la producción de bienes y prestación de servicios, que aumente la competitividad de la economía del país y su capacidad para participar en el comercio internacional y en las cadenas productivas que generen valor.
 
-X. Coherencia. Las Normas Oficiales Mexicanas y los Estándares serán armónicos con las Normas Internacionales para no generar barreras técnicas innecesarias al comercio, así como para no restringir el intercambio comercial ni la competencia interna.
+X. Coherencia. Las Normas Oficiales Mexicanas y los Estándares serán armónicos con las [Normas Internacionales](articulo-4.md) para no generar barreras técnicas innecesarias al comercio, así como para no restringir el intercambio comercial ni la competencia interna.
 
 XI. Sostenibilidad. Las actividades de normalización, estandarización, acreditación, evaluación de la conformidad y metrología se basan en el desarrollo sostenible, teniendo presente un impacto positivo en los sectores económicos e industriales del país.
 

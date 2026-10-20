@@ -17,4 +17,4 @@ source_sha256: 716e427a30e9982ccaa0576288aad2ad5305c624b236a0f342b6a87d60b7a9ed
 
 # Artículo 84
 
-Para la emisión de los Certificados de Energías Limpias, además de lo establecido en el artículo [60](../../lpte/markdown/articulo-60.md) de la Ley, se debe considerar la planeación vinculante del Sector Energético y la trazabilidad de la generación de energía eléctrica a partir de Energías Renovables y Energías Limpias.
+Para la emisión de los Certificados de Energías Limpias, además de lo establecido en el artículo [60](../../lpte/markdown/articulo-60.md) de la [Ley](articulo-5.md), se debe considerar la planeación vinculante del Sector Energético y la trazabilidad de la generación de energía eléctrica a partir de Energías Renovables y Energías Limpias.

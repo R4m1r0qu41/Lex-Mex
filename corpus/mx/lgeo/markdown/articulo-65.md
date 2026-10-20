@@ -17,4 +17,4 @@ source_sha256: 67309bf186af42de0f9e98010d38c89598676faea7f2b558ac9c9e6736d64d35
 
 # Artículo 65
 
-Las sanciones previstas en la presente Ley se imponen sin perjuicio de la responsabilidad civil, penal o administrativa que resulte y, en su caso, de la revocación del Permiso de Exploración, Concesión o Permiso para Usos Diversos correspondiente. Asimismo, la imposición de dichas sanciones no implica, por sí misma, responsabilidad administrativa, civil o penal de los servidores públicos.
+Las sanciones previstas en la presente [Ley](articulo-2.md) se imponen sin perjuicio de la responsabilidad civil, penal o administrativa que resulte y, en su caso, de la revocación del [Permiso de Exploración](articulo-2.md), [Concesión](articulo-2.md) o [Permiso para Usos Diversos](articulo-2.md) correspondiente. Asimismo, la imposición de dichas sanciones no implica, por sí misma, responsabilidad administrativa, civil o penal de los servidores públicos.

@@ -21,4 +21,4 @@ En todo lo no previsto por los artículos [221](articulo-221.md) a [223](articul
 
 Las operaciones de conclusión de la liquidación convencional se regirán por lo establecido en los artículos [216](articulo-216.md) al [220](articulo-220.md) de esta Ley.
 
-Artículo adicionado DOF 10-01-2014 Apartado C De la Liquidación Judicial de las Instituciones de Banca Múltiple Apartado adicionado DOF 10-01-2014
+Artículo adicionado DOF 10-01-2014

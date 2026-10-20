@@ -17,7 +17,7 @@ source_sha256: cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7
 
 # Artículo 24
 
-El nombramiento del Presidente deberá recaer en persona que reúna los siguientes requisitos:
+El nombramiento del [Presidente](articulo-2o.md) deberá recaer en persona que reúna los siguientes requisitos:
 
 I. Ser ciudadano mexicano y estar en pleno goce de sus derechos civiles y políticos;
 

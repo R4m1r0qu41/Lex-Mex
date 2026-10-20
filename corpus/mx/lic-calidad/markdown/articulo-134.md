@@ -17,6 +17,6 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 # Artículo 134
 
-Siempre que la Secretaría lo autorice, las actividades de normalización y Evaluación de la Conformidad podrán realizarse en línea, total o parcialmente, a través de la Plataforma Tecnológica Integral de Infraestructura de la Calidad.
+Siempre que la [Secretaría](articulo-4.md) lo autorice, las actividades de normalización y [Evaluación de la Conformidad](articulo-4.md) podrán realizarse en línea, total o parcialmente, a través de la [Plataforma Tecnológica Integral de Infraestructura de la Calidad](articulo-4.md).
 
 Para esos efectos, la Secretaría emitirá los lineamientos que regularán el acceso a la misma por parte de los interesados, así como los formatos electrónicos que deberán utilizarse para esos efectos; dichos lineamientos deberán publicarse en el Diario Oficial de la Federación y en la misma Plataforma Tecnológica Integral de Infraestructura de la Calidad.

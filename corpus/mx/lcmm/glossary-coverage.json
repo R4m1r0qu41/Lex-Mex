@@ -1,0 +1,12 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-3",
+  "instrument_id": "urn:lex-mx:federal:statute:lcmm",
+  "source_sha256": "873553817446789f00863e9cbc4a25bfbbf762cafa2dafd504577eb897796954",
+  "extracted_text_sha256": "e583a6588efd3672b45425ea86ffce8b8be1f39a348e9e0f05202429522f8df4",
+  "status": "none_detected",
+  "glossaries": [],
+  "imports": [],
+  "term_count": 0,
+  "usage_count": 0
+}

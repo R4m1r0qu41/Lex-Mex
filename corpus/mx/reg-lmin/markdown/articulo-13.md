@@ -17,7 +17,7 @@ source_sha256: 4d25bcb022ab62a24462e11a230c9554c0120012913ab4599cd3ec1b2b275c1d
 
 # Artículo 13
 
-La solicitud para que el Servicio Geológico proporcione la asesoría técnica en materia de cubicación de depósitos minerales y análisis físico-químicos de contenidos económicamente aprovechables, a que se refiere el artículo 9o., último párrafo, fracción VII de la Ley deberá contener los siguientes requisitos:
+La solicitud para que el [Servicio Geológico](articulo-1o.md) proporcione la asesoría técnica en materia de cubicación de depósitos minerales y análisis físico-químicos de contenidos económicamente aprovechables, a que se refiere el artículo 9o., último párrafo, fracción VII de la [Ley](articulo-1o.md) deberá contener los siguientes requisitos:
 
 I. Descripción de la actividad productiva que desarrolla;
 

@@ -17,4 +17,4 @@ source_sha256: 9816ce7f9d6b9b1781eb9935869bd45677c60d721d3352865b6524c2e75db8cd
 
 # Artículo 7
 
-La Subdelegación solicitará a la Jefatura de Servicios Administrativos que corresponda a través del responsable de almacén la recepción de los bienes.
+La [Subdelegación](articulo-2.md) solicitará a la Jefatura de Servicios Administrativos que corresponda a través del responsable de almacén la recepción de los bienes.

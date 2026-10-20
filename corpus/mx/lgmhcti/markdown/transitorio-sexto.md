@@ -15,4 +15,4 @@ source_sha256: 5a0e15e01ac963917e019e3cc4ad07e96d76cc6c82c8b4238dfbb3a58a146847
 
 # Sexto
 
-En un plazo de un año, contado a partir de la entrada en vigor de esta Ley, el Consejo Nacional expedirá las disposiciones reglamentarias y administrativas a que se refiere este ordenamiento legal, así como aquéllas necesarias para su cabal cumplimiento, en concordancia con su contenido.
+En un plazo de un año, contado a partir de la entrada en vigor de esta [Ley](articulo-4.md), el [Consejo Nacional](articulo-4.md) expedirá las disposiciones reglamentarias y administrativas a que se refiere este ordenamiento legal, así como aquéllas necesarias para su cabal cumplimiento, en concordancia con su contenido.

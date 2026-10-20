@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo I
+
 # Artículo 608
 
 Dentro del primer mes de cada año, en audiencia pública con citación del Consejo Local de Tutelas, Procuraduría de Protección para Niñas, Niños y Adolescentes, del Representante de la Institución análoga de la Entidad Federativa de que se trate, así como del Ministerio Público de la adscripción, se procederá a examinar dicho registro y ya en su vista, recibirá la rendición de cuentas, la exhibición del informe médico y dictará las medidas que estime pertinentes:

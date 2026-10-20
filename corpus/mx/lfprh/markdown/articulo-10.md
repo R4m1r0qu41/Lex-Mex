@@ -25,6 +25,6 @@ II. Los recursos se identificarán específicamente en una subcuenta, misma que 
 
 III. En el caso de fideicomisos constituidos por particulares, la suma de los recursos públicos federales otorgados no podrá representar, en ningún momento, más del 50 por ciento del saldo en el patrimonio neto de los mismos;
 
-IV. Tratándose de fideicomisos constituidos por las entidades federativas, se requerirá la autorización del titular de la dependencia o entidad para otorgar recursos públicos federales que representen más del 50 por ciento del saldo en el patrimonio neto de los mismos, informando de ello a la [Secretaría](articulo-2.md) y a la Función Pública, y
+IV. Tratándose de fideicomisos constituidos por las entidades federativas, se requerirá la autorización del titular de la dependencia o entidad para otorgar recursos públicos federales que representen más del 50 por ciento del saldo en el patrimonio neto de los mismos, informando de ello a la [Secretaría](articulo-2.md) y a la [Función Pública](articulo-2.md), y
 
 V. Si existe compromiso recíproco de la entidad federativa o de los particulares y del Gobierno Federal para otorgar recursos al patrimonio y aquéllos incumplen, el Gobierno Federal, por conducto de la dependencia o entidad con cargo a cuyo presupuesto se hayan otorgado los recursos, suspenderá las aportaciones subsecuentes.

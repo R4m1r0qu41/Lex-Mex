@@ -17,8 +17,8 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 66
 
-Bastará un simple aviso por escrito al "Registro", cuando:
+Bastará un simple aviso por escrito al "[Registro](articulo-1o.md)", cuando:
 
 I. Sólo se cambie de titular de la concesión o asignación, incluyendo los supuestos previstos en el [artículo anterior](articulo-65.md), siempre y cuando no se modifiquen las características del título respectivo, o
 
-II. Se trate de alguna de las cuencas, entidades federativas, zona o localidad a que se refieran los acuerdos que publique "La Comisión", en los términos del artículo [34](../../lan/markdown/articulo-34.md) de la "Ley" en los que se autoricen las transmisiones de los títulos respectivos sin mayor trámite que su inscripción en el "Registro", sin perjuicio y quedando a salvo los derechos de terceros.
+II. Se trate de alguna de las cuencas, entidades federativas, zona o localidad a que se refieran los acuerdos que publique "[La Comisión](articulo-1o.md)", en los términos del artículo [34](../../lan/markdown/articulo-34.md) de la "[Ley](articulo-1o.md)" en los que se autoricen las transmisiones de los títulos respectivos sin mayor trámite que su inscripción en el "Registro", sin perjuicio y quedando a salvo los derechos de terceros.

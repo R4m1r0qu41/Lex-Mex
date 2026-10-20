@@ -18,6 +18,6 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 329
 
-Las Sociedades Financieras Populares, proporcionarán trimestralmente a la Comisión y al Comité de Supervisión de la Federación que las supervise, la información a que se refieren las Series R13, R28, exclusivamente por lo que se refiere a los reportes A-1311, A-1316, A-2811 y A-2813, R15 y R24, con cifras a los meses de marzo, junio, septiembre y diciembre, a más tardar el último día del mes inmediato siguiente al que correspondan. Tratándose del reporte regulatorio correspondiente a la Serie R15, la información debe ser acumulada del trimestre que se reporta.
+Las [Sociedades](articulo-1.md) Financieras Populares, proporcionarán trimestralmente a la Comisión y al Comité de Supervisión de la [Federación](articulo-1.md) que las supervise, la información a que se refieren las Series R13, R28, exclusivamente por lo que se refiere a los reportes A-1311, A-1316, A-2811 y A-2813, R15 y R24, con cifras a los meses de marzo, junio, septiembre y diciembre, a más tardar el último día del mes inmediato siguiente al que correspondan. Tratándose del reporte regulatorio correspondiente a la Serie R15, la información debe ser acumulada del trimestre que se reporta.
 
 Último párrafo.- Derogado.

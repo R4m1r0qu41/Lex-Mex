@@ -15,4 +15,4 @@ source_sha256: add375b17749965073df032027c6cafb7883ab25bfae2f13e34ba41b1ff24e88
 
 # SEGUNDO
 
-Además de la legislación aplicable para la difusión de la presente Ley, las autoridades nacionales y la Cruz Roja Mexicana a las que se hace referencia en la presente Ley, adoptarán las medidas necesarias para que su contenido sea lo más ampliamente conocido.
+Además de la legislación aplicable para la difusión de la presente Ley, las autoridades nacionales y la [Cruz Roja Mexicana](articulo-3.md) a las que se hace referencia en la presente Ley, adoptarán las medidas necesarias para que su contenido sea lo más ampliamente conocido.

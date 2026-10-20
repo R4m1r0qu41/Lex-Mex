@@ -1,0 +1,31 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-3",
+  "instrument_id": "urn:lex-mx:federal:statute:lgbn",
+  "source_sha256": "ea96e97cbea2fd1919af78b94cd3466ee20a77e05989be2d482d2eb8061618c5",
+  "extracted_text_sha256": "b21fe706673c1a3136ff80a19187c9ada084f06e04e35b3bf9f4c30c9dd78018",
+  "status": "detected",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lgbn:article:2",
+      "provision_text_sha256": "a1260d7b57fe3b8c0844dd7112138bd24b5a6517f55a8b0cb80ff5ddc5e1e271",
+      "method": "wider_pass",
+      "fractions": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX"
+      ],
+      "repeal_placeholders": [],
+      "term_count": 9
+    }
+  ],
+  "imports": [],
+  "term_count": 9,
+  "usage_count": 358
+}

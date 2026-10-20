@@ -17,4 +17,4 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 272
 
-Sin perjuicio de lo dispuesto por los Artículos [270](articulo-270.md) y [271](articulo-271.md) anteriores, los Organismos de Integración deberán tener permanentemente actualizada la información del Registro, la cual deberá estar a disposición de la Comisión.
+Sin perjuicio de lo dispuesto por los Artículos [270](articulo-270.md) y [271](articulo-271.md) anteriores, los Organismos de Integración deberán tener permanentemente actualizada la información del [Registro](articulo-1.md), la cual deberá estar a disposición de la Comisión.

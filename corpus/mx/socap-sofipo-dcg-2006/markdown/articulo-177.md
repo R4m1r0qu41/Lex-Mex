@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 177
 
-En materia del sistema de control interno, será responsabilidad del Consejo de Administración de cada Sociedad Financiera Popular, definir y diseñar los lineamientos para el manejo prudente de la Sociedad Financiera Popular. Asimismo, el Consejo deberá supervisar el establecimiento y vigilar el adecuado funcionamiento del sistema de control interno, para lo cual deberá aplicar entre otras, las medidas siguientes:
+En materia del sistema de control interno, será responsabilidad del [Consejo de Administración](articulo-1.md) de cada [Sociedad](articulo-1.md) Financiera Popular, definir y diseñar los lineamientos para el manejo prudente de la Sociedad Financiera Popular. Asimismo, el Consejo deberá supervisar el establecimiento y vigilar el adecuado funcionamiento del sistema de control interno, para lo cual deberá aplicar entre otras, las medidas siguientes:
 
 I. Aprobar los manuales de políticas y procedimientos, que sean necesarios para el adecuado funcionamiento del sistema de control interno, así como los manuales de administración de riesgos y de crédito, y un código de ética;
 

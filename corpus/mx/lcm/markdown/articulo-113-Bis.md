@@ -17,7 +17,7 @@ source_sha256: 8e270686b885035488bfe310b0b42bb40e7154431794227ebe212dd7dc12e46a
 
 # Artículo 113 Bis
 
-Tratándose de actos en fraude de acreedores, la acción de responsabilidad consistente en indemnizar los daños y perjuicios a que se refiere el artículo [270 Bis-1](articulo-270-Bis-1.md) de esta Ley, podrá ser ejercida, además de por las personas señaladas en dicho artículo, por las personas siguientes:
+Tratándose de actos en fraude de acreedores, la acción de responsabilidad consistente en indemnizar los daños y perjuicios a que se refiere el artículo [270 Bis-1](articulo-270-Bis-1.md) de esta [Ley](articulo-4o.md), podrá ser ejercida, además de por las personas señaladas en dicho artículo, por las personas siguientes:
 
 I. Por la quinta parte de los [Acreedores Reconocidos](articulo-4o.md);
 

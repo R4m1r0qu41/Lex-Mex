@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 265 Bis 45
 
-Las Sociedades Financieras Populares requerirán de la autorización de la Comisión, para la contratación con terceros de la prestación de servicios o comisiones, para la realización de un proceso operativo o para la administración de bases de datos, que se proporcionen o ejecuten parcial o totalmente fuera de territorio nacional o por residentes en el extranjero, en todo momento, con independencia de que los procesos de que se trate puedan o no afectar cualitativa o cuantitativamente una o más de las operaciones que realice la Sociedad Financiera Popular.
+Las [Sociedades](articulo-1.md) Financieras Populares requerirán de la autorización de la Comisión, para la contratación con terceros de la prestación de servicios o comisiones, para la realización de un proceso operativo o para la administración de bases de datos, que se proporcionen o ejecuten parcial o totalmente fuera de territorio nacional o por residentes en el extranjero, en todo momento, con independencia de que los procesos de que se trate puedan o no afectar cualitativa o cuantitativamente una o más de las operaciones que realice la Sociedad Financiera Popular.
 
 Las Sociedades Financieras Populares deberán solicitar la autorización de que se trata a la Comisión, con cuando menos veinte días hábiles de anticipación a la fecha en que pretendan contratar los servicios o la comisión que corresponda, acompañando para tal efecto la documentación que acredite el cumplimiento de los requisitos señalados en el artículo [265 Bis 35](articulo-265-Bis-35.md) de las presentes disposiciones, y los siguientes:
 
@@ -26,7 +26,7 @@ I. Que los terceros o comisionistas con los que se contrate residan en países c
 
 II. Que las Sociedades Financieras Populares manifiesten a la Comisión que mantendrán en sus oficinas principales ubicadas en los Estados Unidos Mexicanos, al menos la documentación e información relativa a las evaluaciones, resultados de auditorías y reportes de desempeño. Asimismo, cuando la Comisión lo requiera deberán proporcionar tal documentación en idioma español.
 
-III. Que se cuente con la aprobación del Consejo de Administración o, en su caso, del comité de auditoría o del comité de riesgos, haciendo constar en el acuerdo respectivo los aspectos siguientes:
+III. Que se cuente con la aprobación del [Consejo de Administración](articulo-1.md) o, en su caso, del comité de auditoría o del comité de riesgos, haciendo constar en el acuerdo respectivo los aspectos siguientes:
 
 a) Que al contratar los servicios o comisiones no se pone en riesgo el adecuado cumplimiento de las disposiciones aplicables a la Sociedad Financiera Popular.
 

@@ -17,4 +17,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Artículo 27
 
-La Secretaría debe incluir en el título de Asignación para Desarrollo Propio el porcentaje mínimo de contenido nacional que establezca, con la opinión de la Secretaría de Economía, de acuerdo con lo establecido en el artículo [19](articulo-19.md), fracción V del presente reglamento.
+La [Secretaría](articulo-3.md) debe incluir en el título de Asignación para Desarrollo Propio el porcentaje mínimo de contenido nacional que establezca, con la opinión de la Secretaría de Economía, de acuerdo con lo establecido en el artículo [19](articulo-19.md), fracción V del presente reglamento.

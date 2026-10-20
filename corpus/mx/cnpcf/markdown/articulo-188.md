@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Primero · Capítulo V
+
 # Artículo 188
 
 La nulidad por defecto en el emplazamiento implica la nulidad de todo lo actuado con posterioridad al mismo de resultar procedente. Si el incidente se hace valer en cualquiera de las audiencias y, si está presente e identificada la parte interesada en la diligencia en que se declare la nulidad del emplazamiento, en el acto y de forma inmediata se procederá a emplazarlo, debiendo entregar la cédula y traslados respectivos.

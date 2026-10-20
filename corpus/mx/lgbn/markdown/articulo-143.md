@@ -17,9 +17,9 @@ source_sha256: ea96e97cbea2fd1919af78b94cd3466ee20a77e05989be2d482d2eb8061618c5
 
 # Artículo 143
 
-Previamente a la celebración de los actos jurídicos a que se refiere el presente artículo en los que intervengan las dependencias, las unidades administrativas de la Presidencia de la República y, en su caso, las entidades, corresponderá a la Secretaría dictaminar: Párrafo reformado DOF 20-05-2021
+Previamente a la celebración de los actos jurídicos a que se refiere el presente artículo en los que intervengan las dependencias, las unidades administrativas de la Presidencia de la República y, en su caso, las entidades, corresponderá a la [Secretaría](articulo-2.md) dictaminar: Párrafo reformado DOF 20-05-2021
 
-I.- El valor de los inmuebles respecto de los que la Federación pretenda adquirir derechos de propiedad, posesión o cualquier otro derecho real, mediante contratos de compraventa, permuta, arrendamiento financiero o cualquier otro de derecho común cuando se requiera el avalúo;
+I.- El valor de los inmuebles respecto de los que la [Federación](articulo-2.md) pretenda adquirir derechos de propiedad, posesión o cualquier otro derecho real, mediante contratos de compraventa, permuta, arrendamiento financiero o cualquier otro de derecho común cuando se requiera el avalúo;
 
 II.- El valor de los inmuebles respecto de los que la Federación pretenda transmitir derechos de propiedad, posesión o cualquier otro derecho real, mediante contratos de compraventa, permuta, aportación, afectación o cualquier otro autorizado por esta Ley, salvo los casos de donaciones a título gratuito de inmuebles a favor de los gobiernos de las entidades federativas y de los municipios, así como de sus respectivas entidades paraestatales; Fracción reformada DOF 19-01-2018
 

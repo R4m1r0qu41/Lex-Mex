@@ -17,4 +17,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Artículo 300
 
-La Secretaría y la Comisión, en el ámbito de sus respectivas competencias, deben sancionar las conductas, actos u omisiones de las personas reguladas, conforme al procedimiento previsto en la Ley Federal de Procedimiento Administrativo.
+La [Secretaría](articulo-3.md) y la [Comisión](articulo-3.md), en el ámbito de sus respectivas competencias, deben sancionar las conductas, actos u omisiones de las personas reguladas, conforme al procedimiento previsto en la [Ley](articulo-3.md) Federal de Procedimiento Administrativo.

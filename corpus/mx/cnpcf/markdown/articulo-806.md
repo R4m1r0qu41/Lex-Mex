@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Primero · Capítulo IV
+
 # Artículo 806
 
 Las sucesiones testamentarias podrán tramitarse ante la o el Notario Público al que acudan las y los herederos, así como el albacea de común acuerdo, sin que, para este supuesto apliquen las disposiciones de competencia del presente [Código Nacional](articulo-2.md).

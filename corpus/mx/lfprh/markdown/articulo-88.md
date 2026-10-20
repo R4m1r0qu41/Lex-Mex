@@ -17,7 +17,7 @@ source_sha256: ce45c7c0c4e9099691e6e24bd2456d0b6f71f91ab27eedd5c4f2190b66d47741
 
 # Artículo 88
 
-Las transferencias del Fondo Mexicano del Petróleo que se realicen para la investigación en materia de hidrocarburos y sustentabilidad energética serán en conjunto hasta por el monto que resulte de multiplicar los ingresos petroleros aprobados en la Ley de Ingresos por un factor de 0.0065 y se destinarán a través de la [Secretaría](articulo-2.md) de Energía a lo siguiente: Párrafo reformado DOF 06-11-2020
+Las transferencias del [Fondo Mexicano del Petróleo](articulo-2.md) que se realicen para la investigación en materia de hidrocarburos y sustentabilidad energética serán en conjunto hasta por el monto que resulte de multiplicar los ingresos petroleros aprobados en la [Ley de Ingresos](articulo-2.md) por un factor de 0.0065 y se destinarán a través de la [Secretaría](articulo-2.md) de Energía a lo siguiente: Párrafo reformado DOF 06-11-2020
 
 I. El 20% de los recursos se destinará para:
 

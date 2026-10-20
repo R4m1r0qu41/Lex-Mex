@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAC.pdf
 source_sha256: 07199878c4f94748c983998437198eb7c645ad76967c444dfe26d50a535d23ae
 ---
 
+> Capítulo XI · Sección Primera
+
 # Artículo 50
 
 El transporte de animales domésticos en las aeronaves de servicio público de transporte aéreo de personas pasajeras será efectuado por la persona concesionaria, asignataria o permisionaria observando en todo momento un trato cuidadoso y adecuado para disminuir la tensión, el sufrimiento, el dolor y la producción de traumatismos durante la movilización de los animales.

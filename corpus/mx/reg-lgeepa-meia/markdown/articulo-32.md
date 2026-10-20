@@ -19,4 +19,4 @@ source_sha256: c7790df38b773b04e4769459d5fd49cca5b7a5b4955f7618632117275259071f
 
 El informe preventivo deberá presentarse en un disquete al que se acompañarán tres tantos impresos de su contenido. Deberá anexarse copia sellada del pago de derechos correspondiente.
 
-La Secretaría proporcionará a los promoventes las guías para la presentación del informe preventivo. Dichas guías serán publicadas en el Diario Oficial de la Federación y en la Gaceta Ecológica.
+La [Secretaría](articulo-3o.md) proporcionará a los promoventes las guías para la presentación del informe preventivo. Dichas guías serán publicadas en el Diario Oficial de la Federación y en la Gaceta Ecológica.

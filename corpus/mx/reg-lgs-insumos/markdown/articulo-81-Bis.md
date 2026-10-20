@@ -17,6 +17,6 @@ source_sha256: e56e8f67f42d7c34c2ed95938cb5f27011f44ab6cf97b653c7dc846e29512fd6
 
 # Artículo 81 Bis
 
-La farmacovigilancia de los medicamentos biotecnológicos deberá realizarse de conformidad con la norma correspondiente. Dicha farmacovigilancia deberá permitir una clara identificación del medicamento biotecnológico, refiriéndose específicamente a su fabricante, a la Denominación Común Internacional, a la denominación distintiva y al número de lote. Asimismo, esta farmacovigilancia deberá facilitar la identificación de las terapias biotecnológicas administradas en todas las etapas del tratamiento.
+La farmacovigilancia de los medicamentos biotecnológicos deberá realizarse de conformidad con la norma correspondiente. Dicha farmacovigilancia deberá permitir una clara identificación del medicamento biotecnológico, refiriéndose específicamente a su fabricante, a la [Denominación Común Internacional](articulo-2o.md), a la denominación distintiva y al número de lote. Asimismo, esta farmacovigilancia deberá facilitar la identificación de las terapias biotecnológicas administradas en todas las etapas del tratamiento.
 
 Artículo adicionado DOF 19-10-2011

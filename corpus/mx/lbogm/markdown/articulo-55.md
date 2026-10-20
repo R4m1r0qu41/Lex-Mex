@@ -33,4 +33,4 @@ VI. En su caso, la información que disponga el solicitante sobre datos o result
 
 VII. La demás información que determinen las normas oficiales mexicanas que deriven de esta Ley.
 
-Lo anterior, con la finalidad de que las Secretarías correspondientes cuenten con la información para que realicen el análisis y la evaluación de los posibles riesgos al medio ambiente y la diversidad biológica o a la sanidad animal, vegetal o acuícola, según les corresponda conforme a esta Ley.
+Lo anterior, con la finalidad de que las [Secretarías](articulo-3.md) correspondientes cuenten con la información para que realicen el análisis y la evaluación de los posibles riesgos al medio ambiente y la diversidad biológica o a la sanidad animal, vegetal o acuícola, según les corresponda conforme a esta Ley.

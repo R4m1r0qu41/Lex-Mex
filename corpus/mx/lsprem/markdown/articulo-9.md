@@ -17,7 +17,7 @@ source_sha256: bcc21844355854fe331c842c21436d721d6c2856b5c5986715fe39f4a845b317
 
 # Artículo 9
 
-A falta de disposición expresa en esta Ley, se aplicarán supletoriamente:
+A falta de disposición expresa en esta [Ley](articulo-2.md), se aplicarán supletoriamente:
 
 I. La Ley Federal de Telecomunicaciones y Radiodifusión;
 

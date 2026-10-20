@@ -17,7 +17,7 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 # Artículo 191
 
-De la implementación de los programas La Autoridad Administrativa deberá diseñar e implementar programas orientados a la protección de los derechos e intereses de las personas adolescentes a quienes se les haya dictado una medida.
+De la implementación de los programas La [Autoridad Administrativa](articulo-3.md) deberá diseñar e implementar programas orientados a la protección de los derechos e intereses de las personas adolescentes a quienes se les haya dictado una medida.
 
 Asimismo, podrá solicitar la intervención de instituciones públicas o la colaboración de las privadas, para que coadyuven en el cumplimiento de dichos programas, mediante los convenios correspondientes de conformidad con la legislación aplicable.
 

@@ -17,4 +17,4 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 447
 
-Suministro de documentos, registros o pruebas En la solicitud de asistencia, el Estado o la autoridad requirente deberá indicar la ubicación de los registros o documentos requeridos, y tratándose de instituciones financieras, el nombre y en la medida de lo posible el número de cuenta respectivo, este último requisito podrá variar de conformidad con el convenio o Tratado que aplique en su caso.
+Suministro de documentos, registros o pruebas En la solicitud de asistencia, el Estado o la autoridad requirente deberá indicar la ubicación de los registros o documentos requeridos, y tratándose de instituciones financieras, el nombre y en la medida de lo posible el número de cuenta respectivo, este último requisito podrá variar de conformidad con el convenio o [Tratado](articulo-3o.md) que aplique en su caso.

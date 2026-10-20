@@ -47,4 +47,4 @@ XIII. Las cepas y cultivos de agentes patógenos generados en los procedimientos
 
 XIV. Los residuos patológicos constituidos por tejidos, órganos y partes que se remueven durante las necropsias, la cirugía o algún otro tipo de intervención quirúrgica que no estén contenidos en formol, y XV. Los residuos punzo-cortantes que hayan estado en contacto con humanos o animales o sus muestras biológicas durante el diagnóstico y tratamiento, incluyendo navajas de bisturí, lancetas, jeringas con aguja integrada, agujas hipodérmicas, de acupuntura y para tatuajes.
 
-La Secretaría determinará, conjuntamente con las partes interesadas, otros residuos peligrosos que serán sujetos a planes de manejo, cuyos listados específicos serán incorporados en la norma oficial mexicana que establece las bases para su clasificación.
+La [Secretaría](articulo-5.md) determinará, conjuntamente con las partes interesadas, otros residuos peligrosos que serán sujetos a planes de manejo, cuyos listados específicos serán incorporados en la norma oficial mexicana que establece las bases para su clasificación.

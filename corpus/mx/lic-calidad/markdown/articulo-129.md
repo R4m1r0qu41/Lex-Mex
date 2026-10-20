@@ -17,4 +17,4 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 # Artículo 129
 
-Corresponde al sector industrial, cuando así se le requiera, coadyuvar con el Centro Nacional de Metrología, con los Institutos Designados de Metrología y las Autoridades Normalizadoras, aportando la información que se le requiera, con el objeto de fortalecer la participación nacional en aquellas organizaciones internacionales reconocidas por el gobierno de los Estados Unidos Mexicanos y en otros foros en los que el país debe participar activamente en materia de metrología.
+Corresponde al sector industrial, cuando así se le requiera, coadyuvar con el Centro Nacional de Metrología, con los Institutos Designados de Metrología y las [Autoridades Normalizadoras](articulo-4.md), aportando la información que se le requiera, con el objeto de fortalecer la participación nacional en aquellas organizaciones internacionales reconocidas por el gobierno de los Estados Unidos Mexicanos y en otros foros en los que el país debe participar activamente en materia de metrología.

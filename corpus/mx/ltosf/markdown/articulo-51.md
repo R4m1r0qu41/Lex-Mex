@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LTOSF.pdf
 source_sha256: bf9e443e89a5c0ba268e76f20923ae25195ef5c1ffbacecff36693ca228c3667
 ---
 
+> Capítulo VII
+
 # Artículo 51
 
 Las multas que imponga la [Comisión](articulo-3.md) Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros a las instituciones de crédito, se harán efectivas cargando su importe en la cuenta que lleve el Banco de México a dichas instituciones. Corresponderá al Servicio de Administración Tributaria hacer efectivas, conforme al Código Fiscal de la Federación, las multas impuestas a las [Entidades Financieras](articulo-3.md) distintas a instituciones de crédito.

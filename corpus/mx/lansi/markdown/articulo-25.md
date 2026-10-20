@@ -17,7 +17,7 @@ source_sha256: 0e34f329befed4474eb7bc1bc195ba13bbe188edfbbabc914a44723e62eb9e44
 
 # Artículo 25
 
-La Agencia podrá sancionar las conductas que se describen a continuación, de acuerdo a lo siguiente:
+La [Agencia](articulo-3o.md) podrá sancionar las conductas que se describen a continuación, de acuerdo a lo siguiente:
 
 I. La restricción de acceso a instalaciones relacionadas con actividades del Sector, a los inspectores y verificadores, con multas de entre setenta y cinco mil a doscientas veinticinco mil veces el importe del salario mínimo general diario vigente en el Distrito Federal, en el momento de cometerse la infracción;
 

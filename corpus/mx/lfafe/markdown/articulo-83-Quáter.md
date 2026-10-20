@@ -17,7 +17,7 @@ source_sha256: 96092a4581d4e87910eb58939da4045879e4fe613b12f4413d7392bcc2c6e884
 
 # Artículo 83 Quáter
 
-A la persona que, sin autorización posea, porte o transporte municiones o cartuchos en cantidades mayores a las establecidas en el artículo [50](articulo-50.md) de esta Ley, se le sancionará con:
+A la persona que, sin autorización posea, porte o transporte municiones o cartuchos en cantidades mayores a las establecidas en el artículo [50](articulo-50.md) de esta [Ley](articulo-1o-Bis.md), se le sancionará con:
 
 I.- Prisión de uno a cuatro años y multa de diez a cincuenta veces el valor diario de la Unidad de Medida y Actualización, si se trata de las armas comprendidas en los artículos [9](articulo-9o.md)o., 10 y 11 incisos a) y b) de esta Ley, y
 

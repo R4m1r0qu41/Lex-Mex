@@ -13,14 +13,12 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGCC_MRNE_281014
 source_sha256: 62420210c5aaffe687daf130a64ff506009625340c554bfb36d2f1b5dcac0192
 ---
 
+> Capítulo III · Sección II
+
 # Artículo 15
 
-Los Establecimientos Sujetos a Reporte son responsables de la integridad, consistencia y precisión de la información que proporcionen al Registro.
+Los Establecimientos Sujetos a Reporte son responsables de la integridad, consistencia y precisión de la información que proporcionen al [Registro](../../lgcc/markdown/articulo-3o.md).
 
-El acuse de recibo de la Cédula de Operación Anual, sólo tendrá validez para efectos de entrega del reporte.
+El acuse de recibo de la [Cédula de Operación Anual](articulo-2.md), sólo tendrá validez para efectos de entrega del reporte.
 
-Cuando un Establecimiento Sujeto a Reporte inicie sus actividades u operaciones con posteridad al 1 de enero, el periodo de reporte será irregular, debiendo considerar la información correspondiente al periodo comprendido a partir del día en que comiencen actividades y el 31 de diciembre del año que se trate.
-
-Capítulo IV Verificación
-
-Sección I Sistema de Verificación
+Cuando un [Establecimiento Sujeto a Reporte](articulo-2.md) inicie sus actividades u operaciones con posteridad al 1 de enero, el periodo de reporte será irregular, debiendo considerar la información correspondiente al periodo comprendido a partir del día en que comiencen actividades y el 31 de diciembre del año que se trate.

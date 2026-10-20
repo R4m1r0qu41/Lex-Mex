@@ -15,4 +15,4 @@ source_sha256: 5a0e15e01ac963917e019e3cc4ad07e96d76cc6c82c8b4238dfbb3a58a146847
 
 # Vigésimo Primero
 
-Las entidades paraestatales reconocidas como Centros Públicos de Investigación con anterioridad a la entrada en vigor de este decreto conservarán esa calidad y deberán sujetarse a lo dispuesto en la presente Ley.
+Las entidades paraestatales reconocidas como [Centros Públicos](articulo-4.md) de Investigación con anterioridad a la entrada en vigor de este decreto conservarán esa calidad y deberán sujetarse a lo dispuesto en la presente [Ley](articulo-4.md).

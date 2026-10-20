@@ -17,4 +17,4 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 187
 
-Para los efectos del artículo [121](../../lan/markdown/articulo-121.md) de la "Ley", se considera reincidente al infractor que una vez que haya sido sancionado por una falta específica, vuelva a incurrir en la misma, aún cuando sea en diferente monto o en otra localidad.
+Para los efectos del artículo [121](../../lan/markdown/articulo-121.md) de la "[Ley](articulo-1o.md)", se considera reincidente al infractor que una vez que haya sido sancionado por una falta específica, vuelva a incurrir en la misma, aún cuando sea en diferente monto o en otra localidad.

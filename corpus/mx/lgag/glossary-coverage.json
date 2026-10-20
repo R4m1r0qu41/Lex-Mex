@@ -1,0 +1,38 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-3",
+  "instrument_id": "urn:lex-mx:federal:statute:lgag",
+  "source_sha256": "025de5f30e5b2b422e8654f9470ddefda03486c72a732489146cfe09065d5409",
+  "extracted_text_sha256": "af8c144abecdda696d9ead7bd38dcfd4f45d06a4e8de8d989b72b42a50275102",
+  "status": "detected",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lgag:article:4",
+      "provision_text_sha256": "c159baf5fb0e920b4d284523dbacac4dfad7732aa9c56c435a90ac6561999842",
+      "method": "established_pass",
+      "fractions": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII",
+        "XIII",
+        "XIV",
+        "XV",
+        "XVI"
+      ],
+      "unread_fractions": [],
+      "term_count": 16
+    }
+  ],
+  "imports": [],
+  "term_count": 16,
+  "usage_count": 43
+}

@@ -17,4 +17,4 @@ source_sha256: 8515c812258bcc7c342e8566ff623c7f5e880f2eb9ee2ad154758077089f11ca
 
 # Artículo 121
 
-Al término del proceso de promoción el Alto Mando, por conducto de la Oficialía Mayor, comunicará al personal convocado los ascensos conferidos.
+Al término del proceso de promoción el [Alto Mando](articulo-5.md), por conducto de la [Oficialía Mayor](articulo-5.md), comunicará al personal convocado los ascensos conferidos.

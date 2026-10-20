@@ -17,8 +17,8 @@ source_sha256: 01b72308e67d46ba6ca8a6b07fb7584c6a74e905ea0c4b5be5c0c0d32a6d817a
 
 # Artículo 59
 
-El Estado Mayor establecerá la puntuación necesaria para que las personas con jerarquía de Sargentos Primeros sean ascendidas a Subtenientes. Para tal efecto, la Dirección correspondiente emitirá las órdenes de ascenso y las patentes respectivas.
+El [Estado Mayor](articulo-5.md) establecerá la puntuación necesaria para que las personas con jerarquía de Sargentos Primeros sean ascendidas a Subtenientes. Para tal efecto, la [Dirección](articulo-5.md) correspondiente emitirá las órdenes de ascenso y las patentes respectivas.
 
 Artículo reformado DOF 20-03-2026
 
-SUBSECCIÓN “B” Promoción General
+SUBSECCIÓN “B” [Promoción](articulo-5.md) General

@@ -17,7 +17,7 @@ source_sha256: 4d25bcb022ab62a24462e11a230c9554c0120012913ab4599cd3ec1b2b275c1d
 
 # Artículo 74
 
-Las nulidades, suspensiones o insubsistencia de derechos a que se refiere el Capítulo Quinto de la Ley, con excepción de la nulidad prevista en la fracción II del artículo [40](articulo-40.md) de dicho ordenamiento y de la insubsistencia prevista en la fracción VI del artículo [44](articulo-44.md) del mismo, se resolverán a petición de:
+Las nulidades, suspensiones o insubsistencia de derechos a que se refiere el Capítulo Quinto de la [Ley](articulo-1o.md), con excepción de la nulidad prevista en la fracción II del artículo [40](articulo-40.md) de dicho ordenamiento y de la insubsistencia prevista en la fracción VI del artículo [44](articulo-44.md) del mismo, se resolverán a petición de:
 
 I. El propietario o poseedor del terreno que constituye la cara superior del lote objeto de la concesión minera, si la nulidad es solicitada debido a la obtención de minerales o sustancias no sujetos a la aplicación de la Ley;
 

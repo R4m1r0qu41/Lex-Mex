@@ -17,7 +17,7 @@ source_sha256: d0021bbef2e0c3251d6efdea2c1efd9959ff3f02df4bcd1fc37c1ee7826a72ba
 
 # Artículo 24
 
-Las Personas Comisionadas estarán impedidas y deberán excusarse inmediatamente de conocer asuntos en los que existan una o varias situaciones que razonablemente le impidan resolver un asunto de su competencia con plena independencia, profesionalismo e imparcialidad. Para efectos de lo anterior, las Personas Comisionadas estarán impedidas para conocer de un asunto en el que tengan interés directo o indirecto. Párrafo reformado DOF 16-07-2025
+Las [Personas Comisionadas](articulo-3.md) estarán impedidas y deberán excusarse inmediatamente de conocer asuntos en los que existan una o varias situaciones que razonablemente le impidan resolver un asunto de su competencia con plena independencia, profesionalismo e imparcialidad. Para efectos de lo anterior, las Personas Comisionadas estarán impedidas para conocer de un asunto en el que tengan interés directo o indirecto. Párrafo reformado DOF 16-07-2025
 
 Se considerará que existe interés directo o indirecto cuando una Persona Comisionada: Párrafo reformado DOF 16-07-2025
 
@@ -29,8 +29,8 @@ III. La Persona Comisionada, su cónyuge o alguno de sus parientes en línea rec
 
 IV. Haya sido perito, testigo, apoderado, patrono o defensor en el asunto de que se trate, o haya gestionado anteriormente el asunto en favor o en contra de alguno de los interesados, y
 
-V. Haya fijado pública e inequívocamente el sentido de su voto antes de que el Pleno resuelva el asunto.
+V. Haya fijado pública e inequívocamente el sentido de su voto antes de que el [Pleno](articulo-3.md) resuelva el asunto.
 
-Sólo podrán invocarse como causales de impedimento para conocer asuntos que se tramiten ante la Comisión las enumeradas en este artículo. Bajo ninguna circunstancia podrá decretarse la recusación por la expresión de una opinión técnica, ni por explicar públicamente la fundamentación y motivación de una resolución dictada por la Comisión o por haber emitido un voto particular.
+Sólo podrán invocarse como causales de impedimento para conocer asuntos que se tramiten ante la [Comisión](articulo-3.md) las enumeradas en este artículo. Bajo ninguna circunstancia podrá decretarse la recusación por la expresión de una opinión técnica, ni por explicar públicamente la fundamentación y motivación de una resolución dictada por la Comisión o por haber emitido un voto particular.
 
-Las Personas Comisionadas deberán excusarse del conocimiento de los asuntos en que se presente alguno de los impedimentos señalados en este artículo en cuanto tengan conocimiento de su impedimento, expresando concretamente la causa del impedimento en que se funde, en cuyo caso el Pleno calificará la excusa, sin necesidad de dar intervención a los Agentes Económicos con interés en el asunto. Párrafo reformado DOF 16-07-2025
+Las Personas Comisionadas deberán excusarse del conocimiento de los asuntos en que se presente alguno de los impedimentos señalados en este artículo en cuanto tengan conocimiento de su impedimento, expresando concretamente la causa del impedimento en que se funde, en cuyo caso el Pleno calificará la excusa, sin necesidad de dar intervención a los [Agentes Económicos](articulo-3.md) con interés en el asunto. Párrafo reformado DOF 16-07-2025

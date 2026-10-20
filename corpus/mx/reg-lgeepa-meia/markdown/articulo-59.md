@@ -17,6 +17,6 @@ source_sha256: c7790df38b773b04e4769459d5fd49cca5b7a5b4955f7618632117275259071f
 
 # Artículo 59
 
-Cuando el responsable de una obra o actividad autorizada en materia de impacto ambiental, incumpla con las condiciones previstas en la autorización y se den los casos del artículo [170](../../lgeepa/markdown/articulo-170.md) de la Ley, la Procuraduría Federal de Protección al Ambiente o, en su caso, la Agencia, en el ámbito de sus respectivas competencias, ordenarán la imposición de las medidas de seguridad que correspondan, independientemente de las medidas correctivas y las sanciones que corresponda aplicar. Párrafo reformado DOF 31-10-2014
+Cuando el responsable de una obra o actividad autorizada en materia de impacto ambiental, incumpla con las condiciones previstas en la autorización y se den los casos del artículo [170](../../lgeepa/markdown/articulo-170.md) de la [Ley](articulo-3o.md), la Procuraduría Federal de Protección al Ambiente o, en su caso, la [Agencia](articulo-3o.md), en el ámbito de sus respectivas competencias, ordenarán la imposición de las medidas de seguridad que correspondan, independientemente de las medidas correctivas y las sanciones que corresponda aplicar. Párrafo reformado DOF 31-10-2014
 
 Lo anterior sin perjuicio del ejercicio de las acciones civiles y penales que procedan por las irregularidades detectadas por la autoridad en el ejercicio de sus atribuciones de inspección y vigilancia.

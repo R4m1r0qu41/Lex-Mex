@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAC.pdf
 source_sha256: 07199878c4f94748c983998437198eb7c645ad76967c444dfe26d50a535d23ae
 ---
 
+> Capítulo XI · Sección Primera
+
 # Artículo 49
 
 El contrato de transporte de las personas pasajeras es el acuerdo entre una persona concesionaria, asignataria o permisionaria y una persona pasajera, por el cual el primero se obliga a trasladar al segundo de un punto de origen a uno de destino, contra el pago de un precio.

@@ -17,4 +17,4 @@ source_sha256: 4e276866fce1638948a6daf1a5c0438fa412554f1a6e0381cbdf7cb300e3db75
 
 # Artículo 121
 
-Considerada la viabilidad de la propuesta, la Secretaría realizará los estudios previos justificativos correspondientes, de conformidad con lo dispuesto en el Capítulo I del Título Cuarto del presente Reglamento. Si se requiere información adicional, la Secretaría lo hará del conocimiento del promovente, quien deberá presentarla en un plazo no mayor a veinte días hábiles.
+Considerada la viabilidad de la propuesta, la [Secretaría](articulo-3o.md) realizará los estudios previos justificativos correspondientes, de conformidad con lo dispuesto en el Capítulo I del Título Cuarto del presente Reglamento. Si se requiere información adicional, la Secretaría lo hará del conocimiento del promovente, quien deberá presentarla en un plazo no mayor a veinte días hábiles.

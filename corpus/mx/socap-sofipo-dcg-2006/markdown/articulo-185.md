@@ -18,13 +18,13 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 185
 
-Las Sociedades Financieras Populares deberán contar con un área de auditoría interna independiente de las áreas de negocios, administrativas y de contraloría, cuyo responsable o, en su caso, responsables, serán designados por el Consejo de Administración.
+Las [Sociedades](articulo-1.md) Financieras Populares deberán contar con un área de auditoría interna independiente de las áreas de negocios, administrativas y de contraloría, cuyo responsable o, en su caso, responsables, serán designados por el [Consejo de Administración](articulo-1.md).
 
 Dicha área verificará, entre otros aspectos, el funcionamiento adecuado del sistema de control interno, para lo cual, deberá evaluar la adecuada implementación y cumplimiento de las políticas y procedimientos en materia de control interno establecidos por el Consejo de Administración.
 
 Para cumplir con los objetivos señalados en el párrafo anterior, el área de auditoría interna tendrá las funciones y responsabilidades siguientes:
 
-I. Evaluar mediante pruebas sustantivas, procedimentales y de cumplimiento, el funcionamiento operativo de las distintas áreas de la Sociedad Financiera Popular, así como su apego a los manuales de políticas y procedimientos que les sean aplicables, incluyendo el cumplimiento del código de ética por parte de Consejeros, Miembros del Consejo de Vigilancia o Comisario, funcionarios y empleados.
+I. Evaluar mediante pruebas sustantivas, procedimentales y de cumplimiento, el funcionamiento operativo de las distintas áreas de la Sociedad Financiera Popular, así como su apego a los manuales de políticas y procedimientos que les sean aplicables, incluyendo el cumplimiento del código de ética por parte de [Consejeros](articulo-1.md), [Miembros del Consejo de Vigilancia o Comisario](articulo-1.md), funcionarios y empleados.
 
 II. Revisar que los sistemas informáticos, incluyendo los contables, operacionales y de cualquier otro tipo de registros, cumplan con los objetivos para los cuales fueron implementados o diseñados, así como verificar que dichos sistemas generen información suficiente, íntegra, consistente y que fluya adecuadamente;
 

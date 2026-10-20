@@ -18,7 +18,7 @@ source_sha256: 8ac502b97188bd6e795781e9821be6e62ccdd8050cdd3be74aab52a888e67939
 
 # Artículo 127
 
-Las uniones de crédito deberán desarrollar permanentemente las funciones de Contraloría Interna que consistirán, por lo menos, en el desempeño cotidiano y permanente de las actividades relacionadas con el diseño, establecimiento y actualización de medidas y controles que:
+Las uniones de crédito deberán desarrollar permanentemente las funciones de [Contraloría Interna](articulo-1.md) que consistirán, por lo menos, en el desempeño cotidiano y permanente de las actividades relacionadas con el diseño, establecimiento y actualización de medidas y controles que:
 
 I. Propicien el cumplimiento de la normatividad interna y externa aplicable a la unión de crédito en la realización de sus operaciones.
 

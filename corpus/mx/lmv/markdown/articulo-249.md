@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título IX · Capítulo II
+
 # Artículo 249
 
 Los aranceles que las bolsas de valores cobren por los servicios relacionados con el listado y mantenimiento de valores y operaciones en el mercado, deberán ser autorizados por la [Comisión](articulo-2.md), la cual tendrá la facultad de formular observaciones y ordenar modificaciones durante el procedimiento de autorización.

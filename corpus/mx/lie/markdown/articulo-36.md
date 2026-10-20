@@ -17,4 +17,4 @@ source_sha256: 14cd17e37e96e766c8ab74950c71186d579c0ba6cc10ac9e8b06f6194af7d953
 
 # Artículo 36
 
-Las autoridades federales, estatales y municipales están obligadas a proporcionar a la Secretaría, los informes y las certificaciones necesarias para el cumplimiento de sus funciones de conformidad con esta Ley y sus disposiciones reglamentarias.
+Las autoridades federales, estatales y municipales están obligadas a proporcionar a la [Secretaría](articulo-2o.md), los informes y las certificaciones necesarias para el cumplimiento de sus funciones de conformidad con esta Ley y sus disposiciones reglamentarias.

@@ -17,4 +17,4 @@ source_sha256: 4195c0740ad46978a8b0f2d43f0ac6d77e46b0216bd6f756950b1a050044ce98
 
 # Artículo 60
 
-Las maniobras que realice el Piloto al Mando de la Aeronave interceptora para la Identificación visual, así como para verificar la situación de la Tripulación de Vuelo de la aeronave interceptada, comprenden las fases siguientes: I. De aproximación; II. De Identificación, y III. De asistencia o Seguimiento.
+Las maniobras que realice el [Piloto al Mando](articulo-4.md) de la Aeronave interceptora para la Identificación visual, así como para verificar la situación de la [Tripulación de Vuelo](articulo-4.md) de la aeronave interceptada, comprenden las fases siguientes: I. De aproximación; II. De Identificación, y III. De asistencia o Seguimiento.

@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAN.pdf
 source_sha256: 4ef50d6b4b3a6ad0378720c5d49463b4f17d70d9de39f895ed5dae4d2e21736d
 ---
 
-> Título PRIMERO
+> Título PRIMERO · Capítulo Único
 
 # Artículo 3
 
@@ -57,7 +57,9 @@ XVI. "Cuenca Hidrológica": Es la unidad del territorio, diferenciada de otras u
 
 Para los fines de esta Ley, se considera como:
 
-a. “Región hidrológica”: Área territorial conformada en función de sus características morfológicas, orográficas e hidrológicas, en la cual se considera a la cuenca hidrológica como la unidad básica para la gestión de los recursos hídricos, cuya finalidad es el agrupamiento y sistematización de la información, análisis, diagnósticos, programas y acciones en relación con la ocurrencia del agua en cantidad y calidad, así como su explotación, uso o aprovechamiento. Normalmente una región hidrológica está integrada por una o varias cuencas hidrológicas. Por tanto, los límites de la región hidrológica son en general distintos en relación con la división política por estados, Ciudad de México, sus demarcaciones territoriales y municipios. Una o varias regiones hidrológicas integran una región hidrológico- administrativa, y Inciso reformado DOF 11-12-2025 b. "Región Hidrológico - Administrativa": Área territorial definida de acuerdo con criterios hidrológicos, integrada por una o varias regiones hidrológicas, en la cual se considera a la cuenca hidrológica como la unidad básica para la gestión de los recursos hídricos y el municipio representa, como en otros instrumentos jurídicos, la unidad mínima de gestión administrativa en el país;
+a. “Región hidrológica”: Área territorial conformada en función de sus características morfológicas, orográficas e hidrológicas, en la cual se considera a la cuenca hidrológica como la unidad básica para la gestión de los recursos hídricos, cuya finalidad es el agrupamiento y sistematización de la información, análisis, diagnósticos, programas y acciones en relación con la ocurrencia del agua en cantidad y calidad, así como su explotación, uso o aprovechamiento. Normalmente una región hidrológica está integrada por una o varias cuencas hidrológicas. Por tanto, los límites de la región hidrológica son en general distintos en relación con la división política por estados, Ciudad de México, sus demarcaciones territoriales y municipios. Una o varias regiones hidrológicas integran una región hidrológico- administrativa, y Inciso reformado DOF 11-12-2025
+
+b. "Región Hidrológico - Administrativa": Área territorial definida de acuerdo con criterios hidrológicos, integrada por una o varias regiones hidrológicas, en la cual se considera a la cuenca hidrológica como la unidad básica para la gestión de los recursos hídricos y el municipio representa, como en otros instrumentos jurídicos, la unidad mínima de gestión administrativa en el país;
 
 XVII. "Cuerpo receptor": La corriente o depósito natural de agua, presas, cauces, zonas marinas o bienes nacionales donde se descargan aguas residuales, así como los terrenos en donde se infiltran o inyectan dichas aguas, cuando puedan contaminar los suelos, subsuelo o los acuíferos;
 

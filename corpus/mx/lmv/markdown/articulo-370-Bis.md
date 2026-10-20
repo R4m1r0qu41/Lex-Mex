@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título XIV · Capítulo I
+
 # Artículo 370 Bis
 
 Los miembros del consejo de administración, director general o su equivalente y demás directivos de las sociedades anónimas promotoras de inversión bursátil o sociedades anónimas bursátiles tendrán prohibido alterar cuentas activas o pasivas o las condiciones de los contratos que formen parte o den base a sus registros contables, o bien, hacer u ordenar que se registren operaciones o gastos inexistentes o que se exageren las reales de la sociedad.

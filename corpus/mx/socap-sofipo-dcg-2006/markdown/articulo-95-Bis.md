@@ -20,7 +20,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 El monto de las estimaciones preventivas para riesgos crediticios incluirá las estimaciones adicionales requeridas en diversas reglamentaciones y las ordenadas y reconocidas por la Comisión, debiendo reconocerse en los resultados del ejercicio del periodo que corresponda.
 
-Las estimaciones adicionales reconocidas por la Comisión a que se refiere el párrafo anterior son aquellas que se constituyen para cubrir riesgos que no se encuentran previstos en las diferentes metodologías de calificación de la cartera crediticia y sobre las que, previo a su constitución, las Sociedades Financieras Populares deberán informar a la Comisión lo siguiente:
+Las estimaciones adicionales reconocidas por la Comisión a que se refiere el párrafo anterior son aquellas que se constituyen para cubrir riesgos que no se encuentran previstos en las diferentes metodologías de calificación de la cartera crediticia y sobre las que, previo a su constitución, las [Sociedades](articulo-1.md) Financieras Populares deberán informar a la Comisión lo siguiente:
 
 I. Origen de las estimaciones.
 

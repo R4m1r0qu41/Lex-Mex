@@ -17,6 +17,6 @@ source_sha256: 269e72195414406bcbd3e90ac40ec26e031a9ea519316c44ee30bdfdf3163059
 
 # Artículo 28
 
-El Instituto será responsable de los daños derivados de la pérdida, extravío o deterioro inusual de los Bienes que administre. Quien tenga derecho a la devolución de Bienes que se hubieran perdido, extraviado o deteriorado, podrá reclamar su pago al Instituto.
+El [Instituto](articulo-2o.md) será responsable de los daños derivados de la pérdida, extravío o deterioro inusual de los [Bienes](articulo-2o.md) que administre. Quien tenga derecho a la devolución de Bienes que se hubieran perdido, extraviado o deteriorado, podrá reclamar su pago al Instituto.
 
 Artículo reformado DOF 09-08-2019

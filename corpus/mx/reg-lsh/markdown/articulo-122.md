@@ -17,4 +17,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Artículo 122
 
-Las personas Permisionarias de Compresión, Descompresión, Licuefacción y Regasificación de Gas Natural son responsables del producto que manipulen desde su recepción y hasta su entrega, de conformidad con este reglamento y la Normatividad aplicable.
+Las personas Permisionarias de [Compresión](articulo-3.md), [Descompresión](articulo-3.md), [Licuefacción](articulo-3.md) y [Regasificación](articulo-3.md) de Gas Natural son responsables del producto que manipulen desde su recepción y hasta su entrega, de conformidad con este reglamento y la [Normatividad](articulo-3.md) aplicable.

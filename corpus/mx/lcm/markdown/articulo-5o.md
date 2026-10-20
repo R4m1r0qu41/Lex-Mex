@@ -17,7 +17,7 @@ source_sha256: 8e270686b885035488bfe310b0b42bb40e7154431794227ebe212dd7dc12e46a
 
 # Artículo 5o
 
-Los pequeños comerciantes sólo podrán ser declarados en concurso mercantil, cuando acepten someterse voluntariamente y por escrito a la aplicación de la presente Ley. Para efectos de esta Ley se entenderá como pequeño comerciante al [Comerciante](articulo-4o.md) cuyas obligaciones vigentes y vencidas, en conjunto, no excedan el equivalente de 400 mil [UDIs](articulo-4o.md) al momento de la solicitud o demanda.
+Los pequeños comerciantes sólo podrán ser declarados en concurso mercantil, cuando acepten someterse voluntariamente y por escrito a la aplicación de la presente [Ley](articulo-4o.md). Para efectos de esta Ley se entenderá como pequeño comerciante al [Comerciante](articulo-4o.md) cuyas obligaciones vigentes y vencidas, en conjunto, no excedan el equivalente de 400 mil [UDIs](articulo-4o.md) al momento de la solicitud o demanda.
 
 Las empresas de participación estatal constituidas como sociedades mercantiles podrán ser declaradas en concurso mercantil.
 

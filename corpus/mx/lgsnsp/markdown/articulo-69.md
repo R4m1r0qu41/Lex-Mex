@@ -17,4 +17,4 @@ source_sha256: 7f01ee1b1deb901a23976507adccbddefbea50b0fc9a4ddceaf1225d711d50d0
 
 # Artículo 69
 
-El ingreso es el procedimiento de integración de las personas candidatas a la estructura institucional y tendrá verificativo al terminar la etapa de formación inicial o capacitación en las Academias o Institutos, el periodo de prácticas correspondiente y el cumplimiento de los requisitos previstos en la presente Ley. Tratándose de la Guardia Nacional se observará lo previsto en el último párrafo del artículo [48](articulo-48.md) de esta Ley. Sección II Promociones de grado, condecoraciones y reconocimientos
+El ingreso es el procedimiento de integración de las personas candidatas a la estructura institucional y tendrá verificativo al terminar la etapa de formación inicial o capacitación en las [Academias o Institutos](articulo-4.md), el periodo de prácticas correspondiente y el cumplimiento de los requisitos previstos en la presente [Ley](articulo-4.md). Tratándose de la Guardia Nacional se observará lo previsto en el último párrafo del artículo [48](articulo-48.md) de esta Ley. Sección II Promociones de grado, condecoraciones y reconocimientos

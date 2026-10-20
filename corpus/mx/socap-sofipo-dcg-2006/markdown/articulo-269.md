@@ -18,4 +18,4 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 269
 
-Comisión podrá exceptuar a una Federación o Confederación de contar con un Auditor Legal o Interno, según corresponda, en aquellos casos en que el Organismo de Integración de que se trate acredite que el Contralor Normativo, realizará las funciones correspondientes a dicho Auditor Legal o Interno.
+Comisión podrá exceptuar a una [Federación](articulo-1.md) o [Confederación](articulo-1.md) de contar con un [Auditor Legal](articulo-1.md) o Interno, según corresponda, en aquellos casos en que el Organismo de Integración de que se trate acredite que el [Contralor Normativo](articulo-1.md), realizará las funciones correspondientes a dicho Auditor Legal o Interno.

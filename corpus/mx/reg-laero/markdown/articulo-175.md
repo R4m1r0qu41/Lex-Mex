@@ -15,4 +15,4 @@ source_sha256: ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776
 
 # Artículo 175
 
-Los concesionarios, permisionarios y prestadores de servicios aeroportuarios y complementarios deben rendir los informes estadísticos respecto de la operación y administración del aeródromo que le solicite la Secretaría, así como los informes de carácter técnico-operativo, financiero, legal o administrativo de conformidad con las disposiciones aplicables.
+Los concesionarios, permisionarios y prestadores de servicios aeroportuarios y complementarios deben rendir los informes estadísticos respecto de la operación y administración del aeródromo que le solicite la [Secretaría](articulo-2.md), así como los informes de carácter técnico-operativo, financiero, legal o administrativo de conformidad con las disposiciones aplicables.

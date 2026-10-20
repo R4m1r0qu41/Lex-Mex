@@ -17,4 +17,4 @@ source_sha256: 1e7d06c67fac4c8a100d2bb2845cc765fba5e8ce09d27d30b2b44432ffeb8c41
 
 # Artículo 63
 
-Los agentes de las Instituciones de Seguridad Pública que realicen detenciones deberán reportarlo en el Registro Administrativo de Detenciones, a través del Informe Policial Homologado, de conformidad con lo dispuesto por la Ley General del Sistema Nacional de Seguridad Pública.
+Los agentes de las [Instituciones de Seguridad Pública](articulo-5.md) que realicen detenciones deberán reportarlo en el Registro Administrativo de Detenciones, a través del Informe Policial Homologado, de conformidad con lo dispuesto por la [Ley](articulo-5.md) General del Sistema Nacional de Seguridad Pública.

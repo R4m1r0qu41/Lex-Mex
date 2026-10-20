@@ -19,7 +19,7 @@ Para efectos de esta [Ley](articulo-3.md) se entenderán [Actividades Vulnerable
 
 I. Las vinculadas a la práctica de juegos con apuesta, concursos o sorteos que realicen organismos descentralizados conforme a las disposiciones legales aplicables, o se lleven a cabo al amparo de los permisos o autorizaciones vigentes concedidos por la [Secretaría](articulo-3.md) de Gobernación bajo el régimen de la Ley Federal de Juegos y Sorteos y su Reglamento. En estos casos, únicamente cuando se lleven a cabo bajo las siguientes modalidades y montos:
 
-La venta de boletos, fichas o cualquier otro tipo de comprobante similar para la práctica de dichos juegos, concursos o sorteos, así como el pago del valor que representen dichos boletos, fichas o recibos o, en general, la entrega o pago de premios y la realización de cualquier operación financiera, ya sea que se lleve a cabo de manera individual o en serie de transacciones vinculadas entre sí en apariencia, con las personas que participen en dichos juegos, concursos o sorteos, siempre que el valor de cualquiera de esas operaciones sea por una cantidad igual o superior al equivalente a trescientas veinticinco veces el valor diario de la UMA.
+La venta de boletos, fichas o cualquier otro tipo de comprobante similar para la práctica de dichos juegos, concursos o sorteos, así como el pago del valor que representen dichos boletos, fichas o recibos o, en general, la entrega o pago de premios y la realización de cualquier operación financiera, ya sea que se lleve a cabo de manera individual o en serie de transacciones vinculadas entre sí en apariencia, con las personas que participen en dichos juegos, concursos o sorteos, siempre que el valor de cualquiera de esas operaciones sea por una cantidad igual o superior al equivalente a trescientas veinticinco veces el valor diario de la [UMA](articulo-3.md).
 
 Serán objeto de [Aviso](articulo-3.md) ante la Secretaría las actividades anteriores, cuando el monto del acto u operación sea igual o superior al equivalente a seiscientas cuarenta y cinco veces el valor diario de la UMA; Fracción reformada DOF 16-07-2025
 
@@ -43,7 +43,7 @@ V. La realización habitual o profesional de actividades de construcción o desa
 
 Serán objeto de Aviso ante la Secretaría cuando el acto u operación sea por una cantidad igual o superior al equivalente a ocho mil veinticinco veces el valor diario de la UMA; Fracción reformada DOF 16-07-2025
 
-V Bis. La recepción de recursos que se destinen para llevar a cabo un Desarrollo Inmobiliario cuya finalidad sea su venta o renta.
+V Bis. La recepción de recursos que se destinen para llevar a cabo un [Desarrollo Inmobiliario](articulo-3.md) cuya finalidad sea su venta o renta.
 
 Serán objeto de Aviso ante la Secretaría cuando el acto u operación sea por una cantidad igual o superior al equivalente a ocho mil veinticinco veces el valor diario de la UMA; Fracción adicionada DOF 16-07-2025
 

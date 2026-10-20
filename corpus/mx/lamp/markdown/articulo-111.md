@@ -26,5 +26,3 @@ II. Con independencia de lo previsto en la fracción anterior, la persona quejos
 En el caso de la fracción II, la demanda podrá ampliarse dentro de los plazos referidos en este artículo, siempre que no se haya celebrado la audiencia constitucional o bien presentar una nueva demanda.
 
 No procederá la ampliación de demanda fuera de los casos expresamente previstos en este artículo. Párrafo adicionado DOF 16-10-2025
-
-Sección Segunda Substanciación

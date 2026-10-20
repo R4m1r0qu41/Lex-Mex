@@ -17,6 +17,6 @@ source_sha256: 269e72195414406bcbd3e90ac40ec26e031a9ea519316c44ee30bdfdf3163059
 
 # Artículo 38 bis
 
-Tratándose de la enajenación a través del procedimiento de licitación pública, los participantes deberán entregar al Instituto su postura en sobre cerrado y la postura más alta determinará el ganador y el precio de la transacción.
+Tratándose de la enajenación a través del procedimiento de licitación pública, los participantes deberán entregar al [Instituto](articulo-2o.md) su postura en sobre cerrado y la postura más alta determinará el ganador y el precio de la transacción.
 
 Artículo adicionado DOF 23-02-2005. Reformado DOF 09-08-2019

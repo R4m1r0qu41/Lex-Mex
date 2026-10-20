@@ -17,6 +17,6 @@ source_sha256: 4f46c1f92fb5682281a7679836e517de95975786fa5326848a331c9eb946cc5f
 
 # Artículo 23
 
-Para efectos del artículo [6](../../liva/markdown/articulo-6o.md)o. de la Ley, cuando se presenten declaraciones complementarias, en virtud de las cuales resulten saldos a favor o se incrementen los que habían sido declarados, el contribuyente podrá optar por solicitar su devolución, llevar a cabo su compensación conforme a lo dispuesto en dicho artículo o continuar el acreditamiento en la siguiente declaración de pago al día en que se presente la declaración complementaria.
+Para efectos del artículo [6](../../liva/markdown/articulo-6o.md)o. de la [Ley](articulo-1.md), cuando se presenten declaraciones complementarias, en virtud de las cuales resulten saldos a favor o se incrementen los que habían sido declarados, el contribuyente podrá optar por solicitar su devolución, llevar a cabo su compensación conforme a lo dispuesto en dicho artículo o continuar el acreditamiento en la siguiente declaración de pago al día en que se presente la declaración complementaria.
 
 Artículo reformado DOF 25-09-2014

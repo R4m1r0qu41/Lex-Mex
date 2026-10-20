@@ -17,7 +17,7 @@ source_sha256: b3c906475b455176de73da17f4f93a73f295965dc9bcca854b48417c7d4d3cfc
 
 # Artículo 96
 
-La SSA expedirá su resolución, una vez que haya analizado la información y documentación aportados por el interesado. Dicha Secretaría en su resolución podrá, fundada y motivadamente:
+La [SSA](articulo-3.md) expedirá su resolución, una vez que haya analizado la información y documentación aportados por el interesado. Dicha [Secretaría](articulo-3.md) en su resolución podrá, fundada y motivadamente:
 
 I. Expedir la autorización, o
 

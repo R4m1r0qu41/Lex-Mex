@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Capítulo II · Sección Primera
+
 # Artículo 1135
 
 El plazo concedido a una persona domiciliada en el extranjero para contestar una demanda seguida ante tribunales de los Estados Unidos Mexicanos, nunca podrá ser menor de veinte días hábiles.

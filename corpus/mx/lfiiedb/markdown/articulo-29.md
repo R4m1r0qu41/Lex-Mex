@@ -17,4 +17,4 @@ source_sha256: 7679afbbf32749e0c0bacab72644d41fc6ccdeeab3a2f25dfae8d26a065de01e
 
 # Artículo 29
 
-Los Proyectos para el desarrollo con bienestar deberán celebrarse por tiempo determinado, permitiendo la amortización financiera de las inversiones.
+Los [Proyectos para el desarrollo con bienestar](articulo-4.md) deberán celebrarse por tiempo determinado, permitiendo la amortización financiera de las inversiones.

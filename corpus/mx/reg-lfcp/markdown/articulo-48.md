@@ -17,7 +17,7 @@ source_sha256: 43723ba379e128c1a1c1be4b085ecc870946cdec43d56f83e7314c077361368f
 
 # Artículo 48
 
-Al iniciarse la formación de un libro de registro el Corredor deberá asentar en la hoja sin número que se encuadernará al principio una razón señalando el lugar y fecha, su nombre, número, plaza, firma y sello, así como la fecha en que dio aviso a la Secretaría y la mención de que el libro de registro contendrá los extractos y asientos de las pólizas y actas otorgadas ante él o ante su asociado o quien legalmente los sustituya.
+Al iniciarse la formación de un libro de registro el Corredor deberá asentar en la hoja sin número que se encuadernará al principio una razón señalando el lugar y fecha, su nombre, número, plaza, firma y sello, así como la fecha en que dio aviso a la [Secretaría](articulo-2o.md) y la mención de que el libro de registro contendrá los extractos y asientos de las pólizas y actas otorgadas ante él o ante su asociado o quien legalmente los sustituya.
 
 Al inicio de una suplencia se deberá asentar una razón inmediatamente después del último asiento por el corredor suplente indicando la fecha y motivo de inicio de suplencia. De igual forma se asentará una razón al concluir la suplencia por el Corredor Público que reinicie funciones.
 

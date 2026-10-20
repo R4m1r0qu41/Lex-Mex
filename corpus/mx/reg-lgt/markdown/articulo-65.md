@@ -17,4 +17,4 @@ source_sha256: 6680a58c98673518aee46582b3137d28987c275785d1f0c97295f0d89c4b692b
 
 # Artículo 65
 
-La información turística cuya difusión pública impulse la Secretaría, consistirá en mapas, guías turísticas y los datos relativos a un Destino Turístico, Región Turística o Entidad Federativa, en los que deberán indicarse los atractivos naturales y culturales, distancias de los recorridos, así como los Productos y Servicios Turísticos, tales como alojamiento, restaurantes, comercios, servicios de emergencia y demás información que se considere indispensable para el Turista.
+La información turística cuya difusión pública impulse la Secretaría, consistirá en mapas, guías turísticas y los datos relativos a un [Destino Turístico](articulo-2.md), Región Turística o Entidad Federativa, en los que deberán indicarse los atractivos naturales y culturales, distancias de los recorridos, así como los Productos y Servicios Turísticos, tales como alojamiento, restaurantes, comercios, servicios de emergencia y demás información que se considere indispensable para el Turista.

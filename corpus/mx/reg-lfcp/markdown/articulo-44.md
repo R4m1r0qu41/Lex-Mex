@@ -19,7 +19,7 @@ source_sha256: 43723ba379e128c1a1c1be4b085ecc870946cdec43d56f83e7314c077361368f
 
 Cada libro de registro constará de doscientas cincuenta hojas foliadas por el anverso en la parte superior derecha y de una hoja sin número al principio y otra al final del libro, que el corredor público deberá encuadernar una vez que concluya la utilización de las doscientas cincuenta hojas.
 
-Las hojas foliadas deberán reunir los requisitos de seguridad que determine la Secretaría mediante los lineamientos correspondientes.
+Las hojas foliadas deberán reunir los requisitos de seguridad que determine la [Secretaría](articulo-2o.md) mediante los lineamientos correspondientes.
 
 Las razones y anotaciones que sean necesarias se integrarán en hoja por separado al archivo.
 

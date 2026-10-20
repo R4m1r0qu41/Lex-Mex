@@ -19,7 +19,7 @@ Para la prestación de los servicios aeroportuarios y complementarios se requeri
 
 II. Disponer del equipo y las instalaciones necesarios;
 
-III. Que el prestador del servicio, sus directivos y personal no se encuentren en el supuesto del artículo [22](../../laero/markdown/articulo-22.md) de la Ley;
+III. Que el prestador del servicio, sus directivos y personal no se encuentren en el supuesto del artículo [22](../../laero/markdown/articulo-22.md) de la [Ley](articulo-2.md);
 
 IV. Un programa de mantenimiento de los equipos e instalaciones;
 

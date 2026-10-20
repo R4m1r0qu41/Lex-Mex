@@ -21,7 +21,7 @@ Las dependencias, las unidades administrativas de la Presidencia de la Repúblic
 
 I.- Investigar y determinar la situación física, jurídica y administrativa de los inmuebles, así como efectuar los levantamientos topográficos y elaborar los respectivos planos, para efectos del inventario, catastro y registro de dichos inmuebles;
 
-II.- Tomar las medidas necesarias para compilar, organizar, vincular y operar los acervos documentales e informativos de los inmuebles, así como recibir e integrar en sus respectivos acervos la información y documentación que le proporcione la Secretaría;
+II.- Tomar las medidas necesarias para compilar, organizar, vincular y operar los acervos documentales e informativos de los inmuebles, así como recibir e integrar en sus respectivos acervos la información y documentación que le proporcione la [Secretaría](articulo-2.md);
 
 III.- Programar, ejecutar, evaluar y controlar la realización de acciones y gestiones con el fin de coadyuvar a la regularización jurídica y administrativa de los inmuebles, a la formalización de operaciones, al óptimo aprovechamiento de dichos bienes y a la recuperación de los ocupados ilegalmente;
 

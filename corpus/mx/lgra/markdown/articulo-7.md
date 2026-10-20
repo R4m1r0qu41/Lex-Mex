@@ -17,7 +17,7 @@ source_sha256: 1289ec6964e48c84990572ca6080ca05c9d6210e5b0ff5af6d8c9d935fc5fcc8
 
 # Artículo 7
 
-Las Personas Servidoras Públicas observarán en el desempeño de su empleo, cargo o comisión, los principios de austeridad, disciplina, legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, integridad, rendición de cuentas, eficacia, eficiencia y racionalidad en el uso de los recursos públicos, mismos que rigen el servicio público. Para la efectiva aplicación de dichos principios, las Personas Servidoras Públicas observarán las siguientes directrices: Párrafo reformado DOF 02-01-2025
+Las [Personas Servidoras Públicas](articulo-3.md) observarán en el desempeño de su empleo, cargo o comisión, los principios de austeridad, disciplina, legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, integridad, rendición de cuentas, eficacia, eficiencia y racionalidad en el uso de los recursos públicos, mismos que rigen el servicio público. Para la efectiva aplicación de dichos principios, las Personas Servidoras Públicas observarán las siguientes directrices: Párrafo reformado DOF 02-01-2025
 
 I. Actuar conforme a lo que las leyes, reglamentos y demás disposiciones jurídicas les atribuyen a su empleo, cargo o comisión, por lo que deben conocer y cumplir las disposiciones que regulan el ejercicio de sus funciones, facultades y atribuciones;
 

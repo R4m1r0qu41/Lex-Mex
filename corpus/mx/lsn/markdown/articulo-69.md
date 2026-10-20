@@ -17,7 +17,7 @@ source_sha256: 7b3cf7a0ff59f76503a97a535457c4a7dd3b1305e7a36f4fca82bd661eab1168
 
 # Artículo 69
 
-Los Agentes Extranjeros podrán ser autorizados para internarse temporalmente en territorio nacional para fines de intercambio de información, en el marco de los convenios y programas de cooperación bilateral suscritos por el Estado mexicano en materia de seguridad y que contribuyan a preservar la Seguridad Nacional.
+Los [Agentes Extranjeros](articulo-6.md) podrán ser autorizados para internarse temporalmente en territorio nacional para fines de intercambio de información, en el marco de los convenios y programas de cooperación bilateral suscritos por el Estado mexicano en materia de seguridad y que contribuyan a preservar la Seguridad Nacional.
 
 La Secretaría de Relaciones Exteriores, previo acuerdo con las secretarías de Seguridad y Protección Ciudadana, de la Defensa Nacional y de Marina, resolverá sobre la acreditación y la circunscripción territorial del agente extranjero de que se trate. Para tal efecto deberá considerar el principio de reciprocidad bilateral.
 

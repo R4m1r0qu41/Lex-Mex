@@ -23,7 +23,7 @@ El nuevo trámite deberá:
 
 I.- Efectuar el pago de la tarifa correspondiente a una nueva solicitud;
 
-II.- Satisfacer los requisitos de los artículos [214](articulo-214.md) y [215](articulo-215.md) de esta Ley y los aplicables de su Reglamento, y
+II.- Satisfacer los requisitos de los artículos [214](articulo-214.md) y [215](articulo-215.md) de esta [Ley](articulo-4.md) y los aplicables de su Reglamento, y
 
 III.- Ser objeto de la publicación a la que se refiere el artículo [221](articulo-221.md) de esta Ley.
 

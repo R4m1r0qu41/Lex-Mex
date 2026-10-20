@@ -21,7 +21,7 @@ La Secretaría del Trabajo y Previsión Social, en su calidad de integrante del 
 
 I. Informar a la autoridad competente sobre el conocimiento de algún hecho a través del cual se practiquen o se hayan realizado conductas de violencia contra las mujeres en los centros de trabajo;
 
-II. Informar periódicamente a la Secretaría Ejecutiva los casos que tenga conocimiento de violencia laboral contra las mujeres, a fin de diseñar programas que permitan prevenir, atender, sancionar y erradicar dicha violencia en los centros de trabajo;
+II. Informar periódicamente a la [Secretaría Ejecutiva](articulo-2.md) los casos que tenga conocimiento de violencia laboral contra las mujeres, a fin de diseñar programas que permitan prevenir, atender, sancionar y erradicar dicha violencia en los centros de trabajo;
 
 III. Realizar, en términos de las disposiciones jurídicas aplicables, campañas de difusión en medios de comunicación para informar a la población sobre los supuestos que se consideran violencia laboral, así como para su prevención, atención y erradicación;
 

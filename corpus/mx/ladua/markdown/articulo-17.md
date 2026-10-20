@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf
 source_sha256: 43927095d22ff7bc7780e78132d2160b5050b5f76026b539daec32be09d7341d
 ---
 
+> Título Segundo · Capítulo I
+
 # Artículo 17
 
 Las personas que presten sus servicios o que realicen actividades dentro de los recintos fiscales o fiscalizados deberán portar los gafetes u otros distintivos que los identifiquen, en los términos que establezca el Servicio de Administración Tributaria mediante reglas. Párrafo reformado DOF 30-12-1996, 25-06-2018 Sólo podrán ingresar a los recintos fiscales o fiscalizados las personas autorizadas por las autoridades aduaneras. En caso de inobservancia a lo dispuesto en este párrafo, dichas autoridades procederán a realizar los actos a que se refiere el artículo [40](../../cff/markdown/articulo-40.md) del Código Fiscal de la Federación.

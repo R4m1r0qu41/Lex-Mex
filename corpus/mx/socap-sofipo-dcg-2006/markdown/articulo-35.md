@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 35
 
-El comité de consejeros, o bien, el Comité de Crédito o quien realice sus funciones en la Sociedad Financiera Popular de que se trate, deberá rendir un reporte sobre su gestión al Consejo de Administración, con la periodicidad que este le indique, sin que esta exceda de ciento ochenta días, donde se especifique el detalle de las operaciones con personas relacionadas que, de conformidad con lo previsto por el presente Capítulo, hayan sido autorizadas o rechazadas por la instancia respectiva, incluyendo un informe sobre el cumplimiento de los límites de financiamiento a dichas personas, de conformidad con lo establecido por la Ley y por el presente Capítulo.
+El comité de consejeros, o bien, el [Comité de Crédito](articulo-1.md) o quien realice sus funciones en la [Sociedad](articulo-1.md) Financiera Popular de que se trate, deberá rendir un reporte sobre su gestión al [Consejo de Administración](articulo-1.md), con la periodicidad que este le indique, sin que esta exceda de ciento ochenta días, donde se especifique el detalle de las operaciones con personas relacionadas que, de conformidad con lo previsto por el presente Capítulo, hayan sido autorizadas o rechazadas por la instancia respectiva, incluyendo un informe sobre el cumplimiento de los límites de financiamiento a dichas personas, de conformidad con lo establecido por la [Ley](articulo-1.md) y por el presente Capítulo.
 
 El reporte a que se refiere el párrafo anterior deberá contener, cuando menos, la información siguiente:
 

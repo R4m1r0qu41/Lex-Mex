@@ -17,4 +17,4 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 245
 
-El Instituto elaborará un informe financiero y actuarial de los seguros de salud para la familia, en los términos y plazos fijados para la formulación del correspondiente a los seguros obligatorios.
+El [Instituto](articulo-5-A.md) elaborará un informe financiero y actuarial de los seguros de salud para la familia, en los términos y plazos fijados para la formulación del correspondiente a los seguros obligatorios.

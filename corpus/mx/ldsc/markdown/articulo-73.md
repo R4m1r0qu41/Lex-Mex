@@ -17,4 +17,4 @@ source_sha256: 45deb87bfd634dfbd1cb7d9fd67a476ad954187908eb0cb06256c90ccc0feb80
 
 # Artículo 73
 
-La Secretaría podrá colaborar, en el ámbito de sus atribuciones y en coordinación con las autoridades competentes, en la observancia de las Normas Oficiales Mexicanas aplicables al café.
+La [Secretaría](articulo-3.md) podrá colaborar, en el ámbito de sus atribuciones y en coordinación con las autoridades competentes, en la observancia de las Normas Oficiales Mexicanas aplicables al café.

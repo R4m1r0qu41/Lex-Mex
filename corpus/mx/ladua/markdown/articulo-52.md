@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf
 source_sha256: 43927095d22ff7bc7780e78132d2160b5050b5f76026b539daec32be09d7341d
 ---
 
+> Título Tercero · Capítulo I
+
 # Artículo 52
 
 Están obligadas al pago de los impuestos al comercio exterior y al cumplimiento de las regulaciones y restricciones no arancelarias y otras medidas de regulación al comercio exterior, las personas que introduzcan mercancías al territorio nacional o las extraigan del mismo, incluyendo las que estén bajo algún programa de devolución o diferimiento de aranceles en los casos previstos en los artículos [63-A](articulo-63-A.md), [108](articulo-108.md), fracción III, [110](articulo-110.md) y [135-B](articulo-135-B.md), fracción I de esta Ley. Párrafo reformado DOF 19-11-2025

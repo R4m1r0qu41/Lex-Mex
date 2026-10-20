@@ -13,8 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Primero · Capítulo I
+
 # Artículo 385
 
 En lo no previsto en este Capítulo se observarán las reglas para los medios preparatorios del juicio en general en lo que resulte aplicable.
-
-Sección Tercera De la Preparación del Juicio Arbitral

@@ -17,4 +17,4 @@ source_sha256: 4933abadd27d345e7a5c1754af10ed429fd148b709b4a78d4f42447b5fcd546d
 
 # Artículo 16
 
-El Sistema comprende el conjunto de acciones que realice el Sector Público y los Sectores que participen en los objetivos de esta Ley, para el desarrollo de las MIPYMES, considerando las opiniones del Consejo y coordinados por la Secretaría en el ámbito de su competencia.
+El [Sistema](articulo-3.md) comprende el conjunto de acciones que realice el [Sector Público](articulo-3.md) y los [Sectores](articulo-3.md) que participen en los objetivos de esta [Ley](articulo-3.md), para el desarrollo de las [MIPYMES](articulo-3.md), considerando las opiniones del [Consejo](articulo-3.md) y coordinados por la [Secretaría](articulo-3.md) en el ámbito de su competencia.

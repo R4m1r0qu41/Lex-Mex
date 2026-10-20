@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 265 Bis 37
 
-Las Sociedades Financieras Populares requerirán de la autorización de la Comisión para celebrar comisiones mercantiles que tengan por objeto llevar a cabo las operaciones a que se refieren las fracciones I, II y IV a IX del artículo [265 Bis 36](articulo-265-Bis-36.md) anterior.
+Las [Sociedades](articulo-1.md) Financieras Populares requerirán de la autorización de la Comisión para celebrar comisiones mercantiles que tengan por objeto llevar a cabo las operaciones a que se refieren las fracciones I, II y IV a IX del artículo [265 Bis 36](articulo-265-Bis-36.md) anterior.
 
 Para efectos de lo anterior, las Sociedades Financieras Populares deberán presentar a la Comisión la solicitud de autorización adjuntando un plan estratégico de negocios para llevar a cabo las operaciones a que se refiere el párrafo anterior, con cuando menos veinte días hábiles de anticipación a la fecha en que pretendan contratar las comisiones respectivas.
 
@@ -30,11 +30,11 @@ II. Los modelos de contratos de comisión mercantil que las Sociedades Financier
 
 III. La descripción de los procesos y sistemas que implementaría la Sociedad Financiera Popular para la realización de las operaciones.
 
-IV. La descripción de los Medios Electrónicos que utilizarán las Sociedades Financieras Populares para garantizar la correcta ejecución de las operaciones y de seguridad de la información de los Clientes y del público en general, para lo cual deberán cumplir con los requerimientos técnicos para la operación de Medios Electrónicos a que se refiere el Anexo P de las presentes disposiciones.
+IV. La descripción de los [Medios Electrónicos](articulo-1.md) que utilizarán las Sociedades Financieras Populares para garantizar la correcta ejecución de las operaciones y de seguridad de la información de los Clientes y del público en general, para lo cual deberán cumplir con los requerimientos técnicos para la operación de Medios Electrónicos a que se refiere el Anexo P de las presentes disposiciones.
 
 V. Las políticas y procedimientos que implementaría la Sociedad Financiera Popular, para acreditar la capacidad de los comisionistas de conformidad con lo dispuesto por el Anexo R de las presentes disposiciones.
 
-VI. Las políticas y procedimientos que implementarían las Sociedad Financiera Popular, para la administración de los Factores de Autenticación de Clientes y operadores que prevengan el uso indebido de los Factores de Autenticación por parte de sus comisionistas o los empleados de estos últimos. Dichas políticas y procedimientos deberán contemplar un programa de capacitación permanente de los comisionistas, así como las medidas y controles necesarios para asegurar la integridad de los Factores de Autenticación de los Clientes y operadores.
+VI. Las políticas y procedimientos que implementarían las Sociedad Financiera Popular, para la administración de los Factores de [Autenticación](articulo-1.md) de Clientes y operadores que prevengan el uso indebido de los Factores de Autenticación por parte de sus comisionistas o los empleados de estos últimos. Dichas políticas y procedimientos deberán contemplar un programa de capacitación permanente de los comisionistas, así como las medidas y controles necesarios para asegurar la integridad de los Factores de Autenticación de los Clientes y operadores.
 
 VII. Las medidas que deberá instrumentar la Sociedad Financiera Popular en materia de:
 
@@ -42,7 +42,7 @@ a) Control interno.
 
 b) Administración integral de riesgos.
 
-c) Seguridad para la prevención de operaciones a que se refiere el artículo 124 de la Ley.
+c) Seguridad para la prevención de operaciones a que se refiere el artículo 124 de la [Ley](articulo-1.md).
 
 d) Dotación de efectivo a sus comisionistas en los puntos de atención al público.
 

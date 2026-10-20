@@ -17,4 +17,4 @@ source_sha256: 74f2c47c7a9282194b2972ec1366352d94f03042c6d0c7f10efde018cb9e3bfb
 
 # Artículo 56
 
-De acuerdo con los resultados de las evaluaciones, el Instituto podrá emitir las sugerencias y recomendaciones que considere pertinentes al Ejecutivo Federal y hacerlas del conocimiento público.
+De acuerdo con los resultados de las evaluaciones, el [Instituto](articulo-5o.md) podrá emitir las sugerencias y recomendaciones que considere pertinentes al Ejecutivo Federal y hacerlas del conocimiento público.

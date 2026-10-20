@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo II
+
 # Artículo 335
 
 Para acreditar hechos o circunstancias que tengan relación con el procedimiento que se ventile, las partes pueden presentar otros medios de prueba que no estén expresamente reconocidos y regulados en el [Código Nacional](articulo-2.md), como son, ejemplificativamente, videos, fotografías, cintas cinematográficas, disquetes o discos compactos, de sistemas computacionales, grabaciones de imágenes y sonidos, así como la información generada o comunicada que conste en medios electrónicos, magnéticos, ópticos, u otros medios de reproducción; o bien, copias digitales, impresiones de documentos electrónicos, simples o al carbón, documentos taquigráficos; así como registros dactiloscópicos, fonográficos y, en general, cualesquiera otros elementos proporcionados por la ciencia y la tecnología, que puedan producir convicción en el ánimo de la autoridad jurisdiccional.

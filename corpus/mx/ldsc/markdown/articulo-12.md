@@ -17,4 +17,4 @@ source_sha256: 45deb87bfd634dfbd1cb7d9fd67a476ad954187908eb0cb06256c90ccc0feb80
 
 # Artículo 12
 
-La Comisión podrá auxiliarse para el ejercicio de sus funciones por comités o grupos de trabajo integrados por integrantes del sector de la cadena productiva del café.
+La [Comisión](articulo-3.md) podrá auxiliarse para el ejercicio de sus funciones por comités o grupos de trabajo integrados por integrantes del sector de la cadena productiva del café.

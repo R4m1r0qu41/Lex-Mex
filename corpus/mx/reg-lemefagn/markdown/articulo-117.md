@@ -21,11 +21,11 @@ La planeación comprende:
 
 I. Las cuotas de personas discentes para el ingreso; Fracción reformada DOF 20-03-2026
 
-II. El contenido de las convocatorias de admisión a las Instituciones Educativas y Cursos que impartan las Jefaturas;
+II. El contenido de las convocatorias de admisión a las [Instituciones Educativas](articulo-3.md) y Cursos que impartan las Jefaturas;
 
 III. El instructivo de admisión para las personas aspirantes a becarias extranjeras; Fracción reformada DOF 20-03-2026
 
-IV. El Procedimiento Sistemático de Operar, Admisión al Sistema;
+IV. El Procedimiento Sistemático de Operar, Admisión al [Sistema](articulo-3.md);
 
 V. El diseño de la información promocional para la admisión al Sistema;
 

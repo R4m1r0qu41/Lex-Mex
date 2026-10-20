@@ -17,6 +17,6 @@ source_sha256: 01b72308e67d46ba6ca8a6b07fb7584c6a74e905ea0c4b5be5c0c0d32a6d817a
 
 # Artículo 84
 
-Las Direcciones opinarán técnicamente en calidad de asesores durante las sesiones de la Comisión, cuando ésta así lo requiera.
+Las [Direcciones](articulo-5.md) opinarán técnicamente en calidad de asesores durante las sesiones de la Comisión, cuando ésta así lo requiera.
 
 Artículo reformado DOF 20-03-2026

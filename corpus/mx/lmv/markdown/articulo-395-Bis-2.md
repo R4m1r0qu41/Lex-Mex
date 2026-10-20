@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título XV · Capítulo II Bis
+
 # Artículo 395 Bis 2
 
 Durante la vigencia de los programas de autocorrección que hubiere autorizado la [Comisión](articulo-2.md) en términos de los artículos [395 Bis](articulo-395-Bis.md) y [395 Bis 1](articulo-395-Bis-1.md) anteriores, ésta se abstendrá de imponer a las entidades financieras las sanciones previstas en esta Ley por las irregularidades o incumplimientos cuya corrección contemplen dichos programas. Asimismo, durante tal periodo se interrumpirá el plazo de caducidad para imponer las sanciones, reanudándose hasta que se determine que no se subsanaron las irregularidades o incumplimientos objeto del programa de autocorrección.

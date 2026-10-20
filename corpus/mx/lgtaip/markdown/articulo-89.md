@@ -17,4 +17,4 @@ source_sha256: e81e23876bd08da81cb8392af7054f6187ad043ca8f965777b455f9d12554e8b
 
 # Artículo 89
 
-El procedimiento de la denuncia se integra por las siguientes etapas: I. Presentación de la denuncia ante las Autoridades garantes; II. Solicitud por parte de las Autoridades garantes de un informe al sujeto obligado; III. Resolución de la denuncia, y IV. Ejecución de la resolución de la denuncia.
+El procedimiento de la denuncia se integra por las siguientes etapas: I. Presentación de la denuncia ante las [Autoridades garantes](articulo-3.md); II. Solicitud por parte de las Autoridades garantes de un informe al sujeto obligado; III. Resolución de la denuncia, y IV. Ejecución de la resolución de la denuncia.

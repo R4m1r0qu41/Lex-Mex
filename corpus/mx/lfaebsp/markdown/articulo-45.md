@@ -19,9 +19,9 @@ source_sha256: 269e72195414406bcbd3e90ac40ec26e031a9ea519316c44ee30bdfdf3163059
 
 En las convocatorias se incluirá cuando menos:
 
-I.- El nombre, denominación o razón social de la Entidad Transferente; Fracción reformada DOF 09-08-2019
+I.- El nombre, denominación o razón social de la [Entidad Transferente](articulo-2o.md); Fracción reformada DOF 09-08-2019
 
-II.- La descripción, condición física y ubicación de los Bienes. En caso de bienes muebles, adicionalmente, se señalarán sus características, cantidad y unidad de medida; y tratándose de bienes inmuebles, la superficie total, linderos y colindancias, mismos que podrán difundirse entre los interesados mediante el uso de las tecnologías de la información; Fracción reformada DOF 09-08-2019
+II.- La descripción, condición física y ubicación de los [Bienes](articulo-2o.md). En caso de bienes muebles, adicionalmente, se señalarán sus características, cantidad y unidad de medida; y tratándose de bienes inmuebles, la superficie total, linderos y colindancias, mismos que podrán difundirse entre los interesados mediante el uso de las tecnologías de la información; Fracción reformada DOF 09-08-2019
 
 III.- (Se deroga) Fracción derogada DOF 23-02-2005
 

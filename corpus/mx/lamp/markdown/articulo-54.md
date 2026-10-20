@@ -33,4 +33,4 @@ c) De las juezas o jueces de distrito, que se encuentren en su circuito. Inciso 
 
 IV. Los tribunales colegiados de apelación:
 
-a) De una de sus magistradas o magistrados; LEY DE AMPARO, REGLAMENTARIA DE LOS ARTÍCULOS [103](../../cpeum/markdown/articulo-103.md) Y [107](../../cpeum/markdown/articulo-107.md) DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS b) De dos o más magistradas o magistrados de otro tribunal colegiado de apelación. Fracción con incisos adicionada DOF 07-06-2021
+a) De una de sus magistradas o magistrados; b) De dos o más magistradas o magistrados de otro tribunal colegiado de apelación. Fracción con incisos adicionada DOF 07-06-2021

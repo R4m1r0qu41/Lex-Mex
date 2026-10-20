@@ -21,6 +21,6 @@ Se impondrá sanción de tres meses a tres años de prisión, a los patrones o s
 
 I. Registren sus operaciones contables y fiscales en dos o más libros o en dos o más sistemas de contabilidad o en dos o más medios diversos a los anteriores con diferentes contenidos, y
 
-II. Oculten, alteren o destruyan, parcial o totalmente los sistemas y registros contables o cualquier otro medio, así como la documentación relativa a los asientos respectivos, que conforme a esta Ley están obligados a llevar.
+II. Oculten, alteren o destruyan, parcial o totalmente los sistemas y registros contables o cualquier otro medio, así como la documentación relativa a los asientos respectivos, que conforme a esta [Ley](articulo-5-A.md) están obligados a llevar.
 
 Artículo adicionado DOF 20-12-2001

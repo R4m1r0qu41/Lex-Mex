@@ -17,7 +17,7 @@ source_sha256: ea96e97cbea2fd1919af78b94cd3466ee20a77e05989be2d482d2eb8061618c5
 
 # Artículo 121
 
-Para los efectos del [artículo anterior](articulo-120.md), los convenios o acuerdos de coordinación que celebre la Federación, por conducto de la Secretaría de Medio Ambiente y Recursos Naturales, con los gobiernos de los estados, con la participación, en su caso, de sus municipios, deberán sujetarse a las siguientes bases:
+Para los efectos del [artículo anterior](articulo-120.md), los convenios o acuerdos de coordinación que celebre la [Federación](articulo-2.md), por conducto de la [Secretaría](articulo-2.md) de Medio Ambiente y Recursos Naturales, con los gobiernos de los estados, con la participación, en su caso, de sus municipios, deberán sujetarse a las siguientes bases:
 
 I.- Se celebrarán a propuesta del Ejecutivo Federal o a petición de una entidad federativa, cuando ésta considere que cuenta con los medios necesarios, el personal capacitado, los recursos materiales y financieros, así como la estructura institucional específica para el desarrollo de las facultades que asumiría;
 
@@ -33,6 +33,6 @@ VII.- Contendrán, en su caso, los anexos técnicos necesarios para detallar los
 
 VIII.- Las demás estipulaciones que las partes consideren necesarias para el correcto cumplimiento del convenio o acuerdo de coordinación.
 
-Corresponde a la Secretaría de Medio Ambiente y Recursos Naturales evaluar el cumplimiento de los compromisos que se asuman en los convenios o acuerdos de coordinación a que se refiere este artículo. Dicha evaluación se realizará trimestralmente, debiendo publicarse el resultado en la Gaceta de esa Dependencia. En caso de incumplimiento, esa Dependencia podrá dar por terminados anticipadamente dichos convenios.
+Corresponde a la Secretaría de Medio Ambiente y Recursos Naturales evaluar el cumplimiento de los compromisos que se asuman en los convenios o acuerdos de coordinación a que se refiere este artículo. Dicha evaluación se realizará trimestralmente, debiendo publicarse el resultado en la Gaceta de esa [Dependencia](articulo-2.md). En caso de incumplimiento, esa Dependencia podrá dar por terminados anticipadamente dichos convenios.
 
 Los convenios o acuerdos de coordinación a que se refiere el presente artículo, sus modificaciones, así como su acuerdo de terminación, deberán publicarse en el Diario Oficial de la Federación y en la gaceta o periódico oficial de la respectiva entidad federativa.

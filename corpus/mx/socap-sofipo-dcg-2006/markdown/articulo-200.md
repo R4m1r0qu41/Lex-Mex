@@ -17,4 +17,4 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 200
 
-Los resultados de la calificación de la cartera crediticia, obtenidos conforme a la Sección Primera del presente Capítulo, deberán presentarse a la Federación correspondiente, en la forma y tiempos que las mismas señalen.
+Los resultados de la calificación de la cartera crediticia, obtenidos conforme a la Sección Primera del presente Capítulo, deberán presentarse a la [Federación](articulo-1.md) correspondiente, en la forma y tiempos que las mismas señalen.

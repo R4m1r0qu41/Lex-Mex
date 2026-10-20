@@ -17,4 +17,4 @@ source_sha256: 96092a4581d4e87910eb58939da4045879e4fe613b12f4413d7392bcc2c6e884
 
 # Artículo 55
 
-Las armas, objetos y materiales a que se refiere esta Ley que se importen al amparo de permisos ordinarios o extraordinarios, deberán destinarse precisamente al uso señalado en dichos permisos. Cualquier modificación, cambio o transformación que pretenda introducirse al destino señalado, requiere de nuevo permiso.
+Las armas, objetos y materiales a que se refiere esta [Ley](articulo-1o-Bis.md) que se importen al amparo de permisos ordinarios o extraordinarios, deberán destinarse precisamente al uso señalado en dichos permisos. Cualquier modificación, cambio o transformación que pretenda introducirse al destino señalado, requiere de nuevo permiso.

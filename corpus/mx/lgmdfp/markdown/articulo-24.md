@@ -23,9 +23,9 @@ I. Se encuentre involucrado algún servidor público federal como probable respo
 
 II. Se actualicen las hipótesis previstas en la Ley Orgánica del Poder Judicial de la Federación, en el Código Nacional de Procedimientos Penales, en el Código Penal Federal, o en cualquier otra disposición que le otorgue competencia a la Federación;
 
-III. Exista una sentencia o decisión de algún organismo internacional de protección de los derechos humanos o una resolución de un órgano previsto en cualquier Tratado Internacional en la que se determine la responsabilidad u obligación del Estado Mexicano por defecto u omisión en la investigación, persecución o enjuiciamiento de los delitos previstos en esta Ley;
+III. Exista una sentencia o decisión de algún organismo internacional de protección de los derechos humanos o una resolución de un órgano previsto en cualquier [Tratado](articulo-4.md) Internacional en la que se determine la responsabilidad u obligación del Estado Mexicano por defecto u omisión en la investigación, persecución o enjuiciamiento de los delitos previstos en esta Ley;
 
-IV. El Ministerio Público de la Federación solicite a la Fiscalía Especial de la Entidad Federativa, le remita la investigación correspondiente, atendiendo a las características propias del hecho, así como a las circunstancias de ejecución o la relevancia social del mismo, o
+IV. El Ministerio Público de la Federación solicite a la [Fiscalía](articulo-4.md) Especial de la [Entidad Federativa](articulo-4.md), le remita la investigación correspondiente, atendiendo a las características propias del hecho, así como a las circunstancias de ejecución o la relevancia social del mismo, o
 
 V. Durante la investigación se encuentren indicios que en la comisión del hecho participó una persona cuya pertenencia o colaboración con la delincuencia organizada esté acreditada.
 

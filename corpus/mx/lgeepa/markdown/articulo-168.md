@@ -17,9 +17,9 @@ source_sha256: 0574853d06020030188e8aee1eae5dabb2b476ac630cc52be631a48d2b91adbc
 
 # Artículo 168
 
-Una vez recibidos los alegatos o transcurrido el término para presentarlos, la Secretaría procederá, dentro de los veinte días siguientes, a dictar por escrito la resolución respectiva, misma que se notificará al interesado, personalmente o por correo certificado con acuse de recibo.
+Una vez recibidos los alegatos o transcurrido el término para presentarlos, la [Secretaría](articulo-3o.md) procederá, dentro de los veinte días siguientes, a dictar por escrito la resolución respectiva, misma que se notificará al interesado, personalmente o por correo certificado con acuse de recibo.
 
-Durante el procedimiento, y antes de que se dicte resolución administrativa, el interesado y la Procuraduría Federal de Protección al Ambiente, a petición del primero, podrán convenir la realización de acciones para la reparación y compensación de los daños que se hayan ocasionado al ambiente. Párrafo adicionado DOF 31-12-2001. Reformado DOF 07-06-2013
+Durante el procedimiento, y antes de que se dicte resolución administrativa, el interesado y la Procuraduría Federal de [Protección](articulo-3o.md) al [Ambiente](articulo-3o.md), a petición del primero, podrán convenir la realización de acciones para la reparación y compensación de los daños que se hayan ocasionado al ambiente. Párrafo adicionado DOF 31-12-2001. Reformado DOF 07-06-2013
 
 En los convenios administrativos referidos en el párrafo anterior, podrán intervenir quienes sean parte en el procedimiento judicial previsto en la Ley Federal de Responsabilidad Ambiental, siempre que se trate de la misma infracción, hechos y daños. Párrafo adicionado DOF 07-06-2013
 

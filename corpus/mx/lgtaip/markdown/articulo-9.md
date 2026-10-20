@@ -17,4 +17,4 @@ source_sha256: e81e23876bd08da81cb8392af7054f6187ad043ca8f965777b455f9d12554e8b
 
 # Artículo 9
 
-Las Autoridades garantes, así como los sujetos obligados, en el ejercicio, tramitación e interpretación de la presente Ley, las correspondientes de las entidades federativas y demás disposiciones relacionadas con la referida materia, deberán atender a los principios establecidos en la presente sección.
+Las [Autoridades garantes](articulo-3.md), así como los sujetos obligados, en el ejercicio, tramitación e interpretación de la presente [Ley](articulo-3.md), las correspondientes de las entidades federativas y demás disposiciones relacionadas con la referida materia, deberán atender a los principios establecidos en la presente sección.

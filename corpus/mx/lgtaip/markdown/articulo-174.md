@@ -17,4 +17,4 @@ source_sha256: e81e23876bd08da81cb8392af7054f6187ad043ca8f965777b455f9d12554e8b
 
 # Artículo 174
 
-Cuando la Autoridad garante federal determine durante la sustanciación del recurso de inconformidad que pudo haberse incurrido en una probable responsabilidad por el incumplimiento a las obligaciones previstas en la presente Ley y demás disposiciones aplicables en la materia, deberá hacerlo del conocimiento de la autoridad competente para que esta inicie, en su caso, el procedimiento de responsabilidad respectivo.
+Cuando la [Autoridad garante federal](articulo-3.md) determine durante la sustanciación del recurso de inconformidad que pudo haberse incurrido en una probable responsabilidad por el incumplimiento a las obligaciones previstas en la presente [Ley](articulo-3.md) y demás disposiciones aplicables en la materia, deberá hacerlo del conocimiento de la autoridad competente para que esta inicie, en su caso, el procedimiento de responsabilidad respectivo.

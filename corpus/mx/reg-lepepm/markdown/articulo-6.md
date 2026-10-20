@@ -17,4 +17,4 @@ source_sha256: 9080231242a59cbd78d30fb747864bc45cd63d3c4978f37086b01e45343f4244
 
 # Artículo 6
 
-Las Personas Consejeras deben comunicar por escrito a la persona que preside el Consejo de Administración, la designación de las personas servidoras públicas suplentes que pueden asistir a las sesiones del Consejo de Administración y de sus comités.
+Las [Personas Consejeras](articulo-2.md) deben comunicar por escrito a la persona que preside el [Consejo de Administración](articulo-2.md), la designación de las personas servidoras públicas suplentes que pueden asistir a las sesiones del Consejo de Administración y de sus comités.

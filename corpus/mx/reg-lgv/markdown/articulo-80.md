@@ -29,6 +29,6 @@ IV. Se realice la evaluación integral del entorno familiar y social a que se re
 
 V. En términos de lo dispuesto en el artículo [69](../../lgv/markdown/articulo-69.md) de la Ley, la víctima exhiba ante la Comisión Ejecutiva todos los elementos a su alcance que prueben la procedencia de la compensación subsidiaria y presente ante la Comisión Ejecutiva sus alegatos.
 
-En caso de que a la víctima se le haya cubierto parte de la reparación integral a través de otros mecanismos, el Fondo puede pagar, de manera complementaria, la compensación subsidiaria, hasta por el monto no cubierto por el mecanismo respectivo.
+En caso de que a la víctima se le haya cubierto parte de la reparación integral a través de otros mecanismos, el [Fondo](articulo-3.md) puede pagar, de manera complementaria, la compensación subsidiaria, hasta por el monto no cubierto por el mecanismo respectivo.
 
 La Comisión Ejecutiva ejercerá el derecho a repetir a conformidad con lo previsto en el artículo [71](../../lgv/markdown/articulo-71.md) de la Ley.

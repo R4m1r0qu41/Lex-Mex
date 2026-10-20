@@ -35,12 +35,12 @@ D = Número de defunciones.
 
 M = 0.005, que es la prima mínima de riesgo.
 
-Al inscribirse por primera vez en el Instituto o al cambiar de actividad, las empresas cubrirán, en la clase que les corresponda conforme al reglamento, la prima media. Una vez ubicada la empresa en la prima a pagar, los siguientes aumentos o disminuciones de la misma se harán conforme al párrafo primero de este artículo.
+Al inscribirse por primera vez en el [Instituto](articulo-5-A.md) o al cambiar de actividad, las empresas cubrirán, en la clase que les corresponda conforme al reglamento, la prima media. Una vez ubicada la empresa en la prima a pagar, los siguientes aumentos o disminuciones de la misma se harán conforme al párrafo primero de este artículo.
 
 No se tomarán en cuenta para la siniestralidad de las empresas, los accidentes que ocurran a los trabajadores al trasladarse de su domicilio al centro de labores o viceversa.
 
 Los patrones cuyos centros de trabajo cuenten con un sistema de administración y seguridad en el trabajo acreditado por la Secretaría del Trabajo y Previsión Social, aplicarán una F de 2.2 como factor de prima.
 
-Las empresas de menos de 10 trabajadores, podrán optar por presentar la declaración anual correspondiente o cubrir la prima media que les corresponda conforme al reglamento, de acuerdo al artículo [73](articulo-73.md) de esta Ley.
+Las empresas de menos de 10 trabajadores, podrán optar por presentar la declaración anual correspondiente o cubrir la prima media que les corresponda conforme al reglamento, de acuerdo al artículo [73](articulo-73.md) de esta [Ley](articulo-5-A.md).
 
 Artículo reformado DOF 20-12-2001

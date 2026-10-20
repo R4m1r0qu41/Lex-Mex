@@ -30,5 +30,3 @@ En todo caso, si la sanción impuesta se deja sin efectos por alguna autoridad c
 La información antes señalada no será considerada como reservada o confidencial.
 
 Artículo adicionado DOF 06-02-2008. Reformado DOF 25-06-2009, 10-01-2014
-
-Capítulo II Bis De los programas de autocorrección Capítulo adicionado DOF 10-01-2014

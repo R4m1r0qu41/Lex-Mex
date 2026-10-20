@@ -17,9 +17,9 @@ source_sha256: c1870db657a6564bbeb692a1778472db811a920626822de553ff5ca5194f95b4
 
 # Artículo 26
 
-Los Biocombustibles para aeronaves no pueden ser expendidos directamente al público.
+Los [Biocombustibles](articulo-2.md) para aeronaves no pueden ser expendidos directamente al público.
 
-Las personas que obtengan el permiso correspondiente expedido por la SENER están facultadas para realizar la actividad de Distribución de Biocombustibles para aeronaves en aeródromos a las siguientes personas usuarias:
+Las personas que obtengan el permiso correspondiente expedido por la [SENER](articulo-2.md) están facultadas para realizar la actividad de [Distribución](articulo-2.md) de Biocombustibles para aeronaves en aeródromos a las siguientes personas usuarias:
 
 I. Transportistas aéreos;
 
@@ -27,6 +27,6 @@ II. Operadores aéreos, y
 
 III. Terceros para actividades distintas de las aeronáuticas.
 
-En el caso de la fracción III del presente artículo, dichos terceros deben contar previamente con la opinión favorable de la Secretaría de Infraestructura, Comunicaciones y Transportes.
+En el caso de la fracción III del presente artículo, dichos terceros deben contar previamente con la opinión favorable de la Secretaría de Infraestructura, Comunicaciones y [Transportes](articulo-2.md).
 
 La SENER debe emitir las disposiciones generales aplicables para el otorgamiento de los permisos previstos en el presente artículo.

@@ -17,6 +17,6 @@ source_sha256: 0574853d06020030188e8aee1eae5dabb2b476ac630cc52be631a48d2b91adbc
 
 # Artículo 131
 
-Para la protección del medio marino, la Secretaría emitirá las normas oficiales mexicanas para la explotación, preservación y administración de los recursos naturales, vivos y abióticos, del lecho y el subsuelo del mar y de las aguas suprayacentes, así como las que deberán observarse para la realización de actividades de exploración y explotación en la zona económica exclusiva.
+Para la protección del medio marino, la [Secretaría](articulo-3o.md) emitirá las normas oficiales mexicanas para la explotación, preservación y administración de los recursos naturales, vivos y abióticos, del lecho y el subsuelo del mar y de las aguas suprayacentes, así como las que deberán observarse para la realización de actividades de exploración y explotación en la zona económica exclusiva.
 
 Artículo reformado DOF 13-12-1996

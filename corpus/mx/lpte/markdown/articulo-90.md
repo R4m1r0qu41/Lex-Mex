@@ -17,4 +17,4 @@ source_sha256: c24aa3a57883383635d5271683dd76e561f21852328f0e89f6bf1c2a09aa2d41
 
 # Artículo 90
 
-La CONUEE puede, de manera aleatoria o cuando lo considere necesario, vigilar y supervisar de forma física o remota la ejecución de los procesos que desarrollen los particulares para mejorar su Eficiencia Energética y ordenar visitas de verificación a los Usuarios de Patrón de Alto Consumo de energía, a las Empresas Públicas del Estado y a la Administración Pública Federal.
+La [CONUEE](articulo-3.md) puede, de manera aleatoria o cuando lo considere necesario, vigilar y supervisar de forma física o remota la ejecución de los procesos que desarrollen los particulares para mejorar su [Eficiencia Energética](articulo-3.md) y ordenar visitas de verificación a los Usuarios de Patrón de Alto Consumo de energía, a las Empresas Públicas del Estado y a la Administración Pública Federal.

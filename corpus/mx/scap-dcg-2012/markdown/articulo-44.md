@@ -24,6 +24,6 @@ Para efectos de la presente regulación, se entenderá por “pasivos de corto p
 
 Las Sociedades deberán mantener una posición de por lo menos el equivalente al 10 por ciento de sus pasivos a corto plazo, invertidos en depósitos a la vista, así como en títulos bancarios, valores gubernamentales o en disponibilidades, cuyo plazo de vencimiento sea igual o menor a 30 días.50
 
-La Comisión podrá incrementar el coeficiente de liquidez cuando a su juicio y, tomando en cuenta los riesgos asumidos por la Sociedad de que se trate, dicha medida se justifique.
+La [Comisión](articulo-1.md) podrá incrementar el coeficiente de liquidez cuando a su juicio y, tomando en cuenta los riesgos asumidos por la Sociedad de que se trate, dicha medida se justifique.
 
 Apartado F (Derogado) Diversificación de riesgos en las operaciones (Derogado)

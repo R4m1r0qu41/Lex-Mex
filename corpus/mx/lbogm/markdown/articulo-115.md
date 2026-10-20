@@ -17,7 +17,7 @@ source_sha256: b3c906475b455176de73da17f4f93a73f295965dc9bcca854b48417c7d4d3cfc
 
 # Artículo 115
 
-Las Secretarías, en el ámbito de su competencia conforme a esta Ley, ordenarán alguna o algunas de las medidas que se establecen en este artículo, en caso de que en la realización de actividades con OGMs se presente lo siguiente:
+Las [Secretarías](articulo-3.md), en el ámbito de su competencia conforme a esta Ley, ordenarán alguna o algunas de las medidas que se establecen en este artículo, en caso de que en la realización de actividades con OGMs se presente lo siguiente:
 
 I. Surjan riesgos no previstos originalmente, que pudieran causar daños o efectos adversos y significativos a la salud humana o a la diversidad biológica o a la sanidad animal, vegetal o acuícola;
 

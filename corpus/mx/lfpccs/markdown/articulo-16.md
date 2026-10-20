@@ -25,7 +25,7 @@ II. Fomentar e implementar mecanismos de integración y vinculación entre la in
 
 III. Promover esquemas para que los pequeños productores tengan acceso preferente a nuevas y mejores semillas;
 
-IV. Apoyar acciones y programas de capacitación y asistencia técnica para los sectores representados en el Sistema;
+IV. Apoyar acciones y programas de capacitación y asistencia técnica para los sectores representados en el [Sistema](articulo-3.md);
 
 V. Establecer un sistema de información en materia de semillas, considerando las previsiones de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental;
 

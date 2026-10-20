@@ -17,4 +17,4 @@ source_sha256: a1cc8f6043c35579235fd61d2e34977e1735af4ea6919d053f89462b97742335
 
 # Artículo 30
 
-Para la elaboración del Programa Nacional, la Secretaría realizará un análisis que comprenderá, cuando menos, los factores que generan la inseguridad, sus causas, los factores de riesgo y sus consecuencias, así como el reconocimiento de la incidencia en la Violencia y la delincuencia por sectores.
+Para la elaboración del Programa Nacional, la [Secretaría](articulo-3.md) realizará un análisis que comprenderá, cuando menos, los factores que generan la inseguridad, sus causas, los factores de riesgo y sus consecuencias, así como el reconocimiento de la incidencia en la Violencia y la delincuencia por sectores.

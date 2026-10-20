@@ -17,4 +17,4 @@ source_sha256: aa96853f010885bdf85160e944e5c0ef5c3c8e95422dfede280d228cf064310a
 
 # Artículo 81
 
-Las Reglas del Mercado pueden establecer esquemas especiales para la operación de los pequeños sistemas eléctricos, así como para el Sistema Interconectado de Baja California y para el Sistema Interconectado de Baja California Sur. El Control Operativo de los anteriores sistemas es facultad del CENACE.
+Las [Reglas del Mercado](articulo-3.md) pueden establecer esquemas especiales para la operación de los pequeños sistemas eléctricos, así como para el Sistema Interconectado de Baja California y para el Sistema Interconectado de Baja California Sur. El Control Operativo de los anteriores sistemas es facultad del [CENACE](articulo-3.md).

@@ -17,4 +17,4 @@ source_sha256: 1405f36fd836ff74d059ebe7e50ae439cbb9e5e291a317514667f34a26f72a23
 
 # Artículo 66
 
-Las autorizaciones a que se refiere este Capítulo terminan por cualquiera de las causas que se establecen para la terminación de los permisos a que se refiere el artículo [87](articulo-87.md) de esta Ley, así como por la terminación del Contrato para la Exploración y Extracción o de la Asignación, según sea el caso. La terminación de la autorización no exime a su titular de las responsabilidades contraídas durante su vigencia, con el Gobierno Federal y con terceros.
+Las autorizaciones a que se refiere este Capítulo terminan por cualquiera de las causas que se establecen para la terminación de los permisos a que se refiere el artículo [87](articulo-87.md) de esta Ley, así como por la terminación del [Contrato para la Exploración y Extracción](articulo-5.md) o de la [Asignación](articulo-5.md), según sea el caso. La terminación de la autorización no exime a su titular de las responsabilidades contraídas durante su vigencia, con el Gobierno Federal y con terceros.

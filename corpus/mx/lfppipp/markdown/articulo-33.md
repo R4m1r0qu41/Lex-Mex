@@ -17,4 +17,4 @@ source_sha256: 2a105e5201b86ff5517ca1ef8d971224ea8c717f195fdd5fa28b916c7e622e56
 
 # Artículo 33
 
-El Centro podrá mantener, modificar o suprimir todas o algunas de las Medidas de Protección durante cualquier etapa del Procedimiento Penal cuando exista la solicitud de la persona o se produzcan hechos o circunstancias que así lo ameriten.
+El [Centro](articulo-2.md) podrá mantener, modificar o suprimir todas o algunas de las [Medidas de Protección](articulo-2.md) durante cualquier etapa del Procedimiento Penal cuando exista la solicitud de la persona o se produzcan hechos o circunstancias que así lo ameriten.

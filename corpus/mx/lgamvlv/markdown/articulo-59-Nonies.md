@@ -20,7 +20,3 @@ source_sha256: 9a35a6a9017840b7d052dfc0726ff668a76257fd3f76f741c615630125fbf535
 Para el funcionamiento de los [Centros de Justicia para las Mujeres](articulo-5.md), las Entidades Federativas contarán con los recursos derivados de los convenios que en su caso suscriban con el Gobierno Federal, en términos de las disposiciones aplicables, así como de los recursos que asignen en sus Presupuestos de Egresos, de los ingresos derivados de convenios que celebren con otras dependencias públicas o privadas, y los que obtengan por cualquier otro medio legal, provenientes de personas físicas o morales que tengan interés en apoyar en la realización de sus actividades.
 
 Artículo adicionado DOF 08-05-2023
-
-ARTÍCULO 59 Decies.- Para la creación de los Centros de Justicia para las Mujeres, se deberán priorizar los municipios con mayor índice de violencia contra las mujeres.
-
-Artículo adicionado DOF 08-05-2023

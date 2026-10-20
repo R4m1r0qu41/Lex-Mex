@@ -17,4 +17,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Artículo 151
 
-La solicitud de modificación por cesión del permiso que implique una participación cruzada debe incluir la autorización por parte de la Secretaría a que se refiere el artículo [118](../../lsh/markdown/articulo-118.md), tercer párrafo de la Ley.
+La solicitud de modificación por cesión del permiso que implique una participación cruzada debe incluir la autorización por parte de la [Secretaría](articulo-3.md) a que se refiere el artículo [118](../../lsh/markdown/articulo-118.md), tercer párrafo de la [Ley](articulo-3.md).

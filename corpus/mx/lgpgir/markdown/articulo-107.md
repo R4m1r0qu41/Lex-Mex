@@ -17,4 +17,4 @@ source_sha256: b34326588bd6e7519e33411d3658239e3aefb56cef0fae5d775bc894af64a565
 
 # Artículo 107
 
-Para la imposición de sanciones por infracciones a esta Ley se estará a lo dispuesto en la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
+Para la imposición de sanciones por infracciones a esta [Ley](articulo-5.md) se estará a lo dispuesto en la Ley General del Equilibrio Ecológico y la Protección al Ambiente.

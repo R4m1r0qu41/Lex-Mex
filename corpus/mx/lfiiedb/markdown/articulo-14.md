@@ -17,4 +17,4 @@ source_sha256: 7679afbbf32749e0c0bacab72644d41fc6ccdeeab3a2f25dfae8d26a065de01e
 
 # Artículo 14
 
-Los Vehículos de Propósito Específico procurarán las mejores condiciones económicas y financieras para los Proyectos para el desarrollo con bienestar, observando los principios de eficiencia, eficacia, economía, transparencia y honradez del gasto público.
+Los [Vehículos de Propósito Específico](articulo-4.md) procurarán las mejores condiciones económicas y financieras para los [Proyectos para el desarrollo con bienestar](articulo-4.md), observando los principios de eficiencia, eficacia, economía, transparencia y honradez del gasto público.

@@ -13,8 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LTOSF.pdf
 source_sha256: bf9e443e89a5c0ba268e76f20923ae25195ef5c1ffbacecff36693ca228c3667
 ---
 
+> Capítulo VI
+
 # Artículo 50
 
 En contra de las sanciones que impongan las [Autoridades](articulo-3.md), procederá el recurso de revisión previsto en la Ley Federal de Procedimiento Administrativo.
-
-Capítulo VII De la ejecución de multas

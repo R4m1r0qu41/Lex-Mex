@@ -17,4 +17,4 @@ source_sha256: bd9ba59ab5016fd7d8737d382113a20e450b188e586925c31a1ef7c2af3f0065
 
 # Artículo 43
 
-Para la determinación e imposición de las sanciones previstas en la Ley y en el presente Reglamento, se deberá oír previamente al interesado, tomando en cuenta la naturaleza y la gravedad de la infracción, los daños y perjuicios causados, así como los antecedentes, circunstancias personales y situación socioeconómica del infractor.
+Para la determinación e imposición de las sanciones previstas en la [Ley](articulo-2.md) y en el presente Reglamento, se deberá oír previamente al interesado, tomando en cuenta la naturaleza y la gravedad de la infracción, los daños y perjuicios causados, así como los antecedentes, circunstancias personales y situación socioeconómica del infractor.

@@ -17,7 +17,7 @@ source_sha256: 6680a58c98673518aee46582b3137d28987c275785d1f0c97295f0d89c4b692b
 
 # Artículo 84
 
-La Secretaría, en materia del Registro Nacional de Turismo, tiene las siguientes facultades:
+La Secretaría, en materia del Registro Nacional de [Turismo](articulo-2.md), tiene las siguientes facultades:
 
 I. Inscribir en el Registro a los Prestadores de Servicios Turísticos que cumplan con los requisitos establecidos en la Ley y el presente Reglamento;
 

@@ -29,6 +29,17 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:3",
     "fraction": "III",
     "start_char": 432,
+    "end_char": 2555,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:term:cliente-o-usuaria",
+    "term": "Cliente o Usuaria",
+    "instrument_id": "urn:lex-mx:federal:statute:lfpiorpi",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:3",
+    "fraction": "III Bis",
+    "start_char": 2555,
     "end_char": 2756,
     "basis": "express_definition"
   },
@@ -40,6 +51,17 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:3",
     "fraction": "IV",
     "start_char": 2756,
+    "end_char": 2911,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:term:desarrollo-inmobiliario",
+    "term": "Desarrollo Inmobiliario",
+    "instrument_id": "urn:lex-mx:federal:statute:lfpiorpi",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:3",
+    "fraction": "IV Bis",
+    "start_char": 2911,
     "end_char": 3085,
     "basis": "express_definition"
   },
@@ -95,6 +117,17 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:3",
     "fraction": "IX",
     "start_char": 4430,
+    "end_char": 4485,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:term:persona-politicamente-expuesta",
+    "term": "Persona Políticamente Expuesta",
+    "instrument_id": "urn:lex-mx:federal:statute:lfpiorpi",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:3",
+    "fraction": "IX Bis",
+    "start_char": 4485,
     "end_char": 4857,
     "basis": "express_definition"
   },
@@ -128,6 +161,28 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:3",
     "fraction": "XII",
     "start_char": 5065,
+    "end_char": 5493,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:term:representante-encargada-de-cumplimiento",
+    "term": "Representante Encargada de Cumplimiento",
+    "instrument_id": "urn:lex-mx:federal:statute:lfpiorpi",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:3",
+    "fraction": "XII Bis",
+    "start_char": 5493,
+    "end_char": 5682,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:term:riesgo",
+    "term": "Riesgo",
+    "instrument_id": "urn:lex-mx:federal:statute:lfpiorpi",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:3",
+    "fraction": "XII Ter",
+    "start_char": 5682,
     "end_char": 6125,
     "basis": "express_definition"
   },
@@ -139,6 +194,17 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:3",
     "fraction": "XIII",
     "start_char": 6125,
+    "end_char": 6224,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:term:uma",
+    "term": "UMA",
+    "instrument_id": "urn:lex-mx:federal:statute:lfpiorpi",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:3",
+    "fraction": "XIII Bis",
+    "start_char": 6224,
     "end_char": 6481,
     "basis": "express_definition"
   },

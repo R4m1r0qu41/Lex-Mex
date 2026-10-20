@@ -1,1 +1,79 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lie:term:comision",
+    "term": "Comisión",
+    "instrument_id": "urn:lex-mx:federal:statute:lie",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lie:article:2",
+    "fraction": "I",
+    "start_char": 49,
+    "end_char": 113,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lie:term:inversion-extranjera",
+    "term": "Inversión extranjera",
+    "instrument_id": "urn:lex-mx:federal:statute:lie",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lie:article:2",
+    "fraction": "II",
+    "start_char": 113,
+    "end_char": 448,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lie:term:inversionista-extranjero",
+    "term": "Inversionista extranjero",
+    "instrument_id": "urn:lex-mx:federal:statute:lie",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lie:article:2",
+    "fraction": "III",
+    "start_char": 448,
+    "end_char": 603,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lie:term:registro",
+    "term": "Registro",
+    "instrument_id": "urn:lex-mx:federal:statute:lie",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lie:article:2",
+    "fraction": "IV",
+    "start_char": 603,
+    "end_char": 667,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lie:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:statute:lie",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lie:article:2",
+    "fraction": "V",
+    "start_char": 667,
+    "end_char": 744,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lie:term:zona-restringida",
+    "term": "Zona Restringida",
+    "instrument_id": "urn:lex-mx:federal:statute:lie",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lie:article:2",
+    "fraction": "VI",
+    "start_char": 744,
+    "end_char": 1003,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lie:term:clausula-de-exclusion-de-extranjeros",
+    "term": "Cláusula de Exclusión de Extranjeros",
+    "instrument_id": "urn:lex-mx:federal:statute:lie",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lie:article:2",
+    "fraction": "VII",
+    "start_char": 1003,
+    "end_char": 1340,
+    "basis": "express_definition"
+  }
+]

@@ -20,5 +20,3 @@ source_sha256: a2d80c4383c5fbc8453cf290c19b7853eb0a5a05d1e366572da384edfafda88c
 Derogado.
 
 Artículo reformado DOF 05-01-1955, 03-01-1989. Derogado DOF 10-01-1994
-
-Capítulo V Feminicidio Denominación del Capítulo reformada DOF 14-06-2012

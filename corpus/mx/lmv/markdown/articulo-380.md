@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título XIV · Capítulo II
+
 # Artículo 380
 
 Será sancionado con prisión de tres a quince años todo aquél que estando obligado legal o contractualmente a mantener confidencialidad, reserva o secrecía, proporcione por cualquier medio o transmita información privilegiada a otra u otras personas. Párrafo reformado DOF 10-01-2014

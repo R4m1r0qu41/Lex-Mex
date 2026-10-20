@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf
 source_sha256: ca63a23a4b7444ebdbdad93759fbf46bd14c069e587c5878decf89fc9c12ca8e
 ---
 
+> Título Tercero · Capítulo IV
+
 # Artículo 96
 
 Las Ministras y Ministros de la Suprema Corte de Justicia de la Nación, Magistradas y Magistrados de la Sala Superior y las salas regionales del Tribunal Electoral del Poder Judicial de la Federación, Magistradas y Magistrados del Tribunal de Disciplina Judicial, Magistradas y Magistrados de Circuito y Juezas y Jueces de Distrito, serán elegidos de manera libre, directa y secreta por la ciudadanía el día que se realicen las elecciones federales ordinarias del año que corresponda conforme al siguiente procedimiento:
@@ -27,7 +29,9 @@ b) Cada Poder integrará un Comité de Evaluación conformado por cinco personas
 
 Las personas coordinadoras de los tres Comités integrarán una Comisión Coordinadora, responsable de verificar el cumplimiento de los requisitos constitucionales y legales de las personas participantes, establecer criterios y metodologías homologadas de evaluación, selección y exámenes de conocimientos, y emitir acuerdos que regulen los trabajos de los tres Comités.
 
-Cada Comité seleccionará, conforme a los criterios definidos por la Comisión Coordinadora, a las personas mejor evaluadas que cuenten con los conocimientos técnicos necesarios para el desempeño del cargo y se hayan distinguido por su honestidad, buena fama pública, competencia y antecedentes académicos y profesionales en el ejercicio de la actividad jurídica, y Inciso reformado DOF 02-06-2026 c) Los Comités de Evaluación integrarán un listado de las cuatro personas mejor evaluadas para cada cargo. Posteriormente, depurarán dicho listado mediante insaculación pública para ajustarlo a dos personas para cada cargo. Los Comités garantizarán la paridad de género en el listado de personas a insacular por especialidad y circuito judicial, de ser aplicable. Asimismo, observarán la paridad de género en el listado de propuestas posterior a la insaculación. Ajustados los listados, los Comités los remitirán a la autoridad que represente a cada Poder de la Unión para su aprobación y envío al Senado.
+Cada Comité seleccionará, conforme a los criterios definidos por la Comisión Coordinadora, a las personas mejor evaluadas que cuenten con los conocimientos técnicos necesarios para el desempeño del cargo y se hayan distinguido por su honestidad, buena fama pública, competencia y antecedentes académicos y profesionales en el ejercicio de la actividad jurídica, y Inciso reformado DOF 02-06-2026
+
+c) Los Comités de Evaluación integrarán un listado de las cuatro personas mejor evaluadas para cada cargo. Posteriormente, depurarán dicho listado mediante insaculación pública para ajustarlo a dos personas para cada cargo. Los Comités garantizarán la paridad de género en el listado de personas a insacular por especialidad y circuito judicial, de ser aplicable. Asimismo, observarán la paridad de género en el listado de propuestas posterior a la insaculación. Ajustados los listados, los Comités los remitirán a la autoridad que represente a cada Poder de la Unión para su aprobación y envío al Senado.
 
 Para los efectos del párrafo anterior, cada uno de los Poderes de la Unión postulará dos personas para cada cargo: el Poder Ejecutivo lo hará por conducto de la persona titular de la Presidencia de la República; el Poder Legislativo postulará una persona por cada Cámara mediante votación calificada de dos tercios de sus integrantes presentes; y el Poder Judicial de la Federación, por conducto del Pleno de la Suprema Corte de Justicia de la Nación, por mayoría de seis votos. Inciso reformado DOF 02-06-2026
 

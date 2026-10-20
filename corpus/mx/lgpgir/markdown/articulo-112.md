@@ -17,7 +17,7 @@ source_sha256: b34326588bd6e7519e33411d3658239e3aefb56cef0fae5d775bc894af64a565
 
 # Artículo 112
 
-Las violaciones a los preceptos de esta Ley, y disposiciones que de ella emanen serán sancionadas administrativamente por la Secretaría, con una o más de las siguientes sanciones:
+Las violaciones a los preceptos de esta [Ley](articulo-5.md), y disposiciones que de ella emanen serán sancionadas administrativamente por la [Secretaría](articulo-5.md), con una o más de las siguientes sanciones:
 
 I. Clausura temporal o definitiva, total o parcial, cuando:
 

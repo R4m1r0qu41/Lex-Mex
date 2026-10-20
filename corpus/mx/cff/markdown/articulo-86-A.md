@@ -33,4 +33,6 @@ VI. Cuando sea informado al Servicio de Administración Tributaria por la autori
 
 VII. Cuando hagan un uso incorrecto de marbetes o precintos. El Servicio de Administración Tributaria, mediante reglas de carácter general, determinará los casos en los que no se configura el uso incorrecto de marbetes o precintos. Fracción adicionada DOF 12-11-2021
 
-VIII. Omitir realizar la lectura del código QR del marbete por parte de los establecimientos a los que se refiere la fracción XXIV del artículo [19](../../lieps/markdown/articulo-19.md) de la Ley del Impuesto Especial sobre Producción y Servicios, en los que se realice la apertura de bebidas alcohólicas para su consumo final. Fracción adicionada DOF 12-11-2021 IX. Producir más de una vez los folios electrónicos que le fueron autorizados para la impresión digital de marbetes. Fracción adicionada DOF 12-11-2021
+VIII. Omitir realizar la lectura del código QR del marbete por parte de los establecimientos a los que se refiere la fracción XXIV del artículo [19](../../lieps/markdown/articulo-19.md) de la Ley del Impuesto Especial sobre Producción y Servicios, en los que se realice la apertura de bebidas alcohólicas para su consumo final. Fracción adicionada DOF 12-11-2021
+
+IX. Producir más de una vez los folios electrónicos que le fueron autorizados para la impresión digital de marbetes. Fracción adicionada DOF 12-11-2021

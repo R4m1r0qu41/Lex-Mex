@@ -17,7 +17,7 @@ source_sha256: d0021bbef2e0c3251d6efdea2c1efd9959ff3f02df4bcd1fc37c1ee7826a72ba
 
 # Artículo 48
 
-El patrimonio de la Comisión se integra con:
+El patrimonio de la [Comisión](articulo-3.md) se integra con:
 
 I. Los bienes muebles e inmuebles que adquiera para el cumplimiento de su objeto, incluyendo los que la Federación haya destinado para tal fin o para su uso exclusivo;
 

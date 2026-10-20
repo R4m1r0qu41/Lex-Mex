@@ -18,6 +18,6 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 265 Bis 38
 
-Las Sociedades Financieras Populares deberán presentar a la Comisión, un aviso suscrito por el Director o Gerente General, cuando pretendan contratar comisiones mercantiles que tengan por objeto efectuar las operaciones referidas en la fracción III del artículo [265 Bis 36](articulo-265-Bis-36.md) de estas disposiciones, con una anticipación de por lo menos veinte días hábiles a la citada contratación.
+Las [Sociedades](articulo-1.md) Financieras Populares deberán presentar a la Comisión, un aviso suscrito por el [Director o Gerente General](articulo-1.md), cuando pretendan contratar comisiones mercantiles que tengan por objeto efectuar las operaciones referidas en la fracción III del artículo [265 Bis 36](articulo-265-Bis-36.md) de estas disposiciones, con una anticipación de por lo menos veinte días hábiles a la citada contratación.
 
 En todo caso, para la contratación de las citadas operaciones, las Sociedades Financieras Populares deberán contar con el plan estratégico de negocios a que se refiere el artículo [265 Bis 37](articulo-265-Bis-37.md) anterior, el cual deberá mantenerse a disposición de la Comisión.

@@ -17,7 +17,7 @@ source_sha256: d0021bbef2e0c3251d6efdea2c1efd9959ff3f02df4bcd1fc37c1ee7826a72ba
 
 # Artículo 116
 
-Las promociones y documentos deben presentarse únicamente en la oficialía de partes de la Comisión dentro del horario y calendario de labores que sean publicados en el Diario Oficial de la Federación.
+Las promociones y documentos deben presentarse únicamente en la oficialía de partes de la [Comisión](articulo-3.md) dentro del horario y calendario de labores que sean publicados en el Diario Oficial de la Federación.
 
 Se pueden presentar promociones el día de su vencimiento después de concluido el horario en que la oficialía de partes debe recibir documentos, por transmisión electrónica, a las direcciones de correo electrónico que para tal efecto sean publicadas. El sistema debe generar el acuse de recibo que corresponda.
 

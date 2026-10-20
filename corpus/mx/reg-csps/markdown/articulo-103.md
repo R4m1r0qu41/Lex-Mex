@@ -17,4 +17,4 @@ source_sha256: 70464807d63da08244e495f2ff0ac30b12b30119926b84cedc7930397fcb80ef
 
 # Artículo 103
 
-Las aguas envasadas para consumo humano y los establecimientos en donde se procesen, independientemente de su origen o tratamiento al que se sometan, deberán cumplir como mínimo con las especificaciones sanitarias del agua potable y demás disposiciones que, en su caso, determine la Secretaría.
+Las aguas envasadas para consumo humano y los establecimientos en donde se procesen, independientemente de su origen o tratamiento al que se sometan, deberán cumplir como mínimo con las especificaciones sanitarias del agua potable y demás disposiciones que, en su caso, determine la [Secretaría](articulo-2o.md).

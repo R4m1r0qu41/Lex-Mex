@@ -17,4 +17,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Artículo 226
 
-La causal de recisión o declaración de insubsistencia a que se refiere el artículo [147](../../lsh/markdown/articulo-147.md), fracción II, inciso b) de la Ley, es procedente cuando el uso que se realiza en el terreno sea distinto o adicional a aquél que justificó su afectación, siempre que dicho uso no corresponda a una actividad complementaria al uso principal.
+La causal de recisión o declaración de insubsistencia a que se refiere el artículo [147](../../lsh/markdown/articulo-147.md), fracción II, inciso b) de la [Ley](articulo-3.md), es procedente cuando el uso que se realiza en el terreno sea distinto o adicional a aquél que justificó su afectación, siempre que dicho uso no corresponda a una actividad complementaria al uso principal.

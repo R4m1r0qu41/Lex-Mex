@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Único · Capítulo II
+
 # Artículo 1001
 
 Cuando la sentencia hubiere condenado al pago de daños y perjuicios sin fijar su importe en cantidad líquida, habiéndose establecido o no en aquélla las bases para la liquidación, la persona que haya obtenido a su favor el fallo, presentará con la solicitud oral o escrita, en relación de los daños y perjuicios y de su importe, observándose lo dispuesto en este [Código Nacional](articulo-2.md).

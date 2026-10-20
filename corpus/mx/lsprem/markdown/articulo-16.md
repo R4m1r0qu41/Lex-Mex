@@ -17,4 +17,4 @@ source_sha256: bcc21844355854fe331c842c21436d721d6c2856b5c5986715fe39f4a845b317
 
 # Artículo 16
 
-La organización, funcionamiento y periodicidad de las sesiones de la Junta de Gobierno se establecerán en el Estatuto Orgánico del Sistema, así como las funciones del Secretario de la propia Junta.
+La organización, funcionamiento y periodicidad de las sesiones de la [Junta de Gobierno](articulo-2.md) se establecerán en el [Estatuto Orgánico](articulo-2.md) del [Sistema](articulo-2.md), así como las funciones del [Secretario](articulo-2.md) de la propia Junta.

@@ -18,7 +18,7 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 241
 
-La Comisión, mediante una o varias notificaciones por escrito, podrá ordenar en cualquier momento la aplicación de Medidas Correctivas Especiales Adicionales, atendiendo a la situación particular de la Sociedad de que se trate.
+La [Comisión](articulo-1.md), mediante una o varias notificaciones por escrito, podrá ordenar en cualquier momento la aplicación de [Medidas Correctivas Especiales Adicionales](articulo-1.md), atendiendo a la situación particular de la Sociedad de que se trate.
 
 La Comisión, para la aplicación de las Medidas Correctivas Especiales Adicionales, tomará en cuenta la categoría en que se hubiere clasificado a la Sociedad de que se trate y podrá además, considerar los elementos siguientes:
 
@@ -26,7 +26,7 @@ I. Su situación financiera integral.
 
 II. El cumplimiento al marco regulatorio.
 
-III. La tendencia del Nivel de Capitalización de la Sociedad y de los principales indicadores que reflejen el grado de estabilidad y solvencia.
+III. La tendencia del [Nivel de Capitalización](articulo-1.md) de la Sociedad y de los principales indicadores que reflejen el grado de estabilidad y solvencia.
 
 IV. La calidad de la información contable y financiera que presenta la Sociedad a la Comisión, así como el cumplimiento en la entrega de dicha información.
 

@@ -25,7 +25,7 @@ II. Celebrar convenios de colaboración con instituciones nacionales e internaci
 
 Artículo adicionado DOF 20-08-2009
 
-Artículo [192](articulo-192.md) Quintus.- La Secretaría de Salud realizará procesos de investigación en materia de farmacodependencia para:
+Artículo 192 Quintus.- La Secretaría de Salud realizará procesos de investigación en materia de farmacodependencia para:
 
 I. Determinar las características y tendencias del problema, así como su magnitud e impacto en lo individual, familiar y colectivo;
 

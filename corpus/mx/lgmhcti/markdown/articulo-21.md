@@ -17,4 +17,4 @@ source_sha256: 5a0e15e01ac963917e019e3cc4ad07e96d76cc6c82c8b4238dfbb3a58a146847
 
 # Artículo 21
 
-Los integrantes del Sistema Nacional tienen la obligación de promover la transparencia, la rendición de cuentas y el combate a la corrupción en el sector.
+Los integrantes del [Sistema Nacional](articulo-4.md) tienen la obligación de promover la transparencia, la rendición de cuentas y el combate a la corrupción en el sector.

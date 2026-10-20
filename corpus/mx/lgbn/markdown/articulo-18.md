@@ -17,7 +17,7 @@ source_sha256: ea96e97cbea2fd1919af78b94cd3466ee20a77e05989be2d482d2eb8061618c5
 
 # Artículo 18
 
-La revocación y la caducidad de las concesiones o asignaciones sobre bienes sujetos al régimen de dominio público de la Federación, cuando proceda conforme a la ley, se dictarán por las dependencias u organismos descentralizados que las hubieren otorgado, previa audiencia que se conceda a los interesados para que rindan pruebas y aleguen lo que a su derecho convenga.
+La revocación y la caducidad de las concesiones o asignaciones sobre bienes sujetos al régimen de dominio público de la [Federación](articulo-2.md), cuando proceda conforme a la ley, se dictarán por las dependencias u organismos descentralizados que las hubieren otorgado, previa audiencia que se conceda a los interesados para que rindan pruebas y aleguen lo que a su derecho convenga.
 
 En el caso de que la declaratoria quede firme, los bienes materia de la concesión o asignación, sus mejoras y accesiones pasarán de pleno derecho al control y administración del concesionante, sin pago de indemnización alguna a la persona concesionaria o asignataria.
 

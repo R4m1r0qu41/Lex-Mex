@@ -17,4 +17,4 @@ source_sha256: cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7
 
 # Artículo 10
 
-La Comisión Nacional cuenta con plena autonomía técnica para dictar sus resoluciones y laudos, y facultades de autoridad para imponer las sanciones previstas en esta Ley.
+La [Comisión Nacional](articulo-2o.md) cuenta con plena autonomía técnica para dictar sus resoluciones y laudos, y facultades de autoridad para imponer las sanciones previstas en esta Ley.

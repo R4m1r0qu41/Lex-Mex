@@ -31,4 +31,6 @@ a).- Residir o, en su caso, no residir en lugar determinado, e informe a la auto
 
 b).- Desempeñar en el plazo que la resolución determine, oficio, arte, industria o profesión lícitos, si no tuviere medios propios de subsistencia;
 
-c).- Abstenerse del abuso de bebidas embriagantes y del empleo de estupefacientes: psicotrópicos o sustancias que produzcan efectos similares, salvo por prescripción médica; Inciso reformado DOF 31-12-1974 d).- Sujetarse a las medidas de orientación y supervisión que se le dicten y a la vigilancia de alguna persona honrada y de arraigo, que se obligue a informar sobre su conducta, presentándolo siempre que para ello fuere requerida. Fe de erratas al artículo DOF 31-08-1931. Reformado DOF 19-03-1971
+c).- Abstenerse del abuso de bebidas embriagantes y del empleo de estupefacientes: psicotrópicos o sustancias que produzcan efectos similares, salvo por prescripción médica; Inciso reformado DOF 31-12-1974
+
+d).- Sujetarse a las medidas de orientación y supervisión que se le dicten y a la vigilancia de alguna persona honrada y de arraigo, que se obligue a informar sobre su conducta, presentándolo siempre que para ello fuere requerida. Fe de erratas al artículo DOF 31-08-1931. Reformado DOF 19-03-1971

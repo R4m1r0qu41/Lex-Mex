@@ -1,1 +1,79 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lepecfe:term:comite-especial",
+    "term": "Comité Especial",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lepecfe",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lepecfe:article:2",
+    "fraction": "I",
+    "start_char": 76,
+    "end_char": 137,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lepecfe:term:consejo-de-administracion",
+    "term": "Consejo de Administración",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lepecfe",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lepecfe:article:2",
+    "fraction": "II",
+    "start_char": 137,
+    "end_char": 237,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lepecfe:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lepecfe",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lepecfe:article:2",
+    "fraction": "III",
+    "start_char": 237,
+    "end_char": 322,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lepecfe:term:persona-comisaria",
+    "term": "Persona Comisaria",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lepecfe",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lepecfe:article:2",
+    "fraction": "IV",
+    "start_char": 322,
+    "end_char": 481,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lepecfe:term:personas-consejeras",
+    "term": "Personas Consejeras",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lepecfe",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lepecfe:article:2",
+    "fraction": "V",
+    "start_char": 481,
+    "end_char": 621,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lepecfe:term:personas-consejeras-independientes",
+    "term": "Personas Consejeras Independientes",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lepecfe",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lepecfe:article:2",
+    "fraction": "VI",
+    "start_char": 621,
+    "end_char": 774,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lepecfe:term:persona-consejera-de-los-trabajadores",
+    "term": "Persona Consejera de los Trabajadores",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lepecfe",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lepecfe:article:2",
+    "fraction": "VII",
+    "start_char": 774,
+    "end_char": 926,
+    "basis": "express_definition"
+  }
+]

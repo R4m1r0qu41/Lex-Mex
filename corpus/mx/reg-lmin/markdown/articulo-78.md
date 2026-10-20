@@ -17,11 +17,11 @@ source_sha256: 4d25bcb022ab62a24462e11a230c9554c0120012913ab4599cd3ec1b2b275c1d
 
 # Artículo 78
 
-Las solicitudes para inscribir actos y contratos a que se refiere el artículo 46 de la Ley deberán contener:
+Las solicitudes para inscribir actos y contratos a que se refiere el artículo 46 de la [Ley](articulo-1o.md) deberán contener:
 
 I. Tipo de acto, contrato o convenio de que se trate;
 
-II. Nombre del cedente o afectado por la adjudicación o el gravamen y, si es persona moral, datos de su inscripción en el Registro;
+II. Nombre del cedente o afectado por la adjudicación o el gravamen y, si es persona moral, datos de su inscripción en el [Registro](articulo-1o.md);
 
 III. Nombre del lote o lotes cuyas concesiones se transmiten o afectan, así como número de título;
 

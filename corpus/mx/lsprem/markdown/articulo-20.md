@@ -17,4 +17,4 @@ source_sha256: bcc21844355854fe331c842c21436d721d6c2856b5c5986715fe39f4a845b317
 
 # Artículo 20
 
-El Presidente no podrá desempeñar ningún otro empleo, cargo o comisión distintos, que sean remunerados, con excepción de los de carácter docente o científico.
+El [Presidente](articulo-2.md) no podrá desempeñar ningún otro empleo, cargo o comisión distintos, que sean remunerados, con excepción de los de carácter docente o científico.

@@ -17,4 +17,4 @@ source_sha256: a1cc8f6043c35579235fd61d2e34977e1735af4ea6919d053f89462b97742335
 
 # Artículo 17
 
-La Secretaría de Educación Pública elaborará campañas en materia de prevención de la Violencia y delincuencia que incluyan la prevención y erradicación de prácticas de hostigamiento, intimidación, acoso y violencia escolar dirigidas prioritariamente a los niños, niñas y jóvenes.
+La [Secretaría](articulo-3.md) de Educación Pública elaborará campañas en materia de prevención de la Violencia y delincuencia que incluyan la prevención y erradicación de prácticas de hostigamiento, intimidación, acoso y violencia escolar dirigidas prioritariamente a los niños, niñas y jóvenes.

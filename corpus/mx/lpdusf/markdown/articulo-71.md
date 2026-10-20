@@ -17,6 +17,6 @@ source_sha256: cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7
 
 # Artículo 71
 
-Las Delegaciones Regionales, Estatales o Locales de la Comisión Nacional en las que se presente una reclamación, estarán facultadas para substanciar el procedimiento conciliatorio y, en su caso, arbitral acogido por las partes, hasta la formulación del proyecto de laudo.
+Las Delegaciones Regionales, Estatales o Locales de la [Comisión Nacional](articulo-2o.md) en las que se presente una reclamación, estarán facultadas para substanciar el procedimiento conciliatorio y, en su caso, arbitral acogido por las partes, hasta la formulación del proyecto de laudo.
 
 Artículo reformado DOF 05-01-2000

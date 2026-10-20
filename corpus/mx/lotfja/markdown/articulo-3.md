@@ -17,7 +17,7 @@ source_sha256: b32c33fa4ed071dc8bea1ad69ce8510cdb05016967e9e4fcb60f10c6f2216628
 
 # Artículo 3
 
-El Tribunal conocerá de los juicios que se promuevan contra las resoluciones definitivas, actos administrativos y procedimientos que se indican a continuación:
+El [Tribunal](articulo-2.md) conocerá de los juicios que se promuevan contra las resoluciones definitivas, actos administrativos y procedimientos que se indican a continuación:
 
 I. Los decretos y acuerdos de carácter general, diversos a los reglamentos, cuando sean autoaplicativos o cuando el interesado los controvierta con motivo de su primer acto de aplicación;
 
@@ -41,7 +41,7 @@ IX. Las que nieguen la indemnización por responsabilidad patrimonial del Estado
 
 X. Las que requieran el pago de garantías a favor de la Federación, las entidades federativas o los Municipios, así como de sus entidades paraestatales y las empresas productivas del Estado;
 
-XI. Las que traten las materias señaladas en el artículo [94](../../lce/markdown/articulo-94.md) de la Ley de Comercio Exterior;
+XI. Las que traten las materias señaladas en el artículo [94](../../lce/markdown/articulo-94.md) de la [Ley](articulo-2.md) de Comercio Exterior;
 
 XII. Las dictadas por las autoridades administrativas que pongan fin a un procedimiento administrativo, a una instancia o resuelvan un expediente, en los términos de la Ley Federal de Procedimiento Administrativo; XIII. Las que resuelvan los recursos administrativos en contra de las resoluciones que se indican en las demás fracciones de este artículo;
 

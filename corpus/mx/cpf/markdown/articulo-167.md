@@ -31,6 +31,8 @@ V.- Al que inundare en todo o en parte, un camino público o echare sobre él la
 
 VI.- Al que dolosamente o con fines de lucro, interrumpa o interfiera las comunicaciones, alámbricas, inalámbricas o de fibra óptica, sean telegráficas, telefónicas o satelitales, por medio de las cuales se transfieran señales de audio, de video o de datos; Fracción reformada DOF 17-05-1999
 
-VII. Al que destruya en todo o en parte, o paralice por otro medio de los especificados en las fracciones anteriores, una máquina empleada en un camino de hierro, o una embarcación, o destruya o deteriore un puente, un dique, una calzada o camino, o una vía; Fracción reformada DOF 28-06-2007 VIII. Al que con objeto de perjudicar o dificultar las comunicaciones, modifique o altere el mecanismo de un vehículo haciendo que pierda potencia, velocidad o seguridad, y Fracción adicionada DOF 15-01-1951. Reformada DOF 28-06-2007
+VII. Al que destruya en todo o en parte, o paralice por otro medio de los especificados en las fracciones anteriores, una máquina empleada en un camino de hierro, o una embarcación, o destruya o deteriore un puente, un dique, una calzada o camino, o una vía; Fracción reformada DOF 28-06-2007
+
+VIII. Al que con objeto de perjudicar o dificultar las comunicaciones, modifique o altere el mecanismo de un vehículo haciendo que pierda potencia, velocidad o seguridad, y Fracción adicionada DOF 15-01-1951. Reformada DOF 28-06-2007
 
 IX. Al que difunda o transmita información falsa que en cualquier forma perjudique o pueda perjudicar la seguridad de una aeronave, de un buque o de otro tipo de vehículo de servicio público federal. Fracción adicionada DOF 11-01-1982. Derogada DOF 07-11-1996. Adicionada DOF 28-06-2007

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo II
+
 # Artículo 331
 
 Se considerarán indubitables para el cotejo: I. Los documentos físicos o electrónicos firmados de manera autógrafa o con firma electrónica avanzada que las partes, según el caso, de común acuerdo, reconozcan como tales;
@@ -24,5 +26,3 @@ III. Los documentos físicos o electrónicos cuya letra, firma autógrafa o con 
 IV. El escrito impugnado, en la parte en que reconozca la letra como suya aquella parte a quien perjudique, y
 
 V. Las firmas o huellas digitales puestas en actuaciones judiciales, en presencia de la persona secretaria judicial, auxiliar o judicial de la autoridad jurisdiccional, por la parte cuya firma, letra o huella dactilar se trata de comprobar y las puestas ante cualquier otra persona funcionaria revestida de fe pública.
-
-Sección Sexta De la Inspección o Reconocimiento Judicial

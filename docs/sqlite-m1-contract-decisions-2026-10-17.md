@@ -1,5 +1,11 @@
 # SQLite M1 contract decisions — 2026-10-17
 
+> Historical measurement and October 17 checkpoint. Current census, reviewed debt,
+> glossary contract and golden queries are superseded by the
+> [October 19 refresh](sqlite-contract-refresh-2026-10-19.md). Extras-only storage
+> and independent reconstruction remain in force. Do not use the historical
+> proposed counts, missing-article claims or open-item list below as current state.
+
 ## Outcome
 
 The three contract details the Codex review required before M2

@@ -17,7 +17,7 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 # Artículo 72
 
-Áreas especializadas de la Autoridad Administrativa I. El Área de Evaluación de Riesgos contará con las siguientes atribuciones: a) Entrevistar a las personas adolescentes detenidas o citadas a la audiencia inicial para obtener sus datos socio-ambientales sobre riesgos procesales;
+Áreas especializadas de la [Autoridad Administrativa](articulo-3.md) I. El Área de Evaluación de Riesgos contará con las siguientes atribuciones: a) Entrevistar a las personas adolescentes detenidas o citadas a la audiencia inicial para obtener sus datos socio-ambientales sobre riesgos procesales;
 
 b) Evaluar los riesgos procesales para la determinación de las medidas cautelares;
 
@@ -33,7 +33,7 @@ a) Supervisar y dar seguimiento a las medidas cautelares impuestas, distintas a 
 
 b) Entrevistar periódicamente a la víctima o testigo del delito, con el objeto de dar seguimiento al cumplimiento de la medida cautelar impuesta o las condiciones de la suspensión condicional del proceso, cuando la modalidad de la decisión judicial así lo requiera, y canalizarlos, en su caso, a la autoridad correspondiente;
 
-c) Informar al Órgano Jurisdiccional, el cambio de las circunstancias que sirvieron de base para imponer la medida, sugiriendo, en su caso, la modificación o cambio de la misma. La autoridad jurisdiccional notificará tal circunstancia a las partes, y
+c) Informar al [Órgano Jurisdiccional](articulo-3.md), el cambio de las circunstancias que sirvieron de base para imponer la medida, sugiriendo, en su caso, la modificación o cambio de la misma. La autoridad jurisdiccional notificará tal circunstancia a las partes, y
 
 d) Las demás que establezca la legislación aplicable.
 
@@ -51,7 +51,7 @@ IV. Los Centros de Internamiento contarán con las siguientes atribuciones:
 
 a) Ejecutar las medidas de internamiento preventivo y de internamiento, en los términos señalados por el Órgano Jurisdiccional;
 
-b) Procurar la plena reintegración y reinserción social y familiar de las personas sujetas a esta Ley;
+b) Procurar la plena reintegración y reinserción social y familiar de las personas sujetas a esta [Ley](articulo-3.md);
 
 c) Cumplir con las resoluciones y requerimientos del Órgano Jurisdiccional; d) Hacer uso legítimo de la fuerza para garantizar la seguridad e integridad de las personas sujetas a esta Ley, la disciplina en la Unidad de Internamiento y evitar daños materiales. En todos los casos deberá informar inmediatamente al titular de la Autoridad Administrativa sobre la aplicación de las medidas adoptadas. Al hacer uso legítimo de la fuerza, las autoridades deberán tomar en cuenta el interés superior de la niñez y utilizarán el medio idóneo, proporcional y menos lesivo para éste y sólo por el tiempo estrictamente necesario para mantener o restablecer el orden o la seguridad, y
 

@@ -17,9 +17,9 @@ source_sha256: 269e72195414406bcbd3e90ac40ec26e031a9ea519316c44ee30bdfdf3163059
 
 # Artículo 80
 
-La Junta de Gobierno se integrará de la siguiente manera:
+La [Junta de Gobierno](articulo-2o.md) se integrará de la siguiente manera:
 
-I.- La persona servidora pública Titular de la Secretaría de Hacienda y Crédito Público, quien la presidirá; Fracción reformada DOF 09-08-2019
+I.- La persona servidora pública Titular de la [Secretaría](articulo-2o.md) de Hacienda y Crédito Público, quien la presidirá; Fracción reformada DOF 09-08-2019
 
 II.- Las personas servidoras públicas titulares de dos Subsecretarías de la Secretaría; Fracción reformada DOF 09-08-2019
 
@@ -33,4 +33,4 @@ La Junta de Gobierno contará con una Secretaría Técnica y una Prosecretaría.
 
 Las personas servidoras públicas a cargo de la Secretaría Técnica y la Prosecretaría de la Junta de Gobierno, asistirán indistintamente a las sesiones con voz, pero sin voto. Párrafo reformado DOF 09-08-2019
 
-La Junta de Gobierno se reunirá, de manera ordinaria, cuando menos cuatro veces al año, de acuerdo con el calendario que apruebe en la última sesión ordinaria del ejercicio anterior, pudiéndose además celebrar reuniones extraordinarias, conforme a lo previsto en el Estatuto Orgánico del Instituto. Sus reuniones podrán ser presenciales o mediante el auxilio de las tecnologías de la información y comunicación, conforme lo disponga el Estatuto Orgánico; serán válidas con la asistencia de por lo menos la mitad de sus miembros con la asistencia de la persona titular de la Presidencia. Las resoluciones se tomarán por mayoría de los votos, teniendo la Presidencia voto de calidad para el caso de empate. Párrafo reformado DOF 23-02-2005, 09-08-2019, 11-05-2022
+La Junta de Gobierno se reunirá, de manera ordinaria, cuando menos cuatro veces al año, de acuerdo con el calendario que apruebe en la última sesión ordinaria del ejercicio anterior, pudiéndose además celebrar reuniones extraordinarias, conforme a lo previsto en el Estatuto Orgánico del [Instituto](articulo-2o.md). Sus reuniones podrán ser presenciales o mediante el auxilio de las tecnologías de la información y comunicación, conforme lo disponga el Estatuto Orgánico; serán válidas con la asistencia de por lo menos la mitad de sus miembros con la asistencia de la persona titular de la Presidencia. Las resoluciones se tomarán por mayoría de los votos, teniendo la Presidencia voto de calidad para el caso de empate. Párrafo reformado DOF 23-02-2005, 09-08-2019, 11-05-2022

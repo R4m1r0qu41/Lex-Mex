@@ -17,7 +17,7 @@ source_sha256: 0574853d06020030188e8aee1eae5dabb2b476ac630cc52be631a48d2b91adbc
 
 # Artículo 158
 
-Para los efectos del [artículo anterior](articulo-157.md), la Secretaría:
+Para los efectos del [artículo anterior](articulo-157.md), la [Secretaría](articulo-3o.md):
 
 I.- Convocará, en el ámbito del Sistema Nacional de Planeación Democrática, a las organizaciones obreras, empresariales, de campesinos y productores agropecuarios, pesqueros y forestales, comunidades agrarias, pueblos y comunidades indígenas y afromexicanas, instituciones educativas, organizaciones sociales y privadas no lucrativas y demás personas interesadas para que manifiesten su opinión y propuestas; Fracción reformada DOF 13-12-1996, 01-04-2024
 

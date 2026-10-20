@@ -17,4 +17,4 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 182
 
-La documentación y demás características de estas cuentas, no previstas en esta Ley y en la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, se sujetarán a lo dispuesto por la Ley para la Coordinación de los Sistemas de Ahorro para el Retiro.
+La documentación y demás características de estas cuentas, no previstas en esta [Ley](articulo-5-A.md) y en la Ley del [Instituto](articulo-5-A.md) del Fondo Nacional de la Vivienda para los Trabajadores, se sujetarán a lo dispuesto por la Ley para la Coordinación de los Sistemas de Ahorro para el Retiro.

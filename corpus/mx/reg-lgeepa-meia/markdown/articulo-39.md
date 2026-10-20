@@ -17,4 +17,4 @@ source_sha256: c7790df38b773b04e4769459d5fd49cca5b7a5b4955f7618632117275259071f
 
 # Artículo 39
 
-La consulta de los expedientes podrá realizarse en horas y días hábiles, tanto en las oficinas centrales de la Secretaría como en la Delegación que corresponda.
+La consulta de los expedientes podrá realizarse en horas y días hábiles, tanto en las oficinas centrales de la [Secretaría](articulo-3o.md) como en la Delegación que corresponda.

@@ -17,4 +17,4 @@ source_sha256: 1405f36fd836ff74d059ebe7e50ae439cbb9e5e291a317514667f34a26f72a23
 
 # Artículo 32
 
-Las Secretarías de Energía y de Hacienda y Crédito Público tiene la facultad para revisar la efectiva recuperación de los costos incurridos y demás contabilidad involucrada en el cumplimiento de las actividades objeto de la Asignación para Desarrollo Mixto. En los Contratos Mixtos se debe establecer esta facultad de revisión.
+Las Secretarías de Energía y de Hacienda y Crédito Público tiene la facultad para revisar la efectiva recuperación de los costos incurridos y demás contabilidad involucrada en el cumplimiento de las actividades objeto de la [Asignación para Desarrollo Mixto](articulo-5.md). En los [Contratos Mixtos](articulo-5.md) se debe establecer esta facultad de revisión.

@@ -15,4 +15,4 @@ source_sha256: 7fea623841fd6e05e8c0d01d2cf09f85b0b8e58ba4d9e4f6711f8bad1f448e55
 
 # TERCERO
 
-Las funciones que cualquier ordenamiento encomiende al Instituto Nacional del Consumidor, se entenderán atribuidas a la Procuraduría Federal del Consumidor.
+Las funciones que cualquier ordenamiento encomiende al Instituto Nacional del [Consumidor](articulo-2.md), se entenderán atribuidas a la [Procuraduría](articulo-2.md) Federal del Consumidor.

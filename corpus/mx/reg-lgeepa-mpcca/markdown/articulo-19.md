@@ -17,7 +17,7 @@ source_sha256: cf47ab93fdea40d2b3e41b58784df62f89dd90b4482dd3b7f25adc7f6957036b
 
 # Artículo 19
 
-Para obtener la licencia de funcionamiento a que se refiere el [artículo anterior](articulo-18.md), los responsables de las fuentes, deberán presentar a la Secretaría, solicitud por escrito acompañada de la siguiente información y documentación:
+Para obtener la licencia de funcionamiento a que se refiere el [artículo anterior](articulo-18.md), los responsables de las fuentes, deberán presentar a la [Secretaría](articulo-6o.md), solicitud por escrito acompañada de la siguiente información y documentación:
 
 I.- Datos generales del solicitante;
 
@@ -43,4 +43,4 @@ XI.- Equipos para el control de la contaminación a la atmósfera que vayan a ut
 
 XII.- Programa de contingencias, que contenga las medidas y acciones que se llevaran a cabo cuando las condiciones metereológicas de la región sean desfavorables; o cuando se presenten emisiones de olores, gases, así como de partículas sólidas y líquidas extraordinarias no controladas.
 
-La información a que se refiere este artículo deberá presentarse en el formato que determine la Secretaría, quien podrá requerir la información adicional que considere necesaria y verificar en cualquier momento, la veracidad de la misma. REGLAMENTO DE LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE EN MATERIA DE PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DE LA ATMÓSFERA
+La información a que se refiere este artículo deberá presentarse en el formato que determine la Secretaría, quien podrá requerir la información adicional que considere necesaria y verificar en cualquier momento, la veracidad de la misma.

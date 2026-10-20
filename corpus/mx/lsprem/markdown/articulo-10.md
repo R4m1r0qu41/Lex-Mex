@@ -17,4 +17,4 @@ source_sha256: bcc21844355854fe331c842c21436d721d6c2856b5c5986715fe39f4a845b317
 
 # Artículo 10
 
-El Sistema estará obligado a brindar información a los particulares en términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, a conceder la réplica a quien corresponda de conformidad con la legislación aplicable y a establecer un defensor de la audiencia en términos de la Ley Federal de Telecomunicaciones y Radiodifusión.
+El [Sistema](articulo-2.md) estará obligado a brindar información a los particulares en términos de la [Ley](articulo-2.md) Federal de Transparencia y Acceso a la Información Pública Gubernamental, a conceder la réplica a quien corresponda de conformidad con la legislación aplicable y a establecer un defensor de la audiencia en términos de la Ley Federal de Telecomunicaciones y Radiodifusión.

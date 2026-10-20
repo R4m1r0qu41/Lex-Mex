@@ -17,6 +17,6 @@ source_sha256: 0574853d06020030188e8aee1eae5dabb2b476ac630cc52be631a48d2b91adbc
 
 # Artículo 196
 
-Cuando una denuncia popular no implique violaciones a la normatividad ambiental, ni afecte cuestiones de orden público e interés social, la Procuraduría Federal de Protección al Ambiente podrá sujetar la misma a un procedimiento de conciliación. En todo caso, se deberá escuchar a las partes involucradas.
+Cuando una denuncia popular no implique violaciones a la normatividad ambiental, ni afecte cuestiones de orden público e interés social, la Procuraduría Federal de [Protección](articulo-3o.md) al [Ambiente](articulo-3o.md) podrá sujetar la misma a un procedimiento de conciliación. En todo caso, se deberá escuchar a las partes involucradas.
 
 Artículo adicionado DOF 13-12-1996

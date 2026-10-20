@@ -18,7 +18,7 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 73
 
-Las Sociedades deberán contar con un manual de crédito aprobado por el Consejo de Administración, al cual deberá sujetarse el Comité de Crédito o su equivalente. El Consejo de Administración podrá escuchar la opinión del comité de apoyo a que se refiere el Artículo [64](articulo-64.md) de estas disposiciones, para efectos de la aprobación de dicho manual, así como de sus modificaciones. El manual deberá contener las políticas y procedimientos de crédito, con los lineamientos mínimos en las etapas del proceso crediticio siguientes:
+Las Sociedades deberán contar con un manual de crédito aprobado por el [Consejo de Administración](articulo-1.md), al cual deberá sujetarse el [Comité de Crédito](articulo-1.md) o su equivalente. El Consejo de Administración podrá escuchar la opinión del comité de apoyo a que se refiere el Artículo [64](articulo-64.md) de estas disposiciones, para efectos de la aprobación de dicho manual, así como de sus modificaciones. El manual deberá contener las políticas y procedimientos de crédito, con los lineamientos mínimos en las etapas del proceso crediticio siguientes:
 
 I. Promoción y otorgamiento de crédito.
 
@@ -30,11 +30,11 @@ a) Las Sociedades deberán establecer dentro del manual de crédito, metodologí
 
 i) En su caso, la información que valide la experiencia de ahorro del acreditado.
 
-ii) La experiencia de pago del acreditado, revisando para tal efecto información cuya antigüedad no sea mayor a un mes, obtenida a través de una consulta realizada a alguna Sociedad de Información Crediticia, así como la información con la que cuente la propia Sociedad.
+ii) La experiencia de pago del acreditado, revisando para tal efecto información cuya antigüedad no sea mayor a un mes, obtenida a través de una consulta realizada a alguna [Sociedad de Información Crediticia](articulo-1.md), así como la información con la que cuente la propia Sociedad.
 
 iii) La capacidad de pago a través de los ingresos estimados del probable acreditado, de la relación entre el ingreso del posible deudor y el pago de la obligación y la relación entre el plazo de los créditos y la capacidad de generar recursos; así como del análisis de la totalidad de otros créditos y demás pasivos que el posible deudor tenga con la Sociedad y otras entidades financieras.
 
-iv) En caso de préstamos de liquidez a que se refiere el inciso h) de la fracción I del Artículo 19 de la Ley, la situación financiera de la Sociedad de que se trate y, en general, la información y documentación presentada por el posible acreditado.
+iv) En caso de préstamos de liquidez a que se refiere el inciso h) de la fracción I del Artículo 19 de la [Ley](articulo-1.md), la situación financiera de la Sociedad de que se trate y, en general, la información y documentación presentada por el posible acreditado.
 
 3. El plazo de los créditos se deberá establecer en función de los plazos de los recursos captados.
 
@@ -42,7 +42,7 @@ iv) En caso de préstamos de liquidez a que se refiere el inciso h) de la fracci
 
 5. Cualquier cambio significativo a los términos y condiciones que hubieren sido pactados en un crédito, será motivo de una nueva evaluación y aprobación, debiéndose seguir al efecto, los procedimientos contenidos en el manual de crédito.
 
-b) Las Sociedades podrán establecer en los manuales de crédito procesos de autorizaciones automáticas de créditos que permitan otorgar el crédito correspondiente a cualquier Socio. Dichos procesos deberán comprender lo siguiente:
+b) Las Sociedades podrán establecer en los manuales de crédito procesos de autorizaciones automáticas de créditos que permitan otorgar el crédito correspondiente a cualquier [Socio](articulo-1.md). Dichos procesos deberán comprender lo siguiente:
 
 1. El establecimiento de la documentación mínima a ser entregada por tipo de crédito.
 
@@ -54,7 +54,7 @@ b) Las Sociedades podrán establecer en los manuales de crédito procesos de aut
 
 Las autorizaciones automáticas se podrán otorgar respecto de créditos para un mismo Socio, incluyendo a sus dependientes económicos, cuyo importe en lo individual o en su conjunto, no sea mayor a 10,000 UDIS.
 
-Los funcionarios, Consejeros o miembros del Comité de Crédito, no podrán participar en ninguna etapa del proceso crediticio, cuando el crédito en cuestión pueda representar conflictos de intereses para dichas personas.
+Los funcionarios, [Consejeros](articulo-1.md) o miembros del Comité de Crédito, no podrán participar en ninguna etapa del proceso crediticio, cuando el crédito en cuestión pueda representar conflictos de intereses para dichas personas.
 
 c) Adicionalmente, las Sociedades podrán establecer metodologías para la aprobación y otorgamiento de créditos cuyo monto sea considerable, según las características de las operaciones que realice la Sociedad, para lo cual deberá tomarse en cuenta, por lo menos, lo siguiente:
 
@@ -80,7 +80,7 @@ b) Que el expediente de crédito esté integrado con la adecuada documentación 
 
 c) Que los funcionarios y empleados de la Sociedad estén cumpliendo con las responsabilidades que les hayan sido encomendadas, sin exceder las facultades que les fueron delegadas.
 
-El área a que se refiere la presente fracción deberá proporcionar un reporte cuando menos trimestralmente, al Comité de Auditoría, al Consejo de Vigilancia y a la Dirección o Gerencia General sobre las desviaciones que, en su caso, detecte con respecto a las políticas, procedimientos y normatividad vigente en materia de crédito y deberá mantener dicho reporte a disposición de las autoridades competentes.
+El área a que se refiere la presente fracción deberá proporcionar un reporte cuando menos trimestralmente, al [Comité de Auditoría](articulo-1.md), al [Consejo de Vigilancia](articulo-1.md) y a la Dirección o Gerencia General sobre las desviaciones que, en su caso, detecte con respecto a las políticas, procedimientos y normatividad vigente en materia de crédito y deberá mantener dicho reporte a disposición de las autoridades competentes.
 
 III. Evaluación y seguimiento.
 
@@ -100,7 +100,7 @@ Los créditos que, como resultado del seguimiento permanente o por haber caído 
 
 Toda reestructuración de crédito deberá realizarse de común acuerdo con el acreditado respectivo y tendrá que someterse a las distintas etapas del proceso crediticio como cualquier crédito, incluyendo la aprobación del Comité de Crédito.
 
-Tratándose de los procedimientos de cobranza judicial, el Director o Gerente General designará el o las áreas de negocio que realizarán las funciones correspondientes, las cuales deberán ser independientes de las áreas de crédito.
+Tratándose de los procedimientos de cobranza judicial, el [Director o Gerente General](articulo-1.md) designará el o las áreas de negocio que realizarán las funciones correspondientes, las cuales deberán ser independientes de las áreas de crédito.
 
 V. Sistemas automatizados.
 
@@ -120,7 +120,7 @@ La documentación e información que deberá establecerse en los manuales, para 
 
 a) Identificación del solicitante:
 
-1. Tratándose de préstamos de liquidez a que se refiere el inciso h) de la fracción I del Artículo 19 de la Ley, escrituras constitutivas de la Sociedad acreditada y modificaciones a las mismas, debidamente inscritas en el Registro Público de la Propiedad o de Comercio correspondiente, y escrituras de otorgamiento de poderes en favor de las personas que suscriban el o los contratos y títulos de crédito.
+1. Tratándose de préstamos de liquidez a que se refiere el inciso h) de la fracción I del Artículo 19 de la Ley, escrituras constitutivas de la Sociedad acreditada y modificaciones a las mismas, debidamente inscritas en el [Registro](articulo-1.md) Público de la Propiedad o de Comercio correspondiente, y escrituras de otorgamiento de poderes en favor de las personas que suscriban el o los contratos y títulos de crédito.
 
 2. En el caso de personas físicas, identificación oficial vigente con fotografía y firma tanto del acreditado como del aval u obligado solidario. En defecto de lo anterior, copia del acta de nacimiento y comprobantes que permitan conocer la identidad de la persona de que se trate. En su caso, adicionalmente copia del acta de matrimonio.
 
@@ -172,7 +172,7 @@ Documentación relativa a la reestructura del crédito, que incluya:
 
 3. La información periódica del responsable de la cobranza judicial o extrajudicial del crédito, así como la documentación soporte correspondiente.
 
-f) Tratándose de préstamos de liquidez a que se refiere el Artículo 19, fracción I, inciso h) de la Ley, la aprobación efectuada por el Comité Técnico indicado en el Artículo [18](articulo-18.md) de las presentes disposiciones.
+f) Tratándose de préstamos de liquidez a que se refiere el Artículo 19, fracción I, inciso h) de la Ley, la aprobación efectuada por el [Comité Técnico](articulo-1.md) indicado en el Artículo [18](articulo-18.md) de las presentes disposiciones.
 
 g) Créditos castigados.
 
@@ -180,7 +180,7 @@ g) Créditos castigados.
 
 2. La información mediante la cual las instancias correspondientes solicitan la aplicación del castigo del crédito, de acuerdo a las políticas implementadas por la Sociedad en dicha materia.
 
-Igualmente, el manual de crédito deberá contener una sección específica de las políticas y procedimientos para la gestión y otorgamiento de Microcréditos Productivos, las cuales deberán ser congruentes con las aplicables al crédito en general y a los lineamientos mínimos a que se refiere la presente fracción.
+Igualmente, el manual de crédito deberá contener una sección específica de las políticas y procedimientos para la gestión y otorgamiento de [Microcréditos Productivos](articulo-1.md), las cuales deberán ser congruentes con las aplicables al crédito en general y a los lineamientos mínimos a que se refiere la presente fracción.
 
 Adicionalmente a la documentación que en esta fracción se especifica, deberá incluirse cualquier otra información necesaria para evaluar tanto al acreditado como al crédito en particular, incluyendo las garantías respectivas, de conformidad con las disposiciones aplicables y los requerimientos de la autoridad.
 

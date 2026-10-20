@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Único · Capítulo II
+
 # Artículo 987
 
 La ejecución de las sentencias y convenios en la vía ejecutiva, se efectuará conforme a las reglas generales del juicio ejecutivo civil oral por la autoridad jurisdiccional que resolvió el asunto.

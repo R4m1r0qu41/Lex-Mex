@@ -17,4 +17,4 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 143
 
-El Instituto suspenderá el procedimiento administrativo de ejecución, una vez realizado el entero de la primera parcialidad y garantizado el interés fiscal.
+El [Instituto](../../lss/markdown/articulo-5-A.md) suspenderá el procedimiento administrativo de ejecución, una vez realizado el entero de la primera parcialidad y garantizado el interés fiscal.

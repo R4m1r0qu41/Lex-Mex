@@ -155,8 +155,8 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:inversionista-calificado:\n\n(107)-a)-basico:-a-la-persona-que-mantenga-en-promedio",
-    "term": "Inversionista calificado:\n\n(107) a) Básico: a la persona que mantenga en promedio",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:inversionista-calificado",
+    "term": "Inversionista calificado",
     "instrument_id": "urn:lex-mx:federal:regulation:cue-dcg-2003",
     "defining_provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:1",
     "fraction": "XVI",

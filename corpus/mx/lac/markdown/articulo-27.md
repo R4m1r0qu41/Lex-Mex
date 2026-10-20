@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAC.pdf
 source_sha256: 07199878c4f94748c983998437198eb7c645ad76967c444dfe26d50a535d23ae
 ---
 
+> Capítulo IV · Sección Tercera
+
 # Artículo 27
 
 Se consideran servicios aéreos a terceros aquellos que se prestan con fines de lucro a una o más personas físicas o morales, distintas de las propietarias o poseedoras de la misma aeronave.
@@ -26,5 +28,3 @@ En el caso de que se presten servicios aéreos a terceros con aeronaves extranje
 Las permisionarias extranjeras que presten servicios aéreos a terceros tienen prohibido realizar prácticas de cabotaje en territorio nacional. Esta disposición también aplica para las operadoras de aeronaves para uso particular.
 
 Artículo reformado DOF 26-01-2015, 03-05-2023
-
-Sección Cuarta De las operaciones de aeronaves para uso particular Denominación de la Sección reformada DOF 03-05-2023

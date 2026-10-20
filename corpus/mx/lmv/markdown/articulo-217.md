@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título VI · Capítulo II
+
 # Artículo 217
 
 Las casas de bolsa deberán dar aviso a la [Comisión](articulo-2.md), con por lo menos treinta días hábiles de anticipación, de la apertura, cambio de ubicación y cierre de sus oficinas.

@@ -18,4 +18,4 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 102 Bis 5
 
-Las Sociedades Financieras Populares deberán calcular los requerimientos de capitalización de la cartera cedida, descontada o cuyos derechos por flujos de efectivo futuros hayan sido cedidos, que formen parte del Esquema de Bursatilización de que se trate de conformidad con lo establecido en el Anexo O Bis 3 de las presentes disposiciones.
+Las [Sociedades](articulo-1.md) Financieras Populares deberán calcular los requerimientos de capitalización de la cartera cedida, descontada o cuyos derechos por flujos de efectivo futuros hayan sido cedidos, que formen parte del [Esquema de Bursatilización](articulo-1.md) de que se trate de conformidad con lo establecido en el Anexo O Bis 3 de las presentes disposiciones.

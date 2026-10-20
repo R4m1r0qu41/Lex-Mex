@@ -17,7 +17,7 @@ source_sha256: 0574853d06020030188e8aee1eae5dabb2b476ac630cc52be631a48d2b91adbc
 
 # Artículo 152
 
-La Secretaría promoverá programas tendientes a prevenir y reducir la generación de residuos peligrosos, así como a estimular su reuso y reciclaje.
+La [Secretaría](articulo-3o.md) promoverá programas tendientes a prevenir y reducir la generación de residuos peligrosos, así como a estimular su reuso y reciclaje.
 
 En aquellos casos en que los residuos peligrosos puedan ser utilizados en un proceso distinto al que los generó, el Reglamento de la presente Ley y las normas oficiales mexicanas que se expidan, deberán establecer los mecanismos y procedimientos que hagan posible su manejo eficiente desde el punto de vista ambiental y económico.
 

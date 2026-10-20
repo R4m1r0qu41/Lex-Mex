@@ -18,17 +18,17 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 2
 
-Las solicitudes de autorización para operar como Sociedades Financieras Populares deberán presentarse ante una Federación, por escrito y en duplicado, acompañadas de la documentación e información que menciona el artículo 10 de la Ley, además de lo siguiente:
+Las solicitudes de autorización para operar como [Sociedades](articulo-1.md) Financieras Populares deberán presentarse ante una [Federación](articulo-1.md), por escrito y en duplicado, acompañadas de la documentación e información que menciona el artículo 10 de la [Ley](articulo-1.md), además de lo siguiente:
 
 I. La documentación que acredite la personalidad y facultades de quien promueve la solicitud, otorgadas por la Sociedad, señalando un domicilio para oír y recibir todo tipo de notificaciones, así como el nombre de la o de las personas autorizadas para tales efectos;
 
 II. La denominación propuesta para la Sociedad solicitante;
 
-III. Curriculum vitae de las personas propuestas como Miembros del Consejo de Administración, Miembros del Consejo de Vigilancia o Comisario, incluyendo a los suplentes, consejeros independientes, director o gerente general e integrantes del Comité de Crédito o de su equivalente;
+III. Curriculum vitae de las personas propuestas como Miembros del [Consejo de Administración](articulo-1.md), [Miembros del Consejo de Vigilancia o Comisario](articulo-1.md), incluyendo a los suplentes, consejeros independientes, director o gerente general e integrantes del [Comité de Crédito](articulo-1.md) o de su equivalente;
 
 IV. Relación de las personas propuestas como funcionarios, hasta los dos primeros niveles de la estructura organizacional, acompañando su curriculum vitae;
 
-V. Reporte emitido por una Sociedad de Información Crediticia autorizada conforme a la Ley para Regular las Sociedades de Información Crediticia, que contenga antecedentes de por lo menos cinco años anteriores a la fecha en que se pretenda inicie el ejercicio del cargo, o del periodo que comprenda la información con la que, en su caso, cuente la Sociedad de Información Crediticia de que se trate, de las personas señaladas en la fracción III anterior, cuya fecha de emisión no exceda de 180 días naturales con relación a la fecha de presentación de los mismos ante la Federación;
+V. Reporte emitido por una [Sociedad de Información Crediticia](articulo-1.md) autorizada conforme a la Ley para Regular las Sociedades de Información Crediticia, que contenga antecedentes de por lo menos cinco años anteriores a la fecha en que se pretenda inicie el ejercicio del cargo, o del periodo que comprenda la información con la que, en su caso, cuente la Sociedad de Información Crediticia de que se trate, de las personas señaladas en la fracción III anterior, cuya fecha de emisión no exceda de 180 días naturales con relación a la fecha de presentación de los mismos ante la Federación;
 
 VI. La forma de pago del capital mínimo, incluyendo la procedencia y fuente de los recursos de las Sociedades de nueva creación, así como aquellas que al momento de solicitar su autorización se encuentren operando y que, para tales efectos efectúen aportaciones para aumento de capital social para cubrir el requisito de capital mínimo;
 
@@ -48,7 +48,7 @@ Séptimo párrafo.- Derogado.
 
 En el caso de aquellas Sociedades que a la fecha de solicitud de autorización no hubieren reconocido en sus estados financieros, efectos por inflación, deberán reconocer el efecto neto de los rubros pertenecientes al capital contable distintos del capital social, dentro del referido rubro “Efecto por incorporación al régimen de entidades de ahorro y crédito popular”, cuyo importe podrá ser capitalizado o destinado a la constitución de otras reservas en el capital contable, según lo resuelva la asamblea una vez autorizada la Sociedad Financiera Popular.
 
-Al respecto, las Sociedades deberán presentar información relativa a los ajustes que resulten de la aplicación inicial de los Criterios Contables para Sociedades Financieras Populares, Sociedades Financieras Comunitarias y Organismos de Integración Financiera Rural a que se refiere la Sección Primera del Capítulo V del Título Cuarto de las presentes disposiciones. Para estos efectos, deberán revelar en una nota aclaratoria, la cual formará parte integrante de sus estados financieros, un cuadro comparativo en el que se incluyan lo siguiente:
+Al respecto, las Sociedades deberán presentar información relativa a los ajustes que resulten de la aplicación inicial de los [Criterios Contables](articulo-1.md) para Sociedades Financieras Populares, Sociedades Financieras Comunitarias y Organismos de Integración Financiera Rural a que se refiere la Sección Primera del Capítulo V del Título Cuarto de las presentes disposiciones. Para estos efectos, deberán revelar en una nota aclaratoria, la cual formará parte integrante de sus estados financieros, un cuadro comparativo en el que se incluyan lo siguiente:
 
 a) Los rubros del estado de situación financiera que se verán afectados por la aplicación inicial de los Criterios Contables señalados, con las cifras que la Sociedad mostraría previamente a la aplicación de dichos criterios (correspondientes a la fecha de elaboración de su estado de situación financiera).
 
@@ -60,7 +60,7 @@ El informe de auditoría que al efecto se elabore de conformidad con lo señalad
 
 Las Sociedades que de conformidad con las disposiciones legales aplicables estén obligadas a presentar a la Comisión estados financieros debidamente dictaminados por un auditor externo, conforme a los Criterios de Contabilidad establecidos en el Anexo E que les corresponda aplicar de conformidad con lo previsto por la respectiva Sección del Capítulo V del Título Cuarto de las presentes disposiciones, no estarán obligadas a presentar el dictamen referido en el párrafo anterior, siempre que acrediten haber entregado a la Comisión los estados financieros debidamente dictaminados, correspondientes al ejercicio inmediato anterior al de la fecha de presentación de la solicitud de autorización respectiva. Lo anterior, sin perjuicio de la obligación de presentar los estados financieros, conforme a la presente Sección.
 
-VIII. Si los socios de las personas morales que pretenden constituirse como Sociedades Financieras Populares son personas morales, copia certificada de su acta constitutiva, de los poderes de sus representantes y de su Registro Federal de Contribuyentes;
+VIII. Si los socios de las personas morales que pretenden constituirse como Sociedades Financieras Populares son personas morales, copia certificada de su acta constitutiva, de los poderes de sus representantes y de su [Registro](articulo-1.md) Federal de Contribuyentes;
 
 IX. En su caso, proyecto de aplicación del fondo de obra social;
 

@@ -17,4 +17,4 @@ source_sha256: 1405f36fd836ff74d059ebe7e50ae439cbb9e5e291a317514667f34a26f72a23
 
 # Artículo 149
 
-Los proyectos de infraestructura de los sectores público y privado en la industria de Hidrocarburos deben atender los principios de sostenibilidad y respeto de los derechos humanos de las comunidades y de los pueblos indígenas y afromexicanos de las regiones en los que se pretendan desarrollar.
+Los proyectos de infraestructura de los sectores público y privado en la industria de [Hidrocarburos](articulo-5.md) deben atender los principios de sostenibilidad y respeto de los derechos humanos de las comunidades y de los pueblos indígenas y afromexicanos de las regiones en los que se pretendan desarrollar.

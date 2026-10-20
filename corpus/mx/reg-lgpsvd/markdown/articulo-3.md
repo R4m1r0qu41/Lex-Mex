@@ -23,6 +23,6 @@ I. Cohesión Social: relación e interrelación de la sociedad y de las instituc
 
 III. Secretaría: la Secretaría de Gobernación;
 
-IV. SEDATU: la Secretaría de Desarrollo Agrario, Territorial y Urbano, y
+IV. SEDATU: la [Secretaría](articulo-3.md) de Desarrollo Agrario, Territorial y Urbano, y
 
 V. Subsecretaría: la Subsecretaría de Prevención y Participación Ciudadana de la Secretaría.

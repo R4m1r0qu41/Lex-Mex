@@ -17,6 +17,6 @@ source_sha256: 7211b1c71876d2ea4776c11dc1e045ebbb34b7e98b130f16c7864f75f5e90744
 
 # Artículo 21
 
-Si el responsable acredita haber realizado el pago de una multa administrativa impuesta por la procuraduría o la Comisión Nacional del Agua, como consecuencia a la realización de la misma conducta ilícita que dio origen a su responsabilidad ambiental, el Juez tomará en cuenta dicho pago integrándolo en el cálculo del monto de la sanción económica, sin que ésta pueda exceder el límite previsto para el caso en la presente Ley.
+Si el responsable acredita haber realizado el pago de una multa administrativa impuesta por la procuraduría o la Comisión Nacional del Agua, como consecuencia a la realización de la misma conducta ilícita que dio origen a su responsabilidad ambiental, el Juez tomará en cuenta dicho pago integrándolo en el cálculo del monto de la sanción económica, sin que ésta pueda exceder el límite previsto para el caso en la presente [Ley](articulo-2o.md).
 
 No podrá imponerse la Sanción Económica a la persona física que previamente haya sido multada por un Juez penal, en razón de haber realizado la misma conducta ilícita que da origen a su responsabilidad ambiental.

@@ -17,4 +17,4 @@ source_sha256: 4bcc982b308b0813469b30db61b53d5a2c41e5a7240b3b1cac2f1aeeb2c00a2e
 
 # Artículo 7
 
-La planeación del sector eléctrico se desarrolla en el Plan de Desarrollo del Sector Eléctrico, en concordancia con la Ley de Planeación y Transición Energética y su reglamento. Los programas vinculantes del sector eléctrico deben considerar las acciones necesarias para que los proyectos incluidos en estos sean realizados en tiempo y forma, estén coordinados integralmente con los demás instrumentos de planeación energética y correspondan a horizontes de mediano y largo plazo.
+La planeación del sector eléctrico se desarrolla en el Plan de Desarrollo del Sector Eléctrico, en concordancia con la [Ley](articulo-2.md) de Planeación y Transición Energética y su reglamento. Los programas vinculantes del sector eléctrico deben considerar las acciones necesarias para que los proyectos incluidos en estos sean realizados en tiempo y forma, estén coordinados integralmente con los demás instrumentos de planeación energética y correspondan a horizontes de mediano y largo plazo.

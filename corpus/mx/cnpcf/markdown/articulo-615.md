@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo I
+
 # Artículo 615
 
 Respecto de las alhajas y muebles, la autoridad jurisdiccional determinará si conviene o no la subasta, atendiendo en toda la utilidad que resulte a la niña, niño, adolescente; si se decreta, se hará por conducto de la institución de asistencia privada que designe la autoridad jurisdiccional; de lo contrario, se procederá conforme a lo dispuesto en este [Código Nacional](articulo-2.md).

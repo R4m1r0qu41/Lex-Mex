@@ -17,4 +17,4 @@ source_sha256: 4bcc982b308b0813469b30db61b53d5a2c41e5a7240b3b1cac2f1aeeb2c00a2e
 
 # Artículo 158
 
-Las Comercializadoras no Suministradoras y los Usuarios Calificados Participantes del Mercado no requieren permiso, no obstante, deben registrarse ante la CNE y observar las disposiciones que esta establezca para su operación y funcionamiento.
+Las [Comercializadoras no Suministradoras](articulo-2.md) y los Usuarios Calificados Participantes del Mercado no requieren permiso, no obstante, deben registrarse ante la CNE y observar las disposiciones que esta establezca para su operación y funcionamiento.

@@ -33,6 +33,6 @@ VI. Los hechos constitutivos de delito impacten de manera trascendente al ejerci
 
 VII. En la Entidad federativa en la que se hubiere realizado el hecho constitutivo de delito o se hubieren manifestado sus resultados, existan circunstancias objetivas y generalizadas de riesgo para el ejercicio del derecho a la información o las libertades de expresión o imprenta;
 
-VIII. El hecho constitutivo de delito trascienda el ámbito de una o más Entidades federativas, o IX. Por sentencia o resolución de un órgano previsto en cualquier Tratado, se hubiere determinado la responsabilidad internacional del Estado mexicano por defecto u omisión en la investigación, persecución o enjuiciamiento de delitos contra periodistas, personas o instalaciones que afecten, limiten o menoscaben el derecho a la información o las libertades de expresión o imprenta.
+VIII. El hecho constitutivo de delito trascienda el ámbito de una o más Entidades federativas, o IX. Por sentencia o resolución de un órgano previsto en cualquier [Tratado](articulo-3o.md), se hubiere determinado la responsabilidad internacional del Estado mexicano por defecto u omisión en la investigación, persecución o enjuiciamiento de delitos contra periodistas, personas o instalaciones que afecten, limiten o menoscaben el derecho a la información o las libertades de expresión o imprenta.
 
 En cualquiera de los supuestos anteriores, la víctima u ofendido podrá solicitar al Ministerio Público de la Federación el ejercicio de la facultad de atracción.

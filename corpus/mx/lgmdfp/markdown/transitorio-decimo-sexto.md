@@ -15,4 +15,4 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Décimo Sexto
 
-En las Entidades Federativas en las que no exista una Comisión de Atención a Víctimas, las instituciones públicas competentes de la Entidad Federativa deberán brindar la atención a Víctimas conforme a lo establecido en el Título Cuarto de esta Ley.
+En las [Entidades Federativas](articulo-4.md) en las que no exista una Comisión de Atención a [Víctimas](articulo-4.md), las instituciones públicas competentes de la Entidad Federativa deberán brindar la atención a Víctimas conforme a lo establecido en el Título Cuarto de esta Ley.

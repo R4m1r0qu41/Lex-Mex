@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título VI · Capítulo II
+
 # Artículo 173
 
 Las casas de bolsa deberán mantener en todo momento un capital neto que podrá expresarse mediante un índice y no podrá ser inferior a la cantidad que resulte de sumar los requerimientos de capital que establezca la [Comisión](articulo-2.md) en términos de las disposiciones de carácter general que emita con la aprobación de su Junta de Gobierno. Al efecto dichos requerimientos de capital estarán referidos a los riesgos de mercado, de crédito, operacional y demás en que las casas de bolsa incurran en su operación.

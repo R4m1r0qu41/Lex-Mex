@@ -13,9 +13,11 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGEEPA_MRETC_311
 source_sha256: 71c334347de911b670b7e920a44db19f2555f611203ec25d227733687972f424
 ---
 
+> Capítulo IV
+
 # Artículo 25
 
-La información ambiental de carácter público de la Base de datos del Registro, es la siguiente:
+La información ambiental de carácter público de la [Base de datos](articulo-3o.md) del [Registro](articulo-3o.md), es la siguiente:
 
 I. Nombre de la persona física, denominación o razón social del establecimiento sujeto a reporte;
 
@@ -23,4 +25,4 @@ II. Emisiones y transferencias de sustancias y contaminantes, conforme a lo esta
 
 III. Localización geográfica del establecimiento sujeto a reporte.
 
-La información a que hace mención este artículo será integrada al Sistema Nacional de Información Ambiental y de Recursos Naturales, de conformidad con el artículo [159 Bis](../../lgeepa/markdown/articulo-159-BIS.md) de la Ley.
+La información a que hace mención este artículo será integrada al Sistema Nacional de Información Ambiental y de Recursos Naturales, de conformidad con el artículo [159 Bis](../../lgeepa/markdown/articulo-159-BIS.md) de la [Ley](articulo-3o.md).

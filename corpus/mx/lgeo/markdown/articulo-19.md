@@ -17,4 +17,4 @@ source_sha256: 67309bf186af42de0f9e98010d38c89598676faea7f2b558ac9c9e6736d64d35
 
 # Artículo 19
 
-La persona permisionaria puede solicitar la Concesión, dentro de los seis meses anteriores a que termine la vigencia del Permiso de Exploración y hasta seis meses después de que éste concluya, salvo lo dispuesto por el segundo párrafo, del artículo [13](articulo-13.md), de esta Ley.
+La persona permisionaria puede solicitar la [Concesión](articulo-2.md), dentro de los seis meses anteriores a que termine la vigencia del [Permiso de Exploración](articulo-2.md) y hasta seis meses después de que éste concluya, salvo lo dispuesto por el segundo párrafo, del artículo [13](articulo-13.md), de esta [Ley](articulo-2.md).

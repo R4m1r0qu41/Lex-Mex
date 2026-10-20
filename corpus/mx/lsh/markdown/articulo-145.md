@@ -17,4 +17,4 @@ source_sha256: 1405f36fd836ff74d059ebe7e50ae439cbb9e5e291a317514667f34a26f72a23
 
 # Artículo 145
 
-Los avalúos que se practiquen en términos de este Capítulo, así como los honorarios que, en su caso, se causen por la participación de Testigos Sociales, deben ser cubiertos por las personas Asignatarias, Contratistas o Permisionarias de Transporte por ducto, conforme a lo que señale el Reglamento.
+Los avalúos que se practiquen en términos de este Capítulo, así como los honorarios que, en su caso, se causen por la participación de [Testigos Sociales](articulo-5.md), deben ser cubiertos por las personas [Asignatarias](articulo-5.md), [Contratistas](articulo-5.md) o [Permisionarias](articulo-5.md) de [Transporte](articulo-5.md) por ducto, conforme a lo que señale el Reglamento.

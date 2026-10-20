@@ -17,11 +17,11 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 159
 
-Para efectos de esta Ley, se entenderá por:
+Para efectos de esta [Ley](articulo-5-A.md), se entenderá por:
 
 I. Cuenta individual, aquella que se abrirá para cada asegurado en las Administradoras de Fondos para el Retiro, para que se depositen en la misma las cuotas obrero-patronales y, en su caso, la estatal por concepto del seguro de retiro, cesantía en edad avanzada y vejez, así como los rendimientos. La cuenta individual se integrará por las subcuentas: de retiro, cesantía en edad avanzada y vejez; de vivienda y de aportaciones voluntarias. Párrafo reformado DOF 16-12-2020
 
-Respecto de la subcuenta de vivienda las Administradoras de Fondos para el Retiro deberán hacer entrega de los recursos al Instituto del Fondo Nacional de la Vivienda para los Trabajadores en los términos de su propia Ley.
+Respecto de la subcuenta de vivienda las Administradoras de Fondos para el Retiro deberán hacer entrega de los recursos al [Instituto](articulo-5-A.md) del Fondo Nacional de la Vivienda para los Trabajadores en los términos de su propia Ley.
 
 II. Individualizar, el proceso mediante el cual se identifica la parte que se abona a las subcuentas correspondientes a cada trabajador de los pagos efectuados por el patrón y el estado, así como los rendimientos financieros que se generen.
 

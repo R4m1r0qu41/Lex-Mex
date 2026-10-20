@@ -27,6 +27,6 @@ IV. Arresto administrativo hasta por treinta y seis horas;
 
 V. Suspensión, cancelación o revocación de la autorización, aprobación, acreditación, registro o designación, según corresponda;
 
-VI. Suspensión o cancelación del documento donde consten los resultados de la Evaluación de la Conformidad, y
+VI. Suspensión o cancelación del documento donde consten los resultados de la [Evaluación de la Conformidad](articulo-4.md), y
 
 VII. Suspensión o prohibición de la comercialización de bienes, productos y servicios, incluyendo la inmovilización de los mismos para impedir su comercialización.

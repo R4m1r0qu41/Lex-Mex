@@ -90,13 +90,46 @@ impl ExternalInstrument {
 pub struct GlossaryConfig {
     /// Canonical-ID suffix of the glossary provision, e.g. `:article:4`.
     pub provision_suffix: String,
-    /// `fractions` (`I. Término, a …`) or `colon_entries` (`Término: a …`).
+    /// `fractions` (`I. Término, a …`), `colon_entries` (`Término: a …`),
+    /// `roman_colon` (`I. Término: …`), `mixed_fractions` (reviewed
+    /// comma/colon entries), `quoted_respectively` (one `…los vocablos
+    /// "A" y "B", se entenderá que se refiere a X y a Y, respectivamente.`),
+    /// or an auto-detection grammar applied to this provision:
+    /// `auto_established` (`…se entenderá por:`) or `auto_whole` (the wider
+    /// grammar, accepted only whole).
     pub style: String,
     /// Instruments whose glossaries this one is expressly additive to, in
     /// resolution-priority order after the instrument's own terms. The DCG
     /// defines its terms "además de los términos utilizados en la Ley…".
+    /// An entry may instead be one provision's exact id, adopting only the
+    /// terms that provision defines: `reg-lss-macerf` adopts "las
+    /// definiciones establecidas en el artículo 5 A de la Ley".
     #[serde(default)]
     pub additive_to: Vec<String>,
+    /// How a usage is written. Absent: the bare term or a singular/plural
+    /// variant. `quoted`: only the exact term between a matched pair of
+    /// quotes, as `reg-lan` writes `"Ley"`. `with_lowercase`: as absent, or
+    /// either in lower case, as LIEPS writes `tabacos labrados` (a reviewed
+    /// option, operator ruling 2026-10-19).
+    #[serde(default, skip_serializing_if = "Option::is_none")]
+    pub usage_form: Option<String>,
+    /// Further glossary provisions of the same instrument, each defining a
+    /// different set of terms (`lss` Article 159 adds to Article 5 A). Their
+    /// terms add to this glossary's; a term defined in two of them is an
+    /// error.
+    #[serde(default, skip_serializing_if = "Vec::is_empty")]
+    pub additional_provisions: Vec<GlossaryProvisionConfig>,
+    /// A reviewed exception profile for an `auto_whole` glossary the shared
+    /// grammar holds (see [`lex_core::GlossaryProfile`]).
+    #[serde(default, skip_serializing_if = "Option::is_none")]
+    pub profile: Option<lex_core::GlossaryProfile>,
+}
+
+/// One further glossary provision and its style (see [`GlossaryConfig`]).
+#[derive(Debug, Clone, Serialize, Deserialize)]
+pub struct GlossaryProvisionConfig {
+    pub provision_suffix: String,
+    pub style: String,
 }
 
 #[derive(Debug, Clone, Serialize, Deserialize)]
@@ -220,6 +253,12 @@ pub struct SourceConfig {
     /// header lines configure both lines here.
     #[serde(default)]
     pub header_lines: Vec<String>,
+    /// Article labels whose heading the source prints without a separator
+    /// after the number (`Artículo 71 El médico tratante…` in
+    /// `reg-pmimss`). Reviewed per instrument; each must open exactly one
+    /// main-sequence block or the parse fails.
+    #[serde(default, skip_serializing_if = "Vec::is_empty")]
+    pub separatorless_article_headings: Vec<String>,
     /// Blocks that end the main document before the reform-decree
     /// appendix, in addition to the parser's built-in appendix markers.
     #[serde(default)]
@@ -749,8 +788,8 @@ mod tests {
             }
             manifest_count += 1;
         }
-        assert_eq!(manifest_count, 43, "expected 43 committed batch manifests");
-        assert_eq!(slugs.len(), 227, "expected 227 unique instruments");
+        assert_eq!(manifest_count, 44, "expected 44 committed batch manifests");
+        assert_eq!(slugs.len(), 228, "expected 228 unique instruments");
     }
 
     #[test]

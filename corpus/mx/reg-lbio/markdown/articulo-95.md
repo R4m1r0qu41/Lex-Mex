@@ -17,4 +17,4 @@ source_sha256: 7df3d678efda2306b68d3c0f5ca0e3e92b9066d5f773128f4ae19cb26bf44fff
 
 # Artículo 95
 
-Las personas titulares de permisos o Autorizaciones otorgadas por la SENER y la SADER deben atender la solicitud que realicen estas dependencias, en el ámbito de sus respectivas competencias, respecto a la información de las actividades permisionadas a través de medios electrónicos y tecnologías de la información.
+Las personas titulares de permisos o [Autorizaciones](articulo-3.md) otorgadas por la [SENER](articulo-3.md) y la [SADER](articulo-3.md) deben atender la solicitud que realicen estas dependencias, en el ámbito de sus respectivas competencias, respecto a la información de las actividades permisionadas a través de medios electrónicos y tecnologías de la información.

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf
 source_sha256: 43927095d22ff7bc7780e78132d2160b5050b5f76026b539daec32be09d7341d
 ---
 
+> Título Segundo · Capítulo I
+
 # Artículo 16-B
 
 El Servicio de Administración Tributaria podrá otorgar autorización a los particulares, para prestar los servicios de procesamiento electrónico de datos y servicios relacionados necesarios para llevar a cabo el control de la importación temporal de remolques, semiremolques y portacontenedores.

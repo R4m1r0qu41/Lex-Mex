@@ -13,22 +13,22 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGCC_MRNE_281014
 source_sha256: 62420210c5aaffe687daf130a64ff506009625340c554bfb36d2f1b5dcac0192
 ---
 
+> Capítulo I
+
 # Artículo 9
 
 Los Establecimientos Sujetos a Reporte, tendrán las siguientes obligaciones:
 
-I. Identificar las Emisiones Directas de Fuentes Fijas y Móviles, conforme a la clasificación de sectores, subsectores y actividades contenidas en los artículos [3](articulo-3.md) y [4](articulo-4.md) del presente Reglamento;
+I. Identificar las [Emisiones Directas](articulo-2.md) de Fuentes Fijas y Móviles, conforme a la clasificación de sectores, subsectores y actividades contenidas en los artículos [3](articulo-3.md) y [4](articulo-4.md) del presente Reglamento;
 
-II. Identificar las Emisiones Indirectas asociadas al consumo de energía eléctrica y térmica;
+II. Identificar las [Emisiones Indirectas](articulo-2.md) asociadas al consumo de energía eléctrica y térmica;
 
-III. Medir, calcular o estimar la Emisión de Gases o Compuestos de Efecto Invernadero de todas las Fuentes Emisoras identificadas en el Establecimiento aplicando las metodologías que se determinen conforme al artículo [7](articulo-7.md) del presente Reglamento;
+III. Medir, calcular o estimar la [Emisión](../../lgcc/markdown/articulo-3o.md) de Gases o Compuestos de Efecto Invernadero de todas las Fuentes Emisoras identificadas en el Establecimiento aplicando las metodologías que se determinen conforme al artículo [7](articulo-7.md) del presente Reglamento;
 
 IV. Recopilar y utilizar los datos que se especifican en la metodología de medición, cálculo o estimación que resulte aplicable, determinada conforme al artículo [7](articulo-7.md) del presente Reglamento;
 
-V. Reportar anualmente sus Emisiones Directas e Indirectas, a través de la Cédula de Operación Anual, cuantificándolas en toneladas anuales del Gas o Compuesto de Efecto Invernadero de que se trate y su equivalente en Toneladas de Bióxido de Carbono Equivalentes anuales;
+V. Reportar anualmente sus Emisiones Directas e Indirectas, a través de la [Cédula de Operación Anual](articulo-2.md), cuantificándolas en toneladas anuales del Gas o Compuesto de Efecto Invernadero de que se trate y su equivalente en Toneladas de Bióxido de Carbono Equivalentes anuales;
 
-VI. Verificar obligatoriamente la información reportada, en los términos del presente Reglamento, a través de los Organismos previstos en el presente Reglamento, y
+VI. Verificar obligatoriamente la información reportada, en los términos del presente Reglamento, a través de los [Organismos](articulo-2.md) previstos en el presente Reglamento, y
 
-VII. Conservar, por un período de 5 años, contados a partir de la fecha en que la Secretaría haya recibido la Cédula de Operación Anual correspondiente, la información, datos y documentos sobre sus Emisiones Directas e Indirectas así como la utilizada para su medición, cálculo o estimación.
-
-Capítulo II Del Registro Nacional de Emisiones de Gases o Compuestos de Efecto Invernadero
+VII. Conservar, por un período de 5 años, contados a partir de la fecha en que la [Secretaría](../../lgcc/markdown/articulo-3o.md) haya recibido la Cédula de Operación Anual correspondiente, la información, datos y documentos sobre sus Emisiones Directas e Indirectas así como la utilizada para su medición, cálculo o estimación.

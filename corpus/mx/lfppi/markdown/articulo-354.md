@@ -17,7 +17,7 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 354
 
-Para comprobar el cumplimiento de lo dispuesto en esta Ley y demás disposiciones derivadas de ella, el Instituto realizará la inspección y vigilancia, conforme a los siguientes procedimientos:
+Para comprobar el cumplimiento de lo dispuesto en esta [Ley](articulo-4.md) y demás disposiciones derivadas de ella, el [Instituto](articulo-4.md) realizará la inspección y vigilancia, conforme a los siguientes procedimientos:
 
 I.- Requerimiento de informes y datos, y
 

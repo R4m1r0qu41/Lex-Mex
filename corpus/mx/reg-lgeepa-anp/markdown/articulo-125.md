@@ -17,4 +17,4 @@ source_sha256: 4e276866fce1638948a6daf1a5c0438fa412554f1a6e0381cbdf7cb300e3db75
 
 # Artículo 125
 
-Para el financiamiento del área natural protegida respectiva, el promovente podrá celebrar los instrumentos jurídicos que se requieran, con la participación, que en su caso, corresponda a la Secretaría, con instituciones dedicadas a la investigación y a la educación superior o con agrupaciones de los sectores social y privado.
+Para el financiamiento del área natural protegida respectiva, el promovente podrá celebrar los instrumentos jurídicos que se requieran, con la participación, que en su caso, corresponda a la [Secretaría](articulo-3o.md), con instituciones dedicadas a la investigación y a la educación superior o con agrupaciones de los sectores social y privado.

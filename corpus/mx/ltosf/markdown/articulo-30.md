@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LTOSF.pdf
 source_sha256: bf9e443e89a5c0ba268e76f20923ae25195ef5c1ffbacecff36693ca228c3667
 ---
 
+> Capítulo V · Sección III
+
 # Artículo 30
 
 En el procedimiento administrativo sancionador se admitirán toda clase de pruebas, excepto la testimonial y la de confesión de las [Autoridades](articulo-3.md) o de sus servidores públicos, mediante absolución de posiciones. No se considerará comprendida en esta prohibición la petición de informes a las Autoridades, respecto de hechos que consten en sus expedientes o de documentos agregados a ellos.

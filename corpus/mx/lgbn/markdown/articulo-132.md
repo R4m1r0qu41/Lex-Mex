@@ -17,7 +17,7 @@ source_sha256: ea96e97cbea2fd1919af78b94cd3466ee20a77e05989be2d482d2eb8061618c5
 
 # Artículo 132
 
-Salvo los casos comprendidos en los párrafos tercero y cuarto de este artículo, la venta se hará mediante licitación pública. De no lograrse la venta de los bienes a través del procedimiento de licitación pública, se procederá a su subasta en el mismo evento, en los términos que señalen las normas generales que emita la Secretaría. También se podrá enajenar bienes por sorteo. Párrafo reformado DOF 14-09-2021
+Salvo los casos comprendidos en los párrafos tercero y cuarto de este artículo, la venta se hará mediante licitación pública. De no lograrse la venta de los bienes a través del procedimiento de licitación pública, se procederá a su subasta en el mismo evento, en los términos que señalen las normas generales que emita la [Secretaría](articulo-2.md). También se podrá enajenar bienes por sorteo. Párrafo reformado DOF 14-09-2021
 
 Para efectos de la subasta se considerará postura legal la que cubra las dos terceras partes del valor base fijado para la licitación. Si en la primera almoneda no hubiere postura legal, se realizará una segunda, deduciendo en ésta un diez por ciento del importe que en la anterior hubiere constituido la postura legal. Si no se lograse la venta en la segunda almoneda, se podrán emplear los procedimientos a que se refiere el párrafo siguiente, considerando para tal efecto como valor base la postura legal de esta última almoneda.
 

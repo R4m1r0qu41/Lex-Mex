@@ -17,7 +17,7 @@ source_sha256: bcc21844355854fe331c842c21436d721d6c2856b5c5986715fe39f4a845b317
 
 # Artículo 7
 
-El Sistema tendrá como principios rectores:
+El [Sistema](articulo-2.md) tendrá como principios rectores:
 
 I. Promover el conocimiento, los derechos humanos, libertades y difusión de los valores cívicos;
 

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Tercero · Capítulo I
+
 # Artículo 681
 
 En casos excepcionales, atendiendo a la complejidad del asunto, al cúmulo y naturaleza de las pruebas desahogadas, la autoridad jurisdiccional podrá diferir, por única ocasión, la audiencia para la explicación de la sentencia hasta por quince días, citando a las partes para el dictado y explicación conforme a lo establecido en el presente artículo.

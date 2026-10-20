@@ -21,6 +21,6 @@ Todos los sujetos que voluntariamente se incorporen al seguro de salud para la f
 
 El Consejo Técnico podrá determinar anualmente el importe de las cuotas a aplicar, previa realización de los análisis y estudios actuariales pertinentes, sin detrimento del principio de solidaridad social.
 
-El Estado contribuirá conforme a lo dispuesto en la fracción III del artículo [106](articulo-106.md) de la presente Ley por familia, independientemente del tamaño de la familia.
+El Estado contribuirá conforme a lo dispuesto en la fracción III del artículo [106](articulo-106.md) de la presente [Ley](articulo-5-A.md) por familia, independientemente del tamaño de la familia.
 
 Artículo reformado DOF 20-12-2001, 16-01-2014

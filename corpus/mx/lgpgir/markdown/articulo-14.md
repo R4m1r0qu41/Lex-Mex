@@ -17,4 +17,4 @@ source_sha256: b34326588bd6e7519e33411d3658239e3aefb56cef0fae5d775bc894af64a565
 
 # Artículo 14
 
-Los gobiernos de las entidades federativas podrán suscribir entre sí y con los municipios que corresponda, acuerdos de coordinación, a efecto de que participen en la realización de las funciones señaladas en el artículo [12](articulo-12.md) de esta Ley.
+Los gobiernos de las entidades federativas podrán suscribir entre sí y con los municipios que corresponda, acuerdos de coordinación, a efecto de que participen en la realización de las funciones señaladas en el artículo [12](articulo-12.md) de esta [Ley](articulo-5.md).

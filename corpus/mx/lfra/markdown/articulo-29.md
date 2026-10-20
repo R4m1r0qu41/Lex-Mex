@@ -19,4 +19,4 @@ source_sha256: 7211b1c71876d2ea4776c11dc1e045ebbb34b7e98b130f16c7864f75f5e90744
 
 La acción a la que hace referencia el presente Título prescribe en doce años, contados a partir del día en que se produzca el daño al ambiente y sus efectos.
 
-Salvo en los casos previstos en los artículos [23](articulo-23.md) y [28](articulo-28.md) de la presente Ley, ninguna de las partes será condenada al pago de gastos y costas judiciales.
+Salvo en los casos previstos en los artículos [23](articulo-23.md) y [28](articulo-28.md) de la presente [Ley](articulo-2o.md), ninguna de las partes será condenada al pago de gastos y costas judiciales.

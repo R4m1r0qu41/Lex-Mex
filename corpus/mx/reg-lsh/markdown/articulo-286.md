@@ -17,4 +17,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Artículo 286
 
-En el caso de que la medida cautelar o precautoria se imponga derivado de requerimientos de información, procedimientos de verificación mediante requerimientos y comparecencias o bien, una vez concluida la visita de verificación, únicamente puede ser ordenada e impuesta por la Secretaría o la Comisión mediante acuerdo, debidamente fundado y motivado.
+En el caso de que la medida cautelar o precautoria se imponga derivado de requerimientos de información, procedimientos de verificación mediante requerimientos y comparecencias o bien, una vez concluida la visita de verificación, únicamente puede ser ordenada e impuesta por la [Secretaría](articulo-3.md) o la [Comisión](articulo-3.md) mediante acuerdo, debidamente fundado y motivado.

@@ -21,6 +21,6 @@ Sin perjuicio de lo previsto en el artículo [62](articulo-62.md) de esta Ley, n
 
 a) Las cuestiones sobre las que haya recaído resolución judicial firme y definitiva, y
 
-b) Cuando se trate de Instituciones Financieras que sean declaradas en concurso mercantil, en liquidación administrativa, o haya sido revocada su autorización.
+b) Cuando se trate de [Instituciones Financieras](articulo-2o.md) que sean declaradas en concurso mercantil, en liquidación administrativa, o haya sido revocada su autorización.
 
 Artículo adicionado DOF 10-01-2014

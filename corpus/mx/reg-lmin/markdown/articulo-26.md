@@ -17,7 +17,7 @@ source_sha256: 4d25bcb022ab62a24462e11a230c9554c0120012913ab4599cd3ec1b2b275c1d
 
 # Artículo 26
 
-Cuando la Secretaría verifique, con base en los datos derivados de la cartografía minera, del resultado de las visitas de inspección, de las constancias de los expedientes relativos, así como de los que obren en el Registro, que los datos consignados en un título de concesión o asignación minera son erróneos o no corresponden al terreno que legalmente deban amparar de acuerdo a lo previsto en el artículo [18](../../lmin/markdown/articulo-18.md) de la Ley, procederá a iniciar de oficio el procedimiento para corregir el título de concesión o asignación minera correspondiente.
+Cuando la [Secretaría](articulo-1o.md) verifique, con base en los datos derivados de la cartografía minera, del resultado de las visitas de inspección, de las constancias de los expedientes relativos, así como de los que obren en el [Registro](articulo-1o.md), que los datos consignados en un título de concesión o asignación minera son erróneos o no corresponden al terreno que legalmente deban amparar de acuerdo a lo previsto en el artículo [18](../../lmin/markdown/articulo-18.md) de la [Ley](articulo-1o.md), procederá a iniciar de oficio el procedimiento para corregir el título de concesión o asignación minera correspondiente.
 
 Dicho procedimiento se realizará conforme a lo siguiente:
 

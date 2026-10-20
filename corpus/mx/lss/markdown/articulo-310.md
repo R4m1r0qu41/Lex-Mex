@@ -19,7 +19,7 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 Será sancionado con las mismas penas del delito de defraudación a los regímenes del seguro social, quien a sabiendas:
 
-I. Altere los programas informáticos autorizados por el Instituto;
+I. Altere los programas informáticos autorizados por el [Instituto](articulo-5-A.md);
 
 II. Manifieste datos falsos para obtener del Instituto la devolución de cuotas obrero patronales que no le correspondan;
 

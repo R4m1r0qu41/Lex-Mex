@@ -17,6 +17,6 @@ source_sha256: 23dcee090bbe0c4fb06c75d084cb65ce0b2e8f72a8d082e7059504412bde1614
 
 # Artículo 7o
 
-La protección de los derechos de los obtentores extranjeros se otorgará conforme a lo dispuesto en la Ley, este Reglamento y los tratados o convenios internacionales suscritos por los Estados Unidos Mexicanos.
+La protección de los derechos de los obtentores extranjeros se otorgará conforme a lo dispuesto en la [Ley](articulo-2o.md), este Reglamento y los tratados o convenios internacionales suscritos por los Estados Unidos Mexicanos.
 
-La Secretaría podrá negar el registro de variedades vegetales a nacionales de otros países cuando no exista tratado o convenio internacionales con el país en cuestión y éste no otorgue reciprocidad a los obtentores mexicanos.
+La [Secretaría](articulo-2o.md) podrá negar el registro de variedades vegetales a nacionales de otros países cuando no exista tratado o convenio internacionales con el país en cuestión y éste no otorgue reciprocidad a los obtentores mexicanos.

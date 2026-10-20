@@ -17,6 +17,6 @@ source_sha256: 4933abadd27d345e7a5c1754af10ed429fd148b709b4a78d4f42447b5fcd546d
 
 # Artículo 21
 
-El domicilio del Consejo será en la Ciudad de México y sesionará en las instalaciones de la Secretaría, siempre que éste no acuerde una sede alterna.
+El domicilio del [Consejo](articulo-3.md) será en la Ciudad de México y sesionará en las instalaciones de la [Secretaría](articulo-3.md), siempre que éste no acuerde una sede alterna.
 
 Artículo reformado DOF 19-05-2017

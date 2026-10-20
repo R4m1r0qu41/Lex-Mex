@@ -21,7 +21,7 @@ I. Eventuales:
 
 a) Los de primer nivel de ingreso que se encuentran en su primer año de desempeño;
 
-b) Los nombrados con motivo de los casos excepcionales que establece el artículo [34](../../lspcapf/markdown/articulo-34.md) de la Ley;
+b) Los nombrados con motivo de los casos excepcionales que establece el artículo [34](../../lspcapf/markdown/articulo-34.md) de la [Ley](articulo-2.md);
 
 c) Los que ocupen temporalmente un puesto del Sistema por virtud de un convenio, y
 

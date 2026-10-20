@@ -15,4 +15,4 @@ source_sha256: 0a9852297132d8972d0c2f77e1b67d614bd296632109065e703bd09254187aea
 
 # Artículo 24
 
-El Registro guardará constancia de las actualizaciones de la información, con la finalidad de identificar al sujeto obligado que generó la actualización.
+El [Registro](articulo-2.md) guardará constancia de las actualizaciones de la información, con la finalidad de identificar al sujeto obligado que generó la actualización.

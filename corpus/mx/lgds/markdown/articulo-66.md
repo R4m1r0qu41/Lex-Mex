@@ -17,4 +17,4 @@ source_sha256: 32822f50bb2de81185408f9450d61a49d678429c52c5379822a507c7027a5275
 
 # Artículo 66
 
-Las organizaciones estarán sometidas al escrutinio de la Secretaría, sin perjuicio de lo que establezcan las leyes respectivas para el uso de fondos públicos.
+Las organizaciones estarán sometidas al escrutinio de la [Secretaría](articulo-5.md), sin perjuicio de lo que establezcan las leyes respectivas para el uso de fondos públicos.

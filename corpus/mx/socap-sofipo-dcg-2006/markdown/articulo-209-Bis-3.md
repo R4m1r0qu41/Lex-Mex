@@ -18,13 +18,13 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 209 Bis 3
 
-Las Sociedades Financieras Populares darán a conocer a través de su página de Internet, así como en el informe al que se refiere la fracción IX, tercer párrafo del artículo [212](articulo-212.md) de las presentes disposiciones, la información respecto a su [Sistema de Remuneración](articulo-1.md) debiendo actualizar dicha información anualmente, e incluir al menos lo siguiente:
+Las [Sociedades](articulo-1.md) Financieras Populares darán a conocer a través de su página de Internet, así como en el informe al que se refiere la fracción IX, tercer párrafo del artículo [212](articulo-212.md) de las presentes disposiciones, la información respecto a su [Sistema de Remuneración](articulo-1.md) debiendo actualizar dicha información anualmente, e incluir al menos lo siguiente:
 
 I. Información cualitativa:
 
 a) Las políticas y procedimientos de remuneración por perfil de puesto de empleados o personas sujetas al Sistema de Remuneraciones.
 
-b) Información relativa al Comité de Remuneración incluyendo cuando menos:
+b) Información relativa al [Comité de Remuneración](articulo-1.md) incluyendo cuando menos:
 
 i. La composición y las funciones del Comité de Remuneración.
 

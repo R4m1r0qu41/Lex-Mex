@@ -17,4 +17,4 @@ source_sha256: d23aedc9ffdb09b9202311f03023241da20445cb45aea855b37bfd9685768861
 
 # Artículo 214
 
-Para la operación de la PLATIICA, la Secretaría se puede auxiliar de los integrantes del Sistema Nacional de Infraestructura de la Calidad, quienes deben generar y mantener actualizada la información de su competencia, así como proporcionarla de conformidad con los términos, requisitos y formatos que establezca la Secretaría.
+Para la operación de la [PLATIICA](articulo-2.md), la Secretaría se puede auxiliar de los integrantes del Sistema Nacional de Infraestructura de la Calidad, quienes deben generar y mantener actualizada la información de su competencia, así como proporcionarla de conformidad con los términos, requisitos y formatos que establezca la Secretaría.

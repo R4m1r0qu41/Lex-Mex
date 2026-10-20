@@ -17,7 +17,7 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 278
 
-El Instituto para garantizar el debido y oportuno cumplimiento de las obligaciones que contraiga, derivadas del pago de beneficios y la prestación de servicios relativos a los seguros que se establecen en esta Ley, deberá constituir y contabilizar por ramo de seguro la provisión y el respaldo financiero de las reservas que se establecen en este Capítulo, en los términos que el mismo indica.
+El [Instituto](articulo-5-A.md) para garantizar el debido y oportuno cumplimiento de las obligaciones que contraiga, derivadas del pago de beneficios y la prestación de servicios relativos a los seguros que se establecen en esta [Ley](articulo-5-A.md), deberá constituir y contabilizar por ramo de seguro la provisión y el respaldo financiero de las reservas que se establecen en este Capítulo, en los términos que el mismo indica.
 
 Los recursos afectos a estas reservas no formarán parte del patrimonio del Instituto y sólo se podrá disponer de ellos para cumplir los fines previstos en esta Ley y garantizar su viabilidad financiera en el largo plazo.
 

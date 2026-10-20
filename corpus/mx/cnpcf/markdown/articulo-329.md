@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo II
+
 # Artículo 329
 
 La impugnación de falsedad de un documento debe realizarse en la etapa postulatoria del juicio. Si se trata de los exhibidos en la demanda, sea principal o reconvencional, la parte demandada deberá oponer la excepción de falsedad de documento y ofrecerá las pruebas para tal fin. La parte actora podrá responder a dicha impugnación, ampliará su cuestionario y ofrecerá la pericial correspondiente, en su caso.

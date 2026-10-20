@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LNEP.pdf
 source_sha256: 91abecabe50a5e414e0835daa9086ce3b307fffb9ebe626dab3bb9d1eae51680
 ---
 
-> Título QUINTO
+> Título QUINTO · Capítulo VIII
 
 # Artículo 171
 
@@ -36,5 +36,3 @@ VIII. Igualdad Sustantiva. Los beneficios del procedimiento deben garantizarse p
 IX. Integralidad. Considerar a cada persona de forma integral y abordar la problemática considerándola un fenómeno multifactorial, y
 
 X. Diversificación. Utilizar diferentes estrategias y métodos, abriendo nuevos campos de investigación y evaluación en las diferentes etapas del procedimiento.
-
-Sección Segunda Tratamiento

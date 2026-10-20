@@ -19,7 +19,7 @@ source_sha256: 8e270686b885035488bfe310b0b42bb40e7154431794227ebe212dd7dc12e46a
 
 Son obligaciones del visitador, conciliador y síndico, las siguientes:
 
-I. Ejercer con probidad y diligencia las funciones que la presente Ley les encomienda, en los plazos que la misma establece;
+I. Ejercer con probidad y diligencia las funciones que la presente [Ley](articulo-4o.md) les encomienda, en los plazos que la misma establece;
 
 II. Supervisar y vigilar el correcto desempeño de las personas que los auxilien en la realización de sus funciones;
 

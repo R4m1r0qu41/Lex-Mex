@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo I
+
 # Artículo 250
 
 En los escritos de demanda, contestación, reconvención, contestación a la reconvención y desahogo de vista, las partes ofrecerán sus pruebas, exhibirán las documentales físicas o electrónicas que tengan en su poder o el acuse de recibo mediante el cual hayan solicitado las que no tuvieren en su poder.

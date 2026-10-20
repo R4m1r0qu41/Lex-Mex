@@ -23,4 +23,4 @@ Si la materia objeto de la patente es un producto, la patente confiere el derech
 
 Si la materia objeto de la patente es un proceso, la patente confiere el derecho de impedir a otras personas que utilicen ese proceso y que usen, vendan, ofrezcan en venta o importen el producto obtenido directamente de ese proceso, sin su consentimiento.
 
-El alcance de los derechos conferidos por una patente no podrá interpretarse más allá de la materia protegida y de lo dispuesto por esta Ley.
+El alcance de los derechos conferidos por una patente no podrá interpretarse más allá de la materia protegida y de lo dispuesto por esta [Ley](articulo-4.md).

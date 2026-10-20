@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo Único
+
 # Artículo 822
 
 El facilitador elaborará la lista de créditos que sea compatible para personas deudoras no comerciantes, considerando todas las obligaciones pecuniarias del deudor aun cuando la determinación de algunos adeudos se encuentre reservada a otra autoridad, en el entendido de que estos últimos no podrán ser objeto de negociación en el procedimiento de concurso.

@@ -17,7 +17,7 @@ source_sha256: 14cd17e37e96e766c8ab74950c71186d579c0ba6cc10ac9e8b06f6194af7d953
 
 # Artículo 33
 
-El Registro expedirá las constancias de inscripción cuando en la solicitud se contengan los siguientes datos:
+El [Registro](articulo-2o.md) expedirá las constancias de inscripción cuando en la solicitud se contengan los siguientes datos:
 
 I.- En los supuestos de las fracciones I y II:
 

@@ -17,4 +17,4 @@ source_sha256: 29f509ea5cd695b026dca622c5cee399dc723086316b2038d061d59a4e438de2
 
 # Artículo 18
 
-Quienes se dediquen a la producción, distribución o exhibición deben rendir los informes que les requiera la Secretaría de Gobernación en términos del cumplimiento de la presente Ley y su Reglamento.
+Quienes se dediquen a la producción, distribución o exhibición deben rendir los informes que les requiera la Secretaría de Gobernación en términos del cumplimiento de la presente Ley y su [Reglamento](articulo-2o.md).

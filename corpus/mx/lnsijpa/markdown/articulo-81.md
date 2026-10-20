@@ -17,7 +17,7 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 # Artículo 81
 
-Información sobre las personas adolescentes privadas de libertad La Encuesta Nacional de Adolescentes en el Sistema de Justicia Penal tendrá como finalidad generar información estadística que permita conocer las condiciones de procesamiento e internamiento de las personas adolescentes privadas de la libertad, su perfil demográfico y socioeconómico, los delitos por los que fueron procesados o sentenciados, entre otras características.
+Información sobre las personas adolescentes privadas de libertad La Encuesta Nacional de [Adolescentes](articulo-3.md) en el [Sistema](articulo-3.md) de Justicia Penal tendrá como finalidad generar información estadística que permita conocer las condiciones de procesamiento e internamiento de las personas adolescentes privadas de la libertad, su perfil demográfico y socioeconómico, los delitos por los que fueron procesados o sentenciados, entre otras características.
 
 Dicha encuesta se levantará de manera periódica y conforme a criterios estadísticos y técnicos, será de tipo probabilística, incluirá a las personas adolescentes que cumplen una medida de sanción no privativa de libertad y a la población privada de la libertad tanto del fuero común, como federal y será representativa a nivel nacional y estatal.
 

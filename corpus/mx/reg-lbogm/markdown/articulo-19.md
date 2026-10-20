@@ -23,7 +23,7 @@ I. Datos de identificación del permiso de liberación experimental y del permis
 
 II. Descripción de la zona donde se realizará la liberación, la cual consistirá en lo siguiente:
 
-a) Ubicación, en coordenadas UTM, del polígono o polígonos donde podrá realizar la liberación;
+a) Ubicación, en coordenadas [UTM](articulo-2.md), del polígono o polígonos donde podrá realizar la liberación;
 
 b) Municipio o municipios donde se encuentra cada uno de dichos polígonos, y
 
@@ -31,7 +31,7 @@ c) Estado o estados donde se ubica cada uno de dichos polígonos.
 
 III. Referencia y consideraciones sobre los reportes de resultados de la liberación experimental y de la liberación en programa piloto que se hayan realizado, en términos de los permisos a que se refiere la fracción anterior;
 
-IV. Instrucciones o recomendaciones específicas de transporte, de conformidad con las NOM a que se refiere el artículo [76](../../lbogm/markdown/articulo-76.md) de la Ley, de almacenamiento y, en su caso, manejo;
+IV. Instrucciones o recomendaciones específicas de transporte, de conformidad con las [NOM](articulo-2.md) a que se refiere el artículo [76](../../lbogm/markdown/articulo-76.md) de la [Ley](articulo-2.md), de almacenamiento y, en su caso, manejo;
 
 V. Condiciones para su liberación y comercialización, en caso de ser necesarias;
 
@@ -41,7 +41,7 @@ VII. En su caso, la información que disponga el solicitante sobre datos o resul
 
 VIII. En caso de importación del OGM, copia legalizada o apostillada de las autorizaciones o documentación oficial que acredite que el OGM está permitido conforme a la legislación del país de origen, al menos para su liberación comercial, traducida al español;
 
-IX. La Secretaría competente, de considerarlo necesario, podrá requerir copia simple de la legislación aplicable vigente en el país de exportación traducida al español, y
+IX. La [Secretaría competente](articulo-2.md), de considerarlo necesario, podrá requerir copia simple de la legislación aplicable vigente en el país de exportación traducida al español, y
 
 X. La información que en cada caso determinen las NOM.
 

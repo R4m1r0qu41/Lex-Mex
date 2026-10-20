@@ -1,1 +1,2432 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:1:term-usage:110-117",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
+    "span": "Sistema",
+    "start_char": 110,
+    "end_char": 117
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:1:term-usage:909-916",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
+    "span": "Sistema",
+    "start_char": 909,
+    "end_char": 916
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:1:term-usage:1042-1045",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
+    "span": "Ley",
+    "start_char": 1042,
+    "end_char": 1045
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:2:term-usage:25-28",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
+    "span": "Ley",
+    "start_char": 25,
+    "end_char": 28
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:2:term-usage:94-101",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
+    "span": "Sistema",
+    "start_char": 94,
+    "end_char": 101
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:2:term-usage:148-155",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
+    "span": "Sistema",
+    "start_char": 148,
+    "end_char": 155
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:2:term-usage:207-214",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
+    "span": "Sistema",
+    "start_char": 207,
+    "end_char": 214
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:2:term-usage:265-272",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
+    "span": "Sistema",
+    "start_char": 265,
+    "end_char": 272
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:2:term-usage:322-329",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
+    "span": "Sistema",
+    "start_char": 322,
+    "end_char": 329
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:2:term-usage:352-359",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
+    "span": "Sistema",
+    "start_char": 352,
+    "end_char": 359
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:2:term-usage:911-921",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 911,
+    "end_char": 921
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:2:term-usage:928-945",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 928,
+    "end_char": 945
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:2:term-usage:950-957",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
+    "span": "Sistema",
+    "start_char": 950,
+    "end_char": 957
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:3:term-usage:3-10",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
+    "span": "Sistema",
+    "start_char": 3,
+    "end_char": 10
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:4:term-usage:18-25",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
+    "span": "Sistema",
+    "start_char": 18,
+    "end_char": 25
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:6:term-usage:150-157",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
+    "span": "Sistema",
+    "start_char": 150,
+    "end_char": 157
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:7:term-usage:3-10",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
+    "span": "Sistema",
+    "start_char": 3,
+    "end_char": 10
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:8:term-usage:3-10",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
+    "span": "Sistema",
+    "start_char": 3,
+    "end_char": 10
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:9:term-usage:39-42",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
+    "span": "Ley",
+    "start_char": 39,
+    "end_char": 42
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:9:term-usage:81-84",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
+    "span": "Ley",
+    "start_char": 81,
+    "end_char": 84
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:9:term-usage:140-143",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
+    "span": "Ley",
+    "start_char": 140,
+    "end_char": 143
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:9:term-usage:188-191",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
+    "span": "Ley",
+    "start_char": 188,
+    "end_char": 191
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:9:term-usage:230-233",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
+    "span": "Ley",
+    "start_char": 230,
+    "end_char": 233
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:10:term-usage:3-10",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
+    "span": "Sistema",
+    "start_char": 3,
+    "end_char": 10
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:10:term-usage:86-89",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
+    "span": "Ley",
+    "start_char": 86,
+    "end_char": 89
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:10:term-usage:311-314",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
+    "span": "Ley",
+    "start_char": 311,
+    "end_char": 314
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:11:term-usage:38-45",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
+    "span": "Sistema",
+    "start_char": 38,
+    "end_char": 45
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:11:term-usage:1225-1235",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1225,
+    "end_char": 1235
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:11:term-usage:1241-1251",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1241,
+    "end_char": 1251
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:11:term-usage:2320-2323",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
+    "span": "Ley",
+    "start_char": 2320,
+    "end_char": 2323
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:11:term-usage:2401-2408",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
+    "span": "Sistema",
+    "start_char": 2401,
+    "end_char": 2408
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:11:term-usage:2632-2639",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
+    "span": "Sistema",
+    "start_char": 2632,
+    "end_char": 2639
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:11:term-usage:3066-3069",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
+    "span": "Ley",
+    "start_char": 3066,
+    "end_char": 3069
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:12:term-usage:76-83",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
+    "span": "Sistema",
+    "start_char": 76,
+    "end_char": 83
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:13:term-usage:34-41",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
+    "span": "Sistema",
+    "start_char": 34,
+    "end_char": 41
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:13:term-usage:65-82",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 65,
+    "end_char": 82
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:13:term-usage:94-104",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:presidente",
+    "span": "Presidente",
+    "start_char": 94,
+    "end_char": 104
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:13:term-usage:186-203",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:estatuto-organico",
+    "span": "Estatuto Orgánico",
+    "start_char": 186,
+    "end_char": 203
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:13:term-usage:222-239",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 222,
+    "end_char": 239
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:14:term-usage:3-20",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 3,
+    "end_char": 20
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:14:term-usage:112-119",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
+    "span": "Sistema",
+    "start_char": 112,
+    "end_char": 119
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:14:term-usage:157-167",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 157,
+    "end_char": 167
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:14:term-usage:220-230",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 220,
+    "end_char": 230
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:14:term-usage:289-299",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 289,
+    "end_char": 299
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:14:term-usage:349-366",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:consejo-ciudadano",
+    "span": "Consejo Ciudadano",
+    "start_char": 349,
+    "end_char": 366
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:14:term-usage:681-698",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:consejo-ciudadano",
+    "span": "Consejo Ciudadano",
+    "start_char": 681,
+    "end_char": 698
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:14:term-usage:812-829",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 812,
+    "end_char": 829
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:14:term-usage:865-872",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
+    "span": "Sistema",
+    "start_char": 865,
+    "end_char": 872
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:14:term-usage:878-895",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 878,
+    "end_char": 895
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:14:term-usage:1069-1086",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 1069,
+    "end_char": 1086
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:15:term-usage:3-20",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 3,
+    "end_char": 20
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:15:term-usage:49-56",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
+    "span": "Sistema",
+    "start_char": 49,
+    "end_char": 56
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:15:term-usage:203-210",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
+    "span": "Sistema",
+    "start_char": 203,
+    "end_char": 210
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:15:term-usage:379-389",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:presidente",
+    "span": "Presidente",
+    "start_char": 379,
+    "end_char": 389
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:15:term-usage:941-951",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 941,
+    "end_char": 951
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:15:term-usage:959-969",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 959,
+    "end_char": 969
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:15:term-usage:1146-1156",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:presidente",
+    "span": "Presidente",
+    "start_char": 1146,
+    "end_char": 1156
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:15:term-usage:1250-1257",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
+    "span": "Sistema",
+    "start_char": 1250,
+    "end_char": 1257
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:15:term-usage:1392-1402",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:presidente",
+    "span": "Presidente",
+    "start_char": 1392,
+    "end_char": 1402
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:15:term-usage:1485-1495",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:presidente",
+    "span": "Presidente",
+    "start_char": 1485,
+    "end_char": 1495
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:15:term-usage:1780-1790",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:presidente",
+    "span": "Presidente",
+    "start_char": 1780,
+    "end_char": 1790
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:15:term-usage:1865-1872",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
+    "span": "Sistema",
+    "start_char": 1865,
+    "end_char": 1872
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:15:term-usage:1931-1948",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 1931,
+    "end_char": 1948
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:15:term-usage:2003-2006",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
+    "span": "Ley",
+    "start_char": 2003,
+    "end_char": 2006
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:15:term-usage:2017-2027",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:presidente",
+    "span": "Presidente",
+    "start_char": 2017,
+    "end_char": 2027
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:15:term-usage:2085-2092",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
+    "span": "Sistema",
+    "start_char": 2085,
+    "end_char": 2092
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:15:term-usage:2159-2176",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:estatuto-organico",
+    "span": "Estatuto Orgánico",
+    "start_char": 2159,
+    "end_char": 2176
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:15:term-usage:2208-2218",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:presidente",
+    "span": "Presidente",
+    "start_char": 2208,
+    "end_char": 2218
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:15:term-usage:2329-2336",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
+    "span": "Sistema",
+    "start_char": 2329,
+    "end_char": 2336
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:15:term-usage:2380-2390",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:presidente",
+    "span": "Presidente",
+    "start_char": 2380,
+    "end_char": 2390
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:15:term-usage:2435-2445",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:presidente",
+    "span": "Presidente",
+    "start_char": 2435,
+    "end_char": 2445
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:15:term-usage:2450-2460",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:secretario",
+    "span": "Secretario",
+    "start_char": 2450,
+    "end_char": 2460
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:15:term-usage:2467-2484",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 2467,
+    "end_char": 2484
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:15:term-usage:2539-2549",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:secretario",
+    "span": "Secretario",
+    "start_char": 2539,
+    "end_char": 2549
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:15:term-usage:2592-2602",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:presidente",
+    "span": "Presidente",
+    "start_char": 2592,
+    "end_char": 2602
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:15:term-usage:2634-2641",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
+    "span": "Sistema",
+    "start_char": 2634,
+    "end_char": 2641
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:15:term-usage:2761-2778",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:estatuto-organico",
+    "span": "Estatuto Orgánico",
+    "start_char": 2761,
+    "end_char": 2778
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:15:term-usage:2885-2895",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:presidente",
+    "span": "Presidente",
+    "start_char": 2885,
+    "end_char": 2895
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:15:term-usage:3212-3219",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
+    "span": "Sistema",
+    "start_char": 3212,
+    "end_char": 3219
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:15:term-usage:3337-3347",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3337,
+    "end_char": 3347
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:15:term-usage:3436-3443",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
+    "span": "Sistema",
+    "start_char": 3436,
+    "end_char": 3443
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:15:term-usage:3583-3593",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:presidente",
+    "span": "Presidente",
+    "start_char": 3583,
+    "end_char": 3593
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:15:term-usage:3634-3641",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
+    "span": "Sistema",
+    "start_char": 3634,
+    "end_char": 3641
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:15:term-usage:3875-3882",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
+    "span": "Sistema",
+    "start_char": 3875,
+    "end_char": 3882
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:15:term-usage:4130-4140",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:presidente",
+    "span": "Presidente",
+    "start_char": 4130,
+    "end_char": 4140
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:15:term-usage:4172-4179",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
+    "span": "Sistema",
+    "start_char": 4172,
+    "end_char": 4179
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:15:term-usage:4358-4375",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:consejo-ciudadano",
+    "span": "Consejo Ciudadano",
+    "start_char": 4358,
+    "end_char": 4375
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:15:term-usage:4420-4430",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:presidente",
+    "span": "Presidente",
+    "start_char": 4420,
+    "end_char": 4430
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:15:term-usage:4437-4454",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 4437,
+    "end_char": 4454
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:15:term-usage:4488-4498",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:presidente",
+    "span": "Presidente",
+    "start_char": 4488,
+    "end_char": 4498
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:15:term-usage:4581-4584",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
+    "span": "Ley",
+    "start_char": 4581,
+    "end_char": 4584
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:15:term-usage:4589-4606",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:estatuto-organico",
+    "span": "Estatuto Orgánico",
+    "start_char": 4589,
+    "end_char": 4606
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:16:term-usage:69-86",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 69,
+    "end_char": 86
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:16:term-usage:109-126",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:estatuto-organico",
+    "span": "Estatuto Orgánico",
+    "start_char": 109,
+    "end_char": 126
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:16:term-usage:131-138",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
+    "span": "Sistema",
+    "start_char": 131,
+    "end_char": 138
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:16:term-usage:167-177",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:secretario",
+    "span": "Secretario",
+    "start_char": 167,
+    "end_char": 177
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:17:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:presidente",
+    "span": "Presidente",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:17:term-usage:18-25",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
+    "span": "Sistema",
+    "start_char": 18,
+    "end_char": 25
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:18:term-usage:9-19",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:presidente",
+    "span": "Presidente",
+    "start_char": 9,
+    "end_char": 19
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:18:term-usage:24-31",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
+    "span": "Sistema",
+    "start_char": 24,
+    "end_char": 31
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:18:term-usage:247-254",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
+    "span": "Sistema",
+    "start_char": 247,
+    "end_char": 254
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:18:term-usage:717-727",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:secretario",
+    "span": "Secretario",
+    "start_char": 717,
+    "end_char": 727
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:19:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:presidente",
+    "span": "Presidente",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:19:term-usage:18-25",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
+    "span": "Sistema",
+    "start_char": 18,
+    "end_char": 25
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:20:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:presidente",
+    "span": "Presidente",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:21:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:presidente",
+    "span": "Presidente",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:21:term-usage:18-25",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
+    "span": "Sistema",
+    "start_char": 18,
+    "end_char": 25
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:21:term-usage:119-126",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
+    "span": "Sistema",
+    "start_char": 119,
+    "end_char": 126
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:21:term-usage:199-216",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 199,
+    "end_char": 216
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:21:term-usage:301-308",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
+    "span": "Sistema",
+    "start_char": 301,
+    "end_char": 308
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:21:term-usage:346-363",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 346,
+    "end_char": 363
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:21:term-usage:409-416",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
+    "span": "Sistema",
+    "start_char": 409,
+    "end_char": 416
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:21:term-usage:496-503",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
+    "span": "Sistema",
+    "start_char": 496,
+    "end_char": 503
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:21:term-usage:543-560",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:estatuto-organico",
+    "span": "Estatuto Orgánico",
+    "start_char": 543,
+    "end_char": 560
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:21:term-usage:641-648",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
+    "span": "Sistema",
+    "start_char": 641,
+    "end_char": 648
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:21:term-usage:760-767",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
+    "span": "Sistema",
+    "start_char": 760,
+    "end_char": 767
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:21:term-usage:949-956",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
+    "span": "Sistema",
+    "start_char": 949,
+    "end_char": 956
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:21:term-usage:1085-1092",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
+    "span": "Sistema",
+    "start_char": 1085,
+    "end_char": 1092
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:21:term-usage:1172-1175",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
+    "span": "Ley",
+    "start_char": 1172,
+    "end_char": 1175
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:21:term-usage:1208-1225",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 1208,
+    "end_char": 1225
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:21:term-usage:1481-1498",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 1481,
+    "end_char": 1498
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:21:term-usage:1941-1958",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 1941,
+    "end_char": 1958
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:21:term-usage:2178-2185",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
+    "span": "Sistema",
+    "start_char": 2178,
+    "end_char": 2185
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:21:term-usage:2251-2268",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 2251,
+    "end_char": 2268
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:21:term-usage:2348-2365",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 2348,
+    "end_char": 2365
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:21:term-usage:2437-2444",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
+    "span": "Sistema",
+    "start_char": 2437,
+    "end_char": 2444
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:21:term-usage:2498-2515",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:estatuto-organico",
+    "span": "Estatuto Orgánico",
+    "start_char": 2498,
+    "end_char": 2515
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:21:term-usage:2550-2567",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 2550,
+    "end_char": 2567
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:21:term-usage:2694-2711",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 2694,
+    "end_char": 2711
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:21:term-usage:2734-2751",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 2734,
+    "end_char": 2751
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:21:term-usage:2809-2816",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
+    "span": "Sistema",
+    "start_char": 2809,
+    "end_char": 2816
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:21:term-usage:2839-2856",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 2839,
+    "end_char": 2856
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:21:term-usage:2957-2960",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
+    "span": "Ley",
+    "start_char": 2957,
+    "end_char": 2960
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:21:term-usage:3079-3086",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
+    "span": "Sistema",
+    "start_char": 3079,
+    "end_char": 3086
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:21:term-usage:3185-3192",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
+    "span": "Sistema",
+    "start_char": 3185,
+    "end_char": 3192
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:21:term-usage:3255-3272",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 3255,
+    "end_char": 3272
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:21:term-usage:3380-3397",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 3380,
+    "end_char": 3397
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:21:term-usage:3517-3524",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
+    "span": "Sistema",
+    "start_char": 3517,
+    "end_char": 3524
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:21:term-usage:3834-3841",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
+    "span": "Sistema",
+    "start_char": 3834,
+    "end_char": 3841
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:21:term-usage:3964-3971",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
+    "span": "Sistema",
+    "start_char": 3964,
+    "end_char": 3971
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:21:term-usage:4057-4074",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 4057,
+    "end_char": 4074
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:21:term-usage:4204-4221",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 4204,
+    "end_char": 4221
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:21:term-usage:4319-4326",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
+    "span": "Sistema",
+    "start_char": 4319,
+    "end_char": 4326
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:21:term-usage:4460-4471",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:secretaria",
+    "span": "Secretarías",
+    "start_char": 4460,
+    "end_char": 4471
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:21:term-usage:4582-4589",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
+    "span": "Sistema",
+    "start_char": 4582,
+    "end_char": 4589
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:21:term-usage:4769-4786",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 4769,
+    "end_char": 4786
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:21:term-usage:4869-4886",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 4869,
+    "end_char": 4886
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:21:term-usage:4917-4927",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:secretario",
+    "span": "Secretario",
+    "start_char": 4917,
+    "end_char": 4927
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:21:term-usage:5046-5053",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
+    "span": "Sistema",
+    "start_char": 5046,
+    "end_char": 5053
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:21:term-usage:5191-5198",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
+    "span": "Sistema",
+    "start_char": 5191,
+    "end_char": 5198
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:21:term-usage:5341-5348",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
+    "span": "Sistema",
+    "start_char": 5341,
+    "end_char": 5348
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:21:term-usage:5396-5413",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 5396,
+    "end_char": 5413
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:21:term-usage:5443-5446",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
+    "span": "Ley",
+    "start_char": 5443,
+    "end_char": 5446
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:21:term-usage:5451-5468",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:estatuto-organico",
+    "span": "Estatuto Orgánico",
+    "start_char": 5451,
+    "end_char": 5468
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:22:term-usage:3-10",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
+    "span": "Sistema",
+    "start_char": 3,
+    "end_char": 10
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:22:term-usage:26-43",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:consejo-ciudadano",
+    "span": "Consejo Ciudadano",
+    "start_char": 26,
+    "end_char": 43
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:23:term-usage:3-20",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:consejo-ciudadano",
+    "span": "Consejo Ciudadano",
+    "start_char": 3,
+    "end_char": 20
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:24:term-usage:564-574",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:secretario",
+    "span": "Secretario",
+    "start_char": 564,
+    "end_char": 574
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:25:term-usage:18-35",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:consejo-ciudadano",
+    "span": "Consejo Ciudadano",
+    "start_char": 18,
+    "end_char": 35
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:25:term-usage:70-87",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 70,
+    "end_char": 87
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:25:term-usage:183-190",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
+    "span": "Sistema",
+    "start_char": 183,
+    "end_char": 190
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:25:term-usage:259-266",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
+    "span": "Sistema",
+    "start_char": 259,
+    "end_char": 266
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:25:term-usage:363-370",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
+    "span": "Sistema",
+    "start_char": 363,
+    "end_char": 370
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:25:term-usage:431-438",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
+    "span": "Sistema",
+    "start_char": 431,
+    "end_char": 438
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:25:term-usage:588-595",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
+    "span": "Sistema",
+    "start_char": 588,
+    "end_char": 595
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:25:term-usage:728-745",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 728,
+    "end_char": 745
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:25:term-usage:803-820",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 803,
+    "end_char": 820
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:25:term-usage:1106-1123",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 1106,
+    "end_char": 1123
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:25:term-usage:1234-1241",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
+    "span": "Sistema",
+    "start_char": 1234,
+    "end_char": 1241
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:26:term-usage:29-46",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:consejo-ciudadano",
+    "span": "Consejo Ciudadano",
+    "start_char": 29,
+    "end_char": 46
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:26:term-usage:335-342",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
+    "span": "Sistema",
+    "start_char": 335,
+    "end_char": 342
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:27:term-usage:48-65",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:consejo-ciudadano",
+    "span": "Consejo Ciudadano",
+    "start_char": 48,
+    "end_char": 65
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:27:term-usage:88-105",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:estatuto-organico",
+    "span": "Estatuto Orgánico",
+    "start_char": 88,
+    "end_char": 105
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:28:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:28",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:presidente",
+    "span": "Presidente",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:28:term-usage:18-25",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:28",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
+    "span": "Sistema",
+    "start_char": 18,
+    "end_char": 25
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:28:term-usage:121-138",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:28",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:consejo-ciudadano",
+    "span": "Consejo Ciudadano",
+    "start_char": 121,
+    "end_char": 138
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:29:term-usage:3-10",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
+    "span": "Sistema",
+    "start_char": 3,
+    "end_char": 10
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:29:term-usage:75-85",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 75,
+    "end_char": 85
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:29:term-usage:258-261",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
+    "span": "Ley",
+    "start_char": 258,
+    "end_char": 261
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:31:term-usage:60-63",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
+    "span": "Ley",
+    "start_char": 60,
+    "end_char": 63
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:31:term-usage:114-124",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 114,
+    "end_char": 124
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:31:term-usage:178-195",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 178,
+    "end_char": 195
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:31:term-usage:200-207",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
+    "span": "Sistema",
+    "start_char": 200,
+    "end_char": 207
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:32:term-usage:30-37",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
+    "span": "Sistema",
+    "start_char": 30,
+    "end_char": 37
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:article:32:term-usage:70-73",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
+    "span": "Ley",
+    "start_char": 70,
+    "end_char": 73
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:segundo:term-usage:14-17",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
+    "span": "Ley",
+    "start_char": 14,
+    "end_char": 17
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:segundo:term-usage:53-56",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
+    "span": "Ley",
+    "start_char": 53,
+    "end_char": 56
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:segundo:term-usage:138-141",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
+    "span": "Ley",
+    "start_char": 138,
+    "end_char": 141
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:segundo:term-usage:218-221",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
+    "span": "Ley",
+    "start_char": 218,
+    "end_char": 221
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:tercero:term-usage:221-224",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
+    "span": "Ley",
+    "start_char": 221,
+    "end_char": 224
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:cuarto:term-usage:63-66",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
+    "span": "Ley",
+    "start_char": 63,
+    "end_char": 66
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:quinto:term-usage:221-224",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
+    "span": "Ley",
+    "start_char": 221,
+    "end_char": 224
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:septimo:term-usage:38-41",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:septimo",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
+    "span": "Ley",
+    "start_char": 38,
+    "end_char": 41
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:septimo:term-usage:603-606",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:septimo",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
+    "span": "Ley",
+    "start_char": 603,
+    "end_char": 606
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:septimo:term-usage:1370-1373",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:septimo",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
+    "span": "Ley",
+    "start_char": 1370,
+    "end_char": 1373
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:octavo:term-usage:568-571",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:octavo",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
+    "span": "Ley",
+    "start_char": 568,
+    "end_char": 571
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:noveno:term-usage:2106-2109",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:noveno",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
+    "span": "Ley",
+    "start_char": 2106,
+    "end_char": 2109
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:noveno:term-usage:2738-2741",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:noveno",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
+    "span": "Ley",
+    "start_char": 2738,
+    "end_char": 2741
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:noveno:term-usage:2793-2796",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:noveno",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
+    "span": "Ley",
+    "start_char": 2793,
+    "end_char": 2796
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo:term-usage:699-702",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
+    "span": "Ley",
+    "start_char": 699,
+    "end_char": 702
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo:term-usage:757-760",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
+    "span": "Ley",
+    "start_char": 757,
+    "end_char": 760
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo:term-usage:2370-2373",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
+    "span": "Ley",
+    "start_char": 2370,
+    "end_char": 2373
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo:term-usage:3087-3090",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
+    "span": "Ley",
+    "start_char": 3087,
+    "end_char": 3090
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo-primero:term-usage:2868-2871",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo-primero",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
+    "span": "Ley",
+    "start_char": 2868,
+    "end_char": 2871
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo-segundo:term-usage:155-158",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo-segundo",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
+    "span": "Ley",
+    "start_char": 155,
+    "end_char": 158
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo-segundo:term-usage:1459-1462",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo-segundo",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
+    "span": "Ley",
+    "start_char": 1459,
+    "end_char": 1462
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo-segundo:term-usage:3636-3639",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo-segundo",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
+    "span": "Ley",
+    "start_char": 3636,
+    "end_char": 3639
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo-segundo:term-usage:4603-4606",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo-segundo",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
+    "span": "Ley",
+    "start_char": 4603,
+    "end_char": 4606
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo-segundo:term-usage:4979-4982",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo-segundo",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
+    "span": "Ley",
+    "start_char": 4979,
+    "end_char": 4982
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo-segundo:term-usage:6159-6162",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo-segundo",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
+    "span": "Ley",
+    "start_char": 6159,
+    "end_char": 6162
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo-segundo:term-usage:6885-6888",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo-segundo",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
+    "span": "Ley",
+    "start_char": 6885,
+    "end_char": 6888
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo-segundo:term-usage:7150-7153",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo-segundo",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
+    "span": "Ley",
+    "start_char": 7150,
+    "end_char": 7153
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo-segundo:term-usage:7652-7655",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo-segundo",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
+    "span": "Ley",
+    "start_char": 7652,
+    "end_char": 7655
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo-segundo:term-usage:8717-8720",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo-segundo",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
+    "span": "Ley",
+    "start_char": 8717,
+    "end_char": 8720
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo-tercero:term-usage:36-46",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo-tercero",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 36,
+    "end_char": 46
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo-sexto:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo-sexto",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo-sexto:term-usage:158-161",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo-sexto",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
+    "span": "Ley",
+    "start_char": 158,
+    "end_char": 161
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo-septimo:term-usage:237-240",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo-septimo",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
+    "span": "Ley",
+    "start_char": 237,
+    "end_char": 240
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo-septimo:term-usage:1036-1039",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo-septimo",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
+    "span": "Ley",
+    "start_char": 1036,
+    "end_char": 1039
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo-octavo:term-usage:130-133",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo-octavo",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
+    "span": "Ley",
+    "start_char": 130,
+    "end_char": 133
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo-noveno:term-usage:108-118",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo-noveno",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 108,
+    "end_char": 118
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo-noveno:term-usage:995-1005",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo-noveno",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 995,
+    "end_char": 1005
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo-noveno:term-usage:1460-1470",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo-noveno",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1460,
+    "end_char": 1470
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo-noveno:term-usage:2431-2434",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo-noveno",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
+    "span": "Ley",
+    "start_char": 2431,
+    "end_char": 2434
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:vigesimo:term-usage:74-77",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:vigesimo",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
+    "span": "Ley",
+    "start_char": 74,
+    "end_char": 77
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:vigesimo:term-usage:392-395",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:vigesimo",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
+    "span": "Ley",
+    "start_char": 392,
+    "end_char": 395
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:vigesimo:term-usage:985-988",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:vigesimo",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
+    "span": "Ley",
+    "start_char": 985,
+    "end_char": 988
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:vigesimo:term-usage:1389-1392",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:vigesimo",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
+    "span": "Ley",
+    "start_char": 1389,
+    "end_char": 1392
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:vigesimo-primero:term-usage:90-93",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:vigesimo-primero",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
+    "span": "Ley",
+    "start_char": 90,
+    "end_char": 93
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:vigesimo-primero:term-usage:149-152",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:vigesimo-primero",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
+    "span": "Ley",
+    "start_char": 149,
+    "end_char": 152
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:vigesimo-segundo:term-usage:151-154",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:vigesimo-segundo",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
+    "span": "Ley",
+    "start_char": 151,
+    "end_char": 154
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:vigesimo-cuarto:term-usage:446-449",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:vigesimo-cuarto",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
+    "span": "Ley",
+    "start_char": 446,
+    "end_char": 449
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:vigesimo-quinto:term-usage:53-56",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:vigesimo-quinto",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
+    "span": "Ley",
+    "start_char": 53,
+    "end_char": 56
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:vigesimo-sexto:term-usage:135-145",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:vigesimo-sexto",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:presidente",
+    "span": "Presidente",
+    "start_char": 135,
+    "end_char": 145
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:vigesimo-sexto:term-usage:150-157",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:vigesimo-sexto",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
+    "span": "Sistema",
+    "start_char": 150,
+    "end_char": 157
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:vigesimo-sexto:term-usage:365-375",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:vigesimo-sexto",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:presidente",
+    "span": "Presidente",
+    "start_char": 365,
+    "end_char": 375
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:vigesimo-sexto:term-usage:380-387",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:vigesimo-sexto",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
+    "span": "Sistema",
+    "start_char": 380,
+    "end_char": 387
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:vigesimo-septimo:term-usage:26-37",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:vigesimo-septimo",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:secretaria",
+    "span": "Secretarías",
+    "start_char": 26,
+    "end_char": 37
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:vigesimo-septimo:term-usage:64-81",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:vigesimo-septimo",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 64,
+    "end_char": 81
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:vigesimo-septimo:term-usage:86-93",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:vigesimo-septimo",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
+    "span": "Sistema",
+    "start_char": 86,
+    "end_char": 93
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:vigesimo-octavo:term-usage:35-52",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:vigesimo-octavo",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:consejo-ciudadano",
+    "span": "Consejo Ciudadano",
+    "start_char": 35,
+    "end_char": 52
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:vigesimo-octavo:term-usage:57-64",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:vigesimo-octavo",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
+    "span": "Sistema",
+    "start_char": 57,
+    "end_char": 64
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:vigesimo-noveno:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:vigesimo-noveno",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:presidente",
+    "span": "Presidente",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:vigesimo-noveno:term-usage:18-25",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:vigesimo-noveno",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
+    "span": "Sistema",
+    "start_char": 18,
+    "end_char": 25
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:vigesimo-noveno:term-usage:85-102",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:vigesimo-noveno",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 85,
+    "end_char": 102
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:vigesimo-noveno:term-usage:139-156",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:vigesimo-noveno",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:estatuto-organico",
+    "span": "Estatuto Orgánico",
+    "start_char": 139,
+    "end_char": 156
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:trigesimo:term-usage:152-159",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:trigesimo",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
+    "span": "Sistema",
+    "start_char": 152,
+    "end_char": 159
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:trigesimo:term-usage:333-350",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:trigesimo",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:estatuto-organico",
+    "span": "Estatuto Orgánico",
+    "start_char": 333,
+    "end_char": 350
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:trigesimo:term-usage:355-362",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:trigesimo",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
+    "span": "Sistema",
+    "start_char": 355,
+    "end_char": 362
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:trigesimo:term-usage:461-464",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:trigesimo",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
+    "span": "Ley",
+    "start_char": 461,
+    "end_char": 464
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:trigesimo:term-usage:469-476",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:trigesimo",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
+    "span": "Sistema",
+    "start_char": 469,
+    "end_char": 476
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:trigesimo:term-usage:526-543",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:trigesimo",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:estatuto-organico",
+    "span": "Estatuto Orgánico",
+    "start_char": 526,
+    "end_char": 543
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:trigesimo-primero:term-usage:138-145",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:trigesimo-primero",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
+    "span": "Sistema",
+    "start_char": 138,
+    "end_char": 145
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:trigesimo-primero:term-usage:218-228",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:trigesimo-primero",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:presidente",
+    "span": "Presidente",
+    "start_char": 218,
+    "end_char": 228
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:trigesimo-segundo:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:trigesimo-segundo",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:trigesimo-segundo:term-usage:164-167",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:trigesimo-segundo",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
+    "span": "Ley",
+    "start_char": 164,
+    "end_char": 167
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:trigesimo-tercero:term-usage:125-128",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:trigesimo-tercero",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
+    "span": "Ley",
+    "start_char": 125,
+    "end_char": 128
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:trigesimo-cuarto:term-usage:42-49",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:trigesimo-cuarto",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
+    "span": "Sistema",
+    "start_char": 42,
+    "end_char": 49
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:trigesimo-quinto:term-usage:176-179",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:trigesimo-quinto",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
+    "span": "Ley",
+    "start_char": 176,
+    "end_char": 179
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:trigesimo-septimo:term-usage:109-112",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:trigesimo-septimo",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
+    "span": "Ley",
+    "start_char": 109,
+    "end_char": 112
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:trigesimo-septimo:term-usage:205-208",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:trigesimo-septimo",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
+    "span": "Ley",
+    "start_char": 205,
+    "end_char": 208
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:trigesimo-octavo:term-usage:131-134",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:trigesimo-octavo",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
+    "span": "Ley",
+    "start_char": 131,
+    "end_char": 134
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:trigesimo-noveno:term-usage:54-57",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:trigesimo-noveno",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
+    "span": "Ley",
+    "start_char": 54,
+    "end_char": 57
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:trigesimo-noveno:term-usage:387-390",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:trigesimo-noveno",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
+    "span": "Ley",
+    "start_char": 387,
+    "end_char": 390
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:cuadragesimo:term-usage:283-286",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:cuadragesimo",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
+    "span": "Ley",
+    "start_char": 283,
+    "end_char": 286
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:cuadragesimo-primero:term-usage:224-227",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:cuadragesimo-primero",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
+    "span": "Ley",
+    "start_char": 224,
+    "end_char": 227
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:cuadragesimo-segundo:term-usage:523-526",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:cuadragesimo-segundo",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
+    "span": "Ley",
+    "start_char": 523,
+    "end_char": 526
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:cuadragesimo-segundo:term-usage:806-809",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:cuadragesimo-segundo",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
+    "span": "Ley",
+    "start_char": 806,
+    "end_char": 809
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:cuadragesimo-cuarto:term-usage:119-122",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:cuadragesimo-cuarto",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
+    "span": "Ley",
+    "start_char": 119,
+    "end_char": 122
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:cuadragesimo-quinto:term-usage:169-172",
+    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:cuadragesimo-quinto",
+    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
+    "span": "Ley",
+    "start_char": 169,
+    "end_char": 172
+  }
+]

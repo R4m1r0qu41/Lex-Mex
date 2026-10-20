@@ -17,4 +17,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Artículo 290
 
-Una vez impuesta la medida cautelar o precautoria, se debe hacer del conocimiento que bajo ningún motivo o circunstancia se puede continuar con la realización de las actividades reguladas por la Ley, el presente reglamento y la Normatividad aplicable, hasta en tanto no se desvirtúen o subsanen las causas que originaron la imposición de la medida y la autoridad competente emita resolución mediante la cual se ordene el levantamiento de la medida impuesta.
+Una vez impuesta la medida cautelar o precautoria, se debe hacer del conocimiento que bajo ningún motivo o circunstancia se puede continuar con la realización de las actividades reguladas por la [Ley](articulo-3.md), el presente reglamento y la [Normatividad](articulo-3.md) aplicable, hasta en tanto no se desvirtúen o subsanen las causas que originaron la imposición de la medida y la autoridad competente emita resolución mediante la cual se ordene el levantamiento de la medida impuesta.

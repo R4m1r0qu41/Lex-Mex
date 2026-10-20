@@ -44,8 +44,10 @@ pub use temporal_derive::{
     repair_article_dates, repair_partial_repeals,
 };
 pub use terms::{
-    GlossaryStyle, detect_glossary_terms, extract_term_usages, extract_terms,
-    find_glossary_provision,
+    GlossaryDetection, GlossaryHold, GlossaryStyle, detect_glossary, detect_glossary_terms,
+    extract_glossaries, extract_quoted_term_usages, extract_term_usages,
+    extract_term_usages_with_lowercase, extract_terms, find_glossary_provision,
+    repeal_placeholders, unread_fractions,
 };
 
 #[derive(Debug)]
@@ -3004,14 +3006,12 @@ mod tests {
         use lex_core::ConditionStatus::{Met, Unmet, Unverified};
         let date = NaiveDate::from_ymd_opt(2024, 5, 1);
 
-        assert!(
-            repeal_codes(&repeal_fixture_provision(
-                TemporalStatus::PartiallyRepealed,
-                vec![sample_repeal()],
-                None
-            ))
-            .is_empty()
-        );
+        let found = repeal_codes(&repeal_fixture_provision(
+            TemporalStatus::PartiallyRepealed,
+            vec![sample_repeal()],
+            None,
+        ));
+        assert!(found.is_empty(), "{found:?}");
         assert_eq!(
             repeal_codes(&repeal_fixture_provision(
                 TemporalStatus::PartiallyRepealed,
@@ -3029,22 +3029,18 @@ mod tests {
             ["repeals_on_unrepealed_provision"]
         );
 
-        assert!(
-            repeal_codes(&repeal_fixture_provision(
-                TemporalStatus::ConditionalPending,
-                vec![],
-                Some(sample_condition(Unverified, None, None))
-            ))
-            .is_empty()
-        );
-        assert!(
-            repeal_codes(&repeal_fixture_provision(
-                TemporalStatus::ConditionalPending,
-                vec![],
-                Some(sample_condition(Unmet, None, None))
-            ))
-            .is_empty()
-        );
+        let found = repeal_codes(&repeal_fixture_provision(
+            TemporalStatus::ConditionalPending,
+            vec![],
+            Some(sample_condition(Unverified, None, None)),
+        ));
+        assert!(found.is_empty(), "{found:?}");
+        let found = repeal_codes(&repeal_fixture_provision(
+            TemporalStatus::ConditionalPending,
+            vec![],
+            Some(sample_condition(Unmet, None, None)),
+        ));
+        assert!(found.is_empty(), "{found:?}");
         assert_eq!(
             repeal_codes(&repeal_fixture_provision(
                 TemporalStatus::ConditionalPending,
@@ -3053,14 +3049,12 @@ mod tests {
             )),
             ["conditional_without_condition"]
         );
-        assert!(
-            repeal_codes(&repeal_fixture_provision(
-                TemporalStatus::Effective,
-                vec![],
-                Some(sample_condition(Met, date, Some("DOF 2024-05-01 acuerdo")))
-            ))
-            .is_empty()
-        );
+        let found = repeal_codes(&repeal_fixture_provision(
+            TemporalStatus::Effective,
+            vec![],
+            Some(sample_condition(Met, date, Some("DOF 2024-05-01 acuerdo"))),
+        ));
+        assert!(found.is_empty(), "{found:?}");
         assert_eq!(
             repeal_codes(&repeal_fixture_provision(
                 TemporalStatus::ConditionalPending,
@@ -3174,6 +3168,7 @@ mod tests {
             annex_markers: Vec::new(),
             separate_enactment: false,
             nested_instrument: None,
+            separatorless_article_headings: Vec::new(),
         }
     }
 
@@ -3372,6 +3367,7 @@ mod tests {
                 header_lines: Vec::new(),
                 stop_markers: Vec::new(),
                 annex_markers: Vec::new(), separate_enactment: false, nested_instrument: None,
+                separatorless_article_headings: Vec::new(),
             },
             NaiveDate::from_ymd_opt(2002, 1, 15).unwrap(),
         )
@@ -3420,6 +3416,7 @@ mod tests {
                 header_lines: Vec::new(),
                 stop_markers: Vec::new(),
                 annex_markers: Vec::new(), separate_enactment: false, nested_instrument: None,
+                separatorless_article_headings: Vec::new(),
             },
             date,
         )
@@ -3625,6 +3622,7 @@ mod tests {
                 annex_markers: Vec::new(),
                 separate_enactment: false,
                 nested_instrument: None,
+                separatorless_article_headings: Vec::new(),
             },
             date,
         )
@@ -3899,6 +3897,7 @@ mod tests {
             annex_markers: Vec::new(),
             separate_enactment: false,
             nested_instrument: None,
+            separatorless_article_headings: Vec::new(),
         };
         let mut document = parse_diputados(text, &options, date).unwrap();
         reorder(&mut document.provisions);
@@ -4343,6 +4342,7 @@ mod tests {
                 annex_markers: Vec::new(),
                 separate_enactment: false,
                 nested_instrument: None,
+                separatorless_article_headings: Vec::new(),
             },
             NaiveDate::from_ymd_opt(2002, 1, 15).unwrap(),
         )
@@ -4488,6 +4488,7 @@ mod tests {
                 annex_markers: Vec::new(),
                 separate_enactment: false,
                 nested_instrument: None,
+                separatorless_article_headings: Vec::new(),
             },
             NaiveDate::from_ymd_opt(2002, 1, 15).unwrap(),
         )
@@ -4816,7 +4817,11 @@ mod tests {
         assert_eq!(article_two.len(), 2);
         assert!(article_two[0].target_provision_id.ends_with(":article:1"));
         assert_eq!(article_two[0].source_span, "artículo anterior");
-        assert!(article_two[0].qualifiers.is_empty());
+        assert!(
+            article_two[0].qualifiers.is_empty(),
+            "{:?}",
+            article_two[0].qualifiers
+        );
         assert!(article_two[1].target_provision_id.ends_with(":article:3"));
         assert_eq!(article_two[1].source_span, "artículo siguiente");
         assert_eq!(article_two[1].qualifiers.len(), 1);
@@ -4829,7 +4834,11 @@ mod tests {
             .find(|edge| edge.source_provision_id.ends_with(":article:3"))
             .unwrap();
         assert!(article_three.target_provision_id.ends_with(":article:2"));
-        assert!(article_three.qualifiers.is_empty());
+        assert!(
+            article_three.qualifiers.is_empty(),
+            "{:?}",
+            article_three.qualifiers
+        );
 
         // A relative reference inside a transitory resolves against the
         // transitory sequence, never the article sequence.
@@ -4933,6 +4942,7 @@ Ciudad de México, a 1 de octubre de 2025.
             annex_markers: vec![],
             separate_enactment: false,
             nested_instrument: None,
+            separatorless_article_headings: Vec::new(),
         };
         let doc = parse_diputados(
             include_str!("../../../fixtures/diputados/held-lcnbv-article15.txt"),
@@ -5133,6 +5143,7 @@ Ciudad de México, a 1 de octubre de 2025.
             annex_markers: vec![],
             separate_enactment: false,
             nested_instrument: None,
+            separatorless_article_headings: Vec::new(),
         };
         let doc = parse_diputados(
             include_str!("../../../fixtures/diputados/held-lcnbv-article15.txt"),
@@ -5282,6 +5293,7 @@ Ciudad de México, a 1 de octubre de 2025.
             annex_markers: vec![],
             separate_enactment: false,
             nested_instrument: None,
+            separatorless_article_headings: Vec::new(),
         };
         let refs = ReferenceOptions {
             policy: InstrumentContextPolicy::SentenceEarliestMarker {
@@ -5336,6 +5348,7 @@ Ciudad de México, a 1 de octubre de 2025.
                 annex_markers: Vec::new(),
                 separate_enactment: false,
                 nested_instrument: None,
+                separatorless_article_headings: Vec::new(),
             },
             NaiveDate::from_ymd_opt(2002, 1, 15).unwrap(),
         )

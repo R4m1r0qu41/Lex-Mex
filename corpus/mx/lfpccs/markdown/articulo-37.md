@@ -17,7 +17,7 @@ source_sha256: ea99e8d1b13b36451e69f865d4aeeca08ce847fb7dcab648e77f65ca88991a8b
 
 # Artículo 37
 
-Los Consejos Estatales para el Desarrollo Rural Sustentable, previstos en la Ley de Desarrollo Rural Sustentable, promoverán la instalación de Comités Consultivos Regionales o Estatales de Semillas que se integrarán por representantes de las dependencias relacionadas, agricultores, instituciones técnicas, científicas o de enseñanza, así como de productores de semillas. Estos Comités tendrán las siguientes funciones:
+Los Consejos Estatales para el Desarrollo Rural Sustentable, previstos en la Ley de Desarrollo Rural Sustentable, promoverán la instalación de Comités Consultivos Regionales o Estatales de [Semillas](articulo-3.md) que se integrarán por representantes de las dependencias relacionadas, agricultores, instituciones técnicas, científicas o de enseñanza, así como de productores de semillas. Estos Comités tendrán las siguientes funciones:
 
 I. Impulsar acciones para que la producción de semillas se ajuste a lo establecido en esta Ley y demás disposiciones que de ella deriven;
 
@@ -27,6 +27,6 @@ III. Orientar a los agricultores sobre las alternativas tecnológicas en varieda
 
 IV. Coadyuvar a la difusión del uso de variedades vegetales y semillas de calidad, con el propósito de incrementar la producción y la productividad agrícola.
 
-Los Comités Consultivos previstos en este artículo, coadyuvarán al propósito del Sistema Nacional de Semillas mediante la aplicación de mecanismos para la evaluación de tecnologías en semillas y variedades vegetales aplicables a las diversas condiciones agroambientales y socioeconómicas de los productores.
+Los Comités Consultivos previstos en este artículo, coadyuvarán al propósito del [Sistema](articulo-3.md) Nacional de Semillas mediante la aplicación de mecanismos para la evaluación de tecnologías en semillas y variedades vegetales aplicables a las diversas condiciones agroambientales y socioeconómicas de los productores.
 
 En el Reglamento de esta Ley se establecerán los mecanismos para la constitución, integración y operación de estos Comités.

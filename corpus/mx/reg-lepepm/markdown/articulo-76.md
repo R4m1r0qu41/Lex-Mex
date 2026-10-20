@@ -17,4 +17,4 @@ source_sha256: 9080231242a59cbd78d30fb747864bc45cd63d3c4978f37086b01e45343f4244
 
 # Artículo 76
 
-En caso de terminación anticipada de un contrato mixto relacionado con una asignación para desarrollo mixto, por cualquier causa, la persona titular de la Dirección General de Petróleos Mexicanos debe informar al Consejo de Administración para toma de conocimiento.
+En caso de terminación anticipada de un contrato mixto relacionado con una asignación para desarrollo mixto, por cualquier causa, la persona titular de la Dirección General de Petróleos Mexicanos debe informar al [Consejo de Administración](articulo-2.md) para toma de conocimiento.

@@ -15,7 +15,7 @@ source_sha256: 0a9852297132d8972d0c2f77e1b67d614bd296632109065e703bd09254187aea
 
 # Artículo 32
 
-El Sistema de Consulta del Registro estará a cargo de la Secretaría, la cual para su operación tendrá las atribuciones siguientes:
+El [Sistema de Consulta](articulo-2.md) del [Registro](articulo-2.md) estará a cargo de la [Secretaría](articulo-2.md), la cual para su operación tendrá las atribuciones siguientes:
 
 I. Implementar las herramientas tecnológicas para su debido funcionamiento;
 

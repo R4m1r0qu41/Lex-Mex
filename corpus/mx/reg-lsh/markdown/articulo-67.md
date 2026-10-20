@@ -17,4 +17,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Artículo 67
 
-La Secretaría debe resolver la solicitud de adjudicación directa, para lo cual debe notificar a la persona concesionaria minera la resolución sobre la procedencia de su solicitud en un plazo de veinte días hábiles contados a partir de la admisión de la misma y sobre el inicio del proceso para definir el Modelo de Contratación, los Términos y Condiciones Técnicos y las condiciones económicas relativas a los términos fiscales.
+La [Secretaría](articulo-3.md) debe resolver la solicitud de adjudicación directa, para lo cual debe notificar a la persona concesionaria minera la resolución sobre la procedencia de su solicitud en un plazo de veinte días hábiles contados a partir de la admisión de la misma y sobre el inicio del proceso para definir el [Modelo de Contratación](articulo-3.md), los [Términos y Condiciones Técnicos](articulo-3.md) y las condiciones económicas relativas a los términos fiscales.

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Capítulo II · Sección Segunda
+
 # Artículo 1139
 
 Las disposiciones relativas a la presentación de documentos y desahogo de pruebas en procedimientos internacionales se regirán por lo previsto en instrumentos internacionales y en su defecto, por lo dispuesto en esta Sección.

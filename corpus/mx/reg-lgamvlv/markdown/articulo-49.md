@@ -17,4 +17,4 @@ source_sha256: 71ee875c26fc6a1024ea9481ca0690721959514689d860112c3093f0176dfcfb
 
 # Artículo 49
 
-El Sistema, a través de los Mecanismos para el adelanto de las mujeres, procurará que los programas integrales de las entidades federativas se encuentren armonizados con el Programa, así como los programas municipales con los estatales.
+El Sistema, a través de los [Mecanismos para el adelanto de las mujeres](articulo-2.md), procurará que los programas integrales de las entidades federativas se encuentren armonizados con el Programa, así como los programas municipales con los estatales.

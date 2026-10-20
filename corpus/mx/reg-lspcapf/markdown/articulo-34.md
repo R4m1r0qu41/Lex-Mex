@@ -27,7 +27,7 @@ IV. Entrevistas, y
 
 V. Determinación.
 
-Las etapas del procedimiento de selección deben llevarse a cabo conforme a las disposiciones y metodologías que emita la Secretaría. Respecto de las etapas que corresponde realizar a la DGRH, la persona titular de ésta debe, mediante documento oficial, designar al personal responsable de la aplicación de los exámenes de conocimientos y de las evaluaciones de habilidades, experiencia y el mérito de las personas candidatas. Párrafo adicionado DOF 04-01-2024
+Las etapas del procedimiento de selección deben llevarse a cabo conforme a las disposiciones y metodologías que emita la Secretaría. Respecto de las etapas que corresponde realizar a la [DGRH](articulo-2.md), la persona titular de ésta debe, mediante documento oficial, designar al personal responsable de la aplicación de los exámenes de conocimientos y de las evaluaciones de habilidades, experiencia y el mérito de las personas candidatas. Párrafo adicionado DOF 04-01-2024
 
 El Comité Técnico de Profesionalización debe establecer las reglas de valoración y el sistema de puntuación general aplicables en el proceso de selección, en congruencia con las disposiciones y metodologías emitidas por la Secretaría. Párrafo reformado DOF 04-01-2024
 

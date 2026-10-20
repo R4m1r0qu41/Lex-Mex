@@ -17,4 +17,4 @@ source_sha256: 667636f9e0ea65e72ac9d6d7b4d7563a183b75d0f140268a61929c74f5f88041
 
 # Artículo 21
 
-En términos de lo señalado por el artículo [35](../../lbogm/markdown/articulo-35.md) de la Ley, solamente en caso de que sea necesaria la autorización de SALUD y ésta aún no la haya emitido, el plazo para resolver la solicitud de permiso se prorrogará de forma que la Secretaría competente resuelva dentro de los diez días hábiles posteriores a que el interesado haya acreditado en el expediente respectivo la obtención de dicha autorización.
+En términos de lo señalado por el artículo [35](../../lbogm/markdown/articulo-35.md) de la [Ley](articulo-2.md), solamente en caso de que sea necesaria la autorización de [SALUD](articulo-2.md) y ésta aún no la haya emitido, el plazo para resolver la solicitud de permiso se prorrogará de forma que la [Secretaría competente](articulo-2.md) resuelva dentro de los diez días hábiles posteriores a que el interesado haya acreditado en el expediente respectivo la obtención de dicha autorización.

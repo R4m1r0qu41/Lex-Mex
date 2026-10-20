@@ -17,4 +17,4 @@ source_sha256: 45deb87bfd634dfbd1cb7d9fd67a476ad954187908eb0cb06256c90ccc0feb80
 
 # Artículo 48
 
-El Comité de seguimiento de Precios propondrá a la Comisión una estrategia de fomento que dé cumplimiento a los instrumentos internacionales en materia de café de los que el Estado mexicano sea parte, en relación con los márgenes de utilidad para las personas productoras y asociaciones vulnerables a la volatilidad de los mercados de referencia internacional.
+El Comité de seguimiento de Precios propondrá a la [Comisión](articulo-3.md) una estrategia de fomento que dé cumplimiento a los instrumentos internacionales en materia de café de los que el Estado mexicano sea parte, en relación con los márgenes de utilidad para las personas productoras y asociaciones vulnerables a la volatilidad de los mercados de referencia internacional.

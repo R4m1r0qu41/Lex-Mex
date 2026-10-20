@@ -17,4 +17,4 @@ source_sha256: 71ee875c26fc6a1024ea9481ca0690721959514689d860112c3093f0176dfcfb
 
 # Artículo 18
 
-Los centros de atención especializados en violencia familiar, además de operar con los Modelos de Atención, deberán prever mecanismos que permitan su monitoreo y evaluación.
+Los centros de atención especializados en violencia familiar, además de operar con los [Modelos](articulo-2.md) de Atención, deberán prever mecanismos que permitan su monitoreo y evaluación.

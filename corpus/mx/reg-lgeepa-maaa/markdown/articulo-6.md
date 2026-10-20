@@ -17,9 +17,9 @@ source_sha256: d50b44df321cf8be51375c07cee5dbcf03eac76df1cd11ab4bd777c9fce0f789
 
 # Artículo 6
 
-El Programa consiste en una serie ordenada de actividades necesarias para fomentar la realización de Auditorías Ambientales.
+El [Programa](articulo-2.md) consiste en una serie ordenada de actividades necesarias para fomentar la realización de [Auditorías Ambientales](articulo-2.md).
 
-El Programa estará orientado a las Empresas en operación, que por su ubicación, dimensiones, características y alcances puedan causar efectos o impactos negativos al ambiente o rebasar los límites REGLAMENTO DE LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE EN MATERIA DE AUTORREGULACIÓN Y AUDITORÍAS AMBIENTALES establecidos en las disposiciones aplicables en materia de protección, prevención y restauración al ambiente.
+El Programa estará orientado a las [Empresas](articulo-2.md) en operación, que por su ubicación, dimensiones, características y alcances puedan causar efectos o impactos negativos al ambiente o rebasar los límites establecidos en las disposiciones aplicables en materia de protección, prevención y restauración al ambiente.
 
 El Programa estará integrado con:
 
@@ -27,13 +27,13 @@ I. La planeación estratégica que se realice para identificar aquellos sectores
 
 II. Acciones de promoción y fomento para la certificación de las Empresas, así como el establecimiento de centros regionales de apoyo a la pequeña y media empresa a través de los mecanismos de coordinación a que se refiere el artículo [5](articulo-5.md) del presente Reglamento;
 
-III. Instrumentación del proceso para la obtención de un Certificado a través de la Auditoría Ambiental;
+III. Instrumentación del proceso para la obtención de un [Certificado](articulo-2.md) a través de la Auditoría Ambiental;
 
 IV. Mecanismo de evaluación a través de indicadores de desempeño de las Empresas e indicadores de gestión del Programa;
 
-V. El sistema de reconocimientos y estímulos para las Empresas que voluntariamente participen en el Programa y alcancen los diferentes niveles de Desempeño Ambiental establecidos en los Términos de Referencia que para tal efecto se expidan;
+V. El sistema de reconocimientos y estímulos para las Empresas que voluntariamente participen en el Programa y alcancen los diferentes niveles de [Desempeño Ambiental](articulo-2.md) establecidos en los [Términos de Referencia](articulo-2.md) que para tal efecto se expidan;
 
-VI. El proceso de aprobación y evaluación de Auditores Ambientales, determinando los procedimientos y requisitos que deberán cumplir los interesados en incorporarse a dicho proceso, debiendo en su caso observar lo dispuesto en la Ley Federal sobre Metrología y Normalización y lo establecido en los Términos de Referencia que para tal efecto se expidan, y
+VI. El proceso de aprobación y evaluación de [Auditores Ambientales](articulo-2.md), determinando los procedimientos y requisitos que deberán cumplir los interesados en incorporarse a dicho proceso, debiendo en su caso observar lo dispuesto en la [Ley](articulo-2.md) Federal sobre Metrología y Normalización y lo establecido en los Términos de Referencia que para tal efecto se expidan, y
 
 VII. Los instrumentos operativos para su ejecución, como son Términos de Referencia, formatos, Manual de Uso del Certificado y del Sello, programas de capacitación en materia de Auditorías Ambientales.
 

@@ -17,4 +17,4 @@ source_sha256: 1405f36fd836ff74d059ebe7e50ae439cbb9e5e291a317514667f34a26f72a23
 
 # Artículo 21
 
-La revocación de una Asignación para Desarrollo Propio, no exime a la persona Asignataria de la obligación de resarcir aquellos daños o perjuicios que correspondan en términos de las disposiciones jurídicas aplicables.
+La revocación de una [Asignación para Desarrollo Propio](articulo-5.md), no exime a la persona [Asignataria](articulo-5.md) de la obligación de resarcir aquellos daños o perjuicios que correspondan en términos de las disposiciones jurídicas aplicables.

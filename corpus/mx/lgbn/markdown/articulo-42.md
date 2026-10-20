@@ -19,7 +19,7 @@ source_sha256: ea96e97cbea2fd1919af78b94cd3466ee20a77e05989be2d482d2eb8061618c5
 
 Se inscribirán en el Registro Público de la Propiedad Federal:
 
-I.- Los títulos por los cuales se adquiera, transmita, modifique o extinga el dominio, la posesión y los demás derechos reales pertenecientes a la Federación, a las entidades y a las instituciones de carácter federal con personalidad jurídica y patrimonio propios a las que la Constitución Política de los Estados Unidos Mexicanos les otorga autonomía, incluyendo los contratos de arrendamiento financiero, así como los actos por los que se autoricen dichas operaciones;
+I.- Los títulos por los cuales se adquiera, transmita, modifique o extinga el dominio, la posesión y los demás derechos reales pertenecientes a la [Federación](articulo-2.md), a las entidades y a las instituciones de carácter federal con personalidad jurídica y patrimonio propios a las que la Constitución Política de los Estados Unidos Mexicanos les otorga autonomía, incluyendo los contratos de arrendamiento financiero, así como los actos por los que se autoricen dichas operaciones;
 
 II.- Los decretos presidenciales expropiatorios de inmuebles de propiedad privada y de bienes ejidales y comunales;
 
@@ -67,7 +67,7 @@ XXIII.- Las actas de entrega recepción de inmuebles federales;
 
 XXIV.- Las actas de entrega recepción de obras públicas relativas a la construcción y demolición en inmuebles federales;
 
-XXV.- Las actas levantadas por la Secretaría en las que se identifique y describa la situación física que guarden los inmuebles federales, y
+XXV.- Las actas levantadas por la [Secretaría](articulo-2.md) en las que se identifique y describa la situación física que guarden los inmuebles federales, y
 
 XXVI.- Los demás actos jurídicos relativos a los inmuebles federales y a los que sean propiedad de las entidades que, conforme a las disposiciones legales aplicables, deban ser registrados.
 

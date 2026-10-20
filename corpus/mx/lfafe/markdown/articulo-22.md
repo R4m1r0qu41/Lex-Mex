@@ -17,6 +17,6 @@ source_sha256: 96092a4581d4e87910eb58939da4045879e4fe613b12f4413d7392bcc2c6e884
 
 # Artículo 22
 
-Los particulares que tengan colecciones de armas deben solicitar la autorización para la adquisición y posesión de nuevas armas destinadas al enriquecimiento de la colección o del museo, e inscribirlas. El incumplimiento de esta disposición dará lugar a la sanción señalada en esta Ley.
+Los particulares que tengan colecciones de armas deben solicitar la autorización para la adquisición y posesión de nuevas armas destinadas al enriquecimiento de la colección o del museo, e inscribirlas. El incumplimiento de esta disposición dará lugar a la sanción señalada en esta [Ley](articulo-1o-Bis.md).
 
 Artículo reformado DOF 29-05-2025

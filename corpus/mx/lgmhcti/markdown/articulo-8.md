@@ -21,16 +21,16 @@ El Estado debe garantizar la promoción, desarrollo y comunicación de las human
 
 I. El marco constitucional y normativo;
 
-II. La Agenda Nacional y la planeación estratégica y participativa;
+II. La [Agenda Nacional](articulo-4.md) y la planeación estratégica y participativa;
 
 III. Los ejes programáticos y de articulación;
 
 IV. Los instrumentos de financiamiento de conformidad con las disposiciones jurídicas aplicables, incluyendo los recursos que anualmente aprueben la Cámara de Diputados y los congresos locales en los presupuestos de egresos correspondientes, y otros;
 
-V. El Sistema Nacional;
+V. El [Sistema Nacional](articulo-4.md);
 
 VI. Los órganos del Estado mexicano y las autoridades en la materia;
 
 VII. Los mecanismos e instrumentos públicos de fomento y apoyo, y
 
-VIII. El Sistema Nacional de Información.
+VIII. El [Sistema Nacional de Información](articulo-4.md).

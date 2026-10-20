@@ -1,0 +1,28 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-3",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-mpsam",
+  "source_sha256": "d219ab16e40b5941ff5038f8d3c3628706b64202022a98f798343e376f34c9e7",
+  "extracted_text_sha256": "bbe758791b70be3869820d12586fc61a756da53802e5be70e2d8544d6449c987",
+  "status": "detected",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mpsam:article:115-bis-1",
+      "provision_text_sha256": "d737fce3f032a07ca8e311d6316b3886993a3c774d28759805c38cad5674cef0",
+      "method": "established_pass",
+      "fractions": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI"
+      ],
+      "unread_fractions": [],
+      "term_count": 6
+    }
+  ],
+  "imports": [],
+  "term_count": 6,
+  "usage_count": 31
+}

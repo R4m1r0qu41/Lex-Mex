@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf
 source_sha256: 43927095d22ff7bc7780e78132d2160b5050b5f76026b539daec32be09d7341d
 ---
 
+> Título Segundo · Capítulo II
+
 # Artículo 26
 
 Las personas que hayan obtenido concesión o autorización para almacenar mercancías en depósito ante la aduana tendrán las obligaciones que a continuación se mencionan, además de las señaladas en la concesión o autorización respectiva: Párrafo reformado DOF 31-12-1998, 30-12-2002

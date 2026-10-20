@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título XII
+
 # Artículo 346
 
 Los dictámenes de auditoría externa y las opiniones de los licenciados en derecho o expertos externos independientes que se entreguen a las emisoras para los efectos de las solicitudes de inscripción de valores, autorización de oferta pública y cumplimiento de las obligaciones de entrega y difusión de información que a dichas emisoras les impone esta Ley, constituirán información divulgada al público directamente por dichas personas, con independencia de que la propia emisora sea quien realice la referida entrega y difusión al público.

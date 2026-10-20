@@ -17,6 +17,6 @@ source_sha256: cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7
 
 # Artículo 93
 
-El incumplimiento o la contravención a las disposiciones previstas en esta Ley, será sancionado con multa que impondrá administrativamente la Comisión Nacional, tomando como base el salario mínimo general diario vigente en el Distrito Federal, en el momento de cometerse la infracción de que se trate. Párrafo reformado DOF 05-01-2000
+El incumplimiento o la contravención a las disposiciones previstas en esta Ley, será sancionado con multa que impondrá administrativamente la [Comisión Nacional](articulo-2o.md), tomando como base el salario mínimo general diario vigente en el Distrito Federal, en el momento de cometerse la infracción de que se trate. Párrafo reformado DOF 05-01-2000
 
 La imposición de sanciones no relevará al infractor de cumplir con las obligaciones, o regularizar las situaciones que motivaron las multas.

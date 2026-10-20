@@ -17,6 +17,6 @@ source_sha256: 269e72195414406bcbd3e90ac40ec26e031a9ea519316c44ee30bdfdf3163059
 
 # Artículo 8o
 
-Los depositarios, liquidadores, interventores o administradores, que reciban Bienes en depósito, intervención, liquidación o administración, están obligados a rendir al Instituto un informe mensual sobre los mismos y a darle todas las facilidades para su supervisión, vigilancia y evaluación del desempeño.
+Los depositarios, liquidadores, interventores o administradores, que reciban [Bienes](articulo-2o.md) en depósito, intervención, liquidación o administración, están obligados a rendir al [Instituto](articulo-2o.md) un informe mensual sobre los mismos y a darle todas las facilidades para su supervisión, vigilancia y evaluación del desempeño.
 
 Artículo reformado DOF 09-08-2019

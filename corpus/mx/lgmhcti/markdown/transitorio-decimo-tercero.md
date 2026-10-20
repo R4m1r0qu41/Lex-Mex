@@ -15,6 +15,6 @@ source_sha256: 5a0e15e01ac963917e019e3cc4ad07e96d76cc6c82c8b4238dfbb3a58a146847
 
 # Décimo Tercero
 
-A las constancias de inscripción definitiva y cualquier otra que haya emitido el Consejo Nacional de Ciencia y Tecnología en el marco del Registro Nacional de Instituciones y Empresas Científicas y Tecnológicas de conformidad con la Ley de Ciencia y Tecnología, únicamente se les reconocerá su vigencia hasta por un año, contado a partir de la entrada en vigor de esta Ley.
+A las constancias de inscripción definitiva y cualquier otra que haya emitido el [Consejo Nacional](articulo-4.md) de Ciencia y Tecnología en el marco del Registro Nacional de Instituciones y Empresas Científicas y Tecnológicas de conformidad con la [Ley](articulo-4.md) de Ciencia y Tecnología, únicamente se les reconocerá su vigencia hasta por un año, contado a partir de la entrada en vigor de esta Ley.
 
-Al término del plazo señalado en el párrafo anterior, sólo se reconocerá el registro que para el efecto se realice en el Sistema Nacional de Información.
+Al término del plazo señalado en el párrafo anterior, sólo se reconocerá el registro que para el efecto se realice en el [Sistema Nacional de Información](articulo-4.md).

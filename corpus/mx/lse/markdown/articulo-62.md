@@ -17,4 +17,4 @@ source_sha256: aa96853f010885bdf85160e944e5c0ef5c3c8e95422dfede280d228cf064310a
 
 # Artículo 62
 
-Las Centrales Eléctricas y la Demanda Controlable operan de conformidad con las instrucciones del CENACE. Para este efecto, las Suministradoras que representan a Centrales Eléctricas y Demanda Controlable deben notificar las instrucciones que reciban del CENACE, en los términos de las Reglas del Mercado.
+Las [Centrales Eléctricas](articulo-3.md) y la [Demanda Controlable](articulo-3.md) operan de conformidad con las instrucciones del [CENACE](articulo-3.md). Para este efecto, las [Suministradoras](articulo-3.md) que representan a Centrales Eléctricas y Demanda Controlable deben notificar las instrucciones que reciban del CENACE, en los términos de las [Reglas del Mercado](articulo-3.md).

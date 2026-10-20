@@ -17,7 +17,7 @@ source_sha256: 0574853d06020030188e8aee1eae5dabb2b476ac630cc52be631a48d2b91adbc
 
 # Artículo 30
 
-Para obtener la autorización a que se refiere el artículo [28](articulo-28.md) de esta Ley, los interesados deberán presentar a la Secretaría una manifestación de impacto ambiental, la cual deberá contener, por lo menos, una descripción de los posibles efectos en el o los ecosistemas que pudieran ser afectados por la obra o actividad de que se trate, considerando el conjunto de los elementos que conforman dichos ecosistemas, así como las medidas preventivas, de mitigación y las demás necesarias para evitar y reducir al mínimo los efectos negativos sobre el ambiente.
+Para obtener la autorización a que se refiere el artículo [28](articulo-28.md) de esta Ley, los interesados deberán presentar a la [Secretaría](articulo-3o.md) una manifestación de impacto ambiental, la cual deberá contener, por lo menos, una descripción de los posibles efectos en el o los ecosistemas que pudieran ser afectados por la obra o actividad de que se trate, considerando el conjunto de los elementos que conforman dichos ecosistemas, así como las medidas preventivas, de mitigación y las demás necesarias para evitar y reducir al mínimo los efectos negativos sobre el ambiente.
 
 Cuando se trate de actividades consideradas altamente riesgosas en los términos de la presente Ley, la manifestación deberá incluir el estudio de riesgo correspondiente.
 

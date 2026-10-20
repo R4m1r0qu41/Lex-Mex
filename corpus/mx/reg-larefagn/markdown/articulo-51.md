@@ -17,4 +17,4 @@ source_sha256: 01b72308e67d46ba6ca8a6b07fb7584c6a74e905ea0c4b5be5c0c0d32a6d817a
 
 # Artículo 51
 
-Las Direcciones Generales harán las comunicaciones correspondientes al personal que haya acreditado los requisitos establecidos en la Ley con 15 días de anticipación al inicio de su participación en la Promoción.
+Las [Direcciones](articulo-5.md) Generales harán las comunicaciones correspondientes al personal que haya acreditado los requisitos establecidos en la Ley con 15 días de anticipación al inicio de su participación en la [Promoción](articulo-5.md).

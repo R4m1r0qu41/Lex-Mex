@@ -17,4 +17,4 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 204
 
-Para otorgar la prestación de los servicios de guardería, el Instituto establecerá instalaciones especiales, por zonas convenientemente localizadas en relación a los centros de trabajo y de habitación, y en las localidades donde opere el régimen obligatorio.
+Para otorgar la prestación de los servicios de guardería, el [Instituto](articulo-5-A.md) establecerá instalaciones especiales, por zonas convenientemente localizadas en relación a los centros de trabajo y de habitación, y en las localidades donde opere el régimen obligatorio.

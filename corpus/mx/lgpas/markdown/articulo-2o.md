@@ -39,7 +39,7 @@ X. Establecer las bases para el desarrollo e implementación de medidas de sanid
 
 XI. Establecer las bases para la certificación de la sanidad, inocuidad y calidad de los productos pesqueros y acuícolas, desde su obtención o captura y hasta su procesamiento primario, de las actividades relacionadas con éstos y de los establecimientos e instalaciones en los que se produzcan o conserven;
 
-XII. Establecer el Sistema Nacional de Información de Pesca y Acuacultura y el Registro Nacional de Pesca y Acuacultura;
+XII. Establecer el Sistema Nacional de Información de [Pesca](articulo-4o.md) y [Acuacultura](articulo-4o.md) y el [Registro](articulo-4o.md) Nacional de Pesca y Acuacultura;
 
 XIII. Establecer las bases para la realización de acciones de inspección y vigilancia en materia de pesca y acuacultura, así como los mecanismos de coordinación con las autoridades competentes;
 

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título IV · Capítulo II
+
 # Artículo 88
 
 El prospecto de colocación o suplemento informativo elaborados con motivo de una oferta pública, que se utilicen para difundir información respecto de valores o emisoras al público en general, deberán contener leyendas relativas a la veracidad e integridad de la información, ajustándose a las disposiciones de carácter general que expida la [Comisión](articulo-2.md) y ser suscritas por las personas que a continuación se mencionan:

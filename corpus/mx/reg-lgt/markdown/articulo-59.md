@@ -17,4 +17,4 @@ source_sha256: 6680a58c98673518aee46582b3137d28987c275785d1f0c97295f0d89c4b692b
 
 # Artículo 59
 
-La Promoción Turística estará enfocada a incentivar la diversidad de los Destinos, Atractivos y Servicios Turísticos en el territorio nacional y en el extranjero, a través de la planeación, diseño, coordinación y seguimiento de las políticas públicas y estrategias en materia turística.
+La [Promoción Turística](articulo-2.md) estará enfocada a incentivar la diversidad de los Destinos, Atractivos y Servicios Turísticos en el territorio nacional y en el extranjero, a través de la planeación, diseño, coordinación y seguimiento de las políticas públicas y estrategias en materia turística.

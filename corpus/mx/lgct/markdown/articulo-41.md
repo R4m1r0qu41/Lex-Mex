@@ -17,4 +17,4 @@ source_sha256: 9f964bc5c075d7cf47e5e9df7c2fbe262eb5bd1794de9b230dbd72026a51ae5e
 
 # Artículo 41
 
-Las acciones de vigilancia sanitaria que lleven a cabo las autoridades competentes para efecto de verificar el cumplimiento de lo dispuesto en esta Ley, sus reglamentos y demás disposiciones aplicables, se realizarán de conformidad con los procedimientos establecidos en la Ley General de Salud.
+Las acciones de vigilancia sanitaria que lleven a cabo las autoridades competentes para efecto de verificar el cumplimiento de lo dispuesto en esta [Ley](articulo-6.md), sus reglamentos y demás disposiciones aplicables, se realizarán de conformidad con los procedimientos establecidos en la Ley General de Salud.

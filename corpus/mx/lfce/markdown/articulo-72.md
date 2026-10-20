@@ -17,4 +17,4 @@ source_sha256: d0021bbef2e0c3251d6efdea2c1efd9959ff3f02df4bcd1fc37c1ee7826a72ba
 
 # Artículo 72
 
-La Autoridad Investigadora podrá ordenar la acumulación de expedientes que se encuentren relacionados por razón de la materia. De igual forma, podrá ordenar la apertura de nuevas investigaciones por hechos diversos y autónomos a los inicialmente investigados, según resulte más adecuado para la pronta y expedita tramitación de las investigaciones.
+La [Autoridad Investigadora](articulo-3.md) podrá ordenar la acumulación de expedientes que se encuentren relacionados por razón de la materia. De igual forma, podrá ordenar la apertura de nuevas investigaciones por hechos diversos y autónomos a los inicialmente investigados, según resulte más adecuado para la pronta y expedita tramitación de las investigaciones.

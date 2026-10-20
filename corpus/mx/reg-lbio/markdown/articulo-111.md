@@ -17,4 +17,4 @@ source_sha256: 7df3d678efda2306b68d3c0f5ca0e3e92b9066d5f773128f4ae19cb26bf44fff
 
 # Artículo 111
 
-Para la aplicación de las sanciones previstas en la Ley, la SENER y la SADER deben fundar y motivar su resolución en la que consideren los aspectos y criterios previstos en esta.
+Para la aplicación de las sanciones previstas en la [Ley](articulo-3.md), la [SENER](articulo-3.md) y la [SADER](articulo-3.md) deben fundar y motivar su resolución en la que consideren los aspectos y criterios previstos en esta.

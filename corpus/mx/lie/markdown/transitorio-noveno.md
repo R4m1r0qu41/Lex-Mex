@@ -15,4 +15,4 @@ source_sha256: 14cd17e37e96e766c8ab74950c71186d579c0ba6cc10ac9e8b06f6194af7d953
 
 # NOVENO
 
-Se requiere resolución favorable de la Comisión para que la inversión extranjera participe en un porcentaje mayor al 49% del capital social de sociedades que realicen las actividades de edificación, construcción e instalación de obras. A partir del primero de enero de 1999, la inversión extranjera podrá participar hasta el 100% en el capital social de sociedades mexicanas dedicadas a las mismas, sin necesidad de recabar la resolución favorable de la Comisión.
+Se requiere resolución favorable de la [Comisión](articulo-2o.md) para que la inversión extranjera participe en un porcentaje mayor al 49% del capital social de sociedades que realicen las actividades de edificación, construcción e instalación de obras. A partir del primero de enero de 1999, la inversión extranjera podrá participar hasta el 100% en el capital social de sociedades mexicanas dedicadas a las mismas, sin necesidad de recabar la resolución favorable de la Comisión.

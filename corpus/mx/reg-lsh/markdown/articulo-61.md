@@ -17,4 +17,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Artículo 61
 
-Para efectos del artículo [45](../../lsh/markdown/articulo-45.md), fracción I de la Ley, se consideran causas justificadas para no iniciar o suspender las actividades previstas en el plan de Exploración o de desarrollo para la Extracción o programas en el Área Contractual, los casos fortuitos o de fuerza mayor y los demás establecidos en el Contrato para la Exploración y Extracción.
+Para efectos del artículo [45](../../lsh/markdown/articulo-45.md), fracción I de la [Ley](articulo-3.md), se consideran causas justificadas para no iniciar o suspender las actividades previstas en el plan de Exploración o de desarrollo para la Extracción o programas en el Área Contractual, los casos fortuitos o de fuerza mayor y los demás establecidos en el Contrato para la Exploración y Extracción.

@@ -17,7 +17,7 @@ source_sha256: 0574853d06020030188e8aee1eae5dabb2b476ac630cc52be631a48d2b91adbc
 
 # Artículo 192
 
-Una vez admitida la instancia, la Procuraduría Federal de Protección al Ambiente llevará a cabo la identificación del denunciante, y hará del conocimiento la denuncia a la persona o personas, o a las autoridades a quienes se imputen los hechos denunciados o a quienes pueda afectar el resultado de la acción emprendida, a fin de que presenten los documentos y pruebas que a su derecho convenga en un plazo máximo de 15 días hábiles, a partir de la notificación respectiva.
+Una vez admitida la instancia, la Procuraduría Federal de [Protección](articulo-3o.md) al [Ambiente](articulo-3o.md) llevará a cabo la identificación del denunciante, y hará del conocimiento la denuncia a la persona o personas, o a las autoridades a quienes se imputen los hechos denunciados o a quienes pueda afectar el resultado de la acción emprendida, a fin de que presenten los documentos y pruebas que a su derecho convenga en un plazo máximo de 15 días hábiles, a partir de la notificación respectiva.
 
 La Procuraduría Federal de Protección al Ambiente efectuará las diligencias necesarias con el propósito de determinar la existencia de actos, hechos u omisiones constitutivos de la denuncia.
 

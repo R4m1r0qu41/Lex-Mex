@@ -17,4 +17,4 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 # Artículo 134
 
-Disposiciones supletorias La fase escrita de la etapa intermedia del procedimiento especial para personas adolescentes se regirá por las disposiciones establecidas en este Capítulo, y la fase oral por lo dispuesto en este Capítulo y supletoriamente lo dispuesto en el Código Nacional.
+Disposiciones supletorias La fase escrita de la etapa intermedia del procedimiento especial para personas adolescentes se regirá por las disposiciones establecidas en este Capítulo, y la fase oral por lo dispuesto en este Capítulo y supletoriamente lo dispuesto en el [Código Nacional](articulo-3.md).

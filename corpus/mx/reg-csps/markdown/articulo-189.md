@@ -17,4 +17,4 @@ source_sha256: 70464807d63da08244e495f2ff0ac30b12b30119926b84cedc7930397fcb80ef
 
 # Artículo 189
 
-No se podrán utilizar en la elaboración de los productos de este capítulo los estupefacientes y psicotrópicos contenidos en los artículos [234](../../lgs/markdown/articulo-234.md) y [245](../../lgs/markdown/articulo-245.md) de la Ley, fármacos, preparados farmacéuticos y los que se establezcan en las listas correspondientes.
+No se podrán utilizar en la elaboración de los productos de este capítulo los estupefacientes y psicotrópicos contenidos en los artículos [234](../../lgs/markdown/articulo-234.md) y [245](../../lgs/markdown/articulo-245.md) de la [Ley](articulo-2o.md), fármacos, preparados farmacéuticos y los que se establezcan en las listas correspondientes.

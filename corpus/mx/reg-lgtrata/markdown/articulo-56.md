@@ -17,4 +17,4 @@ source_sha256: 1d398a90955ef45ccb7baf4d56534c676cde8325e8b109c4d32120909e783694
 
 # Artículo 56
 
-El Sistema Nacional para el Desarrollo Integral de la Familia promoverá, a través de los Sistemas Estatales para el Desarrollo Integral de la Familia, la Asistencia y Protección a Víctimas de los delitos en materia de trata de personas menores de 18 años, a fin de que sus necesidades especiales sean satisfechas en los [Albergues](articulo-2.md), Casas de Medio Camino y Refugios, cuando se cuente con estos, solicitando el apoyo de las autoridades federales para la prestación de la Atención Médica Integral y psicológica.
+El Sistema Nacional para el Desarrollo Integral de la Familia promoverá, a través de los Sistemas Estatales para el Desarrollo Integral de la Familia, la Asistencia y Protección a Víctimas de los delitos en materia de trata de personas menores de 18 años, a fin de que sus necesidades especiales sean satisfechas en los [Albergues](articulo-2.md), Casas de Medio Camino y Refugios, cuando se cuente con estos, solicitando el apoyo de las autoridades federales para la prestación de la [Atención Médica Integral](articulo-2.md) y psicológica.

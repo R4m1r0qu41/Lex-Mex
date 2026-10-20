@@ -13,15 +13,15 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGEEPA_MAAA_3110
 source_sha256: d50b44df321cf8be51375c07cee5dbcf03eac76df1cd11ab4bd777c9fce0f789
 ---
 
-> Capítulo SEGUNDO · Sección III
+> Capítulo SEGUNDO · Sección IV
 
 # Artículo 39
 
-Son obligaciones de los Auditores Ambientales, además de las establecidas como unidad de verificación en la Ley Federal sobre Metrología y Normalización y su Reglamento, las siguientes:
+Son obligaciones de los [Auditores Ambientales](articulo-2.md), además de las establecidas como unidad de verificación en la [Ley](articulo-2.md) Federal sobre Metrología y Normalización y su Reglamento, las siguientes:
 
-I. Cumplir con lo establecido en el presente Reglamento y los Términos de Referencia a que se refiere el presente Reglamento;
+I. Cumplir con lo establecido en el presente Reglamento y los [Términos de Referencia](articulo-2.md) a que se refiere el presente Reglamento;
 
-II. Cumplir con los requisitos y condiciones establecidos en la convocatoria de acreditación y aprobación que para tal efecto emitan una entidad de acreditación y la Secretaría, por conducto de sus unidades administrativas competentes; Fracción reformada DOF 31-10-2014
+II. Cumplir con los requisitos y condiciones establecidos en la convocatoria de acreditación y aprobación que para tal efecto emitan una entidad de acreditación y la [Secretaría](articulo-2.md), por conducto de sus unidades administrativas competentes; Fracción reformada DOF 31-10-2014
 
 III. Permitir la verificación de sus actividades por parte de las unidades administrativas competentes de la Secretaría, y Fracción reformada DOF 31-10-2014
 

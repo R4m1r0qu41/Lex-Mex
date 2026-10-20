@@ -17,6 +17,6 @@ source_sha256: 8e270686b885035488bfe310b0b42bb40e7154431794227ebe212dd7dc12e46a
 
 # Artículo 304
 
-En los asuntos indicados en el artículo [278](articulo-278.md) de esta Ley, el juez, el visitador, el conciliador o el síndico, deberán cooperar, en el ejercicio de sus funciones y en la medida en que sea posible, con los tribunales y representantes extranjeros.
+En los asuntos indicados en el artículo [278](articulo-278.md) de esta [Ley](articulo-4o.md), el juez, el visitador, el conciliador o el síndico, deberán cooperar, en el ejercicio de sus funciones y en la medida en que sea posible, con los tribunales y representantes extranjeros.
 
 El juez, el visitador, el conciliador o el síndico, estarán facultados, en el ejercicio de sus funciones, para ponerse en comunicación directa sin que sean necesarias cartas rogatorias u otras formalidades con los tribunales o los representantes extranjeros.

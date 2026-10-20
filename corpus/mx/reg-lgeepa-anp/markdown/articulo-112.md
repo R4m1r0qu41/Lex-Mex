@@ -17,7 +17,7 @@ source_sha256: 4e276866fce1638948a6daf1a5c0438fa412554f1a6e0381cbdf7cb300e3db75
 
 # Artículo 112
 
-La Secretaría evaluará el estudio técnico justificativo y en su caso, lo aprobará cuando el instrumento económico cumpla con alguno de los siguientes criterios:
+La [Secretaría](articulo-3o.md) evaluará el estudio técnico justificativo y en su caso, lo aprobará cuando el instrumento económico cumpla con alguno de los siguientes criterios:
 
 I.- Que quien contamine, haga un uso excesivo de los recursos naturales o altere los ecosistemas, asuma los costos inherentes a su conducta;
 

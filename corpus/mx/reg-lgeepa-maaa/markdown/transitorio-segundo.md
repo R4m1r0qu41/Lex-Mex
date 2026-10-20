@@ -15,4 +15,4 @@ source_sha256: d50b44df321cf8be51375c07cee5dbcf03eac76df1cd11ab4bd777c9fce0f789
 
 # SEGUNDO
 
-Se abroga el Reglamento de la Ley General del Equilibrio Ecológico y la Protección al Ambiente en materia de Auditoría Ambiental, publicado el 29 de noviembre del año 2000 en el Diario Oficial de la Federación. REGLAMENTO DE LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE EN MATERIA DE AUTORREGULACIÓN Y AUDITORÍAS AMBIENTALES
+Se abroga el Reglamento de la [Ley](articulo-2.md) General del Equilibrio Ecológico y la Protección al Ambiente en materia de [Auditoría Ambiental](articulo-2.md), publicado el 29 de noviembre del año 2000 en el Diario Oficial de la Federación.

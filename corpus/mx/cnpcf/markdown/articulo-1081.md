@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Único · Capítulo IV
+
 # Artículo 1081
 
 Postura legal es la que cubre las dos terceras partes del valor determinado para los bienes en subasta, con el objeto de que la cantidad de la parte de contado, sea suficiente para pagar el monto del crédito o créditos de lo sentenciado.

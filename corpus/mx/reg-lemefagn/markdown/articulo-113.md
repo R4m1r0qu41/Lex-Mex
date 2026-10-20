@@ -17,4 +17,4 @@ source_sha256: 703f083c0baedfb4ef5ce8b62c78684d8ee0073f393321d476d75ebe4878e1d5
 
 # Artículo 113
 
-La Secretaría, a propuesta de la Dirección y Rectoría, determinará los perfiles de ingreso que deberá reunir el personal de aspirantes nacionales y extranjeros a las Instituciones Educativas y Cursos que impartan las Jefaturas, debiendo estar contenidos en las convocatorias respectivas.
+La Secretaría, a propuesta de la Dirección y Rectoría, determinará los perfiles de ingreso que deberá reunir el personal de aspirantes nacionales y extranjeros a las [Instituciones Educativas](articulo-3.md) y Cursos que impartan las Jefaturas, debiendo estar contenidos en las convocatorias respectivas.

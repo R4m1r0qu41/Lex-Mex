@@ -37,7 +37,7 @@ IX. El aprovechamiento sustentable en los distritos de desarrollo rural;
 
 X. El establecimiento y conservación de las áreas naturales protegidas y corredores biológicos;
 
-X Bis. La elaboración y actualización del Atlas Nacional de [Vulnerabilidad](articulo-3o.md) al Cambio Climático; Fracción adicionada DOF 15-11-2023
+X Bis. La elaboración y actualización del [Atlas Nacional de Vulnerabilidad al Cambio Climático](articulo-3o.md); Fracción adicionada DOF 15-11-2023
 
 XI. La elaboración y actualización de los atlas de riesgo tomando en consideración la información del Atlas Nacional de Vulnerabilidad al Cambio Climático; Fracción reformada DOF 15-11-2023
 

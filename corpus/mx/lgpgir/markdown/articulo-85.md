@@ -17,4 +17,4 @@ source_sha256: b34326588bd6e7519e33411d3658239e3aefb56cef0fae5d775bc894af64a565
 
 # Artículo 85
 
-La importación y exportación de residuos peligrosos se sujetará a las restricciones o condiciones establecidas en esta Ley, su Reglamento, la Ley de Comercio Exterior, la Ley Federal de Competencia Económica, los tratados internacionales de los que México sea parte y los demás ordenamientos legales aplicables.
+La importación y exportación de residuos peligrosos se sujetará a las restricciones o condiciones establecidas en esta [Ley](articulo-5.md), su [Reglamento](articulo-5.md), la Ley de Comercio Exterior, la Ley Federal de Competencia Económica, los tratados internacionales de los que México sea parte y los demás ordenamientos legales aplicables.

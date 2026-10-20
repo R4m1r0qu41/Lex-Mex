@@ -17,7 +17,7 @@ source_sha256: 23dcee090bbe0c4fb06c75d084cb65ce0b2e8f72a8d082e7059504412bde1614
 
 # Artículo 23
 
-Las sesiones del Comité serán privadas, salvo que previamente se acuerde que se realicen públicamente. Para que sus resoluciones sean válidas será necesaria la asistencia del 75% de sus integrantes, entre los que deberá estar su Presidente, propietario o suplente, quien tendrá voto de calidad.
+Las sesiones del [Comité](articulo-2o.md) serán privadas, salvo que previamente se acuerde que se realicen públicamente. Para que sus resoluciones sean válidas será necesaria la asistencia del 75% de sus integrantes, entre los que deberá estar su Presidente, propietario o suplente, quien tendrá voto de calidad.
 
 El Secretario de Actas citará a sesiones del Comité, cuya convocatoria se hará, cuando menos, con cinco días hábiles de anticipación a la fecha de celebración y se acompañará, invariablemente, del orden del día y de la documentación correspondiente.
 

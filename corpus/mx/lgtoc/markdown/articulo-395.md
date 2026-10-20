@@ -31,7 +31,9 @@ V. Sociedades Financieras de Objeto Múltiple que cuenten con un registro vigent
 
 VI. Almacenes generales de depósito; Fracción reformada DOF 20-08-2008, 10-01-2014
 
-VII. Uniones de crédito, y Fracción adicionada DOF 20-08-2008. Reformada DOF 10-01-2014 VIII. Sociedades operadoras de fondos de inversión que cumplan con los requisitos previstos por la Ley de Fondos de Inversión. Fracción adicionada DOF 10-01-2014
+VII. Uniones de crédito, y Fracción adicionada DOF 20-08-2008. Reformada DOF 10-01-2014
+
+VIII. Sociedades operadoras de fondos de inversión que cumplan con los requisitos previstos por la Ley de Fondos de Inversión. Fracción adicionada DOF 10-01-2014
 
 Las instituciones fiduciarias a que se refieren las fracciones II a IV y VI de este artículo, se sujetarán a lo que dispone el artículo [85 Bis](../../lic/markdown/articulo-85-Bis.md) de la Ley de Instituciones de Crédito. Párrafo reformado DOF 18-07-2006
 

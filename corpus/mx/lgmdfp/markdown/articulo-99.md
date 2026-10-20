@@ -17,13 +17,13 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Artículo 99
 
-La Comisión Nacional de Búsqueda o la Comisión Local de Búsqueda correspondiente y las Fiscalías Especializadas, de conformidad con las atribuciones que le confiere esta Ley, deberán realizar las acciones de búsqueda, localización e identificación de Personas Desaparecidas o No Localizadas; así como de investigación y persecución de los delitos materia de esta Ley, conforme a los protocolos correspondientes.
+La [Comisión Nacional de Búsqueda](articulo-4.md) o la [Comisión Local de Búsqueda](articulo-4.md) correspondiente y las [Fiscalías Especializadas](articulo-4.md), de conformidad con las atribuciones que le confiere esta Ley, deberán realizar las acciones de búsqueda, localización e identificación de [Personas Desaparecidas](articulo-4.md) o No Localizadas; así como de investigación y persecución de los delitos materia de esta Ley, conforme a los protocolos correspondientes.
 
-Corresponderá al Sistema la emisión del Protocolo Homologado de Búsqueda y a la Conferencia Nacional de Procuración de Justicia la del Protocolo Homologado de Investigación. La Comisión Nacional de Búsqueda emitirá opinión previa a la emisión de los protocolos.
+Corresponderá al Sistema la emisión del [Protocolo Homologado de Búsqueda](articulo-4.md) y a la Conferencia Nacional de Procuración de Justicia la del [Protocolo Homologado de Investigación](articulo-4.md). La Comisión Nacional de Búsqueda emitirá opinión previa a la emisión de los protocolos.
 
 Los protocolos deberán elaborarse con perspectivas de género, de niñez y de derechos humanos.
 
-En lo que corresponda a cada uno contendrán, al menos, lo siguiente: I. Las formas en las que las autoridades recibirán el Reporte, Denuncia o Noticia de una Persona Desaparecida o No Localizada;
+En lo que corresponda a cada uno contendrán, al menos, lo siguiente: I. Las formas en las que las autoridades recibirán el [Reporte](articulo-4.md), Denuncia o [Noticia](articulo-4.md) de una Persona Desaparecida o No Localizada;
 
 II. Los procesos de búsqueda diferenciados en función de la causa y circunstancias en que hubiere ocurrido la desaparición o no localización, incluidos en los casos de desaparición forzada y desaparición cometida por particulares;
 
@@ -39,11 +39,11 @@ VII. Los procedimientos de búsqueda e investigación específicos para niñas, 
 
 VIII. Los procedimientos de búsqueda e investigación para desapariciones cometidas en contra de personas vinculadas con movimientos políticos;
 
-IX. Los procedimientos de búsqueda y localización de personas migrantes, sin importar su calidad migratoria, que hayan desaparecido durante su estancia en el país, conforme los lineamientos del Mecanismo de Apoyo Exterior;
+IX. Los procedimientos de búsqueda y localización de personas migrantes, sin importar su calidad migratoria, que hayan desaparecido durante su estancia en el país, conforme los lineamientos del [Mecanismo de Apoyo Exterior](articulo-4.md);
 
 X. Los procedimientos de Actuación e Identificación Forense, que contendrá como mínimo los procedimientos para la localización, recuperación e identificación forense, con los criterios de actuación en antropología, odontología forense, autopsia médico legal, entre otros;
 
-XI. El mecanismo de notificación a Familiares y acciones de investigación a realizar cuando se ha localizado con vida a una Persona Desaparecida o No Localizada;
+XI. El mecanismo de notificación a [Familiares](articulo-4.md) y acciones de investigación a realizar cuando se ha localizado con vida a una Persona Desaparecida o No Localizada;
 
 XII. Los procedimientos para notificar y entregar los restos a Familiares de personas localizadas sin vida;
 
@@ -55,7 +55,7 @@ XV. El procedimiento para consultar la información en los registros y bases de 
 
 XVI. Los mecanismos para confrontar información con otros registros o bases de datos locales, nacionales o internacionales;
 
-XVII. El procedimiento para entrevistar a autoridades y personas que puedan tener información que contribuya a la búsqueda; XVIII. El mecanismo para ingresar a personas a los programas de protección, en términos de lo dispuesto en la Ley Federal para la Protección a Personas que Intervienen en el Procedimiento Penal y las disposiciones análogas en las Entidades Federativas;
+XVII. El procedimiento para entrevistar a autoridades y personas que puedan tener información que contribuya a la búsqueda; XVIII. El mecanismo para ingresar a personas a los programas de protección, en términos de lo dispuesto en la Ley Federal para la Protección a Personas que Intervienen en el Procedimiento Penal y las disposiciones análogas en las [Entidades Federativas](articulo-4.md);
 
 XIX. Los mecanismos de difusión para la colaboración ciudadana en la búsqueda a través de medios de comunicación y redes sociales; y para la difusión del perfil de la Persona Desaparecida o No Localizada; en los términos de la legislación aplicable, y en su caso, dentro de las transmisiones correspondientes a los tiempos del Estado;
 

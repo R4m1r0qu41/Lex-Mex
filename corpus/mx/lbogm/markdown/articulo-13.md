@@ -17,7 +17,7 @@ source_sha256: b3c906475b455176de73da17f4f93a73f295965dc9bcca854b48417c7d4d3cfc
 
 # Artículo 13
 
-En los casos establecidos en el [artículo anterior](articulo-12.md), corresponde a la SAGARPA el ejercicio de las siguientes atribuciones:
+En los casos establecidos en el [artículo anterior](articulo-12.md), corresponde a la [SAGARPA](articulo-3.md) el ejercicio de las siguientes atribuciones:
 
 I. Participar en la formulación y aplicar la política general de bioseguridad;
 
@@ -29,7 +29,7 @@ IV. Realizar el monitoreo de los efectos que pudiera causar la liberación de OG
 
 V. Participar en la elaboración y expedición de las listas a que se refiere esta Ley;
 
-VI. Suspender los efectos de los permisos, cuando disponga de información científica y técnica superveniente de la que se deduzca que la actividad permitida supone riesgos superiores a los previstos, que puedan afectar negativamente a la sanidad animal, vegetal o acuícola, a la diversidad biológica o a la salud humana. Estos dos últimos supuestos, a solicitud expresa de la SEMARNAT o de la SSA, según sea su competencia conforme a esta Ley, con apoyo en elementos técnicos y científicos;
+VI. Suspender los efectos de los permisos, cuando disponga de información científica y técnica superveniente de la que se deduzca que la actividad permitida supone riesgos superiores a los previstos, que puedan afectar negativamente a la sanidad animal, vegetal o acuícola, a la diversidad biológica o a la salud humana. Estos dos últimos supuestos, a solicitud expresa de la [SEMARNAT](articulo-3.md) o de la [SSA](articulo-3.md), según sea su competencia conforme a esta Ley, con apoyo en elementos técnicos y científicos;
 
 VII. Ordenar y aplicar las medidas de seguridad o de urgente aplicación pertinentes, con bases técnicas y científicas y en el enfoque de precaución, en los términos de esta Ley;
 

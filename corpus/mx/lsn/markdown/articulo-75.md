@@ -17,6 +17,6 @@ source_sha256: 7b3cf7a0ff59f76503a97a535457c4a7dd3b1305e7a36f4fca82bd661eab1168
 
 # Artículo 75
 
-El Grupo de Alto Nivel de Seguridad es el órgano auxiliar del Consejo para la atención y gestión de los convenios, programas y temas estratégicos de cooperación suscritos por el Estado mexicano en materia de seguridad y que contribuyan a preservar la Seguridad Nacional. Será integrado por los representantes de las dependencias y autoridades que determine el Consejo y presidido por la Secretaría de Relaciones Exteriores. El Consejo emitirá las disposiciones generales que regulen su organización y funcionamiento.
+El Grupo de Alto Nivel de Seguridad es el órgano auxiliar del [Consejo](articulo-6.md) para la atención y gestión de los convenios, programas y temas estratégicos de cooperación suscritos por el Estado mexicano en materia de seguridad y que contribuyan a preservar la Seguridad Nacional. Será integrado por los representantes de las dependencias y autoridades que determine el Consejo y presidido por la Secretaría de Relaciones Exteriores. El Consejo emitirá las disposiciones generales que regulen su organización y funcionamiento.
 
 Artículo adicionado DOF 18-12-2020

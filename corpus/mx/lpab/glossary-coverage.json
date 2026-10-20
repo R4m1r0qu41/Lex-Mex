@@ -1,0 +1,28 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-3",
+  "instrument_id": "urn:lex-mx:federal:statute:lpab",
+  "source_sha256": "40725278819b2229ddb95c8deda858d7fda9c9dd83654729e9242727f1eee4a8",
+  "extracted_text_sha256": "ad5ca942d6d48de815c8371adcda6b0a2788a58758377aa70e2d39e2eb1dbdab",
+  "status": "detected",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lpab:article:5",
+      "provision_text_sha256": "ad36f658f0bbbf869b77f3c624c3659f92aa7ab95a71377e4d52d698387f8536",
+      "method": "established_pass",
+      "fractions": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI"
+      ],
+      "unread_fractions": [],
+      "term_count": 6
+    }
+  ],
+  "imports": [],
+  "term_count": 6,
+  "usage_count": 306
+}

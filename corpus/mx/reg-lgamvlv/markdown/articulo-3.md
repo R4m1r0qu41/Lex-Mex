@@ -17,6 +17,6 @@ source_sha256: 71ee875c26fc6a1024ea9481ca0690721959514689d860112c3093f0176dfcfb
 
 # Artículo 3
 
-Corresponde a la Federación, a través de la Secretaría de Gobernación, formular, conducir y vigilar el cumplimiento de la Política Nacional Integral, para lo cual suscribirá los instrumentos de coordinación con las entidades federativas y los municipios, en el ámbito de sus respectivas competencias.
+Corresponde a la Federación, a través de la Secretaría de Gobernación, formular, conducir y vigilar el cumplimiento de la [Política Nacional Integral](articulo-2.md), para lo cual suscribirá los instrumentos de coordinación con las entidades federativas y los municipios, en el ámbito de sus respectivas competencias.
 
 Artículo reformado DOF 25-11-2013

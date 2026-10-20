@@ -17,4 +17,4 @@ source_sha256: 716e427a30e9982ccaa0576288aad2ad5305c624b236a0f342b6a87d60b7a9ed
 
 # Artículo 127
 
-Para la aplicación de las sanciones previstas en la Ley, la Secretaría, la CNE y la CONUEE, en el ámbito de sus competencias, deben fundar y motivar su resolución considerando: I. La gravedad de la infracción; II. Los daños que se hubieren producido o puedan producirse; III. El carácter intencional o no de la acción u omisión constitutiva de la infracción; IV. La duración en el tiempo de dicha acción u omisión; V. Los antecedentes o reincidencia de la Parte Sujeta de Obligación, y VI. Su capacidad económica.
+Para la aplicación de las sanciones previstas en la [Ley](articulo-5.md), la [Secretaría](articulo-5.md), la CNE y la CONUEE, en el ámbito de sus competencias, deben fundar y motivar su resolución considerando: I. La gravedad de la infracción; II. Los daños que se hubieren producido o puedan producirse; III. El carácter intencional o no de la acción u omisión constitutiva de la infracción; IV. La duración en el tiempo de dicha acción u omisión; V. Los antecedentes o reincidencia de la [Parte Sujeta de Obligación](articulo-5.md), y VI. Su capacidad económica.

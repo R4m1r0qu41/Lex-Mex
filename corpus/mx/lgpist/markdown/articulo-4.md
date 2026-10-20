@@ -17,4 +17,4 @@ source_sha256: 1e7d06c67fac4c8a100d2bb2845cc765fba5e8ce09d27d30b2b44432ffeb8c41
 
 # Artículo 4
 
-En todo lo no previsto en la presente Ley, serán aplicables de manera supletoria el Código Nacional de Procedimientos Penales, el Código Penal Federal, la Ley General de Víctimas y los tratados internacionales de los que el Estado mexicano sea parte.
+En todo lo no previsto en la presente [Ley](articulo-5.md), serán aplicables de manera supletoria el Código Nacional de Procedimientos Penales, el Código Penal Federal, la Ley General de [Víctimas](articulo-5.md) y los tratados internacionales de los que el Estado mexicano sea parte.

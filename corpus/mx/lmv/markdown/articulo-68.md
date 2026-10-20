@@ -13,10 +13,12 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título III · Capítulo III
+
 # Artículo 68
 
-Son aplicables, en lo conducente, a los certificados bursátiles y títulos opcionales, los artículos 81, 109 a 116, 130, 151 a 162, 164, 166 a 169, 174, segundo párrafo, 216, 217, fracciones VIII y X a XII, 218 a 221 y 223 a 227 de la Ley General de Títulos y Operaciones de Crédito.
+Son aplicables, en lo conducente, a los certificados bursátiles y títulos opcionales, los artículos [81](../../lgtoc/markdown/articulo-81.md), [109](../../lgtoc/markdown/articulo-109.md) a [116](../../lgtoc/markdown/articulo-116.md), [130](../../lgtoc/markdown/articulo-130.md), [151](../../lgtoc/markdown/articulo-151.md) a [162](../../lgtoc/markdown/articulo-162.md), [164](../../lgtoc/markdown/articulo-164.md), [166](../../lgtoc/markdown/articulo-166.md) a [169](../../lgtoc/markdown/articulo-169.md), [174](../../lgtoc/markdown/articulo-174.md), segundo párrafo, [216](../../lgtoc/markdown/articulo-216.md), [217](../../lgtoc/markdown/articulo-217.md), fracciones VIII y X a XII, [218](../../lgtoc/markdown/articulo-218.md) a [221](../../lgtoc/markdown/articulo-221.md) y [223](../../lgtoc/markdown/articulo-223.md) a [227](../../lgtoc/markdown/articulo-227.md) de la Ley General de Títulos y Operaciones de Crédito.
 
 La publicación de las convocatorias podrá realizarse en cualquier periódico de amplia circulación nacional.
 
-En la emisión de certificados de participación que se inscriban en el [Registro](articulo-2.md), el dictamen, así como el peritaje o avalúo a que se refiere el artículo 228-H de la Ley General de Títulos y Operaciones de Crédito, podrá ser formulado por instituciones de crédito o instituciones calificadoras de valores.
+En la emisión de certificados de participación que se inscriban en el [Registro](articulo-2.md), el dictamen, así como el peritaje o avalúo a que se refiere el artículo [228-H](../../lgtoc/markdown/articulo-228-h.md) de la Ley General de Títulos y Operaciones de Crédito, podrá ser formulado por instituciones de crédito o instituciones calificadoras de valores.

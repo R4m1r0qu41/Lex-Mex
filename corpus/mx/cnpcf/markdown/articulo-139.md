@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Primero · Capítulo II
+
 # Artículo 139
 
 Si una de las partes comparecientes carece de la persona representante autorizada, la autoridad jurisdiccional por una sola ocasión diferirá la audiencia a fin de garantizar que las partes vengan asistidas. No se requiere el diferimiento de la audiencia, cuando ésta sólo se refiera al desahogo de pruebas documentales, instrumentales o presuncionales.

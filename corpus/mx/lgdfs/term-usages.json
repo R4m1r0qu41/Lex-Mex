@@ -307,6 +307,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdfs:article:14:term-usage:1292-1328",
+    "provision_id": "urn:lex-mx:federal:statute:lgdfs:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lgdfs:term:sistema-nacional-de-gestion-forestal",
+    "span": "Sistema Nacional de Gestión Forestal",
+    "start_char": 1292,
+    "end_char": 1328
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgdfs:article:14:term-usage:2821-2831",
     "provision_id": "urn:lex-mx:federal:statute:lgdfs:article:14",
     "term_id": "urn:lex-mx:federal:statute:lgdfs:term:secretaria",
@@ -631,6 +640,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdfs:article:21:term-usage:1670-1706",
+    "provision_id": "urn:lex-mx:federal:statute:lgdfs:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lgdfs:term:sistema-nacional-de-gestion-forestal",
+    "span": "Sistema Nacional de Gestión Forestal",
+    "start_char": 1670,
+    "end_char": 1706
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgdfs:article:23:term-usage:170-185",
     "provision_id": "urn:lex-mx:federal:statute:lgdfs:article:23",
     "term_id": "urn:lex-mx:federal:statute:lgdfs:term:consejos-estatales",
@@ -874,6 +892,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdfs:article:34:term-usage:213-249",
+    "provision_id": "urn:lex-mx:federal:statute:lgdfs:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lgdfs:term:sistema-nacional-de-gestion-forestal",
+    "span": "Sistema Nacional de Gestión Forestal",
+    "start_char": 213,
+    "end_char": 249
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgdfs:article:34:term-usage:294-334",
     "provision_id": "urn:lex-mx:federal:statute:lgdfs:article:34",
     "term_id": "urn:lex-mx:federal:statute:lgdfs:term:inventario-nacional-forestal-y-de-suelos",
@@ -1081,6 +1108,24 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdfs:article:41:term-usage:273-309",
+    "provision_id": "urn:lex-mx:federal:statute:lgdfs:article:41",
+    "term_id": "urn:lex-mx:federal:statute:lgdfs:term:sistema-nacional-de-gestion-forestal",
+    "span": "Sistema Nacional de Gestión Forestal",
+    "start_char": 273,
+    "end_char": 309
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdfs:article:41-bis:term-usage:3-39",
+    "provision_id": "urn:lex-mx:federal:statute:lgdfs:article:41-bis",
+    "term_id": "urn:lex-mx:federal:statute:lgdfs:term:sistema-nacional-de-gestion-forestal",
+    "span": "Sistema Nacional de Gestión Forestal",
+    "start_char": 3,
+    "end_char": 39
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgdfs:article:41-bis:term-usage:85-95",
     "provision_id": "urn:lex-mx:federal:statute:lgdfs:article:41-bis",
     "term_id": "urn:lex-mx:federal:statute:lgdfs:term:secretaria",
@@ -1099,6 +1144,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdfs:article:41-bis:term-usage:355-391",
+    "provision_id": "urn:lex-mx:federal:statute:lgdfs:article:41-bis",
+    "term_id": "urn:lex-mx:federal:statute:lgdfs:term:sistema-nacional-de-gestion-forestal",
+    "span": "Sistema Nacional de Gestión Forestal",
+    "start_char": 355,
+    "end_char": 391
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgdfs:article:41-bis:term-usage:454-464",
     "provision_id": "urn:lex-mx:federal:statute:lgdfs:article:41-bis",
     "term_id": "urn:lex-mx:federal:statute:lgdfs:term:secretaria",
@@ -1114,6 +1168,15 @@
     "span": "Secretaría",
     "start_char": 3,
     "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdfs:article:41-bis-1:term-usage:45-81",
+    "provision_id": "urn:lex-mx:federal:statute:lgdfs:article:41-bis-1",
+    "term_id": "urn:lex-mx:federal:statute:lgdfs:term:sistema-nacional-de-gestion-forestal",
+    "span": "Sistema Nacional de Gestión Forestal",
+    "start_char": 45,
+    "end_char": 81
   },
   {
     "schema_version": "0.1.0",
@@ -2986,6 +3049,15 @@
     "span": "Comisión",
     "start_char": 167,
     "end_char": 175
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdfs:article:125:term-usage:226-254",
+    "provision_id": "urn:lex-mx:federal:statute:lgdfs:article:125",
+    "term_id": "urn:lex-mx:federal:statute:lgdfs:term:areas-de-proteccion-forestal",
+    "span": "Áreas de Protección Forestal",
+    "start_char": 226,
+    "end_char": 254
   },
   {
     "schema_version": "0.1.0",

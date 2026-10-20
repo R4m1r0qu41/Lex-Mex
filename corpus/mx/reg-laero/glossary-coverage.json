@@ -1,0 +1,26 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-3",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-laero",
+  "source_sha256": "ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776",
+  "extracted_text_sha256": "b4d067d1dd97b2df3073d7b9696700af1718d01a387b831f5061125f7ac40125",
+  "status": "detected",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:2",
+      "provision_text_sha256": "53001ff599e68a374e4e0242716d0db53ba6260a597c9ae7ddb6c2b570aeb16f",
+      "method": "wider_pass",
+      "fractions": [
+        "I",
+        "II",
+        "III",
+        "IV"
+      ],
+      "repeal_placeholders": [],
+      "term_count": 4
+    }
+  ],
+  "imports": [],
+  "term_count": 4,
+  "usage_count": 272
+}

@@ -17,6 +17,6 @@ source_sha256: 703f083c0baedfb4ef5ce8b62c78684d8ee0073f393321d476d75ebe4878e1d5
 
 # Artículo 124
 
-Aceptados los documentos se realizarán los trámites administrativos necesarios que posibiliten a la persona aspirante a concursar para la Institución Educativa que haya solicitado.
+Aceptados los documentos se realizarán los trámites administrativos necesarios que posibiliten a la persona aspirante a concursar para la [Institución Educativa](articulo-3.md) que haya solicitado.
 
 Artículo reformado DOF 20-03-2026

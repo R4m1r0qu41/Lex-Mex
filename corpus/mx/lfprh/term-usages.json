@@ -28,6 +28,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:2:term-usage:2326-2341",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:ley-de-ingresos",
+    "span": "Ley de Ingresos",
+    "start_char": 2326,
+    "end_char": 2341
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfprh:article:2:term-usage:2347-2369",
     "provision_id": "urn:lex-mx:federal:statute:lfprh:article:2",
     "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
@@ -82,6 +91,24 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:2:term-usage:5196-5211",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:ley-de-ingresos",
+    "span": "Ley de Ingresos",
+    "start_char": 5196,
+    "end_char": 5211
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:2:term-usage:5363-5378",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:ley-de-ingresos",
+    "span": "Ley de Ingresos",
+    "start_char": 5363,
+    "end_char": 5378
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfprh:article:2:term-usage:6725-6735",
     "provision_id": "urn:lex-mx:federal:statute:lfprh:article:2",
     "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
@@ -100,12 +127,30 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:2:term-usage:7668-7683",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:ley-de-ingresos",
+    "span": "Ley de Ingresos",
+    "start_char": 7668,
+    "end_char": 7683
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfprh:article:2:term-usage:7892-7914",
     "provision_id": "urn:lex-mx:federal:statute:lfprh:article:2",
     "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
     "span": "Presupuesto de Egresos",
     "start_char": 7892,
     "end_char": 7914
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:2:term-usage:7956-7971",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:ley-de-ingresos",
+    "span": "Ley de Ingresos",
+    "start_char": 7956,
+    "end_char": 7971
   },
   {
     "schema_version": "0.1.0",
@@ -118,12 +163,48 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:2:term-usage:8872-8887",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:ley-de-ingresos",
+    "span": "Ley de Ingresos",
+    "start_char": 8872,
+    "end_char": 8887
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:2:term-usage:9091-9118",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:fondo-mexicano-del-petroleo",
+    "span": "Fondo Mexicano del Petróleo",
+    "start_char": 9091,
+    "end_char": 9118
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:2:term-usage:9141-9156",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:ley-de-ingresos",
+    "span": "Ley de Ingresos",
+    "start_char": 9141,
+    "end_char": 9156
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfprh:article:2:term-usage:9162-9184",
     "provision_id": "urn:lex-mx:federal:statute:lfprh:article:2",
     "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
     "span": "Presupuesto de Egresos",
     "start_char": 9162,
     "end_char": 9184
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:2:term-usage:9283-9310",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:fondo-mexicano-del-petroleo",
+    "span": "Fondo Mexicano del Petróleo",
+    "start_char": 9283,
+    "end_char": 9310
   },
   {
     "schema_version": "0.1.0",
@@ -142,6 +223,15 @@
     "span": "Cuenta Pública",
     "start_char": 10215,
     "end_char": 10229
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:2:term-usage:10307-10322",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:ley-de-ingresos",
+    "span": "Ley de Ingresos",
+    "start_char": 10307,
+    "end_char": 10322
   },
   {
     "schema_version": "0.1.0",
@@ -235,6 +325,24 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:2:term-usage:15195-15222",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:fondo-mexicano-del-petroleo",
+    "span": "Fondo Mexicano del Petróleo",
+    "start_char": 15195,
+    "end_char": 15222
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:2:term-usage:15443-15458",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:ley-de-ingresos",
+    "span": "Ley de Ingresos",
+    "start_char": 15443,
+    "end_char": 15458
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfprh:article:2:term-usage:15463-15485",
     "provision_id": "urn:lex-mx:federal:statute:lfprh:article:2",
     "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
@@ -250,6 +358,33 @@
     "span": "Presupuesto de Egresos",
     "start_char": 16682,
     "end_char": 16704
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:2:term-usage:17600-17627",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:fondo-mexicano-del-petroleo",
+    "span": "Fondo Mexicano del Petróleo",
+    "start_char": 17600,
+    "end_char": 17627
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:2:term-usage:17684-17711",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:fondo-mexicano-del-petroleo",
+    "span": "Fondo Mexicano del Petróleo",
+    "start_char": 17684,
+    "end_char": 17711
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:2:term-usage:17759-17786",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:fondo-mexicano-del-petroleo",
+    "span": "Fondo Mexicano del Petróleo",
+    "start_char": 17759,
+    "end_char": 17786
   },
   {
     "schema_version": "0.1.0",
@@ -271,12 +406,30 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:3:term-usage:163-178",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:funcion-publica",
+    "span": "Función Pública",
+    "start_char": 163,
+    "end_char": 178
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfprh:article:3:term-usage:445-455",
     "provision_id": "urn:lex-mx:federal:statute:lfprh:article:3",
     "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
     "span": "Secretaría",
     "start_char": 445,
     "end_char": 455
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:3:term-usage:461-476",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:funcion-publica",
+    "span": "Función Pública",
+    "start_char": 461,
+    "end_char": 476
   },
   {
     "schema_version": "0.1.0",
@@ -313,6 +466,15 @@
     "span": "Secretaría",
     "start_char": 686,
     "end_char": 696
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:5:term-usage:702-717",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:funcion-publica",
+    "span": "Función Pública",
+    "start_char": 702,
+    "end_char": 717
   },
   {
     "schema_version": "0.1.0",
@@ -370,6 +532,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:5:term-usage:2041-2056",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:funcion-publica",
+    "span": "Función Pública",
+    "start_char": 2041,
+    "end_char": 2056
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfprh:article:5:term-usage:2322-2332",
     "provision_id": "urn:lex-mx:federal:statute:lfprh:article:5",
     "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
@@ -421,6 +592,15 @@
     "span": "Secretaría",
     "start_char": 41,
     "end_char": 51
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:6:term-usage:228-243",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:funcion-publica",
+    "span": "Función Pública",
+    "start_char": 228,
+    "end_char": 243
   },
   {
     "schema_version": "0.1.0",
@@ -604,6 +784,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:10:term-usage:1296-1311",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:funcion-publica",
+    "span": "Función Pública",
+    "start_char": 1296,
+    "end_char": 1311
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfprh:article:11:term-usage:121-131",
     "provision_id": "urn:lex-mx:federal:statute:lfprh:article:11",
     "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
@@ -766,12 +955,30 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:16:term-usage:3-18",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:ley-de-ingresos",
+    "span": "Ley de Ingresos",
+    "start_char": 3,
+    "end_char": 18
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfprh:article:16:term-usage:24-46",
     "provision_id": "urn:lex-mx:federal:statute:lfprh:article:16",
     "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
     "span": "Presupuesto de Egresos",
     "start_char": 24,
     "end_char": 46
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:17:term-usage:57-72",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:ley-de-ingresos",
+    "span": "Ley de Ingresos",
+    "start_char": 57,
+    "end_char": 72
   },
   {
     "schema_version": "0.1.0",
@@ -802,6 +1009,24 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:17:term-usage:1090-1105",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:ley-de-ingresos",
+    "span": "Ley de Ingresos",
+    "start_char": 1090,
+    "end_char": 1105
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:17:term-usage:1219-1234",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:ley-de-ingresos",
+    "span": "Ley de Ingresos",
+    "start_char": 1219,
+    "end_char": 1234
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfprh:article:17:term-usage:1240-1262",
     "provision_id": "urn:lex-mx:federal:statute:lfprh:article:17",
     "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
@@ -829,6 +1054,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:17:term-usage:2221-2236",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:ley-de-ingresos",
+    "span": "Ley de Ingresos",
+    "start_char": 2221,
+    "end_char": 2236
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfprh:article:17:term-usage:3107-3129",
     "provision_id": "urn:lex-mx:federal:statute:lfprh:article:17",
     "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
@@ -853,6 +1087,15 @@
     "span": "Secretaría",
     "start_char": 3910,
     "end_char": 3920
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:17:term-usage:4017-4032",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:ley-de-ingresos",
+    "span": "Ley de Ingresos",
+    "start_char": 4017,
+    "end_char": 4032
   },
   {
     "schema_version": "0.1.0",
@@ -907,6 +1150,33 @@
     "span": "Presupuesto de Egresos",
     "start_char": 115,
     "end_char": 137
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:19:term-usage:226-241",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:ley-de-ingresos",
+    "span": "Ley de Ingresos",
+    "start_char": 226,
+    "end_char": 241
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:19:term-usage:371-386",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:ley-de-ingresos",
+    "span": "Ley de Ingresos",
+    "start_char": 371,
+    "end_char": 386
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:19:term-usage:823-838",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:ley-de-ingresos",
+    "span": "Ley de Ingresos",
+    "start_char": 823,
+    "end_char": 838
   },
   {
     "schema_version": "0.1.0",
@@ -982,6 +1252,24 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:19:term-usage:4146-4161",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:ley-de-ingresos",
+    "span": "Ley de Ingresos",
+    "start_char": 4146,
+    "end_char": 4161
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:19:term-usage:4243-4270",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:fondo-mexicano-del-petroleo",
+    "span": "Fondo Mexicano del Petróleo",
+    "start_char": 4243,
+    "end_char": 4270
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfprh:article:19:term-usage:4542-4551",
     "provision_id": "urn:lex-mx:federal:statute:lfprh:article:19",
     "term_id": "urn:lex-mx:federal:statute:lfprh:term:entidades",
@@ -997,6 +1285,15 @@
     "span": "Entidades",
     "start_char": 5987,
     "end_char": 5996
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:19:term-usage:6473-6490",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:reserva-del-fondo",
+    "span": "Reserva del Fondo",
+    "start_char": 6473,
+    "end_char": 6490
   },
   {
     "schema_version": "0.1.0",
@@ -1072,6 +1369,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:20:term-usage:314-329",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:ley-de-ingresos",
+    "span": "Ley de Ingresos",
+    "start_char": 314,
+    "end_char": 329
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfprh:article:20:term-usage:352-362",
     "provision_id": "urn:lex-mx:federal:statute:lfprh:article:20",
     "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
@@ -1090,12 +1396,30 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:21:term-usage:83-98",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:ley-de-ingresos",
+    "span": "Ley de Ingresos",
+    "start_char": 83,
+    "end_char": 98
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfprh:article:21:term-usage:141-151",
     "provision_id": "urn:lex-mx:federal:statute:lfprh:article:21",
     "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
     "span": "Secretaría",
     "start_char": 141,
     "end_char": 151
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:21:term-usage:290-305",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:ley-de-ingresos",
+    "span": "Ley de Ingresos",
+    "start_char": 290,
+    "end_char": 305
   },
   {
     "schema_version": "0.1.0",
@@ -1108,6 +1432,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:21:term-usage:1161-1176",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:ley-de-ingresos",
+    "span": "Ley de Ingresos",
+    "start_char": 1161,
+    "end_char": 1176
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfprh:article:21:term-usage:1330-1340",
     "provision_id": "urn:lex-mx:federal:statute:lfprh:article:21",
     "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
@@ -1117,12 +1450,66 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:21:term-usage:1578-1595",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:reserva-del-fondo",
+    "span": "Reserva del Fondo",
+    "start_char": 1578,
+    "end_char": 1595
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:21:term-usage:1972-1989",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:reserva-del-fondo",
+    "span": "Reserva del Fondo",
+    "start_char": 1972,
+    "end_char": 1989
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:21:term-usage:2227-2242",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:ley-de-ingresos",
+    "span": "Ley de Ingresos",
+    "start_char": 2227,
+    "end_char": 2242
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfprh:article:21:term-usage:2331-2340",
     "provision_id": "urn:lex-mx:federal:statute:lfprh:article:21",
     "term_id": "urn:lex-mx:federal:statute:lfprh:term:entidades",
     "span": "Entidades",
     "start_char": 2331,
     "end_char": 2340
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:21:term-usage:3559-3601",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:proyectos-para-el-desarrollo-con-bienestar",
+    "span": "Proyectos para el desarrollo con bienestar",
+    "start_char": 3559,
+    "end_char": 3601
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:21:term-usage:3803-3818",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:ley-de-ingresos",
+    "span": "Ley de Ingresos",
+    "start_char": 3803,
+    "end_char": 3818
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:21:term-usage:4291-4306",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:ley-de-ingresos",
+    "span": "Ley de Ingresos",
+    "start_char": 4291,
+    "end_char": 4306
   },
   {
     "schema_version": "0.1.0",
@@ -1159,6 +1546,15 @@
     "span": "Entidades",
     "start_char": 343,
     "end_char": 352
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:21-bis:term-usage:715-730",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:21-bis",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:ley-de-ingresos",
+    "span": "Ley de Ingresos",
+    "start_char": 715,
+    "end_char": 730
   },
   {
     "schema_version": "0.1.0",
@@ -1261,6 +1657,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:22:term-usage:190-205",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:funcion-publica",
+    "span": "Función Pública",
+    "start_char": 190,
+    "end_char": 205
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfprh:article:23:term-usage:306-316",
     "provision_id": "urn:lex-mx:federal:statute:lfprh:article:23",
     "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
@@ -1330,6 +1735,24 @@
     "span": "Secretaría",
     "start_char": 1562,
     "end_char": 1572
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:23:term-usage:1651-1671",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:anexos-transversales",
+    "span": "Anexos Transversales",
+    "start_char": 1651,
+    "end_char": 1671
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:23:term-usage:2138-2153",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:ley-de-ingresos",
+    "span": "Ley de Ingresos",
+    "start_char": 2138,
+    "end_char": 2153
   },
   {
     "schema_version": "0.1.0",
@@ -1555,6 +1978,15 @@
     "span": "Secretaría",
     "start_char": 1822,
     "end_char": 1832
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:31:term-usage:1861-1876",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:ley-de-ingresos",
+    "span": "Ley de Ingresos",
+    "start_char": 1861,
+    "end_char": 1876
   },
   {
     "schema_version": "0.1.0",
@@ -1900,6 +2332,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:39:term-usage:3-18",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:ley-de-ingresos",
+    "span": "Ley de Ingresos",
+    "start_char": 3,
+    "end_char": 18
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfprh:article:39:term-usage:24-46",
     "provision_id": "urn:lex-mx:federal:statute:lfprh:article:39",
     "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
@@ -1936,12 +2377,48 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:40:term-usage:15-30",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:40",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:ley-de-ingresos",
+    "span": "Ley de Ingresos",
+    "start_char": 15,
+    "end_char": 30
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:40:term-usage:1081-1096",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:40",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:ley-de-ingresos",
+    "span": "Ley de Ingresos",
+    "start_char": 1081,
+    "end_char": 1096
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:40:term-usage:2821-2836",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:40",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:ley-de-ingresos",
+    "span": "Ley de Ingresos",
+    "start_char": 2821,
+    "end_char": 2836
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfprh:article:41:term-usage:15-37",
     "provision_id": "urn:lex-mx:federal:statute:lfprh:article:41",
     "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
     "span": "Presupuesto de Egresos",
     "start_char": 15,
     "end_char": 37
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:41:term-usage:4965-4985",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:41",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:anexos-transversales",
+    "span": "Anexos Transversales",
+    "start_char": 4965,
+    "end_char": 4985
   },
   {
     "schema_version": "0.1.0",
@@ -1954,12 +2431,30 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:41:term-usage:6059-6074",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:41",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:ley-de-ingresos",
+    "span": "Ley de Ingresos",
+    "start_char": 6059,
+    "end_char": 6074
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfprh:article:41:term-usage:6326-6361",
     "provision_id": "urn:lex-mx:federal:statute:lfprh:article:41",
     "term_id": "urn:lex-mx:federal:statute:lfprh:term:sistema-de-evaluacion-del-desempeno",
     "span": "Sistema de Evaluación del Desempeño",
     "start_char": 6326,
     "end_char": 6361
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:42:term-usage:20-35",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:42",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:ley-de-ingresos",
+    "span": "Ley de Ingresos",
+    "start_char": 20,
+    "end_char": 35
   },
   {
     "schema_version": "0.1.0",
@@ -1978,6 +2473,15 @@
     "span": "Secretaría",
     "start_char": 150,
     "end_char": 160
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:42:term-usage:317-332",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:42",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:ley-de-ingresos",
+    "span": "Ley de Ingresos",
+    "start_char": 317,
+    "end_char": 332
   },
   {
     "schema_version": "0.1.0",
@@ -2035,6 +2539,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:42:term-usage:1839-1854",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:42",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:ley-de-ingresos",
+    "span": "Ley de Ingresos",
+    "start_char": 1839,
+    "end_char": 1854
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfprh:article:42:term-usage:1999-2021",
     "provision_id": "urn:lex-mx:federal:statute:lfprh:article:42",
     "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
@@ -2044,12 +2557,30 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:42:term-usage:2031-2046",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:42",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:ley-de-ingresos",
+    "span": "Ley de Ingresos",
+    "start_char": 2031,
+    "end_char": 2046
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfprh:article:42:term-usage:2187-2209",
     "provision_id": "urn:lex-mx:federal:statute:lfprh:article:42",
     "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
     "span": "Presupuesto de Egresos",
     "start_char": 2187,
     "end_char": 2209
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:42:term-usage:2298-2313",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:42",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:ley-de-ingresos",
+    "span": "Ley de Ingresos",
+    "start_char": 2298,
+    "end_char": 2313
   },
   {
     "schema_version": "0.1.0",
@@ -2086,6 +2617,15 @@
     "span": "Presupuesto de Egresos",
     "start_char": 2911,
     "end_char": 2933
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:42:term-usage:3201-3216",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:42",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:ley-de-ingresos",
+    "span": "Ley de Ingresos",
+    "start_char": 3201,
+    "end_char": 3216
   },
   {
     "schema_version": "0.1.0",
@@ -2134,12 +2674,30 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:42:term-usage:5195-5210",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:42",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:ley-de-ingresos",
+    "span": "Ley de Ingresos",
+    "start_char": 5195,
+    "end_char": 5210
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfprh:article:42:term-usage:5220-5242",
     "provision_id": "urn:lex-mx:federal:statute:lfprh:article:42",
     "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
     "span": "Presupuesto de Egresos",
     "start_char": 5220,
     "end_char": 5242
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:43:term-usage:105-120",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:43",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:ley-de-ingresos",
+    "span": "Ley de Ingresos",
+    "start_char": 105,
+    "end_char": 120
   },
   {
     "schema_version": "0.1.0",
@@ -2170,12 +2728,30 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:43:term-usage:961-976",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:43",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:ley-de-ingresos",
+    "span": "Ley de Ingresos",
+    "start_char": 961,
+    "end_char": 976
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfprh:article:43:term-usage:982-1004",
     "provision_id": "urn:lex-mx:federal:statute:lfprh:article:43",
     "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
     "span": "Presupuesto de Egresos",
     "start_char": 982,
     "end_char": 1004
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:43:term-usage:1221-1236",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:43",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:ley-de-ingresos",
+    "span": "Ley de Ingresos",
+    "start_char": 1221,
+    "end_char": 1236
   },
   {
     "schema_version": "0.1.0",
@@ -2248,6 +2824,15 @@
     "span": "Secretaría",
     "start_char": 351,
     "end_char": 361
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:45:term-usage:367-382",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:45",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:funcion-publica",
+    "span": "Función Pública",
+    "start_char": 367,
+    "end_char": 382
   },
   {
     "schema_version": "0.1.0",
@@ -2584,6 +3169,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:54:term-usage:1377-1392",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:54",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:ley-de-ingresos",
+    "span": "Ley de Ingresos",
+    "start_char": 1377,
+    "end_char": 1392
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfprh:article:56:term-usage:133-155",
     "provision_id": "urn:lex-mx:federal:statute:lfprh:article:56",
     "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
@@ -2791,12 +3385,30 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:65:term-usage:3676-3691",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:65",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:funcion-publica",
+    "span": "Función Pública",
+    "start_char": 3676,
+    "end_char": 3691
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfprh:article:66:term-usage:3-13",
     "provision_id": "urn:lex-mx:federal:statute:lfprh:article:66",
     "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
     "span": "Secretaría",
     "start_char": 3,
     "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:66:term-usage:19-34",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:66",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:funcion-publica",
+    "span": "Función Pública",
+    "start_char": 19,
+    "end_char": 34
   },
   {
     "schema_version": "0.1.0",
@@ -2815,6 +3427,15 @@
     "span": "Presupuesto de Egresos",
     "start_char": 464,
     "end_char": 486
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:67:term-usage:800-815",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:67",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:funcion-publica",
+    "span": "Función Pública",
+    "start_char": 800,
+    "end_char": 815
   },
   {
     "schema_version": "0.1.0",
@@ -2845,6 +3466,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:69:term-usage:1459-1474",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:69",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:funcion-publica",
+    "span": "Función Pública",
+    "start_char": 1459,
+    "end_char": 1474
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfprh:article:69:term-usage:1699-1713",
     "provision_id": "urn:lex-mx:federal:statute:lfprh:article:69",
     "term_id": "urn:lex-mx:federal:statute:lfprh:term:cuenta-publica",
@@ -2863,6 +3493,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:70:term-usage:161-176",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:70",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:funcion-publica",
+    "span": "Función Pública",
+    "start_char": 161,
+    "end_char": 176
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfprh:article:70:term-usage:415-426",
     "provision_id": "urn:lex-mx:federal:statute:lfprh:article:70",
     "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
@@ -2878,6 +3517,24 @@
     "span": "Secretaría",
     "start_char": 619,
     "end_char": 629
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:70:term-usage:635-650",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:70",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:funcion-publica",
+    "span": "Función Pública",
+    "start_char": 635,
+    "end_char": 650
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:71:term-usage:73-88",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:71",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:funcion-publica",
+    "span": "Función Pública",
+    "start_char": 73,
+    "end_char": 88
   },
   {
     "schema_version": "0.1.0",
@@ -2998,6 +3655,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:77:term-usage:1686-1701",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:77",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:funcion-publica",
+    "span": "Función Pública",
+    "start_char": 1686,
+    "end_char": 1701
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfprh:article:77:term-usage:1706-1716",
     "provision_id": "urn:lex-mx:federal:statute:lfprh:article:77",
     "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
@@ -3115,6 +3781,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:83:term-usage:536-551",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:83",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:funcion-publica",
+    "span": "Función Pública",
+    "start_char": 536,
+    "end_char": 551
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfprh:article:83:term-usage:689-698",
     "provision_id": "urn:lex-mx:federal:statute:lfprh:article:83",
     "term_id": "urn:lex-mx:federal:statute:lfprh:term:auditoria",
@@ -3130,6 +3805,15 @@
     "span": "Secretaría",
     "start_char": 999,
     "end_char": 1009
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:83:term-usage:1015-1030",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:83",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:funcion-publica",
+    "span": "Función Pública",
+    "start_char": 1015,
+    "end_char": 1030
   },
   {
     "schema_version": "0.1.0",
@@ -3205,6 +3889,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:87:term-usage:23-50",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:87",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:fondo-mexicano-del-petroleo",
+    "span": "Fondo Mexicano del Petróleo",
+    "start_char": 23,
+    "end_char": 50
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfprh:article:87:term-usage:178-187",
     "provision_id": "urn:lex-mx:federal:statute:lfprh:article:87",
     "term_id": "urn:lex-mx:federal:statute:lfprh:term:entidades",
@@ -3214,12 +3907,48 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:87:term-usage:421-436",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:87",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:ley-de-ingresos",
+    "span": "Ley de Ingresos",
+    "start_char": 421,
+    "end_char": 436
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfprh:article:87:term-usage:554-563",
     "provision_id": "urn:lex-mx:federal:statute:lfprh:article:87",
     "term_id": "urn:lex-mx:federal:statute:lfprh:term:entidades",
     "span": "Entidades",
     "start_char": 554,
     "end_char": 563
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:87:term-usage:668-683",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:87",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:ley-de-ingresos",
+    "span": "Ley de Ingresos",
+    "start_char": 668,
+    "end_char": 683
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:88:term-usage:23-50",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:88",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:fondo-mexicano-del-petroleo",
+    "span": "Fondo Mexicano del Petróleo",
+    "start_char": 23,
+    "end_char": 50
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:88:term-usage:250-265",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:88",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:ley-de-ingresos",
+    "span": "Ley de Ingresos",
+    "start_char": 250,
+    "end_char": 265
   },
   {
     "schema_version": "0.1.0",
@@ -3250,12 +3979,111 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:90:term-usage:21-48",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:90",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:fondo-mexicano-del-petroleo",
+    "span": "Fondo Mexicano del Petróleo",
+    "start_char": 21,
+    "end_char": 48
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfprh:article:90:term-usage:142-151",
     "provision_id": "urn:lex-mx:federal:statute:lfprh:article:90",
     "term_id": "urn:lex-mx:federal:statute:lfprh:term:auditoria",
     "span": "Auditoría",
     "start_char": 142,
     "end_char": 151
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:90:term-usage:265-280",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:90",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:ley-de-ingresos",
+    "span": "Ley de Ingresos",
+    "start_char": 265,
+    "end_char": 280
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:91:term-usage:21-48",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:91",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:fondo-mexicano-del-petroleo",
+    "span": "Fondo Mexicano del Petróleo",
+    "start_char": 21,
+    "end_char": 48
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:91:term-usage:185-200",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:91",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:ley-de-ingresos",
+    "span": "Ley de Ingresos",
+    "start_char": 185,
+    "end_char": 200
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:92:term-usage:21-48",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:92",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:fondo-mexicano-del-petroleo",
+    "span": "Fondo Mexicano del Petróleo",
+    "start_char": 21,
+    "end_char": 48
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:92:term-usage:283-298",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:92",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:ley-de-ingresos",
+    "span": "Ley de Ingresos",
+    "start_char": 283,
+    "end_char": 298
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:93:term-usage:21-48",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:93",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:fondo-mexicano-del-petroleo",
+    "span": "Fondo Mexicano del Petróleo",
+    "start_char": 21,
+    "end_char": 48
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:93:term-usage:120-147",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:93",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:fondo-mexicano-del-petroleo",
+    "span": "Fondo Mexicano del Petróleo",
+    "start_char": 120,
+    "end_char": 147
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:93:term-usage:416-431",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:93",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:ley-de-ingresos",
+    "span": "Ley de Ingresos",
+    "start_char": 416,
+    "end_char": 431
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:93:term-usage:742-769",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:93",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:fondo-mexicano-del-petroleo",
+    "span": "Fondo Mexicano del Petróleo",
+    "start_char": 742,
+    "end_char": 769
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:93:term-usage:898-925",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:93",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:fondo-mexicano-del-petroleo",
+    "span": "Fondo Mexicano del Petróleo",
+    "start_char": 898,
+    "end_char": 925
   },
   {
     "schema_version": "0.1.0",
@@ -3268,12 +4096,120 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:93:term-usage:1108-1135",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:93",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:fondo-mexicano-del-petroleo",
+    "span": "Fondo Mexicano del Petróleo",
+    "start_char": 1108,
+    "end_char": 1135
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:93:term-usage:1241-1256",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:93",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:ley-de-ingresos",
+    "span": "Ley de Ingresos",
+    "start_char": 1241,
+    "end_char": 1256
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:93:term-usage:1373-1400",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:93",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:fondo-mexicano-del-petroleo",
+    "span": "Fondo Mexicano del Petróleo",
+    "start_char": 1373,
+    "end_char": 1400
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:93:term-usage:1440-1455",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:93",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:ley-de-ingresos",
+    "span": "Ley de Ingresos",
+    "start_char": 1440,
+    "end_char": 1455
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:93:term-usage:1803-1830",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:93",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:fondo-mexicano-del-petroleo",
+    "span": "Fondo Mexicano del Petróleo",
+    "start_char": 1803,
+    "end_char": 1830
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:93:term-usage:1904-1921",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:93",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:reserva-del-fondo",
+    "span": "Reserva del Fondo",
+    "start_char": 1904,
+    "end_char": 1921
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:94:term-usage:21-38",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:94",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:reserva-del-fondo",
+    "span": "Reserva del Fondo",
+    "start_char": 21,
+    "end_char": 38
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:94:term-usage:149-176",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:94",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:fondo-mexicano-del-petroleo",
+    "span": "Fondo Mexicano del Petróleo",
+    "start_char": 149,
+    "end_char": 176
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:94:term-usage:312-329",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:94",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:reserva-del-fondo",
+    "span": "Reserva del Fondo",
+    "start_char": 312,
+    "end_char": 329
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfprh:article:94:term-usage:758-768",
     "provision_id": "urn:lex-mx:federal:statute:lfprh:article:94",
     "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
     "span": "Secretaría",
     "start_char": 758,
     "end_char": 768
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:94:term-usage:1279-1296",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:94",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:reserva-del-fondo",
+    "span": "Reserva del Fondo",
+    "start_char": 1279,
+    "end_char": 1296
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:94:term-usage:1525-1542",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:94",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:reserva-del-fondo",
+    "span": "Reserva del Fondo",
+    "start_char": 1525,
+    "end_char": 1542
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:94:term-usage:1759-1776",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:94",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:reserva-del-fondo",
+    "span": "Reserva del Fondo",
+    "start_char": 1759,
+    "end_char": 1776
   },
   {
     "schema_version": "0.1.0",
@@ -3295,12 +4231,75 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:95:term-usage:1432-1459",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:95",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:fondo-mexicano-del-petroleo",
+    "span": "Fondo Mexicano del Petróleo",
+    "start_char": 1432,
+    "end_char": 1459
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfprh:article:95:term-usage:1524-1546",
     "provision_id": "urn:lex-mx:federal:statute:lfprh:article:95",
     "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
     "span": "Presupuesto de Egresos",
     "start_char": 1524,
     "end_char": 1546
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:95:term-usage:1721-1748",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:95",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:fondo-mexicano-del-petroleo",
+    "span": "Fondo Mexicano del Petróleo",
+    "start_char": 1721,
+    "end_char": 1748
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:96:term-usage:35-52",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:96",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:reserva-del-fondo",
+    "span": "Reserva del Fondo",
+    "start_char": 35,
+    "end_char": 52
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:96:term-usage:84-111",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:96",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:fondo-mexicano-del-petroleo",
+    "span": "Fondo Mexicano del Petróleo",
+    "start_char": 84,
+    "end_char": 111
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:96:term-usage:136-153",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:96",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:reserva-del-fondo",
+    "span": "Reserva del Fondo",
+    "start_char": 136,
+    "end_char": 153
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:96:term-usage:173-190",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:96",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:reserva-del-fondo",
+    "span": "Reserva del Fondo",
+    "start_char": 173,
+    "end_char": 190
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:96:term-usage:290-307",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:96",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:reserva-del-fondo",
+    "span": "Reserva del Fondo",
+    "start_char": 290,
+    "end_char": 307
   },
   {
     "schema_version": "0.1.0",
@@ -3313,12 +4312,93 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:96:term-usage:546-573",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:96",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:fondo-mexicano-del-petroleo",
+    "span": "Fondo Mexicano del Petróleo",
+    "start_char": 546,
+    "end_char": 573
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:96:term-usage:693-720",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:96",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:fondo-mexicano-del-petroleo",
+    "span": "Fondo Mexicano del Petróleo",
+    "start_char": 693,
+    "end_char": 720
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:97:term-usage:498-515",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:97",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:reserva-del-fondo",
+    "span": "Reserva del Fondo",
+    "start_char": 498,
+    "end_char": 515
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfprh:article:97:term-usage:576-598",
     "provision_id": "urn:lex-mx:federal:statute:lfprh:article:97",
     "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
     "span": "Presupuesto de Egresos",
     "start_char": 576,
     "end_char": 598
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:97:term-usage:1104-1121",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:97",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:reserva-del-fondo",
+    "span": "Reserva del Fondo",
+    "start_char": 1104,
+    "end_char": 1121
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:97:term-usage:1540-1567",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:97",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:fondo-mexicano-del-petroleo",
+    "span": "Fondo Mexicano del Petróleo",
+    "start_char": 1540,
+    "end_char": 1567
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:97:term-usage:1643-1658",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:97",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:ley-de-ingresos",
+    "span": "Ley de Ingresos",
+    "start_char": 1643,
+    "end_char": 1658
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:97:term-usage:1706-1723",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:97",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:reserva-del-fondo",
+    "span": "Reserva del Fondo",
+    "start_char": 1706,
+    "end_char": 1723
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:97:term-usage:1820-1835",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:97",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:ley-de-ingresos",
+    "span": "Ley de Ingresos",
+    "start_char": 1820,
+    "end_char": 1835
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:97:term-usage:1887-1904",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:97",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:reserva-del-fondo",
+    "span": "Reserva del Fondo",
+    "start_char": 1887,
+    "end_char": 1904
   },
   {
     "schema_version": "0.1.0",
@@ -3340,6 +4420,33 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:97:term-usage:2341-2358",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:97",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:reserva-del-fondo",
+    "span": "Reserva del Fondo",
+    "start_char": 2341,
+    "end_char": 2358
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:97:term-usage:2651-2668",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:97",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:reserva-del-fondo",
+    "span": "Reserva del Fondo",
+    "start_char": 2651,
+    "end_char": 2668
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:97:term-usage:2769-2796",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:97",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:fondo-mexicano-del-petroleo",
+    "span": "Fondo Mexicano del Petróleo",
+    "start_char": 2769,
+    "end_char": 2796
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfprh:article:106:term-usage:378-400",
     "provision_id": "urn:lex-mx:federal:statute:lfprh:article:106",
     "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
@@ -3355,6 +4462,15 @@
     "span": "Secretaría",
     "start_char": 959,
     "end_char": 969
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:106:term-usage:1024-1039",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:106",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:funcion-publica",
+    "span": "Función Pública",
+    "start_char": 1024,
+    "end_char": 1039
   },
   {
     "schema_version": "0.1.0",
@@ -3403,6 +4519,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:107:term-usage:2067-2082",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:107",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:ley-de-ingresos",
+    "span": "Ley de Ingresos",
+    "start_char": 2067,
+    "end_char": 2082
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfprh:article:107:term-usage:2985-2995",
     "provision_id": "urn:lex-mx:federal:statute:lfprh:article:107",
     "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
@@ -3412,12 +4537,39 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:107:term-usage:4670-4690",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:107",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:anexos-transversales",
+    "span": "Anexos Transversales",
+    "start_char": 4670,
+    "end_char": 4690
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:107:term-usage:6436-6451",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:107",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:ley-de-ingresos",
+    "span": "Ley de Ingresos",
+    "start_char": 6436,
+    "end_char": 6451
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfprh:article:107:term-usage:8336-8358",
     "provision_id": "urn:lex-mx:federal:statute:lfprh:article:107",
     "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
     "span": "Presupuesto de Egresos",
     "start_char": 8336,
     "end_char": 8358
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:107:term-usage:8515-8530",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:107",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:ley-de-ingresos",
+    "span": "Ley de Ingresos",
+    "start_char": 8515,
+    "end_char": 8530
   },
   {
     "schema_version": "0.1.0",
@@ -3490,6 +4642,15 @@
     "span": "Cuenta Pública",
     "start_char": 11694,
     "end_char": 11708
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:107:term-usage:11789-11809",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:107",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:anexos-transversales",
+    "span": "Anexos Transversales",
+    "start_char": 11789,
+    "end_char": 11809
   },
   {
     "schema_version": "0.1.0",
@@ -3646,12 +4807,30 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:114:term-usage:1257-1272",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:114",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:funcion-publica",
+    "span": "Función Pública",
+    "start_char": 1257,
+    "end_char": 1272
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfprh:article:114:term-usage:1885-1895",
     "provision_id": "urn:lex-mx:federal:statute:lfprh:article:114",
     "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
     "span": "Secretaría",
     "start_char": 1885,
     "end_char": 1895
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:114:term-usage:1900-1915",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:114",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:funcion-publica",
+    "span": "Función Pública",
+    "start_char": 1900,
+    "end_char": 1915
   },
   {
     "schema_version": "0.1.0",
@@ -3706,6 +4885,15 @@
     "span": "Secretaría",
     "start_char": 41,
     "end_char": 51
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:transitory:sexto:term-usage:57-72",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:transitory:sexto",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:funcion-publica",
+    "span": "Función Pública",
+    "start_char": 57,
+    "end_char": 72
   },
   {
     "schema_version": "0.1.0",

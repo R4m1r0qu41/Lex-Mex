@@ -17,6 +17,6 @@ source_sha256: 2a105e5201b86ff5517ca1ef8d971224ea8c717f195fdd5fa28b916c7e622e56
 
 # Artículo 39
 
-Tratándose de la incorporación al Programa, de Testigos Colaboradores, el Director deberá considerar la opinión del Titular de la Fiscalía correspondiente o Unidad Especializada en materia de Delincuencia Organizada.
+Tratándose de la incorporación al [Programa](articulo-2.md), de [Testigos Colaboradores](articulo-2.md), el [Director](articulo-2.md) deberá considerar la opinión del Titular de la Fiscalía correspondiente o [Unidad](articulo-2.md) Especializada en materia de Delincuencia Organizada.
 
 Artículo reformado DOF 20-05-2021

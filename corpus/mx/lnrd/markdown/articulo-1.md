@@ -15,4 +15,4 @@ source_sha256: 0a9852297132d8972d0c2f77e1b67d614bd296632109065e703bd09254187aea
 
 # Artículo 1
 
-La presente Ley es de orden público y de observancia general en todo el territorio nacional. Tiene por objeto regular la integración y funcionamiento del Registro Nacional de Detenciones, estableciendo los procedimientos que garanticen el control y seguimiento sobre la forma en que se efectuó la detención de personas por la autoridad.
+La presente [Ley](articulo-2.md) es de orden público y de observancia general en todo el territorio nacional. Tiene por objeto regular la integración y funcionamiento del [Registro](articulo-2.md) Nacional de Detenciones, estableciendo los procedimientos que garanticen el control y seguimiento sobre la forma en que se efectuó la detención de personas por la autoridad.

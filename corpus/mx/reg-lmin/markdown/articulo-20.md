@@ -17,7 +17,7 @@ source_sha256: 4d25bcb022ab62a24462e11a230c9554c0120012913ab4599cd3ec1b2b275c1d
 
 # Artículo 20
 
-Cuando por surtir efecto la publicación de una declaratoria de libertad de terreno de un lote minero, dos o más personas presenten, de manera simultánea, solicitudes de concesión minera, la Secretaría procederá conforme a lo siguiente:
+Cuando por surtir efecto la publicación de una declaratoria de libertad de terreno de un lote minero, dos o más personas presenten, de manera simultánea, solicitudes de concesión minera, la [Secretaría](articulo-1o.md) procederá conforme a lo siguiente:
 
 I. Recibirá en sobre cerrado cada una de las solicitudes, junto con su documentación anexa y las registrará con la misma fecha y hora otorgándoles un número de registro a cada una de ellas.
 
@@ -43,7 +43,7 @@ a) Si la solicitud cumple con los citados requisitos, el servidor público admit
 
 b) Si la solicitud no cumple con los requisitos mencionados en el primer párrafo de esta fracción, se desechará y se tomará la siguiente solicitud con mejores derechos, para repetir con ella el procedimiento descrito en la presente fracción;
 
-VI. Con posterioridad a la verificación de que la solicitud con mejores derechos cumple con los requisitos para su admisión a estudio y trámite, se exhibirá dicha solicitud y la porción o carta topográfica del INEGI de la misma al participante que según el orden de prelación tiene el siguiente mejor derecho, para que, en su caso, manifieste que la solicitud que primeramente fue admitida con mejores derechos no cubre todo el terreno declarado libre, con base en la referida solicitud, o bien en la carta topográfica del INEGI o porción de la misma, y que desea que su solicitud también sea admitida a estudio y trámite por la parte del lote que aún queda libre, procediéndose en este supuesto a repetir el procedimiento descrito en la fracción anterior;
+VI. Con posterioridad a la verificación de que la solicitud con mejores derechos cumple con los requisitos para su admisión a estudio y trámite, se exhibirá dicha solicitud y la porción o carta topográfica del [INEGI](articulo-1o.md) de la misma al participante que según el orden de prelación tiene el siguiente mejor derecho, para que, en su caso, manifieste que la solicitud que primeramente fue admitida con mejores derechos no cubre todo el terreno declarado libre, con base en la referida solicitud, o bien en la carta topográfica del INEGI o porción de la misma, y que desea que su solicitud también sea admitida a estudio y trámite por la parte del lote que aún queda libre, procediéndose en este supuesto a repetir el procedimiento descrito en la fracción anterior;
 
 VII. Lo indicado en las fracciones V y VI de este artículo deberá llevarse a cabo las veces que sea necesario, de acuerdo con el orden de prelación que resultó del sorteo, hasta agotar la superficie del lote objeto de la publicación de declaratoria de libertad correspondiente, o bien, hasta que ninguno de los participantes del sorteo manifieste su interés por la porción o porciones restantes de dicho lote. Acto seguido, se procederá a desechar todas aquellas solicitudes que habiendo participado en el sorteo, no resulten admitidas para su estudio y trámite, y
 

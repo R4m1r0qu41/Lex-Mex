@@ -25,11 +25,11 @@ II. Analizar y someter a consideración y aprobación del Sistema las propuestas
 
 III. Implementar programas emergentes de ayuda, atención, asistencia, protección, acceso a la justicia y a la verdad, así como de reparación integral, para la atención especial de una determinada situación o de un grupo de víctimas, e informar de ello al Sistema;
 
-IV. Nombrar y remover, a propuesta del Comisionado Presidente, a los servidores públicos de la Comisión Ejecutiva, que ocupen cargos con las dos jerarquías administrativas inferiores a la de los propios comisionados;
+IV. Nombrar y remover, a propuesta del [Comisionado Presidente](articulo-3.md), a los servidores públicos de la Comisión Ejecutiva, que ocupen cargos con las dos jerarquías administrativas inferiores a la de los propios comisionados;
 
 V. Aprobar, a propuesta del Director General de la Asesoría Jurídica Federal, el nombramiento de los integrantes la Junta Directiva, a que se refiere el artículo [175](../../lgv/markdown/articulo-175.md) de la Ley;
 
-VI. Dictaminar sobre la procedencia del acceso a los recursos del Fondo;
+VI. Dictaminar sobre la procedencia del acceso a los recursos del [Fondo](articulo-3.md);
 
 VII. Aprobar anualmente los tabuladores de montos compensatorios;
 
@@ -45,7 +45,7 @@ XII. Aprobar anualmente, previo informe del comisario y dictamen de los auditore
 
 XIII. Aprobar, de conformidad con las disposiciones aplicables, las políticas, bases y programas generales que regulen los convenios, contratos, pedidos o acuerdos que deba celebrar la Comisión Ejecutiva con terceros en materia de obras públicas, adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles;
 
-XIV. Aprobar el Estatuto Orgánico, que contiene la estructura de organización de la Comisión Ejecutiva, así como las modificaciones que procedan;
+XIV. Aprobar el [Estatuto Orgánico](articulo-3.md), que contiene la estructura de organización de la Comisión Ejecutiva, así como las modificaciones que procedan;
 
 XV. Establecer, con sujeción a las disposiciones legales relativas, las normas y bases para la adquisición, arrendamiento y enajenación de inmuebles que la Comisión Ejecutiva requiera para la prestación de sus servicios; XVI. Aprobar los informes de desempeño de las actividades de la Comisión Ejecutiva, incluido el informe anual sobre el ejercicio de los presupuestos de ingresos y egresos y los estados financieros correspondientes que rinda el Comisionado Presidente, en términos de las normas aplicables;
 

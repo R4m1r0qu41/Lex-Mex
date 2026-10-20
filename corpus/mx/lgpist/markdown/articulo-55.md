@@ -17,6 +17,6 @@ source_sha256: 1e7d06c67fac4c8a100d2bb2845cc765fba5e8ce09d27d30b2b44432ffeb8c41
 
 # Artículo 55
 
-Las Instituciones de Procuración de Justicia deberán crear Fiscalías Especializadas con plena autonomía técnica y operativa para el conocimiento, investigación y persecución de delitos previstos en esta Ley; contarán con Ministerios Públicos, policías, servicios periciales y técnicos especializados; y estarán dotadas de los recursos humanos, financieros y materiales que se requieran para su efectiva operación.
+Las [Instituciones de Procuración de Justicia](articulo-5.md) deberán crear [Fiscalías Especializadas](articulo-5.md) con plena autonomía técnica y operativa para el conocimiento, investigación y persecución de delitos previstos en esta [Ley](articulo-5.md); contarán con Ministerios Públicos, policías, servicios periciales y técnicos especializados; y estarán dotadas de los recursos humanos, financieros y materiales que se requieran para su efectiva operación.
 
 Artículo reformado DOF 20-05-2021

@@ -17,7 +17,7 @@ source_sha256: 4e276866fce1638948a6daf1a5c0438fa412554f1a6e0381cbdf7cb300e3db75
 
 # Artículo 130
 
-Para la determinación de los niveles de certificación que podrá establecer la Secretaría para que con base en dichos niveles, las autoridades correspondientes definan y determinen el acceso a los instrumentos económicos que tendrán los propietarios de los predios destinados voluntariamente a la conservación o sean considerados por las dependencias competentes en la certificación de productos o servicios, deberá ponderar los siguientes aspectos:
+Para la determinación de los niveles de certificación que podrá establecer la [Secretaría](articulo-3o.md) para que con base en dichos niveles, las autoridades correspondientes definan y determinen el acceso a los instrumentos económicos que tendrán los propietarios de los predios destinados voluntariamente a la conservación o sean considerados por las dependencias competentes en la certificación de productos o servicios, deberá ponderar los siguientes aspectos:
 
 I. La dimensión de la zona que haya sido determinada por su propietario con características similares a las de una zona núcleo respecto de la superficie total del predio destinado voluntariamente a la conservación;
 
@@ -37,10 +37,10 @@ VIII. La existencia de mayor diferencial de gradiente altitudinal en el predio d
 
 IX. La presencia de endemismos;
 
-X. El plazo para el cual se destinó el predio voluntariamente a la conservación que sea por lo menos del doble de la vigencia mínima que establece el artículo [77 BIS](../../lgeepa/markdown/articulo-77-BIS.md), fracción I, inciso h), de la Ley;
+X. El plazo para el cual se destinó el predio voluntariamente a la conservación que sea por lo menos del doble de la vigencia mínima que establece el artículo [77 BIS](../../lgeepa/markdown/articulo-77-BIS.md), fracción I, inciso h), de la [Ley](articulo-3o.md);
 
-XI. La efectividad de las acciones de manejo, determinada en función del ecosistema a conservar, a partir de la comparación entre el estado de conservación del predio al momento de la certificación y el estado que la Comisión observe en el predio una vez transcurrido al menos la mitad del plazo de vigencia del certificado, o
+XI. La efectividad de las acciones de manejo, determinada en función del ecosistema a conservar, a partir de la comparación entre el estado de conservación del predio al momento de la certificación y el estado que la [Comisión](articulo-3o.md) observe en el predio una vez transcurrido al menos la mitad del plazo de vigencia del certificado, o
 
-XII. La actividad científica o académica comprobable que se desarrolle en el predio destinado voluntariamente a la conservación. Los aspectos previstos en el presente artículo podrán servir de apoyo a las dependencias de la Administración Pública Federal para dar prioridad a proyectos de conservación que representen beneficios significativos a los ecosistemas nativos, pero no podrán utilizarse como criterios de exclusión en la asignación de apoyos, estímulos o instrumentos económicos que señala la Ley.
+XII. La actividad científica o académica comprobable que se desarrolle en el predio destinado voluntariamente a la conservación. Los aspectos previstos en el presente artículo podrán servir de apoyo a las dependencias de la [Administración](articulo-3o.md) Pública Federal para dar prioridad a proyectos de conservación que representen beneficios significativos a los ecosistemas nativos, pero no podrán utilizarse como criterios de exclusión en la asignación de apoyos, estímulos o instrumentos económicos que señala la Ley.
 
 Artículo reformado DOF 21-05-2014

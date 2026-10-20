@@ -17,6 +17,6 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 376
 
-En caso de que se acepte la propuesta inicial de la persona solicitante de la conciliación, el Instituto requerirá a las partes a presentar el convenio respectivo, debidamente formalizado, en el plazo de cinco días hábiles.
+En caso de que se acepte la propuesta inicial de la persona solicitante de la conciliación, el [Instituto](articulo-4.md) requerirá a las partes a presentar el convenio respectivo, debidamente formalizado, en el plazo de cinco días hábiles.
 
 Artículo reformado DOF 03-04-2026

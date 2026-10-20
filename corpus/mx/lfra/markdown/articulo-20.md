@@ -19,7 +19,7 @@ source_sha256: 7211b1c71876d2ea4776c11dc1e045ebbb34b7e98b130f16c7864f75f5e90744
 
 Los montos mínimos y máximos de la Sanción Económica prevista para una persona moral, se reducirán a su tercera parte cuando se acrediten al menos tres de las siguientes:
 
-I. Que dicha persona no ha sido sentenciada previamente en términos de lo dispuesto por esta Ley; ni es reincidente en términos de lo dispuesto por las Leyes ambientales;
+I. Que dicha persona no ha sido sentenciada previamente en términos de lo dispuesto por esta [Ley](articulo-2o.md); ni es reincidente en términos de lo dispuesto por las [Leyes ambientales](articulo-2o.md);
 
 II. Que sus empleados, representantes, y quienes ejercen cargos de dirección, mando o control en su estructura u organización no han sido sentenciados por delitos contra el ambiente o la gestión ambiental, cometidos bajo el amparo de la persona moral responsable, en su beneficio o con sus medios;
 

@@ -27,7 +27,9 @@ III.- Obstruya el desarrollo normal de la votación sin mediar causa justificada
 
 IV. Altere los resultados electorales, sustraiga o destruya boletas, documentos o materiales electorales; Fracción reformada DOF 25-03-1994, 22-11-1996
 
-V. No entregue o impida la entrega oportuna de documentos o materiales electorales, sin mediar causa justificada; Fracción reformada DOF 22-11-1996 VI. En ejercicio de sus funciones ejerza presión sobre los electores y los induzca objetivamente a votar por un candidato o partido determinado, en el interior de la casilla o en el lugar donde los propios electores se encuentren formados; Fracción reformada DOF 22-11-1996
+V. No entregue o impida la entrega oportuna de documentos o materiales electorales, sin mediar causa justificada; Fracción reformada DOF 22-11-1996
+
+VI. En ejercicio de sus funciones ejerza presión sobre los electores y los induzca objetivamente a votar por un candidato o partido determinado, en el interior de la casilla o en el lugar donde los propios electores se encuentren formados; Fracción reformada DOF 22-11-1996
 
 VII.- Al que instale, abra o cierre dolosamente una casilla fuera de los tiempos y formas previstos por la ley de la materia, la instale en lugar distinto al legalmente señalado, o impida su instalación; Fracción reformada DOF 25-03-1994
 

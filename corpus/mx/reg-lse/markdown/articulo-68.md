@@ -17,4 +17,4 @@ source_sha256: 4bcc982b308b0813469b30db61b53d5a2c41e5a7240b3b1cac2f1aeeb2c00a2e
 
 # Artículo 68
 
-El desarrollo de proyectos a través de los esquemas para el desarrollo mixto previstos en el artículo [38](../../lse/markdown/articulo-38.md) de la Ley, debe sujetarse a los instrumentos de planeación del sector energético aplicables, a los principios establecidos en el artículo [12](../../lse/markdown/articulo-12.md) de la Ley y cumplir con los criterios de Accesibilidad, Calidad, Confiabilidad, Continuidad, Eficiencia, Seguridad y Sostenibilidad del Sistema Eléctrico Nacional.
+El desarrollo de proyectos a través de los esquemas para el desarrollo mixto previstos en el artículo [38](../../lse/markdown/articulo-38.md) de la [Ley](articulo-2.md), debe sujetarse a los instrumentos de planeación del sector energético aplicables, a los principios establecidos en el artículo [12](../../lse/markdown/articulo-12.md) de la Ley y cumplir con los criterios de Accesibilidad, Calidad, Confiabilidad, Continuidad, [Eficiencia](articulo-2.md), [Seguridad](articulo-2.md) y Sostenibilidad del Sistema Eléctrico Nacional.

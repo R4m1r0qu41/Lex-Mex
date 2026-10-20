@@ -17,6 +17,6 @@ source_sha256: 269e72195414406bcbd3e90ac40ec26e031a9ea519316c44ee30bdfdf3163059
 
 # Artículo 16
 
-Los Bienes, activos o empresas a que se refiere la fracción V del artículo [1](articulo-1o.md)o. de esta Ley y los que sean incosteables, serán destruidos o enajenados por el Instituto, a través de los procedimientos previstos en el Título Cuarto de esta Ley.
+Los [Bienes](articulo-2o.md), activos o empresas a que se refiere la fracción V del artículo [1](articulo-1o.md)o. de esta Ley y los que sean incosteables, serán destruidos o enajenados por el [Instituto](articulo-2o.md), a través de los procedimientos previstos en el Título Cuarto de esta Ley.
 
 Artículo reformado DOF 09-08-2019

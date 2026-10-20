@@ -15,4 +15,4 @@ source_sha256: 9080231242a59cbd78d30fb747864bc45cd63d3c4978f37086b01e45343f4244
 
 # Tercero
 
-A partir de la entrada en vigor del presente reglamento, todas las referencias que en los ordenamientos jurídicos vigentes se hagan al Reglamento de la Ley de Petróleos Mexicanos, se entienden hechas al presente ordenamiento.
+A partir de la entrada en vigor del presente reglamento, todas las referencias que en los ordenamientos jurídicos vigentes se hagan al Reglamento de la [Ley](articulo-2.md) de Petróleos Mexicanos, se entienden hechas al presente ordenamiento.

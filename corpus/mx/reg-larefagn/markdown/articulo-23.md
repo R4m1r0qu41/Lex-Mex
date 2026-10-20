@@ -19,7 +19,7 @@ source_sha256: 01b72308e67d46ba6ca8a6b07fb7584c6a74e905ea0c4b5be5c0c0d32a6d817a
 
 Para determinar la conducta general, se asignará una escala de cien puntos como máximo y se computará como sigue:
 
-I. Para las personas participantes en la Promoción de Sargentos Primeros Especialistas con un año de antigüedad, cien puntos para cada año; y con cincuenta, para los que tengan dos años de antigüedad; Fracción reformada DOF 20-03-2026
+I. Para las personas participantes en la [Promoción](articulo-5.md) de Sargentos Primeros [Especialistas](articulo-5.md) con un año de antigüedad, cien puntos para cada año; y con cincuenta, para los que tengan dos años de antigüedad; Fracción reformada DOF 20-03-2026
 
 II. Para las personas participantes en las Promociones General, Especial y de Sargentos Primeros Especialistas: Párrafo reformado DOF 20-03-2026
 

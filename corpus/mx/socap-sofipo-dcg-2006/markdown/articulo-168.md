@@ -20,11 +20,11 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 El personal responsable de la administración integral de riesgos para el cumplimiento de su objeto desempeñará cuando menos las funciones que se indican a continuación:
 
-I. Vigilar que la administración de riesgos sea integral y considere los riesgos en que incurre la Sociedad Financiera Popular dentro de sus diversas líneas y unidades de negocios;
+I. Vigilar que la administración de riesgos sea integral y considere los riesgos en que incurre la [Sociedad](articulo-1.md) Financiera Popular dentro de sus diversas líneas y unidades de negocios;
 
 II. Proponer la metodología y aplicarla una vez aprobada por el comité de riesgos para identificar, medir y vigilar los distintos tipos de riesgos a que se encuentra expuesta la Sociedad Financiera Popular, así como los límites, utilizando para tal efecto los modelos, parámetros y escenarios para la medición y control del riesgo establecidos por el citado comité;
 
-III. Informar al comité de riesgos y al Director o Gerente General sobre:
+III. Informar al comité de riesgos y al [Director o Gerente General](articulo-1.md) sobre:
 
 a) La exposición global y por tipo de riesgo de la Sociedad Financiera Popular, así como la específica de cada unidad de negocio, la cual se informará adicionalmente a los responsables de las unidades de negocios, y
 
@@ -34,10 +34,10 @@ Los informes a que se refiere esta fracción deberán presentarse mensualmente, 
 
 IV. Investigar y documentar las causas que originan desviaciones a los límites de exposición al riesgo establecidos, identificar si dichas desviaciones se presentan en forma reiterada e informar de manera oportuna sus resultados al Comité de Riesgos, al Director General y al auditor interno;
 
-V. Recomendar al Director General y a los responsables de las unidades de negocios, disminuir la exposición al riesgo a los límites previamente aprobados por el Consejo de Administración;
+V. Recomendar al Director General y a los responsables de las unidades de negocios, disminuir la exposición al riesgo a los límites previamente aprobados por el [Consejo de Administración](articulo-1.md);
 
 VI. Validar con base en la información que habrán de proporcionarle las unidades administrativas correspondientes de la Sociedad Financiera Popular, los requerimientos de capitalización por riesgos de crédito y de mercado con que deberá cumplir esta última, con el objeto de verificar que se ajusten a las disposiciones aplicables, e
 
-VII. Identificar, medir, vigilar e informar al Comité de Remuneración los riesgos originados por el desempeño de las actividades del personal sujeto al [Sistema de Remuneración](articulo-1.md) y unidades de negocio de la Sociedad Financiera Popular.
+VII. Identificar, medir, vigilar e informar al [Comité de Remuneración](articulo-1.md) los riesgos originados por el desempeño de las actividades del personal sujeto al [Sistema de Remuneración](articulo-1.md) y unidades de negocio de la Sociedad Financiera Popular.
 
 Adicionalmente, deberá elaborar y someter a consideración del referido comité, análisis de escenarios y proyecciones sobre los efectos de la materialización de los riesgos inherentes a las actividades de las personas sujetas al Sistema de Remuneración y de la aplicación de los esquemas de remuneración sobre la estabilidad y solidez de la Sociedad Financiera Popular, así como evaluar si las políticas y procedimientos de remuneración propician la reducción de los incentivos para la toma de riesgos innecesarios.

@@ -21,4 +21,4 @@ El titular de la Secretaría emitirá, mediante Acuerdos que deberán publicarse
 
 I. Derogada. Fracción derogada DOF 16-08-2017
 
-II. Los lineamientos del Sistema de Clasificación Hotelera.
+II. Los lineamientos del [Sistema de Clasificación Hotelera](articulo-2.md).

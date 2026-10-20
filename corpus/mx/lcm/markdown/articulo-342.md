@@ -17,6 +17,6 @@ source_sha256: 8e270686b885035488bfe310b0b42bb40e7154431794227ebe212dd7dc12e46a
 
 # Artículo 342
 
-La sentencia de concurso mercantil deberá reunir los requisitos que esta Ley le exige y a partir de ese momento el concurso mercantil con plan de reestructura se tramitará como un concurso mercantil ordinario, con la única salvedad de que el [Comerciante](articulo-4o.md) o, en su caso, el conciliador deberá presentar a votación y subsecuente aprobación judicial el plan de reestructura exhibido con la solicitud.
+La sentencia de concurso mercantil deberá reunir los requisitos que esta [Ley](articulo-4o.md) le exige y a partir de ese momento el concurso mercantil con plan de reestructura se tramitará como un concurso mercantil ordinario, con la única salvedad de que el [Comerciante](articulo-4o.md) o, en su caso, el conciliador deberá presentar a votación y subsecuente aprobación judicial el plan de reestructura exhibido con la solicitud.
 
 Artículo adicionado DOF 27-12-2007. Reformado DOF 10-01-2014

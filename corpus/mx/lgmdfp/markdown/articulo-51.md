@@ -17,9 +17,9 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Artículo 51
 
-La Comisión Nacional de Búsqueda está a cargo de una persona titular nombrada y removida por el Presidente de la República, a propuesta del Secretario de Gobernación.
+La [Comisión Nacional de Búsqueda](articulo-4.md) está a cargo de una persona titular nombrada y removida por el Presidente de la República, a propuesta del Secretario de Gobernación.
 
-Para el nombramiento, la Secretaría de Gobernación realizará una consulta pública previa a los colectivos de Víctimas, personas expertas y organizaciones de la sociedad civil especializadas en la materia. Para ser titular se requiere:
+Para el nombramiento, la Secretaría de Gobernación realizará una consulta pública previa a los colectivos de [Víctimas](articulo-4.md), personas expertas y organizaciones de la sociedad civil especializadas en la materia. Para ser titular se requiere:
 
 I. Ser ciudadana o ciudadano mexicano;
 
@@ -37,4 +37,4 @@ En el nombramiento de la persona titular de la Comisión Nacional de Búsqueda, 
 
 La persona titular de la Comisión Nacional de Búsqueda no podrá tener ningún otro empleo, cargo o comisión, salvo en instituciones docentes, científicas o de beneficencia.
 
-Las Entidades Federativas deben prever, como mínimo, los mismos requisitos que contempla el presente artículo para la selección de la persona titular de la Comisión de Búsqueda Local que corresponda.
+Las [Entidades Federativas](articulo-4.md) deben prever, como mínimo, los mismos requisitos que contempla el presente artículo para la selección de la persona titular de la Comisión de Búsqueda Local que corresponda.

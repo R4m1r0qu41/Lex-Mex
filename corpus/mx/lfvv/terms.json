@@ -1,1 +1,101 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfvv:term:caracteres-pertinentes",
+    "term": "Caracteres pertinentes",
+    "instrument_id": "urn:lex-mx:federal:statute:lfvv",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfvv:article:2",
+    "fraction": "I",
+    "start_char": 48,
+    "end_char": 179,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfvv:term:comite",
+    "term": "Comité",
+    "instrument_id": "urn:lex-mx:federal:statute:lfvv",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfvv:article:2",
+    "fraction": "II",
+    "start_char": 179,
+    "end_char": 240,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfvv:term:material-de-propagacion",
+    "term": "Material de propagación",
+    "instrument_id": "urn:lex-mx:federal:statute:lfvv",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfvv:article:2",
+    "fraction": "III",
+    "start_char": 240,
+    "end_char": 543,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfvv:term:obtentor",
+    "term": "Obtentor",
+    "instrument_id": "urn:lex-mx:federal:statute:lfvv",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfvv:article:2",
+    "fraction": "IV",
+    "start_char": 543,
+    "end_char": 704,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfvv:term:proceso-de-mejoramiento",
+    "term": "Proceso de mejoramiento",
+    "instrument_id": "urn:lex-mx:federal:statute:lfvv",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfvv:article:2",
+    "fraction": "V",
+    "start_char": 704,
+    "end_char": 908,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfvv:term:registro",
+    "term": "Registro",
+    "instrument_id": "urn:lex-mx:federal:statute:lfvv",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfvv:article:2",
+    "fraction": "VI",
+    "start_char": 908,
+    "end_char": 1013,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfvv:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:statute:lfvv",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfvv:article:2",
+    "fraction": "VII",
+    "start_char": 1013,
+    "end_char": 1147,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfvv:term:titulo-de-obtentor",
+    "term": "Título de obtentor",
+    "instrument_id": "urn:lex-mx:federal:statute:lfvv",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfvv:article:2",
+    "fraction": "VIII",
+    "start_char": 1147,
+    "end_char": 1332,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfvv:term:variedad-vegetal",
+    "term": "Variedad vegetal",
+    "instrument_id": "urn:lex-mx:federal:statute:lfvv",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfvv:article:2",
+    "fraction": "IX",
+    "start_char": 1332,
+    "end_char": 1488,
+    "basis": "express_definition"
+  }
+]

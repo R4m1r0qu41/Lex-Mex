@@ -205,6 +205,17 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lgipd:article:2",
     "fraction": "XIX",
     "start_char": 5976,
+    "end_char": 6344,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgipd:term:formato-de-lectura-facil",
+    "term": "Formato de Lectura Fácil",
+    "instrument_id": "urn:lex-mx:federal:statute:lgipd",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgipd:article:2",
+    "fraction": "XIX Bis",
+    "start_char": 6344,
     "end_char": 6668,
     "basis": "express_definition"
   },

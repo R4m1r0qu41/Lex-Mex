@@ -17,4 +17,4 @@ source_sha256: c1870db657a6564bbeb692a1778472db811a920626822de553ff5ca5194f95b4
 
 # Artículo 14
 
-La SENER, la SADER y la SEMARNAT de manera coordinada, y en el ámbito de sus respectivas competencias, pueden elaborar programas para promover el desarrollo sustentable de los Biocombustibles.
+La [SENER](articulo-2.md), la [SADER](articulo-2.md) y la [SEMARNAT](articulo-2.md) de manera coordinada, y en el ámbito de sus respectivas competencias, pueden elaborar programas para promover el desarrollo sustentable de los [Biocombustibles](articulo-2.md).

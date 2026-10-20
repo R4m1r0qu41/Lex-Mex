@@ -18,7 +18,7 @@ source_sha256: 8ac502b97188bd6e795781e9821be6e62ccdd8050cdd3be74aab52a888e67939
 
 # Artículo 117
 
-El Comité de Auditoría deberá proponer para aprobación del [Consejo](articulo-1.md), el Sistema de [Control](articulo-1.md) Interno que la propia unión de crédito requiera para su adecuado funcionamiento, así como sus actualizaciones.
+El [Comité de Auditoría](articulo-1.md) deberá proponer para aprobación del [Consejo](articulo-1.md), el [Sistema de Control Interno](articulo-1.md) que la propia unión de crédito requiera para su adecuado funcionamiento, así como sus actualizaciones.
 
 Los objetivos y lineamientos del Sistema de Control Interno deberán atender a lo dispuesto en los artículos [107](articulo-107.md) y [108](articulo-108.md) de las presentes disposiciones y referirse como mínimo, a los aspectos que se indican a continuación, los cuales serán elaborados por la [Dirección General](articulo-1.md) y sometidos a la consideración del propio comité:
 

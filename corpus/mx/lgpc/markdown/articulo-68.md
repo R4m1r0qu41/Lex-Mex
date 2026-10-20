@@ -19,4 +19,4 @@ source_sha256: d8dd1de3627b899bb4faf31c2812c3d5f14f7108be153d5aa8dd549b9136184a
 
 Las autoridades correspondientes establecerán las bases y lineamientos, con apego a lo establecido en la presente Ley y su Reglamento, para emitir las convocatorias, recepción, administración, control y distribución de los donativos que se aporten con fines altruistas para atención de emergencias o desastres.
 
-Las personas físicas o morales, que deseen colaborar con la captación de donaciones en especie deberán obtener la autorización de las Unidades de las entidades federativas de Protección Civil, conforme a los requisitos y criterios que establezca el Reglamento y la legislación aplicable. Párrafo reformado DOF 19-01-2018
+Las personas físicas o morales, que deseen colaborar con la captación de donaciones en especie deberán obtener la autorización de las Unidades de las entidades federativas de [Protección Civil](articulo-2.md), conforme a los requisitos y criterios que establezca el Reglamento y la legislación aplicable. Párrafo reformado DOF 19-01-2018

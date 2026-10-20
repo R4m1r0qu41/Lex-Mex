@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Primero · Capítulo III
+
 # Artículo 802
 
 En caso de que el trámite se encuentre iniciado como intestado y de la información rendida por las dependencias registrales se actualice la existencia de un testamento atribuible a la persona autora de la sucesión, el procedimiento especial se ajustará a las reglas aplicables a lo previsto en este procedimiento para el caso de sucesiones testamentarias.

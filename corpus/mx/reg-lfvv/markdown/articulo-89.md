@@ -17,4 +17,4 @@ source_sha256: 23dcee090bbe0c4fb06c75d084cb65ce0b2e8f72a8d082e7059504412bde1614
 
 # Artículo 89
 
-Los interesados afectados por los actos y resoluciones de la Secretaría que pongan fin al procedimiento administrativo, a una instancia o resuelvan un expediente, podrán interponer recurso de revisión en términos de la Ley Federal de Procedimiento Administrativo.
+Los interesados afectados por los actos y resoluciones de la [Secretaría](articulo-2o.md) que pongan fin al procedimiento administrativo, a una instancia o resuelvan un expediente, podrán interponer recurso de revisión en términos de la [Ley](articulo-2o.md) Federal de Procedimiento Administrativo.

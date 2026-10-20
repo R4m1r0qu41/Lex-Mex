@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Primero · Capítulo I
+
 # Artículo 737
 
 El inventario deberá practicarse por la autoridad jurisdiccional, persona secretaria judicial, alcalde, alcaldesa, Notaria o Notario Público nombrada por los herederos, o autoridad competente en su caso, con las formalidades correspondientes al [Código Civil](articulo-2.md) aplicable siempre y cuando tenga que realizarse una descripción detallada de aquello que conforme la masa hereditaria de acuerdo con el importe de sus porciones, cuando concurran como herederos:

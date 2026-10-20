@@ -17,4 +17,4 @@ source_sha256: aa96853f010885bdf85160e944e5c0ef5c3c8e95422dfede280d228cf064310a
 
 # Artículo 122
 
-Las adquisiciones que las dependencias y entidades de la Administración Pública Federal realicen dentro del Mercado Eléctrico Mayorista y los mecanismos de adquisición de energía y Productos Asociados del Mercado Eléctrico Mayorista referidos en esta Ley no se sujetan ni a la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, ni a la Ley de Obras Públicas y Servicios Relacionadas con las Mismas.
+Las adquisiciones que las dependencias y entidades de la Administración Pública Federal realicen dentro del [Mercado Eléctrico Mayorista](articulo-3.md) y los mecanismos de adquisición de energía y [Productos Asociados](articulo-3.md) del Mercado Eléctrico Mayorista referidos en esta Ley no se sujetan ni a la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, ni a la Ley de Obras Públicas y Servicios Relacionadas con las Mismas.

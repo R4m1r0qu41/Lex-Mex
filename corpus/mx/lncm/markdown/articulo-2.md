@@ -35,7 +35,7 @@ VII. Contaminación Marina: La introducción por el hombre, directa o indirectam
 
 VII Bis. Protección Marítima y Portuaria: El conjunto de medidas y acciones destinadas a salvaguardar de toda amenaza que pueda afectar al puerto, recinto portuario, terminales, marinas e instalaciones portuarias, así como a las embarcaciones, artefactos navales, personas, carga, unidades de transporte y provisiones a bordo de las mismas; Fracción adicionada DOF 26-12-2013. Reformada DOF 07-12-2020
 
-VII Ter. CUMAR: El Centro Unificado para la Protección Marítima y Portuaria establecido en la Ley de Puertos; Fracción adicionada DOF 26-12-2013
+VII Ter. CUMAR: El Centro Unificado para la [Protección Marítima y Portuaria](articulo-2.md) establecido en la Ley de Puertos; Fracción adicionada DOF 26-12-2013
 
 VIII. Propietario: la persona física o moral titular del derecho real de propiedad de una o varias embarcaciones, y/o artefactos navales, bajo cualquier título legal.
 

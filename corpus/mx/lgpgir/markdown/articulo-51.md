@@ -19,6 +19,6 @@ source_sha256: b34326588bd6e7519e33411d3658239e3aefb56cef0fae5d775bc894af64a565
 
 Las autorizaciones para el manejo integral de residuos peligrosos, podrán ser transferidas, siempre y cuando:
 
-I. Se cuente con el previo consentimiento por escrito de la Secretaría, y
+I. Se cuente con el previo consentimiento por escrito de la [Secretaría](articulo-5.md), y
 
 II. Se acredite la subsistencia de las condiciones bajo las cuales fueron otorgadas.

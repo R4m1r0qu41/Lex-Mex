@@ -17,7 +17,7 @@ source_sha256: 14cd17e37e96e766c8ab74950c71186d579c0ba6cc10ac9e8b06f6194af7d953
 
 # Artículo 8o
 
-Se requiere resolución favorable de la Comisión para que la inversión extranjera participe en un porcentaje mayor al 49% en las actividades económicas y sociedades que se mencionan a continuación:
+Se requiere resolución favorable de la [Comisión](articulo-2o.md) para que la inversión extranjera participe en un porcentaje mayor al 49% en las actividades económicas y sociedades que se mencionan a continuación:
 
 I.- Servicios portuarios a las embarcaciones para realizar sus operaciones de navegación interior, tales como el remolque, amarre de cabos y lanchaje;
 

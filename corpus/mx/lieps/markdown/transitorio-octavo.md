@@ -15,7 +15,7 @@ source_sha256: 32639ede8448f91e6ddde556d4b8bceaf349b904bc21631f06e1c8a7a3d416f4
 
 # Octavo
 
-Durante el año de 1981, los contribuyentes que enajenen o importen cerveza, en lugar de la tasa del 21. 5%, establecida en el inciso D de la fracción I del artículo [2](articulo-2o.md)o., de esta Ley, aplicarán la tasa del 18% y además de una cuota fija de $0. 23 por litro de cerveza producida o importada. El impuesto se pagará en los términos de los artículos [5](articulo-5o.md)o. y 15 de este ordenamiento.
+Durante el año de 1981, los contribuyentes que enajenen o importen [cerveza](articulo-3o.md), en lugar de la tasa del 21. 5%, establecida en el inciso D de la fracción I del artículo [2](articulo-2o.md)o., de esta Ley, aplicarán la tasa del 18% y además de una cuota fija de $0. 23 por litro de cerveza producida o importada. El impuesto se pagará en los términos de los artículos [5](articulo-5o.md)o. y 15 de este ordenamiento.
 
 La parte del impuesto que se determine aplicando la cuota fija, tratándose de cerveza producida en el país, se calculará sobre el volumen de producción elaborado en el mes inmediato anterior, verificado por medio de los contadores oficiales automáticos, de acuerdo con los litros pasados a través de los mismos, descontándose la cerveza retornada a los cuartos fríos, que no hubiere salido de la fábrica. Tratándose de cerveza importada, la parte del impuesto que se determine aplicando la cuota fija, se calculará sobre el volumen de cerveza importada.
 

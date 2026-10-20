@@ -17,4 +17,4 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 91
 
-El Director o Gerente General será el responsable de la adecuada implementación, así como de la debida aplicación de las estrategias relacionadas con la actividad crediticia contenidas en el manual de crédito.
+El [Director o Gerente General](articulo-1.md) será el responsable de la adecuada implementación, así como de la debida aplicación de las estrategias relacionadas con la actividad crediticia contenidas en el manual de crédito.

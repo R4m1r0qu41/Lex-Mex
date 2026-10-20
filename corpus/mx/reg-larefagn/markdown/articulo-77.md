@@ -17,7 +17,7 @@ source_sha256: 01b72308e67d46ba6ca8a6b07fb7584c6a74e905ea0c4b5be5c0c0d32a6d817a
 
 # Artículo 77
 
-El Estado Mayor elaborará anualmente el Instructivo que regirá la Promoción Superior, la cual contendrá al menos:
+El [Estado Mayor](articulo-5.md) elaborará anualmente el Instructivo que regirá la [Promoción](articulo-5.md) Superior, la cual contendrá al menos:
 
 I. Los aspectos jurídicos, técnicos y administrativos;
 

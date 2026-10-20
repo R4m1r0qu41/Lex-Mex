@@ -15,4 +15,4 @@ source_sha256: 91abecabe50a5e414e0835daa9086ce3b307fffb9ebe626dab3bb9d1eae51680
 
 # Décimo Primero
 
-Los procuradores o fiscales generales de la Federación y de las entidades federativas, en su ámbito de competencia respectivo, podrán solicitar ante la autoridad jurisdiccional competente, la aplicación de los beneficios de libertad anticipada referidos en el artículo transitorio
+Los procuradores o fiscales generales de la Federación y de las entidades federativas, en su ámbito de competencia respectivo, podrán solicitar ante la autoridad jurisdiccional competente, la aplicación de los beneficios de libertad anticipada referidos en el artículo transitorio décimo. Asimismo, las autoridades judiciales competentes sustanciarán el procedimiento respectivo de manera oficiosa o a solicitud de la persona a quien aplique dicho beneficio.

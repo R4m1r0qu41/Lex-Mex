@@ -25,4 +25,4 @@ II. Fecha de expedición;
 
 III. Tipo o clase de certificado y los términos y condiciones bajo las cuales se otorga; IV. Duración del certificado, y
 
-V. Las demás que, a juicio de "La Comisión" se deban incluir.
+V. Las demás que, a juicio de "[La Comisión](articulo-1o.md)" se deban incluir.

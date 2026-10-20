@@ -17,7 +17,7 @@ source_sha256: ea99e8d1b13b36451e69f865d4aeeca08ce847fb7dcab648e77f65ca88991a8b
 
 # Artículo 25
 
-La calificación de semillas se realizará conforme a los métodos y procedimientos que se establezcan en las Reglas que expida la Secretaría, el SNICS vigilará su cumplimiento.
+La calificación de semillas se realizará conforme a los métodos y procedimientos que se establezcan en las [Reglas](articulo-3.md) que expida la [Secretaría](articulo-3.md), el [SNICS](articulo-3.md) vigilará su cumplimiento.
 
 En el caso de semillas Certificadas, la calificación es un procedimiento de seguimiento y comprobación del conjunto de actividades por las que se garantiza que las semillas se obtienen bajo métodos y procesos de producción, procesamiento y manejo postcosecha que aseguran que su calidad genética, física, fisiológica y fitosanitaria, se ajusta a las Reglas que para tal efecto emita la Secretaría.
 

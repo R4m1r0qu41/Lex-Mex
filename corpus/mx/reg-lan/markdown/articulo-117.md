@@ -17,8 +17,8 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 117
 
-En cada unidad de drenaje se deberá integrar un comité hidráulico, al cual le serán aplicables, en lo conducente, las disposiciones para la integración y operación de los comités hidráulicos de los distritos de riego, en los términos de los artículos [98](articulo-98.md) y [99](articulo-99.md) de este "Reglamento".
+En cada unidad de drenaje se deberá integrar un comité hidráulico, al cual le serán aplicables, en lo conducente, las disposiciones para la integración y operación de los comités hidráulicos de los distritos de riego, en los términos de los artículos [98](articulo-98.md) y [99](articulo-99.md) de este "[Reglamento](articulo-1o.md)".
 
-"La Comisión" nombrará al Ingeniero en Jefe de la unidad de drenaje, quien presidirá dicho comité hidráulico.
+"[La Comisión](articulo-1o.md)" nombrará al Ingeniero en Jefe de la unidad de drenaje, quien presidirá dicho comité hidráulico.
 
 Capítulo III Uso en Generación de Energía Eléctrica

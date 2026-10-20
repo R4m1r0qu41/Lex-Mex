@@ -17,4 +17,4 @@ source_sha256: b34326588bd6e7519e33411d3658239e3aefb56cef0fae5d775bc894af64a565
 
 # Artículo 81
 
-Para el otorgamiento de la autorización de la prestación de los servicios a que se refiere este Capítulo, la Secretaría requerirá de una garantía suficiente para cubrir los daños que se pudieran causar durante la prestación del servicio y al término del mismo.
+Para el otorgamiento de la autorización de la prestación de los servicios a que se refiere este Capítulo, la [Secretaría](articulo-5.md) requerirá de una garantía suficiente para cubrir los daños que se pudieran causar durante la prestación del servicio y al término del mismo.

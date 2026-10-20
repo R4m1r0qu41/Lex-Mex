@@ -21,11 +21,11 @@ La programación hidráulica precisará los objetivos nacionales, regionales y l
 
 I. Los inventarios de las aguas nacionales y de sus bienes inherentes, los de los usos del agua y los de la infraestructura hidráulica para su aprovechamiento y control;
 
-II. Los estudios de cuenca y los balances hidráulicos que se realicen para la determinación de la disponibilidad de aguas nacionales, conforme a lo dispuesto en el artículo [22](../../lan/markdown/articulo-22.md) de la "Ley";
+II. Los estudios de cuenca y los balances hidráulicos que se realicen para la determinación de la disponibilidad de aguas nacionales, conforme a lo dispuesto en el artículo [22](../../lan/markdown/articulo-22.md) de la "[Ley](articulo-1o.md)";
 
-III. Los derechos existentes, tal y como están consignados en el "Registro", en los términos de la "Ley" y del presente "Reglamento";
+III. Los derechos existentes, tal y como están consignados en el "[Registro](articulo-1o.md)", en los términos de la "Ley" y del presente "[Reglamento](articulo-1o.md)";
 
-IV. Los catálogos de proyectos para el aprovechamiento del agua y para la preservación y control de su calidad, que integre "La Comisión" con proyectos de la Federación, de los gobiernos estatales y municipales y, en general, de cualquier dependencia o entidad, o de los sectores social y privado;
+IV. Los catálogos de proyectos para el aprovechamiento del agua y para la preservación y control de su calidad, que integre "[La Comisión](articulo-1o.md)" con proyectos de la Federación, de los gobiernos estatales y municipales y, en general, de cualquier dependencia o entidad, o de los sectores social y privado;
 
 V. Las Declaratorias de Clasificación de los Cuerpos de Aguas Nacionales a que hace referencia el artículo [87](../../lan/markdown/articulo-87.md) de la "Ley", junto con los estudios correspondientes;
 

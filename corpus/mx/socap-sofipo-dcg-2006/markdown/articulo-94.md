@@ -18,6 +18,6 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 94
 
-Las Sociedades Financieras Populares deberán calificar y constituir las estimaciones preventivas para riesgos crediticios correspondientes a su cartera crediticia de conformidad con la metodología establecida en la Sección Primera del presente Capítulo.
+Las [Sociedades](articulo-1.md) Financieras Populares deberán calificar y constituir las estimaciones preventivas para riesgos crediticios correspondientes a su cartera crediticia de conformidad con la metodología establecida en la Sección Primera del presente Capítulo.
 
 Las Sociedades Financieras Populares podrán optar por aplicar a la totalidad de su cartera la metodología establecida en el numeral I del Anexo D, o bien, la metodología acorde con el tipo de crédito que corresponda.

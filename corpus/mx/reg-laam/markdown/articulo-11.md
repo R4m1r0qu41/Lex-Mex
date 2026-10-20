@@ -17,6 +17,6 @@ source_sha256: 8515c812258bcc7c342e8566ff623c7f5e880f2eb9ee2ad154758077089f11ca
 
 # Artículo 11
 
-La promoción para ascenso por facultad del Alto Mando será aplicada al personal convocado en los grados de Marinero a Capitán de Corbeta.
+La promoción para ascenso por facultad del [Alto Mando](articulo-5.md) será aplicada al personal convocado en los grados de Marinero a Capitán de Corbeta.
 
 Artículo reformado DOF 22-09-2010

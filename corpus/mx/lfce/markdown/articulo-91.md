@@ -17,7 +17,7 @@ source_sha256: d0021bbef2e0c3251d6efdea2c1efd9959ff3f02df4bcd1fc37c1ee7826a72ba
 
 # Artículo 91
 
-Las condiciones que la Comisión podrá establecer o aceptar de los Agentes Económicos, en términos del [artículo anterior](articulo-90.md), podrán consistir en:
+Las condiciones que la [Comisión](articulo-3.md) podrá establecer o aceptar de los [Agentes Económicos](articulo-3.md), en términos del [artículo anterior](articulo-90.md), podrán consistir en:
 
 I. Llevar a cabo una determinada conducta o abstenerse de realizarla;
 

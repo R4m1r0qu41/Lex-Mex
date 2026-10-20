@@ -17,7 +17,7 @@ source_sha256: e5c0ecb4328043b7090ee5d73e982d6a04410f1330f6fdb350a7a34527eb2e59
 
 # Artículo 76
 
-Los permisionarios de pesca de fomento, deberán presentar a la Secretaría, en su caso, un informe preliminar, y posteriormente el informe final del resultado del mismo.
+Los permisionarios de pesca de fomento, deberán presentar a la [Secretaría](articulo-2o.md), en su caso, un informe preliminar, y posteriormente el informe final del resultado del mismo.
 
 El permiso correspondiente señalará el contenido, los plazos y la forma de entrega de los informes, de conformidad con el proyecto de que se trate.
 

@@ -17,7 +17,7 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 109
 
-Podrá darse por terminado anticipadamente el aseguramiento sin responsabilidad para el Instituto, cuando:
+Podrá darse por terminado anticipadamente el aseguramiento sin responsabilidad para el [Instituto](../../lss/markdown/articulo-5-A.md), cuando:
 
 I. Cualquiera de los sujetos a que se refiere este seguro permita o propicie el uso indebido del documento que compruebe la calidad de asegurado. En el caso de que el asegurado sea menor de edad o incapacitado, quien ejerza la patria potestad o la tutela será el responsable solidario, y
 

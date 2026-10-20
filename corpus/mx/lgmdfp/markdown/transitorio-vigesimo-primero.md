@@ -15,4 +15,4 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Vigésimo Primero
 
-Dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, la Comisión Nacional de Búsqueda deberá emitir los lineamientos a que se refiere la fracción XIV del artículo 53 de la Ley.
+Dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, la [Comisión Nacional de Búsqueda](articulo-4.md) deberá emitir los lineamientos a que se refiere la fracción XIV del artículo 53 de la Ley.

@@ -17,4 +17,4 @@ source_sha256: aca2d65d2eef1b7c26ab431772ce7364305d103f5e4bacc87da02064df005ae3
 
 # Artículo 45
 
-En los convenios de concertación se precisarán las aportaciones de la Federación, de los sectores social y privado y, en su caso, de los organismos internacionales, para el desarrollo de las acciones, obras, programas y servicios de desarrollo social que se convengan. Asimismo, se precisarán las aportaciones que realicen las Entidades Federativas y los municipios.
+En los convenios de concertación se precisarán las aportaciones de la Federación, de los sectores social y privado y, en su caso, de los organismos internacionales, para el desarrollo de las acciones, obras, programas y servicios de desarrollo social que se convengan. Asimismo, se precisarán las aportaciones que realicen las [Entidades Federativas](articulo-3.md) y los municipios.

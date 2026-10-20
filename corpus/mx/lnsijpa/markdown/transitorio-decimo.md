@@ -15,4 +15,4 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 # Décimo
 
-De la evaluación del Sistema El Consejo de Coordinación para la Implementación del Sistema de Justicia Penal, instancia de coordinación Nacional creará un comité para la evaluación y seguimiento de la implementación de todas las acciones que se requieren para lograr la adecuada implementación de las normas del presente Decreto.
+De la evaluación del [Sistema](articulo-3.md) El Consejo de Coordinación para la Implementación del Sistema de Justicia Penal, instancia de coordinación Nacional creará un comité para la evaluación y seguimiento de la implementación de todas las acciones que se requieren para lograr la adecuada implementación de las normas del presente Decreto.

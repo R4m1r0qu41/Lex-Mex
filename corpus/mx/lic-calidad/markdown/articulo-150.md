@@ -17,7 +17,7 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 # Artículo 150
 
-Si del acto de Vigilancia se identifica alguna violación a lo previsto en esta Ley por las Entidades de Acreditación o los Organismos de Evaluación de la Conformidad, las autoridades competentes podrán, sujeto a lo señalado en los artículos [160](articulo-160.md) y [161](articulo-161.md) de esta Ley:
+Si del acto de [Vigilancia](articulo-4.md) se identifica alguna violación a lo previsto en esta Ley por las [Entidades de Acreditación](articulo-4.md) o los [Organismos de Evaluación de la Conformidad](articulo-4.md), las autoridades competentes podrán, sujeto a lo señalado en los artículos [160](articulo-160.md) y [161](articulo-161.md) de esta Ley:
 
 I. Suspender parcial o totalmente su funcionamiento. Esa suspensión durará en tanto no se cumpla con las obligaciones respectivas, o
 

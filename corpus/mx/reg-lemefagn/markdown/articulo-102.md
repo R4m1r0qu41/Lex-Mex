@@ -17,4 +17,4 @@ source_sha256: 703f083c0baedfb4ef5ce8b62c78684d8ee0073f393321d476d75ebe4878e1d5
 
 # Artículo 102
 
-La Dirección y Rectoría establecerá los lineamientos para verificar que las Instituciones Educativas y Jefaturas de Curso, conduzcan con eficiencia y eficacia la ejecución del proceso educativo.
+La Dirección y Rectoría establecerá los lineamientos para verificar que las [Instituciones Educativas](articulo-3.md) y Jefaturas de Curso, conduzcan con eficiencia y eficacia la ejecución del proceso educativo.

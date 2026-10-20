@@ -17,6 +17,6 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 161
 
-El Director o Gerente General de las Sociedades deberá documentar adecuadamente las políticas y procedimientos de todas las actividades de las Sociedades, en manuales de operación. Dichos manuales serán la base de la operación, así como la referencia para evaluar la efectividad y desempeño de los controles internos.
+El [Director o Gerente General](articulo-1.md) de las Sociedades deberá documentar adecuadamente las políticas y procedimientos de todas las actividades de las Sociedades, en manuales de operación. Dichos manuales serán la base de la operación, así como la referencia para evaluar la efectividad y desempeño de los controles internos.
 
-Los manuales de operación deberán ser revisados y, en su caso, actualizados por lo menos una vez al año en coordinación con el Auditor Interno, para su aprobación por el Consejo de acuerdo con lo señalado en el Artículo [160](articulo-160.md) de las presentes disposiciones. Igualmente, deberán hacerse del conocimiento de los Consejeros, Miembros del Consejo de Vigilancia y de los funcionarios y empleados de la Sociedad que por sus funciones requieran conocerlos.
+Los manuales de operación deberán ser revisados y, en su caso, actualizados por lo menos una vez al año en coordinación con el [Auditor Interno](articulo-1.md), para su aprobación por el Consejo de acuerdo con lo señalado en el Artículo [160](articulo-160.md) de las presentes disposiciones. Igualmente, deberán hacerse del conocimiento de los [Consejeros](articulo-1.md), [Miembros del Consejo de Vigilancia](articulo-1.md) y de los funcionarios y empleados de la Sociedad que por sus funciones requieran conocerlos.

@@ -17,4 +17,4 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 # Artículo 238
 
-Seguridad La Autoridad Administrativa ordenará a las autoridades del Centro de Internamiento, que se adopten las medidas necesarias para proteger la integridad física de las personas adolescentes sujetos a la medida de sanción de internamiento y de sus visitantes, así como para mantener las condiciones de vida digna y segura en el interior de los mismos.
+Seguridad La [Autoridad Administrativa](articulo-3.md) ordenará a las autoridades del Centro de Internamiento, que se adopten las medidas necesarias para proteger la integridad física de las personas adolescentes sujetos a la medida de sanción de internamiento y de sus visitantes, así como para mantener las condiciones de vida digna y segura en el interior de los mismos.

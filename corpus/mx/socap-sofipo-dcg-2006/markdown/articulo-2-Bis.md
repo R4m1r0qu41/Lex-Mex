@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 2 Bis
 
-Las solicitudes de autorización para organizarse y operar como Sociedad Financiera Popular en términos de lo señalado por el artículo 10 de la Ley, en adición a lo previsto por el [artículo anterior](articulo-2.md), deberán acompañarse respecto de cada una de las personas físicas o morales que tengan intención de suscribir el capital social de las citadas Sociedades Financieras Populares, la documentación e información que se señala a continuación:
+Las solicitudes de autorización para organizarse y operar como [Sociedad](articulo-1.md) Financiera Popular en términos de lo señalado por el artículo 10 de la [Ley](articulo-1.md), en adición a lo previsto por el [artículo anterior](articulo-2.md), deberán acompañarse respecto de cada una de las personas físicas o morales que tengan intención de suscribir el capital social de las citadas Sociedades Financieras Populares, la documentación e información que se señala a continuación:
 
 I. El número, serie, clase y valor nominal de las acciones que suscribirán, así como el monto y porcentaje que representarán respecto del capital social ordinario pagado de la sociedad.
 

@@ -17,13 +17,13 @@ source_sha256: c1870db657a6564bbeb692a1778472db811a920626822de553ff5ca5194f95b4
 
 # Artículo 9
 
-Para instrumentar las acciones necesarias para el cumplimiento de esta Ley, los convenios o acuerdos de coordinación que suscriban las dependencias y entidades de la Administración Pública Federal con los gobiernos de las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México pueden tener por objeto, entre otros:
+Para instrumentar las acciones necesarias para el cumplimiento de esta [Ley](articulo-2.md), los convenios o acuerdos de coordinación que suscriban las dependencias y entidades de la Administración Pública Federal con los gobiernos de las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México pueden tener por objeto, entre otros:
 
-I. Impulsar la creación de empresas mexicanas cuyo objeto sea el aprovechamiento y valorización de los residuos orgánicos para su uso directo como Biocombustible o, en su caso, como insumo para la Producción de Biocombustibles;
+I. Impulsar la creación de empresas mexicanas cuyo objeto sea el aprovechamiento y valorización de los residuos orgánicos para su uso directo como [Biocombustible](articulo-2.md) o, en su caso, como insumo para la [Producción](articulo-2.md) de Biocombustibles;
 
 II. Impulsar la creación a nivel nacional de personal capacitado, recursos materiales y financieros, así como la estructura institucional específica para el desarrollo de actividades, las capacidades técnicas y de supervisión y control que les permitan asumir facultades que para tales efectos requiera la autoridad federal en materia de Biocombustibles;
 
-III. Aplicar criterios de sustentabilidad establecidos en la regulación aplicable para la producción de Biomasa en Suelos Marginales, el aprovechamiento y valorización de residuos orgánicos y el tratamiento de aguas residuales para su uso como Biocombustibles o para su Producción, el uso directo de Biomasa como Biocombustible, así como la Producción, Almacenamiento, Transporte, Comercialización, Distribución y Expendio al Público de Biocombustibles, a efecto de salvaguardar el medio ambiente y la seguridad y soberanía alimentaria y energética del país;
+III. Aplicar criterios de sustentabilidad establecidos en la regulación aplicable para la producción de [Biomasa](articulo-2.md) en [Suelos Marginales](articulo-2.md), el aprovechamiento y valorización de residuos orgánicos y el tratamiento de aguas residuales para su uso como Biocombustibles o para su Producción, el uso directo de Biomasa como Biocombustible, así como la Producción, [Almacenamiento](articulo-2.md), [Transporte](articulo-2.md), [Comercialización](articulo-2.md), [Distribución](articulo-2.md) y [Expendio al Público](articulo-2.md) de Biocombustibles, a efecto de salvaguardar el medio ambiente y la seguridad y soberanía alimentaria y energética del país;
 
 IV. Promover el aprovechamiento y valorización de residuos orgánicos y el tratamiento de aguas residuales para su uso como Biocombustibles o para su Producción, así como el uso directo de Biomasa como Biocombustible;
 

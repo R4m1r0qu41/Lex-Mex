@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título II
+
 # Artículo 10
 
 Las sociedades anónimas que se ubiquen en alguno de los supuestos siguientes, estarán sujetas a lo previsto en esta Ley:

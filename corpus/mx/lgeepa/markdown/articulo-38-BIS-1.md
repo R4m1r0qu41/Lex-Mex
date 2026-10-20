@@ -17,7 +17,7 @@ source_sha256: 0574853d06020030188e8aee1eae5dabb2b476ac630cc52be631a48d2b91adbc
 
 # Artículo 38 BIS 1
 
-La Secretaría pondrá los programas preventivos y correctivos derivados de las auditorías ambientales, así como el diagnóstico básico del cual derivan, a disposición de quienes resulten o puedan resultar directamente afectados.
+La [Secretaría](articulo-3o.md) pondrá los programas preventivos y correctivos derivados de las auditorías ambientales, así como el diagnóstico básico del cual derivan, a disposición de quienes resulten o puedan resultar directamente afectados.
 
 En todo caso, deberán observarse las disposiciones legales relativas a la confidencialidad de la información industrial y comercial.
 

@@ -17,4 +17,4 @@ source_sha256: 51dd3b9347aab0e63387e02f689edd4fa3ea43a93933a0027f9a9977fffba83d
 
 # Artículo 137
 
-Los escritos de oposición a los que se refiere el artículo [136](articulo-136.md) de este Reglamento, serán desechados de plano cuando sean presentados fuera del plazo previsto en la Ley.
+Los escritos de oposición a los que se refiere el artículo [136](articulo-136.md) de este [Reglamento](articulo-2.md), serán desechados de plano cuando sean presentados fuera del plazo previsto en la Ley.

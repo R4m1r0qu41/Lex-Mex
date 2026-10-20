@@ -18,5 +18,3 @@ source_sha256: cf8a5d05500ddbe21885db4a8f1128cf95b3aaab95b7982a47aa33baea652361
 # Artículo 90
 
 El endoso en propiedad de una letra de cambio, obliga al endosante solidariamente con los demás responsables del valor de la letra, observándose, en su caso, lo que dispone el párrafo final del artículo [34](articulo-34.md). Fe de erratas al artículo DOF 08-09-1932
-
-Sección Segunda De la Aceptación

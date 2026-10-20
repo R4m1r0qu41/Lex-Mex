@@ -17,4 +17,4 @@ source_sha256: 716e427a30e9982ccaa0576288aad2ad5305c624b236a0f342b6a87d60b7a9ed
 
 # Artículo 64
 
-El Consejo debe apoyar a la Secretaría en el desarrollo de las especificaciones técnicas relacionadas con la elaboración, entrega, control, protección y verificación de la calidad de los Registros e Información Geoespacial de los subsistemas durante su integración al Sistema Nacional de Información Energética, así como la periodicidad con la que deben ser entregadas.
+El [Consejo](articulo-5.md) debe apoyar a la [Secretaría](articulo-5.md) en el desarrollo de las especificaciones técnicas relacionadas con la elaboración, entrega, control, protección y verificación de la calidad de los [Registros e Información Geoespacial](articulo-5.md) de los subsistemas durante su integración al Sistema Nacional de Información Energética, así como la periodicidad con la que deben ser entregadas.

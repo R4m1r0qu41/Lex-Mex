@@ -19,6 +19,6 @@ source_sha256: 71ee875c26fc6a1024ea9481ca0690721959514689d860112c3093f0176dfcfb
 
 La solicitud de la declaratoria de alerta de violencia de género podrá ser presentada por los organismos de derechos humanos internacionales, nacional o de las entidades federativas, así como las organizaciones de la sociedad civil legalmente constituidas.
 
-La solicitud se presentará por escrito directamente o bien, a través de correo, ante la Secretaría Ejecutiva, quien revisará que dicha solicitud contenga los requisitos previstos en el [artículo siguiente](articulo-33.md) y lo hará del conocimiento de la Comisión Nacional.
+La solicitud se presentará por escrito directamente o bien, a través de correo, ante la [Secretaría Ejecutiva](articulo-2.md), quien revisará que dicha solicitud contenga los requisitos previstos en el [artículo siguiente](articulo-33.md) y lo hará del conocimiento de la [Comisión Nacional](articulo-2.md).
 
 Artículo reformado DOF 25-11-2013

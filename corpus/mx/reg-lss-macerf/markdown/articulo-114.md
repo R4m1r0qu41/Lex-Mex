@@ -17,4 +17,4 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 114
 
-Cuando el patrón tenga asignados varios registros patronales determinará y presentará por cada uno de ellos las cuotas correspondientes, en cédulas de determinación por separado, salvo los casos en que el Instituto autorice expresamente y por escrito, que se cumpla dicha obligación en forma diferente.
+Cuando el patrón tenga asignados varios registros patronales determinará y presentará por cada uno de ellos las cuotas correspondientes, en cédulas de determinación por separado, salvo los casos en que el [Instituto](../../lss/markdown/articulo-5-A.md) autorice expresamente y por escrito, que se cumpla dicha obligación en forma diferente.

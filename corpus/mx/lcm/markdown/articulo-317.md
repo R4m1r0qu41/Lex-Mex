@@ -17,4 +17,4 @@ source_sha256: 8e270686b885035488bfe310b0b42bb40e7154431794227ebe212dd7dc12e46a
 
 # Artículo 317
 
-La vacante de algún miembro de la Junta Directiva será cubierta mediante nueva designación conforme a lo dispuesto en el artículo [314](articulo-314.md) de esta Ley. Si la vacante se produce antes de la terminación del periodo respectivo, la persona que se designe para cubrirla durará en su encargo el tiempo que le faltare desempeñar a la sustituida.
+La vacante de algún miembro de la Junta Directiva será cubierta mediante nueva designación conforme a lo dispuesto en el artículo [314](articulo-314.md) de esta [Ley](articulo-4o.md). Si la vacante se produce antes de la terminación del periodo respectivo, la persona que se designe para cubrirla durará en su encargo el tiempo que le faltare desempeñar a la sustituida.

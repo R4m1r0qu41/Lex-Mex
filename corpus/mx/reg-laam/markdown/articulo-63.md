@@ -17,6 +17,6 @@ source_sha256: 8515c812258bcc7c342e8566ff623c7f5e880f2eb9ee2ad154758077089f11ca
 
 # Artículo 63
 
-El examen médico se evaluará conforme a lo previsto en el Manual.
+El examen médico se evaluará conforme a lo previsto en el [Manual](articulo-5.md).
 
 Artículo reformado DOF 11-03-2016, 06-03-2020, 02-04-2026

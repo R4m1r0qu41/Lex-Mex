@@ -17,4 +17,4 @@ source_sha256: 23dcee090bbe0c4fb06c75d084cb65ce0b2e8f72a8d082e7059504412bde1614
 
 # Artículo 59
 
-Si la Secretaría tuviere elementos de que se configuran los supuestos a que se refieren los artículos [39](../../lfvv/markdown/articulo-39.md) y [40](../../lfvv/markdown/articulo-40.md) de la Ley, procederá de oficio sujetándose a lo prescrito en el [artículo anterior](articulo-58.md).
+Si la [Secretaría](articulo-2o.md) tuviere elementos de que se configuran los supuestos a que se refieren los artículos [39](../../lfvv/markdown/articulo-39.md) y [40](../../lfvv/markdown/articulo-40.md) de la [Ley](articulo-2o.md), procederá de oficio sujetándose a lo prescrito en el [artículo anterior](articulo-58.md).

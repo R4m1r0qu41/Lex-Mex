@@ -21,7 +21,7 @@ Son motivos de exclusión durante el proceso de selección:
 
 I. Presentar documentación apócrifa;
 
-II. Concursar para dos o más Instituciones Educativas en el mismo o diferente centro de evaluación;
+II. Concursar para dos o más [Instituciones Educativas](articulo-3.md) en el mismo o diferente centro de evaluación;
 
 III. No presentarse en la fecha, hora y lugar señalados para la aplicación de las evaluaciones;
 

@@ -17,4 +17,4 @@ source_sha256: 160e5e85efddb1749a79f6b154af31711a9b31a5e32bace3c07e2859c2620ecf
 
 # Artículo 104
 
-La Secretaría expedirá las Normas Oficiales Mexicanas y establecerá las medidas de diagnóstico, detección, erradicación, prevención, y control para evitar la introducción y dispersión de enfermedades, determinar y clasificar las patologías de alto riesgo; así como para evaluar los daños, restaurar las áreas afectadas y establecer procesos de seguimiento.
+La [Secretaría](articulo-4o.md) expedirá las [Normas](articulo-4o.md) Oficiales Mexicanas y establecerá las medidas de diagnóstico, detección, erradicación, prevención, y control para evitar la introducción y dispersión de enfermedades, determinar y clasificar las patologías de alto riesgo; así como para evaluar los daños, restaurar las áreas afectadas y establecer procesos de seguimiento.

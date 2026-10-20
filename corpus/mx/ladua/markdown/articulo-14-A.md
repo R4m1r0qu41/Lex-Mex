@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf
 source_sha256: 43927095d22ff7bc7780e78132d2160b5050b5f76026b539daec32be09d7341d
 ---
 
+> Título Segundo · Capítulo I
+
 # Artículo 14-A
 
 Los particulares que tengan el uso o goce de un inmueble colindante con un recinto fiscal o fiscalizado, incluso a través de una ruta confinada o de un inmueble ubicado dentro o colindante a un recinto portuario, incluida su zona de desarrollo, tratándose de aduanas marítimas, fronterizas, interiores de tráfico ferroviario o aéreo, podrán solicitar al Servicio de Administración Tributaria la autorización para prestar los servicios de manejo, almacenaje y custodia de mercancías, en cuyo caso el inmueble donde se presten dichos servicios se denominará recinto fiscalizado autorizado. Párrafo reformado DOF 30-12-2002, 09-12-2013, 25-06-2018

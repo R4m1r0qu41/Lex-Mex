@@ -17,4 +17,4 @@ source_sha256: 70464807d63da08244e495f2ff0ac30b12b30119926b84cedc7930397fcb80ef
 
 # Artículo 165
 
-Los responsables del proceso de los productos a que se refiere el [artículo anterior](articulo-164.md) deberán presentar ante la Secretaría la información técnica de los resultados de estudios que sustenten su inocuidad y estabilidad. La comercialización de dichos productos estará sujeta a la evaluación que se haga de la información solicitada y, cuando proceda, también a los resultados del muestreo que realice la Secretaría.
+Los responsables del proceso de los productos a que se refiere el [artículo anterior](articulo-164.md) deberán presentar ante la [Secretaría](articulo-2o.md) la información técnica de los resultados de estudios que sustenten su inocuidad y estabilidad. La comercialización de dichos productos estará sujeta a la evaluación que se haga de la información solicitada y, cuando proceda, también a los resultados del muestreo que realice la Secretaría.

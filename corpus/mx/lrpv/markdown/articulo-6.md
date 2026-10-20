@@ -17,9 +17,9 @@ source_sha256: 0125eed7519ad260330f9a04f78c0e4a1ce93c06e67c98ac3c535416787656ba
 
 # Artículo 6
 
-El Registro Público Vehicular tiene por objeto la identificación y control vehicular; en la que consten las inscripciones o altas, bajas, emplacamientos, infracciones, pérdidas, robos, recuperaciones y destrucción de los vehículos que se fabrican, ensamblan, importan o circulan en el territorio nacional, así como brindar servicios de información al público.
+El [Registro](articulo-2.md) Público Vehicular tiene por objeto la identificación y control vehicular; en la que consten las inscripciones o altas, bajas, emplacamientos, infracciones, pérdidas, robos, recuperaciones y destrucción de los vehículos que se fabrican, ensamblan, importan o circulan en el territorio nacional, así como brindar servicios de información al público.
 
-La Federación y las Entidades Federativas, en el ámbito de sus competencias, utilizarán el Registro con el fin de compartir e intercambiar la información disponible sobre el origen, destino, actos y hechos jurídicos y, en general, cualquier operación relacionada con los vehículos mencionados.
+La Federación y las [Entidades Federativas](articulo-2.md), en el ámbito de sus competencias, utilizarán el Registro con el fin de compartir e intercambiar la información disponible sobre el origen, destino, actos y hechos jurídicos y, en general, cualquier operación relacionada con los vehículos mencionados.
 
 La inscripción de vehículos, la presentación de avisos y las consultas en el Registro serán gratuitos.
 

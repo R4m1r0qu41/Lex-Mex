@@ -23,7 +23,7 @@ I. Renuncia;
 
 II. Sentencia ejecutoriada que origine la pérdida del beneficio;
 
-III. Llegar a la mayoría de edad los hijos pensionados, siempre que no estén incapacitados, legalmente imposibilitados de una manera permanente y total para ganarse la vida o estudiando; en este último caso, se amplía hasta los 25 años, en los términos señalados en el artículo [38](articulo-38.md) de esta Ley;
+III. Llegar a la mayoría de edad los hijos pensionados, siempre que no estén incapacitados, legalmente imposibilitados de una manera permanente y total para ganarse la vida o estudiando; en este último caso, se amplía hasta los 25 años, en los términos señalados en el artículo [38](articulo-38.md) de esta [Ley](articulo-4o.md);
 
 IV. Contraer matrimonio o vivir en concubinato el cónyuge supérstite, las hijas y hermanas solteras; o en nuevo concubinato la concubina y el concubinario; V. Tener descendencia la cónyuge o concubina, después de los trescientos días siguientes al fallecimiento del militar; y en cualquier momento después del deceso, el cónyuge o concubinario. Las hijas, hijos, hermanos y hermanas, en cualquier momento; Fracción adicionada DOF 20-11-2008
 

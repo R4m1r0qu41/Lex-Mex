@@ -17,6 +17,6 @@ source_sha256: 703f083c0baedfb4ef5ce8b62c78684d8ee0073f393321d476d75ebe4878e1d5
 
 # Artículo 21
 
-Las personas titulares de las Direcciones de las Instituciones Educativas y de las Jefaturas de Curso, deberán comprobar la autenticidad de los documentos que acrediten el nivel académico de las personas que soliciten causar alta como docentes.
+Las personas titulares de las Direcciones de las [Instituciones Educativas](articulo-3.md) y de las Jefaturas de Curso, deberán comprobar la autenticidad de los documentos que acrediten el nivel académico de las personas que soliciten causar alta como docentes.
 
 Artículo reformado DOF 20-03-2026

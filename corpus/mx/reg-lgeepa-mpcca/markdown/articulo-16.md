@@ -17,7 +17,7 @@ source_sha256: cf47ab93fdea40d2b3e41b58784df62f89dd90b4482dd3b7f25adc7f6957036b
 
 # Artículo 16
 
-Las emisiones de olores, gases, así como de partículas sólidas y liquidas a la atmósfera que se generen por fuentes fijas, no deberán exceder los niveles máximos permisibles de emisión e inmisión, por contaminantes y por fuentes de contaminación que se establezcan en las normas técnicas ecológicas que para tal efecto expida la Secretaría en coordinación con la Secretaría de Salud, con base en la determinación de los valores de concentración máxima permisible para el ser humano de contaminantes en el ambiente que esta última determina.
+Las emisiones de olores, gases, así como de partículas sólidas y liquidas a la atmósfera que se generen por fuentes fijas, no deberán exceder los niveles máximos permisibles de emisión e inmisión, por contaminantes y por fuentes de contaminación que se establezcan en las normas técnicas ecológicas que para tal efecto expida la [Secretaría](articulo-6o.md) en coordinación con la Secretaría de Salud, con base en la determinación de los valores de concentración máxima permisible para el ser humano de contaminantes en el ambiente que esta última determina.
 
 Asimismo, y tomando en cuenta la diversidad de tecnologías que presentan las fuentes, podrán establecerse en la norma técnica ecológica diferentes valores al determinar los niveles máximos permisibles de emisión o inmisión, para un mismo contaminante o para una misma fuente, según se trate de:
 

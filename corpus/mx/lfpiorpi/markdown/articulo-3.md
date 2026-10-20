@@ -21,7 +21,7 @@ I. Actividades Vulnerables, a las actividades que realicen las [Entidades Financ
 
 II. Avisos, a aquellos que deben presentarse en términos del artículo [17](articulo-17.md) de la presente Ley, así como a los reportes que deben presentar las entidades financieras en términos del artículo [15](articulo-15.md), fracción II, de esta Ley; III. Beneficiario Controlador, a la persona física o grupo de personas físicas que: Párrafo reformado DOF 16-07-2025
 
-a) Directamente o por medio de alguna persona Cliente o Usuaria obtiene, en última instancia, el beneficio de goce, uso, disfrute, aprovechamiento o disposición del bien o servicio derivado de la realización de un acto u operación con quien realice una Actividad Vulnerable, o Inciso reformado DOF 16-07-2025
+a) Directamente o por medio de alguna persona [Cliente o Usuaria](articulo-3.md) obtiene, en última instancia, el beneficio de goce, uso, disfrute, aprovechamiento o disposición del bien o servicio derivado de la realización de un acto u operación con quien realice una Actividad Vulnerable, o Inciso reformado DOF 16-07-2025
 
 b) Ejerce el control efectivo en última instancia de aquella persona moral que, en su carácter de Cliente o Usuaria, lleve a cabo actos u operaciones con quien realice una Actividad Vulnerable, así como las personas por cuenta de quienes celebra alguno de ellos. Párrafo reformado DOF 16-07-2025
 

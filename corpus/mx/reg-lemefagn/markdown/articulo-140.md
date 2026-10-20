@@ -17,7 +17,7 @@ source_sha256: 703f083c0baedfb4ef5ce8b62c78684d8ee0073f393321d476d75ebe4878e1d5
 
 # Artículo 140
 
-Son causas de baja de las Instituciones Educativas del Sistema Educativo Militar las siguientes: Párrafo reformado DOF 05-08-2024
+Son causas de baja de las [Instituciones Educativas](articulo-3.md) del [Sistema](articulo-3.md) Educativo Militar las siguientes: Párrafo reformado DOF 05-08-2024
 
 I. Haber terminado satisfactoriamente sus estudios;
 
@@ -111,6 +111,6 @@ d) En caso de que tengan más de un tatuaje, estos sean mayores al 10% de la sup
 
 XXIV. Realizarse perforaciones en cualquier parte del cuerpo, con excepción de las horadaciones lobulares permitidas al personal femenino, y Fracción adicionada DOF 05-08-2024
 
-XXV. Otras que señalen los reglamentos de las Instituciones Educativas y de las Jefaturas de cursos. Fracción adicionada DOF 05-08-2024
+XXV. Otras que señalen los reglamentos de las Instituciones Educativas y de las [Jefaturas de cursos](articulo-3.md). Fracción adicionada DOF 05-08-2024
 
 Las personas discentes que causen baja de las Instituciones Educativas podrán ser puestas a disposición de la dirección general del arma, del servicio o de Guardia Nacional que corresponda conforme a los estudios que se encontraban realizando, siempre que exista vacante y se consideren necesarios sus servicios. Asimismo, se les asignará el grado que corresponda en términos del artículo [16](articulo-16.md) de este Reglamento, con excepción de los que causen baja de conformidad con el inciso b) de la fracción V Bis del presente artículo, quienes quedarán con el grado de soldados. Párrafo adicionado DOF 27-01-2012. Reformado DOF 01-02-2023, 20-03-2026

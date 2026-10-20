@@ -17,4 +17,4 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 163
 
-El dictamen que elabore el contador público autorizado, con motivo de su revisión, y que se presente al Instituto, deberá contener carta de presentación firmada por el patrón o sujeto obligado, o su representante legal y por el contador público autorizado, opinión, anexos y documentación complementaria señalada en el artículo [166](articulo-166.md) de este Reglamento.
+El dictamen que elabore el contador público autorizado, con motivo de su revisión, y que se presente al [Instituto](../../lss/markdown/articulo-5-A.md), deberá contener carta de presentación firmada por el patrón o sujeto obligado, o su representante legal y por el contador público autorizado, opinión, anexos y documentación complementaria señalada en el artículo [166](articulo-166.md) de este Reglamento.

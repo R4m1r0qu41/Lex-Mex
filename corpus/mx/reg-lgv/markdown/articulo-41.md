@@ -33,7 +33,7 @@ V. Establecer, administrar, actualizar y resguardar el padrón de representantes
 
 VI. Solicitar información a las autoridades del Registro Civil o ministeriales sobre toda inhumación en fosa común o cremación de cadáveres de personas desconocidas;
 
-VII. Proponer al Pleno de la Comisión Ejecutiva, para su aprobación, el diseño del Formato, el cual deberá contener las características e información a que se refieren los artículos [98](../../lgv/markdown/articulo-98.md) y [99](../../lgv/markdown/articulo-99.md) de la Ley;
+VII. Proponer al Pleno de la Comisión Ejecutiva, para su aprobación, el diseño del [Formato](articulo-3.md), el cual deberá contener las características e información a que se refieren los artículos [98](../../lgv/markdown/articulo-98.md) y [99](../../lgv/markdown/articulo-99.md) de la Ley;
 
 VIII. Supervisar y coordinar, de acuerdo con los lineamientos que para tal efecto expida la Comisión Ejecutiva, la sistematización de la información que sea proporcionada por los registros de las entidades federativas y las autoridades competentes;
 
@@ -43,4 +43,4 @@ X. Brindar asesoría a las autoridades o instituciones para el correcto suminist
 
 XI. Promover y difundir la existencia del Registro, así como de las acciones necesarias para ingresar al mismo, en coordinación con las unidades administrativas competentes, y
 
-XII. Las demás que la Ley, el presente Reglamento y el Estatuto Orgánico le confieran y las que le encomiende el Pleno de la Comisión Ejecutiva.
+XII. Las demás que la Ley, el presente Reglamento y el [Estatuto Orgánico](articulo-3.md) le confieran y las que le encomiende el Pleno de la Comisión Ejecutiva.

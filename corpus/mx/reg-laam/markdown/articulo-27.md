@@ -17,7 +17,7 @@ source_sha256: 8515c812258bcc7c342e8566ff623c7f5e880f2eb9ee2ad154758077089f11ca
 
 # Artículo 27
 
-La Comisión Coordinadora es el órgano asesor que califica y selecciona al personal convocado desde Marinero hasta Capitán de Corbeta, a fin de proponer al Alto Mando a aquél que reúnan los requisitos para ser ascendido en términos de la Ley y del presente Reglamento, para lo cual ejercerá las atribuciones siguientes: Párrafo reformado DOF 11-03-2016
+La [Comisión Coordinadora](articulo-5.md) es el órgano asesor que califica y selecciona al personal convocado desde Marinero hasta Capitán de Corbeta, a fin de proponer al [Alto Mando](articulo-5.md) a aquél que reúnan los requisitos para ser ascendido en términos de la [Ley](articulo-5.md) y del presente Reglamento, para lo cual ejercerá las atribuciones siguientes: Párrafo reformado DOF 11-03-2016
 
 I. Formular y someter a aprobación del Alto Mando la planeación del concurso de selección y desarrollo del mismo, conforme a las disposiciones aplicables;
 
@@ -29,7 +29,7 @@ IV. Formular y actualizar los manuales y lineamientos de desarrollo del concurso
 
 V. Atender y resolver los casos imprevistos que se presenten en el concurso de selección;
 
-VI. Mantener informado a la Jefatura de Operaciones del cumplimiento y resultados del Concurso de Selección; Fracción reformada DOF 11-03-2016, 02-04-2026
+VI. Mantener informado a la [Jefatura de Operaciones](articulo-5.md) del cumplimiento y resultados del [Concurso de Selección](articulo-5.md); Fracción reformada DOF 11-03-2016, 02-04-2026
 
 VII. Determinar las especificaciones y valores de los conceptos y rubros a evaluar para la promoción por facultad del Alto Mando, y Fracción adicionada DOF 02-04-2026
 

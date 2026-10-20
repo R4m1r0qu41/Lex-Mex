@@ -17,4 +17,4 @@ source_sha256: 6680a58c98673518aee46582b3137d28987c275785d1f0c97295f0d89c4b692b
 
 # Artículo 78
 
-Los Guías de Turistas obtendrán una credencial expedida por la Secretaría, la cual surtirá efectos de acreditación para solicitar posteriormente su inscripción al Registro Nacional de Turismo.
+Los [Guías de Turistas](articulo-2.md) obtendrán una credencial expedida por la Secretaría, la cual surtirá efectos de acreditación para solicitar posteriormente su inscripción al Registro Nacional de [Turismo](articulo-2.md).

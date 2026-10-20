@@ -19,8 +19,8 @@ source_sha256: 96092a4581d4e87910eb58939da4045879e4fe613b12f4413d7392bcc2c6e884
 
 Los permisos son intransferibles.
 
-Los generales tendrán vigencia durante el año en que se expidan, y pueden ser revalidados a juicio de la Secretaría. Párrafo reformado DOF 29-05-2025
+Los generales tendrán vigencia durante el año en que se expidan, y pueden ser revalidados a juicio de la [Secretaría](articulo-1o-Bis.md). Párrafo reformado DOF 29-05-2025
 
 Los ordinarios y extraordinarios tendrán la vigencia que se señale en cada caso concreto.
 
-Los permisos deben ser revalidados de conformidad con los plazos y requisitos que se establecen en esta Ley y su Reglamento. Las personas titulares de los permisos y los solicitantes por primera vez se deben ajustar a la calendarización establecida en el propio reglamento para ingresar las solicitudes correspondientes. Párrafo adicionado DOF 29-05-2025
+Los permisos deben ser revalidados de conformidad con los plazos y requisitos que se establecen en esta [Ley](articulo-1o-Bis.md) y su [Reglamento](articulo-1o-Bis.md). Las personas titulares de los permisos y los solicitantes por primera vez se deben ajustar a la calendarización establecida en el propio reglamento para ingresar las solicitudes correspondientes. Párrafo adicionado DOF 29-05-2025

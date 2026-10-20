@@ -17,4 +17,4 @@ source_sha256: 1e7d06c67fac4c8a100d2bb2845cc765fba5e8ce09d27d30b2b44432ffeb8c41
 
 # Artículo 41
 
-En los casos de violencia sexual contra las mujeres, la asistencia médica será proporcionada por un médico especialista en ginecología, de sexo femenino o del sexo que la Víctima elija, o de cualquier otra especialidad que sea requerida y de conformidad con los principios establecidos en los protocolos con perspectiva de género en la materia.
+En los casos de violencia sexual contra las mujeres, la asistencia médica será proporcionada por un médico especialista en ginecología, de sexo femenino o del sexo que la [Víctima](articulo-5.md) elija, o de cualquier otra especialidad que sea requerida y de conformidad con los principios establecidos en los protocolos con perspectiva de género en la materia.

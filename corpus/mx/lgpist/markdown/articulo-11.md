@@ -17,4 +17,4 @@ source_sha256: 1e7d06c67fac4c8a100d2bb2845cc765fba5e8ce09d27d30b2b44432ffeb8c41
 
 # Artículo 11
 
-Las contravenciones a las disposiciones que prevé esta Ley cometidas por Servidores Públicos, serán sancionadas en términos de la legislación aplicable en materia de responsabilidad administrativa, civil, penal y, en su caso, política.
+Las contravenciones a las disposiciones que prevé esta [Ley](articulo-5.md) cometidas por [Servidores Públicos](articulo-5.md), serán sancionadas en términos de la legislación aplicable en materia de responsabilidad administrativa, civil, penal y, en su caso, política.

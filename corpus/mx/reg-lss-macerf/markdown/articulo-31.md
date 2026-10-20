@@ -17,6 +17,6 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 31
 
-Para efectos de establecer y mantener actualizado el Catálogo de Actividades de este Reglamento, el Instituto revisará las actividades patronales cuando lo considere conveniente, y podrá revisarlo por solicitud expresa de los patrones por conducto de sus representaciones ante el Consejo Técnico.
+Para efectos de establecer y mantener actualizado el Catálogo de Actividades de este Reglamento, el [Instituto](../../lss/markdown/articulo-5-A.md) revisará las actividades patronales cuando lo considere conveniente, y podrá revisarlo por solicitud expresa de los patrones por conducto de sus representaciones ante el Consejo Técnico.
 
 Dicha actualización se hará con base en los estudios técnicos y actuariales que realice el Instituto, en los términos y condiciones que al efecto determine el Consejo Técnico.

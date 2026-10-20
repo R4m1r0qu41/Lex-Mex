@@ -17,6 +17,6 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Artículo 84
 
-Las oficinas consulares de México deben recibir las solicitudes de búsqueda de los Familiares en México y remitirán sin dilación el Reporte a la Comisión Nacional de Búsqueda.
+Las oficinas consulares de México deben recibir las solicitudes de búsqueda de los [Familiares](articulo-4.md) en México y remitirán sin dilación el [Reporte](articulo-4.md) a la [Comisión Nacional de Búsqueda](articulo-4.md).
 
-Cuando la búsqueda requiera de diligencias en otro país, bien sea el de origen, el de tránsito o el de llegada de la persona migrante, se deberá activar el Mecanismo de Apoyo Exterior a fin de garantizar que la información y elementos probatorios que sean necesarios puedan ser tramitados de forma inmediata y efectiva a lo largo del proceso de búsqueda.
+Cuando la búsqueda requiera de diligencias en otro país, bien sea el de origen, el de tránsito o el de llegada de la persona migrante, se deberá activar el [Mecanismo de Apoyo Exterior](articulo-4.md) a fin de garantizar que la información y elementos probatorios que sean necesarios puedan ser tramitados de forma inmediata y efectiva a lo largo del proceso de búsqueda.

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo I
+
 # Artículo 446
 
 La autoridad jurisdiccional, en casos excepcionales, puede determinar los apoyos necesarios para personas de quienes no se pueda conocer su voluntad por ningún medio y no hayan designado apoyos ni hayan previsto su designación anticipada. Esta medida únicamente procederá después de haber realizado esfuerzos reales, considerables y pertinentes para conocer una manifestación de voluntad de la persona, y de haberle prestado las medidas de accesibilidad y ajustes razonables, y la designación de apoyos sea necesaria para el ejercicio y protección de sus derechos.

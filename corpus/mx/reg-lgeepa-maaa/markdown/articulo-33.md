@@ -13,12 +13,12 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGEEPA_MAAA_3110
 source_sha256: d50b44df321cf8be51375c07cee5dbcf03eac76df1cd11ab4bd777c9fce0f789
 ---
 
-> Capítulo SEGUNDO · Sección III
+> Capítulo SEGUNDO · Sección IV
 
 # Artículo 33
 
-La aprobación y acreditamiento de Auditores Ambientales se sujetará a lo establecido en la presente sección.
+La aprobación y acreditamiento de [Auditores Ambientales](articulo-2.md) se sujetará a lo establecido en la presente sección.
 
-El comité técnico de acreditamiento de Auditores Ambientales será el establecido para evaluar la acreditación de las unidades de verificación en términos de la Ley Federal sobre Metrología y Normalización, en el cual participará la Procuraduría. La resolución del comité a que se refiere el presente párrafo, será determinante para la aprobación del Auditor Ambiental por parte de la Procuraduría.
+El comité técnico de acreditamiento de Auditores Ambientales será el establecido para evaluar la acreditación de las unidades de verificación en términos de la [Ley](articulo-2.md) Federal sobre Metrología y Normalización, en el cual participará la [Procuraduría](articulo-2.md). La resolución del comité a que se refiere el presente párrafo, será determinante para la aprobación del Auditor Ambiental por parte de la Procuraduría.
 
-Los interesados en obtener la aprobación como Auditor Ambiental deberán presentar su solicitud, conforme a lo establecido en el artículo [34](articulo-34.md) del presente Reglamento y la convocatoria emitida por una entidad de acreditación y la Secretaría, por conducto de sus unidades administrativas competentes, la cual se publicará en el Diario Oficial de la Federación. Párrafo reformado DOF 31-10-2014
+Los interesados en obtener la aprobación como Auditor Ambiental deberán presentar su solicitud, conforme a lo establecido en el artículo [34](articulo-34.md) del presente Reglamento y la convocatoria emitida por una entidad de acreditación y la [Secretaría](articulo-2.md), por conducto de sus unidades administrativas competentes, la cual se publicará en el Diario Oficial de la Federación. Párrafo reformado DOF 31-10-2014

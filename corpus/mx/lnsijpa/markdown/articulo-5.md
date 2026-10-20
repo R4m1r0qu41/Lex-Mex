@@ -17,7 +17,7 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 # Artículo 5
 
-Grupos de edad Para la aplicación de esta Ley, se distinguirán los grupos etarios I, II y III:
+Grupos de edad Para la aplicación de esta [Ley](articulo-3.md), se distinguirán los grupos etarios I, II y III:
 
 I. De doce a menos de catorce años;
 

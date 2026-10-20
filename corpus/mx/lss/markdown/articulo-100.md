@@ -17,4 +17,4 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 100
 
-Cuando el Instituto hospitalice al asegurado, el subsidio establecido en el artículo [98](articulo-98.md) de esta Ley se pagará a él o a sus familiares derechohabientes señalados en el artículo [84](articulo-84.md) de este ordenamiento.
+Cuando el [Instituto](articulo-5-A.md) hospitalice al asegurado, el subsidio establecido en el artículo [98](articulo-98.md) de esta [Ley](articulo-5-A.md) se pagará a él o a sus familiares derechohabientes señalados en el artículo [84](articulo-84.md) de este ordenamiento.

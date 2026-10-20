@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CFPC.pdf
 source_sha256: db545f3918f1c1907dac23d6431d5076c8de91af1fbf97dcf5b5b2a68b165299
 ---
 
-> Título UNICO · Capítulo VI
+> Título Único · Capítulo IV
 
 # Artículo 609
 
@@ -22,5 +22,3 @@ Cuando una vez dictada la sentencia, alguna de las partes tenga conocimiento de 
 En el caso de la colectividad, la apelación podrá promoverla el representante cuya designación haya sido autorizada por el juez. En este supuesto, el juez hará del conocimiento de los hechos que correspondan al Ministerio Público.
 
 Artículo adicionado DOF 30-08-2011
-
-Capítulo V Medidas Precautorias Capítulo adicionado DOF 30-08-2011

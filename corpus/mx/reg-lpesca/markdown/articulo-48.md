@@ -17,4 +17,4 @@ source_sha256: e5c0ecb4328043b7090ee5d73e982d6a04410f1330f6fdb350a7a34527eb2e59
 
 # Artículo 48
 
-La Secretaría podrá concursar el otorgamiento de concesiones o permisos de especies pesqueras cuando se determine la apertura de nuevas pesquerías; se liberen concesiones o permisos de pesca comercial por caducidad, revocación o terminación del plazo para el cual fueron concedidos; o la solicitud de concesión o permiso se realice por más de dos personas, respecto de una zona o área de captura no concesionada o permisionada.
+La [Secretaría](articulo-2o.md) podrá concursar el otorgamiento de concesiones o permisos de especies pesqueras cuando se determine la apertura de nuevas pesquerías; se liberen concesiones o permisos de pesca comercial por caducidad, revocación o terminación del plazo para el cual fueron concedidos; o la solicitud de concesión o permiso se realice por más de dos personas, respecto de una zona o área de captura no concesionada o permisionada.

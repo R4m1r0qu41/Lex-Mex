@@ -17,7 +17,7 @@ source_sha256: 269e72195414406bcbd3e90ac40ec26e031a9ea519316c44ee30bdfdf3163059
 
 # Artículo 6o
 
-Todos los Bienes, activos y empresas asegurados, incluyendo los billetes y monedas de curso legal, divisas, metales preciosos, los bienes numismáticos o filatélicos y los Bienes con valor artístico o histórico, serán administrados por el Instituto.
+Todos los [Bienes](articulo-2o.md), activos y empresas asegurados, incluyendo los billetes y monedas de curso legal, divisas, metales preciosos, los bienes numismáticos o filatélicos y los Bienes con valor artístico o histórico, serán administrados por el [Instituto](articulo-2o.md).
 
 La autoridad competente depositará el numerario asegurado, decomisado, abandonado y el que esté sujeto al procedimiento de extinción de dominio en las cuentas que para tal efecto el Instituto determine.
 

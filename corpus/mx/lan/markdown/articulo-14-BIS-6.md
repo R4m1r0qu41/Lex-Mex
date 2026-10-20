@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAN.pdf
 source_sha256: 4ef50d6b4b3a6ad0378720c5d49463b4f17d70d9de39f895ed5dae4d2e21736d
 ---
 
-> Título TERCERO
+> Título TERCERO · Capítulo Único
 
 # Artículo 14 BIS 6
 
@@ -36,5 +36,3 @@ VII. Los apoyos sociales para que las comunidades rurales y urbanas marginadas a
 VIII. El Sistema Nacional de Información sobre cantidad, calidad, usos y conservación del Agua.
 
 Artículo adicionado DOF 29-04-2004
-
-Sección Segunda Planificación y Programación Hídrica Sección adicionada DOF 29-04-2004

@@ -13,11 +13,13 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título VI · Capítulo II
+
 # Artículo 212
 
 Las casas de bolsa, en términos de las disposiciones de carácter general que emita la [Secretaría](articulo-2.md), escuchando la previa opinión de la [Comisión](articulo-2.md), estarán obligadas a:
 
-I. Establecer medidas y procedimientos para prevenir y detectar actos, omisiones u operaciones que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la comisión de los delitos previstos en los artículos 139 ó 148 Bis del Código Penal Federal o que pudieran ubicarse en los supuestos del artículo 400 Bis del mismo Código. Fracción reformada DOF 28-06-2007
+I. Establecer medidas y procedimientos para prevenir y detectar actos, omisiones u operaciones que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la comisión de los delitos previstos en los artículos [139](../../cpf/markdown/articulo-139.md) ó 148 Bis del Código Penal Federal o que pudieran ubicarse en los supuestos del artículo 400 Bis del mismo Código. Fracción reformada DOF 28-06-2007
 
 II. Presentar a la Secretaría, por conducto de la Comisión, reportes sobre:
 

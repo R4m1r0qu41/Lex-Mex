@@ -17,6 +17,6 @@ source_sha256: d8dd1de3627b899bb4faf31c2812c3d5f14f7108be153d5aa8dd549b9136184a
 
 # Artículo 66
 
-Cada entidad federativa creará y administrará un Fondo de Protección Civil, cuya finalidad será la de promover la capacitación, equipamiento y sistematización de las Unidades de Protección Civil de las entidades federativas, municipios y demarcaciones territoriales de la Ciudad de México.
+Cada entidad federativa creará y administrará un Fondo de [Protección Civil](articulo-2.md), cuya finalidad será la de promover la capacitación, equipamiento y sistematización de las [Unidades de Protección Civil](articulo-2.md) de las entidades federativas, municipios y demarcaciones territoriales de la Ciudad de México.
 
 Artículo reformado DOF 19-01-2018

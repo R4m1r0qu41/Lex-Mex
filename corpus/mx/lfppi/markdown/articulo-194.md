@@ -17,7 +17,7 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 194
 
-La solicitud de declaración de notoriedad o fama se hará con las formalidades que para las solicitudes y promociones están señaladas en esta Ley y su Reglamento, a la que se acompañarán los elementos probatorios que funden la petición y en la que se expresará cuando menos lo siguiente:
+La solicitud de declaración de notoriedad o fama se hará con las formalidades que para las solicitudes y promociones están señaladas en esta [Ley](articulo-4.md) y su Reglamento, a la que se acompañarán los elementos probatorios que funden la petición y en la que se expresará cuando menos lo siguiente:
 
 I.- Nombre, nacionalidad, domicilio, teléfono y correo electrónico de la persona solicitante y, en su caso, de su representante, y Fracción reformada DOF 03-04-2026
 

@@ -17,4 +17,4 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 290
 
-Las Confederaciones deberán integrar por cada miembro del Comité Técnico, un expediente que contendrá la documentación e información a que se refieren los Artículos [286](articulo-286.md), [289](articulo-289.md) y [291](articulo-291.md) de las presentes disposiciones.
+Las [Confederaciones](articulo-1.md) deberán integrar por cada miembro del Comité Técnico, un expediente que contendrá la documentación e información a que se refieren los Artículos [286](articulo-286.md), [289](articulo-289.md) y [291](articulo-291.md) de las presentes disposiciones.

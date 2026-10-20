@@ -21,7 +21,7 @@ Los titulares de concesiones y asignaciones mineras están obligados a conservar
 
 Las coordenadas que aparezcan en el título, serán las mismas que se aportaron en la solicitud de concesión o asignación minera, y prevalecerán sobre cualquier testimonial, descripción, dato u obra.
 
-Cuando derivado de las condiciones de trabajo se requiera destruir la mojonera que indica la posición del punto de partida de un lote minero, el interesado podrá hacerlo previo posicionamiento y construcción de una nueva mojonera, con las particularidades que señale el Manual. A estos efectos, el interesado deberá rendir un informe a la Secretaría, dentro de los veintiún días hábiles siguientes a la construcción de la nueva mojonera o señal, el cual deberá contener los siguientes requisitos:
+Cuando derivado de las condiciones de trabajo se requiera destruir la mojonera que indica la posición del punto de partida de un lote minero, el interesado podrá hacerlo previo posicionamiento y construcción de una nueva mojonera, con las particularidades que señale el [Manual](articulo-1o.md). A estos efectos, el interesado deberá rendir un informe a la [Secretaría](articulo-1o.md), dentro de los veintiún días hábiles siguientes a la construcción de la nueva mojonera o señal, el cual deberá contener los siguientes requisitos:
 
 I. Nombre del titular de la concesión;
 

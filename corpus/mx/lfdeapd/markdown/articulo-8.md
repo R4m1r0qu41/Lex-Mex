@@ -17,4 +17,4 @@ source_sha256: 4fadf9a6f2d22a9e48d8e29ed302456751da66eb723e0df1dc6ac45a5e4640b0
 
 # Artículo 8
 
-El procedimiento de Declaración Especial de Ausencia podrá solicitarse a partir de los tres meses de que se haya hecho la Denuncia de desaparición o la presentación de queja ante la Comisión Nacional de los Derechos Humanos.
+El procedimiento de [Declaración Especial de Ausencia](articulo-3.md) podrá solicitarse a partir de los tres meses de que se haya hecho la Denuncia de desaparición o la presentación de queja ante la Comisión Nacional de los Derechos Humanos.

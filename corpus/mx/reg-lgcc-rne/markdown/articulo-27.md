@@ -13,15 +13,17 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGCC_MRNE_281014
 source_sha256: 62420210c5aaffe687daf130a64ff506009625340c554bfb36d2f1b5dcac0192
 ---
 
+> Capítulo VI
+
 # Artículo 27
 
-Los promoventes para inscribir en el Registro los proyectos o acciones de Mitigación, reducción o absorción de Emisiones de Gases o Compuestos de Efecto Invernadero y comprobar que no incurre en una doble contabilidad, deberán presentar a la Secretaría lo siguiente:
+Los promoventes para inscribir en el [Registro](../../lgcc/markdown/articulo-3o.md) los proyectos o acciones de [Mitigación](../../lgcc/markdown/articulo-3o.md), reducción o absorción de [Emisiones](../../lgcc/markdown/articulo-3o.md) de Gases o Compuestos de Efecto Invernadero y comprobar que no incurre en una doble contabilidad, deberán presentar a la [Secretaría](../../lgcc/markdown/articulo-3o.md) lo siguiente:
 
 I. Datos generales de las partes involucradas en el desarrollo del proyecto:
 
-a. Nombre, denominación o razón social, domicilio, número de teléfono y dirección de correo electrónico, así como la firma del promovente; REGLAMENTO DE LA LEY GENERAL DE CAMBIO CLIMÁTICO EN MATERIA DEL REGISTRO NACIONAL DE EMISIONES b. Nombre, denominación o razón social, domicilio, número de teléfono y dirección de correo electrónico, así como las firmas de los asociados participantes, y
+a. Nombre, denominación o razón social, domicilio, número de teléfono y dirección de correo electrónico, así como la firma del promovente; b. Nombre, denominación o razón social, domicilio, número de teléfono y dirección de correo electrónico, así como las firmas de los asociados participantes, y
 
-c. Nombre, denominación o razón social, domicilio, número de teléfono y dirección de correo electrónico del Organismo acreditado y que esté aprobado por la Secretaría o por los organismos internacionales de los que los Estados Unidos Mexicanos sea parte;
+c. Nombre, denominación o razón social, domicilio, número de teléfono y dirección de correo electrónico del [Organismo](articulo-2.md) acreditado y que esté aprobado por la Secretaría o por los organismos internacionales de los que los Estados Unidos Mexicanos sea parte;
 
 II. Datos generales del Proyecto:
 

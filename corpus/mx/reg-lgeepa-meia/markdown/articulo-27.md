@@ -17,7 +17,7 @@ source_sha256: c7790df38b773b04e4769459d5fd49cca5b7a5b4955f7618632117275259071f
 
 # Artículo 27
 
-Cuando se realicen modificaciones al proyecto de obra o actividad durante el procedimiento de evaluación del impacto ambiental, el promovente deberá hacerlas del conocimiento de la Secretaría con el objeto de que ésta, en un plazo no mayor de diez días, proceda a:
+Cuando se realicen modificaciones al proyecto de obra o actividad durante el procedimiento de evaluación del impacto ambiental, el promovente deberá hacerlas del conocimiento de la [Secretaría](articulo-3o.md) con el objeto de que ésta, en un plazo no mayor de diez días, proceda a:
 
 I. Solicitar información adicional para evaluar los efectos al ambiente derivados de tales modificaciones, cuando éstas no sean significativas, o
 

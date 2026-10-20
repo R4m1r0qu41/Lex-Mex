@@ -17,4 +17,4 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 121
 
-Pensión temporal es la que otorgue el Instituto, con cargo a este seguro, por períodos renovables al asegurado en los casos de existir posibilidad de recuperación para el trabajo, o cuando por la continuación de una enfermedad no profesional se termine el disfrute del subsidio y la enfermedad persista. Es pensión definitiva la que corresponde al estado de invalidez que se estima de naturaleza permanente.
+Pensión temporal es la que otorgue el [Instituto](articulo-5-A.md), con cargo a este seguro, por períodos renovables al asegurado en los casos de existir posibilidad de recuperación para el trabajo, o cuando por la continuación de una enfermedad no profesional se termine el disfrute del subsidio y la enfermedad persista. Es pensión definitiva la que corresponde al estado de invalidez que se estima de naturaleza permanente.

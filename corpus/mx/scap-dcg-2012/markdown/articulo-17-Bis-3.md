@@ -22,7 +22,7 @@ La Sociedad, en el uso del [Identificador de Usuario](articulo-1.md) y los Facto
 
 I. Proveer lo necesario para impedir la lectura en la pantalla del [Dispositivo de Acceso](articulo-1.md), de la información de identificación y Autenticación proporcionada por el [Usuario](articulo-1.md), salvo que se trate de Servicio Telefónico de Audio Respuesta.
 
-En caso de que la tecnología utilizada en servicios de Pago Móvil no permita implementar lo señalado en el párrafo anterior y la información de los Factores de Autenticación se almacene en el dispositivo, la Sociedad podrá ofrecer tal servicio obteniendo la previa autorización de la Comisión, en cuya solicitud deberán exponer los controles que les permitirán a los Usuarios realizar operaciones de forma segura.
+En caso de que la tecnología utilizada en servicios de Pago Móvil no permita implementar lo señalado en el párrafo anterior y la información de los Factores de Autenticación se almacene en el dispositivo, la Sociedad podrá ofrecer tal servicio obteniendo la previa autorización de la [Comisión](articulo-1.md), en cuya solicitud deberán exponer los controles que les permitirán a los Usuarios realizar operaciones de forma segura.
 
 Asimismo, la Sociedad que obtenga la autorización a que se refiere el párrafo anterior, deberá prever que asumirá los riesgos y por lo tanto los costos de las operaciones realizadas a través de Pago Móvil que no cumplan con lo previsto en el primer párrafo de la presente fracción y que no sean reconocidas por los Usuarios. Las reclamaciones derivadas de estas operaciones deberán ser abonadas a los Usuarios a más tardar cuarenta y ocho horas posteriores a la reclamación.
 

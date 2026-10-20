@@ -19,7 +19,7 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 No podrá protegerse como denominación de origen o indicación geográfica lo siguiente:
 
-I.- El nombre que sea idéntico o semejante en grado de confusión a una denominación de origen o indicación geográfica protegida o al señalado en una solicitud de declaración en trámite presentada con anterioridad, aplicados a los mismos o similares productos, salvo resolución emitida por el Instituto que permita la coexistencia de dichos nombres;
+I.- El nombre que sea idéntico o semejante en grado de confusión a una denominación de origen o indicación geográfica protegida o al señalado en una solicitud de declaración en trámite presentada con anterioridad, aplicados a los mismos o similares productos, salvo resolución emitida por el [Instituto](articulo-4.md) que permita la coexistencia de dichos nombres;
 
 II.- El nombre técnico, genérico o de uso común de los productos que pretendan ampararse, así como aquella denominación que, en el lenguaje corriente o en las prácticas comerciales, se haya convertido en un elemento usual o genérico de los mismos;
 
@@ -33,4 +33,4 @@ V.- La que sea idéntica o semejante en grado de confusión a una solicitud de p
 
 VII.- La que constituya o contenga la designación de una variedad vegetal protegida o de una raza animal.
 
-Para efectos de las fracciones IV y V del presente artículo, quedan incluidos los registros o publicaciones a que se refiere el artículo [237](articulo-237.md) de esta Ley.
+Para efectos de las fracciones IV y V del presente artículo, quedan incluidos los registros o publicaciones a que se refiere el artículo [237](articulo-237.md) de esta [Ley](articulo-4.md).

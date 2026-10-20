@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo II
+
 # Artículo 486
 
 Tercería es la acción que deduce un tercero en un procedimiento previamente instaurado entre dos o más personas, con el objeto de coadyuvar o adherirse a las acciones del demandante o a las excepciones del demandado, o para excluir los derechos de ese tercero.

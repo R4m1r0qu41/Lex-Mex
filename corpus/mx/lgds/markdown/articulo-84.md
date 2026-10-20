@@ -17,7 +17,7 @@ source_sha256: 32822f50bb2de81185408f9450d61a49d678429c52c5379822a507c7027a5275
 
 # Artículo 84
 
-Corresponde a la Junta de Gobierno del Instituto, en materia de medición de la pobreza y la evaluación integral de la Política de Desarrollo Social, la emisión de recomendaciones, así como el despacho de los asuntos siguientes:
+Corresponde a la Junta de Gobierno del [Instituto](articulo-5.md), en materia de medición de la pobreza y la evaluación integral de la [Política de Desarrollo Social](articulo-5.md), la emisión de recomendaciones, así como el despacho de los asuntos siguientes:
 
 I. Aprobar los instrumentos, lineamientos, directrices y criterios técnicos a los que se refiere esta Ley, a propuesta de la Presidencia del Instituto;
 

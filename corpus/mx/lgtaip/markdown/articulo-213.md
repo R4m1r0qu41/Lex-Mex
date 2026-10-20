@@ -17,4 +17,4 @@ source_sha256: e81e23876bd08da81cb8392af7054f6187ad043ca8f965777b455f9d12554e8b
 
 # Artículo 213
 
-En las normas respectivas de las Autoridades garantes se precisará toda circunstancia relativa a la forma, términos y cumplimiento de los plazos a que se refiere el procedimiento sancionatorio previsto en esta Ley, incluyendo la presentación de pruebas y alegatos, la celebración de audiencias, el cierre de instrucción y la ejecución de sanciones. En todo caso, será supletorio a este procedimiento sancionador lo dispuesto en las leyes en materia de procedimiento administrativo del orden jurídico que corresponda.
+En las normas respectivas de las [Autoridades garantes](articulo-3.md) se precisará toda circunstancia relativa a la forma, términos y cumplimiento de los plazos a que se refiere el procedimiento sancionatorio previsto en esta [Ley](articulo-3.md), incluyendo la presentación de pruebas y alegatos, la celebración de audiencias, el cierre de instrucción y la ejecución de sanciones. En todo caso, será supletorio a este procedimiento sancionador lo dispuesto en las leyes en materia de procedimiento administrativo del orden jurídico que corresponda.

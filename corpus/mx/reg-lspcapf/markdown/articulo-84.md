@@ -15,6 +15,6 @@ source_sha256: b4a968d8e8c138ac2069f6afa0dc622178328df24f59cf58eddbab8efe4a7eff
 
 # Artículo 84
 
-La DGRH deberá informar al Registro de la separación de los servidores públicos de carrera, inclusive cuando ésta derive por jubilación, incapacidad parcial o total permanentes o supresión de puestos del Sistema.
+La [DGRH](articulo-2.md) deberá informar al Registro de la separación de los servidores públicos de carrera, inclusive cuando ésta derive por jubilación, incapacidad parcial o total permanentes o supresión de puestos del Sistema.
 
 Capítulo Décimo Quinto Del Subsistema de Control y Evaluación

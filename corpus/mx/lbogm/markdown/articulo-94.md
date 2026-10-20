@@ -17,4 +17,4 @@ source_sha256: b3c906475b455176de73da17f4f93a73f295965dc9bcca854b48417c7d4d3cfc
 
 # Artículo 94
 
-Una vez que la SSA reciba una solicitud de autorización, y siempre y cuando cumpla con la información y los requisitos establecidos en esta Ley, deberá remitirla al Registro, para su inscripción y publicidad respectivas.
+Una vez que la [SSA](articulo-3.md) reciba una solicitud de autorización, y siempre y cuando cumpla con la información y los requisitos establecidos en esta Ley, deberá remitirla al [Registro](articulo-3.md), para su inscripción y publicidad respectivas.

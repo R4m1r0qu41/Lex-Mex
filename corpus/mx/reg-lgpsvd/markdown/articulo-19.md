@@ -17,4 +17,4 @@ source_sha256: a1cc8f6043c35579235fd61d2e34977e1735af4ea6919d053f89462b97742335
 
 # Artículo 19
 
-La Secretaría de Salud en el ámbito de su competencia, llevará a cabo acciones encaminadas a promover y apoyar medidas tendientes a prevenir y combatir riesgos en materia de adicciones dirigidas principalmente a niños, niñas, jóvenes y adultos.
+La [Secretaría](articulo-3.md) de Salud en el ámbito de su competencia, llevará a cabo acciones encaminadas a promover y apoyar medidas tendientes a prevenir y combatir riesgos en materia de adicciones dirigidas principalmente a niños, niñas, jóvenes y adultos.

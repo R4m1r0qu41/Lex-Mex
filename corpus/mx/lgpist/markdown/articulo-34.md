@@ -17,4 +17,4 @@ source_sha256: 1e7d06c67fac4c8a100d2bb2845cc765fba5e8ce09d27d30b2b44432ffeb8c41
 
 # Artículo 34
 
-El Ministerio Público o la Víctima podrán solicitar la acumulación de procesos distintos de conformidad con lo previsto en el Código Nacional de Procedimientos Penales.
+El Ministerio Público o la [Víctima](articulo-5.md) podrán solicitar la acumulación de procesos distintos de conformidad con lo previsto en el Código Nacional de Procedimientos Penales.

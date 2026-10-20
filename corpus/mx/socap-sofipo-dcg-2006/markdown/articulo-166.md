@@ -18,4 +18,4 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 166
 
-El comité de riesgos podrá ajustar o, en su caso, autorizar se excedan los límites de exposición a riesgo, cuando las condiciones y el entorno de la Sociedad Financiera Popular así lo requiera, informando al Consejo de Administración oportunamente sobre el ejercicio de las facultades a que se hace mención.
+El comité de riesgos podrá ajustar o, en su caso, autorizar se excedan los límites de exposición a riesgo, cuando las condiciones y el entorno de la [Sociedad](articulo-1.md) Financiera Popular así lo requiera, informando al [Consejo de Administración](articulo-1.md) oportunamente sobre el ejercicio de las facultades a que se hace mención.

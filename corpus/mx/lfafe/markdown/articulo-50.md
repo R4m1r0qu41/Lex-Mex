@@ -17,11 +17,11 @@ source_sha256: 96092a4581d4e87910eb58939da4045879e4fe613b12f4413d7392bcc2c6e884
 
 # Artículo 50
 
-La Secretaría, así como las personas físicas y morales con permiso general vigente, pueden vender únicamente en total por persona: Párrafo reformado DOF 29-05-2025
+La [Secretaría](articulo-1o-Bis.md), así como las personas físicas y morales con permiso general vigente, pueden vender únicamente en total por persona: Párrafo reformado DOF 29-05-2025
 
 a).- Hasta 500 cartuchos calibre .22", con excepción de Magnum, Hornet y TCM. Inciso reformado DOF 29-05-2025
 
-b).- Hasta 1,000 cartuchos para escopeta de las permitidas por esta Ley. Inciso reformado DOF 29-05-2025
+b).- Hasta 1,000 cartuchos para escopeta de las permitidas por esta [Ley](articulo-1o-Bis.md). Inciso reformado DOF 29-05-2025
 
 c).- Se deroga. Inciso derogado DOF 29-05-2025
 

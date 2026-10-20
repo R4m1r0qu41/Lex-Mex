@@ -21,7 +21,7 @@ En el dictamen emitido por el contador público autorizado se considerarán cump
 
 I. Las relativas a la capacidad, independencia e imparcialidad profesionales del contador público cuando:
 
-a).- Su registro ante el Instituto se encuentre vigente, y
+a).- Su registro ante el [Instituto](../../lss/markdown/articulo-5-A.md) se encuentre vigente, y
 
 b).- No tenga impedimento;
 

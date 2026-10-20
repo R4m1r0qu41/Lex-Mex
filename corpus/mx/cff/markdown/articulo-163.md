@@ -22,5 +22,3 @@ Si durante el embargo, la persona con quien se entienda la diligencia no abriere
 En igual forma procederá el ejecutor cuando la persona con quien se entienda la diligencia no abriere los muebles en los que aquél suponga se guardan dinero, alhajas, objetos de arte u otros bienes embargables. Si no fuere factible romper o forzar las cerraduras el mismo ejecutor trabará embargo en los muebles cerrados y en su contenido, y los sellará y enviará en depósito a la oficina exactora, donde serán abiertos en el término de tres días por el deudor o por su representante legal y, en caso contrario por un experto designado por la propia oficina, en los términos del reglamento de este Código.
 
 Si no fuere factible romper o forzar las cerraduras de cajas u otros objetos unidos a un inmueble o de difícil transportación, el ejecutor trabará embargo sobre ellos y su contenido y los sellará; para su apertura se seguirá el procedimiento establecido en el párrafo anterior.
-
-Sección Tercera De la Intervención

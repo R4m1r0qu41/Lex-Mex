@@ -17,4 +17,4 @@ source_sha256: 716e427a30e9982ccaa0576288aad2ad5305c624b236a0f342b6a87d60b7a9ed
 
 # Artículo 19
 
-La Secretaría, a través del Consejo, puede solicitar apoyo a los Comités respecto de la planeación vinculante del Sector Energético o cualquier otro asunto dentro del ámbito de competencia de cada Comité.
+La [Secretaría](articulo-5.md), a través del [Consejo](articulo-5.md), puede solicitar apoyo a los [Comités](articulo-5.md) respecto de la planeación vinculante del Sector Energético o cualquier otro asunto dentro del ámbito de competencia de cada Comité.

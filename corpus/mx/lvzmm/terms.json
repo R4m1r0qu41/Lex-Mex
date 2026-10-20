@@ -1,1 +1,123 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lvzmm:term:desecho",
+    "term": "Desecho",
+    "instrument_id": "urn:lex-mx:federal:statute:lvzmm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lvzmm:article:2",
+    "fraction": "I",
+    "start_char": 51,
+    "end_char": 293,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lvzmm:term:dragado",
+    "term": "Dragado",
+    "instrument_id": "urn:lex-mx:federal:statute:lvzmm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lvzmm:article:2",
+    "fraction": "II",
+    "start_char": 293,
+    "end_char": 713,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lvzmm:term:incineracion",
+    "term": "Incineración",
+    "instrument_id": "urn:lex-mx:federal:statute:lvzmm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lvzmm:article:2",
+    "fraction": "III",
+    "start_char": 713,
+    "end_char": 1150,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lvzmm:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:statute:lvzmm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lvzmm:article:2",
+    "fraction": "IV",
+    "start_char": 1150,
+    "end_char": 1213,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lvzmm:term:otras-materias",
+    "term": "Otras materias",
+    "instrument_id": "urn:lex-mx:federal:statute:lvzmm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lvzmm:article:2",
+    "fraction": "V",
+    "start_char": 1213,
+    "end_char": 1302,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lvzmm:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:statute:lvzmm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lvzmm:article:2",
+    "fraction": "VI",
+    "start_char": 1302,
+    "end_char": 1345,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lvzmm:term:suspension",
+    "term": "Suspensión",
+    "instrument_id": "urn:lex-mx:federal:statute:lvzmm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lvzmm:article:2",
+    "fraction": "VII",
+    "start_char": 1345,
+    "end_char": 1604,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lvzmm:term:vigilancia",
+    "term": "Vigilancia",
+    "instrument_id": "urn:lex-mx:federal:statute:lvzmm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lvzmm:article:2",
+    "fraction": "VIII",
+    "start_char": 1604,
+    "end_char": 1842,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lvzmm:term:visita-de-inspeccion",
+    "term": "Visita de Inspección",
+    "instrument_id": "urn:lex-mx:federal:statute:lvzmm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lvzmm:article:2",
+    "fraction": "IX",
+    "start_char": 1842,
+    "end_char": 1981,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lvzmm:term:zona-de-tiro",
+    "term": "Zona de Tiro",
+    "instrument_id": "urn:lex-mx:federal:statute:lvzmm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lvzmm:article:2",
+    "fraction": "X",
+    "start_char": 1981,
+    "end_char": 2083,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lvzmm:term:zonas-marinas-mexicanas",
+    "term": "Zonas Marinas Mexicanas",
+    "instrument_id": "urn:lex-mx:federal:statute:lvzmm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lvzmm:article:2",
+    "fraction": "XI",
+    "start_char": 2083,
+    "end_char": 2156,
+    "basis": "express_definition"
+  }
+]

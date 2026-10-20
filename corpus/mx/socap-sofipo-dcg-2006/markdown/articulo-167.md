@@ -18,4 +18,4 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 167
 
-El comité de riesgos para llevar a cabo la administración de riesgos, se apoyará en personal especializado cuyo objeto será identificar, medir, vigilar e informar los riesgos cuantificables que enfrenta la Sociedad Financiera Popular en sus operaciones, tales como riesgos de crédito, de mercado y de liquidez. El personal responsable de la administración integral de riesgos será independiente de las unidades de negocios, a fin de evitar conflictos de intereses y asegurar una adecuada separación de responsabilidades.
+El comité de riesgos para llevar a cabo la administración de riesgos, se apoyará en personal especializado cuyo objeto será identificar, medir, vigilar e informar los riesgos cuantificables que enfrenta la [Sociedad](articulo-1.md) Financiera Popular en sus operaciones, tales como riesgos de crédito, de mercado y de liquidez. El personal responsable de la administración integral de riesgos será independiente de las unidades de negocios, a fin de evitar conflictos de intereses y asegurar una adecuada separación de responsabilidades.

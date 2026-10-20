@@ -17,4 +17,4 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 144
 
-En la observancia de lo dispuesto en la "Ley" y en relación con el artículo [139](articulo-139.md), fracción III, de este "Reglamento", la toma de muestras y el análisis de las mismas, deberán ajustarse a los procedimientos establecidos en las normas oficiales mexicanas y en su caso a lo que establezcan las condiciones particulares y los permisos que al efecto emita "La Comisión".
+En la observancia de lo dispuesto en la "[Ley](articulo-1o.md)" y en relación con el artículo [139](articulo-139.md), fracción III, de este "[Reglamento](articulo-1o.md)", la toma de muestras y el análisis de las mismas, deberán ajustarse a los procedimientos establecidos en las normas oficiales mexicanas y en su caso a lo que establezcan las condiciones particulares y los permisos que al efecto emita "[La Comisión](articulo-1o.md)".

@@ -17,7 +17,7 @@ source_sha256: 160e5e85efddb1749a79f6b154af31711a9b31a5e32bace3c07e2859c2620ecf
 
 # Artículo 119 Bis 1
 
-Para los efectos de este capítulo, son atribuciones de la Secretaría:
+Para los efectos de este capítulo, son atribuciones de la [Secretaría](articulo-4o.md):
 
 I. Determinar y establecer las medidas y criterios aplicables en materia de buenas prácticas que habrán de aplicarse en la producción primaria y el procesamiento primario de recursos, partes y derivados de origen pesquero y acuícola para consumo humano en establecimientos TIF, para reducir los contaminantes o riesgos que puedan estar presentes en éstos; así como aquellas medidas y criterios que conforme al principio de reciprocidad sean necesarios para reconocer las buenas prácticas equivalentes que apliquen otros países para el caso de recursos pesqueros y recursos acuícolas para consumo humano que se destinen al comercio exterior;
 
@@ -29,6 +29,6 @@ IV. Verificar e inspeccionar la aplicación de buenas prácticas en establecimie
 
 V. Fomentar y establecer los programas destinados a la prevención y control de contaminantes, a través de esquemas de buenas prácticas pesqueras y acuícolas y buenas prácticas de manufactura en las unidades dedicadas a la pesca y la acuacultura y en los establecimientos TIF dedicados al procesamiento primario de recursos, partes y derivados de origen pesquero y acuícola destinados a integrarse a la cadena alimenticia para consumo humano.
 
-Las atribuciones y facultades previstas en este artículo serán realizadas y ejercidas por la Secretaría a través del SENASICA. Lo anterior, sin perjuicio de las atribuciones y facultades que le corresponden a la Secretaría de Salud en materia de control sanitario de productos y servicios, cuyo ejercicio se realizará por dicha Secretaría conforme a las disposiciones de salubridad general.
+Las atribuciones y facultades previstas en este artículo serán realizadas y ejercidas por la Secretaría a través del [SENASICA](articulo-4o.md). Lo anterior, sin perjuicio de las atribuciones y facultades que le corresponden a la Secretaría de Salud en materia de control sanitario de productos y servicios, cuyo ejercicio se realizará por dicha Secretaría conforme a las disposiciones de salubridad general.
 
 Artículo adicionado DOF 30-05-2012

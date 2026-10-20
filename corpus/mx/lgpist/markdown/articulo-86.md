@@ -17,4 +17,4 @@ source_sha256: 1e7d06c67fac4c8a100d2bb2845cc765fba5e8ce09d27d30b2b44432ffeb8c41
 
 # Artículo 86
 
-La Comisión Ejecutiva y las Comisiones de Atención a Víctimas, deberán proporcionar en el ámbito de sus facultades y atribuciones, medidas de ayuda, asistencia y atención por sí mismas, o en coordinación con otras instituciones competentes, en los términos de lo previsto en el presente Título y en la Ley General de Víctimas. Para los efectos de este Título, se considerarán Víctimas a las personas a las que se refiere el artículo [4](../../lgv/markdown/articulo-4.md) de la Ley General de Víctimas.
+La [Comisión Ejecutiva](articulo-5.md) y las [Comisiones de Atención a Víctimas](articulo-5.md), deberán proporcionar en el ámbito de sus facultades y atribuciones, medidas de ayuda, asistencia y atención por sí mismas, o en coordinación con otras instituciones competentes, en los términos de lo previsto en el presente Título y en la [Ley](articulo-5.md) General de [Víctimas](articulo-5.md). Para los efectos de este Título, se considerarán Víctimas a las personas a las que se refiere el artículo [4](../../lgv/markdown/articulo-4.md) de la Ley General de Víctimas.

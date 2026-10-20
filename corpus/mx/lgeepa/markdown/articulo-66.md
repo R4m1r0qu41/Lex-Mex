@@ -31,6 +31,6 @@ VI.- Los inventarios biológicos existentes y los que se prevea realizar, y
 
 VII.- Las reglas de carácter administrativo a que se sujetarán las actividades que se desarrollen en el área natural protegida de que se trate.
 
-La Secretaría deberá publicar en el Diario Oficial de la Federación, un resumen del programa de manejo respectivo y el plano de localización del área.
+La [Secretaría](articulo-3o.md) deberá publicar en el Diario Oficial de la Federación, un resumen del programa de manejo respectivo y el plano de localización del área.
 
 Artículo reformado DOF 13-12-1996

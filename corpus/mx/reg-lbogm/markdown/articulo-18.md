@@ -17,7 +17,7 @@ source_sha256: 667636f9e0ea65e72ac9d6d7b4d7563a183b75d0f140268a61929c74f5f88041
 
 # Artículo 18
 
-Conforme lo dispuesto en los artículos [46](../../lbogm/markdown/articulo-46.md) y [53](../../lbogm/markdown/articulo-53.md) de la Ley, los titulares del permiso de liberación experimental y liberación en programa piloto, deberán informar mediante un reporte a la Secretaría que expidió el permiso los resultados de las liberaciones realizadas en el momento que se establezca en los permisos correspondientes. El reporte contendrá lo siguiente:
+Conforme lo dispuesto en los artículos [46](../../lbogm/markdown/articulo-46.md) y [53](../../lbogm/markdown/articulo-53.md) de la [Ley](articulo-2.md), los titulares del permiso de liberación experimental y liberación en programa piloto, deberán informar mediante un reporte a la Secretaría que expidió el permiso los resultados de las liberaciones realizadas en el momento que se establezca en los permisos correspondientes. El reporte contendrá lo siguiente:
 
 I. Lineamientos del protocolo propuesto para la liberación experimental o en programa piloto;
 
@@ -35,4 +35,4 @@ VII. Efectos de las prácticas de uso y aprovechamiento, y
 
 VIII. En su caso, referencia bibliográfica sobre los datos presentados.
 
-En los permisos la Secretaría competente podrá establecer, caso por caso, requisitos específicos de contenido de reportes de resultados. Tratándose de liberaciones de OGMs que sean competencia de la SAGARPA, dicha Secretaría considerará lo que se establezca en el dictamen vinculante que emita la SEMARNAT conforme a la Ley y el presente Reglamento.
+En los permisos la [Secretaría competente](articulo-2.md) podrá establecer, caso por caso, requisitos específicos de contenido de reportes de resultados. Tratándose de liberaciones de OGMs que sean competencia de la SAGARPA, dicha Secretaría considerará lo que se establezca en el dictamen vinculante que emita la SEMARNAT conforme a la Ley y el presente Reglamento.

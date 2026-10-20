@@ -17,4 +17,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Artículo 64
 
-La Secretaría y la Secretaría de Hacienda y Crédito Público se deben coordinar para que, en ejercicio de las facultades referidas en el [artículo anterior](articulo-63.md) y durante la ejecución del contrato respectivo, los servicios de Comercialización atiendan siempre a lograr las mejores condiciones para el Estado, así como maximizar sus ingresos.
+La [Secretaría](articulo-3.md) y la Secretaría de Hacienda y Crédito Público se deben coordinar para que, en ejercicio de las facultades referidas en el [artículo anterior](articulo-63.md) y durante la ejecución del contrato respectivo, los servicios de Comercialización atiendan siempre a lograr las mejores condiciones para el Estado, así como maximizar sus ingresos.

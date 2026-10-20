@@ -17,6 +17,6 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 129
 
-También tendrán derecho a pensión los beneficiarios de un asegurado fallecido por causa distinta a un riesgo de trabajo que se encontrara disfrutando de una pensión por incapacidad permanente derivada de un riesgo igual, si aquél tuviera acreditado el pago al Instituto de un mínimo de ciento cincuenta cotizaciones semanales y hubiese causado baja en el régimen obligatorio, cualquiera que fuere el tiempo transcurrido desde la fecha de su baja.
+También tendrán derecho a pensión los beneficiarios de un asegurado fallecido por causa distinta a un riesgo de trabajo que se encontrara disfrutando de una pensión por incapacidad permanente derivada de un riesgo igual, si aquél tuviera acreditado el pago al [Instituto](articulo-5-A.md) de un mínimo de ciento cincuenta cotizaciones semanales y hubiese causado baja en el régimen obligatorio, cualquiera que fuere el tiempo transcurrido desde la fecha de su baja.
 
 Si el asegurado disfrutaba de una pensión de incapacidad permanente total y fallece por causa distinta a un riesgo de trabajo, sin cumplir el requisito del párrafo anterior sus beneficiarios tendrán derecho a pensión, si la que gozó el fallecido no tuvo una duración mayor de cinco años.

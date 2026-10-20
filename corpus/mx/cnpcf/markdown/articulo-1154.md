@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Capítulo II · Sección Tercera
+
 # Artículo 1154
 
 Toda solicitud de restitución de una niña, niño o adolescente, proveniente del extranjero, se presentará, por conducto de la Secretaría de Relaciones Exteriores, la cual lo remitirá a la o las autoridades jurisdiccionales competentes.

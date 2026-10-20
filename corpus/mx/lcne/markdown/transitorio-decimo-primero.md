@@ -15,4 +15,4 @@ source_sha256: 7c13fd20564f1e7230268a0943cc226368b24c44886d6738c479f4c42cbe77de
 
 # Décimo Primero
 
-Los pagos de derechos, aprovechamientos o ingresos propios establecidos en favor de las Comisiones Reguladora de Energía y Nacional de Hidrocarburos, en la Ley Federal de Derechos o cualquier otro ordenamiento se entienden en favor de la Comisión o de la Secretaría, según corresponda.
+Los pagos de derechos, aprovechamientos o ingresos propios establecidos en favor de las [Comisiones](articulo-6.md) Reguladora de Energía y Nacional de Hidrocarburos, en la Ley Federal de Derechos o cualquier otro ordenamiento se entienden en favor de la Comisión o de la [Secretaría](articulo-6.md), según corresponda.

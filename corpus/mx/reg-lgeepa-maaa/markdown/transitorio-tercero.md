@@ -15,4 +15,4 @@ source_sha256: d50b44df321cf8be51375c07cee5dbcf03eac76df1cd11ab4bd777c9fce0f789
 
 # TERCERO
 
-Todas aquellas auditorías y renovaciones que se encuentren en desarrollo a la entrada en vigor del presente Reglamento, se concluirán en los términos del anterior Reglamento de la Ley General del Equilibrio Ecológico y Protección al Ambiente en materia de Auditoría Ambiental.
+Todas aquellas auditorías y renovaciones que se encuentren en desarrollo a la entrada en vigor del presente Reglamento, se concluirán en los términos del anterior Reglamento de la [Ley](articulo-2.md) General del Equilibrio Ecológico y Protección al Ambiente en materia de [Auditoría Ambiental](articulo-2.md).

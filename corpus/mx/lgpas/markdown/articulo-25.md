@@ -17,7 +17,7 @@ source_sha256: 160e5e85efddb1749a79f6b154af31711a9b31a5e32bace3c07e2859c2620ecf
 
 # Artículo 25
 
-En materia de pesca deportivo-recreativa, la Secretaría fomentará la práctica y el desarrollo de esta actividad, para lo cual, en coordinación con las dependencias y entidades competentes y con los sectores interesados:
+En materia de pesca deportivo-recreativa, la [Secretaría](articulo-4o.md) fomentará la práctica y el desarrollo de esta actividad, para lo cual, en coordinación con las dependencias y entidades competentes y con los sectores interesados:
 
 I. Promoverá la construcción de la infraestructura necesaria para esta actividad;
 

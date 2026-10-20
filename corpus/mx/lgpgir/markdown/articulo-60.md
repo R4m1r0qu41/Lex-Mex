@@ -17,4 +17,4 @@ source_sha256: b34326588bd6e7519e33411d3658239e3aefb56cef0fae5d775bc894af64a565
 
 # Artículo 60
 
-Los representantes de los distintos sectores sociales participarán en la formulación de los planes y acciones que conduzcan a la prevención, reducción o eliminación de emisiones de contaminantes orgánicos persistentes en el manejo de residuos, de conformidad a las disposiciones de esta Ley, y en cumplimiento a los convenios internacionales en la materia, de los que México sea parte.
+Los representantes de los distintos sectores sociales participarán en la formulación de los planes y acciones que conduzcan a la prevención, reducción o eliminación de emisiones de contaminantes orgánicos persistentes en el manejo de residuos, de conformidad a las disposiciones de esta [Ley](articulo-5.md), y en cumplimiento a los convenios internacionales en la materia, de los que México sea parte.

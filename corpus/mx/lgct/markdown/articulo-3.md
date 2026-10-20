@@ -17,4 +17,4 @@ source_sha256: 9f964bc5c075d7cf47e5e9df7c2fbe262eb5bd1794de9b230dbd72026a51ae5e
 
 # Artículo 3
 
-La concurrencia entre la federación y las entidades federativas en materia de la presente Ley se hará conforme a las disposiciones correspondientes de la Ley General de Salud.
+La concurrencia entre la federación y las entidades federativas en materia de la presente [Ley](articulo-6.md) se hará conforme a las disposiciones correspondientes de la Ley General de Salud.

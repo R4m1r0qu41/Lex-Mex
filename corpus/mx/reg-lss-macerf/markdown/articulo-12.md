@@ -17,10 +17,10 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 12
 
-Cualquier persona física o moral estará obligada a registrarse como patrón o sujeto obligado ante el Instituto a partir de que:
+Cualquier persona física o moral estará obligada a registrarse como patrón o sujeto obligado ante el [Instituto](../../lss/markdown/articulo-5-A.md) a partir de que:
 
 I. Empiece a utilizar los servicios de uno o varios trabajadores;
 
 II. Se constituya como sociedad cooperativa;
 
-III. Inicie vigencia su convenio de incorporación celebrado con el Instituto, y REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN IV. Inicie vigencia el Decreto de incorporación que expida el Ejecutivo Federal en términos de la fracción III del artículo [12](../../lss/markdown/articulo-12.md) de la Ley.
+III. Inicie vigencia su convenio de incorporación celebrado con el Instituto, y REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN IV. Inicie vigencia el Decreto de incorporación que expida el Ejecutivo Federal en términos de la fracción III del artículo [12](../../lss/markdown/articulo-12.md) de la [Ley](../../lss/markdown/articulo-5-A.md).

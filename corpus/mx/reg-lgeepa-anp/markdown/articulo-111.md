@@ -17,4 +17,4 @@ source_sha256: 4e276866fce1638948a6daf1a5c0438fa412554f1a6e0381cbdf7cb300e3db75
 
 # Artículo 111
 
-Cualquier persona física o moral, interesada en la conservación y el aprovechamiento sustentable de los recursos naturales ubicados en áreas naturales protegidas, podrá presentar una propuesta sobre instrumentos económicos que deberá de ir acompañada de un estudio técnico que justifique y oriente el uso de estos instrumentos, dicho estudio deberá ser realizado con base en el manual que para tal efecto expida la Secretaría.
+Cualquier persona física o moral, interesada en la conservación y el aprovechamiento sustentable de los recursos naturales ubicados en áreas naturales protegidas, podrá presentar una propuesta sobre instrumentos económicos que deberá de ir acompañada de un estudio técnico que justifique y oriente el uso de estos instrumentos, dicho estudio deberá ser realizado con base en el manual que para tal efecto expida la [Secretaría](articulo-3o.md).

@@ -17,9 +17,9 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 40
 
-El procedimiento para el concurso de las aguas a concesionarse o asignarse, a que se refiere el artículo [22](../../lan/markdown/articulo-22.md) de la "Ley", se desarrollará de la siguiente manera:
+El procedimiento para el concurso de las aguas a concesionarse o asignarse, a que se refiere el artículo [22](../../lan/markdown/articulo-22.md) de la "[Ley](articulo-1o.md)", se desarrollará de la siguiente manera:
 
-I. "La Comisión" expedirá la convocatoria correspondiente que será publicada en el Diario Oficial de la Federación, así como en un periódico de mayor circulación nacional y en uno de la localidad donde se encuentre el aprovechamiento;
+I. "[La Comisión](articulo-1o.md)" expedirá la convocatoria correspondiente que será publicada en el Diario Oficial de la Federación, así como en un periódico de mayor circulación nacional y en uno de la localidad donde se encuentre el aprovechamiento;
 
 II. En la convocatoria se especificarán, en su caso, los propósitos que persiguen las bases del concurso, los criterios de selección, plazo de ejecución para el desarrollo de los proyectos, vigencia y los requisitos que deberán satisfacer los interesados, y las condiciones para declarar desierto el concurso;
 

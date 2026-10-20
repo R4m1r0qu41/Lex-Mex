@@ -17,7 +17,7 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 298
 
-La autorización para usar una denominación de origen o indicación geográfica deberá ser solicitada ante el Instituto y se otorgará a toda persona física o moral que:
+La autorización para usar una denominación de origen o indicación geográfica deberá ser solicitada ante el [Instituto](articulo-4.md) y se otorgará a toda persona física o moral que:
 
 I.- Declare, bajo protesta de decir verdad, que se dedica directamente a la extracción, producción o elaboración, de los productos protegidos por la declaración;
 

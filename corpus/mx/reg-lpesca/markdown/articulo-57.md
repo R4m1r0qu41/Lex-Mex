@@ -17,7 +17,7 @@ source_sha256: e5c0ecb4328043b7090ee5d73e982d6a04410f1330f6fdb350a7a34527eb2e59
 
 # Artículo 57
 
-La Secretaría podrá otorgar las autorizaciones para recolectar del medio natural reproductores, larvas, postlarvas, crías, huevos, semillas, alevines o en cualquier otro estadio, para destinarlas al abasto de las actividades acuícolas exclusivamente a:
+La [Secretaría](articulo-2o.md) podrá otorgar las autorizaciones para recolectar del medio natural reproductores, larvas, postlarvas, crías, huevos, semillas, alevines o en cualquier otro estadio, para destinarlas al abasto de las actividades acuícolas exclusivamente a:
 
 I. Concesionarios o permisionarios de la pesca comercial de la especie de que se trate, que acrediten la existencia de un contrato de compraventa o pedido, celebrado con el acuacultor o representante del laboratorio al que proveerán de estos organismos;
 

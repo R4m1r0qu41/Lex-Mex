@@ -53,6 +53,6 @@ IV. Dos años:
 
 Cirugía ortopédica.
 
-Estos tiempos serán computados a partir de la fecha en que el asegurado y sus beneficiarios queden inscritos ante el Instituto. Transcurridos los mismos podrán hacer uso de las prestaciones en especie respecto de los padecimientos y tratamientos antes señalados.
+Estos tiempos serán computados a partir de la fecha en que el asegurado y sus beneficiarios queden inscritos ante el [Instituto](../../lss/markdown/articulo-5-A.md). Transcurridos los mismos podrán hacer uso de las prestaciones en especie respecto de los padecimientos y tratamientos antes señalados.
 
 La restricción para el otorgamiento de las prestaciones en especie respecto de los padecimientos y tratamientos enunciados en este artículo, no impide que el asegurado o sus beneficiarios hagan uso de dichas prestaciones por otro padecimiento o tratamiento diverso.

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Único · Capítulo IV
+
 # Artículo 1069
 
 En el supuesto de que ninguna de las partes exhiba el avalúo dentro del plazo señalado, cualquiera de ellas podrá presentarlo posteriormente. A partir de que se presente el primero, las demás partes tendrán un término común de diez días para exhibir el suyo.

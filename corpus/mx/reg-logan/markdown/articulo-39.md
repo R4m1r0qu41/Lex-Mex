@@ -17,4 +17,4 @@ source_sha256: 0ad7a7b6d7dffd7d9a582d74ebd6fc43e6baa79f71801a73dc70d1b77c414ded
 
 # Artículo 39
 
-La asamblea general sesionará legalmente con el cincuenta por ciento más uno de los socios debidamente acreditados por la misma, salvo en los casos previstos en los artículos [40](articulo-40.md) y [42](articulo-42.md) párrafo segundo de este Reglamento. Cualquier socio podrá reclamar el quórum cuando lo estime necesario.
+La asamblea general sesionará legalmente con el cincuenta por ciento más uno de los socios debidamente acreditados por la misma, salvo en los casos previstos en los artículos [40](articulo-40.md) y [42](articulo-42.md) párrafo segundo de este [Reglamento](articulo-2o.md). Cualquier socio podrá reclamar el quórum cuando lo estime necesario.

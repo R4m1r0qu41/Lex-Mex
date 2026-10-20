@@ -17,4 +17,4 @@ source_sha256: cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7
 
 # Artículo 6o
 
-El Ejecutivo Federal, a través de la Secretaría, podrá interpretar para efectos administrativos los preceptos de esta Ley.
+El Ejecutivo Federal, a través de la [Secretaría](articulo-2o.md), podrá interpretar para efectos administrativos los preceptos de esta Ley.

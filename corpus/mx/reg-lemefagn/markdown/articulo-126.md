@@ -17,4 +17,4 @@ source_sha256: 703f083c0baedfb4ef5ce8b62c78684d8ee0073f393321d476d75ebe4878e1d5
 
 # Artículo 126
 
-La selección del personal para ingresar al Sistema se llevará a cabo mediante la aplicación de los exámenes psicológico, médico, de capacidad física, cultural y otros determinados por la Secretaría.
+La selección del personal para ingresar al [Sistema](articulo-3.md) se llevará a cabo mediante la aplicación de los exámenes psicológico, médico, de capacidad física, cultural y otros determinados por la Secretaría.

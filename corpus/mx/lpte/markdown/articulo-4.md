@@ -17,4 +17,4 @@ source_sha256: c24aa3a57883383635d5271683dd76e561f21852328f0e89f6bf1c2a09aa2d41
 
 # Artículo 4
 
-La interpretación de esta Ley, para efectos administrativos, corresponde a la Secretaría. La Secretaría, la CONUEE, la Comisión Nacional de Energía y el Centro Nacional de Control de Energía, en el ámbito de sus atribuciones, pueden emitir las disposiciones de carácter general que sean necesarias para la aplicación de lo dispuesto en esta Ley.
+La interpretación de esta [Ley](articulo-3.md), para efectos administrativos, corresponde a la [Secretaría](articulo-3.md). La Secretaría, la [CONUEE](articulo-3.md), la Comisión Nacional de Energía y el Centro Nacional de Control de Energía, en el ámbito de sus atribuciones, pueden emitir las disposiciones de carácter general que sean necesarias para la aplicación de lo dispuesto en esta Ley.

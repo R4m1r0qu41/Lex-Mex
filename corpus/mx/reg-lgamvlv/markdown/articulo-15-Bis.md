@@ -17,7 +17,7 @@ source_sha256: 71ee875c26fc6a1024ea9481ca0690721959514689d860112c3093f0176dfcfb
 
 # Artículo 15 Bis
 
-El Modelo de Atención contendrá las siguientes acciones:
+El [Modelo](articulo-2.md) de Atención contendrá las siguientes acciones:
 
 I. Brindar servicios gratuitos de atención y apoyo, amplios e integrados que incluyan la ubicación accesible, líneas telefónicas de ayuda, centros de atención en crisis, apoyos al empleo y a la vivienda;
 

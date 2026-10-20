@@ -17,4 +17,4 @@ source_sha256: 43723ba379e128c1a1c1be4b085ecc870946cdec43d56f83e7314c077361368f
 
 # Artículo 58
 
-Los corredores están obligados a proporcionar de manera expedita la información y documentos que les requiera la Secretaría o cualquier otra autoridad competente de acuerdo con la ley.
+Los corredores están obligados a proporcionar de manera expedita la información y documentos que les requiera la [Secretaría](articulo-2o.md) o cualquier otra autoridad competente de acuerdo con la ley.

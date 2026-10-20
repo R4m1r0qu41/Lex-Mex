@@ -15,4 +15,4 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # PRIMERO
 
-El presente "Reglamento" entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+El presente "[Reglamento](articulo-1o.md)" entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.

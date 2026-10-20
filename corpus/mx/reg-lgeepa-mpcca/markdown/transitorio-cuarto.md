@@ -15,4 +15,4 @@ source_sha256: cf47ab93fdea40d2b3e41b58784df62f89dd90b4482dd3b7f25adc7f6957036b
 
 # CUARTO
 
-Los procedimientos y recursos administrativos que estuvieren en curso al entrar en vigor el Reglamento, se continuarán conforme a las disposiciones que les dieron origen.
+Los procedimientos y recursos administrativos que estuvieren en curso al entrar en vigor el [Reglamento](articulo-6o.md), se continuarán conforme a las disposiciones que les dieron origen.

@@ -19,25 +19,25 @@ source_sha256: 5a0e15e01ac963917e019e3cc4ad07e96d76cc6c82c8b4238dfbb3a58a146847
 
 En términos de las disposiciones jurídicas aplicables, a la Federación le corresponden las siguientes facultades en materia de humanidades, ciencias, tecnologías e innovación:
 
-I. Integrar, formular, conducir, ejecutar y evaluar la política nacional en la materia, conforme a los fines, principios y bases de las políticas públicas previstos en esta Ley;
+I. Integrar, formular, conducir, ejecutar y evaluar la política nacional en la materia, conforme a los fines, principios y bases de las políticas públicas previstos en esta [Ley](articulo-4.md);
 
-II. Coordinar la integración democrática de la Agenda Nacional, de conformidad con esta Ley;
+II. Coordinar la integración democrática de la [Agenda Nacional](articulo-4.md), de conformidad con esta Ley;
 
-III. Formular, aprobar, actualizar, ejecutar y evaluar el Programa Especial y los demás instrumentos de planeación estratégica y participativa que correspondan, conforme a los fines, principios y bases de las políticas públicas previstos en esta Ley;
+III. Formular, aprobar, actualizar, ejecutar y evaluar el [Programa Especial](articulo-4.md) y los demás instrumentos de planeación estratégica y participativa que correspondan, conforme a los fines, principios y bases de las políticas públicas previstos en esta Ley;
 
 IV. Promover la participación de los sectores social y privado, así como de la comunidad en los procesos de formulación, ejecución y evaluación de la política nacional en la materia; V. Definir los lineamientos programáticos y presupuestarios de las dependencias y entidades de la administración pública federal para fomentar, realizar o apoyar actividades en la materia;
 
 VI. Elaborar y aprobar el proyecto de presupuesto federal en la materia, así como evaluar la eficacia y eficiencia del gasto nacional correspondiente, sin perjuicio de lo establecido en otras disposiciones jurídicas aplicables;
 
-VII. Determinar los criterios para reconocer entidades paraestatales de la Administración Pública Federal como Centros Públicos, así como coordinarlos y garantizar su adecuada articulación;
+VII. Determinar los criterios para reconocer entidades paraestatales de la Administración Pública Federal como [Centros Públicos](articulo-4.md), así como coordinarlos y garantizar su adecuada articulación;
 
-VIII. Promover y apoyar en todo el país las actividades en materia de humanidades, ciencias, tecnologías e innovación, particularmente a través del Consejo Nacional y de los Centros Públicos;
+VIII. Promover y apoyar en todo el país las actividades en materia de humanidades, ciencias, tecnologías e innovación, particularmente a través del [Consejo Nacional](articulo-4.md) y de los Centros Públicos;
 
 IX. Garantizar el acceso universal al conocimiento humanístico y científico y a sus beneficios sociales;
 
 X. Establecer y operar los mecanismos e instrumentos públicos de fomento y apoyo a cargo del Gobierno Federal, de conformidad con esta Ley;
 
-XI. Establecer, administrar y operar el Sistema Nacional de Información;
+XI. Establecer, administrar y operar el [Sistema Nacional de Información](articulo-4.md);
 
 XII. Fomentar el diálogo, el intercambio y la cooperación internacionales en la materia;
 

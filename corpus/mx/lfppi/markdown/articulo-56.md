@@ -17,6 +17,6 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 56
 
-La persona titular de la patente después de otorgada ésta, podrá reclamar el pago de daños y perjuicios a terceras personas que antes del otorgamiento hubieren explotado sin su consentimiento la invención patentada, cuando dicha explotación se haya realizado después de la fecha en que surta efectos la publicación de la solicitud en términos del artículo [107](articulo-107.md) de esta Ley.
+La persona titular de la patente después de otorgada ésta, podrá reclamar el pago de daños y perjuicios a terceras personas que antes del otorgamiento hubieren explotado sin su consentimiento la invención patentada, cuando dicha explotación se haya realizado después de la fecha en que surta efectos la publicación de la solicitud en términos del artículo [107](articulo-107.md) de esta [Ley](articulo-4.md).
 
 Artículo reformado DOF 03-04-2026

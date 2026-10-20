@@ -25,4 +25,4 @@ II. La ejecución de obras destinadas a la prevención, conservación, protecci�
 
 III. Las medidas de emergencia que las autoridades apliquen en caso fortuito o fuerza mayor, tratándose de contaminación por residuos peligrosos, y
 
-IV. Las acciones de emergencia para contener los riesgos a la salud derivados del manejo de residuos. Las medidas, obras y acciones a que se refiere este artículo se deberán sujetar a los procedimientos que establezcan las leyes en la materia y al Reglamento de esta Ley.
+IV. Las acciones de emergencia para contener los riesgos a la salud derivados del manejo de residuos. Las medidas, obras y acciones a que se refiere este artículo se deberán sujetar a los procedimientos que establezcan las leyes en la materia y al [Reglamento](articulo-5.md) de esta [Ley](articulo-5.md).

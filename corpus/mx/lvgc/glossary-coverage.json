@@ -1,0 +1,12 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-3",
+  "instrument_id": "urn:lex-mx:federal:statute:lvgc",
+  "source_sha256": "a4becbaa8039573e226e916618697661f1294aa26dac434a01144ba65b13699e",
+  "extracted_text_sha256": "4ea5d93583547f50a837527f042a18c95252e7eb9d560e668936ec1eb0a15329",
+  "status": "none_detected",
+  "glossaries": [],
+  "imports": [],
+  "term_count": 0,
+  "usage_count": 0
+}

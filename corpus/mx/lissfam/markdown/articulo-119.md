@@ -17,6 +17,6 @@ source_sha256: 35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc
 
 # Artículo 119
 
-El Instituto sólo podrá realizar con cargo al fondo, las inversiones en los bienes muebles o inmuebles estrictamente necesarios para el cumplimiento de los fines del mismo fondo.
+El [Instituto](articulo-4o.md) sólo podrá realizar con cargo al fondo, las inversiones en los bienes muebles o inmuebles estrictamente necesarios para el cumplimiento de los fines del mismo fondo.
 
 En caso de adjudicación o de recepción en pago de bienes inmuebles, el Instituto deberá venderlos en el término de seis meses.

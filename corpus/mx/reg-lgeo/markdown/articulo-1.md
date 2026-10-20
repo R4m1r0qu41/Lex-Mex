@@ -17,4 +17,4 @@ source_sha256: b19bcf104673af06117a6d4f3c947591f7a65999f19bad3dcfe2599a29bb3ab0
 
 # Artículo 1
 
-El presente Reglamento es de observancia general en los Estados Unidos Mexicanos y tiene por objeto establecer las disposiciones en las materias que regula la Ley de Geotermia, así como regular las actividades de Exploración, Explotación y Usos Diversos para el aprovechamiento geotérmico.
+El presente [Reglamento](articulo-3.md) es de observancia general en los Estados Unidos Mexicanos y tiene por objeto establecer las disposiciones en las materias que regula la [Ley](articulo-3.md) de Geotermia, así como regular las actividades de Exploración, Explotación y Usos Diversos para el aprovechamiento geotérmico.

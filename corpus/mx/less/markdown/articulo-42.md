@@ -17,7 +17,7 @@ source_sha256: 74f2c47c7a9282194b2972ec1366352d94f03042c6d0c7f10efde018cb9e3bfb
 
 # Artículo 42
 
-Los Organismos del Sector; siempre que la legislación específica en la materia de la actividad económica que desarrollen, su objeto social y su naturaleza legal se los permita, podrán desarrollar las siguientes actividades económicas:
+Los [Organismos del Sector](articulo-5o.md); siempre que la legislación específica en la materia de la actividad económica que desarrollen, su objeto social y su naturaleza legal se los permita, podrán desarrollar las siguientes actividades económicas:
 
 I. Producción, prestación y comercialización de bienes y servicios;
 

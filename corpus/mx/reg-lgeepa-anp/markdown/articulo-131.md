@@ -17,7 +17,7 @@ source_sha256: 4e276866fce1638948a6daf1a5c0438fa412554f1a6e0381cbdf7cb300e3db75
 
 # Artículo 131
 
-Los niveles de certificación que podrá establecer la Comisión a los predios destinados voluntariamente a la conservación serán:
+Los niveles de certificación que podrá establecer la [Comisión](articulo-3o.md) a los predios destinados voluntariamente a la conservación serán:
 
 I. Prioritario: cuando los predios presenten siete o más de los aspectos señalados en el [artículo anterior](articulo-130.md);
 
@@ -27,6 +27,6 @@ III. Básico: cuando los predios presenten al menos tres de los aspectos señala
 
 La Comisión realizará la ponderación en términos del [artículo anterior](articulo-130.md), y asignará a cada certificado expedido el nivel de certificación que le corresponda, e incluirá el dictamen que emitió para determinar dicho nivel en el expediente respectivo de cada predio destinado voluntariamente a la conservación.
 
-Durante el mes de junio de cada año, la Comisión publicará en su página web un listado que contendrán los datos a que se refiere el artículo [77 BIS](../../lgeepa/markdown/articulo-77-BIS.md), fracción II, de la Ley y el nivel establecido a los certificados que hubiera expedido.
+Durante el mes de junio de cada año, la Comisión publicará en su página web un listado que contendrán los datos a que se refiere el artículo [77 BIS](../../lgeepa/markdown/articulo-77-BIS.md), fracción II, de la [Ley](articulo-3o.md) y el nivel establecido a los certificados que hubiera expedido.
 
 Artículo reformado DOF 21-05-2014

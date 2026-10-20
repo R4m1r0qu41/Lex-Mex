@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf
 source_sha256: 43927095d22ff7bc7780e78132d2160b5050b5f76026b539daec32be09d7341d
 ---
 
+> Título Segundo · Capítulo II
+
 # Artículo 25
 
 Las mercancías que se encuentren en depósito ante la aduana podrán ser motivo de actos de conservación, examen y toma de muestras, siempre que no se altere o modifique su naturaleza o las bases gravables para fines aduaneros. La autoridad aduanera podrá autorizar la toma de muestras, caso en el cual se pagarán las contribuciones y cuotas compensatorias que a ellas correspondan.

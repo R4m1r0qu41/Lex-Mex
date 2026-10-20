@@ -17,7 +17,7 @@ source_sha256: 8515c812258bcc7c342e8566ff623c7f5e880f2eb9ee2ad154758077089f11ca
 
 # Artículo 104
 
-La designación y evaluación del trabajo tipo tesis será responsabilidad de la Jefatura de Operaciones, debiendo para ello: Párrafo reformado DOF 02-04-2026
+La designación y evaluación del trabajo tipo tesis será responsabilidad de la [Jefatura de Operaciones](articulo-5.md), debiendo para ello: Párrafo reformado DOF 02-04-2026
 
 I. Designar los temas de investigación acorde al Cuerpo o Servicio;
 

@@ -17,4 +17,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Artículo 250
 
-La Secretaría y la Comisión para el otorgamiento de Asignaciones, Contratos, permisos y autorizaciones, en el ámbito de sus competencias, deben considerar lo establecido en los instrumentos de planeación del sector energético aplicables y el cumplimiento de las disposiciones administrativas de carácter general para la planeación vinculante que expida la Secretaría.
+La [Secretaría](articulo-3.md) y la [Comisión](articulo-3.md) para el otorgamiento de Asignaciones, Contratos, permisos y autorizaciones, en el ámbito de sus competencias, deben considerar lo establecido en los instrumentos de planeación del sector energético aplicables y el cumplimiento de las disposiciones administrativas de carácter general para la planeación vinculante que expida la Secretaría.

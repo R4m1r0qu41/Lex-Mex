@@ -19,7 +19,7 @@ source_sha256: 9816ce7f9d6b9b1781eb9935869bd45677c60d721d3352865b6524c2e75db8cd
 
 Las convocatorias podrán referirse a uno o más bienes y contendrán, en lo aplicable, lo siguiente:
 
-I. Mención referente a que el Instituto convoca a la subasta pública;
+I. Mención referente a que el [Instituto](../../lss/markdown/articulo-5-A.md) convoca a la subasta pública;
 
 II. La fecha, hora y lugar para la presentación de posturas, y celebración de la subasta pública, así como el plazo, horario y lugar de presentación física del bien y, en su caso, el señalamiento de que el procedimiento de subasta pública se realizará a través de medios electrónicos.
 
@@ -29,7 +29,7 @@ III. La indicación de que ninguna de las condiciones de la convocatoria podrán
 
 IV. La descripción general, cantidad y unidad de medida de los bienes que sean objeto de la subasta pública, incluyendo su valor base de enajenación, el cual no podrá ser menor al señalado en el avalúo correspondiente. De ser necesario, las fotografías, planos, diagramas, descripción del área construida e instalaciones incorporadas, que permitan identificarlos individualmente, así como la información específica respecto a su estado de conservación;
 
-V. El lugar, horario y plazo en el que la Delegación realizará la entrega del bien, precisando que si transcurrido el plazo de un mes para la entrega del bien o bienes, no son retirados los bienes, el Instituto procederá en términos del artículo [57](articulo-57.md), del presente Reglamento;
+V. El lugar, horario y plazo en el que la [Delegación](articulo-2.md) realizará la entrega del bien, precisando que si transcurrido el plazo de un mes para la entrega del bien o bienes, no son retirados los bienes, el Instituto procederá en términos del artículo [57](articulo-57.md), del presente [Reglamento](articulo-2.md);
 
 VI. Las condiciones de pago;
 

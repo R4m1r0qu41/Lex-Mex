@@ -17,6 +17,6 @@ source_sha256: 96092a4581d4e87910eb58939da4045879e4fe613b12f4413d7392bcc2c6e884
 
 # Artículo 17
 
-Toda persona que adquiera una o más armas está obligada a manifestarlo a la Secretaría en un término de treinta días naturales a partir de la adquisición. La manifestación se hará por escrito, indicando, tipo, calibre, marca, modelo, matrícula y uso.
+Toda persona que adquiera una o más armas está obligada a manifestarlo a la [Secretaría](articulo-1o-Bis.md) en un término de treinta días naturales a partir de la adquisición. La manifestación se hará por escrito, indicando, tipo, calibre, marca, modelo, matrícula y uso.
 
 Artículo reformado DOF 08-02-1985, 29-05-2025

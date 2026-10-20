@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 89
 
-Además de los lineamientos mínimos establecidos en las fracciones I a VI del artículo [88](articulo-88.md) anterior, las Sociedades Financieras Populares deberán delimitar las distintas funciones y responsabilidades en el desarrollo de la actividad crediticia, procurando en todo momento la independencia en sus actividades para evitar conflictos de interés, tomando en cuenta, entre otras, las medidas siguientes:
+Además de los lineamientos mínimos establecidos en las fracciones I a VI del artículo [88](articulo-88.md) anterior, las [Sociedades](articulo-1.md) Financieras Populares deberán delimitar las distintas funciones y responsabilidades en el desarrollo de la actividad crediticia, procurando en todo momento la independencia en sus actividades para evitar conflictos de interés, tomando en cuenta, entre otras, las medidas siguientes:
 
 I. El establecimiento de estrategias, políticas y procedimientos de crédito, así como su implementación;
 

@@ -21,7 +21,7 @@ Los acreedores podrán solicitar el reconocimiento de sus créditos:
 
 I. Dentro de los veinte días naturales siguientes a la fecha de la publicación de la sentencia de concurso mercantil en el Diario Oficial de la Federación; Fracción reformada DOF 27-12-2007
 
-II. Dentro del plazo para formular objeciones a la lista provisional a que se refiere el artículo [129](articulo-129.md) de esta Ley, y III. Dentro del plazo para la interposición del recurso de apelación a la sentencia de reconocimiento, graduación y prelación de créditos.
+II. Dentro del plazo para formular objeciones a la lista provisional a que se refiere el artículo [129](articulo-129.md) de esta [Ley](articulo-4o.md), y III. Dentro del plazo para la interposición del recurso de apelación a la sentencia de reconocimiento, graduación y prelación de créditos.
 
 Transcurrido el plazo de la fracción III, no podrá exigirse reconocimiento de crédito alguno.
 

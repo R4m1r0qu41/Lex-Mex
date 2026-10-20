@@ -17,4 +17,4 @@ source_sha256: d0021bbef2e0c3251d6efdea2c1efd9959ff3f02df4bcd1fc37c1ee7826a72ba
 
 # Artículo 109
 
-Las opiniones formales se harán públicas en el sitio de internet de la Comisión, salvaguardando la Información Confidencial.
+Las opiniones formales se harán públicas en el sitio de internet de la [Comisión](articulo-3.md), salvaguardando la [Información Confidencial](articulo-3.md).

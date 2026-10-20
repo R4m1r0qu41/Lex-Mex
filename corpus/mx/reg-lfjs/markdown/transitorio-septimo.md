@@ -15,6 +15,6 @@ source_sha256: 694325ff5d428da51b8f87c5939c58b1e2e8590bd86f13ade6cd284c932cdfc3
 
 # SÉPTIMO
 
-El Consejo Consultivo de Juegos y [Sorteos](articulo-3.md) a que se refiere este Reglamento, deberá quedar integrado e iniciará sus funciones dentro de los 45 días hábiles siguientes a la entrada en vigor de este ordenamiento.
+El [Consejo Consultivo](articulo-3.md) de Juegos y [Sorteos](articulo-3.md) a que se refiere este Reglamento, deberá quedar integrado e iniciará sus funciones dentro de los 45 días hábiles siguientes a la entrada en vigor de este ordenamiento.
 
 La [Secretaría](articulo-3.md), previa opinión del Consejo Consultivo de Juegos y Sorteos, deberá emitir, dentro de los 20 días hábiles siguientes a la instalación de éste, las disposiciones administrativas que correspondan para el cumplimiento eficaz y oportuno de lo dispuesto en el presente Reglamento.

@@ -17,6 +17,6 @@ source_sha256: 35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc
 
 # Artículo 54
 
-Los términos a los que se refieren las fracciones VI y VII del artículo [52](articulo-52.md) de esta Ley, no proceden para los menores de edad o incapacitados.
+Los términos a los que se refieren las fracciones VI y VII del artículo [52](articulo-52.md) de esta [Ley](articulo-4o.md), no proceden para los menores de edad o incapacitados.
 
 Artículo reformado DOF 20-11-2008

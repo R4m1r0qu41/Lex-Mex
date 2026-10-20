@@ -17,6 +17,6 @@ source_sha256: 667636f9e0ea65e72ac9d6d7b4d7563a183b75d0f140268a61929c74f5f88041
 
 # Artículo 32
 
-SALUD resolverá sobre la solicitud de autorización en un plazo no mayor de seis meses contados a partir del día hábil siguiente al que admita la solicitud.
+[SALUD](articulo-2.md) resolverá sobre la solicitud de autorización en un plazo no mayor de seis meses contados a partir del día hábil siguiente al que admita la solicitud.
 
 Se entiende que la solicitud es admitida en los casos en que la solicitud fue recibida y la información está completa, conforme a lo previsto por el artículo [30](articulo-30.md), párrafo segundo, de este Reglamento.

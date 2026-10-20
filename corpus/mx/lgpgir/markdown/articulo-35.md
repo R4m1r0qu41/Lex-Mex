@@ -23,7 +23,7 @@ I. Fomentarán y apoyarán la conformación, consolidación y operación de grup
 
 II. Convocarán a los grupos sociales organizados a participar en proyectos destinados a generar la información necesaria para sustentar programas de gestión integral de residuos;
 
-III. Celebrarán convenios de concertación con organizaciones sociales y privadas en la materia objeto de la presente Ley;
+III. Celebrarán convenios de concertación con organizaciones sociales y privadas en la materia objeto de la presente [Ley](articulo-5.md);
 
 IV. Celebrarán convenios con medios de comunicación masiva para la promoción de las acciones de prevención y gestión integral de los residuos;
 

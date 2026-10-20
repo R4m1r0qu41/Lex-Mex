@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Primero · Capítulo II
+
 # Artículo 150
 
 En los juicios que versen sobre alimentos, derechos de niñas, niños y adolescentes, controversias familiares, cualquier tipo de violencia familiar o violencia vicaria, y los demás que determinen las Leyes, todos los días y horas son hábiles. Párrafo reformado DOF 15-01-2026

@@ -17,4 +17,4 @@ source_sha256: e81e23876bd08da81cb8392af7054f6187ad043ca8f965777b455f9d12554e8b
 
 # Artículo 44
 
-La Secretaría Anticorrupción y Buen Gobierno administrará, implementará y pondrá en funcionamiento la Plataforma Nacional que permita cumplir con los procedimientos, obligaciones y disposiciones señaladas en la presente Ley para los sujetos obligados y Autoridades garantes atendiendo a las necesidades de accesibilidad de las personas usuarias, así como en otras disposiciones jurídicas.
+La Secretaría Anticorrupción y Buen Gobierno administrará, implementará y pondrá en funcionamiento la [Plataforma Nacional](articulo-3.md) que permita cumplir con los procedimientos, obligaciones y disposiciones señaladas en la presente [Ley](articulo-3.md) para los sujetos obligados y [Autoridades garantes](articulo-3.md) atendiendo a las necesidades de accesibilidad de las personas usuarias, así como en otras disposiciones jurídicas.

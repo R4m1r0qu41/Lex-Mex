@@ -17,6 +17,6 @@ source_sha256: c78882a0177403ee04cd38dd09fa1657dc221b7f6827ddacf251c699ede867e4
 
 # Artículo 36
 
-Queda a cargo de la Agencia Federal de Aviación Civil, mediante disposiciones técnico-administrativas, el establecimiento de las condiciones de construcción y conservación de los aeródromos civiles. Párrafo reformado DOF 03-05-2023
+Queda a cargo de la [Agencia Federal de Aviación Civil](articulo-2.md), mediante disposiciones técnico-administrativas, el establecimiento de las condiciones de construcción y conservación de los aeródromos civiles. Párrafo reformado DOF 03-05-2023
 
 Los concesionarios y permisionarios de aeródromos civiles deberán adoptar las medidas necesarias que permitan atender de manera adecuada a las personas con discapacidad, así como a las de edad avanzada.

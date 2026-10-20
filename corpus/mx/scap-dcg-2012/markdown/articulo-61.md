@@ -17,6 +17,6 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 61
 
-El Director o Gerente General deberá proponer al Consejo de Administración, la designación de la persona que será responsable de la administración de riesgos de la Sociedad, garantizando la independencia de dicha persona respecto de las áreas de negocios.
+El [Director o Gerente General](articulo-1.md) deberá proponer al [Consejo de Administración](articulo-1.md), la designación de la persona que será responsable de la administración de riesgos de la Sociedad, garantizando la independencia de dicha persona respecto de las áreas de negocios.
 
 Asimismo, el Director o Gerente General será responsable de implementar medidas de acción en caso de contingencias que puedan afectar la operación o los sistemas de información de la Sociedad, así como difundir una mayor cultura en materia de administración de riesgos, diseñando programas de capacitación en esta materia para el personal involucrado en la operación o administración de riesgos de la Sociedad.

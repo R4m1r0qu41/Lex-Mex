@@ -17,7 +17,7 @@ source_sha256: b3c906475b455176de73da17f4f93a73f295965dc9bcca854b48417c7d4d3cfc
 
 # Artículo 120
 
-Las infracciones a los preceptos de esta Ley, sus reglamentos y las normas oficiales mexicanas que de ella deriven, señaladas en el [artículo anterior](articulo-119.md), serán sancionadas administrativamente por las Secretarías competentes, con una o más de las siguientes sanciones:
+Las infracciones a los preceptos de esta Ley, sus reglamentos y las normas oficiales mexicanas que de ella deriven, señaladas en el [artículo anterior](articulo-119.md), serán sancionadas administrativamente por las [Secretarías](articulo-3.md) competentes, con una o más de las siguientes sanciones:
 
 I. Multa de quinientos a quince mil días de salario mínimo general vigente en el Distrito Federal a quien cometa las infracciones previstas en las fracciones IV, V, VIII, XIV, XVI, XVII, y XXI del artículo [119](articulo-119.md) de esta Ley;
 

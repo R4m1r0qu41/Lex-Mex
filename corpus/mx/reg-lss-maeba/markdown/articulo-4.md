@@ -17,4 +17,4 @@ source_sha256: 9816ce7f9d6b9b1781eb9935869bd45677c60d721d3352865b6524c2e75db8cd
 
 # Artículo 4
 
-En lo no previsto en el presente Reglamento, se aplicará supletoriamente lo dispuesto en el Código.
+En lo no previsto en el presente [Reglamento](articulo-2.md), se aplicará supletoriamente lo dispuesto en el [Código](../../lss/markdown/articulo-5-A.md).

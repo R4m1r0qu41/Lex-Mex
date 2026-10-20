@@ -20,4 +20,4 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 Derogado.
 
-TITULO TERCERO De las operaciones de las Sociedades Financieras Populares
+TITULO TERCERO De las operaciones de las [Sociedades](articulo-1.md) Financieras Populares

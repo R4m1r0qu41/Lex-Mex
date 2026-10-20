@@ -17,6 +17,6 @@ source_sha256: 14cd17e37e96e766c8ab74950c71186d579c0ba6cc10ac9e8b06f6194af7d953
 
 # Artículo 16-A
 
-Las solicitudes a que se refieren los artículos [15](articulo-15.md) y [16](articulo-16.md) de esta ley deberán ser resueltas por la Secretaría de Economía, dentro de los dos días hábiles inmediatos siguientes al de su presentación.
+Las solicitudes a que se refieren los artículos [15](articulo-15.md) y [16](articulo-16.md) de esta ley deberán ser resueltas por la [Secretaría](articulo-2o.md) de Economía, dentro de los dos días hábiles inmediatos siguientes al de su presentación.
 
 Artículo adicionado DOF 24-12-1996. Reformado DOF 15-12-2011

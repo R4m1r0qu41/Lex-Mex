@@ -31,4 +31,4 @@ Los términos serán improrrogables y las notificaciones que no sean personales 
 
 Una vez concluidos los términos fijados a las partes, sin necesidad de que se acuse rebeldía, seguirá el procedimiento su curso y se tendrá por perdido el derecho que, dentro de ellos, debió ejercitarse.
 
-El árbitro tendrá la facultad de allegarse conforme a lo dispuesto en la ley, de todos los elementos de juicio que estime necesarios para resolver las cuestiones que se le hayan sometido a arbitraje. Para el ejercicio de esta facultad, podrá solicitar información documental sobre el caso concreto a "La Comisión".
+El árbitro tendrá la facultad de allegarse conforme a lo dispuesto en la ley, de todos los elementos de juicio que estime necesarios para resolver las cuestiones que se le hayan sometido a arbitraje. Para el ejercicio de esta facultad, podrá solicitar información documental sobre el caso concreto a "[La Comisión](articulo-1o.md)".

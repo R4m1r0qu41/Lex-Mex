@@ -19,9 +19,9 @@ source_sha256: 703f083c0baedfb4ef5ce8b62c78684d8ee0073f393321d476d75ebe4878e1d5
 
 La persona titular de la Dirección y Rectoría tiene las atribuciones siguientes: Párrafo reformado DOF 20-03-2026
 
-I. Dirigir, administrar y representar al Sistema;
+I. Dirigir, administrar y representar al [Sistema](articulo-3.md);
 
-II. Proponer el Plan General;
+II. Proponer el [Plan General](articulo-3.md);
 
 III. Establecer las directivas pedagógicas que rigen el proceso educativo;
 
@@ -31,7 +31,7 @@ V. Expedir y firmar los documentos de acreditación, certificación, revalidaci�
 
 VI. Proponer a la persona titular de la Secretaría convenios con instituciones nacionales o extranjeras para promover el desarrollo educativo, cultural y científico en el Sistema; Fracción reformada DOF 20-03-2026
 
-VII. Gestionar la asignación de plazas presupuestales para garantizar la autosuficiencia de las Instituciones Educativas;
+VII. Gestionar la asignación de plazas presupuestales para garantizar la autosuficiencia de las [Instituciones Educativas](articulo-3.md);
 
 VIII. Proponer los proyectos de creación, modificación, ajuste, reducción, ampliación o receso de Instituciones Educativas, Jefaturas de Curso y Cursos en el Sistema;
 

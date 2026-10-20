@@ -17,7 +17,7 @@ source_sha256: d0021bbef2e0c3251d6efdea2c1efd9959ff3f02df4bcd1fc37c1ee7826a72ba
 
 # Artículo 93 Bis
 
-El procedimiento para comprobar el cumplimiento de la obligación de no llevar a cabo una concentración que exceda los umbrales monetarios establecidos en el artículo [86](articulo-86.md) de esta Ley sin haber obtenido previamente la autorización de la Comisión y, en su caso, determinar si algún fedatario público intervino en actos relativos a una concentración cuando no hubiera sido autorizada, se tramitará de oficio conforme a lo siguiente:
+El procedimiento para comprobar el cumplimiento de la obligación de no llevar a cabo una concentración que exceda los umbrales monetarios establecidos en el artículo [86](articulo-86.md) de esta Ley sin haber obtenido previamente la autorización de la [Comisión](articulo-3.md) y, en su caso, determinar si algún fedatario público intervino en actos relativos a una concentración cuando no hubiera sido autorizada, se tramitará de oficio conforme a lo siguiente:
 
 I. Cuando la Comisión tenga conocimiento de elementos objetivos que hagan suponer una probable violación conforme al párrafo primero de este artículo, seguirá el procedimiento previsto en el artículo [133](articulo-133.md) de esta Ley, o
 

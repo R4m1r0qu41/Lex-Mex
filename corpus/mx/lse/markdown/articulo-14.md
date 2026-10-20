@@ -17,4 +17,4 @@ source_sha256: aa96853f010885bdf85160e944e5c0ef5c3c8e95422dfede280d228cf064310a
 
 # Artículo 14
 
-El Estado ejerce el Control Operativo del Sistema Eléctrico Nacional a través del CENACE, quien determina los elementos de la Red Nacional de Transmisión y las Redes Generales de Distribución que corresponden al Mercado Eléctrico Mayorista y las operaciones de estos que correspondan al Mercado Eléctrico Mayorista; así como la asignación de responsabilidades y procedimientos de coordinación con las empresas de transporte y distribución.
+El Estado ejerce el [Control Operativo del Sistema Eléctrico Nacional](articulo-3.md) a través del [CENACE](articulo-3.md), quien determina los elementos de la [Red Nacional de Transmisión](articulo-3.md) y las [Redes Generales de Distribución](articulo-3.md) que corresponden al [Mercado Eléctrico Mayorista](articulo-3.md) y las operaciones de estos que correspondan al Mercado Eléctrico Mayorista; así como la asignación de responsabilidades y procedimientos de coordinación con las empresas de transporte y distribución.

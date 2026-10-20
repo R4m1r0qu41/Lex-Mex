@@ -25,7 +25,7 @@ II. Integrar la estadística ganadera local, regional o estatal y nacional, seg�
 
 III. Procurar que sus socios establezcan contabilidad ganadera en sus explotaciones, a fin de que conozcan sus costos de producción y estudios de precios de los productos que comercialicen; IV. Fomentar entre sus socios la reforestación y advertir los daños que ocasionan la tala inmoderada, los incendios y la erosión, así como aconsejar a sus socios los medios para prevenirlos y combatirlos;
 
-V. Vigilar que sus socios realicen la movilización del ganado en estricto cumplimiento a lo previsto por el artículo 13 de la Ley y por el Título Cuarto, Capítulo III de este Reglamento;
+V. Vigilar que sus socios realicen la movilización del ganado en estricto cumplimiento a lo previsto por el artículo 13 de la Ley y por el Título Cuarto, Capítulo III de este [Reglamento](articulo-2o.md);
 
 VI. Fungir como entidades de acreditación, siempre que cumplan con lo dispuesto en la Ley Federal sobre Metrología y Normalización y su Reglamento;
 

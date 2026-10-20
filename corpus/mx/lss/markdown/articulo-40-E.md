@@ -17,7 +17,7 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 40-E
 
-El Consejo Técnico del Instituto por el voto de al menos las tres cuartas partes de sus integrantes podrá autorizar, de manera excepcional y previa solicitud del patrón, el pago a plazos o diferido de las cuotas a su cargo, que se generen hasta por los seis periodos posteriores a la fecha de su solicitud, cuando cumpla con los siguientes requisitos:
+El Consejo Técnico del [Instituto](articulo-5-A.md) por el voto de al menos las tres cuartas partes de sus integrantes podrá autorizar, de manera excepcional y previa solicitud del patrón, el pago a plazos o diferido de las cuotas a su cargo, que se generen hasta por los seis periodos posteriores a la fecha de su solicitud, cuando cumpla con los siguientes requisitos:
 
 I. No tener adeudos en los dos últimos ejercicios anteriores a la fecha de solicitud;
 
@@ -29,12 +29,12 @@ IV. Que el plazo solicitado para el pago no exceda de doce meses, a partir del �
 
 V. Demostrar a satisfacción del Instituto las razones económicas excepcionales por las cuales no puede cumplir con sus obligaciones, y
 
-VI. Garantizar el interés fiscal en términos del Código. Durante el período de prórroga autorizado para el pago, no se cobrarán recargos, únicamente se causarán la actualización y los gastos de financiamiento, en los términos del Código.
+VI. Garantizar el interés fiscal en términos del [Código](articulo-5-A.md). Durante el período de prórroga autorizado para el pago, no se cobrarán recargos, únicamente se causarán la actualización y los gastos de financiamiento, en los términos del Código.
 
 Un patrón no podrá beneficiarse de este tipo de autorizaciones en el año siguiente a aquél en que haya recibido una de ellas, contado a partir del último periodo del plazo de pago otorgado.
 
 Todas las resoluciones en beneficio de los patrones que se emitan con fundamento en lo dispuesto en este artículo, serán hechas del conocimiento general a través de los medios con que el Instituto cuente para difundir los temas que considere de interés general.
 
-Lo dispuesto en este artículo sólo será aplicable a las cuotas a cargo del patrón. Las cuotas que correspondan al seguro de retiro, cesantía en edad avanzada y vejez, así como las retenidas a sus trabajadores, deberán ser cubiertas en los términos y condiciones que esta Ley establece.
+Lo dispuesto en este artículo sólo será aplicable a las cuotas a cargo del patrón. Las cuotas que correspondan al seguro de retiro, cesantía en edad avanzada y vejez, así como las retenidas a sus trabajadores, deberán ser cubiertas en los términos y condiciones que esta [Ley](articulo-5-A.md) establece.
 
 Artículo adicionado DOF 20-12-2001

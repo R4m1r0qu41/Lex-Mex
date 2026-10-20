@@ -19,9 +19,9 @@ source_sha256: e5c0ecb4328043b7090ee5d73e982d6a04410f1330f6fdb350a7a34527eb2e59
 
 Los interesados en obtener la autorización para pescar en altamar o en aguas de jurisdicción extranjera, con embarcaciones de matrícula y bandera mexicanas, deberán cumplir con los requisitos y obligaciones siguientes:
 
-I. Acreditar ante la Secretaría disponer de las embarcaciones, artes de pesca, capacidad técnica y económica, así como de personal capacitado para realizar las capturas;
+I. Acreditar ante la [Secretaría](articulo-2o.md) disponer de las embarcaciones, artes de pesca, capacidad técnica y económica, así como de personal capacitado para realizar las capturas;
 
-II. Utilizar exclusivamente embarcaciones de bandera mexicana o inscritas dentro de un Programa de Abanderamiento, en los términos de la Ley de Navegación, y
+II. Utilizar exclusivamente embarcaciones de bandera mexicana o inscritas dentro de un Programa de Abanderamiento, en los términos de la [Ley](articulo-2o.md) de Navegación, y
 
 III. Respetar y cumplir estrictamente las disposiciones internacionales de navegación y pesca, especialmente las establecidas por los gobiernos extranjeros en aguas de su jurisdicción. Las autorizaciones respectivas, se otorgarán por la Secretaría sólo a personas de nacionalidad mexicana.
 

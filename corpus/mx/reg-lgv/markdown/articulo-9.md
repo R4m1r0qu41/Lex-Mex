@@ -21,4 +21,4 @@ Toda persona que haya sido víctima de delito o de violación a sus derechos hum
 
 Las autoridades de primer contacto recibirán la declaración de la víctima en términos de lo dispuesto por el artículo [107](../../lgv/markdown/articulo-107.md) de la Ley y, de conformidad con sus respectivos ámbitos de competencia, cumplirán los deberes que establece el artículo 120 de la misma.
 
-Las autoridades que reciban la declaración a que se refiere el párrafo anterior deberán llenar el Formato y remitirlo sin dilación alguna a la Comisión Ejecutiva.
+Las autoridades que reciban la declaración a que se refiere el párrafo anterior deberán llenar el [Formato](articulo-3.md) y remitirlo sin dilación alguna a la Comisión Ejecutiva.

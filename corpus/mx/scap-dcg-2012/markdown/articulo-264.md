@@ -17,6 +17,6 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 264
 
-Las cuotas mensuales que deberán cubrir las Sociedades se determinarán tomando en consideración el riesgo a que se encuentren expuestas, con base en el Nivel de Capitalización y en los pasivos totales, de cada Sociedad.
+Las cuotas mensuales que deberán cubrir las Sociedades se determinarán tomando en consideración el riesgo a que se encuentren expuestas, con base en el [Nivel de Capitalización](articulo-1.md) y en los pasivos totales, de cada Sociedad.
 
-Dichas cuotas serán de entre 1 y 3 al millar anual sobre los saldos al último día del mes de sus depósitos de dinero a que se refiere el inciso a) de la fracción I del Artículo 19 de la Ley, del mes de que se trate.
+Dichas cuotas serán de entre 1 y 3 al millar anual sobre los saldos al último día del mes de sus depósitos de dinero a que se refiere el inciso a) de la fracción I del Artículo 19 de la [Ley](articulo-1.md), del mes de que se trate.

@@ -17,7 +17,7 @@ source_sha256: 160e5e85efddb1749a79f6b154af31711a9b31a5e32bace3c07e2859c2620ecf
 
 # Artículo 24
 
-La Secretaría, en coordinación con las dependencias y entidades de la Administración Pública Federal competentes, y en lo que corresponda, con los gobiernos de las entidades federativas, realizará las acciones necesarias para fomentar y promover el desarrollo de la pesca y la acuacultura, en todas sus modalidades y niveles de inversión, y para tal efecto:
+La [Secretaría](articulo-4o.md), en coordinación con las dependencias y entidades de la Administración Pública Federal competentes, y en lo que corresponda, con los gobiernos de las entidades federativas, realizará las acciones necesarias para fomentar y promover el desarrollo de la pesca y la acuacultura, en todas sus modalidades y niveles de inversión, y para tal efecto:
 
 I. Establecerá servicios de investigación en reproducción, genética, nutrición, sanidad y extensionismo, entre otros, para apoyar a las personas y organizaciones que se dediquen a esas actividades;
 

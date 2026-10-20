@@ -15,4 +15,4 @@ source_sha256: 4d25bcb022ab62a24462e11a230c9554c0120012913ab4599cd3ec1b2b275c1d
 
 # QUINTO
 
-La Secretaría establecerá en el Manual los procedimientos técnicos que se aplicarán en la elaboración de los trabajos periciales.
+La [Secretaría](articulo-1o.md) establecerá en el [Manual](articulo-1o.md) los procedimientos técnicos que se aplicarán en la elaboración de los trabajos periciales.

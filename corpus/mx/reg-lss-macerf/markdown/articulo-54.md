@@ -17,4 +17,4 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 54
 
-Las modificaciones descendentes del salario de los trabajadores, presentadas fuera de los plazos señalados en la Ley, surtirán efectos a partir de la fecha de recepción de los avisos por el Instituto.
+Las modificaciones descendentes del salario de los trabajadores, presentadas fuera de los plazos señalados en la [Ley](../../lss/markdown/articulo-5-A.md), surtirán efectos a partir de la fecha de recepción de los avisos por el [Instituto](../../lss/markdown/articulo-5-A.md).

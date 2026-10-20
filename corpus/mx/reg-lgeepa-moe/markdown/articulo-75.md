@@ -17,4 +17,4 @@ source_sha256: d25fabb2d2e90d9f76028717f83c442d05a4f64024f13461285bda8ebd389a04
 
 # Artículo 75
 
-La Procuraduría, emitirá recomendaciones y dictámenes técnicos en las materias previstas en este reglamento.
+La [Procuraduría](articulo-3o.md), emitirá recomendaciones y dictámenes técnicos en las materias previstas en este reglamento.

@@ -17,6 +17,6 @@ source_sha256: 01b72308e67d46ba6ca8a6b07fb7584c6a74e905ea0c4b5be5c0c0d32a6d817a
 
 # Artículo 89
 
-La documentación que se genere con motivo de la Promoción Superior, será del manejo exclusivo de la Comisión.
+La documentación que se genere con motivo de la [Promoción](articulo-5.md) Superior, será del manejo exclusivo de la Comisión.
 
 SUBSECCIÓN “C” Proceso de Evaluación

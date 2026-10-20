@@ -17,4 +17,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Artículo 165
 
-Para efectos del artículo [97](../../lsh/markdown/articulo-97.md) de la Ley, para que el gestor sea una entidad pública, privada o público-privada en la que participen las personas Permisionarias que conformen el Sistema Integrado, esta debe constituirse como una sociedad mercantil en cuyo capital social participen, de manera igualitaria y con los mismos derechos societarios a fin de evitar los conflictos de interés a que se refiere dicho artículo.
+Para efectos del artículo [97](../../lsh/markdown/articulo-97.md) de la [Ley](articulo-3.md), para que el gestor sea una entidad pública, privada o público-privada en la que participen las personas Permisionarias que conformen el [Sistema](articulo-3.md) Integrado, esta debe constituirse como una sociedad mercantil en cuyo capital social participen, de manera igualitaria y con los mismos derechos societarios a fin de evitar los conflictos de interés a que se refiere dicho artículo.

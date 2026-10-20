@@ -15,4 +15,4 @@ source_sha256: 5a0e15e01ac963917e019e3cc4ad07e96d76cc6c82c8b4238dfbb3a58a146847
 
 # Décimo Primero
 
-El Consejo Nacional, las autoridades y las instancias competentes realizarán las gestiones necesarias para adecuar la normativa aplicable a los mecanismos e instrumentos públicos de fomento y apoyo a que se refiere esta Ley, en los términos que ésta prevé.
+El [Consejo Nacional](articulo-4.md), las autoridades y las instancias competentes realizarán las gestiones necesarias para adecuar la normativa aplicable a los mecanismos e instrumentos públicos de fomento y apoyo a que se refiere esta [Ley](articulo-4.md), en los términos que ésta prevé.

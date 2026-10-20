@@ -1,1 +1,112 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:adquirente",
+    "term": "Adquirente",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lss-maeba",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:2",
+    "fraction": "I",
+    "start_char": 164,
+    "end_char": 425,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:avaluo",
+    "term": "Avalúo",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lss-maeba",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:2",
+    "fraction": "II",
+    "start_char": 425,
+    "end_char": 896,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:bien-o-bienes",
+    "term": "Bien o Bienes",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lss-maeba",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:2",
+    "fraction": "III",
+    "start_char": 896,
+    "end_char": 1025,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:clave-unica",
+    "term": "Clave Única",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lss-maeba",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:2",
+    "fraction": "IV",
+    "start_char": 1025,
+    "end_char": 1126,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:comite-tecnico",
+    "term": "Comité Técnico",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lss-maeba",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:2",
+    "fraction": "V",
+    "start_char": 1126,
+    "end_char": 1216,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:delegacion",
+    "term": "Delegación",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lss-maeba",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:2",
+    "fraction": "VI",
+    "start_char": 1216,
+    "end_char": 1470,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:enajenacion",
+    "term": "Enajenación",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lss-maeba",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:2",
+    "fraction": "VII",
+    "start_char": 1470,
+    "end_char": 1651,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:reglamento",
+    "term": "Reglamento",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lss-maeba",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:2",
+    "fraction": "VIII",
+    "start_char": 1651,
+    "end_char": 1850,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:subdelegacion",
+    "term": "Subdelegación",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lss-maeba",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:2",
+    "fraction": "IX",
+    "start_char": 1850,
+    "end_char": 1995,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:tercero-especializado",
+    "term": "Tercero especializado",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lss-maeba",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:2",
+    "fraction": "X",
+    "start_char": 1995,
+    "end_char": 2164,
+    "basis": "express_definition"
+  }
+]

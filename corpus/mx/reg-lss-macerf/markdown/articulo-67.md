@@ -17,7 +17,7 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 67
 
-Al recibir el aviso de inscripción de un trabajador, el Instituto lo adscribirá a la unidad de medicina familiar que corresponda a su domicilio.
+Al recibir el aviso de inscripción de un trabajador, el [Instituto](../../lss/markdown/articulo-5-A.md) lo adscribirá a la unidad de medicina familiar que corresponda a su domicilio.
 
 Los derechohabientes, al solicitar el registro en la unidad médica de su adscripción, deberán presentar al Instituto los documentos que les sean requeridos para su identificación y determinación del parentesco.
 

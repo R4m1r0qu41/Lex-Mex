@@ -17,7 +17,7 @@ source_sha256: cf47ab93fdea40d2b3e41b58784df62f89dd90b4482dd3b7f25adc7f6957036b
 
 # Artículo 37
 
-Los interesados en obtener autorización de la Secretaría de Comunicaciones y Transportes para establecer y operar centros de verificación obligatoria de los vehículos de transporte público federal terrestre, deberán presentar a dicha dependencia solicitud por escrito con la siguiente información y documentación:
+Los interesados en obtener autorización de la [Secretaría](articulo-6o.md) de Comunicaciones y Transportes para establecer y operar centros de verificación obligatoria de los vehículos de transporte público federal terrestre, deberán presentar a dicha dependencia solicitud por escrito con la siguiente información y documentación:
 
 I.- Nombre, denominación o razón social y domicilio del solicitante;
 

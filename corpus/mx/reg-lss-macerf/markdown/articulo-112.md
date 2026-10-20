@@ -17,7 +17,7 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 112
 
-En los supuestos previstos en los artículos [39](../../lss/markdown/articulo-39.md) y [39](../../lss/markdown/articulo-39.md) A de la Ley, el Instituto podrá, en cualquier caso, requerir al patrón la información que le sirvió de base para determinar o ajustar las cuotas obrero patronales, misma que se podrá presentar en medios magnéticos o documentales.
+En los supuestos previstos en los artículos [39](../../lss/markdown/articulo-39.md) y [39](../../lss/markdown/articulo-39.md) A de la [Ley](../../lss/markdown/articulo-5-A.md), el [Instituto](../../lss/markdown/articulo-5-A.md) podrá, en cualquier caso, requerir al patrón la información que le sirvió de base para determinar o ajustar las cuotas obrero patronales, misma que se podrá presentar en medios magnéticos o documentales.
 
 En el caso de que el patrón o sujeto obligado no cubra oportunamente el importe de las cuotas o lo haga en forma incorrecta, el Instituto podrá determinarlas presuntivamente y fijarlas en cantidad líquida con base en la información señalada en el artículo [39](../../lss/markdown/articulo-39.md) C de la Ley, así como con base en la información obtenida de la revisión del dictamen del contador público autorizado presentado al Instituto en su caso.
 

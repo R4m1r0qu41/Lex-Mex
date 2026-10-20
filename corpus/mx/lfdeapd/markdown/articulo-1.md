@@ -19,7 +19,7 @@ source_sha256: 4fadf9a6f2d22a9e48d8e29ed302456751da66eb723e0df1dc6ac45a5e4640b0
 
 La presente Ley es de orden público, interés social y tiene por objeto:
 
-I. Establecer el procedimiento federal para la emisión de la Declaración Especial de Ausencia, mismo que no podrá exceder el plazo de seis meses a partir del inicio del procedimiento; así como señalar sus efectos hacia la Persona Desaparecida, los Familiares o personas legitimadas por ley, una vez que ésta es emitida por el Órgano Jurisdiccional competente;
+I. Establecer el procedimiento federal para la emisión de la [Declaración Especial de Ausencia](articulo-3.md), mismo que no podrá exceder el plazo de seis meses a partir del inicio del procedimiento; así como señalar sus efectos hacia la [Persona Desaparecida](articulo-3.md), los [Familiares](articulo-3.md) o personas legitimadas por ley, una vez que ésta es emitida por el [Órgano Jurisdiccional](articulo-3.md) competente;
 
 II. Reconocer, proteger y garantizar la continuidad de la personalidad jurídica y los derechos de la Persona Desaparecida;
 

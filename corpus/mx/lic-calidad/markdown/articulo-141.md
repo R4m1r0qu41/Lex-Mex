@@ -17,4 +17,4 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 # Artículo 141
 
-Las Entidades de Acreditación y los Organismos de Evaluación de la Conformidad, en todo caso, deberán cumplir con lo previsto en esta Ley y serán los responsables de su incumplimiento. Los incumplimientos serán sancionados administrativamente por las autoridades competentes en los términos de esta Ley y en las demás disposiciones legales aplicables, con independencia de cualquier responsabilidad civil o penal.
+Las [Entidades de Acreditación](articulo-4.md) y los [Organismos de Evaluación de la Conformidad](articulo-4.md), en todo caso, deberán cumplir con lo previsto en esta Ley y serán los responsables de su incumplimiento. Los incumplimientos serán sancionados administrativamente por las autoridades competentes en los términos de esta Ley y en las demás disposiciones legales aplicables, con independencia de cualquier responsabilidad civil o penal.

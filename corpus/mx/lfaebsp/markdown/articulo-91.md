@@ -17,6 +17,6 @@ source_sha256: 269e72195414406bcbd3e90ac40ec26e031a9ea519316c44ee30bdfdf3163059
 
 # Artículo 91
 
-Los recursos obtenidos por la venta de los Bienes y activos decomisados serán depositados en una cuenta específica de conformidad a lo establecido en el artículo [89](articulo-89.md) de esta Ley.
+Los recursos obtenidos por la venta de los [Bienes](articulo-2o.md) y activos decomisados serán depositados en una cuenta específica de conformidad a lo establecido en el artículo [89](articulo-89.md) de esta Ley.
 
 Artículo adicionado DOF 09-08-2019

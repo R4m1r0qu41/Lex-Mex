@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título XI · Capítulo I
+
 # Artículo 325
 
 Los proveedores de precios realizarán las actividades siguientes:
@@ -23,4 +25,6 @@ II. Publicar y difundir calificaciones emitidas por instituciones calificadoras 
 
 III. Medir riesgos financieros de inversiones realizadas por entidades financieras, así como publicarlos y difundirlos cuando cuenten con autorización de éstas.
 
-IV. Determinar y difundir índices de tasas de interés e instrumentos representativos de deuda a cargo de emisoras o emisoras simplificadas. Fracción reformada DOF 28-12-2023 V. Las demás contempladas en sus estatutos sociales.
+IV. Determinar y difundir índices de tasas de interés e instrumentos representativos de deuda a cargo de emisoras o emisoras simplificadas. Fracción reformada DOF 28-12-2023
+
+V. Las demás contempladas en sus estatutos sociales.

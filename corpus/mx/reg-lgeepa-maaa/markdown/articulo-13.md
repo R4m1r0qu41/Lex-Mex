@@ -17,10 +17,10 @@ source_sha256: d50b44df321cf8be51375c07cee5dbcf03eac76df1cd11ab4bd777c9fce0f789
 
 # Artículo 13
 
-Una vez recibida la solicitud de Certificado, la Procuraduría o, en su caso, la Agencia, según corresponda: Párrafo reformado DOF 31-10-2014
+Una vez recibida la solicitud de [Certificado](articulo-2.md), la [Procuraduría](articulo-2.md) o, en su caso, la [Agencia](articulo-2.md), según corresponda: Párrafo reformado DOF 31-10-2014
 
 I. Prevendrán, en caso de que falte algún requisito o no sea clara la información, dentro de un plazo que no excederá de cinco días hábiles, contados a partir del día hábil siguiente a aquél en que se presentó; Fracción reformada DOF 31-10-2014
 
-II. Emitida la prevención, si la Empresa no adecua o corrige la solicitud en los términos requeridos dentro de un plazo máximo de quince días hábiles, ésta se desechará;
+II. Emitida la prevención, si la [Empresa](articulo-2.md) no adecua o corrige la solicitud en los términos requeridos dentro de un plazo máximo de quince días hábiles, ésta se desechará;
 
 III. Si no emite una prevención una vez agotado el plazo a que hace referencia la fracción I del presente artículo, se entenderá que la Empresa puede continuar con el trámite de solicitud de Certificado.

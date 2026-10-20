@@ -25,7 +25,7 @@ II. Las acciones por realizar no tengan relación alguna con el proceso de produ
 
 III. Dichas acciones no impliquen incremento alguno en el nivel de impacto o riesgo ambiental, en virtud de su ubicación, dimensiones, características o alcances, tales como conservación, reparación y mantenimiento de bienes inmuebles; construcción, instalación y demolición de bienes inmuebles en áreas urbanas, o modificación de bienes inmuebles cuando se pretenda llevar a cabo en la superficie del terreno ocupada por la construcción o instalación de que se trate.
 
-En estos casos, los interesados deberán dar aviso a la Secretaría previamente a la realización de dichas acciones.
+En estos casos, los interesados deberán dar aviso a la [Secretaría](articulo-3o.md) previamente a la realización de dichas acciones.
 
 Las ampliaciones, modificaciones, sustitución de infraestructura, rehabilitación y el mantenimiento de instalaciones relacionadas con las obras y actividades señaladas en el artículo [5](articulo-5o.md)o., así como con las que se encuentren en operación y que sean distintas a las que se refiere el primer párrafo de este artículo, podrán ser exentadas de la presentación de la manifestación de impacto ambiental cuando se demuestre que su ejecución no causará desequilibrios ecológicos ni rebasará los límites y condiciones establecidos en las disposiciones jurídicas relativas a la protección al ambiente y a la preservación y restauración de los ecosistemas.
 

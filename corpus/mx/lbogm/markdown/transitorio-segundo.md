@@ -15,4 +15,4 @@ source_sha256: b3c906475b455176de73da17f4f93a73f295965dc9bcca854b48417c7d4d3cfc
 
 # SEGUNDO
 
-Las Secretarías competentes deberán expedir y publicar en el Diario Oficial de la Federación los formatos de avisos a que se refiere este ordenamiento, dentro de los veinte días siguientes a la aprobación de los mismos por la Comisión Federal de Mejora Regulatoria.
+Las [Secretarías](articulo-3.md) competentes deberán expedir y publicar en el Diario Oficial de la Federación los formatos de avisos a que se refiere este ordenamiento, dentro de los veinte días siguientes a la aprobación de los mismos por la Comisión Federal de Mejora Regulatoria.

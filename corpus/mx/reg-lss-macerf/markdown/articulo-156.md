@@ -17,6 +17,6 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 156
 
-Para la formulación del dictamen a que se refiere el artículo [16](../../lss/markdown/articulo-16.md) de la Ley, el patrón presentará al Instituto, dentro de los cuatro meses siguientes a la terminación del ejercicio fiscal inmediato anterior, el aviso correspondiente en los formatos autorizados por el Instituto.
+Para la formulación del dictamen a que se refiere el artículo [16](../../lss/markdown/articulo-16.md) de la [Ley](../../lss/markdown/articulo-5-A.md), el patrón presentará al [Instituto](../../lss/markdown/articulo-5-A.md), dentro de los cuatro meses siguientes a la terminación del ejercicio fiscal inmediato anterior, el aviso correspondiente en los formatos autorizados por el Instituto.
 
 En el caso de los patrones que tengan dos o más registros patronales se presentará un único aviso que comprenderá todos los registros. REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN

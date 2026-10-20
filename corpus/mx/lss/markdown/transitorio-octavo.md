@@ -15,4 +15,4 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # OCTAVO
 
-Los seguros facultativos establecidos con anterioridad a la entrada en vigor de esta Ley, continuarán vigentes en sus términos hasta la fecha de su vencimiento.
+Los seguros facultativos establecidos con anterioridad a la entrada en vigor de esta [Ley](articulo-5-A.md), continuarán vigentes en sus términos hasta la fecha de su vencimiento.

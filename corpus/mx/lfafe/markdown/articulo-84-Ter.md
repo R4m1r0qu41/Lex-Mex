@@ -17,6 +17,6 @@ source_sha256: 96092a4581d4e87910eb58939da4045879e4fe613b12f4413d7392bcc2c6e884
 
 # Artículo 84 Ter
 
-Las penas a que se refieren los artículos [82](articulo-82.md), [83](articulo-83.md), [83 Bis](articulo-83-Bis.md), [83 Ter](articulo-83-Ter.md), [83 Quáter](articulo-83-Quáter.md), [83 Sexies](articulo-83-Sexies.md), [84](articulo-84.md) y [84 Bis](articulo-84-Bis.md) de esta Ley se aumentarán hasta en una mitad cuando la persona responsable sea o haya sido servidora pública de alguna corporación policial, integrante de algún servicio privado de seguridad o militar de la Fuerza Armada Permanente.
+Las penas a que se refieren los artículos [82](articulo-82.md), [83](articulo-83.md), [83 Bis](articulo-83-Bis.md), [83 Ter](articulo-83-Ter.md), [83 Quáter](articulo-83-Quáter.md), [83 Sexies](articulo-83-Sexies.md), [84](articulo-84.md) y [84 Bis](articulo-84-Bis.md) de esta [Ley](articulo-1o-Bis.md) se aumentarán hasta en una mitad cuando la persona responsable sea o haya sido servidora pública de alguna corporación policial, integrante de algún servicio privado de seguridad o militar de la [Fuerza Armada Permanente](articulo-1o-Bis.md).
 
 Artículo adicionado DOF 24-12-1998. Reformado DOF 29-05-2025

@@ -17,6 +17,6 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 257 Bis
 
-Cuando exista un cambio de nombre o denominación o razón social o transformación de régimen jurídico de la persona titular de una solicitud o registro de marca, se deberá inscribir ante el Instituto, para que pueda producir efectos en perjuicio de terceras personas.
+Cuando exista un cambio de nombre o denominación o razón social o transformación de régimen jurídico de la persona titular de una solicitud o registro de marca, se deberá inscribir ante el [Instituto](articulo-4.md), para que pueda producir efectos en perjuicio de terceras personas.
 
 Artículo adicionado DOF 03-04-2026

@@ -17,4 +17,4 @@ source_sha256: 0ad7a7b6d7dffd7d9a582d74ebd6fc43e6baa79f71801a73dc70d1b77c414ded
 
 # Artículo 48
 
-Los miembros de los consejos directivo y de vigilancia durarán en su encargo dos años para el caso de las asociaciones, y tres años para las uniones y la Confederación. Sus nombramientos serán revocables en cualquier tiempo por la organización ganadera legalmente constituida en asamblea general.
+Los miembros de los consejos directivo y de vigilancia durarán en su encargo dos años para el caso de las asociaciones, y tres años para las uniones y la [Confederación](articulo-2o.md). Sus nombramientos serán revocables en cualquier tiempo por la organización ganadera legalmente constituida en asamblea general.

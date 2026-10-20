@@ -17,6 +17,6 @@ source_sha256: d8dd1de3627b899bb4faf31c2812c3d5f14f7108be153d5aa8dd549b9136184a
 
 # Artículo 37
 
-En la elaboración de los programas de protección civil de las entidades federativas, municipios y demarcaciones territoriales de la Ciudad de México, deberán considerarse las líneas generales que establezca el Programa Nacional, así como las etapas consideradas en la Gestión Integral de Riesgos y conforme lo establezca la normatividad local en materia de planeación.
+En la elaboración de los programas de protección civil de las entidades federativas, municipios y demarcaciones territoriales de la Ciudad de México, deberán considerarse las líneas generales que establezca el [Programa Nacional](articulo-2.md), así como las etapas consideradas en la [Gestión Integral de Riesgos](articulo-2.md) y conforme lo establezca la normatividad local en materia de planeación.
 
 Artículo reformado DOF 19-01-2018

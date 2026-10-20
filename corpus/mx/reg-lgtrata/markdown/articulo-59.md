@@ -17,4 +17,4 @@ source_sha256: 1d398a90955ef45ccb7baf4d56534c676cde8325e8b109c4d32120909e783694
 
 # Artículo 59
 
-La Subcomisión Consultiva de la Comisión sesionará trimestralmente de forma ordinaria, sin perjuicio de que celebre sesiones extraordinarias, en los términos que señale el Reglamento Interno.
+La Subcomisión Consultiva de la Comisión sesionará trimestralmente de forma ordinaria, sin perjuicio de que celebre sesiones extraordinarias, en los términos que señale el [Reglamento Interno](articulo-2.md).

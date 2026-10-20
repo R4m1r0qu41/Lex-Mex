@@ -17,9 +17,9 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 69
 
-Las solicitudes para que "La Comisión" autorice la transmisión de derechos de agua se deberá acompañar de la siguiente documentación:
+Las solicitudes para que "[La Comisión](articulo-1o.md)" autorice la transmisión de derechos de agua se deberá acompañar de la siguiente documentación:
 
-I. Copia del título que ampare la explotación, uso o aprovechamiento objeto de la transmisión y constancia de su inscripción en el "Registro", en caso de que haya sido objeto de transmisión anterior;
+I. Copia del título que ampare la explotación, uso o aprovechamiento objeto de la transmisión y constancia de su inscripción en el "[Registro](articulo-1o.md)", en caso de que haya sido objeto de transmisión anterior;
 
 II. En caso de que el adquirente sea persona moral, copia de su escritura constitutiva y del documento que acredite la personalidad del solicitante; III. Documentos que acrediten que se está al corriente en el pago de las contribuciones y aprovechamientos fiscales en materia de aguas nacionales, conforme a la legislación vigente, y
 

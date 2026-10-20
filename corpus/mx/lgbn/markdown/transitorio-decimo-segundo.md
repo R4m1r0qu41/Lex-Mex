@@ -15,4 +15,4 @@ source_sha256: ea96e97cbea2fd1919af78b94cd3466ee20a77e05989be2d482d2eb8061618c5
 
 # DÉCIMO SEGUNDO
 
-Las dependencias, la Procuraduría General de la República, las unidades administrativas de la Presidencia de la República y entidades que no cuenten con responsable inmobiliario, comunicarán a la Secretaría, en un plazo no mayor a treinta días naturales contados a partir de la entrada en vigor del presente ordenamiento, los datos del servidor público que fungirá con tal carácter.
+Las dependencias, la Procuraduría General de la República, las unidades administrativas de la Presidencia de la República y entidades que no cuenten con responsable inmobiliario, comunicarán a la [Secretaría](articulo-2.md), en un plazo no mayor a treinta días naturales contados a partir de la entrada en vigor del presente ordenamiento, los datos del servidor público que fungirá con tal carácter.

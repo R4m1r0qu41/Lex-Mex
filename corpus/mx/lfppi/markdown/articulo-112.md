@@ -17,7 +17,7 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 112
 
-El Instituto no estará obligado a evaluar el cumplimiento de cualquier otro requisito establecido en esta Ley, incluyendo el estudio del estado de la técnica, cuando el impedimento al que se refiere su artículo [111](articulo-111.md), verse sobre:
+El [Instituto](articulo-4.md) no estará obligado a evaluar el cumplimiento de cualquier otro requisito establecido en esta [Ley](articulo-4.md), incluyendo el estudio del estado de la técnica, cuando el impedimento al que se refiere su artículo [111](articulo-111.md), verse sobre:
 
 I.- Defectos que no permitan comprender total o parcialmente la materia de la solicitud;
 

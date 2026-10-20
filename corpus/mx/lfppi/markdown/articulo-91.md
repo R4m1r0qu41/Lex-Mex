@@ -17,6 +17,6 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 91
 
-Para obtener una patente deberá presentarse ante el Instituto una solicitud que cumpla con los requisitos previstos en esta Ley, en su Reglamento y demás disposiciones aplicables en la materia.
+Para obtener una patente deberá presentarse ante el [Instituto](articulo-4.md) una solicitud que cumpla con los requisitos previstos en esta [Ley](articulo-4.md), en su Reglamento y demás disposiciones aplicables en la materia.
 
 El expediente de la solicitud de patente será confidencial hasta el momento de su publicación, conforme al artículo [107](articulo-107.md) de esta Ley.

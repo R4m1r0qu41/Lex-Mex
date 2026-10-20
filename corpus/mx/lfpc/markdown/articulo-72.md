@@ -13,8 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPC.pdf
 source_sha256: 7fea623841fd6e05e8c0d01d2cf09f85b0b8e58ba4d9e4f6711f8bad1f448e55
 ---
 
+> Capítulo VII
+
 # Artículo 72
 
 Cualquier cargo que se prevea hacer por motivo de la expedición de un crédito al consumidor, deberá especificarse previamente a la firma del contrato o consumación de la venta, renta u operación correspondiente, desglosándose la diferencia y conservando el consumidor el derecho a realizar la operación de contado de no convenir a sus intereses los términos del crédito.
-
-Capítulo VIII De las operaciones con inmuebles

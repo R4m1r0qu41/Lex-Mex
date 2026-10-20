@@ -13,9 +13,11 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAC.pdf
 source_sha256: 07199878c4f94748c983998437198eb7c645ad76967c444dfe26d50a535d23ae
 ---
 
+> Capítulo XVI
+
 # Artículo 81
 
-Corresponde a la Secretaría la investigación de los accidentes e incidentes sufridos por aeronaves civiles, a través de la Comisión Investigadora y Dictaminadora de Accidentes Aéreos, quien tendrá independencia para realizar la investigación y autoridad absoluta al llevarla a cabo, de conformidad con el Reglamento y las disposiciones técnico administrativas que se emitan para tal efecto. Concluida la investigación, que se llevará a cabo con audiencia de los interesados, determinará la causa probable de los mismos y, en su caso, tomará las acciones que estime pertinentes para el caso en concreto.
+Corresponde a la [Secretaría](articulo-2.md) la investigación de los accidentes e incidentes sufridos por aeronaves civiles, a través de la [Comisión Investigadora y Dictaminadora de Accidentes Aéreos](articulo-2.md), quien tendrá independencia para realizar la investigación y autoridad absoluta al llevarla a cabo, de conformidad con el Reglamento y las disposiciones técnico administrativas que se emitan para tal efecto. Concluida la investigación, que se llevará a cabo con audiencia de los interesados, determinará la causa probable de los mismos y, en su caso, tomará las acciones que estime pertinentes para el caso en concreto.
 
 Los integrantes de la Comisión Investigadora y Dictaminadora de Accidentes Aéreos no deberán caer en conflictos de intereses en el ejercicio de su encargo, de conformidad con la Ley General de Responsabilidades Administrativas, los tratados suscritos por el Estado mexicano y demás disposiciones que resulten aplicables.
 

@@ -17,4 +17,4 @@ source_sha256: 7df3d678efda2306b68d3c0f5ca0e3e92b9066d5f773128f4ae19cb26bf44fff
 
 # Artículo 39
 
-Cada Permiso de Almacenamiento de Biocombustibles debe ser otorgado para una instalación específica, una capacidad y tipo de Biocombustible determinados, de conformidad con la práctica y las necesidades en la industria, la tecnología e infraestructura a desarrollar. Las características como capacidad, métodos y equipos de Almacenamiento por tipo de Biocombustible deben determinarse y delimitarse mediante Normas Oficiales Mexicanas, lineamientos o demás disposiciones que para tal efecto emita la SENER.
+Cada Permiso de Almacenamiento de Biocombustibles debe ser otorgado para una instalación específica, una capacidad y tipo de Biocombustible determinados, de conformidad con la práctica y las necesidades en la industria, la tecnología e infraestructura a desarrollar. Las características como capacidad, métodos y equipos de Almacenamiento por tipo de Biocombustible deben determinarse y delimitarse mediante Normas Oficiales Mexicanas, lineamientos o demás disposiciones que para tal efecto emita la [SENER](articulo-3.md).

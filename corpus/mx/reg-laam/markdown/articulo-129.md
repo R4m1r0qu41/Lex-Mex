@@ -17,4 +17,4 @@ source_sha256: 8515c812258bcc7c342e8566ff623c7f5e880f2eb9ee2ad154758077089f11ca
 
 # Artículo 129
 
-Los ascensos que se otorguen por méritos especiales serán conforme a los supuestos que establece la Ley.
+Los ascensos que se otorguen por méritos especiales serán conforme a los supuestos que establece la [Ley](articulo-5.md).

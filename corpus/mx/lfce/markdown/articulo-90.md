@@ -17,7 +17,7 @@ source_sha256: d0021bbef2e0c3251d6efdea2c1efd9959ff3f02df4bcd1fc37c1ee7826a72ba
 
 # Artículo 90
 
-Para el desahogo del procedimiento de notificación, se estará a lo siguiente: I. Cuando la notificación no reúna los requisitos a que se refieren las fracciones I a XII del [artículo anterior](articulo-89.md), la Comisión, dentro de los diez días siguientes al de la presentación del escrito, deberá prevenir a los notificantes para que, en un término que no exceda de diez días, presenten la información faltante. Dicho plazo podrá ser prorrogado a solicitud del notificante en casos debidamente justificados;
+Para el desahogo del procedimiento de notificación, se estará a lo siguiente: I. Cuando la notificación no reúna los requisitos a que se refieren las fracciones I a XII del [artículo anterior](articulo-89.md), la [Comisión](articulo-3.md), dentro de los diez días siguientes al de la presentación del escrito, deberá prevenir a los notificantes para que, en un término que no exceda de diez días, presenten la información faltante. Dicho plazo podrá ser prorrogado a solicitud del notificante en casos debidamente justificados;
 
 II. En caso de no desahogarse la prevención dentro del término previsto en la fracción anterior, la Comisión, dentro de los diez días siguientes al vencimiento del plazo, emitirá y notificará el acuerdo mediante el cual determine la no presentación de la notificación de concentración;
 
@@ -25,7 +25,7 @@ III. La Comisión podrá solicitar datos o documentos adicionales dentro de los 
 
 La Comisión puede requerir la información adicional que estime necesaria para el análisis de la concentración. Cuando no se presente la información adicional en el plazo previsto en el párrafo anterior, se tendrá por no notificada la concentración, debiendo la Comisión emitir y notificar al promovente el acuerdo respectivo dentro de los diez días siguientes al vencimiento de dicho plazo.
 
-La Comisión puede requerir información adicional a la señalada a otros Agentes Económicos relacionados con la concentración, así como a cualquier persona, incluyendo los notificantes y cualquier Autoridad Pública los informes y documentos que estime relevantes para realizar el análisis de las concentraciones en términos de este Título, sin que ello signifique que les dé el carácter de parte en el procedimiento.
+La Comisión puede requerir información adicional a la señalada a otros [Agentes Económicos](articulo-3.md) relacionados con la concentración, así como a cualquier persona, incluyendo los notificantes y cualquier [Autoridad Pública](articulo-3.md) los informes y documentos que estime relevantes para realizar el análisis de las concentraciones en términos de este Título, sin que ello signifique que les dé el carácter de parte en el procedimiento.
 
 Los requerimientos señalados en el párrafo anterior no suspenderán los plazos para resolver la notificación. Los requeridos deberán presentar la información solicitada dentro de los diez días siguientes a la notificación del requerimiento, los cuales podrán prorrogarse por un plazo igual a solicitud del requerido y cuando éste lo justifique;
 
@@ -51,7 +51,7 @@ VIII. La resolución favorable de la Comisión no prejuzgará sobre la realizaci
 
 La resolución favorable de la Comisión tendrá una vigencia de seis meses, prorrogables por una sola ocasión por causas justificadas.
 
-Los notificantes podrán presentar, desde su escrito de notificación y hasta un día después de que se liste el asunto para sesión del Pleno, propuestas de condiciones para evitar que como resultado de la concentración se disminuya, dañe o se impida el proceso de competencia y libre concurrencia.
+Los notificantes podrán presentar, desde su escrito de notificación y hasta un día después de que se liste el asunto para sesión del [Pleno](articulo-3.md), propuestas de condiciones para evitar que como resultado de la concentración se disminuya, dañe o se impida el proceso de competencia y libre concurrencia.
 
 En caso de que las propuestas de condiciones no sean presentadas con el escrito de notificación, el plazo para resolver quedará interrumpido el día en que los notificantes presenten su propuesta de condiciones o cualquier modificación a las mismas y volverá a contar desde su inicio. Los notificantes pueden realizar modificaciones o adiciones a su propuesta inicial de condiciones hasta un día después de que se liste el asunto para sesión del Pleno. Párrafo reformado DOF 16-07-2025
 

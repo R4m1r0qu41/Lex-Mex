@@ -17,4 +17,4 @@ source_sha256: 4bcc982b308b0813469b30db61b53d5a2c41e5a7240b3b1cac2f1aeeb2c00a2e
 
 # Artículo 185
 
-La Secretaría debe emitir las disposiciones administrativas de carácter general que prevean la metodología para establecer el requisito de Certificados de Energías Limpias al que se refiere el artículo [145](../../lse/markdown/articulo-145.md) de la Ley. Para tales efectos, la CNE debe brindar apoyo técnico a la Secretaría.
+La Secretaría debe emitir las disposiciones administrativas de carácter general que prevean la metodología para establecer el requisito de Certificados de Energías Limpias al que se refiere el artículo [145](../../lse/markdown/articulo-145.md) de la [Ley](articulo-2.md). Para tales efectos, la CNE debe brindar apoyo técnico a la Secretaría.

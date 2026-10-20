@@ -17,4 +17,4 @@ source_sha256: 9080231242a59cbd78d30fb747864bc45cd63d3c4978f37086b01e45343f4244
 
 # Artículo 21
 
-Las remuneraciones de las Personas Consejeras Independientes y de la Persona Comisaria deben ser establecidas por el Comité Especial y ser cubiertas con cargo a Petróleos Mexicanos.
+Las remuneraciones de las [Personas Consejeras Independientes](articulo-2.md) y de la [Persona Comisaria](articulo-2.md) deben ser establecidas por el [Comité Especial](articulo-2.md) y ser cubiertas con cargo a Petróleos Mexicanos.

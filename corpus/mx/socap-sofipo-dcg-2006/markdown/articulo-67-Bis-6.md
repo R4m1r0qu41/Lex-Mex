@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 67 Bis 6
 
-Las Sociedades Financieras Populares podrán optar por el procedimiento para la determinación de los requerimientos de capitalización por riesgo de crédito a que se refiere el Título Cuarto, Capítulo III, Sección Cuarta, Apartado B, Sub Apartado A de las presentes disposiciones, siempre y cuando dichas Sociedades Financieras Populares cuenten con la autorización de la Comisión.
+Las [Sociedades](articulo-1.md) Financieras Populares podrán optar por el procedimiento para la determinación de los requerimientos de capitalización por riesgo de crédito a que se refiere el Título Cuarto, Capítulo III, Sección Cuarta, Apartado B, Sub Apartado A de las presentes disposiciones, siempre y cuando dichas Sociedades Financieras Populares cuenten con la autorización de la Comisión.
 
 La Sociedad Financiera Popular formulará la solicitud de autorización a que se refiere el párrafo anterior, a través de un escrito en formato libre suscrito por su Director General, que deberá ir acompañado del análisis cuantitativo y/o cualitativo que refleje el impacto estimado que la Sociedad Financiera Popular tendría tras la adopción del nuevo procedimiento considerando un horizonte de doce meses.
 

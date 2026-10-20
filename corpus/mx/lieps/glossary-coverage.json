@@ -1,0 +1,435 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-3",
+  "instrument_id": "urn:lex-mx:federal:statute:lieps",
+  "source_sha256": "32639ede8448f91e6ddde556d4b8bceaf349b904bc21631f06e1c8a7a3d416f4",
+  "extracted_text_sha256": "c4b6dac008c1dfa3cf9fd92a232ac948ad31e158d1a1304e4e81ca33832c8736",
+  "status": "configured",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
+      "provision_text_sha256": "9c80c1dc34488ddc56b82465adc6bf0941894b64ac09962e2a633c53f0f6e232",
+      "method": "auto_whole",
+      "fractions": [
+        "I",
+        "I",
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "VIII",
+        "VIII",
+        "VIII",
+        "VIII",
+        "IX",
+        "IX",
+        "IX",
+        "IX",
+        "X",
+        "XII",
+        "XIII",
+        "XIV",
+        "XV",
+        "XVI",
+        "XVII",
+        "XVIII",
+        "XIX",
+        "XX",
+        "XX Bis",
+        "XXI",
+        "XXII",
+        "XXII",
+        "XXII",
+        "XXII",
+        "XXII",
+        "XXII",
+        "XXII",
+        "XXII",
+        "XXII",
+        "XXII",
+        "XXII",
+        "XXIII",
+        "XXIV",
+        "XXV",
+        "XXVI",
+        "XXVII",
+        "XXVIII",
+        "XXIX",
+        "XXX",
+        "XXXI",
+        "XXXII",
+        "XXXIII",
+        "XXXIV",
+        "XXXV",
+        "XXXVI",
+        "XXXVII",
+        "XXXVIII",
+        "XXXIX"
+      ],
+      "repeal_placeholders": [
+        "XI"
+      ],
+      "profile": {
+        "strategy_version": "glossary-extraction-3",
+        "provision_text_sha256": "9c80c1dc34488ddc56b82465adc6bf0941894b64ac09962e2a633c53f0f6e232",
+        "rationale": "Operator rulings 2026-10-19: I, VIII and XXII are parents defined by their incisos (VIII as \"Tabacos labrados\"); IX's incisos are the definitions; XXII d) and g) only point to IX b) and c). Machine boundary readings awaiting operator review, not rulings: XIX and XXXVIII define the whole printed name, which has internal commas, up to the definition (\", a los productos\", \", aquellos que\"); XXII f) \"Turbosina y kerosenos\" is one term.",
+        "evidence": "docs/decisions.md (2026-10-19, LIEPS glossary under its rulings)",
+        "entries": [
+          {
+            "fraction": "I",
+            "disposition": "definition",
+            "terms": [
+              {
+                "text": "Bebidas con contenido alcohólico",
+                "start_char": 49
+              }
+            ],
+            "incisos": [
+              {
+                "marker": {
+                  "text": "a)",
+                  "start_char": 165
+                },
+                "disposition": "definition",
+                "terms": [
+                  {
+                    "text": "Bebidas alcohólicas",
+                    "start_char": 168
+                  }
+                ]
+              },
+              {
+                "marker": {
+                  "text": "b)",
+                  "start_char": 421
+                },
+                "disposition": "definition",
+                "terms": [
+                  {
+                    "text": "Bebidas refrescantes",
+                    "start_char": 424
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "fraction": "VIII",
+            "disposition": "definition",
+            "terms": [
+              {
+                "text": "Tabacos labrados",
+                "start_char": 2489
+              }
+            ],
+            "incisos": [
+              {
+                "marker": {
+                  "text": "a)",
+                  "start_char": 2549
+                },
+                "disposition": "definition",
+                "terms": [
+                  {
+                    "text": "Cigarros",
+                    "start_char": 2552
+                  }
+                ]
+              },
+              {
+                "marker": {
+                  "text": "b)",
+                  "start_char": 2728
+                },
+                "disposition": "definition",
+                "terms": [
+                  {
+                    "text": "Puros",
+                    "start_char": 2731
+                  }
+                ]
+              },
+              {
+                "marker": {
+                  "text": "c)",
+                  "start_char": 2863
+                },
+                "disposition": "definition",
+                "terms": [
+                  {
+                    "text": "Otros tabacos labrados",
+                    "start_char": 2866
+                  }
+                ]
+              },
+              {
+                "marker": {
+                  "text": "d)",
+                  "start_char": 3065
+                },
+                "disposition": "definition",
+                "terms": [
+                  {
+                    "text": "Otros productos que contengan nicotina",
+                    "start_char": 3068
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "fraction": "IX",
+            "disposition": "definition",
+            "incisos": [
+              {
+                "marker": {
+                  "text": "a)",
+                  "start_char": 3550
+                },
+                "disposition": "definition",
+                "terms": [
+                  {
+                    "text": "Combustibles automotrices",
+                    "start_char": 3553
+                  }
+                ]
+              },
+              {
+                "marker": {
+                  "text": "b)",
+                  "start_char": 3683
+                },
+                "disposition": "definition",
+                "terms": [
+                  {
+                    "text": "Gasolina",
+                    "start_char": 3686
+                  }
+                ]
+              },
+              {
+                "marker": {
+                  "text": "c)",
+                  "start_char": 4148
+                },
+                "disposition": "definition",
+                "terms": [
+                  {
+                    "text": "Diésel",
+                    "start_char": 4151
+                  }
+                ]
+              },
+              {
+                "marker": {
+                  "text": "d)",
+                  "start_char": 4566
+                },
+                "disposition": "definition",
+                "terms": [
+                  {
+                    "text": "Combustibles no fósiles",
+                    "start_char": 4569
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "fraction": "XIX",
+            "disposition": "definition",
+            "terms": [
+              {
+                "text": "Concentrados, polvos y jarabes, esencias o extractos de sabores, que permitan obtener bebidas saborizadas",
+                "start_char": 9612
+              }
+            ]
+          },
+          {
+            "fraction": "XXII",
+            "disposition": "definition",
+            "terms": [
+              {
+                "text": "Combustibles fósiles",
+                "start_char": 10616
+              }
+            ],
+            "incisos": [
+              {
+                "marker": {
+                  "text": "a)",
+                  "start_char": 10639
+                },
+                "disposition": "definition",
+                "terms": [
+                  {
+                    "text": "Gas Natural",
+                    "start_char": 10642
+                  }
+                ]
+              },
+              {
+                "marker": {
+                  "text": "b)",
+                  "start_char": 10869
+                },
+                "disposition": "definition",
+                "terms": [
+                  {
+                    "text": "Propano",
+                    "start_char": 10872
+                  }
+                ]
+              },
+              {
+                "marker": {
+                  "text": "c)",
+                  "start_char": 10989
+                },
+                "disposition": "definition",
+                "terms": [
+                  {
+                    "text": "Butano",
+                    "start_char": 10992
+                  }
+                ]
+              },
+              {
+                "marker": {
+                  "text": "d)",
+                  "start_char": 11221
+                },
+                "disposition": "cross_reference",
+                "refers_to": {
+                  "fraction": "IX",
+                  "inciso": "b"
+                }
+              },
+              {
+                "marker": {
+                  "text": "e)",
+                  "start_char": 11371
+                },
+                "disposition": "definition",
+                "terms": [
+                  {
+                    "text": "Gasavión",
+                    "start_char": 11374
+                  }
+                ]
+              },
+              {
+                "marker": {
+                  "text": "f)",
+                  "start_char": 11598
+                },
+                "disposition": "definition",
+                "terms": [
+                  {
+                    "text": "Turbosina y kerosenos",
+                    "start_char": 11601
+                  }
+                ]
+              },
+              {
+                "marker": {
+                  "text": "g)",
+                  "start_char": 11941
+                },
+                "disposition": "cross_reference",
+                "refers_to": {
+                  "fraction": "IX",
+                  "inciso": "c"
+                }
+              },
+              {
+                "marker": {
+                  "text": "h)",
+                  "start_char": 12089
+                },
+                "disposition": "definition",
+                "terms": [
+                  {
+                    "text": "Combustóleo",
+                    "start_char": 12092
+                  }
+                ]
+              },
+              {
+                "marker": {
+                  "text": "i)",
+                  "start_char": 12514
+                },
+                "disposition": "definition",
+                "terms": [
+                  {
+                    "text": "Coque de Petróleo",
+                    "start_char": 12517
+                  }
+                ]
+              },
+              {
+                "marker": {
+                  "text": "j)",
+                  "start_char": 12662
+                },
+                "disposition": "definition",
+                "terms": [
+                  {
+                    "text": "Coque de Carbón",
+                    "start_char": 12665
+                  }
+                ]
+              },
+              {
+                "marker": {
+                  "text": "k)",
+                  "start_char": 12836
+                },
+                "disposition": "definition",
+                "terms": [
+                  {
+                    "text": "Carbón Mineral",
+                    "start_char": 12839
+                  }
+                ]
+              },
+              {
+                "marker": {
+                  "text": "l)",
+                  "start_char": 13033
+                },
+                "disposition": "definition",
+                "terms": [
+                  {
+                    "text": "Otros combustibles fósiles",
+                    "start_char": 13036
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "fraction": "XXXVIII",
+            "disposition": "definition",
+            "terms": [
+              {
+                "text": "Videojuego con contenido violento, extremo o para adulto, no apto para personas menores de 18 años",
+                "start_char": 17584
+              }
+            ]
+          }
+        ]
+      },
+      "term_count": 58
+    }
+  ],
+  "imports": [],
+  "usage_form": "with_lowercase",
+  "term_count": 58,
+  "usage_count": 328
+}

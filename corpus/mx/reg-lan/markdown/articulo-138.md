@@ -17,7 +17,7 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 138
 
-Las solicitudes de permiso de descarga de aguas residuales que se presenten a "La Comisión", deberán contener:
+Las solicitudes de permiso de descarga de aguas residuales que se presenten a "[La Comisión](articulo-1o.md)", deberán contener:
 
 I. Nombre, domicilio y giro o actividad de la persona física o moral que realice la descarga;
 
@@ -31,7 +31,7 @@ V. Nombre y ubicación del cuerpo o cuerpos receptores;
 
 VI. Croquis de localización de la descarga o descargas, así como en su caso de las estructuras e instalaciones para su manejo y control, y
 
-VII. Descripción, en su caso, de los sistemas y procesos para el tratamiento de aguas residuales para satisfacer las condiciones particulares de descarga que establezca "La Comisión", conforme a lo dispuesto en la "Ley" y el "Reglamento".
+VII. Descripción, en su caso, de los sistemas y procesos para el tratamiento de aguas residuales para satisfacer las condiciones particulares de descarga que establezca "La Comisión", conforme a lo dispuesto en la "[Ley](articulo-1o.md)" y el "[Reglamento](articulo-1o.md)".
 
 La solicitud deberá acompañarse de la memoria técnica que fundamente la información a que se refiere el presente artículo y, en especial, a la forma en que el solicitante cumplirá con las normas, condiciones y especificaciones técnicas establecidas.
 

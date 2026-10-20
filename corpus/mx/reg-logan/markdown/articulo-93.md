@@ -19,7 +19,7 @@ source_sha256: 0ad7a7b6d7dffd7d9a582d74ebd6fc43e6baa79f71801a73dc70d1b77c414ded
 
 El registro de una organización ganadera se revocará previa resolución que emita la Secretaría, cuando:
 
-I. No cuenten con los recursos suficientes para su sostenimiento o con las instalaciones necesarias para el cumplimiento de su objeto en términos de la Ley y este Reglamento;
+I. No cuenten con los recursos suficientes para su sostenimiento o con las instalaciones necesarias para el cumplimiento de su objeto en términos de la Ley y este [Reglamento](articulo-2o.md);
 
 II. El número de sus socios en virtud de separaciones, llegue a ser inferior al mínimo necesario que la Ley establece;
 

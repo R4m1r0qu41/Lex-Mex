@@ -17,7 +17,7 @@ source_sha256: 4e276866fce1638948a6daf1a5c0438fa412554f1a6e0381cbdf7cb300e3db75
 
 # Artículo 129
 
-En la resolución que expida la Comisión podrá:
+En la resolución que expida la [Comisión](articulo-3o.md) podrá:
 
 I. Emitir el certificado, o
 
@@ -37,7 +37,7 @@ d) Estrategia de manejo que deberá incluir:
 
 2. Los lineamientos para el uso y aprovechamiento de los recursos naturales del predio;
 
-3. La periodicidad y contenido de los reportes que presentará a la Secretaría, y
+3. La periodicidad y contenido de los reportes que presentará a la [Secretaría](articulo-3o.md), y
 
 4. En su caso, las acciones de restauración de zonas alteradas.
 
@@ -45,6 +45,6 @@ e) Deberes del propietario, y
 
 f) Vigencia mínima de quince años.
 
-La Comisión realizará la anotación que corresponda en el Registro Nacional de Áreas Naturales Protegidas.
+La Comisión realizará la anotación que corresponda en el [Registro](articulo-3o.md) Nacional de Áreas Naturales Protegidas.
 
 Artículo reformado DOF 21-05-2014

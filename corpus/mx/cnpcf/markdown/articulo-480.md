@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo II
+
 # Artículo 480
 
 En el auto de admisión se mandará emplazar a la persona deudora conforme lo regula el presente [Código Nacional](articulo-2.md), para que dentro de nueve días concurra a oponerse a su ejecución, si para ello tuviere excepciones que hacer valer y se dictará auto de ejecución, ordenando que se requiera de pago a la persona deudora y de no pagar se le embarguen bienes suficientes para garantizar la deuda de forma precautoria.

@@ -17,4 +17,4 @@ source_sha256: c24aa3a57883383635d5271683dd76e561f21852328f0e89f6bf1c2a09aa2d41
 
 # Artículo 30
 
-El PLATEASE debe identificar, evaluar, diseñar, innovar, establecer e instrumentar estrategias, acciones y proyectos en materia de redes eléctricas inteligentes y almacenamiento de energía.
+El [PLATEASE](articulo-3.md) debe identificar, evaluar, diseñar, innovar, establecer e instrumentar estrategias, acciones y proyectos en materia de redes eléctricas inteligentes y almacenamiento de energía.

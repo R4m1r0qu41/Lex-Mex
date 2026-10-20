@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo Único
+
 # Artículo 846
 
 Si transcurrido el plazo de los tres meses referido en el [artículo anterior](articulo-845.md), no se tiene una lista definitiva de créditos o no se ha aprobado un convenio con plan de pagos, el facilitador o conciliador deberá entregar de inmediato a la autoridad jurisdiccional:

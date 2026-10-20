@@ -31,7 +31,7 @@ VI. Realizar actividades de acuacultura o pesca de fomento, didáctica o deporti
 
 VII. Simular actos de pesca de consumo doméstico, de fomento, deportivo-recreativa o didáctica con el propósito de lucrar con los productos obtenidos de las capturas;
 
-VIII. Sustituir al titular de los derechos consignados en las concesiones o permisos sin autorización expresa de la Secretaría;
+VIII. Sustituir al titular de los derechos consignados en las concesiones o permisos sin autorización expresa de la [Secretaría](articulo-4o.md);
 
 IX. No llevar a bordo de las embarcaciones la documentación original expedida por la Secretaría para acreditar la concesión o permiso, o no tener en las instalaciones acuícolas copia certificada de la misma;
 
@@ -45,7 +45,7 @@ XIII. Practicar la pesca en alta mar o en aguas de jurisdicción extranjera, con
 
 XIV. No acatar las condiciones y requisitos establecidos en las autorizaciones otorgadas por gobiernos extranjeros al gobierno mexicano, para la captura de especies;
 
-XV. Hacer uso indebido de la información técnica o científica de la Secretaría o del IMIPAS; Fracción reformada DOF 04-12-2023
+XV. Hacer uso indebido de la información técnica o científica de la Secretaría o del [IMIPAS](articulo-4o.md); Fracción reformada DOF 04-12-2023
 
 XVI. Transportar o utilizar en embarcaciones destinadas a la pesca, instrumentos explosivos, sustancias contaminantes;
 
@@ -63,7 +63,7 @@ XXII. No proporcionar la información en los términos y plazos que solicite la 
 
 XXIV. Introducir o manejar bajo cualquier forma, especies o material biológico en aguas de jurisdicción federal, que causen daño, alteren o pongan en peligro la conservación de los recursos pesqueros;
 
-XXV. No cumplir con la obligación de inscripción y actualización en el Registro Nacional de Pesca y Acuacultura, en los términos de esta Ley y su reglamento;
+XXV. No cumplir con la obligación de inscripción y actualización en el [Registro](articulo-4o.md) Nacional de [Pesca](articulo-4o.md) y [Acuacultura](articulo-4o.md), en los términos de esta Ley y su reglamento;
 
 XXVI. Incumplir lo establecido en las normas oficiales que deriven de esta Ley;
 

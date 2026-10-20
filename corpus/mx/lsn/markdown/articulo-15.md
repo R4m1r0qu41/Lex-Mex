@@ -17,7 +17,7 @@ source_sha256: 7b3cf7a0ff59f76503a97a535457c4a7dd3b1305e7a36f4fca82bd661eab1168
 
 # Artículo 15
 
-El Secretario Técnico del Consejo tendrá a su cargo las siguientes funciones:
+El Secretario Técnico del [Consejo](articulo-6.md) tendrá a su cargo las siguientes funciones:
 
 I. Elaborar y certificar los acuerdos que se tomen en el Consejo, llevando su archivo y el de los instrumentos jurídicos que se generen en el seno del mismo; II. Realizar las acciones necesarias para la debida ejecución y seguimientos de los acuerdos del Consejo;
 

@@ -17,4 +17,4 @@ source_sha256: 70464807d63da08244e495f2ff0ac30b12b30119926b84cedc7930397fcb80ef
 
 # Artículo 81
 
-La Secretaría, en coordinación con las dependencias competentes, determinará lo salubre o insalubre de una zona de producción o extracción de productos de la pesca, así como del agua que se destine al abastecimiento de dichas zonas, de acuerdo con los resultados de los análisis físicos, químicos, microbiológicos y especiales de esas aguas.
+La [Secretaría](articulo-2o.md), en coordinación con las dependencias competentes, determinará lo salubre o insalubre de una zona de producción o extracción de productos de la pesca, así como del agua que se destine al abastecimiento de dichas zonas, de acuerdo con los resultados de los análisis físicos, químicos, microbiológicos y especiales de esas aguas.

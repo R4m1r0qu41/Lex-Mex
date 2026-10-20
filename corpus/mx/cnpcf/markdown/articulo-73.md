@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Primero · Capítulo I
+
 # Artículo 73
 
 En los juicios orales si la excepción de falta de personalidad fuere sobrevenida en la audiencia preliminar, se resolverá previo derecho de contradicción en la misma audiencia de la parte contraria, en la que la autoridad jurisdiccional escuchará los argumentos de las partes, proveerá lo necesario para la admisión o desechamiento de pruebas y las mandará recibir en la misma audiencia si fuere posible, resolviendo en el acto la resolución que en derecho proceda, de forma fundada y motivada, dejando constancia de los puntos resolutivos en el acta mínima que se levante con motivo de la misma.

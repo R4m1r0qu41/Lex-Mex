@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Primero · Capítulo I
+
 # Artículo 67
 
 La excepción de litispendencia procede cuando la autoridad jurisdiccional conoce de un juicio en el que hay identidad entre partes, acciones deducidas y objetos reclamados, cuando las partes litiguen con el mismo carácter. Quien la oponga, debe señalar precisamente la autoridad jurisdiccional ante quien se tramita el primer juicio y declarar bajo protesta de decir verdad, que no se ha dictado sentencia definitiva en el juicio primeramente promovido.

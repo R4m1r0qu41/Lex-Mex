@@ -18,8 +18,8 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 270
 
-Las Federaciones deberán proporcionar a la Comisión, el Registro de las Sociedades Financieras Populares respecto de las que ejerzan facultades de supervisión auxiliar, en los términos siguientes:
+Las [Federaciones](articulo-1.md) deberán proporcionar a la Comisión, el [Registro](articulo-1.md) de las [Sociedades](articulo-1.md) Financieras Populares respecto de las que ejerzan facultades de supervisión auxiliar, en los términos siguientes:
 
-I. Por única vez y respecto de cada Sociedad Financiera Popular sobre la que ejerzan facultades de supervisión auxiliar, en un plazo de 30 días contado a partir de la fecha en que la Comisión autorice a dichas Sociedades Financieras Populares a operar conforme a la Ley, y
+I. Por única vez y respecto de cada Sociedad Financiera Popular sobre la que ejerzan facultades de supervisión auxiliar, en un plazo de 30 días contado a partir de la fecha en que la Comisión autorice a dichas Sociedades Financieras Populares a operar conforme a la [Ley](articulo-1.md), y
 
 II. Deberán actualizar dicho Registro dentro de los 15 días siguientes al último día de los meses de marzo, junio, septiembre y diciembre, indicando, en su caso, las modificaciones correspondientes.

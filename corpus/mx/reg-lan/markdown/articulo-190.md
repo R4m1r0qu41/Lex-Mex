@@ -17,6 +17,6 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 190
 
-La tramitación del recurso de revisión que establece el artículo [124](../../lan/markdown/articulo-124.md) de la "Ley", se sujetará a las disposiciones de este "Reglamento" y, en lo no previsto, a las del Código Federal de Procedimientos Civiles.
+La tramitación del recurso de revisión que establece el artículo [124](../../lan/markdown/articulo-124.md) de la "[Ley](articulo-1o.md)", se sujetará a las disposiciones de este "[Reglamento](articulo-1o.md)" y, en lo no previsto, a las del Código Federal de Procedimientos Civiles.
 
-Si se interpone recurso de revocación o de nulidad de notificaciones contra actos y resoluciones que emita "La Comisión" en materia fiscal, conforme a la presente "Ley", los mismos serán resueltos por ésta en los términos del Código Fiscal de la Federación.
+Si se interpone recurso de revocación o de nulidad de notificaciones contra actos y resoluciones que emita "[La Comisión](articulo-1o.md)" en materia fiscal, conforme a la presente "Ley", los mismos serán resueltos por ésta en los términos del Código Fiscal de la Federación.

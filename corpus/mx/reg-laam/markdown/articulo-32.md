@@ -17,7 +17,7 @@ source_sha256: 8515c812258bcc7c342e8566ff623c7f5e880f2eb9ee2ad154758077089f11ca
 
 # Artículo 32
 
-La Jefatura de Operaciones, previo acuerdo con el Alto Mando, comunicará a las personas participantes por conducto de los Mandos, lo siguiente: Párrafo reformado DOF 11-03-2016, 02-04-2026
+La [Jefatura de Operaciones](articulo-5.md), previo acuerdo con el [Alto Mando](articulo-5.md), comunicará a las personas participantes por conducto de los Mandos, lo siguiente: Párrafo reformado DOF 11-03-2016, 02-04-2026
 
 I. La relación del personal convocado;
 
@@ -29,4 +29,4 @@ IV. Se deroga. Fracción derogada DOF 22-09-2010
 
 V. Se deroga. Fracción derogada DOF 22-09-2010
 
-VI. La demás información que determinen otras disposiciones aplicables al Proceso de Selección. Fracción reformada DOF 11-03-2016
+VI. La demás información que determinen otras disposiciones aplicables al [Proceso de Selección](articulo-5.md). Fracción reformada DOF 11-03-2016

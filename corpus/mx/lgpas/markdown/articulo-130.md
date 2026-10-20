@@ -23,6 +23,6 @@ Si el visitado, en el plazo que señala el primer párrafo de éste artículo of
 
 Admitidas y desahogadas las pruebas ofrecidas por el interesado, o habiendo transcurrido el plazo a que se refiere el primer párrafo de este artículo, sin que haya hecho uso de ese derecho, se pondrán a su disposición las actuaciones, para que en un plazo de tres días hábiles presente por escrito sus alegatos. Párrafo reformado DOF 02-06-2015
 
-Una vez recibidos los alegatos o transcurrido el término para presentarlos, la Secretaría procederá, dentro de los veinte días siguientes, a dictar por escrito la resolución respectiva, misma que se notificará al interesado, personalmente o por correo certificado con acuse de recibo.
+Una vez recibidos los alegatos o transcurrido el término para presentarlos, la [Secretaría](articulo-4o.md) procederá, dentro de los veinte días siguientes, a dictar por escrito la resolución respectiva, misma que se notificará al interesado, personalmente o por correo certificado con acuse de recibo.
 
 En los casos en que proceda, la Secretaría hará del conocimiento del Ministerio Público Federal la realización de actos u omisiones constatados en el ejercicio de sus facultades que pudieran configurar uno o más delitos.

@@ -17,4 +17,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Artículo 125
 
-Las personas Transportistas son responsables de medir y conservar la calidad y cantidad del producto que transporten, desde su recepción y hasta la entrega a la persona Usuaria o Usuaria Final, de conformidad con la Normatividad aplicable.
+Las personas [Transportistas](articulo-3.md) son responsables de medir y conservar la calidad y cantidad del producto que transporten, desde su recepción y hasta la entrega a la persona Usuaria o Usuaria Final, de conformidad con la [Normatividad](articulo-3.md) aplicable.

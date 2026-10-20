@@ -17,4 +17,4 @@ source_sha256: 8262a75eac7bfb608d4f48657ffb2714fe115d0b9694c42ac81624fd275bf5f6
 
 # Artículo 60
 
-En el caso de que se identifiquen irregularidades en el manejo de los recursos del Fondo Mexicano del Petróleo, se aplicarán las sanciones señaladas en las disposiciones jurídicas aplicables.
+En el caso de que se identifiquen irregularidades en el manejo de los recursos del [Fondo Mexicano del Petróleo](articulo-3.md), se aplicarán las sanciones señaladas en las disposiciones jurídicas aplicables.

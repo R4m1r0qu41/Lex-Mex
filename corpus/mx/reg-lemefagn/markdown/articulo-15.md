@@ -17,7 +17,7 @@ source_sha256: 703f083c0baedfb4ef5ce8b62c78684d8ee0073f393321d476d75ebe4878e1d5
 
 # Artículo 15
 
-Las personas discentes de las Instituciones Educativas se clasifican en las categorías siguientes: Párrafo reformado DOF 20-03-2026
+Las personas discentes de las [Instituciones Educativas](articulo-3.md) se clasifican en las categorías siguientes: Párrafo reformado DOF 20-03-2026
 
 I. Internas: cuando permanecen durante las 24 horas del día en la Institución Educativa correspondiente; Fracción reformada DOF 20-03-2026
 

@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 99
 
-Lo dispuesto en la presente Sección le aplicará a las Sociedades Financieras Populares clasificadas en el Nivel de Regulación Prudencial III conforme al artículo [209 Bis 12](articulo-209-Bis-12.md), fracción III de las presentes disposiciones.
+Lo dispuesto en la presente Sección le aplicará a las [Sociedades](articulo-1.md) Financieras Populares clasificadas en el [Nivel de Regulación Prudencial](articulo-1.md) III conforme al artículo [209 Bis 12](articulo-209-Bis-12.md), fracción III de las presentes disposiciones.
 
 Las Sociedades Financieras Populares que durante seis meses consecutivos actualicen el supuesto establecido en el artículo [209 Bis 12](articulo-209-Bis-12.md), fracción IV de las presentes disposiciones, deberán adecuar sus procesos, manuales, políticas y demás aspectos administrativos que les permitan dar cumplimiento al Nivel de Regulación Prudencial IV. Para lo anterior, contarán con un plazo de tres meses posteriores al plazo antes citado, durante los cuales seguirán cumpliendo con lo dispuesto en la presente Sección, pudiendo solicitar a la Comisión una extensión de hasta tres meses adicionales para realizar las adecuaciones necesarias para dar cumplimiento a su nuevo Nivel de Regulación Prudencial IV.
 

@@ -17,6 +17,6 @@ source_sha256: c78882a0177403ee04cd38dd09fa1657dc221b7f6827ddacf251c699ede867e4
 
 # Artículo 73 QUATER
 
-La Agencia Federal de Aviación Civil debe vigilar que las personas encargadas de realizar las verificaciones, pruebas e inspecciones de la seguridad de la aviación civil reciban la capacitación adecuada para esas funciones, de conformidad con las disposiciones técnico- administrativas correspondientes.
+La [Agencia Federal de Aviación Civil](articulo-2.md) debe vigilar que las personas encargadas de realizar las verificaciones, pruebas e inspecciones de la seguridad de la aviación civil reciban la capacitación adecuada para esas funciones, de conformidad con las disposiciones técnico- administrativas correspondientes.
 
 Artículo adicionado DOF 03-05-2023

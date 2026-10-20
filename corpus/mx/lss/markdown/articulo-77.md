@@ -17,7 +17,7 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 77
 
-El patrón que estando obligado a asegurar a sus trabajadores contra riesgos de trabajo no lo hiciera, deberá enterar al Instituto, en caso de que ocurra el siniestro, los capitales constitutivos de las prestaciones en dinero y en especie, de conformidad con lo dispuesto en la presente Ley, sin perjuicio de que el Instituto otorgue desde luego las prestaciones a que haya lugar.
+El patrón que estando obligado a asegurar a sus trabajadores contra riesgos de trabajo no lo hiciera, deberá enterar al [Instituto](articulo-5-A.md), en caso de que ocurra el siniestro, los capitales constitutivos de las prestaciones en dinero y en especie, de conformidad con lo dispuesto en la presente [Ley](articulo-5-A.md), sin perjuicio de que el Instituto otorgue desde luego las prestaciones a que haya lugar.
 
 La misma regla se observará cuando el patrón asegure a sus trabajadores en forma tal que se disminuyan las prestaciones a que los trabajadores asegurados o sus beneficiarios tuvieran derecho, limitándose los capitales constitutivos, en este caso, a la suma necesaria para completar las prestaciones correspondientes señaladas en la Ley.
 

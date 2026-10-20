@@ -17,7 +17,7 @@ source_sha256: 71ee875c26fc6a1024ea9481ca0690721959514689d860112c3093f0176dfcfb
 
 # Artículo 15
 
-El Modelo de Atención es el conjunto de servicios integrales y especializados proporcionados a las Víctimas, sus hijas e hijos, y a los Agresores, con la finalidad de atender el impacto de la violencia, los cuales deberán ser prestados de acuerdo con la Política Nacional Integral, los principios rectores, los Ejes de Acción y el Programa.
+El [Modelo](articulo-2.md) de Atención es el conjunto de servicios integrales y especializados proporcionados a las Víctimas, sus hijas e hijos, y a los Agresores, con la finalidad de atender el impacto de la violencia, los cuales deberán ser prestados de acuerdo con la [Política Nacional Integral](articulo-2.md), los principios rectores, los Ejes de Acción y el Programa.
 
 Sin perjuicio de lo previsto en el Programa, el Modelo de Atención tendrá los siguientes componentes:
 

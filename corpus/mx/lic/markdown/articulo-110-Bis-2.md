@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LIC.pdf
 source_sha256: 98225a423eaa3dc47c9ec4ddb49ef8b188ed7f8e7e9ef17323a1c33e47e4284d
 ---
 
-> Título QUINTO · Capítulo II
+> Título QUINTO · Capítulo III
 
 # Artículo 110 Bis 2
 
@@ -33,6 +33,8 @@ III. Por edictos, en los supuestos señalados en el artículo [110 Bis 10](artic
 
 IV. Por medio electrónico, en el supuesto previsto en el artículo [110 Bis 11](articulo-110-Bis-11.md) de esta Ley.
 
-Respecto a la información y documentación que deba exhibirse a los inspectores de las Comisiones Nacionales Bancaria y de Valores y para la Protección y Defensa de los Usuarios de Servicios Financieros, al amparo de una visita de inspección se deberá observar lo previsto en los reglamentos expedidos por el Ejecutivo Federal, en materia de supervisión, al amparo de lo establecido en los artículos [5](../../lcnbv/markdown/articulo-5.md), primer párrafo de la Ley de la Comisión Nacional Bancaria y de Valores y 92 Bis, primer párrafo de la Ley de Protección y Defensa al Usuario de Servicios Financieros. Párrafo reformado DOF 10-01-2014 Para efectos de este Capítulo, se entenderá por autoridades financieras a la Secretaría de Hacienda y Crédito Público, las Comisiones Nacionales Bancaria y de Valores y para la Protección y Defensa de los Usuarios de Servicios Financieros, el Instituto para la Protección al Ahorro Bancario y el Banco de México. Párrafo reformado DOF 10-01-2014
+Respecto a la información y documentación que deba exhibirse a los inspectores de las Comisiones Nacionales Bancaria y de Valores y para la Protección y Defensa de los Usuarios de Servicios Financieros, al amparo de una visita de inspección se deberá observar lo previsto en los reglamentos expedidos por el Ejecutivo Federal, en materia de supervisión, al amparo de lo establecido en los artículos [5](../../lcnbv/markdown/articulo-5.md), primer párrafo de la Ley de la Comisión Nacional Bancaria y de Valores y 92 Bis, primer párrafo de la Ley de Protección y Defensa al Usuario de Servicios Financieros. Párrafo reformado DOF 10-01-2014
+
+Para efectos de este Capítulo, se entenderá por autoridades financieras a la Secretaría de Hacienda y Crédito Público, las Comisiones Nacionales Bancaria y de Valores y para la Protección y Defensa de los Usuarios de Servicios Financieros, el Instituto para la Protección al Ahorro Bancario y el Banco de México. Párrafo reformado DOF 10-01-2014
 
 Artículo adicionado DOF 06-02-2008

@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf
 source_sha256: 43927095d22ff7bc7780e78132d2160b5050b5f76026b539daec32be09d7341d
 ---
 
-> Capítulo II · Sección TERCERA
+> Título Séptimo · Capítulo Unico
 
 # Artículo 165
 
@@ -33,7 +33,9 @@ III. Cuando el agente aduanal, al tramitar las operaciones de comercio exterior,
 
 De igual forma, será cancelada la patente si el agente aduanal efectúa el trámite de las operaciones de comercio exterior y declara los datos a que se refiere el párrafo anterior de una persona de la cual no cuente con el encargo conferido en términos del artículo [59](articulo-59.md), fracción III de esta Ley. Fracción reformada DOF 30-12-1996, 25-06-2018, 19-11-2025
 
-IV. (Se deroga). Fracción derogada DOF 09-12-2013 V. Ser condenado en sentencia definitiva por haber participado en la comisión de delitos fiscales o de otros delitos que ameriten pena corporal. En este caso no se podrá solicitar nuevamente la autorización para obtener una patente de agente aduanal. Fracción reformada DOF 19-11-2025
+IV. (Se deroga). Fracción derogada DOF 09-12-2013
+
+V. Ser condenado en sentencia definitiva por haber participado en la comisión de delitos fiscales o de otros delitos que ameriten pena corporal. En este caso no se podrá solicitar nuevamente la autorización para obtener una patente de agente aduanal. Fracción reformada DOF 19-11-2025
 
 VI. Permitir el uso de cualesquiera de los derechos consignados en la patente o de la patente misma, por un tercero, salvo que se trate de la agencia aduanal a la que se encuentre adscrito. Fracción reformada DOF 09-12-2013, 25-06-2018
 

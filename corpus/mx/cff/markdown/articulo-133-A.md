@@ -44,5 +44,3 @@ Para los efectos de esta fracción, no se entenderá que el perjuicio se increme
 Cuando se interponga un medio de impugnación, se suspenderá el efecto de la resolución recaída al recurso hasta que se dicte la sentencia que ponga fin a la controversia. Asimismo, se suspenderá el plazo para dar cumplimiento a la resolución cuando el contribuyente desocupe su domicilio fiscal sin haber presentado el aviso de cambio correspondiente o cuando no se le localice en el que haya señalado, hasta que se le localice.
 
 Los plazos para cumplimiento de la resolución que establece este artículo empezarán a correr a partir de que hayan transcurrido los treinta días para impugnarla, salvo que el contribuyente demuestre haber interpuesto medio de defensa.
-
-Sección Cuarta Del Trámite y Resolución del Recurso de Revocación Exclusivo de Fondo

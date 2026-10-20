@@ -23,6 +23,6 @@ Al patrón o sujeto obligado persona moral, se le asignará un número de regist
 
 Tratándose de patrones que realicen en forma ocasional actividades de ampliación, remodelación o construcción en sus propias instalaciones, se les asignará un número de registro patronal diferente al de su actividad principal.
 
-A solicitud por escrito del patrón, el Instituto podrá asignar un registro patronal único o en condiciones diferentes, en la forma y términos que se señalen en los lineamientos que para tal efecto expida el Consejo Técnico.
+A solicitud por escrito del patrón, el [Instituto](../../lss/markdown/articulo-5-A.md) podrá asignar un registro patronal único o en condiciones diferentes, en la forma y términos que se señalen en los lineamientos que para tal efecto expida el Consejo Técnico.
 
 En el caso de las sociedades cooperativas, se aplicará un registro patronal para el aseguramiento de sus trabajadores y otro diferente para el aseguramiento de sus socios.

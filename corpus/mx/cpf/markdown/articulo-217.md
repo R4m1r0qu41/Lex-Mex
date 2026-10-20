@@ -23,7 +23,9 @@ I.- El servidor público que ilícitamente: Párrafo reformado DOF 18-07-2016
 
 A) Otorgue concesiones de prestación de servicio público o de explotación, aprovechamiento y uso de bienes de dominio de la Federación;
 
-B) Otorgue permisos, licencias, adjudicaciones o autorizaciones de contenido económico; Inciso reformado DOF 18-07-2016 C) Otorgue franquicias, exenciones, deducciones o subsidios sobre impuestos, derechos, productos, aprovechamientos o aportaciones y cuotas de seguridad social, en general sobre los ingresos fiscales, y sobre precios y tarifas de los bienes y servicios producidos o prestados en la Administración Pública Federal; Inciso reformado DOF 18-07-2016
+B) Otorgue permisos, licencias, adjudicaciones o autorizaciones de contenido económico; Inciso reformado DOF 18-07-2016
+
+C) Otorgue franquicias, exenciones, deducciones o subsidios sobre impuestos, derechos, productos, aprovechamientos o aportaciones y cuotas de seguridad social, en general sobre los ingresos fiscales, y sobre precios y tarifas de los bienes y servicios producidos o prestados en la Administración Pública Federal; Inciso reformado DOF 18-07-2016
 
 D) Otorgue, realice o contrate obras públicas, adquisiciones, arrendamientos, enajenaciones de bienes o servicios, con recursos públicos; Inciso reformado DOF 18-07-2016
 

@@ -17,11 +17,11 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Artículo 53
 
-La Comisión Nacional de Búsqueda tiene las siguientes atribuciones:
+La [Comisión Nacional de Búsqueda](articulo-4.md) tiene las siguientes atribuciones:
 
-I. Emitir y ejecutar el Programa Nacional de Búsqueda, rector en la materia, de conformidad con lo dispuesto en esta Ley; II. Emitir y difundir públicamente los lineamientos que regulen el funcionamiento del Registro Nacional y coordinar la operación del mismo, en términos de lo que establezca esta Ley y las leyes aplicables; Fracción reformada DOF 16-07-2025
+I. Emitir y ejecutar el Programa Nacional de Búsqueda, rector en la materia, de conformidad con lo dispuesto en esta Ley; II. Emitir y difundir públicamente los lineamientos que regulen el funcionamiento del [Registro Nacional](articulo-4.md) y coordinar la operación del mismo, en términos de lo que establezca esta Ley y las leyes aplicables; Fracción reformada DOF 16-07-2025
 
-III. Atender y formular solicitudes a las Instituciones de Seguridad Pública, previstas en la Ley General del Sistema Nacional de Seguridad Pública, a efecto de cumplir con su objeto;
+III. Atender y formular solicitudes a las [Instituciones de Seguridad Pública](articulo-4.md), previstas en la Ley General del [Sistema Nacional](articulo-4.md) de Seguridad Pública, a efecto de cumplir con su objeto;
 
 IV. Solicitar el acompañamiento de las instancias policiales de los tres órdenes de gobierno, así como del personal al que se refiere el artículo [67](articulo-67.md) de esta Ley, cuando sea necesario que el personal de la Comisión Nacional de Búsqueda realice trabajos de campo;
 
@@ -29,15 +29,15 @@ V. Integrar, cada tres meses, un informe sobre los avances y resultados de la ve
 
 VI. Presentar al Consejo Nacional de Seguridad Pública, los informes sobre los avances y resultados de la verificación y supervisión en el cumplimiento del Programa Nacional de Búsqueda, en coordinación con las autoridades competentes;
 
-VII. Solicitar informes a las Comisiones Locales de Búsqueda sobre el cumplimiento del Programa Nacional de Búsqueda;
+VII. Solicitar informes a las [Comisiones Locales de Búsqueda](articulo-4.md) sobre el cumplimiento del Programa Nacional de Búsqueda;
 
 VIII. Emitir los protocolos rectores que sean necesarios para el cumplimiento de sus funciones;
 
-IX. Promover la revisión y actualización del Protocolo Homologado de Búsqueda;
+IX. Promover la revisión y actualización del [Protocolo Homologado de Búsqueda](articulo-4.md);
 
-X. Diseñar y proponer mecanismos de coordinación y colaboración con las demás autoridades de los diferentes órdenes de gobierno, a efecto de llevar a cabo las acciones en la búsqueda de Personas Desaparecidas o No Localizadas;
+X. Diseñar y proponer mecanismos de coordinación y colaboración con las demás autoridades de los diferentes órdenes de gobierno, a efecto de llevar a cabo las acciones en la búsqueda de [Personas Desaparecidas](articulo-4.md) o No Localizadas;
 
-XI. Asesorar y canalizar a los Familiares ante la Fiscalía Especializada para que, de ser el caso, realicen la Denuncia correspondiente;
+XI. Asesorar y canalizar a los [Familiares](articulo-4.md) ante la [Fiscalía Especializada](articulo-4.md) para que, de ser el caso, realicen la Denuncia correspondiente;
 
 XII. Determinar y, en su caso, ejecutar, las acciones de búsqueda que correspondan, a partir de los elementos con que cuente, de conformidad con el protocolo aplicable. Así como, de manera coordinada con las Comisiones Locales de Búsqueda, realizar y dar seguimiento a las acciones de búsqueda, atendiendo a las características propias del caso, así como a las circunstancias de ejecución o la relevancia social del mismo;
 
@@ -63,17 +63,17 @@ XXII. Solicitar la colaboración de medios de comunicación, organizaciones de l
 
 XXIII. Mantener comunicación continua con las Fiscalías Especializadas para la coordinación de acciones de búsqueda y localización, a partir de la información obtenida en la investigación de los delitos materia de esta Ley;
 
-XXIV. Mantener comunicación continua y permanente con el Mecanismo de Apoyo Exterior, a través de la Secretaría de Relaciones Exteriores para coordinarse en la ejecución de las acciones de búsqueda y localización de personas migrantes;
+XXIV. Mantener comunicación continua y permanente con el [Mecanismo de Apoyo Exterior](articulo-4.md), a través de la Secretaría de Relaciones Exteriores para coordinarse en la ejecución de las acciones de búsqueda y localización de personas migrantes;
 
-XXV. Evaluar las políticas y estrategias para la búsqueda y localización de Personas Desaparecidas o No Localizadas, así como vigilar su cumplimiento por parte de las instituciones federales y Entidades Federativas;
+XXV. Evaluar las políticas y estrategias para la búsqueda y localización de Personas Desaparecidas o No Localizadas, así como vigilar su cumplimiento por parte de las instituciones federales y [Entidades Federativas](articulo-4.md);
 
 XXVI. Conocer y opinar sobre las políticas y estrategias para la identificación de personas localizadas con vida y personas fallecidas localizadas en fosas comunes y clandestinas, así como vigilar su cumplimiento por parte de las instituciones federales y Entidades Federativas;
 
-XXVI Bis. Diseñar, ejecutar y dar seguimiento a las acciones de búsqueda forense con fines de identificación humana en coadyuvancia con las Comisiones Locales de Búsqueda, la Fiscalía, las Fiscalías Especializadas y las instituciones que presten servicios forenses y otras instancias creadas con el fin de contribuir a la identificación humana dentro del Sistema Nacional; Fracción adicionada DOF 13-05-2022
+XXVI Bis. Diseñar, ejecutar y dar seguimiento a las acciones de búsqueda forense con fines de identificación humana en coadyuvancia con las Comisiones Locales de Búsqueda, la [Fiscalía](articulo-4.md), las Fiscalías Especializadas y las instituciones que presten servicios forenses y otras instancias creadas con el fin de contribuir a la identificación humana dentro del Sistema Nacional; Fracción adicionada DOF 13-05-2022
 
 XXVI Ter. Recuperar, recolectar, resguardar, trasladar, transportar y analizar con fines de identificación humana los cuerpos, restos humanos y muestras óseas con fines de procesamiento genético; Fracción adicionada DOF 13-05-2022
 
-XXVI Quater. Resguardar, a través del Centro Nacional, la información tendiente a la identificación humana la cual, una vez procesada, será remitida a la autoridad competente y dada a conocer a las familias interesadas en términos de las disposiciones jurídicas aplicables; Fracción adicionada DOF 13-05-2022
+XXVI Quater. Resguardar, a través del [Centro Nacional](articulo-4.md), la información tendiente a la identificación humana la cual, una vez procesada, será remitida a la autoridad competente y dada a conocer a las familias interesadas en términos de las disposiciones jurídicas aplicables; Fracción adicionada DOF 13-05-2022
 
 XXVI Quinquies. Solicitar a las instituciones de los tres órdenes de gobierno, servicios forenses o periciales, Fiscalía, Fiscalías Especializadas y demás autoridades competentes la información concerniente a la búsqueda de personas desaparecidas, incluida la de identificación de cuerpos y restos humanos que tengan bajo su resguardo, sin perjuicio del cumplimiento de las obligaciones en materia de protección de datos personales y reserva de información pública; Fracción adicionada DOF 13-05-2022
 
@@ -81,7 +81,7 @@ XXVI Sexies. Realizar campañas de toma de muestras referenciales con fines de p
 
 XXVI Septies. Emitir los lineamientos que regulen el procesamiento de la información proporcionada por la Fiscalía, las Fiscalías y demás autoridades competentes; Fracción adicionada DOF 13-05-2022
 
-XXVI Octies. Coordinar la operación del Centro Nacional en términos de esta Ley, su Reglamento y demás disposiciones jurídicas aplicables; Fracción adicionada DOF 13-05-2022
+XXVI Octies. Coordinar la operación del Centro Nacional en términos de esta Ley, su [Reglamento](articulo-4.md) y demás disposiciones jurídicas aplicables; Fracción adicionada DOF 13-05-2022
 
 XXVI Nonies. Inspeccionar centros de resguardo, cementerios, fosas comunes y todo sitio en el que se encuentren cuerpos o restos humanos e indicios biológicos sin identificar; Fracción adicionada DOF 13-05-2022
 
@@ -101,11 +101,11 @@ XXXIII. Diseñar, en colaboración con las Comisiones Locales de Búsqueda que c
 
 XXXIV. Suscribir convenios de colaboración y coordinación con las autoridades competentes, nacionales y extranjeras, para la operación de los mecanismos de búsqueda transnacional de Personas Desaparecidas o No Localizadas; Fracción reformada DOF 16-07-2025
 
-XXXV. Recibir de las embajadas, consulados y agregadurías las Denuncias o Reportes de personas migrantes desaparecidas o no localizadas en territorio mexicano. Así como, establecer los mecanismos de comunicación e intercambio de información más adecuados que garanticen la efectividad en la búsqueda de las personas migrantes en coordinación con la Secretaría de Relaciones Exteriores y el Mecanismo de Apoyo Exterior;
+XXXV. Recibir de las embajadas, consulados y agregadurías las Denuncias o [Reportes](articulo-4.md) de personas migrantes desaparecidas o no localizadas en territorio mexicano. Así como, establecer los mecanismos de comunicación e intercambio de información más adecuados que garanticen la efectividad en la búsqueda de las personas migrantes en coordinación con la Secretaría de Relaciones Exteriores y el Mecanismo de Apoyo Exterior;
 
 XXXVI. Dar seguimiento y, en su caso, atender las recomendaciones y sentencias de órganos internacionales de derechos humanos en los temas relacionados con la búsqueda de personas;
 
-XXXVII. Dar seguimiento y atender a las recomendaciones del Consejo Ciudadano en los temas relacionados con las funciones y atribuciones de la Comisión Nacional de Búsqueda;
+XXXVII. Dar seguimiento y atender a las recomendaciones del [Consejo Ciudadano](articulo-4.md) en los temas relacionados con las funciones y atribuciones de la Comisión Nacional de Búsqueda;
 
 XXXVIII. Recibir la información que aporten los particulares en los casos de desaparición forzada de personas y desaparición cometida por particulares y remitir a la Comisión de búsqueda correspondiente y, en su caso, a la Fiscalía Especializada competente;
 
@@ -115,7 +115,7 @@ XL. Dar vista al Ministerio Público y a las autoridades competentes en materia 
 
 XLI. Establecer mecanismos de comunicación, participación y evaluación con la sociedad civil y los Familiares para que coadyuven con los objetivos, fines y trabajos de la Comisión Nacional de Búsqueda, en términos que prevean las leyes;
 
-XLII. Solicitar a la Comisión Ejecutiva y a las Comisiones de Víctimas que implementen los mecanismos necesarios para que a través del Fondo de Ayuda, Asistencia y Reparación Integral se cubran los Gastos de Ayuda cuando lo requieran los Familiares de las Personas Desaparecidas por la presunta comisión de los delitos materia de esta Ley, de conformidad con la ley en la materia;
+XLII. Solicitar a la [Comisión Ejecutiva](articulo-4.md) y a las [Comisiones de Víctimas](articulo-4.md) que implementen los mecanismos necesarios para que a través del Fondo de Ayuda, Asistencia y Reparación Integral se cubran los Gastos de Ayuda cuando lo requieran los Familiares de las Personas Desaparecidas por la presunta comisión de los delitos materia de esta Ley, de conformidad con la ley en la materia;
 
 XLIII. Derogada. Fracción derogada DOF 16-07-2025
 

@@ -17,4 +17,4 @@ source_sha256: 32822f50bb2de81185408f9450d61a49d678429c52c5379822a507c7027a5275
 
 # Artículo 59
 
-La Secretaría prestará al Consejo la colaboración necesaria para el ejercicio de sus funciones.
+La [Secretaría](articulo-5.md) prestará al Consejo la colaboración necesaria para el ejercicio de sus funciones.

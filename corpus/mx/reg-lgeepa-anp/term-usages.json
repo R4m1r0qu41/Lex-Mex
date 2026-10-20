@@ -1,1 +1,2486 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:1:term-usage:183-186",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:ley",
+    "span": "Ley",
+    "start_char": 183,
+    "end_char": 186
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:2:term-usage:86-96",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 86,
+    "end_char": 96
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:3:term-usage:88-91",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:ley",
+    "span": "Ley",
+    "start_char": 88,
+    "end_char": 91
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:4:term-usage:142-145",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:ley",
+    "span": "Ley",
+    "start_char": 142,
+    "end_char": 145
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:4:term-usage:392-402",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 392,
+    "end_char": 402
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:4:term-usage:408-418",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 408,
+    "end_char": 418
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:6:term-usage:71-81",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:6",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 71,
+    "end_char": 81
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:6:term-usage:188-198",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:6",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 188,
+    "end_char": 198
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:6:term-usage:583-590",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:6",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:consejo",
+    "span": "Consejo",
+    "start_char": 583,
+    "end_char": 590
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:7:term-usage:110-120",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 110,
+    "end_char": 120
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:8:term-usage:178-188",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 178,
+    "end_char": 188
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:8:term-usage:205-213",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:comision",
+    "span": "Comisión",
+    "start_char": 205,
+    "end_char": 213
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:8:term-usage:1068-1075",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:consejo",
+    "span": "Consejo",
+    "start_char": 1068,
+    "end_char": 1075
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:8:term-usage:1206-1216",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1206,
+    "end_char": 1216
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:8:term-usage:1291-1301",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1291,
+    "end_char": 1301
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:9:term-usage:154-164",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 154,
+    "end_char": 164
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:10:term-usage:42-45",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:ley",
+    "span": "Ley",
+    "start_char": 42,
+    "end_char": 45
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:10:term-usage:50-57",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:consejo",
+    "span": "Consejo",
+    "start_char": 50,
+    "end_char": 57
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:10:term-usage:179-189",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 179,
+    "end_char": 189
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:10:term-usage:344-352",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:comision",
+    "span": "Comisión",
+    "start_char": 344,
+    "end_char": 352
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:10:term-usage:681-688",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:consejo",
+    "span": "Consejo",
+    "start_char": 681,
+    "end_char": 688
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:10:term-usage:1370-1377",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:consejo",
+    "span": "Consejo",
+    "start_char": 1370,
+    "end_char": 1377
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:10:term-usage:1451-1458",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:consejo",
+    "span": "Consejo",
+    "start_char": 1451,
+    "end_char": 1458
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:10:term-usage:1567-1581",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:administracion",
+    "span": "Administración",
+    "start_char": 1567,
+    "end_char": 1581
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:10:term-usage:1763-1770",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:consejo",
+    "span": "Consejo",
+    "start_char": 1763,
+    "end_char": 1770
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:11:term-usage:19-26",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:consejo",
+    "span": "Consejo",
+    "start_char": 19,
+    "end_char": 26
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:11:term-usage:152-159",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:consejo",
+    "span": "Consejo",
+    "start_char": 152,
+    "end_char": 159
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:11:term-usage:326-333",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:consejo",
+    "span": "Consejo",
+    "start_char": 326,
+    "end_char": 333
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:12:term-usage:3-10",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:consejo",
+    "span": "Consejo",
+    "start_char": 3,
+    "end_char": 10
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:12:term-usage:134-141",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:consejo",
+    "span": "Consejo",
+    "start_char": 134,
+    "end_char": 141
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:13:term-usage:99-106",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:13",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:consejo",
+    "span": "Consejo",
+    "start_char": 99,
+    "end_char": 106
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:14:term-usage:223-230",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:consejo",
+    "span": "Consejo",
+    "start_char": 223,
+    "end_char": 230
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:15:term-usage:19-26",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:15",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:consejo",
+    "span": "Consejo",
+    "start_char": 19,
+    "end_char": 26
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:16:term-usage:3-10",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:16",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:consejo",
+    "span": "Consejo",
+    "start_char": 3,
+    "end_char": 10
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:16:term-usage:96-106",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:16",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 96,
+    "end_char": 106
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:16:term-usage:497-507",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:16",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 497,
+    "end_char": 507
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:16:term-usage:617-620",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:16",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:ley",
+    "span": "Ley",
+    "start_char": 617,
+    "end_char": 620
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:16:term-usage:694-704",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:16",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 694,
+    "end_char": 704
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:16:term-usage:1550-1558",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:16",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:consejo",
+    "span": "Consejos",
+    "start_char": 1550,
+    "end_char": 1558
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:16:term-usage:2432-2442",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:16",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2432,
+    "end_char": 2442
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:16:term-usage:2532-2542",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:16",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2532,
+    "end_char": 2542
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:17:term-usage:70-80",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:17",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 70,
+    "end_char": 80
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:17:term-usage:98-106",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:17",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:consejo",
+    "span": "Consejos",
+    "start_char": 98,
+    "end_char": 106
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:18:term-usage:4-12",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:18",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:consejo",
+    "span": "Consejos",
+    "start_char": 4,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:19:term-usage:30-37",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:19",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:consejo",
+    "span": "Consejo",
+    "start_char": 30,
+    "end_char": 37
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:19:term-usage:49-59",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:19",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 49,
+    "end_char": 59
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:19:term-usage:75-83",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:19",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:comision",
+    "span": "Comisión",
+    "start_char": 75,
+    "end_char": 83
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:19:term-usage:217-224",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:19",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:consejo",
+    "span": "Consejo",
+    "start_char": 217,
+    "end_char": 224
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:20:term-usage:3-10",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:consejo",
+    "span": "Consejo",
+    "start_char": 3,
+    "end_char": 10
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:20:term-usage:317-324",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:consejo",
+    "span": "Consejo",
+    "start_char": 317,
+    "end_char": 324
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:20:term-usage:838-845",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:consejo",
+    "span": "Consejo",
+    "start_char": 838,
+    "end_char": 845
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:20:term-usage:911-921",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 911,
+    "end_char": 921
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:20:term-usage:966-980",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:administracion",
+    "span": "Administración",
+    "start_char": 966,
+    "end_char": 980
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:20:term-usage:1146-1153",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:consejo",
+    "span": "Consejo",
+    "start_char": 1146,
+    "end_char": 1153
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:20:term-usage:1320-1327",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:consejo",
+    "span": "Consejo",
+    "start_char": 1320,
+    "end_char": 1327
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:21:term-usage:99-106",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:21",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:consejo",
+    "span": "Consejo",
+    "start_char": 99,
+    "end_char": 106
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:21:term-usage:241-249",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:21",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:consejo",
+    "span": "Consejos",
+    "start_char": 241,
+    "end_char": 249
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:22:term-usage:17-24",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:22",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:consejo",
+    "span": "Consejo",
+    "start_char": 17,
+    "end_char": 24
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:22:term-usage:51-58",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:22",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:consejo",
+    "span": "Consejo",
+    "start_char": 51,
+    "end_char": 58
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:23:term-usage:103-110",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:consejo",
+    "span": "Consejo",
+    "start_char": 103,
+    "end_char": 110
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:23:term-usage:148-156",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:consejo",
+    "span": "Consejos",
+    "start_char": 148,
+    "end_char": 156
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:24:term-usage:5-12",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:consejo",
+    "span": "Consejo",
+    "start_char": 5,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:24:term-usage:639-646",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:consejo",
+    "span": "Consejo",
+    "start_char": 639,
+    "end_char": 646
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:24:term-usage:840-847",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:consejo",
+    "span": "Consejo",
+    "start_char": 840,
+    "end_char": 847
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:24:term-usage:966-973",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:consejo",
+    "span": "Consejo",
+    "start_char": 966,
+    "end_char": 973
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:24:term-usage:1114-1121",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:consejo",
+    "span": "Consejo",
+    "start_char": 1114,
+    "end_char": 1121
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:24:term-usage:1411-1418",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:consejo",
+    "span": "Consejo",
+    "start_char": 1411,
+    "end_char": 1418
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:25:term-usage:5-12",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:consejo",
+    "span": "Consejo",
+    "start_char": 5,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:26:term-usage:5-12",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:consejo",
+    "span": "Consejo",
+    "start_char": 5,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:27:term-usage:4-12",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:consejo",
+    "span": "Consejos",
+    "start_char": 4,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:28:term-usage:22-29",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:28",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:consejo",
+    "span": "Consejo",
+    "start_char": 22,
+    "end_char": 29
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:31:term-usage:87-97",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:31",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 87,
+    "end_char": 97
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:31:term-usage:656-659",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:31",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:ley",
+    "span": "Ley",
+    "start_char": 656,
+    "end_char": 659
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:32:term-usage:64-74",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:32",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 64,
+    "end_char": 74
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:34:term-usage:232-242",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:34",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 232,
+    "end_char": 242
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:35:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:35",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:35:term-usage:93-107",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:35",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:administracion",
+    "span": "Administración",
+    "start_char": 93,
+    "end_char": 107
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:36:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:36",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:37:term-usage:137-140",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:37",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:ley",
+    "span": "Ley",
+    "start_char": 137,
+    "end_char": 140
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:37:term-usage:1152-1155",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:37",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:ley",
+    "span": "Ley",
+    "start_char": 1152,
+    "end_char": 1155
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:38:term-usage:16-24",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:38",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:registro",
+    "span": "Registro",
+    "start_char": 16,
+    "end_char": 24
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:38:term-usage:94-104",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:38",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 94,
+    "end_char": 104
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:39:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:39",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:registro",
+    "span": "Registro",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:39:term-usage:426-436",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:39",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 426,
+    "end_char": 436
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:39:term-usage:509-512",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:39",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:ley",
+    "span": "Ley",
+    "start_char": 509,
+    "end_char": 512
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:39:term-usage:764-774",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:39",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 764,
+    "end_char": 774
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:39:term-usage:920-923",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:39",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:ley",
+    "span": "Ley",
+    "start_char": 920,
+    "end_char": 923
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:39:term-usage:985-995",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:39",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 985,
+    "end_char": 995
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:39:term-usage:1219-1229",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:39",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1219,
+    "end_char": 1229
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:40:term-usage:22-30",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:40",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:registro",
+    "span": "Registro",
+    "start_char": 22,
+    "end_char": 30
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:40:term-usage:214-223",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:40",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:registro",
+    "span": "Registros",
+    "start_char": 214,
+    "end_char": 223
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:41:term-usage:56-66",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:41",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 56,
+    "end_char": 66
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:41:term-usage:113-121",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:41",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:registro",
+    "span": "Registro",
+    "start_char": 113,
+    "end_char": 121
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:41:term-usage:440-448",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:41",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:registro",
+    "span": "Registro",
+    "start_char": 440,
+    "end_char": 448
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:41:term-usage:600-610",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:41",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 600,
+    "end_char": 610
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:42:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:42",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:42:term-usage:183-192",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:42",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:registro",
+    "span": "Registros",
+    "start_char": 183,
+    "end_char": 192
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:42:term-usage:254-262",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:42",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:registro",
+    "span": "Registro",
+    "start_char": 254,
+    "end_char": 262
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:42:term-usage:288-296",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:42",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:registro",
+    "span": "Registro",
+    "start_char": 288,
+    "end_char": 296
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:44:term-usage:52-62",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:44",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 52,
+    "end_char": 62
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:45:term-usage:147-157",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:45",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 147,
+    "end_char": 157
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:46:term-usage:999-1007",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:46",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:comision",
+    "span": "Comisión",
+    "start_char": 999,
+    "end_char": 1007
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:47:term-usage:177-187",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:47",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 177,
+    "end_char": 187
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:47:term-usage:329-339",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:47",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 329,
+    "end_char": 339
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:47:term-usage:490-500",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:47",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 490,
+    "end_char": 500
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:47:term-usage:656-659",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:47",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:ley",
+    "span": "Ley",
+    "start_char": 656,
+    "end_char": 659
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:47:term-usage:723-733",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:47",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 723,
+    "end_char": 733
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:48:term-usage:130-133",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:48",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:ley",
+    "span": "Ley",
+    "start_char": 130,
+    "end_char": 133
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:49:term-usage:54-57",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:49",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:ley",
+    "span": "Ley",
+    "start_char": 54,
+    "end_char": 57
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:56:term-usage:1065-1075",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:56",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1065,
+    "end_char": 1075
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:62:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:62",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:66:term-usage:55-58",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:66",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:ley",
+    "span": "Ley",
+    "start_char": 55,
+    "end_char": 58
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:66:term-usage:63-73",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:66",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 63,
+    "end_char": 73
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:67:term-usage:55-65",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:67",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 55,
+    "end_char": 65
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:67:term-usage:666-669",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:67",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:ley",
+    "span": "Ley",
+    "start_char": 666,
+    "end_char": 669
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:68:term-usage:55-58",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:68",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:ley",
+    "span": "Ley",
+    "start_char": 55,
+    "end_char": 58
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:68:term-usage:63-73",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:68",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 63,
+    "end_char": 73
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:68:term-usage:2039-2042",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:68",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:ley",
+    "span": "Ley",
+    "start_char": 2039,
+    "end_char": 2042
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:69:term-usage:100-110",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:69",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 100,
+    "end_char": 110
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:70:term-usage:853-856",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:70",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:ley",
+    "span": "Ley",
+    "start_char": 853,
+    "end_char": 856
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:71:term-usage:230-240",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:71",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 230,
+    "end_char": 240
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:72:term-usage:98-108",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:72",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 98,
+    "end_char": 108
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:72:term-usage:147-150",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:72",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:ley",
+    "span": "Ley",
+    "start_char": 147,
+    "end_char": 150
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:73:term-usage:200-214",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:73",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:administracion",
+    "span": "Administración",
+    "start_char": 200,
+    "end_char": 214
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:74:term-usage:107-110",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:74",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:ley",
+    "span": "Ley",
+    "start_char": 107,
+    "end_char": 110
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:74:term-usage:320-323",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:74",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:ley",
+    "span": "Ley",
+    "start_char": 320,
+    "end_char": 323
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:74:term-usage:731-741",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:74",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 731,
+    "end_char": 741
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:75:term-usage:82-85",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:75",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:ley",
+    "span": "Ley",
+    "start_char": 82,
+    "end_char": 85
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:76:term-usage:71-81",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:76",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 71,
+    "end_char": 81
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:78:term-usage:176-186",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:78",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 176,
+    "end_char": 186
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:78:term-usage:213-220",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:78",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:consejo",
+    "span": "Consejo",
+    "start_char": 213,
+    "end_char": 220
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:78:term-usage:272-279",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:78",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:consejo",
+    "span": "Consejo",
+    "start_char": 272,
+    "end_char": 279
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:80:term-usage:99-109",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:80",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 99,
+    "end_char": 109
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:80:term-usage:443-453",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:80",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 443,
+    "end_char": 453
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:81:term-usage:1613-1623",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:81",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1613,
+    "end_char": 1623
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:81:term-usage:2400-2403",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:81",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:ley",
+    "span": "Ley",
+    "start_char": 2400,
+    "end_char": 2403
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:81:term-usage:2456-2464",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:81",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:comision",
+    "span": "Comisión",
+    "start_char": 2456,
+    "end_char": 2464
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:83:term-usage:163-169",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:83",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:manejo",
+    "span": "Manejo",
+    "start_char": 163,
+    "end_char": 169
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:83:term-usage:263-266",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:83",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:ley",
+    "span": "Ley",
+    "start_char": 263,
+    "end_char": 266
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:83:term-usage:685-695",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:83",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 685,
+    "end_char": 695
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:88:term-usage:45-55",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:88",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 45,
+    "end_char": 55
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:88:term-usage:870-873",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:88",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:ley",
+    "span": "Ley",
+    "start_char": 870,
+    "end_char": 873
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:89:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:89",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:89:term-usage:452-460",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:89",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:comision",
+    "span": "Comisión",
+    "start_char": 452,
+    "end_char": 460
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:90:term-usage:690-693",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:90",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:ley",
+    "span": "Ley",
+    "start_char": 690,
+    "end_char": 693
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:94:term-usage:171-179",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:94",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:comision",
+    "span": "Comisión",
+    "start_char": 171,
+    "end_char": 179
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:94:term-usage:272-275",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:94",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:ley",
+    "span": "Ley",
+    "start_char": 272,
+    "end_char": 275
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:94:term-usage:705-713",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:94",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:comision",
+    "span": "Comisión",
+    "start_char": 705,
+    "end_char": 713
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:94:term-usage:1023-1031",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:94",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:comision",
+    "span": "Comisión",
+    "start_char": 1023,
+    "end_char": 1031
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:95:term-usage:970-978",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:95",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:comision",
+    "span": "Comisión",
+    "start_char": 970,
+    "end_char": 978
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:95:term-usage:1129-1135",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:95",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:manejo",
+    "span": "Manejo",
+    "start_char": 1129,
+    "end_char": 1135
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:95:term-usage:1817-1823",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:95",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:manejo",
+    "span": "Manejo",
+    "start_char": 1817,
+    "end_char": 1823
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:95:term-usage:2149-2152",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:95",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:ley",
+    "span": "Ley",
+    "start_char": 2149,
+    "end_char": 2152
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:95:term-usage:2310-2320",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:95",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2310,
+    "end_char": 2320
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:95:term-usage:2727-2735",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:95",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:comision",
+    "span": "Comisión",
+    "start_char": 2727,
+    "end_char": 2735
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:95:term-usage:2848-2856",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:95",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:comision",
+    "span": "Comisión",
+    "start_char": 2848,
+    "end_char": 2856
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:96:term-usage:74-82",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:96",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:comision",
+    "span": "Comisión",
+    "start_char": 74,
+    "end_char": 82
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:98:term-usage:62-70",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:98",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:comision",
+    "span": "Comisión",
+    "start_char": 62,
+    "end_char": 70
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:98:term-usage:346-354",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:98",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:comision",
+    "span": "Comisión",
+    "start_char": 346,
+    "end_char": 354
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:99:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:99",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:comision",
+    "span": "Comisión",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:99:term-usage:490-498",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:99",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:comision",
+    "span": "Comisión",
+    "start_char": 490,
+    "end_char": 498
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:101:term-usage:144-152",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:101",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:comision",
+    "span": "Comisión",
+    "start_char": 144,
+    "end_char": 152
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:102:term-usage:139-147",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:102",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:comision",
+    "span": "Comisión",
+    "start_char": 139,
+    "end_char": 147
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:104:term-usage:298-301",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:104",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:ley",
+    "span": "Ley",
+    "start_char": 298,
+    "end_char": 301
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:106:term-usage:157-160",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:106",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:ley",
+    "span": "Ley",
+    "start_char": 157,
+    "end_char": 160
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:107:term-usage:616-619",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:107",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:ley",
+    "span": "Ley",
+    "start_char": 616,
+    "end_char": 619
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:107:term-usage:624-627",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:107",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:ley",
+    "span": "Ley",
+    "start_char": 624,
+    "end_char": 627
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:109:term-usage:62-72",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:109",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 62,
+    "end_char": 72
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:109:term-usage:259-262",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:109",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:ley",
+    "span": "Ley",
+    "start_char": 259,
+    "end_char": 262
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:110:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:110",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:110:term-usage:95-98",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:110",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:ley",
+    "span": "Ley",
+    "start_char": 95,
+    "end_char": 98
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:110:term-usage:316-326",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:110",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 316,
+    "end_char": 326
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:111:term-usage:415-425",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:111",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 415,
+    "end_char": 425
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:112:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:112",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:112:term-usage:619-629",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:112",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 619,
+    "end_char": 629
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:113:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:113",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:114:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:114",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:115:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:115",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:116:term-usage:189-199",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:116",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 189,
+    "end_char": 199
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:117:term-usage:137-147",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:117",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 137,
+    "end_char": 147
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:117:term-usage:750-760",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:117",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 750,
+    "end_char": 760
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:118:term-usage:30-33",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:118",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:ley",
+    "span": "Ley",
+    "start_char": 30,
+    "end_char": 33
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:119:term-usage:82-92",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:119",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 82,
+    "end_char": 92
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:120:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:120",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:120:term-usage:492-502",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:120",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 492,
+    "end_char": 502
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:121:term-usage:46-56",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:121",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 46,
+    "end_char": 56
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:121:term-usage:254-264",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:121",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 254,
+    "end_char": 264
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:122:term-usage:75-85",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:122",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 75,
+    "end_char": 85
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:122:term-usage:329-339",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:122",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 329,
+    "end_char": 339
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:122:term-usage:404-407",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:122",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:ley",
+    "span": "Ley",
+    "start_char": 404,
+    "end_char": 407
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:122:term-usage:516-526",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:122",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 516,
+    "end_char": 526
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:123:term-usage:86-96",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:123",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 86,
+    "end_char": 96
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:125:term-usage:191-201",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:125",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 191,
+    "end_char": 201
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:126:term-usage:114-117",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:126",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:ley",
+    "span": "Ley",
+    "start_char": 114,
+    "end_char": 117
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:126:term-usage:303-306",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:126",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:ley",
+    "span": "Ley",
+    "start_char": 303,
+    "end_char": 306
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:126:term-usage:373-381",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:126",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:comision",
+    "span": "Comisión",
+    "start_char": 373,
+    "end_char": 381
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:126:term-usage:521-529",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:126",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:comision",
+    "span": "Comisión",
+    "start_char": 521,
+    "end_char": 529
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:127:term-usage:128-131",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:127",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:ley",
+    "span": "Ley",
+    "start_char": 128,
+    "end_char": 131
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:127:term-usage:626-629",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:127",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:ley",
+    "span": "Ley",
+    "start_char": 626,
+    "end_char": 629
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:127:term-usage:1356-1366",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:127",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1356,
+    "end_char": 1366
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:127:term-usage:1421-1429",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:127",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:comision",
+    "span": "Comisión",
+    "start_char": 1421,
+    "end_char": 1429
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:127:term-usage:1783-1786",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:127",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:ley",
+    "span": "Ley",
+    "start_char": 1783,
+    "end_char": 1786
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:128:term-usage:26-36",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:128",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 26,
+    "end_char": 36
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:128:term-usage:57-65",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:128",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:comision",
+    "span": "Comisión",
+    "start_char": 57,
+    "end_char": 65
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:128:term-usage:209-217",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:128",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:comision",
+    "span": "Comisión",
+    "start_char": 209,
+    "end_char": 217
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:128:term-usage:323-326",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:128",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:ley",
+    "span": "Ley",
+    "start_char": 323,
+    "end_char": 326
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:128:term-usage:414-422",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:128",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:comision",
+    "span": "Comisión",
+    "start_char": 414,
+    "end_char": 422
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:128:term-usage:1168-1176",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:128",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:comision",
+    "span": "Comisión",
+    "start_char": 1168,
+    "end_char": 1176
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:128:term-usage:1457-1465",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:128",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:comision",
+    "span": "Comisión",
+    "start_char": 1457,
+    "end_char": 1465
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:128:term-usage:1619-1627",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:128",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:comision",
+    "span": "Comisión",
+    "start_char": 1619,
+    "end_char": 1627
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:129:term-usage:31-39",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:129",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:comision",
+    "span": "Comisión",
+    "start_char": 31,
+    "end_char": 39
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:129:term-usage:144-152",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:129",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:comision",
+    "span": "Comisión",
+    "start_char": 144,
+    "end_char": 152
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:129:term-usage:800-810",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:129",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 800,
+    "end_char": 810
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:129:term-usage:950-958",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:129",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:comision",
+    "span": "Comisión",
+    "start_char": 950,
+    "end_char": 958
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:129:term-usage:1004-1012",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:129",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:registro",
+    "span": "Registro",
+    "start_char": 1004,
+    "end_char": 1012
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:129-bis:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:129-bis",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:comision",
+    "span": "Comisión",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:129-bis:term-usage:164-167",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:129-bis",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:ley",
+    "span": "Ley",
+    "start_char": 164,
+    "end_char": 167
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:129-bis:term-usage:511-519",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:129-bis",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:comision",
+    "span": "Comisión",
+    "start_char": 511,
+    "end_char": 519
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:130:term-usage:78-88",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:130",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 78,
+    "end_char": 88
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:130:term-usage:2085-2088",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:130",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:ley",
+    "span": "Ley",
+    "start_char": 2085,
+    "end_char": 2088
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:130:term-usage:2308-2316",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:130",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:comision",
+    "span": "Comisión",
+    "start_char": 2308,
+    "end_char": 2316
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:130:term-usage:2643-2657",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:130",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:administracion",
+    "span": "Administración",
+    "start_char": 2643,
+    "end_char": 2657
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:130:term-usage:2922-2925",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:130",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:ley",
+    "span": "Ley",
+    "start_char": 2922,
+    "end_char": 2925
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:131:term-usage:53-61",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:131",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:comision",
+    "span": "Comisión",
+    "start_char": 53,
+    "end_char": 61
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:131:term-usage:465-473",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:131",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:comision",
+    "span": "Comisión",
+    "start_char": 465,
+    "end_char": 473
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:131:term-usage:810-818",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:131",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:comision",
+    "span": "Comisión",
+    "start_char": 810,
+    "end_char": 818
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:131:term-usage:938-941",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:131",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:ley",
+    "span": "Ley",
+    "start_char": 938,
+    "end_char": 941
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:132:term-usage:35-49",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:132",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:administracion",
+    "span": "Administración",
+    "start_char": 35,
+    "end_char": 49
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:132:term-usage:89-97",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:132",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:comision",
+    "span": "Comisión",
+    "start_char": 89,
+    "end_char": 97
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:132:term-usage:287-295",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:132",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:comision",
+    "span": "Comisión",
+    "start_char": 287,
+    "end_char": 295
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:132:term-usage:957-967",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:132",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 957,
+    "end_char": 967
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:132:term-usage:1145-1155",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:132",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1145,
+    "end_char": 1155
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:133-bis:term-usage:625-633",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:133-bis",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:comision",
+    "span": "Comisión",
+    "start_char": 625,
+    "end_char": 633
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:133-ter:term-usage:514-522",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:133-ter",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:comision",
+    "span": "Comisión",
+    "start_char": 514,
+    "end_char": 522
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:133-ter:term-usage:665-668",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:133-ter",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:ley",
+    "span": "Ley",
+    "start_char": 665,
+    "end_char": 668
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:133-ter:term-usage:1119-1122",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:133-ter",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:ley",
+    "span": "Ley",
+    "start_char": 1119,
+    "end_char": 1122
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:133-ter:term-usage:1958-1961",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:133-ter",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:ley",
+    "span": "Ley",
+    "start_char": 1958,
+    "end_char": 1961
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:133-ter:term-usage:2458-2461",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:133-ter",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:ley",
+    "span": "Ley",
+    "start_char": 2458,
+    "end_char": 2461
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:133-ter:term-usage:2845-2848",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:133-ter",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:ley",
+    "span": "Ley",
+    "start_char": 2845,
+    "end_char": 2848
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:133-ter:term-usage:3220-3223",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:133-ter",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:ley",
+    "span": "Ley",
+    "start_char": 3220,
+    "end_char": 3223
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:133-ter:term-usage:4702-4705",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:133-ter",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:ley",
+    "span": "Ley",
+    "start_char": 4702,
+    "end_char": 4705
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:133-ter:term-usage:5111-5114",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:133-ter",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:ley",
+    "span": "Ley",
+    "start_char": 5111,
+    "end_char": 5114
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:133-ter:term-usage:5501-5504",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:133-ter",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:ley",
+    "span": "Ley",
+    "start_char": 5501,
+    "end_char": 5504
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:133-ter:term-usage:5906-5909",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:133-ter",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:ley",
+    "span": "Ley",
+    "start_char": 5906,
+    "end_char": 5909
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:133-quater:term-usage:3054-3062",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:133-quater",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:comision",
+    "span": "Comisión",
+    "start_char": 3054,
+    "end_char": 3062
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:133-quater:term-usage:3094-3101",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:133-quater",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:consejo",
+    "span": "Consejo",
+    "start_char": 3094,
+    "end_char": 3101
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:134:term-usage:141-149",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:134",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:comision",
+    "span": "Comisión",
+    "start_char": 141,
+    "end_char": 149
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:135:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:135",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:comision",
+    "span": "Comisión",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:135:term-usage:824-832",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:135",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:comision",
+    "span": "Comisión",
+    "start_char": 824,
+    "end_char": 832
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:135:term-usage:982-990",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:135",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:comision",
+    "span": "Comisión",
+    "start_char": 982,
+    "end_char": 990
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:135:term-usage:1153-1161",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:135",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:comision",
+    "span": "Comisión",
+    "start_char": 1153,
+    "end_char": 1161
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:135:term-usage:1610-1618",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:135",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:comision",
+    "span": "Comisión",
+    "start_char": 1610,
+    "end_char": 1618
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:135:term-usage:1688-1696",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:135",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:registro",
+    "span": "Registro",
+    "start_char": 1688,
+    "end_char": 1696
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:135-bis:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:135-bis",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:comision",
+    "span": "Comisión",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:135-bis:term-usage:102-112",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:135-bis",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 102,
+    "end_char": 112
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:135-bis:term-usage:154-168",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:135-bis",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:administracion",
+    "span": "Administración",
+    "start_char": 154,
+    "end_char": 168
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:135-bis:term-usage:485-488",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:135-bis",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:ley",
+    "span": "Ley",
+    "start_char": 485,
+    "end_char": 488
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:135-bis:term-usage:1100-1108",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:135-bis",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:comision",
+    "span": "Comisión",
+    "start_char": 1100,
+    "end_char": 1108
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:137:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:137",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:137:term-usage:336-346",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:137",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 336,
+    "end_char": 346
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:137:term-usage:430-433",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:137",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:ley",
+    "span": "Ley",
+    "start_char": 430,
+    "end_char": 433
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:137:term-usage:471-481",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:137",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 471,
+    "end_char": 481
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:137:term-usage:1142-1152",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:137",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1142,
+    "end_char": 1152
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:138:term-usage:133-143",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:138",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 133,
+    "end_char": 143
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:138:term-usage:167-177",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:138",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 167,
+    "end_char": 177
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:140:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:140",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:141:term-usage:248-258",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:141",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 248,
+    "end_char": 258
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:141:term-usage:378-381",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:141",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:ley",
+    "span": "Ley",
+    "start_char": 378,
+    "end_char": 381
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:141:term-usage:660-670",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:141",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 660,
+    "end_char": 670
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:141:term-usage:857-860",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:141",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:ley",
+    "span": "Ley",
+    "start_char": 857,
+    "end_char": 860
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:142:term-usage:133-143",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:142",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 133,
+    "end_char": 143
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:142:term-usage:278-281",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:142",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:ley",
+    "span": "Ley",
+    "start_char": 278,
+    "end_char": 281
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:142:term-usage:955-958",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:142",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:ley",
+    "span": "Ley",
+    "start_char": 955,
+    "end_char": 958
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:144:term-usage:655-658",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:144",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:ley",
+    "span": "Ley",
+    "start_char": 655,
+    "end_char": 658
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:transitory:tercero:term-usage:186-196",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 186,
+    "end_char": 196
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:transitory:cuarto:term-usage:55-62",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:consejo",
+    "span": "Consejo",
+    "start_char": 55,
+    "end_char": 62
+  }
+]

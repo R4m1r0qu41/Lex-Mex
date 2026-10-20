@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título VI · Capítulo I
+
 # Artículo 124
 
 Los nombramientos de consejeros de las casas de bolsa deberán recaer en personas que cuenten con calidad técnica, honorabilidad e historial crediticio satisfactorio, así como con amplios conocimientos y experiencia en materia financiera, legal o administrativa.
@@ -37,4 +39,4 @@ Los consejeros de las casas de bolsa que participen en el consejo de administrac
 
 La mayoría de los consejeros deberán ser residentes en el territorio nacional, en términos de lo dispuesto por el Código Fiscal de la Federación.
 
-Los accionistas que representen el diez por ciento del capital ordinario de la casa de bolsa, tendrán derecho a designar y revocar en asamblea general de accionistas un consejero, sin que resulte aplicable el porcentaje a que hace referencia el artículo 144 de la Ley General de Sociedades Mercantiles. Tal designación, sólo podrá revocarse por los demás accionistas, cuando a su vez se revoque el nombramiento de todos los demás consejeros, en cuyo caso las personas sustituidas no podrán ser nombradas con tal carácter durante los doce meses inmediatos siguientes a la fecha de revocación.
+Los accionistas que representen el diez por ciento del capital ordinario de la casa de bolsa, tendrán derecho a designar y revocar en asamblea general de accionistas un consejero, sin que resulte aplicable el porcentaje a que hace referencia el artículo [144](../../lgsm/markdown/articulo-144.md) de la Ley General de Sociedades Mercantiles. Tal designación, sólo podrá revocarse por los demás accionistas, cuando a su vez se revoque el nombramiento de todos los demás consejeros, en cuyo caso las personas sustituidas no podrán ser nombradas con tal carácter durante los doce meses inmediatos siguientes a la fecha de revocación.

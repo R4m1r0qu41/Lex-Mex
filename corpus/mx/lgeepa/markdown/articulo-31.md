@@ -21,7 +21,7 @@ La realización de las obras y actividades a que se refieren las fracciones I a 
 
 I.- Existan normas oficiales mexicanas u otras disposiciones que regulen las emisiones, las descargas, el aprovechamiento de recursos naturales y, en general, todos los impactos ambientales relevantes que puedan producir las obras o actividades;
 
-II.- Las obras o actividades de que se trate estén expresamente previstas por un plan parcial de desarrollo urbano o de ordenamiento ecológico que haya sido evaluado por la Secretaría en los términos del [artículo siguiente](articulo-32.md), o
+II.- Las obras o actividades de que se trate estén expresamente previstas por un plan parcial de desarrollo urbano o de ordenamiento ecológico que haya sido evaluado por la [Secretaría](articulo-3o.md) en los términos del [artículo siguiente](articulo-32.md), o
 
 III.- Se trate de instalaciones ubicadas en parques industriales autorizados en los términos de la presente sección. En los casos anteriores, la Secretaría, una vez analizado el informe preventivo, determinará, en un plazo no mayor de veinte días, si se requiere la presentación de una manifestación de impacto ambiental en alguna de las modalidades previstas en el reglamento de la presente Ley, o si se está en alguno de los supuestos señalados.
 

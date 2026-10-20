@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAN.pdf
 source_sha256: 4ef50d6b4b3a6ad0378720c5d49463b4f17d70d9de39f895ed5dae4d2e21736d
 ---
 
-> Título SEGUNDO
+> Título SEGUNDO · Capítulo II
 
 # Artículo 7 BIS
 
@@ -40,5 +40,3 @@ X. La organización de los usuarios, asociaciones civiles y otros sistemas y org
 XI. La sustentabilidad ambiental y la prevención de la sobreexplotación de los acuíferos. Fracción adicionada DOF 20-06-2011
 
 Artículo adicionado DOF 29-04-2004
-
-Capítulo II BIS Secretaría del Medio Ambiente y Recursos Naturales Capítulo adicionado DOF 29-04-2004

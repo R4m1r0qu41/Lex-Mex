@@ -17,7 +17,7 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 56
 
-Corresponde al Director General de "La Comisión" y a los servidores públicos en quienes éste delegue dichas facultades, respecto de los actos del "Registro":
+Corresponde al Director General de "[La Comisión](articulo-1o.md)" y a los servidores públicos en quienes éste delegue dichas facultades, respecto de los actos del "[Registro](articulo-1o.md)":
 
 I. Ser depositarios de la fe pública registral;
 

@@ -33,6 +33,6 @@ VI. Prestar servicios metrológicos con trazabilidad a los patrones nacionales d
 
 VII. Realizar actividades de investigación en metrología y en materias afines, colaborar con otras organizaciones nacionales e internacionales de investigación científica y el desarrollo tecnológico en las materias de metrología de su incumbencia;
 
-VIII. Atender las solicitudes, observaciones y recomendaciones que realice la Comisión o el Centro Nacional de Metrología, y
+VIII. Atender las solicitudes, observaciones y recomendaciones que realice la [Comisión](articulo-4.md) o el Centro Nacional de Metrología, y
 
 IX. Coordinarse con el Centro Nacional de Metrología en el desarrollo de aquellas actividades donde se requiera su participación.

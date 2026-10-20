@@ -1,1 +1,515 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfvv:article:1:term-usage:256-266",
+    "provision_id": "urn:lex-mx:federal:statute:lfvv:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lfvv:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 256,
+    "end_char": 266
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfvv:article:2:term-usage:1200-1210",
+    "provision_id": "urn:lex-mx:federal:statute:lfvv:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfvv:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1200,
+    "end_char": 1210
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfvv:article:3:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lfvv:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lfvv:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfvv:article:3:term-usage:427-433",
+    "provision_id": "urn:lex-mx:federal:statute:lfvv:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lfvv:term:comite",
+    "span": "Comité",
+    "start_char": 427,
+    "end_char": 433
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfvv:article:3:term-usage:760-770",
+    "provision_id": "urn:lex-mx:federal:statute:lfvv:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lfvv:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 760,
+    "end_char": 770
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfvv:article:5:term-usage:406-416",
+    "provision_id": "urn:lex-mx:federal:statute:lfvv:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfvv:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 406,
+    "end_char": 416
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfvv:article:6:term-usage:186-194",
+    "provision_id": "urn:lex-mx:federal:statute:lfvv:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lfvv:term:registro",
+    "span": "Registro",
+    "start_char": 186,
+    "end_char": 194
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfvv:article:8:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lfvv:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lfvv:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfvv:article:9:term-usage:559-569",
+    "provision_id": "urn:lex-mx:federal:statute:lfvv:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lfvv:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 559,
+    "end_char": 569
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfvv:article:12:term-usage:119-125",
+    "provision_id": "urn:lex-mx:federal:statute:lfvv:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lfvv:term:comite",
+    "span": "Comité",
+    "start_char": 119,
+    "end_char": 125
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfvv:article:12:term-usage:277-287",
+    "provision_id": "urn:lex-mx:federal:statute:lfvv:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lfvv:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 277,
+    "end_char": 287
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfvv:article:14:term-usage:95-105",
+    "provision_id": "urn:lex-mx:federal:statute:lfvv:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lfvv:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 95,
+    "end_char": 105
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfvv:article:15:term-usage:58-68",
+    "provision_id": "urn:lex-mx:federal:statute:lfvv:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lfvv:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 58,
+    "end_char": 68
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfvv:article:15:term-usage:397-407",
+    "provision_id": "urn:lex-mx:federal:statute:lfvv:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lfvv:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 397,
+    "end_char": 407
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfvv:article:15:term-usage:507-517",
+    "provision_id": "urn:lex-mx:federal:statute:lfvv:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lfvv:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 507,
+    "end_char": 517
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfvv:article:15:term-usage:574-580",
+    "provision_id": "urn:lex-mx:federal:statute:lfvv:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lfvv:term:comite",
+    "span": "Comité",
+    "start_char": 574,
+    "end_char": 580
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfvv:article:20:term-usage:206-216",
+    "provision_id": "urn:lex-mx:federal:statute:lfvv:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lfvv:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 206,
+    "end_char": 216
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfvv:article:22:term-usage:209-217",
+    "provision_id": "urn:lex-mx:federal:statute:lfvv:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lfvv:term:registro",
+    "span": "Registro",
+    "start_char": 209,
+    "end_char": 217
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfvv:article:26:term-usage:26-36",
+    "provision_id": "urn:lex-mx:federal:statute:lfvv:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lfvv:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 26,
+    "end_char": 36
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfvv:article:26:term-usage:292-302",
+    "provision_id": "urn:lex-mx:federal:statute:lfvv:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lfvv:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 292,
+    "end_char": 302
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfvv:article:26:term-usage:447-457",
+    "provision_id": "urn:lex-mx:federal:statute:lfvv:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lfvv:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 447,
+    "end_char": 457
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfvv:article:26:term-usage:595-605",
+    "provision_id": "urn:lex-mx:federal:statute:lfvv:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lfvv:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 595,
+    "end_char": 605
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfvv:article:26:term-usage:835-845",
+    "provision_id": "urn:lex-mx:federal:statute:lfvv:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lfvv:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 835,
+    "end_char": 845
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfvv:article:28:term-usage:131-141",
+    "provision_id": "urn:lex-mx:federal:statute:lfvv:article:28",
+    "term_id": "urn:lex-mx:federal:statute:lfvv:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 131,
+    "end_char": 141
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfvv:article:29:term-usage:3-9",
+    "provision_id": "urn:lex-mx:federal:statute:lfvv:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lfvv:term:comite",
+    "span": "Comité",
+    "start_char": 3,
+    "end_char": 9
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfvv:article:29:term-usage:148-158",
+    "provision_id": "urn:lex-mx:federal:statute:lfvv:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lfvv:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 148,
+    "end_char": 158
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfvv:article:29:term-usage:221-231",
+    "provision_id": "urn:lex-mx:federal:statute:lfvv:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lfvv:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 221,
+    "end_char": 231
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfvv:article:29:term-usage:355-365",
+    "provision_id": "urn:lex-mx:federal:statute:lfvv:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lfvv:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 355,
+    "end_char": 365
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfvv:article:29:term-usage:512-518",
+    "provision_id": "urn:lex-mx:federal:statute:lfvv:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lfvv:term:comite",
+    "span": "Comité",
+    "start_char": 512,
+    "end_char": 518
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfvv:article:29:term-usage:805-811",
+    "provision_id": "urn:lex-mx:federal:statute:lfvv:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lfvv:term:comite",
+    "span": "Comité",
+    "start_char": 805,
+    "end_char": 811
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfvv:article:30:term-usage:18-24",
+    "provision_id": "urn:lex-mx:federal:statute:lfvv:article:30",
+    "term_id": "urn:lex-mx:federal:statute:lfvv:term:comite",
+    "span": "Comité",
+    "start_char": 18,
+    "end_char": 24
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfvv:article:30:term-usage:142-150",
+    "provision_id": "urn:lex-mx:federal:statute:lfvv:article:30",
+    "term_id": "urn:lex-mx:federal:statute:lfvv:term:registro",
+    "span": "Registro",
+    "start_char": 142,
+    "end_char": 150
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfvv:article:31:term-usage:3-9",
+    "provision_id": "urn:lex-mx:federal:statute:lfvv:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lfvv:term:comite",
+    "span": "Comité",
+    "start_char": 3,
+    "end_char": 9
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfvv:article:32:term-usage:37-43",
+    "provision_id": "urn:lex-mx:federal:statute:lfvv:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lfvv:term:comite",
+    "span": "Comité",
+    "start_char": 37,
+    "end_char": 43
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfvv:article:33:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lfvv:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lfvv:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfvv:article:33:term-usage:29-37",
+    "provision_id": "urn:lex-mx:federal:statute:lfvv:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lfvv:term:registro",
+    "span": "Registro",
+    "start_char": 29,
+    "end_char": 37
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfvv:article:35:term-usage:126-134",
+    "provision_id": "urn:lex-mx:federal:statute:lfvv:article:35",
+    "term_id": "urn:lex-mx:federal:statute:lfvv:term:registro",
+    "span": "Registro",
+    "start_char": 126,
+    "end_char": 134
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfvv:article:36:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lfvv:article:36",
+    "term_id": "urn:lex-mx:federal:statute:lfvv:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfvv:article:36:term-usage:88-96",
+    "provision_id": "urn:lex-mx:federal:statute:lfvv:article:36",
+    "term_id": "urn:lex-mx:federal:statute:lfvv:term:registro",
+    "span": "Registro",
+    "start_char": 88,
+    "end_char": 96
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfvv:article:37:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lfvv:article:37",
+    "term_id": "urn:lex-mx:federal:statute:lfvv:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfvv:article:39:term-usage:157-167",
+    "provision_id": "urn:lex-mx:federal:statute:lfvv:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lfvv:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 157,
+    "end_char": 167
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfvv:article:39:term-usage:312-322",
+    "provision_id": "urn:lex-mx:federal:statute:lfvv:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lfvv:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 312,
+    "end_char": 322
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfvv:article:40:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lfvv:article:40",
+    "term_id": "urn:lex-mx:federal:statute:lfvv:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfvv:article:40:term-usage:411-421",
+    "provision_id": "urn:lex-mx:federal:statute:lfvv:article:40",
+    "term_id": "urn:lex-mx:federal:statute:lfvv:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 411,
+    "end_char": 421
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfvv:article:42:term-usage:118-128",
+    "provision_id": "urn:lex-mx:federal:statute:lfvv:article:42",
+    "term_id": "urn:lex-mx:federal:statute:lfvv:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 118,
+    "end_char": 128
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfvv:article:43:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lfvv:article:43",
+    "term_id": "urn:lex-mx:federal:statute:lfvv:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfvv:article:44:term-usage:519-529",
+    "provision_id": "urn:lex-mx:federal:statute:lfvv:article:44",
+    "term_id": "urn:lex-mx:federal:statute:lfvv:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 519,
+    "end_char": 529
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfvv:article:46:term-usage:10-20",
+    "provision_id": "urn:lex-mx:federal:statute:lfvv:article:46",
+    "term_id": "urn:lex-mx:federal:statute:lfvv:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 10,
+    "end_char": 20
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfvv:article:46:term-usage:148-158",
+    "provision_id": "urn:lex-mx:federal:statute:lfvv:article:46",
+    "term_id": "urn:lex-mx:federal:statute:lfvv:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 148,
+    "end_char": 158
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfvv:article:48:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lfvv:article:48",
+    "term_id": "urn:lex-mx:federal:statute:lfvv:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfvv:article:48:term-usage:248-258",
+    "provision_id": "urn:lex-mx:federal:statute:lfvv:article:48",
+    "term_id": "urn:lex-mx:federal:statute:lfvv:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 248,
+    "end_char": 258
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfvv:article:48:term-usage:1692-1702",
+    "provision_id": "urn:lex-mx:federal:statute:lfvv:article:48",
+    "term_id": "urn:lex-mx:federal:statute:lfvv:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1692,
+    "end_char": 1702
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfvv:transitory:cuarto:term-usage:56-64",
+    "provision_id": "urn:lex-mx:federal:statute:lfvv:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:statute:lfvv:term:registro",
+    "span": "Registro",
+    "start_char": 56,
+    "end_char": 64
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfvv:transitory:cuarto:term-usage:483-491",
+    "provision_id": "urn:lex-mx:federal:statute:lfvv:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:statute:lfvv:term:registro",
+    "span": "Registro",
+    "start_char": 483,
+    "end_char": 491
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfvv:transitory:quinto:term-usage:63-73",
+    "provision_id": "urn:lex-mx:federal:statute:lfvv:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lfvv:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 63,
+    "end_char": 73
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfvv:transitory:quinto:term-usage:969-979",
+    "provision_id": "urn:lex-mx:federal:statute:lfvv:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lfvv:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 969,
+    "end_char": 979
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfvv:transitory:sexto:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lfvv:transitory:sexto",
+    "term_id": "urn:lex-mx:federal:statute:lfvv:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  }
+]

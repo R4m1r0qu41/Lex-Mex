@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título VI · Capítulo I
+
 # Artículo 129
 
 Las casas de bolsa deberán verificar que las personas que sean designadas como consejeros, comisarios, director general y directivos con la jerarquía inmediata inferior a la de éste, cumplan con anterioridad al inicio de sus gestiones y durante el desarrollo de las mismas con los requisitos señalados en esta Ley. La [Comisión](articulo-2.md) podrá establecer, mediante disposiciones de carácter general, los criterios de integración de expedientes que acrediten el cumplimiento a lo señalado en el presente artículo, así como para la integración de la documentación comprobatoria relativa.

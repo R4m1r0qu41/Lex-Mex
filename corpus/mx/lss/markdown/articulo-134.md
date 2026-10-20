@@ -17,7 +17,7 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 134
 
-Tendrán derecho a recibir pensión de orfandad cada uno de los hijos menores de dieciséis años, cuando muera el padre o la madre y alguno de éstos hubiera tenido el carácter de asegurado, y acrediten tener ante el Instituto un mínimo de ciento cincuenta cotizaciones semanales o haber tenido la calidad de pensionados por invalidez.
+Tendrán derecho a recibir pensión de orfandad cada uno de los hijos menores de dieciséis años, cuando muera el padre o la madre y alguno de éstos hubiera tenido el carácter de asegurado, y acrediten tener ante el [Instituto](articulo-5-A.md) un mínimo de ciento cincuenta cotizaciones semanales o haber tenido la calidad de pensionados por invalidez.
 
 El Instituto prorrogará la pensión de orfandad, después de alcanzar el huérfano la edad de dieciséis años, y hasta la edad de veinticinco, si se encuentra estudiando en planteles del sistema educativo nacional, tomando en consideración las condiciones económicas, familiares y personales del beneficiario, siempre que no sea sujeto del régimen obligatorio.
 

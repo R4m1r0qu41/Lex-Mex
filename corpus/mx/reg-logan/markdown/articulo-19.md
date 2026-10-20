@@ -17,4 +17,4 @@ source_sha256: 0ad7a7b6d7dffd7d9a582d74ebd6fc43e6baa79f71801a73dc70d1b77c414ded
 
 # Artículo 19
 
-Para constituir una asociación ganadera local especializada, deberán reunirse como mínimo, diez ganaderos criadores de alguna especie-producto determinada que identifique al objetivo principal de producción, y que realicen su actividad dentro de la extensión territorial con la que cuenta el municipio en el que se pretendan constituir, considerando el número de vientres indicado en el artículo [15](articulo-15.md) de este Reglamento.
+Para constituir una asociación ganadera local especializada, deberán reunirse como mínimo, diez ganaderos criadores de alguna especie-producto determinada que identifique al objetivo principal de producción, y que realicen su actividad dentro de la extensión territorial con la que cuenta el municipio en el que se pretendan constituir, considerando el número de vientres indicado en el artículo [15](articulo-15.md) de este [Reglamento](articulo-2o.md).

@@ -19,9 +19,9 @@ source_sha256: 4fadf9a6f2d22a9e48d8e29ed302456751da66eb723e0df1dc6ac45a5e4640b0
 
 El cargo de representante legal acaba:
 
-I. Con la localización con vida de la Persona Desaparecida;
+I. Con la localización con vida de la [Persona Desaparecida](articulo-3.md);
 
-II. Cuando así lo solicite la persona con el cargo de representación legal al Órgano Jurisdiccional que emitió la Declaración Especial de Ausencia para que, en términos del artículo [23](articulo-23.md) de la presente Ley, nombre un nuevo representante legal;
+II. Cuando así lo solicite la persona con el cargo de representación legal al [Órgano Jurisdiccional](articulo-3.md) que emitió la [Declaración Especial de Ausencia](articulo-3.md) para que, en términos del artículo [23](articulo-23.md) de la presente Ley, nombre un nuevo representante legal;
 
 III. Con la certeza de la muerte de la Persona Desaparecida, o
 

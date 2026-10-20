@@ -17,4 +17,4 @@ source_sha256: 45deb87bfd634dfbd1cb7d9fd67a476ad954187908eb0cb06256c90ccc0feb80
 
 # Artículo 56
 
-Con el objetivo de mejorar la calidad del café mexicano, la Secretaría, en colaboración con las organizaciones del sector cafetalero, promoverá el reconocimiento y la distinción de la producción de café bajo sombra realizada en diversas entidades federativas, a fin de que su calidad se vea reflejada en su precio y consumo.
+Con el objetivo de mejorar la calidad del café mexicano, la [Secretaría](articulo-3.md), en colaboración con las organizaciones del sector cafetalero, promoverá el reconocimiento y la distinción de la producción de café bajo sombra realizada en diversas entidades federativas, a fin de que su calidad se vea reflejada en su precio y consumo.

@@ -15,4 +15,4 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 # Décimo Primero
 
-Adecuación normativa y operativa Deberán establecerse los Protocolos que se requieren para la operación del Sistema Integral de Justicia Penal para Adolescentes en un plazo de 180 días contados a partir de la entrada en vigor del presente Decreto.
+Adecuación normativa y operativa Deberán establecerse los Protocolos que se requieren para la operación del [Sistema](articulo-3.md) Integral de Justicia Penal para [Adolescentes](articulo-3.md) en un plazo de 180 días contados a partir de la entrada en vigor del presente Decreto.

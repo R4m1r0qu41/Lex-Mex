@@ -17,4 +17,4 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 310
 
-En el caso previsto en el artículo [269](articulo-269.md), la declaración de protección de una denominación de origen o indicación geográfica dejará de surtir efectos por otra declaración del Instituto, publicada en el Diario Oficial, aplicándose en lo que resulte conducente, el procedimiento previsto en el Capítulo II de este Título.
+En el caso previsto en el artículo [269](articulo-269.md), la declaración de protección de una denominación de origen o indicación geográfica dejará de surtir efectos por otra declaración del [Instituto](articulo-4.md), publicada en el [Diario Oficial](articulo-4.md), aplicándose en lo que resulte conducente, el procedimiento previsto en el Capítulo II de este Título.

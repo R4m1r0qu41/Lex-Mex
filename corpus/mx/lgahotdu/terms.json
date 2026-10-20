@@ -315,6 +315,17 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lgahotdu:article:3",
     "fraction": "XXIX",
     "start_char": 6282,
+    "end_char": 6625,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgahotdu:term:riesgo",
+    "term": "Riesgo",
+    "instrument_id": "urn:lex-mx:federal:statute:lgahotdu",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgahotdu:article:3",
+    "fraction": "XXIX Bis",
+    "start_char": 6625,
     "end_char": 6826,
     "basis": "express_definition"
   },

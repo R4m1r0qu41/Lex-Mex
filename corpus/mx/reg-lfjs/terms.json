@@ -12,11 +12,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfjs:term:bis.-azar",
-    "term": "BIS. Azar",
+    "id": "urn:lex-mx:federal:regulation:reg-lfjs:term:azar",
+    "term": "Azar",
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lfjs",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfjs:article:3",
-    "fraction": "I",
+    "fraction": "I Bis",
     "start_char": 427,
     "end_char": 585,
     "basis": "express_definition"
@@ -51,6 +51,17 @@
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfjs:article:3",
     "fraction": "IV",
     "start_char": 1628,
+    "end_char": 1895,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfjs:term:consejo-consultivo",
+    "term": "Consejo Consultivo",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfjs",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfjs:article:3",
+    "fraction": "IV Bis",
+    "start_char": 1895,
     "end_char": 2002,
     "basis": "express_definition"
   },
@@ -161,6 +172,17 @@
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfjs:article:3",
     "fraction": "XV",
     "start_char": 3878,
+    "end_char": 4241,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfjs:term:participacion",
+    "term": "Participación",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfjs",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfjs:article:3",
+    "fraction": "XV Bis",
+    "start_char": 4241,
     "end_char": 4610,
     "basis": "express_definition"
   },
@@ -282,7 +304,7 @@
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfjs:article:3",
     "fraction": "XXVII",
     "start_char": 7416,
-    "end_char": 7768,
+    "end_char": 7686,
     "basis": "express_definition"
   },
   {
@@ -293,6 +315,17 @@
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfjs:article:3",
     "fraction": "XXVIII",
     "start_char": 7768,
+    "end_char": 8021,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfjs:term:uma",
+    "term": "UMA",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfjs",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfjs:article:3",
+    "fraction": "XXVIII Bis",
+    "start_char": 8021,
     "end_char": 8225,
     "basis": "express_definition"
   },

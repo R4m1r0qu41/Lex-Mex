@@ -17,7 +17,7 @@ source_sha256: 0574853d06020030188e8aee1eae5dabb2b476ac630cc52be631a48d2b91adbc
 
 # Artículo 6o
 
-Las atribuciones que esta Ley otorga a la Federación, serán ejercidas por el Poder Ejecutivo Federal a través de la Secretaría y, en su caso, podrán colaborar con ésta las Secretarías de Defensa Nacional y de Marina, así como la Guardia Nacional, cuando por la naturaleza y gravedad del problema así lo determine, salvo las que directamente corresponden al Presidente de la República por disposición expresa de la Ley. Párrafo reformado DOF 23-05-2006, 17-12-2025
+Las atribuciones que esta Ley otorga a la Federación, serán ejercidas por el Poder Ejecutivo Federal a través de la [Secretaría](articulo-3o.md) y, en su caso, podrán colaborar con ésta las Secretarías de Defensa Nacional y de Marina, así como la Guardia Nacional, cuando por la naturaleza y gravedad del problema así lo determine, salvo las que directamente corresponden al Presidente de la República por disposición expresa de la Ley. Párrafo reformado DOF 23-05-2006, 17-12-2025
 
 Cuando, por razón de la materia y de conformidad con la Ley Orgánica de la Administración Pública Federal u otras disposiciones legales aplicables, se requiera de la intervención de otras dependencias, la Secretaría ejercerá sus atribuciones en coordinación con las mismas.
 

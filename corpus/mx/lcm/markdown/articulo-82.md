@@ -17,4 +17,4 @@ source_sha256: 8e270686b885035488bfe310b0b42bb40e7154431794227ebe212dd7dc12e46a
 
 # Artículo 82
 
-Si se decreta la remoción del [Comerciante](articulo-4o.md) de la administración de su empresa, el conciliador asumirá, además de las propias, las facultades y obligaciones de administración que esta Ley atribuye al síndico para la administración.
+Si se decreta la remoción del [Comerciante](articulo-4o.md) de la administración de su empresa, el conciliador asumirá, además de las propias, las facultades y obligaciones de administración que esta [Ley](articulo-4o.md) atribuye al síndico para la administración.

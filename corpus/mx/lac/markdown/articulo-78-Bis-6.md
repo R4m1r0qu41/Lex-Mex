@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAC.pdf
 source_sha256: 07199878c4f94748c983998437198eb7c645ad76967c444dfe26d50a535d23ae
 ---
 
+> Capítulo XV Bis
+
 # Artículo 78 Bis 6
 
 Los datos e información de seguridad operacional recopilados por medio de los sistemas precisados en el [artículo anterior](articulo-78-Bis-5.md) tienen el carácter de confidencial.

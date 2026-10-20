@@ -15,11 +15,11 @@ source_sha256: b4a968d8e8c138ac2069f6afa0dc622178328df24f59cf58eddbab8efe4a7eff
 
 # Artículo 51
 
-Para efectos de los convenios de intercambio previstos en el artículo [43](../../lspcapf/markdown/articulo-43.md) de la Ley, se debe atender a lo siguiente: Párrafo reformado DOF 04-01-2024
+Para efectos de los convenios de intercambio previstos en el artículo [43](../../lspcapf/markdown/articulo-43.md) de la [Ley](articulo-2.md), se debe atender a lo siguiente: Párrafo reformado DOF 04-01-2024
 
 I. Que el servidor público de carrera titular lo solicite y manifieste por escrito su conformidad con los términos y condiciones del intercambio;
 
-II. Que se cuente con la autorización del superior jerárquico correspondiente, así como de la DGRH de la dependencia, y
+II. Que se cuente con la autorización del superior jerárquico correspondiente, así como de la [DGRH](articulo-2.md) de la dependencia, y
 
 III. Que la institución u organismo con el que se haya suscrito el convenio acepte al servidor público de carrera titular sujeto de intercambio.
 

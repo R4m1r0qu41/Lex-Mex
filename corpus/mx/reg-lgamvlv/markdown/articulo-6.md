@@ -17,4 +17,4 @@ source_sha256: 71ee875c26fc6a1024ea9481ca0690721959514689d860112c3093f0176dfcfb
 
 # Artículo 6
 
-Con motivo de la implementación del Programa, la Secretaría Ejecutiva del Sistema, a través de la coordinación interinstitucional, integrará un registro de los Modelos empleados por la Federación, las entidades federativas y los municipios.
+Con motivo de la implementación del Programa, la [Secretaría Ejecutiva](articulo-2.md) del Sistema, a través de la coordinación interinstitucional, integrará un registro de los [Modelos](articulo-2.md) empleados por la Federación, las entidades federativas y los municipios.

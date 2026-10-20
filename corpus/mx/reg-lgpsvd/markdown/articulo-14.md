@@ -17,6 +17,6 @@ source_sha256: a1cc8f6043c35579235fd61d2e34977e1735af4ea6919d053f89462b97742335
 
 # Artículo 14
 
-La SEDATU en el ámbito de sus atribuciones, se coordinará con las autoridades competentes y con la sociedad civil, a efecto de diseñar y ejecutar los proyectos para la recuperación de espacios públicos que propicien la convivencia y la Cohesión Social.
+La [SEDATU](articulo-3.md) en el ámbito de sus atribuciones, se coordinará con las autoridades competentes y con la sociedad civil, a efecto de diseñar y ejecutar los proyectos para la recuperación de espacios públicos que propicien la convivencia y la [Cohesión Social](articulo-3.md).
 
 Asimismo, las dependencias y entidades de la Administración Pública Federal cuyas funciones incidan en la prevención social de la Violencia y la delincuencia, con el objeto de disminuir los factores de riesgo que facilitan fenómenos de Violencia y de incidencia delictiva, instrumentarán acciones y mecanismos de coordinación, los cuales tomarán en cuenta los elementos señalados en el artículo [9](../../lgpsvd/markdown/articulo-9.md) de la Ley.

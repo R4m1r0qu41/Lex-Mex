@@ -17,4 +17,4 @@ source_sha256: d23aedc9ffdb09b9202311f03023241da20445cb45aea855b37bfd9685768861
 
 # Artículo 91
 
-Para los efectos del artículo [53](../../lic-calidad/markdown/articulo-53.md), fracción IV, de la Ley, se consideran otros proveedores y prestadores de servicios, los siguientes: I. Proveedores de Ensayos de Aptitud; II. Proveedores de Programas de Inter Comparaciones; III. Productores de Materiales de Referencia; IV. Organismos validadores o verificadores, y V. Aquellos que resulten necesarios para la atención de los Objetivos Legítimos de Interés Público.
+Para los efectos del artículo [53](../../lic-calidad/markdown/articulo-53.md), fracción IV, de la [Ley](articulo-2.md), se consideran otros proveedores y prestadores de servicios, los siguientes: I. Proveedores de Ensayos de Aptitud; II. Proveedores de Programas de Inter Comparaciones; III. Productores de Materiales de Referencia; IV. Organismos validadores o verificadores, y V. Aquellos que resulten necesarios para la atención de los Objetivos Legítimos de Interés Público.

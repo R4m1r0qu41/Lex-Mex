@@ -17,4 +17,4 @@ source_sha256: d9ffbbf8f19b54a93ff577abb1266e4be1316d935e79fad655242955fd80ff70
 
 # Artículo 31
 
-En caso de denuncia por violaciones a la presente Ley, el personal acreditado deberá contar con el oficio correspondiente, en el que se precise el objeto de la diligencia, domicilio o lugar a verificar, nombre, denominación o razón social de la persona física o moral, a quien se le atribuya la fuente del vertimiento, o cualquier información que se considere necesaria para la práctica de la diligencia.
+En caso de denuncia por violaciones a la presente [Ley](articulo-2.md), el personal acreditado deberá contar con el oficio correspondiente, en el que se precise el objeto de la diligencia, domicilio o lugar a verificar, nombre, denominación o razón social de la persona física o moral, a quien se le atribuya la fuente del vertimiento, o cualquier información que se considere necesaria para la práctica de la diligencia.

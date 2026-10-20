@@ -23,6 +23,6 @@ I. Nombre o razón social o denominación del fabricante y país de origen del b
 
 III. En su caso, nombre o razón social o denominación del importador.
 
-Los medicamentos biotecnológicos innovadores, deberán incluir en su etiqueta las siglas M.B. Los medicamentos biotecnológicos biocomparables deberán incluir en sus etiquetas las siglas M.B.B. En ambos casos, deberán incluir en sus etiquetas la Denominación Común Internacional, con independencia de la denominación distintiva.
+Los medicamentos biotecnológicos innovadores, deberán incluir en su etiqueta las siglas M.B. Los medicamentos biotecnológicos biocomparables deberán incluir en sus etiquetas las siglas M.B.B. En ambos casos, deberán incluir en sus etiquetas la [Denominación Común Internacional](articulo-2o.md), con independencia de la denominación distintiva.
 
 Artículo adicionado DOF 19-10-2011

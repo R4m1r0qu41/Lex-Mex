@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo II
+
 # Artículo 460
 
 Depurado el procedimiento, la autoridad jurisdiccional procurará conciliar a las partes, salvo que el asunto sea sobre derechos intransigibles, para dichos efectos hará saber a las partes las pretensiones de cada una de ellas, escuchará las propuestas de éstas y tendrá facultades para, sin externar opinión sobre el posible resultado del juicio, proponer alternativas relacionadas con la litis y solución del conflicto.

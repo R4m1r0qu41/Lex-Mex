@@ -17,4 +17,4 @@ source_sha256: 6680a58c98673518aee46582b3137d28987c275785d1f0c97295f0d89c4b692b
 
 # Artículo 38
 
-El titular de la Secretaría determinará, mediante Acuerdo que deberá publicarse en el Diario Oficial de la Federación, el contenido específico del Sistema Estadístico, así como la periodicidad, formatos y demás requisitos conforme a los cuales remitirán información para su actualización, las dependencias y entidades de la Administración Pública Federal, Estados, Municipios, Distrito Federal y Prestadores de Servicios Turísticos.
+El titular de la Secretaría determinará, mediante Acuerdo que deberá publicarse en el Diario Oficial de la Federación, el contenido específico del [Sistema Estadístico](articulo-2.md), así como la periodicidad, formatos y demás requisitos conforme a los cuales remitirán información para su actualización, las dependencias y entidades de la Administración Pública Federal, Estados, Municipios, Distrito Federal y Prestadores de Servicios Turísticos.

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Único · Capítulo II
+
 # Artículo 982
 
 Procede la vía de apremio a instancia de parte, siempre que se trate de la ejecución de una sentencia o de un convenio celebrado en juicio o en virtud de pacto comisorio expreso que obre en escritura pública, ya sea por las partes o por terceros que hayan venido a juicio.

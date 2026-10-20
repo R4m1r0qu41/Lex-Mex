@@ -17,4 +17,4 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 # Artículo 82
 
-El periodo de consulta pública de los Estándares será de, cuando menos, sesenta días naturales contados a partir del día natural inmediato siguiente al de su publicación en la Plataforma Tecnológica Integral de Infraestructura de la Calidad.
+El periodo de consulta pública de los [Estándares](articulo-4.md) será de, cuando menos, sesenta días naturales contados a partir del día natural inmediato siguiente al de su publicación en la [Plataforma Tecnológica Integral de Infraestructura de la Calidad](articulo-4.md).

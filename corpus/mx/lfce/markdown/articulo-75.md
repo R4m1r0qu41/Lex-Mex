@@ -17,7 +17,7 @@ source_sha256: d0021bbef2e0c3251d6efdea2c1efd9959ff3f02df4bcd1fc37c1ee7826a72ba
 
 # Artículo 75
 
-La Autoridad Investigadora por conducto de su titular, podrá ordenar la práctica de visitas de verificación, las cuales se sujetarán a las reglas siguientes:
+La [Autoridad Investigadora](articulo-3.md) por conducto de su titular, podrá ordenar la práctica de visitas de verificación, las cuales se sujetarán a las reglas siguientes:
 
 I. La Autoridad Investigadora emitirá la orden de visita, la que contendrá el objeto, alcance y duración a los que deberá limitarse la diligencia; el nombre del visitado; la ubicación del domicilio o domicilios a visitar; el nombre o nombres del personal autorizado que la practicará conjunta o separadamente, así como el apercibimiento de que de no permitir el acceso, obstaculizar el desahogo de la diligencia o negarse a proporcionar la información o documentos solicitados, se aplicarán las medidas de apremio que establezca la ley;
 
@@ -27,7 +27,7 @@ La práctica de las visitas no podrá exceder de dos meses, que podrá prorrogar
 
 La autoridad investigadora podrá habilitar días y horas inhábiles para iniciar o continuar una visita iniciada en días y horas hábiles, en cuyo caso el oficio por el que se haya ordenado la visita expresará la autorización correspondiente;
 
-IV. El visitado, sus funcionarios, representantes o los encargados de las instalaciones o establecimientos de los Agentes Económicos visitados estarán obligados a permitir la práctica de dicha diligencia otorgando las facilidades al personal autorizado por la Autoridad Investigadora, quienes estarán facultados para:
+IV. El visitado, sus funcionarios, representantes o los encargados de las instalaciones o establecimientos de los [Agentes Económicos](articulo-3.md) visitados estarán obligados a permitir la práctica de dicha diligencia otorgando las facilidades al personal autorizado por la Autoridad Investigadora, quienes estarán facultados para:
 
 a) Acceder a cualquier oficina, local, terreno, medio de transporte, computadora, aparato electrónico, dispositivo de almacenamiento, archiveros o cualquier otro medio que pudiera contener evidencia de la realización de los actos o hechos materia de la visita;
 
@@ -39,7 +39,7 @@ d) Asegurar todas los libros, documentos y demás medios del Agente Económico v
 
 e) Solicitar a cualquier funcionario, representante o miembro del personal del Agente Económico visitado, explicaciones sobre hechos, información o documentos relacionados con el objeto y la finalidad de la visita de verificación y asentar constancia de sus respuestas.
 
-La información que la Comisión obtenga de las visitas de verificación sólo podrá ser utilizada para los efectos de esta Ley.
+La información que la [Comisión](articulo-3.md) obtenga de las visitas de verificación sólo podrá ser utilizada para los efectos de esta Ley.
 
 Para el cumplimiento eficaz de la visita de verificación, la Autoridad Investigadora podrá autorizar que los servidores públicos que lleven a cabo la visita de verificación puedan solicitar el auxilio inmediato de la fuerza pública.
 

@@ -17,4 +17,4 @@ source_sha256: 703f083c0baedfb4ef5ce8b62c78684d8ee0073f393321d476d75ebe4878e1d5
 
 # Artículo 43
 
-Con fundamento en el Plan General, se elaborará la Directiva de Sistematización Pedagógica, que es el documento técnico que contiene las reglas, principios y elementos didácticos, pedagógicos y administrativos, que tiene por objeto guiar y orientar, de manera clara y concisa, al personal que participa en la acción educativa, a fin de materializar la planeación, ejecución y evaluación del proceso educativo.
+Con fundamento en el [Plan General](articulo-3.md), se elaborará la Directiva de Sistematización Pedagógica, que es el documento técnico que contiene las reglas, principios y elementos didácticos, pedagógicos y administrativos, que tiene por objeto guiar y orientar, de manera clara y concisa, al personal que participa en la acción educativa, a fin de materializar la planeación, ejecución y evaluación del proceso educativo.

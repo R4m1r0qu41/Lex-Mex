@@ -17,6 +17,6 @@ source_sha256: 4f46c1f92fb5682281a7679836e517de95975786fa5326848a331c9eb946cc5f
 
 # Artículo 10
 
-Para efectos de los artículos [2](../../liva/markdown/articulo-2o.md)o.-A, fracción I, inciso h) y 25, fracción VII de la Ley, se considera que el 80% de oro, incluye a los materiales con los que se procesa la conformación de ese metal, siempre y cuando dichos bienes tengan una calidad mínima de 10 quilates.
+Para efectos de los artículos [2](../../liva/markdown/articulo-2o.md)o.-A, fracción I, inciso h) y 25, fracción VII de la [Ley](articulo-1.md), se considera que el 80% de oro, incluye a los materiales con los que se procesa la conformación de ese metal, siempre y cuando dichos bienes tengan una calidad mínima de 10 quilates.
 
 Artículo reformado DOF 25-09-2014

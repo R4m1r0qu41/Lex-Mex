@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo II
+
 # Artículo 315
 
 De la traducción de los documentos que se presenten en idioma extranjero, se mandará dar vista a la parte contraria para que, en un plazo de tres días, manifieste si está conforme; en caso de no estarlo, dentro del mismo plazo de tres días deberá presentar traducción emitida por un perito traductor.

@@ -17,4 +17,4 @@ source_sha256: 35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc
 
 # Artículo 15
 
-El Instituto enviará para los efectos de la Ley, a la Secretaría de Hacienda y Crédito Público, los planes y programas de inversión, los presupuestos de ingresos y egresos y las modificaciones a los mismos.
+El [Instituto](articulo-4o.md) enviará para los efectos de la [Ley](articulo-4o.md), a la Secretaría de Hacienda y Crédito Público, los planes y programas de inversión, los presupuestos de ingresos y egresos y las modificaciones a los mismos.

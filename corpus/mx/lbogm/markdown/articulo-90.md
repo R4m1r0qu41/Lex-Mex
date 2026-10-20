@@ -21,7 +21,7 @@ Se podrán establecer zonas libres de OGMs para la protección de productos agr�
 
 I. Las zonas libres se establecerán cuando se trate de OGMs de la misma especie a las que se produzcan mediante procesos de producción de productos agrícolas orgánicos, y se demuestre científica y técnicamente que no es viable su coexistencia o que no cumplirían con los requisitos normativos para su certificación;
 
-II. Dichas zonas serán determinadas por la SAGARPA mediante acuerdos que se publicarán en el Diario Oficial de la Federación, previo dictamen de la CIBIOGEM, con la opinión de la Comisión Nacional para el Conocimiento y Uso de la Biodiversidad, tomando en cuenta lo establecido en las normas oficiales mexicanas relativas a los productos agrícolas orgánicos;
+II. Dichas zonas serán determinadas por la [SAGARPA](articulo-3.md) mediante acuerdos que se publicarán en el Diario Oficial de la Federación, previo dictamen de la [CIBIOGEM](articulo-3.md), con la opinión de la Comisión Nacional para el Conocimiento y Uso de la Biodiversidad, tomando en cuenta lo establecido en las normas oficiales mexicanas relativas a los productos agrícolas orgánicos;
 
 III. La determinación de las zonas libres se realizará con base en los siguientes requisitos:
 
@@ -29,6 +29,6 @@ A. Se hará a solicitud escrita de las comunidades interesadas, por conducto de 
 
 B. Dicha solicitud deberá acompañarse de la opinión favorable de los gobiernos de las entidades federativas y los gobiernos municipales de los lugares o regiones que se determinarán como zonas libres;
 
-C. Se realizarán las evaluaciones de los efectos que los OGMs pudieran ocasionar a los procesos de producción de productos agrícolas orgánicos o a la biodiversidad, mediante las cuales quede demostrado, científica y técnicamente, que no es viable su coexistencia o no cumplan con los requisitos normativos para su certificación, de acuerdo con las normas oficiales mexicanas que expida la SAGARPA. Las evaluaciones mencionadas se realizarán conforme lo establezca dicha Secretaría en normas oficiales mexicanas, y
+C. Se realizarán las evaluaciones de los efectos que los OGMs pudieran ocasionar a los procesos de producción de productos agrícolas orgánicos o a la biodiversidad, mediante las cuales quede demostrado, científica y técnicamente, que no es viable su coexistencia o no cumplan con los requisitos normativos para su certificación, de acuerdo con las normas oficiales mexicanas que expida la SAGARPA. Las evaluaciones mencionadas se realizarán conforme lo establezca dicha [Secretaría](articulo-3.md) en normas oficiales mexicanas, y
 
 IV. La SAGARPA establecerá en los acuerdos las medidas de seguridad que se podrán adoptar en las zonas libres de OGMs, a fin de garantizar la adecuada protección de los productos agrícolas orgánicos.

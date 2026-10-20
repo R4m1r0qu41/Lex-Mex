@@ -17,6 +17,6 @@ source_sha256: 269e72195414406bcbd3e90ac40ec26e031a9ea519316c44ee30bdfdf3163059
 
 # Artículo 18
 
-Los bienes inmuebles susceptibles de destinarse a actividades lícitas que sean entregados al Instituto, serán administrados a fin de mantenerlos productivos o, en su caso, hacerlos productivos.
+Los bienes inmuebles susceptibles de destinarse a actividades lícitas que sean entregados al [Instituto](articulo-2o.md), serán administrados a fin de mantenerlos productivos o, en su caso, hacerlos productivos.
 
 Artículo reformado DOF 09-08-2019

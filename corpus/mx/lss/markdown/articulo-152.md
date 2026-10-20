@@ -17,4 +17,4 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 152
 
-Los riesgos protegidos por este capítulo son el retiro, la cesantía en edad avanzada y la vejez del asegurado, así como la muerte de los pensionados por este seguro, en los términos y con las modalidades previstas en esta Ley.
+Los riesgos protegidos por este capítulo son el retiro, la cesantía en edad avanzada y la vejez del asegurado, así como la muerte de los pensionados por este seguro, en los términos y con las modalidades previstas en esta [Ley](articulo-5-A.md).

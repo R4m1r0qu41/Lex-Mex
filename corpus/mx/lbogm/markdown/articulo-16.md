@@ -17,7 +17,7 @@ source_sha256: b3c906475b455176de73da17f4f93a73f295965dc9bcca854b48417c7d4d3cfc
 
 # Artículo 16
 
-Corresponde a la SSA el ejercicio de las siguientes facultades en relación con los OGMs:
+Corresponde a la [SSA](articulo-3.md) el ejercicio de las siguientes facultades en relación con los OGMs:
 
 I. Participar en la formulación y aplicar la política general de bioseguridad;
 
@@ -29,7 +29,7 @@ IV. Participar en la elaboración y expedición de las listas a que se refiere e
 
 V. Ordenar y aplicar las medidas de seguridad o de urgente aplicación pertinentes, con bases técnicas y científicas y en el enfoque de precaución, en los términos de esta Ley;
 
-VI. Solicitar a la SEMARNAT o a la SAGARPA, según se trate, con apoyo en elementos técnicos y científicos, la suspensión de los efectos de los permisos de liberación al ambiente de OGMs, cuando disponga de información de la que se deduzca que la actividad permitida por esas Secretarías supone riesgos superiores a los previstos que pudieran afectar a la salud humana;
+VI. Solicitar a la [SEMARNAT](articulo-3.md) o a la [SAGARPA](articulo-3.md), según se trate, con apoyo en elementos técnicos y científicos, la suspensión de los efectos de los permisos de liberación al ambiente de OGMs, cuando disponga de información de la que se deduzca que la actividad permitida por esas [Secretarías](articulo-3.md) supone riesgos superiores a los previstos que pudieran afectar a la salud humana;
 
 VII. Inspeccionar y vigilar el cumplimiento de la presente Ley, sus reglamentos y normas oficiales mexicanas;
 

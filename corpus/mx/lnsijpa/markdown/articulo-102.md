@@ -17,7 +17,7 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 # Artículo 102
 
-Condiciones El Juez fijará el plazo de suspensión condicional del proceso, que no podrá ser inferior a tres meses ni superior a un año, y determinará una o varias de las condiciones que deberá cumplir la persona adolescente. Además de las condiciones que establece el Código Nacional se podrán imponer las siguientes:
+Condiciones El Juez fijará el plazo de suspensión condicional del proceso, que no podrá ser inferior a tres meses ni superior a un año, y determinará una o varias de las condiciones que deberá cumplir la persona adolescente. Además de las condiciones que establece el [Código Nacional](articulo-3.md) se podrán imponer las siguientes:
 
 I. Comenzar o continuar la escolaridad que le corresponda;
 
@@ -37,6 +37,6 @@ Las condiciones deberán mantener relación con el delito que se le atribuya a l
 
 Cuando se acredite plenamente que la persona adolescente no puede cumplir con alguna de las obligaciones anteriores por ser contrarias a su salud, o alguna otra causa de especial relevancia, el Juez podrá sustituirlas, fundada y motivadamente, por otra u otras análogas que resulten razonables.
 
-Para fijar las condiciones, el Juez puede disponer que la persona adolescente sea sometida a una evaluación previa por parte de la Autoridad de Supervisión de Medidas Cautelares y de Suspensión Condicional del Proceso. El Ministerio Público, la víctima u ofendido, podrán proponer al Juez las condiciones a las que consideren debe someterse la persona adolescente. Las condiciones deberán regirse bajo los principios de carácter socioeducativo, proporcionalidad, mínima intervención, autonomía progresiva, justicia restaurativa y demás principios del Sistema.
+Para fijar las condiciones, el Juez puede disponer que la persona adolescente sea sometida a una evaluación previa por parte de la Autoridad de Supervisión de Medidas Cautelares y de Suspensión Condicional del Proceso. El Ministerio Público, la víctima u ofendido, podrán proponer al Juez las condiciones a las que consideren debe someterse la persona adolescente. Las condiciones deberán regirse bajo los principios de carácter socioeducativo, proporcionalidad, mínima intervención, autonomía progresiva, justicia restaurativa y demás principios del [Sistema](articulo-3.md).
 
 El Juez explicará a la persona adolescente las obligaciones contenidas en las condiciones impuestas y la prevendrá sobre las consecuencias de su inobservancia.

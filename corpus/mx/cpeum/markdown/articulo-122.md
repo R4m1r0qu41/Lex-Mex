@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf
 source_sha256: ca63a23a4b7444ebdbdad93759fbf46bd14c069e587c5878decf89fc9c12ca8e
 ---
 
+> Título Quinto
+
 # Artículo 122
 
 La Ciudad de México es una entidad federativa que goza de autonomía en todo lo concerniente a su régimen interior y a su organización política y administrativa.
@@ -57,7 +59,9 @@ c) La depuración por parte de cada Comité de Evaluación del listado de las pe
 
 d) La evaluación del desempeño de las personas juzgadoras que resulten electas durante su primer año de ejercicio, así como de su capacitación y actualización permanente por parte del Tribunal de Disciplina Judicial de la Ciudad de México. Párrafo reformado DOF 15-09-2024. Reformado con incisos DOF 02-06-2026
 
-Las leyes también establecerán las condiciones para el funcionamiento de órganos de administración y disciplina con independencia técnica, de gestión y para emitir sus resoluciones, conforme a las bases establecidas en esta Constitución para el Poder Judicial de la Federación, así como del ingreso, formación, permanencia y especialización de quienes integren el Poder Judicial. Párrafo adicionado DOF 02-06-2026 Los magistrados integrantes del Tribunal Superior de Justicia de la Ciudad de México deberán reunir como mínimo los requisitos establecidos en las fracciones I a V del artículo [95](articulo-95.md) de esta Constitución. No podrán ser magistrados las personas que hayan ocupado en el Gobierno de la Ciudad de México el cargo de Secretario o equivalente o de Procurador General de Justicia, o de integrante del Poder Legislativo local, durante el año previo al día de la designación.
+Las leyes también establecerán las condiciones para el funcionamiento de órganos de administración y disciplina con independencia técnica, de gestión y para emitir sus resoluciones, conforme a las bases establecidas en esta Constitución para el Poder Judicial de la Federación, así como del ingreso, formación, permanencia y especialización de quienes integren el Poder Judicial. Párrafo adicionado DOF 02-06-2026
+
+Los magistrados integrantes del Tribunal Superior de Justicia de la Ciudad de México deberán reunir como mínimo los requisitos establecidos en las fracciones I a V del artículo [95](articulo-95.md) de esta Constitución. No podrán ser magistrados las personas que hayan ocupado en el Gobierno de la Ciudad de México el cargo de Secretario o equivalente o de Procurador General de Justicia, o de integrante del Poder Legislativo local, durante el año previo al día de la designación.
 
 Las y los magistrados y las y los jueces durarán en el ejercicio de su encargo nueve años; podrán ser reelectas y reelectos y, si lo fueren, sólo podrán ser privados de sus puestos en los términos que establecen esta Constitución, así como la Constitución y las leyes de la Ciudad de México. Las magistradas y los magistrados y las juezas y jueces percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser mayor a la establecida para la persona titular de la Presidencia de la República en el presupuesto correspondiente y no será disminuida durante su encargo. En el ámbito del Poder Judicial, no podrán crearse ni mantenerse en operación fondos, fideicomisos, mandatos o contratos análogos que no estén previstos en la ley. Párrafo reformado DOF 15-09-2024
 
@@ -138,5 +142,3 @@ c) La proyección conjunta y coordinada del desarrollo de las zonas conurbadas y
 D. Las prohibiciones y limitaciones que esta Constitución establece para los Estados aplicarán a la Ciudad de México.
 
 Artículo reformado DOF 25-10-1993, 31-12-1994. Fe de erratas DOF 03-01-1995. Reformado DOF 22-08-1996, 13-11-2007, 07-05-2008, 24-08-2009, 27-04-2010, 09-08-2012, 27-12-2013, 07-02-2014, 10-02-2014, 27-05-2015, 29-01-2016
-
-Título Sexto Del Trabajo y de la Previsión Social

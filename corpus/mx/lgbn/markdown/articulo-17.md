@@ -25,7 +25,7 @@ I.- Si el solicitante no cumple con los requisitos establecidos en dichas leyes;
 
 II.- Si se crea con la concesión un acaparamiento contrario al interés social;
 
-III.- Si se decide emprender, a través de la Federación o de las entidades, una explotación directa de los recursos de que se trate;
+III.- Si se decide emprender, a través de la [Federación](articulo-2.md) o de las entidades, una explotación directa de los recursos de que se trate;
 
 IV.- Si los bienes de que se trate están programados para la creación de reservas nacionales;
 

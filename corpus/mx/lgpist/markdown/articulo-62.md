@@ -19,4 +19,4 @@ source_sha256: 1e7d06c67fac4c8a100d2bb2845cc765fba5e8ce09d27d30b2b44432ffeb8c41
 
 Las autoridades de los tres órdenes de gobierno, en el ámbito de su competencia, están obligados a remitir al Centro Nacional de Prevención del Delito y Participación Ciudadana, conforme a los acuerdos que se generen en el marco del Sistema Nacional de Seguridad Pública, su programa de prevención del delito de tortura.
 
-Además, deberán mantener actualizado el Registro Nacional con información del delito de tortura en su demarcación.
+Además, deberán mantener actualizado el [Registro Nacional](articulo-5.md) con información del delito de tortura en su demarcación.

@@ -18,8 +18,8 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 36
 
-Las Sociedades deberán contar con un Auditor Interno, quien deberá llevar a cabo, cuando menos una vez al año una auditoría de administración de riesgos que contemple, entre otros, el desarrollo de la administración del riesgo de crédito, de conformidad con lo establecido en la presente sección y el propio manual de crédito y en las disposiciones aplicables.
+Las Sociedades deberán contar con un [Auditor Interno](articulo-1.md), quien deberá llevar a cabo, cuando menos una vez al año una auditoría de administración de riesgos que contemple, entre otros, el desarrollo de la administración del riesgo de crédito, de conformidad con lo establecido en la presente sección y el propio manual de crédito y en las disposiciones aplicables.
 
-Los resultados de la auditoría a que se refiere el presente artículo, se asentarán en un informe de observaciones que contendrá, en su caso, recomendaciones para solucionar las irregularidades observadas. Dicho informe se presentará al Consejo de Administración, al Consejo de Vigilancia, al Comité de Auditoría y al Director o Gerente General.
+Los resultados de la auditoría a que se refiere el presente artículo, se asentarán en un informe de observaciones que contendrá, en su caso, recomendaciones para solucionar las irregularidades observadas. Dicho informe se presentará al [Consejo de Administración](articulo-1.md), al [Consejo de Vigilancia](articulo-1.md), al [Comité de Auditoría](articulo-1.md) y al [Director o Gerente General](articulo-1.md).
 
-Las Sociedades estarán exceptuadas de contar con un Comité de Riesgos.
+Las Sociedades estarán exceptuadas de contar con un [Comité de Riesgos](articulo-1.md).

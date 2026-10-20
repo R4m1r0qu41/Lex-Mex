@@ -15,6 +15,6 @@ source_sha256: 4d25bcb022ab62a24462e11a230c9554c0120012913ab4599cd3ec1b2b275c1d
 
 # SEXTO
 
-La Secretaría podrá continuar expidiendo los acuerdos de desincorporación de zonas incorporadas a reservas mineras nacionales con anterioridad a la fecha de entrada en vigor de la Ley Minera, cuando hayan cambiado los supuestos que motivaron su incorporación.
+La [Secretaría](articulo-1o.md) podrá continuar expidiendo los acuerdos de desincorporación de zonas incorporadas a reservas mineras nacionales con anterioridad a la fecha de entrada en vigor de la [Ley](articulo-1o.md) Minera, cuando hayan cambiado los supuestos que motivaron su incorporación.
 
-Asimismo, la Secretaría seguirá expidiendo los acuerdos por los que se cancelen las asignaciones mineras otorgadas en favor del Servicio Geológico con antelación a la fecha de vigencia de la Ley Minera.
+Asimismo, la Secretaría seguirá expidiendo los acuerdos por los que se cancelen las asignaciones mineras otorgadas en favor del [Servicio Geológico](articulo-1o.md) con antelación a la fecha de vigencia de la Ley Minera.

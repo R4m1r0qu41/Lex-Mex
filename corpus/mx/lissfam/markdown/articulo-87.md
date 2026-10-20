@@ -21,7 +21,7 @@ La suma asegurada se otorgará por una sola vez a los militares que causen baja 
 
 I. A quienes soliciten su retiro y hayan cumplido 20 o más años de servicios efectivos prestados;
 
-II. A quienes por haber cumplido la edad límite en el grado que ostenten, de conformidad con esta Ley, pasen a situación de retiro y hayan cumplido 20 o más años de servicios efectivos prestados;
+II. A quienes por haber cumplido la edad límite en el grado que ostenten, de conformidad con esta [Ley](articulo-4o.md), pasen a situación de retiro y hayan cumplido 20 o más años de servicios efectivos prestados;
 
 III. A los militares incapacitados en actos dentro del servicio o como consecuencia de ellos en primera o segunda categoría, de conformidad con las tablas contenidas en el artículo [226](articulo-226.md) de esta Ley, sin tomar en cuenta los años de servicios efectivos prestados; en su caso, dicha suma asegurada será pagada a la persona legalmente acreditada por el militar; Fracción reformada DOF 20-11-2008
 

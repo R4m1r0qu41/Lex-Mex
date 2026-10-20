@@ -17,4 +17,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Artículo 335
 
-Los actos jurídicos y actuaciones electrónicas que realicen las personas que lleven a cabo las actividades previstas en el artículo [3](../../lsh/markdown/articulo-3.md) de la Ley, y que se encuentren debidamente acreditadas ante la Secretaría o la Comisión, producen los mismos efectos jurídicos que las leyes otorgan a los documentos firmados de manera autógrafa.
+Los actos jurídicos y actuaciones electrónicas que realicen las personas que lleven a cabo las actividades previstas en el artículo [3](../../lsh/markdown/articulo-3.md) de la [Ley](articulo-3.md), y que se encuentren debidamente acreditadas ante la [Secretaría](articulo-3.md) o la [Comisión](articulo-3.md), producen los mismos efectos jurídicos que las leyes otorgan a los documentos firmados de manera autógrafa.

@@ -17,4 +17,4 @@ source_sha256: 7df3d678efda2306b68d3c0f5ca0e3e92b9066d5f773128f4ae19cb26bf44fff
 
 # Artículo 12
 
-La SEMARNAT y la SADER deben facilitar la implementación de la planeación vinculante en el Sector Energético.
+La [SEMARNAT](articulo-3.md) y la [SADER](articulo-3.md) deben facilitar la implementación de la planeación vinculante en el Sector Energético.

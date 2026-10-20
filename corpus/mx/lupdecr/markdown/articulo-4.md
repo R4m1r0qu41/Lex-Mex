@@ -17,4 +17,4 @@ source_sha256: add375b17749965073df032027c6cafb7883ab25bfae2f13e34ba41b1ff24e88
 
 # Artículo 4
 
-El emblema de la cruz roja, conforme a lo establecido en el artículo 38 del I Convenio de Ginebra de 1949, está constituido por una cruz de color rojo, o una media luna de color rojo en posición vertical, ambas sobre fondo blanco. La cruz roja estará formada por dos fajas de color rojo de iguales dimensiones, que se cortan en el centro de manera perpendicular, conformando la imagen de cinco cuadros iguales. En ningún caso el emblema tocará los bordes de la bandera o escudo.
+El emblema de la cruz roja, conforme a lo establecido en el artículo 38 del I [Convenio de Ginebra de 1949](articulo-3.md), está constituido por una cruz de color rojo, o una media luna de color rojo en posición vertical, ambas sobre fondo blanco. La cruz roja estará formada por dos fajas de color rojo de iguales dimensiones, que se cortan en el centro de manera perpendicular, conformando la imagen de cinco cuadros iguales. En ningún caso el emblema tocará los bordes de la bandera o escudo.

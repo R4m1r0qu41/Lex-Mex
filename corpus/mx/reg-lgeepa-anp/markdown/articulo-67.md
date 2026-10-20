@@ -17,7 +17,7 @@ source_sha256: 4e276866fce1638948a6daf1a5c0438fa412554f1a6e0381cbdf7cb300e3db75
 
 # Artículo 67
 
-Los programas de restauración ecológica que formule la Secretaría y que se ejecuten en las áreas naturales protegidas, deberán contener por lo menos lo siguiente:
+Los programas de restauración ecológica que formule la [Secretaría](articulo-3o.md) y que se ejecuten en las áreas naturales protegidas, deberán contener por lo menos lo siguiente:
 
 I. La descripción del ecosistema o ecosistemas afectados, señalando las especies de vida silvestre características de la zona y, de manera específica, las que se encuentran en riesgo;
 
@@ -27,7 +27,7 @@ III. Las acciones de restauración que deberán realizarse, incluyendo:
 
 a) Las formas para inducir la recuperación de las poblaciones naturales;
 
-b) La repoblación, reintroducción o traslocación de ejemplares y poblaciones, conforme a lo establecido en la Ley General de Vida Silvestre;
+b) La repoblación, reintroducción o traslocación de ejemplares y poblaciones, conforme a lo establecido en la [Ley](articulo-3o.md) General de Vida Silvestre;
 
 c) Las obras y prácticas de conservación de suelo y agua que se tengan previstas, y
 

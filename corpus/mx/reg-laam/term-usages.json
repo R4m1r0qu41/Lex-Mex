@@ -1,1 +1,1937 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:1:term-usage:78-81",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:ley",
+    "span": "Ley",
+    "start_char": 78,
+    "end_char": 81
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:5:term-usage:118-128",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 118,
+    "end_char": 128
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:5:term-usage:370-373",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:ley",
+    "span": "Ley",
+    "start_char": 370,
+    "end_char": 373
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:5:term-usage:505-515",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:alto-mando",
+    "span": "Alto Mando",
+    "start_char": 505,
+    "end_char": 515
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:5:term-usage:1138-1159",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:comision-coordinadora",
+    "span": "Comisión Coordinadora",
+    "start_char": 1138,
+    "end_char": 1159
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:5:term-usage:1383-1386",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:ley",
+    "span": "Ley",
+    "start_char": 1383,
+    "end_char": 1386
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:5:term-usage:1570-1573",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:ley",
+    "span": "Ley",
+    "start_char": 1570,
+    "end_char": 1573
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:5:term-usage:1711-1721",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1711,
+    "end_char": 1721
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:5:term-usage:1896-1906",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:alto-mando",
+    "span": "Alto Mando",
+    "start_char": 1896,
+    "end_char": 1906
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:5:term-usage:1940-1957",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:promocion-general",
+    "span": "Promoción General",
+    "start_char": 1940,
+    "end_char": 1957
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:5:term-usage:2128-2145",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:promocion-general",
+    "span": "Promoción General",
+    "start_char": 2128,
+    "end_char": 2145
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:5:term-usage:2386-2389",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:ley",
+    "span": "Ley",
+    "start_char": 2386,
+    "end_char": 2389
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:5:term-usage:2766-2787",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:comision-coordinadora",
+    "span": "Comisión Coordinadora",
+    "start_char": 2766,
+    "end_char": 2787
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:5:term-usage:3017-3027",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:alto-mando",
+    "span": "Alto Mando",
+    "start_char": 3017,
+    "end_char": 3027
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:5:term-usage:3124-3134",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3124,
+    "end_char": 3134
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:5:term-usage:3433-3450",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:promocion-general",
+    "span": "Promoción General",
+    "start_char": 3433,
+    "end_char": 3450
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:5:term-usage:3612-3615",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:ley",
+    "span": "Ley",
+    "start_char": 3612,
+    "end_char": 3615
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:5:term-usage:3709-3712",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:ley",
+    "span": "Ley",
+    "start_char": 3709,
+    "end_char": 3712
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:5:term-usage:4035-4056",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:comision-coordinadora",
+    "span": "Comisión Coordinadora",
+    "start_char": 4035,
+    "end_char": 4056
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:5:term-usage:4113-4138",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:presidenta-o-presidente",
+    "span": "Presidentas o Presidentes",
+    "start_char": 4113,
+    "end_char": 4138
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:5:term-usage:4146-4164",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:comision-local",
+    "span": "Comisiones Locales",
+    "start_char": 4146,
+    "end_char": 4164
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:5:term-usage:4315-4336",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:comision-coordinadora",
+    "span": "Comisión Coordinadora",
+    "start_char": 4315,
+    "end_char": 4336
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:5:term-usage:4447-4470",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:jefatura-de-operaciones",
+    "span": "Jefatura de Operaciones",
+    "start_char": 4447,
+    "end_char": 4470
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:5:term-usage:4583-4586",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:ley",
+    "span": "Ley",
+    "start_char": 4583,
+    "end_char": 4586
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:5:term-usage:4784-4787",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:ley",
+    "span": "Ley",
+    "start_char": 4784,
+    "end_char": 4787
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:5:term-usage:5000-5010",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 5000,
+    "end_char": 5010
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:5:term-usage:5119-5140",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:concurso-de-seleccion",
+    "span": "Concurso de Selección",
+    "start_char": 5119,
+    "end_char": 5140
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:5:term-usage:5185-5195",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:alto-mando",
+    "span": "Alto Mando",
+    "start_char": 5185,
+    "end_char": 5195
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:5:term-usage:5205-5225",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:proceso-de-seleccion",
+    "span": "Proceso de Selección",
+    "start_char": 5205,
+    "end_char": 5225
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:5:term-usage:5272-5285",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:mando-supremo",
+    "span": "Mando Supremo",
+    "start_char": 5272,
+    "end_char": 5285
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:5:term-usage:5449-5466",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:promocion-general",
+    "span": "Promoción General",
+    "start_char": 5449,
+    "end_char": 5466
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:7:term-usage:100-103",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:ley",
+    "span": "Ley",
+    "start_char": 100,
+    "end_char": 103
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:8:term-usage:3-20",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:promocion-general",
+    "span": "Promoción General",
+    "start_char": 3,
+    "end_char": 20
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:8:term-usage:160-163",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:ley",
+    "span": "Ley",
+    "start_char": 160,
+    "end_char": 163
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:8:term-usage:266-284",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:comision-local",
+    "span": "Comisiones Locales",
+    "start_char": 266,
+    "end_char": 284
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:8:term-usage:330-340",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:alto-mando",
+    "span": "Alto Mando",
+    "start_char": 330,
+    "end_char": 340
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:8:term-usage:467-488",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:direcciones-generales",
+    "span": "Direcciones Generales",
+    "start_char": 467,
+    "end_char": 488
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:8:term-usage:691-708",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:promocion-general",
+    "span": "Promoción General",
+    "start_char": 691,
+    "end_char": 708
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:9:term-usage:3-20",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:promocion-general",
+    "span": "Promoción General",
+    "start_char": 3,
+    "end_char": 20
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:9:term-usage:98-101",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:ley",
+    "span": "Ley",
+    "start_char": 98,
+    "end_char": 101
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:9:term-usage:161-174",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:mando-supremo",
+    "span": "Mando Supremo",
+    "start_char": 161,
+    "end_char": 174
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:9:term-usage:217-227",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:alto-mando",
+    "span": "Alto Mando",
+    "start_char": 217,
+    "end_char": 227
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:10:term-usage:43-56",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:mando-supremo",
+    "span": "Mando Supremo",
+    "start_char": 43,
+    "end_char": 56
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:11:term-usage:43-53",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:alto-mando",
+    "span": "Alto Mando",
+    "start_char": 43,
+    "end_char": 53
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:13:term-usage:342-345",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:13",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:ley",
+    "span": "Ley",
+    "start_char": 342,
+    "end_char": 345
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:13:term-usage:369-382",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:13",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:mando-supremo",
+    "span": "Mando Supremo",
+    "start_char": 369,
+    "end_char": 382
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:13:term-usage:537-558",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:13",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:concurso-de-seleccion",
+    "span": "Concurso de Selección",
+    "start_char": 537,
+    "end_char": 558
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:13:term-usage:612-622",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:13",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:alto-mando",
+    "span": "Alto Mando",
+    "start_char": 612,
+    "end_char": 622
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:13:term-usage:638-641",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:13",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:ley",
+    "span": "Ley",
+    "start_char": 638,
+    "end_char": 641
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:14:term-usage:81-91",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:alto-mando",
+    "span": "Alto Mando",
+    "start_char": 81,
+    "end_char": 91
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:14:term-usage:124-145",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:comision-coordinadora",
+    "span": "Comisión Coordinadora",
+    "start_char": 124,
+    "end_char": 145
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:14:term-usage:165-183",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:comision-local",
+    "span": "Comisiones Locales",
+    "start_char": 165,
+    "end_char": 183
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:15:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:15",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:alto-mando",
+    "span": "Alto Mando",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:15:term-usage:33-55",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:15",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:directiva-de-promocion",
+    "span": "Directiva de Promoción",
+    "start_char": 33,
+    "end_char": 55
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:16:term-usage:3-20",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:16",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:promocion-general",
+    "span": "Promoción General",
+    "start_char": 3,
+    "end_char": 20
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:16:term-usage:99-102",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:16",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:ley",
+    "span": "Ley",
+    "start_char": 99,
+    "end_char": 102
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:16:term-usage:143-146",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:16",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:ley",
+    "span": "Ley",
+    "start_char": 143,
+    "end_char": 146
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:16-bis:term-usage:78-84",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:16-bis",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:manual",
+    "span": "Manual",
+    "start_char": 78,
+    "end_char": 84
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:18:term-usage:3-24",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:18",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:comision-coordinadora",
+    "span": "Comisión Coordinadora",
+    "start_char": 3,
+    "end_char": 24
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:18:term-usage:80-103",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:18",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:presidenta-o-presidente",
+    "span": "Presidenta o Presidente",
+    "start_char": 80,
+    "end_char": 103
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:18:term-usage:130-147",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:18",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:direcciones-generales",
+    "span": "Dirección General",
+    "start_char": 130,
+    "end_char": 147
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:18:term-usage:174-184",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:18",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 174,
+    "end_char": 184
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:18:term-usage:292-313",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:18",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:direcciones-generales",
+    "span": "Direcciones Generales",
+    "start_char": 292,
+    "end_char": 313
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:18:term-usage:321-344",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:18",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:jefatura-de-operaciones",
+    "span": "Jefatura de Operaciones",
+    "start_char": 321,
+    "end_char": 344
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:18:term-usage:445-468",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:18",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:presidenta-o-presidente",
+    "span": "Presidenta o Presidente",
+    "start_char": 445,
+    "end_char": 468
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:19:term-usage:4-22",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:19",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:comision-local",
+    "span": "Comisiones Locales",
+    "start_char": 4,
+    "end_char": 22
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:19:term-usage:47-70",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:19",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:presidenta-o-presidente",
+    "span": "Presidenta o Presidente",
+    "start_char": 47,
+    "end_char": 70
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:19:term-usage:497-520",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:19",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:presidenta-o-presidente",
+    "span": "Presidenta o Presidente",
+    "start_char": 497,
+    "end_char": 520
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:19:term-usage:563-580",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:19",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:personal-de-apoyo",
+    "span": "Personal de Apoyo",
+    "start_char": 563,
+    "end_char": 580
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:19:term-usage:659-682",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:19",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:presidenta-o-presidente",
+    "span": "Presidenta o Presidente",
+    "start_char": 659,
+    "end_char": 682
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:20:term-usage:94-104",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:alto-mando",
+    "span": "Alto Mando",
+    "start_char": 94,
+    "end_char": 104
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:20:term-usage:215-236",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:comision-coordinadora",
+    "span": "Comisión Coordinadora",
+    "start_char": 215,
+    "end_char": 236
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:20:term-usage:246-264",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:comision-local",
+    "span": "Comisiones Locales",
+    "start_char": 246,
+    "end_char": 264
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:21:term-usage:31-52",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:21",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:comision-coordinadora",
+    "span": "Comisión Coordinadora",
+    "start_char": 31,
+    "end_char": 52
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:21:term-usage:62-80",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:21",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:comision-local",
+    "span": "Comisiones Locales",
+    "start_char": 62,
+    "end_char": 80
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:22:term-usage:3-24",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:22",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:comision-coordinadora",
+    "span": "Comisión Coordinadora",
+    "start_char": 3,
+    "end_char": 24
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:22:term-usage:31-49",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:22",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:comision-local",
+    "span": "Comisiones Locales",
+    "start_char": 31,
+    "end_char": 49
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:22:term-usage:124-130",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:22",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:manual",
+    "span": "Manual",
+    "start_char": 124,
+    "end_char": 130
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:23:term-usage:21-31",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:alto-mando",
+    "span": "Alto Mando",
+    "start_char": 21,
+    "end_char": 31
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:23:term-usage:89-112",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:jefatura-de-operaciones",
+    "span": "Jefatura de Operaciones",
+    "start_char": 89,
+    "end_char": 112
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:23:term-usage:130-152",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:directiva-de-promocion",
+    "span": "Directiva de Promoción",
+    "start_char": 130,
+    "end_char": 152
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:23:term-usage:215-228",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:mando-supremo",
+    "span": "Mando Supremo",
+    "start_char": 215,
+    "end_char": 228
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:23:term-usage:340-353",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:mando-supremo",
+    "span": "Mando Supremo",
+    "start_char": 340,
+    "end_char": 353
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:23:term-usage:596-611",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:oficialia-mayor",
+    "span": "Oficialía Mayor",
+    "start_char": 596,
+    "end_char": 611
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:26:term-usage:23-46",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:jefatura-de-operaciones",
+    "span": "Jefatura de Operaciones",
+    "start_char": 23,
+    "end_char": 46
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:26:term-usage:107-129",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:directiva-de-promocion",
+    "span": "Directiva de Promoción",
+    "start_char": 107,
+    "end_char": 129
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:26:term-usage:151-171",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:proceso-de-seleccion",
+    "span": "Proceso de Selección",
+    "start_char": 151,
+    "end_char": 171
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:26:term-usage:188-209",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:concurso-de-seleccion",
+    "span": "Concurso de Selección",
+    "start_char": 188,
+    "end_char": 209
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:26:term-usage:285-300",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:oficialia-mayor",
+    "span": "Oficialía Mayor",
+    "start_char": 285,
+    "end_char": 300
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:26:term-usage:538-553",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:oficialia-mayor",
+    "span": "Oficialía Mayor",
+    "start_char": 538,
+    "end_char": 553
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:26:term-usage:609-619",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:alto-mando",
+    "span": "Alto Mando",
+    "start_char": 609,
+    "end_char": 619
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:26:term-usage:627-648",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:comision-coordinadora",
+    "span": "Comisión Coordinadora",
+    "start_char": 627,
+    "end_char": 648
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:26:term-usage:868-881",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:mando-supremo",
+    "span": "Mando Supremo",
+    "start_char": 868,
+    "end_char": 881
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:26:term-usage:944-947",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:ley",
+    "span": "Ley",
+    "start_char": 944,
+    "end_char": 947
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:26:term-usage:1020-1037",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:promocion-general",
+    "span": "Promoción General",
+    "start_char": 1020,
+    "end_char": 1037
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:26:term-usage:1071-1088",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:promocion-general",
+    "span": "Promoción General",
+    "start_char": 1071,
+    "end_char": 1088
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:26:term-usage:1111-1121",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:alto-mando",
+    "span": "Alto Mando",
+    "start_char": 1111,
+    "end_char": 1121
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:26:term-usage:1155-1165",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:alto-mando",
+    "span": "Alto Mando",
+    "start_char": 1155,
+    "end_char": 1165
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:27:term-usage:3-24",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:comision-coordinadora",
+    "span": "Comisión Coordinadora",
+    "start_char": 3,
+    "end_char": 24
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:27:term-usage:155-165",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:alto-mando",
+    "span": "Alto Mando",
+    "start_char": 155,
+    "end_char": 165
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:27:term-usage:237-240",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:ley",
+    "span": "Ley",
+    "start_char": 237,
+    "end_char": 240
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:27:term-usage:392-402",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:alto-mando",
+    "span": "Alto Mando",
+    "start_char": 392,
+    "end_char": 402
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:27:term-usage:936-959",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:jefatura-de-operaciones",
+    "span": "Jefatura de Operaciones",
+    "start_char": 936,
+    "end_char": 959
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:27:term-usage:994-1015",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:concurso-de-seleccion",
+    "span": "Concurso de Selección",
+    "start_char": 994,
+    "end_char": 1015
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:27:term-usage:1182-1192",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:alto-mando",
+    "span": "Alto Mando",
+    "start_char": 1182,
+    "end_char": 1192
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:27:term-usage:1261-1271",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:alto-mando",
+    "span": "Alto Mando",
+    "start_char": 1261,
+    "end_char": 1271
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:28:term-usage:24-42",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:28",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:comision-local",
+    "span": "Comisiones Locales",
+    "start_char": 24,
+    "end_char": 42
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:28:term-usage:440-461",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:28",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:comision-coordinadora",
+    "span": "Comisión Coordinadora",
+    "start_char": 440,
+    "end_char": 461
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:28:term-usage:570-591",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:28",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:comision-coordinadora",
+    "span": "Comisión Coordinadora",
+    "start_char": 570,
+    "end_char": 591
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:29:term-usage:307-321",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:29",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:comision-local",
+    "span": "Comisión Local",
+    "start_char": 307,
+    "end_char": 321
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:29:term-usage:551-554",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:29",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:ley",
+    "span": "Ley",
+    "start_char": 551,
+    "end_char": 554
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:30:term-usage:59-72",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:30",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:mando-supremo",
+    "span": "Mando Supremo",
+    "start_char": 59,
+    "end_char": 72
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:30:term-usage:88-111",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:30",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:jefatura-de-operaciones",
+    "span": "Jefatura de Operaciones",
+    "start_char": 88,
+    "end_char": 111
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:30:term-usage:231-242",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:30",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:institucion",
+    "span": "Institución",
+    "start_char": 231,
+    "end_char": 242
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:31:term-usage:3-26",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:31",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:jefatura-de-operaciones",
+    "span": "Jefatura de Operaciones",
+    "start_char": 3,
+    "end_char": 26
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:31:term-usage:469-472",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:31",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:ley",
+    "span": "Ley",
+    "start_char": 469,
+    "end_char": 472
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:32:term-usage:3-26",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:32",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:jefatura-de-operaciones",
+    "span": "Jefatura de Operaciones",
+    "start_char": 3,
+    "end_char": 26
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:32:term-usage:50-60",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:32",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:alto-mando",
+    "span": "Alto Mando",
+    "start_char": 50,
+    "end_char": 60
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:32:term-usage:526-546",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:32",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:proceso-de-seleccion",
+    "span": "Proceso de Selección",
+    "start_char": 526,
+    "end_char": 546
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:33:term-usage:114-117",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:33",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:ley",
+    "span": "Ley",
+    "start_char": 114,
+    "end_char": 117
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:33:term-usage:147-160",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:33",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:mando-supremo",
+    "span": "Mando Supremo",
+    "start_char": 147,
+    "end_char": 160
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:33:term-usage:305-328",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:33",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:jefatura-de-operaciones",
+    "span": "Jefatura de Operaciones",
+    "start_char": 305,
+    "end_char": 328
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:34:term-usage:59-82",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:34",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:jefatura-de-operaciones",
+    "span": "Jefatura de Operaciones",
+    "start_char": 59,
+    "end_char": 82
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:35:term-usage:3-26",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:35",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:jefatura-de-operaciones",
+    "span": "Jefatura de Operaciones",
+    "start_char": 3,
+    "end_char": 26
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:37:term-usage:31-54",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:37",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:jefatura-de-operaciones",
+    "span": "Jefatura de Operaciones",
+    "start_char": 31,
+    "end_char": 54
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:37:term-usage:78-91",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:37",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:mando-supremo",
+    "span": "Mando Supremo",
+    "start_char": 78,
+    "end_char": 91
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:37:term-usage:908-911",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:37",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:ley",
+    "span": "Ley",
+    "start_char": 908,
+    "end_char": 911
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:43-bis:term-usage:49-72",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:43-bis",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:jefatura-de-operaciones",
+    "span": "Jefatura de Operaciones",
+    "start_char": 49,
+    "end_char": 72
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:43-bis:term-usage:219-229",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:43-bis",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:alto-mando",
+    "span": "Alto Mando",
+    "start_char": 219,
+    "end_char": 229
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:43-ter:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:43-ter",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:alto-mando",
+    "span": "Alto Mando",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:43-ter:term-usage:43-56",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:43-ter",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:mando-supremo",
+    "span": "Mando Supremo",
+    "start_char": 43,
+    "end_char": 56
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:54:term-usage:59-69",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:54",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:alto-mando",
+    "span": "Alto Mando",
+    "start_char": 59,
+    "end_char": 69
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:54:term-usage:85-108",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:54",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:jefatura-de-operaciones",
+    "span": "Jefatura de Operaciones",
+    "start_char": 85,
+    "end_char": 108
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:55:term-usage:3-26",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:55",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:jefatura-de-operaciones",
+    "span": "Jefatura de Operaciones",
+    "start_char": 3,
+    "end_char": 26
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:55:term-usage:51-66",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:55",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:oficialia-mayor",
+    "span": "Oficialía Mayor",
+    "start_char": 51,
+    "end_char": 66
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:55:term-usage:180-201",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:55",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:concurso-de-seleccion",
+    "span": "Concurso de Selección",
+    "start_char": 180,
+    "end_char": 201
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:56:term-usage:273-276",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:56",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:ley",
+    "span": "Ley",
+    "start_char": 273,
+    "end_char": 276
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:56:term-usage:465-468",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:56",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:ley",
+    "span": "Ley",
+    "start_char": 465,
+    "end_char": 468
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:56:term-usage:675-696",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:56",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:concurso-de-seleccion",
+    "span": "Concurso de Selección",
+    "start_char": 675,
+    "end_char": 696
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:57:term-usage:3-26",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:57",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:jefatura-de-operaciones",
+    "span": "Jefatura de Operaciones",
+    "start_char": 3,
+    "end_char": 26
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:57:term-usage:32-47",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:57",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:oficialia-mayor",
+    "span": "Oficialía Mayor",
+    "start_char": 32,
+    "end_char": 47
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:57:term-usage:73-83",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:57",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:alto-mando",
+    "span": "Alto Mando",
+    "start_char": 73,
+    "end_char": 83
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:57:term-usage:360-381",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:57",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:concurso-de-seleccion",
+    "span": "Concurso de Selección",
+    "start_char": 360,
+    "end_char": 381
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:58:term-usage:85-88",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:58",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:ley",
+    "span": "Ley",
+    "start_char": 85,
+    "end_char": 88
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:60:term-usage:189-207",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:60",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:comision-local",
+    "span": "Comisiones Locales",
+    "start_char": 189,
+    "end_char": 207
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:60:term-usage:233-254",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:60",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:comision-coordinadora",
+    "span": "Comisión Coordinadora",
+    "start_char": 233,
+    "end_char": 254
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:61:term-usage:143-160",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:61",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:promocion-general",
+    "span": "Promoción General",
+    "start_char": 143,
+    "end_char": 160
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:61:term-usage:177-199",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:61",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:directiva-de-promocion",
+    "span": "Directiva de Promoción",
+    "start_char": 177,
+    "end_char": 199
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:61:term-usage:385-388",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:61",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:ley",
+    "span": "Ley",
+    "start_char": 385,
+    "end_char": 388
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:61:term-usage:535-538",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:61",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:ley",
+    "span": "Ley",
+    "start_char": 535,
+    "end_char": 538
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:61:term-usage:726-729",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:61",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:ley",
+    "span": "Ley",
+    "start_char": 726,
+    "end_char": 729
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:61:term-usage:997-1000",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:61",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:ley",
+    "span": "Ley",
+    "start_char": 997,
+    "end_char": 1000
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:61:term-usage:1266-1269",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:61",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:ley",
+    "span": "Ley",
+    "start_char": 1266,
+    "end_char": 1269
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:63:term-usage:58-64",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:63",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:manual",
+    "span": "Manual",
+    "start_char": 58,
+    "end_char": 64
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:69:term-usage:273-276",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:69",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:ley",
+    "span": "Ley",
+    "start_char": 273,
+    "end_char": 276
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:71:term-usage:4-22",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:71",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:comision-local",
+    "span": "Comisiones Locales",
+    "start_char": 4,
+    "end_char": 22
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:71:term-usage:138-159",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:71",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:comision-coordinadora",
+    "span": "Comisión Coordinadora",
+    "start_char": 138,
+    "end_char": 159
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:72:term-usage:165-171",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:72",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:manual",
+    "span": "Manual",
+    "start_char": 165,
+    "end_char": 171
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:72:term-usage:180-202",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:72",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:directiva-de-promocion",
+    "span": "Directiva de Promoción",
+    "start_char": 180,
+    "end_char": 202
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:75:term-usage:167-188",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:75",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:comision-coordinadora",
+    "span": "Comisión Coordinadora",
+    "start_char": 167,
+    "end_char": 188
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:76:term-usage:168-189",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:76",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:comision-coordinadora",
+    "span": "Comisión Coordinadora",
+    "start_char": 168,
+    "end_char": 189
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:77:term-usage:95-113",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:77",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:comision-local",
+    "span": "Comisiones Locales",
+    "start_char": 95,
+    "end_char": 113
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:81:term-usage:320-323",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:81",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:ley",
+    "span": "Ley",
+    "start_char": 320,
+    "end_char": 323
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:81:term-usage:561-575",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:81",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:comision-local",
+    "span": "Comisión Local",
+    "start_char": 561,
+    "end_char": 575
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:86:term-usage:4-22",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:86",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:comision-local",
+    "span": "Comisiones Locales",
+    "start_char": 4,
+    "end_char": 22
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:86:term-usage:172-178",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:86",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:manual",
+    "span": "Manual",
+    "start_char": 172,
+    "end_char": 178
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:86:term-usage:184-206",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:86",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:directiva-de-promocion",
+    "span": "Directiva de Promoción",
+    "start_char": 184,
+    "end_char": 206
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:89:term-usage:62-79",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:89",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:promocion-general",
+    "span": "Promoción General",
+    "start_char": 62,
+    "end_char": 79
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:89:term-usage:168-185",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:89",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:promocion-general",
+    "span": "Promoción General",
+    "start_char": 168,
+    "end_char": 185
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:93:term-usage:3-17",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:93",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:comision-local",
+    "span": "Comisión Local",
+    "start_char": 3,
+    "end_char": 17
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:93:term-usage:186-192",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:93",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:manual",
+    "span": "Manual",
+    "start_char": 186,
+    "end_char": 192
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:94:term-usage:353-367",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:94",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:comision-local",
+    "span": "Comisión Local",
+    "start_char": 353,
+    "end_char": 367
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:99:term-usage:3-17",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:99",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:comision-local",
+    "span": "Comisión Local",
+    "start_char": 3,
+    "end_char": 17
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:100:term-usage:3-24",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:100",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:comision-coordinadora",
+    "span": "Comisión Coordinadora",
+    "start_char": 3,
+    "end_char": 24
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:100:term-usage:43-49",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:100",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:manual",
+    "span": "Manual",
+    "start_char": 43,
+    "end_char": 49
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:102:term-usage:146-169",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:102",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:jefatura-de-operaciones",
+    "span": "Jefatura de Operaciones",
+    "start_char": 146,
+    "end_char": 169
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:104:term-usage:78-101",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:104",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:jefatura-de-operaciones",
+    "span": "Jefatura de Operaciones",
+    "start_char": 78,
+    "end_char": 101
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:106-bis:term-usage:45-66",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:106-bis",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:concurso-de-seleccion",
+    "span": "Concurso de Selección",
+    "start_char": 45,
+    "end_char": 66
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:106-bis:term-usage:71-92",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:106-bis",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:comision-coordinadora",
+    "span": "Comisión Coordinadora",
+    "start_char": 71,
+    "end_char": 92
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:107:term-usage:196-199",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:107",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:ley",
+    "span": "Ley",
+    "start_char": 196,
+    "end_char": 199
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:108:term-usage:27-50",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:108",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:jefatura-de-operaciones",
+    "span": "Jefatura de Operaciones",
+    "start_char": 27,
+    "end_char": 50
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:109:term-usage:405-428",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:109",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:jefatura-de-operaciones",
+    "span": "Jefatura de Operaciones",
+    "start_char": 405,
+    "end_char": 428
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:110:term-usage:221-227",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:110",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:manual",
+    "span": "Manual",
+    "start_char": 221,
+    "end_char": 227
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:111:term-usage:191-197",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:111",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:manual",
+    "span": "Manual",
+    "start_char": 191,
+    "end_char": 197
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:114:term-usage:48-69",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:114",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:concurso-de-seleccion",
+    "span": "Concurso de Selección",
+    "start_char": 48,
+    "end_char": 69
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:114:term-usage:540-546",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:114",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:manual",
+    "span": "Manual",
+    "start_char": 540,
+    "end_char": 546
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:115:term-usage:26-47",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:115",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:concurso-de-seleccion",
+    "span": "Concurso de Selección",
+    "start_char": 26,
+    "end_char": 47
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:115:term-usage:220-226",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:115",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:manual",
+    "span": "Manual",
+    "start_char": 220,
+    "end_char": 226
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:117:term-usage:27-42",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:117",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:oficialia-mayor",
+    "span": "Oficialía Mayor",
+    "start_char": 27,
+    "end_char": 42
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:119:term-usage:343-349",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:119",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:manual",
+    "span": "Manual",
+    "start_char": 343,
+    "end_char": 349
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:120:term-usage:31-52",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:120",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:concurso-de-seleccion",
+    "span": "Concurso de Selección",
+    "start_char": 31,
+    "end_char": 52
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:120:term-usage:102-117",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:120",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:oficialia-mayor",
+    "span": "Oficialía Mayor",
+    "start_char": 102,
+    "end_char": 117
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:120:term-usage:141-164",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:120",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:jefatura-de-operaciones",
+    "span": "Jefatura de Operaciones",
+    "start_char": 141,
+    "end_char": 164
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:120:term-usage:300-321",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:120",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:concurso-de-seleccion",
+    "span": "Concurso de Selección",
+    "start_char": 300,
+    "end_char": 321
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:120:term-usage:431-441",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:120",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:alto-mando",
+    "span": "Alto Mando",
+    "start_char": 431,
+    "end_char": 441
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:120:term-usage:461-482",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:120",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:concurso-de-seleccion",
+    "span": "Concurso de Selección",
+    "start_char": 461,
+    "end_char": 482
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:121:term-usage:39-49",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:121",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:alto-mando",
+    "span": "Alto Mando",
+    "start_char": 39,
+    "end_char": 49
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:121:term-usage:70-85",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:121",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:oficialia-mayor",
+    "span": "Oficialía Mayor",
+    "start_char": 70,
+    "end_char": 85
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:122:term-usage:89-92",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:122",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:ley",
+    "span": "Ley",
+    "start_char": 89,
+    "end_char": 92
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:123:term-usage:189-192",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:123",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:ley",
+    "span": "Ley",
+    "start_char": 189,
+    "end_char": 192
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:125:term-usage:319-322",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:125",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:ley",
+    "span": "Ley",
+    "start_char": 319,
+    "end_char": 322
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:129:term-usage:100-103",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:129",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:ley",
+    "span": "Ley",
+    "start_char": 100,
+    "end_char": 103
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:131:term-usage:385-388",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:131",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:ley",
+    "span": "Ley",
+    "start_char": 385,
+    "end_char": 388
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:132:term-usage:71-92",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:132",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:concurso-de-seleccion",
+    "span": "Concurso de Selección",
+    "start_char": 71,
+    "end_char": 92
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:132:term-usage:221-224",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:132",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:ley",
+    "span": "Ley",
+    "start_char": 221,
+    "end_char": 224
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:132:term-usage:443-446",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:132",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:ley",
+    "span": "Ley",
+    "start_char": 443,
+    "end_char": 446
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:132:term-usage:605-608",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:132",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:ley",
+    "span": "Ley",
+    "start_char": 605,
+    "end_char": 608
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:132:term-usage:1532-1535",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:132",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:ley",
+    "span": "Ley",
+    "start_char": 1532,
+    "end_char": 1535
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:132:term-usage:1901-1918",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:132",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:promocion-general",
+    "span": "Promoción General",
+    "start_char": 1901,
+    "end_char": 1918
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:132:term-usage:2131-2148",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:132",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:promocion-general",
+    "span": "Promoción General",
+    "start_char": 2131,
+    "end_char": 2148
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:134:term-usage:128-151",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:134",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:jefatura-de-operaciones",
+    "span": "Jefatura de Operaciones",
+    "start_char": 128,
+    "end_char": 151
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:134:term-usage:157-172",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:134",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:oficialia-mayor",
+    "span": "Oficialía Mayor",
+    "start_char": 157,
+    "end_char": 172
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:136:term-usage:66-69",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:136",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:ley",
+    "span": "Ley",
+    "start_char": 66,
+    "end_char": 69
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:transitory:segundo:term-usage:49-52",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:ley",
+    "span": "Ley",
+    "start_char": 49,
+    "end_char": 52
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:transitory:segundo:term-usage:330-333",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:ley",
+    "span": "Ley",
+    "start_char": 330,
+    "end_char": 333
+  }
+]

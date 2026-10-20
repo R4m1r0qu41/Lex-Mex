@@ -17,6 +17,6 @@ source_sha256: 01b72308e67d46ba6ca8a6b07fb7584c6a74e905ea0c4b5be5c0c0d32a6d817a
 
 # Artículo 37
 
-La aplicación y calificación de las pruebas de capacidad física quedará bajo la responsabilidad de la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército, Fuerza Aérea y Guardia Nacional o la que designe el Estado Mayor.
+La aplicación y calificación de las pruebas de capacidad física quedará bajo la responsabilidad de la [Dirección](articulo-5.md) General de Educación Militar y Rectoría de la Universidad del Ejército, Fuerza Aérea y Guardia Nacional o la que designe el [Estado Mayor](articulo-5.md).
 
 Artículo reformado DOF 20-03-2026

@@ -1,0 +1,33 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-3",
+  "instrument_id": "urn:lex-mx:federal:statute:lins",
+  "source_sha256": "40271b07f2d2236f7e4d722d2b61f35db2d82772543dcf4911097efe13697c5e",
+  "extracted_text_sha256": "1d464053a97ac566ab3657ba83ba9e5be8d61e479a9073ddaca2aa16f8e8243f",
+  "status": "detected",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lins:article:2",
+      "provision_text_sha256": "a068d67eb950ce3d3339c436f478bf54423c1617a7de2e79138376658ba8b8e6",
+      "method": "established_pass",
+      "fractions": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI"
+      ],
+      "unread_fractions": [],
+      "term_count": 11
+    }
+  ],
+  "imports": [],
+  "term_count": 11,
+  "usage_count": 80
+}

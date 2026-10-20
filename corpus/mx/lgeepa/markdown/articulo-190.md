@@ -27,7 +27,7 @@ III.- Los datos que permitan identificar al presunto infractor o localizar la fu
 
 IV.- Las pruebas que en su caso ofrezca el denunciante.
 
-Asimismo, podrá formularse la denuncia por vía telefónica, en cuyo supuesto el servidor público que la reciba, levantará acta circunstanciada, y el denunciante deberá ratificarla por escrito, cumpliendo con los requisitos establecidos en el presente artículo, en un término de tres días hábiles siguientes a la formulación de la denuncia, sin perjuicio de que la Procuraduría Federal de Protección al Ambiente investigue de oficio los hechos constitutivos de la denuncia.
+Asimismo, podrá formularse la denuncia por vía telefónica, en cuyo supuesto el servidor público que la reciba, levantará acta circunstanciada, y el denunciante deberá ratificarla por escrito, cumpliendo con los requisitos establecidos en el presente artículo, en un término de tres días hábiles siguientes a la formulación de la denuncia, sin perjuicio de que la Procuraduría Federal de [Protección](articulo-3o.md) al [Ambiente](articulo-3o.md) investigue de oficio los hechos constitutivos de la denuncia.
 
 No se admitirán denuncias notoriamente improcedentes o infundadas, aquéllas en las que se advierta mala fe, carencia de fundamento o inexistencia de petición, lo cual se notificará al denunciante.
 

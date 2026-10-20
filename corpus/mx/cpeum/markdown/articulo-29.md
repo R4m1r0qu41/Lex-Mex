@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf
 source_sha256: ca63a23a4b7444ebdbdad93759fbf46bd14c069e587c5878decf89fc9c12ca8e
 ---
 
+> Título Primero · Capítulo I
+
 # Artículo 29
 
 En los casos de invasión, perturbación grave de la paz pública, o de cualquier otro que ponga a la sociedad en grave peligro o conflicto, solamente el Presidente de los Estados Unidos Mexicanos, con la aprobación del Congreso de la Unión o de la Comisión Permanente cuando aquel no estuviere reunido, podrá restringir o suspender en todo el país o en lugar determinado el ejercicio de los derechos y las garantías que fuesen obstáculo para hacer frente, rápida y fácilmente a la situación; pero deberá hacerlo por un tiempo limitado, por medio de prevenciones generales y sin que la restricción o suspensión se contraiga a determinada persona. Si la restricción o suspensión tuviese lugar hallándose el Congreso reunido, éste concederá las autorizaciones que estime necesarias para que el Ejecutivo haga frente a la situación; pero si se verificase en tiempo de receso, se convocará de inmediato al Congreso para que las acuerde. Párrafo reformado DOF 10-02-2014
@@ -26,5 +28,3 @@ Cuando se ponga fin a la restricción o suspensión del ejercicio de los derecho
 Los decretos expedidos por el Ejecutivo durante la restricción o suspensión, serán revisados de oficio e inmediatamente por la Suprema Corte de Justicia de la Nación, la que deberá pronunciarse con la mayor prontitud sobre su constitucionalidad y validez.
 
 Artículo reformado DOF 21-04-1981, 02-08-2007, 10-06-2011
-
-Capítulo II De los Mexicanos

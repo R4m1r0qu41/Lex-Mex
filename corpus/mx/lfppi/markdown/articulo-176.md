@@ -17,6 +17,6 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 176
 
-Las marcas se registrarán en relación con productos o servicios específicos determinados conforme a la clasificación y reglas que establezca el Reglamento de esta Ley.
+Las marcas se registrarán en relación con productos o servicios específicos determinados conforme a la clasificación y reglas que establezca el Reglamento de esta [Ley](articulo-4.md).
 
-Cualquier duda respecto de la clase a que corresponda un producto o servicio, será resuelta en definitiva por el Instituto.
+Cualquier duda respecto de la clase a que corresponda un producto o servicio, será resuelta en definitiva por el [Instituto](articulo-4.md).

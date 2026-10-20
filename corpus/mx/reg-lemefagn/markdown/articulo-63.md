@@ -19,4 +19,4 @@ source_sha256: 703f083c0baedfb4ef5ce8b62c78684d8ee0073f393321d476d75ebe4878e1d5
 
 Como resultado de la evaluación institucional, la Secretaría y la Dirección y Rectoría girarán las directivas para alcanzar los objetivos específicos y las metas, previstas en la Planeación Institucional y para hacer eficiente la administración y conducción del proceso educativo.
 
-Las personas titulares de las Direcciones de las Instituciones Educativas y Jefaturas de Curso aplicarán las directivas a que se refiere el párrafo precedente. Párrafo reformado DOF 20-03-2026
+Las personas titulares de las Direcciones de las [Instituciones Educativas](articulo-3.md) y Jefaturas de Curso aplicarán las directivas a que se refiere el párrafo precedente. Párrafo reformado DOF 20-03-2026

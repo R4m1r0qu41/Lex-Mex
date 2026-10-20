@@ -21,7 +21,7 @@ Cuando se acredite que el daño o afectación, fue ocasionado dolosamente por do
 
 No habrá responsabilidad solidaria en los términos previstos por el presente artículo, cuando se acredite que la persona responsable:
 
-I. Ha contado por lo menos con tres años de anterioridad a la conducta que ocasionó el daño, con un órgano de control interno dedicado de hecho a verificar permanentemente el cumplimiento de las obligaciones de la persona moral derivadas de las Leyes, licencias, autorizaciones, permisos o concesiones ambientales; así como con un sistema interno de gestión y capacitación ambiental en funcionamiento permanente;
+I. Ha contado por lo menos con tres años de anterioridad a la conducta que ocasionó el daño, con un órgano de control interno dedicado de hecho a verificar permanentemente el cumplimiento de las obligaciones de la persona moral derivadas de las [Leyes](articulo-2o.md), licencias, autorizaciones, permisos o concesiones ambientales; así como con un sistema interno de gestión y capacitación ambiental en funcionamiento permanente;
 
 II. Cuenta con alguno de los certificados resultado de la auditoría ambiental a la que hace referencia el artículo [38 BIS](../../lgeepa/markdown/articulo-38-BIS.md) de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, y III. Cuente con la garantía financiera prevista en el artículo [8](articulo-8o.md)o. de esta Ley.
 

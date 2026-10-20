@@ -17,7 +17,7 @@ source_sha256: b32c33fa4ed071dc8bea1ad69ce8510cdb05016967e9e4fcb60f10c6f2216628
 
 # Artículo 1
 
-La presente Ley es de orden público e interés general y tiene por objeto determinar la integración, organización, atribuciones y funcionamiento del Tribunal Federal de Justicia Administrativa.
+La presente [Ley](articulo-2.md) es de orden público e interés general y tiene por objeto determinar la integración, organización, atribuciones y funcionamiento del [Tribunal](articulo-2.md) Federal de Justicia Administrativa.
 
 El Tribunal Federal de Justicia Administrativa es un órgano jurisdiccional con autonomía para emitir sus fallos y con jurisdicción plena.
 

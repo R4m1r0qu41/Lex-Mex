@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf
 source_sha256: 43927095d22ff7bc7780e78132d2160b5050b5f76026b539daec32be09d7341d
 ---
 
+> Título Segundo · Capítulo III
+
 # Artículo 48
 
 Para resolver las consultas que presenten los importadores, exportadores , agentes aduanales, agencias aduanales, confederaciones, cámaras o asociaciones industriales, sobre la correcta clasificación arancelaria o el número de identificación comercial a que se refiere el artículo [47](articulo-47.md) de esta Ley, las autoridades aduaneras podrán solicitar, cuando así lo requieran, la opinión del Consejo de Clasificación Arancelaria, el cual estará integrado por la autoridad aduanera y los peritos que propongan las confederaciones, cámaras y asociaciones industriales e instituciones académicas. El Servicio de Administración Tributaria establecerá mediante reglas la conformación y las normas de operación de dicho Consejo. Los dictámenes técnicos emitidos por el Consejo y respecto de los cuales el Servicio de Administración Tributaria se apoye para emitir sus resoluciones, deberán publicarse como criterios de clasificación arancelaria y, en su caso, del número de identificación comercial dentro de los 30 días siguientes a aquél en que la autoridad hubiere emitido la resolución.

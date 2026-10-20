@@ -17,7 +17,7 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 172
 
-Las Sociedades deberán implementar un código de ética aprobado por el Consejo de Administración, en el cual se establezcan reglas apropiadas y prudentes que gobiernen la conducta y el comportamiento adecuado de sus Consejeros, Miembros del Consejo de Vigilancia, funcionarios y empleados, en su interacción con los Socios y al interior de la propia Sociedad.
+Las Sociedades deberán implementar un código de ética aprobado por el [Consejo de Administración](articulo-1.md), en el cual se establezcan reglas apropiadas y prudentes que gobiernen la conducta y el comportamiento adecuado de sus [Consejeros](articulo-1.md), [Miembros del Consejo de Vigilancia](articulo-1.md), funcionarios y empleados, en su interacción con los [Socios](articulo-1.md) y al interior de la propia Sociedad.
 
 El código de ética debe contemplar, como mínimo, los aspectos siguientes:
 

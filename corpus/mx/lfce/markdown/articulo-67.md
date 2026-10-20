@@ -17,4 +17,4 @@ source_sha256: d0021bbef2e0c3251d6efdea2c1efd9959ff3f02df4bcd1fc37c1ee7826a72ba
 
 # Artículo 67
 
-Cualquier persona en el caso de violaciones a esta Ley en materia de prácticas monopólicas absolutas, prácticas monopólicas relativas o concentraciones ilícitas, podrá denunciarlas ante la Autoridad Investigadora.
+Cualquier persona en el caso de violaciones a esta Ley en materia de prácticas monopólicas absolutas, prácticas monopólicas relativas o concentraciones ilícitas, podrá denunciarlas ante la [Autoridad Investigadora](articulo-3.md).

@@ -17,4 +17,4 @@ source_sha256: 8e270686b885035488bfe310b0b42bb40e7154431794227ebe212dd7dc12e46a
 
 # Artículo 86
 
-Con las excepciones que señala esta Ley continuarán aplicándose las disposiciones sobre obligaciones y contratos, así como las estipulaciones de las partes.
+Con las excepciones que señala esta [Ley](articulo-4o.md) continuarán aplicándose las disposiciones sobre obligaciones y contratos, así como las estipulaciones de las partes.

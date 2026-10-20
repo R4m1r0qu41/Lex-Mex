@@ -17,6 +17,6 @@ source_sha256: 8515c812258bcc7c342e8566ff623c7f5e880f2eb9ee2ad154758077089f11ca
 
 # Artículo 22
 
-La Comisión Coordinadora y las Comisiones Locales, para su organización y funcionamiento, se sujetarán a lo dispuesto en el Manual.
+La [Comisión Coordinadora](articulo-5.md) y las [Comisiones Locales](articulo-5.md), para su organización y funcionamiento, se sujetarán a lo dispuesto en el [Manual](articulo-5.md).
 
 Artículo reformado DOF 22-09-2010, 11-03-2016

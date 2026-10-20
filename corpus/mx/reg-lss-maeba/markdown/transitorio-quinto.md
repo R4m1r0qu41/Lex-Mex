@@ -15,4 +15,4 @@ source_sha256: 9816ce7f9d6b9b1781eb9935869bd45677c60d721d3352865b6524c2e75db8cd
 
 # QUINTO
 
-El Instituto contará con 180 días naturales contados a partir de la entrada en vigor del presente ordenamiento, para diseñar, desarrollar e implementar el sistema tecnológico que permita licitar los bienes a que se refiere este Reglamento, a través de la red mundial de computadoras (Internet), en la página electrónica del Instituto.
+El [Instituto](../../lss/markdown/articulo-5-A.md) contará con 180 días naturales contados a partir de la entrada en vigor del presente ordenamiento, para diseñar, desarrollar e implementar el sistema tecnológico que permita licitar los bienes a que se refiere este [Reglamento](articulo-2.md), a través de la red mundial de computadoras (Internet), en la página electrónica del Instituto.

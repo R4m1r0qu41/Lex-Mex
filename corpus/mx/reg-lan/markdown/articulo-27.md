@@ -17,4 +17,4 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 27
 
-"La Comisión" evaluará los avances del programa nacional hidráulico y sus subprogramas específicos y, en su caso, promoverá las modificaciones a éstos y a su instrumentación con las mismas formalidades que se establecen en la "Ley" y el presente "Reglamento" para su formulación.
+"[La Comisión](articulo-1o.md)" evaluará los avances del programa nacional hidráulico y sus subprogramas específicos y, en su caso, promoverá las modificaciones a éstos y a su instrumentación con las mismas formalidades que se establecen en la "[Ley](articulo-1o.md)" y el presente "[Reglamento](articulo-1o.md)" para su formulación.

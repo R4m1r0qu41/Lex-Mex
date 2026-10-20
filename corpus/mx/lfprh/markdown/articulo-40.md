@@ -17,7 +17,7 @@ source_sha256: ce45c7c0c4e9099691e6e24bd2456d0b6f71f91ab27eedd5c4f2190b66d47741
 
 # Artículo 40
 
-El proyecto de Ley de Ingresos contendrá:
+El proyecto de [Ley de Ingresos](articulo-2.md) contendrá:
 
 I. La exposición de motivos en la que se señale:
 

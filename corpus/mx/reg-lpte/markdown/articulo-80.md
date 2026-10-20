@@ -17,4 +17,4 @@ source_sha256: 716e427a30e9982ccaa0576288aad2ad5305c624b236a0f342b6a87d60b7a9ed
 
 # Artículo 80
 
-La Secretaría puede promover la contratación del financiamiento para el Aprovechamiento Sustentable de la Energía al que hace referencia el artículo [70](../../lpte/markdown/articulo-70.md) de la Ley, a través de líneas de crédito con la banca de desarrollo y comercial nacional, así como con organismos financieros multilaterales.
+La [Secretaría](articulo-5.md) puede promover la contratación del financiamiento para el Aprovechamiento Sustentable de la Energía al que hace referencia el artículo [70](../../lpte/markdown/articulo-70.md) de la [Ley](articulo-5.md), a través de líneas de crédito con la banca de desarrollo y comercial nacional, así como con organismos financieros multilaterales.

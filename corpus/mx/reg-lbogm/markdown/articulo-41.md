@@ -17,4 +17,4 @@ source_sha256: 667636f9e0ea65e72ac9d6d7b4d7563a183b75d0f140268a61929c74f5f88041
 
 # Artículo 41
 
-Previo a la importación de OGMs que se pretendan liberar al ambiente, se deberá obtener el permiso correspondiente a la liberación que corresponda, el cual surtirá efectos de permiso de importación en los términos que establece la Ley.
+Previo a la importación de OGMs que se pretendan liberar al ambiente, se deberá obtener el permiso correspondiente a la liberación que corresponda, el cual surtirá efectos de permiso de importación en los términos que establece la [Ley](articulo-2.md).

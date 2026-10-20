@@ -17,4 +17,4 @@ source_sha256: 23dcee090bbe0c4fb06c75d084cb65ce0b2e8f72a8d082e7059504412bde1614
 
 # Artículo 51
 
-Para efectos del Registro, se asignará a las variedades vegetales un número de identificación tan pronto se haya cumplido el requisito de novedad y aprobada su denominación. Asimismo, se inscribirán los nombres completos de los fitomejoradores y, en su caso, la reclamación del derecho de prioridad sobre una variedad vegetal.
+Para efectos del [Registro](articulo-2o.md), se asignará a las variedades vegetales un número de identificación tan pronto se haya cumplido el requisito de novedad y aprobada su denominación. Asimismo, se inscribirán los nombres completos de los fitomejoradores y, en su caso, la reclamación del derecho de prioridad sobre una variedad vegetal.

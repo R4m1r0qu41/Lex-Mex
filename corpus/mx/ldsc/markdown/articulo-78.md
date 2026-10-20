@@ -17,4 +17,4 @@ source_sha256: 45deb87bfd634dfbd1cb7d9fd67a476ad954187908eb0cb06256c90ccc0feb80
 
 # Artículo 78
 
-La Comisión, cuando se requiera, y con apoyo del Comité Nacional Sistema Producto Café, podrá apoyar a las personas exportadoras e importadoras en la identificación de la calidad del café que se comercialice, siendo cubiertos los costos de esta actividad por la propia persona exportadora o importadora.
+La [Comisión](articulo-3.md), cuando se requiera, y con apoyo del Comité Nacional Sistema Producto Café, podrá apoyar a las personas exportadoras e importadoras en la identificación de la calidad del café que se comercialice, siendo cubiertos los costos de esta actividad por la propia persona exportadora o importadora.

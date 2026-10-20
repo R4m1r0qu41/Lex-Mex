@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 133 Bis 1
 
-Las Sociedades Financieras Populares a fin de acreditar a la Federación que las supervise de manera auxiliar que cuentan con la tecnología e infraestructura necesaria para llevar a cabo el otorgamiento de Microcréditos deberán presentar un escrito suscrito por el Director o Gerente General de la Sociedad Financiera Popular, que incluya lo siguiente:
+Las [Sociedades](articulo-1.md) Financieras Populares a fin de acreditar a la [Federación](articulo-1.md) que las supervise de manera auxiliar que cuentan con la tecnología e infraestructura necesaria para llevar a cabo el otorgamiento de [Microcréditos](articulo-1.md) deberán presentar un escrito suscrito por el [Director o Gerente General](articulo-1.md) de la Sociedad Financiera Popular, que incluya lo siguiente:
 
 I. La manifestación de que han llevado a cabo una autoevaluación respecto de la tecnología e infraestructura de la Sociedad Financiera Popular de que se trate, de la cual se desprenda que ésta cuenta con la capacidad y los medios necesarios para llevar a cabo el otorgamiento de Microcrédito;
 

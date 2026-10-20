@@ -17,7 +17,7 @@ source_sha256: 96092a4581d4e87910eb58939da4045879e4fe613b12f4413d7392bcc2c6e884
 
 # Artículo 28 Bis
 
-La Secretaría podrá otorgar, con base en el principio de reciprocidad, permisos extraordinarios de ingreso y portación temporal de armas a las personas servidoras públicas extranjeras que acompañen como agentes de seguridad, en visitas oficiales, a Jefes de Estado, jefes de gobierno, ministros o equivalentes, siempre que se trate de revólveres o pistolas de funcionamiento semiautomático, cuyo calibre no sea superior a .40” o equivalente. Párrafo reformado DOF 29-05-2025
+La [Secretaría](articulo-1o-Bis.md) podrá otorgar, con base en el principio de reciprocidad, permisos extraordinarios de ingreso y portación temporal de armas a las personas servidoras públicas extranjeras que acompañen como agentes de seguridad, en visitas oficiales, a Jefes de Estado, jefes de gobierno, ministros o equivalentes, siempre que se trate de revólveres o pistolas de funcionamiento semiautomático, cuyo calibre no sea superior a .40” o equivalente. Párrafo reformado DOF 29-05-2025
 
 En casos excepcionales, se podrá autorizar el ingreso y portación de otro tipo de armas, siempre que a juicio de la Secretaría se justifique la necesidad de su uso. Párrafo reformado DOF 29-05-2025
 

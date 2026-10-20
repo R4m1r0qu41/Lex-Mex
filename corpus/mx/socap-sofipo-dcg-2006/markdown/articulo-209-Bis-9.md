@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 209 Bis 9
 
-Las Sociedades Financieras Populares deberán solicitar la información y documentación necesaria para verificar si un Cliente forma parte de un grupo de Clientes o Grupo de personas que representen “Riesgo Común”, conforme a los supuestos a que se refiere el artículo [209 Bis 8](articulo-209-Bis-8.md), fracción I, inciso b), de las presentes disposiciones, al momento de realizar o solicitar operaciones de Financiamiento que ocasionen que la suma de sus Financiamientos supere el 1 por ciento del capital neto de la Sociedad Financiera Popular, que corresponda al cierre del tercer mes anterior al de la fecha en que se realice dicho cómputo. Para estos límites, no se considerará la parte cubierta en los términos señalados en el Artículo [209 Bis 8](articulo-209-Bis-8.md), fracción I inciso c) de las presentes disposiciones.
+Las [Sociedades](articulo-1.md) Financieras Populares deberán solicitar la información y documentación necesaria para verificar si un Cliente forma parte de un grupo de Clientes o [Grupo de personas](articulo-1.md) que representen “Riesgo Común”, conforme a los supuestos a que se refiere el artículo [209 Bis 8](articulo-209-Bis-8.md), fracción I, inciso b), de las presentes disposiciones, al momento de realizar o solicitar operaciones de [Financiamiento](articulo-1.md) que ocasionen que la suma de sus Financiamientos supere el 1 por ciento del capital neto de la Sociedad Financiera Popular, que corresponda al cierre del tercer mes anterior al de la fecha en que se realice dicho cómputo. Para estos límites, no se considerará la parte cubierta en los términos señalados en el Artículo [209 Bis 8](articulo-209-Bis-8.md), fracción I inciso c) de las presentes disposiciones.
 
 Al efecto, las Sociedades Financieras Populares deberán definir y documentar el procedimiento para integrar la información necesaria, de modo que puedan confirmar o descartar si un Cliente, grupo de Clientes o Grupo de personas representan un “Riesgo Común” o, en su caso, descartar la aplicación del referido concepto, respecto de algún Cliente, grupo de Clientes o Grupo de personas. Dichos procedimientos deberán documentarse y mantenerse actualizados anualmente y disponibles para presentarlos a la Comisión encargada de su supervisión en el momento que se les requiera.
 
@@ -26,4 +26,4 @@ Al solicitar la información y documentación, las Sociedades Financieras Popula
 
 Derogado.
 
-Capítulo IV Bis 2 De los capitales mínimos y el Nivel de Regulación Prudencial
+Capítulo IV Bis 2 De los capitales mínimos y el [Nivel de Regulación Prudencial](articulo-1.md)

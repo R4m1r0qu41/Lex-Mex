@@ -17,4 +17,4 @@ source_sha256: 4bcc982b308b0813469b30db61b53d5a2c41e5a7240b3b1cac2f1aeeb2c00a2e
 
 # Artículo 184
 
-Los Certificados de Energías Limpias se pueden comercializar libremente entre los Participantes del Mercado. Las transacciones de compraventa, liquidación y cancelación voluntaria de Certificados de Energías Limpias solo se pueden realizar a través del sistema electrónico que se habilite en términos del artículo 149 de la Ley y el 182 del presente reglamento.
+Los Certificados de Energías Limpias se pueden comercializar libremente entre los Participantes del Mercado. Las transacciones de compraventa, liquidación y cancelación voluntaria de Certificados de Energías Limpias solo se pueden realizar a través del sistema electrónico que se habilite en términos del artículo 149 de la [Ley](articulo-2.md) y el 182 del presente reglamento.

@@ -17,4 +17,4 @@ source_sha256: 7b3cf7a0ff59f76503a97a535457c4a7dd3b1305e7a36f4fca82bd661eab1168
 
 # Artículo 55
 
-Corresponde al Centro definir las medidas de protección, destrucción, códigos de seguridad en las comunicaciones y demás aspectos necesarios para el resguardo de la información que se genere con motivo de los sistemas de coordinación en materia de Seguridad Nacional.
+Corresponde al [Centro](articulo-6.md) definir las medidas de protección, destrucción, códigos de seguridad en las comunicaciones y demás aspectos necesarios para el resguardo de la información que se genere con motivo de los sistemas de coordinación en materia de Seguridad Nacional.

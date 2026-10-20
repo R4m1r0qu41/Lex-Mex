@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAC.pdf
 source_sha256: 07199878c4f94748c983998437198eb7c645ad76967c444dfe26d50a535d23ae
 ---
 
+> Capítulo XII · Sección Segunda
+
 # Artículo 73
 
-Las acciones para exigir las indemnizaciones a que se refiere esta sección, prescribirán en un año a partir de la fecha en la cual ocurrieron los hechos. Capítulo XIII De los seguros aéreos
+Las acciones para exigir las indemnizaciones a que se refiere esta sección, prescribirán en un año a partir de la fecha en la cual ocurrieron los hechos.

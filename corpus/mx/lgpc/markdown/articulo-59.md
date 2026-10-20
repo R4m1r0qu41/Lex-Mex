@@ -17,6 +17,6 @@ source_sha256: d8dd1de3627b899bb4faf31c2812c3d5f14f7108be153d5aa8dd549b9136184a
 
 # Artículo 59
 
-La declaratoria de emergencia es el acto mediante el cual la Secretaría reconoce que uno o varios municipios o demarcaciones territoriales de la Ciudad de México, de una o más entidades federativas se encuentran ante la inminencia, alta probabilidad o presencia de una situación anormal generada por un agente natural perturbador y por ello se requiere prestar auxilio inmediato a la población cuya seguridad e integridad está en riesgo.
+La declaratoria de emergencia es el acto mediante el cual la [Secretaría](articulo-2.md) reconoce que uno o varios municipios o demarcaciones territoriales de la Ciudad de México, de una o más entidades federativas se encuentran ante la inminencia, alta probabilidad o presencia de una situación anormal generada por un agente natural perturbador y por ello se requiere prestar auxilio inmediato a la población cuya seguridad e integridad está en riesgo.
 
 Artículo reformado DOF 19-01-2018

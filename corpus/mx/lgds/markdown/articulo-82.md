@@ -17,7 +17,7 @@ source_sha256: 32822f50bb2de81185408f9450d61a49d678429c52c5379822a507c7027a5275
 
 # Artículo 82
 
-El Instituto promoverá estrategias para el intercambio de información y experiencias con las autoridades de los tres órdenes de gobierno, que permitan retroalimentarse sobre la evaluación de los programas, proyectos y acciones de la Política de Desarrollo Social.
+El [Instituto](articulo-5.md) promoverá estrategias para el intercambio de información y experiencias con las autoridades de los tres órdenes de gobierno, que permitan retroalimentarse sobre la evaluación de los programas, proyectos y acciones de la [Política de Desarrollo Social](articulo-5.md).
 
 Las autoridades de los tres órdenes de gobierno deberán proporcionar toda la información y elementos requeridos por el Instituto, que sean necesarios para la evaluación integral de la Política de Desarrollo Social y medición de la pobreza.
 

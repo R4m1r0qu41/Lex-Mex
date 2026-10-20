@@ -19,11 +19,11 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 La incorporación voluntaria de los sujetos a que se refiere el presente capítulo, se realizará por convenio y se sujetará a las siguientes modalidades:
 
-I. Podrá efectuarse en forma individual o de grupo a solicitud, por escrito, del sujeto o sujetos interesados. En el caso de incorporación colectiva cada uno de los asegurados será responsable de sus obligaciones frente al Instituto;
+I. Podrá efectuarse en forma individual o de grupo a solicitud, por escrito, del sujeto o sujetos interesados. En el caso de incorporación colectiva cada uno de los asegurados será responsable de sus obligaciones frente al [Instituto](articulo-5-A.md);
 
 II. El esquema de aseguramiento, para los sujetos que señala este capítulo, comprende:
 
-a) Para los sujetos a que se refiere la fracción I del artículo [13](articulo-13.md) de esta Ley, las prestaciones del seguro de enfermedades y maternidad, por lo que se refiere a las prestaciones en especie estarán sujetos a los tiempos de espera determinados en el reglamento de la ley en la materia, las del seguro de riesgos de trabajo, las correspondientes de los seguros de invalidez y vida, retiro, cesantía en edad avanzada y vejez, así como las del seguro de guarderías y prestaciones sociales, en los términos de los capítulos respectivos; Inciso reformado DOF 20-12-2001, 01-12-2023
+a) Para los sujetos a que se refiere la fracción I del artículo [13](articulo-13.md) de esta [Ley](articulo-5-A.md), las prestaciones del seguro de enfermedades y maternidad, por lo que se refiere a las prestaciones en especie estarán sujetos a los tiempos de espera determinados en el reglamento de la ley en la materia, las del seguro de riesgos de trabajo, las correspondientes de los seguros de invalidez y vida, retiro, cesantía en edad avanzada y vejez, así como las del seguro de guarderías y prestaciones sociales, en los términos de los capítulos respectivos; Inciso reformado DOF 20-12-2001, 01-12-2023
 
 b) Se deroga. Inciso derogado DOF 16-11-2022
 

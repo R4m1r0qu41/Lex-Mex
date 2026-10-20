@@ -15,7 +15,7 @@ source_sha256: ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776
 
 # Artículo 21
 
-La Secretaría evaluará y dictaminará las solicitudes para administrar, operar, explotar y, en su caso, construir un aeródromo, una vez que se encuentren debidamente integradas conforme a este Reglamento; para tal efecto se considerará su viabilidad, jurídica, técnica, administrativa y financiera, así como los criterios señalados en el artículo [11](../../laero/markdown/articulo-11.md), fracción IV, inciso f) de la Ley.
+La [Secretaría](articulo-2.md) evaluará y dictaminará las solicitudes para administrar, operar, explotar y, en su caso, construir un aeródromo, una vez que se encuentren debidamente integradas conforme a este Reglamento; para tal efecto se considerará su viabilidad, jurídica, técnica, administrativa y financiera, así como los criterios señalados en el artículo [11](../../laero/markdown/articulo-11.md), fracción IV, inciso f) de la [Ley](articulo-2.md).
 
 La Secretaría, una vez integrados la evaluación y dictamen de las solicitudes, los remitirá a la Comisión Intersecretarial a que se refiere el artículo [21](../../laero/markdown/articulo-21.md) de la Ley, a efecto de que en un plazo de treinta días naturales a partir de su recepción, emita su opinión. Durante dicho plazo, la Comisión podrá solicitar aclaraciones sobre la información proporcionada.
 

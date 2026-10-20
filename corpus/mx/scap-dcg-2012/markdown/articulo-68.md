@@ -18,11 +18,11 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 68
 
-En materia de control interno, el Director o Gerente General será el encargado de la implementación y funcionamiento diario del sistema de control interno, para lo cual deberá:
+En materia de control interno, el [Director o Gerente General](articulo-1.md) será el encargado de la implementación y funcionamiento diario del sistema de control interno, para lo cual deberá:
 
-I. Verificar que el sistema de control interno funcione adecuadamente y conforme a los objetivos y estrategias determinados por el Consejo de Administración.
+I. Verificar que el sistema de control interno funcione adecuadamente y conforme a los objetivos y estrategias determinados por el [Consejo de Administración](articulo-1.md).
 
-II Elaborar reportes trimestrales para el Consejo de Administración, el Comité de Auditoría y el Consejo de Vigilancia, los cuales deberán mencionar:
+II Elaborar reportes trimestrales para el Consejo de Administración, el [Comité de Auditoría](articulo-1.md) y el [Consejo de Vigilancia](articulo-1.md), los cuales deberán mencionar:
 
 a) La situación actual de la cartera crediticia total.
 
@@ -44,6 +44,6 @@ a) Se tomen las medidas preventivas y correctivas necesarias a fin de subsanar c
 
 b) Exista una clara delimitación de funciones y responsabilidades entre las unidades de la Sociedad, así como la independencia entre las áreas o funciones que así lo requieran.
 
-c) Los manuales de operación se hagan del conocimiento de los Consejeros, Miembros del Consejo de Vigilancia así como de los funcionarios y empleados que por sus funciones requieran conocerlos.
+c) Los manuales de operación se hagan del conocimiento de los [Consejeros](articulo-1.md), [Miembros del Consejo de Vigilancia](articulo-1.md) así como de los funcionarios y empleados que por sus funciones requieran conocerlos.
 
 V. Informar por lo menos una vez al año al Consejo de Administración sobre el desempeño de las actividades a que se refiere este artículo, así como los resultados obtenidos.

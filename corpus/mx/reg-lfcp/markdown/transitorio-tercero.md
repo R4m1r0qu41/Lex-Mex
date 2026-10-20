@@ -15,4 +15,4 @@ source_sha256: 43723ba379e128c1a1c1be4b085ecc870946cdec43d56f83e7314c077361368f
 
 # TERCERO
 
-Los corredores que deseen obtener la habilitación a que se refiere el artículo cuarto transitorio de la Ley, no requerirán cumplir con los requisitos de exámenes establecidos en este reglamento, y sólo deberán presentar ante la Secretaría solicitud acompañada del oficio conforme al cual hayan sido legalmente habilitados para ejercer como corredores públicos, así como constancia de la autoridad habilitante en la que se exprese que la habilitación no ha sido revocada y que el corredor no se encuentra suspendido.
+Los corredores que deseen obtener la habilitación a que se refiere el artículo cuarto transitorio de la [Ley](articulo-2o.md), no requerirán cumplir con los requisitos de exámenes establecidos en este reglamento, y sólo deberán presentar ante la [Secretaría](articulo-2o.md) solicitud acompañada del oficio conforme al cual hayan sido legalmente habilitados para ejercer como corredores públicos, así como constancia de la autoridad habilitante en la que se exprese que la habilitación no ha sido revocada y que el corredor no se encuentra suspendido.

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Primero · Capítulo I
+
 # Artículo 730
 
 Si en la designación hubiere personas con discapacidad, niñas, niños o adolescentes que tengan persona quien ejerza la patria potestad, persona tutora o persona que brinde apoyos para el ejercicio de su capacidad jurídica, se les mandará citar a estos últimos para la junta.

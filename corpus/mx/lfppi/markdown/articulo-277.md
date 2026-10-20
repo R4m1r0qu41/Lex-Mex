@@ -19,7 +19,7 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 La persona moral interesada en asumir la responsabilidad de certificar el cumplimiento de las reglas de uso deberá contar con personalidad jurídica y patrimonio propios, además de comprobar autonomía técnica e imparcialidad, en relación con las actividades de certificación a realizar.
 
-Para tal efecto deberá presentar una solicitud al Instituto, anexando:
+Para tal efecto deberá presentar una solicitud al [Instituto](articulo-4.md), anexando:
 
 I.- Su acta constitutiva;
 
@@ -29,4 +29,4 @@ III.- Las pruebas de que cuenta con la experiencia y los recursos financieros, m
 
 IV.- El comprobante de pago de las tarifas correspondientes, y
 
-V.- Los demás requisitos que señale el Reglamento de esta Ley.
+V.- Los demás requisitos que señale el Reglamento de esta [Ley](articulo-4.md).

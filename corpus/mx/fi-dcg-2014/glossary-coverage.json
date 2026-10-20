@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-3",
+  "instrument_id": "urn:lex-mx:federal:regulation:fi-dcg-2014",
+  "source_sha256": "30cec2bac3222c89d447b6e8adc7877ea45ece21dfc270ed8c963ea91649b6ee",
+  "extracted_text_sha256": "55649233999f442855167f8daf2245d1582d945d16f52cdae2419fa80a172fec",
+  "status": "held",
+  "glossaries": [],
+  "hold": {
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:1",
+    "provision_text_sha256": "ec429d9e6069763b33723643b1008722883658d3d56bbf108ab75325e99cd7af",
+    "code": "sequence_break",
+    "message": "fraction IV breaks the I, II, III… sequence after I"
+  },
+  "imports": [],
+  "term_count": 0,
+  "usage_count": 0
+}

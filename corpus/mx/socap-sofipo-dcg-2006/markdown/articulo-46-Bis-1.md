@@ -18,17 +18,17 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 46 Bis 1
 
-Las Sociedades Financieras Populares, para la determinación de los requerimientos de capitalización por riesgo de crédito, deberán ajustarse a los grupos de riesgo siguientes:
+Las [Sociedades](articulo-1.md) Financieras Populares, para la determinación de los requerimientos de capitalización por riesgo de crédito, deberán ajustarse a los grupos de riesgo siguientes:
 
 Grupo 1. Estará integrado por:
 
 I. Caja.
 
-II. Operaciones Sujetas a Riesgo de Crédito con o a cargo de las dependencias que conforman la administración pública federal centralizada a la que se refiere el artículo [1](../../loapf/markdown/articulo-1o.md) de la Ley Orgánica de la Administración Pública Federal.
+II. [Operaciones Sujetas a Riesgo de Crédito](articulo-1.md) con o a cargo de las dependencias que conforman la administración pública federal centralizada a la que se refiere el artículo [1](../../loapf/markdown/articulo-1o.md) de la [Ley](articulo-1.md) Orgánica de la Administración Pública Federal.
 
 III. Operaciones Sujetas a Riesgo de Crédito con o a cargo del Instituto para la Protección al Ahorro Bancario.
 
-IV. Operaciones Sujetas a Riesgo de Crédito con o a cargo de gobiernos centrales de países extranjeros y/o sus bancos centrales, que cuenten con Alto Grado de Inversión.
+IV. Operaciones Sujetas a Riesgo de Crédito con o a cargo de gobiernos centrales de países extranjeros y/o sus bancos centrales, que cuenten con Alto [Grado de Inversión](articulo-1.md).
 
 Las operaciones con o a cargo de las personas comprendidas en este grupo tendrán una ponderación por riesgo de crédito de 0 por ciento.
 
@@ -58,4 +58,4 @@ Las operaciones de este grupo tendrán una ponderación por riesgo de crédito d
 
 Las Sociedades Financieras Populares deberán cumplir las precisiones sobre las operaciones que integran los grupos por riesgo de crédito establecidas en el Anexo O Bis de las presentes disposiciones.
 
-Respecto de las operaciones análogas, conexas o complementarias a las establecidas en los grupos anteriores, las Sociedades Financieras Populares directamente o por conducto de la Federación que las agrupe, deberán formular la solicitud ante la Comisión dentro de los treinta días naturales siguientes en que le fuese notificada la autorización para la realización de dichas operaciones, a efecto que la propia Comisión determine la ponderación por riesgo de crédito y en su caso el valor de conversión a riesgo de crédito que les corresponda.
+Respecto de las operaciones análogas, conexas o complementarias a las establecidas en los grupos anteriores, las Sociedades Financieras Populares directamente o por conducto de la [Federación](articulo-1.md) que las agrupe, deberán formular la solicitud ante la Comisión dentro de los treinta días naturales siguientes en que le fuese notificada la autorización para la realización de dichas operaciones, a efecto que la propia Comisión determine la ponderación por riesgo de crédito y en su caso el valor de conversión a riesgo de crédito que les corresponda.

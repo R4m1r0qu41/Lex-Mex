@@ -18,5 +18,3 @@ source_sha256: cf8a5d05500ddbe21885db4a8f1128cf95b3aaab95b7982a47aa33baea652361
 # Artículo 108
 
 Son aplicables a la aceptación por intervención, las disposiciones de los artículos [95](articulo-95.md) al [100](articulo-100.md). Fe de erratas al artículo DOF 08-09-1932
-
-Sección Cuarta Del aval

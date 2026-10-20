@@ -17,4 +17,4 @@ source_sha256: 7f01ee1b1deb901a23976507adccbddefbea50b0fc9a4ddceaf1225d711d50d0
 
 # Artículo 46
 
-La persona titular del Secretariado Ejecutivo será designada y removida por la persona titular del Poder Ejecutivo Federal y deberá cumplir con los siguientes requisitos: I. Ser ciudadana mexicana y estar en pleno goce de sus derechos civiles y políticos; II. Tener más de treinta años; III. Contar con título profesional de nivel licenciatura debidamente registrado, y IV. Tener reconocida capacidad, honestidad y probidad, así como contar con cinco años de experiencia en las áreas correspondientes a su función.
+La persona titular del [Secretariado Ejecutivo](articulo-4.md) será designada y removida por la persona titular del Poder Ejecutivo Federal y deberá cumplir con los siguientes requisitos: I. Ser ciudadana mexicana y estar en pleno goce de sus derechos civiles y políticos; II. Tener más de treinta años; III. Contar con título profesional de nivel licenciatura debidamente registrado, y IV. Tener reconocida capacidad, honestidad y probidad, así como contar con cinco años de experiencia en las áreas correspondientes a su función.

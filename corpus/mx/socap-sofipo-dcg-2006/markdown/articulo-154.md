@@ -18,8 +18,8 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 154
 
-La Sociedad Financiera Popular deberá efectuar mensualmente el cómputo de los requerimientos de capitalización por riesgo de crédito, mercado y operacional, los cuales deberán ser enviados a la Comisión de conformidad con lo establecido en el Título Octavo, Capítulo II y en el Anexo N de las presentes disposiciones.
+La [Sociedad](articulo-1.md) Financiera Popular deberá efectuar mensualmente el cómputo de los requerimientos de capitalización por riesgo de crédito, mercado y operacional, los cuales deberán ser enviados a la Comisión de conformidad con lo establecido en el Título Octavo, Capítulo II y en el Anexo N de las presentes disposiciones.
 
-Asimismo, la información deberá ser enviada a la Federación que la supervise de manera auxiliar dentro del plazo señalado en el párrafo anterior, atendiendo la forma y términos que dicha Federación establezca.
+Asimismo, la información deberá ser enviada a la [Federación](articulo-1.md) que la supervise de manera auxiliar dentro del plazo señalado en el párrafo anterior, atendiendo la forma y términos que dicha Federación establezca.
 
 Los requerimientos antes mencionados se determinarán con base en los saldos al último día del mes de que se trate.

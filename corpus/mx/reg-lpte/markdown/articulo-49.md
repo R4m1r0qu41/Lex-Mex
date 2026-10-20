@@ -17,4 +17,4 @@ source_sha256: 716e427a30e9982ccaa0576288aad2ad5305c624b236a0f342b6a87d60b7a9ed
 
 # Artículo 49
 
-El diagnóstico al que hace referencia el artículo 31, fracción I, de la Ley debe incluir la información histórica de los últimos quince años, así como el panorama de la situación actual que incluya la producción de hidrocarburos, la infraestructura de producción de los derivados de los hidrocarburos, así como del Almacenamiento y Transporte de Hidrocarburos y sus derivados.
+El diagnóstico al que hace referencia el artículo 31, fracción I, de la [Ley](articulo-5.md) debe incluir la información histórica de los últimos quince años, así como el panorama de la situación actual que incluya la producción de hidrocarburos, la infraestructura de producción de los derivados de los hidrocarburos, así como del Almacenamiento y Transporte de Hidrocarburos y sus derivados.

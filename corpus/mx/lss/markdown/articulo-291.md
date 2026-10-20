@@ -17,7 +17,7 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 291
 
-El procedimiento administrativo de ejecución para el cobro de los créditos a que se refiere el artículo [287](articulo-287.md) de esta Ley, que no hubiesen sido cubiertos oportunamente al Instituto, se aplicará por éste, con sujeción a las normas del Código y demás disposiciones aplicables, a través de sus unidades administrativas facultadas al efecto.
+El procedimiento administrativo de ejecución para el cobro de los créditos a que se refiere el artículo [287](articulo-287.md) de esta [Ley](articulo-5-A.md), que no hubiesen sido cubiertos oportunamente al [Instituto](articulo-5-A.md), se aplicará por éste, con sujeción a las normas del [Código](articulo-5-A.md) y demás disposiciones aplicables, a través de sus unidades administrativas facultadas al efecto.
 
 La enajenación de los bienes que el Instituto se adjudique con motivo de la aplicación del procedimiento administrativo de ejecución, se realizará en subasta pública o por adjudicación directa, en los términos y condiciones que señale el reglamento respectivo, que se publicará en el Diario Oficial de la Federación. En el caso de valores, de renta fija o variable, éstos se enajenarán conforme a los lineamientos que al efecto emita el Consejo Técnico.
 

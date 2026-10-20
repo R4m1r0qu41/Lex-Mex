@@ -23,12 +23,12 @@ I. El otorgamiento del beneficio de la dispensa o reducción del pago de las mul
 
 II. Las medidas para restaurar el proceso de libre concurrencia y de competencia económica.
 
-El Pleno podrá modificar los términos y condiciones planteados en el escrito por el que se solicite el beneficio a que hace referencia el artículo [100](articulo-100.md) de esta Ley, para asegurarse de que se restaure el proceso de competencia y libre concurrencia. Párrafo adicionado DOF 16-07-2025
+El [Pleno](articulo-3.md) podrá modificar los términos y condiciones planteados en el escrito por el que se solicite el beneficio a que hace referencia el artículo [100](articulo-100.md) de esta Ley, para asegurarse de que se restaure el proceso de competencia y libre concurrencia. Párrafo adicionado DOF 16-07-2025
 
-Los Agentes Económicos deberán aceptar de conformidad expresamente y por escrito la resolución definitiva, dentro de un plazo de diez días contados a partir de la fecha en que sea notificado. Párrafo reformado DOF 16-07-2025
+Los [Agentes Económicos](articulo-3.md) deberán aceptar de conformidad expresamente y por escrito la resolución definitiva, dentro de un plazo de diez días contados a partir de la fecha en que sea notificado. Párrafo reformado DOF 16-07-2025
 
 En el evento de que el Agente Económico de que se trate no acepte expresamente la resolución, los procedimientos que hayan sido suspendidos serán reanudados.
 
-Los Agentes Económicos sólo podrán acogerse a los beneficios previstos en este artículo, una vez cada cinco años. Este período se computará a partir de la aceptación de la resolución de la Comisión.
+Los Agentes Económicos sólo podrán acogerse a los beneficios previstos en este artículo, una vez cada cinco años. Este período se computará a partir de la aceptación de la resolución de la [Comisión](articulo-3.md).
 
 La resolución a la que se refiere este artículo, será sin perjuicio de las acciones que pudieran ejercer terceros afectados que reclamen daños y perjuicios derivados de la responsabilidad civil por la realización de la práctica monopólica relativa o concentración ilícita revelada a la Comisión. Párrafo reformado DOF 16-07-2025

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGEEPA_MRETC_311
 source_sha256: 71c334347de911b670b7e920a44db19f2555f611203ec25d227733687972f424
 ---
 
+> Capítulo II · Sección IV
+
 # Artículo 20
 
 Para efectos del presente Reglamento, las emisiones y transferencia de contaminantes y sustancias sujetas a reporte de competencia federal, que no estén reguladas por Normas Oficiales Mexicanas o cuya medición esté exenta, pueden estimarse a través de metodologías comúnmente utilizadas, tales como la aplicación de factores de emisión, estimación mediante datos históricos, balance de materiales, cálculos de ingeniería o modelos matemáticos.

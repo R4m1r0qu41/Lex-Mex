@@ -18,4 +18,4 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 317
 
-Por el solo pago de las obligaciones objeto de protección, el Fondo de Protección se subrogará en los derechos de cobro, en la liquidación o concurso mercantil de la Sociedad Financiera Popular, con los privilegios correspondientes a las personas a las que se hubiere efectuado dicho pago, hasta por el monto cubierto, siendo suficiente comprobante el documento en que conste el pago referido.
+Por el solo pago de las obligaciones objeto de protección, el Fondo de Protección se subrogará en los derechos de cobro, en la liquidación o concurso mercantil de la [Sociedad](articulo-1.md) Financiera Popular, con los privilegios correspondientes a las personas a las que se hubiere efectuado dicho pago, hasta por el monto cubierto, siendo suficiente comprobante el documento en que conste el pago referido.

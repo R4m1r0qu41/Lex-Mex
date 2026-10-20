@@ -17,4 +17,4 @@ source_sha256: 7c13fd20564f1e7230268a0943cc226368b24c44886d6738c479f4c42cbe77de
 
 # Artículo 26
 
-La Cámara de Diputados debe realizar las acciones necesarias para proveer de recursos presupuestarios a la Comisión, con el fin de que pueda llevar a cabo sus funciones. El presupuesto aprobado debe cubrir los capítulos de servicios personales, materiales y suministros, así como de servicios generales, necesarios para cumplir con sus funciones.
+La Cámara de Diputados debe realizar las acciones necesarias para proveer de recursos presupuestarios a la [Comisión](articulo-6.md), con el fin de que pueda llevar a cabo sus funciones. El presupuesto aprobado debe cubrir los capítulos de servicios personales, materiales y suministros, así como de servicios generales, necesarios para cumplir con sus funciones.

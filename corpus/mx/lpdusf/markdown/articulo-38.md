@@ -17,6 +17,6 @@ source_sha256: cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7
 
 # Artículo 38
 
-Las demás disposiciones relativas a la organización y funcionamiento de los Consejos Consultivos, se establecerán en el Estatuto Orgánico.
+Las demás disposiciones relativas a la organización y funcionamiento de los Consejos Consultivos, se establecerán en el [Estatuto Orgánico](articulo-2o.md).
 
 Artículo reformado DOF 05-01-2000

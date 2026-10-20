@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 61
 
-Las Sociedades Financieras Populares deberán constituir semestralmente, en los meses de junio y diciembre de cada año, estimaciones adicionales que reconozcan las potenciales pérdidas de valor por el paso del tiempo de los bienes adjudicados judicial o extrajudicialmente o recibidos en dación en pago, sean bienes muebles o inmuebles, así como derechos de cobro, de acuerdo con el procedimiento siguiente:
+Las [Sociedades](articulo-1.md) Financieras Populares deberán constituir semestralmente, en los meses de junio y diciembre de cada año, estimaciones adicionales que reconozcan las potenciales pérdidas de valor por el paso del tiempo de los bienes adjudicados judicial o extrajudicialmente o recibidos en dación en pago, sean bienes muebles o inmuebles, así como derechos de cobro, de acuerdo con el procedimiento siguiente:
 
 I. En el caso de los derechos de cobro y bienes muebles, incluyendo valores de conformidad con lo establecido en la fracción II del artículo [25](articulo-25.md) de las presentes disposiciones, se constituirán las estimaciones conforme a lo siguiente:
 

@@ -27,7 +27,7 @@ III. Coordinar acciones con municipios de su propia entidad, en materia de desar
 
 IV. Coordinar acciones de desarrollo social con municipios de otras entidades federativas, con la aprobación de las legislaturas correspondientes;
 
-V. Ejercer los fondos y recursos federales descentralizados o convenidos en materia social en los términos de las leyes respectivas; así como informar a la Secretaría, a través de los gobiernos estatales, sobre el avance y resultados de esas acciones;
+V. Ejercer los fondos y recursos federales descentralizados o convenidos en materia social en los términos de las leyes respectivas; así como informar a la [Secretaría](articulo-5.md), a través de los gobiernos estatales, sobre el avance y resultados de esas acciones;
 
 VI. Concertar acciones con los sectores social y privado en materia de desarrollo social; VII. Establecer mecanismos para incluir la participación social organizada en los programas y acciones de desarrollo social;
 

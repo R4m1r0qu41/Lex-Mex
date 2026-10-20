@@ -17,6 +17,6 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 251
 
-Cuando exista un gravamen inscrito ante el Instituto, la persona beneficiaria podrá presentar la renovación del registro de una marca, aviso o nombre comercial, de conformidad con lo establecido en el artículo [237](articulo-237.md) de esta Ley.
+Cuando exista un gravamen inscrito ante el [Instituto](articulo-4.md), la persona beneficiaria podrá presentar la renovación del registro de una marca, aviso o nombre comercial, de conformidad con lo establecido en el artículo [237](articulo-237.md) de esta [Ley](articulo-4.md).
 
 Artículo reformado DOF 03-04-2026

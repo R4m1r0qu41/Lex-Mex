@@ -17,7 +17,7 @@ source_sha256: 269e72195414406bcbd3e90ac40ec26e031a9ea519316c44ee30bdfdf3163059
 
 # Artículo 25
 
-El Instituto, al momento en que el Interesado o su representante legal se presenten a recibir los Bienes, activos y empresas, deberá: Párrafo reformado DOF 09-08-2019
+El [Instituto](articulo-2o.md), al momento en que el [Interesado](articulo-2o.md) o su representante legal se presenten a recibir los [Bienes](articulo-2o.md), activos y empresas, deberá: Párrafo reformado DOF 09-08-2019
 
 I.- Levantar acta en la que se haga constar el derecho del interesado o de su representante legal a recibir los bienes;
 

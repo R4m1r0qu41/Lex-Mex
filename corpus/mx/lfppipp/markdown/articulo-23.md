@@ -17,6 +17,6 @@ source_sha256: 2a105e5201b86ff5517ca1ef8d971224ea8c717f195fdd5fa28b916c7e622e56
 
 # Artículo 23
 
-El Director deberá contar con el Estudio Técnico que le permita decidir sobre la procedencia de incorporación o no de una persona al Programa.
+El [Director](articulo-2.md) deberá contar con el [Estudio Técnico](articulo-2.md) que le permita decidir sobre la procedencia de incorporación o no de una persona al [Programa](articulo-2.md).
 
-En los casos en que la incorporación al Programa sea ordenado por una autoridad jurisdiccional en términos de la Ley General para Prevenir y Sancionar los Delitos en materia de Secuestro, Reglamentaria de la Fracción XXI, del Artículo [73](../../cpeum/markdown/articulo-73.md) de la Constitución Política de los Estados Unidos Mexicanos, el Centro deberá realizar el Estudio Técnico correspondiente, con la finalidad de determinar las Medidas de Protección aplicables.
+En los casos en que la incorporación al Programa sea ordenado por una autoridad jurisdiccional en términos de la [Ley](articulo-2.md) General para Prevenir y Sancionar los Delitos en materia de Secuestro, Reglamentaria de la Fracción XXI, del Artículo [73](../../cpeum/markdown/articulo-73.md) de la Constitución Política de los Estados Unidos Mexicanos, el [Centro](articulo-2.md) deberá realizar el Estudio Técnico correspondiente, con la finalidad de determinar las [Medidas de Protección](articulo-2.md) aplicables.

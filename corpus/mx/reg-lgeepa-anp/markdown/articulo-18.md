@@ -17,7 +17,7 @@ source_sha256: 4e276866fce1638948a6daf1a5c0438fa412554f1a6e0381cbdf7cb300e3db75
 
 # Artículo 18
 
-Los Consejos Asesores tendrán las siguientes funciones:
+Los [Consejos](articulo-3o.md) Asesores tendrán las siguientes funciones:
 
 I. Proponer y promover medidas específicas para mejorar la capacidad de gestión en las tareas de conservación y protección del área;
 

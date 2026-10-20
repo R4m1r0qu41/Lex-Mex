@@ -19,7 +19,7 @@ source_sha256: 02fe2afc021cdf42249b2003da14bf738f24157375ffc0b420e1e7d7a5c20fd5
 
 Corresponde a la [Agencia](articulo-2.md) el ejercicio de las atribuciones siguientes:
 
-I. Determinar las características y especificaciones técnicas de las vías férreas, del servicio público de transporte ferroviario y de sus Servicios Auxiliares, de la infraestructura física de interconexión, la expedición y aplicación de las normas oficiales mexicanas en materia ferroviaria, así como verificar su cumplimiento; Fracción reformada DOF 16-07-2025
+I. Determinar las características y especificaciones técnicas de las vías férreas, del servicio público de transporte ferroviario y de sus [Servicios Auxiliares](articulo-2.md), de la infraestructura física de interconexión, la expedición y aplicación de las normas oficiales mexicanas en materia ferroviaria, así como verificar su cumplimiento; Fracción reformada DOF 16-07-2025
 
 II. Verificar que las vías férreas, los servicios públicos de transporte ferroviario y sus servicios auxiliares cumplan con las disposiciones aplicables;
 

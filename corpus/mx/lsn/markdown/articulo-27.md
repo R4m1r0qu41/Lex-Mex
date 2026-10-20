@@ -17,6 +17,6 @@ source_sha256: 7b3cf7a0ff59f76503a97a535457c4a7dd3b1305e7a36f4fca82bd661eab1168
 
 # Artículo 27
 
-Las instancias establecerán una Red Nacional de Información que sirva como instrumento de apoyo en el proceso de toma de decisiones.
+Las instancias establecerán una [Red](articulo-6.md) Nacional de Información que sirva como instrumento de apoyo en el proceso de toma de decisiones.
 
-En la formación y operación de la Red, así como en la instrumentación de las políticas, los programas y las acciones relacionadas con la Seguridad Nacional, se integrará al esfuerzo de la Federación, el de las entidades federativas y los municipios, a través del Secretario Ejecutivo del Consejo mediante convenios de colaboración que se celebrarán, conforme a lo establecido por el artículo [14](articulo-14.md) de la presente Ley.
+En la formación y operación de la Red, así como en la instrumentación de las políticas, los programas y las acciones relacionadas con la Seguridad Nacional, se integrará al esfuerzo de la Federación, el de las entidades federativas y los municipios, a través del Secretario Ejecutivo del [Consejo](articulo-6.md) mediante convenios de colaboración que se celebrarán, conforme a lo establecido por el artículo [14](articulo-14.md) de la presente Ley.

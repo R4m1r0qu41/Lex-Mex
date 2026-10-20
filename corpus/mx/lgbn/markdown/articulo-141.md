@@ -25,7 +25,7 @@ II.- Aprobar el calendario de reuniones ordinarias;
 
 III.- Llevar a cabo el seguimiento del programa anual de disposición final de bienes muebles;
 
-IV.- Analizar los casos de excepción al procedimiento de licitación pública previstos en el tercer párrafo del artículo [132](articulo-132.md) de esta Ley y proponerlos para su autorización a la Secretaría;
+IV.- Analizar los casos de excepción al procedimiento de licitación pública previstos en el tercer párrafo del artículo [132](articulo-132.md) de esta Ley y proponerlos para su autorización a la [Secretaría](articulo-2.md);
 
 V.- Autorizar la constitución de subcomités en órganos desconcentrados, delegaciones o representaciones, determinando su integración y funciones específicas, así como la forma y términos en que deberán informar al comité de la dependencia o las unidades administrativas de la Presidencia de la República, según corresponda, sobre su actuación; Fracción reformada DOF 20-05-2021
 

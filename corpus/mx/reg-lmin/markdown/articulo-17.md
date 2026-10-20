@@ -23,15 +23,15 @@ En caso de que el pago sea incompleto, en el momento de registro de la solicitud
 
 Si un lote se ubica en la circunscripción de dos o más unidades administrativas la solicitud podrá presentarse ante cualquiera de ellas, salvo en el caso previsto en el artículo [20](articulo-20.md) de este Reglamento, en cuyo caso se estará a lo dispuesto por la fracción VI del artículo [28](articulo-28.md) del mismo y se determinará la unidad administrativa que corresponda, exclusivamente para el día en que surta efectos la declaratoria de libertad.
 
-La unidad administrativa procederá al registro de la solicitud, en los términos de lo dispuesto en este artículo, e imprimirá el sello de la Secretaría en el original, copias y anexos que se acompañen a la solicitud, indicando en ellos la fecha y hora de recepción, así como el número progresivo de registro.
+La unidad administrativa procederá al registro de la solicitud, en los términos de lo dispuesto en este artículo, e imprimirá el sello de la [Secretaría](articulo-1o.md) en el original, copias y anexos que se acompañen a la solicitud, indicando en ellos la fecha y hora de recepción, así como el número progresivo de registro.
 
-Registrada la solicitud por la unidad administrativa que corresponda, la misma constatará, sin calificar su contenido, que se encuentren completos los requisitos establecidos en este Reglamento para su presentación y acompañada del número de tantos y anexos que indique el Manual.
+Registrada la solicitud por la unidad administrativa que corresponda, la misma constatará, sin calificar su contenido, que se encuentren completos los requisitos establecidos en este Reglamento para su presentación y acompañada del número de tantos y anexos que indique el [Manual](articulo-1o.md).
 
 La solicitud amparará terreno legalmente siempre que se presente el comprobante del pago completo de derechos; los lados del lote minero configuren un perímetro cerrado; el punto de partida esté ligado con el perímetro del lote o ubicado sobre el mismo, se presenten los trabajos periciales y, en su caso se subsanen las deficiencias encontradas en ellos. Si la solicitud cumple con los requisitos antes mencionados, la unidad administrativa procederá de la siguiente manera:
 
 I. Si contiene los requisitos completos y se acompañan los documentos citados, hará constar en la solicitud que fue admitida para estudio y trámite y extenderá el certificado credencial al solicitante con vigencia de sesenta días hábiles, para que el perito minero ejecute los trabajos periciales en el terreno de ubicación del lote.
 
-Dicho certificado contendrá el apercibimiento de que la persona que impida u obstaculice la ejecución de los trabajos periciales, sin que cuente con derechos en materia minera sobre el lote objeto de la solicitud, será sancionada de acuerdo con lo establecido por el artículo [57](../../lmin/markdown/articulo-57.md), fracción II de la Ley;
+Dicho certificado contendrá el apercibimiento de que la persona que impida u obstaculice la ejecución de los trabajos periciales, sin que cuente con derechos en materia minera sobre el lote objeto de la solicitud, será sancionada de acuerdo con lo establecido por el artículo [57](../../lmin/markdown/articulo-57.md), fracción II de la [Ley](articulo-1o.md);
 
 II. Si del estudio de la solicitud la unidad administrativa concluye que a la misma le falta algún requisito que impida su tramitación, prevendrá por escrito al interesado en los términos señalados al efecto por la Ley Federal de Procedimiento Administrativo. De no desahogarse la prevención notificará al solicitante que se desechará su trámite;
 

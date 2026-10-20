@@ -17,4 +17,4 @@ source_sha256: 70464807d63da08244e495f2ff0ac30b12b30119926b84cedc7930397fcb80ef
 
 # Artículo 3o
 
-La Secretaría, en coordinación con las instituciones de investigación y de enseñanza superior, tanto públicas como privadas, promoverá el ejercicio de acciones tendientes a mejorar las condiciones sanitarias de los productos, de su proceso y los servicios a que se refiere el presente Reglamento.
+La [Secretaría](articulo-2o.md), en coordinación con las instituciones de investigación y de enseñanza superior, tanto públicas como privadas, promoverá el ejercicio de acciones tendientes a mejorar las condiciones sanitarias de los productos, de su proceso y los servicios a que se refiere el presente Reglamento.

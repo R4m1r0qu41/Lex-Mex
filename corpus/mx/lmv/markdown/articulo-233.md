@@ -13,10 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título IX · Capítulo I
+
 # Artículo 233
 
 Los titulares de acciones listadas en bolsas de valores, podrán realizar fuera de éstas operaciones con dichos valores, siempre que se ajusten a las disposiciones aplicables a las adquisiciones de valores objeto de revelación y ofertas públicas forzosas de adquisición, cuando así corresponda.
-
-Capítulo II De las bolsas de valores
-
-Sección I De la organización

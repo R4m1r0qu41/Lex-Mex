@@ -35,7 +35,9 @@ VII. No hayan desvirtuado la presunción de emitir comprobantes fiscales que amp
 
 VIII. Hayan manifestado en las declaraciones de pagos provisionales, retenciones, definitivos o anuales, ingresos y retenciones que no concuerden con los comprobantes fiscales digitales por Internet, expedientes, documentos o bases de datos que lleven las autoridades fiscales, tengan en su poder o a las que tengan acceso.
 
-IX. Incumplan con las obligaciones establecidas en los artículos [32-B Ter](articulo-32-B-Ter.md) y [32-B Quinquies](articulo-32-B-Quinquies.md) de este Código. Fracción adicionada DOF 12-11-2021 La prohibición establecida en este artículo no será aplicable a los particulares que se encuentren en los supuestos de las fracciones I y II de este artículo, siempre que celebren convenio con las autoridades fiscales en los términos que este Código establece para cubrir a plazos, ya sea como pago diferido o en parcialidades, los adeudos fiscales que tengan a su cargo con los recursos que obtengan por enajenación, arrendamiento, servicios u obra pública que se pretendan contratar y que no se ubiquen en algún otro de los supuestos contenidos en este artículo.
+IX. Incumplan con las obligaciones establecidas en los artículos [32-B Ter](articulo-32-B-Ter.md) y [32-B Quinquies](articulo-32-B-Quinquies.md) de este Código. Fracción adicionada DOF 12-11-2021
+
+La prohibición establecida en este artículo no será aplicable a los particulares que se encuentren en los supuestos de las fracciones I y II de este artículo, siempre que celebren convenio con las autoridades fiscales en los términos que este Código establece para cubrir a plazos, ya sea como pago diferido o en parcialidades, los adeudos fiscales que tengan a su cargo con los recursos que obtengan por enajenación, arrendamiento, servicios u obra pública que se pretendan contratar y que no se ubiquen en algún otro de los supuestos contenidos en este artículo.
 
 Para estos efectos, en el convenio se establecerá que los sujetos a que se refiere el primer párrafo de este artículo retengan una parte de la contraprestación para ser enterada al fisco federal para el pago de los adeudos correspondientes.
 

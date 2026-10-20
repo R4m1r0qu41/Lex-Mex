@@ -17,6 +17,6 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 9
 
-La persona Titular de la Dirección General podrá delegar las facultades a que se refiere el artículo [5](articulo-5.md) de esta Ley, así como las demás que considere convenientes para el logro de los objetivos y metas institucionales, en personas servidoras públicas subalternas, en los términos que se establezcan en los Acuerdos aprobados por la Junta de Gobierno y publicados en el Diario Oficial.
+La persona Titular de la Dirección General podrá delegar las facultades a que se refiere el artículo [5](articulo-5.md) de esta [Ley](articulo-4.md), así como las demás que considere convenientes para el logro de los objetivos y metas institucionales, en personas servidoras públicas subalternas, en los términos que se establezcan en los Acuerdos aprobados por la Junta de Gobierno y publicados en el [Diario Oficial](articulo-4.md).
 
 Artículo reformado DOF 03-04-2026

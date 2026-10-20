@@ -17,7 +17,7 @@ source_sha256: 32822f50bb2de81185408f9450d61a49d678429c52c5379822a507c7027a5275
 
 # Artículo 36
 
-Los lineamientos y criterios técnicos que establezca el Instituto para la definición, identificación y medición de la pobreza son de aplicación obligatoria para las entidades y dependencias públicas que participen en la ejecución de los programas de desarrollo social. Asimismo, el Instituto debe procurar la generación de información de al menos los siguientes indicadores: Párrafo reformado DOF 16-07-2025
+Los lineamientos y criterios técnicos que establezca el [Instituto](articulo-5.md) para la definición, identificación y medición de la pobreza son de aplicación obligatoria para las entidades y dependencias públicas que participen en la ejecución de los programas de desarrollo social. Asimismo, el Instituto debe procurar la generación de información de al menos los siguientes indicadores: Párrafo reformado DOF 16-07-2025
 
 I. Ingreso corriente per cápita;
 

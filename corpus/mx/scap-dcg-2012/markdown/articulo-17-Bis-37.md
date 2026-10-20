@@ -18,7 +18,7 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 17 Bis 37
 
-Las Sociedades requerirán de la autorización de la Comisión para celebrar comisiones mercantiles que tengan por objeto llevar a cabo las operaciones a que se refieren las fracciones I, II y IV a IX del Artículo [17 Bis 36](articulo-17-Bis-36.md) anterior.
+Las Sociedades requerirán de la autorización de la [Comisión](articulo-1.md) para celebrar comisiones mercantiles que tengan por objeto llevar a cabo las operaciones a que se refieren las fracciones I, II y IV a IX del Artículo [17 Bis 36](articulo-17-Bis-36.md) anterior.
 
 Para efectos de lo anterior, las Sociedades deberán presentar a la Comisión la solicitud de autorización adjuntando un plan estratégico de negocios para llevar a cabo las operaciones a que se refiere el párrafo anterior, con cuando menos veinte días hábiles de anticipación a la fecha en que pretendan contratar las comisiones respectivas.
 
@@ -32,7 +32,7 @@ II. Los modelos de contratos de comisión mercantil que las Sociedades utilizar�
 
 III. La descripción de los procesos y sistemas que implementaría la Sociedad para la realización de las operaciones.
 
-IV. La descripción de los [Medios Electrónicos](articulo-1.md) que utilizarán las Sociedades para garantizar la correcta ejecución de las operaciones y de seguridad de la información de los Socios, para lo cual deberán cumplir con los requerimientos técnicos para la operación de Medios Electrónicos a que se refiere el Anexo P de las presentes disposiciones.
+IV. La descripción de los [Medios Electrónicos](articulo-1.md) que utilizarán las Sociedades para garantizar la correcta ejecución de las operaciones y de seguridad de la información de los [Socios](articulo-1.md), para lo cual deberán cumplir con los requerimientos técnicos para la operación de Medios Electrónicos a que se refiere el Anexo P de las presentes disposiciones.
 
 V. Las políticas y procedimientos que implementaría la Sociedad, para acreditar la capacidad de los comisionistas de conformidad con lo dispuesto por el Anexo R de las presentes disposiciones.
 
@@ -44,7 +44,7 @@ a) Control interno.
 
 b) Administración integral de riesgos.
 
-c) Seguridad para la prevención de operaciones a que se refiere el Artículo 71 de la Ley.
+c) Seguridad para la prevención de operaciones a que se refiere el Artículo 71 de la [Ley](articulo-1.md).
 
 d) Dotación de efectivo a sus comisionistas en los puntos de atención al público.
 

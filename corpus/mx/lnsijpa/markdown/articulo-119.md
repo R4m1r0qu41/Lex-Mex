@@ -17,7 +17,7 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 # Artículo 119
 
-Medidas cautelares personales Sólo a solicitud del Ministerio Público, la víctima u ofendido, y bajo las condiciones y por el tiempo que se fija en esta Ley, el Órgano Jurisdiccional podrá imponer a la persona adolescente, después de escuchar sus razones, las siguientes medidas cautelares: I. Presentación periódica ante autoridad que el Juez designe;
+Medidas cautelares personales Sólo a solicitud del Ministerio Público, la víctima u ofendido, y bajo las condiciones y por el tiempo que se fija en esta [Ley](articulo-3.md), el [Órgano Jurisdiccional](articulo-3.md) podrá imponer a la persona adolescente, después de escuchar sus razones, las siguientes medidas cautelares: I. Presentación periódica ante autoridad que el Juez designe;
 
 II. La prohibición de salir del país, de la localidad en la cual reside o del ámbito territorial que fije el Órgano Jurisdiccional, sin autorización del Juez;
 
@@ -41,7 +41,7 @@ XI. El resguardo en su domicilio con las modalidades que el Órgano Jurisdiccion
 
 XII. Internamiento preventivo.
 
-En cualquier caso, el Juez de Control para Adolescentes, previo debate, puede prescindir de toda medida cautelar, cuando la promesa del adolescente de someterse al proceso sea suficiente para descartar los motivos que autorizarían el dictado de la medida conforme al [artículo siguiente](articulo-120.md).
+En cualquier caso, el Juez de Control para [Adolescentes](articulo-3.md), previo debate, puede prescindir de toda medida cautelar, cuando la promesa del adolescente de someterse al proceso sea suficiente para descartar los motivos que autorizarían el dictado de la medida conforme al [artículo siguiente](articulo-120.md).
 
 El Juez deberá explicar, claramente, cada una de las medidas cautelares impuestas a la persona adolescente, su forma de cumplimiento y las consecuencias de incumplimiento.
 

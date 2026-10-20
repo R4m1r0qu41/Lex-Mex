@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf
 source_sha256: 43927095d22ff7bc7780e78132d2160b5050b5f76026b539daec32be09d7341d
 ---
 
+> Título Segundo · Capítulo I
+
 # Artículo 15
 
 Los particulares que obtengan concesión o autorización para prestar los servicios de manejo, almacenaje y custodia de mercancías de comercio exterior, deberán cumplir con los lineamentos que determinen las autoridades aduaneras para el control, vigilancia y seguridad del recinto fiscalizado y de las mercancías de comercio exterior, así como con lo siguiente: Párrafo reformado DOF 31-12-1998, 30-12-2002
@@ -33,7 +35,9 @@ a) Tratándose de mercancía que haya pasado a propiedad del Fisco Federal, hast
 
 b) Cuando las mercancías sean retiradas por los asignatarios o donatarios, quienes contarán para tales efectos con un plazo de hasta diez días, contado a partir de la firma del acta de asignación o donación, tratándose de las mercancías de las que dispongan las autoridades aduaneras. Inciso reformado DOF 19-11-2025
 
-c) En la fecha que se instruya al recinto fiscalizado la destrucción de las mercancías. Párrafo con incisos adicionado DOF 25-06-2018 En los casos anteriores, los servicios generados a partir de que las mercancías se encuentren a disposición del propietario, donatario o consignatario, o a partir de la fecha en que deban ser retiradas por la autoridad competente para administrar y dar destino a dichas mercancías de conformidad con la Ley Federal para la Administración y Enajenación de Bienes del Sector Público, serán a cargo de éstos, cuya cuota se cobrará conforme a lo dispuesto en el primer párrafo de esta fracción, sin que sean objeto de compensación. Párrafo adicionado DOF 25-06-2018. Reformado DOF 19-11-2025
+c) En la fecha que se instruya al recinto fiscalizado la destrucción de las mercancías. Párrafo con incisos adicionado DOF 25-06-2018
+
+En los casos anteriores, los servicios generados a partir de que las mercancías se encuentren a disposición del propietario, donatario o consignatario, o a partir de la fecha en que deban ser retiradas por la autoridad competente para administrar y dar destino a dichas mercancías de conformidad con la Ley Federal para la Administración y Enajenación de Bienes del Sector Público, serán a cargo de éstos, cuya cuota se cobrará conforme a lo dispuesto en el primer párrafo de esta fracción, sin que sean objeto de compensación. Párrafo adicionado DOF 25-06-2018. Reformado DOF 19-11-2025
 
 Para efectos de esta fracción, se entiende que las mercancías se encuentran a disposición de la autoridad competente para administrar y dar destino a dichas mercancías de conformidad con la Ley Federal para la Administración y Enajenación de Bienes del Sector Público, una vez transcurridos sesenta días a partir de que las autoridades aduaneras soliciten la transferencia de las mercancías de conformidad con lo establecido en dicha Ley, debiendo hacer del conocimiento al recinto fiscalizado de la fecha en que se realizó dicha solicitud, plazo en el cual deberá efectuarse su retiro acorde a lo previsto en la mencionada Ley, por lo que la compensación no podrá extenderse del referido plazo de tres meses, debiendo cesar en la fecha en que se realice el retiro de la mercancía o concluido dicho plazo, lo que suceda primero. Párrafo adicionado DOF 25-06-2018. Reformado DOF 19-11-2025
 

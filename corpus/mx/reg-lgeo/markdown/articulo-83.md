@@ -17,4 +17,4 @@ source_sha256: b19bcf104673af06117a6d4f3c947591f7a65999f19bad3dcfe2599a29bb3ab0
 
 # Artículo 83
 
-Las actividades registrales se ejercen de acuerdo con lo dispuesto por la Ley y el Reglamento y demás disposiciones que deriven de ellos.
+Las actividades registrales se ejercen de acuerdo con lo dispuesto por la [Ley](articulo-3.md) y el [Reglamento](articulo-3.md) y demás disposiciones que deriven de ellos.

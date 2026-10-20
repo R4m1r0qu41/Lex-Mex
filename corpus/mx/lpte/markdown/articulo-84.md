@@ -17,4 +17,4 @@ source_sha256: c24aa3a57883383635d5271683dd76e561f21852328f0e89f6bf1c2a09aa2d41
 
 # Artículo 84
 
-La Secretaría, en colaboración con otras entidades de la administración pública, deben desarrollar, coordinar e implementar diversos mecanismos de reconocimiento y comunicación de los logros obtenidos por las personas participantes de los acuerdos voluntarios. La CONUEE debe proponer a la Secretaría mecanismos de reconocimiento y comunicación de los logros obtenidos por las personas participantes de los acuerdos voluntarios.
+La [Secretaría](articulo-3.md), en colaboración con otras entidades de la administración pública, deben desarrollar, coordinar e implementar diversos mecanismos de reconocimiento y comunicación de los logros obtenidos por las personas participantes de los acuerdos voluntarios. La [CONUEE](articulo-3.md) debe proponer a la Secretaría mecanismos de reconocimiento y comunicación de los logros obtenidos por las personas participantes de los acuerdos voluntarios.

@@ -18,7 +18,7 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 302
 
-El Fondo de Protección deberá proporcionar a la Comisión la información a que se refiere el presente capítulo, utilizando los formularios del Anexo M que se adjuntan a las presentes disposiciones, los cuales se encuentran divididos en la serie y tipos de reportes que se indican a continuación:
+El [Fondo de Protección](articulo-1.md) deberá proporcionar a la [Comisión](articulo-1.md) la información a que se refiere el presente capítulo, utilizando los formularios del Anexo M que se adjuntan a las presentes disposiciones, los cuales se encuentran divididos en la serie y tipos de reportes que se indican a continuación:
 
 Serie R01 Situación Financiera del Fondo de Protección
 

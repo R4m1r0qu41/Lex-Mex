@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título VIII
+
 # Artículo 231
 
 La [Comisión](articulo-2.md) tendrá facultades para:
@@ -24,7 +26,3 @@ II. Ordenar la remoción o destitución de los consejeros y directivos de los or
 III. Revocar el reconocimiento de organismos autorregulatorios cuando cometan infracciones graves o reiteradas a lo previsto en esta Ley y demás disposiciones de carácter general que emanen de ella.
 
 Para efecto de proceder en términos de lo previsto en las fracciones II y III de este artículo, la Comisión deberá contar con el previo acuerdo de su Junta de Gobierno.
-
-Título IX De los sistemas de negociación bursátiles y extrabursátiles
-
-Capítulo I Disposiciones preliminares

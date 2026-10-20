@@ -17,7 +17,7 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 274
 
-El Comité de Protección al Ahorro Cooperativo determinará el monto que corresponde a cada uno de los Cotitulares de una Cuenta Mancomunada, conforme al procedimiento siguiente:
+El [Comité de Protección al Ahorro Cooperativo](articulo-1.md) determinará el monto que corresponde a cada uno de los [Cotitulares](articulo-1.md) de una [Cuenta Mancomunada](articulo-1.md), conforme al procedimiento siguiente:
 
 I. Dividirá el monto total de la Cuenta Mancomunada, en proporción al porcentaje establecido expresamente y por escrito por los Cotitulares en la documentación que ampare la operación de que se trate.
 

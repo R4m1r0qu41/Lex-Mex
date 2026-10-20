@@ -17,4 +17,4 @@ source_sha256: bd9ba59ab5016fd7d8737d382113a20e450b188e586925c31a1ef7c2af3f0065
 
 # Artículo 1
 
-El presente ordenamiento tiene por objeto reglamentar la Ley de Nacionalidad. Su aplicación e interpretación para efectos administrativos corresponde a la Secretaría de Relaciones Exteriores.
+El presente ordenamiento tiene por objeto reglamentar la [Ley](articulo-2.md) de Nacionalidad. Su aplicación e interpretación para efectos administrativos corresponde a la Secretaría de Relaciones Exteriores.

@@ -21,6 +21,6 @@ Cuando el órgano judicial de amparo reciba informe de la autoridad responsable 
 
 Transcurrido el plazo dado a las partes, con desahogo de la vista o sin ella, el órgano judicial de amparo dictará resolución fundada y motivada en que declare si la sentencia está cumplida o no lo está, si incurrió en exceso o defecto, o si hay imposibilidad para cumplirla.
 
-La ejecutoria se entiende cumplida cuando lo sea en su totalidad, sin excesos ni defectos. LEY DE AMPARO, REGLAMENTARIA DE LOS ARTÍCULOS [103](../../cpeum/markdown/articulo-103.md) Y [107](../../cpeum/markdown/articulo-107.md) DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS Si en estos términos el órgano judicial de amparo la declara cumplida, ordenará el archivo del expediente.
+La ejecutoria se entiende cumplida cuando lo sea en su totalidad, sin excesos ni defectos. Si en estos términos el órgano judicial de amparo la declara cumplida, ordenará el archivo del expediente.
 
 Si no está cumplida, no está cumplida totalmente, no lo está correctamente o se considera de imposible cumplimiento, remitirá los autos al tribunal colegiado de circuito o a la Suprema Corte de Justicia de la Nación, según corresponda, como establece, en lo conducente, el artículo [193](articulo-193.md) de esta Ley.

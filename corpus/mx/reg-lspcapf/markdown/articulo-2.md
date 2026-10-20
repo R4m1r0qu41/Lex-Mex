@@ -15,7 +15,7 @@ source_sha256: b4a968d8e8c138ac2069f6afa0dc622178328df24f59cf58eddbab8efe4a7eff
 
 # Artículo 2
 
-Para efectos del presente reglamento, además de lo previsto en el artículo [3](../../lspcapf/markdown/articulo-3.md) de la Ley, se entiende por:
+Para efectos del presente reglamento, además de lo previsto en el artículo [3](../../lspcapf/markdown/articulo-3.md) de la [Ley](articulo-2.md), se entiende por:
 
 I. Ascenso: la promoción de un servidor público de carrera a un mayor rango o grupo en la estructura jerárquica de la dependencia en la que labora o presta sus servicios;
 
@@ -25,7 +25,7 @@ IV. Cuerpo de función: la clasificación de la rama de cargo o puesto con base 
 
 V. DGRH: las unidades administrativas de las dependencias encargadas de la administración de los recursos humanos, cualquiera que sea su nivel o denominación;
 
-VI. Expediente: el conjunto de documentos del concurso o del servidor público de carrera que debe integrar la DGRH con relación a su ingreso, permanencia y separación del sistema, el cual se va integrando conforme se actualiza cada uno de los procesos o procedimientos de los subsistemas del Servicio Profesional de Carrera de la Administración Pública Federal Centralizada;
+VI. Expediente: el conjunto de documentos del concurso o del servidor público de carrera que debe integrar la [DGRH](articulo-2.md) con relación a su ingreso, permanencia y separación del sistema, el cual se va integrando conforme se actualiza cada uno de los procesos o procedimientos de los subsistemas del Servicio Profesional de Carrera de la Administración Pública Federal Centralizada;
 
 VII. Experiencia: los conocimientos y habilidades adquiridas a través del tiempo, para lo cual se debe considerar, entre otros elementos, el orden y duración en los puestos desempeñados en el sector público, privado o social, el nivel de responsabilidad, de remuneración y la relevancia de las funciones o actividades encomendadas;
 
@@ -35,7 +35,7 @@ IX. Incentivo: la distinción con el que una dependencia motiva a los servidores
 
 X. Ley: la Ley del Servicio Profesional de Carrera en la Administración Pública Federal;
 
-XI. Mérito: el conjunto de elementos que componen la trayectoria profesional del servidor público de carrera, la cual se integra con aquellos elementos, resultados o merecimientos que permitan acreditar o reconocer objetivamente su calidad profesional en su desempeño, entre los cuales se pueden considerar: sus evidencias de experiencia, sus estudios y actividades de formación o difusión, sus capacidades profesionales, los resultados de desempeño, sus logros, sus distinciones y las contribuciones a la dependencia para cumplir con los objetivos de la misma, así como aquellos aspectos que determine la Unidad;
+XI. Mérito: el conjunto de elementos que componen la trayectoria profesional del servidor público de carrera, la cual se integra con aquellos elementos, resultados o merecimientos que permitan acreditar o reconocer objetivamente su calidad profesional en su desempeño, entre los cuales se pueden considerar: sus evidencias de experiencia, sus estudios y actividades de formación o difusión, sus capacidades profesionales, los resultados de desempeño, sus logros, sus distinciones y las contribuciones a la dependencia para cumplir con los objetivos de la misma, así como aquellos aspectos que determine la [Unidad](articulo-2.md);
 
 XII. Movimiento o trayectoria lateral: los cambios del servidor público de carrera a otro puesto con características y perfil equivalentes, homólogos o afines, en la misma u otra dependencia;
 

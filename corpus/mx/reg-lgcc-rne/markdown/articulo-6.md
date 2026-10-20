@@ -13,10 +13,12 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGCC_MRNE_281014
 source_sha256: 62420210c5aaffe687daf130a64ff506009625340c554bfb36d2f1b5dcac0192
 ---
 
+> Capítulo I
+
 # Artículo 6
 
-Para los efectos del artículo [87](../../lgcc/markdown/articulo-87.md), segundo párrafo, fracción II de la Ley, el umbral a partir del cual los Establecimientos Sujetos a Reporte, identificados conforme a los artículos [3](articulo-3.md) y [4](articulo-4.md) del presente Reglamento, deben presentar la información de sus Emisiones Directas o Indirectas, será el que resulte de la suma anual de dichas Emisiones, siempre que tal resultado sea igual o superior a 25,000 Toneladas de Bióxido de Carbono Equivalente.
+Para los efectos del artículo [87](../../lgcc/markdown/articulo-87.md), segundo párrafo, fracción II de la [Ley](../../lgcc/markdown/articulo-3o.md), el umbral a partir del cual los Establecimientos Sujetos a Reporte, identificados conforme a los artículos [3](articulo-3.md) y [4](articulo-4.md) del presente Reglamento, deben presentar la información de sus [Emisiones Directas](articulo-2.md) o Indirectas, será el que resulte de la suma anual de dichas [Emisiones](../../lgcc/markdown/articulo-3o.md), siempre que tal resultado sea igual o superior a 25,000 Toneladas de Bióxido de Carbono Equivalente.
 
 La suma anual a la que se refiere el párrafo anterior resultará del cálculo de las Emisiones de cada una de las Fuentes Fijas y Móviles identificadas en dichos Establecimientos Sujetos a Reporte.
 
-El umbral establecido en el presente artículo aplicará para aquellos establecimientos regulados por otros órdenes de gobierno que conforme a lo previsto en los artículos [3](articulo-3.md) y [4](articulo-4.md) del presente Reglamento se identifican como Sujetos a Reporte. REGLAMENTO DE LA LEY GENERAL DE CAMBIO CLIMÁTICO EN MATERIA DEL REGISTRO NACIONAL DE EMISIONES
+El umbral establecido en el presente artículo aplicará para aquellos establecimientos regulados por otros órdenes de gobierno que conforme a lo previsto en los artículos [3](articulo-3.md) y [4](articulo-4.md) del presente Reglamento se identifican como Sujetos a Reporte.

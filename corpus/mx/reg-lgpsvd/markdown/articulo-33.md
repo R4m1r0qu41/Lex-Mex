@@ -17,4 +17,4 @@ source_sha256: a1cc8f6043c35579235fd61d2e34977e1735af4ea6919d053f89462b97742335
 
 # Artículo 33
 
-Para la realización del Diagnóstico Participativo, el Centro Nacional, en coordinación con la Subsecretaría, podrán solicitar la colaboración de las entidades federativas y municipios correspondientes, así como la Participación Ciudadana y Comunitaria.
+Para la realización del [Diagnóstico Participativo](articulo-3.md), el Centro Nacional, en coordinación con la [Subsecretaría](articulo-3.md), podrán solicitar la colaboración de las entidades federativas y municipios correspondientes, así como la Participación Ciudadana y Comunitaria.

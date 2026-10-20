@@ -17,6 +17,6 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 60
 
-Mientras subsista la relación laboral, no surtirá efecto alguno el aviso de baja presentado por el patrón o sujeto obligado ante el Instituto, durante el periodo en que el trabajador se encuentre incapacitado temporalmente para el trabajo, por el propio Instituto.
+Mientras subsista la relación laboral, no surtirá efecto alguno el aviso de baja presentado por el patrón o sujeto obligado ante el [Instituto](../../lss/markdown/articulo-5-A.md), durante el periodo en que el trabajador se encuentre incapacitado temporalmente para el trabajo, por el propio Instituto.
 
 En los casos en que se hubiere recibido la baja por parte del Instituto y ésta no procediera legalmente en los términos del párrafo anterior, el patrón o sujeto obligado no queda relevado de la obligación de presentar, en su caso, un nuevo aviso de baja ante el Instituto. REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN

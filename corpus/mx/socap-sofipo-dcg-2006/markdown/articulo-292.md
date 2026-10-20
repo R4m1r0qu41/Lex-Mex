@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 292
 
-Las Confederaciones deberán informar a las Vicepresidencias Jurídica y de supervisión de instituciones financieras encargada de su supervisión de la Comisión, los nombramientos de los miembros del Comité Técnico, dentro de los 15 días hábiles posteriores a su designación, manifestando expresamente que los mismos cumplen con los requisitos establecidos por el presente Capítulo, acompañando en sobre cerrado el formato que conforma el Anexo J de las presentes disposiciones.
+Las [Confederaciones](articulo-1.md) deberán informar a las Vicepresidencias Jurídica y de supervisión de instituciones financieras encargada de su supervisión de la Comisión, los nombramientos de los miembros del Comité Técnico, dentro de los 15 días hábiles posteriores a su designación, manifestando expresamente que los mismos cumplen con los requisitos establecidos por el presente Capítulo, acompañando en sobre cerrado el formato que conforma el Anexo J de las presentes disposiciones.
 
 Las Confederaciones darán a conocer anualmente a la Comisión, durante el mes de mayo, los resultados de las gestiones que lleven a cabo en cumplimiento de lo previsto por el Artículo [291](articulo-291.md) anterior.
 

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título II · Capítulo II
+
 # Artículo 45
 
 El director general, para el ejercicio de sus funciones y actividades, así como para el debido cumplimiento de las obligaciones que ésta u otras leyes le establecen, se auxiliará de los directivos relevantes designados para tal efecto y de cualquier empleado de la sociedad o de las personas morales que ésta controle.

@@ -17,4 +17,4 @@ source_sha256: 4e276866fce1638948a6daf1a5c0438fa412554f1a6e0381cbdf7cb300e3db75
 
 # Artículo 119
 
-Una vez recibida la solicitud de establecimiento de un área natural protegida, la Secretaría integrará un expediente y, en su caso, efectuará una visita de campo en un plazo que no excederá de sesenta días.
+Una vez recibida la solicitud de establecimiento de un área natural protegida, la [Secretaría](articulo-3o.md) integrará un expediente y, en su caso, efectuará una visita de campo en un plazo que no excederá de sesenta días.

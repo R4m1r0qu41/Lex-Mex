@@ -17,4 +17,4 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 341
 
-Previo a la emisión de la resolución, el Instituto pondrá a disposición de las partes las actuaciones que obren en el expediente, para que en un plazo de diez días formulen alegatos. De presentarse, serán tomados en cuenta en la resolución que se emita.
+Previo a la emisión de la resolución, el [Instituto](articulo-4.md) pondrá a disposición de las partes las actuaciones que obren en el expediente, para que en un plazo de diez días formulen alegatos. De presentarse, serán tomados en cuenta en la resolución que se emita.

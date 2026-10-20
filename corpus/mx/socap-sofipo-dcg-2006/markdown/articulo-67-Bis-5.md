@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 67 Bis 5
 
-Los requerimientos de capitalización por riesgo de crédito de las Sociedades Financieras Populares se determinará conforme a lo siguiente:
+Los requerimientos de capitalización por riesgo de crédito de las [Sociedades](articulo-1.md) Financieras Populares se determinará conforme a lo siguiente:
 
 I. El resultado de multiplicar los activos ponderados de conformidad con lo descrito en el presente Sub Apartado por el 8 por ciento.
 

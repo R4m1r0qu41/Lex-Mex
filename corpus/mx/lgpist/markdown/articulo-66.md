@@ -17,4 +17,4 @@ source_sha256: 1e7d06c67fac4c8a100d2bb2845cc765fba5e8ce09d27d30b2b44432ffeb8c41
 
 # Artículo 66
 
-Las declaraciones o entrevistas de las Víctimas de los delitos o de los testigos de los mismos que se lleven a cabo ante la autoridad administrativa deberán registrarse por cualquier medio, de manera que se observen las condiciones en las que se realizaron y las personas que intervinieron en las mismas. Al inicio de toda declaración o entrevista se hará mención del día, hora y lugar en donde se está llevando a cabo, además de los nombres y cargos de quienes intervienen.
+Las declaraciones o entrevistas de las [Víctimas](articulo-5.md) de los delitos o de los testigos de los mismos que se lleven a cabo ante la autoridad administrativa deberán registrarse por cualquier medio, de manera que se observen las condiciones en las que se realizaron y las personas que intervinieron en las mismas. Al inicio de toda declaración o entrevista se hará mención del día, hora y lugar en donde se está llevando a cabo, además de los nombres y cargos de quienes intervienen.

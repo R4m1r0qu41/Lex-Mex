@@ -17,4 +17,4 @@ source_sha256: add375b17749965073df032027c6cafb7883ab25bfae2f13e34ba41b1ff24e88
 
 # Artículo 13
 
-La reglamentación interna de la Cruz Roja Mexicana dispondrá la forma en que se utilizará el emblema de manera indicativa en el personal, bienes muebles e inmuebles y demás patrimonio que esté al servicio de las labores propias de la Sociedad Nacional.
+La reglamentación interna de la [Cruz Roja Mexicana](articulo-3.md) dispondrá la forma en que se utilizará el emblema de manera indicativa en el personal, bienes muebles e inmuebles y demás patrimonio que esté al servicio de las labores propias de la [Sociedad Nacional](articulo-3.md).

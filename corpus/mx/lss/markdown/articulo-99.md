@@ -17,4 +17,4 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 99
 
-En caso de incumplimiento por parte del enfermo a la indicación del Instituto de someterse a hospitalización, o cuando interrumpa el tratamiento sin la autorización debida, se suspenderá el pago del subsidio.
+En caso de incumplimiento por parte del enfermo a la indicación del [Instituto](articulo-5-A.md) de someterse a hospitalización, o cuando interrumpa el tratamiento sin la autorización debida, se suspenderá el pago del subsidio.

@@ -17,7 +17,7 @@ source_sha256: 4d25bcb022ab62a24462e11a230c9554c0120012913ab4599cd3ec1b2b275c1d
 
 # Artículo 77
 
-La Secretaría resolverá sobre las cancelaciones a que se refiere el artículo 42, fracción IV de la Ley mediante el siguiente procedimiento:
+La [Secretaría](articulo-1o.md) resolverá sobre las cancelaciones a que se refiere el artículo 42, fracción IV de la [Ley](articulo-1o.md) mediante el siguiente procedimiento:
 
 I. La Secretaría notificará al titular de la concesión o asignación minera de que se trate, las razones que dan lugar a la cancelación correspondiente, acompañando copias de las actas e informes de las visitas practicadas, o bien de las constancias o documentos que acrediten la comisión de alguna de las infracciones señaladas en el artículo [55](../../lmin/markdown/articulo-55.md) de la Ley, a fin de que dicho titular, dentro de un plazo de sesenta días naturales, manifieste lo que a su derecho convenga y ofrezca las pruebas que estime pertinentes, sin perjuicio de lo establecido en el artículo [56](../../lmin/markdown/articulo-56.md) de la Ley;
 

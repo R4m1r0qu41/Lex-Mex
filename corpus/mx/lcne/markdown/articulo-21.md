@@ -23,10 +23,10 @@ I. Tener ciudadanía mexicana y estar en pleno goce de sus derechos civiles y po
 
 II. No haber sido sentenciada por delitos dolosos que hayan ameritado pena privativa de la libertad por más de un año, o inhabilitada para ejercer el comercio o para desempeñar un empleo, cargo o comisión en el servicio público;
 
-III. Contar con título profesional en cualquiera de las ingenierías, de las ciencias físico- matemáticas, de las ciencias biológicas y químicas o de las ciencias sociales y administrativas, que se vinculen con Actividades en materia energética, con una antigüedad no menor a cinco años al día de la designación;
+III. Contar con título profesional en cualquiera de las ingenierías, de las ciencias físico- matemáticas, de las ciencias biológicas y químicas o de las ciencias sociales y administrativas, que se vinculen con [Actividades en materia energética](articulo-6.md), con una antigüedad no menor a cinco años al día de la designación;
 
 IV. Haber desempeñado en forma destacada, durante al menos diez años, actividades profesionales, de servicio público o académicas relacionadas con Actividades en materia energética, y
 
-V. No haber ocupado, en los dos años previos a su designación, ningún empleo, cargo o función en las empresas que estén sujetas a la regulación de la Comisión.
+V. No haber ocupado, en los dos años previos a su designación, ningún empleo, cargo o función en las empresas que estén sujetas a la regulación de la [Comisión](articulo-6.md).
 
 Las personas expertas técnicas deben abstenerse de desempeñar cualquier otro empleo, trabajo, cargo o comisión públicos o privados en las empresas que estén sujetas a la regulación de la Comisión, con excepción de las actividades académicas, durante el tiempo de su encargo.

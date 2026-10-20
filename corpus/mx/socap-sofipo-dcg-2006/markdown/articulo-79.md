@@ -18,15 +18,15 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 79
 
-Para los efectos de la presente Sección, se entenderá por sistema de control interno, al conjunto de objetivos, políticas, procedimientos y registros que establezca la Sociedad Financiera Popular con el objeto de:
+Para los efectos de la presente Sección, se entenderá por sistema de control interno, al conjunto de objetivos, políticas, procedimientos y registros que establezca la [Sociedad](articulo-1.md) Financiera Popular con el objeto de:
 
 I. Procurar mecanismos de operación que permitan identificar, vigilar y evaluar los riesgos que puedan derivarse del desarrollo de las actividades del negocio;
 
 II. Delimitar las diferentes funciones y responsabilidades del personal al interior de la Sociedad Financiera Popular;
 
-III. Diseñar, implementar y operar sistemas de información eficientes y completos, que soporten los procesos de operación de la Sociedad Financiera Popular, así como de atención a clientes a través de sucursales y cualquier Medio Electrónico. Para lo cual deberán en lo conducente:
+III. Diseñar, implementar y operar sistemas de información eficientes y completos, que soporten los procesos de operación de la Sociedad Financiera Popular, así como de atención a clientes a través de sucursales y cualquier [Medio Electrónico](articulo-1.md). Para lo cual deberán en lo conducente:
 
-a) Establecer medidas y controles que permitan asegurar confidencialidad en la generación, almacenamiento, transmisión y recepción de factores de identificación y autenticación, tanto de clientes como de Usuarios internos de la Sociedad Financiera Popular.
+a) Establecer medidas y controles que permitan asegurar confidencialidad en la generación, almacenamiento, transmisión y recepción de factores de identificación y autenticación, tanto de clientes como de [Usuarios](articulo-1.md) internos de la Sociedad Financiera Popular.
 
 b) Contar con esquemas de control y políticas de operación, autorización y acceso a los sistemas, que garanticen la integridad y confidencialidad de la información contenida en las bases de datos y aplicaciones implementadas para la realización de operaciones.
 

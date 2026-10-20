@@ -17,6 +17,6 @@ source_sha256: 01b72308e67d46ba6ca8a6b07fb7584c6a74e905ea0c4b5be5c0c0d32a6d817a
 
 # Artículo 72
 
-No se promoverá al grado inmediato a las personas participantes que, habiendo obtenido calificaciones aprobatorias en los exámenes teóricos, pruebas prácticas y de capacidad física, se coloquen en alguna de las situaciones previstas en el artículo [35](../../larefam/markdown/articulo-35.md) de la Ley, se les determine mala conducta o se les dictamine médicamente algún grado de incapacidad, después de la Promoción y hasta antes de otorgarse los ascensos.
+No se promoverá al grado inmediato a las personas participantes que, habiendo obtenido calificaciones aprobatorias en los exámenes teóricos, pruebas prácticas y de capacidad física, se coloquen en alguna de las situaciones previstas en el artículo [35](../../larefam/markdown/articulo-35.md) de la Ley, se les determine mala conducta o se les dictamine médicamente algún grado de incapacidad, después de la [Promoción](articulo-5.md) y hasta antes de otorgarse los ascensos.
 
 Artículo reformado DOF 20-03-2026

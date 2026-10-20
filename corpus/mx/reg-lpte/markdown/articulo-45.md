@@ -17,4 +17,4 @@ source_sha256: 716e427a30e9982ccaa0576288aad2ad5305c624b236a0f342b6a87d60b7a9ed
 
 # Artículo 45
 
-El PLADESE debe contener, además de lo que establece el artículo [32](../../lpte/markdown/articulo-32.md) de la Ley, lo siguiente: I. Marco normativo del Sector Eléctrico; II. Diagnóstico del Sector Eléctrico; III. Escenarios de mediano plazo del Sector Eléctrico; IV. Programas y planes de inversión del Sector Eléctrico, y V. Anexos.
+El PLADESE debe contener, además de lo que establece el artículo [32](../../lpte/markdown/articulo-32.md) de la [Ley](articulo-5.md), lo siguiente: I. Marco normativo del Sector Eléctrico; II. Diagnóstico del Sector Eléctrico; III. Escenarios de mediano plazo del Sector Eléctrico; IV. Programas y planes de inversión del Sector Eléctrico, y V. Anexos.

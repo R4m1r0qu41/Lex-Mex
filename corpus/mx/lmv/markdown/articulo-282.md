@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título X · Capítulo I
+
 # Artículo 282
 
 Los valores objeto de depósito en instituciones para el depósito de valores, podrán ser representados en títulos múltiples o en un solo título que ampare parte o la totalidad de los valores materia de la emisión y del depósito. Tales títulos podrán emitirse de manera electrónica en forma de mensaje de datos con firma electrónica avanzada de acuerdo con lo establecido en el Código de Comercio y de conformidad con las disposiciones de carácter general que emita el Banco de México, que comprendan, entre otros aspectos, los títulos que podrán emitirse utilizando medios electrónicos, así como las características específicas y de seguridad que deberán reunir para tales efectos. Los títulos que se encuentren emitidos en medios impresos, podrán sustituirse de manera electrónica en los términos del presente párrafo de conformidad con las disposiciones de carácter general que emita el Banco de México. Párrafo reformado DOF 10-01-2014

@@ -17,4 +17,4 @@ source_sha256: 7679afbbf32749e0c0bacab72644d41fc6ccdeeab3a2f25dfae8d26a065de01e
 
 # Artículo 9
 
-Los Proyectos para el desarrollo con bienestar que sean susceptibles de ser apoyados a través de las acciones de fomento materia de la presente Ley, deberán ser sometidos a consideración y, en su caso, aprobación de elegibilidad del Consejo, esto sin perjuicio de las atribuciones y procedimientos previstos en la legislación vigente, así como de las autorizaciones presupuestarias que correspondan.
+Los [Proyectos para el desarrollo con bienestar](articulo-4.md) que sean susceptibles de ser apoyados a través de las acciones de fomento materia de la presente [Ley](articulo-4.md), deberán ser sometidos a consideración y, en su caso, aprobación de elegibilidad del [Consejo](articulo-4.md), esto sin perjuicio de las atribuciones y procedimientos previstos en la legislación vigente, así como de las autorizaciones presupuestarias que correspondan.

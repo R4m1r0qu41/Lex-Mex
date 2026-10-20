@@ -17,4 +17,4 @@ source_sha256: 9478163ef6ab468edc2be8def3bf84efedd03da5b6c166fba0430bfcb6d8467c
 
 # Artículo 82
 
-Para efectos de lo dispuesto en el artículo [93](../../lepecfe/markdown/articulo-93.md), último párrafo de la Ley, la Comisión Federal de Electricidad debe coordinarse con las autoridades competentes, así como con los fedatarios públicos que intervienen en las operaciones traslativas de dominio respecto de bienes inmuebles de su propiedad, conforme a las disposiciones jurídicas aplicables.
+Para efectos de lo dispuesto en el artículo [93](../../lepecfe/markdown/articulo-93.md), último párrafo de la [Ley](articulo-2.md), la Comisión Federal de Electricidad debe coordinarse con las autoridades competentes, así como con los fedatarios públicos que intervienen en las operaciones traslativas de dominio respecto de bienes inmuebles de su propiedad, conforme a las disposiciones jurídicas aplicables.

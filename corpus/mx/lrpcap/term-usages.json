@@ -100,6 +100,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrpcap:article:2:term-usage:3384-3401",
+    "provision_id": "urn:lex-mx:federal:statute:lrpcap:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lrpcap:term:interculturalidad",
+    "span": "Interculturalidad",
+    "start_char": 3384,
+    "end_char": 3401
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lrpcap:article:4:term-usage:3-13",
     "provision_id": "urn:lex-mx:federal:statute:lrpcap:article:4",
     "term_id": "urn:lex-mx:federal:statute:lrpcap:term:secretaria",
@@ -259,6 +268,15 @@
     "span": "Secretaría",
     "start_char": 611,
     "end_char": 621
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrpcap:article:15:term-usage:1170-1195",
+    "provision_id": "urn:lex-mx:federal:statute:lrpcap:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lrpcap:term:perspectiva-intercultural",
+    "span": "Perspectiva Intercultural",
+    "start_char": 1170,
+    "end_char": 1195
   },
   {
     "schema_version": "0.1.0",
@@ -772,6 +790,15 @@
     "span": "Secretaría",
     "start_char": 3,
     "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrpcap:article:54:term-usage:216-241",
+    "provision_id": "urn:lex-mx:federal:statute:lrpcap:article:54",
+    "term_id": "urn:lex-mx:federal:statute:lrpcap:term:perspectiva-intercultural",
+    "span": "Perspectiva Intercultural",
+    "start_char": 216,
+    "end_char": 241
   },
   {
     "schema_version": "0.1.0",

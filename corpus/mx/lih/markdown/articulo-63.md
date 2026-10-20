@@ -17,6 +17,6 @@ source_sha256: 8262a75eac7bfb608d4f48657ffb2714fe115d0b9694c42ac81624fd275bf5f6
 
 # Artículo 63
 
-La Secretaría podrá instruir al Servicio de Administración Tributaria la realización de las auditorías y visitas a que se refiere la fracción VII del apartado B del artículo [37](articulo-37.md) de esta Ley.
+La [Secretaría](articulo-3.md) podrá instruir al Servicio de Administración Tributaria la realización de las auditorías y visitas a que se refiere la fracción VII del apartado B del artículo [37](articulo-37.md) de esta Ley.
 
 Artículo reformado DOF 07-12-2016

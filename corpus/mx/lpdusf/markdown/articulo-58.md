@@ -17,4 +17,4 @@ source_sha256: cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7
 
 # Artículo 58
 
-De igual forma, la Comisión Nacional podrá ordenar a las Instituciones Financieras que le informen sobre las características de las operaciones que formalicen con contratos de adhesión, a efecto de que éste pueda informar a los Usuarios sobre dichas características.
+De igual forma, la [Comisión Nacional](articulo-2o.md) podrá ordenar a las [Instituciones Financieras](articulo-2o.md) que le informen sobre las características de las operaciones que formalicen con contratos de adhesión, a efecto de que éste pueda informar a los [Usuarios](articulo-2o.md) sobre dichas características.

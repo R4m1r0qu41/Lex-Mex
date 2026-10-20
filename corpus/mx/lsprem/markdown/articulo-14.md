@@ -17,17 +17,17 @@ source_sha256: bcc21844355854fe331c842c21436d721d6c2856b5c5986715fe39f4a845b317
 
 # Artículo 14
 
-La Junta de Gobierno se integrará conforme al principio de paridad de género por:
+La [Junta de Gobierno](articulo-2.md) se integrará conforme al principio de paridad de género por:
 
-a) La persona que presida el Sistema;
+a) La persona que presida el [Sistema](articulo-2.md);
 
-b) Una persona representante de la Secretaría de Gobernación;
+b) Una persona representante de la [Secretaría](articulo-2.md) de Gobernación;
 
 c) Una persona representante de la Secretaría de Educación Pública;
 
 d) Una persona representante de la Secretaría de Salud, y
 
-e) Tres personas representantes del Consejo Ciudadano.
+e) Tres personas representantes del [Consejo Ciudadano](articulo-2.md).
 
 Las y los representantes del Ejecutivo Federal deberán tener nivel mínimo de Dirección General y las personas que las y los suplan el nivel jerárquico inmediato inferior, quienes contarán con las mismas facultades que sus propietarias o propietarios en caso de ausencia.
 

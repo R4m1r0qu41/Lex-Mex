@@ -17,7 +17,7 @@ source_sha256: 160e5e85efddb1749a79f6b154af31711a9b31a5e32bace3c07e2859c2620ecf
 
 # Artículo 11
 
-Para la consecución de los objetivos de la presente Ley, la Secretaría podrá celebrar convenios o acuerdos de coordinación con los gobiernos de las entidades federativas, con el objeto de que éstas, con la participación, en su caso, de sus municipios y, en su caso, las demarcaciones territoriales de la Ciudad de México, asuman las siguientes funciones: Párrafo reformado DOF 19-01-2018
+Para la consecución de los objetivos de la presente Ley, la [Secretaría](articulo-4o.md) podrá celebrar convenios o acuerdos de coordinación con los gobiernos de las entidades federativas, con el objeto de que éstas, con la participación, en su caso, de sus municipios y, en su caso, las demarcaciones territoriales de la Ciudad de México, asuman las siguientes funciones: Párrafo reformado DOF 19-01-2018
 
 I. La administración de los permisos para la realización de pesca deportivo-recreativa;
 

@@ -17,9 +17,9 @@ source_sha256: d0021bbef2e0c3251d6efdea2c1efd9959ff3f02df4bcd1fc37c1ee7826a72ba
 
 # Artículo 88
 
-Están obligados a notificar la concentración los Agentes Económicos que participen directamente en la misma.
+Están obligados a notificar la concentración los [Agentes Económicos](articulo-3.md) que participen directamente en la misma.
 
-Cuando no puedan notificar los directamente involucrados, sea por una imposibilidad jurídica o de hecho y así lo acrediten ante la Comisión, o en el caso previsto en el artículo [92](articulo-92.md) de esta Ley, podrán hacerlo el fusionante, el que adquiera el control de las sociedades o asociaciones, o el que pretenda realizar el acto o producir el efecto de acumular las acciones, partes sociales, participación en fideicomisos o activos objeto de la transacción.
+Cuando no puedan notificar los directamente involucrados, sea por una imposibilidad jurídica o de hecho y así lo acrediten ante la [Comisión](articulo-3.md), o en el caso previsto en el artículo [92](articulo-92.md) de esta Ley, podrán hacerlo el fusionante, el que adquiera el control de las sociedades o asociaciones, o el que pretenda realizar el acto o producir el efecto de acumular las acciones, partes sociales, participación en fideicomisos o activos objeto de la transacción.
 
 En su escrito de notificación los notificantes deberán nombrar a un representante común, salvo que, por causa debidamente justificada, no puedan hacerlo. En caso de que no presenten causa justificada para abstenerse de nombrar al representante común, la Comisión lo designará de oficio.
 

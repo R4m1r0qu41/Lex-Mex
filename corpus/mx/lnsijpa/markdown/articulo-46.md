@@ -17,7 +17,7 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 # Artículo 46
 
-Derechos de las personas sujetas a medidas cautelares o de sanción privativa de libertad Las personas adolescentes durante la ejecución de la medida privativa de la libertad o las sanciones penales impuestas, gozarán de todos los derechos previstos por la Constitución y los Tratados Internacionales de los que el Estado mexicano sea parte, siempre y cuando estos no hubieren sido restringidos por la resolución o la sentencia, o su ejercicio fuese incompatible con el objeto de éstas.
+Derechos de las personas sujetas a medidas cautelares o de sanción privativa de libertad Las personas adolescentes durante la ejecución de la medida privativa de la libertad o las sanciones penales impuestas, gozarán de todos los derechos previstos por la [Constitución](articulo-3.md) y los Tratados Internacionales de los que el Estado mexicano sea parte, siempre y cuando estos no hubieren sido restringidos por la resolución o la sentencia, o su ejercicio fuese incompatible con el objeto de éstas.
 
 Para los efectos del párrafo anterior, las autoridades competentes, garantizarán, de manera enunciativa y no limitativa, los siguientes derechos:
 
@@ -25,13 +25,13 @@ I. No ser privados o limitados en el ejercicio de sus derechos y garantías, sin
 
 II. A que se garantice su integridad moral, física, sexual y psicológica;
 
-III. Ser informado sobre la finalidad de la medida cautelar y de sanción impuesta, del contenido del Plan Individualizado de Actividades o Plan Individualizado de Ejecución y lo que se requiere de él para cumplir con el mismo. Lo anterior se hará del conocimiento de sus personas responsables, de sus representantes legales y, en su caso, de la persona en quien confíe;
+III. Ser informado sobre la finalidad de la medida cautelar y de sanción impuesta, del contenido del [Plan Individualizado de Actividades](articulo-3.md) o [Plan Individualizado de Ejecución](articulo-3.md) y lo que se requiere de él para cumplir con el mismo. Lo anterior se hará del conocimiento de sus personas responsables, de sus representantes legales y, en su caso, de la persona en quien confíe;
 
 IV. Recibir información sobre las leyes, reglamentos u otras disposiciones que regulen sus derechos, obligaciones y beneficios del régimen en el que se encuentren; las medidas disciplinarias que pueden imponérseles, el procedimiento para su aplicación y los medios de impugnación procedentes;
 
 V. No recibir castigos corporales ni cualquier tipo de medida que vulnere sus derechos o ponga en peligro su salud física o mental;
 
-VI. Recibir asistencia médica preventiva y de tratamiento para el cuidado de la salud, así como atención y tratamiento psicológico atendiendo a las necesidades propias de su edad y sexo en, por lo menos, centros de salud que brinden asistencia médica y psicológica de primer nivel en términos de la Ley General de Salud; en el Centro Especializado y, en caso de que sea insuficiente la atención brindada dentro de reclusión o se necesite asistencia médica avanzada, se podrá solicitar el ingreso de atención especializada a dicho Centro o bien, que la persona sea remitida a un Centro de salud público en los términos que establezca la ley; Fracción reformada DOF 20-12-2022
+VI. Recibir asistencia médica preventiva y de tratamiento para el cuidado de la salud, así como atención y tratamiento psicológico atendiendo a las necesidades propias de su edad y sexo en, por lo menos, centros de salud que brinden asistencia médica y psicológica de primer nivel en términos de la [Ley General](articulo-3.md) de Salud; en el Centro Especializado y, en caso de que sea insuficiente la atención brindada dentro de reclusión o se necesite asistencia médica avanzada, se podrá solicitar el ingreso de atención especializada a dicho Centro o bien, que la persona sea remitida a un Centro de salud público en los términos que establezca la ley; Fracción reformada DOF 20-12-2022
 
 VII. Recibir en todo momento una alimentación nutritiva, adecuada y suficiente para su desarrollo, así como vestimenta suficiente y digna que garantice su salud y formación integral;
 
@@ -53,7 +53,7 @@ XIII. Realizar actividades educativas, recreativas, artísticas, culturales, dep
 
 XIV. Tener una convivencia armónica, segura y ordenada en el Centro Especializado en la que permanezca;
 
-XV. No ser controlados con fuerza o con instrumentos de coerción, salvo las excepciones que determine esta Ley y de acuerdo a las disposiciones establecidas respecto al uso legítimo de la fuerza;
+XV. No ser controlados con fuerza o con instrumentos de coerción, salvo las excepciones que determine esta [Ley](articulo-3.md) y de acuerdo a las disposiciones establecidas respecto al uso legítimo de la fuerza;
 
 XVI. Efectuar peticiones o quejas por escrito, y en casos urgentes, por cualquier medio a las instancias correspondientes;
 

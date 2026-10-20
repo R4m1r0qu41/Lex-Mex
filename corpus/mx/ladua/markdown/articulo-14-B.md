@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf
 source_sha256: 43927095d22ff7bc7780e78132d2160b5050b5f76026b539daec32be09d7341d
 ---
 
+> Título Segundo · Capítulo I
+
 # Artículo 14-B
 
 Los particulares que obtengan la concesión o autorización para prestar los servicios de manejo, almacenaje y custodia de mercancías en los recintos fiscalizados, conforme a los artículos anteriores, deberán cumplir con las obligaciones establecidas en esta Ley y mantener los medios de control que señale el Servicio de Administración Tributaria mediante reglas, así como efectuar el pago del aprovechamiento a que se refiere la fracción VII, del artículo [15](articulo-15.md) de esta Ley, el cual deberá enterarse independientemente del aprovechamiento o derecho al que, en su caso, estén obligados a pagar por el uso, goce o aprovechamiento de los inmuebles del dominio público. Párrafo reformado DOF 30-12-2002

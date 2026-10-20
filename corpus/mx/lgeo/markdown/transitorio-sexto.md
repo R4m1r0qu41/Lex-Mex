@@ -15,4 +15,4 @@ source_sha256: 67309bf186af42de0f9e98010d38c89598676faea7f2b558ac9c9e6736d64d35
 
 # Sexto
 
-Los permisos y concesiones otorgados por la Secretaría de Energía para llevar a cabo las actividades de Exploración y Explotación en Áreas Geotérmicas con anterioridad a la entrada en vigor de esta Ley mantienen su vigencia en los términos otorgados.
+Los permisos y concesiones otorgados por la [Secretaría](articulo-2.md) de Energía para llevar a cabo las actividades de [Exploración](articulo-2.md) y [Explotación](articulo-2.md) en [Áreas Geotérmicas](articulo-2.md) con anterioridad a la entrada en vigor de esta [Ley](articulo-2.md) mantienen su vigencia en los términos otorgados.

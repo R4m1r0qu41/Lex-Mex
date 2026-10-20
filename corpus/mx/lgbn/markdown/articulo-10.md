@@ -17,4 +17,4 @@ source_sha256: ea96e97cbea2fd1919af78b94cd3466ee20a77e05989be2d482d2eb8061618c5
 
 # Artículo 10
 
-Sólo los tribunales federales serán competentes para conocer de los juicios civiles, mercantiles, penales o administrativos, así como de los procedimientos judiciales no contenciosos que se relacionen con los bienes sujetos al régimen de dominio público de la Federación, incluso cuando las controversias versen sobre derechos de uso sobre los mismos.
+Sólo los tribunales federales serán competentes para conocer de los juicios civiles, mercantiles, penales o administrativos, así como de los procedimientos judiciales no contenciosos que se relacionen con los bienes sujetos al régimen de dominio público de la [Federación](articulo-2.md), incluso cuando las controversias versen sobre derechos de uso sobre los mismos.

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título VI · Capítulo II
+
 # Artículo 199
 
 Las operaciones que las casas de bolsa celebren con su clientela inversionista y por cuenta de la misma, se regirán por las previsiones contenidas en los contratos de intermediación bursátil, que al efecto podrán ser celebrados por escrito, mediante firma autógrafa, o bien mediante Mensaje de Datos y firma electrónica de las partes, otorgada conforme al Código de Comercio, salvo que, como consecuencia de lo dispuesto en esta u otras leyes, se establezca una forma de contratación distinta. Párrafo reformado DOF 28-12-2023

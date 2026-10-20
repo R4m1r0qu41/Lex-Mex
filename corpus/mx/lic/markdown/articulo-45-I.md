@@ -23,7 +23,9 @@ I.- La Institución Financiera del Exterior, la Sociedad Controladora Filial o l
 
 II. En caso que se pretenda convertir la institución en Filial, deberán modificarse los estatutos sociales de la citada institución cuyas acciones sean objeto de enajenación, a efecto de cumplir con lo dispuesto en el presente capítulo; Fracción reformada DOF 18-07-2006, 01-02-2008
 
-III. (Se deroga) Fracción derogada DOF 04-06-2001 IV. Se deroga. Fracción reformada DOF 18-07-2006. Derogada DOF 01-02-2008
+III. (Se deroga) Fracción derogada DOF 04-06-2001
+
+IV. Se deroga. Fracción reformada DOF 18-07-2006. Derogada DOF 01-02-2008
 
 V. (Se deroga) Fracción reformada DOF 15-02-1995. Derogada DOF 04-06-2001
 

@@ -17,4 +17,4 @@ source_sha256: 3a86c9bc8afe7162bbcc0c31a28250ca91cfbf2cb6a08deddae0653977ae3d3f
 
 # Artículo 39
 
-Las personas mexicanas que participen en eventos deportivos, culturales, o de otra naturaleza de carácter internacional organizados en territorio extranjero están obligados a observar las disposiciones de la Ley y este reglamento; en caso de incumplimiento, estarán sujetos a las sanciones que estos ordenamientos prevén.
+Las personas mexicanas que participen en eventos deportivos, culturales, o de otra naturaleza de carácter internacional organizados en territorio extranjero están obligados a observar las disposiciones de la [Ley](articulo-2.md) y este reglamento; en caso de incumplimiento, estarán sujetos a las sanciones que estos ordenamientos prevén.

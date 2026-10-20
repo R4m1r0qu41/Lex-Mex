@@ -17,7 +17,7 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 292
 
-Sin perjuicio de lo dispuesto por el Artículo [291](articulo-291.md) de las presentes disposiciones, el Comité Técnico establecerá políticas que les permitan evaluar el reporte o historial crediticio de las personas previsto en la fracción II de dicho artículo, basados en la información que obtengan de las Sociedades de Información Crediticia. Al efecto, dichas políticas tomarán en cuenta, cuando menos:
+Sin perjuicio de lo dispuesto por el Artículo [291](articulo-291.md) de las presentes disposiciones, el [Comité Técnico](articulo-1.md) establecerá políticas que les permitan evaluar el reporte o historial crediticio de las personas previsto en la fracción II de dicho artículo, basados en la información que obtengan de las Sociedades de Información Crediticia. Al efecto, dichas políticas tomarán en cuenta, cuando menos:
 
 I. Criterios para valorar el contenido de los informes proporcionados por las Sociedades de Información Crediticia, que permitan calificar el perfil crediticio del candidato, en el evento de que cuenten con adeudos vencidos u otro tipo de antecedentes crediticios que reflejen la generación de quebrantos a terceros o exista evidencia de conductas abusivas en la reestructuración de créditos.
 

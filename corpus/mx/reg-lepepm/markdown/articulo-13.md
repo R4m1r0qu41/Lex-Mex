@@ -17,4 +17,4 @@ source_sha256: 9080231242a59cbd78d30fb747864bc45cd63d3c4978f37086b01e45343f4244
 
 # Artículo 13
 
-Petróleos Mexicanos y sus filiales, a través de la empresa pública del Estado, deben entregar a la Secretaría Anticorrupción y Buen Gobierno y a la Unidad de Responsabilidades, cuando así le sea solicitado, copia de cualquier información que haya proporcionado a las autoridades competentes, nacionales o extranjeras, relacionada con las actividades actuales y anteriores de las personas integrantes del Consejo de Administración, en términos de este reglamento y la normativa en materia de protección de datos personales.
+Petróleos Mexicanos y sus filiales, a través de la empresa pública del Estado, deben entregar a la Secretaría Anticorrupción y Buen Gobierno y a la Unidad de Responsabilidades, cuando así le sea solicitado, copia de cualquier información que haya proporcionado a las autoridades competentes, nacionales o extranjeras, relacionada con las actividades actuales y anteriores de las personas integrantes del [Consejo de Administración](articulo-2.md), en términos de este reglamento y la normativa en materia de protección de datos personales.

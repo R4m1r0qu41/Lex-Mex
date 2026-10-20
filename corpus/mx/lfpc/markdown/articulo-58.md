@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPC.pdf
 source_sha256: 7fea623841fd6e05e8c0d01d2cf09f85b0b8e58ba4d9e4f6711f8bad1f448e55
 ---
 
+> Capítulo VI
+
 # Artículo 58
 
 El proveedor de bienes, productos o servicios no podrá negarlos o condicionarlos al consumidor por razones de género, nacionalidad, étnicas, preferencia sexual, religiosas o cualquiera otra particularidad. Párrafo adicionado DOF 04-02-2004

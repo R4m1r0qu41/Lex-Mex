@@ -17,4 +17,4 @@ source_sha256: cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7
 
 # Artículo 57
 
-La revisión que, en su caso, se haga de los contratos de adhesión, tendrá por objeto determinar que se ajusten a los ordenamientos correspondientes y a las disposiciones emitidas conforme a ellos, así como verificar que dichos documentos no contengan estipulaciones confusas o que no permitan a los Usuarios conocer claramente el alcance de las obligaciones de los contratantes.
+La revisión que, en su caso, se haga de los contratos de adhesión, tendrá por objeto determinar que se ajusten a los ordenamientos correspondientes y a las disposiciones emitidas conforme a ellos, así como verificar que dichos documentos no contengan estipulaciones confusas o que no permitan a los [Usuarios](articulo-2o.md) conocer claramente el alcance de las obligaciones de los contratantes.

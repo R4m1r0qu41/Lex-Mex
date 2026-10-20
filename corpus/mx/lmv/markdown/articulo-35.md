@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título II · Capítulo II
+
 # Artículo 35
 
 Los miembros y secretario del consejo de administración de las sociedades anónimas bursátiles incurrirán en deslealtad frente a la sociedad y, en consecuencia, serán responsables de los daños y perjuicios causados a la misma o a las personas morales que ésta controle o en las que tenga una influencia significativa, cuando, sin causa legítima, por virtud de su empleo, cargo o comisión, obtengan beneficios económicos para sí o los procuren en favor de terceros, incluyendo a un determinado accionista o grupo de accionistas.

@@ -17,4 +17,4 @@ source_sha256: 7df3d678efda2306b68d3c0f5ca0e3e92b9066d5f773128f4ae19cb26bf44fff
 
 # Artículo 38
 
-El Permiso de Almacenamiento de Biocombustibles comprende la actividad de recibir Biocombustibles, propiedad de terceras personas, en los puntos de recepción de su instalación, realizar la medición, conservar la calidad y la cantidad, conservarlos en depósito, resguardarlos y devolverlos a las terceras personas o a quien esta designe, en los puntos de entrega determinados en su instalación. Se excluye de lo anterior la Guarda.
+El Permiso de Almacenamiento de Biocombustibles comprende la actividad de recibir Biocombustibles, propiedad de terceras personas, en los puntos de recepción de su instalación, realizar la medición, conservar la calidad y la cantidad, conservarlos en depósito, resguardarlos y devolverlos a las terceras personas o a quien esta designe, en los puntos de entrega determinados en su instalación. Se excluye de lo anterior la [Guarda](articulo-3.md).

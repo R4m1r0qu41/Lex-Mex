@@ -23,6 +23,6 @@ I. La Secretaría de Marina, las personas nacionales militares pertenecientes a 
 
 II. Las dependencias de la Administración Pública Federal, las personas nacionales civiles de sus respectivas dependencias o conforme a las disposiciones de la Secretaría, y
 
-III. Los casos no contemplados se ajustarán a lo señalado en los reglamentos internos de cada Institución Educativa o al acuerdo o convenio que para el efecto establezca la Secretaría.
+III. Los casos no contemplados se ajustarán a lo señalado en los reglamentos internos de cada [Institución Educativa](articulo-3.md) o al acuerdo o convenio que para el efecto establezca la Secretaría.
 
 Artículo reformado DOF 20-03-2026

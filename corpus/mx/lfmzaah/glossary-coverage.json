@@ -1,0 +1,12 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-3",
+  "instrument_id": "urn:lex-mx:federal:statute:lfmzaah",
+  "source_sha256": "bce07ae6b706e935ded9023e4d11d8797aa725ecbe4d1a0ef219ca1a8080b4cb",
+  "extracted_text_sha256": "2f7522027b0409fed51646164645f50318ddceb10ce6e736840bc5aaa8d6ca9b",
+  "status": "none_detected",
+  "glossaries": [],
+  "imports": [],
+  "term_count": 0,
+  "usage_count": 0
+}

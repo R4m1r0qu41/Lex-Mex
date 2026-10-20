@@ -18,6 +18,6 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 4
 
-Las Sociedades deberán establecer mecanismos de control permanente que les permitan verificar en forma continua el cumplimiento de los requisitos, así como la inexistencia de impedimentos legales para que sus Consejeros, Miembros del Consejo de Vigilancia, Director o Gerente General puedan continuar en el desempeño de las funciones para las cuales hayan sido nombrados.
+Las Sociedades deberán establecer mecanismos de control permanente que les permitan verificar en forma continua el cumplimiento de los requisitos, así como la inexistencia de impedimentos legales para que sus [Consejeros](articulo-1.md), [Miembros del Consejo de Vigilancia](articulo-1.md), [Director o Gerente General](articulo-1.md) puedan continuar en el desempeño de las funciones para las cuales hayan sido nombrados.
 
-Las Sociedades darán a conocer anualmente a la Comisión, durante el mes de mayo, los resultados de las gestiones que lleven a cabo en cumplimiento de lo previsto en el presente Artículo.
+Las Sociedades darán a conocer anualmente a la [Comisión](articulo-1.md), durante el mes de mayo, los resultados de las gestiones que lleven a cabo en cumplimiento de lo previsto en el presente Artículo.

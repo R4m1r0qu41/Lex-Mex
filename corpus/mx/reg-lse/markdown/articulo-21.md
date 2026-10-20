@@ -17,4 +17,4 @@ source_sha256: 4bcc982b308b0813469b30db61b53d5a2c41e5a7240b3b1cac2f1aeeb2c00a2e
 
 # Artículo 21
 
-Las disposiciones administrativas de carácter general en las que la Secretaría, en coordinación con la CNE, establece las condiciones generales mediante las cuales se deben desarrollar las actividades del Suministro Eléctrico, deben incluir las modalidades de Suministro Básico, Suministro Calificado y Suministro de Último Recurso, en términos del artículo [65](../../lse/markdown/articulo-65.md) de la Ley y conforme a lo previsto en el presente reglamento.
+Las disposiciones administrativas de carácter general en las que la Secretaría, en coordinación con la CNE, establece las condiciones generales mediante las cuales se deben desarrollar las actividades del Suministro Eléctrico, deben incluir las modalidades de Suministro Básico, Suministro Calificado y Suministro de Último Recurso, en términos del artículo [65](../../lse/markdown/articulo-65.md) de la [Ley](articulo-2.md) y conforme a lo previsto en el presente reglamento.

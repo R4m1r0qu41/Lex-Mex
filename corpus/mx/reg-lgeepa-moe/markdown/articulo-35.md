@@ -17,7 +17,7 @@ source_sha256: d25fabb2d2e90d9f76028717f83c442d05a4f64024f13461285bda8ebd389a04
 
 # Artículo 35
 
-La Secretaría evaluará la efectividad y el cumplimiento del programa de ordenamiento ecológico general del territorio mediante la realización de las siguientes acciones:
+La [Secretaría](articulo-3o.md) evaluará la efectividad y el cumplimiento del programa de ordenamiento ecológico general del territorio mediante la realización de las siguientes acciones:
 
 I. Monitorear permanente los lineamientos y estrategias ecológicas mediante el seguimiento de los indicadores ambientales que se establezcan para tal fin; y
 

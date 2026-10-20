@@ -17,7 +17,7 @@ source_sha256: 0574853d06020030188e8aee1eae5dabb2b476ac630cc52be631a48d2b91adbc
 
 # Artículo 170
 
-Cuando exista riesgo inminente de desequilibrio ecológico, o de daño o deterioro grave a los recursos naturales, casos de contaminación con repercusiones peligrosas para los ecosistemas, sus componentes o para la salud pública, la Secretaría, fundada y motivadamente, podrá ordenar alguna o algunas de las siguientes medidas de seguridad:
+Cuando exista riesgo inminente de desequilibrio ecológico, o de daño o deterioro grave a los recursos naturales, casos de contaminación con repercusiones peligrosas para los ecosistemas, sus componentes o para la salud pública, la [Secretaría](articulo-3o.md), fundada y motivadamente, podrá ordenar alguna o algunas de las siguientes medidas de seguridad:
 
 I.- La clausura temporal, parcial o total de las fuentes contaminantes, así como de las instalaciones en que se manejen o almacenen especímenes, productos o subproductos de especies de flora o de fauna silvestre, recursos forestales, o se desarrollen las actividades que den lugar a los supuestos a que se refiere el primer párrafo de este artículo;
 

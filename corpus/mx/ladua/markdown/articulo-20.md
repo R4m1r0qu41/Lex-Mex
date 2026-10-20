@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf
 source_sha256: 43927095d22ff7bc7780e78132d2160b5050b5f76026b539daec32be09d7341d
 ---
 
+> Título Segundo · Capítulo I
+
 # Artículo 20
 
 Las empresas porteadoras y sus representantes en territorio nacional, los capitanes, pilotos, conductores y propietarios de los medios de transporte de mercancías materia de entrada o salida del territorio nacional, están obligados a: Párrafo reformado DOF 09-12-2013

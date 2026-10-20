@@ -17,4 +17,4 @@ source_sha256: e5c0ecb4328043b7090ee5d73e982d6a04410f1330f6fdb350a7a34527eb2e59
 
 # Artículo 22
 
-La Secretaría podrá inscribir en el Registro Nacional de Pesca, a los acuacultores que no requieran concesión, permiso o autorización.
+La [Secretaría](articulo-2o.md) podrá inscribir en el Registro Nacional de Pesca, a los acuacultores que no requieran concesión, permiso o autorización.

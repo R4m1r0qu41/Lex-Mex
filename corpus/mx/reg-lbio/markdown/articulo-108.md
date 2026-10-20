@@ -17,4 +17,4 @@ source_sha256: 7df3d678efda2306b68d3c0f5ca0e3e92b9066d5f773128f4ae19cb26bf44fff
 
 # Artículo 108
 
-La SENER debe sancionar administrativamente los incumplimientos a las disposiciones de la Ley, el Reglamento, los títulos de los permisos o Autorizaciones respectivos y demás disposiciones aplicables en la materia, de conformidad con el artículo [41](../../lbio/markdown/articulo-41.md) de la Ley.
+La [SENER](articulo-3.md) debe sancionar administrativamente los incumplimientos a las disposiciones de la [Ley](articulo-3.md), el [Reglamento](articulo-3.md), los títulos de los permisos o [Autorizaciones](articulo-3.md) respectivos y demás disposiciones aplicables en la materia, de conformidad con el artículo [41](../../lbio/markdown/articulo-41.md) de la Ley.

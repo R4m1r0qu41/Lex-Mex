@@ -17,9 +17,9 @@ source_sha256: b34326588bd6e7519e33411d3658239e3aefb56cef0fae5d775bc894af64a565
 
 # Artículo 104
 
-Si de estas visitas de inspección se desprenden infracciones a la presente Ley, en el emplazamiento respectivo la autoridad ordenadora requerirá al interesado, cuando proceda, mediante notificación personal o por correo certificado con acuse de recibo, para que adopte de inmediato las medidas correctivas que, en su caso, resulten necesarias para cumplir con las disposiciones jurídicas aplicables, así como con los permisos, licencias, autorizaciones o concesiones respectivas, señalando el plazo que corresponda para su cumplimiento, fundado y motivado el requerimiento. Párrafo adicionado DOF 22-05-2006
+Si de estas visitas de inspección se desprenden infracciones a la presente [Ley](articulo-5.md), en el emplazamiento respectivo la autoridad ordenadora requerirá al interesado, cuando proceda, mediante notificación personal o por correo certificado con acuse de recibo, para que adopte de inmediato las medidas correctivas que, en su caso, resulten necesarias para cumplir con las disposiciones jurídicas aplicables, así como con los permisos, licencias, autorizaciones o concesiones respectivas, señalando el plazo que corresponda para su cumplimiento, fundado y motivado el requerimiento. Párrafo adicionado DOF 22-05-2006
 
-En caso de riesgo inminente para la salud o el medio ambiente derivado del manejo de residuos peligrosos, la Secretaría, de manera fundada y motivada, podrá ordenar alguna o algunas de las siguientes medidas de seguridad:
+En caso de riesgo inminente para la salud o el medio ambiente derivado del manejo de residuos peligrosos, la [Secretaría](articulo-5.md), de manera fundada y motivada, podrá ordenar alguna o algunas de las siguientes medidas de seguridad:
 
 I. La clausura temporal total o parcial de las fuentes contaminantes, así como de las instalaciones en que se generen, manejen o dispongan finalmente los residuos peligrosos involucrados en los supuestos a los que se refiere este precepto;
 

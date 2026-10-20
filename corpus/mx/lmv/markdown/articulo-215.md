@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título VI · Capítulo II
+
 # Artículo 215
 
 Las casas de bolsa podrán invertir, directa o indirectamente, en títulos representativos del capital social de entidades financieras del exterior que realicen el mismo tipo de operaciones que la casa de bolsa de que se trate, siempre que previamente obtengan autorización de la [Comisión](articulo-2.md).

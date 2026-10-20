@@ -17,9 +17,9 @@ source_sha256: 7c13fd20564f1e7230268a0943cc226368b24c44886d6738c479f4c42cbe77de
 
 # Artículo 17
 
-El Comité Técnico es un órgano colegiado, cuyo objeto es conocer, opinar, analizar, evaluar, dictaminar y aprobar los actos jurídicos o administrativos que emita la Comisión en el ámbito de su competencia; de manera particular, cuenta con las siguientes atribuciones:
+El Comité Técnico es un órgano colegiado, cuyo objeto es conocer, opinar, analizar, evaluar, dictaminar y aprobar los actos jurídicos o administrativos que emita la [Comisión](articulo-6.md) en el ámbito de su competencia; de manera particular, cuenta con las siguientes atribuciones:
 
-I. Aprobar los actos y resoluciones con carácter técnico y operativo de las Actividades en materia energética;
+I. Aprobar los actos y resoluciones con carácter técnico y operativo de las [Actividades en materia energética](articulo-6.md);
 
 II. Aprobar la regulación y disposiciones administrativas de carácter general que requiere la Comisión para el ejercicio de sus atribuciones;
 
@@ -31,7 +31,7 @@ V. Aprobar el otorgamiento, revocación y extinción de los permisos de generaci
 
 VI. Aprobar el programa anual de visitas de verificación, inspección o supervisión de las Actividades en materia energética de la Comisión en el ámbito de su competencia;
 
-VII. Proponer a la Secretaría las actualizaciones al marco jurídico del sector, en el ámbito de su competencia;
+VII. Proponer a la [Secretaría](articulo-6.md) las actualizaciones al marco jurídico del sector, en el ámbito de su competencia;
 
 VIII. Aprobar la metodología para determinar las tarifas y contraprestaciones del sector energético y realizar el seguimiento de costos que le correspondan;
 

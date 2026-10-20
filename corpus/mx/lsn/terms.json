@@ -1,1 +1,68 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:term:consejo",
+    "term": "Consejo",
+    "instrument_id": "urn:lex-mx:federal:statute:lsn",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lsn:article:6",
+    "fraction": "I",
+    "start_char": 55,
+    "end_char": 99,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:term:instancias",
+    "term": "Instancias",
+    "instrument_id": "urn:lex-mx:federal:statute:lsn",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lsn:article:6",
+    "fraction": "II",
+    "start_char": 99,
+    "end_char": 241,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:term:red",
+    "term": "Red",
+    "instrument_id": "urn:lex-mx:federal:statute:lsn",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lsn:article:6",
+    "fraction": "III",
+    "start_char": 241,
+    "end_char": 283,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:term:centro",
+    "term": "Centro",
+    "instrument_id": "urn:lex-mx:federal:statute:lsn",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lsn:article:6",
+    "fraction": "IV",
+    "start_char": 283,
+    "end_char": 376,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:term:informacion-gubernamental-confidencial",
+    "term": "Información gubernamental confidencial",
+    "instrument_id": "urn:lex-mx:federal:statute:lsn",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lsn:article:6",
+    "fraction": "V",
+    "start_char": 376,
+    "end_char": 656,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:term:agentes-extranjeros",
+    "term": "Agentes Extranjeros",
+    "instrument_id": "urn:lex-mx:federal:statute:lsn",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lsn:article:6",
+    "fraction": "VI",
+    "start_char": 656,
+    "end_char": 936,
+    "basis": "express_definition"
+  }
+]

@@ -17,6 +17,6 @@ source_sha256: 7211b1c71876d2ea4776c11dc1e045ebbb34b7e98b130f16c7864f75f5e90744
 
 # Artículo 55
 
-Para efectos de lograr la reparación y compensación de los daños ocasionados al ambiente la Procuraduría será coadyuvante del Ministerio Público, en los términos previstos por el Código Nacional de Procedimientos Penales. Lo anterior, sin perjuicio de la coadyuvancia que pueda hacer la víctima o el ofendido por sí mismo o a través de su representante legal. Párrafo reformado DOF 14-11-2025
+Para efectos de lograr la reparación y compensación de los daños ocasionados al ambiente la [Procuraduría](articulo-2o.md) será coadyuvante del Ministerio Público, en los términos previstos por el Código Nacional de Procedimientos Penales. Lo anterior, sin perjuicio de la coadyuvancia que pueda hacer la víctima o el ofendido por sí mismo o a través de su representante legal. Párrafo reformado DOF 14-11-2025
 
-La Secretaría y la Procuraduría proporcionarán los dictámenes técnicos o periciales que le requiera el Ministerio Público o las autoridades judiciales, con motivo de los procedimientos penales que se inicien por la comisión de delitos contra el ambiente o la gestión ambiental.
+La [Secretaría](articulo-2o.md) y la Procuraduría proporcionarán los dictámenes técnicos o periciales que le requiera el Ministerio Público o las autoridades judiciales, con motivo de los procedimientos penales que se inicien por la comisión de delitos contra el ambiente o la gestión ambiental.

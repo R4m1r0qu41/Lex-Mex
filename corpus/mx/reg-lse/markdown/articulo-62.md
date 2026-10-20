@@ -17,4 +17,4 @@ source_sha256: 4bcc982b308b0813469b30db61b53d5a2c41e5a7240b3b1cac2f1aeeb2c00a2e
 
 # Artículo 62
 
-Los proyectos de generación para el Mercado Eléctrico Mayorista, las empresas públicas del Estado y de las personas particulares están sujetos a los criterios de planeación vinculante. La operación de las Centrales Eléctricas en el Mercado Eléctrico Mayorista se debe efectuar de acuerdo con lo previsto en la Ley, el presente reglamento, las Reglas del Mercado y las demás disposiciones administrativas de carácter general aplicables.
+Los proyectos de generación para el Mercado Eléctrico Mayorista, las empresas públicas del Estado y de las personas particulares están sujetos a los criterios de planeación vinculante. La operación de las Centrales Eléctricas en el Mercado Eléctrico Mayorista se debe efectuar de acuerdo con lo previsto en la [Ley](articulo-2.md), el presente reglamento, las Reglas del Mercado y las demás disposiciones administrativas de carácter general aplicables.

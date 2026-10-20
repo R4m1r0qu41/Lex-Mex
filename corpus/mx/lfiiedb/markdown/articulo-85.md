@@ -17,4 +17,4 @@ source_sha256: 7679afbbf32749e0c0bacab72644d41fc6ccdeeab3a2f25dfae8d26a065de01e
 
 # Artículo 85
 
-La Secretaría, en términos de las disposiciones aplicables, podrá autorizar, por excepción, a las Dependencias y Entidades, que convoquen o inicien los procedimientos de contratación, sin contar con la suficiencia presupuestaria. En caso de que otorgue dicha autorización la Dependencia o Entidad de que se trate debe tramitar las adecuaciones presupuestarias que correspondan para contar con la suficiencia presupuestaria previo a la emisión del fallo o a la adjudicación.
+La [Secretaría](articulo-4.md), en términos de las disposiciones aplicables, podrá autorizar, por excepción, a las [Dependencias](articulo-4.md) y [Entidades](articulo-4.md), que convoquen o inicien los procedimientos de contratación, sin contar con la suficiencia presupuestaria. En caso de que otorgue dicha autorización la Dependencia o Entidad de que se trate debe tramitar las adecuaciones presupuestarias que correspondan para contar con la suficiencia presupuestaria previo a la emisión del fallo o a la adjudicación.

@@ -15,10 +15,10 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # OCTAVO
 
-Las sociedades o asociaciones a que se refiere Artículo SEXTO Transitorio anterior, a partir de la fecha en que obtengan su autorización para operar como Entidades en términos de la Ley, y con el fin de ajustarse a lo previsto por las presentes Reglas, contarán con un periodo de:
+Las sociedades o asociaciones a que se refiere Artículo SEXTO Transitorio anterior, a partir de la fecha en que obtengan su autorización para operar como Entidades en términos de la [Ley](articulo-1.md), y con el fin de ajustarse a lo previsto por las presentes Reglas, contarán con un periodo de:
 
 I. 180 días para contar con sus manuales y demás procedimientos en materia de crédito, y
 
 II. 360 días para contar con sus manuales de operación y demás procedimientos en materia de control interno y con sus manuales y demás procedimientos en materia de administración de riesgos.
 
-A efecto de gozar de este beneficio, será necesario que las Entidades dentro de 90 días posteriores a la obtención de su autorización para operar como Entidades en términos de la Ley, elaboren y mantengan a disposición de la Federación correspondiente y de la Comisión, planes de implementación de lo establecido tanto en materia de control interno, como de administración de riesgos y de crédito.
+A efecto de gozar de este beneficio, será necesario que las Entidades dentro de 90 días posteriores a la obtención de su autorización para operar como Entidades en términos de la Ley, elaboren y mantengan a disposición de la [Federación](articulo-1.md) correspondiente y de la Comisión, planes de implementación de lo establecido tanto en materia de control interno, como de administración de riesgos y de crédito.

@@ -18,4 +18,4 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 201
 
-La Comisión, así como la Federación correspondiente, previa opinión de la primera, podrá ordenar la constitución de estimaciones preventivas adicionales, si a su juicio así procediere, tomando en cuenta el riesgo de crédito asumido por la Sociedad Financiera Popular en sus operaciones.
+La Comisión, así como la [Federación](articulo-1.md) correspondiente, previa opinión de la primera, podrá ordenar la constitución de estimaciones preventivas adicionales, si a su juicio así procediere, tomando en cuenta el riesgo de crédito asumido por la [Sociedad](articulo-1.md) Financiera Popular en sus operaciones.

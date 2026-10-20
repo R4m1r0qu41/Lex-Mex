@@ -17,4 +17,4 @@ source_sha256: 8262a75eac7bfb608d4f48657ffb2714fe115d0b9694c42ac81624fd275bf5f6
 
 # Artículo 13
 
-En los Contratos de producción compartida se podrá optar por no incluir la Contraprestación correspondiente a la recuperación de costos, sin perjuicio de las obligaciones sobre su registro en términos del Contrato.
+En los [Contratos](articulo-3.md) de producción compartida se podrá optar por no incluir la [Contraprestación](articulo-3.md) correspondiente a la recuperación de costos, sin perjuicio de las obligaciones sobre su registro en términos del Contrato.

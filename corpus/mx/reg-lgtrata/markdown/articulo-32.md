@@ -17,4 +17,4 @@ source_sha256: 1d398a90955ef45ccb7baf4d56534c676cde8325e8b109c4d32120909e783694
 
 # Artículo 32
 
-Cuando los recursos del sentenciado sean insuficientes para cubrir el monto de la reparación del daño determinado por el juzgador, se podrán utilizar los recursos del Fondo. La asignación de los recursos para la reparación del daño a que hace referencia el presente artículo se llevará a cabo con un Enfoque Diferencial y Especializado y de conformidad con los criterios a que se refiere el artículo [73](articulo-73.md) del presente Reglamento y las Reglas de Operación.
+Cuando los recursos del sentenciado sean insuficientes para cubrir el monto de la reparación del daño determinado por el juzgador, se podrán utilizar los recursos del Fondo. La asignación de los recursos para la reparación del daño a que hace referencia el presente artículo se llevará a cabo con un [Enfoque Diferencial y Especializado](articulo-2.md) y de conformidad con los criterios a que se refiere el artículo [73](articulo-73.md) del presente Reglamento y las [Reglas de Operación](articulo-2.md).

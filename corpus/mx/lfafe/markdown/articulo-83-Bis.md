@@ -17,9 +17,9 @@ source_sha256: 96092a4581d4e87910eb58939da4045879e4fe613b12f4413d7392bcc2c6e884
 
 # Artículo 83 Bis
 
-A la persona que, sin el permiso correspondiente, haga acopio y posea más de cinco armas de las reservadas para el uso exclusivo de la Fuerza Armada Permanente, se le sancionará con:
+A la persona que, sin el permiso correspondiente, haga acopio y posea más de cinco armas de las reservadas para el uso exclusivo de la [Fuerza Armada Permanente](articulo-1o-Bis.md), se le sancionará con:
 
-I.- Prisión de seis a nueve años y multa de cien a trescientas veces el valor diario de la Unidad de Medida y Actualización, si las armas están comprendidas en los incisos a) o b) del artículo [11](articulo-11.md) de esta Ley. En el caso del inciso i) del mismo artículo, se debe imponer de uno a tres años de prisión y multa de cinco a quince veces el valor diario de la Unidad de Medida y Actualización, y
+I.- Prisión de seis a nueve años y multa de cien a trescientas veces el valor diario de la Unidad de Medida y Actualización, si las armas están comprendidas en los incisos a) o b) del artículo [11](articulo-11.md) de esta [Ley](articulo-1o-Bis.md). En el caso del inciso i) del mismo artículo, se debe imponer de uno a tres años de prisión y multa de cinco a quince veces el valor diario de la Unidad de Medida y Actualización, y
 
 II.- Prisión de siete a treinta años y multa de cien a quinientas veces el valor diario de la Unidad de Medida y Actualización, si se trata de cualquiera otra de las armas comprendidas en los incisos c), d), e), f), g), h), j), k), k) bis y l) del artículo [11](articulo-11.md) de esta Ley. Párrafo con fracciones reformado DOF 03-01-1989, 29-05-2025
 

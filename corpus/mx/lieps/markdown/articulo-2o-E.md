@@ -17,7 +17,7 @@ source_sha256: 32639ede8448f91e6ddde556d4b8bceaf349b904bc21631f06e1c8a7a3d416f4
 
 # Artículo 2o-E
 
-Para los efectos del artículo [2](articulo-2o.md)o., fracción I, inciso H), numeral 10 de esta Ley, no se consideran comprendidos dentro de la definición de “otros combustibles fósiles”, toda vez que no se destinan a un proceso de combustión, los productos siguientes:
+Para los efectos del artículo [2](articulo-2o.md)o., fracción I, inciso H), numeral 10 de esta Ley, no se consideran comprendidos dentro de la definición de “[otros combustibles fósiles](articulo-3o.md)”, toda vez que no se destinan a un proceso de combustión, los productos siguientes:
 
 I. Parafinas. Descripción técnica. Es el nombre común de un grupo de hidrocarburos. La molécula más simple de la parafina es el metano; en cambio, los miembros más pesados de la serie, como el octano, se presentan como líquidos. Las formas sólidas de parafina, llamadas cera de parafina, provienen de las moléculas más pesadas.
 
@@ -33,7 +33,7 @@ III. Residuo largo.
 
 Descripción técnica. Es un hidrocarburo líquido, su composición es de hidrocarburos mayores a 12 carbonos, con contenido de azufre y residuos de metales pesados como vanadio y níquel.
 
-Usos. Se utiliza como componente en la carga a las refinerías para su transformación y separación en gasolinas y combustibles pesados.
+Usos. Se utiliza como componente en la carga a las refinerías para su transformación y separación en [gasolinas](articulo-3o.md) y combustibles pesados.
 
 IV. Asfaltos.
 
@@ -45,7 +45,7 @@ V. Aceite cíclico ligero.
 
 Descripción técnica. Es un producto de la desintegración catalítica, el cual es útil como componente de aceites para calentamiento.
 
-Usos. Es usualmente empleado como componente de la carga a hidrotratamiento para la producción de diésel.
+Usos. Es usualmente empleado como componente de la carga a hidrotratamiento para la producción de [diésel](articulo-3o.md).
 
 VI. Aceites (lubricantes) básicos.
 
@@ -59,7 +59,7 @@ Usos. Los lubricantes son usados en las bases parafínicas. Los lubricantes mine
 
 VIII. Propileno.
 
-Descripción técnica. Es una olefina, subproducto que se obtiene en las plantas catalíticas de las refinerías y viene mezclado con otros gases, principalmente con propano; también es obtenido en menor proporción como subproducto en las plantas de etileno.
+Descripción técnica. Es una olefina, subproducto que se obtiene en las plantas catalíticas de las refinerías y viene mezclado con otros gases, principalmente con [propano](articulo-3o.md); también es obtenido en menor proporción como subproducto en las plantas de etileno.
 
 Existen tres grados de propileno según su pureza (% de propileno): (i) grado refinería, (ii) grado químico y (iii) grado polímero.
 
@@ -69,7 +69,7 @@ IX. Propileno grado refinería.
 
 Descripción técnica. Es un subproducto que se obtiene en las plantas catalíticas de las refinerías y viene mezclado con otros gases, principalmente con propano. Tiene un grado de pureza de entre 50 y 70%.
 
-Usos. Se utiliza mayormente para obtener polipropileno (plásticos); acrilonitrilo (fibras sintéticas, caucho y resinas termoplásticas); óxido de propileno, intermedio para la obtención del propilenglicol, polipropoxidados y otros productos; derivados oxo, butiraldehído y n-butanol; cumeno, intermedio para la obtención de fenol y acetona; alcohol isopropílico, disolvente intermedio para la obtención de acetona; entre otras aplicaciones.
+Usos. Se utiliza mayormente para obtener polipropileno (plásticos); acrilonitrilo (fibras sintéticas, caucho y resinas termoplásticas); óxido de propileno, intermedio para la obtención del propilenglicol, polipropoxidados y otros productos; derivados oxo, butiraldehído y n-butanol; cumeno, intermedio para la obtención de fenol y acetona; [alcohol](articulo-3o.md) isopropílico, disolvente intermedio para la obtención de acetona; entre otras aplicaciones.
 
 X. Propileno grado químico.
 

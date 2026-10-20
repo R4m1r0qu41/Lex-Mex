@@ -17,7 +17,7 @@ source_sha256: 0574853d06020030188e8aee1eae5dabb2b476ac630cc52be631a48d2b91adbc
 
 # Artículo 171
 
-Las violaciones a los preceptos de esta Ley, sus reglamentos y las disposiciones que de ella emanen serán sancionadas administrativamente por la Secretaría, con una o más de las siguientes sanciones: Párrafo reformado DOF 13-12-1996
+Las violaciones a los preceptos de esta Ley, sus reglamentos y las disposiciones que de ella emanen serán sancionadas administrativamente por la [Secretaría](articulo-3o.md), con una o más de las siguientes sanciones: Párrafo reformado DOF 13-12-1996
 
 I. Multa por el equivalente de treinta a cincuenta mil días de salario mínimo general vigente en el Distrito Federal al momento de imponer la sanción; Fracción reformada DOF 31-12-2001, 01-06-2012
 

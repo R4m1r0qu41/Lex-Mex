@@ -19,7 +19,7 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 Las obligaciones de los titulares de las concesiones a que se refiere este capítulo, serán las siguientes:
 
-I. Utilizar la infraestructura concesionada sólo para los fines de la concesión, sin poderlas utilizar para otros fines sin permiso previo de "La Comisión";
+I. Utilizar la infraestructura concesionada sólo para los fines de la concesión, sin poderlas utilizar para otros fines sin permiso previo de "[La Comisión](articulo-1o.md)";
 
 II. Operar, conservar, mantener, rehabilitar, mejorar y ampliar la infraestructura en los términos del título de concesión;
 

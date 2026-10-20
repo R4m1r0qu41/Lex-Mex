@@ -17,7 +17,7 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 104
 
-El Auditor Interno a que se refiere el Artículo [114](articulo-114.md) de las presentes disposiciones, deberá llevar a cabo, cuando menos una vez al año l, una auditoría de administración de riesgos que contemple, entre otros, los aspectos siguientes:
+El [Auditor Interno](articulo-1.md) a que se refiere el Artículo [114](articulo-114.md) de las presentes disposiciones, deberá llevar a cabo, cuando menos una vez al año l, una auditoría de administración de riesgos que contemple, entre otros, los aspectos siguientes:
 
 I. La implementación de mecanismos de administración de riesgos de conformidad con lo establecido en el presente apartado y en el propio manual de políticas y procedimientos para la administración de riesgos de la Sociedad.
 
@@ -29,4 +29,4 @@ IV. La revisión de las modificaciones en los modelos de medición de riesgos y 
 
 V. El proceso de aprobación de los modelos de medición de riesgos utilizados por el personal de las unidades de negocios y de control de operaciones.
 
-Los resultados de la auditoría a que se refiere el presente artículo, se asentarán en un informe que contendrá, en su caso, recomendaciones para solucionar las irregularidades observadas. Dicho informe se presentará al Consejo de Vigilancia, al Comité de Auditoría, y al Director o Gerente General.
+Los resultados de la auditoría a que se refiere el presente artículo, se asentarán en un informe que contendrá, en su caso, recomendaciones para solucionar las irregularidades observadas. Dicho informe se presentará al [Consejo de Vigilancia](articulo-1.md), al [Comité de Auditoría](articulo-1.md), y al [Director o Gerente General](articulo-1.md).

@@ -15,4 +15,4 @@ source_sha256: 9f964bc5c075d7cf47e5e9df7c2fbe262eb5bd1794de9b230dbd72026a51ae5e
 
 # SEGUNDO
 
-El Reglamento sobre Consumo de Tabaco, permanecerá vigente hasta en tanto se emitan las disposiciones reglamentarias de esta Ley.
+El Reglamento sobre Consumo de [Tabaco](articulo-6.md), permanecerá vigente hasta en tanto se emitan las disposiciones reglamentarias de esta [Ley](articulo-6.md).

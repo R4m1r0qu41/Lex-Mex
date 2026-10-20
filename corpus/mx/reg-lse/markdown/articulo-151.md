@@ -17,4 +17,4 @@ source_sha256: 4bcc982b308b0813469b30db61b53d5a2c41e5a7240b3b1cac2f1aeeb2c00a2e
 
 # Artículo 151
 
-La ejecución de los proyectos para la Ampliación, modernización, rehabilitación y mantenimiento de la Red Nacional de Transmisión y de las Redes Generales de Distribución es responsabilidad de la Empresa Pública del Estado.
+La ejecución de los proyectos para la [Ampliación](articulo-2.md), modernización, rehabilitación y mantenimiento de la Red Nacional de Transmisión y de las Redes Generales de Distribución es responsabilidad de la Empresa Pública del Estado.

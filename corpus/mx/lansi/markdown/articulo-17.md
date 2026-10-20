@@ -19,11 +19,11 @@ source_sha256: 0e34f329befed4474eb7bc1bc195ba13bbe188edfbbabc914a44723e62eb9e44
 
 El área a que se refiere el [artículo anterior](articulo-16.md) será responsable de:
 
-I. Fungir como representante técnico de los Regulados ante la Agencia;
+I. Fungir como representante técnico de los [Regulados](articulo-3o.md) ante la [Agencia](articulo-3o.md);
 
 II. Proponer la adopción de medidas para aplicar las mejores prácticas internacionales en la realización de actividades del Sector;
 
-III. Dar aviso a la Agencia de cualquier Riesgo o Riesgo Crítico que pueda comprometer la Seguridad Industrial, la Seguridad Operativa o el medio ambiente;
+III. Dar aviso a la Agencia de cualquier [Riesgo](articulo-3o.md) o Riesgo Crítico que pueda comprometer la [Seguridad Industrial](articulo-3o.md), la [Seguridad Operativa](articulo-3o.md) o el medio ambiente;
 
 IV. Coordinar los trabajos internos para subsanar las irregularidades o incumplimientos de la normatividad externa e interna aplicable;
 

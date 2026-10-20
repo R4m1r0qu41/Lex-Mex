@@ -17,7 +17,7 @@ source_sha256: 4e276866fce1638948a6daf1a5c0438fa412554f1a6e0381cbdf7cb300e3db75
 
 # Artículo 24
 
-Cada Consejo Asesor funcionará de acuerdo a las necesidades propias del área natural protegida, a través de Subconsejos, y se podrán establecer preferentemente los siguientes:
+Cada [Consejo](articulo-3o.md) Asesor funcionará de acuerdo a las necesidades propias del área natural protegida, a través de Subconsejos, y se podrán establecer preferentemente los siguientes:
 
 I.- Subconsejos Sectoriales o Regionales, los cuales se integrarán con los mismos propósitos de los referidos en fracciones II y III del presente artículo, y se referirán a asuntos relativos a un solo grupo de interés, sector productivo, actividad específica, o bien, atendiendo a las características fisiográficas del área protegida;
 

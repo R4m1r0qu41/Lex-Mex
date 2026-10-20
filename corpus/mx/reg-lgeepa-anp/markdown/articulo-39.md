@@ -17,7 +17,7 @@ source_sha256: 4e276866fce1638948a6daf1a5c0438fa412554f1a6e0381cbdf7cb300e3db75
 
 # Artículo 39
 
-El Registro será público y en él se inscribirán:
+El [Registro](articulo-3o.md) será público y en él se inscribirán:
 
 I. Los decretos a través de los cuales se declare el establecimiento de áreas naturales protegidas de competencia federal;
 
@@ -25,7 +25,7 @@ II. Los instrumentos que modifiquen los decretos señalados en la fracción ante
 
 III. Los documentos en los que consten los resúmenes de los programas de manejo;
 
-IV. Los certificados de predios destinados voluntariamente a la conservación, que la Secretaría hubiera emitido en términos de lo dispuesto en el artículo [77 BIS](../../lgeepa/markdown/articulo-77-BIS.md) de la Ley y este Reglamento. Fracción reformada DOF 21-05-2014 V. Los acuerdos de coordinación que se celebren con el objeto de determinar la forma en que deberán ser administradas y manejadas las áreas naturales protegidas;
+IV. Los certificados de predios destinados voluntariamente a la conservación, que la [Secretaría](articulo-3o.md) hubiera emitido en términos de lo dispuesto en el artículo [77 BIS](../../lgeepa/markdown/articulo-77-BIS.md) de la [Ley](articulo-3o.md) y este Reglamento. Fracción reformada DOF 21-05-2014 V. Los acuerdos de coordinación que se celebren con el objeto de determinar la forma en que deberán ser administradas y manejadas las áreas naturales protegidas;
 
 VI. Las concesiones que otorgue la Secretaría, dentro de las áreas naturales protegidas;
 

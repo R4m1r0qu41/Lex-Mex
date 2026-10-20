@@ -15,4 +15,4 @@ source_sha256: 4b4529ce2b1275ea9363ab78b6e2d504cd1106bc3d10fd70f09246c38b0cd31e
 
 # QUINTO
 
-El Consejo Técnico deberá emitir las políticas y directrices a que se refiere el artículo [8](articulo-8.md) de este Reglamento, dentro de los noventa días posteriores a la entrada en vigor del mismo.
+El [Consejo Técnico](articulo-2.md) deberá emitir las políticas y directrices a que se refiere el artículo [8](articulo-8.md) de este Reglamento, dentro de los noventa días posteriores a la entrada en vigor del mismo.

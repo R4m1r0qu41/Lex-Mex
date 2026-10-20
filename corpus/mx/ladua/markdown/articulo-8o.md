@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf
 source_sha256: 43927095d22ff7bc7780e78132d2160b5050b5f76026b539daec32be09d7341d
 ---
 
+> Título Primero · Capítulo I
+
 # Artículo 8o
 
 Las naves militares o las de los gobiernos extranjeros, de conformidad con los tratados internacionales de que México sea parte, no quedarán sujetas a las disposiciones de esta Ley, excepto cuando se utilicen para efectuar alguna operación comercial.

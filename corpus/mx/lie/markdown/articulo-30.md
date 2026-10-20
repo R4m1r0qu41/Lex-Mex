@@ -17,4 +17,4 @@ source_sha256: 14cd17e37e96e766c8ab74950c71186d579c0ba6cc10ac9e8b06f6194af7d953
 
 # Artículo 30
 
-Por razones de seguridad nacional, la Comisión podrá impedir las adquisiciones por parte de la inversión extranjera.
+Por razones de seguridad nacional, la [Comisión](articulo-2o.md) podrá impedir las adquisiciones por parte de la inversión extranjera.

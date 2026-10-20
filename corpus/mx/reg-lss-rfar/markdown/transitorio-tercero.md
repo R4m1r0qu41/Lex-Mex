@@ -15,4 +15,4 @@ source_sha256: 4b4529ce2b1275ea9363ab78b6e2d504cd1106bc3d10fd70f09246c38b0cd31e
 
 # TERCERO
 
-El Reglamento para la Administración e Inversión de los Recursos Financieros del Instituto Mexicano del Seguro Social, quedará abrogado a partir de le fecha de entrada en vigor del Acuerdo a que se refiere el artículo inmediato anterior.
+El Reglamento para la Administración e Inversión de los Recursos Financieros del [Instituto](../../lss/markdown/articulo-5-A.md) Mexicano del Seguro Social, quedará abrogado a partir de le fecha de entrada en vigor del Acuerdo a que se refiere el artículo inmediato anterior.

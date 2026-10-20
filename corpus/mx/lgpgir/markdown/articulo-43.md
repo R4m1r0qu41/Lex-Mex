@@ -17,4 +17,4 @@ source_sha256: b34326588bd6e7519e33411d3658239e3aefb56cef0fae5d775bc894af64a565
 
 # Artículo 43
 
-Las personas que generen o manejen residuos peligrosos deberán notificarlo a la Secretaría o a las autoridades correspondientes de los gobiernos locales, de acuerdo con lo previsto en esta Ley y las disposiciones que de ella se deriven.
+Las personas que generen o manejen residuos peligrosos deberán notificarlo a la [Secretaría](articulo-5.md) o a las autoridades correspondientes de los gobiernos locales, de acuerdo con lo previsto en esta [Ley](articulo-5.md) y las disposiciones que de ella se deriven.

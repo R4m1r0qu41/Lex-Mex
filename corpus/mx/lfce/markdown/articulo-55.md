@@ -17,7 +17,7 @@ source_sha256: d0021bbef2e0c3251d6efdea2c1efd9959ff3f02df4bcd1fc37c1ee7826a72ba
 
 # Artículo 55
 
-Las prácticas serán ilícitas y se sancionarán si son demostrados los supuestos de las fracciones anteriores, salvo que el Agente Económico demuestre que generan ganancias en eficiencia e inciden favorablemente en el proceso de competencia económica y libre concurrencia superando sus posibles efectos anticompetitivos, y resultan en una mejora del bienestar del consumidor. Entre las ganancias en eficiencia se podrán incluir alguna de las siguientes:
+Las prácticas serán ilícitas y se sancionarán si son demostrados los supuestos de las fracciones anteriores, salvo que el [Agente Económico](articulo-3.md) demuestre que generan ganancias en eficiencia e inciden favorablemente en el proceso de competencia económica y libre concurrencia superando sus posibles efectos anticompetitivos, y resultan en una mejora del bienestar del consumidor. Entre las ganancias en eficiencia se podrán incluir alguna de las siguientes:
 
 a) La introducción de bienes o servicios nuevos;
 

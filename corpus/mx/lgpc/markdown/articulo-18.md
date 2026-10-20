@@ -19,6 +19,6 @@ source_sha256: d8dd1de3627b899bb4faf31c2812c3d5f14f7108be153d5aa8dd549b9136184a
 
 Es responsabilidad de los gobiernos de las entidades federativas, conforme a su disponibilidad presupuestaria, la contratación de seguros y demás instrumentos de administración y transferencia de riesgos para la cobertura de daños causados por un desastre natural en los bienes e infraestructura de sus entidades federativas. Párrafo reformado DOF 19-01-2018
 
-Para el cumplimiento de esta obligación, las entidades federativas podrán solicitar que los instrumentos de administración y transferencia de riesgos que contraten sean complementados con los Instrumentos Financieros de Gestión de Riesgos Federales conforme a lo establecido en los lineamientos que para tal efecto se emitan.
+Para el cumplimiento de esta obligación, las entidades federativas podrán solicitar que los instrumentos de administración y transferencia de riesgos que contraten sean complementados con los [Instrumentos Financieros de Gestión de Riesgos](articulo-2.md) Federales conforme a lo establecido en los lineamientos que para tal efecto se emitan.
 
 Para acceder a los apoyos referidos en el párrafo anterior, los gobiernos de las entidades federativas deberán acreditar que en el proceso de contratación del instrumento seleccionado se cumplieron con los principios de economía, eficacia, eficiencia, imparcialidad, honradez y transparencia que aseguren las mejores condiciones para el Estado. Párrafo reformado DOF 19-01-2018

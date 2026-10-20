@@ -17,4 +17,4 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 # Artículo 201
 
-Peticiones administrativas Las personas adolescentes a quienes se les haya dictado la medida de internamiento preventivo o internamiento y las personas legitimadas por esta Ley podrán formular peticiones administrativas ante el Centro de Internamiento en contra de los hechos, actos u omisiones respecto de las condiciones de internamiento.
+Peticiones administrativas Las personas adolescentes a quienes se les haya dictado la medida de internamiento preventivo o internamiento y las personas legitimadas por esta [Ley](articulo-3.md) podrán formular peticiones administrativas ante el Centro de Internamiento en contra de los hechos, actos u omisiones respecto de las condiciones de internamiento.

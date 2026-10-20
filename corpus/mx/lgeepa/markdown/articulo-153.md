@@ -19,7 +19,7 @@ source_sha256: 0574853d06020030188e8aee1eae5dabb2b476ac630cc52be631a48d2b91adbc
 
 La importación o exportación de materiales o residuos peligrosos se sujetará a las restricciones que establezca el Ejecutivo Federal, de conformidad con lo dispuesto en la Ley de Comercio Exterior. En todo caso deberán observarse las siguientes disposiciones: Párrafo reformado DOF 13-12-1996
 
-I. Corresponderá a la Secretaría el control y la vigilancia ecológica de los materiales o residuos peligrosos importados o a exportarse, aplicando las medidas de seguridad que correspondan, sin perjuicio de lo que sobre este particular prevé la Ley Aduanera;
+I. Corresponderá a la [Secretaría](articulo-3o.md) el control y la vigilancia ecológica de los materiales o residuos peligrosos importados o a exportarse, aplicando las medidas de seguridad que correspondan, sin perjuicio de lo que sobre este particular prevé la Ley Aduanera;
 
 II.- Únicamente podrá autorizarse la importación de materiales o residuos peligrosos para su tratamiento, reciclaje o reuso, cuando su utilización sea conforme a las leyes, reglamentos, normas oficiales mexicanas y demás disposiciones vigentes; Fracción reformada DOF 13-12-1996
 

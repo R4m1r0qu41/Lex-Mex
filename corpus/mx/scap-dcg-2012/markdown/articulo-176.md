@@ -18,4 +18,4 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 176
 
-Sin perjuicio de lo establecido en el Artículo [161](articulo-161.md) de las presentes disposiciones, el manual de crédito deberá ser revisado y actualizado por lo menos una vez al año por el Director o Gerente General en conjunto con el Comité de Crédito y, en su caso, las modificaciones deberán ser sometidas a la aprobación del Consejo de Administración.
+Sin perjuicio de lo establecido en el Artículo [161](articulo-161.md) de las presentes disposiciones, el manual de crédito deberá ser revisado y actualizado por lo menos una vez al año por el [Director o Gerente General](articulo-1.md) en conjunto con el [Comité de Crédito](articulo-1.md) y, en su caso, las modificaciones deberán ser sometidas a la aprobación del [Consejo de Administración](articulo-1.md).

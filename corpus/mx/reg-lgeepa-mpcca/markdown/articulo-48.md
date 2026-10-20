@@ -21,4 +21,4 @@ Si una vez impuestas las sanciones a que se refieren los artículos anteriores y
 
 En caso de reincidencia, el monto de la multa podrá ser hasta por dos veces el monto originalmente impuesto, sin exceder del doble del máximo permitido.
 
-En los casos en que el infractor solucionare la causa que dio origen al desequilibrio ecológico o deterioro al ambiente, la Secretaría podrá modificar o revocar la sanción impuesta.
+En los casos en que el infractor solucionare la causa que dio origen al desequilibrio ecológico o deterioro al ambiente, la [Secretaría](articulo-6o.md) podrá modificar o revocar la sanción impuesta.

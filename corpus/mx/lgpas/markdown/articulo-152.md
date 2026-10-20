@@ -17,6 +17,6 @@ source_sha256: 160e5e85efddb1749a79f6b154af31711a9b31a5e32bace3c07e2859c2620ecf
 
 # Artículo 152
 
-El procedimiento para la selección de los acreedores al premio, así como las demás prevenciones que sean necesarias, se establecerá por acuerdo que emita la Secretaría.
+El procedimiento para la selección de los acreedores al premio, así como las demás prevenciones que sean necesarias, se establecerá por acuerdo que emita la [Secretaría](articulo-4o.md).
 
 Artículo adicionado DOF 24-04-2018

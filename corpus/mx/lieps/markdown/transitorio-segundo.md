@@ -17,7 +17,7 @@ source_sha256: 32639ede8448f91e6ddde556d4b8bceaf349b904bc21631f06e1c8a7a3d416f4
 
 Al entrar en vigor la presente Ley, quedarán abrogadas las disposiciones siguientes:
 
-I.- Ley del Impuesto sobre Venta de Gasolina.
+I.- Ley del Impuesto sobre Venta de [Gasolina](articulo-3o.md).
 
 II.- Ley del Impuesto sobre Seguros.
 

@@ -17,6 +17,6 @@ source_sha256: 0574853d06020030188e8aee1eae5dabb2b476ac630cc52be631a48d2b91adbc
 
 # Artículo 85
 
-Cuando así se requiera para la protección de especies, habitats, ecosistemas, la economía o la salud pública, la Secretaría promoverá ante la Secretaría de Economía el establecimiento de medidas de regulación o restricción, en forma total o parcial, a la exportación o importación de especímenes de la flora y fauna silvestres nativos o exóticos e impondrá las restricciones necesarias para la circulación o tránsito por el territorio nacional de especies de la flora y fauna silvestres procedentes del y destinadas al extranjero.
+Cuando así se requiera para la protección de especies, habitats, ecosistemas, la economía o la salud pública, la [Secretaría](articulo-3o.md) promoverá ante la Secretaría de Economía el establecimiento de medidas de regulación o restricción, en forma total o parcial, a la exportación o importación de especímenes de la flora y fauna silvestres nativos o exóticos e impondrá las restricciones necesarias para la circulación o tránsito por el territorio nacional de especies de la flora y fauna silvestres procedentes del y destinadas al extranjero.
 
 Artículo reformado DOF 06-04-2010, 09-04-2012

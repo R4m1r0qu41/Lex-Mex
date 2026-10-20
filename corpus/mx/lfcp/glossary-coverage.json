@@ -1,0 +1,12 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-3",
+  "instrument_id": "urn:lex-mx:federal:statute:lfcp",
+  "source_sha256": "471480d2f55997cdb7b7d372e4f1e1c9a7c72c34cbb1e4186299dc35ad6e2535",
+  "extracted_text_sha256": "4479a53887b17217dbf2d086484916f5c70b8b820286c919f5706a64369f0f7c",
+  "status": "none_detected",
+  "glossaries": [],
+  "imports": [],
+  "term_count": 0,
+  "usage_count": 0
+}

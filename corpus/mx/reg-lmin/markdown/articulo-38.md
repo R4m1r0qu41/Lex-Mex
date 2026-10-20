@@ -17,4 +17,4 @@ source_sha256: 4d25bcb022ab62a24462e11a230c9554c0120012913ab4599cd3ec1b2b275c1d
 
 # Artículo 38
 
-En caso de que no existan personas registradas o que ninguna de ellas ofrezca una contraprestación económica, prima por descubrimiento o propuesta económica que supere el monto mínimo establecido conforme al artículo [34](articulo-34.md) de este Reglamento, la Secretaría declarará desierto el concurso y procederá en los términos del segundo párrafo del artículo [14](../../lmin/markdown/articulo-14.md) de la Ley.
+En caso de que no existan personas registradas o que ninguna de ellas ofrezca una contraprestación económica, prima por descubrimiento o propuesta económica que supere el monto mínimo establecido conforme al artículo [34](articulo-34.md) de este Reglamento, la [Secretaría](articulo-1o.md) declarará desierto el concurso y procederá en los términos del segundo párrafo del artículo [14](../../lmin/markdown/articulo-14.md) de la [Ley](articulo-1o.md).

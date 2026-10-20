@@ -17,7 +17,7 @@ source_sha256: b3c906475b455176de73da17f4f93a73f295965dc9bcca854b48417c7d4d3cfc
 
 # Artículo 81
 
-Los sujetos que deben presentar a la Secretaría correspondiente el aviso respectivo, son los siguientes:
+Los sujetos que deben presentar a la [Secretaría](articulo-3.md) correspondiente el aviso respectivo, son los siguientes:
 
 I. En los casos a que se refieren las fracciones I, II y III del artículo [79](articulo-79.md), el responsable de la comisión interna de bioseguridad de la institución, centro o empresa en donde se realicen las actividades de enseñanza e investigación científica y tecnológica en las que se genere y produzca el OGM de que se trate;
 

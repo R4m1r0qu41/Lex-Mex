@@ -13,10 +13,10 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPC.pdf
 source_sha256: 7fea623841fd6e05e8c0d01d2cf09f85b0b8e58ba4d9e4f6711f8bad1f448e55
 ---
 
-> Capítulo VIII BIS
+> Capítulo XV
 
 # Artículo 135
 
-En contra de las resoluciones de la Procuraduría dictadas con fundamento en las disposiciones de esta ley y demás derivadas de ella, se podrá interponer recurso de revisión, en los términos de la Ley Federal de Procedimiento Administrativo.
+En contra de las resoluciones de la [Procuraduría](articulo-2.md) dictadas con fundamento en las disposiciones de esta ley y demás derivadas de ella, se podrá interponer recurso de revisión, en los términos de la Ley Federal de Procedimiento Administrativo.
 
 Artículo reformado DOF 04-02-2004

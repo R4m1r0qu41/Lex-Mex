@@ -17,4 +17,4 @@ source_sha256: 7df3d678efda2306b68d3c0f5ca0e3e92b9066d5f773128f4ae19cb26bf44fff
 
 # Artículo 48
 
-Las personas titulares de un Permiso de Distribución de Biocombustibles son responsables de medir y conservar las características, calidad y cantidad del Biocombustible que distribuyen, desde su recepción y hasta la entrega final, de conformidad con las Normas Oficiales Mexicanas y la normatividad aplicable. De igual forma, queda prohibido Alterar o Adulterar los Biocombustibles que distribuyen.
+Las personas titulares de un Permiso de Distribución de Biocombustibles son responsables de medir y conservar las características, calidad y cantidad del Biocombustible que distribuyen, desde su recepción y hasta la entrega final, de conformidad con las Normas Oficiales Mexicanas y la normatividad aplicable. De igual forma, queda prohibido [Alterar o Adulterar](articulo-3.md) los Biocombustibles que distribuyen.

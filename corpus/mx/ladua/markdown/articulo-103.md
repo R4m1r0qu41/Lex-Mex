@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf
 source_sha256: 43927095d22ff7bc7780e78132d2160b5050b5f76026b539daec32be09d7341d
 ---
 
-> Capítulo II · Sección TERCERA
+> Título Cuarto · Capítulo II
 
 # Artículo 103
 
@@ -26,7 +26,3 @@ En ambos casos, antes de autorizarse la entrega de las mercancías que retornan 
 No podrán acogerse a lo establecido en este artículo, las exportaciones temporales que se conviertan en definitivas de conformidad con el artículo [114](articulo-114.md), segundo párrafo de esta Ley. Párrafo adicionado DOF 31-12-1998
 
 Las maquiladoras o empresas con programa de exportación autorizado por la Secretaría de Economía que hubieran retornado al extranjero los productos resultantes de los procesos de transformación, elaboración o reparación, podrán retornar dichos productos a territorio nacional cuando hayan sido rechazados por las razones señaladas en este artículo, al amparo de su programa. En este caso, únicamente se pagará el impuesto general de importación que corresponda al valor de las materias primas o mercancías extranjeras que originalmente fueron importadas temporalmente al amparo del programa, de acuerdo con los porcentajes de incorporación en el producto que fue retornado, cuando se efectúe el cambio de régimen a la importación definitiva. El Servicio de Administración Tributaria establecerá mediante reglas las mercancías que pueden sujetarse a lo dispuesto en este párrafo y los requisitos de control. Párrafo adicionado DOF 30-12-2002
-
-Capítulo III Temporales de importación y de exportación
-
-Sección Primera Importaciones temporales I Disposiciones generales

@@ -17,6 +17,6 @@ source_sha256: 269e72195414406bcbd3e90ac40ec26e031a9ea519316c44ee30bdfdf3163059
 
 # Artículo 21
 
-El administrador tendrá independencia respecto del propietario, los órganos de administración, asambleas de accionistas, de socios o partícipes, así como de cualquier otro órgano de las empresas que se le otorguen en administración. El administrador responderá de su actuación únicamente ante el Instituto y, en el caso de que incurra en responsabilidad penal, se estará a las disposiciones aplicables.
+El administrador tendrá independencia respecto del propietario, los órganos de administración, asambleas de accionistas, de socios o partícipes, así como de cualquier otro órgano de las empresas que se le otorguen en administración. El administrador responderá de su actuación únicamente ante el [Instituto](articulo-2o.md) y, en el caso de que incurra en responsabilidad penal, se estará a las disposiciones aplicables.
 
 Artículo reformado DOF 09-08-2019

@@ -17,4 +17,4 @@ source_sha256: 4195c0740ad46978a8b0f2d43f0ac6d77e46b0216bd6f756950b1a050044ce98
 
 # Artículo 44
 
-SENEAM debe notificar al Centro y a la comandancia del aeropuerto correspondiente, sobre aquellas aeronaves que no se apeguen a las condiciones de operación dentro de cada ADIZ, previo a su ingreso al Espacio Aéreo Mexicano.
+[SENEAM](articulo-4.md) debe notificar al Centro y a la comandancia del aeropuerto correspondiente, sobre aquellas aeronaves que no se apeguen a las condiciones de operación dentro de cada [ADIZ](articulo-4.md), previo a su ingreso al Espacio Aéreo Mexicano.

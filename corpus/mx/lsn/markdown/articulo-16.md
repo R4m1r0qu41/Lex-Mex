@@ -17,4 +17,4 @@ source_sha256: 7b3cf7a0ff59f76503a97a535457c4a7dd3b1305e7a36f4fca82bd661eab1168
 
 # Artículo 16
 
-El Consejo se reunirá a convocatoria de su Presidente con la periodicidad que éste determine. En todo caso deberá reunirse, cuando menos, bimestralmente.
+El [Consejo](articulo-6.md) se reunirá a convocatoria de su Presidente con la periodicidad que éste determine. En todo caso deberá reunirse, cuando menos, bimestralmente.

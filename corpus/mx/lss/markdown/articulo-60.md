@@ -17,6 +17,6 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 60
 
-Los certificados de incapacidad temporal que expida el Instituto se sujetarán a lo que establezca el reglamento relativo.
+Los certificados de incapacidad temporal que expida el [Instituto](articulo-5-A.md) se sujetarán a lo que establezca el reglamento relativo.
 
 El pago de los subsidios se hará por períodos vencidos no mayores de siete días.

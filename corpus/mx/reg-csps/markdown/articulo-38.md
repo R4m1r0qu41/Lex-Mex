@@ -17,4 +17,4 @@ source_sha256: 70464807d63da08244e495f2ff0ac30b12b30119926b84cedc7930397fcb80ef
 
 # Artículo 38
 
-Los propietarios o responsables de los establecimientos destinados al proceso de los productos deberán dar aviso inmediato a la Secretaría de cualquier anomalía sanitaria que detecten en el mismo o en los productos que signifique un riesgo potencial para la salud, y colaborarán en las medidas de seguridad necesarias que se apliquen.
+Los propietarios o responsables de los establecimientos destinados al proceso de los productos deberán dar aviso inmediato a la [Secretaría](articulo-2o.md) de cualquier anomalía sanitaria que detecten en el mismo o en los productos que signifique un riesgo potencial para la salud, y colaborarán en las medidas de seguridad necesarias que se apliquen.

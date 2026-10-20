@@ -20,5 +20,12 @@
   },
   "allow_article_gaps": true,
   "formal_publication_urls": {},
-  "parent_instrument_id": "urn:lex-mx:federal:statute:lgcc"
+  "parent_instrument_id": "urn:lex-mx:federal:statute:lgcc",
+  "glossary": {
+    "provision_suffix": ":article:2",
+    "style": "auto_whole",
+    "additive_to": [
+      "urn:lex-mx:federal:statute:lgcc:article:3"
+    ]
+  }
 }

@@ -20,7 +20,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 Para efectos de la presente Sección se entenderá por:
 
-I. Administración de riesgos, al conjunto de objetivos, políticas, procedimientos y acciones que se implementen para identificar, medir, vigilar, limitar, controlar, informar y revelar los riesgos a que se encuentren expuestas las Sociedades Financieras Populares;
+I. Administración de riesgos, al conjunto de objetivos, políticas, procedimientos y acciones que se implementen para identificar, medir, vigilar, limitar, controlar, informar y revelar los riesgos a que se encuentren expuestas las [Sociedades](articulo-1.md) Financieras Populares;
 
 II. Riesgo de crédito o crediticio, a la pérdida potencial por la falta de pago de un acreditado o contraparte en las operaciones que efectúen las Sociedades Financieras Populares;
 

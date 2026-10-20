@@ -25,7 +25,7 @@ II. El propósito de los convenios o acuerdos deberá ser congruente con la pol�
 
 III. Se describirán los bienes y recursos que aporten las partes esclareciendo cuál será su destino específico y su forma de administración, para lo cual la Federación contribuirá al fortalecimiento de sus capacidades financieras e institucionales;
 
-IV. Se determinarán los medios, procedimientos y recursos necesarios que aporten las Secretarías competentes, con la finalidad de que los gobiernos de las entidades federativas puedan realizar las acciones y las actividades objeto de los convenios o acuerdos de coordinación;
+IV. Se determinarán los medios, procedimientos y recursos necesarios que aporten las [Secretarías](articulo-3.md) competentes, con la finalidad de que los gobiernos de las entidades federativas puedan realizar las acciones y las actividades objeto de los convenios o acuerdos de coordinación;
 
 V. Se especificará la vigencia del convenio o acuerdo, sus formas de terminación y de solución de controversias y, en su caso, de prórroga;
 

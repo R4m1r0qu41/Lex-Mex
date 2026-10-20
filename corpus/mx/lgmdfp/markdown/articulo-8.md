@@ -17,6 +17,6 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Artículo 8
 
-Las autoridades que administran las herramientas del Sistema Nacional deben tomar en cuenta el interés superior de la niñez, y deben establecer la información segmentada por género, edad, situación de vulnerabilidad, riesgo o discriminación.
+Las autoridades que administran las herramientas del [Sistema Nacional](articulo-4.md) deben tomar en cuenta el interés superior de la niñez, y deben establecer la información segmentada por género, edad, situación de vulnerabilidad, riesgo o discriminación.
 
 La divulgación que hagan o soliciten las autoridades responsables en medios de telecomunicación sobre la información de una persona menor de 18 años de edad desaparecida, se hará de conformidad con las disposiciones aplicables.

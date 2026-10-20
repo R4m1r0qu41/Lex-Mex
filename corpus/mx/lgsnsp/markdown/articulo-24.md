@@ -17,4 +17,4 @@ source_sha256: 7f01ee1b1deb901a23976507adccbddefbea50b0fc9a4ddceaf1225d711d50d0
 
 # Artículo 24
 
-Las Conferencias Nacionales podrán celebrar sesiones conjuntas a través de sus presidencias o mediante las personas representantes designadas para tales efectos, con la finalidad de proponer acuerdos, formular peticiones, recomendaciones y exhortos, en el ámbito de sus competencias. Sección I Conferencia Nacional de Secretarías de Seguridad Pública
+Las [Conferencias Nacionales](articulo-4.md) podrán celebrar sesiones conjuntas a través de sus presidencias o mediante las personas representantes designadas para tales efectos, con la finalidad de proponer acuerdos, formular peticiones, recomendaciones y exhortos, en el ámbito de sus competencias. Sección I Conferencia Nacional de [Secretarías](articulo-4.md) de Seguridad Pública

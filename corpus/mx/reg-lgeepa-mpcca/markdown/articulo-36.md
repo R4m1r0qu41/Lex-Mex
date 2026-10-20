@@ -17,4 +17,4 @@ source_sha256: cf47ab93fdea40d2b3e41b58784df62f89dd90b4482dd3b7f25adc7f6957036b
 
 # Artículo 36
 
-La Secretaría podrá promover ante la Secretaría de Comunicaciones y Transportes, la suspensión o, en su caso, la cancelación del permiso para circular por las vías generales de comunicación, de aquellos vehículos de transporte público federal terrestre que, de manera reincidente, violen las disposiciones del Reglamento y las normas técnicas ecológicas, independientemente de que se apliquen las sanciones que procedan.
+La [Secretaría](articulo-6o.md) podrá promover ante la Secretaría de Comunicaciones y Transportes, la suspensión o, en su caso, la cancelación del permiso para circular por las vías generales de comunicación, de aquellos vehículos de transporte público federal terrestre que, de manera reincidente, violen las disposiciones del [Reglamento](articulo-6o.md) y las normas técnicas ecológicas, independientemente de que se apliquen las sanciones que procedan.

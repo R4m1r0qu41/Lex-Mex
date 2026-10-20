@@ -17,4 +17,4 @@ source_sha256: 7679afbbf32749e0c0bacab72644d41fc6ccdeeab3a2f25dfae8d26a065de01e
 
 # Artículo 65
 
-El Ejecutivo Federal podrá otorgar estímulos fiscales para fomentar los Proyectos para el desarrollo con bienestar, en términos de la normativa aplicable.
+El Ejecutivo Federal podrá otorgar estímulos fiscales para fomentar los [Proyectos para el desarrollo con bienestar](articulo-4.md), en términos de la normativa aplicable.

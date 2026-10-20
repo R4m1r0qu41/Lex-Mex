@@ -17,4 +17,4 @@ source_sha256: 70464807d63da08244e495f2ff0ac30b12b30119926b84cedc7930397fcb80ef
 
 # Artículo 13
 
-Para efectos de control sanitario de los productos y materias primas, la Secretaría, por escrito, podrá requerir a los interesados las especificaciones biológicas, químicas y físicas de aquéllos, así como las técnicas de carácter general del proceso, las cuales podrán ser corroboradas por la propia Secretaría, la que garantizará la confidencialidad de los datos.
+Para efectos de control sanitario de los productos y materias primas, la [Secretaría](articulo-2o.md), por escrito, podrá requerir a los interesados las especificaciones biológicas, químicas y físicas de aquéllos, así como las técnicas de carácter general del proceso, las cuales podrán ser corroboradas por la propia Secretaría, la que garantizará la confidencialidad de los datos.

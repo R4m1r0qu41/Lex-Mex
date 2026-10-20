@@ -17,4 +17,4 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Artículo 141
 
-Cuando durante la búsqueda o investigación exista un cambio de fuero, las Víctimas deben seguir recibiendo las medidas de ayuda, asistencia y atención por la Comisión de Atención a Víctimas que le atiende al momento del cambio, en tanto se establece el mecanismo de atención a Víctimas del fuero que corresponda.
+Cuando durante la búsqueda o investigación exista un cambio de fuero, las [Víctimas](articulo-4.md) deben seguir recibiendo las medidas de ayuda, asistencia y atención por la Comisión de Atención a Víctimas que le atiende al momento del cambio, en tanto se establece el mecanismo de atención a Víctimas del fuero que corresponda.

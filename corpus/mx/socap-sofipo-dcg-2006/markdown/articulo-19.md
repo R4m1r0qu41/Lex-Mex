@@ -18,6 +18,6 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 19
 
-La Federación correspondiente, en su dictamen favorable respecto de la procedencia de la solicitud para organizarse y operar como Sociedad Financiera Popular, propondrá a la Comisión, el Nivel de Operaciones que podría asignarse a la probable entidad, de conformidad con lo previsto en el artículo 9o de la Ley.
+La [Federación](articulo-1.md) correspondiente, en su dictamen favorable respecto de la procedencia de la solicitud para organizarse y operar como [Sociedad](articulo-1.md) Financiera Popular, propondrá a la Comisión, el Nivel de Operaciones que podría asignarse a la probable entidad, de conformidad con lo previsto en el artículo 9o de la [Ley](articulo-1.md).
 
 Para emitir dicha propuesta, la Federación deberá considerar, al menos, el monto de los activos totales con los que contará la sociedad solicitante, netos de sus correspondientes depreciaciones y estimaciones. Lo anterior, sin perjuicio del ámbito geográfico en que pretenda operar y el número estimado de Clientes.

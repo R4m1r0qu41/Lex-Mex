@@ -17,4 +17,4 @@ source_sha256: 0305c9a7ba90c8d0bbe973be2a134a650976ce5d25c304458cb0fd5401b8ddde
 
 # Artículo 9
 
-La consulta al Padrón se podrá realizar de manera pública a través del portal de Internet que la Secretaría, por conducto de la Comisión, desarrolle para tal efecto. Ésta protegerá los datos personales, de acuerdo con la legislación vigente en la materia.
+La consulta al [Padrón](articulo-3.md) se podrá realizar de manera pública a través del portal de Internet que la [Secretaría](articulo-3.md), por conducto de la [Comisión](articulo-3.md), desarrolle para tal efecto. Ésta protegerá los datos personales, de acuerdo con la legislación vigente en la materia.

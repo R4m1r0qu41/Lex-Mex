@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Único · Capítulo III
+
 # Artículo 1029
 
 El derecho de designar los bienes que han de embargarse corresponde a la persona deudora; y sólo que ésta se rehúse a hacerlo o que esté ausente o desaparecido, deberá ejercerlo la persona actora o su representante legal con facultad expresa para ello, o bien manifestar que se reserva el derecho para hacerlo con posterioridad. El orden que debe guardarse para los embargos es el siguiente:

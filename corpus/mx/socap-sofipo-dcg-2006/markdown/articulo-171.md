@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 171
 
-Las Sociedades Financieras Populares deberán contar con informes o reportes internos que se basen en datos íntegros, precisos y oportunos relacionados con la administración de sus riesgos y que contengan como mínimo:
+Las [Sociedades](articulo-1.md) Financieras Populares deberán contar con informes o reportes internos que se basen en datos íntegros, precisos y oportunos relacionados con la administración de sus riesgos y que contengan como mínimo:
 
 I. La exposición al riesgo consolidada, por línea y unidad de negocio y por tipo de riesgo de la Sociedad Financiera Popular;
 

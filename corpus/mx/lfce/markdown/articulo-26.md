@@ -17,4 +17,4 @@ source_sha256: d0021bbef2e0c3251d6efdea2c1efd9959ff3f02df4bcd1fc37c1ee7826a72ba
 
 # Artículo 26
 
-La Autoridad Investigadora es el órgano de la Comisión encargado de desahogar la etapa de investigación y es parte en el procedimiento seguido en forma de juicio. En el ejercicio de sus atribuciones, la Autoridad Investigadora estará dotada de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones.
+La [Autoridad Investigadora](articulo-3.md) es el órgano de la [Comisión](articulo-3.md) encargado de desahogar la etapa de investigación y es parte en el procedimiento seguido en forma de juicio. En el ejercicio de sus atribuciones, la Autoridad Investigadora estará dotada de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones.

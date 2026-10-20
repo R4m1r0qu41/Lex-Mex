@@ -19,4 +19,4 @@ source_sha256: 8e270686b885035488bfe310b0b42bb40e7154431794227ebe212dd7dc12e46a
 
 En su caso, el conciliador prestará al síndico todo el apoyo necesario para que tome posesión de su encargo, y le entregará toda la información sobre el [Comerciante](articulo-4o.md) que haya obtenido en el ejercicio de sus funciones y, en su caso los bienes del Comerciante que haya administrado.
 
-El conciliador deberá proporcionar al síndico un listado actualizado de todas las acciones promovidas y los juicios seguidos por el Comerciante, y las promovidas y los seguidos contra él, a que hace referencia el artículo 84 de la Ley. Párrafo adicionado DOF 10-01-2014
+El conciliador deberá proporcionar al síndico un listado actualizado de todas las acciones promovidas y los juicios seguidos por el Comerciante, y las promovidas y los seguidos contra él, a que hace referencia el artículo 84 de la [Ley](articulo-4o.md). Párrafo adicionado DOF 10-01-2014

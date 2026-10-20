@@ -17,4 +17,4 @@ source_sha256: e81e23876bd08da81cb8392af7054f6187ad043ca8f965777b455f9d12554e8b
 
 # Artículo 83
 
-Las Autoridades garantes, en su ámbito de competencia, vigilarán que las obligaciones de transparencia que publiquen los sujetos obligados cumplan con lo dispuesto en esta Ley.
+Las [Autoridades garantes](articulo-3.md), en su ámbito de competencia, vigilarán que las obligaciones de transparencia que publiquen los sujetos obligados cumplan con lo dispuesto en esta [Ley](articulo-3.md).

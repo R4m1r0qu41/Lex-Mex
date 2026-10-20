@@ -17,7 +17,7 @@ source_sha256: 39d132d9b54587ce0636972dfe474936d152717e7d656864e160a637347628c6
 
 # Artículo 12
 
-Las personas físicas o morales deben registrar cada actividad regulada que realicen en el Sistema Integral de Sustancias, en un plazo que no exceda de veinticuatro horas, contadas a partir de que lleven a cabo la actividad. Para tal efecto, deben proporcionar los siguientes datos:
+Las personas físicas o morales deben registrar cada actividad regulada que realicen en el [Sistema Integral de Sustancias](articulo-2.md), en un plazo que no exceda de veinticuatro horas, contadas a partir de que lleven a cabo la actividad. Para tal efecto, deben proporcionar los siguientes datos:
 
 I. Identidad de las personas físicas o morales con las que se efectúe;
 

@@ -17,4 +17,4 @@ source_sha256: 4bcc982b308b0813469b30db61b53d5a2c41e5a7240b3b1cac2f1aeeb2c00a2e
 
 # Artículo 210
 
-El monto destinado a Beneficios Sociales Compartidos señalado en la fracción IV del artículo [208](articulo-208.md) de este reglamento, debe ser igual o mayor al monto asignado a la atención de los Impactos Sociales identificados en la Manifestación de Impacto Social del Sector Energético señalados en el artículo [207](articulo-207.md) de este reglamento.
+El monto destinado a [Beneficios Sociales Compartidos](articulo-2.md) señalado en la fracción IV del artículo [208](articulo-208.md) de este reglamento, debe ser igual o mayor al monto asignado a la atención de los [Impactos Sociales](articulo-2.md) identificados en la Manifestación de Impacto Social del Sector Energético señalados en el artículo [207](articulo-207.md) de este reglamento.

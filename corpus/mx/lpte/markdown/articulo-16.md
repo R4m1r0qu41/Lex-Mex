@@ -17,4 +17,4 @@ source_sha256: c24aa3a57883383635d5271683dd76e561f21852328f0e89f6bf1c2a09aa2d41
 
 # Artículo 16
 
-El Consejo es el órgano de coordinación y seguimiento de la planeación energética nacional, establecida a través de los instrumentos de planeación, así como de la mejora de la información energética requerida para dicha planeación. El Consejo se debe reunir al menos dos veces al año y cuando se requiera, para los fines de sus atribuciones. La Secretaría debe emitir los lineamientos de operación del Consejo.
+El [Consejo](articulo-3.md) es el órgano de coordinación y seguimiento de la planeación energética nacional, establecida a través de los instrumentos de planeación, así como de la mejora de la información energética requerida para dicha planeación. El Consejo se debe reunir al menos dos veces al año y cuando se requiera, para los fines de sus atribuciones. La [Secretaría](articulo-3.md) debe emitir los lineamientos de operación del Consejo.

@@ -23,7 +23,7 @@ I. El acceso a la subasta será público; II. A la hora señalada para la subast
 
 III. De no haberse recibido ninguna postura válida, se declarará desierta la subasta;
 
-IV. Quien presida la subasta leerá en voz alta el monto de cada una de las posturas admitidas, haciendo mención expresa de aquellas realizadas por personas que tengan un vínculo familiar o patrimonial con el [Comerciante](articulo-4o.md) en términos de esta Ley;
+IV. Quien presida la subasta leerá en voz alta el monto de cada una de las posturas admitidas, haciendo mención expresa de aquellas realizadas por personas que tengan un vínculo familiar o patrimonial con el [Comerciante](articulo-4o.md) en términos de esta [Ley](articulo-4o.md);
 
 V. Terminada la lectura, quien presida la subasta indicará la postura con el mayor precio por los bienes objeto de la subasta y preguntará si alguno de los presentes desea mejorarla. Si alguno la mejora dentro de un plazo de quince minutos, preguntará nuevamente si algún otro postor se interesa en mejorarla, y así sucesivamente con respecto a las pujas que se hagan, y
 

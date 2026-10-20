@@ -17,4 +17,4 @@ source_sha256: e81e23876bd08da81cb8392af7054f6187ad043ca8f965777b455f9d12554e8b
 
 # Artículo 86
 
-Las acciones de vigilancia a que se refiere este Capítulo se realizarán de manera oficiosa por las Autoridades garantes, a través de la revisión aleatoria o muestral y periódica al portal de Internet de los sujetos obligados o a la Plataforma Nacional.
+Las acciones de vigilancia a que se refiere este Capítulo se realizarán de manera oficiosa por las [Autoridades garantes](articulo-3.md), a través de la revisión aleatoria o muestral y periódica al portal de Internet de los sujetos obligados o a la [Plataforma Nacional](articulo-3.md).

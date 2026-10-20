@@ -17,7 +17,7 @@ source_sha256: b32c33fa4ed071dc8bea1ad69ce8510cdb05016967e9e4fcb60f10c6f2216628
 
 # Artículo 10
 
-El Pleno Jurisdiccional estará integrado por el Presidente del Tribunal y por los diez Magistrados integrantes de la Primera y Segunda Secciones de la Sala Superior, y bastará la presencia de siete de sus miembros para que se pueda tomar la votación respectiva.
+El Pleno Jurisdiccional estará integrado por el [Presidente del Tribunal](articulo-2.md) y por los diez Magistrados integrantes de la Primera y Segunda Secciones de la Sala Superior, y bastará la presencia de siete de sus miembros para que se pueda tomar la votación respectiva.
 
 Sus resoluciones se tomarán por unanimidad o mayoría de votos. El Presidente del Tribunal dirigirá los debates.
 

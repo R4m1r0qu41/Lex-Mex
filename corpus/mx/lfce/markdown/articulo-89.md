@@ -19,7 +19,7 @@ source_sha256: d0021bbef2e0c3251d6efdea2c1efd9959ff3f02df4bcd1fc37c1ee7826a72ba
 
 La notificación de concentración se hará por escrito y deberá contener y acompañar:
 
-I. Nombre, denominación o razón social de los Agentes Económicos que notifican la concentración y de aquéllos que participan en ella directa e indirectamente;
+I. Nombre, denominación o razón social de los [Agentes Económicos](articulo-3.md) que notifican la concentración y de aquéllos que participan en ella directa e indirectamente;
 
 II. En su caso, nombre del representante legal y el documento o instrumento que contenga las facultades de representación de conformidad con las formalidades establecidas en la legislación aplicable. Nombre del representante común y domicilio para oír y recibir notificaciones y personas autorizadas, así como los datos que permitan su pronta localización;
 

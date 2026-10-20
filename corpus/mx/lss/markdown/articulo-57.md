@@ -17,4 +17,4 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 57
 
-Las prestaciones a que se refiere el [artículo anterior](articulo-56.md) se concederán de conformidad con las disposiciones previstas en esta Ley y en sus reglamentos.
+Las prestaciones a que se refiere el [artículo anterior](articulo-56.md) se concederán de conformidad con las disposiciones previstas en esta [Ley](articulo-5-A.md) y en sus reglamentos.

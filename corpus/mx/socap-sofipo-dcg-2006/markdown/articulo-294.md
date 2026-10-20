@@ -17,4 +17,4 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 294
 
-En todo caso, la Comisión podrá solicitar a las Confederaciones la información que juzgue conveniente relativa a los expedientes a que hace referencia el Artículo [290](articulo-290.md) de estas disposiciones.
+En todo caso, la Comisión podrá solicitar a las [Confederaciones](articulo-1.md) la información que juzgue conveniente relativa a los expedientes a que hace referencia el Artículo [290](articulo-290.md) de estas disposiciones.

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Primero · Capítulo I
+
 # Artículo 572
 
 En caso de que la autoridad jurisdiccional conozca de hechos que probablemente constituyen actos de violencia en contra de las mujeres; niñas, niños o adolescentes; o personas que pueden encontrarse en grupos que se encuentren en situación de vulnerabilidad, tiene la obligación de dictar órdenes de protección de urgente aplicación en función del interés superior de quien pudiere resultar víctima, las cuales serán personalísimas e intransferibles, pudiendo tener incluso el carácter de preventivas y serán consideradas de naturaleza familiar.

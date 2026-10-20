@@ -17,4 +17,4 @@ source_sha256: 51dd3b9347aab0e63387e02f689edd4fa3ea43a93933a0027f9a9977fffba83d
 
 # Artículo 160
 
-La persona Titular de la Dirección General podrá expedir los lineamientos, las reglas y especificaciones para la presentación de solicitudes o promociones relacionadas con procedimientos de declaración administrativa y sus respectivos anexos, en medios físicos o, en su caso, por medios que permitan su gestión a través de plataformas electrónicas, mediante Acuerdos publicados en el Diario Oficial de la Federación.
+La persona Titular de la Dirección General podrá expedir los lineamientos, las reglas y especificaciones para la presentación de solicitudes o promociones relacionadas con procedimientos de declaración administrativa y sus respectivos anexos, en medios físicos o, en su caso, por medios que permitan su gestión a través de plataformas electrónicas, mediante [Acuerdos](articulo-2.md) publicados en el Diario Oficial de la Federación.

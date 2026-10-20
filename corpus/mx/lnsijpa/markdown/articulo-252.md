@@ -17,7 +17,7 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 # Artículo 252
 
-Principios de la prevención social de la violencia y delincuencia La prevención social de la violencia y delincuencia para personas adolescentes se fundamenta en los principios establecidos en la Ley General para la Prevención Social de la Violencia y la Delincuencia y en la Ley General.
+Principios de la prevención social de la violencia y delincuencia La prevención social de la violencia y delincuencia para personas adolescentes se fundamenta en los principios establecidos en la [Ley General](articulo-3.md) para la Prevención Social de la Violencia y la Delincuencia y en la Ley General.
 
 Asimismo, se basa en el respeto irrestricto de la dignidad humana de las personas adolescentes, en el reconocimiento de que el respeto de sus derechos humanos y el desarrollo de todas sus potencialidades, que son condiciones indispensables para evitar la comisión de conductas antisociales y garantizar un sano desarrollo que les permita tener un proyecto de vida y una vida digna.
 

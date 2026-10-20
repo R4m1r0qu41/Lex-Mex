@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAC.pdf
 source_sha256: 07199878c4f94748c983998437198eb7c645ad76967c444dfe26d50a535d23ae
 ---
 
+> Capítulo VII · Sección Segunda
+
 # Artículo 40
 
 Toda aeronave deberá contar con un comandante o piloto al mando, quien será la máxima autoridad a bordo y el responsable de su operación y dirección y de mantener el orden y la seguridad de la aeronave, de los tripulantes, pasajeros, equipaje, carga y correo. El comandante de las aeronaves de servicio al público deberá ser mexicano por nacimiento que no adquiera otra nacionalidad y estar en pleno goce y ejercicio de sus derechos civiles y políticos. Párrafo reformado DOF 23-01-1998

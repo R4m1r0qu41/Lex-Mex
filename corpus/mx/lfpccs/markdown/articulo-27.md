@@ -17,4 +17,4 @@ source_sha256: ea99e8d1b13b36451e69f865d4aeeca08ce847fb7dcab648e77f65ca88991a8b
 
 # Artículo 27
 
-La homologación de las categorías de semilla con respecto a los esquemas de calificación internacionales o a los aplicados por otros países, será definida y establecida para cada especie en la Regla correspondiente.
+La homologación de las categorías de semilla con respecto a los esquemas de calificación internacionales o a los aplicados por otros países, será definida y establecida para cada especie en la [Regla](articulo-3.md) correspondiente.

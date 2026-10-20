@@ -19,7 +19,7 @@ source_sha256: e5c0ecb4328043b7090ee5d73e982d6a04410f1330f6fdb350a7a34527eb2e59
 
 Los interesados en obtener el certificado de sanidad a que se refiere el [artículo anterior](articulo-130.md), cumplirán con lo siguiente:
 
-I. Presentar la solicitud, en el formato que al efecto autorice la Secretaría, el cual contendrá los siguientes datos:
+I. Presentar la solicitud, en el formato que al efecto autorice la [Secretaría](articulo-2o.md), el cual contendrá los siguientes datos:
 
 a) Nombre del interesado,
 

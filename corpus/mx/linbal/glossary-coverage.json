@@ -1,0 +1,12 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-3",
+  "instrument_id": "urn:lex-mx:federal:statute:linbal",
+  "source_sha256": "a4ac552c999c8fac29280eab8483bfec7ffd04fe5b8edcd3b699e39c4cdaafd2",
+  "extracted_text_sha256": "f20fdc8863efa863d66d3ac9fc04b46e8031fc98eb148b8c775facc9571aee71",
+  "status": "none_detected",
+  "glossaries": [],
+  "imports": [],
+  "term_count": 0,
+  "usage_count": 0
+}

@@ -21,7 +21,7 @@ La o el asegurado tiene derecho a retirar, como ayuda para gastos de matrimonio 
 
 I. Que tenga acreditado un mínimo de ciento cincuenta semanas de cotización en el seguro de retiro, cesantía en edad avanzada y vejez, en la fecha de celebración del matrimonio;
 
-II.- Que compruebe con documentos fehacientes la muerte de la persona que registró como cónyuge en el Instituto, o que, en su caso, exhiba el acta de divorcio, y Fracción reformada DOF 11-08-2006
+II.- Que compruebe con documentos fehacientes la muerte de la persona que registró como cónyuge en el [Instituto](articulo-5-A.md), o que, en su caso, exhiba el acta de divorcio, y Fracción reformada DOF 11-08-2006
 
 III.- Que cualquiera de los cónyuges no haya sido registrado con anterioridad en el Instituto con esa calidad. Fracción reformada DOF 11-08-2006
 

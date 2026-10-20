@@ -17,4 +17,4 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Artículo 78
 
-Las Fiscalías Especializadas no pueden condicionar la recepción de la información a que se refiere el párrafo anterior al cumplimiento de formalidad alguna.
+Las [Fiscalías Especializadas](articulo-4.md) no pueden condicionar la recepción de la información a que se refiere el párrafo anterior al cumplimiento de formalidad alguna.

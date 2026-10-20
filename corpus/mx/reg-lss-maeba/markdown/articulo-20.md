@@ -17,9 +17,9 @@ source_sha256: 9816ce7f9d6b9b1781eb9935869bd45677c60d721d3352865b6524c2e75db8cd
 
 # Artículo 20
 
-Los integrantes del Comité Técnico tendrán las funciones siguientes:
+Los integrantes del [Comité Técnico](articulo-2.md) tendrán las funciones siguientes:
 
-I. Presidente: Proponer al Comité Técnico el orden del día de las sesiones ordinarias y extraordinarias; coordinar y dirigir las reuniones del Comité Técnico y convocar, sólo cuando se justifique, a reuniones extraordinarias; REGLAMENTO DE LA LEY DEL SEGURO SOCIAL, EN MATERIA DE ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES ADJUDICADOS CON MOTIVO DE LA APLICACIÓN DEL PROCEDIMIENTO ADMINISTRATIVO DE EJECUCIÓN II. Secretario Ejecutivo: Vigilar la correcta expedición del orden del día y del listado de los asuntos que se tratarán, incluyendo los documentos de apoyo necesarios; remitir a cada integrante del Comité Técnico la documentación de los asuntos a tratar en la sesión a celebrarse, así como levantar el acta correspondiente de cada sesión.
+I. Presidente: Proponer al Comité Técnico el orden del día de las sesiones ordinarias y extraordinarias; coordinar y dirigir las reuniones del Comité Técnico y convocar, sólo cuando se justifique, a reuniones extraordinarias; II. Secretario Ejecutivo: Vigilar la correcta expedición del orden del día y del listado de los asuntos que se tratarán, incluyendo los documentos de apoyo necesarios; remitir a cada integrante del Comité Técnico la documentación de los asuntos a tratar en la sesión a celebrarse, así como levantar el acta correspondiente de cada sesión.
 
 También se encargará de registrar los acuerdos y realizar su seguimiento, de resguardar la documentación inherente al funcionamiento del Comité Técnico, y de aquellas otras que le encomienden el Presidente o el Comité Técnico.
 
@@ -29,4 +29,4 @@ III. Vocales: Enviar al Secretario Ejecutivo los documentos de los asuntos que a
 
 IV. Asesores: Prestar oportuna y adecuada asesoría al Comité Técnico en el ámbito de su competencia. Los asesores no deberán firmar ningún documento que contenga cualquier decisión inherente a las funciones del Comité Técnico; únicamente suscribirán las actas de cada sesión como constancia de su participación, y
 
-V. Las demás que se establezcan en el Manual de Integración y Operación de los Comités Técnicos de Administración y Enajenación de Bienes Adjudicados, que emita el Consejo Técnico del Instituto.
+V. Las demás que se establezcan en el Manual de Integración y Operación de los Comités Técnicos de Administración y [Enajenación](articulo-2.md) de Bienes Adjudicados, que emita el Consejo Técnico del [Instituto](../../lss/markdown/articulo-5-A.md).

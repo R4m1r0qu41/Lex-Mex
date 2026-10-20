@@ -33,6 +33,6 @@ VI.- Los lineamientos para la realización de las acciones de preservación, res
 
 Las medidas que el Ejecutivo Federal podrá imponer para la preservación y protección de las áreas naturales protegidas, serán únicamente las que se establecen, según las materias respectivas, en la presente Ley, las Leyes Forestal, de Aguas Nacionales, de Pesca, Federal de Caza, y las demás que resulten aplicables.
 
-La Secretaría promoverá el ordenamiento ecológico del territorio dentro y en las zonas de influencia de las áreas naturales protegidas, con el propósito de generar nuevos patrones de desarrollo regional acordes con objetivos de sustentabilidad.
+La [Secretaría](articulo-3o.md) promoverá el ordenamiento ecológico del territorio dentro y en las zonas de influencia de las áreas naturales protegidas, con el propósito de generar nuevos patrones de desarrollo regional acordes con objetivos de sustentabilidad.
 
 Artículo reformado DOF 13-12-1996

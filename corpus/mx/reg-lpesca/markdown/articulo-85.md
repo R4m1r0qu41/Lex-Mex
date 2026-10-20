@@ -17,7 +17,7 @@ source_sha256: e5c0ecb4328043b7090ee5d73e982d6a04410f1330f6fdb350a7a34527eb2e59
 
 # Artículo 85
 
-La Secretaría fomentará la práctica y el desarrollo de la pesca deportivo-recreativa, para lo cual, en coordinación con las demás autoridades competentes y con los sectores interesados:
+La [Secretaría](articulo-2o.md) fomentará la práctica y el desarrollo de la pesca deportivo-recreativa, para lo cual, en coordinación con las demás autoridades competentes y con los sectores interesados:
 
 I. Promoverá la construcción de la infraestructura necesaria para esta actividad;
 

@@ -17,4 +17,4 @@ source_sha256: 6680a58c98673518aee46582b3137d28987c275785d1f0c97295f0d89c4b692b
 
 # Artículo 45
 
-La Secretaría evaluará los resultados del Programa General cada tres años.
+La Secretaría evaluará los resultados del [Programa General](articulo-2.md) cada tres años.

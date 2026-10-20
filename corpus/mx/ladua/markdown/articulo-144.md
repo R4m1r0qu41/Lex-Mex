@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf
 source_sha256: 43927095d22ff7bc7780e78132d2160b5050b5f76026b539daec32be09d7341d
 ---
 
-> Capítulo II · Sección TERCERA
+> Título Sexto · Capítulo Unico
 
 # Artículo 144
 
@@ -75,7 +75,9 @@ XXVII. Establecer, para efectos de la información que deben manifestar los impo
 
 XXVIII. Suspender la libre circulación de las mercancías de procedencia extranjera dentro del recinto fiscal, una vez activado el mecanismo de selección automatizado, previa resolución que emita la autoridad administrativa o judicial competente en materia de propiedad intelectual, y ponerla de inmediato a su disposición en el lugar que las citadas autoridades señalen. Fracción reformada DOF 31-12-1998
 
-XXIX. Microfilmar, grabar en discos ópticos o en cualquier otro medio que autorice el Servicio de Administración Tributaria mediante reglas, los documentos que se hayan proporcionado a la misma en cumplimiento de las disposiciones de esta Ley. Fracción reformada DOF 25-06-2018 XXX. Ordenar y practicar el embargo precautorio en los términos del Código Fiscal de la Federación, de las cantidades en efectivo, en cheques nacionales o extranjeros, órdenes de pago o cualquier otro documento por cobrar o una combinación de ellos, superiores al equivalente en la moneda o monedas de que se trate, a diez mil dólares de los Estados Unidos de América, cuando se omita declararlas a las autoridades aduaneras, al entrar o salir del territorio nacional, conforme a lo dispuesto en el artículo [9](articulo-9o.md)o. de esta Ley. Fracción reformada DOF 30-12-2002
+XXIX. Microfilmar, grabar en discos ópticos o en cualquier otro medio que autorice el Servicio de Administración Tributaria mediante reglas, los documentos que se hayan proporcionado a la misma en cumplimiento de las disposiciones de esta Ley. Fracción reformada DOF 25-06-2018
+
+XXX. Ordenar y practicar el embargo precautorio en los términos del Código Fiscal de la Federación, de las cantidades en efectivo, en cheques nacionales o extranjeros, órdenes de pago o cualquier otro documento por cobrar o una combinación de ellos, superiores al equivalente en la moneda o monedas de que se trate, a diez mil dólares de los Estados Unidos de América, cuando se omita declararlas a las autoridades aduaneras, al entrar o salir del territorio nacional, conforme a lo dispuesto en el artículo [9](articulo-9o.md)o. de esta Ley. Fracción reformada DOF 30-12-2002
 
 XXXI. (Se deroga). Fracción adicionada DOF 30-12-2002. Derogada DOF 09-12-2013
 
@@ -93,4 +95,6 @@ XXXVII. Retener las mercancías de comercio exterior cuando la autoridad compete
 
 XXXVIII. Analizar el comportamiento de los regímenes aduaneros o grupos que conforman el ámbito de importadores y exportadores por sector, para coadyuvar en la identificación de conductas ilícitas relacionadas con la entrada y salida de mercancías del territorio nacional, y proponer estrategias e instrumentar mecanismos para prevenir y combatir dichas conductas, lo que podrá incluir medidas especiales de operación aduanera que garanticen el combate eficaz de las referidas prácticas indebidas. Fracción adicionada DOF 25-06-2018
 
-XXXIX. Las demás que sean necesarias para cumplir con las facultades a que se refiere este artículo. Fracción adicionada DOF 09-12-2013. Reformada y recorrida DOF 25-06-2018 Para el ejercicio de las facultades a que refiere este artículo, las autoridades aduaneras podrán apoyarse de los sistemas, equipos tecnológicos, equipos de videograbación, o cualquier otro medio o servicio con que se cuente. Párrafo adicionado DOF 19-11-2025
+XXXIX. Las demás que sean necesarias para cumplir con las facultades a que se refiere este artículo. Fracción adicionada DOF 09-12-2013. Reformada y recorrida DOF 25-06-2018
+
+Para el ejercicio de las facultades a que refiere este artículo, las autoridades aduaneras podrán apoyarse de los sistemas, equipos tecnológicos, equipos de videograbación, o cualquier otro medio o servicio con que se cuente. Párrafo adicionado DOF 19-11-2025

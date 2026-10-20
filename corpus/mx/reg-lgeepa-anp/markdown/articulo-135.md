@@ -17,7 +17,7 @@ source_sha256: 4e276866fce1638948a6daf1a5c0438fa412554f1a6e0381cbdf7cb300e3db75
 
 # Artículo 135
 
-La Comisión podrá revocar el certificado expedido por incumplimiento de alguna de las obligaciones establecidas en el certificado por el titular de dicho certificado o los administradores del área, conforme al siguiente procedimiento:
+La [Comisión](articulo-3o.md) podrá revocar el certificado expedido por incumplimiento de alguna de las obligaciones establecidas en el certificado por el titular de dicho certificado o los administradores del área, conforme al siguiente procedimiento:
 
 I. Notificará al titular del certificado la causa que motive el inicio del procedimiento y le concederá un plazo de quince días hábiles contados a partir del día siguiente al que se realizó la notificación para que comparezca por escrito, manifieste lo que a su derecho convenga y exhiba las pruebas que estime pertinentes, y
 
@@ -27,6 +27,6 @@ Para la determinación, comprobación o conocimiento de los hechos en virtud de 
 
 Asimismo, la Comisión podrá solicitar a la Procuraduría Federal de Protección al Ambiente la realización de visitas de verificación o requerir información a cualquier otra autoridad que esté relacionada con el asunto a resolver. En este supuesto, el plazo referido en la fracción II de este artículo se contará a partir de la fecha en que se haya recibido la respuesta de la Procuraduría Federal de Protección al Ambiente o de la autoridad requerida.
 
-En caso de que la Comisión revoque el certificado, realizará la anotación correspondiente en el Registro Nacional de Áreas Naturales Protegidas y se notificará personalmente al titular del certificado correspondiente.
+En caso de que la Comisión revoque el certificado, realizará la anotación correspondiente en el [Registro](articulo-3o.md) Nacional de Áreas Naturales Protegidas y se notificará personalmente al titular del certificado correspondiente.
 
 Artículo reformado DOF 21-05-2014

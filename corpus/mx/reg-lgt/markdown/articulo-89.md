@@ -17,7 +17,7 @@ source_sha256: 6680a58c98673518aee46582b3137d28987c275785d1f0c97295f0d89c4b692b
 
 # Artículo 89
 
-Toda solicitud de inscripción al Registro Nacional de Turismo deberá contener, al menos, lo siguiente:
+Toda solicitud de inscripción al Registro Nacional de [Turismo](articulo-2.md) deberá contener, al menos, lo siguiente:
 
 I. Nombre o razón social tratándose de personas morales, y nombre completo en caso de personas físicas, Clave de Registro Federal de Contribuyentes, así como nacionalidad del Prestador de Servicios Turísticos; Fracción reformada DOF 25-11-2025
 

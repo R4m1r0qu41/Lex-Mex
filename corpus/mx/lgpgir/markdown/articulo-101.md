@@ -17,6 +17,6 @@ source_sha256: b34326588bd6e7519e33411d3658239e3aefb56cef0fae5d775bc894af64a565
 
 # Artículo 101
 
-La Secretaría realizará los actos de inspección y vigilancia del cumplimiento de las disposiciones contenidas en el presente ordenamiento, en materia de residuos peligrosos e impondrá las medidas correctivas, de seguridad y sanciones que resulten procedentes, de conformidad con lo que establece esta Ley y la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
+La [Secretaría](articulo-5.md) realizará los actos de inspección y vigilancia del cumplimiento de las disposiciones contenidas en el presente ordenamiento, en materia de residuos peligrosos e impondrá las medidas correctivas, de seguridad y sanciones que resulten procedentes, de conformidad con lo que establece esta [Ley](articulo-5.md) y la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
 
 Artículo reformado DOF 22-05-2006

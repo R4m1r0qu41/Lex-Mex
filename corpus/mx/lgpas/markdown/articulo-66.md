@@ -17,6 +17,6 @@ source_sha256: 160e5e85efddb1749a79f6b154af31711a9b31a5e32bace3c07e2859c2620ecf
 
 # Artículo 66
 
-La captura incidental estará limitada y no podrá exceder del volumen que determine la Secretaría, para cada pesquería, según las zonas, épocas y artes de pesca, de conformidad con lo que establece la presente Ley y demás disposiciones que de ella se deriven. Los excedentes de los volúmenes de captura incidental que determine dicha autoridad en tales disposiciones, serán considerados como pesca realizada sin concesión o permiso.
+La captura incidental estará limitada y no podrá exceder del volumen que determine la [Secretaría](articulo-4o.md), para cada pesquería, según las zonas, épocas y artes de pesca, de conformidad con lo que establece la presente Ley y demás disposiciones que de ella se deriven. Los excedentes de los volúmenes de captura incidental que determine dicha autoridad en tales disposiciones, serán considerados como pesca realizada sin concesión o permiso.
 
 El aprovechamiento de los productos pesqueros obtenidos en la captura incidental se sujetará a las normas oficiales que al efecto se expidan, salvo lo previsto en esta Ley para la pesca deportivo- recreativa.

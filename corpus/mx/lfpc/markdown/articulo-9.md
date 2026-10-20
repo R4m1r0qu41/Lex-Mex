@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPC.pdf
 source_sha256: 7fea623841fd6e05e8c0d01d2cf09f85b0b8e58ba4d9e4f6711f8bad1f448e55
 ---
 
+> Capítulo I
+
 # Artículo 9
 
 Los proveedores de bienes, productos o servicios incurren en responsabilidad administrativa por los actos propios que atenten contra los derechos del consumidor y por los de sus colaboradores, subordinados y toda clase de gestores, vigilantes, guardias o personal auxiliar que les presten sus servicios, independientemente de la responsabilidad personal en que incurra el infractor.

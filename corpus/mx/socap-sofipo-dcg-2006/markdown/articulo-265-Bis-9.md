@@ -18,13 +18,13 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 265 Bis 9
 
-La Sociedad Financiera Popular podrá permitir a sus Usuarios registrar Cuentas Destino Recurrentes, siempre y cuando se sujeten a lo siguiente:
+La [Sociedad](articulo-1.md) Financiera Popular podrá permitir a sus [Usuarios](articulo-1.md) registrar Cuentas Destino Recurrentes, siempre y cuando se sujeten a lo siguiente:
 
-I. Utilizar, al momento de la solicitud de registro de la Cuenta Destino Recurrente, un segundo Factor de Autenticación Categorías 3 o 4 a que se refiere el artículo [265 Bis 4](articulo-265-Bis-4.md) de estas disposiciones.
+I. Utilizar, al momento de la solicitud de registro de la [Cuenta Destino Recurrente](articulo-1.md), un segundo [Factor de Autenticación](articulo-1.md) Categorías 3 o 4 a que se refiere el artículo [265 Bis 4](articulo-265-Bis-4.md) de estas disposiciones.
 
 II. Para que un Usuario solicite el registro de una Cuenta Destino Recurrente, esta deberá cumplir con los siguientes requisitos:
 
-a) Haber transcurrido 90 días desde su registro como Cuenta Destino.
+a) Haber transcurrido 90 días desde su registro como [Cuenta Destino](articulo-1.md).
 
 b) Que en dicho período, el Usuario haya utilizado la Cuenta Destino al menos en 3 ocasiones.
 

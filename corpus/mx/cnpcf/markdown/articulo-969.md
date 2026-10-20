@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Único · Capítulo III
+
 # Artículo 969
 
 Las autoridades jurisdiccionales tienen la principal responsabilidad de proteger la información, los documentos y las comunicaciones que se lleven a través de medios electrónicos, así como los sistemas que contengan dicha información, incluyendo las audiencias y diligencias virtuales.

@@ -17,4 +17,4 @@ source_sha256: 4d25bcb022ab62a24462e11a230c9554c0120012913ab4599cd3ec1b2b275c1d
 
 # Artículo 7o
 
-Salvo disposición en contrario, los plazos establecidos por la Ley o este Reglamento son en días hábiles. El cómputo de dichos plazos será a partir del día siguiente de la fecha de recepción del escrito correspondiente por la unidad competente. De no fijarse plazo para que la autoridad conteste, se tendrá por señalado el de veintiún días.
+Salvo disposición en contrario, los plazos establecidos por la [Ley](articulo-1o.md) o este Reglamento son en días hábiles. El cómputo de dichos plazos será a partir del día siguiente de la fecha de recepción del escrito correspondiente por la unidad competente. De no fijarse plazo para que la autoridad conteste, se tendrá por señalado el de veintiún días.

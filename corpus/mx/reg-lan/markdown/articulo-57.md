@@ -17,9 +17,9 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 57
 
-Deberán inscribirse en el "Registro":
+Deberán inscribirse en el "[Registro](articulo-1o.md)":
 
-I. Los títulos de concesión o asignación y el permiso de descarga de aguas residuales señalados en la "Ley" y este "Reglamento", así como sus prórrogas;
+I. Los títulos de concesión o asignación y el permiso de descarga de aguas residuales señalados en la "[Ley](articulo-1o.md)" y este "[Reglamento](articulo-1o.md)", así como sus prórrogas;
 
 II. La transmisión de los títulos, así como los cambios que se efectúen en sus características, en los términos establecidos por la "Ley" y este "Reglamento";
 
@@ -29,4 +29,4 @@ IV. Las modificaciones y rectificaciones de los títulos y actos registrados;
 
 V. Las reservas de aguas nacionales establecidas conforme a la "Ley" y este "Reglamento", y
 
-VI. Las sentencias o resoluciones administrativas o judiciales definitivas que afecten, modifiquen, cancelen o ratifiquen los títulos y actos inscritos y los derechos que de ellos deriven, cuando se notifiquen por jueces o autoridades a "La Comisión" o se presenten por los interesados.
+VI. Las sentencias o resoluciones administrativas o judiciales definitivas que afecten, modifiquen, cancelen o ratifiquen los títulos y actos inscritos y los derechos que de ellos deriven, cuando se notifiquen por jueces o autoridades a "[La Comisión](articulo-1o.md)" o se presenten por los interesados.

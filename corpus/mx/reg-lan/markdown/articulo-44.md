@@ -17,7 +17,7 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 44
 
-Los concesionarios o asignatarios podrán solicitar a "La Comisión", la expedición de los certificados a que se refieren los artículos [224](../../lfd/markdown/articulo-224.md) fracción V, [281-A](../../lfd/markdown/articulo-281-A.md) y [282](../../lfd/markdown/articulo-282.md) fracción IV, de la Ley Federal de Derechos.
+Los concesionarios o asignatarios podrán solicitar a "[La Comisión](articulo-1o.md)", la expedición de los certificados a que se refieren los artículos [224](../../lfd/markdown/articulo-224.md) fracción V, [281-A](../../lfd/markdown/articulo-281-A.md) y [282](../../lfd/markdown/articulo-282.md) fracción IV, de la Ley Federal de Derechos.
 
 La solicitud deberá contener:
 
@@ -25,7 +25,7 @@ I. Nombre, denominación o razón social y domicilio del interesado;
 
 II. Tipo de certificado que solicita;
 
-III. Constancia expedida por el "Registro", que acredite la inscripción del título de concesión o asignación de agua y permiso de descarga de aguas residuales vigente;
+III. Constancia expedida por el "[Registro](articulo-1o.md)", que acredite la inscripción del título de concesión o asignación de agua y permiso de descarga de aguas residuales vigente;
 
 IV. Fotocopia de los comprobantes de pago de las contribuciones o aprovechamientos fiscales;
 

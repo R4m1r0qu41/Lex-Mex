@@ -1,0 +1,38 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-3",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lissfam",
+  "source_sha256": "c1ae52e27755facefca5527b9bc13e1248528cc9d2a88c666b58756f31f7c52a",
+  "extracted_text_sha256": "f14ce8ba24e5316ce3e7aeb5fb0600a4ac0ac04abd39ae443780ef190efe04d3",
+  "status": "detected",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:2",
+      "provision_text_sha256": "b4942d951c70867acc32383338b74b3d8aee0dcb3a830addc7502c27c1c697cd",
+      "method": "established_pass",
+      "fractions": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII",
+        "XIII",
+        "XIV",
+        "XV",
+        "XVI"
+      ],
+      "unread_fractions": [],
+      "term_count": 16
+    }
+  ],
+  "imports": [],
+  "term_count": 16,
+  "usage_count": 64
+}

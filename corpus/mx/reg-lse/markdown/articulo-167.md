@@ -17,4 +17,4 @@ source_sha256: 4bcc982b308b0813469b30db61b53d5a2c41e5a7240b3b1cac2f1aeeb2c00a2e
 
 # Artículo 167
 
-Las propuestas que elabore el CENACE en coordinación con la Empresa Pública del Estado para el Plan de Desarrollo del Sector Eléctrico pueden incluir propuestas de integración de pequeños sistemas eléctricos conforme a lo dispuesto en la Ley y el presente reglamento.
+Las propuestas que elabore el CENACE en coordinación con la Empresa Pública del Estado para el Plan de Desarrollo del Sector Eléctrico pueden incluir propuestas de integración de pequeños sistemas eléctricos conforme a lo dispuesto en la [Ley](articulo-2.md) y el presente reglamento.

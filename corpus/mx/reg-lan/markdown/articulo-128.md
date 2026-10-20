@@ -17,4 +17,4 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 128
 
-"La Comisión" establecerá un sistema de pronóstico y alerta contra inundaciones y organizará la formulación de planes regionales de operación para aminorar los daños por inundación e implantar las medidas de emergencia conducentes.
+"[La Comisión](articulo-1o.md)" establecerá un sistema de pronóstico y alerta contra inundaciones y organizará la formulación de planes regionales de operación para aminorar los daños por inundación e implantar las medidas de emergencia conducentes.

@@ -18,7 +18,7 @@ source_sha256: 8ac502b97188bd6e795781e9821be6e62ccdd8050cdd3be74aab52a888e67939
 
 # Artículo 124
 
-El área de Auditoría Interna deberá contar con procedimientos documentados para el desarrollo de sus funciones, contemplando al menos, los aspectos siguientes:
+El área de [Auditoría Interna](articulo-1.md) deberá contar con procedimientos documentados para el desarrollo de sus funciones, contemplando al menos, los aspectos siguientes:
 
 I. La periodicidad con la que se realizarán las auditorías en cada área, tomando en cuenta el tipo de revisión que se efectúe.
 

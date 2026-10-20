@@ -17,4 +17,4 @@ source_sha256: 1405f36fd836ff74d059ebe7e50ae439cbb9e5e291a317514667f34a26f72a23
 
 # Artículo 113
 
-Los métodos de prueba, muestreo y verificación aplicables a las características cualitativas, así como al volumen en el Transporte, Almacenamiento, Distribución y, en su caso, el Expendio al Público de Hidrocarburos, Petrolíferos y Petroquímicos se establecen en las Normas Oficiales Mexicanas que para tal efecto expidan la Secretaría de Energía y la Secretaría de Economía, en el ámbito de su competencia.
+Los métodos de prueba, muestreo y verificación aplicables a las características cualitativas, así como al volumen en el [Transporte](articulo-5.md), [Almacenamiento](articulo-5.md), [Distribución](articulo-5.md) y, en su caso, el [Expendio al Público](articulo-5.md) de [Hidrocarburos](articulo-5.md), [Petrolíferos](articulo-5.md) y [Petroquímicos](articulo-5.md) se establecen en las Normas Oficiales Mexicanas que para tal efecto expidan la Secretaría de Energía y la Secretaría de Economía, en el ámbito de su competencia.

@@ -17,7 +17,7 @@ source_sha256: 23dcee090bbe0c4fb06c75d084cb65ce0b2e8f72a8d082e7059504412bde1614
 
 # Artículo 46
 
-La Secretaría, por conducto de la Dirección General de Agricultura, otorgará la licencia de emergencia, la cual se publicará en el Diario Oficial de la Federación. La licencia como mínimo contendrá los siguientes datos:
+La [Secretaría](articulo-2o.md), por conducto de la Dirección General de Agricultura, otorgará la licencia de emergencia, la cual se publicará en el Diario Oficial de la Federación. La licencia como mínimo contendrá los siguientes datos:
 
 I.- El nombre completo del licenciatario;
 

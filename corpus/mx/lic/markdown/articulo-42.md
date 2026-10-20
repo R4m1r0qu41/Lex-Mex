@@ -29,7 +29,9 @@ II. Nombrar y remover al secretario y al prosecretario del consejo;
 
 III. Aprobar el establecimiento, reubicación y clausura de sucursales, agencias y oficinas en el país y en el extranjero; Fracción reformada DOF 24-06-2002, 01-02-2008
 
-IV. Acordar la creación de comités de crédito, el de recursos humanos y desarrollo institucional, de administración integral de riesgos, así como los que considere necesarios para el cumplimiento de su objeto; Fracción reformada DOF 24-06-2002 V. Determinar las facultades de los distintos órganos y de los servidores públicos de la institución, para el otorgamiento de créditos;
+IV. Acordar la creación de comités de crédito, el de recursos humanos y desarrollo institucional, de administración integral de riesgos, así como los que considere necesarios para el cumplimiento de su objeto; Fracción reformada DOF 24-06-2002
+
+V. Determinar las facultades de los distintos órganos y de los servidores públicos de la institución, para el otorgamiento de créditos;
 
 VI. Aprobar los estados financieros de la institución para proceder a su publicación. Los estados financieros anuales se aprobarán previo dictamen de los comisarios y deberán estar suscritos por el director general, el responsable de la contabilidad de la institución y el responsable de las funciones de auditoría interna, conforme a su competencia, previo a su aprobación; Fracción reformada DOF 01-02-2008
 
@@ -49,7 +51,9 @@ IX Ter. Definir la estrategia y criterios en los que deberá establecerse, entre
 
 X. Aprobar los programas anuales de adquisición, arrendamiento y enajenación de bienes muebles e inmuebles, de realización de obras y prestación de servicios, que la institución requiera, así como las políticas y bases generales que regulen los convenios, contratos o acuerdos que deba celebrar la institución con terceros, en estas materias, de conformidad con las normas aplicables y sin que dichos programas, políticas y bases relativos a sus sucursales sean objeto del ejercicio de las atribuciones a que se refiere el artículo [37](../../loapf/markdown/articulo-37.md), fracciones XX y XXIII, de la Ley Orgánica de la Administración Pública Federal, en materia de arrendamiento de bienes inmuebles; así como aprobar las políticas y bases generales a las que deberá sujetarse la contratación de los servicios que requiera la institución para realizar las operaciones y servicios previstos en los artículos [46](articulo-46.md) y [47](articulo-47.md) de esta Ley; Fracción reformada DOF 01-02-2008, 10-01-2014
 
-XI. Proponer a la Secretaría de Hacienda y Crédito Público las modificaciones al reglamento orgánico; Fracción reformada DOF 01-02-2008 XI Bis. Aprobar las normas o bases generales para la cesión de activos y pasivos de la institución, en las que se determinarán las operaciones que deban ser sometidas a autorización previa del Consejo Directivo; Fracción adicionada DOF 01-02-2008. Reformada DOF 10-01-2014
+XI. Proponer a la Secretaría de Hacienda y Crédito Público las modificaciones al reglamento orgánico; Fracción reformada DOF 01-02-2008
+
+XI Bis. Aprobar las normas o bases generales para la cesión de activos y pasivos de la institución, en las que se determinarán las operaciones que deban ser sometidas a autorización previa del Consejo Directivo; Fracción adicionada DOF 01-02-2008. Reformada DOF 10-01-2014
 
 XII. Aprobar la emisión de certificados de aportación patrimonial, provisionales o definitivos;
 
@@ -71,7 +75,9 @@ XIX Bis. Aprobar el manual de remuneraciones, jubilaciones, derechos y obligacio
 
 XX. Las que establezca con este carácter la respectiva ley o reglamento orgánico de la institución.
 
-XXI. Autorizar la tenencia por cuenta propia de títulos inscritos en el Registro Nacional de Valores, representativos del capital social de sociedades, así como la forma de administrarla; Fracción adicionada DOF 24-06-2002 XXII. Autorizar el programa de financiamiento acorde con las metas que, para la institución de banca de desarrollo de que se trate, fije al efecto la Secretaría de Hacienda y Crédito Público; Fracción adicionada DOF 24-06-2002. Reformada DOF 01-02-2008
+XXI. Autorizar la tenencia por cuenta propia de títulos inscritos en el Registro Nacional de Valores, representativos del capital social de sociedades, así como la forma de administrarla; Fracción adicionada DOF 24-06-2002
+
+XXII. Autorizar el programa de financiamiento acorde con las metas que, para la institución de banca de desarrollo de que se trate, fije al efecto la Secretaría de Hacienda y Crédito Público; Fracción adicionada DOF 24-06-2002. Reformada DOF 01-02-2008
 
 XXIII. Conocer y, en su caso, aprobar los informes que le presente el comité de administración integral de riesgos, así como los límites prudenciales de riesgos que al efecto le proponga éste, y Fracción adicionada DOF 24-06-2002. Reformada DOF 01-02-2008
 

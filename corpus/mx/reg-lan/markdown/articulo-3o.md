@@ -17,6 +17,6 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 3o
 
-Para efectos del artículo [1](../../lan/markdown/articulo-1.md)o., de la "Ley", y de este "Reglamento", las disposiciones respectivas se aplican a las aguas continentales.
+Para efectos del artículo [1](../../lan/markdown/articulo-1.md)o., de la "[Ley](articulo-1o.md)", y de este "[Reglamento](articulo-1o.md)", las disposiciones respectivas se aplican a las aguas continentales.
 
 La regulación en materia de preservación y control de la calidad del agua, en los términos de la "Ley" y el Título Séptimo del presente "Reglamento", se aplica también a las aguas de las zonas marinas mexicanas que define como tales el artículo [3](../../lfm/markdown/articulo-3o.md)o., de la Ley Federal del Mar.

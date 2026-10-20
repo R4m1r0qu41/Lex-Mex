@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Único · Capítulo IV
+
 # Artículo 1098
 
 Si en la tercera subasta se hiciere postura admisible en cuanto al precio, pero ofreciendo pagar a plazos o alterando alguna otra condición, se hará saber a la persona acreedora, la cual podrá pedir en los cinco días siguientes, la adjudicación de los bienes en las dos tercias partes del precio de la segunda subasta; y si no hace uso de este derecho, se aprobará el remate en los términos ofrecidos por el postor.

@@ -17,6 +17,6 @@ source_sha256: d50b44df321cf8be51375c07cee5dbcf03eac76df1cd11ab4bd777c9fce0f789
 
 # Artículo 7
 
-La Procuraduría o, en su caso, la Agencia, según corresponda, podrán verificar el cumplimiento y seguimiento de las medidas preventivas y correctivas contenidas en el Plan de Acción.
+La [Procuraduría](articulo-2.md) o, en su caso, la [Agencia](articulo-2.md), según corresponda, podrán verificar el cumplimiento y seguimiento de las medidas preventivas y correctivas contenidas en el [Plan de Acción](articulo-2.md).
 
 Artículo reformado DOF 31-10-2014

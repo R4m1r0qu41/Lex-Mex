@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título VI · Capítulo II
+
 # Artículo 202
 
 La falta de la forma exigida por esta Ley o por convenio de las partes, respecto de los actos o las operaciones que sean contratadas entre las casas de bolsa y su clientela inversionista, produce la nulidad relativa de dichos actos u operaciones.

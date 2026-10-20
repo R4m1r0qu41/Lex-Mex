@@ -19,7 +19,7 @@ source_sha256: 7b3cf7a0ff59f76503a97a535457c4a7dd3b1305e7a36f4fca82bd661eab1168
 
 La Comisión Bicamaral tendrá las siguientes atribuciones:
 
-I. Solicitar informes concretos al Centro, cuando se discuta una ley o se estudie un asunto concerniente a su ramo o actividades;
+I. Solicitar informes concretos al [Centro](articulo-6.md), cuando se discuta una ley o se estudie un asunto concerniente a su ramo o actividades;
 
 II. Conocer el proyecto anual de la Agenda Nacional de Riesgos y emitir opinión al respecto;
 
@@ -33,6 +33,6 @@ VI. Conocer de los Acuerdos de Cooperación que establezca el Centro y las Accio
 
 VII. Requerir al Centro y a las instancias correspondientes los resultados de las revisiones, auditorías y procedimientos que se practiquen a dicha institución;
 
-VIII. Enviar al Consejo cualquier recomendación que considere apropiada, y
+VIII. Enviar al [Consejo](articulo-6.md) cualquier recomendación que considere apropiada, y
 
 IX. Las demás que le otorgue otras disposiciones legales.

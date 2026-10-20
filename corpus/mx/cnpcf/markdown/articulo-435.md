@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo I
+
 # Artículo 435
 
 Las resoluciones que se dicten en las diligencias de jurisdicción voluntaria ante autoridad jurisdiccional son recurribles en términos de lo que establece este [Código Nacional](articulo-2.md). La resolución desestimatoria de la petición es recurrible en queja. La que dé por concluido el procedimiento de las diligencias, será apelable en el efecto devolutivo.

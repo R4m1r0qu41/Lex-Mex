@@ -17,7 +17,7 @@ source_sha256: 0574853d06020030188e8aee1eae5dabb2b476ac630cc52be631a48d2b91adbc
 
 # Artículo 34
 
-Una vez que la Secretaría reciba una manifestación de impacto ambiental e integre el expediente a que se refiere el artículo [35](articulo-35.md), pondrá ésta a disposición del público, con el fin de que pueda ser consultada por cualquier persona.
+Una vez que la [Secretaría](articulo-3o.md) reciba una manifestación de impacto ambiental e integre el expediente a que se refiere el artículo [35](articulo-35.md), pondrá ésta a disposición del público, con el fin de que pueda ser consultada por cualquier persona.
 
 Los promoventes de la obra o actividad podrán requerir que se mantenga en reserva la información que haya sido integrada al expediente y que, de hacerse pública, pudiera afectar derechos de propiedad industrial, y la confidencialidad de la información comercial que aporte el interesado.
 

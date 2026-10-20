@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Primero · Capítulo I
+
 # Artículo 565
 
 Fuera de los casos anteriores, se ordenará requerir a la parte deudora alimentista sobre el pago inmediato de la pensión provisional, con el apercibimiento de embargar bienes de su propiedad que garanticen su cumplimiento. En caso de que se actualice el incumplimiento de la parte deudora alimentista total o parcial por un periodo mayor a 90 días, la autoridad jurisdiccional ordenará su inscripción en el Registro Nacional de Obligaciones Alimentarias.

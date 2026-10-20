@@ -15,4 +15,4 @@ source_sha256: ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776
 
 # Artículo 4
 
-Los aeródromos militares de las Secretarías de la Defensa Nacional y de Marina que conforme a las bases o convenios celebrados con la Secretaría están facultados para realizar operaciones civiles, se regirán en la realización de tales operaciones por la Ley, este Reglamento y demás disposiciones aplicables.
+Los aeródromos militares de las [Secretarías](articulo-2.md) de la Defensa Nacional y de Marina que conforme a las bases o convenios celebrados con la Secretaría están facultados para realizar operaciones civiles, se regirán en la realización de tales operaciones por la [Ley](articulo-2.md), este Reglamento y demás disposiciones aplicables.

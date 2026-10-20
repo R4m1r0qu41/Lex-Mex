@@ -17,4 +17,4 @@ source_sha256: 35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc
 
 # Artículo 225
 
-No obstante su plena capacidad para actuar en juicio, el Instituto no podrá desistir de continuar ninguna acción judicial cuando se trate de asuntos que afecten a su patrimonio, si no media para ello autorización expresa de su Junta Directiva.
+No obstante su plena capacidad para actuar en juicio, el [Instituto](articulo-4o.md) no podrá desistir de continuar ninguna acción judicial cuando se trate de asuntos que afecten a su patrimonio, si no media para ello autorización expresa de su [Junta](articulo-4o.md) Directiva.

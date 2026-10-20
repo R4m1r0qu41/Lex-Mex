@@ -15,4 +15,4 @@ source_sha256: 51dd3b9347aab0e63387e02f689edd4fa3ea43a93933a0027f9a9977fffba83d
 
 # CUARTO
 
-El Instituto deberá publicar el listado al que se refiere el artículo [131](articulo-131.md) del presente Reglamento dentro del plazo de tres meses contado a partir de la entrada en vigor de este Reglamento.
+El Instituto deberá publicar el listado al que se refiere el artículo [131](articulo-131.md) del presente [Reglamento](articulo-2.md) dentro del plazo de tres meses contado a partir de la entrada en vigor de este Reglamento.

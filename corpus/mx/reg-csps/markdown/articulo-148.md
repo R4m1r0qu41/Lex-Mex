@@ -17,4 +17,4 @@ source_sha256: 70464807d63da08244e495f2ff0ac30b12b30119926b84cedc7930397fcb80ef
 
 # Artículo 148
 
-Los alimentos envasados para lactantes y niños de corta edad, podrán prepararse con cualquier alimento aceptado por la Secretaría como apto para consumo humano y apropiado para tales productos, incluidas las especias.
+Los alimentos envasados para lactantes y niños de corta edad, podrán prepararse con cualquier alimento aceptado por la [Secretaría](articulo-2o.md) como apto para consumo humano y apropiado para tales productos, incluidas las especias.

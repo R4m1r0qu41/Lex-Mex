@@ -17,7 +17,7 @@ source_sha256: 1d398a90955ef45ccb7baf4d56534c676cde8325e8b109c4d32120909e783694
 
 # Artículo 68
 
-La administración del Fondo se deberá realizar de conformidad con lo establecido en la Ley Federal de Presupuesto y Responsabilidad Hacendaria, su Reglamento, el presente Reglamento y las Reglas de Operación, y atendiendo a los siguientes criterios:
+La administración del Fondo se deberá realizar de conformidad con lo establecido en la Ley Federal de Presupuesto y Responsabilidad Hacendaria, su Reglamento, el presente Reglamento y las [Reglas de Operación](articulo-2.md), y atendiendo a los siguientes criterios:
 
 I. Transparencia, por lo que los actos de asignación, destino, uso, aplicación y administración de los recursos deberá hacer factibles:
 

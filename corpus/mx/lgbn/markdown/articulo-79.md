@@ -17,7 +17,7 @@ source_sha256: ea96e97cbea2fd1919af78b94cd3466ee20a77e05989be2d482d2eb8061618c5
 
 # Artículo 79
 
-Respecto de los muebles e inmuebles federales utilizados para fines religiosos y sus anexidades, a la Secretaría le corresponderá:
+Respecto de los muebles e inmuebles federales utilizados para fines religiosos y sus anexidades, a la [Secretaría](articulo-2.md) le corresponderá:
 
 I.- Resolver administrativamente todas las cuestiones que se susciten sobre la extensión y deslinde de los inmuebles federales utilizados para fines religiosos y sus anexidades, así como sobre los derechos y obligaciones de las asociaciones religiosas y los responsables de los templos respecto de la administración, cuidado y vigilancia de dichos bienes;
 

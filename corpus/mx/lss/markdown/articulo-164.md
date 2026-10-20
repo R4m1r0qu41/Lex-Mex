@@ -21,6 +21,6 @@ Los asegurados que reúnan los requisitos establecidos en esta sección podrán 
 
 II. Mantener el saldo de su cuenta individual en una Administradora de Fondos para el Retiro y efectuar con cargo a éste, retiros programados.
 
-Los supuestos referidos se sujetarán a lo establecido en esta Ley y de conformidad con las reglas de carácter general que expida la Comisión Nacional del Sistema de Ahorro para el Retiro. Aclaración al párrafo DOF 16-01-1996. Reformado DOF 16-12-2020
+Los supuestos referidos se sujetarán a lo establecido en esta [Ley](articulo-5-A.md) y de conformidad con las reglas de carácter general que expida la Comisión Nacional del Sistema de Ahorro para el Retiro. Aclaración al párrafo DOF 16-01-1996. Reformado DOF 16-12-2020
 
 El asegurado que elija la opción prevista en la fracción II o ambas podrá, en cualquier momento, contratar una renta vitalicia de acuerdo a lo dispuesto en la fracción I, excepto cuando la renta mensual vitalicia a convenirse fuera inferior a la pensión garantizada que le corresponda conforme a las semanas de cotización, al salario base de cotización y a la edad de sesenta y cinco años, de la tabla establecida en el artículo [170](articulo-170.md) de esta Ley. Párrafo reformado DOF 16-12-2020

@@ -17,4 +17,4 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 224
 
-La oposición al registro o publicación solicitado no prejuzgará sobre el resultado del examen de fondo que realice el Instituto sobre la solicitud.
+La oposición al registro o publicación solicitado no prejuzgará sobre el resultado del examen de fondo que realice el [Instituto](articulo-4.md) sobre la solicitud.

@@ -122,12 +122,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfprh:term:se-deroga.-fraccion-derogada-dof-04-09-2009\n\nxiv-bis.-evaluacion-costo-y-beneficio",
-    "term": "Se deroga. Fracción derogada DOF 04-09-2009\n\nXIV Bis. Evaluación costo y beneficio",
+    "id": "urn:lex-mx:federal:regulation:reg-lfprh:term:evaluacion-costo-y-beneficio",
+    "term": "Evaluación costo y beneficio",
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lfprh",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:2",
-    "fraction": "XIV",
-    "start_char": 3003,
+    "fraction": "XIV Bis",
+    "start_char": 3053,
     "end_char": 3412,
     "basis": "express_definition"
   },

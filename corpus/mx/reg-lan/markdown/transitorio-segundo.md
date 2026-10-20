@@ -23,4 +23,4 @@ II. El Reglamento de la Ley de fecha 29 de diciembre de 1956, en materia de agua
 
 III. El Reglamento para la Prevención y Control de la Contaminación de Aguas, publicado en el Diario Oficial de la Federación el 29 de marzo de 1973, y
 
-IV. El Reglamento del Artículo 124 de la Ley Federal de Aguas, publicado en el Diario Oficial de la Federación el 3 de diciembre de 1975. Asimismo, se derogan las demás disposiciones que se opongan al presente "Reglamento".
+IV. El Reglamento del Artículo 124 de la Ley Federal de Aguas, publicado en el Diario Oficial de la Federación el 3 de diciembre de 1975. Asimismo, se derogan las demás disposiciones que se opongan al presente "[Reglamento](articulo-1o.md)".

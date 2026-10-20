@@ -17,4 +17,4 @@ source_sha256: aa96853f010885bdf85160e944e5c0ef5c3c8e95422dfede280d228cf064310a
 
 # Artículo 144
 
-Las Suministradoras, los Usuarios Calificados Participantes del Mercado y las Usuarias Finales que se suministren por autoconsumo, sean de carácter público o particular, están sujetos al cumplimiento de las obligaciones para la transición energética y descarbonización en los términos establecidos en esta Ley, la Ley de Planeación y Transición Energética y la regulación que al efecto emita la Secretaría.
+Las [Suministradoras](articulo-3.md), los [Usuarios Calificados](articulo-3.md) Participantes del Mercado y las [Usuarias Finales](articulo-3.md) que se suministren por autoconsumo, sean de carácter público o particular, están sujetos al cumplimiento de las obligaciones para la transición energética y descarbonización en los términos establecidos en esta Ley, la Ley de Planeación y Transición Energética y la regulación que al efecto emita la [Secretaría](articulo-3.md).

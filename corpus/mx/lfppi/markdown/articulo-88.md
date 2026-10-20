@@ -19,7 +19,7 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 El derecho exclusivo de explotación del esquema de trazado protegido confiere a su titular el derecho de impedir a otras personas que, sin su consentimiento:
 
-I.- Reproduzcan en su totalidad el esquema de trazado protegido o cualquiera de sus partes que se considere original por sí misma, en los términos de la fracción IV del artículo [84](articulo-84.md) de esta Ley, por incorporación en un circuito integrado o en cualquier otra forma, y
+I.- Reproduzcan en su totalidad el esquema de trazado protegido o cualquiera de sus partes que se considere original por sí misma, en los términos de la fracción IV del artículo [84](articulo-84.md) de esta [Ley](articulo-4.md), por incorporación en un circuito integrado o en cualquier otra forma, y
 
 II.- Importen, vendan o distribuyan, en cualquier forma, para fines comerciales:
 

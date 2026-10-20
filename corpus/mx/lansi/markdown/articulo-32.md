@@ -17,7 +17,7 @@ source_sha256: 0e34f329befed4474eb7bc1bc195ba13bbe188edfbbabc914a44723e62eb9e44
 
 # Artículo 32
 
-La Agencia contará con un Consejo Técnico, el cual apoyará el desarrollo de sus actividades y servirá como instancia de coordinación entre las dependencias, órganos y entidades de la Administración Pública Federal con atribuciones relacionadas con las materias de esta Ley.
+La [Agencia](articulo-3o.md) contará con un Consejo Técnico, el cual apoyará el desarrollo de sus actividades y servirá como instancia de coordinación entre las dependencias, órganos y entidades de la Administración Pública Federal con atribuciones relacionadas con las materias de esta Ley.
 
 El Consejo Técnico estará integrado por los titulares de las secretarías de Medio Ambiente y Recursos Naturales, quien lo presidirá; de Gobernación; de Marina; de Hacienda y Crédito Público; de Energía; de Comunicaciones y Transportes; del Trabajo y Previsión Social; de Salud; de la Comisión Nacional de Hidrocarburos; de la Comisión Reguladora de Energía; de la Comisión Nacional del Agua; de la Comisión Nacional de Áreas Naturales Protegidas y a el Instituto Nacional de Ecología y Cambio Climático. Los miembros titulares podrán nombrar un suplente con nivel mínimo de Director General o su equivalente.
 

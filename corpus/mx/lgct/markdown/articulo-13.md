@@ -17,4 +17,4 @@ source_sha256: 9f964bc5c075d7cf47e5e9df7c2fbe262eb5bd1794de9b230dbd72026a51ae5e
 
 # Artículo 13
 
-Las compañías productoras, importadoras o comercializadoras de productos del tabaco, tendrán la obligación de entregar a la Secretaría la información relativa al contenido de los productos del tabaco, los ingredientes usados y las emisiones y sus efectos en la salud conforme a las disposiciones aplicables y hacerlas públicas a la población en general.
+Las compañías productoras, importadoras o comercializadoras de productos del tabaco, tendrán la obligación de entregar a la [Secretaría](articulo-6.md) la información relativa al contenido de los productos del tabaco, los ingredientes usados y las emisiones y sus efectos en la salud conforme a las disposiciones aplicables y hacerlas públicas a la población en general.

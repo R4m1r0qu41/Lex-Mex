@@ -17,7 +17,7 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Artículo 54
 
-En la integración y operación de los grupos a que se refiere el artículo [53](articulo-53.md), fracción XVIII, la Comisión Nacional de Búsqueda tiene las siguientes atribuciones:
+En la integración y operación de los grupos a que se refiere el artículo [53](articulo-53.md), fracción XVIII, la [Comisión Nacional de Búsqueda](articulo-4.md) tiene las siguientes atribuciones:
 
 I. Determinar las autoridades que deben integrar los grupos, en cuyo caso podrá solicitar, cuando lo estime pertinente, la participación de autoridades de los tres órdenes de gobierno;
 

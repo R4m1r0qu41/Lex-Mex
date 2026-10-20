@@ -103,7 +103,7 @@ retarget historical edges or export modified canonical JSON. Read-only validatio
 of pinned inputs **is required**; invoking mutating pipeline CLI commands is not.
 This corrects the suggestions' blanket prohibition on using a validator.
 
-### Census checked during planning
+### Historical census checked during October 17 planning
 
 Counts were independently recomputed from committed-shaped JSON without printing
 source text. They are acceptance expectations for this baseline, not constants
@@ -228,14 +228,15 @@ Unknown schema versions/enum values fail with a useful diagnostic until mapped.
 | `reference_edges` | Canonical edge ID PK; full source/target strings, source kind, spans, basis/confidence/form/status and extras. See constraints below. |
 | `reference_qualifiers` | Composite PK `(edge_id, ordinal)`; exact type/text/optional offsets and extras. Preserve list text and repeated types; no span uniqueness or AUTOINCREMENT. |
 | `outdated_reference_approvals` / `legal_operator_reviews` | Independent optional one-to-one rows keyed by edge ID; complete canonical payload and queryable reviewer/time fields. One can exist without the other. |
-| `defined_terms` | Canonical ID PK; owning instrument, defining provision, fraction, offsets, basis and extras. |
+| `defined_terms` | Canonical ID PK; owning instrument, defining provision, offsets, basis and extras. Optional fraction/inciso keys remain in extras with queryable generated projections; preserve source-bound definition spans. |
+| `glossary_coverage` | One reconstructible record per instrument: status/strategy, provision methods, ordered fractions/imports, hold, profile, usage form and counts. Preserve absent/empty/null distinctions, unread fractions and inciso profile metadata under the [current glossary contract](../sqlite-contract-refresh-2026-10-19.md#glossary-preservation-contract). Raw bytes plus extras/columns reconstruct all values. |
 | `term_usages` | Canonical ID PK; provision and term FKs, exact span/offsets and extras. Cross-instrument usages are valid and remain separate from reference edges. |
 | `enactment_evidence` | Canonical ID PK; owner, kind, containing-act title, source heading, text, publication date/period and extras; not law provisions. |
 | `evidence_artifacts` | Path/kind/owner; preserved reform evidence, amendment legends, temporal proposals/results and review queues with schema/version/hash. Define query views only over real existing fields. |
-| `coverage` / `coverage_accepted_gaps` | Explicit included/excluded/unavailable/not-assessed states, eight gap entries with exact error multiplicity/reason and source provenance. Keep instrument validation and closure completeness distinct. |
+| `coverage` / `coverage_accepted_gaps` | Explicit included/excluded/unavailable/not-assessed states, the pinned five current gap entries with exact error multiplicity/reason and source provenance. Keep instrument validation and closure completeness distinct. |
 | `standards_catalog` | Standard ID/designation/title and exact metadata payload, stored validation summary, exclusion reason; declare clauses/text/links unprojected and fresh validation not performed. |
 | `known_structural_debt` | One row per sourced known defect: instrument, missing or affected label, kind (`merged_heading`, `label_grammar_gap`, …), where the text actually lives (containing provision ID and exact character locator), source path/blob/hash and decision reference. Loaded only from operator-accepted rows of `adapters/shared/_known-structural-debt.json`; the `docs/decisions.md` aggregate (about 77 in 14 instruments) is not a seed. Never inferred by the builder. |
-| `instrument_reproducibility` | Recorded measurements only: `identical`, `differs`, `fails` or `no_retained_text`, with the measuring commit, method and evidence hash. A view over `instruments` supplies `not_assessed` where no row exists; no stored `not_assessed` rows. Zero rows at this baseline. |
+| `instrument_reproducibility` | Recorded measurements only: `identical`, `differs`, `fails` or `no_retained_text`, with the measuring commit, method and evidence hash. A view over `instruments` supplies `not_assessed` where no row exists; no stored `not_assessed` rows. No whole-instrument measurements are asserted by this refresh; scope-aware evidence is required before promotion. |
 | `coverage_status_counts` | Per instrument: provisions by temporal status and review status, so `not_analyzed` is visible and dates are not read as reviewed. |
 
 Indexes: provision `(instrument_id, ordinal)` and `(instrument_id, number)`;
@@ -330,10 +331,11 @@ reviewed; each is an M3 acceptance fixture):
    stays live.
 4. An approved-outdated edge returns its approval and its operator note
    together.
-5. `cited_but_missing` lists `cpf` → LIC article 112 Quintus, multiplicity 1
-   (instrument-level; no citing provision).
-6. `lgtoc` article 228-B returns "not separately parsed" with its containing
-   provision from `known_structural_debt` (requires the accepted seed row).
+5. `cited_but_missing` lists `lftr` → LGTAIP article 180 Bis, multiplicity 1
+   (instrument-level; no citing provision). CPF → LIC 112 Quintus is repaired and must be absent from that view.
+6. LGTOC 228-B returns its separate provision with no active debt qualification.
+   LFD 257 Sextus returns "not separately parsed" with its containing article
+   257 Quintus and the accepted seed locator [100, 121).
 7. FTS for `obligacion` and `obligación` return the same provisions.
 8. Exact lookup of a `Terdecies` article returns that article.
 
@@ -412,8 +414,7 @@ M1 also measures the storage layout (item 4 above) and records the projected
 size, and fixes the `known_structural_debt` and reproducibility seed sources.
 Settled 2026-10-17 in the
 [M1 contract decisions](../sqlite-m1-contract-decisions-2026-10-17.md):
-extras-only layout, seed contract and reviewed seed (77 proposed, 27 rejected
-as legally removed placeholders, 10 deferred to the DCG pass, 3 unreviewed),
+extras-only layout, seed contract and reviewed seed (historical counts; see the [current refresh](../sqlite-contract-refresh-2026-10-19.md) for 17 accepted, 30 rejected, 10 deferred and 60 resolved rows),
 three-outcome lookup and view-supplied `not_assessed`.
 
 Acceptance: every present canonical field/file has a preservation mapping;
@@ -467,8 +468,8 @@ Acceptance and stop condition:
   query results agree deterministically; byte identity is reported. A changed
   input or toolchain produces a distinct specification/release identity, not
   an overwrite.
-- All eight golden queries return their recorded answers.
-- Eight accepted gaps, exclusions, machine baselines and stored uncertainty are
+- All updated golden queries return their recorded answers.
+- Five current accepted gaps, exclusions, machine baselines and stored uncertainty are
   queryable. Standards catalogue is distinct and their body coverage is excluded.
 - Required native gate: `cargo fmt --check`,
   `cargo clippy --workspace --all-targets -- -D warnings`,
@@ -482,6 +483,33 @@ Acceptance and stop condition:
   work is added before stopping.
 
 ## Current checkpoint and next action
+
+2026-10-20 (M1 implementation): main bfcda816f is integrated in the DB worktree;
+local integration commit follows the final gate. [Implementation report](../sqlite-m1-implementation-2026-10-20.md)
+and [evidence](../sqlite-m1-implementation-2026-10-20-evidence.json) record
+manifest/seed schemas and types, all 17 accepted seed rows, the pinned input
+handling matrix, SQL DDL and a working in-memory fixture builder/read-back
+probe consumed by lex-cli. Bundled SQLite 3.53.2 supports FTS5/JSON/STRICT.
+Final fmt/Clippy/373 tests pass, required instrument validators pass, seed
+bindings pass and 4,917 real input files classify successfully. No full-corpus
+DB artifact or new canonical/legal determination. M2 loaders/output and M3
+release verification are not implemented. Earlier dates below are historical.
+
+2026-10-19 (contract/debt refresh): current corpus input is
+`bfcda816f46b8b0c1d694fc1f2cfb8b4438275b2`, following the reviewed sweep
+`d8ecaeaa0`. DB branch HEAD remains `04cc039af`; no history was changed.
+The [refresh](../sqlite-contract-refresh-2026-10-19.md) is the current binding
+contract for census, glossary preservation, sourced debt and query expectations.
+It supersedes dated counts and repaired missing-article examples below; the
+immutable initial baseline above and historical measurements stay unchanged.
+
+Current census: 468 instruments, 68,328 provisions, 35,949 references, 5,734
+terms and 102,204 usages. Glossary strategy 3; 18 configured, 299 detected,
+6 held, 145 none detected. Five accepted closure gaps. The current reviewed
+seed has 17 accepted, 30 rejected and 10 deferred candidates, plus 60 repaired
+old rows recorded separately. No new legal ruling or database artifact.
+
+### Historical checkpoints
 
 2026-10-17 (operator rulings): Latin ordinals beyond `Nonies` are the same
 numbering series; the label grammar now ranks them (`fe4a53f1e` on `main`,
@@ -524,6 +552,6 @@ file changed. The operator's two suggestion files remain untouched/untracked.
 
 `resolution_rule` landed (see `docs/decisions.md`).
 
-Exactly one next action: continue M1 implementation — manifest and seed
-types/schemas (promoting rows once accepted), DDL under the settled
-contract, an adversarial fixture and feature probes.
+Exactly one current next action: review the M1 schema/provenance boundary, then
+implement M2's full pinned-input transactional builder and recovery gates.
+Keep M3 independent verification and M4 full-corpus reproducibility separate.

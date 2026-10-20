@@ -17,6 +17,6 @@ source_sha256: 96092a4581d4e87910eb58939da4045879e4fe613b12f4413d7392bcc2c6e884
 
 # Artículo 89
 
-Por la infracción de cualquiera de las normas de la presente Ley, independientemente de las sanciones establecidas en este capítulo, la Secretaría puede, en los términos que señale el Reglamento, suspender o cancelar los permisos o licencias que haya otorgado.
+Por la infracción de cualquiera de las normas de la presente [Ley](articulo-1o-Bis.md), independientemente de las sanciones establecidas en este capítulo, la [Secretaría](articulo-1o-Bis.md) puede, en los términos que señale el [Reglamento](articulo-1o-Bis.md), suspender o cancelar los permisos o licencias que haya otorgado.
 
 Artículo reformado DOF 29-05-2025

@@ -21,7 +21,7 @@ Las solicitudes para inscribir sociedades mineras, su disolución o liquidación
 
 I. Tipo de inscripción que se solicita;
 
-II. Razón social o denominación de la sociedad y, en su caso, datos de su inscripción en el Registro;
+II. Razón social o denominación de la sociedad y, en su caso, datos de su inscripción en el [Registro](articulo-1o.md);
 
 III. Objeto y domicilio social;
 

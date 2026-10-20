@@ -29,6 +29,28 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:laero:article:2",
     "fraction": "III",
     "start_char": 774,
+    "end_char": 1113,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:laero:term:aerodromo-de-servicio-particular",
+    "term": "Aeródromo de servicio particular",
+    "instrument_id": "urn:lex-mx:federal:statute:laero",
+    "defining_provision_id": "urn:lex-mx:federal:statute:laero:article:2",
+    "fraction": "IV",
+    "start_char": 1113,
+    "end_char": 1270,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:laero:term:aerodromo-temporal",
+    "term": "Aeródromo temporal",
+    "instrument_id": "urn:lex-mx:federal:statute:laero",
+    "defining_provision_id": "urn:lex-mx:federal:statute:laero:article:2",
+    "fraction": "IV Bis",
+    "start_char": 1270,
     "end_char": 1540,
     "basis": "express_definition"
   },
@@ -62,6 +84,28 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:laero:article:2",
     "fraction": "VII",
     "start_char": 2404,
+    "end_char": 2689,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:laero:term:agencia-federal-de-aviacion-civil",
+    "term": "Agencia Federal de Aviación Civil",
+    "instrument_id": "urn:lex-mx:federal:statute:laero",
+    "defining_provision_id": "urn:lex-mx:federal:statute:laero:article:2",
+    "fraction": "VII Bis",
+    "start_char": 2689,
+    "end_char": 2973,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:laero:term:disposiciones-tecnico-administrativas",
+    "term": "Disposiciones técnico-administrativas",
+    "instrument_id": "urn:lex-mx:federal:statute:laero",
+    "defining_provision_id": "urn:lex-mx:federal:statute:laero:article:2",
+    "fraction": "VII Ter",
+    "start_char": 2973,
     "end_char": 3558,
     "basis": "express_definition"
   },

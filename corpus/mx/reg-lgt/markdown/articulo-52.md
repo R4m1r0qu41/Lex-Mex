@@ -17,4 +17,4 @@ source_sha256: 6680a58c98673518aee46582b3137d28987c275785d1f0c97295f0d89c4b692b
 
 # Artículo 52
 
-Las Zonas de Desarrollo Turístico Sustentable estarán clasificadas en dos categorías: zonas actuales y zonas potenciales. Las características de cada una, se establecerán en los Lineamientos para la Dictaminación de las Zonas de Desarrollo Turístico Sustentable.
+Las Zonas de [Desarrollo Turístico](articulo-2.md) Sustentable estarán clasificadas en dos categorías: zonas actuales y zonas potenciales. Las características de cada una, se establecerán en los Lineamientos para la Dictaminación de las Zonas de Desarrollo Turístico Sustentable.

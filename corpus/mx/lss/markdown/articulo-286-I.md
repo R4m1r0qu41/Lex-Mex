@@ -17,7 +17,7 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 286-I
 
-El Instituto conformará su estructura orgánica y ocupacional de acuerdo con las necesidades del servicio. Asimismo, diseñará y establecerá el sistema de compensación que servirá de base para determinar el pago de remuneraciones, prestaciones y estímulos en favor de los trabajadores de confianza a que se refiere el artículo [256](articulo-256.md) de esta Ley, con el fin de mantener su competitividad en el mercado laboral.
+El [Instituto](articulo-5-A.md) conformará su estructura orgánica y ocupacional de acuerdo con las necesidades del servicio. Asimismo, diseñará y establecerá el sistema de compensación que servirá de base para determinar el pago de remuneraciones, prestaciones y estímulos en favor de los trabajadores de confianza a que se refiere el artículo [256](articulo-256.md) de esta [Ley](articulo-5-A.md), con el fin de mantener su competitividad en el mercado laboral.
 
 El régimen específico, los procesos y demás características del Sistema de profesionalización y desarrollo del personal a que se refiere este Capítulo, quedarán establecidos en el Estatuto que al efecto apruebe el Consejo Técnico.
 

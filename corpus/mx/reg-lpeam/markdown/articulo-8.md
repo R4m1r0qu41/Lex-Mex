@@ -17,4 +17,4 @@ source_sha256: 4195c0740ad46978a8b0f2d43f0ac6d77e46b0216bd6f756950b1a050044ce98
 
 # Artículo 8
 
-La coordinación entre el Centro, la AFAC y SENEAM, en sus ámbitos de competencia, debe privilegiar la Seguridad Operacional y el Uso Flexible del Espacio Aéreo Mexicano, así como los procedimientos aprobados por el Consejo.
+La coordinación entre el Centro, la [AFAC](articulo-4.md) y [SENEAM](articulo-4.md), en sus ámbitos de competencia, debe privilegiar la [Seguridad Operacional](articulo-4.md) y el [Uso Flexible del Espacio Aéreo](articulo-4.md) Mexicano, así como los procedimientos aprobados por el Consejo.

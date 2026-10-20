@@ -17,6 +17,6 @@ source_sha256: ea96e97cbea2fd1919af78b94cd3466ee20a77e05989be2d482d2eb8061618c5
 
 # Artículo 12
 
-Las Secretarías de Seguridad y Protección Ciudadana, de la Defensa Nacional y de Marina, así como la Consejería Jurídica del Ejecutivo Federal, prestarán el auxilio necesario cuando formalmente se les requiera, con el fin de salvaguardar los intereses patrimoniales de la Nación.
+Las [Secretarías](articulo-2.md) de Seguridad y Protección Ciudadana, de la Defensa Nacional y de Marina, así como la Consejería Jurídica del Ejecutivo Federal, prestarán el auxilio necesario cuando formalmente se les requiera, con el fin de salvaguardar los intereses patrimoniales de la Nación.
 
 Artículo reformado DOF 20-05-2021

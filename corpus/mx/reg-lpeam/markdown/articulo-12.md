@@ -17,4 +17,4 @@ source_sha256: 4195c0740ad46978a8b0f2d43f0ac6d77e46b0216bd6f756950b1a050044ce98
 
 # Artículo 12
 
-El Centro debe determinar si una aeronave se considera como una traza de interés, mediante la aplicación de los procedimientos de Vigilancia, Detección e Identificación establecidos por el Consejo.
+El Centro debe determinar si una aeronave se considera como una traza de interés, mediante la aplicación de los procedimientos de [Vigilancia](articulo-4.md), Detección e Identificación establecidos por el Consejo.

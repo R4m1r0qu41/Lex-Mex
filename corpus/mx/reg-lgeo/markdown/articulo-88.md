@@ -17,4 +17,4 @@ source_sha256: b19bcf104673af06117a6d4f3c947591f7a65999f19bad3dcfe2599a29bb3ab0
 
 # Artículo 88
 
-Para el caso de las Concesiones, la declaratoria de rescate emitida por la Secretaría, debe publicarse en el Diario Oficial de la Federación.
+Para el caso de las Concesiones, la declaratoria de rescate emitida por la [Secretaría](articulo-3.md), debe publicarse en el Diario Oficial de la Federación.

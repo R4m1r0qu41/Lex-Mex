@@ -19,7 +19,7 @@ source_sha256: d0021bbef2e0c3251d6efdea2c1efd9959ff3f02df4bcd1fc37c1ee7826a72ba
 
 Los supuestos a los que se refiere la fracción I del artículo [54](articulo-54.md) de esta Ley, consisten en cualquiera de los siguientes:
 
-I. Entre Agentes Económicos que no sean competidores entre sí, la fijación, imposición o establecimiento de la comercialización o distribución exclusiva de bienes o servicios, por razón de sujeto, situación geográfica o por períodos determinados, incluidas la división, distribución o asignación de clientes o proveedores; así como la imposición de la obligación de no fabricar o distribuir bienes o prestar servicios por un tiempo determinado o determinable;
+I. Entre [Agentes Económicos](articulo-3.md) que no sean competidores entre sí, la fijación, imposición o establecimiento de la comercialización o distribución exclusiva de bienes o servicios, por razón de sujeto, situación geográfica o por períodos determinados, incluidas la división, distribución o asignación de clientes o proveedores; así como la imposición de la obligación de no fabricar o distribuir bienes o prestar servicios por un tiempo determinado o determinable;
 
 II. La imposición del precio o demás condiciones que un distribuidor o proveedor deba observar al prestar, comercializar o distribuir bienes o servicios; III. La venta o transacción condicionada a comprar, adquirir, vender o proporcionar otro bien o servicio, normalmente distinto o distinguible o sobre bases de reciprocidad;
 
@@ -29,7 +29,7 @@ V. La acción unilateral consistente en rehusarse a vender, comercializar o prop
 
 VI. La concertación entre varios Agentes Económicos o la invitación a éstos para ejercer presión contra algún Agente Económico o para rehusarse a vender, comercializar o adquirir bienes o servicios a dicho Agente Económico, con el propósito de disuadirlo de una determinada conducta, aplicar represalias u obligarlo a actuar en un sentido determinado;
 
-VII. La venta por debajo de su costo medio variable o la venta por debajo de su costo medio total, pero por arriba de su costo medio variable, si existen elementos para presumir que le permitirá al Agente Económico recuperar sus pérdidas mediante incrementos futuros de precios, en los términos de las Disposiciones Regulatorias;
+VII. La venta por debajo de su costo medio variable o la venta por debajo de su costo medio total, pero por arriba de su costo medio variable, si existen elementos para presumir que le permitirá al Agente Económico recuperar sus pérdidas mediante incrementos futuros de precios, en los términos de las [Disposiciones Regulatorias](articulo-3.md);
 
 VIII. El otorgamiento de descuentos, incentivos o beneficios por parte de productores o proveedores a los compradores con el requisito de no usar, adquirir, vender, comercializar o proporcionar los bienes o servicios producidos, procesados, distribuidos o comercializados por un tercero, o la compra o transacción sujeta al requisito de no vender, comercializar o proporcionar a un tercero los bienes o servicios objeto de la venta o transacción;
 
@@ -43,4 +43,4 @@ XII. La denegación, restricción de acceso o acceso en términos y condiciones 
 
 XIII. El estrechamiento de márgenes, consistente en reducir el margen existente entre el precio de acceso a un insumo esencial provisto por uno o varios agentes económicos y el precio del bien o servicio ofrecido al consumidor final por esos mismos agentes económicos, utilizando para su producción el mismo insumo.
 
-Para efectos de investigar y en su caso sancionar las prácticas a que se refieren las fracciones XII y XIII de este artículo, la Comisión podrá determinar la existencia de insumos esenciales sin acudir al procedimiento previsto en el artículo [94](articulo-94.md) de esta Ley.
+Para efectos de investigar y en su caso sancionar las prácticas a que se refieren las fracciones XII y XIII de este artículo, la [Comisión](articulo-3.md) podrá determinar la existencia de insumos esenciales sin acudir al procedimiento previsto en el artículo [94](articulo-94.md) de esta Ley.

@@ -15,4 +15,4 @@ source_sha256: ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776
 
 # Artículo 1
 
-El presente ordenamiento tiene por objeto regular la construcción, administración, operación y explotación de los aeródromos civiles, como partes integrantes de las vías generales de comunicación aérea, conforme a la Ley de Aeropuertos.
+El presente ordenamiento tiene por objeto regular la construcción, administración, operación y explotación de los aeródromos civiles, como partes integrantes de las vías generales de comunicación aérea, conforme a la [Ley](articulo-2.md) de Aeropuertos.

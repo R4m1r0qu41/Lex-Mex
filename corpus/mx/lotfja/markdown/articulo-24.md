@@ -17,4 +17,4 @@ source_sha256: b32c33fa4ed071dc8bea1ad69ce8510cdb05016967e9e4fcb60f10c6f2216628
 
 # Artículo 24
 
-Para la validez de las sesiones de la Junta de Gobierno y Administración, bastará la presencia de tres de sus miembros.
+Para la validez de las sesiones de la [Junta](articulo-2.md) de Gobierno y Administración, bastará la presencia de tres de sus miembros.

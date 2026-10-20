@@ -17,4 +17,4 @@ source_sha256: 2a105e5201b86ff5517ca1ef8d971224ea8c717f195fdd5fa28b916c7e622e56
 
 # Artículo 30
 
-Los servidores públicos que tengan contacto con la Persona Protegida deben abstenerse de hacerle cualquier ofrecimiento que no tenga sustento o no esté autorizado por el Director.
+Los servidores públicos que tengan contacto con la [Persona Protegida](articulo-2.md) deben abstenerse de hacerle cualquier ofrecimiento que no tenga sustento o no esté autorizado por el [Director](articulo-2.md).

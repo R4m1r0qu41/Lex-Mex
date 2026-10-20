@@ -17,4 +17,4 @@ source_sha256: 716e427a30e9982ccaa0576288aad2ad5305c624b236a0f342b6a87d60b7a9ed
 
 # Artículo 133
 
-Las notificaciones de las resoluciones y actos que se emitan con motivo de la aplicación de la Ley, el Reglamento y demás disposiciones jurídicas aplicables deben efectuarse de conformidad con las formalidades establecidas en el Título Tercero, Capítulo Sexto de la Ley Federal de Procedimiento Administrativo.
+Las notificaciones de las resoluciones y actos que se emitan con motivo de la aplicación de la [Ley](articulo-5.md), el [Reglamento](articulo-5.md) y demás disposiciones jurídicas aplicables deben efectuarse de conformidad con las formalidades establecidas en el Título Tercero, Capítulo Sexto de la Ley Federal de Procedimiento Administrativo.

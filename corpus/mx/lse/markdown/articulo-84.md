@@ -17,4 +17,4 @@ source_sha256: aa96853f010885bdf85160e944e5c0ef5c3c8e95422dfede280d228cf064310a
 
 # Artículo 84
 
-La CNE debe incluir en las Reglas del Mercado y Disposiciones Operativas, lineamientos relativos a los Sistemas de Almacenamiento de Energía Eléctrica dentro del Mercado Eléctrico Mayorista que fortalezcan la Calidad, Confiabilidad, Continuidad, Accesibilidad, eficiencia, Sostenibilidad y seguridad del Sistema Eléctrico Nacional.
+La [CNE](articulo-3.md) debe incluir en las [Reglas del Mercado](articulo-3.md) y Disposiciones Operativas, lineamientos relativos a los Sistemas de Almacenamiento de Energía Eléctrica dentro del [Mercado Eléctrico Mayorista](articulo-3.md) que fortalezcan la [Calidad](articulo-3.md), [Confiabilidad](articulo-3.md), [Continuidad](articulo-3.md), [Accesibilidad](articulo-3.md), eficiencia, [Sostenibilidad](articulo-3.md) y seguridad del [Sistema Eléctrico Nacional](articulo-3.md).

@@ -17,6 +17,6 @@ source_sha256: 4e276866fce1638948a6daf1a5c0438fa412554f1a6e0381cbdf7cb300e3db75
 
 # Artículo 89
 
-La Secretaría a través de sus distintas unidades administrativas, podrá otorgar los permisos, autorizaciones, licencias y concesiones que se requieran para la exploración, explotación o aprovechamiento de recursos en las áreas naturales protegidas, en términos de lo establecido por las disposiciones legales y reglamentarias aplicables.
+La [Secretaría](articulo-3o.md) a través de sus distintas unidades administrativas, podrá otorgar los permisos, autorizaciones, licencias y concesiones que se requieran para la exploración, explotación o aprovechamiento de recursos en las áreas naturales protegidas, en términos de lo establecido por las disposiciones legales y reglamentarias aplicables.
 
-Las autorizaciones comprendidas en las fracciones X, XI, XII y XIII del [artículo anterior](articulo-88.md), se tramitarán ante la Comisión Nacional de Áreas Naturales Protegidas, conforme a los procedimientos establecidos en el presente Capítulo.
+Las autorizaciones comprendidas en las fracciones X, XI, XII y XIII del [artículo anterior](articulo-88.md), se tramitarán ante la [Comisión](articulo-3o.md) Nacional de Áreas Naturales Protegidas, conforme a los procedimientos establecidos en el presente Capítulo.

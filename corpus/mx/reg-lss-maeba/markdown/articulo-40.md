@@ -27,8 +27,8 @@ III. Los incrementos que se fueron dando durante la puja, y
 
 IV. El nombre, razón social o denominación del adquirente o adquirentes y el importe final de la postura ganadora.
 
-La convocante debe señalar en el acta, que los derechos a ejercer y las obligaciones a cumplir, con motivo de la emisión de dicho documento, deberán ceñirse a las disposiciones de este Reglamento, así como a los términos y condiciones de la convocatoria correspondiente.
+La convocante debe señalar en el acta, que los derechos a ejercer y las obligaciones a cumplir, con motivo de la emisión de dicho documento, deberán ceñirse a las disposiciones de este [Reglamento](articulo-2.md), así como a los términos y condiciones de la convocatoria correspondiente.
 
 El acta será firmada por los postores y los servidores públicos que intervinieron en el evento, y se les entregará copia de la misma a los asistentes, para efectos de su notificación. La falta de firma de algún postor no invalidará el contenido y efectos del acta.
 
-Dentro de los cinco días hábiles contados a partir del día siguiente al de la celebración de la subasta, la Delegación pondrá el acta a disposición de los participantes a través de la página electrónica del Instituto, por un término no menor de cinco días hábiles, siendo de la exclusiva responsabilidad de los interesados enterarse de su contenido y obtener copia de la misma ante la convocante.
+Dentro de los cinco días hábiles contados a partir del día siguiente al de la celebración de la subasta, la [Delegación](articulo-2.md) pondrá el acta a disposición de los participantes a través de la página electrónica del [Instituto](../../lss/markdown/articulo-5-A.md), por un término no menor de cinco días hábiles, siendo de la exclusiva responsabilidad de los interesados enterarse de su contenido y obtener copia de la misma ante la convocante.

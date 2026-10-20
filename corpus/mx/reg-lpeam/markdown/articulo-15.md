@@ -17,4 +17,4 @@ source_sha256: 4195c0740ad46978a8b0f2d43f0ac6d77e46b0216bd6f756950b1a050044ce98
 
 # Artículo 15
 
-Cuando se determine que se trata de un vuelo no autorizado, el Personal Técnico de Operaciones de Vigilancia Aérea del Centro, debe sujetarse al procedimiento siguiente: I. Emitir la Declaratoria de Vuelo No Autorizado a todos los integrantes del Sistema para que procedan en el ámbito de sus competencias, y II. Aportar a la autoridad competente la información recabada y, en su caso, conforme a la ley de la materia.
+Cuando se determine que se trata de un vuelo no autorizado, el [Personal Técnico de Operaciones de Vigilancia Aérea](articulo-4.md) del Centro, debe sujetarse al procedimiento siguiente: I. Emitir la [Declaratoria de Vuelo No Autorizado](articulo-4.md) a todos los integrantes del Sistema para que procedan en el ámbito de sus competencias, y II. Aportar a la autoridad competente la información recabada y, en su caso, conforme a la ley de la materia.

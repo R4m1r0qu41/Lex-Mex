@@ -17,4 +17,4 @@ source_sha256: 70464807d63da08244e495f2ff0ac30b12b30119926b84cedc7930397fcb80ef
 
 # Artículo 205
 
-Cuando la Secretaría tenga conocimiento, basado en investigación científica reconocida, de que un aditivo muestra indicios confirmados de efectos cancerígenos, teratogénicos, mutagénicos o cualquier otro riesgo a la salud, no permitirá su importación, prohibirá su elaboración, almacenamiento y venta, aplicará las medidas de seguridad correspondientes y procederá a modificar las listas a que se refiere el artículo [22](articulo-22.md) de este Reglamento.
+Cuando la [Secretaría](articulo-2o.md) tenga conocimiento, basado en investigación científica reconocida, de que un aditivo muestra indicios confirmados de efectos cancerígenos, teratogénicos, mutagénicos o cualquier otro riesgo a la salud, no permitirá su importación, prohibirá su elaboración, almacenamiento y venta, aplicará las medidas de seguridad correspondientes y procederá a modificar las listas a que se refiere el artículo [22](articulo-22.md) de este Reglamento.

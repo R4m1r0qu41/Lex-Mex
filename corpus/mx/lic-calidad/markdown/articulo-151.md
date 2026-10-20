@@ -17,8 +17,8 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 # Artículo 151
 
-Las Autoridades Normalizadoras en los ámbitos de su competencia deberán observar lo previsto en esta Ley.
+Las [Autoridades Normalizadoras](articulo-4.md) en los ámbitos de su competencia deberán observar lo previsto en esta Ley.
 
 Las violaciones a las disposiciones de la presente Ley, su Reglamento y demás disposiciones legales aplicables por parte de las Autoridades Normalizadoras, se sujetará al régimen aplicable en materia de responsabilidades administrativas.
 
-Con independencia de lo anterior, esos incumplimientos se harán del conocimiento de la Comisión para que dicte las medidas conducentes.
+Con independencia de lo anterior, esos incumplimientos se harán del conocimiento de la [Comisión](articulo-4.md) para que dicte las medidas conducentes.

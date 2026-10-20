@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título XII
+
 # Artículo 345
 
 El auditor y el licenciado en derecho, externos, así como las personas morales de las cuales sean socios, estarán obligados a conservar la documentación, información y demás elementos utilizados para elaborar el dictamen, informe u opinión proporcionados al público con motivo de lo dispuesto en este ordenamiento legal, por un plazo de al menos cinco años. Al conservar los datos y archivos de que se trata, podrán hacerlo a través de medios automatizados o digitalizados.

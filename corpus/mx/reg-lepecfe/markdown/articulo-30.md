@@ -17,4 +17,4 @@ source_sha256: 9478163ef6ab468edc2be8def3bf84efedd03da5b6c166fba0430bfcb6d8467c
 
 # Artículo 30
 
-Para la fiscalización y el desarrollo de las auditorías que realiza la Auditoría Superior de la Federación previstas en el artículo [60](../../lepecfe/markdown/articulo-60.md) de la Ley, todas las áreas de la Comisión Federal de Electricidad deben facilitar el desarrollo de las actividades de vigilancia y auditoría.
+Para la fiscalización y el desarrollo de las auditorías que realiza la Auditoría Superior de la Federación previstas en el artículo [60](../../lepecfe/markdown/articulo-60.md) de la [Ley](articulo-2.md), todas las áreas de la Comisión Federal de Electricidad deben facilitar el desarrollo de las actividades de vigilancia y auditoría.

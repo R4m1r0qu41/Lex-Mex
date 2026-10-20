@@ -15,7 +15,7 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # DÉCIMO OCTAVO
 
-Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto aprobado al Instituto Mexicano de la Propiedad Industrial y, en caso de que se realice alguna modificación a su estructura orgánica, está también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
+Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto aprobado al [Instituto](articulo-4.md) Mexicano de la Propiedad Industrial y, en caso de que se realice alguna modificación a su estructura orgánica, está también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
 
 Ciudad de México, a 30 de junio de 2020.- Sen. Mónica Fernández Balboa, Presidenta.- Dip. Laura Angélica Rojas Hernández, Presidenta.- Sen. M. Citlalli Hernández Mora, Secretaria.- Dip. Karla Yuritzi Almazán Burgos, Secretaria.- Rúbricas.”
 

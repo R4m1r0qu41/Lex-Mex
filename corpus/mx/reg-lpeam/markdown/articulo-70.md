@@ -17,4 +17,4 @@ source_sha256: 4195c0740ad46978a8b0f2d43f0ac6d77e46b0216bd6f756950b1a050044ce98
 
 # Artículo 70
 
-El Centro debe comunicar el cese del Alertamiento aéreo, una vez que finalicen las actividades que lo motivaron, sin perjuicio de continuar con las actividades que deban hacerse durante la Consolidación.
+El Centro debe comunicar el cese del Alertamiento aéreo, una vez que finalicen las actividades que lo motivaron, sin perjuicio de continuar con las actividades que deban hacerse durante la [Consolidación](articulo-4.md).

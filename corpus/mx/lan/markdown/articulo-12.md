@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAN.pdf
 source_sha256: 4ef50d6b4b3a6ad0378720c5d49463b4f17d70d9de39f895ed5dae4d2e21736d
 ---
 
-> Título SEGUNDO
+> Título SEGUNDO · Capítulo III
 
 # Artículo 12
 
@@ -35,12 +35,12 @@ VII. Proponer al Consejo Técnico los estímulos y licencias que puedan otorgars
 
 VIII. Emitir los actos de autoridad en la materia en su ámbito de competencia;
 
-IX. Expedir los títulos de concesión, asignación, permisos de descarga, además de los permisos que establece la fracción IX del Artículo [9](articulo-9.md) de la presente Ley; Fracción reformada DOF 08-06-2012 X. Apoyar y verificar el cumplimiento del carácter autónomo de los Organismos de Cuenca, en los términos dispuestos en la presente Ley y en sus reglamentos, conforme a los procesos de descentralización de la gestión de los recursos hídricos;
+IX. Expedir los títulos de concesión, asignación, permisos de descarga, además de los permisos que establece la fracción IX del Artículo [9](articulo-9.md) de la presente Ley; Fracción reformada DOF 08-06-2012
+
+X. Apoyar y verificar el cumplimiento del carácter autónomo de los Organismos de Cuenca, en los términos dispuestos en la presente Ley y en sus reglamentos, conforme a los procesos de descentralización de la gestión de los recursos hídricos;
 
 XI. Las señaladas en el Artículo [9](articulo-9.md) de esta Ley para la atención expresa de "la Comisión" y no comprendidas en los Artículos [11](articulo-11.md) y [12 BIS 6](articulo-12-BIS-6.md) de la misma, y
 
 XII. Las demás que se confieran a "la Comisión" en la presente Ley y en sus reglamentos.
 
 Artículo reformado DOF 29-04-2004
-
-Capítulo III BIS Organismos de Cuenca Capítulo adicionado DOF 29-04-2004

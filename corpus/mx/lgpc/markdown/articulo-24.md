@@ -17,6 +17,6 @@ source_sha256: d8dd1de3627b899bb4faf31c2812c3d5f14f7108be153d5aa8dd549b9136184a
 
 # Artículo 24
 
-El Centro Nacional de Comunicación y Operación de Protección Civil, es la instancia operativa de comunicación, alertamiento, información, apoyo permanente y enlace entre los integrantes del Sistema Nacional, en las tareas de preparación, auxilio y recuperación; asimismo, está encargada de integrar sistemas, equipos, documentos y demás instrumentos que contribuyan a facilitar a los integrantes del Sistema Nacional, la oportuna y adecuada toma de decisiones.
+El [Centro Nacional](articulo-2.md) de Comunicación y Operación de [Protección Civil](articulo-2.md), es la instancia operativa de comunicación, alertamiento, información, apoyo permanente y enlace entre los integrantes del [Sistema Nacional](articulo-2.md), en las tareas de preparación, auxilio y recuperación; asimismo, está encargada de integrar sistemas, equipos, documentos y demás instrumentos que contribuyan a facilitar a los integrantes del Sistema Nacional, la oportuna y adecuada toma de decisiones.
 
-La Secretaría por conducto de la Coordinación Nacional, determinará las acciones y medidas necesarias para que este Centro cuente en todo momento con las condiciones, infraestructura e información actualizada, que permitan su óptima operación, en los términos que al efecto se determinen en el Reglamento.
+La [Secretaría](articulo-2.md) por conducto de la [Coordinación Nacional](articulo-2.md), determinará las acciones y medidas necesarias para que este Centro cuente en todo momento con las condiciones, infraestructura e información actualizada, que permitan su óptima operación, en los términos que al efecto se determinen en el Reglamento.

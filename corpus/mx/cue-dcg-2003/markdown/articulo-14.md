@@ -48,7 +48,7 @@ III. Por lo que se refiere a la Toma de Nota, la solicitud correspondiente deber
 
 Las Emisoras que soliciten la toma de nota para establecer que sus Valores solo podrán ser (107)
 
-adquiridos por Inversionistas institucionales o Inversionistas calificados para participar en ofertas públicas restringidas, deberán demostrar a la Comisión que, al momento de la presentación de la solicitud, únicamente tales inversionistas son tenedores de dichos Valores. Una vez efectuada la toma de nota les resultará aplicable lo previsto en las presentes disposiciones para [Ofertas públicas restringidas](articulo-1.md).
+adquiridos por Inversionistas institucionales o [Inversionistas calificados](articulo-1.md) para participar en ofertas públicas restringidas, deberán demostrar a la Comisión que, al momento de la presentación de la solicitud, únicamente tales inversionistas son tenedores de dichos Valores. Una vez efectuada la toma de nota les resultará aplicable lo previsto en las presentes disposiciones para [Ofertas públicas restringidas](articulo-1.md).
 
 La Comisión procederá a la Actualización de la inscripción, sin que al efecto medie solicitud, cuando (107)
 

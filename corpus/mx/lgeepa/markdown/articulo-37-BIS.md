@@ -17,6 +17,6 @@ source_sha256: 0574853d06020030188e8aee1eae5dabb2b476ac630cc52be631a48d2b91adbc
 
 # Artículo 37 BIS
 
-La Secretaría en coordinación con la Secretaría de Economía promoverá la identificación de los productos, bienes, insumos y servicios con menor impacto ambiental basándose en parámetros y criterios ambientales a lo largo de su ciclo de vida mediante un distintivo o certificado cuyo uso será voluntario. Dichos parámetros y criterios ambientales se determinarán mediante las normas oficiales mexicanas que correspondan.
+La [Secretaría](articulo-3o.md) en coordinación con la Secretaría de Economía promoverá la identificación de los productos, bienes, insumos y servicios con menor impacto ambiental basándose en parámetros y criterios ambientales a lo largo de su ciclo de vida mediante un distintivo o certificado cuyo uso será voluntario. Dichos parámetros y criterios ambientales se determinarán mediante las normas oficiales mexicanas que correspondan.
 
 Artículo adicionado DOF 24-05-2013

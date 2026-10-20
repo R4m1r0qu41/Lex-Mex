@@ -17,4 +17,4 @@ source_sha256: 89220c0c86445a873067e0095b4591c11847dfd11595ca3e11bbfcf09cef6754
 
 # Artículo 34
 
-La Secretaría de Ciencia, Humanidades, Tecnología e Innovación debe integrar en el ámbito de sus atribuciones, la perspectiva de Economía Circular en la innovación, el desarrollo tecnológico y el fortalecimiento de la planta productiva nacional, conforme a sus atribuciones y los ordenamientos aplicables.
+La [Secretaría](articulo-3.md) de Ciencia, Humanidades, Tecnología e Innovación debe integrar en el ámbito de sus atribuciones, la perspectiva de [Economía Circular](articulo-3.md) en la innovación, el desarrollo tecnológico y el fortalecimiento de la planta productiva nacional, conforme a sus atribuciones y los ordenamientos aplicables.

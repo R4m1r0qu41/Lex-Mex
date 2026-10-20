@@ -17,6 +17,6 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 362
 
-Si durante la diligencia se comprobara fehacientemente la comisión de cualquiera de los actos o hechos previstos en los artículos [386](articulo-386.md) o [402](articulo-402.md) de esta Ley, la persona inspectora asegurará, en forma cautelar, los productos con los cuales presumiblemente se cometan dichas infracciones o delitos, levantando un inventario de los bienes asegurados, lo cual se hará constar en el acta de inspección. Párrafo reformado DOF 03-04-2026
+Si durante la diligencia se comprobara fehacientemente la comisión de cualquiera de los actos o hechos previstos en los artículos [386](articulo-386.md) o [402](articulo-402.md) de esta [Ley](articulo-4.md), la persona inspectora asegurará, en forma cautelar, los productos con los cuales presumiblemente se cometan dichas infracciones o delitos, levantando un inventario de los bienes asegurados, lo cual se hará constar en el acta de inspección. Párrafo reformado DOF 03-04-2026
 
-Si se trata de hechos posiblemente constitutivos de delitos, el Instituto lo hará constar en la resolución que emita al efecto.
+Si se trata de hechos posiblemente constitutivos de delitos, el [Instituto](articulo-4.md) lo hará constar en la resolución que emita al efecto.

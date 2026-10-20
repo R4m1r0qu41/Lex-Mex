@@ -17,9 +17,9 @@ source_sha256: 703f083c0baedfb4ef5ce8b62c78684d8ee0073f393321d476d75ebe4878e1d5
 
 # Artículo 152
 
-La certificación de estudios consiste en la expedición de documentos oficiales que dan testimonio de que se ha cumplido parcial o totalmente con los requisitos establecidos en un plan o programa de estudios determinado en las Instituciones Educativas o Jefaturas de Curso.
+La certificación de estudios consiste en la expedición de documentos oficiales que dan testimonio de que se ha cumplido parcial o totalmente con los requisitos establecidos en un plan o programa de estudios determinado en las [Instituciones Educativas](articulo-3.md) o Jefaturas de Curso.
 
-El presente ordenamiento establece las bases y fija los lineamientos para las diferentes formas de titulación en las Instituciones Educativas que integran el Sistema y son las siguientes:
+El presente ordenamiento establece las bases y fija los lineamientos para las diferentes formas de titulación en las Instituciones Educativas que integran el [Sistema](articulo-3.md) y son las siguientes:
 
 I. Evaluación Integral de Conocimientos;
 

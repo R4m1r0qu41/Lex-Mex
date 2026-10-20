@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Primero · Capítulo I
+
 # Artículo 575
 
 Las medidas de protección previstas en este [Código Nacional](articulo-2.md) deben ser dictadas dentro de las veinticuatro horas siguientes al conocimiento de los hechos, y ser cumplimentadas en un término no mayor a setenta y dos horas; por lo que, no será necesario que surta efectos ningún tipo de notificación para la materialización de las medidas u órdenes. Las órdenes de protección, pueden ser modificadas durante la tramitación del juicio, en la audiencia preliminar, o en la sentencia definitiva.

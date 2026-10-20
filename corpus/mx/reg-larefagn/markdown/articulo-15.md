@@ -17,4 +17,4 @@ source_sha256: 01b72308e67d46ba6ca8a6b07fb7584c6a74e905ea0c4b5be5c0c0d32a6d817a
 
 # Artículo 15
 
-El tiempo de servicios se acreditará con el extracto de antecedentes que formulen las Direcciones, de conformidad con la Ley para la Comprobación, Ajuste y Cómputo de Servicios del Ejército y Fuerza Aérea Mexicanos y la Ley.
+El tiempo de servicios se acreditará con el extracto de antecedentes que formulen las [Direcciones](articulo-5.md), de conformidad con la Ley para la Comprobación, Ajuste y Cómputo de Servicios del Ejército y Fuerza Aérea Mexicanos y la Ley.

@@ -17,4 +17,4 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 # Artículo 46
 
-La Secretaría establecerá las características que debe cumplir la contraseña oficial y su uso debe ser a través de un esquema de autodeclaración de conformidad o como resultado de la evaluación de la conformidad que se realice a un producto, bien o servicio, según lo determine la Autoridad Normalizadora.
+La [Secretaría](articulo-4.md) establecerá las características que debe cumplir la contraseña oficial y su uso debe ser a través de un esquema de autodeclaración de conformidad o como resultado de la evaluación de la conformidad que se realice a un producto, bien o servicio, según lo determine la [Autoridad Normalizadora](articulo-4.md).

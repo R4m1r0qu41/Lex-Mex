@@ -17,4 +17,4 @@ source_sha256: e81e23876bd08da81cb8392af7054f6187ad043ca8f965777b455f9d12554e8b
 
 # Artículo 49
 
-Para el cumplimiento de las obligaciones previstas en la presente Ley, los sujetos obligados podrán desarrollar o adoptar, en lo individual o en acuerdo con otros sujetos obligados, esquemas de mejores prácticas que tengan por objeto: I. Elevar el nivel de cumplimiento de las disposiciones previstas en la presente Ley; II. Armonizar el acceso a la información por sectores; III. Facilitar el ejercicio del derecho de acceso a la información a las personas, y IV. Procurar la accesibilidad de la información.
+Para el cumplimiento de las obligaciones previstas en la presente [Ley](articulo-3.md), los sujetos obligados podrán desarrollar o adoptar, en lo individual o en acuerdo con otros sujetos obligados, esquemas de mejores prácticas que tengan por objeto: I. Elevar el nivel de cumplimiento de las disposiciones previstas en la presente Ley; II. Armonizar el acceso a la información por sectores; III. Facilitar el ejercicio del derecho de acceso a la información a las personas, y IV. Procurar la accesibilidad de la información.

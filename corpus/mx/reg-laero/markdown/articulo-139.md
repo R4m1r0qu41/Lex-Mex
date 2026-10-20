@@ -15,4 +15,4 @@ source_sha256: ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776
 
 # Artículo 139
 
-Cuando la Secretaría considere que no existen condiciones razonables o adecuadas de competencia, según corresponda, procederá, en lo conducente, de conformidad con lo dispuesto en las fracciones II a IV del [artículo anterior](articulo-138.md) del presente Reglamento.
+Cuando la [Secretaría](articulo-2.md) considere que no existen condiciones razonables o adecuadas de competencia, según corresponda, procederá, en lo conducente, de conformidad con lo dispuesto en las fracciones II a IV del [artículo anterior](articulo-138.md) del presente Reglamento.

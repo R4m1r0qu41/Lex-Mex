@@ -17,6 +17,6 @@ source_sha256: 0574853d06020030188e8aee1eae5dabb2b476ac630cc52be631a48d2b91adbc
 
 # Artículo 159 BIS 2
 
-La Secretaría editará una Gaceta en la que se publicarán las disposiciones jurídicas, normas oficiales mexicanas, decretos, reglamentos, acuerdos y demás actos administrativos, así como información de interés general en materia ambiental, que se publiquen por el Gobierno Federal o los gobiernos locales, o documentos internacionales en materia ambiental de interés para México, independientemente de su publicación en el Diario Oficial de la Federación o en otros órganos de difusión. Igualmente en dicha Gaceta se publicará información oficial relacionada con las áreas naturales protegidas y la preservación y el aprovechamiento sustentable de los recursos naturales.
+La [Secretaría](articulo-3o.md) editará una Gaceta en la que se publicarán las disposiciones jurídicas, normas oficiales mexicanas, decretos, reglamentos, acuerdos y demás actos administrativos, así como información de interés general en materia ambiental, que se publiquen por el Gobierno Federal o los gobiernos locales, o documentos internacionales en materia ambiental de interés para México, independientemente de su publicación en el Diario Oficial de la Federación o en otros órganos de difusión. Igualmente en dicha Gaceta se publicará información oficial relacionada con las áreas naturales protegidas y la preservación y el aprovechamiento sustentable de los recursos naturales.
 
 Artículo adicionado DOF 13-12-1996

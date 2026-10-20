@@ -17,6 +17,6 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Artículo 104
 
-Corresponde a la Comisión Nacional de Búsqueda administrar y coordinar la operación del Registro Nacional.
+Corresponde a la [Comisión Nacional de Búsqueda](articulo-4.md) administrar y coordinar la operación del [Registro Nacional](articulo-4.md).
 
-Es obligación de las autoridades de las Entidades Federativas y de la Federación recopilar la información para el Registro Nacional y proporcionar dicha información de forma oportuna a la Comisión Nacional de Búsqueda, en términos de lo que establece esta Ley y su Reglamento.
+Es obligación de las autoridades de las [Entidades Federativas](articulo-4.md) y de la Federación recopilar la información para el Registro Nacional y proporcionar dicha información de forma oportuna a la Comisión Nacional de Búsqueda, en términos de lo que establece esta Ley y su [Reglamento](articulo-4.md).

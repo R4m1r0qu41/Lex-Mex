@@ -17,4 +17,4 @@ source_sha256: e81e23876bd08da81cb8392af7054f6187ad043ca8f965777b455f9d12554e8b
 
 # Artículo 11
 
-Toda la información pública documentada, obtenida, adquirida, transformada o en posesión de los sujetos obligados es pública y debe ser accesible a cualquier persona. Para ello, se deberán habilitar los medios y acciones disponibles, conforme a los términos y condiciones establecidos en esta Ley y demás disposiciones jurídicas aplicables.
+Toda la información pública documentada, obtenida, adquirida, transformada o en posesión de los sujetos obligados es pública y debe ser accesible a cualquier persona. Para ello, se deberán habilitar los medios y acciones disponibles, conforme a los términos y condiciones establecidos en esta [Ley](articulo-3.md) y demás disposiciones jurídicas aplicables.

@@ -17,4 +17,4 @@ source_sha256: 0e34f329befed4474eb7bc1bc195ba13bbe188edfbbabc914a44723e62eb9e44
 
 # Artículo 9o
 
-Para la mejor eficiencia y eficacia en el ejercicio de sus atribuciones en materia de protección al medio ambiente en relación con las actividades del Sector, la Agencia establecerá los mecanismos de coordinación que sean necesarios con las unidades administrativas y demás órganos y entidades sectorizadas en la Secretaría.
+Para la mejor eficiencia y eficacia en el ejercicio de sus atribuciones en materia de protección al medio ambiente en relación con las actividades del Sector, la [Agencia](articulo-3o.md) establecerá los mecanismos de coordinación que sean necesarios con las unidades administrativas y demás órganos y entidades sectorizadas en la [Secretaría](articulo-3o.md).

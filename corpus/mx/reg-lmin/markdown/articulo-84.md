@@ -19,7 +19,7 @@ source_sha256: 4d25bcb022ab62a24462e11a230c9554c0120012913ab4599cd3ec1b2b275c1d
 
 Las solicitudes para rectificar, modificar o cancelar una inscripción, deberán contener: I. Nombre de la parte o partes afectadas;
 
-II. Datos de la inscripción en el Registro, y
+II. Datos de la inscripción en el [Registro](articulo-1o.md), y
 
 III. Datos presumiblemente erróneos por corregir, en su caso.
 

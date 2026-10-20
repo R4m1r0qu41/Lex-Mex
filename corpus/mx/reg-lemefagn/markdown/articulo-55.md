@@ -17,6 +17,6 @@ source_sha256: 703f083c0baedfb4ef5ce8b62c78684d8ee0073f393321d476d75ebe4878e1d5
 
 # Artículo 55
 
-El Plan General tendrá como propósito establecer directivas relacionadas con la filosofía, políticas educativas, objetivos y líneas de acción para el Sistema, que permitan con eficiencia y eficacia la selección, formación, capacitación, aplicación, perfeccionamiento, actualización y especialización de los recursos humanos en el nivel profesional que demandan el Ejército, la Fuerza Aérea y la Guardia Nacional.
+El [Plan General](articulo-3.md) tendrá como propósito establecer directivas relacionadas con la filosofía, políticas educativas, objetivos y líneas de acción para el [Sistema](articulo-3.md), que permitan con eficiencia y eficacia la selección, formación, capacitación, aplicación, perfeccionamiento, actualización y especialización de los recursos humanos en el nivel profesional que demandan el Ejército, la Fuerza Aérea y la Guardia Nacional.
 
 Artículo reformado DOF 20-03-2026

@@ -15,4 +15,4 @@ source_sha256: ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776
 
 # Artículo 148
 
-La Secretaría fijará anualmente los montos mínimos que deberán cubrir los seguros a que se refiere este capítulo, los que publicará en el Diario Oficial de la Federación.
+La [Secretaría](articulo-2.md) fijará anualmente los montos mínimos que deberán cubrir los seguros a que se refiere este capítulo, los que publicará en el Diario Oficial de la Federación.

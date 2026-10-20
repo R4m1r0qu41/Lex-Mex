@@ -15,4 +15,4 @@ source_sha256: b19bcf104673af06117a6d4f3c947591f7a65999f19bad3dcfe2599a29bb3ab0
 
 # SEGUNDO
 
-Se abroga el Reglamento de la Ley de Energía Geotérmica, publicado en el Diario Oficial de la Federación el treinta y uno de octubre de dos mil catorce, así como todas las demás disposiciones que se opongan a este Reglamento.
+Se abroga el [Reglamento](articulo-3.md) de la [Ley](articulo-3.md) de Energía Geotérmica, publicado en el Diario Oficial de la Federación el treinta y uno de octubre de dos mil catorce, así como todas las demás disposiciones que se opongan a este Reglamento.

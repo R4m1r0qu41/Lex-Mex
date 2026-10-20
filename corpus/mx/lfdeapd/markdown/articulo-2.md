@@ -17,6 +17,6 @@ source_sha256: 4fadf9a6f2d22a9e48d8e29ed302456751da66eb723e0df1dc6ac45a5e4640b0
 
 # Artículo 2
 
-La presente Ley se interpretará favoreciendo en todo tiempo la protección más amplia de los derechos de la Persona Desaparecida y sus Familiares, de conformidad con la Constitución Política de los Estados Unidos Mexicanos, con los tratados internacionales en materia de derechos humanos en los que el Estado Mexicano sea parte, la Ley General en Materia de Desaparición Forzada de Personas, Desaparición cometida por Particulares y del Sistema Nacional de Búsqueda de Personas y demás normativa aplicable.
+La presente Ley se interpretará favoreciendo en todo tiempo la protección más amplia de los derechos de la [Persona Desaparecida](articulo-3.md) y sus [Familiares](articulo-3.md), de conformidad con la Constitución Política de los Estados Unidos Mexicanos, con los tratados internacionales en materia de derechos humanos en los que el Estado Mexicano sea parte, la Ley General en Materia de Desaparición Forzada de Personas, Desaparición cometida por Particulares y del Sistema Nacional de Búsqueda de Personas y demás normativa aplicable.
 
 A falta de disposición expresa en esta Ley, se aplicará, de manera supletoria, la legislación en materia procesal civil aplicable.

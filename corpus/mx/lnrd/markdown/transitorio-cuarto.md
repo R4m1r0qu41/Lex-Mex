@@ -15,4 +15,4 @@ source_sha256: 0a9852297132d8972d0c2f77e1b67d614bd296632109065e703bd09254187aea
 
 # Cuarto
 
-Las erogaciones que se generen con motivo de la entrada en vigor de este Decreto se cubrirán con cargo al presupuesto de la Secretaría y sus órganos administrativos desconcentrados vinculados a la materia de la presente Ley.
+Las erogaciones que se generen con motivo de la entrada en vigor de este Decreto se cubrirán con cargo al presupuesto de la [Secretaría](articulo-2.md) y sus órganos administrativos desconcentrados vinculados a la materia de la presente [Ley](articulo-2.md).

@@ -17,11 +17,11 @@ source_sha256: 4933abadd27d345e7a5c1754af10ed429fd148b709b4a78d4f42447b5fcd546d
 
 # Artículo 22
 
-El Consejo tendrá por objeto:
+El [Consejo](articulo-3.md) tendrá por objeto:
 
-I. Estudiar y proponer medidas de apoyo para el desarrollo de la competitividad de las MIPYMES a través del análisis de las propuestas surgidas del sector público y de los Sectores;
+I. Estudiar y proponer medidas de apoyo para el desarrollo de la competitividad de las [MIPYMES](articulo-3.md) a través del análisis de las propuestas surgidas del sector público y de los [Sectores](articulo-3.md);
 
-II. Desarrollar mecanismos para que las MIPYMES reciban Consultoría y Capacitación en las áreas de comercialización y mercadeo, tecnología y procesos de producción, diseño de producto y financiamiento, así como en materia de normalización y certificación;
+II. Desarrollar mecanismos para que las MIPYMES reciban [Consultoría](articulo-3.md) y [Capacitación](articulo-3.md) en las áreas de comercialización y mercadeo, tecnología y procesos de producción, diseño de producto y financiamiento, así como en materia de normalización y certificación;
 
 III. Fomentar la constitución de incubadoras de empresas, y la iniciativa y creatividad de los emprendedores;
 

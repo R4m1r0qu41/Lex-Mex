@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAN.pdf
 source_sha256: 4ef50d6b4b3a6ad0378720c5d49463b4f17d70d9de39f895ed5dae4d2e21736d
 ---
 
-> Título SEGUNDO
+> Título SEGUNDO · Capítulo IV
 
 # Artículo 13 BIS 1
 
@@ -39,7 +39,9 @@ La Asamblea General de Personas Usuarias tendrá las siguientes funciones: Párr
 
 5.- Definir la posición de las personas usuarias del agua de los distintos usos y de las organizaciones de la sociedad, en relación con los asuntos que elevará la Asamblea General al Consejo de Cuenca. Numeral reformado DOF 11-12-2025
 
-B. El Comité Directivo del Consejo de Cuenca: Integrado por las personas Titulares de la Presidencia y de la Secretaría Técnica del Consejo de Cuenca. Apartado reformado DOF 11-12-2025 C. La Comisión de Operación y Vigilancia del Consejo de Cuenca: De la cual depende un Grupo Técnico de Trabajo Mixto y Colegiado, el cual se encargará del seguimiento y evaluación del desempeño del Consejo de Cuenca, grupos de trabajo específicos y otros órganos especializados que requiera el Consejo de Cuenca para el mejor cumplimiento de su objeto, y
+B. El Comité Directivo del Consejo de Cuenca: Integrado por las personas Titulares de la Presidencia y de la Secretaría Técnica del Consejo de Cuenca. Apartado reformado DOF 11-12-2025
+
+C. La Comisión de Operación y Vigilancia del Consejo de Cuenca: De la cual depende un Grupo Técnico de Trabajo Mixto y Colegiado, el cual se encargará del seguimiento y evaluación del desempeño del Consejo de Cuenca, grupos de trabajo específicos y otros órganos especializados que requiera el Consejo de Cuenca para el mejor cumplimiento de su objeto, y
 
 D. La Gerencia Operativa: Con funciones internas de carácter técnico, administrativo y jurídico.
 

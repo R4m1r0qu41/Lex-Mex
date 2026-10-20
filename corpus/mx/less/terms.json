@@ -1,1 +1,112 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:less:term:sector",
+    "term": "Sector",
+    "instrument_id": "urn:lex-mx:federal:statute:less",
+    "defining_provision_id": "urn:lex-mx:federal:statute:less:article:5",
+    "fraction": "I",
+    "start_char": 48,
+    "end_char": 151,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:less:term:organismos-del-sector",
+    "term": "Organismos del Sector",
+    "instrument_id": "urn:lex-mx:federal:statute:less",
+    "defining_provision_id": "urn:lex-mx:federal:statute:less:article:5",
+    "fraction": "II",
+    "start_char": 151,
+    "end_char": 257,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:less:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:statute:less",
+    "defining_provision_id": "urn:lex-mx:federal:statute:less:article:5",
+    "fraction": "III",
+    "start_char": 257,
+    "end_char": 351,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:less:term:instituto",
+    "term": "Instituto",
+    "instrument_id": "urn:lex-mx:federal:statute:less",
+    "defining_provision_id": "urn:lex-mx:federal:statute:less:article:5",
+    "fraction": "IV",
+    "start_char": 351,
+    "end_char": 412,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:less:term:asociados",
+    "term": "Asociados",
+    "instrument_id": "urn:lex-mx:federal:statute:less",
+    "defining_provision_id": "urn:lex-mx:federal:statute:less:article:5",
+    "fraction": "VII",
+    "start_char": 513,
+    "end_char": 680,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:less:term:programa",
+    "term": "Programa",
+    "instrument_id": "urn:lex-mx:federal:statute:less",
+    "defining_provision_id": "urn:lex-mx:federal:statute:less:article:5",
+    "fraction": "IX",
+    "start_char": 733,
+    "end_char": 792,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:less:term:actividad-economica",
+    "term": "Actividad Económica",
+    "instrument_id": "urn:lex-mx:federal:statute:less",
+    "defining_provision_id": "urn:lex-mx:federal:statute:less:article:5",
+    "fraction": "XI",
+    "start_char": 842,
+    "end_char": 1100,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:less:term:organismos-de-integracion-y-representacion",
+    "term": "Organismos de integración y representación",
+    "instrument_id": "urn:lex-mx:federal:statute:less",
+    "defining_provision_id": "urn:lex-mx:federal:statute:less:article:5",
+    "fraction": "XV",
+    "start_char": 1257,
+    "end_char": 1437,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:less:term:consejo",
+    "term": "Consejo",
+    "instrument_id": "urn:lex-mx:federal:statute:less",
+    "defining_provision_id": "urn:lex-mx:federal:statute:less:article:5",
+    "fraction": "XVI",
+    "start_char": 1437,
+    "end_char": 1544,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:less:term:acuerdo",
+    "term": "Acuerdo",
+    "instrument_id": "urn:lex-mx:federal:statute:less",
+    "defining_provision_id": "urn:lex-mx:federal:statute:less:article:5",
+    "fraction": "XVII",
+    "start_char": 1544,
+    "end_char": 1717,
+    "basis": "express_definition"
+  }
+]

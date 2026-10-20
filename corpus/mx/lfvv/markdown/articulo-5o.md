@@ -21,6 +21,6 @@ No se requiere del consentimiento del obtentor de una variedad vegetal para util
 
 I.- Como fuente o insumo de investigación para el mejoramiento genético de otras variedades vegetales;
 
-II.- En la multiplicación del material de propagación, siempre y cuando sea para uso propio como grano para consumo o siembra, conforme al reglamento de esta ley y las normas oficiales mexicanas que establezca la Secretaría, o
+II.- En la multiplicación del material de propagación, siempre y cuando sea para uso propio como grano para consumo o siembra, conforme al reglamento de esta ley y las normas oficiales mexicanas que establezca la [Secretaría](articulo-2o.md), o
 
 III.- Para el consumo humano o animal, que beneficie exclusivamente a quien la cosecha.

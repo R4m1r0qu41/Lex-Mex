@@ -17,4 +17,4 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 399
 
-La acción para reclamar los daños y perjuicios causados por las infracciones a esta Ley, prescribirá en dos años contados a partir de la fecha en que el Instituto haya declarado una infracción administrativa y ésta sea exigible.
+La acción para reclamar los daños y perjuicios causados por las infracciones a esta [Ley](articulo-4.md), prescribirá en dos años contados a partir de la fecha en que el [Instituto](articulo-4.md) haya declarado una infracción administrativa y ésta sea exigible.

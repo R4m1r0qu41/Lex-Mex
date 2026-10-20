@@ -33,4 +33,4 @@ La documentación respectiva debe recabarse una sola vez y conservarse de manera
 
 Las personas físicas o morales deben custodiar, proteger, resguardar y evitar la destrucción u ocultamiento de la documentación señalada en el presente artículo, así como brindar las facilidades necesarias para que las autoridades lleven a cabo las visitas de verificación en los términos de la presente Ley. Párrafo adicionado DOF 03-05-2023
 
-Asimismo las personas físicas o morales deben reportar en el Sistema Integral de Sustancias la información de la documentación señalada en este artículo respecto de las personas físicas o morales con las que realicen actividades reguladas. Párrafo adicionado DOF 03-05-2023
+Asimismo las personas físicas o morales deben reportar en el [Sistema Integral de Sustancias](articulo-2.md) la información de la documentación señalada en este artículo respecto de las personas físicas o morales con las que realicen actividades reguladas. Párrafo adicionado DOF 03-05-2023

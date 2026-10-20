@@ -15,4 +15,4 @@ source_sha256: 8e270686b885035488bfe310b0b42bb40e7154431794227ebe212dd7dc12e46a
 
 # NOVENO
 
-Dentro de los 5 años siguientes a su entrada en vigor, la presente Ley no se aplicará a los [Comerciantes](articulo-4o.md) que, a la fecha de entrada en vigor de esta Ley, tengan un pasivo que, computado como la suma del valor nominal de cada crédito a la fecha de su contratación, no exceda de su equivalente a quinientas mil [UDIs](articulo-4o.md), salvo que voluntariamente y por escrito acepten someterse a esta Ley.
+Dentro de los 5 años siguientes a su entrada en vigor, la presente [Ley](articulo-4o.md) no se aplicará a los [Comerciantes](articulo-4o.md) que, a la fecha de entrada en vigor de esta Ley, tengan un pasivo que, computado como la suma del valor nominal de cada crédito a la fecha de su contratación, no exceda de su equivalente a quinientas mil [UDIs](articulo-4o.md), salvo que voluntariamente y por escrito acepten someterse a esta Ley.

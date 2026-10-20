@@ -17,4 +17,4 @@ source_sha256: 0ad7a7b6d7dffd7d9a582d74ebd6fc43e6baa79f71801a73dc70d1b77c414ded
 
 # Artículo 89
 
-En caso de mutilación o destrucción de los asientos o folios, previa autorización de la Dirección General Jurídica de la Secretaría, se procederá a su reposición con base en los documentos que tenga en su poder y exhiban los interesados, y con los que obren en el Registro Nacional de Organismos Ganaderos. Los folios ganaderos en que consten los asientos repuestos deberán ostentar el sello de “reposición”.
+En caso de mutilación o destrucción de los asientos o folios, previa autorización de la Dirección General Jurídica de la Secretaría, se procederá a su reposición con base en los documentos que tenga en su poder y exhiban los interesados, y con los que obren en el Registro Nacional de Organismos [Ganaderos](articulo-2o.md). Los folios ganaderos en que consten los asientos repuestos deberán ostentar el sello de “reposición”.

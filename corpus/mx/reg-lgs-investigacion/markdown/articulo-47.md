@@ -21,4 +21,4 @@ Las investigaciones en mujeres embarazadas, con beneficio terapéutico relaciona
 
 I. Tengan por objeto mejorar la salud de la embarazada con un riesgo mínimo para el embrión o feto, o
 
-II. Estén encaminadas a incrementar la viabilidad del feto, con un riesgo mínimo para la embarazada. REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE INVESTIGACION PARA LA SALUD
+II. Estén encaminadas a incrementar la viabilidad del feto, con un riesgo mínimo para la embarazada.

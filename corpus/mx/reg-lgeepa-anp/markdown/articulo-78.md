@@ -17,7 +17,7 @@ source_sha256: 4e276866fce1638948a6daf1a5c0438fa412554f1a6e0381cbdf7cb300e3db75
 
 # Artículo 78
 
-El programa de manejo podrá ser modificado en todo o en parte, cuando éste resulte inoperante para el cumplimiento de los objetivos del área natural protegida, para lo cual la Secretaría solicitará la opinión del Consejo Asesor, respectivo.
+El programa de manejo podrá ser modificado en todo o en parte, cuando éste resulte inoperante para el cumplimiento de los objetivos del área natural protegida, para lo cual la [Secretaría](articulo-3o.md) solicitará la opinión del [Consejo](articulo-3o.md) Asesor, respectivo.
 
 Previo análisis y opinión del Consejo Asesor del área natural protegida de que se trate, se podrá modificar el programa de manejo cuando:
 

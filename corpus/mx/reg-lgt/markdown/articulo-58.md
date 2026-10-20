@@ -17,7 +17,7 @@ source_sha256: 6680a58c98673518aee46582b3137d28987c275785d1f0c97295f0d89c4b692b
 
 # Artículo 58
 
-La Secretaría, a través del Consejo de Promoción, dirigirá y coordinará la Promoción Turística en territorio nacional y en el extranjero.
+La Secretaría, a través del Consejo de Promoción, dirigirá y coordinará la [Promoción Turística](articulo-2.md) en territorio nacional y en el extranjero.
 
 El Consejo de Promoción se integrará conforme a lo establecido en su Estatuto Orgánico.
 

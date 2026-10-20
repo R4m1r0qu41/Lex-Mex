@@ -21,4 +21,4 @@ Con la contestación de la demanda sólo se admitirán la prueba documental y la
 
 El juez podrá ordenar las demás diligencias probatorias que estime convenientes, las cuales deberán llevarse a cabo dentro de un plazo máximo de diez días.
 
-Dentro de los cinco días siguientes de que venza el plazo del segundo párrafo del artículo [256](articulo-256.md) de esta Ley, el juez dictará la sentencia correspondiente.
+Dentro de los cinco días siguientes de que venza el plazo del segundo párrafo del artículo [256](articulo-256.md) de esta [Ley](articulo-4o.md), el juez dictará la sentencia correspondiente.

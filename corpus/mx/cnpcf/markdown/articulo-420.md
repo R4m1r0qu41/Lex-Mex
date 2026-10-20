@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Primero · Capítulo II
+
 # Artículo 420
 
 En todo caso, el mantener las cosas en el estado que guarden pueda causar daño o perjuicio a persona distinta de la que solicite la medida, se exigirá, previamente, garantía bastante para asegurar su pago, a juicio de la autoridad jurisdiccional que la decrete.

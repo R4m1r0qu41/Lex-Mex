@@ -17,7 +17,7 @@ source_sha256: 8e270686b885035488bfe310b0b42bb40e7154431794227ebe212dd7dc12e46a
 
 # Artículo 270 Bis-1
 
-La acción de responsabilidad consistente en indemnizar los daños y perjuicios que derive de los actos, omisiones o conductas a que se refiere el [artículo anterior](articulo-270-Bis.md), será exclusivamente en favor del [Comerciante](articulo-4o.md) que se ubique en los supuestos previstos en el artículo [10](articulo-10.md) de esta Ley y, en consecuencia, de la [Masa](articulo-4o.md). Lo que antecede será sin perjuicio de la posible acción penal por los delitos en su caso cometidos.
+La acción de responsabilidad consistente en indemnizar los daños y perjuicios que derive de los actos, omisiones o conductas a que se refiere el [artículo anterior](articulo-270-Bis.md), será exclusivamente en favor del [Comerciante](articulo-4o.md) que se ubique en los supuestos previstos en el artículo [10](articulo-10.md) de esta [Ley](articulo-4o.md) y, en consecuencia, de la [Masa](articulo-4o.md). Lo que antecede será sin perjuicio de la posible acción penal por los delitos en su caso cometidos.
 
 La acción de responsabilidad podrá ser ejercida:
 

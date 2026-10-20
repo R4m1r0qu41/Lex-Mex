@@ -17,7 +17,7 @@ source_sha256: 4e276866fce1638948a6daf1a5c0438fa412554f1a6e0381cbdf7cb300e3db75
 
 # Artículo 88
 
-Se requerirá de autorización por parte de la Secretaría para realizar dentro de las áreas naturales protegidas, atendiendo a las zonas establecidas y sin perjuicio de las disposiciones legales aplicables, las siguientes obras y actividades:
+Se requerirá de autorización por parte de la [Secretaría](articulo-3o.md) para realizar dentro de las áreas naturales protegidas, atendiendo a las zonas establecidas y sin perjuicio de las disposiciones legales aplicables, las siguientes obras y actividades:
 
 I. Colecta de ejemplares de vida silvestre, así como de otros recursos biológicos con fines de investigación científica;
 
@@ -29,7 +29,7 @@ V. Aprovechamiento forestal;
 
 VI. Aprovechamiento de recursos pesqueros;
 
-VII. Obras que, en materia de impacto ambiental, requieran de autorización en los términos del artículo [28](../../lgeepa/markdown/articulo-28.md) de la Ley;
+VII. Obras que, en materia de impacto ambiental, requieran de autorización en los términos del artículo [28](../../lgeepa/markdown/articulo-28.md) de la [Ley](articulo-3o.md);
 
 VIII. Uso y aprovechamiento de aguas nacionales;
 

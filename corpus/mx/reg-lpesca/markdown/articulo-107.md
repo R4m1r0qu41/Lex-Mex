@@ -17,4 +17,4 @@ source_sha256: e5c0ecb4328043b7090ee5d73e982d6a04410f1330f6fdb350a7a34527eb2e59
 
 # Artículo 107
 
-La Secretaría podrá otorgar concesión para la acuacultura comercial en aguas de jurisdicción federal a personas físicas nacionales o extranjeras o a personas morales de nacionalidad mexicana, previo cumplimiento de los requisitos previstos por la Ley y este Reglamento. Lo anterior sin perjuicio de lo establecido en otras disposiciones aplicables.
+La [Secretaría](articulo-2o.md) podrá otorgar concesión para la acuacultura comercial en aguas de jurisdicción federal a personas físicas nacionales o extranjeras o a personas morales de nacionalidad mexicana, previo cumplimiento de los requisitos previstos por la [Ley](articulo-2o.md) y este Reglamento. Lo anterior sin perjuicio de lo establecido en otras disposiciones aplicables.

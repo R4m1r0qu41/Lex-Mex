@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Único · Capítulo II
+
 # Artículo 1010
 
 Cuando, en una ejecución, se afecten intereses de terceros que no tengan, con el ejecutante o el ejecutado, alguna controversia que pueda influir sobre los intereses de éstos y en virtud de los cuales se ha ordenado la ejecución, tanto el ejecutante como el ejecutado son solidariamente responsables de los daños y perjuicios que con ella se causen al tercero, y la oposición de éste se resolverá por el procedimiento incidental.

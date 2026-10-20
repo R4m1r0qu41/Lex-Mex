@@ -17,4 +17,4 @@ source_sha256: c7790df38b773b04e4769459d5fd49cca5b7a5b4955f7618632117275259071f
 
 # Artículo 31
 
-El promovente podrá someter a la consideración de la Secretaría condiciones adicionales a las que se sujetará la realización de la obra o actividad con el fin de evitar, atenuar o compensar los impactos ambientales adversos que pudieran ocasionarse. Las condiciones adicionales formarán parte del informe preventivo.
+El promovente podrá someter a la consideración de la [Secretaría](articulo-3o.md) condiciones adicionales a las que se sujetará la realización de la obra o actividad con el fin de evitar, atenuar o compensar los impactos ambientales adversos que pudieran ocasionarse. Las condiciones adicionales formarán parte del informe preventivo.

@@ -19,6 +19,6 @@ source_sha256: 43723ba379e128c1a1c1be4b085ecc870946cdec43d56f83e7314c077361368f
 
 El presente ordenamiento tiene por objeto reglamentar el ejercicio de la función de corredor público en toda la República.
 
-Corresponde a la Secretaría aplicar y vigilar el debido cumplimiento de las disposiciones de la Ley y este reglamento.
+Corresponde a la [Secretaría](articulo-2o.md) aplicar y vigilar el debido cumplimiento de las disposiciones de la [Ley](articulo-2o.md) y este reglamento.
 
 Las autoridades proveerán lo conducente para auxiliar a los corredores públicos en el ejercicio de sus funciones. Párrafo adicionado DOF 26-11-2012

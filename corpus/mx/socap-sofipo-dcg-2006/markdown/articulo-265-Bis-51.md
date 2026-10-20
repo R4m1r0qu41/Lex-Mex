@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 265 Bis 51
 
-Las Sociedades Financieras Populares, en sus políticas relativas a la contratación de servicios o comisiones, contemplarán como medidas de evaluación respecto de los servicios o comisiones a que se refiere este capítulo, lo siguiente:
+Las [Sociedades](articulo-1.md) Financieras Populares, en sus políticas relativas a la contratación de servicios o comisiones, contemplarán como medidas de evaluación respecto de los servicios o comisiones a que se refiere este capítulo, lo siguiente:
 
 I. La capacidad de los terceros o comisionistas para implementar medidas o planes que permitan mantener la continuidad del servicio con niveles adecuados de desempeño, confiabilidad, capacidad y seguridad.
 
@@ -34,6 +34,6 @@ VI. La capacidad de las Sociedades Financieras Populares, en la administración 
 
 VII. La capacidad del sistema de control interno para cumplir con las políticas y procedimientos que regulen y controlen la prestación de los servicios o comisiones a que se refiere este capítulo.
 
-El Consejo de Administración deberá designar a un responsable, que podrá ser el Auditor Interno o el comité de auditoría, para que dé seguimiento, evalúe y reporte periódicamente a dicho Consejo de Administración, el desempeño del prestador de servicios o comisionista, así como el cumplimiento de las normas aplicables relacionadas con los servicios o las operaciones correspondientes.
+El [Consejo de Administración](articulo-1.md) deberá designar a un responsable, que podrá ser el [Auditor Interno](articulo-1.md) o el comité de auditoría, para que dé seguimiento, evalúe y reporte periódicamente a dicho Consejo de Administración, el desempeño del prestador de servicios o comisionista, así como el cumplimiento de las normas aplicables relacionadas con los servicios o las operaciones correspondientes.
 
 El Consejo de Administración deberá revisar cuando menos una vez al año, las políticas de selección de los terceros o comisionistas y aprobar las modificaciones que sean necesarias con base en los resultados de las evaluaciones realizadas por el responsable de dar seguimiento y evaluar el desempeño de aquellos.

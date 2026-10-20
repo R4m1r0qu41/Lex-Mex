@@ -15,13 +15,13 @@ source_sha256: 0a9852297132d8972d0c2f77e1b67d614bd296632109065e703bd09254187aea
 
 # Artículo 2
 
-Para los efectos de esta Ley, se entiende por:
+Para los efectos de esta [Ley](articulo-2.md), se entiende por:
 
 I. Centro Nacional de Información: el Centro Nacional de Información del Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública;
 
 II. Instituciones de seguridad pública: a las instituciones policiales, de procuración de justicia, del sistema penitenciario y dependencias o entidades encargadas de la seguridad pública de orden federal, local o municipal, a que se refiere el artículo [5](../../lgsnsp/markdown/articulo-5.md), fracción VIII, de la Ley General del Sistema Nacional de Seguridad Pública, así como las competentes para conocer y sancionar las infracciones administrativas, en sus respectivas competencias;
 
-III. Ley: la Ley Nacional del Registro de Detenciones;
+III. Ley: la Ley Nacional del [Registro](articulo-2.md) de Detenciones;
 
 IV. Persona detenida: la persona privada de la libertad por parte de una autoridad integrante de alguna de las instituciones de seguridad pública, por cualquiera de los siguientes supuestos: detención en flagrancia, orden de aprehensión, caso urgente, retención ministerial, prisión preventiva, encontrarse cumpliendo pena o por arresto administrativo;
 

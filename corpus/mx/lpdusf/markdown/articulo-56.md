@@ -17,7 +17,7 @@ source_sha256: cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7
 
 # Artículo 56
 
-Como una medida de protección al Usuario, la Comisión Nacional revisará y, en su caso, propondrá a las Instituciones Financieras, modificaciones a los modelos de contratos de adhesión utilizados en sus diversas operaciones, en términos de lo dispuesto en la fracción XVIII, del artículo [11](articulo-11.md) de esta Ley.
+Como una medida de protección al [Usuario](articulo-2o.md), la [Comisión Nacional](articulo-2o.md) revisará y, en su caso, propondrá a las [Instituciones Financieras](articulo-2o.md), modificaciones a los modelos de contratos de adhesión utilizados en sus diversas operaciones, en términos de lo dispuesto en la fracción XVIII, del artículo [11](articulo-11.md) de esta Ley.
 
 Se entenderá por contrato de adhesión, para efectos de esta Ley, aquél elaborado unilateralmente por una Institución Financiera, cuyas estipulaciones sobre los términos y condiciones aplicables a la contratación de operaciones o servicios sean uniformes para los Usuarios.
 

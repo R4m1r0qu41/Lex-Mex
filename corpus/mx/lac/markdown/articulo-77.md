@@ -13,9 +13,11 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAC.pdf
 source_sha256: 07199878c4f94748c983998437198eb7c645ad76967c444dfe26d50a535d23ae
 ---
 
+> Capítulo XV
+
 # Artículo 77
 
-La Agencia Federal de Aviación Civil está facultada para hacer la declaratoria de abandono de aeronaves cuando: Párrafo reformado DOF 03-05-2023
+La [Agencia Federal de Aviación Civil](articulo-2.md) está facultada para hacer la declaratoria de abandono de aeronaves cuando: Párrafo reformado DOF 03-05-2023
 
 I. Lo declare la persona propietaria o poseedora ante la Agencia Federal de Aviación Civil; Fracción reformada DOF 03-05-2023
 

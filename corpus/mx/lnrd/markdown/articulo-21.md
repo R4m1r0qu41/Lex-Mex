@@ -15,7 +15,7 @@ source_sha256: 0a9852297132d8972d0c2f77e1b67d614bd296632109065e703bd09254187aea
 
 # Artículo 21
 
-Las instituciones de procuración de justicia o aquellas que conozcan de faltas administrativas, a quienes les sea puesta a disposición una persona detenida, procederán de inmediato a actualizar la información en el Registro sobre la situación que guarda dicha persona bajo su custodia, utilizando como referencia el número de registro de la detención que la autoridad aprehensora hubiere especificado en el informe.
+Las instituciones de procuración de justicia o aquellas que conozcan de faltas administrativas, a quienes les sea puesta a disposición una persona detenida, procederán de inmediato a actualizar la información en el [Registro](articulo-2.md) sobre la situación que guarda dicha persona bajo su custodia, utilizando como referencia el número de registro de la detención que la autoridad aprehensora hubiere especificado en el informe.
 
 En caso de que no existiese un registro preexistente deberá iniciar uno; dejando constancia de la omisión o negligencia por parte de la autoridad, dando vista a la autoridad competente para determinar las responsabilidades que en derecho correspondan.
 

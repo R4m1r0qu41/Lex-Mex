@@ -19,7 +19,7 @@ source_sha256: 71ee875c26fc6a1024ea9481ca0690721959514689d860112c3093f0176dfcfb
 
 El Sistema Nacional para el Desarrollo Integral de la Familia, en su calidad de Integrante del Sistema, tendrá las siguientes atribuciones:
 
-I. Coordinar las acciones de asistencia social encaminadas a prevenir, atender, sancionar y erradicar la violencia contra las mujeres, de conformidad con los Modelos que se emitan;
+I. Coordinar las acciones de asistencia social encaminadas a prevenir, atender, sancionar y erradicar la violencia contra las mujeres, de conformidad con los [Modelos](articulo-2.md) que se emitan;
 
 II. Establecer prioridades en materia de asistencia social, para hacer eficiente la prevención, atención, sanción y erradicación de la violencia contra las mujeres;
 

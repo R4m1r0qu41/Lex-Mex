@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título VI · Capítulo I
+
 # Artículo 150
 
 La [Comisión](articulo-2.md) deberá acordar el levantamiento de la intervención cuando las irregularidades que hayan afectado la estabilidad o solvencia del intermediario se hubieran corregido. En caso de que en un plazo improrrogable de nueve meses contado a partir de la declaración de intervención, no haya sido posible corregir las irregularidades, la Comisión, considerando el resultado del dictamen formulado por el interventor-gerente, procederá de conformidad con lo previsto en el artículo [153](articulo-153.md) de esta Ley.

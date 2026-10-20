@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Único · Capítulo II
+
 # Artículo 961
 
 En caso de advertir alguna falla técnica u otra situación extraordinaria que impida el desarrollo de la audiencia o diligencia virtuales, la autoridad jurisdiccional determinará las medidas que estime necesarias para continuarla o, de ser el caso, suspenderla, supuesto en el que señalará una hora o fecha posterior para su reanudación a través del uso preferente de la sala virtual o de manera presencial.

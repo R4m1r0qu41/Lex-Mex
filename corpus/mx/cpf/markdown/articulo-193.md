@@ -19,7 +19,7 @@ source_sha256: a2d80c4383c5fbc8453cf290c19b7853eb0a5a05d1e366572da384edfafda88c
 
 Se consideran narcóticos a los estupefacientes, psicotrópicos y demás sustancias o vegetales que determinen la Ley General de Salud, los convenios y tratados internacionales de observancia obligatoria en México y los que señalen las demás disposiciones legales aplicables en la materia.
 
-Para los efectos de este capítulo, son punibles las conductas que se relacionan con los estupefacientes, psicotrópicos y demás sustancias previstos en los artículos 237, 245, fracciones I, II, y III y 248 de la Ley General de Salud, que constituyen un problema grave para la salud pública.
+Para los efectos de este capítulo, son punibles las conductas que se relacionan con los estupefacientes, psicotrópicos y demás sustancias previstos en los artículos [237](../../lgs/markdown/articulo-237.md), [245](../../lgs/markdown/articulo-245.md), fracciones I, II, y III y [248](../../lgs/markdown/articulo-248.md) de la Ley General de Salud, que constituyen un problema grave para la salud pública.
 
 El juzgador, al individualizar la pena o la medida de seguridad a imponer por la comisión de algún delito previsto en este capítulo, tomará en cuenta, además de lo establecido en los artículos [51](articulo-51.md) y [52](articulo-52.md), la cantidad y la especie de narcótico de que se trate, así como la menor o mayor lesión o puesta en peligro de la salud pública y las condiciones personales del autor o participe del hecho o la reincidencia en su caso.
 

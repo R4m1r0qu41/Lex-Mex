@@ -17,29 +17,29 @@ source_sha256: 1e7d06c67fac4c8a100d2bb2845cc765fba5e8ce09d27d30b2b44432ffeb8c41
 
 # Artículo 5
 
-Para los efectos de esta Ley se entiende por:
+Para los efectos de esta [Ley](articulo-5.md) se entiende por:
 
 I. Comisión Nacional: La Comisión Nacional de los Derechos Humanos.
 
-II. Comisión Ejecutiva: La Comisión Ejecutiva de Atención a Víctimas.
+II. Comisión Ejecutiva: La Comisión Ejecutiva de Atención a [Víctimas](articulo-5.md).
 
 III. Comisiones de Atención a Víctimas: Las Comisiones de Atención a Víctimas de las entidades federativas.
 
 IV. Constitución: La Constitución Política de los Estados Unidos Mexicanos.
 
-V. Dictamen médico-psicológico: La examinación o evaluación que conforme al Protocolo de Estambul, el Código Nacional de Procedimientos Penales y las leyes de la Comisión Nacional y de los Organismos de Protección de los Derechos Humanos, realizarán los peritos oficiales o independientes acreditados en la especialidad médica y psicológica, a fin de documentar los signos físicos o psicológicos que presente la Víctima y el grado en que dichos hallazgos médicos y psicológicos se correlacionen con la comisión de actos de tortura.
+V. Dictamen médico-psicológico: La examinación o evaluación que conforme al [Protocolo de Estambul](articulo-5.md), el Código Nacional de Procedimientos Penales y las leyes de la [Comisión Nacional](articulo-5.md) y de los [Organismos de Protección de los Derechos Humanos](articulo-5.md), realizarán los peritos oficiales o independientes acreditados en la especialidad médica y psicológica, a fin de documentar los signos físicos o psicológicos que presente la Víctima y el grado en que dichos hallazgos médicos y psicológicos se correlacionen con la comisión de actos de tortura.
 
 VI. Delitos Vinculados: Aquellos delitos previstos en esta Ley o en las legislaciones penales federal o de las entidades federativas, que se cometan en concurso o sean conexos a los delitos de tortura y otros tratos o penas crueles, inhumanos o degradantes.
 
-VII. Entidades federativas: Las partes integrantes de la Federación a que se refiere el artículo 43 de la Constitución.
+VII. Entidades federativas: Las partes integrantes de la Federación a que se refiere el artículo 43 de la [Constitución](articulo-5.md).
 
 VIII. Fiscalía: La Fiscalía General de la República. Fracción reformada DOF 20-05-2021
 
-IX. Fiscalías Especializadas: Las instituciones especializadas en la investigación del delito de tortura de las Instituciones de Procuración de Justicia Federal y de las entidades federativas. Fracción reformada DOF 20-05-2021
+IX. Fiscalías Especializadas: Las instituciones especializadas en la investigación del delito de tortura de las [Instituciones de Procuración de Justicia](articulo-5.md) Federal y de las entidades federativas. Fracción reformada DOF 20-05-2021
 
 X. Instituciones de Procuración de Justicia: Las Instituciones de la Federación y de las entidades federativas que integran al Ministerio Público, los servicios periciales y demás auxiliares de aquél. Fracción reformada DOF 20-05-2021
 
-XI. Instituciones de Seguridad Pública: Las Instituciones Policiales, de Procuración de Justicia, del Sistema Penitenciario y otras autoridades del Consejo Nacional de Seguridad Pública encargadas o que realicen funciones de Seguridad Pública a nivel federal, local o municipal. Fracción reformada DOF 20-05-2021
+XI. Instituciones de Seguridad Pública: Las [Instituciones Policiales](articulo-5.md), de Procuración de Justicia, del Sistema Penitenciario y otras autoridades del Consejo Nacional de Seguridad Pública encargadas o que realicen funciones de Seguridad Pública a nivel federal, local o municipal. Fracción reformada DOF 20-05-2021
 
 XII. Instituciones Policiales: A los cuerpos de policía, de vigilancia y custodia de los establecimientos penitenciarios, de detención preventiva, o de centros de arraigos; y en general todas las dependencias encargadas de la seguridad pública a nivel federal, local y municipal, que realicen funciones similares. Fracción reformada DOF 20-05-2021
 
@@ -55,7 +55,7 @@ XVII. Organismos Internacionales de Protección de los Derechos Humanos: Aquello
 
 XVIII. Privación de la libertad: Cualquier acto en el que se prive a una persona de su libertad deambulatoria que derive en alguna forma de retención, detención, presentación, aprehensión, internamiento, aseguramiento, encarcelamiento o de custodia de una persona, por orden o acto de autoridad judicial o administrativa u otra competente, o con el consentimiento expreso o tácito de cualquiera de éstas. Fracción reformada DOF 20-05-2021
 
-XIX. Procuradurías: Las Fiscalías o Procuradurías Generales de Justicia de las entidades federativas.
+XIX. Procuradurías: Las [Fiscalías](articulo-5.md) o Procuradurías Generales de Justicia de las entidades federativas.
 
 XX. Programa Nacional: El Programa Nacional para Prevenir y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes.
 

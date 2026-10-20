@@ -17,4 +17,4 @@ source_sha256: 7f01ee1b1deb901a23976507adccbddefbea50b0fc9a4ddceaf1225d711d50d0
 
 # Artículo 111
 
-El Secretariado Ejecutivo emitirá y publicará las normas técnicas y protocolos de operación relacionados a los Centros de Comando y Control sobre atención a llamadas de emergencia y de denuncia anónima, de despacho de emergencias y de procesos y de definiciones técnicas para los sistemas de videovigilancia.
+El [Secretariado Ejecutivo](articulo-4.md) emitirá y publicará las normas técnicas y protocolos de operación relacionados a los [Centros de Comando y Control](articulo-4.md) sobre atención a llamadas de emergencia y de denuncia anónima, de despacho de emergencias y de procesos y de definiciones técnicas para los sistemas de videovigilancia.

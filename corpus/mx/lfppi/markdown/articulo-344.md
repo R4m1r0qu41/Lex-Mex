@@ -17,7 +17,7 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 344
 
-En los procedimientos relativos a la presunta violación de alguno de los derechos que protege esta Ley, el Instituto podrá adoptar las siguientes medidas:
+En los procedimientos relativos a la presunta violación de alguno de los derechos que protege esta [Ley](articulo-4.md), el [Instituto](articulo-4.md) podrá adoptar las siguientes medidas:
 
 I.- Ordenar el retiro de la circulación o impedir ésta, respecto de las mercancías que infrinjan derechos de los tutelados por esta Ley;
 

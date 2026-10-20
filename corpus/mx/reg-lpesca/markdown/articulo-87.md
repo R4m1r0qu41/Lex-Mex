@@ -17,4 +17,4 @@ source_sha256: e5c0ecb4328043b7090ee5d73e982d6a04410f1330f6fdb350a7a34527eb2e59
 
 # Artículo 87
 
-La Secretaría otorgará el permiso de pesca deportivo-recreativa a la presentación del pago de derechos correspondiente.
+La [Secretaría](articulo-2o.md) otorgará el permiso de pesca deportivo-recreativa a la presentación del pago de derechos correspondiente.

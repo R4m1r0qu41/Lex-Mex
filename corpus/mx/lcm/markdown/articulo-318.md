@@ -23,7 +23,7 @@ I. Por incumplimiento de sus funciones o negligencia en el desempeño de las mis
 
 II. La incapacidad mental o física que impida el correcto ejercicio de sus funciones durante más de seis meses;
 
-III. El desempeño de algún empleo, cargo o comisión, distinto de los previstos en el artículo [320](articulo-320.md) de esta Ley;
+III. El desempeño de algún empleo, cargo o comisión, distinto de los previstos en el artículo [320](articulo-320.md) de esta [Ley](articulo-4o.md);
 
 IV. Dejar de ser ciudadano mexicano o de reunir alguno de los requisitos señalados en la fracción IV del artículo [316](articulo-316.md) de esta Ley;
 

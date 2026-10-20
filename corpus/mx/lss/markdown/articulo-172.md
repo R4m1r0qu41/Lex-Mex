@@ -17,7 +17,7 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 172
 
-El Gobierno Federal con recursos propios complementarios a los de la cuenta individual correspondiente, cubrirá la pensión garantizada, por conducto del Instituto.
+El Gobierno Federal con recursos propios complementarios a los de la cuenta individual correspondiente, cubrirá la pensión garantizada, por conducto del [Instituto](articulo-5-A.md).
 
 El trabajador asegurado deberá solicitarla al Instituto y acreditar tener derecho a ella. Por su parte la Administradora de Fondos para el Retiro está obligada a proporcionar la información que el propio Instituto le requiera para este efecto.
 

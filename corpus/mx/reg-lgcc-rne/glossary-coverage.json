@@ -1,0 +1,39 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-3",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne",
+  "source_sha256": "62420210c5aaffe687daf130a64ff506009625340c554bfb36d2f1b5dcac0192",
+  "extracted_text_sha256": "5775459b2789f93ed63618a3a4af28bf2827b883a871d98fa139b185ad2b68b4",
+  "status": "configured",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:2",
+      "provision_text_sha256": "a57a437dd575c16ec61342cedc82225886e29f3abebb896be09743f0b5c2cb62",
+      "method": "auto_whole",
+      "fractions": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII"
+      ],
+      "repeal_placeholders": [],
+      "term_count": 12
+    }
+  ],
+  "imports": [
+    {
+      "additive_to": "urn:lex-mx:federal:statute:lgcc:article:3",
+      "term_count": 42
+    }
+  ],
+  "term_count": 12,
+  "usage_count": 229
+}

@@ -18,7 +18,7 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 42 Bis
 
-El monto de las estimaciones preventivas para riesgos crediticios incluirá las estimaciones adicionales requeridas en diversas reglamentaciones, así como las ordenadas y reconocidas por la Comisión, debiendo reconocerse en los resultados del ejercicio del periodo que corresponda.
+El monto de las estimaciones preventivas para riesgos crediticios incluirá las estimaciones adicionales requeridas en diversas reglamentaciones, así como las ordenadas y reconocidas por la [Comisión](articulo-1.md), debiendo reconocerse en los resultados del ejercicio del periodo que corresponda.
 
 Las estimaciones adicionales reconocidas por la Comisión a que se refiere el párrafo anterior, son aquellas que se constituyen para cubrir riesgos que no se encuentran previstos en los procedimientos establecidos en las presentes disposiciones para la determinación de las estimaciones preventivas por riesgos crediticios y para bienes adjudicados y sobre las que, previo a su constitución, las Sociedades deberán informar a la Comisión lo siguiente:
 

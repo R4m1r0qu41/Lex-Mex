@@ -17,6 +17,6 @@ source_sha256: 2a105e5201b86ff5517ca1ef8d971224ea8c717f195fdd5fa28b916c7e622e56
 
 # Artículo 25
 
-En la solicitud de incorporación de la persona al Programa, el Ministerio Público del conocimiento previa autorización del Titular de la Fiscalía correspondiente o de la unidad administrativa equivalente a la que pertenezca, de ser el caso, informará al Centro la importancia de la intervención de la persona en el Procedimiento Penal.
+En la solicitud de incorporación de la persona al [Programa](articulo-2.md), el Ministerio Público del conocimiento previa autorización del Titular de la Fiscalía correspondiente o de la unidad administrativa equivalente a la que pertenezca, de ser el caso, informará al [Centro](articulo-2.md) la importancia de la intervención de la persona en el Procedimiento Penal.
 
 Artículo reformado DOF 20-05-2021

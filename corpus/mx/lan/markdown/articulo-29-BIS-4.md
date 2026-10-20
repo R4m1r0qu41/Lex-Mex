@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAN.pdf
 source_sha256: 4ef50d6b4b3a6ad0378720c5d49463b4f17d70d9de39f895ed5dae4d2e21736d
 ---
 
-> Título CUARTO
+> Título CUARTO · Capítulo III BIS
 
 # Artículo 29 BIS 4
 
@@ -49,7 +49,9 @@ XV. Proporcionar a terceras personas en forma provisional el uso total o parcial
 
 XVI. Incumplir con lo dispuesto en la Ley respecto de la explotación, uso o aprovechamiento de aguas nacionales o preservación y control de su calidad, cuando por la misma causa a la persona infractora se le hubiere aplicado con anterioridad sanción mediante resolución que quede firme, conforme a las fracciones II y III del Artículo [120](articulo-120.md) de esta Ley; Fracción reformada DOF 11-12-2025
 
-XVII. Por incumplimiento de las medidas preventivas y correctivas que ordene "la Autoridad del Agua"; Fracción reformada DOF 08-05-2023 XVIII. Cuando, para obtener o conservar una concesión, la persona titular hubiere presentado documentación falsa; Fracción reformada DOF 08-05-2023
+XVII. Por incumplimiento de las medidas preventivas y correctivas que ordene "la Autoridad del Agua"; Fracción reformada DOF 08-05-2023
+
+XVIII. Cuando, para obtener o conservar una concesión, la persona titular hubiere presentado documentación falsa; Fracción reformada DOF 08-05-2023
 
 XIX. Por hechos o actos supervenientes de interés público, general o social, o que causen algún tipo de desequilibrio económico, social, ambiental o de cualquier otra índole; Fracción adicionada DOF 08-05-2023
 
@@ -62,5 +64,3 @@ En los casos que corresponda, además de la revocación a la que hace referencia
 Al extinguirse los títulos, por término de la concesión o asignación o de su última prórroga, o cuando se haya revocado el título por incumplimiento, de acuerdo con lo que establece esta Ley, las obras e instalaciones adheridas de manera permanente a bienes nacionales deberán revertirse a "la Comisión".
 
 Artículo adicionado DOF 29-04-2004
-
-Sección Cuarta Restricciones de uso de agua Sección adicionada DOF 29-04-2004

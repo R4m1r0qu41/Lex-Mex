@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-3",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lftr-mcsre",
+  "source_sha256": "12b5a375ccfb83d3a9e46f19e97429007aea1caf283f9e0f0566f222a7e6f998",
+  "extracted_text_sha256": "b27b96c177d06468ee10543dc9f78022158e62bbdaed17f92931a2e026dde9fd",
+  "status": "held",
+  "glossaries": [],
+  "hold": {
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lftr-mcsre:article:3",
+    "provision_text_sha256": "de92f806a32f1bfba3819143710678202b8dc2ee0ae95eeda6f197ea3898b596",
+    "code": "sequence_break",
+    "message": "fraction IX breaks the I, II, III… sequence after VII"
+  },
+  "imports": [],
+  "term_count": 0,
+  "usage_count": 0
+}

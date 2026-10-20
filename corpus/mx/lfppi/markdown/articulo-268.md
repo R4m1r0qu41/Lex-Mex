@@ -17,6 +17,6 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 268
 
-Las denominaciones de origen e indicaciones geográficas protegidas son bienes nacionales y solo podrán usarse mediante la autorización que expida el Instituto.
+Las denominaciones de origen e indicaciones geográficas protegidas son bienes nacionales y solo podrán usarse mediante la autorización que expida el [Instituto](articulo-4.md).
 
-Corresponderá al Instituto ejercer las acciones de protección y defensa de las denominaciones de origen e indicaciones geográficas protegidas. Dichas facultades podrán ser delegadas a una tercera persona, de conformidad con lo que disponga el Reglamento de esta Ley. Párrafo reformado DOF 03-04-2026
+Corresponderá al Instituto ejercer las acciones de protección y defensa de las denominaciones de origen e indicaciones geográficas protegidas. Dichas facultades podrán ser delegadas a una tercera persona, de conformidad con lo que disponga el Reglamento de esta [Ley](articulo-4.md). Párrafo reformado DOF 03-04-2026

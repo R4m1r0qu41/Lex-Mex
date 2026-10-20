@@ -17,4 +17,4 @@ source_sha256: aa96853f010885bdf85160e944e5c0ef5c3c8e95422dfede280d228cf064310a
 
 # Artículo 16
 
-La generación de energía eléctrica en Centrales Eléctricas puede ser realizada por el Estado, los particulares por sí mismos o en conjunto en esquemas de inversión mixta, en los términos establecidos en la presente Ley.
+La generación de energía eléctrica en [Centrales Eléctricas](articulo-3.md) puede ser realizada por el Estado, los particulares por sí mismos o en conjunto en esquemas de inversión mixta, en los términos establecidos en la presente Ley.

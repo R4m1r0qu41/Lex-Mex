@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-3",
+  "instrument_id": "urn:lex-mx:federal:statute:ltfccg",
+  "source_sha256": "1764c89edb8173050fe6bc08f57826ea93a131c7c83f4fc8c15f74de03fb07c3",
+  "extracted_text_sha256": "3a0c7e582c3badb84abbc38258bc64befe564e056829bb82b10f3818995e89f9",
+  "status": "held",
+  "glossaries": [],
+  "hold": {
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:3",
+    "provision_text_sha256": "0910f7ca2b128ca66544a0de2abd74ce26d72aec6a545dbf4d42df7dc8433487",
+    "code": "missing_term",
+    "message": "fraction IX has no term before `.`"
+  },
+  "imports": [],
+  "term_count": 0,
+  "usage_count": 0
+}

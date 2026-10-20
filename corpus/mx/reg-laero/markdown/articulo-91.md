@@ -17,13 +17,13 @@ source_sha256: ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776
 
 Para que un aeródromo civil preste servicios fuera del horario de operación ordinario, se deberá obtener autorización para la extensión de servicios conforme al procedimiento siguiente:
 
-I. El transportista u operador aéreo que solicite se le presten servicios fuera del horario de operación de un aeródromo, deberá contar con la autorización que, en su caso, corresponda conforme a la Ley de Aviación Civil y su reglamento para realizar el vuelo y presentar su solicitud por escrito al administrador aeroportuario;
+I. El transportista u operador aéreo que solicite se le presten servicios fuera del horario de operación de un aeródromo, deberá contar con la autorización que, en su caso, corresponda conforme a la [Ley](articulo-2.md) de Aviación Civil y su reglamento para realizar el vuelo y presentar su solicitud por escrito al administrador aeroportuario;
 
 El comandante de aeródromo en caso fortuito, de fuerza mayor o cuando existan circunstancias extraordinarias que lo ameriten, podrá ordenar la extensión de servicios, previa coordinación con las autoridades competentes;
 
 II. El administrador aeroportuario, si está de acuerdo con el transportista u operador aéreo en prestarle servicios fuera del horario, y siempre que cuente con los servicios aeroportuarios y complementarios necesarios para la atención de la aeronave, solicitará la autorización del comandante de aeródromo;
 
-III. El administrador aeroportuario presentará la solicitud de extensión de servicios por escrito, de acuerdo con los formatos que expida la Secretaría, indicando los datos del transportista u operador que solicita los servicios, los nombres de los prestadores de servicios, y el horario por el que se extenderán los servicios;
+III. El administrador aeroportuario presentará la solicitud de extensión de servicios por escrito, de acuerdo con los formatos que expida la [Secretaría](articulo-2.md), indicando los datos del transportista u operador que solicita los servicios, los nombres de los prestadores de servicios, y el horario por el que se extenderán los servicios;
 
 IV. Una vez recibida la solicitud de extensión de servicios, y según se trate de un vuelo nacional o internacional, el comandante de aeródromo deberá llevar a cabo la coordinación con las diversas autoridades adscritas al aeródromo y con el órgano u organismo prestador de servicios a la navegación aérea para que atiendan el vuelo durante la extensión de servicios;
 

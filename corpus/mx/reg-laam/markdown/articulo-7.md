@@ -17,4 +17,4 @@ source_sha256: 8515c812258bcc7c342e8566ff623c7f5e880f2eb9ee2ad154758077089f11ca
 
 # Artículo 7
 
-No se conferirá ascenso alguno sin vacante que lo motive, salvo en los casos previstos en la propia Ley.
+No se conferirá ascenso alguno sin vacante que lo motive, salvo en los casos previstos en la propia [Ley](articulo-5.md).

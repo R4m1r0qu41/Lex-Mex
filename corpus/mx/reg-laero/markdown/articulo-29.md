@@ -15,7 +15,7 @@ source_sha256: ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776
 
 # Artículo 29
 
-El área definida de los aeródromos civiles está integrada por las superficies de tierra o agua delimitadas en una poligonal, así como por la zona de protección que determine la Secretaría, cuya descripción se publicará en el Diario Oficial de la Federación, junto con el título de concesión o permiso respectivo.
+El área definida de los aeródromos civiles está integrada por las superficies de tierra o agua delimitadas en una poligonal, así como por la zona de protección que determine la [Secretaría](articulo-2.md), cuya descripción se publicará en el Diario Oficial de la Federación, junto con el título de concesión o permiso respectivo.
 
 La poligonal comprende el perímetro de la superficie del aeródromo civil.
 

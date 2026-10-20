@@ -17,7 +17,7 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 309
 
-El delito de defraudación a los regímenes del seguro social, será calificado, cuando los patrones o sus representantes y demás sujetos obligados, a sabiendas omitan el entero de las cuotas obreras retenidas a los trabajadores en los términos y condiciones establecidos en esta Ley.
+El delito de defraudación a los regímenes del seguro social, será calificado, cuando los patrones o sus representantes y demás sujetos obligados, a sabiendas omitan el entero de las cuotas obreras retenidas a los trabajadores en los términos y condiciones establecidos en esta [Ley](articulo-5-A.md).
 
 Cuando el delito sea calificado, la pena que corresponda se aumentará en una mitad.
 

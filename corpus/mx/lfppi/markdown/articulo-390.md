@@ -17,6 +17,6 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 390
 
-En los casos de reincidencia se duplicarán las multas impuestas anteriormente, sin que su monto exceda del triple del máximo fijado en el artículo [388](articulo-388.md) de esta Ley, según el caso.
+En los casos de reincidencia se duplicarán las multas impuestas anteriormente, sin que su monto exceda del triple del máximo fijado en el artículo [388](articulo-388.md) de esta [Ley](articulo-4.md), según el caso.
 
-Se entiende por reincidencia, para los efectos de esta Ley y demás disposiciones derivadas de ella, cada una de las subsecuentes infracciones a un mismo precepto, una vez que sea exigible la resolución emitida por el Instituto.
+Se entiende por reincidencia, para los efectos de esta Ley y demás disposiciones derivadas de ella, cada una de las subsecuentes infracciones a un mismo precepto, una vez que sea exigible la resolución emitida por el [Instituto](articulo-4.md).

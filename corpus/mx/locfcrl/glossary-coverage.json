@@ -1,0 +1,30 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-3",
+  "instrument_id": "urn:lex-mx:federal:statute:locfcrl",
+  "source_sha256": "1b50289dd80607f83a22c917a3ead722edbf30ee45e8756b3d764f000e1ffc48",
+  "extracted_text_sha256": "63306f97fb7eb5bcc274c9f6e48ac95301b11912bff0676c839a0b755cf4ec65",
+  "status": "detected",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:3",
+      "provision_text_sha256": "eae7e5c4b9cfc4125ea89590d2b38a6464d72d7af4e4ebe9bda4c14814b9285c",
+      "method": "established_pass",
+      "fractions": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII"
+      ],
+      "unread_fractions": [],
+      "term_count": 8
+    }
+  ],
+  "imports": [],
+  "term_count": 8,
+  "usage_count": 135
+}

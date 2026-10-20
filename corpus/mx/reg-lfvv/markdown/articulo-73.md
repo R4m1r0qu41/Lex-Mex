@@ -17,7 +17,7 @@ source_sha256: 23dcee090bbe0c4fb06c75d084cb65ce0b2e8f72a8d082e7059504412bde1614
 
 # Artículo 73
 
-El aseguramiento de bienes, con base en lo dispuesto por los artículos [42](../../lfvv/markdown/articulo-42.md) y [45](../../lfvv/markdown/articulo-45.md) de la Ley, se sujetará a lo siguiente:
+El aseguramiento de bienes, con base en lo dispuesto por los artículos [42](../../lfvv/markdown/articulo-42.md) y [45](../../lfvv/markdown/articulo-45.md) de la [Ley](articulo-2o.md), se sujetará a lo siguiente:
 
 I.- El responsable de aplicar la medida provisional señalará los bienes objeto del aseguramiento, levantará el inventario y designará a los depositarios;
 
@@ -25,9 +25,9 @@ II.- En la designación de los depositarios se preferirá a las personas o insti
 
 III.- Si el nombramiento de depositario recayere en la persona con quien se entienda la diligencia, se le considerará como el encargado del establecimiento;
 
-IV.- El depositario mantendrá los bienes asegurados en el domicilio donde se hubiere efectuado la diligencia o, en su caso, en el señalado para tal efecto; por ningún motivo podrá disponer de ellos y deberá conservarlos a disposición de la Secretaría;
+IV.- El depositario mantendrá los bienes asegurados en el domicilio donde se hubiere efectuado la diligencia o, en su caso, en el señalado para tal efecto; por ningún motivo podrá disponer de ellos y deberá conservarlos a disposición de la [Secretaría](articulo-2o.md);
 
-V.- Los bienes asegurados que deban concentrarse en la Secretaría se custodiarán en el local señalado al efecto por y bajo la responsabilidad del SNICS o de la delegación estatal correspondiente;
+V.- Los bienes asegurados que deban concentrarse en la Secretaría se custodiarán en el local señalado al efecto por y bajo la responsabilidad del [SNICS](articulo-2o.md) o de la delegación estatal correspondiente;
 
 VI.- Si los bienes asegurados pudieren demeritarse o deteriorarse, el depositario los vigilará permanentemente, debiendo informar, a quien lo hubiese designado, cualquier daño que observe o que tema razonadamente que sobrevenga, y
 

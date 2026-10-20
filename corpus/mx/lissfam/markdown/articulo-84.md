@@ -17,4 +17,4 @@ source_sha256: 35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc
 
 # Artículo 84
 
-La Junta Directiva dictará las disposiciones administrativas internas que estime convenientes para mejorar y regular el servicio del seguro de vida militar; en ningún caso, destinará sus recursos financieros para fines distintos a los previstos por esta Ley.
+La [Junta](articulo-4o.md) Directiva dictará las disposiciones administrativas internas que estime convenientes para mejorar y regular el servicio del seguro de vida militar; en ningún caso, destinará sus recursos financieros para fines distintos a los previstos por esta [Ley](articulo-4o.md).

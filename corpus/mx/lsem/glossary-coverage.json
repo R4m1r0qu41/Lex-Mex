@@ -1,0 +1,50 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-3",
+  "instrument_id": "urn:lex-mx:federal:statute:lsem",
+  "source_sha256": "012a7b3a18d987229f48c98a36b9b9cf91f5227b5e888ff09f535fd609e31c21",
+  "extracted_text_sha256": "37104b5abb519419da692624f78b4698796a28af3dfbd9468f26d17b9ffd570d",
+  "status": "detected",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lsem:article:1-bis",
+      "provision_text_sha256": "0853c310458720a1075f65f7d2db01f4f7490580a0a2a96ee052c4647afa7294",
+      "method": "established_pass",
+      "fractions": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII",
+        "XIII",
+        "XIV",
+        "XV",
+        "XVI",
+        "XVII",
+        "XVIII",
+        "XIX",
+        "XX",
+        "XXI",
+        "XXII",
+        "XXIII",
+        "XXIV",
+        "XXV",
+        "XXVI",
+        "XXVII",
+        "XXVIII"
+      ],
+      "unread_fractions": [],
+      "term_count": 28
+    }
+  ],
+  "imports": [],
+  "term_count": 28,
+  "usage_count": 539
+}

@@ -21,4 +21,4 @@ No constituyen monopolios las asociaciones de trabajadores constituidas conforme
 
 Tampoco constituyen monopolios los privilegios que por determinado tiempo se conceden a los autores y artistas para la producción de sus obras y los que se otorguen a los inventores y perfeccionadores para el uso exclusivo de sus inventos o mejoras.
 
-Los Agentes Económicos referidos en los dos párrafos anteriores estarán sujetos a lo dispuesto en esta Ley respecto de los actos que no estén expresamente comprendidos dentro de la protección que señala el artículo [28](../../cpeum/markdown/articulo-28.md) de la Constitución Política de los Estados Unidos Mexicanos.
+Los [Agentes Económicos](articulo-3.md) referidos en los dos párrafos anteriores estarán sujetos a lo dispuesto en esta Ley respecto de los actos que no estén expresamente comprendidos dentro de la protección que señala el artículo [28](../../cpeum/markdown/articulo-28.md) de la Constitución Política de los Estados Unidos Mexicanos.

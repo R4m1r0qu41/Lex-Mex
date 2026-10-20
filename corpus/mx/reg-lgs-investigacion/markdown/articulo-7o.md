@@ -21,7 +21,7 @@ La coordinación de la investigación, dentro del marco del Sistema Nacional de 
 
 I. Establecer y conducir la política nacional en Materia de Investigación en Salud, en los términos de las Leyes aplicables, de este Reglamento y demás disposiciones;
 
-II. Promover las actividades de investigación dentro de las instituciones que integran el Sistema Nacional de Salud; REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE INVESTIGACION PARA LA SALUD III. Impulsar la desconcentración y descentralización de las actividades de investigación;
+II. Promover las actividades de investigación dentro de las instituciones que integran el Sistema Nacional de Salud; III. Impulsar la desconcentración y descentralización de las actividades de investigación;
 
 IV. Determinar la periodicidad y características de información sobre investigación en salud que deberán proporcionar las dependencias y entidades que la realicen;
 

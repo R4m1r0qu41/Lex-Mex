@@ -17,7 +17,7 @@ source_sha256: a2d3f947b369e4383f2f27a4e9bd819a3dba768ab9bae527e6388e30c1f9e06c
 
 # Artículo 15
 
-El Consejo de Salubridad General es un órgano que depende directamente de la persona titular de la Presidencia de la República en los términos del artículo [73](articulo-73.md), fracción XVI, base 1a. de la Constitución Política de los Estados Unidos Mexicanos.
+El Consejo de Salubridad General es un órgano que depende directamente de la persona titular de la Presidencia de la República en los términos del artículo [73](../../cpeum/markdown/articulo-73.md), fracción XVI, base 1a. de la Constitución Política de los Estados Unidos Mexicanos.
 
 El Consejo de Salubridad General está integrado por la persona titular de la Secretaría de Salud quien lo presidirá, la persona titular de la Secretaría de dicho Consejo y las personas integrantes titulares que su reglamento interior determine, dos de los cuáles serán las personas titulares de la Academia Nacional de Medicina y de la Academia Mexicana de Cirugía. Las personas integrantes del Consejo contarán con derecho a voz y voto y ejercerán sus cargos a título honorífico.
 

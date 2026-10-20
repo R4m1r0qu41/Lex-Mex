@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf
 source_sha256: ca63a23a4b7444ebdbdad93759fbf46bd14c069e587c5878decf89fc9c12ca8e
 ---
 
+> Título Primero · Capítulo I
+
 # Artículo 3o
 
 Toda persona tiene derecho a la educación. El Estado -Federación, Estados, Ciudad de México y Municipios- impartirá y garantizará la educación inicial, preescolar, primaria, secundaria, media superior y superior. La educación inicial, preescolar, primaria y secundaria, conforman la educación básica; ésta y la media superior serán obligatorias, la educación superior lo será en términos de la fracción X del presente artículo. La educación inicial es un derecho de la niñez y será responsabilidad del Estado concientizar sobre su importancia. Fe de erratas al párrafo DOF 09-03-1993. Reformado DOF 12-11-2002, 09-02-2012, 29-01-2016, 15-05-2019
@@ -63,7 +65,9 @@ f) Será inclusivo, al tomar en cuenta las diversas capacidades, circunstancias 
 
 g) Será intercultural, al promover la convivencia armónica entre personas y comunidades para el respeto y reconocimiento de sus diferencias y derechos, en un marco de inclusión social; Inciso adicionado DOF 15-05-2019
 
-h) Será integral, educará para la vida, con el objeto de desarrollar en las personas capacidades cognitivas, socioemocionales y físicas que les permitan alcanzar su bienestar, e Inciso adicionado DOF 15-05-2019 i) Será de excelencia, entendida como el mejoramiento integral constante que promueve el máximo logro de aprendizaje de los educandos, para el desarrollo de su pensamiento crítico y el fortalecimiento de los lazos entre escuela y comunidad; Inciso adicionado DOF 15-05-2019
+h) Será integral, educará para la vida, con el objeto de desarrollar en las personas capacidades cognitivas, socioemocionales y físicas que les permitan alcanzar su bienestar, e Inciso adicionado DOF 15-05-2019
+
+i) Será de excelencia, entendida como el mejoramiento integral constante que promueve el máximo logro de aprendizaje de los educandos, para el desarrollo de su pensamiento crítico y el fortalecimiento de los lazos entre escuela y comunidad; Inciso adicionado DOF 15-05-2019
 
 III. Se deroga. Fracción reformada DOF 12-11-2002, 26-02-2013, 29-01-2016. Derogada DOF 15-05-2019
 

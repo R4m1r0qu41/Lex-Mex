@@ -18,4 +18,4 @@ source_sha256: 8ac502b97188bd6e795781e9821be6e62ccdd8050cdd3be74aab52a888e67939
 
 # Artículo 112
 
-En ningún caso podrán ser designados como miembros del Comité de Auditoría los directivos y empleados de la propia unión de crédito.
+En ningún caso podrán ser designados como miembros del [Comité de Auditoría](articulo-1.md) los directivos y empleados de la propia unión de crédito.

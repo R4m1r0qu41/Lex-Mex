@@ -17,6 +17,6 @@ source_sha256: 160e5e85efddb1749a79f6b154af31711a9b31a5e32bace3c07e2859c2620ecf
 
 # Artículo 134
 
-En materia de sanidad de especies acuícolas y de inocuidad y calidad de recursos pesqueros y recursos acuícolas, incluyendo los establecimientos TIF a que se refiere la presente Ley, el SENASICA, además de aplicar cualquiera de las sanciones a que se refieren las fracciones I, II y V del [artículo anterior](articulo-133.md), podrá suspender o revocar los certificados correspondientes, previo el cumplimiento a la garantía de audiencia de acuerdo a lo establecido en las disposiciones relativas y aplicables de la Ley Federal de Procedimiento Administrativo y demás disposiciones vigentes en materia de normalización.
+En materia de sanidad de especies acuícolas y de inocuidad y calidad de recursos pesqueros y recursos acuícolas, incluyendo los establecimientos TIF a que se refiere la presente Ley, el [SENASICA](articulo-4o.md), además de aplicar cualquiera de las sanciones a que se refieren las fracciones I, II y V del [artículo anterior](articulo-133.md), podrá suspender o revocar los certificados correspondientes, previo el cumplimiento a la garantía de audiencia de acuerdo a lo establecido en las disposiciones relativas y aplicables de la Ley Federal de Procedimiento Administrativo y demás disposiciones vigentes en materia de normalización.
 
 Artículo reformado DOF 30-05-2012

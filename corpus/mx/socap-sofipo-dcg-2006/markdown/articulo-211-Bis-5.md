@@ -18,4 +18,4 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 211 Bis 5
 
-El Consejo de Administración de las Sociedades Financieras Populares deberá aprobar la contratación de un solo Proveedor de Precios para los efectos de la presente Sección.
+El [Consejo de Administración](articulo-1.md) de las [Sociedades](articulo-1.md) Financieras Populares deberá aprobar la contratación de un solo Proveedor de Precios para los efectos de la presente Sección.

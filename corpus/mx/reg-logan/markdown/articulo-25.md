@@ -33,6 +33,6 @@ IV. Nombre completo de los miembros que desempeñen cargos en los consejos direc
 
 V. Los estatutos debidamente aprobados por la asociación o unión, y
 
-VI. Constancia de la asistencia del representante de la Secretaría y en su caso, de la de los representantes del Gobierno de la entidad federativa, del Ayuntamiento y de la Unión o de la Confederación.
+VI. Constancia de la asistencia del representante de la Secretaría y en su caso, de la de los representantes del Gobierno de la entidad federativa, del Ayuntamiento y de la [Unión](articulo-2o.md) o de la [Confederación](articulo-2o.md).
 
 Se dará fe pública de la realización de la asamblea constitutiva mediante fedatario, con la presencia de un representante de la Secretaría.

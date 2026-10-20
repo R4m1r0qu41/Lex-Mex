@@ -15,4 +15,4 @@ source_sha256: bcc21844355854fe331c842c21436d721d6c2856b5c5986715fe39f4a845b317
 
 # VIGÉSIMO NOVENO
 
-El Presidente del Sistema Público de Radiodifusión del Estado Mexicano someterá a la Junta de Gobierno, para su aprobación, el proyecto de Estatuto Orgánico, dentro de los noventa días naturales siguientes a su nombramiento.
+El [Presidente](articulo-2.md) del [Sistema](articulo-2.md) Público de Radiodifusión del Estado Mexicano someterá a la [Junta de Gobierno](articulo-2.md), para su aprobación, el proyecto de [Estatuto Orgánico](articulo-2.md), dentro de los noventa días naturales siguientes a su nombramiento.

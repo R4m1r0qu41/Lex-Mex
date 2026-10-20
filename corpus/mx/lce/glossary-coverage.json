@@ -1,0 +1,27 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-3",
+  "instrument_id": "urn:lex-mx:federal:statute:lce",
+  "source_sha256": "3f114f47007c21b4691bad502b786b45aa5e45c1571bd56dd8ca4f5af991b459",
+  "extracted_text_sha256": "83dd23b633339135cd0009239e7017401eb9ca0bd487c6ec25b919e619271b98",
+  "status": "detected",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lce:article:3",
+      "provision_text_sha256": "8ef8a43f60732d06910c3688446cfe3cae161e129108cf61041f14852079dddf",
+      "method": "established_pass",
+      "fractions": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+      ],
+      "unread_fractions": [],
+      "term_count": 5
+    }
+  ],
+  "imports": [],
+  "term_count": 5,
+  "usage_count": 144
+}

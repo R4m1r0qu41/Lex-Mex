@@ -17,6 +17,6 @@ source_sha256: 2a105e5201b86ff5517ca1ef8d971224ea8c717f195fdd5fa28b916c7e622e56
 
 # Artículo 47
 
-El Director por conducto del Fiscal presentará un informe anual al H. Congreso de la Unión sobre los resultados y las operaciones del Programa. Dichos informes se elaborarán de modo que se ofrezca la relación estadística más detallada posible. Sin embargo, bajo ninguna circunstancia se podrán asentar datos que pongan en riesgo la integridad de las personas incorporadas al Programa.
+El [Director](articulo-2.md) por conducto del [Fiscal](articulo-2.md) presentará un informe anual al H. Congreso de la Unión sobre los resultados y las operaciones del [Programa](articulo-2.md). Dichos informes se elaborarán de modo que se ofrezca la relación estadística más detallada posible. Sin embargo, bajo ninguna circunstancia se podrán asentar datos que pongan en riesgo la integridad de las personas incorporadas al Programa.
 
 Artículo reformado DOF 20-05-2021

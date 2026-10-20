@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LTOSF.pdf
 source_sha256: bf9e443e89a5c0ba268e76f20923ae25195ef5c1ffbacecff36693ca228c3667
 ---
 
+> Capítulo V · Sección I
+
 # Artículo 24
 
 La facultad de las autoridades para imponer sanciones de carácter administrativo establecidas en esta Ley, caducará en un plazo de cinco años, contado a partir del día hábil siguiente al en que se realizó la conducta o se actualizó el supuesto de infracción.

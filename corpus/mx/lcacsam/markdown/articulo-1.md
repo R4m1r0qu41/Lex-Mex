@@ -19,6 +19,6 @@ source_sha256: e56b3fe80514e68891aee1c7ad316374b7b6d21ab2b8ce55c53b3ae83a535248
 
 Para los efectos de la presente Ley se entenderá por:
 
-I.- Tiempo de servicio efectivo, aquel que se le contará al personal a partir del día de su ingreso a la Armada de México hasta su separación definitiva de la misma, haciéndole las deducciones establecidas en esta Ley, y
+I.- [Tiempo de servicio](articulo-1.md) efectivo, aquel que se le contará al personal a partir del día de su ingreso a la Armada de México hasta su separación definitiva de la misma, haciéndole las deducciones establecidas en esta Ley, y
 
 II.- Tiempo de servicios, aquel que comprende el tiempo del servicio efectivo del personal más los abonos de tiempo establecidos en esta Ley.

@@ -27,7 +27,7 @@ III. El Juez de Ejecución concederá el uso de la palabra al promovente y con p
 
 IV. Las partes discutirán sobre la admisión de los medios de prueba y podrán reclamar la revocación ante el desechamiento;
 
-V. El Juez de Ejecución admitirá los medios de prueba y se procederá a su desahogo conforme a las reglas del Código Nacional;
+V. El Juez de Ejecución admitirá los medios de prueba y se procederá a su desahogo conforme a las reglas del [Código Nacional](articulo-3.md);
 
 VI. Las partes formularán los alegatos finales y de ser procedente, el Juez de Ejecución observará el derecho de réplica y dúplica cuando el debate así lo requiera;
 

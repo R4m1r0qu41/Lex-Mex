@@ -13,10 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LNEP.pdf
 source_sha256: 91abecabe50a5e414e0835daa9086ce3b307fffb9ebe626dab3bb9d1eae51680
 ---
 
-> Título QUINTO
+> Título QUINTO · Capítulo IX
 
 # Artículo 197
 
 Determinación de lugar de internamiento Cuando una misma persona esté sujeta a medidas de seguridad y la pena de prisión o prisión preventiva en razón de procesos distintos, se atenderá a lo dispuesto en este Capítulo respecto al lugar y condiciones de internamiento.
-
-Capítulo X Reglas Comunes

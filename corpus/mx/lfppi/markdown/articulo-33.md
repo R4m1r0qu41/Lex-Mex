@@ -17,7 +17,7 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 33
 
-De resultar procedente la solicitud, el Instituto emitirá una constancia de inscripción que contendrá lo siguiente:
+De resultar procedente la solicitud, el [Instituto](articulo-4.md) emitirá una constancia de inscripción que contendrá lo siguiente:
 
 I.- El número de registro;
 

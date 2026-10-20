@@ -37,7 +37,9 @@ VII.- Cuando se cometa estando la víctima en un vehículo particular o de trans
 
 VIII.- Cuando se cometa aprovechando las condiciones de confusión que se produzcan por catástrofe o desorden público; Fracción adicionada DOF 13-01-1984
 
-IX.- Cuando se cometa por una o varias personas armadas, o que utilicen o porten otros objetos peligrosos; Fracción adicionada DOF 13-01-1984 X.- Cuando se cometa en contra de una oficina bancaria, recaudatoria u otra en que se conserven caudales, contra personas que las custodien o transporten aquéllos. Fracción adicionada DOF 13-01-1984
+IX.- Cuando se cometa por una o varias personas armadas, o que utilicen o porten otros objetos peligrosos; Fracción adicionada DOF 13-01-1984
+
+X.- Cuando se cometa en contra de una oficina bancaria, recaudatoria u otra en que se conserven caudales, contra personas que las custodien o transporten aquéllos. Fracción adicionada DOF 13-01-1984
 
 XI.- Cuando se trate de partes de vehículos estacionados en la vía pública o en otro lugar destinado a su guarda o reparación; Fracción adicionada DOF 03-01-1989
 

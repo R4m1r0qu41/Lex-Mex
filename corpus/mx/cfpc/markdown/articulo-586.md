@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CFPC.pdf
 source_sha256: db545f3918f1c1907dac23d6431d5076c8de91af1fbf97dcf5b5b2a68b165299
 ---
 
-> Título UNICO · Capítulo VI
+> Título Único · Capítulo II
 
 # Artículo 586
 
@@ -46,5 +46,3 @@ El juez deberá notificar la resolución de remoción al Consejo de la Judicatur
 El representante será responsable frente a la colectividad por el ejercicio de su gestión.
 
 Artículo adicionado DOF 30-08-2011
-
-Capítulo III Procedimiento Capítulo adicionado DOF 30-08-2011

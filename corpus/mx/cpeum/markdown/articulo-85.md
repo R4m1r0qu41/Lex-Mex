@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf
 source_sha256: ca63a23a4b7444ebdbdad93759fbf46bd14c069e587c5878decf89fc9c12ca8e
 ---
 
+> Título Tercero · Capítulo III
+
 # Artículo 85
 
 Si antes de iniciar un periodo constitucional la elección no estuviese hecha o declarada válida, cesará el Presidente cuyo periodo haya concluido y será presidente interino el que haya designado el Congreso, en los términos del [artículo anterior](articulo-84.md). Párrafo reformado DOF 13-11-2007, 09-08-2012

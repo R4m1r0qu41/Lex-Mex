@@ -35,6 +35,6 @@ VII. Presentar un comprobante de domicilio, y
 
 VIII. Demostrar que cumple con los demás requisitos establecidos en las Normas Oficiales Mexicanas aplicables a la materia.
 
-La Secretaría determinará los conocimientos y condiciones que debe reunir el solicitante, para que, en su caso, se determine la especialización de sus conocimientos como Guía de Turista.
+La Secretaría determinará los conocimientos y condiciones que debe reunir el solicitante, para que, en su caso, se determine la especialización de sus conocimientos como [Guía de Turista](articulo-2.md).
 
 El titular de la Secretaría determinará, mediante Acuerdo que deberá publicarse en el Diario Oficial de la Federación, los formatos a que se refiere la fracción I de este artículo, y los conocimientos y condiciones que se requieren para alguna especialización como Guías de Turistas, así como los demás requisitos técnicos que permitan al solicitante acreditar y demostrar la información requerida en este artículo.

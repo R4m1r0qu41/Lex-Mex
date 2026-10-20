@@ -17,7 +17,7 @@ source_sha256: d9ffbbf8f19b54a93ff577abb1266e4be1316d935e79fad655242955fd80ff70
 
 # Artículo 16
 
-La Secretaría por Acuerdo de su titular, de acuerdo a lo indicado en las directrices relativas al Protocolo sobre la Prevención de la Contaminación del Mar por vertimiento de desechos y otras materias, 1972, así como los ordenamientos nacionales en la materia, establecerá los límites máximo, inferior y superior, de vertimiento de desechos, materiales o sustancias, previa opinión de otras Dependencias de la Administración Pública Federal. Acuerdo que será publicado anualmente en el Diario Oficial de la Federación, considerando lo siguiente:
+La [Secretaría](articulo-2.md) por Acuerdo de su titular, de acuerdo a lo indicado en las directrices relativas al Protocolo sobre la Prevención de la Contaminación del Mar por vertimiento de desechos y otras materias, 1972, así como los ordenamientos nacionales en la materia, establecerá los límites máximo, inferior y superior, de vertimiento de desechos, materiales o sustancias, previa opinión de otras Dependencias de la Administración Pública Federal. Acuerdo que será publicado anualmente en el Diario Oficial de la Federación, considerando lo siguiente:
 
 I. Los desechos que contengan determinadas sustancias, o sustancias que causen reacciones biológicas que excedan del límite superior pertinente; no se verterán en el mar, a menos que su vertimiento resulte aceptable después de haberlos sometido a técnicas o procedimientos de degradación de los componentes peligrosos;
 

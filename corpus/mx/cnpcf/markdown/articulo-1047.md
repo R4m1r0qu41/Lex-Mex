@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Único · Capítulo III
+
 # Artículo 1047
 
 La persona depositaria, en el caso del [artículo anterior](articulo-1046.md), pondrá en conocimiento de la autoridad jurisdiccional el lugar en que quede constituido el depósito y recabará de ésta la autorización para hacer, en caso necesario, los gastos razonables de almacenaje y conservación. Los gastos de almacenaje serán a cargo de la persona deudora.

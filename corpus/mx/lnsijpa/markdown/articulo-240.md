@@ -21,8 +21,8 @@ Disposiciones generales El derecho a recurrir solo corresponde a quien le sea ex
 
 En las controversias de ejecución penal, sólo se admiten los recursos de revocación y apelación.
 
-La parte recurrente debe interponer el recurso en el tiempo y la forma señalada en la Ley de Ejecución, con indicación específica de la parte impugnada de la resolución recurrida.
+La parte recurrente debe interponer el recurso en el tiempo y la forma señalada en la [Ley](articulo-3.md) de Ejecución, con indicación específica de la parte impugnada de la resolución recurrida.
 
-El Órgano Jurisdiccional ante el cual se haga valer el recurso solamente podrá pronunciarse sobre los agravios expresados por el o los recurrentes, sin que pueda extender el examen de la decisión recurrida a cuestiones no planteadas en ella, o más allá de los límites del recurso, a menos que advierta una violación flagrante a derechos fundamentales que deba reparar de oficio.
+El [Órgano Jurisdiccional](articulo-3.md) ante el cual se haga valer el recurso solamente podrá pronunciarse sobre los agravios expresados por el o los recurrentes, sin que pueda extender el examen de la decisión recurrida a cuestiones no planteadas en ella, o más allá de los límites del recurso, a menos que advierta una violación flagrante a derechos fundamentales que deba reparar de oficio.
 
 Si en la controversia concurren varios sujetos legitimados, pero solamente uno, o algunos promovieron recurso, la decisión favorable en el recurso que se dicte aprovechará a los demás, a menos que las razones para conceder la decisión favorable sean estrictamente personales.

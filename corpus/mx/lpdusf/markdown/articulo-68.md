@@ -17,7 +17,7 @@ source_sha256: cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7
 
 # Artículo 68
 
-La Comisión Nacional, deberá agotar el procedimiento de conciliación, conforme a las siguientes reglas: Párrafo reformado DOF 05-01-2000, 12-05-2005
+La [Comisión Nacional](articulo-2o.md), deberá agotar el procedimiento de conciliación, conforme a las siguientes reglas: Párrafo reformado DOF 05-01-2000, 12-05-2005
 
 I. El procedimiento de conciliación sólo se llevará a cabo en reclamaciones por cuantías totales inferiores a tres millones de unidades de inversión, salvo tratándose de reclamaciones en contra de instituciones de seguros en cuyo caso la cuantía deberá de ser inferior a seis millones de unidades de inversión. Fracción reformada DOF 05-01-2000, 12-05-2005, 15-06-2007, 25-06-2009
 
@@ -25,7 +25,7 @@ I Bis. La Comisión Nacional citará a las partes a una audiencia de conciliaci�
 
 La conciliación podrá celebrarse vía telefónica o por otro medio idóneo, en cuyo caso la Comisión Nacional o las partes podrán solicitar que se confirmen por escrito los compromisos adquiridos. Fracción adicionada DOF 25-06-2009
 
-II. La Institución Financiera deberá, por conducto de un representante, rendir un informe por escrito que se presentará con anterioridad o hasta el momento de la celebración de la audiencia de conciliación a que se refiere la fracción anterior; Fracción reformada DOF 05-01-2000
+II. La [Institución Financiera](articulo-2o.md) deberá, por conducto de un representante, rendir un informe por escrito que se presentará con anterioridad o hasta el momento de la celebración de la audiencia de conciliación a que se refiere la fracción anterior; Fracción reformada DOF 05-01-2000
 
 III. En el informe señalado en la fracción anterior, la Institución Financiera, deberá responder de manera razonada a todos y cada uno de los hechos a que se refiere la reclamación, en caso contrario, dicho informe se tendrá por no presentado para todos los efectos legales a que haya lugar;
 
@@ -35,7 +35,7 @@ IV. La Comisión Nacional podrá suspender justificadamente y por una sola ocasi
 
 La falta de presentación del informe no podrá ser causa para suspender la audiencia referida. Fracción reformada DOF 05-01-2000, 25-06-2009, 10-01-2014
 
-V. La falta de presentación del informe dará lugar a que la Comisión Nacional valore la procedencia de las pretensiones del Usuario con base en los elementos con que cuente o se allegue conforme a la fracción VI, y para los efectos de la emisión del dictamen, en su caso, a que se refiere el artículo [68 Bis](articulo-68-Bis.md). Fracción reformada DOF 15-06-2007, 25-06-2009
+V. La falta de presentación del informe dará lugar a que la Comisión Nacional valore la procedencia de las pretensiones del [Usuario](articulo-2o.md) con base en los elementos con que cuente o se allegue conforme a la fracción VI, y para los efectos de la emisión del dictamen, en su caso, a que se refiere el artículo [68 Bis](articulo-68-Bis.md). Fracción reformada DOF 15-06-2007, 25-06-2009
 
 VI. La Comisión Nacional cuando así lo considere o a petición del Usuario, en la audiencia de conciliación correspondiente o dentro de los diez días hábiles anteriores a la celebración de la misma, podrá requerir información adicional a la Institución Financiera, y en su caso, diferirá la audiencia requiriendo a la Institución Financiera para que en la nueva fecha presente el informe adicional;
 

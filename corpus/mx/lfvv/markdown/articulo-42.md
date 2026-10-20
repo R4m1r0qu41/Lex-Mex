@@ -17,7 +17,7 @@ source_sha256: 9ed842aa48bd26aee06dc45bbdbd65efcb32343c78040a5a5d091275bec38343
 
 # Artículo 42
 
-En los procedimientos administrativos para la imposición de sanciones por las infracciones que establece esta ley, la Secretaría podrá adoptar, además, las siguientes medidas provisionales:
+En los procedimientos administrativos para la imposición de sanciones por las infracciones que establece esta ley, la [Secretaría](articulo-2o.md) podrá adoptar, además, las siguientes medidas provisionales:
 
 I.- Ordenar el retiro de la circulación o impedir ésta, respecto de variedades vegetales o material de propagación, con los que se infrinjan los derechos tutelados por esta ley;
 

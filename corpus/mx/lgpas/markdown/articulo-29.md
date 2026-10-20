@@ -17,7 +17,7 @@ source_sha256: 160e5e85efddb1749a79f6b154af31711a9b31a5e32bace3c07e2859c2620ecf
 
 # Artículo 29
 
-El IMIPAS será el órgano administrativo con personalidad jurídica y patrimonio propio, encargado de dirigir, coordinar y orientar la investigación científica y tecnológica en materia de : pesca y acuacultura, así como el desarrollo, innovación y transferencia tecnológica que requiera el sector pesquero y acuícola. Párrafo reformado DOF 07-06-2012, 04-12-2023
+El [IMIPAS](articulo-4o.md) será el órgano administrativo con personalidad jurídica y patrimonio propio, encargado de dirigir, coordinar y orientar la investigación científica y tecnológica en materia de : pesca y acuacultura, así como el desarrollo, innovación y transferencia tecnológica que requiera el sector pesquero y acuícola. Párrafo reformado DOF 07-06-2012, 04-12-2023
 
 Para el cumplimiento de su objetivo el IMIPAS contará, entre otras, con las siguientes atribuciones: Párrafo reformado DOF 04-12-2023
 
@@ -25,7 +25,7 @@ I. Realizar investigaciones científicas y tecnológicas de la flora y fauna acu
 
 II. Emitir opinión de carácter técnico y científico para la administración y conservación de los recursos pesqueros y acuícolas;
 
-III. Coordinar la formulación e integración del Programa Nacional de Investigación Científica Tecnológica en Pesca y Acuacultura, con base en las propuestas de las instituciones educativas y académicas, de investigación, universidades, y organizaciones de productores;
+III. Coordinar la formulación e integración del Programa Nacional de Investigación Científica Tecnológica en [Pesca](articulo-4o.md) y [Acuacultura](articulo-4o.md), con base en las propuestas de las instituciones educativas y académicas, de investigación, universidades, y organizaciones de productores;
 
 IV. Coordinar la integración y funcionamiento de la Red Nacional de Información e Investigación en Pesca y Acuacultura, para la articulación de acciones, la optimización de recursos humanos, financieros y de infraestructura;
 

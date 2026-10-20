@@ -15,4 +15,4 @@ source_sha256: 45deb87bfd634dfbd1cb7d9fd67a476ad954187908eb0cb06256c90ccc0feb80
 
 # Tercero
 
-La Secretaría, en un plazo no mayor de un año, contado a partir de la publicación de este Decreto, emitirá los lineamientos para el funcionamiento de la Comisión.
+La [Secretaría](articulo-3.md), en un plazo no mayor de un año, contado a partir de la publicación de este Decreto, emitirá los lineamientos para el funcionamiento de la [Comisión](articulo-3.md).

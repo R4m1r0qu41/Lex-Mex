@@ -17,4 +17,4 @@ source_sha256: 70464807d63da08244e495f2ff0ac30b12b30119926b84cedc7930397fcb80ef
 
 # Artículo 240
 
-Los avisos sanitarios de importación y los certificados sanitarios del país de origen se presentarán una sola vez al año para cada uno de los productos sujetos a aviso sanitario de importación, y tendrán validez para todos los embarques que se realicen dentro del período de que se trate. En caso de que la Secretaría identifique anomalías en la condición sanitaria o en la identidad, según sea el caso, podrá requerir nuevamente la presentación del aviso o del certificado correspondiente.
+Los avisos sanitarios de importación y los certificados sanitarios del país de origen se presentarán una sola vez al año para cada uno de los productos sujetos a aviso sanitario de importación, y tendrán validez para todos los embarques que se realicen dentro del período de que se trate. En caso de que la [Secretaría](articulo-2o.md) identifique anomalías en la condición sanitaria o en la identidad, según sea el caso, podrá requerir nuevamente la presentación del aviso o del certificado correspondiente.

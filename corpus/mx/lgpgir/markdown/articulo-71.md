@@ -17,7 +17,7 @@ source_sha256: b34326588bd6e7519e33411d3658239e3aefb56cef0fae5d775bc894af64a565
 
 # Artículo 71
 
-No podrá transferirse la propiedad de sitios contaminados con residuos peligrosos, salvo autorización expresa de la Secretaría.
+No podrá transferirse la propiedad de sitios contaminados con residuos peligrosos, salvo autorización expresa de la [Secretaría](articulo-5.md).
 
 Las personas que transfieran a terceros los inmuebles que hubieran sido contaminados por materiales o residuos peligrosos, en virtud de las actividades que en ellos se realizaron, deberán informar de ello a quienes les transmitan la propiedad o posesión de dichos bienes.
 

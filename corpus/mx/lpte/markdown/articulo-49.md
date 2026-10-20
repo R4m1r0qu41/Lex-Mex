@@ -17,4 +17,4 @@ source_sha256: c24aa3a57883383635d5271683dd76e561f21852328f0e89f6bf1c2a09aa2d41
 
 # Artículo 49
 
-El Fondo de Servicio Universal Energético, debe ser administrado y coordinado por la Secretaría y tiene como meta financiar acciones de cobertura eléctrica para las poblaciones que aún no tienen acceso a la electricidad, la Justicia Energética y la reducción de la Pobreza Energética.
+El Fondo de Servicio Universal Energético, debe ser administrado y coordinado por la [Secretaría](articulo-3.md) y tiene como meta financiar acciones de cobertura eléctrica para las poblaciones que aún no tienen acceso a la electricidad, la [Justicia Energética](articulo-3.md) y la reducción de la [Pobreza Energética](articulo-3.md).

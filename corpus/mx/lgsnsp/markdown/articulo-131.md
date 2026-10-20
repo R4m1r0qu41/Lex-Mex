@@ -17,4 +17,4 @@ source_sha256: 7f01ee1b1deb901a23976507adccbddefbea50b0fc9a4ddceaf1225d711d50d0
 
 # Artículo 131
 
-El incumplimiento de las obligaciones de las personas integrantes de las Instituciones de Seguridad Pública, señaladas en el presente título dará lugar a la imposición de: I. Correctivos disciplinarios, o II. Sanciones.
+El incumplimiento de las obligaciones de las personas integrantes de las [Instituciones de Seguridad Pública](articulo-4.md), señaladas en el presente título dará lugar a la imposición de: I. Correctivos disciplinarios, o II. Sanciones.

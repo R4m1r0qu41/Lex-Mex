@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 161
 
-Las Sociedades Financieras Populares en la administración del riesgo de mercado, deberán como mínimo:
+Las [Sociedades](articulo-1.md) Financieras Populares en la administración del riesgo de mercado, deberán como mínimo:
 
 I. Evaluar y dar seguimiento a las inversiones en instrumentos financieros, utilizando para tal efecto los modelos de valor en riesgo que tengan la capacidad de medir la pérdida potencial en dichas posiciones, asociada a movimientos de precios o tasas de interés, con un nivel de probabilidad dado y sobre un periodo específico.
 

@@ -13,12 +13,10 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CFPC.pdf
 source_sha256: db545f3918f1c1907dac23d6431d5076c8de91af1fbf97dcf5b5b2a68b165299
 ---
 
-> Título UNICO · Capítulo VI
+> Título Único · Capítulo VIII
 
 # Artículo 615
 
 Si alguna persona inició un procedimiento individual al cual recayó una sentencia que causó ejecutoria no podrá ser incluida dentro de una colectividad para efectos de un proceso colectivo, si el objeto, las causas y las pretensiones son las mismas.
 
 Artículo adicionado DOF 30-08-2011
-
-Capítulo IX Gastos y Costas Capítulo adicionado DOF 30-08-2011

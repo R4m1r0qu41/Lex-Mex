@@ -17,4 +17,4 @@ source_sha256: 70464807d63da08244e495f2ff0ac30b12b30119926b84cedc7930397fcb80ef
 
 # Artículo 64
 
-La Secretaría se coordinará con las dependencias competentes para intercambiar información de los casos comprobados o sospechosos de que tengan conocimiento respecto de las enfermedades a que se refieren los artículos anteriores, así como de otros que puedan ser de riesgo para la salud humana o de la población ganadera.
+La [Secretaría](articulo-2o.md) se coordinará con las dependencias competentes para intercambiar información de los casos comprobados o sospechosos de que tengan conocimiento respecto de las enfermedades a que se refieren los artículos anteriores, así como de otros que puedan ser de riesgo para la salud humana o de la población ganadera.

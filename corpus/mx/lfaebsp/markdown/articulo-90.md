@@ -17,7 +17,7 @@ source_sha256: 269e72195414406bcbd3e90ac40ec26e031a9ea519316c44ee30bdfdf3163059
 
 # Artículo 90
 
-Para efectos de lo dispuesto en el penúltimo párrafo del [artículo anterior](articulo-89.md), y tratándose de los Bienes propiedad o al cuidado del Gobierno Federal, los recursos correspondientes serán depositados, hasta por la cantidad que determine la Junta de Gobierno, en un fondo destinado a financiar, junto con los recursos fiscales del ejercicio de que se trate y los patrimoniales del Instituto, las operaciones de este organismo, y el remanente será concentrado en la Cuenta General Moneda Nacional de la Tesorería de la Federación, en los términos acordados con esta última. Párrafo reformado DOF 09-08-2019
+Para efectos de lo dispuesto en el penúltimo párrafo del [artículo anterior](articulo-89.md), y tratándose de los [Bienes](articulo-2o.md) propiedad o al cuidado del Gobierno Federal, los recursos correspondientes serán depositados, hasta por la cantidad que determine la [Junta de Gobierno](articulo-2o.md), en un fondo destinado a financiar, junto con los recursos fiscales del ejercicio de que se trate y los patrimoniales del [Instituto](articulo-2o.md), las operaciones de este organismo, y el remanente será concentrado en la Cuenta General Moneda Nacional de la Tesorería de la Federación, en los términos acordados con esta última. Párrafo reformado DOF 09-08-2019
 
 Semestralmente será revisado el saldo del fondo a que se refiere el párrafo anterior, a efecto de que, en caso de ser necesario, se depositen los recursos necesarios para alcanzar la cantidad fijada por la Junta de Gobierno.
 

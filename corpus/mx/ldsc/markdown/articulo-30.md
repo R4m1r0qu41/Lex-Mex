@@ -17,7 +17,7 @@ source_sha256: 45deb87bfd634dfbd1cb7d9fd67a476ad954187908eb0cb06256c90ccc0feb80
 
 # Artículo 30
 
-La Secretaría podrá impulsar la investigación, capacitación y asistencia técnica de las personas productoras y de las y los actores de la cadena productiva de la cafeticultura mexicana, con el fin de mejorar los rendimientos y la calidad que están relacionados con:
+La [Secretaría](articulo-3.md) podrá impulsar la investigación, capacitación y asistencia técnica de las personas productoras y de las y los actores de la cadena productiva de la cafeticultura mexicana, con el fin de mejorar los rendimientos y la calidad que están relacionados con:
 
 I. La renovación de las plantaciones;
 

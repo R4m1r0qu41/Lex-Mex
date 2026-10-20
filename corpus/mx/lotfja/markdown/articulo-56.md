@@ -17,7 +17,7 @@ source_sha256: b32c33fa4ed071dc8bea1ad69ce8510cdb05016967e9e4fcb60f10c6f2216628
 
 # Artículo 56
 
-Corresponde al Secretario General de Acuerdos del Tribunal: I. Acordar con el Presidente del Tribunal la programación de las sesiones del Pleno General;
+Corresponde al Secretario General de Acuerdos del [Tribunal](articulo-2.md): I. Acordar con el [Presidente del Tribunal](articulo-2.md) la programación de las sesiones del Pleno General;
 
 II. Dar cuenta en las sesiones del Pleno General de los asuntos que se sometan a su consideración, tomar la votación de sus integrantes, formular el acta relativa y comunicar las decisiones que se acuerden;
 

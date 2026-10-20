@@ -17,10 +17,10 @@ source_sha256: 269e72195414406bcbd3e90ac40ec26e031a9ea519316c44ee30bdfdf3163059
 
 # Artículo 19
 
-El Instituto nombrará un administrador para las empresas objeto de esta Ley.
+El [Instituto](articulo-2o.md) nombrará un administrador para las empresas objeto de esta Ley.
 
-El administrador de las empresas a que se refiere el párrafo anterior, tendrá las facultades necesarias, en términos de las disposiciones aplicables, para mantenerlos en operación y buena marcha, pero no podrá enajenar ni gravar los Bienes que constituyan parte del activo fijo de la Empresa.
+El administrador de las empresas a que se refiere el párrafo anterior, tendrá las facultades necesarias, en términos de las disposiciones aplicables, para mantenerlos en operación y buena marcha, pero no podrá enajenar ni gravar los [Bienes](articulo-2o.md) que constituyan parte del activo fijo de la [Empresa](articulo-2o.md).
 
-La Junta de Gobierno podrá autorizar al administrador que proceda a la suspensión o cierre definitivo de las empresas, cuando las actividades de éstos resulten incosteables y, por consecuencia, se procederá a la disolución, liquidación, concurso mercantil, quiebra, fusión, escisión o venta, según sea el caso.
+La [Junta de Gobierno](articulo-2o.md) podrá autorizar al administrador que proceda a la suspensión o cierre definitivo de las empresas, cuando las actividades de éstos resulten incosteables y, por consecuencia, se procederá a la disolución, liquidación, concurso mercantil, quiebra, fusión, escisión o venta, según sea el caso.
 
 Artículo reformado DOF 09-08-2019

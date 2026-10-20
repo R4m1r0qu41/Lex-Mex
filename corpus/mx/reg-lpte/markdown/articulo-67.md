@@ -17,4 +17,4 @@ source_sha256: 716e427a30e9982ccaa0576288aad2ad5305c624b236a0f342b6a87d60b7a9ed
 
 # Artículo 67
 
-Los Registros e Información Geoespacial que sean proporcionados para fines estadísticos, a través de los subsistemas de información, deben sujetarse a las disposiciones legales en materia de transparencia, información pública y de protección de datos personales, así como a las disposiciones que emita la Secretaría.
+Los [Registros e Información Geoespacial](articulo-5.md) que sean proporcionados para fines estadísticos, a través de los subsistemas de información, deben sujetarse a las disposiciones legales en materia de transparencia, información pública y de protección de datos personales, así como a las disposiciones que emita la [Secretaría](articulo-5.md).

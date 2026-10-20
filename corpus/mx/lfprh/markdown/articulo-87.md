@@ -17,9 +17,9 @@ source_sha256: ce45c7c0c4e9099691e6e24bd2456d0b6f71f91ab27eedd5c4f2190b66d47741
 
 # Artículo 87
 
-Las transferencias del Fondo Mexicano del Petróleo que se realicen al Fondo de Estabilización de los Ingresos Presupuestarios y al Fondo de Estabilización de los Ingresos de las [Entidades](articulo-2.md) Federativas, se sujetarán a lo siguiente:
+Las transferencias del [Fondo Mexicano del Petróleo](articulo-2.md) que se realicen al Fondo de Estabilización de los Ingresos Presupuestarios y al Fondo de Estabilización de los Ingresos de las [Entidades](articulo-2.md) Federativas, se sujetarán a lo siguiente:
 
-I. Los recursos que deberán destinarse al Fondo de Estabilización de los Ingresos Presupuestarios serán hasta por el monto que resulte de multiplicar los ingresos petroleros aprobados en la Ley de Ingresos por un factor de 0.022, y
+I. Los recursos que deberán destinarse al Fondo de Estabilización de los Ingresos Presupuestarios serán hasta por el monto que resulte de multiplicar los ingresos petroleros aprobados en la [Ley de Ingresos](articulo-2.md) por un factor de 0.022, y
 
 II. Los recursos que deberán destinarse al Fondo de Estabilización de los Ingresos de las Entidades Federativas serán hasta por el monto que resulte de multiplicar los ingresos petroleros aprobados en la Ley de Ingresos por un factor de 0.0064.
 

@@ -17,7 +17,7 @@ source_sha256: 269e72195414406bcbd3e90ac40ec26e031a9ea519316c44ee30bdfdf3163059
 
 # Artículo 44
 
-La licitación pública se realizará a través de convocatoria en la que se establecerá, en su caso, el precio o precios y la forma de pago de las bases, mismo que será fijado en atención a la recuperación de las erogaciones por publicación de la convocatoria y por los documentos que al efecto se entreguen, así como de las circunstancias del procedimiento y bien o Bienes a licitar. Los interesados podrán revisar las bases, en su caso, previo pago de las mismas. Párrafo reformado DOF 09-08-2019
+La licitación pública se realizará a través de convocatoria en la que se establecerá, en su caso, el precio o precios y la forma de pago de las bases, mismo que será fijado en atención a la recuperación de las erogaciones por publicación de la convocatoria y por los documentos que al efecto se entreguen, así como de las circunstancias del procedimiento y bien o [Bienes](articulo-2o.md) a licitar. Los interesados podrán revisar las bases, en su caso, previo pago de las mismas. Párrafo reformado DOF 09-08-2019
 
 La publicación de un extracto de la convocatoria, así como sus modificaciones, podrán hacerse en el Diario Oficial de la Federación, en al menos un diario de circulación nacional y deberá divulgarse íntegramente a través de medios electrónicos, ópticos o de cualquier otra tecnología de la información y de la comunicación que permitan la difusión de la oferta. Párrafo reformado DOF 23-02-2005, 09-08-2019
 

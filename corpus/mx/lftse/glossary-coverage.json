@@ -1,0 +1,12 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-3",
+  "instrument_id": "urn:lex-mx:federal:statute:lftse",
+  "source_sha256": "2055ea67ac6fb6642ef90d1970e8ebf9870a0cb40c71930aa99d12dd446870fe",
+  "extracted_text_sha256": "c394e7b001eca12861c344a381740d1fc2722345a6a56918c072629afd0a0ee9",
+  "status": "none_detected",
+  "glossaries": [],
+  "imports": [],
+  "term_count": 0,
+  "usage_count": 0
+}

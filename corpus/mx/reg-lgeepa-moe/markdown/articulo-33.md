@@ -17,6 +17,6 @@ source_sha256: d25fabb2d2e90d9f76028717f83c442d05a4f64024f13461285bda8ebd389a04
 
 # Artículo 33
 
-Las dependencias y entidades de la Administración Pública Federal deberán observar en sus programas anuales, las previsiones contenidas en el programa de ordenamiento ecológico general del territorio en términos de la Ley de Planeación.
+Las dependencias y entidades de la Administración Pública Federal deberán observar en sus programas anuales, las previsiones contenidas en el programa de ordenamiento ecológico general del territorio en términos de la [Ley](articulo-3o.md) de Planeación.
 
-Los programas anuales a que se refiere el párrafo anterior deberán remitirse a la Secretaría para su integración en la bitácora ambiental del programa de ordenamiento ecológico general del territorio.
+Los programas anuales a que se refiere el párrafo anterior deberán remitirse a la [Secretaría](articulo-3o.md) para su integración en la bitácora ambiental del programa de ordenamiento ecológico general del territorio.

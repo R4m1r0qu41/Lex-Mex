@@ -17,7 +17,7 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 # Artículo 211
 
-Controversias sobre condiciones de internamiento y cuestiones relacionadas con las mismas Los sujetos legitimados por esta Ley para interponer peticiones administrativas también tendrán acción judicial ante el Juez de Ejecución con el objeto de resolver las controversias sobre los siguientes aspectos:
+Controversias sobre condiciones de internamiento y cuestiones relacionadas con las mismas Los sujetos legitimados por esta [Ley](articulo-3.md) para interponer peticiones administrativas también tendrán acción judicial ante el Juez de Ejecución con el objeto de resolver las controversias sobre los siguientes aspectos:
 
 I. Las condiciones de internamiento y cuestiones relacionadas con las mismas, en cuyo caso será requisito indispensable haber agotado la petición administrativa;
 

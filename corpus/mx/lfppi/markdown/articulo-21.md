@@ -17,6 +17,6 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 21
 
-En los plazos fijados por esta Ley en días, se computarán únicamente los hábiles. Tratándose de términos referidos a meses o años, el cómputo se hará de fecha a fecha, considerando incluso los días inhábiles.
+En los plazos fijados por esta [Ley](articulo-4.md) en días, se computarán únicamente los hábiles. Tratándose de términos referidos a meses o años, el cómputo se hará de fecha a fecha, considerando incluso los días inhábiles.
 
 Los plazos comenzarán a correr a partir del día hábil siguiente al que surta efectos la notificación respectiva.

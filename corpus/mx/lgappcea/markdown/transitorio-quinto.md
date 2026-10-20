@@ -15,4 +15,4 @@ source_sha256: 8d3d1a9b2d2dec12c65695cd5b87d60f76e2f3c64356f73ab6011d7dc40fbe37
 
 # Quinto
 
-Las distintas secretarías, instituciones y organismos, integrantes de la Comisión Intersecretarial en el ámbito de sus respectivas competencias, y conforme a su disponibilidad de recursos, deberán contar con el apoyo de la Secretaría que permitan una eficiente operación a partir de la identificación y la atención de las personas con la condición del espectro autista.
+Las distintas secretarías, instituciones y organismos, integrantes de la [Comisión](articulo-3.md) Intersecretarial en el ámbito de sus respectivas competencias, y conforme a su disponibilidad de recursos, deberán contar con el apoyo de la [Secretaría](articulo-3.md) que permitan una eficiente operación a partir de la identificación y la atención de las personas con la condición del espectro autista.

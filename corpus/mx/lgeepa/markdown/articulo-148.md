@@ -17,6 +17,6 @@ source_sha256: 0574853d06020030188e8aee1eae5dabb2b476ac630cc52be631a48d2b91adbc
 
 # Artículo 148
 
-Cuando para garantizar la seguridad de los vecinos de una industria que lleve a cabo actividades altamente riesgosas, sea necesario establecer una zona intermedia de salvaguarda, el Gobierno Federal podrá, mediante declaratoria, establecer restricciones a los usos urbanos que pudieran ocasionar riesgos para la población. La Secretaría promoverá, ante las autoridades locales competentes, que los planes o programas de desarrollo urbano establezcan que en dichas zonas no se permitirán los usos habitacionales, comerciales u otros que pongan en riesgo a la población.
+Cuando para garantizar la seguridad de los vecinos de una industria que lleve a cabo actividades altamente riesgosas, sea necesario establecer una zona intermedia de salvaguarda, el Gobierno Federal podrá, mediante declaratoria, establecer restricciones a los usos urbanos que pudieran ocasionar riesgos para la población. La [Secretaría](articulo-3o.md) promoverá, ante las autoridades locales competentes, que los planes o programas de desarrollo urbano establezcan que en dichas zonas no se permitirán los usos habitacionales, comerciales u otros que pongan en riesgo a la población.
 
 Artículo reformado DOF 13-12-1996

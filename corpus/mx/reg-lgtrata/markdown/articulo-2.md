@@ -19,9 +19,9 @@ source_sha256: 1d398a90955ef45ccb7baf4d56534c676cde8325e8b109c4d32120909e783694
 
 Para los efectos del presente Reglamento, además de las definiciones señaladas en el artículo [4](../../lgtrata/markdown/articulo-4o.md)o. de la Ley, se entenderá por:
 
-I. Albergues, Casas de Medio Camino y Refugios: Establecimientos que otorgan Asistencia y Protección a las víctimas, ofendidos y testigos de los delitos previstos en la Ley, así como, resguardo y hospedaje temporal a fin de promover su integración social y productiva, con independencia de la denominación que le otorgue cada dependencia y entidad de la Administración Pública Federal o la Fiscalía, en términos de lo dispuesto por el artículo [113](../../lgtrata/markdown/articulo-113.md), fracción VIII, de la Ley; REGLAMENTO DE LA LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS II. Anuncios Clasificados: Publicidad que oferta y demanda bienes, productos y servicios que por su contenido se considere ilícita o engañosa, de acuerdo a lo establecido en el artículo [4](../../lgtrata/markdown/articulo-4o.md), fracciones XV y XVI, de la Ley;
+I. Albergues, Casas de Medio Camino y Refugios: Establecimientos que otorgan Asistencia y Protección a las víctimas, ofendidos y testigos de los delitos previstos en la Ley, así como, resguardo y hospedaje temporal a fin de promover su integración social y productiva, con independencia de la denominación que le otorgue cada dependencia y entidad de la Administración Pública Federal o la [Fiscalía](articulo-2.md), en términos de lo dispuesto por el artículo [113](../../lgtrata/markdown/articulo-113.md), fracción VIII, de la Ley; REGLAMENTO DE LA LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS II. Anuncios Clasificados: Publicidad que oferta y demanda bienes, productos y servicios que por su contenido se considere ilícita o engañosa, de acuerdo a lo establecido en el artículo [4](../../lgtrata/markdown/articulo-4o.md), fracciones XV y XVI, de la Ley;
 
-III. Atención Médica Integral: Aquella que comprende actividades preventivas, curativas, paliativas y de rehabilitación, incluyendo la atención de urgencias, con Enfoque Diferencial y Especializado;
+III. Atención Médica Integral: Aquella que comprende actividades preventivas, curativas, paliativas y de rehabilitación, incluyendo la atención de urgencias, con [Enfoque Diferencial y Especializado](articulo-2.md);
 
 IV. Enfoque Diferencial y Especializado: Reconocimiento de la existencia de grupos de población con características particulares;
 
@@ -43,7 +43,7 @@ XII. Personas en Situación de Vulnerabilidad: Las personas que tienen factores 
 
 XIII. Presidente: El Presidente de la Comisión;
 
-XIV. Programas Permanentes: Aquellos programas sectoriales y especiales de las dependencias y entidades de la Administración Pública Federal, así como de las Fiscalías y Procuradurías de las Entidades Federativas, cuyas acciones tengan relación con la prevención, investigación y sanción de los delitos en materia de trata de personas o con la protección, atención y asistencia a las víctimas de estos delitos;
+XIV. Programas Permanentes: Aquellos programas sectoriales y especiales de las dependencias y entidades de la Administración Pública Federal, así como de las [Fiscalías y Procuradurías de las Entidades Federativas](articulo-2.md), cuyas acciones tengan relación con la prevención, investigación y sanción de los delitos en materia de trata de personas o con la protección, atención y asistencia a las víctimas de estos delitos;
 
 XV. Reglamento Interno: El Reglamento Interno de la Comisión previsto en el artículo [88](../../lgtrata/markdown/articulo-88.md), fracción I, de la Ley;
 

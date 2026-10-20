@@ -17,4 +17,4 @@ source_sha256: 3a86c9bc8afe7162bbcc0c31a28250ca91cfbf2cb6a08deddae0653977ae3d3f
 
 # Artículo 30
 
-Las Autoridades, Instituciones y personas físicas que posean réplicas de la Bandera Nacional que deban ser incineradas podrán solicitar a la Secretaría asesoría, orientación y apoyo para realizar la ceremonia de incineración correspondiente.
+Las Autoridades, Instituciones y personas físicas que posean réplicas de la Bandera Nacional que deban ser incineradas podrán solicitar a la [Secretaría](articulo-2.md) asesoría, orientación y apoyo para realizar la ceremonia de incineración correspondiente.

@@ -23,21 +23,21 @@ I. De treinta a cuatro mil veces el equivalente en Unidades de Medida y Actualiz
 
 a) No se proporcione a la autoridad competente, dentro del plazo señalado, la información o documentación que requiera, en apego a las facultades y atribuciones previstas en esta Ley;
 
-b) No se exhiba el documento que compruebe el cumplimiento con las Normas Oficiales Mexicanas que sea requerido;
+b) No se exhiba el documento que compruebe el cumplimiento con las [Normas Oficiales Mexicanas](articulo-4.md) que sea requerido;
 
-c) No se permita el acceso o no se proporcione las facilidades necesarias a las personas autorizadas por las autoridades competentes para realizar actos de Verificación, o
+c) No se permita el acceso o no se proporcione las facilidades necesarias a las personas autorizadas por las autoridades competentes para realizar actos de [Verificación](articulo-4.md), o
 
 d) Cualquier otro incumplimiento a la presente Ley y su Reglamento que no tenga una sanción expresamente aplicable al mismo.
 
 II. De seiscientas a nueve mil veces el equivalente en Unidades de Medida y Actualización, cuando:
 
-a) Sin haber dado aviso a la autoridad competente, así como al Organismo de Evaluación de la Conformidad que la hubiere evaluado, modifique un bien, producto, proceso o servicio sujeto al cumplimiento de Normas Oficiales Mexicanas;
+a) Sin haber dado aviso a la autoridad competente, así como al [Organismo de Evaluación de la Conformidad](articulo-4.md) que la hubiere evaluado, modifique un bien, producto, proceso o servicio sujeto al cumplimiento de Normas Oficiales Mexicanas;
 
 b) No se efectúe el acondicionamiento, reprocesamiento, reparación, sustitución o modificación de bienes, productos, procesos y servicios sujetos al cumplimiento de Normas Oficiales Mexicanas, en los términos señalados por la autoridad competente;
 
-c) Se utilice cualquier información o documentación en la que consten los resultados de la Evaluación de la Conformidad o que compruebe el cumplimiento con esta Ley y las disposiciones que de ella derivan, para un fin distinto del que motivó su expedición;
+c) Se utilice cualquier información o documentación en la que consten los resultados de la [Evaluación de la Conformidad](articulo-4.md) o que compruebe el cumplimiento con esta Ley y las disposiciones que de ella derivan, para un fin distinto del que motivó su expedición;
 
-d) Se contravengan disposiciones contenidas en las Normas Oficiales Mexicanas y Estándares que resulten obligatorios, o III. De cuatro mil a quince mil veces el equivalente en Unidades de Medida y Actualización, cuando:
+d) Se contravengan disposiciones contenidas en las Normas Oficiales Mexicanas y [Estándares](articulo-4.md) que resulten obligatorios, o III. De cuatro mil a quince mil veces el equivalente en Unidades de Medida y Actualización, cuando:
 
 a) Se incurra en acciones u omisiones que impliquen engaño al consumidor o constituyan una práctica que pueda inducir a error, incluyendo cuando se haya auto declarado o manifestado indebidamente el cumplimiento con una Norma Oficial Mexicana o Estándar;
 

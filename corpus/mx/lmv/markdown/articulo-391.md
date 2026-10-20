@@ -13,11 +13,15 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título XV · Capítulo II
+
 # Artículo 391
 
 La [Comisión](articulo-2.md), en la imposición de sanciones de carácter administrativo, a que se refiere esta Ley, se sujetará a lo siguiente: Párrafo reformado DOF 10-01-2014
 
-I. Se otorgará audiencia al presunto infractor quien, en un plazo de diez días hábiles, contado a partir del día hábil siguiente a aquél en que surta efectos la notificación correspondiente, deberá manifestar por escrito lo que a su interés convenga y ofrecer pruebas. La Comisión, a petición de parte, podrá ampliar por una sola ocasión el plazo a que se refiere esta fracción, hasta por el mismo lapso, atendiendo a las circunstancias particulares del caso. La notificación surtirá efectos al día hábil siguiente a aquél en que se practique. Fracción reformada DOF 24-01-2024 II. En caso de que el presunto infractor no hiciere uso del derecho de audiencia a que se refiere la fracción anterior dentro del plazo concedido, o bien, habiéndolo ejercido no lograre desvanecer las imputaciones vertidas en su contra, se tendrán por acreditadas las infracciones imputadas y se procederá a la imposición de la sanción correspondiente. Fracción reformada DOF 10-01-2014
+I. Se otorgará audiencia al presunto infractor quien, en un plazo de diez días hábiles, contado a partir del día hábil siguiente a aquél en que surta efectos la notificación correspondiente, deberá manifestar por escrito lo que a su interés convenga y ofrecer pruebas. La Comisión, a petición de parte, podrá ampliar por una sola ocasión el plazo a que se refiere esta fracción, hasta por el mismo lapso, atendiendo a las circunstancias particulares del caso. La notificación surtirá efectos al día hábil siguiente a aquél en que se practique. Fracción reformada DOF 24-01-2024
+
+II. En caso de que el presunto infractor no hiciere uso del derecho de audiencia a que se refiere la fracción anterior dentro del plazo concedido, o bien, habiéndolo ejercido no lograre desvanecer las imputaciones vertidas en su contra, se tendrán por acreditadas las infracciones imputadas y se procederá a la imposición de la sanción correspondiente. Fracción reformada DOF 10-01-2014
 
 III. En la imposición de sanciones se tomará en cuenta, en su caso, lo siguiente:
 
@@ -47,7 +51,9 @@ e) Que la conducta infractora a que se refiere el proceso administrativo pueda s
 
 f) Las demás circunstancias que la Comisión estime aplicables para tales efectos. Fracción adicionada DOF 10-01-2014
 
-Concluido el plazo a que se refiere la fracción I del presente artículo, y en su caso el de su ampliación, la Comisión contará con un plazo de hasta sesenta días hábiles para el desahogo de las pruebas. Una vez desahogadas las pruebas admitidas al presunto infractor, la Comisión le notificará la apertura del periodo de cinco días hábiles para formular alegatos. La notificación se podrá realizar por estrados o por cualquier otro medio que determine la Comisión. Párrafo adicionado DOF 24-01-2024 Al día hábil siguiente al vencimiento del plazo para formular alegatos, se tendrá por cerrada la instrucción y la Autoridad respectiva contará con un plazo no mayor a ciento ochenta días hábiles para emitir y notificar la resolución que ponga fin al procedimiento sancionador e imponer, en su caso, las sanciones que conforme a derecho procedan. Párrafo adicionado DOF 24-01-2024
+Concluido el plazo a que se refiere la fracción I del presente artículo, y en su caso el de su ampliación, la Comisión contará con un plazo de hasta sesenta días hábiles para el desahogo de las pruebas. Una vez desahogadas las pruebas admitidas al presunto infractor, la Comisión le notificará la apertura del periodo de cinco días hábiles para formular alegatos. La notificación se podrá realizar por estrados o por cualquier otro medio que determine la Comisión. Párrafo adicionado DOF 24-01-2024
+
+Al día hábil siguiente al vencimiento del plazo para formular alegatos, se tendrá por cerrada la instrucción y la Autoridad respectiva contará con un plazo no mayor a ciento ochenta días hábiles para emitir y notificar la resolución que ponga fin al procedimiento sancionador e imponer, en su caso, las sanciones que conforme a derecho procedan. Párrafo adicionado DOF 24-01-2024
 
 Las sanciones serán impuestas por la Junta de Gobierno de la Comisión, la que podrá delegar esa facultad en razón de la naturaleza de la infracción o del monto de la multa, al presidente o a los demás servidores públicos de la propia Comisión.
 

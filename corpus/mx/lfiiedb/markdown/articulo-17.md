@@ -17,4 +17,4 @@ source_sha256: 7679afbbf32749e0c0bacab72644d41fc6ccdeeab3a2f25dfae8d26a065de01e
 
 # Artículo 17
 
-La vigilancia de la gestión, conducción y ejecución de los Vehículos de Propósito Específico en materias financiera, administrativa y jurídica estará a cargo de un auditor externo, designado en términos del Reglamento de esta Ley, el cual revisará los estados financieros, así como la gestión administrativa y el cumplimiento del marco regulatorio de manera anual.
+La vigilancia de la gestión, conducción y ejecución de los [Vehículos de Propósito Específico](articulo-4.md) en materias financiera, administrativa y jurídica estará a cargo de un auditor externo, designado en términos del [Reglamento](articulo-4.md) de esta [Ley](articulo-4.md), el cual revisará los estados financieros, así como la gestión administrativa y el cumplimiento del marco regulatorio de manera anual.

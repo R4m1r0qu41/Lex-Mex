@@ -17,4 +17,4 @@ source_sha256: b3c906475b455176de73da17f4f93a73f295965dc9bcca854b48417c7d4d3cfc
 
 # Artículo 24
 
-Las Secretarías podrán establecer comités técnicos científicos que les proporcionen apoyo en la resolución de expedientes de solicitudes de permisos y autorizaciones, así como en materia de avisos. Las disposiciones reglamentarias de esta Ley determinarán las bases de organización y funcionamiento de dichos comités.
+Las [Secretarías](articulo-3.md) podrán establecer comités técnicos científicos que les proporcionen apoyo en la resolución de expedientes de solicitudes de permisos y autorizaciones, así como en materia de avisos. Las disposiciones reglamentarias de esta Ley determinarán las bases de organización y funcionamiento de dichos comités.

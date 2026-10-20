@@ -17,4 +17,4 @@ source_sha256: 0ad7a7b6d7dffd7d9a582d74ebd6fc43e6baa79f71801a73dc70d1b77c414ded
 
 # Artículo 4o
 
-La Secretaría propiciará el fortalecimiento de la estructura y funcionamiento de las organizaciones ganaderas para el desarrollo de sus actividades. Para estos efectos se coordinará a nivel nacional con la Confederación, a nivel regional o estatal con las uniones y a nivel municipal con las asociaciones.
+La Secretaría propiciará el fortalecimiento de la estructura y funcionamiento de las organizaciones ganaderas para el desarrollo de sus actividades. Para estos efectos se coordinará a nivel nacional con la [Confederación](articulo-2o.md), a nivel regional o estatal con las uniones y a nivel municipal con las asociaciones.

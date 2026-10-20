@@ -26,4 +26,4 @@ II. Tratándose de personas morales, la representación legal se acreditará con
 
 III. Tratándose de poderes otorgados en el extranjero o cualesquiera otros distintos a los señalados en las fracciones I y II anteriores, se estará a lo dispuesto en la legislación aplicable para que estos sean reconocidos como válidos.
 
-Los Interesados deberán acreditar su identidad de acuerdo con lo que prevé la fracción II del artículo [309](articulo-309.md) de las presentes disposiciones.
+Los [Interesados](articulo-1.md) deberán acreditar su identidad de acuerdo con lo que prevé la fracción II del artículo [309](articulo-309.md) de las presentes disposiciones.

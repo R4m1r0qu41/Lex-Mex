@@ -17,4 +17,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Artículo 304
 
-En la Normatividad que para tal efecto emitan la Secretaría o la Comisión, en el ámbito de sus atribuciones, se debe establecer entre otros, el procedimiento para la determinación, ejecución y evaluación en la implementación del mecanismo al que se refiere el [artículo anterior](articulo-303.md).
+En la [Normatividad](articulo-3.md) que para tal efecto emitan la [Secretaría](articulo-3.md) o la [Comisión](articulo-3.md), en el ámbito de sus atribuciones, se debe establecer entre otros, el procedimiento para la determinación, ejecución y evaluación en la implementación del mecanismo al que se refiere el [artículo anterior](articulo-303.md).

@@ -17,7 +17,7 @@ source_sha256: 9816ce7f9d6b9b1781eb9935869bd45677c60d721d3352865b6524c2e75db8cd
 
 # Artículo 17
 
-La Delegación para la mejor administración de los bienes podrá:
+La [Delegación](articulo-2.md) para la mejor administración de los bienes podrá:
 
 I. Nombrar y remover depositarios, para la debida guarda y custodia de los bienes;
 
@@ -25,4 +25,4 @@ II. Proporcionar el mantenimiento necesario para la adecuada conservación de lo
 
 III. Encomendar a terceros especializados la administración y enajenación de bienes, y
 
-IV. Realizar oportunamente los actos necesarios para su enajenación a fin de evitar su deterioro, depreciación u obsolescencia. REGLAMENTO DE LA LEY DEL SEGURO SOCIAL, EN MATERIA DE ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES ADJUDICADOS CON MOTIVO DE LA APLICACIÓN DEL PROCEDIMIENTO ADMINISTRATIVO DE EJECUCIÓN La contratación de servicios de terceros especializados a que se refiere la fracción III, de este artículo, así como de los valuadores en el caso que se menciona en el último párrafo del artículo [11](articulo-11.md), del presente Reglamento, deberá sujetarse a lo dispuesto en la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y su Reglamento.
+IV. Realizar oportunamente los actos necesarios para su enajenación a fin de evitar su deterioro, depreciación u obsolescencia. La contratación de servicios de terceros especializados a que se refiere la fracción III, de este artículo, así como de los valuadores en el caso que se menciona en el último párrafo del artículo [11](articulo-11.md), del presente [Reglamento](articulo-2.md), deberá sujetarse a lo dispuesto en la [Ley](../../lss/markdown/articulo-5-A.md) de Adquisiciones, Arrendamientos y Servicios del Sector Público y su Reglamento.

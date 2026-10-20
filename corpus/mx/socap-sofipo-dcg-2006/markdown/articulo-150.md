@@ -18,4 +18,4 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 150
 
-Las Sociedades Financieras Populares deberán mantener un capital neto en relación con los riesgos en que incurran en su operación, que no podrá ser inferior a la cantidad que resulte de sumar los requerimientos de capitalización asociados a cada tipo de riesgo establecidos en esta Sección. Para tales efectos, las operaciones deberán ser valuadas conforme al Título Cuarto, Capítulo V y a los Criterios Contables contenidos en el Anexo E de las presentes disposiciones.
+Las [Sociedades](articulo-1.md) Financieras Populares deberán mantener un capital neto en relación con los riesgos en que incurran en su operación, que no podrá ser inferior a la cantidad que resulte de sumar los requerimientos de capitalización asociados a cada tipo de riesgo establecidos en esta Sección. Para tales efectos, las operaciones deberán ser valuadas conforme al Título Cuarto, Capítulo V y a los [Criterios Contables](articulo-1.md) contenidos en el Anexo E de las presentes disposiciones.

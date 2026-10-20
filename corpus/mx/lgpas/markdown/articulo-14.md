@@ -21,7 +21,7 @@ Corresponden a los Municipios en el ámbito de su competencia y, en su caso, a l
 
 I. Diseñar y aplicar la política y los programas locales para la pesca y la acuacultura, vinculándolos con los programas nacionales, de las entidades federativas y regionales; Fracción reformada DOF 19-01-2018
 
-II. Participar en la integración del Sistema de Información Pesquera y Acuícola y del Registro de Pesca y Acuacultura, ambos de la entidad federativa; Fracción reformada DOF 19-01-2018
+II. Participar en la integración del Sistema de Información Pesquera y Acuícola y del [Registro](articulo-4o.md) de [Pesca](articulo-4o.md) y [Acuacultura](articulo-4o.md), ambos de la entidad federativa; Fracción reformada DOF 19-01-2018
 
 III. Promover mecanismos de participación pública en el manejo y conservación de los recursos pesqueros y acuícolas;
 

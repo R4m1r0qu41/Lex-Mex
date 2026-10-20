@@ -18,4 +18,4 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 329 Bis 1
 
-Las Sociedades Financieras Populares proporcionarán a la Comisión y al Comité de Supervisión de la Federación que las supervise la información a que se refiere la Serie R17, dentro de los 15 días hábiles posteriores a que ocurra el nombramiento, renuncia, remoción o destitución de Consejeros, Miembros del Consejo de Vigilancia o Comisario, Comité de Crédito, comité de auditoría, Director o Gerente General, según sea el caso.
+Las [Sociedades](articulo-1.md) Financieras Populares proporcionarán a la Comisión y al Comité de Supervisión de la [Federación](articulo-1.md) que las supervise la información a que se refiere la Serie R17, dentro de los 15 días hábiles posteriores a que ocurra el nombramiento, renuncia, remoción o destitución de [Consejeros](articulo-1.md), [Miembros del Consejo de Vigilancia o Comisario](articulo-1.md), [Comité de Crédito](articulo-1.md), comité de auditoría, [Director o Gerente General](articulo-1.md), según sea el caso.

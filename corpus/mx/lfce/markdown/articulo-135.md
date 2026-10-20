@@ -17,7 +17,7 @@ source_sha256: d0021bbef2e0c3251d6efdea2c1efd9959ff3f02df4bcd1fc37c1ee7826a72ba
 
 # Artículo 135
 
-En cualquier momento, la Autoridad Investigadora podrá solicitar al Pleno la emisión de las medidas cautelares relacionadas con la materia del procedimiento que considere necesarias para evitar un daño de difícil reparación o asegurar la eficacia del resultado del procedimiento y de su resolución. Dicha facultad incluye, pero no se limita a: Párrafo reformado DOF 16-07-2025
+En cualquier momento, la [Autoridad Investigadora](articulo-3.md) podrá solicitar al [Pleno](articulo-3.md) la emisión de las medidas cautelares relacionadas con la materia del procedimiento que considere necesarias para evitar un daño de difícil reparación o asegurar la eficacia del resultado del procedimiento y de su resolución. Dicha facultad incluye, pero no se limita a: Párrafo reformado DOF 16-07-2025
 
 I. Órdenes de suspensión de los actos constitutivos de las probables conductas prohibidas por esta Ley;
 

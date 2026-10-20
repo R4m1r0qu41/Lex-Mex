@@ -17,7 +17,7 @@ source_sha256: 74f2c47c7a9282194b2972ec1366352d94f03042c6d0c7f10efde018cb9e3bfb
 
 # Artículo 10
 
-Los Organismos del Sector orientarán su actuación en los siguientes valores:
+Los [Organismos del Sector](articulo-5o.md) orientarán su actuación en los siguientes valores:
 
 I. Ayuda mutua;
 

@@ -21,6 +21,6 @@ Se consideran prácticas monopólicas relativas, las consistentes en cualquier a
 
 I. Encuadre en alguno de los supuestos a que se refiere el artículo [56](articulo-56.md) de esta Ley;
 
-II. Lleve a cabo uno o más Agentes Económicos que individual o conjuntamente tengan poder sustancial en el mismo mercado relevante en que se realiza la práctica, y
+II. Lleve a cabo uno o más [Agentes Económicos](articulo-3.md) que individual o conjuntamente tengan poder sustancial en el mismo mercado relevante en que se realiza la práctica, y
 
 III. Tenga o pueda tener como objeto o efecto, en el mercado relevante o en algún mercado relacionado: a) desplazar indebidamente a otros Agentes Económicos; b) impedir sustancialmente el acceso de otros Agentes Económicos; c) establecer ventajas exclusivas en favor de uno o varios Agentes Económicos, o d) limitar indebidamente la capacidad de otros Agentes Económicos para competir en los mercados. Fracción reformada DOF 16-07-2025

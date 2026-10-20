@@ -18,4 +18,4 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 238
 
-La documentación de carácter puramente informativo que no esté relacionada con aquélla a la que se refieren los artículos [236](articulo-236.md) y [237](articulo-237.md) anteriores, deberá conservarse durante un plazo mínimo de 6 meses después de que hayan cumplido su cometido. Queda a juicio de cada Sociedad Financiera Popular determinar la documentación de este tipo que deberá ser microfilmada o grabada, quedando bajo su absoluta responsabilidad resolver sobre la destrucción de dicha información.
+La documentación de carácter puramente informativo que no esté relacionada con aquélla a la que se refieren los artículos [236](articulo-236.md) y [237](articulo-237.md) anteriores, deberá conservarse durante un plazo mínimo de 6 meses después de que hayan cumplido su cometido. Queda a juicio de cada [Sociedad](articulo-1.md) Financiera Popular determinar la documentación de este tipo que deberá ser microfilmada o grabada, quedando bajo su absoluta responsabilidad resolver sobre la destrucción de dicha información.

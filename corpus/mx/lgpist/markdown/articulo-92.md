@@ -17,7 +17,7 @@ source_sha256: 1e7d06c67fac4c8a100d2bb2845cc765fba5e8ce09d27d30b2b44432ffeb8c41
 
 # Artículo 92
 
-La Comisión Ejecutiva y las Comisiones de Atención a Víctimas, en sus respectivos ámbitos de competencia, para la atención de las Víctimas a que se refiere esta Ley, tienen las siguientes atribuciones, además de las establecidas por la Ley General de Víctimas y las leyes de protección a Víctimas de los estados:
+La [Comisión Ejecutiva](articulo-5.md) y las [Comisiones de Atención a Víctimas](articulo-5.md), en sus respectivos ámbitos de competencia, para la atención de las [Víctimas](articulo-5.md) a que se refiere esta [Ley](articulo-5.md), tienen las siguientes atribuciones, además de las establecidas por la Ley General de Víctimas y las leyes de protección a Víctimas de los estados:
 
 I. Planear, programar y dar seguimiento a las medidas de ayuda, asistencia y atención otorgadas a las Víctimas de tortura y sus familias;
 
@@ -27,9 +27,9 @@ III. Acompañar a las a Víctimas de los delitos de esta Ley y a sus familias a 
 
 IV. Solicitar a las instituciones que llevan a cabo la investigación de los delitos materia de esta Ley la información y apoyo que requiera para el cumplimiento de sus atribuciones;
 
-V. Solicitar información a la Fiscalía Especializada competente para mejorar la atención brindada a las Víctimas de los delitos materia de esta Ley; Fracción reformada DOF 20-05-2021
+V. Solicitar información a la [Fiscalía Especializada](articulo-5.md) competente para mejorar la atención brindada a las Víctimas de los delitos materia de esta Ley; Fracción reformada DOF 20-05-2021
 
-VI. Incluir en el Registro Nacional de Víctimas a las Víctimas de los delitos previstos en esta Ley;
+VI. Incluir en el [Registro Nacional](articulo-5.md) de Víctimas a las Víctimas de los delitos previstos en esta Ley;
 
 VII. Celebrar acuerdos o convenios con instituciones públicas de la Federación, de las entidades federativas y de los municipios, así como con organismos e instituciones de carácter social o privado, nacionales e internacionales, para la atención a las Víctimas de los delitos materia de esta Ley, con el fin de mejorar el cumplimiento de sus atribuciones;
 

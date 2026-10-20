@@ -17,4 +17,4 @@ source_sha256: 667636f9e0ea65e72ac9d6d7b4d7563a183b75d0f140268a61929c74f5f88041
 
 # Artículo 62
 
-Si como resultado de una visita de inspección y vigilancia, se ordena la imposición de medidas de seguridad o de urgente aplicación, el inspeccionado deberá notificar a la Secretaría competente el cumplimiento de cada una, en un término de cinco días hábiles contados a partir de la fecha de vencimiento del plazo concedido para la ejecución de cada una de ellas.
+Si como resultado de una visita de inspección y vigilancia, se ordena la imposición de medidas de seguridad o de urgente aplicación, el inspeccionado deberá notificar a la [Secretaría competente](articulo-2.md) el cumplimiento de cada una, en un término de cinco días hábiles contados a partir de la fecha de vencimiento del plazo concedido para la ejecución de cada una de ellas.

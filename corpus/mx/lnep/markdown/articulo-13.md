@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LNEP.pdf
 source_sha256: 91abecabe50a5e414e0835daa9086ce3b307fffb9ebe626dab3bb9d1eae51680
 ---
 
-> Título PRIMERO
+> Título PRIMERO · Capítulo II
 
 # Artículo 13
 
@@ -28,5 +28,3 @@ III. Usar, conservar y mantener en óptimas condiciones todas las herramientas t
 V. Presentar los documentos que le sean requeridos por el Juez de Ejecución;
 
 VI. Las demás que establezcan esta Ley, u otras disposiciones aplicables.
-
-Capítulo III Autoridades en la Ejecución Penal

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título XV · Capítulo II
+
 # Artículo 394
 
 Para los efectos del artículo [393](articulo-393.md) de esta Ley, se entenderá por: I. Remoción, a la separación del infractor del empleo, cargo o comisión que tuviere en la entidad financiera o emisora, al momento de cometerse la infracción.

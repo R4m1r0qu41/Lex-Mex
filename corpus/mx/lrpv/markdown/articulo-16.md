@@ -17,4 +17,4 @@ source_sha256: 0125eed7519ad260330f9a04f78c0e4a1ce93c06e67c98ac3c535416787656ba
 
 # Artículo 16
 
-El Secretariado Ejecutivo deberá expedir las constancias de inscripción dentro de los diez días naturales siguientes a la fecha en que se realice la inscripción.
+El [Secretariado Ejecutivo](articulo-2.md) deberá expedir las constancias de inscripción dentro de los diez días naturales siguientes a la fecha en que se realice la inscripción.

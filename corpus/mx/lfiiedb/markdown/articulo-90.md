@@ -17,4 +17,4 @@ source_sha256: 7679afbbf32749e0c0bacab72644d41fc6ccdeeab3a2f25dfae8d26a065de01e
 
 # Artículo 90
 
-Las Dependencias y Entidades que pretendan el desarrollo de un Proyecto Procedente convocarán a licitación, que deberá llevarse a cabo conforme a los principios de legalidad, libre concurrencia y competencia, objetividad e imparcialidad, transparencia y publicidad. En tales licitaciones se buscará adjudicar los proyectos en las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes.
+Las [Dependencias](articulo-4.md) y [Entidades](articulo-4.md) que pretendan el desarrollo de un [Proyecto Procedente](articulo-4.md) convocarán a licitación, que deberá llevarse a cabo conforme a los principios de legalidad, libre concurrencia y competencia, objetividad e imparcialidad, transparencia y publicidad. En tales licitaciones se buscará adjudicar los proyectos en las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes.

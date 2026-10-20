@@ -17,4 +17,4 @@ source_sha256: c24aa3a57883383635d5271683dd76e561f21852328f0e89f6bf1c2a09aa2d41
 
 # Artículo 7
 
-La Secretaría de Medio Ambiente y Recursos Naturales, la CONUEE, el Centro Nacional de Control de Energía, el Centro Nacional de Control del Gas Natural, la Comisión Nacional de Energía y las Empresas Públicas del Estado, bajo la coordinación de la Secretaría, deben facilitar la implementación de la planeación vinculante en el Sector Energético.
+La [Secretaría](articulo-3.md) de Medio Ambiente y Recursos Naturales, la [CONUEE](articulo-3.md), el Centro Nacional de Control de Energía, el Centro Nacional de Control del Gas Natural, la Comisión Nacional de Energía y las Empresas Públicas del Estado, bajo la coordinación de la Secretaría, deben facilitar la implementación de la planeación vinculante en el [Sector Energético](articulo-3.md).

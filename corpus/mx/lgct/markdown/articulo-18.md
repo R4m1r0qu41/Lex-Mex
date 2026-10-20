@@ -17,9 +17,9 @@ source_sha256: 9f964bc5c075d7cf47e5e9df7c2fbe262eb5bd1794de9b230dbd72026a51ae5e
 
 # Artículo 18
 
-En los paquetes de productos del tabaco y en todo empaquetado y etiquetado externo de los mismos, de conformidad con lo establecido en esta Ley, sus reglamentos y demás disposiciones aplicables, deberán figurar leyendas y pictogramas o imágenes de advertencia que muestren los efectos nocivos del consumo de los productos del tabaco, además se sujetarán a las siguientes disposiciones:
+En los paquetes de productos del tabaco y en todo empaquetado y etiquetado externo de los mismos, de conformidad con lo establecido en esta [Ley](articulo-6.md), sus reglamentos y demás disposiciones aplicables, deberán figurar leyendas y pictogramas o imágenes de advertencia que muestren los efectos nocivos del consumo de los productos del tabaco, además se sujetarán a las siguientes disposiciones:
 
-I. Serán formuladas y aprobadas por la Secretaría;
+I. Serán formuladas y aprobadas por la [Secretaría](articulo-6.md);
 
 II. Se imprimirán en forma rotatoria directamente en los empaques; III. Serán de alto impacto preventivo, claras, visibles, legibles y no deberán ser obstruidas por ningún medio;
 

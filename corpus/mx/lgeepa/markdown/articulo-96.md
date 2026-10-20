@@ -17,6 +17,6 @@ source_sha256: 0574853d06020030188e8aee1eae5dabb2b476ac630cc52be631a48d2b91adbc
 
 # Artículo 96
 
-La Secretaría expedirá las normas oficiales mexicanas para la protección de los ecosistemas acuáticos y promoverá la concertación de acciones de preservación y restauración de los ecosistemas acuáticos con los sectores productivos y las comunidades.
+La [Secretaría](articulo-3o.md) expedirá las normas oficiales mexicanas para la protección de los ecosistemas acuáticos y promoverá la concertación de acciones de preservación y restauración de los ecosistemas acuáticos con los sectores productivos y las comunidades.
 
 Artículo reformado DOF 13-12-1996

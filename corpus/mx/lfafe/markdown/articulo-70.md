@@ -17,4 +17,4 @@ source_sha256: 96092a4581d4e87910eb58939da4045879e4fe613b12f4413d7392bcc2c6e884
 
 # Artículo 70
 
-En caso de alteración de la tranquilidad pública, las autoridades a quienes corresponde la aplicación de esta Ley, dictarán dentro de los ámbitos de su competencia, las medidas necesarias para asegurar el estricto cumplimiento de las disposiciones de suspensión o cancelación de los permisos.
+En caso de alteración de la tranquilidad pública, las autoridades a quienes corresponde la aplicación de esta [Ley](articulo-1o-Bis.md), dictarán dentro de los ámbitos de su competencia, las medidas necesarias para asegurar el estricto cumplimiento de las disposiciones de suspensión o cancelación de los permisos.

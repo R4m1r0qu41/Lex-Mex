@@ -19,4 +19,4 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 Las cuotas omitidas que resulten de la revisión del contador público autorizado serán determinadas y pagadas dentro del plazo señalado en los artículos [126](articulo-126.md) o [149](articulo-149.md) de este Reglamento, debiendo integrar al dictamen copia del comprobante de pago o de la autorización del pago en parcialidades y comprobante de la primera parcialidad efectuada.
 
-Si como resultado del dictamen se determina que el patrón enteró cuotas obrero patronales sin justificación legal, la solicitud de devolución deberá tramitarse conforme a lo establecido en el artículo [299](../../lss/markdown/articulo-299.md) de la Ley.
+Si como resultado del dictamen se determina que el patrón enteró cuotas obrero patronales sin justificación legal, la solicitud de devolución deberá tramitarse conforme a lo establecido en el artículo [299](../../lss/markdown/articulo-299.md) de la [Ley](../../lss/markdown/articulo-5-A.md).

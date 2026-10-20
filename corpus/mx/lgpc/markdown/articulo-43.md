@@ -23,7 +23,7 @@ I. Fomentar las actividades de protección civil;
 
 II. Incorporar contenidos temáticos de protección civil en todos los niveles educativos públicos y privados, considerándola como asignatura obligatoria;
 
-III. Concretar el establecimiento de programas educativos a diferentes niveles académicos, que aborden en su amplitud el tema de la protección civil y la Gestión Integral de Riesgos;
+III. Concretar el establecimiento de programas educativos a diferentes niveles académicos, que aborden en su amplitud el tema de la protección civil y la [Gestión Integral de Riesgos](articulo-2.md);
 
 IV. Impulsar programas dirigidos a la población en general que le permita conocer de forma clara mecanismos de prevención y autoprotección;
 

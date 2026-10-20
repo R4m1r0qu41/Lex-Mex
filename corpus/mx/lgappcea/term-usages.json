@@ -1,1 +1,218 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgappcea:article:12:term-usage:17-25",
+    "provision_id": "urn:lex-mx:federal:statute:lgappcea:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lgappcea:term:comision",
+    "span": "Comisión",
+    "start_char": 17,
+    "end_char": 25
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgappcea:article:12:term-usage:309-317",
+    "provision_id": "urn:lex-mx:federal:statute:lgappcea:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lgappcea:term:comision",
+    "span": "Comisión",
+    "start_char": 309,
+    "end_char": 317
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgappcea:article:13:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:lgappcea:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lgappcea:term:comision",
+    "span": "Comisión",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgappcea:article:13:term-usage:123-133",
+    "provision_id": "urn:lex-mx:federal:statute:lgappcea:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lgappcea:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 123,
+    "end_char": 133
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgappcea:article:13:term-usage:154-162",
+    "provision_id": "urn:lex-mx:federal:statute:lgappcea:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lgappcea:term:comision",
+    "span": "Comisión",
+    "start_char": 154,
+    "end_char": 162
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgappcea:article:13:term-usage:171-181",
+    "provision_id": "urn:lex-mx:federal:statute:lgappcea:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lgappcea:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 171,
+    "end_char": 181
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgappcea:article:13:term-usage:213-223",
+    "provision_id": "urn:lex-mx:federal:statute:lgappcea:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lgappcea:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 213,
+    "end_char": 223
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgappcea:article:13:term-usage:264-274",
+    "provision_id": "urn:lex-mx:federal:statute:lgappcea:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lgappcea:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 264,
+    "end_char": 274
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgappcea:article:13:term-usage:304-314",
+    "provision_id": "urn:lex-mx:federal:statute:lgappcea:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lgappcea:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 304,
+    "end_char": 314
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgappcea:article:13:term-usage:341-351",
+    "provision_id": "urn:lex-mx:federal:statute:lgappcea:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lgappcea:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 341,
+    "end_char": 351
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgappcea:article:13:term-usage:537-545",
+    "provision_id": "urn:lex-mx:federal:statute:lgappcea:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lgappcea:term:comision",
+    "span": "Comisión",
+    "start_char": 537,
+    "end_char": 545
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgappcea:article:13:term-usage:570-578",
+    "provision_id": "urn:lex-mx:federal:statute:lgappcea:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lgappcea:term:comision",
+    "span": "Comisión",
+    "start_char": 570,
+    "end_char": 578
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgappcea:article:13:term-usage:628-636",
+    "provision_id": "urn:lex-mx:federal:statute:lgappcea:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lgappcea:term:comision",
+    "span": "Comisión",
+    "start_char": 628,
+    "end_char": 636
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgappcea:article:13:term-usage:921-929",
+    "provision_id": "urn:lex-mx:federal:statute:lgappcea:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lgappcea:term:comision",
+    "span": "Comisión",
+    "start_char": 921,
+    "end_char": 929
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgappcea:article:13:term-usage:1118-1126",
+    "provision_id": "urn:lex-mx:federal:statute:lgappcea:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lgappcea:term:comision",
+    "span": "Comisión",
+    "start_char": 1118,
+    "end_char": 1126
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgappcea:article:13:term-usage:1160-1168",
+    "provision_id": "urn:lex-mx:federal:statute:lgappcea:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lgappcea:term:comision",
+    "span": "Comisión",
+    "start_char": 1160,
+    "end_char": 1168
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgappcea:article:13:term-usage:1185-1195",
+    "provision_id": "urn:lex-mx:federal:statute:lgappcea:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lgappcea:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1185,
+    "end_char": 1195
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgappcea:article:13:term-usage:1254-1264",
+    "provision_id": "urn:lex-mx:federal:statute:lgappcea:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lgappcea:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1254,
+    "end_char": 1264
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgappcea:article:14:term-usage:38-46",
+    "provision_id": "urn:lex-mx:federal:statute:lgappcea:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lgappcea:term:comision",
+    "span": "Comisión",
+    "start_char": 38,
+    "end_char": 46
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgappcea:article:15:term-usage:17-27",
+    "provision_id": "urn:lex-mx:federal:statute:lgappcea:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lgappcea:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 17,
+    "end_char": 27
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgappcea:article:16:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lgappcea:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lgappcea:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgappcea:article:16:term-usage:1880-1890",
+    "provision_id": "urn:lex-mx:federal:statute:lgappcea:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lgappcea:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1880,
+    "end_char": 1890
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgappcea:transitory:quinto:term-usage:73-81",
+    "provision_id": "urn:lex-mx:federal:statute:lgappcea:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lgappcea:term:comision",
+    "span": "Comisión",
+    "start_char": 73,
+    "end_char": 81
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgappcea:transitory:quinto:term-usage:223-233",
+    "provision_id": "urn:lex-mx:federal:statute:lgappcea:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lgappcea:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 223,
+    "end_char": 233
+  }
+]

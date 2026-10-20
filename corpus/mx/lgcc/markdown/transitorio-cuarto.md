@@ -15,4 +15,4 @@ source_sha256: fa7447754261e46a344d4b49a9be0e1a5bd0eaf28c1ef12c721c124fe39e7b15
 
 # Cuarto
 
-El Ejecutivo federal publicará las disposiciones para la operación y. administración del Registro o cualquier otra disposición necesaria para la aplicación de esta ley dentro de los doce meses siguientes a la publicación de esta ley en el Diario Oficial de la Federación.
+El Ejecutivo federal publicará las disposiciones para la operación y. administración del [Registro](articulo-3o.md) o cualquier otra disposición necesaria para la aplicación de esta ley dentro de los doce meses siguientes a la publicación de esta ley en el Diario Oficial de la Federación.

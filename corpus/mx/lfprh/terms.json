@@ -29,6 +29,17 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lfprh:article:2",
     "fraction": "III",
     "start_char": 732,
+    "end_char": 869,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:term:anexos-transversales",
+    "term": "Anexos Transversales",
+    "instrument_id": "urn:lex-mx:federal:statute:lfprh",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfprh:article:2",
+    "fraction": "III Bis",
+    "start_char": 869,
     "end_char": 1697,
     "basis": "express_definition"
   },
@@ -249,6 +260,39 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lfprh:article:2",
     "fraction": "XXIII",
     "start_char": 6096,
+    "end_char": 6207,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:term:fondo-mexicano-del-petroleo",
+    "term": "Fondo Mexicano del Petróleo",
+    "instrument_id": "urn:lex-mx:federal:statute:lfprh",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfprh:article:2",
+    "fraction": "XXIII Bis",
+    "start_char": 6207,
+    "end_char": 6699,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:term:funcion-publica",
+    "term": "Función Pública",
+    "instrument_id": "urn:lex-mx:federal:statute:lfprh",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfprh:article:2",
+    "fraction": "XXIV",
+    "start_char": 6699,
+    "end_char": 6760,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:term:gasto-corriente-estructural",
+    "term": "Gasto corriente estructural",
+    "instrument_id": "urn:lex-mx:federal:statute:lfprh",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfprh:article:2",
+    "fraction": "XXIV Bis",
+    "start_char": 6760,
     "end_char": 7533,
     "basis": "express_definition"
   },
@@ -315,6 +359,17 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lfprh:article:2",
     "fraction": "XXX",
     "start_char": 8756,
+    "end_char": 8974,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:term:ingresos-petroleros",
+    "term": "Ingresos Petroleros",
+    "instrument_id": "urn:lex-mx:federal:statute:lfprh",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfprh:article:2",
+    "fraction": "XXX Bis",
+    "start_char": 8974,
     "end_char": 9594,
     "basis": "express_definition"
   },
@@ -326,6 +381,39 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lfprh:article:2",
     "fraction": "XXXI",
     "start_char": 9594,
+    "end_char": 9844,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:term:inversion-fisica-y-financiera-directa",
+    "term": "Inversión física y financiera directa",
+    "instrument_id": "urn:lex-mx:federal:statute:lfprh",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfprh:article:2",
+    "fraction": "XXXI Bis",
+    "start_char": 9844,
+    "end_char": 10007,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:term:ley-de-ingresos",
+    "term": "Ley de Ingresos",
+    "instrument_id": "urn:lex-mx:federal:statute:lfprh",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfprh:article:2",
+    "fraction": "XXXII",
+    "start_char": 10007,
+    "end_char": 10110,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:term:limite-maximo-del-gasto-corriente-estructural",
+    "term": "Límite máximo del gasto corriente estructural",
+    "instrument_id": "urn:lex-mx:federal:statute:lfprh",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfprh:article:2",
+    "fraction": "XXXII Bis",
+    "start_char": 10110,
     "end_char": 10577,
     "basis": "express_definition"
   },
@@ -403,6 +491,17 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lfprh:article:2",
     "fraction": "XXXIX",
     "start_char": 12872,
+    "end_char": 13008,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:term:proyectos-para-el-desarrollo-con-bienestar",
+    "term": "Proyectos para el desarrollo con bienestar",
+    "instrument_id": "urn:lex-mx:federal:statute:lfprh",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfprh:article:2",
+    "fraction": "XXXIX Bis",
+    "start_char": 13008,
     "end_char": 13323,
     "basis": "express_definition"
   },
@@ -491,6 +590,17 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lfprh:article:2",
     "fraction": "XLVII",
     "start_char": 14720,
+    "end_char": 15149,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:term:reserva-del-fondo",
+    "term": "Reserva del Fondo",
+    "instrument_id": "urn:lex-mx:federal:statute:lfprh",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfprh:article:2",
+    "fraction": "XLVII Bis",
+    "start_char": 15149,
     "end_char": 15338,
     "basis": "express_definition"
   },
@@ -568,6 +678,17 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lfprh:article:2",
     "fraction": "LIV",
     "start_char": 16945,
+    "end_char": 17572,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:term:transferencias-del-fondo-mexicano-del-petroleo",
+    "term": "Transferencias del Fondo Mexicano del Petróleo",
+    "instrument_id": "urn:lex-mx:federal:statute:lfprh",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfprh:article:2",
+    "fraction": "LIV Bis",
+    "start_char": 17572,
     "end_char": 17891,
     "basis": "express_definition"
   },

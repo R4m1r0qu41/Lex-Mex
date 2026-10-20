@@ -1,1 +1,1397 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:1:term-usage:184-187",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:ley",
+    "span": "Ley",
+    "start_char": 184,
+    "end_char": 187
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:1:term-usage:273-281",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:registro",
+    "span": "Registro",
+    "start_char": 273,
+    "end_char": 281
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:1:term-usage:285-294",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:emision",
+    "span": "Emisiones",
+    "start_char": 285,
+    "end_char": 294
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:1:term-usage:297-310",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:transferencia",
+    "span": "Transferencia",
+    "start_char": 297,
+    "end_char": 310
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:2:term-usage:86-96",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 86,
+    "end_char": 96
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:2:term-usage:236-246",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 236,
+    "end_char": 246
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:2:term-usage:407-414",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:agencia",
+    "span": "Agencia",
+    "start_char": 407,
+    "end_char": 414
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:2:term-usage:531-567",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:actividades-del-sector-hidrocarburos",
+    "span": "Actividades del Sector Hidrocarburos",
+    "start_char": 531,
+    "end_char": 567
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:2:term-usage:674-684",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 674,
+    "end_char": 684
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:3:term-usage:173-176",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:ley",
+    "span": "Ley",
+    "start_char": 173,
+    "end_char": 176
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:3:term-usage:379-382",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:ley",
+    "span": "Ley",
+    "start_char": 379,
+    "end_char": 382
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:3:term-usage:389-396",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:agencia",
+    "span": "Agencia",
+    "start_char": 389,
+    "end_char": 396
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:3:term-usage:1180-1193",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:base-de-datos",
+    "span": "Base de datos",
+    "start_char": 1180,
+    "end_char": 1193
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:3:term-usage:1198-1206",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:registro",
+    "span": "Registro",
+    "start_char": 1198,
+    "end_char": 1206
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:3:term-usage:1325-1335",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1325,
+    "end_char": 1335
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:3:term-usage:1640-1646",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:cedula",
+    "span": "Cédula",
+    "start_char": 1640,
+    "end_char": 1646
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:3:term-usage:1784-1790",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:cedula",
+    "span": "Cédula",
+    "start_char": 1784,
+    "end_char": 1790
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:3:term-usage:1869-1879",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1869,
+    "end_char": 1879
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:3:term-usage:2035-2038",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:ley",
+    "span": "Ley",
+    "start_char": 2035,
+    "end_char": 2038
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:3:term-usage:2568-2577",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:emision",
+    "span": "Emisiones",
+    "start_char": 2568,
+    "end_char": 2577
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:3:term-usage:2580-2593",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:transferencia",
+    "span": "Transferencia",
+    "start_char": 2580,
+    "end_char": 2593
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:3:term-usage:2915-2925",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2915,
+    "end_char": 2925
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:3:term-usage:3616-3629",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:base-de-datos",
+    "span": "Base de datos",
+    "start_char": 3616,
+    "end_char": 3629
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:4:term-usage:21-34",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:base-de-datos",
+    "span": "Base de datos",
+    "start_char": 21,
+    "end_char": 34
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:4:term-usage:39-47",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:registro",
+    "span": "Registro",
+    "start_char": 39,
+    "end_char": 47
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:4:term-usage:230-240",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 230,
+    "end_char": 240
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:5:term-usage:35-48",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:base-de-datos",
+    "span": "Base de datos",
+    "start_char": 35,
+    "end_char": 48
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:5:term-usage:53-61",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:registro",
+    "span": "Registro",
+    "start_char": 53,
+    "end_char": 61
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:6:term-usage:3-16",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:6",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:base-de-datos",
+    "span": "Base de datos",
+    "start_char": 3,
+    "end_char": 16
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:6:term-usage:21-29",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:6",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:registro",
+    "span": "Registro",
+    "start_char": 21,
+    "end_char": 29
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:6:term-usage:126-158",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:6",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:establecimiento-sujeto-a-reporte",
+    "span": "Establecimiento sujeto a reporte",
+    "start_char": 126,
+    "end_char": 158
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:6:term-usage:212-222",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:6",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 212,
+    "end_char": 222
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:7:term-usage:133-143",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 133,
+    "end_char": 143
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:7:term-usage:279-293",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:base-de-datos",
+    "span": "Bases de datos",
+    "start_char": 279,
+    "end_char": 293
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:7:term-usage:331-339",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:registro",
+    "span": "Registro",
+    "start_char": 331,
+    "end_char": 339
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:7:term-usage:498-512",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:base-de-datos",
+    "span": "Bases de datos",
+    "start_char": 498,
+    "end_char": 512
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:8:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:8:term-usage:178-191",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:base-de-datos",
+    "span": "Base de datos",
+    "start_char": 178,
+    "end_char": 191
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:8:term-usage:196-204",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:registro",
+    "span": "Registro",
+    "start_char": 196,
+    "end_char": 204
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:9:term-usage:155-158",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:ley",
+    "span": "Ley",
+    "start_char": 155,
+    "end_char": 158
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:9:term-usage:195-231",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:actividades-del-sector-hidrocarburos",
+    "span": "Actividades del Sector Hidrocarburos",
+    "start_char": 195,
+    "end_char": 231
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:10:term-usage:19-32",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:base-de-datos",
+    "span": "Base de datos",
+    "start_char": 19,
+    "end_char": 32
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:10:term-usage:37-45",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:registro",
+    "span": "Registro",
+    "start_char": 37,
+    "end_char": 45
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:10:term-usage:383-393",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 383,
+    "end_char": 393
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:10:term-usage:548-554",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:cedula",
+    "span": "Cédula",
+    "start_char": 548,
+    "end_char": 554
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:10:term-usage:3085-3095",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3085,
+    "end_char": 3095
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:10:term-usage:3855-3865",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3855,
+    "end_char": 3865
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:10:term-usage:3886-3893",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:agencia",
+    "span": "Agencia",
+    "start_char": 3886,
+    "end_char": 3893
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:10:term-usage:3948-3999",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:sustancias-sujetas-a-reporte-de-competencia-federal",
+    "span": "Sustancias sujetas a reporte de competencia federal",
+    "start_char": 3948,
+    "end_char": 3999
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:10:term-usage:4016-4052",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:actividades-del-sector-hidrocarburos",
+    "span": "Actividades del Sector Hidrocarburos",
+    "start_char": 4016,
+    "end_char": 4052
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:11:term-usage:3-9",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:cedula",
+    "span": "Cédula",
+    "start_char": 3,
+    "end_char": 9
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:11:term-usage:34-44",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 34,
+    "end_char": 44
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:11:term-usage:233-265",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:establecimiento-sujeto-a-reporte",
+    "span": "Establecimiento sujeto a reporte",
+    "start_char": 233,
+    "end_char": 265
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:12:term-usage:3-35",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:establecimiento-sujeto-a-reporte",
+    "span": "Establecimiento sujeto a reporte",
+    "start_char": 3,
+    "end_char": 35
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:12:term-usage:122-132",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 122,
+    "end_char": 132
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:12:term-usage:137-143",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:cedula",
+    "span": "Cédula",
+    "start_char": 137,
+    "end_char": 143
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:12:term-usage:331-337",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:cedula",
+    "span": "Cédula",
+    "start_char": 331,
+    "end_char": 337
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:12:term-usage:641-647",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:cedula",
+    "span": "Cédula",
+    "start_char": 641,
+    "end_char": 647
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:12:term-usage:766-795",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:espacio-de-contacto-ciudadano",
+    "span": "Espacio de Contacto Ciudadano",
+    "start_char": 766,
+    "end_char": 795
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:12:term-usage:797-847",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:delegaciones-federales-y-coordinaciones-regionales",
+    "span": "Delegaciones Federales y Coordinaciones Regionales",
+    "start_char": 797,
+    "end_char": 847
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:12:term-usage:854-864",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 854,
+    "end_char": 864
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:12:term-usage:885-892",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:agencia",
+    "span": "Agencia",
+    "start_char": 885,
+    "end_char": 892
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:12:term-usage:931-941",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 931,
+    "end_char": 941
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:12:term-usage:1018-1068",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:delegaciones-federales-y-coordinaciones-regionales",
+    "span": "Delegaciones Federales y Coordinaciones Regionales",
+    "start_char": 1018,
+    "end_char": 1068
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:13:term-usage:4-11",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:13",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:cedula",
+    "span": "Cédulas",
+    "start_char": 4,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:13:term-usage:47-97",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:13",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:delegaciones-federales-y-coordinaciones-regionales",
+    "span": "Delegaciones Federales y Coordinaciones Regionales",
+    "start_char": 47,
+    "end_char": 97
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:13:term-usage:107-114",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:13",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:agencia",
+    "span": "Agencia",
+    "start_char": 107,
+    "end_char": 114
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:13:term-usage:137-145",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:13",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:registro",
+    "span": "Registro",
+    "start_char": 137,
+    "end_char": 145
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:13:term-usage:278-328",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:13",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:delegaciones-federales-y-coordinaciones-regionales",
+    "span": "Delegaciones Federales y Coordinaciones Regionales",
+    "start_char": 278,
+    "end_char": 328
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:13:term-usage:342-349",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:13",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:agencia",
+    "span": "Agencia",
+    "start_char": 342,
+    "end_char": 349
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:13:term-usage:440-446",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:13",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:cedula",
+    "span": "Cédula",
+    "start_char": 440,
+    "end_char": 446
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:13:term-usage:744-747",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:13",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:ley",
+    "span": "Ley",
+    "start_char": 744,
+    "end_char": 747
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:13:term-usage:951-957",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:13",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:cedula",
+    "span": "Cédula",
+    "start_char": 951,
+    "end_char": 957
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:13:term-usage:972-978",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:13",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:cedula",
+    "span": "Cédula",
+    "start_char": 972,
+    "end_char": 978
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:13:term-usage:1105-1108",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:13",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:ley",
+    "span": "Ley",
+    "start_char": 1105,
+    "end_char": 1108
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:13:term-usage:1410-1416",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:13",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:cedula",
+    "span": "Cédula",
+    "start_char": 1410,
+    "end_char": 1416
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:13:term-usage:1554-1564",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:13",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1554,
+    "end_char": 1564
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:13:term-usage:1580-1593",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:13",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:base-de-datos",
+    "span": "Base de datos",
+    "start_char": 1580,
+    "end_char": 1593
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:13:term-usage:1598-1606",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:13",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:registro",
+    "span": "Registro",
+    "start_char": 1598,
+    "end_char": 1606
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:13:term-usage:1638-1644",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:13",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:cedula",
+    "span": "Cédula",
+    "start_char": 1638,
+    "end_char": 1644
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:14:term-usage:4-11",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:cedula",
+    "span": "Cédulas",
+    "start_char": 4,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:14:term-usage:28-36",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:registro",
+    "span": "Registro",
+    "start_char": 28,
+    "end_char": 36
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:14:term-usage:83-112",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:espacio-de-contacto-ciudadano",
+    "span": "Espacio de Contacto Ciudadano",
+    "start_char": 83,
+    "end_char": 112
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:14:term-usage:127-134",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:cedula",
+    "span": "Cédulas",
+    "start_char": 127,
+    "end_char": 134
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:14:term-usage:162-212",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:delegaciones-federales-y-coordinaciones-regionales",
+    "span": "Delegaciones Federales y Coordinaciones Regionales",
+    "start_char": 162,
+    "end_char": 212
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:14:term-usage:235-242",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:agencia",
+    "span": "Agencia",
+    "start_char": 235,
+    "end_char": 242
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:14:term-usage:367-374",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:cedula",
+    "span": "Cédulas",
+    "start_char": 367,
+    "end_char": 374
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:14:term-usage:380-393",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:base-de-datos",
+    "span": "Base de datos",
+    "start_char": 380,
+    "end_char": 393
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:15:term-usage:3-9",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:15",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:cedula",
+    "span": "Cédula",
+    "start_char": 3,
+    "end_char": 9
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:16:term-usage:31-37",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:16",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:cedula",
+    "span": "Cédula",
+    "start_char": 31,
+    "end_char": 37
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:16:term-usage:134-144",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:16",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 134,
+    "end_char": 144
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:16:term-usage:310-313",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:16",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:ley",
+    "span": "Ley",
+    "start_char": 310,
+    "end_char": 313
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:16:term-usage:409-415",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:16",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:cedula",
+    "span": "Cédula",
+    "start_char": 409,
+    "end_char": 415
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:17:term-usage:241-244",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:17",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:ley",
+    "span": "Ley",
+    "start_char": 241,
+    "end_char": 244
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:19:term-usage:382-385",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:19",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:ley",
+    "span": "Ley",
+    "start_char": 382,
+    "end_char": 385
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:21:term-usage:150-156",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:21",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:cedula",
+    "span": "Cédula",
+    "start_char": 150,
+    "end_char": 156
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:21:term-usage:338-348",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:21",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 338,
+    "end_char": 348
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:22:term-usage:247-257",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:22",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 247,
+    "end_char": 257
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:23:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:registro",
+    "span": "Registro",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:23:term-usage:33-43",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 33,
+    "end_char": 43
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:23:term-usage:319-329",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 319,
+    "end_char": 329
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:23:term-usage:350-357",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:agencia",
+    "span": "Agencia",
+    "start_char": 350,
+    "end_char": 357
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:23:term-usage:455-491",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:actividades-del-sector-hidrocarburos",
+    "span": "Actividades del Sector Hidrocarburos",
+    "start_char": 455,
+    "end_char": 491
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:23:term-usage:670-678",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:registro",
+    "span": "Registro",
+    "start_char": 670,
+    "end_char": 678
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:23:term-usage:719-732",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:base-de-datos",
+    "span": "Base de datos",
+    "start_char": 719,
+    "end_char": 732
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:24:term-usage:57-70",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:base-de-datos",
+    "span": "Base de datos",
+    "start_char": 57,
+    "end_char": 70
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:24:term-usage:246-252",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:cedula",
+    "span": "Cédula",
+    "start_char": 246,
+    "end_char": 252
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:24:term-usage:334-342",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:registro",
+    "span": "Registro",
+    "start_char": 334,
+    "end_char": 342
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:24:term-usage:347-361",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:base-de-datos",
+    "span": "Bases de datos",
+    "start_char": 347,
+    "end_char": 361
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:24:term-usage:725-738",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:base-de-datos",
+    "span": "Base de datos",
+    "start_char": 725,
+    "end_char": 738
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:25:term-usage:51-64",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:base-de-datos",
+    "span": "Base de datos",
+    "start_char": 51,
+    "end_char": 64
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:25:term-usage:69-77",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:registro",
+    "span": "Registro",
+    "start_char": 69,
+    "end_char": 77
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:25:term-usage:595-598",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:ley",
+    "span": "Ley",
+    "start_char": 595,
+    "end_char": 598
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:26:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:26:term-usage:156-166",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 156,
+    "end_char": 166
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:26:term-usage:443-453",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 443,
+    "end_char": 453
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:26:term-usage:691-727",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:actividades-del-sector-hidrocarburos",
+    "span": "Actividades del Sector Hidrocarburos",
+    "start_char": 691,
+    "end_char": 727
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:26:term-usage:732-742",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 732,
+    "end_char": 742
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:26:term-usage:763-770",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:agencia",
+    "span": "Agencia",
+    "start_char": 763,
+    "end_char": 770
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:27:term-usage:65-78",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:base-de-datos",
+    "span": "Base de datos",
+    "start_char": 65,
+    "end_char": 78
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:27:term-usage:83-91",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:registro",
+    "span": "Registro",
+    "start_char": 83,
+    "end_char": 91
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:27:term-usage:143-153",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 143,
+    "end_char": 153
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:27:term-usage:196-199",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:ley",
+    "span": "Ley",
+    "start_char": 196,
+    "end_char": 199
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:27:term-usage:293-329",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:actividades-del-sector-hidrocarburos",
+    "span": "Actividades del Sector Hidrocarburos",
+    "start_char": 293,
+    "end_char": 329
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:27:term-usage:334-344",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 334,
+    "end_char": 344
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:27:term-usage:442-449",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:agencia",
+    "span": "Agencia",
+    "start_char": 442,
+    "end_char": 449
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:28:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:28",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:28:term-usage:132-135",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:28",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:ley",
+    "span": "Ley",
+    "start_char": 132,
+    "end_char": 135
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:28:term-usage:238-241",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:28",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:ley",
+    "span": "Ley",
+    "start_char": 238,
+    "end_char": 241
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:29:term-usage:94-102",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:29",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:registro",
+    "span": "Registro",
+    "start_char": 94,
+    "end_char": 102
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:29:term-usage:193-206",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:29",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:base-de-datos",
+    "span": "Base de datos",
+    "start_char": 193,
+    "end_char": 206
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:29:term-usage:211-219",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:29",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:registro",
+    "span": "Registro",
+    "start_char": 211,
+    "end_char": 219
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:29:term-usage:700-708",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:29",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:registro",
+    "span": "Registro",
+    "start_char": 700,
+    "end_char": 708
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:29:term-usage:773-776",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:29",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:ley",
+    "span": "Ley",
+    "start_char": 773,
+    "end_char": 776
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:29:term-usage:855-858",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:29",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:ley",
+    "span": "Ley",
+    "start_char": 855,
+    "end_char": 858
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:30:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:30",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:30:term-usage:89-96",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:30",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:agencia",
+    "span": "Agencia",
+    "start_char": 89,
+    "end_char": 96
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:30:term-usage:514-524",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:30",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 514,
+    "end_char": 524
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:30:term-usage:600-607",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:30",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:agencia",
+    "span": "Agencia",
+    "start_char": 600,
+    "end_char": 607
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:30:term-usage:697-700",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:30",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:ley",
+    "span": "Ley",
+    "start_char": 697,
+    "end_char": 700
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:32:term-usage:31-41",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:32",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 31,
+    "end_char": 41
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:32:term-usage:342-352",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:32",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 342,
+    "end_char": 352
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:transitory:segundo:term-usage:31-37",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:cedula",
+    "span": "Cédula",
+    "start_char": 31,
+    "end_char": 37
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:transitory:tercero:term-usage:122-132",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 122,
+    "end_char": 132
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:transitory:cuarto:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:transitory:quinto:term-usage:99-102",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:ley",
+    "span": "Ley",
+    "start_char": 99,
+    "end_char": 102
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:transitory:quinto:term-usage:178-186",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:registro",
+    "span": "Registro",
+    "start_char": 178,
+    "end_char": 186
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:transitory:quinto:term-usage:190-199",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:emision",
+    "span": "Emisiones",
+    "start_char": 190,
+    "end_char": 199
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:transitory:quinto:term-usage:202-215",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:transferencia",
+    "span": "Transferencia",
+    "start_char": 202,
+    "end_char": 215
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:transitory:quinto:term-usage:237-247",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 237,
+    "end_char": 247
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:transitory:quinto:term-usage:334-342",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:registro",
+    "span": "Registro",
+    "start_char": 334,
+    "end_char": 342
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:transitory:sexto:term-usage:39-42",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:transitory:sexto",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:ley",
+    "span": "Ley",
+    "start_char": 39,
+    "end_char": 42
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:transitory:sexto:term-usage:220-223",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:transitory:sexto",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:ley",
+    "span": "Ley",
+    "start_char": 220,
+    "end_char": 223
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:transitory:sexto:term-usage:354-360",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:transitory:sexto",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:cedula",
+    "span": "Cédula",
+    "start_char": 354,
+    "end_char": 360
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:transitory:septimo:term-usage:164-174",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:transitory:septimo",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 164,
+    "end_char": 174
+  }
+]

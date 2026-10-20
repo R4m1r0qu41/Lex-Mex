@@ -17,9 +17,9 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 64
 
-Si el riesgo de trabajo trae como consecuencia la muerte del asegurado, el Instituto calculará el monto constitutivo al que se le restará los recursos acumulados en la cuenta individual del trabajador fallecido, a efecto de determinar la suma asegurada que el Instituto deberá cubrir a la institución de seguros, necesaria para obtener una pensión, ayudas asistenciales y demás prestaciones económicas previstas en este capítulo a los beneficiarios.
+Si el riesgo de trabajo trae como consecuencia la muerte del asegurado, el [Instituto](articulo-5-A.md) calculará el monto constitutivo al que se le restará los recursos acumulados en la cuenta individual del trabajador fallecido, a efecto de determinar la suma asegurada que el Instituto deberá cubrir a la institución de seguros, necesaria para obtener una pensión, ayudas asistenciales y demás prestaciones económicas previstas en este capítulo a los beneficiarios.
 
-Los beneficiarios elegirán la institución de seguros con la que deseen contratar la renta con los recursos a que se refiere el párrafo anterior, de acuerdo con lo dispuesto en el artículo [159](articulo-159.md) fracción IV de la presente Ley. En caso de que el trabajador fallecido haya acumulado en su cuenta individual un saldo mayor al necesario para integrar el monto constitutivo necesario para contratar una renta que sea superior al monto de las pensiones a que tengan derecho sus beneficiarios, en los términos de este capítulo, éstos podrán optar por:
+Los beneficiarios elegirán la institución de seguros con la que deseen contratar la renta con los recursos a que se refiere el párrafo anterior, de acuerdo con lo dispuesto en el artículo [159](articulo-159.md) fracción IV de la presente [Ley](articulo-5-A.md). En caso de que el trabajador fallecido haya acumulado en su cuenta individual un saldo mayor al necesario para integrar el monto constitutivo necesario para contratar una renta que sea superior al monto de las pensiones a que tengan derecho sus beneficiarios, en los términos de este capítulo, éstos podrán optar por:
 
 a) Retirar la suma excedente en una sola exhibición de la cuenta individual del trabajador fallecido, o
 

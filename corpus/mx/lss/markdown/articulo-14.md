@@ -31,4 +31,4 @@ V. La contribución a cargo del Gobierno Federal, cuando en su caso proceda;
 
 VI. Los procedimientos de inscripción y los de cobro de las cuotas, y
 
-VII. Las demás modalidades que se requieran conforme a esta Ley y sus reglamentos.
+VII. Las demás modalidades que se requieran conforme a esta [Ley](articulo-5-A.md) y sus reglamentos.

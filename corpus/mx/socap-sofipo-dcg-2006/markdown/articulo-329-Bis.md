@@ -20,4 +20,4 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 Derogado.
 
-22 El artículo 328 Bis se adiciona mediante Resolución publicada en el Diario Oficial de la Federación el 3 de julio de 2026, mismo que entrará en vigor el 1 de enero de 2028.
+22 El artículo 328 Bis se adiciona mediante Resolución publicada en el Diario Oficial de la [Federación](articulo-1.md) el 3 de julio de 2026, mismo que entrará en vigor el 1 de enero de 2028.

@@ -17,9 +17,9 @@ source_sha256: 4d25bcb022ab62a24462e11a230c9554c0120012913ab4599cd3ec1b2b275c1d
 
 # Artículo 73
 
-El Servicio Geológico dentro de los ciento veinte días naturales anteriores al término de la vigencia de cada asignación, deberá rendir un informe sobre los resultados obtenidos con motivo de los trabajos llevados a cabo, mismo que deberá contener:
+El [Servicio Geológico](articulo-1o.md) dentro de los ciento veinte días naturales anteriores al término de la vigencia de cada asignación, deberá rendir un informe sobre los resultados obtenidos con motivo de los trabajos llevados a cabo, mismo que deberá contener:
 
-I. Datos de la asignación minera y de su inscripción en el Registro;
+I. Datos de la asignación minera y de su inscripción en el [Registro](articulo-1o.md);
 
 II. Situación del lote antes de iniciar las obras y trabajos de exploración;
 
@@ -35,6 +35,6 @@ VIII. En su caso, perímetro o perímetros interiores del lote o lotes mineros.
 
 Al informe se acompañarán los trabajos periciales del lote o lotes por concursar o incorporar a reservas mineras, las fotografías señaladas por la fracción V del artículo [21](articulo-21.md) de este Reglamento y planos de localización geológico-superficial, así como secciones longitudinales y transversales, además del muestreo y resultados del mismo.
 
-Asimismo, el Servicio Geológico estará obligado a rendir anualmente a la Secretaría, dentro de los treinta días siguientes al término del periodo de enero a diciembre del año inmediato anterior que se reporta, un informe escrito de carácter público sobre los resultados obtenidos con motivo de las obras y trabajos realizados, el cual deberá contener la información señalada en las fracciones I a IV y VIII del presente artículo.
+Asimismo, el Servicio Geológico estará obligado a rendir anualmente a la [Secretaría](articulo-1o.md), dentro de los treinta días siguientes al término del periodo de enero a diciembre del año inmediato anterior que se reporta, un informe escrito de carácter público sobre los resultados obtenidos con motivo de las obras y trabajos realizados, el cual deberá contener la información señalada en las fracciones I a IV y VIII del presente artículo.
 
-Los informes a que se refiere este artículo, serán públicos y su acceso se dará conforme los procedimientos previstos por la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental.
+Los informes a que se refiere este artículo, serán públicos y su acceso se dará conforme los procedimientos previstos por la [Ley](articulo-1o.md) Federal de Transparencia y Acceso a la Información Pública Gubernamental.

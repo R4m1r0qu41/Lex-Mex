@@ -19,8 +19,8 @@ source_sha256: c1870db657a6564bbeb692a1778472db811a920626822de553ff5ca5194f95b4
 
 Las dependencias y entidades de la Administración Pública Federal, en el ámbito de sus respectivas competencias, pueden promover y fomentar instrumentos de carácter fiscal, financiero o de mercado, que incentiven:
 
-I. El aprovechamiento y valorización de los residuos orgánicos y el tratamiento de aguas residuales para su uso directo como Biocombustibles o para su Producción;
+I. El aprovechamiento y valorización de los residuos orgánicos y el tratamiento de aguas residuales para su uso directo como [Biocombustibles](articulo-2.md) o para su [Producción](articulo-2.md);
 
-II. La Producción sustentable de Biomasa para su uso directo como Biocombustible o para la Producción de Biocombustibles, y
+II. La Producción sustentable de [Biomasa](articulo-2.md) para su uso directo como Biocombustible o para la Producción de Biocombustibles, y
 
 III. La Producción de Biocombustibles y su uso sustentable.

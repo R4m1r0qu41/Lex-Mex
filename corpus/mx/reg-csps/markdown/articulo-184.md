@@ -17,4 +17,4 @@ source_sha256: 70464807d63da08244e495f2ff0ac30b12b30119926b84cedc7930397fcb80ef
 
 # Artículo 184
 
-La venta de productos de tabaco, a través de máquinas automáticas, se podrá realizar únicamente en establecimientos visitados mayoritariamente por adultos. La empresa comercializadora de estos productos por este medio, deberá notificar a la Secretaría de su ubicación y asumirá la corresponsabilidad de evitar la venta a menores de edad con el dueño o arrendatario del establecimiento donde se ubiquen las máquinas.
+La venta de productos de tabaco, a través de máquinas automáticas, se podrá realizar únicamente en establecimientos visitados mayoritariamente por adultos. La empresa comercializadora de estos productos por este medio, deberá notificar a la [Secretaría](articulo-2o.md) de su ubicación y asumirá la corresponsabilidad de evitar la venta a menores de edad con el dueño o arrendatario del establecimiento donde se ubiquen las máquinas.

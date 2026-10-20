@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 276
 
-La supervisión auxiliar tendrá por finalidad revisar, verificar, comprobar y evaluar los recursos, obligaciones y patrimonio de las Sociedades Financieras Populares, así como las operaciones, funcionamiento, sistemas de control y, en general, todo lo que pudiendo afectar la posición financiera y situación legal de las Sociedades Financieras Populares, conste o deba constar en sus registros, a fin de que se ajusten a las disposiciones que las rigen y a las sanas prácticas financieras.
+La supervisión auxiliar tendrá por finalidad revisar, verificar, comprobar y evaluar los recursos, obligaciones y patrimonio de las [Sociedades](articulo-1.md) Financieras Populares, así como las operaciones, funcionamiento, sistemas de control y, en general, todo lo que pudiendo afectar la posición financiera y situación legal de las Sociedades Financieras Populares, conste o deba constar en sus registros, a fin de que se ajusten a las disposiciones que las rigen y a las sanas prácticas financieras.
 
 Los objetivos generales de la supervisión auxiliar serán los que se enuncian a continuación:
 

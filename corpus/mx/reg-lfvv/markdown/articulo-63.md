@@ -17,4 +17,4 @@ source_sha256: 23dcee090bbe0c4fb06c75d084cb65ce0b2e8f72a8d082e7059504412bde1614
 
 # Artículo 63
 
-Si en la visita de verificación se comprueba la comisión de cualquiera de las infracciones previstas en la Ley, los verificadores asegurarán, en forma cautelar, los bienes objeto de las mismas, procediendo conforme a lo establecido en la Ley y en este Reglamento para efecto del aseguramiento de bienes.
+Si en la visita de verificación se comprueba la comisión de cualquiera de las infracciones previstas en la [Ley](articulo-2o.md), los verificadores asegurarán, en forma cautelar, los bienes objeto de las mismas, procediendo conforme a lo establecido en la Ley y en este Reglamento para efecto del aseguramiento de bienes.

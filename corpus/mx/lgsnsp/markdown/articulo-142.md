@@ -17,4 +17,4 @@ source_sha256: 7f01ee1b1deb901a23976507adccbddefbea50b0fc9a4ddceaf1225d711d50d0
 
 # Artículo 142
 
-La unidad de asuntos internos y el órgano colegiado de honor y justicia podrán aplicar medidas precautorias y medidas cautelares, con los siguientes propósitos: I. Evitar el ocultamiento o destrucción de pruebas; II. Impedir que continúe la conducta que dio origen a la presunta falta disciplinaria; III. Evitar obstaculizar el adecuado desarrollo del procedimiento de responsabilidad administrativa, y IV. Evitar un daño al patrimonio de la Institución de Seguridad Pública de que se trate.
+La unidad de asuntos internos y el órgano colegiado de honor y justicia podrán aplicar medidas precautorias y medidas cautelares, con los siguientes propósitos: I. Evitar el ocultamiento o destrucción de pruebas; II. Impedir que continúe la conducta que dio origen a la presunta falta disciplinaria; III. Evitar obstaculizar el adecuado desarrollo del procedimiento de responsabilidad administrativa, y IV. Evitar un daño al patrimonio de la [Institución de Seguridad Pública](articulo-4.md) de que se trate.

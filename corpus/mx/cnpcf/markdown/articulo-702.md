@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Primero · Capítulo I
+
 # Artículo 702
 
 Iniciado un juicio sucesorio intestamentario o testamentario y habiéndose reconocido los derechos hereditarios a las partes interesadas, así como aceptado el cargo de albacea, éstas podrán encomendar a una Notaria o un Notario Público, la continuación en la formación de inventarios, avalúos, liquidación, partición y adjudicación de la herencia, procediendo en todo de común acuerdo, lo que constará en uno o varios instrumentos, conforme a la legislación civil y notarial respectiva.

@@ -17,4 +17,4 @@ source_sha256: b3c906475b455176de73da17f4f93a73f295965dc9bcca854b48417c7d4d3cfc
 
 # Artículo 14
 
-En los casos en que a la SEMARNAT le corresponda el conocimiento, tramitación y resolución de una solicitud de permiso, tratándose de especies silvestres y forestales, deberá remitir el expediente respectivo a la SAGARPA para que emita la opinión que corresponda.
+En los casos en que a la [SEMARNAT](articulo-3.md) le corresponda el conocimiento, tramitación y resolución de una solicitud de permiso, tratándose de especies silvestres y forestales, deberá remitir el expediente respectivo a la [SAGARPA](articulo-3.md) para que emita la opinión que corresponda.

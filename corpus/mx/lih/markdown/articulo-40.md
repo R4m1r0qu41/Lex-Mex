@@ -25,6 +25,6 @@ En la declaración anual por el derecho a que se refiere el artículo [39](artic
 
 Cuando en la declaración de pago provisional o en la declaración anual resulte saldo a favor, el Asignatario puede compensar dicho saldo a favor contra los pagos posteriores del propio derecho, actualizado conforme a lo previsto en el artículo [17-A](../../cff/markdown/articulo-17-A.md) del Código Fiscal de la Federación, considerándose el periodo comprendido desde el mes en el que se obtenga el saldo a favor, hasta el mes en el que se realice la compensación.
 
-La Secretaría puede emitir los lineamientos para el debido cumplimiento de lo establecido en el presente Capítulo.
+La [Secretaría](articulo-3.md) puede emitir los lineamientos para el debido cumplimiento de lo establecido en el presente Capítulo.
 
 Artículo reformado DOF 18-03-2025

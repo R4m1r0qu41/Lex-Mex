@@ -17,6 +17,6 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 60
 
-Para la tramitación del registro de un modelo de utilidad se aplicarán, en lo conducente, las reglas contenidas en los Capítulos II y VI del presente Título, a excepción de los artículos [53](articulo-53.md), [98](articulo-98.md) y [107](articulo-107.md) de esta Ley.
+Para la tramitación del registro de un modelo de utilidad se aplicarán, en lo conducente, las reglas contenidas en los Capítulos II y VI del presente Título, a excepción de los artículos [53](articulo-53.md), [98](articulo-98.md) y [107](articulo-107.md) de esta [Ley](articulo-4.md).
 
 Artículo reformado DOF 03-04-2026

@@ -13,9 +13,11 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPC.pdf
 source_sha256: 7fea623841fd6e05e8c0d01d2cf09f85b0b8e58ba4d9e4f6711f8bad1f448e55
 ---
 
+> Capítulo I
+
 # Artículo 8 Bis
 
-La Procuraduría deberá fomentar permanentemente una cultura de consumo responsable e inteligente, entendido como aquel que implica un consumo consciente, informado, crítico, saludable, sustentable, solidario y activo, a fin de que los consumidores estén en la posibilidad de realizar una buena toma de decisiones, suficientemente informada, respecto del consumo de bienes y servicios, los efectos de sus actos de consumo, y los derechos que los asisten.
+La [Procuraduría](articulo-2.md) deberá fomentar permanentemente una cultura de consumo responsable e inteligente, entendido como aquel que implica un consumo consciente, informado, crítico, saludable, sustentable, solidario y activo, a fin de que los consumidores estén en la posibilidad de realizar una buena toma de decisiones, suficientemente informada, respecto del consumo de bienes y servicios, los efectos de sus actos de consumo, y los derechos que los asisten.
 
 Para este propósito, elaborará contenidos y materiales educativos en esta materia a fin de ponerlos a disposición del público por los medios a su alcance, incluyendo su distribución en los establecimientos de los proveedores, previo acuerdo con éstos. También presentará sus contenidos educativos a la autoridad federal competente a fin de que los incorpore a los programas oficiales correspondientes en términos de las disposiciones aplicables.
 

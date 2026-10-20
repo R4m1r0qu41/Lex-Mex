@@ -17,6 +17,6 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 39
 
-Cuando "La Comisión" prevea la concurrencia de varios interesados o las posibilidades de aprovechamiento de agua en usos múltiples o en algún uso específico, podrá reservar ciertas aguas para programar su concesión o asignación mediante concurso, publicando dicha reserva en el Diario Oficial de la Federación.
+Cuando "[La Comisión](articulo-1o.md)" prevea la concurrencia de varios interesados o las posibilidades de aprovechamiento de agua en usos múltiples o en algún uso específico, podrá reservar ciertas aguas para programar su concesión o asignación mediante concurso, publicando dicha reserva en el Diario Oficial de la Federación.
 
 "La Comisión" someterá a concurso las aguas así reservadas, debiendo publicar la convocatoria respectiva en los términos del [artículo siguiente](articulo-40.md).

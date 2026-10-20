@@ -17,4 +17,4 @@ source_sha256: 9ed842aa48bd26aee06dc45bbdbd65efcb32343c78040a5a5d091275bec38343
 
 # Artículo 32
 
-Para auxiliarse en sus funciones, el Comité podrá constituir grupos de apoyo técnico compuestos por especialistas en cada género o especie. Los productores de cada género o especie podrán nombrar un especialista representante para integrar dichos grupos de apoyo, de acuerdo al reglamento respectivo.
+Para auxiliarse en sus funciones, el [Comité](articulo-2o.md) podrá constituir grupos de apoyo técnico compuestos por especialistas en cada género o especie. Los productores de cada género o especie podrán nombrar un especialista representante para integrar dichos grupos de apoyo, de acuerdo al reglamento respectivo.

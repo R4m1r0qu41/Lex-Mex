@@ -17,6 +17,6 @@ source_sha256: 35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc
 
 # Artículo 122
 
-La venta de casas habitación construidas con patrimonio del Instituto, podrá hacerse a plazos, con garantía hipotecaria o con reserva de dominio.
+La venta de casas habitación construidas con patrimonio del [Instituto](articulo-4o.md), podrá hacerse a plazos, con garantía hipotecaria o con reserva de dominio.
 
 Además, el Instituto podrá celebrar contratos de promesa de venta, en cuyo caso el militar entrará en posesión de la casa habitación sin más formalidad que la firma del contrato respectivo y cubrir el pago inicial que corresponda.

@@ -19,4 +19,4 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 Las Sociedades, en la aceptación de mandatos y comisiones de entidades financieras relacionados con su objeto, deberán contar con la previa aprobación de su Consejo.
 
-Asimismo, deberán informar a la Comisión y al Fondo de Protección respecto de los mandatos y comisiones que acepten.
+Asimismo, deberán informar a la [Comisión](articulo-1.md) y al [Fondo de Protección](articulo-1.md) respecto de los mandatos y comisiones que acepten.

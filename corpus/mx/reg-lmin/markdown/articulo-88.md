@@ -17,7 +17,7 @@ source_sha256: 4d25bcb022ab62a24462e11a230c9554c0120012913ab4599cd3ec1b2b275c1d
 
 # Artículo 88
 
-Para la inscripción de los actos y contratos a que alude el artículo [46](../../lmin/markdown/articulo-46.md) de la Ley, se llevarán los libros de:
+Para la inscripción de los actos y contratos a que alude el artículo [46](../../lmin/markdown/articulo-46.md) de la [Ley](articulo-1o.md), se llevarán los libros de:
 
 I. Concesiones Mineras;
 
@@ -31,6 +31,6 @@ V. Actos, Contratos y Convenios Mineros, y
 
 VI. Sociedades Mineras.
 
-La Secretaría dispondrá los medios necesarios para localizar las inscripciones y relacionar aquéllas vinculadas entre sí, así como para salvaguardar la información contenida en libros y la documentación que dio lugar a las inscripciones.
+La [Secretaría](articulo-1o.md) dispondrá los medios necesarios para localizar las inscripciones y relacionar aquéllas vinculadas entre sí, así como para salvaguardar la información contenida en libros y la documentación que dio lugar a las inscripciones.
 
-La Secretaría podrá hacer uso de medios informáticos y electrónicos para generar y administrar los Libros a cargo del Registro.
+La Secretaría podrá hacer uso de medios informáticos y electrónicos para generar y administrar los Libros a cargo del [Registro](articulo-1o.md).

@@ -18,4 +18,4 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 260
 
-El proceso de grabación podrá elaborarse con equipo y personal de la propia Sociedad Financiera Popular o enviarse para su elaboración a un establecimiento especializado que realice esa clase de trabajo, siempre que en uno u otro caso dicho proceso se realice mediante sistemas que garanticen un óptimo nivel de calidad y la confidencialidad señalada en el artículo 34 de la Ley.
+El proceso de grabación podrá elaborarse con equipo y personal de la propia [Sociedad](articulo-1.md) Financiera Popular o enviarse para su elaboración a un establecimiento especializado que realice esa clase de trabajo, siempre que en uno u otro caso dicho proceso se realice mediante sistemas que garanticen un óptimo nivel de calidad y la confidencialidad señalada en el artículo 34 de la [Ley](articulo-1.md).

@@ -17,4 +17,4 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 26
 
-Las disposiciones de esta Ley, que se refieren a los patrones y a los trabajadores, serán aplicables, en lo conducente, a los demás sujetos obligados y de aseguramiento.
+Las disposiciones de esta [Ley](articulo-5-A.md), que se refieren a los patrones y a los trabajadores, serán aplicables, en lo conducente, a los demás sujetos obligados y de aseguramiento.

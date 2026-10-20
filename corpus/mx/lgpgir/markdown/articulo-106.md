@@ -17,7 +17,7 @@ source_sha256: b34326588bd6e7519e33411d3658239e3aefb56cef0fae5d775bc894af64a565
 
 # Artículo 106
 
-De conformidad con esta Ley y su Reglamento, serán sancionadas las personas que lleven a cabo cualquiera de las siguientes actividades:
+De conformidad con esta [Ley](articulo-5.md) y su [Reglamento](articulo-5.md), serán sancionadas las personas que lleven a cabo cualquiera de las siguientes actividades:
 
 I. Acopiar, almacenar, transportar, tratar o disponer finalmente, residuos peligrosos, sin contar con la debida autorización para ello;
 

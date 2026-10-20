@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LTOSF.pdf
 source_sha256: bf9e443e89a5c0ba268e76f20923ae25195ef5c1ffbacecff36693ca228c3667
 ---
 
+> Capítulo V · Sección V
+
 # Artículo 43 Bis
 
 La [Comisión](articulo-3.md) Nacional sancionará con multa de cuatro mil a veinte mil días de salario, a las [Entidades Financieras](articulo-3.md) que no acaten la orden de suspender la celebración de nuevas operaciones, de acuerdo con el artículo [13 Bis](articulo-13-Bis.md) de la presente Ley.
@@ -20,5 +22,3 @@ La [Comisión](articulo-3.md) Nacional sancionará con multa de cuatro mil a vei
 Los funcionarios, empleados o apoderados de las Entidades Financieras que sean responsables de las infracciones a que se refiere el artículo [43](articulo-43.md) de esta Ley y el párrafo anterior, podrán ser suspendidos, inhabilitados o removidos de su encargo por la propia Comisión.
 
 Artículo adicionado DOF 25-05-2010
-
-Sección VI Sanciones que corresponde imponer a la Procuraduría Federal del Consumidor

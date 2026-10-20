@@ -17,4 +17,4 @@ source_sha256: 9080231242a59cbd78d30fb747864bc45cd63d3c4978f37086b01e45343f4244
 
 # Artículo 59
 
-En lo no previsto en el presente capítulo, resultan aplicables de manera supletoria, la Ley Federal de Procedimiento Administrativo y el Código Federal de Procedimientos Civiles o aquellos que los sustituyan, en este orden.
+En lo no previsto en el presente capítulo, resultan aplicables de manera supletoria, la [Ley](articulo-2.md) Federal de Procedimiento Administrativo y el Código Federal de Procedimientos Civiles o aquellos que los sustituyan, en este orden.

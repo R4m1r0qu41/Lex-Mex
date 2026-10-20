@@ -17,4 +17,4 @@ source_sha256: 4f46c1f92fb5682281a7679836e517de95975786fa5326848a331c9eb946cc5f
 
 # Artículo 54
 
-Para determinar el incremento de valor a que se refiere el artículo [27](../../liva/markdown/articulo-27.md), último párrafo de la Ley, se considerará el valor de las materias primas o mercancías de procedencia extranjera incorporadas en el producto, de conformidad con la legislación aduanera.
+Para determinar el incremento de valor a que se refiere el artículo [27](../../liva/markdown/articulo-27.md), último párrafo de la [Ley](articulo-1.md), se considerará el valor de las materias primas o mercancías de procedencia extranjera incorporadas en el producto, de conformidad con la legislación aduanera.

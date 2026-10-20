@@ -17,7 +17,7 @@ source_sha256: 4e276866fce1638948a6daf1a5c0438fa412554f1a6e0381cbdf7cb300e3db75
 
 # Artículo 80
 
-Para los usos y aprovechamientos que se lleven a cabo dentro de las áreas naturales protegidas, la Secretaría otorgará las tasas respectivas y establecerá las proporciones, límites de cambio aceptables o capacidades de carga correspondientes, de conformidad con los métodos y estudios respectivos.
+Para los usos y aprovechamientos que se lleven a cabo dentro de las áreas naturales protegidas, la [Secretaría](articulo-3o.md) otorgará las tasas respectivas y establecerá las proporciones, límites de cambio aceptables o capacidades de carga correspondientes, de conformidad con los métodos y estudios respectivos.
 
 Para la elaboración de los métodos y estudios que permitan establecer las proporciones, límites de cambio aceptables o capacidades de carga, la Secretaría podrá solicitar la colaboración de otras dependencias del Ejecutivo Federal, así como de organizaciones públicas o privadas, universidades, instituciones de investigación o cualquier persona con experiencia y capacidad técnica en la materia.
 

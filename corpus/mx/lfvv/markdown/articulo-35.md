@@ -17,4 +17,4 @@ source_sha256: 9ed842aa48bd26aee06dc45bbdbd65efcb32343c78040a5a5d091275bec38343
 
 # Artículo 35
 
-Para que surtan efectos contra terceros, tanto los títulos de obtentor como la transmisión de derechos, deberán constar en el Registro.
+Para que surtan efectos contra terceros, tanto los títulos de obtentor como la transmisión de derechos, deberán constar en el [Registro](articulo-2o.md).

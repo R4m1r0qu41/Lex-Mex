@@ -13,11 +13,11 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPC.pdf
 source_sha256: 7fea623841fd6e05e8c0d01d2cf09f85b0b8e58ba4d9e4f6711f8bad1f448e55
 ---
 
-> Capítulo VIII BIS
+> Capítulo XIII · Sección Segunda
 
 # Artículo 111
 
-La Procuraduría señalará día y hora para la celebración de una audiencia de conciliación en la que se procurará avenir los intereses de las partes, la cual deberá tener lugar, por lo menos, cuatro días después de la fecha de notificación de la reclamación al proveedor.
+La [Procuraduría](articulo-2.md) señalará día y hora para la celebración de una audiencia de conciliación en la que se procurará avenir los intereses de las partes, la cual deberá tener lugar, por lo menos, cuatro días después de la fecha de notificación de la reclamación al proveedor.
 
 La conciliación podrá celebrarse vía telefónica o por otro medio idóneo, en cuyo caso la Procuraduría o las partes podrán solicitar que se confirmen por escrito los compromisos adquiridos. Párrafo reformado DOF 04-02-2004
 

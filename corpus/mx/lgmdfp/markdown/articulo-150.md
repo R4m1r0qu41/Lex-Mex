@@ -17,6 +17,6 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Artículo 150
 
-Las Víctimas de los delitos establecidos en la presente Ley tienen derecho a ser reparadas integralmente conforme a las medidas de restitución, rehabilitación, compensación, satisfacción y medidas de no repetición, en sus dimensiones individual, colectiva, material, moral y simbólica, en términos de la Ley General de Víctimas.
+Las [Víctimas](articulo-4.md) de los delitos establecidos en la presente Ley tienen derecho a ser reparadas integralmente conforme a las medidas de restitución, rehabilitación, compensación, satisfacción y medidas de no repetición, en sus dimensiones individual, colectiva, material, moral y simbólica, en términos de la Ley General de Víctimas.
 
 El derecho para que la víctima solicite la reparación integral es imprescriptible.

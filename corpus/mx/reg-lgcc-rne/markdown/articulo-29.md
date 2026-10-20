@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGCC_MRNE_281014
 source_sha256: 62420210c5aaffe687daf130a64ff506009625340c554bfb36d2f1b5dcac0192
 ---
 
+> Capítulo VI
+
 # Artículo 29
 
-La Secretaría para efectuar la validación prevista en el artículo [90](../../lgcc/markdown/articulo-90.md), párrafo segundo de la Ley, reconocerá como certificaciones obtenidas por registros internacionales, aquéllas reconocidas por organismos internacionales en materia de Cambio Climático, por organismos extranjeros de certificación de reducción de Emisiones o por aquellos organismos que sean aceptados o reconocidos en los mercados internacionales de carbono.
+La [Secretaría](../../lgcc/markdown/articulo-3o.md) para efectuar la validación prevista en el artículo [90](../../lgcc/markdown/articulo-90.md), párrafo segundo de la [Ley](../../lgcc/markdown/articulo-3o.md), reconocerá como certificaciones obtenidas por registros internacionales, aquéllas reconocidas por organismos internacionales en materia de Cambio Climático, por organismos extranjeros de certificación de reducción de [Emisiones](../../lgcc/markdown/articulo-3o.md) o por aquellos organismos que sean aceptados o reconocidos en los mercados internacionales de carbono.

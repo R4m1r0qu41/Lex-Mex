@@ -17,7 +17,7 @@ source_sha256: 43723ba379e128c1a1c1be4b085ecc870946cdec43d56f83e7314c077361368f
 
 # Artículo 13
 
-Para la realización del examen definitivo el aspirante deberá presentar directamente ante la Secretaría, o a través del colegio de corredores local:
+Para la realización del examen definitivo el aspirante deberá presentar directamente ante la [Secretaría](articulo-2o.md), o a través del colegio de corredores local:
 
 I.- Constancia que acredite su calidad de aspirante a corredor:
 

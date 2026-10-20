@@ -19,7 +19,7 @@ source_sha256: a2d3f947b369e4383f2f27a4e9bd819a3dba768ab9bae527e6388e30c1f9e06c
 
 Para los efectos de esta Ley, el ejercicio de las facultades discrecionales por parte de la autoridad sanitaria competente, se sujetará a los siguientes criterios:
 
-I. Se fundará y motivará en los términos de los artículos 14 y 16 de la Constitución Política de los Estados Unidos Mexicanos;
+I. Se fundará y motivará en los términos de los artículos [14](../../cpeum/markdown/articulo-14.md) y [16](../../cpeum/markdown/articulo-16.md) de la Constitución Política de los Estados Unidos Mexicanos;
 
 II. Se tomarán en cuenta las necesidades sociales y nacionales y, en general, los derechos e intereses de la sociedad;
 

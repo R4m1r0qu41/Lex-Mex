@@ -1,1 +1,233 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfca:term:circulacion",
+    "term": "Circulación",
+    "instrument_id": "urn:lex-mx:federal:statute:lfca",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfca:article:2",
+    "fraction": "I",
+    "start_char": 70,
+    "end_char": 427,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfca:term:complejo-cinematografico",
+    "term": "Complejo cinematográfico",
+    "instrument_id": "urn:lex-mx:federal:statute:lfca",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfca:article:2",
+    "fraction": "II",
+    "start_char": 427,
+    "end_char": 641,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfca:term:espacio-de-exhibicion-alternativo",
+    "term": "Espacio de exhibición alternativo",
+    "instrument_id": "urn:lex-mx:federal:statute:lfca",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfca:article:2",
+    "fraction": "III",
+    "start_char": 641,
+    "end_char": 1032,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfca:term:formacion-cinematografica",
+    "term": "Formación cinematográfica",
+    "instrument_id": "urn:lex-mx:federal:statute:lfca",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfca:article:2",
+    "fraction": "IV",
+    "start_char": 1032,
+    "end_char": 1461,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfca:term:industria-cinematografica-nacional",
+    "term": "Industria cinematográfica nacional",
+    "instrument_id": "urn:lex-mx:federal:statute:lfca",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfca:article:2",
+    "fraction": "V",
+    "start_char": 1461,
+    "end_char": 1905,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfca:term:interes-cultural-nacional",
+    "term": "Interés cultural nacional",
+    "instrument_id": "urn:lex-mx:federal:statute:lfca",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfca:article:2",
+    "fraction": "VI",
+    "start_char": 1905,
+    "end_char": 2137,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfca:term:obra-audiovisual",
+    "term": "Obra audiovisual",
+    "instrument_id": "urn:lex-mx:federal:statute:lfca",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfca:article:2",
+    "fraction": "VII",
+    "start_char": 2137,
+    "end_char": 2692,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfca:term:obra-cinematografica",
+    "term": "Obra cinematográfica",
+    "instrument_id": "urn:lex-mx:federal:statute:lfca",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfca:article:2",
+    "fraction": "VIII",
+    "start_char": 2692,
+    "end_char": 3358,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfca:term:opera-prima",
+    "term": "Ópera prima",
+    "instrument_id": "urn:lex-mx:federal:statute:lfca",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfca:article:2",
+    "fraction": "IX",
+    "start_char": 3358,
+    "end_char": 3440,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfca:term:personal-creativo",
+    "term": "Personal creativo",
+    "instrument_id": "urn:lex-mx:federal:statute:lfca",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfca:article:2",
+    "fraction": "X",
+    "start_char": 3440,
+    "end_char": 3709,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfca:term:personal-tecnico",
+    "term": "Personal técnico",
+    "instrument_id": "urn:lex-mx:federal:statute:lfca",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfca:article:2",
+    "fraction": "XI",
+    "start_char": 3709,
+    "end_char": 3859,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfca:term:plataformas-digitales-de-video-bajo-demanda",
+    "term": "Plataformas digitales de video bajo demanda",
+    "instrument_id": "urn:lex-mx:federal:statute:lfca",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfca:article:2",
+    "fraction": "XII",
+    "start_char": 3859,
+    "end_char": 4616,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfca:term:preservacion",
+    "term": "Preservación",
+    "instrument_id": "urn:lex-mx:federal:statute:lfca",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfca:article:2",
+    "fraction": "XIII",
+    "start_char": 4616,
+    "end_char": 4990,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfca:term:productor-independiente",
+    "term": "Productor independiente",
+    "instrument_id": "urn:lex-mx:federal:statute:lfca",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfca:article:2",
+    "fraction": "XIV",
+    "start_char": 4990,
+    "end_char": 5890,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfca:term:promocion",
+    "term": "Promoción",
+    "instrument_id": "urn:lex-mx:federal:statute:lfca",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfca:article:2",
+    "fraction": "XV",
+    "start_char": 5890,
+    "end_char": 6118,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfca:term:reglamento",
+    "term": "Reglamento",
+    "instrument_id": "urn:lex-mx:federal:statute:lfca",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfca:article:2",
+    "fraction": "XVI",
+    "start_char": 6118,
+    "end_char": 6190,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfca:term:restauracion",
+    "term": "Restauración",
+    "instrument_id": "urn:lex-mx:federal:statute:lfca",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfca:article:2",
+    "fraction": "XVII",
+    "start_char": 6190,
+    "end_char": 6479,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfca:term:serie",
+    "term": "Serie",
+    "instrument_id": "urn:lex-mx:federal:statute:lfca",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfca:article:2",
+    "fraction": "XVIII",
+    "start_char": 6479,
+    "end_char": 6792,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfca:term:sala-de-cine",
+    "term": "Sala de cine",
+    "instrument_id": "urn:lex-mx:federal:statute:lfca",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfca:article:2",
+    "fraction": "XIX",
+    "start_char": 6792,
+    "end_char": 6984,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfca:term:subsector-cinematografico",
+    "term": "Subsector cinematográfico",
+    "instrument_id": "urn:lex-mx:federal:statute:lfca",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfca:article:2",
+    "fraction": "XX",
+    "start_char": 6984,
+    "end_char": 7461,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfca:term:temporada",
+    "term": "Temporada",
+    "instrument_id": "urn:lex-mx:federal:statute:lfca",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfca:article:2",
+    "fraction": "XXI",
+    "start_char": 7461,
+    "end_char": 7626,
+    "basis": "express_definition"
+  }
+]

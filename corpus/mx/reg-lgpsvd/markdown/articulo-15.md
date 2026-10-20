@@ -17,6 +17,6 @@ source_sha256: a1cc8f6043c35579235fd61d2e34977e1735af4ea6919d053f89462b97742335
 
 # Artículo 15
 
-La SEDATU podrá celebrar convenios de colaboración con instituciones del sistema educativo nacional, a efecto de desarrollar y presentar proyectos encaminados a la recuperación de espacios públicos.
+La [SEDATU](articulo-3.md) podrá celebrar convenios de colaboración con instituciones del sistema educativo nacional, a efecto de desarrollar y presentar proyectos encaminados a la recuperación de espacios públicos.
 
 Para la ejecución de los convenios a que se refiere este artículo, la SEDATU podrá coordinarse con las dependencias y entidades de la Administración Pública Federal cuyas funciones incidan en la prevención social de la Violencia y la delincuencia.

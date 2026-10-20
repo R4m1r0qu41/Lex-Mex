@@ -17,6 +17,6 @@ source_sha256: 4e276866fce1638948a6daf1a5c0438fa412554f1a6e0381cbdf7cb300e3db75
 
 # Artículo 122
 
-Concluidos los estudios previos justificativos y aprobada la propuesta, la Secretaría realizará los trámites conducentes ante el Titular del Poder Ejecutivo Federal para la expedición de la declaratoria correspondiente.
+Concluidos los estudios previos justificativos y aprobada la propuesta, la [Secretaría](articulo-3o.md) realizará los trámites conducentes ante el Titular del Poder Ejecutivo Federal para la expedición de la declaratoria correspondiente.
 
-La declaratoria establecerá que el manejo del área queda a cargo del promovente, con la participación de la Secretaría conforme a las atribuciones que al respecto se le otorgan en la Ley y en el presente reglamento, los términos del manejo se establecerán conjuntamente entre el promovente y la Secretaría, de conformidad con el convenio que para tal efecto se suscriba.
+La declaratoria establecerá que el manejo del área queda a cargo del promovente, con la participación de la Secretaría conforme a las atribuciones que al respecto se le otorgan en la [Ley](articulo-3o.md) y en el presente reglamento, los términos del manejo se establecerán conjuntamente entre el promovente y la Secretaría, de conformidad con el convenio que para tal efecto se suscriba.

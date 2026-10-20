@@ -17,4 +17,4 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 # Artículo 90
 
-Para la demostración del cumplimiento de los Estándares se estará a lo previsto en el Procedimiento de Evaluación de la Conformidad específicamente aplicable; en caso de que el Estándar no contemple ese procedimiento, el responsable del bien, producto, proceso o servicio respectivo podrá manifestar una autodeclaración de conformidad siempre y cuando se tenga un nivel bajo de riesgo.
+Para la demostración del cumplimiento de los [Estándares](articulo-4.md) se estará a lo previsto en el [Procedimiento de Evaluación de la Conformidad](articulo-4.md) específicamente aplicable; en caso de que el Estándar no contemple ese procedimiento, el responsable del bien, producto, proceso o servicio respectivo podrá manifestar una autodeclaración de conformidad siempre y cuando se tenga un nivel bajo de riesgo.

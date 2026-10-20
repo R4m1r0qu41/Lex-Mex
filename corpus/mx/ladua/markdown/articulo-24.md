@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf
 source_sha256: 43927095d22ff7bc7780e78132d2160b5050b5f76026b539daec32be09d7341d
 ---
 
+> Título Segundo · Capítulo II
+
 # Artículo 24
 
 Los pasajeros internacionales en tránsito que ingresen a territorio nacional por vía aérea o terrestre, podrán dejar sus mercancías en depósito ante la aduana, aun y cuando no se vayan a destinar a un régimen aduanero.

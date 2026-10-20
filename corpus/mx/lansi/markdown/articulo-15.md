@@ -17,4 +17,4 @@ source_sha256: 0e34f329befed4474eb7bc1bc195ba13bbe188edfbbabc914a44723e62eb9e44
 
 # Artículo 15
 
-La Agencia elaborará un informe anual de desempeño de los Sistemas de Administración del Sector, con el objeto de actualizar la normatividad en la materia de su competencia, conforme a las mejores prácticas y estándares internacionales.
+La [Agencia](articulo-3o.md) elaborará un informe anual de desempeño de los Sistemas de Administración del Sector, con el objeto de actualizar la normatividad en la materia de su competencia, conforme a las mejores prácticas y estándares internacionales.

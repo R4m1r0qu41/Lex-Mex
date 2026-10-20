@@ -17,4 +17,4 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 # Artículo 195
 
-Procesos restaurativos Pueden aplicarse los procesos restaurativos a que se refiere esta Ley, o bien, que la persona adolescente, la víctima u ofendido y la comunidad afectada participen en programas individuales, bajo el principio de justicia restaurativa, establecido en este ordenamiento.
+Procesos restaurativos Pueden aplicarse los procesos restaurativos a que se refiere esta [Ley](articulo-3.md), o bien, que la persona adolescente, la víctima u ofendido y la comunidad afectada participen en programas individuales, bajo el principio de justicia restaurativa, establecido en este ordenamiento.

@@ -31,4 +31,4 @@ V.- Declaración en la que se indique que las emisiones a la atmósfera del veh�
 
 VI.- Las demás que se determinen en el programa de verificación.
 
-Cuando la constancia a que se refiere este artículo establezca que el vehículo de que se trate, no rebasa los niveles máximos permisibles previstos en las normas técnicas ecológicas aplicables, el original de dicha constancia deberá ser conservado por el propietario del vehículo. Copia de la misma deberá presentarse ante la Secretaría de Comunicaciones y Transportes, junto con los documentos necesarios para efectuar el trámite de revalidación de vigencia de la matrícula vehicular.
+Cuando la constancia a que se refiere este artículo establezca que el vehículo de que se trate, no rebasa los niveles máximos permisibles previstos en las normas técnicas ecológicas aplicables, el original de dicha constancia deberá ser conservado por el propietario del vehículo. Copia de la misma deberá presentarse ante la [Secretaría](articulo-6o.md) de Comunicaciones y Transportes, junto con los documentos necesarios para efectuar el trámite de revalidación de vigencia de la matrícula vehicular.

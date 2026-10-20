@@ -17,7 +17,7 @@ source_sha256: ea96e97cbea2fd1919af78b94cd3466ee20a77e05989be2d482d2eb8061618c5
 
 # Artículo 49
 
-Para satisfacer las solicitudes de inmuebles federales de dependencias, de las unidades administrativas de la Presidencia de la República y de las entidades, la Secretaría deberá: Párrafo reformado DOF 20-05-2021
+Para satisfacer las solicitudes de inmuebles federales de dependencias, de las unidades administrativas de la Presidencia de la República y de las entidades, la [Secretaría](articulo-2.md) deberá: Párrafo reformado DOF 20-05-2021
 
 I.- Revisar el Sistema de Información Inmobiliaria Federal y Paraestatal, para determinar la existencia de inmuebles federales disponibles parcial o totalmente;
 

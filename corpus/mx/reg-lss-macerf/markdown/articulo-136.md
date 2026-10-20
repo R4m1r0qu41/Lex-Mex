@@ -17,7 +17,7 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 136
 
-Se considerará como no presentada la solicitud de pago diferido o en parcialidades, cuando el patrón no anexe al formato autorizado por el Instituto, los documentos que señalan los artículos [133](articulo-133.md) y, en su caso, el 134 de este Reglamento, o no entregue en el plazo que le sea concedido, la documentación requerida por el Instituto.
+Se considerará como no presentada la solicitud de pago diferido o en parcialidades, cuando el patrón no anexe al formato autorizado por el [Instituto](../../lss/markdown/articulo-5-A.md), los documentos que señalan los artículos [133](articulo-133.md) y, en su caso, el 134 de este Reglamento, o no entregue en el plazo que le sea concedido, la documentación requerida por el Instituto.
 
 No se dará trámite a una solicitud de pago diferido o en parcialidades, cuando el patrón no continúe el trámite de autorización o haya incumplido una anterior, en un periodo de seis meses previos a la fecha de presentación de la solicitud.
 

@@ -19,4 +19,4 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 Legalidad Ninguna persona adolescente puede ser procesada ni sometida a medida alguna por actos u omisiones que, al tiempo de su ocurrencia, no estén previamente definidos de manera expresa como delitos en las leyes penales aplicables.
 
-La responsabilidad penal de una persona adolescente solamente podrá determinarse seguido el procedimiento establecido en la presente Ley. En caso de comprobarse la responsabilidad de la persona adolescente, el Órgano Jurisdiccional únicamente podrá sancionarla a cumplir las medidas de sanción señaladas en la presente Ley, conforme a las reglas y criterios establecidos para su determinación.
+La responsabilidad penal de una persona adolescente solamente podrá determinarse seguido el procedimiento establecido en la presente [Ley](articulo-3.md). En caso de comprobarse la responsabilidad de la persona adolescente, el [Órgano Jurisdiccional](articulo-3.md) únicamente podrá sancionarla a cumplir las medidas de sanción señaladas en la presente Ley, conforme a las reglas y criterios establecidos para su determinación.

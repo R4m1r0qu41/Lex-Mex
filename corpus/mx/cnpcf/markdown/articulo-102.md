@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo I
+
 # Artículo 102
 
 Cuando dos o más autoridades jurisdiccionales federales se nieguen a conocer de un determinado procedimiento, la parte interesada ocurrirá a la autoridad jurisdiccional que faculte la Ley Orgánica del Poder Judicial de la Federación, sin necesidad de agotar los recursos ordinarios, a fin de que ordene a los que se nieguen a conocer, que le envíen los expedientes en que se contengan sus respectivas resoluciones.

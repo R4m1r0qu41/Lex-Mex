@@ -17,4 +17,4 @@ source_sha256: 67309bf186af42de0f9e98010d38c89598676faea7f2b558ac9c9e6736d64d35
 
 # Artículo 46
 
-La realización de actividades para Aprovechamientos Geotérmicos Exentos requiere de un aviso previo al inicio de operaciones.
+La realización de actividades para [Aprovechamientos Geotérmicos Exentos](articulo-2.md) requiere de un aviso previo al inicio de operaciones.

@@ -17,7 +17,7 @@ source_sha256: ea96e97cbea2fd1919af78b94cd3466ee20a77e05989be2d482d2eb8061618c5
 
 # Artículo 55
 
-Cuando alguna dependencia o una de las unidades administrativas de la Presidencia de la República ejerza la posesión, control o administración a título de dueño, sobre un inmueble del que no exista inscripción en el Registro Público de la Propiedad que corresponda al lugar de su ubicación, el Ejecutivo Federal, por conducto de la Secretaría o la dependencia administradora de inmuebles de que se trate, podrá substanciar el siguiente procedimiento para expedir la declaratoria de que dicho bien forma parte del patrimonio de la Federación: Párrafo reformado DOF 20-05-2021
+Cuando alguna dependencia o una de las unidades administrativas de la Presidencia de la República ejerza la posesión, control o administración a título de dueño, sobre un inmueble del que no exista inscripción en el Registro Público de la Propiedad que corresponda al lugar de su ubicación, el Ejecutivo Federal, por conducto de la [Secretaría](articulo-2.md) o la dependencia administradora de inmuebles de que se trate, podrá substanciar el siguiente procedimiento para expedir la declaratoria de que dicho bien forma parte del patrimonio de la [Federación](articulo-2.md): Párrafo reformado DOF 20-05-2021
 
 I.- Se publicará en uno de los periódicos locales de mayor circulación del lugar donde se ubique el bien un aviso sobre el inicio del procedimiento, a fin de que los propietarios o poseedores de los predios colindantes del inmueble y, en general, las personas que tengan interés jurídico manifiesten lo que a su derecho convenga y aporten las pruebas pertinentes dentro de un plazo de quince días hábiles, contados a partir de la fecha de su publicación;
 

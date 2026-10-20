@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGTOC.pdf
 source_sha256: cf8a5d05500ddbe21885db4a8f1128cf95b3aaab95b7982a47aa33baea652361
 ---
 
-> Título SEGUNDO · Capítulo VII
+> Título Tercero · Capítulo Único
 
 # Artículo 433
 

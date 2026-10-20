@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGEEPA_MRETC_311
 source_sha256: 71c334347de911b670b7e920a44db19f2555f611203ec25d227733687972f424
 ---
 
+> Capítulo IV
+
 # Artículo 28
 
-La Secretaría negará la información solicitada si se encuentra en alguno de los supuestos contenidos en el artículo [159 Bis 4](../../lgeepa/markdown/articulo-159-BIS-4.md) de la Ley, o si ésta es considerada de carácter reservado o confidencial de conformidad con lo dispuesto por la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y su Reglamento, debiendo en cualquier caso señalar las razones que motivaron su negativa.
+La [Secretaría](articulo-3o.md) negará la información solicitada si se encuentra en alguno de los supuestos contenidos en el artículo [159 Bis 4](../../lgeepa/markdown/articulo-159-BIS-4.md) de la [Ley](articulo-3o.md), o si ésta es considerada de carácter reservado o confidencial de conformidad con lo dispuesto por la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y su Reglamento, debiendo en cualquier caso señalar las razones que motivaron su negativa.

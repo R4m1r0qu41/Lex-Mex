@@ -21,6 +21,6 @@ Se aplicará la pena de dos a veinte años de prisión y multa de cinco mil a ci
 
 II.- Reformar, destruir o impedir la integración de las instituciones constitucionales de la Federación, o su libre ejercicio; y
 
-III.- Separar o impedir el desempeño de su cargo a alguno de los altos funcionarios de la Federación mencionados en el artículo [2](articulo-2o.md)o. de la Ley de Responsabilidades de los Funcionarios y Empleados de la Federación, del Distrito Federal y de los Altos Funcionarios de los Estados. Fracción reformada DOF 23-12-1974
+III.- Separar o impedir el desempeño de su cargo a alguno de los altos funcionarios de la Federación mencionados en el artículo 2o. de la Ley de Responsabilidades de los Funcionarios y Empleados de la Federación, del Distrito Federal y de los Altos Funcionarios de los Estados. Fracción reformada DOF 23-12-1974
 
 Artículo reformado DOF 15-01-1951, 29-07-1970

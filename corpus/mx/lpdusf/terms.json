@@ -1,1 +1,101 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpdusf:term:usuario",
+    "term": "Usuario",
+    "instrument_id": "urn:lex-mx:federal:statute:lpdusf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lpdusf:article:2",
+    "fraction": "I",
+    "start_char": 48,
+    "end_char": 284,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpdusf:term:comision-nacional",
+    "term": "Comisión Nacional",
+    "instrument_id": "urn:lex-mx:federal:statute:lpdusf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lpdusf:article:2",
+    "fraction": "II",
+    "start_char": 284,
+    "end_char": 436,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpdusf:term:comisiones-nacionales",
+    "term": "Comisiones Nacionales",
+    "instrument_id": "urn:lex-mx:federal:statute:lpdusf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lpdusf:article:2",
+    "fraction": "III",
+    "start_char": 436,
+    "end_char": 619,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpdusf:term:institucion-financiera",
+    "term": "Institución Financiera",
+    "instrument_id": "urn:lex-mx:federal:statute:lpdusf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lpdusf:article:2",
+    "fraction": "IV",
+    "start_char": 619,
+    "end_char": 1710,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpdusf:term:junta",
+    "term": "Junta",
+    "instrument_id": "urn:lex-mx:federal:statute:lpdusf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lpdusf:article:2",
+    "fraction": "V",
+    "start_char": 1710,
+    "end_char": 1769,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpdusf:term:presidente",
+    "term": "Presidente",
+    "instrument_id": "urn:lex-mx:federal:statute:lpdusf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lpdusf:article:2",
+    "fraction": "VI",
+    "start_char": 1769,
+    "end_char": 1822,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpdusf:term:estatuto-organico",
+    "term": "Estatuto Orgánico",
+    "instrument_id": "urn:lex-mx:federal:statute:lpdusf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lpdusf:article:2",
+    "fraction": "VII",
+    "start_char": 1822,
+    "end_char": 1927,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpdusf:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:statute:lpdusf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lpdusf:article:2",
+    "fraction": "VIII",
+    "start_char": 1927,
+    "end_char": 1995,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpdusf:term:defensor",
+    "term": "Defensor",
+    "instrument_id": "urn:lex-mx:federal:statute:lpdusf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lpdusf:article:2",
+    "fraction": "IX",
+    "start_char": 1995,
+    "end_char": 2158,
+    "basis": "express_definition"
+  }
+]

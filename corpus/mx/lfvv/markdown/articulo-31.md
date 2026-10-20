@@ -17,4 +17,4 @@ source_sha256: 9ed842aa48bd26aee06dc45bbdbd65efcb32343c78040a5a5d091275bec38343
 
 # Artículo 31
 
-El Comité se reunirá por lo menos cuatro veces al año, o cuando tenga dos o más asuntos a tratar, pudiendo sesionar cuantas veces sea convocado por su Presidente. Las resoluciones se tomarán por los votos de dos terceras partes de los miembros presentes.
+El [Comité](articulo-2o.md) se reunirá por lo menos cuatro veces al año, o cuando tenga dos o más asuntos a tratar, pudiendo sesionar cuantas veces sea convocado por su Presidente. Las resoluciones se tomarán por los votos de dos terceras partes de los miembros presentes.

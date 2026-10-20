@@ -17,6 +17,6 @@ source_sha256: cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7
 
 # Artículo 50
 
-La cancelación del registro como Institución Financiera procederá con la revocación de la autorización para operar que haya emitido la autoridad competente, o en su caso, con el documento en el que conste su extinción, y en los demás casos que establezcan las leyes.
+La cancelación del registro como [Institución Financiera](articulo-2o.md) procederá con la revocación de la autorización para operar que haya emitido la autoridad competente, o en su caso, con el documento en el que conste su extinción, y en los demás casos que establezcan las leyes.
 
 Artículo reformado DOF 10-01-2014

@@ -17,4 +17,4 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 104
 
-Al recibir la solicitud el Instituto hará constar la fecha y hora de recepción; el número progresivo que le corresponda; el número de expediente; los documentos que la acompañan; el número de hojas, y, en su caso, el medio de recepción.
+Al recibir la solicitud el [Instituto](articulo-4.md) hará constar la fecha y hora de recepción; el número progresivo que le corresponda; el número de expediente; los documentos que la acompañan; el número de hojas, y, en su caso, el medio de recepción.

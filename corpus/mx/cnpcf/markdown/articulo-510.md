@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo II
+
 # Artículo 510
 
 Tanto en la demanda como en la contestación a la misma, en la vista que se dé con ésta a la actora y en su caso en la reconvención y en la contestación a ésta, así como desahogo de excepciones y defensas, las partes tienen la carga de actuar con precisión, indicando en los hechos si sucedieron ante testigos, citando los nombres de éstos y presentando todos los documentos relacionados con tales hechos. En los mismos escritos, las partes deben ofrecer todas sus pruebas, relacionándolas con los hechos que se pretendan probar. En el caso de que las pruebas ofrecidas sean contra la moral o el derecho, sobre hechos que no han sido controvertidos por las partes, sobre hechos imposibles o notoriamente inverosímiles, o no se hayan relacionado con los mismos, serán desechadas.

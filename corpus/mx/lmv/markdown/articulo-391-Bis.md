@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título XV · Capítulo II
+
 # Artículo 391 Bis
 
 Para tutelar el ejercicio del derecho de acceso a la información pública gubernamental, la [Comisión](articulo-2.md) ajustándose a los lineamientos que apruebe su Junta de Gobierno, deberá hacer del conocimiento del público en general, a través de su portal de Internet, las sanciones que al efecto imponga por infracciones a esta Ley o a las disposiciones que emanen de ella, para lo cual deberá señalar:

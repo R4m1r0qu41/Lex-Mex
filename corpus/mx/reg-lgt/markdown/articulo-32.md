@@ -17,6 +17,6 @@ source_sha256: 6680a58c98673518aee46582b3137d28987c275785d1f0c97295f0d89c4b692b
 
 # Artículo 32
 
-Para efecto de realizar y difundir los indicadores en materia turística a los que se refiere el artículo [4](../../lgt/markdown/articulo-4.md), fracción XI de la Ley, se crea el Sistema Estadístico, integrado por el conjunto de datos cuantitativos relativos al comportamiento económico de los Servicios Turísticos, así como de otras variables que impactan en la Actividad Turística, cuya integración, actualización y difusión permanente corresponde a la Secretaría.
+Para efecto de realizar y difundir los indicadores en materia turística a los que se refiere el artículo [4](../../lgt/markdown/articulo-4.md), fracción XI de la Ley, se crea el [Sistema Estadístico](articulo-2.md), integrado por el conjunto de datos cuantitativos relativos al comportamiento económico de los Servicios Turísticos, así como de otras variables que impactan en la Actividad Turística, cuya integración, actualización y difusión permanente corresponde a la Secretaría.
 
 Lo anterior, se realizará conforme a lo dispuesto en la Ley del Sistema Nacional de Información Estadística y Geográfica, y demás ordenamientos normativos que regulen la materia estadística.

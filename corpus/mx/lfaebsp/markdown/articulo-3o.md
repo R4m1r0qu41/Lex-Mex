@@ -17,9 +17,9 @@ source_sha256: 269e72195414406bcbd3e90ac40ec26e031a9ea519316c44ee30bdfdf3163059
 
 # Artículo 3o
 
-Para la Transferencia de los Bienes, activos o empresas al Instituto, las Entidades Transferentes deberán: Párrafo reformado DOF 09-08-2019
+Para la [Transferencia](articulo-2o.md) de los [Bienes](articulo-2o.md), activos o empresas al [Instituto](articulo-2o.md), las [Entidades Transferentes](articulo-2o.md) deberán: Párrafo reformado DOF 09-08-2019
 
-I.- Entregar acta que incluya inventario con la descripción y el estado en que se encuentren los Bienes, activos o empresas, señalando si se trata de Bienes propiedad o al cuidado de la Entidad Transferente, agregando original o copia certificada del documento en el que conste el título de propiedad o del que acredite la legítima posesión y la posibilidad de disponer de los Bienes. La Junta de Gobierno determinará los documentos adicionales que permitan realizar una Transferencia ordenada y transparente de los Bienes; Fracción reformada DOF 09-08-2019
+I.- Entregar acta que incluya inventario con la descripción y el estado en que se encuentren los Bienes, activos o empresas, señalando si se trata de Bienes propiedad o al cuidado de la Entidad Transferente, agregando original o copia certificada del documento en el que conste el título de propiedad o del que acredite la legítima posesión y la posibilidad de disponer de los Bienes. La [Junta de Gobierno](articulo-2o.md) determinará los documentos adicionales que permitan realizar una Transferencia ordenada y transparente de los Bienes; Fracción reformada DOF 09-08-2019
 
 II.- Identificar los bienes con sellos, marcas, cuños, fierros, señales u otros medios adecuados;
 

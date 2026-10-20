@@ -20,5 +20,3 @@ source_sha256: cf8a5d05500ddbe21885db4a8f1128cf95b3aaab95b7982a47aa33baea652361
 Lo dispuesto en esta Sección no modifica las disposiciones relativas al crédito prendario constituido en los certificados de depósito expedidos por los Almacenes Generales de Depósito, ni las contenidas en la Ley General de Organizaciones y Actividades Auxiliares del Crédito o en otras leyes especiales.
 
 Artículo reformado DOF 26-03-2024
-
-Sección Séptima De la prenda sin transmisión de posesión Sección adicionada DOF 23-05-2000

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo I
+
 # Artículo 646
 
 En el proveído que admita a trámite la autoridad jurisdiccional deberá indicarse a las personas adoptantes, preferentemente a través del principio de inmediación en audiencia videograbada, los requisitos que en contraste con los documentos exhibidos faltan de cumplimentar según las leyes aplicables al procedimiento pretendido.

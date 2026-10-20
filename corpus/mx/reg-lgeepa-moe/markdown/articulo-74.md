@@ -17,4 +17,4 @@ source_sha256: d25fabb2d2e90d9f76028717f83c442d05a4f64024f13461285bda8ebd389a04
 
 # Artículo 74
 
-La Procuraduría, podrá convenir con los gobiernos de los estados, el Distrito Federal, sus municipios y sus delegaciones, respectivamente, la participación en los actos de inspección y vigilancia de los procesos de ordenamiento ecológico regionales locales.
+La [Procuraduría](articulo-3o.md), podrá convenir con los gobiernos de los estados, el Distrito Federal, sus municipios y sus delegaciones, respectivamente, la participación en los actos de inspección y vigilancia de los procesos de ordenamiento ecológico regionales locales.

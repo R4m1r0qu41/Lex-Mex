@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 205
 
-Las Sociedades Financieras Populares deberán informar al público, por lo menos una vez al año, junto con sus estados financieros de cierre del ejercicio, y con mayor periodicidad si las condiciones del mercado así lo requieren, la información relativa a:
+Las [Sociedades](articulo-1.md) Financieras Populares deberán informar al público, por lo menos una vez al año, junto con sus estados financieros de cierre del ejercicio, y con mayor periodicidad si las condiciones del mercado así lo requieren, la información relativa a:
 
 I. La estructura de su capital, incluyendo sus componentes, términos y principales características, así como su nivel de suficiencia de capital respecto a los requerimientos, y
 

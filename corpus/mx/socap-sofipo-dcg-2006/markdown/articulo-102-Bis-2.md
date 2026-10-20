@@ -18,11 +18,11 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 102 Bis 2
 
-Las Sociedades Financieras Populares, para efectos de obtener los requerimientos de capitalización por riesgo de crédito conforme a lo establecido en el presente Sub Apartado y, previamente a la ponderación por riesgo de crédito, deberán determinar un valor de conversión a riesgo crediticio, conforme a lo siguiente:
+Las [Sociedades](articulo-1.md) Financieras Populares, para efectos de obtener los requerimientos de capitalización por riesgo de crédito conforme a lo establecido en el presente Sub Apartado y, previamente a la ponderación por riesgo de crédito, deberán determinar un valor de conversión a riesgo crediticio, conforme a lo siguiente:
 
 I. Tratándose de aperturas de líneas de crédito irrevocables, tendrán un factor de conversión a riesgo de crédito de 50 por ciento sobre el monto no dispuesto de la línea de crédito irrevocable.
 
-II. En operaciones de reporto, el valor de conversión a riesgo de crédito será igual al 100 por ciento respecto del importe positivo que resulte de restar al saldo del deudor por reporto, el correspondiente valor razonable del colateral recibido en cada operación, a que se refieren los Criterios Contables de las disposiciones aplicables a las Sociedades Financieras Populares, según corresponda. En todo caso, para efectos de la determinación del valor de conversión a riesgo de crédito ajustado por el valor razonable del colateral recibido en dicha operación, las Sociedades Financieras Populares deberán ajustar dicho valor de conformidad con la siguiente fórmula:
+II. En operaciones de reporto, el valor de conversión a riesgo de crédito será igual al 100 por ciento respecto del importe positivo que resulte de restar al saldo del deudor por reporto, el correspondiente valor razonable del colateral recibido en cada operación, a que se refieren los [Criterios Contables](articulo-1.md) de las disposiciones aplicables a las Sociedades Financieras Populares, según corresponda. En todo caso, para efectos de la determinación del valor de conversión a riesgo de crédito ajustado por el valor razonable del colateral recibido en dicha operación, las Sociedades Financieras Populares deberán ajustar dicho valor de conformidad con la siguiente fórmula:
 
 Donde:
 

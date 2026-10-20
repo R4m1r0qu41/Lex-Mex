@@ -15,4 +15,4 @@ source_sha256: bcc21844355854fe331c842c21436d721d6c2856b5c5986715fe39f4a845b317
 
 # VIGÉSIMO PRIMERO
 
-Para la atención, promoción y supervisión de los derechos de los usuarios previstos en la Ley Federal de Telecomunicaciones y Radiodifusión, y en la Ley Federal de Protección al Consumidor, la PROFECO deberá crear un área especializada con nivel no inferior a Subprocuraduría, así como la estructura necesaria para ello, conforme al presupuesto que le apruebe la Cámara de Diputados para tal efecto.
+Para la atención, promoción y supervisión de los derechos de los usuarios previstos en la [Ley](articulo-2.md) Federal de Telecomunicaciones y Radiodifusión, y en la Ley Federal de Protección al Consumidor, la PROFECO deberá crear un área especializada con nivel no inferior a Subprocuraduría, así como la estructura necesaria para ello, conforme al presupuesto que le apruebe la Cámara de Diputados para tal efecto.

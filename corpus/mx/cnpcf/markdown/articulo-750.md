@@ -13,8 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Primero · Capítulo I
+
 # Artículo 750
 
 Los gastos de inventario y avalúo son a cargo de la masa hereditaria, salvo que se hubiere dispuesto otra cosa en el testamento.
-
-Sección Cuarta De la Administración y Rendición de Cuentas

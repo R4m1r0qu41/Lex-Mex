@@ -17,4 +17,4 @@ source_sha256: 1405f36fd836ff74d059ebe7e50ae439cbb9e5e291a317514667f34a26f72a23
 
 # Artículo 88
 
-Los permisos caducan si las personas Permisionarias: I. No ejercen los derechos conferidos en el título del permiso de acuerdo con lo siguiente: a) En el plazo que para tal efecto se establezca en el permiso, o b) A falta de plazo, por un periodo consecutivo de trescientos sesenta y cinco días naturales; II. Se ubican en los demás supuestos de caducidad previstos en el permiso respectivo.
+Los permisos caducan si las personas [Permisionarias](articulo-5.md): I. No ejercen los derechos conferidos en el título del permiso de acuerdo con lo siguiente: a) En el plazo que para tal efecto se establezca en el permiso, o b) A falta de plazo, por un periodo consecutivo de trescientos sesenta y cinco días naturales; II. Se ubican en los demás supuestos de caducidad previstos en el permiso respectivo.

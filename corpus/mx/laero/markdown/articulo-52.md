@@ -17,6 +17,6 @@ source_sha256: c78882a0177403ee04cd38dd09fa1657dc221b7f6827ddacf251c699ede867e4
 
 # Artículo 52
 
-Las personas prestadoras de servicios aeroportuarios y complementarios, distintas de las personas concesionarias, asignatarias o permisionarias, por el hecho de suscribir el contrato respectivo, son responsables solidarias con éstas, ante la Agencia Federal de Aviación Civil, del cumplimiento de las obligaciones derivadas de dicho contrato, relacionadas con el servicio prestado y consignadas en el título de concesión, asignación o permiso respectivos.
+Las personas prestadoras de servicios aeroportuarios y complementarios, distintas de las personas concesionarias, asignatarias o permisionarias, por el hecho de suscribir el contrato respectivo, son responsables solidarias con éstas, ante la [Agencia Federal de Aviación Civil](articulo-2.md), del cumplimiento de las obligaciones derivadas de dicho contrato, relacionadas con el servicio prestado y consignadas en el título de concesión, asignación o permiso respectivos.
 
 Artículo reformado DOF 03-05-2023

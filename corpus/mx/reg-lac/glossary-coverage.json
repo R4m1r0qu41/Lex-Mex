@@ -1,0 +1,35 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-3",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
+  "source_sha256": "4dcf5277184d5f5c5cc1c8ae2dfa196134b472d883eb2806c7bac27cd77eda7d",
+  "extracted_text_sha256": "423e80446bbb15196d70c7dc23c3958b941a7922512a8c0d0716fb5190821c7a",
+  "status": "detected",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:2",
+      "provision_text_sha256": "43c80f6b3c558616951f3c1eaab14f146ed33a5f7eb7e6f4680722ef2238724d",
+      "method": "established_pass",
+      "fractions": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "IX Bis",
+        "X",
+        "XI",
+        "XII"
+      ],
+      "unread_fractions": [],
+      "term_count": 13
+    }
+  ],
+  "imports": [],
+  "term_count": 13,
+  "usage_count": 152
+}

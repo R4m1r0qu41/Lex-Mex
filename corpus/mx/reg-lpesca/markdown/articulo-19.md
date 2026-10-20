@@ -17,4 +17,4 @@ source_sha256: e5c0ecb4328043b7090ee5d73e982d6a04410f1330f6fdb350a7a34527eb2e59
 
 # Artículo 19
 
-La Secretaría, por conducto del Instituto Nacional de la Pesca, en coordinación con las dependencias competentes de la Administración Pública Federal, recabará la información técnica y científica para mantener actualizada la Carta Nacional Pesquera.
+La [Secretaría](articulo-2o.md), por conducto del Instituto Nacional de la Pesca, en coordinación con las dependencias competentes de la Administración Pública Federal, recabará la información técnica y científica para mantener actualizada la Carta Nacional Pesquera.

@@ -17,7 +17,7 @@ source_sha256: cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7
 
 # Artículo 7o
 
-Las notificaciones que realice la Comisión Nacional podrán efectuarse electrónicamente mediante los sistemas que la misma señale en las disposiciones de carácter general que al efecto emita. En lo no previsto en las disposiciones señaladas en el presente párrafo respecto de las notificaciones electrónicas, así como en el caso en que no sea posible la notificación a través de dicha vía, será aplicable el Código Fiscal de la Federación en la parte relativa a las notificaciones. Párrafo reformado DOF 24-01-2024
+Las notificaciones que realice la [Comisión Nacional](articulo-2o.md) podrán efectuarse electrónicamente mediante los sistemas que la misma señale en las disposiciones de carácter general que al efecto emita. En lo no previsto en las disposiciones señaladas en el presente párrafo respecto de las notificaciones electrónicas, así como en el caso en que no sea posible la notificación a través de dicha vía, será aplicable el Código Fiscal de la Federación en la parte relativa a las notificaciones. Párrafo reformado DOF 24-01-2024
 
 Todas las actuaciones deberán practicarse en días y horas hábiles. Serán días hábiles, todos los días del año, salvo sábados y domingos, así como los que determine la Comisión Nacional, mediante publicación que realice en el Diario Oficial de la Federación. Serán horas hábiles las comprendidas entre las nueve y las dieciocho horas. Párrafo adicionado DOF 24-01-2024
 

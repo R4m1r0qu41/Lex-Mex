@@ -17,9 +17,9 @@ source_sha256: cf47ab93fdea40d2b3e41b58784df62f89dd90b4482dd3b7f25adc7f6957036b
 
 # Artículo 7o
 
-Compete a la Secretaría: REGLAMENTO DE LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE EN MATERIA DE PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DE LA ATMÓSFERA I.- Formular los criterios ecológicos generales que deberán observarse en la prevención y control de la contaminación de la atmósfera, sin perjuicio de los de carácter particular que se formulen en cada Entidad Federativa, por las autoridades locales competentes;
+Compete a la [Secretaría](articulo-6o.md): I.- Formular los criterios ecológicos generales que deberán observarse en la prevención y control de la contaminación de la atmósfera, sin perjuicio de los de carácter particular que se formulen en cada Entidad Federativa, por las autoridades locales competentes;
 
-II.- Expedir las normas técnicas ecológicas, en las materias objeto del Reglamento, con las dependencias que correspondan, en los términos de la Ley del propio Reglamento;
+II.- Expedir las normas técnicas ecológicas, en las materias objeto del [Reglamento](articulo-6o.md), con las dependencias que correspondan, en los términos de la [Ley](articulo-6o.md) del propio Reglamento;
 
 III.- Expedir las normas técnicas ecológicas que deberán incorporarse a las normas oficiales mexicanas que en su caso se establezcan para productos utilizados como combustibles o energéticos;
 
@@ -43,7 +43,7 @@ XII.- Promover ante las autoridades competentes que en la determinación de usos
 
 XIII.- Promover en coordinación con los Gobiernos de los Estados y Municipios, el establecimiento de sistemas de verificación del parque vehicular;
 
-XIV.- Propiciar el fortalecimiento de la conciencia ecológica, a través de los medios de comunicación masiva y promover la participación social para la prevención y control de la contaminación a la atmósfera; REGLAMENTO DE LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE EN MATERIA DE PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DE LA ATMÓSFERA XV.- Prestar asistencia técnica a los gobiernos del Distrito Federal, de los Estados y de los Municipios, cuando así lo soliciten, para la prevención y control de la contaminación de la atmósfera generada en zonas o por fuentes de jurisdicción local;
+XIV.- Propiciar el fortalecimiento de la conciencia ecológica, a través de los medios de comunicación masiva y promover la participación social para la prevención y control de la contaminación a la atmósfera; XV.- Prestar asistencia técnica a los gobiernos del Distrito Federal, de los Estados y de los Municipios, cuando así lo soliciten, para la prevención y control de la contaminación de la atmósfera generada en zonas o por fuentes de jurisdicción local;
 
 XVI.- Dictaminar sobre el otorgamiento de estímulos fiscales en los casos previstos por el artículo 12 del Reglamento;
 

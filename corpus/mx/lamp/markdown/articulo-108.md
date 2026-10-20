@@ -33,4 +33,4 @@ VI. Los preceptos que, conforme al artículo [1](articulo-1o.md)o de esta Ley, c
 
 VII. Si el amparo se promueve con fundamento en la fracción II del artículo [1](articulo-1o.md)o. de esta Ley, deberá precisarse la facultad reservada a los estados u otorgada a la Ciudad de México que haya sido invadida por la autoridad federal; si el amparo se promueve con apoyo en la fracción III de dicho artículo, se señalará el precepto de la Constitución General de la República que contenga la facultad de la autoridad federal que haya sido vulnerada o restringida, y Fracción reformada DOF 13-03-2025
 
-VIII. Los conceptos de violación. LEY DE AMPARO, REGLAMENTARIA DE LOS ARTÍCULOS [103](../../cpeum/markdown/articulo-103.md) Y [107](../../cpeum/markdown/articulo-107.md) DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
+VIII. Los conceptos de violación.

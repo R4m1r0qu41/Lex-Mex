@@ -17,4 +17,4 @@ source_sha256: 667636f9e0ea65e72ac9d6d7b4d7563a183b75d0f140268a61929c74f5f88041
 
 # Artículo 53
 
-La CIBIOGEM elaborará y publicará en su portal de Internet un informe anual de la situación general existente en el país en materia de bioseguridad, considerando al menos las estadísticas derivadas de la información comprendida en el Registro sobre solicitudes, permisos, autorizaciones y avisos, así como aquella información sobre las acciones implementadas en cumplimiento del Protocolo de Cartagena.
+La CIBIOGEM elaborará y publicará en su portal de Internet un informe anual de la situación general existente en el país en materia de bioseguridad, considerando al menos las estadísticas derivadas de la información comprendida en el Registro sobre solicitudes, permisos, autorizaciones y avisos, así como aquella información sobre las acciones implementadas en cumplimiento del [Protocolo de Cartagena](articulo-2.md).

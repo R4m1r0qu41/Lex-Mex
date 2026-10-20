@@ -29,7 +29,9 @@ III. Se deroga. Fracción reformada DOF 09-06-1992. Derogada DOF 23-07-1993
 
 IV. Se deroga. Fracción adicionada DOF 09-06-1992. Reformada DOF 23-12-1993. Derogada DOF 18-07-2006
 
-V. Las Sociedades Cooperativas de Ahorro y Préstamo a que se refiere la Ley General de Sociedades Cooperativas. Fracción adicionada DOF 13-08-2009 VI. Las asociaciones y sociedades, así como los grupos de personas físicas que capten recursos exclusivamente de sus asociados, socios o integrantes, respectivamente, para su colocación entre éstos, que cumplan con los requisitos siguientes:
+V. Las Sociedades Cooperativas de Ahorro y Préstamo a que se refiere la Ley General de Sociedades Cooperativas. Fracción adicionada DOF 13-08-2009
+
+VI. Las asociaciones y sociedades, así como los grupos de personas físicas que capten recursos exclusivamente de sus asociados, socios o integrantes, respectivamente, para su colocación entre éstos, que cumplan con los requisitos siguientes:
 
 a) La colocación y entrega de los recursos captados por las asociaciones y sociedades, así como por los grupos de personas físicas citados, sólo podrá llevarse a cabo a través de alguna persona integrante de la propia asociación, Sociedad o grupo de personas físicas;
 

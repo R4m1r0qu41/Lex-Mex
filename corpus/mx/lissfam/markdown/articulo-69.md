@@ -21,7 +21,7 @@ El seguro de vida militar comprende el régimen potestativo, el cual se regula c
 
 Los militares que obtengan licencia especial o que causen baja del activo y alta en situación de retiro con compensación, podrán acogerse a los beneficios del régimen potestativo bajo las bases siguientes:
 
-I. Deberán manifestar por escrito al Instituto su deseo de acogerse al mencionado seguro, dentro de los treinta días siguientes a la fecha en que causen alta en situación de retiro o de la fecha a partir de la que inicie la licencia, según sea el caso;
+I. Deberán manifestar por escrito al [Instituto](articulo-4o.md) su deseo de acogerse al mencionado seguro, dentro de los treinta días siguientes a la fecha en que causen alta en situación de retiro o de la fecha a partir de la que inicie la licencia, según sea el caso;
 
 II. El Instituto pagará por concepto de suma asegurada con motivo de su fallecimiento, cuarenta meses del haber y sobrehaber mínimo vigente de su grado para las fuerzas armadas, cantidad que será cubierta directamente a sus beneficiarios, siempre y cuando el militar haya estado al corriente en el pago de la prima, y
 

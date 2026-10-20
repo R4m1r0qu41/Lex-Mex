@@ -19,4 +19,4 @@ El concesionario o permisionario es responsable de la realización de obras y tr
 
 El concesionario o permisionario debe designar a un encargado de las obras, quien debe tener la capacidad y experiencia necesarias para llevar a cabo los trabajos correspondientes y supervisar que se cumplan con las medidas de seguridad aplicables.
 
-En caso de que las construcciones, reconstrucciones o ampliaciones no cumplan con las condiciones técnicas o de seguridad, la Secretaría puede ordenar al concesionario o permisionario la suspensión, modificación, demolición y, en su caso, la reconstrucción de la obra respectiva, las cuales serán a cargo y por cuenta de estos últimos.
+En caso de que las construcciones, reconstrucciones o ampliaciones no cumplan con las condiciones técnicas o de seguridad, la [Secretaría](articulo-2.md) puede ordenar al concesionario o permisionario la suspensión, modificación, demolición y, en su caso, la reconstrucción de la obra respectiva, las cuales serán a cargo y por cuenta de estos últimos.

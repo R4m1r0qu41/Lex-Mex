@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf
 source_sha256: ca63a23a4b7444ebdbdad93759fbf46bd14c069e587c5878decf89fc9c12ca8e
 ---
 
+> Título Primero · Capítulo I
+
 # Artículo 21
 
 La investigación de los delitos corresponde al Ministerio Público, a la secretaría del ramo de seguridad pública del Ejecutivo Federal, a la Guardia Nacional y a las policías, en el ámbito de su competencia, las cuales actuarán bajo la conducción y mando de aquél en el ejercicio de esta función. Párrafo reformado DOF 30-09-2024, 31-12-2024

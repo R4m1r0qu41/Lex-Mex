@@ -15,7 +15,7 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # NOVENO
 
-Los patrones inscritos en el Instituto antes de la entrada en vigor de esta Ley continuarán sujetos hasta el primer bimestre de 1998 a las mismas cuotas que venían cubriendo en el seguro de riegos de trabajo.
+Los patrones inscritos en el [Instituto](articulo-5-A.md) antes de la entrada en vigor de esta [Ley](articulo-5-A.md) continuarán sujetos hasta el primer bimestre de 1998 a las mismas cuotas que venían cubriendo en el seguro de riegos de trabajo.
 
 A partir del segundo bimestre de 1998, estos patrones deberán determinar su prima conforme a su siniestralidad registrada del periodo comprendido del 1 de enero al 31 de diciembre de 1997.
 

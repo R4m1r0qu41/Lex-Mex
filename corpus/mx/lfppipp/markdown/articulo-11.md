@@ -17,11 +17,11 @@ source_sha256: 2a105e5201b86ff5517ca1ef8d971224ea8c717f195fdd5fa28b916c7e622e56
 
 # Artículo 11
 
-Los agentes de la Policía Federal Ministerial adscritos a la Unidad tendrán las siguientes atribuciones:
+Los agentes de la Policía Federal Ministerial adscritos a la [Unidad](articulo-2.md) tendrán las siguientes atribuciones:
 
-I. Ejecutar las Medidas de Protección dictadas por el Director.
+I. Ejecutar las [Medidas de Protección](articulo-2.md) dictadas por el [Director](articulo-2.md).
 
-II. Colaborar en la realización del Estudio Técnico.
+II. Colaborar en la realización del [Estudio Técnico](articulo-2.md).
 
 III. Realizar sus actividades con respeto a los derechos humanos.
 
@@ -29,6 +29,6 @@ IV. Guardar secrecía de las cuestiones que tuvieran conocimiento con motivo del
 
 V. Garantizar la protección de la integridad física y psicológica de la persona bajo su cuidado o custodia.
 
-VI. Informar de forma inmediata al Director de cualquier incumplimiento de las obligaciones de la Persona Protegida.
+VI. Informar de forma inmediata al Director de cualquier incumplimiento de las obligaciones de la [Persona Protegida](articulo-2.md).
 
-VII. Las demás que disponga el Director para el cumplimiento de la presente Ley.
+VII. Las demás que disponga el Director para el cumplimiento de la presente [Ley](articulo-2.md).

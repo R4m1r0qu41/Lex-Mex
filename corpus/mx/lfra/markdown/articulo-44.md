@@ -21,4 +21,4 @@ Las sentencias y convenios derivados del procedimiento judicial de responsabilid
 
 SECCIÓN 5
 
-Del Fondo
+Del [Fondo](articulo-2o.md)

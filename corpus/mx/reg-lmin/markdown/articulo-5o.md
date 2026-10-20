@@ -17,6 +17,6 @@ source_sha256: 4d25bcb022ab62a24462e11a230c9554c0120012913ab4599cd3ec1b2b275c1d
 
 # Artículo 5o
 
-La representación ante la Secretaría, se acreditará conforme a lo dispuesto por la Ley Federal de Procedimiento Administrativo y a la normatividad aplicable tratándose de los pueblos y comunidades indígenas.
+La representación ante la [Secretaría](articulo-1o.md), se acreditará conforme a lo dispuesto por la [Ley](articulo-1o.md) Federal de Procedimiento Administrativo y a la normatividad aplicable tratándose de los pueblos y comunidades indígenas.
 
 Cuando dos o más personas sean cosolicitantes de una concesión minera, deberán manifestar los porcentajes de participación que a cada una corresponda y designar un representante común responsable ante la Secretaría para la realización de los trámites subsecuentes; a falta de ello, se entenderá que es en partes iguales y tendrá al primero de los mencionados en la solicitud como dicho representante común.

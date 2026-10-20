@@ -17,4 +17,4 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 97
 
-El Instituto podrá incorporar al régimen del Seguro de Salud para la Familia, en condiciones iguales a las de los familiares adicionales, a una sola persona, cuando ésta manifiesta bajo protesta de decir verdad que carece de familia, sin que opere para ello lo establecido en el último párrafo del artículo [242](../../lss/markdown/articulo-242.md) de la Ley.
+El [Instituto](../../lss/markdown/articulo-5-A.md) podrá incorporar al régimen del Seguro de Salud para la Familia, en condiciones iguales a las de los familiares adicionales, a una sola persona, cuando ésta manifiesta bajo protesta de decir verdad que carece de familia, sin que opere para ello lo establecido en el último párrafo del artículo [242](../../lss/markdown/articulo-242.md) de la [Ley](../../lss/markdown/articulo-5-A.md).

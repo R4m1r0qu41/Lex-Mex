@@ -17,9 +17,9 @@ source_sha256: 269e72195414406bcbd3e90ac40ec26e031a9ea519316c44ee30bdfdf3163059
 
 # Artículo 36
 
-El Instituto podrá vender los Bienes que le sean transferidos, a excepción de aquellos Bienes que deban conservarse por determinación judicial, cuando el precio sea igual o superior al determinado por un avalúo vigente, o bien sea el ofrecido por el mercado, siempre y cuando, en este último supuesto, la venta se realice mediante los procedimientos de licitación pública o subasta. Tratándose del procedimiento de remate, se estará a lo dispuesto por los artículos [57](articulo-57.md), [59](articulo-59.md) y [60](articulo-60.md) de este ordenamiento.
+El [Instituto](articulo-2o.md) podrá vender los [Bienes](articulo-2o.md) que le sean transferidos, a excepción de aquellos Bienes que deban conservarse por determinación judicial, cuando el precio sea igual o superior al determinado por un avalúo vigente, o bien sea el ofrecido por el mercado, siempre y cuando, en este último supuesto, la venta se realice mediante los procedimientos de licitación pública o subasta. Tratándose del procedimiento de remate, se estará a lo dispuesto por los artículos [57](articulo-57.md), [59](articulo-59.md) y [60](articulo-60.md) de este ordenamiento.
 
-Cuando se requieran avalúos, éstos serán practicados por el Instituto o por peritos, instituciones de crédito, agentes especializados o corredores públicos y deberán consignar al menos el valor comercial y el de realización inmediata, en los términos que determine la Junta de Gobierno.
+Cuando se requieran avalúos, éstos serán practicados por el Instituto o por peritos, instituciones de crédito, agentes especializados o corredores públicos y deberán consignar al menos el valor comercial y el de realización inmediata, en los términos que determine la [Junta de Gobierno](articulo-2o.md).
 
 El Instituto estará facultado para mantener en reserva el precio base de venta hasta el acto de presentación de ofertas de compra, en aquellos casos en que se considere que dicha reserva coadyuvará a estimular la competitividad entre los interesados y a maximizar el precio de venta.
 

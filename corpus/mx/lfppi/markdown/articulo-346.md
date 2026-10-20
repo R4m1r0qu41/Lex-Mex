@@ -17,6 +17,6 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 346
 
-La persona contra la que se haya adoptado las medidas a que se refiere el artículo [344](articulo-344.md) de esta Ley, podrá exhibir contrafianza para responder de la afectación que se causen a la persona solicitante de la misma a efecto de obtener su levantamiento. Párrafo reformado DOF 03-04-2026
+La persona contra la que se haya adoptado las medidas a que se refiere el artículo [344](articulo-344.md) de esta [Ley](articulo-4.md), podrá exhibir contrafianza para responder de la afectación que se causen a la persona solicitante de la misma a efecto de obtener su levantamiento. Párrafo reformado DOF 03-04-2026
 
-Para resolver si procede levantar las medidas el Instituto, considerando la apariencia del buen derecho y con los elementos que le proporcionen las partes, deberá analizar y ponderar si la afectación que podría sufrir la persona a quien se le impusieron las medidas es mayor a la que se pueden provocar a la persona que las solicite y que no se afecten al orden público o interés general.
+Para resolver si procede levantar las medidas el [Instituto](articulo-4.md), considerando la apariencia del buen derecho y con los elementos que le proporcionen las partes, deberá analizar y ponderar si la afectación que podría sufrir la persona a quien se le impusieron las medidas es mayor a la que se pueden provocar a la persona que las solicite y que no se afecten al orden público o interés general.

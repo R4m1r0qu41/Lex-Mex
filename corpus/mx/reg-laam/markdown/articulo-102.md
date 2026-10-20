@@ -17,6 +17,6 @@ source_sha256: 8515c812258bcc7c342e8566ff623c7f5e880f2eb9ee2ad154758077089f11ca
 
 # Artículo 102
 
-La calificación del examen de lengua extranjera se graduará en la escala de 0 a 100 puntos y será evaluada conforme a las directivas que emita la Jefatura de Operaciones.
+La calificación del examen de lengua extranjera se graduará en la escala de 0 a 100 puntos y será evaluada conforme a las directivas que emita la [Jefatura de Operaciones](articulo-5.md).
 
 Artículo reformado DOF 22-09-2010, 02-04-2026

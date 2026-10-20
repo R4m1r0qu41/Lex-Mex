@@ -17,4 +17,4 @@ source_sha256: 35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc
 
 # Artículo 68
 
-En ningún caso se podrá disponer, para fines distintos de los que expresamente determina esta Ley, del dinero o bienes afectos al fondo del seguro de vida militar.
+En ningún caso se podrá disponer, para fines distintos de los que expresamente determina esta [Ley](articulo-4o.md), del dinero o bienes afectos al fondo del seguro de vida militar.

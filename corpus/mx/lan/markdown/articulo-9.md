@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAN.pdf
 source_sha256: 4ef50d6b4b3a6ad0378720c5d49463b4f17d70d9de39f895ed5dae4d2e21736d
 ---
 
-> Título SEGUNDO
+> Título SEGUNDO · Capítulo III
 
 # Artículo 9
 
@@ -33,7 +33,9 @@ Son atribuciones de "la Comisión" en su Nivel Nacional, las siguientes:
 
 I. Fungir como la Autoridad en materia de la cantidad y de la calidad de las aguas y su gestión en el territorio nacional y ejercer en consecuencia aquellas atribuciones que conforme a la presente Ley corresponden a la autoridad en materia hídrica, dentro del ámbito de la competencia federal, con apego a la descentralización del sector agua, excepto las que debe ejercer directamente el Ejecutivo Federal o "la Secretaría" y las que estén bajo la responsabilidad de los Gobiernos de los estados, de la Ciudad de México o municipios; Fracción reformada DOF 11-12-2025
 
-II. Formular la política hídrica nacional y proponerla a la persona Titular del Poder Ejecutivo Federal, por conducto de "la Secretaría", así como dar seguimiento y evaluar de manera periódica el cumplimiento de dicha política; Fracción reformada DOF 11-12-2025 III. Integrar, formular y proponer a la persona Titular del Poder Ejecutivo Federal, el Programa Nacional Hídrico, actualizarlo y vigilar su cumplimiento; Fracción reformada DOF 11-12-2025
+II. Formular la política hídrica nacional y proponerla a la persona Titular del Poder Ejecutivo Federal, por conducto de "la Secretaría", así como dar seguimiento y evaluar de manera periódica el cumplimiento de dicha política; Fracción reformada DOF 11-12-2025
+
+III. Integrar, formular y proponer a la persona Titular del Poder Ejecutivo Federal, el Programa Nacional Hídrico, actualizarlo y vigilar su cumplimiento; Fracción reformada DOF 11-12-2025
 
 IV. Elaborar programas especiales de carácter interregional e intercuencas en materia de aguas nacionales;
 
@@ -51,7 +53,9 @@ X. Apoyar, concesionar, contratar, convenir y normar las obras de infraestructur
 
 XI. Operar, conservar y mantener obras y servicios hidráulicos rurales y urbanos cuando la persona Titular del Ejecutivo Federal así lo disponga en casos de seguridad nacional o de carácter estratégico de conformidad con las Leyes en la materia; Fracción reformada DOF 11-12-2025
 
-XII. Participar en la concertación de créditos y otros mecanismos financieros, incluso sobre la participación de terceros en el financiamiento de obras y servicios, que apoyen la construcción y el desarrollo de las obras y servicios federales hidráulicos; igualmente podrá fomentar y apoyar gestiones de crédito y otros mecanismos financieros en favor de estados, de la Ciudad de México y municipios conforme a sus atribuciones y a solicitud de parte; Fracción reformada DOF 11-12-2025 XIII. Fomentar y apoyar los servicios públicos urbanos y rurales de agua potable, alcantarillado, saneamiento, recirculación y reúso en el territorio nacional, para lo cual se coordinará en lo conducente con los Gobiernos de los estados, y a través de éstos, con los municipios. Esto no afectará las disposiciones, facultades y responsabilidades municipales y estatales, en la coordinación y prestación de los servicios referidos;
+XII. Participar en la concertación de créditos y otros mecanismos financieros, incluso sobre la participación de terceros en el financiamiento de obras y servicios, que apoyen la construcción y el desarrollo de las obras y servicios federales hidráulicos; igualmente podrá fomentar y apoyar gestiones de crédito y otros mecanismos financieros en favor de estados, de la Ciudad de México y municipios conforme a sus atribuciones y a solicitud de parte; Fracción reformada DOF 11-12-2025
+
+XIII. Fomentar y apoyar los servicios públicos urbanos y rurales de agua potable, alcantarillado, saneamiento, recirculación y reúso en el territorio nacional, para lo cual se coordinará en lo conducente con los Gobiernos de los estados, y a través de éstos, con los municipios. Esto no afectará las disposiciones, facultades y responsabilidades municipales y estatales, en la coordinación y prestación de los servicios referidos;
 
 XIV. Fomentar y apoyar el desarrollo de los sistemas de agua potable y alcantarillado; los de saneamiento, tratamiento y reúso de aguas; los de riego o drenaje y los de control de avenidas y protección contra inundaciones en los casos previstos en la fracción IX del presente Artículo; contratar, concesionar o descentralizar la prestación de los servicios que sean de su competencia o que así convenga con los Gobiernos Estatales y, por conducto de éstos, con los Municipales, o con terceros;
 

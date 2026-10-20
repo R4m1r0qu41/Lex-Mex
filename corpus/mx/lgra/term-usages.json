@@ -361,6 +361,33 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:6:term-usage:209-234",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:personas-servidoras-publicas",
+    "span": "Persona Servidora Pública",
+    "start_char": 209,
+    "end_char": 234
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:7:term-usage:4-32",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:personas-servidoras-publicas",
+    "span": "Personas Servidoras Públicas",
+    "start_char": 4,
+    "end_char": 32
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:7:term-usage:407-435",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:personas-servidoras-publicas",
+    "span": "Personas Servidoras Públicas",
+    "start_char": 407,
+    "end_char": 435
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgra:article:7:term-usage:2074-2086",
     "provision_id": "urn:lex-mx:federal:statute:lgra:article:7",
     "term_id": "urn:lex-mx:federal:statute:lgra:term:constitucion",
@@ -421,6 +448,15 @@
     "span": "Tribunales",
     "start_char": 276,
     "end_char": 286
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:9:term-usage:351-379",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:personas-servidoras-publicas",
+    "span": "Personas Servidoras Públicas",
+    "start_char": 351,
+    "end_char": 379
   },
   {
     "schema_version": "0.1.0",
@@ -784,6 +820,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:16:term-usage:4-32",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:personas-servidoras-publicas",
+    "span": "Personas Servidoras Públicas",
+    "start_char": 4,
+    "end_char": 32
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgra:article:16:term-usage:139-150",
     "provision_id": "urn:lex-mx:federal:statute:lgra:article:16",
     "term_id": "urn:lex-mx:federal:statute:lgra:term:secretaria",
@@ -808,6 +853,15 @@
     "span": "Sistema Nacional Anticorrupción",
     "start_char": 227,
     "end_char": 258
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:16:term-usage:478-506",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:personas-servidoras-publicas",
+    "span": "Personas Servidoras Públicas",
+    "start_char": 478,
+    "end_char": 506
   },
   {
     "schema_version": "0.1.0",
@@ -1405,6 +1459,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:37:term-usage:185-210",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:37",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:personas-servidoras-publicas",
+    "span": "Persona Servidora Pública",
+    "start_char": 185,
+    "end_char": 210
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgra:article:37:term-usage:216-227",
     "provision_id": "urn:lex-mx:federal:statute:lgra:article:37",
     "term_id": "urn:lex-mx:federal:statute:lgra:term:secretaria",
@@ -1441,12 +1504,30 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:37:term-usage:645-673",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:37",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:personas-servidoras-publicas",
+    "span": "Personas Servidoras Públicas",
+    "start_char": 645,
+    "end_char": 673
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgra:article:37:term-usage:1197-1207",
     "provision_id": "urn:lex-mx:federal:statute:lgra:article:37",
     "term_id": "urn:lex-mx:federal:statute:lgra:term:secretaria",
     "span": "Secretaría",
     "start_char": 1197,
     "end_char": 1207
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:37:term-usage:1908-1936",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:37",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:personas-servidoras-publicas",
+    "span": "Personas Servidoras Públicas",
+    "start_char": 1908,
+    "end_char": 1936
   },
   {
     "schema_version": "0.1.0",
@@ -1483,6 +1564,15 @@
     "span": "Secretarías",
     "start_char": 362,
     "end_char": 373
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:38:term-usage:380-408",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:38",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:personas-servidoras-publicas",
+    "span": "Personas Servidoras Públicas",
+    "start_char": 380,
+    "end_char": 408
   },
   {
     "schema_version": "0.1.0",
@@ -1693,12 +1783,39 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:49:term-usage:46-71",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:49",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:personas-servidoras-publicas",
+    "span": "Persona Servidora Pública",
+    "start_char": 46,
+    "end_char": 71
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:49:term-usage:336-364",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:49",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:personas-servidoras-publicas",
+    "span": "Personas Servidoras Públicas",
+    "start_char": 336,
+    "end_char": 364
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgra:article:49:term-usage:706-728",
     "provision_id": "urn:lex-mx:federal:statute:lgra:article:49",
     "term_id": "urn:lex-mx:federal:statute:lgra:term:faltas-administrativas",
     "span": "Faltas administrativas",
     "start_char": 706,
     "end_char": 728
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:49:term-usage:1500-1528",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:49",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:personas-servidoras-publicas",
+    "span": "Personas Servidoras Públicas",
+    "start_char": 1500,
+    "end_char": 1528
   },
   {
     "schema_version": "0.1.0",

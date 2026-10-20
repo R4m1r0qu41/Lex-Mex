@@ -18,17 +18,17 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 38
 
-El Director o Gerente General en relación con el control interno tendrá las responsabilidades siguientes:
+El [Director o Gerente General](articulo-1.md) en relación con el control interno tendrá las responsabilidades siguientes:
 
-I. La ejecución diaria del sistema de control interno conforme lo establezca el Consejo de Administración, dentro de la cual estará implementar medidas de acción en caso de contingencias que puedan afectar la operación o los sistemas de información de la Sociedad.
+I. La ejecución diaria del sistema de control interno conforme lo establezca el [Consejo de Administración](articulo-1.md), dentro de la cual estará implementar medidas de acción en caso de contingencias que puedan afectar la operación o los sistemas de información de la Sociedad.
 
 II. El diseño de los manuales que estarán sujetos a la aprobación del Consejo de Administración, así como su difusión al personal.
 
-III. La vigilancia conjunta con el Comité de Auditoría, de que el sistema de control interno sea efectivo y funcional.
+III. La vigilancia conjunta con el [Comité de Auditoría](articulo-1.md), de que el sistema de control interno sea efectivo y funcional.
 
-IV. La orden para llevar a cabo una evaluación del estado que guarde el sistema de control interno en todos sus distintos aspectos, a solicitud del Comité de Supervisión Auxiliar o de la Comisión.
+IV. La orden para llevar a cabo una evaluación del estado que guarde el sistema de control interno en todos sus distintos aspectos, a solicitud del [Comité de Supervisión Auxiliar](articulo-1.md) o de la [Comisión](articulo-1.md).
 
-V. La elaboración de reportes trimestrales para el Comité de Auditoría y el Consejo de Vigilancia, los cuales deberán mencionar:
+V. La elaboración de reportes trimestrales para el Comité de Auditoría y el [Consejo de Vigilancia](articulo-1.md), los cuales deberán mencionar:
 
 a) La situación actual de la cartera crediticia total.
 

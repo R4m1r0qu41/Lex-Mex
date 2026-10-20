@@ -15,4 +15,4 @@ source_sha256: ea96e97cbea2fd1919af78b94cd3466ee20a77e05989be2d482d2eb8061618c5
 
 # SEGUNDO
 
-Se abroga la Ley General de Bienes Nacionales, publicada en el Diario Oficial de la Federación el 8 de enero de 1982.
+Se abroga la Ley General de Bienes Nacionales, publicada en el Diario Oficial de la [Federación](articulo-2.md) el 8 de enero de 1982.

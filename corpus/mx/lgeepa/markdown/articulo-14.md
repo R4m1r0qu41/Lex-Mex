@@ -17,6 +17,6 @@ source_sha256: 0574853d06020030188e8aee1eae5dabb2b476ac630cc52be631a48d2b91adbc
 
 # Artículo 14
 
-Las dependencias y entidades de la Administración Pública se coordinarán con la Secretaría para la realización de las acciones conducentes, cuando exista peligro para el equilibrio ecológico de alguna zona o región del país, como consecuencia de desastres producidos por fenómenos naturales, o por caso fortuito o fuerza mayor.
+Las dependencias y entidades de la Administración Pública se coordinarán con la [Secretaría](articulo-3o.md) para la realización de las acciones conducentes, cuando exista peligro para el equilibrio ecológico de alguna zona o región del país, como consecuencia de desastres producidos por fenómenos naturales, o por caso fortuito o fuerza mayor.
 
 Artículo reformado DOF 13-12-1996

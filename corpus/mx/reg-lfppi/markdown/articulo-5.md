@@ -17,4 +17,4 @@ source_sha256: 51dd3b9347aab0e63387e02f689edd4fa3ea43a93933a0027f9a9977fffba83d
 
 # Artículo 5
 
-La persona Titular de la Dirección General del Instituto expedirá las reglas y especificaciones para la presentación de solicitudes o promociones y sus respectivos anexos en medios físicos o electrónicos, así como los procedimientos físicos y en línea, criterios, lineamientos y requisitos específicos para facilitar la operación del Instituto, mediante Acuerdos publicados en el Diario Oficial de la Federación.
+La persona Titular de la Dirección General del Instituto expedirá las reglas y especificaciones para la presentación de solicitudes o promociones y sus respectivos anexos en medios físicos o electrónicos, así como los procedimientos físicos y en línea, criterios, lineamientos y requisitos específicos para facilitar la operación del Instituto, mediante [Acuerdos](articulo-2.md) publicados en el Diario Oficial de la Federación.

@@ -39,7 +39,9 @@ IX. Abstenerse injustificadamente de ejercer la acción penal que corresponda de
 
 X.- Detener a un individuo fuera de los casos señalados por la ley, o retenerlo por más tiempo del señalado en la Constitución; Fracción reformada DOF 10-01-1994, 23-01-2009, 17-06-2016, 18-07-2016
 
-XI. Se deroga. Fracción derogada DOF 17-06-2016 XII. Derogada. Fracción reformada DOF 10-01-1994, 17-06-2016. Derogada DOF 26-06-2017
+XI. Se deroga. Fracción derogada DOF 17-06-2016
+
+XII. Derogada. Fracción reformada DOF 10-01-1994, 17-06-2016. Derogada DOF 26-06-2017
 
 XIII.- Ocultar al imputado el nombre de quien le acusa, salvo en los casos previstos por la ley, no darle a conocer el delito que se le atribuye o no realizar el descubrimiento probatorio conforme a lo que establece el Código Nacional de Procedimientos Penales; Fracción derogada DOF 17-06-2016. Adicionada DOF 18-07-2016
 
@@ -89,7 +91,9 @@ XXXV. A quien ejerciendo funciones de supervisor de libertad o con motivo de ell
 
 XXXVI. A quien ejerciendo funciones de supervisor de libertad indebidamente requiera favores, acciones o cualquier transferencia de bienes de la persona procesada, sentenciada o su familia; Fracción adicionada DOF 16-06-2016
 
-XXXVII. A quien ejerciendo funciones de supervisor de libertad falsee informes o reportes al Juez de Ejecución. Fracción adicionada DOF 16-06-2016 A quien cometa los delitos previstos en las fracciones I, II, III, VII, VIII, IX, XX, XXIV, XXV, XXVI, XXXIII y XXXIV, se le impondrá pena de prisión de tres a ocho años y de treinta a mil cien días multa. Párrafo reformado DOF 17-05-1999, 14-06-2012, 18-07-2016
+XXXVII. A quien ejerciendo funciones de supervisor de libertad falsee informes o reportes al Juez de Ejecución. Fracción adicionada DOF 16-06-2016
+
+A quien cometa los delitos previstos en las fracciones I, II, III, VII, VIII, IX, XX, XXIV, XXV, XXVI, XXXIII y XXXIV, se le impondrá pena de prisión de tres a ocho años y de treinta a mil cien días multa. Párrafo reformado DOF 17-05-1999, 14-06-2012, 18-07-2016
 
 A quien cometa los delitos previstos en las fracciones IV, V, VI, X, XI, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XXI, XXII, XXIII, XXVII, XXVIII, XXX, XXXI, XXXII, XXXV, XXXVI y XXXVII se le impondrá pena de prisión de cuatro a diez años y de cien a ciento cincuenta días multa. Párrafo reformado DOF 17-05-1999, 06-06-2006, 23-01-2009, 16-06-2016, 18-07-2016
 

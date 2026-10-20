@@ -17,4 +17,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Artículo 12
 
-La Secretaría debe dar seguimiento y cuantificar los Recursos Prospectivos, Recursos Contingentes y Reservas de las Áreas en posesión del Estado, con la periodicidad que la propia Secretaría determine.
+La [Secretaría](articulo-3.md) debe dar seguimiento y cuantificar los Recursos Prospectivos, Recursos Contingentes y Reservas de las Áreas en posesión del Estado, con la periodicidad que la propia Secretaría determine.

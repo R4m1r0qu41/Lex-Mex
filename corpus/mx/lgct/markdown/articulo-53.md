@@ -17,4 +17,4 @@ source_sha256: 9f964bc5c075d7cf47e5e9df7c2fbe262eb5bd1794de9b230dbd72026a51ae5e
 
 # Artículo 53
 
-Cuando con motivo de la aplicación de esta Ley, se desprenda la posible comisión de uno o varios delitos, la autoridad correspondiente formulará la denuncia o querella ante el Ministerio Público sin perjuicio de la sanción administrativa que proceda.
+Cuando con motivo de la aplicación de esta [Ley](articulo-6.md), se desprenda la posible comisión de uno o varios delitos, la autoridad correspondiente formulará la denuncia o querella ante el Ministerio Público sin perjuicio de la sanción administrativa que proceda.

@@ -17,7 +17,7 @@ source_sha256: fa7447754261e46a344d4b49a9be0e1a5bd0eaf28c1ef12c721c124fe39e7b15
 
 # Artículo 89
 
-Las personas físicas o morales que lleven a cabo proyectos o actividades que tengan como resultado la mitigación o reducción de emisiones, podrán inscribir dicha información en el Registro, conforme a las disposiciones reglamentarias que al efecto se expidan.
+Las personas físicas o morales que lleven a cabo proyectos o actividades que tengan como resultado la mitigación o reducción de emisiones, podrán inscribir dicha información en el [Registro](articulo-3o.md), conforme a las disposiciones reglamentarias que al efecto se expidan.
 
 La información de los proyectos respectivos deberá incluir, entre otros elementos, las transacciones en el comercio de emisiones, ya sea nacional o internacional de reducciones o absorciones certificadas, expresadas en toneladas métricas y en toneladas de bióxido de carbono equivalente y la fecha en que se hubieran verificado las operaciones correspondientes; los recursos obtenidos y la fuente de financiamiento respectiva.
 

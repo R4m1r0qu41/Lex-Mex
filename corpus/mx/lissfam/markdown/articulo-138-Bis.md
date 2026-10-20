@@ -17,7 +17,7 @@ source_sha256: 35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc
 
 # Artículo 138 Bis
 
-El Instituto estará facultado para otorgar a los hijos de los militares en el activo becas educativas, conforme a lo siguiente:
+El [Instituto](articulo-4o.md) estará facultado para otorgar a los hijos de los militares en el activo becas educativas, conforme a lo siguiente:
 
 I. Beca de manutención. Tiene por objeto la asignación de una cuota mensual para los hijos de los militares en el activo que se encuentren cursando estudios a nivel medio superior y superior, en escuelas del país con registro en la Secretaría de Educación Pública.
 

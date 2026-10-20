@@ -17,4 +17,4 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 317
 
-No se inscribirá en el registro de denominaciones de origen o indicaciones geográficas protegidas en el extranjero, la denominación o indicación que se encuentre en alguno de los impedimentos a los que hace referencia el artículo [271](articulo-271.md) de esta Ley.
+No se inscribirá en el registro de denominaciones de origen o indicaciones geográficas protegidas en el extranjero, la denominación o indicación que se encuentre en alguno de los impedimentos a los que hace referencia el artículo [271](articulo-271.md) de esta [Ley](articulo-4.md).

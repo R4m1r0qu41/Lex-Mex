@@ -17,6 +17,6 @@ source_sha256: 01b72308e67d46ba6ca8a6b07fb7584c6a74e905ea0c4b5be5c0c0d32a6d817a
 
 # Artículo 80
 
-La integración de los grupos para la aplicación de los exámenes médicos y de capacidad física militar estará a cargo del Estado Mayor.
+La integración de los grupos para la aplicación de los exámenes médicos y de capacidad física militar estará a cargo del [Estado Mayor](articulo-5.md).
 
-SUBSECCIÓN “B” De la Comisión de Evaluación
+SUBSECCIÓN “B” De la [Comisión de Evaluación](articulo-5.md)

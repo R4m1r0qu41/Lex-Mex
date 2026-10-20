@@ -17,9 +17,9 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 # Artículo 73
 
-El sistema de calidad e innovación forma parte del Sistema Nacional de Infraestructura de la Calidad; está integrado por los Organismos Nacionales de Estandarización y demás sujetos facultados para estandarizar, y se sustenta en el desarrollo y aplicación de los Estándares que, por regla general, son de aplicación voluntaria excepto cuando se actualice cualquiera de los siguientes supuestos:
+El sistema de calidad e innovación forma parte del [Sistema Nacional de Infraestructura de la Calidad](articulo-4.md); está integrado por los Organismos Nacionales de Estandarización y demás sujetos facultados para estandarizar, y se sustenta en el desarrollo y aplicación de los [Estándares](articulo-4.md) que, por regla general, son de aplicación voluntaria excepto cuando se actualice cualquiera de los siguientes supuestos:
 
-I. Se requiera su observancia obligatoria mediante referencia expresa en una Norma Oficial Mexicana para los fines determinados por la misma;
+I. Se requiera su observancia obligatoria mediante referencia expresa en una [Norma Oficial Mexicana](articulo-4.md) para los fines determinados por la misma;
 
 II. Las autoridades de cualquier orden de gobierno establezcan como exigible un Estándar en las disposiciones administrativas que emitan, de acuerdo con su competencia y la normatividad aplicable;
 

@@ -17,7 +17,7 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 94
 
-En caso de maternidad, el Instituto otorgará a la asegurada durante el embarazo, el alumbramiento y el puerperio, las prestaciones siguientes:
+En caso de maternidad, el [Instituto](articulo-5-A.md) otorgará a la asegurada durante el embarazo, el alumbramiento y el puerperio, las prestaciones siguientes:
 
 I. Asistencia obstétrica;
 

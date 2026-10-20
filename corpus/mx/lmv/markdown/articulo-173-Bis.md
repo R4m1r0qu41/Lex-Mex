@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título VI · Capítulo II
+
 # Artículo 173 Bis
 
 Las casas de bolsa deberán evaluar, al menos una vez al año, si el capital con que cuentan resultaría suficiente para cubrir posibles pérdidas derivadas de los riesgos en que dichas casas de bolsa podrían incurrir en distintos escenarios, incluyendo aquellos en los que imperen condiciones económicas adversas, de conformidad con las disposiciones de carácter general que para tal efecto determine la [Comisión](articulo-2.md).

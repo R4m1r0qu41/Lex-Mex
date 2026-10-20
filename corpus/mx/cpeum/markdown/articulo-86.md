@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf
 source_sha256: ca63a23a4b7444ebdbdad93759fbf46bd14c069e587c5878decf89fc9c12ca8e
 ---
 
+> Título Tercero · Capítulo III
+
 # Artículo 86
 
 El cargo de Presidente de la República sólo es renunciable por causa grave, que calificará el Congreso de la Unión, ante el que se presentará la renuncia.

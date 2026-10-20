@@ -19,7 +19,7 @@ source_sha256: d0021bbef2e0c3251d6efdea2c1efd9959ff3f02df4bcd1fc37c1ee7826a72ba
 
 El dictamen deberá contener al menos lo siguiente:
 
-I. La identificación del o los Agentes Económicos investigados y, en su caso, del o los probables responsables;
+I. La identificación del o los [Agentes Económicos](articulo-3.md) investigados y, en su caso, del o los probables responsables;
 
 II. Los hechos investigados y su probable objeto o efecto en el mercado;
 

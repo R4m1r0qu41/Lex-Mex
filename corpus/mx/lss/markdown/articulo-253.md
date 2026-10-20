@@ -17,7 +17,7 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 253
 
-Constituyen el patrimonio del Instituto: I. Los bienes muebles e inmuebles de cualquier naturaleza, con excepción de aquellos provenientes de adjudicación o dación en pago por adeudo de cuotas obrero patronales, capitales constitutivos y accesorios, así como cualquier otro que se afecte expresamente a las reservas que el Instituto deba constituir en términos de esta Ley;
+Constituyen el patrimonio del [Instituto](articulo-5-A.md): I. Los bienes muebles e inmuebles de cualquier naturaleza, con excepción de aquellos provenientes de adjudicación o dación en pago por adeudo de cuotas obrero patronales, capitales constitutivos y accesorios, así como cualquier otro que se afecte expresamente a las reservas que el Instituto deba constituir en términos de esta [Ley](articulo-5-A.md);
 
 II. Los derechos de propiedad y posesión de bienes muebles e inmuebles, cualquiera que sea su naturaleza jurídica, que por justo título obren en poder del Instituto;
 

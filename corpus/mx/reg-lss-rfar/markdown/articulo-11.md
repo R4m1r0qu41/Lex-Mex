@@ -17,4 +17,4 @@ source_sha256: 4b4529ce2b1275ea9363ab78b6e2d504cd1106bc3d10fd70f09246c38b0cd31e
 
 # Artículo 11
 
-La unidad administrativa a que se refiere el artículo [286](../../lss/markdown/articulo-286.md) C de la Ley, se encargará de la inversión de las Reservas y de la Reserva General, con base en lo establecido en la Ley, este Reglamento y las políticas y directrices que emita el Consejo Técnico.
+La unidad administrativa a que se refiere el artículo [286](../../lss/markdown/articulo-286.md) C de la [Ley](../../lss/markdown/articulo-5-A.md), se encargará de la inversión de las [Reservas](articulo-2.md) y de la [Reserva General](articulo-2.md), con base en lo establecido en la Ley, este Reglamento y las políticas y directrices que emita el [Consejo Técnico](articulo-2.md).

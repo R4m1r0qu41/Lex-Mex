@@ -1,0 +1,49 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-3",
+  "instrument_id": "urn:lex-mx:federal:statute:lgmhcti",
+  "source_sha256": "5a0e15e01ac963917e019e3cc4ad07e96d76cc6c82c8b4238dfbb3a58a146847",
+  "extracted_text_sha256": "3393b0de9b380cecb59b62c161d9660cd1eb476d59637f72766c2ddea2ac4b99",
+  "status": "detected",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lgmhcti:article:4",
+      "provision_text_sha256": "7b8a07e4a90ae6fb7d9403ddf9b05cbba0a89fd7b1536a9f14d4da2eecef7e5f",
+      "method": "wider_pass",
+      "fractions": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII",
+        "XIII",
+        "XIV",
+        "XV",
+        "XVI",
+        "XVII",
+        "XVIII",
+        "XIX",
+        "XX",
+        "XXI",
+        "XXII",
+        "XXIII",
+        "XXIV",
+        "XXV",
+        "XXVI",
+        "XXVII"
+      ],
+      "repeal_placeholders": [],
+      "term_count": 27
+    }
+  ],
+  "imports": [],
+  "term_count": 27,
+  "usage_count": 517
+}

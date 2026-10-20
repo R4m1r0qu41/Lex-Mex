@@ -17,4 +17,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Artículo 26
 
-La Secretaría debe establecer en el título de Asignación para Desarrollo Propio, además de lo previsto en la Ley, los siguientes términos y condiciones: I. Descripción general de las actividades de Exploración y su período; II. Descripción general de las actividades de Extracción y su período, en su caso; III. Los Términos Técnicos y Operativos de la Asignación; IV. Las condiciones para la sustitución a una Asignación para Desarrollo Mixto, y V. Los demás que establezca la Secretaría.
+La [Secretaría](articulo-3.md) debe establecer en el título de Asignación para Desarrollo Propio, además de lo previsto en la [Ley](articulo-3.md), los siguientes términos y condiciones: I. Descripción general de las actividades de Exploración y su período; II. Descripción general de las actividades de Extracción y su período, en su caso; III. Los [Términos Técnicos y Operativos](articulo-3.md) de la Asignación; IV. Las condiciones para la sustitución a una Asignación para Desarrollo Mixto, y V. Los demás que establezca la Secretaría.

@@ -19,4 +19,4 @@ source_sha256: e5c0ecb4328043b7090ee5d73e982d6a04410f1330f6fdb350a7a34527eb2e59
 
 La Carta Nacional Pesquera, es la presentación cartográfica y escrita de los indicadores sobre la disponibilidad y conservación de los recursos pesqueros y acuícolas en aguas de jurisdicción federal.
 
-La Carta Nacional Pesquera y sus actualizaciones, por acuerdo del titular de la Secretaría se aprobarán y se publicarán en el Diario Oficial de la Federación.
+La Carta Nacional Pesquera y sus actualizaciones, por acuerdo del titular de la [Secretaría](articulo-2o.md) se aprobarán y se publicarán en el Diario Oficial de la Federación.

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Único · Capítulo III
+
 # Artículo 1054
 
 Si el embargo se efectúa en una finca rústica o en una negociación mercantil o industrial, la persona depositaria será interventora con cargo a la caja, vigilando la contabilidad y todas las operaciones que se efectúen, pudiendo oponerse incidentalmente a la realización de cualquier acto que perjudique a los intereses de la persona ejecutante y tendrá las siguientes atribuciones:

@@ -17,7 +17,7 @@ source_sha256: 7fea623841fd6e05e8c0d01d2cf09f85b0b8e58ba4d9e4f6711f8bad1f448e55
 
 # Artículo 76 BIS 1
 
-El proveedor que ofrezca, comercialice o venda bienes, productos o servicios utilizando medios electrónicos, ópticos o de cualquier otra tecnología, se guiará por las disposiciones de la Norma Mexicana expedida por la Secretaría de Economía, la cual contendrá, por lo menos, la siguiente información:
+El proveedor que ofrezca, comercialice o venda bienes, productos o servicios utilizando medios electrónicos, ópticos o de cualquier otra tecnología, se guiará por las disposiciones de la Norma Mexicana expedida por la [Secretaría](articulo-2.md) de Economía, la cual contendrá, por lo menos, la siguiente información:
 
 I. Las especificaciones, características, condiciones y/o términos aplicables a los bienes, productos o servicios que se ofrecen;
 
@@ -34,5 +34,3 @@ VI. Mecanismos para presentar peticiones, quejas o reclamos, y
 VII. Mecanismos de identidad, de pago y de entrega.
 
 Artículo adicionado DOF 11-01-2018
-
-Capítulo IX De las garantías

@@ -19,7 +19,7 @@ source_sha256: bcc21844355854fe331c842c21436d721d6c2856b5c5986715fe39f4a845b317
 
 Los patrocinios tendrán las siguientes características:
 
-I. Deberán constar por escrito y establecer los derechos y obligaciones específicos entre el Sistema Público de Radiodifusión del Estado Mexicano y el Patrocinador; II. Su formato no podrá corresponder al de un anuncio comercial y su duración no podrá exceder de cinco segundos;
+I. Deberán constar por escrito y establecer los derechos y obligaciones específicos entre el [Sistema](articulo-2.md) Público de Radiodifusión del Estado Mexicano y el Patrocinador; II. Su formato no podrá corresponder al de un anuncio comercial y su duración no podrá exceder de cinco segundos;
 
 III. Únicamente podrá hacer la mención o presentación visual del nombre, denominación o razón social del patrocinador, sin destacar ni exaltar sus atributos específicos;
 

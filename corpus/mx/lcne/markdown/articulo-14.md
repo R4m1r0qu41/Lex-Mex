@@ -17,7 +17,7 @@ source_sha256: 7c13fd20564f1e7230268a0943cc226368b24c44886d6738c479f4c42cbe77de
 
 # Artículo 14
 
-La Comisión está a cargo de la persona titular de la Dirección General quien es nombrada y removida libremente por la persona titular del Ejecutivo Federal y ratificada por la Cámara de Senadores.
+La [Comisión](articulo-6.md) está a cargo de la persona titular de la Dirección General quien es nombrada y removida libremente por la persona titular del Ejecutivo Federal y ratificada por la Cámara de Senadores.
 
 Para efectos de lo dispuesto en el párrafo anterior, la persona titular del Ejecutivo Federal debe enviar a la Cámara de Senadores la designación acompañada de la documentación que acredite el cumplimiento de los requisitos para ocupar el cargo.
 

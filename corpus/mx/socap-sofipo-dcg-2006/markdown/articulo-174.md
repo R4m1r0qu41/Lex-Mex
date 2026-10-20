@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 174
 
-Las Sociedades Financieras Populares deberán contar con un área de auditoría interna independiente o encomendar a un auditor externo, que lleve a cabo cuando menos una vez al año o con una mayor frecuencia de acuerdo con las condiciones de los mercados en que participen, una auditoría de administración de riesgos que contemple, entre otros, los aspectos siguientes:
+Las [Sociedades](articulo-1.md) Financieras Populares deberán contar con un área de auditoría interna independiente o encomendar a un auditor externo, que lleve a cabo cuando menos una vez al año o con una mayor frecuencia de acuerdo con las condiciones de los mercados en que participen, una auditoría de administración de riesgos que contemple, entre otros, los aspectos siguientes:
 
 I. La implementación de mecanismos de administración de riesgos de conformidad con lo establecido en la presente Sección y en el propio manual de políticas y procedimientos para la administración integral de riesgos de la Sociedad Financiera Popular;
 

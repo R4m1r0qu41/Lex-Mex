@@ -15,4 +15,4 @@ source_sha256: 6680a58c98673518aee46582b3137d28987c275785d1f0c97295f0d89c4b692b
 
 # Octavo
 
-La Secretaría formulará el Programa General en un plazo de un año a partir de la publicación del Acuerdo por el que se emite la Metodología para la Elaboración, Integración, Ejecución y Evaluación del Programa General.
+La Secretaría formulará el [Programa General](articulo-2.md) en un plazo de un año a partir de la publicación del Acuerdo por el que se emite la Metodología para la Elaboración, Integración, Ejecución y Evaluación del Programa General.

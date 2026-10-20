@@ -17,6 +17,6 @@ source_sha256: 0574853d06020030188e8aee1eae5dabb2b476ac630cc52be631a48d2b91adbc
 
 # Artículo 20 BIS
 
-La formulación, expedición, ejecución y evaluación del ordenamiento ecológico general del territorio se llevará a cabo de conformidad con lo dispuesto en la Ley de Planeación. Asimismo, la Secretaría deberá promover la participación de grupos y organizaciones sociales y empresariales, instituciones académicas y de investigación, y demás personas interesadas, de acuerdo con lo establecido en esta Ley, así como en las demás disposiciones que resulten aplicables.
+La formulación, expedición, ejecución y evaluación del ordenamiento ecológico general del territorio se llevará a cabo de conformidad con lo dispuesto en la Ley de Planeación. Asimismo, la [Secretaría](articulo-3o.md) deberá promover la participación de grupos y organizaciones sociales y empresariales, instituciones académicas y de investigación, y demás personas interesadas, de acuerdo con lo establecido en esta Ley, así como en las demás disposiciones que resulten aplicables.
 
 Artículo adicionado DOF 13-12-1996

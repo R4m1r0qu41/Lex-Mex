@@ -13,10 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LNEP.pdf
 source_sha256: 91abecabe50a5e414e0835daa9086ce3b307fffb9ebe626dab3bb9d1eae51680
 ---
 
-> Título QUINTO
+> Título QUINTO · Capítulo I
 
 # Artículo 140
 
 Cancelación de la libertad condicionada La medida de libertad condicionada terminará por revocación en los casos de violación reiterada a los términos establecidos por el Juez de Ejecución, por sustitución, por la extinción de la pena en su totalidad o por el otorgamiento de la libertad anticipada, o cometa un nuevo delito en el plazo que resta para el cumplimiento de la pena originalmente impuesta.
-
-Capítulo II Libertad Anticipada

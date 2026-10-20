@@ -15,7 +15,7 @@ source_sha256: 7c13fd20564f1e7230268a0943cc226368b24c44886d6738c479f4c42cbe77de
 
 # Octavo
 
-Para dar certeza jurídica a la transferencia y continuidad en los actos, solicitudes, asuntos, trámites, procedimientos administrativos, procedimientos seguidos en forma de juicio o actos de cualquier naturaleza que se encuentren en proceso de atención o sujetos al cómputo de plazos en las Comisiones Reguladora de Energía y Nacional de Hidrocarburos, que sean competencia de la Secretaría o de la Comisión, se declara la suspensión de plazos y términos durante el período de noventa días naturales, contados a partir de que entre en vigor la presente Ley.
+Para dar certeza jurídica a la transferencia y continuidad en los actos, solicitudes, asuntos, trámites, procedimientos administrativos, procedimientos seguidos en forma de juicio o actos de cualquier naturaleza que se encuentren en proceso de atención o sujetos al cómputo de plazos en las [Comisiones](articulo-6.md) Reguladora de Energía y Nacional de Hidrocarburos, que sean competencia de la [Secretaría](articulo-6.md) o de la Comisión, se declara la suspensión de plazos y términos durante el período de noventa días naturales, contados a partir de que entre en vigor la presente Ley.
 
 Los recursos de revisión y cualquier procedimiento seguido en forma de juicio en contra de los actos emitidos por las Comisiones Reguladora de Energía y Nacional de Hidrocarburos antes de la entrada en vigor del presente Decreto, continúan su trámite y deben ser resueltos por la Secretaría o la Comisión en el ámbito de sus competencias.
 

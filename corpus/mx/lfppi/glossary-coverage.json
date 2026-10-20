@@ -1,0 +1,28 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-3",
+  "instrument_id": "urn:lex-mx:federal:statute:lfppi",
+  "source_sha256": "8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20",
+  "extracted_text_sha256": "b147dfd6c8e1e5667575728dd3f1b979f70ac8b93ceacb8b40c75368581417ef",
+  "status": "detected",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lfppi:article:4",
+      "provision_text_sha256": "b4bf6e0fb23fb3c8aebf2b08d0bee51d24f2e897d64b37ba0a1c74826934f3d6",
+      "method": "wider_pass",
+      "fractions": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI"
+      ],
+      "repeal_placeholders": [],
+      "term_count": 6
+    }
+  ],
+  "imports": [],
+  "term_count": 6,
+  "usage_count": 655
+}

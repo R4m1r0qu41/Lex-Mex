@@ -17,4 +17,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Artículo 318
 
-Se entiende por intervención la medida temporal mediante la cual la Secretaría o la Comisión, en el ámbito de sus competencias, se hacen cargo de la administración y operación de los bienes, derechos e instalaciones con las que la persona Permisionaria realiza la actividad o prestación del servicio, cuando se configuren los supuestos establecidos en el [artículo anterior](articulo-317.md).
+Se entiende por intervención la medida temporal mediante la cual la [Secretaría](articulo-3.md) o la [Comisión](articulo-3.md), en el ámbito de sus competencias, se hacen cargo de la administración y operación de los bienes, derechos e instalaciones con las que la persona Permisionaria realiza la actividad o prestación del servicio, cuando se configuren los supuestos establecidos en el [artículo anterior](articulo-317.md).

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo II
+
 # Artículo 464
 
 En casos excepcionales, por la complejidad del asunto, la autoridad jurisdiccional podrá planificar el desahogo de pruebas en más de una que se celebrará en días consecutivos sin afectar los principios de continuidad y concentración.

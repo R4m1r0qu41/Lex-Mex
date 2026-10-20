@@ -17,4 +17,4 @@ source_sha256: 45deb87bfd634dfbd1cb7d9fd67a476ad954187908eb0cb06256c90ccc0feb80
 
 # Artículo 42
 
-La Comisión propondrá a la Secretaría programas especiales para promover que más personas productoras y asociaciones accedan a los mercados nacionales e internacionales con base en la calidad del producto, precios competitivos y procesos sustentables, entre otros criterios.
+La [Comisión](articulo-3.md) propondrá a la [Secretaría](articulo-3.md) programas especiales para promover que más personas productoras y asociaciones accedan a los mercados nacionales e internacionales con base en la calidad del producto, precios competitivos y procesos sustentables, entre otros criterios.

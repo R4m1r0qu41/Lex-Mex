@@ -17,4 +17,4 @@ source_sha256: e5c0ecb4328043b7090ee5d73e982d6a04410f1330f6fdb350a7a34527eb2e59
 
 # Artículo 151
 
-Se considera reincidente al infractor que incurra más de una vez en cualquiera de las infracciones establecidas por la Ley en un periodo de 2 años, contados a partir de la fecha en que quede firme la primera de las resoluciones administrativas.
+Se considera reincidente al infractor que incurra más de una vez en cualquiera de las infracciones establecidas por la [Ley](articulo-2o.md) en un periodo de 2 años, contados a partir de la fecha en que quede firme la primera de las resoluciones administrativas.

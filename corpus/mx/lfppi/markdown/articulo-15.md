@@ -17,4 +17,4 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 15
 
-Para efectos de esta Ley, los documentos presentados a través de medios de comunicación electrónica producirán los mismos efectos que las leyes otorgan a los documentos firmados autógrafamente y tendrán su mismo valor probatorio.
+Para efectos de esta [Ley](articulo-4.md), los documentos presentados a través de medios de comunicación electrónica producirán los mismos efectos que las leyes otorgan a los documentos firmados autógrafamente y tendrán su mismo valor probatorio.

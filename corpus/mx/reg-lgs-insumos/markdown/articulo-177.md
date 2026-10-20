@@ -29,7 +29,7 @@ IV. Los métodos analíticos: físicos, químicos y biológicos para materias pr
 
 V. El reporte de la validación del proceso de fabricación, realizado por el fabricante;
 
-VI. La monografía del medicamento que incluya la Denominación Común Internacional, forma farmacéutica, especificaciones cualitativas y cuantitativas; VII. Los procesos de fabricación, formulación, llenado y acondicionamiento, así como sus controles del proceso; VIII. Los proyectos de etiqueta y del instructivo correspondiente, así como las especificaciones de los envases primario y secundario, de conformidad con la [Ley](articulo-2o.md), este Reglamento y demás disposiciones aplicables;
+VI. La monografía del medicamento que incluya la [Denominación Común Internacional](articulo-2o.md), forma farmacéutica, especificaciones cualitativas y cuantitativas; VII. Los procesos de fabricación, formulación, llenado y acondicionamiento, así como sus controles del proceso; VIII. Los proyectos de etiqueta y del instructivo correspondiente, así como las especificaciones de los envases primario y secundario, de conformidad con la [Ley](articulo-2o.md), este Reglamento y demás disposiciones aplicables;
 
 IX. Programa de farmacovigilancia intensiva, de conformidad con las disposiciones que resulten aplicables, y
 

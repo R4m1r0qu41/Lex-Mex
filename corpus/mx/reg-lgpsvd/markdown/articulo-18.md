@@ -19,4 +19,4 @@ source_sha256: a1cc8f6043c35579235fd61d2e34977e1735af4ea6919d053f89462b97742335
 
 Las autoridades federales competentes en materia de reinserción social deberán coadyuvar en la implementación de proyectos de atención a jóvenes. Dichos proyectos deberán estar enfocados en la prevención de la Violencia, la delincuencia, las adicciones y de la reincidencia delictiva.
 
-La implementación de los proyectos a que se refiere el párrafo anterior deberá priorizarse en zonas con mayores índices de Violencia y delincuencia, conforme a los Diagnósticos Participativos.
+La implementación de los proyectos a que se refiere el párrafo anterior deberá priorizarse en zonas con mayores índices de Violencia y delincuencia, conforme a los [Diagnósticos Participativos](articulo-3.md).

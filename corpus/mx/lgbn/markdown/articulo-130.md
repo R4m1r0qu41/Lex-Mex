@@ -21,7 +21,7 @@ A los Oficiales Mayores o equivalentes de las dependencias y las unidades admini
 
 I.- Autorizar el programa anual de disposición final de los bienes muebles;
 
-II.- Desincorporar del régimen de dominio público de la Federación los bienes muebles, mediante acuerdo administrativo, y
+II.- Desincorporar del régimen de dominio público de la [Federación](articulo-2.md) los bienes muebles, mediante acuerdo administrativo, y
 
 III.- Autorizar la celebración de operaciones de permuta, dación en pago, transferencia, comodato o destrucción de bienes muebles.
 

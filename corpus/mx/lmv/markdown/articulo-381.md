@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título XIV · Capítulo II
+
 # Artículo 381
 
 Las personas que haciendo uso de información privilegiada, efectúen o instruyan la celebración de operaciones, por sí o a través de interpósita persona, sobre valores o instrumentos financieros derivados que tengan como subyacente valores cuyo precio o cotización pueda ser influido por dicha información, y que derivado de dicha operación obtengan un beneficio para sí o para un tercero, serán sancionadas conforme a lo siguiente:

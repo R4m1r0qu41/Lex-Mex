@@ -17,7 +17,7 @@ source_sha256: d8dd1de3627b899bb4faf31c2812c3d5f14f7108be153d5aa8dd549b9136184a
 
 # Artículo 34
 
-El Comité Nacional tendrá las siguientes atribuciones:
+El [Comité Nacional](articulo-2.md) tendrá las siguientes atribuciones:
 
 I. Analizar la situación de emergencia o desastre que afecte al país, a fin de evaluar el alcance del impacto y formular las recomendaciones necesarias para proteger a la población, sus bienes y su entorno;
 

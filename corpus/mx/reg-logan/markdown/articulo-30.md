@@ -27,4 +27,4 @@ III. Desempeñar los cargos y comisiones que les encomiende la asamblea general;
 
 IV. Acatar los acuerdos de la asamblea general y de los consejos directivo y de vigilancia, y
 
-V. Las demás que les impongan la Ley, este Reglamento y los estatutos de cada organización ganadera.
+V. Las demás que les impongan la Ley, este [Reglamento](articulo-2o.md) y los estatutos de cada organización ganadera.

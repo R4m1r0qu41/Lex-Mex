@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo II
+
 # Artículo 297
 
 A las personas mayores, con discapacidad permanente o temporal, debidamente acreditada por instituciones de salud pública, que lo soliciten, así como a las personas que se encuentren privadas de su libertad por mandato judicial, la autoridad jurisdiccional podrá recibirles la declaración en el lugar en que se encuentren en presencia de la otra parte, si asistiere.

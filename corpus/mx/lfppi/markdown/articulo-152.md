@@ -17,4 +17,4 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 152
 
-La licencia obligatoria no será exclusiva. La persona a quien se le conceda solo podrá cederla con autorización del Instituto y siempre que la transfiera junto con la parte de la unidad de producción donde se explota la patente objeto de la licencia.
+La licencia obligatoria no será exclusiva. La persona a quien se le conceda solo podrá cederla con autorización del [Instituto](articulo-4.md) y siempre que la transfiera junto con la parte de la unidad de producción donde se explota la patente objeto de la licencia.

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Primero · Capítulo I
+
 # Artículo 699
 
 En los juicios sucesorios, el Ministerio Público, representación social o autoridad competente, comparecerá a nombre de las personas herederas, mientras no se presenten o no acrediten su representante legítimo, niñas, niños o adolescentes que no tengan representantes legítimos y, al Sistema para el Desarrollo Integral de la Familia, Beneficencia Pública, Instituciones Educativas, el Fisco, al Estado, o a quien se señale en el [Código Civil](articulo-2.md) Sustantivo en cada Entidad Federativa cuando no haya herederos legítimos dentro del grado de Ley, y mientras no se haga reconocimiento o declaración de herederos.

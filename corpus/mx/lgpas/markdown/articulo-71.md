@@ -17,4 +17,4 @@ source_sha256: 160e5e85efddb1749a79f6b154af31711a9b31a5e32bace3c07e2859c2620ecf
 
 # Artículo 71
 
-Los prestadores de servicios o los titulares de los permisos de la pesca deportivo- recreativa, deberán entregar a la Secretaría la bitácora de pesca correspondiente, en los términos del reglamento de la presente Ley.
+Los prestadores de servicios o los titulares de los permisos de la pesca deportivo- recreativa, deberán entregar a la [Secretaría](articulo-4o.md) la bitácora de pesca correspondiente, en los términos del reglamento de la presente Ley.

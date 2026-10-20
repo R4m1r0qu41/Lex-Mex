@@ -17,4 +17,4 @@ source_sha256: aa96853f010885bdf85160e944e5c0ef5c3c8e95422dfede280d228cf064310a
 
 # Artículo 163
 
-La determinación y aplicación de las Tarifas Reguladas, así como la prestación de los servicios cubiertos por éstas, no debe condicionarse a la adquisición de productos o servicios innecesarios.
+La determinación y aplicación de las [Tarifas Reguladas](articulo-3.md), así como la prestación de los servicios cubiertos por éstas, no debe condicionarse a la adquisición de productos o servicios innecesarios.

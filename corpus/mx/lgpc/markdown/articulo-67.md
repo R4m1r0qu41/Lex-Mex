@@ -17,7 +17,7 @@ source_sha256: d8dd1de3627b899bb4faf31c2812c3d5f14f7108be153d5aa8dd549b9136184a
 
 # Artículo 67
 
-Los Fondos Estatales de Protección Civil se integrarán a través de los recursos aportados por la respectiva entidad federativa y, en su caso, municipios y demarcaciones territoriales de la Ciudad de México. Párrafo reformado DOF 19-01-2018
+Los Fondos Estatales de [Protección Civil](articulo-2.md) se integrarán a través de los recursos aportados por la respectiva entidad federativa y, en su caso, municipios y demarcaciones territoriales de la Ciudad de México. Párrafo reformado DOF 19-01-2018
 
 El Gobierno Federal otorgará subsidios a dichos Fondos de Protección Civil conforme a los recursos que, en su caso, sean aprobados para dicho fin en el Presupuesto de Egresos de la Federación, sin rebasar las aportaciones que hubiesen realizado en el ejercicio fiscal correspondiente las entidades federativas y, en su caso, los municipios y demarcaciones territoriales de la Ciudad de México. Párrafo reformado DOF 19-01-2018
 

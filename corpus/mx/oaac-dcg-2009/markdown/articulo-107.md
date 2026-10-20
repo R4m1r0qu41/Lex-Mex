@@ -18,7 +18,7 @@ source_sha256: 8ac502b97188bd6e795781e9821be6e62ccdd8050cdd3be74aab52a888e67939
 
 # Artículo 107
 
-El [Consejo](articulo-1.md) de las uniones de crédito, a propuesta del Comité de Auditoría deberá conocer y, en su caso, aprobar los objetivos del Sistema de [Control](articulo-1.md) Interno y los lineamientos para su implementación, dentro de los cuales se incluirán por lo menos:
+El [Consejo](articulo-1.md) de las uniones de crédito, a propuesta del [Comité de Auditoría](articulo-1.md) deberá conocer y, en su caso, aprobar los objetivos del [Sistema de Control Interno](articulo-1.md) y los lineamientos para su implementación, dentro de los cuales se incluirán por lo menos:
 
 I. Aquellos para el adecuado empleo y aprovechamiento de los recursos humanos y materiales.
 

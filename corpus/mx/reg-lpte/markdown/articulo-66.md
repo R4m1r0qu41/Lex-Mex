@@ -17,4 +17,4 @@ source_sha256: 716e427a30e9982ccaa0576288aad2ad5305c624b236a0f342b6a87d60b7a9ed
 
 # Artículo 66
 
-Las entidades responsables de los subsistemas de información que integran el Sistema Nacional de Información Energética deben proporcionar a la Secretaría, para su registro, organización, actualización y difusión, la información y documentos que les solicite, sin perjuicio de la confidencialidad y reserva que protegen a sus Registros e Información Geoespacial.
+Las entidades responsables de los subsistemas de información que integran el Sistema Nacional de Información Energética deben proporcionar a la [Secretaría](articulo-5.md), para su registro, organización, actualización y difusión, la información y documentos que les solicite, sin perjuicio de la confidencialidad y reserva que protegen a sus [Registros e Información Geoespacial](articulo-5.md).

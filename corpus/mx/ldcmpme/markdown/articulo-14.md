@@ -17,9 +17,9 @@ source_sha256: 4933abadd27d345e7a5c1754af10ed429fd148b709b4a78d4f42447b5fcd546d
 
 # Artículo 14
 
-La Secretaría promoverá la participación del Sector Público y de los Sectores para la consecución de los objetivos de esta Ley, a través de los convenios que celebre, de acuerdo a lo siguiente:
+La [Secretaría](articulo-3.md) promoverá la participación del [Sector Público](articulo-3.md) y de los [Sectores](articulo-3.md) para la consecución de los objetivos de esta [Ley](articulo-3.md), a través de los convenios que celebre, de acuerdo a lo siguiente:
 
-I. La formación de una cultura empresarial con perspectiva de género enfocada al desarrollo de la competitividad en las MIPYMES a través de la detección de necesidades en Capacitación, Asesoría y Consultoría; Fracción reformada DOF 21-01-2015
+I. La formación de una cultura empresarial con perspectiva de género enfocada al desarrollo de la competitividad en las [MIPYMES](articulo-3.md) a través de la detección de necesidades en [Capacitación](articulo-3.md), Asesoría y [Consultoría](articulo-3.md); Fracción reformada DOF 21-01-2015
 
 II. El fomento a la constitución de incubadoras de empresas, y a la iniciativa y creatividad de los emprendedores;
 
@@ -31,7 +31,7 @@ V. La formación y capacitación de recursos humanos para el crecimiento con cal
 
 VI. La investigación enfocada a las necesidades específicas de las MIPYMES;
 
-VII. La integración y fortalecimiento de las Cadenas Productivas;
+VII. La integración y fortalecimiento de las [Cadenas Productivas](articulo-3.md);
 
 VIII. Los esquemas de asociación para el fortalecimiento de las MIPYMES;
 

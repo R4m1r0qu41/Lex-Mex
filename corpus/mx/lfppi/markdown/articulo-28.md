@@ -17,10 +17,10 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 28
 
-Se reconocerán para actuar ante el Instituto, los siguientes instrumentos:
+Se reconocerán para actuar ante el [Instituto](articulo-4.md), los siguientes instrumentos:
 
 I.- Los poderes especiales conferidos para realizar los actos que en ellos se especifique, incluidos los poderes para actos de dominio;
 
-II.- Los poderes generales para pleitos y cobranzas, para actuar en los procedimientos de declaración administrativa, previstos en el Título Sexto de esta Ley, y
+II.- Los poderes generales para pleitos y cobranzas, para actuar en los procedimientos de declaración administrativa, previstos en el Título Sexto de esta [Ley](articulo-4.md), y
 
 III.- Los poderes generales para actos de administración, en los casos no comprendidos en la fracción anterior.

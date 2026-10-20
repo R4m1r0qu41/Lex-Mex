@@ -17,6 +17,6 @@ source_sha256: 32822f50bb2de81185408f9450d61a49d678429c52c5379822a507c7027a5275
 
 # Artículo 72
 
-La evaluación integral de la Política de Desarrollo Social está a cargo del Instituto que podrá realizarla por sí mismo o a través de uno o varios organismos independientes del ejecutor del programa, y tiene por objeto, revisar periódicamente el cumplimiento del objetivo social de los programas, proyectos y acciones, incluidos los recursos, que se requieren para la implementación de la Política de Desarrollo Social.
+La evaluación integral de la [Política de Desarrollo Social](articulo-5.md) está a cargo del [Instituto](articulo-5.md) que podrá realizarla por sí mismo o a través de uno o varios organismos independientes del ejecutor del programa, y tiene por objeto, revisar periódicamente el cumplimiento del objetivo social de los programas, proyectos y acciones, incluidos los recursos, que se requieren para la implementación de la Política de Desarrollo Social.
 
 Artículo reformado DOF 16-07-2025

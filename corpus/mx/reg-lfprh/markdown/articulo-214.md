@@ -27,7 +27,7 @@ Quedan exceptuados del informe y autorización a que se refiere el párrafo ante
 
 III. A través de las partidas específicas del Clasificador por objeto del gasto.
 
-Las dependencias y entidades que coordinen fideicomisos, mandatos o análogos, o que con cargo a su presupuesto les aporten recursos presupuestarios, y tengan por objeto realizar o financiar programas y proyectos de inversión, serán responsables de elaborar la Evaluación costo y beneficio para dichos programas y proyectos, obtener su registro en la [Cartera](articulo-2.md) y, en su caso, recabar el dictamen del experto independiente correspondiente, de conformidad con los lineamientos que al efecto emita la Secretaría. Párrafo reformado DOF 08-08-2025
+Las dependencias y entidades que coordinen fideicomisos, mandatos o análogos, o que con cargo a su presupuesto les aporten recursos presupuestarios, y tengan por objeto realizar o financiar programas y proyectos de inversión, serán responsables de elaborar la [Evaluación costo y beneficio](articulo-2.md) para dichos programas y proyectos, obtener su registro en la [Cartera](articulo-2.md) y, en su caso, recabar el dictamen del experto independiente correspondiente, de conformidad con los lineamientos que al efecto emita la Secretaría. Párrafo reformado DOF 08-08-2025
 
 Las dependencias o entidades deberán informar a través del sistema de control y transparencia de fideicomisos que los recursos presupuestarios no rebasan el 50 por ciento del saldo del patrimonio neto de fideicomisos constituidos por los particulares y, en el caso de fideicomisos constituidos por entidades federativas, deberán anexar en dicho sistema la autorización de su titular para la aportación de recursos que sean mayores al 50 por ciento del saldo del patrimonio neto.
 

@@ -17,11 +17,11 @@ source_sha256: 01b72308e67d46ba6ca8a6b07fb7584c6a74e905ea0c4b5be5c0c0d32a6d817a
 
 # Artículo 8
 
-La Secretaría desarrollará las promociones de Sargentos Primeros Especialistas, Especial y General en tres etapas:
+La Secretaría desarrollará las promociones de Sargentos Primeros [Especialistas](articulo-5.md), Especial y General en tres etapas:
 
-I. Primera Etapa: a partir del momento en que la Dirección correspondiente, determina el Personal Potencial para cada una de las promociones y hasta la concentración de quienes reúnan los requisitos. Abarca las siguientes actividades:
+I. Primera Etapa: a partir del momento en que la [Dirección](articulo-5.md) correspondiente, determina el [Personal Potencial](articulo-5.md) para cada una de las promociones y hasta la concentración de quienes reúnan los requisitos. Abarca las siguientes actividades:
 
-A. Las Direcciones Generales concentrarán en el Estado Mayor los expedientes del Personal Potencial que tomará parte en las promociones y las relaciones en las que se justifique el personal que deberá ser excluido por no reunir los requisitos establecidos en la Ley, y
+A. Las Direcciones Generales concentrarán en el [Estado Mayor](articulo-5.md) los expedientes del Personal Potencial que tomará parte en las promociones y las relaciones en las que se justifique el personal que deberá ser excluido por no reunir los requisitos establecidos en la Ley, y
 
 B. El Estado Mayor verificará que la información proporcionada por las Direcciones Generales se encuentre completa y conforme a la Ley, con objeto de que se hagan las comunicaciones de participación o, en su caso, las notificaciones al personal excluido en los términos que señala la Ley.
 

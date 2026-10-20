@@ -17,6 +17,6 @@ source_sha256: d8dd1de3627b899bb4faf31c2812c3d5f14f7108be153d5aa8dd549b9136184a
 
 # Artículo 22
 
-Las políticas, lineamientos y acciones de coordinación entre la federación, las entidades federativas, los municipios y demarcaciones territoriales de la Ciudad de México, se llevarán a cabo mediante la suscripción de convenios de coordinación, en los términos de la normatividad aplicable, o con base en los acuerdos y resoluciones que se tomen en el Consejo Nacional y en las demás instancias de coordinación, con pleno respeto de la autonomía de las entidades federativas y de los municipios.
+Las políticas, lineamientos y acciones de coordinación entre la federación, las entidades federativas, los municipios y demarcaciones territoriales de la Ciudad de México, se llevarán a cabo mediante la suscripción de convenios de coordinación, en los términos de la normatividad aplicable, o con base en los acuerdos y resoluciones que se tomen en el [Consejo Nacional](articulo-2.md) y en las demás instancias de coordinación, con pleno respeto de la autonomía de las entidades federativas y de los municipios.
 
 Artículo reformado DOF 19-01-2018

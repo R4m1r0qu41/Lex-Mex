@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título VI · Capítulo II
+
 # Artículo 189
 
 Las casas de bolsa serán responsables de la existencia, autenticidad e integridad de los valores que coloquen mediante ofertas públicas, así como de aquéllos que depositen en instituciones para el depósito de valores o en instituciones que señale la [Comisión](articulo-2.md) tratándose de valores que por su naturaleza no puedan ser depositados en las primeras.

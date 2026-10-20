@@ -1,0 +1,222 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-pmimss:term:acuerdos-institucionales-de-gestion",
+    "term": "Acuerdos Institucionales de Gestión",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-pmimss",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-pmimss:article:2",
+    "fraction": "I",
+    "start_char": 153,
+    "end_char": 420,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-pmimss:term:area-medica",
+    "term": "Área Médica",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-pmimss",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-pmimss:article:2",
+    "fraction": "II",
+    "start_char": 420,
+    "end_char": 637,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-pmimss:term:atencion-hospitalaria",
+    "term": "Atención hospitalaria",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-pmimss",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-pmimss:article:2",
+    "fraction": "III",
+    "start_char": 637,
+    "end_char": 841,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-pmimss:term:atencion-medica",
+    "term": "Atención médica",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-pmimss",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-pmimss:article:2",
+    "fraction": "IV",
+    "start_char": 841,
+    "end_char": 973,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-pmimss:term:atencion-medico-quirurgica",
+    "term": "Atención médico quirúrgica",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-pmimss",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-pmimss:article:2",
+    "fraction": "V",
+    "start_char": 973,
+    "end_char": 1211,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-pmimss:term:atencion-obstetrica",
+    "term": "Atención obstétrica",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-pmimss",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-pmimss:article:2",
+    "fraction": "VI",
+    "start_char": 1211,
+    "end_char": 1435,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-pmimss:term:enfermedad",
+    "term": "Enfermedad",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-pmimss",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-pmimss:article:2",
+    "fraction": "VII",
+    "start_char": 1435,
+    "end_char": 1847,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-pmimss:term:estomatologo",
+    "term": "Estomatólogo",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-pmimss",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-pmimss:article:2",
+    "fraction": "VIII",
+    "start_char": 1847,
+    "end_char": 2074,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-pmimss:term:expediente-clinico",
+    "term": "Expediente clínico",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-pmimss",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-pmimss:article:2",
+    "fraction": "IX",
+    "start_char": 2074,
+    "end_char": 2394,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-pmimss:term:maternidad",
+    "term": "Maternidad",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-pmimss",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-pmimss:article:2",
+    "fraction": "X",
+    "start_char": 2394,
+    "end_char": 2563,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-pmimss:term:medico-familiar-o-medico-de-familia",
+    "term": "Médico Familiar o Médico de Familia",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-pmimss",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-pmimss:article:2",
+    "fraction": "XI",
+    "start_char": 2563,
+    "end_char": 2930,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-pmimss:term:medico-no-familiar",
+    "term": "Médico No Familiar",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-pmimss",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-pmimss:article:2",
+    "fraction": "XII",
+    "start_char": 2930,
+    "end_char": 3143,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-pmimss:term:medico-tratante",
+    "term": "Médico tratante",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-pmimss",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-pmimss:article:2",
+    "fraction": "XIII",
+    "start_char": 3143,
+    "end_char": 3316,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-pmimss:term:no-derechohabiente",
+    "term": "No derechohabiente",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-pmimss",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-pmimss:article:2",
+    "fraction": "XIV",
+    "start_char": 3316,
+    "end_char": 3552,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-pmimss:term:paciente",
+    "term": "Paciente",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-pmimss",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-pmimss:article:2",
+    "fraction": "XV",
+    "start_char": 3552,
+    "end_char": 3655,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-pmimss:term:prestaciones",
+    "term": "Prestaciones",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-pmimss",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-pmimss:article:2",
+    "fraction": "XVI",
+    "start_char": 3655,
+    "end_char": 3932,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-pmimss:term:salud-reproductiva",
+    "term": "Salud Reproductiva",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-pmimss",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-pmimss:article:2",
+    "fraction": "XVII",
+    "start_char": 3932,
+    "end_char": 4258,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-pmimss:term:servicios",
+    "term": "Servicios",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-pmimss",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-pmimss:article:2",
+    "fraction": "XVIII",
+    "start_char": 4258,
+    "end_char": 4388,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-pmimss:term:sucedaneo",
+    "term": "Sucedáneo",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-pmimss",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-pmimss:article:2",
+    "fraction": "XIX",
+    "start_char": 4388,
+    "end_char": 4502,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-pmimss:term:unidad-medica-de-alta-especialidad",
+    "term": "Unidad Médica de Alta Especialidad",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-pmimss",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-pmimss:article:2",
+    "fraction": "XX",
+    "start_char": 4502,
+    "end_char": 4668,
+    "basis": "express_definition"
+  }
+]

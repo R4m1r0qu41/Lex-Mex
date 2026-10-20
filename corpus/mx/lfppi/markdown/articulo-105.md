@@ -17,7 +17,7 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 105
 
-El Instituto reconocerá como fecha de presentación de una solicitud de patente a la fecha y hora en que ésta sea recibida, siempre que la misma cumpla con los requisitos previstos en el artículo [94](articulo-94.md), fracciones I, IV, VII, VIII y IX de esta Ley.
+El [Instituto](articulo-4.md) reconocerá como fecha de presentación de una solicitud de patente a la fecha y hora en que ésta sea recibida, siempre que la misma cumpla con los requisitos previstos en el artículo [94](articulo-94.md), fracciones I, IV, VII, VIII y IX de esta [Ley](articulo-4.md).
 
 La fecha de presentación determinará la prelación entre las solicitudes.
 

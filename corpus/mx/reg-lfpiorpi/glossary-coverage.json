@@ -1,0 +1,12 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-3",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lfpiorpi",
+  "source_sha256": "8072a83eb174130772570505982e2ed0e6a7f0687db64e5efc309dfb4d2902b9",
+  "extracted_text_sha256": "63acd696b4e2de841295665979b8ef3f8a11cce04911e1425ab46bbb7866d641",
+  "status": "none_detected",
+  "glossaries": [],
+  "imports": [],
+  "term_count": 0,
+  "usage_count": 0
+}

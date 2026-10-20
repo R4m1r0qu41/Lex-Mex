@@ -17,4 +17,4 @@ source_sha256: d25fabb2d2e90d9f76028717f83c442d05a4f64024f13461285bda8ebd389a04
 
 # Artículo 71
 
-La Secretaría promoverá que cada comité elabore su reglamento interior, en el cual se establecerán los mecanismos y procedimientos para su funcionamiento.
+La [Secretaría](articulo-3o.md) promoverá que cada comité elabore su reglamento interior, en el cual se establecerán los mecanismos y procedimientos para su funcionamiento.

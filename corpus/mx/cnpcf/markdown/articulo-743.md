@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Primero · Capítulo I
+
 # Artículo 743
 
 Si transcurrido el término a que se refiere el [artículo anterior](articulo-742.md), sin haberse hecho oposición, la autoridad jurisdiccional lo aprobará sin más trámites. En caso contrario, se substanciará el incidente respectivo.

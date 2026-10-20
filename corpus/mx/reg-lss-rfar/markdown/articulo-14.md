@@ -17,4 +17,4 @@ source_sha256: 4b4529ce2b1275ea9363ab78b6e2d504cd1106bc3d10fd70f09246c38b0cd31e
 
 # Artículo 14
 
-El Consejo Técnico deberá resolver sobre la propuesta del Director General para el uso de las Reservas y de la Reserva General, pudiendo reunirse incluso en sesión extraordinaria en caso necesario.
+El [Consejo Técnico](articulo-2.md) deberá resolver sobre la propuesta del Director General para el uso de las [Reservas](articulo-2.md) y de la [Reserva General](articulo-2.md), pudiendo reunirse incluso en sesión extraordinaria en caso necesario.

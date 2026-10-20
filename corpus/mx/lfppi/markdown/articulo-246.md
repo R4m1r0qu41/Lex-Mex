@@ -41,4 +41,4 @@ X.- Los supuestos bajo los cuales podrán revisarse y, en su caso, modificarse d
 
 No existirá obligación de la persona franquiciataria de enajenar sus activos a la persona franquiciante o a quien ésta designe al término del contrato, salvo pacto en contrario. Párrafo reformado DOF 03-04-2026
 
-Tampoco existirá obligación de la persona franquiciataria de enajenar o transmitir a la persona franquiciante en ningún momento, las acciones de su sociedad o hacerlo socio de ésta, salvo pacto en contrario. Párrafo reformado DOF 03-04-2026 Este artículo se sujetará, en lo conducente, a lo dispuesto en el Reglamento de la presente Ley.
+Tampoco existirá obligación de la persona franquiciataria de enajenar o transmitir a la persona franquiciante en ningún momento, las acciones de su sociedad o hacerlo socio de ésta, salvo pacto en contrario. Párrafo reformado DOF 03-04-2026 Este artículo se sujetará, en lo conducente, a lo dispuesto en el Reglamento de la presente [Ley](articulo-4.md).

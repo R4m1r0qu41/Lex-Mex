@@ -17,4 +17,4 @@ source_sha256: 1e7d06c67fac4c8a100d2bb2845cc765fba5e8ce09d27d30b2b44432ffeb8c41
 
 # Artículo 49
 
-Ni la apertura de la investigación, ni la realización de las diligencias conducentes, se condicionará a la acreditación de lesiones u otras afectaciones físicas o mentales en la Víctima.
+Ni la apertura de la investigación, ni la realización de las diligencias conducentes, se condicionará a la acreditación de lesiones u otras afectaciones físicas o mentales en la [Víctima](articulo-5.md).

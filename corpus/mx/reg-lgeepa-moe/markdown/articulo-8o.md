@@ -17,7 +17,7 @@ source_sha256: d25fabb2d2e90d9f76028717f83c442d05a4f64024f13461285bda8ebd389a04
 
 # Artículo 8o
 
-La Secretaría promoverá la suscripción de los convenios de coordinación que se requieran en términos de la fracción I del artículo que antecede o, en su caso, la actualización de los que ya existan como fundamento de algún programa de ordenamiento ecológico vigente a efecto de adecuarlos a las disposiciones del presente Reglamento.
+La [Secretaría](articulo-3o.md) promoverá la suscripción de los convenios de coordinación que se requieran en términos de la fracción I del artículo que antecede o, en su caso, la actualización de los que ya existan como fundamento de algún programa de ordenamiento ecológico vigente a efecto de adecuarlos a las disposiciones del presente [Reglamento](articulo-3o.md).
 
 Los convenios de coordinación tienen por objeto determinar las acciones, plazos y compromisos que integran la agenda del proceso de ordenamiento ecológico y que deberán contener como mínimo:
 

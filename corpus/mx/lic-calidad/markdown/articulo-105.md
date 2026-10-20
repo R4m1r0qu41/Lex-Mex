@@ -19,7 +19,7 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 Además de las facultades expresamente conferidas en la presente Ley y en su Reglamento, el Centro Nacional de Metrología tendrá las siguientes atribuciones:
 
-I. Fungir como Instituto Nacional de Metrología y coordinador, en conjunto con la Secretaría, del sistema de metrología;
+I. Fungir como Instituto Nacional de Metrología y coordinador, en conjunto con la [Secretaría](articulo-4.md), del sistema de metrología;
 
 II. Desarrollar, establecer, conservar los patrones nacionales de medida y los materiales de referencia certificados y diseminar sus valores con el objetivo de ser el origen de la trazabilidad de las mediciones que se realicen en el país, a reserva de que el patrón nacional de medida o material de referencia certificado pueda ser establecido por algún Instituto Designado de Metrología de acuerdo con su competencia en la materia;
 
@@ -33,9 +33,9 @@ VI. Opinar sobre la inclusión de entidades públicas o privadas como participan
 
 VII. Proporcionar servicios de medición y de calibración de patrones de medida e instrumentos para medir; certificar y proveer materiales de referencia y emitir los certificados correspondientes; prestar servicios de asesoría y realizar proyectos de desarrollo tecnológico para los sectores usuarios;
 
-VIII. Realizar peritajes de tercería, a solicitud de parte; así como efectuar mediciones o pruebas en los procesos de Evaluación de la Conformidad, a solicitud de la Secretaría, de las demás Autoridades Normalizadoras, o de los Organismos de Evaluación de la Conformidad;
+VIII. Realizar peritajes de tercería, a solicitud de parte; así como efectuar mediciones o pruebas en los procesos de [Evaluación de la Conformidad](articulo-4.md), a solicitud de la Secretaría, de las demás [Autoridades Normalizadoras](articulo-4.md), o de los [Organismos de Evaluación de la Conformidad](articulo-4.md);
 
-IX. Participar en la elaboración de Normas Oficiales Mexicanas y Estándares, entre otros, y realizar estudios de viabilidad técnica sobre metrología legal en las cuales se establezca el control legal de instrumentos para medir y que deben ser considerados en el Procedimiento de Evaluación de la Conformidad;
+IX. Participar en la elaboración de [Normas Oficiales Mexicanas](articulo-4.md) y [Estándares](articulo-4.md), entre otros, y realizar estudios de viabilidad técnica sobre metrología legal en las cuales se establezca el control legal de instrumentos para medir y que deben ser considerados en el [Procedimiento de Evaluación de la Conformidad](articulo-4.md);
 
 X. En términos de las Normas Oficiales Mexicanas, aprobar los modelos de instrumentos para medir sujetos a control legal; XI. Colaborar con instituciones educativas, de investigación y desarrollo tecnológico en el desarrollo de la metrología mediante convenios o mecanismos administrativos de colaboración a nivel nacional o internacional, y
 

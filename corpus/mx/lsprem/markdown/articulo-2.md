@@ -17,9 +17,9 @@ source_sha256: bcc21844355854fe331c842c21436d721d6c2856b5c5986715fe39f4a845b317
 
 # Artículo 2
 
-Para los efectos de esta Ley se entiende por:
+Para los efectos de esta [Ley](articulo-2.md) se entiende por:
 
-I. Consejo Ciudadano: El Consejo Ciudadano del Sistema;
+I. Consejo Ciudadano: El Consejo Ciudadano del [Sistema](articulo-2.md);
 
 II. Contraloría: La Contraloría Interna del Sistema; III. Presidente: El titular de la Presidencia del Sistema;
 
@@ -33,6 +33,6 @@ VII. Medio público de radiodifusión: La estación de radio o televisión de un
 
 VIII. Secretaría: La Secretaría de Comunicaciones y Transportes;
 
-IX. Secretario: El titular de la Secretaría de la Junta de Gobierno del Sistema, y
+IX. Secretario: El titular de la [Secretaría](articulo-2.md) de la [Junta de Gobierno](articulo-2.md) del Sistema, y
 
 X. Sistema: El Sistema Público de Radiodifusión del Estado Mexicano.

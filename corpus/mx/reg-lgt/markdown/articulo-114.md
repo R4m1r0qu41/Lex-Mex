@@ -17,4 +17,4 @@ source_sha256: 6680a58c98673518aee46582b3137d28987c275785d1f0c97295f0d89c4b692b
 
 # Artículo 114
 
-Los afectados por actos o resoluciones que emita la Secretaría en términos de la Ley, el presente Reglamento y Normas Oficiales Mexicanas en materia de Turismo, podrán interponer el Recurso de Revisión previsto en la Ley, el cual deberá tramitarse y resolverse de acuerdo a lo dispuesto en la Ley Federal de Procedimiento Administrativo.
+Los afectados por actos o resoluciones que emita la Secretaría en términos de la Ley, el presente Reglamento y Normas Oficiales Mexicanas en materia de [Turismo](articulo-2.md), podrán interponer el Recurso de Revisión previsto en la Ley, el cual deberá tramitarse y resolverse de acuerdo a lo dispuesto en la Ley Federal de Procedimiento Administrativo.

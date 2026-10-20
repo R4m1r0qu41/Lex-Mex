@@ -17,7 +17,7 @@ source_sha256: d0021bbef2e0c3251d6efdea2c1efd9959ff3f02df4bcd1fc37c1ee7826a72ba
 
 # Artículo 131
 
-Cuando la infracción sea cometida por quien haya sido sancionado previamente por la realización de prácticas monopólicas o concentraciones ilícitas, la Comisión considerará los elementos a que hace referencia el artículo [130](articulo-130.md) de esta Ley y en lugar de la sanción que corresponda, podrá resolver la desincorporación o enajenación de activos, derechos, partes sociales o acciones de los Agentes Económicos, en las porciones necesarias para eliminar efectos anticompetitivos. Para los efectos del párrafo anterior, en su resolución, la Comisión deberá incluir un análisis económico que justifique la imposición de dicha medida, señalando los beneficios al consumidor.
+Cuando la infracción sea cometida por quien haya sido sancionado previamente por la realización de prácticas monopólicas o concentraciones ilícitas, la [Comisión](articulo-3.md) considerará los elementos a que hace referencia el artículo [130](articulo-130.md) de esta Ley y en lugar de la sanción que corresponda, podrá resolver la desincorporación o enajenación de activos, derechos, partes sociales o acciones de los [Agentes Económicos](articulo-3.md), en las porciones necesarias para eliminar efectos anticompetitivos. Para los efectos del párrafo anterior, en su resolución, la Comisión deberá incluir un análisis económico que justifique la imposición de dicha medida, señalando los beneficios al consumidor.
 
 Para efectos de lo dispuesto en este artículo, se entenderá que el infractor ha sido sancionado previamente cuando:
 

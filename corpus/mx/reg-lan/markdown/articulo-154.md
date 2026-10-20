@@ -17,9 +17,9 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 154
 
-"La Comisión", en el ámbito de su competencia, realizará un monitoreo sistemático y permanente de la calidad de las aguas nacionales continentales, y establecerá y mantendrá actualizado el sistema nacional de información de la calidad del agua a partir de:
+"[La Comisión](articulo-1o.md)", en el ámbito de su competencia, realizará un monitoreo sistemático y permanente de la calidad de las aguas nacionales continentales, y establecerá y mantendrá actualizado el sistema nacional de información de la calidad del agua a partir de:
 
-I. Los estudios y el monitoreo de la calidad de las aguas continentales y marinas, que se lleven a cabo en los términos previstos en la "Ley" y el presente "Reglamento";
+I. Los estudios y el monitoreo de la calidad de las aguas continentales y marinas, que se lleven a cabo en los términos previstos en la "[Ley](articulo-1o.md)" y el presente "[Reglamento](articulo-1o.md)";
 
 II. El inventario de plantas de tratamiento de aguas residuales, y
 

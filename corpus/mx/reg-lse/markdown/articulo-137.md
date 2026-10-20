@@ -17,4 +17,4 @@ source_sha256: 4bcc982b308b0813469b30db61b53d5a2c41e5a7240b3b1cac2f1aeeb2c00a2e
 
 # Artículo 137
 
-Cuando la Solicitante de una conexión o interconexión considere que los actos del CENACE, la Transportista o la Distribuidora no se apegan a lo dispuesto en la Ley, este reglamento o a las disposiciones jurídicas aplicables, puede presentar el medio de impugnación ante el CENACE, la Transportista o la Distribuidora, según corresponda, en los términos de las Reglas del Mercado o demás ordenamientos jurídicos en la materia.
+Cuando la [Solicitante](articulo-2.md) de una conexión o interconexión considere que los actos del CENACE, la Transportista o la Distribuidora no se apegan a lo dispuesto en la [Ley](articulo-2.md), este reglamento o a las disposiciones jurídicas aplicables, puede presentar el medio de impugnación ante el CENACE, la Transportista o la Distribuidora, según corresponda, en los términos de las Reglas del Mercado o demás ordenamientos jurídicos en la materia.

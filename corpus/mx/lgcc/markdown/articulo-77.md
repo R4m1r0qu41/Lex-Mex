@@ -21,7 +21,7 @@ EI Sistema de Información sobre el Cambio Climático deberá generar, con el ap
 
 I. Las emisiones del inventario nacional, de los inventarios estatales y del registro;
 
-II. Los proyectos de reducción de emisiones del Registro o de aquellos que participen en los acuerdos de los que los Estados Unidos Mexicanos sean parte;
+II. Los proyectos de reducción de emisiones del [Registro](articulo-3o.md) o de aquellos que participen en los acuerdos de los que los Estados Unidos Mexicanos sean parte;
 
 III. Las condiciones atmosféricas del territorio nacional, pronósticos del clima en el corto plazo, proyecciones de largo plazo y caracterización de la variabilidad climática;
 

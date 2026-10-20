@@ -17,7 +17,7 @@ source_sha256: 0574853d06020030188e8aee1eae5dabb2b476ac630cc52be631a48d2b91adbc
 
 # Artículo 151 BIS
 
-Requiere autorización previa de la Secretaría:
+Requiere autorización previa de la [Secretaría](articulo-3o.md):
 
 I.- La prestación de servicios a terceros que tenga por objeto la operación de sistemas para la recolección, almacenamiento, transporte, reuso, tratamiento, reciclaje, incineración y disposición final de residuos peligrosos;
 

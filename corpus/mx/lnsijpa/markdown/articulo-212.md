@@ -17,7 +17,7 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 # Artículo 212
 
-Traslados involuntarios con autorización previa El traslado involuntario de las personas privadas de la libertad debe llevarse a cabo con la autorización previa del Órgano Jurisdiccional competente en el Centro de Internamiento de origen, salvo en los casos de traslados involuntarios por razones urgentes.
+Traslados involuntarios con autorización previa El traslado involuntario de las personas privadas de la libertad debe llevarse a cabo con la autorización previa del [Órgano Jurisdiccional](articulo-3.md) competente en el Centro de Internamiento de origen, salvo en los casos de traslados involuntarios por razones urgentes.
 
 El traslado involuntario puede ser solicitado por el Centro de Internamiento o por el Ministerio Público, ante el Órgano Jurisdiccional competente.
 

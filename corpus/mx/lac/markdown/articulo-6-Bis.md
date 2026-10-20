@@ -13,21 +13,23 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAC.pdf
 source_sha256: 07199878c4f94748c983998437198eb7c645ad76967c444dfe26d50a535d23ae
 ---
 
+> Capítulo II
+
 # Artículo 6 Bis
 
-A la Agencia Federal de Aviación Civil, le corresponde ejercer las atribuciones siguientes:
+A la [Agencia Federal de Aviación Civil](articulo-2.md), le corresponde ejercer las atribuciones siguientes:
 
 I. Otorgar permisos, vigilar su cumplimiento y, en su caso, resolver sus modificaciones, prórrogas y terminaciones;
 
 II. Otorgar las excepciones, exenciones y extensiones que se requieran en beneficio de la seguridad de las operaciones aéreas, las cuales deben establecerse en las disposiciones técnico-administrativas en materia de aviación civil correspondientes, siempre y cuando existan circunstancias de caso fortuito y fuerza mayor, problemas geográficos, sanitarios o de carácter físico;
 
-III. Expedir las disposiciones técnico-administrativas en materia de aviación civil para el cumplimiento de lo dispuesto en esta Ley y en los tratados en los que el Estado mexicano es parte, mismas que deben publicarse en el Diario Oficial de la Federación y difundirse en la Publicación de Información Aeronáutica de México.
+III. Expedir las disposiciones técnico-administrativas en materia de aviación civil para el cumplimiento de lo dispuesto en esta Ley y en los tratados en los que el Estado mexicano es parte, mismas que deben publicarse en el Diario Oficial de la Federación y difundirse en la [Publicación de Información Aeronáutica](articulo-2.md) de México.
 
 Para el proceso de creación de las disposiciones técnico-administrativas en materia de aviación civil, la Agencia Federal de Aviación Civil debe tomar en consideración la opinión no vinculante de las propuestas realizadas por la industria aeronáutica conforme a la materia de la cual trate;
 
 IV. Normar y vigilar los servicios a la navegación aérea y establecer las condiciones de operación a que deben sujetarse a través de las reglas de tránsito aéreo o disposición técnico-administrativa que regulen los servicios de navegación aérea;
 
-V. Expedir y aplicar, en coordinación con las Secretarías competentes, las medidas y normas de seguridad e higiene, de seguridad en la aviación civil y en materia ambiental, que deben observarse en los servicios de transporte aéreo, así como vigilar su cumplimiento;
+V. Expedir y aplicar, en coordinación con las [Secretarías](articulo-2.md) competentes, las medidas y normas de seguridad e higiene, de seguridad en la aviación civil y en materia ambiental, que deben observarse en los servicios de transporte aéreo, así como vigilar su cumplimiento;
 
 VI. Expedir los certificados de:
 
@@ -65,7 +67,7 @@ XIX. Aplicar las normas oficiales mexicanas, así como expedir y aplicar las dis
 
 XX. Autorizar el establecimiento de oficinas de despacho de vuelos en la modalidad correspondiente, de acuerdo con la normativa aplicable;
 
-XXI. Efectuar la investigación administrativa y de seguridad aérea (regulatory investigation), que comprende otorgar la garantía de audiencia de los presuntos infractores y llevar a cabo el examen o indagación oficial de los hechos, en términos de la normativa aplicable, para determinar la responsabilidad administrativa en los accidentes o incidentes de que tenga conocimiento la Agencia Federal de Aviación Civil, con relación a los servicios de transporte aéreo, aeropuertos, aeródromos, servicios aeroportuarios y complementarios e instalaciones, así como de los servicios de apoyo a la navegación aérea, control del tránsito aéreo, las personas concesionarias, asignatarias, permisionarias y operadoras aéreas que cuenten con algún certificado o autorización otorgados por la Agencia Federal de Aviación Civil o Autoridad de Aviación Civil Extranjera, lo anterior de manera enunciativa más no limitativa, a fin de determinar las medidas de seguridad y sanciones que procedan; XXII. Expedir una aprobación específica para el transporte de mercancías peligrosas;
+XXI. Efectuar la investigación administrativa y de seguridad aérea (regulatory investigation), que comprende otorgar la garantía de audiencia de los presuntos infractores y llevar a cabo el examen o indagación oficial de los hechos, en términos de la normativa aplicable, para determinar la responsabilidad administrativa en los accidentes o incidentes de que tenga conocimiento la Agencia Federal de Aviación Civil, con relación a los servicios de transporte aéreo, aeropuertos, aeródromos, servicios aeroportuarios y complementarios e instalaciones, así como de los servicios de apoyo a la navegación aérea, control del tránsito aéreo, las personas concesionarias, asignatarias, permisionarias y operadoras aéreas que cuenten con algún certificado o autorización otorgados por la Agencia Federal de Aviación Civil o [Autoridad de Aviación Civil Extranjera](articulo-2.md), lo anterior de manera enunciativa más no limitativa, a fin de determinar las medidas de seguridad y sanciones que procedan; XXII. Expedir una aprobación específica para el transporte de mercancías peligrosas;
 
 XXIII. Convalidar los certificados o documentos expedidos por Autoridades de Aviación Civil Extranjeras, organizaciones de instrucción reconocidas y talleres aeronáuticos en el extranjero, siempre y cuando el país de origen cumpla con los estándares y métodos recomendados por la Organización de Aviación Civil Internacional;
 
@@ -111,7 +113,7 @@ XLIII. Vigilar que el personal de las comandancias de aeropuerto de su región e
 
 XLIV. Proporcionar asistencia técnica de conformidad con los tratados y acuerdos que se celebren para tal efecto;
 
-XLV. Implementar el Programa de Seguridad de la Aviación Civil del Estado mexicano;
+XLV. Implementar el [Programa de Seguridad de la Aviación Civil del Estado mexicano](articulo-2.md);
 
 XLVI. Fijar las medidas necesarias para prevenir los actos de interferencia ilícita;
 

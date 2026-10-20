@@ -17,4 +17,4 @@ source_sha256: 43723ba379e128c1a1c1be4b085ecc870946cdec43d56f83e7314c077361368f
 
 # Artículo 30
 
-El corredor deberá notificar a la Secretaría los cambios significativos que tenga su firma durante el transcurso del tiempo.
+El corredor deberá notificar a la [Secretaría](articulo-2o.md) los cambios significativos que tenga su firma durante el transcurso del tiempo.

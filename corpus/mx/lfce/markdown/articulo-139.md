@@ -17,7 +17,7 @@ source_sha256: d0021bbef2e0c3251d6efdea2c1efd9959ff3f02df4bcd1fc37c1ee7826a72ba
 
 # Artículo 139
 
-La Comisión podrá certificar, en términos del Reglamento y las Disposiciones Regulatorias que al efecto emita, previo pago de derechos, aquellos programas de cumplimiento que implementen los Agentes Económicos en materia de prevención y detección de actos violatorios de esta Ley.
+La [Comisión](articulo-3.md) podrá certificar, en términos del [Reglamento](articulo-3.md) y las [Disposiciones Regulatorias](articulo-3.md) que al efecto emita, previo pago de derechos, aquellos programas de cumplimiento que implementen los [Agentes Económicos](articulo-3.md) en materia de prevención y detección de actos violatorios de esta Ley.
 
 La certificación emitida por la Comisión en términos de este artículo tendrá una vigencia de tres años.
 

@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf
 source_sha256: 43927095d22ff7bc7780e78132d2160b5050b5f76026b539daec32be09d7341d
 ---
 
-> Capítulo II · Sección TERCERA
+> Título Octavo · Capítulo Unico
 
 # Artículo 184
 
@@ -41,7 +41,9 @@ IX. Omitan transmitir electrónicamente la siguiente información:
 
 a) La relativa a cada pasajero, tripulante y medio de transporte a que se refiere el primer párrafo del artículo [7](articulo-7o.md)o. de esta Ley.
 
-b) La relativa a las mercancías que por cada medio de transporte vayan a arribar a territorio nacional a que se refiere la fracción VII del artículo [20](articulo-20.md) de esta Ley. Fracción reformada DOF 30-12-2002 X. Omitan dar el aviso a que se refiere el segundo párrafo del artículo [7](articulo-7o.md)o. de esta Ley.
+b) La relativa a las mercancías que por cada medio de transporte vayan a arribar a territorio nacional a que se refiere la fracción VII del artículo [20](articulo-20.md) de esta Ley. Fracción reformada DOF 30-12-2002
+
+X. Omitan dar el aviso a que se refiere el segundo párrafo del artículo [7](articulo-7o.md)o. de esta Ley.
 
 XI. Presenten el pedimento en el módulo de selección automatizado sin la consignación de pago del módulo bancario, sin la firma electrónica avanzada, sin el sello digital o sin el medio tecnológico de identificación respectivo, de quien deba firmar el pedimento conforme a las disposiciones aduaneras. Fracción adicionada DOF 31-12-1998. Reformada DOF 09-12-2013, 25-06-2018
 

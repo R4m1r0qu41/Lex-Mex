@@ -17,7 +17,7 @@ source_sha256: 23dcee090bbe0c4fb06c75d084cb65ce0b2e8f72a8d082e7059504412bde1614
 
 # Artículo 82
 
-Las cuestiones sometidas al arbitraje se tramitarán y resolverán con arreglo a lo dispuesto por la Ley y este Reglamento, mediante el procedimiento que acuerden los solicitantes:
+Las cuestiones sometidas al arbitraje se tramitarán y resolverán con arreglo a lo dispuesto por la [Ley](articulo-2o.md) y este Reglamento, mediante el procedimiento que acuerden los solicitantes:
 
 I.- Como amigable componedor, o
 

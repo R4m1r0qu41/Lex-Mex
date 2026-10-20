@@ -17,4 +17,4 @@ source_sha256: d25fabb2d2e90d9f76028717f83c442d05a4f64024f13461285bda8ebd389a04
 
 # Artículo 55
 
-La Secretaría promoverá la suscripción de bases de colaboración con otras dependencias o entidades de la Administración Pública Federal que tengan incidencia en zonas sujetas a procesos de ordenamiento ecológico marino.
+La [Secretaría](articulo-3o.md) promoverá la suscripción de bases de colaboración con otras dependencias o entidades de la Administración Pública Federal que tengan incidencia en zonas sujetas a procesos de ordenamiento ecológico marino.

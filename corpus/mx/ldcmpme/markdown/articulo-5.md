@@ -17,4 +17,4 @@ source_sha256: 4933abadd27d345e7a5c1754af10ed429fd148b709b4a78d4f42447b5fcd546d
 
 # Artículo 5
 
-La Secretaría elaborará los programas sectoriales correspondientes en el marco de la normativa aplicable, tomando en cuenta los objetivos y criterios establecidos en la presente Ley, así como los acuerdos que tome el Consejo.
+La [Secretaría](articulo-3.md) elaborará los programas sectoriales correspondientes en el marco de la normativa aplicable, tomando en cuenta los objetivos y criterios establecidos en la presente [Ley](articulo-3.md), así como los acuerdos que tome el [Consejo](articulo-3.md).

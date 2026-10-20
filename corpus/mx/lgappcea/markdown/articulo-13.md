@@ -17,9 +17,9 @@ source_sha256: 8d3d1a9b2d2dec12c65695cd5b87d60f76e2f3c64356f73ab6011d7dc40fbe37
 
 # Artículo 13
 
-La Comisión estará integrada por los titulares de las siguientes dependencias de la Administración Pública Federal:
+La [Comisión](articulo-3.md) estará integrada por los titulares de las siguientes dependencias de la Administración Pública Federal:
 
-I. La Secretaría, quien presidirá la Comisión; II. La Secretaría de Educación Pública;
+I. La [Secretaría](articulo-3.md), quien presidirá la Comisión; II. La Secretaría de Educación Pública;
 
 III. La Secretaría del Trabajo y Previsión Social;
 

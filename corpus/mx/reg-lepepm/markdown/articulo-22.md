@@ -17,4 +17,4 @@ source_sha256: 9080231242a59cbd78d30fb747864bc45cd63d3c4978f37086b01e45343f4244
 
 # Artículo 22
 
-Para determinar la remuneración de las Personas Consejeras Independientes y de la Persona Comisaria, se deben considerar los lineamientos que para tal efecto emita el Comité Especial, los cuales deben observar lo previsto en el artículo [26](../../lepepm/markdown/articulo-26.md), párrafo tercero de la Ley.
+Para determinar la remuneración de las [Personas Consejeras Independientes](articulo-2.md) y de la [Persona Comisaria](articulo-2.md), se deben considerar los lineamientos que para tal efecto emita el [Comité Especial](articulo-2.md), los cuales deben observar lo previsto en el artículo [26](../../lepepm/markdown/articulo-26.md), párrafo tercero de la [Ley](articulo-2.md).

@@ -1,0 +1,63 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-3",
+  "instrument_id": "urn:lex-mx:federal:statute:lss",
+  "source_sha256": "8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed",
+  "extracted_text_sha256": "7640325c11dcef66914393008eb777f498142ac1ab6990da3316db4faf6a3859",
+  "status": "configured",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lss:article:5-a",
+      "provision_text_sha256": "4ce618c2dde2a689256f2ebbef3b6cfc4f18980474a8a8bd8da23af15b3de69a",
+      "method": "auto_whole",
+      "fractions": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII",
+        "XIII",
+        "XIV",
+        "XV",
+        "XVI",
+        "XVII",
+        "XVIII",
+        "XIX",
+        "XX",
+        "XXI",
+        "XXII",
+        "XXIII",
+        "XXIV"
+      ],
+      "repeal_placeholders": [],
+      "term_count": 24
+    },
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lss:article:159",
+      "provision_text_sha256": "cbb4a8f163a8f9213698c2bab49639699c03530e24b72aa0972b722f9cb35b3c",
+      "method": "auto_established",
+      "fractions": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI"
+      ],
+      "unread_fractions": [
+        "VII"
+      ],
+      "term_count": 6
+    }
+  ],
+  "imports": [],
+  "term_count": 30,
+  "usage_count": 946
+}

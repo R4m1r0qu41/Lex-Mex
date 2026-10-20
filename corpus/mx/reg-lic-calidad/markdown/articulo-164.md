@@ -17,4 +17,4 @@ source_sha256: d23aedc9ffdb09b9202311f03023241da20445cb45aea855b37bfd9685768861
 
 # Artículo 164
 
-Una vez que el Comité Técnico de Estandarización atienda los comentarios, las respuestas deben ser publicadas en la PLATIICA, previa a la publicación del Estándar definitivo. En los casos de Estándares elaborados por Autoridades Normalizadoras, se debe ordenar la publicación del extracto en el Diario Oficial de la Federación, además de publicar de manera íntegra su contenido en la PLATIICA.
+Una vez que el Comité Técnico de Estandarización atienda los comentarios, las respuestas deben ser publicadas en la [PLATIICA](articulo-2.md), previa a la publicación del Estándar definitivo. En los casos de Estándares elaborados por Autoridades Normalizadoras, se debe ordenar la publicación del extracto en el Diario Oficial de la Federación, además de publicar de manera íntegra su contenido en la PLATIICA.

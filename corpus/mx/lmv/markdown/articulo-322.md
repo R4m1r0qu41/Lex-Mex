@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título XI · Capítulo I
+
 # Artículo 322
 
 Las actividades que tengan por objeto la prestación habitual y profesional del servicio de cálculo, determinación y proveeduría o suministro de precios actualizados para la valuación de valores, instrumentos financieros derivados en mercados reconocidos por las autoridades financieras o índices, así como de envío de información relacionada con dichas actividades, estarán reservadas a los proveedores de precios.

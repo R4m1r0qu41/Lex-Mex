@@ -17,4 +17,4 @@ source_sha256: 45deb87bfd634dfbd1cb7d9fd67a476ad954187908eb0cb06256c90ccc0feb80
 
 # Artículo 67
 
-Los agentes de transformación, comercialización, importación y exportación de café que lo requieran, certificarán la calidad de sus productos con la entidad o entidades que establezca la Secretaría o, en su caso, conforme al procedimiento establecido en las Normas Oficiales Mexicanas en la materia.
+Los agentes de transformación, comercialización, importación y exportación de café que lo requieran, certificarán la calidad de sus productos con la entidad o entidades que establezca la [Secretaría](articulo-3.md) o, en su caso, conforme al procedimiento establecido en las Normas Oficiales Mexicanas en la materia.

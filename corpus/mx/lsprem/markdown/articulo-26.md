@@ -17,11 +17,11 @@ source_sha256: bcc21844355854fe331c842c21436d721d6c2856b5c5986715fe39f4a845b317
 
 # Artículo 26
 
-Las personas que integren el Consejo Ciudadano podrán ser substituidas de su cargo antes de la conclusión de su período, en los siguientes casos: Párrafo reformado DOF 11-05-2022
+Las personas que integren el [Consejo Ciudadano](articulo-2.md) podrán ser substituidas de su cargo antes de la conclusión de su período, en los siguientes casos: Párrafo reformado DOF 11-05-2022
 
 I. Dejar de asistir en forma injustificada a tres sesiones consecutivas o seis aisladas en un plazo de dos años;
 
-II. No cumplir o violentar los fines del Sistema, o
+II. No cumplir o violentar los fines del [Sistema](articulo-2.md), o
 
 III. Renunciar expresamente.
 

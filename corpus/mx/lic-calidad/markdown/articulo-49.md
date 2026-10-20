@@ -17,7 +17,7 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 # Artículo 49
 
-Para operar como Entidad de Acreditación se requiere la autorización de la Secretaría, previa opinión favorable de la Comisión y cumplir con lo siguiente, de acuerdo con lo previsto en el Reglamento de esta Ley:
+Para operar como [Entidad de Acreditación](articulo-4.md) se requiere la autorización de la [Secretaría](articulo-4.md), previa opinión favorable de la [Comisión](articulo-4.md) y cumplir con lo siguiente, de acuerdo con lo previsto en el Reglamento de esta Ley:
 
 I. Acreditar la capacidad jurídica, técnica, administrativa y financiera, debiendo constituirse como una persona moral, cuyo objeto social principal sea desarrollar tareas de acreditación en términos de esta Ley, para lo que se deberá acompañar:
 
@@ -29,7 +29,7 @@ c) Documentos que demuestren su solvencia financiera para asegurar la continuida
 
 II. Detallar la estructura organizacional de la entidad;
 
-III. Detallar la metodología que utilizará para evaluar y, en su caso, otorgar las acreditaciones a quienes lo soliciten conforme a los Estándares nacionales o las Normas Internacionales aplicables y vigentes. Cualquier cambio sustancial en esa metodología deberá ser presentado para su aprobación por parte de la Secretaría, previa opinión favorable de la Comisión;
+III. Detallar la metodología que utilizará para evaluar y, en su caso, otorgar las acreditaciones a quienes lo soliciten conforme a los [Estándares](articulo-4.md) nacionales o las [Normas Internacionales](articulo-4.md) aplicables y vigentes. Cualquier cambio sustancial en esa metodología deberá ser presentado para su aprobación por parte de la Secretaría, previa opinión favorable de la Comisión;
 
 IV. Demostrar su capacidad para atender una o diversas materias técnicas, sectores o ramas de actividad, que corresponden al campo de la evaluación de la conformidad respectivo;
 

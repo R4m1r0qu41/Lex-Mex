@@ -13,8 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Capítulo II · Sección Cuarta
+
 # Artículo 1168
 
 La entrega de resultados o devolución de un exhorto o carta rogatoria, se hará por la misma vía en que se recibió, o por la vía en que lo solicite la autoridad jurisdiccional internacional requirente.
-
-Sección Quinta De la Utilización de [Videoconferencias](articulo-2.md) en Procesos Internacionales

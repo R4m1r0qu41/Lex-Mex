@@ -17,13 +17,13 @@ source_sha256: 667636f9e0ea65e72ac9d6d7b4d7563a183b75d0f140268a61929c74f5f88041
 
 # Artículo 52
 
-La Secretaría Ejecutiva establecerá el sistema informático para recibir la información a que se refiere el [artículo anterior](articulo-51.md), a efecto de incorporarla al Sistema Nacional de Información sobre Bioseguridad.
+La [Secretaría Ejecutiva](articulo-2.md) establecerá el sistema informático para recibir la información a que se refiere el [artículo anterior](articulo-51.md), a efecto de incorporarla al Sistema Nacional de Información sobre Bioseguridad.
 
 Serán responsables de incorporar a dicho sistema informático, en los plazos para ello establecidos, los que a continuación se indican:
 
 I. Las Secretarías, de conformidad con lo dispuesto en el artículo [57](articulo-57.md) de este Reglamento, para efectos de la información prevista en la fracción I del [artículo anterior](articulo-51.md);
 
-II. La Secretaría competente que haya promovido el Acuerdo para la determinación de un centro de origen y de diversidad genética, para efectos de la información prevista en la fracción III, inciso a), del [artículo anterior](articulo-51.md), y deberá hacerlo dentro de los cinco días hábiles siguientes a que se hayan publicado los Acuerdos;
+II. La [Secretaría competente](articulo-2.md) que haya promovido el Acuerdo para la determinación de un centro de origen y de diversidad genética, para efectos de la información prevista en la fracción III, inciso a), del [artículo anterior](articulo-51.md), y deberá hacerlo dentro de los cinco días hábiles siguientes a que se hayan publicado los Acuerdos;
 
 III. La SEMARNAT, para efectos de la información prevista en la fracción III, inciso b), del [artículo anterior](articulo-51.md), y deberá hacerlo dentro de los cinco días hábiles siguientes a que se haya creado un área natural protegida de carácter federal;
 

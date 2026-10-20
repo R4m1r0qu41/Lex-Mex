@@ -17,4 +17,4 @@ source_sha256: 70464807d63da08244e495f2ff0ac30b12b30119926b84cedc7930397fcb80ef
 
 # Artículo 147
 
-Sólo podrán proporcionarse dotaciones de fórmulas para lactantes para utilizarse en investigación clínica cuando los protocolos respectivos estén debidamente sancionados por la comisión de investigación del establecimiento que preste servicios de atención médica y autorizados por la Secretaría en términos de las disposiciones aplicables.
+Sólo podrán proporcionarse dotaciones de fórmulas para lactantes para utilizarse en investigación clínica cuando los protocolos respectivos estén debidamente sancionados por la comisión de investigación del establecimiento que preste servicios de atención médica y autorizados por la [Secretaría](articulo-2o.md) en términos de las disposiciones aplicables.

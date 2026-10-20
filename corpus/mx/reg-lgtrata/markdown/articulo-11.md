@@ -17,4 +17,4 @@ source_sha256: 1d398a90955ef45ccb7baf4d56534c676cde8325e8b109c4d32120909e783694
 
 # Artículo 11
 
-Cuando el Ministerio Público Federal tenga conocimiento de la comisión de cualquiera de los delitos previstos en la Ley, solicitará a la instancia competente de atención a víctimas se proporcionen de manera inmediata y urgente la Atención Médica Integral y psicológica para las víctimas, ofendidos o testigos de tales delitos, la cual se podrá auxiliar de las demás dependencias y entidades de la Administración Pública Federal que presten servicios de atención a la salud.
+Cuando el Ministerio Público Federal tenga conocimiento de la comisión de cualquiera de los delitos previstos en la Ley, solicitará a la instancia competente de atención a víctimas se proporcionen de manera inmediata y urgente la [Atención Médica Integral](articulo-2.md) y psicológica para las víctimas, ofendidos o testigos de tales delitos, la cual se podrá auxiliar de las demás dependencias y entidades de la Administración Pública Federal que presten servicios de atención a la salud.

@@ -17,7 +17,7 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Artículo 110
 
-El Registro Nacional deberá contener como mínimo los siguientes criterios de clasificación:
+El [Registro Nacional](articulo-4.md) deberá contener como mínimo los siguientes criterios de clasificación:
 
 I. De Personas Localizadas:
 
@@ -27,7 +27,7 @@ b) Persona Localizada víctima de un delito materia de esta Ley, y
 
 c) Persona Localizada víctima de un delito diverso;
 
-II. De Personas Desaparecidas o No Localizadas:
+II. De [Personas Desaparecidas](articulo-4.md) o No Localizadas:
 
 a) Con carpeta de investigación o averiguación previa, y
 

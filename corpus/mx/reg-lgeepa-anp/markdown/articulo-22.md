@@ -17,4 +17,4 @@ source_sha256: 4e276866fce1638948a6daf1a5c0438fa412554f1a6e0381cbdf7cb300e3db75
 
 # Artículo 22
 
-Los miembros del Consejo e invitados especiales al Consejo Asesor, podrán participar en las reuniones de éste con voz pero sin voto.
+Los miembros del [Consejo](articulo-3o.md) e invitados especiales al Consejo Asesor, podrán participar en las reuniones de éste con voz pero sin voto.

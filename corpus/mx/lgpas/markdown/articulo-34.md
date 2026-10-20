@@ -17,8 +17,8 @@ source_sha256: 160e5e85efddb1749a79f6b154af31711a9b31a5e32bace3c07e2859c2620ecf
 
 # Artículo 34
 
-La SEMARNAT participará en la revisión del proyecto de Carta Nacional Pesquera y sus actualizaciones. Para tales efectos, contará con un plazo de cuarenta y cinco días contados a partir de que reciba el proyecto, enviado por el IMIPAS, pudiendo solicitar información adicional si así lo requiere y emitir, en su caso, las observaciones y recomendaciones que considere pertinentes, debidamente motivadas y fundamentadas, las cuales serán tomadas en cuenta por el IMIPAS en la formulación del documento definitivo.
+La [SEMARNAT](articulo-4o.md) participará en la revisión del proyecto de Carta Nacional Pesquera y sus actualizaciones. Para tales efectos, contará con un plazo de cuarenta y cinco días contados a partir de que reciba el proyecto, enviado por el [IMIPAS](articulo-4o.md), pudiendo solicitar información adicional si así lo requiere y emitir, en su caso, las observaciones y recomendaciones que considere pertinentes, debidamente motivadas y fundamentadas, las cuales serán tomadas en cuenta por el IMIPAS en la formulación del documento definitivo.
 
-Si en el plazo señalado la SEMARNAT no realiza observaciones o recomendaciones al proyecto de Carta Nacional Pesquera o a sus actualizaciones, se entenderá que no existe objeción de su parte al contenido de dicho proyecto y el IMIPAS lo turnará a la Secretaría para su expedición.
+Si en el plazo señalado la SEMARNAT no realiza observaciones o recomendaciones al proyecto de Carta Nacional Pesquera o a sus actualizaciones, se entenderá que no existe objeción de su parte al contenido de dicho proyecto y el IMIPAS lo turnará a la [Secretaría](articulo-4o.md) para su expedición.
 
 Artículo reformado DOF 04-12-2023

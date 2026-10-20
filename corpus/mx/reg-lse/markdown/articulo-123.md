@@ -17,4 +17,4 @@ source_sha256: 4bcc982b308b0813469b30db61b53d5a2c41e5a7240b3b1cac2f1aeeb2c00a2e
 
 # Artículo 123
 
-La solicitud para la aprobación y expedición de las Tarifas Eléctricas, contraprestaciones, precios y costos, así como de su modificación, se debe sujetar al procedimiento que se establezca en las disposiciones administrativas de carácter general que para tal efecto emita la CNE, en coordinación con la Secretaría.
+La solicitud para la aprobación y expedición de las [Tarifas Eléctricas](articulo-2.md), contraprestaciones, precios y costos, así como de su modificación, se debe sujetar al procedimiento que se establezca en las disposiciones administrativas de carácter general que para tal efecto emita la CNE, en coordinación con la Secretaría.

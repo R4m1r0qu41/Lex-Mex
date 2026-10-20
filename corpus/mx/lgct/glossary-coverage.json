@@ -1,0 +1,51 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-3",
+  "instrument_id": "urn:lex-mx:federal:statute:lgct",
+  "source_sha256": "9f964bc5c075d7cf47e5e9df7c2fbe262eb5bd1794de9b230dbd72026a51ae5e",
+  "extracted_text_sha256": "10ef4d64ba0d43827dcf3e430e0564e133ada5030905081d97ac2635306027ca",
+  "status": "detected",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lgct:article:6",
+      "provision_text_sha256": "97f3e70422512ec69003c17dd060a3b2afdb90e9c1fa03f1430d5ffb7940cc7a",
+      "method": "wider_pass",
+      "fractions": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "X Bis",
+        "X Ter",
+        "X Quáter",
+        "XI",
+        "XII",
+        "XIII",
+        "XIV",
+        "XV",
+        "XVI",
+        "XVII",
+        "XVIII",
+        "XIX",
+        "XX",
+        "XXI",
+        "XXII",
+        "XXIII",
+        "XXIV",
+        "XXV",
+        "XXVI"
+      ],
+      "repeal_placeholders": [],
+      "term_count": 29
+    }
+  ],
+  "imports": [],
+  "term_count": 29,
+  "usage_count": 97
+}

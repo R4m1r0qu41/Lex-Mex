@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo I
+
 # Artículo 237
 
 La determinación de no admitir la demanda o cualquier otra por la que no se le dé curso, se podrá impugnar mediante el recurso de queja, para que el Tribunal de Segunda Instancia competente dicte la resolución que corresponda, bajo los lineamentos que en derecho le ordene a la autoridad jurisdiccional. En contra de dicha resolución no procede recurso ordinario alguno. En contra del auto que admita la demanda no es procedente recurso alguno.

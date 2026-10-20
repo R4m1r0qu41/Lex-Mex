@@ -17,7 +17,7 @@ source_sha256: bcc21844355854fe331c842c21436d721d6c2856b5c5986715fe39f4a845b317
 
 # Artículo 23
 
-El Consejo Ciudadano se integrará conforme al principio de paridad de género por nueve consejeras y consejeros elegidos mediante una amplia consulta pública por el voto de dos terceras partes de integrantes presentes del Senado de la República o, en sus recesos, de la Comisión Permanente. Este encargo tendrá el carácter de honorífico.
+El [Consejo Ciudadano](articulo-2.md) se integrará conforme al principio de paridad de género por nueve consejeras y consejeros elegidos mediante una amplia consulta pública por el voto de dos terceras partes de integrantes presentes del Senado de la República o, en sus recesos, de la Comisión Permanente. Este encargo tendrá el carácter de honorífico.
 
 El cargo de consejera o consejero será por cinco años.
 

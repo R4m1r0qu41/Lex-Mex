@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lnac:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lnac",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lnac:article:2",
+    "fraction": "I",
+    "start_char": 144,
+    "end_char": 177,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lnac:term:declaratoria-de-nacionalidad-mexicana-por-nacimiento",
+    "term": "Declaratoria de nacionalidad mexicana por nacimiento",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lnac",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lnac:article:2",
+    "fraction": "II",
+    "start_char": 177,
+    "end_char": 301,
+    "basis": "express_definition"
+  }
+]

@@ -17,4 +17,4 @@ source_sha256: 160e5e85efddb1749a79f6b154af31711a9b31a5e32bace3c07e2859c2620ecf
 
 # Artículo 126
 
-El personal de la Secretaría debidamente autorizado para la realización de los actos a que se refiere el presente capítulo, podrá llevar a cabo visitas de inspección para lo cual deberá contar con el documento oficial que los acredite o autorice a practicar la inspección o verificación, así como la orden escrita debidamente fundada y motivada, expedida por la autoridad competente de la Secretaría, en la que se precisará el lugar o la zona que habrá de inspeccionarse, el objeto de la diligencia y el alcance de la misma.
+El personal de la [Secretaría](articulo-4o.md) debidamente autorizado para la realización de los actos a que se refiere el presente capítulo, podrá llevar a cabo visitas de inspección para lo cual deberá contar con el documento oficial que los acredite o autorice a practicar la inspección o verificación, así como la orden escrita debidamente fundada y motivada, expedida por la autoridad competente de la Secretaría, en la que se precisará el lugar o la zona que habrá de inspeccionarse, el objeto de la diligencia y el alcance de la misma.

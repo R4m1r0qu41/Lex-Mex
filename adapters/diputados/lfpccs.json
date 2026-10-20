@@ -18,5 +18,27 @@
     "proposed_at": "2026-10-17T23:33:54Z"
   },
   "allow_article_gaps": false,
-  "formal_publication_urls": {}
+  "formal_publication_urls": {},
+  "glossary": {
+    "provision_suffix": ":article:3",
+    "style": "auto_whole",
+    "profile": {
+      "strategy_version": "glossary-extraction-3",
+      "provision_text_sha256": "6a30ae4a30c525fb88576269fc8811de20491182b958b79b84ac8237323a7217",
+      "rationale": "Fraction XXVII writes its term before a period (`SNICS. El Servicio…`) where every other fraction uses a colon.",
+      "evidence": "docs/decisions.md (2026-10-19, glossary exception profiles, batch 1)",
+      "entries": [
+        {
+          "fraction": "XXVII",
+          "disposition": "definition",
+          "terms": [
+            {
+              "text": "SNICS",
+              "start_char": 6725
+            }
+          ]
+        }
+      ]
+    }
+  }
 }

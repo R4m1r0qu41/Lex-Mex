@@ -43,7 +43,7 @@ c) Estado de conservación de los ecosistemas, especies o fenómenos naturales; 
 
 e) Antecedentes de protección del área, y
 
-f) Ubicación respecto a las regiones prioritarias para la conservación determinadas por la Comisión Nacional para el Conocimiento y Uso de la Biodiversidad.
+f) Ubicación respecto a las regiones prioritarias para la conservación determinadas por la [Comisión](articulo-3o.md) Nacional para el Conocimiento y Uso de la Biodiversidad.
 
 III. Diagnóstico del área, en el que se mencionen:
 

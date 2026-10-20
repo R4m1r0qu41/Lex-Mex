@@ -35,7 +35,7 @@ i) Los principales indicadores de la postura fiscal, incluyendo información sob
 
 ii) La evolución de los ingresos tributarios y no tributarios, especificando el desarrollo de los ingresos petroleros y los no petroleros; la situación respecto a las estimaciones de recaudación y una explicación detallada de la misma, así como el comportamiento de las participaciones federales para las entidades federativas.
 
-Adicionalmente, se presentará la información sobre los ingresos percibidos por la Federación en relación con las estimaciones que se señalan en la Ley de Ingresos.
+Adicionalmente, se presentará la información sobre los ingresos percibidos por la Federación en relación con las estimaciones que se señalan en la [Ley de Ingresos](articulo-2.md).
 
 Con el objeto de evaluar el desempeño en materia de eficiencia recaudatoria, se deberá incluir la información correspondiente a los indicadores que a continuación se señalan:
 
@@ -63,7 +63,7 @@ Asimismo, deberán reportarse los juicios ganados y perdidos por el Servicio de 
 
 iii) La evolución del gasto público, incluyendo el gasto programable y no programable; su ejecución conforme a las clasificaciones a que se refiere el artículo [28](articulo-28.md) de esta Ley, los principales resultados de los programas y proyectos. Asimismo, se incorporará la información relativa a las disponibilidades de los ejecutores de gasto, así como de los fondos y fideicomisos sin estructura orgánica; Subinciso reformado DOF 24-01-2014
 
-iv) La evolución del gasto público previsto en los Anexos Transversales a los que se refiere el artículo [41](articulo-41.md), fracción II, incisos j), o), p), q), r), s), t), u), v) y w) de esta Ley. Subinciso adicionado DOF 19-01-2012. Reformado DOF 24-01-2014, 13-11-2023
+iv) La evolución del gasto público previsto en los [Anexos Transversales](articulo-2.md) a los que se refiere el artículo [41](articulo-41.md), fracción II, incisos j), o), p), q), r), s), t), u), v) y w) de esta Ley. Subinciso adicionado DOF 19-01-2012. Reformado DOF 24-01-2014, 13-11-2023
 
 c) Un informe que contenga la evolución detallada de la deuda pública en el trimestre, incluyendo los montos de endeudamiento interno neto, el canje o refinanciamiento de obligaciones del Erario Federal, en los términos de la Ley General de Deuda Pública, y el costo total de las emisiones de deuda pública interna y externa.
 

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf
 source_sha256: 43927095d22ff7bc7780e78132d2160b5050b5f76026b539daec32be09d7341d
 ---
 
+> Título Segundo · Capítulo I
+
 # Artículo 16-A
 
 El Servicio de Administración Tributaria podrá otorgar autorización para prestar los servicios de prevalidación electrónica de datos, contenidos en los pedimentos, siempre que los interesados acrediten su solvencia moral y económica, así como estar al corriente en el cumplimiento de sus obligaciones fiscales, ser persona moral constituida de conformidad con las leyes mexicanas y cumplan con los requisitos que establezca el Servicio de Administración Tributaria en reglas. En ningún caso podrá expedirse autorización a quien actúe con el carácter de importador, exportador, agente aduanal o agencia aduanal. Párrafo reformado DOF 09-12-2013, 25-06-2018 La prevalidación consiste en comprobar que los datos asentados en el pedimento, estén dentro de los criterios sintácticos, catalógicos, estructurales y normativos, conforme se establezca por el Servicio de Administración Tributaria, para ser presentados al sistema electrónico del propio Servicio.

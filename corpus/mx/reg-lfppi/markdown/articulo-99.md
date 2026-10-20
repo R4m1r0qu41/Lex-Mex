@@ -17,4 +17,4 @@ source_sha256: 51dd3b9347aab0e63387e02f689edd4fa3ea43a93933a0027f9a9977fffba83d
 
 # Artículo 99
 
-Para efectos del artículo [186](../../lfppi/markdown/articulo-186.md) de la Ley, las reglas para el uso deberán contener la firma de la persona representante legal o apoderada de la persona solicitante, conforme al presente Reglamento.
+Para efectos del artículo [186](../../lfppi/markdown/articulo-186.md) de la Ley, las reglas para el uso deberán contener la firma de la persona representante legal o apoderada de la persona solicitante, conforme al presente [Reglamento](articulo-2.md).

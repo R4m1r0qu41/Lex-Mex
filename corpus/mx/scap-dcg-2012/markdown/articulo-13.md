@@ -36,11 +36,11 @@ En el caso de que los préstamos o créditos se pacten a pago único de principa
 
 En ningún caso las Sociedades podrán otorgar créditos por plazos superiores a 30 años.
 
-Adicionalmente, las Sociedades deberán ajustarse a los límites máximos de plazo y monto del crédito o préstamo que al efecto determine el Consejo de Administración de cada Sociedad, los cuales se ajustarán a lo establecido en el presente capítulo
+Adicionalmente, las Sociedades deberán ajustarse a los límites máximos de plazo y monto del crédito o préstamo que al efecto determine el [Consejo de Administración](articulo-1.md) de cada Sociedad, los cuales se ajustarán a lo establecido en el presente capítulo
 
 b) Tasas de interés.
 
-Las Sociedades podrán convenir con sus Socios la tasa de interés que pretendan cobrar por los préstamos o créditos, debiendo pactar una sola tasa de interés ordinaria y, en su caso, una sola tasa de interés moratoria.
+Las Sociedades podrán convenir con sus [Socios](articulo-1.md) la tasa de interés que pretendan cobrar por los préstamos o créditos, debiendo pactar una sola tasa de interés ordinaria y, en su caso, una sola tasa de interés moratoria.
 
 Sin perjuicio de lo anterior, podrán dividir en dos o más períodos el plazo de vigencia de los préstamos o créditos y establecer desde el momento del inicio de la vigencia del préstamo o crédito respectivo la tasa de interés aplicable a cada uno de los aludidos períodos. Cada período no deberá ser menor a 3 años.
 
@@ -52,7 +52,7 @@ La tasa de interés deberá determinarse conforme a alguna de las tres opciones 
 
 3. Una tasa variable con un límite máximo fijo.
 
-Las tasas de interés pactadas se deberán calcular sobre saldos insolutos y sólo podrán cobrarse por anticipado en los supuestos que al efecto determine el Banco de México en términos de lo dispuesto por la Ley para la Transparencia y Ordenamiento de los Servicios Financieros.
+Las tasas de interés pactadas se deberán calcular sobre saldos insolutos y sólo podrán cobrarse por anticipado en los supuestos que al efecto determine el Banco de México en términos de lo dispuesto por la [Ley](articulo-1.md) para la Transparencia y Ordenamiento de los Servicios Financieros.
 
 Tratándose de aperturas de líneas de crédito en las que las Sociedades no hayan renunciado al derecho de denunciarlas en cualquier tiempo, las partes podrán pactar que la tasa de interés aplicable se fijará en el momento en que se efectúe cada una de las disposiciones respectivas. Lo anterior, deberá ser acordado por las partes en los documentos en los que se instrumenten los préstamos o créditos.
 
@@ -74,7 +74,7 @@ En el evento de que las Sociedades pacten la tasa de interés con base en una ta
 
 e) Tasas de referencia en moneda nacional.
 
-En los préstamos o créditos denominados en moneda nacional, únicamente se podrá utilizar como tasa de referencia: i) la TIIE; ii) CETES; iii) el CCP; iv) la Tasa Nafin (TNF) que se publique en el Diario Oficial de la Federación; v) la tasa que se hubiese pactado en los instrumentos que documenten préstamos o créditos de la banca de desarrollo o de fideicomisos públicos de fomento económico, únicamente en los préstamos o créditos que sean objeto de descuento con tales instituciones de banca de desarrollo o de esos fideicomisos, o que sean otorgados con recursos provenientes de dichas instituciones o fideicomisos; vi) la tasa ponderada de fondeo bancario o, vii) la tasa ponderada de fondeo gubernamental. Estas dos últimas tasas serán las que el Banco de México dé a conocer en su página electrónica en la red mundial Internet con el nombre de dominio www.banxico.org.mx.
+En los préstamos o créditos denominados en moneda nacional, únicamente se podrá utilizar como tasa de referencia: i) la [TIIE](articulo-1.md); ii) [CETES](articulo-1.md); iii) el [CCP](articulo-1.md); iv) la Tasa Nafin (TNF) que se publique en el Diario Oficial de la Federación; v) la tasa que se hubiese pactado en los instrumentos que documenten préstamos o créditos de la banca de desarrollo o de fideicomisos públicos de fomento económico, únicamente en los préstamos o créditos que sean objeto de descuento con tales instituciones de banca de desarrollo o de esos fideicomisos, o que sean otorgados con recursos provenientes de dichas instituciones o fideicomisos; vi) la tasa ponderada de fondeo bancario o, vii) la tasa ponderada de fondeo gubernamental. Estas dos últimas tasas serán las que el Banco de México dé a conocer en su página electrónica en la red mundial Internet con el nombre de dominio www.banxico.org.mx.
 
 Tratándose de las tasas de referencia previstas en los numerales i) y ii), deberá indicarse el plazo de la TIIE o de los CETES al que esté referida la tasa de los Créditos.43
 
@@ -94,7 +94,7 @@ Tratándose de Sociedades con nivel de operaciones I, únicamente podrán otorga
 
 II. Inversiones en valores autorizados por la Ley. 44
 
-a) Valores Gubernamentales.
+a) [Valores Gubernamentales](articulo-1.md).
 
 Las operaciones de compraventa con Valores Gubernamentales deberán denominarse en moneda nacional, salvo tratándose de las que se celebren con aquellos instrumentos denominados en UDIS.
 
@@ -104,7 +104,7 @@ Se entenderá por títulos bancarios: los certificados de depósito a plazo, las
 
 c) Valores de sociedades de inversión en instrumentos de deuda.
 
-III. Operaciones de cesión o descuento con fideicomisos públicos, constituidos por los gobiernos Federal, estatales o del Distrito Federal para el fomento económico, así como con otras Sociedades y con el Fondo de Protección.
+III. Operaciones de cesión o descuento con fideicomisos públicos, constituidos por los gobiernos Federal, estatales o del Distrito Federal para el fomento económico, así como con otras Sociedades y con el [Fondo de Protección](articulo-1.md).
 
 Las Sociedades podrán ceder o descontar su cartera de crédito con o sin su responsabilidad, con fideicomisos públicos, constituidos por los gobiernos Federal, estatales o del Distrito
 
@@ -112,7 +112,7 @@ Las Sociedades podrán ceder o descontar su cartera de crédito con o sin su res
 
 Federal para el fomento económico, así como con otras Sociedades y con el Fondo de Protección, sin restricción alguna.
 
-No obstante lo anterior, el Comité Técnico, a través del Comité de Protección al Ahorro Cooperativo, previa opinión de la Comisión, en casos excepcionales podrá autorizar a las Sociedades que cedan o descuenten su cartera crediticia con personas distintas a las señaladas en la presente fracción, cuando su situación financiera así lo requiera.
+No obstante lo anterior, el [Comité Técnico](articulo-1.md), a través del [Comité de Protección al Ahorro Cooperativo](articulo-1.md), previa opinión de la [Comisión](articulo-1.md), en casos excepcionales podrá autorizar a las Sociedades que cedan o descuenten su cartera crediticia con personas distintas a las señaladas en la presente fracción, cuando su situación financiera así lo requiera.
 
 IV. Emisión de tarjetas de crédito con base en contratos de apertura de crédito en cuenta corriente.
 

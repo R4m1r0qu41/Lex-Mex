@@ -17,6 +17,6 @@ source_sha256: 0ad7a7b6d7dffd7d9a582d74ebd6fc43e6baa79f71801a73dc70d1b77c414ded
 
 # Artículo 95
 
-Procederá la nulidad cuando se compruebe que la organización ganadera, al momento de solicitar su registro ante la Secretaría, no reunía alguno de los requisitos que establece la Ley y este Reglamento.
+Procederá la nulidad cuando se compruebe que la organización ganadera, al momento de solicitar su registro ante la Secretaría, no reunía alguno de los requisitos que establece la Ley y este [Reglamento](articulo-2o.md).
 
 La declaración de nulidad producirá efectos retroactivos a la fecha de expedición del registro. La organización cuyo registro hubiese sido anulado, será responsable de los daños y perjuicios que se ocasionen a terceros.

@@ -17,7 +17,7 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 147
 
-El Director o Gerente General deberá hacer observar la independencia entre el personal responsable de la administración integral de riesgos y el de negocios, así como difundir una mayor cultura en materia de administración de riesgos, adoptando al efecto entre otras medidas:
+El [Director o Gerente General](articulo-1.md) deberá hacer observar la independencia entre el personal responsable de la administración integral de riesgos y el de negocios, así como difundir una mayor cultura en materia de administración de riesgos, adoptando al efecto entre otras medidas:
 
 I. Programas de revisión del cumplimiento de objetivos, procedimientos y controles en la celebración de operaciones.
 

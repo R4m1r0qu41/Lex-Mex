@@ -15,4 +15,4 @@ source_sha256: 1405f36fd836ff74d059ebe7e50ae439cbb9e5e291a317514667f34a26f72a23
 
 # Décimo Primero
 
-Los contratos de servicios de Comercialización de los Hidrocarburos correspondientes al Estado que se hayan celebrado antes de la entrada en vigor de la presente Ley mantendrán su vigencia en los términos en los que se hayan acordado.
+Los contratos de servicios de [Comercialización](articulo-5.md) de los [Hidrocarburos](articulo-5.md) correspondientes al Estado que se hayan celebrado antes de la entrada en vigor de la presente Ley mantendrán su vigencia en los términos en los que se hayan acordado.

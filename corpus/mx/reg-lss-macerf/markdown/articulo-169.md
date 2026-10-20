@@ -17,4 +17,4 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 169
 
-En el supuesto de que el contador público autorizado carezca de elementos emitirá dictamen negativo o con abstención de opinión, debiendo mencionar claramente cuáles fueron los impedimentos y su efecto y, de ser posible, la cuantificación de las obligaciones que señala la Ley, a cargo del patrón dictaminado. REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN
+En el supuesto de que el contador público autorizado carezca de elementos emitirá dictamen negativo o con abstención de opinión, debiendo mencionar claramente cuáles fueron los impedimentos y su efecto y, de ser posible, la cuantificación de las obligaciones que señala la [Ley](../../lss/markdown/articulo-5-A.md), a cargo del patrón dictaminado. REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN

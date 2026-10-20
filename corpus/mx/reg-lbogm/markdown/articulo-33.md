@@ -17,7 +17,7 @@ source_sha256: 667636f9e0ea65e72ac9d6d7b4d7563a183b75d0f140268a61929c74f5f88041
 
 # Artículo 33
 
-Para el supuesto que se establece en los artículos [67](../../lbogm/markdown/articulo-67.md) y [98](../../lbogm/markdown/articulo-98.md) de la Ley, la solicitud de reconsideración de una resolución negativa sobre un permiso o sobre una autorización deberá ser presentada ante la autoridad que la emitió, debiendo aportar los elementos en los que se sustente la pretensión del promovente en el mismo escrito de reconsideración.
+Para el supuesto que se establece en los artículos [67](../../lbogm/markdown/articulo-67.md) y [98](../../lbogm/markdown/articulo-98.md) de la [Ley](articulo-2.md), la solicitud de reconsideración de una resolución negativa sobre un permiso o sobre una autorización deberá ser presentada ante la autoridad que la emitió, debiendo aportar los elementos en los que se sustente la pretensión del promovente en el mismo escrito de reconsideración.
 
 En el escrito de reconsideración, el promovente deberá indicar:
 

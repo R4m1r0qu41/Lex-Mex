@@ -23,4 +23,4 @@ II. Resulte responsable del delito intencional que originó la invalidez, y
 
 III. Padezca un estado de invalidez anterior a su afiliación al régimen obligatorio.
 
-En los casos de las fracciones I y II, el Instituto podrá otorgar el total o una parte de la pensión a los familiares que tuvieran derecho a las prestaciones que se conceden en el caso de muerte y la pensión se cubrirá mientras dure la invalidez del asegurado.
+En los casos de las fracciones I y II, el [Instituto](articulo-5-A.md) podrá otorgar el total o una parte de la pensión a los familiares que tuvieran derecho a las prestaciones que se conceden en el caso de muerte y la pensión se cubrirá mientras dure la invalidez del asegurado.

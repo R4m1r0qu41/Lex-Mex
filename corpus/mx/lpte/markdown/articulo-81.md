@@ -17,4 +17,4 @@ source_sha256: c24aa3a57883383635d5271683dd76e561f21852328f0e89f6bf1c2a09aa2d41
 
 # Artículo 81
 
-La Secretaría, a través de la CONUEE, puede celebrar acuerdos voluntarios con personas participantes de los sectores productivos que tengan consumos significativos de energía por cada unidad de producción física, a fin de reducir la intensidad energética en sus actividades.
+La [Secretaría](articulo-3.md), a través de la [CONUEE](articulo-3.md), puede celebrar acuerdos voluntarios con personas participantes de los sectores productivos que tengan consumos significativos de energía por cada unidad de producción física, a fin de reducir la intensidad energética en sus actividades.

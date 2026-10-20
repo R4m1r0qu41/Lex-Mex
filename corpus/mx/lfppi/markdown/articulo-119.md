@@ -17,7 +17,7 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 119
 
-El Instituto expedirá un título para cada patente, como constancia y reconocimiento oficial a la persona titular, el cual comprenderá un ejemplar de la descripción, reivindicaciones y, si los hubiere, dibujos y el listado de secuencias. Párrafo reformado DOF 03-04-2026
+El [Instituto](articulo-4.md) expedirá un título para cada patente, como constancia y reconocimiento oficial a la persona titular, el cual comprenderá un ejemplar de la descripción, reivindicaciones y, si los hubiere, dibujos y el listado de secuencias. Párrafo reformado DOF 03-04-2026
 
 En el mismo título se hará constar:
 
@@ -31,4 +31,4 @@ IV.- Las fechas de presentación de la solicitud y de prioridad reconocida, en s
 
 V.- La denominación o título de la invención, y
 
-VI.- Su vigencia, especificando que estará sujeta al pago de las tarifas para mantener vigentes los derechos, en los términos señalados por esta Ley.
+VI.- Su vigencia, especificando que estará sujeta al pago de las tarifas para mantener vigentes los derechos, en los términos señalados por esta [Ley](articulo-4.md).

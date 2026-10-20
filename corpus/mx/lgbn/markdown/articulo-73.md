@@ -33,4 +33,4 @@ VI.- El valor que al término del plazo de la concesión, tengan las obras e ins
 
 VII.- El monto de la reinversión que se haga para el mejoramiento de las instalaciones o del servicio prestado.
 
-El titular de una concesión gozará de un término equivalente al diez por ciento del plazo de la concesión, previo al vencimiento del mismo, para solicitar la prórroga correspondiente, respecto de la cual tendrá preferencia sobre cualquier solicitante. Al término del plazo de la concesión, o de la última prórroga en su caso, las obras e instalaciones adheridas de manera permanente al inmueble concesionado pasarán al dominio de la Federación.
+El titular de una concesión gozará de un término equivalente al diez por ciento del plazo de la concesión, previo al vencimiento del mismo, para solicitar la prórroga correspondiente, respecto de la cual tendrá preferencia sobre cualquier solicitante. Al término del plazo de la concesión, o de la última prórroga en su caso, las obras e instalaciones adheridas de manera permanente al inmueble concesionado pasarán al dominio de la [Federación](articulo-2.md).

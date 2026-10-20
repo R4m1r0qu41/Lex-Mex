@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Primero · Capítulo I
+
 # Artículo 697
 
 Serán remitidos a los juicios testamentarios y a los intestamentarios, siempre que no se haya dictado sentencia de adjudicación: I. Todos los juicios ordinarios y especiales, ya sean por acciones reales, personales o las ejecutivas, siempre que las demandas sean incoadas en contra de la persona de cuya sucesión se trate, por lo que se suspenderán hasta la designación de albacea, debiendo informar la autoridad jurisdiccional que conozca de la sucesión, sin que por ello se suspenda otra cosa que la adjudicación de los bienes en la partición, hasta en tanto se concluyen los juicios, con sentencia ejecutoriada, para ser remitida al juicio sucesorio y sea considerada en el haber hereditario, y

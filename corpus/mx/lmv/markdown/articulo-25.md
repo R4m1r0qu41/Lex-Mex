@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título II · Capítulo II
+
 # Artículo 25
 
 El consejo de administración, para el desempeño de las funciones que esta Ley le asigna, contará con el auxilio de uno o más comités que establezca para tal efecto. El o los comités que desarrollen las actividades en materia de prácticas societarias y de auditoría a que se refiere esta Ley, se integrarán exclusivamente con consejeros independientes y por un mínimo de tres miembros designados por el propio consejo, a propuesta del presidente de dicho órgano social. Tratándose de sociedades anónimas bursátiles que sean controladas por una persona o grupo de personas que tengan el cincuenta por ciento o más del capital social, el comité de prácticas societarias se integrará, cuando menos, por mayoría de consejeros independientes siempre que dicha circunstancia sea revelada al público.

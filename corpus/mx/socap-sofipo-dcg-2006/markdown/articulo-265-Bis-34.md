@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 265 Bis 34
 
-Las Sociedades Financieras Populares podrán contratar con terceros, incluyendo a otras entidades financieras, la prestación de servicios necesarios para su operación, así como comisiones para realizar las operaciones previstas en el artículo 36 de la Ley de acuerdo a su Nivel de Operaciones de conformidad con dicho artículo, con sujeción a lo señalado en el presente capítulo.
+Las [Sociedades](articulo-1.md) Financieras Populares podrán contratar con terceros, incluyendo a otras entidades financieras, la prestación de servicios necesarios para su operación, así como comisiones para realizar las operaciones previstas en el artículo 36 de la [Ley](articulo-1.md) de acuerdo a su Nivel de Operaciones de conformidad con dicho artículo, con sujeción a lo señalado en el presente capítulo.
 
 Las disposiciones del presente capítulo, no serán aplicables cuando las Sociedades Financieras Populares contraten los servicios que se indican a continuación:
 

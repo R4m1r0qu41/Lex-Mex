@@ -17,7 +17,7 @@ source_sha256: c7790df38b773b04e4769459d5fd49cca5b7a5b4955f7618632117275259071f
 
 # Artículo 17
 
-El promovente deberá presentar a la Secretaría la solicitud de autorización en materia de impacto ambiental, anexando:
+El promovente deberá presentar a la [Secretaría](articulo-3o.md) la solicitud de autorización en materia de impacto ambiental, anexando:
 
 I. La manifestación de impacto ambiental;
 
@@ -25,4 +25,4 @@ II. Un resumen del contenido de la manifestación de impacto ambiental, presenta
 
 III. Una copia sellada de la constancia del pago de derechos correspondientes.
 
-Cuando se trate de actividades altamente riesgosas en los términos de la Ley, deberá incluirse un estudio de riesgo.
+Cuando se trate de actividades altamente riesgosas en los términos de la [Ley](articulo-3o.md), deberá incluirse un estudio de riesgo.

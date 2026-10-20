@@ -17,4 +17,4 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 91
 
-Para la incorporación voluntaria de trabajadores al servicio de la Administración Pública Federal, previamente a la firma del convenio, se deberá exhibir ante el Instituto, la autorización expresa y por escrito de la Secretaría de Hacienda y Crédito Público respecto de la incorporación.
+Para la incorporación voluntaria de trabajadores al servicio de la Administración Pública Federal, previamente a la firma del convenio, se deberá exhibir ante el [Instituto](../../lss/markdown/articulo-5-A.md), la autorización expresa y por escrito de la Secretaría de Hacienda y Crédito Público respecto de la incorporación.

@@ -17,8 +17,8 @@ source_sha256: d50b44df321cf8be51375c07cee5dbcf03eac76df1cd11ab4bd777c9fce0f789
 
 # Artículo 41
 
-Cuando la ejecución de las acciones a que se refieren los incisos a) y b) de la fracción I del artículo [18](articulo-18.md) del presente Reglamento, requiera la elaboración de programas preventivos y correctivos, éstos se realizarán a partir de un Diagnóstico Básico.
+Cuando la ejecución de las acciones a que se refieren los incisos a) y b) de la fracción I del artículo [18](articulo-18.md) del presente Reglamento, requiera la elaboración de programas preventivos y correctivos, éstos se realizarán a partir de un [Diagnóstico Básico](articulo-2.md).
 
-La Procuraduría o, en su caso, la Agencia, según corresponda, pondrán a disposición de los directamente afectados, cuando así ellos lo soliciten, un resumen de los programas preventivos y correctivos, así como el Diagnóstico Básico, indicando la actividad desarrollada y la ubicación de las instalaciones en donde ésta se realiza. Párrafo reformado DOF 31-10-2014
+La [Procuraduría](articulo-2.md) o, en su caso, la [Agencia](articulo-2.md), según corresponda, pondrán a disposición de los directamente afectados, cuando así ellos lo soliciten, un resumen de los programas preventivos y correctivos, así como el Diagnóstico Básico, indicando la actividad desarrollada y la ubicación de las instalaciones en donde ésta se realiza. Párrafo reformado DOF 31-10-2014
 
-Para los efectos del artículo [38 BIS 1](../../lgeepa/markdown/articulo-38-BIS-1.md) de la Ley, se entenderá por directamente afectados a las personas físicas o morales en donde se realiza la obra o actividad respecto de las cuales se establecen los programas preventivos y correctivos derivados de las Auditorías Ambientales.
+Para los efectos del artículo [38 BIS 1](../../lgeepa/markdown/articulo-38-BIS-1.md) de la [Ley](articulo-2.md), se entenderá por directamente afectados a las personas físicas o morales en donde se realiza la obra o actividad respecto de las cuales se establecen los programas preventivos y correctivos derivados de las [Auditorías Ambientales](articulo-2.md).

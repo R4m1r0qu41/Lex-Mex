@@ -17,4 +17,4 @@ source_sha256: 96092a4581d4e87910eb58939da4045879e4fe613b12f4413d7392bcc2c6e884
 
 # Artículo 6o
 
-Son supletorias de esta Ley las leyes o reglamentos federales que traten materias conexas.
+Son supletorias de esta [Ley](articulo-1o-Bis.md) las leyes o reglamentos federales que traten materias conexas.

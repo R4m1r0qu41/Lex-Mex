@@ -17,13 +17,13 @@ source_sha256: ea96e97cbea2fd1919af78b94cd3466ee20a77e05989be2d482d2eb8061618c5
 
 # Artículo 28
 
-La Secretaría y las demás dependencias administradoras de inmuebles tendrán en el ámbito de sus respectivas competencias, las facultades siguientes:
+La [Secretaría](articulo-2.md) y las demás dependencias administradoras de inmuebles tendrán en el ámbito de sus respectivas competencias, las facultades siguientes:
 
 I.- Poseer, vigilar, conservar, administrar y controlar por sí mismas o con el apoyo de las instituciones destinatarias que correspondan, los inmuebles federales;
 
 II.- Dictar las reglas a que deberá sujetarse la vigilancia y aprovechamiento de los inmuebles federales; III.- Controlar y verificar el uso y aprovechamiento de los inmuebles federales;
 
-IV.- Expedir la declaratoria por la que se determine que un inmueble forma parte del patrimonio de la Federación;
+IV.- Expedir la declaratoria por la que se determine que un inmueble forma parte del patrimonio de la [Federación](articulo-2.md);
 
 V.- Otorgar concesiones y, en su caso, permisos o autorizaciones para el uso y aprovechamiento de inmuebles federales;
 

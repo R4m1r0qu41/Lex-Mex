@@ -35,4 +35,4 @@ VII. Disposiciones de desechos;
 
 VIII. Descontaminación, y
 
-IX. Los demás que se consideren necesarios para lograr la seguridad microbiológica. REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE INVESTIGACION PARA LA SALUD
+IX. Los demás que se consideren necesarios para lograr la seguridad microbiológica.

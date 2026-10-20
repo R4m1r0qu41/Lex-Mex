@@ -17,4 +17,4 @@ source_sha256: 703f083c0baedfb4ef5ce8b62c78684d8ee0073f393321d476d75ebe4878e1d5
 
 # Artículo 163
 
-La Dirección y Rectoría, de acuerdo a las necesidades educativas del Sistema, propondrá a la Secretaría la inclusión de cursos en el programa de becas para la formación, capacitación y actualización docente.
+La Dirección y Rectoría, de acuerdo a las necesidades educativas del [Sistema](articulo-3.md), propondrá a la Secretaría la inclusión de cursos en el programa de becas para la formación, capacitación y actualización docente.

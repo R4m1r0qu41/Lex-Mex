@@ -17,7 +17,7 @@ source_sha256: bd9ba59ab5016fd7d8737d382113a20e450b188e586925c31a1ef7c2af3f0065
 
 # Artículo 19
 
-En los supuestos previstos en la fracción III del artículo [20](../../lnac/markdown/articulo-20.md) de la Ley, el adoptante o adoptantes o, bien, los que ejerzan la patria potestad sobre el menor, deberán además de cumplir con los requisitos mencionados en el artículo [16](articulo-16.md) del presente Reglamento, con excepción de lo señalado en las fracciones I y VII, así como de la residencia de cinco años señalada en la fracción III, los siguientes:
+En los supuestos previstos en la fracción III del artículo [20](../../lnac/markdown/articulo-20.md) de la [Ley](articulo-2.md), el adoptante o adoptantes o, bien, los que ejerzan la patria potestad sobre el menor, deberán además de cumplir con los requisitos mencionados en el artículo [16](articulo-16.md) del presente Reglamento, con excepción de lo señalado en las fracciones I y VII, así como de la residencia de cinco años señalada en la fracción III, los siguientes:
 
 I.- Presentar original de la solicitud debidamente requisitada y firmada.
 

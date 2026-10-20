@@ -17,4 +17,4 @@ source_sha256: 4fadf9a6f2d22a9e48d8e29ed302456751da66eb723e0df1dc6ac45a5e4640b0
 
 # Artículo 29
 
-Cuando la solicitud de Declaración Especial de Ausencia sea sobre una persona que tenga la calidad de ejidatario o comunero, el Órgano Jurisdiccional lo deberá de tomar en cuenta en su resolución, a fin de que sus derechos ejidales o comuneros sean ejercidos en términos de la Ley Agraria por sus Familiares.
+Cuando la solicitud de [Declaración Especial de Ausencia](articulo-3.md) sea sobre una persona que tenga la calidad de ejidatario o comunero, el [Órgano Jurisdiccional](articulo-3.md) lo deberá de tomar en cuenta en su resolución, a fin de que sus derechos ejidales o comuneros sean ejercidos en términos de la Ley Agraria por sus [Familiares](articulo-3.md).

@@ -17,7 +17,7 @@ source_sha256: 1e7d06c67fac4c8a100d2bb2845cc765fba5e8ce09d27d30b2b44432ffeb8c41
 
 # Artículo 26
 
-Se le impondrá una pena de diez a veinte años de prisión y de quinientos a mil días multa, al Servidor Público que incurra en alguna de las conductas previstas en el artículo [24](articulo-24.md) de la presente Ley.
+Se le impondrá una pena de diez a veinte años de prisión y de quinientos a mil días multa, al [Servidor Público](articulo-5.md) que incurra en alguna de las conductas previstas en el artículo [24](articulo-24.md) de la presente [Ley](articulo-5.md).
 
 Tratándose del particular a que se refiere el artículo [25](articulo-25.md) de esta Ley, se le impondrá una pena de seis a doce años de prisión y de trescientos a seiscientos días multa.
 

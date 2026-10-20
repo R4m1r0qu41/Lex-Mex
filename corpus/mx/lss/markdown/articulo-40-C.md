@@ -17,9 +17,9 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 40-C
 
-El Instituto a solicitud de los patrones podrá conceder prórroga para el pago de los créditos adeudados por concepto de cuotas, capitales constitutivos, actualización, recargos y multas. Durante el plazo concedido se causarán recargos sobre el saldo insoluto actualizado en los términos que establece el Código. El plazo para el pago en parcialidades no excederá de cuarenta y ocho meses.
+El [Instituto](articulo-5-A.md) a solicitud de los patrones podrá conceder prórroga para el pago de los créditos adeudados por concepto de cuotas, capitales constitutivos, actualización, recargos y multas. Durante el plazo concedido se causarán recargos sobre el saldo insoluto actualizado en los términos que establece el [Código](articulo-5-A.md). El plazo para el pago en parcialidades no excederá de cuarenta y ocho meses.
 
-En ningún caso se autorizará prórroga para el pago de las cuotas que los patrones hayan retenido a los trabajadores, en los términos de la presente Ley, debiendo los patrones enterarlas al Instituto en el plazo legal establecido.
+En ningún caso se autorizará prórroga para el pago de las cuotas que los patrones hayan retenido a los trabajadores, en los términos de la presente [Ley](articulo-5-A.md), debiendo los patrones enterarlas al Instituto en el plazo legal establecido.
 
 El trámite de las solicitudes a que se refiere este artículo, se realizará en los términos y con los requisitos establecidos en el reglamento respectivo.
 

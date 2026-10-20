@@ -17,4 +17,4 @@ source_sha256: b34326588bd6e7519e33411d3658239e3aefb56cef0fae5d775bc894af64a565
 
 # Artículo 58
 
-Quienes realicen procesos de tratamiento físicos, químicos o biológicos de residuos peligrosos, deberán presentar a la Secretaría los procedimientos, métodos o técnicas mediante los cuales se realizarán, sustentados en la consideración de la liberación de sustancias tóxicas y en la propuesta de medidas para prevenirla o reducirla, de conformidad con las normas oficiales mexicanas que para tal efecto se expidan.
+Quienes realicen procesos de tratamiento físicos, químicos o biológicos de residuos peligrosos, deberán presentar a la [Secretaría](articulo-5.md) los procedimientos, métodos o técnicas mediante los cuales se realizarán, sustentados en la consideración de la liberación de sustancias tóxicas y en la propuesta de medidas para prevenirla o reducirla, de conformidad con las normas oficiales mexicanas que para tal efecto se expidan.

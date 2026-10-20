@@ -21,6 +21,6 @@ Las notificaciones serán personales:
 
 I.- Para emplazar a la persona titular afectada o la persona presunta infractora, y Fracción reformada DOF 03-04-2026
 
-II.- Cuando el Instituto estime que se trata de un caso urgente o que, por alguna circunstancia, deban ser personales, y así lo ordene expresamente.
+II.- Cuando el [Instituto](articulo-4.md) estime que se trata de un caso urgente o que, por alguna circunstancia, deban ser personales, y así lo ordene expresamente.
 
-En los procedimientos de declaración administrativa de infracción, en donde se haya practicado una visita de inspección, se considerará legalmente realizada la notificación con la persona con la que se entendió la diligencia, en términos del artículo [360](articulo-360.md) fracción IX de la presente Ley.
+En los procedimientos de declaración administrativa de infracción, en donde se haya practicado una visita de inspección, se considerará legalmente realizada la notificación con la persona con la que se entendió la diligencia, en términos del artículo [360](articulo-360.md) fracción IX de la presente [Ley](articulo-4.md).

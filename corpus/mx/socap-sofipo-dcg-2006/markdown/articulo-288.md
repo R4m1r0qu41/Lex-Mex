@@ -24,10 +24,10 @@ I. Las personas inhabilitadas para ejercer el comercio;
 
 II. Las personas que hayan sido condenadas por sentencia irrevocable por delito doloso que les imponga pena por más de 1 año de prisión y, tratándose de delitos patrimoniales cometidos intencionalmente, cualquiera que haya sido la pena;
 
-III. Las personas que tengan litigio pendiente con alguna Sociedad Financiera Popular, Federación o Confederación relacionada con el Fondo de Protección correspondiente;
+III. Las personas que tengan litigio pendiente con alguna [Sociedad](articulo-1.md) Financiera Popular, [Federación](articulo-1.md) o [Confederación](articulo-1.md) relacionada con el Fondo de Protección correspondiente;
 
 IV. Las personas que hayan sido inhabilitadas para ejercer cualquier cargo, comisión o empleo en el servicio público Federal, Estatal o Municipal, en el Sistema Financiero Mexicano o en el Sistema de Ahorro y Crédito Popular;
 
 V. Las personas que realicen funciones de regulación, inspección o vigilancia de las Sociedades Financieras Populares, Federaciones o Confederaciones; así como los cónyuges, concubinas o concubinarios y los parientes por consanguinidad, afinidad o civil hasta el tercer grado respecto de dichas personas;
 
-VI. Cualquier persona que desempeñe un cargo público, de elección popular o dirigencia partidista, y VII. Las personas que por sus relaciones patrimoniales o de responsabilidad respecto de la Sociedad Financiera Popular, y Federación correspondiente, o Confederación relacionada con el Fondo de Protección respectivo, a juicio del Consejo de Administración de la Confederación que administre el referido fondo, pudieran presentar un conflicto de interés en su desempeño como miembros del Comité Técnico de que se trate.
+VI. Cualquier persona que desempeñe un cargo público, de elección popular o dirigencia partidista, y VII. Las personas que por sus relaciones patrimoniales o de responsabilidad respecto de la Sociedad Financiera Popular, y Federación correspondiente, o Confederación relacionada con el Fondo de Protección respectivo, a juicio del [Consejo de Administración](articulo-1.md) de la Confederación que administre el referido fondo, pudieran presentar un conflicto de interés en su desempeño como miembros del Comité Técnico de que se trate.

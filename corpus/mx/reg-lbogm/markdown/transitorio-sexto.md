@@ -15,7 +15,7 @@ source_sha256: 667636f9e0ea65e72ac9d6d7b4d7563a183b75d0f140268a61929c74f5f88041
 
 # SEXTO
 
-En tanto se expidan los Acuerdos a que se refiere el artículo [78](../../lbogm/markdown/articulo-78.md) de la Ley, los formatos oficiales deberán contener lo siguiente:
+En tanto se expidan los Acuerdos a que se refiere el artículo [78](../../lbogm/markdown/articulo-78.md) de la [Ley](articulo-2.md), los formatos oficiales deberán contener lo siguiente:
 
 I. Nombre, denominación o razón social de quien promueve, y documento que acredite su personalidad jurídica. Cuando exista más de un responsable de la comisión interna de bioseguridad, deberán asentarse los nombres de todos los responsables;
 
@@ -25,7 +25,7 @@ III. Domicilio para oír y recibir notificaciones;
 
 IV. Dirección de correo electrónico para recibir notificaciones, en caso de que el promovente desee ser notificado por este medio;
 
-V. Lugar donde se llevará a cabo la utilización confinada, en coordenadas UTM, así como la descripción de las instalaciones del confinamiento y de las medidas de bioseguridad;
+V. Lugar donde se llevará a cabo la utilización confinada, en coordenadas [UTM](articulo-2.md), así como la descripción de las instalaciones del confinamiento y de las medidas de bioseguridad;
 
 VI. El objetivo y propósito de la utilización confinada; VII. Datos del OGM incluyendo el nombre científico, común y comercial, y
 

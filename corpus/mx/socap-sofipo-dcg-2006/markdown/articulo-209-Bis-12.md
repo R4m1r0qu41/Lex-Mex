@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 209 Bis 12
 
-Las Sociedades Financieras Populares se clasificarán en alguno de los cuatro Niveles de Regulación Prudencial siguientes y estarán sujetas al cumplimiento de lo establecido en las Secciones Segunda, Tercera, Cuarta y Quinta del presente Título, según corresponda: I. Nivel de Regulación Prudencial I: Las Sociedades Financieras Populares a las que se refiere la fracción I del artículo [209 Bis 10](articulo-209-Bis-10.md) de las presentes disposiciones y cuenten con un monto de activos totales iguales o inferiores a 15’000,000 UDIs.
+Las [Sociedades](articulo-1.md) Financieras Populares se clasificarán en alguno de los cuatro Niveles de Regulación Prudencial siguientes y estarán sujetas al cumplimiento de lo establecido en las Secciones Segunda, Tercera, Cuarta y Quinta del presente Título, según corresponda: I. [Nivel de Regulación Prudencial](articulo-1.md) I: Las Sociedades Financieras Populares a las que se refiere la fracción I del artículo [209 Bis 10](articulo-209-Bis-10.md) de las presentes disposiciones y cuenten con un monto de activos totales iguales o inferiores a 15’000,000 UDIs.
 
 II. Nivel de Regulación Prudencial II:
 

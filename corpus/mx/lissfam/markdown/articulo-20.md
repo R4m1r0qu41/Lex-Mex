@@ -17,6 +17,6 @@ source_sha256: 35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc
 
 # Artículo 20
 
-El Instituto expedirá a los demás beneficiarios de esta Ley una Cédula de Identificación a fin de que puedan ejercitar los derechos que legalmente les correspondan. En caso de que el beneficiario carezca de esa Cédula, se proporcionará el servicio médico quirúrgico mediante la exhibición de una constancia provisional que expedirá el Instituto o las Secretarías de la Defensa Nacional y de Marina, en su caso, con la sola comprobación de la relación familiar, sin perjuicio de atender de inmediato los casos de extrema urgencia, a reserva de probar posteriormente el derecho que les asiste.
+El [Instituto](articulo-4o.md) expedirá a los demás beneficiarios de esta [Ley](articulo-4o.md) una Cédula de Identificación a fin de que puedan ejercitar los derechos que legalmente les correspondan. En caso de que el beneficiario carezca de esa Cédula, se proporcionará el servicio médico quirúrgico mediante la exhibición de una constancia provisional que expedirá el Instituto o las Secretarías de la Defensa Nacional y de Marina, en su caso, con la sola comprobación de la relación familiar, sin perjuicio de atender de inmediato los casos de extrema urgencia, a reserva de probar posteriormente el derecho que les asiste.
 
 Capítulo Segundo: Retiro, compensación y muerte del militar.

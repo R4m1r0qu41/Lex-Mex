@@ -13,9 +13,11 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAC.pdf
 source_sha256: 07199878c4f94748c983998437198eb7c645ad76967c444dfe26d50a535d23ae
 ---
 
+> Capítulo XV Quater
+
 # Artículo 78 Octies
 
-La Agencia Federal de Aviación Civil tiene como uno de sus objetivos primordiales la seguridad de las personas pasajeras, las tripulaciones, el personal en tierra y el público en general en todos los asuntos relacionados con la salvaguarda contra los actos de interferencia ilícita siguientes:
+La [Agencia Federal de Aviación Civil](articulo-2.md) tiene como uno de sus objetivos primordiales la seguridad de las personas pasajeras, las tripulaciones, el personal en tierra y el público en general en todos los asuntos relacionados con la salvaguarda contra los actos de interferencia ilícita siguientes:
 
 I. Apoderamiento ilícito de aeronaves;
 
@@ -31,6 +33,6 @@ VII. Comunicación de información falsa que comprometa la seguridad de una aero
 
 VIII. Las demás acciones u omisiones que transgredan las disposiciones jurídicas y que comprometan la seguridad de una aeronave en vuelo o en tierra, o la seguridad de las personas pasajeras, tripulación, personal de tierra, o bien, de las personas en su conjunto que se encuentren en el recinto de una instalación de aviación civil.
 
-Para efectos del párrafo anterior, la Agencia Federal de Aviación Civil aplicará el Programa de Seguridad de la Aviación Civil del Estado mexicano, mediante normas, métodos y procedimientos que tomen en cuenta la seguridad, regularidad y eficiencia de los vuelos.
+Para efectos del párrafo anterior, la Agencia Federal de Aviación Civil aplicará el [Programa de Seguridad de la Aviación Civil del Estado mexicano](articulo-2.md), mediante normas, métodos y procedimientos que tomen en cuenta la seguridad, regularidad y eficiencia de los vuelos.
 
 Artículo adicionado DOF 03-05-2023

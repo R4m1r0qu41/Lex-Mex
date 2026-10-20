@@ -25,4 +25,4 @@ II. La distribución de diversos objetos o clases de impresos;
 
 III. La celebración de ferias turísticas, gastronómicas y demás eventos publicitarios, y
 
-IV. Las demás acciones que determine la Secretaría para la divulgación de los Destinos y Atractivos Turísticos.
+IV. Las demás acciones que determine la Secretaría para la divulgación de los Destinos y [Atractivos Turísticos](articulo-2.md).

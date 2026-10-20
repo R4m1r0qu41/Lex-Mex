@@ -17,4 +17,4 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 22
 
-Si el Instituto determina que lo manifestado por el patrón en lo relativo a su clasificación no se ajusta a lo dispuesto en la Ley, este Capítulo y al Catálogo de Actividades establecido en el presente Reglamento, hará la rectificación que proceda, de acuerdo a lo que señalan los artículos [29](articulo-29.md) y [30](articulo-30.md) de este Reglamento y la notificará al patrón, quien deberá cubrir sus cuotas con sujeción a ella.
+Si el [Instituto](../../lss/markdown/articulo-5-A.md) determina que lo manifestado por el patrón en lo relativo a su clasificación no se ajusta a lo dispuesto en la [Ley](../../lss/markdown/articulo-5-A.md), este Capítulo y al Catálogo de Actividades establecido en el presente Reglamento, hará la rectificación que proceda, de acuerdo a lo que señalan los artículos [29](articulo-29.md) y [30](articulo-30.md) de este Reglamento y la notificará al patrón, quien deberá cubrir sus cuotas con sujeción a ella.

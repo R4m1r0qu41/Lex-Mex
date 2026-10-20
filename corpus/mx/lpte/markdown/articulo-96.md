@@ -17,4 +17,4 @@ source_sha256: c24aa3a57883383635d5271683dd76e561f21852328f0e89f6bf1c2a09aa2d41
 
 # Artículo 96
 
-Los ingresos percibidos por la imposición de las sanciones establecidas en la presente Ley se deben aportar a los fondos que se constituyan para la Transición Energética y el Aprovechamiento Sustentable de la Energía.
+Los ingresos percibidos por la imposición de las sanciones establecidas en la presente [Ley](articulo-3.md) se deben aportar a los fondos que se constituyan para la [Transición Energética](articulo-3.md) y el [Aprovechamiento Sustentable de la Energía](articulo-3.md).

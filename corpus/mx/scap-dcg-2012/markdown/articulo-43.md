@@ -22,7 +22,7 @@ Las Sociedades deberán constituir semestralmente en los meses de junio y diciem
 
 I. En el caso de derechos de cobro y bienes muebles, se constituirán las provisiones conforme a lo siguiente: RESERVAS PARA BIENES MUEBLES TIEMPO TRANSCURRIDO A PARTIR DE LA PORCENTAJE DE RESERVA ADJUDICACIÓN O DACIÓN EN PAGO (MESES) Hasta 6 0% Más de 6 y hasta 12 10% Más de 12 y hasta 18 20% Más de 18 y hasta 24 45% Más de 24 y hasta 30 60% Más de 30 100%
 
-El monto de reservas a constituir será el resultado de aplicar el porcentaje de reserva que corresponda conforme a la tabla anterior, al valor de los derechos de cobro o al valor de los bienes muebles recibidos en dación en pago o adjudicados obtenido conforme a los Criterios de Contabilidad.
+El monto de reservas a constituir será el resultado de aplicar el porcentaje de reserva que corresponda conforme a la tabla anterior, al valor de los derechos de cobro o al valor de los bienes muebles recibidos en dación en pago o adjudicados obtenido conforme a los [Criterios de Contabilidad](articulo-1.md).
 
 II. Tratándose de bienes inmuebles, se constituirán las provisiones de acuerdo con lo siguiente:
 

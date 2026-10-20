@@ -25,7 +25,7 @@ II. Determinar el nivel apropiado de contención física, seleccionar las práct
 
 III. Vigilar que el personal participante cumpla con los requerimientos de profilaxis médica, vacunaciones o pruebas serológicas;
 
-IV. Supervisar que el transporte de materiales infecciosos se haga en forma apropiada, de acuerdo a las disposiciones jurídicas aplicables; REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE INVESTIGACION PARA LA SALUD Fracción reformada DOF 02-04-2014
+IV. Supervisar que el transporte de materiales infecciosos se haga en forma apropiada, de acuerdo a las disposiciones jurídicas aplicables; Fracción reformada DOF 02-04-2014
 
 V. Informar al Comité de Bioseguridad sobre la ocurrencia de enfermedad entre el personal participante en la investigación, que pudiera atribuirse a la inoculación transcutánea, ingestión o inhalación de materiales infecciosos, así como accidentes que causen contaminación que pueda afectar al personal o al ambiente, y Fracción reformada DOF 02-04-2014
 

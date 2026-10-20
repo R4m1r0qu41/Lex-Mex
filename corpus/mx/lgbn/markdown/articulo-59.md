@@ -19,7 +19,7 @@ source_sha256: ea96e97cbea2fd1919af78b94cd3466ee20a77e05989be2d482d2eb8061618c5
 
 Están destinados a un servicio público, los siguientes inmuebles federales:
 
-I.- Los recintos permanentes de los Poderes Legislativo, Ejecutivo y Judicial de la Federación;
+I.- Los recintos permanentes de los Poderes Legislativo, Ejecutivo y Judicial de la [Federación](articulo-2.md);
 
 II.- Los destinados al servicio de los Poderes Legislativo y Judicial de la Federación;
 
@@ -29,6 +29,6 @@ IV.- Los destinados al servicio de los gobiernos de las entidades federativas y 
 
 V.- Los destinados al servicio de las unidades administrativas de la Presidencia de la República, y de las instituciones de carácter federal o local con autonomía derivada de la Constitución Política de los Estados Unidos Mexicanos o de las Constituciones de los Estados; Fracción reformada DOF 20-05-2021
 
-VI.- Los que se adquieran mediante actos jurídicos en cuya formalización intervenga la Secretaría, en los términos de esta Ley, siempre y cuando en los mismos se determine la dependencia o entidad a la que se destinará el inmueble y el uso al que estará dedicado, y
+VI.- Los que se adquieran mediante actos jurídicos en cuya formalización intervenga la [Secretaría](articulo-2.md), en los términos de esta Ley, siempre y cuando en los mismos se determine la dependencia o entidad a la que se destinará el inmueble y el uso al que estará dedicado, y
 
 VII.- Los que se adquieran por expropiación en los que se determine como destinataria a una dependencia, con excepción de aquéllos que se adquieran con fines de regularización de la tenencia de la tierra o en materia de vivienda y desarrollo urbano.

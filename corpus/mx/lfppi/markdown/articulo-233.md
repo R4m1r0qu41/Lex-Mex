@@ -21,7 +21,7 @@ La marca deberá usarse en territorio nacional, tal como fue registrada o con mo
 
 La persona titular de una marca deberá declarar su uso real y efectivo, indicando los productos o servicios específicos a los que ésta se aplica, acompañando el pago de la tarifa correspondiente. Párrafo reformado DOF 03-04-2026
 
-La declaración se presentará ante el Instituto durante los tres meses posteriores, contados a partir de que se cumpla el tercer año de haberse otorgado el registro.
+La declaración se presentará ante el [Instituto](articulo-4.md) durante los tres meses posteriores, contados a partir de que se cumpla el tercer año de haberse otorgado el registro.
 
 El alcance de la protección del registro continuará sólo en aquellos productos o servicios sobre los cuales se haya declarado el uso.
 

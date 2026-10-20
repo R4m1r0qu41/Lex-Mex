@@ -25,6 +25,6 @@ II. A bordo de alguna embarcación, y
 
 III. De manera subacuática.
 
-Quienes practiquen esta actividad desde tierra no requieren permiso, pero deberán utilizar solamente las artes que autoriza este Reglamento y respetar las tallas mínimas y límites de captura que señale la Secretaría.
+Quienes practiquen esta actividad desde tierra no requieren permiso, pero deberán utilizar solamente las artes que autoriza este Reglamento y respetar las tallas mínimas y límites de captura que señale la [Secretaría](articulo-2o.md).
 
 Los permisos de pesca deportivo-recreativa serán individuales e intransferibles.

@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 210 Bis 2
 
-La Comisión, podrá autorizar a las Sociedades Financieras Populares respecto de la aplicación de los criterios de contabilidad previstos en el Anexo E de estas disposiciones, llevar a cabo registros contables especiales, cuando a juicio de la Comisión, estos sean necesarios para procurar la estabilidad y correcto funcionamiento de las Sociedades Financieras Populares durante procesos de Saneamiento financiero o de Reestructuración corporativa, siempre que dichos procesos no deriven del incumplimiento al marco normativo que les resulte aplicable y que la Sociedad Financiera Popular de que se trate, no se encuentre aplicando registros contables especiales a la fecha de la solicitud.
+La Comisión, podrá autorizar a las [Sociedades](articulo-1.md) Financieras Populares respecto de la aplicación de los criterios de contabilidad previstos en el Anexo E de estas disposiciones, llevar a cabo registros contables especiales, cuando a juicio de la Comisión, estos sean necesarios para procurar la estabilidad y correcto funcionamiento de las Sociedades Financieras Populares durante procesos de Saneamiento financiero o de Reestructuración corporativa, siempre que dichos procesos no deriven del incumplimiento al marco normativo que les resulte aplicable y que la Sociedad Financiera Popular de que se trate, no se encuentre aplicando registros contables especiales a la fecha de la solicitud.
 
 La solicitud para obtener la autorización de aplicación de registros contables especiales deberá enviarse a la Comisión conforme al formato contenido en el Anexo AA de las presentes disposiciones, y estar firmada con firma autógrafa, o bien, mediante Firma Electrónica Avanzada o Fiable por el representante legal de las Sociedades Financieras Populares, y deberá contener por lo menos, lo siguiente:
 
@@ -30,7 +30,7 @@ III. Los indicadores de solvencia, liquidez, capital y aquellos relacionados con
 
 IV. Las acciones y medidas de remediación que conforman los procesos de Saneamiento financiero o de Reestructuración corporativa que requiere la Sociedad Financiera Popular.
 
-V. Evidencia de que las acciones y medidas señaladas en la solicitud cuentan con la aprobación del Consejo de Administración de la Sociedad Financiera Popular solicitante.
+V. Evidencia de que las acciones y medidas señaladas en la solicitud cuentan con la aprobación del [Consejo de Administración](articulo-1.md) de la Sociedad Financiera Popular solicitante.
 
 Para efectos del presente artículo, se debe entender por:
 

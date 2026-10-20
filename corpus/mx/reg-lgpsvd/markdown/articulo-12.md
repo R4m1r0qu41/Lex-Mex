@@ -19,4 +19,4 @@ source_sha256: a1cc8f6043c35579235fd61d2e34977e1735af4ea6919d053f89462b97742335
 
 Las dependencias y entidades de la Administración Pública Federal cuyas funciones incidan en la prevención social de la Violencia y la delincuencia y dentro del ámbito de sus respectivas competencias, deberán desarrollar e impulsar la efectiva Participación Ciudadana y Comunitaria en el diseño e implementación de programas enfocados al mejoramiento de condiciones de seguridad de su entorno para garantizar el acceso a los servicio básicos.
 
-Las autoridades federales a que se refiere este artículo y el anterior, podrán coordinarse con organizaciones de la sociedad civil, entidades federativas y municipios a efecto de ejecutar campañas de difusión, la efectiva Participación Ciudadana y Comunitaria y la Cohesión Social entre las comunidades.
+Las autoridades federales a que se refiere este artículo y el anterior, podrán coordinarse con organizaciones de la sociedad civil, entidades federativas y municipios a efecto de ejecutar campañas de difusión, la efectiva Participación Ciudadana y Comunitaria y la [Cohesión Social](articulo-3.md) entre las comunidades.

@@ -17,4 +17,4 @@ source_sha256: ea96e97cbea2fd1919af78b94cd3466ee20a77e05989be2d482d2eb8061618c5
 
 # Artículo 142
 
-La Secretaría emitirá las normas, procedimientos, criterios y metodologías de carácter técnico, conforme a los cuales se llevarán a cabo los avalúos y justipreciaciones de rentas a que se refieren los artículos [143](articulo-143.md) y [144](articulo-144.md) de esta Ley.
+La [Secretaría](articulo-2.md) emitirá las normas, procedimientos, criterios y metodologías de carácter técnico, conforme a los cuales se llevarán a cabo los avalúos y justipreciaciones de rentas a que se refieren los artículos [143](articulo-143.md) y [144](articulo-144.md) de esta Ley.

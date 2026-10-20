@@ -17,4 +17,4 @@ source_sha256: c7790df38b773b04e4769459d5fd49cca5b7a5b4955f7618632117275259071f
 
 # Artículo 48
 
-En los casos de autorizaciones condicionadas, la Secretaría señalará las condiciones y requerimientos que deban observarse tanto en la etapa previa al inicio de la obra o actividad, como en sus etapas de construcción, operación y abandono.
+En los casos de autorizaciones condicionadas, la [Secretaría](articulo-3o.md) señalará las condiciones y requerimientos que deban observarse tanto en la etapa previa al inicio de la obra o actividad, como en sus etapas de construcción, operación y abandono.

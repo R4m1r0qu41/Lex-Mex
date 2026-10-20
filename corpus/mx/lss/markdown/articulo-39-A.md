@@ -17,7 +17,7 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 39-A
 
-Sin perjuicio de lo dispuesto en el primer párrafo del [artículo anterior](articulo-39.md), el Instituto, en apoyo a los patrones, podrá entregar una propuesta de cédula de determinación, elaborada con los datos con que cuente de los movimientos afiliatorios comunicados al Instituto por los propios patrones y, en su caso, por sus trabajadores en los términos de la presente Ley.
+Sin perjuicio de lo dispuesto en el primer párrafo del [artículo anterior](articulo-39.md), el [Instituto](articulo-5-A.md), en apoyo a los patrones, podrá entregar una propuesta de cédula de determinación, elaborada con los datos con que cuente de los movimientos afiliatorios comunicados al Instituto por los propios patrones y, en su caso, por sus trabajadores en los términos de la presente [Ley](articulo-5-A.md).
 
 La propuesta a que se refiere el párrafo anterior podrá ser entregada por el Instituto en documento impreso, o bien, previa solicitud por escrito del patrón o su representante legal, en medios magnéticos, digitales, electrónicos o de cualquier otra naturaleza.
 

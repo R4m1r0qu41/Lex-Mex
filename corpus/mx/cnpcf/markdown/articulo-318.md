@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo II
+
 # Artículo 318
 
 Los documentos públicos que hayan venido al procedimiento sin citación contraria, se tendrán por legítimos y eficaces, salvo que se impugnare expresamente su autenticidad o exactitud por la parte a quien perjudiquen. En este caso, a petición de parte, se decretará el cotejo con los protocolos y archivos físicos o electrónicos de los que provengan, mismo que se practicará en la audiencia respectiva por parte de la autoridad jurisdiccional acompañado del personal necesario y competente, así como las partes involucradas, al efecto de ingresar en el local del archivo físico, la página de internet o matriz, el día y hora señalado, a realizar dicho cotejo. Si no comparece la parte interesada o no provee los medios tecnológicos para su desahogo se declarará desierta la prueba.

@@ -17,4 +17,4 @@ source_sha256: d25fabb2d2e90d9f76028717f83c442d05a4f64024f13461285bda8ebd389a04
 
 # Artículo 57
 
-La Secretaría participará en la formulación y aprobación de los programas de ordenamiento ecológico local en los casos previstos en la Ley.
+La [Secretaría](articulo-3o.md) participará en la formulación y aprobación de los programas de ordenamiento ecológico local en los casos previstos en la [Ley](articulo-3o.md).

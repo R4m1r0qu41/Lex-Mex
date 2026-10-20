@@ -15,4 +15,4 @@ source_sha256: 9ed842aa48bd26aee06dc45bbdbd65efcb32343c78040a5a5d091275bec38343
 
 # SEXTO
 
-La Secretaría reconocerá el derecho de prioridad a que se refiere el artículo [10](articulo-10.md) de esta ley, respecto de las solicitudes de protección de los derechos de obtentor de variedades vegetales presentadas en otros países a partir de la entrada en vigor de la presente ley.
+La [Secretaría](articulo-2o.md) reconocerá el derecho de prioridad a que se refiere el artículo [10](articulo-10.md) de esta ley, respecto de las solicitudes de protección de los derechos de obtentor de variedades vegetales presentadas en otros países a partir de la entrada en vigor de la presente ley.

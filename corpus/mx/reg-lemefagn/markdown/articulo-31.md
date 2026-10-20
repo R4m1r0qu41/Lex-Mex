@@ -17,6 +17,6 @@ source_sha256: 703f083c0baedfb4ef5ce8b62c78684d8ee0073f393321d476d75ebe4878e1d5
 
 # Artículo 31
 
-Se considera personal de apoyo a la educación, a las personas militares que cumplen funciones como especialistas en educación: docentes, técnicas, administrativas, logísticas y de servicio, indispensables para facilitar el cumplimiento de la misión de la Institución Educativa a la que estén asignadas.
+Se considera personal de apoyo a la educación, a las personas militares que cumplen funciones como especialistas en educación: docentes, técnicas, administrativas, logísticas y de servicio, indispensables para facilitar el cumplimiento de la misión de la [Institución Educativa](articulo-3.md) a la que estén asignadas.
 
 Artículo reformado DOF 20-03-2026

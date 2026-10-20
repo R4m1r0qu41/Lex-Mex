@@ -17,7 +17,7 @@ source_sha256: 35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc
 
 # Artículo 155
 
-El Instituto de conformidad con sus posibilidades presupuestales, establecerá farmacias o contratará para vender sin lucro alguno, a los militares y familiares afiliados, medicamentos y artículos conexos.
+El [Instituto](articulo-4o.md) de conformidad con sus posibilidades presupuestales, establecerá farmacias o contratará para vender sin lucro alguno, a los militares y familiares afiliados, medicamentos y artículos conexos.
 
 TÍTULO TERCERO: De la Acreditación de Derechos
 

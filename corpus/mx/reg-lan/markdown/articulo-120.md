@@ -17,7 +17,7 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 120
 
-No se requerirá de concesión para la explotación, uso o aprovechamiento de agua, en los términos del artículo [80](../../lan/markdown/articulo-80.md) de la "Ley", cuando sea para generación de energía hidroeléctrica en pequeña producción o escala, entendida como tal aquélla que realizan personas físicas o morales aprovechando las corrientes de ríos y canales, sin desviar las aguas ni afectar su cantidad ni calidad, y cuya capacidad de generación no exceda de 30 Megavatios.
+No se requerirá de concesión para la explotación, uso o aprovechamiento de agua, en los términos del artículo [80](../../lan/markdown/articulo-80.md) de la "[Ley](articulo-1o.md)", cuando sea para generación de energía hidroeléctrica en pequeña producción o escala, entendida como tal aquélla que realizan personas físicas o morales aprovechando las corrientes de ríos y canales, sin desviar las aguas ni afectar su cantidad ni calidad, y cuya capacidad de generación no exceda de 30 Megavatios.
 
 La construcción de las obras de infraestructura que se requieran para la generación de energía hidroeléctrica a que se refiere el párrafo anterior, requerirán permiso de la “Autoridad del Agua” para los efectos de los artículos [97](../../lan/markdown/articulo-97.md) y [98](../../lan/markdown/articulo-98.md) de la Ley.
 

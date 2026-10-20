@@ -17,7 +17,7 @@ source_sha256: 8e270686b885035488bfe310b0b42bb40e7154431794227ebe212dd7dc12e46a
 
 # Artículo 301
 
-Al conceder o denegar una medida en los términos de los artículos [298](articulo-298.md) o [300](articulo-300.md) de esta Ley o al modificar o dejar sin efecto esa medida con base en el tercer párrafo de este artículo, el juez deberá asegurarse de que quedan debidamente protegidos los intereses de los acreedores y de otras personas interesadas, incluido el [Comerciante](articulo-4o.md).
+Al conceder o denegar una medida en los términos de los artículos [298](articulo-298.md) o [300](articulo-300.md) de esta [Ley](articulo-4o.md) o al modificar o dejar sin efecto esa medida con base en el tercer párrafo de este artículo, el juez deberá asegurarse de que quedan debidamente protegidos los intereses de los acreedores y de otras personas interesadas, incluido el [Comerciante](articulo-4o.md).
 
 El juez podrá supeditar toda medida decretada con arreglo a los artículos [298](articulo-298.md) o [300](articulo-300.md) de esta Ley a las condiciones que juzgue convenientes.
 

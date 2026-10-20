@@ -17,6 +17,6 @@ source_sha256: 9816ce7f9d6b9b1781eb9935869bd45677c60d721d3352865b6524c2e75db8cd
 
 # Artículo 48
 
-En el caso de que se declare desierta la subasta a través de medios electrónicos, se procederá a realizar una segunda subasta, a efectuarse dentro de los quince días hábiles siguientes a la fecha en que se declaró desierta la primera subasta. REGLAMENTO DE LA LEY DEL SEGURO SOCIAL, EN MATERIA DE ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES ADJUDICADOS CON MOTIVO DE LA APLICACIÓN DEL PROCEDIMIENTO ADMINISTRATIVO DE EJECUCIÓN En la segunda subasta a través de medios electrónicos, no podrán incluirse bienes distintos de los señalados en la declarada desierta y su procedimiento será en los mismos términos que la primera subasta.
+En el caso de que se declare desierta la subasta a través de medios electrónicos, se procederá a realizar una segunda subasta, a efectuarse dentro de los quince días hábiles siguientes a la fecha en que se declaró desierta la primera subasta. En la segunda subasta a través de medios electrónicos, no podrán incluirse bienes distintos de los señalados en la declarada desierta y su procedimiento será en los mismos términos que la primera subasta.
 
 Para efectos de la segunda subasta a través de medios electrónicos, el valor base de enajenación de los bienes será el equivalente al 80%, del valor del avalúo vigente de los mismos.

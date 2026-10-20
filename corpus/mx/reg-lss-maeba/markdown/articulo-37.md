@@ -17,4 +17,4 @@ source_sha256: 9816ce7f9d6b9b1781eb9935869bd45677c60d721d3352865b6524c2e75db8cd
 
 # Artículo 37
 
-La subasta pública presencial deberá efectuarse dentro de los veinte días hábiles siguientes al día de publicación de la convocatoria en el Diario Oficial de la Federación o, en su caso, de la fecha en que la misma se fije en un sitio visible de la Delegación y Subdelegación correspondientes. REGLAMENTO DE LA LEY DEL SEGURO SOCIAL, EN MATERIA DE ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES ADJUDICADOS CON MOTIVO DE LA APLICACIÓN DEL PROCEDIMIENTO ADMINISTRATIVO DE EJECUCIÓN
+La subasta pública presencial deberá efectuarse dentro de los veinte días hábiles siguientes al día de publicación de la convocatoria en el Diario Oficial de la Federación o, en su caso, de la fecha en que la misma se fije en un sitio visible de la [Delegación](articulo-2.md) y [Subdelegación](articulo-2.md) correspondientes.

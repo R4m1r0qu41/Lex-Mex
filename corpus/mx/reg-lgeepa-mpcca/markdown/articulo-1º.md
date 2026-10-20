@@ -17,4 +17,4 @@ source_sha256: cf47ab93fdea40d2b3e41b58784df62f89dd90b4482dd3b7f25adc7f6957036b
 
 # Artículo 1º
 
-El presente Reglamento rige en todo el territorio nacional y las zonas donde la nación ejerce su soberanía y jurisdicción, y tiene por objeto reglamentar la Ley General del Equilibrio Ecológico y la Protección al Ambiente, en lo que se refiere a la prevención y control de la contaminación de la atmósfera.
+El presente [Reglamento](articulo-6o.md) rige en todo el territorio nacional y las zonas donde la nación ejerce su soberanía y jurisdicción, y tiene por objeto reglamentar la [Ley](articulo-6o.md) General del Equilibrio Ecológico y la Protección al Ambiente, en lo que se refiere a la prevención y control de la contaminación de la atmósfera.

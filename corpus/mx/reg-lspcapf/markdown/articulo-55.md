@@ -15,7 +15,7 @@ source_sha256: b4a968d8e8c138ac2069f6afa0dc622178328df24f59cf58eddbab8efe4a7eff
 
 # Artículo 55
 
-Las dependencias, al establecer sus programas de capacitación, deben tomar en cuenta los criterios establecidos en el modelo de profesionalización emitido por la Secretaría, así como los requisitos que se determinen en el Programa Anual de Planeación del Sistema, conforme a lo siguiente:
+Las dependencias, al establecer sus programas de capacitación, deben tomar en cuenta los criterios establecidos en el modelo de profesionalización emitido por la Secretaría, así como los requisitos que se determinen en el [Programa Anual de Planeación del Sistema](articulo-2.md), conforme a lo siguiente:
 
 I. Que la capacitación que se prevea impartir a cada persona servidora pública incluya las horas efectivas que se establezcan en el Programa Anual de Planeación del Sistema, las cuales en ningún caso pueden representar menos de cuarenta horas efectivas anuales, y
 
@@ -25,6 +25,6 @@ a) Instituciones de la administración pública en cualquier orden de gobierno, 
 
 b) Personas expertas, quienes pueden ser personas servidoras públicas o cualquier otra persona física.
 
-La Secretaría puede recomendar ajustes a los programas de capacitación de las dependencias, cuando éstos no consideren lo previsto en la Ley, este reglamento y demás disposiciones aplicables.
+La Secretaría puede recomendar ajustes a los programas de capacitación de las dependencias, cuando éstos no consideren lo previsto en la [Ley](articulo-2.md), este reglamento y demás disposiciones aplicables.
 
 Artículo reformado DOF 04-01-2024

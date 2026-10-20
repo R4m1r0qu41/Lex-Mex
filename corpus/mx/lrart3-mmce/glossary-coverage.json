@@ -1,0 +1,25 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-3",
+  "instrument_id": "urn:lex-mx:federal:statute:lrart3-mmce",
+  "source_sha256": "6cfd550f22edb3253ebf98d885329be5402890d902d17afaa7860d94d76fe014",
+  "extracted_text_sha256": "647f4fa8e44647632319cdd563e79fb68428e4cf595689da57ac165924e5b368",
+  "status": "detected",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lrart3-mmce:article:15",
+      "provision_text_sha256": "0267ccd266f4ab1475f1b2174ca15b9f6f651ab222dfcd4373b87eb35e2b9e13",
+      "method": "established_pass",
+      "fractions": [
+        "I",
+        "II",
+        "III"
+      ],
+      "unread_fractions": [],
+      "term_count": 3
+    }
+  ],
+  "imports": [],
+  "term_count": 3,
+  "usage_count": 18
+}

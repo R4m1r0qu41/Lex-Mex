@@ -19,7 +19,7 @@ source_sha256: f135d534dcd7a2734bc7f44e9381e7173c7d8033e1df75a2d4fb132d956e848b
 
 Se requiere la autorización de la Secretaría para iniciar los siguientes tipos de experimentación:
 
-I. Formación de ácido desoxirribonucleico recombinante derivado de los microorganismos patógenos que queden clasificados en los grupos de riesgo III y IV a que se refiere el artículo [79](articulo-79.md) de este Reglamento, así como la formación de material genético recombinante derivado de las células que son infectadas por tales agentes, independientemente del sistema de huésped y vector que se use; REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE INVESTIGACION PARA LA SALUD II. Construcción intencional de ácidos nucleicos recombinantes para inducir la biosíntesis de toxinas potentes para los vertebrados;
+I. Formación de ácido desoxirribonucleico recombinante derivado de los microorganismos patógenos que queden clasificados en los grupos de riesgo III y IV a que se refiere el artículo [79](articulo-79.md) de este Reglamento, así como la formación de material genético recombinante derivado de las células que son infectadas por tales agentes, independientemente del sistema de huésped y vector que se use; II. Construcción intencional de ácidos nucleicos recombinantes para inducir la biosíntesis de toxinas potentes para los vertebrados;
 
 III. Liberación interncional (sic DOF 06-01-1987) al ambiente de cualquier microorganismo que porte ácidos nucleicos recombinantes;
 

@@ -21,4 +21,4 @@ Las dependencias y entidades de la Administración Pública Federal cuyas funcio
 
 Para su implementación, dichas dependencias y entidades podrán celebrar convenios de colaboración con entidades federativas, municipios, instituciones públicas y privadas a efecto de impulsar los proyectos socio-productivos que se refiere el párrafo anterior.
 
-Para los efectos del párrafo anterior, se priorizará la implementación de los proyectos socio- productivos en las zonas con mayores índices de Violencia y delincuencia, en grupos en situación de riesgo, vulnerabilidad o afectación, conforme a los Diagnósticos Participativos.
+Para los efectos del párrafo anterior, se priorizará la implementación de los proyectos socio- productivos en las zonas con mayores índices de Violencia y delincuencia, en grupos en situación de riesgo, vulnerabilidad o afectación, conforme a los [Diagnósticos Participativos](articulo-3.md).

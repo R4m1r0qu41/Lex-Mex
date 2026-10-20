@@ -17,7 +17,7 @@ source_sha256: ea96e97cbea2fd1919af78b94cd3466ee20a77e05989be2d482d2eb8061618c5
 
 # Artículo 29
 
-Corresponden a la Secretaría, además de las atribuciones que le confiere el [artículo anterior](articulo-28.md), las siguientes:
+Corresponden a la [Secretaría](articulo-2.md), además de las atribuciones que le confiere el [artículo anterior](articulo-28.md), las siguientes:
 
 I.- Determinar y conducir la política inmobiliaria de la Administración Pública Federal;
 
@@ -25,7 +25,7 @@ II.- Ejercer en el ámbito del Poder Ejecutivo Federal los actos de adquisición
 
 III.- Realizar las acciones necesarias a efecto de obtener la resolución judicial o la declaratoria administrativa correspondiente, respecto de los inmuebles nacionalizados;
 
-IV.- Declarar, cuando ello sea preciso, que un bien determinado está sujeto al régimen de dominio público de la Federación, por estar comprendido en algunas de las disposiciones de esta Ley;
+IV.- Declarar, cuando ello sea preciso, que un bien determinado está sujeto al régimen de dominio público de la [Federación](articulo-2.md), por estar comprendido en algunas de las disposiciones de esta Ley;
 
 V.- Emitir el acuerdo administrativo de destino de inmuebles federales, con excepción de las playas marítimas, la zona federal marítimo terrestre y los terrenos ganados al mar;
 

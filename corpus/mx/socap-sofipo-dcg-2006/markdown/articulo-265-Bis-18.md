@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 265 Bis 18
 
-La Sociedad Financiera Popular que pongan al alcance de los Usuarios, equipos electrónicos o de telecomunicaciones, en sus instalaciones o en áreas de acceso al público, para el uso de Servicios Electrónicos, deberá:
+La [Sociedad](articulo-1.md) Financiera Popular que pongan al alcance de los [Usuarios](articulo-1.md), equipos electrónicos o de telecomunicaciones, en sus instalaciones o en áreas de acceso al público, para el uso de [Servicios Electrónicos](articulo-1.md), deberá:
 
 I. Adoptar medidas que procuren detectar e impedir la instalación en tales equipos, de dispositivos o programas que puedan interferir con el manejo de la información de los Usuarios, o que puedan permitir que dicha información sea leída, copiada, modificada o extraída por terceros. Adicionalmente, deberán informar a los Usuarios, mediante campañas de difusión, sobre la apariencia y el funcionamiento de los equipos electrónicos o de telecomunicaciones que pongan al alcance de estos, a fin de prevenir actos que deriven o pudieran derivar en operaciones irregulares o ilegales que afecten a los Usuarios o a las propias Sociedades Financieras Populares.
 
@@ -26,6 +26,6 @@ II. Contar con procedimientos tanto preventivos como correctivos, que permitan c
 
 a) El modo de operación del personal interno o externo de la Sociedad Financiera Popular, que opera o administra los equipos electrónicos o de telecomunicaciones;
 
-b) Si los equipos han sido sujetos a alteraciones para robo de información de tarjetas, Números de Identificación Personal (NIP) o Contraseñas, y
+b) Si los equipos han sido sujetos a alteraciones para robo de información de tarjetas, Números de Identificación Personal (NIP) o [Contraseñas](articulo-1.md), y
 
 c) El resultado de las labores de identificación, monitoreo y análisis de comportamientos fuera de los parámetros establecidos por la Sociedad Financiera Popular.

@@ -17,6 +17,6 @@ source_sha256: cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7
 
 # Artículo 4o
 
-La protección y defensa de los derechos e intereses de los Usuarios, estará a cargo de un organismo público descentralizado con personalidad jurídica y patrimonio propios, denominado Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, con domicilio en el Distrito Federal.
+La protección y defensa de los derechos e intereses de los [Usuarios](articulo-2o.md), estará a cargo de un organismo público descentralizado con personalidad jurídica y patrimonio propios, denominado [Comisión Nacional](articulo-2o.md) para la Protección y Defensa de los Usuarios de Servicios Financieros, con domicilio en el Distrito Federal.
 
-La protección y defensa que esta Ley encomienda a la Comisión Nacional, tiene como objetivo prioritario procurar la equidad en las relaciones entre los Usuarios y las Instituciones Financieras, otorgando a los primeros elementos para fortalecer la seguridad jurídica en las operaciones que realicen y en las relaciones que establezcan con las segundas. Párrafo reformado DOF 05-01-2000
+La protección y defensa que esta Ley encomienda a la Comisión Nacional, tiene como objetivo prioritario procurar la equidad en las relaciones entre los Usuarios y las [Instituciones Financieras](articulo-2o.md), otorgando a los primeros elementos para fortalecer la seguridad jurídica en las operaciones que realicen y en las relaciones que establezcan con las segundas. Párrafo reformado DOF 05-01-2000

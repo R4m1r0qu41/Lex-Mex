@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAN.pdf
 source_sha256: 4ef50d6b4b3a6ad0378720c5d49463b4f17d70d9de39f895ed5dae4d2e21736d
 ---
 
-> Título SEGUNDO
+> Título SEGUNDO · Capítulo I
 
 # Artículo 5
 
@@ -24,5 +24,3 @@ I. Promoverá la coordinación de acciones con los gobiernos de los estados y de
 III. Favorecerá la descentralización de la gestión de los recursos hídricos conforme al marco jurídico vigente.
 
 Artículo reformado DOF 29-04-2004
-
-Capítulo II Ejecutivo Federal

@@ -17,10 +17,10 @@ source_sha256: c1870db657a6564bbeb692a1778472db811a920626822de553ff5ca5194f95b4
 
 # Artículo 15
 
-Los instrumentos y programas a los que se refiere el presente Capítulo de esta Ley, pueden ser revisados y, en su caso, actualizados cada tres años, o antes sí:
+Los instrumentos y programas a los que se refiere el presente Capítulo de esta [Ley](articulo-2.md), pueden ser revisados y, en su caso, actualizados cada tres años, o antes sí:
 
-I. Se presenta información que lo justifique mediante las evaluaciones de la política nacional en materia de Biocombustibles; Biomasa obtenida a partir de cultivos en Suelos Marginales o el aprovechamiento de residuos orgánicos derivados de las actividades agropecuarias para su uso directo como Biocombustible o para su Producción; el aprovechamiento y valorización de los residuos orgánicos y el tratamiento de aguas residuales para su uso directo como Biocombustibles o para su Producción, o
+I. Se presenta información que lo justifique mediante las evaluaciones de la política nacional en materia de [Biocombustibles](articulo-2.md); Biomasa obtenida a partir de cultivos en [Suelos Marginales](articulo-2.md) o el aprovechamiento de residuos orgánicos derivados de las actividades agropecuarias para su uso directo como Biocombustible o para su [Producción](articulo-2.md); el aprovechamiento y valorización de los residuos orgánicos y el tratamiento de aguas residuales para su uso directo como Biocombustibles o para su Producción, o
 
-II. Se requiere para ajustarlo de acuerdo con lo dispuesto en la Estrategia Nacional de Transición Energética.
+II. Se requiere para ajustarlo de acuerdo con lo dispuesto en la [Estrategia](articulo-2.md) Nacional de Transición Energética.
 
 En ningún caso las revisiones y actualizaciones se pueden hacer en menoscabo de las metas de la Estrategia Nacional de Transición Energética.

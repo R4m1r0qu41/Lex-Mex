@@ -17,4 +17,4 @@ source_sha256: d0021bbef2e0c3251d6efdea2c1efd9959ff3f02df4bcd1fc37c1ee7826a72ba
 
 # Artículo 81
 
-Son partes en el procedimiento seguido en forma de juicio, el Agente Económico en contra de quien se emita el dictamen de probable responsabilidad y la Autoridad Investigadora.
+Son partes en el procedimiento seguido en forma de juicio, el [Agente Económico](articulo-3.md) en contra de quien se emita el dictamen de probable responsabilidad y la [Autoridad Investigadora](articulo-3.md).

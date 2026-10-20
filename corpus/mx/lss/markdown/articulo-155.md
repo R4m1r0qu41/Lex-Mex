@@ -17,7 +17,7 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 155
 
-La contingencia consistente en la cesantía en edad avanzada, obliga al Instituto al otorgamiento de las prestaciones siguientes:
+La contingencia consistente en la cesantía en edad avanzada, obliga al [Instituto](articulo-5-A.md) al otorgamiento de las prestaciones siguientes:
 
 I. Pensión;
 

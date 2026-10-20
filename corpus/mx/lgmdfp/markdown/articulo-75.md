@@ -17,4 +17,4 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Artículo 75
 
-Las autoridades de todos los órdenes de gobierno están obligadas a proporcionar, en el ámbito de su competencia, el auxilio e información que las Fiscalías Especializadas les soliciten para la investigación y persecución de los delitos previstos en esta Ley.
+Las autoridades de todos los órdenes de gobierno están obligadas a proporcionar, en el ámbito de su competencia, el auxilio e información que las [Fiscalías Especializadas](articulo-4.md) les soliciten para la investigación y persecución de los delitos previstos en esta Ley.

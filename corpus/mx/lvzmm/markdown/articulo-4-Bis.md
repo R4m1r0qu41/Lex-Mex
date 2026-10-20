@@ -17,7 +17,7 @@ source_sha256: d9ffbbf8f19b54a93ff577abb1266e4be1316d935e79fad655242955fd80ff70
 
 # Artículo 4 Bis
 
-Para otorgar el permiso de vertimiento a que se refiere el artículo [5](articulo-5.md) de la presente Ley, la Secretaría requerirá que el material a verter esté considerado dentro de una de las siguientes categorías que establece el Protocolo de Londres y que cumpla con los requisitos que se exijan al solicitante:
+Para otorgar el permiso de vertimiento a que se refiere el artículo [5](articulo-5.md) de la presente [Ley](articulo-2.md), la [Secretaría](articulo-2.md) requerirá que el material a verter esté considerado dentro de una de las siguientes categorías que establece el Protocolo de Londres y que cumpla con los requisitos que se exijan al solicitante:
 
 I. Materiales de dragado;
 

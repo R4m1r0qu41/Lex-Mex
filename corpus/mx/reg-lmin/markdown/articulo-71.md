@@ -17,7 +17,7 @@ source_sha256: 4d25bcb022ab62a24462e11a230c9554c0120012913ab4599cd3ec1b2b275c1d
 
 # Artículo 71
 
-El contenido de los informes geológico-mineros que se deberán rendir a la Secretaría en los casos previstos en la fracción IX del artículo [27](../../lmin/markdown/articulo-27.md) de la Ley, indistintamente deberán contener:
+El contenido de los informes geológico-mineros que se deberán rendir a la [Secretaría](articulo-1o.md) en los casos previstos en la fracción IX del artículo [27](../../lmin/markdown/articulo-27.md) de la [Ley](articulo-1o.md), indistintamente deberán contener:
 
 I. Información con el resultado de los reconocimientos geológicos realizados;
 

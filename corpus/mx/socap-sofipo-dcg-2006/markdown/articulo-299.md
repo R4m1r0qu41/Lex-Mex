@@ -17,4 +17,4 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 299
 
-El pago de las cuotas deberá realizarse mediante abono o transferencia de recursos a la cuenta del Fondo de Protección que lleve alguna entidad financiera, la cual será informada oportunamente por la Confederación respectiva, en términos del contrato constitutivo del fideicomiso.
+El pago de las cuotas deberá realizarse mediante abono o transferencia de recursos a la cuenta del Fondo de Protección que lleve alguna entidad financiera, la cual será informada oportunamente por la [Confederación](articulo-1.md) respectiva, en términos del contrato constitutivo del fideicomiso.

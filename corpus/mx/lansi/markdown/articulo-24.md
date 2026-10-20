@@ -17,4 +17,4 @@ source_sha256: 0e34f329befed4474eb7bc1bc195ba13bbe188edfbbabc914a44723e62eb9e44
 
 # Artículo 24
 
-Contra los actos de la Agencia podrá interponerse opcionalmente el recurso de revisión, conforme a la Ley Federal de Procedimiento Administrativo, o el juicio de nulidad conforme a la Ley Federal del Procedimiento Contencioso Administrativo.
+Contra los actos de la [Agencia](articulo-3o.md) podrá interponerse opcionalmente el recurso de revisión, conforme a la Ley Federal de Procedimiento Administrativo, o el juicio de nulidad conforme a la Ley Federal del Procedimiento Contencioso Administrativo.

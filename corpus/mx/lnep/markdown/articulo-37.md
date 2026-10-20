@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LNEP.pdf
 source_sha256: 91abecabe50a5e414e0835daa9086ce3b307fffb9ebe626dab3bb9d1eae51680
 ---
 
-> Título SEGUNDO
+> Título SEGUNDO · Capítulo II
 
 # Artículo 37
 
@@ -40,5 +40,3 @@ El plan de actividades se deberá ajustar a las medidas de vigilancia y estará 
 Sin menoscabo de lo anterior, la Autoridad Penitenciaria podrá decretar en cualquier momento estado de alerta o, en su caso, alerta máxima cuando exista riesgo o amenaza inminente que ponga en peligro la seguridad del Centro Penitenciario, de la población penitenciaria, de su personal o de las visitas.
 
 En caso de declaratoria de alerta, el Director del Centro Penitenciario deberá solicitar el apoyo a las fuerzas de seguridad pública, así como dar vista al Ministerio Público y al organismo público de protección de derechos humanos competentes.
-
-Capítulo III Régimen Disciplinario

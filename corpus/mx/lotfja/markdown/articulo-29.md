@@ -17,4 +17,4 @@ source_sha256: b32c33fa4ed071dc8bea1ad69ce8510cdb05016967e9e4fcb60f10c6f2216628
 
 # Artículo 29
 
-El Tribunal tendrá Salas Regionales, integradas por tres Magistrados cada una, con jurisdicción en la circunscripción territorial y sede que les sea asignada en el Reglamento Interior del Tribunal, o en esta Ley.
+El [Tribunal](articulo-2.md) tendrá Salas Regionales, integradas por tres Magistrados cada una, con jurisdicción en la circunscripción territorial y sede que les sea asignada en el Reglamento Interior del Tribunal, o en esta [Ley](articulo-2.md).

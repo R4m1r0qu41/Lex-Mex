@@ -17,7 +17,7 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 277-B
 
-El Instituto no está autorizado a contraer pasivos financieros para pagar las prestaciones correspondientes a los seguros que esta Ley establece.
+El [Instituto](articulo-5-A.md) no está autorizado a contraer pasivos financieros para pagar las prestaciones correspondientes a los seguros que esta [Ley](articulo-5-A.md) establece.
 
 Para sufragar su operación sólo podrá contraer pasivos derivados de cartas de crédito o coberturas cambiarias a plazos inferiores a un año sin revolvencia, que se destinen a liquidar compromisos con proveedores de insumos, sin perjuicio de los compromisos análogos a estos últimos que autorice contraer previamente la Secretaría de Hacienda y Crédito Público.
 

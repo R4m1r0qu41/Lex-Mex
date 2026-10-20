@@ -17,4 +17,4 @@ source_sha256: e81e23876bd08da81cb8392af7054f6187ad043ca8f965777b455f9d12554e8b
 
 # Artículo 38
 
-La persona titular de la Autoridad garante federal será nombrada por la persona titular del Ejecutivo Federal.
+La persona titular de la [Autoridad garante federal](articulo-3.md) será nombrada por la persona titular del Ejecutivo Federal.

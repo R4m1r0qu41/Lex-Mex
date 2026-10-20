@@ -15,4 +15,4 @@ source_sha256: 9478163ef6ab468edc2be8def3bf84efedd03da5b6c166fba0430bfcb6d8467c
 
 # Tercero
 
-A partir de la entrada en vigor del presente reglamento, todas las referencias que en los ordenamientos jurídicos vigentes se hagan al Reglamento de la Ley de la Comisión Federal de Electricidad, se entienden hechas al presente ordenamiento.
+A partir de la entrada en vigor del presente reglamento, todas las referencias que en los ordenamientos jurídicos vigentes se hagan al Reglamento de la [Ley](articulo-2.md) de la Comisión Federal de Electricidad, se entienden hechas al presente ordenamiento.

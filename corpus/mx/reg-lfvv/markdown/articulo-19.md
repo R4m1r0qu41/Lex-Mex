@@ -17,4 +17,4 @@ source_sha256: 23dcee090bbe0c4fb06c75d084cb65ce0b2e8f72a8d082e7059504412bde1614
 
 # Artículo 19
 
-El Comité podrá solicitar, a quien los hubiese nombrado, la remoción de sus miembros propietarios y suplentes, tanto por inasistencia a sus sesiones como por incumplimiento en el ejercicio de las funciones que les correspondan o que les encomiende.
+El [Comité](articulo-2o.md) podrá solicitar, a quien los hubiese nombrado, la remoción de sus miembros propietarios y suplentes, tanto por inasistencia a sus sesiones como por incumplimiento en el ejercicio de las funciones que les correspondan o que les encomiende.

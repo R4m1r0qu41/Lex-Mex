@@ -18,10 +18,10 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 265 Bis 19
 
-Las Sociedades Financieras Populares que ofrezcan al público operaciones y servicios a través de operadores telefónicos, deberán:
+Las [Sociedades](articulo-1.md) Financieras Populares que ofrezcan al público operaciones y servicios a través de operadores telefónicos, deberán:
 
-I. Mantener controles de seguridad física y lógica en la infraestructura tecnológica, incluyendo los dispositivos de grabación de llamadas y los medios de almacenamiento y respaldo de estas, que protejan en todo momento la confidencialidad e integridad de la información proporcionada por los Usuarios.
+I. Mantener controles de seguridad física y lógica en la infraestructura tecnológica, incluyendo los dispositivos de grabación de llamadas y los medios de almacenamiento y respaldo de estas, que protejan en todo momento la confidencialidad e integridad de la información proporcionada por los [Usuarios](articulo-1.md).
 
 II. Delimitar las funciones de los operadores telefónicos a fin de que sean independientes respecto de otras funciones operativas.
 
-III. Impedir que los operadores telefónicos cuenten con mecanismos que les permitan registrar la información proporcionada por los Usuarios en medios diferentes a los dispuestos por la propia Sociedad Financiera Popular para efectos de Autenticación. Para ello, la Sociedad Financiera Popular deberá cerciorarse que dichos operadores, no utilicen equipos electrónicos u otros dispositivos, servicios de correo electrónico externo, programas de mensajería instantánea, programas de cómputo, o que a través de estos tengan acceso a páginas de Internet no autorizadas, o cualquier otro mecanismo que les permita copiar, enviar o extraer por cualquier medio o tecnología información relacionada con los Usuarios, o con las operaciones y servicios que se realicen a través de operadores telefónicos.
+III. Impedir que los operadores telefónicos cuenten con mecanismos que les permitan registrar la información proporcionada por los Usuarios en medios diferentes a los dispuestos por la propia Sociedad Financiera Popular para efectos de [Autenticación](articulo-1.md). Para ello, la Sociedad Financiera Popular deberá cerciorarse que dichos operadores, no utilicen equipos electrónicos u otros dispositivos, servicios de correo electrónico externo, programas de mensajería instantánea, programas de cómputo, o que a través de estos tengan acceso a páginas de Internet no autorizadas, o cualquier otro mecanismo que les permita copiar, enviar o extraer por cualquier medio o tecnología información relacionada con los Usuarios, o con las operaciones y servicios que se realicen a través de operadores telefónicos.

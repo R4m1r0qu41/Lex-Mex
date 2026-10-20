@@ -17,6 +17,6 @@ source_sha256: 0e34f329befed4474eb7bc1bc195ba13bbe188edfbbabc914a44723e62eb9e44
 
 # Artículo 20
 
-Sin perjuicio de sus facultades para supervisar directamente a los Regulados, la Agencia contará con facultades de supervisión y verificación, así como de revisión de escritorio o gabinete, respecto de los auditores externos, a fin de verificar el cumplimiento de esta Ley y la observancia de las reglas de carácter general que de ella emanen.
+Sin perjuicio de sus facultades para supervisar directamente a los [Regulados](articulo-3o.md), la [Agencia](articulo-3o.md) contará con facultades de supervisión y verificación, así como de revisión de escritorio o gabinete, respecto de los auditores externos, a fin de verificar el cumplimiento de esta Ley y la observancia de las reglas de carácter general que de ella emanen.
 
 Para tal efecto, la Agencia podrá emitir o reconocer normas y procedimientos de auditoría que deberán observar los auditores externos al dictaminar o emitir opiniones relativas a las actividades de los Regulados.

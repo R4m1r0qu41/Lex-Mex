@@ -15,7 +15,7 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Sexto
 
-El Sistema Nacional de Búsqueda de Personas deberá quedar instalado dentro de los ciento ochenta días posteriores a la publicación del presente Decreto.
+El [Sistema Nacional](articulo-4.md) de Búsqueda de Personas deberá quedar instalado dentro de los ciento ochenta días posteriores a la publicación del presente Decreto.
 
 En la primera sesión ordinaria del Sistema Nacional de Búsqueda, se deberán emitir los lineamientos y modelos a que se refiere el artículo [49](articulo-49.md), fracciones I, VIII, XV y XVI de esta Ley.
 

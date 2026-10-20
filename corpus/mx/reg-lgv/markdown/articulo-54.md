@@ -17,7 +17,7 @@ source_sha256: 51d855a586ad7017a8d8f5c36819a2bd0d3d488f3f4b23594a729418a8b776b4
 
 # Artículo 54
 
-El órgano máximo de la Asesoría Jurídica Federal es la Junta Directiva que estará integrada por el Director General, quien la presidirá, y seis personas de reconocido prestigio, quienes deberán ser licenciados en Derecho y cumplir los requisitos que establezca el Estatuto Orgánico.
+El órgano máximo de la Asesoría Jurídica Federal es la Junta Directiva que estará integrada por el Director General, quien la presidirá, y seis personas de reconocido prestigio, quienes deberán ser licenciados en Derecho y cumplir los requisitos que establezca el [Estatuto Orgánico](articulo-3.md).
 
 Las personas a que se refiere el párrafo anterior, serán designadas por el Pleno de la Comisión Ejecutiva, a propuesta del Director General.
 

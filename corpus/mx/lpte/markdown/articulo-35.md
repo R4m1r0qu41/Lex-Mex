@@ -17,4 +17,4 @@ source_sha256: c24aa3a57883383635d5271683dd76e561f21852328f0e89f6bf1c2a09aa2d41
 
 # Artículo 35
 
-La Secretaría debe elaborar y publicar anualmente el Balance Nacional de Energía con escenarios prospectivos de energía que presenta la información de origen y destino de la energía en el territorio nacional del año anterior. Los escenarios prospectivos del Balance Nacional de Energía y escenarios prospectivos de energía deben tener un horizonte de 15 años.
+La [Secretaría](articulo-3.md) debe elaborar y publicar anualmente el Balance Nacional de Energía con escenarios prospectivos de energía que presenta la información de origen y destino de la energía en el territorio nacional del año anterior. Los escenarios prospectivos del Balance Nacional de Energía y escenarios prospectivos de energía deben tener un horizonte de 15 años.

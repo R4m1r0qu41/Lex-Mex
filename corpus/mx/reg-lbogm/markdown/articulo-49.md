@@ -17,13 +17,13 @@ source_sha256: 667636f9e0ea65e72ac9d6d7b4d7563a183b75d0f140268a61929c74f5f88041
 
 # Artículo 49
 
-Los acuerdos mediante los cuales se determinen los centros de origen y de diversidad genética a que se refiere el artículo 86 de la Ley deberán contener:
+Los acuerdos mediante los cuales se determinen los centros de origen y de diversidad genética a que se refiere el artículo 86 de la [Ley](articulo-2.md) deberán contener:
 
 I. Listado de especies, incluyendo nombre científico y común;
 
 II. Clasificación taxonómica;
 
-III. Las poligonales del área o áreas geográficas en coordenadas UTM, y
+III. Las poligonales del área o áreas geográficas en coordenadas [UTM](articulo-2.md), y
 
 IV. Las medidas necesarias para la protección de dichas especies.
 

@@ -23,4 +23,4 @@ I.- Cuando se haya otorgado en contravención a las disposiciones aplicables par
 
 II.- Cuando la patente de la cual deriva se declare nula o ha sido objeto de renuncia.
 
-Las acciones de nulidad previstas en este artículo podrán ejercerse en cualquier tiempo, a partir de la fecha en que surta efectos la publicación del certificado en la Gaceta.
+Las acciones de nulidad previstas en este artículo podrán ejercerse en cualquier tiempo, a partir de la fecha en que surta efectos la publicación del certificado en la [Gaceta](articulo-4.md).

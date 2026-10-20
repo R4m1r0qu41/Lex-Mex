@@ -17,7 +17,7 @@ source_sha256: cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7
 
 # Artículo 8o. Bis
 
-La Comisión Nacional, establecerá y mantendrá un Buró de Entidades Financieras, el cual se integrará con la información que aquella haya obtenido de las Instituciones Financieras y de los Usuarios en el ejercicio de sus atribuciones, así como la que le proporcionen las autoridades competentes. Su organización y funcionamiento se sujetará a las disposiciones que al efecto expida la propia Comisión Nacional.
+La [Comisión Nacional](articulo-2o.md), establecerá y mantendrá un Buró de Entidades Financieras, el cual se integrará con la información que aquella haya obtenido de las [Instituciones Financieras](articulo-2o.md) y de los [Usuarios](articulo-2o.md) en el ejercicio de sus atribuciones, así como la que le proporcionen las autoridades competentes. Su organización y funcionamiento se sujetará a las disposiciones que al efecto expida la propia Comisión Nacional.
 
 La información contenida en el Buró de Entidades Financieras se referirá a los productos que ofrecen las Instituciones Financieras, sus comisiones, sus prácticas, sus sanciones administrativas, sus reclamaciones, y otra información que resulte relevante para informar a los Usuarios del desempeño en la prestación de sus servicios y contribuir así a la adecuada toma de decisiones de los Usuarios de servicios financieros.
 

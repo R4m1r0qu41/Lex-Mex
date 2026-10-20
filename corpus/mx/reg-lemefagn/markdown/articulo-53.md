@@ -17,7 +17,7 @@ source_sha256: 703f083c0baedfb4ef5ce8b62c78684d8ee0073f393321d476d75ebe4878e1d5
 
 # Artículo 53
 
-La Dirección y Rectoría realizará el dictamen de los estudios a que se refiere el [artículo anterior](articulo-52.md) y, en caso procedente, coordinará la elaboración de los documentos técnicos siguientes: I. Estructura orgánica y funcional de la Institución Educativa o Jefatura de Curso, así como los requerimientos de inserción de algún nuevo Curso;
+La Dirección y Rectoría realizará el dictamen de los estudios a que se refiere el [artículo anterior](articulo-52.md) y, en caso procedente, coordinará la elaboración de los documentos técnicos siguientes: I. Estructura orgánica y funcional de la [Institución Educativa](articulo-3.md) o Jefatura de Curso, así como los requerimientos de inserción de algún nuevo Curso;
 
 II. Proyecto integral de normatividad;
 

@@ -17,7 +17,7 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 257
 
-Los órganos superiores del Instituto son:
+Los órganos superiores del [Instituto](articulo-5-A.md) son:
 
 I. La Asamblea General;
 

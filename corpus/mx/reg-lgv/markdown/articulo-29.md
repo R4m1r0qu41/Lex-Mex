@@ -17,6 +17,6 @@ source_sha256: 51d855a586ad7017a8d8f5c36819a2bd0d3d488f3f4b23594a729418a8b776b4
 
 # Artículo 29
 
-El Estatuto Orgánico establece las facultades de las unidades administrativas de la Comisión Ejecutiva y determina su adscripción, organización y funcionamiento.
+El [Estatuto Orgánico](articulo-3.md) establece las facultades de las unidades administrativas de la Comisión Ejecutiva y determina su adscripción, organización y funcionamiento.
 
 La Junta Directiva a que se refieren los artículos [175](../../lgv/markdown/articulo-175.md), [176](../../lgv/markdown/articulo-176.md) y [177](../../lgv/markdown/articulo-177.md) de la Ley, aprobará y emitirá las bases generales de organización y funcionamiento de la Asesoría Jurídica Federal, las cuales se deberán ajustar al Estatuto Orgánico de la Comisión Ejecutiva.

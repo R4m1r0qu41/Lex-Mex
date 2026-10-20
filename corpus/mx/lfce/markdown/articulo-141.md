@@ -17,15 +17,15 @@ source_sha256: d0021bbef2e0c3251d6efdea2c1efd9959ff3f02df4bcd1fc37c1ee7826a72ba
 
 # Artículo 141
 
-Para la determinación de un Agente Económico como Preponderante, así como para la imposición y revisión de las medidas necesarias para evitar que se afecten la competencia y la libre concurrencia, tanto en el sector de radiodifusión como de telecomunicaciones, la Comisión seguirá el siguiente procedimiento:
+Para la determinación de un [Agente Económico](articulo-3.md) como Preponderante, así como para la imposición y revisión de las medidas necesarias para evitar que se afecten la competencia y la libre concurrencia, tanto en el sector de radiodifusión como de telecomunicaciones, la [Comisión](articulo-3.md) seguirá el siguiente procedimiento:
 
 I. La Comisión notificará al Agente Económico correspondiente el proyecto de declaratoria de preponderancia, el cual deberá proponer un proyecto de medidas correctivas que se consideren necesarias para evitar que se afecten la competencia y la libre concurrencia.
 
-Previo a la emisión del proyecto de declaratoria, la Comisión solicitará a la CRT un dictamen técnico respecto del proyecto de medidas correctivas propuestas por la Comisión.
+Previo a la emisión del proyecto de declaratoria, la Comisión solicitará a la [CRT](articulo-3.md) un dictamen técnico respecto del proyecto de medidas correctivas propuestas por la Comisión.
 
 La CRT tendrá un plazo de cuarenta días para presentar su dictamen técnico. Transcurrido el plazo anterior sin que la CRT emita el dictamen técnico correspondiente, la Comisión continuará el trámite correspondiente;
 
-II. El presunto Agente Económico Preponderante tendrá un plazo de quince días hábiles, contados a partir del día siguiente a aquél en que surta efectos la notificación mencionada en la fracción anterior, para que manifieste lo que a su derecho convenga y ofrezca los elementos de prueba que considere necesarios, los cuales deberán estar relacionados con el proyecto de Declaratoria de Preponderancia. En caso de no comparecer dentro del plazo antes señalado, se presumirá que no existe inconformidad u oposición alguna del presunto Agente Económico con el proyecto de declaratoria y el expediente será turnado inmediatamente al Pleno para el dictado de resolución definitiva; III. Una vez concluido el plazo establecido en la fracción anterior, la Comisión se pronunciará sobre la admisión de las pruebas ofrecidas y, en su caso, ordenará abrir un periodo para su preparación y desahogo por un plazo de hasta quince días hábiles.
+II. El presunto Agente Económico Preponderante tendrá un plazo de quince días hábiles, contados a partir del día siguiente a aquél en que surta efectos la notificación mencionada en la fracción anterior, para que manifieste lo que a su derecho convenga y ofrezca los elementos de prueba que considere necesarios, los cuales deberán estar relacionados con el proyecto de Declaratoria de Preponderancia. En caso de no comparecer dentro del plazo antes señalado, se presumirá que no existe inconformidad u oposición alguna del presunto Agente Económico con el proyecto de declaratoria y el expediente será turnado inmediatamente al [Pleno](articulo-3.md) para el dictado de resolución definitiva; III. Una vez concluido el plazo establecido en la fracción anterior, la Comisión se pronunciará sobre la admisión de las pruebas ofrecidas y, en su caso, ordenará abrir un periodo para su preparación y desahogo por un plazo de hasta quince días hábiles.
 
 Se recibirán toda clase de pruebas, excepto la confesional y la testimonial a cargo de autoridades, ni aquellas que sean improcedentes, innecesarias o contrarias a la moral y al derecho.
 
@@ -49,6 +49,6 @@ En caso de no hacer manifestaciones dentro del plazo antes señalado, se presumi
 
 V. El Pleno contará con un plazo de treinta días hábiles para dictar la resolución definitiva correspondiente. Dicha resolución deberá ser notificada al Agente Económico y se publicará una versión pública en el Diario Oficial de la Federación y en la página de Internet de la Comisión. Asimismo, se dará vista de dicha resolución a la CRT, para los efectos legales a que haya lugar.
 
-La CRT y, en su caso, la Agencia proporcionarán la información y documentos con los que cuenten para efectos del procedimiento establecido en este artículo.
+La CRT y, en su caso, la [Agencia](articulo-3.md) proporcionarán la información y documentos con los que cuenten para efectos del procedimiento establecido en este artículo.
 
 Artículo adicionado DOF 16-07-2025

@@ -17,4 +17,4 @@ source_sha256: 7679afbbf32749e0c0bacab72644d41fc6ccdeeab3a2f25dfae8d26a065de01e
 
 # Artículo 28
 
-Los activos, derechos y flujos derivados de los Proyectos Procedentes podrán ser afectados en garantía en términos de la legislación aplicable, para respaldar financiamientos necesarios para el desarrollo, operación o mantenimiento del proyecto. En ningún caso la presente Ley autoriza por sí misma endeudamiento, otorgamiento de garantías o compromisos presupuestarios sin cumplir la legislación aplicable.
+Los activos, derechos y flujos derivados de los [Proyectos Procedentes](articulo-4.md) podrán ser afectados en garantía en términos de la legislación aplicable, para respaldar financiamientos necesarios para el desarrollo, operación o mantenimiento del proyecto. En ningún caso la presente [Ley](articulo-4.md) autoriza por sí misma endeudamiento, otorgamiento de garantías o compromisos presupuestarios sin cumplir la legislación aplicable.

@@ -17,4 +17,4 @@ source_sha256: dfe63e9a5dca843a804e5d7878671e2899f2b088534d9ed9813e9878c20b12bd
 
 # Artículo 76
 
-Al personal de confianza de la Guardia Nacional, que incumpla con sus obligaciones, se procederá conforme a su contrato o nombramiento respectivo. Observándose en lo conducente lo establecido en esta Ley y su Reglamento, así como la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional, y demás normativa aplicable. Capítulo II De los Delitos Contra la Disciplina
+Al personal de confianza de la Guardia Nacional, que incumpla con sus obligaciones, se procederá conforme a su contrato o nombramiento respectivo. Observándose en lo conducente lo establecido en esta Ley y su [Reglamento](articulo-2.md), así como la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional, y demás normativa aplicable. Capítulo II De los Delitos Contra la Disciplina

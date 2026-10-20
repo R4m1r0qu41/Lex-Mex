@@ -1,1 +1,134 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lupdecr:term:convenios-de-ginebra-de-1949",
+    "term": "Convenios de Ginebra de 1949",
+    "instrument_id": "urn:lex-mx:federal:statute:lupdecr",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lupdecr:article:3",
+    "fraction": "I",
+    "start_char": 46,
+    "end_char": 858,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lupdecr:term:protocolos-adicionales",
+    "term": "Protocolos Adicionales",
+    "instrument_id": "urn:lex-mx:federal:statute:lupdecr",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lupdecr:article:3",
+    "fraction": "II",
+    "start_char": 858,
+    "end_char": 1478,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lupdecr:term:movimiento-internacional-de-la-cruz-roja",
+    "term": "Movimiento Internacional de la Cruz Roja",
+    "instrument_id": "urn:lex-mx:federal:statute:lupdecr",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lupdecr:article:3",
+    "fraction": "III",
+    "start_char": 1478,
+    "end_char": 1802,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lupdecr:term:conferencia-internacional",
+    "term": "Conferencia Internacional",
+    "instrument_id": "urn:lex-mx:federal:statute:lupdecr",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lupdecr:article:3",
+    "fraction": "IV",
+    "start_char": 1802,
+    "end_char": 2274,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lupdecr:term:cicr",
+    "term": "CICR",
+    "instrument_id": "urn:lex-mx:federal:statute:lupdecr",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lupdecr:article:3",
+    "fraction": "V",
+    "start_char": 2274,
+    "end_char": 2350,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lupdecr:term:federacion-internacional",
+    "term": "Federación Internacional",
+    "instrument_id": "urn:lex-mx:federal:statute:lupdecr",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lupdecr:article:3",
+    "fraction": "VI",
+    "start_char": 2350,
+    "end_char": 2494,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lupdecr:term:sociedad-nacional",
+    "term": "Sociedad Nacional",
+    "instrument_id": "urn:lex-mx:federal:statute:lupdecr",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lupdecr:article:3",
+    "fraction": "VII",
+    "start_char": 2494,
+    "end_char": 2977,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lupdecr:term:derecho-internacional-humanitario-(dih)",
+    "term": "Derecho Internacional Humanitario (DIH)",
+    "instrument_id": "urn:lex-mx:federal:statute:lupdecr",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lupdecr:article:3",
+    "fraction": "VIII",
+    "start_char": 2977,
+    "end_char": 3359,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lupdecr:term:principios-fundamentales",
+    "term": "Principios Fundamentales",
+    "instrument_id": "urn:lex-mx:federal:statute:lupdecr",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lupdecr:article:3",
+    "fraction": "IX",
+    "start_char": 3359,
+    "end_char": 3590,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lupdecr:term:cruz-roja-mexicana",
+    "term": "Cruz Roja Mexicana",
+    "instrument_id": "urn:lex-mx:federal:statute:lupdecr",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lupdecr:article:3",
+    "fraction": "X",
+    "start_char": 3590,
+    "end_char": 3879,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lupdecr:term:servicio-de-sanidad",
+    "term": "Servicio de Sanidad",
+    "instrument_id": "urn:lex-mx:federal:statute:lupdecr",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lupdecr:article:3",
+    "fraction": "XI",
+    "start_char": 3879,
+    "end_char": 4152,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lupdecr:term:mision-medica",
+    "term": "Misión Médica",
+    "instrument_id": "urn:lex-mx:federal:statute:lupdecr",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lupdecr:article:3",
+    "fraction": "XII",
+    "start_char": 4152,
+    "end_char": 4531,
+    "basis": "express_definition"
+  }
+]

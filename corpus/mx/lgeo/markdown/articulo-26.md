@@ -17,4 +17,4 @@ source_sha256: 67309bf186af42de0f9e98010d38c89598676faea7f2b558ac9c9e6736d64d35
 
 # Artículo 26
 
-La Concesionaria puede ceder los derechos y obligaciones a su cargo, contenidos en el título respectivo, a quienes reúnan las calidades y capacidades equivalentes a las exigidas a la concesionaria cedente. Dicha autorización se tramita en los plazos y términos que al efecto señale el Reglamento, y debe ser autorizada previamente por la Secretaría.
+La Concesionaria puede ceder los derechos y obligaciones a su cargo, contenidos en el título respectivo, a quienes reúnan las calidades y capacidades equivalentes a las exigidas a la concesionaria cedente. Dicha autorización se tramita en los plazos y términos que al efecto señale el [Reglamento](articulo-2.md), y debe ser autorizada previamente por la [Secretaría](articulo-2.md).

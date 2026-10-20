@@ -17,4 +17,4 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 214
 
-Las prestaciones o servicios de solidaridad social comprenden acciones de salud comunitaria, asistencia médica, farmacéutica e incluso hospitalaria, en la forma y términos establecidos en los artículos [215](articulo-215.md) al [217](articulo-217.md) de esta Ley.
+Las prestaciones o servicios de solidaridad social comprenden acciones de salud comunitaria, asistencia médica, farmacéutica e incluso hospitalaria, en la forma y términos establecidos en los artículos [215](articulo-215.md) al [217](articulo-217.md) de esta [Ley](articulo-5-A.md).

@@ -19,7 +19,7 @@ source_sha256: 160e5e85efddb1749a79f6b154af31711a9b31a5e32bace3c07e2859c2620ecf
 
 La planeación y regulación del ordenamiento acuícola, se llevará a cabo a través de:
 
-I. El Programa Nacional de Acuacultura y la Carta Nacional Acuícola;
+I. El Programa Nacional de [Acuacultura](articulo-4o.md) y la Carta Nacional Acuícola;
 
 II. Los programas estatales de acuacultura;
 

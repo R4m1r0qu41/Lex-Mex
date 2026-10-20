@@ -17,7 +17,7 @@ source_sha256: 4e276866fce1638948a6daf1a5c0438fa412554f1a6e0381cbdf7cb300e3db75
 
 # Artículo 113
 
-La Secretaría podrá autorizar permisos transferibles, que fijen un nivel máximo de emisiones contaminantes permisibles al aire o al agua. Cada permiso representará un vehículo.
+La [Secretaría](articulo-3o.md) podrá autorizar permisos transferibles, que fijen un nivel máximo de emisiones contaminantes permisibles al aire o al agua. Cada permiso representará un vehículo.
 
 El estudio técnico de los permisos transferibles deberá contener los siguientes requisitos:
 

@@ -17,7 +17,7 @@ source_sha256: ea96e97cbea2fd1919af78b94cd3466ee20a77e05989be2d482d2eb8061618c5
 
 # Artículo 57
 
-Tratándose de los inmuebles que con motivo del desempeño de sus atribuciones se adjudiquen a la Federación, por conducto de las dependencias, el responsable inmobiliario respectivo deberá poner cada inmueble a disposición de la Secretaría tan pronto como lo reciba, con excepción de los bienes sujetos a una regulación específica establecida por las leyes aplicables.
+Tratándose de los inmuebles que con motivo del desempeño de sus atribuciones se adjudiquen a la [Federación](articulo-2.md), por conducto de las dependencias, el responsable inmobiliario respectivo deberá poner cada inmueble a disposición de la [Secretaría](articulo-2.md) tan pronto como lo reciba, con excepción de los bienes sujetos a una regulación específica establecida por las leyes aplicables.
 
 Tales inmuebles se entenderán incorporados al régimen de dominio público de la Federación a partir de la fecha en que se pongan a disposición de la Secretaría.
 

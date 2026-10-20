@@ -17,6 +17,6 @@ source_sha256: 96092a4581d4e87910eb58939da4045879e4fe613b12f4413d7392bcc2c6e884
 
 # Artículo 67
 
-El almacenamiento de las armas, objetos y materiales a que se refiere este Título deben sujetarse a los requisitos, tablas de compatibilidad y distancia-cantidad que señale la Secretaría, así como a los requisitos establecidos en el Reglamento de esta Ley y normas oficiales mexicanas en la materia.
+El almacenamiento de las armas, objetos y materiales a que se refiere este Título deben sujetarse a los requisitos, tablas de compatibilidad y distancia-cantidad que señale la [Secretaría](articulo-1o-Bis.md), así como a los requisitos establecidos en el [Reglamento](articulo-1o-Bis.md) de esta [Ley](articulo-1o-Bis.md) y normas oficiales mexicanas en la materia.
 
 Artículo reformado DOF 29-05-2025

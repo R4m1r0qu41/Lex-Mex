@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 103 Bis 2
 
-Para determinar el requerimiento de capitalización por riesgo operacional bajo el método del indicador de negocio, las Sociedades Financieras Populares deberán calcular el componente del indicador de negocio (CIN), el cual se determinará con la fórmula siguiente:
+Para determinar el requerimiento de capitalización por riesgo operacional bajo el método del indicador de negocio, las [Sociedades](articulo-1.md) Financieras Populares deberán calcular el componente del indicador de negocio (CIN), el cual se determinará con la fórmula siguiente:
 
 Donde:
 

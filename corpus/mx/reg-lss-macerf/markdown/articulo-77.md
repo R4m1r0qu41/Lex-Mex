@@ -17,6 +17,6 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 77
 
-Las incorporaciones de los sujetos a que se refiere este Título se podrán realizar en cualquier día hábil del año, en los órganos de operación administrativa desconcentrada que correspondan al domicilio de dichos sujetos o en los lugares que para tal efecto habilite el Instituto.
+Las incorporaciones de los sujetos a que se refiere este Título se podrán realizar en cualquier día hábil del año, en los órganos de operación administrativa desconcentrada que correspondan al domicilio de dichos sujetos o en los lugares que para tal efecto habilite el [Instituto](../../lss/markdown/articulo-5-A.md).
 
 El inicio de los servicios para las incorporaciones individuales o colectivas, será a partir del día primero del mes calendario siguiente al de la inscripción.

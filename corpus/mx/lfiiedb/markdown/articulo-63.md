@@ -17,4 +17,4 @@ source_sha256: 7679afbbf32749e0c0bacab72644d41fc6ccdeeab3a2f25dfae8d26a065de01e
 
 # Artículo 63
 
-Los Proyectos Procedentes previstos en esta Ley que reciban Apoyos, deberán sujetarse en todo momento a las disposiciones jurídicas aplicables en la materia presupuestaria y, en su caso, de deuda pública, así como contar con las autorizaciones que, en las distintas materias, resulten legalmente exigibles.
+Los [Proyectos Procedentes](articulo-4.md) previstos en esta [Ley](articulo-4.md) que reciban [Apoyos](articulo-4.md), deberán sujetarse en todo momento a las disposiciones jurídicas aplicables en la materia presupuestaria y, en su caso, de deuda pública, así como contar con las autorizaciones que, en las distintas materias, resulten legalmente exigibles.

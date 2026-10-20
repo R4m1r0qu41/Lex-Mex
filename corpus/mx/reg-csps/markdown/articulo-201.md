@@ -17,4 +17,4 @@ source_sha256: 70464807d63da08244e495f2ff0ac30b12b30119926b84cedc7930397fcb80ef
 
 # Artículo 201
 
-Los aditivos deberán: I. Usarse únicamente en la cantidad necesaria para obtener el efecto deseado; II. No exceder los límites permitidos por la Secretaría, y III. Estar libres, en su caso, de descomposición, putrefacción y otras alteraciones que los hagan no aptos para el consumo humano.
+Los aditivos deberán: I. Usarse únicamente en la cantidad necesaria para obtener el efecto deseado; II. No exceder los límites permitidos por la [Secretaría](articulo-2o.md), y III. Estar libres, en su caso, de descomposición, putrefacción y otras alteraciones que los hagan no aptos para el consumo humano.

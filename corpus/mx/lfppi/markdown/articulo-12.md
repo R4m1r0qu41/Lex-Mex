@@ -17,4 +17,4 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 12
 
-No se otorgará patente, registro o autorización, ni se dará publicidad en la Gaceta, a cualquiera de las figuras o instituciones jurídicas que regula esta Ley, cuando sus contenidos o forma sean contrarios al orden público o contravengan cualquier disposición legal.
+No se otorgará patente, registro o autorización, ni se dará publicidad en la [Gaceta](articulo-4.md), a cualquiera de las figuras o instituciones jurídicas que regula esta [Ley](articulo-4.md), cuando sus contenidos o forma sean contrarios al orden público o contravengan cualquier disposición legal.

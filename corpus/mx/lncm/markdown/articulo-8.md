@@ -35,7 +35,7 @@ VIII. Organizar, promover y regular la formación y capacitación del personal d
 
 IX. Regular y vigilar la seguridad en la navegación y la salvaguarda de la vida humana en el mar; Fracción reformada DOF 07-12-2020
 
-X. Establecer las Medidas de Protección Marítima y Portuaria, conforme a lo dispuesto en la Ley de Puertos; Fracción reformada DOF 07-12-2020
+X. Establecer las Medidas de [Protección Marítima y Portuaria](articulo-2.md), conforme a lo dispuesto en la Ley de Puertos; Fracción reformada DOF 07-12-2020
 
 XI. Establecer las bases de regulación de tarifas en la prestación de los servicios marítimos en el territorio nacional, incluidos los de navegación costera y de aguas interiores, cuando en opinión de la Comisión Federal de Competencia Económica no existan condiciones de competencia efectiva;
 

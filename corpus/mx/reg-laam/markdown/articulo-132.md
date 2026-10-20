@@ -17,9 +17,9 @@ source_sha256: 8515c812258bcc7c342e8566ff623c7f5e880f2eb9ee2ad154758077089f11ca
 
 # Artículo 132
 
-Son causas de exclusión de la persona participante, antes y durante el Concurso de Selección las siguientes: Párrafo reformado DOF 11-03-2016, 02-04-2026
+Son causas de exclusión de la persona participante, antes y durante el [Concurso de Selección](articulo-5.md) las siguientes: Párrafo reformado DOF 11-03-2016, 02-04-2026
 
-I. Dejar de cumplir con alguno de los requisitos que establece la Ley, el presente Reglamento y demás disposiciones jurídicas aplicables para ser convocada; Fracción reformada DOF 11-03-2016, 02-04-2026
+I. Dejar de cumplir con alguno de los requisitos que establece la [Ley](articulo-5.md), el presente Reglamento y demás disposiciones jurídicas aplicables para ser convocada; Fracción reformada DOF 11-03-2016, 02-04-2026
 
 II. Quedar incluida en alguno de los supuestos establecidos en el artículo [51](../../laam/markdown/articulo-51.md) de la Ley; Fracción reformada DOF 02-04-2026
 
@@ -39,6 +39,6 @@ IX. Conducirse con falsedad o hacer uso de medios fraudulentos; X. Estar vincula
 
 XI. Habérsele conferido ascenso por adecuación de grado durante el proceso de promoción;
 
-XII. Estar por comparecer o haber comparecido ante un órgano de disciplina y al término de la Promoción General no se haya determinado su situación jurídica, y Fracción reformada DOF 11-03-2016, 02-04-2026
+XII. Estar por comparecer o haber comparecido ante un órgano de disciplina y al término de la [Promoción General](articulo-5.md) no se haya determinado su situación jurídica, y Fracción reformada DOF 11-03-2016, 02-04-2026
 
 XIII. Cuando su conducta se le conceptúe como regular o mala en el año en que participará o durante el período de la Promoción General, lo cual se acreditará mediante la hoja de actuación, memorial de servicios o certificado de conducta que se elabore por ese motivo. Fracción reformada DOF 22-09-2010, 11-03-2016, 02-04-2026

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo II
+
 # Artículo 110
 
 En los procedimientos de apremio y en el juicio que empieza por ejecución, no se dará curso a ninguna recusación sino una vez practicado el aseguramiento, hecho en el embargo o levantamiento del embargo, en su caso, o anotada la demanda en el Registro Público de la Propiedad, oficina registral o cualquier otra institución análoga según la Entidad Federativa de que se trate.

@@ -25,7 +25,7 @@ II. Se disponga de nueva información científica y técnica sobre dichos riesgo
 
 En estos casos, el titular del permiso estará obligado a:
 
-A. Informar a la Secretaría correspondiente, de manera inmediata, dicha situación;
+A. Informar a la [Secretaría](articulo-3.md) correspondiente, de manera inmediata, dicha situación;
 
 B. Revisar las medidas de monitoreo y de bioseguridad especificadas en la documentación, y
 

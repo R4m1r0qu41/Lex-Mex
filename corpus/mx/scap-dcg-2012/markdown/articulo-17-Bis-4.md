@@ -38,7 +38,7 @@ iii. Más de tres caracteres idénticos en forma consecutiva.
 
 iv. Más de tres caracteres consecutivos numéricos o alfabéticos.
 
-No resultará aplicable lo previsto en el presente inciso para el caso de Pago Móvil, Servicios Avanzados Móviles y las operaciones realizadas a través de [Cajeros Automáticos](articulo-1.md) y Terminales punto de Venta, siempre que la Sociedad informe al Usuario al momento de la contratación, de la importancia de la composición de las Contraseñas para estos servicios.
+No resultará aplicable lo previsto en el presente inciso para el caso de Pago Móvil, [Servicios Avanzados Móviles](articulo-1.md) y las operaciones realizadas a través de [Cajeros Automáticos](articulo-1.md) y Terminales punto de Venta, siempre que la Sociedad informe al Usuario al momento de la contratación, de la importancia de la composición de las Contraseñas para estos servicios.
 
 b) Su longitud deberá ser de al menos seis caracteres, salvo por lo siguiente:
 
@@ -74,7 +74,7 @@ La Sociedad que apruebe la celebración de operaciones mediante el uso de tarjet
 
 Tratándose del Servicio de Host to Host, la Sociedad podrá utilizar como Factor de Autenticación de esta categoría, cualquier mecanismo que les permita verificar que los equipos de cómputo o dispositivos utilizados por los Usuarios para establecer la comunicación, son los que la propia Sociedad autorizó.
 
-La Sociedad podrá utilizar tablas aleatorias de Contraseñas como Factor de Autenticación de esta categoría, siempre y cuando dichas tablas cumplan con las características listadas en los incisos a), b) y d) de la presente fracción. Para el caso del inciso a), la Sociedad deberá asegurarse que las propiedades que impidan la duplicación o alteración se cumplan hasta el momento de la entrega al Usuario. En todo caso, las Sociedades deberán obtener la previa autorización de la Comisión, en cuya solicitud deberán exponer los controles que les permitirán a los Usuarios realizar operaciones de forma segura.
+La Sociedad podrá utilizar tablas aleatorias de Contraseñas como Factor de Autenticación de esta categoría, siempre y cuando dichas tablas cumplan con las características listadas en los incisos a), b) y d) de la presente fracción. Para el caso del inciso a), la Sociedad deberá asegurarse que las propiedades que impidan la duplicación o alteración se cumplan hasta el momento de la entrega al Usuario. En todo caso, las Sociedades deberán obtener la previa autorización de la [Comisión](articulo-1.md), en cuya solicitud deberán exponer los controles que les permitirán a los Usuarios realizar operaciones de forma segura.
 
 La Sociedad que obtenga la autorización a que se refiere el párrafo anterior, deberá pactar con sus Usuarios que asumirá los riesgos y por lo tanto los costos de las operaciones no reconocidas por aquellos realizadas a través de Servicios Electrónicos de que se trate. Las reclamaciones derivadas de estas operaciones deberán ser abonadas a los Usuarios a más tardar cuarenta y ocho horas posteriores a la reclamación.
 

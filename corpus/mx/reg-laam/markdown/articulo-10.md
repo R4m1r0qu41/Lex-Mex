@@ -17,6 +17,6 @@ source_sha256: 8515c812258bcc7c342e8566ff623c7f5e880f2eb9ee2ad154758077089f11ca
 
 # Artículo 10
 
-La promoción para ascenso por facultad del Mando Supremo será aplicada al personal convocado en los grados de Capitán de Fragata a Vicealmirante.
+La promoción para ascenso por facultad del [Mando Supremo](articulo-5.md) será aplicada al personal convocado en los grados de Capitán de Fragata a Vicealmirante.
 
 Artículo reformado DOF 22-09-2010

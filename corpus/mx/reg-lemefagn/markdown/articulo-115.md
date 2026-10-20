@@ -17,7 +17,7 @@ source_sha256: 703f083c0baedfb4ef5ce8b62c78684d8ee0073f393321d476d75ebe4878e1d5
 
 # Artículo 115
 
-La Secretaría enviará a los Ministerios de Defensa de los países con los cuales se mantenga intercambio académico y cultural, las convocatorias de las becas que ofrezca el Sistema y recibirá la documentación de las personas aspirantes a discentes como personas becarias extranjeras.
+La Secretaría enviará a los Ministerios de Defensa de los países con los cuales se mantenga intercambio académico y cultural, las convocatorias de las becas que ofrezca el [Sistema](articulo-3.md) y recibirá la documentación de las personas aspirantes a discentes como personas becarias extranjeras.
 
 La Dirección y Rectoría verificará el cumplimiento de los requisitos especificados en las convocatorias, por parte de las personas aspirantes a becarias.
 

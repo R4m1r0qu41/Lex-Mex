@@ -17,7 +17,7 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Artículo 12 Quater
 
-La Secretaría de Gobernación, a través del Registro Nacional de Población, habilitará los accesos necesarios para que la Fiscalía, Fiscalías Locales, la Comisión Nacional y las Comisiones Locales de Búsqueda, tengan acceso a la Plataforma Única de Identidad para la consulta de información requerida para la investigación, búsqueda, localización e identificación de Personas Desaparecidas o No Localizadas.
+La Secretaría de Gobernación, a través del [Registro Nacional](articulo-4.md) de Población, habilitará los accesos necesarios para que la [Fiscalía](articulo-4.md), [Fiscalías Locales](articulo-4.md), la Comisión Nacional y las [Comisiones Locales de Búsqueda](articulo-4.md), tengan acceso a la [Plataforma Única de Identidad](articulo-4.md) para la consulta de información requerida para la investigación, búsqueda, localización e identificación de [Personas Desaparecidas](articulo-4.md) o No Localizadas.
 
 Se conservará registro de toda búsqueda o consulta de la Plataforma Única de Identidad y se establecerán mecanismos efectivos de notificación y consulta.
 

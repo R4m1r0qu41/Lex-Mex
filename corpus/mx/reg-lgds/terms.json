@@ -1,1 +1,68 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgds:term:coinversion-social",
+    "term": "Coinversión Social",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgds",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgds:article:3",
+    "fraction": "I",
+    "start_char": 149,
+    "end_char": 402,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgds:term:convenios-o-contratos-de-concertacion",
+    "term": "Convenios o Contratos de Concertación",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgds",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgds:article:3",
+    "fraction": "II",
+    "start_char": 402,
+    "end_char": 788,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgds:term:convenios-de-coordinacion",
+    "term": "Convenios de Coordinación",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgds",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgds:article:3",
+    "fraction": "III",
+    "start_char": 788,
+    "end_char": 1157,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgds:term:entidades-federativas",
+    "term": "Entidades Federativas",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgds",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgds:article:3",
+    "fraction": "IV",
+    "start_char": 1157,
+    "end_char": 1235,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgds:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgds",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgds:article:3",
+    "fraction": "V",
+    "start_char": 1235,
+    "end_char": 1283,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgds:term:programa-nacional",
+    "term": "Programa Nacional",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgds",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgds:article:3",
+    "fraction": "VI",
+    "start_char": 1283,
+    "end_char": 1348,
+    "basis": "express_definition"
+  }
+]

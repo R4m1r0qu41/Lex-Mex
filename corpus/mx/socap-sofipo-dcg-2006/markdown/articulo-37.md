@@ -18,11 +18,11 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 37
 
-Las Sociedades Financieras Populares deberán tener a disposición de la Comisión y de la Federación que las supervise de forma auxiliar, toda la información relativa a las operaciones que hayan celebrado con personas relacionadas, incluyendo los reportes entregados al Consejo de Administración y la información que los respalda, así como los expedientes individuales respectivos.
+Las [Sociedades](articulo-1.md) Financieras Populares deberán tener a disposición de la Comisión y de la [Federación](articulo-1.md) que las supervise de forma auxiliar, toda la información relativa a las operaciones que hayan celebrado con personas relacionadas, incluyendo los reportes entregados al [Consejo de Administración](articulo-1.md) y la información que los respalda, así como los expedientes individuales respectivos.
 
 La información a que se refiere el párrafo anterior deberá comprender, además de la requerida en términos de las disposiciones aplicables, la siguiente:
 
-I. Actas de todas las sesiones del Consejo de Administración, del comité de consejeros y del Comité de Crédito, según se trate, las cuales deberán señalar en forma precisa los asistentes a la reunión, los casos que fueron analizados y la manera en que se llegó a su aprobación o rechazo, señalando el sentido del voto de cada uno de los miembros de dichos órganos;
+I. Actas de todas las sesiones del Consejo de Administración, del comité de consejeros y del [Comité de Crédito](articulo-1.md), según se trate, las cuales deberán señalar en forma precisa los asistentes a la reunión, los casos que fueron analizados y la manera en que se llegó a su aprobación o rechazo, señalando el sentido del voto de cada uno de los miembros de dichos órganos;
 
 II. Las nuevas líneas de financiamiento otorgadas;
 

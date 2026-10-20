@@ -29,4 +29,4 @@ IV. Manifestación de que los lotes son colindantes o constituyen una unidad min
 
 A la solicitud se acompañarán los informes de comprobación parcial de las obras y trabajos de exploración o de explotación efectuados en cada uno de los lotes por agrupar o separar, referidos hasta el mes inmediato anterior al de presentación de la solicitud.
 
-Si la Secretaría no notifica al solicitante resolución alguna dentro de los veintiún días siguientes a la fecha de recepción de la solicitud o de sus aclaraciones, ésta se tendrá por aprobada.
+Si la [Secretaría](articulo-1o.md) no notifica al solicitante resolución alguna dentro de los veintiún días siguientes a la fecha de recepción de la solicitud o de sus aclaraciones, ésta se tendrá por aprobada.

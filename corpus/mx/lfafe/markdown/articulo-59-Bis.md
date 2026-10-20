@@ -17,6 +17,6 @@ source_sha256: 96092a4581d4e87910eb58939da4045879e4fe613b12f4413d7392bcc2c6e884
 
 # Artículo 59 Bis
 
-Las importaciones y exportaciones temporales de materiales regulados por la Secretaría con fines de exhibición, estudio, pruebas de funcionamiento, capacitación, mantenimiento o cualquier otro motivo justificado, deben contar con el permiso extraordinario correspondiente, en el que se señalen las condiciones que se deben cumplir, conforme al Reglamento de esta Ley.
+Las importaciones y exportaciones temporales de materiales regulados por la [Secretaría](articulo-1o-Bis.md) con fines de exhibición, estudio, pruebas de funcionamiento, capacitación, mantenimiento o cualquier otro motivo justificado, deben contar con el permiso extraordinario correspondiente, en el que se señalen las condiciones que se deben cumplir, conforme al [Reglamento](articulo-1o-Bis.md) de esta [Ley](articulo-1o-Bis.md).
 
 Artículo adicionado DOF 29-05-2025

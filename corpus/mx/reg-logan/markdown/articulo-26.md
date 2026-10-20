@@ -37,4 +37,4 @@ IX. El procedimiento para dirimir conflictos en su organización ganadera, y
 
 X. Las causas de disolución y reglas del procedimiento de liquidación.
 
-En lo no previsto por la Ley, este Reglamento y los estatutos, se estará a lo que acuerde la asamblea general.
+En lo no previsto por la Ley, este [Reglamento](articulo-2o.md) y los estatutos, se estará a lo que acuerde la asamblea general.

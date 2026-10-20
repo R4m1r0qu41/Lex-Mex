@@ -17,7 +17,7 @@ source_sha256: d9ffbbf8f19b54a93ff577abb1266e4be1316d935e79fad655242955fd80ff70
 
 # Artículo 48
 
-Para imponer una sanción, la Secretaría deberá notificar previamente al presunto infractor del inicio del procedimiento, mediante oficio en el que se especificarán los hechos y las disposiciones legales que se consideran violadas y, en su caso, las disposiciones que el permisionario debe cumplir para subsanar los daños ocasionados al ecosistema marino; para que éste, dentro del término de quince días hábiles contados a partir del día hábil siguiente al en que sea hecha la notificación manifieste lo que a su derecho convenga y ofrezca pruebas.
+Para imponer una sanción, la [Secretaría](articulo-2.md) deberá notificar previamente al presunto infractor del inicio del procedimiento, mediante oficio en el que se especificarán los hechos y las disposiciones legales que se consideran violadas y, en su caso, las disposiciones que el permisionario debe cumplir para subsanar los daños ocasionados al ecosistema marino; para que éste, dentro del término de quince días hábiles contados a partir del día hábil siguiente al en que sea hecha la notificación manifieste lo que a su derecho convenga y ofrezca pruebas.
 
 En caso de que el presunto infractor dentro del plazo concedido no realice manifestación alguna, se tendrá por precluido su derecho y la Secretaría procederá a dictar resolución dentro de los quince días hábiles siguientes, haciéndole saber el derecho que tiene para interponer el recurso de revocación, dentro del término de quince días hábiles contados a partir del día siguiente al que fue hecha la notificación, en el que deberá presentar por escrito sus argumentos y pruebas ante la Secretaría.
 

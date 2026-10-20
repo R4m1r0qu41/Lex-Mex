@@ -21,4 +21,4 @@ La responsabilidad por daños ocasionados al ambiente será subjetiva, y nacerá
 
 En adición al cumplimiento de las obligaciones previstas en el [artículo anterior](articulo-10.md), cuando el daño sea ocasionado por un acto u omisión ilícitos dolosos, la persona responsable estará obligada a pagar una sanción económica.
 
-Para los efectos de esta Ley, se entenderá que obra ilícitamente el que realiza una conducta activa u omisiva en contravención a las disposiciones legales, reglamentarias, a las normas oficiales mexicanas, o a las autorizaciones, licencias, permisos o concesiones expedidas por la Secretaría u otras autoridades.
+Para los efectos de esta [Ley](articulo-2o.md), se entenderá que obra ilícitamente el que realiza una conducta activa u omisiva en contravención a las disposiciones legales, reglamentarias, a las normas oficiales mexicanas, o a las autorizaciones, licencias, permisos o concesiones expedidas por la [Secretaría](articulo-2o.md) u otras autoridades.

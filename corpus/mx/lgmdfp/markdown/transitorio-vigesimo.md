@@ -15,6 +15,6 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Vigésimo
 
-En tanto las Entidades Federativas se encuentren en la integración de sus Comisiones de Búsqueda, las obligaciones previstas para estas Comisiones en la Ley serán asumidas por la Secretaría de Gobierno de cada entidad.
+En tanto las [Entidades Federativas](articulo-4.md) se encuentren en la integración de sus Comisiones de Búsqueda, las obligaciones previstas para estas Comisiones en la Ley serán asumidas por la Secretaría de Gobierno de cada entidad.
 
 Asimismo, las Entidades Federativas deberán realizar las previsiones y adecuaciones presupuestales necesarias para dar cumplimiento a las obligaciones establecidas en este Decreto.

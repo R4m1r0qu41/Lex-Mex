@@ -1,0 +1,252 @@
+{
+  "head": "dbc3ab17de276303f96ab605981805e8125f4a3b",
+  "g1_delta": {
+    "term-usages.json": 28245,
+    "terms.json": 1619
+  },
+  "new_glossary_instruments": 94,
+  "previously_nonempty_changed": [],
+  "holds": [
+    {
+      "held": [
+        "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:2",
+        "fraction VII breaks the I, II, III… sequence after 5"
+      ],
+      "slug": "reg-lgcc-rne",
+      "terms": 0,
+      "provision_text_sha256": "cd775e4a7db1116a288e15ea7feb90496b2e297ca0f41e9e7a44a925a2adee7c",
+      "introduction": "Para los efectos del presente Reglamento, se considerarán las definiciones contenidas en el artículo 3 de la Ley, así como las siguientes:\n\nI. Cédula de Operación Anual: Instrument",
+      "source_path": "corpus/mx/reg-lgcc-rne/provisions.json"
+    },
+    {
+      "held": [
+        "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2",
+        "fraction IV breaks the I, II, III… sequence after 2"
+      ],
+      "slug": "reg-lgeepa-maaa",
+      "terms": 0,
+      "provision_text_sha256": "c2de84222520352d126b8978e09a5f2e6ccc17e54474bfb69011839791c9d7bb",
+      "introduction": "Para los efectos del presente Reglamento se estará a las definiciones previstas en las Leyes General del Equilibrio Ecológico y la Protección al Ambiente, y Federal sobre Metrologí",
+      "source_path": "corpus/mx/reg-lgeepa-maaa/provisions.json"
+    },
+    {
+      "held": [
+        "urn:lex-mx:federal:regulation:reg-lgeepa-meia:article:3",
+        "fraction XVI breaks the I, II, III… sequence after 14"
+      ],
+      "slug": "reg-lgeepa-meia",
+      "terms": 0,
+      "provision_text_sha256": "e7d8ca4832f2c2fdd16161cda020e466720d976a2a55bd7c7f532edeb16624c8",
+      "introduction": "Para los efectos del presente reglamento se considerarán las definiciones contenidas en la ley y las siguientes:\n\nI. Actividades del Sector Hidrocarburos: Las actividades definidas",
+      "source_path": "corpus/mx/reg-lgeepa-meia/provisions.json"
+    },
+    {
+      "held": [
+        "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:article:6",
+        "fraction IV breaks the I, II, III… sequence after 2"
+      ],
+      "slug": "reg-lgeepa-mpcca",
+      "terms": 0,
+      "provision_text_sha256": "275b45bd11e02748d8c7d6ef19542784ac62ecb001e0d41217dbc865c291ec7a",
+      "introduction": "Para los efectos de este Reglamento se estará a las definiciones que se contienen en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, así como a las siguientes:",
+      "source_path": "corpus/mx/reg-lgeepa-mpcca/provisions.json"
+    },
+    {
+      "held": [
+        "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:3",
+        "fraction XII breaks the I, II, III… sequence after 10"
+      ],
+      "slug": "reg-lgeepa-mretc",
+      "terms": 0,
+      "provision_text_sha256": "f06c6c9b6157389f943c4f69b9737f9320c48ea84f11586c405238a8a3aaa522",
+      "introduction": "Sin perjuicio de las definiciones que establezcan otros ordenamientos jurídicos, para los efectos del presente Reglamento, se considerarán las definiciones contenidas en la Ley Gen",
+      "source_path": "corpus/mx/reg-lgeepa-mretc/provisions.json"
+    },
+    {
+      "held": [
+        "urn:lex-mx:federal:regulation:reg-lgs-investigacion:article:40",
+        "fraction X breaks the I, II, III… sequence after 8"
+      ],
+      "slug": "reg-lgs-investigacion",
+      "terms": 0,
+      "provision_text_sha256": "b8b6b51150294e93105c3fa7caff946392343c37941826c10f2ddd23b79af96a",
+      "introduction": "Para los efectos de este Reglamento se entiende por:\n\nI. Mujeres en edad fértil.- Desde el inicio de la pubertad hasta el inicio de la menopausia;\n\nII. Embarazo.- Es el periodo com",
+      "source_path": "corpus/mx/reg-lgs-investigacion/provisions.json"
+    },
+    {
+      "held": [
+        "urn:lex-mx:federal:regulation:reg-lss-maeba:article:2",
+        "fraction V breaks the I, II, III… sequence after 3"
+      ],
+      "slug": "reg-lss-maeba",
+      "terms": 0,
+      "provision_text_sha256": "d0a8b8f842e2e9487ad40033f9a061973aa69e9f72d03ee0790a3004cd03e208",
+      "introduction": "Para los efectos del presente Reglamento, serán aplicables las definiciones establecidas en el artículo 5 A, de la Ley del Seguro Social, así como las siguientes:\n\nI. Adquirente: P",
+      "source_path": "corpus/mx/reg-lss-maeba/provisions.json"
+    },
+    {
+      "held": [
+        "urn:lex-mx:federal:statute:log:article:4",
+        "fraction II breaks the I, II, III… sequence after the introduction"
+      ],
+      "slug": "log",
+      "terms": 0,
+      "provision_text_sha256": "72a6f09198e3bab2b748e17560f187b4e21bc1e92f826e45f0204b82a7373f9a",
+      "introduction": "Para los efectos de esta Ley se entiende por:\n\nPágina 1 de 9 I. Actividad ganadera: Conjunto de acciones para la explotación racional de especies animales orientadas a la producció",
+      "source_path": "corpus/mx/log/provisions.json"
+    },
+    {
+      "held": [
+        "urn:lex-mx:federal:regulation:fi-dcg-2014:article:1",
+        "fraction IV breaks the I, II, III… sequence after 1"
+      ],
+      "slug": "fi-dcg-2014",
+      "terms": 0,
+      "provision_text_sha256": "ec429d9e6069763b33723643b1008722883658d3d56bbf108ab75325e99cd7af",
+      "introduction": "En adición a las definiciones contenidas en la Ley, para efectos de las presentes disposiciones, se entenderá, en singular o plural, por:\n\nI. Administración integral de riesgos, al",
+      "source_path": "corpus/mx/fi-dcg-2014/provisions.json"
+    },
+    {
+      "held": [
+        "urn:lex-mx:federal:regulation:servinv-dcg-2013:article:1",
+        "fraction IV breaks the I, II, III… sequence after 2"
+      ],
+      "slug": "servinv-dcg-2013",
+      "terms": 0,
+      "provision_text_sha256": "da1acc875ebf800771195beea9b23fc692919a1d5ca7c6fc1dbe4da962d02e68",
+      "introduction": "En adición a las definiciones contenidas en la Ley del Mercado de Valores, para efectos de las presentes disposiciones se entenderá, en singular o plural, por:\n\nI. Analistas: a las",
+      "source_path": "corpus/mx/servinv-dcg-2013/provisions.json"
+    },
+    {
+      "held": [
+        "urn:lex-mx:federal:regulation:reg-lftr-mcsre:article:3",
+        "fraction IX breaks the I, II, III… sequence after 7"
+      ],
+      "slug": "reg-lftr-mcsre",
+      "terms": 0,
+      "provision_text_sha256": "de92f806a32f1bfba3819143710678202b8dc2ee0ae95eeda6f197ea3898b596",
+      "introduction": "Para efectos de este reglamento, se aplican las definiciones establecidas en el artículo 3 de la Ley Federal de Telecomunicaciones y Radiodifusión, así como las siguientes:\n\nI. Asi",
+      "source_path": "corpus/mx/reg-lftr-mcsre/provisions.json"
+    },
+    {
+      "held": [
+        "urn:lex-mx:federal:statute:ladua:article:2",
+        "fraction IV breaks the I, II, III… sequence after 1"
+      ],
+      "slug": "ladua",
+      "terms": 0,
+      "provision_text_sha256": "3bd0f34b749af55d6b0a84ad0e1f7ff5321c895e668ceb1d64ee34b707fa4ad0",
+      "introduction": "Para los efectos de esta Ley se considera:\n\nI. Secretaría, la Secretaría de Hacienda y Crédito Público.\n\nlI. Autoridad o autoridades aduaneras, las que de acuerdo con el Reglamento",
+      "source_path": "corpus/mx/ladua/provisions.json"
+    },
+    {
+      "held": [
+        "urn:lex-mx:federal:statute:lfca:article:2",
+        "fraction C breaks the I, II, III… sequence after 20"
+      ],
+      "slug": "lfca",
+      "terms": 0,
+      "provision_text_sha256": "64ed68c4f4f6c3d9f8b61f09bc48abc3b651cbf1a12e82bb1b6a506ed43bbfce",
+      "introduction": "Para los efectos de esta Ley se entenderá, en singular o plural, por: I. Circulación: conjunto de acciones que permiten el movimiento de las obras cinematográficas y obras audiovis",
+      "source_path": "corpus/mx/lfca/provisions.json"
+    },
+    {
+      "held": [
+        "urn:lex-mx:federal:statute:lfpccs:article:3",
+        "fraction XXVII has no term before `:`"
+      ],
+      "slug": "lfpccs",
+      "terms": 0,
+      "provision_text_sha256": "6a30ae4a30c525fb88576269fc8811de20491182b958b79b84ac8237323a7217",
+      "introduction": "Para los efectos de esta Ley, se entiende por:\n\nI. Calidad Física: Medida de la pureza física de la semilla, se expresa como el porcentaje del peso que corresponde a la semilla de ",
+      "source_path": "corpus/mx/lfpccs/provisions.json"
+    },
+    {
+      "held": [
+        "urn:lex-mx:federal:statute:lfra:article:2",
+        "fraction V has no term before `:`"
+      ],
+      "slug": "lfra",
+      "terms": 0,
+      "provision_text_sha256": "015185a42b674dd3412f4a9ee07439ddfc6560d4a54a1f92d6478dc05354c794",
+      "introduction": "Para los efectos de esta Ley se estará a las siguientes definiciones, así como aquellas previstas en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, las Leyes ",
+      "source_path": "corpus/mx/lfra/provisions.json"
+    },
+    {
+      "held": [
+        "urn:lex-mx:federal:statute:lfvv:article:2",
+        "fraction VII has no term before `:`"
+      ],
+      "slug": "lfvv",
+      "terms": 0,
+      "provision_text_sha256": "c04e2eaff2ab5431f8c54ad7ed4199aad2bc88a8ad1bb7c77692da3ad759275b",
+      "introduction": "Para los efectos de esta ley se entenderá por:\n\nI.- Caracteres pertinentes: Expresiones fenotípicas y genotípicas propias de la variedad vegetal, que permiten su identificación;\n\nI",
+      "source_path": "corpus/mx/lfvv/provisions.json"
+    },
+    {
+      "held": [
+        "urn:lex-mx:federal:statute:ltfccg:article:3",
+        "fraction IX has no term before `.`"
+      ],
+      "slug": "ltfccg",
+      "terms": 0,
+      "provision_text_sha256": "0910f7ca2b128ca66544a0de2abd74ce26d72aec6a545dbf4d42df7dc8433487",
+      "introduction": "Para los efectos de esta Ley se entiende por:\n\nI. (Se deroga). Fracción reformada DOF 13-06-2003. Derogada DOF 15-06-2007\n\nII. Crédito Garantizado. El crédito que otorguen las Enti",
+      "source_path": "corpus/mx/ltfccg/provisions.json"
+    },
+    {
+      "held": [
+        "urn:lex-mx:federal:statute:lieps:article:3",
+        "fraction VIII has no plain term: \"Tabacos labrados y otros: Párrafo reformado DOF 07-11-2025\\n\\na) Cigarros\""
+      ],
+      "slug": "lieps",
+      "terms": 0,
+      "provision_text_sha256": "9c80c1dc34488ddc56b82465adc6bf0941894b64ac09962e2a633c53f0f6e232",
+      "introduction": "Para los efectos de esta Ley se entiende por: I. Bebidas con contenido alcohólico, las bebidas alcohólicas y las bebidas refrescantes, de acuerdo con lo siguiente:\n\na) Bebidas alco",
+      "source_path": "corpus/mx/lieps/provisions.json"
+    },
+    {
+      "held": [
+        "urn:lex-mx:federal:statute:lsct:article:2",
+        "fraction I has no plain term: \"“Tratado”\""
+      ],
+      "slug": "lsct",
+      "terms": 0,
+      "provision_text_sha256": "2a963793ba376665d572ef6af335038df9a447dfa268c1867c0adcbcb1701c69",
+      "introduction": "Para los efectos de la presente Ley se entenderá por:\n\nI.- “Tratado”: el convenio regido por el derecho internacional público, celebrado por escrito entre el Gobierno de los Estado",
+      "source_path": "corpus/mx/lsct/provisions.json"
+    }
+  ],
+  "synthetic_probes": [
+    {
+      "case": "repeal_swallows_last",
+      "observed_terms": [
+        "Agencia"
+      ],
+      "held": null
+    },
+    {
+      "case": "qualified_duplicate",
+      "observed_terms": [
+        "Agencia",
+        "Banco",
+        "Comisión",
+        "Fondo"
+      ],
+      "observed_fractions": [
+        "I",
+        "I Bis",
+        "I Bis",
+        "II"
+      ],
+      "held": null
+    },
+    {
+      "case": "repealed_term",
+      "observed_terms": [
+        "Vigentes"
+      ],
+      "held": null
+    }
+  ]
+}

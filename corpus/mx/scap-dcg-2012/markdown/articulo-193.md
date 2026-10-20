@@ -17,4 +17,4 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 193
 
-La Comisión, en ejercicio de sus facultades de supervisión y vigilancia, podrá vetar u ordenar modificaciones a dichas políticas y procedimientos, cuando no cumplan con lo dispuesto en el presente capítulo.
+La [Comisión](articulo-1.md), en ejercicio de sus facultades de supervisión y vigilancia, podrá vetar u ordenar modificaciones a dichas políticas y procedimientos, cuando no cumplan con lo dispuesto en el presente capítulo.

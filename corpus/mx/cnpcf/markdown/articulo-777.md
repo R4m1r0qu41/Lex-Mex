@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Primero · Capítulo I
+
 # Artículo 777
 
 Concluido el proyecto de partición, la autoridad jurisdiccional lo mandará poner a la vista de los interesados en la Secretaría, por un término de diez días. Vencido el término sin hacerse oposición, la autoridad jurisdiccional aprobará el proyecto y dictará sentencia de adjudicación, mandando entregar a cada quien los bienes muebles que le hubieren sido adjudicados, con la factura o los documentos de propiedad, después de asentarse por la persona secretaria judicial, una nota en que se haga constar la adjudicación.

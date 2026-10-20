@@ -17,4 +17,4 @@ source_sha256: c24aa3a57883383635d5271683dd76e561f21852328f0e89f6bf1c2a09aa2d41
 
 # Artículo 87
 
-La Secretaría, con apoyo del Instituto Nacional de Electricidad y Energías Limpias, debe elaborar y desarrollar una página de Internet que incluya los reportes y documentos requeridos en la presente Ley.
+La [Secretaría](articulo-3.md), con apoyo del Instituto Nacional de Electricidad y [Energías Limpias](articulo-3.md), debe elaborar y desarrollar una página de Internet que incluya los reportes y documentos requeridos en la presente [Ley](articulo-3.md).

@@ -21,6 +21,6 @@ Los Generales, Jefes, Oficiales, y sus equivalentes en la Armada tendrán derech
 
 En el caso de padres que tengan varios hijos militares, la ayuda para gastos de sepelio se le cubrirá al hijo que los haya efectuado, situación que se acreditará con la factura original. Párrafo reformado DOF 20-11-2008
 
-Esta prestación será cubierta, en el caso de militares en activo por la Unidad Ejecutora de Pago correspondiente o por el Instituto, en caso de militares retirados que a la fecha del deceso estuvieren percibiendo haber de retiro. Párrafo reformado DOF 20-11-2008
+Esta prestación será cubierta, en el caso de militares en activo por la Unidad Ejecutora de Pago correspondiente o por el [Instituto](articulo-4o.md), en caso de militares retirados que a la fecha del deceso estuvieren percibiendo haber de retiro. Párrafo reformado DOF 20-11-2008
 
 Capítulo Tercero: Fondo de trabajo, fondo de ahorro, seguro de vida militar y seguro colectivo de retiro.

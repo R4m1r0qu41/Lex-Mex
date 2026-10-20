@@ -18,11 +18,11 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 25
 
-Las Sociedades Financieras Populares, en la contratación de las operaciones activas señaladas por el artículo [23](articulo-23.md), habrán de sujetarse a las disposiciones que resulten aplicables, así como a los términos y condiciones siguientes:
+Las [Sociedades](articulo-1.md) Financieras Populares, en la contratación de las operaciones activas señaladas por el artículo [23](articulo-23.md), habrán de sujetarse a las disposiciones que resulten aplicables, así como a los términos y condiciones siguientes:
 
 I. Préstamos o créditos por plazos hasta de 60 meses, de más de 60 y hasta 96 meses y superiores a 96 meses a sus Clientes.
 
-Las Sociedades Financieras Populares podrán otorgar préstamos o créditos por plazos hasta de 60 meses, de más de 60 y hasta 96 meses y superiores a 96 meses a sus Socios o Clientes, según su Nivel de Operaciones y respetando los límites máximos de plazo y monto de financiamiento que al efecto determine el Consejo de Administración de cada sociedad, los cuales se ajustarán a lo establecido en el presente capítulo.
+Las Sociedades Financieras Populares podrán otorgar préstamos o créditos por plazos hasta de 60 meses, de más de 60 y hasta 96 meses y superiores a 96 meses a sus Socios o Clientes, según su Nivel de Operaciones y respetando los límites máximos de plazo y monto de financiamiento que al efecto determine el [Consejo de Administración](articulo-1.md) de cada sociedad, los cuales se ajustarán a lo establecido en el presente capítulo.
 
 a) Plazos.
 
@@ -50,7 +50,7 @@ Deberá pactarse en el contrato de crédito una sola tasa de interés, aclarando
 
 5. Derogado.
 
-Las tasas de interés pactadas se deberán calcular sobre saldos insolutos y sólo podrán cobrarse por anticipado en los supuestos que al efecto determine el Banco de México en términos de lo dispuesto por la Ley para la Transparencia y Ordenamiento de los Servicios Financieros.
+Las tasas de interés pactadas se deberán calcular sobre saldos insolutos y sólo podrán cobrarse por anticipado en los supuestos que al efecto determine el Banco de México en términos de lo dispuesto por la [Ley](articulo-1.md) para la Transparencia y Ordenamiento de los Servicios Financieros.
 
 Las Sociedades Financieras Populares no podrán pactar tasas alternativas.
 
@@ -70,13 +70,13 @@ e) Tasas de referencia en moneda nacional.
 
 En las operaciones activas, denominadas en moneda nacional, únicamente se podrá utilizar como tasa de referencia las siguientes:
 
-1. La TIIE;
+1. La [TIIE](articulo-1.md);
 
-2. La tasa de rendimiento en colocación primaria de CETES;
+2. La tasa de rendimiento en colocación primaria de [CETES](articulo-1.md);
 
-3. El CCP;
+3. El [CCP](articulo-1.md);
 
-4. La Tasa Nafin (TNF) que se publique en el Diario Oficial de la Federación, únicamente en los créditos que sean objeto de descuento con Nacional Financiera, S.N.C., o que sean otorgados con recursos provenientes de esa institución de banca de desarrollo, o
+4. La Tasa Nafin (TNF) que se publique en el Diario Oficial de la [Federación](articulo-1.md), únicamente en los créditos que sean objeto de descuento con Nacional Financiera, S.N.C., o que sean otorgados con recursos provenientes de esa institución de banca de desarrollo, o
 
 5. La tasa que se hubiese pactado en los instrumentos que documenten créditos recibidos de la banca de desarrollo o de fideicomisos públicos de fomento económico, únicamente en los créditos que sean objeto de descuento con tales instituciones de banca de desarrollo o de esos fideicomisos, o que sean otorgados con recursos provenientes de dichas instituciones o fideicomisos.
 
@@ -146,7 +146,7 @@ g) La Sociedad Financiera Popular cedente o descontataria deberá pactar en los 
 
 h) Las Sociedades Financieras Populares deberán obtener de la persona que pretenda actuar como cesionario o descontador, con anterioridad a la celebración de la transacción, constancia por escrito en la que el pretendido descontador o cesionario manifieste, bajo protesta de decir verdad, por sí mismo o a través de persona legalmente autorizada para realizar actos de administración, lo siguiente:
 
-1. Que ha hecho del conocimiento oportuno de la Sociedad de Información Crediticia correspondiente, las modificaciones registradas en la situación de los créditos que hayan adquirido por virtud de operaciones de cesión o descuento de cartera celebradas al amparo del presente Capítulo y con anterioridad a la transacción de que se trate, con entidades financieras o con cualquier otra persona considerada como Usuario en términos de la Ley para Regular las Sociedades de Información Crediticia, publicada en el Diario Oficial de la Federación el 15 de enero de 2002, o bien
+1. Que ha hecho del conocimiento oportuno de la [Sociedad de Información Crediticia](articulo-1.md) correspondiente, las modificaciones registradas en la situación de los créditos que hayan adquirido por virtud de operaciones de cesión o descuento de cartera celebradas al amparo del presente Capítulo y con anterioridad a la transacción de que se trate, con entidades financieras o con cualquier otra persona considerada como [Usuario](articulo-1.md) en términos de la Ley para Regular las Sociedades de Información Crediticia, publicada en el Diario Oficial de la Federación el 15 de enero de 2002, o bien
 
 2. Que no ha participado con anterioridad en transacción alguna realizada en términos de lo previsto en la presente Sección, que implique la adquisición de créditos originalmente otorgados por entidad financiera legalmente autorizada u otra persona que de conformidad con la Ley citada en el inciso anterior, pueda ser considerada como Usuario del servicio de información sobre operaciones activas y otras de naturaleza análoga, así como que, no obstante lo anterior, dará cumplimiento a la obligación contenida en el inciso g) de esta fracción.
 

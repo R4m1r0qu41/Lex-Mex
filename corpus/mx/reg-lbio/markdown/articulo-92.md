@@ -17,4 +17,4 @@ source_sha256: 7df3d678efda2306b68d3c0f5ca0e3e92b9066d5f773128f4ae19cb26bf44fff
 
 # Artículo 92
 
-Las personas titulares de los permisos y Autorizaciones que otorga la SENER deben tramitar y obtener las demás autorizaciones, permisos, concesiones y licencias que exijan otras disposiciones y autoridades de los tres órdenes de gobierno en materias diversas a la energética y que sean necesarias para el desarrollo de la actividad permisionada o que tengan relación con esta.
+Las personas titulares de los permisos y [Autorizaciones](articulo-3.md) que otorga la [SENER](articulo-3.md) deben tramitar y obtener las demás autorizaciones, permisos, concesiones y licencias que exijan otras disposiciones y autoridades de los tres órdenes de gobierno en materias diversas a la energética y que sean necesarias para el desarrollo de la actividad permisionada o que tengan relación con esta.

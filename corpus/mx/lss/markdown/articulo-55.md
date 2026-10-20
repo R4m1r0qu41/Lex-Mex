@@ -27,4 +27,4 @@ III. Incapacidad permanente total, y
 
 IV. Muerte.
 
-Se entenderá por incapacidad temporal, incapacidad permanente parcial e incapacidad permanente total, lo que al respecto disponen los artículos relativos de la Ley Federal del Trabajo.
+Se entenderá por incapacidad temporal, incapacidad permanente parcial e incapacidad permanente total, lo que al respecto disponen los artículos relativos de la [Ley](articulo-5-A.md) Federal del Trabajo.

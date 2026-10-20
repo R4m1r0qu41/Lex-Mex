@@ -865,6 +865,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:14:term-usage:4457-4483",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:inversionista-calificado",
+    "span": "Inversionistas calificados",
+    "start_char": 4457,
+    "end_char": 4483
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:14:term-usage:4789-4818",
     "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:14",
     "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:ofertas-publicas-restringidas",

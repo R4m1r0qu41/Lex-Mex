@@ -19,10 +19,10 @@ source_sha256: 4f46c1f92fb5682281a7679836e517de95975786fa5326848a331c9eb946cc5f
 
 Para los efectos de este Reglamento se entiende por:
 
-I. Ley: La Ley del Impuesto al Valor Agregado;
+I. Ley: La Ley del [Impuesto](articulo-1.md) al Valor Agregado;
 
 II. Impuesto: El impuesto al valor agregado;
 
-III. Actos o Actividades por los que se deba pagar el Impuesto: Aquéllos a los que se les apliquen las tasas del 16% y 0% a las que se refiere la Ley, y Fracción reformada DOF 25-09-2014
+III. Actos o Actividades por los que se deba pagar el Impuesto: Aquéllos a los que se les apliquen las tasas del 16% y 0% a las que se refiere la [Ley](articulo-1.md), y Fracción reformada DOF 25-09-2014
 
 IV. Disposiciones que establece la Ley en materia de acreditamiento: Los artículos [4](../../liva/markdown/articulo-4o.md)o., 5o., 5o.-A, 5o.-B, 5o.-C, 5o.-D, 5o.-E y 5o.-F de la Ley. Fracción reformada DOF 25-09-2014

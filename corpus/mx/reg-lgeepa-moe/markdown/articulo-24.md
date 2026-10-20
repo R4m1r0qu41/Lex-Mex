@@ -17,4 +17,4 @@ source_sha256: d25fabb2d2e90d9f76028717f83c442d05a4f64024f13461285bda8ebd389a04
 
 # Artículo 24
 
-Para efectos del artículo [22](articulo-22.md) del presente Reglamento, las áreas de aptitud sectorial se identificarán en las regiones del territorio en que concurran los atributos ambientales que favorecen el desarrollo de los programas, proyectos y acciones de las dependencias y entidades de la Administración Pública Federal.
+Para efectos del artículo [22](articulo-22.md) del presente [Reglamento](articulo-3o.md), las áreas de aptitud sectorial se identificarán en las regiones del territorio en que concurran los atributos ambientales que favorecen el desarrollo de los programas, proyectos y acciones de las dependencias y entidades de la Administración Pública Federal.

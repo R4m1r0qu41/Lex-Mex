@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf
 source_sha256: 43927095d22ff7bc7780e78132d2160b5050b5f76026b539daec32be09d7341d
 ---
 
+> Título Segundo · Capítulo I
+
 # Artículo 13
 
 El transbordo de las mercancías de procedencia extranjera de una aeronave o embarcación a otra sin haber sido despachadas, se deberá realizar bajo la responsabilidad de la empresa transportista, siempre que se cumplan los requisitos que establezca el Reglamento.

@@ -23,9 +23,9 @@ La publicación de una solicitud divisional de patente se realizará una vez apr
 
 La persona solicitante podrá pedir que su solicitud se publique en cualquier momento, antes del vencimiento del plazo de 18 meses a que se refieren los párrafos anteriores, siempre y cuando la solicitud haya aprobado el examen de forma y se exhiba el comprobante del pago de la tarifa correspondiente.
 
-Con la finalidad de agilizar la tramitación de una solicitud de patente, una vez aprobado el examen de forma, el Instituto informará a la persona solicitante la posibilidad de iniciar el trámite de publicación anticipada.
+Con la finalidad de agilizar la tramitación de una solicitud de patente, una vez aprobado el examen de forma, el [Instituto](articulo-4.md) informará a la persona solicitante la posibilidad de iniciar el trámite de publicación anticipada.
 
-Una vez publicada la solicitud de patente, el Instituto iniciará el examen de fondo previsto en el artículo [110](articulo-110.md) de esta Ley.
+Una vez publicada la solicitud de patente, el Instituto iniciará el examen de fondo previsto en el artículo [110](articulo-110.md) de esta [Ley](articulo-4.md).
 
 Las solicitudes que hayan sido desechadas, abandonadas, retiradas o desistidas durante la etapa de examen de forma, no serán objeto de la publicación a que se refiere el presente artículo.
 

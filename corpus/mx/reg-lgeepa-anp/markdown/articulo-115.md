@@ -17,7 +17,7 @@ source_sha256: 4e276866fce1638948a6daf1a5c0438fa412554f1a6e0381cbdf7cb300e3db75
 
 # Artículo 115
 
-La Secretaría podrá revocar las autorizaciones otorgadas sobre instrumentos económicos si se presenta alguno de los siguientes casos:
+La [Secretaría](articulo-3o.md) podrá revocar las autorizaciones otorgadas sobre instrumentos económicos si se presenta alguno de los siguientes casos:
 
 I.- Cuando se demuestre mediante un estudio técnico un daño a los recursos naturales del área natural protegida;
 

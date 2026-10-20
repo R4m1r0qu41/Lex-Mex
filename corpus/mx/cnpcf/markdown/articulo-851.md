@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo Único
+
 # Artículo 851
 
 Para el supuesto que la persona deudora deba entrar en liquidación y, eventualmente, al remate de los bienes, las funciones del síndico serán: I. Tomar posesión del patrimonio y de los demás bienes del concursado, con excepción de los necesario para la subsistencia de la persona deudora y sus dependientes económicos;

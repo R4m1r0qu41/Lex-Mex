@@ -17,4 +17,4 @@ source_sha256: 4933abadd27d345e7a5c1754af10ed429fd148b709b4a78d4f42447b5fcd546d
 
 # Artículo 17
 
-El Consejo es la instancia que promueve, analiza y da seguimiento a los esquemas, Programas, instrumentos y acciones que deben desarrollarse en apoyo a las MIPYMES.
+El [Consejo](articulo-3.md) es la instancia que promueve, analiza y da seguimiento a los esquemas, [Programas](articulo-3.md), instrumentos y acciones que deben desarrollarse en apoyo a las [MIPYMES](articulo-3.md).

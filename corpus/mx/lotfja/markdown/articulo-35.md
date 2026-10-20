@@ -27,6 +27,6 @@ III. Las que nieguen la indemnización por responsabilidad patrimonial del Estad
 
 IV. Las dictadas por las autoridades administrativas que pongan fin a un procedimiento administrativo, a una instancia o resuelvan un expediente, respecto de los supuestos descritos en los incisos anteriores de este artículo;
 
-V. Las dictadas en los juicios promovidos por los Secretarios de Acuerdos, Actuarios y demás personal del tribunal, en contra de sanciones derivadas de actos u omisiones que constituyan faltas administrativas no graves, impuestas por la Junta de Gobierno y Administración o por el Órgano Interno de Control, en aplicación de la Ley General de Responsabilidades Administrativas, y
+V. Las dictadas en los juicios promovidos por los Secretarios de Acuerdos, Actuarios y demás personal del tribunal, en contra de sanciones derivadas de actos u omisiones que constituyan faltas administrativas no graves, impuestas por la [Junta](articulo-2.md) de Gobierno y Administración o por el Órgano Interno de Control, en aplicación de la [Ley](articulo-2.md) General de Responsabilidades Administrativas, y
 
 VI. Las que resuelvan los recursos administrativos en contra de las resoluciones que se indican en las demás fracciones de este artículo.

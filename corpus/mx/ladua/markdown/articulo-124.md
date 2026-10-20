@@ -13,10 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf
 source_sha256: 43927095d22ff7bc7780e78132d2160b5050b5f76026b539daec32be09d7341d
 ---
 
-> Capítulo II · Sección TERCERA
+> Título Cuarto · Capítulo V
 
 # Artículo 124
 
 El régimen de tránsito consiste en el traslado de mercancías, bajo control fiscal, de una aduana nacional a otra.
-
-Sección Primera Tránsito interno de mercancías

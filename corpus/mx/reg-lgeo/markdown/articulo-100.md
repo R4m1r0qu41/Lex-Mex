@@ -17,4 +17,4 @@ source_sha256: b19bcf104673af06117a6d4f3c947591f7a65999f19bad3dcfe2599a29bb3ab0
 
 # Artículo 100
 
-Para efectos de la determinación de los plazos a los que se refiere el presente capítulo, cuando la Secretaría imponga una sanción o determine una obligación puede otorgar al infractor un plazo de hasta doce meses para cumplir con esta y ejecutar las acciones señaladas en la resolución recaída en el procedimiento administrativo de sanción con motivo de la infracción o infracciones en que hubiere incurrido.
+Para efectos de la determinación de los plazos a los que se refiere el presente capítulo, cuando la [Secretaría](articulo-3.md) imponga una sanción o determine una obligación puede otorgar al infractor un plazo de hasta doce meses para cumplir con esta y ejecutar las acciones señaladas en la resolución recaída en el procedimiento administrativo de sanción con motivo de la infracción o infracciones en que hubiere incurrido.

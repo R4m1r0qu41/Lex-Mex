@@ -19,7 +19,7 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 El Consejo Directivo tendrá las siguientes atribuciones:
 
-I. Elaborar su estatuto orgánico, así como su manual de operación, que deberán ser publicados en el Diario Oficial de la Federación y en la Plataforma Tecnológica Integral de Infraestructura de la Calidad;
+I. Elaborar su estatuto orgánico, así como su manual de operación, que deberán ser publicados en el Diario Oficial de la Federación y en la [Plataforma Tecnológica Integral de Infraestructura de la Calidad](articulo-4.md);
 
 II. Estudiar y, en su caso, aprobar el programa operativo anual;
 

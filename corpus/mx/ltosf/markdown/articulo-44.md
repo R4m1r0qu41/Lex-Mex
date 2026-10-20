@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LTOSF.pdf
 source_sha256: bf9e443e89a5c0ba268e76f20923ae25195ef5c1ffbacecff36693ca228c3667
 ---
 
+> Capítulo V · Sección VI
+
 # Artículo 44
 
 La Procuraduría Federal del Consumidor sancionará con multa de doscientos a dos mil días de salario, a las [Entidades Comerciales](articulo-3.md) que infrinjan cualquier disposición de esta Ley cuya conducta no competa sancionar a otra de las [Autoridades](articulo-3.md) y que no correspondan a las conductas infractoras señaladas en el párrafo siguiente, así como cuando infrinjan las disposiciones de carácter general que la propia Procuraduría expida en términos de esta Ley. Asimismo, la Procuraduría Federal del Consumidor sancionará, en el ámbito de su competencia, con multa de:
@@ -64,5 +66,3 @@ m) Cobre comisiones por sobregiro o intento de sobregiro en un crédito, présta
 n) Condicionen la contratación de operaciones o servicios a la contratación de otra operación o servicio, en contravención de lo dispuesto por los artículos [18 Bis 5](articulo-18-Bis-5.md) y [23 Bis](articulo-23-Bis.md), de la presente Ley. Inciso adicionado DOF 10-01-2014
 
 En los casos a que se refiere el inciso e) de la fracción II de este artículo, la Procuraduría Federal del Consumidor podrá, en adición a la imposición de la multa que corresponda, solicitar a las autoridades competentes en materia de radio, televisión y otros medios de prensa, ordene la suspensión de la difusión de la publicidad.
-
-Sección VII Sanciones que corresponde imponer a la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros (Se deroga) Sección derogada DOF 25-06-2009

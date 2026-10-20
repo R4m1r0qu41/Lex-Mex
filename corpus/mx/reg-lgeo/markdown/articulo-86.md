@@ -17,4 +17,4 @@ source_sha256: b19bcf104673af06117a6d4f3c947591f7a65999f19bad3dcfe2599a29bb3ab0
 
 # Artículo 86
 
-El procedimiento de revocación es aplicable, en lo conducente, a las demás causas de extinción previstas en el artículo [31](../../lgeo/markdown/articulo-31.md) de la Ley.
+El procedimiento de revocación es aplicable, en lo conducente, a las demás causas de extinción previstas en el artículo [31](../../lgeo/markdown/articulo-31.md) de la [Ley](articulo-3.md).

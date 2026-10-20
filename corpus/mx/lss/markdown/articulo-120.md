@@ -17,13 +17,13 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 120
 
-El estado de invalidez da derecho al asegurado, en los términos de esta Ley y sus reglamentos, al otorgamiento de las prestaciones siguientes:
+El estado de invalidez da derecho al asegurado, en los términos de esta [Ley](articulo-5-A.md) y sus reglamentos, al otorgamiento de las prestaciones siguientes:
 
 I. Pensión temporal;
 
 II. Pensión definitiva.
 
-La pensión y el seguro de sobrevivencia a que se refiere esta fracción, se contratarán por el asegurado con la institución de seguros que elija. Para la contratación de los seguros de renta vitalicia y de sobrevivencia, el Instituto calculará el monto constitutivo necesario para su contratación. Al monto constitutivo se le restará el saldo acumulado en la cuenta individual del asegurado y la diferencia positiva será la suma asegurada que el Instituto deberá entregar a la institución de seguros para la contratación de los seguros a que se refiere esta fracción.
+La pensión y el seguro de sobrevivencia a que se refiere esta fracción, se contratarán por el asegurado con la institución de seguros que elija. Para la contratación de los seguros de renta vitalicia y de sobrevivencia, el [Instituto](articulo-5-A.md) calculará el monto constitutivo necesario para su contratación. Al monto constitutivo se le restará el saldo acumulado en la cuenta individual del asegurado y la diferencia positiva será la suma asegurada que el Instituto deberá entregar a la institución de seguros para la contratación de los seguros a que se refiere esta fracción.
 
 Cuando el trabajador tenga un saldo acumulado en su cuenta individual que sea mayor al necesario para integrar el monto constitutivo para contratar los seguros de renta vitalicia y de sobrevivencia, podrá el asegurado optar por:
 

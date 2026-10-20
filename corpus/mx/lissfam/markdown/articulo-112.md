@@ -19,7 +19,7 @@ source_sha256: 35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc
 
 En los casos de retiro del activo y de licencia ilimitada, en los términos de las disposiciones legales aplicables, se entregará al militar el total de los depósitos que tenga a su favor en el fondo de la vivienda. En caso de muerte del militar, dicha entrega se hará a sus beneficiarios o a sus causahabientes en el orden de prelación siguiente:
 
-I. Los que al efecto el militar haya designado ante el Instituto;
+I. Los que al efecto el militar haya designado ante el [Instituto](articulo-4o.md);
 
 II. La viuda, el viudo y los hijos menores de edad o imposibilitados físicamente para trabajar e incapacitados legalmente;
 

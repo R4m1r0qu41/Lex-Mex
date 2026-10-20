@@ -13,8 +13,10 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAC.pdf
 source_sha256: 07199878c4f94748c983998437198eb7c645ad76967c444dfe26d50a535d23ae
 ---
 
+> Capítulo XV Bis
+
 # Artículo 78 Bis 10
 
-Con el fin de promover la seguridad operacional, la Agencia Federal de Aviación Civil tiene la facultad de concertar acuerdos con las personas proveedoras de servicios respecto a la recopilación, análisis, uso, compartición, intercambio y utilización de datos e información de seguridad operacional.
+Con el fin de promover la seguridad operacional, la [Agencia Federal de Aviación Civil](articulo-2.md) tiene la facultad de concertar acuerdos con las personas proveedoras de servicios respecto a la recopilación, análisis, uso, compartición, intercambio y utilización de datos e información de seguridad operacional.
 
 Artículo adicionado DOF 26-01-2015. Reformado DOF 03-05-2023

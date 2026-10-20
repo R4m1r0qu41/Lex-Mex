@@ -17,7 +17,7 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 131
 
-Al resolver sobre la procedencia del certificado solicitado, el Instituto deberá: I.- Verificar si la tramitación de la patente excedió cinco años, en caso contrario, resolverá la improcedencia de la petición planteada, y
+Al resolver sobre la procedencia del certificado solicitado, el [Instituto](articulo-4.md) deberá: I.- Verificar si la tramitación de la patente excedió cinco años, en caso contrario, resolverá la improcedencia de la petición planteada, y
 
 II.- Si la tramitación de la patente excedió dicho plazo, determinará el periodo de tiempo que corresponda a retrasos razonables y lo sustraerá del periodo de tramitación.
 

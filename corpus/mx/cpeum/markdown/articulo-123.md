@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf
 source_sha256: ca63a23a4b7444ebdbdad93759fbf46bd14c069e587c5878decf89fc9c12ca8e
 ---
 
+> Título Sexto
+
 # Artículo 123
 
 Toda persona tiene derecho al trabajo digno y socialmente útil; al efecto, se promoverán la creación de empleos y la organización social de trabajo, conforme a la ley. Párrafo adicionado DOF 19-12-1978. Reformado DOF 18-06-2008. Publicado sin cambios DOF 01-04-2025
@@ -265,7 +267,9 @@ XII. Los conflictos individuales, colectivos o intersindicales serán sometidos 
 
 Los conflictos entre el Poder Judicial de la Federación y sus servidores, así como los que se susciten entre la Suprema Corte de Justicia y sus empleados, serán resueltos por el Tribunal de Disciplina Judicial. Párrafo reformado DOF 31-12-1994, 15-09-2024. Publicado sin cambios DOF 20-12-2024
 
-XIII. Los militares, marinos, integrantes de la Guardia Nacional, personal del servicio exterior, agentes del Ministerio Público, peritos y los miembros de las instituciones policiales, se regirán por sus propias leyes. Párrafo reformado DOF 30-09-2024 Los agentes del Ministerio Público, los peritos y los miembros de las instituciones policiales de la Federación, las entidades federativas y los Municipios, podrán ser separados de sus cargos si no cumplen con los requisitos que las leyes vigentes en el momento del acto señalen para permanecer en dichas instituciones, o removidos por incurrir en responsabilidad en el desempeño de sus funciones. Si la autoridad jurisdiccional resolviere que la separación, remoción, baja, cese o cualquier otra forma de terminación del servicio fue injustificada, el Estado sólo estará obligado a pagar la indemnización y demás prestaciones a que tenga derecho, sin que en ningún caso proceda su reincorporación al servicio, cualquiera que sea el resultado del juicio o medio de defensa que se hubiere promovido. Párrafo reformado DOF 29-01-2016
+XIII. Los militares, marinos, integrantes de la Guardia Nacional, personal del servicio exterior, agentes del Ministerio Público, peritos y los miembros de las instituciones policiales, se regirán por sus propias leyes. Párrafo reformado DOF 30-09-2024
+
+Los agentes del Ministerio Público, los peritos y los miembros de las instituciones policiales de la Federación, las entidades federativas y los Municipios, podrán ser separados de sus cargos si no cumplen con los requisitos que las leyes vigentes en el momento del acto señalen para permanecer en dichas instituciones, o removidos por incurrir en responsabilidad en el desempeño de sus funciones. Si la autoridad jurisdiccional resolviere que la separación, remoción, baja, cese o cualquier otra forma de terminación del servicio fue injustificada, el Estado sólo estará obligado a pagar la indemnización y demás prestaciones a que tenga derecho, sin que en ningún caso proceda su reincorporación al servicio, cualquiera que sea el resultado del juicio o medio de defensa que se hubiere promovido. Párrafo reformado DOF 29-01-2016
 
 Las autoridades federales, de las entidades federativas y municipales, a fin de propiciar el fortalecimiento del sistema de seguridad social del personal del Ministerio Público, de las corporaciones policiales y de los servicios periciales, de sus familias y dependientes, instrumentarán sistemas complementarios de seguridad social. Párrafo reformado DOF 29-01-2016
 
@@ -274,5 +278,3 @@ El Estado proporcionará a los miembros en el activo del Ejército, Fuerza Aére
 XIII bis. El banco central y las entidades de la Administración Pública Federal que formen parte del sistema bancario mexicano regirán sus relaciones laborales con sus trabajadores por lo dispuesto en el presente Apartado. Fracción adicionada DOF 17-11-1982. Reformada DOF 27-06-1990, 20-08-1993
 
 XIV. La ley determinará los cargos que serán considerados de confianza. Las personas que los desempeñen disfrutarán de las medidas de protección al salario y gozarán de los beneficios de la seguridad social. Apartado B con fracciones adicionado DOF 05-12-1960
-
-Título Séptimo Prevenciones Generales

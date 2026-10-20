@@ -17,10 +17,10 @@ source_sha256: d0021bbef2e0c3251d6efdea2c1efd9959ff3f02df4bcd1fc37c1ee7826a72ba
 
 # Artículo 36
 
-La persona titular de la Autoridad Investigadora se abstendrá de desempeñar cualquier otro empleo, trabajo o comisión públicos o privados, con excepción de los cargos docentes. Asimismo, estará impedida y deberá excusarse inmediatamente de conocer asuntos en los que exista una o varias situaciones que razonablemente le impidan resolver un asunto de su competencia con plena independencia, profesionalismo e imparcialidad.
+La persona titular de la [Autoridad Investigadora](articulo-3.md) se abstendrá de desempeñar cualquier otro empleo, trabajo o comisión públicos o privados, con excepción de los cargos docentes. Asimismo, estará impedida y deberá excusarse inmediatamente de conocer asuntos en los que exista una o varias situaciones que razonablemente le impidan resolver un asunto de su competencia con plena independencia, profesionalismo e imparcialidad.
 
-Para efectos de lo anterior, la persona titular de la Autoridad Investigadora estará impedida para conocer de un asunto cuando se actualice alguno de los casos de impedimento previstos para las Personas Comisionadas en esta Ley.
+Para efectos de lo anterior, la persona titular de la Autoridad Investigadora estará impedida para conocer de un asunto cuando se actualice alguno de los casos de impedimento previstos para las [Personas Comisionadas](articulo-3.md) en esta Ley.
 
-En caso de impedimento de la persona titular de la Autoridad Investigadora para conocer de un asunto, dicha persona titular será suplida por la persona servidora pública que señale el estatuto orgánico de la Comisión.
+En caso de impedimento de la persona titular de la Autoridad Investigadora para conocer de un asunto, dicha persona titular será suplida por la persona servidora pública que señale el estatuto orgánico de la [Comisión](articulo-3.md).
 
 Artículo reformado DOF 16-07-2025

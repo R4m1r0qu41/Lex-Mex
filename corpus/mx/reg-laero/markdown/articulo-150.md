@@ -15,7 +15,7 @@ source_sha256: ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776
 
 # Artículo 150
 
-El concesionario, permisionario o prestador de servicios que no cumpla en tiempo con el pago de las indemnizaciones a que esté obligado, pagará a la parte afectada, además de la suerte principal, intereses moratorios conforme a una tasa igual a la establecida por la Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda para los casos de prórroga en el pago de créditos fiscales, multiplicada por el factor de 1.5, sin perjuicio de las sanciones que procedan de conformidad con las disposiciones aplicables.
+El concesionario, permisionario o prestador de servicios que no cumpla en tiempo con el pago de las indemnizaciones a que esté obligado, pagará a la parte afectada, además de la suerte principal, intereses moratorios conforme a una tasa igual a la establecida por la [Ley](articulo-2.md) de Ingresos de la Federación para el ejercicio fiscal que corresponda para los casos de prórroga en el pago de créditos fiscales, multiplicada por el factor de 1.5, sin perjuicio de las sanciones que procedan de conformidad con las disposiciones aplicables.
 
 Titulo Noveno De la seguridad
 

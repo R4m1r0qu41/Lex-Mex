@@ -17,4 +17,4 @@ source_sha256: b32c33fa4ed071dc8bea1ad69ce8510cdb05016967e9e4fcb60f10c6f2216628
 
 # Artículo 70
 
-En términos de la fracción XXXV del artículo [23](articulo-23.md) de esta Ley, la Junta de Gobierno y Administración, vigilará que las publicaciones de la Revista se realicen con oportunidad.
+En términos de la fracción XXXV del artículo [23](articulo-23.md) de esta [Ley](articulo-2.md), la [Junta](articulo-2.md) de Gobierno y Administración, vigilará que las publicaciones de la Revista se realicen con oportunidad.

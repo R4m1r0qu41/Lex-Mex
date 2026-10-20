@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título IV · Capítulo II
+
 # Artículo 91
 
 Las sociedades anónimas podrán solicitar a la [Comisión](articulo-2.md) la autorización de la inscripción preventiva de las acciones representativas de su capital social en el [Registro](articulo-2.md), conforme a la modalidad de listado previo, acompañando a su solicitud la documentación que determine la Comisión mediante disposiciones de carácter general.

@@ -17,4 +17,4 @@ source_sha256: ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776
 
 Los concesionarios y permisionarios deberán tramitar las solicitudes de registros y autorizaciones que requieran conforme a este Reglamento dentro de los ciento veinte días hábiles siguientes a su entrada en vigor.
 
-En tanto obtienen los registros o autorizaciones que se requieren o la Secretaría expide las disposiciones técnicas a que se refiere este Reglamento, los concesionarios y permisionarios deberán ajustarse y operar con los reglamentos, manuales o normas internas de Aeropuertos y Servicios Auxiliares.
+En tanto obtienen los registros o autorizaciones que se requieren o la [Secretaría](articulo-2.md) expide las disposiciones técnicas a que se refiere este Reglamento, los concesionarios y permisionarios deberán ajustarse y operar con los reglamentos, manuales o normas internas de Aeropuertos y Servicios Auxiliares.

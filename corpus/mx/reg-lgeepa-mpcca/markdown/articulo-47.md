@@ -17,11 +17,11 @@ source_sha256: cf47ab93fdea40d2b3e41b58784df62f89dd90b4482dd3b7f25adc7f6957036b
 
 # Artículo 47
 
-Sin perjuicio de otras sanciones que se impongan conforme a lo dispuesto en este Reglamento, procederá la revocación de la autorización para establecer y operar centros de verificación obligatoria de los vehículos del transporte público federal terrestre, en los siguientes casos:
+Sin perjuicio de otras sanciones que se impongan conforme a lo dispuesto en este [Reglamento](articulo-6o.md), procederá la revocación de la autorización para establecer y operar centros de verificación obligatoria de los vehículos del transporte público federal terrestre, en los siguientes casos:
 
 I.- Cuando las verificaciones no se realicen conforme a las normas técnicas ecológicas aplicables, o en los términos de la autorización otorgada;
 
-II.- Cuando en forma dolosa o negligente se alteren los procedimientos de verificación establecidos por la Secretaría;
+II.- Cuando en forma dolosa o negligente se alteren los procedimientos de verificación establecidos por la [Secretaría](articulo-6o.md);
 
 III.- Cuando se alteren las tarifas autorizadas; y,
 

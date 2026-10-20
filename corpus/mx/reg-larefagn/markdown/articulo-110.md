@@ -35,6 +35,6 @@ A. Perseverancia, y
 
 B. Mérito Deportivo; Inciso reformado DOF 20-03-2026
 
-III. Las Condecoraciones de Valor Heroico, Mérito Militar, Servicios Distinguidos, Mérito en la Campaña contra el Narcotráfico y de Retiro se otorgarán en las fechas que determine la persona titular de la Secretaría a propuesta del Estado Mayor, y Fracción reformada DOF 20-03-2026
+III. Las Condecoraciones de Valor Heroico, Mérito Militar, Servicios Distinguidos, Mérito en la Campaña contra el Narcotráfico y de Retiro se otorgarán en las fechas que determine la persona titular de la Secretaría a propuesta del [Estado Mayor](articulo-5.md), y Fracción reformada DOF 20-03-2026
 
 IV. Las Condecoraciones conferidas por Gobiernos o Fuerzas Armadas de Naciones amigas o bien por Organizaciones Civiles Internacionales, las podrán aceptar y usar las personas militares agraciadas, una vez que el Congreso de la Unión otorgue la autorización correspondiente y ésta se publique en el Diario Oficial de la Federación. En estos casos, la Secretaría comunicará a la persona interesada la aprobación correspondiente. Fracción reformada DOF 20-03-2026

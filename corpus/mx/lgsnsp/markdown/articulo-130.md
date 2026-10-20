@@ -17,4 +17,4 @@ source_sha256: 7f01ee1b1deb901a23976507adccbddefbea50b0fc9a4ddceaf1225d711d50d0
 
 # Artículo 130
 
-El régimen disciplinario de todas las Instituciones de Seguridad Pública será el aplicable ante el incumplimiento de estas obligaciones o las que estén contenidas en otras normas. Las legislaciones emitidas por las entidades federativas deberán observar lo dispuesto en esta Ley, sin perjuicio de que puedan establecer un catálogo de conductas sancionables que amplíe lo previsto en esta. Sección II Correctivos disciplinarios y sanciones
+El régimen disciplinario de todas las [Instituciones de Seguridad Pública](articulo-4.md) será el aplicable ante el incumplimiento de estas obligaciones o las que estén contenidas en otras normas. Las legislaciones emitidas por las entidades federativas deberán observar lo dispuesto en esta [Ley](articulo-4.md), sin perjuicio de que puedan establecer un catálogo de conductas sancionables que amplíe lo previsto en esta. Sección II Correctivos disciplinarios y sanciones

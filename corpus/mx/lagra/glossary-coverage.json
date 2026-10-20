@@ -1,0 +1,25 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-3",
+  "instrument_id": "urn:lex-mx:federal:statute:lagra",
+  "source_sha256": "7fa6151d65442b7beeb14e032ba54cbcaf4a8140606f152acb988bc554978550",
+  "extracted_text_sha256": "454bd57afaecc06c538af13083b91a36f0e740aecca62336360d57fcea08e4ca",
+  "status": "detected",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lagra:article:116",
+      "provision_text_sha256": "9fc1c906a7ba147db7130da5583e8c1287c9bd136771f6982cc609dc5041ee49",
+      "method": "wider_pass",
+      "fractions": [
+        "I",
+        "II",
+        "III"
+      ],
+      "repeal_placeholders": [],
+      "term_count": 3
+    }
+  ],
+  "imports": [],
+  "term_count": 3,
+  "usage_count": 0
+}

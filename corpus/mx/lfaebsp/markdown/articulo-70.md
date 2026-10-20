@@ -17,7 +17,7 @@ source_sha256: 269e72195414406bcbd3e90ac40ec26e031a9ea519316c44ee30bdfdf3163059
 
 # Artículo 70
 
-Sin perjuicio de lo dispuesto en el [artículo anterior](articulo-69.md), se consideran como Bienes respecto de los cuales el Instituto podrá proceder a su destrucción los siguientes: Párrafo reformado DOF 09-08-2019
+Sin perjuicio de lo dispuesto en el [artículo anterior](articulo-69.md), se consideran como [Bienes](articulo-2o.md) respecto de los cuales el [Instituto](articulo-2o.md) podrá proceder a su destrucción los siguientes: Párrafo reformado DOF 09-08-2019
 
 I.- Bienes asegurados, decomisados o abandonados relacionados con la comisión de delitos de propiedad industrial o derechos de autor; Fracción reformada DOF 09-08-2019
 

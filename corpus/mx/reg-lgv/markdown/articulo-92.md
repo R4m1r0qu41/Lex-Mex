@@ -17,4 +17,4 @@ source_sha256: 51d855a586ad7017a8d8f5c36819a2bd0d3d488f3f4b23594a729418a8b776b4
 
 # Artículo 92
 
-Los apoyos monetarios que se hayan otorgado anteriormente con cargo al Fondo con base en lo previsto por los artículos [30](../../lgv/markdown/articulo-30.md), último párrafo, y [37](../../lgv/markdown/articulo-37.md) de la Ley, se descontarán del pago que, en su caso, se otorgue por concepto de compensación subsidiaria.
+Los apoyos monetarios que se hayan otorgado anteriormente con cargo al [Fondo](articulo-3.md) con base en lo previsto por los artículos [30](../../lgv/markdown/articulo-30.md), último párrafo, y [37](../../lgv/markdown/articulo-37.md) de la Ley, se descontarán del pago que, en su caso, se otorgue por concepto de compensación subsidiaria.

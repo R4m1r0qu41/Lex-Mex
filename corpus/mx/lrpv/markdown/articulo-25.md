@@ -19,7 +19,7 @@ source_sha256: 0125eed7519ad260330f9a04f78c0e4a1ce93c06e67c98ac3c535416787656ba
 
 Los sujetos obligados por la presente Ley, incurrirán en las infracciones siguientes:
 
-I.- Efectuar extemporáneamente la inscripción de un vehículo en el Registro, excediendo los plazos señalados en el Reglamento de esta Ley;
+I.- Efectuar extemporáneamente la inscripción de un vehículo en el [Registro](articulo-2.md), excediendo los plazos señalados en el Reglamento de esta Ley;
 
 II.- No inscribir el vehículo en el Registro, conforme lo establece el artículo [15](articulo-15.md) de esta Ley;
 

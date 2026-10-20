@@ -17,4 +17,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Artículo 11
 
-Para efectos del artículo [62](../../lsh/markdown/articulo-62.md) de la Ley se entiende que Petróleos Mexicanos, otras entidades públicas, incluidos los institutos sectorizados, instituciones académicas o cualquier otra persona Particular, pueden realizar las actividades de Reconocimiento y Exploración Superficial, a partir de la suscripción del contrato correspondiente con la Secretaría.
+Para efectos del artículo [62](../../lsh/markdown/articulo-62.md) de la [Ley](articulo-3.md) se entiende que [Petróleos Mexicanos](articulo-3.md), otras entidades públicas, incluidos los institutos sectorizados, instituciones académicas o cualquier otra persona Particular, pueden realizar las actividades de Reconocimiento y Exploración Superficial, a partir de la suscripción del contrato correspondiente con la [Secretaría](articulo-3.md).

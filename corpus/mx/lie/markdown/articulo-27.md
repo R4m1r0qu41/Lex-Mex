@@ -17,11 +17,11 @@ source_sha256: 14cd17e37e96e766c8ab74950c71186d579c0ba6cc10ac9e8b06f6194af7d953
 
 # Artículo 27
 
-Son atribuciones del Secretario Ejecutivo de la Comisión:
+Son atribuciones del Secretario Ejecutivo de la [Comisión](articulo-2o.md):
 
 I.- Representar a la Comisión;
 
-II.- Notificar las resoluciones de la Comisión, a través de la Secretaría;
+II.- Notificar las resoluciones de la Comisión, a través de la [Secretaría](articulo-2o.md);
 
 III.- Realizar los estudios que le encomiende la Comisión;
 

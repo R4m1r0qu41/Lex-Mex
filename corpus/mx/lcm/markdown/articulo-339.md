@@ -19,7 +19,7 @@ source_sha256: 8e270686b885035488bfe310b0b42bb40e7154431794227ebe212dd7dc12e46a
 
 Será admitida a trámite la solicitud de concurso mercantil con plan de reestructura cuando:
 
-I. La solicitud reúna todos los requisitos que ordena el artículo [20](articulo-20.md) de esta Ley;
+I. La solicitud reúna todos los requisitos que ordena el artículo [20](articulo-20.md) de esta [Ley](articulo-4o.md);
 
 II. La solicitud la suscriba el [Comerciante](articulo-4o.md) con los titulares de cuando menos la mayoría simple del total de sus adeudos.
 

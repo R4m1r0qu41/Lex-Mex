@@ -1,1 +1,123 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgds:term:beneficiarias",
+    "term": "Beneficiarias",
+    "instrument_id": "urn:lex-mx:federal:statute:lgds",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgds:article:5",
+    "fraction": "I",
+    "start_char": 47,
+    "end_char": 259,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgds:term:consejo-consultivo",
+    "term": "Consejo Consultivo",
+    "instrument_id": "urn:lex-mx:federal:statute:lgds",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgds:article:5",
+    "fraction": "II",
+    "start_char": 259,
+    "end_char": 325,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgds:term:comision-intersecretarial",
+    "term": "Comisión Intersecretarial",
+    "instrument_id": "urn:lex-mx:federal:statute:lgds",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgds:article:5",
+    "fraction": "IV",
+    "start_char": 373,
+    "end_char": 453,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgds:term:comision-nacional",
+    "term": "Comisión Nacional",
+    "instrument_id": "urn:lex-mx:federal:statute:lgds",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgds:article:5",
+    "fraction": "V",
+    "start_char": 453,
+    "end_char": 516,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgds:term:grupos-sociales-en-situacion-de-vulnerabilidad",
+    "term": "Grupos sociales en situación de vulnerabilidad",
+    "instrument_id": "urn:lex-mx:federal:statute:lgds",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgds:article:5",
+    "fraction": "VI",
+    "start_char": 516,
+    "end_char": 856,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgds:term:instituto",
+    "term": "Instituto",
+    "instrument_id": "urn:lex-mx:federal:statute:lgds",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgds:article:5",
+    "fraction": "VI Bis",
+    "start_char": 856,
+    "end_char": 958,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgds:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:statute:lgds",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgds:article:5",
+    "fraction": "VII",
+    "start_char": 958,
+    "end_char": 1056,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgds:term:sistema-nacional",
+    "term": "Sistema Nacional",
+    "instrument_id": "urn:lex-mx:federal:statute:lgds",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgds:article:5",
+    "fraction": "VIII",
+    "start_char": 1056,
+    "end_char": 1119,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgds:term:organizaciones",
+    "term": "Organizaciones",
+    "instrument_id": "urn:lex-mx:federal:statute:lgds",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgds:article:5",
+    "fraction": "IX",
+    "start_char": 1119,
+    "end_char": 1361,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgds:term:padron",
+    "term": "Padrón",
+    "instrument_id": "urn:lex-mx:federal:statute:lgds",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgds:article:5",
+    "fraction": "X",
+    "start_char": 1361,
+    "end_char": 1611,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgds:term:politica-de-desarrollo-social",
+    "term": "Política de Desarrollo Social",
+    "instrument_id": "urn:lex-mx:federal:statute:lgds",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgds:article:5",
+    "fraction": "XI",
+    "start_char": 1611,
+    "end_char": 1883,
+    "basis": "express_definition"
+  }
+]

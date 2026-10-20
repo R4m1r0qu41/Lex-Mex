@@ -1,0 +1,12 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-3",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lfpc",
+  "source_sha256": "2587146ec169db7ba3623f0df1d9097a9a0ddb70b1c5acbc4f0414afa84f0b0c",
+  "extracted_text_sha256": "94a728ed9ccdb2bc44c69502995efdcb61ebb820d93e2ef237a346800da74388",
+  "status": "none_detected",
+  "glossaries": [],
+  "imports": [],
+  "term_count": 0,
+  "usage_count": 0
+}

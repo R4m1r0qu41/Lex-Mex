@@ -17,6 +17,6 @@ source_sha256: ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776
 
 Cualquier persona moral que adquiera el control de una sociedad concesionaria o permisionaria será solidariamente responsable con la concesionaria o permisionaria del cumplimiento de las condiciones establecidas en el título de concesión. Lo anterior deberá establecerse en los estatutos sociales de las sociedades concesionarias y permisionarias.
 
-El concesionario será responsable de notificar a la Secretaría, en los términos del artículo [23](../../laero/markdown/articulo-23.md) de la Ley.
+El concesionario será responsable de notificar a la [Secretaría](articulo-2.md), en los términos del artículo [23](../../laero/markdown/articulo-23.md) de la [Ley](articulo-2.md).
 
 Capítulo II De los permisos para aeródromos de servicio general y particular

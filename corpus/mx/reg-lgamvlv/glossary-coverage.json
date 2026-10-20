@@ -1,0 +1,32 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-3",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lgamvlv",
+  "source_sha256": "71ee875c26fc6a1024ea9481ca0690721959514689d860112c3093f0176dfcfb",
+  "extracted_text_sha256": "a7d3b0405093c8a655d24957f9a6714a2e016841ef9a816c8453e35fea759090",
+  "status": "detected",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:2",
+      "provision_text_sha256": "49dae804cd2787a940d54cdfe8b2abd2aa5e335c6643b625e7f278c55a3eb437",
+      "method": "wider_pass",
+      "fractions": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X"
+      ],
+      "repeal_placeholders": [],
+      "term_count": 10
+    }
+  ],
+  "imports": [],
+  "term_count": 10,
+  "usage_count": 103
+}

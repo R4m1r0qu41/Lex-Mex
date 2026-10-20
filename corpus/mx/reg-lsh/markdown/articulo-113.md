@@ -17,4 +17,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Artículo 113
 
-La Comisión debe emitir los permisos de Almacenamiento bajo la modalidad de Usos Propios en los términos previstos en el artículo [104](../../lsh/markdown/articulo-104.md), párrafo quinto de la Ley, este reglamento y la demás Normatividad aplicable.
+La [Comisión](articulo-3.md) debe emitir los permisos de Almacenamiento bajo la modalidad de [Usos Propios](articulo-3.md) en los términos previstos en el artículo [104](../../lsh/markdown/articulo-104.md), párrafo quinto de la [Ley](articulo-3.md), este reglamento y la demás [Normatividad](articulo-3.md) aplicable.

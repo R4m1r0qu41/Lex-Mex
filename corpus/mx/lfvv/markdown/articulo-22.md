@@ -19,4 +19,4 @@ source_sha256: 9ed842aa48bd26aee06dc45bbdbd65efcb32343c78040a5a5d091275bec38343
 
 Las transmisiones de derechos no excluyen la posibilidad de que dichos derechos se otorguen a otros o que los explote el obtentor por sí mismo, salvo estipulación en contrario.
 
-Procederá la inscripción en el Registro de las transmisiones de derechos, cuando se cumpla con los requisitos mencionados en el artículo [20](articulo-20.md) de la presente ley.
+Procederá la inscripción en el [Registro](articulo-2o.md) de las transmisiones de derechos, cuando se cumpla con los requisitos mencionados en el artículo [20](articulo-20.md) de la presente ley.

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título I
+
 # Artículo 3
 
 Las sociedades anónimas bursátiles estarán obligadas a proveer lo necesario a efecto de que las personas morales que controlen realicen los actos conducentes para que se cumpla con lo dispuesto, en los artículos [28](articulo-28.md), fracciones I a III, V y VII, [31](articulo-31.md), [44](articulo-44.md), primer párrafo y fracciones I, III a V, XII y XIII, [47](articulo-47.md) y [104](articulo-104.md) a [106](articulo-106.md) de esta Ley. Sin perjuicio de que se adopten por las sociedades anónimas bursátiles las resoluciones, determinaciones y solicitudes de información a que se refieren dichos artículos, para su implementación deberán observarse las formalidades que se requieran en los órganos sociales competentes de las personas morales que controlen, sujetándose a las leyes y demás disposiciones aplicables que rijan a éstas últimas, incluso tratándose de sociedades extranjeras.

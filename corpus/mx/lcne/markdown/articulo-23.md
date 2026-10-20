@@ -25,6 +25,6 @@ II. Tenga interés personal, familiar o de negocios en el asunto, incluyendo aqu
 
 III. Su cónyuge, concubina o concubinario, o integrante de una sociedad de convivencia a la que pertenezca o sus parientes en línea recta sin limitación de grado tengan o hayan aceptado derechos sucesorios o celebrado Contratos de donación o fianza con alguna de las personas interesadas o sus representantes, y
 
-IV. Haya sido testigo, apoderada, patrona o defensora en un asunto relacionado con las Actividades en materia energética, o haya gestionado en favor o en contra de alguna de las personas interesadas en dicho asunto.
+IV. Haya sido testigo, apoderada, patrona o defensora en un asunto relacionado con las [Actividades en materia energética](articulo-6.md), o haya gestionado en favor o en contra de alguna de las personas interesadas en dicho asunto.
 
 Las personas expertas técnicas deben excusarse del conocimiento de los asuntos en que se presente alguno de los impedimentos señalados en el presente artículo en cuanto tengan conocimiento de su impedimento, expresando concretamente la causa de este, en cuyo caso el Comité Técnico debe calificar y resolver sobre la excusa.

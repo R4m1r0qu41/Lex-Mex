@@ -1,0 +1,37 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-3",
+  "instrument_id": "urn:lex-mx:federal:statute:lfiv",
+  "source_sha256": "db115e165edc517f5ad816da7be01e11727838a59b9e68906fe686685f4c5087",
+  "extracted_text_sha256": "7be302aed1713cda19898e3c0fe24c2711c604ffb514f98fd3b24d7dc501d9db",
+  "status": "detected",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lfiv:article:3",
+      "provision_text_sha256": "12ac81b5a33bd576cdfaa90a476199b7dcebd9c58c1dcfa074353c577b6dcb91",
+      "method": "established_pass",
+      "fractions": [
+        "I",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII",
+        "XIII",
+        "XIV",
+        "XV",
+        "XVI"
+      ],
+      "unread_fractions": [],
+      "term_count": 15
+    }
+  ],
+  "imports": [],
+  "term_count": 15,
+  "usage_count": 119
+}

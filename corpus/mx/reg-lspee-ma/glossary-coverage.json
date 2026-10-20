@@ -1,0 +1,47 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-3",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lspee-ma",
+  "source_sha256": "21f5fb89e9734e1e27efae30d14611253f29dda506024e431a063b8ec93741b2",
+  "extracted_text_sha256": "ff17fcf9ba8bc22a00662b52f656bbbb29499036a58ae472d25b6347c92885a1",
+  "status": "detected",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:regulation:reg-lspee-ma:article:3",
+      "provision_text_sha256": "acea50cc33266d9499411aa30916579b6274f481c55b802c144a3cb21d2a103d",
+      "method": "established_pass",
+      "fractions": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII",
+        "XIII",
+        "XIV",
+        "XV",
+        "XVI",
+        "XVII",
+        "XVIII",
+        "XIX",
+        "XX",
+        "XXI",
+        "XXII",
+        "XXIII",
+        "XXIV",
+        "XXV"
+      ],
+      "unread_fractions": [],
+      "term_count": 25
+    }
+  ],
+  "imports": [],
+  "term_count": 25,
+  "usage_count": 12
+}

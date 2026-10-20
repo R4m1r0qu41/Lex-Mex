@@ -17,7 +17,7 @@ source_sha256: 160e5e85efddb1749a79f6b154af31711a9b31a5e32bace3c07e2859c2620ecf
 
 # Artículo 20
 
-El Programa Nacional de Pesca y Acuacultura, se sujetará a las previsiones del Plan Nacional de Desarrollo y contemplará, entre otros aspectos:
+El Programa Nacional de [Pesca](articulo-4o.md) y [Acuacultura](articulo-4o.md), se sujetará a las previsiones del Plan Nacional de Desarrollo y contemplará, entre otros aspectos:
 
 I. Información general sobre la distribución y abundancia de las especies susceptibles de aprovechamiento comercial;
 

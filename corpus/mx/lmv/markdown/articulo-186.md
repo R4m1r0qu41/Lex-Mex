@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título VI · Capítulo II
+
 # Artículo 186
 
 Las casas de bolsa que actúen con el carácter de fiduciarias tendrán prohibido:
@@ -29,13 +31,13 @@ d) Las sociedades en cuyo capital tengan mayoría las personas a que hacen refer
 
 II. Celebrar operaciones por cuenta propia, salvo las autorizadas por el Banco de México mediante disposiciones de carácter general, cuando no impliquen conflicto de interés.
 
-III. Responder a los fideicomitentes o fideicomisarios del incumplimiento de los deudores por los bienes, derechos o valores que se adquieran, salvo que sea por su culpa según lo dispuesto en la parte final del artículo 391 de la Ley General de Títulos y Operaciones de Crédito, o garantizar la percepción de rendimientos por los fondos cuya inversión se les encomiende.
+III. Responder a los fideicomitentes o fideicomisarios del incumplimiento de los deudores por los bienes, derechos o valores que se adquieran, salvo que sea por su culpa según lo dispuesto en la parte final del artículo [391](../../lgtoc/markdown/articulo-391.md) de la Ley General de Títulos y Operaciones de Crédito, o garantizar la percepción de rendimientos por los fondos cuya inversión se les encomiende.
 
 Si al término del fideicomiso, los bienes, derechos o valores no hubieren sido pagados por los deudores, la fiduciaria deberá transferirlos, junto con el efectivo, bienes y demás derechos o valores que constituyan el patrimonio fiduciario, al fideicomitente o fideicomisario, según sea el caso, absteniéndose de cubrir su importe.
 
 En los contratos de fideicomiso se insertará en forma notoria lo previsto en esta fracción y una declaración de la fiduciaria en el sentido de que hizo saber inequívocamente su contenido a las personas de quienes haya recibido los bienes para su afectación fiduciaria.
 
-IV. Actuar como fiduciarias en fideicomisos a través de los cuales se capten, directa o indirectamente, recursos del público mediante cualquier acto causante de pasivo directo o contingente, excepto tratándose de fideicomisos constituidos por el Gobierno Federal a través de la [Secretaría](articulo-2.md) y de aquellos a través de los cuales se emitan valores que se inscriban en el [Registro](articulo-2.md) de conformidad con lo previsto en esta Ley, incluyendo la emisión de certificados de participación ordinaria, como excepción a lo dispuesto por el artículo 228-B de la Ley General de Títulos y Operaciones de Crédito, así como de certificados bursátiles.
+IV. Actuar como fiduciarias en fideicomisos a través de los cuales se capten, directa o indirectamente, recursos del público mediante cualquier acto causante de pasivo directo o contingente, excepto tratándose de fideicomisos constituidos por el Gobierno Federal a través de la [Secretaría](articulo-2.md) y de aquellos a través de los cuales se emitan valores que se inscriban en el [Registro](articulo-2.md) de conformidad con lo previsto en esta Ley, incluyendo la emisión de certificados de participación ordinaria, como excepción a lo dispuesto por el artículo [228-B](../../lgtoc/markdown/articulo-228-b.md) de la Ley General de Títulos y Operaciones de Crédito, así como de certificados bursátiles.
 
 V. Actuar en fideicomisos a través de los cuales se evadan limitaciones o prohibiciones contenidas en las leyes financieras o se realicen operaciones reservadas a las demás entidades financieras integrantes del sistema financiero mexicano. Fracción reformada DOF 10-01-2014
 
@@ -43,6 +45,6 @@ VI. Celebrar fideicomisos en los que se administren sumas de dinero que aporten 
 
 VII. Administrar fincas rústicas.
 
-Cuando se trate de operaciones de fideicomiso que constituya el Gobierno Federal o que éste, para los efectos de este artículo, declare de interés público a través de la Secretaría, no será aplicable el plazo que establece la fracción III del artículo 394 de la Ley General de Títulos y Operaciones de Crédito.
+Cuando se trate de operaciones de fideicomiso que constituya el Gobierno Federal o que éste, para los efectos de este artículo, declare de interés público a través de la Secretaría, no será aplicable el plazo que establece la fracción III del artículo [394](../../lgtoc/markdown/articulo-394.md) de la Ley General de Títulos y Operaciones de Crédito.
 
 Cualquier pacto que contravenga lo dispuesto en este artículo será nulo de pleno derecho.

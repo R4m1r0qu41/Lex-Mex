@@ -17,6 +17,6 @@ source_sha256: d50b44df321cf8be51375c07cee5dbcf03eac76df1cd11ab4bd777c9fce0f789
 
 # Artículo 16
 
-Si el Informe de Auditoría Ambiental presentado ante la Procuraduría o, en su caso, ante la Agencia, según corresponda, establece que el Desempeño Ambiental de la Empresa es conforme a lo requerido en los Términos de Referencia, dichos órganos administrativos desconcentrados, en el ámbito de sus respectivas competencias, otorgarán el Certificado correspondiente de acuerdo a lo establecido en el artículo [22](articulo-22.md) del presente Reglamento.
+Si el [Informe de Auditoría Ambiental](articulo-2.md) presentado ante la [Procuraduría](articulo-2.md) o, en su caso, ante la [Agencia](articulo-2.md), según corresponda, establece que el [Desempeño Ambiental](articulo-2.md) de la [Empresa](articulo-2.md) es conforme a lo requerido en los [Términos de Referencia](articulo-2.md), dichos órganos administrativos desconcentrados, en el ámbito de sus respectivas competencias, otorgarán el [Certificado](articulo-2.md) correspondiente de acuerdo a lo establecido en el artículo [22](articulo-22.md) del presente Reglamento.
 
 Artículo reformado DOF 31-10-2014

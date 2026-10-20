@@ -17,4 +17,4 @@ source_sha256: 7b3cf7a0ff59f76503a97a535457c4a7dd3b1305e7a36f4fca82bd661eab1168
 
 # Artículo 42
 
-Los datos que se obtengan de las actividades autorizadas mediante resolución judicial será información reservada que sólo podrá conocer el Director General del Centro, las personas que designe el Consejo y los jueces federales competentes.
+Los datos que se obtengan de las actividades autorizadas mediante resolución judicial será información reservada que sólo podrá conocer el Director General del [Centro](articulo-6.md), las personas que designe el [Consejo](articulo-6.md) y los jueces federales competentes.

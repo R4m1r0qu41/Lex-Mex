@@ -17,9 +17,9 @@ source_sha256: d0021bbef2e0c3251d6efdea2c1efd9959ff3f02df4bcd1fc37c1ee7826a72ba
 
 # Artículo 142
 
-En los casos de concesionarios de radiodifusión y telecomunicaciones que sirvan a un mismo mercado o zona de cobertura geográfica que, a opinión vinculante por parte de la Agencia, impida o limite el acceso a información plural en tales mercados y zonas, se estará a lo siguiente:
+En los casos de concesionarios de radiodifusión y telecomunicaciones que sirvan a un mismo mercado o zona de cobertura geográfica que, a opinión vinculante por parte de la [Agencia](articulo-3.md), impida o limite el acceso a información plural en tales mercados y zonas, se estará a lo siguiente:
 
-I. La Comisión indicará al concesionario que preste el servicio de televisión restringida de que se trate aquellos canales de información noticiosa o de interés público que deberá integrar en sus servicios, en la medida en que sea necesario para garantizar el acceso a información plural y oportuna, y
+I. La [Comisión](articulo-3.md) indicará al concesionario que preste el servicio de televisión restringida de que se trate aquellos canales de información noticiosa o de interés público que deberá integrar en sus servicios, en la medida en que sea necesario para garantizar el acceso a información plural y oportuna, y
 
 II. El concesionario deberá incluir al menos tres canales cuyos contenidos predominantemente sean producción propia de programadores nacionales independientes cuyo financiamiento sea mayoritariamente de origen mexicano, de conformidad con las reglas emitidas a tal efecto.
 

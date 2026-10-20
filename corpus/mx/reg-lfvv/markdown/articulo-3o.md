@@ -17,4 +17,4 @@ source_sha256: 23dcee090bbe0c4fb06c75d084cb65ce0b2e8f72a8d082e7059504412bde1614
 
 # Artículo 3o
 
-La Secretaría se coordinará con las dependencias y entidades de la Administración Pública Federal en todo lo relativo a la protección de los derechos del obtentor de nuevas variedades vegetales. Con ese propósito se podrá vincular con los gobiernos estatales y municipales, así como con instituciones y organismos estatales, nacionales e internacionales, públicos y privados.
+La [Secretaría](articulo-2o.md) se coordinará con las dependencias y entidades de la Administración Pública Federal en todo lo relativo a la protección de los derechos del obtentor de nuevas variedades vegetales. Con ese propósito se podrá vincular con los gobiernos estatales y municipales, así como con instituciones y organismos estatales, nacionales e internacionales, públicos y privados.

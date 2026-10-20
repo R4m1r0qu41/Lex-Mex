@@ -262,11 +262,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:article:6:reference:2213-2220:111-bis:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:article:6:reference:2061-2068:111-bis:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:article:6",
     "source_span": "111 Bis",
-    "start_char": 2213,
-    "end_char": 2220,
+    "start_char": 2061,
+    "end_char": 2068,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgeepa",
     "target_provision_id": "urn:lex-mx:federal:statute:lgeepa:article:111-bis",
     "qualifiers": [],
@@ -278,19 +278,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:article:6:reference:2305-2306:7:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:article:6:reference:2153-2154:7:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:article:6",
     "source_span": "7",
-    "start_char": 2305,
-    "end_char": 2306,
+    "start_char": 2153,
+    "end_char": 2154,
     "target_instrument_id": "urn:lex-mx:federal:statute:lansi",
     "target_provision_id": "urn:lex-mx:federal:statute:lansi:article:7",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción II",
-        "start_char": 2310,
-        "end_char": 2321
+        "start_char": 2158,
+        "end_char": 2169
       }
     ],
     "basis": "express_cross_reference",

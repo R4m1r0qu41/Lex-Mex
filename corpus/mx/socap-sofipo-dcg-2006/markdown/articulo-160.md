@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 160
 
-En la administración del riesgo de liquidez, las Sociedades Financieras Populares deberán como mínimo:
+En la administración del riesgo de liquidez, las [Sociedades](articulo-1.md) Financieras Populares deberán como mínimo:
 
 I. Medir y vigilar el riesgo ocasionado por el descalce derivado de diferencias entre los flujos de efectivo proyectados en distintas fechas, considerando para tal efecto todos los activos y pasivos de la Sociedad Financiera Popular;
 

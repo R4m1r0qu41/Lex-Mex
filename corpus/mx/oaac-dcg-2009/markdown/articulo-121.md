@@ -18,6 +18,6 @@ source_sha256: 8ac502b97188bd6e795781e9821be6e62ccdd8050cdd3be74aab52a888e67939
 
 # Artículo 121
 
-Las uniones de crédito deberán contar con un área de Auditoría Interna que estará encargada de revisar periódicamente, mediante pruebas selectivas, que las políticas y normas establecidas por el [Consejo](articulo-1.md) para el correcto funcionamiento de la unión de crédito se apliquen de manera adecuada, así como de verificar en la misma forma, el funcionamiento correcto del Sistema de [Control](articulo-1.md) Interno y su consistencia con los objetivos y lineamientos aplicables en dicha materia.
+Las uniones de crédito deberán contar con un área de [Auditoría Interna](articulo-1.md) que estará encargada de revisar periódicamente, mediante pruebas selectivas, que las políticas y normas establecidas por el [Consejo](articulo-1.md) para el correcto funcionamiento de la unión de crédito se apliquen de manera adecuada, así como de verificar en la misma forma, el funcionamiento correcto del [Sistema de Control Interno](articulo-1.md) y su consistencia con los objetivos y lineamientos aplicables en dicha materia.
 
-El área encargada de realizar las funciones a que se refiere el presente artículo, deberá ser un área de Auditoría Interna independiente de las unidades de negocio y administrativas, cuyo responsable o responsables serán designados por el Consejo, a propuesta del Comité de Auditoría.
+El área encargada de realizar las funciones a que se refiere el presente artículo, deberá ser un área de Auditoría Interna independiente de las unidades de negocio y administrativas, cuyo responsable o responsables serán designados por el Consejo, a propuesta del [Comité de Auditoría](articulo-1.md).

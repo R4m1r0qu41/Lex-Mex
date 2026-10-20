@@ -24,9 +24,9 @@ I. Administrador de Comisionistas: a los comisionistas que operan al amparo de l
 
 (27) 17
 
-II. Auditor Externo Independiente: al contador público o licenciado en contaduría pública que cumpla con las características y requisitos contenidos en las “Disposiciones de carácter general aplicables a las entidades y emisoras supervisadas por la Comisión Nacional Bancaria y de Valores que contraten servicios de auditoría externa de estados financieros básicos” y sus modificaciones.
+II. Auditor Externo Independiente: al contador público o licenciado en contaduría pública que cumpla con las características y requisitos contenidos en las “Disposiciones de carácter general aplicables a las entidades y emisoras supervisadas por la [Comisión](articulo-1.md) Nacional Bancaria y de Valores que contraten servicios de auditoría externa de estados financieros básicos” y sus modificaciones.
 
-III. Auditor Interno, a la persona o área que desempeña dicha función en las Sociedades Cooperativas de Ahorro y Préstamo, a que se refiere el inciso d) de la fracción V del Artículo [34](../../lgsc/markdown/articulo-34.md) de la Ley General de Sociedades Cooperativas.
+III. Auditor Interno, a la persona o área que desempeña dicha función en las Sociedades Cooperativas de Ahorro y Préstamo, a que se refiere el inciso d) de la fracción V del Artículo [34](../../lgsc/markdown/articulo-34.md) de la [Ley](articulo-1.md) General de Sociedades Cooperativas.
 
 15 Anexo sustituido mediante Resolución publicada en el Diario Oficial de la Federación el 09 de abril de 2024, cuya entrada en vigor fue diferida al 1 de enero de 2027, en términos de la Resolución modificatoria publicada en el Diario Oficial de la Federación el 27 de diciembre de 2025, por lo que dicha sustitución no se encuentra reflejada en el texto vigente. 16 Anexo sustituido mediante Resolución publicada en el Diario Oficial de la Federación el 09 de abril de 2024, cuya entrada en vigor fue diferida al 1 de enero de 2027, en términos de la Resolución modificatoria publicada en el Diario Oficial de la Federación el 27 de diciembre de 2025, por lo que dicha sustitución no se encuentra reflejada en el texto vigente. 17 Fracción adicionada mediante Resolución publicada en el Diario Oficial de la Federación el 09 de abril de 2024, cuya entrada en vigor fue diferida al 1 de enero de 2027, en términos de la Resolución modificatoria publicada en el Diario Oficial de la Federación el 27 de diciembre de 2025, por lo que dicha adición no se encuentra reflejada en el texto vigente.
 
@@ -44,7 +44,7 @@ VI. Cajero Automático: al [Dispositivo de Acceso](articulo-1.md) de autoservici
 
 VII. CCP, al Costo de Captación a Plazo de pasivos denominados en moneda nacional que da a conocer el Banco de México a través del Diario Oficial de la Federación, o el indicador que lo sustituya.
 
-VIII. CETES, a la tasa anual de rendimiento equivalente a la de descuento, de los Certificados de la Tesorería de la Federación en moneda nacional emitidos a plazo de 28 días o al plazo que sustituya a este, en caso de días inhábiles, en colocación primaria. La tasa anual de rendimiento equivalente a la de descuento será la que semanalmente da a conocer el Gobierno Federal por conducto de la Secretaría de Hacienda y Crédito Público, mediante avisos en los periódicos de mayor circulación en el país.
+VIII. CETES, a la tasa anual de rendimiento equivalente a la de descuento, de los Certificados de la Tesorería de la Federación en moneda nacional emitidos a plazo de 28 días o al plazo que sustituya a este, en caso de días inhábiles, en colocación primaria. La tasa anual de rendimiento equivalente a la de descuento será la que semanalmente da a conocer el Gobierno Federal por conducto de la [Secretaría](articulo-1.md) de Hacienda y Crédito Público, mediante avisos en los periódicos de mayor circulación en el país.
 
 IX. Cifrado: al mecanismo que deberá utilizar la Sociedad para proteger la confidencialidad de información mediante métodos criptográficos en los que se utilicen algoritmos y llaves de encripción.
 
@@ -52,13 +52,13 @@ IX. Cifrado: al mecanismo que deberá utilizar la Sociedad para proteger la conf
 
 X. Comisión, a la Comisión Nacional Bancaria y de Valores.
 
-XI. Comité de Auditoría, al comité constituido por el Consejo de Administración, que tendrá las funciones descritas en los Apartados C de la Sección Primera, D de la Sección Segunda, D de la Sección Tercera y D de la Sección Cuarta del Capítulo II del Título Tercero de las presentes disposiciones y que apoyará al mencionado órgano de gobierno en la definición y actualización de los objetivos del Sistema de Control Interno y los lineamientos para su implementación, así como en su evaluación.
+XI. Comité de Auditoría, al comité constituido por el [Consejo de Administración](articulo-1.md), que tendrá las funciones descritas en los Apartados C de la Sección Primera, D de la Sección Segunda, D de la Sección Tercera y D de la Sección Cuarta del Capítulo II del Título Tercero de las presentes disposiciones y que apoyará al mencionado órgano de gobierno en la definición y actualización de los objetivos del Sistema de Control Interno y los lineamientos para su implementación, así como en su evaluación.
 
 XII. Comité de Crédito, al Comité de Crédito o su equivalente a que se refiere el inciso a) de la fracción V del Artículo [34](../../lgsc/markdown/articulo-34.md) de la Ley General de Sociedades Cooperativas.
 
 18 Fracción adicionada mediante Resolución publicada en el Diario Oficial de la Federación el 09 de abril de 2024, cuya entrada en vigor fue diferida al 1 de enero de 2027, en términos de la Resolución modificatoria publicada en el Diario Oficial de la Federación el 27 de diciembre de 2025, por lo que dicha adición no se encuentra reflejada en el texto vigente. 19 Fracción adicionada mediante Resolución publicada en el Diario Oficial de la Federación el 09 de abril de 2024, cuya entrada en vigor fue diferida al 1 de enero de 2027, en términos de la Resolución modificatoria publicada en el Diario Oficial de la Federación el 27 de diciembre de 2025, por lo que dicha adición no se encuentra reflejada en el texto vigente.
 
-XIII. Comité de Protección al Ahorro Cooperativo, al órgano del Fondo de Protección encargado de administrar la cuenta de seguro de depósitos de dicho fondo, que se constituya de conformidad con lo señalado en el Título Cuarto de la Ley.
+XIII. Comité de Protección al Ahorro Cooperativo, al órgano del [Fondo de Protección](articulo-1.md) encargado de administrar la cuenta de seguro de depósitos de dicho fondo, que se constituya de conformidad con lo señalado en el Título Cuarto de la Ley.
 
 XIV. Comité de Riesgos, al Comité de Riesgos a que se refiere el inciso b) de la fracción V del Artículo [34](../../lgsc/markdown/articulo-34.md) de la Ley General de Sociedades Cooperativas.
 
@@ -74,7 +74,7 @@ XIX. Consejo de Vigilancia, al consejo de vigilancia de las Sociedades Cooperati
 
 XX. Contraseña: a la cadena de caracteres que autentica a un Usuario en un [Medio Electrónico](articulo-1.md) o en Servicios Electrónicos.
 
-XXI. Cotitular, a la persona o personas físicas titulares de una misma Cuenta Colectiva.
+XXI. Cotitular, a la persona o personas físicas titulares de una misma [Cuenta Colectiva](articulo-1.md).
 
 XXII. Criterios de Contabilidad, a los criterios de contabilidad para las Sociedades Cooperativas de Ahorro y Préstamo a que se refiere el Capítulo I del Título Cuarto de las presentes disposiciones, y que se contienen en el Anexo E de estas disposiciones.20
 
@@ -102,7 +102,7 @@ XXXI. Director o Gerente General, al director o gerente general de las Sociedade
 
 XXXII. Dispositivo de Acceso: al equipo que permite a un Usuario acceder a los Servicios Electrónicos.
 
-XXXIII. Esquema de Cobertura de Primeras Pérdidas: al esquema contractual, bajo la figura de garantía o de seguro de crédito, a través del cual el beneficiario o acreditante mitiga la pérdida derivada del incumplimiento por la falta de pago de uno o varios acreditados, al recibir, por parte del Proveedor de Protección, un porcentaje del saldo del crédito de que se trate, a fin de cubrir con un monto limitado las primeras pérdidas derivadas del crédito o de un portafolios de créditos, una vez que se actualicen los términos y condiciones pactados para el reclamo de la garantía o del seguro.
+XXXIII. Esquema de Cobertura de Primeras Pérdidas: al esquema contractual, bajo la figura de garantía o de seguro de crédito, a través del cual el beneficiario o acreditante mitiga la pérdida derivada del incumplimiento por la falta de pago de uno o varios acreditados, al recibir, por parte del [Proveedor de Protección](articulo-1.md), un porcentaje del saldo del crédito de que se trate, a fin de cubrir con un monto limitado las primeras pérdidas derivadas del crédito o de un portafolios de créditos, una vez que se actualicen los términos y condiciones pactados para el reclamo de la garantía o del seguro.
 
 XXXIII Bis. Esquema de Cobertura en Paso y Medida (Pari-Passu): al esquema contractual, bajo la figura de garantía o de seguro de crédito, a través del cual el beneficiario o acreditante mitiga la pérdida derivada del incumplimiento por la falta de pago de un acreditado o un grupo de ellos, al recibir por parte del Proveedor de Protección un porcentaje del saldo del crédito o de un portafolios de créditos, con el fin de cubrir en la proporción convenida, las pérdidas derivadas del crédito.
 
@@ -144,13 +144,13 @@ XLIV. Ley, a la Ley para Regular las Actividades de las Sociedades Cooperativas 
 
 XLV. Ley de Cooperativas, a la Ley General de Sociedades Cooperativas publicada en el Diario Oficial de la Federación el 3 de agosto de 1994, y sus diversas modificaciones.
 
-XLVI. Medidas Correctivas, a las Medidas Correctivas Especiales Adicionales y a las Medidas Correctivas Mínimas, conjuntamente.
+XLVI. Medidas Correctivas, a las [Medidas Correctivas Especiales Adicionales](articulo-1.md) y a las [Medidas Correctivas Mínimas](articulo-1.md), conjuntamente.
 
 23 Fracción reformada mediante Resolución publicada en el Diario Oficial de la Federación el 09 de abril de 2024, cuya entrada en vigor fue diferida al 1 de enero de 2027, en términos de la Resolución modificatoria publicada en el Diario Oficial de la Federación el 27 de diciembre de 2025, por lo que dicha reforma no se encuentra reflejada en el texto vigente. 24 Fracción adicionada mediante Resolución publicada en el Diario Oficial de la Federación el 09 de abril de 2024, cuya entrada en vigor fue diferida al 1 de enero de 2027, en términos de la Resolución modificatoria publicada en el Diario Oficial de la Federación el 27 de diciembre de 2025, por lo que dicha adición no se encuentra reflejada en el texto vigente. 25 Fracción reformada mediante Resolución publicada en el Diario Oficial de la Federación el 09 de abril de 2024, cuya entrada en vigor fue diferida al 1 de enero de 2027, en términos de la Resolución modificatoria publicada en el Diario Oficial de la Federación el 27 de diciembre de 2025, por lo que dicha reforma no se encuentra reflejada en el texto vigente.
 
 (27) 26
 
-XLVII. Medidas Correctivas Especiales Adicionales, a las Medidas Correctivas que las Sociedades deberán cumplir en términos de lo dispuesto por el Artículo 76 de la Ley.
+XLVII. [Medidas Correctivas](articulo-1.md) Especiales Adicionales, a las Medidas Correctivas que las Sociedades deberán cumplir en términos de lo dispuesto por el Artículo 76 de la Ley.
 
 XLVIII. Medidas Correctivas Mínimas, a las medidas que deberán cumplir las Sociedades de conformidad con lo previsto por los Artículos 76 y 77 de la Ley, así como por las presentes Disposiciones.
 
@@ -158,13 +158,13 @@ XLIX. Medios Electrónicos: a los equipos, medios ópticos o de cualquier otra t
 
 L. Mensajes de Texto SMS: al mensaje de texto disponible para su envío en servicios de telefonía móvil.
 
-LI. Microcrédito Productivo, en singular o plural, a los créditos otorgados por las Sociedades a sus Socios o a grupos de Socios, destinados a financiar la actividad productiva de los acreditados y cuya fuente de pago la constituyan los flujos originados por la propia actividad productiva.
+LI. Microcrédito Productivo, en singular o plural, a los créditos otorgados por las Sociedades a sus [Socios](articulo-1.md) o a grupos de Socios, destinados a financiar la actividad productiva de los acreditados y cuya fuente de pago la constituyan los flujos originados por la propia actividad productiva.
 
 En todo caso, los grupos de Socios señalados deberán ser obligados mancomunados o solidarios. LII. Microfilmación, al acto mediante el cual un libro, registro o documento original, es filmado en una película.
 
-LIII. Miembros del Comité de Supervisión Auxiliar, al Presidente y los gerentes de las oficinas regionales que integran el Comité de Supervisión Auxiliar, en términos del Artículo 51 de la Ley.
+LIII. Miembros del [Comité de Supervisión Auxiliar](articulo-1.md), al Presidente y los gerentes de las oficinas regionales que integran el Comité de Supervisión Auxiliar, en términos del Artículo 51 de la Ley.
 
-LIV. Miembros del Consejo de Vigilancia, a las personas que integran el Consejo de Vigilancia.
+LIV. Miembros del [Consejo de Vigilancia](articulo-1.md), a las personas que integran el Consejo de Vigilancia.
 
 LV. Nivel de Capitalización, a la relación que guarda el capital neto de las Sociedades respecto de sus requerimientos de capitalización por riesgos de crédito y de mercado, expresada en porcentaje.
 
@@ -224,7 +224,7 @@ LXX. Sociedad de Información Crediticia, en singular o plural, a las sociedades
 
 LXXI. Socio, en singular o plural, a las personas físicas o morales que participen en el capital social de las Sociedades Cooperativas de Ahorro y Préstamo de conformidad con la Ley.
 
-LXXII. Supervisión Extra-situ, a la fase permanente del proceso de supervisión auxiliar, la cual estará compuesta por actividades de análisis y seguimiento. Dicha Supervisión Extra-Situ será realizada por los Miembros del Comité de Supervisión Auxiliar, así como por el personal de su estructura operativa, en las instalaciones del Fondo de Protección y de las oficinas regionales.
+LXXII. Supervisión Extra-situ, a la fase permanente del proceso de supervisión auxiliar, la cual estará compuesta por actividades de análisis y seguimiento. Dicha Supervisión Extra-Situ será realizada por los [Miembros del Comité de Supervisión Auxiliar](articulo-1.md), así como por el personal de su estructura operativa, en las instalaciones del Fondo de Protección y de las oficinas regionales.
 
 LXXIII. Supervisión In-situ, a la fase de inspección del proceso de supervisión auxiliar llevada a cabo mediante visitas de inspección en las oficinas, sucursales y demás establecimientos de la misma, que será realizada con la presencia física de los Miembros del Comité de Supervisión Auxiliar, así como por el personal de su estructura operativa directamente en las instalaciones de la Sociedad.
 
@@ -238,7 +238,7 @@ LXXV. Tarjeta de crédito o débito con Circuito Integrado: a las Tarjetas de d�
 
 LXXVI. Teléfono Móvil, a los Dispositivos de Acceso a servicios de telefonía, que tienen asignado un número único de identificación y utilizan comunicación celular.
 
-LXXVII. Terminal Punto de Venta, a los Dispositivos de Acceso a los Servicios Electrónicos, tales como terminales de cómputo, Teléfonos Móviles y programas de cómputo, entre otros, operados por comercios o Usuarios, como parte de los servicios que presten los adquirentes o agregadores, según dichos términos se definen en las Disposiciones de carácter general aplicables a las redes de medios de disposición, emitidas conjuntamente por el Banco de México y la Comisión, o las que las sustituyan, para instruir el pago de bienes o servicios con cargo a una tarjeta o cuenta, o bien, para la realización de las operaciones a que se refiere el Artículo [17 Bis 36](articulo-17-Bis-36.md) de las presentes disposiciones.
+LXXVII. Terminal Punto de Venta, a los Dispositivos de Acceso a los Servicios Electrónicos, tales como terminales de cómputo, [Teléfonos Móviles](articulo-1.md) y programas de cómputo, entre otros, operados por comercios o Usuarios, como parte de los servicios que presten los adquirentes o agregadores, según dichos términos se definen en las Disposiciones de carácter general aplicables a las redes de medios de disposición, emitidas conjuntamente por el Banco de México y la Comisión, o las que las sustituyan, para instruir el pago de bienes o servicios con cargo a una tarjeta o cuenta, o bien, para la realización de las operaciones a que se refiere el Artículo [17 Bis 36](articulo-17-Bis-36.md) de las presentes disposiciones.
 
 LXXVIII. TIIE, a la Tasa de Interés Interbancaria de Equilibrio que da a conocer el Banco de México a través del Diario Oficial de la Federación.
 
@@ -246,7 +246,7 @@ LXXIX. UDI, en singular o plural, a la unidad de cuenta llamada “Unidad de Inv
 
 LXXX. Usuario: al Socio que haya suscrito un contrato de Servicios Electrónicos con una Sociedad Cooperativa de Ahorro y Préstamo.
 
-LXXXI. Valores Gubernamentales, a los Certificados de la Tesorería de la Federación denominados en moneda nacional (CETES); Bonos de Desarrollo del Gobierno Federal denominados en moneda nacional (BONDES) o en unidades de inversión (UDIBONOS); títulos emitidos por el Instituto para la Protección al Ahorro Bancario, respecto de los cuales el Banco de México actúe como agente financiero para la emisión, colocación, compra y venta, en el mercado nacional (BONOS DE PROTECCION AL AHORRO (BPAs)).
+LXXXI. Valores Gubernamentales, a los Certificados de la Tesorería de la Federación denominados en moneda nacional ([CETES](articulo-1.md)); Bonos de Desarrollo del Gobierno Federal denominados en moneda nacional (BONDES) o en unidades de inversión (UDIBONOS); títulos emitidos por el Instituto para la Protección al Ahorro Bancario, respecto de los cuales el Banco de México actúe como agente financiero para la emisión, colocación, compra y venta, en el mercado nacional (BONOS DE PROTECCION AL AHORRO (BPAs)).
 
 Esta definición comprende, de igual forma a los valores emitidos por el Banco de México (Bonos de Regulación Monetaria (BREMS)), en términos de las disposiciones que para tal efecto emita el Banco de México, así como a cualesquier otro que dicho Instituto Central determine como tales.
 

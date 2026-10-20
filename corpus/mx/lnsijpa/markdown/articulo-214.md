@@ -33,7 +33,7 @@ VI. La prelación, acumulación y cumplimiento simultáneo de las medidas;
 
 VII. El cómputo del tiempo de prisión preventiva para efecto del cumplimiento de la medida de sanción, y
 
-VIII. Las autorizaciones de los traslados internacionales de conformidad con el párrafo séptimo del artículo 18 de la Constitución.
+VIII. Las autorizaciones de los traslados internacionales de conformidad con el párrafo séptimo del artículo 18 de la [Constitución](articulo-3.md).
 
 Cualquiera que sea la parte promovente, se emplazará a los demás sujetos procesales, sin que el Ministerio Público y la Unidad de Internamiento puedan intervenir con una misma voz.
 

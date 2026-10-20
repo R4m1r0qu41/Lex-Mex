@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CFPC.pdf
 source_sha256: db545f3918f1c1907dac23d6431d5076c8de91af1fbf97dcf5b5b2a68b165299
 ---
 
-> Título UNICO · Capítulo VI
+> Título Único · Capítulo VI
 
 # Artículo 612
 
@@ -30,5 +30,3 @@ IV. El arresto hasta por treinta y seis horas.
 Si fuere insuficiente el apremio, se procederá contra el rebelde por el delito de desobediencia.
 
 Artículo adicionado DOF 30-08-2011
-
-Capítulo VII Relación entre Acciones Colectivas y Acciones Individuales Capítulo adicionado DOF 30-08-2011

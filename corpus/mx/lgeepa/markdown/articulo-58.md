@@ -17,7 +17,7 @@ source_sha256: 0574853d06020030188e8aee1eae5dabb2b476ac630cc52be631a48d2b91adbc
 
 # Artículo 58
 
-Previamente a la expedición de las declaratorias para el establecimiento de las áreas naturales protegidas a que se refiere el [artículo anterior](articulo-57.md), se deberán realizar los estudios que lo justifiquen, en los términos del presente capítulo, los cuales deberán ser puestos a disposición del público. Asimismo, la Secretaría deberá solicitar la opinión de:
+Previamente a la expedición de las declaratorias para el establecimiento de las áreas naturales protegidas a que se refiere el [artículo anterior](articulo-57.md), se deberán realizar los estudios que lo justifiquen, en los términos del presente capítulo, los cuales deberán ser puestos a disposición del público. Asimismo, la [Secretaría](articulo-3o.md) deberá solicitar la opinión de:
 
 I.- Los gobiernos locales en cuyas circunscripciones territoriales se localice el área natural de que se trate;
 

@@ -17,7 +17,7 @@ source_sha256: 14cd17e37e96e766c8ab74950c71186d579c0ba6cc10ac9e8b06f6194af7d953
 
 # Artículo 20
 
-Se considera neutra la inversión en acciones sin derecho a voto o con derechos corporativos limitados, siempre que obtengan previamente la autorización de la Secretaría y, cuando resulte aplicable, de la Comisión Nacional Bancaria y de Valores.
+Se considera neutra la inversión en acciones sin derecho a voto o con derechos corporativos limitados, siempre que obtengan previamente la autorización de la [Secretaría](articulo-2o.md) y, cuando resulte aplicable, de la [Comisión](articulo-2o.md) Nacional Bancaria y de Valores.
 
 La Secretaría tendrá un plazo máximo de treinta y cinco días hábiles para otorgar o negar la autorización solicitada, contado a partir del día siguiente al de la presentación de la solicitud. Concluido dicho plazo sin que se emita resolución, se entenderá aprobada la solicitud respectiva.
 

@@ -17,4 +17,4 @@ source_sha256: 29f509ea5cd695b026dca622c5cee399dc723086316b2038d061d59a4e438de2
 
 # Artículo 61
 
-A efecto de comprobar el cumplimiento de las disposiciones contenidas en esta Ley, su Reglamento y demás ordenamientos de carácter general que le resulten aplicables, la Secretaría de Gobernación a través de las unidades administrativas que determine su reglamento interior podrá practicar visitas de verificación en las que cumplirá con las formalidades previstas en la Ley Federal de Procedimiento Administrativo.
+A efecto de comprobar el cumplimiento de las disposiciones contenidas en esta Ley, su [Reglamento](articulo-2o.md) y demás ordenamientos de carácter general que le resulten aplicables, la Secretaría de Gobernación a través de las unidades administrativas que determine su reglamento interior podrá practicar visitas de verificación en las que cumplirá con las formalidades previstas en la Ley Federal de Procedimiento Administrativo.

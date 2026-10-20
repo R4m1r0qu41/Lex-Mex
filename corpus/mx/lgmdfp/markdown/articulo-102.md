@@ -17,4 +17,4 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Artículo 102
 
-El Registro Nacional es una herramienta de búsqueda e identificación que organiza y concentra la información sobre Personas Desaparecidas y No Localizadas, con el objeto de proporcionar apoyo en las investigaciones para su búsqueda, localización e identificación.
+El [Registro Nacional](articulo-4.md) es una herramienta de búsqueda e identificación que organiza y concentra la información sobre [Personas Desaparecidas](articulo-4.md) y No Localizadas, con el objeto de proporcionar apoyo en las investigaciones para su búsqueda, localización e identificación.

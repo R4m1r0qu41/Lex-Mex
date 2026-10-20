@@ -1,0 +1,23 @@
+{
+  "corpus_baseline": "bfcda816f46b8b0c1d694fc1f2cfb8b4438275b2",
+  "db_initial_head": "04cc039af7d192732489cc5f3d16c4cb6340e385",
+  "private_input_object": "f1dff5d3dab8943b871147bdbfd00ef802820ca9",
+  "inspection_sha256": "d521bf7c96413c344a3c85d79198170438cd5d45ea85c0dcc35fa229e8993d76",
+  "inspection_file_count": 4917,
+  "inventory_bytes": 181905055,
+  "policies": {
+    "evidence_only": 1534,
+    "normalized": 3287,
+    "excluded_standard_body": 96
+  },
+  "federal_instruments": 468,
+  "standards_catalogue": 32,
+  "accepted_seed_rows": 17,
+  "sqlite_version": "3.53.2",
+  "rusqlite_version": "0.40.2",
+  "fixture_verified_records": 12,
+  "fixture_logical_sha256": "dfbd6bafe20e53b3b3d14879cb205fffc244025bf9b8718a63022ca77e3c03e7",
+  "workspace_tests_passed": 373,
+  "canonical_diff_against_baseline": false,
+  "full_corpus_database_built": false
+}

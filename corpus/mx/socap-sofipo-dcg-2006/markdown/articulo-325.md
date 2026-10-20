@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 325
 
-Las Federaciones deberán enviar a la Comisión la información que se menciona en el presente capítulo mediante su transmisión vía electrónica utilizando el SITI. En caso de que no exista información de algún reporte, las Federaciones deberán realizar el envío vacío, funcionalidad que está disponible en dicho sistema. Las claves de usuario y contraseñas necesarias para el acceso a dicho sistema deberán ser solicitadas a la Comisión, quien instruirá a las Federaciones en su correcta operación.
+Las [Federaciones](articulo-1.md) deberán enviar a la Comisión la información que se menciona en el presente capítulo mediante su transmisión vía electrónica utilizando el [SITI](articulo-1.md). En caso de que no exista información de algún reporte, las Federaciones deberán realizar el envío vacío, funcionalidad que está disponible en dicho sistema. Las claves de usuario y contraseñas necesarias para el acceso a dicho sistema deberán ser solicitadas a la Comisión, quien instruirá a las Federaciones en su correcta operación.
 
 La información deberá cumplir con las validaciones establecidas en el SITI, así como con los estándares de calidad que indique la Comisión a través de dicho sistema; igualmente, deberá presentar consistencia entre la información contenida en los diversos reportes regulatorios aplicables en los que se incluya la misma información con un nivel distinto de integración. Asimismo, la información deberá enviarse una sola vez y se recibirá asumiendo que reúne todas las características requeridas, en virtud de lo cual no podrá ser modificada, debiendo generar el SITI un acuse de recibo electrónico.
 

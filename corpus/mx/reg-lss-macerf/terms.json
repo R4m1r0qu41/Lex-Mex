@@ -1,1 +1,112 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:term:patron-del-campo",
+    "term": "Patrón del campo",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lss-macerf",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:2",
+    "fraction": "I",
+    "start_char": 154,
+    "end_char": 394,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:term:jornada-reducida",
+    "term": "Jornada reducida",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lss-macerf",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:2",
+    "fraction": "III",
+    "start_char": 445,
+    "end_char": 627,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:term:semana-reducida",
+    "term": "Semana reducida",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lss-macerf",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:2",
+    "fraction": "IV",
+    "start_char": 627,
+    "end_char": 816,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:term:unidad-de-tiempo-laborado",
+    "term": "Unidad de tiempo laborado",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lss-macerf",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:2",
+    "fraction": "V",
+    "start_char": 816,
+    "end_char": 1032,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:term:trabajador-domestico",
+    "term": "Trabajador doméstico",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lss-macerf",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:2",
+    "fraction": "VI",
+    "start_char": 1032,
+    "end_char": 1179,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:term:riesgos-de-trabajo-terminados",
+    "term": "Riesgos de trabajo terminados",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lss-macerf",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:2",
+    "fraction": "VII",
+    "start_char": 1179,
+    "end_char": 1428,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:term:dictamen",
+    "term": "Dictamen",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lss-macerf",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:2",
+    "fraction": "VIII",
+    "start_char": 1428,
+    "end_char": 1593,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:term:correccion",
+    "term": "Corrección",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lss-macerf",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:2",
+    "fraction": "IX",
+    "start_char": 1593,
+    "end_char": 1732,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:term:programa-informatico",
+    "term": "Programa informático",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lss-macerf",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:2",
+    "fraction": "X",
+    "start_char": 1732,
+    "end_char": 1975,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:term:entidad-receptora",
+    "term": "Entidad receptora",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lss-macerf",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:2",
+    "fraction": "XI",
+    "start_char": 1975,
+    "end_char": 2287,
+    "basis": "express_definition"
+  }
+]

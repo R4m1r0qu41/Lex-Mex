@@ -17,4 +17,4 @@ source_sha256: a1cc8f6043c35579235fd61d2e34977e1735af4ea6919d053f89462b97742335
 
 # Artículo 40
 
-Para efectos del [artículo anterior](articulo-39.md), la Secretaría implementará en su página web un apartado a través del cual, la ciudadanía formule por escrito sus propuestas e inquietudes que fomenten una cultura de prevención, mismas que podrán ser consideradas en la elaboración de programas en materia de prevención social de la Violencia y la delincuencia.
+Para efectos del [artículo anterior](articulo-39.md), la [Secretaría](articulo-3.md) implementará en su página web un apartado a través del cual, la ciudadanía formule por escrito sus propuestas e inquietudes que fomenten una cultura de prevención, mismas que podrán ser consideradas en la elaboración de programas en materia de prevención social de la Violencia y la delincuencia.

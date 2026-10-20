@@ -17,7 +17,7 @@ source_sha256: 8e270686b885035488bfe310b0b42bb40e7154431794227ebe212dd7dc12e46a
 
 # Artículo 308
 
-En los casos contemplados en el anterior artículo [298](articulo-298.md), cuando se siga más de un Procedimiento Extranjero respecto de un mismo [Comerciante](articulo-4o.md), el juez procurará que haya cooperación y coordinación con arreglo a lo dispuesto en los artículos [304](articulo-304.md) y [305](articulo-305.md) de esta Ley, y serán aplicables las siguientes reglas:
+En los casos contemplados en el anterior artículo [298](articulo-298.md), cuando se siga más de un Procedimiento Extranjero respecto de un mismo [Comerciante](articulo-4o.md), el juez procurará que haya cooperación y coordinación con arreglo a lo dispuesto en los artículos [304](articulo-304.md) y [305](articulo-305.md) de esta [Ley](articulo-4o.md), y serán aplicables las siguientes reglas:
 
 I. Toda medida otorgada con arreglo a los citados artículos [298](articulo-298.md) o [300](articulo-300.md) a un representante de un Procedimiento Extranjero no Principal, una vez reconocido un Procedimiento Extranjero Principal, deberá ser compatible con este último;
 

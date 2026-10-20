@@ -13,8 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Único · Capítulo I
+
 # Artículo 938
 
 Los sistemas de justicia digital constituyen implementos adicionales, progresivos y optativos que deberán aplicarse y usarse en respeto a los derechos humanos y garantizando el derecho a la tutela judicial efectiva, por lo que de ninguna forma podrán interpretarse en forma restrictiva.
-
-Sección Primera De la Integración del Expediente Judicial

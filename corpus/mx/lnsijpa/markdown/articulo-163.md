@@ -23,4 +23,4 @@ De no poder cumplirse en su domicilio, por razones de inconveniencia o imposibil
 
 La estancia domiciliaria no deberá afectar su asistencia al trabajo o al centro educativo al que concurra la persona adolescente.
 
-La Autoridad Administrativa hará los estudios pertinentes para informar al Juez si la familia de la persona adolescente está en posibilidad de hacerse cargo de la aplicación de esta medida o si ello resulta conveniente. La duración de esta medida no puede ser superior a un año.
+La [Autoridad Administrativa](articulo-3.md) hará los estudios pertinentes para informar al Juez si la familia de la persona adolescente está en posibilidad de hacerse cargo de la aplicación de esta medida o si ello resulta conveniente. La duración de esta medida no puede ser superior a un año.

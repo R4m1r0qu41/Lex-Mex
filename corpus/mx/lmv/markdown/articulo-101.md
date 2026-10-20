@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título IV · Capítulo II
+
 # Artículo 101
 
 La sociedad anónima y las personas morales que ésta controle, así como los miembros del consejo de administración y directivos relevantes de aquélla, deberán abstenerse de realizar actos u operaciones en perjuicio de la sociedad que tengan por objeto obstaculizar el desarrollo de la oferta, desde el momento en que sea de su conocimiento y hasta la conclusión del período de la misma, sin perjuicio de la aplicación de las estipulaciones que se contengan en las cláusulas a que se refiere el artículo [48](articulo-48.md) de esta Ley.

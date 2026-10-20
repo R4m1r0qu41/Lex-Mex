@@ -17,7 +17,7 @@ source_sha256: 5a0e15e01ac963917e019e3cc4ad07e96d76cc6c82c8b4238dfbb3a58a146847
 
 # Artículo 50
 
-El Consejo Nacional, en coordinación con las dependencias y entidades competentes de la administración pública de los distintos órdenes de gobierno, fomentará la constitución de empresas de base científica y tecnológica con participación del sector público, en áreas estratégicas y prioritarias para el desarrollo del país, que apuntalen la rectoría económica del Estado mexicano y contribuyan a atender problemáticas nacionales, sobre la base de agendas públicas en el marco de los Programas Nacionales Estratégicos.
+El [Consejo Nacional](articulo-4.md), en coordinación con las dependencias y entidades competentes de la administración pública de los distintos órdenes de gobierno, fomentará la constitución de empresas de base científica y tecnológica con participación del sector público, en áreas estratégicas y prioritarias para el desarrollo del país, que apuntalen la rectoría económica del Estado mexicano y contribuyan a atender problemáticas nacionales, sobre la base de agendas públicas en el marco de los [Programas Nacionales Estratégicos](articulo-4.md).
 
 Para fomentar la constitución de empresas de base científica y tecnológica, el Consejo Nacional podrá emitir recomendaciones de simplificación y mejora regulatoria utilizando tecnologías de la información a las dependencias y entidades de la Administración Pública Federal correspondientes.
 

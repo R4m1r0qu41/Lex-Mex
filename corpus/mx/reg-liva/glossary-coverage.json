@@ -1,0 +1,26 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-3",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-liva",
+  "source_sha256": "4f46c1f92fb5682281a7679836e517de95975786fa5326848a331c9eb946cc5f",
+  "extracted_text_sha256": "bfbefb1134a76c0ed5acb790db86c98ec0f7582730f82f01d99235d4a9ad5fd9",
+  "status": "detected",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:regulation:reg-liva:article:1",
+      "provision_text_sha256": "7db36060d517c68589bb819474e6ff35918f4e94a31e8e7b58c844f4820bab3a",
+      "method": "wider_pass",
+      "fractions": [
+        "I",
+        "II",
+        "III",
+        "IV"
+      ],
+      "repeal_placeholders": [],
+      "term_count": 4
+    }
+  ],
+  "imports": [],
+  "term_count": 4,
+  "usage_count": 120
+}

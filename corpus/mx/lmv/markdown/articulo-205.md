@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título VI · Capítulo II
+
 # Artículo 205
 
 Los actos o contratos que signifiquen variación o modificación en el activo, pasivo, capital o impliquen una obligación directa o contingente, incluso en sus cuentas de orden, de una casa de bolsa, deberán ser registrados en la contabilidad el mismo día en que se efectúen.

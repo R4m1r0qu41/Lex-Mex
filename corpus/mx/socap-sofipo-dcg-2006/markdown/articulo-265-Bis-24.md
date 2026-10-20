@@ -18,8 +18,8 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 265 Bis 24
 
-Las Sociedades Financieras Populares deberán mantener mecanismos de control para la detección y prevención de eventos que se aparten de los parámetros de uso habitual de los Usuarios a través de Medios Electrónicos. Para tales efectos, las Sociedades Financieras Populares podrán:
+Las [Sociedades](articulo-1.md) Financieras Populares deberán mantener mecanismos de control para la detección y prevención de eventos que se aparten de los parámetros de uso habitual de los [Usuarios](articulo-1.md) a través de [Medios Electrónicos](articulo-1.md). Para tales efectos, las Sociedades Financieras Populares podrán:
 
-I. Solicitar a los Usuarios la información que estimen necesaria para definir el uso habitual que estos hagan de Servicios Electrónicos.
+I. Solicitar a los Usuarios la información que estimen necesaria para definir el uso habitual que estos hagan de [Servicios Electrónicos](articulo-1.md).
 
-II. Aplicar, bajo su responsabilidad, medidas de prevención, tales como la suspensión de la utilización de Servicios Electrónicos o, en su caso, de la operación que se pretenda realizar, en el evento de que cuenten con elementos que hagan presumir que el Identificador de Usuario o los Factores de Autenticación no están siendo utilizados por el propio Usuario, debiendo informar a este tal situación de forma inmediata. Lo anterior, en los términos y condiciones que las Sociedades Financieras Populares hayan pactado con los Usuarios.
+II. Aplicar, bajo su responsabilidad, medidas de prevención, tales como la suspensión de la utilización de Servicios Electrónicos o, en su caso, de la operación que se pretenda realizar, en el evento de que cuenten con elementos que hagan presumir que el [Identificador de Usuario](articulo-1.md) o los Factores de [Autenticación](articulo-1.md) no están siendo utilizados por el propio Usuario, debiendo informar a este tal situación de forma inmediata. Lo anterior, en los términos y condiciones que las Sociedades Financieras Populares hayan pactado con los Usuarios.

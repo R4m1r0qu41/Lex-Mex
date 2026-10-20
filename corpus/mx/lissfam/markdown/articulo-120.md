@@ -17,4 +17,4 @@ source_sha256: 35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc
 
 # Artículo 120
 
-El Instituto cuidará que sus actividades en la administración del fondo de la vivienda para los militares en activo del Ejército, Fuerza Aérea y Armada que están percibiendo haberes se realicen, dentro de una política integrada de vivienda y desarrollo urbano. Para ello podrá coordinarse con otros organismos del sector público.
+El [Instituto](articulo-4o.md) cuidará que sus actividades en la administración del fondo de la vivienda para los militares en activo del Ejército, Fuerza Aérea y Armada que están percibiendo haberes se realicen, dentro de una política integrada de vivienda y desarrollo urbano. Para ello podrá coordinarse con otros organismos del sector público.

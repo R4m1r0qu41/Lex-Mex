@@ -20,4 +20,4 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 Lo dispuesto en la presente sección se aplicará a las Sociedades cuyos activos totales netos de sus correspondientes depreciaciones y estimaciones, sean superiores al equivalente en pesos de 250’000,000 de UDIS.
 
-En el evento de que la Sociedad llegara a tener un monto de activos totales inferiores al rango mínimo a que se refiere esta sección, deberá seguir cumpliendo con lo dispuesto en esta y en caso de que dicha Sociedad quisiera optar por aplicar la regulación prudencial correspondiente a un nivel inferior, requerirá de la autorización de la Comisión, previa opinión favorable del Comité de Supervisión Auxiliar.
+En el evento de que la Sociedad llegara a tener un monto de activos totales inferiores al rango mínimo a que se refiere esta sección, deberá seguir cumpliendo con lo dispuesto en esta y en caso de que dicha Sociedad quisiera optar por aplicar la regulación prudencial correspondiente a un nivel inferior, requerirá de la autorización de la [Comisión](articulo-1.md), previa opinión favorable del [Comité de Supervisión Auxiliar](articulo-1.md).

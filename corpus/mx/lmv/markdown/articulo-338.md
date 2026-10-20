@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título XI · Capítulo II
+
 # Artículo 338
 
 Las instituciones calificadoras de valores, en ningún caso podrán celebrar contratos respecto de valores emitidos por emisoras o emisoras simplificadas con las cuales sus accionistas, consejeros o directivos involucrados en el proceso de dictaminación de la calidad crediticia de dichos valores, tengan conflictos de interés.

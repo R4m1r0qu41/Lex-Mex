@@ -13,14 +13,14 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGEEPA_MAAA_3110
 source_sha256: d50b44df321cf8be51375c07cee5dbcf03eac76df1cd11ab4bd777c9fce0f789
 ---
 
-> Capítulo SEGUNDO · Sección III
+> Capítulo SEGUNDO · Sección IV
 
 # Artículo 35
 
-Cuando un Auditor Ambiental desee modificar su aprobación, derivado de un incremento o disminución de Auditores Especialistas o especialidades acreditadas, deberá presentar ante la Procuraduría o, en su caso, ante la Agencia, según corresponda, una solicitud que contendrá el nombre y número de aprobación del Auditor Ambiental, y la relación del personal para el que se solicita la modificación. Párrafo reformado DOF 31-10-2014
+Cuando un [Auditor Ambiental](articulo-2.md) desee modificar su aprobación, derivado de un incremento o disminución de [Auditores Especialistas](articulo-2.md) o especialidades acreditadas, deberá presentar ante la [Procuraduría](articulo-2.md) o, en su caso, ante la [Agencia](articulo-2.md), según corresponda, una solicitud que contendrá el nombre y número de aprobación del Auditor Ambiental, y la relación del personal para el que se solicita la modificación. Párrafo reformado DOF 31-10-2014
 
-Para el caso en el que la solicitud se refiera al incremento de Auditores Coordinadores, Auditores Especialistas o las especialidades que éstos han aprobado, deberá anexar los requisitos solicitados en las fracciones I y II del artículo [34](articulo-34.md).
+Para el caso en el que la solicitud se refiera al incremento de [Auditores Coordinadores](articulo-2.md), Auditores Especialistas o las especialidades que éstos han aprobado, deberá anexar los requisitos solicitados en las fracciones I y II del artículo [34](articulo-34.md).
 
 Una vez recibida la solicitud, dentro del término de cinco días hábiles siguientes, la Procuraduría o, en su caso, la Agencia, según corresponda, prevendrán al interesado en caso de que falte algún requisito o no sea clara la información para que subsane las observaciones realizadas, dentro de un plazo similar contado a partir del día hábil siguiente de su notificación. Párrafo reformado DOF 31-10-2014
 
-La Procuraduría o, en su caso, la Agencia, según corresponda, en un plazo que no excederá de diez días hábiles, a partir de la recepción de la mencionada solicitud, revisarán y notificarán al Auditor REGLAMENTO DE LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE EN MATERIA DE AUTORREGULACIÓN Y AUDITORÍAS AMBIENTALES Ambiental de forma personal o por correo certificado con acuse de recibo, la procedencia o no de su solicitud. Párrafo reformado DOF 31-10-2014
+La Procuraduría o, en su caso, la Agencia, según corresponda, en un plazo que no excederá de diez días hábiles, a partir de la recepción de la mencionada solicitud, revisarán y notificarán al Auditor Ambiental de forma personal o por correo certificado con acuse de recibo, la procedencia o no de su solicitud. Párrafo reformado DOF 31-10-2014

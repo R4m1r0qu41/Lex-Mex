@@ -17,11 +17,11 @@ source_sha256: 4e276866fce1638948a6daf1a5c0438fa412554f1a6e0381cbdf7cb300e3db75
 
 # Artículo 10
 
-En los términos del artículo [56 bis](../../lgeepa/markdown/articulo-56-BIS.md) de la Ley, el Consejo Nacional de Áreas Naturales Protegidas, estará integrado por:
+En los términos del artículo [56 bis](../../lgeepa/markdown/articulo-56-BIS.md) de la [Ley](articulo-3o.md), el [Consejo](articulo-3o.md) Nacional de Áreas Naturales Protegidas, estará integrado por:
 
-I. Un Presidente, que será designado por el titular de la Secretaría de una terna sugerida por el propio órgano colegiado, misma que se integrará de entre sus miembros;
+I. Un Presidente, que será designado por el titular de la [Secretaría](articulo-3o.md) de una terna sugerida por el propio órgano colegiado, misma que se integrará de entre sus miembros;
 
-II. Un Secretario Técnico, que será el titular de la Comisión Nacional de Áreas Naturales Protegidas;
+II. Un Secretario Técnico, que será el titular de la [Comisión](articulo-3o.md) Nacional de Áreas Naturales Protegidas;
 
 III. Un representante por cada una de las siguientes instituciones:
 
@@ -45,4 +45,4 @@ Asimismo, se invitará a participar a personas físicas con reconocido prestigio
 
 Los Consejeros mencionados en la fracción III serán nombrados por las instituciones a las que representan. Los demás Consejeros se incorporarán al Consejo a invitación que les formule el Presidente del mismo.
 
-El Presidente del Consejo, de conformidad con los acuerdos tomados por el pleno, podrá invitar a otras dependencias y entidades de la Administración Pública Federal. De igual manera, el número de representantes no gubernamentales podrá ampliarse, de conformidad con el procedimiento que se establezca en el Reglamento Interno del Consejo. En todo caso deberá procurarse un equilibrio en la proporción numérica de las representaciones no gubernamentales.
+El Presidente del Consejo, de conformidad con los acuerdos tomados por el pleno, podrá invitar a otras dependencias y entidades de la [Administración](articulo-3o.md) Pública Federal. De igual manera, el número de representantes no gubernamentales podrá ampliarse, de conformidad con el procedimiento que se establezca en el Reglamento Interno del Consejo. En todo caso deberá procurarse un equilibrio en la proporción numérica de las representaciones no gubernamentales.

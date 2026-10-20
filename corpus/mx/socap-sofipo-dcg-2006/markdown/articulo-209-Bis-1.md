@@ -20,7 +20,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 El [Sistema de Remuneración](articulo-1.md), como mínimo deberá:
 
-I. Considerar los riesgos a los cuales se enfrenta la Sociedad Financiera Popular, sus unidades administrativas, de control y de negocios y, en su caso, los riesgos asumidos por las personas sujetas al Sistema de Remuneración. Cuando exista dificultad para obtener medidas fidedignas para ciertos tipos de riesgo, las Sociedades Financieras Populares deberán basarse en juicios razonados para incorporarlos al Sistema de Remuneración.
+I. Considerar los riesgos a los cuales se enfrenta la [Sociedad](articulo-1.md) Financiera Popular, sus unidades administrativas, de control y de negocios y, en su caso, los riesgos asumidos por las personas sujetas al Sistema de Remuneración. Cuando exista dificultad para obtener medidas fidedignas para ciertos tipos de riesgo, las Sociedades Financieras Populares deberán basarse en juicios razonados para incorporarlos al Sistema de Remuneración.
 
 II. Establecer esquemas de remuneración específicos para cada perfil de puesto de empleados o personas sujetas al Sistema de Remuneración, en consideración de los riesgos inherentes a sus actividades, tomando en cuenta para tales efectos, lo siguiente:
 

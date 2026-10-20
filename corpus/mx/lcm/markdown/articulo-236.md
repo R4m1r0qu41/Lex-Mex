@@ -17,4 +17,4 @@ source_sha256: 8e270686b885035488bfe310b0b42bb40e7154431794227ebe212dd7dc12e46a
 
 # Artículo 236
 
-Concluido el concurso mercantil por la causal a que se refieren las fracciones III y IV del artículo [262](articulo-262.md) de esta Ley, si se descubrieren bienes del [Comerciante](articulo-4o.md) o se le restituyeran bienes que debieron comprenderse como parte de la [Masa](articulo-4o.md), se procederá a su enajenación y distribución en los términos dispuestos en esta Ley.
+Concluido el concurso mercantil por la causal a que se refieren las fracciones III y IV del artículo [262](articulo-262.md) de esta [Ley](articulo-4o.md), si se descubrieren bienes del [Comerciante](articulo-4o.md) o se le restituyeran bienes que debieron comprenderse como parte de la [Masa](articulo-4o.md), se procederá a su enajenación y distribución en los términos dispuestos en esta Ley.

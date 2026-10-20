@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf
 source_sha256: ca63a23a4b7444ebdbdad93759fbf46bd14c069e587c5878decf89fc9c12ca8e
 ---
 
+> Título Tercero · Capítulo II
+
 # Artículo 76
 
 Son facultades exclusivas del Senado:
@@ -39,7 +41,9 @@ VIII. Otorgar o negar las solicitudes de licencia o renuncia de las personas ser
 
 IX. Se deroga. Fracción adicionada DOF 20-08-1928. Derogada DOF 28-12-1982. Adicionada DOF 25-10-1993. Derogada DOF 29-01-2016
 
-X. Autorizar mediante decreto aprobado por el voto de las dos terceras partes de las personas integrantes presentes, los convenios amistosos que sobre sus respectivos límites celebren las entidades federativas; Fracción adicionada DOF 08-12-2005. Reformada DOF 15-10-2025 XI. Analizar y aprobar la Estrategia Nacional de Seguridad Pública, en el plazo que disponga la ley, previa comparecencia de la persona titular de la secretaría del ramo. En caso de que el Senado no se pronuncie en dicho plazo, ésta se entenderá aprobada; Fracción adicionada DOF 08-12-2005. Derogada DOF 15-10-2012. Adicionada DOF 10-02-2014. Reformada DOF 26-03-2019, 15-10-2025
+X. Autorizar mediante decreto aprobado por el voto de las dos terceras partes de las personas integrantes presentes, los convenios amistosos que sobre sus respectivos límites celebren las entidades federativas; Fracción adicionada DOF 08-12-2005. Reformada DOF 15-10-2025
+
+XI. Analizar y aprobar la Estrategia Nacional de Seguridad Pública, en el plazo que disponga la ley, previa comparecencia de la persona titular de la secretaría del ramo. En caso de que el Senado no se pronuncie en dicho plazo, ésta se entenderá aprobada; Fracción adicionada DOF 08-12-2005. Derogada DOF 15-10-2012. Adicionada DOF 10-02-2014. Reformada DOF 26-03-2019, 15-10-2025
 
 XII. Se deroga Fracción adicionada DOF 07-02-2014. Derogada DOF 20-12-2024
 

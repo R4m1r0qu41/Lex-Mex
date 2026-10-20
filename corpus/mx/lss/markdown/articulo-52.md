@@ -17,4 +17,4 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 52
 
-El patrón que oculte la realización de un accidente sufrido por alguno de sus trabajadores durante su trabajo o lo reporte indebidamente como accidente en trayecto, se hará acreedor a las sanciones que determine esta Ley y el reglamento respectivo.
+El patrón que oculte la realización de un accidente sufrido por alguno de sus trabajadores durante su trabajo o lo reporte indebidamente como accidente en trayecto, se hará acreedor a las sanciones que determine esta [Ley](articulo-5-A.md) y el reglamento respectivo.

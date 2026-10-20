@@ -18,6 +18,6 @@ source_sha256: 8ac502b97188bd6e795781e9821be6e62ccdd8050cdd3be74aab52a888e67939
 
 # Artículo 116
 
-El Comité de Auditoría deberá dar seguimiento a las actividades de Auditoría Interna, así como de Contraloría Interna de la unión de crédito, manteniendo informado al [Consejo](articulo-1.md), respecto del desempeño de dichas actividades.
+El [Comité de Auditoría](articulo-1.md) deberá dar seguimiento a las actividades de [Auditoría Interna](articulo-1.md), así como de [Contraloría Interna](articulo-1.md) de la unión de crédito, manteniendo informado al [Consejo](articulo-1.md), respecto del desempeño de dichas actividades.
 
 Asimismo, el Comité de Auditoría supervisará que la información financiera y contable se formule de conformidad con las disposiciones a que están sujetas las uniones de crédito, así como con los principios de contabilidad que le sean aplicables.

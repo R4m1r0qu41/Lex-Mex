@@ -17,4 +17,4 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 76
 
-El Director o Gerente General será el responsable de la adecuada implementación, así como de la debida aplicación de las estrategias relacionadas con la actividad crediticia contenidas en el manual de crédito.
+El [Director o Gerente General](articulo-1.md) será el responsable de la adecuada implementación, así como de la debida aplicación de las estrategias relacionadas con la actividad crediticia contenidas en el manual de crédito.

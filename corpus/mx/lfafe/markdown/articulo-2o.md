@@ -17,6 +17,6 @@ source_sha256: 96092a4581d4e87910eb58939da4045879e4fe613b12f4413d7392bcc2c6e884
 
 # Artículo 2o
 
-La aplicación de esta Ley corresponde a la persona titular de la Presidencia de la República, a la Secretaría de la Defensa Nacional y a las demás autoridades federales en el ámbito de su competencia.
+La aplicación de esta [Ley](articulo-1o-Bis.md) corresponde a la persona titular de la Presidencia de la República, a la [Secretaría](articulo-1o-Bis.md) de la Defensa Nacional y a las demás autoridades federales en el ámbito de su competencia.
 
 Artículo reformado DOF 29-05-2025

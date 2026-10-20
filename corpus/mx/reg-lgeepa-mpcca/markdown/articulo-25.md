@@ -17,6 +17,6 @@ source_sha256: cf47ab93fdea40d2b3e41b58784df62f89dd90b4482dd3b7f25adc7f6957036b
 
 # Artículo 25
 
-Las mediciones de las emisiones contaminantes a la atmósfera, se llevarán a cabo conforme a los procedimientos de muestreo y cuantificación establecidos en las normas técnicas REGLAMENTO DE LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE EN MATERIA DE PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DE LA ATMÓSFERA ecológicas correspondientes. Para evaluar la emisión total de contaminantes atmosféricos de una fuente múltiple, se deberán sumar las emisiones individuales de las chimeneas existentes.
+Las mediciones de las emisiones contaminantes a la atmósfera, se llevarán a cabo conforme a los procedimientos de muestreo y cuantificación establecidos en las normas técnicas ecológicas correspondientes. Para evaluar la emisión total de contaminantes atmosféricos de una fuente múltiple, se deberán sumar las emisiones individuales de las chimeneas existentes.
 
 Artículo reformado DOF 31-10-2014

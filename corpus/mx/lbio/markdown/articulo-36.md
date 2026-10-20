@@ -17,7 +17,7 @@ source_sha256: c1870db657a6564bbeb692a1778472db811a920626822de553ff5ca5194f95b4
 
 # Artículo 36
 
-La SADER y la SENER pueden, en el ámbito de sus competencias, revocar los permisos expedidos y autorizaciones por cualquiera de las causas siguientes:
+La [SADER](articulo-2.md) y la [SENER](articulo-2.md) pueden, en el ámbito de sus competencias, revocar los permisos expedidos y autorizaciones por cualquiera de las causas siguientes:
 
 I. Incumplir sin causa justificada y sin autorización de la SADER y la SENER, según corresponda, con el objeto, obligaciones, condiciones del permiso o autorización;
 
@@ -39,6 +39,6 @@ Para efectos de esta fracción se considera que el incumplimiento es continuo cu
 
 X. Cuando se ponga en riesgo la seguridad alimentaria del país;
 
-XI. Realizar actividades de importación, exportación, Transporte, Comercialización, Almacenamiento, Distribución o Expendio al Público de Biocombustibles, que se compruebe no hayan sido producidos o adquiridos de forma lícita y que haya sido determinado por resolución firme de autoridad competente, y
+XI. Realizar actividades de importación, exportación, [Transporte](articulo-2.md), [Comercialización](articulo-2.md), [Almacenamiento](articulo-2.md), [Distribución](articulo-2.md) o [Expendio al Público](articulo-2.md) de [Biocombustibles](articulo-2.md), que se compruebe no hayan sido producidos o adquiridos de forma lícita y que haya sido determinado por resolución firme de autoridad competente, y
 
 XII. Las demás previstas en el permiso o autorización respectiva.

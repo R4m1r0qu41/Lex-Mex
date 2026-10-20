@@ -17,4 +17,4 @@ source_sha256: 7679afbbf32749e0c0bacab72644d41fc6ccdeeab3a2f25dfae8d26a065de01e
 
 # Artículo 139
 
-Cada una de las Dependencias y Entidades de la Administración Pública Federal, estatal o municipal, impulsoras de los Vehículos de Propósito Específico a los que se refiere esta Ley, deberá rendir cuentas respecto a los mismos, así como vigilar el estricto cumplimiento a las disposiciones aplicables en materia de transparencia.
+Cada una de las [Dependencias](articulo-4.md) y [Entidades](articulo-4.md) de la Administración Pública Federal, estatal o municipal, impulsoras de los [Vehículos de Propósito Específico](articulo-4.md) a los que se refiere esta [Ley](articulo-4.md), deberá rendir cuentas respecto a los mismos, así como vigilar el estricto cumplimiento a las disposiciones aplicables en materia de transparencia.

@@ -17,9 +17,9 @@ source_sha256: d25fabb2d2e90d9f76028717f83c442d05a4f64024f13461285bda8ebd389a04
 
 # Artículo 25
 
-Para la formulación del programa de ordenamiento ecológico general del territorio, la Secretaría deberá:
+Para la formulación del programa de ordenamiento ecológico general del territorio, la [Secretaría](articulo-3o.md) deberá:
 
-I. Identificar y registrar en el Subsistema las acciones, proyectos y programas de las dependencias y entidades de la Administración Pública Federal que contemplen actividades que incidan en el patrón de ocupación del territorio;
+I. Identificar y registrar en el [Subsistema](articulo-3o.md) las acciones, proyectos y programas de las dependencias y entidades de la Administración Pública Federal que contemplen actividades que incidan en el patrón de ocupación del territorio;
 
 II. Identificar las actividades incompatibles entre los sectores en las distintas regiones del territorio nacional;
 
@@ -37,4 +37,4 @@ VIII. Establecer los indicadores ambientales a emplearse en el proceso de ordena
 
 IX. Integrar y operar la bitácora ambiental del programa de ordenamiento ecológico general del territorio; y
 
-X. Promover la participación corresponsable, a través de mecanismos de consulta con representantes de los grupos y sectores público, privado y social, mediante las bases y procedimientos al efecto establecidos en el presente Reglamento.
+X. Promover la participación corresponsable, a través de mecanismos de consulta con representantes de los grupos y sectores público, privado y social, mediante las bases y procedimientos al efecto establecidos en el presente [Reglamento](articulo-3o.md).

@@ -17,7 +17,7 @@ source_sha256: d25fabb2d2e90d9f76028717f83c442d05a4f64024f13461285bda8ebd389a04
 
 # Artículo 27
 
-La Secretaría deberá someter la propuesta del programa de ordenamiento ecológico general del territorio a un proceso de consulta pública, mediante la realización de las siguientes acciones:
+La [Secretaría](articulo-3o.md) deberá someter la propuesta del programa de ordenamiento ecológico general del territorio a un proceso de consulta pública, mediante la realización de las siguientes acciones:
 
 I. Publicar un aviso en el Diario Oficial de la Federación, en los diarios de mayor circulación nacional y en medios remotos o locales de comunicación electrónica, que señale el periodo y los lugares donde se pondrá a disposición del público la propuesta de programa de ordenamiento ecológico general del territorio; II. Poner a disposición del público durante 60 días hábiles en medios remotos o locales de comunicación electrónico, en las oficinas centrales, estatales y regionales de la Secretaría y en las oficinas de sus órganos desconcentrados;
 

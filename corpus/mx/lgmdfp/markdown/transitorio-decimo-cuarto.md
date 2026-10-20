@@ -15,4 +15,4 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Décimo Cuarto
 
-Dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, la Conferencia Nacional de Procuración de Justicia deberá emitir el Protocolo Homologado de Investigación a que se refiere el artículo [99](articulo-99.md) de esta Ley.
+Dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, la Conferencia Nacional de Procuración de Justicia deberá emitir el [Protocolo Homologado de Investigación](articulo-4.md) a que se refiere el artículo [99](articulo-99.md) de esta Ley.

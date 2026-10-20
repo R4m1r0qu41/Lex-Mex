@@ -17,4 +17,4 @@ source_sha256: 703f083c0baedfb4ef5ce8b62c78684d8ee0073f393321d476d75ebe4878e1d5
 
 # Artículo 121
 
-La Secretaría emitirá las directivas correspondientes a la Dirección y Rectoría, a fin de que establezca los lineamientos generales de participación de los organismos militares involucrados en la difusión de la admisión a las Instituciones Educativas.
+La Secretaría emitirá las directivas correspondientes a la Dirección y Rectoría, a fin de que establezca los lineamientos generales de participación de los organismos militares involucrados en la difusión de la admisión a las [Instituciones Educativas](articulo-3.md).

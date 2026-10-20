@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Primero · Capítulo I
+
 # Artículo 20
 
 A quien adquiere con justo título y de buena fe, le compete la acción plenaria de posesión para que se le restituya el bien con sus frutos y accesiones en los términos del artículo [15](articulo-15.md) de este [Código Nacional](articulo-2.md), incluso cuando no lo haya prescrito.

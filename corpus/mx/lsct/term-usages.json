@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsct:article:3:term-usage:50-64",
+    "provision_id": "urn:lex-mx:federal:statute:lsct:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lsct:term:plenos-poderes",
+    "span": "Plenos Poderes",
+    "start_char": 50,
+    "end_char": 64
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsct:article:5:term-usage:186-194",
+    "provision_id": "urn:lex-mx:federal:statute:lsct:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lsct:term:adhesion",
+    "span": "adhesión",
+    "start_char": 186,
+    "end_char": 194
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsct:article:5:term-usage:197-207",
+    "provision_id": "urn:lex-mx:federal:statute:lsct:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lsct:term:aceptacion",
+    "span": "aceptación",
+    "start_char": 197,
+    "end_char": 207
+  }
+]

@@ -17,4 +17,4 @@ source_sha256: 67309bf186af42de0f9e98010d38c89598676faea7f2b558ac9c9e6736d64d35
 
 # Artículo 48
 
-Las características y lineamientos para la operación de los Aprovechamientos Geotérmicos Exentos, con el fin de promover su uso para el desarrollo social, se deben definir por la Secretaría en el Reglamento de la presente Ley y en la regulación que para tal efecto emita.
+Las características y lineamientos para la operación de los [Aprovechamientos Geotérmicos Exentos](articulo-2.md), con el fin de promover su uso para el desarrollo social, se deben definir por la [Secretaría](articulo-2.md) en el [Reglamento](articulo-2.md) de la presente [Ley](articulo-2.md) y en la regulación que para tal efecto emita.

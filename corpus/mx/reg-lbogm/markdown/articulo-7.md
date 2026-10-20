@@ -17,4 +17,4 @@ source_sha256: 667636f9e0ea65e72ac9d6d7b4d7563a183b75d0f140268a61929c74f5f88041
 
 # Artículo 7
 
-El interesado podrá identificar claramente dentro de la información proporcionada, aquella que sea considerada como confidencial, de acuerdo a los artículos [70](../../lbogm/markdown/articulo-70.md) y [71](../../lbogm/markdown/articulo-71.md) de la Ley.
+El interesado podrá identificar claramente dentro de la información proporcionada, aquella que sea considerada como confidencial, de acuerdo a los artículos [70](../../lbogm/markdown/articulo-70.md) y [71](../../lbogm/markdown/articulo-71.md) de la [Ley](articulo-2.md).

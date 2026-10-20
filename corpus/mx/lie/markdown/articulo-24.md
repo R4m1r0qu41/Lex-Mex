@@ -17,6 +17,6 @@ source_sha256: 14cd17e37e96e766c8ab74950c71186d579c0ba6cc10ac9e8b06f6194af7d953
 
 # Artículo 24
 
-La Comisión será presidida por el Secretario de Economía y para su funcionamiento contará con un Secretario Ejecutivo y un Comité de Representantes.
+La [Comisión](articulo-2o.md) será presidida por el Secretario de Economía y para su funcionamiento contará con un Secretario Ejecutivo y un Comité de Representantes.
 
 Artículo reformado DOF 27-05-2024

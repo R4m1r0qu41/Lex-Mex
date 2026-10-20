@@ -17,8 +17,8 @@ source_sha256: bcc21844355854fe331c842c21436d721d6c2856b5c5986715fe39f4a845b317
 
 # Artículo 13
 
-La dirección y administración del Sistema corresponden a:
+La dirección y administración del [Sistema](articulo-2.md) corresponden a:
 
-I. La Junta de Gobierno, y
+I. La [Junta de Gobierno](articulo-2.md), y
 
-II. El Presidente. La Presidencia contará con la estructura administrativa que se establezca en el Estatuto Orgánico. Los cargos en la Junta de Gobierno serán de carácter honorífico.
+II. El [Presidente](articulo-2.md). La Presidencia contará con la estructura administrativa que se establezca en el [Estatuto Orgánico](articulo-2.md). Los cargos en la Junta de Gobierno serán de carácter honorífico.

@@ -19,4 +19,4 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 La incorporación voluntaria de los trabajadores domésticos, se hará en forma individual y su inscripción deberá realizarse por el patrón persona física.
 
-En este caso, además de lo previsto en el artículo [87](articulo-87.md) de este Reglamento, la incorporación voluntaria concluye por comunicación del patrón persona física al Instituto del término de la relación laboral.
+En este caso, además de lo previsto en el artículo [87](articulo-87.md) de este Reglamento, la incorporación voluntaria concluye por comunicación del patrón persona física al [Instituto](../../lss/markdown/articulo-5-A.md) del término de la relación laboral.

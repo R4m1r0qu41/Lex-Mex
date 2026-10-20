@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título II · Capítulo II
+
 # Artículo 23
 
 Las sociedades anónimas bursátiles tendrán encomendada su administración a un consejo de administración y un director general, que desempeñarán las funciones que el presente ordenamiento legal establece.

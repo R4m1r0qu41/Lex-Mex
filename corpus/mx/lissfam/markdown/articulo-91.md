@@ -21,7 +21,7 @@ La devolución de las aportaciones se realizará conforme a lo siguiente:
 
 I. Se devolverán las aportaciones que efectivamente hubieren realizado los militares, desde la entrada en vigor del presente seguro más un 20% de lo aportado, a las siguientes personas:
 
-a) A los militares que causen baja definitiva de la Fuerza Armada Permanente por haberla solicitado; Inciso reformado DOF 16-07-2025
+a) A los militares que causen baja definitiva de la [Fuerza Armada Permanente](articulo-4o.md) por haberla solicitado; Inciso reformado DOF 16-07-2025
 
 b) Al personal de tropa del Ejército, Fuerza Aérea, Guardia Nacional y clases y marinería de la Armada que causen baja por haber cumplido su contrato de servicios; Inciso reformado DOF 16-07-2025
 
@@ -29,7 +29,7 @@ c) A los militares auxiliares que causen baja después de haber cumplido el cont
 
 d) A los militares que se les otorgue licencia ilimitada y tengan derecho a compensación al momento de la separación del servicio activo;
 
-e) A los militares que se incapaciten en actos fuera del servicio, en primera o segunda categoría, de conformidad con las tablas contenidas en el artículo [226](articulo-226.md) de esta Ley y que no hayan cumplido 20 años de servicios efectivos prestados; Inciso reformado DOF 20-11-2008
+e) A los militares que se incapaciten en actos fuera del servicio, en primera o segunda categoría, de conformidad con las tablas contenidas en el artículo [226](articulo-226.md) de esta [Ley](articulo-4o.md) y que no hayan cumplido 20 años de servicios efectivos prestados; Inciso reformado DOF 20-11-2008
 
 f) A los beneficiarios de los militares que fallezcan en actos fuera del servicio y que no hayan cumplido 20 años de servicios efectivos prestados, y
 

@@ -15,4 +15,4 @@ source_sha256: 96092a4581d4e87910eb58939da4045879e4fe613b12f4413d7392bcc2c6e884
 
 # Primero
 
-Esta Ley entrará en vigor quince días después de su publicación en el Diario Oficial de la Federación.
+Esta [Ley](articulo-1o-Bis.md) entrará en vigor quince días después de su publicación en el Diario Oficial de la Federación.

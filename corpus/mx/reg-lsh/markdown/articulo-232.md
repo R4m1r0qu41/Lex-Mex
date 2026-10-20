@@ -17,4 +17,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Artículo 232
 
-La autorización definitiva que emita la Secretaría sobre la Manifestación de Impacto Social del Sector Energético es un requisito obligatorio, y las personas Asignatarias, Contratistas, Permisionarias o Autorizadas deben obtenerla previo a que se inicie el desarrollo de la infraestructura.
+La autorización definitiva que emita la [Secretaría](articulo-3.md) sobre la Manifestación de [Impacto Social](articulo-3.md) del Sector Energético es un requisito obligatorio, y las personas Asignatarias, Contratistas, Permisionarias o Autorizadas deben obtenerla previo a que se inicie el desarrollo de la infraestructura.

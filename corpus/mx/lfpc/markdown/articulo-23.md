@@ -13,14 +13,18 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPC.pdf
 source_sha256: 7fea623841fd6e05e8c0d01d2cf09f85b0b8e58ba4d9e4f6711f8bad1f448e55
 ---
 
+> Capítulo II
+
 # Artículo 23
 
-El patrimonio de la Procuraduría estará integrado por:
+El patrimonio de la [Procuraduría](articulo-2.md) estará integrado por:
 
 I. Los bienes con que cuenta;
 
 II. Los recursos que directamente le asigne el Presupuesto de Egresos de la Federación;
 
-III. Los recursos que le aporten las dependencias y entidades de la administración pública federal, estatal, municipal y del gobierno del Distrito Federal; Fracción reformada DOF 04-02-2004 IV. Los ingresos que perciba por los servicios que proporcione en los términos que señale la ley de la materia; y
+III. Los recursos que le aporten las dependencias y entidades de la administración pública federal, estatal, municipal y del gobierno del Distrito Federal; Fracción reformada DOF 04-02-2004
+
+IV. Los ingresos que perciba por los servicios que proporcione en los términos que señale la ley de la materia; y
 
 V. Los demás bienes que adquiera por cualquier otro título legal.

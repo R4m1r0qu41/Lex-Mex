@@ -17,4 +17,4 @@ source_sha256: 716e427a30e9982ccaa0576288aad2ad5305c624b236a0f342b6a87d60b7a9ed
 
 # Artículo 135
 
-La Secretaría, de conformidad con lo establecido en los lineamientos de operación de los fondos, así como en la normatividad aplicable en materia de eficiencia, eficacia, economía, transparencia y honradez del uso de recursos públicos, debe elaborar y publicar de forma anual un informe de labores del Fondo para la Transición Energética y el Aprovechamiento Sustentable de la Energía, el Fondo de Servicio Universal Energético, y de los recursos destinados a la innovación, desarrollo tecnológico y formación de recursos humanos.
+La [Secretaría](articulo-5.md), de conformidad con lo establecido en los lineamientos de operación de los fondos, así como en la normatividad aplicable en materia de eficiencia, eficacia, economía, transparencia y honradez del uso de recursos públicos, debe elaborar y publicar de forma anual un informe de labores del Fondo para la Transición Energética y el Aprovechamiento Sustentable de la Energía, el Fondo de Servicio Universal Energético, y de los recursos destinados a la innovación, desarrollo tecnológico y formación de recursos humanos.

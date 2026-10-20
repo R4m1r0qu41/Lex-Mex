@@ -702,54 +702,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lac:article:78-nonies:reference:5980-5982:78:direct",
-    "source_provision_id": "urn:lex-mx:federal:statute:lac:article:78-nonies",
-    "source_span": "78",
-    "start_char": 5980,
-    "end_char": 5982,
-    "target_instrument_id": "urn:lex-mx:federal:statute:lac",
-    "target_provision_id": "urn:lex-mx:federal:statute:lac:article:78",
-    "qualifiers": [],
-    "basis": "express_cross_reference",
-    "confidence": 1.0,
-    "resolution_status": "resolved",
-    "reference_form": "direct",
-    "resolution_rule": "own_instrument_default"
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lac:article:78-nonies:reference:6318-6320:78:direct",
-    "source_provision_id": "urn:lex-mx:federal:statute:lac:article:78-nonies",
-    "source_span": "78",
-    "start_char": 6318,
-    "end_char": 6320,
-    "target_instrument_id": "urn:lex-mx:federal:statute:lac",
-    "target_provision_id": "urn:lex-mx:federal:statute:lac:article:78",
-    "qualifiers": [],
-    "basis": "express_cross_reference",
-    "confidence": 1.0,
-    "resolution_status": "resolved",
-    "reference_form": "direct",
-    "resolution_rule": "own_instrument_default"
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lac:article:78-nonies:reference:6745-6747:78:direct",
-    "source_provision_id": "urn:lex-mx:federal:statute:lac:article:78-nonies",
-    "source_span": "78",
-    "start_char": 6745,
-    "end_char": 6747,
-    "target_instrument_id": "urn:lex-mx:federal:statute:lac",
-    "target_provision_id": "urn:lex-mx:federal:statute:lac:article:78",
-    "qualifiers": [],
-    "basis": "express_cross_reference",
-    "confidence": 1.0,
-    "resolution_status": "resolved",
-    "reference_form": "direct",
-    "resolution_rule": "own_instrument_default"
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lac:article:78-quater:reference:82-88:78-ter:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lac:article:78-quater",
     "source_span": "78 Ter",
@@ -866,29 +818,6 @@
     "resolution_status": "resolved",
     "reference_form": "direct",
     "resolution_rule": "own_instrument_marker"
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lac:transitory:cuarto:reference:745-747:89:direct",
-    "source_provision_id": "urn:lex-mx:federal:statute:lac:transitory:cuarto",
-    "source_span": "89",
-    "start_char": 745,
-    "end_char": 747,
-    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
-    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:89",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 721,
-        "end_char": 731
-      }
-    ],
-    "basis": "express_cross_reference",
-    "confidence": 1.0,
-    "resolution_status": "resolved",
-    "reference_form": "direct",
-    "resolution_rule": "named_instrument"
   },
   {
     "schema_version": "0.1.0",

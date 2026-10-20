@@ -17,7 +17,7 @@ source_sha256: 160e5e85efddb1749a79f6b154af31711a9b31a5e32bace3c07e2859c2620ecf
 
 # Artículo 137
 
-La amonestación sólo será aplicable a los infractores por primera vez, a criterio de la Secretaría, a quienes:
+La amonestación sólo será aplicable a los infractores por primera vez, a criterio de la [Secretaría](articulo-4o.md), a quienes:
 
 I. Realicen pesca de consumo doméstico, en temporada de veda o con artes de pesca no permitidas, o tallas inferiores a las autorizadas o en contravención a las normas establecidas; y
 

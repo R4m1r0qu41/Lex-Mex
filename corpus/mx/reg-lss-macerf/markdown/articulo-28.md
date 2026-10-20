@@ -17,9 +17,9 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 28
 
-Al comunicar el patrón cambio de actividades o incorporación de nuevas actividades; compra de activos o cualquier acto de enajenación, arrendamiento, comodato o fideicomiso traslativo; cambio de domicilio; sustitución patronal; fusión o escisión, deberá determinar e informar la clase, fracción y prima que corresponda de acuerdo con la Ley y este Reglamento.
+Al comunicar el patrón cambio de actividades o incorporación de nuevas actividades; compra de activos o cualquier acto de enajenación, arrendamiento, comodato o fideicomiso traslativo; cambio de domicilio; sustitución patronal; fusión o escisión, deberá determinar e informar la clase, fracción y prima que corresponda de acuerdo con la [Ley](../../lss/markdown/articulo-5-A.md) y este Reglamento.
 
-El Instituto procederá a validar o rectificar la clase, fracción y prima señaladas por el patrón. En caso de omisión las determinará de oficio.
+El [Instituto](../../lss/markdown/articulo-5-A.md) procederá a validar o rectificar la clase, fracción y prima señaladas por el patrón. En caso de omisión las determinará de oficio.
 
 En los casos a que se refiere este artículo, la clase se fijará conforme a las actividades de la empresa, y la prima de acuerdo a las reglas siguientes:
 

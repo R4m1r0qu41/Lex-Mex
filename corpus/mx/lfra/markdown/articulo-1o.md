@@ -17,7 +17,7 @@ source_sha256: 7211b1c71876d2ea4776c11dc1e045ebbb34b7e98b130f16c7864f75f5e90744
 
 # Artículo 1o
 
-La presente Ley regula la responsabilidad ambiental que nace de los daños ocasionados al ambiente, así como la reparación y compensación de dichos daños cuando sea exigible a través de los procesos judiciales federales previstos por el artículo 17 constitucional, los mecanismos alternativos de solución de controversias, los procedimientos administrativos y aquellos que correspondan a la comisión de delitos contra el ambiente y la gestión ambiental.
+La presente [Ley](articulo-2o.md) regula la responsabilidad ambiental que nace de los daños ocasionados al ambiente, así como la reparación y compensación de dichos daños cuando sea exigible a través de los procesos judiciales federales previstos por el artículo 17 constitucional, los mecanismos alternativos de solución de controversias, los procedimientos administrativos y aquellos que correspondan a la comisión de delitos contra el ambiente y la gestión ambiental.
 
 Los preceptos de este ordenamiento son reglamentarios del artículo 4o. Constitucional, de orden público e interés social y tienen por objeto la protección, la preservación y restauración del ambiente y el equilibrio ecológico, para garantizar los derechos humanos a un medio ambiente sano para el desarrollo y bienestar de toda persona, y a la responsabilidad generada por el daño y el deterioro ambiental.
 

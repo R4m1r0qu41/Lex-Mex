@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAC.pdf
 source_sha256: 07199878c4f94748c983998437198eb7c645ad76967c444dfe26d50a535d23ae
 ---
 
+> Capítulo XII · Sección Primera
+
 # Artículo 68
 
 Los daños que sufran las personas o carga transportadas en aeronaves destinadas a servicios aéreos a terceros se sujetarán a las disposiciones del Código Civil Federal.

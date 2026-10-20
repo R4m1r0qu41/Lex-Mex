@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 42 Bis 10
 
-Cuando las Sociedades Financieras Populares en sus créditos de cartera comercial cuenten con garantías que cumplan con lo previsto en el Anexo D Bis de las presentes disposiciones, podrán reconocerlas con la finalidad de reducir las estimaciones preventivas del crédito o créditos de que se trate, debiendo considerar lo siguiente:
+Cuando las [Sociedades](articulo-1.md) Financieras Populares en sus créditos de cartera comercial cuenten con garantías que cumplan con lo previsto en el Anexo D Bis de las presentes disposiciones, podrán reconocerlas con la finalidad de reducir las estimaciones preventivas del crédito o créditos de que se trate, debiendo considerar lo siguiente:
 
 I. Tomar las medidas necesarias para que se pueda ejecutar y adjudicarse la garantía en el momento en que se coloquen en etapa 3 de conformidad con lo establecido en el artículo [42 Bis 3](articulo-42-Bis-3.md) de las presentes disposiciones. En caso de que las gestiones para la ejecución de la garantía no den inicio dentro de los 120 días hábiles siguientes al traspaso del crédito a etapa 3, las Sociedades Financieras Populares deberán dejar de reconocer la cobertura proporcionada por dicha garantía y asignarán las estimaciones preventivas que correspondan a los días de mora registrados.
 

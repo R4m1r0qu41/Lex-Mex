@@ -17,9 +17,9 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 135
 
-Las personas físicas o morales que efectúen descargas de aguas residuales a los cuerpos receptores a que se refiere la "Ley", deberán:
+Las personas físicas o morales que efectúen descargas de aguas residuales a los cuerpos receptores a que se refiere la "[Ley](articulo-1o.md)", deberán:
 
-I. Contar con el permiso de descarga de aguas residuales que les expida "La Comisión", o en su caso, presentar el aviso respectivo a que se refiere la "Ley" y este Reglamento;
+I. Contar con el permiso de descarga de aguas residuales que les expida "[La Comisión](articulo-1o.md)", o en su caso, presentar el aviso respectivo a que se refiere la "Ley" y este Reglamento;
 
 II. Tratar las aguas residuales previamente a su vertido a los cuerpos receptores, cuando esto sea necesario para cumplir con las obligaciones establecidas en el permiso de descarga correspondiente;
 
@@ -31,7 +31,7 @@ VI. Hacer del conocimiento de "La Comisión", los contaminantes presentes en las
 
 VII. Operar y mantener por sí o por terceros las obras e instalaciones necesarias para el manejo y, en su caso, el tratamiento de las aguas residuales, así como para asegurar el control de la calidad de dichas aguas antes de su descarga a cuerpos receptores;
 
-VIII. Sujetarse a la vigilancia y fiscalización que para el control y prevención de la calidad del agua establezca "La Comisión", de conformidad con lo dispuesto en la "Ley" y el "Reglamento";
+VIII. Sujetarse a la vigilancia y fiscalización que para el control y prevención de la calidad del agua establezca "La Comisión", de conformidad con lo dispuesto en la "Ley" y el "[Reglamento](articulo-1o.md)";
 
 IX. Llevar un monitoreo de la calidad de las aguas residuales que descarguen o infiltren en los términos de ley y demás disposiciones reglamentarias;
 

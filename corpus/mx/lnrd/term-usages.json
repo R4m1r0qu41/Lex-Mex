@@ -1,1 +1,1019 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:1:term-usage:12-15",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:ley",
+    "span": "Ley",
+    "start_char": 12,
+    "end_char": 15
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:1:term-usage:154-162",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:registro",
+    "span": "Registro",
+    "start_char": 154,
+    "end_char": 162
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:2:term-usage:25-28",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:ley",
+    "span": "Ley",
+    "start_char": 25,
+    "end_char": 28
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:2:term-usage:466-469",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:ley",
+    "span": "Ley",
+    "start_char": 466,
+    "end_char": 469
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:2:term-usage:669-677",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:registro",
+    "span": "Registro",
+    "start_char": 669,
+    "end_char": 677
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:2:term-usage:1222-1230",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:registro",
+    "span": "Registro",
+    "start_char": 1222,
+    "end_char": 1230
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:2:term-usage:1466-1474",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:registro",
+    "span": "Registro",
+    "start_char": 1466,
+    "end_char": 1474
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:3:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:registro",
+    "span": "Registro",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:3:term-usage:300-308",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:registro",
+    "span": "Registro",
+    "start_char": 300,
+    "end_char": 308
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:3:term-usage:344-354",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 344,
+    "end_char": 354
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:4:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:registro",
+    "span": "Registro",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:4:term-usage:295-303",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:registro",
+    "span": "Registro",
+    "start_char": 295,
+    "end_char": 303
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:4:term-usage:510-540",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:centro-nacional-de-informacion",
+    "span": "Centro Nacional de Información",
+    "start_char": 510,
+    "end_char": 540
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:5:term-usage:61-64",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:ley",
+    "span": "Ley",
+    "start_char": 61,
+    "end_char": 64
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:5:term-usage:69-79",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 69,
+    "end_char": 79
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:5:term-usage:95-114",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:sistema-de-consulta",
+    "span": "Sistema de Consulta",
+    "start_char": 95,
+    "end_char": 114
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:5:term-usage:119-127",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:registro",
+    "span": "Registro",
+    "start_char": 119,
+    "end_char": 127
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:6:term-usage:53-72",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:sistema-de-consulta",
+    "span": "Sistema de Consulta",
+    "start_char": 53,
+    "end_char": 72
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:6:term-usage:315-323",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:registro",
+    "span": "Registro",
+    "start_char": 315,
+    "end_char": 323
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:7:term-usage:30-38",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:registro",
+    "span": "Registro",
+    "start_char": 30,
+    "end_char": 38
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:8:term-usage:26-29",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:ley",
+    "span": "Ley",
+    "start_char": 26,
+    "end_char": 29
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:9:term-usage:212-220",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:registro",
+    "span": "Registro",
+    "start_char": 212,
+    "end_char": 220
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:10:term-usage:142-150",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:registro",
+    "span": "Registro",
+    "start_char": 142,
+    "end_char": 150
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:10:term-usage:489-497",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:registro",
+    "span": "Registro",
+    "start_char": 489,
+    "end_char": 497
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:11:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:11:term-usage:79-87",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:registro",
+    "span": "Registro",
+    "start_char": 79,
+    "end_char": 87
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:11:term-usage:283-291",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:registro",
+    "span": "Registro",
+    "start_char": 283,
+    "end_char": 291
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:11:term-usage:380-383",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:ley",
+    "span": "Ley",
+    "start_char": 380,
+    "end_char": 383
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:11:term-usage:470-489",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:sistema-de-consulta",
+    "span": "Sistema de Consulta",
+    "start_char": 470,
+    "end_char": 489
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:11:term-usage:573-581",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:registro",
+    "span": "Registro",
+    "start_char": 573,
+    "end_char": 581
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:11:term-usage:765-773",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:registro",
+    "span": "Registro",
+    "start_char": 765,
+    "end_char": 773
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:11:term-usage:948-956",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:registro",
+    "span": "Registro",
+    "start_char": 948,
+    "end_char": 956
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:11:term-usage:1209-1212",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:ley",
+    "span": "Ley",
+    "start_char": 1209,
+    "end_char": 1212
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:11:term-usage:1386-1394",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:registro",
+    "span": "Registro",
+    "start_char": 1386,
+    "end_char": 1394
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:11:term-usage:1527-1530",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:ley",
+    "span": "Ley",
+    "start_char": 1527,
+    "end_char": 1530
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:12:term-usage:3-33",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:centro-nacional-de-informacion",
+    "span": "Centro Nacional de Información",
+    "start_char": 3,
+    "end_char": 33
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:12:term-usage:121-129",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:registro",
+    "span": "Registro",
+    "start_char": 121,
+    "end_char": 129
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:12:term-usage:567-586",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:sistema-de-consulta",
+    "span": "Sistema de Consulta",
+    "start_char": 567,
+    "end_char": 586
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:12:term-usage:639-647",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:registro",
+    "span": "Registro",
+    "start_char": 639,
+    "end_char": 647
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:13:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:13:term-usage:92-100",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:registro",
+    "span": "Registro",
+    "start_char": 92,
+    "end_char": 100
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:13:term-usage:107-126",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:sistema-de-consulta",
+    "span": "Sistema de Consulta",
+    "start_char": 107,
+    "end_char": 126
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:14:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:14:term-usage:195-203",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:registro",
+    "span": "Registro",
+    "start_char": 195,
+    "end_char": 203
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:14:term-usage:377-387",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 377,
+    "end_char": 387
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:15:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:16:term-usage:40-48",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:registro",
+    "span": "Registro",
+    "start_char": 40,
+    "end_char": 48
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:16:term-usage:75-85",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 75,
+    "end_char": 85
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:16:term-usage:221-229",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:registro",
+    "span": "Registro",
+    "start_char": 221,
+    "end_char": 229
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:16:term-usage:717-725",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:registro",
+    "span": "Registro",
+    "start_char": 717,
+    "end_char": 725
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:16:term-usage:975-983",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:registro",
+    "span": "Registro",
+    "start_char": 975,
+    "end_char": 983
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:16:term-usage:1440-1450",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1440,
+    "end_char": 1450
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:16:term-usage:1471-1479",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:registro",
+    "span": "Registro",
+    "start_char": 1471,
+    "end_char": 1479
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:16:term-usage:1735-1743",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:registro",
+    "span": "Registro",
+    "start_char": 1735,
+    "end_char": 1743
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:17:term-usage:362-370",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:registro",
+    "span": "Registro",
+    "start_char": 362,
+    "end_char": 370
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:18:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:registro",
+    "span": "Registro",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:18:term-usage:806-836",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:centro-nacional-de-informacion",
+    "span": "Centro Nacional de Información",
+    "start_char": 806,
+    "end_char": 836
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:18:term-usage:883-886",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:ley",
+    "span": "Ley",
+    "start_char": 883,
+    "end_char": 886
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:18:term-usage:892-900",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:registro",
+    "span": "Registro",
+    "start_char": 892,
+    "end_char": 900
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:19:term-usage:361-364",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:ley",
+    "span": "Ley",
+    "start_char": 361,
+    "end_char": 364
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:20:term-usage:60-68",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:registro",
+    "span": "Registro",
+    "start_char": 60,
+    "end_char": 68
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:21:term-usage:215-223",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:registro",
+    "span": "Registro",
+    "start_char": 215,
+    "end_char": 223
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:22:term-usage:319-327",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:registro",
+    "span": "Registro",
+    "start_char": 319,
+    "end_char": 327
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:23:term-usage:39-47",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:registro",
+    "span": "Registro",
+    "start_char": 39,
+    "end_char": 47
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:23:term-usage:382-390",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:registro",
+    "span": "Registro",
+    "start_char": 382,
+    "end_char": 390
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:23:term-usage:1546-1576",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:centro-nacional-de-informacion",
+    "span": "Centro Nacional de Información",
+    "start_char": 1546,
+    "end_char": 1576
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:23:term-usage:1652-1655",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:ley",
+    "span": "Ley",
+    "start_char": 1652,
+    "end_char": 1655
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:24:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:registro",
+    "span": "Registro",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:25:term-usage:71-79",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:registro",
+    "span": "Registro",
+    "start_char": 71,
+    "end_char": 79
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:26:term-usage:131-134",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:ley",
+    "span": "Ley",
+    "start_char": 131,
+    "end_char": 134
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:27:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:27:term-usage:151-159",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:registro",
+    "span": "Registro",
+    "start_char": 151,
+    "end_char": 159
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:27:term-usage:192-195",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:ley",
+    "span": "Ley",
+    "start_char": 192,
+    "end_char": 195
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:27:term-usage:200-203",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:ley",
+    "span": "Ley",
+    "start_char": 200,
+    "end_char": 203
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:28:term-usage:151-159",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:28",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:registro",
+    "span": "Registro",
+    "start_char": 151,
+    "end_char": 159
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:29:term-usage:30-38",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:registro",
+    "span": "Registro",
+    "start_char": 30,
+    "end_char": 38
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:29:term-usage:474-493",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:sistema-de-consulta",
+    "span": "Sistema de Consulta",
+    "start_char": 474,
+    "end_char": 493
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:30:term-usage:108-116",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:30",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:registro",
+    "span": "Registro",
+    "start_char": 108,
+    "end_char": 116
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:30:term-usage:177-187",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:30",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 177,
+    "end_char": 187
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:30:term-usage:204-223",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:30",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:sistema-de-consulta",
+    "span": "Sistema de Consulta",
+    "start_char": 204,
+    "end_char": 223
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:30:term-usage:228-236",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:30",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:registro",
+    "span": "Registro",
+    "start_char": 228,
+    "end_char": 236
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:31:term-usage:3-22",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:sistema-de-consulta",
+    "span": "Sistema de Consulta",
+    "start_char": 3,
+    "end_char": 22
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:31:term-usage:27-35",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:registro",
+    "span": "Registro",
+    "start_char": 27,
+    "end_char": 35
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:32:term-usage:3-22",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:sistema-de-consulta",
+    "span": "Sistema de Consulta",
+    "start_char": 3,
+    "end_char": 22
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:32:term-usage:27-35",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:registro",
+    "span": "Registro",
+    "start_char": 27,
+    "end_char": 35
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:32:term-usage:57-67",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 57,
+    "end_char": 67
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:32:term-usage:480-499",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:sistema-de-consulta",
+    "span": "Sistema de Consulta",
+    "start_char": 480,
+    "end_char": 499
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:33:term-usage:46-65",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:sistema-de-consulta",
+    "span": "Sistema de Consulta",
+    "start_char": 46,
+    "end_char": 65
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:33:term-usage:186-189",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:ley",
+    "span": "Ley",
+    "start_char": 186,
+    "end_char": 189
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:33:term-usage:225-235",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 225,
+    "end_char": 235
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:34:term-usage:3-22",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:sistema-de-consulta",
+    "span": "Sistema de Consulta",
+    "start_char": 3,
+    "end_char": 22
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:35:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:35",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:35:term-usage:79-98",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:35",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:sistema-de-consulta",
+    "span": "Sistema de Consulta",
+    "start_char": 79,
+    "end_char": 98
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:36:term-usage:158-177",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:36",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:sistema-de-consulta",
+    "span": "Sistema de Consulta",
+    "start_char": 158,
+    "end_char": 177
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:36:term-usage:206-214",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:36",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:registro",
+    "span": "Registro",
+    "start_char": 206,
+    "end_char": 214
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:36:term-usage:241-249",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:36",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:registro",
+    "span": "Registro",
+    "start_char": 241,
+    "end_char": 249
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:transitory:primero:term-usage:12-15",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:transitory:primero",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:ley",
+    "span": "Ley",
+    "start_char": 12,
+    "end_char": 15
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:transitory:segundo:term-usage:3-33",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:centro-nacional-de-informacion",
+    "span": "Centro Nacional de Información",
+    "start_char": 3,
+    "end_char": 33
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:transitory:segundo:term-usage:185-188",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:ley",
+    "span": "Ley",
+    "start_char": 185,
+    "end_char": 188
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:transitory:tercero:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:transitory:tercero:term-usage:33-41",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:registro",
+    "span": "Registro",
+    "start_char": 33,
+    "end_char": 41
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:transitory:tercero:term-usage:80-99",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:sistema-de-consulta",
+    "span": "Sistema de Consulta",
+    "start_char": 80,
+    "end_char": 99
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:transitory:tercero:term-usage:221-229",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:registro",
+    "span": "Registro",
+    "start_char": 221,
+    "end_char": 229
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:transitory:tercero:term-usage:287-295",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:registro",
+    "span": "Registro",
+    "start_char": 287,
+    "end_char": 295
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:transitory:tercero:term-usage:355-363",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:registro",
+    "span": "Registro",
+    "start_char": 355,
+    "end_char": 363
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:transitory:tercero:term-usage:418-426",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:registro",
+    "span": "Registro",
+    "start_char": 418,
+    "end_char": 426
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:transitory:cuarto:term-usage:124-134",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 124,
+    "end_char": 134
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:transitory:cuarto:term-usage:220-223",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:ley",
+    "span": "Ley",
+    "start_char": 220,
+    "end_char": 223
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:transitory:quinto:term-usage:406-409",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:ley",
+    "span": "Ley",
+    "start_char": 406,
+    "end_char": 409
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:transitory:sexto:term-usage:111-119",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:transitory:sexto",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:registro",
+    "span": "Registro",
+    "start_char": 111,
+    "end_char": 119
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:transitory:sexto:term-usage:960-968",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:transitory:sexto",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:registro",
+    "span": "Registro",
+    "start_char": 960,
+    "end_char": 968
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:transitory:octavo:term-usage:153-156",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:transitory:octavo",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:ley",
+    "span": "Ley",
+    "start_char": 153,
+    "end_char": 156
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:transitory:octavo:term-usage:349-352",
+    "provision_id": "urn:lex-mx:federal:statute:lnrd:transitory:octavo",
+    "term_id": "urn:lex-mx:federal:statute:lnrd:term:ley",
+    "span": "Ley",
+    "start_char": 349,
+    "end_char": 352
+  }
+]

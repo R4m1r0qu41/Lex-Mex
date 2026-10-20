@@ -17,6 +17,6 @@ source_sha256: 01b72308e67d46ba6ca8a6b07fb7584c6a74e905ea0c4b5be5c0c0d32a6d817a
 
 # Artículo 76
 
-En la Promoción Superior, la persona titular de la Secretaría propondrá a la persona titular de la Presidencia de la República a las personas con jerarquía de Tenientes Coroneles, Coroneles y Generales del Ejército, Fuerza Aérea y Guardia Nacional que puedan ser ascendidas al grado inmediato superior, siempre que acrediten los requisitos señalados en los artículos [32](../../larefam/markdown/articulo-32.md) y [34](../../larefam/markdown/articulo-34.md) de la Ley.
+En la [Promoción](articulo-5.md) Superior, la persona titular de la Secretaría propondrá a la persona titular de la Presidencia de la República a las personas con jerarquía de Tenientes Coroneles, Coroneles y Generales del Ejército, Fuerza Aérea y Guardia Nacional que puedan ser ascendidas al grado inmediato superior, siempre que acrediten los requisitos señalados en los artículos [32](../../larefam/markdown/articulo-32.md) y [34](../../larefam/markdown/articulo-34.md) de la Ley.
 
 Artículo reformado DOF 20-03-2026

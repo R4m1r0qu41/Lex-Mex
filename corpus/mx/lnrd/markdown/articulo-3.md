@@ -15,4 +15,4 @@ source_sha256: 0a9852297132d8972d0c2f77e1b67d614bd296632109065e703bd09254187aea
 
 # Artículo 3
 
-El Registro consiste en una base de datos que concentra la información a nivel nacional sobre las personas detenidas, conforme a las facultades de las autoridades durante las etapas del proceso penal o del procedimiento administrativo sancionador ante juez municipal o cívico, respectivamente. Dicho Registro será administrado y operado por la Secretaría con base en las disposiciones que al respecto se emitan.
+El [Registro](articulo-2.md) consiste en una base de datos que concentra la información a nivel nacional sobre las personas detenidas, conforme a las facultades de las autoridades durante las etapas del proceso penal o del procedimiento administrativo sancionador ante juez municipal o cívico, respectivamente. Dicho Registro será administrado y operado por la [Secretaría](articulo-2.md) con base en las disposiciones que al respecto se emitan.

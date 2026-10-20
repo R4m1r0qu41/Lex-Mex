@@ -17,6 +17,6 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Artículo 67
 
-Las Instituciones de Seguridad Pública de los tres órdenes de gobierno, en el ámbito de sus respectivas competencias, deben contar y garantizar la disponibilidad inmediata de personal especializado y capacitado en materia de búsqueda de personas. Dicho personal debe atender las solicitudes de la Comisión Nacional de Búsqueda y las Comisiones Locales de Búsqueda, según corresponda.
+Las [Instituciones de Seguridad Pública](articulo-4.md) de los tres órdenes de gobierno, en el ámbito de sus respectivas competencias, deben contar y garantizar la disponibilidad inmediata de personal especializado y capacitado en materia de búsqueda de personas. Dicho personal debe atender las solicitudes de la [Comisión Nacional de Búsqueda](articulo-4.md) y las [Comisiones Locales de Búsqueda](articulo-4.md), según corresponda.
 
 El personal al que se refiere el párrafo anterior, además de cumplir con la certificación respectiva, debe acreditar los criterios de idoneidad que emita la Comisión Nacional de Búsqueda.

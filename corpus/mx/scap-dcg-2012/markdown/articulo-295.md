@@ -17,7 +17,7 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 295
 
-El Comité Técnico deberá informar a la Vicepresidencia Jurídica y a la vicepresidencia encargada de su supervisión de la Comisión, los nombramientos de los miembros del Comité de Protección al Ahorro Cooperativo, dentro de los 15 días hábiles posteriores a su designación, manifestando expresamente que los mismos cumplen con los requisitos establecidos por el presente capítulo, acompañando en sobre cerrado el formato que conforma el Anexo K de las presentes disposiciones.
+El [Comité Técnico](articulo-1.md) deberá informar a la Vicepresidencia Jurídica y a la vicepresidencia encargada de su supervisión de la [Comisión](articulo-1.md), los nombramientos de los miembros del [Comité de Protección al Ahorro Cooperativo](articulo-1.md), dentro de los 15 días hábiles posteriores a su designación, manifestando expresamente que los mismos cumplen con los requisitos establecidos por el presente capítulo, acompañando en sobre cerrado el formato que conforma el Anexo K de las presentes disposiciones.
 
 El Comité Técnico dará a conocer anualmente a la Comisión, durante el mes de mayo, los resultados de las gestiones que lleven a cabo en cumplimiento de lo previsto por el Artículo [294](articulo-294.md) de estas disposiciones.
 

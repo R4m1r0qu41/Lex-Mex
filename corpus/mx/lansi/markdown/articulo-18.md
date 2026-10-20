@@ -17,4 +17,4 @@ source_sha256: 0e34f329befed4474eb7bc1bc195ba13bbe188edfbbabc914a44723e62eb9e44
 
 # Artículo 18
 
-Los Regulados podrán acreditar mediante el dictamen de auditores externos certificados por la Agencia el cumplimiento de las obligaciones derivadas de las licencias, permisos, registros y autorizaciones, así como de las establecidas en el Sistema de Administración a que se refiere esta Ley. Lo anterior, sin perjuicio de las facultades de supervisión e inspección que directamente puede llevar a cabo la Agencia a los Regulados.
+Los [Regulados](articulo-3o.md) podrán acreditar mediante el dictamen de auditores externos certificados por la [Agencia](articulo-3o.md) el cumplimiento de las obligaciones derivadas de las licencias, permisos, registros y autorizaciones, así como de las establecidas en el [Sistema de Administración](articulo-3o.md) a que se refiere esta Ley. Lo anterior, sin perjuicio de las facultades de supervisión e inspección que directamente puede llevar a cabo la Agencia a los Regulados.

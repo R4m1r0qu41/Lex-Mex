@@ -17,7 +17,7 @@ source_sha256: 5a0e15e01ac963917e019e3cc4ad07e96d76cc6c82c8b4238dfbb3a58a146847
 
 # Artículo 70
 
-La persona titular del Ejecutivo Federal puede designar y remover libremente a la persona titular de la Dirección General del Consejo Nacional, quien deberá reunir los siguientes requisitos:
+La persona titular del Ejecutivo Federal puede designar y remover libremente a la persona titular de la Dirección General del [Consejo Nacional](articulo-4.md), quien deberá reunir los siguientes requisitos:
 
 I. Ser persona ciudadana mexicana en pleno ejercicio de sus derechos;
 
@@ -25,4 +25,4 @@ II. Contar con una sólida formación curricular, así como con una trayectoria 
 
 III. Haber realizado destacadas aportaciones teóricas y de incidencia pública o social en materia de humanidades, ciencias, tecnologías o innovación, además de haber participado en actividades de acceso universal al conocimiento humanístico y científico y a sus beneficios sociales, y
 
-IV. No encontrarse en alguno de los impedimentos a que se refiere el artículo [21](../../lfep/markdown/articulo-21.md), fracción III, de la Ley Federal de las Entidades Paraestatales.
+IV. No encontrarse en alguno de los impedimentos a que se refiere el artículo [21](../../lfep/markdown/articulo-21.md), fracción III, de la [Ley](articulo-4.md) Federal de las Entidades Paraestatales.

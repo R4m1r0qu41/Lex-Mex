@@ -19,7 +19,7 @@ source_sha256: ea96e97cbea2fd1919af78b94cd3466ee20a77e05989be2d482d2eb8061618c5
 
 Las atribuciones que en este Título se otorgan al Poder Legislativo, serán ejercidas de forma independiente por conducto de la Cámara de Diputados y de la Cámara de Senadores.
 
-El Poder Legislativo y el Poder Judicial de la Federación, a nombre de la propia Federación, podrán:
+El Poder Legislativo y el Poder Judicial de la [Federación](articulo-2.md), a nombre de la propia Federación, podrán:
 
 I.- Adquirir inmuebles con cargo al presupuesto de egresos que tuvieren autorizado o recibirlos en donación, asignarlos al servicio de sus órganos y administrarlos;
 
@@ -31,4 +31,4 @@ IV.- Implementar un sistema de administración inmobiliaria que permita la admin
 
 V.- Emitir los lineamientos correspondientes para la construcción, reconstrucción, adaptación, conservación, mantenimiento y aprovechamiento de dichos inmuebles.
 
-Tratándose de inmuebles considerados como monumentos históricos o artísticos conforme a la ley de la materia o la declaratoria correspondiente, darán la intervención que corresponda conforme a la legislación aplicable, a la Secretaría de Cultura. Párrafo reformado DOF 17-12-2015
+Tratándose de inmuebles considerados como monumentos históricos o artísticos conforme a la ley de la materia o la declaratoria correspondiente, darán la intervención que corresponda conforme a la legislación aplicable, a la [Secretaría](articulo-2.md) de Cultura. Párrafo reformado DOF 17-12-2015

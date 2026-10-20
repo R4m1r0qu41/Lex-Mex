@@ -17,4 +17,4 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 # Artículo 65
 
-Quienes realicen la Evaluación de la Conformidad utilizarán tecnologías de la información que aseguren de forma fidedigna la identificación de los bienes, productos, procesos y servicios o bien, de la información de los símbolos, embalaje, marcado o etiquetado, o terminología de éstos y, en su caso, sus métodos de producción que cumplan con las Normas Oficiales Mexicanas aplicables, cuando así se requiera conforme a lo dispuesto por los artículos [30](articulo-30.md) y [64](articulo-64.md) de esta Ley.
+Quienes realicen la [Evaluación de la Conformidad](articulo-4.md) utilizarán tecnologías de la información que aseguren de forma fidedigna la identificación de los bienes, productos, procesos y servicios o bien, de la información de los símbolos, embalaje, marcado o etiquetado, o terminología de éstos y, en su caso, sus métodos de producción que cumplan con las [Normas Oficiales Mexicanas](articulo-4.md) aplicables, cuando así se requiera conforme a lo dispuesto por los artículos [30](articulo-30.md) y [64](articulo-64.md) de esta Ley.

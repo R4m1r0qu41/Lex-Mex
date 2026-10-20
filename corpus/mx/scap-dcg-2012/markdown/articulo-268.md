@@ -17,4 +17,4 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 268
 
-El pago de las cuotas deberá realizarse mediante abono o transferencia de recursos a la cuenta del Fondo de Protección que lleve alguna institución de banca de desarrollo. La Sociedad deberá enviar al Comité de Protección al Ahorro Cooperativo copia del comprobante respectivo.
+El pago de las cuotas deberá realizarse mediante abono o transferencia de recursos a la cuenta del [Fondo de Protección](articulo-1.md) que lleve alguna institución de banca de desarrollo. La Sociedad deberá enviar al [Comité de Protección al Ahorro Cooperativo](articulo-1.md) copia del comprobante respectivo.

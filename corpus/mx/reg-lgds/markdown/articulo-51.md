@@ -23,7 +23,7 @@ I. Intercambiar los instrumentos tecnológicos, información y bases de datos ne
 
 II. Diseñar los instrumentos adecuados para la identificación de las personas, hogares o áreas geográficas susceptibles de ser beneficiarios de los programas de desarrollo social a cargo del Gobierno Federal, con base en los resultados de las evaluaciones que realice el Consejo Nacional de Evaluación;
 
-III. Colaborar en la integración de los padrones de beneficiarios tanto del Gobierno Federal como de las Entidades Federativas, en el ámbito de sus respectivas competencias;
+III. Colaborar en la integración de los padrones de beneficiarios tanto del Gobierno Federal como de las [Entidades Federativas](articulo-3.md), en el ámbito de sus respectivas competencias;
 
 IV. Colaborar en la formación de recursos humanos para diseñar, implementar y evaluar programas de desarrollo social;
 

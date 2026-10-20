@@ -15,4 +15,4 @@ source_sha256: ea99e8d1b13b36451e69f865d4aeeca08ce847fb7dcab648e77f65ca88991a8b
 
 # SEGUNDO
 
-El Ejecutivo Federal deberá expedir el Reglamento de la presente Ley dentro de los doce meses siguientes a su entrada en vigor. En tanto, se aplicará de forma supletoria, en lo que no la contravenga, el Reglamento de la Ley sobre Producción, Certificación y Comercio de Semillas, publicado en el Diario Oficial de la Federación el 26 de mayo de 1993.
+El Ejecutivo Federal deberá expedir el Reglamento de la presente Ley dentro de los doce meses siguientes a su entrada en vigor. En tanto, se aplicará de forma supletoria, en lo que no la contravenga, el Reglamento de la Ley sobre Producción, Certificación y Comercio de [Semillas](articulo-3.md), publicado en el Diario Oficial de la Federación el 26 de mayo de 1993.

@@ -21,7 +21,7 @@ Son instrumentos de la política nacional en materia forestal, los siguientes:
 
 I. La Planeación del Desarrollo Forestal;
 
-II. El [Sistema Nacional de Información Forestal](articulo-7.md); Fracción reformada DOF 11-04-2022 III. El Sistema Nacional de Gestión Forestal; Fracción adicionada DOF 11-04-2022
+II. El [Sistema Nacional de Información Forestal](articulo-7.md); Fracción reformada DOF 11-04-2022 III. El [Sistema Nacional de Gestión Forestal](articulo-7.md); Fracción adicionada DOF 11-04-2022
 
 IV. El [Inventario Nacional Forestal y de Suelos](articulo-7.md); Fracción recorrida DOF 11-04-2022
 

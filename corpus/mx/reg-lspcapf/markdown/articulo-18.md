@@ -15,13 +15,13 @@ source_sha256: b4a968d8e8c138ac2069f6afa0dc622178328df24f59cf58eddbab8efe4a7eff
 
 # Artículo 18
 
-Los Comités Técnicos de Selección tendrán, en adición a las que señala la Ley, las siguientes atribuciones:
+Los Comités Técnicos de Selección tendrán, en adición a las que señala la [Ley](articulo-2.md), las siguientes atribuciones:
 
 I. Instruir la integración del expediente del concurso de que se trate;
 
 II. Resolver, dentro del plazo de noventa días naturales posteriores a la publicación de la convocatoria en el Diario Oficial de la Federación, los procedimientos de selección en que intervenga; Fracción reformada DOF 04-01-2024
 
-III. Elaborar y emitir las convocatorias de los cargos a concurso conforme a lo establecido en el Programa Anual de Planeación del Sistema, y Fracción adicionada DOF 04-01-2024
+III. Elaborar y emitir las convocatorias de los cargos a concurso conforme a lo establecido en el [Programa Anual de Planeación del Sistema](articulo-2.md), y Fracción adicionada DOF 04-01-2024
 
 IV. Las demás que señale este reglamento y las disposiciones aplicables al Sistema. Fracción reformada y recorrida DOF 04-01-2024
 

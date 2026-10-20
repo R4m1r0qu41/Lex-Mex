@@ -17,4 +17,4 @@ source_sha256: 8e270686b885035488bfe310b0b42bb40e7154431794227ebe212dd7dc12e46a
 
 # Artículo 87
 
-Se tendrá por no puesta, salvo las excepciones expresamente establecidas en esta Ley, cualquier estipulación contractual que con motivo de la presentación de una solicitud o demanda de concurso mercantil, o de su declaración, establezca modificaciones que agraven para el [Comerciante](articulo-4o.md) los términos de los contratos.
+Se tendrá por no puesta, salvo las excepciones expresamente establecidas en esta [Ley](articulo-4o.md), cualquier estipulación contractual que con motivo de la presentación de una solicitud o demanda de concurso mercantil, o de su declaración, establezca modificaciones que agraven para el [Comerciante](articulo-4o.md) los términos de los contratos.

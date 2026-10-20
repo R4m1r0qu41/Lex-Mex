@@ -18,8 +18,8 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 102 Bis
 
-En la integración de los grupos detallados en el artículo [102 Bis 1](articulo-102-Bis-1.md) de las presentes disposiciones, las Sociedades Financieras Populares deberán considerar las operaciones netas de sus correspondientes estimaciones, contemplando, para tal efecto, que aquellas operaciones que hayan sido deducidas en el capital neto conforme a lo previsto en el Título Cuarto, Capítulo III Bis de estas disposiciones, les será asignado un ponderador de 0 por ciento en su conversión a riesgo de crédito respecto del monto deducido, en tanto el resto de la operación no deducida se ponderará en los grupos de riesgo que corresponda.
+En la integración de los grupos detallados en el artículo [102 Bis 1](articulo-102-Bis-1.md) de las presentes disposiciones, las [Sociedades](articulo-1.md) Financieras Populares deberán considerar las operaciones netas de sus correspondientes estimaciones, contemplando, para tal efecto, que aquellas operaciones que hayan sido deducidas en el capital neto conforme a lo previsto en el Título Cuarto, Capítulo III Bis de estas disposiciones, les será asignado un ponderador de 0 por ciento en su conversión a riesgo de crédito respecto del monto deducido, en tanto el resto de la operación no deducida se ponderará en los grupos de riesgo que corresponda.
 
 Los valores y otros activos computarán netos de las respectivas estimaciones, depreciaciones y castigos.
 
-En la determinación del importe de las operaciones para los efectos de la presente Sección, deberán ser valuadas conforme al Título Cuarto, Capítulo V y a los Criterios Contables contenidos en el Anexo E de las presentes disposiciones.
+En la determinación del importe de las operaciones para los efectos de la presente Sección, deberán ser valuadas conforme al Título Cuarto, Capítulo V y a los [Criterios Contables](articulo-1.md) contenidos en el Anexo E de las presentes disposiciones.

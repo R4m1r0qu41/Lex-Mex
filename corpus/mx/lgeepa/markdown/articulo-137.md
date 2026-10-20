@@ -19,6 +19,6 @@ source_sha256: 0574853d06020030188e8aee1eae5dabb2b476ac630cc52be631a48d2b91adbc
 
 Queda sujeto a la autorización de los Municipios o de la Ciudad de México, conforme a sus leyes locales en la materia y a las normas oficiales mexicanas que resulten aplicables, el funcionamiento de los sistemas de recolección, almacenamiento, transporte, alojamiento, reuso, tratamiento y disposición final de residuos sólidos municipales. Párrafo reformado DOF 19-01-2018
 
-La Secretaría expedirá las normas a que deberán sujetarse los sitios, el diseño, la construcción y la operación de las instalaciones destinadas a la disposición final de residuos sólidos municipales.
+La [Secretaría](articulo-3o.md) expedirá las normas a que deberán sujetarse los sitios, el diseño, la construcción y la operación de las instalaciones destinadas a la disposición final de residuos sólidos municipales.
 
 Artículo reformado DOF 13-12-1996

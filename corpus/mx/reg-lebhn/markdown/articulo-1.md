@@ -17,4 +17,4 @@ source_sha256: 3a86c9bc8afe7162bbcc0c31a28250ca91cfbf2cb6a08deddae0653977ae3d3f
 
 # Artículo 1
 
-Las disposiciones de este reglamento son de orden público, interés social, de observancia obligatoria en todo el territorio nacional, así como en las representaciones de México acreditadas ante gobiernos y organismos internacionales en el extranjero de manera permanente o temporal y tienen por objeto reglamentar la Ley sobre el Escudo, la Bandera y el Himno Nacionales.
+Las disposiciones de este reglamento son de orden público, interés social, de observancia obligatoria en todo el territorio nacional, así como en las representaciones de México acreditadas ante gobiernos y organismos internacionales en el extranjero de manera permanente o temporal y tienen por objeto reglamentar la [Ley](articulo-2.md) sobre el Escudo, la Bandera y el Himno Nacionales.

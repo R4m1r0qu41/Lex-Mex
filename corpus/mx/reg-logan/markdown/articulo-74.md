@@ -21,4 +21,4 @@ Además de lo establecido en los formatos base, las organizaciones al solicitar 
 
 I. Acreditar que cuentan con domicilio social, infraestructura básica y el equipo necesario para prestar los servicios a sus socios, y
 
-II. Para el caso de asociaciones, acreditar que sus socios son ganaderos en términos de la Ley y este Reglamento, presentar los títulos legítimos de los vientres y de la posesión de los terrenos, exhibir su padrón de productores certificado por la Delegación de la Secretaría que corresponda y adjuntar la copia certificada del registro de sus fierros.
+II. Para el caso de asociaciones, acreditar que sus socios son ganaderos en términos de la Ley y este [Reglamento](articulo-2o.md), presentar los títulos legítimos de los vientres y de la posesión de los terrenos, exhibir su padrón de productores certificado por la Delegación de la Secretaría que corresponda y adjuntar la copia certificada del registro de sus fierros.

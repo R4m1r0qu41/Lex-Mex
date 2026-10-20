@@ -17,6 +17,6 @@ source_sha256: 1e7d06c67fac4c8a100d2bb2845cc765fba5e8ce09d27d30b2b44432ffeb8c41
 
 # Artículo 56
 
-Las autoridades de los tres órdenes de gobierno deben garantizar el acceso de las Fiscalías Especializadas a los registros de detenciones.
+Las autoridades de los tres órdenes de gobierno deben garantizar el acceso de las [Fiscalías Especializadas](articulo-5.md) a los registros de detenciones.
 
 Artículo reformado DOF 20-05-2021

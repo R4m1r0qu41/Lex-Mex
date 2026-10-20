@@ -17,9 +17,9 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 290
 
-La solicitud de acreditación deberá cumplir con los requisitos a que se refiere el artículo [277](articulo-277.md) de esta Ley, el Instituto requerirá a la persona interesada, por una única ocasión, para que dentro del plazo de dos meses presente los documentos faltantes. De no cumplir con el requerimiento dentro del plazo señalado, la solicitud será desechada de plano.
+La solicitud de acreditación deberá cumplir con los requisitos a que se refiere el artículo [277](articulo-277.md) de esta [Ley](articulo-4.md), el [Instituto](articulo-4.md) requerirá a la persona interesada, por una única ocasión, para que dentro del plazo de dos meses presente los documentos faltantes. De no cumplir con el requerimiento dentro del plazo señalado, la solicitud será desechada de plano.
 
-Si cumple con los requisitos, el Instituto emitirá en un plazo que no podrá exceder de dos meses, la constancia de acreditación a la persona moral responsable de certificar el cumplimiento de las reglas de uso y publicará en la Gaceta la acreditación respectiva.
+Si cumple con los requisitos, el Instituto emitirá en un plazo que no podrá exceder de dos meses, la constancia de acreditación a la persona moral responsable de certificar el cumplimiento de las reglas de uso y publicará en la [Gaceta](articulo-4.md) la acreditación respectiva.
 
 El Instituto contará con un registro de las personas responsables acreditadas, el cual será público.
 

@@ -17,4 +17,4 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 249
 
-Las bases de la contratación de los seguros adicionales se revisarán cada vez que las prestaciones sean modificadas por los contratos de trabajo, si pueden afectar las referidas bases, a fin de que el Instituto con apoyo en la valuación actuarial de las modificaciones, fije el monto de las nuevas primas y demás modalidades pertinentes.
+Las bases de la contratación de los seguros adicionales se revisarán cada vez que las prestaciones sean modificadas por los contratos de trabajo, si pueden afectar las referidas bases, a fin de que el [Instituto](articulo-5-A.md) con apoyo en la valuación actuarial de las modificaciones, fije el monto de las nuevas primas y demás modalidades pertinentes.

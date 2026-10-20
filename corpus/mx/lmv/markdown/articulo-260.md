@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título IX · Capítulo III
+
 # Artículo 260
 
 La oferta privada, promoción, comercialización y negociación de acciones representativas del capital social de personas morales, no inscritas en el [Registro](articulo-2.md), a través de sistemas de información centralizada que faciliten la realización de dichas actividades, podrá llevarse a cabo por cualquier persona y sin necesidad de obtener autorización de las autoridades financieras, siempre que exclusivamente participen en dichos sistemas y en la negociación de las acciones inversionistas institucionales y calificados. Sin perjuicio de lo anterior, las personas que realicen la oferta deberán notificar a la [Comisión](articulo-2.md), para fines estadísticos, los términos y condiciones de la oferta, dentro de los diez días hábiles siguientes a su realización, así como proporcionar a los interesados en participar la información relevante.

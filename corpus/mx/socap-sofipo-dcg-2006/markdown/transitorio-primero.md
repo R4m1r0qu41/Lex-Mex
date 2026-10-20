@@ -15,4 +15,4 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # PRIMERO
 
-Las presentes disposiciones entrarán en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo por lo que se refiere a los artículos previstos por la Regla Segunda Transitoria siguiente.
+Las presentes disposiciones entrarán en vigor el día siguiente al de su publicación en el Diario Oficial de la [Federación](articulo-1.md), salvo por lo que se refiere a los artículos previstos por la Regla Segunda Transitoria siguiente.

@@ -17,4 +17,4 @@ source_sha256: 4bcc982b308b0813469b30db61b53d5a2c41e5a7240b3b1cac2f1aeeb2c00a2e
 
 # Artículo 171
 
-Se considera pequeño sistema eléctrico en régimen de micro-red al sistema que en términos del artículo [79](../../lse/markdown/articulo-79.md) de la Ley, suministre una demanda no mayor a 5 MW, con fronteras eléctricas claramente definidas y que se comporta como una sola entidad. Se encuentra sujeto a la obtención del permiso de generación de energía eléctrica autoconsumo modalidad aislado.
+Se considera pequeño sistema eléctrico en régimen de micro-red al sistema que en términos del artículo [79](../../lse/markdown/articulo-79.md) de la [Ley](articulo-2.md), suministre una demanda no mayor a 5 MW, con fronteras eléctricas claramente definidas y que se comporta como una sola entidad. Se encuentra sujeto a la obtención del permiso de generación de energía eléctrica autoconsumo modalidad aislado.

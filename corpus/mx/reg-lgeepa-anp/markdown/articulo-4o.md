@@ -17,6 +17,6 @@ source_sha256: 4e276866fce1638948a6daf1a5c0438fa412554f1a6e0381cbdf7cb300e3db75
 
 # Artículo 4o
 
-La administración de las áreas naturales protegidas se efectuará de acuerdo a su categoría de manejo, de conformidad con lo establecido en la Ley, el presente Reglamento, el Decreto de creación, las normas oficiales mexicanas, su programa de manejo y demás disposiciones legales y reglamentarias aplicables.
+La administración de las áreas naturales protegidas se efectuará de acuerdo a su categoría de manejo, de conformidad con lo establecido en la [Ley](articulo-3o.md), el presente Reglamento, el Decreto de creación, las normas oficiales mexicanas, su programa de manejo y demás disposiciones legales y reglamentarias aplicables.
 
-En el caso de parques nacionales que se ubiquen en las zonas marinas mexicanas, la Secretaría y la Secretaría de Marina se coordinarán, atendiendo a sus respectivas competencias, para el establecimiento, administración y vigilancia de los mismos.
+En el caso de parques nacionales que se ubiquen en las zonas marinas mexicanas, la [Secretaría](articulo-3o.md) y la Secretaría de Marina se coordinarán, atendiendo a sus respectivas competencias, para el establecimiento, administración y vigilancia de los mismos.

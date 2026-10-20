@@ -17,7 +17,7 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 # Artículo 144
 
-Si del resultado del primer acto de Verificación, se desprende que el bien, producto, proceso o servicio no cumple con las Normas Oficiales Mexicanas o Estándares que resulten obligatorios, a petición del interesado, la autoridad competente podrá autorizar que se efectúe otro acto de Verificación. Si en ese segundo acto de Verificación se demuestra que el bien, producto, proceso o servicio cumple con la Norma Oficial Mexicana o Estándar obligatorio aplicable, se tendrá por desvirtuado el primer resultado, si no las cumple, se tendrá por confirmado.
+Si del resultado del primer acto de [Verificación](articulo-4.md), se desprende que el bien, producto, proceso o servicio no cumple con las [Normas Oficiales Mexicanas](articulo-4.md) o [Estándares](articulo-4.md) que resulten obligatorios, a petición del interesado, la autoridad competente podrá autorizar que se efectúe otro acto de Verificación. Si en ese segundo acto de Verificación se demuestra que el bien, producto, proceso o servicio cumple con la Norma Oficial Mexicana o Estándar obligatorio aplicable, se tendrá por desvirtuado el primer resultado, si no las cumple, se tendrá por confirmado.
 
 El interesado debe solicitar la segunda verificación dentro del término de cinco días hábiles siguientes a aquél en que se tuvo conocimiento del resultado de la primera verificación. Si no se solicitara quedará firme el resultado de la primera verificación.
 

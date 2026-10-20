@@ -17,4 +17,4 @@ source_sha256: 8e270686b885035488bfe310b0b42bb40e7154431794227ebe212dd7dc12e46a
 
 # Artículo 98
 
-Si se tratare de ventas por entregas, y algunas de éstas se hubieren efectuado sin que hayan sido pagadas, deberán pagarse, lo que será requisito para los efectos del cumplimiento previsto en el [artículo anterior](articulo-97.md) y en el tercer párrafo del artículo [92](articulo-92.md) de esta Ley.
+Si se tratare de ventas por entregas, y algunas de éstas se hubieren efectuado sin que hayan sido pagadas, deberán pagarse, lo que será requisito para los efectos del cumplimiento previsto en el [artículo anterior](articulo-97.md) y en el tercer párrafo del artículo [92](articulo-92.md) de esta [Ley](articulo-4o.md).

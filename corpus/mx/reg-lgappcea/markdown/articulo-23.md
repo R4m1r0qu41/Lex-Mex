@@ -17,4 +17,4 @@ source_sha256: 066103556290f57dca17504bd178aeb645dff97b3a5e05bf4925e9353204e064
 
 # Artículo 23
 
-La operación y funcionamiento de la Comisión estarán sujetos a lo dispuesto en la Ley, la Ley Orgánica de la Administración Pública Federal, la Ley de Planeación, el presente Reglamento y demás disposiciones aplicables.
+La operación y funcionamiento de la Comisión estarán sujetos a lo dispuesto en la [Ley](articulo-2.md), la Ley Orgánica de la Administración Pública Federal, la Ley de Planeación, el presente Reglamento y demás disposiciones aplicables.

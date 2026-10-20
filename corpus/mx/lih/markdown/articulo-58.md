@@ -17,31 +17,31 @@ source_sha256: 8262a75eac7bfb608d4f48657ffb2714fe115d0b9694c42ac81624fd275bf5f6
 
 # Artículo 58
 
-Sin perjuicio de las obligaciones en materia de transparencia derivadas de las disposiciones aplicables, el Fondo Mexicano del Petróleo y la Secretaría deberán hacer pública mensualmente por medios electrónicos y mantener actualizada, en lo que corresponda a sus atribuciones, la siguiente información:
+Sin perjuicio de las obligaciones en materia de transparencia derivadas de las disposiciones aplicables, el [Fondo Mexicano del Petróleo](articulo-3.md) y la [Secretaría](articulo-3.md) deberán hacer pública mensualmente por medios electrónicos y mantener actualizada, en lo que corresponda a sus atribuciones, la siguiente información:
 
-I. Por cada Contrato y de manera agregada:
+I. Por cada [Contrato](articulo-3.md) y de manera agregada:
 
 a) Volumen producido, por tipo de Hidrocarburo; b) Ingresos derivados de la comercialización de los Hidrocarburos que realice el Estado;
 
-c) Monto de las Contraprestaciones pagadas a los Contratistas por Periodo, desagregadas por tipo o concepto de pago;
+c) Monto de las [Contraprestaciones](articulo-3.md) pagadas a los Contratistas por [Periodo](articulo-3.md), desagregadas por tipo o concepto de pago;
 
 d) Ingresos percibidos por el Estado por concepto del pago de Cuotas Contractuales para la Fase Exploratoria;
 
-e) Ingresos percibidos por el Estado por concepto del pago de Regalías;
+e) Ingresos percibidos por el Estado por concepto del pago de [Regalías](articulo-3.md);
 
 f) Ingresos percibidos por el Estado por las Contraprestaciones previstas en los Contratos distintas a las señaladas en los incisos d) y e) anteriores, desagregadas por tipo de Contraprestación;
 
-g) Los precios Contractuales de los Condensados, del Gas Natural y del Petróleo, para cada Periodo;
+g) Los precios Contractuales de los [Condensados](articulo-3.md), del Gas Natural y del Petróleo, para cada Periodo;
 
 h) Monto de los honorarios fiduciarios cobrados por el Fondo Mexicano del Petróleo;
 
-i) Casos en los que se haya aplicado un Mecanismo de Ajuste y el resultado del mismo;
+i) Casos en los que se haya aplicado un [Mecanismo de Ajuste](articulo-3.md) y el resultado del mismo;
 
 j) Montos de inversión reportados por los Contratistas;
 
 k) Las Asignaciones que hayan sido migradas a Contratos en el mes correspondiente, y
 
-l) El pago realizado al Comercializador de cada Contrato que incluya esa figura;
+l) El pago realizado al [Comercializador](articulo-3.md) de cada Contrato que incluya esa figura;
 
 II. Derivado de lo dispuesto en el Título Tercero, por cada una de las áreas definidas en la fracción X del artículo [48](articulo-48.md) de esta Ley: Párrafo reformado DOF 18-03-2025
 

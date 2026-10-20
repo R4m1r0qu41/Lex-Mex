@@ -17,7 +17,7 @@ source_sha256: 0574853d06020030188e8aee1eae5dabb2b476ac630cc52be631a48d2b91adbc
 
 # Artículo 174 BIS
 
-La Secretaría dará a los bienes decomisados alguno de los siguientes destinos:
+La [Secretaría](articulo-3o.md) dará a los bienes decomisados alguno de los siguientes destinos:
 
 I. Venta a través de invitación a cuando menos tres compradores, en aquellos casos en que el valor de lo decomisado no exceda de 5,000 mil veces el salario mínimo general vigente en el Distrito Federal al momento de imponer la sanción. Si dichos invitados no comparecen el día señalado para la venta o sus precios no fueren aceptados, la autoridad podrá proceder a su venta directa; Fracción reformada DOF 31-12-2001
 

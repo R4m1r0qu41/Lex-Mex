@@ -17,6 +17,6 @@ source_sha256: 703f083c0baedfb4ef5ce8b62c78684d8ee0073f393321d476d75ebe4878e1d5
 
 # Artículo 110
 
-La Secretaría determinará los procedimientos de admisión para cada Institución Educativa y Jefaturas de Curso, y fijará las cuotas de personas discentes para el ingreso de las personas aspirantes nacionales y extranjeras.
+La Secretaría determinará los procedimientos de admisión para cada [Institución Educativa](articulo-3.md) y Jefaturas de Curso, y fijará las cuotas de personas discentes para el ingreso de las personas aspirantes nacionales y extranjeras.
 
 Artículo reformado DOF 20-03-2026

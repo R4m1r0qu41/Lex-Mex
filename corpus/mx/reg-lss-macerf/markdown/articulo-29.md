@@ -17,7 +17,7 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 29
 
-El Instituto en términos de la Ley tendrá la facultad de rectificar la clasificación de un patrón cuando:
+El [Instituto](../../lss/markdown/articulo-5-A.md) en términos de la [Ley](../../lss/markdown/articulo-5-A.md) tendrá la facultad de rectificar la clasificación de un patrón cuando:
 
 I. Lo manifestado por el patrón en su inscripción no se ajuste a lo dispuesto en este Reglamento;
 

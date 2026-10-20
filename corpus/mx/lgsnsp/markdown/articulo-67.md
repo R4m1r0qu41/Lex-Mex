@@ -17,4 +17,4 @@ source_sha256: 7f01ee1b1deb901a23976507adccbddefbea50b0fc9a4ddceaf1225d711d50d0
 
 # Artículo 67
 
-El reclutamiento es el proceso a cargo de las Instituciones de Seguridad Pública, mediante el que, a través de convocatorias públicas, se busca y convoca a personas candidatas potencialmente calificadas para ocupar las plazas vacantes dentro de estas.
+El reclutamiento es el proceso a cargo de las [Instituciones de Seguridad Pública](articulo-4.md), mediante el que, a través de convocatorias públicas, se busca y convoca a personas candidatas potencialmente calificadas para ocupar las plazas vacantes dentro de estas.

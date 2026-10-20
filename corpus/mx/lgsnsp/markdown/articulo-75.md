@@ -17,4 +17,4 @@ source_sha256: 7f01ee1b1deb901a23976507adccbddefbea50b0fc9a4ddceaf1225d711d50d0
 
 # Artículo 75
 
-Se considera escala de rangos policiales a la relación que contiene a todas las personas integrantes de las Instituciones Policiales y los ordena en forma descendente de acuerdo con su categoría, jerarquía, división, servicio, antigüedad y demás elementos.
+Se considera escala de rangos policiales a la relación que contiene a todas las personas integrantes de las [Instituciones Policiales](articulo-4.md) y los ordena en forma descendente de acuerdo con su categoría, jerarquía, división, servicio, antigüedad y demás elementos.

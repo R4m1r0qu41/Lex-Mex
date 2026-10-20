@@ -1,0 +1,12 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-3",
+  "instrument_id": "urn:lex-mx:federal:statute:lfll",
+  "source_sha256": "1e1d42f23bc87d8b6c3d094e5b49b4a1cf14cb984956590f7d0b708485fef3fd",
+  "extracted_text_sha256": "2a8296a557d0ccaaa09e0383a57b448a0454cbfa2e72a37a036858210ee7f8eb",
+  "status": "none_detected",
+  "glossaries": [],
+  "imports": [],
+  "term_count": 0,
+  "usage_count": 0
+}

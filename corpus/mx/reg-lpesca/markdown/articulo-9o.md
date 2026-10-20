@@ -17,7 +17,7 @@ source_sha256: e5c0ecb4328043b7090ee5d73e982d6a04410f1330f6fdb350a7a34527eb2e59
 
 # Artículo 9o
 
-Para acreditar la legal disposición de los bienes y equipos necesarios para cumplir con el objeto de la solicitud, los interesados presentarán a la Secretaría la documentación siguiente:
+Para acreditar la legal disposición de los bienes y equipos necesarios para cumplir con el objeto de la solicitud, los interesados presentarán a la [Secretaría](articulo-2o.md) la documentación siguiente:
 
 I. Factura o escritura que ampare la propiedad de los bienes y equipos o, contrato que lo faculte a disponer de los bienes, celebrado con el propietario de éstos, o
 
@@ -33,4 +33,4 @@ d) Características de la embarcación u obra y
 
 e) Fechas de inicio y término de la construcción.
 
-Cuando se esté en el supuesto de la fracción II, la Secretaría podrá, a solicitud del interesado, prorrogar los plazos para el desarrollo del programa de construcción, siempre y cuando éste se haya iniciado y se cumplan con los demás requisitos establecidos en la Ley y el presente Reglamento, en lo relativo a concesiones, permisos o autorizaciones, según corresponda.
+Cuando se esté en el supuesto de la fracción II, la Secretaría podrá, a solicitud del interesado, prorrogar los plazos para el desarrollo del programa de construcción, siempre y cuando éste se haya iniciado y se cumplan con los demás requisitos establecidos en la [Ley](articulo-2o.md) y el presente Reglamento, en lo relativo a concesiones, permisos o autorizaciones, según corresponda.

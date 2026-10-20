@@ -17,6 +17,6 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 223
 
-Aceptada la incorporación, serán aplicables las disposiciones del régimen obligatorio, con las salvedades y modalidades que establezca esta Ley.
+Aceptada la incorporación, serán aplicables las disposiciones del régimen obligatorio, con las salvedades y modalidades que establezca esta [Ley](articulo-5-A.md).
 
 Sólo se perderá la calidad de asegurado si se dejan de tener las características que originaron el aseguramiento.

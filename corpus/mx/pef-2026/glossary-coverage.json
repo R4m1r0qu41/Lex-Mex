@@ -1,0 +1,12 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-3",
+  "instrument_id": "urn:lex-mx:federal:other:pef-2026",
+  "source_sha256": "02bf4543bd8e99d1bb980a3c513749114a6db35ee94a9ce8ef678cf73d95165b",
+  "extracted_text_sha256": "b855516f1b69457a671ca160f8805735e96350e4f0f8c98a7b1e5d9b332e6788",
+  "status": "none_detected",
+  "glossaries": [],
+  "imports": [],
+  "term_count": 0,
+  "usage_count": 0
+}

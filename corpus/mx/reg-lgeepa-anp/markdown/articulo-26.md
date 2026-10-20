@@ -17,4 +17,4 @@ source_sha256: 4e276866fce1638948a6daf1a5c0438fa412554f1a6e0381cbdf7cb300e3db75
 
 # Artículo 26
 
-Cada Consejo Asesor deberá proponer anualmente la agenda de reuniones ordinarias y podrá convocar, a través del Secretario y a petición de sus miembros, reuniones extraordinarias.
+Cada [Consejo](articulo-3o.md) Asesor deberá proponer anualmente la agenda de reuniones ordinarias y podrá convocar, a través del Secretario y a petición de sus miembros, reuniones extraordinarias.

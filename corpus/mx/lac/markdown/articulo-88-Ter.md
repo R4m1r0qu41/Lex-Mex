@@ -13,13 +13,15 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAC.pdf
 source_sha256: 07199878c4f94748c983998437198eb7c645ad76967c444dfe26d50a535d23ae
 ---
 
+> Capítulo XIX
+
 # Artículo 88 Ter
 
 A las instituciones educativas se les impondrán las siguientes sanciones por: Párrafo reformado DOF 03-05-2023
 
 I. Permitir que se realicen vuelos de adiestramiento con más de un alumno, con una multa de quinientas a cinco mil Unidades de Medida y Actualización;
 
-II. Impartir cursos sin contar con un programa de formación o capacitación previamente autorizado por la Agencia Federal de Aviación Civil, multa de mil a cinco mil Unidades de Medida y Actualización; Fracción reformada DOF 03-05-2023
+II. Impartir cursos sin contar con un programa de formación o capacitación previamente autorizado por la [Agencia Federal de Aviación Civil](articulo-2.md), multa de mil a cinco mil Unidades de Medida y Actualización; Fracción reformada DOF 03-05-2023
 
 III. Permitir que las personas alumnas reciban instrucción o realicen prácticas sin contar con el permiso de formación o certificados de aptitud psicofísica, o cuando tales documentos estén vencidos, multa de mil a cinco mil Unidades de Medida y Actualización, y Fracción reformada DOF 03-05-2023
 

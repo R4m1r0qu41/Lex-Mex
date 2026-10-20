@@ -17,10 +17,10 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 89
 
-Las Sociedades deberán mantener un capital neto en relación con los riesgos en que incurran en su operación, el cual no podrá ser inferior a los requerimientos de capital establecidos en esta sección. Para tales efectos, las operaciones deberán ser valuadas conforme a los Criterios de Contabilidad.
+Las Sociedades deberán mantener un capital neto en relación con los riesgos en que incurran en su operación, el cual no podrá ser inferior a los requerimientos de capital establecidos en esta sección. Para tales efectos, las operaciones deberán ser valuadas conforme a los [Criterios de Contabilidad](articulo-1.md).
 
 Se incluirán las operaciones a partir de la fecha en que se concierten, independientemente de la fecha de liquidación, entrega o vigencia, según sea el caso.
 
 Se considerará que se ha transferido la propiedad de un activo, y que por lo tanto este no tendrá requerimientos de capitalización de acuerdo con lo establecido en la presente sección, siempre que la operación cumpla con todas y cada una de las condiciones establecidas para ser reconocida como una venta de activos, en el criterio referente al “Reconocimiento y baja de activos financieros” contenido en los Criterios de Contabilidad.
 
-En caso de operaciones denominadas en UDIS, estas deberán convertirse a moneda nacional aplicando el valor de la UDI publicado por el Banco de México en el Diario Oficial de la Federación, correspondiente a la fecha a la que se estén determinando los requerimientos de capital.
+En caso de operaciones denominadas en UDIS, estas deberán convertirse a moneda nacional aplicando el valor de la [UDI](articulo-1.md) publicado por el Banco de México en el Diario Oficial de la Federación, correspondiente a la fecha a la que se estén determinando los requerimientos de capital.

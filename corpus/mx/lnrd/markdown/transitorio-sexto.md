@@ -15,7 +15,7 @@ source_sha256: 0a9852297132d8972d0c2f77e1b67d614bd296632109065e703bd09254187aea
 
 # Sexto
 
-En el Sistema Nacional de Seguridad Pública se deberán establecer programas para la debida instrumentación del Registro, en los cuales se deberá considerar la implementación gradual de acuerdo a lo siguiente:
+En el Sistema Nacional de Seguridad Pública se deberán establecer programas para la debida instrumentación del [Registro](articulo-2.md), en los cuales se deberá considerar la implementación gradual de acuerdo a lo siguiente:
 
 a) Para el caso de la información referente a los registros de detenciones en materia de delitos federales, en un plazo no mayor a 180 días, contados a partir de la entrada en vigor del presente Decreto.
 

@@ -17,4 +17,4 @@ source_sha256: 7679afbbf32749e0c0bacab72644d41fc6ccdeeab3a2f25dfae8d26a065de01e
 
 # Artículo 38
 
-En los Proyectos para el desarrollo con bienestar bajo el esquema de inversión mixta, el Interesado debe mantener una participación directa o indirecta del capital social, patrimonio fideicomitido, interés de participación o figura equivalente. Se entiende por participación directa la que realiza el Interesado, y por indirecta la que se realiza a través de entidades paraestatales, filiales, fideicomisos, Vehículos de Propósito Específico u otras figuras previstas en esta Ley.
+En los [Proyectos para el desarrollo con bienestar](articulo-4.md) bajo el esquema de inversión mixta, el [Interesado](articulo-4.md) debe mantener una participación directa o indirecta del capital social, patrimonio fideicomitido, interés de participación o figura equivalente. Se entiende por participación directa la que realiza el Interesado, y por indirecta la que se realiza a través de entidades paraestatales, filiales, fideicomisos, [Vehículos de Propósito Específico](articulo-4.md) u otras figuras previstas en esta [Ley](articulo-4.md).

@@ -19,7 +19,7 @@ source_sha256: 01b72308e67d46ba6ca8a6b07fb7584c6a74e905ea0c4b5be5c0c0d32a6d817a
 
 Para los ascensos por promoción, la Secretaría anualmente realizará las siguientes:
 
-I. Promoción de Sargentos Primeros Especialistas: Para las personas militares de esta jerarquía que carece de escuelas de formación de oficiales; Fracción reformada DOF 20-03-2026
+I. Promoción de Sargentos Primeros [Especialistas](articulo-5.md): Para las personas militares de esta jerarquía que carece de escuelas de formación de oficiales; Fracción reformada DOF 20-03-2026
 
 II. Promoción Especial: Para las personas con la jerarquía de Subtenientes de arma, servicio o guardia nacional que cumplan los requisitos de tiempo de servicio, antigüedad en el grado y demás especificados en la Ley y que hayan egresado de instituciones educativas militares que imparten estudios de tipo superior de nivel licenciatura o escuelas de formación de oficiales o hayan obtenido su grado en términos de la fracción III del artículo [9](../../larefam/markdown/articulo-9.md) de la Ley; Fracción reformada DOF 19-08-2011, 20-03-2026
 

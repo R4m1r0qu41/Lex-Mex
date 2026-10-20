@@ -17,4 +17,4 @@ source_sha256: 7b3cf7a0ff59f76503a97a535457c4a7dd3b1305e7a36f4fca82bd661eab1168
 
 # Artículo 37
 
-El procedimiento tiene carácter reservado, por lo que las solicitudes se registrarán en un libro de gobierno especial que se manejará por el personal que para tal efecto designe el juez. No se permitirá el acceso a los expedientes a persona alguna, salvo al secretario del juzgado y a quien se autorice por escrito por parte del Director General del Centro.
+El procedimiento tiene carácter reservado, por lo que las solicitudes se registrarán en un libro de gobierno especial que se manejará por el personal que para tal efecto designe el juez. No se permitirá el acceso a los expedientes a persona alguna, salvo al secretario del juzgado y a quien se autorice por escrito por parte del Director General del [Centro](articulo-6.md).

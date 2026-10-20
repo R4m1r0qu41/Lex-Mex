@@ -17,7 +17,7 @@ source_sha256: 23dcee090bbe0c4fb06c75d084cb65ce0b2e8f72a8d082e7059504412bde1614
 
 # Artículo 13
 
-Toda solicitud se presentará junto con los siguientes documentos: I.- Un informe técnico en el que se detallen las características de la variedad vegetal que se pretende proteger, formulado con base en las guías técnicas o en las normas oficiales mexicanas que expida la Secretaría para cada género y especie;
+Toda solicitud se presentará junto con los siguientes documentos: I.- Un informe técnico en el que se detallen las características de la variedad vegetal que se pretende proteger, formulado con base en las guías técnicas o en las normas oficiales mexicanas que expida la [Secretaría](articulo-2o.md) para cada género y especie;
 
 II.- El comprobante del pago de derechos, y
 

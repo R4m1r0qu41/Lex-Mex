@@ -17,7 +17,7 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 334
 
-Para la comprobación de hechos que puedan constituir violación de alguno o algunos de los derechos que protege esta Ley, o en los procedimientos de declaración administrativa, el Instituto podrá valerse de los medios de prueba que estime necesarios.
+Para la comprobación de hechos que puedan constituir violación de alguno o algunos de los derechos que protege esta [Ley](articulo-4.md), o en los procedimientos de declaración administrativa, el [Instituto](articulo-4.md) podrá valerse de los medios de prueba que estime necesarios.
 
 Cuando la persona titular afectada o la persona presunta infractora hayan presentado las pruebas suficientes a las que razonablemente tengan acceso como base de sus pretensiones y hayan indicado alguna prueba pertinente para la sustentación de dichas pretensiones que esté bajo el control de la parte contraria, el Instituto podrá ordenar a ésta la presentación de dicha prueba, con apego, en su caso, a las condiciones que garanticen la protección de información confidencial. Párrafo reformado DOF 03-04-2026
 

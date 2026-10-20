@@ -17,6 +17,6 @@ source_sha256: 2a105e5201b86ff5517ca1ef8d971224ea8c717f195fdd5fa28b916c7e622e56
 
 # Artículo 6
 
-El Centro es una unidad de la Fiscalía General de la República; con autonomía técnica y operativa en la aplicación de las Medidas de Protección, el cual estará a cargo de un Director, nombrado y removido por el Fiscal.
+El [Centro](articulo-2.md) es una unidad de la [Fiscalía General](articulo-2.md) de la República; con autonomía técnica y operativa en la aplicación de las [Medidas de Protección](articulo-2.md), el cual estará a cargo de un [Director](articulo-2.md), nombrado y removido por el [Fiscal](articulo-2.md).
 
 Artículo reformado DOF 20-05-2021

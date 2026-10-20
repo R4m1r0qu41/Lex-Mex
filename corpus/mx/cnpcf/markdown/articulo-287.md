@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo II
+
 # Artículo 287
 
 Tanto el interrogatorio formulado para el desahogo de la prueba de declaración voluntaria de parte propia y de parte contraria deberá ajustarse a las siguientes reglas:

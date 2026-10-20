@@ -17,4 +17,4 @@ source_sha256: 8e270686b885035488bfe310b0b42bb40e7154431794227ebe212dd7dc12e46a
 
 # Artículo 194
 
-Para efectos de esta Ley, se presumirá que toda la correspondencia que llega al domicilio de la empresa del [Comerciante](articulo-4o.md) es relativa a las operaciones de la misma por lo que el síndico, o en su caso el conciliador, una vez que esté a cargo de la administración, podrá recibirla y abrirla sin que para ello se requiera la presencia o autorización expresa del Comerciante.
+Para efectos de esta [Ley](articulo-4o.md), se presumirá que toda la correspondencia que llega al domicilio de la empresa del [Comerciante](articulo-4o.md) es relativa a las operaciones de la misma por lo que el síndico, o en su caso el conciliador, una vez que esté a cargo de la administración, podrá recibirla y abrirla sin que para ello se requiera la presencia o autorización expresa del Comerciante.

@@ -17,4 +17,4 @@ source_sha256: 0ad7a7b6d7dffd7d9a582d74ebd6fc43e6baa79f71801a73dc70d1b77c414ded
 
 # Artículo 100
 
-Las personas que obtengan el registro de un fierro, marca o tatuaje ante la Secretaría, tendrán el derecho exclusivo de uso sobre el mismo en el municipio o demarcación territorial respectiva. La titularidad de este derecho se acreditará a través del certificado que al efecto expida la Secretaría, en términos de la fracción VII del artículo [60](articulo-60.md) de este Reglamento.
+Las personas que obtengan el registro de un fierro, marca o tatuaje ante la Secretaría, tendrán el derecho exclusivo de uso sobre el mismo en el municipio o demarcación territorial respectiva. La titularidad de este derecho se acreditará a través del certificado que al efecto expida la Secretaría, en términos de la fracción VII del artículo [60](articulo-60.md) de este [Reglamento](articulo-2o.md).

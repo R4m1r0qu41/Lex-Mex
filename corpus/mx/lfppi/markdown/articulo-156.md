@@ -19,7 +19,7 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 Un registro de diseño industrial solo podrá ser declarado nulo en los siguientes casos:
 
-I.- Cuando la materia protegida no pueda ser objeto de un registro de diseño industrial, carezca de novedad o de aplicación industrial, en términos de los artículos [65](articulo-65.md), [66](articulo-66.md) y [67](articulo-67.md) de esta Ley;
+I.- Cuando la materia protegida no pueda ser objeto de un registro de diseño industrial, carezca de novedad o de aplicación industrial, en términos de los artículos [65](articulo-65.md), [66](articulo-66.md) y [67](articulo-67.md) de esta [Ley](articulo-4.md);
 
 II.- Cuando la descripción y representaciones gráficas o fotográficas no permitan la comprensión clara y completa del diseño;
 
@@ -29,8 +29,8 @@ V.- Cuando por error o inadvertencia se haya reconocido un derecho de prioridad 
 
 VI.- Se deroga. Fracción derogada DOF 03-04-2026
 
-Las acciones de nulidad previstas en este artículo podrán ejercerse en cualquier tiempo, a partir de la fecha en que surta efectos la publicación del registro en la Gaceta.
+Las acciones de nulidad previstas en este artículo podrán ejercerse en cualquier tiempo, a partir de la fecha en que surta efectos la publicación del registro en la [Gaceta](articulo-4.md).
 
 Si las causales de nulidad afectan parcialmente al registro de diseño industrial, éste se declarará parcialmente nulo.
 
-En la resolución que declare la nulidad parcial, el Instituto ordenará se asiente en el título respectivo una anotación marginal, en la cual se harán constar las modificaciones a éste, así como las causas que la originaron.
+En la resolución que declare la nulidad parcial, el [Instituto](articulo-4.md) ordenará se asiente en el título respectivo una anotación marginal, en la cual se harán constar las modificaciones a éste, así como las causas que la originaron.

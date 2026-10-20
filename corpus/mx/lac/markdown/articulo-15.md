@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAC.pdf
 source_sha256: 07199878c4f94748c983998437198eb7c645ad76967c444dfe26d50a535d23ae
 ---
 
+> Capítulo III · Sección Tercera
+
 # Artículo 15
 
 Las concesiones o asignaciones se pueden revocar por: Párrafo reformado DOF 03-05-2023
@@ -25,7 +27,7 @@ III. El cambio de nacionalidad de la persona concesionaria; Fracción reformada 
 
 IV. Ceder, hipotecar, gravar, transferir o enajenar las concesiones, o los derechos conferidos en estas a algún Estado extranjero, y en el caso de las asignaciones, transmitir sus derechos y obligaciones a terceras personas físicas o morales privadas; Fracción reformada DOF 03-05-2023
 
-V. Ceder, hipotecar, gravar, transferir o enajenar las concesiones o los derechos conferidos en estas a otros particulares, nacionales o extranjeros, sin autorización de la Secretaría; Fracción reformada DOF 03-05-2023
+V. Ceder, hipotecar, gravar, transferir o enajenar las concesiones o los derechos conferidos en estas a otros particulares, nacionales o extranjeros, sin autorización de la [Secretaría](articulo-2.md); Fracción reformada DOF 03-05-2023
 
 VI. Aplicar tarifas diferentes a las registradas, o en su caso, aprobadas;
 

@@ -17,4 +17,4 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Artículo 154
 
-Las Fiscalías Especializadas pueden otorgar, con apoyo de la Comisión Ejecutiva y de las Comisiones de Víctimas, como medida urgente de protección la reubicación temporal, la protección de inmuebles, la escolta de cuerpos especializados y las demás que se requieran para salvaguardar la vida, integridad y libertad de las personas protegidas a que se refiere el [artículo anterior](articulo-153-Bis.md), conforme a los procedimientos y con las autorizaciones aplicables.
+Las [Fiscalías Especializadas](articulo-4.md) pueden otorgar, con apoyo de la [Comisión Ejecutiva](articulo-4.md) y de las [Comisiones de Víctimas](articulo-4.md), como medida urgente de protección la reubicación temporal, la protección de inmuebles, la escolta de cuerpos especializados y las demás que se requieran para salvaguardar la vida, integridad y libertad de las personas protegidas a que se refiere el [artículo anterior](articulo-153-Bis.md), conforme a los procedimientos y con las autorizaciones aplicables.

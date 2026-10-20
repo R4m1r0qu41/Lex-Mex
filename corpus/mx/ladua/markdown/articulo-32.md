@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf
 source_sha256: 43927095d22ff7bc7780e78132d2160b5050b5f76026b539daec32be09d7341d
 ---
 
+> Título Segundo · Capítulo II
+
 # Artículo 32
 
 Cuando hubiera transcurrido el plazo, que corresponda al supuesto de que se trate, a que se refiere el artículo [29](articulo-29.md) de esta Ley, las autoridades aduaneras, notificarán personalmente a los propietarios, consignatarios o destinatarios de las mercancías, en el domicilio que aparezca en el documento de transporte, que ha transcurrido el plazo de abandono y que cuentan con quince días para retirar las mercancías, previa la comprobación del cumplimiento de las obligaciones en materia de regulaciones y restricciones no arancelarias, así como del pago de los créditos fiscales causados y que, de no hacerlo, se entenderá que han pasado a ser propiedad del Fisco Federal. Párrafo reformado DOF 31-12-1998, 09-12-2013, 19-11-2025

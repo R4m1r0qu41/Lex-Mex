@@ -15,9 +15,9 @@ source_sha256: ea99e8d1b13b36451e69f865d4aeeca08ce847fb7dcab648e77f65ca88991a8b
 
 # TERCERO
 
-Se abroga la Ley sobre Producción, Certificación y Comercio de Semillas, publicada en el Diario Oficial de la Federación el 15 de julio de 1991, así como todas las disposiciones que se opongan a la presente Ley. En consecuencia deberá procederse a la liquidación del Organismo Público Descentralizado denominado Productora Nacional de Semillas, conforme a lo siguiente:
+Se abroga la Ley sobre Producción, Certificación y Comercio de [Semillas](articulo-3.md), publicada en el Diario Oficial de la Federación el 15 de julio de 1991, así como todas las disposiciones que se opongan a la presente Ley. En consecuencia deberá procederse a la liquidación del Organismo Público Descentralizado denominado Productora Nacional de Semillas, conforme a lo siguiente:
 
-a) La Secretaría establecerá las bases para que el proceso de liquidación se lleve a cabo de manera oportuna, eficaz, transparente y con apego a las disposiciones jurídicas aplicables. El proceso de liquidación será vigilado por la propia Secretaría y por la Secretaría de la Función Pública;
+a) La [Secretaría](articulo-3.md) establecerá las bases para que el proceso de liquidación se lleve a cabo de manera oportuna, eficaz, transparente y con apego a las disposiciones jurídicas aplicables. El proceso de liquidación será vigilado por la propia Secretaría y por la Secretaría de la Función Pública;
 
 b) El Servicio de Administración y Enajenación de Bienes será el liquidador de la Productora Nacional de Semillas;
 

@@ -17,7 +17,7 @@ source_sha256: 0574853d06020030188e8aee1eae5dabb2b476ac630cc52be631a48d2b91adbc
 
 # Artículo 111
 
-Para controlar, reducir o evitar la contaminación de la atmósfera, la Secretaría tendrá las siguientes facultades:
+Para controlar, reducir o evitar la contaminación de la atmósfera, la [Secretaría](articulo-3o.md) tendrá las siguientes facultades:
 
 I.- Expedir las normas oficiales mexicanas que establezcan la calidad ambiental de las distintas áreas, zonas o regiones del territorio nacional, con base en los valores de concentración máxima permisible para la salud pública de contaminantes en el ambiente, determinados por la Secretaría de Salud;
 

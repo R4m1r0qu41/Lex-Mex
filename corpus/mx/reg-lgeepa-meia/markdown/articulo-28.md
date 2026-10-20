@@ -17,7 +17,7 @@ source_sha256: c7790df38b773b04e4769459d5fd49cca5b7a5b4955f7618632117275259071f
 
 # Artículo 28
 
-Si el promovente pretende realizar modificaciones al proyecto después de emitida la autorización en materia de impacto ambiental, deberá someterlas a la consideración de la Secretaría, la que, en un plazo no mayor a diez días, determinará:
+Si el promovente pretende realizar modificaciones al proyecto después de emitida la autorización en materia de impacto ambiental, deberá someterlas a la consideración de la [Secretaría](articulo-3o.md), la que, en un plazo no mayor a diez días, determinará:
 
 I. Si es necesaria la presentación de una nueva manifestación de impacto ambiental;
 

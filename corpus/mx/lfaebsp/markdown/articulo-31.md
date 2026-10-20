@@ -17,7 +17,7 @@ source_sha256: 269e72195414406bcbd3e90ac40ec26e031a9ea519316c44ee30bdfdf3163059
 
 # Artículo 31
 
-Los procedimientos de enajenación previstos en esta Ley son de orden público y tienen por objeto enajenar de forma económica, eficaz, imparcial y transparente los Bienes que sean transferidos al Instituto; asegurar las mejores condiciones en la enajenación de los Bienes; obtener el mayor valor de recuperación posible y las mejores condiciones de oportunidad, así como la reducción de los costos de administración y custodia a cargo de las Entidades Transferentes. Párrafo reformado DOF 09-08-2019
+Los procedimientos de enajenación previstos en esta Ley son de orden público y tienen por objeto enajenar de forma económica, eficaz, imparcial y transparente los [Bienes](articulo-2o.md) que sean transferidos al [Instituto](articulo-2o.md); asegurar las mejores condiciones en la enajenación de los Bienes; obtener el mayor valor de recuperación posible y las mejores condiciones de oportunidad, así como la reducción de los costos de administración y custodia a cargo de las [Entidades Transferentes](articulo-2o.md). Párrafo reformado DOF 09-08-2019
 
 Los procedimientos de enajenación serán los siguientes:
 

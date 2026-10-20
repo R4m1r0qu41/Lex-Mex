@@ -17,6 +17,6 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 286-F
 
-Lo dispuesto en este Capítulo sólo será aplicable a los trabajadores de confianza a que se refiere el artículo [256](articulo-256.md) de esta Ley.
+Lo dispuesto en este Capítulo sólo será aplicable a los trabajadores de confianza a que se refiere el artículo [256](articulo-256.md) de esta [Ley](articulo-5-A.md).
 
 Artículo adicionado DOF 20-12-2001

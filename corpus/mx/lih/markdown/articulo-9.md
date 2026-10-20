@@ -17,6 +17,6 @@ source_sha256: 8262a75eac7bfb608d4f48657ffb2714fe115d0b9694c42ac81624fd275bf5f6
 
 # Artículo 9
 
-En la migración de áreas bajo Asignación al esquema de Contrato de licencia en términos de la Ley del Sector Hidrocarburos, la Secretaría debe determinar los términos económicos a que se refiere el apartado A del artículo [6](articulo-6.md) de esta Ley, cuidando que los ingresos a través del tiempo para el Estado no sean inferiores a los que se hubieran obtenido bajo la Asignación original.
+En la migración de áreas bajo Asignación al esquema de [Contrato](articulo-3.md) de licencia en términos de la Ley del Sector Hidrocarburos, la [Secretaría](articulo-3.md) debe determinar los términos económicos a que se refiere el apartado A del artículo [6](articulo-6.md) de esta Ley, cuidando que los ingresos a través del tiempo para el Estado no sean inferiores a los que se hubieran obtenido bajo la Asignación original.
 
 Artículo reformado DOF 18-03-2025

@@ -17,4 +17,4 @@ source_sha256: 716e427a30e9982ccaa0576288aad2ad5305c624b236a0f342b6a87d60b7a9ed
 
 # Artículo 114
 
-Las Partes Sujetas de Obligación o la persona con quien se entienda la diligencia está obligada a permitir al personal autorizado el acceso al lugar, domicilio e instalaciones sujetas a la verificación, en la que se garantice en todo momento la seguridad e integridad física de la persona verificadora designada, así como a proporcionar toda clase de información y documentación en original y copia que conduzca a la verificación del cumplimiento de la Ley, el Reglamento y demás disposiciones aplicables.
+Las Partes Sujetas de Obligación o la persona con quien se entienda la diligencia está obligada a permitir al personal autorizado el acceso al lugar, domicilio e instalaciones sujetas a la verificación, en la que se garantice en todo momento la seguridad e integridad física de la persona verificadora designada, así como a proporcionar toda clase de información y documentación en original y copia que conduzca a la verificación del cumplimiento de la [Ley](articulo-5.md), el [Reglamento](articulo-5.md) y demás disposiciones aplicables.

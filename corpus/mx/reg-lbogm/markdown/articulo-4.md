@@ -17,4 +17,4 @@ source_sha256: 667636f9e0ea65e72ac9d6d7b4d7563a183b75d0f140268a61929c74f5f88041
 
 # Artículo 4
 
-Cuando se realice un trámite ante la Secretaría competente o SALUD, en su caso, se deberá adjuntar copia del pago de derechos, al momento que lo señale la Ley correspondiente.
+Cuando se realice un trámite ante la [Secretaría competente](articulo-2.md) o [SALUD](articulo-2.md), en su caso, se deberá adjuntar copia del pago de derechos, al momento que lo señale la [Ley](articulo-2.md) correspondiente.

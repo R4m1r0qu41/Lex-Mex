@@ -17,7 +17,7 @@ source_sha256: 8e270686b885035488bfe310b0b42bb40e7154431794227ebe212dd7dc12e46a
 
 # Artículo 153
 
-El convenio deberá considerar el pago de los créditos previstos en el artículo [224](articulo-224.md) de esta Ley, de los créditos singularmente privilegiados, y de lo que corresponda, conforme a sus respectivas garantías y privilegios, a los créditos con garantía real y con privilegio especial que no hubieren suscrito el convenio.
+El convenio deberá considerar el pago de los créditos previstos en el artículo [224](articulo-224.md) de esta [Ley](articulo-4o.md), de los créditos singularmente privilegiados, y de lo que corresponda, conforme a sus respectivas garantías y privilegios, a los créditos con garantía real y con privilegio especial que no hubieren suscrito el convenio.
 
 El convenio deberá prever reservas suficientes para el pago de las diferencias que puedan resultar de las impugnaciones que se encuentren pendientes de resolver y de los créditos fiscales por determinar. Tratándose de obligaciones fiscales, el convenio deberá incluir el pago de dichas obligaciones en los términos de las disposiciones aplicables; su incumplimiento dará lugar al procedimiento administrativo de ejecución que corresponda.
 

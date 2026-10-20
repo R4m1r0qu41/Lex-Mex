@@ -17,8 +17,8 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 43
 
-Para que los concesionarios o asignatarios cambien el uso del agua en forma total o parcial, sin modificar el volumen de consumo de agua concesionado o asignado, ni el punto de extracción, ni el sitio de descarga, ni el volumen y la calidad de las aguas residuales, bastará que dentro de los quince días hábiles siguientes a la fecha en que lo hayan hecho presenten aviso a "La Comisión".
+Para que los concesionarios o asignatarios cambien el uso del agua en forma total o parcial, sin modificar el volumen de consumo de agua concesionado o asignado, ni el punto de extracción, ni el sitio de descarga, ni el volumen y la calidad de las aguas residuales, bastará que dentro de los quince días hábiles siguientes a la fecha en que lo hayan hecho presenten aviso a "[La Comisión](articulo-1o.md)".
 
-El aviso se efectuará bajo protesta de decir verdad. En caso de falsedad se procederá a la suspensión o revocación del título, conforme a la "Ley" y el presente "Reglamento", independientemente de la aplicación de las sanciones que correspondan.
+El aviso se efectuará bajo protesta de decir verdad. En caso de falsedad se procederá a la suspensión o revocación del título, conforme a la "[Ley](articulo-1o.md)" y el presente "[Reglamento](articulo-1o.md)", independientemente de la aplicación de las sanciones que correspondan.
 
-El cambio de uso lo inscribirá de oficio "La Comisión" en el "Registro".
+El cambio de uso lo inscribirá de oficio "La Comisión" en el "[Registro](articulo-1o.md)".

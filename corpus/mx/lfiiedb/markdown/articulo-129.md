@@ -17,4 +17,4 @@ source_sha256: 7679afbbf32749e0c0bacab72644d41fc6ccdeeab3a2f25dfae8d26a065de01e
 
 # Artículo 129
 
-Los inmuebles, bienes y derechos de carácter público relacionados con el contrato, permanecerán siempre en control y administración de la Dependencia o Entidad contratante.
+Los inmuebles, bienes y derechos de carácter público relacionados con el contrato, permanecerán siempre en control y administración de la [Dependencia](articulo-4.md) o [Entidad](articulo-4.md) contratante.

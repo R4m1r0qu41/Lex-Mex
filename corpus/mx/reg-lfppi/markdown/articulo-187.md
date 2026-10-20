@@ -17,4 +17,4 @@ source_sha256: 51dd3b9347aab0e63387e02f689edd4fa3ea43a93933a0027f9a9977fffba83d
 
 # Artículo 187
 
-Para acceder a los servicios electrónicos del Instituto correspondientes será necesario que las personas interesadas cuenten con una firma electrónica reconocida por el Instituto, de conformidad con las formalidades que se establezcan en el Acuerdo que se emita para tal efecto por el Instituto.
+Para acceder a los servicios electrónicos del Instituto correspondientes será necesario que las personas interesadas cuenten con una firma electrónica reconocida por el Instituto, de conformidad con las formalidades que se establezcan en el [Acuerdo](articulo-2.md) que se emita para tal efecto por el Instituto.

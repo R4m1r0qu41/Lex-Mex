@@ -19,6 +19,6 @@ source_sha256: cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7
 
 Los defensores, durante el tiempo que desempeñen dicho cargo, no podrán dedicarse al libre ejercicio de la profesión, salvo que se trate de actividades docentes.
 
-En caso de que un asunto represente, en cualquier forma, un conflicto de intereses para el defensor asignado por la Comisión Nacional, aquél deberá excusarse para hacerse cargo del mismo, y solicitar la asignación de otro defensor.
+En caso de que un asunto represente, en cualquier forma, un conflicto de intereses para el defensor asignado por la [Comisión Nacional](articulo-2o.md), aquél deberá excusarse para hacerse cargo del mismo, y solicitar la asignación de otro defensor.
 
 Artículo reformado DOF 30-08-2011

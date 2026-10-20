@@ -17,7 +17,7 @@ source_sha256: 0574853d06020030188e8aee1eae5dabb2b476ac630cc52be631a48d2b91adbc
 
 # Artículo 151
 
-La responsabilidad del manejo y disposición final de los residuos peligrosos corresponde a quien los genera. En el caso de que se contrate los servicios de manejo y disposición final de los residuos peligrosos con empresas autorizadas por la Secretaría y los residuos sean entregados a dichas empresas, la responsabilidad por las operaciones será de éstas independientemente de la responsabilidad que, en su caso, tenga quien los generó.
+La responsabilidad del manejo y disposición final de los residuos peligrosos corresponde a quien los genera. En el caso de que se contrate los servicios de manejo y disposición final de los residuos peligrosos con empresas autorizadas por la [Secretaría](articulo-3o.md) y los residuos sean entregados a dichas empresas, la responsabilidad por las operaciones será de éstas independientemente de la responsabilidad que, en su caso, tenga quien los generó.
 
 Quienes generen, reusen o reciclen residuos peligrosos, deberán hacerlo del conocimiento de la Secretaría en los términos previstos en el Reglamento de la presente Ley.
 

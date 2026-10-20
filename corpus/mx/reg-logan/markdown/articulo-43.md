@@ -23,4 +23,4 @@ En las asociaciones, las unidades de producción colectiva que tengan el caráct
 
 En las asambleas generales que celebren las uniones, se computará un voto por cada delegado propietario asistente; el suplente votará sólo en ausencia del delegado propietario.
 
-Para el caso de la Confederación se computarán dos votos por cada socio a través de sus delegados propietarios; los suplentes votarán sólo en ausencia de los delegados propietarios.
+Para el caso de la [Confederación](articulo-2o.md) se computarán dos votos por cada socio a través de sus delegados propietarios; los suplentes votarán sólo en ausencia de los delegados propietarios.

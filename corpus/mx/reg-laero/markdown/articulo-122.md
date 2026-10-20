@@ -15,6 +15,6 @@ source_sha256: ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776
 
 # Artículo 122
 
-El concesionario o permisionario debe permitir que se instalen y operen los medios de comunicación de radio en banda privada y aeronáutica, así como telefónicos para la coordinación de la operación entre los prestadores de los servicios aeroportuarios, complementarios, de la navegación aérea, los transportistas y operadores aéreos y las autoridades adscritas al aeródromo. Será responsabilidad del que instale y opere dicho medio de comunicación contar con las autorizaciones que correspondan con base en la Ley Federal de Telecomunicaciones.
+El concesionario o permisionario debe permitir que se instalen y operen los medios de comunicación de radio en banda privada y aeronáutica, así como telefónicos para la coordinación de la operación entre los prestadores de los servicios aeroportuarios, complementarios, de la navegación aérea, los transportistas y operadores aéreos y las autoridades adscritas al aeródromo. Será responsabilidad del que instale y opere dicho medio de comunicación contar con las autorizaciones que correspondan con base en la [Ley](articulo-2.md) Federal de Telecomunicaciones.
 
 Los medios de comunicación señalados en el párrafo anterior deben ser compatibles y no interferir con los medios de comunicación del concesionario o permisionario del aeródromo civil u otros servicios, principalmente con los servicios de tránsito aéreo y los relacionados con ellos.

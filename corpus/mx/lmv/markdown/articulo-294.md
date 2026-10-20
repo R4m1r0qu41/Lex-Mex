@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título X · Capítulo I
+
 # Artículo 294
 
 Las instituciones para el depósito de valores deberán formular su reglamento interior, contemplando, al menos, normas aplicables a:
@@ -34,5 +36,3 @@ VII. Los procedimientos aplicables para el caso de incumplimiento de operaciones
 VIII. Las penas convencionales para casos de incumplimiento.
 
 El reglamento y sus modificaciones deberán someterse a la previa autorización de la [Comisión](articulo-2.md) y del Banco de México, los cuales podrán formular observaciones y modificaciones cuando consideren que el reglamento no se ajusta a lo establecido en esta Ley o a los sanos usos y prácticas de mercado.
-
-Sección IV Otras disposiciones

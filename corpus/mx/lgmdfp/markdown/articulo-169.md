@@ -17,4 +17,4 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Artículo 169
 
-Las Instituciones de Seguridad Pública seleccionarán, de conformidad con los procedimientos de evaluación y controles de confianza aplicables, al personal policial que conformará los Grupos de Búsqueda.
+Las [Instituciones de Seguridad Pública](articulo-4.md) seleccionarán, de conformidad con los procedimientos de evaluación y controles de confianza aplicables, al personal policial que conformará los Grupos de Búsqueda.

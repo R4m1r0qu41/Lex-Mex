@@ -17,4 +17,4 @@ source_sha256: 7f01ee1b1deb901a23976507adccbddefbea50b0fc9a4ddceaf1225d711d50d0
 
 # Artículo 126
 
-Las responsabilidades civiles y penales en que incurran las personas servidoras públicas de las Instituciones de Seguridad Pública por el incumplimiento de lo dispuesto en la presente Ley serán determinadas y sancionadas conforme las disposiciones legales aplicables y por las autoridades competentes. Capítulo II Régimen Disciplinario
+Las responsabilidades civiles y penales en que incurran las personas servidoras públicas de las [Instituciones de Seguridad Pública](articulo-4.md) por el incumplimiento de lo dispuesto en la presente [Ley](articulo-4.md) serán determinadas y sancionadas conforme las disposiciones legales aplicables y por las autoridades competentes. Capítulo II Régimen Disciplinario

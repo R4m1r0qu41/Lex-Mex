@@ -17,6 +17,6 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 39-B
 
-Las cédulas de determinación presentadas al Instituto por el patrón, tendrán para éste el carácter de acto vinculatorio.
+Las cédulas de determinación presentadas al [Instituto](articulo-5-A.md) por el patrón, tendrán para éste el carácter de acto vinculatorio.
 
 Artículo adicionado DOF 20-12-2001

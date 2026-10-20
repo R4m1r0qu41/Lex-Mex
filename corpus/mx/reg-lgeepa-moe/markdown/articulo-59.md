@@ -17,7 +17,7 @@ source_sha256: d25fabb2d2e90d9f76028717f83c442d05a4f64024f13461285bda8ebd389a04
 
 # Artículo 59
 
-La Secretaría proporcionará apoyo técnico a las entidades federativas, sus municipios, el Distrito Federal y sus delegaciones, en términos de la legislación aplicable, para la formulación y ejecución de los programas de ordenamiento ecológico de su competencia, mediante la realización, de entre otras, de las siguientes acciones:
+La [Secretaría](articulo-3o.md) proporcionará apoyo técnico a las entidades federativas, sus municipios, el Distrito Federal y sus delegaciones, en términos de la legislación aplicable, para la formulación y ejecución de los programas de ordenamiento ecológico de su competencia, mediante la realización, de entre otras, de las siguientes acciones:
 
 I. Analizar la conveniencia de instrumentar un programa de ordenamiento ecológico conforme al planteamiento que presenten los gobiernos interesados;
 

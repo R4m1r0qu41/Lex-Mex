@@ -17,6 +17,6 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 91
 
-En caso de enfermedad no profesional, el Instituto otorgará al asegurado la asistencia médico quirúrgica, farmacéutica y hospitalaria que sea necesaria, desde el comienzo de la enfermedad y durante el plazo de cincuenta y dos semanas para el mismo padecimiento.
+En caso de enfermedad no profesional, el [Instituto](articulo-5-A.md) otorgará al asegurado la asistencia médico quirúrgica, farmacéutica y hospitalaria que sea necesaria, desde el comienzo de la enfermedad y durante el plazo de cincuenta y dos semanas para el mismo padecimiento.
 
 No se computará en el mencionado plazo, el tiempo que dure el tratamiento curativo que le permita continuar en el trabajo y seguir cubriendo las cuotas correspondientes.

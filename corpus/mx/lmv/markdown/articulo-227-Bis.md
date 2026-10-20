@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título VII
+
 # Artículo 227 Bis
 
 La [Comisión](articulo-2.md), previa audiencia del asesor en inversiones interesado, podrá declarar la cancelación del registro a que se refiere el artículo [225](articulo-225.md) de esta Ley, en los siguientes casos:

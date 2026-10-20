@@ -17,4 +17,4 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Artículo 6
 
-En todo lo no previsto en la presente Ley, son aplicables supletoriamente las disposiciones establecidas en el Código Nacional de Procedimientos Penales, el Código Penal Federal y las legislaciones civiles aplicables, así como la Ley General de Víctimas y los Tratados Internacionales de los que el Estado Mexicano sea parte.
+En todo lo no previsto en la presente Ley, son aplicables supletoriamente las disposiciones establecidas en el Código Nacional de Procedimientos Penales, el Código Penal Federal y las legislaciones civiles aplicables, así como la Ley General de [Víctimas](articulo-4.md) y los [Tratados](articulo-4.md) Internacionales de los que el Estado Mexicano sea parte.

@@ -17,6 +17,6 @@ source_sha256: 160e5e85efddb1749a79f6b154af31711a9b31a5e32bace3c07e2859c2620ecf
 
 # Artículo 119 Bis 7
 
-Los propietarios o poseedores de los establecimientos TIF, estarán obligados a proporcionar las facilidades necesarias para que el SENASICA o terceros acreditados, según corresponda, lleven a cabo su inspección, verificación o certificación.
+Los propietarios o poseedores de los establecimientos TIF, estarán obligados a proporcionar las facilidades necesarias para que el [SENASICA](articulo-4o.md) o terceros acreditados, según corresponda, lleven a cabo su inspección, verificación o certificación.
 
 Artículo adicionado DOF 30-05-2012

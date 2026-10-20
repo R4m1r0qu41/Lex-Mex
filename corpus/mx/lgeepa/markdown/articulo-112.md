@@ -27,7 +27,7 @@ IV.- Integrarán y mantendrán actualizado el inventario de fuentes de contamina
 
 V. Establecerán y operarán sistemas de verificación de emisiones de automotores en circulación;
 
-VI.- Establecerán y operarán, con el apoyo técnico, en su caso, de la Secretaría, sistemas de monitoreo de la calidad del aire. Los gobiernos locales remitirán a la Secretaría los reportes locales de monitoreo atmosférico, a fin de que aquélla los integre al Sistema Nacional de Información Ambiental; Fracción reformada DOF 13-12-1996
+VI.- Establecerán y operarán, con el apoyo técnico, en su caso, de la [Secretaría](articulo-3o.md), sistemas de monitoreo de la calidad del aire. Los gobiernos locales remitirán a la Secretaría los reportes locales de monitoreo atmosférico, a fin de que aquélla los integre al Sistema Nacional de Información Ambiental; Fracción reformada DOF 13-12-1996
 
 VII. Establecerán requisitos y procedimientos para regular las emisiones del transporte público, excepto el federal, y las medidas de tránsito, y en su caso, la suspensión de circulación, en casos graves de contaminación;
 

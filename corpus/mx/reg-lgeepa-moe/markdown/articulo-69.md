@@ -17,13 +17,13 @@ source_sha256: d25fabb2d2e90d9f76028717f83c442d05a4f64024f13461285bda8ebd389a04
 
 # Artículo 69
 
-La Secretaría promoverá que los comités a que hace referencia el [artículo anterior](articulo-68.md) cuenten con las siguientes atribuciones:
+La [Secretaría](articulo-3o.md) promoverá que los comités a que hace referencia el [artículo anterior](articulo-68.md) cuenten con las siguientes atribuciones:
 
 I. Fomentar la articulación del programa de ordenamiento ecológico respectivo con el programa de ordenamiento ecológico general del territorio;
 
-II. Verificar que en los procesos de ordenamiento ecológico, se observe lo establecido en el Capítulo Segundo del presente Reglamento;
+II. Verificar que en los procesos de ordenamiento ecológico, se observe lo establecido en el Capítulo Segundo del presente [Reglamento](articulo-3o.md);
 
-III. Verificar que los resultados del proceso de ordenamiento ecológico se inscriban en la bitácora ambiental, cuando cumplan con los requerimientos que se establezcan en el Subsistema Nacional de Información;
+III. Verificar que los resultados del proceso de ordenamiento ecológico se inscriban en la bitácora ambiental, cuando cumplan con los requerimientos que se establezcan en el [Subsistema](articulo-3o.md) Nacional de Información;
 
 IV. Sugerir la modificación de los planes, los programas y las acciones sectoriales en el área de estudio y la suscripción de los convenios necesarios; y
 

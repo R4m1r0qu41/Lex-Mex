@@ -17,4 +17,4 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 287
 
-Cateo en buques, embarcaciones, aeronaves o cualquier medio de transporte extranjero en territorio mexicano Cuando tenga que practicarse un cateo en buques, embarcaciones, aeronaves o cualquier medio de transporte extranjero en territorio mexicano se observarán además las disposiciones previstas en los Tratados, las leyes y reglamentos aplicables.
+Cateo en buques, embarcaciones, aeronaves o cualquier medio de transporte extranjero en territorio mexicano Cuando tenga que practicarse un cateo en buques, embarcaciones, aeronaves o cualquier medio de transporte extranjero en territorio mexicano se observarán además las disposiciones previstas en los [Tratados](articulo-3o.md), las leyes y reglamentos aplicables.

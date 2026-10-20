@@ -17,10 +17,10 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 # Artículo 54
 
-Solo podrán operar como Organismos de Evaluación de la Conformidad aquéllos que estén acreditados ante una Entidad de Acreditación, para lo cual deberán formular ante la misma su solicitud, y acompañar:
+Solo podrán operar como [Organismos de Evaluación de la Conformidad](articulo-4.md) aquéllos que estén acreditados ante una [Entidad de Acreditación](articulo-4.md), para lo cual deberán formular ante la misma su solicitud, y acompañar:
 
 I. Sus estatutos sociales, con un objeto social suficiente para operar como Organismos de Evaluación de la Conformidad, así como su propuesta de actividades;
 
-II. Señalar el objeto, las Normas Oficiales Mexicanas y, en su caso, los Estándares y Normas Internacionales, u otras disposiciones legales que pretenden evaluar, indicando la materia, sector, rama, campo o actividad respectivos y describir los servicios que pretenden prestar y los procedimientos a utilizar, y
+II. Señalar el objeto, las [Normas Oficiales Mexicanas](articulo-4.md) y, en su caso, los [Estándares](articulo-4.md) y [Normas Internacionales](articulo-4.md), u otras disposiciones legales que pretenden evaluar, indicando la materia, sector, rama, campo o actividad respectivos y describir los servicios que pretenden prestar y los procedimientos a utilizar, y
 
 III. Demostrar que cuentan con la adecuada capacidad jurídica, técnica, administrativa, financiera, material y humana, en relación con los servicios que pretende prestar, así como con los procedimientos de gestión de calidad y técnicos, que garanticen el desempeño de sus funciones.

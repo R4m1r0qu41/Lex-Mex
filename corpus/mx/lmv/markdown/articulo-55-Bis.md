@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título II · Capítulo II
+
 # Artículo 55 Bis
 
 La asamblea de accionistas de las sociedades anónimas bursátiles y de las sociedades anónimas promotoras de inversión bursátil, podrá delegar al consejo de administración, la facultad de aumentar el capital social y de determinar los términos de la suscripción de acciones, incluyendo la exclusión del derecho de suscripción preferente en relación a las emisiones de acciones que sean objeto de delegación.
@@ -22,5 +24,3 @@ En caso de que las acciones emitidas conforme a este artículo se ofrezcan exclu
 Una vez realizada la colocación de las acciones a que se refiere el presente artículo, la emisora solicitará la actualización de su inscripción en el Registro, dentro de los plazos que la [Comisión](articulo-2.md) determine mediante disposiciones de carácter general.
 
 Artículo adicionado DOF 28-12-2023
-
-Sección VI De las operaciones que las sociedades anónimas bursátiles realizan con acciones de su capital social o títulos de crédito que las representen

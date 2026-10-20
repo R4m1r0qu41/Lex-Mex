@@ -1,0 +1,35 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-3",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-loinah",
+  "source_sha256": "36b4431a137649d7b90cf02b8adac914729223824a0d0821f3dd8c3f8274e8db",
+  "extracted_text_sha256": "e6decf51bb203e4ff15b864a8ae251ba7e218d0f9c9ea799568110b7110b7e12",
+  "status": "detected",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:2",
+      "provision_text_sha256": "4b326f9b182e9806844c9c709402593c9057a4a33d1ef16cec241c96c0e9476f",
+      "method": "established_pass",
+      "fractions": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII",
+        "XIII"
+      ],
+      "unread_fractions": [],
+      "term_count": 13
+    }
+  ],
+  "imports": [],
+  "term_count": 13,
+  "usage_count": 510
+}

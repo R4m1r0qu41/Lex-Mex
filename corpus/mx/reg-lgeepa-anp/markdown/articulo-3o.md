@@ -17,7 +17,7 @@ source_sha256: 4e276866fce1638948a6daf1a5c0438fa412554f1a6e0381cbdf7cb300e3db75
 
 # Artículo 3o
 
-Para los efectos de este Reglamento se estará a las definiciones que se contienen en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, así como a las siguientes:
+Para los efectos de este Reglamento se estará a las definiciones que se contienen en la [Ley](articulo-3o.md) General del Equilibrio Ecológico y la Protección al Ambiente, así como a las siguientes:
 
 I.- Administración: Ejecución de actividades y acciones orientadas al cumplimiento de los objetivos de conservación y preservación de las áreas naturales protegidas, a través del manejo, gestión, uso racional de los recursos humanos, materiales y financieros con los que se cuente;
 

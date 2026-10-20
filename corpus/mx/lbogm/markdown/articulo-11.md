@@ -17,7 +17,7 @@ source_sha256: b3c906475b455176de73da17f4f93a73f295965dc9bcca854b48417c7d4d3cfc
 
 # Artículo 11
 
-Corresponde a la SEMARNAT el ejercicio de las siguientes facultades respecto de actividades con todo tipo de OGMs, salvo cuando se trate de OGMs que correspondan a la SAGARPA:
+Corresponde a la [SEMARNAT](articulo-3.md) el ejercicio de las siguientes facultades respecto de actividades con todo tipo de OGMs, salvo cuando se trate de OGMs que correspondan a la [SAGARPA](articulo-3.md):
 
 I. Participar en la formulación y aplicar la política general de bioseguridad;
 
@@ -27,7 +27,7 @@ III. Resolver y expedir permisos para la realización de actividades de liberaci
 
 IV. Realizar el monitoreo de los efectos que pudiera causar la liberación de OGMs, permitida o accidental, al medio ambiente y a la diversidad biológica, de conformidad con lo que dispongan esta Ley y las normas oficiales mexicanas que de ella deriven;
 
-V. Participar en la elaboración y expedición de las listas a que se refiere esta Ley; VI. Suspender los efectos de los permisos, cuando disponga de información científica y técnica de la que se deduzca que la actividad permitida supone riesgos superiores a los previstos, que puedan afectar negativamente al medio ambiente, a la diversidad biológica o a la salud humana o la sanidad animal, vegetal o acuícola. Estos dos últimos supuestos, a solicitud expresa de la SAGARPA o de la SSA, según su competencia conforme a esta Ley, con apoyo en elementos técnicos y científicos;
+V. Participar en la elaboración y expedición de las listas a que se refiere esta Ley; VI. Suspender los efectos de los permisos, cuando disponga de información científica y técnica de la que se deduzca que la actividad permitida supone riesgos superiores a los previstos, que puedan afectar negativamente al medio ambiente, a la diversidad biológica o a la salud humana o la sanidad animal, vegetal o acuícola. Estos dos últimos supuestos, a solicitud expresa de la SAGARPA o de la [SSA](articulo-3.md), según su competencia conforme a esta Ley, con apoyo en elementos técnicos y científicos;
 
 VII. Ordenar y aplicar las medidas de seguridad o de urgente aplicación pertinentes, con bases científicas y técnicas y en el enfoque de precaución, en los términos de esta Ley;
 

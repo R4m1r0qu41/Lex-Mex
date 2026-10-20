@@ -17,4 +17,4 @@ source_sha256: 7679afbbf32749e0c0bacab72644d41fc6ccdeeab3a2f25dfae8d26a065de01e
 
 # Artículo 33
 
-Para la ejecución de los Proyectos Elegibles bajo el esquema de contratación de largo plazo el vehículo correspondiente podrá ejecutar directamente las obras o servicios, o contratar con terceros su realización, de conformidad con la legislación aplicable en materia de contratación pública o cualquier otra que resulte aplicable. La constitución del vehículo no implicará por sí misma autorización de gasto, endeudamiento o garantía por parte del Estado.
+Para la ejecución de los [Proyectos Elegibles](articulo-4.md) bajo el esquema de contratación de largo plazo el vehículo correspondiente podrá ejecutar directamente las obras o servicios, o contratar con terceros su realización, de conformidad con la legislación aplicable en materia de contratación pública o cualquier otra que resulte aplicable. La constitución del vehículo no implicará por sí misma autorización de gasto, endeudamiento o garantía por parte del Estado.

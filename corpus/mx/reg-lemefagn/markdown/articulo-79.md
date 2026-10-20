@@ -23,6 +23,6 @@ I. Aspectos que garanticen la formación del personal discente en los ámbitos m
 
 II. Programas complementarios, en las áreas intelectual, psicomotriz, axiológica y afectiva, que coadyuven en la formación de las personas discentes, y
 
-III. La inclusión de contenidos relacionados con el liderazgo militar, la ética profesional y la legislación militar, desarrollados bajo un enfoque transversal dentro del Sistema, con el fin de fortalecer la formación del liderazgo humanista y ético.
+III. La inclusión de contenidos relacionados con el liderazgo militar, la ética profesional y la legislación militar, desarrollados bajo un enfoque transversal dentro del [Sistema](articulo-3.md), con el fin de fortalecer la formación del liderazgo humanista y ético.
 
 Artículo reformado DOF 20-03-2026

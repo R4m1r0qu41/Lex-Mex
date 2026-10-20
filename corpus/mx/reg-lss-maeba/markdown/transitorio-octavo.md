@@ -15,4 +15,4 @@ source_sha256: 9816ce7f9d6b9b1781eb9935869bd45677c60d721d3352865b6524c2e75db8cd
 
 # OCTAVO
 
-El Instituto a través de la Dirección de Finanzas en un plazo que no podrá exceder de 60 días hábiles contados a partir de la entrada en vigor de este Reglamento, expedirá los criterios para la contabilización de los ingresos que se obtengan de la enajenación; la actualización de los registros contables; los fondos para llevar a cabo la administración y enajenación de los bienes; así como la dispersión de fondos a las cuentas individuales.
+El [Instituto](../../lss/markdown/articulo-5-A.md) a través de la Dirección de Finanzas en un plazo que no podrá exceder de 60 días hábiles contados a partir de la entrada en vigor de este [Reglamento](articulo-2.md), expedirá los criterios para la contabilización de los ingresos que se obtengan de la enajenación; la actualización de los registros contables; los fondos para llevar a cabo la administración y enajenación de los bienes; así como la dispersión de fondos a las cuentas individuales.

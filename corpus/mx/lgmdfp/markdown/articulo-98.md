@@ -17,6 +17,6 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Artículo 98
 
-Las autoridades involucradas en la búsqueda y localización de Personas Desaparecidas o No Localizadas, en el ámbito de sus competencias, deben asegurar la cadena de custodia de la información e indicios, dando vista inmediata a la Fiscalía Especializada para su procesamiento, traslado, análisis y almacenamiento, conforme a lo previsto en el Código Nacional de Procedimientos Penales.
+Las autoridades involucradas en la búsqueda y localización de [Personas Desaparecidas](articulo-4.md) o No Localizadas, en el ámbito de sus competencias, deben asegurar la cadena de custodia de la información e indicios, dando vista inmediata a la [Fiscalía Especializada](articulo-4.md) para su procesamiento, traslado, análisis y almacenamiento, conforme a lo previsto en el Código Nacional de Procedimientos Penales.
 
 El servidor público que incumpla con lo dispuesto en el párrafo anterior, será sancionado conforme a la normativa correspondiente.

@@ -18,7 +18,7 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 17 Bis 45
 
-Las Sociedades requerirán de la autorización de la Comisión, para la contratación con terceros de la prestación de servicios o comisiones, para la realización de un proceso operativo o para la administración de bases de datos, que se proporcionen o ejecuten parcial o totalmente fuera de territorio nacional o por residentes en el extranjero, en todo momento, con independencia de que los procesos de que se trate puedan o no afectar cualitativa o cuantitativamente una o más de las operaciones que realice la Sociedad.
+Las Sociedades requerirán de la autorización de la [Comisión](articulo-1.md), para la contratación con terceros de la prestación de servicios o comisiones, para la realización de un proceso operativo o para la administración de bases de datos, que se proporcionen o ejecuten parcial o totalmente fuera de territorio nacional o por residentes en el extranjero, en todo momento, con independencia de que los procesos de que se trate puedan o no afectar cualitativa o cuantitativamente una o más de las operaciones que realice la Sociedad.
 
 Las Sociedades deberán solicitar la autorización de que se trata a la Comisión, con cuando menos veinte días hábiles de anticipación a la fecha en que pretendan contratar los servicios o la comisión que corresponda, acompañando para tal efecto la documentación que acredite el cumplimiento de los requisitos señalados en el Artículo [17 Bis 35](articulo-17-Bis-35.md) de las presentes disposiciones, y los siguientes:
 
@@ -26,7 +26,7 @@ I. Que los terceros o comisionistas con los que se contrate residan en países c
 
 II. Que las Sociedades manifiesten a la Comisión que mantendrán en sus oficinas principales ubicadas en los Estados Unidos Mexicanos, al menos la documentación e información relativa a las evaluaciones, resultados de auditorías y reportes de desempeño. Asimismo, cuando la Comisión lo requiera deberán proporcionar tal documentación en idioma español.
 
-III. Que se cuente con la aprobación del Consejo de Administración o, en su caso, del Comité de Auditoría o del Comité de Riesgos, haciendo constar en el acuerdo respectivo los aspectos siguientes:
+III. Que se cuente con la aprobación del [Consejo de Administración](articulo-1.md) o, en su caso, del [Comité de Auditoría](articulo-1.md) o del [Comité de Riesgos](articulo-1.md), haciendo constar en el acuerdo respectivo los aspectos siguientes:
 
 a) Que al contratar los servicios o comisiones no se pone en riesgo el adecuado cumplimiento de las disposiciones aplicables a la Sociedad.
 

@@ -17,6 +17,6 @@ source_sha256: 1e7d06c67fac4c8a100d2bb2845cc765fba5e8ce09d27d30b2b44432ffeb8c41
 
 # Artículo 80
 
-Las autoridades responsables de la custodia de los lugares de privación de la libertad deberán otorgar las facilidades necesarias para que el personal del Mecanismo Nacional de Prevención cumpla con su labor libremente y en condiciones de seguridad.
+Las autoridades responsables de la custodia de los lugares de privación de la libertad deberán otorgar las facilidades necesarias para que el personal del [Mecanismo Nacional de Prevención](articulo-5.md) cumpla con su labor libremente y en condiciones de seguridad.
 
-La contravención a lo anterior se sancionará de conformidad a lo establecido en el artículo [31](articulo-31.md) de esta Ley.
+La contravención a lo anterior se sancionará de conformidad a lo establecido en el artículo [31](articulo-31.md) de esta [Ley](articulo-5.md).

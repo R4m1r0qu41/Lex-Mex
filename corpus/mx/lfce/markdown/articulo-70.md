@@ -17,14 +17,14 @@ source_sha256: d0021bbef2e0c3251d6efdea2c1efd9959ff3f02df4bcd1fc37c1ee7826a72ba
 
 # Artículo 70
 
-La Autoridad Investigadora desechará la denuncia por notoriamente improcedente, cuando:
+La [Autoridad Investigadora](articulo-3.md) desechará la denuncia por notoriamente improcedente, cuando:
 
 I. Los hechos denunciados no constituyan violaciones a esta Ley;
 
-II. Sea notorio que el o los Agentes Económicos involucrados no tienen poder sustancial en el mercado relevante, en el caso de denuncias por prácticas monopólicas relativas o concentraciones ilícitas;
+II. Sea notorio que el o los [Agentes Económicos](articulo-3.md) involucrados no tienen poder sustancial en el mercado relevante, en el caso de denuncias por prácticas monopólicas relativas o concentraciones ilícitas;
 
 III. El Agente Económico denunciado y los hechos y condiciones en el mercado relevante que se indiquen, hayan sido materia de una resolución previa en términos de los artículos [83](articulo-83.md), [90](articulo-90.md) y [92](articulo-92.md) de esta Ley, excepto en los casos de información falsa o incumplimiento de condiciones previstas en la propia resolución;
 
-IV. Esté pendiente un procedimiento ante la Comisión referente a los mismos hechos y condiciones en el mercado relevante, después de realizado el emplazamiento al Agente Económico probable responsable, y
+IV. Esté pendiente un procedimiento ante la [Comisión](articulo-3.md) referente a los mismos hechos y condiciones en el mercado relevante, después de realizado el emplazamiento al Agente Económico probable responsable, y
 
 V. Los hechos denunciados se refieran a una concentración notificada en términos del artículo [86](articulo-86.md) de esta Ley, que no haya sido resuelta por la Comisión. Sin embargo, los Agentes Económicos pueden coadyuvar con la Comisión al presentar datos y documentos que consideren pertinentes para que éstos sean tomados en consideración al emitir su resolución. El denunciante no tendrá acceso a la documentación relativa a dicha concentración ni puede impugnar el procedimiento, sin embargo, se le debe notificar el acuerdo que tenga por glosada la información al expediente de concentración.

@@ -17,4 +17,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Artículo 237
 
-El monto destinado a estrategias de Beneficios Sociales Compartidos señalados en el artículo [235](articulo-235.md), fracción IV de este reglamento debe ser igual o mayor al monto asignado a la atención de los Impactos Sociales identificados conforme al artículo [234](articulo-234.md) de este reglamento.
+El monto destinado a estrategias de [Beneficios Sociales Compartidos](articulo-3.md) señalados en el artículo [235](articulo-235.md), fracción IV de este reglamento debe ser igual o mayor al monto asignado a la atención de los [Impactos Sociales](articulo-3.md) identificados conforme al artículo [234](articulo-234.md) de este reglamento.

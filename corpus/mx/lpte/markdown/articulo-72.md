@@ -17,4 +17,4 @@ source_sha256: c24aa3a57883383635d5271683dd76e561f21852328f0e89f6bf1c2a09aa2d41
 
 # Artículo 72
 
-En caso de que la Secretaría determine su conveniencia, los financiamientos referidos en este Capítulo deben ser pagados a través de la factura que la suministradora de electricidad o distribuidora de gas natural haga a cada persona usuaria por la prestación de sus servicios.
+En caso de que la [Secretaría](articulo-3.md) determine su conveniencia, los financiamientos referidos en este Capítulo deben ser pagados a través de la factura que la suministradora de electricidad o distribuidora de gas natural haga a cada persona usuaria por la prestación de sus servicios.

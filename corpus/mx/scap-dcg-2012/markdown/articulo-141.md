@@ -18,6 +18,6 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 141
 
-La Comisión dará a conocer el Nivel de Capitalización de las Sociedades y la fecha a la que corresponde, a través de la red electrónica mundial denominada Internet, en el sitio http://www.cnbv.gob.mx y mediante publicación de la última clasificación disponible en el Boletín Estadístico de Sociedades Cooperativas de Ahorro y Préstamo de la propia Comisión.
+La [Comisión](articulo-1.md) dará a conocer el [Nivel de Capitalización](articulo-1.md) de las Sociedades y la fecha a la que corresponde, a través de la red electrónica mundial denominada Internet, en el sitio http://www.cnbv.gob.mx y mediante publicación de la última clasificación disponible en el Boletín Estadístico de Sociedades Cooperativas de Ahorro y Préstamo de la propia Comisión.
 
 En el evento de que la Comisión no haya recibido de la Sociedad de que se trate la información relativa al cómputo del Nivel de Capitalización, conforme a lo dispuesto por el Artículo [139](articulo-139.md) de estas disposiciones, hará del conocimiento público dicha situación a través del medio a que se refiere el párrafo anterior. Ello, sin perjuicio de las facultades de inspección y vigilancia que ejerza la Comisión, así como de las sanciones que procedan en términos de las disposiciones aplicables.

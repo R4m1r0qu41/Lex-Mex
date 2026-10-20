@@ -17,9 +17,9 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 149
 
-El Comité de Riesgos para el desarrollo de su objeto desempeñará las funciones siguientes:
+El [Comité de Riesgos](articulo-1.md) para el desarrollo de su objeto desempeñará las funciones siguientes:
 
-I. Proponer para aprobación del Consejo de Administración:
+I. Proponer para aprobación del [Consejo de Administración](articulo-1.md):
 
 a) El manual que contenga los objetivos, políticas y procedimientos para la administración integral de riesgos.
 
@@ -33,7 +33,7 @@ a) La metodología para identificar, medir, vigilar, limitar, controlar, informa
 
 b) Los modelos, parámetros y escenarios que habrán de utilizarse para llevar a cabo la medición y el control de los riesgos.
 
-III. Dar opinión al Consejo de Administración sobre la realización de nuevas operaciones, productos o servicios, o bien para modificar los ya existentes, previo cumplimiento a lo establecido en el Artículo 67 de la Ley.
+III. Dar opinión al Consejo de Administración sobre la realización de nuevas operaciones, productos o servicios, o bien para modificar los ya existentes, previo cumplimiento a lo establecido en el Artículo 67 de la [Ley](articulo-1.md).
 
 IV. Designar a la persona que será responsable de la administración integral de riesgos.
 

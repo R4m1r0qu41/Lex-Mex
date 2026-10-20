@@ -17,4 +17,4 @@ source_sha256: aa96853f010885bdf85160e944e5c0ef5c3c8e95422dfede280d228cf064310a
 
 # Artículo 20
 
-Para realizar las actividades de exportación e importación de energía eléctrica se requiere de autorización de la Secretaría.
+Para realizar las actividades de exportación e importación de energía eléctrica se requiere de autorización de la [Secretaría](articulo-3.md).

@@ -17,7 +17,7 @@ source_sha256: b34326588bd6e7519e33411d3658239e3aefb56cef0fae5d775bc894af64a565
 
 # Artículo 80
 
-Las personas interesadas en obtener autorizaciones para llevar a cabo los servicios a terceros para el transporte, acopio, almacenamiento, reutilización, reciclaje, tratamiento y disposición final de residuos, según sea el caso, deberán presentar ante la Secretaría su solicitud de autorización, en donde proporcionen, según corresponda, la siguiente información:
+Las personas interesadas en obtener autorizaciones para llevar a cabo los servicios a terceros para el transporte, acopio, almacenamiento, reutilización, reciclaje, tratamiento y disposición final de residuos, según sea el caso, deberán presentar ante la [Secretaría](articulo-5.md) su solicitud de autorización, en donde proporcionen, según corresponda, la siguiente información:
 
 I. Datos generales de la persona, que incluyan nombre o razón social y domicilio legal;
 
@@ -39,4 +39,4 @@ IX. Propuesta de seguros o garantías financieras que, en su caso, se requieran;
 
 X. Copia de los permisos de la Secretaría de Comunicaciones y Transportes, y
 
-XI. La que determinen el Reglamento de la presente Ley y las normas oficiales mexicanas que resulten aplicables.
+XI. La que determinen el [Reglamento](articulo-5.md) de la presente [Ley](articulo-5.md) y las normas oficiales mexicanas que resulten aplicables.

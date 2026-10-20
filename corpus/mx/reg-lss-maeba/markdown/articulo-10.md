@@ -19,12 +19,12 @@ source_sha256: 9816ce7f9d6b9b1781eb9935869bd45677c60d721d3352865b6524c2e75db8cd
 
 En la entrega de los bienes adjudicados deberán observarse los siguientes aspectos:
 
-I. La Subdelegación presentará a la Jefatura Delegacional de Servicios Administrativos la solicitud de entrega recepción de los bienes en la que se manifieste que se cumple con los requisitos previstos en las disposiciones aplicables;
+I. La [Subdelegación](articulo-2.md) presentará a la Jefatura Delegacional de Servicios Administrativos la solicitud de entrega recepción de los bienes en la que se manifieste que se cumple con los requisitos previstos en las disposiciones aplicables;
 
 II. Cuando del análisis de la solicitud y del expediente respectivo se desprenda la falta de algún requisito o documento necesario, la Jefatura Delegacional de Servicios Administrativos requerirá a la Subdelegación para que proceda en un término de cinco días hábiles a subsanar su solicitud o presentar la información o documentación requerida.
 
 En caso de no atender este requerimiento, la Jefatura Delegacional de Servicios Administrativos no recibirá los bienes, quedando como depositaria la Subdelegación correspondiente;
 
-III. Una vez que se haya verificado que la solicitud respectiva cumple con los requisitos establecidos en este Reglamento, deberá levantarse el acta de entrega recepción de los bienes, y
+III. Una vez que se haya verificado que la solicitud respectiva cumple con los requisitos establecidos en este [Reglamento](articulo-2.md), deberá levantarse el acta de entrega recepción de los bienes, y
 
-IV. Asignar la Clave Única a los bienes de acuerdo a su naturaleza, conforme a los lineamientos que al efecto expida la Dirección de Incorporación y Recaudación del Instituto.
+IV. Asignar la [Clave Única](articulo-2.md) a los bienes de acuerdo a su naturaleza, conforme a los lineamientos que al efecto expida la Dirección de Incorporación y Recaudación del [Instituto](../../lss/markdown/articulo-5-A.md).

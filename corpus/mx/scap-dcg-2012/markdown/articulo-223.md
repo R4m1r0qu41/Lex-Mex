@@ -17,4 +17,4 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 223
 
-Las Sociedades deberán apegarse a las bases técnicas establecidas en el presente capítulo para la Microfilmación o Grabación de los libros, registros y documentos relativos a las operaciones activas, pasivas y de servicios de dichas Sociedades, así como para los demás documentos relacionados con su contabilidad.
+Las Sociedades deberán apegarse a las bases técnicas establecidas en el presente capítulo para la Microfilmación o [Grabación](articulo-1.md) de los libros, registros y documentos relativos a las operaciones activas, pasivas y de servicios de dichas Sociedades, así como para los demás documentos relacionados con su contabilidad.

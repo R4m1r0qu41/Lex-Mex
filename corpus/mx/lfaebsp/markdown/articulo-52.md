@@ -17,6 +17,6 @@ source_sha256: 269e72195414406bcbd3e90ac40ec26e031a9ea519316c44ee30bdfdf3163059
 
 # Artículo 52
 
-El Instituto, de acuerdo con lo dispuesto por el artículo [39](articulo-39.md) de esta Ley, llevará a cabo el procedimiento de subasta pública, electrónica o presencial, el cual deberá efectuarse dentro de los diez días hábiles siguientes a la publicación de la convocatoria.
+El [Instituto](articulo-2o.md), de acuerdo con lo dispuesto por el artículo [39](articulo-39.md) de esta Ley, llevará a cabo el procedimiento de subasta pública, electrónica o presencial, el cual deberá efectuarse dentro de los diez días hábiles siguientes a la publicación de la convocatoria.
 
 Artículo reformado DOF 09-08-2019

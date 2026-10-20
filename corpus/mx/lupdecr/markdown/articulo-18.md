@@ -17,4 +17,4 @@ source_sha256: add375b17749965073df032027c6cafb7883ab25bfae2f13e34ba41b1ff24e88
 
 # Artículo 18
 
-La Cruz Roja Mexicana podrá autorizar, bajo su control, el uso del emblema a personas físicas o morales para señalar los vehículos de transporte sanitarios o los puestos de primeros auxilios, puestos de socorro o centros de asistencia médica, los cuales atiendan y asistan a heridos y enfermos de forma gratuita.
+La [Cruz Roja Mexicana](articulo-3.md) podrá autorizar, bajo su control, el uso del emblema a personas físicas o morales para señalar los vehículos de transporte sanitarios o los puestos de primeros auxilios, puestos de socorro o centros de asistencia médica, los cuales atiendan y asistan a heridos y enfermos de forma gratuita.

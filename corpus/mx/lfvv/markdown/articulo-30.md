@@ -17,9 +17,9 @@ source_sha256: 9ed842aa48bd26aee06dc45bbdbd65efcb32343c78040a5a5d091275bec38343
 
 # Artículo 30
 
-Las funciones del Comité serán las siguientes:
+Las funciones del [Comité](articulo-2o.md) serán las siguientes:
 
-I.- Dictaminar la procedencia de las solicitudes de título de obtentor y su inscripción en el Registro;
+I.- Dictaminar la procedencia de las solicitudes de título de obtentor y su inscripción en el [Registro](articulo-2o.md);
 
 II.- Establecer los procedimientos para la realización y evaluación de pruebas técnicas de campo o de laboratorio;
 

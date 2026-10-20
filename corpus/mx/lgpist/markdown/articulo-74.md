@@ -17,4 +17,4 @@ source_sha256: 1e7d06c67fac4c8a100d2bb2845cc765fba5e8ce09d27d30b2b44432ffeb8c41
 
 # Artículo 74
 
-El Mecanismo Nacional de Prevención contará con los recursos humanos, materiales y financieros necesarios para el aseguramiento de su autonomía presupuestaria de gestión e institucionalidad necesarias para cumplir con la función independiente prevista en esta Ley y en el Protocolo Facultativo de la Convención contra la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes.
+El [Mecanismo Nacional de Prevención](articulo-5.md) contará con los recursos humanos, materiales y financieros necesarios para el aseguramiento de su autonomía presupuestaria de gestión e institucionalidad necesarias para cumplir con la función independiente prevista en esta [Ley](articulo-5.md) y en el Protocolo Facultativo de la Convención contra la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes.

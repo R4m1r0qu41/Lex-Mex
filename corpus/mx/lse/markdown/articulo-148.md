@@ -17,4 +17,4 @@ source_sha256: aa96853f010885bdf85160e944e5c0ef5c3c8e95422dfede280d228cf064310a
 
 # Artículo 148
 
-Corresponde a la Secretaría la emisión de disposiciones de carácter general en materia de Certificados de Energías Limpias, Transición Energética y Descarbonización del sector eléctrico.
+Corresponde a la [Secretaría](articulo-3.md) la emisión de disposiciones de carácter general en materia de [Certificados de Energías Limpias](articulo-3.md), Transición Energética y Descarbonización del sector eléctrico.

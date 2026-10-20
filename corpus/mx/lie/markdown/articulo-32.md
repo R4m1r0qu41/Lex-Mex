@@ -17,7 +17,7 @@ source_sha256: 14cd17e37e96e766c8ab74950c71186d579c0ba6cc10ac9e8b06f6194af7d953
 
 # Artículo 32
 
-Deberán inscribirse en el Registro:
+Deberán inscribirse en el [Registro](articulo-2o.md):
 
 I.- Las sociedades mexicanas en las que participen, incluso a través de fideicomiso:
 

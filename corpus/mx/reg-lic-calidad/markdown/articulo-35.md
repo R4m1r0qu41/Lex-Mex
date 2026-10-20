@@ -17,4 +17,4 @@ source_sha256: d23aedc9ffdb09b9202311f03023241da20445cb45aea855b37bfd9685768861
 
 # Artículo 35
 
-El Secretariado Ejecutivo, además de las previstas en el artículo [23](../../lic-calidad/markdown/articulo-23.md) de la Ley, tiene las siguientes atribuciones: I. Proponer a la Presidencia de la Comisión las medidas que se estimen oportunas para el fomento de la Infraestructura de la Calidad, y II. Las demás que establezcan las disposiciones jurídicas aplicables.
+El Secretariado Ejecutivo, además de las previstas en el artículo [23](../../lic-calidad/markdown/articulo-23.md) de la [Ley](articulo-2.md), tiene las siguientes atribuciones: I. Proponer a la Presidencia de la Comisión las medidas que se estimen oportunas para el fomento de la Infraestructura de la Calidad, y II. Las demás que establezcan las disposiciones jurídicas aplicables.

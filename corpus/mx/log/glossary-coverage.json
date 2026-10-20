@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-3",
+  "instrument_id": "urn:lex-mx:federal:statute:log",
+  "source_sha256": "35e6323676758412d100ff5b3725985ebb07af19c74e1657f9e15151f3b21d8f",
+  "extracted_text_sha256": "ed15ab016b2688adbc388fd0cdc847c329bae2063d45c38139d4d323fcebe747",
+  "status": "held",
+  "glossaries": [],
+  "hold": {
+    "provision_id": "urn:lex-mx:federal:statute:log:article:4",
+    "provision_text_sha256": "72a6f09198e3bab2b748e17560f187b4e21bc1e92f826e45f0204b82a7373f9a",
+    "code": "sequence_break",
+    "message": "fraction II breaks the I, II, III… sequence after the introduction"
+  },
+  "imports": [],
+  "term_count": 0,
+  "usage_count": 0
+}

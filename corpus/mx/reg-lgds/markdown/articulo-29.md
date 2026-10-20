@@ -19,4 +19,4 @@ source_sha256: aca2d65d2eef1b7c26ab431772ce7364305d103f5e4bacc87da02064df005ae3
 
 La Secretaría determinará anualmente las zonas de atención prioritaria, con el propósito de dirigir las acciones más urgentes para superar las marcadas insuficiencias y rezagos en el ejercicio de los derechos para el desarrollo social y fortalecer el desarrollo regional equilibrado.
 
-La Secretaría deberá remitir a la Secretaría de Hacienda y Crédito Público el listado de las zonas de atención prioritaria, a fin de que se presente a la Cámara de Diputados, junto con el Presupuesto de Egresos de la Federación del ejercicio fiscal respectivo, para los efectos del artículo [30](../../lgds/markdown/articulo-30.md) de la Ley.
+La Secretaría deberá remitir a la Secretaría de Hacienda y Crédito Público el listado de las zonas de atención prioritaria, a fin de que se presente a la Cámara de Diputados, junto con el Presupuesto de Egresos de la Federación del ejercicio fiscal respectivo, para los efectos del artículo [30](../../lgds/markdown/articulo-30.md) de la [Ley](articulo-3.md).

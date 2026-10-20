@@ -15,6 +15,6 @@ source_sha256: 51d855a586ad7017a8d8f5c36819a2bd0d3d488f3f4b23594a729418a8b776b4
 
 # CUARTO
 
-La Comisión Ejecutiva realizará las adecuaciones necesarias a su Estatuto Orgánico, conforme a lo establecido en el presente Reglamento, dentro del plazo de sesenta días naturales contados a partir de su entrada en vigor.
+La Comisión Ejecutiva realizará las adecuaciones necesarias a su [Estatuto Orgánico](articulo-3.md), conforme a lo establecido en el presente Reglamento, dentro del plazo de sesenta días naturales contados a partir de su entrada en vigor.
 
-Asimismo, expedirá el Modelo Integral de Atención a Víctimas, así como los lineamientos y disposiciones generales que establece el presente Reglamento dentro del plazo a que se refiere el párrafo anterior.
+Asimismo, expedirá el [Modelo Integral de Atención a Víctimas](articulo-3.md), así como los lineamientos y disposiciones generales que establece el presente Reglamento dentro del plazo a que se refiere el párrafo anterior.

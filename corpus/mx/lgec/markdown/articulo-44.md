@@ -17,6 +17,6 @@ source_sha256: 89220c0c86445a873067e0095b4591c11847dfd11595ca3e11bbfcf09cef6754
 
 # Artículo 44
 
-La persona productora, importadora o el Organismo Coordinador responsable de fuentes de generación o manejo del Producto, o materias reguladas por esta Ley o en el Reglamento debe proporcionar a la Secretaría los informes, o documentos conforme a las obligaciones previstas en la Gestión Circular inscrita en el Registro, dentro del plazo que establecen las disposiciones jurídicas aplicables.
+La persona productora, importadora o el [Organismo Coordinador](articulo-3.md) responsable de fuentes de generación o manejo del [Producto](articulo-3.md), o materias reguladas por esta [Ley](articulo-3.md) o en el [Reglamento](articulo-3.md) debe proporcionar a la [Secretaría](articulo-3.md) los informes, o documentos conforme a las obligaciones previstas en la [Gestión Circular](articulo-3.md) inscrita en el Registro, dentro del plazo que establecen las disposiciones jurídicas aplicables.
 
 En caso de no cumplir con esta obligación se les aplicarán las sanciones administrativas previstas en la Ley General del Equilibrio Ecológico y la Protección al Ambiente.

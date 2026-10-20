@@ -26,7 +26,7 @@ a) Límites de riesgo que la Sociedad está dispuesta a asumir.
 
 b) En su caso, sector económico y zona geográfica en los que la Sociedad podrá celebrar operaciones.
 
-c) Límites de riesgo a cargo de un Socio o grupo de Socios que representen un “Riesgo Común”, de conformidad con lo establecido en el artículo [193 Bis](articulo-193-Bis.md) de las presentes disposiciones.
+c) Límites de riesgo a cargo de un [Socio](articulo-1.md) o grupo de Socios que representen un “Riesgo Común”, de conformidad con lo establecido en el artículo [193 Bis](articulo-193-Bis.md) de las presentes disposiciones.
 
 d) Vigilancia y control efectivo de la naturaleza, características, diversificación y calidad del portafolio de crédito.
 

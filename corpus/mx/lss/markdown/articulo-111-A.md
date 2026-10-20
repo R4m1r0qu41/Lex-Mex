@@ -17,7 +17,7 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 111-A
 
-El Instituto para realizar los registros, anotaciones y certificaciones relativas a la atención a la salud de la población derechohabiente, podrá utilizar medios escritos, electrónicos, magnéticos, ópticos o magneto ópticos para integrar un expediente clínico electrónico único para cada derechohabiente, en las unidades médicas o en cualquier otra instalación que determine el Instituto.
+El [Instituto](articulo-5-A.md) para realizar los registros, anotaciones y certificaciones relativas a la atención a la salud de la población derechohabiente, podrá utilizar medios escritos, electrónicos, magnéticos, ópticos o magneto ópticos para integrar un expediente clínico electrónico único para cada derechohabiente, en las unidades médicas o en cualquier otra instalación que determine el Instituto.
 
 En el expediente clínico electrónico se integrarán los antecedentes de atención que haya recibido el derechohabiente por los servicios prestados de consulta externa, urgencias, hospitalización, auxiliares de diagnóstico y de tratamiento.
 

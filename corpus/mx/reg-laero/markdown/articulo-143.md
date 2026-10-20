@@ -15,11 +15,11 @@ source_sha256: ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776
 
 # Artículo 143
 
-La Secretaría, verificará al término de cada ejercicio fiscal o en cualquier tiempo el cumplimiento en la aplicación de la tarifa máxima conjunta por parte del concesionario o permisionario, conforme a lo siguiente:
+La [Secretaría](articulo-2.md), verificará al término de cada ejercicio fiscal o en cualquier tiempo el cumplimiento en la aplicación de la tarifa máxima conjunta por parte del concesionario o permisionario, conforme a lo siguiente:
 
 I. Se revisará la información financiera del concesionario, permisionario y los prestadores de servicios regulados y elaborada de conformidad con lo señalado en el artículo [182](articulo-182.md) de este Reglamento, sin perjuicio de que al término de cada ejercicio deberán presentar a la Secretaría dentro de los dos meses siguientes los estados financieros auditados por un despacho externo, y
 
-II. Los ingresos totales generados en el aeródromo provenientes de los servicios, arrendamientos y contraprestaciones regulados, correspondientes al periodo que se revise, sin considerar ningún impuesto, se dividirán entre las unidades de tráfico totales del mismo periodo. No se considerarán las operaciones a que se refiere el segundo párrafo del artículo [53](../../laero/markdown/articulo-53.md) de la Ley, los pasajeros y la carga que derive de éstas.
+II. Los ingresos totales generados en el aeródromo provenientes de los servicios, arrendamientos y contraprestaciones regulados, correspondientes al periodo que se revise, sin considerar ningún impuesto, se dividirán entre las unidades de tráfico totales del mismo periodo. No se considerarán las operaciones a que se refiere el segundo párrafo del artículo [53](../../laero/markdown/articulo-53.md) de la [Ley](articulo-2.md), los pasajeros y la carga que derive de éstas.
 
 En los casos en que, una vez realizada la verificación se determine que se devengaron ingresos superiores a la tarifa máxima conjunta establecida, la Secretaría, previa audiencia del interesado, considerando el monto del excedente cobrado y las causas que lo motivaron, ordenará al concesionario o permisionario que adecue las tarifas por servicios y en caso de estimarlo procedente reducirá la tarifa máxima conjunta, sin perjuicio de las sanciones que procedan.
 

@@ -17,6 +17,6 @@ source_sha256: cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7
 
 # Artículo 77
 
-La Comisión Nacional, después de analizar y valorar las pruebas y alegatos aportados por las partes, emitirá un laudo que resolverá la controversia planteada por el Usuario.
+La [Comisión Nacional](articulo-2o.md), después de analizar y valorar las pruebas y alegatos aportados por las partes, emitirá un laudo que resolverá la controversia planteada por el [Usuario](articulo-2o.md).
 
 Artículo reformado DOF 05-01-2000, 10-01-2014

@@ -17,4 +17,4 @@ source_sha256: b34326588bd6e7519e33411d3658239e3aefb56cef0fae5d775bc894af64a565
 
 # Artículo 124
 
-La substanciación del recurso de revisión a que se refiere el [artículo anterior](articulo-123.md) de esta Ley, se sujetará a lo dispuesto en la Ley Federal de Procedimiento Administrativo, en sus preceptos aplicables.
+La substanciación del recurso de revisión a que se refiere el [artículo anterior](articulo-123.md) de esta [Ley](articulo-5.md), se sujetará a lo dispuesto en la Ley Federal de Procedimiento Administrativo, en sus preceptos aplicables.

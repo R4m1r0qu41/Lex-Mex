@@ -17,6 +17,6 @@ source_sha256: d0021bbef2e0c3251d6efdea2c1efd9959ff3f02df4bcd1fc37c1ee7826a72ba
 
 # Artículo 10
 
-La Comisión es un organismo público descentralizado de la Administración Pública Federal, sectorizado a la Secretaría, con personalidad jurídica y patrimonio propio, autonomía de gestión y dotado de independencia técnica y operativa en sus decisiones, organización y funcionamiento; que tiene por objeto garantizar la libre concurrencia y competencia económica en todos los mercados del país, así como prevenir, investigar y combatir los monopolios, las prácticas monopólicas, las concentraciones y demás restricciones al funcionamiento eficiente de los mercados, para lo cual debe desempeñarse de manera profesional e imparcial en sus actuaciones.
+La [Comisión](articulo-3.md) es un organismo público descentralizado de la Administración Pública Federal, sectorizado a la [Secretaría](articulo-3.md), con personalidad jurídica y patrimonio propio, autonomía de gestión y dotado de independencia técnica y operativa en sus decisiones, organización y funcionamiento; que tiene por objeto garantizar la libre concurrencia y competencia económica en todos los mercados del país, así como prevenir, investigar y combatir los monopolios, las prácticas monopólicas, las concentraciones y demás restricciones al funcionamiento eficiente de los mercados, para lo cual debe desempeñarse de manera profesional e imparcial en sus actuaciones.
 
 Artículo reformado DOF 16-07-2025

@@ -41,7 +41,7 @@ XI. Secretaría de Desarrollo Agrario, Territorial y Urbano;
 
 XII. Consejo de Promoción;
 
-XIII. Fondo Nacional de Fomento al Turismo, y
+XIII. Fondo Nacional de Fomento al [Turismo](articulo-2.md), y
 
 XIV. Procuraduría Federal del Consumidor.
 

@@ -17,7 +17,7 @@ source_sha256: d25fabb2d2e90d9f76028717f83c442d05a4f64024f13461285bda8ebd389a04
 
 # Artículo 76
 
-Las recomendaciones y dictámenes técnicos que emita la Procuraduría podrán referirse a:
+Las recomendaciones y dictámenes técnicos que emita la [Procuraduría](articulo-3o.md) podrán referirse a:
 
 I. La congruencia que deben guardar los programas de ordenamiento ecológico entre sí;
 

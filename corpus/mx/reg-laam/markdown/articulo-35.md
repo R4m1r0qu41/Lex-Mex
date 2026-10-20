@@ -17,6 +17,6 @@ source_sha256: 8515c812258bcc7c342e8566ff623c7f5e880f2eb9ee2ad154758077089f11ca
 
 # Artículo 35
 
-La Jefatura de Operaciones, con antelación suficiente, hará del conocimiento de la persona participante la información con que cuenta en sus registros y que se empleará para llevar a cabo el análisis e integración de la misma.
+La [Jefatura de Operaciones](articulo-5.md), con antelación suficiente, hará del conocimiento de la persona participante la información con que cuenta en sus registros y que se empleará para llevar a cabo el análisis e integración de la misma.
 
 Artículo reformado DOF 22-09-2010, 02-04-2026

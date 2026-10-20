@@ -41,6 +41,6 @@ VII. Obras y trabajos que se ejecutarán, uso que se dará al terreno y razones 
 
 VIII. Duración de la ocupación o servidumbre, que no excederá de la vigencia de la concesión.
 
-A la solicitud se acompañará el avalúo practicado a costa del interesado por el INDAABIN, así como, en su caso, la documentación que acredite fehacientemente la conformidad del afectado.
+A la solicitud se acompañará el avalúo practicado a costa del interesado por el [INDAABIN](articulo-1o.md), así como, en su caso, la documentación que acredite fehacientemente la conformidad del afectado.
 
-Las solicitudes de expropiación, se sustanciarán conforme lo previsto en la Ley de Expropiación, o la Ley Agraria si se trata de Bienes Ejidales y Comunales.
+Las solicitudes de expropiación, se sustanciarán conforme lo previsto en la [Ley](articulo-1o.md) de Expropiación, o la Ley Agraria si se trata de Bienes Ejidales y Comunales.

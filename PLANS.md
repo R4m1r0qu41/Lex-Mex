@@ -51,6 +51,16 @@ secrets, transcripts, hidden reasoning, or mutable copies of external state.
 
 ### Active
 
+- [`docs/plans/merged-heading-split.md`](docs/plans/merged-heading-split.md)
+  — Split merged article headings into their own provisions (operator decision
+  2026-10-18); seven clean reparses first, mechanism for the other ten pending.
+
+- [`docs/plans/glossary-detection.md`](docs/plans/glossary-detection.md)
+  — Detect the "se entiende por:" and imported-definition glossaries that
+  currently yield 0 terms (about 100 instruments); originals before imports.
+  G0–G1 landed 2026-10-18 (94 instruments gain terms, 19 held); 12 held after the
+  2026-10-19 reparses, 7 after exception profiles batch 1; G3 imports in progress.
+
 - [`docs/plans/sqlite-corpus-database.md`](docs/plans/sqlite-corpus-database.md)
   — Database-only SQLite/rusqlite projection: pinned inputs, complete provenance,
   FTS, parity checks and reproducible local artifacts; plan ready, build not started.

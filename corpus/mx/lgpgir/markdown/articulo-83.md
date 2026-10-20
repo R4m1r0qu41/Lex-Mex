@@ -17,4 +17,4 @@ source_sha256: b34326588bd6e7519e33411d3658239e3aefb56cef0fae5d775bc894af64a565
 
 # Artículo 83
 
-Tratándose de acopio de residuos peligrosos a los que se hace referencia las fracciones I a XI del artículo [31](articulo-31.md) de este ordenamiento, se estará a lo dispuesto en los planes de manejo, que se registrarán ante la Secretaría y a lo que establezcan las normas oficiales mexicanas correspondientes.
+Tratándose de acopio de residuos peligrosos a los que se hace referencia las fracciones I a XI del artículo [31](articulo-31.md) de este ordenamiento, se estará a lo dispuesto en los planes de manejo, que se registrarán ante la [Secretaría](articulo-5.md) y a lo que establezcan las normas oficiales mexicanas correspondientes.

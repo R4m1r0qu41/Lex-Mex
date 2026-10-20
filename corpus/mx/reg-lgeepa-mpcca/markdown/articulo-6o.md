@@ -17,11 +17,13 @@ source_sha256: cf47ab93fdea40d2b3e41b58784df62f89dd90b4482dd3b7f25adc7f6957036b
 
 # Artículo 6o
 
-Para los efectos de este Reglamento se estará a las definiciones que se contienen en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, así como a las siguientes:
+Para los efectos de este [Reglamento](articulo-6o.md) se estará a las definiciones que se contienen en la [Ley](articulo-6o.md) General del Equilibrio Ecológico y la Protección al Ambiente, así como a las siguientes:
 
 I.- Actividades del Sector Hidrocarburos: Las actividades comprendidas en el artículo [3](../../lansi/markdown/articulo-3o.md)o., fracción XI, de la Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos; Fracción adicionada DOF 31-10-2014
 
-II.- Emisión: La descarga directa o indirecta a la atmósfera de toda sustancia, en cualquiera de sus estados físicos, o de energía; Fracción adicionada DOF 31-10-2014 REGLAMENTO DE LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE EN MATERIA DE PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DE LA ATMÓSFERA III.- Fuente nueva: Aquélla en la que se instale por primera vez un proceso o se modifiquen los existentes; Fracción adicionada DOF 31-10-2014
+II.- Emisión: La descarga directa o indirecta a la atmósfera de toda sustancia, en cualquiera de sus estados físicos, o de energía; Fracción adicionada DOF 31-10-2014
+
+III.- Fuente nueva: Aquélla en la que se instale por primera vez un proceso o se modifiquen los existentes; Fracción adicionada DOF 31-10-2014
 
 IV.- Fuente fija: Toda instalación establecida en un sólo lugar, que tenga como finalidad desarrollar operaciones o procesos industriales, comerciales, de servicios o actividades que generen o puedan generar emisiones contaminantes a la atmósfera; Fracción adicionada DOF 31-10-2014
 
@@ -33,7 +35,7 @@ VII.- Inmisión: La presencia de contaminantes en la atmósfera, a nivel de piso
 
 VIII.- Ley: La Ley General del Equilibrio Ecológico y la Protección al Ambiente; Fracción adicionada DOF 31-10-2014
 
-IX.- Licencia de Funcionamiento: La Licencia Ambiental Única o la autorización que expide la Secretaría para la operación y funcionamiento de las fuentes fijas de jurisdicción federal en términos de lo dispuesto en el artículo [111 Bis](../../lgeepa/markdown/articulo-111-BIS.md) de la Ley. Esta definición comprende a la autorización a que se refiere el artículo [7](../../lansi/markdown/articulo-7o.md)o., fracción II, de la Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos; Fracción adicionada DOF 31-10-2014
+IX.- Licencia de Funcionamiento: La Licencia Ambiental Única o la autorización que expide la [Secretaría](articulo-6o.md) para la operación y funcionamiento de las fuentes fijas de jurisdicción federal en términos de lo dispuesto en el artículo [111 Bis](../../lgeepa/markdown/articulo-111-BIS.md) de la Ley. Esta definición comprende a la autorización a que se refiere el artículo [7](../../lansi/markdown/articulo-7o.md)o., fracción II, de la Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos; Fracción adicionada DOF 31-10-2014
 
 X.- Normas técnicas ecológicas: Las normas oficiales mexicanas; Fracción adicionada DOF 31-10-2014
 

@@ -17,4 +17,4 @@ source_sha256: ea99e8d1b13b36451e69f865d4aeeca08ce847fb7dcab648e77f65ca88991a8b
 
 # Artículo 36
 
-La Secretaría a través del SNICS, podrá verificar y comprobar el cumplimiento de esta Ley, su Reglamento, las Normas Oficiales Mexicanas, Normas Mexicanas, Reglas y Guías que de ella deriven mediante los actos de inspección y vigilancia así como de verificación que considere necesarios, de conformidad con la Ley Federal de Procedimiento Administrativo y la Ley Federal sobre Metrología y Normalización.
+La [Secretaría](articulo-3.md) a través del [SNICS](articulo-3.md), podrá verificar y comprobar el cumplimiento de esta Ley, su Reglamento, las [Normas Oficiales Mexicanas](articulo-3.md), [Normas Mexicanas](articulo-3.md), [Reglas](articulo-3.md) y [Guías](articulo-3.md) que de ella deriven mediante los actos de inspección y vigilancia así como de verificación que considere necesarios, de conformidad con la Ley Federal de Procedimiento Administrativo y la Ley Federal sobre Metrología y Normalización.

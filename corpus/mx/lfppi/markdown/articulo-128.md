@@ -19,7 +19,7 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 Para efectos de este Capítulo, se entenderá por:
 
-I.- Fecha de presentación, aquélla en la que el Instituto reciba la solicitud de patente o la de su entrada en fase nacional;
+I.- Fecha de presentación, aquélla en la que el [Instituto](articulo-4.md) reciba la solicitud de patente o la de su entrada en fase nacional;
 
 II.- Tramitación de una patente, el plazo que transcurre entre la fecha de presentación de la solicitud en México y la de su otorgamiento;
 

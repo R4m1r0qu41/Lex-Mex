@@ -18,4 +18,4 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 255
 
-Los medios de almacenamiento que se usen para la grabación de documentos, deberán garantizar la confidencialidad, integridad y disponibilidad de la información contenida en ellos, tomando en cuenta su tiempo estimado de vida. El formato de los archivos con las imágenes grabadas quedará a la libre elección de la Sociedad Financiera Popular, considerando que éste sea un estándar existente en el mercado tecnológico.
+Los medios de almacenamiento que se usen para la grabación de documentos, deberán garantizar la confidencialidad, integridad y disponibilidad de la información contenida en ellos, tomando en cuenta su tiempo estimado de vida. El formato de los archivos con las imágenes grabadas quedará a la libre elección de la [Sociedad](articulo-1.md) Financiera Popular, considerando que éste sea un estándar existente en el mercado tecnológico.

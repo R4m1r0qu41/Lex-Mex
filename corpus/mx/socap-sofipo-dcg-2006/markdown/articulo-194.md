@@ -18,4 +18,4 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 194
 
-El manual de crédito deberá ser revisado y actualizado por lo menos una vez al año por el Comité de Crédito o su equivalente, en conjunto con el Director o Gerente General y, en su caso, las modificaciones deberán ser sometidas a la autorización del Consejo de Administración, el cual podrá escuchar la opinión del Comité de Auditoría a que se refiere el artículo [183](articulo-183.md) de estas disposiciones.
+El manual de crédito deberá ser revisado y actualizado por lo menos una vez al año por el [Comité de Crédito](articulo-1.md) o su equivalente, en conjunto con el [Director o Gerente General](articulo-1.md) y, en su caso, las modificaciones deberán ser sometidas a la autorización del [Consejo de Administración](articulo-1.md), el cual podrá escuchar la opinión del Comité de Auditoría a que se refiere el artículo [183](articulo-183.md) de estas disposiciones.

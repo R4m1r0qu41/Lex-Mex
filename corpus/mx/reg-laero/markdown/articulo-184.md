@@ -15,7 +15,7 @@ source_sha256: ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776
 
 # Artículo 184
 
-El comandante de aeródromo debe dar aviso a la Secretaría cuando proceda a ordenar la suspensión de la operación del aeródromo o de la prestación de un servicio aeroportuario o complementario, así como de las obras que estuviera realizando, cuando el resultado de la verificación indique: I. Que el aeródromo, el servicio o la obra no reúne las condiciones de seguridad establecidas en la Ley, este Reglamento y las normas aplicables y se pone en riesgo la seguridad de las personas o de la operación de las aeronaves, y
+El comandante de aeródromo debe dar aviso a la [Secretaría](articulo-2.md) cuando proceda a ordenar la suspensión de la operación del aeródromo o de la prestación de un servicio aeroportuario o complementario, así como de las obras que estuviera realizando, cuando el resultado de la verificación indique: I. Que el aeródromo, el servicio o la obra no reúne las condiciones de seguridad establecidas en la [Ley](articulo-2.md), este Reglamento y las normas aplicables y se pone en riesgo la seguridad de las personas o de la operación de las aeronaves, y
 
 II. La existencia de irregularidades en las construcciones o reconstrucciones que puedan poner en peligro la seguridad de personas, bienes u operación del aeródromo.
 

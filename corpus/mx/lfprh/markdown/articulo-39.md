@@ -17,7 +17,7 @@ source_sha256: ce45c7c0c4e9099691e6e24bd2456d0b6f71f91ab27eedd5c4f2190b66d47741
 
 # Artículo 39
 
-La Ley de Ingresos y el [Presupuesto de Egresos](articulo-2.md) serán los que apruebe el Congreso de la Unión, y la Cámara de Diputados, respectivamente, con aplicación durante el periodo de un año, a partir del 1 de enero.
+La [Ley de Ingresos](articulo-2.md) y el [Presupuesto de Egresos](articulo-2.md) serán los que apruebe el Congreso de la Unión, y la Cámara de Diputados, respectivamente, con aplicación durante el periodo de un año, a partir del 1 de enero.
 
 En el Presupuesto de Egresos se aprobarán las previsiones de gasto con un nivel de agregación de ramo y programa. En el caso de las entidades, las previsiones de gasto se aprobarán por flujo de efectivo y programa.
 

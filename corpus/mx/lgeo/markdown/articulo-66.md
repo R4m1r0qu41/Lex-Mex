@@ -17,4 +17,4 @@ source_sha256: 67309bf186af42de0f9e98010d38c89598676faea7f2b558ac9c9e6736d64d35
 
 # Artículo 66
 
-Las resoluciones que dicte la Secretaría con motivo de la aplicación de las disposiciones de la presente Ley y su Reglamento, pueden ser recurridas de conformidad con lo dispuesto en la Ley Federal de Procedimiento Administrativo.
+Las resoluciones que dicte la [Secretaría](articulo-2.md) con motivo de la aplicación de las disposiciones de la presente [Ley](articulo-2.md) y su [Reglamento](articulo-2.md), pueden ser recurridas de conformidad con lo dispuesto en la Ley Federal de Procedimiento Administrativo.

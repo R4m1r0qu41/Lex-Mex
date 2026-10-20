@@ -17,4 +17,4 @@ source_sha256: d23aedc9ffdb09b9202311f03023241da20445cb45aea855b37bfd9685768861
 
 # Artículo 193
 
-Para el Sistema de Metrología, la prestación de los servicios de los Organismos de Evaluación de la Conformidad debe realizarse con instrumentos para medir calibrados por Laboratorios de Calibración o de medición acreditados, y en su caso, aprobados.
+Para el Sistema de Metrología, la prestación de los servicios de los Organismos de Evaluación de la Conformidad debe realizarse con instrumentos para medir calibrados por [Laboratorios](articulo-2.md) de [Calibración](articulo-2.md) o de medición acreditados, y en su caso, aprobados.

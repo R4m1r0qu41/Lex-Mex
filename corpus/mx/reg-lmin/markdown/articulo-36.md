@@ -17,7 +17,7 @@ source_sha256: 4d25bcb022ab62a24462e11a230c9554c0120012913ab4599cd3ec1b2b275c1d
 
 # Artículo 36
 
-La Secretaría podrá exigir a los participantes la exhibición de una garantía de seriedad para cubrir la eventualidad de retiro del concurso con posterioridad a la fecha establecida en las bases para tal efecto. Dicha garantía podrá aplicarse para cubrir, en su caso, las penas convencionales a que se refieren los dos últimos párrafos del artículo [31](articulo-31.md) de este Reglamento.
+La [Secretaría](articulo-1o.md) podrá exigir a los participantes la exhibición de una garantía de seriedad para cubrir la eventualidad de retiro del concurso con posterioridad a la fecha establecida en las bases para tal efecto. Dicha garantía podrá aplicarse para cubrir, en su caso, las penas convencionales a que se refieren los dos últimos párrafos del artículo [31](articulo-31.md) de este Reglamento.
 
 Para efectos del presente artículo, no se podrá exigir un monto para la garantía de seriedad, que exceda del 10% de la contraprestación económica que se señale en las bases correspondientes.
 

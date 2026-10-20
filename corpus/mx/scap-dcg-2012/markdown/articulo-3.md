@@ -18,7 +18,7 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 3
 
-Para efectos de lo dispuesto por la fracción V del Artículo [2](articulo-2.md) de las presentes disposiciones, las Sociedades deberán establecer políticas que les permitan evaluar el historial crediticio de sus Consejeros, Miembros del Consejo de Vigilancia, Director o Gerente General e integrantes del Comité de Crédito, basados en la información que obtengan de las Sociedades de Información Crediticia. Al efecto, dichas políticas tomarán en cuenta, cuando menos:
+Para efectos de lo dispuesto por la fracción V del Artículo [2](articulo-2.md) de las presentes disposiciones, las Sociedades deberán establecer políticas que les permitan evaluar el historial crediticio de sus [Consejeros](articulo-1.md), [Miembros del Consejo de Vigilancia](articulo-1.md), [Director o Gerente General](articulo-1.md) e integrantes del [Comité de Crédito](articulo-1.md), basados en la información que obtengan de las Sociedades de Información Crediticia. Al efecto, dichas políticas tomarán en cuenta, cuando menos:
 
 I. Criterios para valorar el contenido de los informes proporcionados por las Sociedades de Información Crediticia respectivas, que permitan calificar el perfil crediticio del candidato, en el evento de que cuente con adeudos vencidos u otro tipo de antecedentes crediticios que reflejen la generación de quebrantos a terceros o exista evidencia de conductas abusivas en la reestructuración de créditos.
 

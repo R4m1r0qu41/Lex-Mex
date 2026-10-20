@@ -21,6 +21,6 @@ La Comisión podrá crear grupos de trabajo en temas específicos, con carácter
 
 Los grupos de trabajo en temas específicos se conformarán con los servidores públicos que integran a la Comisión y bajo la coordinación que acuerde esta para cada caso.
 
-Los trabajos y sesiones de los grupos de trabajo en temas específicos se llevarán a cabo en los términos que establezca el Reglamento Interno.
+Los trabajos y sesiones de los grupos de trabajo en temas específicos se llevarán a cabo en los términos que establezca el [Reglamento Interno](articulo-2.md).
 
 Los estudios, opiniones e informes que elaboren los grupos de trabajo en temas específicos deberán ser aprobados por la Comisión. REGLAMENTO DE LA LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS

@@ -25,4 +25,4 @@ I. Una descripción detallada de cada uno de los bienes o conjunto de bienes de 
 
 II. Una descripción del procedimiento mediante el cual se propone realizar la enajenación, y
 
-III. Una explicación razonada de la conveniencia de llevar a cabo la enajenación en la forma que se propone y no conforme a lo dispuesto en los artículos [198](articulo-198.md) al [204](articulo-204.md) de esta Ley.
+III. Una explicación razonada de la conveniencia de llevar a cabo la enajenación en la forma que se propone y no conforme a lo dispuesto en los artículos [198](articulo-198.md) al [204](articulo-204.md) de esta [Ley](articulo-4o.md).

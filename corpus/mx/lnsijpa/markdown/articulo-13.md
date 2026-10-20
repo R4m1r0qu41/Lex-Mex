@@ -19,4 +19,4 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 Protección integral de los derechos de la persona adolescente Las personas adolescentes gozan de todos los derechos humanos inherentes a las personas. Les serán garantizadas las oportunidades y facilidades, a fin de asegurarles las mejores condiciones para su desarrollo físico, psicológico y social, en condiciones de dignidad.
 
-Todas las autoridades del Sistema deberán respetar, proteger y garantizar los derechos de las personas adolescentes mientras se encuentren sujetas al mismo.
+Todas las autoridades del [Sistema](articulo-3.md) deberán respetar, proteger y garantizar los derechos de las personas adolescentes mientras se encuentren sujetas al mismo.

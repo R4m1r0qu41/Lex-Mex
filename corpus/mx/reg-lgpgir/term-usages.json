@@ -370,6 +370,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:34-bis:term-usage:112-148",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:34-bis",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:actividades-del-sector-hidrocarburos",
+    "span": "Actividades del Sector Hidrocarburos",
+    "start_char": 112,
+    "end_char": 148
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:34-bis:term-usage:284-294",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:34-bis",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:reglamento",

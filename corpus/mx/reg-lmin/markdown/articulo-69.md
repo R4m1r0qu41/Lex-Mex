@@ -17,7 +17,7 @@ source_sha256: 4d25bcb022ab62a24462e11a230c9554c0120012913ab4599cd3ec1b2b275c1d
 
 # Artículo 69
 
-Los concesionarios deberán entregar a la Secretaría el informe contable al que hace referencia la fracción VII del artículo [27](../../lmin/markdown/articulo-27.md) de la Ley, cuando en ejercicio de las facultades de verificación del cumplimiento de las obligaciones enunciadas en dicho artículo, le sea requerido por la Secretaría. Dicho informe deberá contener:
+Los concesionarios deberán entregar a la [Secretaría](articulo-1o.md) el informe contable al que hace referencia la fracción VII del artículo [27](../../lmin/markdown/articulo-27.md) de la [Ley](articulo-1o.md), cuando en ejercicio de las facultades de verificación del cumplimiento de las obligaciones enunciadas en dicho artículo, le sea requerido por la Secretaría. Dicho informe deberá contener:
 
 I. Nombre del titular de la concesión o de quien lleve a cabo las obras y trabajos mineros mediante contrato;
 

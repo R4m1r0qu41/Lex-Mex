@@ -17,8 +17,8 @@ source_sha256: 51d855a586ad7017a8d8f5c36819a2bd0d3d488f3f4b23594a729418a8b776b4
 
 # Artículo 40
 
-En el ejercicio de sus funciones, los Comités tomarán en cuenta la información que se genere en la plataforma a cargo del Registro.
+En el ejercicio de sus funciones, los [Comités](articulo-3.md) tomarán en cuenta la información que se genere en la plataforma a cargo del Registro.
 
 Los Comités serán coordinados por los Comisionados de conformidad con lo que determine el Pleno de la Comisión Ejecutiva.
 
-El Comité Interdisciplinario Evaluador realizará las funciones técnicas que establecen este Reglamento y el Estatuto Orgánico. Los Comisionados no formarán parte de los Comités.
+El Comité Interdisciplinario Evaluador realizará las funciones técnicas que establecen este Reglamento y el [Estatuto Orgánico](articulo-3.md). Los Comisionados no formarán parte de los Comités.

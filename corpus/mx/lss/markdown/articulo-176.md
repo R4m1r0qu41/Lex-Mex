@@ -19,4 +19,4 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 El trabajador asegurado tendrá, en los términos de las leyes respectivas, el derecho de elegir a la Administradora de Fondos para el Retiro que operará su cuenta individual.
 
-La Ley para la Coordinación de los Sistemas de Ahorro para el Retiro determinará los mecanismos, procedimientos y términos aplicables a los recursos de las cuentas individuales de aquellos trabajadores que no elijan la Administradora de Fondos para el Retiro que deba operar sus respectivas cuentas.
+La [Ley](articulo-5-A.md) para la Coordinación de los Sistemas de Ahorro para el Retiro determinará los mecanismos, procedimientos y términos aplicables a los recursos de las cuentas individuales de aquellos trabajadores que no elijan la Administradora de Fondos para el Retiro que deba operar sus respectivas cuentas.

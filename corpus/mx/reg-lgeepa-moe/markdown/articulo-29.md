@@ -17,6 +17,6 @@ source_sha256: d25fabb2d2e90d9f76028717f83c442d05a4f64024f13461285bda8ebd389a04
 
 # Artículo 29
 
-Previo a que sea sometido a consideración del Titular del Ejecutivo Federal, el programa de ordenamiento ecológico general del territorio será opinado por el grupo de trabajo intersecretarial señalado en el artículo [20](articulo-20.md) de este Reglamento. Los comentarios que en su caso tuvieran las dependencias y entidades miembros de dicho grupo, se emitirán en términos de las reglas de funcionamiento del grupo de trabajo intersecretarial.
+Previo a que sea sometido a consideración del Titular del Ejecutivo Federal, el programa de ordenamiento ecológico general del territorio será opinado por el grupo de trabajo intersecretarial señalado en el artículo [20](articulo-20.md) de este [Reglamento](articulo-3o.md). Los comentarios que en su caso tuvieran las dependencias y entidades miembros de dicho grupo, se emitirán en términos de las reglas de funcionamiento del grupo de trabajo intersecretarial.
 
 Artículo reformado DOF 28-09-2010

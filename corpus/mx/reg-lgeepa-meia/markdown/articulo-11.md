@@ -21,7 +21,7 @@ Las manifestaciones de impacto ambiental se presentarán en la modalidad regiona
 
 I. Parques industriales y acuícolas, granjas acuícolas de más de 500 hectáreas, carreteras y vías férreas, proyectos de generación de energía nuclear, presas y, en general, proyectos que alteren las cuencas hidrológicas;
 
-II. Un conjunto de obras o actividades que se encuentren incluidas en un plan o programa parcial de desarrollo urbano o de ordenamiento ecológico que sea sometido a consideración de la Secretaría en los términos previstos por el artículo [22](articulo-22.md) de este reglamento;
+II. Un conjunto de obras o actividades que se encuentren incluidas en un plan o programa parcial de desarrollo urbano o de ordenamiento ecológico que sea sometido a consideración de la [Secretaría](articulo-3o.md) en los términos previstos por el artículo [22](articulo-22.md) de este reglamento;
 
 III. Un conjunto de proyectos de obras y actividades que pretendan realizarse en una región ecológica determinada, y
 

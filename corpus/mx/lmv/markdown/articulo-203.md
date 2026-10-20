@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título VI · Capítulo II
+
 # Artículo 203
 
 Las casas de bolsa deberán enviar a sus clientes, dentro de los primeros cinco días hábiles posteriores al corte mensual, un estado de cuenta autorizado con la relación de todas las operaciones realizadas que refleje la posición de valores de dichos clientes al último día del corte mensual, así como la posición de valores del corte mensual anterior. Asimismo, deberá contener la demás información que la [Comisión](articulo-2.md) determine mediante disposiciones de carácter general. Párrafo reformado DOF 10-01-2014

@@ -27,7 +27,7 @@ Cuando el acto denunciado no requiera ejecución material se tramitará ante el 
 
 El juez o jueza de distrito dará vista a las partes para que en un plazo de tres días expongan lo que a su derecho convenga. Párrafo reformado DOF 13-03-2025
 
-Transcurrido este plazo, dictará resolución dentro de los tres días siguientes. Si fuere en el sentido de que se aplicó la norma general inconstitucional, ordenará a la autoridad aplicadora LEY DE AMPARO, REGLAMENTARIA DE LOS ARTÍCULOS [103](../../cpeum/markdown/articulo-103.md) Y [107](../../cpeum/markdown/articulo-107.md) DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS que deje sin efectos el acto denunciado y de no hacerlo en tres días se estará a lo que disponen los artículos [192](articulo-192.md) al [198](articulo-198.md) de esta Ley en lo conducente. Si fuere en el sentido de que no se aplicó, la resolución podrá impugnarse mediante el recurso de inconformidad;
+Transcurrido este plazo, dictará resolución dentro de los tres días siguientes. Si fuere en el sentido de que se aplicó la norma general inconstitucional, ordenará a la autoridad aplicadora que deje sin efectos el acto denunciado y de no hacerlo en tres días se estará a lo que disponen los artículos [192](articulo-192.md) al [198](articulo-198.md) de esta Ley en lo conducente. Si fuere en el sentido de que no se aplicó, la resolución podrá impugnarse mediante el recurso de inconformidad;
 
 II. Si con posterioridad la autoridad aplicadora o en su caso la sustituta incurrieran de nueva cuenta en aplicar la norma general declarada inconstitucional, el denunciante podrá combatir dicho acto a través del procedimiento de denuncia de repetición del acto reclamado previsto por el Capítulo II del Título Tercero de esta Ley.
 

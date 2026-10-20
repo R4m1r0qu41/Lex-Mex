@@ -17,6 +17,6 @@ source_sha256: b34326588bd6e7519e33411d3658239e3aefb56cef0fae5d775bc894af64a565
 
 # Artículo 20
 
-La clasificación de los residuos sólidos urbanos y de manejo especial, sujetos a planes de manejo se llevará a cabo de conformidad con los criterios que se establezcan en las normas oficiales mexicanas que contendrán los listados de los mismos y cuya emisión estará a cargo de la Secretaría.
+La clasificación de los residuos sólidos urbanos y de manejo especial, sujetos a planes de manejo se llevará a cabo de conformidad con los criterios que se establezcan en las normas oficiales mexicanas que contendrán los listados de los mismos y cuya emisión estará a cargo de la [Secretaría](articulo-5.md).
 
 Por su parte, los gobiernos de las entidades federativas y de los municipios, deberán publicar en el órgano de difusión oficial y diarios de circulación local, la relación de los residuos sujetos a planes de manejo y, en su caso, proponer a la Secretaría los residuos sólidos urbanos o de manejo especial que deban agregarse a los listados a los que hace referencia el párrafo anterior.

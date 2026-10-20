@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgappcea:term:diagnostico",
+    "term": "Diagnóstico",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgappcea",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgappcea:article:2",
+    "fraction": "I",
+    "start_char": 121,
+    "end_char": 581,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgappcea:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgappcea",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgappcea:article:2",
+    "fraction": "II",
+    "start_char": 581,
+    "end_char": 684,
+    "basis": "express_definition"
+  }
+]

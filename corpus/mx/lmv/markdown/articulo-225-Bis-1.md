@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título VII
+
 # Artículo 225 Bis 1
 
 La solicitud para obtener la autorización a que se refiere el artículo [225 Bis](articulo-225-Bis.md) de esta Ley, deberá acompañarse de lo siguiente:

@@ -17,9 +17,9 @@ source_sha256: 4e276866fce1638948a6daf1a5c0438fa412554f1a6e0381cbdf7cb300e3db75
 
 # Artículo 129 BIS
 
-La Comisión negará la emisión del certificado cuando:
+La [Comisión](articulo-3o.md) negará la emisión del certificado cuando:
 
-I. El solicitante no cumpla con los requisitos a los que se refieren los artículos 77 BIS, fracción I, de la Ley y 126 y 127 del presente Reglamento, y II. El plazo de certificación no sea congruente con el tiempo de la sucesión de la vegetación, en el caso que el predio no contenga elementos de los ecosistemas originales de la región o haya sido transformado totalmente por las actividades productivas.
+I. El solicitante no cumpla con los requisitos a los que se refieren los artículos 77 BIS, fracción I, de la [Ley](articulo-3o.md) y 126 y 127 del presente Reglamento, y II. El plazo de certificación no sea congruente con el tiempo de la sucesión de la vegetación, en el caso que el predio no contenga elementos de los ecosistemas originales de la región o haya sido transformado totalmente por las actividades productivas.
 
 Una vez que el certificado haya sido emitido, la Comisión podrá llevar a cabo acciones de supervisión técnica y monitoreo con la finalidad de constatar que las actividades de conservación se estén realizando en los términos autorizados para el manejo.
 

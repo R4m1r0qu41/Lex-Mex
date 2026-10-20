@@ -17,4 +17,4 @@ source_sha256: c1870db657a6564bbeb692a1778472db811a920626822de553ff5ca5194f95b4
 
 # Artículo 28
 
-Las especificaciones de calidad de los Biocombustibles son establecidas en las Normas Oficiales Mexicanas o Lineamientos que al efecto expida la SENER. Las especificaciones de calidad deben corresponder con los usos comerciales, nacionales e internacionales, en cada etapa de la cadena de valor.
+Las especificaciones de calidad de los [Biocombustibles](articulo-2.md) son establecidas en las Normas Oficiales Mexicanas o Lineamientos que al efecto expida la [SENER](articulo-2.md). Las especificaciones de calidad deben corresponder con los usos comerciales, nacionales e internacionales, en cada etapa de la cadena de valor.

@@ -21,7 +21,7 @@ Excepciones a la obligación de comparecencia No estarán obligados a comparecer
 
 I. Respecto de los servidores públicos federales, el Presidente de la República; los Secretarios de Estado de la Federación; el [Procurador](articulo-3o.md) General de la República; los Ministros de la Suprema Corte de Justicia de la Nación, y los Diputados y Senadores del Congreso de la Unión; los Magistrados del Tribunal Electoral del Poder Judicial de la Federación y los Consejeros del Instituto Federal Electoral; II. Respecto de los servidores públicos estatales, el Gobernador; los Secretarios de Estado; el Procurador General de Justicia o su equivalente; los Diputados de los Congresos locales e integrantes de la Asamblea Legislativa del Distrito Federal; los Magistrados del Tribunal Superior de Justicia y del Tribunal Estatal Electoral y los Consejeros del Instituto Electoral estatal;
 
-III. Los extranjeros que gozaren en el país de inmunidad diplomática, de conformidad con los Tratados sobre la materia, y
+III. Los extranjeros que gozaren en el país de inmunidad diplomática, de conformidad con los [Tratados](articulo-3o.md) sobre la materia, y
 
 IV. Los que, por enfermedad grave u otro impedimento calificado por el [Órgano jurisdiccional](articulo-3o.md) estén imposibilitados de hacerlo.
 

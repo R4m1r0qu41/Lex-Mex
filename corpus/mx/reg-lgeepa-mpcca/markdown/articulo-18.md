@@ -17,4 +17,4 @@ source_sha256: cf47ab93fdea40d2b3e41b58784df62f89dd90b4482dd3b7f25adc7f6957036b
 
 # Artículo 18
 
-Sin perjuicio de las autorizaciones que expidan otras autoridades competentes, las fuentes fijas de jurisdicción federal que emitan o puedan emitir olores, gases o partículas sólidas o líquidas a la atmósfera, requerirán licencia de funcionamiento expedida por la Secretaría, la que tendrá una vigencia indefinida.
+Sin perjuicio de las autorizaciones que expidan otras autoridades competentes, las fuentes fijas de jurisdicción federal que emitan o puedan emitir olores, gases o partículas sólidas o líquidas a la atmósfera, requerirán licencia de funcionamiento expedida por la [Secretaría](articulo-6o.md), la que tendrá una vigencia indefinida.

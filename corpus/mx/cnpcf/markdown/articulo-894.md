@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Capítulo Único · Sección Tercera
+
 # Artículo 894
 
 Cada parte asumirá sus gastos y costas derivados de la acción colectiva, así como los respectivos honorarios de sus representantes. Los honorarios de la persona representante legal y representante común, que convengan con sus representados, quedarán sujetos al siguiente arancel máximo:

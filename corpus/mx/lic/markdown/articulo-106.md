@@ -41,7 +41,9 @@ XI. Comerciar con mercancías de cualquier clase, excepto las operaciones con or
 
 XII. Participar en sociedades que no sean de responsabilidad limitada y explotar por su cuenta establecimientos mercantiles o industriales o fincas rústicas, sin perjuicio de la facultad de mantener en propiedad bonos, obligaciones, acciones u otros títulos de dichas empresas conforme a lo previsto en esta Ley. La Comisión Nacional Bancaria y de Valores, podrá autorizar mediante disposiciones de carácter general, que continúen su explotación temporal, cuando las reciban en pago de créditos o para aseguramiento de los ya concertados, en cuyo caso la institución de crédito de que se trate, deberá realizar el registro contable y estimación máxima de valor que la propia Comisión establezca para estos casos al amparo de lo previsto en los artículos [99](articulo-99.md) y [102](articulo-102.md) de esta Ley. Fracción reformada DOF 01-02-2008
 
-XIII. Se deroga. Fracción reformada DOF 23-12-1993, 04-06-2001. Derogada DOF 01-02-2008 XIV. Se deroga. Fracción derogada DOF 06-02-2008
+XIII. Se deroga. Fracción reformada DOF 23-12-1993, 04-06-2001. Derogada DOF 01-02-2008
+
+XIV. Se deroga. Fracción derogada DOF 06-02-2008
 
 XV. Se deroga. Fracción reformada DOF 04-06-2001. Derogada DOF 01-02-2008
 

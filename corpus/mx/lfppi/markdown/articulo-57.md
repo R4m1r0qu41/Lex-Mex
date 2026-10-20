@@ -33,7 +33,7 @@ VI.- Una tercera persona que, en el caso de patentes relacionadas con materia vi
 
 VII.- Una tercera persona que, en el caso de patentes relacionadas con productos que consistan en materia viva, utilice, ponga en circulación o comercialice la invención patentada, para fines que no sean de multiplicación o propagación, después de que ésta haya sido introducida lícitamente en el comercio por la persona titular de la patente, o la persona que tenga concedida una licencia, y Fracción reformada DOF 03-04-2026
 
-VIII.- Una tercera persona que utilice la invención patentada o haya realizado los preparativos necesarios para tal fin, durante el periodo de rehabilitación a que se refiere el artículo [161](articulo-161.md) de esta Ley. Fracción reformada DOF 03-04-2026
+VIII.- Una tercera persona que utilice la invención patentada o haya realizado los preparativos necesarios para tal fin, durante el periodo de rehabilitación a que se refiere el artículo [161](articulo-161.md) de esta [Ley](articulo-4.md). Fracción reformada DOF 03-04-2026
 
 La realización de cualquier actividad contemplada en el presente artículo no constituirá infracción administrativa o delito en los términos de esta Ley.
 

@@ -17,4 +17,4 @@ source_sha256: 716e427a30e9982ccaa0576288aad2ad5305c624b236a0f342b6a87d60b7a9ed
 
 # Artículo 32
 
-Los plazos para la actualización de los Instrumentos de Planeación del Sector Energético deben contabilizarse a partir de su fecha de entrada en vigor.
+Los plazos para la actualización de los [Instrumentos de Planeación del Sector Energético](articulo-5.md) deben contabilizarse a partir de su fecha de entrada en vigor.

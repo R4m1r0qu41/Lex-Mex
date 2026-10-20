@@ -17,6 +17,6 @@ source_sha256: 8515c812258bcc7c342e8566ff623c7f5e880f2eb9ee2ad154758077089f11ca
 
 # Artículo 107
 
-El orden de prelación en cada grado, núcleo y escala de Primeros Maestres a Capitán de Corbeta, quedará determinado atendiendo a la calificación final obtenida en los conceptos establecidos en la Ley.
+El orden de prelación en cada grado, núcleo y escala de Primeros Maestres a Capitán de Corbeta, quedará determinado atendiendo a la calificación final obtenida en los conceptos establecidos en la [Ley](articulo-5.md).
 
 Artículo reformado DOF 22-09-2010

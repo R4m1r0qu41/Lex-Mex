@@ -17,6 +17,6 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 # Artículo 100
 
-Procedencia La suspensión condicional del proceso procederá a solicitud de la persona adolescente o del Ministerio Público con acuerdo de aquél, en los casos en que se cubran los requisitos siguientes: I. Que se haya dictado auto de vinculación a proceso por hechos previstos como delito en los que no procede la medida de sanción de internamiento establecida en esta Ley, y
+Procedencia La suspensión condicional del proceso procederá a solicitud de la persona adolescente o del Ministerio Público con acuerdo de aquél, en los casos en que se cubran los requisitos siguientes: I. Que se haya dictado auto de vinculación a proceso por hechos previstos como delito en los que no procede la medida de sanción de internamiento establecida en esta [Ley](articulo-3.md), y
 
 II. Que no exista oposición fundada de la víctima u ofendido.

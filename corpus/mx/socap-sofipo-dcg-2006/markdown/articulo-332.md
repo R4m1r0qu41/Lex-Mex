@@ -18,8 +18,8 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 332
 
-La Comisión podrá abrir conceptos y niveles que no se encuentren contemplados en las series que se señalan en el artículo [327](articulo-327.md) de las presentes disposiciones, cuando en términos de la legislación aplicable, autorice a una Sociedad Financiera Popular la realización de nuevas operaciones, exclusivamente para el envío de información de dichas operaciones.
+La Comisión podrá abrir conceptos y niveles que no se encuentren contemplados en las series que se señalan en el artículo [327](articulo-327.md) de las presentes disposiciones, cuando en términos de la legislación aplicable, autorice a una [Sociedad](articulo-1.md) Financiera Popular la realización de nuevas operaciones, exclusivamente para el envío de información de dichas operaciones.
 
 Asimismo, en caso de que por modificaciones a la normativa aplicable, se requiera establecer niveles o conceptos adicionales a los previstos en las series y tipos de reportes que se señalan en las presentes disposiciones, la Comisión hará del conocimiento de las Sociedades Financieras Populares, la apertura de los nuevos conceptos o niveles respectivos.
 
-En los dos casos previstos en el primero y segundo párrafo de esta disposición, la Comisión a través del SITI, notificará a las Sociedades Financieras Populares el mecanismo de registro y envío de la información correspondiente.
+En los dos casos previstos en el primero y segundo párrafo de esta disposición, la Comisión a través del [SITI](articulo-1.md), notificará a las Sociedades Financieras Populares el mecanismo de registro y envío de la información correspondiente.

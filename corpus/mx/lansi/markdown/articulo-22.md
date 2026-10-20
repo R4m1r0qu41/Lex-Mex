@@ -17,7 +17,7 @@ source_sha256: 0e34f329befed4474eb7bc1bc195ba13bbe188edfbbabc914a44723e62eb9e44
 
 # Artículo 22
 
-Cuando alguna obra o instalación represente un Riesgo Crítico en materia de Seguridad Industrial, Seguridad Operativa o de protección al medio ambiente, la Agencia podrá ordenar cualquiera de las siguientes medidas de seguridad:
+Cuando alguna obra o instalación represente un [Riesgo](articulo-3o.md) Crítico en materia de [Seguridad Industrial](articulo-3o.md), [Seguridad Operativa](articulo-3o.md) o de protección al medio ambiente, la [Agencia](articulo-3o.md) podrá ordenar cualquiera de las siguientes medidas de seguridad:
 
 I. Suspender trabajos relacionados con la construcción de obras e instalaciones;
 

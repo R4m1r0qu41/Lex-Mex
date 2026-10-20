@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAN.pdf
 source_sha256: 4ef50d6b4b3a6ad0378720c5d49463b4f17d70d9de39f895ed5dae4d2e21736d
 ---
 
-> Título CUARTO
+> Título CUARTO · Capítulo III BIS
 
 # Artículo 29 BIS 6
 
@@ -24,5 +24,3 @@ Se considerarán servidumbres naturales a los cauces de propiedad nacional en lo
 Se considerarán servidumbres forzosas o legales aquellas establecidas sobre los fundos que sirvan para la construcción de obras hidráulicas como embalses, derivaciones, tomas directas y otras captaciones, obras de conducción, tratamiento, drenajes, obras de protección de riberas y obras complementarias, incluyendo caminos de paso y vigilancia.
 
 Artículo adicionado DOF 29-04-2004
-
-Capítulo IV Registro Público Nacional del Agua Denominación del Capítulo reformada DOF 11-12-2025

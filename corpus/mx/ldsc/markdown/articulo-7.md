@@ -17,4 +17,4 @@ source_sha256: 45deb87bfd634dfbd1cb7d9fd67a476ad954187908eb0cb06256c90ccc0feb80
 
 # Artículo 7
 
-Se crea la Comisión Nacional para el Desarrollo de la Cafeticultura Mexicana como instancia de diálogo, concertación y coordinación entre los sectores público, social y privado, para el desarrollo e impulso de la cadena productiva de café.
+Se crea la [Comisión](articulo-3.md) Nacional para el Desarrollo de la [Cafeticultura](articulo-3.md) Mexicana como instancia de diálogo, concertación y coordinación entre los sectores público, social y privado, para el desarrollo e impulso de la cadena productiva de café.

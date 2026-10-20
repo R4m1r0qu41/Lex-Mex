@@ -508,22 +508,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgv:article:84-quinquies:reference:239-241:84:direct",
-    "source_provision_id": "urn:lex-mx:federal:statute:lgv:article:84-quinquies",
-    "source_span": "84",
-    "start_char": 239,
-    "end_char": 241,
-    "target_instrument_id": "urn:lex-mx:federal:statute:lgv",
-    "target_provision_id": "urn:lex-mx:federal:statute:lgv:article:84",
-    "qualifiers": [],
-    "basis": "express_cross_reference",
-    "confidence": 1.0,
-    "resolution_status": "resolved",
-    "reference_form": "direct",
-    "resolution_rule": "own_instrument_default"
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgv:article:93:reference:733-735:93:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lgv:article:93",
     "source_span": "93",

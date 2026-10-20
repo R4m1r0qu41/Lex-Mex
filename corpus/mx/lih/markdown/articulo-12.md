@@ -17,15 +17,15 @@ source_sha256: 8262a75eac7bfb608d4f48657ffb2714fe115d0b9694c42ac81624fd275bf5f6
 
 # Artículo 12
 
-Los Contratos de producción compartida establecerán las siguientes Contraprestaciones:
+Los [Contratos](articulo-3.md) de producción compartida establecerán las siguientes [Contraprestaciones](articulo-3.md):
 
 I. A favor del Estado Mexicano:
 
-a) La Cuota Contractual para la Fase Exploratoria;
+a) La [Cuota Contractual para la Fase Exploratoria](articulo-3.md);
 
-b) Las Regalías determinadas conforme el artículo [24](articulo-24.md) de esta Ley, y
+b) Las [Regalías](articulo-3.md) determinadas conforme el artículo [24](articulo-24.md) de esta Ley, y
 
-c) Una Contraprestación que se determinará por la aplicación de un porcentaje a la Utilidad Operativa, y
+c) Una Contraprestación que se determinará por la aplicación de un porcentaje a la [Utilidad Operativa](articulo-3.md), y
 
 II. A favor del Contratista:
 
@@ -33,6 +33,6 @@ a) La recuperación de los costos, sujeto a lo establecido en el artículo [16](
 
 b) Una Contraprestación que será el remanente de la Utilidad Operativa después de cubrir la Contraprestación a favor del Estado señalada en el inciso c) de la fracción I anterior.
 
-Conforme a la naturaleza de los Contratos de producción compartida, las Contraprestaciones establecidas en la fracción II de este artículo se pagarán al Contratista en especie, con una proporción de la Producción Contractual de Hidrocarburos que sea equivalente al valor de dichas Contraprestaciones. Del mismo modo se entregarán al Estado las Contraprestaciones establecidas en la fracción I, incisos b) y c) de este artículo.
+Conforme a la naturaleza de los Contratos de producción compartida, las Contraprestaciones establecidas en la fracción II de este artículo se pagarán al Contratista en especie, con una proporción de la [Producción Contractual](articulo-3.md) de Hidrocarburos que sea equivalente al valor de dichas Contraprestaciones. Del mismo modo se entregarán al Estado las Contraprestaciones establecidas en la fracción I, incisos b) y c) de este artículo.
 
-El Estado determinará en el Contrato las Contraprestaciones que el Contratista deberá entregar en especie al Comercializador, el cual entregará los ingresos producto de su comercialización al Fondo Mexicano del Petróleo en cada Periodo, conforme se señale en el Contrato.
+El Estado determinará en el Contrato las Contraprestaciones que el Contratista deberá entregar en especie al [Comercializador](articulo-3.md), el cual entregará los ingresos producto de su comercialización al [Fondo Mexicano del Petróleo](articulo-3.md) en cada [Periodo](articulo-3.md), conforme se señale en el Contrato.

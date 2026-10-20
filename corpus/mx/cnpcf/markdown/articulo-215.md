@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Primero · Capítulo VII
+
 # Artículo 215
 
 Las partes podrán autorizar para oír notificaciones en su nombre, a una o varias personas, quienes quedarán facultadas para intervenir en representación de quien los autoriza en todas las etapas procesales del juicio, comprendiendo la de segunda instancia y la ejecución, con todas las facultades generales y las especiales que requieran cláusula especial, incluyendo la de absolver y articular posiciones, debiendo en su caso, especificar aquellas facultades que no se les otorguen, pero no podrán sustituir o delegar dichas facultades en tercera persona. Sin embargo, requerirán manifestación expresa que los faculte para transigir, desistirse de la instancia, de la acción y de los recursos o medios de defensa.

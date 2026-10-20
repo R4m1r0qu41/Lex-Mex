@@ -17,21 +17,21 @@ source_sha256: c1870db657a6564bbeb692a1778472db811a920626822de553ff5ca5194f95b4
 
 # Artículo 7
 
-Para los efectos de la presente Ley, la SADER, tiene las siguientes facultades:
+Para los efectos de la presente [Ley](articulo-2.md), la [SADER](articulo-2.md), tiene las siguientes facultades:
 
-I. Formular, conducir y coordinar la política nacional en materia de Biomasa obtenida a partir de cultivos en Suelos Marginales o el aprovechamiento de residuos orgánicos derivados de las actividades agropecuarias para su uso directo como Biocombustible o para su Producción;
+I. Formular, conducir y coordinar la política nacional en materia de [Biomasa](articulo-2.md) obtenida a partir de cultivos en [Suelos Marginales](articulo-2.md) o el aprovechamiento de residuos orgánicos derivados de las actividades agropecuarias para su uso directo como [Biocombustible](articulo-2.md) o para su [Producción](articulo-2.md);
 
 II. Elaborar y coordinar la ejecución del Programa para la producción sustentable de Biomasa obtenida a partir de cultivos en Suelos Marginales o el aprovechamiento de residuos derivados de las actividades agropecuarias para su uso directo como Biocombustible o para su Producción;
 
 III. Evaluar el impacto sobre la seguridad y soberanía alimentarias y el desarrollo rural, derivado de la ejecución del Programa para la producción sustentable de Biomasa obtenida a partir de cultivos en Suelos Marginales para la Producción de Biocombustibles;
 
-IV. Apoyar a la SENER en la integración y actualización de la información sobre la cadena productiva de la Biomasa obtenida a partir de cultivos en Suelos Marginales o el aprovechamiento de residuos derivados de las actividades agropecuarias para su uso directo como Biocombustible o para su Producción para su integración al Subsistema;
+IV. Apoyar a la [SENER](articulo-2.md) en la integración y actualización de la información sobre la cadena productiva de la Biomasa obtenida a partir de cultivos en Suelos Marginales o el aprovechamiento de residuos derivados de las actividades agropecuarias para su uso directo como Biocombustible o para su Producción para su integración al [Subsistema](articulo-2.md);
 
 V. Otorgar, modificar, actualizar, suspender y revocar permisos previos para la producción de Biomasa para la Producción de Biocombustibles provenientes de la caña de azúcar y del sorgo, los cuales se deben otorgar solamente cuando existan inventarios excedentes de producción interna para satisfacer el consumo nacional;
 
 VI. Recibir los avisos de siembra que presenten las personas interesadas en producir Biomasa obtenida a partir de cultivos en Suelos Marginales para la Producción de Biocombustibles, que no provengan de insumos primarios de origen vegetal destinados para el consumo humano;
 
-VII. Instrumentar en el Registro Nacional Agropecuario de la SADER, el Registro de los permisos previos y de los avisos de siembra presentados para producir Biomasa obtenida a partir de cultivos para la Producción de Biocombustibles, así como de los predios para desarrollar la agroindustria que procesa la Biomasa, a fin de dar seguimiento a su trazabilidad;
+VII. Instrumentar en el [Registro](articulo-2.md) Nacional Agropecuario de la SADER, el Registro de los permisos previos y de los avisos de siembra presentados para producir Biomasa obtenida a partir de cultivos para la Producción de Biocombustibles, así como de los predios para desarrollar la agroindustria que procesa la Biomasa, a fin de dar seguimiento a su trazabilidad;
 
 VIII. Regular y, en su caso, expedir Normas Oficiales Mexicanas relativas a la Biomasa obtenida a partir de cultivos en Suelos Marginales o el aprovechamiento de residuos orgánicos derivados de las actividades agropecuarias para la Producción de Biocombustibles, así como controlar y vigilar su debido cumplimiento;
 

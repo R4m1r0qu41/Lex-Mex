@@ -17,6 +17,6 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 # Artículo 203
 
-Debido proceso Las peticiones se sustanciarán conforme a las reglas establecidas en esta Ley, a fin de que el Centro de Internamiento para Adolescentes se pronuncie respecto de si ha existido o no una afectación en las condiciones de vida digna y segura en internamiento para las personas adolescentes o terceras personas afectadas y, en su caso, la subsanación de dicha afectación.
+Debido proceso Las peticiones se sustanciarán conforme a las reglas establecidas en esta [Ley](articulo-3.md), a fin de que el Centro de Internamiento para [Adolescentes](articulo-3.md) se pronuncie respecto de si ha existido o no una afectación en las condiciones de vida digna y segura en internamiento para las personas adolescentes o terceras personas afectadas y, en su caso, la subsanación de dicha afectación.
 
 No procederá el desistimiento de las peticiones, por lo que las autoridades administrativas continuarán con su tramitación hasta su conclusión.

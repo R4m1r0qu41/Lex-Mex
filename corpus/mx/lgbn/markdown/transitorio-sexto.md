@@ -15,4 +15,4 @@ source_sha256: ea96e97cbea2fd1919af78b94cd3466ee20a77e05989be2d482d2eb8061618c5
 
 # SEXTO
 
-En el caso de los bienes que a la fecha de entrada en vigor de esta Ley, se hayan desincorporado del régimen de dominio público de la Federación o autorizado su enajenación a través del Decreto respectivo, sin haberse enajenado, se entenderá que dicha desincorporación tiene el efecto a que se refiere el artículo [95](articulo-95.md) de la presente Ley.
+En el caso de los bienes que a la fecha de entrada en vigor de esta Ley, se hayan desincorporado del régimen de dominio público de la [Federación](articulo-2.md) o autorizado su enajenación a través del Decreto respectivo, sin haberse enajenado, se entenderá que dicha desincorporación tiene el efecto a que se refiere el artículo [95](articulo-95.md) de la presente Ley.

@@ -15,7 +15,7 @@ source_sha256: b34326588bd6e7519e33411d3658239e3aefb56cef0fae5d775bc894af64a565
 
 # DÉCIMO TERCERO
 
-Para los efectos de la expedición de autorizaciones, hasta en tanto no se expida el Reglamento de la presente Ley, continuarán aplicándose los requisitos, términos, condiciones y plazos establecidos en el Reglamento de la Ley General del Equilibrio Ecológico y la Protección al Ambiente en Materia de Residuos Peligrosos.
+Para los efectos de la expedición de autorizaciones, hasta en tanto no se expida el [Reglamento](articulo-5.md) de la presente [Ley](articulo-5.md), continuarán aplicándose los requisitos, términos, condiciones y plazos establecidos en el Reglamento de la Ley General del Equilibrio Ecológico y la Protección al Ambiente en Materia de [Residuos Peligrosos](articulo-5.md).
 
 México, D.F., a 28 de abril de 2003.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Armando Salinas Torre, Presidente.- Sen. Yolanda González Hernández, Secretario.- Dip. Ma. de las Nieves García Fernández, Secretario.- Rúbricas".
 

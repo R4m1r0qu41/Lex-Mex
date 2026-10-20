@@ -17,9 +17,9 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 182
 
-"La Comisión" realizará los actos de inspección y vigilancia para verificar, en el ámbito de su competencia, el debido cumplimiento de:
+"[La Comisión](articulo-1o.md)" realizará los actos de inspección y vigilancia para verificar, en el ámbito de su competencia, el debido cumplimiento de:
 
-I. La "Ley" y el presente "Reglamento";
+I. La "[Ley](articulo-1o.md)" y el presente "[Reglamento](articulo-1o.md)";
 
 II. La Ley General del Equilibrio Ecológico y la Protección al Ambiente;
 

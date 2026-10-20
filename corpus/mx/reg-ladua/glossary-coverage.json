@@ -1,0 +1,28 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-3",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-ladua",
+  "source_sha256": "bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812",
+  "extracted_text_sha256": "05fa838726d21703e036f4321f7f065dd2b3062860b4eb5682037fc773c903d4",
+  "status": "detected",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:regulation:reg-ladua:article:1",
+      "provision_text_sha256": "05576bb7eadbbb15a2c4c02a9e4406e90923f5bd0f022911fa3477fbf3c4eae8",
+      "method": "established_pass",
+      "fractions": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI"
+      ],
+      "unread_fractions": [],
+      "term_count": 6
+    }
+  ],
+  "imports": [],
+  "term_count": 6,
+  "usage_count": 485
+}

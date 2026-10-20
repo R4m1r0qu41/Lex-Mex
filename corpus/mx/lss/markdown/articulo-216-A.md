@@ -17,7 +17,7 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 216-A
 
-El Instituto deberá atender a la población no derechohabiente en los casos siguientes:
+El [Instituto](articulo-5-A.md) deberá atender a la población no derechohabiente en los casos siguientes:
 
 I. En situaciones de emergencia nacional, regional o local o, en caso de siniestros o desastres naturales;
 

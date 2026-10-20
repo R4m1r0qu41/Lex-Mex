@@ -18,13 +18,13 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 205 Bis
 
-El capital neto de las Sociedades Financieras Populares estará compuesto por una parte básica y una complementaria, conforme a lo que se prevé en el presente capítulo.
+El capital neto de las [Sociedades](articulo-1.md) Financieras Populares estará compuesto por una parte básica y una complementaria, conforme a lo que se prevé en el presente capítulo.
 
 La parte básica estará integrada de la siguiente manera:
 
 I. La suma de los conceptos del capital contable que se enumeran a continuación, incluyendo, en su caso, incrementos por actualizaciones:
 
-19 El Apartado G fue derogado mediante Resolución publicada en el Diario Oficial de la Federación el 3 de julio de 2026, misma que entrarán en vigor el 1 de enero de 2028. 20 El articulo 203 fue derogado mediante Resolución publicada en el Diario Oficial de la Federación el 3 de julio de 2026, misma que entrarán en vigor el 1 de enero de 2028.
+19 El Apartado G fue derogado mediante Resolución publicada en el Diario Oficial de la [Federación](articulo-1.md) el 3 de julio de 2026, misma que entrarán en vigor el 1 de enero de 2028. 20 El articulo 203 fue derogado mediante Resolución publicada en el Diario Oficial de la Federación el 3 de julio de 2026, misma que entrarán en vigor el 1 de enero de 2028.
 
 a) Capital social.
 
@@ -54,7 +54,7 @@ Adicionalmente, tratándose de las Sociedades Financieras Populares con Nivel de
 
 MENOS:
 
-II. En su caso, las inversiones en cualquier Instrumento de Deuda cuyo pago por parte del emisor o deudor, según se trate, por haberlo así convenido, solamente pueda realizarse después de cubrir otros pasivos, es decir, los títulos subordinados.
+II. En su caso, las inversiones en cualquier [Instrumento de Deuda](articulo-1.md) cuyo pago por parte del emisor o deudor, según se trate, por haberlo así convenido, solamente pueda realizarse después de cubrir otros pasivos, es decir, los títulos subordinados.
 
 III. Los beneficios sobre el remanente en operaciones de bursatilización, así como la utilidad o incremento en el valor de los activos que integren el patrimonio del vehículo de propósito especial, derivados de la adquisición de posiciones de bursatilización.
 
@@ -66,7 +66,7 @@ VI. En su caso, las inversiones en valores referenciados a índices de valores q
 
 VII. Las inversiones en el capital de administradoras de fondos para el retiro y sociedades operadoras de fondos de inversión, siempre que se realicen de conformidad con el artículo [23](articulo-23.md) de las presentes disposiciones.
 
-VIII. En su caso, las inversiones, incluyendo los efectos de valuación por el método que corresponda, en el capital de empresas relacionadas con la Sociedad Financiera Popular en términos de los artículos 35, 35 Bis y 35 Bis 1 de la Ley.
+VIII. En su caso, las inversiones, incluyendo los efectos de valuación por el método que corresponda, en el capital de empresas relacionadas con la Sociedad Financiera Popular en términos de los artículos 35, 35 Bis y 35 Bis 1 de la [Ley](articulo-1.md).
 
 Tratándose de las inversiones en acciones que se deriven de capitalizaciones o daciones en pago de adeudos y que antes de efectuarse dicha capitalización o daciones en pago de adeudos no se considerará a la correspondiente empresa como relacionada con la Sociedad Financiera Popular en los términos de los articulados citados en el párrafo anterior, se dará el siguiente tratamiento:
 

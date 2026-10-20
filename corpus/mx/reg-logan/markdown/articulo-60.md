@@ -33,4 +33,4 @@ VII. Los fierros, marcas y tatuajes que hayan sido autorizados por las autoridad
 
 VIII. En general toda modificación a las inscripciones previamente asentadas.
 
-Las inscripciones a que se refieren las fracciones anteriores, deberán cumplir con las disposiciones de la Ley, de este Reglamento y de los estatutos de las organizaciones ganaderas para que la Secretaría los registre y surtan plenamente sus efectos.
+Las inscripciones a que se refieren las fracciones anteriores, deberán cumplir con las disposiciones de la Ley, de este [Reglamento](articulo-2o.md) y de los estatutos de las organizaciones ganaderas para que la Secretaría los registre y surtan plenamente sus efectos.

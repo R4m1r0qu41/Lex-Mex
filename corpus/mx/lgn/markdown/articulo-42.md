@@ -17,4 +17,4 @@ source_sha256: dfe63e9a5dca843a804e5d7878671e2899f2b088534d9ed9813e9878c20b12bd
 
 # Artículo 42
 
-El activo de la Guardia Nacional está constituido por el personal militar con formación policial que se encuentre: I. Encuadrado, agregado o comisionado en Unidades, Dependencias e Instalaciones Militares; II. A disposición de la Secretaría de la Defensa Nacional; III. Con licencia; IV. Hospitalizado; V. Sujeto a proceso, y VI. Compurgando una sentencia.
+El activo de la Guardia Nacional está constituido por el personal militar con formación policial que se encuentre: I. Encuadrado, agregado o comisionado en Unidades, Dependencias e Instalaciones Militares; II. A disposición de la [Secretaría](articulo-2.md) de la Defensa Nacional; III. Con licencia; IV. Hospitalizado; V. Sujeto a proceso, y VI. Compurgando una sentencia.

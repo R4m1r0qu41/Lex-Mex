@@ -17,4 +17,4 @@ source_sha256: 4bcc982b308b0813469b30db61b53d5a2c41e5a7240b3b1cac2f1aeeb2c00a2e
 
 # Artículo 13
 
-La Secretaría puede definir Proyectos Estratégicos para cumplir con la política energética nacional en materia de electricidad, los cuales deben contar con simplificación administrativa en los trámites necesarios para su ejecución e implementación expedita.
+La Secretaría puede definir [Proyectos Estratégicos](articulo-2.md) para cumplir con la política energética nacional en materia de electricidad, los cuales deben contar con simplificación administrativa en los trámites necesarios para su ejecución e implementación expedita.

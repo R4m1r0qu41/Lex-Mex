@@ -17,7 +17,7 @@ source_sha256: 160e5e85efddb1749a79f6b154af31711a9b31a5e32bace3c07e2859c2620ecf
 
 # Artículo 63
 
-Los interesados en obtener permiso para pescar en altamar o en aguas de jurisdicción extranjera, así como los interesados en descargar en puertos extranjeros, con embarcaciones de matrícula y bandera mexicanas, deberán cumplir para ello los requisitos que establezcan el reglamento de esta Ley y los Tratados o Acuerdos Internacionales de los que México sea parte, así como con los requisitos y permisos que para este efecto los países les requieran. Los permisos respectivos los expedirá la Secretaría únicamente a personas de nacionalidad mexicana.
+Los interesados en obtener permiso para pescar en altamar o en aguas de jurisdicción extranjera, así como los interesados en descargar en puertos extranjeros, con embarcaciones de matrícula y bandera mexicanas, deberán cumplir para ello los requisitos que establezcan el reglamento de esta Ley y los Tratados o Acuerdos Internacionales de los que México sea parte, así como con los requisitos y permisos que para este efecto los países les requieran. Los permisos respectivos los expedirá la [Secretaría](articulo-4o.md) únicamente a personas de nacionalidad mexicana.
 
 Las cuotas que otorguen al país los gobiernos extranjeros, para el aprovechamiento o explotación de sus recursos pesqueros, serán administradas por la Secretaría.
 

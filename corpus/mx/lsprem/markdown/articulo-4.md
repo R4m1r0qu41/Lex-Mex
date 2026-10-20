@@ -17,7 +17,7 @@ source_sha256: bcc21844355854fe331c842c21436d721d6c2856b5c5986715fe39f4a845b317
 
 # Artículo 4
 
-El patrimonio del Sistema Público de Radiodifusión del Estado Mexicano se integra por:
+El patrimonio del [Sistema](articulo-2.md) Público de Radiodifusión del Estado Mexicano se integra por:
 
 I. Los recursos que se le asignen en el Presupuesto de Egresos de la Federación del ejercicio fiscal correspondiente;
 

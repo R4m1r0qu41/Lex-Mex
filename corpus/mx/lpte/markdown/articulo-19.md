@@ -17,4 +17,4 @@ source_sha256: c24aa3a57883383635d5271683dd76e561f21852328f0e89f6bf1c2a09aa2d41
 
 # Artículo 19
 
-La persona titular de la Presidencia del Consejo, por sí misma o a través de la Secretaría Técnica, puede invitar a las sesiones del Consejo a otras autoridades federales, de las entidades federativas y municipales, así como a personas físicas y organizaciones relacionadas con la Transición Energética, lo anterior, cuando se estime conveniente por la naturaleza de los asuntos a tratar, quienes deben acudir en calidad de personas invitadas que participan con voz, pero sin voto.
+La persona titular de la Presidencia del [Consejo](articulo-3.md), por sí misma o a través de la [Secretaría](articulo-3.md) Técnica, puede invitar a las sesiones del Consejo a otras autoridades federales, de las entidades federativas y municipales, así como a personas físicas y organizaciones relacionadas con la [Transición Energética](articulo-3.md), lo anterior, cuando se estime conveniente por la naturaleza de los asuntos a tratar, quienes deben acudir en calidad de personas invitadas que participan con voz, pero sin voto.

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf
 source_sha256: 43927095d22ff7bc7780e78132d2160b5050b5f76026b539daec32be09d7341d
 ---
 
+> Título Segundo · Capítulo I
+
 # Artículo 10
 
 La entrada o la salida de mercancías del territorio nacional, las maniobras de carga, descarga, transbordo y almacenamiento de las mismas, el embarque o desembarque de pasajeros y la revisión de sus equipajes, deberá efectuarse por lugar autorizado, en día y hora hábil.

@@ -20,7 +20,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 El comité de riesgos para el desarrollo de su objeto desempeñará las funciones siguientes:
 
-I. Proponer para aprobación del Consejo de Administración:
+I. Proponer para aprobación del [Consejo de Administración](articulo-1.md):
 
 a) El manual que contenga los objetivos, políticas y procedimientos para la administración integral de riesgos;
 
@@ -30,7 +30,7 @@ c) La estrategia de asignación de recursos para la realización de operaciones.
 
 II. Aprobar:
 
-a) La metodología para identificar, medir, vigilar, limitar, controlar, informar y revelar los riesgos a que se encuentra expuesta la Sociedad Financiera Popular;
+a) La metodología para identificar, medir, vigilar, limitar, controlar, informar y revelar los riesgos a que se encuentra expuesta la [Sociedad](articulo-1.md) Financiera Popular;
 
 b) Los modelos, parámetros y escenarios que habrán de utilizarse para llevar a cabo la medición y el control de los riesgos, y
 

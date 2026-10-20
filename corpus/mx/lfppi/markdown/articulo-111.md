@@ -17,7 +17,7 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 111
 
-Cuando con motivo del examen de fondo se advierta algún impedimento para el otorgamiento de la patente solicitada, el Instituto podrá requerir a la persona solicitante para que dentro del plazo de dos meses manifieste lo que a su derecho convenga, presente información o documentación y, en su caso, modifique lo que estime oportuno, señalando las modificaciones efectuadas.
+Cuando con motivo del examen de fondo se advierta algún impedimento para el otorgamiento de la patente solicitada, el [Instituto](articulo-4.md) podrá requerir a la persona solicitante para que dentro del plazo de dos meses manifieste lo que a su derecho convenga, presente información o documentación y, en su caso, modifique lo que estime oportuno, señalando las modificaciones efectuadas.
 
 Si dentro del plazo a que se refiere el párrafo anterior, la persona solicitante no da cumplimiento al requerimiento formulado, la solicitud se considerará abandonada.
 

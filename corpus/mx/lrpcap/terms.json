@@ -119,5 +119,49 @@
     "start_char": 2293,
     "end_char": 2479,
     "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrpcap:term:interculturalidad",
+    "term": "Interculturalidad",
+    "instrument_id": "urn:lex-mx:federal:statute:lrpcap",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lrpcap:article:2",
+    "fraction": "XIII",
+    "start_char": 2479,
+    "end_char": 2887,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrpcap:term:movilidad-humana",
+    "term": "Movilidad Humana",
+    "instrument_id": "urn:lex-mx:federal:statute:lrpcap",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lrpcap:article:2",
+    "fraction": "XIV",
+    "start_char": 2887,
+    "end_char": 3319,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrpcap:term:perspectiva-intercultural",
+    "term": "Perspectiva Intercultural",
+    "instrument_id": "urn:lex-mx:federal:statute:lrpcap",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lrpcap:article:2",
+    "fraction": "XV",
+    "start_char": 3319,
+    "end_char": 3747,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrpcap:term:interseccionalidad",
+    "term": "Interseccionalidad",
+    "instrument_id": "urn:lex-mx:federal:statute:lrpcap",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lrpcap:article:2",
+    "fraction": "XVI",
+    "start_char": 3747,
+    "end_char": 4160,
+    "basis": "express_definition"
   }
 ]

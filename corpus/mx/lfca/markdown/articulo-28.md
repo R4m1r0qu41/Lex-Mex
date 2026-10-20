@@ -17,4 +17,4 @@ source_sha256: 29f509ea5cd695b026dca622c5cee399dc723086316b2038d061d59a4e438de2
 
 # Artículo 28
 
-Las obras cinematográficas que se exhiban, circulen, difundan o pongan a disposición por cualquier medio deberán cumplir con las prescripciones relativas a su autorización y clasificación establecidas en el Título Cuarto, Capítulo II, de esta Ley. Asimismo, no podrán ser objeto de mutilación, censura o cortes en su exhibición, transmisión o puesta a disposición, salvo que medie la autorización de la persona titular de los derechos de autor, en los términos que señale el Reglamento.
+Las obras cinematográficas que se exhiban, circulen, difundan o pongan a disposición por cualquier medio deberán cumplir con las prescripciones relativas a su autorización y clasificación establecidas en el Título Cuarto, Capítulo II, de esta Ley. Asimismo, no podrán ser objeto de mutilación, censura o cortes en su exhibición, transmisión o puesta a disposición, salvo que medie la autorización de la persona titular de los derechos de autor, en los términos que señale el [Reglamento](articulo-2o.md).

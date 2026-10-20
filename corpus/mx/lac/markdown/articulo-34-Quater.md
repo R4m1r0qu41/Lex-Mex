@@ -13,12 +13,12 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAC.pdf
 source_sha256: 07199878c4f94748c983998437198eb7c645ad76967c444dfe26d50a535d23ae
 ---
 
+> Capítulo V
+
 # Artículo 34 Quater
 
-Toda persona concesionaria, asignataria o permisionaria de servicio al público de transporte aéreo debe contar con un Certificado de Explotador de Servicios Aéreos.
+Toda persona concesionaria, asignataria o permisionaria de servicio al público de transporte aéreo debe contar con un [Certificado de Explotador de Servicios Aéreos](articulo-2.md).
 
-Dicho certificado se debe emitir de conformidad con las normas oficiales mexicanas y las disposiciones técnico-administrativas que emita la Secretaría o la Agencia Federal de Aviación Civil, según corresponda.
+Dicho certificado se debe emitir de conformidad con las normas oficiales mexicanas y las disposiciones técnico-administrativas que emita la [Secretaría](articulo-2.md) o la [Agencia Federal de Aviación Civil](articulo-2.md), según corresponda.
 
 Artículo adicionado DOF 03-05-2023
-
-Capítulo VI Del tránsito aéreo

@@ -17,4 +17,4 @@ source_sha256: 1d398a90955ef45ccb7baf4d56534c676cde8325e8b109c4d32120909e783694
 
 # Artículo 76
 
-La víctima u ofendido que pretenda acceder a los recursos del Fondo deberá cumplir con los requisitos y condiciones que establezcan las Reglas de Operación, las cuales serán determinadas por el Comité Técnico del Fondo a propuesta de la Dirección General de Estrategias para la Atención de Derechos Humanos de la Secretaría.
+La víctima u ofendido que pretenda acceder a los recursos del Fondo deberá cumplir con los requisitos y condiciones que establezcan las [Reglas de Operación](articulo-2.md), las cuales serán determinadas por el Comité Técnico del Fondo a propuesta de la Dirección General de Estrategias para la Atención de Derechos Humanos de la Secretaría.

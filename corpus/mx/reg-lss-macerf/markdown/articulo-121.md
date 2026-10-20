@@ -17,4 +17,4 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 121
 
-Por lo que corresponde a las formas de pago que establece el artículo [40](../../lss/markdown/articulo-40.md) B de la Ley, cuando el mismo se realice mediante transferencias electrónicas de fondos, tarjetas de crédito o de débito, sólo se aceptará en entidades receptoras autorizadas por el Instituto. La comisión bancaria que, en su caso, se genere por este hecho, estará a cargo del patrón.
+Por lo que corresponde a las formas de pago que establece el artículo [40](../../lss/markdown/articulo-40.md) B de la [Ley](../../lss/markdown/articulo-5-A.md), cuando el mismo se realice mediante transferencias electrónicas de fondos, tarjetas de crédito o de débito, sólo se aceptará en entidades receptoras autorizadas por el [Instituto](../../lss/markdown/articulo-5-A.md). La comisión bancaria que, en su caso, se genere por este hecho, estará a cargo del patrón.

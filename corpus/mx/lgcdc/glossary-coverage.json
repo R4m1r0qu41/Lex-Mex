@@ -1,0 +1,12 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-3",
+  "instrument_id": "urn:lex-mx:federal:statute:lgcdc",
+  "source_sha256": "3ed6ba180b725dbd80971ee60ac0e365a9df437b1ae45639ad0f040653497d1d",
+  "extracted_text_sha256": "f2a01c205fec6cd9b637d47e5f94bf1f1f267f1889be75b209f6cc508a99f7b7",
+  "status": "none_detected",
+  "glossaries": [],
+  "imports": [],
+  "term_count": 0,
+  "usage_count": 0
+}

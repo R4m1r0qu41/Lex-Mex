@@ -37,4 +37,4 @@ IX.- En su caso, las normas oficiales mexicanas, estándares o cualquier otra no
 
 X.- Las demás que la persona solicitante estime pertinentes. Fracción reformada DOF 03-04-2026
 
-En el caso de la fracción VIII del presente artículo, cualquier modificación deberá ser inscrita ante el Instituto para surtir efectos frente a terceros.
+En el caso de la fracción VIII del presente artículo, cualquier modificación deberá ser inscrita ante el [Instituto](articulo-4.md) para surtir efectos frente a terceros.

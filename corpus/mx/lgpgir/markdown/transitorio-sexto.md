@@ -15,4 +15,4 @@ source_sha256: b34326588bd6e7519e33411d3658239e3aefb56cef0fae5d775bc894af64a565
 
 # SEXTO
 
-La Secretaría de Comunicaciones y Transportes emitirá en un plazo no mayor a ciento ochenta días naturales a partir de la publicación del presente Decreto, las modificaciones a que haya lugar al Reglamento de Transporte de Materiales y Residuos Peligrosos.
+La [Secretaría](articulo-5.md) de Comunicaciones y Transportes emitirá en un plazo no mayor a ciento ochenta días naturales a partir de la publicación del presente Decreto, las modificaciones a que haya lugar al [Reglamento](articulo-5.md) de Transporte de [Materiales](articulo-5.md) y [Residuos Peligrosos](articulo-5.md).

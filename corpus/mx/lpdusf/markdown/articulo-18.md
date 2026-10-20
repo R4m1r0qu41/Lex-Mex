@@ -17,4 +17,4 @@ source_sha256: cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7
 
 # Artículo 18
 
-La Junta designará a un secretario y un prosecretario, los cuales deberán ser servidores públicos de la Comisión Nacional y no podrán desempeñar funciones diferentes a las de su encargo.
+La [Junta](articulo-2o.md) designará a un secretario y un prosecretario, los cuales deberán ser servidores públicos de la [Comisión Nacional](articulo-2o.md) y no podrán desempeñar funciones diferentes a las de su encargo.

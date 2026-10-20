@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título II · Capítulo II
+
 # Artículo 48
 
 Las sociedades anónimas bursátiles podrán estipular en sus estatutos sociales cláusulas que establezcan medidas tendientes a prevenir la adquisición de acciones que otorguen el control de la sociedad, por parte de terceros o de los mismos accionistas, ya sea en forma directa o indirecta, siempre que dichas cláusulas:

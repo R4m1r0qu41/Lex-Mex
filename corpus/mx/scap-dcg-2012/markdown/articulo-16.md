@@ -19,7 +19,7 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 Las Sociedades determinarán libremente, en función de sus costos y políticas, el importe de las cuotas y honorarios correspondientes a los servicios siguientes:
 
-I. Pagos por cuenta de sus Socios.
+I. Pagos por cuenta de sus [Socios](articulo-1.md).
 
 II. Copias fotostáticas a solicitud del interesado.
 

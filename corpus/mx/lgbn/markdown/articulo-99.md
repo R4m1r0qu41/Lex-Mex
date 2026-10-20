@@ -19,7 +19,7 @@ source_sha256: ea96e97cbea2fd1919af78b94cd3466ee20a77e05989be2d482d2eb8061618c5
 
 No se requerirá intervención de notario en los casos siguientes:
 
-I.- Donaciones a favor de la Federación;
+I.- Donaciones a favor de la [Federación](articulo-2.md);
 
 II.- Donaciones de la Federación a favor de los gobiernos de las entidades federativas y de los municipios, y de sus respectivas entidades; Fracción reformada DOF 19-01-2018
 
@@ -39,4 +39,4 @@ IX.- Enajenaciones que realicen las entidades a personas de escasos recursos par
 
 X.- Las resoluciones judiciales en los casos a que se refieren las fracciones IV, XVIII, XIX y XX del artículo [42](articulo-42.md) de esta Ley.
 
-En los casos a que se refieren las fracciones I, II, III, IV, V, VI y VIII de este artículo, el documento que consigne el acto o contrato respectivo tendrá el carácter de instrumento público. En las hipótesis previstas por las fracciones VII y IX, se requerirá que la Secretaría autorice los contratos respectivos, para que éstos adquieran el carácter de instrumento público.
+En los casos a que se refieren las fracciones I, II, III, IV, V, VI y VIII de este artículo, el documento que consigne el acto o contrato respectivo tendrá el carácter de instrumento público. En las hipótesis previstas por las fracciones VII y IX, se requerirá que la [Secretaría](articulo-2.md) autorice los contratos respectivos, para que éstos adquieran el carácter de instrumento público.

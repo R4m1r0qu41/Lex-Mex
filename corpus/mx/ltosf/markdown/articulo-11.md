@@ -41,7 +41,9 @@ IV. Los procedimientos de notificación y bases para la aceptación por parte de
 
 V. El procedimiento a seguirse para la cancelación del servicio; Fracción reformada DOF 25-06-2009
 
-VI. Los conceptos de cobro y sus montos; Fracción reformada DOF 25-06-2009 VII. El espacio donde deba firmar el aval, fiador u obligado solidario, en todo contrato de adhesión que documente un crédito, préstamo o financiamiento, incorporando una advertencia respecto de las consecuencias de firmar el contrato, en caso de que el obligado principal incumpla por cualquier causa, y Fracción adicionada DOF 25-06-2009
+VI. Los conceptos de cobro y sus montos; Fracción reformada DOF 25-06-2009
+
+VII. El espacio donde deba firmar el aval, fiador u obligado solidario, en todo contrato de adhesión que documente un crédito, préstamo o financiamiento, incorporando una advertencia respecto de las consecuencias de firmar el contrato, en caso de que el obligado principal incumpla por cualquier causa, y Fracción adicionada DOF 25-06-2009
 
 VIII. La Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros podrá requerir la inclusión de leyendas explicativas. Fracción adicionada DOF 25-06-2009
 

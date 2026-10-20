@@ -17,9 +17,9 @@ source_sha256: cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7
 
 # Artículo 26
 
-Corresponde al Presidente de la Comisión Nacional:
+Corresponde al [Presidente](articulo-2o.md) de la [Comisión Nacional](articulo-2o.md):
 
-I. La representación legal de la Comisión Nacional y el ejercicio de sus facultades, sin perjuicio de las que esta Ley u otras Leyes confiere a la Junta; Fracción reformada DOF 25-06-2009
+I. La representación legal de la Comisión Nacional y el ejercicio de sus facultades, sin perjuicio de las que esta Ley u otras Leyes confiere a la [Junta](articulo-2o.md); Fracción reformada DOF 25-06-2009
 
 II. Ejecutar los acuerdos de la Junta;
 
@@ -33,7 +33,7 @@ VII. Otorgar, sustituir y revocar poderes generales y especiales con las faculta
 
 VIII. Solicitar la aprobación de la Junta para todas las disposiciones de carácter general que crea pertinentes;
 
-IX. Informar a la Secretaría respecto de los casos concretos que ésta le solicite;
+IX. Informar a la [Secretaría](articulo-2o.md) respecto de los casos concretos que ésta le solicite;
 
 X. Presentar anualmente los presupuestos de la Comisión Nacional, los cuales una vez aprobados por la Junta, serán sometidos a la autorización de la Secretaría;
 

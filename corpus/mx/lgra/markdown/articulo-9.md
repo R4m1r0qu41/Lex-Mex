@@ -27,7 +27,7 @@ III. La [Auditoría Superior](articulo-3.md) de la Federación y las [Entidades 
 
 IV. Los [Tribunales](articulo-3.md);
 
-V. Tratándose de las responsabilidades administrativas de las Personas Servidoras Públicas de los poderes judiciales, serán competentes para investigar e imponer las sanciones que correspondan:
+V. Tratándose de las responsabilidades administrativas de las [Personas Servidoras Públicas](articulo-3.md) de los poderes judiciales, serán competentes para investigar e imponer las sanciones que correspondan:
 
 a) Tratándose del Poder Judicial de la Federación, el Tribunal de Disciplina Judicial conforme al régimen establecido en los artículos 94, 100 y 109 de la [Constitución](articulo-3.md) y en su reglamentación interna correspondiente.
 

@@ -17,4 +17,4 @@ source_sha256: e5c0ecb4328043b7090ee5d73e982d6a04410f1330f6fdb350a7a34527eb2e59
 
 # Artículo 154
 
-En todos los casos en que la Ley señale como sanción el decomiso, la autoridad deberá retener provisionalmente las embarcaciones, los vehículos, las artes de pesca y los productos y subproductos.
+En todos los casos en que la [Ley](articulo-2o.md) señale como sanción el decomiso, la autoridad deberá retener provisionalmente las embarcaciones, los vehículos, las artes de pesca y los productos y subproductos.

@@ -17,4 +17,4 @@ source_sha256: 703f083c0baedfb4ef5ce8b62c78684d8ee0073f393321d476d75ebe4878e1d5
 
 # Artículo 27
 
-La Dirección y Rectoría es responsable de la capacitación del personal docente para satisfacer las necesidades del Sistema.
+La Dirección y Rectoría es responsable de la capacitación del personal docente para satisfacer las necesidades del [Sistema](articulo-3.md).

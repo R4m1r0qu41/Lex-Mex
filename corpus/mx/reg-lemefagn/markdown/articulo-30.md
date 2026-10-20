@@ -17,7 +17,7 @@ source_sha256: 703f083c0baedfb4ef5ce8b62c78684d8ee0073f393321d476d75ebe4878e1d5
 
 # Artículo 30
 
-Las Instituciones Educativas deberán integrar y mantener actualizado un expediente individual de las personas docentes, con copia certificada de la documentación básica siguiente: Párrafo reformado DOF 20-03-2026
+Las [Instituciones Educativas](articulo-3.md) deberán integrar y mantener actualizado un expediente individual de las personas docentes, con copia certificada de la documentación básica siguiente: Párrafo reformado DOF 20-03-2026
 
 I. Comprobante de los estudios realizados;
 

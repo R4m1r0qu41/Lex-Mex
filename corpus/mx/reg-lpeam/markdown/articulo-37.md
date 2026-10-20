@@ -17,4 +17,4 @@ source_sha256: 4195c0740ad46978a8b0f2d43f0ac6d77e46b0216bd6f756950b1a050044ce98
 
 # Artículo 37
 
-El Centro debe llevar a cabo el monitoreo del Espacio Aéreo Mexicano a través de los subsistemas de Coordinación y de Ejecución, con el fin de obtener información de las aeronaves que sobrevuelen el Espacio Aéreo Mexicano, así como de aquellas que se encuentren en vuelo fuera de dicho espacio y con rumbo aparente hacia territorio mexicano, como medida de seguridad ante una Amenaza aérea.
+El Centro debe llevar a cabo el monitoreo del Espacio Aéreo Mexicano a través de los subsistemas de Coordinación y de Ejecución, con el fin de obtener información de las aeronaves que sobrevuelen el Espacio Aéreo Mexicano, así como de aquellas que se encuentren en vuelo fuera de dicho espacio y con rumbo aparente hacia territorio mexicano, como medida de seguridad ante una [Amenaza aérea](articulo-4.md).

@@ -17,7 +17,7 @@ source_sha256: 96092a4581d4e87910eb58939da4045879e4fe613b12f4413d7392bcc2c6e884
 
 # Artículo 10
 
-La Secretaría tiene la atribución de autorizar a las personas que practiquen actividades de tiro y cacería inscritos en un club o asociación debidamente acreditados ante la referida Secretaría, la posesión en su domicilio, el transporte y la portación, dentro del campo de tiro o cotos de caza autorizada de hasta 10 armas siguientes: Párrafo reformado DOF 29-05-2025
+La [Secretaría](articulo-1o-Bis.md) tiene la atribución de autorizar a las personas que practiquen actividades de tiro y cacería inscritos en un club o asociación debidamente acreditados ante la referida Secretaría, la posesión en su domicilio, el transporte y la portación, dentro del campo de tiro o cotos de caza autorizada de hasta 10 armas siguientes: Párrafo reformado DOF 29-05-2025
 
 I.- Pistolas, revólveres y rifles calibre .22, de fuego circular.
 
@@ -35,6 +35,6 @@ VII.- Las demás armas de características deportivas de acuerdo con las normas 
 
 VIII.- Armas accionadas por gas, aire comprimido o pistón superiores a los 140 Joules de energía cinética y cuyos efectos se asimilan a las armas de fuego. Fracción adicionada DOF 29-05-2025
 
-Se les puede expedir un permiso extraordinario de transportación de armas a las personas que practiquen actividades de tiro y cacería o a quienes justifiquen las causas de necesidad conforme a los procedimientos señalados en el Reglamento de esta Ley y las disposiciones que emita la Secretaría. Párrafo adicionado DOF 29-05-2025
+Se les puede expedir un permiso extraordinario de transportación de armas a las personas que practiquen actividades de tiro y cacería o a quienes justifiquen las causas de necesidad conforme a los procedimientos señalados en el [Reglamento](articulo-1o-Bis.md) de esta [Ley](articulo-1o-Bis.md) y las disposiciones que emita la Secretaría. Párrafo adicionado DOF 29-05-2025
 
 A las personas que practiquen el deporte de la charrería podrá autorizárseles revólveres de mayor calibre que el de los señalados en el artículo [9](articulo-9o.md)o. de ésta Ley, únicamente como complemento del atuendo charro, debiendo llevarlos descargados. Párrafo reformado DOF 08-02-1985

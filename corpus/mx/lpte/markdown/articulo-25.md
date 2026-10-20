@@ -17,4 +17,4 @@ source_sha256: c24aa3a57883383635d5271683dd76e561f21852328f0e89f6bf1c2a09aa2d41
 
 # Artículo 25
 
-Los escenarios de largo plazo tienen un horizonte al menos de 30 años y los de mediano plazo de 15 años. La Estrategia debe incluir, al menos, las metas de Energías Renovables y demás Energías Limpias, Eficiencia Energética, reducción de la Pobreza Energética, electrificación de los usos finales de la energía y reducción de Emisiones Contaminantes que deben reflejar las aportaciones del Sector Energético a los compromisos en materia de cambio climático de México.
+Los escenarios de largo plazo tienen un horizonte al menos de 30 años y los de mediano plazo de 15 años. La [Estrategia](articulo-3.md) debe incluir, al menos, las metas de [Energías Renovables](articulo-3.md) y demás [Energías Limpias](articulo-3.md), [Eficiencia Energética](articulo-3.md), reducción de la [Pobreza Energética](articulo-3.md), electrificación de los usos finales de la energía y reducción de [Emisiones](articulo-3.md) [Contaminantes](articulo-3.md) que deben reflejar las aportaciones del [Sector Energético](articulo-3.md) a los compromisos en materia de cambio climático de México.

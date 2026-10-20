@@ -29,4 +29,4 @@ IV. Merma inusual, el excedente a la merma máxima que la substancia hubiere exp
 
 V. Procesar, darle a las substancias la presentación final de cápsulas, tabletas o comprimidos.
 
-Son aplicables al presente Reglamento, las definiciones previstas en el artículo [2](../../lfcpq/markdown/articulo-2.md) de la Ley.
+Son aplicables al presente Reglamento, las definiciones previstas en el artículo [2](../../lfcpq/markdown/articulo-2.md) de la [Ley](articulo-2.md).

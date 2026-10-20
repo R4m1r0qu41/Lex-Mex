@@ -93,4 +93,4 @@ XXVII Bis. El tratamiento integral del dolor; Fracción adicionada DOF 05-01-200
 
 XXVIII. La salud digital, y Fracción adicionada DOF 15-01-2026
 
-XXIX. Las demás materias que establezca esta Ley y otros ordenamientos legales, de conformidad con el párrafo tercero del artículo [4](articulo-4o.md)o. Constitucional. Fracción recorrida DOF 24-02-2005, 05-01-2009. Recorrida (antes fracción XXXI) DOF 10-06-2011. Reformada y recorrida DOF 15-01-2026
+XXIX. Las demás materias que establezca esta Ley y otros ordenamientos legales, de conformidad con el párrafo tercero del artículo 4o. Constitucional. Fracción recorrida DOF 24-02-2005, 05-01-2009. Recorrida (antes fracción XXXI) DOF 10-06-2011. Reformada y recorrida DOF 15-01-2026

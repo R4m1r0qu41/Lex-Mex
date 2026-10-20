@@ -21,7 +21,7 @@ Las acciones, medidas, mecanismos y procedimientos, así como la planeación, pr
 
 I. Dignidad humana: Entendido como el respeto a la dignidad humana inherente a toda persona como condición y base de todos los derechos humanos y de manera específica del derecho a la integridad personal, como el bien jurídico principal que se tutela frente al delito de tortura;
 
-II. Debida diligencia: Que se traduce en que toda prevención, investigación, proceso penal y reparación que se inicie por los delitos o violaciones a derechos fundamentales previstos en esta Ley, se deberá garantizar su desarrollo de manera autónoma, independiente, inmediata, imparcial, eficaz; y deberán ser realizadas con oportunidad, exhaustividad, respeto de derechos humanos y máximo nivel de profesionalismo;
+II. Debida diligencia: Que se traduce en que toda prevención, investigación, proceso penal y reparación que se inicie por los delitos o violaciones a derechos fundamentales previstos en esta [Ley](articulo-5.md), se deberá garantizar su desarrollo de manera autónoma, independiente, inmediata, imparcial, eficaz; y deberán ser realizadas con oportunidad, exhaustividad, respeto de derechos humanos y máximo nivel de profesionalismo;
 
 III. Enfoque diferencial y especializado: Al aplicar la Ley, las autoridades deben tener en cuenta la existencia de grupos de población con características particulares o con mayor situación de vulnerabilidad en razón de su origen étnico o nacional, idioma o lengua, religión, edad, género, preferencia u orientación sexual, identidad de género, condición de discapacidad, condición social, económica, histórica y cultural, así como otras circunstancias diferenciadoras y que requieran de una atención especializada por las mismas;
 

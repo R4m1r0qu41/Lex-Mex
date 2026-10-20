@@ -19,6 +19,6 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 Procederá la nulidad de la declaratoria cuando:
 
-I.- Se haya otorgado en contravención a las disposiciones de esta Ley, y
+I.- Se haya otorgado en contravención a las disposiciones de esta [Ley](articulo-4.md), y
 
-II.- Se hubiese concedido a quien no tuviera derecho a obtenerla. Las declaraciones administrativas de nulidad se harán por el Instituto, a petición de quien tenga interés jurídico y acredite los supuestos en los que funda su solicitud.
+II.- Se hubiese concedido a quien no tuviera derecho a obtenerla. Las declaraciones administrativas de nulidad se harán por el [Instituto](articulo-4.md), a petición de quien tenga interés jurídico y acredite los supuestos en los que funda su solicitud.

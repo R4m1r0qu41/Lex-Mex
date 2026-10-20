@@ -17,6 +17,6 @@ source_sha256: d8dd1de3627b899bb4faf31c2812c3d5f14f7108be153d5aa8dd549b9136184a
 
 # Artículo 60
 
-La declaratoria de desastre natural es el acto mediante el cual la Secretaría reconoce la presencia de un agente natural perturbador severo en determinados municipios o demarcaciones territoriales de una o más entidades federativas, cuyos daños rebasan la capacidad financiera y operativa local para su atención, para efectos de poder acceder a recursos del instrumento financiero de atención de desastres naturales. Párrafo reformado DOF 19-01-2018
+La declaratoria de desastre natural es el acto mediante el cual la [Secretaría](articulo-2.md) reconoce la presencia de un agente natural perturbador severo en determinados municipios o demarcaciones territoriales de una o más entidades federativas, cuyos daños rebasan la capacidad financiera y operativa local para su atención, para efectos de poder acceder a recursos del instrumento financiero de atención de desastres naturales. Párrafo reformado DOF 19-01-2018
 
 Para el caso de las declaratorias de desastre natural, éstas también podrán ser solicitadas por los titulares de las instancias públicas federales, a fin de que éstas puedan atender los daños sufridos en la infraestructura, bienes y patrimonio federal a su cargo.

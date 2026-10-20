@@ -17,4 +17,4 @@ source_sha256: 0ad7a7b6d7dffd7d9a582d74ebd6fc43e6baa79f71801a73dc70d1b77c414ded
 
 # Artículo 8o
 
-Las organizaciones ganaderas constituidas conforme a la Ley y este Reglamento deberán ostentar en su denominación el tipo de organización ganadera bajo la cual están constituidas, la especialización que tuvieren, en su caso, y el registro otorgado por la Secretaría.
+Las organizaciones ganaderas constituidas conforme a la Ley y este [Reglamento](articulo-2o.md) deberán ostentar en su denominación el tipo de organización ganadera bajo la cual están constituidas, la especialización que tuvieren, en su caso, y el registro otorgado por la Secretaría.

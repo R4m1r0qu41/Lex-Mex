@@ -17,6 +17,6 @@ source_sha256: 4b4529ce2b1275ea9363ab78b6e2d504cd1106bc3d10fd70f09246c38b0cd31e
 
 # Artículo 16
 
-El Director General deberá informar al Consejo Técnico, con la periodicidad que este determine, sobre el uso de los recursos de las Reservas o la Reserva General.
+El Director General deberá informar al [Consejo Técnico](articulo-2.md), con la periodicidad que este determine, sobre el uso de los recursos de las [Reservas](articulo-2.md) o la [Reserva General](articulo-2.md).
 
 Con base en los informes señalados en el párrafo anterior, el Consejo Técnico podrá adoptar las medidas que estime necesarias para la adecuada aplicación de las Reservas y de la Reserva General.

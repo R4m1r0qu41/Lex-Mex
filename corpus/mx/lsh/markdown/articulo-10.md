@@ -17,4 +17,4 @@ source_sha256: 1405f36fd836ff74d059ebe7e50ae439cbb9e5e291a317514667f34a26f72a23
 
 # Artículo 10
 
-La Secretaría de Energía es la encargada de otorgar las Asignaciones a Petróleos Mexicanos, bajo las siguientes modalidades: I. Asignaciones para Desarrollo Propio, y II. Asignaciones para Desarrollo Mixto.
+La Secretaría de Energía es la encargada de otorgar las [Asignaciones](articulo-5.md) a [Petróleos](articulo-5.md) Mexicanos, bajo las siguientes modalidades: I. Asignaciones para Desarrollo Propio, y II. Asignaciones para Desarrollo Mixto.

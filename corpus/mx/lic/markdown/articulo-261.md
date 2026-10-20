@@ -23,9 +23,7 @@ Para efectos de lo previsto en la presente sección, se entenderá por periodo d
 
 I. Los doscientos setenta días anteriores a la fecha en que entre en funciones el administrador cautelar, el liquidador o el liquidador judicial, lo que ocurra primero, o
 
-II. En caso de que la institución de banca múltiple hubiere presentado la solicitud de operación condicionada a que se refiere el artículo [29 Bis 2](articulo-29-Bis-2.md) de esta Ley, el comprendido desde el día doscientos setenta anterior a la fecha de presentación de dicha solicitud y hasta la fecha en que entre en funciones el administrador cautelar, el liquidador o el liquidador judicial, lo que ocurra
-
-primero.
+II. En caso de que la institución de banca múltiple hubiere presentado la solicitud de operación condicionada a que se refiere el artículo [29 Bis 2](articulo-29-Bis-2.md) de esta Ley, el comprendido desde el día doscientos setenta anterior a la fecha de presentación de dicha solicitud y hasta la fecha en que entre en funciones el administrador cautelar, el liquidador o el liquidador judicial, lo que ocurra primero.
 
 El juez de distrito que conozca de la liquidación judicial, a solicitud del liquidador judicial o de cualquier acreedor, podrá establecer un plazo mayor al señalado en las fracciones anteriores cuando a su juicio se justifique.
 

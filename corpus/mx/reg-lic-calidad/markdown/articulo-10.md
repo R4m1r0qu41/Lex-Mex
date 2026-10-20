@@ -17,4 +17,4 @@ source_sha256: d23aedc9ffdb09b9202311f03023241da20445cb45aea855b37bfd9685768861
 
 # Artículo 10
 
-La marca de certificación que proteja a una contraseña oficial, así como sus reglas de uso, se rigen por la normatividad en materia de propiedad industrial, la Ley, este Reglamento y demás disposiciones normativas aplicables.
+La marca de certificación que proteja a una contraseña oficial, así como sus reglas de uso, se rigen por la normatividad en materia de propiedad industrial, la [Ley](articulo-2.md), este Reglamento y demás disposiciones normativas aplicables.

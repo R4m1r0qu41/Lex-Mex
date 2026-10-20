@@ -17,4 +17,4 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 60
 
-Cualquier solicitud de inscripción en el "Registro" deberá hacerse por escrito, pudiendo utilizar los formatos proporcionados por "La Comisión", acompañando el comprobante de pago de los derechos respectivos.
+Cualquier solicitud de inscripción en el "[Registro](articulo-1o.md)" deberá hacerse por escrito, pudiendo utilizar los formatos proporcionados por "[La Comisión](articulo-1o.md)", acompañando el comprobante de pago de los derechos respectivos.

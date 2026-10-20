@@ -17,4 +17,4 @@ source_sha256: d25fabb2d2e90d9f76028717f83c442d05a4f64024f13461285bda8ebd389a04
 
 # Artículo 39
 
-La Secretaría promoverá y gestionará, en el ámbito de su competencia, la formulación de los programas de ordenamiento ecológico regional que se determinen como parte de las estrategias ecológicas del programa de ordenamiento ecológico general del territorio.
+La [Secretaría](articulo-3o.md) promoverá y gestionará, en el ámbito de su competencia, la formulación de los programas de ordenamiento ecológico regional que se determinen como parte de las estrategias ecológicas del programa de ordenamiento ecológico general del territorio.

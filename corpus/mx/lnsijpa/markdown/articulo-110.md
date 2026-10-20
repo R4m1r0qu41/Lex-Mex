@@ -17,8 +17,8 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 # Artículo 110
 
-De la posible acumulación y separación de procesos La acumulación o separación de procesos procederá y se resolverá de conformidad con el Código Nacional.
+De la posible acumulación y separación de procesos La acumulación o separación de procesos procederá y se resolverá de conformidad con el [Código Nacional](articulo-3.md).
 
-En los casos de acumulación de procesos seguidos a una misma persona adolescente, el Órgano Jurisdiccional competente decretará, en su caso, las medidas que correspondan.
+En los casos de acumulación de procesos seguidos a una misma persona adolescente, el [Órgano Jurisdiccional](articulo-3.md) competente decretará, en su caso, las medidas que correspondan.
 
-En caso de que se decretara la separación de procesos que se estuvieren siguiendo a una misma persona adolescente, y se resolvieren dictando medidas en más de uno de ellos, en el caso de su ejecución se atenderá a lo establecido en el Libro Cuarto de esta Ley.
+En caso de que se decretara la separación de procesos que se estuvieren siguiendo a una misma persona adolescente, y se resolvieren dictando medidas en más de uno de ellos, en el caso de su ejecución se atenderá a lo establecido en el Libro Cuarto de esta [Ley](articulo-3.md).

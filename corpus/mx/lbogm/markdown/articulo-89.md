@@ -17,7 +17,7 @@ source_sha256: b3c906475b455176de73da17f4f93a73f295965dc9bcca854b48417c7d4d3cfc
 
 # Artículo 89
 
-En las áreas naturales protegidas creadas de conformidad con lo dispuesto en la materia, sólo se permitirán actividades con OGMs para fines de biorremediación, en los casos en que aparezcan plagas o contaminantes que pudieran poner en peligro la existencia de especies animales, vegetales o acuícolas, y los OGMs hayan sido creados para evitar o combatir dicha situación, siempre que se cuente con los elementos científicos y técnicos necesarios que soporten el beneficio ambiental que se pretende obtener, y dichas actividades sean permitidas por la SEMARNAT en los términos de esta Ley.
+En las áreas naturales protegidas creadas de conformidad con lo dispuesto en la materia, sólo se permitirán actividades con OGMs para fines de biorremediación, en los casos en que aparezcan plagas o contaminantes que pudieran poner en peligro la existencia de especies animales, vegetales o acuícolas, y los OGMs hayan sido creados para evitar o combatir dicha situación, siempre que se cuente con los elementos científicos y técnicos necesarios que soporten el beneficio ambiental que se pretende obtener, y dichas actividades sean permitidas por la [SEMARNAT](articulo-3.md) en los términos de esta Ley.
 
 Para los efectos de lo dispuesto en el párrafo anterior, queda prohibido realizar actividades con OGMs en las zonas núcleo de las áreas naturales protegidas.
 

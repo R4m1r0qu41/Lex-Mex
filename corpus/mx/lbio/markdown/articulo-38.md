@@ -17,4 +17,4 @@ source_sha256: c1870db657a6564bbeb692a1778472db811a920626822de553ff5ca5194f95b4
 
 # Artículo 38
 
-La SENER, la SADER y la SEMARNAT, en el ámbito de sus respectivas atribuciones, puede comprobar el cumplimiento de las disposiciones contenidas en la presente Ley y las que deriven de ella mediante visitas de verificación o los mecanismos que estas dependencias definan para ello y, en su caso, determinar las infracciones e imponer las sanciones correspondientes, sujetándose a lo dispuesto en la Ley Federal de Procedimiento Administrativo.
+La [SENER](articulo-2.md), la [SADER](articulo-2.md) y la [SEMARNAT](articulo-2.md), en el ámbito de sus respectivas atribuciones, puede comprobar el cumplimiento de las disposiciones contenidas en la presente [Ley](articulo-2.md) y las que deriven de ella mediante visitas de verificación o los mecanismos que estas dependencias definan para ello y, en su caso, determinar las infracciones e imponer las sanciones correspondientes, sujetándose a lo dispuesto en la Ley Federal de Procedimiento Administrativo.

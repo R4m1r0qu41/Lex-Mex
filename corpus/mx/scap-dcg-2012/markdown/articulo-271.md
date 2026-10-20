@@ -17,4 +17,4 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 271
 
-El Fondo de Protección tendrá como fin primordial procurar cubrir los depósitos de dinero de los Socios ahorradores, considerando el monto del principal y accesorios, hasta por una cantidad equivalente a 25,000 UDIS por Socio, cualquiera que sea el número y clase de depósitos a su favor y a cargo de una misma Sociedad, de conformidad con lo que establece la Ley.
+El [Fondo de Protección](articulo-1.md) tendrá como fin primordial procurar cubrir los depósitos de dinero de los [Socios](articulo-1.md) ahorradores, considerando el monto del principal y accesorios, hasta por una cantidad equivalente a 25,000 UDIS por Socio, cualquiera que sea el número y clase de depósitos a su favor y a cargo de una misma Sociedad, de conformidad con lo que establece la [Ley](articulo-1.md).

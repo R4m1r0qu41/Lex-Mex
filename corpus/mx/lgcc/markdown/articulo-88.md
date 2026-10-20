@@ -17,4 +17,4 @@ source_sha256: fa7447754261e46a344d4b49a9be0e1a5bd0eaf28c1ef12c721c124fe39e7b15
 
 # Artículo 88
 
-Las personas físicas y morales responsables de las fuentes sujetas a reporte están obligadas a proporcionar la información, datos y documentos necesarios sobre sus emisiones directas e indirectas para la integración del Registro.
+Las personas físicas y morales responsables de las fuentes sujetas a reporte están obligadas a proporcionar la información, datos y documentos necesarios sobre sus emisiones directas e indirectas para la integración del [Registro](articulo-3o.md).

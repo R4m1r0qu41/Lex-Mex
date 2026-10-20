@@ -17,4 +17,4 @@ source_sha256: 667636f9e0ea65e72ac9d6d7b4d7563a183b75d0f140268a61929c74f5f88041
 
 # Artículo 64
 
-La resolución administrativa que se dicte, señalará, además de las infracciones y sanciones, las medidas que deberán llevarse a cabo para corregir las deficiencias o irregularidades observadas durante la inspección y el plazo otorgado para cumplirlas, en los términos de la Ley.
+La resolución administrativa que se dicte, señalará, además de las infracciones y sanciones, las medidas que deberán llevarse a cabo para corregir las deficiencias o irregularidades observadas durante la inspección y el plazo otorgado para cumplirlas, en los términos de la [Ley](articulo-2.md).

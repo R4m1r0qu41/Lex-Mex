@@ -21,7 +21,7 @@ El emisor de la receta prescribirá los medicamentos de conformidad con lo sigui
 
 I. Cuando se trate de [Medicamentos Genéricos](articulo-2o.md), deberá anotar la [Denominación Genérica](articulo-2o.md) y si lo desea, podrá indicar la denominación distintiva de su preferencia;
 
-I Bis. Tratándose de medicamentos biotecnológicos, se deberá anotar la Denominación Común Internacional, y de manera opcional, la denominación distintiva; Fracción adicionada DOF 19-10-2011
+I Bis. Tratándose de medicamentos biotecnológicos, se deberá anotar la [Denominación Común Internacional](articulo-2o.md), y de manera opcional, la denominación distintiva; Fracción adicionada DOF 19-10-2011
 
 II. En los demás casos podrá expresar la denominación distintiva o conjuntamente las denominaciones genérica y distintiva;
 

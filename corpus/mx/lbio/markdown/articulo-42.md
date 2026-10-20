@@ -17,7 +17,7 @@ source_sha256: c1870db657a6564bbeb692a1778472db811a920626822de553ff5ca5194f95b4
 
 # Artículo 42
 
-Para la aplicación de las sanciones previstas en esta Ley, la autoridad administrativa debe fundar y motivar su resolución considerando:
+Para la aplicación de las sanciones previstas en esta [Ley](articulo-2.md), la autoridad administrativa debe fundar y motivar su resolución considerando:
 
 I. Los daños que se hubieren producido o puedan producirse;
 

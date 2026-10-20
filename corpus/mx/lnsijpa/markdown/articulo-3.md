@@ -17,7 +17,7 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 # Artículo 3
 
-Glosario Para los efectos de esta Ley, se entiende por:
+Glosario Para los efectos de esta [Ley](articulo-3.md), se entiende por:
 
 I. Adolescente: Persona cuya edad está entre los doce años cumplidos y menos de dieciocho;
 
@@ -31,7 +31,7 @@ V. Constitución: Constitución Política de los Estados Unidos Mexicanos;
 
 VI. Convención: Convención sobre los Derechos del Niño;
 
-VII. Defensa: La o el defensor público o la o el defensor particular especializado en el Sistema Integral de Justicia Penal para Adolescentes en los términos de esta Ley;
+VII. Defensa: La o el defensor público o la o el defensor particular especializado en el [Sistema](articulo-3.md) Integral de Justicia Penal para [Adolescentes](articulo-3.md) en los términos de esta Ley;
 
 VIII. Facilitador: Profesional certificado y especializado en adolescentes, cuya función es facilitar la participación de los intervinientes en los mecanismos alternativos y justicia restaurativa; IX. Grupo etario I: Grupo de personas adolescentes que por su edad se encuentren comprendidas en el rango de edad de doce años cumplidos a menos de catorce años;
 
@@ -55,12 +55,12 @@ XVIII. Persona adulta joven: Grupo de personas mayores de dieciocho años sujeto
 
 XIX. Persona responsable de la/el adolescente: Quien o quienes ejercen la patria potestad, custodia o tutela de la persona adolescente;
 
-XX. Plan Individualizado de Actividades: Organización de los tiempos y espacios en que cada adolescente podrá realizar las actividades educativas, deportivas, culturales, de protección al ambiente, a la salud física y mental, personales y para la adquisición de habilidades y destrezas para el desempeño de un oficio, arte, industria o profesión, de acuerdo con su grupo etario, en los términos de la medida cautelar de internamiento preventivo impuesta por el Órgano Jurisdiccional;
+XX. Plan Individualizado de Actividades: Organización de los tiempos y espacios en que cada adolescente podrá realizar las actividades educativas, deportivas, culturales, de protección al ambiente, a la salud física y mental, personales y para la adquisición de habilidades y destrezas para el desempeño de un oficio, arte, industria o profesión, de acuerdo con su grupo etario, en los términos de la medida cautelar de internamiento preventivo impuesta por el [Órgano Jurisdiccional](articulo-3.md);
 
-XXI. Plan Individualizado de Ejecución: El plan que diseña la Autoridad Administrativa en la Ejecución de Medidas por el que se individualiza la ejecución de las medidas de sanción, aprobado por el Juez de Ejecución;
+XXI. Plan Individualizado de Ejecución: El plan que diseña la [Autoridad Administrativa](articulo-3.md) en la Ejecución de Medidas por el que se individualiza la ejecución de las medidas de sanción, aprobado por el Juez de Ejecución;
 
-XXII. Procuradurías de Protección: La Procuraduría Federal de Protección de Niñas, Niños y Adolescentes y las procuradurías de protección de niñas, niños y adolescentes de cada entidad federativa establecidas por la Ley General;
+XXII. Procuradurías de Protección: La Procuraduría Federal de Protección de Niñas, Niños y Adolescentes y las procuradurías de protección de niñas, niños y adolescentes de cada entidad federativa establecidas por la [Ley General](articulo-3.md);
 
 XXIII. Sistema: Sistema Integral de Justicia Penal para Adolescentes, y
 
-XXIV. Víctima u Ofendido: Los señalados en el artículo [108](../../cnpp/markdown/articulo-108.md) del Código Nacional de Procedimientos Penales.
+XXIV. Víctima u Ofendido: Los señalados en el artículo [108](../../cnpp/markdown/articulo-108.md) del [Código Nacional](articulo-3.md) de Procedimientos Penales.

@@ -21,7 +21,7 @@ Para los efectos de esta Ley, se entiende por:
 
 I. Accidente: La liberación involuntaria de organismos genéticamente modificados durante su utilización y que pueda suponer, con base en criterios técnicos, posibles riesgos para la salud humana o para el medio ambiente y la diversidad biológica. II. Actividades: La utilización confinada, la liberación experimental, la liberación en programa piloto, la liberación comercial, la comercialización, la importación y la exportación de organismos genéticamente modificados, conforme a esta Ley.
 
-III. Autorización: Es el acto administrativo mediante el cual la Secretaría de Salud, en el ámbito de su competencia conforme a esta Ley, autoriza organismos genéticamente modificados determinados expresamente en este ordenamiento, a efecto de que se pueda realizar su comercialización e importación para su comercialización, así como su utilización con finalidades de salud pública o de biorremediación.
+III. Autorización: Es el acto administrativo mediante el cual la [Secretaría](articulo-3.md) de Salud, en el ámbito de su competencia conforme a esta Ley, autoriza organismos genéticamente modificados determinados expresamente en este ordenamiento, a efecto de que se pueda realizar su comercialización e importación para su comercialización, así como su utilización con finalidades de salud pública o de biorremediación.
 
 IV. Biorremediación: El proceso en el que se utilizan microorganismos genéticamente modificados para la degradación o desintegración de contaminantes que afecten recursos y/o elementos naturales, a efecto de convertirlos en componentes más sencillos y menos dañinos o no dañinos al ambiente.
 
@@ -37,7 +37,7 @@ IX. Centro de diversidad genética: Es aquella área geográfica del territorio 
 
 X. Comercialización: Es la introducción al mercado para distribución y consumo de organismos genéticamente modificados en calidad de productos o mercancías, sin propósitos de liberación intencional al medio ambiente y con independencia del ánimo de lucro y del título jurídico bajo el cual se realice.
 
-XI. CIBIOGEM: La Comisión Intersecretarial de Bioseguridad de los Organismos Genéticamente Modificados.
+XI. CIBIOGEM: La Comisión Intersecretarial de [Bioseguridad](articulo-3.md) de los [Organismos](articulo-3.md) Genéticamente Modificados.
 
 XII. CONACyT: El Consejo Nacional de Ciencia y Tecnología.
 
@@ -63,7 +63,7 @@ XXII. OGM u OGMs: Organismo u organismos genéticamente modificados.
 
 XXIII. Paso a paso: Enfoque metodológico conforme al cual, todo OGM que esté destinado a ser liberado comercialmente debe ser previamente sometido a pruebas satisfactorias conforme a los estudios de riesgo, la evaluación de riesgos y los reportes de resultados aplicables en la realización de actividades de liberación experimental y de liberación en programa piloto de dichos organismos, en los términos de esta Ley.
 
-XXIV. Permiso: Es el acto administrativo que le corresponde emitir a la SEMARNAT o a la SAGARPA, en el ámbito de sus respectivas competencias conforme a esta Ley, necesario para la realización de la liberación experimental, la liberación en programa piloto, la liberación comercial y la importación de OGMs para realizar dichas actividades, en los casos y términos establecidos en esta Ley y en las normas oficiales mexicanas que de ella deriven.
+XXIV. Permiso: Es el acto administrativo que le corresponde emitir a la [SEMARNAT](articulo-3.md) o a la [SAGARPA](articulo-3.md), en el ámbito de sus respectivas competencias conforme a esta Ley, necesario para la realización de la liberación experimental, la liberación en programa piloto, la liberación comercial y la importación de OGMs para realizar dichas actividades, en los casos y términos establecidos en esta Ley y en las normas oficiales mexicanas que de ella deriven.
 
 XXV. Productos que contengan organismos genéticamente modificados: Son aquellos que contienen algún o algunos organismos genéticamente modificados en su composición para comercialización.
 
@@ -73,7 +73,7 @@ XXVII. Registro: El Registro Nacional de Bioseguridad de los Organismos Genétic
 
 XXVIII. Residuos: Cualquier material de desecho generado en la utilización confinada de organismos genéticamente modificados, incluidos los propios organismos genéticamente modificados.
 
-XXIX. Secretarías: La Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, la Secretaría de Medio Ambiente y Recursos Naturales y la Secretaría de Salud, respecto de sus respectivos ámbitos de competencia establecidos en esta Ley.
+XXIX. Secretarías: La Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, la Secretaría de [Medio Ambiente](articulo-3.md) y Recursos Naturales y la Secretaría de Salud, respecto de sus respectivos ámbitos de competencia establecidos en esta Ley.
 
 XXX. SAGARPA: La Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación.
 

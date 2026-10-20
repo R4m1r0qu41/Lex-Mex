@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título IV · Capítulo II
+
 # Artículo 102
 
 La persona o grupo de personas que hayan realizado la oferta pública a que se refiere el artículo [98](articulo-98.md) de esta Ley respecto de una sociedad anónima que a su vez sea tenedora o propietaria del treinta por ciento o más de las acciones ordinarias de otra sociedad anónima cuyas acciones representativas del capital social o títulos de crédito que las representen se encuentren inscritas en el [Registro](articulo-2.md), no estarán obligadas a llevar a cabo oferta pública forzosa de adquisición respecto del capital social de esta última sociedad, siempre que la misma represente menos del cincuenta por ciento de los activos consolidados de la sociedad anónima sobre la cual se llevó a cabo la oferta.

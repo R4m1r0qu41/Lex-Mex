@@ -17,7 +17,7 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 116
 
-Cuando por ausencias de los trabajadores a sus labores no se paguen salarios pero subsista la relación laboral, para los efectos señalados en la fracción III del artículo [31](../../lss/markdown/articulo-31.md) de la Ley, se observará lo siguiente:
+Cuando por ausencias de los trabajadores a sus labores no se paguen salarios pero subsista la relación laboral, para los efectos señalados en la fracción III del artículo [31](../../lss/markdown/articulo-31.md) de la [Ley](../../lss/markdown/articulo-5-A.md), se observará lo siguiente:
 
 I. En el caso de trabajadores con jornada reducida se seguirán las reglas establecidas en la fracción I, del artículo [31](../../lss/markdown/articulo-31.md) de la Ley, y
 

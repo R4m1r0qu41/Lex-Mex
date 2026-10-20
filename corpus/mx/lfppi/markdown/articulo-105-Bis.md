@@ -21,7 +21,7 @@ La persona inventora o su causahabiente podrá presentar una solicitud provision
 
 La solicitud provisional de patente en México deberá contener el nombre de la persona inventora o su causahabiente y estar acompañada de la descripción que permita identificar la invención reclamada.
 
-Para beneficiarse de este derecho, la persona solicitante tiene un plazo improrrogable de doce meses contado a partir de la fecha en que fue recibida la solicitud provisional de patente en México, para presentar la solicitud de patente correspondiente que cumpla con los requisitos previstos en esta Ley y su Reglamento. Una solicitud provisional de patente en México no gozará del derecho de prioridad respecto de otra solicitud o del beneficio de una fecha de presentación anterior en el Instituto.
+Para beneficiarse de este derecho, la persona solicitante tiene un plazo improrrogable de doce meses contado a partir de la fecha en que fue recibida la solicitud provisional de patente en México, para presentar la solicitud de patente correspondiente que cumpla con los requisitos previstos en esta [Ley](articulo-4.md) y su Reglamento. Una solicitud provisional de patente en México no gozará del derecho de prioridad respecto de otra solicitud o del beneficio de una fecha de presentación anterior en el [Instituto](articulo-4.md).
 
 La solicitud provisional de patente en México no será publicada ni será objeto de examen por parte del Instituto.
 

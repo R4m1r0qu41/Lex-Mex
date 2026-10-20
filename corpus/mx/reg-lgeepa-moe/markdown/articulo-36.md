@@ -17,4 +17,4 @@ source_sha256: d25fabb2d2e90d9f76028717f83c442d05a4f64024f13461285bda8ebd389a04
 
 # Artículo 36
 
-La Secretaría podrá promover la modificación del programa de ordenamiento ecológico general del territorio, entre otros supuestos, cuando surjan nuevas áreas de atención prioritaria, siguiendo las mismas formalidades observadas para su formulación.
+La [Secretaría](articulo-3o.md) podrá promover la modificación del programa de ordenamiento ecológico general del territorio, entre otros supuestos, cuando surjan nuevas áreas de atención prioritaria, siguiendo las mismas formalidades observadas para su formulación.

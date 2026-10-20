@@ -17,4 +17,4 @@ source_sha256: 716e427a30e9982ccaa0576288aad2ad5305c624b236a0f342b6a87d60b7a9ed
 
 # Artículo 40
 
-La Secretaría debe asegurar que el PLATEASE se encuentre alineado con el PND y los demás Instrumentos de Planeación del Sector Energético. El PLATEASE debe contener, además de lo establecido en el artículo [29](../../lpte/markdown/articulo-29.md) de la Ley, lo siguiente: I. Marco normativo; II. Diagnóstico y metas; III. Escenarios de mediano plazo del Sector Energético; IV. Acciones, proyectos y programas, y V. Anexos.
+La [Secretaría](articulo-5.md) debe asegurar que el PLATEASE se encuentre alineado con el [PND](articulo-5.md) y los demás [Instrumentos de Planeación del Sector Energético](articulo-5.md). El PLATEASE debe contener, además de lo establecido en el artículo [29](../../lpte/markdown/articulo-29.md) de la [Ley](articulo-5.md), lo siguiente: I. Marco normativo; II. Diagnóstico y metas; III. Escenarios de mediano plazo del Sector Energético; IV. Acciones, proyectos y programas, y V. Anexos.

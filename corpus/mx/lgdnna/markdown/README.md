@@ -165,6 +165,7 @@ Fuente operativa: [camara_de_diputados](https://www.diputados.gob.mx/LeyesBiblio
 - [Artículo 135 Ter](articulo-135-Ter.md)
 - [Artículo 135 Quáter](articulo-135-Quáter.md)
 - [Artículo 135 Quinquies](articulo-135-Quinquies.md)
+- [Artículo 135 Sexties](articulo-135-Sexties.md)
 - [Artículo 135 Septies](articulo-135-Septies.md)
 - [Artículo 136](articulo-136.md)
 - [Artículo 137](articulo-137.md)

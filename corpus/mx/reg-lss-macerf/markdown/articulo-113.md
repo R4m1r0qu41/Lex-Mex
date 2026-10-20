@@ -21,7 +21,7 @@ Las cédulas de determinación serán presentadas por los patrones, conforme a l
 
 I. En las entidades receptoras autorizadas, cuando:
 
-a).- La determinación se haya efectuado mediante el programa informático autorizado por el Instituto y el pago se realice al momento de presentar la cédula de determinación. En este caso, el patrón deberá entregar el medio magnético que contenga la cédula de determinación recabando el comprobante de pago correspondiente.
+a).- La determinación se haya efectuado mediante el programa informático autorizado por el [Instituto](../../lss/markdown/articulo-5-A.md) y el pago se realice al momento de presentar la cédula de determinación. En este caso, el patrón deberá entregar el medio magnético que contenga la cédula de determinación recabando el comprobante de pago correspondiente.
 
 b).- El patrón utilice la cédula de determinación elaborada por el Instituto sin hacer ajustes a ésta y el pago se realice al momento de presentar dicha cédula, recabando copia sellada como comprobante del pago efectuado.
 
@@ -39,4 +39,4 @@ Igualmente será rechazada la cédula de determinación presentada en documento 
 
 El patrón determinará las cuotas obrero patronales mediante el programa informático autorizado por el Instituto, cuando tenga cinco o más trabajadores.
 
-Los patrones que tengan menos de cinco trabajadores, podrán optar por cumplir dicha obligación utilizando la propuesta de cédula de determinación elaborada y entregada por el Instituto conforme al artículo [39](../../lss/markdown/articulo-39.md) A de la Ley.
+Los patrones que tengan menos de cinco trabajadores, podrán optar por cumplir dicha obligación utilizando la propuesta de cédula de determinación elaborada y entregada por el Instituto conforme al artículo [39](../../lss/markdown/articulo-39.md) A de la [Ley](../../lss/markdown/articulo-5-A.md).

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título XIII
+
 # Artículo 358
 
 La [Secretaría](articulo-2.md), la [Comisión](articulo-2.md) y el Banco de México, en el ámbito de su competencia, estarán facultadas para proporcionar a las autoridades financieras del exterior toda clase de información que estimen procedente para atender los requerimientos que le formulen, en el ámbito de su competencia, tales como documentos, constancias, registros, declaraciones y demás evidencias que tales autoridades tengan en su poder por haberla obtenido en ejercicio de sus facultades.

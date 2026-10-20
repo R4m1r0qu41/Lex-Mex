@@ -17,4 +17,4 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 148
 
-El Instituto, en cualquier momento, podrá revisar la obra sujeta al convenio de pago de cuotas y si detectara que el tipo de obra o la superficie es superior a lo convenido, rescindirá administrativamente el convenio en los términos establecidos en el mismo, independientemente de aplicar las sanciones a que hubiera lugar, así como determinar y cobrar las cuotas omitidas y sus accesorios legales.
+El [Instituto](../../lss/markdown/articulo-5-A.md), en cualquier momento, podrá revisar la obra sujeta al convenio de pago de cuotas y si detectara que el tipo de obra o la superficie es superior a lo convenido, rescindirá administrativamente el convenio en los términos establecidos en el mismo, independientemente de aplicar las sanciones a que hubiera lugar, así como determinar y cobrar las cuotas omitidas y sus accesorios legales.

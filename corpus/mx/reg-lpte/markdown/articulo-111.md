@@ -17,4 +17,4 @@ source_sha256: 716e427a30e9982ccaa0576288aad2ad5305c624b236a0f342b6a87d60b7a9ed
 
 # Artículo 111
 
-La Secretaría, la CNE y la CONUEE, por conducto de personal debidamente autorizado, pueden ejecutar visitas de verificación de manera presencial o por medios remotos de comunicación electrónica de conformidad con las disposiciones que para tal efecto emita la Secretaría, para constatar el cumplimiento de la Ley, el Reglamento y las demás disposiciones aplicables.
+La [Secretaría](articulo-5.md), la CNE y la CONUEE, por conducto de personal debidamente autorizado, pueden ejecutar visitas de verificación de manera presencial o por medios remotos de comunicación electrónica de conformidad con las disposiciones que para tal efecto emita la Secretaría, para constatar el cumplimiento de la [Ley](articulo-5.md), el [Reglamento](articulo-5.md) y las demás disposiciones aplicables.

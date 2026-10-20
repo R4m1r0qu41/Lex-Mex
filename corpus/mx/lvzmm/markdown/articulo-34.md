@@ -29,7 +29,7 @@ IV. Testigos de asistencia designados por el personal con quien se atendió la d
 
 VI. Motivo de la inspección;
 
-VII. En los casos en que así proceda, se asentará el oficio expedido por la Secretaría, que lo autorice para realizar la inspección en las zonas marinas mexicanas en materia de vertimiento;
+VII. En los casos en que así proceda, se asentará el oficio expedido por la [Secretaría](articulo-2.md), que lo autorice para realizar la inspección en las zonas marinas mexicanas en materia de vertimiento;
 
 VIII. Descripción de la documentación relacionada con sus actividades y en su caso con el vertimiento;
 
@@ -37,7 +37,7 @@ IX. Narración de los hechos de manera clara y concisa;
 
 X. Descripción de los desechos, o materias encontrados;
 
-XI. Infracciones que se hayan cometido a la presente Ley;
+XI. Infracciones que se hayan cometido a la presente [Ley](articulo-2.md);
 
 XII. Medidas extraordinarias que se hayan adoptado, a fin de evitar se continúe con el vertimiento;
 

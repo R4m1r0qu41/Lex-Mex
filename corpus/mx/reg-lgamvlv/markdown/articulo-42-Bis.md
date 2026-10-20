@@ -17,6 +17,6 @@ source_sha256: 71ee875c26fc6a1024ea9481ca0690721959514689d860112c3093f0176dfcfb
 
 # Artículo 42 Bis
 
-Los Mecanismos para el adelanto de las mujeres, a través de sus Sistemas estatales para prevenir, sancionar y erradicar la violencia contra las mujeres, podrán articular las acciones correspondientes para la coordinación de las autoridades competentes para la emisión, ejecución y cumplimiento de las órdenes de protección.
+Los [Mecanismos para el adelanto de las mujeres](articulo-2.md), a través de sus Sistemas estatales para prevenir, sancionar y erradicar la violencia contra las mujeres, podrán articular las acciones correspondientes para la coordinación de las autoridades competentes para la emisión, ejecución y cumplimiento de las órdenes de protección.
 
 Artículo adicionado DOF 25-11-2013

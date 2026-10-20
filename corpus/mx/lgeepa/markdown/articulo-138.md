@@ -17,7 +17,7 @@ source_sha256: 0574853d06020030188e8aee1eae5dabb2b476ac630cc52be631a48d2b91adbc
 
 # Artículo 138
 
-La Secretaría promoverá la celebración de acuerdos de coordinación y asesoría con los gobiernos estatales y municipales para:
+La [Secretaría](articulo-3o.md) promoverá la celebración de acuerdos de coordinación y asesoría con los gobiernos estatales y municipales para:
 
 I. La implantación y mejoramiento de sistemas de recolección, tratamiento y disposición final de residuos sólidos municipales; y
 

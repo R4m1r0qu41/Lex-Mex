@@ -15,4 +15,4 @@ source_sha256: 5a0e15e01ac963917e019e3cc4ad07e96d76cc6c82c8b4238dfbb3a58a146847
 
 # Décimo Séptimo
 
-La entrada en vigor de esta Ley no afectará el régimen ni los derechos laborales de los trabajadores del Consejo Nacional de Ciencia y Tecnología y de los Centros Públicos de Investigación.
+La entrada en vigor de esta [Ley](articulo-4.md) no afectará el régimen ni los derechos laborales de los trabajadores del [Consejo Nacional](articulo-4.md) de Ciencia y Tecnología y de los [Centros Públicos](articulo-4.md) de Investigación.

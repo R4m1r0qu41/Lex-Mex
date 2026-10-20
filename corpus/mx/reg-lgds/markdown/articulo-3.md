@@ -17,11 +17,11 @@ source_sha256: aca2d65d2eef1b7c26ab431772ce7364305d103f5e4bacc87da02064df005ae3
 
 # Artículo 3
 
-Además de las definiciones contenidas en el artículo [5](../../lgds/markdown/articulo-5.md) de la Ley General de Desarrollo Social, para los efectos de este Reglamento se entiende por:
+Además de las definiciones contenidas en el artículo [5](../../lgds/markdown/articulo-5.md) de la [Ley](articulo-3.md) General de Desarrollo Social, para los efectos de este Reglamento se entiende por:
 
 I. Coinversión Social: la participación, conjunta o individual, de organizaciones de los sectores social y privado, mediante la aportación de recursos humanos, materiales o financieros, en las acciones y programas gubernamentales de desarrollo social;
 
-II. Convenios o Contratos de Concertación: instrumentos jurídicos que suscribe el Ejecutivo Federal a través de las dependencias o entidades de la Administración Pública Federal, con las organizaciones o con los particulares y, en su caso, con la participación de las Entidades Federativas y de los municipios, para la realización de actividades relacionadas con el desarrollo social;
+II. Convenios o Contratos de Concertación: instrumentos jurídicos que suscribe el Ejecutivo Federal a través de las dependencias o entidades de la Administración Pública Federal, con las organizaciones o con los particulares y, en su caso, con la participación de las [Entidades Federativas](articulo-3.md) y de los municipios, para la realización de actividades relacionadas con el desarrollo social;
 
 III. Convenios de Coordinación: instrumentos jurídicos que suscribe el Ejecutivo Federal con los gobiernos de las Entidades Federativas, con la participación, en su caso, de los municipios o delegaciones políticas, a efecto de que coadyuven, en el ámbito de sus respectivas competencias, a la consecución de los objetivos de la Política Nacional de Desarrollo Social;
 

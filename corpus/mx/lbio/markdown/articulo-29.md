@@ -17,4 +17,4 @@ source_sha256: c1870db657a6564bbeb692a1778472db811a920626822de553ff5ca5194f95b4
 
 # Artículo 29
 
-Los métodos de prueba, muestreo y verificación aplicables a las características cualitativas, así como al volumen en el Transporte, Almacenamiento, Comercialización, Distribución y, en su caso, el Expendio al Público de Biocombustibles se deben establecer en las Normas Oficiales Mexicanas o Lineamientos que para tal efecto expidan la SENER y la Secretaría de Economía, en el ámbito de su competencia.
+Los métodos de prueba, muestreo y verificación aplicables a las características cualitativas, así como al volumen en el [Transporte](articulo-2.md), [Almacenamiento](articulo-2.md), [Comercialización](articulo-2.md), [Distribución](articulo-2.md) y, en su caso, el [Expendio al Público](articulo-2.md) de [Biocombustibles](articulo-2.md) se deben establecer en las Normas Oficiales Mexicanas o Lineamientos que para tal efecto expidan la [SENER](articulo-2.md) y la Secretaría de Economía, en el ámbito de su competencia.

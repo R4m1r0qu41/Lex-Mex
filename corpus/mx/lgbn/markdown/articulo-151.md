@@ -17,4 +17,4 @@ source_sha256: ea96e97cbea2fd1919af78b94cd3466ee20a77e05989be2d482d2eb8061618c5
 
 # Artículo 151
 
-Las obras e instalaciones que sin concesión, permiso, autorización o contrato se realicen en inmuebles federales, se perderán en beneficio de la Federación. En su caso, la Secretaría ordenará que las obras o instalaciones sean demolidas por cuenta del infractor, sin que proceda indemnización o compensación alguna.
+Las obras e instalaciones que sin concesión, permiso, autorización o contrato se realicen en inmuebles federales, se perderán en beneficio de la [Federación](articulo-2.md). En su caso, la [Secretaría](articulo-2.md) ordenará que las obras o instalaciones sean demolidas por cuenta del infractor, sin que proceda indemnización o compensación alguna.

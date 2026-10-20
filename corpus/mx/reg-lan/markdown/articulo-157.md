@@ -17,7 +17,7 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 157
 
-Para efectos del artículo [98](../../lan/markdown/articulo-98.md) de la "Ley", las personas que pretendan realizar obras que impliquen desviación del curso de las aguas nacionales de su cauce o vaso, alteración al régimen hidráulico de las corrientes o afectación de su calidad, al solicitar el permiso respectivo de "La Comisión", deberán acompañar el proyecto y programa de ejecución de las obras que pretendan realizar, y demostrar que no se afecta riesgosamente el flujo de las aguas ni los derechos de terceros aguas abajo.
+Para efectos del artículo [98](../../lan/markdown/articulo-98.md) de la "[Ley](articulo-1o.md)", las personas que pretendan realizar obras que impliquen desviación del curso de las aguas nacionales de su cauce o vaso, alteración al régimen hidráulico de las corrientes o afectación de su calidad, al solicitar el permiso respectivo de "[La Comisión](articulo-1o.md)", deberán acompañar el proyecto y programa de ejecución de las obras que pretendan realizar, y demostrar que no se afecta riesgosamente el flujo de las aguas ni los derechos de terceros aguas abajo.
 
 "La Comisión" resolverá si acepta o rechaza el proyecto y, en su caso, dará a conocer a los interesados las modificaciones que deban de hacer a éste para evitar que cualquier afectación al régimen hidrológico de las corrientes no imponga riesgos en la seguridad de las personas y sus bienes, no altere la calidad del agua ni los derechos de terceros.
 

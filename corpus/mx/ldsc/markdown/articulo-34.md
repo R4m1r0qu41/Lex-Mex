@@ -17,4 +17,4 @@ source_sha256: 45deb87bfd634dfbd1cb7d9fd67a476ad954187908eb0cb06256c90ccc0feb80
 
 # Artículo 34
 
-La Comisión promoverá que la contratación de servicios de asistencia técnica y de capacitación sean integrales, a efecto de que se cubran los aspectos de productividad, beneficiado del café, transformación industrial, comercialización, administración y valor agregado, entre otros, con la finalidad de dar sustentabilidad al sector primario.
+La [Comisión](articulo-3.md) promoverá que la contratación de servicios de asistencia técnica y de capacitación sean integrales, a efecto de que se cubran los aspectos de productividad, beneficiado del café, transformación industrial, comercialización, administración y valor agregado, entre otros, con la finalidad de dar sustentabilidad al sector primario.

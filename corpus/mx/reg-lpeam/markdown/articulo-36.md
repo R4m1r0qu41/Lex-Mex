@@ -17,4 +17,4 @@ source_sha256: 4195c0740ad46978a8b0f2d43f0ac6d77e46b0216bd6f756950b1a050044ce98
 
 # Artículo 36
 
-El Centro, para detectar alguna traza de interés y adoptar medidas en caso de vuelo no autorizado o vuelo clandestino, debe coordinar a los integrantes del Sistema, de conformidad con los procedimientos de actuación y coordinación de las Operaciones Contra el Uso Ilícito del Espacio Aéreo Mexicano siguientes: I. La Vigilancia; II. La Detección; III. La Identificación; IV. La Interceptación aérea; V. La asistencia y Seguimiento, y VI. La Consolidación.
+El Centro, para detectar alguna traza de interés y adoptar medidas en caso de vuelo no autorizado o vuelo clandestino, debe coordinar a los integrantes del Sistema, de conformidad con los procedimientos de actuación y coordinación de las [Operaciones Contra el Uso Ilícito del Espacio Aéreo Mexicano](articulo-4.md) siguientes: I. La [Vigilancia](articulo-4.md); II. La Detección; III. La Identificación; IV. La Interceptación aérea; V. La asistencia y Seguimiento, y VI. La [Consolidación](articulo-4.md).

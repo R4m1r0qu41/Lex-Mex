@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LTOSF.pdf
 source_sha256: bf9e443e89a5c0ba268e76f20923ae25195ef5c1ffbacecff36693ca228c3667
 ---
 
+> Capítulo V · Sección II
+
 # Artículo 28
 
 Las [Autoridades](articulo-3.md) previo a la imposición de las sanciones que les corresponda aplicar conforme a esta Ley, notificarán por escrito al presunto infractor los hechos que se le imputan y las disposiciones que se consideren probablemente infringidas.

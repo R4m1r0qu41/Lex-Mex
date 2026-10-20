@@ -19,7 +19,7 @@ source_sha256: 96092a4581d4e87910eb58939da4045879e4fe613b12f4413d7392bcc2c6e884
 
 A la persona que posea, porte, comercie, transporte o introduzca ilícitamente al territorio nacional, hasta siete piezas o componentes de un arma, se le impondrán:
 
-I.- De tres a cinco años de prisión cuando se trate de piezas o componentes de las armas comprendidas en el artículo [9](articulo-9o.md)o. de esta Ley;
+I.- De tres a cinco años de prisión cuando se trate de piezas o componentes de las armas comprendidas en el artículo [9](articulo-9o.md)o. de esta [Ley](articulo-1o-Bis.md);
 
 II.- De cuatro a seis años de prisión cuando se trate de piezas o componentes de las armas comprendidas en los incisos a) o b) del artículo [11](articulo-11.md) de esta Ley, y
 

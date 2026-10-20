@@ -17,4 +17,4 @@ source_sha256: 9478163ef6ab468edc2be8def3bf84efedd03da5b6c166fba0430bfcb6d8467c
 
 # Artículo 33
 
-Para efectos de los artículos [15](../../lepecfe/markdown/articulo-15.md), fracción VII y [118](../../lepecfe/markdown/articulo-118.md) de la Ley, Comisión Federal de Electricidad, a través de las personas representantes, personas consejeras o personas mandatarias en las empresas filiales, debe llevar a cabo las gestiones que se requieran ante las instancias de estas para que adopten las medidas establecidas en el Programa de Cumplimiento Normativo.
+Para efectos de los artículos [15](../../lepecfe/markdown/articulo-15.md), fracción VII y [118](../../lepecfe/markdown/articulo-118.md) de la [Ley](articulo-2.md), Comisión Federal de Electricidad, a través de las personas representantes, personas consejeras o personas mandatarias en las empresas filiales, debe llevar a cabo las gestiones que se requieran ante las instancias de estas para que adopten las medidas establecidas en el Programa de Cumplimiento Normativo.

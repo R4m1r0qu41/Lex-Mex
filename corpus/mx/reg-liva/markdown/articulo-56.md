@@ -17,6 +17,6 @@ source_sha256: 4f46c1f92fb5682281a7679836e517de95975786fa5326848a331c9eb946cc5f
 
 # Artículo 56
 
-Para efectos del artículo [28](../../liva/markdown/articulo-28.md), cuarto párrafo de la Ley, los contribuyentes que hayan optado por pagar el Impuesto mediante depósito en las cuentas aduaneras, de conformidad con la legislación de la materia, será acreditable hasta el momento en el que éste sea transferido a la Tesorería de la Federación por la institución de crédito o casa de bolsa de que se trate.
+Para efectos del artículo [28](../../liva/markdown/articulo-28.md), cuarto párrafo de la [Ley](articulo-1.md), los contribuyentes que hayan optado por pagar el [Impuesto](articulo-1.md) mediante depósito en las cuentas aduaneras, de conformidad con la legislación de la materia, será acreditable hasta el momento en el que éste sea transferido a la Tesorería de la Federación por la institución de crédito o casa de bolsa de que se trate.
 
 Artículo reformado DOF 25-09-2014

@@ -17,7 +17,7 @@ source_sha256: 4d25bcb022ab62a24462e11a230c9554c0120012913ab4599cd3ec1b2b275c1d
 
 # Artículo 96
 
-Para inscribirse en el Registro de Peritos Mineros deberán satisfacerse los requisitos siguientes:
+Para inscribirse en el [Registro](articulo-1o.md) de [Peritos Mineros](articulo-1o.md) deberán satisfacerse los requisitos siguientes:
 
 I. En el caso de personas físicas:
 

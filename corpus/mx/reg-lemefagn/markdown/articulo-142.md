@@ -19,7 +19,7 @@ source_sha256: 703f083c0baedfb4ef5ce8b62c78684d8ee0073f393321d476d75ebe4878e1d5
 
 Iniciados los trámites a que se refiere el [artículo anterior](articulo-141.md), el discente cesará de participar en toda actividad académica; en tanto se dicte la resolución correspondiente.
 
-En caso de que la resolución que se dicte en el procedimiento a que se refiere el artículo [141](articulo-141.md) de este reglamento, declare que resulta improcedente la baja del discente, éste continuará sus actividades académicas en la Institución Educativa, procediendo a realizar los ajustes para regularizar su situación académica.
+En caso de que la resolución que se dicte en el procedimiento a que se refiere el artículo [141](articulo-141.md) de este reglamento, declare que resulta improcedente la baja del discente, éste continuará sus actividades académicas en la [Institución Educativa](articulo-3.md), procediendo a realizar los ajustes para regularizar su situación académica.
 
 Asimismo, una vez que se notifique el inicio del procedimiento de baja, el personal discente que se coloque en esa situación solo podrá graduarse del curso respectivo, si se determina que la causa de baja que lo originó resulta infundada. Párrafo adicionado DOF 01-02-2023
 

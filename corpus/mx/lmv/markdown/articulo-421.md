@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título XVI
+
 # Artículo 421
 
 Las autoridades administrativas competentes, a solicitud de parte interesada, podrán ampliar los plazos establecidos en la presente Ley, sin que dicha ampliación exceda en ningún caso de la mitad del plazo previsto originalmente en las disposiciones aplicables, cuando así lo exija el asunto y no tengan conocimiento de que se perjudica a terceros en sus derechos.

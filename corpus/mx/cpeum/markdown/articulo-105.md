@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf
 source_sha256: ca63a23a4b7444ebdbdad93759fbf46bd14c069e587c5878decf89fc9c12ca8e
 ---
 
+> Título Tercero · Capítulo IV
+
 # Artículo 105
 
 La Suprema Corte de Justicia de la Nación conocerá, en los términos que señale la ley reglamentaria, de los asuntos siguientes:
@@ -81,6 +83,8 @@ La declaración de invalidez de las resoluciones a que se refieren las fraccione
 
 En caso de incumplimiento de las resoluciones a que se refieren las fracciones I y II de este artículo se aplicarán, en lo conducente, los procedimientos establecidos en los dos primeros párrafos de la fracción XVI del artículo [107](articulo-107.md) de esta Constitución.
 
-Tratándose de controversias constitucionales o de acciones de inconstitucionalidad planteadas respecto de normas generales, en ningún caso su admisión dará lugar a la suspensión de la norma cuestionada. Párrafo adicionado DOF 15-09-2024 Son improcedentes las controversias constitucionales o acciones de inconstitucionalidad que tengan por objeto controvertir las adiciones o reformas a esta Constitución. Párrafo adicionado DOF 31-10-2024
+Tratándose de controversias constitucionales o de acciones de inconstitucionalidad planteadas respecto de normas generales, en ningún caso su admisión dará lugar a la suspensión de la norma cuestionada. Párrafo adicionado DOF 15-09-2024
+
+Son improcedentes las controversias constitucionales o acciones de inconstitucionalidad que tengan por objeto controvertir las adiciones o reformas a esta Constitución. Párrafo adicionado DOF 31-10-2024
 
 Artículo reformado DOF 25-10-1967, 25-10-1993, 31-12-1994

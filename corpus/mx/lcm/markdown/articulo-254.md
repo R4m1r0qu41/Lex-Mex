@@ -17,7 +17,7 @@ source_sha256: 8e270686b885035488bfe310b0b42bb40e7154431794227ebe212dd7dc12e46a
 
 # Artículo 254
 
-El concurso mercantil de las organizaciones y personas que realicen actividades auxiliares del crédito se regirá por lo previsto en esta Ley, salvo por lo dispuesto en la Ley General de Organizaciones y Actividades Auxiliares del Crédito.
+El concurso mercantil de las organizaciones y personas que realicen actividades auxiliares del crédito se regirá por lo previsto en esta [Ley](articulo-4o.md), salvo por lo dispuesto en la Ley General de Organizaciones y Actividades Auxiliares del Crédito.
 
 La determinación de incumplimiento generalizado de obligaciones de pago a que se refiere el Capítulo II del Título Primero de esta Ley, deberá realizarse conforme a las normas de registro contable que la autoridad financiera competente emita al amparo de las leyes financieras que regulan la organización y funcionamiento de la entidad de que se trate.
 

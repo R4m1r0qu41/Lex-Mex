@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LNEP.pdf
 source_sha256: 91abecabe50a5e414e0835daa9086ce3b307fffb9ebe626dab3bb9d1eae51680
 ---
 
-> Título QUINTO
+> Título QUINTO · Capítulo III
 
 # Artículo 144
 
@@ -32,5 +32,3 @@ En todos los casos a que se refiere este artículo se considerará el interés s
 Sólo podrán aplicarse los sustitutivos descritos en las fracciones anteriores cuando se actualicen los supuestos durante la ejecución de la pena, así como a las personas que al momento de ser sentenciadas se ubiquen en las hipótesis previstas en este artículo, siempre que subsistan las causas durante la ejecución.
 
 No procederá la sustitución de pena por delitos en materia de delincuencia organizada, secuestro y trata de personas.
-
-Capítulo IV Permisos Humanitarios

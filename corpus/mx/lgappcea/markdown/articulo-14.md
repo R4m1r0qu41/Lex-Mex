@@ -17,7 +17,7 @@ source_sha256: 8d3d1a9b2d2dec12c65695cd5b87d60f76e2f3c64356f73ab6011d7dc40fbe37
 
 # Artículo 14
 
-Para el cumplimiento de su objeto, la Comisión tendrá las siguientes funciones:
+Para el cumplimiento de su objeto, la [Comisión](articulo-3.md) tendrá las siguientes funciones:
 
 I. Coordinar y dar el seguimiento correspondiente a las acciones que, en el ámbito de su competencia, deban realizar las dependencias y entidades de la Administración Pública Federal en la materia de la presente Ley, así como elaborar las políticas públicas correspondientes en la materia;
 

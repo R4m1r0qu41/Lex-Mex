@@ -17,6 +17,6 @@ source_sha256: 14cd17e37e96e766c8ab74950c71186d579c0ba6cc10ac9e8b06f6194af7d953
 
 # Artículo 25
 
-El Comité de Representantes estará integrado por el servidor público designado por cada uno de los Secretarios de Estado que integran la Comisión, se reunirá cuatrimestralmente, cuando menos, y tendrá las facultades que le delegue la propia Comisión.
+El Comité de Representantes estará integrado por el servidor público designado por cada uno de los Secretarios de Estado que integran la [Comisión](articulo-2o.md), se reunirá cuatrimestralmente, cuando menos, y tendrá las facultades que le delegue la propia Comisión.
 
 Artículo reformado DOF 24-12-1996

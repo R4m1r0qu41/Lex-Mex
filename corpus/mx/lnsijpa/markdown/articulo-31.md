@@ -17,4 +17,4 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 # Artículo 31
 
-Medidas de privación de la libertad como medida extrema y por el menor tiempo posible Las medidas de privación de la libertad se utilizarán como medida extrema y excepcional, sólo se podrán imponer a personas adolescentes mayores de catorce años, por los hechos constitutivos de delito que esta Ley señala, por un tiempo determinado y la duración más breve que proceda.
+Medidas de privación de la libertad como medida extrema y por el menor tiempo posible Las medidas de privación de la libertad se utilizarán como medida extrema y excepcional, sólo se podrán imponer a personas adolescentes mayores de catorce años, por los hechos constitutivos de delito que esta [Ley](articulo-3.md) señala, por un tiempo determinado y la duración más breve que proceda.

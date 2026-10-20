@@ -17,4 +17,4 @@ source_sha256: 716e427a30e9982ccaa0576288aad2ad5305c624b236a0f342b6a87d60b7a9ed
 
 # Artículo 136
 
-La Secretaría, con el apoyo de la CONUEE, debe hacer públicos los siguientes registros de información: I. De las personas Usuarias de Patrón de Alto Consumo; II. De los acuerdos voluntarios, y III. De las instalaciones, edificaciones, empresas o productos que reciban el reconocimiento de excelencia en Eficiencia Energética.
+La [Secretaría](articulo-5.md), con el apoyo de la CONUEE, debe hacer públicos los siguientes registros de información: I. De las personas Usuarias de Patrón de Alto Consumo; II. De los acuerdos voluntarios, y III. De las instalaciones, edificaciones, empresas o productos que reciban el reconocimiento de excelencia en Eficiencia Energética.

@@ -17,6 +17,6 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 # Artículo 215
 
-Sustitución de la medida de sanción de internamiento por estancia domiciliaria La sustitución de la medida de sanción de internamiento por la medida de estancia domiciliaria procederá, a juicio del Órgano Jurisdiccional, cuando la segunda se considere más conveniente para la reinserción y la reintegración social y familiar de la persona adolescente.
+Sustitución de la medida de sanción de internamiento por estancia domiciliaria La sustitución de la medida de sanción de internamiento por la medida de estancia domiciliaria procederá, a juicio del [Órgano Jurisdiccional](articulo-3.md), cuando la segunda se considere más conveniente para la reinserción y la reintegración social y familiar de la persona adolescente.
 
-La Autoridad Administrativa hará los estudios pertinentes para informar al Juez si la familia de la persona adolescente está en posibilidad de hacerse cargo de la aplicación de esta medida o si ello resulta conveniente.
+La [Autoridad Administrativa](articulo-3.md) hará los estudios pertinentes para informar al Juez si la familia de la persona adolescente está en posibilidad de hacerse cargo de la aplicación de esta medida o si ello resulta conveniente.

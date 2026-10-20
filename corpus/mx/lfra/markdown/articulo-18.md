@@ -17,6 +17,6 @@ source_sha256: 7211b1c71876d2ea4776c11dc1e045ebbb34b7e98b130f16c7864f75f5e90744
 
 # Artículo 18
 
-El Ejecutivo Federal a través de la Secretaría está facultado para realizar subsidiariamente por razones de urgencia o importancia, la reparación inmediata de los daños que ocasionen terceros al ambiente. Dicha reparación podrá hacerse con cargo al Fondo previsto por la Sección 5, Capítulo Tercero del presente Título.
+El Ejecutivo Federal a través de la [Secretaría](articulo-2o.md) está facultado para realizar subsidiariamente por razones de urgencia o importancia, la reparación inmediata de los daños que ocasionen terceros al ambiente. Dicha reparación podrá hacerse con cargo al [Fondo](articulo-2o.md) previsto por la Sección 5, Capítulo Tercero del presente Título.
 
 En estos casos la administración pública federal deberá demandar al responsable la restitución de los recursos económicos erogados, incluyendo los intereses legales correspondientes, los que serán reintegrados al fondo.

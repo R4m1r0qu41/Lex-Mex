@@ -17,8 +17,8 @@ source_sha256: 269e72195414406bcbd3e90ac40ec26e031a9ea519316c44ee30bdfdf3163059
 
 # Artículo 76
 
-El Instituto es un organismo descentralizado de la Administración Pública Federal, con personalidad jurídica y patrimonio propios, con domicilio en la Ciudad de México, el cual tendrá por objeto la administración, enajenación, destrucción y destino de los Bienes, activos o empresas, señalados en el artículo [1](articulo-1o.md)o. de esta Ley, así como el cumplimiento de las atribuciones establecidas en el presente ordenamiento.
+El [Instituto](articulo-2o.md) es un organismo descentralizado de la Administración Pública Federal, con personalidad jurídica y patrimonio propios, con domicilio en la Ciudad de México, el cual tendrá por objeto la administración, enajenación, destrucción y destino de los [Bienes](articulo-2o.md), activos o empresas, señalados en el artículo [1](articulo-1o.md)o. de esta Ley, así como el cumplimiento de las atribuciones establecidas en el presente ordenamiento.
 
-El Instituto estará agrupado en el sector coordinado por la Secretaría.
+El Instituto estará agrupado en el sector coordinado por la [Secretaría](articulo-2o.md).
 
 Artículo reformado DOF 23-02-2005, 09-08-2019

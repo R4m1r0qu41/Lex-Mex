@@ -17,4 +17,4 @@ source_sha256: 4bcc982b308b0813469b30db61b53d5a2c41e5a7240b3b1cac2f1aeeb2c00a2e
 
 # Artículo 169
 
-La Secretaría y la CNE pueden establecer, para estos sistemas, los criterios de Justicia Energética, de Accesibilidad, Calidad, Confiabilidad, Continuidad, Eficiencia, Seguridad y Sostenibilidad, las metodologías de validación de costos, los costos asociados, las tarifas aplicables, los límites operativos para su clasificación, así como cualquier otra disposición que garantice su funcionamiento eficiente, seguro y en apego al interés público.
+La Secretaría y la CNE pueden establecer, para estos sistemas, los criterios de Justicia Energética, de Accesibilidad, Calidad, Confiabilidad, Continuidad, [Eficiencia](articulo-2.md), [Seguridad](articulo-2.md) y Sostenibilidad, las metodologías de validación de costos, los costos asociados, las tarifas aplicables, los límites operativos para su clasificación, así como cualquier otra disposición que garantice su funcionamiento eficiente, seguro y en apego al interés público.

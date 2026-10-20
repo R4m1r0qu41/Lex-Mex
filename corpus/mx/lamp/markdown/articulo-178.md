@@ -28,5 +28,3 @@ II. Correr traslado a la o el tercero interesado, en el último domicilio que ha
 III. Rendir el informe con justificación acompañando la demanda de amparo, los autos del juicio de origen con sus anexos y la constancia de traslado a las partes. Deberá dejar copia certificada de las actuaciones que estime necesarias para la ejecución de la resolución reclamada o para proveer respecto de la suspensión.
 
 En el sistema procesal penal acusatorio, se acompañará un índice cronológico del desahogo de la audiencia en la que se haya dictado el acto reclamado, en el que se indique el orden de intervención de cada una de las partes. Párrafo adicionado DOF 17-06-2016
-
-Sección Tercera Substanciación

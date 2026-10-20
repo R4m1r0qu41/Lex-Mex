@@ -17,4 +17,4 @@ source_sha256: 35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc
 
 # Artículo 53
 
-La renuncia de derechos para percibir beneficios económicos nunca será en perjuicio de terceros. Si la formulase algún militar, sus familiares percibirán la compensación o la pensión que les corresponda conforme a esta Ley, al ocurrir el fallecimiento de aquél. Si la renuncia proviene de un familiar de militar, su parte acrecentará proporcionalmente la de los demás familiares, si los hubiere.
+La renuncia de derechos para percibir beneficios económicos nunca será en perjuicio de terceros. Si la formulase algún militar, sus familiares percibirán la compensación o la pensión que les corresponda conforme a esta [Ley](articulo-4o.md), al ocurrir el fallecimiento de aquél. Si la renuncia proviene de un familiar de militar, su parte acrecentará proporcionalmente la de los demás familiares, si los hubiere.

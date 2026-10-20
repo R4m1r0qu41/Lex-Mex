@@ -17,4 +17,4 @@ source_sha256: 160e5e85efddb1749a79f6b154af31711a9b31a5e32bace3c07e2859c2620ecf
 
 # Artículo 123
 
-La Secretaría y los gobiernos de las entidades federativas integrarán una Red de Información Acuícola, que concentrará la información de los diversos organismos y entidades respecto a esta actividad e incluirá, entre otros, la identificación de las especies y ubicación de áreas apropiadas para la acuacultura, los planes de ordenamiento, los resultados de los proyectos de investigación, así como las estadísticas de producción e información de precios, oferta y demanda de los productos acuícolas.
+La [Secretaría](articulo-4o.md) y los gobiernos de las entidades federativas integrarán una Red de Información Acuícola, que concentrará la información de los diversos organismos y entidades respecto a esta actividad e incluirá, entre otros, la identificación de las especies y ubicación de áreas apropiadas para la acuacultura, los planes de ordenamiento, los resultados de los proyectos de investigación, así como las estadísticas de producción e información de precios, oferta y demanda de los productos acuícolas.

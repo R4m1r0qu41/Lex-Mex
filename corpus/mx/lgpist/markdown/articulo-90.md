@@ -17,4 +17,4 @@ source_sha256: 1e7d06c67fac4c8a100d2bb2845cc765fba5e8ce09d27d30b2b44432ffeb8c41
 
 # Artículo 90
 
-Las Comisiones de Atención a Víctimas están facultadas para proporcionar medidas de ayuda, asistencia y atención a las Víctimas distintas a las mencionadas en el artículo que antecede.
+Las [Comisiones de Atención a Víctimas](articulo-5.md) están facultadas para proporcionar medidas de ayuda, asistencia y atención a las [Víctimas](articulo-5.md) distintas a las mencionadas en el artículo que antecede.

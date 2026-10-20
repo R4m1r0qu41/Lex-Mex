@@ -25,4 +25,4 @@ II. Descripción general del título de concesión, asignación o permiso corres
 
 III. La fecha y naturaleza del acto, anexando copia del contrato, convenio o acto realizado.
 
-La inscripción de la transmisión que se haga, no perjudicará y dejará a salvo los derechos de terceros. El aviso se presentará bajo protesta de decir verdad. En caso de falsedad se procederá a la suspensión o revocación del título, conforme a la "Ley" y el presente "Reglamento", independientemente de la aplicación de las sanciones que correspondan.
+La inscripción de la transmisión que se haga, no perjudicará y dejará a salvo los derechos de terceros. El aviso se presentará bajo protesta de decir verdad. En caso de falsedad se procederá a la suspensión o revocación del título, conforme a la "[Ley](articulo-1o.md)" y el presente "[Reglamento](articulo-1o.md)", independientemente de la aplicación de las sanciones que correspondan.

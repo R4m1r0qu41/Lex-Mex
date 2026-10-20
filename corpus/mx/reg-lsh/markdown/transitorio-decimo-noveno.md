@@ -15,4 +15,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Décimo Noveno
 
-Para los permisos expedidos por la extinta Comisión Reguladora de Energía cuya vigencia concluya en menos de un año a la entrada en vigor del presente reglamento, se otorga un periodo de noventa días naturales para presentar la solicitud del permiso conforme a lo señalado en la Ley, el presente reglamento y la Normatividad aplicable, excepto los que en su título de permiso se señale un periodo específico para su renovación.
+Para los permisos expedidos por la extinta [Comisión](articulo-3.md) Reguladora de Energía cuya vigencia concluya en menos de un año a la entrada en vigor del presente reglamento, se otorga un periodo de noventa días naturales para presentar la solicitud del permiso conforme a lo señalado en la [Ley](articulo-3.md), el presente reglamento y la [Normatividad](articulo-3.md) aplicable, excepto los que en su título de permiso se señale un periodo específico para su renovación.

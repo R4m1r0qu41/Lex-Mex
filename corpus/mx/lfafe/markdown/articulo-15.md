@@ -17,7 +17,7 @@ source_sha256: 96092a4581d4e87910eb58939da4045879e4fe613b12f4413d7392bcc2c6e884
 
 # Artículo 15
 
-En el domicilio se pueden poseer armas para la seguridad y defensa legítima de sus moradores. Su posesión impone el deber de manifestarlas a la Secretaría para su registro.
+En el domicilio se pueden poseer armas para la seguridad y defensa legítima de sus moradores. Su posesión impone el deber de manifestarlas a la [Secretaría](articulo-1o-Bis.md) para su registro.
 
 Por cada arma se debe extender constancia de su registro.
 

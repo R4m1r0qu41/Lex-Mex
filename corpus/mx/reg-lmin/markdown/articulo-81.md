@@ -21,4 +21,4 @@ Las solicitudes para la inscripción de las anotaciones judiciales preventivas d
 
 A la solicitud se acompañarán copia certificada y copia simple de la resolución que ordena la anotación judicial preventiva correspondiente.
 
-Dicha inscripción dejará de surtir efectos hasta en tanto se presente la solicitud de inscripción en el Registro, de la sentencia ejecutoriada que se haya dictado en el proceso judicial respectivo.
+Dicha inscripción dejará de surtir efectos hasta en tanto se presente la solicitud de inscripción en el [Registro](articulo-1o.md), de la sentencia ejecutoriada que se haya dictado en el proceso judicial respectivo.

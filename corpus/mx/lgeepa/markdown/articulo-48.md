@@ -23,6 +23,6 @@ En las zonas núcleo de las reservas de la biosfera sólo podrá autorizarse la 
 
 Para el caso de zonas núcleo que se ubiquen en zonas marinas deberá limitarse el tráfico de embarcaciones de conformidad con el programa de manejo respectivo. Párrafo adicionado DOF 24-05-2013
 
-Asimismo, se deberán regular los aprovechamientos no extractivos de vida silvestre que deberán de ser de bajo impacto, y de acuerdo con las normas oficiales mexicanas que para tal efecto emita la Secretaría. Párrafo adicionado DOF 24-05-2013
+Asimismo, se deberán regular los aprovechamientos no extractivos de vida silvestre que deberán de ser de bajo impacto, y de acuerdo con las normas oficiales mexicanas que para tal efecto emita la [Secretaría](articulo-3o.md). Párrafo adicionado DOF 24-05-2013
 
 Por su parte, en las zonas de amortiguamiento de las reservas de la biosfera sólo podrán realizarse actividades productivas emprendidas por las comunidades que ahí habiten al momento de la expedición de la declaratoria respectiva o con su participación, que sean estrictamente compatibles con los objetivos, criterios y programas de aprovechamiento sustentable, en los términos del decreto respectivo y del programa de manejo que se formule y expida, considerando las previsiones de los programas de ordenamiento ecológico que resulten aplicables. Párrafo reformado DOF 13-12-1996, 23-02-2005 Reforma DOF 13-12-1996: Derogó del artículo el entonces último párrafo

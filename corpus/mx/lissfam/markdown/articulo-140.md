@@ -17,4 +17,4 @@ source_sha256: 35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc
 
 # Artículo 140
 
-Para atender el mejoramiento de las condiciones físicas y de salud de los militares y sus familiares, así como para el esparcimiento y la ampliación de sus relaciones sociales, el Instituto establecerá centros de deporte y de recreo, organizados con todos los elementos técnicos y materiales que se hagan necesarios.
+Para atender el mejoramiento de las condiciones físicas y de salud de los militares y sus familiares, así como para el esparcimiento y la ampliación de sus relaciones sociales, el [Instituto](articulo-4o.md) establecerá centros de deporte y de recreo, organizados con todos los elementos técnicos y materiales que se hagan necesarios.

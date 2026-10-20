@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Primero · Capítulo VIII
+
 # Artículo 224
 
 La autoridad jurisdiccional exhortante podrá inquirir del resultado de la diligenciación a la exhortada por alguno de los medios autorizados en el presente [Código Nacional](articulo-2.md), dejando constancia en autos de lo que resulte. Si a pesar del recordatorio, continuase la misma situación, la autoridad jurisdiccional exhortante lo pondrá en conocimiento directo del Superior inmediato del que deba cumplimentarlo, rogándole adopte las medidas pertinentes a fin de obtener el cumplimiento.

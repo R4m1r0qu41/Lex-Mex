@@ -17,6 +17,6 @@ source_sha256: 0ad7a7b6d7dffd7d9a582d74ebd6fc43e6baa79f71801a73dc70d1b77c414ded
 
 # Artículo 23
 
-Para el caso de la constitución de una asociación se invitará al Presidente Municipal y, en su caso, a la unión ganadera regional a la que podría afiliarse. Tratándose de una unión, se invitará al Gobierno de la entidad federativa y a la Confederación.
+Para el caso de la constitución de una asociación se invitará al Presidente Municipal y, en su caso, a la unión ganadera regional a la que podría afiliarse. Tratándose de una unión, se invitará al Gobierno de la entidad federativa y a la [Confederación](articulo-2o.md).
 
 Si los invitados a los que se refiere este precepto no se presentan en el lugar, día y hora señalados para efectuar la asamblea constitutiva, ésta se llevará a cabo asentando tal circunstancia en el acta correspondiente.

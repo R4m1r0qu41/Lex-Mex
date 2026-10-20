@@ -15,4 +15,4 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # DÉCIMO SEGUNDO
 
-Las autorizaciones de uso de una denominación de origen o de una indicación geográfica, otorgados con base en la Ley que se abroga, conservarán su vigencia, en todo lo demás quedarán sujetos al presente Decreto.
+Las autorizaciones de uso de una denominación de origen o de una indicación geográfica, otorgados con base en la [Ley](articulo-4.md) que se abroga, conservarán su vigencia, en todo lo demás quedarán sujetos al presente Decreto.

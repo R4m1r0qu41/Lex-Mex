@@ -17,6 +17,6 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 # Artículo 25
 
-Los Comités Consultivos Nacionales de Normalización son órganos colegiados multisectoriales encargados de la elaboración de las Normas Oficiales Mexicanas, de su promoción, así como de la difusión de su cumplimiento.
+Los Comités Consultivos Nacionales de Normalización son órganos colegiados multisectoriales encargados de la elaboración de las [Normas Oficiales Mexicanas](articulo-4.md), de su promoción, así como de la difusión de su cumplimiento.
 
-Corresponde a las Autoridades Normalizadoras, según su ámbito de competencia, constituir, presidir y coordinar los Comités Consultivos Nacionales de Normalización, con el acompañamiento, según sea el caso, del Secretariado Ejecutivo de la Comisión.
+Corresponde a las [Autoridades Normalizadoras](articulo-4.md), según su ámbito de competencia, constituir, presidir y coordinar los Comités Consultivos Nacionales de Normalización, con el acompañamiento, según sea el caso, del Secretariado Ejecutivo de la [Comisión](articulo-4.md).

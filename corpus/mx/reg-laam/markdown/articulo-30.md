@@ -17,6 +17,6 @@ source_sha256: 8515c812258bcc7c342e8566ff623c7f5e880f2eb9ee2ad154758077089f11ca
 
 # Artículo 30
 
-La determinación de vacantes para ascenso por facultad del Mando Supremo que realice la Jefatura de Operaciones, conforme al artículo [26](articulo-26.md), fracción II del presente Reglamento, se sujetará a la estructura y planillas orgánicas de la Institución.
+La determinación de vacantes para ascenso por facultad del [Mando Supremo](articulo-5.md) que realice la [Jefatura de Operaciones](articulo-5.md), conforme al artículo [26](articulo-26.md), fracción II del presente Reglamento, se sujetará a la estructura y planillas orgánicas de la [Institución](articulo-5.md).
 
 Artículo reformado DOF 11-03-2016, 02-04-2026

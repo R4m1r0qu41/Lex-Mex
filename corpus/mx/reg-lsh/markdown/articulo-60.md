@@ -17,4 +17,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Artículo 60
 
-El procedimiento de rescisión administrativa debe llevarse a cabo sin menoscabo de las sanciones legales y administrativas a que haya lugar; del resarcimiento de los daños y perjuicios derivados del incumplimiento, así como de la entrega ordenada, segura y eficiente del Área Contractual conforme a la Normatividad aplicable.
+El procedimiento de rescisión administrativa debe llevarse a cabo sin menoscabo de las sanciones legales y administrativas a que haya lugar; del resarcimiento de los daños y perjuicios derivados del incumplimiento, así como de la entrega ordenada, segura y eficiente del Área Contractual conforme a la [Normatividad](articulo-3.md) aplicable.

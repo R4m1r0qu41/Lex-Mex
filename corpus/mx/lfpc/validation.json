@@ -2,8 +2,8 @@
   "schema_version": "0.1.0",
   "instrument_id": "urn:lex-mx:federal:statute:lfpc",
   "valid": true,
-  "article_count": 188,
+  "article_count": 190,
   "transitory_count": 5,
-  "reference_count": 171,
+  "reference_count": 172,
   "issues": []
 }

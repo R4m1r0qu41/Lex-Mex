@@ -17,4 +17,4 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 299
 
-La solicitud para obtener una autorización de uso de denominación de origen o indicación geográfica deberá contener los datos y acompañarse de los documentos que señale el Reglamento de esta Ley.
+La solicitud para obtener una autorización de uso de denominación de origen o indicación geográfica deberá contener los datos y acompañarse de los documentos que señale el Reglamento de esta [Ley](articulo-4.md).

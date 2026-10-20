@@ -1,1 +1,200 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lbio:term:almacenamiento",
+    "term": "Almacenamiento",
+    "instrument_id": "urn:lex-mx:federal:statute:lbio",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lbio:article:2",
+    "fraction": "I",
+    "start_char": 364,
+    "end_char": 550,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lbio:term:biocombustible",
+    "term": "Biocombustible",
+    "instrument_id": "urn:lex-mx:federal:statute:lbio",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lbio:article:2",
+    "fraction": "II",
+    "start_char": 550,
+    "end_char": 822,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lbio:term:biomasa",
+    "term": "Biomasa",
+    "instrument_id": "urn:lex-mx:federal:statute:lbio",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lbio:article:2",
+    "fraction": "III",
+    "start_char": 822,
+    "end_char": 1092,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lbio:term:bitacora",
+    "term": "Bitácora",
+    "instrument_id": "urn:lex-mx:federal:statute:lbio",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lbio:article:2",
+    "fraction": "IV",
+    "start_char": 1092,
+    "end_char": 1260,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lbio:term:comercializacion",
+    "term": "Comercialización",
+    "instrument_id": "urn:lex-mx:federal:statute:lbio",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lbio:article:2",
+    "fraction": "V",
+    "start_char": 1260,
+    "end_char": 1430,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lbio:term:distribucion",
+    "term": "Distribución",
+    "instrument_id": "urn:lex-mx:federal:statute:lbio",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lbio:article:2",
+    "fraction": "VI",
+    "start_char": 1430,
+    "end_char": 1725,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lbio:term:estrategia",
+    "term": "Estrategia",
+    "instrument_id": "urn:lex-mx:federal:statute:lbio",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lbio:article:2",
+    "fraction": "VII",
+    "start_char": 1725,
+    "end_char": 1792,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lbio:term:expendio-al-publico",
+    "term": "Expendio al Público",
+    "instrument_id": "urn:lex-mx:federal:statute:lbio",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lbio:article:2",
+    "fraction": "VIII",
+    "start_char": 1792,
+    "end_char": 2003,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lbio:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:statute:lbio",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lbio:article:2",
+    "fraction": "IX",
+    "start_char": 2003,
+    "end_char": 2039,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lbio:term:produccion",
+    "term": "Producción",
+    "instrument_id": "urn:lex-mx:federal:statute:lbio",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lbio:article:2",
+    "fraction": "X",
+    "start_char": 2039,
+    "end_char": 2282,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lbio:term:reglamento",
+    "term": "Reglamento",
+    "instrument_id": "urn:lex-mx:federal:statute:lbio",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lbio:article:2",
+    "fraction": "XI",
+    "start_char": 2282,
+    "end_char": 2343,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lbio:term:registro",
+    "term": "Registro",
+    "instrument_id": "urn:lex-mx:federal:statute:lbio",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lbio:article:2",
+    "fraction": "XII",
+    "start_char": 2343,
+    "end_char": 2405,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lbio:term:sader",
+    "term": "SADER",
+    "instrument_id": "urn:lex-mx:federal:statute:lbio",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lbio:article:2",
+    "fraction": "XIII",
+    "start_char": 2405,
+    "end_char": 2468,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lbio:term:semarnat",
+    "term": "SEMARNAT",
+    "instrument_id": "urn:lex-mx:federal:statute:lbio",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lbio:article:2",
+    "fraction": "XIV",
+    "start_char": 2468,
+    "end_char": 2538,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lbio:term:sener",
+    "term": "SENER",
+    "instrument_id": "urn:lex-mx:federal:statute:lbio",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lbio:article:2",
+    "fraction": "XV",
+    "start_char": 2538,
+    "end_char": 2576,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lbio:term:subsistema",
+    "term": "Subsistema",
+    "instrument_id": "urn:lex-mx:federal:statute:lbio",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lbio:article:2",
+    "fraction": "XVI",
+    "start_char": 2576,
+    "end_char": 2743,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lbio:term:suelos-marginales",
+    "term": "Suelos Marginales",
+    "instrument_id": "urn:lex-mx:federal:statute:lbio",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lbio:article:2",
+    "fraction": "XVII",
+    "start_char": 2743,
+    "end_char": 2975,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lbio:term:transporte",
+    "term": "Transporte",
+    "instrument_id": "urn:lex-mx:federal:statute:lbio",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lbio:article:2",
+    "fraction": "XVIII",
+    "start_char": 2975,
+    "end_char": 3265,
+    "basis": "express_definition"
+  }
+]

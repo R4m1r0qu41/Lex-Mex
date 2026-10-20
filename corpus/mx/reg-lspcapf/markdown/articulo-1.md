@@ -15,7 +15,7 @@ source_sha256: b4a968d8e8c138ac2069f6afa0dc622178328df24f59cf58eddbab8efe4a7eff
 
 # Artículo 1
 
-El presente ordenamiento tiene por objeto reglamentar la Ley del Servicio Profesional de Carrera en la Administración Pública Federal.
+El presente ordenamiento tiene por objeto reglamentar la [Ley](articulo-2.md) del Servicio Profesional de Carrera en la Administración Pública Federal.
 
 En la aplicación del presente reglamento debe atenderse a lo dispuesto en el artículo [1](../../cpeum/markdown/articulo-1o.md)o. de la Constitución Política de los Estados Unidos Mexicanos, que señala la prohibición de todo tipo de discriminación que vulnere los derechos de las personas, y lo dispuesto en la Ley Federal para Prevenir y Eliminar la Discriminación. Párrafo adicionado DOF 04-01-2024
 

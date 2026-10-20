@@ -17,4 +17,4 @@ source_sha256: ea99e8d1b13b36451e69f865d4aeeca08ce847fb7dcab648e77f65ca88991a8b
 
 # Artículo 14
 
-La Secretaría, al formular la política y los programas en materia de semillas, considerará la opinión del Sistema.
+La [Secretaría](articulo-3.md), al formular la política y los programas en materia de semillas, considerará la opinión del [Sistema](articulo-3.md).

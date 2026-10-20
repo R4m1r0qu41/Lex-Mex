@@ -17,7 +17,7 @@ source_sha256: cf47ab93fdea40d2b3e41b58784df62f89dd90b4482dd3b7f25adc7f6957036b
 
 # Artículo 42
 
-La Secretaría establecerá y operará el Sistema de Monitoreo de la Calidad del Aire en el Distrito Federal y zona conurbada, y mantendrá un registro permanente de las concentraciones de contaminantes a la atmósfera que este reporte.
+La [Secretaría](articulo-6o.md) establecerá y operará el Sistema de Monitoreo de la Calidad del Aire en el Distrito Federal y zona conurbada, y mantendrá un registro permanente de las concentraciones de contaminantes a la atmósfera que este reporte.
 
 Las autoridades competentes en la zona conurbada del Distrito Federal auxiliarán a la Secretaría en la operación del sistema de monitoreo en sus circunscripciones territoriales, en los términos de los instrumentos de coordinación que al efecto se celebren.
 

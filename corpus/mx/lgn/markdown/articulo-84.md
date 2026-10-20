@@ -17,4 +17,4 @@ source_sha256: dfe63e9a5dca843a804e5d7878671e2899f2b088534d9ed9813e9878c20b12bd
 
 # Artículo 84
 
-En sus funciones y atribuciones de investigación y combate a los delitos, la Guardia Nacional actuará bajo la conducción y mando del Ministerio Público competente, a fin de que sus actuaciones se lleven a cabo con legalidad y bajo las formalidades necesarias para que los resultados de tales actuaciones puedan presentarse como evidencia válida ante los tribunales.
+En sus funciones y atribuciones de investigación y combate a los delitos, la Guardia Nacional actuará bajo la conducción y mando del [Ministerio Público](articulo-2.md) competente, a fin de que sus actuaciones se lleven a cabo con legalidad y bajo las formalidades necesarias para que los resultados de tales actuaciones puedan presentarse como evidencia válida ante los tribunales.

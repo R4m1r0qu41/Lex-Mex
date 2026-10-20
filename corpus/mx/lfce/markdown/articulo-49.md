@@ -17,11 +17,11 @@ source_sha256: d0021bbef2e0c3251d6efdea2c1efd9959ff3f02df4bcd1fc37c1ee7826a72ba
 
 # Artículo 49
 
-La Comisión deberá publicar la versión estenográfica de sus sesiones, y los acuerdos y resoluciones del pleno en su sitio de internet y, en el Diario Oficial de la Federación cuando así lo determine esta Ley, preservando en todo caso la secrecía de las investigaciones y procedimientos, la Información Confidencial y la Información Reservada.
+La [Comisión](articulo-3.md) deberá publicar la versión estenográfica de sus sesiones, y los acuerdos y resoluciones del pleno en su sitio de internet y, en el Diario Oficial de la Federación cuando así lo determine esta Ley, preservando en todo caso la secrecía de las investigaciones y procedimientos, la [Información Confidencial](articulo-3.md) y la [Información Reservada](articulo-3.md).
 
 El Comisionado Presidente deberá comparecer anualmente ante la Cámara de Senadores del Congreso de la Unión, de conformidad con lo dispuesto en el artículo [93](../../cpeum/markdown/articulo-93.md) de la Constitución Política de los Estados Unidos Mexicanos. De igual forma, deberá presentar a los Poderes Ejecutivo y Legislativo Federal el programa anual de trabajo y un informe trimestral de los avances de las actividades de la Comisión que deberán entregarse dentro de los treinta días naturales después de terminado el trimestre de que se trate. El programa anual de trabajo y el informe trimestral de actividades deberán hacer referencia, cuando menos, a los siguientes elementos:
 
-I. Análisis de la administración de la Comisión, señalando su visión, misión y objetivos, y considerando aspectos del desempeño, rendimiento y eficiencia de su actuación, de los retos que enfrenta la Comisión, su situación financiera en general, la aplicación de controles y medidas internas y cumplimiento de las Disposiciones Regulatorias y de su estatuto orgánico;
+I. Análisis de la administración de la Comisión, señalando su visión, misión y objetivos, y considerando aspectos del desempeño, rendimiento y eficiencia de su actuación, de los retos que enfrenta la Comisión, su situación financiera en general, la aplicación de controles y medidas internas y cumplimiento de las [Disposiciones Regulatorias](articulo-3.md) y de su estatuto orgánico;
 
 II. Desempeño de la Comisión en relación con sus objetivos y metas estratégicas, incluyendo una explicación de la forma en que los datos presentados son verificados y validados, así como los estudios independientes que evalúen el desempeño de la Comisión, y el avance en el cumplimiento de su programa anual de trabajo;
 

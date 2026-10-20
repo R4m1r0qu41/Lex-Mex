@@ -17,4 +17,4 @@ source_sha256: 716e427a30e9982ccaa0576288aad2ad5305c624b236a0f342b6a87d60b7a9ed
 
 # Artículo 12
 
-El Consejo se auxilia de una Secretaría Técnica cuyas funciones se deben precisar en los Lineamientos de Operación.
+El [Consejo](articulo-5.md) se auxilia de una [Secretaría](articulo-5.md) Técnica cuyas funciones se deben precisar en los [Lineamientos de Operación](articulo-5.md).

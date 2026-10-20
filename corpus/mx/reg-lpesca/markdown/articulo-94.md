@@ -25,6 +25,6 @@ II. A menos de 250 metros de las embarcaciones que estén dedicadas a la pesca c
 
 III. A menos de 250 metros de la orilla de las playas frecuentadas por bañistas.
 
-En el caso de la fracción I, la Secretaría podrá otorgar permisos de pesca deportivo-recreativa cuando no represente riesgo para la conservación de las especies que ahí habitan.
+En el caso de la fracción I, la [Secretaría](articulo-2o.md) podrá otorgar permisos de pesca deportivo-recreativa cuando no represente riesgo para la conservación de las especies que ahí habitan.
 
 En la práctica de la pesca deportivo-recreativa queda prohibido el uso de iluminación artificial para atraer a los peces.

@@ -21,7 +21,7 @@ Los concesionarios podrán prestar servicios complementarios directamente siempr
 
 En todo caso, los concesionarios y permisionarios deberán llevar a cabo los actos que sean necesarios a efecto de contar con opciones competitivas para la prestación de cada uno de los servicios complementarios.
 
-Los concesionarios únicamente podrán limitar el número de prestadores de servicios complementarios por razones de disponibilidad de espacio, eficiencia operativa y seguridad, después de escuchar la opinión del comité de operación y horarios del aeropuerto y previa aprobación de la Secretaría.
+Los concesionarios únicamente podrán limitar el número de prestadores de servicios complementarios por razones de disponibilidad de espacio, eficiencia operativa y seguridad, después de escuchar la opinión del comité de operación y horarios del aeropuerto y previa aprobación de la [Secretaría](articulo-2.md).
 
 En el supuesto de que los concesionarios limiten el número de prestadores de servicios complementarios conforme al párrafo anterior, los contratos necesarios para permitir que los concesionarios y permisionarios del servicio de transporte aéreo regular o terceros ajenos a éstos presten los servicios complementarios que sean requeridos en el aeropuerto serán adjudicados por concurso, en favor de aquellas personas que ofrezcan las mejores condiciones para una operación eficiente y segura del aeropuerto, así como la mejor calidad y precio para los usuarios. Los concesionarios, con la participación y opinión favorable de los concesionarios y permisionarios del servicio de transporte aéreo, usuarios del servicio en cuestión en el aeropuerto, establecerán los criterios, reglas generales y procedimientos de los concursos y llevarán a cabo los mismos.
 

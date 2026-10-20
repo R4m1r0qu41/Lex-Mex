@@ -17,4 +17,4 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 # Artículo 34
 
-Enunciación no limitativa Los derechos de las personas adolescentes previstos en la presente Ley son de carácter enunciativo y deberán ser interpretados de conformidad con lo dispuesto en la Constitución, en los Tratados Internacionales de los que el Estado mexicano sea parte y las leyes aplicables en la materia, favoreciendo en todo tiempo la protección más amplia de sus derechos.
+Enunciación no limitativa Los derechos de las personas adolescentes previstos en la presente [Ley](articulo-3.md) son de carácter enunciativo y deberán ser interpretados de conformidad con lo dispuesto en la [Constitución](articulo-3.md), en los Tratados Internacionales de los que el Estado mexicano sea parte y las leyes aplicables en la materia, favoreciendo en todo tiempo la protección más amplia de sus derechos.

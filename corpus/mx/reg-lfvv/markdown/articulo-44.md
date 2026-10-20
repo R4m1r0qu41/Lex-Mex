@@ -17,4 +17,4 @@ source_sha256: 23dcee090bbe0c4fb06c75d084cb65ce0b2e8f72a8d082e7059504412bde1614
 
 # Artículo 44
 
-Si el obtentor no desea participar en los términos del [artículo anterior](articulo-43.md), se expedirá la convocatoria, mediante licitación pública, para cubrir la emergencia, la que se regirá por los procedimientos y requisitos que establece la Ley de Adquisiciones y Obras Públicas.
+Si el obtentor no desea participar en los términos del [artículo anterior](articulo-43.md), se expedirá la convocatoria, mediante licitación pública, para cubrir la emergencia, la que se regirá por los procedimientos y requisitos que establece la [Ley](articulo-2o.md) de Adquisiciones y Obras Públicas.

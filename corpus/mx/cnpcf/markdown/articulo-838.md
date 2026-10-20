@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo Único
+
 # Artículo 838
 
 Si la demanda o solicitud fuera oscura o irregular, y no cumpliera con alguno de los requisitos a que se refiere el presente Título, la autoridad jurisdiccional dentro del término de tres días señalará en qué consisten los defectos de la misma, en el proveído que al efecto se dicte. El solicitante deberá cumplir con la prevención en un plazo máximo de tres días contados a partir del día siguiente a aquél en que haya surtido efectos la notificación por boletín judicial, y de no hacerlo o transcurrido el término, la autoridad jurisdiccional la desechará y devolverá al interesado todos los documentos originales que se hayan exhibido. Contra la anterior determinación procede el recurso de queja.

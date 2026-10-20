@@ -17,7 +17,7 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 366
 
-En el caso de que la resolución definitiva sobre el fondo de la controversia declare que se ha cometido una infracción administrativa, el Instituto otorgará un plazo de quince días contados a partir a que se les dé vista, con el fin de que las partes manifiesten su acuerdo sobre el destino de los bienes asegurados y, en caso de no recibir propuesta alguna, podrá ordenar:
+En el caso de que la resolución definitiva sobre el fondo de la controversia declare que se ha cometido una infracción administrativa, el [Instituto](articulo-4.md) otorgará un plazo de quince días contados a partir a que se les dé vista, con el fin de que las partes manifiesten su acuerdo sobre el destino de los bienes asegurados y, en caso de no recibir propuesta alguna, podrá ordenar:
 
 I.- La donación de los bienes a dependencias y entidades de la Administración Pública Federal, entidades federativas, municipios, instituciones públicas, de beneficencia o de seguridad social, cuando no se afecte el interés público, o
 

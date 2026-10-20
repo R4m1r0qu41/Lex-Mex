@@ -19,7 +19,7 @@ source_sha256: 1d398a90955ef45ccb7baf4d56534c676cde8325e8b109c4d32120909e783694
 
 La Secretaría Técnica de la Comisión estará a cargo del titular de la Dirección General de Estrategias para la Atención de Derechos Humanos de la Secretaría y tendrá las atribuciones siguientes:
 
-I. Apoyar al Presidente en la organización y logística de las sesiones;
+I. Apoyar al [Presidente](articulo-2.md) en la organización y logística de las sesiones;
 
 II. Someter a consideración del Presidente el orden del día para las sesiones;
 
@@ -39,4 +39,4 @@ X. Realizar la difusión, por cualquier medio, de las actividades, eventos, info
 
 XI. Elaborar el proyecto del programa de trabajo anual de la Comisión, y
 
-XII. Las demás que le instruya el Presidente o le señalen en el Reglamento Interno.
+XII. Las demás que le instruya el Presidente o le señalen en el [Reglamento Interno](articulo-2.md).

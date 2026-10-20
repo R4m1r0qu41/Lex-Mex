@@ -19,7 +19,7 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 Los patrones revisarán anualmente su siniestralidad para determinar si permanecen en la misma prima, o si ésta se disminuye o aumenta, de acuerdo a las reglas siguientes:
 
-I. La siniestralidad se obtendrá con base en los casos de riesgos de trabajo terminados durante el periodo comprendido entre el primero de enero y el treinta y uno de diciembre del año de que se trate, atendiendo para tal efecto a lo establecido en el artículo [72](../../lss/markdown/articulo-72.md) de la Ley;
+I. La siniestralidad se obtendrá con base en los casos de riesgos de trabajo terminados durante el periodo comprendido entre el primero de enero y el treinta y uno de diciembre del año de que se trate, atendiendo para tal efecto a lo establecido en el artículo [72](../../lss/markdown/articulo-72.md) de la [Ley](../../lss/markdown/articulo-5-A.md);
 
 II. Para la fijación de la prima se considerará el valor del grado de siniestralidad de la empresa al que se le sumará la prima mínima de riesgo, conforme a la fórmula que se establece en la Ley y en este Reglamento.
 
@@ -29,7 +29,7 @@ En caso de que sean diferentes procederá la nueva prima, aumentándola o dismin
 
 III. La prima obtenida de conformidad con las fracciones anteriores, tendrá vigencia desde el primero de marzo del año siguiente a aquel en que concluyó el periodo computado y hasta el día último de febrero del año subsecuente;
 
-IV. Si se trata de empresas de reciente registro en el Instituto o que hayan cambiado de actividad, en los términos de los artículos [26](articulo-26.md) y [28](articulo-28.md) de este Reglamento, la disminución o aumento de la prima procederá atendiendo a lo dispuesto por las fracciones I y II anteriores, considerando los casos de riesgos de trabajo terminados, hasta que hayan completado un periodo anual del primero de enero al treinta y uno de diciembre;
+IV. Si se trata de empresas de reciente registro en el [Instituto](../../lss/markdown/articulo-5-A.md) o que hayan cambiado de actividad, en los términos de los artículos [26](articulo-26.md) y [28](articulo-28.md) de este Reglamento, la disminución o aumento de la prima procederá atendiendo a lo dispuesto por las fracciones I y II anteriores, considerando los casos de riesgos de trabajo terminados, hasta que hayan completado un periodo anual del primero de enero al treinta y uno de diciembre;
 
 V. Los patrones deberán presentar al Instituto, durante el mes de febrero, los formatos impresos o el dispositivo magnético generado por el programa informático que el Instituto autorice, en donde se harán constar los casos de riesgos de trabajo terminados durante el año, precisando la identificación de los trabajadores y las consecuencias de cada riesgo, así como el número de trabajadores promedio expuestos al riesgo dados en razón de la mecánica bajo la cual efectúen los pagos de cuotas. El Instituto deberá dar aviso al patrón cuando califique algún accidente o enfermedad de trabajo, o en caso de recaída con motivo de éstos.
 

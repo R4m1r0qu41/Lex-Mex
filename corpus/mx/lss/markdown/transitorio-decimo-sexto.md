@@ -15,4 +15,4 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # DECIMO SEXTO
 
-Al iniciar la vigencia de la presente Ley, susbsistirá la subcuenta del seguro de retiro prevista por la legislación que se deroga, misma que seguirá generando los rendimientos respectivos y a la cual no podrán hacerse nuevos depósitos a partir de la entrada en vigor de este Decreto.
+Al iniciar la vigencia de la presente [Ley](articulo-5-A.md), susbsistirá la subcuenta del seguro de retiro prevista por la legislación que se deroga, misma que seguirá generando los rendimientos respectivos y a la cual no podrán hacerse nuevos depósitos a partir de la entrada en vigor de este Decreto.

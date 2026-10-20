@@ -17,7 +17,7 @@ source_sha256: ea96e97cbea2fd1919af78b94cd3466ee20a77e05989be2d482d2eb8061618c5
 
 # Artículo 101
 
-Se deberán publicar en el Diario Oficial de la Federación:
+Se deberán publicar en el Diario Oficial de la [Federación](articulo-2.md):
 
 I.- Los ordenamientos cuya expedición prevé la presente Ley;
 

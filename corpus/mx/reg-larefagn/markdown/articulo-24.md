@@ -17,6 +17,6 @@ source_sha256: 01b72308e67d46ba6ca8a6b07fb7584c6a74e905ea0c4b5be5c0c0d32a6d817a
 
 # Artículo 24
 
-El estado de salud se acreditará con el certificado médico expedido por las personas médicas militares que designe la Dirección General de Sanidad.
+El estado de salud se acreditará con el certificado médico expedido por las personas médicas militares que designe la [Dirección](articulo-5.md) General de Sanidad.
 
 Artículo reformado DOF 20-03-2026

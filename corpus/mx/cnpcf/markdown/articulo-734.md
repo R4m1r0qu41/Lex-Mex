@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Primero · Capítulo I
+
 # Artículo 734
 
 Si el testamento no es impugnado ni se objeta la capacidad de las personas interesadas, la autoridad jurisdiccional en la misma junta, reconocerá como herederos a los que estén nombrados en las porciones que les correspondan.

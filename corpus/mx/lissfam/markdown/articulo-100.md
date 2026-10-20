@@ -17,7 +17,7 @@ source_sha256: 35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc
 
 # Artículo 100
 
-A fin de atender las necesidades de habitación familiar del militar, el Instituto de Seguridad Social para las Fuerzas Armadas deberá:
+A fin de atender las necesidades de habitación familiar del militar, el [Instituto](articulo-4o.md) de Seguridad Social para las Fuerzas Armadas deberá:
 
 I. Administrar el fondo de la vivienda para los militares en activo;
 
@@ -37,4 +37,4 @@ V. Adquirir y construir con recursos diversos al fondo de la vivienda militar, c
 
 VI. Construir unidades habitacionales en plazas importantes del país para su ocupación temporal mediante cuotas de recuperación por personal de Generales, Jefes, Oficiales, Tropa y sus equivalentes en la Armada en situación de retiro, y Fracción reformada DOF 16-07-2025
 
-VII. Construir unidades habitacionales en lugares próximos a las instalaciones de la Fuerza Armada Permanente, para ser ocupadas temporalmente mediante cuotas de recuperación, por personal de Generales, Jefes, Oficiales, Tropa y sus equivalentes en la Armada en servicio activo. Fracción reformada DOF 16-07-2025
+VII. Construir unidades habitacionales en lugares próximos a las instalaciones de la [Fuerza Armada Permanente](articulo-4o.md), para ser ocupadas temporalmente mediante cuotas de recuperación, por personal de Generales, Jefes, Oficiales, Tropa y sus equivalentes en la Armada en servicio activo. Fracción reformada DOF 16-07-2025

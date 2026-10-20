@@ -17,7 +17,7 @@ source_sha256: 32822f50bb2de81185408f9450d61a49d678429c52c5379822a507c7027a5275
 
 # Artículo 50
 
-La Comisión Nacional estará facultada para atender la solicitud de colaboración de los sectores social y privado cuando se traten asuntos de su interés o competencia, y sus funciones son las siguientes:
+La [Comisión Nacional](articulo-5.md) estará facultada para atender la solicitud de colaboración de los sectores social y privado cuando se traten asuntos de su interés o competencia, y sus funciones son las siguientes:
 
 I. Proponer Políticas Públicas de Desarrollo Social bajo los criterios de integralidad y transversalidad, con perspectiva de género y de derechos humanos; Fracción reformada DOF 15-01-2026
 
@@ -33,12 +33,12 @@ VII. Promover el intercambio de experiencias en materia de desarrollo social y d
 
 VIII. Revisar el marco normativo del desarrollo social y, en su caso, proponer y promover modificaciones ante las instancias competentes;
 
-IX. Aprobar la propuesta de reglas que deban regir la participación social que haga la Secretaría;
+IX. Aprobar la propuesta de reglas que deban regir la participación social que haga la [Secretaría](articulo-5.md);
 
 X. Proponer acciones de capacitación para servidores públicos de los tres órdenes de gobierno en aspectos relacionados con el desarrollo social;
 
 XI. Proponer la creación de grupos de trabajo temáticos y regionales para la atención de asuntos específicos;
 
-XII. Sugerir las actividades que estime necesarias y convenientes para el funcionamiento adecuado del Sistema Nacional, y
+XII. Sugerir las actividades que estime necesarias y convenientes para el funcionamiento adecuado del [Sistema Nacional](articulo-5.md), y
 
 XIII. Las demás que le señale esta Ley.

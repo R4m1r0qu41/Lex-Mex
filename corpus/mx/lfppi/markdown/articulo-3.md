@@ -17,6 +17,6 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 3
 
-En lo no previsto en la presente Ley serán aplicables de manera supletoria, primero, la Ley Federal de Procedimiento Administrativo y, posteriormente, el Código Nacional de Procedimientos Civiles y Familiares.
+En lo no previsto en la presente [Ley](articulo-4.md) serán aplicables de manera supletoria, primero, la Ley Federal de Procedimiento Administrativo y, posteriormente, el Código Nacional de Procedimientos Civiles y Familiares.
 
 Artículo reformado DOF 14-11-2025

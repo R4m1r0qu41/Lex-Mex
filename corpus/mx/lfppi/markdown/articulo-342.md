@@ -21,4 +21,4 @@ Una vez que la persona titular afectada o la persona presunta infractora present
 
 Tratándose de procedimientos de declaración administrativa de infracción, en la misma resolución se impondrá la sanción, cuando ésta sea procedente.
 
-La resolución definitiva se notificará a las personas interesadas en el domicilio señalado en el expediente o, en su caso, mediante publicación en los términos del artículo [369](articulo-369.md) de esta Ley. Párrafo reformado DOF 03-04-2026
+La resolución definitiva se notificará a las personas interesadas en el domicilio señalado en el expediente o, en su caso, mediante publicación en los términos del artículo [369](articulo-369.md) de esta [Ley](articulo-4.md). Párrafo reformado DOF 03-04-2026

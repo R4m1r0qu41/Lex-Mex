@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Primero · Capítulo I
+
 # Artículo 692
 
 En caso de que se hayan otorgado medidas cautelares para la conservación de bienes, la autoridad jurisdiccional abrirá la correspondencia física o electrónica que se encuentre dirigida a la persona de cuya sucesión se trate, en presencia de la persona secretaria judicial y la persona que ejerza el cargo de persona interventora, albacea judicial o provisional, en los periodos que se señalen, según las circunstancias.

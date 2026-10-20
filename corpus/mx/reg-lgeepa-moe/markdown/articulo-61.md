@@ -17,4 +17,4 @@ source_sha256: d25fabb2d2e90d9f76028717f83c442d05a4f64024f13461285bda8ebd389a04
 
 # Artículo 61
 
-La Secretaría establecerá un sistema regionalizado a través de sus delegaciones federales o coordinaciones regionales para dar apoyo técnico a los gobiernos en la formulación y ejecución de los programas de ordenamiento ecológico respectivos.
+La [Secretaría](articulo-3o.md) establecerá un sistema regionalizado a través de sus delegaciones federales o coordinaciones regionales para dar apoyo técnico a los gobiernos en la formulación y ejecución de los programas de ordenamiento ecológico respectivos.

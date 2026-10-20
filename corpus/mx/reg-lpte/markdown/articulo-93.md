@@ -17,4 +17,4 @@ source_sha256: 716e427a30e9982ccaa0576288aad2ad5305c624b236a0f342b6a87d60b7a9ed
 
 # Artículo 93
 
-Una vez incluidos en el Registro UPAC, las personas Usuarias de Patrón de Alto Consumo se obligan a mantener la inscripción de aquellas instalaciones que cumplan con los criterios emitidos por la CONUEE.
+Una vez incluidos en el [Registro UPAC](articulo-5.md), las personas Usuarias de Patrón de Alto Consumo se obligan a mantener la inscripción de aquellas instalaciones que cumplan con los criterios emitidos por la CONUEE.

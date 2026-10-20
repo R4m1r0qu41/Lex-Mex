@@ -17,4 +17,4 @@ source_sha256: 70464807d63da08244e495f2ff0ac30b12b30119926b84cedc7930397fcb80ef
 
 # Artículo 248
 
-La Secretaría publicará periódicamente en el Diario Oficial de la Federación, la relación de los terceros autorizados, así como las suspensiones y revocaciones.
+La [Secretaría](articulo-2o.md) publicará periódicamente en el Diario Oficial de la Federación, la relación de los terceros autorizados, así como las suspensiones y revocaciones.

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Primero · Capítulo I
+
 # Artículo 399
 
 La consignación del dinero puede hacerse en el lugar o cuenta bancaria que designe la persona acreedora y en su defecto, mediante certificado de depósito o cheque certificado, ante el área de apoyo judicial, dispuesta para dichos efectos en la Ley Orgánica respectiva, Secretaría de Finanzas o Tesorería de cada Entidad Federativa.

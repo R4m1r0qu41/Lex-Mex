@@ -17,4 +17,4 @@ source_sha256: 4d25bcb022ab62a24462e11a230c9554c0120012913ab4599cd3ec1b2b275c1d
 
 # Artículo 56
 
-La Secretaría deberá solicitar la reconsideración de los avalúos efectuados por el INDAABIN, en términos del Reglamento del Instituto de Administración de Avalúos de Bienes Nacionales, en caso de que así sea requerido por el solicitante de la afectación.
+La [Secretaría](articulo-1o.md) deberá solicitar la reconsideración de los avalúos efectuados por el [INDAABIN](articulo-1o.md), en términos del Reglamento del Instituto de Administración de Avalúos de Bienes Nacionales, en caso de que así sea requerido por el solicitante de la afectación.

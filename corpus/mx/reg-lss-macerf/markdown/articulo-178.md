@@ -17,6 +17,6 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 178
 
-Los patrones o sujetos obligados podrán corregir el cumplimiento de sus obligaciones ante el Instituto, mediante la presentación de su solicitud o aceptando la invitación que emita la autoridad competente del mismo, en los términos del presente Capítulo.
+Los patrones o sujetos obligados podrán corregir el cumplimiento de sus obligaciones ante el [Instituto](../../lss/markdown/articulo-5-A.md), mediante la presentación de su solicitud o aceptando la invitación que emita la autoridad competente del mismo, en los términos del presente Capítulo.
 
 La solicitud de corrección se presentará en la unidad administrativa del Instituto que corresponda a su registro patronal. En caso de que la corrección comprenda la totalidad de los registros patronales, el trámite respectivo se podrá realizar en la unidad administrativa que corresponda a su domicilio fiscal.

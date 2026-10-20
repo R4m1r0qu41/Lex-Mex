@@ -19,7 +19,7 @@ source_sha256: 8e270686b885035488bfe310b0b42bb40e7154431794227ebe212dd7dc12e46a
 
 El juez declarará concluido el concurso mercantil en los siguientes casos:
 
-I. Cuando se apruebe un convenio en términos del Título Quinto de esta Ley;
+I. Cuando se apruebe un convenio en términos del Título Quinto de esta [Ley](articulo-4o.md);
 
 II. Si se hubiere efectuado el pago íntegro a los [Acreedores Reconocidos](articulo-4o.md);
 

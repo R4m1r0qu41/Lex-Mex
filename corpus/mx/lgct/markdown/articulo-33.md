@@ -17,4 +17,4 @@ source_sha256: 9f964bc5c075d7cf47e5e9df7c2fbe262eb5bd1794de9b230dbd72026a51ae5e
 
 # Artículo 33
 
-La Secretaría, a través de los verificadores y en coordinación con las autoridades correspondientes, está facultada para intervenir en puertos marítimos y aéreos, en las fronteras y, en general, en cualquier punto del territorio nacional, en relación con el tráfico de productos del tabaco y de los productos accesorios al tabaco, para los efectos de identificación, control y disposición sanitarios.
+La [Secretaría](articulo-6.md), a través de los verificadores y en coordinación con las autoridades correspondientes, está facultada para intervenir en puertos marítimos y aéreos, en las fronteras y, en general, en cualquier punto del territorio nacional, en relación con el tráfico de productos del tabaco y de los productos accesorios al tabaco, para los efectos de identificación, control y disposición sanitarios.

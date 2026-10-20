@@ -17,7 +17,7 @@ source_sha256: 4f46c1f92fb5682281a7679836e517de95975786fa5326848a331c9eb946cc5f
 
 # Artículo 74
 
-Para los efectos del artículo [32](../../liva/markdown/articulo-32.md), fracción III de la Ley, cuando las personas realicen actividades por las que se deba pagar el impuesto a través de un fideicomiso, la institución fiduciaria podrá expedir por cuenta de ellas los comprobantes respectivos, trasladando en forma expresa y por separado el impuesto, siempre que se cumpla con lo siguiente:
+Para los efectos del artículo [32](../../liva/markdown/articulo-32.md), fracción III de la [Ley](articulo-1.md), cuando las personas realicen actividades por las que se deba pagar el impuesto a través de un fideicomiso, la institución fiduciaria podrá expedir por cuenta de ellas los comprobantes respectivos, trasladando en forma expresa y por separado el impuesto, siempre que se cumpla con lo siguiente:
 
 I. Que al momento en que se solicite la inscripción del fideicomiso en el Registro Federal de Contribuyentes, los fideicomisarios manifiesten por escrito que ejercen la opción a que se refiere este artículo y las instituciones fiduciarias manifiesten su voluntad de asumir responsabilidad solidaria por el impuesto que se deba pagar con motivo de las actividades realizadas a través de los fideicomisos en los que participan con ese carácter.
 

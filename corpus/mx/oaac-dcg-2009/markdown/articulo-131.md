@@ -18,7 +18,7 @@ source_sha256: 8ac502b97188bd6e795781e9821be6e62ccdd8050cdd3be74aab52a888e67939
 
 # Artículo 131
 
-El código de conducta elaborado por la [Dirección General](articulo-1.md) y que el Comité de Auditoría (105)
+El código de conducta elaborado por la [Dirección General](articulo-1.md) y que el [Comité de Auditoría](articulo-1.md) (105)
 
 propondrá para aprobación del [Consejo](articulo-1.md), establecerá un marco autorregulatorio que norme la conducta de los consejeros, directivos y demás personal al interior de la unión de crédito, así como con sus Socios y otras entidades.
 

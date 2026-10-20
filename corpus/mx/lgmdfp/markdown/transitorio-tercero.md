@@ -15,7 +15,7 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Tercero
 
-Las Fiscalías Especializadas y la Comisión Nacional de Búsqueda entrarán en funcionamiento dentro de los treinta días siguientes a la entrada en vigor del presente Decreto.
+Las [Fiscalías Especializadas](articulo-4.md) y la [Comisión Nacional de Búsqueda](articulo-4.md) entrarán en funcionamiento dentro de los treinta días siguientes a la entrada en vigor del presente Decreto.
 
 Dentro de los treinta días siguientes a que la Comisión Nacional de Búsqueda inicie sus funciones, ésta deberá emitir los protocolos rectores para su funcionamiento previstos en el artículo [53](articulo-53.md), fracción VIII, de esta Ley.
 

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo Único
+
 # Artículo 843
 
 En caso de que el concursado no colabore o interfiera negativamente en el proceso concursal, se designará a un síndico provisional, quien tomará posesión y administración de los bienes, libros, valores y documentos del concursado de forma inmediata, debiendo llevar la contabilidad del concursado. En su caso, el síndico o depositario diverso a la persona deudora deberá otorgar garantía dentro de los siguientes diez días de aceptación del cargo.

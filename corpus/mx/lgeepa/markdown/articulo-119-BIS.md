@@ -23,6 +23,6 @@ I.- El control de las descargas de aguas residuales a los sistemas de drenaje y 
 
 II.- La vigilancia de las normas oficiales mexicanas correspondientes, así como requerir a quienes generen descargas a dichos sistemas y no cumplan con éstas, la instalación de sistemas de tratamiento; III.- Determinar el monto de los derechos correspondientes para que el municipio o autoridad de la entidad federativa respectiva, pueda llevar a cabo el tratamiento necesario, y en su caso, proceder a la imposición de las sanciones a que haya lugar, y Fracción reformada DOF 19-01-2018
 
-IV.- Llevar y actualizar el registro de las descargas a los sistemas de drenaje y alcantarillado que administren, el que será integrado al registro nacional de descargas a cargo de la Secretaría.
+IV.- Llevar y actualizar el registro de las descargas a los sistemas de drenaje y alcantarillado que administren, el que será integrado al registro nacional de descargas a cargo de la [Secretaría](articulo-3o.md).
 
 Artículo adicionado DOF 13-12-1996

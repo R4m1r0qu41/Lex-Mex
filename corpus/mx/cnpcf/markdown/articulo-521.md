@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo II
+
 # Artículo 521
 
 Los escritos de demanda, contestación, y en su caso, reconvención, observarán los requisitos establecidos en las disposiciones generales. El escrito inicial de demanda además de los requisitos referidos deberá acompañarse con el contrato de arrendamiento en caso de haberse celebrado por escrito.

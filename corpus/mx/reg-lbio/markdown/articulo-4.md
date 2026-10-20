@@ -17,4 +17,4 @@ source_sha256: 7df3d678efda2306b68d3c0f5ca0e3e92b9066d5f773128f4ae19cb26bf44fff
 
 # Artículo 4
 
-La interpretación de este Reglamento, para efectos administrativos, corresponde al Ejecutivo Federal a través de la SENER, la SEMARNAT y la SADER, en el ámbito de sus competencias, de conformidad con la normatividad aplicable en la materia.
+La interpretación de este [Reglamento](articulo-3.md), para efectos administrativos, corresponde al Ejecutivo Federal a través de la [SENER](articulo-3.md), la [SEMARNAT](articulo-3.md) y la [SADER](articulo-3.md), en el ámbito de sus competencias, de conformidad con la normatividad aplicable en la materia.

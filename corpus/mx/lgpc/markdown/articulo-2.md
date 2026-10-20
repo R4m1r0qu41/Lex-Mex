@@ -25,23 +25,23 @@ II. Albergado: Persona que en forma temporal recibe asilo, amparo, alojamiento y
 
 III. Albergue: Instalación que se establece para brindar resguardo a las personas que se han visto afectadas en sus viviendas por los efectos de fenómenos perturbadores y en donde permanecen hasta que se da la recuperación o reconstrucción de sus viviendas;
 
-IV. Atlas Nacional de Riesgos: Sistema integral de información sobre los agentes perturbadores y daños esperados, resultado de un análisis espacial y temporal sobre la interacción entre los peligros, la vulnerabilidad y el grado de exposición de los agentes afectables; V. Auxilio: respuesta de ayuda a las personas en riesgo o las víctimas de un siniestro, emergencia o desastre, por parte de grupos especializados públicos o privados, o por las unidades internas de protección civil, así como las acciones para salvaguardar los demás agentes afectables;
+IV. Atlas Nacional de [Riesgos](articulo-2.md): Sistema integral de información sobre los agentes perturbadores y daños esperados, resultado de un análisis espacial y temporal sobre la interacción entre los peligros, la vulnerabilidad y el grado de exposición de los agentes afectables; V. Auxilio: respuesta de ayuda a las personas en riesgo o las víctimas de un siniestro, emergencia o desastre, por parte de grupos especializados públicos o privados, o por las unidades internas de protección civil, así como las acciones para salvaguardar los demás agentes afectables;
 
-VI. Brigada: Grupo de personas que se organizan dentro de un inmueble, capacitadas y adiestradas en funciones básicas de respuesta a emergencias tales como: primeros auxilios, combate a conatos de incendio, evacuación, búsqueda y rescate; designados en la Unidad Interna de Protección Civil como encargados del desarrollo y ejecución de acciones de prevención, auxilio y recuperación, con base en lo estipulado en el Programa Interno de Protección Civil del inmueble;
+VI. Brigada: Grupo de personas que se organizan dentro de un inmueble, capacitadas y adiestradas en funciones básicas de respuesta a emergencias tales como: primeros auxilios, combate a conatos de incendio, evacuación, búsqueda y rescate; designados en la [Unidad Interna de Protección Civil](articulo-2.md) como encargados del desarrollo y ejecución de acciones de prevención, auxilio y recuperación, con base en lo estipulado en el [Programa Interno de Protección Civil](articulo-2.md) del inmueble;
 
 VII. Cambio Climático: Cambio en el clima, atribuible directa o indirectamente a la actividad humana, que altera la composición de la atmósfera mundial y que se suma a la variabilidad climática natural observada durante períodos comparables;
 
-VIII. Centro Nacional: El Centro Nacional de Prevención de Desastres;
+VIII. Centro Nacional: El Centro Nacional de [Prevención](articulo-2.md) de [Desastres](articulo-2.md);
 
-IX. Comité Nacional: Al Comité Nacional de Emergencias y Desastres de Protección Civil;
+IX. Comité Nacional: Al Comité Nacional de [Emergencias](articulo-2.md) y Desastres de [Protección Civil](articulo-2.md);
 
-X. Consejo Consultivo: Al Consejo Consultivo Permanente de Protección Civil, como órgano asesor del Consejo Nacional;
+X. Consejo Consultivo: Al Consejo Consultivo Permanente de Protección Civil, como órgano asesor del [Consejo Nacional](articulo-2.md);
 
 XI. Consejo Nacional: Al Consejo Nacional de Protección Civil;
 
 XII. Continuidad de operaciones: Al proceso de planeación, documentación y actuación que garantiza que las actividades sustantivas de las instituciones públicas, privadas y sociales, afectadas por un agente perturbador, puedan recuperarse y regresar a la normalidad en un tiempo mínimo. Esta planeación deberá estar contenida en un documento o serie de documentos cuyo contenido se dirija hacia la prevención, respuesta inmediata, recuperación y restauración, todas ellas avaladas por sesiones de capacitación continua y realización de simulacros;
 
-XIII. Coordinación Nacional: A la Coordinación Nacional de Protección Civil de la Secretaría de Seguridad y Protección Ciudadana; Fracción reformada DOF 21-12-2023
+XIII. Coordinación Nacional: A la Coordinación Nacional de Protección Civil de la [Secretaría](articulo-2.md) de Seguridad y Protección Ciudadana; Fracción reformada DOF 21-12-2023
 
 XIV. Damnificado: Persona afectada por un agente perturbador, ya sea que haya sufrido daños en su integridad física o un perjuicio en sus bienes de tal manera que requiere asistencia externa para su subsistencia; considerándose con esa condición en tanto no se concluya la emergencia o se restablezca la situación de normalidad previa al desastre;
 
@@ -75,7 +75,7 @@ XXVIII. Gestión Integral de Riesgos: El conjunto de acciones encaminadas a la i
 
 XXIX. Grupos Voluntarios: Las personas morales o las personas físicas, que se han acreditado ante las autoridades competentes, y que cuentan con personal, conocimientos, experiencia y equipo necesarios, para prestar de manera altruista y comprometida, sus servicios en acciones de protección civil; Fracción recorrida DOF 03-06-2014
 
-XXX. Hospital Seguro: Establecimiento de servicios de salud que debe permanecer accesible y funcionando a su máxima capacidad, con la misma estructura, bajo una situación de emergencia o de desastre; Fracción recorrida DOF 03-06-2014
+XXX. Hospital [Seguro](articulo-2.md): Establecimiento de servicios de salud que debe permanecer accesible y funcionando a su máxima capacidad, con la misma estructura, bajo una situación de emergencia o de desastre; Fracción recorrida DOF 03-06-2014
 
 XXXI. Identificación de Riesgos: Reconocer y valorar las pérdidas o daños probables sobre los agentes afectables y su distribución geográfica, a través del análisis de los peligros y la vulnerabilidad; Fracción recorrida DOF 03-06-2014
 
@@ -101,7 +101,7 @@ XLI. Programa Interno de Protección Civil: Es un instrumento de planeación y o
 
 XLII. Programa Nacional: Al Programa Nacional de Protección Civil; Fracción recorrida DOF 03-06-2014
 
-XLIII. Protección Civil: Es la acción solidaria y participativa, que en consideración tanto de los riesgos de origen natural o antrópico como de los efectos adversos de los agentes perturbadores, prevé la coordinación y concertación de los sectores público, privado y social en el marco del Sistema Nacional, con el fin de crear un conjunto de disposiciones, planes, programas, estrategias, mecanismos y recursos para que de manera corresponsable, y privilegiando la Gestión Integral de Riesgos y la Continuidad de Operaciones, se apliquen las medidas y acciones que sean necesarias para salvaguardar la vida, integridad y salud de la población, así como sus bienes; la infraestructura, la planta productiva y el medio ambiente; Fracción recorrida DOF 03-06-2014
+XLIII. Protección Civil: Es la acción solidaria y participativa, que en consideración tanto de los riesgos de origen natural o antrópico como de los efectos adversos de los agentes perturbadores, prevé la coordinación y concertación de los sectores público, privado y social en el marco del [Sistema Nacional](articulo-2.md), con el fin de crear un conjunto de disposiciones, planes, programas, estrategias, mecanismos y recursos para que de manera corresponsable, y privilegiando la [Gestión Integral de Riesgos](articulo-2.md) y la Continuidad de Operaciones, se apliquen las medidas y acciones que sean necesarias para salvaguardar la vida, integridad y salud de la población, así como sus bienes; la infraestructura, la planta productiva y el medio ambiente; Fracción recorrida DOF 03-06-2014
 
 XLIV. Reconstrucción: La acción transitoria orientada a alcanzar el entorno de normalidad social y económica que prevalecía entre la población antes de sufrir los efectos producidos por un agente perturbador en un determinado espacio o jurisdicción. Este proceso debe buscar en la medida de lo posible la reducción de los riesgos existentes, asegurando la no generación de nuevos riesgos y mejorando para ello las condiciones preexistentes; Fracción recorrida DOF 03-06-2014
 
@@ -127,7 +127,7 @@ LIV. Sistema Nacional: El Sistema Nacional de Protección Civil; Fracción recor
 
 LV. Siniestro: Situación crítica y dañina generada por la incidencia de uno o más fenómenos perturbadores en un inmueble o instalación afectando a su población y equipo, con posible afectación a instalaciones circundantes; Fracción recorrida DOF 03-06-2014
 
-LVI. Unidad Interna de Protección Civil: El órgano normativo y operativo responsable de desarrollar y dirigir las acciones de protección civil, así como elaborar, actualizar, operar y vigilar el Programa Interno de Protección Civil en los inmuebles e instalaciones fijas y móviles de una dependencia, institución o entidad perteneciente a los sectores público, privado y social; también conocidas como Brigadas Institucionales de Protección Civil; Fracción recorrida DOF 03-06-2014
+LVI. Unidad Interna de Protección Civil: El órgano normativo y operativo responsable de desarrollar y dirigir las acciones de protección civil, así como elaborar, actualizar, operar y vigilar el Programa Interno de Protección Civil en los inmuebles e instalaciones fijas y móviles de una dependencia, institución o entidad perteneciente a los sectores público, privado y social; también conocidas como [Brigadas](articulo-2.md) Institucionales de Protección Civil; Fracción recorrida DOF 03-06-2014
 
 LVII. Unidades de Protección Civil: Los organismos de la administración pública de las entidades federativas, municipales o de las delegaciones, encargados de la organización, coordinación y operación del Sistema Nacional, en su demarcación territorial; Fracción recorrida DOF 03-06-2014
 
@@ -137,4 +137,4 @@ LIX. Zona de Desastre: Espacio territorial determinado en el tiempo por la decla
 
 LX. Zona de Riesgo: Espacio territorial determinado en el que existe la probabilidad de que se produzca un daño, originado por un fenómeno perturbador, y Fracción recorrida DOF 03-06-2014
 
-LXI. Zona de Riesgo Grave: Asentamiento humano que se encuentra dentro de una zona de grave riesgo, originado por un posible fenómeno perturbador. Fracción recorrida DOF 03-06-2014
+LXI. [Zona de Riesgo](articulo-2.md) Grave: Asentamiento humano que se encuentra dentro de una zona de grave riesgo, originado por un posible fenómeno perturbador. Fracción recorrida DOF 03-06-2014

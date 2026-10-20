@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 301 Bis 1
 
-El Comité Técnico establecerá políticas que le permitan evaluar el reporte de crédito o historial crediticio previsto en la fracción II del artículo [301 Bis](articulo-301-Bis.md) de estas disposiciones, basados en la información que sea proporcionada por el candidato y que haya sido emitida por Sociedades de Información Crediticia. Al efecto, dichas políticas tomarán en cuenta, cuando menos:
+El Comité Técnico establecerá políticas que le permitan evaluar el reporte de crédito o historial crediticio previsto en la fracción II del artículo [301 Bis](articulo-301-Bis.md) de estas disposiciones, basados en la información que sea proporcionada por el candidato y que haya sido emitida por [Sociedades](articulo-1.md) de Información Crediticia. Al efecto, dichas políticas tomarán en cuenta, cuando menos:
 
 I. Criterios para valorar el contenido de los reportes expedidos por las Sociedades de Información Crediticia, que permitan calificar el perfil crediticio del candidato, en el evento de que cuenten con adeudos vencidos u otro tipo de antecedentes crediticios negativos.
 
@@ -26,4 +26,4 @@ II. La información adicional que se requeriría a las personas que se ubiquen e
 
 III. Los supuestos en los que procedería designar o remover a las personas que se ubiquen en las situaciones previstas en la fracción I anterior.
 
-Asimismo, el Comité Técnico emitirá políticas para evaluar si los vínculos patrimoniales, comerciales o de negocio a que se refiere el artículo [301 Bis](articulo-301-Bis.md), fracción IV, incisos g) y h), de estas disposiciones, que en su caso tenga el candidato, constituyen conflictos de interés que le impida ser designado como miembro del Comité de Protección al Ahorro, en términos del artículo 108, fracción II, inciso g) de la Ley.
+Asimismo, el Comité Técnico emitirá políticas para evaluar si los vínculos patrimoniales, comerciales o de negocio a que se refiere el artículo [301 Bis](articulo-301-Bis.md), fracción IV, incisos g) y h), de estas disposiciones, que en su caso tenga el candidato, constituyen conflictos de interés que le impida ser designado como miembro del Comité de Protección al Ahorro, en términos del artículo 108, fracción II, inciso g) de la [Ley](articulo-1.md).

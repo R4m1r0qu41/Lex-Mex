@@ -17,4 +17,4 @@ source_sha256: 716e427a30e9982ccaa0576288aad2ad5305c624b236a0f342b6a87d60b7a9ed
 
 # Artículo 91
 
-Las personas Usuarias de Patrón de Alto Consumo, deben realizar su inscripción en el Registro UPAC a través del sistema que para tal efecto se habilite.
+Las personas Usuarias de Patrón de Alto Consumo, deben realizar su inscripción en el [Registro UPAC](articulo-5.md) a través del sistema que para tal efecto se habilite.

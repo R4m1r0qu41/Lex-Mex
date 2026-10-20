@@ -17,4 +17,4 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 266
 
-El Comité de Protección al Ahorro Cooperativo, de conformidad con lo previsto en el presente capítulo y en función del saldo al último día del mes de los depósitos de dinero que las Sociedades reporten al propio Comité, efectuará los cálculos para la determinación de las cuotas correspondientes al mes de que se trate.
+El [Comité de Protección al Ahorro Cooperativo](articulo-1.md), de conformidad con lo previsto en el presente capítulo y en función del saldo al último día del mes de los depósitos de dinero que las Sociedades reporten al propio Comité, efectuará los cálculos para la determinación de las cuotas correspondientes al mes de que se trate.

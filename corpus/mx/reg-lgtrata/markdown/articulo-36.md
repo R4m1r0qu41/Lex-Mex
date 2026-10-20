@@ -17,4 +17,4 @@ source_sha256: 1d398a90955ef45ccb7baf4d56534c676cde8325e8b109c4d32120909e783694
 
 # Artículo 36
 
-La Comisión sesionará de forma ordinaria cuando menos dos veces al año, sin perjuicio de que celebre sesiones extraordinarias cuando existan circunstancias que lo ameriten, en los términos que establezca el Reglamento Interno. REGLAMENTO DE LA LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS
+La Comisión sesionará de forma ordinaria cuando menos dos veces al año, sin perjuicio de que celebre sesiones extraordinarias cuando existan circunstancias que lo ameriten, en los términos que establezca el [Reglamento Interno](articulo-2.md). REGLAMENTO DE LA LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS

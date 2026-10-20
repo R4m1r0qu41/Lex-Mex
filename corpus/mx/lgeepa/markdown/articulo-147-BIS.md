@@ -17,6 +17,6 @@ source_sha256: 0574853d06020030188e8aee1eae5dabb2b476ac630cc52be631a48d2b91adbc
 
 # Artículo 147 BIS
 
-Quienes realicen actividades altamente riesgosas, en los términos del Reglamento correspondiente, deberán contar con un seguro de riesgo ambiental. Para tal fin, la Secretaría con aprobación de las Secretarías de Gobernación, de Energía, de Economía, de Salud, y del Trabajo y Previsión Social integrará un Sistema Nacional de Seguros de Riesgo Ambiental.
+Quienes realicen actividades altamente riesgosas, en los términos del Reglamento correspondiente, deberán contar con un seguro de riesgo ambiental. Para tal fin, la [Secretaría](articulo-3o.md) con aprobación de las Secretarías de Gobernación, de Energía, de Economía, de Salud, y del Trabajo y Previsión Social integrará un Sistema Nacional de Seguros de Riesgo Ambiental.
 
 Artículo adicionado DOF 31-12-2001

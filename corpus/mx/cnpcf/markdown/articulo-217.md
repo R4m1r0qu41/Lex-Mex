@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Primero · Capítulo VIII
+
 # Artículo 217
 
 Los exhortos y despachos que se reciban de las autoridades judiciales del territorio nacional, se proveerán dentro de las veinticuatro horas siguientes a su recepción, y se diligenciarán dentro de los cinco días siguientes, a no ser que lo que haya de practicarse, exija necesariamente mayor tiempo.

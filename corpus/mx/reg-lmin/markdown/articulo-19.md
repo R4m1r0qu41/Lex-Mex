@@ -17,11 +17,11 @@ source_sha256: 4d25bcb022ab62a24462e11a230c9554c0120012913ab4599cd3ec1b2b275c1d
 
 # Artículo 19
 
-Si después de la admisión y al determinar el carácter libre de los lotes objeto de las solicitudes, la Secretaría encuentra que dos o más de ellas registradas en igual fecha y hora abarcan total o parcialmente la misma porción de terreno, procederá de la manera siguiente:
+Si después de la admisión y al determinar el carácter libre de los lotes objeto de las solicitudes, la [Secretaría](articulo-1o.md) encuentra que dos o más de ellas registradas en igual fecha y hora abarcan total o parcialmente la misma porción de terreno, procederá de la manera siguiente:
 
 I. Expedirá los títulos por la porción solicitada sobre terreno libre no sobrepuesta; II. Emplazará a los solicitantes cuyos lotes abarquen total o parcialmente la misma porción de terreno, para que, si así lo desean, concurran a un sorteo por celebrar en el lugar, fecha y hora indicados;
 
-III. Se celebrará el sorteo en el lugar, fecha y hora indicados, conforme a los lineamientos que se establezcan en el Manual, a fin de determinar el solicitante en favor del cual será titulada la porción libre sobrepuesta;
+III. Se celebrará el sorteo en el lugar, fecha y hora indicados, conforme a los lineamientos que se establezcan en el [Manual](articulo-1o.md), a fin de determinar el solicitante en favor del cual será titulada la porción libre sobrepuesta;
 
 IV. Si la solicitud favorecida no cubre todo el terreno sobrepuesto, efectuará los sorteos necesarios entre las solicitudes cuyos lotes comprendan la parte o partes restantes, y
 

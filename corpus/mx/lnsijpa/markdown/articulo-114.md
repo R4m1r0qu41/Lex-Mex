@@ -17,4 +17,4 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 # Artículo 114
 
-Validez de actuaciones Las actuaciones que se remitan por causa de incompetencia serán válidas tanto para la jurisdicción especial de adolescentes como para la ordinaria, siempre que no contravengan los fines de esta Ley ni los derechos humanos de la persona adolescente.
+Validez de actuaciones Las actuaciones que se remitan por causa de incompetencia serán válidas tanto para la jurisdicción especial de adolescentes como para la ordinaria, siempre que no contravengan los fines de esta [Ley](articulo-3.md) ni los derechos humanos de la persona adolescente.

@@ -17,7 +17,7 @@ source_sha256: 160e5e85efddb1749a79f6b154af31711a9b31a5e32bace3c07e2859c2620ecf
 
 # Artículo 119 Bis 9
 
-La Secretaría establecerá las bases para la implementación de sistemas de trazabilidad de recursos, partes y derivados de origen pesquero o acuícola, para consumo humano, desde su origen hasta su destino. Los sistemas serán coordinados, supervisados y vigilados por la propia Secretaría, a través del SENASICA.
+La [Secretaría](articulo-4o.md) establecerá las bases para la implementación de sistemas de trazabilidad de recursos, partes y derivados de origen pesquero o acuícola, para consumo humano, desde su origen hasta su destino. Los sistemas serán coordinados, supervisados y vigilados por la propia Secretaría, a través del [SENASICA](articulo-4o.md).
 
 La Secretaría, mediante normas oficiales mexicanas y demás disposiciones jurídicas, definirá los sistemas de trazabilidad aplicables a los recursos a que se refiere este capítulo.
 

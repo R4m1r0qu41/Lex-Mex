@@ -17,6 +17,6 @@ source_sha256: cb15a70b51a87cff0f6d329d5e8a97617d71c955e46da65921037a77a83ca5f4
 
 # Artículo 4
 
-Para los efectos del artículo [6](../../lieps/markdown/articulo-6o.md)o., primer párrafo de la Ley, sólo se podrá efectuar la disminución del impuesto a que se refiere dicho párrafo hasta que la contraprestación correspondiente se haya restituido efectivamente al adquirente, o bien, cuando la obligación de hacerlo se extinga.
+Para los efectos del artículo [6](../../lieps/markdown/articulo-6o.md)o., primer párrafo de la [Ley](articulo-1.md), sólo se podrá efectuar la disminución del impuesto a que se refiere dicho párrafo hasta que la contraprestación correspondiente se haya restituido efectivamente al adquirente, o bien, cuando la obligación de hacerlo se extinga.
 
 Tratándose de descuentos y bonificaciones, la disminución procederá cuando aquéllos efectivamente se apliquen.

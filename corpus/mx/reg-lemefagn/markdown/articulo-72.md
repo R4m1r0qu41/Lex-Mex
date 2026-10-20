@@ -17,7 +17,7 @@ source_sha256: 703f083c0baedfb4ef5ce8b62c78684d8ee0073f393321d476d75ebe4878e1d5
 
 # Artículo 72
 
-Los Cursos del Sistema previstos en la Ley se clasifican:
+Los Cursos del [Sistema](articulo-3.md) previstos en la Ley se clasifican:
 
 I. De formación: Los que imparten educación para el mando, adiestramiento y conducción de unidades de acuerdo con la jerarquía de egreso y para el desempeño de actividades técnicas y profesionales acordes con su arma, servicio o guardia nacional;
 

@@ -17,4 +17,4 @@ source_sha256: c24aa3a57883383635d5271683dd76e561f21852328f0e89f6bf1c2a09aa2d41
 
 # Artículo 42
 
-El Ejecutivo Federal debe instrumentar políticas y medidas para facilitar apoyos financieros, económicos y de mercado que se destinen al cumplimiento de los fines de esta Ley.
+El Ejecutivo Federal debe instrumentar políticas y medidas para facilitar apoyos financieros, económicos y de mercado que se destinen al cumplimiento de los fines de esta [Ley](articulo-3.md).

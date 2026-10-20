@@ -17,7 +17,7 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 # Artículo 16
 
-No Discriminación e igualdad sustantiva Los derechos y garantías reconocidos en esta Ley se aplicarán a quienes se les atribuya o compruebe la realización de uno o varios hechos señalados como delitos por las leyes penales federales y locales mientras eran adolescentes, sin que se admita discriminación motivada por origen étnico o nacional, género, edad, discapacidad, condición social, condición de salud, religión, opinión, preferencia sexual, identidad de género, estado civil o cualquier otra, ya sea de la persona adolescente o de quienes ejercen sobre ellas la patria potestad o tutela, que atenten contra su dignidad humana.
+No Discriminación e igualdad sustantiva Los derechos y garantías reconocidos en esta [Ley](articulo-3.md) se aplicarán a quienes se les atribuya o compruebe la realización de uno o varios hechos señalados como delitos por las leyes penales federales y locales mientras eran adolescentes, sin que se admita discriminación motivada por origen étnico o nacional, género, edad, discapacidad, condición social, condición de salud, religión, opinión, preferencia sexual, identidad de género, estado civil o cualquier otra, ya sea de la persona adolescente o de quienes ejercen sobre ellas la patria potestad o tutela, que atenten contra su dignidad humana.
 
 Se entiende por igualdad sustantiva el acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales.
 

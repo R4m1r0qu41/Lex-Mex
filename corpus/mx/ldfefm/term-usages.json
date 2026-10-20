@@ -352,6 +352,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldfefm:article:2:term-usage:3692-3708",
+    "provision_id": "urn:lex-mx:federal:statute:ldfefm:article:2",
+    "term_id": "urn:lex-mx:federal:statute:ldfefm:term:disponibilidades",
+    "span": "Disponibilidades",
+    "start_char": 3692,
+    "end_char": 3708
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:ldfefm:article:2:term-usage:3752-3765",
     "provision_id": "urn:lex-mx:federal:statute:ldfefm:article:2",
     "term_id": "urn:lex-mx:federal:statute:ldfefm:term:deuda-publica",
@@ -2626,6 +2635,15 @@
     "span": "Financiamientos",
     "start_char": 695,
     "end_char": 710
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldfefm:article:22:term-usage:727-775",
+    "provision_id": "urn:lex-mx:federal:statute:ldfefm:article:22",
+    "term_id": "urn:lex-mx:federal:statute:ldfefm:term:gastos-y-costos-relacionados-con-la-contratacion",
+    "span": "Gastos y costos relacionados con la contratación",
+    "start_char": 727,
+    "end_char": 775
   },
   {
     "schema_version": "0.1.0",

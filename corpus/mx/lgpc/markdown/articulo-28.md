@@ -17,6 +17,6 @@ source_sha256: d8dd1de3627b899bb4faf31c2812c3d5f14f7108be153d5aa8dd549b9136184a
 
 # Artículo 28
 
-El Secretario de Seguridad y Protección Ciudadana será el Secretario Ejecutivo del Consejo Nacional. El Secretario Técnico será el Coordinador Nacional de Protección Civil.
+El Secretario de Seguridad y Protección Ciudadana será el Secretario Ejecutivo del [Consejo Nacional](articulo-2.md). El Secretario Técnico será el Coordinador Nacional de [Protección Civil](articulo-2.md).
 
 Artículo reformado DOF 21-12-2023

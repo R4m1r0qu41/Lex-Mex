@@ -17,6 +17,6 @@ source_sha256: 160e5e85efddb1749a79f6b154af31711a9b31a5e32bace3c07e2859c2620ecf
 
 # Artículo 119 Bis 10
 
-Los agentes involucrados en cada eslabón de la cadena de valor, deberán implementar y mantener un sistema de trazabilidad documentado en las etapas que le correspondan, en términos de lo establecido en las normas oficiales mexicanas y demás disposiciones jurídicas que emita la Secretaría para tal efecto.
+Los agentes involucrados en cada eslabón de la cadena de valor, deberán implementar y mantener un sistema de trazabilidad documentado en las etapas que le correspondan, en términos de lo establecido en las normas oficiales mexicanas y demás disposiciones jurídicas que emita la [Secretaría](articulo-4o.md) para tal efecto.
 
 Artículo adicionado DOF 30-05-2012

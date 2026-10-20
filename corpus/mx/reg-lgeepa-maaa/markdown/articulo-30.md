@@ -17,6 +17,6 @@ source_sha256: d50b44df321cf8be51375c07cee5dbcf03eac76df1cd11ab4bd777c9fce0f789
 
 # Artículo 30
 
-El uso del sello correspondiente al Certificado se realizará conforme a lo establecido en la Ley Federal sobre Metrología y Normalización y demás legislación sobre propiedad industrial aplicable y condiciones que para tal efecto establezca la Procuraduría o, en su caso, la Agencia, según corresponda, en el Manual de Uso del Certificado y del Sello, las cuales incluirán entre otras disposiciones: tamaño y proporción, colores, uso en la imagen de la Empresa, así como en las instalaciones para identificar a aquellas Empresas que han sido certificadas.
+El uso del sello correspondiente al [Certificado](articulo-2.md) se realizará conforme a lo establecido en la [Ley](articulo-2.md) Federal sobre Metrología y Normalización y demás legislación sobre propiedad industrial aplicable y condiciones que para tal efecto establezca la [Procuraduría](articulo-2.md) o, en su caso, la [Agencia](articulo-2.md), según corresponda, en el Manual de Uso del Certificado y del Sello, las cuales incluirán entre otras disposiciones: tamaño y proporción, colores, uso en la imagen de la [Empresa](articulo-2.md), así como en las instalaciones para identificar a aquellas Empresas que han sido certificadas.
 
 Artículo reformado DOF 31-10-2014

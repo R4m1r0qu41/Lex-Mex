@@ -17,4 +17,4 @@ source_sha256: 5a0e15e01ac963917e019e3cc4ad07e96d76cc6c82c8b4238dfbb3a58a146847
 
 # Artículo 51
 
-Con el propósito de alcanzar y consolidar la independencia científica y tecnológica de México en un contexto global de cooperación internacional, el Consejo Nacional fomentará la transferencia de tecnologías indispensables para el desarrollo integral del país e impulsará el desarrollo de tecnologías estratégicas de vanguardia mediante la coordinación y articulación de los Centros Públicos, con la participación de las universidades e instituciones públicas de educación superior y los sectores social y privado.
+Con el propósito de alcanzar y consolidar la independencia científica y tecnológica de México en un contexto global de cooperación internacional, el [Consejo Nacional](articulo-4.md) fomentará la transferencia de tecnologías indispensables para el desarrollo integral del país e impulsará el desarrollo de tecnologías estratégicas de vanguardia mediante la coordinación y articulación de los [Centros Públicos](articulo-4.md), con la participación de las universidades e instituciones públicas de educación superior y los sectores social y privado.

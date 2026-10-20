@@ -1,0 +1,12 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-3",
+  "instrument_id": "urn:lex-mx:federal:statute:lfsv",
+  "source_sha256": "ca472228c60fb0c4f46b3f473ad478b2fbe2909d7b21da7bf9ba483aa2a5edd6",
+  "extracted_text_sha256": "df2ccfefa5322f2a4cbca33b1c93ab0d45324a1f66fbd8fa3c71b684ae09e2fe",
+  "status": "none_detected",
+  "glossaries": [],
+  "imports": [],
+  "term_count": 0,
+  "usage_count": 0
+}

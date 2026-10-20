@@ -17,4 +17,4 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 # Artículo 135
 
-Sujeto a lo previsto en el Reglamento de esta Ley, para los actos de Verificación, Vigilancia y vigilancia del mercado podrán hacerse uso de aplicaciones informáticas que se comuniquen con la Plataforma Tecnológica Integral de Infraestructura de la Calidad.
+Sujeto a lo previsto en el Reglamento de esta Ley, para los actos de [Verificación](articulo-4.md), [Vigilancia](articulo-4.md) y vigilancia del mercado podrán hacerse uso de aplicaciones informáticas que se comuniquen con la [Plataforma Tecnológica Integral de Infraestructura de la Calidad](articulo-4.md).

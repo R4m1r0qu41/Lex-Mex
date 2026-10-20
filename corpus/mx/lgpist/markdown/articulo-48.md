@@ -17,4 +17,4 @@ source_sha256: 1e7d06c67fac4c8a100d2bb2845cc765fba5e8ce09d27d30b2b44432ffeb8c41
 
 # Artículo 48
 
-Las Instituciones Policiales y de Procuración de Justicia deben observar para la investigación del delito de tortura el protocolo previsto en el artículo [5](articulo-5.md) de esta Ley, así como a los protocolos que se adopten con posterioridad.
+Las [Instituciones Policiales](articulo-5.md) y de Procuración de Justicia deben observar para la investigación del delito de tortura el protocolo previsto en el artículo [5](articulo-5.md) de esta [Ley](articulo-5.md), así como a los protocolos que se adopten con posterioridad.

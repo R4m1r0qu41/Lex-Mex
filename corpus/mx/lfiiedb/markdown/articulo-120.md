@@ -17,4 +17,4 @@ source_sha256: 7679afbbf32749e0c0bacab72644d41fc6ccdeeab3a2f25dfae8d26a065de01e
 
 # Artículo 120
 
-Los plazos de los contratos, no podrán ser inferiores a cuatro años, y no podrán exceder con sus prórrogas, en su conjunto, de cuarenta años. Las partes podrán acordar prórrogas y, en su caso, revisar las condiciones del contrato, en los términos que establezca el Reglamento de esta Ley.
+Los plazos de los contratos, no podrán ser inferiores a cuatro años, y no podrán exceder con sus prórrogas, en su conjunto, de cuarenta años. Las partes podrán acordar prórrogas y, en su caso, revisar las condiciones del contrato, en los términos que establezca el [Reglamento](articulo-4.md) de esta [Ley](articulo-4.md).

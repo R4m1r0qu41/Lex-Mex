@@ -17,4 +17,4 @@ source_sha256: d0021bbef2e0c3251d6efdea2c1efd9959ff3f02df4bcd1fc37c1ee7826a72ba
 
 # Artículo 123
 
-La Comisión puede allegarse, antes de emitir resolución que ponga fin al procedimiento correspondiente, de los medios de convicción que considere necesarios para conocer la verdad sobre los hechos materia del procedimiento de que se trate, siempre y cuando los medios de prueba estén reconocidos por la Ley y tengan relación inmediata con los hechos materia del procedimiento; no regirán para ella las limitaciones ni prohibiciones en materia de prueba establecidas en relación con los Agentes Económicos.
+La [Comisión](articulo-3.md) puede allegarse, antes de emitir resolución que ponga fin al procedimiento correspondiente, de los medios de convicción que considere necesarios para conocer la verdad sobre los hechos materia del procedimiento de que se trate, siempre y cuando los medios de prueba estén reconocidos por la Ley y tengan relación inmediata con los hechos materia del procedimiento; no regirán para ella las limitaciones ni prohibiciones en materia de prueba establecidas en relación con los [Agentes Económicos](articulo-3.md).

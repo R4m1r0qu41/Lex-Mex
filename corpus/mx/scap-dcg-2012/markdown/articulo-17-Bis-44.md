@@ -18,7 +18,7 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 17 Bis 44
 
-El aviso a que se refiere el Artículo [17 Bis 43](articulo-17-Bis-43.md) anterior, deberá ser suscrito por el Director o Gerente General de la Sociedad y reunir los requisitos siguientes:
+El aviso a que se refiere el Artículo [17 Bis 43](articulo-17-Bis-43.md) anterior, deberá ser suscrito por el [Director o Gerente General](articulo-1.md) de la Sociedad y reunir los requisitos siguientes:
 
 I. Contener el informe a que se refiere la fracción II del Artículo [17 Bis 35](articulo-17-Bis-35.md).
 

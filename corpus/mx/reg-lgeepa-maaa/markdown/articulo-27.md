@@ -17,10 +17,10 @@ source_sha256: d50b44df321cf8be51375c07cee5dbcf03eac76df1cd11ab4bd777c9fce0f789
 
 # Artículo 27
 
-La Empresa que cuente con un Certificado vigente estará comprometida a:
+La [Empresa](articulo-2.md) que cuente con un [Certificado](articulo-2.md) vigente estará comprometida a:
 
-I. Mantener o mejorar el Desempeño Ambiental conforme al Certificado que le fue otorgado;
+I. Mantener o mejorar el [Desempeño Ambiental](articulo-2.md) conforme al Certificado que le fue otorgado;
 
-II. Realizar las acciones necesarias para restablecer el Desempeño Ambiental por el cual fue certificado, cuando derivado de la realización de cualquier modificación de sus procesos, actividades o instalaciones auditadas, o la ocurrencia de una Emergencia Ambiental modifique la conformidad con los Términos de Referencia acorde al Certificado, y
+II. Realizar las acciones necesarias para restablecer el Desempeño Ambiental por el cual fue certificado, cuando derivado de la realización de cualquier modificación de sus procesos, actividades o instalaciones auditadas, o la ocurrencia de una [Emergencia Ambiental](articulo-2.md) modifique la conformidad con los [Términos de Referencia](articulo-2.md) acorde al Certificado, y
 
-III. Permitir la verificación del Desempeño Ambiental por parte de la Procuraduría o, en su caso, por la Agencia, según corresponda. Fracción reformada DOF 31-10-2014
+III. Permitir la verificación del Desempeño Ambiental por parte de la [Procuraduría](articulo-2.md) o, en su caso, por la [Agencia](articulo-2.md), según corresponda. Fracción reformada DOF 31-10-2014

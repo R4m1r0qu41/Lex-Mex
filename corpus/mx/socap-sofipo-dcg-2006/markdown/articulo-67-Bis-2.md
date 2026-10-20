@@ -18,11 +18,11 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 67 Bis 2
 
-Las Sociedades Financieras Populares, para efectos de obtener los requerimientos de capitalización por riesgo de crédito conforme a lo establecido en el presente Sub Apartado y, previamente a la ponderación por riesgo de crédito, deberán determinar un valor de conversión a riesgo crediticio, conforme a lo siguiente:
+Las [Sociedades](articulo-1.md) Financieras Populares, para efectos de obtener los requerimientos de capitalización por riesgo de crédito conforme a lo establecido en el presente Sub Apartado y, previamente a la ponderación por riesgo de crédito, deberán determinar un valor de conversión a riesgo crediticio, conforme a lo siguiente:
 
 I. Tratándose de aperturas de líneas de crédito irrevocables, tendrán un factor de conversión a riesgo de crédito de 50 por ciento sobre el monto no dispuesto de la línea de crédito irrevocable.
 
-II. Tratándose de operaciones de reporto, las Sociedades Financieras Populares deberán determinar en forma previa a la ponderación por riesgo de crédito, el resultado de restar al saldo del deudor por reporto, el correspondiente valor razonable del colateral recibido en cada operación, a que se refieren los Criterios Contables de las disposiciones aplicables a las Sociedades Financieras Populares, según corresponda. En todo caso, el ajuste por el valor razonable del colateral recibido en dicha operación se deberá realizar de conformidad con la siguiente fórmula:
+II. Tratándose de operaciones de reporto, las Sociedades Financieras Populares deberán determinar en forma previa a la ponderación por riesgo de crédito, el resultado de restar al saldo del deudor por reporto, el correspondiente valor razonable del colateral recibido en cada operación, a que se refieren los [Criterios Contables](articulo-1.md) de las disposiciones aplicables a las Sociedades Financieras Populares, según corresponda. En todo caso, el ajuste por el valor razonable del colateral recibido en dicha operación se deberá realizar de conformidad con la siguiente fórmula:
 
 Donde: El importe de la operación ajustado. El importe de la operación. Valor contable del colateral recibido por la operación. Factor de ajuste correspondiente al colateral recibido conforme a lo señalado en el Anexo D Bis 1 de las presentes disposiciones.
 

@@ -17,4 +17,4 @@ source_sha256: 7f01ee1b1deb901a23976507adccbddefbea50b0fc9a4ddceaf1225d711d50d0
 
 # Artículo 88
 
-La certificación individual es el proceso por el que las personas integrantes de las Instituciones de Seguridad Pública se someten a las evaluaciones para comprobar conocimientos, habilidades, aptitudes y competencias, para el correcto desempeño de sus labores conforme a los perfiles establecidos por el Secretariado Ejecutivo.
+La certificación individual es el proceso por el que las personas integrantes de las [Instituciones de Seguridad Pública](articulo-4.md) se someten a las evaluaciones para comprobar conocimientos, habilidades, aptitudes y competencias, para el correcto desempeño de sus labores conforme a los perfiles establecidos por el [Secretariado Ejecutivo](articulo-4.md).

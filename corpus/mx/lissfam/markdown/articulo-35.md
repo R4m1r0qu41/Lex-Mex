@@ -17,7 +17,7 @@ source_sha256: 35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc
 
 # Artículo 35
 
-Los militares que hayan llegado a la edad límite que fija el artículo [25](articulo-25.md) de esta Ley, los que se hayan incapacitado fuera de actos del servicio, los imposibilitados para el desempeño de las obligaciones militares a causa de enfermedad que dure más de seis meses, y los que soliciten su retiro voluntariamente, siempre que en todos los casos anteriores se les computen cuando menos 20 años de servicios, tienen derecho a un haber de retiro, en cuya cuota se tomarán en cuenta los años de servicios en la forma siguiente:
+Los militares que hayan llegado a la edad límite que fija el artículo [25](articulo-25.md) de esta [Ley](articulo-4o.md), los que se hayan incapacitado fuera de actos del servicio, los imposibilitados para el desempeño de las obligaciones militares a causa de enfermedad que dure más de seis meses, y los que soliciten su retiro voluntariamente, siempre que en todos los casos anteriores se les computen cuando menos 20 años de servicios, tienen derecho a un haber de retiro, en cuya cuota se tomarán en cuenta los años de servicios en la forma siguiente:
 
 Años de Servicios Tanto por Ciento 20 60% 21 62% 22 65% 23 68% 24 71% 25 75% 26 80% 27 85% 28 90% 29 95%
 

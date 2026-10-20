@@ -17,7 +17,7 @@ source_sha256: b3c906475b455176de73da17f4f93a73f295965dc9bcca854b48417c7d4d3cfc
 
 # Artículo 84
 
-Una vez presentado el aviso, la Secretaría correspondiente podrá determinar, en su caso, con sustento científico y técnico:
+Una vez presentado el aviso, la [Secretaría](articulo-3.md) correspondiente podrá determinar, en su caso, con sustento científico y técnico:
 
 I. Que en consideración del organismo genéticamente modificado y los posibles riesgos en su manejo, debe suspenderse la actividad;
 

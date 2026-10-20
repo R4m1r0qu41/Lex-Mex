@@ -17,7 +17,7 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 225
 
-Las Sociedades para la Microfilmación o Grabación, podrán aplicar la tecnología estándar existente en el mercado, siempre que reúna los requisitos de seguridad que se establecen en los Anexos G y H de las presentes disposiciones, según corresponda.
+Las Sociedades para la Microfilmación o [Grabación](articulo-1.md), podrán aplicar la tecnología estándar existente en el mercado, siempre que reúna los requisitos de seguridad que se establecen en los Anexos G y H de las presentes disposiciones, según corresponda.
 
 El proceso de Microfilmación deberá prever la generación de un índice de los documentos objeto de dichos procesos, en donde se indique, por lo menos, el nombre de este; el lugar de almacenamiento; el tamaño; la fecha y la hora de creación; el número de imágenes y una referencia descriptiva de su contenido, así como la clave del medio en donde se microfilmó la documentación. El índice deberá tener como encabezado, el nombre de la Sociedad y al pie de página contendrá el nombre del operador y del funcionario que verificó la preparación de los documentos, así como el lugar y la fecha en que se realizó la Microfilmación.
 

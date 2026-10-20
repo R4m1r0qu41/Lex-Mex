@@ -19,10 +19,10 @@ source_sha256: 89220c0c86445a873067e0095b4591c11847dfd11595ca3e11bbfcf09cef6754
 
 Las personas físicas o morales tienen prohibido: I. Generar o utilizar información falsa respecto de las características medioambientales de uno o más productos;
 
-II. Generar o utilizar información sobre el desarrollo de su Proceso o de sus procesos apegados a criterios o principios de Economía Circular, cuando dicha información sea falsa;
+II. Generar o utilizar información sobre el desarrollo de su Proceso o de sus procesos apegados a criterios o principios de [Economía Circular](articulo-3.md), cuando dicha información sea falsa;
 
-III. Realizar u omitir acciones que impidan maximizar la vida útil del Producto y su Aprovechamiento Circular; IV. Usar en productos el Distintivo Nacional de Economía Circular, sin contar con la autorización correspondiente;
+III. Realizar u omitir acciones que impidan maximizar la vida útil del [Producto](articulo-3.md) y su [Aprovechamiento Circular](articulo-3.md); IV. Usar en productos el Distintivo Nacional de Economía Circular, sin contar con la autorización correspondiente;
 
-V. Usar el Distintivo Nacional de Economía Circular sin autorización de la Secretaría, o una etiqueta o distintivo que pueda confundir a las personas consumidoras, y
+V. Usar el Distintivo Nacional de Economía Circular sin autorización de la [Secretaría](articulo-3.md), o una etiqueta o distintivo que pueda confundir a las personas consumidoras, y
 
-VI. Las demás que se establecen en el Reglamento.
+VI. Las demás que se establecen en el [Reglamento](articulo-3.md).

@@ -1,1 +1,1694 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:5:term-usage:213-225",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:estado-mayor",
+    "span": "Estado Mayor",
+    "start_char": 213,
+    "end_char": 225
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:5:term-usage:804-813",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:promocion",
+    "span": "Promoción",
+    "start_char": 804,
+    "end_char": 813
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:7:term-usage:120-133",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:especialista",
+    "span": "Especialistas",
+    "start_char": 120,
+    "end_char": 133
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:8:term-usage:65-78",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:especialista",
+    "span": "Especialistas",
+    "start_char": 65,
+    "end_char": 78
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:8:term-usage:165-174",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:direcciones",
+    "span": "Dirección",
+    "start_char": 165,
+    "end_char": 174
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:8:term-usage:205-223",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:personal-potencial",
+    "span": "Personal Potencial",
+    "start_char": 205,
+    "end_char": 223
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:8:term-usage:359-370",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:direcciones",
+    "span": "Direcciones",
+    "start_char": 359,
+    "end_char": 370
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:8:term-usage:400-412",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:estado-mayor",
+    "span": "Estado Mayor",
+    "start_char": 400,
+    "end_char": 412
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:8:term-usage:433-451",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:personal-potencial",
+    "span": "Personal Potencial",
+    "start_char": 433,
+    "end_char": 451
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:8:term-usage:628-640",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:estado-mayor",
+    "span": "Estado Mayor",
+    "start_char": 628,
+    "end_char": 640
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:8:term-usage:693-704",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:direcciones",
+    "span": "Direcciones",
+    "start_char": 693,
+    "end_char": 704
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:10:term-usage:52-64",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:estado-mayor",
+    "span": "Estado Mayor",
+    "start_char": 52,
+    "end_char": 64
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:10:term-usage:130-141",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:promocion",
+    "span": "Promociones",
+    "start_char": 130,
+    "end_char": 141
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:10:term-usage:184-197",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:especialista",
+    "span": "Especialistas",
+    "start_char": 184,
+    "end_char": 197
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:12:term-usage:96-109",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:especialista",
+    "span": "Especialistas",
+    "start_char": 96,
+    "end_char": 109
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:14:term-usage:19-31",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:estado-mayor",
+    "span": "Estado Mayor",
+    "start_char": 19,
+    "end_char": 31
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:14:term-usage:139-152",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:especialista",
+    "span": "Especialistas",
+    "start_char": 139,
+    "end_char": 152
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:14:term-usage:369-380",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:direcciones",
+    "span": "Direcciones",
+    "start_char": 369,
+    "end_char": 380
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:14:term-usage:846-855",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:direcciones",
+    "span": "Dirección",
+    "start_char": 846,
+    "end_char": 855
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:15:term-usage:86-97",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:15",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:direcciones",
+    "span": "Direcciones",
+    "start_char": 86,
+    "end_char": 97
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:16:term-usage:174-185",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:16",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:direcciones",
+    "span": "Direcciones",
+    "start_char": 174,
+    "end_char": 185
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:16:term-usage:472-483",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:16",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:direcciones",
+    "span": "Direcciones",
+    "start_char": 472,
+    "end_char": 483
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:17:term-usage:98-109",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:17",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:direcciones",
+    "span": "Direcciones",
+    "start_char": 98,
+    "end_char": 109
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:18:term-usage:484-497",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:18",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:especialista",
+    "span": "Especialistas",
+    "start_char": 484,
+    "end_char": 497
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:18:term-usage:1235-1244",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:18",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:promocion",
+    "span": "Promoción",
+    "start_char": 1235,
+    "end_char": 1244
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:21:term-usage:183-195",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:21",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:estado-mayor",
+    "span": "Estado Mayor",
+    "start_char": 183,
+    "end_char": 195
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:21:term-usage:203-212",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:21",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:direcciones",
+    "span": "Dirección",
+    "start_char": 203,
+    "end_char": 212
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:23:term-usage:156-165",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:promocion",
+    "span": "Promoción",
+    "start_char": 156,
+    "end_char": 165
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:23:term-usage:188-201",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:especialista",
+    "span": "Especialistas",
+    "start_char": 188,
+    "end_char": 201
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:23:term-usage:394-405",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:promocion",
+    "span": "Promociones",
+    "start_char": 394,
+    "end_char": 405
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:23:term-usage:448-461",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:especialista",
+    "span": "Especialistas",
+    "start_char": 448,
+    "end_char": 461
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:23:term-usage:615-624",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:promocion",
+    "span": "Promoción",
+    "start_char": 615,
+    "end_char": 624
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:23:term-usage:777-786",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:promocion",
+    "span": "Promoción",
+    "start_char": 777,
+    "end_char": 786
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:23:term-usage:1385-1394",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:promocion",
+    "span": "Promoción",
+    "start_char": 1385,
+    "end_char": 1394
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:24:term-usage:118-127",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:direcciones",
+    "span": "Dirección",
+    "start_char": 118,
+    "end_char": 127
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:25:term-usage:89-100",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:promocion",
+    "span": "Promociones",
+    "start_char": 89,
+    "end_char": 100
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:25:term-usage:123-136",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:especialista",
+    "span": "Especialistas",
+    "start_char": 123,
+    "end_char": 136
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:25:term-usage:1048-1060",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:estado-mayor",
+    "span": "Estado Mayor",
+    "start_char": 1048,
+    "end_char": 1060
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:25:term-usage:1068-1077",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:direcciones",
+    "span": "Dirección",
+    "start_char": 1068,
+    "end_char": 1077
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:25:term-usage:1220-1249",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:centro-integral-de-evaluacion",
+    "span": "Centro Integral de Evaluación",
+    "start_char": 1220,
+    "end_char": 1249
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:25:term-usage:2746-2775",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:centro-integral-de-evaluacion",
+    "span": "Centro Integral de Evaluación",
+    "start_char": 2746,
+    "end_char": 2775
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:28:term-usage:107-116",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:28",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:direcciones",
+    "span": "Dirección",
+    "start_char": 107,
+    "end_char": 116
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:28:term-usage:212-224",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:28",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:estado-mayor",
+    "span": "Estado Mayor",
+    "start_char": 212,
+    "end_char": 224
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:28:term-usage:383-412",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:28",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:centro-integral-de-evaluacion",
+    "span": "Centro Integral de Evaluación",
+    "start_char": 383,
+    "end_char": 412
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:30:term-usage:440-469",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:30",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:centro-integral-de-evaluacion",
+    "span": "Centro Integral de Evaluación",
+    "start_char": 440,
+    "end_char": 469
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:30:term-usage:599-608",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:30",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:promocion",
+    "span": "Promoción",
+    "start_char": 599,
+    "end_char": 608
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:33:term-usage:112-121",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:33",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:promocion",
+    "span": "Promoción",
+    "start_char": 112,
+    "end_char": 121
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:34:term-usage:134-145",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:34",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:promocion",
+    "span": "Promociones",
+    "start_char": 134,
+    "end_char": 145
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:34:term-usage:188-201",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:34",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:especialista",
+    "span": "Especialistas",
+    "start_char": 188,
+    "end_char": 201
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:34:term-usage:463-475",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:34",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:estado-mayor",
+    "span": "Estado Mayor",
+    "start_char": 463,
+    "end_char": 475
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:36:term-usage:331-344",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:36",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:especialista",
+    "span": "Especialistas",
+    "start_char": 331,
+    "end_char": 344
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:36:term-usage:374-386",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:36",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:estado-mayor",
+    "span": "Estado Mayor",
+    "start_char": 374,
+    "end_char": 386
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:37:term-usage:102-111",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:37",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:direcciones",
+    "span": "Dirección",
+    "start_char": 102,
+    "end_char": 111
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:37:term-usage:236-248",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:37",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:estado-mayor",
+    "span": "Estado Mayor",
+    "start_char": 236,
+    "end_char": 248
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:42:term-usage:47-58",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:42",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:promocion",
+    "span": "Promociones",
+    "start_char": 47,
+    "end_char": 58
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:42:term-usage:287-296",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:42",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:promocion",
+    "span": "Promoción",
+    "start_char": 287,
+    "end_char": 296
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:42:term-usage:604-613",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:42",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:promocion",
+    "span": "Promoción",
+    "start_char": 604,
+    "end_char": 613
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:42:term-usage:1431-1440",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:42",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:direcciones",
+    "span": "Dirección",
+    "start_char": 1431,
+    "end_char": 1440
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:43:term-usage:2034-2043",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:43",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:direcciones",
+    "span": "Dirección",
+    "start_char": 2034,
+    "end_char": 2043
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:43:term-usage:2220-2231",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:43",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:direcciones",
+    "span": "Direcciones",
+    "start_char": 2220,
+    "end_char": 2231
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:43:term-usage:2665-2677",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:43",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:especialista",
+    "span": "Especialista",
+    "start_char": 2665,
+    "end_char": 2677
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:44:term-usage:78-91",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:44",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:especialista",
+    "span": "Especialistas",
+    "start_char": 78,
+    "end_char": 91
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:45:term-usage:134-143",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:45",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:direcciones",
+    "span": "Dirección",
+    "start_char": 134,
+    "end_char": 143
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:47:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:47",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:direcciones",
+    "span": "Dirección",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:47:term-usage:233-244",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:47",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:direcciones",
+    "span": "Direcciones",
+    "start_char": 233,
+    "end_char": 244
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:49:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:49",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:direcciones",
+    "span": "Dirección",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:49:term-usage:156-165",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:49",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:direcciones",
+    "span": "Dirección",
+    "start_char": 156,
+    "end_char": 165
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:49:term-usage:285-294",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:49",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:direcciones",
+    "span": "Dirección",
+    "start_char": 285,
+    "end_char": 294
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:50:term-usage:4-15",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:50",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:direcciones",
+    "span": "Direcciones",
+    "start_char": 4,
+    "end_char": 15
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:50:term-usage:31-43",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:50",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:estado-mayor",
+    "span": "Estado Mayor",
+    "start_char": 31,
+    "end_char": 43
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:50:term-usage:100-111",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:50",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:promocion",
+    "span": "Promociones",
+    "start_char": 100,
+    "end_char": 111
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:51:term-usage:4-15",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:51",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:direcciones",
+    "span": "Direcciones",
+    "start_char": 4,
+    "end_char": 15
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:51:term-usage:202-211",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:51",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:promocion",
+    "span": "Promoción",
+    "start_char": 202,
+    "end_char": 211
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:52:term-usage:247-256",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:52",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:promocion",
+    "span": "Promoción",
+    "start_char": 247,
+    "end_char": 256
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:53:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:53",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:promocion",
+    "span": "Promoción",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:54:term-usage:139-148",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:54",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:promocion",
+    "span": "Promoción",
+    "start_char": 139,
+    "end_char": 148
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:55:term-usage:10-19",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:55",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:promocion",
+    "span": "Promoción",
+    "start_char": 10,
+    "end_char": 19
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:55:term-usage:24-36",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:55",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:estado-mayor",
+    "span": "Estado Mayor",
+    "start_char": 24,
+    "end_char": 36
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:56:term-usage:49-62",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:56",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:especialista",
+    "span": "Especialistas",
+    "start_char": 49,
+    "end_char": 62
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:57:term-usage:195-204",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:57",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:direcciones",
+    "span": "Dirección",
+    "start_char": 195,
+    "end_char": 204
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:58:term-usage:198-207",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:58",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:direcciones",
+    "span": "Dirección",
+    "start_char": 198,
+    "end_char": 207
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:59:term-usage:3-15",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:59",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:estado-mayor",
+    "span": "Estado Mayor",
+    "start_char": 3,
+    "end_char": 15
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:59:term-usage:162-171",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:59",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:direcciones",
+    "span": "Dirección",
+    "start_char": 162,
+    "end_char": 171
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:59:term-usage:298-307",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:59",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:promocion",
+    "span": "Promoción",
+    "start_char": 298,
+    "end_char": 307
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:60:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:60",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:promocion",
+    "span": "Promoción",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:60:term-usage:57-69",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:60",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:estado-mayor",
+    "span": "Estado Mayor",
+    "start_char": 57,
+    "end_char": 69
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:61:term-usage:3-15",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:61",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:estado-mayor",
+    "span": "Estado Mayor",
+    "start_char": 3,
+    "end_char": 15
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:63:term-usage:424-433",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:63",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:promocion",
+    "span": "Promoción",
+    "start_char": 424,
+    "end_char": 433
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:63:term-usage:619-628",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:63",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:promocion",
+    "span": "Promoción",
+    "start_char": 619,
+    "end_char": 628
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:63:term-usage:826-835",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:63",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:promocion",
+    "span": "Promoción",
+    "start_char": 826,
+    "end_char": 835
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:64:term-usage:230-239",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:64",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:promocion",
+    "span": "Promoción",
+    "start_char": 230,
+    "end_char": 239
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:66:term-usage:50-63",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:66",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:especialista",
+    "span": "Especialistas",
+    "start_char": 50,
+    "end_char": 63
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:66:term-usage:102-111",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:66",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:promocion",
+    "span": "Promoción",
+    "start_char": 102,
+    "end_char": 111
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:66:term-usage:708-717",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:66",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:direcciones",
+    "span": "Dirección",
+    "start_char": 708,
+    "end_char": 717
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:67:term-usage:81-90",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:67",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:promocion",
+    "span": "Promoción",
+    "start_char": 81,
+    "end_char": 90
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:72:term-usage:366-375",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:72",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:promocion",
+    "span": "Promoción",
+    "start_char": 366,
+    "end_char": 375
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:74:term-usage:224-233",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:74",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:promocion",
+    "span": "Promoción",
+    "start_char": 224,
+    "end_char": 233
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:74:term-usage:266-278",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:74",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:estado-mayor",
+    "span": "Estado Mayor",
+    "start_char": 266,
+    "end_char": 278
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:74:term-usage:287-298",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:74",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:direcciones",
+    "span": "Direcciones",
+    "start_char": 287,
+    "end_char": 298
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:75:term-usage:118-127",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:75",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:promocion",
+    "span": "Promoción",
+    "start_char": 118,
+    "end_char": 127
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:76:term-usage:6-15",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:76",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:promocion",
+    "span": "Promoción",
+    "start_char": 6,
+    "end_char": 15
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:77:term-usage:3-15",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:77",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:estado-mayor",
+    "span": "Estado Mayor",
+    "start_char": 3,
+    "end_char": 15
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:77:term-usage:66-75",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:77",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:promocion",
+    "span": "Promoción",
+    "start_char": 66,
+    "end_char": 75
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:77:term-usage:487-499",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:77",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:estado-mayor",
+    "span": "Estado Mayor",
+    "start_char": 487,
+    "end_char": 499
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:78:term-usage:64-75",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:78",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:direcciones",
+    "span": "Direcciones",
+    "start_char": 64,
+    "end_char": 75
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:78:term-usage:222-231",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:78",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:promocion",
+    "span": "Promoción",
+    "start_char": 222,
+    "end_char": 231
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:79:term-usage:15-33",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:79",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:personal-potencial",
+    "span": "Personal Potencial",
+    "start_char": 15,
+    "end_char": 33
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:79:term-usage:38-50",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:79",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:estado-mayor",
+    "span": "Estado Mayor",
+    "start_char": 38,
+    "end_char": 50
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:79:term-usage:292-301",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:79",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:promocion",
+    "span": "Promoción",
+    "start_char": 292,
+    "end_char": 301
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:80:term-usage:121-133",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:80",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:estado-mayor",
+    "span": "Estado Mayor",
+    "start_char": 121,
+    "end_char": 133
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:80:term-usage:157-179",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:80",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:comision-de-evaluacion",
+    "span": "Comisión de Evaluación",
+    "start_char": 157,
+    "end_char": 179
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:81:term-usage:3-25",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:81",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:comision-de-evaluacion",
+    "span": "Comisión de Evaluación",
+    "start_char": 3,
+    "end_char": 25
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:82:term-usage:90-99",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:82",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:promocion",
+    "span": "Promoción",
+    "start_char": 90,
+    "end_char": 99
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:84:term-usage:4-15",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:84",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:direcciones",
+    "span": "Direcciones",
+    "start_char": 4,
+    "end_char": 15
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:86:term-usage:21-43",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:86",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:comision-de-evaluacion",
+    "span": "Comisión de Evaluación",
+    "start_char": 21,
+    "end_char": 43
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:86:term-usage:64-75",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:86",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:direcciones",
+    "span": "Direcciones",
+    "start_char": 64,
+    "end_char": 75
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:86:term-usage:205-223",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:86",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:personal-potencial",
+    "span": "Personal Potencial",
+    "start_char": 205,
+    "end_char": 223
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:86:term-usage:246-255",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:86",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:promocion",
+    "span": "Promoción",
+    "start_char": 246,
+    "end_char": 255
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:86:term-usage:392-410",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:86",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:personal-potencial",
+    "span": "Personal Potencial",
+    "start_char": 392,
+    "end_char": 410
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:86:term-usage:663-681",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:86",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:personal-potencial",
+    "span": "Personal Potencial",
+    "start_char": 663,
+    "end_char": 681
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:86:term-usage:1167-1178",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:86",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:direcciones",
+    "span": "Direcciones",
+    "start_char": 1167,
+    "end_char": 1178
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:86:term-usage:1454-1463",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:86",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:promocion",
+    "span": "Promoción",
+    "start_char": 1454,
+    "end_char": 1463
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:86:term-usage:1541-1550",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:86",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:promocion",
+    "span": "Promoción",
+    "start_char": 1541,
+    "end_char": 1550
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:86:term-usage:1746-1755",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:86",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:promocion",
+    "span": "Promoción",
+    "start_char": 1746,
+    "end_char": 1755
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:88:term-usage:69-91",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:88",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:comision-de-evaluacion",
+    "span": "Comisión de Evaluación",
+    "start_char": 69,
+    "end_char": 91
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:89:term-usage:48-57",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:89",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:promocion",
+    "span": "Promoción",
+    "start_char": 48,
+    "end_char": 57
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:90:term-usage:71-93",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:90",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:comision-de-evaluacion",
+    "span": "Comisión de Evaluación",
+    "start_char": 71,
+    "end_char": 93
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:92:term-usage:271-280",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:92",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:promocion",
+    "span": "Promoción",
+    "start_char": 271,
+    "end_char": 280
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:92:term-usage:3096-3118",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:92",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:comision-de-evaluacion",
+    "span": "Comisión de Evaluación",
+    "start_char": 3096,
+    "end_char": 3118
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:92:term-usage:3900-3909",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:92",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:direcciones",
+    "span": "Dirección",
+    "start_char": 3900,
+    "end_char": 3909
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:92:term-usage:6978-6987",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:92",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:promocion",
+    "span": "Promoción",
+    "start_char": 6978,
+    "end_char": 6987
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:92:term-usage:8425-8434",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:92",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:promocion",
+    "span": "Promoción",
+    "start_char": 8425,
+    "end_char": 8434
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:92:term-usage:9115-9124",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:92",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:promocion",
+    "span": "Promoción",
+    "start_char": 9115,
+    "end_char": 9124
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:92:term-usage:10051-10060",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:92",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:promocion",
+    "span": "Promoción",
+    "start_char": 10051,
+    "end_char": 10060
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:92:term-usage:10525-10534",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:92",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:promocion",
+    "span": "Promoción",
+    "start_char": 10525,
+    "end_char": 10534
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:92:term-usage:10810-10819",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:92",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:promocion",
+    "span": "Promoción",
+    "start_char": 10810,
+    "end_char": 10819
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:93:term-usage:201-223",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:93",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:comision-de-evaluacion",
+    "span": "Comisión de Evaluación",
+    "start_char": 201,
+    "end_char": 223
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:93:term-usage:418-440",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:93",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:comision-de-evaluacion",
+    "span": "Comisión de Evaluación",
+    "start_char": 418,
+    "end_char": 440
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:93:term-usage:752-774",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:93",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:comision-de-evaluacion",
+    "span": "Comisión de Evaluación",
+    "start_char": 752,
+    "end_char": 774
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:93:term-usage:1521-1543",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:93",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:comision-de-evaluacion",
+    "span": "Comisión de Evaluación",
+    "start_char": 1521,
+    "end_char": 1543
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:93:term-usage:2018-2040",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:93",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:comision-de-evaluacion",
+    "span": "Comisión de Evaluación",
+    "start_char": 2018,
+    "end_char": 2040
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:93:term-usage:2808-2820",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:93",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:estado-mayor",
+    "span": "Estado Mayor",
+    "start_char": 2808,
+    "end_char": 2820
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:93:term-usage:2826-2838",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:93",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:estado-mayor",
+    "span": "Estado Mayor",
+    "start_char": 2826,
+    "end_char": 2838
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:93:term-usage:2858-2870",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:93",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:estado-mayor",
+    "span": "Estado Mayor",
+    "start_char": 2858,
+    "end_char": 2870
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:93:term-usage:3127-3149",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:93",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:comision-de-evaluacion",
+    "span": "Comisión de Evaluación",
+    "start_char": 3127,
+    "end_char": 3149
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:93:term-usage:3353-3375",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:93",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:comision-de-evaluacion",
+    "span": "Comisión de Evaluación",
+    "start_char": 3353,
+    "end_char": 3375
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:93:term-usage:4155-4164",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:93",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:promocion",
+    "span": "Promoción",
+    "start_char": 4155,
+    "end_char": 4164
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:93:term-usage:4200-4222",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:93",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:comision-de-evaluacion",
+    "span": "Comisión de Evaluación",
+    "start_char": 4200,
+    "end_char": 4222
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:93:term-usage:4815-4837",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:93",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:comision-de-evaluacion",
+    "span": "Comisión de Evaluación",
+    "start_char": 4815,
+    "end_char": 4837
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:93:term-usage:5048-5057",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:93",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:promocion",
+    "span": "Promoción",
+    "start_char": 5048,
+    "end_char": 5057
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:93:term-usage:5186-5208",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:93",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:comision-de-evaluacion",
+    "span": "Comisión de Evaluación",
+    "start_char": 5186,
+    "end_char": 5208
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:93:term-usage:5315-5326",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:93",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:direcciones",
+    "span": "Direcciones",
+    "start_char": 5315,
+    "end_char": 5326
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:93:term-usage:5832-5854",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:93",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:comision-de-evaluacion",
+    "span": "Comisión de Evaluación",
+    "start_char": 5832,
+    "end_char": 5854
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:93:term-usage:6338-6360",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:93",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:comision-de-evaluacion",
+    "span": "Comisión de Evaluación",
+    "start_char": 6338,
+    "end_char": 6360
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:93:term-usage:6727-6736",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:93",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:promocion",
+    "span": "Promoción",
+    "start_char": 6727,
+    "end_char": 6736
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:93:term-usage:7362-7384",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:93",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:comision-de-evaluacion",
+    "span": "Comisión de Evaluación",
+    "start_char": 7362,
+    "end_char": 7384
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:93:term-usage:7699-7708",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:93",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:promocion",
+    "span": "Promoción",
+    "start_char": 7699,
+    "end_char": 7708
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:94:term-usage:45-54",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:94",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:direcciones",
+    "span": "Dirección",
+    "start_char": 45,
+    "end_char": 54
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:94:term-usage:286-315",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:94",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:centro-integral-de-evaluacion",
+    "span": "Centro Integral de Evaluación",
+    "start_char": 286,
+    "end_char": 315
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:94:term-usage:750-759",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:94",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:promocion",
+    "span": "Promoción",
+    "start_char": 750,
+    "end_char": 759
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:94:term-usage:2640-2669",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:94",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:centro-integral-de-evaluacion",
+    "span": "Centro Integral de Evaluación",
+    "start_char": 2640,
+    "end_char": 2669
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:94:term-usage:4979-4990",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:94",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:promocion",
+    "span": "Promociones",
+    "start_char": 4979,
+    "end_char": 4990
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:94:term-usage:5215-5224",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:94",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:promocion",
+    "span": "Promoción",
+    "start_char": 5215,
+    "end_char": 5224
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:94:term-usage:7405-7434",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:94",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:centro-integral-de-evaluacion",
+    "span": "Centro Integral de Evaluación",
+    "start_char": 7405,
+    "end_char": 7434
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:110:term-usage:616-628",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:110",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:estado-mayor",
+    "span": "Estado Mayor",
+    "start_char": 616,
+    "end_char": 628
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:111:term-usage:1351-1363",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:111",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:estado-mayor",
+    "span": "Estado Mayor",
+    "start_char": 1351,
+    "end_char": 1363
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:111:term-usage:1457-1466",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:111",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:direcciones",
+    "span": "Dirección",
+    "start_char": 1457,
+    "end_char": 1466
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:111:term-usage:1539-1548",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:111",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:direcciones",
+    "span": "Dirección",
+    "start_char": 1539,
+    "end_char": 1548
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:112:term-usage:1421-1433",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:112",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:estado-mayor",
+    "span": "Estado Mayor",
+    "start_char": 1421,
+    "end_char": 1433
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:112:term-usage:1696-1708",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:112",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:estado-mayor",
+    "span": "Estado Mayor",
+    "start_char": 1696,
+    "end_char": 1708
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:114:term-usage:94-105",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:114",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:direcciones",
+    "span": "Direcciones",
+    "start_char": 94,
+    "end_char": 105
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:116:term-usage:208-220",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:116",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:estado-mayor",
+    "span": "Estado Mayor",
+    "start_char": 208,
+    "end_char": 220
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:116:term-usage:1349-1361",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:116",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:estado-mayor",
+    "span": "Estado Mayor",
+    "start_char": 1349,
+    "end_char": 1361
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:116:term-usage:1400-1412",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:116",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:estado-mayor",
+    "span": "Estado Mayor",
+    "start_char": 1400,
+    "end_char": 1412
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:116:term-usage:1701-1713",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:116",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:estado-mayor",
+    "span": "Estado Mayor",
+    "start_char": 1701,
+    "end_char": 1713
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:116-bis:term-usage:118-129",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:116-bis",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:direcciones",
+    "span": "Direcciones",
+    "start_char": 118,
+    "end_char": 129
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:116-quater:term-usage:268-280",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:116-quater",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:estado-mayor",
+    "span": "Estado Mayor",
+    "start_char": 268,
+    "end_char": 280
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:116-quater:term-usage:1256-1268",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:116-quater",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:estado-mayor",
+    "span": "Estado Mayor",
+    "start_char": 1256,
+    "end_char": 1268
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:116-quater:term-usage:1306-1318",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:116-quater",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:estado-mayor",
+    "span": "Estado Mayor",
+    "start_char": 1306,
+    "end_char": 1318
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:116-quater:term-usage:1610-1622",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:116-quater",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:estado-mayor",
+    "span": "Estado Mayor",
+    "start_char": 1610,
+    "end_char": 1622
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:117:term-usage:176-187",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:117",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:direcciones",
+    "span": "Direcciones",
+    "start_char": 176,
+    "end_char": 187
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:117:term-usage:560-569",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:117",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:direcciones",
+    "span": "Dirección",
+    "start_char": 560,
+    "end_char": 569
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:117:term-usage:677-689",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:117",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:estado-mayor",
+    "span": "Estado Mayor",
+    "start_char": 677,
+    "end_char": 689
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:119:term-usage:667-679",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:119",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:estado-mayor",
+    "span": "Estado Mayor",
+    "start_char": 667,
+    "end_char": 679
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:119:term-usage:1251-1263",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:119",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:estado-mayor",
+    "span": "Estado Mayor",
+    "start_char": 1251,
+    "end_char": 1263
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:119:term-usage:1283-1292",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:119",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:direcciones",
+    "span": "Dirección",
+    "start_char": 1283,
+    "end_char": 1292
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:120:term-usage:413-425",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:120",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:estado-mayor",
+    "span": "Estado Mayor",
+    "start_char": 413,
+    "end_char": 425
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:121:term-usage:549-558",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:121",
+    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:direcciones",
+    "span": "Dirección",
+    "start_char": 549,
+    "end_char": 558
+  }
+]

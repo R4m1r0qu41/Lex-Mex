@@ -17,7 +17,7 @@ source_sha256: 1e7d06c67fac4c8a100d2bb2845cc765fba5e8ce09d27d30b2b44432ffeb8c41
 
 # Artículo 77
 
-El Comité Técnico del Mecanismo Nacional de Prevención se reunirá en pleno al menos una vez cada bimestre y cada vez que se requiera y aprobará sus decisiones por mayoría de votos. Si hubiere empate, su presidente tendrá voto de calidad.
+El Comité Técnico del [Mecanismo Nacional de Prevención](articulo-5.md) se reunirá en pleno al menos una vez cada bimestre y cada vez que se requiera y aprobará sus decisiones por mayoría de votos. Si hubiere empate, su presidente tendrá voto de calidad.
 
 La persona Titular del Mecanismo Nacional de Prevención podrá invitar a las sesiones del Comité Técnico a personas, instituciones o representantes de la sociedad civil, de la academia o de organismos nacionales e internacionales relacionados con la protección y defensa de los derechos humanos, cuyos conocimientos y experiencia contribuyan a mejorar la operación o el cumplimiento de las funciones del Mecanismo Nacional de Prevención.
 
@@ -29,14 +29,14 @@ II. Aprobar el programa anual de trabajo del Mecanismo Nacional de Prevención, 
 
 III. Aprobar los lineamientos de elaboración de los informes del Mecanismo Nacional de Prevención;
 
-IV. Aprobar los perfiles de Servidores Públicos que integran el Mecanismo Nacional de Prevención;
+IV. Aprobar los perfiles de [Servidores Públicos](articulo-5.md) que integran el Mecanismo Nacional de Prevención;
 
 V. Aprobar el informe anual de actividades del Mecanismo Nacional de Prevención;
 
-VI. Emitir los lineamientos para reserva de la información de acuerdo con la Ley General de Transparencia y Acceso a la Información Pública;
+VI. Emitir los lineamientos para reserva de la información de acuerdo con la [Ley](articulo-5.md) General de Transparencia y Acceso a la Información Pública;
 
 VII. Aprobar las propuestas de reforma a reglamentos y demás normas sobre la materia;
 
 VIII. Solicitar a la persona Titular del Mecanismo Nacional de Prevención, la apertura de expedientes de queja o la presentación de denuncias ante la autoridad competente, respetando las disposiciones aplicables en materia de transparencia y protección de datos personales; y
 
-IX. Las demás que se establezcan en el Protocolo Facultativo de la Convención de las Naciones Unidas contra la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, en la Ley de la Comisión Nacional de los Derechos Humanos y su Reglamento.
+IX. Las demás que se establezcan en el Protocolo Facultativo de la Convención de las Naciones Unidas contra la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, en la Ley de la [Comisión Nacional](articulo-5.md) de los Derechos Humanos y su Reglamento.

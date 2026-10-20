@@ -17,4 +17,4 @@ source_sha256: 43723ba379e128c1a1c1be4b085ecc870946cdec43d56f83e7314c077361368f
 
 # Artículo 78
 
-Los colegios de corredores se constituirán como asociaciones civiles y sus estatutos deberán ser previamente aprobados por la Secretaría, al igual que sus modificaciones.
+Los colegios de corredores se constituirán como asociaciones civiles y sus estatutos deberán ser previamente aprobados por la [Secretaría](articulo-2o.md), al igual que sus modificaciones.

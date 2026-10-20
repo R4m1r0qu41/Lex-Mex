@@ -29,4 +29,4 @@ IV. Los hechos que motiven la petición, narrándolos brevemente con claridad y 
 
 V. Los fundamentos de derecho, y
 
-VI. La solicitud de que se declare al Comerciante en concurso mercantil, o en su caso, en concurso mercantil en etapa de quiebra de conformidad con lo dispuesto en el artículo [21](articulo-21.md) de esta Ley. Fracción reformada DOF 10-01-2014
+VI. La solicitud de que se declare al Comerciante en concurso mercantil, o en su caso, en concurso mercantil en etapa de quiebra de conformidad con lo dispuesto en el artículo [21](articulo-21.md) de esta [Ley](articulo-4o.md). Fracción reformada DOF 10-01-2014

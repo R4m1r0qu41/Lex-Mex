@@ -17,4 +17,4 @@ source_sha256: b34326588bd6e7519e33411d3658239e3aefb56cef0fae5d775bc894af64a565
 
 # Artículo 24
 
-En el caso de la generación de residuos peligrosos considerados como infecciosos, la Secretaría, conjuntamente con la Secretaría de Salud, emitirá las normas oficiales mexicanas mediante las cuales se regule su manejo y disposición final.
+En el caso de la generación de residuos peligrosos considerados como infecciosos, la [Secretaría](articulo-5.md), conjuntamente con la Secretaría de Salud, emitirá las normas oficiales mexicanas mediante las cuales se regule su manejo y disposición final.

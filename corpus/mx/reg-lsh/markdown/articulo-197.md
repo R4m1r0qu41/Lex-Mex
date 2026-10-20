@@ -17,4 +17,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Artículo 197
 
-La Secretaría tiene la facultad de desechar las solicitudes de autorización de participación cruzada y, en su caso, imponer multas e iniciar procedimiento de revocación de permisos a aquellas personas Permisionarias que desarrollen actividades de participación cruzada sin la autorización respectiva.
+La [Secretaría](articulo-3.md) tiene la facultad de desechar las solicitudes de autorización de participación cruzada y, en su caso, imponer multas e iniciar procedimiento de revocación de permisos a aquellas personas Permisionarias que desarrollen actividades de participación cruzada sin la autorización respectiva.

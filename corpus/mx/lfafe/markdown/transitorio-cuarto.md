@@ -15,4 +15,4 @@ source_sha256: 96092a4581d4e87910eb58939da4045879e4fe613b12f4413d7392bcc2c6e884
 
 # Cuarto
 
-Las sociedades existentes y en operación a la fecha de la presente Ley, no serán afectadas en su constitución por las disposiciones de la misma; pero si desean adquirir otras negociaciones o instalar nuevas unidades industriales de las mencionadas en el artículo [46](articulo-46.md), se requerirá el permiso de la Secretaría de Relaciones Exteriores que, en caso de que ésta resuelva concederlo, sólo podrá otorgarse mediante el cumplimiento de los requisitos previstos para las nuevas sociedades.
+Las sociedades existentes y en operación a la fecha de la presente [Ley](articulo-1o-Bis.md), no serán afectadas en su constitución por las disposiciones de la misma; pero si desean adquirir otras negociaciones o instalar nuevas unidades industriales de las mencionadas en el artículo [46](articulo-46.md), se requerirá el permiso de la [Secretaría](articulo-1o-Bis.md) de Relaciones Exteriores que, en caso de que ésta resuelva concederlo, sólo podrá otorgarse mediante el cumplimiento de los requisitos previstos para las nuevas sociedades.

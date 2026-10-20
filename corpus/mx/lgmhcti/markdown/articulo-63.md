@@ -17,15 +17,15 @@ source_sha256: 5a0e15e01ac963917e019e3cc4ad07e96d76cc6c82c8b4238dfbb3a58a146847
 
 # Artículo 63
 
-En razón de su objeto, el Consejo Nacional tendrá las siguientes atribuciones:
+En razón de su objeto, el [Consejo Nacional](articulo-4.md) tendrá las siguientes atribuciones:
 
 I. Asesorar al Ejecutivo Federal y fungir como instancia de consulta especializada del Estado mexicano;
 
-II. Articular los esfuerzos y capacidades del Sistema Nacional, así como coordinar el sector de humanidades, ciencias, tecnologías e innovación;
+II. Articular los esfuerzos y capacidades del [Sistema Nacional](articulo-4.md), así como coordinar el sector de humanidades, ciencias, tecnologías e innovación;
 
 III. Realizar investigaciones en torno del derecho humano a la ciencia y demás derechos humanos con el propósito de garantizar su ejercicio efectivo, así como sobre la regulación y las políticas en materia de humanidades, ciencias, tecnologías e innovación, su estado y desarrollo en México;
 
-IV. Interpretar la presente Ley y las normas relativas a la política nacional en materia de humanidades, ciencias, tecnologías e innovación;
+IV. Interpretar la presente [Ley](articulo-4.md) y las normas relativas a la política nacional en materia de humanidades, ciencias, tecnologías e innovación;
 
 V. Otorgar apoyos, estímulos no fiscales e incentivos para el fortalecimiento y consolidación de la comunidad;
 
@@ -43,13 +43,13 @@ XII. Promover las publicaciones científicas mexicanas y fomentar la difusión s
 
 XIII. Implementar y operar, en el ámbito de su competencia, los mecanismos e instrumentos públicos de fomento y apoyo previstos en esta Ley, así como establecer y ejecutar los programas necesarios para el cumplimiento de sus atribuciones;
 
-XIV. Elaborar, integrar, actualizar y aprobar, según corresponda, el Programa Especial y el Programa Sectorial, así como coordinar su ejecución y evaluación, de conformidad con la normativa aplicable;
+XIV. Elaborar, integrar, actualizar y aprobar, según corresponda, el [Programa Especial](articulo-4.md) y el [Programa Sectorial](articulo-4.md), así como coordinar su ejecución y evaluación, de conformidad con la normativa aplicable;
 
 XV. Constituir y coordinar comités de carácter técnico o de colaboración y articulación con los sectores público, social y privado, en materia de humanidades, ciencias, tecnologías e innovación;
 
-XVI. Reconocer como Centros Públicos a las entidades paraestatales de carácter federal que así lo ameriten, en los términos de esta Ley;
+XVI. Reconocer como [Centros Públicos](articulo-4.md) a las entidades paraestatales de carácter federal que así lo ameriten, en los términos de esta Ley;
 
-XVII. Ejercer las funciones de coordinadora de sector de las entidades paraestatales que determine la persona titular del Ejecutivo Federal, en términos de las disposiciones jurídicas aplicables, y garantizar que en sus programas institucionales se incluyan las prioridades señaladas en la Agenda Nacional y, en su caso, asignar las actividades extraordinarias que requiera la Administración Pública Federal conforme a la normativa presupuestaria correspondiente;
+XVII. Ejercer las funciones de coordinadora de sector de las entidades paraestatales que determine la persona titular del Ejecutivo Federal, en términos de las disposiciones jurídicas aplicables, y garantizar que en sus programas institucionales se incluyan las prioridades señaladas en la [Agenda Nacional](articulo-4.md) y, en su caso, asignar las actividades extraordinarias que requiera la Administración Pública Federal conforme a la normativa presupuestaria correspondiente;
 
 XVIII. El Consejo Nacional podrá atraer los procedimientos administrativos y jurídicos de los Centros Públicos bajo su coordinación sectorial, así como asesorarlos y representarlos en los procesos y procedimientos administrativos o judiciales de los que sean parte, cuando a su juicio resulte relevante;
 

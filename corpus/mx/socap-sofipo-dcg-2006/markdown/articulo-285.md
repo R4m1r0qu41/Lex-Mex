@@ -17,11 +17,11 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 285
 
-El nombramiento de los miembros del Comité Técnico a que se refiere el Artículo 110 de la Ley, únicamente podrá recaer en aquellas personas que reúnan los requisitos siguientes:
+El nombramiento de los miembros del Comité Técnico a que se refiere el Artículo 110 de la [Ley](articulo-1.md), únicamente podrá recaer en aquellas personas que reúnan los requisitos siguientes:
 
-I. Acreditar, a satisfacción del Consejo de Administración de la Confederación de que se trate, conocimientos y experiencia en materia financiera y administrativa;
+I. Acreditar, a satisfacción del [Consejo de Administración](articulo-1.md) de la [Confederación](articulo-1.md) de que se trate, conocimientos y experiencia en materia financiera y administrativa;
 
-II. Acreditar Solvencia Económica y Solvencia Moral en términos de lo previsto por los Artículos [286](articulo-286.md), [287](articulo-287.md) y [289](articulo-289.md) siguientes;
+II. Acreditar [Solvencia Económica](articulo-1.md) y [Solvencia Moral](articulo-1.md) en términos de lo previsto por los Artículos [286](articulo-286.md), [287](articulo-287.md) y [289](articulo-289.md) siguientes;
 
 III. No tener alguno de los impedimentos señalados en el Artículo [288](articulo-288.md) siguiente, y
 

@@ -17,4 +17,4 @@ source_sha256: c24aa3a57883383635d5271683dd76e561f21852328f0e89f6bf1c2a09aa2d41
 
 # Artículo 80
 
-La CONUEE debe integrar, administrar y actualizar el registro de instalaciones, edificaciones, empresas o productos que reciban el reconocimiento de excelencia en Eficiencia Energética.
+La [CONUEE](articulo-3.md) debe integrar, administrar y actualizar el registro de instalaciones, edificaciones, empresas o productos que reciban el reconocimiento de excelencia en [Eficiencia Energética](articulo-3.md).

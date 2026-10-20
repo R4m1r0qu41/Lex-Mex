@@ -17,4 +17,4 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 389
 
-Los ingresos por concepto de las multas impuestas por el Instituto se destinarán a cubrir sus gastos de operación.
+Los ingresos por concepto de las multas impuestas por el [Instituto](articulo-4.md) se destinarán a cubrir sus gastos de operación.

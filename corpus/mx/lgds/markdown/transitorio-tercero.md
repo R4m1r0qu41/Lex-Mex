@@ -15,4 +15,4 @@ source_sha256: 32822f50bb2de81185408f9450d61a49d678429c52c5379822a507c7027a5275
 
 # TERCERO
 
-En un plazo de 180 días naturales, contados a partir de la entrada en vigor del presente Decreto, deberán quedar constituidos e instalados el Consejo Nacional de Evaluación de la Política de Desarrollo Social, la Comisión Nacional, la Comisión Intersecretarial y el Consejo Consultivo.
+En un plazo de 180 días naturales, contados a partir de la entrada en vigor del presente Decreto, deberán quedar constituidos e instalados el Consejo Nacional de Evaluación de la [Política de Desarrollo Social](articulo-5.md), la [Comisión Nacional](articulo-5.md), la [Comisión Intersecretarial](articulo-5.md) y el [Consejo Consultivo](articulo-5.md).

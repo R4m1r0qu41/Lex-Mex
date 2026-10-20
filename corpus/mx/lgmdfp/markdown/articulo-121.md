@@ -17,6 +17,6 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Artículo 121
 
-Los servicios periciales y los servicios médicos forenses de la Federación y de las Entidades Federativas deben capturar en el registro forense que corresponda, la información que recaben, de conformidad con la presente sección y el protocolo correspondiente.
+Los servicios periciales y los servicios médicos forenses de la Federación y de las [Entidades Federativas](articulo-4.md) deben capturar en el registro forense que corresponda, la información que recaben, de conformidad con la presente sección y el protocolo correspondiente.
 
-Las autoridades correspondientes en la Federación y las Entidades Federativas, deben garantizar que el personal de los servicios periciales y médicos forenses esté capacitado de forma permanente y continua en las diferentes materias que se requieren para el adecuado funcionamiento del Banco Nacional de Datos Forenses.
+Las autoridades correspondientes en la Federación y las Entidades Federativas, deben garantizar que el personal de los servicios periciales y médicos forenses esté capacitado de forma permanente y continua en las diferentes materias que se requieren para el adecuado funcionamiento del [Banco Nacional de Datos Forenses](articulo-4.md).

@@ -17,9 +17,9 @@ source_sha256: d0021bbef2e0c3251d6efdea2c1efd9959ff3f02df4bcd1fc37c1ee7826a72ba
 
 # Artículo 77 Bis
 
-Los Agentes Económicos podrán solicitar a la Comisión que se excluya del procedimiento correspondiente, la información y documentos que hubieran proporcionado o que la Comisión haya obtenido en donde consten comunicaciones con sus personas abogadas que tienen como finalidad la obtención de asesoría legal.
+Los [Agentes Económicos](articulo-3.md) podrán solicitar a la [Comisión](articulo-3.md) que se excluya del procedimiento correspondiente, la información y documentos que hubieran proporcionado o que la Comisión haya obtenido en donde consten comunicaciones con sus personas abogadas que tienen como finalidad la obtención de asesoría legal.
 
-El procedimiento se tramitará conforme al procedimiento previsto en esta Ley y su Reglamento, y se suspenderá la investigación o el procedimiento correspondiente hasta que se resuelva la solicitud a la que hace referencia el párrafo anterior.
+El procedimiento se tramitará conforme al procedimiento previsto en esta Ley y su [Reglamento](articulo-3.md), y se suspenderá la investigación o el procedimiento correspondiente hasta que se resuelva la solicitud a la que hace referencia el párrafo anterior.
 
 La Comisión establecerá en su estatuto orgánico las características de los comités calificadores encargados de dar trámite y resolver la solicitud que realicen los Agentes Económicos.
 

@@ -17,9 +17,9 @@ source_sha256: c1870db657a6564bbeb692a1778472db811a920626822de553ff5ca5194f95b4
 
 # Artículo 37
 
-La SENER debe integrar, organizar y actualizar el Registro de permisos y autorizaciones de Biocombustibles, en el cual, cuando menos se inscriben:
+La [SENER](articulo-2.md) debe integrar, organizar y actualizar el [Registro](articulo-2.md) de permisos y autorizaciones de [Biocombustibles](articulo-2.md), en el cual, cuando menos se inscriben:
 
-I. Los permisos para la Producción, importación, exportación, Almacenamiento, Transporte, Comercialización, Distribución y Expendio al Público de Biocombustibles;
+I. Los permisos para la [Producción](articulo-2.md), importación, exportación, [Almacenamiento](articulo-2.md), [Transporte](articulo-2.md), [Comercialización](articulo-2.md), [Distribución](articulo-2.md) y [Expendio al Público](articulo-2.md) de Biocombustibles;
 
 II. Los avisos de inicio de operaciones de los permisos y, en su caso, las autorizaciones respectivas;
 
@@ -27,4 +27,4 @@ III. Las autorizaciones de los avisos para la Producción de Biocombustibles, y
 
 IV. El grado de contenido nacional en los Biocombustibles comercializados o expendidos en el país.
 
-El Reglamento especificará la información que deberá constar en el Registro y la información generada en dicho registro debe incorporarse al Subsistema.
+El [Reglamento](articulo-2.md) especificará la información que deberá constar en el Registro y la información generada en dicho registro debe incorporarse al [Subsistema](articulo-2.md).

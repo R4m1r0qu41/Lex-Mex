@@ -17,9 +17,9 @@ source_sha256: d0021bbef2e0c3251d6efdea2c1efd9959ff3f02df4bcd1fc37c1ee7826a72ba
 
 # Artículo 106
 
-Cuando la Comisión reciba una solicitud de opinión formal se sujetará a lo siguiente:
+Cuando la [Comisión](articulo-3.md) reciba una solicitud de opinión formal se sujetará a lo siguiente:
 
-I. Dentro de los diez días siguientes a la recepción de la solicitud de opinión formal, el Comisionado Presidente convocará y presentará al Pleno dicha solicitud. El Pleno tendrá un plazo de cinco días para resolver si expedirá o no una opinión formal sobre la solicitud planteada, debiendo notificar su resolución al Agente Económico interesado en un plazo adicional de cinco días;
+I. Dentro de los diez días siguientes a la recepción de la solicitud de opinión formal, el Comisionado Presidente convocará y presentará al [Pleno](articulo-3.md) dicha solicitud. El Pleno tendrá un plazo de cinco días para resolver si expedirá o no una opinión formal sobre la solicitud planteada, debiendo notificar su resolución al [Agente Económico](articulo-3.md) interesado en un plazo adicional de cinco días;
 
 II. Dentro de los cinco días siguientes a que el Pleno resuelva emitir su opinión formal a la solicitud planteada, se turnará el expediente al órgano encargado de la instrucción quien podrá, dentro de los diez días siguientes requerir información y documentación adicional al interesado. El Agente Económico solicitante de la opinión formal deberá presentar la información y documentación requerida dentro de los quince días siguientes contados a partir del requerimiento, o presentar una explicación razonada del por qué dicha información o documentación no puede ser presentada;
 

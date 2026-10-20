@@ -17,7 +17,7 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 183
 
-Para efecto de considerar la gravedad de la falta a que se refiere el artículo [304](../../lss/markdown/articulo-304.md) B de la Ley, al momento de imponerse la sanción, se tomarán en consideración los términos del mismo artículo, así como alguno o algunos de los supuestos siguientes:
+Para efecto de considerar la gravedad de la falta a que se refiere el artículo [304](../../lss/markdown/articulo-304.md) B de la [Ley](../../lss/markdown/articulo-5-A.md), al momento de imponerse la sanción, se tomarán en consideración los términos del mismo artículo, así como alguno o algunos de los supuestos siguientes:
 
 I. Las circunstancias particulares en la comisión del acto u omisión de éste, y
 

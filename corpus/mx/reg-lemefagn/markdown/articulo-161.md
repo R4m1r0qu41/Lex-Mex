@@ -17,6 +17,6 @@ source_sha256: 703f083c0baedfb4ef5ce8b62c78684d8ee0073f393321d476d75ebe4878e1d5
 
 # Artículo 161
 
-La Dirección y Rectoría impartirá el curso de inducción al puesto a las personas titulares de la Dirección, Subdirección, Comandancias del Cuerpo, Jefaturas de Secciones Pedagógicas y Académicas, que causen alta en las Instituciones Educativas, quienes como parte de su responsabilidad tendrán la obligación de mantenerse actualizados, para una administración escolar eficaz.
+La Dirección y Rectoría impartirá el curso de inducción al puesto a las personas titulares de la Dirección, Subdirección, Comandancias del Cuerpo, Jefaturas de Secciones Pedagógicas y Académicas, que causen alta en las [Instituciones Educativas](articulo-3.md), quienes como parte de su responsabilidad tendrán la obligación de mantenerse actualizados, para una administración escolar eficaz.
 
 Artículo reformado DOF 20-03-2026

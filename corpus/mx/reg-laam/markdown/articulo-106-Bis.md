@@ -17,6 +17,6 @@ source_sha256: 8515c812258bcc7c342e8566ff623c7f5e880f2eb9ee2ad154758077089f11ca
 
 # Artículo 106 Bis
 
-Al término de los exámenes que comprenden el Concurso de Selección, la Comisión Coordinadora comunicará al personal participante los resultados de los mismos.
+Al término de los exámenes que comprenden el [Concurso de Selección](articulo-5.md), la [Comisión Coordinadora](articulo-5.md) comunicará al personal participante los resultados de los mismos.
 
 Artículo adicionado DOF 11-03-2016. Reformado DOF 02-04-2026

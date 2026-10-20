@@ -23,7 +23,7 @@ I. Garantizar el pleno ejercicio de los derechos sociales y la igualdad sustanti
 
 II. Señalar las obligaciones del Gobierno, establecer las instituciones responsables del desarrollo social y definir los principios y lineamientos generales a los que debe sujetarse la Política Nacional de Desarrollo Social;
 
-III. Establecer un Sistema Nacional de Desarrollo Social en el que participen los gobiernos municipales, de las entidades federativas y el federal;
+III. Establecer un [Sistema Nacional](articulo-5.md) de Desarrollo Social en el que participen los gobiernos municipales, de las entidades federativas y el federal;
 
 IV. Determinar la competencia de los gobiernos municipales, de las entidades federativas y del Gobierno Federal en materia de desarrollo social, así como las bases para la concertación de acciones con los sectores social y privado;
 

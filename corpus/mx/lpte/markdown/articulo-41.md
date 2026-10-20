@@ -17,4 +17,4 @@ source_sha256: c24aa3a57883383635d5271683dd76e561f21852328f0e89f6bf1c2a09aa2d41
 
 # Artículo 41
 
-Los recursos que se destinen para el cumplimiento de los objetivos de esta Ley, deben impulsar el desarrollo tecnológico, Transición Energética y Justicia Energética. Los recursos públicos o privados asignados con base en esta Ley deben ser ejercidos de acuerdo con los principios de honestidad, legalidad, productividad, eficiencia, eficacia, transparencia gubernamental y máxima publicidad, y deben estar sujetos al monitoreo, reporte y evaluación de su desempeño y efectividad.
+Los recursos que se destinen para el cumplimiento de los objetivos de esta [Ley](articulo-3.md), deben impulsar el desarrollo tecnológico, [Transición Energética](articulo-3.md) y [Justicia Energética](articulo-3.md). Los recursos públicos o privados asignados con base en esta Ley deben ser ejercidos de acuerdo con los principios de honestidad, legalidad, productividad, eficiencia, eficacia, transparencia gubernamental y máxima publicidad, y deben estar sujetos al monitoreo, reporte y evaluación de su desempeño y efectividad.

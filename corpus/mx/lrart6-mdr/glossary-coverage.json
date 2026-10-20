@@ -1,0 +1,25 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-3",
+  "instrument_id": "urn:lex-mx:federal:statute:lrart6-mdr",
+  "source_sha256": "b3013ac434856f46bc973c4178d55c6d5d440730a42f3d7f8ca225730e0d382c",
+  "extracted_text_sha256": "e7c915812ed8a49a288ace0ad3c8bebb5ed4d0901eeac84f46d6def7be3c5f4f",
+  "status": "detected",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lrart6-mdr:article:2",
+      "provision_text_sha256": "e99847c0408a352396473f367bfac766f233a2c689ac027cb6a0a62dd91ea21c",
+      "method": "established_pass",
+      "fractions": [
+        "I",
+        "II",
+        "IV"
+      ],
+      "unread_fractions": [],
+      "term_count": 3
+    }
+  ],
+  "imports": [],
+  "term_count": 3,
+  "usage_count": 0
+}

@@ -17,7 +17,7 @@ source_sha256: c7790df38b773b04e4769459d5fd49cca5b7a5b4955f7618632117275259071f
 
 # Artículo 52
 
-La Secretaría fijará el monto de los seguros y garantías atendiendo al valor de la reparación de los daños que pudieran ocasionarse por el incumplimiento de las condicionantes impuestas en las autorizaciones.
+La [Secretaría](articulo-3o.md) fijará el monto de los seguros y garantías atendiendo al valor de la reparación de los daños que pudieran ocasionarse por el incumplimiento de las condicionantes impuestas en las autorizaciones.
 
 En todo caso, el promovente podrá otorgar sólo los seguros o garantías que correspondan a la etapa del proyecto que se encuentre realizando.
 

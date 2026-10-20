@@ -17,4 +17,4 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 # Artículo 117
 
-Corresponde a las Autoridades Normalizadoras, en coordinación con el Centro Nacional de Metrología o los Institutos Designados de Metrología competentes, establecer los requisitos metrológicos de los instrumentos para medir sujetos a control legal y que deben ser considerados en la Evaluación de la Conformidad, lo cual deberá establecerse en las Normas Oficiales Mexicanas de metrología legal.
+Corresponde a las [Autoridades Normalizadoras](articulo-4.md), en coordinación con el Centro Nacional de Metrología o los Institutos Designados de Metrología competentes, establecer los requisitos metrológicos de los instrumentos para medir sujetos a control legal y que deben ser considerados en la [Evaluación de la Conformidad](articulo-4.md), lo cual deberá establecerse en las [Normas Oficiales Mexicanas](articulo-4.md) de metrología legal.

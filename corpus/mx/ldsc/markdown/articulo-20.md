@@ -17,4 +17,4 @@ source_sha256: 45deb87bfd634dfbd1cb7d9fd67a476ad954187908eb0cb06256c90ccc0feb80
 
 # Artículo 20
 
-Las universidades, empresas o agentes de los sectores social y privado que realicen actividades de capacitación y asistencia técnica, de investigación científica, desarrollo tecnológico e innovación en el sector cafetalero, podrán proporcionar información al Sistema Nacional de Información de la Cafeticultura en México.
+Las universidades, empresas o agentes de los sectores social y privado que realicen actividades de capacitación y asistencia técnica, de investigación científica, desarrollo tecnológico e innovación en el sector cafetalero, podrán proporcionar información al Sistema Nacional de Información de la [Cafeticultura](articulo-3.md) en México.

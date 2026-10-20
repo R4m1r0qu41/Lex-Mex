@@ -17,9 +17,9 @@ source_sha256: 0e34f329befed4474eb7bc1bc195ba13bbe188edfbbabc914a44723e62eb9e44
 
 # Artículo 5o
 
-La Agencia tendrá las siguientes atribuciones:
+La [Agencia](articulo-3o.md) tendrá las siguientes atribuciones:
 
-I. Aportar los elementos técnicos sobre Seguridad Industrial, Seguridad Operativa y protección al medio ambiente, a las autoridades competentes, para las políticas energética y ambiental del país, así como para la formulación de los programas sectoriales en esas materias. Para ello, participará con la Secretaría y con la Secretaría de Energía en el desarrollo de la Evaluación Estratégica del Sector;
+I. Aportar los elementos técnicos sobre [Seguridad Industrial](articulo-3o.md), [Seguridad Operativa](articulo-3o.md) y protección al medio ambiente, a las autoridades competentes, para las políticas energética y ambiental del país, así como para la formulación de los programas sectoriales en esas materias. Para ello, participará con la [Secretaría](articulo-3o.md) y con la Secretaría de Energía en el desarrollo de la Evaluación Estratégica del Sector;
 
 II. Participar con los distintos órdenes de gobierno, dependencias y entidades competentes, en el diseño y atención de los planes nacionales e internacionales para prevenir y atender situaciones de emergencia en las actividades del Sector;
 
@@ -27,9 +27,9 @@ III. Regular, supervisar y sancionar en materia de Seguridad Industrial, Segurid
 
 IV. Regular a través de lineamientos, directrices, criterios u otras disposiciones administrativas de carácter general necesarias en las materias de su competencia y, en su caso, normas oficiales mexicanas, previa opinión de la Secretaría, en materia de protección al medio ambiente y de la Secretaría de Energía, la Comisión Nacional de Hidrocarburos y la Comisión Reguladora de Energía, en materia de Seguridad Industrial y Seguridad Operativa;
 
-V. Definir las medidas técnicas en el ámbito de su competencia, que deben ser incluidas en los protocolos para hacer frente a emergencias o situaciones de Riesgo Crítico o situaciones que puedan ocasionar un daño grave a las personas o a los bienes y al medio ambiente, cuando la magnitud del evento lo requiera y, en su caso, participar bajo la coordinación de las autoridades competentes para su aplicación;
+V. Definir las medidas técnicas en el ámbito de su competencia, que deben ser incluidas en los protocolos para hacer frente a emergencias o situaciones de [Riesgo](articulo-3o.md) Crítico o situaciones que puedan ocasionar un daño grave a las personas o a los bienes y al medio ambiente, cuando la magnitud del evento lo requiera y, en su caso, participar bajo la coordinación de las autoridades competentes para su aplicación;
 
-VI. Emitir las bases y criterios para que los Regulados adopten las mejores prácticas de Seguridad Industrial, Seguridad Operativa y protección al medio ambiente que resulten aplicables a las actividades del Sector. Lo anterior incluirá el control y seguimiento geofísico en la operación cuando ésta lo requiera, las etapas de desmantelamiento y abandono de las instalaciones, la restauración de los sitios impactados por las actividades del Sector, así como el control integral de sus residuos y sus emisiones de contaminantes;
+VI. Emitir las bases y criterios para que los [Regulados](articulo-3o.md) adopten las mejores prácticas de Seguridad Industrial, Seguridad Operativa y protección al medio ambiente que resulten aplicables a las actividades del Sector. Lo anterior incluirá el control y seguimiento geofísico en la operación cuando ésta lo requiera, las etapas de desmantelamiento y abandono de las instalaciones, la restauración de los sitios impactados por las actividades del Sector, así como el control integral de sus residuos y sus emisiones de contaminantes;
 
 VII. Establecer los lineamientos para la conformación y operación de los Sistemas de Administración con que deberán contar los Regulados;
 

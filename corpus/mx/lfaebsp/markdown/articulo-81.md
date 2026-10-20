@@ -17,9 +17,9 @@ source_sha256: 269e72195414406bcbd3e90ac40ec26e031a9ea519316c44ee30bdfdf3163059
 
 # Artículo 81
 
-La Junta de Gobierno tendrá las facultades siguientes:
+La [Junta de Gobierno](articulo-2o.md) tendrá las facultades siguientes:
 
-I.- Establecer, en congruencia con los programas sectoriales, las políticas generales y definir las prioridades a las que deberá sujetarse el Instituto; Fracción reformada DOF 09-08-2019
+I.- Establecer, en congruencia con los programas sectoriales, las políticas generales y definir las prioridades a las que deberá sujetarse el [Instituto](articulo-2o.md); Fracción reformada DOF 09-08-2019
 
 II.- Aprobar con sujeción a las disposiciones aplicables, las políticas, bases y programas generales, que regulen los convenios, contratos, o acuerdos que deba celebrar el Instituto con terceros para obras públicas, adquisiciones, arrendamientos y prestación de servicios. El Director General y, en su caso, los servidores públicos que sean competentes en términos de la legislación de la materia, realizarán tales actos bajo su responsabilidad y con sujeción a las directrices que les hayan sido fijadas por la Junta de Gobierno; Fracción reformada DOF 09-08-2019
 
@@ -37,13 +37,13 @@ VIII.- Aprobar anualmente, previo informe de los comisarios y dictamen de los au
 
 IX.- Aprobar el Estatuto Orgánico del Instituto y la estructura orgánica básica del mismo, así como las modificaciones que procedan a éstos; Fracción reformada DOF 09-08-2019
 
-X.- Nombrar y remover, a propuesta del Director General, a los servidores públicos del Instituto que ocupen cargos con las dos jerarquías administrativas inferiores a la de aquél, con excepción de aquellos servidores públicos cuyo nombramiento corresponda a otra dependencia o entidad en términos de las disposiciones legales, reglamentarias y administrativas aplicables, así como aprobar la fijación de sus sueldos y prestaciones, y a los demás que señale el Estatuto Orgánico, conforme a las disposiciones que emita la Secretaría para tal efecto; Fracción reformada DOF 09-08-2019
+X.- Nombrar y remover, a propuesta del Director General, a los servidores públicos del Instituto que ocupen cargos con las dos jerarquías administrativas inferiores a la de aquél, con excepción de aquellos servidores públicos cuyo nombramiento corresponda a otra dependencia o entidad en términos de las disposiciones legales, reglamentarias y administrativas aplicables, así como aprobar la fijación de sus sueldos y prestaciones, y a los demás que señale el Estatuto Orgánico, conforme a las disposiciones que emita la [Secretaría](articulo-2o.md) para tal efecto; Fracción reformada DOF 09-08-2019
 
 XI.- Nombrar y remover al Secretario Técnico y Prosecretario de la propia Junta de Gobierno;
 
-XII.- Autorizar los diferentes procedimientos de venta de conformidad con el Reglamento de la presente Ley;
+XII.- Autorizar los diferentes procedimientos de venta de conformidad con el [Reglamento](articulo-2o.md) de la presente Ley;
 
-XIII.- Emitir los lineamientos necesarios para la destrucción de los Bienes en los términos de la presente Ley y el Reglamento, así como para las demás actividades relacionadas con el objeto del Instituto; Fracción reformada DOF 09-08-2019
+XIII.- Emitir los lineamientos necesarios para la destrucción de los [Bienes](articulo-2o.md) en los términos de la presente Ley y el Reglamento, así como para las demás actividades relacionadas con el objeto del Instituto; Fracción reformada DOF 09-08-2019
 
 XIV.- Emitir los lineamientos para la venta en varias exhibiciones, para lo cual considerará las condiciones de mercado en operaciones similares;
 

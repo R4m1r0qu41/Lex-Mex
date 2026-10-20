@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAC.pdf
 source_sha256: 07199878c4f94748c983998437198eb7c645ad76967c444dfe26d50a535d23ae
 ---
 
+> Capítulo XII · Sección Segunda
+
 # Artículo 72
 
 En el caso de daños a personas, se cubrirá la indemnización correspondiente conforme a los términos señalados en el primer párrafo del artículo [62](articulo-62.md) de esta Ley. Para el caso de objetos en la superficie, el monto de la indemnización será de hasta treinta y cinco mil Unidades de Medida y Actualización. Párrafo reformado DOF 18-06-2018

@@ -29,6 +29,17 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lce:article:3",
     "fraction": "III",
     "start_char": 205,
+    "end_char": 447,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lce:term:reglas",
+    "term": "Reglas",
+    "instrument_id": "urn:lex-mx:federal:statute:lce",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lce:article:3",
+    "fraction": "IV",
+    "start_char": 447,
     "end_char": 646,
     "basis": "express_definition"
   },

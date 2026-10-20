@@ -17,6 +17,6 @@ source_sha256: b34326588bd6e7519e33411d3658239e3aefb56cef0fae5d775bc894af64a565
 
 # Artículo 56
 
-La Secretaría expedirá las normas oficiales mexicanas para el almacenamiento de residuos peligrosos, las cuales tendrán como objetivo la prevención de la generación de lixiviados y su infiltración en los suelos, el arrastre por el agua de lluvia o por el viento de dichos residuos, incendios, explosiones y acumulación de vapores tóxicos, fugas o derrames.
+La [Secretaría](articulo-5.md) expedirá las normas oficiales mexicanas para el almacenamiento de residuos peligrosos, las cuales tendrán como objetivo la prevención de la generación de lixiviados y su infiltración en los suelos, el arrastre por el agua de lluvia o por el viento de dichos residuos, incendios, explosiones y acumulación de vapores tóxicos, fugas o derrames.
 
-Se prohíbe el almacenamiento de residuos peligrosos por un periodo mayor de seis meses a partir de su generación, lo cual deberá quedar asentado en la bitácora correspondiente. No se entenderá por interrumpido este plazo cuando el poseedor de los residuos cambie su lugar de almacenamiento. Procederá la prórroga para el almacenamiento cuando se someta una solicitud al respecto a la Secretaría cumpliendo los requisitos que establezca el Reglamento.
+Se prohíbe el almacenamiento de residuos peligrosos por un periodo mayor de seis meses a partir de su generación, lo cual deberá quedar asentado en la bitácora correspondiente. No se entenderá por interrumpido este plazo cuando el poseedor de los residuos cambie su lugar de almacenamiento. Procederá la prórroga para el almacenamiento cuando se someta una solicitud al respecto a la Secretaría cumpliendo los requisitos que establezca el [Reglamento](articulo-5.md).

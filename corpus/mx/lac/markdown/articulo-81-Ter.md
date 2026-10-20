@@ -13,9 +13,11 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAC.pdf
 source_sha256: 07199878c4f94748c983998437198eb7c645ad76967c444dfe26d50a535d23ae
 ---
 
+> Capítulo XVI
+
 # Artículo 81 Ter
 
-La clasificación y acceso a la información que genere o custodie la Secretaría en materia de investigación de accidentes o incidentes debe ajustarse a lo previsto en la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Transparencia y Acceso a la Información Pública, la Ley Federal de Transparencia y Acceso a la Información Pública, así como a lo dispuesto en los tratados en los que el Estado mexicano sea parte. Párrafo reformado DOF 03-05-2023
+La clasificación y acceso a la información que genere o custodie la [Secretaría](articulo-2.md) en materia de investigación de accidentes o incidentes debe ajustarse a lo previsto en la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Transparencia y Acceso a la Información Pública, la Ley Federal de Transparencia y Acceso a la Información Pública, así como a lo dispuesto en los tratados en los que el Estado mexicano sea parte. Párrafo reformado DOF 03-05-2023
 
 Respecto a la información relacionada con accidentes o incidentes aéreos que conforme a los tratados en los que el Estado mexicano sea parte deba ser objeto de clasificación de conformidad con las disposiciones aplicables, dicha clasificación deberá ajustarse a lo establecido en las normas señaladas en el primer párrafo de este artículo. Entre dicha información destaca la relativa al nombre de las personas involucradas en los accidentes e incidentes aéreos, las declaraciones de testigos, el contenido de comunicaciones en la operación, la información médica del personal técnico aeronáutico involucrado, el audio y conversaciones de cabinas y con los servicios de tránsito aéreo, los análisis y opiniones expresadas por los registradores del vuelo, proyectos de informe preliminar o definitivo de accidente o incidente y otros datos que por su naturaleza se considere que sean susceptibles de clasificación.
 

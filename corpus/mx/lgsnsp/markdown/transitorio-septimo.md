@@ -15,4 +15,4 @@ source_sha256: 7f01ee1b1deb901a23976507adccbddefbea50b0fc9a4ddceaf1225d711d50d0
 
 # Séptimo
 
-Los derechos de las personas integrantes de las Instituciones de Seguridad Pública que a la entrada en vigor de este Decreto cuenten con un nivel de estudios inferior al establecido en este para su ingreso o permanencia deberán ser respetados y sus respectivas instituciones deberán realizar acciones para que obtengan el nivel de estudios que corresponda.
+Los derechos de las personas integrantes de las [Instituciones de Seguridad Pública](articulo-4.md) que a la entrada en vigor de este Decreto cuenten con un nivel de estudios inferior al establecido en este para su ingreso o permanencia deberán ser respetados y sus respectivas instituciones deberán realizar acciones para que obtengan el nivel de estudios que corresponda.

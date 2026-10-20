@@ -17,7 +17,7 @@ source_sha256: ea96e97cbea2fd1919af78b94cd3466ee20a77e05989be2d482d2eb8061618c5
 
 # Artículo 54 Bis
 
-Para efecto de determinar el valor de los inmuebles respecto de los cuales las dependencias y entidades pretendan adquirir la propiedad por cualquier medio, dichas dependencias y entidades podrán solicitar los avalúos correspondientes a la Secretaría, a las instituciones de crédito o a corredores públicos. Párrafo reformado DOF 03-05-2023
+Para efecto de determinar el valor de los inmuebles respecto de los cuales las dependencias y entidades pretendan adquirir la propiedad por cualquier medio, dichas dependencias y entidades podrán solicitar los avalúos correspondientes a la [Secretaría](articulo-2.md), a las instituciones de crédito o a corredores públicos. Párrafo reformado DOF 03-05-2023
 
 Dicha Secretaría emitirá las normas, procedimientos, criterios y metodologías de carácter técnico, conforme a los cuales se realizarán los avalúos, considerando la diversidad de bienes y derechos objeto de valuación, así como sus posibles usos y demás características particulares.
 

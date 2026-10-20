@@ -17,6 +17,6 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 239-F
 
-Tratándose de las personas que realicen actividades de cuidados, aseo, asistencia o cualquier otra actividad inherente al hogar, de manera ocasional o esporádica, podrán optar por asegurarse como personas trabajadoras independientes, en términos de la fracción I del artículo [13](articulo-13.md) de esta Ley.
+Tratándose de las personas que realicen actividades de cuidados, aseo, asistencia o cualquier otra actividad inherente al hogar, de manera ocasional o esporádica, podrán optar por asegurarse como personas trabajadoras independientes, en términos de la fracción I del artículo [13](articulo-13.md) de esta [Ley](articulo-5-A.md).
 
 Artículo adicionado DOF 16-11-2022

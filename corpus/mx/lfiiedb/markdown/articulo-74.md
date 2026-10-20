@@ -17,4 +17,4 @@ source_sha256: 7679afbbf32749e0c0bacab72644d41fc6ccdeeab3a2f25dfae8d26a065de01e
 
 # Artículo 74
 
-El Consejo podrá acordar la constitución de grupos de trabajo en materias específicas, y los mismos, tendrán carácter técnico y auxiliar, y se integrará por los miembros o invitados especializados en la materia que trate el grupo, los cuales se desempeñarán a título honorífico, por lo que, no dará derecho a retribución alguna.
+El [Consejo](articulo-4.md) podrá acordar la constitución de grupos de trabajo en materias específicas, y los mismos, tendrán carácter técnico y auxiliar, y se integrará por los miembros o invitados especializados en la materia que trate el grupo, los cuales se desempeñarán a título honorífico, por lo que, no dará derecho a retribución alguna.

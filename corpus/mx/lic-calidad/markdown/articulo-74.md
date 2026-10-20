@@ -17,4 +17,4 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 # Artículo 74
 
-Los Estándares se clasifican, según se prevea en el Reglamento de esta Ley y sin perjuicio de que la Comisión amplíe y defina el uso de dicha clasificación, en industrial; agrícola; pecuaria; medio ambiente; energético; comercial; de gestión; de metrología; y general.
+Los [Estándares](articulo-4.md) se clasifican, según se prevea en el Reglamento de esta Ley y sin perjuicio de que la [Comisión](articulo-4.md) amplíe y defina el uso de dicha clasificación, en industrial; agrícola; pecuaria; medio ambiente; energético; comercial; de gestión; de metrología; y general.

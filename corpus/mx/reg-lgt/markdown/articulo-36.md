@@ -17,6 +17,6 @@ source_sha256: 6680a58c98673518aee46582b3137d28987c275785d1f0c97295f0d89c4b692b
 
 # Artículo 36
 
-Las dependencias y entidades de la Administración Pública Federal, Estados, Municipios y Distrito Federal, así como los Prestadores de Servicios Turísticos remitirán periódicamente a la Secretaría información actualizada para su integración al Sistema Estadístico.
+Las dependencias y entidades de la Administración Pública Federal, Estados, Municipios y Distrito Federal, así como los Prestadores de Servicios Turísticos remitirán periódicamente a la Secretaría información actualizada para su integración al [Sistema Estadístico](articulo-2.md).
 
 Los Estados y el Distrito Federal, en la información que remitan a la Secretaría en términos de los convenios de coordinación que al efecto se suscriban, incluirán la correspondiente a sus Municipios o Delegaciones.

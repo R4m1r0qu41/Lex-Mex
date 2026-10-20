@@ -13,9 +13,11 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAC.pdf
 source_sha256: 07199878c4f94748c983998437198eb7c645ad76967c444dfe26d50a535d23ae
 ---
 
+> Capítulo III · Sección Primera
+
 # Artículo 9
 
-Se requiere de concesión que otorgue la Secretaría para prestar el servicio público de transporte aéreo nacional regular. Tal concesión sólo se otorgará a personas morales mexicanas.
+Se requiere de concesión que otorgue la [Secretaría](articulo-2.md) para prestar el servicio público de transporte aéreo nacional regular. Tal concesión sólo se otorgará a personas morales mexicanas.
 
 Los interesados en la obtención de concesiones deberán acreditar:
 
@@ -27,4 +29,4 @@ III. La disponibilidad de hangares, talleres, de la infraestructura necesaria pa
 
 IV. Contar, por sí mismas o a través de sociedades mercantiles mexicanas asociadas, con la experiencia que haga viable su permanencia en el sector y maximicen la seguridad de sus operaciones. Fracción adicionada DOF 28-12-2001
 
-Las personas concesionarias a que se refiere este artículo podrán prestar el servicio de transporte aéreo regular internacional siempre que cuenten con la autorización de las rutas correspondientes por parte de la Agencia Federal de Aviación Civil. Párrafo reformado DOF 03-05-2023
+Las personas concesionarias a que se refiere este artículo podrán prestar el servicio de transporte aéreo regular internacional siempre que cuenten con la autorización de las rutas correspondientes por parte de la [Agencia Federal de Aviación Civil](articulo-2.md). Párrafo reformado DOF 03-05-2023

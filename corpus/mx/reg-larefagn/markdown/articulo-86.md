@@ -17,9 +17,9 @@ source_sha256: 01b72308e67d46ba6ca8a6b07fb7584c6a74e905ea0c4b5be5c0c0d32a6d817a
 
 # Artículo 86
 
-Son facultades de la Comisión de Evaluación:
+Son facultades de la [Comisión de Evaluación](articulo-5.md):
 
-I. Instruir a las Direcciones para que remitan los extractos de antecedentes, hojas de actuación, certificados de conducta y demás documentación necesaria del Personal Potencial para participar en la Promoción Superior;
+I. Instruir a las [Direcciones](articulo-5.md) para que remitan los extractos de antecedentes, hojas de actuación, certificados de conducta y demás documentación necesaria del [Personal Potencial](articulo-5.md) para participar en la [Promoción](articulo-5.md) Superior;
 
 II. Dar a conocer a las personas participantes el proceso de evaluación; Fracción reformada DOF 20-03-2026
 

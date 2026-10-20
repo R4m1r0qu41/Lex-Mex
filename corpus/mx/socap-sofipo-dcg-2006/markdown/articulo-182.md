@@ -18,12 +18,12 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 182
 
-Para cumplir con las responsabilidades mencionadas en el artículo [181](articulo-181.md) anterior, el Director o Gerente General deberá asegurarse de que se lleven a cabo entre otras, las acciones siguientes:
+Para cumplir con las responsabilidades mencionadas en el artículo [181](articulo-181.md) anterior, el [Director o Gerente General](articulo-1.md) deberá asegurarse de que se lleven a cabo entre otras, las acciones siguientes:
 
-I. Identificar y evaluar los factores internos y externos que pueden afectar la consecución de las estrategias y objetivos de la Sociedad Financiera Popular;
+I. Identificar y evaluar los factores internos y externos que pueden afectar la consecución de las estrategias y objetivos de la [Sociedad](articulo-1.md) Financiera Popular;
 
 II. Implementar las estrategias y políticas de la Sociedad Financiera Popular, asegurando que las actividades a todos los niveles se desarrollen en línea con los citados objetivos y estrategias, y
 
 III. Establecer los mecanismos de control y administrativos de conformidad con las leyes, y demás disposiciones aplicables, incluyendo la normatividad emitida internamente en la propia Sociedad Financiera Popular.
 
-El Director o Gerente General informará al menos anualmente al Consejo de Administración sobre el desempeño de las actividades a que se refiere la presente disposición.
+El Director o Gerente General informará al menos anualmente al [Consejo de Administración](articulo-1.md) sobre el desempeño de las actividades a que se refiere la presente disposición.

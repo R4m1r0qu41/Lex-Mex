@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título XIV · Capítulo II
+
 # Artículo 373
 
 Serán sancionados con prisión de cinco a quince años quienes dentro del territorio nacional, realicen intermediación con valores con el público, sin contar con la correspondiente autorización de la autoridad competente conforme a ésta u otras leyes.

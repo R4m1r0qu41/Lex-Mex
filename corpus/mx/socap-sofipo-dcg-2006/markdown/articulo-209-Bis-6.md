@@ -18,13 +18,13 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 209 Bis 6
 
-El Comité de Remuneración, para el desarrollo de su objeto, desempeñará las funciones siguientes:
+El [Comité de Remuneración](articulo-1.md), para el desarrollo de su objeto, desempeñará las funciones siguientes:
 
-I. Proponer para aprobación del Consejo de Administración:
+I. Proponer para aprobación del [Consejo de Administración](articulo-1.md):
 
 a) Las políticas y procedimientos de remuneración, así como las eventuales modificaciones que se realicen a los mismos;
 
-b) Los empleados o personal que ostente algún cargo, mandato, comisión o cualquier otro título jurídico que las Sociedades Financieras Populares hayan otorgado para la realización de sus operaciones, que estarán sujetos al [Sistema de Remuneración](articulo-1.md), considerando en todo caso, aquellos que tomen decisiones que puedan implicar un riesgo para la Sociedad Financiera Popular o participen en algún proceso que concluya en eso, y
+b) Los empleados o personal que ostente algún cargo, mandato, comisión o cualquier otro título jurídico que las [Sociedades](articulo-1.md) Financieras Populares hayan otorgado para la realización de sus operaciones, que estarán sujetos al [Sistema de Remuneración](articulo-1.md), considerando en todo caso, aquellos que tomen decisiones que puedan implicar un riesgo para la Sociedad Financiera Popular o participen en algún proceso que concluya en eso, y
 
 c) Los casos o circunstancias especiales en los cuales se podría exceptuar a alguna persona de la aplicación de las políticas de remuneración autorizadas.
 

@@ -17,4 +17,4 @@ source_sha256: b3c906475b455176de73da17f4f93a73f295965dc9bcca854b48417c7d4d3cfc
 
 # Artículo 77
 
-El aviso es la comunicación que deben presentar en formatos oficiales los sujetos señalados en esta Ley, a la SEMARNAT o a la SAGARPA, según corresponda conforme a este ordenamiento, respecto de la utilización confinada de OGMs en los casos que se establecen en este capítulo.
+El aviso es la comunicación que deben presentar en formatos oficiales los sujetos señalados en esta Ley, a la [SEMARNAT](articulo-3.md) o a la [SAGARPA](articulo-3.md), según corresponda conforme a este ordenamiento, respecto de la utilización confinada de OGMs en los casos que se establecen en este capítulo.

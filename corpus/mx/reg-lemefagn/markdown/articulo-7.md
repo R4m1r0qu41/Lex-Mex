@@ -17,6 +17,6 @@ source_sha256: 703f083c0baedfb4ef5ce8b62c78684d8ee0073f393321d476d75ebe4878e1d5
 
 # Artículo 7
 
-La infraestructura de las Instituciones Educativas estará provista de los recursos humanos, materiales, técnicos, financieros e instalaciones para atender cuantitativa y cualitativamente las necesidades de la Educación del Ejército, Fuerza Aérea y Guardia Nacional.
+La infraestructura de las [Instituciones Educativas](articulo-3.md) estará provista de los recursos humanos, materiales, técnicos, financieros e instalaciones para atender cuantitativa y cualitativamente las necesidades de la Educación del Ejército, Fuerza Aérea y Guardia Nacional.
 
 Artículo reformado DOF 20-03-2026

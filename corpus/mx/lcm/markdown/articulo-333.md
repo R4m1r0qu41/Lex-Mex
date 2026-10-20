@@ -17,7 +17,7 @@ source_sha256: 8e270686b885035488bfe310b0b42bb40e7154431794227ebe212dd7dc12e46a
 
 # Artículo 333
 
-El visitador, conciliador y el síndico, así como sus auxiliares, tendrán derecho al cobro de honorarios por la realización de las funciones que esta Ley les encomienda. El régimen aplicable a los honorarios será determinado por el [Instituto](articulo-4o.md) mediante reglas de carácter general, de conformidad con lo siguiente:
+El visitador, conciliador y el síndico, así como sus auxiliares, tendrán derecho al cobro de honorarios por la realización de las funciones que esta [Ley](articulo-4o.md) les encomienda. El régimen aplicable a los honorarios será determinado por el [Instituto](articulo-4o.md) mediante reglas de carácter general, de conformidad con lo siguiente:
 
 I. Serán considerados como gastos de operación ordinaria del [Comerciante](articulo-4o.md), por lo que, al equipararse al supuesto establecido en el artículo [75](articulo-75.md), no se deberá interrumpir su pago por quien tenga la administración, sin importar la etapa en que se encuentre el procedimiento concursal; Fracción reformada DOF 27-12-2007
 

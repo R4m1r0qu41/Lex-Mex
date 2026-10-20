@@ -25,7 +25,7 @@ II. El ahorro, cuando se integre por un depósito de cantidad semanaria, quincen
 
 III. Las aportaciones adicionales que el patrón convenga otorgar a favor de sus trabajadores por concepto de cuotas del seguro de retiro, cesantía en edad avanzada y vejez;
 
-IV. Las cuotas que en términos de esta Ley le corresponde cubrir al patrón, las aportaciones al Instituto del Fondo Nacional de la Vivienda para los Trabajadores, y las participaciones en las utilidades de la empresa;
+IV. Las cuotas que en términos de esta [Ley](articulo-5-A.md) le corresponde cubrir al patrón, las aportaciones al [Instituto](articulo-5-A.md) del Fondo Nacional de la Vivienda para los Trabajadores, y las participaciones en las utilidades de la empresa;
 
 V. La alimentación y la habitación cuando se entreguen en forma onerosa a los trabajadores; se entiende que son onerosas estas prestaciones cuando el trabajador pague por cada una de ellas, como mínimo, el veinte por ciento del salario mínimo general diario que rija en el Distrito Federal;
 

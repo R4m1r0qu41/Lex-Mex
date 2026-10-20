@@ -15,4 +15,4 @@ source_sha256: d9ffbbf8f19b54a93ff577abb1266e4be1316d935e79fad655242955fd80ff70
 
 # CUARTO
 
-El impacto presupuestal que implique la puesta en operación de la presente Ley, será con cargo al presupuesto autorizado a la Secretaría de Marina, por lo que no requerirá ampliaciones a su presupuesto para el presente ejercicio fiscal y los subsecuentes, hasta cubrir los requerimientos de personal, de gasto de operación, infraestructura, mobiliario y equipo.
+El impacto presupuestal que implique la puesta en operación de la presente [Ley](articulo-2.md), será con cargo al presupuesto autorizado a la [Secretaría](articulo-2.md) de Marina, por lo que no requerirá ampliaciones a su presupuesto para el presente ejercicio fiscal y los subsecuentes, hasta cubrir los requerimientos de personal, de gasto de operación, infraestructura, mobiliario y equipo.

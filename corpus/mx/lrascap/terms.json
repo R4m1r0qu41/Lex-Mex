@@ -130,5 +130,16 @@
     "start_char": 2113,
     "end_char": 2553,
     "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrascap:term:zona-rural",
+    "term": "Zona Rural",
+    "instrument_id": "urn:lex-mx:federal:statute:lrascap",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lrascap:article:2",
+    "fraction": "XIII",
+    "start_char": 2553,
+    "end_char": 2796,
+    "basis": "express_definition"
   }
 ]

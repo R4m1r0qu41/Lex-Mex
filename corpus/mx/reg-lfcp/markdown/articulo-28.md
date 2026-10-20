@@ -17,4 +17,4 @@ source_sha256: 43723ba379e128c1a1c1be4b085ecc870946cdec43d56f83e7314c077361368f
 
 # Artículo 28
 
-En caso de pérdida o destrucción del sello, el corredor deberá notificar a la Secretaría, al Registro Público de Comercio respectivo y, en su caso, al colegio de corredores local; tratándose de robo deberá, además, levantar acta ante el ministerio público que corresponda.
+En caso de pérdida o destrucción del sello, el corredor deberá notificar a la [Secretaría](articulo-2o.md), al Registro Público de Comercio respectivo y, en su caso, al colegio de corredores local; tratándose de robo deberá, además, levantar acta ante el ministerio público que corresponda.

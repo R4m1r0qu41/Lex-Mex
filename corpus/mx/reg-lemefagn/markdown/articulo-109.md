@@ -17,7 +17,7 @@ source_sha256: 703f083c0baedfb4ef5ce8b62c78684d8ee0073f393321d476d75ebe4878e1d5
 
 # Artículo 109
 
-El proceso de admisión a las Instituciones Educativas y Cursos que imparten las Jefaturas, es el conjunto de actividades encaminadas a satisfacer las necesidades de profesionalización y capacitación de la Secretaría, a través de la selección del personal que reúna las características señaladas en el perfil de ingreso.
+El proceso de admisión a las [Instituciones Educativas](articulo-3.md) y Cursos que imparten las Jefaturas, es el conjunto de actividades encaminadas a satisfacer las necesidades de profesionalización y capacitación de la Secretaría, a través de la selección del personal que reúna las características señaladas en el perfil de ingreso.
 
 Estas actividades tienen como finalidad captar a las personas aspirantes que reúnan las mejores condiciones de salud, capacidad física, preparación académica y adaptabilidad al medio militar para cursar los estudios que se impartan. Párrafo reformado DOF 20-03-2026
 

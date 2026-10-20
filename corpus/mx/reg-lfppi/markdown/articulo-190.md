@@ -17,4 +17,4 @@ source_sha256: 51dd3b9347aab0e63387e02f689edd4fa3ea43a93933a0027f9a9977fffba83d
 
 # Artículo 190
 
-La solicitud del procedimiento de emisión de resolución obligatoria de patentes o registros deberá cumplir, además de los requisitos señalados en el artículo [11](articulo-11.md) de este Reglamento, con los siguientes: I.- La fecha de presentación de la solicitud o promoción respecto de la cual se solicita la emisión de resolución obligatoria de patentes o registros; II.- El número de expediente, en su caso, y III.- Los argumentos de la persona solicitante sobre la procedencia de la emisión de resolución obligatoria.
+La solicitud del procedimiento de emisión de resolución obligatoria de patentes o registros deberá cumplir, además de los requisitos señalados en el artículo [11](articulo-11.md) de este [Reglamento](articulo-2.md), con los siguientes: I.- La fecha de presentación de la solicitud o promoción respecto de la cual se solicita la emisión de resolución obligatoria de patentes o registros; II.- El número de expediente, en su caso, y III.- Los argumentos de la persona solicitante sobre la procedencia de la emisión de resolución obligatoria.

@@ -17,4 +17,4 @@ source_sha256: 7679afbbf32749e0c0bacab72644d41fc6ccdeeab3a2f25dfae8d26a065de01e
 
 # Artículo 18
 
-Los Vehículos de Propósito Específico deberán presentar sus estados financieros, en los términos que establezca la Secretaría, de conformidad con lo previsto en el Reglamento de esta Ley.
+Los [Vehículos de Propósito Específico](articulo-4.md) deberán presentar sus estados financieros, en los términos que establezca la [Secretaría](articulo-4.md), de conformidad con lo previsto en el [Reglamento](articulo-4.md) de esta [Ley](articulo-4.md).

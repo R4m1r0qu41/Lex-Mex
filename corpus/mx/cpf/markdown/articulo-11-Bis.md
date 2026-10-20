@@ -53,25 +53,25 @@ XVI. En materia de derechos de autor, previsto en el artículo [424 Bis](articul
 
 B. De los delitos establecidos en los siguientes ordenamientos:
 
-I. Acopio y tráfico de armas, previstos en los artículos 83 Bis y 84, de la Ley Federal de Armas de Fuego y Explosivos;
+I. Acopio y tráfico de armas, previstos en los artículos [83 Bis](../../lfafe/markdown/articulo-83-Bis.md) y [84](../../lfafe/markdown/articulo-84.md), de la Ley Federal de Armas de Fuego y Explosivos;
 
-II. Tráfico de personas, previsto en el artículo 159, de la Ley de Migración;
+II. Tráfico de personas, previsto en el artículo [159](../../lmigra/markdown/articulo-159.md), de la Ley de Migración;
 
-III. Tráfico de órganos, previsto en los artículos 461, 462 y 462 Bis, de la Ley General de Salud;
+III. Tráfico de órganos, previsto en los artículos [461](../../lgs/markdown/articulo-461.md), [462](../../lgs/markdown/articulo-462.md) y [462 Bis](../../lgs/markdown/articulo-462-Bis.md), de la Ley General de Salud;
 
-IV. Trata de personas, previsto en los artículos 10 al 38 de la Ley General para Prevenir, Sancionar y Erradicar los delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos;
+IV. Trata de personas, previsto en los artículos [10](../../lgtrata/markdown/articulo-10.md) al [38](../../lgtrata/markdown/articulo-38.md) de la Ley General para Prevenir, Sancionar y Erradicar los delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos;
 
-V. Introducción clandestina de armas de fuego que no están reservadas al uso exclusivo del Ejército, Armada o Fuerza Aérea, previsto en el artículo 84 Bis, de la Ley Federal de Armas de Fuego y Explosivos;
+V. Introducción clandestina de armas de fuego que no están reservadas al uso exclusivo del Ejército, Armada o Fuerza Aérea, previsto en el artículo [84 Bis](../../lfafe/markdown/articulo-84-Bis.md), de la Ley Federal de Armas de Fuego y Explosivos;
 
-VI. De la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, los previstos en los artículos [9](articulo-9o.md), [10](articulo-10.md), [11](articulo-11.md) y [15](articulo-15.md); VII. Contrabando y su equiparable, previstos en los artículos 102 y 105 del Código Fiscal de la Federación;
+VI. De la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo [73](../../cpeum/markdown/articulo-73.md) de la Constitución Política de los Estados Unidos Mexicanos, los previstos en los artículos [9](articulo-9o.md), [10](articulo-10.md), [11](articulo-11.md) y [15](articulo-15.md); VII. Contrabando y su equiparable, previstos en los artículos [102](../../cff/markdown/articulo-102.md) y [105](../../cff/markdown/articulo-105.md) del Código Fiscal de la Federación;
 
-VIII. Defraudación Fiscal y su equiparable, previstos en los artículos 108 y 109, del Código Fiscal de la Federación;
+VIII. Defraudación Fiscal y su equiparable, previstos en los artículos [108](../../cff/markdown/articulo-108.md) y [109](../../cff/markdown/articulo-109.md), del Código Fiscal de la Federación;
 
 VIII Bis. Del Código Fiscal de la Federación, el delito previsto en el artículo 113 Bis; Fracción adicionada DOF 08-11-2019
 
 IX. De la Ley de la Propiedad Industrial, los delitos previstos en el artículo [223](articulo-223.md);
 
-X. De la Ley de Instituciones de Crédito, los previstos en los artículos [111](articulo-111.md); 111 Bis; [112](articulo-112.md); 112 Bis; 112 Ter; 112 Quáter; [112](articulo-112.md) Quintus; 113 Bis y 113 Bis 3;
+X. De la Ley de Instituciones de Crédito, los previstos en los artículos [111](articulo-111.md); 111 Bis; [112](articulo-112.md); 112 Bis; 112 Ter; 112 Quáter; 112 Quintus; 113 Bis y 113 Bis 3;
 
 XI. De la Ley General de Títulos y Operaciones de Crédito, los previstos en los artículos 432, 433 y 434;
 
@@ -91,13 +91,15 @@ XVIII. De la Ley de Ahorro y Crédito Popular, los previstos en los artículos 1
 
 XIX. De la Ley de Concursos Mercantiles, los previstos en los artículos [117](articulo-117.md) y [271](articulo-271.md);
 
-XX. Los previstos en el artículo 49 de la Ley Federal para el Control de Sustancias Químicas Susceptibles de desvío para la fabricación de Armas Químicas;
+XX. Los previstos en el artículo [49](../../lfcsq/markdown/articulo-49.md) de la Ley Federal para el Control de Sustancias Químicas Susceptibles de desvío para la fabricación de Armas Químicas;
 
 XXI. Los previstos en los artículos 8, 9, 10, 12, 13, 14, 15, 16, 17, 18 y 19 de la Ley Federal para Prevenir y Sancionar los Delitos en Materia de Hidrocarburos. Fracción reformada DOF 01-06-2018
 
-XXII. El delito de extorsión previsto en la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos; Fracción adicionada DOF 28-11-2025
+XXII. El delito de extorsión previsto en la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo [73](../../cpeum/markdown/articulo-73.md) de la Constitución Política de los Estados Unidos Mexicanos; Fracción adicionada DOF 28-11-2025
 
-XXIII. En los demás casos expresamente previstos en la legislación aplicable. Fracción recorrida DOF 28-11-2025 Para los efectos del artículo 422 del Código Nacional de Procedimientos Penales, se estará a los siguientes límites de punibilidad para las consecuencias jurídicas de las personas jurídicas:
+XXIII. En los demás casos expresamente previstos en la legislación aplicable. Fracción recorrida DOF 28-11-2025
+
+Para los efectos del artículo [422](../../cnpp/markdown/articulo-422.md) del Código Nacional de Procedimientos Penales, se estará a los siguientes límites de punibilidad para las consecuencias jurídicas de las personas jurídicas:
 
 a) Suspensión de actividades, por un plazo de entre seis meses a seis años.
 
@@ -111,6 +113,6 @@ e) Intervención judicial para salvaguardar los derechos de los trabajadores o d
 
 La intervención judicial podrá afectar a la totalidad de la organización o limitarse a alguna de sus instalaciones, secciones o unidades de negocio. Se determinará exactamente el alcance de la intervención y quién se hará cargo de la misma, así como los plazos en que deberán realizarse los informes de seguimiento para el órgano judicial. La intervención judicial se podrá modificar o suspender en todo momento previo informe del interventor y del Ministerio Público. El interventor tendrá derecho a acceder a todas las instalaciones y locales de la empresa o persona jurídica, así como a recibir cuanta información estime necesaria para el ejercicio de sus funciones. La legislación aplicable determinará los aspectos relacionados con las funciones del interventor y su retribución respectiva.
 
-En todos los supuestos previstos en el artículo 422 del Código Nacional de Procedimientos Penales, las sanciones podrán atenuarse hasta en una cuarta parte, si con anterioridad al hecho que se les imputa, las personas jurídicas contaban con un órgano de control permanente, encargado de verificar el cumplimiento de las disposiciones legales aplicables para darle seguimiento a las políticas internas de prevención delictiva y que hayan realizado antes o después del hecho que se les imputa, la disminución del daño provocado por el hecho típico.
+En todos los supuestos previstos en el artículo [422](../../cnpp/markdown/articulo-422.md) del Código Nacional de Procedimientos Penales, las sanciones podrán atenuarse hasta en una cuarta parte, si con anterioridad al hecho que se les imputa, las personas jurídicas contaban con un órgano de control permanente, encargado de verificar el cumplimiento de las disposiciones legales aplicables para darle seguimiento a las políticas internas de prevención delictiva y que hayan realizado antes o después del hecho que se les imputa, la disminución del daño provocado por el hecho típico.
 
 Artículo adicionado DOF 17-06-2016

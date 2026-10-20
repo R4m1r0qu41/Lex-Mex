@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf
 source_sha256: ca63a23a4b7444ebdbdad93759fbf46bd14c069e587c5878decf89fc9c12ca8e
 ---
 
+> Título Tercero · Capítulo II
+
 # Artículo 72
 
 Todo proyecto de ley o decreto, cuya resolución no sea exclusiva de alguna de las Cámaras, se discutirá sucesivamente en ambas, observándose la Ley del Congreso y sus reglamentos respectivos, sobre la forma, intervalos y modo de proceder en las discusiones y votaciones: Párrafo reformado DOF 17-08-2011
@@ -36,5 +38,3 @@ H. La formación de las leyes o decretos puede comenzar indistintamente en cualq
 I (sic DOF 24-11-1923). El Ejecutivo de la Unión no puede hacer observaciones a las resoluciones del Congreso o de alguna de las Cámaras, cuando ejerzan funciones de cuerpo electoral o de jurado, lo mismo que cuando la Cámara de Diputados declare que debe acusarse a uno de los altos funcionarios de la Federación por delitos oficiales.
 
 Tampoco podrá hacerlas al Decreto de convocatoria a sesiones extraordinarias que expida la Comisión Permanente. Inciso reformado DOF 24-11-1923
-
-Sección III De las Facultades del Congreso

@@ -18,4 +18,4 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 17 Bis 32
 
-Las Sociedades deberán implementar las acciones correctivas que la Comisión les requiera, como resultado de la identificación de riesgos asociados con el uso de [Servicios Electrónicos](articulo-1.md).
+Las Sociedades deberán implementar las acciones correctivas que la [Comisión](articulo-1.md) les requiera, como resultado de la identificación de riesgos asociados con el uso de [Servicios Electrónicos](articulo-1.md).

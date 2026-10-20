@@ -17,7 +17,7 @@ source_sha256: d9ffbbf8f19b54a93ff577abb1266e4be1316d935e79fad655242955fd80ff70
 
 # Artículo 44
 
-Para la imposición de las sanciones por infracciones a la presente Ley, la Secretaría deberá tomar en consideración las circunstancias siguientes:
+Para la imposición de las sanciones por infracciones a la presente [Ley](articulo-2.md), la [Secretaría](articulo-2.md) deberá tomar en consideración las circunstancias siguientes:
 
 I. Los riesgos o daños producidos o que puedan producirse en la salud humana; la generación de desequilibrio ecológico; la afectación de recursos naturales o de la biodiversidad;
 

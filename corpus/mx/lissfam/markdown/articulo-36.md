@@ -19,7 +19,7 @@ source_sha256: 35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc
 
 Tienen derecho a compensación los militares que tengan cinco o más años de servicio, sin llegar a veinte, que se encuentren comprendidos en los siguientes casos:
 
-I. Haber llegado a la edad límite que fija el artículo [25](articulo-25.md) de esta Ley;
+I. Haber llegado a la edad límite que fija el artículo [25](articulo-25.md) de esta [Ley](articulo-4o.md);
 
 II. Haberse incapacitado en actos fuera de servicio; Fracción reformada DOF 20-11-2008
 

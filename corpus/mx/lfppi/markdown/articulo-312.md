@@ -19,7 +19,7 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 Procederá la cancelación de la autorización de uso de una denominación de origen o indicación geográfica protegida cuando la persona usuaria autorizada: Párrafo reformado DOF 03-04-2026
 
-I.- La use en forma diferente a la establecida en la declaración de protección, o lo dispuesto por esta Ley;
+I.- La use en forma diferente a la establecida en la declaración de protección, o lo dispuesto por esta [Ley](articulo-4.md);
 
 II.- Omita aplicar las leyendas o siglas a las que se refiere el artículo [302](articulo-302.md) de esta Ley;
 

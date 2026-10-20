@@ -17,4 +17,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Artículo 188
 
-La Comisión debe determinar la contraprestación, precio o tarifa de forma oficiosa, de conformidad con lo establecido en la Normatividad vigente, en caso de que el solicitante no desahogue la prevención referida en la fracción II del [artículo anterior](articulo-187.md), sin perjuicio de las sanciones que correspondan.
+La [Comisión](articulo-3.md) debe determinar la contraprestación, precio o tarifa de forma oficiosa, de conformidad con lo establecido en la [Normatividad](articulo-3.md) vigente, en caso de que el solicitante no desahogue la prevención referida en la fracción II del [artículo anterior](articulo-187.md), sin perjuicio de las sanciones que correspondan.

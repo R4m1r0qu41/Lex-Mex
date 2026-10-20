@@ -17,4 +17,4 @@ source_sha256: ea96e97cbea2fd1919af78b94cd3466ee20a77e05989be2d482d2eb8061618c5
 
 # Artículo 13
 
-Los bienes sujetos al régimen de dominio público de la Federación son inalienables, imprescriptibles e inembargables y no estarán sujetos a acción reivindicatoria o de posesión definitiva o provisional, o alguna otra por parte de terceros.
+Los bienes sujetos al régimen de dominio público de la [Federación](articulo-2.md) son inalienables, imprescriptibles e inembargables y no estarán sujetos a acción reivindicatoria o de posesión definitiva o provisional, o alguna otra por parte de terceros.

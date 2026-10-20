@@ -17,4 +17,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Artículo 54
 
-Durante los procedimientos de licitación, la Secretaría puede solicitar el apoyo de la Secretaría de Hacienda y Crédito Público, en el ámbito de sus atribuciones, cuando existan aclaraciones a las bases de los procedimientos de licitación y adjudicación de Contratos para la Exploración y Extracción y, en su caso, requerir las modificaciones correspondientes.
+Durante los procedimientos de licitación, la [Secretaría](articulo-3.md) puede solicitar el apoyo de la Secretaría de Hacienda y Crédito Público, en el ámbito de sus atribuciones, cuando existan aclaraciones a las bases de los procedimientos de licitación y adjudicación de Contratos para la Exploración y Extracción y, en su caso, requerir las modificaciones correspondientes.

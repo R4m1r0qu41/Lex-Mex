@@ -17,4 +17,4 @@ source_sha256: b34326588bd6e7519e33411d3658239e3aefb56cef0fae5d775bc894af64a565
 
 # Artículo 75
 
-La Secretaría y las autoridades locales competentes, según corresponda, serán responsables de llevar a cabo acciones para identificar, inventariar, registrar y categorizar los sitios contaminados con residuos peligrosos, con objeto de determinar si procede su remediación, de conformidad con los criterios que para tal fin se establezcan en el Reglamento.
+La [Secretaría](articulo-5.md) y las autoridades locales competentes, según corresponda, serán responsables de llevar a cabo acciones para identificar, inventariar, registrar y categorizar los sitios contaminados con residuos peligrosos, con objeto de determinar si procede su remediación, de conformidad con los criterios que para tal fin se establezcan en el [Reglamento](articulo-5.md).

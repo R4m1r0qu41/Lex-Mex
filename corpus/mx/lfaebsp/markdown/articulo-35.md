@@ -17,6 +17,6 @@ source_sha256: 269e72195414406bcbd3e90ac40ec26e031a9ea519316c44ee30bdfdf3163059
 
 # Artículo 35
 
-Para la donación de los Bienes, el Instituto, se apoyará del Comité de Donaciones, el cual se integrará y regirá de acuerdo con lo que al respecto se establezca en el Reglamento.
+Para la donación de los [Bienes](articulo-2o.md), el [Instituto](articulo-2o.md), se apoyará del Comité de Donaciones, el cual se integrará y regirá de acuerdo con lo que al respecto se establezca en el [Reglamento](articulo-2o.md).
 
 Artículo reformado DOF 09-08-2019

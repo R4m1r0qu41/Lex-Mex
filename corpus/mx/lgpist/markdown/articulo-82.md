@@ -17,6 +17,6 @@ source_sha256: 1e7d06c67fac4c8a100d2bb2845cc765fba5e8ce09d27d30b2b44432ffeb8c41
 
 # Artículo 82
 
-No se podrá alegar la reserva o confidencialidad de la información que sea requerida por el Mecanismo Nacional de Prevención.
+No se podrá alegar la reserva o confidencialidad de la información que sea requerida por el [Mecanismo Nacional de Prevención](articulo-5.md).
 
 El uso y tratamiento de la información recabada por el Mecanismo Nacional de Prevención estará sujeta a la legislación aplicable en materia de transparencia, acceso a la información pública y protección de datos personales, en particular la que tenga el carácter de reservada y confidencial.

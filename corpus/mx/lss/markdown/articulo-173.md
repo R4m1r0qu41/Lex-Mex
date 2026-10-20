@@ -17,7 +17,7 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 173
 
-El Instituto suspenderá el pago de la pensión garantizada cuando el pensionado reingrese a un trabajo sujeto al régimen obligatorio.
+El [Instituto](articulo-5-A.md) suspenderá el pago de la pensión garantizada cuando el pensionado reingrese a un trabajo sujeto al régimen obligatorio.
 
 El pensionado por cesantía en edad avanzada o vejez que disfrute de una pensión garantizada no podrá recibir otra de igual naturaleza.
 

@@ -23,8 +23,8 @@ I. Las de OGMs que cuenten con permiso para su liberación comercial o para su i
 
 II. Las de OGMs que no cuenten con permiso para su liberación comercial o para su importación para esa actividad;
 
-III. Las de OGMs que cuenten con autorización por la SSA, y
+III. Las de OGMs que cuenten con autorización por la [SSA](articulo-3.md), y
 
 IV. Las de OGMs para realizar actividades de utilización confinada de OGMs con fines de enseñanza y de investigación científica y tecnológica.
 
-Las listas de OGMs a que se refiere este artículo serán expedidas y publicadas por las Secretarías competentes con la periodicidad que establezcan las disposiciones reglamentarias que deriven de esta Ley y de acuerdo a lo establecido en el presente Título. Tendrán como finalidad dar a conocer a los interesados y al público en general el resultado de las resoluciones que expidan respecto de las solicitudes de permisos y autorizaciones.
+Las listas de OGMs a que se refiere este artículo serán expedidas y publicadas por las [Secretarías](articulo-3.md) competentes con la periodicidad que establezcan las disposiciones reglamentarias que deriven de esta Ley y de acuerdo a lo establecido en el presente Título. Tendrán como finalidad dar a conocer a los interesados y al público en general el resultado de las resoluciones que expidan respecto de las solicitudes de permisos y autorizaciones.

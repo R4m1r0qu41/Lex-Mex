@@ -17,4 +17,4 @@ source_sha256: 1e7d06c67fac4c8a100d2bb2845cc765fba5e8ce09d27d30b2b44432ffeb8c41
 
 # Artículo 38
 
-En todos los casos en los que las Víctimas deban ser examinadas, los peritos deberán recabar el consentimiento informado o la negativa, debiendo constar por escrito debidamente firmado por las mismas antes de examinarlas, salvo que ésta no pueda prestarlo en razón de las lesiones sufridas u otras causas, en cuyo caso deberá obtenerse la autorización por parte de un familiar o de la autoridad jurisdiccional.
+En todos los casos en los que las [Víctimas](articulo-5.md) deban ser examinadas, los peritos deberán recabar el consentimiento informado o la negativa, debiendo constar por escrito debidamente firmado por las mismas antes de examinarlas, salvo que ésta no pueda prestarlo en razón de las lesiones sufridas u otras causas, en cuyo caso deberá obtenerse la autorización por parte de un familiar o de la autoridad jurisdiccional.

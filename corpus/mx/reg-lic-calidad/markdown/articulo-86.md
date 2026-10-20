@@ -17,4 +17,4 @@ source_sha256: d23aedc9ffdb09b9202311f03023241da20445cb45aea855b37bfd9685768861
 
 # Artículo 86
 
-Las Autoridades Normalizadoras pueden realizar la Evaluación de la Conformidad de manera directa, en términos del artículo [66](../../lic-calidad/markdown/articulo-66.md) de la Ley, cuando: I. Cuenten con recursos e infraestructura propia para realizar los procedimientos de la Evaluación de la Conformidad correspondiente, y II. Cuenten con la capacidad técnica o científica que le permitan valorar los requisitos que se solicitan en la evaluación de la conformidad.
+Las Autoridades Normalizadoras pueden realizar la Evaluación de la Conformidad de manera directa, en términos del artículo [66](../../lic-calidad/markdown/articulo-66.md) de la [Ley](articulo-2.md), cuando: I. Cuenten con recursos e infraestructura propia para realizar los procedimientos de la Evaluación de la Conformidad correspondiente, y II. Cuenten con la capacidad técnica o científica que le permitan valorar los requisitos que se solicitan en la evaluación de la conformidad.

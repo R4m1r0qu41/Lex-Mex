@@ -17,7 +17,7 @@ source_sha256: 51d855a586ad7017a8d8f5c36819a2bd0d3d488f3f4b23594a729418a8b776b4
 
 # Artículo 83
 
-Recibida la solicitud, será turnada al Comité Interdisciplinario Evaluador, mismo que integrará el expediente del asunto en un plazo máximo de cuatro días hábiles, contados a partir de la presentación de la misma.
+Recibida la solicitud, será turnada al [Comité](articulo-3.md) Interdisciplinario Evaluador, mismo que integrará el expediente del asunto en un plazo máximo de cuatro días hábiles, contados a partir de la presentación de la misma.
 
 El expediente debe contener los siguientes elementos:
 

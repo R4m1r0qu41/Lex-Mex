@@ -17,4 +17,4 @@ source_sha256: 45deb87bfd634dfbd1cb7d9fd67a476ad954187908eb0cb06256c90ccc0feb80
 
 # Artículo 58
 
-Los criterios de calidad del café serán establecidos con base en las Normas Oficiales Mexicanas expedidas por las autoridades normalizadoras, en coordinación con la Secretaría de Economía, de conformidad con la Ley de Infraestructura de la Calidad. Dichos criterios deberán calificar: I. La calidad en la producción de aquellas variedades de café mexicano que cumplan con condiciones específicas para su comercialización, y II. La calidad del beneficio en el procesamiento de los granos para su comercialización.
+Los criterios de calidad del café serán establecidos con base en las Normas Oficiales Mexicanas expedidas por las autoridades normalizadoras, en coordinación con la [Secretaría](articulo-3.md) de Economía, de conformidad con la Ley de Infraestructura de la Calidad. Dichos criterios deberán calificar: I. La calidad en la producción de aquellas variedades de café mexicano que cumplan con condiciones específicas para su comercialización, y II. La calidad del beneficio en el procesamiento de los granos para su comercialización.

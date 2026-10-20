@@ -17,8 +17,8 @@ source_sha256: d9ffbbf8f19b54a93ff577abb1266e4be1316d935e79fad655242955fd80ff70
 
 # Artículo 3 Ter
 
-Las disposiciones de la presente Ley no se aplican a la evacuación o el almacenamiento de desechos u otras materias que resulten directamente de la exploración, explotación y consiguiente tratamiento mar adentro de los recursos minerales del lecho o subsuelo marino, o que estén relacionadas con dichas actividades.
+Las disposiciones de la presente [Ley](articulo-2.md) no se aplican a la evacuación o el almacenamiento de desechos u otras materias que resulten directamente de la exploración, explotación y consiguiente tratamiento mar adentro de los recursos minerales del lecho o subsuelo marino, o que estén relacionadas con dichas actividades.
 
-Excepto las materias o desechos que por sus dimensiones y características representen un impacto ambiental adverso al medio ambiente marino, en cuyo caso, en aplicación del principio precautorio en materia ambiental, la autoridad competente antes de autorizar la evacuación o el almacenamiento en zonas marinas mexicanas deberá contar con la opinión favorable de la Secretaría, de conformidad con lo previsto en las Normas Oficiales Mexicanas que al efecto se expidan.
+Excepto las materias o desechos que por sus dimensiones y características representen un impacto ambiental adverso al medio ambiente marino, en cuyo caso, en aplicación del principio precautorio en materia ambiental, la autoridad competente antes de autorizar la evacuación o el almacenamiento en zonas marinas mexicanas deberá contar con la opinión favorable de la [Secretaría](articulo-2.md), de conformidad con lo previsto en las Normas Oficiales Mexicanas que al efecto se expidan.
 
 Artículo adicionado DOF 13-04-2020

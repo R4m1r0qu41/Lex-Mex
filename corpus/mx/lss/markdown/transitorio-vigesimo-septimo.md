@@ -15,4 +15,4 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # VIGESIMO SEPTIMO
 
-El pago de las cuotas obrero patronales respecto del seguro de retiro, cesantía en edad avanzada y vejez, continuará realizándose en forma bimestral, hasta en tanto no se homológuen los períodos de pago de las Leyes del ISSSTE e INFONAVIT.
+El pago de las cuotas obrero patronales respecto del seguro de retiro, cesantía en edad avanzada y vejez, continuará realizándose en forma bimestral, hasta en tanto no se homológuen los períodos de pago de las [Leyes](articulo-5-A.md) del ISSSTE e INFONAVIT.

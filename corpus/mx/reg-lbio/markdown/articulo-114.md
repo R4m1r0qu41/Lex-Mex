@@ -17,4 +17,4 @@ source_sha256: 7df3d678efda2306b68d3c0f5ca0e3e92b9066d5f773128f4ae19cb26bf44fff
 
 # Artículo 114
 
-Las personas interesadas en recibir el reconocimiento a los esfuerzos más destacados deben presentar ante la SENER una manifestación mediante la cual señalen su interés por participar. La SENER debe evaluar y entregar el reconocimiento de conformidad con los lineamientos que para tal efecto emita.
+Las personas interesadas en recibir el reconocimiento a los esfuerzos más destacados deben presentar ante la [SENER](articulo-3.md) una manifestación mediante la cual señalen su interés por participar. La SENER debe evaluar y entregar el reconocimiento de conformidad con los lineamientos que para tal efecto emita.

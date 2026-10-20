@@ -17,4 +17,4 @@ source_sha256: 51dd3b9347aab0e63387e02f689edd4fa3ea43a93933a0027f9a9977fffba83d
 
 # Artículo 91
 
-El consentimiento al que se refieren los artículos [88](articulo-88.md) a [90](articulo-90.md) de este Reglamento, sólo podrá ser invalidado mediante resolución judicial.
+El consentimiento al que se refieren los artículos [88](articulo-88.md) a [90](articulo-90.md) de este [Reglamento](articulo-2.md), sólo podrá ser invalidado mediante resolución judicial.

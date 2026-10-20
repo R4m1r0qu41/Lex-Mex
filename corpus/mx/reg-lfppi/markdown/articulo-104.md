@@ -17,4 +17,4 @@ source_sha256: 51dd3b9347aab0e63387e02f689edd4fa3ea43a93933a0027f9a9977fffba83d
 
 # Artículo 104
 
-Lo establecido en este Reglamento para las marcas será aplicable, en lo conducente, a los nombres comerciales en lo que no haya disposición especial.
+Lo establecido en este [Reglamento](articulo-2.md) para las marcas será aplicable, en lo conducente, a los nombres comerciales en lo que no haya disposición especial.

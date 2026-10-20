@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf
 source_sha256: 43927095d22ff7bc7780e78132d2160b5050b5f76026b539daec32be09d7341d
 ---
 
+> Título Primero · Capítulo I
+
 # Artículo 4o
 
 Las personas que operen o administren puertos de altura, aeropuertos internacionales o presten los servicios auxiliares de terminales ferroviarias de pasajeros y de carga, deberán cumplir con los lineamientos que determinen las autoridades aduaneras para el control, vigilancia y seguridad del recinto fiscal y de las mercancías de comercio exterior, para lo cual estarán obligadas a: Párrafo reformado DOF 30-12-2002

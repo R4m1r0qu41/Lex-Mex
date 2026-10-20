@@ -17,4 +17,4 @@ source_sha256: 8262a75eac7bfb608d4f48657ffb2714fe115d0b9694c42ac81624fd275bf5f6
 
 # Artículo 22
 
-Las Contraprestaciones a favor del Contratista establecidas en los Contratos de servicios se pagarán por el Fondo Mexicano del Petróleo con los recursos generados por la comercialización de la Producción Contractual que derive de cada Contrato de servicios.
+Las [Contraprestaciones](articulo-3.md) a favor del Contratista establecidas en los [Contratos](articulo-3.md) de servicios se pagarán por el [Fondo Mexicano del Petróleo](articulo-3.md) con los recursos generados por la comercialización de la [Producción Contractual](articulo-3.md) que derive de cada Contrato de servicios.

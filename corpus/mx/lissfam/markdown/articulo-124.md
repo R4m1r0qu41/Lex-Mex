@@ -17,4 +17,4 @@ source_sha256: 35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc
 
 # Artículo 124
 
-Los militares en servicio activo que ocupen temporalmente las casas del Instituto en términos del contrato respectivo, se obligarán a pagar mensualmente por este concepto, un porcentaje del total de las percepciones que obtengan en la pagaduría de su adscripción. El porcentaje será fijado por la Junta Directiva y lo revisará cada dos años para actualizarlo.
+Los militares en servicio activo que ocupen temporalmente las casas del [Instituto](articulo-4o.md) en términos del contrato respectivo, se obligarán a pagar mensualmente por este concepto, un porcentaje del total de las percepciones que obtengan en la pagaduría de su adscripción. El porcentaje será fijado por la [Junta](articulo-4o.md) Directiva y lo revisará cada dos años para actualizarlo.

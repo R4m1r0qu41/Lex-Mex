@@ -17,4 +17,4 @@ source_sha256: cb15a70b51a87cff0f6d329d5e8a97617d71c955e46da65921037a77a83ca5f4
 
 # Artículo 7
 
-Para los efectos del artículo [9](../../lieps/markdown/articulo-9o.md)o. de la Ley, se entiende que la enajenación se realiza en territorio nacional, aun cuando la entrega material de los bienes se efectúe en los recintos fiscales o fiscalizados considerados como tales en la legislación aduanera.
+Para los efectos del artículo [9](../../lieps/markdown/articulo-9o.md)o. de la [Ley](articulo-1.md), se entiende que la enajenación se realiza en territorio nacional, aun cuando la entrega material de los bienes se efectúe en los recintos fiscales o fiscalizados considerados como tales en la legislación aduanera.

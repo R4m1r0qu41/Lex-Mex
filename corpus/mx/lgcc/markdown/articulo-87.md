@@ -17,7 +17,7 @@ source_sha256: fa7447754261e46a344d4b49a9be0e1a5bd0eaf28c1ef12c721c124fe39e7b15
 
 # Artículo 87
 
-La [Secretaría](articulo-3o.md), deberá integrar y hacer público de forma agregada el Registro de emisiones generadas por las fuentes fijas y móviles de emisiones que se identifiquen como sujetas a reporte. Párrafo reformado DOF 13-07-2018
+La [Secretaría](articulo-3o.md), deberá integrar y hacer público de forma agregada el [Registro](articulo-3o.md) de emisiones generadas por las fuentes fijas y móviles de emisiones que se identifiquen como sujetas a reporte. Párrafo reformado DOF 13-07-2018
 
 Las disposiciones reglamentarias de la presente [Ley](articulo-3o.md) identificarán las fuentes que deberán reportar en el Registro por sector, subsector y actividad, asimismo establecerán los siguientes elementos para la integración del Registro:
 

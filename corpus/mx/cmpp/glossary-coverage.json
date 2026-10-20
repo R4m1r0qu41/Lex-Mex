@@ -1,0 +1,36 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-3",
+  "instrument_id": "urn:lex-mx:federal:code:cmpp",
+  "source_sha256": "351c69a7bc3f61976933d76e45cf185a721a331a145778dd3f315df5216a5e32",
+  "extracted_text_sha256": "2043cb328bf7cec8db41978736c16fac396d46bb36df11beb1838ac9353e9556",
+  "status": "detected",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:code:cmpp:article:3",
+      "provision_text_sha256": "15d5c2e5018a27a5a702419fb7f2cbae88eae5c01f2a39c85f2bd7fdf471d8da",
+      "method": "established_pass",
+      "fractions": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII",
+        "XIII",
+        "XIV"
+      ],
+      "unread_fractions": [],
+      "term_count": 14
+    }
+  ],
+  "imports": [],
+  "term_count": 14,
+  "usage_count": 798
+}

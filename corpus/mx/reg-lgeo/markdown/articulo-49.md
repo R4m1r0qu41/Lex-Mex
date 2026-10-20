@@ -17,4 +17,4 @@ source_sha256: b19bcf104673af06117a6d4f3c947591f7a65999f19bad3dcfe2599a29bb3ab0
 
 # Artículo 49
 
-Además de las gestiones ante la Secretaría, las personas titulares de Permisos de Exploración, Permisos para Usos Diversos o Concesiones que pretendan obtener la prórroga también deben cumplir con las disposiciones previstas en la legislación y normatividad aplicable en materia ambiental e hídrica.
+Además de las gestiones ante la [Secretaría](articulo-3.md), las personas titulares de Permisos de Exploración, Permisos para Usos Diversos o Concesiones que pretendan obtener la prórroga también deben cumplir con las disposiciones previstas en la legislación y normatividad aplicable en materia ambiental e hídrica.

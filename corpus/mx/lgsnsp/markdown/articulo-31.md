@@ -17,4 +17,4 @@ source_sha256: 7f01ee1b1deb901a23976507adccbddefbea50b0fc9a4ddceaf1225d711d50d0
 
 # Artículo 31
 
-La Conferencia Nacional del Sistema Penitenciario se integrará por las personas titulares de los órganos de prevención y de reinserción social o sus equivalentes de la Federación y de las entidades federativas, y será presidida por quien designe la persona titular de la Secretaría. La persona titular del Secretariado Ejecutivo será integrante con voz, pero sin voto de la Conferencia Nacional del Sistema Penitenciario.
+La [Conferencia Nacional](articulo-4.md) del [Sistema](articulo-4.md) Penitenciario se integrará por las personas titulares de los órganos de prevención y de reinserción social o sus equivalentes de la Federación y de las entidades federativas, y será presidida por quien designe la persona titular de la [Secretaría](articulo-4.md). La persona titular del [Secretariado Ejecutivo](articulo-4.md) será integrante con voz, pero sin voto de la Conferencia Nacional del Sistema Penitenciario.

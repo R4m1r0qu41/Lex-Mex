@@ -17,7 +17,7 @@ source_sha256: cf47ab93fdea40d2b3e41b58784df62f89dd90b4482dd3b7f25adc7f6957036b
 
 # Artículo 20
 
-Una vez recibida la información a que se refiere el [artículo anterior](articulo-19.md), la Secretaría otorgara o negará la licencia de funcionamiento correspondiente, dentro de un plazo de 30 días hábiles contados a partir de la fecha en que se cuente con toda la información requerida.
+Una vez recibida la información a que se refiere el [artículo anterior](articulo-19.md), la [Secretaría](articulo-6o.md) otorgara o negará la licencia de funcionamiento correspondiente, dentro de un plazo de 30 días hábiles contados a partir de la fecha en que se cuente con toda la información requerida.
 
 En el caso de otorgarse la licencia, en ésta se precisará;
 

@@ -19,7 +19,7 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 El comité hidráulico tendrá a su cargo:
 
-I. Proponer a "La Comisión" el reglamento del distrito de riego, para su aprobación en los términos de la "Ley"; II. Celebrar sesiones ordinarias por lo menos una vez al mes y en forma extraordinaria en los casos que el reglamento del distrito de riego lo prevenga, y en todas ellas levantar el acta respectiva, llevar el libro de actas que estará a disposición de los usuarios para fines de consulta, y difundir los acuerdos tomados en cada sesión;
+I. Proponer a "[La Comisión](articulo-1o.md)" el reglamento del distrito de riego, para su aprobación en los términos de la "[Ley](articulo-1o.md)"; II. Celebrar sesiones ordinarias por lo menos una vez al mes y en forma extraordinaria en los casos que el reglamento del distrito de riego lo prevenga, y en todas ellas levantar el acta respectiva, llevar el libro de actas que estará a disposición de los usuarios para fines de consulta, y difundir los acuerdos tomados en cada sesión;
 
 III. Conocer los planes de riego del distrito y mantenerse informado de sus avances;
 

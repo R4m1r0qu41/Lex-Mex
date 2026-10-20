@@ -17,4 +17,4 @@ source_sha256: 7679afbbf32749e0c0bacab72644d41fc6ccdeeab3a2f25dfae8d26a065de01e
 
 # Artículo 123
 
-Los derechos del contratado, derivados del contrato de inversión estratégica, podrán darse en garantía a favor de terceros, o afectarse de cualquier manera, en los términos y condiciones que el propio contrato señale y previa autorización de la Dependencia o Entidad contratante.
+Los derechos del contratado, derivados del contrato de inversión estratégica, podrán darse en garantía a favor de terceros, o afectarse de cualquier manera, en los términos y condiciones que el propio contrato señale y previa autorización de la [Dependencia](articulo-4.md) o [Entidad](articulo-4.md) contratante.

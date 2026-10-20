@@ -17,4 +17,4 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 81
 
-El Instituto se coordinará con la Secretaría del Trabajo y Previsión Social, con las dependencias y entidades de la Administración Pública Federal, de las entidades federativas y concertará, en igual forma, con la representación de las organizaciones de los sectores social y privado, con el objeto de realizar programas para la prevención de los accidentes y las enfermedades de trabajo.
+El [Instituto](articulo-5-A.md) se coordinará con la Secretaría del Trabajo y Previsión Social, con las dependencias y entidades de la Administración Pública Federal, de las entidades federativas y concertará, en igual forma, con la representación de las organizaciones de los sectores social y privado, con el objeto de realizar programas para la prevención de los accidentes y las enfermedades de trabajo.

@@ -17,7 +17,7 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 36
 
-Los estudios y proyectos a que se refiere el artículo [31](articulo-31.md) de este "Reglamento", se ajustarán a las normas oficiales mexicanas y especificaciones técnicas que al efecto emita "La Comisión".
+Los estudios y proyectos a que se refiere el artículo [31](articulo-31.md) de este "[Reglamento](articulo-1o.md)", se ajustarán a las normas oficiales mexicanas y especificaciones técnicas que al efecto emita "[La Comisión](articulo-1o.md)".
 
 Si los proyectos presentados no se ajustan a las mismas, están incompletos o contienen errores técnicos, "La Comisión", dentro del plazo a que se refiere el primer párrafo del [artículo anterior](articulo-35.md), solicitará que el interesado subsane los errores, corrija los proyectos o presente otros nuevos.
 

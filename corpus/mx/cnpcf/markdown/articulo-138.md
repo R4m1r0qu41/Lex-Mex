@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Primero · Capítulo II
+
 # Artículo 138
 
 Es deber de las partes asistir a las audiencias del procedimiento, por sí o a través de sus personas representantes autorizadas, con facultades necesarias para celebrar el convenio correspondiente.

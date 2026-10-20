@@ -17,4 +17,4 @@ source_sha256: 4b4529ce2b1275ea9363ab78b6e2d504cd1106bc3d10fd70f09246c38b0cd31e
 
 # Artículo 12
 
-El Instituto podrá disponer de la Reserva General y de las Reservas sólo en los casos previstos expresamente en los artículos [285](../../lss/markdown/articulo-285.md) y [286](../../lss/markdown/articulo-286.md) A de la Ley, respectivamente.
+El [Instituto](../../lss/markdown/articulo-5-A.md) podrá disponer de la [Reserva General](articulo-2.md) y de las [Reservas](articulo-2.md) sólo en los casos previstos expresamente en los artículos [285](../../lss/markdown/articulo-285.md) y [286](../../lss/markdown/articulo-286.md) A de la [Ley](../../lss/markdown/articulo-5-A.md), respectivamente.

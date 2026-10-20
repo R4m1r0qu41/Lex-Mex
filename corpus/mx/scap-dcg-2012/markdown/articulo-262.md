@@ -17,4 +17,4 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 262
 
-El Comité Técnico deberá designar al gerente general como el responsable de la integración de los expedientes a que se refiere el presente capítulo, así como de implementar los mecanismos de comunicación permanente y de proporcionar la información a que el mismo capítulo alude.
+El [Comité Técnico](articulo-1.md) deberá designar al gerente general como el responsable de la integración de los expedientes a que se refiere el presente capítulo, así como de implementar los mecanismos de comunicación permanente y de proporcionar la información a que el mismo capítulo alude.

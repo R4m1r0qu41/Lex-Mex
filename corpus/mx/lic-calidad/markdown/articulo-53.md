@@ -17,7 +17,7 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 # Artículo 53
 
-Los Organismos de Evaluación de la Conformidad podrán operar como:
+Los [Organismos de Evaluación de la Conformidad](articulo-4.md) podrán operar como:
 
 I. Laboratorios, de ensayos y pruebas, medición o calibración, entre otros;
 
@@ -27,6 +27,6 @@ III. Organismos de certificación, y
 
 IV. Otros proveedores y prestadores de servicios previstos en el Reglamento de esta Ley.
 
-En el Reglamento de la presente Ley se consignarán los términos en que los organismos mencionados participarán en actividades de Evaluación de la Conformidad, por lo que, en casos aplicables se deberán observar las disposiciones del Sistema de metrología.
+En el Reglamento de la presente Ley se consignarán los términos en que los organismos mencionados participarán en actividades de [Evaluación de la Conformidad](articulo-4.md), por lo que, en casos aplicables se deberán observar las disposiciones del Sistema de metrología.
 
-Siempre que no implique un conflicto de interés o una afectación a los objetivos legítimos de interés público que persiga la Norma Oficial Mexicana aplicable, un Organismo de Evaluación de la Conformidad podrá operar bajo más de una de las figuras antes señaladas, siempre cumpliendo con lo previsto en esta Ley y demás disposiciones legales aplicables y cuenten con la respectiva autorización, registro, acreditación o aprobación según corresponda, que demuestre que cumplen con los criterios de imparcialidad y confiabilidad y no tienen conflicto de intereses de acuerdo a los establecidos en las normas nacionales e internacionales aplicables.
+Siempre que no implique un conflicto de interés o una afectación a los objetivos legítimos de interés público que persiga la [Norma Oficial Mexicana](articulo-4.md) aplicable, un Organismo de Evaluación de la Conformidad podrá operar bajo más de una de las figuras antes señaladas, siempre cumpliendo con lo previsto en esta Ley y demás disposiciones legales aplicables y cuenten con la respectiva autorización, registro, acreditación o aprobación según corresponda, que demuestre que cumplen con los criterios de imparcialidad y confiabilidad y no tienen conflicto de intereses de acuerdo a los establecidos en las normas nacionales e internacionales aplicables.

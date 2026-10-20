@@ -15,7 +15,7 @@ source_sha256: b4a968d8e8c138ac2069f6afa0dc622178328df24f59cf58eddbab8efe4a7eff
 
 # Artículo 46
 
-Los Comités Técnicos de Profesionalización, a través de las DGRH, deberán actualizar, en el Registro, la trayectoria de cada servidor público de carrera y los puntajes individuales que obtenga a través de las siguientes acciones:
+Los Comités Técnicos de Profesionalización, a través de las [DGRH](articulo-2.md), deberán actualizar, en el Registro, la trayectoria de cada servidor público de carrera y los puntajes individuales que obtenga a través de las siguientes acciones:
 
 I. La capacitación que reciba para el mejor desempeño de las funciones que realiza en el puesto que ocupa, conforme a los planes establecidos por el Comité Técnico de Profesionalización y autorizados por la Secretaría;
 

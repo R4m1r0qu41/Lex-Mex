@@ -17,4 +17,4 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 # Artículo 106
 
-Objeto El procedimiento para adolescentes tiene como objetivo establecer la existencia jurídica de un hecho señalado como delito, determinar si la persona adolescente es su autor o partícipe, el grado de responsabilidad y, en su caso, la aplicación de las medidas que correspondan conforme a esta Ley. El proceso deberá observar en todo momento el fin socioeducativo del Sistema.
+Objeto El procedimiento para adolescentes tiene como objetivo establecer la existencia jurídica de un hecho señalado como delito, determinar si la persona adolescente es su autor o partícipe, el grado de responsabilidad y, en su caso, la aplicación de las medidas que correspondan conforme a esta [Ley](articulo-3.md). El proceso deberá observar en todo momento el fin socioeducativo del [Sistema](articulo-3.md).

@@ -17,6 +17,6 @@ source_sha256: 35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc
 
 # Artículo 10
 
-La Junta Directiva del Instituto actuará válidamente con la concurrencia de seis de sus miembros.
+La [Junta](articulo-4o.md) Directiva del [Instituto](articulo-4o.md) actuará válidamente con la concurrencia de seis de sus miembros.
 
 Sus resoluciones se tomarán por mayoría de votos de los miembros presentes.

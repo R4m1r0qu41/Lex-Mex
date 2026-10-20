@@ -19,4 +19,4 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 Concluido el trámite de la solicitud y satisfechos los requisitos legales y reglamentarios, se expedirá la declaratoria correspondiente.
 
-En caso de que el Instituto niegue el otorgamiento de la declaratoria, lo notificará por escrito a la persona solicitante, expresando los motivos y fundamentos legales de su resolución y valorando todos los elementos probatorios recibidos. Párrafo reformado DOF 03-04-2026
+En caso de que el [Instituto](articulo-4.md) niegue el otorgamiento de la declaratoria, lo notificará por escrito a la persona solicitante, expresando los motivos y fundamentos legales de su resolución y valorando todos los elementos probatorios recibidos. Párrafo reformado DOF 03-04-2026

@@ -17,7 +17,7 @@ source_sha256: b34326588bd6e7519e33411d3658239e3aefb56cef0fae5d775bc894af64a565
 
 # Artículo 73
 
-En el caso de abandono de sitios contaminados con residuos peligrosos o que se desconozca el propietario o poseedor del inmueble, la Secretaría, en coordinación con las entidades federativas y los municipios, podrá formular y ejecutar programas de remediación, con el propósito de que se lleven a cabo las acciones necesarias para su recuperación y restablecimiento y, de ser posible, su incorporación a procesos productivos.
+En el caso de abandono de sitios contaminados con residuos peligrosos o que se desconozca el propietario o poseedor del inmueble, la [Secretaría](articulo-5.md), en coordinación con las entidades federativas y los municipios, podrá formular y ejecutar programas de remediación, con el propósito de que se lleven a cabo las acciones necesarias para su recuperación y restablecimiento y, de ser posible, su incorporación a procesos productivos.
 
 La Secretaría estará facultada para hacer efectivas las garantías que hubieren sido otorgadas por los responsables que hayan abandonado el sitio.
 
@@ -25,7 +25,7 @@ En aquellos casos en que la contaminación del sitio amerite la intervención de
 
 I. La delimitación del sitio que se sujeta a remediación, precisando superficie, ubicación y deslinde;
 
-II. Las acciones necesarias para remediar el sitio, de conformidad con lo que se establece en esta Ley;
+II. Las acciones necesarias para remediar el sitio, de conformidad con lo que se establece en esta [Ley](articulo-5.md);
 
 III. Las condicionantes y restricciones a que se sujetará el sitio, los usos del suelo, el aprovechamiento, así como la realización de cualquier obra o actividad;
 

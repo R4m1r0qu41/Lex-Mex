@@ -17,6 +17,6 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 49
 
-En los términos establecidos por la Ley Federal del Trabajo, cuando el asegurado sufra un riesgo de trabajo por falta inexcusable del patrón a juicio de los Tribunales federales en materia laboral, las prestaciones en dinero que este capítulo establece a favor del trabajador asegurado, se aumentarán en el porcentaje que los propios Tribunales determinen en sus resoluciones. El patrón tendrá la obligación de pagar al Instituto el capital constitutivo sobre el incremento correspondiente.
+En los términos establecidos por la [Ley](articulo-5-A.md) Federal del Trabajo, cuando el asegurado sufra un riesgo de trabajo por falta inexcusable del patrón a juicio de los Tribunales federales en materia laboral, las prestaciones en dinero que este capítulo establece a favor del trabajador asegurado, se aumentarán en el porcentaje que los propios Tribunales determinen en sus resoluciones. El patrón tendrá la obligación de pagar al [Instituto](articulo-5-A.md) el capital constitutivo sobre el incremento correspondiente.
 
 Artículo reformado DOF 01-05-2019

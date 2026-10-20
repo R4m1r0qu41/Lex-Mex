@@ -22,5 +22,3 @@ Cuando el Instituto para la Protección al Ahorro Bancario encuentre que existe 
 Los interesados podrán oponerse a esta cancelación dentro del citado plazo ante la propia autoridad judicial.
 
 Artículo adicionado DOF 10-01-2014
-
-Apartado B De la Disolución y Liquidación Convencional de las Instituciones de Banca Múltiple Apartado adicionado DOF 10-01-2014

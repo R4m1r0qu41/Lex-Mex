@@ -17,4 +17,4 @@ source_sha256: 43723ba379e128c1a1c1be4b085ecc870946cdec43d56f83e7314c077361368f
 
 # Artículo 77
 
-En cada entidad federativa en que haya tres o más corredores se establecerá un sólo colegio de corredores, y se regirán en cuanto a su organización y funcionamiento por lo dispuesto en la Ley, el presente reglamento y, en lo que no se opongan, por sus propios Estatutos.
+En cada entidad federativa en que haya tres o más corredores se establecerá un sólo colegio de corredores, y se regirán en cuanto a su organización y funcionamiento por lo dispuesto en la [Ley](articulo-2o.md), el presente reglamento y, en lo que no se opongan, por sus propios Estatutos.

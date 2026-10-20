@@ -17,4 +17,4 @@ source_sha256: e81e23876bd08da81cb8392af7054f6187ad043ca8f965777b455f9d12554e8b
 
 # Artículo 172
 
-Después del cierre de instrucción y hasta antes de dictada la resolución, sólo serán admisibles las pruebas supervenientes y la petición de ampliación de informes a las Autoridades garantes locales. En caso de existir persona tercera interesada, se le notificará la admisión del recurso de inconformidad para que, en un plazo no mayor a cinco días, acredite su carácter y alegue lo que a su derecho convenga.
+Después del cierre de instrucción y hasta antes de dictada la resolución, sólo serán admisibles las pruebas supervenientes y la petición de ampliación de informes a las [Autoridades garantes locales](articulo-3.md). En caso de existir persona tercera interesada, se le notificará la admisión del recurso de inconformidad para que, en un plazo no mayor a cinco días, acredite su carácter y alegue lo que a su derecho convenga.

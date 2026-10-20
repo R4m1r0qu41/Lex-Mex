@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Único · Capítulo II
+
 # Artículo 1015
 
 Cuando la sentencia condene a dividir un bien común y no presente las bases para ello, en la audiencia de cumplimiento se convocará al ejecutante y al ejecutado, para que en presencia judicial determinen las bases de la partición y si no se pusieren de acuerdo, la autoridad jurisdiccional designará a un perito en la materia y señalará a éste el término prudente para que presente el proyecto partitorio.

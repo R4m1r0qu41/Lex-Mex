@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf
 source_sha256: 43927095d22ff7bc7780e78132d2160b5050b5f76026b539daec32be09d7341d
 ---
 
-> Capítulo II · Sección TERCERA
+> Título Séptimo · Capítulo Unico
 
 # Artículo 175-A
 
@@ -24,7 +24,3 @@ I. Cuando se omita obtener y mantener vigentes los permisos y certificados aplic
 II. Cuando se omita realizar el mantenimiento preventivo y correctivo de la infraestructura o cualquier dispositivo que permita la continuidad de los servicios autorizados, conforme a las disposiciones e instrumentos jurídicos aplicables. III. Las demás que establezca esta Ley y las que se señalen en la autorización.
 
 Artículo adicionado DOF 09-12-2013
-
-Título Octavo Infracciones y sanciones
-
-Capítulo Unico

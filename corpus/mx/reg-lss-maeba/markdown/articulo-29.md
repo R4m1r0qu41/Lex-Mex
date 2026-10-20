@@ -19,12 +19,12 @@ source_sha256: 9816ce7f9d6b9b1781eb9935869bd45677c60d721d3352865b6524c2e75db8cd
 
 Para la integración de los expedientes del procedimiento de enajenación de los bienes, la Jefatura Delegacional de Servicios Administrativos o, en su caso, el tercero especializado designado para tales efectos, deberá considerar, como mínimo, la información siguiente:
 
-I. La documentación que sirvió de base para la recepción, control y custodia del bien; REGLAMENTO DE LA LEY DEL SEGURO SOCIAL, EN MATERIA DE ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES ADJUDICADOS CON MOTIVO DE LA APLICACIÓN DEL PROCEDIMIENTO ADMINISTRATIVO DE EJECUCIÓN II. Las fotografías que describan su estado físico;
+I. La documentación que sirvió de base para la recepción, control y custodia del bien; II. Las fotografías que describan su estado físico;
 
-III. Los acuerdos y demás documentos que acrediten las decisiones que, en su caso, haya tomado el Comité Técnico sobre el bien;
+III. Los acuerdos y demás documentos que acrediten las decisiones que, en su caso, haya tomado el [Comité Técnico](articulo-2.md) sobre el bien;
 
 IV. Las constancias que se deriven del procedimiento de enajenación instrumentado, y
 
 V. Las demás constancias y documentos que estime necesarios para acreditar la transparencia del procedimiento de enajenación.
 
-En el caso de bienes inmuebles, el expediente debe ser remitido en un término de cinco días hábiles al órgano normativo del Instituto responsable de la política inmobiliaria institucional, para analizar y, en su caso, autorizar su enajenación.
+En el caso de bienes inmuebles, el expediente debe ser remitido en un término de cinco días hábiles al órgano normativo del [Instituto](../../lss/markdown/articulo-5-A.md) responsable de la política inmobiliaria institucional, para analizar y, en su caso, autorizar su enajenación.

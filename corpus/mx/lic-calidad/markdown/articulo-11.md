@@ -21,4 +21,4 @@ En el Reglamento de esta Ley se establecerán los términos en que se desarrolla
 
 En materia de protección del derecho a la información, el Reglamento deberá considerar, entre otros, los sellos o declaraciones que los bienes, productos, procesos y servicios comercializados en territorio nacional deben ostentar, el uso de las contraseñas oficiales considerando lo previsto en el artículo [46](articulo-46.md) de esta Ley, así como la información comercial, sanitaria o de otro tipo que deba formar parte del etiquetado de un bien o producto, en protección de los intereses de los consumidores.
 
-Capítulo V Régimen Internacional de la Normalización y de la Evaluación de la Conformidad
+Capítulo V Régimen Internacional de la Normalización y de la [Evaluación de la Conformidad](articulo-4.md)

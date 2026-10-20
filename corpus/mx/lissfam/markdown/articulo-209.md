@@ -17,10 +17,10 @@ source_sha256: 35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc
 
 # Artículo 209
 
-En la aplicación de esta Ley y con las condiciones y las limitaciones que establece la misma, serán considerados:
+En la aplicación de esta [Ley](articulo-4o.md) y con las condiciones y las limitaciones que establece la misma, serán considerados:
 
 I. Los cadetes y los demás alumnos de los establecimientos militares que no perciben haber diario, como sargentos primeros;
 
-II. El personal de tropa y marinería del Servicio Militar por conscripción, con la categoría que tenga mientras se encuentren desempeñando actos del servicio, y
+II. El personal de tropa y marinería del Servicio [Militar](articulo-4o.md) por conscripción, con la categoría que tenga mientras se encuentren desempeñando actos del servicio, y
 
 III. Los miembros de los Cuerpos de Defensas Rurales que se incapaciten o fallezcan en actos del servicio o a consecuencia de ellos, como soldados. Fracción reformada DOF 20-11-2008

@@ -17,4 +17,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Artículo 55
 
-Para verificar la autenticidad y veracidad de la información proporcionada por las personas interesadas o licitantes, la Secretaría puede establecer mecanismos de coordinación interinstitucional de carácter nacional o internacional.
+Para verificar la autenticidad y veracidad de la información proporcionada por las personas interesadas o licitantes, la [Secretaría](articulo-3.md) puede establecer mecanismos de coordinación interinstitucional de carácter nacional o internacional.

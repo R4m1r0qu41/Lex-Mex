@@ -17,4 +17,4 @@ source_sha256: 7df3d678efda2306b68d3c0f5ca0e3e92b9066d5f773128f4ae19cb26bf44fff
 
 # Artículo 52
 
-Las personas titulares de un Permiso de Comercialización de Biocombustibles son responsables de asegurar que se midan y conserven las características, calidad y cantidad del tipo de Biocombustible que comercialicen, desde su recepción y hasta su entrega en la venta al mayoreo, de conformidad con las Normas Oficiales Mexicanas y normatividad aplicable. De igual forma, queda prohibido Alterar o Adulterar los Biocombustibles que comercializan.
+Las personas titulares de un Permiso de Comercialización de Biocombustibles son responsables de asegurar que se midan y conserven las características, calidad y cantidad del tipo de Biocombustible que comercialicen, desde su recepción y hasta su entrega en la venta al mayoreo, de conformidad con las Normas Oficiales Mexicanas y normatividad aplicable. De igual forma, queda prohibido [Alterar o Adulterar](articulo-3.md) los Biocombustibles que comercializan.

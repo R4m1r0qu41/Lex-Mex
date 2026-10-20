@@ -15,4 +15,4 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # VIGESIMO CUARTO
 
-Los trámites y procedimientos pendientes de resolución con anterioridad a la vigencia de esta Ley, se resolverán conforme a las disposiciones de la derogada Ley del Seguro Social.
+Los trámites y procedimientos pendientes de resolución con anterioridad a la vigencia de esta [Ley](articulo-5-A.md), se resolverán conforme a las disposiciones de la derogada Ley del Seguro Social.

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Primero · Capítulo I
+
 # Artículo 713
 
 La autoridad jurisdiccional en audiencia de juicio, habiendo solicitado previamente informe del Archivo Judicial o Poder Judicial, Archivo General de Notarías o Registro Público de la Propiedad del Estado o Procurador Social del Estado o Director del Archivo de Instrumentos Públicos o Dirección de Notarías y Registros Públicos del Estado o la Secretaría General de Gobierno así como del Registro Nacional de Avisos de Testamento o cualquier otra oficina pública que lleve a cabo la función de informar sobre la existencia o inexistencia de testamento, en presencia de los interesados examinará los documentos, así como a los testigos a que se refiere este [Código Nacional](articulo-2.md); hecho lo anterior en la misma audiencia resolverá haciendo la declaración de herederos y adjudicación de los bienes de acuerdo al convenio exhibido, debiendo señalar a la Notaria o Notario Público que procederá a la formalización de la misma.

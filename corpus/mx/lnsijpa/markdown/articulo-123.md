@@ -17,4 +17,4 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 # Artículo 123
 
-Máxima prioridad en la tramitación efectiva del procedimiento en que el adolescente se encuentre en internamiento preventivo A fin de que el internamiento preventivo sea lo más breve posible, el Ministerio Público y los Órganos Jurisdiccionales deberán considerar de máxima prioridad la tramitación efectiva de los casos en que una persona adolescente se encuentre sujeta a esta medida cautelar.
+Máxima prioridad en la tramitación efectiva del procedimiento en que el adolescente se encuentre en internamiento preventivo A fin de que el internamiento preventivo sea lo más breve posible, el Ministerio Público y los [Órganos Jurisdiccionales](articulo-3.md) deberán considerar de máxima prioridad la tramitación efectiva de los casos en que una persona adolescente se encuentre sujeta a esta medida cautelar.

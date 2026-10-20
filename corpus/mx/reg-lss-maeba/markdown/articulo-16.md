@@ -19,7 +19,7 @@ source_sha256: 9816ce7f9d6b9b1781eb9935869bd45677c60d721d3352865b6524c2e75db8cd
 
 Los bienes, atendiendo a su naturaleza, serán custodiados y conservados en:
 
-I. Los almacenes de la Delegación que corresponda;
+I. Los almacenes de la [Delegación](articulo-2.md) que corresponda;
 
 II. Los lugares en donde la Delegación así lo determine, mediante resolución debidamente justificada, y
 

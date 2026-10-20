@@ -17,6 +17,6 @@ source_sha256: 9f964bc5c075d7cf47e5e9df7c2fbe262eb5bd1794de9b230dbd72026a51ae5e
 
 # Artículo 7
 
-La aplicación de esta Ley estará a cargo de la Secretaría en coordinación con la Secretaría de Educación Pública, la Secretaría de Hacienda y Crédito Público, la Secretaría de Economía y otras autoridades competentes.
+La aplicación de esta [Ley](articulo-6.md) estará a cargo de la [Secretaría](articulo-6.md) en coordinación con la Secretaría de Educación Pública, la Secretaría de Hacienda y Crédito Público, la Secretaría de Economía y otras autoridades competentes.
 
 Artículo reformado DOF 20-05-2021

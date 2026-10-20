@@ -17,6 +17,6 @@ source_sha256: b34326588bd6e7519e33411d3658239e3aefb56cef0fae5d775bc894af64a565
 
 # Artículo 45
 
-Los generadores de residuos peligrosos, mineros y metalúrgicos deben identificar, clasificar y manejar sus residuos de conformidad con las disposiciones contenidas en esta Ley y en su Reglamento, así como en las normas oficiales mexicanas que al respecto expida la Secretaría. Párrafo reformado DOF 08-05-2023
+Los generadores de residuos peligrosos, mineros y metalúrgicos deben identificar, clasificar y manejar sus residuos de conformidad con las disposiciones contenidas en esta [Ley](articulo-5.md) y en su [Reglamento](articulo-5.md), así como en las normas oficiales mexicanas que al respecto expida la [Secretaría](articulo-5.md). Párrafo reformado DOF 08-05-2023
 
 En cualquier caso los generadores deberán dejar libres de residuos peligrosos y de contaminación que pueda representar un riesgo a la salud y al ambiente, las instalaciones en las que se hayan generado éstos, cuando se cierren o se dejen de realizar en ellas las actividades generadoras de tales residuos.

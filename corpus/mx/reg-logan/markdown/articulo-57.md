@@ -19,4 +19,4 @@ source_sha256: 0ad7a7b6d7dffd7d9a582d74ebd6fc43e6baa79f71801a73dc70d1b77c414ded
 
 La Secretaría, a petición de los interesados, actuará como árbitro en las controversias que pudieran surgir entre asociaciones o entre éstas y las uniones.
 
-Cuando la controversia se origine por causas vinculadas a la Confederación la competencia para resolverla será de la Secretaría.
+Cuando la controversia se origine por causas vinculadas a la [Confederación](articulo-2o.md) la competencia para resolverla será de la Secretaría.

@@ -17,7 +17,7 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Artículo 83
 
-Cuando se trate de una Noticia, las autoridades que no pertenezcan a la Comisión Nacional de Búsqueda o a las Comisiones Locales de Búsqueda y que tengan conocimiento de ésta, deben:
+Cuando se trate de una [Noticia](articulo-4.md), las autoridades que no pertenezcan a la [Comisión Nacional de Búsqueda](articulo-4.md) o a las [Comisiones Locales de Búsqueda](articulo-4.md) y que tengan conocimiento de ésta, deben:
 
 a) Recabar los datos mínimos que se desprendan de la Noticia, como se señala en el artículo [85](articulo-85.md), y
 

@@ -18,6 +18,17 @@
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:2",
     "fraction": "II",
     "start_char": 578,
+    "end_char": 665,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:actividades-del-sector-hidrocarburos",
+    "term": "Actividades del Sector Hidrocarburos",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgpgir",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:2",
+    "fraction": "II Bis",
+    "start_char": 665,
     "end_char": 1092,
     "basis": "express_definition"
   },

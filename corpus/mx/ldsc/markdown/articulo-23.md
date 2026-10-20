@@ -17,4 +17,4 @@ source_sha256: 45deb87bfd634dfbd1cb7d9fd67a476ad954187908eb0cb06256c90ccc0feb80
 
 # Artículo 23
 
-La Secretaría expedirá las bases para el funcionamiento del Sistema Nacional de Información de la Cafeticultura, así como del Registro de Personas Productoras, Acopiadoras, Industriales, Comercializadoras y Exportadoras e Importadoras Nacionales de Café.
+La [Secretaría](articulo-3.md) expedirá las bases para el funcionamiento del Sistema Nacional de Información de la [Cafeticultura](articulo-3.md), así como del Registro de Personas Productoras, Acopiadoras, Industriales, Comercializadoras y Exportadoras e Importadoras Nacionales de Café.

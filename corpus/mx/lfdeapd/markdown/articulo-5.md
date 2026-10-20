@@ -17,4 +17,4 @@ source_sha256: 4fadf9a6f2d22a9e48d8e29ed302456751da66eb723e0df1dc6ac45a5e4640b0
 
 # Artículo 5
 
-Los Familiares y personas autorizadas por la ley que tengan abierta una investigación en la Fiscalía Especializada podrán optar por presentar la solicitud de Declaración Especial de Ausencia ante el Órgano Jurisdiccional, en los términos que prevé esta Ley.
+Los [Familiares](articulo-3.md) y personas autorizadas por la ley que tengan abierta una investigación en la [Fiscalía Especializada](articulo-3.md) podrán optar por presentar la solicitud de [Declaración Especial de Ausencia](articulo-3.md) ante el [Órgano Jurisdiccional](articulo-3.md), en los términos que prevé esta Ley.

@@ -17,4 +17,4 @@ source_sha256: 9080231242a59cbd78d30fb747864bc45cd63d3c4978f37086b01e45343f4244
 
 # Artículo 29
 
-Para efectos de lo dispuesto en el artículo [70](../../lepepm/markdown/articulo-70.md) de la Ley, Petróleos Mexicanos, a través de las personas representantes, personas consejeras o personas mandatarias en las empresas filiales, debe realizar las gestiones necesarias para que en sus consejos de administración se adopten las medidas conducentes para la alineación estratégica de sus actividades al Programa de Desarrollo de Petróleos Mexicanos.
+Para efectos de lo dispuesto en el artículo [70](../../lepepm/markdown/articulo-70.md) de la [Ley](articulo-2.md), Petróleos Mexicanos, a través de las personas representantes, personas consejeras o personas mandatarias en las empresas filiales, debe realizar las gestiones necesarias para que en sus consejos de administración se adopten las medidas conducentes para la alineación estratégica de sus actividades al Programa de Desarrollo de Petróleos Mexicanos.

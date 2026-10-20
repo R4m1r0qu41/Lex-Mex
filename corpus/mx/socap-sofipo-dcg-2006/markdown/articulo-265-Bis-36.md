@@ -18,13 +18,13 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 265 Bis 36
 
-Las Sociedades Financieras Populares podrán celebrar contratos de comisión mercantil con terceros que actúen en todo momento a nombre y por cuenta de aquellas para la realización de las operaciones siguientes:
+Las [Sociedades](articulo-1.md) Financieras Populares podrán celebrar contratos de comisión mercantil con terceros que actúen en todo momento a nombre y por cuenta de aquellas para la realización de las operaciones siguientes:
 
 I. Pagos de servicios en efectivo, con cargo a tarjetas de crédito o débito.
 
 II. Recepción de pagos de contribuciones federales, estatales, municipales y las correspondientes a la Ciudad de México, en efectivo o con cargo a tarjetas de crédito o débito.
 
-III. Retiros de efectivo efectuados por el propio Cliente titular de la cuenta respectiva, o por las personas autorizadas en términos del primer párrafo del artículo 36 Bis de la Ley.
+III. Retiros de efectivo efectuados por el propio Cliente titular de la cuenta respectiva, o por las personas autorizadas en términos del primer párrafo del artículo 36 Bis de la [Ley](articulo-1.md).
 
 IV. Depósitos en efectivo, en cuentas propias o de terceros.
 

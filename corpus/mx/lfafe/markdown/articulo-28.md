@@ -17,7 +17,7 @@ source_sha256: 96092a4581d4e87910eb58939da4045879e4fe613b12f4413d7392bcc2c6e884
 
 # Artículo 28
 
-Con base en el principio de reciprocidad, la Secretaría puede autorizar la portación temporal de armas a los servidores públicos extranjeros de migración o aduanas, debidamente acreditados ante el Gobierno Federal, que participen en la revisión migratoria en los puntos de tránsito internacionales o el despacho conjunto de mercancías en las aduanas nacionales, respectivamente, conforme a la legislación aplicable y a los acuerdos interinstitucionales que deberán celebrarse para tal efecto. Párrafo reformado DOF 29-05-2025
+Con base en el principio de reciprocidad, la [Secretaría](articulo-1o-Bis.md) puede autorizar la portación temporal de armas a los servidores públicos extranjeros de migración o aduanas, debidamente acreditados ante el Gobierno Federal, que participen en la revisión migratoria en los puntos de tránsito internacionales o el despacho conjunto de mercancías en las aduanas nacionales, respectivamente, conforme a la legislación aplicable y a los acuerdos interinstitucionales que deberán celebrarse para tal efecto. Párrafo reformado DOF 29-05-2025
 
 La Secretaría de Gobernación o la Secretaría de Hacienda y Crédito Público, según sea el caso, serán responsables de tramitar ante la Secretaría, cuando menos con 15 días de anticipación al inicio de la comisión, los permisos extraordinarios de ingreso y portación temporal de armas respectivos, proporcionando para tal efecto la siguiente información: Párrafo reformado DOF 29-05-2025
 

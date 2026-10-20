@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Único · Capítulo II
+
 # Artículo 960
 
 Cuando la autoridad jurisdiccional advierta en cualquier etapa del procedimiento, la viabilidad de llevar a cabo la audiencia o diligencia virtuales del procedimiento de que se trate, exhortará a las partes para optar por dicha alternativa. En todo caso, quienes intervengan en forma virtual o remota deberán:

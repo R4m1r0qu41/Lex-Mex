@@ -20,6 +20,6 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 En caso de que la [Información Sensible del Usuario](articulo-1.md) sea extraída, extraviada o las Sociedades supongan o sospechen de algún incidente que involucre accesos no autorizados a dicha información, deberán:
 
-I. Enviar por escrito a la Comisión y al Comité de Supervisión Auxiliar, dentro de los cinco días naturales siguientes al evento de que se trate, la información que se contiene en el Anexo S de las presentes disposiciones.
+I. Enviar por escrito a la [Comisión](articulo-1.md) y al [Comité de Supervisión Auxiliar](articulo-1.md), dentro de los cinco días naturales siguientes al evento de que se trate, la información que se contiene en el Anexo S de las presentes disposiciones.
 
 II. Llevar a cabo una investigación inmediata para determinar si la información ha sido o puede ser mal utilizada; en este caso, deberán notificar esta situación, en los siguientes 3 días hábiles, a sus [Usuarios](articulo-1.md) afectados a fin de prevenirlos de los riesgos derivados del mal uso de la información que haya sido extraída, extraviada o comprometida, debiendo informarle las medidas que deben tomar. Asimismo, las Sociedades deberán enviar a la Comisión y al Comité de Supervisión Auxiliar, el resultado de dicha investigación en un plazo no mayor a cinco días naturales posteriores a su conclusión.

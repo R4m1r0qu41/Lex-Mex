@@ -17,4 +17,4 @@ source_sha256: cf47ab93fdea40d2b3e41b58784df62f89dd90b4482dd3b7f25adc7f6957036b
 
 # Artículo 10
 
-Serán responsables del cumplimiento de las disposiciones del Reglamento y de las normas técnicas ecológicas que de él se deriven, las personas físicas o morales, públicas o privadas, que pretendan realizar o que realicen obras o actividades por las que se emitan a la atmósfera olores, gases o partículas sólidas o líquidas. REGLAMENTO DE LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE EN MATERIA DE PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DE LA ATMÓSFERA
+Serán responsables del cumplimiento de las disposiciones del [Reglamento](articulo-6o.md) y de las normas técnicas ecológicas que de él se deriven, las personas físicas o morales, públicas o privadas, que pretendan realizar o que realicen obras o actividades por las que se emitan a la atmósfera olores, gases o partículas sólidas o líquidas.

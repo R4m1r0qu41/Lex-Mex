@@ -17,4 +17,4 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 79
 
-Los funcionarios, Consejeros o miembros del Comité de Crédito, no podrán participar en ninguna etapa del proceso crediticio, cuando el crédito en cuestión pueda representar conflictos de intereses para dichas personas.
+Los funcionarios, [Consejeros](articulo-1.md) o miembros del [Comité de Crédito](articulo-1.md), no podrán participar en ninguna etapa del proceso crediticio, cuando el crédito en cuestión pueda representar conflictos de intereses para dichas personas.

@@ -17,4 +17,4 @@ source_sha256: 89220c0c86445a873067e0095b4591c11847dfd11595ca3e11bbfcf09cef6754
 
 # Artículo 16
 
-La inscripción de la Gestión Circular y el cumplimiento a las metas de gradualidad y a las demás obligaciones que de dicha inscripción emanan, están sujetas a reportes establecidos en el acuerdo general de implementación de la REP y los convenios de concertación inscritos; la revisión puede ratificar, modificar o cancelar la inscripción en el Registro y sus condiciones.
+La inscripción de la [Gestión Circular](articulo-3.md) y el cumplimiento a las metas de gradualidad y a las demás obligaciones que de dicha inscripción emanan, están sujetas a reportes establecidos en el acuerdo general de implementación de la REP y los convenios de concertación inscritos; la revisión puede ratificar, modificar o cancelar la inscripción en el Registro y sus condiciones.

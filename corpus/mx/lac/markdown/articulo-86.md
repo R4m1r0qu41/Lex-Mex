@@ -13,13 +13,15 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAC.pdf
 source_sha256: 07199878c4f94748c983998437198eb7c645ad76967c444dfe26d50a535d23ae
 ---
 
+> Capítulo XIX
+
 # Artículo 86
 
-Las infracciones a lo dispuesto en la presente Ley cometidas por la persona concesionaria, asignataria, operadora aérea o permisionaria, según se trate, serán sancionadas por la Agencia Federal de Aviación Civil de acuerdo con lo siguiente: Párrafo reformado DOF 28-12-2001, 03-05-2023 (Ed. vesp., páginas 2 a 13). Publicado íntegro sin cambios DOF 03-05-2023 (Ed. vesp., páginas 17 a 62)
+Las infracciones a lo dispuesto en la presente Ley cometidas por la persona concesionaria, asignataria, operadora aérea o permisionaria, según se trate, serán sancionadas por la [Agencia Federal de Aviación Civil](articulo-2.md) de acuerdo con lo siguiente: Párrafo reformado DOF 28-12-2001, 03-05-2023 (Ed. vesp., páginas 2 a 13). Publicado íntegro sin cambios DOF 03-05-2023 (Ed. vesp., páginas 17 a 62)
 
 I. Permitir que la aeronave transite:
 
-a) Sin ostentar las marcas de nacionalidad y matrícula, o cuando éstas se encuentren alteradas o modificadas sin autorización de la Secretaría, con multa de cinco mil a quince mil Unidades de Medida y Actualización; b) Por carecer de los certificados de aeronavegabilidad o de matrícula, o cuando tales documentos estén vencidos, con multa de cinco mil a quince mil Unidades de Medida y Actualización;
+a) Sin ostentar las marcas de nacionalidad y matrícula, o cuando éstas se encuentren alteradas o modificadas sin autorización de la [Secretaría](articulo-2.md), con multa de cinco mil a quince mil Unidades de Medida y Actualización; b) Por carecer de los certificados de aeronavegabilidad o de matrícula, o cuando tales documentos estén vencidos, con multa de cinco mil a quince mil Unidades de Medida y Actualización;
 
 c) Por carecer de los seguros o cuando no estén vigentes, con multa de cinco mil a quince mil Unidades de Medida y Actualización;
 

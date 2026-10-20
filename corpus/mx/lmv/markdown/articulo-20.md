@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título II · Capítulo I
+
 # Artículo 20
 
 Las sociedades anónimas promotoras de inversión que obtengan la inscripción en el [Registro](articulo-2.md) de las acciones representativas de su capital social o títulos de crédito que representen dichas acciones, podrán colocar en bolsa con o sin oferta pública dichos valores, siempre que:

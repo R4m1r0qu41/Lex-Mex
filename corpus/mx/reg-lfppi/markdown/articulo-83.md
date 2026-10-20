@@ -17,4 +17,4 @@ source_sha256: 51dd3b9347aab0e63387e02f689edd4fa3ea43a93933a0027f9a9977fffba83d
 
 # Artículo 83
 
-Para efectos de lo dispuesto en el artículo [171](../../lfppi/markdown/articulo-171.md) de la Ley, la representación de la marca deberá presentarse conforme a su naturaleza y características específicas y ser legible. La forma de presentación de la marca se sujetará a lo previsto en el Acuerdo que se emita para tal efecto.
+Para efectos de lo dispuesto en el artículo [171](../../lfppi/markdown/articulo-171.md) de la Ley, la representación de la marca deberá presentarse conforme a su naturaleza y características específicas y ser legible. La forma de presentación de la marca se sujetará a lo previsto en el [Acuerdo](articulo-2.md) que se emita para tal efecto.

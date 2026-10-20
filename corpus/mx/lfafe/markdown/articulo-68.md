@@ -17,6 +17,6 @@ source_sha256: 96092a4581d4e87910eb58939da4045879e4fe613b12f4413d7392bcc2c6e884
 
 # Artículo 68
 
-Quienes tengan permiso general, deben rendir a la Secretaría, dentro de los diez primeros días de cada mes, un informe detallado de sus actividades, en el que se especifique el movimiento ocurrido en el mes anterior.
+Quienes tengan permiso general, deben rendir a la [Secretaría](articulo-1o-Bis.md), dentro de los diez primeros días de cada mes, un informe detallado de sus actividades, en el que se especifique el movimiento ocurrido en el mes anterior.
 
 Artículo reformado DOF 29-05-2025

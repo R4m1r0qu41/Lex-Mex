@@ -17,4 +17,4 @@ source_sha256: 70464807d63da08244e495f2ff0ac30b12b30119926b84cedc7930397fcb80ef
 
 # Artículo 251
 
-La Secretaría deberá custodiar y garantizar la confidencialidad de la documentación e información proporcionada por los terceros autorizados, de conformidad con las disposiciones aplicables.
+La [Secretaría](articulo-2o.md) deberá custodiar y garantizar la confidencialidad de la documentación e información proporcionada por los terceros autorizados, de conformidad con las disposiciones aplicables.

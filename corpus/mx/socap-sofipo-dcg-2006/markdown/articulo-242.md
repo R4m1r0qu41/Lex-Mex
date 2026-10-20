@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 242
 
-Todos los aspectos relacionados con los procesos de microfilmación y destrucción de documentos, deberán quedar a cargo y bajo la responsabilidad del o los funcionarios que expresamente designe la Sociedad Financiera Popular, quienes fungirán como operadores para cada oficina en que se realicen dichas labores, las cuales comprenden:
+Todos los aspectos relacionados con los procesos de microfilmación y destrucción de documentos, deberán quedar a cargo y bajo la responsabilidad del o los funcionarios que expresamente designe la [Sociedad](articulo-1.md) Financiera Popular, quienes fungirán como operadores para cada oficina en que se realicen dichas labores, las cuales comprenden:
 
 I. La preparación de los documentos para microfilmar y su control posterior hasta ser destruidos;
 

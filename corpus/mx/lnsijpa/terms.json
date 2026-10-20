@@ -1,1 +1,266 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnsijpa:term:adolescente",
+    "term": "Adolescente",
+    "instrument_id": "urn:lex-mx:federal:statute:lnsijpa",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:3",
+    "fraction": "I",
+    "start_char": 57,
+    "end_char": 149,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnsijpa:term:ajustes-razonables",
+    "term": "Ajustes razonables",
+    "instrument_id": "urn:lex-mx:federal:statute:lnsijpa",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:3",
+    "fraction": "II",
+    "start_char": 149,
+    "end_char": 522,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnsijpa:term:autoridad-administrativa",
+    "term": "Autoridad Administrativa",
+    "instrument_id": "urn:lex-mx:federal:statute:lnsijpa",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:3",
+    "fraction": "III",
+    "start_char": 522,
+    "end_char": 621,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnsijpa:term:codigo-nacional",
+    "term": "Código Nacional",
+    "instrument_id": "urn:lex-mx:federal:statute:lnsijpa",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:3",
+    "fraction": "IV",
+    "start_char": 621,
+    "end_char": 686,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnsijpa:term:constitucion",
+    "term": "Constitución",
+    "instrument_id": "urn:lex-mx:federal:statute:lnsijpa",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:3",
+    "fraction": "V",
+    "start_char": 686,
+    "end_char": 759,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnsijpa:term:convencion",
+    "term": "Convención",
+    "instrument_id": "urn:lex-mx:federal:statute:lnsijpa",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:3",
+    "fraction": "VI",
+    "start_char": 759,
+    "end_char": 816,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnsijpa:term:defensa",
+    "term": "Defensa",
+    "instrument_id": "urn:lex-mx:federal:statute:lnsijpa",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:3",
+    "fraction": "VII",
+    "start_char": 816,
+    "end_char": 988,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnsijpa:term:facilitador",
+    "term": "Facilitador",
+    "instrument_id": "urn:lex-mx:federal:statute:lnsijpa",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:3",
+    "fraction": "VIII",
+    "start_char": 988,
+    "end_char": 1185,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnsijpa:term:grupo-etario-i",
+    "term": "Grupo etario I",
+    "instrument_id": "urn:lex-mx:federal:statute:lnsijpa",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:3",
+    "fraction": "IX",
+    "start_char": 1185,
+    "end_char": 1348,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnsijpa:term:grupo-etario-ii",
+    "term": "Grupo etario II",
+    "instrument_id": "urn:lex-mx:federal:statute:lnsijpa",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:3",
+    "fraction": "X",
+    "start_char": 1348,
+    "end_char": 1516,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnsijpa:term:grupo-etario-iii",
+    "term": "Grupo etario III",
+    "instrument_id": "urn:lex-mx:federal:statute:lnsijpa",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:3",
+    "fraction": "XI",
+    "start_char": 1516,
+    "end_char": 1688,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnsijpa:term:guia-tecnico",
+    "term": "Guía Técnico",
+    "instrument_id": "urn:lex-mx:federal:statute:lnsijpa",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:3",
+    "fraction": "XII",
+    "start_char": 1688,
+    "end_char": 2061,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnsijpa:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:statute:lnsijpa",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:3",
+    "fraction": "XIII",
+    "start_char": 2061,
+    "end_char": 2144,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnsijpa:term:ley-general",
+    "term": "Ley General",
+    "instrument_id": "urn:lex-mx:federal:statute:lnsijpa",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:3",
+    "fraction": "XIV",
+    "start_char": 2144,
+    "end_char": 2223,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnsijpa:term:ley-de-mecanismos-alternativos",
+    "term": "Ley de Mecanismos Alternativos",
+    "instrument_id": "urn:lex-mx:federal:statute:lnsijpa",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:3",
+    "fraction": "XV",
+    "start_char": 2223,
+    "end_char": 2347,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnsijpa:term:leyes-penales",
+    "term": "Leyes Penales",
+    "instrument_id": "urn:lex-mx:federal:statute:lnsijpa",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:3",
+    "fraction": "XVI",
+    "start_char": 2347,
+    "end_char": 2514,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnsijpa:term:organo-jurisdiccional",
+    "term": "Órgano Jurisdiccional",
+    "instrument_id": "urn:lex-mx:federal:statute:lnsijpa",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:3",
+    "fraction": "XVII",
+    "start_char": 2514,
+    "end_char": 2708,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnsijpa:term:persona-adulta-joven",
+    "term": "Persona adulta joven",
+    "instrument_id": "urn:lex-mx:federal:statute:lnsijpa",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:3",
+    "fraction": "XVIII",
+    "start_char": 2708,
+    "end_char": 2802,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnsijpa:term:persona-responsable-de-la/el-adolescente",
+    "term": "Persona responsable de la/el adolescente",
+    "instrument_id": "urn:lex-mx:federal:statute:lnsijpa",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:3",
+    "fraction": "XIX",
+    "start_char": 2802,
+    "end_char": 2939,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnsijpa:term:plan-individualizado-de-actividades",
+    "term": "Plan Individualizado de Actividades",
+    "instrument_id": "urn:lex-mx:federal:statute:lnsijpa",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:3",
+    "fraction": "XX",
+    "start_char": 2939,
+    "end_char": 3424,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnsijpa:term:plan-individualizado-de-ejecucion",
+    "term": "Plan Individualizado de Ejecución",
+    "instrument_id": "urn:lex-mx:federal:statute:lnsijpa",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:3",
+    "fraction": "XXI",
+    "start_char": 3424,
+    "end_char": 3642,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnsijpa:term:procuradurias-de-proteccion",
+    "term": "Procuradurías de Protección",
+    "instrument_id": "urn:lex-mx:federal:statute:lnsijpa",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:3",
+    "fraction": "XXII",
+    "start_char": 3642,
+    "end_char": 3872,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnsijpa:term:sistema",
+    "term": "Sistema",
+    "instrument_id": "urn:lex-mx:federal:statute:lnsijpa",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:3",
+    "fraction": "XXIII",
+    "start_char": 3872,
+    "end_char": 3945,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnsijpa:term:victima-u-ofendido",
+    "term": "Víctima u Ofendido",
+    "instrument_id": "urn:lex-mx:federal:statute:lnsijpa",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:3",
+    "fraction": "XXIV",
+    "start_char": 3945,
+    "end_char": 4050,
+    "basis": "express_definition"
+  }
+]

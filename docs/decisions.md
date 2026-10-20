@@ -1,5 +1,664 @@
 # Architecture decisions
 
+## 2026-10-19 — Codex review of the parser sweep: one limitation repaired, one pinned
+
+**Review.** `docs/parser-sweep-review-2026-10-19.md` (Codex; evidence in `docs/parser-sweep-review-2026-10-19-evidence.json`) covers `b4109cc54..d8ecaeaa0`.
+- The LGTOC and CPF repairs replay independently from hash-matching source, and so does CPF `209 Quintus`.
+- The native gate passes. A private closure on a `git archive` snapshot is byte-identical (73,265 canonical files).
+- It is not a certification that every parser defect is fixed. It raises two P2 limitations.
+
+**P2 — mixed delimiters (repaired).**
+- **Defect:** in the established pass, the glossary's shared delimiter won whenever it occurred in an entry's prefix. So `Auditor Interno, al responsable de las siguientes funciones: …` in a colon glossary read definition prose into the term.
+- **Repair:** the entry's own `:` or `, al`-style delimiter now wins when it ends the term earlier.
+  - An own `.` never overrides the shared delimiter (`S.A. de C.V.`).
+  - Delimiters inside parentheses belong to the term. The first relink cut ldrs XXX `Servicios Ambientales (sinónimo: beneficios ambientales)` at its colon; that regression is guarded and tested.
+- **Regression tests:** Codex's reproduction, the `S.A. de C.V.` case and the ldrs parenthesis case.
+- **Measured.** My first census (definition openers inside terms) found 0 and was wrong. The relink corrects 6 committed terms that had definition prose in them:
+  - cue-dcg-2003 XVI: `Inversionista calificado:\n\n(107) a) Básico…` → `Inversionista calificado`, usages 240 → 241.
+  - reg-lgtrata III, VIII, X, XI and XV: comma-glossary entries written `Term: definition`, such as `Atención Médica Integral: Aquella que comprende…`. Usages 57 → 84.
+  - No other term changes. The Markdown changes are link-only, and references are unchanged (35,949).
+- **Strategy version:** extraction meaning changed, so it is bumped to `glossary-extraction-3`. The six profiles (lfca, lfpccs, lfra, lfvv, lsct, lieps) are rebound to it; their text and extraction are unchanged.
+
+**P2 — lower-case transitory headings (pinned, not changed).**
+- **Limitation:** requiring a capitalized ordinal (cpf `décimo. Asimismo…`) also refuses a genuinely lower-case heading such as `primero.-`. That fails closed and loses no text.
+- **Measured:** no retained source has such a heading (309-source A/B census).
+- **Kept:** the restriction, now pinned by a test of both cases. If a source needs it, discriminate by context rather than by case.
+
+**Not done here.** The review's next action, updating the database contract and debt seed against the reviewed commit, belongs to the SQLite workstream's own worktree. These two limitations go to it as follow-ups.
+
+## 2026-10-19 — Heading-leak reparse of 16 instruments; four silent-loss parser defects fixed; three accepted gaps resolved
+
+**Why.** 711 provisions in 62 instruments ended with the next chapter or section heading in their canonical text. An example is CPEUM Art. 29 ending `Capítulo II De los Mexicanos`. These were July parses: the current parser files those headings as headings and fills `heading_context`. The operator chose (2026-10-19) to reparse the 22 instruments with hash-matching retained source now and to record the other 40 as debt.
+
+The disposable reparse exposed defects in the current parser, each fixed with a fixture:
+- **Silent loss after a heading.** With no provision open, an article heading the grammar did not read, or one that seemed to regress, was discarded with its text.
+  - lgtoc lost `Artículo 228 a.-` … `228 v`, about 17,000 characters.
+  - cfpc lost Articles 1–2, and cnpcf lost Article 1. In both, a cover note quotes another decree's `“Artículo Segundo. … Artículo Tercero. …”`, which was read as an article.
+  - The fixes:
+    - before the first article, a quoted article and the rest of its quotation are preamble;
+    - a lower-case suffix closed by `.-` is read (`228 a.-`, `228 a bis.-`);
+    - an article-shaped block that would be discarded after a heading now fails the parse.
+  - Fixtures: `cover-note-quoted-decree-articles-sample.txt`, `article-lowercase-letter-suffix-sample.txt`.
+- **Reform-evidence collisions**, each failing the parse:
+  - a `REFORMAS al …` appendix title was not an act (cpf 1966);
+  - an omnibus decree's operative `Artículo Cuarto.` was read as a repeated transitory (cff 1995);
+  - a resolution title merged into the previous decree's signature across a page break (cff 2002);
+  - `décimo. Asimismo…`, a sentence carried over a page break, was read as a transitory (cpf 2016).
+  - The fixes:
+    - `REFORMAS`/`REFORMA` + lower case is an act title;
+    - an `Artículo` heading that repeats an ordinal already read in the section closes the section;
+    - a block ending in a signature closes at a page break;
+    - while an act is open, a block ending in a capitalized publication note is the next act's title;
+    - a transitory heading's ordinal must be capitalized.
+  - Fixtures: `reform-omnibus-operative-article-and-resolution-sample.txt`, `reform-reformas-title-and-page-split-ordinal-sample.txt`.
+
+**What.** 16 instruments are reparsed from hash-matching source, and `derive-temporal` is rerun on each: cff, cfpc, cnpcf, cpeum, cpf, laat, lac, ladua, lamp, lan, lfpc, lgtoc, lic, lmv, lnep and ltosf. None of the 16 has a tracked temporal-analysis request, and `parse` does not write one, so no request changed.
+
+Of the other six:
+- lfce, lissfam, reg-lgp and fi-dcg-2014 reparse to identical provisions, so their heading forms are still unread.
+- The CNBV DCGs cucb-dcg-2004 and cue-dcg-2003 show unrelated CNBV-parser text drift, which needs its own review.
+
+**Measured.**
+- **Provisions.** 5,897 → 5,943. The recovered provisions:
+  - lgtoc `228-a`…`228-v` (23);
+  - lac `78 Decies`…`Novodecies` (10);
+  - cpf `199 Quintus`, `199 Sextus`, `199 Decies`, `209 Quintus` and the original 1931 transitories 1º–3º;
+  - lic `112 Quintus`–`Septimus`;
+  - lfpc `63 Quintus` and `73 Quintus`;
+  - one lnep transitory.
+- **Text.** Provision IDs are otherwise unchanged. Text changes are heading removals (219 trailing, plus mid-paragraph ones), paragraph breaks restored after amendment notes, running headers removed (lamp's `LEY DE AMPARO, REGLAMENTARIA DE LOS ARTÍCULOS 103 Y 107…` in 70 provisions) and dropped promulgation signatures.
+- **Temporal state.** After `derive-temporal` it matches except for 4 provisions. lac (2) and ltosf (1) change basis or date and stay `effective`. One lfpc determination returns to `not_analyzed` because its text changed when `63 Quintus` was split out. No lawyer-verified state changed.
+- **References.** References for these instruments go from 5,498 to 5,490, with the corpus at 35,949. lamp loses 158 bogus CPEUM 103/107 edges from its running header. cpf, lgs and lmv gain resolved edges.
+- **Reform evidence.** 944 → 2,087, from accumulated extraction improvements since July.
+- **Closure.** `link --all` exits 0 with 5 accepted gaps. Markdown changes are link and heading changes. The only cross-instrument links lost are lamp's 158 and one dropped-signature CPEUM 89 link each in nine instruments.
+- **Accepted gaps resolved (8 → 5):**
+  - cpf: LIC `112 Quintus` now parses.
+  - lmv: LGTOC `228-B`/`228-H` now parse.
+  - lgs: CPF `209 Quintus` now parses.
+  - **This contradicts the 2026-10-18 operator decision** that lgs's citation was stale because "the committed CPF text … prints no 209 Quintus". The retained source prints `Artículo 209 Quintus` (added DOF 07-06-2024). The committed parse had lost it. This is a factual correction of that decision's premise, for the operator to confirm, not a legal ruling.
+- **Count baselines** are re-proposed from the corrected parse, still machine-proposed. The July values had recorded the losses:
+  - cpf: 552 → 556 articles and 0 → 3 transitories;
+  - lac: 144 → 154 articles;
+  - lfpc: 188 → 190 articles;
+  - lgtoc: 440 → 463 articles;
+  - lic: 489 → 492 articles;
+  - lnep: 11 → 12 transitories.
+
+**A/B census of the parser changes.** All 309 instruments with hash-matching retained source were parsed under `89040815a` and under this commit, comparing the two outputs:
+- **290 are identical.**
+- **3 parse only now:** ccf, cff and cpf, which failed before on duplicate reform-evidence IDs.
+- **0 fail only now:** the new fail-closed bail caught no further silent loss.
+- **0 fail under both.**
+- **16 differ**, and every difference is a correction:
+  - reform evidence that was misfiled as a later "section" of an older decree is now filed under its own decree (ccom, lfrsp, linfonavit, reg-lmin, rgic, ladua, lfpc);
+  - ccf gains its 1943 transitories;
+  - a lower-case ordinal carried over a page break no longer splits a sentence (larefam 31 `párrafo segundo.`, oga 203, reg-lopgr 117);
+  - the reparsed instruments above.
+- **Not reparsed in this commit:** ccf and the ten instruments outside the 16 keep their committed parse until they are reparsed.
+
+**Open.**
+- 492 trailing heading leaks remain in 48 instruments, 40 of which lack retained source.
+- The DCG parser's heading leaks and drift, and the unread heading forms of lfce, lissfam and reg-lgp.
+
+## 2026-10-19 — LIEPS glossary under its rulings: incisos, cross-references, lower-case usages
+
+**Why.** The 2026-10-19 operator rulings on LIEPS Article 3 (recorded below) need four pieces the glossary layer lacked:
+- an inciso locator on a term;
+- profile incisos and cross-references;
+- inciso anchors;
+- a reviewed lower-case usage form.
+
+**What.**
+- **`DefinedTerm.inciso`** (optional; `defined-term.schema.json` `inciso`, which requires `fraction`). An inciso term's span is its inciso, from its marker to the next marker or the end of the fraction. A parent term (`Tabacos labrados`, VIII) spans its whole fraction. So a usage inside the parent's span is not a usage of the parent, the usual own-definition exclusion.
+- **Profile `incisos`.**
+  - Each inciso is bound to its literal marker (`a)`) at a character offset, with disposition `definition` (terms), `non_definition`, or `cross_reference` (`refers_to` a fraction and inciso, which must define a term in the same profile).
+  - The listed markers must be exactly the fraction's markers, lettered in order. A marker is one at the start of the fraction body or of a paragraph, or after a sentence, so a reform that adds or removes an inciso fails extraction.
+  - A definition fraction may list only incisos (IX).
+- **`usage_form: "with_lowercase"`.** Usages also match the lower-case form, and the exact case wins a tie. The coverage record now carries the adapter's `usage_form`, which reg-lan's coverage gains as `quoted`. The form is admitted only with status `configured`.
+- **Inciso anchors.** An inciso term's Obsidian anchor is `f-viii-a` when its marker starts a paragraph. VIII c, which shares b's paragraph, links to the anchor of the paragraph that holds it (`f-viii-b`).
+  - This meets the ruling's "inciso-level anchors in the Markdown export" in the **Obsidian** export only, checked end to end in a scratch vault. Committed corpus Markdown has no block anchors and links to the whole note.
+- **LIEPS adapter.** `auto_whole` with a profile on I, VIII, IX and XXII per the rulings, and on XIX and XXXVIII (below), plus `usage_form: "with_lowercase"`.
+- **Strategy version.** It stays `glossary-extraction-2`: no existing extraction changes meaning. The corpus-wide relink changed only LIEPS, and reg-lan's coverage field.
+
+**Machine boundary readings, not rulings. Operator review needed:**
+- **XIX** is read as the whole printed name `Concentrados, polvos y jarabes, esencias o extractos de sabores, que permitan obtener bebidas saborizadas`. The shared comma rule gave `Concentrados`, whose 17 lower-case matches mixed in XVII's energy-drink concentrates and alcoholic-drink concentrates.
+- **XXXVIII** is read as `Videojuego con contenido violento, extremo o para adulto, no apto para personas menores de 18 años`, not the comma-cut `Videojuego con contenido violento`.
+- **XXII f)** `Turbosina y kerosenos` is kept as one term, as printed.
+
+**Measured.**
+- **Terms.** LIEPS goes from held to configured: 58 terms (39 fraction-level less IX's, plus 20 inciso terms) and 328 usages, of which 319 are lower case. References are unchanged (150; corpus 35,949). The 35 changed Markdown files differ only in link markup (161 links added, none lost).
+- **Different from the ruling's premise.** The ruling cited 39 lower-case `tabacos labrados`. Longest match sends 28 `otros tabacos labrados` to VIII c, so the parent `Tabacos labrados` gets 8.
+- **Questionable lower-case matches (about 11 of 319), for review:**
+  - `puro` (X, `biocombustible puro`);
+  - `alcohol isopropílico` (2-E, twice) and X's `alcohol tipo etanol anhidro`, which VI excludes;
+  - `gasolinas` in 2-E's chemistry text (twice) and `gasolina de alto octanaje` inside XXII e) `Gasavión`;
+  - `azúcar` as an ingredient (XIII, XXX, XXXI).
+  - Exact-case matches on old law titles in transitories (`Industrias del Azúcar, Alcohol…`, `Venta de Gasolina`) are the known title-prefix imprecision.
+- **Unchanged.** `defined-term.schema.json` is still documentation: no code validates terms against it.
+
+## 2026-10-19 — Glossary grammar reads every fraction qualifier and accounts for every entry (`glossary-extraction-2`)
+
+**Why.** While preparing LIEPS (`XX BIS. Edulcorante`), a census found that the
+committed glossaries silently lost entries. All of these were reported as
+complete `detected` extractions:
+- **Qualifiers.** The established grammar read no qualifier, and the wider
+  grammar read only `Bis`/`Ter` in title case. So 125 qualified fractions
+  (`III Bis`, `VI BIS`, `V bis`, `X Quáter`, `I Quinquies`… `I Septies`) in
+  38 instruments were folded into the previous term's span.
+- **`N. Bis.`** reg-lfjs prints `I. BIS. Azar:` and `XII. Bis. Derogada.`.
+  The first was committed as the term `BIS. Azar`.
+- **Amendment notes.** The established grammar missed 16 fractions that follow
+  an amendment note (`…Reformada DOF 10-01-2014 XI Bis.`).
+- **Delimiters.** The established pass picks one delimiter from the first entry
+  and silently drops every entry that does not use it. That dropped 90 of 98
+  entries in socap-sofipo-dcg-2006 and 51 of 82 in scap-dcg-2012.
+- **Repealed fraction.** One repealed fraction was committed as a term:
+  reg-lfprh `Se deroga. Fracción derogada… XIV Bis. Evaluación costo y beneficio`.
+
+The operator asked for all parser defects to be fixed (2026-10-19).
+
+**What.**
+- **Qualifier grammar.**
+  - One qualifier grammar, `lex_core::FRACTION_QUALIFIER_PATTERN` (`Bis` … `Decies`, any case, `Quater` with or without the accent, optionally after `N.`), is used by every glossary grammar: established, wider, the swallowed-fraction guard, `fractions`, `roman_colon` and `mixed_fractions`.
+  - Labels keep the printed spelling with the qualifier in title case (`XX BIS` → `XX Bis`; `normalize_fraction_label`).
+  - The wider sequence check ranks every qualifier.
+  - The `fraction` pattern in `defined-term` and `glossary-coverage` admits them.
+- **Established pass.**
+  - It also starts a fraction after a `DOF dd-mm-yyyy` note.
+  - An entry that the glossary's delimiter does not fit is read by its own delimiter: `:`; `,` followed by a definition opener (`al`, `a la`, `en singular`…); or `.` followed by a capital. The term must be plain and must not end in a connector.
+  - An entry neither delimiter fits is recorded in the coverage record's new `unread_fractions`, never dropped.
+- **Strategy version.** It is now `glossary-extraction-2`, and the five batch-1 profiles are rebound to it. Their text has no qualified fraction, so their extraction is unchanged.
+- **Closure, glossary-only refresh (operator, 2026-10-19).**
+  - An instrument rejected by `link --all` with exactly its recorded accepted gap, and whose terms no other instrument imports, takes a glossary-only refresh: terms, usages, coverage and Markdown are rewritten, and its references and validation record are left as persisted.
+  - This applies to lmv, oaac-dcg-2009 and socap-sofipo-dcg-2006. oaac and socap have no retained source to reparse.
+  - A rejected instrument whose persisted terms the current extraction no longer reproduces now fails the closure before any write. Before this, it exited 0 and left stale coverage.
+- **Export.** A qualified fraction's Obsidian anchor is `f-v-bis`, not `f-v bis`, which no paragraph carried. A citation of `fracción V Bis` links V Bis, not V.
+
+**Measured.**
+- **Terms.** `link --all` exits 0, and the 8 rejections are exactly the accepted gaps. 44 instruments change: +285 terms, 2 bogus terms removed (above), 104 definition spans corrected and +6,706 usages.
+- **Unchanged.** References are unchanged at 35,949, and so are the coverage statuses (17 configured / 299 detected / 7 held / 145 none detected).
+- **Markdown.** All 1,233 changed Markdown files differ only in link markup, checked by stripping links.
+- **Unread.** 12 fractions in 11 instruments are recorded as unread: lfped III Bis, lgdnna XVII–XVIII, lgmasc III, lgpsacdii VIII, lissste XII, lss VII, reg-laassp IX, reg-ldcmpme II, reg-lgn VI, reg-lgvs XV Bis and socap XXXVIII. Most have a term longer than the 90-character limit, a semicolon delimiter, or incisos (lissste XII).
+- **lcm.** Its newly read `IV Bis` defines `Ley`, giving 230 usages; 7 of them are matches on the start of another law's title. This is the known title-prefix imprecision (2026-10-18), not new policy.
+
+**Open.**
+- lan's quoted terms (`"Aguas Residuales"`) keep their quote characters, so they never match a usage. This is a separate defect. Its XXV also nests `a.`/`b.` items, so `b. "Distrito de Temporal Tecnificado"` is folded into XXV. It follows LIEPS, which adds inciso reading.
+- The unread fractions need profiles or operator rulings.
+- These are deterministic extractions, not legal review.
+
+## 2026-10-19 — An omnibus decree's section title for this instrument is not a new act
+
+**Why.** LIEPS could not be reparsed from its own unchanged source: the SHA-256 of
+its extracted text matches the committed manifest. Since `dd39cbc93` (2026-08-24),
+which was found by bisect, any short all-caps `LEY …` line in the reform appendix
+starts a new containing act. LIEPS's omnibus fiscal decrees head their LIEPS part
+with the law's own title, for example "LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y
+SERVICIOS" after "Ley que establece las reducciones impositivas… Publicada en el
+Diario Oficial… 1993". That heading reset the decree's date, so its `PRIMERO`
+transitory failed with "without its Diario Oficial publication date". LIEPS was
+last parsed before that commit, so the regression stayed hidden.
+
+**What.** The heading is treated as a section of the open decree, not a new act,
+when it meets every one of these conditions:
+- it equals this instrument's running header, which by default is the uppercased
+  official title, compared without accents or a final period;
+- a decree is open, with a publication date and no transitories yet;
+- it carries no publication date of its own.
+
+Another law's title in the same position is still a new act. Fixture:
+`reform-omnibus-own-title-section-sample.txt`, cut from LIEPS.
+
+**Measured.**
+- **LIEPS reparse:** reform evidence is byte-identical, and the 84 provision IDs,
+  their order and all texts are unchanged except transitory decimocuarto. Its 1980
+  signature block is dropped by the existing enactment-signature rule, and with it
+  one reference to CPEUM art. 89 from the promulgation formula. References go
+  35,950 → 35,949.
+- **Other fiscal laws in a probe:** lisr and liva give identical reform evidence. cff
+  and lfd fail their reparse identically with and without this fix. cff fails on
+  duplicate reform evidence `1995-12-15:transitory:cuarto`, and lfd on validation.
+  Both are pre-existing reparse drift on unchanged source text, recorded for later
+  work.
+- **Tracked file:** the tracked `temporal-analysis-request.json` was restored, not
+  regenerated.
+
+## 2026-10-19 — Glossary exception profiles, batch 1
+
+**Why.** Codex review 2026-10-18 asked that small instrument exceptions be
+typed, declarative and source-bound, never `allow_gaps`, regex patches,
+instrument branches or canonical text edits. Twelve glossaries were still held.
+
+**What.** An `auto_whole` adapter glossary may carry a `profile`
+(`lex_core::GlossaryProfile`):
+- It is bound to the strategy version and the provision text's SHA-256.
+- Every hint names its literal text and character offset.
+- Three operations exist:
+  - a fraction read as a `definition` with explicit term spans (one or more);
+  - a `non_definition` fraction that yields no term;
+  - an `ignored_candidates` span that is not a fraction.
+- Any drift, unmatched span, unused hint or duplicate fails extraction.
+- Every fraction the profile does not name still passes the shared checks, sequence included.
+- The coverage record repeats the profile, so an exception is never reported as a clean extraction. `validate` rejects a profile on another method or other text.
+
+**Batch 1.** Each profile was released by hint against committed text that the current parser reproduces.
+
+| Instrument | Hint | Terms / usages |
+|---|---|---|
+| `lfvv` 2 | VII `Secretaría;` (semicolon) | 9 / 57 |
+| `lfpccs` 3 | XXVII `SNICS.` (period) | 29 / 177 |
+| `lfca` 2 | ignore `C.` in `Cinematográfica A. C. y` | 21 / 36 |
+| `lsct` 2 | quoted names in all eight fractions; V defines `Ratificación`, `adhesión`, `aceptación` | 10 / 3 |
+| `lfra` 2 | V defines `cadena causal`; VI and VII non-definitions | 14 / 123 |
+
+**Operator ruling (2026-10-19), not a JRH legal review.**
+- **LFRA:** V's "Se entiende por cadena causal…" is a definition, and VI and VII are substantive rules.
+- **LIEPS Article 3:**
+  - ingest VIII as the parent `Tabacos labrados` plus its four incisos, each linking to its own inciso;
+  - ingest IX's incisos (combustibles automotrices, gasolina, diésel…) as the actual definitions.
+  - LIEPS needs an inciso locator in `DefinedTerm`, so it is the next batch.
+- **LIEPS follow-up (operator, 2026-10-19):**
+  - The VIII parent term is `Tabacos labrados`, not the printed heading with "y otros".
+  - I (Bebidas con contenido alcohólico, a–b) and XXII (Combustibles fósiles, a–l) are treated like VIII.
+  - XXII d) Gasolina and g) Diésel only point to IX b) and IX c). They are recorded as cross-reference non-definitions, so each term is defined once.
+  - Links go to inciso-level anchors in the Markdown export. LIEPS terms also match their lower-case form through a reviewed adapter option, since `tabacos labrados` (39) and `cigarros` (24) are lower case in running text. The same option would serve lgs-investigacion.
+  - A parser regression blocked the LIEPS reparse. It is fixed in `609f7d89d`, and Article 3's text is unchanged, so the profile binds to committed text.
+
+**Measured.**
+- `link --all`: 5 relinked, 455 unchanged, 8 rejected (exactly the accepted gaps).
+- References are unchanged at 35,950, and no provision changed.
+- Terms 5,310 → 5,393; usages 94,736 → 95,132.
+- Coverage: 17 configured, 299 detected, 7 held, 145 none detected.
+
+**Known false matches.** About 20 of LFRA's 67 `Ley` usages are other laws' titles (`Ley General del Equilibrio…`). lfvv and lfpccs each have one `Secretaría` that names another ministry. This is the corpus-wide title-prefix defect, which the title-span filter addresses.
+
+**Not in this batch.**
+- `ltfccg`: the current parser leaves `Capítulo II.- Información Previa` inside Article 3. That heading would be swallowed into fraction XI, so it needs a parser fix first.
+- `fi-dcg-2014`: CNBV has published a new edition. The live source parses with one more article and detects its glossary, so this is re-ingestion work.
+- `ladua`: its committed parse is stale.
+- `log`, `servinv-dcg-2013`, `reg-lftr-mcsre`: label and boundary cases that need retained-source verification.
+
+## 2026-10-19 — Coverage validation binds current selection and imports
+
+Codex review of `c40378666` found that local coverage counts alone could not
+detect stale import counts or changed adapter selection. Validation now replays
+extraction read-only and compares the coverage, terms and usages with current
+inputs. Corpus closure preflights eligible coverage against the final in-memory
+corpus before writing. Coverage objects reject unknown JSON fields as their
+existing schema requires. The DOF furniture filter now requires a complete dated
+page header, preserving substantive section citations with a regression fixture.
+No canonical data or legal decision changed.
+
+The six header reparses independently reproduce from hash-matching PDFs/text,
+including reform evidence. Their 226 references retain their meanings/targets;
+some IDs and offsets changed with the cleaned text. Reform evidence also changed
+(MEIA 0→4, MPCCA 4→11, LGS-investigacion 0→1; MAAA/MRETC at unchanged counts).
+See `docs/glossary-coverage-header-review-2026-10-19.md` for exact verification.
+
+## 2026-10-19 — Persisted glossary extraction coverage (`glossary-coverage.json`)
+
+**Why.** Codex review 2026-10-18, P2: a held glossary was reported only on stderr. The persisted empty `terms.json` could not distinguish a held glossary from an instrument with none, and the database must not infer either from `[]`.
+
+**Record.** Every instrument now has a deterministic `corpus/mx/<slug>/glossary-coverage.json`, written wherever `terms.json` is written: `pipeline`, `link <slug>` and `link --all`.
+- **Schema.** `schemas/glossary-coverage.schema.json`, Rust type `lex_core::GlossaryCoverage`, strategy version `glossary-extraction-1`.
+- **No timestamps:** a second `link --all` is byte-identical.
+- **Bound to its inputs.** It records the instrument's source and extracted-text hashes, and the SHA-256 of each glossary or held provision's text (`evidence_sha256`).
+- **Status:**
+  - `configured`: the adapter names the provisions and styles.
+  - `detected`: auto-detection found a complete glossary.
+  - `held`: auto-detection found an incomplete glossary, so there are no terms.
+  - `none_detected`: auto-detection found no glossary.
+- **Per glossary provision:**
+  - its method: `established_pass`, `wider_pass`, or the configured style;
+  - the printed fraction label of each extracted term;
+  - its term count;
+  - for the wider-pass grammar (`wider_pass`, `auto_whole`) only, the repealed fractions skipped as whole placeholders.
+- **Per hold:** a typed `code` from the completeness check plus its message. The codes are `sequence_break`, `unknown_qualifier`, `noncanonical_numeral`, `no_term_delimiter`, `swallowed_fraction`, `repeal_wording`, `missing_term`, `unplain_term` and `repeated_term`.
+- **Per import:** each `additive_to` entry and how many terms it adopted.
+- **Totals:** the term and usage counts.
+- **Not legal approval.** The record is a technical extraction report. It is never a legal approval and never a finding that a definition is repealed.
+
+**Validation.** `validate <slug>` checks the record against its schema and against the persisted instrument record, provisions, `terms.json` and `term-usages.json`.
+- **Error** (`glossary_coverage_inconsistent`): a stale text hash, different counts or fractions, or a status that contradicts the record. For example, `held` with glossaries or terms is an error.
+- **Warning** (`glossary_coverage_missing`): no record.
+- **Rejected instruments.** In `link --all`, a rejected instrument keeps its persisted terms. Its record is written only when the refresh reproduced those terms exactly. All 8 do today.
+- `bundle` copies the file.
+
+**Also aligned.**
+- `schemas/defined-term.schema.json` accepted only bare Roman fractions, but 13 instruments' terms already carried `Bis` or `Ter` labels (34 terms). The pattern now allows an optional ` Bis` or ` Ter`. Nothing enforced that schema before, so no data changed.
+- `GlossaryDetection.held` is now a typed `GlossaryHold` with provision, code and message.
+
+**Result** (`link --all` in a disposable clone and then in the repository):
+- **Files.** 468 new files, and no other file changed: no terms, usages, references, provisions, validation reports or Markdown.
+- **Status counts:**
+  - `configured`: 12.
+  - `detected`: 299 (202 established pass, 97 wider pass).
+  - `held`: 12, exactly the known holds (`sequence_break` 6, `missing_term` 4, `unplain_term` 2).
+  - `none_detected`: 145.
+- **Validation.** Spot `validate` runs found 0 issues on lritf, ifpe-dcg-2021, lss, reg-lgcc-rne, reg-lan, lfca (held), reg-lgeepa-mretc, reg-pmimss and ccom (none). An edited hash fails as `glossary_coverage_inconsistent`.
+- **Pipeline.** `pipeline reg-lss-rfar` wrote the same record as `link --all`.
+
+**Not done here.**
+- **Source-bound exception profiles.** Boundary, label and delimiter hints for the 12 holds are still open.
+- **Title-span usage filter.** Still open. Each is a separate reviewed change.
+- **Configured-style placeholders.** The established pass and the configured styles other than `auto_whole` do not report repealed placeholders, so `repeal_placeholders` is absent for them rather than empty.
+
+## 2026-10-19 — `reg-lgcc-rne` adopts LGCC Article 3; meia and mpcca imports wait for the title-span filter
+
+**rne.** Its Article 2 opens "se considerarán las definiciones contenidas en el artículo 3 de la Ley, así como las siguientes:". It now uses `auto_whole` with `additive_to: ["urn:lex-mx:federal:statute:lgcc:article:3"]`. LGCC's 38 terms all come from Article 3.
+- **Usages:** 82 → 207. rne's own 82 are unchanged, and LGCC adds 125: `Emisiones` 62, `Secretaría` 38, `Ley` 14, `Mitigación` 11.
+- **Sample check:** the sampled `Secretaría` uses are bare "la Secretaría". rne defines no `Secretaría` of its own.
+- **Other instruments:** none changes. References stay at 35,950, and `link --all` matched a disposable probe byte for byte.
+
+**meia and mpcca are not configured.** A probe configured both with LGEEPA Article 3. Their own usages were unchanged, but nearly all of the imported ones are false matches:
+- **meia:** 21 imported usages.
+- **mpcca:** 29 imported usages.
+- **The false matches:**
+  - LGEEPA's `Ambiente` and `Protección` matched inside other names: "Secretaría de Medio Ambiente y Recursos Naturales", "Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente…" and LGEEPA's own title.
+  - `Secretaría` matched inside the regulations' own `Secretaría:` definition line.
+- **Why they wait.** Admitting them would add known false usages. They wait for the title-span usage filter, which is a separate reviewed change.
+
+**Still unconfigured.**
+- `reg-lgeepa-maaa` also adopts the Ley Federal sobre Metrología y Normalización, which is not in the corpus. Precedence between the two laws is an operator question.
+- `reg-lgeepa-mretc`'s "otros ordenamientos" is still an operator question.
+
+## 2026-10-19 — Six glossaries held by running headers are released by reparse; one parser fix
+
+The operator asked for the six glossaries held for running headers to be fixed: `reg-lgcc-rne` 2, `reg-lgeepa-maaa` 2, `-meia` 3, `-mpcca` 6, `-mretc` 3 and `reg-lgs-investigacion` 40.
+
+**Cause.** These six were parsed on 2026-07-12. Since 2026-10-15 (`12e0cc752`), the Diputados parser drops up to three uppercase title lines directly above `CÁMARA DE DIPUTADOS…` (`publisher_title_lines`). That rule covers all six headers, including `reg-lgs-investigacion`'s, which prints `INVESTIGACION` without the accent the title has. So no adapter changes: a disposable reparse with the printed lines declared as `header_lines` gave byte-identical provisions to one without them. The same probe showed that `reg-lss-maeba` needed no `header_lines` either (correction recorded in its entry).
+
+**One parser fix** (fixture `colon-dot-redacted-decree-article-sample.txt`, cut from `reg-lgeepa-mretc`):
+- mretc prints its redacted decree article with a colon: `ARTÍCULO SEGUNDO: ..........`. The dot-redaction check accepted only `.-`, `.` and `-`, so the current parser appended that line to Article 32.
+- `is_dot_redacted_decree_article` now also accepts a colon. It accepts one only there, never as a general ordinal-heading separator, and a test pins that.
+- No committed provision contains a paragraph of that shape, so no stored text can change on reparse.
+
+**Reparse** (`pipeline` for each, then `link --all`; identical to a disposable probe apart from retrieval timestamps and the `pdftotext` version string):
+- **Same sources.** The PDF and extracted-text hashes match the recorded ones for all six, and the furniture audits report 0 findings.
+- **Provisions.** All ids are unchanged. Only `text` and `heading_context` changed, and no changed provision is `lawyer_verified` or `review_required`.
+- **Text changes,** each one classified:
+  - **Header removal:** 90 provisions; nothing else changed in them.
+  - **Headings:** 15 `Capítulo`/`Sección` headings that ended the previous article's text now sit in `heading_context` (rne 7, mretc 7, maaa 1). Before, every rne and mretc article had `chapter: null`.
+  - **maaa.** Articles 33–39 Bis move from Sección III to Sección IV.
+  - **Signature blocks:** one per instrument, six in all. Each was a closing "Dado en la Residencia… Rúbrica." block (`is_enactment_signature`, since 2026-07-25).
+  - **Paragraph breaks:** every new break where a header used to sit follows a colon, semicolon, period or amendment mark. No sentence is split.
+- **References.** All 225 are unchanged (rne 43, maaa 49, meia 37, mpcca 17, mretc 13, lgs-investigacion 67). Totals stay at 35,950 references and 9,809 cross-instrument edges, and the rejected set is still the 8 accepted gaps.
+
+**Glossaries** (wider pass, all complete; held glossaries 18 → 12):
+
+| Instrument | Terms | Usages |
+|---|---:|---:|
+| `reg-lgcc-rne` 2 | 12 (I–XII) | 82 |
+| `reg-lgeepa-maaa` 2 | 24 (I, I Bis, I Ter, II–XXII) | 505 |
+| `reg-lgeepa-meia` 3 | 19 (I, I Bis, I Ter, II–XVII) | 131 |
+| `reg-lgeepa-mpcca` 6 | 15 (I–XV) | 124 |
+| `reg-lgeepa-mretc` 3 | 18 (III is a repeal placeholder; VII Bis) | 155 |
+| `reg-lgs-investigacion` 40 | 11 (I–XI) | 0 |
+
+- **lgs-investigacion has 0 usages** because its terms are capitalized in the glossary and lowercase in running text (`embarazo`, `feto`), and matching is case-sensitive. This is the lowercase-usage question already open.
+- **Imports are not part of this entry.** maaa adopts the Ley Federal sobre Metrología y Normalización, which is not in the corpus, alongside LGEEPA, so precedence between them is a legal question. mretc's "otros ordenamientos" remains an operator question.
+
+## 2026-10-18 — `reg-lss-rfar`: wrapped running header removed by reparse; adopts LSS Article 5 A
+
+The operator asked for the `reg-lss-maeba` treatment to be applied to `reg-lss-rfar`. Its Article 2 glossary already gave 4 complete terms, but its running header sat inside fraction IV's definition.
+
+**Cause and repair:**
+- **Cause.** rfar's running header is its official title printed on three lines, followed by a blank line before `CÁMARA DE DIPUTADOS…`. The whole-line title match misses a wrapped title, and the publisher-title rule (`publisher_title_lines`) looks back only three lines, with no blank among them. It leaked into 5 provisions (Articles 2, 6, 8, 13 and 18). A disposable reparse without `header_lines` keeps the leak, so the adapter field is needed here, unlike maeba.
+- **Repair.** The adapter declares the three printed lines as `header_lines`, and rfar was reparsed with `pipeline`. The title block and the `CAPÍTULO V` heading wrap differently, so they do not match those lines and are kept.
+- **Same source.** The retained PDF and extracted text match the recorded hashes (`4b4529ce…`, `061dd4c0…`). The furniture audit reports 0 findings.
+
+**Reparse diff:**
+- **Provisions.** All 24 ids are unchanged, and no field other than `text` changed.
+- **Header leaks.** In the 5 provisions, the deleted text is exactly the joined header.
+- **Transitory *sexto*.** It loses its "Dado en la residencia del Poder Ejecutivo Federal… Rúbrica." block, which is enactment apparatus (`is_enactment_signature`), as in maeba.
+- **References.** 32 → 31. The removed edge came from that signature block: the countersignature's "artículos 18 de la Ley Orgánica de la Administración Pública Federal; 7, fracción XII, y 86 del Reglamento Interior…" was linked to LOAPF 18 with a `fracción XII` qualifier that belongs to the Reglamento Interior's Article 7. No review was bound to it. The other 31 keep their targets, and two shift offsets only.
+
+**Glossary:**
+- **Configuration.** Article 2 uses `auto_whole` with `additive_to: ["urn:lex-mx:federal:statute:lss:article:5-a"]`, as for macerf and maeba.
+- **Terms.** The same 4 terms, I–IV. Only fraction IV's span shrinks, to exclude the header.
+- **Usages.** 79 → 123: its own 79 are unchanged, and 5 A adds 44 (`Ley` 24, `Instituto` 20).
+
+**Result** (`link --all`, byte-identical to a disposable probe apart from the retrieval timestamp):
+- No other instrument changes, and the rejected set is still the 8 accepted gaps.
+- References are 35,951 → 35,950, and cross-instrument edges 9,810 → 9,809.
+- **Open.** As for macerf, whether the 2013 import follows later amendments of 5 A is a legal reading for JRH or the operator.
+
+## 2026-10-18 — `reg-pmimss` admitted (Reglamento de Prestaciones Médicas del IMSS) as a test case
+
+**Operator decision.** Admit `regla/n29.pdf` as a test of ingestion into a more populated and linked corpus. The admission is structural only: provisions are `not_analyzed`, and no legal review is implied.
+
+**Source and batch:**
+- **Batch.** `batches/labor_L2_imss_gap_1.json` (one instrument, following `maximasa_federal_gap_1`).
+- **Source.** The Cámara other-regulations index (`norma/reglamento.htm`) lists the Reglamento with its DOF publication of 2006-11-30 and no reforms. `regla/n29.pdf` is that publication (sha256 `2031b8a0…`).
+- **Slug.** `reg-pmimss`, from the title's initials, as `reg-csps`.
+- **Adapter.**
+  - parent law LSS (`parent_instrument_id`);
+  - `publication_date` 2006-11-30, set by hand;
+  - glossary: Article 2, `auto_whole`, `additive_to` LSS Article 5 A, as macerf and maeba.
+
+**Why the publication date is set by hand.** Count freezing would derive 1997-06-30. That date comes from transitory *segundo*, which cites the abrogated regulation's DOF publication. The derived value would have been wrong.
+
+**Two narrow parser additions, each with a fixture:**
+- **DOF edition page headers.** The source is a DOF edition, so its running headers carry a page number and change on every page (`Jueves 30 de noviembre de 2006 DIARIO OFICIAL (Séptima Sección) 107`). They leaked into 21 provisions.
+  - The Diputados parser now treats a line with both `DIARIO OFICIAL` and a `Sección)` marker as furniture, as `standard.rs` already did.
+  - No committed provision contains such a line, inline or alone, so existing text cannot change on reparse.
+- **`separatorless_article_headings`.** This adapter field lists exact article labels whose heading the source prints without a separator: `Artículo 71 El médico…`.
+  - Only a listed label, in the main article sequence and followed by a capitalized body, opens an article.
+  - A listed label that does not open exactly one block fails the parse.
+  - There is no global rule, because `artículo 27 Constitucional` would split.
+
+**Result** (`batch run --freeze-counts`, then `link --all`; identical to a disposable probe except for timestamps):
+- **Structure.** 171 articles and 2 transitories; validation is clean and the furniture audit reports 0 findings.
+- **References.** All 71 resolve: 43 to LSS, 27 internal, 1 to LFT.
+- **Corpus.** 468 instruments; references 35,880 → 35,951; cross-instrument edges 9,766 → 9,810. No existing instrument changed, and the rejected set is still the 8 accepted gaps.
+- **Glossary.** 20 own terms, I–XX, complete, with no 5 A or 159 name repeated.
+- **Usages.** 247 in all: `Instituto` 159 and `Ley` 73 from 5 A, and 15 of its own terms. Its own terms are mostly written in lower case in running text, and matching is case-sensitive.
+- **Title-prefix debt.** About 15 `Ley` usages sit inside another title (`Ley General de Salud`, `Ley Federal del Trabajo`, `Ley Federal de Transparencia…`).
+
+**Open:**
+- **Temporal analysis.** None was run, because the batch path skips it.
+- **Static or dynamic reference.** This 2006 regulation adopts a 5 A amended since. Whether it follows those amendments is a legal reading for JRH or the operator, as for macerf.
+
+## 2026-10-18 — `reg-lss-maeba`: wrapped running header removed by reparse; adopts LSS Article 5 A
+
+The operator asked for the `reg-lss-macerf` treatment to be applied to `reg-lss-maeba`. Its glossary was held because its running header sat inside fraction III.
+
+**Cause and repair:**
+- **Cause.** The Diputados parser drops a running header by comparing whole source lines with the uppercased official title. maeba's header wraps onto two lines, so it leaked into 18 provisions, the Article 2 glossary among them.
+- **Repair.** The adapter now declares the two printed lines as `header_lines`. That is the existing mechanism, already tested by `configured_wrapped_running_header_never_enters_provision_text`. maeba was then reparsed with `pipeline`.
+- **Same source.** The retained PDF and the extracted text match the recorded hashes (`9816ce7f…`, `d8e21cb9…`). No source changed, and the furniture audit reports 0 findings.
+- **Correction (2026-10-19).** The cause above is wrong. Since 2026-10-15 (`12e0cc752`), the parser has also dropped up to three uppercase title lines directly above `CÁMARA DE DIPUTADOS…` (`publisher_title_lines`), and that rule already covers maeba's header. A disposable reparse without `header_lines` gives byte-identical provisions. The actual cause was maeba's stale July parse, so the reparse alone was the repair. The `header_lines` entry is redundant but harmless, and it stays. See the 2026-10-19 entry on the six held glossaries.
+
+**Reparse diff:**
+- **Provision ids and fields.** All 67 ids are unchanged. No field other than `text` changed.
+- **Header leaks.** In 18 provisions the only change is the removed header.
+- **Transitory *noveno*.** It no longer ends with the "Dado en la Residencia del Poder Ejecutivo Federal… Rúbrica." block. The current parser has classified that block as enactment apparatus since 2026-07-25 (`is_enactment_signature`), after maeba's July parse. Another 37 regulations still carry such a block from their original parse; that is recorded debt, not changed here.
+- **References.** The 17 references and their targets are unchanged. Only their offsets, and the offset-bearing ids, shift by the removed text. No operator review or approval was bound to them.
+
+**Glossary:**
+- **Configuration.** Article 2 uses `auto_whole` with `additive_to: ["urn:lex-mx:federal:statute:lss:article:5-a"]`, as for macerf.
+- **Terms.** 10 terms, I–X, complete. None repeats a 5 A or 159 name.
+- **Usages.** 197 in all: 116 of its own terms and 81 of 5 A terms (`Instituto` 68, `Ley` 8, `Código` 5).
+
+**Result** (`link --all`, byte-identical to a disposable probe apart from the retrieval timestamp):
+- No other instrument changes. References stay at 35,880, and the rejected set is still the 8 accepted gaps.
+- 18 glossaries remain held.
+- The other header-leak holds (`reg-lgcc-rne`, `reg-lgeepa-maaa`, `-meia`, `-mpcca`, `-mretc`, `reg-lgs-investigacion`) are candidates for the same treatment.
+
+## 2026-10-18 — `reg-lss-macerf` adopts LSS Article 5 A only (scoped `additive_to`)
+
+The operator named two targets to check against LSS Article 5 A: `reg-lss-macerf` and `regla/n29.pdf`.
+
+**`reg-lss-macerf` (in the corpus).** Article 2 reads "serán aplicables las definiciones establecidas en el artículo 5 A de la Ley del Seguro Social, así como las siguientes". It adopts 5 A, not Article 159.
+- **Scoped entry.** An `additive_to` entry may now be one provision's exact id. It adopts only the terms that provision defines. A whole-instrument entry would also have brought in 159's terms.
+- **Fails closed.** The entry must resolve to exactly one corpus instrument, and that instrument must contain the provision. The provision must define at least one term. Otherwise `link` fails. Whole-instrument entries (`ifpe-dcg-2021`, `itf-dcg-2018` → LRITF) behave as before.
+- **Configuration.** `reg-lss-macerf` moves from auto-detection to a configured glossary: Article 2, `auto_whole`, `additive_to: ["urn:lex-mx:federal:statute:lss:article:5-a"]`.
+- **No conflicts.** Its 10 own terms (II is `(Se deroga)`) repeat no 5 A or 159 name.
+
+**Result** (`link --all`, byte-identical to a disposable probe):
+- Its own 10 terms are byte-identical. Usages go from 0 to 449, all of them 5 A terms: `Instituto` 307, `Ley` 133, `Código` 9.
+- The links go to `lss/markdown/articulo-5-A.md`.
+- No other instrument changes. References stay at 35,880, and the rejected set is still the 8 accepted gaps.
+- **Title-prefix debt:** about 7 imported usages sit inside another title (`Ley Federal del…` 5, `Ley del Impuesto…` 1, `Leyes de Instituciones…` 1). The 6 `Ley del Seguro Social` matches name the adopted referent.
+- **Own terms still have 0 usages:** running text writes `patrón del campo` and the like in lower case, and the matcher is case-sensitive.
+
+**`n29` (Reglamento de Prestaciones Médicas del IMSS, DOF 30-11-2006).**
+- It is not in the corpus or the cluster-2 inventory.
+- Its Article 2 adopts "las definiciones establecidas en el Artículo 5 A de la Ley del Seguro Social, así como las siguientes". It defines 20 terms, I–XX, complete, and none of them repeats a 5 A or 159 name.
+- Linking it needs a canonical admission: adapter, expected counts and the furniture-audit gate.
+- The `regla/` path holds the DOF publication, not a consolidated text. Before admission, a consolidated version should be looked for in the Diputados `regley` index.
+
+**Open:**
+- **Static or dynamic reference.** The adopting regulations predate later amendments of 5 A (2009, 2022, 2023, 2024). Linking to the current 5 A treats the reference as dynamic. That is a legal reading for JRH or the operator; it is not decided here.
+- **Same wording elsewhere.** `reg-lss-rfar` has the same import wording and is not configured. `reg-lss-maeba` is held, and `extract_instrument_terms` returns before imports when an instrument's own terms are empty. So an import-only or held glossary adopts nothing until that early return changes.
+
+## 2026-10-18 — Glossary completeness check: whole repeal placeholders and qualified fraction order
+
+The operator asked for the completeness-check repair first (Codex review, `docs/glossary-g0-g2-outlier-review-2026-10-18.md`, P1 and the qualified-order P2). Both repairs are in `complete_entries` (`crates/lex-parse/src/terms.rs`), which the wider pass and the `auto_whole` style use.
+
+**P1, repeal placeholders:**
+- **A fraction counts as repealed only if the whole entry is a placeholder.** That means `Derogada.`, `(Se deroga);` or `Se deroga.`, optionally followed by amendment notes (`Fracción adicionada DOF … . Derogada DOF …`) and the `y` that introduces an inline glossary's last entry. Before, the test was only that the entry started that way.
+- **The last entry is checked on its first paragraph only,** because it runs on to the article's closing paragraphs.
+- **The 13 placeholder shapes found in committed glossary provisions all pass.** A table test (`wider_pass_skips_every_surveyed_repeal_placeholder_shape`) runs each one through the wider pass. Most of them occur in glossaries the established pass finds, and that pass does not use this check.
+- **An entry that starts with repeal wording but goes on holds the glossary.** Example: `Derogados: Los permisos retirados`. It is neither dropped nor read as a term, and no legal finding is made about it.
+- **The check for a hidden fraction heading now also runs on placeholders.** So `II. Derogada. ENCABEZADO III. Secretaría: …` holds instead of losing III.
+
+**P2, qualified fractions:**
+- **Each fraction is checked against a key:** its value plus its qualifier (none, `Bis`, `Ter`). An unqualified fraction must follow the previous number. A qualified one must repeat the number with the next qualifier.
+- **So these hold:** `I, I Bis, I Bis`; `I Ter` straight after `I`; and a numeral not in standard spelling (`IIII`).
+- **The printed label stays as the entry's `fraction`.**
+
+**Result:**
+- A disposable `link --all` probe changes no corpus file. References stay at 35,880, and the rejected set is still the 8 accepted gaps.
+- The same 19 glossaries are held, for the same reasons.
+- So none of the 94 admissions, and neither `lss` glossary, relied on either defect. The established pass is unchanged.
+
+**Still open from the same review:**
+- a persisted extraction-coverage report, so that a held glossary is distinguishable from an empty `[]`;
+- source-bound per-instrument extraction profiles;
+- the title-span usage filter.
+
+## 2026-10-18 — LSS defines two term sets: Article 5 A and Article 159
+
+**Operator ruling (2026-10-18, after the Codex outlier review).** LSS Article 5 A is the glossary. Article 159 adds to it, the way a further `se entenderá por:` does: it defines a different set of terms. Both are linked, and they must not conflict. This is an operator ruling on glossary scope, not a JRH legal approval. It covers `lss` only. The other instruments listed under "Which glossary governs" in the entry below are still open.
+
+**Mechanism:**
+- **More than one glossary provision.** An adapter's `glossary` may list `additional_provisions` (`crates/lex-source/src/lib.rs`). Their terms add to the first provision's (`extract_glossaries`). A term identifier defined in two of them fails `link`; it is not resolved by precedence.
+- **Two new styles apply an auto-detection grammar to one named provision:**
+  - `auto_established`: the established `se entenderá por:` pass, exactly as auto-detection applies it.
+  - `auto_whole`: the wider pass, accepted only whole. An incomplete glossary fails `link` instead of being held with no terms.
+- **`lss`:** 5 A uses `auto_whole`, and 159 uses `auto_established`, so 159's terms stay byte for byte.
+- **Ordering against the Codex review.** Codex put the repeal-placeholder and qualified-fraction guard repairs before any new admission. 5 A has no repealed fraction and no `Bis`/`Ter`, so neither defect can reach it.
+
+**Result** (`link --all`, byte-identical to a disposable probe):
+- `lss` goes from 6 terms to 30, and from 5 usages to 946. Its 6 Article 159 records are unchanged, and no term identifier repeats.
+- No other instrument changes. References stay at 35,880, and the rejected set is still exactly the 8 accepted gaps.
+- **Usages by term:** `Instituto` 500, `Ley` 407, `Código` 28, `Pensión` 5 (159), `Buzón IMSS` 4, `Trabajador Independiente o por cuenta propia` 2. The other 24 terms have none, for two reasons:
+  - 13 of 5 A's names are alternations (`Trabajadores o trabajador`, `Patrones, patrón o persona empleadora`), and the bare matcher needs that exact string;
+  - the matcher is case-sensitive, and running text writes `beneficiarios` or `cuenta individual` in lower case.
+
+  Aliases for alternation names are a separate schema and semantic decision.
+- **Title-prefix debt in `lss`:** a scratch count finds about 72 usages inside another title:
+  - 64 are `Ley` followed by another law's title, including 4 of `Ley del Seguro Social que se deroga` (the repealed 1973 law);
+  - 8 are `Instituto` inside the INFONAVIT or ISSSTE names.
+
+  The title-span filter in the Codex review remains the fix.
+
+**Open:**
+- **Article 159 is incomplete under the established pass.** It yields 6 of 8 terms:
+  - VII (`Monto constitutivo es la cantidad…`) has no comma delimiter;
+  - VIII (`Suma asegurada es…`) follows VII inline after a period.
+
+  This is the copula class of `ltfccg` in the Codex review. Its fix is a per-entry term-span profile, not a general split on `es`.
+- **Imports are not configured.** The `reg-lss-*` imports of 5 A (G3) remain unconfigured, and `reg-lss-maeba` is still held for a header leak.
+
+## 2026-10-18 — Glossary auto-detection gains a wider fallback pass (glossary-detection G0–G1)
+
+The operator approved G0 and G1 of `docs/plans/glossary-detection.md`.
+
+**What changed** (`crates/lex-parse/src/terms.rs`, `detect_glossary`):
+- **Fallback only.** The established pass (`se entenderá por:`) is unchanged and runs first. The wider pass runs only when it finds nothing, so every glossary that already had terms stays byte for byte.
+- **Introductions the wider pass reads:**
+  - `se entiende por:`, including inserted phrases (`se entiende, en singular o plural, por:`, `se entenderá, por:`);
+  - `se debe(n) entender por:` and `se entenderá como:`;
+  - imported definitions (`…las definiciones contenidas en el artículo 3 de la Ley, así como las siguientes:`, `… y en las siguientes definiciones:`, `… así como a las siguientes:`);
+  - `se aplican` or `se observarán las siguientes definiciones:` and `se considera:`.
+- **Skipped:** chapter-, title- and article-scoped introductions (`cpf` 401, `ccom` 1416, `ladua` 137 bis 2), and enumerations that are not glossaries (`cff` 16, `lisr` 142, `lasoc` 12).
+- **Where a fraction may start:** after `;`, `:`, `.`, a line break, the conjunction `y` (the last inline entry), or an amendment note (`DOF dd-mm-yyyy`). Numerals may be written `I.-`.
+- **A glossary is accepted only whole.** If it fails any of these checks it yields 0 terms and is reported as "held" with a reason, because a partial glossary would be wrong silently:
+  - fractions run I, II, III… without a gap (`Bis`/`Ter` may follow their base);
+  - every fraction that is not a repeal placeholder yields a plain term (no `:`, `;`, `.`, line break or quotes in it);
+  - no fraction swallows another fraction heading;
+  - no term repeats.
+
+**Result** (`link --all`, byte-identical to a disposable probe):
+- 94 instruments that had 0 terms gain 1,619 terms and 28,245 usages.
+- No instrument that already had terms changes.
+- References stay at 35,880, and the rejected set is still exactly the 8 accepted gaps.
+- 19 glossaries are held with a reason:
+  - running page headers or `Página 1 de 9` inside the glossary: `reg-lgcc-rne`, `reg-lgeepa-maaa`, `-meia`, `-mpcca` and `-mretc`, `reg-lgs-investigacion`, `reg-lss-maeba`, `log`;
+  - gaps or typos in the source numbering: `fi-dcg-2014`, `servinv-dcg-2013`, `reg-lftr-mcsre`, and `ladua` (`lI.`);
+  - a spurious `C.` from `S. A. de C. V.`: `lfca`;
+  - entries without a term delimiter: `lfpccs`, `lfra`, `lfvv`, `ltfccg`;
+  - a nested list: `lieps`;
+  - quoted names that need the quoted style: `lsct`.
+
+**G0 cross-check** (bare `Ley`/`Reglamento` used at least 3 times with an express definition):
+- **`Ley`:** 33 of 47 targets now have the term, and 6 are held.
+- **`Reglamento`:** 12 of 17 now have the term, and 3 are held.
+- **The rest:**
+  - the established pass already chose another glossary: `lss` art. 159 rather than 5 A, `reg-lgp`, `scap-dcg-2012`, `reg-lgs-mcsotcsh`, `lrart3-mmce`;
+  - a held instrument: `socap-sofipo-dcg-2006`;
+  - a quoted definition that needs the quoted style: `reg-lfmn`, `reg-lgs-msi`;
+  - no Roman fractions: `reg-senado`.
+
+**Open for the operator:**
+- **Which glossary governs** where the established pass picked a later or narrower one: `lss` (ruled 2026-10-18: both 5 A and 159, see the entry above), `lgs`, `lrart3-mmce`, `reg-lgs-mpsam`, `reg-lgp`, `scap-dcg-2012`, `reg-lgs-mcsotcsh`.
+- **Title-prefix usages.** The bare matcher adds at most 1,045 usages where `Ley`, `Reglamento` or `Código` is followed by a title word (`de`, `Federal`, `General`…). Some of these are the defined law's own title, so this is an upper bound. A title-aware filter remains a separate change.
+- **Imports are not configured yet** (`additive_to`, G3).
+
+## 2026-10-18 — `reg-lan` Article 1 defines its four vocables
+
+Operator ruling: `reg-lan` Article 1 establishes the definitions for the whole regulation. It reads: Cuando en el mismo se expresen los vocablos "Ley", "Reglamento", "La Comisión" y "Registro", se entenderá que se refiere a la Ley de Aguas Nacionales, al presente Reglamento, a la Comisión Nacional del Agua y al Registro Público de Derechos de Agua, respectivamente. The committed text matches the operator's quotation.
+
+**Implementation.** A new adapter glossary style, `quoted_respectively`, is configured only for `reg-lan`, on `:article:1` (`crates/lex-parse/src/terms.rs`):
+- Each quoted vocable becomes a term, kept exactly as printed. The regulation writes `La Comisión` with a capital L 338 times and `la Comisión` 3 times, so the printed form matches the text.
+- Every term's definition span is the whole defining sentence. The referents inside it are therefore not counted as usages.
+- Extraction fails rather than guessing when the number of vocables differs from the number of referents.
+- Auto-detection is unchanged. A census found no other instrument with this glossary form: `lic` 71, `luc` 60, `lgtoc` 80 and `reg-lgcc-rne` 2 are equivalences or other forms, not glossaries of this kind.
+
+**Result.** `link --all` relinked only `reg-lan`. The 8 rejected instruments are exactly the accepted gaps, and references stay at 35,880. `reg-lan` gains:
+- 4 terms;
+- 753 usages: `La Comisión` 337, `Ley` 260, `Reglamento` 119 and `Registro` 37;
+- Markdown links from those usages to Article 1. Article 1 has a single paragraph, so the links target the whole note.
+
+Its 126 `parent_shorthand` edges to `lan` are unchanged.
+
+**Known imprecision, not fixed here.** The shared usage matcher also matches a term that is the first word of another title. A pattern scan finds at least 40 such usages: `Ley` in another law's title, such as `Ley Federal de Derechos` or `Ley General del Equilibrio Ecológico…` (35); `Reglamento` in another regulation's title, such as `Reglamento para la Prevención…` (4); and `Registro` in `Registro de Obligaciones y Empréstitos…` (1). The scan also hit 2 correct usages, which name the defined referents in full: `Ley de Aguas Nacionales` and `Registro Público de Derechos de Agua`. The existing `Ley` terms in 94 instruments behave the same way (`reg-lfaebsp`: 5 of 56). A title-aware filter would change usages corpus-wide, so it needs its own decision.
+
+**Superseded for `reg-lan` the same day (operator ruling: option b, reg-lan only).**
+- **The rule.** A usage counts only when the vocable is written exactly as Article 1 expresses it:
+  - between a matched pair of straight (`"Ley"`) or curly (`“Ley”`) quotes;
+  - with its capital letter;
+  - with no singular or plural variant.
+- **Implementation.** It is the adapter option `glossary.usage_form: "quoted"` (`extract_quoted_term_usages` in `crates/lex-parse/src/terms.rs`). The recorded span is the word inside the quotes, so Markdown reads `"[Ley](articulo-1o.md)"`. The quotes are the condition for a match, not part of the span.
+- **Result.** `reg-lan` now has 706 usages: `La Comisión` 337, `Ley` 223, `Reglamento` 112 and `Registro` 34. Every usage is quoted, no mixed quote pair occurs, and terms and references are unchanged.
+- **What was dropped.** 47 bare usages:
+  - 41 were the first word of another title, which is the imprecision above;
+  - 2 were genuine bare uses that are no longer linked as terms: `la Ley` in Article 120 and `este Reglamento` in Article 135. The Article 120 citation still links to `lan` through its `parent_shorthand` edge;
+  - 4 were other text: two `su Reglamento` naming other laws' regulations, a quoted `"El Registro"`, and a chapter heading stored inside Article 53 (`Capítulo IV Registro Público de Derechos de Agua`).
+- **Elsewhere.** The other 93 `Ley` terms keep the bare matcher and remain debt.
+
+## 2026-10-18 — Merged headings are split into their own articles; letter series accepted by equivalence
+
+Operator rulings, continuing the 2026-10-17 entry below:
+
+1. **Letter series are accepted by equivalence with the ordinals.** The `lgtoc` 228 a–v headings are the same per-article numbering device as the Latin ordinals. They are accepted under the same gap-free series rule, where a, b, … are the first, second, … suffix. With the ordinal rows, all 77 series-checked rows are accepted as `merged_heading` debt. The equivalence governs review only. Letter and ordinal suffixes remain distinct identifiers, because 14 instruments print both on the same base number (for example CFF `29-A` and `29 Bis`).
+2. **The LFTR 180 Quintes–Septimus bodies are legally removed text,** like the bracketed placeholders. They are not structural debt.
+3. **`lgs` reason corrected.** In `_closure-accepted-gaps.json`, the `lgs` gap now records that CPF 209 Quintus does not exist and that the reference is stale or wrong. The recorded error is unchanged, and the closure gate compares errors only.
+4. **Split the merged headings into their own articles first,** before any citation-extraction change. Execution plan: `docs/plans/merged-heading-split.md`.
+
+**M1 applied.** Seven instruments with retained, hash-matching source were reparsed: `lfped`, `lgamvlv`, `lgdnna`, `lgmdfp`, `lgv`, `reg-lgcfd` and `reg-lsem`. They gain 23 articles. Four of those had been lost from the corpus, not just merged: `lgmdfp` 12 Duodecies and `reg-lsem` 33 Undecies–Terdecies. Their machine-proposed count baselines are re-frozen at the new counts under this decision. The other 10 instruments wait for an operator-approved mechanism.
+
 ## 2026-10-17 — Latin ordinal qualifiers and the structural-debt candidate classes
 
 Operator rulings on the SQLite M1 structural-debt candidates (`docs/sqlite-m1-contract-decisions-2026-10-17.md` on `db/sqlite-projection`):
@@ -8,7 +667,7 @@ Operator rulings on the SQLite M1 structural-debt candidates (`docs/sqlite-m1-co
 2. **Bracketed placeholders are text that was legally removed.** Lines such as `[Artículo 11 Bis. Suprimido]` (`lgipe` 20, `lgcs` 7) are not missing structure, and they are not loaded as structural debt.
 3. **Held DCG candidates wait for the DCG pass** (`oaac-dcg-2009`, `socap-sofipo-dcg-2006`).
 4. **Held laws and regulations cite stale or wrong references**, pointing at articles that do not exist. The committed text confirms this for `lgs` → CPF 209 Quintus and `lftr` → LGTAIP 180 Bis. It does not confirm it for `cpf` → LIC 112 Quintus or `lmv` → LGTOC 228-B/228-H. Those headings are printed inside LIC 112 Quáter and LGTOC 228. This contradiction is open, and `_closure-accepted-gaps.json` is unchanged.
-5. **Golden query G1.** Every bare `la Ley` in `reg-lan` means the Ley de Aguas Nacionales, through the definition in `reg-lan` article 1 (`"Ley"` … "se entenderá que se refiere a la Ley de Aguas Nacionales"). All 126 `parent_shorthand` edges in `reg-lan` target `lan`. `reg-lan` has no `terms.json` entry for that definition.
+5. **Golden query G1.** Every bare `la Ley` in `reg-lan` means the Ley de Aguas Nacionales, through the definition in `reg-lan` article 1 (`"Ley"` … "se entenderá que se refiere a la Ley de Aguas Nacionales"). All 126 `parent_shorthand` edges in `reg-lan` target `lan`. `reg-lan` has no `terms.json` entry for that definition. (Superseded 2026-10-18: the definition is now extracted; see "`reg-lan` Article 1 defines its four vocables".)
 
 Not changed: reference extraction. 51 stored edges in 12 instruments are false self-links. In each, an embedded heading's own text is read as a citation to its bare base article (for example `lfped` 15 Quintus → `lfped` article 15, and all 23 `lgtoc` 228 a–v headings → article 228). They remain as committed pending an operator decision.
 

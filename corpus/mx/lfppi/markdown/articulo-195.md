@@ -17,7 +17,7 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 195
 
-Recibida la solicitud por el Instituto y enterado el pago de las tarifas correspondientes, se efectuará el examen de los elementos, datos y documentos aportados.
+Recibida la solicitud por el [Instituto](articulo-4.md) y enterado el pago de las tarifas correspondientes, se efectuará el examen de los elementos, datos y documentos aportados.
 
 Si a juicio del Instituto, éstos no satisfacen los requisitos legales o resultan insuficientes para la comprensión y análisis de cualquiera de los elementos de la solicitud, se prevendrá a la persona solicitante para que haga las aclaraciones o adiciones necesarias, otorgándole al efecto un plazo de cuatro meses. Párrafo reformado DOF 03-04-2026
 

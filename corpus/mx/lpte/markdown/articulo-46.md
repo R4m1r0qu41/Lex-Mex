@@ -17,4 +17,4 @@ source_sha256: c24aa3a57883383635d5271683dd76e561f21852328f0e89f6bf1c2a09aa2d41
 
 # Artículo 46
 
-El Fondo para la Transición Energética y el Aprovechamiento Sustentable de la Energía debe contar con un órgano colegiado integrado de conformidad con lo establecido en el contrato correspondiente.
+El Fondo para la [Transición Energética](articulo-3.md) y el [Aprovechamiento Sustentable de la Energía](articulo-3.md) debe contar con un órgano colegiado integrado de conformidad con lo establecido en el contrato correspondiente.

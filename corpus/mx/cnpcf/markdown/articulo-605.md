@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo I
+
 # Artículo 605
 
 Puede oponerse al nombramiento de persona tutora, la niña, niño o adolescente que tenga la edad para nombrarla y el Ministerio Público, manifestando en un escrito las razones de su oposición y en su caso la documentación que la avale, con el que se dará vista a la persona tutora en cuestión y desahogada o no, la autoridad jurisdiccional resolverá de plano, sin que dicha resolución sea recurrible, así como también podrá oponerse al hecho por la persona que no siendo ascendiente le haya instituido heredero o legatario, de acuerdo a sus intereses.

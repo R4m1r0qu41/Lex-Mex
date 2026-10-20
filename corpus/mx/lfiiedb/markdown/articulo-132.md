@@ -17,4 +17,4 @@ source_sha256: 7679afbbf32749e0c0bacab72644d41fc6ccdeeab3a2f25dfae8d26a065de01e
 
 # Artículo 132
 
-Adicionalmente a lo expuesto en los artículos anteriores, en caso de divergencias de naturaleza técnica o económica derivada de los Contratos de Inversión Mixta, la Dependencia o Entidad involucrada y el desarrollador tratarán de resolverlas de mutuo acuerdo y con apego al principio de buena fe. Esta etapa de negociación y, en su caso, acuerdo sobre el particular tendrá el plazo que al efecto se establezca en el Instrumento de Inversión, pudiendo ser prorrogado si así se acuerda en el instrumento correspondiente.
+Adicionalmente a lo expuesto en los artículos anteriores, en caso de divergencias de naturaleza técnica o económica derivada de los Contratos de Inversión Mixta, la [Dependencia](articulo-4.md) o [Entidad](articulo-4.md) involucrada y el desarrollador tratarán de resolverlas de mutuo acuerdo y con apego al principio de buena fe. Esta etapa de negociación y, en su caso, acuerdo sobre el particular tendrá el plazo que al efecto se establezca en el Instrumento de Inversión, pudiendo ser prorrogado si así se acuerda en el instrumento correspondiente.

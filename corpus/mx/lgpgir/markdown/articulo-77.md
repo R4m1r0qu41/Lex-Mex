@@ -17,6 +17,6 @@ source_sha256: b34326588bd6e7519e33411d3658239e3aefb56cef0fae5d775bc894af64a565
 
 # Artículo 77
 
-Las acciones en materia de remediación de sitios, y de reparación y compensación de daños ocasionados al ambiente, previstas en este capítulo, se llevarán a cabo de conformidad con lo que señale el Reglamento, y a lo previsto por la Ley Federal de Responsabilidad Ambiental.
+Las acciones en materia de remediación de sitios, y de reparación y compensación de daños ocasionados al ambiente, previstas en este capítulo, se llevarán a cabo de conformidad con lo que señale el [Reglamento](articulo-5.md), y a lo previsto por la [Ley](articulo-5.md) Federal de Responsabilidad Ambiental.
 
 Artículo reformado DOF 07-06-2013

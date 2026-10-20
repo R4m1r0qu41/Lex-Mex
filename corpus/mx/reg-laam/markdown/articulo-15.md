@@ -17,6 +17,6 @@ source_sha256: 8515c812258bcc7c342e8566ff623c7f5e880f2eb9ee2ad154758077089f11ca
 
 # Artículo 15
 
-El Alto Mando ordenará emitir la Directiva de Promoción y la formulación de documentos, publicaciones, manuales y criterios necesarios para la correcta ejecución de dicha Directiva.
+El [Alto Mando](articulo-5.md) ordenará emitir la [Directiva de Promoción](articulo-5.md) y la formulación de documentos, publicaciones, manuales y criterios necesarios para la correcta ejecución de dicha Directiva.
 
 Artículo reformado DOF 11-03-2016

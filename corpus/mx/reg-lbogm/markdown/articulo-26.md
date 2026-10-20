@@ -17,4 +17,4 @@ source_sha256: 667636f9e0ea65e72ac9d6d7b4d7563a183b75d0f140268a61929c74f5f88041
 
 # Artículo 26
 
-Las solicitudes de autorización se presentarán ante SALUD con los anexos correspondientes. En el original de la solicitud y en el acuse de recibo se asentará la fecha y hora de recepción.
+Las solicitudes de autorización se presentarán ante [SALUD](articulo-2.md) con los anexos correspondientes. En el original de la solicitud y en el acuse de recibo se asentará la fecha y hora de recepción.

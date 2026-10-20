@@ -17,13 +17,13 @@ source_sha256: 71ee875c26fc6a1024ea9481ca0690721959514689d860112c3093f0176dfcfb
 
 # Artículo 36
 
-Admitida la solicitud, la Secretaría Ejecutiva lo hará del conocimiento del Sistema, y coordinará y realizará las acciones necesarias para la conformación de un grupo de trabajo a efecto de estudiar y analizar la situación que guarda el territorio sobre el que se señala que existe violación a los Derechos Humanos de las Mujeres, ya sea por violencia feminicida o agravio comparado, a fin de determinar si los hechos narrados en la solicitud actualizan alguno de los supuestos establecidos en el artículo [24](../../lgamvlv/markdown/articulo-24.md) de la Ley.
+Admitida la solicitud, la [Secretaría Ejecutiva](articulo-2.md) lo hará del conocimiento del Sistema, y coordinará y realizará las acciones necesarias para la conformación de un grupo de trabajo a efecto de estudiar y analizar la situación que guarda el territorio sobre el que se señala que existe violación a los Derechos Humanos de las Mujeres, ya sea por violencia feminicida o agravio comparado, a fin de determinar si los hechos narrados en la solicitud actualizan alguno de los supuestos establecidos en el artículo [24](../../lgamvlv/markdown/articulo-24.md) de la Ley.
 
 Dicho grupo se reunirá en el término de cinco días hábiles, contados a partir del día siguiente de admitida la solicitud. El grupo de trabajo se conformará de la siguiente manera:
 
 I. Una persona representante del Instituto Nacional de las Mujeres, quien coordinará el grupo;
 
-II. Una persona representante de la Comisión Nacional;
+II. Una persona representante de la [Comisión Nacional](articulo-2.md);
 
 III. Una persona representante de la Comisión Nacional de los Derechos Humanos;
 

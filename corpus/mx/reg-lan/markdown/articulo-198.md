@@ -17,7 +17,7 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 198
 
-Para efectos de la conciliación conforme a la "Ley" y este "Reglamento" de los conflictos relacionados con el agua, "La Comisión" se sujetará al siguiente procedimiento:
+Para efectos de la conciliación conforme a la "[Ley](articulo-1o.md)" y este "[Reglamento](articulo-1o.md)" de los conflictos relacionados con el agua, "[La Comisión](articulo-1o.md)" se sujetará al siguiente procedimiento:
 
 I. La conciliación se iniciará a petición de parte interesada, presentando por duplicado la reclamación que se somete a conciliación y señalando nombre y domicilio de la parte a la que se le deberá correr traslado;
 

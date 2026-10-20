@@ -29,7 +29,7 @@ IV. Los riesgos por tipo de operación y línea de negocios.
 
 V. La determinación o procedimiento para calcular los límites para la toma de riesgos a nivel consolidado, por línea y unidad de negocio, por tipo de riesgo y en forma individual, por acreditado o contraparte.
 
-VI. El tipo de reportes que elaborarán, así como la forma y periodicidad con la que deberá informarse al Consejo de Administración, al Comité de Riesgos, al Director o Gerente General y a las unidades de negocios, sobre la exposición al riesgo de la Sociedad y de cada unidad de negocios.
+VI. El tipo de reportes que elaborarán, así como la forma y periodicidad con la que deberá informarse al [Consejo de Administración](articulo-1.md), al [Comité de Riesgos](articulo-1.md), al [Director o Gerente General](articulo-1.md) y a las unidades de negocios, sobre la exposición al riesgo de la Sociedad y de cada unidad de negocios.
 
 VII. Las medidas de control interno, así como las necesarias para corregir las desviaciones que se observen sobre los límites de exposición al riesgo.
 

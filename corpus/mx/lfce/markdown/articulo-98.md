@@ -17,11 +17,11 @@ source_sha256: d0021bbef2e0c3251d6efdea2c1efd9959ff3f02df4bcd1fc37c1ee7826a72ba
 
 # Artículo 98
 
-Cuando la Comisión, por así disponerlo las Leyes o cuando así lo determine el Ejecutivo Federal mediante acuerdos o decretos, o a solicitud de éste, por sí o por conducto de la Secretaría, emita opinión o autorización en el otorgamiento de licencias, concesiones, permisos, cesiones, venta de acciones de empresas concesionarias o permisionarias u otras cuestiones análogas, iniciará y tramitará el procedimiento siguiente:
+Cuando la [Comisión](articulo-3.md), por así disponerlo las Leyes o cuando así lo determine el Ejecutivo Federal mediante acuerdos o decretos, o a solicitud de éste, por sí o por conducto de la [Secretaría](articulo-3.md), emita opinión o autorización en el otorgamiento de licencias, concesiones, permisos, cesiones, venta de acciones de empresas concesionarias o permisionarias u otras cuestiones análogas, iniciará y tramitará el procedimiento siguiente:
 
-I. En caso de solicitud de parte o de la autoridad coordinadora del sector correspondiente, las Disposiciones Regulatorias establecerán los requisitos para la presentación de la solicitud;
+I. En caso de solicitud de parte o de la autoridad coordinadora del sector correspondiente, las [Disposiciones Regulatorias](articulo-3.md) establecerán los requisitos para la presentación de la solicitud;
 
-II. Dentro de los diez días siguientes, la Comisión emitirá el acuerdo de recepción o de prevención a los Agentes Económicos para que dentro del mismo plazo presenten la información y documentación faltantes. Desahogada la prevención, la Comisión emitirá dentro de los diez días siguientes el acuerdo que tiene por presentada la información o documentos faltantes. En caso de que no se desahogue la prevención, la solicitud se tendrá por no presentada, y
+II. Dentro de los diez días siguientes, la Comisión emitirá el acuerdo de recepción o de prevención a los [Agentes Económicos](articulo-3.md) para que dentro del mismo plazo presenten la información y documentación faltantes. Desahogada la prevención, la Comisión emitirá dentro de los diez días siguientes el acuerdo que tiene por presentada la información o documentos faltantes. En caso de que no se desahogue la prevención, la solicitud se tendrá por no presentada, y
 
 III. La Comisión emitirá la opinión dentro del plazo de treinta días, contado a partir del acuerdo de recepción o del acuerdo que tenga por presentada la información o documentación faltante. Para emitir la opinión, serán aplicables en lo conducente, los artículos [63](articulo-63.md) y [64](articulo-64.md) de esta Ley.
 

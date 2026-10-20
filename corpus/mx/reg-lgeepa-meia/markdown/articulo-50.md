@@ -17,7 +17,7 @@ source_sha256: c7790df38b773b04e4769459d5fd49cca5b7a5b4955f7618632117275259071f
 
 # Artículo 50
 
-Todo promovente que decida no ejecutar una obra o actividad sujeta a autorización en materia de impacto ambiental, deberá comunicarlo por escrito a la Secretaría para que ésta proceda a:
+Todo promovente que decida no ejecutar una obra o actividad sujeta a autorización en materia de impacto ambiental, deberá comunicarlo por escrito a la [Secretaría](articulo-3o.md) para que ésta proceda a:
 
 I. Archivar el expediente que se hubiere integrado, si la comunicación se realiza durante el procedimiento de evaluación del impacto ambiental, o
 

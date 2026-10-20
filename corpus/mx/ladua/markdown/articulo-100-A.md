@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf
 source_sha256: 43927095d22ff7bc7780e78132d2160b5050b5f76026b539daec32be09d7341d
 ---
 
-> Capítulo II · Sección TERCERA
+> Título Cuarto · Capítulo II
 
 # Artículo 100-A
 
@@ -23,7 +23,9 @@ I. Que estén constituidas conforme a la legislación mexicana;
 
 II. Que se encuentren al corriente en el cumplimiento de sus obligaciones fiscales;
 
-III. (Se deroga). Fracción derogada DOF 09-12-2013 IV. Que demuestren el nivel de cumplimiento de sus obligaciones aduaneras en los términos que determine el Servicio de Administración Tributaria mediante reglas;
+III. (Se deroga). Fracción derogada DOF 09-12-2013
+
+IV. Que demuestren el nivel de cumplimiento de sus obligaciones aduaneras en los términos que determine el Servicio de Administración Tributaria mediante reglas;
 
 V. (Se deroga). Fracción derogada DOF 09-12-2013
 

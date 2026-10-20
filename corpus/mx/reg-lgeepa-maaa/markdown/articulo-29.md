@@ -17,4 +17,4 @@ source_sha256: d50b44df321cf8be51375c07cee5dbcf03eac76df1cd11ab4bd777c9fce0f789
 
 # Artículo 29
 
-La Empresa sólo podrá utilizar el sello del Certificado cuando cuente con su certificación vigente.
+La [Empresa](articulo-2.md) sólo podrá utilizar el sello del [Certificado](articulo-2.md) cuando cuente con su certificación vigente.

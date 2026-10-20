@@ -15,4 +15,4 @@ source_sha256: 5a0e15e01ac963917e019e3cc4ad07e96d76cc6c82c8b4238dfbb3a58a146847
 
 # Décimo Segundo
 
-A partir de la entrada en vigor de esta Ley, las referencias en otros ordenamientos, normas, procedimientos, actos e instrumentos jurídicos que hagan mención al Sistema Integrado de Información sobre Investigación Científica, Desarrollo Tecnológico e Innovación se entenderán hechas al Sistema Nacional de Información.
+A partir de la entrada en vigor de esta [Ley](articulo-4.md), las referencias en otros ordenamientos, normas, procedimientos, actos e instrumentos jurídicos que hagan mención al Sistema Integrado de Información sobre Investigación Científica, Desarrollo Tecnológico e Innovación se entenderán hechas al [Sistema Nacional de Información](articulo-4.md).

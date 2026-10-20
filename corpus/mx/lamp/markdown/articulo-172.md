@@ -41,4 +41,4 @@ X. Se continúe el procedimiento después de haberse promovido una competencia, 
 
 XI. Se desarrolle cualquier audiencia sin la presencia del juez o jueza o se practiquen diligencias judiciales de forma distinta a la prevenida por la ley, y Fracción reformada DOF 13-03-2025
 
-XII. Se trate de casos análogos a los previstos en las fracciones anteriores a juicio de los órganos jurisdiccionales de amparo. LEY DE AMPARO, REGLAMENTARIA DE LOS ARTÍCULOS [103](../../cpeum/markdown/articulo-103.md) Y [107](../../cpeum/markdown/articulo-107.md) DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
+XII. Se trate de casos análogos a los previstos en las fracciones anteriores a juicio de los órganos jurisdiccionales de amparo.

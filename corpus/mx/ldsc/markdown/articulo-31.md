@@ -17,7 +17,7 @@ source_sha256: 45deb87bfd634dfbd1cb7d9fd67a476ad954187908eb0cb06256c90ccc0feb80
 
 # Artículo 31
 
-La Secretaría, en coordinación con la Comisión, el Comité Nacional Sistema Producto Café e instituciones de investigación, docencia y enseñanza, así como con las organizaciones nacionales productivas, elaborará un plan específico de investigación, capacitación, asistencia técnica y de difusión cafetalera, con objeto de mejorar la utilización de las áreas dedicadas al cultivo del café, de conformidad con la disponibilidad presupuestal.
+La [Secretaría](articulo-3.md), en coordinación con la [Comisión](articulo-3.md), el Comité Nacional Sistema Producto Café e instituciones de investigación, docencia y enseñanza, así como con las organizaciones nacionales productivas, elaborará un plan específico de investigación, capacitación, asistencia técnica y de difusión cafetalera, con objeto de mejorar la utilización de las áreas dedicadas al cultivo del café, de conformidad con la disponibilidad presupuestal.
 
 Las acciones de investigación, capacitación y asistencia técnica para poner en práctica las acciones establecidas en el plan específico de investigación, capacitación, asistencia técnica y de difusión cafetalera serán las siguientes:
 

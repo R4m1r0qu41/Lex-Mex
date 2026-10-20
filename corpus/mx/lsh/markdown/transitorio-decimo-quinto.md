@@ -15,4 +15,4 @@ source_sha256: 1405f36fd836ff74d059ebe7e50ae439cbb9e5e291a317514667f34a26f72a23
 
 # Décimo Quinto
 
-La enajenación que realicen Petróleos Mexicanos o alguna de sus empresas filiales, es considerada como Comercialización en términos de lo establecido por la presente Ley y sus Reglamentos, por lo que se deberán observar los principios de generalidad y no indebida discriminación previstos en la misma.
+La enajenación que realicen [Petróleos](articulo-5.md) Mexicanos o alguna de sus empresas filiales, es considerada como [Comercialización](articulo-5.md) en términos de lo establecido por la presente Ley y sus Reglamentos, por lo que se deberán observar los principios de generalidad y no indebida discriminación previstos en la misma.

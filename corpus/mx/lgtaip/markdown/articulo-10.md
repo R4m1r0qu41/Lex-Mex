@@ -17,4 +17,4 @@ source_sha256: e81e23876bd08da81cb8392af7054f6187ad043ca8f965777b455f9d12554e8b
 
 # Artículo 10
 
-Las Autoridades garantes otorgarán las medidas pertinentes para asegurar el acceso a la información a todas las personas, en igualdad de condiciones con las demás. Está prohibida toda forma de discriminación que limite o impida el ejercicio del derecho de acceso a la información pública en posesión de los sujetos obligados.
+Las [Autoridades garantes](articulo-3.md) otorgarán las medidas pertinentes para asegurar el acceso a la información a todas las personas, en igualdad de condiciones con las demás. Está prohibida toda forma de discriminación que limite o impida el ejercicio del derecho de acceso a la información pública en posesión de los sujetos obligados.

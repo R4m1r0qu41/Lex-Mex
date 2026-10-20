@@ -21,4 +21,4 @@ Durante el tiempo en que el síndico continúe la operación de la empresa del [
 
 Sin perjuicio de lo anterior, el Comerciante estará obligado en todo momento, por regla general, a asistir y coadyuvar con las funciones y tareas del síndico relacionadas con la operación de la empresa durante la etapa de quiebra. Para tal efecto, el síndico podrá solicitar el auxilio del juez, quien dictará las medidas de apremio que estime convenientes. Párrafo adicionado DOF 10-01-2014
 
-Los administradores, apoderados y representantes del Comerciante no tendrán personalidad ni legitimación para representarlo en la etapa de quiebra dentro del proceso concursal, salvo en los términos y para los efectos expresamente previstos en esta Ley. Párrafo adicionado DOF 10-01-2014
+Los administradores, apoderados y representantes del Comerciante no tendrán personalidad ni legitimación para representarlo en la etapa de quiebra dentro del proceso concursal, salvo en los términos y para los efectos expresamente previstos en esta [Ley](articulo-4o.md). Párrafo adicionado DOF 10-01-2014

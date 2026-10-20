@@ -19,6 +19,6 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 Los patrones estarán obligados siempre que contraten un nuevo trabajador a solicitar su número de seguridad social y el nombre de la Administradora que opere su cuenta individual.
 
-Los trabajadores sujetos al régimen previsto en esta Ley no deberán tener más de una cuenta individual, si tienen varias estarán obligados a promover los procedimientos de unificación o traspaso correspondientes que establezca la Comisión Nacional del Sistema de Ahorro para el Retiro.
+Los trabajadores sujetos al régimen previsto en esta [Ley](articulo-5-A.md) no deberán tener más de una cuenta individual, si tienen varias estarán obligados a promover los procedimientos de unificación o traspaso correspondientes que establezca la Comisión Nacional del Sistema de Ahorro para el Retiro.
 
 Los trabajadores que estén sujetos al régimen previsto en esta Ley y simultáneamente al previsto en otras leyes, o que con anterioridad hayan estado sujetos al régimen previsto en esta Ley, no deberán tener más de una cuenta individual por cada régimen, y su unificación o traspaso quedará a lo que establezca la Ley para la Coordinación de los Sistemas de Ahorro para el Retiro.

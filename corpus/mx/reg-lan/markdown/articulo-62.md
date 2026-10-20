@@ -17,4 +17,4 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 62
 
-Las inscripciones en el "Registro" estarán sujetas a las disposiciones que establece la "Ley" y el "Reglamento", serán elementos de prueba de la existencia del título o acto administrativo registrado, y elemento de defensa de los derechos del título contra terceros. "La Comisión", de oficio o a petición de parte interesada, proveerá lo necesario para el respeto de los derechos inscritos en el "Registro".
+Las inscripciones en el "[Registro](articulo-1o.md)" estarán sujetas a las disposiciones que establece la "[Ley](articulo-1o.md)" y el "[Reglamento](articulo-1o.md)", serán elementos de prueba de la existencia del título o acto administrativo registrado, y elemento de defensa de los derechos del título contra terceros. "[La Comisión](articulo-1o.md)", de oficio o a petición de parte interesada, proveerá lo necesario para el respeto de los derechos inscritos en el "Registro".

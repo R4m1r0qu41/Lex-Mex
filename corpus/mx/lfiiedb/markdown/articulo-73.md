@@ -17,4 +17,4 @@ source_sha256: 7679afbbf32749e0c0bacab72644d41fc6ccdeeab3a2f25dfae8d26a065de01e
 
 # Artículo 73
 
-El Consejo deberá sesionar con la presencia de la mayoría de sus miembros y las resoluciones ahí tomadas deberán ser aprobadas por mayoría, en el entendido que el Presidente contará con el voto de calidad. Acordará anualmente el calendario de sus sesiones ordinarias y la persona que funja como Presidente del mismo realizará las convocatorias para dichas sesiones y, en su caso, las extraordinarias, cuando alguno de los miembros lo solicite por conducto de la Secretaría Ejecutiva.
+El [Consejo](articulo-4.md) deberá sesionar con la presencia de la mayoría de sus miembros y las resoluciones ahí tomadas deberán ser aprobadas por mayoría, en el entendido que el Presidente contará con el voto de calidad. Acordará anualmente el calendario de sus sesiones ordinarias y la persona que funja como Presidente del mismo realizará las convocatorias para dichas sesiones y, en su caso, las extraordinarias, cuando alguno de los miembros lo solicite por conducto de la [Secretaría](articulo-4.md) Ejecutiva.

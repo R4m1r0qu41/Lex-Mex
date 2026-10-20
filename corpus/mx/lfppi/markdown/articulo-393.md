@@ -17,6 +17,6 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 393
 
-Las multas que imponga el Instituto serán consideradas créditos fiscales y se recaudarán o, en su caso, ejecutarán por éste, en su carácter de autoridad fiscal, bajo el Procedimiento Administrativo de Ejecución previsto en el Código Fiscal de la Federación y su Reglamento.
+Las multas que imponga el [Instituto](articulo-4.md) serán consideradas créditos fiscales y se recaudarán o, en su caso, ejecutarán por éste, en su carácter de autoridad fiscal, bajo el Procedimiento Administrativo de Ejecución previsto en el Código Fiscal de la Federación y su Reglamento.
 
 El Instituto implementará mecanismos para el pago de multas a través del uso de medios electrónicos o de cualquier otra tecnología.

@@ -25,4 +25,4 @@ II. Las especies acuáticas vivas que se capturen de poblaciones naturales y se 
 
 III. Las unidades de cuarentena.
 
-Para los efectos de este artículo, la Secretaría tomará en cuenta la opinión del SENASICA para establecer en normas oficiales los lineamientos sanitarios para el funcionamiento y operación de unidades de producción acuícola y de unidades de cuarentena, así como las especificaciones sanitarias para el cultivo, siembra y cosecha de organismos acuáticos.
+Para los efectos de este artículo, la [Secretaría](articulo-4o.md) tomará en cuenta la opinión del [SENASICA](articulo-4o.md) para establecer en normas oficiales los lineamientos sanitarios para el funcionamiento y operación de unidades de producción acuícola y de unidades de cuarentena, así como las especificaciones sanitarias para el cultivo, siembra y cosecha de organismos acuáticos.

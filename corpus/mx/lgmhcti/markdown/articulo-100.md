@@ -17,6 +17,6 @@ source_sha256: 5a0e15e01ac963917e019e3cc4ad07e96d76cc6c82c8b4238dfbb3a58a146847
 
 # Artículo 100
 
-Para la elaboración del anteproyecto de presupuesto de los Centros Públicos, se tomarán en consideración las evaluaciones anuales de su Programa Institucional y los resultados de su gestión administrativa y financiera, así como los demás elementos que se establezcan en la normativa aplicable.
+Para la elaboración del anteproyecto de presupuesto de los [Centros Públicos](articulo-4.md), se tomarán en consideración las evaluaciones anuales de su Programa Institucional y los resultados de su gestión administrativa y financiera, así como los demás elementos que se establezcan en la normativa aplicable.
 
-Los resultados de las evaluaciones y auditorías que se realicen respecto del cumplimiento de metas, utilización de recursos y medidas correctivas, deberán informarse al Órgano de Gobierno de cada Centro Público e incorporarse al Sistema Nacional de Información, de tal manera que sean accesibles al público, sin perjuicio de lo que establezca la legislación aplicable en materia de presupuesto.
+Los resultados de las evaluaciones y auditorías que se realicen respecto del cumplimiento de metas, utilización de recursos y medidas correctivas, deberán informarse al Órgano de Gobierno de cada Centro Público e incorporarse al [Sistema Nacional de Información](articulo-4.md), de tal manera que sean accesibles al público, sin perjuicio de lo que establezca la legislación aplicable en materia de presupuesto.

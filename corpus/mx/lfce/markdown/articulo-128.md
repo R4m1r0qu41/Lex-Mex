@@ -17,7 +17,7 @@ source_sha256: d0021bbef2e0c3251d6efdea2c1efd9959ff3f02df4bcd1fc37c1ee7826a72ba
 
 # Artículo 128
 
-En el caso de aquellos Agentes Económicos que, por cualquier causa, no declaren o no se les hayan determinado ingresos acumulables para efectos del Impuesto sobre la Renta o la Comisión no cuente con la información correspondiente por causas imputables al Agente Económico, se les aplicarán las multas siguientes:
+En el caso de aquellos [Agentes Económicos](articulo-3.md) que, por cualquier causa, no declaren o no se les hayan determinado ingresos acumulables para efectos del Impuesto sobre la Renta o la [Comisión](articulo-3.md) no cuente con la información correspondiente por causas imputables al Agente Económico, se les aplicarán las multas siguientes:
 
 I. Multa de una a tres millones de veces el valor diario de la Unidad de Medida y Actualización, para las infracciones a que se refieren las fracciones IV, IX, XIV y XV del artículo 127 de la Ley;
 

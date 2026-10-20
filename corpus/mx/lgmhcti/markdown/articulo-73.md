@@ -17,7 +17,7 @@ source_sha256: 5a0e15e01ac963917e019e3cc4ad07e96d76cc6c82c8b4238dfbb3a58a146847
 
 # Artículo 73
 
-El Órgano Interno Consultivo del Consejo Nacional contará con una persona que fungirá como Coordinadora, que será designada por la Junta de Gobierno a propuesta de la persona titular de la Dirección General del Consejo Nacional.
+El Órgano Interno Consultivo del [Consejo Nacional](articulo-4.md) contará con una persona que fungirá como Coordinadora, que será designada por la Junta de Gobierno a propuesta de la persona titular de la Dirección General del Consejo Nacional.
 
 La persona Coordinadora del Órgano Interno Consultivo deberá contar con una trayectoria académica o profesional sobresaliente y haber realizado destacadas contribuciones en materia de humanidades, ciencias, tecnologías o innovación, particularmente relacionadas con actividades de acceso universal al conocimiento humanístico y científico y a sus beneficios sociales.
 

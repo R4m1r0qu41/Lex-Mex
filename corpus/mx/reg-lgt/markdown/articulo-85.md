@@ -17,7 +17,7 @@ source_sha256: 6680a58c98673518aee46582b3137d28987c275785d1f0c97295f0d89c4b692b
 
 # Artículo 85
 
-La Secretaría establecerá y verificará el cumplimiento del Sistema de Clasificación Hotelera, para ello, podrá coordinarse con los Estados y la Ciudad de México.
+La Secretaría establecerá y verificará el cumplimiento del [Sistema de Clasificación Hotelera](articulo-2.md), para ello, podrá coordinarse con los Estados y la Ciudad de México.
 
 Las infracciones a las disposiciones relativas al Sistema serán sancionadas por la Secretaría, en los términos previstos en la Ley.
 

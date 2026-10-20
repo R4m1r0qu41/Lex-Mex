@@ -19,4 +19,4 @@ source_sha256: 1d398a90955ef45ccb7baf4d56534c676cde8325e8b109c4d32120909e783694
 
 La Comisión contará con una Subcomisión Consultiva, como instancia colegiada de análisis y opinión de los asuntos competencia de la Comisión.
 
-El funcionamiento y operación de la Subcomisión Consultiva se establecerá en el Reglamento Interno.
+El funcionamiento y operación de la Subcomisión Consultiva se establecerá en el [Reglamento Interno](articulo-2.md).

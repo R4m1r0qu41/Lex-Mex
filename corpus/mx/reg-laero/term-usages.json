@@ -1,1 +1,2450 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:1:term-usage:217-220",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 217,
+    "end_char": 220
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:2:term-usage:254-257",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 254,
+    "end_char": 257
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:2:term-usage:419-422",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 419,
+    "end_char": 422
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:3:term-usage:91-94",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 91,
+    "end_char": 94
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:4:term-usage:32-43",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretarías",
+    "start_char": 32,
+    "end_char": 43
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:4:term-usage:134-144",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 134,
+    "end_char": 144
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:4:term-usage:254-257",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 254,
+    "end_char": 257
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:5:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:5:term-usage:328-338",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 328,
+    "end_char": 338
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:5:term-usage:451-461",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 451,
+    "end_char": 461
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:6:term-usage:927-937",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:6",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 927,
+    "end_char": 937
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:7:term-usage:179-182",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 179,
+    "end_char": 182
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:7:term-usage:233-243",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 233,
+    "end_char": 243
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:7:term-usage:492-502",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 492,
+    "end_char": 502
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:7:term-usage:583-586",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 583,
+    "end_char": 586
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:8:term-usage:236-246",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 236,
+    "end_char": 246
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:9:term-usage:484-487",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 484,
+    "end_char": 487
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:9:term-usage:555-565",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 555,
+    "end_char": 565
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:9:term-usage:1322-1325",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 1322,
+    "end_char": 1325
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:10:term-usage:279-289",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 279,
+    "end_char": 289
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:11:term-usage:215-218",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 215,
+    "end_char": 218
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:11:term-usage:243-253",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 243,
+    "end_char": 253
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:12:term-usage:10-20",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 10,
+    "end_char": 20
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:12:term-usage:85-88",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 85,
+    "end_char": 88
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:12:term-usage:402-412",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 402,
+    "end_char": 412
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:12:term-usage:637-647",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 637,
+    "end_char": 647
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:12:term-usage:1066-1076",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1066,
+    "end_char": 1076
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:12:term-usage:1344-1354",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1344,
+    "end_char": 1354
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:12:term-usage:1432-1435",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 1432,
+    "end_char": 1435
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:12:term-usage:1920-1930",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1920,
+    "end_char": 1930
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:12:term-usage:1977-1980",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 1977,
+    "end_char": 1980
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:12:term-usage:2153-2156",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 2153,
+    "end_char": 2156
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:13:term-usage:174-184",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:13",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 174,
+    "end_char": 184
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:14:term-usage:54-57",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 54,
+    "end_char": 57
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:14:term-usage:737-740",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 737,
+    "end_char": 740
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:14:term-usage:1194-1197",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 1194,
+    "end_char": 1197
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:15:term-usage:401-411",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:15",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 401,
+    "end_char": 411
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:15:term-usage:451-454",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:15",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 451,
+    "end_char": 454
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:16:term-usage:174-184",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:16",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 174,
+    "end_char": 184
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:17:term-usage:175-185",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:17",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 175,
+    "end_char": 185
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:17:term-usage:613-616",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:17",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 613,
+    "end_char": 616
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:18:term-usage:255-265",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:18",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 255,
+    "end_char": 265
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:19:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:19",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:19:term-usage:48-51",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:19",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 48,
+    "end_char": 51
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:19:term-usage:295-305",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:19",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 295,
+    "end_char": 305
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:20:term-usage:347-357",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 347,
+    "end_char": 357
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:21:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:21",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:21:term-usage:379-382",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:21",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 379,
+    "end_char": 382
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:21:term-usage:388-398",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:21",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 388,
+    "end_char": 398
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:21:term-usage:546-549",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:21",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 546,
+    "end_char": 549
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:21:term-usage:751-761",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:21",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 751,
+    "end_char": 761
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:21:term-usage:1218-1228",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:21",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1218,
+    "end_char": 1228
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:21:term-usage:1498-1501",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:21",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 1498,
+    "end_char": 1501
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:22:term-usage:188-198",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:22",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 188,
+    "end_char": 198
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:22:term-usage:774-777",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:22",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 774,
+    "end_char": 777
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:22:term-usage:939-942",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:22",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 939,
+    "end_char": 942
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:22:term-usage:1018-1028",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:22",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1018,
+    "end_char": 1028
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:22:term-usage:1432-1442",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:22",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1432,
+    "end_char": 1442
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:22:term-usage:1595-1605",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:22",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1595,
+    "end_char": 1605
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:23:term-usage:655-665",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 655,
+    "end_char": 665
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:23:term-usage:1575-1585",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1575,
+    "end_char": 1585
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:24:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:24:term-usage:80-90",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 80,
+    "end_char": 90
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:24:term-usage:241-251",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 241,
+    "end_char": 251
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:24:term-usage:343-353",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 343,
+    "end_char": 353
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:24:term-usage:492-502",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 492,
+    "end_char": 502
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:24:term-usage:880-890",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 880,
+    "end_char": 890
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:24:term-usage:1101-1111",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1101,
+    "end_char": 1111
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:26:term-usage:139-149",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 139,
+    "end_char": 149
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:26:term-usage:367-377",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 367,
+    "end_char": 377
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:26:term-usage:481-484",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 481,
+    "end_char": 484
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:27:term-usage:52-62",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 52,
+    "end_char": 62
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:27:term-usage:148-151",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 148,
+    "end_char": 151
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:27:term-usage:416-419",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 416,
+    "end_char": 419
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:27:term-usage:668-671",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 668,
+    "end_char": 671
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:27:term-usage:1180-1190",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1180,
+    "end_char": 1190
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:29:term-usage:177-187",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:29",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 177,
+    "end_char": 187
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:33:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:33",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:33:term-usage:330-340",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:33",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 330,
+    "end_char": 340
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:33:term-usage:501-511",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:33",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 501,
+    "end_char": 511
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:33:term-usage:922-932",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:33",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 922,
+    "end_char": 932
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:33:term-usage:1549-1559",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:33",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1549,
+    "end_char": 1559
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:34:term-usage:361-371",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:34",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 361,
+    "end_char": 371
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:35:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:35",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:35:term-usage:491-501",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:35",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 491,
+    "end_char": 501
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:35:term-usage:825-828",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:35",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 825,
+    "end_char": 828
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:36:term-usage:69-79",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:36",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 69,
+    "end_char": 79
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:37:term-usage:699-709",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:37",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 699,
+    "end_char": 709
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:37:term-usage:1415-1425",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:37",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1415,
+    "end_char": 1425
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:39:term-usage:256-266",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:39",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 256,
+    "end_char": 266
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:39:term-usage:681-691",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:39",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 681,
+    "end_char": 691
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:39:term-usage:697-707",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:39",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 697,
+    "end_char": 707
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:39:term-usage:1050-1060",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:39",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1050,
+    "end_char": 1060
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:41:term-usage:146-149",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:41",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 146,
+    "end_char": 149
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:42:term-usage:733-743",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:42",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 733,
+    "end_char": 743
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:48:term-usage:745-755",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:48",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 745,
+    "end_char": 755
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:48:term-usage:842-852",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:48",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 842,
+    "end_char": 852
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:51:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:51",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:51:term-usage:69-72",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:51",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 69,
+    "end_char": 72
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:51:term-usage:361-364",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:51",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 361,
+    "end_char": 364
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:51:term-usage:688-691",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:51",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 688,
+    "end_char": 691
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:51:term-usage:779-789",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:51",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 779,
+    "end_char": 789
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:54:term-usage:1074-1084",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:54",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1074,
+    "end_char": 1084
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:54:term-usage:2023-2033",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:54",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2023,
+    "end_char": 2033
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:55:term-usage:1796-1806",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:55",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1796,
+    "end_char": 1806
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:55:term-usage:2304-2307",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:55",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 2304,
+    "end_char": 2307
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:56:term-usage:955-965",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:56",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 955,
+    "end_char": 965
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:58:term-usage:415-418",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:58",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 415,
+    "end_char": 418
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:60:term-usage:443-453",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:60",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 443,
+    "end_char": 453
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:61:term-usage:203-213",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:61",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 203,
+    "end_char": 213
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:61:term-usage:286-296",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:61",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 286,
+    "end_char": 296
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:63:term-usage:193-203",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:63",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 193,
+    "end_char": 203
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:63:term-usage:352-362",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:63",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 352,
+    "end_char": 362
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:65:term-usage:82-92",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:65",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 82,
+    "end_char": 92
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:65:term-usage:893-896",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:65",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 893,
+    "end_char": 896
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:65:term-usage:995-1005",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:65",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 995,
+    "end_char": 1005
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:65:term-usage:1062-1065",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:65",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 1062,
+    "end_char": 1065
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:66:term-usage:689-692",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:66",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 689,
+    "end_char": 692
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:66:term-usage:1194-1197",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:66",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 1194,
+    "end_char": 1197
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:66:term-usage:1416-1419",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:66",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 1416,
+    "end_char": 1419
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:66:term-usage:2531-2541",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:66",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2531,
+    "end_char": 2541
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:66:term-usage:3536-3546",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:66",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3536,
+    "end_char": 3546
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:67:term-usage:231-241",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:67",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 231,
+    "end_char": 241
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:68:term-usage:18-28",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:68",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 18,
+    "end_char": 28
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:68:term-usage:72-75",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:68",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 72,
+    "end_char": 75
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:68:term-usage:251-261",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:68",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 251,
+    "end_char": 261
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:69:term-usage:141-144",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:69",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 141,
+    "end_char": 144
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:70:term-usage:242-245",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:70",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 242,
+    "end_char": 245
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:71:term-usage:1939-1942",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:71",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 1939,
+    "end_char": 1942
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:73:term-usage:531-541",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:73",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 531,
+    "end_char": 541
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:74:term-usage:143-146",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:74",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 143,
+    "end_char": 146
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:74:term-usage:190-200",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:74",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 190,
+    "end_char": 200
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:74:term-usage:345-348",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:74",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 345,
+    "end_char": 348
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:75:term-usage:325-328",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:75",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 325,
+    "end_char": 328
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:75:term-usage:708-718",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:75",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 708,
+    "end_char": 718
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:76:term-usage:219-222",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:76",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 219,
+    "end_char": 222
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:76:term-usage:278-288",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:76",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 278,
+    "end_char": 288
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:76:term-usage:684-694",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:76",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 684,
+    "end_char": 694
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:77:term-usage:325-335",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:77",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 325,
+    "end_char": 335
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:77:term-usage:491-501",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:77",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 491,
+    "end_char": 501
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:79:term-usage:324-327",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:79",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 324,
+    "end_char": 327
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:81:term-usage:215-225",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:81",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 215,
+    "end_char": 225
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:81:term-usage:418-428",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:81",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 418,
+    "end_char": 428
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:81:term-usage:531-541",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:81",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 531,
+    "end_char": 541
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:82:term-usage:231-234",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:82",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 231,
+    "end_char": 234
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:83:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:83",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:85:term-usage:378-388",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:85",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 378,
+    "end_char": 388
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:85:term-usage:633-643",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:85",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 633,
+    "end_char": 643
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:86:term-usage:202-212",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:86",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 202,
+    "end_char": 212
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:86:term-usage:446-456",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:86",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 446,
+    "end_char": 456
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:86:term-usage:523-526",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:86",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 523,
+    "end_char": 526
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:87:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:87",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:88:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:88",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:89:term-usage:473-476",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:89",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 473,
+    "end_char": 476
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:89:term-usage:1191-1194",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:89",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 1191,
+    "end_char": 1194
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:90:term-usage:132-142",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:90",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 132,
+    "end_char": 142
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:90:term-usage:1009-1019",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:90",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1009,
+    "end_char": 1019
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:90:term-usage:1304-1314",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:90",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1304,
+    "end_char": 1314
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:91:term-usage:386-389",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:91",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 386,
+    "end_char": 389
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:91:term-usage:1187-1197",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:91",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1187,
+    "end_char": 1197
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:92:term-usage:58-68",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:92",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 58,
+    "end_char": 68
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:92:term-usage:282-292",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:92",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 282,
+    "end_char": 292
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:93:term-usage:35-38",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:93",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 35,
+    "end_char": 38
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:94:term-usage:21-31",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:94",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 21,
+    "end_char": 31
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:94:term-usage:1261-1271",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:94",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1261,
+    "end_char": 1271
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:96:term-usage:1291-1294",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:96",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 1291,
+    "end_char": 1294
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:96-bis:term-usage:10-20",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:96-bis",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 10,
+    "end_char": 20
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:96-bis:term-usage:505-515",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:96-bis",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 505,
+    "end_char": 515
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:96-bis:term-usage:5789-5799",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:96-bis",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 5789,
+    "end_char": 5799
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:96-bis:term-usage:5938-5941",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:96-bis",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 5938,
+    "end_char": 5941
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:99:term-usage:2471-2481",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:99",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2471,
+    "end_char": 2481
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:99-bis:term-usage:267-277",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:99-bis",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 267,
+    "end_char": 277
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:100:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:100",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:101:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:101",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:101:term-usage:483-493",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:101",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 483,
+    "end_char": 493
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:101:term-usage:988-998",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:101",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 988,
+    "end_char": 998
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:103:term-usage:392-402",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:103",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 392,
+    "end_char": 402
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:103:term-usage:525-528",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:103",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 525,
+    "end_char": 528
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:103:term-usage:659-662",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:103",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 659,
+    "end_char": 662
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:104:term-usage:326-336",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:104",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 326,
+    "end_char": 336
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:104:term-usage:616-626",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:104",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 616,
+    "end_char": 626
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:107:term-usage:928-938",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:107",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 928,
+    "end_char": 938
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:109:term-usage:1120-1123",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:109",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 1120,
+    "end_char": 1123
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:110:term-usage:176-179",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:110",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 176,
+    "end_char": 179
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:122:term-usage:510-513",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:122",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 510,
+    "end_char": 513
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:128:term-usage:15-25",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:128",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 15,
+    "end_char": 25
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:129:term-usage:237-247",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:129",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 237,
+    "end_char": 247
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:130:term-usage:491-494",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:130",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 491,
+    "end_char": 494
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:131:term-usage:738-741",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:131",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 738,
+    "end_char": 741
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:132-bis:term-usage:1373-1376",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:132-bis",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 1373,
+    "end_char": 1376
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:134:term-usage:125-135",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:134",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 125,
+    "end_char": 135
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:135:term-usage:113-123",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:135",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 113,
+    "end_char": 123
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:136:term-usage:96-106",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:136",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 96,
+    "end_char": 106
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:137:term-usage:33-43",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:137",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 33,
+    "end_char": 43
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:138:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:138",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:138:term-usage:190-200",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:138",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 190,
+    "end_char": 200
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:138:term-usage:504-514",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:138",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 504,
+    "end_char": 514
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:138:term-usage:611-621",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:138",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 611,
+    "end_char": 621
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:138:term-usage:783-793",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:138",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 783,
+    "end_char": 793
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:138:term-usage:1010-1020",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:138",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1010,
+    "end_char": 1020
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:138:term-usage:1223-1226",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:138",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 1223,
+    "end_char": 1226
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:138:term-usage:1393-1403",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:138",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1393,
+    "end_char": 1403
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:138:term-usage:1777-1787",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:138",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1777,
+    "end_char": 1787
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:138:term-usage:1862-1872",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:138",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1862,
+    "end_char": 1872
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:139:term-usage:10-20",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:139",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 10,
+    "end_char": 20
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:140:term-usage:110-120",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:140",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 110,
+    "end_char": 120
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:141:term-usage:101-111",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:141",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 101,
+    "end_char": 111
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:141:term-usage:1185-1188",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:141",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 1185,
+    "end_char": 1188
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:141:term-usage:1347-1357",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:141",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1347,
+    "end_char": 1357
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:142:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:142",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:143:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:143",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:143:term-usage:487-497",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:143",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 487,
+    "end_char": 497
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:143:term-usage:962-965",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:143",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 962,
+    "end_char": 965
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:143:term-usage:1164-1174",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:143",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1164,
+    "end_char": 1174
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:143:term-usage:1482-1492",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:143",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1482,
+    "end_char": 1492
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:144:term-usage:81-91",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:144",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 81,
+    "end_char": 91
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:145:term-usage:204-214",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:145",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 204,
+    "end_char": 214
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:148:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:148",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:149:term-usage:180-190",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:149",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 180,
+    "end_char": 190
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:149:term-usage:287-290",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:149",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 287,
+    "end_char": 290
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:149:term-usage:329-339",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:149",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 329,
+    "end_char": 339
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:150:term-usage:267-270",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:150",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 267,
+    "end_char": 270
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:151:term-usage:207-210",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:151",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 207,
+    "end_char": 210
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:154:term-usage:443-446",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:154",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 443,
+    "end_char": 446
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:161:term-usage:498-501",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:161",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 498,
+    "end_char": 501
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:162:term-usage:86-97",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:162",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretarías",
+    "start_char": 86,
+    "end_char": 97
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:164:term-usage:39-42",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:164",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 39,
+    "end_char": 42
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:166:term-usage:1210-1220",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:166",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1210,
+    "end_char": 1220
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:167:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:167",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:167:term-usage:134-144",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:167",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 134,
+    "end_char": 144
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:167:term-usage:598-608",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:167",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 598,
+    "end_char": 608
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:167:term-usage:786-796",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:167",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 786,
+    "end_char": 796
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:168:term-usage:382-392",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:168",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 382,
+    "end_char": 392
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:168:term-usage:566-576",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:168",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 566,
+    "end_char": 576
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:169:term-usage:99-102",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:169",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 99,
+    "end_char": 102
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:169:term-usage:350-360",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:169",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 350,
+    "end_char": 360
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:169:term-usage:1003-1013",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:169",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1003,
+    "end_char": 1013
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:169:term-usage:1346-1349",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:169",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 1346,
+    "end_char": 1349
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:169:term-usage:1638-1641",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:169",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 1638,
+    "end_char": 1641
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:169:term-usage:1663-1666",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:169",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 1663,
+    "end_char": 1666
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:170:term-usage:165-175",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:170",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 165,
+    "end_char": 175
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:170:term-usage:612-615",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:170",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 612,
+    "end_char": 615
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:170:term-usage:730-740",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:170",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 730,
+    "end_char": 740
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:171:term-usage:639-649",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:171",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 639,
+    "end_char": 649
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:172:term-usage:394-404",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:172",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 394,
+    "end_char": 404
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:173:term-usage:94-97",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:173",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 94,
+    "end_char": 97
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:175:term-usage:209-219",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:175",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 209,
+    "end_char": 219
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:176:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:176",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:176:term-usage:486-496",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:176",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 486,
+    "end_char": 496
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:177:term-usage:187-197",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:177",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 187,
+    "end_char": 197
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:177:term-usage:237-247",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:177",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 237,
+    "end_char": 247
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:179:term-usage:169-179",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:179",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 169,
+    "end_char": 179
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:180:term-usage:89-99",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:180",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 89,
+    "end_char": 99
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:180:term-usage:376-379",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:180",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 376,
+    "end_char": 379
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:180:term-usage:385-395",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:180",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 385,
+    "end_char": 395
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:181:term-usage:83-93",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:181",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 83,
+    "end_char": 93
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:181:term-usage:171-174",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:181",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 171,
+    "end_char": 174
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:182:term-usage:261-271",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:182",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 261,
+    "end_char": 271
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:184:term-usage:47-57",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:184",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 47,
+    "end_char": 57
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:184:term-usage:389-392",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:184",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 389,
+    "end_char": 392
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:184:term-usage:692-702",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:184",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 692,
+    "end_char": 702
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:184:term-usage:854-857",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:184",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 854,
+    "end_char": 857
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:184:term-usage:1067-1077",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:184",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1067,
+    "end_char": 1077
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:184:term-usage:1440-1443",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:184",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 1440,
+    "end_char": 1443
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:185:term-usage:61-71",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:185",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 61,
+    "end_char": 71
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:185:term-usage:130-133",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:185",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 130,
+    "end_char": 133
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:185:term-usage:230-240",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:185",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 230,
+    "end_char": 240
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:185:term-usage:477-487",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:185",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 477,
+    "end_char": 487
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:transitory:cuarto:term-usage:328-331",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 328,
+    "end_char": 331
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:transitory:cuarto:term-usage:586-589",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "span": "Ley",
+    "start_char": 586,
+    "end_char": 589
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:transitory:sexto:term-usage:287-297",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:transitory:sexto",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 287,
+    "end_char": 297
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:transitory:septimo:term-usage:450-460",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:transitory:septimo",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 450,
+    "end_char": 460
+  }
+]

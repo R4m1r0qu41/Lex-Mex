@@ -17,7 +17,7 @@ source_sha256: 32822f50bb2de81185408f9450d61a49d678429c52c5379822a507c7027a5275
 
 # Artículo 52
 
-La Comisión Intersecretarial tendrá las siguientes funciones:
+La [Comisión Intersecretarial](articulo-5.md) tendrá las siguientes funciones:
 
 I. Recomendar medidas orientadas a hacer compatibles las decisiones vinculadas con las Políticas de Desarrollo Social y Económica; II. Proponer las partidas y montos del gasto social que se deban integrar en el Anteproyecto de Presupuesto de Egresos de la Federación;
 

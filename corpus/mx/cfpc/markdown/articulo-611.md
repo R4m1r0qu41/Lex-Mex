@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CFPC.pdf
 source_sha256: db545f3918f1c1907dac23d6431d5076c8de91af1fbf97dcf5b5b2a68b165299
 ---
 
-> Título UNICO · Capítulo VI
+> Título Único · Capítulo V
 
 # Artículo 611
 
@@ -28,5 +28,3 @@ Para decretar estas medidas, el juez dará vista por tres días a la parte deman
 Si con el otorgamiento de la medida se pudiera ocasionar daño al demandado, éste podrá otorgar garantía suficiente para reparar los daños que pudieran causarse a la colectividad, salvo aquellos casos en los que se trate de una amenaza inminente e irreparable al interés social, a la vida o a la salud de los miembros de la colectividad o por razones de seguridad nacional.
 
 Artículo adicionado DOF 30-08-2011
-
-Capítulo VI Medios de Apremio Capítulo adicionado DOF 30-08-2011

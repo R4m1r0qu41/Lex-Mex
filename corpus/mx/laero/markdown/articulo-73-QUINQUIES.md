@@ -17,6 +17,6 @@ source_sha256: c78882a0177403ee04cd38dd09fa1657dc221b7f6827ddacf251c699ede867e4
 
 # Artículo 73 QUINQUIES
 
-La [Secretaría](articulo-2.md) debe coordinar el Comité Nacional de Seguridad de la Aviación Civil, grupos de trabajo o similares, para que a través de la Agencia Federal de Aviación Civil ejecute sus funciones, de conformidad con las disposiciones aplicables. El funcionamiento del Comité debe establecerse en el Reglamento de esta Ley, así como en el [Programa de Seguridad de la Aviación Civil del Estado mexicano](articulo-2.md).
+La [Secretaría](articulo-2.md) debe coordinar el Comité Nacional de Seguridad de la Aviación Civil, grupos de trabajo o similares, para que a través de la [Agencia Federal de Aviación Civil](articulo-2.md) ejecute sus funciones, de conformidad con las disposiciones aplicables. El funcionamiento del Comité debe establecerse en el Reglamento de esta Ley, así como en el [Programa de Seguridad de la Aviación Civil del Estado mexicano](articulo-2.md).
 
 Artículo adicionado DOF 03-05-2023

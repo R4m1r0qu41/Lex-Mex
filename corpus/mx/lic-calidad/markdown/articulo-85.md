@@ -17,4 +17,4 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 # Artículo 85
 
-Quien haya emitido un Estándar, podrá realizar aclaraciones a ese Estándar cuando existan errores ortográficos, de numeración, referencias cruzadas u otros similares, siempre y cuando no se altere su contenido técnico, para lo cual, deberá solicitar a la Secretaría la publicación de la aclaración en la Plataforma Tecnológica Integral de Infraestructura de la Calidad.
+Quien haya emitido un [Estándar](articulo-4.md), podrá realizar aclaraciones a ese Estándar cuando existan errores ortográficos, de numeración, referencias cruzadas u otros similares, siempre y cuando no se altere su contenido técnico, para lo cual, deberá solicitar a la [Secretaría](articulo-4.md) la publicación de la aclaración en la [Plataforma Tecnológica Integral de Infraestructura de la Calidad](articulo-4.md).

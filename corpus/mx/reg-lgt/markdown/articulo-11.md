@@ -17,9 +17,9 @@ source_sha256: 6680a58c98673518aee46582b3137d28987c275785d1f0c97295f0d89c4b692b
 
 # Artículo 11
 
-Son funciones de la Conferencia Nacional:
+Son funciones de la [Conferencia Nacional](articulo-2.md):
 
-I. Proponer a la Secretaría los mecanismos de armonización de las políticas públicas en materia de Turismo en los tres órdenes de gobierno;
+I. Proponer a la Secretaría los mecanismos de armonización de las políticas públicas en materia de [Turismo](articulo-2.md) en los tres órdenes de gobierno;
 
 II. Realizar evaluaciones a nivel nacional de las políticas públicas en materia de Turismo para detectar áreas de incidencia y proponer estrategias de impulso al Turismo;
 

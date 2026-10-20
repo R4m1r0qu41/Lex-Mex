@@ -19,7 +19,7 @@ source_sha256: d0021bbef2e0c3251d6efdea2c1efd9959ff3f02df4bcd1fc37c1ee7826a72ba
 
 En la elaboración y expedición de las disposiciones que contengan las directrices, guías, lineamientos y criterios técnicos a que hace referencia el artículo [12](articulo-12.md), fracción XXII, de esta Ley, se estará a lo siguiente:
 
-I. La Comisión mandará publicar un extracto del anteproyecto en el Diario Oficial de la Federación, e íntegramente en el sitio de Internet de la Comisión, a efecto de abrir un período de consulta pública por treinta días a fin de que cualquier interesado presente opiniones a la Comisión sobre el anteproyecto respectivo. Asimismo, se deberá solicitar, y en su caso, recabar la opinión del Instituto Federal de Telecomunicaciones;
+I. La [Comisión](articulo-3.md) mandará publicar un extracto del anteproyecto en el Diario Oficial de la Federación, e íntegramente en el sitio de Internet de la Comisión, a efecto de abrir un período de consulta pública por treinta días a fin de que cualquier interesado presente opiniones a la Comisión sobre el anteproyecto respectivo. Asimismo, se deberá solicitar, y en su caso, recabar la opinión del Instituto Federal de Telecomunicaciones;
 
 II. Al término del plazo a que se refiere la fracción anterior, la Comisión revisará los comentarios recibidos al anteproyecto y dentro de los treinta días siguientes elaborará un informe con un resumen de los comentarios recibidos, así como de sus consideraciones a los mismos, el informe deberá ser publicado en el sitio de Internet de la Comisión, y
 

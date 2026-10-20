@@ -17,9 +17,9 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 254
 
-Para cumplir con las tareas y objetivos señalados por los Artículos [251](articulo-251.md) y [252](articulo-252.md) de las presentes disposiciones, el Comité de Supervisión Auxiliar estará facultado para programar y realizar visitas de distinta naturaleza o tipo. Dichas visitas serán las siguientes:
+Para cumplir con las tareas y objetivos señalados por los Artículos [251](articulo-251.md) y [252](articulo-252.md) de las presentes disposiciones, el [Comité de Supervisión Auxiliar](articulo-1.md) estará facultado para programar y realizar visitas de distinta naturaleza o tipo. Dichas visitas serán las siguientes:
 
-I. Visita de inspección ordinaria integral: Se entenderá como tal aquella durante la cual se revisen, cuando menos, todos los aspectos señalados por la Comisión en las presentes disposiciones, así como en las políticas, lineamientos y planes de trabajo establecidos por el Comité Técnico y los asuntos específicos detectados durante la Supervisión Extra-situ y la planeación de la visita, o bien, derivados de visitas anteriores. Estas visitas se programarán previamente considerando el nivel de operaciones, la situación financiera, así como el perfil de riesgos y tendencia de las Sociedades bajo supervisión auxiliar.
+I. Visita de inspección ordinaria integral: Se entenderá como tal aquella durante la cual se revisen, cuando menos, todos los aspectos señalados por la [Comisión](articulo-1.md) en las presentes disposiciones, así como en las políticas, lineamientos y planes de trabajo establecidos por el [Comité Técnico](articulo-1.md) y los asuntos específicos detectados durante la [Supervisión Extra-situ](articulo-1.md) y la planeación de la visita, o bien, derivados de visitas anteriores. Estas visitas se programarán previamente considerando el nivel de operaciones, la situación financiera, así como el perfil de riesgos y tendencia de las Sociedades bajo supervisión auxiliar.
 
 II. Visita de inspección ordinaria específica: Se entenderá como tal aquella durante la cual la revisión se limita al examen exhaustivo y la comprobación detallada de algunos aspectos particulares. Estas visitas se programarán previamente con base en la problemática detectada en los diagnósticos de Supervisión Extra-situ y las visitas anteriores.
 
@@ -27,7 +27,7 @@ III. Visita de inspección extraordinaria: Se entenderá como tal aquella realiz
 
 Los resultados correspondientes a cada una de las visitas anteriormente descritas deberán registrarse en un informe de inspección.
 
-El Comité de Supervisión Auxiliar deberá elaborar un programa anual de visitas de inspección ordinarias (integrales y específicas) y, en su caso, podrá realizar las modificaciones posteriores a este, explicando las causas que originaron dichos cambios. Será responsabilidad del Comité de Supervisión Auxiliar enviar a la Comisión tanto el programa anual mencionado como sus modificaciones, dentro de los 10 días hábiles posteriores a la fecha en que sean aprobados por dicho Comité. El programa anual deberá enviarse a la Comisión en el mes de enero de cada año con la opinión del Comité de Protección al Ahorro Cooperativo.
+El Comité de Supervisión Auxiliar deberá elaborar un programa anual de visitas de inspección ordinarias (integrales y específicas) y, en su caso, podrá realizar las modificaciones posteriores a este, explicando las causas que originaron dichos cambios. Será responsabilidad del Comité de Supervisión Auxiliar enviar a la Comisión tanto el programa anual mencionado como sus modificaciones, dentro de los 10 días hábiles posteriores a la fecha en que sean aprobados por dicho Comité. El programa anual deberá enviarse a la Comisión en el mes de enero de cada año con la opinión del [Comité de Protección al Ahorro Cooperativo](articulo-1.md).
 
 Anualmente, el Comité de Supervisión Auxiliar deberá realizar a las Sociedades, cuando menos, una visita ordinaria específica, así como las visitas extraordinarias que juzgue necesarias.
 

@@ -13,13 +13,15 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf
 source_sha256: 43927095d22ff7bc7780e78132d2160b5050b5f76026b539daec32be09d7341d
 ---
 
-> Capítulo II · Sección TERCERA
+> Título Cuarto · Capítulo II
 
 # Artículo 100-B
 
 Las empresas inscritas en el registro a que se refiere el artículo [100-A](articulo-100-A.md) de esta Ley, tendrán derecho a las siguientes facilidades: Párrafo reformado DOF 09-12-2013
 
-I. Optar por promover el despacho aduanero de mercancías ante cualquier aduana, excepto cuando se trate de mercancía sujeta a regulaciones y restricciones no arancelarias en materia de medio ambiente, seguridad nacional, salud pública o de sanidad animal y vegetal; Fracción reformada DOF 09-12-2013 II. (Se deroga). Fracción derogada DOF 09-12-2013
+I. Optar por promover el despacho aduanero de mercancías ante cualquier aduana, excepto cuando se trate de mercancía sujeta a regulaciones y restricciones no arancelarias en materia de medio ambiente, seguridad nacional, salud pública o de sanidad animal y vegetal; Fracción reformada DOF 09-12-2013
+
+II. (Se deroga). Fracción derogada DOF 09-12-2013
 
 III. El despacho a domicilio a la exportación de acuerdo con los lineamientos que emita el Servicio de Administración Tributaria mediante reglas;
 

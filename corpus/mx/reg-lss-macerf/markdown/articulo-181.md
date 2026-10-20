@@ -17,4 +17,4 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 181
 
-Una vez aclaradas y, en su caso, pagadas las diferencias, el Instituto validará la corrección y, se dará por concluido el trámite. Sólo en caso de existir denuncia de algún trabajador, o de comprobarse que el patrón o sujeto obligado proporcionó información o documentación falsa, el Instituto ejercerá sus facultades de comprobación.
+Una vez aclaradas y, en su caso, pagadas las diferencias, el [Instituto](../../lss/markdown/articulo-5-A.md) validará la corrección y, se dará por concluido el trámite. Sólo en caso de existir denuncia de algún trabajador, o de comprobarse que el patrón o sujeto obligado proporcionó información o documentación falsa, el Instituto ejercerá sus facultades de comprobación.

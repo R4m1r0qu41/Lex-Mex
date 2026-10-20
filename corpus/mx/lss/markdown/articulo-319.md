@@ -17,6 +17,6 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 319
 
-La acción penal en los delitos previstos en este Capítulo prescribirá en tres años contados a partir del día en que el Instituto tenga conocimiento del delito y del probable responsable; y si no tiene conocimiento, en cinco años, que se computará a partir de la fecha de la comisión del delito.
+La acción penal en los delitos previstos en este Capítulo prescribirá en tres años contados a partir del día en que el [Instituto](articulo-5-A.md) tenga conocimiento del delito y del probable responsable; y si no tiene conocimiento, en cinco años, que se computará a partir de la fecha de la comisión del delito.
 
 Artículo adicionado DOF 20-12-2001

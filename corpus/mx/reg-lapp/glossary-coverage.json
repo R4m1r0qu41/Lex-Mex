@@ -1,0 +1,35 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-3",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lapp",
+  "source_sha256": "4ff895e3a71cad0980a03360585d24750d7e165b6ea2537fc44c5c05f9142ce7",
+  "extracted_text_sha256": "8249d825d620f56247cf82c9f38250a38a71c288f430684fa280f29cf3d8c2a9",
+  "status": "detected",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:regulation:reg-lapp:article:11",
+      "provision_text_sha256": "d20a52d783293ce80589209efa424331ce4c7c5d24eb15a9adaf411c8a63fcb6",
+      "method": "established_pass",
+      "fractions": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII",
+        "XIII",
+        "XIV"
+      ],
+      "unread_fractions": [],
+      "term_count": 13
+    }
+  ],
+  "imports": [],
+  "term_count": 13,
+  "usage_count": 215
+}

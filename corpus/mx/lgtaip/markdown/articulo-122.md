@@ -17,4 +17,4 @@ source_sha256: e81e23876bd08da81cb8392af7054f6187ad043ca8f965777b455f9d12554e8b
 
 # Artículo 122
 
-En las versiones públicas no podrá omitirse la información que constituya obligaciones de transparencia previstas en la presente Ley.
+En las versiones públicas no podrá omitirse la información que constituya obligaciones de transparencia previstas en la presente [Ley](articulo-3.md).

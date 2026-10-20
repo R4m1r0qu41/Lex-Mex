@@ -17,7 +17,7 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 272
 
-El Instituto, en materia de presupuesto, gasto y su contabilidad, se regirá por lo dispuesto en esta Ley y, en lo no previsto expresamente en ella, aplicará la Ley Federal de Presupuesto y Responsabilidad Hacendaria y disposiciones que de ella emanen. Párrafo reformado DOF 16-01-2009
+El [Instituto](articulo-5-A.md), en materia de presupuesto, gasto y su contabilidad, se regirá por lo dispuesto en esta [Ley](articulo-5-A.md) y, en lo no previsto expresamente en ella, aplicará la Ley Federal de Presupuesto y Responsabilidad Hacendaria y disposiciones que de ella emanen. Párrafo reformado DOF 16-01-2009
 
 Los servidores públicos del Instituto serán responsables de cualquier daño o perjuicio estimable en dinero que afecte a la hacienda pública federal o el patrimonio del propio Instituto, por lo que resultará aplicable la Ley Federal de Presupuesto y Responsabilidad Hacendaria, sin perjuicio de lo dispuesto en la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y en la Ley de Fiscalización Superior de la Federación. Párrafo reformado DOF 16-01-2009
 

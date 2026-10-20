@@ -17,11 +17,11 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 274
 
-La solicitud de declaración de protección a una denominación de origen deberá presentarse ante el Instituto con los siguientes datos y documentos:
+La solicitud de declaración de protección a una denominación de origen deberá presentarse ante el [Instituto](articulo-4.md) con los siguientes datos y documentos:
 
 I.- El nombre, domicilio y correo electrónico de la persona solicitante; Fracción reformada DOF 03-04-2026
 
-II.- El carácter de la persona solicitante, su naturaleza jurídica y las actividades a las que se dedica, en términos del artículo [273](articulo-273.md) de esta Ley; Fracción reformada DOF 03-04-2026
+II.- El carácter de la persona solicitante, su naturaleza jurídica y las actividades a las que se dedica, en términos del artículo [273](articulo-273.md) de esta [Ley](articulo-4.md); Fracción reformada DOF 03-04-2026
 
 III.- El nombre de la denominación de origen;
 

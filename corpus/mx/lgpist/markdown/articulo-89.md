@@ -17,6 +17,6 @@ source_sha256: 1e7d06c67fac4c8a100d2bb2845cc765fba5e8ce09d27d30b2b44432ffeb8c41
 
 # Artículo 89
 
-Con independencia de lo previsto en la Ley General de Víctimas, la Comisión Ejecutiva es competente para proporcionar medidas de ayuda, asistencia y atención a las Víctimas relacionadas con la probable comisión del delito de tortura, perseguidos por la Fiscalía Especializada que conozca del caso, y en los casos previstos en el artículo [91](articulo-91.md) de esta Ley.
+Con independencia de lo previsto en la [Ley](articulo-5.md) General de [Víctimas](articulo-5.md), la [Comisión Ejecutiva](articulo-5.md) es competente para proporcionar medidas de ayuda, asistencia y atención a las Víctimas relacionadas con la probable comisión del delito de tortura, perseguidos por la [Fiscalía Especializada](articulo-5.md) que conozca del caso, y en los casos previstos en el artículo [91](articulo-91.md) de esta Ley.
 
 Artículo reformado DOF 20-05-2021

@@ -17,7 +17,7 @@ source_sha256: cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7
 
 # Artículo 92 Bis 3
 
-Las Instituciones Financieras por conducto de su director general o equivalente y con la opinión de la persona o área que ejerza las funciones de vigilancia de la propia Institución Financiera, podrán someter a la autorización de la Comisión Nacional un programa de autocorrección cuando la Institución Financiera de que se trate, en la realización de sus actividades, o la persona o área que ejerza las funciones de vigilancia como resultado de las funciones que tiene conferidas, detecten irregularidades o incumplimientos a lo previsto en esta Ley.
+Las [Instituciones Financieras](articulo-2o.md) por conducto de su director general o equivalente y con la opinión de la persona o área que ejerza las funciones de vigilancia de la propia Institución Financiera, podrán someter a la autorización de la [Comisión Nacional](articulo-2o.md) un programa de autocorrección cuando la Institución Financiera de que se trate, en la realización de sus actividades, o la persona o área que ejerza las funciones de vigilancia como resultado de las funciones que tiene conferidas, detecten irregularidades o incumplimientos a lo previsto en esta Ley.
 
 No podrán ser materia de un programa de autocorrección en los términos del presente artículo:
 

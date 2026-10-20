@@ -24,7 +24,7 @@ I. Procurar mecanismos de operación que permitan identificar, vigilar y evaluar
 
 II. Delimitar las diferentes funciones y responsabilidades del personal al interior de la Sociedad.
 
-III. Diseñar, implementar y operar sistemas de información eficientes y completos, que soporten los procesos de operación de la Sociedad, así como de atención a sus Socios a través de sucursales y cualquier [Medio Electrónico](articulo-1.md), para lo cual deberán, en lo conducente:
+III. Diseñar, implementar y operar sistemas de información eficientes y completos, que soporten los procesos de operación de la Sociedad, así como de atención a sus [Socios](articulo-1.md) a través de sucursales y cualquier [Medio Electrónico](articulo-1.md), para lo cual deberán, en lo conducente:
 
 a) Establecer medidas y controles que permitan asegurar confidencialidad en la generación, almacenamiento, transmisión y recepción de contraseñas y claves de acceso a los sistemas informáticos.
 

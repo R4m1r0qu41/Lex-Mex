@@ -17,4 +17,4 @@ source_sha256: 23dcee090bbe0c4fb06c75d084cb65ce0b2e8f72a8d082e7059504412bde1614
 
 # Artículo 9o
 
-Toda renuncia a los derechos del obtentor deberá expresarse en los formatos que al efecto expida la Secretaría y se presentará ante la Dirección General Jurídica de la misma. El obtentor o su representante legal expresamente autorizado, deberán ratificar la renuncia dentro de los treinta días naturales siguientes a la fecha de su presentación. Si no fuere ratificada, se tendrá por no presentada.
+Toda renuncia a los derechos del obtentor deberá expresarse en los formatos que al efecto expida la [Secretaría](articulo-2o.md) y se presentará ante la Dirección General Jurídica de la misma. El obtentor o su representante legal expresamente autorizado, deberán ratificar la renuncia dentro de los treinta días naturales siguientes a la fecha de su presentación. Si no fuere ratificada, se tendrá por no presentada.

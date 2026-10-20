@@ -17,4 +17,4 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 351
 
-El Instituto decidirá en la resolución definitiva del procedimiento de declaración administrativa de infracción, sobre el levantamiento o definitividad de las medidas adoptadas.
+El [Instituto](articulo-4.md) decidirá en la resolución definitiva del procedimiento de declaración administrativa de infracción, sobre el levantamiento o definitividad de las medidas adoptadas.

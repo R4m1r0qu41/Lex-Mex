@@ -1,0 +1,25 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-3",
+  "instrument_id": "urn:lex-mx:federal:statute:lffmaa",
+  "source_sha256": "31d853037c0fe8c97535b508ed8a5366dfd6c83e53b6b32967c816554504dbaa",
+  "extracted_text_sha256": "64fc3889e33545fa017fa5b0e9ffba45a17dae1c203de453e5859df98d7a4e9d",
+  "status": "detected",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lffmaa:article:3",
+      "provision_text_sha256": "dd8ccbeb2eadf3c04b9f28f3386a082979dcdd7a66887b26dacd3d6620381908",
+      "method": "wider_pass",
+      "fractions": [
+        "I",
+        "II",
+        "III"
+      ],
+      "repeal_placeholders": [],
+      "term_count": 3
+    }
+  ],
+  "imports": [],
+  "term_count": 3,
+  "usage_count": 0
+}

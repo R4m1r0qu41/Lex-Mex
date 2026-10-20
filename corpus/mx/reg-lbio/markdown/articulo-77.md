@@ -17,4 +17,4 @@ source_sha256: 7df3d678efda2306b68d3c0f5ca0e3e92b9066d5f773128f4ae19cb26bf44fff
 
 # Artículo 77
 
-El Registro Nacional Agropecuario de SADER debe llevar un registro de los permisos previos para la Producción de Biomasa para la Producción de Biocombustibles provenientes de cultivos como la caña de azúcar y del sorgo, así como de otros cultivos que determine la SADER, y de los avisos de siembra para producir Biomasa obtenida a partir de cultivos en Suelos Marginales para la Producción de Biocombustibles y debe hacerlo del conocimiento de la SENER para su integración en el Subsistema.
+El Registro Nacional Agropecuario de [SADER](articulo-3.md) debe llevar un registro de los permisos previos para la Producción de Biomasa para la Producción de Biocombustibles provenientes de cultivos como la caña de azúcar y del sorgo, así como de otros cultivos que determine la SADER, y de los avisos de siembra para producir Biomasa obtenida a partir de cultivos en Suelos Marginales para la Producción de Biocombustibles y debe hacerlo del conocimiento de la [SENER](articulo-3.md) para su integración en el Subsistema.

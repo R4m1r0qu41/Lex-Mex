@@ -17,7 +17,7 @@ source_sha256: 4d25bcb022ab62a24462e11a230c9554c0120012913ab4599cd3ec1b2b275c1d
 
 # Artículo 4o
 
-Cualquier solicitud, aviso, informe o promoción que se dirija a la Dirección General de Minas deberá indicar el nombre completo, razón social o denominación del promovente, domicilio para recibir notificaciones y clave del Registro Federal de Contribuyentes incluyendo la homoclave, así como, en su caso, el nombre de su representante legal; y estar firmada por dicho promovente o por su representante. Además, cuando se trate de las declaraciones, manifestaciones e informes a que se refieren las fracciones I y III de este artículo, así como los artículos [35](articulo-35.md), fracción I, inciso a); [45](articulo-45.md), fracción IV; [58](articulo-58.md); [63](articulo-63.md); [64](articulo-64.md), fracción I; [69](articulo-69.md), [70](articulo-70.md), y [73](articulo-73.md) de este Reglamento, la promoción debe realizarse bajo protesta de decir verdad.
+Cualquier solicitud, aviso, informe o promoción que se dirija a la Dirección General de Minas deberá indicar el nombre completo, razón social o denominación del promovente, domicilio para recibir notificaciones y clave del [Registro](articulo-1o.md) Federal de Contribuyentes incluyendo la homoclave, así como, en su caso, el nombre de su representante legal; y estar firmada por dicho promovente o por su representante. Además, cuando se trate de las declaraciones, manifestaciones e informes a que se refieren las fracciones I y III de este artículo, así como los artículos [35](articulo-35.md), fracción I, inciso a); [45](articulo-45.md), fracción IV; [58](articulo-58.md); [63](articulo-63.md); [64](articulo-64.md), fracción I; [69](articulo-69.md), [70](articulo-70.md), y [73](articulo-73.md) de este Reglamento, la promoción debe realizarse bajo protesta de decir verdad.
 
 En las solicitudes de concesión o de asignación minera, de desistimientos y de inscripción ante el Registro, además de lo previsto en el párrafo anterior, se deberán adjuntar los documentos siguientes:
 
@@ -25,7 +25,7 @@ I. Copia de la credencial de elector o de documento oficial que acredite ser de 
 
 II. Aquél que contenga los datos registrales de inscripción en el Registro Agrario Nacional, comprendiendo folio, número de expediente, número de registro y fecha del registro, para el caso de ejidos y comunidades agrarias;
 
-III. Original o copia certificada de los instrumentos públicos en caso de las personas morales a que se refiere el artículo [11](../../lmin/markdown/articulo-11.md) de la Ley, en donde conste la constitución legal de la sociedad con objeto social de minero, el domicilio legal y, en su caso, la participación de inversionistas extranjeros conforme a lo señalado por el citado artículo [11](../../lmin/markdown/articulo-11.md) de la Ley;
+III. Original o copia certificada de los instrumentos públicos en caso de las personas morales a que se refiere el artículo [11](../../lmin/markdown/articulo-11.md) de la [Ley](articulo-1o.md), en donde conste la constitución legal de la sociedad con objeto social de minero, el domicilio legal y, en su caso, la participación de inversionistas extranjeros conforme a lo señalado por el citado artículo [11](../../lmin/markdown/articulo-11.md) de la Ley;
 
 IV. Aquél, con carácter oficial, donde se acredite el reconocimiento de pueblo o comunidad indígena, conforme a la normativa aplicable, tratándose de pueblos o comunidades indígenas, y
 

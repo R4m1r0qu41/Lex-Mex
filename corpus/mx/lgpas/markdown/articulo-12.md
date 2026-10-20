@@ -17,7 +17,7 @@ source_sha256: 160e5e85efddb1749a79f6b154af31711a9b31a5e32bace3c07e2859c2620ecf
 
 # Artículo 12
 
-Los convenios y acuerdos de coordinación que suscriba la Federación, por conducto de la Secretaría, con los gobiernos de las entidades federativas, con la participación, en su caso, de sus municipios y las demarcaciones territoriales de la Ciudad de México deberán sujetarse a lo siguiente: Párrafo reformado DOF 19-01-2018
+Los convenios y acuerdos de coordinación que suscriba la Federación, por conducto de la [Secretaría](articulo-4o.md), con los gobiernos de las entidades federativas, con la participación, en su caso, de sus municipios y las demarcaciones territoriales de la Ciudad de México deberán sujetarse a lo siguiente: Párrafo reformado DOF 19-01-2018
 
 I. Establecer su objeto con precisión, las materias y facultades que se asumirán, que deberán ser acordes con la política nacional de pesca y acuacultura sustentables;
 

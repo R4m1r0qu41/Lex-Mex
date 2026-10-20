@@ -17,4 +17,4 @@ source_sha256: 6680a58c98673518aee46582b3137d28987c275785d1f0c97295f0d89c4b692b
 
 # Artículo 81
 
-Los Guías de Turistas acreditados por la Secretaría deberán observar en la prestación de sus servicios lo establecido en las Normas Oficiales Mexicanas y demás disposiciones aplicables.
+Los [Guías de Turistas](articulo-2.md) acreditados por la Secretaría deberán observar en la prestación de sus servicios lo establecido en las Normas Oficiales Mexicanas y demás disposiciones aplicables.

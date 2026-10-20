@@ -13,9 +13,11 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAC.pdf
 source_sha256: 07199878c4f94748c983998437198eb7c645ad76967c444dfe26d50a535d23ae
 ---
 
+> Capítulo XVI
+
 # Artículo 81 Bis
 
-La Comisión Investigadora y Dictaminadora de Accidentes Aéreos contará con las siguientes facultades para investigar accidentes e incidentes de aviación:
+La [Comisión Investigadora y Dictaminadora de Accidentes Aéreos](articulo-2.md) contará con las siguientes facultades para investigar accidentes e incidentes de aviación:
 
 I. Coordinar, requerir y recibir información, realizar la investigación del incidente o accidente;
 
@@ -45,7 +47,7 @@ X. Requerir un examen médico a la persona o personas que directa o indirectamen
 
 XI. Requerir a los médicos competentes la información con que cuenten de un paciente involucrado en un accidente o incidente, cuando sea relevante para la investigación;
 
-XI Bis. Requerir de la Agencia Federal de Aviación Civil la información médica, con que cuenten, del personal técnico-aeronáutico involucrado en un accidente o incidente, cuando sea relevante para la investigación; Fracción adicionada DOF 03-05-2023
+XI Bis. Requerir de la [Agencia Federal de Aviación Civil](articulo-2.md) la información médica, con que cuenten, del personal técnico-aeronáutico involucrado en un accidente o incidente, cuando sea relevante para la investigación; Fracción adicionada DOF 03-05-2023
 
 XII. Solicitar a la instancia medica competente los resultados de las necropsias realizadas a los miembros de la tripulación involucrados en un accidente y, en su caso, a pasajeros;
 

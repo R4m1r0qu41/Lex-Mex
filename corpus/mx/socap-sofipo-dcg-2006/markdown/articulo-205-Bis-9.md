@@ -18,9 +18,9 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 205 Bis 9
 
-A la Sociedad Financiera Popular que haya sido clasificada en la categoría 3, además de lo previsto en las fracciones I y III del artículo [205 Bis 8](articulo-205-Bis-8.md) de las presentes disposiciones, le serán aplicables las Medidas Correctivas Mínimas siguientes:
+A la [Sociedad](articulo-1.md) Financiera Popular que haya sido clasificada en la categoría 3, además de lo previsto en las fracciones I y III del artículo [205 Bis 8](articulo-205-Bis-8.md) de las presentes disposiciones, le serán aplicables las [Medidas Correctivas Mínimas](articulo-1.md) siguientes:
 
-I. Presentar a la Comisión un plan de restauración de capital, en los términos previstos por la fracción III del artículo 74 de la Ley, en un plazo no mayor a quince días hábiles contados a partir de que la Sociedad Financiera Popular reciba la notificación sobre la categoría de capitalización que le corresponda.
+I. Presentar a la Comisión un plan de restauración de capital, en los términos previstos por la fracción III del artículo 74 de la [Ley](articulo-1.md), en un plazo no mayor a quince días hábiles contados a partir de que la Sociedad Financiera Popular reciba la notificación sobre la categoría de capitalización que le corresponda.
 
 En caso de que el plan de restauración de capital contemple realizar aportaciones para futuros aumentos de capital, deberá existir un acuerdo por parte de la asamblea general de accionistas para dicho aumento y su respectiva suscripción. Dicho acuerdo deberá ser remitido a la Comisión y al Comité de Supervisión en un plazo no mayor a quince días naturales posteriores a que reciba la Sociedad Financiera Popular la resolución de su plan de restauración por parte del Comité de Supervisión.
 

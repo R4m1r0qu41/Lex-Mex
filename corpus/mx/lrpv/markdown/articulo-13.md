@@ -17,7 +17,7 @@ source_sha256: 0125eed7519ad260330f9a04f78c0e4a1ce93c06e67c98ac3c535416787656ba
 
 # Artículo 13
 
-Quienes fabriquen, ensamblen o blinden vehículos en el territorio nacional deberán asignar a éstos un número de identificación vehicular, que será un elemento de identificación en el Registro, el cual estará integrado de conformidad con la norma oficial mexicana respectiva. Párrafo reformado DOF 05-06-2012
+Quienes fabriquen, ensamblen o blinden vehículos en el territorio nacional deberán asignar a éstos un número de identificación vehicular, que será un elemento de identificación en el [Registro](articulo-2.md), el cual estará integrado de conformidad con la norma oficial mexicana respectiva. Párrafo reformado DOF 05-06-2012
 
 Los vehículos importados deberán ser identificados conforme a lo dispuesto en el párrafo anterior o, en su caso, con el número de identificación asignado por la ensambladora o el carrocero de origen.
 

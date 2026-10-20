@@ -15,4 +15,4 @@ source_sha256: bcc21844355854fe331c842c21436d721d6c2856b5c5986715fe39f4a845b317
 
 # TERCERO
 
-Las disposiciones reglamentarias y administrativas y las normas oficiales mexicanas en vigor, continuarán aplicándose hasta en tanto se expidan los nuevos ordenamientos que los sustituyan, salvo en lo que se opongan a la Ley Federal de Telecomunicaciones y Radiodifusión que se expide por virtud del presente Decreto.
+Las disposiciones reglamentarias y administrativas y las normas oficiales mexicanas en vigor, continuarán aplicándose hasta en tanto se expidan los nuevos ordenamientos que los sustituyan, salvo en lo que se opongan a la [Ley](articulo-2.md) Federal de Telecomunicaciones y Radiodifusión que se expide por virtud del presente Decreto.

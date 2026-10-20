@@ -17,7 +17,7 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 247
 
-La supervisión auxiliar tendrá por objeto revisar, verificar, comprobar y evaluar los recursos, obligaciones y patrimonio de las Sociedades, así como las operaciones, funcionamiento, sistemas de control y, en general, todo lo que pudiendo afectar la posición financiera y situación legal de las Sociedades, conste o deba constar en sus registros, a fin de que se ajusten a la Ley, a las presentes disposiciones y a las sanas prácticas y usos imperantes entre las Sociedades.
+La supervisión auxiliar tendrá por objeto revisar, verificar, comprobar y evaluar los recursos, obligaciones y patrimonio de las Sociedades, así como las operaciones, funcionamiento, sistemas de control y, en general, todo lo que pudiendo afectar la posición financiera y situación legal de las Sociedades, conste o deba constar en sus registros, a fin de que se ajusten a la [Ley](articulo-1.md), a las presentes disposiciones y a las sanas prácticas y usos imperantes entre las Sociedades.
 
 Los objetivos generales de la supervisión auxiliar serán los que se enuncian a continuación:
 

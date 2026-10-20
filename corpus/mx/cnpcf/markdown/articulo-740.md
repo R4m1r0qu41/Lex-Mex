@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Primero · Capítulo I
+
 # Artículo 740
 
 El inventario deberá especificar si de los bienes inventariados alguno corresponde la sociedad conyugal o se encuentren en copropiedad o posesión común en los casos de sociedad de convivencia o concubinato y los porcentajes, en su caso.

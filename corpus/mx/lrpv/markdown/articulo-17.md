@@ -17,6 +17,6 @@ source_sha256: 0125eed7519ad260330f9a04f78c0e4a1ce93c06e67c98ac3c535416787656ba
 
 # Artículo 17
 
-En las enajenaciones de los vehículos a que se refiere esta Ley, deberá trasmitirse la constancia de inscripción en el Registro.
+En las enajenaciones de los vehículos a que se refiere esta Ley, deberá trasmitirse la constancia de inscripción en el [Registro](articulo-2.md).
 
 En los casos de extravío, robo o pérdida de la constancia de inscripción, se podrá solicitar reposición, conforme a lo que se establezca en el Reglamento de esta Ley.

@@ -21,7 +21,7 @@ Cada corredor público estará a cargo de un solo archivo. Cada correduría púb
 
 Los corredores habilitados para ejercer en una misma plaza, podrán celebrar convenios de asociación entre sí, con objeto de mejorar la prestación del servicio y optimizar la utilización de sus recursos por el tiempo que estimen conveniente para actuar indistintamente en el mismo libro de registro y archivo, que será el del corredor de mayor antigüedad; al disolverse los convenios de asociación los corredores actuarán en sus respectivos archivos.
 
-Si la disolución fuere por la cesación en funciones o cancelación de la habilitación del corredor más antiguo, en cuyo archivo actuaban otros corredores asociados, tal archivo corresponderá al asociado que continúe en funciones con mayor antigüedad y en él seguirá actuando, debiendo solicitar a la Secretaría la expedición de una nueva habilitación con el número de la correduría del corredor cesante. Si subsistiera asociación de ese con otros corredores deberán continuar actuando en el archivo del más antiguo.
+Si la disolución fuere por la cesación en funciones o cancelación de la habilitación del corredor más antiguo, en cuyo archivo actuaban otros corredores asociados, tal archivo corresponderá al asociado que continúe en funciones con mayor antigüedad y en él seguirá actuando, debiendo solicitar a la [Secretaría](articulo-2o.md) la expedición de una nueva habilitación con el número de la correduría del corredor cesante. Si subsistiera asociación de ese con otros corredores deberán continuar actuando en el archivo del más antiguo.
 
 Los asociados continuarán actuando con su propio sello.
 

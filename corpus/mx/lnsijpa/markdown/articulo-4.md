@@ -17,6 +17,6 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 # Artículo 4
 
-Niñas y Niños Las niñas y niños, en términos de la Ley General, a quienes se les atribuya la comisión de un hecho que la ley señale como delito estarán exentos de responsabilidad penal, sin perjuicio de las responsabilidades civiles a las que haya lugar.
+Niñas y Niños Las niñas y niños, en términos de la [Ley General](articulo-3.md), a quienes se les atribuya la comisión de un hecho que la ley señale como delito estarán exentos de responsabilidad penal, sin perjuicio de las responsabilidades civiles a las que haya lugar.
 
-En caso de que la autoridad advierta que los derechos de estas niñas y niños están siendo amenazados o violados, deberá dar aviso a la Procuraduría de Protección competente.
+En caso de que la autoridad advierta que los derechos de estas niñas y niños están siendo amenazados o violados, deberá dar aviso a la [Procuraduría de Protección](articulo-3.md) competente.

@@ -17,6 +17,6 @@ source_sha256: 01b72308e67d46ba6ca8a6b07fb7584c6a74e905ea0c4b5be5c0c0d32a6d817a
 
 # Artículo 114
 
-La Condecoración al Mérito Técnico de primera y segunda clase, se otorgará a propuesta de las Direcciones Generales, Comandancias del Ejército, de la Fuerza Aérea y de la Guardia Nacional, personas titulares de las Comandancias y Coordinaciones, de Mandos Territoriales, Grandes Unidades Superiores, Elementales, Mandos Especiales o personas civiles nacionales o extranjeras, quienes remitirán la documentación relativa directamente a la Secretaría.
+La Condecoración al Mérito Técnico de primera y segunda clase, se otorgará a propuesta de las [Direcciones](articulo-5.md) Generales, Comandancias del Ejército, de la Fuerza Aérea y de la Guardia Nacional, personas titulares de las Comandancias y Coordinaciones, de Mandos Territoriales, Grandes Unidades Superiores, Elementales, Mandos Especiales o personas civiles nacionales o extranjeras, quienes remitirán la documentación relativa directamente a la Secretaría.
 
 Artículo reformado DOF 20-03-2026

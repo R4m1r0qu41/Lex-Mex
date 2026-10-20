@@ -17,4 +17,4 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 # Artículo 127
 
-Los instrumentos para medir sujetos a control metrológico legal que no cumplan con los requisitos previstos en las Normas Oficiales Mexicanas en materia de metrología legal serán inmovilizados por la autoridad competente antes de su venta o uso, o durante su uso hasta en tanto los satisfagan. Aquellos instrumentos para medir que no puedan acondicionarse para atiendan esos requisitos serán inmovilizados por la autoridad competente para impedir su uso.
+Los instrumentos para medir sujetos a control metrológico legal que no cumplan con los requisitos previstos en las [Normas Oficiales Mexicanas](articulo-4.md) en materia de metrología legal serán inmovilizados por la autoridad competente antes de su venta o uso, o durante su uso hasta en tanto los satisfagan. Aquellos instrumentos para medir que no puedan acondicionarse para atiendan esos requisitos serán inmovilizados por la autoridad competente para impedir su uso.

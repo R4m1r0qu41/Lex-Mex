@@ -17,6 +17,6 @@ source_sha256: 32822f50bb2de81185408f9450d61a49d678429c52c5379822a507c7027a5275
 
 # Artículo 29
 
-Se consideran zonas de atención prioritaria las áreas o regiones, sean de carácter predominantemente rural o urbano, cuya población registra índices de pobreza y marginación, indicativos de la existencia de marcadas insuficiencias y rezagos en el ejercicio de los derechos para el desarrollo social establecidos en esta Ley. Su determinación se orientará por los criterios técnicos que para tal efecto defina el Instituto y deberá, en todo tiempo, promover la eficacia cuantitativa y cualitativa de los ejecutores de la Política de Desarrollo Social.
+Se consideran zonas de atención prioritaria las áreas o regiones, sean de carácter predominantemente rural o urbano, cuya población registra índices de pobreza y marginación, indicativos de la existencia de marcadas insuficiencias y rezagos en el ejercicio de los derechos para el desarrollo social establecidos en esta Ley. Su determinación se orientará por los criterios técnicos que para tal efecto defina el [Instituto](articulo-5.md) y deberá, en todo tiempo, promover la eficacia cuantitativa y cualitativa de los ejecutores de la [Política de Desarrollo Social](articulo-5.md).
 
 Artículo reformado DOF 16-07-2025

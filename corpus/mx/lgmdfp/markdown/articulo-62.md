@@ -17,7 +17,7 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Artículo 62
 
-El Consejo Ciudadano tiene las funciones siguientes: I. Proponer al Sistema Nacional y a la Comisión Nacional de Búsqueda acciones para acelerar o profundizar sus acciones, en el ámbito de sus competencias;
+El [Consejo Ciudadano](articulo-4.md) tiene las funciones siguientes: I. Proponer al [Sistema Nacional](articulo-4.md) y a la [Comisión Nacional de Búsqueda](articulo-4.md) acciones para acelerar o profundizar sus acciones, en el ámbito de sus competencias;
 
 II. Proponer acciones a las instituciones que forman el Sistema Nacional para ampliar sus capacidades, incluidos servicios periciales y forenses;
 
@@ -31,12 +31,12 @@ VI. Acceder a la información estadística generada a través de las diversas he
 
 VII. Contribuir en la promoción de las acciones, políticas públicas, programas y proyectos relacionados con el objeto de esta Ley;
 
-VIII. Dar vista a las autoridades competentes y órganos internos de control sobre las irregularidades en las actuaciones de servidores públicos relacionados con la búsqueda e investigación de Personas Desaparecidas y No Localizadas. Se le reconocerá interés legítimo dentro de las investigaciones para la determinación de responsabilidades de servidores públicos relacionados con la búsqueda e investigación de Personas Desaparecidas y No Localizadas en términos de las disposiciones jurídicas aplicables;
+VIII. Dar vista a las autoridades competentes y órganos internos de control sobre las irregularidades en las actuaciones de servidores públicos relacionados con la búsqueda e investigación de [Personas Desaparecidas](articulo-4.md) y No Localizadas. Se le reconocerá interés legítimo dentro de las investigaciones para la determinación de responsabilidades de servidores públicos relacionados con la búsqueda e investigación de Personas Desaparecidas y No Localizadas en términos de las disposiciones jurídicas aplicables;
 
 IX. Emitir recomendaciones sobre la integración y operación de la Comisión Nacional de Búsqueda;
 
 X. Elaborar, aprobar y modificar la Guía de procedimientos del Comité, y
 
-XI. Las demás que señale el Reglamento.
+XI. Las demás que señale el [Reglamento](articulo-4.md).
 
-Las Entidades Federativas deberán crear consejos estatales ciudadanos que funjan como órganos de consulta de las Comisiones Locales de Búsqueda.
+Las [Entidades Federativas](articulo-4.md) deberán crear consejos estatales ciudadanos que funjan como órganos de consulta de las [Comisiones Locales de Búsqueda](articulo-4.md).

@@ -17,4 +17,4 @@ source_sha256: 0305c9a7ba90c8d0bbe973be2a134a650976ce5d25c304458cb0fd5401b8ddde
 
 # Artículo 14
 
-Aquellas personas seleccionadas de conformidad con la fracción IX del artículo [11](articulo-11.md) de esta Ley, que hayan sido sujetas a verificación y cuyo resultado corrobore el cumplimiento de sus obligaciones regulatorias y fiscales correspondientes, recibirán del Estado, por conducto del titular del Poder Ejecutivo Federal, un reconocimiento que así lo establezca.
+Aquellas personas seleccionadas de conformidad con la fracción IX del artículo [11](articulo-11.md) de esta [Ley](articulo-3.md), que hayan sido sujetas a verificación y cuyo resultado corrobore el cumplimiento de sus obligaciones regulatorias y fiscales correspondientes, recibirán del Estado, por conducto del titular del Poder Ejecutivo Federal, un reconocimiento que así lo establezca.

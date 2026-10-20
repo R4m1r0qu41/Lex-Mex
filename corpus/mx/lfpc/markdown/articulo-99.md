@@ -13,11 +13,11 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPC.pdf
 source_sha256: 7fea623841fd6e05e8c0d01d2cf09f85b0b8e58ba4d9e4f6711f8bad1f448e55
 ---
 
-> Capítulo VIII BIS
+> Capítulo XIII · Sección Primera
 
 # Artículo 99
 
-La Procuraduría recibirá las quejas o reclamaciones de los consumidores de manera individual o grupal con base en esta ley, las cuales podrán presentarse en forma escrita, oral, telefónica, electrónica o por cualquier otro medio cumpliendo con los siguientes requisitos: Párrafo reformado DOF 04-02-2004, 28-01-2011
+La [Procuraduría](articulo-2.md) recibirá las quejas o reclamaciones de los consumidores de manera individual o grupal con base en esta ley, las cuales podrán presentarse en forma escrita, oral, telefónica, electrónica o por cualquier otro medio cumpliendo con los siguientes requisitos: Párrafo reformado DOF 04-02-2004, 28-01-2011
 
 I. Señalar nombre y domicilio del reclamante;
 

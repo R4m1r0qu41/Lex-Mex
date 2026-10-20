@@ -17,4 +17,4 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 # Artículo 163
 
-Los particulares que se consideren afectados por los actos de las Entidades de Acreditación o de los Organismos de Evaluación de la Conformidad podrán presentar ante éstos, el recurso de reclamación. Las Entidades de Acreditación o los Organismos de Evaluación de la Conformidad, deberán resolver las reclamaciones que presenten los interesados, así como notificar al afectado su respuesta en un plazo no mayor a diez días, con copia a las Autoridades Normalizadoras competentes.
+Los particulares que se consideren afectados por los actos de las [Entidades de Acreditación](articulo-4.md) o de los [Organismos de Evaluación de la Conformidad](articulo-4.md) podrán presentar ante éstos, el recurso de reclamación. Las Entidades de Acreditación o los Organismos de Evaluación de la Conformidad, deberán resolver las reclamaciones que presenten los interesados, así como notificar al afectado su respuesta en un plazo no mayor a diez días, con copia a las [Autoridades Normalizadoras](articulo-4.md) competentes.

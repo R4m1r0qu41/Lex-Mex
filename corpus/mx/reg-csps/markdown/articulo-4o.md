@@ -17,4 +17,4 @@ source_sha256: 70464807d63da08244e495f2ff0ac30b12b30119926b84cedc7930397fcb80ef
 
 # Artículo 4o
 
-La Secretaría establecerá y actualizará en las normas, en términos de la ley de la materia, la clasificación, disposiciones o especificaciones sanitarias sobre los productos, servicios, actividades y establecimientos objeto de este Reglamento.
+La [Secretaría](articulo-2o.md) establecerá y actualizará en las normas, en términos de la ley de la materia, la clasificación, disposiciones o especificaciones sanitarias sobre los productos, servicios, actividades y establecimientos objeto de este Reglamento.

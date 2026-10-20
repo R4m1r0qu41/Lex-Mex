@@ -17,4 +17,4 @@ source_sha256: 35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc
 
 # Artículo 154
 
-Se faculta al Instituto para celebrar convenios con las Secretarías de la Defensa Nacional y de Marina, así como los Institutos de Seguridad y Servicios Sociales de los Trabajadores del Estado y Mexicano del Seguro Social, a efecto de prestar el servicio médico subrogado, que comprenderá: asistencia médica quirúrgica, obstétrica, farmacéutica y hospitalaria, así como los aparatos de prótesis y ortopedia que sean necesarios.
+Se faculta al [Instituto](articulo-4o.md) para celebrar convenios con las Secretarías de la Defensa Nacional y de Marina, así como los Institutos de Seguridad y Servicios Sociales de los Trabajadores del Estado y Mexicano del Seguro Social, a efecto de prestar el servicio médico subrogado, que comprenderá: asistencia médica quirúrgica, obstétrica, farmacéutica y hospitalaria, así como los aparatos de prótesis y ortopedia que sean necesarios.

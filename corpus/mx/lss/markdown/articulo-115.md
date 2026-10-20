@@ -17,4 +17,4 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 115
 
-Cuando una persona tuviera derecho a dos o más de las pensiones establecidas en esta Ley, por ser simultáneamente pensionado, asegurado y beneficiario de otro u otros asegurados, recibirá en su caso, la pensión de acuerdo a los recursos acumulados en la cuenta individual que corresponda.
+Cuando una persona tuviera derecho a dos o más de las pensiones establecidas en esta [Ley](articulo-5-A.md), por ser simultáneamente pensionado, asegurado y beneficiario de otro u otros asegurados, recibirá en su caso, la pensión de acuerdo a los recursos acumulados en la cuenta individual que corresponda.

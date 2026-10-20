@@ -17,4 +17,4 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 130
 
-"La Comisión", conforme a los lineamientos que acuerde su Consejo Técnico, promoverá el establecimiento y aplicación de fondos de contingencia, integrados con aportaciones de la Federación, de los gobiernos de las entidades federativas y de las personas interesadas, para lograr la disminución de daños y prever la solución de problemas.
+"[La Comisión](articulo-1o.md)", conforme a los lineamientos que acuerde su Consejo Técnico, promoverá el establecimiento y aplicación de fondos de contingencia, integrados con aportaciones de la Federación, de los gobiernos de las entidades federativas y de las personas interesadas, para lograr la disminución de daños y prever la solución de problemas.

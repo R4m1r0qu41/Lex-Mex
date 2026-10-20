@@ -1,0 +1,35 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-3",
+  "instrument_id": "urn:lex-mx:federal:statute:lgds",
+  "source_sha256": "32822f50bb2de81185408f9450d61a49d678429c52c5379822a507c7027a5275",
+  "extracted_text_sha256": "a10672ad565b0d7ed0b8d175842dd74f82dd8d1e4dc7c635db279e988eb6d466",
+  "status": "detected",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lgds:article:5",
+      "provision_text_sha256": "b1a2b8c942a823a0123809311a4410c8f8a3f438e3746cdbbc98529fa79da0e9",
+      "method": "wider_pass",
+      "fractions": [
+        "I",
+        "II",
+        "IV",
+        "V",
+        "VI",
+        "VI Bis",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI"
+      ],
+      "repeal_placeholders": [
+        "III"
+      ],
+      "term_count": 11
+    }
+  ],
+  "imports": [],
+  "term_count": 11,
+  "usage_count": 88
+}

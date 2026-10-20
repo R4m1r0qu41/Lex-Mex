@@ -17,7 +17,7 @@ source_sha256: ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776
 
 El concesionario o permisionario debe informar por escrito:
 
-I. A la Secretaría: la descripción técnica del aeródromo, de las instalaciones y servicios con que cuenta y de sus modificaciones, así como de la demás información relevante de carácter permanente para la operación del mismo, para su difusión a través de la Publicación de Información Aeronáutica (PIA), y
+I. A la [Secretaría](articulo-2.md): la descripción técnica del aeródromo, de las instalaciones y servicios con que cuenta y de sus modificaciones, así como de la demás información relevante de carácter permanente para la operación del mismo, para su difusión a través de la Publicación de Información Aeronáutica (PIA), y
 
 II. Al comandante de aeródromo: la información que modifica temporalmente la especificada en la PIA o las condiciones de operación normal del aeródromo civil, para que se ordene la emisión de la notificación al personal técnico aeronáutico (NOTAM).
 

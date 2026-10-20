@@ -15,4 +15,4 @@ source_sha256: 7df3d678efda2306b68d3c0f5ca0e3e92b9066d5f773128f4ae19cb26bf44fff
 
 # TERCERO
 
-La SENER, la SEMARNAT y la SADER deben emitir los lineamientos y demás ordenamientos correspondientes que deriven de la Ley y el presente Reglamento. En tanto estos se emiten o modifican, la normatividad y regulación emitidas con anterioridad a la entrada en vigor del presente Reglamento, continuarán en vigor, en tanto no se opongan a lo establecido en el presente ordenamiento.
+La [SENER](articulo-3.md), la [SEMARNAT](articulo-3.md) y la [SADER](articulo-3.md) deben emitir los lineamientos y demás ordenamientos correspondientes que deriven de la [Ley](articulo-3.md) y el presente [Reglamento](articulo-3.md). En tanto estos se emiten o modifican, la normatividad y regulación emitidas con anterioridad a la entrada en vigor del presente Reglamento, continuarán en vigor, en tanto no se opongan a lo establecido en el presente ordenamiento.

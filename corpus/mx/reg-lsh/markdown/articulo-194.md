@@ -17,4 +17,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Artículo 194
 
-Para operar en condiciones de participación cruzada, las personas Permisionarias deben solicitar la autorización de la Secretaría en términos de la Normatividad aplicable.
+Para operar en condiciones de participación cruzada, las personas Permisionarias deben solicitar la autorización de la [Secretaría](articulo-3.md) en términos de la [Normatividad](articulo-3.md) aplicable.

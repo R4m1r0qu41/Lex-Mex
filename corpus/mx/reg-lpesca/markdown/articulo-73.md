@@ -17,4 +17,4 @@ source_sha256: e5c0ecb4328043b7090ee5d73e982d6a04410f1330f6fdb350a7a34527eb2e59
 
 # Artículo 73
 
-La Secretaría hará del conocimiento de las Secretarías de Relaciones Exteriores y de Marina, las peticiones que reciba de extranjeros o de organismos internacionales, para realizar pesca de fomento, así como los permisos que les otorgue para efectuar expediciones o exploraciones científicas en aguas mexicanas, sin perjuicio de los demás requisitos que deban cumplirse al respecto.
+La [Secretaría](articulo-2o.md) hará del conocimiento de las Secretarías de Relaciones Exteriores y de Marina, las peticiones que reciba de extranjeros o de organismos internacionales, para realizar pesca de fomento, así como los permisos que les otorgue para efectuar expediciones o exploraciones científicas en aguas mexicanas, sin perjuicio de los demás requisitos que deban cumplirse al respecto.

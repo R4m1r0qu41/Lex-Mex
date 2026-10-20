@@ -33,6 +33,6 @@ VI.- Dañar ecosistemas como consecuencia del uso, aprovechamiento o explotació
 
 VII.- Las demás previstas en esta Ley, en sus reglamentos o en el título de concesión.
 
-Declarada la revocación, el concesionario perderá en favor de la Federación los bienes afectos a la concesión, sin tener derecho a indemnización alguna.
+Declarada la revocación, el concesionario perderá en favor de la [Federación](articulo-2.md) los bienes afectos a la concesión, sin tener derecho a indemnización alguna.
 
 En los títulos de concesión se podrán establecer las sanciones económicas a las que se harán acreedores los concesionarios, para cuya aplicación se tomará en cuenta el lucro obtenido, los daños causados o el monto de los derechos omitidos. En el caso de la fracción IV de este precepto, se atenderá a lo dispuesto por el siguiente artículo.

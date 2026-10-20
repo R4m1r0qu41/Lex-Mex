@@ -17,6 +17,6 @@ source_sha256: 96092a4581d4e87910eb58939da4045879e4fe613b12f4413d7392bcc2c6e884
 
 # Artículo 57
 
-Cuando las armas, objetos y materiales de importación o exportación comercial se encuentren en poder de la aduana respectiva, los interesados lo comunicarán a la Secretaría para que ésta designe representante que intervenga en el despacho aduanal correspondiente, sin cuyo requisito no debe permitirse el retiro del dominio fiscal o la salida del país.
+Cuando las armas, objetos y materiales de importación o exportación comercial se encuentren en poder de la aduana respectiva, los interesados lo comunicarán a la [Secretaría](articulo-1o-Bis.md) para que ésta designe representante que intervenga en el despacho aduanal correspondiente, sin cuyo requisito no debe permitirse el retiro del dominio fiscal o la salida del país.
 
 Artículo reformado DOF 29-05-2025

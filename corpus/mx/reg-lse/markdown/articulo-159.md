@@ -17,4 +17,4 @@ source_sha256: 4bcc982b308b0813469b30db61b53d5a2c41e5a7240b3b1cac2f1aeeb2c00a2e
 
 # Artículo 159
 
-La inscripción de los Usuarios Calificados, así como de las Comercializadoras no Suministradoras, se debe realizar sin cobro.
+La inscripción de los Usuarios Calificados, así como de las [Comercializadoras no Suministradoras](articulo-2.md), se debe realizar sin cobro.

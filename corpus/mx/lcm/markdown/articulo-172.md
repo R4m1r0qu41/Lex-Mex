@@ -17,6 +17,6 @@ source_sha256: 8e270686b885035488bfe310b0b42bb40e7154431794227ebe212dd7dc12e46a
 
 # Artículo 172
 
-El síndico deberá hacer del conocimiento de los acreedores su nombramiento y señalar un domicilio, dentro de la jurisdicción del juez que conozca del concurso mercantil, para el cumplimiento de las obligaciones que esta Ley le impone, dentro de los tres días siguientes a aquel en que se le dé a conocer su designación.
+El síndico deberá hacer del conocimiento de los acreedores su nombramiento y señalar un domicilio, dentro de la jurisdicción del juez que conozca del concurso mercantil, para el cumplimiento de las obligaciones que esta [Ley](articulo-4o.md) le impone, dentro de los tres días siguientes a aquel en que se le dé a conocer su designación.
 
 Artículo reformado DOF 27-12-2007

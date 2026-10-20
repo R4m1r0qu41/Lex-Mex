@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo II
+
 # Artículo 298
 
 Ambas partes podrán solicitar a las personas previstas en el artículo [110](../../cpeum/markdown/articulo-110.md) de la Constitución Política de los Estados Unidos Mexicanos, así como a las personas integrantes de las fuerzas armadas con mando, que desahoguen las preguntas vía informe, previo a la celebración de la audiencia de juicio.

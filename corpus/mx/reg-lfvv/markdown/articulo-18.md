@@ -17,7 +17,7 @@ source_sha256: 23dcee090bbe0c4fb06c75d084cb65ce0b2e8f72a8d082e7059504412bde1614
 
 # Artículo 18
 
-El Comité será presidido por el Subsecretario de Agricultura y Ganadería de la Secretaría y su Secretario Técnico será el Director del SNICS. La Secretaría de Actas corresponderá a la Dirección General Jurídica de la Secretaría.
+El [Comité](articulo-2o.md) será presidido por el Subsecretario de Agricultura y Ganadería de la [Secretaría](articulo-2o.md) y su Secretario Técnico será el Director del [SNICS](articulo-2o.md). La Secretaría de Actas corresponderá a la Dirección General Jurídica de la Secretaría.
 
 Los otros tres representantes de la Secretaría serán los directores en jefe del Instituto Nacional de Investigaciones Forestales, Agrícolas y Pecuarias, de la Comisión Nacional de Sanidad Agropecuaria y el Director General de Agricultura de la Secretaría. Todos los representantes propietarios designarán a sus suplentes.
 

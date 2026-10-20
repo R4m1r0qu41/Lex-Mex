@@ -17,7 +17,7 @@ source_sha256: b3c906475b455176de73da17f4f93a73f295965dc9bcca854b48417c7d4d3cfc
 
 # Artículo 12
 
-Corresponde a la SAGARPA el ejercicio de las facultades que le confiere esta Ley, cuando se trate de actividades con OGMs en los casos siguientes:
+Corresponde a la [SAGARPA](articulo-3.md) el ejercicio de las facultades que le confiere esta Ley, cuando se trate de actividades con OGMs en los casos siguientes:
 
 I. Vegetales que se consideren especies agrícolas, incluyendo semillas, y cualquier otro organismo o producto considerado dentro del ámbito de aplicación de la Ley Federal de Sanidad Vegetal, con excepción de las especies silvestres y forestales reguladas por la Ley General de Vida Silvestre y la Ley General de Desarrollo Forestal Sustentable, respectivamente, y aquellas que se encuentren bajo algún régimen de protección por normas oficiales mexicanas derivadas de esas leyes;
 

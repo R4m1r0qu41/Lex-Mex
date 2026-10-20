@@ -17,7 +17,7 @@ source_sha256: b3c906475b455176de73da17f4f93a73f295965dc9bcca854b48417c7d4d3cfc
 
 # Artículo 34
 
-La Secretaría correspondiente expedirá su resolución, debidamente fundada y motivada, una vez analizada la información y documentación aportados por el interesado, el dictamen o la opinión que hubieran expedido las Secretarías a las que les corresponde emitirlos de conformidad con esta Ley y, cuando proceda, la autorización del OGM que expida la SSA en los términos de este ordenamiento. La Secretaría correspondiente en su resolución podrá:
+La [Secretaría](articulo-3.md) correspondiente expedirá su resolución, debidamente fundada y motivada, una vez analizada la información y documentación aportados por el interesado, el dictamen o la opinión que hubieran expedido las Secretarías a las que les corresponde emitirlos de conformidad con esta Ley y, cuando proceda, la autorización del OGM que expida la [SSA](articulo-3.md) en los términos de este ordenamiento. La Secretaría correspondiente en su resolución podrá:
 
 I. Expedir el permiso para la realización de la actividad de liberación al ambiente de que se trate, pudiendo establecer medidas de monitoreo, control, prevención y seguridad adicionales a las que fueron propuestas por el interesado en la solicitud del permiso, o
 
