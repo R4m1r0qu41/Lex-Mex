@@ -21,6 +21,6 @@ La indemnización que proceda por la expropiación de las tierras se cubrirá en
 
 A solicitud de la persona afectada por las obras públicas federales, la indemnización se podrá cubrir mediante compensación en especie por un valor equivalente de tierras de riego por cada una de las personas afectadas, en los términos de Ley, y el resto de la indemnización, si la hubiere, se cubrirá en efectivo. Párrafo reformado DOF 11-12-2025
 
-El Organismo de Cuenca competente, en su caso, en coordinación con las autoridades competentes, proveerá y apoyará el establecimiento de los poblados necesarios para compensar los bienes afectados por la construcción de las obras.
+El [Organismo de Cuenca](articulo-3.md) competente, en su caso, en coordinación con las autoridades competentes, proveerá y apoyará el establecimiento de los poblados necesarios para compensar los bienes afectados por la construcción de las obras.
 
 Artículo reformado DOF 29-04-2004

@@ -24,7 +24,7 @@
     },
     "id": {
       "type": "string",
-      "pattern": "^urn:lex-mx:.+:term:[a-z0-9-]+$"
+      "pattern": "^urn:lex-mx:.+:term:[a-z0-9]+(-[a-z0-9]+)*$"
     },
     "term": {
       "type": "string",

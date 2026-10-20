@@ -27,13 +27,13 @@ II. Certificar personal para instrumentar el Sistema Nacional de Servicio Civil 
 
 III. Constituirse en el centro de excelencia en el conocimiento actualizado de la gestión integrada de los recursos hídricos;
 
-IV. Integrar y mantener actualizado el Centro Nacional Documental Técnico y Científico sobre Gestión Integrada de los Recursos Hídricos; V. Desarrollar y estrechar relaciones con las organizaciones internacionales vinculadas con los temas de agua y su gestión integrada, y establecer relaciones de intercambio académico y tecnológico con instituciones y organismos mexicanos, extranjeros o internacionales;
+IV. Integrar y mantener actualizado el Centro Nacional Documental Técnico y Científico sobre [Gestión Integrada de los Recursos Hídricos](articulo-3.md); V. Desarrollar y estrechar relaciones con las organizaciones internacionales vinculadas con los temas de agua y su gestión integrada, y establecer relaciones de intercambio académico y tecnológico con instituciones y organismos mexicanos, extranjeros o internacionales;
 
 VI. Desarrollar y probar instrumentos de gestión integrada de recursos hídricos de diversa índole para apoyar el desarrollo del Sector Agua y coadyuvar en la solución de los problemas hídricos e hidráulicos del país;
 
 VII. Realizar por sí o a solicitud de parte estudios y brindar consultorías especializadas en materia de hidráulica, hidrología, control de la calidad del agua, de gestión integrada de los recursos hídricos;
 
-VIII. Proponer orientaciones y contenidos para la Política Nacional Hídrica y el Programa Nacional Hídrico, y encabezar los trabajos de planificación e instrumentación de programas y acciones para la investigación científica y desarrollo tecnológico en materia de agua y su gestión, así como para la formación y capacitación de recursos humanos en las mismas materias;
+VIII. Proponer orientaciones y contenidos para la Política Nacional Hídrica y el [Programa Nacional Hídrico](articulo-3.md), y encabezar los trabajos de planificación e instrumentación de programas y acciones para la investigación científica y desarrollo tecnológico en materia de agua y su gestión, así como para la formación y capacitación de recursos humanos en las mismas materias;
 
 IX. Sistematizar y publicar la información técnica asociada con los recursos hídricos del país, en coordinación con "la Comisión";
 

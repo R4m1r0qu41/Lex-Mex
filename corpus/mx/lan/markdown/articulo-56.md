@@ -23,6 +23,6 @@ La adopción del dominio pleno sobre las parcelas ejidales implica que la person
 
 Las personas ejidatarias que, conforme a la Ley Agraria, asuman el dominio pleno sobre sus parcelas conservarán los derechos a explotar, usar o aprovechar las aguas que venían usando. "La Autoridad del Agua" otorgará la concesión correspondiente a solicitud de la persona interesada, quien debe contar con la constancia oficial de la cancelación de la inscripción de la parcela de que se trate.
 
-Al otorgar la concesión al solicitante, "la Autoridad del Agua" restará del volumen de agua asentado en la dotación, restitución o accesión ejidales, el volumen que será amparado en la concesión solicitada. La concesión y la reducción del volumen referido se inscribirán en el Registro Público Nacional del Agua.
+Al otorgar la concesión al solicitante, "la Autoridad del Agua" restará del volumen de agua asentado en la dotación, restitución o accesión ejidales, el volumen que será amparado en la concesión solicitada. La concesión y la reducción del volumen referido se inscribirán en el [Registro Público Nacional del Agua](articulo-3.md).
 
 Artículo reformado DOF 29-04-2004, 11-12-2025

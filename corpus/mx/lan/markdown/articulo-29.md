@@ -21,7 +21,7 @@ Las personas concesionarias tendrán las siguientes obligaciones, en adición a 
 
 I. Ejecutar las obras y trabajos de explotación, uso o aprovechamiento de aguas en los términos y condiciones que establece esta Ley y sus reglamentos, y comprobar su ejecución para prevenir efectos negativos a terceros o al desarrollo hídrico de las fuentes de abastecimiento o de la cuenca hidrológica; así como comprobar su ejecución dentro de los treinta días siguientes a la fecha de la conclusión del plazo otorgado para su realización a través de la presentación del aviso correspondiente;
 
-II. Instalar dentro de los cuarenta y cinco días hábiles siguientes a la notificación del título respectivo a la persona concesionaria, los medidores de agua o los demás dispositivos o procedimientos de medición directa que señalen las disposiciones legales y reglamentarias aplicables, así como las Normas Oficiales Mexicanas; Fracción reformada DOF 11-12-2025
+II. Instalar dentro de los cuarenta y cinco días hábiles siguientes a la notificación del título respectivo a la persona concesionaria, los medidores de agua o los demás dispositivos o procedimientos de medición directa que señalen las disposiciones legales y reglamentarias aplicables, así como las [Normas Oficiales Mexicanas](articulo-3.md); Fracción reformada DOF 11-12-2025
 
 III. Conservar y mantener en buen estado de operación los medidores u otros dispositivos de medición del volumen de agua explotada, usada o aprovechada;
 

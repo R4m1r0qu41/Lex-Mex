@@ -23,6 +23,6 @@ En los casos en que las personas ejidatarias o comuneras transmitan la titularid
 
 Los ejidos y comunidades, así como los ejidatarios y comuneros dentro de los distritos y unidades de riego, se regirán por lo dispuesto para los mismos en esta Ley y sus Reglamentos.
 
-Cuando las personas ejidatarias y comuneras en las unidades y distritos de riego asuman el dominio individual pleno sobre sus parcelas, sus derechos de agua correspondientes se inscribirán en el Registro Público Nacional del Agua y en el padrón de las asociaciones o sociedades de personas usuarias titulares de las concesiones para la explotación, uso o aprovechamiento de aguas nacionales, cuando así corresponda. Párrafo reformado DOF 11-12-2025
+Cuando las personas ejidatarias y comuneras en las unidades y distritos de riego asuman el dominio individual pleno sobre sus parcelas, sus derechos de agua correspondientes se inscribirán en el [Registro Público Nacional del Agua](articulo-3.md) y en el padrón de las asociaciones o sociedades de personas usuarias titulares de las concesiones para la explotación, uso o aprovechamiento de aguas nacionales, cuando así corresponda. Párrafo reformado DOF 11-12-2025
 
 Artículo adicionado DOF 29-04-2004

@@ -25,13 +25,13 @@ II. Expedir los decretos para el establecimiento, modificación o supresión de 
 
 III. Expedir las declaratorias de zonas de reserva de aguas nacionales superficiales o del subsuelo, así como los decretos para su modificación o supresión;
 
-IV. Expedir por causas de utilidad pública o interés público, declaratorias de rescate, en materia de concesiones para la explotación, uso o aprovechamiento de Aguas Nacionales, de sus bienes públicos inherentes, en los términos establecidos en la Ley General de Bienes Nacionales;
+IV. Expedir por causas de utilidad pública o interés público, declaratorias de rescate, en materia de concesiones para la explotación, uso o aprovechamiento de [Aguas Nacionales](articulo-3.md), de sus bienes públicos inherentes, en los términos establecidos en la Ley General de Bienes Nacionales;
 
 V. Expedir por causas de utilidad pública o interés público, declaratorias de rescate de concesiones otorgadas por "la Comisión", para construir, equipar, operar, conservar, mantener, rehabilitar y ampliar infraestructura hidráulica federal y la prestación de los servicios respectivos, mediante pago de la indemnización que pudiere corresponder;
 
 VI. Expedir por causas de utilidad pública los decretos de expropiación, de ocupación temporal, total o parcial de los bienes, o su limitación de derechos de dominio, en los términos de esta Ley, de la Ley de Expropiación y las demás disposiciones aplicables, salvo el caso de bienes ejidales o comunales en que procederá en términos de la Ley Agraria;
 
-VII. Aprobar el Programa Nacional Hídrico, conforme a lo previsto en la Ley de Planeación, y emitir políticas y lineamientos que orienten la gestión sustentable de las cuencas hidrológicas y de los recursos hídricos;
+VII. Aprobar el [Programa Nacional Hídrico](articulo-3.md), conforme a lo previsto en la Ley de Planeación, y emitir políticas y lineamientos que orienten la gestión sustentable de las cuencas hidrológicas y de los recursos hídricos;
 
 VIII. Adoptar las medidas necesarias para el cumplimiento de acuerdos y convenios internacionales en materia de aguas, tomando en cuenta el interés nacional, regional y público;
 

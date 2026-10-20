@@ -39,6 +39,6 @@ IX. Los volúmenes de extracción a que se refieren las dos fracciones anteriore
 
 X. La temporalidad en que estará vigente la veda, reserva de agua o zona reglamentada, la cual puede prorrogarse de subsistir los supuestos de los Artículos [38](articulo-38.md) y [39](articulo-39.md) de la presente Ley.
 
-El Organismo de Cuenca que corresponda, promoverá la organización de las personas usuarias de la zona de veda respectiva, para que participen en su instrumentación. Párrafo reformado DOF 11-12-2025
+El [Organismo de Cuenca](articulo-3.md) que corresponda, promoverá la organización de las personas usuarias de la zona de veda respectiva, para que participen en su instrumentación. Párrafo reformado DOF 11-12-2025
 
 Artículo reformado DOF 29-04-2004

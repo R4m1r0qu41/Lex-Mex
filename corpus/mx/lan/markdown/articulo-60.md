@@ -17,7 +17,7 @@ source_sha256: 4ef50d6b4b3a6ad0378720c5d49463b4f17d70d9de39f895ed5dae4d2e21736d
 
 # Artículo 60
 
-En el título de concesión de aguas nacionales que otorgue el Organismo de Cuenca competente a las unidades de riego se incorporará el permiso de construcción respectivo y, en su caso, la concesión para la explotación, uso o aprovechamiento de los bienes públicos a los que se refiere el
+En el título de concesión de aguas nacionales que otorgue el [Organismo de Cuenca](articulo-3.md) competente a las unidades de riego se incorporará el permiso de construcción respectivo y, en su caso, la concesión para la explotación, uso o aprovechamiento de los bienes públicos a los que se refiere el
 
 Artículo [113](articulo-113.md) de la presente Ley.
 

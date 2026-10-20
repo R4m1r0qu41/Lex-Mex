@@ -17,7 +17,7 @@ source_sha256: 4ef50d6b4b3a6ad0378720c5d49463b4f17d70d9de39f895ed5dae4d2e21736d
 
 # Artículo 73
 
-El Organismo de Cuenca que corresponda convocará, en los términos de los reglamentos de la presente Ley, a audiencias con las personas beneficiarias de la zona de riego proyectada en el distrito para: Párrafo reformado DOF 11-12-2025
+El [Organismo de Cuenca](articulo-3.md) que corresponda convocará, en los términos de los reglamentos de la presente Ley, a audiencias con las personas beneficiarias de la zona de riego proyectada en el distrito para: Párrafo reformado DOF 11-12-2025
 
 I. Informar y concertar con las personas beneficiarias la recuperación de la inversión federal en obras de infraestructura hidráulica, en los términos de la ley; Fracción reformada DOF 11-12-2025
 

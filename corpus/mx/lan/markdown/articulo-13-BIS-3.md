@@ -17,17 +17,17 @@ source_sha256: 4ef50d6b4b3a6ad0378720c5d49463b4f17d70d9de39f895ed5dae4d2e21736d
 
 # Artículo 13 BIS 3
 
-Los Consejos de Cuenca tendrán a su cargo:
+[Los Consejos](articulo-3.md) de Cuenca tendrán a su cargo:
 
 I. Contribuir a la gestión integrada de los recursos hídricos en la cuenca o cuencas hidrológicas respectivas, contribuir a reestablecer o mantener el equilibrio entre disponibilidad y aprovechamiento de los recursos hídricos, considerando los diversos usos y usuarios, y favorecer el desarrollo sustentable en relación con el agua y su gestión;
 
-II. Concertar las prioridades de uso del agua con sus miembros y con el Organismo de Cuenca que corresponda conforme a lo dispuesto en el Párrafo Tercero del Artículo [22](articulo-22.md) de la presente Ley. En todos los casos tendrá prioridad el uso doméstico y el público urbano;
+II. Concertar las prioridades de uso del agua con sus miembros y con el [Organismo de Cuenca](articulo-3.md) que corresponda conforme a lo dispuesto en el Párrafo Tercero del Artículo [22](articulo-22.md) de la presente Ley. En todos los casos tendrá prioridad el uso doméstico y el público urbano;
 
-III. Conocer y difundir los lineamientos generales de política hídrica nacional, regional y por cuenca, y proponer aquellos que reflejen la realidad del desarrollo hídrico a corto, mediano y largo plazos, en el ámbito territorial que corresponda al Consejo de Cuenca;
+III. Conocer y difundir los lineamientos generales de política hídrica nacional, regional y por cuenca, y proponer aquellos que reflejen la realidad del desarrollo hídrico a corto, mediano y largo plazos, en el ámbito territorial que corresponda al [Consejo de Cuenca](articulo-3.md);
 
 IV. Participar en la definición de los objetivos generales y los criterios para la formulación de los programas de gestión del agua de la cuenca en armonía con los criterios generales de la programación hídrica nacional;
 
-V. Promover la participación de las autoridades estatales y municipales y asegurar la instrumentación de los mecanismos de participación de los usuarios de la cuenca y las organizaciones de la sociedad, en la formulación, aprobación, seguimiento, actualización y evaluación de la programación hídrica de la cuenca o cuencas de que se trate en los términos de ley; VI. Desarrollar, revisar, conseguir los consensos necesarios y proponer a sus integrantes, con la intervención del Organismo de Cuenca competente conforme a sus atribuciones, el proyecto de Programa Hídrico de la Cuenca, que contenga las prioridades de inversión y subprogramas específicos para subcuencas, microcuencas, acuíferos y ecosistemas vitales comprendidos en su ámbito territorial, para su aprobación, en su caso, por la Autoridad competente y fomentar su instrumentación, seguimiento, evaluación de resultados y retroalimentación; Fracción reformada DOF 11-12-2025
+V. Promover la participación de las autoridades estatales y municipales y asegurar la instrumentación de los mecanismos de participación de los usuarios de la cuenca y las organizaciones de la sociedad, en la formulación, aprobación, seguimiento, actualización y evaluación de la programación hídrica de la cuenca o cuencas de que se trate en los términos de ley; VI. Desarrollar, revisar, conseguir los consensos necesarios y proponer a sus integrantes, con la intervención del Organismo de Cuenca competente conforme a sus atribuciones, el proyecto de [Programa Hídrico de la Cuenca](articulo-3.md), que contenga las prioridades de inversión y subprogramas específicos para subcuencas, microcuencas, acuíferos y ecosistemas vitales comprendidos en su ámbito territorial, para su aprobación, en su caso, por la Autoridad competente y fomentar su instrumentación, seguimiento, evaluación de resultados y retroalimentación; Fracción reformada DOF 11-12-2025
 
 VII. Promover la coordinación y complementación de las inversiones en materia hídrica que efectúen los gobiernos de los estados, de la Ciudad de México y municipios en el ámbito territorial de las subcuencas y acuíferos, y apoyar las gestiones necesarias para lograr la concurrencia de los recursos para la ejecución de las acciones previstas en la programación hídrica; Fracción reformada DOF 11-12-2025
 

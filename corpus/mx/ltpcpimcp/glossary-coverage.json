@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-3",
+  "strategy_version": "glossary-extraction-4",
   "instrument_id": "urn:lex-mx:federal:statute:ltpcpimcp",
   "source_sha256": "55fcd61a87cfde80f0699f50bb45d3ee0a79c461dcb0fc374b9a846125cb491d",
   "extracted_text_sha256": "ca793e4d095a5cb39c696b079c9a577bdc9f1f7f0df5300774b58fd1cb08a594",

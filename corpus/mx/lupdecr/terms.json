@@ -78,7 +78,7 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lupdecr:term:derecho-internacional-humanitario-(dih)",
+    "id": "urn:lex-mx:federal:statute:lupdecr:term:derecho-internacional-humanitario-dih",
     "term": "Derecho Internacional Humanitario (DIH)",
     "instrument_id": "urn:lex-mx:federal:statute:lupdecr",
     "defining_provision_id": "urn:lex-mx:federal:statute:lupdecr:article:3",

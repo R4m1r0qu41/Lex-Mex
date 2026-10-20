@@ -17,7 +17,7 @@ source_sha256: 4ef50d6b4b3a6ad0378720c5d49463b4f17d70d9de39f895ed5dae4d2e21736d
 
 # Artículo 30
 
-"La Comisión" llevará el Registro Público Nacional del Agua en el que se inscribirán: Párrafo reformado DOF 11-12-2025
+"[La Comisión](articulo-3.md)" llevará el [Registro Público Nacional del Agua](articulo-3.md) en el que se inscribirán: Párrafo reformado DOF 11-12-2025
 
 I. Los títulos de concesión y asignación de aguas nacionales, y sus bienes públicos inherentes, así como los permisos de descargas de aguas residuales señalados en la presente Ley y sus reglamentos;
 
@@ -29,7 +29,7 @@ IV. Derogada Fracción derogada DOF 11-12-2025
 
 V. La suspensión, revocación o terminación de los títulos enunciados, y las referencias que se requieran de los actos relativos a la reasignación de volúmenes; Fracción reformada DOF 11-12-2025
 
-VI. Las sentencias definitivas de los tribunales judiciales y administrativos, en las que se ordene la modificación, cancelación o rectificación de los títulos de concesión o asignación, siempre que dichas sentencias sean notificadas por el órgano jurisdiccional, por la autoridad competente o presentadas por los interesados ante "la Comisión" o el Organismo de Cuenca que corresponda;
+VI. Las sentencias definitivas de los tribunales judiciales y administrativos, en las que se ordene la modificación, cancelación o rectificación de los títulos de concesión o asignación, siempre que dichas sentencias sean notificadas por el órgano jurisdiccional, por la autoridad competente o presentadas por los interesados ante "la Comisión" o el [Organismo de Cuenca](articulo-3.md) que corresponda;
 
 VII. Las resoluciones emitidas por la persona Titular del Ejecutivo Federal o por el Tribunal Superior Agrario que amplíen o doten de agua, previa la emisión del título de concesión por "la Autoridad del Agua"; Fracción reformada DOF 11-12-2025
 

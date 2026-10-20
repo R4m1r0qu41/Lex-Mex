@@ -17,6 +17,6 @@ source_sha256: 4ef50d6b4b3a6ad0378720c5d49463b4f17d70d9de39f895ed5dae4d2e21736d
 
 # Artículo 91
 
-La infiltración de aguas residuales para recargar acuíferos, requiere permiso de "la Autoridad del Agua" y deberá ajustarse a las Normas Oficiales Mexicanas que al efecto se emitan.
+La infiltración de aguas residuales para recargar acuíferos, requiere permiso de "la Autoridad del Agua" y deberá ajustarse a las [Normas Oficiales Mexicanas](articulo-3.md) que al efecto se emitan.
 
 Artículo reformado DOF 29-04-2004

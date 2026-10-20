@@ -17,7 +17,7 @@ source_sha256: 4ef50d6b4b3a6ad0378720c5d49463b4f17d70d9de39f895ed5dae4d2e21736d
 
 # Artículo 91 BIS
 
-Las personas físicas o morales que descarguen aguas residuales a las redes de drenaje o alcantarillado, deberán cumplir con las Normas Oficiales Mexicanas y, en su caso, con las condiciones particulares de descarga que emita el estado o el municipio.
+Las personas físicas o morales que descarguen aguas residuales a las redes de drenaje o alcantarillado, deberán cumplir con las [Normas Oficiales Mexicanas](articulo-3.md) y, en su caso, con las condiciones particulares de descarga que emita el estado o el municipio.
 
 Los municipios, la Ciudad de México y en su caso, los estados, deberán tratar sus aguas residuales, antes de descargarlas en un cuerpo receptor, conforme a las Normas Oficiales Mexicanas o a las condiciones particulares de descarga que les determine "la Autoridad del Agua", cuando a ésta competa establecerlas. Párrafo reformado DOF 11-12-2025
 

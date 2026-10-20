@@ -297,7 +297,7 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lieps:term:concentrados,-polvos-y-jarabes,-esencias-o-extractos-de-sabores,-que-permitan-obtener-bebidas-saborizadas",
+    "id": "urn:lex-mx:federal:statute:lieps:term:concentrados-polvos-y-jarabes-esencias-o-extractos-de-sabores-que-permitan-obtener-bebidas-saborizadas",
     "term": "Concentrados, polvos y jarabes, esencias o extractos de sabores, que permitan obtener bebidas saborizadas",
     "instrument_id": "urn:lex-mx:federal:statute:lieps",
     "defining_provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
@@ -637,7 +637,7 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lieps:term:videojuego-con-contenido-violento,-extremo-o-para-adulto,-no-apto-para-personas-menores-de-18-anos",
+    "id": "urn:lex-mx:federal:statute:lieps:term:videojuego-con-contenido-violento-extremo-o-para-adulto-no-apto-para-personas-menores-de-18-anos",
     "term": "Videojuego con contenido violento, extremo o para adulto, no apto para personas menores de 18 años",
     "instrument_id": "urn:lex-mx:federal:statute:lieps",
     "defining_provision_id": "urn:lex-mx:federal:statute:lieps:article:3",

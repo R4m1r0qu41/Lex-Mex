@@ -23,17 +23,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgappcea:term:[certificado-de-habilitacion",
-    "term": "[Certificado de habilitación",
-    "instrument_id": "urn:lex-mx:federal:statute:lgappcea",
-    "defining_provision_id": "urn:lex-mx:federal:statute:lgappcea:article:3",
-    "fraction": "III",
-    "start_char": 721,
-    "end_char": 1132,
-    "basis": "express_definition"
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgappcea:term:comision",
     "term": "Comisión",
     "instrument_id": "urn:lex-mx:federal:statute:lgappcea",

@@ -17,7 +17,7 @@ source_sha256: 4ef50d6b4b3a6ad0378720c5d49463b4f17d70d9de39f895ed5dae4d2e21736d
 
 # Artículo 9
 
-"La Comisión" es un órgano administrativo desconcentrado de "la Secretaría", que se regula conforme a las disposiciones de esta Ley y sus reglamentos, de la Ley Orgánica de la Administración Pública Federal y de su Reglamento Interior.
+"[La Comisión](articulo-3.md)" es un órgano administrativo desconcentrado de "la Secretaría", que se regula conforme a las disposiciones de esta Ley y sus reglamentos, de la Ley Orgánica de la Administración Pública Federal y de su Reglamento Interior.
 
 "La Comisión" tiene por objeto ejercer las atribuciones que le corresponden a la autoridad en materia hídrica y constituirse como el Órgano Superior con carácter técnico, normativo y consultivo de la Federación, en materia de gestión integrada de los recursos hídricos, incluyendo la administración, regulación, control y protección del dominio público hídrico.
 
@@ -35,7 +35,7 @@ I. Fungir como la Autoridad en materia de la cantidad y de la calidad de las agu
 
 II. Formular la política hídrica nacional y proponerla a la persona Titular del Poder Ejecutivo Federal, por conducto de "la Secretaría", así como dar seguimiento y evaluar de manera periódica el cumplimiento de dicha política; Fracción reformada DOF 11-12-2025
 
-III. Integrar, formular y proponer a la persona Titular del Poder Ejecutivo Federal, el Programa Nacional Hídrico, actualizarlo y vigilar su cumplimiento; Fracción reformada DOF 11-12-2025
+III. Integrar, formular y proponer a la persona Titular del Poder Ejecutivo Federal, el [Programa Nacional Hídrico](articulo-3.md), actualizarlo y vigilar su cumplimiento; Fracción reformada DOF 11-12-2025
 
 IV. Elaborar programas especiales de carácter interregional e intercuencas en materia de aguas nacionales;
 
@@ -71,7 +71,7 @@ XVIII. Establecer las prioridades nacionales en lo concerniente a la administrac
 
 XIX. Acreditar, promover, y apoyar la organización y participación de los usuarios en el ámbito nacional, y apoyarse en lo conducente en los gobiernos estatales, para realizar lo propio en los ámbitos estatal y municipal, para mejorar la gestión del agua, y fomentar su participación amplia, informada y con capacidad de tomar decisiones y asumir compromisos, en términos de Ley;
 
-XX. Expedir títulos de concesión, asignación o permisos a que se refiere la presente Ley y sus reglamentos, reconocer derechos y llevar el Registro Público Nacional del Agua; Fracción reformada DOF 11-12-2025
+XX. Expedir títulos de concesión, asignación o permisos a que se refiere la presente Ley y sus reglamentos, reconocer derechos y llevar el [Registro Público Nacional del Agua](articulo-3.md); Fracción reformada DOF 11-12-2025
 
 XXI. Conciliar y, en su caso, fungir a petición de los usuarios, como árbitro en la prevención, mitigación y solución de conflictos relacionados con el agua y su gestión, en los términos de los reglamentos de esta Ley;
 
@@ -91,7 +91,7 @@ XXIX. Ejercer las atribuciones fiscales en materia de administración, determina
 
 XXX. Promover y propiciar la investigación científica y el desarrollo tecnológico, la formación de recursos humanos, así como difundir conocimientos en materia de gestión de los recursos hídricos, con el propósito de fortalecer sus acciones y mejorar la calidad de sus servicios, para lo cual se coordinará en lo conducente con el Instituto Mexicano de Tecnología del Agua;
 
-XXXI. Proponer a la “Secretaría" las Normas Oficiales Mexicanas en materia hídrica;
+XXXI. Proponer a la “Secretaría" las [Normas Oficiales Mexicanas](articulo-3.md) en materia hídrica;
 
 XXXII. Emitir disposiciones sobre la expedición de títulos de concesión, asignación o permiso de descarga, así como de permisos de diversa índole a que se refiere la presente Ley; XXXIII. Emitir la normatividad a que deberán apegarse los Organismos de Cuenca en el ejercicio de sus funciones, en congruencia con las disposiciones contenidas en la presente Ley, incluyendo la administración de los recursos que se les destinen y verificar su cumplimiento;
 
@@ -111,7 +111,7 @@ XL. Participar en el sistema nacional de protección civil y apoyar en la aplica
 
 XLI. Definir los lineamientos técnicos en materia de gestión de aguas nacionales, cuencas, obras y servicios, para considerarlos en la elaboración de programas, reglamentaciones y decretos de vedas y reserva;
 
-XLII. Proponer a la persona Titular del Poder Ejecutivo Federal la expedición de Decretos para el establecimiento, modificación o extinción de Zonas de Veda y de Zonas Reglamentadas para la Extracción y Distribución de Aguas Nacionales y para su explotación, uso o aprovechamiento, así como Declaratorias de Reserva de Aguas Nacionales y de zonas de desastre; Fracción reformada DOF 11-12-2025
+XLII. Proponer a la persona Titular del Poder Ejecutivo Federal la expedición de Decretos para el establecimiento, modificación o extinción de Zonas de Veda y de Zonas Reglamentadas para la Extracción y Distribución de [Aguas Nacionales](articulo-3.md) y para su explotación, uso o aprovechamiento, así como Declaratorias de Reserva de Aguas Nacionales y de zonas de desastre; Fracción reformada DOF 11-12-2025
 
 XLIII. Realizar las declaratorias de clasificación de zonas de alto riesgo por inundación y elaborar los atlas de riesgos conducentes;
 

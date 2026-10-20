@@ -17,7 +17,7 @@ source_sha256: 4ef50d6b4b3a6ad0378720c5d49463b4f17d70d9de39f895ed5dae4d2e21736d
 
 # Artículo 72
 
-Para proceder a la constitución de un distrito de riego, con financiamiento del gobierno federal, "la Comisión", a través del Organismo de Cuenca que corresponda:
+Para proceder a la constitución de un distrito de riego, con financiamiento del gobierno federal, "la Comisión", a través del [Organismo de Cuenca](articulo-3.md) que corresponda:
 
 I. Promoverá, en su caso, las vedas necesarias para el buen funcionamiento de las obras;
 

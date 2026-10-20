@@ -28,7 +28,7 @@ use lex_parse::{
     detect_glossary, extract_doc, extract_glossaries, extract_html_text,
     extract_internal_references, extract_pdf, extract_quoted_term_usages, extract_references,
     extract_term_usages, extract_term_usages_with_lowercase, find_admitted_furniture,
-    find_glossary_provision, parse_dcg, parse_itf_dcg, repair_article_dates,
+    find_glossary_provision, invalidated_fractions, parse_dcg, parse_itf_dcg, repair_article_dates,
     repair_partial_repeals, repeal_placeholders, unread_fractions, validate_corpus,
 };
 use lex_source::{
@@ -2415,6 +2415,7 @@ fn provision_coverage(
     terms: &[lex_core::DefinedTerm],
     repeal_placeholders: Option<Vec<String>>,
     unread_fractions: Option<Vec<String>>,
+    invalidated_fractions: Option<Vec<String>>,
 ) -> lex_core::GlossaryProvisionCoverage {
     let own: Vec<_> = terms
         .iter()
@@ -2430,9 +2431,64 @@ fn provision_coverage(
             .collect(),
         repeal_placeholders,
         unread_fractions,
+        invalidated_fractions,
         profile: None,
         term_count: own.len(),
     }
+}
+
+/// The glossary an adapter configures, with its accounting per provision.
+fn select_configured_glossary(
+    glossary: &lex_source::GlossaryConfig,
+    provisions: &[lex_core::Provision],
+) -> Result<SelectedGlossary> {
+    let mut named = vec![(
+        glossary.provision_suffix.as_str(),
+        glossary.style.as_str(),
+        glossary.profile.as_ref(),
+    )];
+    named.extend(glossary.additional_provisions.iter().map(|additional| {
+        (
+            additional.provision_suffix.as_str(),
+            additional.style.as_str(),
+            None,
+        )
+    }));
+    let configured = named
+        .iter()
+        .map(|(suffix, style, profile)| {
+            Ok((
+                find_glossary_provision(provisions, suffix)?,
+                GlossaryStyle::from_config(style)?,
+                *profile,
+            ))
+        })
+        .collect::<Result<Vec<_>>>()?;
+    let terms = extract_glossaries(&configured)?;
+    let glossaries = configured
+        .iter()
+        .zip(&named)
+        .map(|((provision, style, profile), (_, name, _))| {
+            Ok(lex_core::GlossaryProvisionCoverage {
+                profile: profile.cloned(),
+                ..provision_coverage(
+                    provision,
+                    name,
+                    &terms,
+                    repeal_placeholders(provision, *style, *profile),
+                    unread_fractions(provision, *style)?,
+                    invalidated_fractions(provision, *style, *profile)?,
+                )
+            })
+        })
+        .collect::<Result<_>>()?;
+    Ok(SelectedGlossary {
+        terms,
+        additive_to: glossary.additive_to.clone(),
+        status: lex_core::GlossaryCoverageStatus::Configured,
+        glossaries,
+        hold: None,
+    })
 }
 
 /// An adapter may configure its glossary explicitly (the audited committed
@@ -2446,52 +2502,7 @@ fn select_glossary(
 ) -> Result<SelectedGlossary> {
     use lex_core::{GlossaryCoverageStatus, GlossaryHoldRecord};
     if let Some(glossary) = &context.config.glossary {
-        let mut named = vec![(
-            glossary.provision_suffix.as_str(),
-            glossary.style.as_str(),
-            glossary.profile.as_ref(),
-        )];
-        named.extend(glossary.additional_provisions.iter().map(|additional| {
-            (
-                additional.provision_suffix.as_str(),
-                additional.style.as_str(),
-                None,
-            )
-        }));
-        let configured = named
-            .iter()
-            .map(|(suffix, style, profile)| {
-                Ok((
-                    find_glossary_provision(provisions, suffix)?,
-                    GlossaryStyle::from_config(style)?,
-                    *profile,
-                ))
-            })
-            .collect::<Result<Vec<_>>>()?;
-        let terms = extract_glossaries(&configured)?;
-        let glossaries = configured
-            .iter()
-            .zip(&named)
-            .map(|((provision, style, profile), (_, name, _))| {
-                Ok(lex_core::GlossaryProvisionCoverage {
-                    profile: profile.cloned(),
-                    ..provision_coverage(
-                        provision,
-                        name,
-                        &terms,
-                        repeal_placeholders(provision, *style, *profile),
-                        unread_fractions(provision, *style)?,
-                    )
-                })
-            })
-            .collect::<Result<_>>()?;
-        return Ok(SelectedGlossary {
-            terms,
-            additive_to: glossary.additive_to.clone(),
-            status: GlossaryCoverageStatus::Configured,
-            glossaries,
-            hold: None,
-        });
+        return select_configured_glossary(glossary, provisions);
     }
     let detection = detect_glossary(provisions)?;
     if let Some(hold) = &detection.held {
@@ -2514,6 +2525,7 @@ fn select_glossary(
                         &detection.terms,
                         detection.repeal_placeholders.clone(),
                         detection.unread_fractions.clone(),
+                        detection.invalidated_fractions.clone(),
                     )
                 })
         });

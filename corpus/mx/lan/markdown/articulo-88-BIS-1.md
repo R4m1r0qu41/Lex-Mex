@@ -17,7 +17,7 @@ source_sha256: 4ef50d6b4b3a6ad0378720c5d49463b4f17d70d9de39f895ed5dae4d2e21736d
 
 # Artículo 88 BIS 1
 
-Las descargas de aguas residuales de uso doméstico que no formen parte de un sistema municipal de alcantarillado, se podrán llevar a cabo con sujeción a las Normas Oficiales Mexicanas que al efecto se expidan y mediante un aviso por escrito a "la Autoridad del Agua".
+Las descargas de aguas residuales de uso doméstico que no formen parte de un sistema municipal de alcantarillado, se podrán llevar a cabo con sujeción a las [Normas Oficiales Mexicanas](articulo-3.md) que al efecto se expidan y mediante un aviso por escrito a "la Autoridad del Agua".
 
 En localidades que carezcan de sistemas de alcantarillado y saneamiento, las personas físicas o morales que en su proceso o actividad productiva no utilicen como materia prima substancias que generen en sus descargas de aguas residuales metales pesados, cianuros o tóxicos y su volumen de descarga no exceda de 300 metros cúbicos mensuales, y sean abastecidas de agua potable por sistemas municipales, estatales o de la Ciudad de México, podrán llevar a cabo sus descargas de aguas residuales con sujeción a las Normas Oficiales Mexicanas que al efecto se expidan y mediante un aviso por escrito a "la Autoridad del Agua". Párrafo reformado DOF 11-12-2025
 

@@ -25,7 +25,7 @@ II. Otorgar concesión total o parcial para operar, conservar, mantener, rehabil
 
 III. Otorgar concesión total o parcial para construir, equipar y operar la infraestructura hidráulica federal y para prestar el servicio respectivo.
 
-"La Comisión" se coordinará en términos de Ley con el o los gobiernos de los estados correspondientes para otorgar las concesiones referidas en las fracciones II y III del presente Artículo.
+"[La Comisión](articulo-3.md)" se coordinará en términos de Ley con el o los gobiernos de los estados correspondientes para otorgar las concesiones referidas en las fracciones II y III del presente Artículo.
 
 Para el trámite, duración, regulación y terminación de la concesión a la que se refiere la fracción II del presente Artículo, se aplicará en lo conducente lo dispuesto en esta Ley para las concesiones de explotación, uso o aprovechamiento de agua y lo que dispongan sus reglamentos. Los usuarios de dicha infraestructura tendrán preferencia en el otorgamiento de dichas concesiones.
 

@@ -298,7 +298,7 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:term:numero-de-identificacion-personal-(nip)",
+    "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:term:numero-de-identificacion-personal-nip",
     "term": "Número de Identificación Personal (NIP)",
     "instrument_id": "urn:lex-mx:federal:regulation:itf-dcg-2018",
     "defining_provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:2",

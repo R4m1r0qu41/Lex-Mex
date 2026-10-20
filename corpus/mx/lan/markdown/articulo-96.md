@@ -19,6 +19,6 @@ source_sha256: 4ef50d6b4b3a6ad0378720c5d49463b4f17d70d9de39f895ed5dae4d2e21736d
 
 En las zonas de riego y en aquellas zonas de contaminación extendida o dispersa, el manejo y aplicación de sustancias que puedan contaminar las aguas nacionales superficiales o del subsuelo, deberán cumplir con las normas, condiciones y disposiciones que se desprendan de la presente Ley y sus reglamentos.
 
-"La Comisión" promoverá en el ámbito de su competencia, las normas o disposiciones que se requieran para hacer compatible el uso de los suelos con el de las aguas, con el objeto de preservar la calidad de las mismas dentro de un ecosistema, cuenca hidrológica o acuífero.
+"[La Comisión](articulo-3.md)" promoverá en el ámbito de su competencia, las normas o disposiciones que se requieran para hacer compatible el uso de los suelos con el de las aguas, con el objeto de preservar la calidad de las mismas dentro de un ecosistema, cuenca hidrológica o acuífero.
 
 Artículo reformado DOF 29-04-2004

@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-3",
+  "strategy_version": "glossary-extraction-4",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-lpo",
   "source_sha256": "931a461822618f46f4c830890fe77f07bca22c1161f03a2ce5e70106a43f8557",
   "extracted_text_sha256": "7a3d8ab54032c9a8f642f3a68dc8cca7ef29201e4969b41d834afbf1410ea663",

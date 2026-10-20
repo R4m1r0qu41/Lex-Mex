@@ -19,7 +19,7 @@ source_sha256: 4ef50d6b4b3a6ad0378720c5d49463b4f17d70d9de39f895ed5dae4d2e21736d
 
 El Ejecutivo Federal podrá declarar o levantar mediante decreto la reserva total o parcial de las aguas nacionales para los siguientes propósitos:
 
-I. Uso Doméstico y Uso Público Urbano;
+I. [Uso Doméstico](articulo-3.md) y [Uso Público Urbano](articulo-3.md);
 
 II. Generación de energía eléctrica para servicio público, y
 

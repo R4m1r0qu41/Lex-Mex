@@ -17,7 +17,7 @@ source_sha256: 4ef50d6b4b3a6ad0378720c5d49463b4f17d70d9de39f895ed5dae4d2e21736d
 
 # Artículo 14 BIS
 
-"La Comisión", conjuntamente con los Gobiernos de los estados, de la Ciudad de México y de los municipios, los organismos de cuenca, los consejos de cuenca y el Consejo Consultivo del Agua, promoverá y facilitará la participación de la sociedad en la planeación, toma de decisiones, ejecución, evaluación y vigilancia de la política nacional hídrica. Párrafo reformado DOF 11-12-2025
+"[La Comisión](articulo-3.md)", conjuntamente con los Gobiernos de los estados, de la Ciudad de México y de los municipios, los organismos de cuenca, los consejos de cuenca y el Consejo Consultivo del Agua, promoverá y facilitará la participación de la sociedad en la planeación, toma de decisiones, ejecución, evaluación y vigilancia de la política nacional hídrica. Párrafo reformado DOF 11-12-2025
 
 Se brindarán apoyos para que las organizaciones ciudadanas o no gubernamentales con objetivos, intereses o actividades específicas en materia de recursos hídricos y su gestión integrada, participen en el seno de los Consejos de Cuenca, así como en Comisiones y Comités de Cuenca y Comités Técnicos de Aguas Subterráneas. Igualmente se facilitará la participación de colegios de profesionales, grupos académicos especializados y otras organizaciones de la sociedad cuya participación enriquezca la planificación hídrica y la gestión de los recursos hídricos.
 

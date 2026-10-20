@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-3",
+  "strategy_version": "glossary-extraction-4",
   "instrument_id": "urn:lex-mx:federal:statute:lgimh",
   "source_sha256": "51f28ed8bbe83b9f62cf9a88705a4c40b1b9a18d2036e2381ee97933881f3a44",
   "extracted_text_sha256": "78677ba14e445059e2d160cad9c9882b9df1f282ecf647ae3a829089e560d10f",

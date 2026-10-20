@@ -21,6 +21,6 @@ El Ejecutivo Federal por sí o a través de la Comisión podrá reducir o suprim
 
 Los estados, la Ciudad de México, los municipios o, en su caso, las personas particulares interesadas en los terrenos a que se refiere este Artículo, deberán presentar a "la Comisión" para su aprobación el proyecto para realizar las obras de control y las que sean necesarias para reducir o suprimir la zona federal. Párrafo reformado DOF 11-12-2025
 
-"La Comisión" podrá convenir con los gobiernos de los estados, de la Ciudad de México o de los municipios, las custodias, conservación y mantenimiento de las zonas federales referidas en este Artículo. En el caso de las personas particulares interesadas, esto se realizará mediante subasta pública. Párrafo reformado DOF 11-12-2025
+"[La Comisión](articulo-3.md)" podrá convenir con los gobiernos de los estados, de la Ciudad de México o de los municipios, las custodias, conservación y mantenimiento de las zonas federales referidas en este Artículo. En el caso de las personas particulares interesadas, esto se realizará mediante subasta pública. Párrafo reformado DOF 11-12-2025
 
 Artículo reformado DOF 29-04-2004

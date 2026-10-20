@@ -17,7 +17,7 @@ source_sha256: 4ef50d6b4b3a6ad0378720c5d49463b4f17d70d9de39f895ed5dae4d2e21736d
 
 # Artículo 25
 
-Una vez expedido el título de concesión o asignación, la persona concesionaria o asignataria tendrá el derecho de explotar, usar o aprovechar las aguas nacionales durante el término, uso y condiciones de la concesión o asignación autorizadas por “la Autoridad del Agua”, conforme a lo dispuesto en esta Ley y sus reglamentos. Dicha expedición será inscrita en el Registro Público Nacional del Agua.
+Una vez expedido el título de concesión o asignación, la persona concesionaria o asignataria tendrá el derecho de explotar, usar o aprovechar las aguas nacionales durante el término, uso y condiciones de la concesión o asignación autorizadas por “la Autoridad del Agua”, conforme a lo dispuesto en esta Ley y sus reglamentos. Dicha expedición será inscrita en el [Registro Público Nacional del Agua](articulo-3.md).
 
 La vigencia del título de concesión o asignación inicia a partir del día siguiente a aquel en que sea notificado. Cuando el título de concesión provenga del otorgamiento de una prórroga, su vigencia iniciará el día siguiente al del vencimiento del plazo del título inmediato anterior.
 

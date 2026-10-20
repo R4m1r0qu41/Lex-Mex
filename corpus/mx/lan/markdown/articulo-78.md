@@ -17,7 +17,7 @@ source_sha256: 4ef50d6b4b3a6ad0378720c5d49463b4f17d70d9de39f895ed5dae4d2e21736d
 
 # Artículo 78
 
-"La Comisión", con base en la evaluación del impacto ambiental, los planes generales sobre aprovechamiento de los recursos hídricos del país y la programación hídrica a que se refiere la presente Ley, cuando existan volúmenes de agua disponibles otorgará el título de concesión de agua a favor de la Comisión Federal de Electricidad, en el cual se determinará el volumen destinado a la generación de energía eléctrica y enfriamiento de plantas, así como las causas por las cuales podrá terminar la concesión.
+"[La Comisión](articulo-3.md)", con base en la evaluación del impacto ambiental, los planes generales sobre aprovechamiento de los recursos hídricos del país y la programación hídrica a que se refiere la presente Ley, cuando existan volúmenes de agua disponibles otorgará el título de concesión de agua a favor de la Comisión Federal de Electricidad, en el cual se determinará el volumen destinado a la generación de energía eléctrica y enfriamiento de plantas, así como las causas por las cuales podrá terminar la concesión.
 
 "La Comisión" realizará la programación periódica de extracción del agua en cada corriente, vaso, lago, laguna o depósito de propiedad nacional, y de su distribución, para coordinar el aprovechamiento hidroeléctrico con los demás usos del agua.
 

@@ -17,7 +17,7 @@ source_sha256: 4ef50d6b4b3a6ad0378720c5d49463b4f17d70d9de39f895ed5dae4d2e21736d
 
 # Artículo 12 BIS 6
 
-Los Organismos de Cuenca, de conformidad con los lineamientos que expida "la Comisión", ejercerán dentro de su ámbito territorial de competencia las atribuciones siguientes:
+[Los Organismos](articulo-3.md) de Cuenca, de conformidad con los lineamientos que expida "la Comisión", ejercerán dentro de su ámbito territorial de competencia las atribuciones siguientes:
 
 I. Ejercer las atribuciones que conforme a la presente Ley corresponden a la autoridad en materia hídrica y realizar la administración y custodia de las aguas nacionales y de sus bienes públicos inherentes;
 
@@ -41,7 +41,7 @@ X. Regular los servicios de riego en distritos y unidades de riego conforme a la
 
 XII. Acreditar, promover y apoyar la organización de las personas usuarias para mejorar la explotación, uso o aprovechamiento del agua y la conservación y control de su calidad, e impulsar la participación de éstos a nivel estatal, regional, de cuenca hidrológica o de acuífero en términos de Ley; Fracción reformada DOF 11-12-2025
 
-XIII. Expedir los títulos de concesión, asignación, permisos de descarga y de construcción, en términos del Reglamento Interior de “la Comisión”; reconocer derechos y solicitar la inscripción correspondiente en el Registro Público Nacional del Agua; Fracción reformada DOF 08-06-2012, 11-12-2025
+XIII. Expedir los títulos de concesión, asignación, permisos de descarga y de construcción, en términos del Reglamento Interior de “la Comisión”; reconocer derechos y solicitar la inscripción correspondiente en el [Registro Público Nacional del Agua](articulo-3.md); Fracción reformada DOF 08-06-2012, 11-12-2025
 
 XIV. Conciliar y, en su caso, fungir a petición de las personas usuarias, de los Consejos de Cuenca, o de los estados, como árbitro en la prevención, mitigación y solución de conflictos relacionados con el agua y su gestión, en los términos de los reglamentos de esta Ley; Fracción reformada DOF 11-12-2025
 
@@ -65,7 +65,7 @@ XXIV. Actuar, conforme a su naturaleza y carácter especializado que la presente
 
 XXV. Participar en el sistema nacional de protección civil y apoyar en la aplicación de los planes y programas de carácter federal para prevenir y atender situaciones de emergencia, causadas por fenómenos hidrometeorológicos extraordinarios;
 
-XXVI. Proponer a la persona Titular de la Dirección General de "la Comisión" los proyectos de Reglamentos para la Extracción y Distribución de Aguas Nacionales y su explotación, uso o aprovechamiento; Decretos de Zonas de Veda y de Zonas Reglamentadas; y Declaratorias de Reserva de Aguas Nacionales; Fracción reformada DOF 11-12-2025
+XXVI. Proponer a la persona Titular de la Dirección General de "la Comisión" los proyectos de Reglamentos para la Extracción y Distribución de [Aguas Nacionales](articulo-3.md) y su explotación, uso o aprovechamiento; Decretos de Zonas de Veda y de Zonas Reglamentadas; y Declaratorias de Reserva de Aguas Nacionales; Fracción reformada DOF 11-12-2025
 
 XXVII. Mantener actualizado y hacer público periódicamente el inventario de las aguas nacionales, y de sus bienes públicos inherentes y de la infraestructura hidráulica federal; la clasificación de las aguas de acuerdo con los usos, y la elaboración de balances hidrológicos por regiones hidrológicas y cuencas hidrológicas en cantidad y calidad de las aguas;
 

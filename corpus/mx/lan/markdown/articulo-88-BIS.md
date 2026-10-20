@@ -21,7 +21,7 @@ Las personas físicas o morales que efectúen descargas de aguas residuales a lo
 
 I. Contar con el permiso de descarga de aguas residuales mencionado en el [Artículo anterior](articulo-88.md);
 
-II. Tratar las aguas residuales previamente a su vertido a los cuerpos receptores, cuando sea necesario para cumplir con lo dispuesto en el permiso de descarga correspondiente y en las Normas Oficiales Mexicanas;
+II. Tratar las aguas residuales previamente a su vertido a los cuerpos receptores, cuando sea necesario para cumplir con lo dispuesto en el permiso de descarga correspondiente y en las [Normas Oficiales Mexicanas](articulo-3.md);
 
 III. Cubrir, cuando proceda, el derecho federal por el uso o aprovechamiento de bienes de propiedad nacional como cuerpos receptores de las descargas de aguas residuales;
 

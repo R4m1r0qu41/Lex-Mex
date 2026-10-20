@@ -17,4 +17,4 @@ source_sha256: 4ef50d6b4b3a6ad0378720c5d49463b4f17d70d9de39f895ed5dae4d2e21736d
 
 # Artículo 79
 
-El Ejecutivo Federal determinará si las obras hidráulicas correspondientes al sistema hidroeléctrico deberán realizarse por "la Comisión" o por la Comisión Federal de Electricidad. "La Comisión" podrá utilizar o concesionar la infraestructura a su cargo para generar la energía eléctrica que requiera y también podrá disponer del excedente, en los términos de la Ley aplicable conforme a la materia.
+El Ejecutivo Federal determinará si las obras hidráulicas correspondientes al sistema hidroeléctrico deberán realizarse por "la Comisión" o por la Comisión Federal de Electricidad. "[La Comisión](articulo-3.md)" podrá utilizar o concesionar la infraestructura a su cargo para generar la energía eléctrica que requiera y también podrá disponer del excedente, en los términos de la Ley aplicable conforme a la materia.

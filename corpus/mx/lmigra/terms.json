@@ -166,7 +166,7 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmigra:term:nina,-nino-o-adolescente-migrante",
+    "id": "urn:lex-mx:federal:statute:lmigra:term:nina-nino-o-adolescente-migrante",
     "term": "Niña, niño o adolescente migrante",
     "instrument_id": "urn:lex-mx:federal:statute:lmigra",
     "defining_provision_id": "urn:lex-mx:federal:statute:lmigra:article:3",
@@ -177,7 +177,7 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmigra:term:nina,-nino-o-adolescente-migrante-no-acompanado",
+    "id": "urn:lex-mx:federal:statute:lmigra:term:nina-nino-o-adolescente-migrante-no-acompanado",
     "term": "Niña, niño o adolescente migrante no acompañado",
     "instrument_id": "urn:lex-mx:federal:statute:lmigra",
     "defining_provision_id": "urn:lex-mx:federal:statute:lmigra:article:3",
@@ -188,7 +188,7 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmigra:term:nina,-nino-o-adolescente-migrante-acompanado",
+    "id": "urn:lex-mx:federal:statute:lmigra:term:nina-nino-o-adolescente-migrante-acompanado",
     "term": "Niña, niño o adolescente migrante acompañado",
     "instrument_id": "urn:lex-mx:federal:statute:lmigra",
     "defining_provision_id": "urn:lex-mx:federal:statute:lmigra:article:3",
@@ -199,7 +199,7 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmigra:term:nina,-nino-o-adolescente-migrante-separado",
+    "id": "urn:lex-mx:federal:statute:lmigra:term:nina-nino-o-adolescente-migrante-separado",
     "term": "Niña, niño o adolescente migrante separado",
     "instrument_id": "urn:lex-mx:federal:statute:lmigra",
     "defining_provision_id": "urn:lex-mx:federal:statute:lmigra:article:3",

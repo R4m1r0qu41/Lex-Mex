@@ -17,7 +17,7 @@ source_sha256: 4ef50d6b4b3a6ad0378720c5d49463b4f17d70d9de39f895ed5dae4d2e21736d
 
 # Artículo 120
 
-Las faltas a que se refiere el [Artículo anterior](articulo-119.md) serán sancionadas administrativamente por “la Autoridad del Agua” con una o más de las siguientes sanciones; lo anterior, con independencia de aquellas establecidas en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, Ley Federal de Responsabilidad Ambiental, Ley General de Bienes Nacionales y Ley de Infraestructura de la Calidad y sus reglamentos, las Normas Oficiales Mexicanas, el Código Penal Federal y demás disposiciones aplicables en la materia: Párrafo reformado DOF 06-01-2020, 11-12-2025
+Las faltas a que se refiere el [Artículo anterior](articulo-119.md) serán sancionadas administrativamente por “la Autoridad del Agua” con una o más de las siguientes sanciones; lo anterior, con independencia de aquellas establecidas en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, Ley Federal de Responsabilidad Ambiental, Ley General de Bienes Nacionales y Ley de Infraestructura de la Calidad y sus reglamentos, las [Normas Oficiales Mexicanas](articulo-3.md), el Código Penal Federal y demás disposiciones aplicables en la materia: Párrafo reformado DOF 06-01-2020, 11-12-2025
 
 I. Multa de 260 a 2,160 Unidades de Medida y Actualización, en el caso de violación a las fracciones X, XI, XXI y XXII; Fracción reformada DOF 08-06-2012, 06-01-2020, 11-12-2025
 

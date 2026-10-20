@@ -25,7 +25,7 @@ III. Fungir como Presidente del Consejo Técnico de "la Comisión";
 
 IV. Suscribir los instrumentos internacionales, que de acuerdo con la Ley sean de su competencia, en coordinación con la Secretaría de Relaciones Exteriores, e instrumentar lineamientos y estrategias para el cumplimiento de los tratados internacionales en materia de aguas;
 
-V. Expedir las Normas Oficiales Mexicanas en materia hídrica en los términos de la Ley Federal sobre Metrología y Normalización, a propuesta de "la Comisión", y
+V. Expedir las [Normas Oficiales Mexicanas](articulo-3.md) en materia hídrica en los términos de la Ley Federal sobre Metrología y Normalización, a propuesta de "la Comisión", y
 
 VI. Las que en materia hídrica le asignen específicamente las disposiciones legales, así como aquellas que le delegue el Titular del Ejecutivo Federal.
 

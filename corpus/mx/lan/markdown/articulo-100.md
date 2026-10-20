@@ -17,6 +17,6 @@ source_sha256: 4ef50d6b4b3a6ad0378720c5d49463b4f17d70d9de39f895ed5dae4d2e21736d
 
 # Artículo 100
 
-"La Comisión" establecerá las normas o realizará las acciones necesarias para evitar que la construcción u operación de una obra altere desfavorablemente las condiciones hidráulicas de una corriente o ponga en peligro la vida de las personas y la seguridad de sus bienes o de los ecosistemas vitales.
+"[La Comisión](articulo-3.md)" establecerá las normas o realizará las acciones necesarias para evitar que la construcción u operación de una obra altere desfavorablemente las condiciones hidráulicas de una corriente o ponga en peligro la vida de las personas y la seguridad de sus bienes o de los ecosistemas vitales.
 
 Artículo reformado DOF 29-04-2004

@@ -146,6 +146,12 @@ send a Codex review packet.
 
 ## Current checkpoint
 
+2026-10-20 (`glossary-extraction-4`, operator rulings): term identifiers are
+`[a-z0-9]+(-[a-z0-9]+)*` slugs (32 identifiers migrated), lan's quoted names are
+read without quotation marks (78 terms, 228 usages), and entries the SCJN declared
+invalid are recorded as `invalidated_fractions` (lgcs 8, lgappcea 1). See
+`docs/decisions.md`.
+
 2026-10-19 (LIEPS): profile incisos and cross-references, `DefinedTerm.inciso`,
 inciso anchors (Obsidian only) and `usage_form: "with_lowercase"` release LIEPS
 (58 terms, 328 usages); 6 holds remain. The XIX, XXXVIII and XXII f) term boundaries
@@ -254,7 +260,8 @@ auto-detection gains a wider fallback pass").
 
 LIEPS is done (operator review pending on three term boundaries and the
 lower-case matches listed in `docs/decisions.md`). Next:
-- lan, whose quoted terms keep their quotes and whose XXV nests `a.`/`b.` items;
+- lan's XXV, which nests `a.`/`b.` items (its quoted names are read since
+  2026-10-20; its usages await operator review);
 - ltfccg's chapter-heading leak, a parser fix;
 - the label and boundary holds (log, servinv-dcg-2013, reg-lftr-mcsre, ladua after
   its reparse; fi-dcg-2014 by re-ingesting the new CNBV edition);

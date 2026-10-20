@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-3",
+  "strategy_version": "glossary-extraction-4",
   "instrument_id": "urn:lex-mx:federal:statute:lgcs",
   "source_sha256": "f0bce536c7b11ef67cbc2aea3216310a0293fd3971fdf98913368151b6a1ac62",
   "extracted_text_sha256": "c49c4a1266071c976f44ca51cf7c47f34d41e0b4b910acb865d8c820b68b0ae5",
@@ -11,27 +11,29 @@
       "provision_text_sha256": "34dbe867a7586040428d14d67a38795b590953b9f7c79afc5b8cba0b0b9326cb",
       "method": "established_pass",
       "fractions": [
-        "I",
-        "II",
         "III",
-        "IV",
         "V",
-        "VI",
-        "VII",
-        "VIII",
         "IX",
-        "X",
         "XI",
-        "XII",
         "XIII",
         "XIV",
         "XV"
       ],
       "unread_fractions": [],
-      "term_count": 15
+      "invalidated_fractions": [
+        "I",
+        "II",
+        "IV",
+        "VI",
+        "VII",
+        "VIII",
+        "X",
+        "XII"
+      ],
+      "term_count": 7
     }
   ],
   "imports": [],
-  "term_count": 15,
+  "term_count": 7,
   "usage_count": 43
 }

@@ -17,6 +17,6 @@ source_sha256: 4ef50d6b4b3a6ad0378720c5d49463b4f17d70d9de39f895ed5dae4d2e21736d
 
 # Artículo 69
 
-En ciclos agrícolas en los que por causas de fuerza mayor el agua sea insuficiente para atender la demanda del distrito de riego, la distribución de las aguas disponibles la hará el Organismo de Cuenca respectivo en los términos que se señalen en el reglamento del distrito.
+En ciclos agrícolas en los que por causas de fuerza mayor el agua sea insuficiente para atender la demanda del distrito de riego, la distribución de las aguas disponibles la hará el [Organismo de Cuenca](articulo-3.md) respectivo en los términos que se señalen en el reglamento del distrito.
 
 Artículo reformado DOF 29-04-2004

@@ -17,7 +17,7 @@ source_sha256: 4ef50d6b4b3a6ad0378720c5d49463b4f17d70d9de39f895ed5dae4d2e21736d
 
 # Artículo 37 BIS
 
-“La Comisión" establecerá un fondo de reserva de aguas nacionales, el cual se conformará de los volúmenes siguientes:
+“[La Comisión](articulo-3.md)" establecerá un fondo de reserva de aguas nacionales, el cual se conformará de los volúmenes siguientes:
 
 I. Los provenientes de la extinción de títulos de concesión o asignación para la explotación, uso o aprovechamiento de aguas nacionales, en términos de lo previsto en el Artículo [29 BIS 3](articulo-29-BIS-3.md) de la presente Ley;
 

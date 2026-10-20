@@ -1,5 +1,51 @@
 # Architecture decisions
 
+## 2026-10-20 — Term identifiers are slugs; lan's quoted names; SCJN-invalidated glossary entries (`glossary-extraction-4`)
+
+**Trigger.** The SQLite M2 builder (`docs/sqlite-m2-builder-2026-10-20.md` on `db/sqlite-projection`) fails closed on main's data.
+- 117 definitions in 26 instruments and 8 usage records do not match the term-identifier pattern in `defined-term.schema.json`. No native validator enforced that schema.
+- `reg-lgs-insumos` records the operational source `secretaria_de_salud`, which the source-manifest schema does not list.
+
+**Operator rulings (2026-10-20):**
+1. **Identifiers are normalized and migrated.** A term identifier is `<instrument>:term:` followed by a slug matching `[a-z0-9]+(-[a-z0-9]+)*`. Lower-case it and fold the Spanish accents; then each run of other characters (spaces, parentheses, quotation marks, commas, slashes, apostrophes) becomes one hyphen. Examples: `Número de Identificación Personal (NIP)` → `numero-de-identificacion-personal-nip`, `OGM's` → `ogm-s`. The term keeps its printed name.
+2. **Definitions inside SCJN-invalidated text define nothing.** Some glossary entries are printed in brackets with a note that the SCJN declared them invalid. They are recorded in the new coverage field `invalidated_fractions`, not read as terms. This is consistent with the 2026-10-17 ruling that bracketed placeholders are legally removed text.
+   - lgcs's restored pre-2022 definitions are not printed in the source. They stay absent until the operator rules; nothing is inferred.
+3. **lan's quoted names are read without their quotation marks.** Quoted alternatives joined by `o` or `u` each define a term: `"Aguas claras" o "Aguas de primer uso"` defines two.
+   - Only a wholly quoted name loses its marks.
+   - The XXV a./b. items stay a separate open item.
+
+**Repairs.**
+- **`terms.rs`:**
+  - `slug` produces the new grammar;
+  - `defined_names` handles the quotation marks;
+  - `INVALIDATED_ENTRY` handles an entry that is bracketed and followed in the same paragraph by `declarado/a inválido/a`. The established, wider, `auto_established` and `auto_whole` grammars skip such an entry, including when choosing the shared delimiter.
+  - A bracketed entry without the invalidity note is still read.
+- **Validator:** `validate` now reports `term_id_invalid` for a defined-term identifier outside the grammar.
+- **Schemas:**
+  - `defined-term` and `term-usage` use the tightened pattern;
+  - `glossary-coverage` gains `invalidated_fractions` (non-empty when present) and the version-4 constant;
+  - `source-manifest` accepts `secretaria_de_salud`, the official source already recorded by the adapter: Oficina del Abogado General, `oag.salud.gob.mx`.
+- **Strategy version:** extraction meaning changed, so it is bumped to `glossary-extraction-4`. The six profiles (lfca, lfpccs, lfra, lfvv, lsct, lieps) are rebound; their extraction is unchanged.
+- **Tests:** slug cases from the corpus, lan's quoted and alternative names, and lgcs/lgappcea-shaped invalidated entries in both passes.
+
+**Measured** (`link --all`: exit 0; 5 rejections, exactly the accepted gaps; references 35,949 → 35,949):
+- **Identifiers:** 32 identifiers in 23 instruments change, and no other identifier changes. Usages move with their term: lffpmn, reg-lgs-mt and reg-lncm, 8 records. socap-sofipo-dcg-2006 and oaac-dcg-2009 are accepted gaps; they took the glossary-only refresh.
+- **lgcs:** 15 → 7 terms. `invalidated_fractions` is I, II, IV, VI, VII, VIII, X and XII (8 fractions, not a continuous I–VIII run). Its usages are unchanged (43): the bracketed names matched nothing.
+- **lgappcea:** 19 → 18 terms; III is invalidated.
+- **lan:** 76 → 78 terms, and usages 0 → 228. Matching is exact-case; `with_lowercase` is not enabled. 56 terms have no exact-case usage.
+- **Corpus:** 5,734 → 5,727 terms; 102,204 → 102,432 usages.
+- **Markdown:** 97 files, link-only (80 → 219 links in those files).
+- **Coverage:** all 468 coverage files carry the new strategy version. Beyond that, only lan, lgcs, lgappcea and the six profiled instruments' profile versions change.
+
+**For operator review (lan usages, machine readings):**
+- `Uso` is matched 10 times inside Article 3's own entry names (`"Uso Agrícola"`, `"Uso Doméstico"` …). This is because a term is not linked inside its own definition, which leaves the shorter `Uso` to match there.
+- `Aguas Nacionales` is matched inside the title `Ley de Aguas Nacionales` (the known title-prefix imprecision).
+- `Descarga` is matched inside `Permiso de Descarga` and `Condiciones Particulares de Descarga`.
+
+**Unchanged.**
+- No legal-review state changes.
+- The DB worktree is untouched. Integrating this commit there is the SQLite workstream's step, by a normal merge.
+
 ## 2026-10-19 — Codex review of the parser sweep: one limitation repaired, one pinned
 
 **Review.** `docs/parser-sweep-review-2026-10-19.md` (Codex; evidence in `docs/parser-sweep-review-2026-10-19-evidence.json`) covers `b4109cc54..d8ecaeaa0`.

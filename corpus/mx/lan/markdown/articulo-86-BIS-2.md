@@ -17,6 +17,6 @@ source_sha256: 4ef50d6b4b3a6ad0378720c5d49463b4f17d70d9de39f895ed5dae4d2e21736d
 
 # Artículo 86 BIS 2
 
-Se prohíbe arrojar o depositar en los cuerpos receptores y zonas federales, en contravención a las disposiciones legales y reglamentarias en materia ambiental, basura, materiales, lodos provenientes del tratamiento de aguas residuales y demás desechos o residuos que por efecto de disolución o arrastre, contaminen las aguas de los cuerpos receptores, así como aquellos desechos o residuos considerados peligrosos en las Normas Oficiales Mexicanas respectivas. Se sancionará en términos de Ley a quien incumpla esta disposición.
+Se prohíbe arrojar o depositar en los cuerpos receptores y zonas federales, en contravención a las disposiciones legales y reglamentarias en materia ambiental, basura, materiales, lodos provenientes del tratamiento de aguas residuales y demás desechos o residuos que por efecto de disolución o arrastre, contaminen las aguas de los cuerpos receptores, así como aquellos desechos o residuos considerados peligrosos en las [Normas Oficiales Mexicanas](articulo-3.md) respectivas. Se sancionará en términos de Ley a quien incumpla esta disposición.
 
 Artículo adicionado DOF 29-04-2004

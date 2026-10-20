@@ -17,7 +17,7 @@ source_sha256: 4ef50d6b4b3a6ad0378720c5d49463b4f17d70d9de39f895ed5dae4d2e21736d
 
 # Artículo 98
 
-Cuando con motivo de dichas obras se pudiera afectar el régimen hidráulico o hidrológico de los cauces o vasos propiedad nacional o de las zonas federales correspondientes, así como en los casos de perforación de pozos en zonas reglamentadas o de veda, se requerirá de permiso en los términos de los Artículos [23](articulo-23.md) y [42](articulo-42.md) de esta Ley y de sus reglamentos. Para este efecto la Autoridad competente expedirá las Normas Oficiales Mexicanas que correspondan.
+Cuando con motivo de dichas obras se pudiera afectar el régimen hidráulico o hidrológico de los cauces o vasos propiedad nacional o de las zonas federales correspondientes, así como en los casos de perforación de pozos en zonas reglamentadas o de veda, se requerirá de permiso en los términos de los Artículos [23](articulo-23.md) y [42](articulo-42.md) de esta Ley y de sus reglamentos. Para este efecto la Autoridad competente expedirá las [Normas Oficiales Mexicanas](articulo-3.md) que correspondan.
 
 "La Autoridad del Agua" supervisará la construcción de las obras, y podrá en cualquier momento adoptar las medidas correctivas necesarias para garantizar el cumplimiento del permiso y de dichas normas.
 

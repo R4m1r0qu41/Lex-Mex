@@ -144,7 +144,7 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lncm:term:codigo-igs-(ism)",
+    "id": "urn:lex-mx:federal:regulation:reg-lncm:term:codigo-igs-ism",
     "term": "Código IGS (ISM)",
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",

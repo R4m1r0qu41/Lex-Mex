@@ -386,7 +386,7 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:factor-de-ajuste-operacional-(fao)",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:factor-de-ajuste-operacional-fao",
     "term": "Factor de Ajuste Operacional (FAO)",
     "instrument_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006",
     "defining_provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:1",
@@ -694,7 +694,7 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:probabilidad-de-incumplimiento-(pi)",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:probabilidad-de-incumplimiento-pi",
     "term": "Probabilidad de Incumplimiento (PI)",
     "instrument_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006",
     "defining_provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:1",
@@ -837,7 +837,7 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:severidad-de-la-perdida-(sp)",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:severidad-de-la-perdida-sp",
     "term": "Severidad de la Pérdida (SP)",
     "instrument_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006",
     "defining_provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:1",

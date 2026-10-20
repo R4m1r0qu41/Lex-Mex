@@ -21,7 +21,7 @@ Las personas usuarias de los distritos de riego están obligadas a: Párrafo ref
 
 I. Usar el agua y el servicio de riego en los términos del reglamento del distrito, y
 
-II. Pagar las cuotas de autosuficiencia por servicios de riego que se hubieran acordado por las propias personas usuarias, mismas que deberán cubrir por lo menos los gastos de administración y operación del servicio y los de conservación y mantenimiento de las obras. Dichas cuotas de autosuficiencia se someterán a la autorización del Organismo de Cuenca que corresponda, el cual las podrá objetar cuando no cumplan con lo anterior. Fracción reformada DOF 11-12-2025
+II. Pagar las cuotas de autosuficiencia por servicios de riego que se hubieran acordado por las propias personas usuarias, mismas que deberán cubrir por lo menos los gastos de administración y operación del servicio y los de conservación y mantenimiento de las obras. Dichas cuotas de autosuficiencia se someterán a la autorización del [Organismo de Cuenca](articulo-3.md) que corresponda, el cual las podrá objetar cuando no cumplan con lo anterior. Fracción reformada DOF 11-12-2025
 
 El incumplimiento de lo dispuesto en este Artículo será suficiente para suspender la prestación del servicio de riego, hasta que la persona infractora regularice su situación. Párrafo reformado DOF 11-12-2025
 

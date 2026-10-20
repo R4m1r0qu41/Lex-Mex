@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-3",
+  "strategy_version": "glossary-extraction-4",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-laassp",
   "source_sha256": "940a253624138d30b02fa48711786f4b2637c99bcb195ee0ada59748474ed76b",
   "extracted_text_sha256": "37185e6581704308dbff45bec1f57d507aacb614403d48bd8e09eefceac89a84",

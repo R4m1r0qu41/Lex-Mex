@@ -34,7 +34,7 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgamvlv:term:violencia-y/o-violencias-contra-las-mujeres",
+    "id": "urn:lex-mx:federal:statute:lgamvlv:term:violencia-y-o-violencias-contra-las-mujeres",
     "term": "Violencia y/o violencias contra las Mujeres",
     "instrument_id": "urn:lex-mx:federal:statute:lgamvlv",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:5",
@@ -221,7 +221,7 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgamvlv:term:deberes-reforzados-de-proteccion-del-estado-hacia-mujeres,-adolescentes,-ninas-y-ninos",
+    "id": "urn:lex-mx:federal:statute:lgamvlv:term:deberes-reforzados-de-proteccion-del-estado-hacia-mujeres-adolescentes-ninas-y-ninos",
     "term": "Deberes reforzados de protección del Estado hacia mujeres, adolescentes, niñas y niños",
     "instrument_id": "urn:lex-mx:federal:statute:lgamvlv",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:5",

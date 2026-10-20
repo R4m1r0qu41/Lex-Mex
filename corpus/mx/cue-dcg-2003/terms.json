@@ -199,7 +199,7 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:opinion-no-modificada-(o-favorable)-o-modificada-(o-desfavorable)",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:opinion-no-modificada-o-favorable-o-modificada-o-desfavorable",
     "term": "Opinión no modificada (o favorable) o modificada (o desfavorable)",
     "instrument_id": "urn:lex-mx:federal:regulation:cue-dcg-2003",
     "defining_provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:1",

@@ -67,7 +67,7 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpsacdii:term:prestadores-de-servicios-para-la-atencion,-cuidado-y-desarrollo-integral-infantil",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:term:prestadores-de-servicios-para-la-atencion-cuidado-y-desarrollo-integral-infantil",
     "term": "Prestadores de servicios para la atención, cuidado y desarrollo Integral infantil",
     "instrument_id": "urn:lex-mx:federal:statute:lgpsacdii",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:8",
@@ -133,7 +133,7 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpsacdii:term:servicios-para-atencion,-cuidado-y-desarrollo-integral-infantil",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:term:servicios-para-atencion-cuidado-y-desarrollo-integral-infantil",
     "term": "Servicios para atención, cuidado y desarrollo integral infantil",
     "instrument_id": "urn:lex-mx:federal:statute:lgpsacdii",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:8",

@@ -34,7 +34,7 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldrs:term:agroforestal-(uso)",
+    "id": "urn:lex-mx:federal:statute:ldrs:term:agroforestal-uso",
     "term": "Agroforestal (Uso)",
     "instrument_id": "urn:lex-mx:federal:statute:ldrs",
     "defining_provision_id": "urn:lex-mx:federal:statute:ldrs:article:3",
@@ -331,7 +331,7 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldrs:term:servicios-ambientales-(sinonimo:-beneficios-ambientales)",
+    "id": "urn:lex-mx:federal:statute:ldrs:term:servicios-ambientales-sinonimo-beneficios-ambientales",
     "term": "Servicios Ambientales (sinónimo: beneficios ambientales)",
     "instrument_id": "urn:lex-mx:federal:statute:ldrs",
     "defining_provision_id": "urn:lex-mx:federal:statute:ldrs:article:3",

@@ -21,7 +21,7 @@ source_sha256: 4ef50d6b4b3a6ad0378720c5d49463b4f17d70d9de39f895ed5dae4d2e21736d
 
 I. Descargar en forma permanente, intermitente o fortuita aguas residuales en contravención a lo dispuesto en la presente Ley en cuerpos receptores que sean bienes nacionales, incluyendo aguas marinas, así como cuando se infiltren en terrenos que sean bienes nacionales o en otros terrenos cuando puedan contaminar el subsuelo o el acuífero;
 
-II. Explotar, usar o aprovechar aguas nacionales residuales sin cumplir con las Normas Oficiales Mexicanas en la materia y en las condiciones particulares establecidas para tal efecto; III. Explotar, usar o aprovechar aguas nacionales en volúmenes mayores a los autorizados en los títulos respectivos o en las inscripciones realizadas en el Registro Público Nacional del Agua; Fracción reformada DOF 11-12-2025
+II. Explotar, usar o aprovechar aguas nacionales residuales sin cumplir con las [Normas Oficiales Mexicanas](articulo-3.md) en la materia y en las condiciones particulares establecidas para tal efecto; III. Explotar, usar o aprovechar aguas nacionales en volúmenes mayores a los autorizados en los títulos respectivos o en las inscripciones realizadas en el [Registro Público Nacional del Agua](articulo-3.md); Fracción reformada DOF 11-12-2025
 
 IV. Ocupar o aprovechar vasos, cauces, canales, zonas federales, zonas de protección y demás bienes a que se refiere el Artículo [113](articulo-113.md) de esta Ley, sin el título de concesión;
 

@@ -17,9 +17,9 @@ source_sha256: 4ef50d6b4b3a6ad0378720c5d49463b4f17d70d9de39f895ed5dae4d2e21736d
 
 # Artículo 13 BIS 1
 
-Los Consejos de Cuenca se establecerán por cada cuenca hidrológica o grupo de cuencas hidrológicas que determine "la Comisión", lo que constituirá su delimitación territorial. Los Consejos de Cuenca, con apego a esta Ley y sus reglamentos, establecerán sus reglas generales de integración, organización y funcionamiento.
+[Los Consejos](articulo-3.md) de Cuenca se establecerán por cada cuenca hidrológica o grupo de cuencas hidrológicas que determine "la Comisión", lo que constituirá su delimitación territorial. Los Consejos de Cuenca, con apego a esta Ley y sus reglamentos, establecerán sus reglas generales de integración, organización y funcionamiento.
 
-El Consejo de Cuenca contará al menos con cuatro órganos para su funcionamiento:
+El [Consejo de Cuenca](articulo-3.md) contará al menos con cuatro órganos para su funcionamiento:
 
 A. La Asamblea General de Personas Usuarias: la cual estará integrada por los representantes de las personas usuarias del agua de los diferentes usos y de las organizaciones de la sociedad; contará con una persona Titular de la Presidencia de la Asamblea y una persona Secretaria de Actas, quienes serán electas de entre sus integrantes por las propias personas asambleístas conforme a las Reglas Generales de Integración, Organización y Funcionamiento del Consejo de Cuenca. Párrafo reformado DOF 11-12-2025
 
@@ -33,7 +33,7 @@ La Asamblea General de Personas Usuarias tendrá las siguientes funciones: Párr
 
 2.- Conocer los asuntos relativos a la explotación, uso y aprovechamiento del agua; la concesión, asignación y permisos de descarga; la contaminación y tratamiento del agua; la construcción de obras hidráulicas, y los demás aspectos relativos a la gestión integrada de los recursos hídricos, propuestos por los representantes de los usuarios del agua de los diferentes usos;
 
-3.- Coadyuvar con el Consejo de Cuenca en la vigilancia del cumplimiento del Plan Hídrico de la Cuenca Hidrológica;
+3.- Coadyuvar con el Consejo de Cuenca en la vigilancia del cumplimiento del Plan Hídrico de la [Cuenca Hidrológica](articulo-3.md);
 
 4.- Nombrar sus representantes que fungirán con el carácter de vocales en el seno del Consejo de Cuenca;
 
@@ -41,7 +41,7 @@ La Asamblea General de Personas Usuarias tendrá las siguientes funciones: Párr
 
 B. El Comité Directivo del Consejo de Cuenca: Integrado por las personas Titulares de la Presidencia y de la Secretaría Técnica del Consejo de Cuenca. Apartado reformado DOF 11-12-2025
 
-C. La Comisión de Operación y Vigilancia del Consejo de Cuenca: De la cual depende un Grupo Técnico de Trabajo Mixto y Colegiado, el cual se encargará del seguimiento y evaluación del desempeño del Consejo de Cuenca, grupos de trabajo específicos y otros órganos especializados que requiera el Consejo de Cuenca para el mejor cumplimiento de su objeto, y
+C. [La Comisión](articulo-3.md) de Operación y Vigilancia del Consejo de Cuenca: De la cual depende un Grupo Técnico de Trabajo Mixto y Colegiado, el cual se encargará del seguimiento y evaluación del desempeño del Consejo de Cuenca, grupos de trabajo específicos y otros órganos especializados que requiera el Consejo de Cuenca para el mejor cumplimiento de su objeto, y
 
 D. La Gerencia Operativa: Con funciones internas de carácter técnico, administrativo y jurídico.
 

@@ -199,7 +199,7 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnsijpa:term:persona-responsable-de-la/el-adolescente",
+    "id": "urn:lex-mx:federal:statute:lnsijpa:term:persona-responsable-de-la-el-adolescente",
     "term": "Persona responsable de la/el adolescente",
     "instrument_id": "urn:lex-mx:federal:statute:lnsijpa",
     "defining_provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:3",
