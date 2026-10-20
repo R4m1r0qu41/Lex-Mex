@@ -26,7 +26,7 @@ The disposable reparse exposed defects in the current parser, each fixed with a 
     - a transitory heading's ordinal must be capitalized.
   - Fixtures: `reform-omnibus-operative-article-and-resolution-sample.txt`, `reform-reformas-title-and-page-split-ordinal-sample.txt`.
 
-**What.** 16 instruments are reparsed from hash-matching source, and `derive-temporal` is rerun on each: cff, cfpc, cnpcf, cpeum, cpf, laat, lac, ladua, lamp, lan, lfpc, lgtoc, lic, lmv, lnep and ltosf. Tracked temporal-analysis requests are restored, not regenerated, as for LIEPS.
+**What.** 16 instruments are reparsed from hash-matching source, and `derive-temporal` is rerun on each: cff, cfpc, cnpcf, cpeum, cpf, laat, lac, ladua, lamp, lan, lfpc, lgtoc, lic, lmv, lnep and ltosf. None of the 16 has a tracked temporal-analysis request, and `parse` does not write one, so no request changed.
 
 Of the other six:
 - lfce, lissfam, reg-lgp and fi-dcg-2014 reparse to identical provisions, so their heading forms are still unread.
@@ -57,6 +57,18 @@ Of the other six:
   - lgtoc: 440 → 463 articles;
   - lic: 489 → 492 articles;
   - lnep: 11 → 12 transitories.
+
+**A/B census of the parser changes.** All 309 instruments with hash-matching retained source were parsed under `89040815a` and under this commit, comparing the two outputs:
+- **290 are identical.**
+- **3 parse only now:** ccf, cff and cpf, which failed before on duplicate reform-evidence IDs.
+- **0 fail only now:** the new fail-closed bail caught no further silent loss.
+- **0 fail under both.**
+- **16 differ**, and every difference is a correction:
+  - reform evidence that was misfiled as a later "section" of an older decree is now filed under its own decree (ccom, lfrsp, linfonavit, reg-lmin, rgic, ladua, lfpc);
+  - ccf gains its 1943 transitories;
+  - a lower-case ordinal carried over a page break no longer splits a sentence (larefam 31 `párrafo segundo.`, oga 203, reg-lopgr 117);
+  - the reparsed instruments above.
+- **Not reparsed in this commit:** ccf and the ten instruments outside the 16 keep their committed parse until they are reparsed.
 
 **Open.**
 - 492 trailing heading leaks remain in 48 instruments, 40 of which lack retained source.
