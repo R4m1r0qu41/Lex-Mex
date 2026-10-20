@@ -33,7 +33,7 @@ VI. Admitir, desechar y tramitar los incidentes y recursos que les competan, for
 
 VIII. Formular el proyecto de sentencia definitiva y, en su caso, de cumplimiento de ejecutorias;
 
-IX. Dictar los acuerdos y providencias relativas a las medidas cautelares provisionales en los términos de la [Ley](articulo-2.md) Federal de Procedimiento Contencioso Administrativo, así como proponer a la Sala el proyecto de resolución correspondiente a la medida cautelar definitiva que se estime procedente;
+IX. Dictar los acuerdos y providencias relativas a las medidas cautelares provisionales en los términos de la Ley Federal de Procedimiento Contencioso Administrativo, así como proponer a la Sala el proyecto de resolución correspondiente a la medida cautelar definitiva que se estime procedente;
 
 X. Supervisar la debida integración de las actuaciones en el Sistema de Justicia en Línea del [Tribunal](articulo-2.md);
 

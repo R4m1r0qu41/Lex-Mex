@@ -31,6 +31,6 @@ VI. Cualquier otra que a criterio del Juez de control cumpla suficientemente con
 
 El Juez de control podrá autorizar la sustitución de la garantía impuesta al imputado por otra equivalente previa audiencia del [Ministerio Público](articulo-3.md), la víctima u ofendido, si estuviese presente.
 
-Las garantías económicas se regirán por las reglas generales previstas en el [Código](articulo-3.md) Civil Federal y demás legislaciones aplicables.
+Las garantías económicas se regirán por las reglas generales previstas en el Código Civil Federal y demás legislaciones aplicables.
 
 El depósito en efectivo será equivalente a la cantidad señalada como garantía económica y se hará en la institución de crédito autorizada para ello; sin embargo, cuando por razones de la hora o por tratarse de día inhábil no pueda constituirse el depósito, el Juez de control recibirá la cantidad en efectivo, asentará registro de ella y la ingresará el primer día hábil a la institución de crédito autorizada.

@@ -17,7 +17,7 @@ source_sha256: 9047ed3a46898bd7423b35e109f9c695e995408ca852aaaa07eb2cb902c9d7a3
 
 # Artículo 1
 
-El presente ordenamiento tiene por objeto establecer las normas reglamentarias de la [Ley](articulo-1.md) Federal para la Administración y [Enajenación](articulo-1.md) de Bienes del Sector Público.
+El presente ordenamiento tiene por objeto establecer las normas reglamentarias de la [Ley](articulo-1.md) Federal para la Administración y Enajenación de Bienes del Sector Público.
 
 Adicionalmente a las definiciones contenidas en el artículo 2 de la Ley, excepto por lo que hace a la definición de Contraloría, para efectos de este Reglamento se entenderá por:
 

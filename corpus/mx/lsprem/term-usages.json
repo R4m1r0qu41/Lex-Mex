@@ -172,42 +172,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsprem:article:9:term-usage:81-84",
-    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:9",
-    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
-    "span": "Ley",
-    "start_char": 81,
-    "end_char": 84
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsprem:article:9:term-usage:140-143",
-    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:9",
-    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
-    "span": "Ley",
-    "start_char": 140,
-    "end_char": 143
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsprem:article:9:term-usage:188-191",
-    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:9",
-    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
-    "span": "Ley",
-    "start_char": 188,
-    "end_char": 191
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsprem:article:9:term-usage:230-233",
-    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:9",
-    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
-    "span": "Ley",
-    "start_char": 230,
-    "end_char": 233
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lsprem:article:10:term-usage:3-10",
     "provision_id": "urn:lex-mx:federal:statute:lsprem:article:10",
     "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
@@ -223,15 +187,6 @@
     "span": "Ley",
     "start_char": 86,
     "end_char": 89
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsprem:article:10:term-usage:311-314",
-    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:10",
-    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
-    "span": "Ley",
-    "start_char": 311,
-    "end_char": 314
   },
   {
     "schema_version": "0.1.0",
@@ -1603,24 +1558,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsprem:article:29:term-usage:258-261",
-    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:29",
-    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
-    "span": "Ley",
-    "start_char": 258,
-    "end_char": 261
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsprem:article:31:term-usage:60-63",
-    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:31",
-    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
-    "span": "Ley",
-    "start_char": 60,
-    "end_char": 63
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lsprem:article:31:term-usage:114-124",
     "provision_id": "urn:lex-mx:federal:statute:lsprem:article:31",
     "term_id": "urn:lex-mx:federal:statute:lsprem:term:secretaria",
@@ -1657,15 +1594,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsprem:article:32:term-usage:70-73",
-    "provision_id": "urn:lex-mx:federal:statute:lsprem:article:32",
-    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
-    "span": "Ley",
-    "start_char": 70,
-    "end_char": 73
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lsprem:transitory:segundo:term-usage:14-17",
     "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:segundo",
     "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
@@ -1684,183 +1612,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsprem:transitory:segundo:term-usage:138-141",
-    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:segundo",
-    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
-    "span": "Ley",
-    "start_char": 138,
-    "end_char": 141
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsprem:transitory:segundo:term-usage:218-221",
-    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:segundo",
-    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
-    "span": "Ley",
-    "start_char": 218,
-    "end_char": 221
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsprem:transitory:tercero:term-usage:221-224",
-    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:tercero",
-    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
-    "span": "Ley",
-    "start_char": 221,
-    "end_char": 224
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsprem:transitory:cuarto:term-usage:63-66",
-    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:cuarto",
-    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
-    "span": "Ley",
-    "start_char": 63,
-    "end_char": 66
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsprem:transitory:quinto:term-usage:221-224",
-    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:quinto",
-    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
-    "span": "Ley",
-    "start_char": 221,
-    "end_char": 224
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsprem:transitory:septimo:term-usage:38-41",
-    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:septimo",
-    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
-    "span": "Ley",
-    "start_char": 38,
-    "end_char": 41
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsprem:transitory:septimo:term-usage:603-606",
-    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:septimo",
-    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
-    "span": "Ley",
-    "start_char": 603,
-    "end_char": 606
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsprem:transitory:septimo:term-usage:1370-1373",
-    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:septimo",
-    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
-    "span": "Ley",
-    "start_char": 1370,
-    "end_char": 1373
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsprem:transitory:octavo:term-usage:568-571",
-    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:octavo",
-    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
-    "span": "Ley",
-    "start_char": 568,
-    "end_char": 571
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsprem:transitory:noveno:term-usage:2106-2109",
-    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:noveno",
-    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
-    "span": "Ley",
-    "start_char": 2106,
-    "end_char": 2109
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsprem:transitory:noveno:term-usage:2738-2741",
-    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:noveno",
-    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
-    "span": "Ley",
-    "start_char": 2738,
-    "end_char": 2741
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsprem:transitory:noveno:term-usage:2793-2796",
-    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:noveno",
-    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
-    "span": "Ley",
-    "start_char": 2793,
-    "end_char": 2796
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo:term-usage:699-702",
     "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo",
     "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
     "span": "Ley",
     "start_char": 699,
     "end_char": 702
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo:term-usage:757-760",
-    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo",
-    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
-    "span": "Ley",
-    "start_char": 757,
-    "end_char": 760
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo:term-usage:2370-2373",
-    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo",
-    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
-    "span": "Ley",
-    "start_char": 2370,
-    "end_char": 2373
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo:term-usage:3087-3090",
-    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo",
-    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
-    "span": "Ley",
-    "start_char": 3087,
-    "end_char": 3090
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo-primero:term-usage:2868-2871",
-    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo-primero",
-    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
-    "span": "Ley",
-    "start_char": 2868,
-    "end_char": 2871
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo-segundo:term-usage:155-158",
-    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo-segundo",
-    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
-    "span": "Ley",
-    "start_char": 155,
-    "end_char": 158
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo-segundo:term-usage:1459-1462",
-    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo-segundo",
-    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
-    "span": "Ley",
-    "start_char": 1459,
-    "end_char": 1462
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo-segundo:term-usage:3636-3639",
-    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo-segundo",
-    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
-    "span": "Ley",
-    "start_char": 3636,
-    "end_char": 3639
   },
   {
     "schema_version": "0.1.0",
@@ -1873,15 +1630,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo-segundo:term-usage:4979-4982",
-    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo-segundo",
-    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
-    "span": "Ley",
-    "start_char": 4979,
-    "end_char": 4982
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo-segundo:term-usage:6159-6162",
     "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo-segundo",
     "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
@@ -1891,39 +1639,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo-segundo:term-usage:6885-6888",
-    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo-segundo",
-    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
-    "span": "Ley",
-    "start_char": 6885,
-    "end_char": 6888
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo-segundo:term-usage:7150-7153",
     "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo-segundo",
     "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
     "span": "Ley",
     "start_char": 7150,
     "end_char": 7153
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo-segundo:term-usage:7652-7655",
-    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo-segundo",
-    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
-    "span": "Ley",
-    "start_char": 7652,
-    "end_char": 7655
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo-segundo:term-usage:8717-8720",
-    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo-segundo",
-    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
-    "span": "Ley",
-    "start_char": 8717,
-    "end_char": 8720
   },
   {
     "schema_version": "0.1.0",
@@ -1942,42 +1663,6 @@
     "span": "Secretaría",
     "start_char": 3,
     "end_char": 13
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo-sexto:term-usage:158-161",
-    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo-sexto",
-    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
-    "span": "Ley",
-    "start_char": 158,
-    "end_char": 161
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo-septimo:term-usage:237-240",
-    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo-septimo",
-    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
-    "span": "Ley",
-    "start_char": 237,
-    "end_char": 240
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo-septimo:term-usage:1036-1039",
-    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo-septimo",
-    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
-    "span": "Ley",
-    "start_char": 1036,
-    "end_char": 1039
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo-octavo:term-usage:130-133",
-    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo-octavo",
-    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
-    "span": "Ley",
-    "start_char": 130,
-    "end_char": 133
   },
   {
     "schema_version": "0.1.0",
@@ -2008,39 +1693,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo-noveno:term-usage:2431-2434",
-    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo-noveno",
-    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
-    "span": "Ley",
-    "start_char": 2431,
-    "end_char": 2434
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsprem:transitory:vigesimo:term-usage:74-77",
-    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:vigesimo",
-    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
-    "span": "Ley",
-    "start_char": 74,
-    "end_char": 77
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lsprem:transitory:vigesimo:term-usage:392-395",
     "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:vigesimo",
     "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
     "span": "Ley",
     "start_char": 392,
     "end_char": 395
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsprem:transitory:vigesimo:term-usage:985-988",
-    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:vigesimo",
-    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
-    "span": "Ley",
-    "start_char": 985,
-    "end_char": 988
   },
   {
     "schema_version": "0.1.0",
@@ -2053,48 +1711,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsprem:transitory:vigesimo-primero:term-usage:90-93",
-    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:vigesimo-primero",
-    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
-    "span": "Ley",
-    "start_char": 90,
-    "end_char": 93
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsprem:transitory:vigesimo-primero:term-usage:149-152",
-    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:vigesimo-primero",
-    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
-    "span": "Ley",
-    "start_char": 149,
-    "end_char": 152
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsprem:transitory:vigesimo-segundo:term-usage:151-154",
-    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:vigesimo-segundo",
-    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
-    "span": "Ley",
-    "start_char": 151,
-    "end_char": 154
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lsprem:transitory:vigesimo-cuarto:term-usage:446-449",
     "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:vigesimo-cuarto",
     "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
     "span": "Ley",
     "start_char": 446,
     "end_char": 449
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsprem:transitory:vigesimo-quinto:term-usage:53-56",
-    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:vigesimo-quinto",
-    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
-    "span": "Ley",
-    "start_char": 53,
-    "end_char": 56
   },
   {
     "schema_version": "0.1.0",
@@ -2242,24 +1864,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsprem:transitory:trigesimo:term-usage:461-464",
-    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:trigesimo",
-    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
-    "span": "Ley",
-    "start_char": 461,
-    "end_char": 464
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsprem:transitory:trigesimo:term-usage:469-476",
-    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:trigesimo",
-    "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
-    "span": "Sistema",
-    "start_char": 469,
-    "end_char": 476
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lsprem:transitory:trigesimo:term-usage:526-543",
     "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:trigesimo",
     "term_id": "urn:lex-mx:federal:statute:lsprem:term:estatuto-organico",
@@ -2296,48 +1900,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsprem:transitory:trigesimo-segundo:term-usage:164-167",
-    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:trigesimo-segundo",
-    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
-    "span": "Ley",
-    "start_char": 164,
-    "end_char": 167
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsprem:transitory:trigesimo-tercero:term-usage:125-128",
-    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:trigesimo-tercero",
-    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
-    "span": "Ley",
-    "start_char": 125,
-    "end_char": 128
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lsprem:transitory:trigesimo-cuarto:term-usage:42-49",
     "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:trigesimo-cuarto",
     "term_id": "urn:lex-mx:federal:statute:lsprem:term:sistema",
     "span": "Sistema",
     "start_char": 42,
     "end_char": 49
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsprem:transitory:trigesimo-quinto:term-usage:176-179",
-    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:trigesimo-quinto",
-    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
-    "span": "Ley",
-    "start_char": 176,
-    "end_char": 179
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsprem:transitory:trigesimo-septimo:term-usage:109-112",
-    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:trigesimo-septimo",
-    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
-    "span": "Ley",
-    "start_char": 109,
-    "end_char": 112
   },
   {
     "schema_version": "0.1.0",
@@ -2350,83 +1918,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsprem:transitory:trigesimo-octavo:term-usage:131-134",
-    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:trigesimo-octavo",
-    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
-    "span": "Ley",
-    "start_char": 131,
-    "end_char": 134
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsprem:transitory:trigesimo-noveno:term-usage:54-57",
-    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:trigesimo-noveno",
-    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
-    "span": "Ley",
-    "start_char": 54,
-    "end_char": 57
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsprem:transitory:trigesimo-noveno:term-usage:387-390",
-    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:trigesimo-noveno",
-    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
-    "span": "Ley",
-    "start_char": 387,
-    "end_char": 390
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsprem:transitory:cuadragesimo:term-usage:283-286",
-    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:cuadragesimo",
-    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
-    "span": "Ley",
-    "start_char": 283,
-    "end_char": 286
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsprem:transitory:cuadragesimo-primero:term-usage:224-227",
-    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:cuadragesimo-primero",
-    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
-    "span": "Ley",
-    "start_char": 224,
-    "end_char": 227
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsprem:transitory:cuadragesimo-segundo:term-usage:523-526",
-    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:cuadragesimo-segundo",
-    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
-    "span": "Ley",
-    "start_char": 523,
-    "end_char": 526
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lsprem:transitory:cuadragesimo-segundo:term-usage:806-809",
     "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:cuadragesimo-segundo",
     "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
     "span": "Ley",
     "start_char": 806,
     "end_char": 809
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsprem:transitory:cuadragesimo-cuarto:term-usage:119-122",
-    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:cuadragesimo-cuarto",
-    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
-    "span": "Ley",
-    "start_char": 119,
-    "end_char": 122
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsprem:transitory:cuadragesimo-quinto:term-usage:169-172",
-    "provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:cuadragesimo-quinto",
-    "term_id": "urn:lex-mx:federal:statute:lsprem:term:ley",
-    "span": "Ley",
-    "start_char": 169,
-    "end_char": 172
   }
 ]

@@ -25,11 +25,11 @@ II. Administradora Receptora, aquella que asume la administración de la Cuenta 
 
 III. Administradora Transferente, aquella que deja de administrar la Cuenta Individual objeto de un Traspaso;
 
-IV. Aportaciones al FOVISSSTE, las enteradas por las dependencias y entidades públicas de conformidad con lo previsto en los artículos [191](../../lissste/markdown/articulo-191.md) fracción II y [194](../../lissste/markdown/articulo-194.md) de la Ley del Instituto de Seguridad y Servicios Sociales de los [Trabajadores](articulo-2o.md) del Estado;
+IV. Aportaciones al FOVISSSTE, las enteradas por las dependencias y entidades públicas de conformidad con lo previsto en los artículos [191](../../lissste/markdown/articulo-191.md) fracción II y [194](../../lissste/markdown/articulo-194.md) de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
 
 V. Aportaciones al INFONAVIT, las enteradas por los patrones de conformidad con lo previsto en el artículo [29](../../linfonavit/markdown/articulo-29.md) fracción II de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores;
 
-VI. Asignación, al proceso mediante el cual la Comisión designa una [Administradora](articulo-2o.md) a las Cuentas Individuales de aquellos Trabajadores que no se registren en una, tomando en consideración lo previsto en la Ley, el presente Reglamento y las reglas generales que al efecto emita la Comisión;
+VI. Asignación, al proceso mediante el cual la Comisión designa una [Administradora](articulo-2o.md) a las Cuentas Individuales de aquellos [Trabajadores](articulo-2o.md) que no se registren en una, tomando en consideración lo previsto en la Ley, el presente Reglamento y las reglas generales que al efecto emita la Comisión;
 
 VII. Buzón, cada una de las cuentas de correo electrónico habilitadas por la persona moral que proporcione los medios electrónicos de comunicación a efecto de que la Comisión notifique sus actos administrativos a través de correo electrónico, así como para el envío de documentos digitales de los Participantes en los Sistemas de Ahorro para el Retiro a la Comisión;
 

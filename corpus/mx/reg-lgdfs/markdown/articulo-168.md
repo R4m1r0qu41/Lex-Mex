@@ -17,4 +17,4 @@ source_sha256: a4dbcdb94d780332f0bda62246611dab5972e75bcb01df293df93a95cdd03530
 
 # Artículo 168
 
-Los organismos de certificación que evalúen el buen manejo forestal con la norma oficial mexicana correspondiente deberán estar acreditados ante una entidad de acreditación, de conformidad con lo establecido en la [Ley](articulo-2.md) de Infraestructura de la Calidad.
+Los organismos de certificación que evalúen el buen manejo forestal con la norma oficial mexicana correspondiente deberán estar acreditados ante una entidad de acreditación, de conformidad con lo establecido en la Ley de Infraestructura de la Calidad.

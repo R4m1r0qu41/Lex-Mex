@@ -39,6 +39,6 @@ VIII. Recibir becas y demás apoyos económicos priorizando a los educandos que 
 
 IX. Participar en los Comités Escolares de Administración Participativa en los términos de las disposiciones respectivas, y
 
-X. Los demás que sean reconocidos en la Constitución Política de los [Estados](articulo-4.md) Unidos Mexicanos, esta Ley y demás disposiciones aplicables.
+X. Los demás que sean reconocidos en la Constitución Política de los Estados Unidos Mexicanos, esta Ley y demás disposiciones aplicables.
 
-El Estado establecerá los mecanismos que contribuyan a su formación integral, tomando en cuenta los contextos sociales, territoriales, económicos, lingüísticos y culturales específicos en la elaboración y aplicación de las políticas educativas en sus distintos tipos y modalidades.
+El [Estado](articulo-4.md) establecerá los mecanismos que contribuyan a su formación integral, tomando en cuenta los contextos sociales, territoriales, económicos, lingüísticos y culturales específicos en la elaboración y aplicación de las políticas educativas en sus distintos tipos y modalidades.

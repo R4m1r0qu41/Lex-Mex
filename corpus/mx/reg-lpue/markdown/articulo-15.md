@@ -23,4 +23,4 @@ I. Las propuestas respectivas, y
 
 II. El cumplimiento de las condiciones, compromisos y obligaciones contenidos en el título de concesión, para el caso del participante ganador.
 
-En ambos casos la Secretaría, en las bases del concurso, establecerá los montos, porcentajes y demás circunstancias relativas al otorgamiento de garantías, conforme a lo dispuesto en la [Ley](articulo-2.md) de Tesorería de la Federación y su Reglamento, mismas que en todos los supuestos deberán ser otorgadas a favor de la Tesorería de la Federación y a disposición de la Secretaría.
+En ambos casos la Secretaría, en las bases del concurso, establecerá los montos, porcentajes y demás circunstancias relativas al otorgamiento de garantías, conforme a lo dispuesto en la Ley de Tesorería de la Federación y su Reglamento, mismas que en todos los supuestos deberán ser otorgadas a favor de la Tesorería de la Federación y a disposición de la Secretaría.

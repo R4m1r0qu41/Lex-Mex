@@ -21,4 +21,4 @@ Los [Bienes](articulo-2.md) cuyo dominio haya sido extinto por sentencia firme e
 
 En el ámbito local, los Bienes cuyo dominio haya sido extinto por sentencia firme, podrán destinarse conforme lo determinen las disposiciones locales aplicables.
 
-En el caso de tierras ejidales o comunales se resolverá, como consecuencia de la extinción de dominio, que el Estado cuando recupere la propiedad, la ponga a disposición de la Asamblea Ejidal o Comunal para que la reasignen en beneficio del núcleo agrario o de persona distinta conforme a la [Ley](articulo-2.md) Agraria.
+En el caso de tierras ejidales o comunales se resolverá, como consecuencia de la extinción de dominio, que el Estado cuando recupere la propiedad, la ponga a disposición de la Asamblea Ejidal o Comunal para que la reasignen en beneficio del núcleo agrario o de persona distinta conforme a la Ley Agraria.

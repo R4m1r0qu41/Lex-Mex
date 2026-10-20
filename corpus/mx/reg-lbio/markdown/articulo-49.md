@@ -17,4 +17,4 @@ source_sha256: 7df3d678efda2306b68d3c0f5ca0e3e92b9066d5f773128f4ae19cb26bf44fff
 
 # Artículo 49
 
-Cuando se pretendan distribuir productos de una Formulación de acuerdo con lo establecido en la [Ley](articulo-3.md) del Sector Hidrocarburos se debe contar con el permiso de Formulación correspondiente y cumplir con la normatividad aplicable.
+Cuando se pretendan distribuir productos de una Formulación de acuerdo con lo establecido en la Ley del Sector Hidrocarburos se debe contar con el permiso de Formulación correspondiente y cumplir con la normatividad aplicable.

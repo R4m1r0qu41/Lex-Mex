@@ -27,4 +27,4 @@ III. Ejecutar y dar seguimiento a los acuerdos y resoluciones del propio Consejo
 
 IV. Difundir la información estadística en materia de incidencia delictiva y de prevención social de la violencia y la delincuencia, y
 
-V. Todas aquellas atribuciones conferidas al Secretariado Ejecutivo en la [Ley](articulo-4.md) General del Sistema Nacional de Seguridad Pública y demás disposiciones legales.
+V. Todas aquellas atribuciones conferidas al Secretariado Ejecutivo en la Ley General del Sistema Nacional de Seguridad Pública y demás disposiciones legales.

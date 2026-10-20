@@ -37,4 +37,4 @@ VIII. Pérdida o avería del equipaje facturado.
 
 En caso de muerte no se deben deducir las indemnizaciones percibidas durante el tiempo que el beneficiario esté sometido al régimen de incapacidad temporal.
 
-Para determinar el pago que corresponda por incapacidad permanente parcial se deben aplicar los porcentajes señalados en la tabla de valuación de incapacidades permanentes de la [Ley](articulo-2.md) Federal del Trabajo.
+Para determinar el pago que corresponda por incapacidad permanente parcial se deben aplicar los porcentajes señalados en la tabla de valuación de incapacidades permanentes de la Ley Federal del Trabajo.

@@ -37,6 +37,6 @@ VIII. Plazo o término para que la autoridad o autoridades requeridas cumpliment
 
 La información contenida en el Registro Nacional permitirá entre otras acciones, la verificación de antecedentes de violencia a víctimas por el mismo agresor.
 
-La información y datos contenidos en el Registro Nacional se clasifica como reservada para todos los efectos legales, su posesión, uso y transmisión tendrá como único objetivo, el plasmado en la presente ley y las autoridades deberán dar cumplimiento a las responsabilidades establecidas en la [Ley](articulo-5.md) General de Protección de Datos Personales en Posesión de Sujetos Obligados.
+La información y datos contenidos en el Registro Nacional se clasifica como reservada para todos los efectos legales, su posesión, uso y transmisión tendrá como único objetivo, el plasmado en la presente ley y las autoridades deberán dar cumplimiento a las responsabilidades establecidas en la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados.
 
 Artículo adicionado DOF 16-12-2024

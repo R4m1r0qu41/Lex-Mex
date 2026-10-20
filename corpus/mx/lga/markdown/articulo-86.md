@@ -17,6 +17,6 @@ source_sha256: 2f931111ab2745aa5a3b2ef0a99dc5beaf73d78f7674f2d90b4462319c1fc688
 
 # Artículo 86
 
-Son parte del patrimonio documental de la Nación, por disposición de ley, los documentos de archivo considerados como Monumentos históricos por la [Ley](articulo-4.md) Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos.
+Son parte del patrimonio documental de la Nación, por disposición de ley, los documentos de archivo considerados como Monumentos históricos por la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos.
 
 Las entidades federativas y los organismos a los que la Constitución les otorga autonomía deberán determinar los documentos que constituyen su patrimonio documental.

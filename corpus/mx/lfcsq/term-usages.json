@@ -3916,24 +3916,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfcsq:transitory:decimo-primero:term-usage:168-174",
-    "provision_id": "urn:lex-mx:federal:statute:lfcsq:transitory:decimo-primero",
-    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:desvio",
-    "span": "Desvío",
-    "start_char": 168,
-    "end_char": 174
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfcsq:transitory:decimo-primero:term-usage:198-212",
-    "provision_id": "urn:lex-mx:federal:statute:lfcsq:transitory:decimo-primero",
-    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:arma-quimica",
-    "span": "Armas Químicas",
-    "start_char": 198,
-    "end_char": 212
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfcsq:transitory:decimo-primero:term-usage:527-536",
     "provision_id": "urn:lex-mx:federal:statute:lfcsq:transitory:decimo-primero",
     "term_id": "urn:lex-mx:federal:statute:lfcsq:term:uso-final",

@@ -19,4 +19,4 @@ source_sha256: 8a999465afe704f31d0f615aa1afb605c395600298a2433e09778463db25da47
 
 Si la solicitud presentada por el interesado resulta procedente, el SNICS otorgará el folio de inscripción en un plazo no mayor a diez días hábiles.
 
-En caso de que la solicitud resulte improcedente, por errores u omisiones, el SNICS prevendrá al interesado en términos de lo dispuesto por la [Ley](articulo-2.md) Federal de Procedimiento Administrativo, para que subsane los errores u omisiones que motivaron su improcedencia.
+En caso de que la solicitud resulte improcedente, por errores u omisiones, el SNICS prevendrá al interesado en términos de lo dispuesto por la Ley Federal de Procedimiento Administrativo, para que subsane los errores u omisiones que motivaron su improcedencia.

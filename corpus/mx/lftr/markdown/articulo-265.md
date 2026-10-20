@@ -46,4 +46,4 @@ En caso de no hacer manifestaciones dentro del plazo antes aludido, se presumir�
 
 V. El Instituto contará con un plazo de cuarenta días hábiles para dictar la resolución definitiva correspondiente, la cual deberá ser notificada dentro de un plazo no mayor a veinte días hábiles contado a partir del día siguiente aquel en que sea emitida por la autoridad correspondiente y, posteriormente, se publicará en el Diario Oficial de la Federación y en la página de [Internet](articulo-3.md) del propio Instituto.
 
-A este procedimiento le será aplicable supletoriamente la [Ley](articulo-3.md) Federal de Procedimiento Administrativo, en lo que no se oponga a las disposiciones de esta Ley.
+A este procedimiento le será aplicable supletoriamente la Ley Federal de Procedimiento Administrativo, en lo que no se oponga a las disposiciones de esta [Ley](articulo-3.md).

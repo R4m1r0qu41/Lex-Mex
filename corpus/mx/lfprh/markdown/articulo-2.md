@@ -81,7 +81,7 @@ XXX. Ingresos excedentes: los recursos que durante el ejercicio fiscal se obtien
 
 XXX Bis. Ingresos Petroleros: los recursos que reciba el Gobierno Federal por la suma de las transferencias desde el [Fondo Mexicano del Petróleo](articulo-2.md) que se incluyan en la Ley de Ingresos y el Presupuesto de Egresos para cubrir los conceptos señalados en el artículo [16](../../lfmped/markdown/articulo-16.md), fracción II, incisos a) a g) de la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo y la recaudación por el impuesto sobre la renta que se genere por los contratos y asignaciones a que se refiere el párrafo séptimo del artículo [27](../../cpeum/markdown/articulo-27.md) de la Constitución Política de los Estados Unidos Mexicanos; Fracción adicionada DOF 11-08-2014
 
-XXXI. Ingresos propios: los recursos que por cualquier concepto obtengan las entidades, distintos a los recursos por concepto de subsidios y transferencias, conforme a lo dispuesto en el artículo [52](../../lfep/markdown/articulo-52.md) de la Ley Federal de las [Entidades](articulo-2.md) Paraestatales;
+XXXI. Ingresos propios: los recursos que por cualquier concepto obtengan las entidades, distintos a los recursos por concepto de subsidios y transferencias, conforme a lo dispuesto en el artículo [52](../../lfep/markdown/articulo-52.md) de la Ley Federal de las Entidades Paraestatales;
 
 XXXI Bis. Inversión física y financiera directa: las erogaciones que tienen como contraprestación la constitución de un activo; Fracción adicionada DOF 24-01-2014 XXXII. Ley de Ingresos: la Ley de Ingresos de la Federación para el ejercicio fiscal correspondiente;
 
@@ -109,7 +109,7 @@ XLII. Ramos autónomos: los ramos por medio de los cuales se asignan recursos en
 
 XLIII. Ramos generales: los ramos cuya asignación de recursos se prevé en el Presupuesto de Egresos derivada de disposiciones legales o por disposición expresa de la Cámara de Diputados en el Presupuesto de Egresos, que no corresponden al gasto directo de las dependencias, aunque su ejercicio esté a cargo de éstas;
 
-XLIV. Reglamento: el Reglamento de la Ley Federal de Presupuesto y [Responsabilidad Hacendaria](articulo-2.md);
+XLIV. Reglamento: el Reglamento de la Ley Federal de Presupuesto y Responsabilidad Hacendaria;
 
 XLV. Reglas de operación: las disposiciones a las cuales se sujetan determinados programas y fondos federales con el objeto de otorgar transparencia y asegurar la aplicación eficiente, eficaz, oportuna y equitativa de los recursos públicos asignados a los mismos;
 

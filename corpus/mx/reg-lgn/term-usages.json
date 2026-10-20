@@ -136,15 +136,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgn:article:2:term-usage:1442-1445",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:2",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgn:term:ley",
-    "span": "Ley",
-    "start_char": 1442,
-    "end_char": 1445
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgn:article:2:term-usage:1559-1570",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgn:term:institucion",
@@ -1981,15 +1972,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgn:article:25:term-usage:4511-4522",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:25",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgn:term:ley-general",
-    "span": "Ley General",
-    "start_char": 4511,
-    "end_char": 4522
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgn:article:25:term-usage:4575-4578",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:25",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgn:term:ley",
@@ -3520,15 +3502,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgn:article:35:term-usage:3323-3326",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:35",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgn:term:ley",
-    "span": "Ley",
-    "start_char": 3323,
-    "end_char": 3326
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgn:article:35:term-usage:5942-5960",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:35",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgn:term:ministerio-publico",
@@ -3718,15 +3691,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgn:article:39:term-usage:2429-2432",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:39",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgn:term:ley",
-    "span": "Ley",
-    "start_char": 2429,
-    "end_char": 2432
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgn:article:39:term-usage:3230-3241",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:39",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgn:term:institucion",
@@ -3742,15 +3706,6 @@
     "span": "Secretaría",
     "start_char": 3427,
     "end_char": 3437
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgn:article:39:term-usage:4206-4209",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:39",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgn:term:ley",
-    "span": "Ley",
-    "start_char": 4206,
-    "end_char": 4209
   },
   {
     "schema_version": "0.1.0",
@@ -4222,15 +4177,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgn:article:44:term-usage:4198-4209",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:44",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgn:term:ley-general",
-    "span": "Ley General",
-    "start_char": 4198,
-    "end_char": 4209
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgn:article:44:term-usage:4535-4546",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:44",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgn:term:institucion",
@@ -4573,15 +4519,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgn:article:47:term-usage:1977-1988",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:47",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgn:term:ley-general",
-    "span": "Ley General",
-    "start_char": 1977,
-    "end_char": 1988
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgn:article:47:term-usage:2252-2262",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:47",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgn:term:reglamento",
@@ -4888,30 +4825,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgn:article:48:term-usage:7357-7368",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:48",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgn:term:ley-general",
-    "span": "Ley General",
-    "start_char": 7357,
-    "end_char": 7368
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgn:article:48:term-usage:7424-7427",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:48",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgn:term:ley",
     "span": "Ley",
     "start_char": 7424,
     "end_char": 7427
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgn:article:48:term-usage:7491-7502",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:48",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgn:term:ley-general",
-    "span": "Ley General",
-    "start_char": 7491,
-    "end_char": 7502
   },
   {
     "schema_version": "0.1.0",
@@ -5038,15 +4957,6 @@
     "span": "Presidente",
     "start_char": 2176,
     "end_char": 2186
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgn:article:50:term-usage:2265-2268",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:50",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgn:term:ley",
-    "span": "Ley",
-    "start_char": 2265,
-    "end_char": 2268
   },
   {
     "schema_version": "0.1.0",
@@ -5545,39 +5455,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgn:article:66:term-usage:140-143",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:66",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgn:term:ley",
-    "span": "Ley",
-    "start_char": 140,
-    "end_char": 143
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgn:article:66:term-usage:447-457",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:66",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgn:term:secretaria",
     "span": "Secretaría",
     "start_char": 447,
     "end_char": 457
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgn:article:66:term-usage:620-623",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:66",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgn:term:ley",
-    "span": "Ley",
-    "start_char": 620,
-    "end_char": 623
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgn:article:66:term-usage:674-685",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:66",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgn:term:ley-general",
-    "span": "Ley General",
-    "start_char": 674,
-    "end_char": 685
   },
   {
     "schema_version": "0.1.0",
@@ -6760,30 +6643,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgn:article:142:term-usage:281-284",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:142",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgn:term:ley",
-    "span": "Ley",
-    "start_char": 281,
-    "end_char": 284
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgn:article:149:term-usage:808-818",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:149",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgn:term:comandante",
     "span": "Comandante",
     "start_char": 808,
     "end_char": 818
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgn:article:149:term-usage:1349-1352",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:149",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgn:term:ley",
-    "span": "Ley",
-    "start_char": 1349,
-    "end_char": 1352
   },
   {
     "schema_version": "0.1.0",
@@ -6877,15 +6742,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgn:article:157:term-usage:334-337",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:157",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgn:term:ley",
-    "span": "Ley",
-    "start_char": 334,
-    "end_char": 337
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgn:article:157:term-usage:373-383",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:157",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgn:term:reglamento",
@@ -6955,15 +6811,6 @@
     "span": "Institución",
     "start_char": 1792,
     "end_char": 1803
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgn:article:159:term-usage:2153-2156",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:159",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgn:term:ley",
-    "span": "Ley",
-    "start_char": 2153,
-    "end_char": 2156
   },
   {
     "schema_version": "0.1.0",
@@ -7327,15 +7174,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgn:article:185:term-usage:3-6",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:185",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgn:term:ley",
-    "span": "Ley",
-    "start_char": 3,
-    "end_char": 6
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgn:article:188:term-usage:21-42",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:188",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgn:term:integrante-de-carrera",
@@ -7522,15 +7360,6 @@
     "span": "Presidente",
     "start_char": 468,
     "end_char": 478
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgn:article:226:term-usage:161-164",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:226",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgn:term:ley",
-    "span": "Ley",
-    "start_char": 161,
-    "end_char": 164
   },
   {
     "schema_version": "0.1.0",
@@ -8674,15 +8503,6 @@
     "span": "Ministerio Público",
     "start_char": 1449,
     "end_char": 1467
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgn:article:254:term-usage:1512-1515",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:254",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgn:term:ley",
-    "span": "Ley",
-    "start_char": 1512,
-    "end_char": 1515
   },
   {
     "schema_version": "0.1.0",

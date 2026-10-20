@@ -27,7 +27,7 @@ La Secretaría notificará al solicitante, en su caso, la resolución negativa o
 
 Si la Secretaría no emite resolución alguna en los términos antes señalados o dentro de los cinco días hábiles siguientes a que reciba el desahogo de la prevención, la solicitud se tendrá por admitida;
 
-II. Admitida la solicitud, la Secretaría, en un plazo de tres días hábiles, solicitará la opinión de la Comisión Federal de Competencia, la cual se desahogará de conformidad con el procedimiento señalado en el artículo [50](../../reg-lfce/markdown/articulo-50.md) del Reglamento de la [Ley](articulo-2.md) Federal de Competencia Económica, para cuyo efecto debe turnarle copia del expediente respectivo;
+II. Admitida la solicitud, la Secretaría, en un plazo de tres días hábiles, solicitará la opinión de la Comisión Federal de Competencia, la cual se desahogará de conformidad con el procedimiento señalado en el artículo [50](../../reg-lfce/markdown/articulo-50.md) del Reglamento de la Ley Federal de Competencia Económica, para cuyo efecto debe turnarle copia del expediente respectivo;
 
 III. Recibida la opinión de la Comisión Federal de Competencia, la Secretaría, dentro de los treinta días hábiles siguientes emitirá, en su caso, un proyecto de resolución sobre las bases de regulación tarifaria y dará vista a los interesados por un plazo de quince días hábiles para que manifiesten lo que a su derecho convenga, y
 

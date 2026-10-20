@@ -5977,15 +5977,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:transitory:segundo:term-usage:490-507",
-    "provision_id": "urn:lex-mx:federal:statute:lpdusf:transitory:segundo",
-    "term_id": "urn:lex-mx:federal:statute:lpdusf:term:comision-nacional",
-    "span": "Comisión Nacional",
-    "start_char": 490,
-    "end_char": 507
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lpdusf:transitory:tercero:term-usage:74-91",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:transitory:tercero",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:comision-nacional",

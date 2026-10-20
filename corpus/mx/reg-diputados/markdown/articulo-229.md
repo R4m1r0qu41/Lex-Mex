@@ -17,4 +17,4 @@ source_sha256: 6fa1d25c31c4d8c2cc8074208b10a2f3ff35fecce26c1cc03ba18117cfec80d1
 
 # Artículo 229
 
-1. La aprobación del dictamen no suspende el trámite de las acciones promovidas por la Auditoría Superior de la Federación, mismas que seguirán el procedimiento previsto en la [Ley](articulo-2.md) de Fiscalización y Rendición de Cuentas de la Federación.
+1. La aprobación del dictamen no suspende el trámite de las acciones promovidas por la Auditoría Superior de la Federación, mismas que seguirán el procedimiento previsto en la Ley de Fiscalización y Rendición de Cuentas de la Federación.

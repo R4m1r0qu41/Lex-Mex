@@ -17,6 +17,6 @@ source_sha256: bcc21844355854fe331c842c21436d721d6c2856b5c5986715fe39f4a845b317
 
 A partir de la entrada en vigor de este Decreto el organismo descentralizado denominado Organismo Promotor de Medios Audiovisuales, se transforma en el [Sistema](articulo-2.md) Público de Radiodifusión del Estado Mexicano, el cual contará con los recursos humanos, presupuestales, financieros y materiales del organismo citado.
 
-En tanto se emite el [Estatuto Orgánico](articulo-2.md) del Sistema Público de Radiodifusión del Estado Mexicano, continuará aplicándose, en lo que no se oponga a la [Ley](articulo-2.md) del Sistema Público de Radiodifusión del Estado Mexicano, el Estatuto Orgánico del Organismo Promotor de Medios Audiovisuales.
+En tanto se emite el [Estatuto Orgánico](articulo-2.md) del Sistema Público de Radiodifusión del Estado Mexicano, continuará aplicándose, en lo que no se oponga a la Ley del Sistema Público de Radiodifusión del Estado Mexicano, el Estatuto Orgánico del Organismo Promotor de Medios Audiovisuales.
 
 Los derechos laborales del personal del Organismo Promotor de Medios Audiovisuales se respetarán conforme a la ley.

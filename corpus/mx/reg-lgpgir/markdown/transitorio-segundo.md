@@ -15,4 +15,4 @@ source_sha256: ef64bacccac32c63c214d59f4860251db0365fc125840a6504c195288077888c
 
 # SEGUNDO
 
-Se abroga el [Reglamento](articulo-2.md) de la [Ley](articulo-2.md) General del Equilibrio Ecológico y la Protección al Ambiente en materia de Residuos Peligrosos, publicado el 25 de noviembre de 1988 en el Diario Oficial de la Federación.
+Se abroga el [Reglamento](articulo-2.md) de la Ley General del Equilibrio Ecológico y la Protección al Ambiente en materia de Residuos Peligrosos, publicado el 25 de noviembre de 1988 en el Diario Oficial de la Federación.

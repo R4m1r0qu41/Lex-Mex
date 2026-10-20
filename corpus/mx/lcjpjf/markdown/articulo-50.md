@@ -17,4 +17,4 @@ source_sha256: 1307711de5651aa4df9452c8ea4a2e519ab6725b85c014a2e1844a9f8e823f4f
 
 # Artículo 50
 
-Sustituciones y licencias Para los efectos de las sustituciones y licencias de las servidoras públicas y los servidores públicos de la [Carrera Judicial](articulo-2.md), se estará a lo dispuesto en la [Ley](articulo-2.md) Orgánica del Poder Judicial de la Federación y en los acuerdos generales conducentes.
+Sustituciones y licencias Para los efectos de las sustituciones y licencias de las servidoras públicas y los servidores públicos de la [Carrera Judicial](articulo-2.md), se estará a lo dispuesto en la Ley Orgánica del Poder Judicial de la Federación y en los acuerdos generales conducentes.

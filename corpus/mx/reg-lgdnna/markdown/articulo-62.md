@@ -25,6 +25,6 @@ Los requisitos para la expedición de la certificación a que se refiere este ar
 
 El Sistema Nacional DIF podrá solicitar información complementaria que considere necesaria para asegurar y preservar el interés superior de la niñez, mediante Acuerdo que publique en el Diario Oficial de la Federación.
 
-En caso de que la familia solicitante no presente la documentación completa o la Procuraduría Federal requiera información adicional en términos del párrafo anterior, procederá conforme a lo dispuesto en el artículo [17-A](../../lfpa/markdown/articulo-17-A.md) de la [Ley](articulo-2.md) Federal de Procedimiento Administrativo.
+En caso de que la familia solicitante no presente la documentación completa o la Procuraduría Federal requiera información adicional en términos del párrafo anterior, procederá conforme a lo dispuesto en el artículo [17-A](../../lfpa/markdown/articulo-17-A.md) de la Ley Federal de Procedimiento Administrativo.
 
 El Sistema Nacional DIF, a través de la Procuraduría Federal, impulsará la homologación de requisitos para constituirse como Familia de Acogida mediante la celebración de convenios con las autoridades competentes de las entidades federativas.

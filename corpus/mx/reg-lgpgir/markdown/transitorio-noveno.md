@@ -15,4 +15,4 @@ source_sha256: ef64bacccac32c63c214d59f4860251db0365fc125840a6504c195288077888c
 
 # NOVENO
 
-Los obligados a presentar los informes de generación o de manejo de residuos peligrosos utilizarán el formato de Cédula de Operación Anual a que se refiere el artículo 10 del [Reglamento](articulo-2.md) de la [Ley](articulo-2.md) General del Equilibrio Ecológico y la Protección al Ambiente en materia del Registro de Emisiones y Transferencias de Contaminantes.
+Los obligados a presentar los informes de generación o de manejo de residuos peligrosos utilizarán el formato de Cédula de Operación Anual a que se refiere el artículo 10 del [Reglamento](articulo-2.md) de la Ley General del Equilibrio Ecológico y la Protección al Ambiente en materia del Registro de Emisiones y Transferencias de Contaminantes.

@@ -1,15 +1,6 @@
 [
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-liva:article:1:term-usage:73-81",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-liva:article:1",
-    "term_id": "urn:lex-mx:federal:regulation:reg-liva:term:impuesto",
-    "span": "Impuesto",
-    "start_char": 73,
-    "end_char": 81
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-liva:article:1:term-usage:294-297",
     "provision_id": "urn:lex-mx:federal:regulation:reg-liva:article:1",
     "term_id": "urn:lex-mx:federal:regulation:reg-liva:term:ley",
@@ -262,24 +253,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-liva:article:21:term-usage:695-698",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-liva:article:21",
-    "term_id": "urn:lex-mx:federal:regulation:reg-liva:term:ley",
-    "span": "Ley",
-    "start_char": 695,
-    "end_char": 698
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-liva:article:21:term-usage:703-711",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-liva:article:21",
-    "term_id": "urn:lex-mx:federal:regulation:reg-liva:term:impuesto",
-    "span": "Impuesto",
-    "start_char": 703,
-    "end_char": 711
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-liva:article:22-a:term-usage:88-91",
     "provision_id": "urn:lex-mx:federal:regulation:reg-liva:article:22-a",
     "term_id": "urn:lex-mx:federal:regulation:reg-liva:term:ley",
@@ -388,48 +361,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-liva:article:25:term-usage:287-290",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-liva:article:25",
-    "term_id": "urn:lex-mx:federal:regulation:reg-liva:term:ley",
-    "span": "Ley",
-    "start_char": 287,
-    "end_char": 290
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-liva:article:25:term-usage:295-303",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-liva:article:25",
-    "term_id": "urn:lex-mx:federal:regulation:reg-liva:term:impuesto",
-    "span": "Impuesto",
-    "start_char": 295,
-    "end_char": 303
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-liva:article:26:term-usage:57-60",
     "provision_id": "urn:lex-mx:federal:regulation:reg-liva:article:26",
     "term_id": "urn:lex-mx:federal:regulation:reg-liva:term:ley",
     "span": "Ley",
     "start_char": 57,
     "end_char": 60
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-liva:article:26:term-usage:263-266",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-liva:article:26",
-    "term_id": "urn:lex-mx:federal:regulation:reg-liva:term:ley",
-    "span": "Ley",
-    "start_char": 263,
-    "end_char": 266
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-liva:article:26:term-usage:271-279",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-liva:article:26",
-    "term_id": "urn:lex-mx:federal:regulation:reg-liva:term:impuesto",
-    "span": "Impuesto",
-    "start_char": 271,
-    "end_char": 279
   },
   {
     "schema_version": "0.1.0",
@@ -586,24 +523,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-liva:article:39:term-usage:210-213",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-liva:article:39",
-    "term_id": "urn:lex-mx:federal:regulation:reg-liva:term:ley",
-    "span": "Ley",
-    "start_char": 210,
-    "end_char": 213
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-liva:article:39:term-usage:218-226",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-liva:article:39",
-    "term_id": "urn:lex-mx:federal:regulation:reg-liva:term:impuesto",
-    "span": "Impuesto",
-    "start_char": 218,
-    "end_char": 226
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-liva:article:39-a:term-usage:58-61",
     "provision_id": "urn:lex-mx:federal:regulation:reg-liva:article:39-a",
     "term_id": "urn:lex-mx:federal:regulation:reg-liva:term:ley",
@@ -622,39 +541,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-liva:article:40:term-usage:169-172",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-liva:article:40",
-    "term_id": "urn:lex-mx:federal:regulation:reg-liva:term:ley",
-    "span": "Ley",
-    "start_char": 169,
-    "end_char": 172
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-liva:article:40:term-usage:177-185",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-liva:article:40",
-    "term_id": "urn:lex-mx:federal:regulation:reg-liva:term:impuesto",
-    "span": "Impuesto",
-    "start_char": 177,
-    "end_char": 185
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-liva:article:40-a:term-usage:60-63",
     "provision_id": "urn:lex-mx:federal:regulation:reg-liva:article:40-a",
     "term_id": "urn:lex-mx:federal:regulation:reg-liva:term:ley",
     "span": "Ley",
     "start_char": 60,
     "end_char": 63
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-liva:article:40-a:term-usage:301-304",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-liva:article:40-a",
-    "term_id": "urn:lex-mx:federal:regulation:reg-liva:term:ley",
-    "span": "Ley",
-    "start_char": 301,
-    "end_char": 304
   },
   {
     "schema_version": "0.1.0",
@@ -808,15 +700,6 @@
     "span": "Ley",
     "start_char": 39,
     "end_char": 42
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-liva:article:51:term-usage:157-160",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-liva:article:51",
-    "term_id": "urn:lex-mx:federal:regulation:reg-liva:term:ley",
-    "span": "Ley",
-    "start_char": 157,
-    "end_char": 160
   },
   {
     "schema_version": "0.1.0",
@@ -1051,14 +934,5 @@
     "span": "Ley",
     "start_char": 30,
     "end_char": 33
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-liva:transitory:segundo:term-usage:38-46",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-liva:transitory:segundo",
-    "term_id": "urn:lex-mx:federal:regulation:reg-liva:term:impuesto",
-    "span": "Impuesto",
-    "start_char": 38,
-    "end_char": 46
   }
 ]

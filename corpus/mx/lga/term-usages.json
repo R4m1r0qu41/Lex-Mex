@@ -55,24 +55,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lga:article:3:term-usage:472-475",
-    "provision_id": "urn:lex-mx:federal:statute:lga:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lga:term:ley",
-    "span": "Ley",
-    "start_char": 472,
-    "end_char": 475
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lga:article:3:term-usage:525-528",
-    "provision_id": "urn:lex-mx:federal:statute:lga:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lga:term:ley",
-    "span": "Ley",
-    "start_char": 525,
-    "end_char": 528
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lga:article:4:term-usage:25-28",
     "provision_id": "urn:lex-mx:federal:statute:lga:article:4",
     "term_id": "urn:lex-mx:federal:statute:lga:term:ley",
@@ -115,15 +97,6 @@
     "span": "Archivo General",
     "start_char": 4001,
     "end_char": 4016
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lga:article:4:term-usage:8463-8471",
-    "provision_id": "urn:lex-mx:federal:statute:lga:article:4",
-    "term_id": "urn:lex-mx:federal:statute:lga:term:archivo",
-    "span": "Archivos",
-    "start_char": 8463,
-    "end_char": 8471
   },
   {
     "schema_version": "0.1.0",
@@ -178,24 +151,6 @@
     "span": "Ley",
     "start_char": 830,
     "end_char": 833
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lga:article:9:term-usage:152-155",
-    "provision_id": "urn:lex-mx:federal:statute:lga:article:9",
-    "term_id": "urn:lex-mx:federal:statute:lga:term:ley",
-    "span": "Ley",
-    "start_char": 152,
-    "end_char": 155
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lga:article:9:term-usage:284-287",
-    "provision_id": "urn:lex-mx:federal:statute:lga:article:9",
-    "term_id": "urn:lex-mx:federal:statute:lga:term:ley",
-    "span": "Ley",
-    "start_char": 284,
-    "end_char": 287
   },
   {
     "schema_version": "0.1.0",
@@ -286,15 +241,6 @@
     "span": "Ley",
     "start_char": 535,
     "end_char": 538
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lga:article:14:term-usage:246-249",
-    "provision_id": "urn:lex-mx:federal:statute:lga:article:14",
-    "term_id": "urn:lex-mx:federal:statute:lga:term:ley",
-    "span": "Ley",
-    "start_char": 246,
-    "end_char": 249
   },
   {
     "schema_version": "0.1.0",
@@ -982,15 +928,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lga:article:75:term-usage:243-246",
-    "provision_id": "urn:lex-mx:federal:statute:lga:article:75",
-    "term_id": "urn:lex-mx:federal:statute:lga:term:ley",
-    "span": "Ley",
-    "start_char": 243,
-    "end_char": 246
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lga:article:75:term-usage:347-364",
     "provision_id": "urn:lex-mx:federal:statute:lga:article:75",
     "term_id": "urn:lex-mx:federal:statute:lga:term:registro-nacional",
@@ -1033,15 +970,6 @@
     "span": "Consejo Nacional",
     "start_char": 248,
     "end_char": 264
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lga:article:77:term-usage:209-212",
-    "provision_id": "urn:lex-mx:federal:statute:lga:article:77",
-    "term_id": "urn:lex-mx:federal:statute:lga:term:ley",
-    "span": "Ley",
-    "start_char": 209,
-    "end_char": 212
   },
   {
     "schema_version": "0.1.0",
@@ -1198,39 +1126,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lga:article:84:term-usage:239-242",
-    "provision_id": "urn:lex-mx:federal:statute:lga:article:84",
-    "term_id": "urn:lex-mx:federal:statute:lga:term:ley",
-    "span": "Ley",
-    "start_char": 239,
-    "end_char": 242
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lga:article:84:term-usage:280-283",
-    "provision_id": "urn:lex-mx:federal:statute:lga:article:84",
-    "term_id": "urn:lex-mx:federal:statute:lga:term:ley",
-    "span": "Ley",
-    "start_char": 280,
-    "end_char": 283
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lga:article:85:term-usage:130-133",
     "provision_id": "urn:lex-mx:federal:statute:lga:article:85",
     "term_id": "urn:lex-mx:federal:statute:lga:term:ley",
     "span": "Ley",
     "start_char": 130,
     "end_char": 133
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lga:article:86:term-usage:147-150",
-    "provision_id": "urn:lex-mx:federal:statute:lga:article:86",
-    "term_id": "urn:lex-mx:federal:statute:lga:term:ley",
-    "span": "Ley",
-    "start_char": 147,
-    "end_char": 150
   },
   {
     "schema_version": "0.1.0",
@@ -1357,15 +1258,6 @@
     "span": "Archivo General",
     "start_char": 20,
     "end_char": 35
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lga:article:97:term-usage:239-242",
-    "provision_id": "urn:lex-mx:federal:statute:lga:article:97",
-    "term_id": "urn:lex-mx:federal:statute:lga:term:ley",
-    "span": "Ley",
-    "start_char": 239,
-    "end_char": 242
   },
   {
     "schema_version": "0.1.0",
@@ -1513,15 +1405,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lga:article:109:term-usage:116-119",
-    "provision_id": "urn:lex-mx:federal:statute:lga:article:109",
-    "term_id": "urn:lex-mx:federal:statute:lga:term:ley",
-    "span": "Ley",
-    "start_char": 116,
-    "end_char": 119
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lga:article:109:term-usage:325-340",
     "provision_id": "urn:lex-mx:federal:statute:lga:article:109",
     "term_id": "urn:lex-mx:federal:statute:lga:term:archivo-general",
@@ -1630,15 +1513,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lga:article:112:term-usage:49-52",
-    "provision_id": "urn:lex-mx:federal:statute:lga:article:112",
-    "term_id": "urn:lex-mx:federal:statute:lga:term:ley",
-    "span": "Ley",
-    "start_char": 49,
-    "end_char": 52
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lga:article:112:term-usage:214-229",
     "provision_id": "urn:lex-mx:federal:statute:lga:article:112",
     "term_id": "urn:lex-mx:federal:statute:lga:term:archivo-general",
@@ -1708,24 +1582,6 @@
     "span": "Archivo General",
     "start_char": 3,
     "end_char": 18
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lga:article:113:term-usage:144-147",
-    "provision_id": "urn:lex-mx:federal:statute:lga:article:113",
-    "term_id": "urn:lex-mx:federal:statute:lga:term:ley",
-    "span": "Ley",
-    "start_char": 144,
-    "end_char": 147
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lga:article:113:term-usage:198-201",
-    "provision_id": "urn:lex-mx:federal:statute:lga:article:113",
-    "term_id": "urn:lex-mx:federal:statute:lga:term:ley",
-    "span": "Ley",
-    "start_char": 198,
-    "end_char": 201
   },
   {
     "schema_version": "0.1.0",

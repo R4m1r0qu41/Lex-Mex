@@ -17,4 +17,4 @@ source_sha256: 2f931111ab2745aa5a3b2ef0a99dc5beaf73d78f7674f2d90b4462319c1fc688
 
 # Artículo 97
 
-En todo momento, el [Archivo General](articulo-4.md) podrá recuperar la posesión del documento de archivo que constituya patrimonio documental de la Nación, cuando se ponga en riesgo su integridad, debiéndose observar las disposiciones reglamentarias y la [Ley](articulo-4.md) Federal de Procedimiento Administrativo, incluyendo la garantía de audiencia, así como las demás disposiciones jurídicas aplicables.
+En todo momento, el [Archivo General](articulo-4.md) podrá recuperar la posesión del documento de archivo que constituya patrimonio documental de la Nación, cuando se ponga en riesgo su integridad, debiéndose observar las disposiciones reglamentarias y la Ley Federal de Procedimiento Administrativo, incluyendo la garantía de audiencia, así como las demás disposiciones jurídicas aplicables.

@@ -19,7 +19,7 @@ source_sha256: 2828ab54bad472120dc40073d722c684b122a714662f3559bfcf22a79f04bfe9
 
 Las dependencias y entidades que, por las características, complejidad y magnitud de las obras que realicen, cuenten o requieran de normas técnicas para que se apliquen en sus especificaciones generales de construcción, deberán exigir su cumplimiento.
 
-En los procedimientos de contratación que realicen las dependencias y entidades, se deberá exigir el cumplimiento de las normas oficiales mexicanas o estándares, según proceda y, en su caso, las normas internacionales, de conformidad con la [Ley](articulo-2.md) de Infraestructura de la Calidad. Párrafo reformado DOF 27-09-2022
+En los procedimientos de contratación que realicen las dependencias y entidades, se deberá exigir el cumplimiento de las normas oficiales mexicanas o estándares, según proceda y, en su caso, las normas internacionales, de conformidad con la Ley de Infraestructura de la Calidad. Párrafo reformado DOF 27-09-2022
 
 El titular del [Área responsable de la contratación](articulo-2.md), con base en lo que determine el [Área técnica](articulo-2.md), deberá indicar en la convocatoria a la licitación pública, invitación a cuando menos tres personas o solicitud de cotización, según corresponda, el nombre y los datos de identificación de la o las normas que deben cumplirse en el procedimiento de contratación respectivo, así como verificar que la inclusión de las normas o especificaciones señaladas en el párrafo anterior no limita la libre participación y concurrencia de los interesados.
 

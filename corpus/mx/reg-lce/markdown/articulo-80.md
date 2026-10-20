@@ -29,7 +29,7 @@ IV. El nombre o razón social y domicilio del importador o de los importadores, 
 
 V. El país o países de origen o procedencia de las mercancías de que se trate;
 
-VI. La descripción de la mercancía objeto de investigación, indicando la fracción arancelaria que le corresponda de la Tarifa de la [Ley](articulo-1o.md) de los Impuestos Generales de Importación y de Exportación; VII. La descripción de la mercancía nacional idéntica o similar a la mercancía objeto de investigación;
+VI. La descripción de la mercancía objeto de investigación, indicando la fracción arancelaria que le corresponda de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación; VII. La descripción de la mercancía nacional idéntica o similar a la mercancía objeto de investigación;
 
 VIII. El periodo objeto de investigación, y
 

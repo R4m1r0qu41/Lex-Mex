@@ -17,6 +17,6 @@ source_sha256: 3ae8175ed89c2729e71551aac6ef879dfdd3da40cc03bae6784d61951c2c284d
 
 # Artículo 127
 
-Se crea la [Junta Permanente](articulo-3.md) en términos de la [Ley](articulo-3.md) de Desarrollo Rural Sustentable, la que tendrá plena competencia para conocer y resolver todas aquellas controversias azucareras que le sean sometidas.
+Se crea la [Junta Permanente](articulo-3.md) en términos de la Ley de Desarrollo Rural Sustentable, la que tendrá plena competencia para conocer y resolver todas aquellas controversias azucareras que le sean sometidas.
 
 En ningún caso la Junta Permanente intervendrá en controversias de carácter interno de las [Organizaciones](articulo-3.md) o en asuntos políticos de las mismas.

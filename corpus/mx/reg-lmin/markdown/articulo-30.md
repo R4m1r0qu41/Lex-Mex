@@ -25,7 +25,7 @@ En la segunda fase del concurso, que deberá iniciar al menos tres días hábile
 
 La propuesta económica comprenderá, exclusivamente, la contraprestación económica y la prima por descubrimiento, cuyos montos específicos serán determinados por la Secretaría o, en su defecto, ofrecidos por los participantes, en los términos de lo dispuesto por el artículo [33](articulo-33.md) de este Reglamento.
 
-En caso de haber participante ganador, el fallo o resolución del concurso deberá pronunciarse por el servidor público competente de la Secretaría y notificarse verbalmente a los presentes en el mismo acto, haciéndose constar en acta administrativa firmada por los mismos. El acto de fallo producirá sus efectos en el momento de su notificación a los interesados y podrá ser recurrido para su revisión conforme a lo dispuesto en la [Ley](articulo-1o.md) Federal de Procedimiento Administrativo.
+En caso de haber participante ganador, el fallo o resolución del concurso deberá pronunciarse por el servidor público competente de la Secretaría y notificarse verbalmente a los presentes en el mismo acto, haciéndose constar en acta administrativa firmada por los mismos. El acto de fallo producirá sus efectos en el momento de su notificación a los interesados y podrá ser recurrido para su revisión conforme a lo dispuesto en la Ley Federal de Procedimiento Administrativo.
 
 En caso de que se deba declarar desierto el concurso, la notificación del fallo surtirá sus efectos cuando sea publicada en el Diario Oficial de la Federación, lo cual se llevará a cabo a más tardar dentro de los diez días hábiles siguientes a la fecha en que haya tenido lugar la segunda fase del mismo.
 

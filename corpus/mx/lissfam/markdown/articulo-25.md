@@ -41,4 +41,4 @@ X. Para los Generales de Brigada 63
 
 XI. Para los Generales de División 65
 
-De las jerarquías del Ejército Mexicano contenidas de la fracción I a XI deberán tomarse los homólogos para la Fuerza Aérea Mexicana, la Armada y la Guardia Nacional, contenidas en las leyes orgánicas de dichas Fuerzas Armadas y la [Ley](articulo-4o.md) de la Guardia Nacional, respectivamente. Párrafo reformado DOF 16-07-2025
+De las jerarquías del Ejército Mexicano contenidas de la fracción I a XI deberán tomarse los homólogos para la Fuerza Aérea Mexicana, la Armada y la Guardia Nacional, contenidas en las leyes orgánicas de dichas Fuerzas Armadas y la Ley de la Guardia Nacional, respectivamente. Párrafo reformado DOF 16-07-2025

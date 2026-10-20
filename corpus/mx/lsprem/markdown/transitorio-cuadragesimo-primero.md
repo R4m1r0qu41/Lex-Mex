@@ -15,4 +15,4 @@ source_sha256: bcc21844355854fe331c842c21436d721d6c2856b5c5986715fe39f4a845b317
 
 # CUADRAGÉSIMO PRIMERO
 
-Las instituciones de educación superior de carácter público, que a la fecha de entrada en vigor del presente Decreto, cuenten con medios de radiodifusión a que se refieren los artículos [67](../../lftr/markdown/articulo-67.md) fracción II y [76](../../lftr/markdown/articulo-76.md) fracción II de la [Ley](articulo-2.md) Federal de Telecomunicaciones y Radiodifusión, no recibirán presupuesto adicional para ese objeto.
+Las instituciones de educación superior de carácter público, que a la fecha de entrada en vigor del presente Decreto, cuenten con medios de radiodifusión a que se refieren los artículos [67](../../lftr/markdown/articulo-67.md) fracción II y [76](../../lftr/markdown/articulo-76.md) fracción II de la Ley Federal de Telecomunicaciones y Radiodifusión, no recibirán presupuesto adicional para ese objeto.

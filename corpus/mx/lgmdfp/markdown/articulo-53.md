@@ -21,7 +21,7 @@ La [Comisión Nacional de Búsqueda](articulo-4.md) tiene las siguientes atribuc
 
 I. Emitir y ejecutar el Programa Nacional de Búsqueda, rector en la materia, de conformidad con lo dispuesto en esta Ley; II. Emitir y difundir públicamente los lineamientos que regulen el funcionamiento del [Registro Nacional](articulo-4.md) y coordinar la operación del mismo, en términos de lo que establezca esta Ley y las leyes aplicables; Fracción reformada DOF 16-07-2025
 
-III. Atender y formular solicitudes a las [Instituciones de Seguridad Pública](articulo-4.md), previstas en la Ley General del [Sistema Nacional](articulo-4.md) de Seguridad Pública, a efecto de cumplir con su objeto;
+III. Atender y formular solicitudes a las [Instituciones de Seguridad Pública](articulo-4.md), previstas en la Ley General del Sistema Nacional de Seguridad Pública, a efecto de cumplir con su objeto;
 
 IV. Solicitar el acompañamiento de las instancias policiales de los tres órdenes de gobierno, así como del personal al que se refiere el artículo [67](articulo-67.md) de esta Ley, cuando sea necesario que el personal de la Comisión Nacional de Búsqueda realice trabajos de campo;
 
@@ -69,7 +69,7 @@ XXV. Evaluar las políticas y estrategias para la búsqueda y localización de P
 
 XXVI. Conocer y opinar sobre las políticas y estrategias para la identificación de personas localizadas con vida y personas fallecidas localizadas en fosas comunes y clandestinas, así como vigilar su cumplimiento por parte de las instituciones federales y Entidades Federativas;
 
-XXVI Bis. Diseñar, ejecutar y dar seguimiento a las acciones de búsqueda forense con fines de identificación humana en coadyuvancia con las Comisiones Locales de Búsqueda, la [Fiscalía](articulo-4.md), las Fiscalías Especializadas y las instituciones que presten servicios forenses y otras instancias creadas con el fin de contribuir a la identificación humana dentro del Sistema Nacional; Fracción adicionada DOF 13-05-2022
+XXVI Bis. Diseñar, ejecutar y dar seguimiento a las acciones de búsqueda forense con fines de identificación humana en coadyuvancia con las Comisiones Locales de Búsqueda, la [Fiscalía](articulo-4.md), las Fiscalías Especializadas y las instituciones que presten servicios forenses y otras instancias creadas con el fin de contribuir a la identificación humana dentro del [Sistema Nacional](articulo-4.md); Fracción adicionada DOF 13-05-2022
 
 XXVI Ter. Recuperar, recolectar, resguardar, trasladar, transportar y analizar con fines de identificación humana los cuerpos, restos humanos y muestras óseas con fines de procesamiento genético; Fracción adicionada DOF 13-05-2022
 

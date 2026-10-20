@@ -20,4 +20,4 @@ source_sha256: a15012b33a415083f7714764c86fda8ed0078d3f5313dfc194c503f98a573a2a
 
 # Artículo 280
 
-El [Instituto](articulo-3.md) declarará si un agente económico tiene poder sustancial en algún mercado relevante de los sectores de radiodifusión o telecomunicaciones, de acuerdo con el procedimiento establecido en la [Ley](articulo-3.md) Federal de Competencia Económica, así como las disposiciones sustantivas previstas en dicha ley y en la presente Ley.
+El [Instituto](articulo-3.md) declarará si un agente económico tiene poder sustancial en algún mercado relevante de los sectores de radiodifusión o telecomunicaciones, de acuerdo con el procedimiento establecido en la Ley Federal de Competencia Económica, así como las disposiciones sustantivas previstas en dicha ley y en la presente [Ley](articulo-3.md).

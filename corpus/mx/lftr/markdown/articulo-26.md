@@ -20,4 +20,4 @@ source_sha256: a15012b33a415083f7714764c86fda8ed0078d3f5313dfc194c503f98a573a2a
 
 # Artículo 26
 
-La autoridad investigadora conocerá de la etapa de investigación y será parte en el procedimiento seguido en forma de juicio de conformidad con lo establecido en la [Ley](articulo-3.md) Federal de Competencia Económica. En el ejercicio de sus atribuciones, la unidad estará dotada de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones. El estatuto orgánico del [Instituto](articulo-3.md) establecerá la estructura con la que contará.
+La autoridad investigadora conocerá de la etapa de investigación y será parte en el procedimiento seguido en forma de juicio de conformidad con lo establecido en la Ley Federal de Competencia Económica. En el ejercicio de sus atribuciones, la unidad estará dotada de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones. El estatuto orgánico del [Instituto](articulo-3.md) establecerá la estructura con la que contará.

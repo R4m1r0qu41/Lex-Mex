@@ -100,15 +100,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lncm:article:7:term-usage:156-159",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:7",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lncm:term:ley",
-    "span": "Ley",
-    "start_char": 156,
-    "end_char": 159
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lncm:article:8:term-usage:223-226",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:8",
     "term_id": "urn:lex-mx:federal:regulation:reg-lncm:term:ley",
@@ -286,15 +277,6 @@
     "span": "UAB",
     "start_char": 5564,
     "end_char": 5567
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lncm:article:10:term-usage:5953-5956",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lncm:term:ley",
-    "span": "Ley",
-    "start_char": 5953,
-    "end_char": 5956
   },
   {
     "schema_version": "0.1.0",
@@ -793,15 +775,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lncm:article:18:term-usage:50-53",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:18",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lncm:term:ley",
-    "span": "Ley",
-    "start_char": 50,
-    "end_char": 53
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lncm:article:19:term-usage:74-77",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:19",
     "term_id": "urn:lex-mx:federal:regulation:reg-lncm:term:ley",
@@ -1132,15 +1105,6 @@
     "span": "Inspección",
     "start_char": 614,
     "end_char": 624
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lncm:article:39:term-usage:820-823",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:39",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lncm:term:ley",
-    "span": "Ley",
-    "start_char": 820,
-    "end_char": 823
   },
   {
     "schema_version": "0.1.0",
@@ -1486,15 +1450,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lncm:article:72:term-usage:384-387",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:72",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lncm:term:ley",
-    "span": "Ley",
-    "start_char": 384,
-    "end_char": 387
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lncm:article:72:term-usage:1201-1228",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:72",
     "term_id": "urn:lex-mx:federal:regulation:reg-lncm:term:autoridad-maritima-mercante",
@@ -1510,15 +1465,6 @@
     "span": "Leyes",
     "start_char": 2046,
     "end_char": 2051
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lncm:article:72:term-usage:2877-2880",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:72",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lncm:term:ley",
-    "span": "Ley",
-    "start_char": 2877,
-    "end_char": 2880
   },
   {
     "schema_version": "0.1.0",
@@ -1585,15 +1531,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lncm:article:79:term-usage:683-686",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:79",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lncm:term:ley",
-    "span": "Ley",
-    "start_char": 683,
-    "end_char": 686
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lncm:article:80:term-usage:460-463",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:80",
     "term_id": "urn:lex-mx:federal:regulation:reg-lncm:term:uab",
@@ -1621,30 +1558,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lncm:article:88:term-usage:308-311",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:88",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lncm:term:ley",
-    "span": "Ley",
-    "start_char": 308,
-    "end_char": 311
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lncm:article:92:term-usage:132-135",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:92",
     "term_id": "urn:lex-mx:federal:regulation:reg-lncm:term:ley",
     "span": "Ley",
     "start_char": 132,
     "end_char": 135
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lncm:article:93:term-usage:61-64",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:93",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lncm:term:ley",
-    "span": "Ley",
-    "start_char": 61,
-    "end_char": 64
   },
   {
     "schema_version": "0.1.0",
@@ -5653,15 +5572,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lncm:article:225:term-usage:620-623",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:225",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lncm:term:ley",
-    "span": "Ley",
-    "start_char": 620,
-    "end_char": 623
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lncm:article:226:term-usage:204-207",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:226",
     "term_id": "urn:lex-mx:federal:regulation:reg-lncm:term:ley",
@@ -5716,15 +5626,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lncm:article:227:term-usage:504-507",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:227",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lncm:term:ley",
-    "span": "Ley",
-    "start_char": 504,
-    "end_char": 507
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lncm:article:229:term-usage:79-82",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:229",
     "term_id": "urn:lex-mx:federal:regulation:reg-lncm:term:ley",
@@ -5740,15 +5641,6 @@
     "span": "Dirección General",
     "start_char": 197,
     "end_char": 214
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lncm:article:229:term-usage:349-352",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:229",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lncm:term:ley",
-    "span": "Ley",
-    "start_char": 349,
-    "end_char": 352
   },
   {
     "schema_version": "0.1.0",
@@ -5803,15 +5695,6 @@
     "span": "Dirección General",
     "start_char": 263,
     "end_char": 280
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lncm:article:232:term-usage:368-371",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:232",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lncm:term:ley",
-    "span": "Ley",
-    "start_char": 368,
-    "end_char": 371
   },
   {
     "schema_version": "0.1.0",
@@ -5992,15 +5875,6 @@
     "span": "Ley",
     "start_char": 74,
     "end_char": 77
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lncm:article:243:term-usage:85-88",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:243",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lncm:term:ley",
-    "span": "Ley",
-    "start_char": 85,
-    "end_char": 88
   },
   {
     "schema_version": "0.1.0",
@@ -6976,15 +6850,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lncm:article:300:term-usage:410-413",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:300",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lncm:term:ley",
-    "span": "Ley",
-    "start_char": 410,
-    "end_char": 413
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lncm:article:301:term-usage:245-248",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:301",
     "term_id": "urn:lex-mx:federal:regulation:reg-lncm:term:ley",
@@ -7666,15 +7531,6 @@
     "span": "Dirección General",
     "start_char": 651,
     "end_char": 668
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lncm:article:328:term-usage:943-946",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:328",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lncm:term:ley",
-    "span": "Ley",
-    "start_char": 943,
-    "end_char": 946
   },
   {
     "schema_version": "0.1.0",
@@ -10423,15 +10279,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lncm:article:452:term-usage:335-338",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:452",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lncm:term:ley",
-    "span": "Ley",
-    "start_char": 335,
-    "end_char": 338
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lncm:article:453:term-usage:28-49",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:453",
     "term_id": "urn:lex-mx:federal:regulation:reg-lncm:term:embarcaciones-mayores",
@@ -10576,15 +10423,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lncm:article:458:term-usage:135-138",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:458",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lncm:term:ley",
-    "span": "Ley",
-    "start_char": 135,
-    "end_char": 138
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lncm:article:458:term-usage:163-182",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:458",
     "term_id": "urn:lex-mx:federal:regulation:reg-lncm:term:capitania-de-puerto",
@@ -10663,15 +10501,6 @@
     "span": "Capitanía de Puerto",
     "start_char": 37,
     "end_char": 56
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lncm:article:463:term-usage:135-138",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:463",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lncm:term:ley",
-    "span": "Ley",
-    "start_char": 135,
-    "end_char": 138
   },
   {
     "schema_version": "0.1.0",
@@ -11053,15 +10882,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lncm:article:492:term-usage:66-69",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:492",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lncm:term:ley",
-    "span": "Ley",
-    "start_char": 66,
-    "end_char": 69
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lncm:article:492:term-usage:510-523",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:492",
     "term_id": "urn:lex-mx:federal:regulation:reg-lncm:term:convenio-stcw",
@@ -11161,15 +10981,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lncm:article:500:term-usage:546-549",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:500",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lncm:term:ley",
-    "span": "Ley",
-    "start_char": 546,
-    "end_char": 549
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lncm:article:501:term-usage:522-549",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:501",
     "term_id": "urn:lex-mx:federal:regulation:reg-lncm:term:control-de-trafico-maritimo",
@@ -11248,15 +11059,6 @@
     "span": "Dirección General",
     "start_char": 519,
     "end_char": 536
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lncm:article:503:term-usage:583-586",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:503",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lncm:term:ley",
-    "span": "Ley",
-    "start_char": 583,
-    "end_char": 586
   },
   {
     "schema_version": "0.1.0",
@@ -11833,15 +11635,6 @@
     "span": "Certificado de Competencia",
     "start_char": 660,
     "end_char": 686
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lncm:article:515:term-usage:748-751",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:515",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lncm:term:ley",
-    "span": "Ley",
-    "start_char": 748,
-    "end_char": 751
   },
   {
     "schema_version": "0.1.0",
@@ -13159,24 +12952,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lncm:article:585:term-usage:368-371",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:585",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lncm:term:ley",
-    "span": "Ley",
-    "start_char": 368,
-    "end_char": 371
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lncm:article:585:term-usage:469-472",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:585",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lncm:term:ley",
-    "span": "Ley",
-    "start_char": 469,
-    "end_char": 472
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lncm:article:585:term-usage:488-505",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:585",
     "term_id": "urn:lex-mx:federal:regulation:reg-lncm:term:direccion-general",
@@ -13276,15 +13051,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lncm:article:589:term-usage:1129-1132",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:589",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lncm:term:ley",
-    "span": "Ley",
-    "start_char": 1129,
-    "end_char": 1132
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lncm:article:590:term-usage:39-66",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:590",
     "term_id": "urn:lex-mx:federal:regulation:reg-lncm:term:autoridad-maritima-mercante",
@@ -13372,15 +13138,6 @@
     "span": "Dirección General",
     "start_char": 3,
     "end_char": 20
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lncm:article:594:term-usage:438-441",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:594",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lncm:term:ley",
-    "span": "Ley",
-    "start_char": 438,
-    "end_char": 441
   },
   {
     "schema_version": "0.1.0",
@@ -13579,15 +13336,6 @@
     "span": "Ley",
     "start_char": 116,
     "end_char": 119
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lncm:article:604:term-usage:131-134",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:604",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lncm:term:ley",
-    "span": "Ley",
-    "start_char": 131,
-    "end_char": 134
   },
   {
     "schema_version": "0.1.0",

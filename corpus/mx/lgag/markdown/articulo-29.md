@@ -19,7 +19,7 @@ source_sha256: 025de5f30e5b2b422e8654f9470ddefda03486c72a732489146cfe09065d5409
 
 La política para garantizar el derecho humano al agua y saneamiento se integra con los siguientes instrumentos:
 
-I. El Programa Nacional Hídrico, establecido en la [Ley](articulo-4.md) de Aguas Nacionales;
+I. El Programa Nacional Hídrico, establecido en la Ley de Aguas Nacionales;
 
 II. Los Programas Regionales Hídricos, regulados en la Ley de Aguas Nacionales;
 

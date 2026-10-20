@@ -35,7 +35,7 @@ VI. Capacidad técnica instalada para otorgar el servicio de inspección corresp
 
 VII. En su caso, comprobante de pago de las contribuciones correspondientes.
 
-La Secretaría emitirá respuesta en un plazo máximo de sesenta días hábiles, a partir del momento en que se dictamine el expediente completo, mediante la resolución correspondiente. El trámite se realizará en los términos previstos por la [Ley](articulo-2.md) Federal de Procedimiento Administrativo.
+La Secretaría emitirá respuesta en un plazo máximo de sesenta días hábiles, a partir del momento en que se dictamine el expediente completo, mediante la resolución correspondiente. El trámite se realizará en los términos previstos por la Ley Federal de Procedimiento Administrativo.
 
 Una vez que se encuentre completo el expediente con la solicitud y toda la información requerida, la Secretaría ordenará la práctica de una verificación para comprobar que cumple con las especificaciones técnicas suficientes para prestar el servicio de inspección zoosanitaria y toma de muestras, en lo relativo a:
 
@@ -47,6 +47,6 @@ III. Materiales, y
 
 IV. Cámaras de refrigeración y congelamiento.
 
-La infraestructura, equipo y materiales deberán ser funcionales y suficientes para realizar la inspección de las mercancías reguladas, en los términos de las disposiciones de sanidad animal a que se refiere el artículo [105](../../lfsa/markdown/articulo-105.md) de la Ley.
+La infraestructura, equipo y materiales deberán ser funcionales y suficientes para realizar la inspección de las mercancías reguladas, en los términos de las disposiciones de sanidad animal a que se refiere el artículo [105](../../lfsa/markdown/articulo-105.md) de la [Ley](articulo-2.md).
 
 Los interesados deberán cumplir con los requisitos establecidos para la autorización, instalaciones, equipo y operación, que garanticen una adecuada inspección, manejo, toma de muestras, refrigeración y congelación de las mercancías reguladas para importación, que minimicen el riesgo de contaminación.

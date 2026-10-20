@@ -21,4 +21,4 @@ El Instituto Nacional de Migración dará vista a la Comisión Mexicana de Ayuda
 
 I. Cuando reciba una solicitud de la condición de refugiado o de asilo político que afecte directa o indirectamente la situación migratoria de la niña, niño o adolescente, y
 
-II. Cuando considere que existen elementos que presuman que la niña, niño o adolescente se sitúa en alguno de los supuestos previstos en el artículo [13](../../lrpcap/markdown/articulo-13.md) de la [Ley](articulo-2.md) sobre Refugiados, Protección Complementaria y Asilo Político.
+II. Cuando considere que existen elementos que presuman que la niña, niño o adolescente se sitúa en alguno de los supuestos previstos en el artículo [13](../../lrpcap/markdown/articulo-13.md) de la Ley sobre Refugiados, Protección Complementaria y Asilo Político.

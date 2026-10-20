@@ -17,4 +17,4 @@ source_sha256: 3a86c9bc8afe7162bbcc0c31a28250ca91cfbf2cb6a08deddae0653977ae3d3f
 
 # Artículo 43
 
-Las autoridades se apegarán a los plazos, requerimientos y formalidades establecidos en las disposiciones aplicables establecidas en la [Ley](articulo-2.md) Federal de Procedimiento Administrativo.
+Las autoridades se apegarán a los plazos, requerimientos y formalidades establecidos en las disposiciones aplicables establecidas en la Ley Federal de Procedimiento Administrativo.

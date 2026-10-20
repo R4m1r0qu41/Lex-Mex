@@ -17,4 +17,4 @@ source_sha256: d6c47a12a294da2615fcac2b41f76a897373325184ac9f8c5debe6357aa43f4a
 
 # Artículo 124
 
-Las personas facilitadoras en materia administrativa que incurran en una falta a sus obligaciones serán sujetas al procedimiento sancionador de conformidad con lo dispuesto por la [Ley](articulo-5.md) General de Responsabilidades Administrativas y los Lineamientos internos de cada [Tribunal de Justicia Administrativa](articulo-5.md). Lo anterior sin perjuicio de las responsabilidades penales o civiles en que pudieran haber incurrido con su conducta y que se determinarán en la vía procedente.
+Las personas facilitadoras en materia administrativa que incurran en una falta a sus obligaciones serán sujetas al procedimiento sancionador de conformidad con lo dispuesto por la Ley General de Responsabilidades Administrativas y los Lineamientos internos de cada [Tribunal de Justicia Administrativa](articulo-5.md). Lo anterior sin perjuicio de las responsabilidades penales o civiles en que pudieran haber incurrido con su conducta y que se determinarán en la vía procedente.

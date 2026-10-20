@@ -29,4 +29,4 @@ En caso de que el integrante necesite una prórroga de la licencia, lo solicitar
 
 Al presentar dicha solicitud deberá tomar las previsiones necesarias con la finalidad de que la misma sea recibida por la autoridad competente para resolverla antes de su vencimiento.
 
-En caso de que la necesidad de mantenerse separado de sus actividades, se prolongue por más de seis meses, se estará a lo previsto en la [Ley](articulo-2.md) del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
+En caso de que la necesidad de mantenerse separado de sus actividades, se prolongue por más de seis meses, se estará a lo previsto en la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.

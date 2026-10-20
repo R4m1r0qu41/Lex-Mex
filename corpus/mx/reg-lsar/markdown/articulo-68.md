@@ -43,7 +43,7 @@ a) Comprobar que los procesos de Traspaso de las Cuentas Individuales de los Tra
 
 VII. Coadyuvar al proceso de localización de los Trabajadores y de los Trabajadores no Afiliados, para permitir un ordenado Traspaso de las Cuentas Individuales de estos últimos de una Administradora a otra;
 
-VIII. Coadyuvar al proceso de localización de subcuentas de Trabajadores, a fin de presentar un ordenado Traspaso del saldo de la [Subcuenta de Vivienda](articulo-2o.md), aportaciones subsecuentes y el saldo de la Subcuenta de Vivienda afectado como garantía contingente, para el caso de Trabajadores a quienes se les otorgó un crédito de vivienda al amparo del artículo [43 bis](../../linfonavit/markdown/articulo-43-Bis.md) de la [Ley](articulo-2o.md) del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, en su caso;
+VIII. Coadyuvar al proceso de localización de subcuentas de Trabajadores, a fin de presentar un ordenado Traspaso del saldo de la [Subcuenta de Vivienda](articulo-2o.md), aportaciones subsecuentes y el saldo de la Subcuenta de Vivienda afectado como garantía contingente, para el caso de Trabajadores a quienes se les otorgó un crédito de vivienda al amparo del artículo [43 bis](../../linfonavit/markdown/articulo-43-Bis.md) de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, en su caso;
 
 IX. Coadyuvar al proceso de localización de Subcuentas del Fondo de la Vivienda, a fin de presentar un ordenado Traspaso de saldos y de las aportaciones subsecuentes, para el caso de Trabajadores a quienes se les otorgó un crédito para vivienda conforme a lo establecido en los artículos [169](../../lissste/markdown/articulo-169.md) y [176](../../lissste/markdown/articulo-176.md) de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, en su caso;
 
@@ -85,7 +85,7 @@ d) Iniciar de oficio los procesos de unificación y [Separación de Cuentas](art
 
 XVII. Coadyuvar para la devolución de los pagos indebidos o en exceso;
 
-XVIII. Prestar servicios a dependencias o entidades públicas estatales o municipales que tengan fondos de previsión social basados en Cuentas Individuales, destinados a la integración de las bases de datos de los trabajadores beneficiarios de dichos fondos de previsión social y cualquier otro servicio necesario para que la administración de las Cuentas Individuales se lleve conforme a lo dispuesto en los artículos [74 quáter](../../lsar/markdown/articulo-74-quáter.md) y [74 quinquies](../../lsar/markdown/articulo-74-quinquies.md) de la Ley;
+XVIII. Prestar servicios a dependencias o entidades públicas estatales o municipales que tengan fondos de previsión social basados en Cuentas Individuales, destinados a la integración de las bases de datos de los trabajadores beneficiarios de dichos fondos de previsión social y cualquier otro servicio necesario para que la administración de las Cuentas Individuales se lleve conforme a lo dispuesto en los artículos [74 quáter](../../lsar/markdown/articulo-74-quáter.md) y [74 quinquies](../../lsar/markdown/articulo-74-quinquies.md) de la [Ley](articulo-2o.md);
 
 XIX. Someter la previsión de ingresos y egresos a la consideración de la Comisión en forma previa a la aprobación de su plan de trabajo anual y quinquenal;
 

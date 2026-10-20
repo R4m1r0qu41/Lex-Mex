@@ -21,7 +21,7 @@ En los casos en que resulte necesario, la Policía Federal podrá auxiliarse con
 
 I. El personal técnico especializado de la [Secretaría](articulo-4.md);
 
-II. Las policías del Distrito Federal, de los estados y de los municipios, en los términos que señala la [Ley](articulo-4.md) General del Sistema Nacional de Seguridad Pública;
+II. Las policías del Distrito Federal, de los estados y de los municipios, en los términos que señala la Ley General del Sistema Nacional de Seguridad Pública;
 
 III. Los capitanes, patrones o encargados de naves o aeronaves nacionales;
 

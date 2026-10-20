@@ -17,7 +17,7 @@ source_sha256: 8e60a8ba9f27b47d26806dbae115c0803dd9ea6a3a02a1b359dc86516d40759e
 
 # Artículo 29 Bis
 
-Para que la Comisión resuelva la solicitud de opinión a que se refiere el artículo [77](../../lftr/markdown/articulo-77.md) de la [Ley](articulo-1.md) Federal de Telecomunicaciones y Radiodifusión, la sociedad de que se trate deberá presentar ante el Secretario Ejecutivo de la Comisión, lo siguiente:
+Para que la Comisión resuelva la solicitud de opinión a que se refiere el artículo [77](../../lftr/markdown/articulo-77.md) de la Ley Federal de Telecomunicaciones y Radiodifusión, la sociedad de que se trate deberá presentar ante el Secretario Ejecutivo de la Comisión, lo siguiente:
 
 I. Solicitud por escrito, en original y copia simple, en la cual se describan los datos de identificación de la sociedad solicitante, así como su estructura actual o propuesta de capital, incluyendo a todos los socios, asociados, accionistas, fondos, fideicomisos o cualquier entidad que participe o participaría en el capital de dicha sociedad, de forma directa o indirecta;
 

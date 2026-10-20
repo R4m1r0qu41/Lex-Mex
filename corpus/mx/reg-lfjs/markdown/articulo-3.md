@@ -19,7 +19,7 @@ source_sha256: 694325ff5d428da51b8f87c5939c58b1e2e8590bd86f13ade6cd284c932cdfc3
 
 Para los efectos de este Reglamento, en lo sucesivo se entenderá por:
 
-I. Apuesta: Monto susceptible de apreciarse en moneda nacional que se arriesga en un juego de los permitidos en el artículo [2](../../lfjs/markdown/articulo-2o.md) de la [Ley](articulo-3.md) Federal de Juegos y [Sorteos](articulo-3.md) y regulado por el presente reglamento con la posibilidad de obtener o ganar un premio, cuyo monto, sumado a la cantidad arriesgada debe ser superior a ésta; Fracción reformada DOF 16-11-2023
+I. Apuesta: Monto susceptible de apreciarse en moneda nacional que se arriesga en un juego de los permitidos en el artículo [2](../../lfjs/markdown/articulo-2o.md) de la [Ley](articulo-3.md) Federal de Juegos y Sorteos y regulado por el presente reglamento con la posibilidad de obtener o ganar un premio, cuyo monto, sumado a la cantidad arriesgada debe ser superior a ésta; Fracción reformada DOF 16-11-2023
 
 I. BIS. Azar: Casualidad a que se fía el resultado de un juego, el cual es completamente ajeno a la voluntad del jugador; Fracción adicionada DOF 19-10-2012
 
@@ -29,7 +29,7 @@ III. Boleto: Documento o registro electrónico autorizado que acredita al portad
 
 IV. Concentración: Procedimiento auxiliar de seguridad para los participantes, a cargo del organizador, que consiste en reunir previamente a la celebración de un sorteo los talones de los boletos participantes, en los términos fijados en el permiso correspondiente;
 
-IV BIS. Consejo Consultivo: al Consejo Consultivo de Juegos y Sorteos; Fracción adicionada DOF 16-11-2023
+IV BIS. Consejo Consultivo: al Consejo Consultivo de Juegos y [Sorteos](articulo-3.md); Fracción adicionada DOF 16-11-2023
 
 V. Dirección: La Dirección General de Juegos y Sorteos, de la [Secretaría](articulo-3.md) de Gobernación; Fracción reformada DOF 19-10-2012
 

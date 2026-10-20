@@ -17,4 +17,4 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 6
 
-Los órganos de administración del [Instituto](articulo-4.md) serán la Junta de Gobierno y la persona Titular de la Dirección General, quienes tendrán las facultades previstas en la [Ley](articulo-4.md) Federal de las Entidades Paraestatales y en su Decreto de creación, sin perjuicio de lo previsto en los artículos [5](articulo-5.md) y [9](articulo-9.md) de esta Ley.
+Los órganos de administración del [Instituto](articulo-4.md) serán la Junta de Gobierno y la persona Titular de la Dirección General, quienes tendrán las facultades previstas en la Ley Federal de las Entidades Paraestatales y en su Decreto de creación, sin perjuicio de lo previsto en los artículos [5](articulo-5.md) y [9](articulo-9.md) de esta [Ley](articulo-4.md).

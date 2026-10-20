@@ -136,15 +136,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:8:term-usage:577-605",
-    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:8",
-    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:desarrollo-integral-infantil",
-    "span": "Desarrollo Integral Infantil",
-    "start_char": 577,
-    "end_char": 605
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgpsacdii:article:8:term-usage:816-819",
     "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:8",
     "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:ley",
@@ -214,15 +205,6 @@
     "span": "Ley",
     "start_char": 2405,
     "end_char": 2408
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:8:term-usage:2472-2500",
-    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:8",
-    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:desarrollo-integral-infantil",
-    "span": "Desarrollo Integral Infantil",
-    "start_char": 2472,
-    "end_char": 2500
   },
   {
     "schema_version": "0.1.0",
@@ -1429,15 +1411,6 @@
     "span": "Centros de Atención",
     "start_char": 292,
     "end_char": 311
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:61:term-usage:334-337",
-    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:61",
-    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:ley",
-    "span": "Ley",
-    "start_char": 334,
-    "end_char": 337
   },
   {
     "schema_version": "0.1.0",

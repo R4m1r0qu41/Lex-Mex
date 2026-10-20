@@ -17,4 +17,4 @@ source_sha256: 1405f36fd836ff74d059ebe7e50ae439cbb9e5e291a317514667f34a26f72a23
 
 # Artículo 43
 
-La Secretaría de Energía debe establecer el modelo de contratación correspondiente para cada [Área Contractual](articulo-5.md) que se licite o se adjudique en términos de la presente Ley, para lo cual puede elegir, entre otros, los contratos de servicios, de utilidad o producción compartida, o de licencia. Las contraprestaciones establecidas en los Contratos para la [Exploración](articulo-5.md) y [Extracción](articulo-5.md) se deben sujetar a lo dispuesto en la Ley de Ingresos sobre [Hidrocarburos](articulo-5.md).
+La Secretaría de Energía debe establecer el modelo de contratación correspondiente para cada [Área Contractual](articulo-5.md) que se licite o se adjudique en términos de la presente Ley, para lo cual puede elegir, entre otros, los contratos de servicios, de utilidad o producción compartida, o de licencia. Las contraprestaciones establecidas en los Contratos para la [Exploración](articulo-5.md) y [Extracción](articulo-5.md) se deben sujetar a lo dispuesto en la Ley de Ingresos sobre Hidrocarburos.

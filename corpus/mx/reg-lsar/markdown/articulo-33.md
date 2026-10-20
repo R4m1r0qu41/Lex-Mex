@@ -41,7 +41,7 @@ X. Solicitar el [Traspaso](articulo-2o.md) de su Cuenta Individual a otra Admini
 
 XI. Solicitar el resarcimiento de los daños y perjuicios causados, cuando el trabajador acredite haber sido objeto de un registro o Traspaso Indebido en términos del presente Reglamento;
 
-XII. Realizar retiros de su Cuenta Individual conforme a lo establecido en la [Ley](articulo-2o.md) del Seguro Social, la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, la Ley, este Reglamento y las disposiciones de carácter general que al efecto emita la Comisión;
+XII. Realizar retiros de su Cuenta Individual conforme a lo establecido en la Ley del Seguro Social, la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, la [Ley](articulo-2o.md), este Reglamento y las disposiciones de carácter general que al efecto emita la Comisión;
 
 XIII. A que las Empresas Operadoras tengan la información de las Cuentas Individuales en la Base de Datos Nacional SAR;
 

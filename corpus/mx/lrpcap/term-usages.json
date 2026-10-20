@@ -1,42 +1,6 @@
 [
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrpcap:article:2:term-usage:908-933",
-    "provision_id": "urn:lex-mx:federal:statute:lrpcap:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lrpcap:term:proteccion-complementaria",
-    "span": "Protección Complementaria",
-    "start_char": 908,
-    "end_char": 933
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrpcap:article:2:term-usage:936-950",
-    "provision_id": "urn:lex-mx:federal:statute:lrpcap:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lrpcap:term:asilo-politico",
-    "span": "Asilo Político",
-    "start_char": 936,
-    "end_char": 950
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrpcap:article:2:term-usage:1007-1032",
-    "provision_id": "urn:lex-mx:federal:statute:lrpcap:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lrpcap:term:proteccion-complementaria",
-    "span": "Protección Complementaria",
-    "start_char": 1007,
-    "end_char": 1032
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrpcap:article:2:term-usage:1035-1049",
-    "provision_id": "urn:lex-mx:federal:statute:lrpcap:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lrpcap:term:asilo-politico",
-    "span": "Asilo Político",
-    "start_char": 1035,
-    "end_char": 1049
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lrpcap:article:2:term-usage:1335-1345",
     "provision_id": "urn:lex-mx:federal:statute:lrpcap:article:2",
     "term_id": "urn:lex-mx:federal:statute:lrpcap:term:secretaria",

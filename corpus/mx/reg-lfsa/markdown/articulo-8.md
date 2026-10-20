@@ -35,4 +35,4 @@ VII. Registros de limpieza y desinfección, y
 
 VIII. Registros de higiene del personal. La unidad de producción deberá contar con la información de seis meses anteriores a la fecha de la verificación.
 
-Para la verificación, el visitado debe facilitar el acceso y otorgar la información al personal oficial conforme a lo establecido en la [Ley](articulo-2.md) Federal de Procedimiento Administrativo en su artículo [64](articulo-64.md).
+Para la verificación, el visitado debe facilitar el acceso y otorgar la información al personal oficial conforme a lo establecido en la Ley Federal de Procedimiento Administrativo en su artículo [64](articulo-64.md).

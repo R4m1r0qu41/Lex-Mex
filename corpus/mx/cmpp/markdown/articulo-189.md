@@ -27,4 +27,4 @@ III. Que haya transcurrido dos años desde el cumplimiento o cinco años desde e
 
 Quedan exceptuados de suspensión condicional del proceso los casos en que la persona militar imputada en forma previa haya incumplido una suspensión condicional del proceso, salvo que hayan transcurrido cinco años desde el cumplimiento de la resolución a la primera suspensión condicional del proceso. Párrafo reformado DOF 16-07-2025
 
-No procederá la suspensión condicional del proceso respecto de los delitos cometidos en campaña, así como, en tiempo de paz los incluidos en el Título Noveno y el delito de abandono de servicio, previsto en el Capítulo Primero del Título Décimo del [Código](articulo-3.md) de Justicia Militar. Párrafo adicionado DOF 16-07-2025
+No procederá la suspensión condicional del proceso respecto de los delitos cometidos en campaña, así como, en tiempo de paz los incluidos en el Título Noveno y el delito de abandono de servicio, previsto en el Capítulo Primero del Título Décimo del Código de Justicia Militar. Párrafo adicionado DOF 16-07-2025

@@ -46,15 +46,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfped:article:1:term-usage:3985-3999",
-    "provision_id": "urn:lex-mx:federal:statute:lfped:article:1",
-    "term_id": "urn:lex-mx:federal:statute:lfped:term:discriminacion",
-    "span": "Discriminación",
-    "start_char": 3985,
-    "end_char": 3999
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfped:article:1:term-usage:4248-4262",
     "provision_id": "urn:lex-mx:federal:statute:lfped:article:1",
     "term_id": "urn:lex-mx:federal:statute:lfped:term:discriminacion",
@@ -133,15 +124,6 @@
     "span": "Ley",
     "start_char": 120,
     "end_char": 123
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfped:article:9:term-usage:4583-4586",
-    "provision_id": "urn:lex-mx:federal:statute:lfped:article:9",
-    "term_id": "urn:lex-mx:federal:statute:lfped:term:ley",
-    "span": "Ley",
-    "start_char": 4583,
-    "end_char": 4586
   },
   {
     "schema_version": "0.1.0",
@@ -280,15 +262,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfped:article:20:term-usage:1529-1532",
-    "provision_id": "urn:lex-mx:federal:statute:lfped:article:20",
-    "term_id": "urn:lex-mx:federal:statute:lfped:term:ley",
-    "span": "Ley",
-    "start_char": 1529,
-    "end_char": 1532
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfped:article:20:term-usage:1697-1705",
     "provision_id": "urn:lex-mx:federal:statute:lfped:article:20",
     "term_id": "urn:lex-mx:federal:statute:lfped:term:programa",
@@ -421,15 +394,6 @@
     "span": "Consejo",
     "start_char": 1718,
     "end_char": 1725
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfped:article:24:term-usage:83-86",
-    "provision_id": "urn:lex-mx:federal:statute:lfped:article:24",
-    "term_id": "urn:lex-mx:federal:statute:lfped:term:ley",
-    "span": "Ley",
-    "start_char": 83,
-    "end_char": 86
   },
   {
     "schema_version": "0.1.0",
@@ -637,15 +601,6 @@
     "span": "Consejo",
     "start_char": 19,
     "end_char": 26
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfped:article:30:term-usage:89-92",
-    "provision_id": "urn:lex-mx:federal:statute:lfped:article:30",
-    "term_id": "urn:lex-mx:federal:statute:lfped:term:ley",
-    "span": "Ley",
-    "start_char": 89,
-    "end_char": 92
   },
   {
     "schema_version": "0.1.0",
@@ -892,30 +847,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfped:article:38:term-usage:138-141",
-    "provision_id": "urn:lex-mx:federal:statute:lfped:article:38",
-    "term_id": "urn:lex-mx:federal:statute:lfped:term:ley",
-    "span": "Ley",
-    "start_char": 138,
-    "end_char": 141
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfped:article:38:term-usage:316-323",
     "provision_id": "urn:lex-mx:federal:statute:lfped:article:38",
     "term_id": "urn:lex-mx:federal:statute:lfped:term:consejo",
     "span": "Consejo",
     "start_char": 316,
     "end_char": 323
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfped:article:38:term-usage:437-440",
-    "provision_id": "urn:lex-mx:federal:statute:lfped:article:38",
-    "term_id": "urn:lex-mx:federal:statute:lfped:term:ley",
-    "span": "Ley",
-    "start_char": 437,
-    "end_char": 440
   },
   {
     "schema_version": "0.1.0",
@@ -997,15 +934,6 @@
     "span": "Consejo",
     "start_char": 119,
     "end_char": 126
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfped:article:42:term-usage:72-75",
-    "provision_id": "urn:lex-mx:federal:statute:lfped:article:42",
-    "term_id": "urn:lex-mx:federal:statute:lfped:term:ley",
-    "span": "Ley",
-    "start_char": 72,
-    "end_char": 75
   },
   {
     "schema_version": "0.1.0",

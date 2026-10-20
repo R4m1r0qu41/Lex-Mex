@@ -29,4 +29,4 @@ IV. Atender oportuna y debidamente las peticiones dirigidas por los sujetos que 
 
 VI. Mantener el orden en las salas de audiencias;
 
-VII. Los demás establecidos en el [Código](articulo-3.md) de Justicia Militar y en este Código y otras disposiciones aplicables.
+VII. Los demás establecidos en el Código de Justicia Militar y en este [Código](articulo-3.md) y otras disposiciones aplicables.

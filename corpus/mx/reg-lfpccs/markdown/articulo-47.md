@@ -19,4 +19,4 @@ source_sha256: 8a999465afe704f31d0f615aa1afb605c395600298a2433e09778463db25da47
 
 El interesado podrá pedir la cancelación de la inscripción de una variedad vegetal al Catálogo.
 
-En caso de ser una variedad vegetal protegida en términos de la [Ley](articulo-2.md) Federal de Variedades Vegetales, quien solicite la cancelación de la inscripción en el Catálogo, deberá ser el titular del derecho o contar con su consentimiento por escrito.
+En caso de ser una variedad vegetal protegida en términos de la Ley Federal de Variedades Vegetales, quien solicite la cancelación de la inscripción en el Catálogo, deberá ser el titular del derecho o contar con su consentimiento por escrito.

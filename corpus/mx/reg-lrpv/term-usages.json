@@ -343,15 +343,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lrpv:article:38:term-usage:177-180",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lrpv:article:38",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lrpv:term:ley",
-    "span": "Ley",
-    "start_char": 177,
-    "end_char": 180
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lrpv:article:39:term-usage:99-133",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lrpv:article:39",
     "term_id": "urn:lex-mx:federal:regulation:reg-lrpv:term:numero-de-identificacion-vehicular",
@@ -370,15 +361,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lrpv:article:42:term-usage:175-178",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lrpv:article:42",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lrpv:term:ley",
-    "span": "Ley",
-    "start_char": 175,
-    "end_char": 178
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lrpv:article:42:term-usage:225-235",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lrpv:article:42",
     "term_id": "urn:lex-mx:federal:regulation:reg-lrpv:term:reglamento",
@@ -394,15 +376,6 @@
     "span": "Reglamento",
     "start_char": 240,
     "end_char": 250
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lrpv:article:44:term-usage:114-117",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lrpv:article:44",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lrpv:term:ley",
-    "span": "Ley",
-    "start_char": 114,
-    "end_char": 117
   },
   {
     "schema_version": "0.1.0",
@@ -502,14 +475,5 @@
     "span": "Reglamento",
     "start_char": 58,
     "end_char": 68
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lrpv:transitory:septimo:term-usage:393-396",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lrpv:transitory:septimo",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lrpv:term:ley",
-    "span": "Ley",
-    "start_char": 393,
-    "end_char": 396
   }
 ]

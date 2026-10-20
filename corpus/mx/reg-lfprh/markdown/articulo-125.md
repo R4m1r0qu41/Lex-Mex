@@ -29,6 +29,6 @@ IV. Para efectos de la comprobación de las erogaciones, las nóminas se acompa�
 
 V. Cumplir con lo que establezcan la Secretaría y la Función Pública, en el ámbito de sus respectivas competencias, sobre la compatibilidad del pago de percepciones con el pago de viáticos, pasajes, capacitación y demás gastos que se cubran al personal en el desempeño de sus funciones;
 
-VI. Los pagos de las indemnizaciones que se determinen con base en los laudos o resoluciones emitidos por autoridad competente o los que deriven de convenios que, en su caso, se suscriban en términos de la legislación laboral aplicable, los que deberán incluir los conceptos específicamente señalados en los mismos, así como las indemnizaciones que correspondan en los términos de la [Ley](articulo-2.md) del Servicio Profesional de Carrera en la Administración Pública Federal y conforme a las disposiciones aplicables, y
+VI. Los pagos de las indemnizaciones que se determinen con base en los laudos o resoluciones emitidos por autoridad competente o los que deriven de convenios que, en su caso, se suscriban en términos de la legislación laboral aplicable, los que deberán incluir los conceptos específicamente señalados en los mismos, así como las indemnizaciones que correspondan en los términos de la Ley del Servicio Profesional de Carrera en la Administración Pública Federal y conforme a las disposiciones aplicables, y
 
 VII. Cumplir con las demás disposiciones aplicables.

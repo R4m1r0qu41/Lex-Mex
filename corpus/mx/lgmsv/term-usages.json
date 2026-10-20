@@ -118,15 +118,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmsv:article:3:term-usage:8803-8812",
-    "provision_id": "urn:lex-mx:federal:statute:lgmsv:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lgmsv:term:movilidad",
-    "span": "Movilidad",
-    "start_char": 8803,
-    "end_char": 8812
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgmsv:article:3:term-usage:10112-10121",
     "provision_id": "urn:lex-mx:federal:statute:lgmsv:article:3",
     "term_id": "urn:lex-mx:federal:statute:lgmsv:term:movilidad",
@@ -151,15 +142,6 @@
     "span": "Transportes",
     "start_char": 10641,
     "end_char": 10652
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmsv:article:3:term-usage:11171-11174",
-    "provision_id": "urn:lex-mx:federal:statute:lgmsv:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lgmsv:term:ley",
-    "span": "Ley",
-    "start_char": 11171,
-    "end_char": 11174
   },
   {
     "schema_version": "0.1.0",
@@ -208,15 +190,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmsv:article:3:term-usage:13975-13978",
-    "provision_id": "urn:lex-mx:federal:statute:lgmsv:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lgmsv:term:ley",
-    "span": "Ley",
-    "start_char": 13975,
-    "end_char": 13978
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgmsv:article:3:term-usage:14734-14737",
     "provision_id": "urn:lex-mx:federal:statute:lgmsv:article:3",
     "term_id": "urn:lex-mx:federal:statute:lgmsv:term:ley",
@@ -232,15 +205,6 @@
     "span": "Movilidad",
     "start_char": 14785,
     "end_char": 14794
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmsv:article:4:term-usage:5249-5252",
-    "provision_id": "urn:lex-mx:federal:statute:lgmsv:article:4",
-    "term_id": "urn:lex-mx:federal:statute:lgmsv:term:ley",
-    "span": "Ley",
-    "start_char": 5249,
-    "end_char": 5252
   },
   {
     "schema_version": "0.1.0",
@@ -277,15 +241,6 @@
     "span": "Ley",
     "start_char": 980,
     "end_char": 983
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmsv:article:5:term-usage:1548-1551",
-    "provision_id": "urn:lex-mx:federal:statute:lgmsv:article:5",
-    "term_id": "urn:lex-mx:federal:statute:lgmsv:term:ley",
-    "span": "Ley",
-    "start_char": 1548,
-    "end_char": 1551
   },
   {
     "schema_version": "0.1.0",
@@ -532,33 +487,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmsv:article:23:term-usage:769-772",
-    "provision_id": "urn:lex-mx:federal:statute:lgmsv:article:23",
-    "term_id": "urn:lex-mx:federal:statute:lgmsv:term:ley",
-    "span": "Ley",
-    "start_char": 769,
-    "end_char": 772
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmsv:article:23:term-usage:1173-1176",
-    "provision_id": "urn:lex-mx:federal:statute:lgmsv:article:23",
-    "term_id": "urn:lex-mx:federal:statute:lgmsv:term:ley",
-    "span": "Ley",
-    "start_char": 1173,
-    "end_char": 1176
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmsv:article:23:term-usage:1730-1733",
-    "provision_id": "urn:lex-mx:federal:statute:lgmsv:article:23",
-    "term_id": "urn:lex-mx:federal:statute:lgmsv:term:ley",
-    "span": "Ley",
-    "start_char": 1730,
-    "end_char": 1733
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgmsv:article:24:term-usage:0-49",
     "provision_id": "urn:lex-mx:federal:statute:lgmsv:article:24",
     "term_id": "urn:lex-mx:federal:statute:lgmsv:term:estrategia-nacional-de-movilidad-y-seguridad-vial",
@@ -637,15 +565,6 @@
     "span": "Sistema de Información Territorial y Urbano",
     "start_char": 124,
     "end_char": 167
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmsv:article:27:term-usage:192-195",
-    "provision_id": "urn:lex-mx:federal:statute:lgmsv:article:27",
-    "term_id": "urn:lex-mx:federal:statute:lgmsv:term:ley",
-    "span": "Ley",
-    "start_char": 192,
-    "end_char": 195
   },
   {
     "schema_version": "0.1.0",
@@ -745,15 +664,6 @@
     "span": "Bases de Datos sobre Movilidad y Seguridad Vial",
     "start_char": 0,
     "end_char": 47
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmsv:article:29:term-usage:314-317",
-    "provision_id": "urn:lex-mx:federal:statute:lgmsv:article:29",
-    "term_id": "urn:lex-mx:federal:statute:lgmsv:term:ley",
-    "span": "Ley",
-    "start_char": 314,
-    "end_char": 317
   },
   {
     "schema_version": "0.1.0",
@@ -991,15 +901,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmsv:article:54:term-usage:287-290",
-    "provision_id": "urn:lex-mx:federal:statute:lgmsv:article:54",
-    "term_id": "urn:lex-mx:federal:statute:lgmsv:term:ley",
-    "span": "Ley",
-    "start_char": 287,
-    "end_char": 290
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgmsv:article:54:term-usage:987-990",
     "provision_id": "urn:lex-mx:federal:statute:lgmsv:article:54",
     "term_id": "urn:lex-mx:federal:statute:lgmsv:term:ley",
@@ -1042,15 +943,6 @@
     "span": "Ley",
     "start_char": 440,
     "end_char": 443
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmsv:article:55:term-usage:449-452",
-    "provision_id": "urn:lex-mx:federal:statute:lgmsv:article:55",
-    "term_id": "urn:lex-mx:federal:statute:lgmsv:term:ley",
-    "span": "Ley",
-    "start_char": 449,
-    "end_char": 452
   },
   {
     "schema_version": "0.1.0",
@@ -1531,15 +1423,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmsv:article:71:term-usage:1621-1624",
-    "provision_id": "urn:lex-mx:federal:statute:lgmsv:article:71",
-    "term_id": "urn:lex-mx:federal:statute:lgmsv:term:ley",
-    "span": "Ley",
-    "start_char": 1621,
-    "end_char": 1624
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgmsv:article:71:term-usage:1944-1947",
     "provision_id": "urn:lex-mx:federal:statute:lgmsv:article:71",
     "term_id": "urn:lex-mx:federal:statute:lgmsv:term:ley",
@@ -1729,15 +1612,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmsv:article:75:term-usage:321-324",
-    "provision_id": "urn:lex-mx:federal:statute:lgmsv:article:75",
-    "term_id": "urn:lex-mx:federal:statute:lgmsv:term:ley",
-    "span": "Ley",
-    "start_char": 321,
-    "end_char": 324
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgmsv:article:75:term-usage:506-509",
     "provision_id": "urn:lex-mx:federal:statute:lgmsv:article:75",
     "term_id": "urn:lex-mx:federal:statute:lgmsv:term:ley",
@@ -1798,15 +1672,6 @@
     "span": "Ley",
     "start_char": 1117,
     "end_char": 1120
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmsv:article:79:term-usage:207-210",
-    "provision_id": "urn:lex-mx:federal:statute:lgmsv:article:79",
-    "term_id": "urn:lex-mx:federal:statute:lgmsv:term:ley",
-    "span": "Ley",
-    "start_char": 207,
-    "end_char": 210
   },
   {
     "schema_version": "0.1.0",

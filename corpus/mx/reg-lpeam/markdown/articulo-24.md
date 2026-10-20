@@ -17,4 +17,4 @@ source_sha256: 4195c0740ad46978a8b0f2d43f0ac6d77e46b0216bd6f756950b1a050044ce98
 
 # Artículo 24
 
-Durante la Interceptación aérea, Seguimiento y [Consolidación](articulo-4.md) de aeronaves en vuelo clandestino, las Aeronaves interceptoras podrán utilizar los aeródromos civiles, de conformidad con el artículo [49](../../laero/markdown/articulo-49.md) de la [Ley](articulo-4.md) de Aeropuertos y el Código Nacional de Procedimientos Penales, para lo cual deben cumplir con los protocolos nacionales de actuación policial y, en su caso, con los procedimientos correspondientes aprobados por la autoridad competente de dicho aeródromo.
+Durante la Interceptación aérea, Seguimiento y [Consolidación](articulo-4.md) de aeronaves en vuelo clandestino, las Aeronaves interceptoras podrán utilizar los aeródromos civiles, de conformidad con el artículo [49](../../laero/markdown/articulo-49.md) de la Ley de Aeropuertos y el Código Nacional de Procedimientos Penales, para lo cual deben cumplir con los protocolos nacionales de actuación policial y, en su caso, con los procedimientos correspondientes aprobados por la autoridad competente de dicho aeródromo.

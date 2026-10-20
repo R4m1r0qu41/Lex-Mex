@@ -46,15 +46,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgipd:article:2:term-usage:7688-7700",
-    "provision_id": "urn:lex-mx:federal:statute:lgipd:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lgipd:term:discapacidad",
-    "span": "Discapacidad",
-    "start_char": 7688,
-    "end_char": 7700
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgipd:article:2:term-usage:8181-8193",
     "provision_id": "urn:lex-mx:federal:statute:lgipd:article:2",
     "term_id": "urn:lex-mx:federal:statute:lgipd:term:discapacidad",
@@ -298,15 +289,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgipd:article:15:term-usage:72-75",
-    "provision_id": "urn:lex-mx:federal:statute:lgipd:article:15",
-    "term_id": "urn:lex-mx:federal:statute:lgipd:term:ley",
-    "span": "Ley",
-    "start_char": 72,
-    "end_char": 75
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgipd:article:16:term-usage:754-761",
     "provision_id": "urn:lex-mx:federal:statute:lgipd:article:16",
     "term_id": "urn:lex-mx:federal:statute:lgipd:term:consejo",
@@ -340,15 +322,6 @@
     "span": "Lengua de Señas Mexicana",
     "start_char": 98,
     "end_char": 122
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgipd:article:21:term-usage:632-635",
-    "provision_id": "urn:lex-mx:federal:statute:lgipd:article:21",
-    "term_id": "urn:lex-mx:federal:statute:lgipd:term:ley",
-    "span": "Ley",
-    "start_char": 632,
-    "end_char": 635
   },
   {
     "schema_version": "0.1.0",
@@ -739,15 +712,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgipd:article:47:term-usage:83-86",
-    "provision_id": "urn:lex-mx:federal:statute:lgipd:article:47",
-    "term_id": "urn:lex-mx:federal:statute:lgipd:term:ley",
-    "span": "Ley",
-    "start_char": 83,
-    "end_char": 86
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgipd:article:47:term-usage:193-200",
     "provision_id": "urn:lex-mx:federal:statute:lgipd:article:47",
     "term_id": "urn:lex-mx:federal:statute:lgipd:term:consejo",
@@ -820,30 +784,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgipd:article:49:term-usage:617-620",
-    "provision_id": "urn:lex-mx:federal:statute:lgipd:article:49",
-    "term_id": "urn:lex-mx:federal:statute:lgipd:term:ley",
-    "span": "Ley",
-    "start_char": 617,
-    "end_char": 620
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgipd:article:50:term-usage:24-31",
     "provision_id": "urn:lex-mx:federal:statute:lgipd:article:50",
     "term_id": "urn:lex-mx:federal:statute:lgipd:term:consejo",
     "span": "Consejo",
     "start_char": 24,
     "end_char": 31
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgipd:article:50:term-usage:94-97",
-    "provision_id": "urn:lex-mx:federal:statute:lgipd:article:50",
-    "term_id": "urn:lex-mx:federal:statute:lgipd:term:ley",
-    "span": "Ley",
-    "start_char": 94,
-    "end_char": 97
   },
   {
     "schema_version": "0.1.0",
@@ -1036,24 +982,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgipd:article:57:term-usage:137-140",
-    "provision_id": "urn:lex-mx:federal:statute:lgipd:article:57",
-    "term_id": "urn:lex-mx:federal:statute:lgipd:term:ley",
-    "span": "Ley",
-    "start_char": 137,
-    "end_char": 140
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgipd:article:58:term-usage:164-167",
-    "provision_id": "urn:lex-mx:federal:statute:lgipd:article:58",
-    "term_id": "urn:lex-mx:federal:statute:lgipd:term:ley",
-    "span": "Ley",
-    "start_char": 164,
-    "end_char": 167
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgipd:article:58:term-usage:334-341",
     "provision_id": "urn:lex-mx:federal:statute:lgipd:article:58",
     "term_id": "urn:lex-mx:federal:statute:lgipd:term:consejo",
@@ -1072,15 +1000,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgipd:article:59:term-usage:70-73",
-    "provision_id": "urn:lex-mx:federal:statute:lgipd:article:59",
-    "term_id": "urn:lex-mx:federal:statute:lgipd:term:ley",
-    "span": "Ley",
-    "start_char": 70,
-    "end_char": 73
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgipd:article:60:term-usage:57-60",
     "provision_id": "urn:lex-mx:federal:statute:lgipd:article:60",
     "term_id": "urn:lex-mx:federal:statute:lgipd:term:ley",
@@ -1096,15 +1015,6 @@
     "span": "Ley",
     "start_char": 98,
     "end_char": 101
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgipd:article:60:term-usage:178-181",
-    "provision_id": "urn:lex-mx:federal:statute:lgipd:article:60",
-    "term_id": "urn:lex-mx:federal:statute:lgipd:term:ley",
-    "span": "Ley",
-    "start_char": 178,
-    "end_char": 181
   },
   {
     "schema_version": "0.1.0",

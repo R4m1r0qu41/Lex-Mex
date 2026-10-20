@@ -19,6 +19,6 @@ El proyecto de reglas de pilotaje de cada puerto o sus reformas deberá consider
 
 La Dirección General tendrá un plazo de treinta días naturales para resolver lo conducente. Transcurrido dicho término sin que emita la resolución, las reglas de pilotaje se considerarán aprobadas.
 
-Concluido el trámite anterior, la Dirección General procederá a cumplir con lo establecido por la [Ley](articulo-10.md) Federal de Procedimiento Administrativo, para que las reglas de pilotaje se publiquen en el Diario Oficial de la Federación.
+Concluido el trámite anterior, la Dirección General procederá a cumplir con lo establecido por la Ley Federal de Procedimiento Administrativo, para que las reglas de pilotaje se publiquen en el Diario Oficial de la Federación.
 
 Cuando el Comité Técnico no presente propuesta de reglas de pilotaje o reformas a las mismas, la Dirección General las elaborará y expedirá.

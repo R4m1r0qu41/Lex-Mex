@@ -25,4 +25,4 @@ II. Enviar al Subcomité de Prevención de la Tortura de la Organización de las
 
 III. Remitir el informe anual de actividades del Mecanismo Nacional de Prevención a la Cámara de Senadores; y
 
-IV. Las demás que se establezcan en el Protocolo Facultativo de la Convención de las Naciones Unidas contra la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, en la [Ley](articulo-5.md) de la Comisión Nacional de los Derechos Humanos y su Reglamento.
+IV. Las demás que se establezcan en el Protocolo Facultativo de la Convención de las Naciones Unidas contra la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, en la Ley de la Comisión Nacional de los Derechos Humanos y su Reglamento.

@@ -17,4 +17,4 @@ source_sha256: 7f28b406ac8966ef726994b15fc2356a5d8ee92a8e24de0e7a3046d2683fe40d
 
 # Artículo 31
 
-Las relaciones de trabajo entre la [CONADE](articulo-4.md) y sus trabajadores se regirán por el Apartado A, del artículo [123](../../cpeum/markdown/articulo-123.md) de la Constitución Política de los Estados Unidos Mexicanos, así como por la [Ley](articulo-4.md) Federal del Trabajo.
+Las relaciones de trabajo entre la [CONADE](articulo-4.md) y sus trabajadores se regirán por el Apartado A, del artículo [123](../../cpeum/markdown/articulo-123.md) de la Constitución Política de los Estados Unidos Mexicanos, así como por la Ley Federal del Trabajo.

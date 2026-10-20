@@ -17,4 +17,4 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 43
 
-Enfermedad de trabajo es todo estado patológico derivado de la acción continuada de una causa que tenga su origen o motivo en el trabajo, o en el medio en que el trabajador se vea obligado a prestar sus servicios. En todo caso, serán enfermedades de trabajo las consignadas en la [Ley](articulo-5-A.md) Federal del Trabajo.
+Enfermedad de trabajo es todo estado patológico derivado de la acción continuada de una causa que tenga su origen o motivo en el trabajo, o en el medio en que el trabajador se vea obligado a prestar sus servicios. En todo caso, serán enfermedades de trabajo las consignadas en la Ley Federal del Trabajo.

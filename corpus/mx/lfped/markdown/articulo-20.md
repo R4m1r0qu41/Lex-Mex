@@ -61,7 +61,7 @@ XX. Generar y promover políticas, programas, proyectos o acciones cuyo objetivo
 
 XXI. Elaborar instrumentos de acción pública que contribuyan a incorporar la perspectiva de no discriminación en el ámbito de las políticas públicas; Fracción adicionada DOF 20-03-2014
 
-XXII. Elaborar, coordinar y supervisar la instrumentación del [Programa](articulo-1.md), que tendrá el carácter de especial y de cumplimiento obligatorio de conformidad con la [Ley](articulo-1.md) de Planeación; Fracción adicionada DOF 20-03-2014
+XXII. Elaborar, coordinar y supervisar la instrumentación del [Programa](articulo-1.md), que tendrá el carácter de especial y de cumplimiento obligatorio de conformidad con la Ley de Planeación; Fracción adicionada DOF 20-03-2014
 
 XXIII. Formular observaciones, sugerencias y directrices a quien omita el cumplimiento o desvíe la ejecución del Programa y facilitar la articulación de acciones y actividades que tengan como finalidad atender su cumplimiento; Fracción adicionada DOF 20-03-2014
 
@@ -109,7 +109,7 @@ XLIV. Conocer e investigar los presuntos casos de discriminación que se present
 
 XLV. Orientar y canalizar a las personas, grupos y comunidades a la instancia correspondiente en caso de que no se surta la competencia del Consejo; Fracción adicionada DOF 20-03-2014
 
-XLVI. Emitir resoluciones por disposición e informes especiales y, en su caso, establecer medidas administrativas y de reparación contra las personas servidoras públicas federales, los poderes públicos federales o particulares en caso de cometer alguna acción u omisión de discriminación previstas en esta Ley; Fracción adicionada DOF 20-03-2014
+XLVI. Emitir resoluciones por disposición e informes especiales y, en su caso, establecer medidas administrativas y de reparación contra las personas servidoras públicas federales, los poderes públicos federales o particulares en caso de cometer alguna acción u omisión de discriminación previstas en esta [Ley](articulo-1.md); Fracción adicionada DOF 20-03-2014
 
 XLVII. Promover la presentación de denuncias por actos que puedan dar lugar a responsabilidades previstas en ésta u otras disposiciones legales; así como ejercer ante las Instancias competentes acciones colectivas para la defensa del derecho a la no discriminación. Fracción adicionada DOF 20-03-2014
 

@@ -27,7 +27,7 @@ c) Deseche la solicitud por improcedente, cuando haya transcurrido el plazo a qu
 
 Si la Agencia Federal de Aviación Civil no emite acuerdo en los plazos señalados, la solicitud se tendrá por admitida; Párrafo reformado DOF 31-05-2023
 
-II. Admitida la solicitud, la Agencia Federal de Aviación Civil, en un plazo de tres días hábiles, solicitará la opinión de la Comisión Federal de Competencia Económica, en términos de lo establecido en la [Ley](articulo-2.md) Federal de Competencia Económica, para cuyo efecto debe turnarle copia del expediente respectivo y de todos aquellos elementos adicionales que requiera la Comisión; Fracción reformada DOF 31-05-2023
+II. Admitida la solicitud, la Agencia Federal de Aviación Civil, en un plazo de tres días hábiles, solicitará la opinión de la Comisión Federal de Competencia Económica, en términos de lo establecido en la Ley Federal de Competencia Económica, para cuyo efecto debe turnarle copia del expediente respectivo y de todos aquellos elementos adicionales que requiera la Comisión; Fracción reformada DOF 31-05-2023
 
 III. Recibida la opinión de la Comisión Federal de Competencia Económica, la Agencia Federal de Aviación Civil, dentro de los veinte días hábiles siguientes emitirá, en su caso, un proyecto de resolución sobre las bases de regulación tarifaria y dará vista a las personas interesadas por un plazo de diez días hábiles para que manifiesten lo que a su derecho convenga, y Fracción reformada DOF 05-10-2000, 31-05-2023
 

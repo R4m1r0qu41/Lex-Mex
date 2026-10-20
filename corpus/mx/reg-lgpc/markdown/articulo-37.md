@@ -17,6 +17,6 @@ source_sha256: 5018478a6ca9ea39f9ca88ffcb68dde9a33bd4adec59dc75d2431f894b621fc2
 
 # Artículo 37
 
-Los Donativos que otorguen y reciban las dependencias y entidades de la Administración Pública Federal se sujetarán a lo dispuesto por la [Ley](articulo-2.md) Federal de Presupuesto y Responsabilidad Hacendaria, su Reglamento y demás disposiciones jurídicas aplicables.
+Los Donativos que otorguen y reciban las dependencias y entidades de la Administración Pública Federal se sujetarán a lo dispuesto por la Ley Federal de Presupuesto y Responsabilidad Hacendaria, su Reglamento y demás disposiciones jurídicas aplicables.
 
 En caso de malas prácticas, irregularidades, abusos o la comisión de delitos en el manejo de Donativos por parte de los servidores públicos federales se deberá hacer del conocimiento del órgano interno de control de la dependencia o entidad donataria de la Administración Pública Federal a la que pertenece el sujeto activo del posible hecho ilícito o, en su caso, del Ministerio Público.

@@ -17,7 +17,7 @@ source_sha256: f12e559ab950b52583c04f0ebddcf312054e07300f56b2c546028580e154a8d9
 
 # Artículo 30
 
-La Presidencia del [Consejo](articulo-1.md) tendrá, además de aquellas que establece el artículo [59](../../lfep/markdown/articulo-59.md) de la [Ley](articulo-1.md) Federal de las Entidades Paraestatales, las siguientes atribuciones: Párrafo reformado DOF 20-03-2014
+La Presidencia del [Consejo](articulo-1.md) tendrá, además de aquellas que establece el artículo [59](../../lfep/markdown/articulo-59.md) de la Ley Federal de las Entidades Paraestatales, las siguientes atribuciones: Párrafo reformado DOF 20-03-2014
 
 I. Planear, organizar, coordinar, dirigir, controlar y evaluar el funcionamiento del Consejo, con sujeción a las disposiciones aplicables;
 
@@ -45,6 +45,6 @@ X. Proponer a la Junta de Gobierno, para su aprobación, el tabulador salarial d
 
 XI. Solicitar a la Asamblea Consultiva opiniones relacionadas con el desarrollo de los programas y actividades que realice el Consejo, y con cuestiones en materia de prevención y eliminación de la discriminación; Fracción adicionada DOF 20-03-2014. Reformada DOF 01-12-2016
 
-XI Bis. Emitir y suscribir resoluciones por disposición e informes especiales, así como establecer medidas administrativas y de reparación derivadas de las quejas que por los presuntos actos, omisiones o prácticas sociales discriminatorias a que se refiere esta Ley resulten y sean atribuidas a particulares, personas físicas o morales, a personas servidoras públicas federales y a los poderes públicos federales, teniendo la facultad de delegar dichas atribuciones a la persona titular de la Dirección General Adjunta de Quejas, y Fracción adicionada DOF 01-12-2016
+XI Bis. Emitir y suscribir resoluciones por disposición e informes especiales, así como establecer medidas administrativas y de reparación derivadas de las quejas que por los presuntos actos, omisiones o prácticas sociales discriminatorias a que se refiere esta [Ley](articulo-1.md) resulten y sean atribuidas a particulares, personas físicas o morales, a personas servidoras públicas federales y a los poderes públicos federales, teniendo la facultad de delegar dichas atribuciones a la persona titular de la Dirección General Adjunta de Quejas, y Fracción adicionada DOF 01-12-2016
 
 XII. Las demás que le confieran esta ley u otros ordenamientos. Fracción reformada y recorrida DOF 20-03-2014

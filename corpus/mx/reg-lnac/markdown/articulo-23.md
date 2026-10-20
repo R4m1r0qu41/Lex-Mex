@@ -17,7 +17,7 @@ source_sha256: bd9ba59ab5016fd7d8737d382113a20e450b188e586925c31a1ef7c2af3f0065
 
 # Artículo 23
 
-La persona que pierda la nacionalidad mexicana por naturalización y haya adquirido bienes inmuebles fuera de la zona restringida u obtenido concesiones para la exploración y explotación de minas y aguas en territorio nacional, deberá dentro de los seis meses siguientes a la notificación de la resolución, realizar el trámite previsto por los artículos [27](../../cpeum/markdown/articulo-27.md), fracción I, de la Constitución Política de los Estados Unidos Mexicanos y 10-A de la [Ley](articulo-2.md) de Inversión Extranjera.
+La persona que pierda la nacionalidad mexicana por naturalización y haya adquirido bienes inmuebles fuera de la zona restringida u obtenido concesiones para la exploración y explotación de minas y aguas en territorio nacional, deberá dentro de los seis meses siguientes a la notificación de la resolución, realizar el trámite previsto por los artículos [27](../../cpeum/markdown/articulo-27.md), fracción I, de la Constitución Política de los Estados Unidos Mexicanos y 10-A de la Ley de Inversión Extranjera.
 
 Si dichos inmuebles fueron adquiridos dentro de la zona restringida deberá dentro de los dos años siguientes a la resolución, transmitir la titularidad de estos derechos a persona legalmente facultada.
 

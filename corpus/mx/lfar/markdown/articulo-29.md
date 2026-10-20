@@ -17,4 +17,4 @@ source_sha256: b01d875d525d1efbe4edf9f022f58c9afb56fb777581fc9eae1038c212e6b43c
 
 # Artículo 29
 
-En caso de encontrar violaciones a las medidas de austeridad republicana, las autoridades competentes deberán iniciar los procedimientos que establece la [Ley](articulo-4.md) General de Responsabilidades Administrativas.
+En caso de encontrar violaciones a las medidas de austeridad republicana, las autoridades competentes deberán iniciar los procedimientos que establece la Ley General de Responsabilidades Administrativas.

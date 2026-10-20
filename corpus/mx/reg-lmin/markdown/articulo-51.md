@@ -25,6 +25,6 @@ a) La manifestación de la conformidad sea otorgada o ratificada ante fedatario 
 
 b) Manifieste su conformidad al dar respuesta al oficio a que hace referencia la fracción I del artículo [52](articulo-52.md) del presente Reglamento.
 
-En el caso de ocupaciones temporales o constitución de servidumbres sobre tierras ejidales o comunales, la conformidad se acreditará en todos los casos según lo dispuesto por la [Ley](articulo-1o.md) Agraria.
+En el caso de ocupaciones temporales o constitución de servidumbres sobre tierras ejidales o comunales, la conformidad se acreditará en todos los casos según lo dispuesto por la Ley Agraria.
 
 II. El monto de la indemnización pactada sea cuando menos igual al que corresponda según el avalúo practicado por el [INDAABIN](articulo-1o.md).

@@ -17,4 +17,4 @@ source_sha256: 5a0e15e01ac963917e019e3cc4ad07e96d76cc6c82c8b4238dfbb3a58a146847
 
 # Artículo 32
 
-Los gobiernos de las entidades federativas podrán promover, ante las autoridades competentes, criterios y esquemas de ejercicio participativo de los recursos provenientes de las aportaciones federales que les correspondan conforme a la [Ley](articulo-4.md) de Coordinación Fiscal.
+Los gobiernos de las entidades federativas podrán promover, ante las autoridades competentes, criterios y esquemas de ejercicio participativo de los recursos provenientes de las aportaciones federales que les correspondan conforme a la Ley de Coordinación Fiscal.

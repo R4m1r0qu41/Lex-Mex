@@ -21,6 +21,6 @@ Una vez que hayan transcurrido los plazos indicados en el [artículo anterior](a
 
 Los gastos originados serán cubiertos por el propietario, importador o su representante legal.
 
-El personal oficial elaborará el acta correspondiente en los términos dispuestos por la [Ley](articulo-2.md) Federal de Procedimiento Administrativo.
+El personal oficial elaborará el acta correspondiente en los términos dispuestos por la Ley Federal de Procedimiento Administrativo.
 
 En caso de que el importador, agente aduanal o apoderado aduanal solicite a la Secretaría el acondicionamiento o tratamiento de sus mercancías, no podrá dar destino a éstas hasta que la Secretaría emita la respuesta a dicha solicitud dentro del plazo máximo de diez días hábiles.

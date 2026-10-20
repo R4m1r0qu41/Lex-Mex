@@ -43,7 +43,7 @@ XII. Entidades fiscalizadoras locales: las que están previstas en el artículo 
 
 XIII. Faltas administrativas graves: las así señaladas en la Ley General de Responsabilidades Administrativas;
 
-XIV. Financiamiento y otras obligaciones: toda operación constitutiva de un pasivo, directo o contingente, de corto, mediano o largo plazo, derivada de un crédito, empréstito o préstamo, incluyendo arrendamientos y factorajes financieros o cadenas productivas, independientemente de la forma mediante la que se instrumente, u obligación de pago, en los términos de la Ley Federal de Deuda Pública y de la Ley de Disciplina Financiera de las [Entidades Federativas](articulo-4.md) y los Municipios;
+XIV. Financiamiento y otras obligaciones: toda operación constitutiva de un pasivo, directo o contingente, de corto, mediano o largo plazo, derivada de un crédito, empréstito o préstamo, incluyendo arrendamientos y factorajes financieros o cadenas productivas, independientemente de la forma mediante la que se instrumente, u obligación de pago, en los términos de la Ley Federal de Deuda Pública y de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios;
 
 XV. Fiscalía Especializada: Fiscalía Especializada en Materia de Combate a la Corrupción;
 

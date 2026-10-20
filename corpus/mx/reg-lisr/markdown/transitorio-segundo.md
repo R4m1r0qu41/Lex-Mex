@@ -15,4 +15,4 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # SEGUNDO
 
-Se abroga el Reglamento de la [Ley](articulo-1.md) del [Impuesto](articulo-1.md) sobre la Renta, publicado el 17 de octubre de 2003 en el Diario Oficial de la Federación y se derogan en lo que se opongan a este Reglamento las disposiciones de carácter administrativo, reglas, consultas e interpretaciones de carácter general contenidas en circulares o publicadas en el Diario Oficial de la Federación en materia del Impuesto Sobre la Renta.
+Se abroga el Reglamento de la [Ley](articulo-1.md) del Impuesto sobre la Renta, publicado el 17 de octubre de 2003 en el Diario Oficial de la Federación y se derogan en lo que se opongan a este Reglamento las disposiciones de carácter administrativo, reglas, consultas e interpretaciones de carácter general contenidas en circulares o publicadas en el Diario Oficial de la Federación en materia del [Impuesto](articulo-1.md) Sobre la Renta.

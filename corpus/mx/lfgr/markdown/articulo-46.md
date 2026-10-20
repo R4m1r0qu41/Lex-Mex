@@ -19,7 +19,7 @@ source_sha256: cbd3307808b89748077396e108c02651da8099a5bc491657c17fa676618d85f1
 
 Con independencia de lo que dispongan otras leyes aplicables, las personas facilitadoras tendrán las siguientes facultades:
 
-I. Cumplir con la certificación en los términos de las disposiciones aplicables en la [Ley](articulo-9.md) Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal;
+I. Cumplir con la certificación en los términos de las disposiciones aplicables en la Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal;
 
 II. Actuar con prontitud, profesionalismo, eficacia y transparencia, en congruencia con los principios que rigen la Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal y las disposiciones que al efecto se establezcan;
 

@@ -59,7 +59,7 @@ X. Fomentar la construcción de capacidades de las entidades federativas y de lo
 
 XI. Emitir opiniones respecto de las consultas que le formulen otras dependencias y entidades, así como las que estén previstas en otras leyes;
 
-XII. Proponer al Sistema Educativo Nacional el contenido educativo de libros, libros de texto y materiales didácticos sobre cambio climático, de conformidad con la [Ley](articulo-3o.md) General de Educación;
+XII. Proponer al Sistema Educativo Nacional el contenido educativo de libros, libros de texto y materiales didácticos sobre cambio climático, de conformidad con la Ley General de Educación;
 
 XIII. Fomentar, en coordinación con la Secretaría de Educación Pública y las instituciones de investigación y educación superior del país, la capacidad científica, tecnológica y de innovación, en materia de desarrollo sustentable, medio ambiente y cambio climático;
 

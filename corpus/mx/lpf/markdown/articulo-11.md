@@ -17,4 +17,4 @@ source_sha256: fecec9ae534befd8467e94bb8eb7e39444938f6ef3346b9cc0e91932f4082885
 
 # Artículo 11
 
-Las relaciones jerárquicas en la Policía Federal, sus estructuras normativas y operativas, su organización territorial, las demás atribuciones de mando, dirección y disciplina, así como otros componentes de su régimen interno, serán determinados en el [Reglamento](articulo-4.md) de la presente ley, en términos de lo dispuesto en la [Ley](articulo-4.md) General del Sistema Nacional de Seguridad Pública y demás disposiciones jurídicas aplicables.
+Las relaciones jerárquicas en la Policía Federal, sus estructuras normativas y operativas, su organización territorial, las demás atribuciones de mando, dirección y disciplina, así como otros componentes de su régimen interno, serán determinados en el [Reglamento](articulo-4.md) de la presente ley, en términos de lo dispuesto en la Ley General del Sistema Nacional de Seguridad Pública y demás disposiciones jurídicas aplicables.

@@ -84,7 +84,7 @@ XXXII. Internet: Conjunto descentralizado de redes de telecomunicaciones en todo
 
 XXXIII. Interoperabilidad: Características técnicas de las redes públicas, sistemas y equipos de telecomunicaciones integrados a éstas que permiten la interconexión efectiva, por medio de las cuales se asegura la provisión de un servicio de telecomunicaciones específico de una manera consistente y predecible, en términos de la entrega funcional de servicios entre redes;
 
-XXXIV. Ley: Ley Federal de Telecomunicaciones y [Radiodifusión](articulo-3.md);
+XXXIV. Ley: Ley Federal de Telecomunicaciones y Radiodifusión;
 
 XXXV. Localización geográfica en tiempo real: Es la ubicación aproximada en el momento en que se procesa una búsqueda de un equipo terminal móvil asociado a una línea telefónica determinada;
 

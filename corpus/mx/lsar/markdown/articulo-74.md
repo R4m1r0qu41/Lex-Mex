@@ -27,7 +27,7 @@ III. Aportaciones Voluntarias, y
 
 IV. Aportaciones Complementarias de Retiro.
 
-Estas subcuentas se regirán por la presente ley. Asimismo, la subcuenta referida en la fracción I se regirá por lo dispuesto en la Ley del Seguro Social y la prevista en la fracción II se regirá por lo dispuesto en la Ley del Instituto del Fondo Nacional de la Vivienda para los [Trabajadores](articulo-3o.md).
+Estas subcuentas se regirán por la presente ley. Asimismo, la subcuenta referida en la fracción I se regirá por lo dispuesto en la Ley del Seguro Social y la prevista en la fracción II se regirá por lo dispuesto en la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores.
 
 Asimismo, los trabajadores afiliados podrán solicitar a su administradora que se traspasen sus cuentas individuales que se hayan abierto conforme al régimen previsto en la Ley del Seguro Social de 1973.
 

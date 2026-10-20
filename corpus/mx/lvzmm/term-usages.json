@@ -28,15 +28,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lvzmm:article:2:term-usage:1187-1210",
-    "provision_id": "urn:lex-mx:federal:statute:lvzmm:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lvzmm:term:zonas-marinas-mexicanas",
-    "span": "Zonas Marinas Mexicanas",
-    "start_char": 1187,
-    "end_char": 1210
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lvzmm:article:2:term-usage:1493-1496",
     "provision_id": "urn:lex-mx:federal:statute:lvzmm:article:2",
     "term_id": "urn:lex-mx:federal:statute:lvzmm:term:ley",
@@ -88,15 +79,6 @@
     "span": "Secretaría",
     "start_char": 2039,
     "end_char": 2049
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lvzmm:article:2:term-usage:2136-2139",
-    "provision_id": "urn:lex-mx:federal:statute:lvzmm:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lvzmm:term:ley",
-    "span": "Ley",
-    "start_char": 2136,
-    "end_char": 2139
   },
   {
     "schema_version": "0.1.0",
@@ -235,15 +217,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lvzmm:article:6:term-usage:88-91",
-    "provision_id": "urn:lex-mx:federal:statute:lvzmm:article:6",
-    "term_id": "urn:lex-mx:federal:statute:lvzmm:term:ley",
-    "span": "Ley",
-    "start_char": 88,
-    "end_char": 91
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lvzmm:article:6:term-usage:277-280",
     "provision_id": "urn:lex-mx:federal:statute:lvzmm:article:6",
     "term_id": "urn:lex-mx:federal:statute:lvzmm:term:ley",
@@ -376,24 +349,6 @@
     "span": "Secretaría",
     "start_char": 194,
     "end_char": 204
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lvzmm:article:13:term-usage:534-537",
-    "provision_id": "urn:lex-mx:federal:statute:lvzmm:article:13",
-    "term_id": "urn:lex-mx:federal:statute:lvzmm:term:ley",
-    "span": "Ley",
-    "start_char": 534,
-    "end_char": 537
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lvzmm:article:13:term-usage:637-640",
-    "provision_id": "urn:lex-mx:federal:statute:lvzmm:article:13",
-    "term_id": "urn:lex-mx:federal:statute:lvzmm:term:ley",
-    "span": "Ley",
-    "start_char": 637,
-    "end_char": 640
   },
   {
     "schema_version": "0.1.0",
@@ -946,15 +901,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lvzmm:article:37:term-usage:623-626",
-    "provision_id": "urn:lex-mx:federal:statute:lvzmm:article:37",
-    "term_id": "urn:lex-mx:federal:statute:lvzmm:term:ley",
-    "span": "Ley",
-    "start_char": 623,
-    "end_char": 626
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lvzmm:article:38:term-usage:3-13",
     "provision_id": "urn:lex-mx:federal:statute:lvzmm:article:38",
     "term_id": "urn:lex-mx:federal:statute:lvzmm:term:secretaria",
@@ -1144,15 +1090,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lvzmm:article:49:term-usage:111-114",
-    "provision_id": "urn:lex-mx:federal:statute:lvzmm:article:49",
-    "term_id": "urn:lex-mx:federal:statute:lvzmm:term:ley",
-    "span": "Ley",
-    "start_char": 111,
-    "end_char": 114
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lvzmm:article:49:term-usage:233-243",
     "provision_id": "urn:lex-mx:federal:statute:lvzmm:article:49",
     "term_id": "urn:lex-mx:federal:statute:lvzmm:term:secretaria",
@@ -1225,15 +1162,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lvzmm:article:57:term-usage:197-200",
-    "provision_id": "urn:lex-mx:federal:statute:lvzmm:article:57",
-    "term_id": "urn:lex-mx:federal:statute:lvzmm:term:ley",
-    "span": "Ley",
-    "start_char": 197,
-    "end_char": 200
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lvzmm:article:57:term-usage:575-585",
     "provision_id": "urn:lex-mx:federal:statute:lvzmm:article:57",
     "term_id": "urn:lex-mx:federal:statute:lvzmm:term:secretaria",
@@ -1285,15 +1213,6 @@
     "span": "Ley",
     "start_char": 562,
     "end_char": 565
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lvzmm:article:61:term-usage:757-760",
-    "provision_id": "urn:lex-mx:federal:statute:lvzmm:article:61",
-    "term_id": "urn:lex-mx:federal:statute:lvzmm:term:ley",
-    "span": "Ley",
-    "start_char": 757,
-    "end_char": 760
   },
   {
     "schema_version": "0.1.0",

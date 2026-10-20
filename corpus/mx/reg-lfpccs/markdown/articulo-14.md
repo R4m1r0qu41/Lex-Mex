@@ -17,4 +17,4 @@ source_sha256: 8a999465afe704f31d0f615aa1afb605c395600298a2433e09778463db25da47
 
 # Artículo 14
 
-Las promociones y procedimientos se sujetarán, en lo conducente, a las disposiciones de la [Ley](articulo-2.md) Federal de Procedimiento Administrativo.
+Las promociones y procedimientos se sujetarán, en lo conducente, a las disposiciones de la Ley Federal de Procedimiento Administrativo.

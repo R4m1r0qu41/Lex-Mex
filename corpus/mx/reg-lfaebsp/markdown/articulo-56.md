@@ -17,6 +17,6 @@ source_sha256: 9047ed3a46898bd7423b35e109f9c695e995408ca852aaaa07eb2cb902c9d7a3
 
 # Artículo 56
 
-El SAE únicamente podrá donar bienes a favor de la Federación, así como de los gobiernos de las entidades federativas o de los municipios, para que los destinen a la prestación de servicios públicos locales, en fines educativos o de asistencia social, o a instituciones autorizadas para recibir donativos deducibles en términos de la [Ley](articulo-1.md) del Impuesto Sobre la Renta que lo requieran para el desarrollo de sus actividades.
+El SAE únicamente podrá donar bienes a favor de la Federación, así como de los gobiernos de las entidades federativas o de los municipios, para que los destinen a la prestación de servicios públicos locales, en fines educativos o de asistencia social, o a instituciones autorizadas para recibir donativos deducibles en términos de la Ley del Impuesto Sobre la Renta que lo requieran para el desarrollo de sus actividades.
 
 Artículo reformado DOF 29-11-2006

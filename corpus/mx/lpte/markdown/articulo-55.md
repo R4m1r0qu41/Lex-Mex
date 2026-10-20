@@ -17,4 +17,4 @@ source_sha256: c24aa3a57883383635d5271683dd76e561f21852328f0e89f6bf1c2a09aa2d41
 
 # Artículo 55
 
-La [Secretaría](articulo-3.md) debe administrar los recursos siguientes: I. Los que se integran, en los términos previstos por la [Ley](articulo-3.md) Federal de Presupuesto y Responsabilidad Hacendaria, con recursos provenientes del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo; II. Los provenientes de donativos nacionales o internacionales de terceras personas para el cumplimiento de sus objetivos, y III. Otros recursos provenientes de aportaciones determinadas por la Secretaría de Hacienda y Crédito Público.
+La [Secretaría](articulo-3.md) debe administrar los recursos siguientes: I. Los que se integran, en los términos previstos por la Ley Federal de Presupuesto y Responsabilidad Hacendaria, con recursos provenientes del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo; II. Los provenientes de donativos nacionales o internacionales de terceras personas para el cumplimiento de sus objetivos, y III. Otros recursos provenientes de aportaciones determinadas por la Secretaría de Hacienda y Crédito Público.

@@ -17,4 +17,4 @@ source_sha256: 915a4f4f7947f248971aebed71f67ddf5fd26bd41faeacb7084ded7a6c57b6dc
 
 # Artículo 33
 
-Las operaciones realizadas por la [Institución](articulo-2.md) en la prestación del servicio de banca y crédito en las que se constituyan garantías reales, podrán hacerse constar en documento privado que, sin más formalidad, deberá ser inscrito por los encargados de los registros públicos correspondientes, en los términos del artículo [66](../../lic/markdown/articulo-66.md) de la [Ley](articulo-2.md) de Instituciones de Crédito.
+Las operaciones realizadas por la [Institución](articulo-2.md) en la prestación del servicio de banca y crédito en las que se constituyan garantías reales, podrán hacerse constar en documento privado que, sin más formalidad, deberá ser inscrito por los encargados de los registros públicos correspondientes, en los términos del artículo [66](../../lic/markdown/articulo-66.md) de la Ley de Instituciones de Crédito.

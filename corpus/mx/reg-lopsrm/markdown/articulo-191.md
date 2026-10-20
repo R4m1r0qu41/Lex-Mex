@@ -25,7 +25,7 @@ Donde:
 
 “Fsr” Representa el factor de salario real.
 
-“Ps” Representa, en fracción decimal, las obligaciones obrero-patronales derivadas de la [Ley](articulo-2.md) del Seguro Social y de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores.
+“Ps” Representa, en fracción decimal, las obligaciones obrero-patronales derivadas de la Ley del Seguro Social y de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores.
 
 “Tp” Representa los días realmente pagados durante un periodo anual.
 

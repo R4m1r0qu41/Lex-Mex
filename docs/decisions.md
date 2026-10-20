@@ -1,5 +1,33 @@
 # Architecture decisions
 
+## 2026-10-20 — Title-span usage filter: a term inside an instrument's title is not a usage
+
+**Operator (2026-10-20):** on lan's `Aguas Nacionales` inside `Ley de Aguas Nacionales`, chose "Build it now": the corpus-wide title-span usage filter of the 2026-10-18 outlier review (`docs/glossary-g0-g2-outlier-review-2026-10-18.md`, "The Ley / Reglamento / Código prefix fix").
+
+**Rule (`lex-cli` `drop_usages_in_titles`).**
+- **Title spans.** These are every committed instrument's official title with more than one word, including the instrument's own, plus every curated multi-word alias in `_instrument-aliases.json` whose instrument is committed.
+- **Matching.** Titles are found in any case, with any run of whitespace for a space (a title wrapped across lines), at word boundaries. A title shared by two instruments is still a title.
+- **Suppression.** A usage lying wholly inside a title span is dropped (`Ley` in `Ley Federal de Competencia Económica`; lan's `Aguas Nacionales` in `Ley de Aguas Nacionales`).
+- **Source-backed referent.** A usage is kept when the term's own definition entry names one of the titles covering it. reg-lan's `Ley` is defined as `la Ley de Aguas Nacionales` and stays a usage inside that title. Inside `Reglamento de la Ley General de Salud en Materia de …`, a `Ley` defined as `la Ley General de Salud` stays, because the nested title is its referent.
+- **Scope.** `usage_form: quoted` (reg-lan) is unchanged. Citation edges are unaffected; this filters glossary usages only.
+- **Tests:** `usages_inside_an_instrument_title_are_dropped_unless_the_definition_names_it`, covering another law's title, the defined referent's title, a nested title, a wrapped title and a bare `Ley`.
+- **Implementation.** Titles are indexed by first word, and each usage checks only the word starts just before it. A 513-way regex over every provision was tried first and took over 30 minutes for `link --all`; this takes about 4.5 minutes.
+
+**Measured** (`link --all`: exit 0; 5 rejections, exactly the accepted gaps; references 35,949 → 35,949):
+- **Usages:** 102,169 → 99,243. 2,926 removed in 210 instruments, none added. This equals, instrument by instrument, an independent Python prototype run before the Rust code.
+- **By term:** `Ley` 2,210 (other laws' titles), `Estados` 48 (`… de los Estados Unidos Mexicanos`), `Instituciones` 37, `Entidades Federativas` 34, `Instituciones de Seguros` 34 (lisf's own title), `Trabajadores` 30, `Impuesto` 26, `Código` 23 …
+- **578 usages kept** because the definition names the title.
+- **lritf** 1,091 → 1,088: `Valor` in `Ley para Determinar el Valor de la Unidad de Medida y Actualización`, and `Valores` in `Ley de la Comisión Nacional Bancaria y de Valores` (twice). ifpe-dcg-2021 is unchanged.
+- **lan:** the 3 `Aguas Nacionales` inside its own title.
+- **Coverage:** 210 files change `usage_count`. Markdown: 1,177 files, link-only.
+
+**For Codex review.**
+- **"La presente Ley".** A term whose definition is `la presente Ley` names no title, so its usages inside the instrument's own full title are dropped: lmigra 9, lgscmm 4. One reading is that the full title is not a use of the shorthand. The 2026-10-18 design would keep a usage whose title names the defined referent, which here needs a referent binding for self-reference.
+- **Not covered.**
+  - Titles absent from the corpus are not recognized, so a `Ley` inside them remains a usage.
+  - Bare `la Ley` and `esta Ley` remain under the existing scope policy.
+  - No ambiguity record is emitted for unrecognized title-like text.
+
 ## 2026-10-20 — Headings that print their name on the heading line; lan XXV's incisos (`glossary-extraction-5`)
 
 **Trigger.** Operator (2026-10-20): "go ahead with the fixes". Two parser defects were left open:

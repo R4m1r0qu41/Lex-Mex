@@ -73,51 +73,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lbio:article:3:term-usage:184-187",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lbio:article:3",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lbio:term:ley",
-    "span": "Ley",
-    "start_char": 184,
-    "end_char": 187
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lbio:article:3:term-usage:230-233",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lbio:article:3",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lbio:term:ley",
-    "span": "Ley",
-    "start_char": 230,
-    "end_char": 233
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lbio:article:3:term-usage:263-266",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lbio:article:3",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lbio:term:ley",
-    "span": "Ley",
-    "start_char": 263,
-    "end_char": 266
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lbio:article:3:term-usage:333-336",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lbio:article:3",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lbio:term:ley",
-    "span": "Ley",
-    "start_char": 333,
-    "end_char": 336
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lbio:article:3:term-usage:373-376",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lbio:article:3",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lbio:term:ley",
-    "span": "Ley",
-    "start_char": 373,
-    "end_char": 376
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lbio:article:3:term-usage:1171-1189",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lbio:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lbio:term:residuos-organicos",
@@ -316,15 +271,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lbio:article:7:term-usage:545-548",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lbio:article:7",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lbio:term:ley",
-    "span": "Ley",
-    "start_char": 545,
-    "end_char": 548
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lbio:article:8:term-usage:323-326",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lbio:article:8",
     "term_id": "urn:lex-mx:federal:regulation:reg-lbio:term:ley",
@@ -439,15 +385,6 @@
     "span": "Autorizaciones",
     "start_char": 254,
     "end_char": 268
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lbio:article:11:term-usage:400-403",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lbio:article:11",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lbio:term:ley",
-    "span": "Ley",
-    "start_char": 400,
-    "end_char": 403
   },
   {
     "schema_version": "0.1.0",
@@ -1360,15 +1297,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lbio:article:31:term-usage:569-572",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lbio:article:31",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lbio:term:ley",
-    "span": "Ley",
-    "start_char": 569,
-    "end_char": 572
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lbio:article:31:term-usage:1704-1709",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lbio:article:31",
     "term_id": "urn:lex-mx:federal:regulation:reg-lbio:term:sener",
@@ -1546,15 +1474,6 @@
     "span": "Ley",
     "start_char": 1193,
     "end_char": 1196
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lbio:article:34:term-usage:1232-1235",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lbio:article:34",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lbio:term:ley",
-    "span": "Ley",
-    "start_char": 1232,
-    "end_char": 1235
   },
   {
     "schema_version": "0.1.0",
@@ -2161,15 +2080,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lbio:article:49:term-usage:96-99",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lbio:article:49",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lbio:term:ley",
-    "span": "Ley",
-    "start_char": 96,
-    "end_char": 99
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lbio:article:50:term-usage:144-149",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lbio:article:50",
     "term_id": "urn:lex-mx:federal:regulation:reg-lbio:term:sener",
@@ -2260,15 +2170,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lbio:article:55:term-usage:574-577",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lbio:article:55",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lbio:term:ley",
-    "span": "Ley",
-    "start_char": 574,
-    "end_char": 577
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lbio:article:56:term-usage:151-156",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lbio:article:56",
     "term_id": "urn:lex-mx:federal:regulation:reg-lbio:term:sener",
@@ -2338,15 +2239,6 @@
     "span": "Ley",
     "start_char": 88,
     "end_char": 91
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lbio:article:57:term-usage:93-96",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lbio:article:57",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lbio:term:ley",
-    "span": "Ley",
-    "start_char": 93,
-    "end_char": 96
   },
   {
     "schema_version": "0.1.0",
@@ -2458,15 +2350,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lbio:article:59:term-usage:93-96",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lbio:article:59",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lbio:term:ley",
-    "span": "Ley",
-    "start_char": 93,
-    "end_char": 96
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lbio:article:59:term-usage:256-261",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lbio:article:59",
     "term_id": "urn:lex-mx:federal:regulation:reg-lbio:term:sener",
@@ -2512,15 +2395,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lbio:article:59:term-usage:995-998",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lbio:article:59",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lbio:term:ley",
-    "span": "Ley",
-    "start_char": 995,
-    "end_char": 998
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lbio:article:59:term-usage:1165-1177",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lbio:article:59",
     "term_id": "urn:lex-mx:federal:regulation:reg-lbio:term:autorizacion",
@@ -2563,15 +2437,6 @@
     "span": "Reglamento",
     "start_char": 206,
     "end_char": 216
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lbio:article:60:term-usage:1003-1006",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lbio:article:60",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lbio:term:ley",
-    "span": "Ley",
-    "start_char": 1003,
-    "end_char": 1006
   },
   {
     "schema_version": "0.1.0",
@@ -2701,15 +2566,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lbio:article:61:term-usage:2086-2089",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lbio:article:61",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lbio:term:ley",
-    "span": "Ley",
-    "start_char": 2086,
-    "end_char": 2089
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lbio:article:61:term-usage:2228-2231",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lbio:article:61",
     "term_id": "urn:lex-mx:federal:regulation:reg-lbio:term:ley",
@@ -2764,15 +2620,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lbio:article:61:term-usage:3018-3021",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lbio:article:61",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lbio:term:ley",
-    "span": "Ley",
-    "start_char": 3018,
-    "end_char": 3021
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lbio:article:61:term-usage:3285-3288",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lbio:article:61",
     "term_id": "urn:lex-mx:federal:regulation:reg-lbio:term:ley",
@@ -2788,15 +2635,6 @@
     "span": "Reglamento",
     "start_char": 3294,
     "end_char": 3304
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lbio:article:61:term-usage:3309-3312",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lbio:article:61",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lbio:term:ley",
-    "span": "Ley",
-    "start_char": 3309,
-    "end_char": 3312
   },
   {
     "schema_version": "0.1.0",
@@ -2833,15 +2671,6 @@
     "span": "SENER",
     "start_char": 4054,
     "end_char": 4059
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lbio:article:61:term-usage:4167-4170",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lbio:article:61",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lbio:term:ley",
-    "span": "Ley",
-    "start_char": 4167,
-    "end_char": 4170
   },
   {
     "schema_version": "0.1.0",
@@ -2887,15 +2716,6 @@
     "span": "SENER",
     "start_char": 45,
     "end_char": 50
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lbio:article:62:term-usage:104-107",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lbio:article:62",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lbio:term:ley",
-    "span": "Ley",
-    "start_char": 104,
-    "end_char": 107
   },
   {
     "schema_version": "0.1.0",
@@ -3160,15 +2980,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lbio:article:64:term-usage:2472-2475",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lbio:article:64",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lbio:term:ley",
-    "span": "Ley",
-    "start_char": 2472,
-    "end_char": 2475
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lbio:article:64:term-usage:2638-2641",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lbio:article:64",
     "term_id": "urn:lex-mx:federal:regulation:reg-lbio:term:ley",
@@ -3247,15 +3058,6 @@
     "span": "Autorizaciones",
     "start_char": 584,
     "end_char": 598
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lbio:article:65:term-usage:844-847",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lbio:article:65",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lbio:term:ley",
-    "span": "Ley",
-    "start_char": 844,
-    "end_char": 847
   },
   {
     "schema_version": "0.1.0",
@@ -3538,15 +3340,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lbio:article:74:term-usage:320-323",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lbio:article:74",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lbio:term:ley",
-    "span": "Ley",
-    "start_char": 320,
-    "end_char": 323
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lbio:article:75:term-usage:27-32",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lbio:article:75",
     "term_id": "urn:lex-mx:federal:regulation:reg-lbio:term:sader",
@@ -3607,15 +3400,6 @@
     "span": "SADER",
     "start_char": 1304,
     "end_char": 1309
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lbio:article:75:term-usage:1676-1679",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lbio:article:75",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lbio:term:ley",
-    "span": "Ley",
-    "start_char": 1676,
-    "end_char": 1679
   },
   {
     "schema_version": "0.1.0",
@@ -3805,15 +3589,6 @@
     "span": "SENER",
     "start_char": 1974,
     "end_char": 1979
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lbio:article:79:term-usage:2041-2044",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lbio:article:79",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lbio:term:ley",
-    "span": "Ley",
-    "start_char": 2041,
-    "end_char": 2044
   },
   {
     "schema_version": "0.1.0",
@@ -4024,15 +3799,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lbio:article:81:term-usage:1185-1188",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lbio:article:81",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lbio:term:ley",
-    "span": "Ley",
-    "start_char": 1185,
-    "end_char": 1188
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lbio:article:82:term-usage:52-64",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lbio:article:82",
     "term_id": "urn:lex-mx:federal:regulation:reg-lbio:term:autorizacion",
@@ -4129,15 +3895,6 @@
     "span": "Autorización",
     "start_char": 1638,
     "end_char": 1650
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lbio:article:82:term-usage:1687-1690",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lbio:article:82",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lbio:term:ley",
-    "span": "Ley",
-    "start_char": 1687,
-    "end_char": 1690
   },
   {
     "schema_version": "0.1.0",
@@ -4402,15 +4159,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lbio:article:91:term-usage:2450-2453",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lbio:article:91",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lbio:term:ley",
-    "span": "Ley",
-    "start_char": 2450,
-    "end_char": 2453
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lbio:article:91:term-usage:2622-2625",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lbio:article:91",
     "term_id": "urn:lex-mx:federal:regulation:reg-lbio:term:ley",
@@ -4627,33 +4375,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lbio:article:99:term-usage:460-463",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lbio:article:99",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lbio:term:ley",
-    "span": "Ley",
-    "start_char": 460,
-    "end_char": 463
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lbio:article:99:term-usage:874-877",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lbio:article:99",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lbio:term:ley",
-    "span": "Ley",
-    "start_char": 874,
-    "end_char": 877
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lbio:article:99:term-usage:950-953",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lbio:article:99",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lbio:term:ley",
-    "span": "Ley",
-    "start_char": 950,
-    "end_char": 953
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lbio:article:100:term-usage:294-299",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lbio:article:100",
     "term_id": "urn:lex-mx:federal:regulation:reg-lbio:term:sener",
@@ -4690,15 +4411,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lbio:article:101:term-usage:2476-2479",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lbio:article:101",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lbio:term:ley",
-    "span": "Ley",
-    "start_char": 2476,
-    "end_char": 2479
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lbio:article:102:term-usage:3-11",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lbio:article:102",
     "term_id": "urn:lex-mx:federal:regulation:reg-lbio:term:semarnat",
@@ -4714,15 +4426,6 @@
     "span": "Ley",
     "start_char": 55,
     "end_char": 58
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lbio:article:103:term-usage:271-274",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lbio:article:103",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lbio:term:ley",
-    "span": "Ley",
-    "start_char": 271,
-    "end_char": 274
   },
   {
     "schema_version": "0.1.0",
@@ -5101,15 +4804,6 @@
     "span": "SADER",
     "start_char": 593,
     "end_char": 598
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lbio:article:109:term-usage:730-733",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lbio:article:109",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lbio:term:ley",
-    "span": "Ley",
-    "start_char": 730,
-    "end_char": 733
   },
   {
     "schema_version": "0.1.0",

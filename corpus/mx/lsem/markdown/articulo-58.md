@@ -17,11 +17,11 @@ source_sha256: 012a7b3a18d987229f48c98a36b9b9cf91f5227b5e888ff09f535fd609e31c21
 
 # Artículo 58
 
-Incurrirá en irregularidad administrativa no grave, quien en ejercicio de sus funciones como [Miembro del Servicio Exterior](articulo-1-BIS.md), incumpla con alguna de las obligaciones previstas en el artículo [49](../../lgra/markdown/articulo-49.md) de la [Ley](articulo-1-BIS.md) General de Responsabilidades Administrativas, así como cuando realice actos u omisiones que constituyan cualquiera de las siguientes conductas: Párrafo reformado DOF 19-04-2018
+Incurrirá en irregularidad administrativa no grave, quien en ejercicio de sus funciones como [Miembro del Servicio Exterior](articulo-1-BIS.md), incumpla con alguna de las obligaciones previstas en el artículo [49](../../lgra/markdown/articulo-49.md) de la Ley General de Responsabilidades Administrativas, así como cuando realice actos u omisiones que constituyan cualquiera de las siguientes conductas: Párrafo reformado DOF 19-04-2018
 
 I. Abandonar el empleo, entendiendo por éste la falta a las labores por más de tres días consecutivos sin causa justificada; Fracción reformada DOF 25-01-2002
 
-II. Violar las obligaciones de los Miembros del [Servicio Exterior](articulo-1-BIS.md) establecidas en los artículos [41](articulo-41.md), párrafos primero, segundo y último, [43](articulo-43.md), [44](articulo-44.md) y [45](articulo-45.md) de la presente Ley; Fracción reformada DOF 19-04-2018
+II. Violar las obligaciones de los Miembros del [Servicio Exterior](articulo-1-BIS.md) establecidas en los artículos [41](articulo-41.md), párrafos primero, segundo y último, [43](articulo-43.md), [44](articulo-44.md) y [45](articulo-45.md) de la presente [Ley](articulo-1-BIS.md); Fracción reformada DOF 19-04-2018
 
 III. Se deroga. Fracción derogada DOF 19-04-2018
 

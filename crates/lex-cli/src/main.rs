@@ -1,5 +1,5 @@
 use std::{
-    collections::{BTreeMap, HashMap, HashSet},
+    collections::{BTreeMap, BTreeSet, HashMap, HashSet},
     fs,
     io::Write as _,
     path::{Path, PathBuf},
@@ -878,12 +878,18 @@ fn run_batch_command(
 struct InstrumentContext {
     config: SourceConfig,
     paths: Paths,
+    /// Repository root, for shared adapter tables (`_instrument-aliases.json`).
+    root: PathBuf,
 }
 
 fn instrument_context(root: &Path, slug: &str) -> Result<InstrumentContext> {
     let config = find_adapter(root, slug)?;
     let paths = Paths::new(root, slug, config.source_format);
-    Ok(InstrumentContext { config, paths })
+    Ok(InstrumentContext {
+        config,
+        paths,
+        root: root.to_path_buf(),
+    })
 }
 
 fn find_adapter(root: &Path, slug: &str) -> Result<SourceConfig> {
@@ -2386,6 +2392,13 @@ fn extract_instrument_terms(
         }
         None => usages,
     };
+    let usages = if usage_form.as_deref() == Some("quoted") {
+        usages
+    } else {
+        let definitions = term_definitions(&term_sets, provisions, siblings);
+        let index = title_index(&title_phrases(&context.root, instrument, siblings)?)?;
+        drop_usages_in_titles(usages, provisions, &definitions, &index)
+    };
     let imports = additive_to
         .iter()
         .zip(&adopted)
@@ -2399,6 +2412,214 @@ fn extract_instrument_terms(
         terms,
         usages,
     })
+}
+
+/// Instrument titles as usage boundaries: every committed instrument's
+/// official title with more than one word, and every curated multi-word
+/// alias whose instrument is committed, lower-cased.
+fn title_phrases(
+    root: &Path,
+    instrument: &Instrument,
+    siblings: &[(&str, &Corpus)],
+) -> Result<Vec<String>> {
+    let mut instruments: Vec<&Instrument> = vec![instrument];
+    instruments.extend(siblings.iter().map(|(_, corpus)| &corpus.instrument));
+    let mut phrases: BTreeSet<String> = instruments
+        .iter()
+        .map(|candidate| candidate.official_title.trim().to_lowercase())
+        .filter(|title| title.contains(' '))
+        .collect();
+    let alias_path = root.join("adapters/diputados/_instrument-aliases.json");
+    if alias_path.is_file() {
+        let table: InstrumentAliasTable = read_json(&alias_path)?;
+        let committed: HashSet<&str> = instruments
+            .iter()
+            .map(|candidate| candidate.short_name.as_str())
+            .collect();
+        for (short_name, aliases) in &table.aliases {
+            if committed.contains(short_name.as_str()) {
+                phrases.extend(
+                    aliases
+                        .iter()
+                        .filter(|alias| alias.contains(' '))
+                        .map(|alias| alias.to_lowercase()),
+                );
+            }
+        }
+    }
+    Ok(phrases.into_iter().collect())
+}
+
+/// Instrument titles, lower-cased with single spaces, indexed by their first
+/// word and longest first within it.
+struct TitleIndex {
+    by_first_word: HashMap<String, Vec<Vec<char>>>,
+    longest: usize,
+}
+
+/// The index of `phrases`. `link --all` asks once per instrument for the
+/// same corpus-wide set, so the last index is kept.
+fn title_index(phrases: &[String]) -> Result<std::sync::Arc<TitleIndex>> {
+    static CACHE: std::sync::Mutex<Option<(Vec<String>, std::sync::Arc<TitleIndex>)>> =
+        std::sync::Mutex::new(None);
+    let mut cache = CACHE
+        .lock()
+        .map_err(|_| anyhow::anyhow!("title index cache poisoned"))?;
+    if let Some((cached, index)) = cache.as_ref()
+        && cached.as_slice() == phrases
+    {
+        return Ok(index.clone());
+    }
+    let mut by_first_word: HashMap<String, Vec<Vec<char>>> = HashMap::new();
+    for phrase in phrases {
+        let title: Vec<char> = normalized(phrase).chars().collect();
+        let first: String = title.iter().take_while(|c| c.is_alphanumeric()).collect();
+        if !first.is_empty() {
+            by_first_word.entry(first).or_default().push(title);
+        }
+    }
+    for titles in by_first_word.values_mut() {
+        titles.sort_by_key(|title| std::cmp::Reverse(title.len()));
+    }
+    let longest = by_first_word
+        .values()
+        .flatten()
+        .map(Vec::len)
+        .max()
+        .unwrap_or(0);
+    let index = std::sync::Arc::new(TitleIndex {
+        by_first_word,
+        longest,
+    });
+    *cache = Some((phrases.to_vec(), index.clone()));
+    Ok(index)
+}
+
+fn normalized(text: &str) -> String {
+    text.split_whitespace()
+        .collect::<Vec<_>>()
+        .join(" ")
+        .to_lowercase()
+}
+
+fn lower(c: char) -> char {
+    c.to_lowercase().next().unwrap_or(c)
+}
+
+/// Where `title` ends when it is printed at `start` of `text`: any case,
+/// any run of whitespace for each space, and not running on into a word.
+fn title_end(text: &[char], start: usize, title: &[char]) -> Option<usize> {
+    let mut at = start;
+    for expected in title {
+        if *expected == ' ' {
+            let from = at;
+            while text.get(at).is_some_and(|c| c.is_whitespace()) {
+                at += 1;
+            }
+            if at == from {
+                return None;
+            }
+        } else if text.get(at).map(|c| lower(*c)) == Some(*expected) {
+            at += 1;
+        } else {
+            return None;
+        }
+    }
+    let ends_in_word = title.last().is_some_and(|c| c.is_alphanumeric());
+    (!ends_in_word || text.get(at).is_none_or(|c| !c.is_alphanumeric())).then_some(at)
+}
+
+/// Every title printed over `[start, end)` of `text`: a title nested in a
+/// longer one (`Ley General de Salud` in `Reglamento de la Ley General de
+/// Salud en Materia de …`) covers it too.
+fn covering_titles(text: &[char], start: usize, end: usize, index: &TitleIndex) -> Vec<String> {
+    let mut covering = Vec::new();
+    for begin in start.saturating_sub(index.longest)..=start.min(text.len().saturating_sub(1)) {
+        if !text[begin].is_alphanumeric() || (begin > 0 && text[begin - 1].is_alphanumeric()) {
+            continue;
+        }
+        let word: String = text[begin..]
+            .iter()
+            .take_while(|c| c.is_alphanumeric())
+            .map(|c| lower(*c))
+            .collect();
+        for title in index.by_first_word.get(&word).into_iter().flatten() {
+            if title_end(text, begin, title).is_some_and(|stop| stop >= end) {
+                covering.push(title.iter().collect());
+            }
+        }
+    }
+    covering
+}
+
+/// Drop usages inside an instrument title: they are the title's words, not
+/// uses of the term (`Ley` in `Ley Federal de Competencia Económica`; lan's
+/// `Aguas Nacionales` in `Ley de Aguas Nacionales`). A usage stays when the
+/// term's own definition names a title that covers it, its source-backed
+/// referent: reg-lan defines `Ley` as `la Ley de Aguas Nacionales`. Citation
+/// edges are unaffected.
+fn drop_usages_in_titles(
+    usages: Vec<lex_core::TermUsage>,
+    provisions: &[lex_core::Provision],
+    definitions: &HashMap<String, String>,
+    index: &TitleIndex,
+) -> Vec<lex_core::TermUsage> {
+    let used: HashSet<&str> = usages
+        .iter()
+        .map(|usage| usage.provision_id.as_str())
+        .collect();
+    let texts: HashMap<String, Vec<char>> = provisions
+        .iter()
+        .filter(|provision| used.contains(provision.id.as_str()))
+        .map(|provision| (provision.id.clone(), provision.text.chars().collect()))
+        .collect();
+    usages
+        .into_iter()
+        .filter(|usage| {
+            let Some(text) = texts.get(&usage.provision_id) else {
+                return true;
+            };
+            let titles = covering_titles(text, usage.start_char, usage.end_char, index);
+            titles.is_empty()
+                || definitions.get(&usage.term_id).is_some_and(|definition| {
+                    titles
+                        .iter()
+                        .any(|title| definition.contains(title.as_str()))
+                })
+        })
+        .collect()
+}
+
+/// Each term's definition entry, whitespace-collapsed and lower-cased: the
+/// span of its defining provision, in this instrument or the one it adopts
+/// the term from.
+fn term_definitions(
+    term_sets: &[&[lex_core::DefinedTerm]],
+    provisions: &[lex_core::Provision],
+    siblings: &[(&str, &Corpus)],
+) -> HashMap<String, String> {
+    let texts: HashMap<&str, &str> = provisions
+        .iter()
+        .chain(
+            siblings
+                .iter()
+                .flat_map(|(_, corpus)| corpus.provisions.iter()),
+        )
+        .map(|provision| (provision.id.as_str(), provision.text.as_str()))
+        .collect();
+    term_sets
+        .iter()
+        .flat_map(|set| set.iter())
+        .filter_map(|term| {
+            let text = texts.get(term.defining_provision_id.as_str())?;
+            let entry: String = text
+                .chars()
+                .skip(term.start_char)
+                .take(term.end_char.saturating_sub(term.start_char))
+                .collect();
+            Some((term.id.clone(), normalized(&entry)))
+        })
+        .collect()
 }
 
 /// Remove the adapter's reviewed non-usages. Each must remove exactly one
@@ -3275,7 +3496,14 @@ fn load_instrument_contexts(
             format!("no adapter configuration found for instrument {slug:?} under adapters/")
         })?;
         let paths = Paths::new(root, slug, config.source_format);
-        contexts.insert(slug.clone(), InstrumentContext { config, paths });
+        contexts.insert(
+            slug.clone(),
+            InstrumentContext {
+                config,
+                paths,
+                root: root.to_path_buf(),
+            },
+        );
     }
     Ok(contexts)
 }
@@ -4803,6 +5031,71 @@ mod tests {
     use url::Url;
 
     #[test]
+    fn usages_inside_an_instrument_title_are_dropped_unless_the_definition_names_it() {
+        let text = "La Ley y la Ley Federal de\nDerechos rigen las Aguas Nacionales; \
+                    la Ley de Aguas Nacionales también, y el Reglamento de la Ley de Aguas \
+                    Nacionales.";
+        let provision = Provision {
+            text: text.to_owned(),
+            ..fixture_corpus("urn:x:reg", "Reglamento", "REG", "Texto").provisions[0].clone()
+        };
+        let at = |needle: &str, nth: usize| {
+            let byte = text.match_indices(needle).nth(nth).unwrap().0;
+            text[..byte].chars().count()
+        };
+        let usage = |term: &str, span: &str, start: usize| lex_core::TermUsage {
+            schema_version: SCHEMA_VERSION.to_owned(),
+            id: format!("{}:term-usage:{start}", provision.id),
+            provision_id: provision.id.clone(),
+            term_id: term.to_owned(),
+            span: span.to_owned(),
+            start_char: start,
+            end_char: start + span.chars().count(),
+        };
+        let usages = vec![
+            usage("ley", "Ley", at("Ley", 0)),
+            usage("ley", "Ley", at("Ley", 1)),
+            usage("aguas", "Aguas Nacionales", at("Aguas Nacionales", 0)),
+            usage("ley", "Ley", at("Ley", 2)),
+            usage("aguas", "Aguas Nacionales", at("Aguas Nacionales", 1)),
+            usage("ley", "Ley", at("Ley", 3)),
+        ];
+        // `Ley` is defined as the Ley de Aguas Nacionales; the waters are not.
+        let definitions = HashMap::from([
+            (
+                "ley".to_owned(),
+                "ley: la ley de aguas nacionales;".to_owned(),
+            ),
+            (
+                "aguas".to_owned(),
+                "aguas nacionales: las del artículo 27;".to_owned(),
+            ),
+        ]);
+        let index = super::title_index(&[
+            "Ley Federal de Derechos".to_owned(),
+            "Ley de Aguas Nacionales".to_owned(),
+            "Reglamento de la Ley de Aguas Nacionales".to_owned(),
+        ])
+        .unwrap();
+        let kept: Vec<(String, usize)> =
+            super::drop_usages_in_titles(usages, &[provision], &definitions, &index)
+                .into_iter()
+                .map(|usage| (usage.term_id, usage.start_char))
+                .collect();
+        assert_eq!(
+            kept,
+            [
+                ("ley".to_owned(), at("Ley", 0)),
+                ("aguas".to_owned(), at("Aguas Nacionales", 0)),
+                ("ley".to_owned(), at("Ley", 2)),
+                // Inside the Reglamento's title, `Ley` is still the title it
+                // is defined as.
+                ("ley".to_owned(), at("Ley", 3)),
+            ]
+        );
+    }
+
+    #[test]
     fn a_reviewed_non_usage_removes_exactly_its_pinned_match_and_a_stale_one_fails() {
         let usage = |start: usize, span: &str| lex_core::TermUsage {
             schema_version: SCHEMA_VERSION.to_owned(),
@@ -5822,6 +6115,7 @@ mod tests {
         let mut context = InstrumentContext {
             config,
             paths: Paths::new(temp.path(), "lritf", SourceFormat::Pdf),
+            root: temp.path().to_path_buf(),
         };
         let mut corpus = fixture_corpus(&context.config.instrument_id, "Fixture", "LRITF", "Texto");
         let approval = lex_core::OutdatedReferenceApproval {

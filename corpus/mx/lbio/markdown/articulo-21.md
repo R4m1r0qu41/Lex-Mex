@@ -17,9 +17,9 @@ source_sha256: c1870db657a6564bbeb692a1778472db811a920626822de553ff5ca5194f95b4
 
 # Artículo 21
 
-El Sistema Nacional de Investigación y Transferencia Tecnológica para el Desarrollo Rural Sustentable, previsto en la [Ley](articulo-2.md) de Desarrollo Rural Sustentable, es la instancia encargada de coordinar y orientar la investigación, el desarrollo tecnológico y la capacitación en materia de la [Producción](articulo-2.md) sustentable de [Biomasa](articulo-2.md) en [Suelos Marginales](articulo-2.md), para el uso directo como [Biocombustible](articulo-2.md) o para su Producción y uso.
+El Sistema Nacional de Investigación y Transferencia Tecnológica para el Desarrollo Rural Sustentable, previsto en la Ley de Desarrollo Rural Sustentable, es la instancia encargada de coordinar y orientar la investigación, el desarrollo tecnológico y la capacitación en materia de la [Producción](articulo-2.md) sustentable de [Biomasa](articulo-2.md) en [Suelos Marginales](articulo-2.md), para el uso directo como [Biocombustible](articulo-2.md) o para su Producción y uso.
 
-Este Sistema cuenta, para los efectos de esta Ley, con las siguientes facultades: I. Realizar investigaciones en materia de producción de Biomasa en Suelos Marginales para el uso directo como Biocombustible o para su Producción;
+Este Sistema cuenta, para los efectos de esta [Ley](articulo-2.md), con las siguientes facultades: I. Realizar investigaciones en materia de producción de Biomasa en Suelos Marginales para el uso directo como Biocombustible o para su Producción;
 
 II. Promover el desarrollo tecnológico en materia de producción de Biomasa en Suelos Marginales para el uso directo como Biocombustible o para su Producción;
 

@@ -35,7 +35,7 @@ VIII. Fomentar la constitución y operación de organismos auxiliares de crédit
 
 IX. Procurar el mejoramiento de las condiciones de vida de las familias cañeras del país y promover el desarrollo rural sustentable de la agroindustria de la caña de azúcar;
 
-X. Participar en representación de los intereses de sus agremiados en el [Comité Nacional](articulo-3.md) y las instancias contempladas en la [Ley](articulo-3.md) de Desarrollo Rural Sustentable y en la presente Ley;
+X. Participar en representación de los intereses de sus agremiados en el [Comité Nacional](articulo-3.md) y las instancias contempladas en la Ley de Desarrollo Rural Sustentable y en la presente [Ley](articulo-3.md);
 
 XI. Defender los intereses de sus agremiados en la [Junta Permanente](articulo-3.md), en los términos que se señalen en sus estatutos y en el reglamento interno de dicha Junta Permanente;
 

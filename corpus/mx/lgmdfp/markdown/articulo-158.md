@@ -19,4 +19,4 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 La Secretaría de Gobernación, la [Fiscalía](articulo-4.md), así como las Fiscalías y Procuradurías Locales y las [Instituciones de Seguridad Pública](articulo-4.md) deberán coordinarse para implementar las medidas de prevención previstas en el artículo [161](articulo-161.md) de esta Ley. Párrafo reformado DOF 20-05-2021
 
-Lo anterior con independencia de las establecidas en la Ley General para la Prevención Social de la Violencia y la Delincuencia, así como en la Ley General del [Sistema Nacional](articulo-4.md) de Seguridad Pública.
+Lo anterior con independencia de las establecidas en la Ley General para la Prevención Social de la Violencia y la Delincuencia, así como en la Ley General del Sistema Nacional de Seguridad Pública.

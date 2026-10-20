@@ -15,4 +15,4 @@ source_sha256: 04d67464e1efc0472040e2ff8012ced52c73ff4fc3573c8e2d3477fd976359c6
 
 # Décimo Primero
 
-Los municipios podrán cumplir con las obligaciones a su cargo en materia de transparencia y acceso a la información, en términos de lo previsto en el transitorio Décimo de la [Ley](articulo-2.md) General de Transparencia y Acceso a la Información Pública que se abroga por virtud de este Decreto.
+Los municipios podrán cumplir con las obligaciones a su cargo en materia de transparencia y acceso a la información, en términos de lo previsto en el transitorio Décimo de la Ley General de Transparencia y Acceso a la Información Pública que se abroga por virtud de este Decreto.

@@ -17,4 +17,4 @@ source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 
 El pilotaje se prestará a toda [Embarcación Mayor](articulo-10.md) que arribe o zarpe cuando esté legalmente obligada a utilizar el servicio, así como a las demás que sin estar obligadas lo soliciten. En este último caso, desde que el servicio sea autorizado quedará sujeto el solicitante al cumplimiento de las disposiciones de este Reglamento.
 
-La Secretaría, por conducto de la unidad administrativa que determine su reglamento interior, establecerá las bases de regulación tarifaria y de precios aplicables al servicio portuario de pilotaje, en términos de la [Ley](articulo-10.md) de Puertos.
+La Secretaría, por conducto de la unidad administrativa que determine su reglamento interior, establecerá las bases de regulación tarifaria y de precios aplicables al servicio portuario de pilotaje, en términos de la Ley de Puertos.

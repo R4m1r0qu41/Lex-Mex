@@ -31,7 +31,7 @@ V. Admitir, desechar y tramitar los incidentes y recursos que le competan, formu
 
 VI. Dictar los acuerdos o providencias de trámite necesarios para instruir el procedimiento sancionatorio, incluyendo la imposición de las medidas de apremio necesarias para hacer cumplir sus determinaciones, acordar las promociones de las partes y los informes de las autoridades y atender la correspondencia necesaria, autorizándola con su firma; VII. Formular el proyecto de resolución definitiva y, en su caso, el que recaiga a la instancia de apelación o ejecutoria;
 
-VIII. Dictar los acuerdos y providencias relativas a las medidas cautelares provisionales en los términos de la [Ley](articulo-2.md) General de Responsabilidades Administrativas, así como proponer a la Sala el proyecto de resolución correspondiente a la medida cautelar definitiva que se estime procedente;
+VIII. Dictar los acuerdos y providencias relativas a las medidas cautelares provisionales en los términos de la Ley General de Responsabilidades Administrativas, así como proponer a la Sala el proyecto de resolución correspondiente a la medida cautelar definitiva que se estime procedente;
 
 IX. Proponer a la Sala la designación del perito tercero;
 

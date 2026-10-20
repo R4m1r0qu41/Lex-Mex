@@ -19,4 +19,4 @@ source_sha256: aca2d65d2eef1b7c26ab431772ce7364305d103f5e4bacc87da02064df005ae3
 
 Cuando los beneficiarios proporcionen información socioeconómica falsa con el objeto de recibir indebidamente los apoyos y servicios contenidos en los programas de desarrollo social, las dependencias y entidades de la Administración Pública Federal procederán a suspender, en lo sucesivo, la ministración de los mismos. En caso de que ya se hubieren otorgado, solicitarán su reintegro, sin perjuicio de que se apliquen las sanciones que procedan, con base en el procedimiento que determinen las disposiciones legales correspondientes.
 
-El afectado podrá recurrir la resolución en términos de la [Ley](articulo-3.md) Federal de Procedimiento Administrativo.
+El afectado podrá recurrir la resolución en términos de la Ley Federal de Procedimiento Administrativo.

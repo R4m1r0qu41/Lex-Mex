@@ -17,4 +17,4 @@ source_sha256: 4bcc982b308b0813469b30db61b53d5a2c41e5a7240b3b1cac2f1aeeb2c00a2e
 
 # Artículo 5
 
-A falta de disposición expresa en este ordenamiento, son de aplicación supletoria al mismo, la [Ley](articulo-2.md) Federal de Procedimiento Administrativo y el código de procedimientos civiles vigente. La interpretación del presente reglamento corresponde a la Secretaría y a la CNE, en el ámbito de sus respectivas facultades.
+A falta de disposición expresa en este ordenamiento, son de aplicación supletoria al mismo, la Ley Federal de Procedimiento Administrativo y el código de procedimientos civiles vigente. La interpretación del presente reglamento corresponde a la Secretaría y a la CNE, en el ámbito de sus respectivas facultades.

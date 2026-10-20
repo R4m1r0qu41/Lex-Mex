@@ -24,4 +24,4 @@ La transmisión o promoción de los concursos en que se ofrezcan premios en sus 
 
 Tratándose de concursos que se transmitan a través de señales provenientes del extranjero, los concesionarios celebrarán acuerdos con los programadores y operadores de las señales extranjeras, que garanticen la seriedad de los concursos y el cumplimiento en la entrega de los premios cuando se trate de participantes ganadores en territorio nacional.
 
-Las transmisiones de carácter religioso se deben sujetar a lo establecido por la [Ley](articulo-3.md) de Asociaciones Religiosas y Culto Público y demás disposiciones en la materia.
+Las transmisiones de carácter religioso se deben sujetar a lo establecido por la Ley de Asociaciones Religiosas y Culto Público y demás disposiciones en la materia.

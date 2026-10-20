@@ -46,15 +46,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgv:article:6:term-usage:2144-2152",
-    "provision_id": "urn:lex-mx:federal:statute:lgv:article:6",
-    "term_id": "urn:lex-mx:federal:statute:lgv:term:victima",
-    "span": "Víctimas",
-    "start_char": 2144,
-    "end_char": 2152
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgv:article:6:term-usage:2246-2254",
     "provision_id": "urn:lex-mx:federal:statute:lgv:article:6",
     "term_id": "urn:lex-mx:federal:statute:lgv:term:victima",
@@ -79,15 +70,6 @@
     "span": "Víctimas",
     "start_char": 2914,
     "end_char": 2922
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgv:article:6:term-usage:3099-3107",
-    "provision_id": "urn:lex-mx:federal:statute:lgv:article:6",
-    "term_id": "urn:lex-mx:federal:statute:lgv:term:victima",
-    "span": "Víctimas",
-    "start_char": 3099,
-    "end_char": 3107
   },
   {
     "schema_version": "0.1.0",
@@ -421,15 +403,6 @@
     "span": "Comisiones de víctimas",
     "start_char": 1643,
     "end_char": 1665
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgv:article:21:term-usage:2219-2233",
-    "provision_id": "urn:lex-mx:federal:statute:lgv:article:21",
-    "term_id": "urn:lex-mx:federal:statute:lgv:term:procedimiento",
-    "span": "Procedimientos",
-    "start_char": 2219,
-    "end_char": 2233
   },
   {
     "schema_version": "0.1.0",
@@ -3016,15 +2989,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgv:article:132:term-usage:310-324",
-    "provision_id": "urn:lex-mx:federal:statute:lgv:article:132",
-    "term_id": "urn:lex-mx:federal:statute:lgv:term:procedimiento",
-    "span": "Procedimientos",
-    "start_char": 310,
-    "end_char": 324
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgv:article:132:term-usage:691-701",
     "provision_id": "urn:lex-mx:federal:statute:lgv:article:132",
     "term_id": "urn:lex-mx:federal:statute:lgv:term:reglamento",
@@ -3412,30 +3376,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgv:article:160:term-usage:181-188",
-    "provision_id": "urn:lex-mx:federal:statute:lgv:article:160",
-    "term_id": "urn:lex-mx:federal:statute:lgv:term:sistema",
-    "span": "Sistema",
-    "start_char": 181,
-    "end_char": 188
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgv:article:162:term-usage:284-293",
     "provision_id": "urn:lex-mx:federal:statute:lgv:article:162",
     "term_id": "urn:lex-mx:federal:statute:lgv:term:programa",
     "span": "Programas",
     "start_char": 284,
     "end_char": 293
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgv:article:162:term-usage:357-364",
-    "provision_id": "urn:lex-mx:federal:statute:lgv:article:162",
-    "term_id": "urn:lex-mx:federal:statute:lgv:term:sistema",
-    "span": "Sistema",
-    "start_char": 357,
-    "end_char": 364
   },
   {
     "schema_version": "0.1.0",
@@ -4057,15 +4003,6 @@
     "span": "Reglamentos",
     "start_char": 151,
     "end_char": 162
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgv:transitory:decimo-tercero:term-usage:165-172",
-    "provision_id": "urn:lex-mx:federal:statute:lgv:transitory:decimo-tercero",
-    "term_id": "urn:lex-mx:federal:statute:lgv:term:delito",
-    "span": "Delitos",
-    "start_char": 165,
-    "end_char": 172
   },
   {
     "schema_version": "0.1.0",

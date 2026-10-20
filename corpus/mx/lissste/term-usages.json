@@ -14374,15 +14374,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:transitory:segundo:term-usage:66-75",
-    "provision_id": "urn:lex-mx:federal:statute:lissste:transitory:segundo",
-    "term_id": "urn:lex-mx:federal:statute:lissste:term:instituto",
-    "span": "Instituto",
-    "start_char": 66,
-    "end_char": 75
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lissste:transitory:cuarto:term-usage:62-71",
     "provision_id": "urn:lex-mx:federal:statute:lissste:transitory:cuarto",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:instituto",
@@ -15973,15 +15964,6 @@
     "span": "Instituto",
     "start_char": 506,
     "end_char": 515
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:transitory:trigesimo-octavo:term-usage:694-699",
-    "provision_id": "urn:lex-mx:federal:statute:lissste:transitory:trigesimo-octavo",
-    "term_id": "urn:lex-mx:federal:statute:lissste:term:renta",
-    "span": "Renta",
-    "start_char": 694,
-    "end_char": 699
   },
   {
     "schema_version": "0.1.0",

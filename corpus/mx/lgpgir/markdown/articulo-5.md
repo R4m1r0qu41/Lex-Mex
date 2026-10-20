@@ -45,7 +45,7 @@ XIII. Incineración: Cualquier proceso para reducir el volumen y descomponer o c
 
 XIV. Inventario de Residuos: Base de datos en la cual se asientan con orden y clasificación los volúmenes de generación de los diferentes residuos, que se integra a partir de la información proporcionada por los generadores en los formatos establecidos para tal fin, de conformidad con lo dispuesto en este ordenamiento;
 
-XV. Ley: Ley General para la Prevención y Gestión Integral de los [Residuos](articulo-5.md);
+XV. Ley: Ley General para la Prevención y Gestión Integral de los Residuos;
 
 XVI. Lixiviado: Líquido que se forma por la reacción, arrastre o filtrado de los materiales que constituyen los residuos y que contiene en forma disuelta o en suspensión, sustancias que pueden infiltrarse en los suelos o escurrirse fuera de los sitios en los que se depositan los residuos y que puede dar lugar a la contaminación del suelo y de cuerpos de agua, provocando su deterioro y representar un riesgo potencial a la salud humana y de los demás organismos vivos;
 

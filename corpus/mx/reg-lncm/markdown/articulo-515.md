@@ -25,7 +25,7 @@ III. Presentar al momento de iniciar la prestación del servicio de pilotaje, in
 
 IV. Desempeñar cualquier empleo, cargo o comisión, directo o indirecto, en las empresas de navieros o agencias navieras usuarias del pilotaje, así como en sus empresas filiales o subsidiarias.
 
-La revocación del Certificado de Competencia se tramitará con sujeción al procedimiento establecido en la [Ley](articulo-10.md) Federal de Procedimiento Administrativo, y el Piloto de Puerto sólo será separado de sus funciones cuando dicha revocación cause estado.
+La revocación del Certificado de Competencia se tramitará con sujeción al procedimiento establecido en la Ley Federal de Procedimiento Administrativo, y el Piloto de Puerto sólo será separado de sus funciones cuando dicha revocación cause estado.
 
 No obstante lo anterior, en el supuesto previsto en la fracción III de este artículo, la [Dirección General](articulo-10.md) podrá suspender la actividad del piloto como medida de seguridad para salvaguardar la seguridad pública de las Embarcaciones e instalaciones portuarias en tanto se trámite y resuelva el procedimiento.
 

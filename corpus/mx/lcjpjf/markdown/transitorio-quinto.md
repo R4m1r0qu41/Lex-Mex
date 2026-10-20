@@ -15,4 +15,4 @@ source_sha256: 1307711de5651aa4df9452c8ea4a2e519ab6725b85c014a2e1844a9f8e823f4f
 
 # Quinto
 
-Se abroga la [Ley](articulo-2.md) de [Carrera Judicial](articulo-2.md) del Poder Judicial de la Federación, publicada en el Diario Oficial de la Federación el siete de junio de dos mil veintiuno.
+Se abroga la [Ley](articulo-2.md) de Carrera Judicial del Poder Judicial de la Federación, publicada en el Diario Oficial de la Federación el siete de junio de dos mil veintiuno.

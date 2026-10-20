@@ -17,13 +17,13 @@ source_sha256: eaf7300918a6f5dc58fbd5f36373f914841ad3b728a6ac60d6c9ff2f28ec8e12
 
 # Artículo 1
 
-La presente Ley es reglamentaria del artículo [3](../../cpeum/markdown/articulo-3o.md)o. de la Constitución Política de los [Estados](articulo-6.md) Unidos Mexicanos, en materia de educación superior. Es de observancia general para toda la República y sus disposiciones son de orden público e interés social.
+La presente Ley es reglamentaria del artículo [3](../../cpeum/markdown/articulo-3o.md)o. de la Constitución Política de los Estados Unidos Mexicanos, en materia de educación superior. Es de observancia general para toda la República y sus disposiciones son de orden público e interés social.
 
 Su aplicación corresponde a las autoridades educativas de la Federación, de las entidades federativas y a los municipios, así como a las autoridades de las instituciones de educación superior, en los términos y ámbitos de competencia que la ley establece.
 
 Esta Ley tiene por objeto:
 
-I. Establecer las bases para dar cumplimiento a la obligación del Estado de garantizar el ejercicio del derecho a la educación superior;
+I. Establecer las bases para dar cumplimiento a la obligación del [Estado](articulo-6.md) de garantizar el ejercicio del derecho a la educación superior;
 
 II. Contribuir al desarrollo social, cultural, científico, tecnológico, humanístico, productivo y económico del país, a través de la formación de personas con capacidad creativa, innovadora y emprendedora con un alto compromiso social que pongan al servicio de la Nación y de la sociedad sus conocimientos;
 

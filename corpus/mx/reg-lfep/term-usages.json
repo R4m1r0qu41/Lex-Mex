@@ -10,39 +10,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfep:article:1:term-usage:76-99",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfep:article:1",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfep:term:entidades-paraestatales",
-    "span": "Entidades Paraestatales",
-    "start_char": 76,
-    "end_char": 99
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lfep:article:1:term-usage:252-255",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfep:article:1",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfep:term:ley",
     "span": "Ley",
     "start_char": 252,
     "end_char": 255
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfep:article:2:term-usage:85-108",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfep:article:2",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfep:term:entidades-paraestatales",
-    "span": "Entidades Paraestatales",
-    "start_char": 85,
-    "end_char": 108
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfep:article:2:term-usage:305-308",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfep:article:2",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfep:term:ley",
-    "span": "Ley",
-    "start_char": 305,
-    "end_char": 308
   },
   {
     "schema_version": "0.1.0",
@@ -61,15 +34,6 @@
     "span": "Ley",
     "start_char": 78,
     "end_char": 81
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfep:article:6:term-usage:306-309",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfep:article:6",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfep:term:ley",
-    "span": "Ley",
-    "start_char": 306,
-    "end_char": 309
   },
   {
     "schema_version": "0.1.0",
@@ -133,15 +97,6 @@
     "span": "Ley",
     "start_char": 262,
     "end_char": 265
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfep:article:18:term-usage:1391-1394",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfep:article:18",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfep:term:ley",
-    "span": "Ley",
-    "start_char": 1391,
-    "end_char": 1394
   },
   {
     "schema_version": "0.1.0",

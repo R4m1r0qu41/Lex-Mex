@@ -19,7 +19,7 @@ source_sha256: a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8
 
 En términos de las disposiciones aplicables la [Comisión Ejecutiva](articulo-6.md) recibirá:
 
-I. El producto de la enajenación de los bienes que sean decomisados en los procedimientos penales, en la proporción que corresponda, una vez que se haya cubierto la compensación, en los términos establecidos en el Código Nacional de [Procedimientos](articulo-6.md) Penales o en la legislación respectiva, y
+I. El producto de la enajenación de los bienes que sean decomisados en los procedimientos penales, en la proporción que corresponda, una vez que se haya cubierto la compensación, en los términos establecidos en el Código Nacional de Procedimientos Penales o en la legislación respectiva, y
 
 II. Los recursos provenientes de las fianzas o garantías que se hagan efectivas cuando los procesados incumplan con las obligaciones impuestas por la autoridad. Lo anterior a efecto de que dichos recursos sean destinados para el pago de las ayudas, asistencia y reparación integral a víctimas, en términos de esta Ley y el [Reglamento](articulo-6.md).
 

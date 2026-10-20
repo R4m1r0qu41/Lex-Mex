@@ -17,4 +17,4 @@ source_sha256: 2beb1a3a5c23de93f1588ce6d4e4c209e73a8d747f19e3165706f38abcee8fe3
 
 # Artículo 3o
 
-Los trámites y procedimientos que se realicen ante el [Instituto](articulo-2o.md), serán objeto de pago de derechos conforme a las cuotas que para cada caso se señale en la [Ley](articulo-2o.md) Federal de Derechos.
+Los trámites y procedimientos que se realicen ante el [Instituto](articulo-2o.md), serán objeto de pago de derechos conforme a las cuotas que para cada caso se señale en la Ley Federal de Derechos.

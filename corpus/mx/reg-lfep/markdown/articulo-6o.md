@@ -19,4 +19,4 @@ source_sha256: fa76340e597a2214f73b039f2a89465f9c1037f7d1630a852689124478621873
 
 La desincorporación de entidades paraestatales de la Administración Pública Federal, se llevará a cabo mediante la disolución, liquidación, extinción, fusión, enajenación, o bien, mediante transferencia a las entidades federativas. Párrafo reformado 07-04-1995
 
-En el caso de entidades consideradas por la [Ley](articulo-2o.md) Orgánica de la Administración Pública Federal, como empresas de participación estatal mayoritaria, estas serán desincorporadas a través de los actos por virtud de los cuáles dichas Entidades dejen de encontrarse en los supuestos a que se refiere el artículo 46 de la mencionada Ley.
+En el caso de entidades consideradas por la Ley Orgánica de la Administración Pública Federal, como empresas de participación estatal mayoritaria, estas serán desincorporadas a través de los actos por virtud de los cuáles dichas Entidades dejen de encontrarse en los supuestos a que se refiere el artículo 46 de la mencionada [Ley](articulo-2o.md).

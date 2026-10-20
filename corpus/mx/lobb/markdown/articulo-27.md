@@ -17,6 +17,6 @@ source_sha256: 915a4f4f7947f248971aebed71f67ddf5fd26bd41faeacb7084ded7a6c57b6dc
 
 # Artículo 27
 
-La vigilancia de la Sociedad se realizará por los órganos y en los términos señalados en la [Ley](articulo-2.md) de [Instituciones](articulo-2.md) de Crédito y las disposiciones de carácter general que emita la Comisión Nacional Bancaria y de Valores.
+La vigilancia de la Sociedad se realizará por los órganos y en los términos señalados en la Ley de Instituciones de Crédito y las disposiciones de carácter general que emita la Comisión Nacional Bancaria y de Valores.
 
 Artículo reformado DOF 23-02-2005, 10-01-2014

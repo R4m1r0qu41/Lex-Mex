@@ -17,4 +17,4 @@ source_sha256: 940a253624138d30b02fa48711786f4b2637c99bcb195ee0ada59748474ed76b
 
 # Artículo 77
 
-Para la determinación de los montos de las contraprestaciones de los testigos sociales, las dependencias y entidades deberán sujetarse al tabulador autorizado que emita la Secretaría, el cual observará los principios de racionalidad, austeridad y eficiencia previstos en la [Ley](articulo-2.md) Federal de Austeridad Republicana. La contraprestación será por la prestación integral de los servicios encomendados al testigo social, en el procedimiento de contratación al que fue designado, sin que proceda el pago por horas o servicios fraccionados.
+Para la determinación de los montos de las contraprestaciones de los testigos sociales, las dependencias y entidades deberán sujetarse al tabulador autorizado que emita la Secretaría, el cual observará los principios de racionalidad, austeridad y eficiencia previstos en la Ley Federal de Austeridad Republicana. La contraprestación será por la prestación integral de los servicios encomendados al testigo social, en el procedimiento de contratación al que fue designado, sin que proceda el pago por horas o servicios fraccionados.

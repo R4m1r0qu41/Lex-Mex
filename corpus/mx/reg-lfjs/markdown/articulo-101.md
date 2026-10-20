@@ -25,4 +25,4 @@ II. Bebidas alcohólicas;
 
 III. Medicamentos, o
 
-IV. Productos o artículos que atenten contra la salud, en los términos previstos por la [Ley](articulo-3.md) General de Salud.
+IV. Productos o artículos que atenten contra la salud, en los términos previstos por la Ley General de Salud.

@@ -17,6 +17,6 @@ source_sha256: 4dcf5277184d5f5c5cc1c8ae2dfa196134b472d883eb2806c7bac27cd77eda7d
 
 # Artículo 225
 
-Las personas proveedoras de servicio y operadoras aéreas que gestionen la fatiga por el método prescriptivo deben asegurar el cumplimiento a los períodos efectivos de vuelo, jornada de trabajo, períodos de servicio desempeñados y periodos de descanso del personal, acorde a la naturaleza de las operaciones o actividades aéreas que realicen conforme a lo dispuesto en la [Ley](articulo-2.md) Federal del Trabajo, la Ley, este reglamento, las normas oficiales mexicanas y las disposiciones técnico- administrativas correspondientes.
+Las personas proveedoras de servicio y operadoras aéreas que gestionen la fatiga por el método prescriptivo deben asegurar el cumplimiento a los períodos efectivos de vuelo, jornada de trabajo, períodos de servicio desempeñados y periodos de descanso del personal, acorde a la naturaleza de las operaciones o actividades aéreas que realicen conforme a lo dispuesto en la Ley Federal del Trabajo, la [Ley](articulo-2.md), este reglamento, las normas oficiales mexicanas y las disposiciones técnico- administrativas correspondientes.
 
 Artículo adicionado DOF 31-05-2023

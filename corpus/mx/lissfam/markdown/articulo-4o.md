@@ -19,11 +19,11 @@ source_sha256: 35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc
 
 Para los efectos de esta [Ley](articulo-4o.md), se entiende por:
 
-I. Ley, la Ley del [Instituto](articulo-4o.md) de Seguridad Social para las Fuerzas Armadas Mexicanas;
+I. Ley, la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas;
 
 II. Instituto, el Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas;
 
-III. Junta, la Junta Directiva, Órgano de Gobierno del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas;
+III. Junta, la Junta Directiva, Órgano de Gobierno del [Instituto](articulo-4o.md) de Seguridad Social para las Fuerzas Armadas Mexicanas;
 
 IV. Fuerza Armada Permanente, el Ejército, la Fuerza Aérea, la Armada y la Guardia Nacional; Fracción reformada DOF 16-07-2025
 

@@ -29,6 +29,6 @@ III. Contar con un sistema de administración ambiental implantado;
 
 IV. No haber sido objeto de sanción por parte de cualquier autoridad ambiental en el año inmediato anterior al de la convocatoria del concurso de este reconocimiento;
 
-V. No tener pasivos ambientales conforme se definen en la [Ley](articulo-2.md) General para la Prevención y Gestión Integral de los Residuos, y
+V. No tener pasivos ambientales conforme se definen en la Ley General para la Prevención y Gestión Integral de los Residuos, y
 
 VI. De haber presentado [Emergencias Ambientales](articulo-2.md) durante su operación, y en su caso, haberlas atendido con una eficacia superior a la establecida en sus planes y programas de respuesta a las mismas.

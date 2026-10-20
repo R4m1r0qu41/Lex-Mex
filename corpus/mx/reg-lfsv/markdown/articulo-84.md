@@ -17,4 +17,4 @@ source_sha256: 1311332a5177afc73a9d005e9953e0cd34487524768e6fe099a1c6fef29bdbb7
 
 # Artículo 84
 
-El Acondicionamiento de las [Mercancías Reguladas](articulo-2.md) se llevará a cabo bajo supervisión del personal de la Secretaría, [Órganos de Coadyuvancia](articulo-2.md) o Profesionales Fitosanitarios Autorizados, debiendo dejar constancia de la supervisión en un acta circunstanciada conforme a la [Ley](articulo-2.md) Federal de Procedimiento Administrativo.
+El Acondicionamiento de las [Mercancías Reguladas](articulo-2.md) se llevará a cabo bajo supervisión del personal de la Secretaría, [Órganos de Coadyuvancia](articulo-2.md) o Profesionales Fitosanitarios Autorizados, debiendo dejar constancia de la supervisión en un acta circunstanciada conforme a la Ley Federal de Procedimiento Administrativo.

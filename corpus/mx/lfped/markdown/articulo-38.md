@@ -17,7 +17,7 @@ source_sha256: f12e559ab950b52583c04f0ebddcf312054e07300f56b2c546028580e154a8d9
 
 # Artículo 38
 
-El [Consejo](articulo-1.md) contará con una contraloría, órgano de control interno, al frente de la cual estará la persona designada en los términos de la [Ley](articulo-1.md) Orgánica de la Administración Pública Federal.
+El [Consejo](articulo-1.md) contará con una contraloría, órgano de control interno, al frente de la cual estará la persona designada en los términos de la Ley Orgánica de la Administración Pública Federal.
 
 Corresponderá al órgano constitucional autónomo en materia anticorrupción por sí o a través del órgano interno de control del Consejo, el ejercicio de las atribuciones que en materia de control, inspección, vigilancia y evaluación le confieren la Ley Orgánica de la Administración Pública Federal, sin perjuicio de las facultades que corresponden a la Auditoría Superior de la Federación. Párrafo reformado DOF 09-04-2012, 20-03-2014
 

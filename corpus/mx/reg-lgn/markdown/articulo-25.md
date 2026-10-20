@@ -59,7 +59,7 @@ XXI. Coordinar la implementación del Programa Operativo Anual de Trabajo de la 
 
 XXII. Coordinar y supervisar la correcta ministración de recursos humanos y materiales para la ejecución de los operativos que realicen las unidades de la Institución y mantener informado sobre su ejercicio al Comandante;
 
-XXIII. Promover el desarrollo de acciones para transparentar la gestión pública de la Institución, en términos de lo establecido en la [Ley General](articulo-2.md) de Transparencia y Acceso a la Información Pública, [Ley](articulo-2.md) Federal de Transparencia y Acceso a la Información Pública y demás disposiciones en esta materia;
+XXIII. Promover el desarrollo de acciones para transparentar la gestión pública de la Institución, en términos de lo establecido en la Ley General de Transparencia y Acceso a la Información Pública, [Ley](articulo-2.md) Federal de Transparencia y Acceso a la Información Pública y demás disposiciones en esta materia;
 
 XXIV. Coordinar la organización, sistematización y operación de la administración de documentos, archivos y acervos de la Institución de conformidad con las disposiciones jurídicas aplicables;
 

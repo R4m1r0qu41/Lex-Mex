@@ -15,4 +15,4 @@ source_sha256: 1e049d88e21ced9b995b6727c474bcffdfd4e1a0dd4d09d2bb41ce994fe08416
 
 # Décima Segunda
 
-En tanto se expida el Reglamento a que hacen referencia los artículos 278 y 282 de la Ley de [Instituciones de Seguros](articulo-2.md) y de Fianzas, se aplicará, en lo conducente, lo establecido en el Reglamento del artículo 95 de la Ley Federal de [Instituciones de Fianzas](articulo-2.md), para el cobro de fianzas otorgadas a favor de la Federación, del Distrito Federal, de los Estados y de los Municipios, distintas de las que garantizan obligaciones fiscales federales a cargo de terceros.
+En tanto se expida el Reglamento a que hacen referencia los artículos 278 y 282 de la Ley de Instituciones de Seguros y de Fianzas, se aplicará, en lo conducente, lo establecido en el Reglamento del artículo 95 de la Ley Federal de Instituciones de Fianzas, para el cobro de fianzas otorgadas a favor de la Federación, del Distrito Federal, de los Estados y de los Municipios, distintas de las que garantizan obligaciones fiscales federales a cargo de terceros.

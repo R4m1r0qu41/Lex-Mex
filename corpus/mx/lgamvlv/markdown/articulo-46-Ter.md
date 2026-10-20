@@ -29,7 +29,7 @@ IV. Diseñar y difundir materiales que promuevan la prevención, atención y err
 
 V. Tomar medidas y realizar las acciones necesarias, en coordinación con las demás autoridades, para alcanzar los objetivos previstos en la presente ley;
 
-VI. Constituir un padrón sobre las unidades destinadas para las mujeres a las que se refieren los artículos [63](../../lagra/markdown/articulo-63.md) y [71](../../lagra/markdown/articulo-71.md) de la [Ley](articulo-5.md) Agraria, con base en la información contenida en el Registro Agrario Nacional;
+VI. Constituir un padrón sobre las unidades destinadas para las mujeres a las que se refieren los artículos [63](../../lagra/markdown/articulo-63.md) y [71](../../lagra/markdown/articulo-71.md) de la Ley Agraria, con base en la información contenida en el Registro Agrario Nacional;
 
 VII. Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema y del [Programa](articulo-5.md), y
 

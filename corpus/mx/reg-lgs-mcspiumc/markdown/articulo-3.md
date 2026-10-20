@@ -27,7 +27,7 @@ III. Adquirir: Obtener, a título oneroso, [Materia Prima](articulo-3.md), [Deri
 
 IV. Buenas Prácticas de Laboratorio: Conjunto de reglas, procedimientos operacionales y prácticas establecidas para asegurar la calidad e integridad de las actividades realizadas en el Laboratorio de Calidad y de los datos analíticos obtenidos de ensayos o pruebas;
 
-V. Calificación de Semilla: Procedimiento por el cual se verifican las semillas de Cannabis, conforme a las reglas que para tal efecto emita la [SADER](articulo-3.md), en su calidad genética, física, fisiológica y fitosanitaria, conforme a la [Ley](articulo-3.md) Federal de Producción, Certificación y Comercio de Semillas y su Reglamento;
+V. Calificación de Semilla: Procedimiento por el cual se verifican las semillas de Cannabis, conforme a las reglas que para tal efecto emita la [SADER](articulo-3.md), en su calidad genética, física, fisiológica y fitosanitaria, conforme a la Ley Federal de Producción, Certificación y Comercio de Semillas y su Reglamento;
 
 VI. Cannabinoides: Compuestos orgánicos pertenecientes al grupo de los terpenofenoles, entre los que se encuentran, el cannabidiol y tetrahidrocannabinol;
 
@@ -51,7 +51,7 @@ XVI. Elaborar y Preparar: Conjunto de acciones tendientes a la obtención de Der
 
 XVII. Emplear o Usar: Utilizar Materia Prima, Derivados Farmacológicos y Medicamentos de Cannabis;
 
-XVIII. Establecimientos: Los que refiere el artículo [257](../../lgs/markdown/articulo-257.md) de la Ley;
+XVIII. Establecimientos: Los que refiere el artículo [257](../../lgs/markdown/articulo-257.md) de la [Ley](articulo-3.md);
 
 XIX. Exportación: Salida de Derivados Farmacológicos y Medicamentos de Cannabis, del territorio nacional, bajo el régimen de exportación definitiva, en términos de la Ley Aduanera y su Reglamento;
 

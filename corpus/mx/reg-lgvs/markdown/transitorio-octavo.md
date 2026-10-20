@@ -15,4 +15,4 @@ source_sha256: 3a97451a0d3cb27d8eba822bd3e5b72fca6ffa1aef6573310e68047ddc188bad
 
 # OCTAVO
 
-Las acciones que lleve a cabo la Secretaría de Medio Ambiente y Recursos Naturales para la aplicación del presente Reglamento, en las que se ejerzan recursos de carácter federal, se sujetarán a la [Ley](articulo-2.md) Federal de Presupuesto y Responsabilidad Hacendaria y su Reglamento, así como a las disposiciones aplicables en materia presupuestaria y a la disponibilidad de recursos que se haya aprobado para tal fin en el Presupuesto de Egresos de la Federación en el ejercicio fiscal correspondiente.
+Las acciones que lleve a cabo la Secretaría de Medio Ambiente y Recursos Naturales para la aplicación del presente Reglamento, en las que se ejerzan recursos de carácter federal, se sujetarán a la Ley Federal de Presupuesto y Responsabilidad Hacendaria y su Reglamento, así como a las disposiciones aplicables en materia presupuestaria y a la disponibilidad de recursos que se haya aprobado para tal fin en el Presupuesto de Egresos de la Federación en el ejercicio fiscal correspondiente.

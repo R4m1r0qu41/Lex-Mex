@@ -41,7 +41,7 @@ X. Celebrar convenios de cooperación, coordinación y concertación en la mater
 
 XI. Realizar las acciones necesarias para implementar las medidas establecidas en la Alerta de Violencia de Género contra las mujeres; Fracción adicionada DOF 29-04-2022. Reformada DOF 16-12-2024
 
-XII. Cumplir con las facultades y responsabilidades que le corresponden y que se derivan de la operación del [Registro Nacional](articulo-5.md), en términos de lo dispuesto en la presente ley y en la Ley General del [Sistema Nacional](articulo-5.md) de Seguridad Pública, y Fracción adicionada DOF 16-12-2024
+XII. Cumplir con las facultades y responsabilidades que le corresponden y que se derivan de la operación del [Registro Nacional](articulo-5.md), en términos de lo dispuesto en la presente ley y en la Ley General del Sistema Nacional de Seguridad Pública, y Fracción adicionada DOF 16-12-2024
 
 XIII. La atención de los demás asuntos que en materia de violencia contra las mujeres les conceda esta ley u otros ordenamientos legales. Fracción recorrida DOF 29-04-2022, 16-12-2024
 

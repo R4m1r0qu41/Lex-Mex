@@ -25,7 +25,7 @@ II. Entregar a las Empresas Operadoras, la información relativa a las cuotas y 
 
 III. Recibir e incluir en las cédulas de determinación, la información que le remita el [INFONAVIT](articulo-2o.md) para tal efecto;
 
-IV. Realizar de conformidad con la [Ley](articulo-2o.md) del Seguro Social y sus reglamentos, y con base en la información que le proporcione la Comisión o las Empresas Operadoras, acciones tendientes a que los patrones formulen las aclaraciones relativas a las cuotas y aportaciones que enteren y que no puedan ser individualizadas. A tal efecto, el IMSS informará a la Comisión o a las Empresas Operadoras las acciones realizadas;
+IV. Realizar de conformidad con la Ley del Seguro Social y sus reglamentos, y con base en la información que le proporcione la Comisión o las Empresas Operadoras, acciones tendientes a que los patrones formulen las aclaraciones relativas a las cuotas y aportaciones que enteren y que no puedan ser individualizadas. A tal efecto, el IMSS informará a la Comisión o a las Empresas Operadoras las acciones realizadas;
 
 V. Emitir opinión respecto de las operaciones y procesos en los que el [Manual de Procedimientos Transaccionales](articulo-2o.md) prevea su participación;
 

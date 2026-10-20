@@ -19,7 +19,7 @@ source_sha256: 75ae7c5f6dd941ce9a3e988e5310c87422966b1774f3b7e83919538c0bb079e9
 
 Los particulares que impartan educación con autorización o con reconocimiento de validez oficial de estudios deberán:
 
-I. Cumplir con lo dispuesto en el artículo [3](../../cpeum/markdown/articulo-3o.md)o. de la Constitución Política de los [Estados](articulo-4.md) Unidos Mexicanos, en la presente Ley y demás disposiciones aplicables;
+I. Cumplir con lo dispuesto en el artículo [3](../../cpeum/markdown/articulo-3o.md)o. de la Constitución Política de los Estados Unidos Mexicanos, en la presente Ley y demás disposiciones aplicables;
 
 II. Cumplir con los planes y programas de estudio que las autoridades educativas competentes hayan determinado o considerado procedentes y mantenerlos actualizados;
 

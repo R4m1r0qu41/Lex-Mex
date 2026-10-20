@@ -17,8 +17,8 @@ source_sha256: a823b87d27bee29da481750b9893f00024bd80aed8b0713bf8b1ac1e55b9b8de
 
 # Artículo 143
 
-La aplicación de las sanciones a las personas físicas y morales se regirá por las disposiciones contenidas en este capítulo y en forma supletoria por la [Ley](articulo-3.md) Federal de Procedimiento Administrativo. En su sustanciación se respetarán plenamente los derechos humanos de los migrantes.
+La aplicación de las sanciones a las personas físicas y morales se regirá por las disposiciones contenidas en este capítulo y en forma supletoria por la Ley Federal de Procedimiento Administrativo. En su sustanciación se respetarán plenamente los derechos humanos de los migrantes.
 
-Son de orden público para todos los efectos legales, la deportación de los extranjeros y las medidas que dicte la [Secretaría](articulo-3.md) conforme a la presente Ley.
+Son de orden público para todos los efectos legales, la deportación de los extranjeros y las medidas que dicte la [Secretaría](articulo-3.md) conforme a la presente [Ley](articulo-3.md).
 
 La deportación es la medida dictada por el [Instituto](articulo-3.md) mediante la cual se ordena la salida del territorio nacional de un extranjero y se determina el período durante el cual no podrá reingresar al mismo, cuando incurra en los supuestos previstos en el artículo [144](articulo-144.md) de esta Ley.

@@ -23,7 +23,7 @@ I. Asilo Político: Protección que el Estado Mexicano otorga a un extranjero co
 
 II. Asilado: El extranjero que encontrándose en el supuesto establecido en el artículo 61 de la Ley recibe la protección del Estado Mexicano.
 
-III. Fundados Temores: Los actos y hechos que den o hayan dado lugar a una persecución, y que por su naturaleza, carácter reiterado, o bien, por una acumulación de acciones por parte de un tercero, ponen o podrían poner en riesgo la vida, la libertad o la seguridad de una persona. IV. Ley: Ley sobre Refugiados, [Protección Complementaria](articulo-2.md) y [Asilo Político](articulo-2.md).
+III. Fundados Temores: Los actos y hechos que den o hayan dado lugar a una persecución, y que por su naturaleza, carácter reiterado, o bien, por una acumulación de acciones por parte de un tercero, ponen o podrían poner en riesgo la vida, la libertad o la seguridad de una persona. IV. Ley: Ley sobre Refugiados, Protección Complementaria y Asilo Político.
 
 V. Reglamento: Reglamento de la Ley sobre Refugiados, Protección Complementaria y Asilo Político.
 

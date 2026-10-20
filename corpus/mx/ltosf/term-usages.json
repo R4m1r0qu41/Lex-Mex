@@ -901,15 +901,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3:term-usage:495-512",
-    "provision_id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3",
-    "term_id": "urn:lex-mx:federal:statute:ltosf:term:sistema-de-pagos",
-    "span": "Sistemas de Pagos",
-    "start_char": 495,
-    "end_char": 512
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3:term-usage:669-679",
     "provision_id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3",
     "term_id": "urn:lex-mx:federal:statute:ltosf:term:comision",

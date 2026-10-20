@@ -38,7 +38,7 @@ VI. Los requisitos y características que deberán cumplir las partes en la real
 
 Tratándose de operaciones que se celebren a través de Administradores de Comisionistas, las Sociedades Financieras Populares deberán prever en los contratos de comisión mercantil, la obligación a cargo del citado administrador de acreditar el cumplimiento de los requisitos señalados en las fracciones II, IV, V y VI del artículo [265 Bis 35](articulo-265-Bis-35.md) respecto de las operaciones que efectúen con sus comisionistas administrados.
 
-VII. La obligación por parte de la Sociedad Financiera Popular de proveer los medios necesarios a fin de dar cumplimiento a lo dispuesto por la [Ley](articulo-1.md) para la Transparencia y Ordenamiento de los Servicios Financieros y por las demás disposiciones legales que les resulten aplicables en la realización de las operaciones objeto de la comisión, así como de asegurarse de que el comisionista efectivamente cumple lo anterior.
+VII. La obligación por parte de la Sociedad Financiera Popular de proveer los medios necesarios a fin de dar cumplimiento a lo dispuesto por la Ley para la Transparencia y Ordenamiento de los Servicios Financieros y por las demás disposiciones legales que les resulten aplicables en la realización de las operaciones objeto de la comisión, así como de asegurarse de que el comisionista efectivamente cumple lo anterior.
 
 VIII. Que el comisionista respectivo tendrá prohibido:
 
@@ -60,7 +60,7 @@ IX. Los términos y condiciones a que se refiere el penúltimo párrafo del inci
 
 X. La facultad de la Sociedad Financiera Popular para suspender operaciones o dar por terminado el respectivo contrato sin responsabilidad, en términos de lo dispuesto por el artículo [265 Bis 48](articulo-265-Bis-48.md) de las presentes Disposiciones.
 
-XI. Tratándose de las operaciones a que se refiere la fracción IX del artículo [265 Bis 36](articulo-265-Bis-36.md) de las presentes disposiciones, la obligación del comisionista o, en su caso, del Administrador de Comisionistas para recabar del Cliente la información necesaria a fin de dar cumplimiento a lo previsto en el artículo 124 de la Ley y las disposiciones que de dicho precepto emanen.
+XI. Tratándose de las operaciones a que se refiere la fracción IX del artículo [265 Bis 36](articulo-265-Bis-36.md) de las presentes disposiciones, la obligación del comisionista o, en su caso, del Administrador de Comisionistas para recabar del Cliente la información necesaria a fin de dar cumplimiento a lo previsto en el artículo 124 de la [Ley](articulo-1.md) y las disposiciones que de dicho precepto emanen.
 
 Para ello, los citados comisionistas o, en su caso, los Administradores de Comisionistas deberán transmitir en tiempo y forma a la Sociedad Financiera Popular la información relativa a las mencionadas operaciones, a fin de que la propia sociedad dé cumplimiento al citado artículo 124 de la Ley y las disposiciones que de él emanen.
 

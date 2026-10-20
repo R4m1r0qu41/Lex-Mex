@@ -49,7 +49,7 @@ XIV. Participar con absoluto respeto a su autonomía en las instancias de coordi
 
 XV. Celebrar acuerdos, bases de colaboración, convenios y demás instrumentos jurídicos con autoridades federales y con los gobiernos de las entidades federativas y de los municipios, órganos públicos autónomos, así como con organizaciones de los sectores social y privado, en el ámbito de su competencia;
 
-XVI. Celebrar acuerdos interinstitucionales vinculados con los fines de la Fiscalía General con órganos gubernamentales extranjeros u organismos internacionales, en términos de lo dispuesto en la [Ley](articulo-9.md) sobre la Celebración de Tratados y demás disposiciones aplicables;
+XVI. Celebrar acuerdos interinstitucionales vinculados con los fines de la Fiscalía General con órganos gubernamentales extranjeros u organismos internacionales, en términos de lo dispuesto en la Ley sobre la Celebración de Tratados y demás disposiciones aplicables;
 
 XVII. Celebrar los convenios de colaboración para el adecuado funcionamiento del Mecanismo de Apoyo Exterior, en cumplimiento a los fines institucionales;
 
@@ -75,7 +75,7 @@ XXVIII. Autorizar el no ejercicio de la acción penal o, en su caso, el desistim
 
 XXIX. Autorizar a la persona agente del Ministerio Público de la Federación para que solicite al órgano jurisdiccional la sustitución de la prisión preventiva oficiosa por otra medida cautelar en los términos y forma que prevea el Código Nacional;
 
-XXX. Autorizar la publicación del Plan Estratégico de Procuración de Justicia de conformidad con lo dispuesto en la presente Ley, los criterios generales y prioridades en la investigación de los delitos, así como en el ejercicio de la acción penal y de extinción de dominio;
+XXX. Autorizar la publicación del Plan Estratégico de Procuración de Justicia de conformidad con lo dispuesto en la presente [Ley](articulo-9.md), los criterios generales y prioridades en la investigación de los delitos, así como en el ejercicio de la acción penal y de extinción de dominio;
 
 XXXI. Coordinar a las unidades y órganos de la Fiscalía General en el suministro de información y asegurar su consolidación, consistencia, oportunidad, y confiabilidad para los fines de formulación de la política de persecución penal que establecerá el Plan Estratégico de Procuración de Justicia;
 

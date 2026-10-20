@@ -17,4 +17,4 @@ source_sha256: fc8b5680b4a1402fe4c59be919f85ace11eb8114a27f8179757dbc3bc428cdd1
 
 # Artículo 27
 
-Las grabaciones de las sesiones del Pleno de la [Comisión](articulo-3.md) se pondrán a disposición en versiones públicas generadas en términos de la [Ley](articulo-3.md) General de Transparencia y Acceso a la Información Pública y se contará adicionalmente con una versión estenográfica, las cuales estarán a disposición del público en el portal de [Internet](articulo-3.md) de la Comisión. Las sesiones del Pleno se conservarán para posteriores consultas.
+Las grabaciones de las sesiones del Pleno de la [Comisión](articulo-3.md) se pondrán a disposición en versiones públicas generadas en términos de la Ley General de Transparencia y Acceso a la Información Pública y se contará adicionalmente con una versión estenográfica, las cuales estarán a disposición del público en el portal de [Internet](articulo-3.md) de la Comisión. Las sesiones del Pleno se conservarán para posteriores consultas.

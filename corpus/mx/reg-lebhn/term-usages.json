@@ -712,24 +712,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lebhn:article:42:term-usage:135-138",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lebhn:article:42",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lebhn:term:ley",
-    "span": "Ley",
-    "start_char": 135,
-    "end_char": 138
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lebhn:article:43:term-usage:136-139",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lebhn:article:43",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lebhn:term:ley",
-    "span": "Ley",
-    "start_char": 136,
-    "end_char": 139
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lebhn:transitory:segundo:term-usage:3-13",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lebhn:transitory:segundo",
     "term_id": "urn:lex-mx:federal:regulation:reg-lebhn:term:secretaria",

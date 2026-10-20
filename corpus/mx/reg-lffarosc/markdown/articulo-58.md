@@ -17,4 +17,4 @@ source_sha256: 50d888e53a7b0990f6d19dbab03d263e01ca7d4a4365a0c2663e03caf9f2715c
 
 # Artículo 58
 
-Contra los actos y las resoluciones que la Comisión dicte con motivo de la aplicación de este Reglamento y los que den fin a una instancia o resuelvan un expediente, los interesados podrán interponer el recurso de revisión, el cual se sustanciará en los términos de la [Ley](articulo-2.md) Federal de Procedimiento Administrativo.
+Contra los actos y las resoluciones que la Comisión dicte con motivo de la aplicación de este Reglamento y los que den fin a una instancia o resuelvan un expediente, los interesados podrán interponer el recurso de revisión, el cual se sustanciará en los términos de la Ley Federal de Procedimiento Administrativo.

@@ -28,24 +28,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnrd:article:2:term-usage:466-469",
-    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lnrd:term:ley",
-    "span": "Ley",
-    "start_char": 466,
-    "end_char": 469
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnrd:article:2:term-usage:669-677",
-    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lnrd:term:registro",
-    "span": "Registro",
-    "start_char": 669,
-    "end_char": 677
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lnrd:article:2:term-usage:1222-1230",
     "provision_id": "urn:lex-mx:federal:statute:lnrd:article:2",
     "term_id": "urn:lex-mx:federal:statute:lnrd:term:registro",
@@ -304,15 +286,6 @@
     "span": "Registro",
     "start_char": 1386,
     "end_char": 1394
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnrd:article:11:term-usage:1527-1530",
-    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:11",
-    "term_id": "urn:lex-mx:federal:statute:lnrd:term:ley",
-    "span": "Ley",
-    "start_char": 1527,
-    "end_char": 1530
   },
   {
     "schema_version": "0.1.0",
@@ -658,15 +631,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnrd:article:27:term-usage:200-203",
-    "provision_id": "urn:lex-mx:federal:statute:lnrd:article:27",
-    "term_id": "urn:lex-mx:federal:statute:lnrd:term:ley",
-    "span": "Ley",
-    "start_char": 200,
-    "end_char": 203
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lnrd:article:28:term-usage:151-159",
     "provision_id": "urn:lex-mx:federal:statute:lnrd:article:28",
     "term_id": "urn:lex-mx:federal:statute:lnrd:term:registro",
@@ -997,15 +961,6 @@
     "span": "Registro",
     "start_char": 960,
     "end_char": 968
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnrd:transitory:octavo:term-usage:153-156",
-    "provision_id": "urn:lex-mx:federal:statute:lnrd:transitory:octavo",
-    "term_id": "urn:lex-mx:federal:statute:lnrd:term:ley",
-    "span": "Ley",
-    "start_char": 153,
-    "end_char": 156
   },
   {
     "schema_version": "0.1.0",

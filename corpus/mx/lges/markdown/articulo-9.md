@@ -19,7 +19,7 @@ source_sha256: eaf7300918a6f5dc58fbd5f36373f914841ad3b728a6ac60d6c9ff2f28ec8e12
 
 Los fines de la educación superior serán:
 
-I. Contribuir a garantizar el derecho a la educación establecido en el artículo [3](../../cpeum/markdown/articulo-3o.md)o. de la Constitución Política de los [Estados](articulo-6.md) Unidos Mexicanos y al aprendizaje integral del estudiante;
+I. Contribuir a garantizar el derecho a la educación establecido en el artículo [3](../../cpeum/markdown/articulo-3o.md)o. de la Constitución Política de los Estados Unidos Mexicanos y al aprendizaje integral del estudiante;
 
 II. Formar profesionales con visión científica, tecnológica, innovadora, humanista e internacional, con una sólida preparación en sus campos de estudio, responsables y comprometidos con la sociedad y el desarrollo de México, con conciencia ética y solidaria, pensamiento crítico y creativo, así como su capacidad innovadora, productiva y emprendedora;
 

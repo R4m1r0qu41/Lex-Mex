@@ -19,7 +19,7 @@ source_sha256: 4e276866fce1638948a6daf1a5c0438fa412554f1a6e0381cbdf7cb300e3db75
 
 Los visitantes y prestadores de servicios turísticos en las áreas naturales protegidas deberán cumplir con las reglas administrativas contenidas en el Programa de [Manejo](articulo-3o.md) respectivo, y tendrán las siguientes obligaciones:
 
-I.- Cubrir las cuotas establecidas en la [Ley](articulo-3o.md) Federal de Derechos;
+I.- Cubrir las cuotas establecidas en la Ley Federal de Derechos;
 
 II.- Hacer uso exclusivamente de las rutas y senderos establecidos para recorrer el área;
 

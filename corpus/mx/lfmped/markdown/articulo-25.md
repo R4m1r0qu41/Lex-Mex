@@ -27,11 +27,11 @@ II. Tomen sus decisiones con base en la información disponible al momento de la
 
 En los procedimientos de responsabilidad que, en su caso, se lleven a cabo en contra de los miembros del Comité, será necesario que se acredite el dolo o mala fe con que se condujeron para poder fincar la responsabilidad de orden civil, penal o administrativa que corresponda.
 
-ARTÍCULO OCTAVO. Se establecen las siguientes disposiciones transitorias de la Ley del [Fondo Mexicano del Petróleo](articulo-2.md) para la Estabilización y el Desarrollo:
+ARTÍCULO OCTAVO. Se establecen las siguientes disposiciones transitorias de la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo:
 
 I. La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
-II. El Ejecutivo Federal someterá a la aprobación del Senado de la República, dentro de los noventa días naturales siguientes a la entrada en vigor de este Decreto, los nombramientos de los primeros cuatro miembros independientes del Comité del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo.
+II. El Ejecutivo Federal someterá a la aprobación del Senado de la República, dentro de los noventa días naturales siguientes a la entrada en vigor de este Decreto, los nombramientos de los primeros cuatro miembros independientes del Comité del [Fondo Mexicano del Petróleo](articulo-2.md) para la Estabilización y el Desarrollo.
 
 Los periodos de los cuatro primeros miembros independientes del Comité vencerán los días 31 de diciembre de 2015, 2017, 2019 y 2021, respectivamente, y el Ejecutivo Federal señalará cuál de los periodos citados corresponderá a cada miembro nombrado.
 

@@ -8209,24 +8209,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmv:article:399:term-usage:1612-1620",
-    "provision_id": "urn:lex-mx:federal:statute:lmv:article:399",
-    "term_id": "urn:lex-mx:federal:statute:lmv:term:comision",
-    "span": "Comisión",
-    "start_char": 1612,
-    "end_char": 1620
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmv:article:399:term-usage:1644-1651",
-    "provision_id": "urn:lex-mx:federal:statute:lmv:article:399",
-    "term_id": "urn:lex-mx:federal:statute:lmv:term:valores",
-    "span": "Valores",
-    "start_char": 1644,
-    "end_char": 1651
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lmv:article:399:term-usage:1798-1808",
     "provision_id": "urn:lex-mx:federal:statute:lmv:article:399",
     "term_id": "urn:lex-mx:federal:statute:lmv:term:secretaria",
@@ -8386,15 +8368,6 @@
     "span": "Comisión",
     "start_char": 248,
     "end_char": 256
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmv:transitory:primero:term-usage:307-314",
-    "provision_id": "urn:lex-mx:federal:statute:lmv:transitory:primero",
-    "term_id": "urn:lex-mx:federal:statute:lmv:term:valores",
-    "span": "Valores",
-    "start_char": 307,
-    "end_char": 314
   },
   {
     "schema_version": "0.1.0",
@@ -8560,15 +8533,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmv:transitory:noveno:term-usage:361-368",
-    "provision_id": "urn:lex-mx:federal:statute:lmv:transitory:noveno",
-    "term_id": "urn:lex-mx:federal:statute:lmv:term:valores",
-    "span": "Valores",
-    "start_char": 361,
-    "end_char": 368
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lmv:transitory:noveno:term-usage:441-449",
     "provision_id": "urn:lex-mx:federal:statute:lmv:transitory:noveno",
     "term_id": "urn:lex-mx:federal:statute:lmv:term:registro",
@@ -8641,15 +8605,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmv:transitory:decimo:term-usage:559-566",
-    "provision_id": "urn:lex-mx:federal:statute:lmv:transitory:decimo",
-    "term_id": "urn:lex-mx:federal:statute:lmv:term:valores",
-    "span": "Valores",
-    "start_char": 559,
-    "end_char": 566
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lmv:transitory:decimo-primero:term-usage:12-20",
     "provision_id": "urn:lex-mx:federal:statute:lmv:transitory:decimo-primero",
     "term_id": "urn:lex-mx:federal:statute:lmv:term:comision",
@@ -8674,15 +8629,6 @@
     "span": "Valores",
     "start_char": 172,
     "end_char": 179
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmv:transitory:decimo-tercero:term-usage:337-344",
-    "provision_id": "urn:lex-mx:federal:statute:lmv:transitory:decimo-tercero",
-    "term_id": "urn:lex-mx:federal:statute:lmv:term:valores",
-    "span": "Valores",
-    "start_char": 337,
-    "end_char": 344
   },
   {
     "schema_version": "0.1.0",
@@ -8713,24 +8659,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmv:transitory:decimo-noveno:term-usage:114-121",
-    "provision_id": "urn:lex-mx:federal:statute:lmv:transitory:decimo-noveno",
-    "term_id": "urn:lex-mx:federal:statute:lmv:term:valores",
-    "span": "Valores",
-    "start_char": 114,
-    "end_char": 121
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmv:transitory:vigesimo:term-usage:126-133",
-    "provision_id": "urn:lex-mx:federal:statute:lmv:transitory:vigesimo",
-    "term_id": "urn:lex-mx:federal:statute:lmv:term:valores",
-    "span": "Valores",
-    "start_char": 126,
-    "end_char": 133
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lmv:transitory:vigesimo:term-usage:243-251",
     "provision_id": "urn:lex-mx:federal:statute:lmv:transitory:vigesimo",
     "term_id": "urn:lex-mx:federal:statute:lmv:term:comision",
@@ -8746,14 +8674,5 @@
     "span": "Comisión",
     "start_char": 158,
     "end_char": 166
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmv:transitory:vigesimo-tercero:term-usage:186-193",
-    "provision_id": "urn:lex-mx:federal:statute:lmv:transitory:vigesimo-tercero",
-    "term_id": "urn:lex-mx:federal:statute:lmv:term:valores",
-    "span": "Valores",
-    "start_char": 186,
-    "end_char": 193
   }
 ]

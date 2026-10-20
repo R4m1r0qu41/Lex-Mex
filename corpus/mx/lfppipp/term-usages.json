@@ -1036,24 +1036,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfppipp:article:18:term-usage:730-733",
-    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:18",
-    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:ley",
-    "span": "Ley",
-    "start_char": 730,
-    "end_char": 733
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfppipp:article:18:term-usage:740-756",
-    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:18",
-    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:fiscalia-general",
-    "span": "Fiscalía General",
-    "start_char": 740,
-    "end_char": 756
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfppipp:article:18:term-usage:1207-1224",
     "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:18",
     "term_id": "urn:lex-mx:federal:statute:lfppipp:term:persona-protegida",
@@ -2530,15 +2512,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfppipp:article:40:term-usage:288-291",
-    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:40",
-    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:ley",
-    "span": "Ley",
-    "start_char": 288,
-    "end_char": 291
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfppipp:article:40:term-usage:347-350",
     "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:40",
     "term_id": "urn:lex-mx:federal:statute:lfppipp:term:ley",
@@ -2581,15 +2554,6 @@
     "span": "Programa",
     "start_char": 1018,
     "end_char": 1026
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfppipp:article:46:term-usage:1163-1166",
-    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:46",
-    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:ley",
-    "span": "Ley",
-    "start_char": 1163,
-    "end_char": 1166
   },
   {
     "schema_version": "0.1.0",

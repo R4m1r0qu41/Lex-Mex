@@ -17,4 +17,4 @@ source_sha256: 952f9d7ef0ed8b0efaf968bf3a002030b1705463d4c8c3d0ca7f392953caa71f
 
 # Artículo 59
 
-Las relaciones de trabajo del [Consejo](articulo-2.md) y su personal se regirán por la [Ley](articulo-2.md) Federal del Trabajo, reglamentaria del Apartado A del Artículo [123](../../cpeum/markdown/articulo-123.md) de la Constitución Política de los Estados Unidos Mexicanos.
+Las relaciones de trabajo del [Consejo](articulo-2.md) y su personal se regirán por la Ley Federal del Trabajo, reglamentaria del Apartado A del Artículo [123](../../cpeum/markdown/articulo-123.md) de la Constitución Política de los Estados Unidos Mexicanos.

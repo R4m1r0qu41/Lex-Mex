@@ -17,7 +17,7 @@ source_sha256: ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776
 
 Para que un aeródromo civil preste servicios fuera del horario de operación ordinario, se deberá obtener autorización para la extensión de servicios conforme al procedimiento siguiente:
 
-I. El transportista u operador aéreo que solicite se le presten servicios fuera del horario de operación de un aeródromo, deberá contar con la autorización que, en su caso, corresponda conforme a la [Ley](articulo-2.md) de Aviación Civil y su reglamento para realizar el vuelo y presentar su solicitud por escrito al administrador aeroportuario;
+I. El transportista u operador aéreo que solicite se le presten servicios fuera del horario de operación de un aeródromo, deberá contar con la autorización que, en su caso, corresponda conforme a la Ley de Aviación Civil y su reglamento para realizar el vuelo y presentar su solicitud por escrito al administrador aeroportuario;
 
 El comandante de aeródromo en caso fortuito, de fuerza mayor o cuando existan circunstancias extraordinarias que lo ameriten, podrá ordenar la extensión de servicios, previa coordinación con las autoridades competentes;
 

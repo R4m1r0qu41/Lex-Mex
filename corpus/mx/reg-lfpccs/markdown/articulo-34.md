@@ -21,6 +21,6 @@ El solicitante deberá anexar a la solicitud correspondiente la información sig
 
 I. Descripción de la variedad en cuestión conforme a la Guía expedida para la especie que corresponda;
 
-II. En caso de ser una variedad vegetal protegida conforme a lo establecido en la [Ley](articulo-2.md) Federal de Variedades Vegetales, debe contar con el consentimiento por escrito del titular del derecho a fin de inscribirla en el Catálogo Nacional de Variedades Vegetales, y
+II. En caso de ser una variedad vegetal protegida conforme a lo establecido en la Ley Federal de Variedades Vegetales, debe contar con el consentimiento por escrito del titular del derecho a fin de inscribirla en el Catálogo Nacional de Variedades Vegetales, y
 
 III. Información adicional a la descripción varietal, entre otra, estudios técnicos, análisis de calidad de semilla, pruebas bioquímicas y moleculares, fotografías, o cualquier otra que se considere necesaria y útil en la identificación y diferenciación de la variedad, reservándose el SNICS la utilización de dicha información en el dictamen de la variedad.

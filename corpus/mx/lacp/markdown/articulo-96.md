@@ -27,7 +27,7 @@ III. Podrán demandar la declaración de concurso mercantil de una Sociedad Fina
 
 IV. El cargo del liquidador podrá recaer en instituciones de crédito, en el Servicio de Administración y Enajenación de Bienes, o bien, en personas físicas o morales que cuenten con experiencia en liquidación de sociedades. Cuando se trate de personas físicas, el nombramiento deberá recaer en una persona que reúna los requisitos siguientes:
 
-a) Ser residente en territorio nacional en términos de lo dispuesto por el Código Fiscal de la [Federación](articulo-3o.md).
+a) Ser residente en territorio nacional en términos de lo dispuesto por el Código Fiscal de la Federación.
 
 b) Estar inscrita en el registro que lleva el Instituto Federal de Especialistas de Concursos Mercantiles.
 

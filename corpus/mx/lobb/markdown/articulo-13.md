@@ -17,4 +17,4 @@ source_sha256: 915a4f4f7947f248971aebed71f67ddf5fd26bd41faeacb7084ded7a6c57b6dc
 
 # Artículo 13
 
-El capital neto a que se refiere el artículo [50](../../lic/markdown/articulo-50.md) de la [Ley](articulo-2.md) de [Instituciones](articulo-2.md) de Crédito, será el que fije la [Secretaría](articulo-2.md) oyendo la opinión del Banco de México y de la Comisión Nacional Bancaria y de Valores.
+El capital neto a que se refiere el artículo [50](../../lic/markdown/articulo-50.md) de la Ley de Instituciones de Crédito, será el que fije la [Secretaría](articulo-2.md) oyendo la opinión del Banco de México y de la Comisión Nacional Bancaria y de Valores.

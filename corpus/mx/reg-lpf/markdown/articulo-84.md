@@ -33,7 +33,7 @@ VII. Mantener informado a su Coordinador de Restablecimiento del Orden Público,
 
 VIII. Apoyar las tareas de Protección Civil en el ámbito de competencia de la [Institución](articulo-2.md);
 
-IX. Proponer esquemas de participación de la Institución en tareas de protección de las personas ante eventualidades a que hace referencia la [Ley General](articulo-2.md) de Protección Civil;
+IX. Proponer esquemas de participación de la Institución en tareas de protección de las personas ante eventualidades a que hace referencia la Ley General de Protección Civil;
 
 X. Participar con la Secretaría en la elaboración de los lineamientos generales para inducir y conducir las labores de protección civil, en términos de las disposiciones legales aplicables, y
 

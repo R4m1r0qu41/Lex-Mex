@@ -91,7 +91,7 @@ XXX. "Humedales": Las zonas de transición entre los sistemas acuáticos y terre
 
 XXXI. "La Comisión": La [Comisión Nacional del Agua](articulo-3.md);
 
-XXXII. "La Ley": Ley de [Aguas Nacionales](articulo-3.md);
+XXXII. "La Ley": Ley de Aguas Nacionales;
 
 XXXIII. "La Procuraduría": La Procuraduría Federal de Protección al Ambiente; XXXIV. "La Secretaría": La Secretaría del Medio Ambiente y Recursos Naturales;
 
@@ -123,7 +123,7 @@ XLIV. “Registro Público Nacional del Agua”: (REPNA) Registro que proporcion
 
 XLV. "Rescate": Acto emitido por el Ejecutivo Federal por causas de utilidad pública o interés público, mediante la declaratoria correspondiente, para extinguir:
 
-a. Concesiones o asignaciones para la explotación, uso o aprovechamiento de Aguas Nacionales, de sus bienes públicos inherentes, o
+a. Concesiones o asignaciones para la explotación, uso o aprovechamiento de [Aguas Nacionales](articulo-3.md), de sus bienes públicos inherentes, o
 
 b. Concesiones para construir, equipar, operar, conservar, mantener, rehabilitar y ampliar infraestructura hidráulica federal y la prestación de los servicios respectivos;
 

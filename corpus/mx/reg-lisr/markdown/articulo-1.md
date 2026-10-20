@@ -19,7 +19,7 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 Para efectos de este Reglamento se entenderá por:
 
-I. Ley, la Ley del [Impuesto](articulo-1.md) sobre la Renta;
+I. Ley, la Ley del Impuesto sobre la Renta;
 
 II. Impuesto, el impuesto sobre la renta;
 

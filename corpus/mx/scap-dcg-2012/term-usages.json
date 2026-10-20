@@ -10,15 +10,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1:term-usage:805-808",
-    "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1",
-    "term_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:ley",
-    "span": "Ley",
-    "start_char": 805,
-    "end_char": 808
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1:term-usage:2051-2058",
     "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1",
     "term_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:usuario",
@@ -100,15 +91,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1:term-usage:4254-4257",
-    "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1",
-    "term_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:ley",
-    "span": "Ley",
-    "start_char": 4254,
-    "end_char": 4257
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1:term-usage:5088-5107",
     "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1",
     "term_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:fondo-de-proteccion",
@@ -124,15 +106,6 @@
     "span": "Ley",
     "start_char": 5257,
     "end_char": 5260
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1:term-usage:5377-5380",
-    "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1",
-    "term_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:ley",
-    "span": "Ley",
-    "start_char": 5377,
-    "end_char": 5380
   },
   {
     "schema_version": "0.1.0",
@@ -178,24 +151,6 @@
     "span": "Consejo de Administración",
     "start_char": 5734,
     "end_char": 5759
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1:term-usage:5983-5986",
-    "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1",
-    "term_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:ley",
-    "span": "Ley",
-    "start_char": 5983,
-    "end_char": 5986
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1:term-usage:6184-6187",
-    "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1",
-    "term_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:ley",
-    "span": "Ley",
-    "start_char": 6184,
-    "end_char": 6187
   },
   {
     "schema_version": "0.1.0",
@@ -286,15 +241,6 @@
     "span": "Factor de Autenticación",
     "start_char": 8446,
     "end_char": 8469
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1:term-usage:8643-8646",
-    "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1",
-    "term_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:ley",
-    "span": "Ley",
-    "start_char": 8643,
-    "end_char": 8646
   },
   {
     "schema_version": "0.1.0",
@@ -502,15 +448,6 @@
     "span": "Comisión",
     "start_char": 13228,
     "end_char": 13236
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1:term-usage:13564-13567",
-    "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1",
-    "term_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:ley",
-    "span": "Ley",
-    "start_char": 13564,
-    "end_char": 13567
   },
   {
     "schema_version": "0.1.0",
@@ -910,15 +847,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1:term-usage:23415-23418",
-    "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1",
-    "term_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:ley",
-    "span": "Ley",
-    "start_char": 23415,
-    "end_char": 23418
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1:term-usage:23653-23656",
     "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1",
     "term_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:ley",
@@ -997,15 +925,6 @@
     "span": "Comisión",
     "start_char": 26432,
     "end_char": 26440
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1:term-usage:27102-27105",
-    "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1",
-    "term_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:ley",
-    "span": "Ley",
-    "start_char": 27102,
-    "end_char": 27105
   },
   {
     "schema_version": "0.1.0",
@@ -1621,51 +1540,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:7:term-usage:459-462",
-    "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:7",
-    "term_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:ley",
-    "span": "Ley",
-    "start_char": 459,
-    "end_char": 462
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:7:term-usage:505-508",
-    "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:7",
-    "term_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:ley",
-    "span": "Ley",
-    "start_char": 505,
-    "end_char": 508
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:7:term-usage:544-547",
-    "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:7",
-    "term_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:ley",
-    "span": "Ley",
-    "start_char": 544,
-    "end_char": 547
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:7:term-usage:554-562",
-    "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:7",
-    "term_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:comision",
-    "span": "Comisión",
-    "start_char": 554,
-    "end_char": 562
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:7:term-usage:602-605",
-    "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:7",
-    "term_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:ley",
-    "span": "Ley",
-    "start_char": 602,
-    "end_char": 605
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:7:term-usage:865-868",
     "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:7",
     "term_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:ley",
@@ -2125,15 +1999,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:12:term-usage:16361-16364",
-    "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:12",
-    "term_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:ley",
-    "span": "Ley",
-    "start_char": 16361,
-    "end_char": 16364
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:12:term-usage:18348-18356",
     "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:12",
     "term_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:comision",
@@ -2212,15 +2077,6 @@
     "span": "Socio",
     "start_char": 2231,
     "end_char": 2236
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:13:term-usage:2708-2711",
-    "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:13",
-    "term_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:ley",
-    "span": "Ley",
-    "start_char": 2708,
-    "end_char": 2711
   },
   {
     "schema_version": "0.1.0",
@@ -7651,24 +7507,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:17-bis-39:term-usage:5527-5530",
-    "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:17-bis-39",
-    "term_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:ley",
-    "span": "Ley",
-    "start_char": 5527,
-    "end_char": 5530
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:17-bis-39:term-usage:5558-5565",
-    "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:17-bis-39",
-    "term_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:usuario",
-    "span": "Usuario",
-    "start_char": 5558,
-    "end_char": 5565
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:17-bis-39:term-usage:5742-5750",
     "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:17-bis-39",
     "term_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:comision",
@@ -7702,15 +7540,6 @@
     "span": "Ley",
     "start_char": 1831,
     "end_char": 1834
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:17-bis-40:term-usage:2397-2400",
-    "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:17-bis-40",
-    "term_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:ley",
-    "span": "Ley",
-    "start_char": 2397,
-    "end_char": 2400
   },
   {
     "schema_version": "0.1.0",
@@ -7783,15 +7612,6 @@
     "span": "Administradores de Comisionistas",
     "start_char": 1967,
     "end_char": 1999
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:17-bis-41:term-usage:2435-2438",
-    "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:17-bis-41",
-    "term_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:ley",
-    "span": "Ley",
-    "start_char": 2435,
-    "end_char": 2438
   },
   {
     "schema_version": "0.1.0",
@@ -7873,15 +7693,6 @@
     "span": "Ley",
     "start_char": 5020,
     "end_char": 5023
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:17-bis-42:term-usage:694-697",
-    "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:17-bis-42",
-    "term_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:ley",
-    "span": "Ley",
-    "start_char": 694,
-    "end_char": 697
   },
   {
     "schema_version": "0.1.0",
@@ -8404,15 +8215,6 @@
     "span": "Esquema de Cobertura de Primeras Pérdidas",
     "start_char": 1728,
     "end_char": 1769
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:25:term-usage:2125-2128",
-    "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:25",
-    "term_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:ley",
-    "span": "Ley",
-    "start_char": 2125,
-    "end_char": 2128
   },
   {
     "schema_version": "0.1.0",
@@ -8944,24 +8746,6 @@
     "span": "Sociedad de Información Crediticia",
     "start_char": 5771,
     "end_char": 5805
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:33:term-usage:6705-6708",
-    "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:33",
-    "term_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:ley",
-    "span": "Ley",
-    "start_char": 6705,
-    "end_char": 6708
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:33:term-usage:8229-8232",
-    "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:33",
-    "term_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:ley",
-    "span": "Ley",
-    "start_char": 8229,
-    "end_char": 8232
   },
   {
     "schema_version": "0.1.0",
@@ -9718,15 +9502,6 @@
     "span": "Esquema de Cobertura de Primeras Pérdidas",
     "start_char": 6137,
     "end_char": 6178
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:50:term-usage:6534-6537",
-    "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:50",
-    "term_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:ley",
-    "span": "Ley",
-    "start_char": 6534,
-    "end_char": 6537
   },
   {
     "schema_version": "0.1.0",
@@ -10990,24 +10765,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:73:term-usage:12819-12822",
-    "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:73",
-    "term_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:ley",
-    "span": "Ley",
-    "start_char": 12819,
-    "end_char": 12822
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:73:term-usage:14330-14333",
-    "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:73",
-    "term_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:ley",
-    "span": "Ley",
-    "start_char": 14330,
-    "end_char": 14333
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:73:term-usage:14940-14943",
     "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:73",
     "term_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:ley",
@@ -11383,15 +11140,6 @@
     "span": "Proveedor de Protección",
     "start_char": 5733,
     "end_char": 5756
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:90:term-usage:6531-6534",
-    "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:90",
-    "term_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:ley",
-    "span": "Ley",
-    "start_char": 6531,
-    "end_char": 6534
   },
   {
     "schema_version": "0.1.0",
@@ -12835,24 +12583,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:118:term-usage:13625-13628",
-    "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:118",
-    "term_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:ley",
-    "span": "Ley",
-    "start_char": 13625,
-    "end_char": 13628
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:118:term-usage:15136-15139",
-    "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:118",
-    "term_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:ley",
-    "span": "Ley",
-    "start_char": 15136,
-    "end_char": 15139
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:118:term-usage:15746-15749",
     "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:118",
     "term_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:ley",
@@ -13237,15 +12967,6 @@
     "span": "Esquema de Cobertura de Primeras Pérdidas",
     "start_char": 6558,
     "end_char": 6599
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:135:term-usage:6954-6957",
-    "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:135",
-    "term_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:ley",
-    "span": "Ley",
-    "start_char": 6954,
-    "end_char": 6957
   },
   {
     "schema_version": "0.1.0",
@@ -14833,24 +14554,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:174:term-usage:15574-15577",
-    "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:174",
-    "term_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:ley",
-    "span": "Ley",
-    "start_char": 15574,
-    "end_char": 15577
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:174:term-usage:17085-17088",
-    "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:174",
-    "term_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:ley",
-    "span": "Ley",
-    "start_char": 17085,
-    "end_char": 17088
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:174:term-usage:17695-17698",
     "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:174",
     "term_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:ley",
@@ -15274,15 +14977,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:193-bis:term-usage:1654-1657",
-    "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:193-bis",
-    "term_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:ley",
-    "span": "Ley",
-    "start_char": 1654,
-    "end_char": 1657
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:193-bis:term-usage:1740-1745",
     "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:193-bis",
     "term_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:socio",
@@ -15625,15 +15319,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:195:term-usage:3203-3206",
-    "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:195",
-    "term_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:ley",
-    "span": "Ley",
-    "start_char": 3203,
-    "end_char": 3206
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:195:term-usage:3354-3362",
     "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:195",
     "term_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:comision",
@@ -15802,33 +15487,6 @@
     "span": "Comisión",
     "start_char": 2448,
     "end_char": 2456
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:197:term-usage:154-157",
-    "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:197",
-    "term_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:ley",
-    "span": "Ley",
-    "start_char": 154,
-    "end_char": 157
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:197:term-usage:633-636",
-    "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:197",
-    "term_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:ley",
-    "span": "Ley",
-    "start_char": 633,
-    "end_char": 636
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:197:term-usage:1245-1248",
-    "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:197",
-    "term_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:ley",
-    "span": "Ley",
-    "start_char": 1245,
-    "end_char": 1248
   },
   {
     "schema_version": "0.1.0",
@@ -20530,15 +20188,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:transitory:primero:term-usage:1678-1681",
-    "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:transitory:primero",
-    "term_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:ley",
-    "span": "Ley",
-    "start_char": 1678,
-    "end_char": 1681
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:transitory:segundo:term-usage:131-134",
     "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:transitory:segundo",
     "term_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:ley",
@@ -20791,15 +20440,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:transitory:noveno:term-usage:1026-1029",
-    "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:transitory:noveno",
-    "term_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:ley",
-    "span": "Ley",
-    "start_char": 1026,
-    "end_char": 1029
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:transitory:noveno:term-usage:1421-1429",
     "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:transitory:noveno",
     "term_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:comision",
@@ -20896,15 +20536,6 @@
     "span": "Nivel de Capitalización",
     "start_char": 881,
     "end_char": 904
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:transitory:decimo:term-usage:2816-2819",
-    "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:transitory:decimo",
-    "term_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:ley",
-    "span": "Ley",
-    "start_char": 2816,
-    "end_char": 2819
   },
   {
     "schema_version": "0.1.0",

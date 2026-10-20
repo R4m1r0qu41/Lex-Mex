@@ -5659,14 +5659,5 @@
     "span": "Inversionista",
     "start_char": 481,
     "end_char": 494
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfzee:transitory:segundo:term-usage:140-145",
-    "provision_id": "urn:lex-mx:federal:statute:lfzee:transitory:segundo",
-    "term_id": "urn:lex-mx:federal:statute:lfzee:term:zona",
-    "span": "Zonas",
-    "start_char": 140,
-    "end_char": 145
   }
 ]

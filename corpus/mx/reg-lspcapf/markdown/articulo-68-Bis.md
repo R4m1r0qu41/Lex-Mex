@@ -21,6 +21,6 @@ I. Estímulos, cuando se refieran al acceso a beneficios monetarios o no monetar
 
 II. Reconocimientos, cuando tengan por objeto distinguir a un servidor público de carrera como consecuencia de una acción, acto, característica o rasgo meritorio derivado de su desempeño destacado y que se experimenta como un logro, convalidación o distinción. Los reconocimientos pueden ser no monetarios o en especie, individuales o colectivos, tales como, vales de despensa, diplomas, distinciones o menciones. Los reconocimientos deben sujetarse a las disposiciones que resulten aplicables; III. Recompensas, cuando sea monetario, y
 
-IV. Premios, cuando se otorgue derivado de un concurso e implique la superación de otros servidores públicos de carrera que hayan obtenido un resultado sobresaliente, así como lo previsto en el artículo [3](../../lperc/markdown/articulo-3.md) de la [Ley](articulo-2.md) de Premios, Estímulos y Recompensas Civiles.
+IV. Premios, cuando se otorgue derivado de un concurso e implique la superación de otros servidores públicos de carrera que hayan obtenido un resultado sobresaliente, así como lo previsto en el artículo [3](../../lperc/markdown/articulo-3.md) de la Ley de Premios, Estímulos y Recompensas Civiles.
 
 Artículo adicionado DOF 04-01-2024

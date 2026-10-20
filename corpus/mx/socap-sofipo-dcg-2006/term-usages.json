@@ -847,15 +847,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:1:term-usage:17930-17933",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:1",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 17930,
-    "end_char": 17933
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:1:term-usage:18162-18174",
     "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:1",
     "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:federaciones",
@@ -1585,24 +1576,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:1:term-usage:33408-33411",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:1",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 33408,
-    "end_char": 33411
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:1:term-usage:33429-33439",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:1",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sociedad",
-    "span": "Sociedades",
-    "start_char": 33429,
-    "end_char": 33439
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:1:term-usage:33628-33654",
     "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:1",
     "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:director-o-gerente-general",
@@ -1747,24 +1720,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:1:term-usage:36788-36798",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:1",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:federaciones",
-    "span": "Federación",
-    "start_char": 36788,
-    "end_char": 36798
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:1:term-usage:36807-36810",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:1",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 36807,
-    "end_char": 36810
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:1:term-usage:36877-36887",
     "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:1",
     "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:federaciones",
@@ -1897,24 +1852,6 @@
     "span": "Sociedad de Información Crediticia",
     "start_char": 1056,
     "end_char": 1090
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:2:term-usage:1116-1119",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:2",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 1116,
-    "end_char": 1119
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:2:term-usage:1137-1147",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:2",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sociedad",
-    "span": "Sociedades",
-    "start_char": 1137,
-    "end_char": 1147
   },
   {
     "schema_version": "0.1.0",
@@ -2368,15 +2305,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:2-bis-1:term-usage:1914-1917",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:2-bis-1",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 1914,
-    "end_char": 1917
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:3:term-usage:226-229",
     "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:3",
     "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
@@ -2437,24 +2365,6 @@
     "span": "Sociedad de Información Crediticia",
     "start_char": 1077,
     "end_char": 1111
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:3:term-usage:1137-1140",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:3",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 1137,
-    "end_char": 1140
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:3:term-usage:1158-1168",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:3",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sociedad",
-    "span": "Sociedades",
-    "start_char": 1158,
-    "end_char": 1168
   },
   {
     "schema_version": "0.1.0",
@@ -2554,24 +2464,6 @@
     "span": "Sociedad de Información Crediticia",
     "start_char": 3321,
     "end_char": 3355
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:3:term-usage:3381-3384",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:3",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 3381,
-    "end_char": 3384
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:3:term-usage:3402-3412",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:3",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sociedad",
-    "span": "Sociedades",
-    "start_char": 3402,
-    "end_char": 3412
   },
   {
     "schema_version": "0.1.0",
@@ -2680,24 +2572,6 @@
     "span": "Sociedad de Información Crediticia",
     "start_char": 847,
     "end_char": 881
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:4:term-usage:907-910",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:4",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 907,
-    "end_char": 910
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:4:term-usage:928-938",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:4",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sociedad",
-    "span": "Sociedades",
-    "start_char": 928,
-    "end_char": 938
   },
   {
     "schema_version": "0.1.0",
@@ -4357,15 +4231,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:23:term-usage:7510-7513",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:23",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 7510,
-    "end_char": 7513
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:23:term-usage:7568-7578",
     "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:23",
     "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sociedad",
@@ -5014,15 +4879,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:24:term-usage:19439-19442",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:24",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 19439,
-    "end_char": 19442
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:24:term-usage:20480-20490",
     "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:24",
     "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sociedad",
@@ -5239,15 +5095,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:24:term-usage:27606-27609",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:24",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 27606,
-    "end_char": 27609
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:24:term-usage:27834-27844",
     "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:24",
     "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sociedad",
@@ -5317,15 +5164,6 @@
     "span": "Sociedades",
     "start_char": 2425,
     "end_char": 2435
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:25:term-usage:3800-3803",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:25",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 3800,
-    "end_char": 3803
   },
   {
     "schema_version": "0.1.0",
@@ -5623,24 +5461,6 @@
     "span": "Usuario",
     "start_char": 14635,
     "end_char": 14642
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:25:term-usage:14661-14664",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:25",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 14661,
-    "end_char": 14664
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:25:term-usage:14682-14692",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:25",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sociedad",
-    "span": "Sociedades",
-    "start_char": 14682,
-    "end_char": 14692
   },
   {
     "schema_version": "0.1.0",
@@ -6271,24 +6091,6 @@
     "span": "Sociedades",
     "start_char": 4,
     "end_char": 14
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:36:term-usage:427-430",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:36",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 427,
-    "end_char": 430
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:36:term-usage:448-458",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:36",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sociedad",
-    "span": "Sociedades",
-    "start_char": 448,
-    "end_char": 458
   },
   {
     "schema_version": "0.1.0",
@@ -6967,15 +6769,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:42-bis-12:term-usage:5871-5874",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:42-bis-12",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 5871,
-    "end_char": 5874
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:42-bis-12:term-usage:6352-6360",
     "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:42-bis-12",
     "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sociedad",
@@ -7315,15 +7108,6 @@
     "span": "Operaciones Sujetas a Riesgo de Crédito",
     "start_char": 223,
     "end_char": 262
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:46-bis-1:term-usage:398-401",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:46-bis-1",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 398,
-    "end_char": 401
   },
   {
     "schema_version": "0.1.0",
@@ -7828,15 +7612,6 @@
     "span": "Sociedades",
     "start_char": 21,
     "end_char": 31
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:48-bis-6:term-usage:248-251",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:48-bis-6",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 248,
-    "end_char": 251
   },
   {
     "schema_version": "0.1.0",
@@ -8380,15 +8155,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:54:term-usage:4270-4273",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:54",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 4270,
-    "end_char": 4273
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:54:term-usage:4388-4398",
     "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:54",
     "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sociedad",
@@ -8416,15 +8182,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:54:term-usage:4850-4853",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:54",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 4850,
-    "end_char": 4853
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:54:term-usage:5080-5094",
     "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:54",
     "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:financiamiento",
@@ -8434,30 +8191,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:54:term-usage:5376-5379",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:54",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 5376,
-    "end_char": 5379
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:54:term-usage:5474-5482",
     "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:54",
     "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:registro",
     "span": "Registro",
     "start_char": 5474,
     "end_char": 5482
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:54:term-usage:5805-5808",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:54",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 5805,
-    "end_char": 5808
   },
   {
     "schema_version": "0.1.0",
@@ -8476,24 +8215,6 @@
     "span": "Registro",
     "start_char": 6468,
     "end_char": 6476
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:54:term-usage:6512-6515",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:54",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 6512,
-    "end_char": 6515
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:54:term-usage:6785-6788",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:54",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 6785,
-    "end_char": 6788
   },
   {
     "schema_version": "0.1.0",
@@ -8521,15 +8242,6 @@
     "span": "Registro",
     "start_char": 7649,
     "end_char": 7657
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:54:term-usage:7692-7695",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:54",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 7692,
-    "end_char": 7695
   },
   {
     "schema_version": "0.1.0",
@@ -8569,15 +8281,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:54:term-usage:8458-8461",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:54",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 8458,
-    "end_char": 8461
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:54:term-usage:8653-8661",
     "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:54",
     "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:registro",
@@ -8593,15 +8296,6 @@
     "span": "Financiamiento",
     "start_char": 8791,
     "end_char": 8805
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:54:term-usage:8829-8832",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:54",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 8829,
-    "end_char": 8832
   },
   {
     "schema_version": "0.1.0",
@@ -8638,42 +8332,6 @@
     "span": "Registro",
     "start_char": 10725,
     "end_char": 10733
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:54:term-usage:10770-10773",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:54",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 10770,
-    "end_char": 10773
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:54:term-usage:10984-10987",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:54",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 10984,
-    "end_char": 10987
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:54:term-usage:11232-11235",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:54",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 11232,
-    "end_char": 11235
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:54:term-usage:11692-11695",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:54",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 11692,
-    "end_char": 11695
   },
   {
     "schema_version": "0.1.0",
@@ -8755,15 +8413,6 @@
     "span": "Sociedades",
     "start_char": 13709,
     "end_char": 13719
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:54:term-usage:14381-14384",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:54",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 14381,
-    "end_char": 14384
   },
   {
     "schema_version": "0.1.0",
@@ -9856,15 +9505,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:67-bis-1:term-usage:398-401",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:67-bis-1",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 398,
-    "end_char": 401
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:67-bis-1:term-usage:455-494",
     "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:67-bis-1",
     "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:operaciones-sujetas-a-riesgo-de-credito",
@@ -10366,15 +10006,6 @@
     "span": "Sociedades",
     "start_char": 21,
     "end_char": 31
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:69-bis-7:term-usage:248-251",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:69-bis-7",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 248,
-    "end_char": 251
   },
   {
     "schema_version": "0.1.0",
@@ -11845,15 +11476,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:88:term-usage:9734-9737",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:88",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 9734,
-    "end_char": 9737
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:88:term-usage:9852-9862",
     "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:88",
     "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sociedad",
@@ -11881,15 +11503,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:88:term-usage:10313-10316",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:88",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 10313,
-    "end_char": 10316
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:88:term-usage:10543-10557",
     "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:88",
     "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:financiamiento",
@@ -11899,30 +11512,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:88:term-usage:10838-10841",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:88",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 10838,
-    "end_char": 10841
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:88:term-usage:10936-10944",
     "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:88",
     "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:registro",
     "span": "Registro",
     "start_char": 10936,
     "end_char": 10944
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:88:term-usage:11265-11268",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:88",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 11265,
-    "end_char": 11268
   },
   {
     "schema_version": "0.1.0",
@@ -11941,24 +11536,6 @@
     "span": "Registro",
     "start_char": 11925,
     "end_char": 11933
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:88:term-usage:11969-11972",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:88",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 11969,
-    "end_char": 11972
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:88:term-usage:12242-12245",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:88",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 12242,
-    "end_char": 12245
   },
   {
     "schema_version": "0.1.0",
@@ -11986,15 +11563,6 @@
     "span": "Registro",
     "start_char": 13106,
     "end_char": 13114
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:88:term-usage:13149-13152",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:88",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 13149,
-    "end_char": 13152
   },
   {
     "schema_version": "0.1.0",
@@ -12034,15 +11602,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:88:term-usage:13915-13918",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:88",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 13915,
-    "end_char": 13918
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:88:term-usage:14110-14118",
     "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:88",
     "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:registro",
@@ -12058,15 +11617,6 @@
     "span": "Financiamiento",
     "start_char": 14249,
     "end_char": 14263
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:88:term-usage:14287-14290",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:88",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 14287,
-    "end_char": 14290
   },
   {
     "schema_version": "0.1.0",
@@ -12106,42 +11656,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:88:term-usage:16227-16230",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:88",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 16227,
-    "end_char": 16230
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:88:term-usage:16439-16442",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:88",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 16439,
-    "end_char": 16442
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:88:term-usage:16684-16687",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:88",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 16684,
-    "end_char": 16687
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:88:term-usage:17144-17147",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:88",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 17144,
-    "end_char": 17147
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:88:term-usage:17246-17256",
     "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:88",
     "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sociedad",
@@ -12157,15 +11671,6 @@
     "span": "Sociedades",
     "start_char": 17510,
     "end_char": 17520
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:88:term-usage:17676-17679",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:88",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 17676,
-    "end_char": 17679
   },
   {
     "schema_version": "0.1.0",
@@ -12220,15 +11725,6 @@
     "span": "Sociedades",
     "start_char": 19150,
     "end_char": 19160
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:88:term-usage:19824-19827",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:88",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 19824,
-    "end_char": 19827
   },
   {
     "schema_version": "0.1.0",
@@ -12844,15 +12340,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:102-bis-1:term-usage:398-401",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:102-bis-1",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 398,
-    "end_char": 401
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:102-bis-1:term-usage:455-494",
     "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:102-bis-1",
     "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:operaciones-sujetas-a-riesgo-de-credito",
@@ -13249,15 +12736,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:102-bis-1:term-usage:7473-7476",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:102-bis-1",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 7473,
-    "end_char": 7476
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:102-bis-1:term-usage:7815-7827",
     "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:102-bis-1",
     "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:calificaciones",
@@ -13363,15 +12841,6 @@
     "span": "Calificación",
     "start_char": 9639,
     "end_char": 9651
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:102-bis-1:term-usage:10033-10036",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:102-bis-1",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 10033,
-    "end_char": 10036
   },
   {
     "schema_version": "0.1.0",
@@ -14326,15 +13795,6 @@
     "span": "Sociedades",
     "start_char": 21,
     "end_char": 31
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:103-bis-7:term-usage:248-251",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:103-bis-7",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 248,
-    "end_char": 251
   },
   {
     "schema_version": "0.1.0",
@@ -15985,15 +15445,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:130:term-usage:12023-12026",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:130",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 12023,
-    "end_char": 12026
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:130:term-usage:12141-12151",
     "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:130",
     "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sociedad",
@@ -16021,15 +15472,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:130:term-usage:12600-12603",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:130",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 12600,
-    "end_char": 12603
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:130:term-usage:12826-12840",
     "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:130",
     "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:financiamiento",
@@ -16039,30 +15481,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:130:term-usage:13121-13124",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:130",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 13121,
-    "end_char": 13124
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:130:term-usage:13219-13227",
     "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:130",
     "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:registro",
     "span": "Registro",
     "start_char": 13219,
     "end_char": 13227
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:130:term-usage:13548-13551",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:130",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 13548,
-    "end_char": 13551
   },
   {
     "schema_version": "0.1.0",
@@ -16093,24 +15517,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:130:term-usage:14252-14255",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:130",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 14252,
-    "end_char": 14255
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:130:term-usage:14525-14528",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:130",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 14525,
-    "end_char": 14528
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:130:term-usage:14627-14637",
     "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:130",
     "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sociedad",
@@ -16135,15 +15541,6 @@
     "span": "Registro",
     "start_char": 15388,
     "end_char": 15396
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:130:term-usage:15431-15434",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:130",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 15431,
-    "end_char": 15434
   },
   {
     "schema_version": "0.1.0",
@@ -16183,15 +15580,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:130:term-usage:16196-16199",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:130",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 16196,
-    "end_char": 16199
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:130:term-usage:16391-16399",
     "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:130",
     "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:registro",
@@ -16207,15 +15595,6 @@
     "span": "Financiamiento",
     "start_char": 16530,
     "end_char": 16544
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:130:term-usage:16568-16571",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:130",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 16568,
-    "end_char": 16571
   },
   {
     "schema_version": "0.1.0",
@@ -16255,42 +15634,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:130:term-usage:18504-18507",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:130",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 18504,
-    "end_char": 18507
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:130:term-usage:18717-18720",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:130",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 18717,
-    "end_char": 18720
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:130:term-usage:18962-18965",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:130",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 18962,
-    "end_char": 18965
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:130:term-usage:19422-19425",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:130",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 19422,
-    "end_char": 19425
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:130:term-usage:19524-19534",
     "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:130",
     "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sociedad",
@@ -16306,15 +15649,6 @@
     "span": "Sociedades",
     "start_char": 19788,
     "end_char": 19798
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:130:term-usage:19954-19957",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:130",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 19954,
-    "end_char": 19957
   },
   {
     "schema_version": "0.1.0",
@@ -16369,15 +15703,6 @@
     "span": "Sociedades",
     "start_char": 21443,
     "end_char": 21453
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:130:term-usage:22115-22118",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:130",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 22115,
-    "end_char": 22118
   },
   {
     "schema_version": "0.1.0",
@@ -16912,15 +16237,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:151-bis-1:term-usage:398-401",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:151-bis-1",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 398,
-    "end_char": 401
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:151-bis-1:term-usage:454-493",
     "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:151-bis-1",
     "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:operaciones-sujetas-a-riesgo-de-credito",
@@ -17317,15 +16633,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:151-bis-1:term-usage:7464-7467",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:151-bis-1",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 7464,
-    "end_char": 7467
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:151-bis-1:term-usage:7806-7818",
     "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:151-bis-1",
     "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:calificaciones",
@@ -17431,15 +16738,6 @@
     "span": "Calificación",
     "start_char": 9633,
     "end_char": 9645
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:151-bis-1:term-usage:10027-10030",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:151-bis-1",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 10027,
-    "end_char": 10030
   },
   {
     "schema_version": "0.1.0",
@@ -18394,15 +17692,6 @@
     "span": "Sociedades",
     "start_char": 21,
     "end_char": 31
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:152-bis-7:term-usage:248-251",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:152-bis-7",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 248,
-    "end_char": 251
   },
   {
     "schema_version": "0.1.0",
@@ -20314,15 +19603,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:192:term-usage:14317-14320",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:192",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 14317,
-    "end_char": 14320
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:192:term-usage:14435-14445",
     "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:192",
     "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sociedad",
@@ -20359,15 +19639,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:192:term-usage:15319-15322",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:192",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 15319,
-    "end_char": 15322
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:192:term-usage:15417-15425",
     "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:192",
     "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:registro",
@@ -20383,15 +19654,6 @@
     "span": "Ley",
     "start_char": 15468,
     "end_char": 15471
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:192:term-usage:15746-15749",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:192",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 15746,
-    "end_char": 15749
   },
   {
     "schema_version": "0.1.0",
@@ -20422,24 +19684,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:192:term-usage:16450-16453",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:192",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 16450,
-    "end_char": 16453
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:192:term-usage:16723-16726",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:192",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 16723,
-    "end_char": 16726
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:192:term-usage:16825-16835",
     "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:192",
     "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sociedad",
@@ -20464,15 +19708,6 @@
     "span": "Registro",
     "start_char": 17587,
     "end_char": 17595
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:192:term-usage:17630-17633",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:192",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 17630,
-    "end_char": 17633
   },
   {
     "schema_version": "0.1.0",
@@ -20512,15 +19747,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:192:term-usage:18396-18399",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:192",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 18396,
-    "end_char": 18399
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:192:term-usage:18591-18599",
     "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:192",
     "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:registro",
@@ -20536,15 +19762,6 @@
     "span": "Financiamiento",
     "start_char": 18730,
     "end_char": 18744
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:192:term-usage:18768-18771",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:192",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 18768,
-    "end_char": 18771
   },
   {
     "schema_version": "0.1.0",
@@ -20584,42 +19801,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:192:term-usage:20704-20707",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:192",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 20704,
-    "end_char": 20707
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:192:term-usage:20917-20920",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:192",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 20917,
-    "end_char": 20920
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:192:term-usage:21162-21165",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:192",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 21162,
-    "end_char": 21165
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:192:term-usage:21622-21625",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:192",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 21622,
-    "end_char": 21625
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:192:term-usage:21724-21734",
     "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:192",
     "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sociedad",
@@ -20638,15 +19819,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:192:term-usage:22154-22157",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:192",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 22154,
-    "end_char": 22157
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:192:term-usage:22370-22378",
     "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:192",
     "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sociedad",
@@ -20662,15 +19834,6 @@
     "span": "Sociedades",
     "start_char": 22590,
     "end_char": 22600
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:192:term-usage:22734-22737",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:192",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 22734,
-    "end_char": 22737
   },
   {
     "schema_version": "0.1.0",
@@ -20698,15 +19861,6 @@
     "span": "Sociedades",
     "start_char": 23646,
     "end_char": 23656
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:192:term-usage:24319-24322",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:192",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 24319,
-    "end_char": 24322
   },
   {
     "schema_version": "0.1.0",
@@ -21544,15 +20698,6 @@
     "span": "Sociedades",
     "start_char": 453,
     "end_char": 463
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:205-bis-4:term-usage:874-877",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:205-bis-4",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 874,
-    "end_char": 877
   },
   {
     "schema_version": "0.1.0",
@@ -22672,15 +21817,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:207-bis:term-usage:87-90",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:207-bis",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 87,
-    "end_char": 90
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:207-bis:term-usage:461-471",
     "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:207-bis",
     "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sociedad",
@@ -22699,30 +21835,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:207-bis:term-usage:618-621",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:207-bis",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 618,
-    "end_char": 621
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:207-bis:term-usage:894-908",
     "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:207-bis",
     "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:financiamiento",
     "span": "Financiamiento",
     "start_char": 894,
     "end_char": 908
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:207-bis:term-usage:926-929",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:207-bis",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 926,
-    "end_char": 929
   },
   {
     "schema_version": "0.1.0",
@@ -24409,15 +23527,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:210-bis-1:term-usage:736-739",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:210-bis-1",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 736,
-    "end_char": 739
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:210-bis-1:term-usage:1408-1418",
     "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:210-bis-1",
     "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sociedad",
@@ -24571,15 +23680,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:211-bis-1:term-usage:155-158",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:211-bis-1",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 155,
-    "end_char": 158
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:211-bis-1:term-usage:352-360",
     "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:211-bis-1",
     "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sociedad",
@@ -24598,30 +23698,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:211-bis-1:term-usage:675-678",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:211-bis-1",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 675,
-    "end_char": 678
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:211-bis-1:term-usage:970-980",
     "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:211-bis-1",
     "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sociedad",
     "span": "Sociedades",
     "start_char": 970,
     "end_char": 980
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:211-bis-1:term-usage:1299-1302",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:211-bis-1",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 1299,
-    "end_char": 1302
   },
   {
     "schema_version": "0.1.0",
@@ -24640,15 +23722,6 @@
     "span": "Sociedad",
     "start_char": 1660,
     "end_char": 1668
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:211-bis-1:term-usage:1828-1831",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:211-bis-1",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 1828,
-    "end_char": 1831
   },
   {
     "schema_version": "0.1.0",
@@ -25117,24 +24190,6 @@
     "span": "Sociedades",
     "start_char": 9222,
     "end_char": 9232
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:212:term-usage:9324-9327",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:212",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 9324,
-    "end_char": 9327
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:212:term-usage:9339-9349",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:212",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sociedad",
-    "span": "Sociedades",
-    "start_char": 9339,
-    "end_char": 9349
   },
   {
     "schema_version": "0.1.0",
@@ -31366,15 +30421,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:265-bis-34:term-usage:1117-1120",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:265-bis-34",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 1117,
-    "end_char": 1120
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:265-bis-34:term-usage:1995-2005",
     "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:265-bis-34",
     "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sociedad",
@@ -32185,24 +31231,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:265-bis-39:term-usage:5978-5981",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:265-bis-39",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 5978,
-    "end_char": 5981
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:265-bis-39:term-usage:6009-6016",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:265-bis-39",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:usuario",
-    "span": "Usuario",
-    "start_char": 6009,
-    "end_char": 6016
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:265-bis-39:term-usage:6081-6089",
     "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:265-bis-39",
     "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sociedad",
@@ -32290,15 +31318,6 @@
     "span": "Grupo empresarial",
     "start_char": 2399,
     "end_char": 2416
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:265-bis-40:term-usage:2469-2472",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:265-bis-40",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 2469,
-    "end_char": 2472
   },
   {
     "schema_version": "0.1.0",
@@ -32437,15 +31456,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:265-bis-41:term-usage:2626-2629",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:265-bis-41",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 2626,
-    "end_char": 2629
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:265-bis-41:term-usage:3327-3335",
     "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:265-bis-41",
     "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sociedad",
@@ -32578,15 +31588,6 @@
     "span": "Sociedades",
     "start_char": 556,
     "end_char": 566
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:265-bis-42:term-usage:704-707",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:265-bis-42",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 704,
-    "end_char": 707
   },
   {
     "schema_version": "0.1.0",
@@ -34642,24 +33643,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:286:term-usage:744-747",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:286",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 744,
-    "end_char": 747
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:286:term-usage:765-775",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:286",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sociedad",
-    "span": "Sociedades",
-    "start_char": 765,
-    "end_char": 775
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:286:term-usage:1001-1035",
     "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:286",
     "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sociedad-de-informacion-crediticia",
@@ -35197,24 +34180,6 @@
     "span": "Registro",
     "start_char": 489,
     "end_char": 497
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:301-bis:term-usage:898-901",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:301-bis",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 898,
-    "end_char": 901
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:301-bis:term-usage:919-929",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:301-bis",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sociedad",
-    "span": "Sociedades",
-    "start_char": 919,
-    "end_char": 929
   },
   {
     "schema_version": "0.1.0",
@@ -37735,24 +36700,6 @@
     "span": "Ley",
     "start_char": 972,
     "end_char": 975
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:transitory:sexto:term-usage:1123-1126",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:transitory:sexto",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:ley",
-    "span": "Ley",
-    "start_char": 1123,
-    "end_char": 1126
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:transitory:sexto:term-usage:1163-1173",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:transitory:sexto",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sociedad",
-    "span": "Sociedades",
-    "start_char": 1163,
-    "end_char": 1173
   },
   {
     "schema_version": "0.1.0",

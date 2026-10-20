@@ -19,7 +19,7 @@ source_sha256: e6a8ce3c4efe726e0336a029d6906fcefe2f517c2cf1e44edea9c4862ddd8c68
 
 En su caso, el valor de realización de los [Bienes](articulo-2.md), incluidos sus productos, rendimientos, frutos y accesorios cuya extinción de dominio haya sido declarada mediante sentencia ejecutoriada, se destinará descontando los gastos de administración conforme a la ley aplicable, hasta donde alcance, conforme al orden de prelación siguiente, al pago de:
 
-I. La reparación del daño causado a las víctimas de los delitos a que se refiere el presente ordenamiento, en términos de la [Ley](articulo-2.md) General de Víctimas;
+I. La reparación del daño causado a las víctimas de los delitos a que se refiere el presente ordenamiento, en términos de la Ley General de Víctimas;
 
 II. En el caso de recursos que hayan pasado a formar parte del patrimonio de la Federación, al pago de las erogaciones derivadas de la ejecución de programas sociales de prevención social del delito, programas para el fortalecimiento de las instituciones de seguridad pública y procuración de justicia, conforme a los objetivos establecidos en el Plan Nacional de Desarrollo, y
 

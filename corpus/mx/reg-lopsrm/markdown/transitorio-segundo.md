@@ -15,4 +15,4 @@ source_sha256: 2828ab54bad472120dc40073d722c684b122a714662f3559bfcf22a79f04bfe9
 
 # SEGUNDO
 
-Se abroga el Reglamento de la [Ley](articulo-2.md) de [Obras](articulo-2.md) Públicas y [Servicios](articulo-2.md) Relacionados con las Mismas, publicado en el Diario Oficial de la Federación el 20 de agosto de 2001.
+Se abroga el Reglamento de la [Ley](articulo-2.md) de Obras Públicas y Servicios Relacionados con las Mismas, publicado en el Diario Oficial de la Federación el 20 de agosto de 2001.

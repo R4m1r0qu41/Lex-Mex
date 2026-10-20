@@ -15,7 +15,7 @@ source_sha256: a4505a7bd41bc835f1def6fb030c42d8e74a2cc050d9c8fa08f91c9519e382bf
 
 # Artículo 76
 
-Son causas de utilidad pública, además de las previstas en la [Ley](articulo-12.md) de Expropiación, en la Ley Agraria y en otras disposiciones aplicables, la adquisición de inmuebles, bienes y derechos necesarios para la realización de un proyecto de asociación público-privada en términos de la presente Ley.
+Son causas de utilidad pública, además de las previstas en la Ley de Expropiación, en la Ley Agraria y en otras disposiciones aplicables, la adquisición de inmuebles, bienes y derechos necesarios para la realización de un proyecto de asociación público-privada en términos de la presente [Ley](articulo-12.md).
 
 Para acreditar la existencia de la utilidad pública bastará el dictamen de la dependencia o entidad en que se demuestre la factibilidad técnica y rentabilidad social del proyecto de asociación público-privada.
 

@@ -29,4 +29,4 @@ IV. Las obras de infraestructura que deberán concertarse con las autoridades co
 
 V. Los apoyos asistenciales que, en su caso, se concierten con la gran minería, y VI. Otros mecanismos para asegurar su debida instrumentación.
 
-La [Secretaría](articulo-1o.md) formulará dichos programas en congruencia con el Plan Nacional de Desarrollo y de acuerdo con lo dispuesto por la [Ley](articulo-1o.md) de Planeación, asimismo evaluará trimestralmente el avance en la ejecución de los mismos.
+La [Secretaría](articulo-1o.md) formulará dichos programas en congruencia con el Plan Nacional de Desarrollo y de acuerdo con lo dispuesto por la Ley de Planeación, asimismo evaluará trimestralmente el avance en la ejecución de los mismos.

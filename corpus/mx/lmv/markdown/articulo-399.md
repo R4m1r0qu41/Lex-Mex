@@ -33,6 +33,6 @@ III. Por edictos, en los supuestos señalados en el artículo [407](articulo-407
 
 IV. Por medio electrónico, en el supuesto previsto en el artículo [408](articulo-408.md) de esta Ley.
 
-Respecto a la información y documentación que deba exhibirse a los inspectores de la [Comisión](articulo-2.md) al amparo de una visita de inspección, se deberá observar lo previsto en el artículo [5](../../lcnbv/markdown/articulo-5.md), primer párrafo de la Ley de la Comisión Nacional Bancaria y de [Valores](articulo-2.md) y demás disposiciones aplicables. Párrafo adicionado DOF 10-01-2014
+Respecto a la información y documentación que deba exhibirse a los inspectores de la [Comisión](articulo-2.md) al amparo de una visita de inspección, se deberá observar lo previsto en el artículo [5](../../lcnbv/markdown/articulo-5.md), primer párrafo de la Ley de la Comisión Nacional Bancaria y de Valores y demás disposiciones aplicables. Párrafo adicionado DOF 10-01-2014
 
 Para efectos de este Capítulo, se entenderá por autoridades financieras a la [Secretaría](articulo-2.md), Comisión y el Banco de México. Párrafo adicionado DOF 10-01-2014

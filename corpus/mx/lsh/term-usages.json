@@ -847,15 +847,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsh:article:5:term-usage:4398-4411",
-    "provision_id": "urn:lex-mx:federal:statute:lsh:article:5",
-    "term_id": "urn:lex-mx:federal:statute:lsh:term:hidrocarburos",
-    "span": "Hidrocarburos",
-    "start_char": 4398,
-    "end_char": 4411
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lsh:article:5:term-usage:4546-4557",
     "provision_id": "urn:lex-mx:federal:statute:lsh:article:5",
     "term_id": "urn:lex-mx:federal:statute:lsh:term:gas-natural",
@@ -2206,15 +2197,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsh:article:17:term-usage:390-399",
-    "provision_id": "urn:lex-mx:federal:statute:lsh:article:17",
-    "term_id": "urn:lex-mx:federal:statute:lsh:term:petroleo",
-    "span": "Petróleos",
-    "start_char": 390,
-    "end_char": 399
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lsh:article:18:term-usage:43-76",
     "provision_id": "urn:lex-mx:federal:statute:lsh:article:18",
     "term_id": "urn:lex-mx:federal:statute:lsh:term:asignacion-para-desarrollo-propio",
@@ -2818,15 +2800,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsh:article:25:term-usage:1732-1741",
-    "provision_id": "urn:lex-mx:federal:statute:lsh:article:25",
-    "term_id": "urn:lex-mx:federal:statute:lsh:term:petroleo",
-    "span": "Petróleos",
-    "start_char": 1732,
-    "end_char": 1741
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lsh:article:25:term-usage:1829-1838",
     "provision_id": "urn:lex-mx:federal:statute:lsh:article:25",
     "term_id": "urn:lex-mx:federal:statute:lsh:term:petroleo",
@@ -3133,15 +3106,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsh:article:30:term-usage:229-242",
-    "provision_id": "urn:lex-mx:federal:statute:lsh:article:30",
-    "term_id": "urn:lex-mx:federal:statute:lsh:term:hidrocarburos",
-    "span": "Hidrocarburos",
-    "start_char": 229,
-    "end_char": 242
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lsh:article:30:term-usage:543-557",
     "provision_id": "urn:lex-mx:federal:statute:lsh:article:30",
     "term_id": "urn:lex-mx:federal:statute:lsh:term:contrato-mixto",
@@ -3430,15 +3394,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsh:article:38:term-usage:235-244",
-    "provision_id": "urn:lex-mx:federal:statute:lsh:article:38",
-    "term_id": "urn:lex-mx:federal:statute:lsh:term:petroleo",
-    "span": "Petróleos",
-    "start_char": 235,
-    "end_char": 244
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lsh:article:38:term-usage:673-684",
     "provision_id": "urn:lex-mx:federal:statute:lsh:article:38",
     "term_id": "urn:lex-mx:federal:statute:lsh:term:exploracion",
@@ -3724,15 +3679,6 @@
     "span": "Extracción",
     "start_char": 366,
     "end_char": 376
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsh:article:43:term-usage:437-450",
-    "provision_id": "urn:lex-mx:federal:statute:lsh:article:43",
-    "term_id": "urn:lex-mx:federal:statute:lsh:term:hidrocarburos",
-    "span": "Hidrocarburos",
-    "start_char": 437,
-    "end_char": 450
   },
   {
     "schema_version": "0.1.0",
@@ -4186,15 +4132,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsh:article:50:term-usage:358-371",
-    "provision_id": "urn:lex-mx:federal:statute:lsh:article:50",
-    "term_id": "urn:lex-mx:federal:statute:lsh:term:hidrocarburos",
-    "span": "Hidrocarburos",
-    "start_char": 358,
-    "end_char": 371
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lsh:article:50:term-usage:1922-1933",
     "provision_id": "urn:lex-mx:federal:statute:lsh:article:50",
     "term_id": "urn:lex-mx:federal:statute:lsh:term:exploracion",
@@ -4390,15 +4327,6 @@
     "span": "Extracción",
     "start_char": 175,
     "end_char": 185
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsh:article:54:term-usage:417-430",
-    "provision_id": "urn:lex-mx:federal:statute:lsh:article:54",
-    "term_id": "urn:lex-mx:federal:statute:lsh:term:hidrocarburos",
-    "span": "Hidrocarburos",
-    "start_char": 417,
-    "end_char": 430
   },
   {
     "schema_version": "0.1.0",
@@ -5374,15 +5302,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsh:article:58:term-usage:2835-2848",
-    "provision_id": "urn:lex-mx:federal:statute:lsh:article:58",
-    "term_id": "urn:lex-mx:federal:statute:lsh:term:hidrocarburos",
-    "span": "Hidrocarburos",
-    "start_char": 2835,
-    "end_char": 2848
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lsh:article:58:term-usage:2949-2960",
     "provision_id": "urn:lex-mx:federal:statute:lsh:article:58",
     "term_id": "urn:lex-mx:federal:statute:lsh:term:exploracion",
@@ -5482,24 +5401,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsh:article:59:term-usage:394-407",
-    "provision_id": "urn:lex-mx:federal:statute:lsh:article:59",
-    "term_id": "urn:lex-mx:federal:statute:lsh:term:hidrocarburos",
-    "span": "Hidrocarburos",
-    "start_char": 394,
-    "end_char": 407
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsh:article:59:term-usage:525-538",
-    "provision_id": "urn:lex-mx:federal:statute:lsh:article:59",
-    "term_id": "urn:lex-mx:federal:statute:lsh:term:hidrocarburos",
-    "span": "Hidrocarburos",
-    "start_char": 525,
-    "end_char": 538
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lsh:article:59:term-usage:658-669",
     "provision_id": "urn:lex-mx:federal:statute:lsh:article:59",
     "term_id": "urn:lex-mx:federal:statute:lsh:term:exploracion",
@@ -5515,15 +5416,6 @@
     "span": "Extracción",
     "start_char": 672,
     "end_char": 682
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsh:article:59:term-usage:739-752",
-    "provision_id": "urn:lex-mx:federal:statute:lsh:article:59",
-    "term_id": "urn:lex-mx:federal:statute:lsh:term:hidrocarburos",
-    "span": "Hidrocarburos",
-    "start_char": 739,
-    "end_char": 752
   },
   {
     "schema_version": "0.1.0",
@@ -6436,15 +6328,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsh:article:71:term-usage:279-292",
-    "provision_id": "urn:lex-mx:federal:statute:lsh:article:71",
-    "term_id": "urn:lex-mx:federal:statute:lsh:term:hidrocarburos",
-    "span": "Hidrocarburos",
-    "start_char": 279,
-    "end_char": 292
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lsh:article:72:term-usage:13-25",
     "provision_id": "urn:lex-mx:federal:statute:lsh:article:72",
     "term_id": "urn:lex-mx:federal:statute:lsh:term:asignataria",
@@ -7036,15 +6919,6 @@
     "span": "Extracción",
     "start_char": 1680,
     "end_char": 1690
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsh:article:75:term-usage:1739-1752",
-    "provision_id": "urn:lex-mx:federal:statute:lsh:article:75",
-    "term_id": "urn:lex-mx:federal:statute:lsh:term:hidrocarburos",
-    "span": "Hidrocarburos",
-    "start_char": 1739,
-    "end_char": 1752
   },
   {
     "schema_version": "0.1.0",
@@ -13960,15 +13834,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsh:transitory:segundo:term-usage:236-249",
-    "provision_id": "urn:lex-mx:federal:statute:lsh:transitory:segundo",
-    "term_id": "urn:lex-mx:federal:statute:lsh:term:hidrocarburos",
-    "span": "Hidrocarburos",
-    "start_char": 236,
-    "end_char": 249
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lsh:transitory:cuarto:term-usage:303-314",
     "provision_id": "urn:lex-mx:federal:statute:lsh:transitory:cuarto",
     "term_id": "urn:lex-mx:federal:statute:lsh:term:exploracion",
@@ -14380,15 +14245,6 @@
     "span": "Contrato para la Exploración y Extracción",
     "start_char": 415,
     "end_char": 456
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsh:transitory:decimo-noveno:term-usage:751-764",
-    "provision_id": "urn:lex-mx:federal:statute:lsh:transitory:decimo-noveno",
-    "term_id": "urn:lex-mx:federal:statute:lsh:term:hidrocarburos",
-    "span": "Hidrocarburos",
-    "start_char": 751,
-    "end_char": 764
   },
   {
     "schema_version": "0.1.0",

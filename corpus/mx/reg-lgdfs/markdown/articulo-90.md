@@ -25,10 +25,10 @@ II. Currículum vitae y cédula profesional del responsable del proyecto;
 
 III. Original o copia certificada del instrumento jurídico donde conste por escrito el consentimiento expreso del propietario o Legítimo poseedor del predio, así como que fue previamente informado del objetivo de la colecta y uso del Recurso biológico y genético forestal y alcances de la misma, la utilización que se pretende dar a dichos recursos, y copia simple para su cotejo;
 
-IV. En el caso de ejidos y comunidades se deberá presentar original o copia certificada del acta de asamblea de conformidad con la [Ley](articulo-2.md) Agraria, en la que conste su consentimiento otorgado en los términos de la fracción anterior, así como copia simple para su cotejo;
+IV. En el caso de ejidos y comunidades se deberá presentar original o copia certificada del acta de asamblea de conformidad con la Ley Agraria, en la que conste su consentimiento otorgado en los términos de la fracción anterior, así como copia simple para su cotejo;
 
 V. Cuando se trate de Terrenos nacionales forestales, la autoridad competente otorgará dicho consentimiento de conformidad con las disposiciones jurídicas aplicables;
 
 VI. En su caso, documentos con los que se acredite el respaldo o apoyo de instituciones científicas o académicas interesadas en el proyecto, y
 
-VII. En su caso, copia certificada del convenio correspondiente, cuando se trate de los casos previstos en el artículo [87](../../lgdfs/markdown/articulo-87.md), párrafo segundo de la Ley.
+VII. En su caso, copia certificada del convenio correspondiente, cuando se trate de los casos previstos en el artículo [87](../../lgdfs/markdown/articulo-87.md), párrafo segundo de la [Ley](articulo-2.md).

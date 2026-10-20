@@ -15,9 +15,9 @@ source_sha256: 1289ec6964e48c84990572ca6080ca05c9d6210e5b0ff5af6d8c9d935fc5fcc8
 
 # Quinto
 
-La Ley Orgánica del [Tribunal](articulo-3.md) Federal de Justicia Administrativa, entrará en vigor al día siguiente de la publicación del presente Decreto, sin perjuicio de lo previsto en el Tercero Transitorio anterior y en los párrafos siguientes.
+La Ley Orgánica del Tribunal Federal de Justicia Administrativa, entrará en vigor al día siguiente de la publicación del presente Decreto, sin perjuicio de lo previsto en el Tercero Transitorio anterior y en los párrafos siguientes.
 
-A partir de la entrada en vigor de la Ley a que se refiere el presente transitorio, se abroga la Ley Orgánica del Tribunal Federal de Justicia Fiscal y Administrativa, publicada en el Diario Oficial de la Federación el seis de diciembre del año dos mil siete.
+A partir de la entrada en vigor de la Ley a que se refiere el presente transitorio, se abroga la Ley Orgánica del [Tribunal](articulo-3.md) Federal de Justicia Fiscal y Administrativa, publicada en el Diario Oficial de la Federación el seis de diciembre del año dos mil siete.
 
 El Reglamento Interior del Tribunal que se encuentre vigente a la entrada en vigor de la Ley, seguirá aplicándose en aquello que no se oponga a ésta, hasta que el Pleno General expida el nuevo Reglamento Interior de conformidad con lo previsto en este ordenamiento, lo cual deberá hacer en un plazo de noventa días a partir de la entrada en vigor de la Ley.
 

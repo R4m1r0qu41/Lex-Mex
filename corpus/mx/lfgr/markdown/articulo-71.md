@@ -17,7 +17,7 @@ source_sha256: cbd3307808b89748077396e108c02651da8099a5bc491657c17fa676618d85f1
 
 # Artículo 71
 
-[Las personas servidoras públicas de la [Fiscalía General](articulo-9.md) estarán sujetas al régimen de responsabilidades de la [Ley](articulo-9.md) General de Responsabilidades Administrativas y a las disposiciones especiales que establece esta Ley.
+[Las personas servidoras públicas de la [Fiscalía General](articulo-9.md) estarán sujetas al régimen de responsabilidades de la Ley General de Responsabilidades Administrativas y a las disposiciones especiales que establece esta [Ley](articulo-9.md).
 
 La persona servidora pública que forme parte del servicio profesional de carrera cuando incumpla o transgreda el contenido de las obligaciones previstas en los artículos [47](articulo-47.md) y [48](articulo-48.md), de este ordenamiento, incurrirá en faltas administrativas por lo que serán causas de responsabilidad administrativa, sin perjuicio de cualquier otra responsabilidad y sanción a que haya lugar, prevista en las disposiciones normativas y administrativas aplicables.]
 

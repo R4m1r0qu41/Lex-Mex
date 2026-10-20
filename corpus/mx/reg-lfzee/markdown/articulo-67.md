@@ -63,11 +63,11 @@ VIII. La descripción de las [Actividades Económicas Productivas](articulo-4.md
 
 VIII Bis. La información sobre las Actividades Económicas Productivas que podrán llevarse a cabo en términos del [Decreto de Declaratoria de la Zona](articulo-4.md) y las inversiones necesarias para llevarlas a cabo, las cuales deberán cumplir los requisitos siguientes:
 
-a) Se trate en su totalidad de un proyecto de inversiones nuevas, entendidas éstas como los activos fijos, los gastos y cargos diferidos y las erogaciones, conforme a lo establecido en el artículo [32](../../lisr/markdown/articulo-32.md) de la [Ley](articulo-4.md) del Impuesto sobre la Renta, que sean utilizados por primera vez en México, excepto tratándose de [Infraestructura](articulo-4.md) primaria ya existente en la Zona, correspondiente a la lotificación del terreno, trazado de calles y habilitación de servicios básicos;
+a) Se trate en su totalidad de un proyecto de inversiones nuevas, entendidas éstas como los activos fijos, los gastos y cargos diferidos y las erogaciones, conforme a lo establecido en el artículo [32](../../lisr/markdown/articulo-32.md) de la Ley del Impuesto sobre la Renta, que sean utilizados por primera vez en México, excepto tratándose de [Infraestructura](articulo-4.md) primaria ya existente en la Zona, correspondiente a la lotificación del terreno, trazado de calles y habilitación de servicios básicos;
 
 b) No implique la reubicación o traslado a la Zona, de inversiones existentes en otras áreas o regiones del país, y
 
-c) Generen niveles óptimos de inversión y empleo consistentes con los objetivos de la Ley.
+c) Generen niveles óptimos de inversión y empleo consistentes con los objetivos de la [Ley](articulo-4.md).
 
 Para efectos de esta fracción, la Subsecretaría de Ingresos de la [Secretaría](articulo-4.md) y el Servicio de Administración Tributaria comunicarán a la Autoridad Federal los criterios conforme a los cuales los Solicitantes podrán acreditar dichos requisitos. La Autoridad Federal deberá incorporar los mencionados criterios en los Lineamientos a que se refiere este artículo; Fracción adicionada DOF 29-09-2017
 

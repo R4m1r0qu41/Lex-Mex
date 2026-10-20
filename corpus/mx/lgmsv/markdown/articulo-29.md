@@ -19,7 +19,7 @@ source_sha256: 79f2b255a142d1756d7e8c13244af6dc8c4f2f474acaf0d669f2b156b022fc03
 
 [Bases de Datos sobre Movilidad y Seguridad Vial](articulo-3.md). La Federación y las entidades federativas, en el ámbito de sus competencias, integrarán las bases de datos de movilidad y seguridad vial, las que contendrán, como mínimo, lo siguiente:
 
-I. La información contenida en el Registro Público Vehicular en términos de la [Ley](articulo-3.md) del Registro Público Vehicular, en estricto apego a las Leyes Federal y General de Transparencia y Acceso a la Información Pública y General de Protección de Datos Personales en Posesión de Sujetos Obligados, y demás legislación aplicable;
+I. La información contenida en el Registro Público Vehicular en términos de la Ley del Registro Público Vehicular, en estricto apego a las [Leyes](articulo-3.md) Federal y General de Transparencia y Acceso a la Información Pública y General de Protección de Datos Personales en Posesión de Sujetos Obligados, y demás legislación aplicable;
 
 II. Licencias de conducir, incluyendo el tipo de licencia y seguros registrados por vehículo;
 

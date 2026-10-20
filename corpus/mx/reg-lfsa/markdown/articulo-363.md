@@ -17,4 +17,4 @@ source_sha256: a3435ac18a1631617fea83ae6a81bad84f456e3e8fd44b69bb6b7ea39425df9c
 
 # Artículo 363
 
-Cuando los hechos materia de la denuncia ciudadana no se expresen de manera clara o precisa, la autoridad prevendrá al denunciante en términos de la [Ley](articulo-2.md) Federal de Procedimiento Administrativo, con el sólo objeto de ampliar los datos que le permitan actuar con mayor efectividad en la constatación de aquellos y en la evaluación correspondiente.
+Cuando los hechos materia de la denuncia ciudadana no se expresen de manera clara o precisa, la autoridad prevendrá al denunciante en términos de la Ley Federal de Procedimiento Administrativo, con el sólo objeto de ampliar los datos que le permitan actuar con mayor efectividad en la constatación de aquellos y en la evaluación correspondiente.

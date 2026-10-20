@@ -100,15 +100,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmhcti:article:4:term-usage:1527-1530",
-    "provision_id": "urn:lex-mx:federal:statute:lgmhcti:article:4",
-    "term_id": "urn:lex-mx:federal:statute:lgmhcti:term:ley",
-    "span": "Ley",
-    "start_char": 1527,
-    "end_char": 1530
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgmhcti:article:4:term-usage:3012-3029",
     "provision_id": "urn:lex-mx:federal:statute:lgmhcti:article:4",
     "term_id": "urn:lex-mx:federal:statute:lgmhcti:term:programa-especial",
@@ -262,15 +253,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmhcti:article:12:term-usage:1176-1179",
-    "provision_id": "urn:lex-mx:federal:statute:lgmhcti:article:12",
-    "term_id": "urn:lex-mx:federal:statute:lgmhcti:term:ley",
-    "span": "Ley",
-    "start_char": 1176,
-    "end_char": 1179
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgmhcti:article:13:term-usage:3-18",
     "provision_id": "urn:lex-mx:federal:statute:lgmhcti:article:13",
     "term_id": "urn:lex-mx:federal:statute:lgmhcti:term:agenda-nacional",
@@ -307,15 +289,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmhcti:article:13:term-usage:1168-1171",
-    "provision_id": "urn:lex-mx:federal:statute:lgmhcti:article:13",
-    "term_id": "urn:lex-mx:federal:statute:lgmhcti:term:ley",
-    "span": "Ley",
-    "start_char": 1168,
-    "end_char": 1171
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgmhcti:article:14:term-usage:559-575",
     "provision_id": "urn:lex-mx:federal:statute:lgmhcti:article:14",
     "term_id": "urn:lex-mx:federal:statute:lgmhcti:term:consejo-nacional",
@@ -340,15 +313,6 @@
     "span": "Ley",
     "start_char": 87,
     "end_char": 90
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmhcti:article:15:term-usage:95-98",
-    "provision_id": "urn:lex-mx:federal:statute:lgmhcti:article:15",
-    "term_id": "urn:lex-mx:federal:statute:lgmhcti:term:ley",
-    "span": "Ley",
-    "start_char": 95,
-    "end_char": 98
   },
   {
     "schema_version": "0.1.0",
@@ -466,15 +430,6 @@
     "span": "Ley",
     "start_char": 872,
     "end_char": 875
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmhcti:article:17:term-usage:973-976",
-    "provision_id": "urn:lex-mx:federal:statute:lgmhcti:article:17",
-    "term_id": "urn:lex-mx:federal:statute:lgmhcti:term:ley",
-    "span": "Ley",
-    "start_char": 973,
-    "end_char": 976
   },
   {
     "schema_version": "0.1.0",
@@ -856,33 +811,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmhcti:article:29:term-usage:1721-1724",
-    "provision_id": "urn:lex-mx:federal:statute:lgmhcti:article:29",
-    "term_id": "urn:lex-mx:federal:statute:lgmhcti:term:ley",
-    "span": "Ley",
-    "start_char": 1721,
-    "end_char": 1724
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmhcti:article:30:term-usage:171-174",
-    "provision_id": "urn:lex-mx:federal:statute:lgmhcti:article:30",
-    "term_id": "urn:lex-mx:federal:statute:lgmhcti:term:ley",
-    "span": "Ley",
-    "start_char": 171,
-    "end_char": 174
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmhcti:article:30:term-usage:508-511",
-    "provision_id": "urn:lex-mx:federal:statute:lgmhcti:article:30",
-    "term_id": "urn:lex-mx:federal:statute:lgmhcti:term:ley",
-    "span": "Ley",
-    "start_char": 508,
-    "end_char": 511
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgmhcti:article:30:term-usage:596-613",
     "provision_id": "urn:lex-mx:federal:statute:lgmhcti:article:30",
     "term_id": "urn:lex-mx:federal:statute:lgmhcti:term:programa-especial",
@@ -901,30 +829,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmhcti:article:31:term-usage:80-83",
-    "provision_id": "urn:lex-mx:federal:statute:lgmhcti:article:31",
-    "term_id": "urn:lex-mx:federal:statute:lgmhcti:term:ley",
-    "span": "Ley",
-    "start_char": 80,
-    "end_char": 83
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgmhcti:article:31:term-usage:144-160",
     "provision_id": "urn:lex-mx:federal:statute:lgmhcti:article:31",
     "term_id": "urn:lex-mx:federal:statute:lgmhcti:term:consejo-nacional",
     "span": "Consejo Nacional",
     "start_char": 144,
     "end_char": 160
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmhcti:article:32:term-usage:236-239",
-    "provision_id": "urn:lex-mx:federal:statute:lgmhcti:article:32",
-    "term_id": "urn:lex-mx:federal:statute:lgmhcti:term:ley",
-    "span": "Ley",
-    "start_char": 236,
-    "end_char": 239
   },
   {
     "schema_version": "0.1.0",
@@ -1792,15 +1702,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmhcti:article:55:term-usage:182-185",
-    "provision_id": "urn:lex-mx:federal:statute:lgmhcti:article:55",
-    "term_id": "urn:lex-mx:federal:statute:lgmhcti:term:ley",
-    "span": "Ley",
-    "start_char": 182,
-    "end_char": 185
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgmhcti:article:57:term-usage:3-34",
     "provision_id": "urn:lex-mx:federal:statute:lgmhcti:article:57",
     "term_id": "urn:lex-mx:federal:statute:lgmhcti:term:sistema-nacional-de-informacion",
@@ -2098,15 +1999,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmhcti:article:62:term-usage:409-412",
-    "provision_id": "urn:lex-mx:federal:statute:lgmhcti:article:62",
-    "term_id": "urn:lex-mx:federal:statute:lgmhcti:term:ley",
-    "span": "Ley",
-    "start_char": 409,
-    "end_char": 412
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgmhcti:article:62:term-usage:540-556",
     "provision_id": "urn:lex-mx:federal:statute:lgmhcti:article:62",
     "term_id": "urn:lex-mx:federal:statute:lgmhcti:term:consejo-nacional",
@@ -2224,15 +2116,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmhcti:article:63:term-usage:4791-4794",
-    "provision_id": "urn:lex-mx:federal:statute:lgmhcti:article:63",
-    "term_id": "urn:lex-mx:federal:statute:lgmhcti:term:ley",
-    "span": "Ley",
-    "start_char": 4791,
-    "end_char": 4794
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgmhcti:article:63:term-usage:6337-6352",
     "provision_id": "urn:lex-mx:federal:statute:lgmhcti:article:63",
     "term_id": "urn:lex-mx:federal:statute:lgmhcti:term:agenda-nacional",
@@ -2278,48 +2161,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmhcti:article:65:term-usage:230-233",
-    "provision_id": "urn:lex-mx:federal:statute:lgmhcti:article:65",
-    "term_id": "urn:lex-mx:federal:statute:lgmhcti:term:ley",
-    "span": "Ley",
-    "start_char": 230,
-    "end_char": 233
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgmhcti:article:65:term-usage:325-341",
     "provision_id": "urn:lex-mx:federal:statute:lgmhcti:article:65",
     "term_id": "urn:lex-mx:federal:statute:lgmhcti:term:consejo-nacional",
     "span": "Consejo Nacional",
     "start_char": 325,
     "end_char": 341
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmhcti:article:65:term-usage:630-633",
-    "provision_id": "urn:lex-mx:federal:statute:lgmhcti:article:65",
-    "term_id": "urn:lex-mx:federal:statute:lgmhcti:term:ley",
-    "span": "Ley",
-    "start_char": 630,
-    "end_char": 633
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmhcti:article:65:term-usage:684-687",
-    "provision_id": "urn:lex-mx:federal:statute:lgmhcti:article:65",
-    "term_id": "urn:lex-mx:federal:statute:lgmhcti:term:ley",
-    "span": "Ley",
-    "start_char": 684,
-    "end_char": 687
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmhcti:article:65:term-usage:732-735",
-    "provision_id": "urn:lex-mx:federal:statute:lgmhcti:article:65",
-    "term_id": "urn:lex-mx:federal:statute:lgmhcti:term:ley",
-    "span": "Ley",
-    "start_char": 732,
-    "end_char": 735
   },
   {
     "schema_version": "0.1.0",
@@ -2413,15 +2260,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmhcti:article:69:term-usage:2449-2452",
-    "provision_id": "urn:lex-mx:federal:statute:lgmhcti:article:69",
-    "term_id": "urn:lex-mx:federal:statute:lgmhcti:term:ley",
-    "span": "Ley",
-    "start_char": 2449,
-    "end_char": 2452
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgmhcti:article:69:term-usage:2769-2785",
     "provision_id": "urn:lex-mx:federal:statute:lgmhcti:article:69",
     "term_id": "urn:lex-mx:federal:statute:lgmhcti:term:centros-publicos",
@@ -2458,30 +2296,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmhcti:article:69:term-usage:3378-3381",
-    "provision_id": "urn:lex-mx:federal:statute:lgmhcti:article:69",
-    "term_id": "urn:lex-mx:federal:statute:lgmhcti:term:ley",
-    "span": "Ley",
-    "start_char": 3378,
-    "end_char": 3381
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgmhcti:article:70:term-usage:126-142",
     "provision_id": "urn:lex-mx:federal:statute:lgmhcti:article:70",
     "term_id": "urn:lex-mx:federal:statute:lgmhcti:term:consejo-nacional",
     "span": "Consejo Nacional",
     "start_char": 126,
     "end_char": 142
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmhcti:article:70:term-usage:1053-1056",
-    "provision_id": "urn:lex-mx:federal:statute:lgmhcti:article:70",
-    "term_id": "urn:lex-mx:federal:statute:lgmhcti:term:ley",
-    "span": "Ley",
-    "start_char": 1053,
-    "end_char": 1056
   },
   {
     "schema_version": "0.1.0",
@@ -2494,30 +2314,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmhcti:article:71:term-usage:126-129",
-    "provision_id": "urn:lex-mx:federal:statute:lgmhcti:article:71",
-    "term_id": "urn:lex-mx:federal:statute:lgmhcti:term:ley",
-    "span": "Ley",
-    "start_char": 126,
-    "end_char": 129
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgmhcti:article:71:term-usage:223-226",
     "provision_id": "urn:lex-mx:federal:statute:lgmhcti:article:71",
     "term_id": "urn:lex-mx:federal:statute:lgmhcti:term:ley",
     "span": "Ley",
     "start_char": 223,
     "end_char": 226
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmhcti:article:71:term-usage:317-320",
-    "provision_id": "urn:lex-mx:federal:statute:lgmhcti:article:71",
-    "term_id": "urn:lex-mx:federal:statute:lgmhcti:term:ley",
-    "span": "Ley",
-    "start_char": 317,
-    "end_char": 320
   },
   {
     "schema_version": "0.1.0",
@@ -3052,15 +2854,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmhcti:article:78:term-usage:728-731",
-    "provision_id": "urn:lex-mx:federal:statute:lgmhcti:article:78",
-    "term_id": "urn:lex-mx:federal:statute:lgmhcti:term:ley",
-    "span": "Ley",
-    "start_char": 728,
-    "end_char": 731
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgmhcti:article:79:term-usage:85-101",
     "provision_id": "urn:lex-mx:federal:statute:lgmhcti:article:79",
     "term_id": "urn:lex-mx:federal:statute:lgmhcti:term:sistema-nacional",
@@ -3448,15 +3241,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmhcti:article:90:term-usage:454-457",
-    "provision_id": "urn:lex-mx:federal:statute:lgmhcti:article:90",
-    "term_id": "urn:lex-mx:federal:statute:lgmhcti:term:ley",
-    "span": "Ley",
-    "start_char": 454,
-    "end_char": 457
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgmhcti:article:90:term-usage:745-761",
     "provision_id": "urn:lex-mx:federal:statute:lgmhcti:article:90",
     "term_id": "urn:lex-mx:federal:statute:lgmhcti:term:centros-publicos",
@@ -3526,15 +3310,6 @@
     "span": "Consejo Nacional",
     "start_char": 227,
     "end_char": 243
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmhcti:article:91:term-usage:317-320",
-    "provision_id": "urn:lex-mx:federal:statute:lgmhcti:article:91",
-    "term_id": "urn:lex-mx:federal:statute:lgmhcti:term:ley",
-    "span": "Ley",
-    "start_char": 317,
-    "end_char": 320
   },
   {
     "schema_version": "0.1.0",
@@ -3745,15 +3520,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmhcti:article:94:term-usage:126-129",
-    "provision_id": "urn:lex-mx:federal:statute:lgmhcti:article:94",
-    "term_id": "urn:lex-mx:federal:statute:lgmhcti:term:ley",
-    "span": "Ley",
-    "start_char": 126,
-    "end_char": 129
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgmhcti:article:94:term-usage:240-254",
     "provision_id": "urn:lex-mx:federal:statute:lgmhcti:article:94",
     "term_id": "urn:lex-mx:federal:statute:lgmhcti:term:centros-publicos",
@@ -3862,15 +3628,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmhcti:article:96:term-usage:316-319",
-    "provision_id": "urn:lex-mx:federal:statute:lgmhcti:article:96",
-    "term_id": "urn:lex-mx:federal:statute:lgmhcti:term:ley",
-    "span": "Ley",
-    "start_char": 316,
-    "end_char": 319
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgmhcti:article:97:term-usage:37-51",
     "provision_id": "urn:lex-mx:federal:statute:lgmhcti:article:97",
     "term_id": "urn:lex-mx:federal:statute:lgmhcti:term:centros-publicos",
@@ -3931,15 +3688,6 @@
     "span": "Centro Público",
     "start_char": 1909,
     "end_char": 1923
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmhcti:article:97:term-usage:2094-2097",
-    "provision_id": "urn:lex-mx:federal:statute:lgmhcti:article:97",
-    "term_id": "urn:lex-mx:federal:statute:lgmhcti:term:ley",
-    "span": "Ley",
-    "start_char": 2094,
-    "end_char": 2097
   },
   {
     "schema_version": "0.1.0",
@@ -4030,15 +3778,6 @@
     "span": "Asamblea del Personal",
     "start_char": 348,
     "end_char": 369
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmhcti:article:99:term-usage:430-433",
-    "provision_id": "urn:lex-mx:federal:statute:lgmhcti:article:99",
-    "term_id": "urn:lex-mx:federal:statute:lgmhcti:term:ley",
-    "span": "Ley",
-    "start_char": 430,
-    "end_char": 433
   },
   {
     "schema_version": "0.1.0",

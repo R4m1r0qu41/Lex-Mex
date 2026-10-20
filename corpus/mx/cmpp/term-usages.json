@@ -82,15 +82,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cmpp:article:3-bis:term-usage:95-101",
-    "provision_id": "urn:lex-mx:federal:code:cmpp:article:3-bis",
-    "term_id": "urn:lex-mx:federal:code:cmpp:term:codigo",
-    "span": "Código",
-    "start_char": 95,
-    "end_char": 101
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:code:cmpp:article:3-bis:term-usage:145-151",
     "provision_id": "urn:lex-mx:federal:code:cmpp:article:3-bis",
     "term_id": "urn:lex-mx:federal:code:cmpp:term:codigo",
@@ -2629,15 +2620,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cmpp:article:133:term-usage:944-950",
-    "provision_id": "urn:lex-mx:federal:code:cmpp:article:133",
-    "term_id": "urn:lex-mx:federal:code:cmpp:term:codigo",
-    "span": "Código",
-    "start_char": 944,
-    "end_char": 950
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:code:cmpp:article:133:term-usage:981-987",
     "provision_id": "urn:lex-mx:federal:code:cmpp:article:133",
     "term_id": "urn:lex-mx:federal:code:cmpp:term:codigo",
@@ -2761,15 +2743,6 @@
     "span": "Código",
     "start_char": 1272,
     "end_char": 1278
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cmpp:article:137:term-usage:1759-1765",
-    "provision_id": "urn:lex-mx:federal:code:cmpp:article:137",
-    "term_id": "urn:lex-mx:federal:code:cmpp:term:codigo",
-    "span": "Código",
-    "start_char": 1759,
-    "end_char": 1765
   },
   {
     "schema_version": "0.1.0",
@@ -3403,30 +3376,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cmpp:article:164:term-usage:720-726",
-    "provision_id": "urn:lex-mx:federal:code:cmpp:article:164",
-    "term_id": "urn:lex-mx:federal:code:cmpp:term:codigo",
-    "span": "Código",
-    "start_char": 720,
-    "end_char": 726
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:code:cmpp:article:164:term-usage:1120-1148",
     "provision_id": "urn:lex-mx:federal:code:cmpp:article:164",
     "term_id": "urn:lex-mx:federal:code:cmpp:term:persona-juzgadora-de-control",
     "span": "Persona Juzgadora de Control",
     "start_char": 1120,
     "end_char": 1148
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cmpp:article:164:term-usage:1931-1937",
-    "provision_id": "urn:lex-mx:federal:code:cmpp:article:164",
-    "term_id": "urn:lex-mx:federal:code:cmpp:term:codigo",
-    "span": "Código",
-    "start_char": 1931,
-    "end_char": 1937
   },
   {
     "schema_version": "0.1.0",
@@ -3526,15 +3481,6 @@
     "span": "Ministerio Público",
     "start_char": 424,
     "end_char": 442
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cmpp:article:170:term-usage:568-574",
-    "provision_id": "urn:lex-mx:federal:code:cmpp:article:170",
-    "term_id": "urn:lex-mx:federal:code:cmpp:term:codigo",
-    "span": "Código",
-    "start_char": 568,
-    "end_char": 574
   },
   {
     "schema_version": "0.1.0",
@@ -3679,15 +3625,6 @@
     "span": "Ministerio Público",
     "start_char": 100,
     "end_char": 118
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cmpp:article:189:term-usage:1244-1250",
-    "provision_id": "urn:lex-mx:federal:code:cmpp:article:189",
-    "term_id": "urn:lex-mx:federal:code:cmpp:term:codigo",
-    "span": "Código",
-    "start_char": 1244,
-    "end_char": 1250
   },
   {
     "schema_version": "0.1.0",
@@ -6634,15 +6571,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cmpp:article:411:term-usage:234-240",
-    "provision_id": "urn:lex-mx:federal:code:cmpp:article:411",
-    "term_id": "urn:lex-mx:federal:code:cmpp:term:codigo",
-    "span": "Código",
-    "start_char": 234,
-    "end_char": 240
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:code:cmpp:article:411:term-usage:772-790",
     "provision_id": "urn:lex-mx:federal:code:cmpp:article:411",
     "term_id": "urn:lex-mx:federal:code:cmpp:term:ministerio-publico",
@@ -7102,15 +7030,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cmpp:transitory:cuarto:term-usage:818-824",
-    "provision_id": "urn:lex-mx:federal:code:cmpp:transitory:cuarto",
-    "term_id": "urn:lex-mx:federal:code:cmpp:term:codigo",
-    "span": "Código",
-    "start_char": 818,
-    "end_char": 824
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:code:cmpp:transitory:cuarto:term-usage:1044-1050",
     "provision_id": "urn:lex-mx:federal:code:cmpp:transitory:cuarto",
     "term_id": "urn:lex-mx:federal:code:cmpp:term:codigo",
@@ -7129,24 +7048,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cmpp:transitory:cuarto:term-usage:1357-1363",
-    "provision_id": "urn:lex-mx:federal:code:cmpp:transitory:cuarto",
-    "term_id": "urn:lex-mx:federal:code:cmpp:term:codigo",
-    "span": "Código",
-    "start_char": 1357,
-    "end_char": 1363
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cmpp:transitory:cuarto:term-usage:1577-1583",
-    "provision_id": "urn:lex-mx:federal:code:cmpp:transitory:cuarto",
-    "term_id": "urn:lex-mx:federal:code:cmpp:term:codigo",
-    "span": "Código",
-    "start_char": 1577,
-    "end_char": 1583
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:code:cmpp:transitory:cuarto:term-usage:1675-1681",
     "provision_id": "urn:lex-mx:federal:code:cmpp:transitory:cuarto",
     "term_id": "urn:lex-mx:federal:code:cmpp:term:codigo",
@@ -7162,14 +7063,5 @@
     "span": "Código",
     "start_char": 1920,
     "end_char": 1926
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cmpp:transitory:cuarto:term-usage:1937-1943",
-    "provision_id": "urn:lex-mx:federal:code:cmpp:transitory:cuarto",
-    "term_id": "urn:lex-mx:federal:code:cmpp:term:codigo",
-    "span": "Código",
-    "start_char": 1937,
-    "end_char": 1943
   }
 ]

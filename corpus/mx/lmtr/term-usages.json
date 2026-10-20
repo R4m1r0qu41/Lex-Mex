@@ -37,15 +37,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmtr:article:3:term-usage:886-889",
-    "provision_id": "urn:lex-mx:federal:statute:lmtr:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lmtr:term:ley",
-    "span": "Ley",
-    "start_char": 886,
-    "end_char": 889
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lmtr:article:3:term-usage:1350-1394",
     "provision_id": "urn:lex-mx:federal:statute:lmtr:article:3",
     "term_id": "urn:lex-mx:federal:statute:lmtr:term:cuadro-nacional-de-atribucion-de-frecuencias",
@@ -199,15 +190,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmtr:article:3:term-usage:11308-11321",
-    "provision_id": "urn:lex-mx:federal:statute:lmtr:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lmtr:term:radiodifusion",
-    "span": "Radiodifusión",
-    "start_char": 11308,
-    "end_char": 11321
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lmtr:article:3:term-usage:13321-13329",
     "provision_id": "urn:lex-mx:federal:statute:lmtr:article:3",
     "term_id": "urn:lex-mx:federal:statute:lmtr:term:comision",
@@ -250,15 +232,6 @@
     "span": "Ley",
     "start_char": 14963,
     "end_char": 14966
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmtr:article:3:term-usage:14972-14975",
-    "provision_id": "urn:lex-mx:federal:statute:lmtr:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lmtr:term:ley",
-    "span": "Ley",
-    "start_char": 14972,
-    "end_char": 14975
   },
   {
     "schema_version": "0.1.0",
@@ -340,51 +313,6 @@
     "span": "Ley",
     "start_char": 39,
     "end_char": 42
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmtr:article:6:term-usage:158-161",
-    "provision_id": "urn:lex-mx:federal:statute:lmtr:article:6",
-    "term_id": "urn:lex-mx:federal:statute:lmtr:term:ley",
-    "span": "Ley",
-    "start_char": 158,
-    "end_char": 161
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmtr:article:6:term-usage:210-213",
-    "provision_id": "urn:lex-mx:federal:statute:lmtr:article:6",
-    "term_id": "urn:lex-mx:federal:statute:lmtr:term:ley",
-    "span": "Ley",
-    "start_char": 210,
-    "end_char": 213
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmtr:article:6:term-usage:256-259",
-    "provision_id": "urn:lex-mx:federal:statute:lmtr:article:6",
-    "term_id": "urn:lex-mx:federal:statute:lmtr:term:ley",
-    "span": "Ley",
-    "start_char": 256,
-    "end_char": 259
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmtr:article:6:term-usage:297-300",
-    "provision_id": "urn:lex-mx:federal:statute:lmtr:article:6",
-    "term_id": "urn:lex-mx:federal:statute:lmtr:term:ley",
-    "span": "Ley",
-    "start_char": 297,
-    "end_char": 300
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmtr:article:6:term-usage:342-345",
-    "provision_id": "urn:lex-mx:federal:statute:lmtr:article:6",
-    "term_id": "urn:lex-mx:federal:statute:lmtr:term:ley",
-    "span": "Ley",
-    "start_char": 342,
-    "end_char": 345
   },
   {
     "schema_version": "0.1.0",
@@ -700,15 +628,6 @@
     "span": "Ley",
     "start_char": 5220,
     "end_char": 5223
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmtr:article:10:term-usage:5229-5232",
-    "provision_id": "urn:lex-mx:federal:statute:lmtr:article:10",
-    "term_id": "urn:lex-mx:federal:statute:lmtr:term:ley",
-    "span": "Ley",
-    "start_char": 5229,
-    "end_char": 5232
   },
   {
     "schema_version": "0.1.0",
@@ -1153,15 +1072,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmtr:article:23:term-usage:371-374",
-    "provision_id": "urn:lex-mx:federal:statute:lmtr:article:23",
-    "term_id": "urn:lex-mx:federal:statute:lmtr:term:ley",
-    "span": "Ley",
-    "start_char": 371,
-    "end_char": 374
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lmtr:article:23:term-usage:581-584",
     "provision_id": "urn:lex-mx:federal:statute:lmtr:article:23",
     "term_id": "urn:lex-mx:federal:statute:lmtr:term:ley",
@@ -1252,30 +1162,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmtr:article:26:term-usage:456-459",
-    "provision_id": "urn:lex-mx:federal:statute:lmtr:article:26",
-    "term_id": "urn:lex-mx:federal:statute:lmtr:term:ley",
-    "span": "Ley",
-    "start_char": 456,
-    "end_char": 459
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lmtr:article:27:term-usage:48-56",
     "provision_id": "urn:lex-mx:federal:statute:lmtr:article:27",
     "term_id": "urn:lex-mx:federal:statute:lmtr:term:comision",
     "span": "Comisión",
     "start_char": 48,
     "end_char": 56
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmtr:article:27:term-usage:132-135",
-    "provision_id": "urn:lex-mx:federal:statute:lmtr:article:27",
-    "term_id": "urn:lex-mx:federal:statute:lmtr:term:ley",
-    "span": "Ley",
-    "start_char": 132,
-    "end_char": 135
   },
   {
     "schema_version": "0.1.0",
@@ -1330,15 +1222,6 @@
     "span": "Comisión",
     "start_char": 71,
     "end_char": 79
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmtr:article:29:term-usage:228-231",
-    "provision_id": "urn:lex-mx:federal:statute:lmtr:article:29",
-    "term_id": "urn:lex-mx:federal:statute:lmtr:term:ley",
-    "span": "Ley",
-    "start_char": 228,
-    "end_char": 231
   },
   {
     "schema_version": "0.1.0",
@@ -1819,15 +1702,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmtr:article:50:term-usage:243-246",
-    "provision_id": "urn:lex-mx:federal:statute:lmtr:article:50",
-    "term_id": "urn:lex-mx:federal:statute:lmtr:term:ley",
-    "span": "Ley",
-    "start_char": 243,
-    "end_char": 246
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lmtr:article:50:term-usage:302-310",
     "provision_id": "urn:lex-mx:federal:statute:lmtr:article:50",
     "term_id": "urn:lex-mx:federal:statute:lmtr:term:comision",
@@ -1972,30 +1846,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmtr:article:56:term-usage:249-252",
-    "provision_id": "urn:lex-mx:federal:statute:lmtr:article:56",
-    "term_id": "urn:lex-mx:federal:statute:lmtr:term:ley",
-    "span": "Ley",
-    "start_char": 249,
-    "end_char": 252
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lmtr:article:56:term-usage:449-457",
     "provision_id": "urn:lex-mx:federal:statute:lmtr:article:56",
     "term_id": "urn:lex-mx:federal:statute:lmtr:term:comision",
     "span": "Comisión",
     "start_char": 449,
     "end_char": 457
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmtr:article:56:term-usage:601-604",
-    "provision_id": "urn:lex-mx:federal:statute:lmtr:article:56",
-    "term_id": "urn:lex-mx:federal:statute:lmtr:term:ley",
-    "span": "Ley",
-    "start_char": 601,
-    "end_char": 604
   },
   {
     "schema_version": "0.1.0",
@@ -3070,15 +2926,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmtr:article:90:term-usage:2808-2811",
-    "provision_id": "urn:lex-mx:federal:statute:lmtr:article:90",
-    "term_id": "urn:lex-mx:federal:statute:lmtr:term:ley",
-    "span": "Ley",
-    "start_char": 2808,
-    "end_char": 2811
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lmtr:article:90:term-usage:2995-3003",
     "provision_id": "urn:lex-mx:federal:statute:lmtr:article:90",
     "term_id": "urn:lex-mx:federal:statute:lmtr:term:comision",
@@ -3265,15 +3112,6 @@
     "span": "Comisión",
     "start_char": 1722,
     "end_char": 1730
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmtr:article:94:term-usage:2190-2193",
-    "provision_id": "urn:lex-mx:federal:statute:lmtr:article:94",
-    "term_id": "urn:lex-mx:federal:statute:lmtr:term:ley",
-    "span": "Ley",
-    "start_char": 2190,
-    "end_char": 2193
   },
   {
     "schema_version": "0.1.0",
@@ -3571,15 +3409,6 @@
     "span": "Ley",
     "start_char": 1451,
     "end_char": 1454
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmtr:article:102:term-usage:1460-1463",
-    "provision_id": "urn:lex-mx:federal:statute:lmtr:article:102",
-    "term_id": "urn:lex-mx:federal:statute:lmtr:term:ley",
-    "span": "Ley",
-    "start_char": 1460,
-    "end_char": 1463
   },
   {
     "schema_version": "0.1.0",
@@ -4498,15 +4327,6 @@
     "span": "INDAABIN",
     "start_char": 1702,
     "end_char": 1710
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmtr:article:134:term-usage:245-248",
-    "provision_id": "urn:lex-mx:federal:statute:lmtr:article:134",
-    "term_id": "urn:lex-mx:federal:statute:lmtr:term:ley",
-    "span": "Ley",
-    "start_char": 245,
-    "end_char": 248
   },
   {
     "schema_version": "0.1.0",
@@ -5752,15 +5572,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmtr:article:183:term-usage:3901-3904",
-    "provision_id": "urn:lex-mx:federal:statute:lmtr:article:183",
-    "term_id": "urn:lex-mx:federal:statute:lmtr:term:ley",
-    "span": "Ley",
-    "start_char": 3901,
-    "end_char": 3904
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lmtr:article:183:term-usage:4075-4078",
     "provision_id": "urn:lex-mx:federal:statute:lmtr:article:183",
     "term_id": "urn:lex-mx:federal:statute:lmtr:term:ley",
@@ -5887,15 +5698,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmtr:article:185:term-usage:67-70",
-    "provision_id": "urn:lex-mx:federal:statute:lmtr:article:185",
-    "term_id": "urn:lex-mx:federal:statute:lmtr:term:ley",
-    "span": "Ley",
-    "start_char": 67,
-    "end_char": 70
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lmtr:article:185:term-usage:640-648",
     "provision_id": "urn:lex-mx:federal:statute:lmtr:article:185",
     "term_id": "urn:lex-mx:federal:statute:lmtr:term:comision",
@@ -5995,15 +5797,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmtr:article:185:term-usage:5690-5693",
-    "provision_id": "urn:lex-mx:federal:statute:lmtr:article:185",
-    "term_id": "urn:lex-mx:federal:statute:lmtr:term:ley",
-    "span": "Ley",
-    "start_char": 5690,
-    "end_char": 5693
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lmtr:article:185:term-usage:5803-5811",
     "provision_id": "urn:lex-mx:federal:statute:lmtr:article:185",
     "term_id": "urn:lex-mx:federal:statute:lmtr:term:comision",
@@ -6064,15 +5857,6 @@
     "span": "Ley",
     "start_char": 6752,
     "end_char": 6755
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmtr:article:185:term-usage:6761-6764",
-    "provision_id": "urn:lex-mx:federal:statute:lmtr:article:185",
-    "term_id": "urn:lex-mx:federal:statute:lmtr:term:ley",
-    "span": "Ley",
-    "start_char": 6761,
-    "end_char": 6764
   },
   {
     "schema_version": "0.1.0",
@@ -6139,15 +5923,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmtr:article:185:term-usage:7527-7530",
-    "provision_id": "urn:lex-mx:federal:statute:lmtr:article:185",
-    "term_id": "urn:lex-mx:federal:statute:lmtr:term:ley",
-    "span": "Ley",
-    "start_char": 7527,
-    "end_char": 7530
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lmtr:article:185:term-usage:7709-7717",
     "provision_id": "urn:lex-mx:federal:statute:lmtr:article:185",
     "term_id": "urn:lex-mx:federal:statute:lmtr:term:comision",
@@ -6175,15 +5950,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmtr:article:186:term-usage:1461-1464",
-    "provision_id": "urn:lex-mx:federal:statute:lmtr:article:186",
-    "term_id": "urn:lex-mx:federal:statute:lmtr:term:ley",
-    "span": "Ley",
-    "start_char": 1461,
-    "end_char": 1464
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lmtr:article:187:term-usage:76-83",
     "provision_id": "urn:lex-mx:federal:statute:lmtr:article:187",
     "term_id": "urn:lex-mx:federal:statute:lmtr:term:profeco",
@@ -6202,30 +5968,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmtr:article:187:term-usage:256-259",
-    "provision_id": "urn:lex-mx:federal:statute:lmtr:article:187",
-    "term_id": "urn:lex-mx:federal:statute:lmtr:term:ley",
-    "span": "Ley",
-    "start_char": 256,
-    "end_char": 259
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lmtr:article:188:term-usage:88-95",
     "provision_id": "urn:lex-mx:federal:statute:lmtr:article:188",
     "term_id": "urn:lex-mx:federal:statute:lmtr:term:profeco",
     "span": "PROFECO",
     "start_char": 88,
     "end_char": 95
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmtr:article:188:term-usage:295-298",
-    "provision_id": "urn:lex-mx:federal:statute:lmtr:article:188",
-    "term_id": "urn:lex-mx:federal:statute:lmtr:term:ley",
-    "span": "Ley",
-    "start_char": 295,
-    "end_char": 298
   },
   {
     "schema_version": "0.1.0",
@@ -6742,15 +6490,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmtr:article:211:term-usage:225-228",
-    "provision_id": "urn:lex-mx:federal:statute:lmtr:article:211",
-    "term_id": "urn:lex-mx:federal:statute:lmtr:term:ley",
-    "span": "Ley",
-    "start_char": 225,
-    "end_char": 228
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lmtr:article:211:term-usage:298-301",
     "provision_id": "urn:lex-mx:federal:statute:lmtr:article:211",
     "term_id": "urn:lex-mx:federal:statute:lmtr:term:ley",
@@ -6814,15 +6553,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmtr:article:214:term-usage:90-93",
-    "provision_id": "urn:lex-mx:federal:statute:lmtr:article:214",
-    "term_id": "urn:lex-mx:federal:statute:lmtr:term:ley",
-    "span": "Ley",
-    "start_char": 90,
-    "end_char": 93
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lmtr:article:215:term-usage:341-353",
     "provision_id": "urn:lex-mx:federal:statute:lmtr:article:215",
     "term_id": "urn:lex-mx:federal:statute:lmtr:term:constitucion",
@@ -6874,15 +6604,6 @@
     "span": "Comisión",
     "start_char": 800,
     "end_char": 808
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmtr:article:222:term-usage:710-713",
-    "provision_id": "urn:lex-mx:federal:statute:lmtr:article:222",
-    "term_id": "urn:lex-mx:federal:statute:lmtr:term:ley",
-    "span": "Ley",
-    "start_char": 710,
-    "end_char": 713
   },
   {
     "schema_version": "0.1.0",
@@ -7282,15 +7003,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmtr:article:259:term-usage:6236-6239",
-    "provision_id": "urn:lex-mx:federal:statute:lmtr:article:259",
-    "term_id": "urn:lex-mx:federal:statute:lmtr:term:ley",
-    "span": "Ley",
-    "start_char": 6236,
-    "end_char": 6239
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lmtr:article:259:term-usage:6719-6727",
     "provision_id": "urn:lex-mx:federal:statute:lmtr:article:259",
     "term_id": "urn:lex-mx:federal:statute:lmtr:term:comision",
@@ -7624,24 +7336,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmtr:article:271:term-usage:312-315",
-    "provision_id": "urn:lex-mx:federal:statute:lmtr:article:271",
-    "term_id": "urn:lex-mx:federal:statute:lmtr:term:ley",
-    "span": "Ley",
-    "start_char": 312,
-    "end_char": 315
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmtr:article:271:term-usage:341-348",
-    "provision_id": "urn:lex-mx:federal:statute:lmtr:article:271",
-    "term_id": "urn:lex-mx:federal:statute:lmtr:term:calidad",
-    "span": "Calidad",
-    "start_char": 341,
-    "end_char": 348
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lmtr:article:271:term-usage:353-361",
     "provision_id": "urn:lex-mx:federal:statute:lmtr:article:271",
     "term_id": "urn:lex-mx:federal:statute:lmtr:term:comision",
@@ -7837,15 +7531,6 @@
     "span": "Comisión",
     "start_char": 255,
     "end_char": 263
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmtr:article:281:term-usage:338-341",
-    "provision_id": "urn:lex-mx:federal:statute:lmtr:article:281",
-    "term_id": "urn:lex-mx:federal:statute:lmtr:term:ley",
-    "span": "Ley",
-    "start_char": 338,
-    "end_char": 341
   },
   {
     "schema_version": "0.1.0",
@@ -8488,24 +8173,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmtr:transitory:tercero:term-usage:242-245",
-    "provision_id": "urn:lex-mx:federal:statute:lmtr:transitory:tercero",
-    "term_id": "urn:lex-mx:federal:statute:lmtr:term:ley",
-    "span": "Ley",
-    "start_char": 242,
-    "end_char": 245
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmtr:transitory:tercero:term-usage:278-291",
-    "provision_id": "urn:lex-mx:federal:statute:lmtr:transitory:tercero",
-    "term_id": "urn:lex-mx:federal:statute:lmtr:term:radiodifusion",
-    "span": "Radiodifusión",
-    "start_char": 278,
-    "end_char": 291
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lmtr:transitory:cuarto:term-usage:90-98",
     "provision_id": "urn:lex-mx:federal:statute:lmtr:transitory:cuarto",
     "term_id": "urn:lex-mx:federal:statute:lmtr:term:comision",
@@ -8623,42 +8290,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmtr:transitory:sexto:term-usage:114-117",
-    "provision_id": "urn:lex-mx:federal:statute:lmtr:transitory:sexto",
-    "term_id": "urn:lex-mx:federal:statute:lmtr:term:ley",
-    "span": "Ley",
-    "start_char": 114,
-    "end_char": 117
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmtr:transitory:sexto:term-usage:150-163",
-    "provision_id": "urn:lex-mx:federal:statute:lmtr:transitory:sexto",
-    "term_id": "urn:lex-mx:federal:statute:lmtr:term:radiodifusion",
-    "span": "Radiodifusión",
-    "start_char": 150,
-    "end_char": 163
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmtr:transitory:septimo:term-usage:288-291",
-    "provision_id": "urn:lex-mx:federal:statute:lmtr:transitory:septimo",
-    "term_id": "urn:lex-mx:federal:statute:lmtr:term:ley",
-    "span": "Ley",
-    "start_char": 288,
-    "end_char": 291
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmtr:transitory:septimo:term-usage:324-337",
-    "provision_id": "urn:lex-mx:federal:statute:lmtr:transitory:septimo",
-    "term_id": "urn:lex-mx:federal:statute:lmtr:term:radiodifusion",
-    "span": "Radiodifusión",
-    "start_char": 324,
-    "end_char": 337
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lmtr:transitory:octavo:term-usage:58-66",
     "provision_id": "urn:lex-mx:federal:statute:lmtr:transitory:octavo",
     "term_id": "urn:lex-mx:federal:statute:lmtr:term:comision",
@@ -8764,15 +8395,6 @@
     "span": "Comisión",
     "start_char": 356,
     "end_char": 364
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmtr:transitory:decimo-sexto:term-usage:229-232",
-    "provision_id": "urn:lex-mx:federal:statute:lmtr:transitory:decimo-sexto",
-    "term_id": "urn:lex-mx:federal:statute:lmtr:term:ley",
-    "span": "Ley",
-    "start_char": 229,
-    "end_char": 232
   },
   {
     "schema_version": "0.1.0",
@@ -8893,48 +8515,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmtr:transitory:vigesimo-primero:term-usage:246-249",
-    "provision_id": "urn:lex-mx:federal:statute:lmtr:transitory:vigesimo-primero",
-    "term_id": "urn:lex-mx:federal:statute:lmtr:term:ley",
-    "span": "Ley",
-    "start_char": 246,
-    "end_char": 249
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmtr:transitory:vigesimo-primero:term-usage:282-295",
-    "provision_id": "urn:lex-mx:federal:statute:lmtr:transitory:vigesimo-primero",
-    "term_id": "urn:lex-mx:federal:statute:lmtr:term:radiodifusion",
-    "span": "Radiodifusión",
-    "start_char": 282,
-    "end_char": 295
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lmtr:transitory:vigesimo-primero:term-usage:615-623",
     "provision_id": "urn:lex-mx:federal:statute:lmtr:transitory:vigesimo-primero",
     "term_id": "urn:lex-mx:federal:statute:lmtr:term:comision",
     "span": "Comisión",
     "start_char": 615,
     "end_char": 623
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmtr:transitory:vigesimo-segundo:term-usage:79-82",
-    "provision_id": "urn:lex-mx:federal:statute:lmtr:transitory:vigesimo-segundo",
-    "term_id": "urn:lex-mx:federal:statute:lmtr:term:ley",
-    "span": "Ley",
-    "start_char": 79,
-    "end_char": 82
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmtr:transitory:vigesimo-segundo:term-usage:115-128",
-    "provision_id": "urn:lex-mx:federal:statute:lmtr:transitory:vigesimo-segundo",
-    "term_id": "urn:lex-mx:federal:statute:lmtr:term:radiodifusion",
-    "span": "Radiodifusión",
-    "start_char": 115,
-    "end_char": 128
   },
   {
     "schema_version": "0.1.0",

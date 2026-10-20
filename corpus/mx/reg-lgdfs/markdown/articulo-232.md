@@ -17,4 +17,4 @@ source_sha256: a4dbcdb94d780332f0bda62246611dab5972e75bcb01df293df93a95cdd03530
 
 # Artículo 232
 
-Cuando de los actos de inspección, vigilancia y verificación, se determine que existe riesgo inminente de desequilibrio ecológico, o de daño o deterioro grave a los Recursos forestales, la [Procuraduría](articulo-2.md) podrá ordenar la aplicación de las medidas de seguridad contenidas en el Título Sexto de la [Ley](articulo-2.md) General del Equilibrio Ecológico y la Protección al Ambiente.
+Cuando de los actos de inspección, vigilancia y verificación, se determine que existe riesgo inminente de desequilibrio ecológico, o de daño o deterioro grave a los Recursos forestales, la [Procuraduría](articulo-2.md) podrá ordenar la aplicación de las medidas de seguridad contenidas en el Título Sexto de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.

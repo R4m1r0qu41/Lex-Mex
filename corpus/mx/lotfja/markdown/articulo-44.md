@@ -21,11 +21,11 @@ Los Magistrados sólo podrán ser removidos de sus cargos por las siguientes cau
 
 I. Incurrir en violaciones graves a los derechos humanos, previstos por la Constitución y los tratados internacionales de los que el Estado Mexicano sea parte;
 
-II. Incurrir en responsabilidad administrativa grave en términos de la [Ley](articulo-2.md) General de Responsabilidades Administrativas;
+II. Incurrir en responsabilidad administrativa grave en términos de la Ley General de Responsabilidades Administrativas;
 
 III. Haber sido condenado por delito doloso;
 
-IV. Utilizar, en beneficio propio o de terceros, la información confidencial o reservada de que disponga en razón de su cargo, así como divulgar la mencionada información en contravención a la Ley;
+IV. Utilizar, en beneficio propio o de terceros, la información confidencial o reservada de que disponga en razón de su cargo, así como divulgar la mencionada información en contravención a la [Ley](articulo-2.md);
 
 V. Abstenerse de resolver sin causa justificada y en forma reiterada, los asuntos de su competencia dentro los plazos previstos por la Ley;
 

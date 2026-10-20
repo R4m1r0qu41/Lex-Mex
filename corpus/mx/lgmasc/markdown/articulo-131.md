@@ -29,6 +29,6 @@ V. Incurrir, cualquiera de las partes en un comportamiento irrespetuoso, agresiv
 
 VI. Por la muerte, extinción o disolución de alguna de las partes, y
 
-VII. En los demás casos en que proceda dar por concluido el trámite del mecanismo de conformidad con la [Ley](articulo-5.md) Federal de Procedimiento Contencioso Administrativo o las leyes de procedimiento contencioso administrativo de las entidades federativas.
+VII. En los demás casos en que proceda dar por concluido el trámite del mecanismo de conformidad con la Ley Federal de Procedimiento Contencioso Administrativo o las leyes de procedimiento contencioso administrativo de las entidades federativas.
 
 En todos los casos, se deberá informar en un plazo máximo de tres días hábiles a la autoridad jurisdiccional o administrativa competente, para que en el ámbito de sus atribuciones se continúe con el trámite del procedimiento jurisdiccional o administrativo respectivo.

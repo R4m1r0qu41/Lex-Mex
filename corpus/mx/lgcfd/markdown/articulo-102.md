@@ -17,4 +17,4 @@ source_sha256: 7f28b406ac8966ef726994b15fc2356a5d8ee92a8e24de0e7a3046d2683fe40d
 
 # Artículo 102
 
-La [CONADE](articulo-4.md) promoverá y gestionará conjuntamente con las Asociaciones Deportivas Nacionales la formación, capacitación, actualización y certificación de recursos humanos para la enseñanza y práctica de actividades de cultura física deportiva y deporte. Para tal efecto, emitirá los lineamientos necesarios en los que se determine el procedimiento de acreditación considerando lo dispuesto por la [Ley](articulo-4.md) General de Educación.
+La [CONADE](articulo-4.md) promoverá y gestionará conjuntamente con las Asociaciones Deportivas Nacionales la formación, capacitación, actualización y certificación de recursos humanos para la enseñanza y práctica de actividades de cultura física deportiva y deporte. Para tal efecto, emitirá los lineamientos necesarios en los que se determine el procedimiento de acreditación considerando lo dispuesto por la Ley General de Educación.

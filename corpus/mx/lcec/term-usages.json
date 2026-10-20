@@ -1900,15 +1900,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcec:transitory:segundo:term-usage:48-63",
-    "provision_id": "urn:lex-mx:federal:statute:lcec:transitory:segundo",
-    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
-    "span": "Confederaciones",
-    "start_char": 48,
-    "end_char": 63
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcec:transitory:quinto:term-usage:55-70",
     "provision_id": "urn:lex-mx:federal:statute:lcec:transitory:quinto",
     "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",

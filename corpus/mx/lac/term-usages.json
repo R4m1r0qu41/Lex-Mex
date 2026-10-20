@@ -1531,15 +1531,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lac:article:78-nonies:term-usage:106-117",
-    "provision_id": "urn:lex-mx:federal:statute:lac:article:78-nonies",
-    "term_id": "urn:lex-mx:federal:statute:lac:term:aeropuerto",
-    "span": "Aeropuertos",
-    "start_char": 106,
-    "end_char": 117
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lac:article:78-nonies:term-usage:143-176",
     "provision_id": "urn:lex-mx:federal:statute:lac:article:78-nonies",
     "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",

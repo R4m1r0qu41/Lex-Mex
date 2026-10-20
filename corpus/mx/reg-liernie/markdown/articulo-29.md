@@ -31,7 +31,7 @@ V. Tratándose de una sociedad ya establecida, acta constitutiva y estados finan
 
 VI. Cuando se pretenda establecer una sucursal en la República Mexicana, acta constitutiva y estatutos sociales de la persona moral extranjera, y
 
-VII. Comprobante de pago de derechos previsto en la [Ley](articulo-1.md) Federal de Derechos, en original y copia simple.
+VII. Comprobante de pago de derechos previsto en la Ley Federal de Derechos, en original y copia simple.
 
 En el caso de sociedades extranjeras, el acta constitutiva a que se refiere la fracción VI anterior deberá estar legalizada ante cónsul mexicano o, cuando resulte aplicable, apostillada de conformidad con el Decreto de Promulgación de la Convención por la que se suprime el requisito de Legalización de los Documentos Públicos Extranjeros.
 

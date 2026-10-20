@@ -49,7 +49,7 @@ XV. Inversionista contratista: la persona que celebra contratos de obras públic
 
 XVI. Investigación de mercado: la verificación de la existencia y costo de materiales, mano de obra, maquinaria y equipo que permita determinar el precio total estimado de los trabajos, así como la existencia de contratistas a nivel nacional o internacional, con base en la información que se obtenga en términos del presente Reglamento; Fracción reformada DOF 27-09-2022
 
-XVII. Ley: la Ley de [Obras](articulo-2.md) Públicas y [Servicios](articulo-2.md) Relacionados con las Mismas;
+XVII. Ley: la Ley de Obras Públicas y Servicios Relacionados con las Mismas;
 
 XVIII. MIPYMES: las micro, pequeñas y medianas empresas de nacionalidad mexicana a que hace referencia la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa;
 

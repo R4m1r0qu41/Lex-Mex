@@ -20,7 +20,7 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 Para efectos del presente capítulo, se entenderá por:
 
-I. Estado de Cuenta, en singular o plural, al documento a que hace referencia el Artículo [13](../../ltosf/markdown/articulo-13.md) de la [Ley](articulo-1.md) para la Transparencia y Ordenamiento de los Servicios Financieros y en el cual se presentan los saldos y detallan los movimientos observados en las operaciones de inversión contratadas por una Sociedad.
+I. Estado de Cuenta, en singular o plural, al documento a que hace referencia el Artículo [13](../../ltosf/markdown/articulo-13.md) de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros y en el cual se presentan los saldos y detallan los movimientos observados en las operaciones de inversión contratadas por una Sociedad.
 
 II. Medio de Consulta, en singular o plural, a los medios para realizar la consulta de los Estados de Cuenta por parte de las Sociedades acordados con las entidades financieras, donde aquellas mantengan las cuentas de inversión a que hace referencia el Artículo [13](../../ltosf/markdown/articulo-13.md) de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros.
 

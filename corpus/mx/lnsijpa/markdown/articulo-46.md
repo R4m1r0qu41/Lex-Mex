@@ -31,7 +31,7 @@ IV. Recibir información sobre las leyes, reglamentos u otras disposiciones que 
 
 V. No recibir castigos corporales ni cualquier tipo de medida que vulnere sus derechos o ponga en peligro su salud física o mental;
 
-VI. Recibir asistencia médica preventiva y de tratamiento para el cuidado de la salud, así como atención y tratamiento psicológico atendiendo a las necesidades propias de su edad y sexo en, por lo menos, centros de salud que brinden asistencia médica y psicológica de primer nivel en términos de la [Ley General](articulo-3.md) de Salud; en el Centro Especializado y, en caso de que sea insuficiente la atención brindada dentro de reclusión o se necesite asistencia médica avanzada, se podrá solicitar el ingreso de atención especializada a dicho Centro o bien, que la persona sea remitida a un Centro de salud público en los términos que establezca la ley; Fracción reformada DOF 20-12-2022
+VI. Recibir asistencia médica preventiva y de tratamiento para el cuidado de la salud, así como atención y tratamiento psicológico atendiendo a las necesidades propias de su edad y sexo en, por lo menos, centros de salud que brinden asistencia médica y psicológica de primer nivel en términos de la Ley General de Salud; en el Centro Especializado y, en caso de que sea insuficiente la atención brindada dentro de reclusión o se necesite asistencia médica avanzada, se podrá solicitar el ingreso de atención especializada a dicho Centro o bien, que la persona sea remitida a un Centro de salud público en los términos que establezca la ley; Fracción reformada DOF 20-12-2022
 
 VII. Recibir en todo momento una alimentación nutritiva, adecuada y suficiente para su desarrollo, así como vestimenta suficiente y digna que garantice su salud y formación integral;
 

@@ -19,7 +19,7 @@ source_sha256: 685a4669dd8c9f71153676b083ba7a68c88416677fc7b4e6026ab868c5292d3a
 
 Las Sociedades de Inversión sólo podrán adquirir valores que sean objeto de oferta pública, a través de colocaciones primarias o a través de operaciones de mercado abierto.
 
-Para efectos de lo dispuesto por el párrafo anterior se entenderá que son valores objeto de oferta pública en México, los que tengan este carácter conforme a lo dispuesto por la [Ley](articulo-2o.md) del Mercado de Valores y los criterios de la Comisión Nacional Bancaria y de Valores. Se entenderá que son operaciones de mercado abierto aquéllas en las que participe el Banco de México ya sea por cuenta propia o en su carácter de agente financiero del Gobierno Federal.
+Para efectos de lo dispuesto por el párrafo anterior se entenderá que son valores objeto de oferta pública en México, los que tengan este carácter conforme a lo dispuesto por la Ley del Mercado de Valores y los criterios de la Comisión Nacional Bancaria y de Valores. Se entenderá que son operaciones de mercado abierto aquéllas en las que participe el Banco de México ya sea por cuenta propia o en su carácter de agente financiero del Gobierno Federal.
 
 En las operaciones celebradas en mercados del exterior se estará a las normas del mercado de que se trate para determinar cuándo se entiende que un valor es objeto de oferta pública o una operación es de mercado abierto.
 

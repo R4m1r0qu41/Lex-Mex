@@ -1315,15 +1315,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:less:article:49:term-usage:203-209",
-    "provision_id": "urn:lex-mx:federal:statute:less:article:49",
-    "term_id": "urn:lex-mx:federal:statute:less:term:sector",
-    "span": "Sector",
-    "start_char": 203,
-    "end_char": 209
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:less:article:51:term-usage:85-94",
     "provision_id": "urn:lex-mx:federal:statute:less:article:51",
     "term_id": "urn:lex-mx:federal:statute:less:term:instituto",

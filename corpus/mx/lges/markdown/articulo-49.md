@@ -19,7 +19,7 @@ source_sha256: eaf7300918a6f5dc58fbd5f36373f914841ad3b728a6ac60d6c9ff2f28ec8e12
 
 Adicionalmente a las atribuciones exclusivas a las que se refieren los artículos [47](articulo-47.md) y [48](articulo-48.md) de esta Ley, corresponden a las autoridades educativas federal y de las entidades federativas, de manera concurrente, las atribuciones siguientes:
 
-I. Garantizar el servicio público de educación superior, atendiendo a las necesidades y características de ese tipo de educación, conforme a los principios, fines y criterios establecidos en la Constitución Política de los [Estados](articulo-6.md) Unidos Mexicanos, esta Ley, la Ley General de Educación y demás disposiciones aplicables;
+I. Garantizar el servicio público de educación superior, atendiendo a las necesidades y características de ese tipo de educación, conforme a los principios, fines y criterios establecidos en la Constitución Política de los Estados Unidos Mexicanos, esta Ley, la Ley General de Educación y demás disposiciones aplicables;
 
 II. Establecer mecanismos de coordinación entre los subsistemas de educación superior, así como con los sistemas estatales de ciencia, tecnología e innovación;
 

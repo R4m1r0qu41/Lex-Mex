@@ -17,4 +17,4 @@ source_sha256: 931a461822618f46f4c830890fe77f07bca22c1161f03a2ce5e70106a43f8557
 
 # Artículo 60
 
-La Secretaría promoverá que los productores orgánicos se integren a los Comités Sistema-Producto establecidos de conformidad con la [Ley](articulo-2.md) de Desarrollo Rural Sustentable.
+La Secretaría promoverá que los productores orgánicos se integren a los Comités Sistema-Producto establecidos de conformidad con la Ley de Desarrollo Rural Sustentable.

@@ -17,4 +17,4 @@ source_sha256: 940a253624138d30b02fa48711786f4b2637c99bcb195ee0ada59748474ed76b
 
 # Artículo 9
 
-Serán supletorios de este Reglamento y de las demás disposiciones que de él deriven, en lo que corresponda, el Código Civil Federal, la [Ley](articulo-2.md) Federal de Procedimiento Administrativo y el Código Nacional de Procedimientos Civiles y Familiares.
+Serán supletorios de este Reglamento y de las demás disposiciones que de él deriven, en lo que corresponda, el Código Civil Federal, la Ley Federal de Procedimiento Administrativo y el Código Nacional de Procedimientos Civiles y Familiares.

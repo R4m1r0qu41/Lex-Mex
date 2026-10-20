@@ -271,30 +271,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:31:term-usage:751-754",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:31",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:ley",
-    "span": "Ley",
-    "start_char": 751,
-    "end_char": 754
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:36:term-usage:129-145",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:36",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:centro-de-acopio",
     "span": "Centro de Acopio",
     "start_char": 129,
     "end_char": 145
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:37:term-usage:138-141",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:37",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:ley",
-    "span": "Ley",
-    "start_char": 138,
-    "end_char": 141
   },
   {
     "schema_version": "0.1.0",
@@ -340,15 +322,6 @@
     "span": "Ley",
     "start_char": 372,
     "end_char": 375
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:49:term-usage:669-672",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:49",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:ley",
-    "span": "Ley",
-    "start_char": 669,
-    "end_char": 672
   },
   {
     "schema_version": "0.1.0",

@@ -17,7 +17,7 @@ source_sha256: cbd3307808b89748077396e108c02651da8099a5bc491657c17fa676618d85f1
 
 # Artículo 94
 
-La persona titular del Órgano Interno de Control será designada por la Cámara de Diputados del Congreso de la Unión, con el voto de las dos terceras partes de las personas integrantes presentes, conforme al procedimiento establecido en la [Ley](articulo-9.md) Orgánica del Congreso General de los Estados Unidos Mexicanos.
+La persona titular del Órgano Interno de Control será designada por la Cámara de Diputados del Congreso de la Unión, con el voto de las dos terceras partes de las personas integrantes presentes, conforme al procedimiento establecido en la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos.
 
 La persona titular del Órgano Interno de Control deberá reunir los siguientes requisitos:
 

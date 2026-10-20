@@ -17,4 +17,4 @@ source_sha256: d23aedc9ffdb09b9202311f03023241da20445cb45aea855b37bfd9685768861
 
 # Artículo 104
 
-Previo cumplimiento de derecho de audiencia de acuerdo a lo establecido en la [Ley](articulo-2.md) Federal de Procedimiento Administrativo, la Secretaría debe emitir la resolución que determine la suspensión total o parcial o cancelación de la Entidad de Acreditación.
+Previo cumplimiento de derecho de audiencia de acuerdo a lo establecido en la Ley Federal de Procedimiento Administrativo, la Secretaría debe emitir la resolución que determine la suspensión total o parcial o cancelación de la Entidad de Acreditación.

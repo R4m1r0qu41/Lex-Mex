@@ -46,15 +46,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpsvd:article:4:term-usage:482-491",
-    "provision_id": "urn:lex-mx:federal:statute:lgpsvd:article:4",
-    "term_id": "urn:lex-mx:federal:statute:lgpsvd:term:violencia",
-    "span": "Violencia",
-    "start_char": 482,
-    "end_char": 491
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgpsvd:article:4:term-usage:770-779",
     "provision_id": "urn:lex-mx:federal:statute:lgpsvd:article:4",
     "term_id": "urn:lex-mx:federal:statute:lgpsvd:term:violencia",
@@ -82,15 +73,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpsvd:article:4:term-usage:954-963",
-    "provision_id": "urn:lex-mx:federal:statute:lgpsvd:article:4",
-    "term_id": "urn:lex-mx:federal:statute:lgpsvd:term:violencia",
-    "span": "Violencia",
-    "start_char": 954,
-    "end_char": 963
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgpsvd:article:4:term-usage:1121-1143",
     "provision_id": "urn:lex-mx:federal:statute:lgpsvd:article:4",
     "term_id": "urn:lex-mx:federal:statute:lgpsvd:term:secretariado-ejecutivo",
@@ -106,15 +88,6 @@
     "span": "Ley",
     "start_char": 34,
     "end_char": 37
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpsvd:article:5:term-usage:136-139",
-    "provision_id": "urn:lex-mx:federal:statute:lgpsvd:article:5",
-    "term_id": "urn:lex-mx:federal:statute:lgpsvd:term:ley",
-    "span": "Ley",
-    "start_char": 136,
-    "end_char": 139
   },
   {
     "schema_version": "0.1.0",
@@ -151,15 +124,6 @@
     "span": "Centro Nacional",
     "start_char": 382,
     "end_char": 397
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpsvd:article:12:term-usage:429-432",
-    "provision_id": "urn:lex-mx:federal:statute:lgpsvd:article:12",
-    "term_id": "urn:lex-mx:federal:statute:lgpsvd:term:ley",
-    "span": "Ley",
-    "start_char": 429,
-    "end_char": 432
   },
   {
     "schema_version": "0.1.0",
@@ -253,30 +217,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpsvd:article:14:term-usage:923-926",
-    "provision_id": "urn:lex-mx:federal:statute:lgpsvd:article:14",
-    "term_id": "urn:lex-mx:federal:statute:lgpsvd:term:ley",
-    "span": "Ley",
-    "start_char": 923,
-    "end_char": 926
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgpsvd:article:15:term-usage:3-18",
     "provision_id": "urn:lex-mx:federal:statute:lgpsvd:article:15",
     "term_id": "urn:lex-mx:federal:statute:lgpsvd:term:centro-nacional",
     "span": "Centro Nacional",
     "start_char": 3,
     "end_char": 18
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpsvd:article:15:term-usage:60-63",
-    "provision_id": "urn:lex-mx:federal:statute:lgpsvd:article:15",
-    "term_id": "urn:lex-mx:federal:statute:lgpsvd:term:ley",
-    "span": "Ley",
-    "start_char": 60,
-    "end_char": 63
   },
   {
     "schema_version": "0.1.0",
@@ -358,15 +304,6 @@
     "span": "Comisión",
     "start_char": 3,
     "end_char": 11
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpsvd:article:16:term-usage:53-56",
-    "provision_id": "urn:lex-mx:federal:statute:lgpsvd:article:16",
-    "term_id": "urn:lex-mx:federal:statute:lgpsvd:term:ley",
-    "span": "Ley",
-    "start_char": 53,
-    "end_char": 56
   },
   {
     "schema_version": "0.1.0",
@@ -505,15 +442,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpsvd:article:27:term-usage:263-266",
-    "provision_id": "urn:lex-mx:federal:statute:lgpsvd:article:27",
-    "term_id": "urn:lex-mx:federal:statute:lgpsvd:term:ley",
-    "span": "Ley",
-    "start_char": 263,
-    "end_char": 266
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgpsvd:article:28:term-usage:271-274",
     "provision_id": "urn:lex-mx:federal:statute:lgpsvd:article:28",
     "term_id": "urn:lex-mx:federal:statute:lgpsvd:term:ley",
@@ -577,29 +505,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpsvd:transitory:tercero:term-usage:296-305",
-    "provision_id": "urn:lex-mx:federal:statute:lgpsvd:transitory:tercero",
-    "term_id": "urn:lex-mx:federal:statute:lgpsvd:term:violencia",
-    "span": "Violencia",
-    "start_char": 296,
-    "end_char": 305
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgpsvd:transitory:cuarto:term-usage:86-89",
     "provision_id": "urn:lex-mx:federal:statute:lgpsvd:transitory:cuarto",
     "term_id": "urn:lex-mx:federal:statute:lgpsvd:term:ley",
     "span": "Ley",
     "start_char": 86,
     "end_char": 89
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpsvd:transitory:cuarto:term-usage:362-365",
-    "provision_id": "urn:lex-mx:federal:statute:lgpsvd:transitory:cuarto",
-    "term_id": "urn:lex-mx:federal:statute:lgpsvd:term:ley",
-    "span": "Ley",
-    "start_char": 362,
-    "end_char": 365
   }
 ]

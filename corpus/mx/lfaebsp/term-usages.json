@@ -244,15 +244,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfaebsp:article:1:term-usage:6099-6105",
-    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:1",
-    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
-    "span": "Bienes",
-    "start_char": 6099,
-    "end_char": 6105
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfaebsp:article:1:term-usage:6616-6626",
     "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:1",
     "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:secretaria",
@@ -3808,15 +3799,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfaebsp:article:90:term-usage:2745-2751",
-    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:90",
-    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
-    "span": "Bienes",
-    "start_char": 2745,
-    "end_char": 2751
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfaebsp:article:91:term-usage:43-49",
     "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:91",
     "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
@@ -3925,24 +3907,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfaebsp:transitory:sexto:term-usage:3-13",
-    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:transitory:sexto",
-    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:reglamento",
-    "span": "Reglamento",
-    "start_char": 3,
-    "end_char": 13
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfaebsp:transitory:sexto:term-usage:72-78",
-    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:transitory:sexto",
-    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
-    "span": "Bienes",
-    "start_char": 72,
-    "end_char": 78
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfaebsp:transitory:septimo:term-usage:81-87",
     "provision_id": "urn:lex-mx:federal:statute:lfaebsp:transitory:septimo",
     "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
@@ -3958,14 +3922,5 @@
     "span": "Bienes",
     "start_char": 59,
     "end_char": 65
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfaebsp:transitory:noveno:term-usage:225-231",
-    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:transitory:noveno",
-    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
-    "span": "Bienes",
-    "start_char": 225,
-    "end_char": 231
   }
 ]

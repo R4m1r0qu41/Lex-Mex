@@ -37,15 +37,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:article:3:term-usage:187-190",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:article:3",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:term:ley",
-    "span": "Ley",
-    "start_char": 187,
-    "end_char": 190
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:article:4:term-usage:234-237",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:article:4",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:term:ley",
@@ -127,15 +118,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:article:6:term-usage:292-295",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:article:6",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:term:ley",
-    "span": "Ley",
-    "start_char": 292,
-    "end_char": 295
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:article:6:term-usage:1927-1937",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:article:6",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:term:secretaria",
@@ -151,15 +133,6 @@
     "span": "Ley",
     "start_char": 2075,
     "end_char": 2078
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:article:6:term-usage:2177-2180",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:article:6",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:term:ley",
-    "span": "Ley",
-    "start_char": 2177,
-    "end_char": 2180
   },
   {
     "schema_version": "0.1.0",
@@ -304,15 +277,6 @@
     "span": "Reglamento",
     "start_char": 21,
     "end_char": 31
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:article:11:term-usage:401-404",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:article:11",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:term:ley",
-    "span": "Ley",
-    "start_char": 401,
-    "end_char": 404
   },
   {
     "schema_version": "0.1.0",
@@ -532,30 +496,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:article:21:term-usage:394-404",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:article:21",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:term:reglamento",
-    "span": "Reglamento",
-    "start_char": 394,
-    "end_char": 404
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:article:21:term-usage:411-414",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:article:21",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:term:ley",
     "span": "Ley",
     "start_char": 411,
     "end_char": 414
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:article:21:term-usage:502-511",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:article:21",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:term:emision",
-    "span": "Emisiones",
-    "start_char": 502,
-    "end_char": 511
   },
   {
     "schema_version": "0.1.0",

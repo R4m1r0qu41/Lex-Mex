@@ -21,7 +21,7 @@ Para la substanciación de procedimientos disciplinarios, se observará el sigui
 
 I. Las conductas contrarias al [Servicio Exterior](articulo-1-BIS.md) de los Miembros del Servicio Exterior serán investigadas por la Subcomisión de Asuntos Disciplinarios, por conducto del Órgano Interno de Control, la cual iniciará de oficio, por denuncia o derivado de las auditorías practicadas por parte de dicho Órgano. Las denuncias serán por escrito y podrán ser anónimas, o en su caso, la Subcomisión mantendrá con carácter de confidencial la identidad de las personas que denuncien las presuntas irregularidades.
 
-El Órgano Interno de Control llevará a cabo la investigación correspondiente de conformidad con lo dispuesto en la [Ley](articulo-1-BIS.md) General de Responsabilidades Administrativas y las demás normas que resulten aplicables.
+El Órgano Interno de Control llevará a cabo la investigación correspondiente de conformidad con lo dispuesto en la Ley General de Responsabilidades Administrativas y las demás normas que resulten aplicables.
 
 En caso de que la Subcomisión de Asuntos Disciplinarios tenga conocimiento de la presunta comisión de faltas administrativas, dará vista al Órgano Interno de Control, a efecto de que proceda a realizar la investigación correspondiente;
 
@@ -59,6 +59,6 @@ IX. Todos los acuerdos de trámite relacionados con los procedimientos disciplin
 
 En caso de desechamiento de prueba o de la declaración de la preclusión de un derecho del presunto infractor, el acuerdo relativo deberá ser suscrito por el Pleno de la Subcomisión de Asuntos Disciplinarios.
 
-En lo no previsto por esta Ley y su Reglamento respecto a los procedimientos disciplinarios de los Miembros del Servicio Exterior, será aplicable supletoriamente la Ley General de Responsabilidades Administrativas o la Ley Federal de Procedimiento Administrativo, según corresponda.
+En lo no previsto por esta [Ley](articulo-1-BIS.md) y su Reglamento respecto a los procedimientos disciplinarios de los Miembros del Servicio Exterior, será aplicable supletoriamente la Ley General de Responsabilidades Administrativas o la Ley Federal de Procedimiento Administrativo, según corresponda.
 
 Artículo reformado DOF 25-01-2002, 19-04-2018

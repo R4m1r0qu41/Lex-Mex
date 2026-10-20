@@ -49,7 +49,7 @@ XI. Crear una base nacional de información genética que contenga la informaci�
 
 La información integrada en esta base deberá ser resguardada y únicamente podrá ser utilizada para la confrontación de información genética entre cuerpos no identificados y personas desaparecidas, y
 
-XII. Cumplir con las facultades y responsabilidades que le corresponden y que se derivan de la operación del [Registro Nacional](articulo-5.md), en términos de lo dispuesto en la presente ley y en la [Ley](articulo-5.md) General del [Sistema Nacional](articulo-5.md) de Seguridad Pública, y Fracción adicionada DOF 16-12-2024
+XII. Cumplir con las facultades y responsabilidades que le corresponden y que se derivan de la operación del [Registro Nacional](articulo-5.md), en términos de lo dispuesto en la presente ley y en la Ley General del Sistema Nacional de Seguridad Pública, y Fracción adicionada DOF 16-12-2024
 
 XIII. Las demás previstas para el cumplimiento de la presente ley. Fracción recorrida DOF 16-12-2024
 

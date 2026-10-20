@@ -21,6 +21,6 @@ En las zonas de restauración de las áreas naturales protegidas el aprovechamie
 
 I. La reforestación de estas zonas se realizará de preferencia con especies nativas de la región; o en su caso, especies compatibles con el funcionamiento y la estructura de los ecosistemas naturales originales. Los especímenes exóticos deberán ser reemplazados por elementos naturales del ecosistema a través de proyectos de manejo específico;
 
-II. Restablecimiento de las condiciones propicias para la regeneración natural o inducida, y III. El aprovechamiento de especies de vida silvestre, sólo se autorizará cuando exista compatibilidad con las actividades de restauración, de conformidad con lo establecido en la [Ley](articulo-3o.md) General de Vida Silvestre.
+II. Restablecimiento de las condiciones propicias para la regeneración natural o inducida, y III. El aprovechamiento de especies de vida silvestre, sólo se autorizará cuando exista compatibilidad con las actividades de restauración, de conformidad con lo establecido en la Ley General de Vida Silvestre.
 
 Los interesados deberán elaborar los proyectos específicos de manejo en poblaciones naturales, que permitan garantizar que la tasa de aprovechamiento no rebase la renovación natural de las poblaciones.

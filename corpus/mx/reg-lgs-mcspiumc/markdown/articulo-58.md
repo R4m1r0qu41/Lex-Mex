@@ -19,7 +19,7 @@ source_sha256: 2cc4bd6de7ab80102fae680a7017a0876b062f7999f7e33916b853cc8296cb19
 
 Los interesados en importar [Materia Prima](articulo-3.md) para siembra, deberán presentar la solicitud para la expedición del certificado fitosanitario para la [Importación](articulo-3.md), así como la información y documentos siguientes:
 
-I. Nombre o denominación o razón social, registro federal de contribuyentes, en su caso, nombre y personalidad jurídica del representante legal, correo electrónico, domicilio del interesado, domicilio para oír y recibir notificaciones y nombre de las personas autorizadas para recibirlas en términos de la [Ley](articulo-3.md) Federal de Procedimiento Administrativo;
+I. Nombre o denominación o razón social, registro federal de contribuyentes, en su caso, nombre y personalidad jurídica del representante legal, correo electrónico, domicilio del interesado, domicilio para oír y recibir notificaciones y nombre de las personas autorizadas para recibirlas en términos de la Ley Federal de Procedimiento Administrativo;
 
 II. Finalidad de la siembra, la cual deberá ser para:
 

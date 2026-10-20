@@ -17,4 +17,4 @@ source_sha256: fa7447754261e46a344d4b49a9be0e1a5bd0eaf28c1ef12c721c124fe39e7b15
 
 # Artículo 19
 
-Para ser designado director general del [INECC](articulo-3o.md) se deberá acreditar experiencia, conocimientos académicos, técnicos y administrativos relacionados con la investigación, políticas y programas nacionales e internacionales sobre medio ambiente y cambio climático; además de cumplir los requisitos previstos en la [Ley](articulo-3o.md) Federal de las Entidades Paraestatales.
+Para ser designado director general del [INECC](articulo-3o.md) se deberá acreditar experiencia, conocimientos académicos, técnicos y administrativos relacionados con la investigación, políticas y programas nacionales e internacionales sobre medio ambiente y cambio climático; además de cumplir los requisitos previstos en la Ley Federal de las Entidades Paraestatales.

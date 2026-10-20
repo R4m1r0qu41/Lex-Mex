@@ -17,4 +17,4 @@ source_sha256: 3ae8175ed89c2729e71551aac6ef879dfdd3da40cc03bae6784d61951c2c284d
 
 # Artículo 2
 
-Sus disposiciones son de interés público y de orden social, por su carácter básico y estratégico para la economía nacional en términos de la [Ley](articulo-3.md) de Desarrollo Rural Sustentable, tiene por objeto normar las actividades asociadas a la agricultura de contrato y a la integración sustentable de la caña de azúcar, de los procesos de la siembra, el cultivo, la cosecha, la industrialización y la comercialización de la caña de azúcar, sus productos, subproductos, coproductos y derivados.
+Sus disposiciones son de interés público y de orden social, por su carácter básico y estratégico para la economía nacional en términos de la Ley de Desarrollo Rural Sustentable, tiene por objeto normar las actividades asociadas a la agricultura de contrato y a la integración sustentable de la caña de azúcar, de los procesos de la siembra, el cultivo, la cosecha, la industrialización y la comercialización de la caña de azúcar, sus productos, subproductos, coproductos y derivados.

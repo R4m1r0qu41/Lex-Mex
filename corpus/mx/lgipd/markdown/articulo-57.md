@@ -17,4 +17,4 @@ source_sha256: 952f9d7ef0ed8b0efaf968bf3a002030b1705463d4c8c3d0ca7f392953caa71f
 
 # Artículo 57
 
-El [Consejo](articulo-2.md) contará con una contraloría, órgano interno de control al frente de la cual estará la persona designada en los términos de la [Ley](articulo-2.md) Orgánica de la Administración Pública Federal.
+El [Consejo](articulo-2.md) contará con una contraloría, órgano interno de control al frente de la cual estará la persona designada en los términos de la Ley Orgánica de la Administración Pública Federal.

@@ -370,24 +370,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:2:term-usage:5315-5318",
-    "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:2",
-    "term_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:term:ley",
-    "span": "Ley",
-    "start_char": 5315,
-    "end_char": 5318
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:2:term-usage:5340-5351",
-    "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lritf:term:operaciones",
-    "span": "Operaciones",
-    "start_char": 5340,
-    "end_char": 5351
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:2:term-usage:5491-5502",
     "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:2",
     "term_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:term:solicitante",
@@ -412,24 +394,6 @@
     "span": "Solicitante",
     "start_char": 5651,
     "end_char": 5662
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:2:term-usage:5776-5779",
-    "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:2",
-    "term_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:term:ley",
-    "span": "Ley",
-    "start_char": 5776,
-    "end_char": 5779
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:2:term-usage:5801-5812",
-    "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lritf:term:operaciones",
-    "span": "Operaciones",
-    "start_char": 5801,
-    "end_char": 5812
   },
   {
     "schema_version": "0.1.0",
@@ -775,15 +739,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:2:term-usage:12150-12153",
-    "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:2",
-    "term_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:term:ley",
-    "span": "Ley",
-    "start_char": 12150,
-    "end_char": 12153
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:2:term-usage:12511-12519",
     "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:2",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:cliente",
@@ -835,15 +790,6 @@
     "span": "Inversionistas",
     "start_char": 12885,
     "end_char": 12899
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:2:term-usage:13234-13237",
-    "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:2",
-    "term_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:term:ley",
-    "span": "Ley",
-    "start_char": 13234,
-    "end_char": 13237
   },
   {
     "schema_version": "0.1.0",
@@ -1342,15 +1288,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:5:term-usage:3341-3344",
-    "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:5",
-    "term_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:term:ley",
-    "span": "Ley",
-    "start_char": 3341,
-    "end_char": 3344
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:5:term-usage:3392-3402",
     "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:5",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:secretaria",
@@ -1519,15 +1456,6 @@
     "span": "Operaciones",
     "start_char": 711,
     "end_char": 722
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:7:term-usage:957-960",
-    "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:7",
-    "term_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:term:ley",
-    "span": "Ley",
-    "start_char": 957,
-    "end_char": 960
   },
   {
     "schema_version": "0.1.0",
@@ -1954,15 +1882,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:15:term-usage:685-688",
-    "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:15",
-    "term_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:term:ley",
-    "span": "Ley",
-    "start_char": 685,
-    "end_char": 688
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:15:term-usage:1357-1360",
     "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:15",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:itf",
@@ -2215,48 +2134,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:17:term-usage:1781-1784",
-    "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:17",
-    "term_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:term:ley",
-    "span": "Ley",
-    "start_char": 1781,
-    "end_char": 1784
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:17:term-usage:1800-1807",
-    "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:17",
-    "term_id": "urn:lex-mx:federal:statute:lritf:term:valores",
-    "span": "Valores",
-    "start_char": 1800,
-    "end_char": 1807
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:17:term-usage:2053-2056",
     "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:17",
     "term_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:term:ley",
     "span": "Ley",
     "start_char": 2053,
     "end_char": 2056
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:17:term-usage:2062-2065",
-    "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:17",
-    "term_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:term:ley",
-    "span": "Ley",
-    "start_char": 2062,
-    "end_char": 2065
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:17:term-usage:2081-2088",
-    "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:17",
-    "term_id": "urn:lex-mx:federal:statute:lritf:term:valores",
-    "span": "Valores",
-    "start_char": 2081,
-    "end_char": 2088
   },
   {
     "schema_version": "0.1.0",
@@ -8299,15 +8182,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:95:term-usage:429-432",
-    "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:95",
-    "term_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:term:ley",
-    "span": "Ley",
-    "start_char": 429,
-    "end_char": 432
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:95:term-usage:1514-1524",
     "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:95",
     "term_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:term:plataforma",
@@ -8812,15 +8686,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:annex:2:term-usage:2128-2131",
-    "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:annex:2",
-    "term_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:term:ley",
-    "span": "Ley",
-    "start_char": 2128,
-    "end_char": 2131
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:annex:2:term-usage:3660-3670",
     "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:annex:2",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:secretaria",
@@ -8872,15 +8737,6 @@
     "span": "Reporte de Información Crediticia",
     "start_char": 5117,
     "end_char": 5150
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:annex:2:term-usage:5217-5220",
-    "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:annex:2",
-    "term_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:term:ley",
-    "span": "Ley",
-    "start_char": 5217,
-    "end_char": 5220
   },
   {
     "schema_version": "0.1.0",
@@ -8965,15 +8821,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:annex:2:term-usage:9827-9830",
-    "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:annex:2",
-    "term_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:term:ley",
-    "span": "Ley",
-    "start_char": 9827,
-    "end_char": 9830
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:annex:2:term-usage:11030-11040",
     "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:annex:2",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:secretaria",
@@ -9025,15 +8872,6 @@
     "span": "Reporte de Información Crediticia",
     "start_char": 12475,
     "end_char": 12508
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:annex:2:term-usage:12575-12578",
-    "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:annex:2",
-    "term_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:term:ley",
-    "span": "Ley",
-    "start_char": 12575,
-    "end_char": 12578
   },
   {
     "schema_version": "0.1.0",
@@ -9109,15 +8947,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:annex:2:term-usage:16151-16154",
-    "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:annex:2",
-    "term_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:term:ley",
-    "span": "Ley",
-    "start_char": 16151,
-    "end_char": 16154
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:annex:2:term-usage:17680-17690",
     "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:annex:2",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:secretaria",
@@ -9169,15 +8998,6 @@
     "span": "Reporte de Información Crediticia",
     "start_char": 19134,
     "end_char": 19167
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:annex:2:term-usage:19234-19237",
-    "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:annex:2",
-    "term_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:term:ley",
-    "span": "Ley",
-    "start_char": 19234,
-    "end_char": 19237
   },
   {
     "schema_version": "0.1.0",
@@ -9514,15 +9334,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:annex:4:term-usage:1293-1296",
-    "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:annex:4",
-    "term_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:term:ley",
-    "span": "Ley",
-    "start_char": 1293,
-    "end_char": 1296
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:annex:4:term-usage:1745-1752",
     "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:annex:4",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:valores",
@@ -9547,15 +9358,6 @@
     "span": "Valores",
     "start_char": 3174,
     "end_char": 3181
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:annex:4:term-usage:3713-3716",
-    "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:annex:4",
-    "term_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:term:ley",
-    "span": "Ley",
-    "start_char": 3713,
-    "end_char": 3716
   },
   {
     "schema_version": "0.1.0",
@@ -9613,42 +9415,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:annex:4:term-usage:6118-6121",
-    "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:annex:4",
-    "term_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:term:ley",
-    "span": "Ley",
-    "start_char": 6118,
-    "end_char": 6121
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:annex:4:term-usage:6167-6170",
-    "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:annex:4",
-    "term_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:term:ley",
-    "span": "Ley",
-    "start_char": 6167,
-    "end_char": 6170
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:annex:4:term-usage:6186-6193",
-    "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:annex:4",
-    "term_id": "urn:lex-mx:federal:statute:lritf:term:valores",
-    "span": "Valores",
-    "start_char": 6186,
-    "end_char": 6193
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:annex:4:term-usage:6204-6207",
-    "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:annex:4",
-    "term_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:term:ley",
-    "span": "Ley",
-    "start_char": 6204,
-    "end_char": 6207
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:annex:4:term-usage:6330-6337",
     "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:annex:4",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:valores",
@@ -9682,15 +9448,6 @@
     "span": "Reporte de Información Crediticia",
     "start_char": 8174,
     "end_char": 8207
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:annex:4:term-usage:8274-8277",
-    "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:annex:4",
-    "term_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:term:ley",
-    "span": "Ley",
-    "start_char": 8274,
-    "end_char": 8277
   },
   {
     "schema_version": "0.1.0",
@@ -9829,15 +9586,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:annex:4:term-usage:14535-14538",
-    "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:annex:4",
-    "term_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:term:ley",
-    "span": "Ley",
-    "start_char": 14535,
-    "end_char": 14538
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:annex:4:term-usage:14968-14975",
     "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:annex:4",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:valores",
@@ -9862,15 +9610,6 @@
     "span": "Valores",
     "start_char": 16233,
     "end_char": 16240
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:annex:4:term-usage:16774-16777",
-    "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:annex:4",
-    "term_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:term:ley",
-    "span": "Ley",
-    "start_char": 16774,
-    "end_char": 16777
   },
   {
     "schema_version": "0.1.0",
@@ -9928,42 +9667,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:annex:4:term-usage:18608-18611",
-    "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:annex:4",
-    "term_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:term:ley",
-    "span": "Ley",
-    "start_char": 18608,
-    "end_char": 18611
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:annex:4:term-usage:18657-18660",
-    "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:annex:4",
-    "term_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:term:ley",
-    "span": "Ley",
-    "start_char": 18657,
-    "end_char": 18660
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:annex:4:term-usage:18676-18683",
-    "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:annex:4",
-    "term_id": "urn:lex-mx:federal:statute:lritf:term:valores",
-    "span": "Valores",
-    "start_char": 18676,
-    "end_char": 18683
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:annex:4:term-usage:18694-18697",
-    "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:annex:4",
-    "term_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:term:ley",
-    "span": "Ley",
-    "start_char": 18694,
-    "end_char": 18697
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:annex:4:term-usage:18820-18827",
     "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:annex:4",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:valores",
@@ -9997,15 +9700,6 @@
     "span": "Reporte de Información Crediticia",
     "start_char": 20751,
     "end_char": 20784
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:annex:4:term-usage:20851-20854",
-    "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:annex:4",
-    "term_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:term:ley",
-    "span": "Ley",
-    "start_char": 20851,
-    "end_char": 20854
   },
   {
     "schema_version": "0.1.0",
@@ -10117,15 +9811,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:annex:5:term-usage:1120-1123",
-    "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:annex:5",
-    "term_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:term:ley",
-    "span": "Ley",
-    "start_char": 1120,
-    "end_char": 1123
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:annex:5:term-usage:2239-2246",
     "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:annex:5",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:valores",
@@ -10141,15 +9826,6 @@
     "span": "Reporte de Información Crediticia",
     "start_char": 2997,
     "end_char": 3030
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:annex:5:term-usage:3097-3100",
-    "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:annex:5",
-    "term_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:term:ley",
-    "span": "Ley",
-    "start_char": 3097,
-    "end_char": 3100
   },
   {
     "schema_version": "0.1.0",

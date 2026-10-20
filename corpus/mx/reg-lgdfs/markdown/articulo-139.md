@@ -35,7 +35,7 @@ II. Original o copia certificada del instrumento con el cual se acredite la pers
 
 III. Original o copia certificada del título de propiedad, debidamente inscrito en el registro público que corresponda o, en su caso, del documento que acredite la posesión o el derecho para realizar actividades que impliquen el Cambio de uso del suelo en Terrenos forestales, así como copia simple para su cotejo;
 
-IV. Tratándose de ejidos o comunidades agrarias, deberá presentarse original o copia certificada del acta de asamblea de conformidad con la [Ley](articulo-2.md) Agraria en la que conste el acuerdo de Cambio del uso del suelo en el terreno respectivo, y
+IV. Tratándose de ejidos o comunidades agrarias, deberá presentarse original o copia certificada del acta de asamblea de conformidad con la Ley Agraria en la que conste el acuerdo de Cambio del uso del suelo en el terreno respectivo, y
 
 V. El estudio técnico justificativo, en formato impreso y electrónico o digital.
 

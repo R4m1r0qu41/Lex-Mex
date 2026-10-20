@@ -21,6 +21,6 @@ En la resolución administrativa correspondiente se señalarán o adicionarán l
 
 En los casos en que el infractor realice las medidas correctivas o de urgente aplicación o subsane las irregularidades detectadas en los plazos ordenados por la Secretaría, ésta podrá, a petición de parte, revocar o modificar la multa o multas impuestas, siempre y cuando el infractor no sea reincidente, y no exista riesgo para la salud o el medio ambiente derivado del manejo de residuos peligrosos.
 
-La solicitud a que se refiere el párrafo anterior deberá presentarse ante la autoridad que impuso la sanción, en un plazo de treinta días hábiles contados a partir del vencimiento del último plazo concedido para la realización de las medidas correspondientes, y será resuelta por el superior jerárquico de la misma, conforme a los plazos previstos en la [Ley](articulo-2.md) Federal de Procedimiento Administrativo. En este caso,
+La solicitud a que se refiere el párrafo anterior deberá presentarse ante la autoridad que impuso la sanción, en un plazo de treinta días hábiles contados a partir del vencimiento del último plazo concedido para la realización de las medidas correspondientes, y será resuelta por el superior jerárquico de la misma, conforme a los plazos previstos en la Ley Federal de Procedimiento Administrativo. En este caso,
 
 59 procederá la suspensión de la ejecución de la multa en los términos previstos por el artículo [87](articulo-87.md) del ordenamiento antes señalado.

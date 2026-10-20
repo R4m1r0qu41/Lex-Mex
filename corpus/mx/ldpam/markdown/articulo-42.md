@@ -17,4 +17,4 @@ source_sha256: e9c60d3644c8edcb600667e79ef7e3d218c21369879b0495b441f09d25aa78db
 
 # Artículo 42
 
-El personal del [Instituto](articulo-3o.md) queda incorporado al régimen de la [Ley](articulo-3o.md) del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
+El personal del [Instituto](articulo-3o.md) queda incorporado al régimen de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.

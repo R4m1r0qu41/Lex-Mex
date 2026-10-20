@@ -17,4 +17,4 @@ source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 
 La presente Ley entrará en vigor a los ciento ochenta días naturales siguientes a su publicación en el Diario Oficial de la Federación, salvo por lo dispuesto en los artículos Décimo y Décimo Séptimo transitorios.
 
-Asimismo, a la fecha de entrada en vigor de esta Ley quedará abrogada la Ley del Mercado de [Valores](articulo-2.md) publicada en el citado Diario el 2 de enero de 1975, salvo por lo establecido en los artículos transitorios siguientes.
+Asimismo, a la fecha de entrada en vigor de esta Ley quedará abrogada la Ley del Mercado de Valores publicada en el citado Diario el 2 de enero de 1975, salvo por lo establecido en los artículos transitorios siguientes.

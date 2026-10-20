@@ -17,4 +17,4 @@ source_sha256: 9080231242a59cbd78d30fb747864bc45cd63d3c4978f37086b01e45343f4244
 
 # Artículo 62
 
-Las personas servidoras públicas de Petróleos Mexicanos incluidas aquellas que ejerzan funciones o tomen decisiones en las empresas filiales, están sujetas a la [Ley](articulo-2.md) General de Responsabilidades Administrativas, en concordancia con el último párrafo del artículo [94](../../lepepm/markdown/articulo-94.md) de la Ley.
+Las personas servidoras públicas de Petróleos Mexicanos incluidas aquellas que ejerzan funciones o tomen decisiones en las empresas filiales, están sujetas a la Ley General de Responsabilidades Administrativas, en concordancia con el último párrafo del artículo [94](../../lepepm/markdown/articulo-94.md) de la [Ley](articulo-2.md).

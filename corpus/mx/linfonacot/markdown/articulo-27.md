@@ -17,4 +17,4 @@ source_sha256: 78fb5069898e5e58096511208e3cfa308922eb1c5c68f68c4ecd80b20c6f422f
 
 # Artículo 27
 
-El Director General del [Instituto](articulo-4.md) será designado por el titular del Ejecutivo Federal, a propuesta del Secretario del Trabajo y Previsión Social. El nombramiento deberá recaer en persona que reúna los requisitos que establece la [Ley](articulo-4.md) Federal de las Entidades Paraestatales y quien, además, deberá contar con una experiencia mínima de cinco años en puestos de alto nivel decisorio en materia financiera dentro del sistema financiero mexicano.
+El Director General del [Instituto](articulo-4.md) será designado por el titular del Ejecutivo Federal, a propuesta del Secretario del Trabajo y Previsión Social. El nombramiento deberá recaer en persona que reúna los requisitos que establece la Ley Federal de las Entidades Paraestatales y quien, además, deberá contar con una experiencia mínima de cinco años en puestos de alto nivel decisorio en materia financiera dentro del sistema financiero mexicano.

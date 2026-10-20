@@ -19,4 +19,4 @@ source_sha256: 3564da0e2d5216d234ef006ac52ce494528a018a67301be009026db9f1edf91b
 
 Se reconoce a la producción, comercialización, consumo y [Diversificación Constante](articulo-2.md) del [Maíz Nativo](articulo-2.md), como manifestación cultural nacional.
 
-Lo establecido en el párrafo anterior se regirá por lo dispuesto en la [Ley](articulo-2.md) General de Cultura y Derechos Culturales.
+Lo establecido en el párrafo anterior se regirá por lo dispuesto en la Ley General de Cultura y Derechos Culturales.

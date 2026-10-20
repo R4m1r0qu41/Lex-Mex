@@ -27,7 +27,7 @@ IV. El cargo del liquidador podrá recaer en instituciones de crédito, en el Se
 
 Cuando se trate de personas físicas, el nombramiento deberá recaer en una persona que reúna los requisitos siguientes:
 
-a) Ser residente en territorio nacional en términos de lo dispuesto por el Código Fiscal de la [Federación](articulo-2.md).
+a) Ser residente en territorio nacional en términos de lo dispuesto por el Código Fiscal de la Federación.
 
 b) Estar inscrita en el registro que lleva el Instituto Federal de Especialistas de Concursos Mercantiles.
 

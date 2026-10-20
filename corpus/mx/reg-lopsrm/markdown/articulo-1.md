@@ -17,4 +17,4 @@ source_sha256: 2828ab54bad472120dc40073d722c684b122a714662f3559bfcf22a79f04bfe9
 
 # Artículo 1
 
-El presente Reglamento tiene por objeto establecer las disposiciones que propicien el oportuno y estricto cumplimiento de la [Ley](articulo-2.md) de [Obras](articulo-2.md) Públicas y [Servicios](articulo-2.md) Relacionados con las Mismas.
+El presente Reglamento tiene por objeto establecer las disposiciones que propicien el oportuno y estricto cumplimiento de la [Ley](articulo-2.md) de Obras Públicas y Servicios Relacionados con las Mismas.

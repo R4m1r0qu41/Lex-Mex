@@ -17,7 +17,7 @@ source_sha256: 298ec78a8d6666f73ce8ccdd8a31ae0a06c18174139eacc0fe80d3a00d3f4b89
 
 # Artículo 18
 
-Previo a los trámites ante la autoridad migratoria en materia de ingreso y autorización de la condición de estancia a personas extranjeras, la [Dirección General](articulo-2o.md), a solicitud de la asociación religiosa interesada, emitirá opinión para que las personas extranjeras que ostenten el carácter de ministro de culto o asociado religioso conforme a sus propios estatutos, estén en posibilidad de realizar actividades religiosas en el territorio nacional, en términos de la [Ley](articulo-2o.md), la Ley de Migración, el [Reglamento](articulo-2o.md) de la Ley de Migración y el presente Reglamento. Párrafo reformado DOF 28-09-2012
+Previo a los trámites ante la autoridad migratoria en materia de ingreso y autorización de la condición de estancia a personas extranjeras, la [Dirección General](articulo-2o.md), a solicitud de la asociación religiosa interesada, emitirá opinión para que las personas extranjeras que ostenten el carácter de ministro de culto o asociado religioso conforme a sus propios estatutos, estén en posibilidad de realizar actividades religiosas en el territorio nacional, en términos de la [Ley](articulo-2o.md), la Ley de Migración, el Reglamento de la Ley de Migración y el presente [Reglamento](articulo-2o.md). Párrafo reformado DOF 28-09-2012
 
 Para ello, la asociación religiosa deberá especificar a la Dirección General el nombre y nacionalidad de la persona extranjera de que se trate, así como presentar copia del pasaporte cuando se solicite el ingreso. En el caso de personas extranjeras con situación migratoria regular en el país, únicamente se deberá anexar copia del documento migratorio. Párrafo reformado DOF 28-09-2012
 

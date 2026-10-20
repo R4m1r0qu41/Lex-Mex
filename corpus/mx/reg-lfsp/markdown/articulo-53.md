@@ -17,7 +17,7 @@ source_sha256: 98a4cff5f080b348fb8a7ffd463e1391a4be04ef3485649f3b571f20bec81232
 
 # Artículo 53
 
-La autoridad, practicará las visitas de verificación, en los términos previstos en la [Ley](articulo-2.md) Federal de Procedimiento Administrativo, y en lo no previsto en ésta, se observará lo siguiente:
+La autoridad, practicará las visitas de verificación, en los términos previstos en la Ley Federal de Procedimiento Administrativo, y en lo no previsto en ésta, se observará lo siguiente:
 
 I. En el caso de no encontrarse el Prestador de Servicios o su representante legal, se dejará citatorio en el domicilio en que se actúa, para el efecto de que se espere al verificador, señalando día y hora en que habrá de practicarse la diligencia, apercibido que, de no hacerlo, se entenderá la diligencia con quién se encuentre o, en su caso, se estimará que existe oposición a la práctica de la misma, cuando no se permita el acceso o no se den las facilidades necesarias para desarrollar la visita de verificación;
 

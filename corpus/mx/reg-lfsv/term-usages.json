@@ -217,24 +217,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:5:term-usage:1607-1610",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:5",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:ley",
-    "span": "Ley",
-    "start_char": 1607,
-    "end_char": 1610
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:6:term-usage:376-379",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:6",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:ley",
-    "span": "Ley",
-    "start_char": 376,
-    "end_char": 379
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:8:term-usage:51-81",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:8",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:junta-local-de-sanidad-vegetal",
@@ -313,15 +295,6 @@
     "span": "SENASICA",
     "start_char": 277,
     "end_char": 285
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:12:term-usage:397-400",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:12",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:ley",
-    "span": "Ley",
-    "start_char": 397,
-    "end_char": 400
   },
   {
     "schema_version": "0.1.0",
@@ -1072,15 +1045,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:46:term-usage:224-227",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:46",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:ley",
-    "span": "Ley",
-    "start_char": 224,
-    "end_char": 227
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:47:term-usage:3-11",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:47",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:senasica",
@@ -1792,15 +1756,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:11648-11651",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:ley",
-    "span": "Ley",
-    "start_char": 11648,
-    "end_char": 11651
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:57:term-usage:18-52",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:57",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:embarque-en-transito-internacional",
@@ -2059,15 +2014,6 @@
     "span": "Comisariatos",
     "start_char": 1508,
     "end_char": 1520
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:65:term-usage:1786-1789",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:65",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:ley",
-    "span": "Ley",
-    "start_char": 1786,
-    "end_char": 1789
   },
   {
     "schema_version": "0.1.0",
@@ -2467,15 +2413,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:80:term-usage:126-129",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:80",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:ley",
-    "span": "Ley",
-    "start_char": 126,
-    "end_char": 129
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:80:term-usage:212-220",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:80",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:embarque",
@@ -2611,30 +2548,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:84:term-usage:268-271",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:84",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:ley",
-    "span": "Ley",
-    "start_char": 268,
-    "end_char": 271
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:85:term-usage:25-45",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:85",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:mercancia-regulada",
     "span": "Mercancías Reguladas",
     "start_char": 25,
     "end_char": 45
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:85:term-usage:409-412",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:85",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:ley",
-    "span": "Ley",
-    "start_char": 409,
-    "end_char": 412
   },
   {
     "schema_version": "0.1.0",
@@ -3322,15 +3241,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:113:term-usage:1065-1068",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:113",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:ley",
-    "span": "Ley",
-    "start_char": 1065,
-    "end_char": 1068
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:115:term-usage:134-158",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:115",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:directorio-fitosanitario",
@@ -3427,15 +3337,6 @@
     "span": "Ley",
     "start_char": 65,
     "end_char": 68
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:125:term-usage:689-692",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:125",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:ley",
-    "span": "Ley",
-    "start_char": 689,
-    "end_char": 692
   },
   {
     "schema_version": "0.1.0",
@@ -3682,15 +3583,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:138:term-usage:1816-1819",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:138",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:ley",
-    "span": "Ley",
-    "start_char": 1816,
-    "end_char": 1819
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:138:term-usage:2104-2112",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:138",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:senasica",
@@ -3853,15 +3745,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:162:term-usage:594-597",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:162",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:ley",
-    "span": "Ley",
-    "start_char": 594,
-    "end_char": 597
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:163:term-usage:30-46",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:163",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:establecimientos",
@@ -3886,15 +3769,6 @@
     "span": "Establecimientos",
     "start_char": 1043,
     "end_char": 1059
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:164:term-usage:574-577",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:164",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:ley",
-    "span": "Ley",
-    "start_char": 574,
-    "end_char": 577
   },
   {
     "schema_version": "0.1.0",
@@ -4006,15 +3880,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:172:term-usage:1205-1208",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:172",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:ley",
-    "span": "Ley",
-    "start_char": 1205,
-    "end_char": 1208
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:173:term-usage:186-195",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:173",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:embarque",
@@ -4078,15 +3943,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:175:term-usage:582-585",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:175",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:ley",
-    "span": "Ley",
-    "start_char": 582,
-    "end_char": 585
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:176:term-usage:35-38",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:176",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:ley",
@@ -4132,15 +3988,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:185:term-usage:368-371",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:185",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:ley",
-    "span": "Ley",
-    "start_char": 368,
-    "end_char": 371
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:187:term-usage:130-133",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:187",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:ley",
@@ -4156,15 +4003,6 @@
     "span": "Ley",
     "start_char": 80,
     "end_char": 83
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:188:term-usage:222-225",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:188",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:ley",
-    "span": "Ley",
-    "start_char": 222,
-    "end_char": 225
   },
   {
     "schema_version": "0.1.0",
@@ -4255,15 +4093,6 @@
     "span": "Establecimiento",
     "start_char": 921,
     "end_char": 936
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:193:term-usage:172-175",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:193",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:ley",
-    "span": "Ley",
-    "start_char": 172,
-    "end_char": 175
   },
   {
     "schema_version": "0.1.0",

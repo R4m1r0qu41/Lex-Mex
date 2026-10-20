@@ -487,15 +487,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfzee:article:4:term-usage:4509-4512",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfzee:article:4",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfzee:term:ley",
-    "span": "Ley",
-    "start_char": 4509,
-    "end_char": 4512
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lfzee:article:4:term-usage:4708-4713",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfzee:article:4",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfzee:term:zona",
@@ -529,15 +520,6 @@
     "span": "Zona",
     "start_char": 4943,
     "end_char": 4947
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfzee:article:4:term-usage:5120-5123",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfzee:article:4",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfzee:term:ley",
-    "span": "Ley",
-    "start_char": 5120,
-    "end_char": 5123
   },
   {
     "schema_version": "0.1.0",
@@ -736,15 +718,6 @@
     "span": "Zona",
     "start_char": 6635,
     "end_char": 6639
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfzee:article:4:term-usage:6672-6677",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfzee:article:4",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfzee:term:zona",
-    "span": "Zonas",
-    "start_char": 6672,
-    "end_char": 6677
   },
   {
     "schema_version": "0.1.0",
@@ -3565,15 +3538,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfzee:article:31:term-usage:1996-1999",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfzee:article:31",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfzee:term:ley",
-    "span": "Ley",
-    "start_char": 1996,
-    "end_char": 1999
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lfzee:article:31:term-usage:2134-2138",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfzee:article:31",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfzee:term:zona",
@@ -4555,15 +4519,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfzee:article:38:term-usage:58-61",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfzee:article:38",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfzee:term:ley",
-    "span": "Ley",
-    "start_char": 58,
-    "end_char": 61
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lfzee:article:38:term-usage:210-213",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfzee:article:38",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfzee:term:ley",
@@ -5347,15 +5302,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfzee:article:47:term-usage:916-919",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfzee:article:47",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfzee:term:ley",
-    "span": "Ley",
-    "start_char": 916,
-    "end_char": 919
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lfzee:article:48:term-usage:3-29",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfzee:article:48",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfzee:term:estudio-de-prefactibilidad",
@@ -5527,33 +5473,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfzee:article:50:term-usage:221-224",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfzee:article:50",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfzee:term:ley",
-    "span": "Ley",
-    "start_char": 221,
-    "end_char": 224
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfzee:article:50:term-usage:246-249",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfzee:article:50",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfzee:term:ley",
-    "span": "Ley",
-    "start_char": 246,
-    "end_char": 249
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfzee:article:50:term-usage:280-283",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfzee:article:50",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfzee:term:ley",
-    "span": "Ley",
-    "start_char": 280,
-    "end_char": 283
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lfzee:article:50:term-usage:366-376",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfzee:article:50",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfzee:term:secretaria",
@@ -5662,39 +5581,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfzee:article:51:term-usage:2077-2080",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfzee:article:51",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfzee:term:ley",
-    "span": "Ley",
-    "start_char": 2077,
-    "end_char": 2080
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfzee:article:51:term-usage:2101-2104",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfzee:article:51",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfzee:term:ley",
-    "span": "Ley",
-    "start_char": 2101,
-    "end_char": 2104
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lfzee:article:52:term-usage:51-68",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfzee:article:52",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfzee:term:autoridad-federal",
     "span": "Autoridad Federal",
     "start_char": 51,
     "end_char": 68
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfzee:article:52:term-usage:305-308",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfzee:article:52",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfzee:term:ley",
-    "span": "Ley",
-    "start_char": 305,
-    "end_char": 308
   },
   {
     "schema_version": "0.1.0",
@@ -6778,15 +6670,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfzee:article:67:term-usage:4224-4227",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfzee:article:67",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfzee:term:ley",
-    "span": "Ley",
-    "start_char": 4224,
-    "end_char": 4227
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lfzee:article:67:term-usage:4326-4341",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfzee:article:67",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfzee:term:infraestructura",
@@ -6883,15 +6766,6 @@
     "span": "Zona",
     "start_char": 5315,
     "end_char": 5319
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfzee:article:67:term-usage:5415-5418",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfzee:article:67",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfzee:term:ley",
-    "span": "Ley",
-    "start_char": 5415,
-    "end_char": 5418
   },
   {
     "schema_version": "0.1.0",
@@ -10342,15 +10216,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfzee:article:112:term-usage:1548-1551",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfzee:article:112",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfzee:term:ley",
-    "span": "Ley",
-    "start_char": 1548,
-    "end_char": 1551
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lfzee:article:112:term-usage:1699-1718",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfzee:article:112",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfzee:term:servicios-asociados",
@@ -12223,24 +12088,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfzee:article:136:term-usage:177-180",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfzee:article:136",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfzee:term:ley",
-    "span": "Ley",
-    "start_char": 177,
-    "end_char": 180
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfzee:article:136:term-usage:498-501",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfzee:article:136",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfzee:term:ley",
-    "span": "Ley",
-    "start_char": 498,
-    "end_char": 501
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lfzee:article:136:term-usage:527-530",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfzee:article:136",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfzee:term:ley",
@@ -12250,66 +12097,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfzee:article:136:term-usage:738-741",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfzee:article:136",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfzee:term:ley",
-    "span": "Ley",
-    "start_char": 738,
-    "end_char": 741
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfzee:article:136:term-usage:807-810",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfzee:article:136",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfzee:term:ley",
-    "span": "Ley",
-    "start_char": 807,
-    "end_char": 810
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfzee:article:136:term-usage:858-861",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfzee:article:136",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfzee:term:ley",
-    "span": "Ley",
-    "start_char": 858,
-    "end_char": 861
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfzee:article:136:term-usage:886-889",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfzee:article:136",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfzee:term:ley",
-    "span": "Ley",
-    "start_char": 886,
-    "end_char": 889
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfzee:article:136:term-usage:921-924",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfzee:article:136",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfzee:term:ley",
-    "span": "Ley",
-    "start_char": 921,
-    "end_char": 924
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lfzee:article:137:term-usage:4-16",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfzee:article:137",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfzee:term:dependencias",
     "span": "Dependencias",
     "start_char": 4,
     "end_char": 16
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfzee:article:137:term-usage:48-51",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfzee:article:137",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfzee:term:ley",
-    "span": "Ley",
-    "start_char": 48,
-    "end_char": 51
   },
   {
     "schema_version": "0.1.0",
@@ -12391,15 +12184,6 @@
     "span": "Inversionistas",
     "start_char": 199,
     "end_char": 213
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfzee:article:139:term-usage:315-318",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfzee:article:139",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfzee:term:ley",
-    "span": "Ley",
-    "start_char": 315,
-    "end_char": 318
   },
   {
     "schema_version": "0.1.0",
@@ -12547,15 +12331,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfzee:article:143:term-usage:208-211",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfzee:article:143",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfzee:term:ley",
-    "span": "Ley",
-    "start_char": 208,
-    "end_char": 211
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lfzee:article:143:term-usage:336-339",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfzee:article:143",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfzee:term:ley",
@@ -12598,15 +12373,6 @@
     "span": "Inversionistas",
     "start_char": 33,
     "end_char": 47
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfzee:article:145:term-usage:111-114",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfzee:article:145",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfzee:term:ley",
-    "span": "Ley",
-    "start_char": 111,
-    "end_char": 114
   },
   {
     "schema_version": "0.1.0",

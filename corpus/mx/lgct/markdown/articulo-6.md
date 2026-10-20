@@ -49,7 +49,7 @@ XII. Industria tabacalera: Es la conformada por los fabricantes, distribuidores,
 
 XIII. Legislación y política basada en evidencias científicas: La utilización concienzuda, explícita y crítica de la mejor información y conocimiento disponible para fundamentar acciones en política pública y legislativa;
 
-XIV. Ley: Ley General para el Control del [Tabaco](articulo-6.md);
+XIV. Ley: Ley General para el Control del Tabaco;
 
 XV. Leyenda de advertencia: Aquella frase o mensaje escrito, impreso y visible en el empaquetado, en el etiquetado, el paquete, la publicidad, la promoción de productos del tabaco y otros anuncios que establezca la Secretaría de acuerdo a lo dispuesto en esta Ley, sus reglamentos y demás disposiciones aplicables;
 

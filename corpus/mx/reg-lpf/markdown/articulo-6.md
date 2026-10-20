@@ -59,7 +59,7 @@ XX. Instruir, en el ámbito de su competencia, tareas de verificación para la p
 
 XXI. Ordenar la vigilancia e inspección sobre la entrada y salida de mercancías y personas en los aeropuertos, puertos marítimos autorizados para el tráfico internacional, en las aduanas, recintos fiscales, secciones aduanera, garitas y puntos de revisión aduaneros; así como para los mismos fines sobre el manejo, transporte o tenencia de dichas mercancías, en cualquier parte del territorio nacional;
 
-XXII. Ordenar la práctica de diligencias de conformidad con la [Ley General](articulo-2.md) de Población;
+XXII. Ordenar la práctica de diligencias de conformidad con la Ley General de Población;
 
 XXIII. Establecer las políticas de control y los dispositivos de vigilancia en la imposición de las sanciones por violaciones a las disposiciones legales y reglamentarias relativas al tránsito de vehículos en caminos y puentes federales, así como a la operación de los servicios de autotransporte federal, sus servicios auxiliares y transporte privado cuando circulen en la zona terrestre de las vías generales de comunicación;
 

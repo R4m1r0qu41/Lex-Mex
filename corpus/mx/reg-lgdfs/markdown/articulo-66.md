@@ -23,6 +23,6 @@ I. Original o copia certificada del título que acredite el derecho de propiedad
 
 II. Original o copia certificada, en su caso, del instrumento en que conste el derecho para realizar las actividades de plantación, el cual deberá tener una vigencia igual o mayor al Turno de la plantación, así como copia simple para su cotejo;
 
-III. En el caso de ejidos y comunidades, se deberá presentar original del acta de asamblea en la que conste su consentimiento para realizar la plantación, conforme a la [Ley](articulo-2.md) Agraria, así como copia simple para su cotejo, y
+III. En el caso de ejidos y comunidades, se deberá presentar original del acta de asamblea en la que conste su consentimiento para realizar la plantación, conforme a la Ley Agraria, así como copia simple para su cotejo, y
 
 IV. Plano georeferenciado indicando ubicación, superficie y colindancias del predio o Conjunto de predios, ubicándolo dentro de la Cuenca hidrográfica y Unidad de manejo forestal, cuando exista, donde se encuentre el predio o predios, así como las superficies y especies forestales por plantar anualmente en cada predio y la propuesta de apertura o rehabilitación de brechas o caminos.

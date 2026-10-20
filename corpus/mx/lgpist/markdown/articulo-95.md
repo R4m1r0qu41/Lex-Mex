@@ -19,6 +19,6 @@ source_sha256: 1e7d06c67fac4c8a100d2bb2845cc765fba5e8ce09d27d30b2b44432ffeb8c41
 
 Las [Víctimas](articulo-5.md) del delito de tortura tienen derecho a la protección el Estado a través de las autoridades respectivas, lo que incluye el derecho a contar con medidas de protección eficaces cuando su vida, integridad o libertad personal sean amenazadas o se hallen en riesgo en razón de su condición de Víctima.
 
-Las medidas de protección antes referidas se deberán implementar con base en los principios contenidos en la [Ley](articulo-5.md) General de Víctimas y demás disposiciones aplicables.
+Las medidas de protección antes referidas se deberán implementar con base en los principios contenidos en la Ley General de Víctimas y demás disposiciones aplicables.
 
 Además de las [Fiscalías Especializadas](articulo-5.md) y las Víctimas, el Ministerio Público puede solicitar las medidas cautelares o de protección necesarias para la Víctima, sus familiares o sus bienes, cuando sea necesario. Párrafo reformado DOF 20-05-2021

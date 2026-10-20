@@ -17,4 +17,4 @@ source_sha256: cc687a4d8d9de93d2d3ec9b40b26d0273e108bb002a6f611806dc36ebce5ba2c
 
 # Artículo 56
 
-Para efecto de lo dispuesto en este Capítulo, son financiamientos o empréstitos contratados por las entidades federativas y municipios que cuentan con garantía de la Federación, los que, conforme a la Ley de Disciplina Financiera de las [Entidades Federativas](articulo-4.md) y los Municipios, tengan ese carácter.
+Para efecto de lo dispuesto en este Capítulo, son financiamientos o empréstitos contratados por las entidades federativas y municipios que cuentan con garantía de la Federación, los que, conforme a la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, tengan ese carácter.

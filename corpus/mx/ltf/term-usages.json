@@ -2719,15 +2719,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ltf:transitory:tercero:term-usage:339-348",
-    "provision_id": "urn:lex-mx:federal:statute:ltf:transitory:tercero",
-    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
-    "span": "Tesorería",
-    "start_char": 339,
-    "end_char": 348
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:ltf:transitory:tercero:term-usage:395-405",
     "provision_id": "urn:lex-mx:federal:statute:ltf:transitory:tercero",
     "term_id": "urn:lex-mx:federal:statute:ltf:term:reglamento",

@@ -15,4 +15,4 @@ source_sha256: bcc21844355854fe331c842c21436d721d6c2856b5c5986715fe39f4a845b317
 
 # TRIGÉSIMO SÉPTIMO
 
-Para efectos de las autoridades de procuración de justicia referidas en la fracción I del artículo [190](../../lftr/markdown/articulo-190.md) de la [Ley](articulo-2.md) Federal de Telecomunicaciones y Radiodifusión, continuarán vigentes las disposiciones de la Ley Federal de Telecomunicaciones en materia de localización geográfica en tiempo real hasta en tanto entre en vigor el Código Nacional de Procedimientos Penales.
+Para efectos de las autoridades de procuración de justicia referidas en la fracción I del artículo [190](../../lftr/markdown/articulo-190.md) de la Ley Federal de Telecomunicaciones y Radiodifusión, continuarán vigentes las disposiciones de la [Ley](articulo-2.md) Federal de Telecomunicaciones en materia de localización geográfica en tiempo real hasta en tanto entre en vigor el Código Nacional de Procedimientos Penales.

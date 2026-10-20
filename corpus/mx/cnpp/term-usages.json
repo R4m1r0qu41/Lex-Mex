@@ -4213,15 +4213,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:138:term-usage:1580-1586",
-    "provision_id": "urn:lex-mx:federal:code:cnpp:article:138",
-    "term_id": "urn:lex-mx:federal:code:cnpp:term:codigo",
-    "span": "Código",
-    "start_char": 1580,
-    "end_char": 1586
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:code:cnpp:article:139:term-usage:371-379",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:139",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:defensor",
@@ -5077,66 +5068,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:167:term-usage:2799-2805",
-    "provision_id": "urn:lex-mx:federal:code:cnpp:article:167",
-    "term_id": "urn:lex-mx:federal:code:cnpp:term:codigo",
-    "span": "Código",
-    "start_char": 2799,
-    "end_char": 2805
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:code:cnpp:article:167:term-usage:2976-2988",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:167",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:constitucion",
     "span": "Constitución",
     "start_char": 2976,
     "end_char": 2988
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:167:term-usage:3161-3167",
-    "provision_id": "urn:lex-mx:federal:code:cnpp:article:167",
-    "term_id": "urn:lex-mx:federal:code:cnpp:term:codigo",
-    "span": "Código",
-    "start_char": 3161,
-    "end_char": 3167
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:167:term-usage:5892-5898",
-    "provision_id": "urn:lex-mx:federal:code:cnpp:article:167",
-    "term_id": "urn:lex-mx:federal:code:cnpp:term:codigo",
-    "span": "Código",
-    "start_char": 5892,
-    "end_char": 5898
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:167:term-usage:6406-6412",
-    "provision_id": "urn:lex-mx:federal:code:cnpp:article:167",
-    "term_id": "urn:lex-mx:federal:code:cnpp:term:codigo",
-    "span": "Código",
-    "start_char": 6406,
-    "end_char": 6412
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:167:term-usage:6700-6706",
-    "provision_id": "urn:lex-mx:federal:code:cnpp:article:167",
-    "term_id": "urn:lex-mx:federal:code:cnpp:term:codigo",
-    "span": "Código",
-    "start_char": 6700,
-    "end_char": 6706
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:167:term-usage:6884-6890",
-    "provision_id": "urn:lex-mx:federal:code:cnpp:article:167",
-    "term_id": "urn:lex-mx:federal:code:cnpp:term:codigo",
-    "span": "Código",
-    "start_char": 6884,
-    "end_char": 6890
   },
   {
     "schema_version": "0.1.0",
@@ -5263,15 +5200,6 @@
     "span": "Ministerio Público",
     "start_char": 424,
     "end_char": 442
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:173:term-usage:568-574",
-    "provision_id": "urn:lex-mx:federal:code:cnpp:article:173",
-    "term_id": "urn:lex-mx:federal:code:cnpp:term:codigo",
-    "span": "Código",
-    "start_char": 568,
-    "end_char": 574
   },
   {
     "schema_version": "0.1.0",
@@ -6139,15 +6067,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:218:term-usage:1609-1615",
-    "provision_id": "urn:lex-mx:federal:code:cnpp:article:218",
-    "term_id": "urn:lex-mx:federal:code:cnpp:term:codigo",
-    "span": "Código",
-    "start_char": 1609,
-    "end_char": 1615
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:code:cnpp:article:219:term-usage:106-114",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:219",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:defensor",
@@ -6712,15 +6631,6 @@
     "span": "Código",
     "start_char": 197,
     "end_char": 203
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:250:term-usage:1289-1301",
-    "provision_id": "urn:lex-mx:federal:code:cnpp:article:250",
-    "term_id": "urn:lex-mx:federal:code:cnpp:term:ley-organica",
-    "span": "Ley Orgánica",
-    "start_char": 1289,
-    "end_char": 1301
   },
   {
     "schema_version": "0.1.0",

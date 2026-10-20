@@ -25,4 +25,4 @@ III. Comunicar a la persona detenida ante qué autoridad será puesta a disposic
 
 IV. Poner a disposición de forma inmediata ante la autoridad competente a la persona detenida.
 
-Los agentes, bajo su más estricta responsabilidad, velarán porque durante la custodia del detenido se resguarde su integridad y se impidan actos de tortura, tratos o penas crueles, inhumanos o degradantes, desaparición forzada o cualquier otro hecho que la ley señale como delito, o que impliquen una violación grave a los derechos humanos; así como por el cumplimiento de las disposiciones correspondientes de la Ley Nacional del Registro de [Detenciones](articulo-3.md).
+Los agentes, bajo su más estricta responsabilidad, velarán porque durante la custodia del detenido se resguarde su integridad y se impidan actos de tortura, tratos o penas crueles, inhumanos o degradantes, desaparición forzada o cualquier otro hecho que la ley señale como delito, o que impliquen una violación grave a los derechos humanos; así como por el cumplimiento de las disposiciones correspondientes de la Ley Nacional del Registro de Detenciones.

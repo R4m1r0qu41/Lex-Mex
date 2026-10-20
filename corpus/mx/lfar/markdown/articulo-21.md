@@ -17,7 +17,7 @@ source_sha256: b01d875d525d1efbe4edf9f022f58c9afb56fb777581fc9eae1038c212e6b43c
 
 # Artículo 21
 
-Para administrar los recursos humanos con eficiencia, eficacia, economía, transparencia, honradez y mejorar la prestación del servicio público, los servidores públicos del Poder Ejecutivo Federal desempeñarán sus actividades con apego a lo previsto en la [Ley](articulo-4.md) General de Responsabilidades Administrativas y de conformidad con las disposiciones contenidas en los lineamientos que emita la [Secretaría](articulo-4.md). Dichos servidores públicos:
+Para administrar los recursos humanos con eficiencia, eficacia, economía, transparencia, honradez y mejorar la prestación del servicio público, los servidores públicos del Poder Ejecutivo Federal desempeñarán sus actividades con apego a lo previsto en la Ley General de Responsabilidades Administrativas y de conformidad con las disposiciones contenidas en los lineamientos que emita la [Secretaría](articulo-4.md). Dichos servidores públicos:
 
 I. Están obligados a cuidar los bienes muebles e inmuebles que utilicen o estén bajo su resguardo y que les sean otorgados para el cumplimiento de sus funciones; II. Deberán brindar en todo momento un trato expedito, digno, respetuoso y amable a las personas que requieran sus servicios, honrando así el principio del derecho humano a la buena administración pública;
 

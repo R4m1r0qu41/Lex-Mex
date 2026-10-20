@@ -1828,15 +1828,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpc:transitory:tercero:term-usage:43-59",
-    "provision_id": "urn:lex-mx:federal:statute:lgpc:transitory:tercero",
-    "term_id": "urn:lex-mx:federal:statute:lgpc:term:proteccion-civil",
-    "span": "Protección Civil",
-    "start_char": 43,
-    "end_char": 59
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgpc:transitory:decimo-segundo:term-usage:209-219",
     "provision_id": "urn:lex-mx:federal:statute:lgpc:transitory:decimo-segundo",
     "term_id": "urn:lex-mx:federal:statute:lgpc:term:secretaria",

@@ -17,7 +17,7 @@ source_sha256: 9a35a6a9017840b7d052dfc0726ff668a76257fd3f76f741c615630125fbf535
 
 # Artículo 26
 
-Ante la violencia feminicida, el Estado mexicano deberá resarcir el daño conforme a los parámetros establecidos en los Tratados Internacionales en materia de derechos humanos en los que el Estado mexicano sea parte, y en la [Ley](articulo-5.md) General de [Víctimas](articulo-5.md) y considerar como reparación: Párrafo reformado DOF 29-04-2022
+Ante la violencia feminicida, el Estado mexicano deberá resarcir el daño conforme a los parámetros establecidos en los Tratados Internacionales en materia de derechos humanos en los que el Estado mexicano sea parte, y en la Ley General de Víctimas y considerar como reparación: Párrafo reformado DOF 29-04-2022
 
 I. El derecho a la justicia pronta, expedita e imparcial: Se deben investigar todas las violaciones a derechos humanos vinculadas a la violencia feminicida, sancionar a las personas responsables y reparar el daño; Fracción reformada DOF 29-04-2022
 

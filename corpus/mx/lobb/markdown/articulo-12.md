@@ -21,4 +21,4 @@ El capital social de la [Institución](articulo-2.md) estará representado por c
 
 La serie "A" sólo será suscrita por el Gobierno Federal, se emitirá en un título que no llevará cupones, el cual será intransmisible y en ningún momento podrá cambiar su naturaleza o los derechos que le confiere al propio Gobierno Federal.
 
-La serie "B" podrá ser suscrita por el Gobierno Federal y por personas físicas o morales mexicanas de conformidad con lo dispuesto por el artículo [33](../../lic/markdown/articulo-33.md) de la [Ley](articulo-2.md) de Instituciones de Crédito.
+La serie "B" podrá ser suscrita por el Gobierno Federal y por personas físicas o morales mexicanas de conformidad con lo dispuesto por el artículo [33](../../lic/markdown/articulo-33.md) de la Ley de Instituciones de Crédito.

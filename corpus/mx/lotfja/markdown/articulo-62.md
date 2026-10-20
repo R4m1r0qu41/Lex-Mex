@@ -17,4 +17,4 @@ source_sha256: b32c33fa4ed071dc8bea1ad69ce8510cdb05016967e9e4fcb60f10c6f2216628
 
 # Artículo 62
 
-El [Tribunal](articulo-2.md) contará con un Órgano Interno de Control, cuyo titular ejercerá las facultades a que se refiere la fracción III del artículo [109](../../cpeum/markdown/articulo-109.md) de la Constitución Política de los Estados Unidos Mexicanos y la [Ley](articulo-2.md) General de Responsabilidades Administrativas.
+El [Tribunal](articulo-2.md) contará con un Órgano Interno de Control, cuyo titular ejercerá las facultades a que se refiere la fracción III del artículo [109](../../cpeum/markdown/articulo-109.md) de la Constitución Política de los Estados Unidos Mexicanos y la Ley General de Responsabilidades Administrativas.

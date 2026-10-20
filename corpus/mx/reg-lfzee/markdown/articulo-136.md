@@ -19,9 +19,9 @@ source_sha256: b8f75dc45895e70fc2299799d9308a6df8782a1e2e3e736e3e3f537c751137c9
 
 Los [Administradores Integrales](articulo-4.md) e [Inversionistas](articulo-4.md) deberán observar, entre otras, las disposiciones siguientes:
 
-I. Las relaciones laborales con sus trabajadores se regirán por la [Ley](articulo-4.md) Federal del Trabajo, quienes contarán con los derechos y obligaciones establecidos en la misma, sin perjuicio de lo previsto en los tratados internacionales de los que el Estado Mexicano sea parte;
+I. Las relaciones laborales con sus trabajadores se regirán por la Ley Federal del Trabajo, quienes contarán con los derechos y obligaciones establecidos en la misma, sin perjuicio de lo previsto en los tratados internacionales de los que el Estado Mexicano sea parte;
 
-II. En materia de igualdad de oportunidades y de trato entre mujeres y hombres, se observarán las disposiciones de la Ley Federal del Trabajo y la Ley General para la Igualdad entre Mujeres y Hombres, sin perjuicio de lo previsto en los tratados internacionales de los que el Estado Mexicano sea parte, y
+II. En materia de igualdad de oportunidades y de trato entre mujeres y hombres, se observarán las disposiciones de la Ley Federal del Trabajo y la [Ley](articulo-4.md) General para la Igualdad entre Mujeres y Hombres, sin perjuicio de lo previsto en los tratados internacionales de los que el Estado Mexicano sea parte, y
 
 III. En materia de medio ambiente se ajustarán a la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley General de Desarrollo Forestal Sustentable, la Ley de Aguas Nacionales, la Ley General de Vida Silvestre y la Ley General para la Prevención y Gestión Integral de los Residuos, sin perjuicio de lo previsto en los tratados internacionales de los que el Estado Mexicano sea parte. Dichas disposiciones aplicarán, en otros aspectos, para:
 

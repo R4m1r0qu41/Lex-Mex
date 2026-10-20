@@ -21,6 +21,6 @@ La [Secretaría](articulo-3.md) deberá implementar acciones con perspectiva de 
 
 Para tal efecto, la Secretaría podrá establecer convenios de coordinación con dependencias y entidades de la Administración Pública Federal, de las entidades federativas, municipios o demarcaciones territoriales y con las organizaciones de la sociedad civil especializadas en la atención de personas en situación de vulnerabilidad.
 
-En el caso de las niñas, niños y adolescentes migrantes, la atención diferenciada se prestará con independencia de su situación migratoria, y no podrá condicionarse o restringirse al inicio, suspensión o continuidad de trámite administrativo o judicial alguno. Dicha atención deberá prestarse de conformidad con lo dispuesto en la [Ley](articulo-3.md) General de los Derechos de Niñas, Niños y Adolescentes, su [Reglamento](articulo-3.md) y demás disposiciones aplicables.
+En el caso de las niñas, niños y adolescentes migrantes, la atención diferenciada se prestará con independencia de su situación migratoria, y no podrá condicionarse o restringirse al inicio, suspensión o continuidad de trámite administrativo o judicial alguno. Dicha atención deberá prestarse de conformidad con lo dispuesto en la Ley General de los Derechos de Niñas, Niños y Adolescentes, su [Reglamento](articulo-3.md) y demás disposiciones aplicables.
 
 Artículo reformado DOF 11-11-2020

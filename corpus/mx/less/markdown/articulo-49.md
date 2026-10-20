@@ -17,6 +17,6 @@ source_sha256: 74f2c47c7a9282194b2972ec1366352d94f03042c6d0c7f10efde018cb9e3bfb
 
 # Artículo 49
 
-Tratándose de empresas de participación estatal mayoritaria, se estará a lo dispuesto por la Ley Federal de las Entidades Paraestatales, la Ley Federal para la Administración y Enajenación de Bienes del [Sector](articulo-5o.md) Público y a las demás disposiciones legales que le resulten aplicables.
+Tratándose de empresas de participación estatal mayoritaria, se estará a lo dispuesto por la Ley Federal de las Entidades Paraestatales, la Ley Federal para la Administración y Enajenación de Bienes del Sector Público y a las demás disposiciones legales que le resulten aplicables.
 
 Cuando dichas empresas se encuentren en proceso de desincorporación, las autoridades competentes deberán tomar en cuenta a los trabajadores, a través de las organizaciones o empresas del sector ya existentes o las que sean constituidas para tal efecto, para ser considerados en la transferencia de los bienes de estas.

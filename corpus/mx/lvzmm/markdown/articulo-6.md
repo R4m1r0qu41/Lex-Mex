@@ -17,4 +17,4 @@ source_sha256: d9ffbbf8f19b54a93ff577abb1266e4be1316d935e79fad655242955fd80ff70
 
 # Artículo 6
 
-La Autoridad Marítima en materia de Marina Mercante, en términos de lo dispuesto por la [Ley](articulo-2.md) de Navegación y Comercio Marítimos, que determine el hundimiento de buques, plataformas u otras construcciones en el mar, deberá sujetarse a las disposiciones contenidas en la presente Ley.
+La Autoridad Marítima en materia de Marina Mercante, en términos de lo dispuesto por la Ley de Navegación y Comercio Marítimos, que determine el hundimiento de buques, plataformas u otras construcciones en el mar, deberá sujetarse a las disposiciones contenidas en la presente [Ley](articulo-2.md).

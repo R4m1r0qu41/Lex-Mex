@@ -31,6 +31,6 @@ VI. Comprobar su continuidad operativa de su funcionamiento, por datos históric
 
 VII. Comprobar si el número y las características de las señales en operación corresponden al enunciado en la última edición del cuaderno de faros;
 
-VIII. Determinar la procedencia del pago que establece la [Ley](articulo-10.md) Federal de Derechos, y
+VIII. Determinar la procedencia del pago que establece la Ley Federal de Derechos, y
 
 IX. Registrar omisiones en el cumplimiento del pago de derechos y proceder en consecuencia.

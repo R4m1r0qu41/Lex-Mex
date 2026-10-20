@@ -31,7 +31,7 @@ VI. Ceder o transferir los permisos o los derechos en ellos conferidos a algún 
 
 VII. No conservar y mantener debidamente el equipo con el cual presta el servicio objeto del permiso;
 
-VIII. No cubrir los pagos correspondientes previstos en la [Ley](articulo-10.md) Federal de Derechos;
+VIII. No cubrir los pagos correspondientes previstos en la Ley Federal de Derechos;
 
 IX. No otorgar o no mantener en vigor la garantía de cumplimiento del servicio;
 

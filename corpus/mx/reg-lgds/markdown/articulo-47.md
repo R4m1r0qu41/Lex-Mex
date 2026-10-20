@@ -31,4 +31,4 @@ III. El compromiso para los ejecutores de los programas sociales de entregar a l
 
 IV. Los compromisos de las partes de acuerdo con su competencia y objeto, respectivamente, y
 
-V. Los demás aspectos regulados en la [Ley](articulo-3.md) de Planeación, en las disposiciones presupuestarias y programáticas, así como en otros ordenamientos jurídicos.
+V. Los demás aspectos regulados en la Ley de Planeación, en las disposiciones presupuestarias y programáticas, así como en otros ordenamientos jurídicos.

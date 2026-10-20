@@ -17,4 +17,4 @@ source_sha256: 9f964bc5c075d7cf47e5e9df7c2fbe262eb5bd1794de9b230dbd72026a51ae5e
 
 # Artículo 52
 
-Se sancionará con arresto hasta por 36 horas de acuerdo con lo estipulado en el artículo [427](../../lgs/markdown/articulo-427.md) de la [Ley](articulo-6.md) General de Salud, ordenamiento de aplicación supletoria a esta Ley.
+Se sancionará con arresto hasta por 36 horas de acuerdo con lo estipulado en el artículo [427](../../lgs/markdown/articulo-427.md) de la Ley General de Salud, ordenamiento de aplicación supletoria a esta [Ley](articulo-6.md).

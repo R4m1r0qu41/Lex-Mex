@@ -2314,15 +2314,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsna:transitory:cuarto:term-usage:19-35",
-    "provision_id": "urn:lex-mx:federal:statute:lgsna:transitory:cuarto",
-    "term_id": "urn:lex-mx:federal:statute:lgsna:term:sistema-nacional",
-    "span": "Sistema Nacional",
-    "start_char": 19,
-    "end_char": 35
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgsna:transitory:cuarto:term-usage:447-480",
     "provision_id": "urn:lex-mx:federal:statute:lgsna:transitory:cuarto",
     "term_id": "urn:lex-mx:federal:statute:lgsna:term:comite-de-participacion-ciudadana",

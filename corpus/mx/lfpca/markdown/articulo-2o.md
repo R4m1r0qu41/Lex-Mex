@@ -17,7 +17,7 @@ source_sha256: d2a25adcb45f622bbbf2a4e58f1139fb5236961fe86de3dd9ad9de2dfa21d54e
 
 # Artículo 2o
 
-El juicio contencioso administrativo federal, procede contra las resoluciones administrativas definitivas que establece la Ley Orgánica del [Tribunal](articulo-1-A.md) Federal de Justicia Administrativa.
+El juicio contencioso administrativo federal, procede contra las resoluciones administrativas definitivas que establece la Ley Orgánica del Tribunal Federal de Justicia Administrativa.
 
 Asimismo, procede dicho juicio contra los actos administrativos, Decretos y Acuerdos de carácter general, diversos a los Reglamentos, cuando sean autoaplicativos o cuando la persona interesada los controvierta en unión del primer acto de aplicación.
 

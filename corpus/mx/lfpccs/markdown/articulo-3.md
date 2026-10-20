@@ -71,4 +71,4 @@ XXVII. SNICS. El Servicio Nacional de Inspección y Certificación de Semillas;
 
 XXVIII. Variedad Vegetal: Subdivisión de una especie que incluye a un grupo de individuos con características similares, se considera estable y homogénea; y
 
-XXIX. Variedades Vegetales de Uso Común: Variedades vegetales inscritas en el Catálogo Nacional de Variedades Vegetales cuyo plazo de protección al derecho de obtentor conforme a la Ley Federal de [Variedades Vegetales](articulo-3.md) haya transcurrido, así como las utilizadas por comunidades rurales cuyo origen es resultado de sus prácticas, usos y costumbres.
+XXIX. Variedades Vegetales de Uso Común: Variedades vegetales inscritas en el Catálogo Nacional de Variedades Vegetales cuyo plazo de protección al derecho de obtentor conforme a la Ley Federal de Variedades Vegetales haya transcurrido, así como las utilizadas por comunidades rurales cuyo origen es resultado de sus prácticas, usos y costumbres.

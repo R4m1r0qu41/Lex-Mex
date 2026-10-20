@@ -50,7 +50,7 @@ Deberá pactarse en el contrato de crédito una sola tasa de interés, aclarando
 
 5. Derogado.
 
-Las tasas de interés pactadas se deberán calcular sobre saldos insolutos y sólo podrán cobrarse por anticipado en los supuestos que al efecto determine el Banco de México en términos de lo dispuesto por la [Ley](articulo-1.md) para la Transparencia y Ordenamiento de los Servicios Financieros.
+Las tasas de interés pactadas se deberán calcular sobre saldos insolutos y sólo podrán cobrarse por anticipado en los supuestos que al efecto determine el Banco de México en términos de lo dispuesto por la Ley para la Transparencia y Ordenamiento de los Servicios Financieros.
 
 Las Sociedades Financieras Populares no podrán pactar tasas alternativas.
 
@@ -134,7 +134,7 @@ La Sociedad Financiera Popular cedente o descontataria, tendrá prohibido pactar
 
 b) Haber cumplido con todos y cada uno de sus procedimientos internos para aprobar la cesión o descuento de cartera de que se trate;
 
-c) Las transacciones de cesión o descuento de cartera que tengan por objeto operaciones que a la fecha de la transacción sean consideradas como operaciones con personas relacionadas definidas en términos de lo previsto por los artículos 35, 35 Bis y 35 Bis 1 de la Ley, así como aquellas que se celebren con cualquiera de las personas a que se refieren dichos artículos, deberán ser previamente aprobadas por el Consejo de Administración de la Sociedad Financiera Popular cedente o descontataria, de conformidad y con sujeción a los requisitos que para la celebración de dichas operaciones se establecen en los artículos 35, 35 Bis y 35 Bis 1 de la Ley;
+c) Las transacciones de cesión o descuento de cartera que tengan por objeto operaciones que a la fecha de la transacción sean consideradas como operaciones con personas relacionadas definidas en términos de lo previsto por los artículos 35, 35 Bis y 35 Bis 1 de la [Ley](articulo-1.md), así como aquellas que se celebren con cualquiera de las personas a que se refieren dichos artículos, deberán ser previamente aprobadas por el Consejo de Administración de la Sociedad Financiera Popular cedente o descontataria, de conformidad y con sujeción a los requisitos que para la celebración de dichas operaciones se establecen en los artículos 35, 35 Bis y 35 Bis 1 de la Ley;
 
 d) Deberán contar con un precio de referencia con el objeto de que éste se tome en cuenta para estimar el valor que se recibirá por la cartera materia de la transacción;
 

@@ -23,7 +23,7 @@ a) El acuerdo de exclusividad sea nulo o no aceptable, en virtud de la ley del l
 
 b) Una de las partes careciera de capacidad para celebrar el acuerdo de elección de foro en virtud de la ley del tribunal al que se ha acudido.
 
-c) Que de dar efecto al acuerdo conduciría a una manifiesta denegación de justicia o violación del equilibrio procesal o sería manifiestamente contrario a principios o instituciones fundamentales del orden público mexicano, en términos del Artículo [15](../../ccf/markdown/articulo-15.md), fracción II del [Código Civil](articulo-2.md) Federal.
+c) Que de dar efecto al acuerdo conduciría a una manifiesta denegación de justicia o violación del equilibrio procesal o sería manifiestamente contrario a principios o instituciones fundamentales del orden público mexicano, en términos del Artículo [15](../../ccf/markdown/articulo-15.md), fracción II del Código Civil Federal.
 
 d) Cuando por causas excepcionales, fuera del control de las partes, el acuerdo no pudiera ser razonablemente ejecutado.
 

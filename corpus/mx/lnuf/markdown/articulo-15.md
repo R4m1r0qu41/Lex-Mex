@@ -31,7 +31,7 @@ e) Mangueras de agua a presión.
 
 II. Letales:
 
-a) Armas de fuego permitidas, y b) Explosivos permitidos, en este y en el inciso anterior, en términos de la [Ley](articulo-3.md) Federal de Armas de Fuego y Explosivos.
+a) Armas de fuego permitidas, y b) Explosivos permitidos, en este y en el inciso anterior, en términos de la Ley Federal de Armas de Fuego y Explosivos.
 
 Las instituciones de seguridad deberán dotar a los agentes con el equipo de protección y vehículos con y sin blindaje, a fin de proteger su integridad y disminuir la necesidad del uso de armas de cualquier tipo.
 

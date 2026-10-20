@@ -23,7 +23,7 @@ I. Autoridad migratoria, al servidor público que ejerce la potestad legal expre
 
 II. Acuerdo de readmisión: al acto por el cual la [Secretaría](articulo-3.md) determina autorizar la internación al país de un extranjero deportado con anterioridad;
 
-III. Asilado: a todo extranjero que sea reconocido como tal en los términos de la Ley sobre [Refugiados](articulo-3.md), Protección Complementaria y Asilo Político; Fracción reformada DOF 30-10-2014
+III. Asilado: a todo extranjero que sea reconocido como tal en los términos de la Ley sobre Refugiados, Protección Complementaria y Asilo Político; Fracción reformada DOF 30-10-2014
 
 IV. Apátrida: toda persona que no sea considerada como nacional por, ningún Estado, conforme a su legislación. La ley concederá igual trato a las personas que tienen una nacionalidad pero que no es efectiva.
 

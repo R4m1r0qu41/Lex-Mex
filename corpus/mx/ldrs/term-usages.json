@@ -10,15 +10,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldrs:article:1:term-usage:102-109",
-    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:1",
-    "term_id": "urn:lex-mx:federal:statute:ldrs:term:estado",
-    "span": "Estados",
-    "start_char": 102,
-    "end_char": 109
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:ldrs:article:1:term-usage:406-412",
     "provision_id": "urn:lex-mx:federal:statute:ldrs:article:1",
     "term_id": "urn:lex-mx:federal:statute:ldrs:term:estado",
@@ -109,15 +100,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldrs:article:3:term-usage:1852-1859",
-    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:3",
-    "term_id": "urn:lex-mx:federal:statute:ldrs:term:estado",
-    "span": "Estados",
-    "start_char": 1852,
-    "end_char": 1859
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:ldrs:article:3:term-usage:2787-2816",
     "provision_id": "urn:lex-mx:federal:statute:ldrs:article:3",
     "term_id": "urn:lex-mx:federal:statute:ldrs:term:programa-especial-concurrente",
@@ -187,15 +169,6 @@
     "span": "Constitución",
     "start_char": 27,
     "end_char": 39
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldrs:article:5:term-usage:56-63",
-    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:5",
-    "term_id": "urn:lex-mx:federal:statute:ldrs:term:estado",
-    "span": "Estados",
-    "start_char": 56,
-    "end_char": 63
   },
   {
     "schema_version": "0.1.0",
@@ -325,30 +298,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldrs:article:13:term-usage:307-314",
-    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:13",
-    "term_id": "urn:lex-mx:federal:statute:ldrs:term:estado",
-    "span": "Estados",
-    "start_char": 307,
-    "end_char": 314
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:ldrs:article:13:term-usage:550-562",
     "provision_id": "urn:lex-mx:federal:statute:ldrs:article:13",
     "term_id": "urn:lex-mx:federal:statute:ldrs:term:constitucion",
     "span": "Constitución",
     "start_char": 550,
     "end_char": 562
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldrs:article:13:term-usage:579-586",
-    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:13",
-    "term_id": "urn:lex-mx:federal:statute:ldrs:term:estado",
-    "span": "Estados",
-    "start_char": 579,
-    "end_char": 586
   },
   {
     "schema_version": "0.1.0",
@@ -3337,15 +3292,6 @@
     "span": "Constitución",
     "start_char": 206,
     "end_char": 218
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldrs:article:188:term-usage:235-242",
-    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:188",
-    "term_id": "urn:lex-mx:federal:statute:ldrs:term:estado",
-    "span": "Estados",
-    "start_char": 235,
-    "end_char": 242
   },
   {
     "schema_version": "0.1.0",

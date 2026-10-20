@@ -65,7 +65,7 @@ XXII. Compilar, sistematizar y difundir las leyes, reglamentos, decretos, acuerd
 
 XXIII. Establecer los criterios que se deberán aplicar para resolver los recursos de revisión que se interpongan con motivo de la imposición de sanciones;
 
-XXIV. Fungir como Titular de la Unidad de Transparencia de la Institución y ejercer las atribuciones a que se refieren la [Ley General](articulo-2.md) de Transparencia y Acceso a la Información Pública, la [Ley](articulo-2.md) Federal de Transparencia y Acceso a la Información Pública, la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados, así como las demás disposiciones en materia de transparencia;
+XXIV. Fungir como Titular de la Unidad de Transparencia de la Institución y ejercer las atribuciones a que se refieren la Ley General de Transparencia y Acceso a la Información Pública, la [Ley](articulo-2.md) Federal de Transparencia y Acceso a la Información Pública, la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados, así como las demás disposiciones en materia de transparencia;
 
 XXV. Participar en el Comité de Transparencia de la Institución, así como coordinar el cumplimiento de los acuerdos y resoluciones que emita;
 

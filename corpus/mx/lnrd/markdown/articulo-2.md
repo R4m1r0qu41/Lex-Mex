@@ -21,12 +21,12 @@ I. Centro Nacional de Información: el Centro Nacional de Información del Secre
 
 II. Instituciones de seguridad pública: a las instituciones policiales, de procuración de justicia, del sistema penitenciario y dependencias o entidades encargadas de la seguridad pública de orden federal, local o municipal, a que se refiere el artículo [5](../../lgsnsp/markdown/articulo-5.md), fracción VIII, de la Ley General del Sistema Nacional de Seguridad Pública, así como las competentes para conocer y sancionar las infracciones administrativas, en sus respectivas competencias;
 
-III. Ley: la Ley Nacional del [Registro](articulo-2.md) de Detenciones;
+III. Ley: la Ley Nacional del Registro de Detenciones;
 
 IV. Persona detenida: la persona privada de la libertad por parte de una autoridad integrante de alguna de las instituciones de seguridad pública, por cualquiera de los siguientes supuestos: detención en flagrancia, orden de aprehensión, caso urgente, retención ministerial, prisión preventiva, encontrarse cumpliendo pena o por arresto administrativo;
 
 V. Registro: al Registro Nacional de Detenciones; VI. Secretaría: a la Secretaría de Seguridad y Protección Ciudadana;
 
-VII. Sistema de Consulta: al Sistema de Consulta del Registro Nacional de Detenciones, y
+VII. Sistema de Consulta: al Sistema de Consulta del [Registro](articulo-2.md) Nacional de Detenciones, y
 
 VIII. Sujeto Obligado: servidor público que por motivo de su empleo, encargo o comisión intervenga en la captura, ingreso, envío, recepción, manejo, consulta o actualización de la información que integra el Registro.

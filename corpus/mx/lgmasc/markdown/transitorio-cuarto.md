@@ -15,4 +15,4 @@ source_sha256: d6c47a12a294da2615fcac2b41f76a897373325184ac9f8c5debe6357aa43f4a
 
 # Cuarto
 
-En caso de que el Congreso General de los Estados Unidos Mexicanos o las Legislaturas de las entidades federativas omitan total o parcialmente realizar las adecuaciones legislativas a que haya lugar dentro del plazo establecido en los artículos transitorios anteriores, resultará aplicable de manera directa la [Ley](articulo-5.md) General de [Mecanismos Alternativos de Solución de Controversias](articulo-5.md).
+En caso de que el Congreso General de los Estados Unidos Mexicanos o las Legislaturas de las entidades federativas omitan total o parcialmente realizar las adecuaciones legislativas a que haya lugar dentro del plazo establecido en los artículos transitorios anteriores, resultará aplicable de manera directa la [Ley](articulo-5.md) General de Mecanismos Alternativos de Solución de Controversias.

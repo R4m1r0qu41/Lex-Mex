@@ -127,15 +127,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-diputados:article:2:term-usage:1307-1313",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-diputados:article:2",
-    "term_id": "urn:lex-mx:federal:regulation:reg-diputados:term:camara",
-    "span": "Cámara",
-    "start_char": 1307,
-    "end_char": 1313
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-diputados:article:2:term-usage:1365-1379",
     "provision_id": "urn:lex-mx:federal:regulation:reg-diputados:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-diputados:term:mesa-directiva",
@@ -5095,15 +5086,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-diputados:article:222:term-usage:205-208",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-diputados:article:222",
-    "term_id": "urn:lex-mx:federal:regulation:reg-diputados:term:ley",
-    "span": "Ley",
-    "start_char": 205,
-    "end_char": 208
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-diputados:article:223:term-usage:6-20",
     "provision_id": "urn:lex-mx:federal:regulation:reg-diputados:article:223",
     "term_id": "urn:lex-mx:federal:regulation:reg-diputados:term:mesa-directiva",
@@ -5140,30 +5122,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-diputados:article:226:term-usage:289-292",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-diputados:article:226",
-    "term_id": "urn:lex-mx:federal:regulation:reg-diputados:term:ley",
-    "span": "Ley",
-    "start_char": 289,
-    "end_char": 292
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-diputados:article:227:term-usage:395-405",
     "provision_id": "urn:lex-mx:federal:regulation:reg-diputados:article:227",
     "term_id": "urn:lex-mx:federal:regulation:reg-diputados:term:reglamento",
     "span": "Reglamento",
     "start_char": 395,
     "end_char": 405
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-diputados:article:229:term-usage:176-179",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-diputados:article:229",
-    "term_id": "urn:lex-mx:federal:regulation:reg-diputados:term:ley",
-    "span": "Ley",
-    "start_char": 176,
-    "end_char": 179
   },
   {
     "schema_version": "0.1.0",
@@ -7903,15 +7867,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-diputados:transitory:tercero:term-usage:82-92",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-diputados:transitory:tercero",
-    "term_id": "urn:lex-mx:federal:regulation:reg-diputados:term:reglamento",
-    "span": "Reglamento",
-    "start_char": 82,
-    "end_char": 92
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-diputados:transitory:cuarto:term-usage:3-17",
     "provision_id": "urn:lex-mx:federal:regulation:reg-diputados:transitory:cuarto",
     "term_id": "urn:lex-mx:federal:regulation:reg-diputados:term:mesa-directiva",
@@ -8038,15 +7993,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-diputados:transitory:sexto:term-usage:118-124",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-diputados:transitory:sexto",
-    "term_id": "urn:lex-mx:federal:regulation:reg-diputados:term:camara",
-    "span": "Cámara",
-    "start_char": 118,
-    "end_char": 124
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-diputados:transitory:sexto:term-usage:193-207",
     "provision_id": "urn:lex-mx:federal:regulation:reg-diputados:transitory:sexto",
     "term_id": "urn:lex-mx:federal:regulation:reg-diputados:term:mesa-directiva",
@@ -8134,15 +8080,6 @@
     "span": "Conferencia",
     "start_char": 3,
     "end_char": 14
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-diputados:transitory:noveno:term-usage:33-43",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-diputados:transitory:noveno",
-    "term_id": "urn:lex-mx:federal:regulation:reg-diputados:term:reglamento",
-    "span": "Reglamento",
-    "start_char": 33,
-    "end_char": 43
   },
   {
     "schema_version": "0.1.0",

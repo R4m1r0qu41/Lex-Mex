@@ -37,24 +37,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsem:article:1:term-usage:603-606",
-    "provision_id": "urn:lex-mx:federal:statute:lsem:article:1",
-    "term_id": "urn:lex-mx:federal:statute:lsem:term:ley",
-    "span": "Ley",
-    "start_char": 603,
-    "end_char": 606
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsem:article:1:term-usage:909-912",
-    "provision_id": "urn:lex-mx:federal:statute:lsem:article:1",
-    "term_id": "urn:lex-mx:federal:statute:lsem:term:ley",
-    "span": "Ley",
-    "start_char": 909,
-    "end_char": 912
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lsem:article:1:term-usage:975-978",
     "provision_id": "urn:lex-mx:federal:statute:lsem:article:1",
     "term_id": "urn:lex-mx:federal:statute:lsem:term:ley",
@@ -163,15 +145,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsem:article:1-bis:term-usage:2381-2398",
-    "provision_id": "urn:lex-mx:federal:statute:lsem:article:1-bis",
-    "term_id": "urn:lex-mx:federal:statute:lsem:term:servicio-exterior",
-    "span": "Servicio Exterior",
-    "start_char": 2381,
-    "end_char": 2398
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lsem:article:1-bis:term-usage:2482-2499",
     "provision_id": "urn:lex-mx:federal:statute:lsem:article:1-bis",
     "term_id": "urn:lex-mx:federal:statute:lsem:term:servicio-exterior",
@@ -271,15 +244,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsem:article:1-bis:term-usage:3851-3868",
-    "provision_id": "urn:lex-mx:federal:statute:lsem:article:1-bis",
-    "term_id": "urn:lex-mx:federal:statute:lsem:term:servicio-exterior",
-    "span": "Servicio Exterior",
-    "start_char": 3851,
-    "end_char": 3868
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lsem:article:1-bis:term-usage:4209-4219",
     "provision_id": "urn:lex-mx:federal:statute:lsem:article:1-bis",
     "term_id": "urn:lex-mx:federal:statute:lsem:term:secretaria",
@@ -349,15 +313,6 @@
     "span": "Actividades Diplomáticas",
     "start_char": 971,
     "end_char": 995
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsem:article:2:term-usage:1867-1870",
-    "provision_id": "urn:lex-mx:federal:statute:lsem:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lsem:term:ley",
-    "span": "Ley",
-    "start_char": 1867,
-    "end_char": 1870
   },
   {
     "schema_version": "0.1.0",
@@ -1195,15 +1150,6 @@
     "span": "Secretaría",
     "start_char": 273,
     "end_char": 283
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsem:article:17:term-usage:426-429",
-    "provision_id": "urn:lex-mx:federal:statute:lsem:article:17",
-    "term_id": "urn:lex-mx:federal:statute:lsem:term:ley",
-    "span": "Ley",
-    "start_char": 426,
-    "end_char": 429
   },
   {
     "schema_version": "0.1.0",
@@ -2737,15 +2683,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsem:article:41:term-usage:466-469",
-    "provision_id": "urn:lex-mx:federal:statute:lsem:article:41",
-    "term_id": "urn:lex-mx:federal:statute:lsem:term:ley",
-    "span": "Ley",
-    "start_char": 466,
-    "end_char": 469
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lsem:article:41:term-usage:597-614",
     "provision_id": "urn:lex-mx:federal:statute:lsem:article:41",
     "term_id": "urn:lex-mx:federal:statute:lsem:term:servicio-exterior",
@@ -2770,15 +2707,6 @@
     "span": "Servicio Exterior",
     "start_char": 1468,
     "end_char": 1485
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsem:article:41:term-usage:1586-1589",
-    "provision_id": "urn:lex-mx:federal:statute:lsem:article:41",
-    "term_id": "urn:lex-mx:federal:statute:lsem:term:ley",
-    "span": "Ley",
-    "start_char": 1586,
-    "end_char": 1589
   },
   {
     "schema_version": "0.1.0",
@@ -3112,15 +3040,6 @@
     "span": "Reglamento",
     "start_char": 713,
     "end_char": 723
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsem:article:47:term-usage:742-745",
-    "provision_id": "urn:lex-mx:federal:statute:lsem:article:47",
-    "term_id": "urn:lex-mx:federal:statute:lsem:term:ley",
-    "span": "Ley",
-    "start_char": 742,
-    "end_char": 745
   },
   {
     "schema_version": "0.1.0",
@@ -3745,15 +3664,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsem:article:53:term-usage:194-197",
-    "provision_id": "urn:lex-mx:federal:statute:lsem:article:53",
-    "term_id": "urn:lex-mx:federal:statute:lsem:term:ley",
-    "span": "Ley",
-    "start_char": 194,
-    "end_char": 197
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lsem:article:53:term-usage:320-323",
     "provision_id": "urn:lex-mx:federal:statute:lsem:article:53",
     "term_id": "urn:lex-mx:federal:statute:lsem:term:ley",
@@ -3934,15 +3844,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsem:article:55:term-usage:169-172",
-    "provision_id": "urn:lex-mx:federal:statute:lsem:article:55",
-    "term_id": "urn:lex-mx:federal:statute:lsem:term:ley",
-    "span": "Ley",
-    "start_char": 169,
-    "end_char": 172
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lsem:article:55:term-usage:282-299",
     "provision_id": "urn:lex-mx:federal:statute:lsem:article:55",
     "term_id": "urn:lex-mx:federal:statute:lsem:term:servicio-exterior",
@@ -3979,39 +3880,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsem:article:55-bis:term-usage:590-593",
-    "provision_id": "urn:lex-mx:federal:statute:lsem:article:55-bis",
-    "term_id": "urn:lex-mx:federal:statute:lsem:term:ley",
-    "span": "Ley",
-    "start_char": 590,
-    "end_char": 593
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lsem:article:55-bis:term-usage:806-823",
     "provision_id": "urn:lex-mx:federal:statute:lsem:article:55-bis",
     "term_id": "urn:lex-mx:federal:statute:lsem:term:servicio-exterior",
     "span": "Servicio Exterior",
     "start_char": 806,
     "end_char": 823
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsem:article:55-bis:term-usage:939-942",
-    "provision_id": "urn:lex-mx:federal:statute:lsem:article:55-bis",
-    "term_id": "urn:lex-mx:federal:statute:lsem:term:ley",
-    "span": "Ley",
-    "start_char": 939,
-    "end_char": 942
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsem:article:55-bis:term-usage:1175-1178",
-    "provision_id": "urn:lex-mx:federal:statute:lsem:article:55-bis",
-    "term_id": "urn:lex-mx:federal:statute:lsem:term:ley",
-    "span": "Ley",
-    "start_char": 1175,
-    "end_char": 1178
   },
   {
     "schema_version": "0.1.0",
@@ -4030,24 +3904,6 @@
     "span": "Reglamento",
     "start_char": 1683,
     "end_char": 1693
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsem:article:55-bis:term-usage:2393-2396",
-    "provision_id": "urn:lex-mx:federal:statute:lsem:article:55-bis",
-    "term_id": "urn:lex-mx:federal:statute:lsem:term:ley",
-    "span": "Ley",
-    "start_char": 2393,
-    "end_char": 2396
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsem:article:55-bis:term-usage:2652-2655",
-    "provision_id": "urn:lex-mx:federal:statute:lsem:article:55-bis",
-    "term_id": "urn:lex-mx:federal:statute:lsem:term:ley",
-    "span": "Ley",
-    "start_char": 2652,
-    "end_char": 2655
   },
   {
     "schema_version": "0.1.0",
@@ -4159,15 +4015,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsem:article:58:term-usage:198-201",
-    "provision_id": "urn:lex-mx:federal:statute:lsem:article:58",
-    "term_id": "urn:lex-mx:federal:statute:lsem:term:ley",
-    "span": "Ley",
-    "start_char": 198,
-    "end_char": 201
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lsem:article:58:term-usage:588-605",
     "provision_id": "urn:lex-mx:federal:statute:lsem:article:58",
     "term_id": "urn:lex-mx:federal:statute:lsem:term:servicio-exterior",
@@ -4228,15 +4075,6 @@
     "span": "Miembro del Servicio Exterior",
     "start_char": 90,
     "end_char": 119
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsem:article:58-bis:term-usage:205-208",
-    "provision_id": "urn:lex-mx:federal:statute:lsem:article:58-bis",
-    "term_id": "urn:lex-mx:federal:statute:lsem:term:ley",
-    "span": "Ley",
-    "start_char": 205,
-    "end_char": 208
   },
   {
     "schema_version": "0.1.0",
@@ -4336,15 +4174,6 @@
     "span": "Servicio Exterior",
     "start_char": 168,
     "end_char": 185
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsem:article:60:term-usage:717-720",
-    "provision_id": "urn:lex-mx:federal:statute:lsem:article:60",
-    "term_id": "urn:lex-mx:federal:statute:lsem:term:ley",
-    "span": "Ley",
-    "start_char": 717,
-    "end_char": 720
   },
   {
     "schema_version": "0.1.0",
@@ -4474,24 +4303,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsem:article:60:term-usage:5738-5741",
-    "provision_id": "urn:lex-mx:federal:statute:lsem:article:60",
-    "term_id": "urn:lex-mx:federal:statute:lsem:term:ley",
-    "span": "Ley",
-    "start_char": 5738,
-    "end_char": 5741
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsem:article:60:term-usage:5792-5795",
-    "provision_id": "urn:lex-mx:federal:statute:lsem:article:60",
-    "term_id": "urn:lex-mx:federal:statute:lsem:term:ley",
-    "span": "Ley",
-    "start_char": 5792,
-    "end_char": 5795
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lsem:article:61:term-usage:3-13",
     "provision_id": "urn:lex-mx:federal:statute:lsem:article:61",
     "term_id": "urn:lex-mx:federal:statute:lsem:term:secretario",
@@ -4555,30 +4366,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsem:article:61-bis:term-usage:535-538",
-    "provision_id": "urn:lex-mx:federal:statute:lsem:article:61-bis",
-    "term_id": "urn:lex-mx:federal:statute:lsem:term:ley",
-    "span": "Ley",
-    "start_char": 535,
-    "end_char": 538
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lsem:article:61-ter:term-usage:102-105",
     "provision_id": "urn:lex-mx:federal:statute:lsem:article:61-ter",
     "term_id": "urn:lex-mx:federal:statute:lsem:term:ley",
     "span": "Ley",
     "start_char": 102,
     "end_char": 105
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsem:article:61-ter:term-usage:114-117",
-    "provision_id": "urn:lex-mx:federal:statute:lsem:article:61-ter",
-    "term_id": "urn:lex-mx:federal:statute:lsem:term:ley",
-    "span": "Ley",
-    "start_char": 114,
-    "end_char": 117
   },
   {
     "schema_version": "0.1.0",
@@ -4606,15 +4399,6 @@
     "span": "Comisión de Personal",
     "start_char": 565,
     "end_char": 585
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsem:article:61-ter:term-usage:635-638",
-    "provision_id": "urn:lex-mx:federal:statute:lsem:article:61-ter",
-    "term_id": "urn:lex-mx:federal:statute:lsem:term:ley",
-    "span": "Ley",
-    "start_char": 635,
-    "end_char": 638
   },
   {
     "schema_version": "0.1.0",

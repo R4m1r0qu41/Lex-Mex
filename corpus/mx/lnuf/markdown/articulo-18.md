@@ -17,4 +17,4 @@ source_sha256: 0c11f4464286e7411713a80361a2e1ab15c4cc55bff80b4e6ee4a4333592d50c
 
 Las instituciones de seguridad garantizarán que sus integrantes sean seleccionados mediante procedimientos adecuados que permitan establecer que poseen aptitudes éticas, psicológicas y físicas apropiadas para el ejercicio eficaz de sus funciones y que reciban capacitación profesional, continua y completa, incluyendo el uso de la fuerza. Las aptitudes para el ejercicio de esas funciones serán objeto de examen periódico, de conformidad con las disposiciones aplicables.
 
-Lo anterior, de conformidad con las disposiciones relativas de la [Ley](articulo-3.md) General del Sistema Nacional de Seguridad Pública, y demás normatividad aplicable.
+Lo anterior, de conformidad con las disposiciones relativas de la Ley General del Sistema Nacional de Seguridad Pública, y demás normatividad aplicable.

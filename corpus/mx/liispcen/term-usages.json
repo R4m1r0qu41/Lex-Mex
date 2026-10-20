@@ -64,15 +64,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:liispcen:article:4:term-usage:1720-1734",
-    "provision_id": "urn:lex-mx:federal:statute:liispcen:article:4",
-    "term_id": "urn:lex-mx:federal:statute:liispcen:term:competitividad",
-    "span": "Competitividad",
-    "start_char": 1720,
-    "end_char": 1734
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:liispcen:article:5:term-usage:395-409",
     "provision_id": "urn:lex-mx:federal:statute:liispcen:article:5",
     "term_id": "urn:lex-mx:federal:statute:liispcen:term:competitividad",
@@ -577,15 +568,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:liispcen:transitory:tercero:term-usage:377-391",
-    "provision_id": "urn:lex-mx:federal:statute:liispcen:transitory:tercero",
-    "term_id": "urn:lex-mx:federal:statute:liispcen:term:competitividad",
-    "span": "Competitividad",
-    "start_char": 377,
-    "end_char": 391
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:liispcen:transitory:tercero:term-usage:459-465",
     "provision_id": "urn:lex-mx:federal:statute:liispcen:transitory:tercero",
     "term_id": "urn:lex-mx:federal:statute:liispcen:term:comite",
@@ -604,15 +586,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:liispcen:transitory:cuarto:term-usage:371-385",
-    "provision_id": "urn:lex-mx:federal:statute:liispcen:transitory:cuarto",
-    "term_id": "urn:lex-mx:federal:statute:liispcen:term:competitividad",
-    "span": "Competitividad",
-    "start_char": 371,
-    "end_char": 385
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:liispcen:transitory:quinto:term-usage:3-13",
     "provision_id": "urn:lex-mx:federal:statute:liispcen:transitory:quinto",
     "term_id": "urn:lex-mx:federal:statute:liispcen:term:secretaria",
@@ -622,29 +595,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:liispcen:transitory:quinto:term-usage:217-231",
-    "provision_id": "urn:lex-mx:federal:statute:liispcen:transitory:quinto",
-    "term_id": "urn:lex-mx:federal:statute:liispcen:term:competitividad",
-    "span": "Competitividad",
-    "start_char": 217,
-    "end_char": 231
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:liispcen:transitory:quinto:term-usage:392-402",
     "provision_id": "urn:lex-mx:federal:statute:liispcen:transitory:quinto",
     "term_id": "urn:lex-mx:federal:statute:liispcen:term:secretaria",
     "span": "Secretaría",
     "start_char": 392,
     "end_char": 402
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:liispcen:transitory:quinto:term-usage:641-655",
-    "provision_id": "urn:lex-mx:federal:statute:liispcen:transitory:quinto",
-    "term_id": "urn:lex-mx:federal:statute:liispcen:term:competitividad",
-    "span": "Competitividad",
-    "start_char": 641,
-    "end_char": 655
   }
 ]

@@ -19,15 +19,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lspcapf:article:1:term-usage:295-317",
-    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:1",
-    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:administracion-publica",
-    "span": "Administración Pública",
-    "start_char": 295,
-    "end_char": 317
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lspcapf:article:2:term-usage:3-10",
     "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:2",
     "term_id": "urn:lex-mx:federal:statute:lspcapf:term:sistema",

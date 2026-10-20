@@ -17,11 +17,11 @@ source_sha256: f12e559ab950b52583c04f0ebddcf312054e07300f56b2c546028580e154a8d9
 
 # Artículo 24
 
-La Junta de Gobierno tendrá, además de aquellas que establece el artículo [58](../../lfep/markdown/articulo-58.md) de la [Ley](articulo-1.md) Federal de las Entidades Paraestatales, las siguientes atribuciones:
+La Junta de Gobierno tendrá, además de aquellas que establece el artículo [58](../../lfep/markdown/articulo-58.md) de la Ley Federal de las Entidades Paraestatales, las siguientes atribuciones:
 
 I. Aprobar y modificar su reglamento de sesiones, y el [Estatuto](articulo-1.md) Orgánico del [Consejo](articulo-1.md), con base en la propuesta que presente la presidencia; Fracción reformada DOF 20-03-2014
 
-II. Aprobar los ordenamientos administrativos que regulen el funcionamiento interno del Consejo propuestos por quien ocupe la presidencia, así como establecer los lineamientos y las políticas generales para su conducción con apego a esta Ley, su Estatuto Orgánico, los reglamentos de la Junta de Gobierno y de la Asamblea Consultiva, el [Programa](articulo-1.md) Nacional para la Igualdad y no [Discriminación](articulo-1.md) y Eliminar la Discriminación, y las demás disposiciones legales aplicables; Fracción reformada DOF 20-03-2014
+II. Aprobar los ordenamientos administrativos que regulen el funcionamiento interno del Consejo propuestos por quien ocupe la presidencia, así como establecer los lineamientos y las políticas generales para su conducción con apego a esta [Ley](articulo-1.md), su Estatuto Orgánico, los reglamentos de la Junta de Gobierno y de la Asamblea Consultiva, el [Programa](articulo-1.md) Nacional para la Igualdad y no [Discriminación](articulo-1.md) y Eliminar la Discriminación, y las demás disposiciones legales aplicables; Fracción reformada DOF 20-03-2014
 
 II Bis. Aprobar la estrategia, criterios y lineamientos propuestos por la Presidencia del Consejo, que permitan a las instituciones públicas, privadas y organizaciones sociales llevar a cabo programas y medidas para prevenir y eliminar la discriminación en sus prácticas, instrumentos organizativos y presupuestos; Fracción adicionada DOF 20-03-2014
 

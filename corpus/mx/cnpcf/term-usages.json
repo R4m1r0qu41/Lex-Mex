@@ -343,15 +343,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpcf:article:131:term-usage:552-564",
-    "provision_id": "urn:lex-mx:federal:code:cnpcf:article:131",
-    "term_id": "urn:lex-mx:federal:code:cnpcf:term:codigo-civil",
-    "span": "Código Civil",
-    "start_char": 552,
-    "end_char": 564
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:code:cnpcf:article:134:term-usage:61-76",
     "provision_id": "urn:lex-mx:federal:code:cnpcf:article:134",
     "term_id": "urn:lex-mx:federal:code:cnpcf:term:codigo-nacional",
@@ -2350,15 +2341,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpcf:article:863:term-usage:810-822",
-    "provision_id": "urn:lex-mx:federal:code:cnpcf:article:863",
-    "term_id": "urn:lex-mx:federal:code:cnpcf:term:codigo-civil",
-    "span": "Código Civil",
-    "start_char": 810,
-    "end_char": 822
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:code:cnpcf:article:863:term-usage:1411-1426",
     "provision_id": "urn:lex-mx:federal:code:cnpcf:article:863",
     "term_id": "urn:lex-mx:federal:code:cnpcf:term:codigo-nacional",
@@ -3076,15 +3058,6 @@
     "span": "Código Nacional",
     "start_char": 80,
     "end_char": 95
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpcf:article:1124:term-usage:859-871",
-    "provision_id": "urn:lex-mx:federal:code:cnpcf:article:1124",
-    "term_id": "urn:lex-mx:federal:code:cnpcf:term:codigo-civil",
-    "span": "Código Civil",
-    "start_char": 859,
-    "end_char": 871
   },
   {
     "schema_version": "0.1.0",

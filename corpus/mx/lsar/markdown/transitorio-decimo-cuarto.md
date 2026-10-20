@@ -15,4 +15,4 @@ source_sha256: 02ff746c921b436a1ab6c74e5f1bc429976595b1b0f82cb8c5b50db1004128c1
 
 # Décimo Cuarto
 
-El entero y recaudación de las aportaciones correspondientes al régimen previsto por la Ley del Instituto de Seguridad y Servicios Sociales de los [Trabajadores](articulo-3o.md) del Estado, se seguirán rigiendo por lo dispuesto en dicha ley y por el sistema de pensiones vigente para los trabajadores al servicio del Estado.
+El entero y recaudación de las aportaciones correspondientes al régimen previsto por la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, se seguirán rigiendo por lo dispuesto en dicha ley y por el sistema de pensiones vigente para los trabajadores al servicio del Estado.

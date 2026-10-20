@@ -29,4 +29,4 @@ IV. Dual: es el proceso de construcción de saberes dirigido por una institució
 
 V. Las que determinen las autoridades educativas de educación superior y las instituciones de educación superior, de conformidad con la normatividad aplicable.
 
-En el caso de las universidades e instituciones de educación superior a las que la ley otorgue autonomía se estará a lo que determine la fracción VII del artículo [3](../../cpeum/markdown/articulo-3o.md)o. de la Constitución Política de los [Estados](articulo-6.md) Unidos Mexicanos y su normatividad interna.
+En el caso de las universidades e instituciones de educación superior a las que la ley otorgue autonomía se estará a lo que determine la fracción VII del artículo [3](../../cpeum/markdown/articulo-3o.md)o. de la Constitución Política de los Estados Unidos Mexicanos y su normatividad interna.

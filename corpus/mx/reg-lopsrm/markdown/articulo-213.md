@@ -29,7 +29,7 @@ c) Personal administrativo;
 
 d) Cuota patronal del seguro social y del Instituto del Fondo Nacional de la Vivienda para los Trabajadores;
 
-e) Prestaciones a que obliga la [Ley](articulo-2.md) Federal del Trabajo para el personal enunciado en los incisos a), b) y c) de esta fracción;
+e) Prestaciones a que obliga la Ley Federal del Trabajo para el personal enunciado en los incisos a), b) y c) de esta fracción;
 
 f) Pasajes y viáticos del personal enunciado en los incisos a), b) y c) de esta fracción, y
 

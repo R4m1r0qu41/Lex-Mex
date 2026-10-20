@@ -37,24 +37,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lupdecr:article:4:term-usage:132-135",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lupdecr:article:4",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lupdecr:term:ley",
-    "span": "Ley",
-    "start_char": 132,
-    "end_char": 135
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lupdecr:article:4:term-usage:246-249",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lupdecr:article:4",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lupdecr:term:ley",
-    "span": "Ley",
-    "start_char": 246,
-    "end_char": 249
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lupdecr:article:5:term-usage:52-55",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lupdecr:article:5",
     "term_id": "urn:lex-mx:federal:regulation:reg-lupdecr:term:ley",
@@ -115,24 +97,6 @@
     "span": "Tareas Sanitarias",
     "start_char": 920,
     "end_char": 937
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lupdecr:article:7:term-usage:1813-1816",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lupdecr:article:7",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lupdecr:term:ley",
-    "span": "Ley",
-    "start_char": 1813,
-    "end_char": 1816
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lupdecr:article:7:term-usage:3091-3094",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lupdecr:article:7",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lupdecr:term:ley",
-    "span": "Ley",
-    "start_char": 3091,
-    "end_char": 3094
   },
   {
     "schema_version": "0.1.0",

@@ -19,30 +19,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfcc:article:1:term-usage:838-841",
-    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:1",
-    "term_id": "urn:lex-mx:federal:statute:lfcc:term:ley",
-    "span": "Ley",
-    "start_char": 838,
-    "end_char": 841
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfcc:article:1:term-usage:985-995",
     "provision_id": "urn:lex-mx:federal:statute:lfcc:article:1",
     "term_id": "urn:lex-mx:federal:statute:lfcc:term:secretaria",
     "span": "Secretaría",
     "start_char": 985,
     "end_char": 995
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfcc:article:1:term-usage:1123-1126",
-    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:1",
-    "term_id": "urn:lex-mx:federal:statute:lfcc:term:ley",
-    "span": "Ley",
-    "start_char": 1123,
-    "end_char": 1126
   },
   {
     "schema_version": "0.1.0",
@@ -172,15 +154,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfcc:article:4:term-usage:487-490",
-    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:4",
-    "term_id": "urn:lex-mx:federal:statute:lfcc:term:ley",
-    "span": "Ley",
-    "start_char": 487,
-    "end_char": 490
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfcc:article:4:term-usage:605-611",
     "provision_id": "urn:lex-mx:federal:statute:lfcc:article:4",
     "term_id": "urn:lex-mx:federal:statute:lfcc:term:padron",
@@ -190,30 +163,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfcc:article:4:term-usage:653-656",
-    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:4",
-    "term_id": "urn:lex-mx:federal:statute:lfcc:term:ley",
-    "span": "Ley",
-    "start_char": 653,
-    "end_char": 656
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfcc:article:4:term-usage:720-723",
     "provision_id": "urn:lex-mx:federal:statute:lfcc:article:4",
     "term_id": "urn:lex-mx:federal:statute:lfcc:term:ley",
     "span": "Ley",
     "start_char": 720,
     "end_char": 723
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfcc:article:4:term-usage:788-791",
-    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:4",
-    "term_id": "urn:lex-mx:federal:statute:lfcc:term:ley",
-    "span": "Ley",
-    "start_char": 788,
-    "end_char": 791
   },
   {
     "schema_version": "0.1.0",
@@ -772,15 +727,6 @@
     "span": "Padrón",
     "start_char": 855,
     "end_char": 861
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfcc:article:17:term-usage:119-122",
-    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:17",
-    "term_id": "urn:lex-mx:federal:statute:lfcc:term:ley",
-    "span": "Ley",
-    "start_char": 119,
-    "end_char": 122
   },
   {
     "schema_version": "0.1.0",

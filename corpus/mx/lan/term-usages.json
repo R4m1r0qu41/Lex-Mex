@@ -46,15 +46,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lan:article:3:term-usage:14111-14127",
-    "provision_id": "urn:lex-mx:federal:statute:lan:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lan:term:aguas-nacionales",
-    "span": "Aguas Nacionales",
-    "start_char": 14111,
-    "end_char": 14127
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lan:article:3:term-usage:15473-15492",
     "provision_id": "urn:lex-mx:federal:statute:lan:article:3",
     "term_id": "urn:lex-mx:federal:statute:lan:term:organismo-de-cuenca",
@@ -1789,24 +1780,6 @@
     "span": "La Comisión",
     "start_char": 309,
     "end_char": 320
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lan:article:96-bis:term-usage:229-245",
-    "provision_id": "urn:lex-mx:federal:statute:lan:article:96-bis",
-    "term_id": "urn:lex-mx:federal:statute:lan:term:aguas-nacionales",
-    "span": "Aguas Nacionales",
-    "start_char": 229,
-    "end_char": 245
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lan:article:96-bis-1:term-usage:269-285",
-    "provision_id": "urn:lex-mx:federal:statute:lan:article:96-bis-1",
-    "term_id": "urn:lex-mx:federal:statute:lan:term:aguas-nacionales",
-    "span": "Aguas Nacionales",
-    "start_char": 269,
-    "end_char": 285
   },
   {
     "schema_version": "0.1.0",

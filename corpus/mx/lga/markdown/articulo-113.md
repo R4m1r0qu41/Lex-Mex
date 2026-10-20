@@ -17,4 +17,4 @@ source_sha256: 2f931111ab2745aa5a3b2ef0a99dc5beaf73d78f7674f2d90b4462319c1fc688
 
 # Artículo 113
 
-El [Archivo General](articulo-4.md) contará con un Comisario Público y con una unidad encargada del control y vigilancia, de conformidad con lo dispuesto por la [Ley](articulo-4.md) Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales y su Reglamento; y ejercerá las facultades previstas en estos ordenamientos y los demás que le resulten aplicables.
+El [Archivo General](articulo-4.md) contará con un Comisario Público y con una unidad encargada del control y vigilancia, de conformidad con lo dispuesto por la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales y su Reglamento; y ejercerá las facultades previstas en estos ordenamientos y los demás que le resulten aplicables.

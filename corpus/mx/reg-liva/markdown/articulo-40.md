@@ -17,4 +17,4 @@ source_sha256: 4f46c1f92fb5682281a7679836e517de95975786fa5326848a331c9eb946cc5f
 
 # Artículo 40
 
-Para los efectos del artículo [15](../../liva/markdown/articulo-15.md), fracción X, inciso i) de la [Ley](articulo-1.md), se consideran colocados entre el gran público inversionista, los títulos de crédito que conforme a la Ley del [Impuesto](articulo-1.md) sobre la Renta sean considerados como tales.
+Para los efectos del artículo [15](../../liva/markdown/articulo-15.md), fracción X, inciso i) de la [Ley](articulo-1.md), se consideran colocados entre el gran público inversionista, los títulos de crédito que conforme a la Ley del Impuesto sobre la Renta sean considerados como tales.

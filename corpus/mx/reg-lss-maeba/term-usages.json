@@ -145,15 +145,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:2:term-usage:1740-1751",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:2",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:enajenacion",
-    "span": "Enajenación",
-    "start_char": 1740,
-    "end_char": 1751
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:2:term-usage:1892-1902",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:term:delegacion",
@@ -520,15 +511,6 @@
     "span": "Reglamento",
     "start_char": 668,
     "end_char": 678
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:17:term-usage:718-721",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:17",
-    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
-    "span": "Ley",
-    "start_char": 718,
-    "end_char": 721
   },
   {
     "schema_version": "0.1.0",

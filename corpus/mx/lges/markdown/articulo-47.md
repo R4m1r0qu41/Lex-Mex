@@ -23,7 +23,7 @@ I. Establecer las bases para la organización, colaboración, coordinación y de
 
 II. Coordinar el Sistema Nacional de Educación Superior, con respeto al federalismo, a la autonomía universitaria, la libertad académica y a la diversidad de las instituciones de educación superior;
 
-III. Concertar la política nacional de educación superior de conformidad con la Constitución Política de los [Estados](articulo-6.md) Unidos Mexicanos, esta Ley, la Ley General de Educación y la legislación aplicable, con los objetivos, estrategias y prioridades del Plan Nacional de Desarrollo, del Programa Sectorial de Educación y del Programa Nacional de Educación Superior;
+III. Concertar la política nacional de educación superior de conformidad con la Constitución Política de los Estados Unidos Mexicanos, esta Ley, la Ley General de Educación y la legislación aplicable, con los objetivos, estrategias y prioridades del Plan Nacional de Desarrollo, del Programa Sectorial de Educación y del Programa Nacional de Educación Superior;
 
 IV. Elaborar, en su respectivo ámbito de competencia y conforme a las disposiciones jurídicas aplicables, el anteproyecto de presupuesto de egresos correspondiente a la educación superior para el cumplimiento de las disposiciones de esta Ley;
 

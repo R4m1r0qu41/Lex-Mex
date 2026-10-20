@@ -17,4 +17,4 @@ source_sha256: 7f28b406ac8966ef726994b15fc2356a5d8ee92a8e24de0e7a3046d2683fe40d
 
 # Artículo 25
 
-La actuación de los Comisarios Públicos se ajustará en todo caso a lo dispuesto por la [Ley](articulo-4.md) Federal de las Entidades Paraestatales, por el [Reglamento](articulo-4.md) de la Ley Federal de las Entidades Paraestatales, por el Estatuto Orgánico que al efecto se expida y por las demás disposiciones legales aplicables.
+La actuación de los Comisarios Públicos se ajustará en todo caso a lo dispuesto por la Ley Federal de las Entidades Paraestatales, por el Reglamento de la Ley Federal de las Entidades Paraestatales, por el Estatuto Orgánico que al efecto se expida y por las demás disposiciones legales aplicables.

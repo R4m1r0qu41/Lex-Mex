@@ -25,7 +25,7 @@ II.- En la emisión de obligaciones y otros títulos valor, con o sin garantía;
 
 III.- En la constitución de hipotecas sobre buques, navíos y aeronaves de conformidad con las leyes de la materia, así como en la constitución de garantías reales, de conformidad con las leyes aplicables;
 
-IV.- En el otorgamiento de créditos refaccionarios o de habilitación o avío, de conformidad con las [Ley](articulo-2o.md) de Instituciones de Crédito, así como en aquellos otros créditos en los que la intervención del corredor esté prevista por dicha ley u otros ordenamientos legales aplicables;
+IV.- En el otorgamiento de créditos refaccionarios o de habilitación o avío, de conformidad con las Ley de Instituciones de Crédito, así como en aquellos otros créditos en los que la intervención del corredor esté prevista por dicha ley u otros ordenamientos legales aplicables;
 
 V.- En la constitución, modificación, transformación, fusión, escisión, disolución, liquidación, extinción y demás actos de personas morales que por disposición de las leyes deban inscribirse en el Registro Público de Comercio, así como en la designación de sus representantes orgánicos y atribuciones y facultades de representación legal de que estén investidos, y Fracción reformada DOF 26-11-2012
 

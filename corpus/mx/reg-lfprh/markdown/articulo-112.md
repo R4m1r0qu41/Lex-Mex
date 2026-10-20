@@ -33,7 +33,7 @@ a) Cuando se trate de ingresos excedentes derivados de la enajenación de bienes
 
 i) En un plazo máximo de 12 días hábiles;
 
-ii) Hasta por el 80 por ciento para gasto de inversión para el mejoramiento de las áreas en las que se prestan servicios a la ciudadanía de las dependencias que tenían destinados a su servicio dichos bienes, en términos de la [Ley](articulo-2.md) General de Bienes Nacionales;
+ii) Hasta por el 80 por ciento para gasto de inversión para el mejoramiento de las áreas en las que se prestan servicios a la ciudadanía de las dependencias que tenían destinados a su servicio dichos bienes, en términos de la Ley General de Bienes Nacionales;
 
 iii) Tratándose de los productos por concepto de las enajenaciones de bienes inmuebles que realice el Instituto de Administración y Avalúos de Bienes Nacionales en los términos de la Ley General de Bienes Nacionales, podrán destinarse en su totalidad a cubrir los gastos de mantenimiento, obra pública y de administración en general, así como los pagos por concepto de contribuciones y demás erogaciones relacionadas con los bienes inmuebles a cargo de dicho Instituto;
 

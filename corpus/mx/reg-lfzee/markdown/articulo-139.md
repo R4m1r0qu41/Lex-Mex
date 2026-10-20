@@ -17,4 +17,4 @@ source_sha256: b8f75dc45895e70fc2299799d9308a6df8782a1e2e3e736e3e3f537c751137c9
 
 # Artículo 139
 
-Las personas de nacionalidad extranjera podrán participar como [Inversionistas](articulo-4.md), o en cualquier proporción en el capital social de las sociedades mexicanas que actúen como [Administradores Integrales](articulo-4.md) o Inversionistas, salvo que realicen actividades económicas específicas que se encuentren limitadas en términos de la [Ley](articulo-4.md) de Inversión Extranjera.
+Las personas de nacionalidad extranjera podrán participar como [Inversionistas](articulo-4.md), o en cualquier proporción en el capital social de las sociedades mexicanas que actúen como [Administradores Integrales](articulo-4.md) o Inversionistas, salvo que realicen actividades económicas específicas que se encuentren limitadas en términos de la Ley de Inversión Extranjera.

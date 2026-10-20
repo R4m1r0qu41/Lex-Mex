@@ -23,6 +23,6 @@ Para tales efectos, la resolución emitida deberá ser notificada personalmente 
 
 Las sanciones serán ejecutadas por la [Dirección General](articulo-1-BIS.md), según lo disponga el [Reglamento](articulo-1-BIS.md) Interior de la [Secretaría](articulo-1-BIS.md) de Relaciones Exteriores.
 
-En el caso de las faltas administrativas graves se estará a lo dispuesto en la [Ley](articulo-1-BIS.md) General de Responsabilidades Administrativas.
+En el caso de las faltas administrativas graves se estará a lo dispuesto en la Ley General de Responsabilidades Administrativas.
 
 Artículo adicionado DOF 19-04-2018

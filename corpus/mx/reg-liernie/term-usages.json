@@ -37,15 +37,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:2:term-usage:285-288",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:2",
-    "term_id": "urn:lex-mx:federal:regulation:reg-liernie:term:ley",
-    "span": "Ley",
-    "start_char": 285,
-    "end_char": 288
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-liernie:article:3:term-usage:67-70",
     "provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-liernie:term:ley",
@@ -88,15 +79,6 @@
     "span": "Ley",
     "start_char": 167,
     "end_char": 170
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:4:term-usage:378-381",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:4",
-    "term_id": "urn:lex-mx:federal:regulation:reg-liernie:term:ley",
-    "span": "Ley",
-    "start_char": 378,
-    "end_char": 381
   },
   {
     "schema_version": "0.1.0",
@@ -151,15 +133,6 @@
     "span": "Ley",
     "start_char": 1082,
     "end_char": 1085
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:8:term-usage:1671-1674",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:8",
-    "term_id": "urn:lex-mx:federal:regulation:reg-liernie:term:ley",
-    "span": "Ley",
-    "start_char": 1671,
-    "end_char": 1674
   },
   {
     "schema_version": "0.1.0",
@@ -226,15 +199,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:21:term-usage:763-766",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:21",
-    "term_id": "urn:lex-mx:federal:regulation:reg-liernie:term:ley",
-    "span": "Ley",
-    "start_char": 763,
-    "end_char": 766
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-liernie:article:22:term-usage:53-56",
     "provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:22",
     "term_id": "urn:lex-mx:federal:regulation:reg-liernie:term:ley",
@@ -244,30 +208,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:22:term-usage:983-986",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:22",
-    "term_id": "urn:lex-mx:federal:regulation:reg-liernie:term:ley",
-    "span": "Ley",
-    "start_char": 983,
-    "end_char": 986
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-liernie:article:23:term-usage:53-56",
     "provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:23",
     "term_id": "urn:lex-mx:federal:regulation:reg-liernie:term:ley",
     "span": "Ley",
     "start_char": 53,
     "end_char": 56
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:23:term-usage:605-608",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:23",
-    "term_id": "urn:lex-mx:federal:regulation:reg-liernie:term:ley",
-    "span": "Ley",
-    "start_char": 605,
-    "end_char": 608
   },
   {
     "schema_version": "0.1.0",
@@ -286,33 +232,6 @@
     "span": "Ley",
     "start_char": 270,
     "end_char": 273
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:29:term-usage:1183-1186",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:29",
-    "term_id": "urn:lex-mx:federal:regulation:reg-liernie:term:ley",
-    "span": "Ley",
-    "start_char": 1183,
-    "end_char": 1186
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:29-bis:term-usage:92-95",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:29-bis",
-    "term_id": "urn:lex-mx:federal:regulation:reg-liernie:term:ley",
-    "span": "Ley",
-    "start_char": 92,
-    "end_char": 95
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:29-bis:term-usage:2714-2717",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:29-bis",
-    "term_id": "urn:lex-mx:federal:regulation:reg-liernie:term:ley",
-    "span": "Ley",
-    "start_char": 2714,
-    "end_char": 2717
   },
   {
     "schema_version": "0.1.0",

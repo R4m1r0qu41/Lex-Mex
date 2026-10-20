@@ -39,7 +39,7 @@ IX. Recabar en el extranjero la información que pueda ser de interés para Méx
 
 X. Coadyuvar a la mejor inserción económica de México en el mundo; Fracción adicionada DOF 25-01-2002
 
-XI. Destinar los ingresos recibidos por los servicios establecidos en la [Ley](articulo-1-BIS.md) Federal de Derechos, prestados por cualquier representación consular en el extranjero, con el objeto de cubrir, previa autorización de la [Secretaría](articulo-1-BIS.md), los gastos relativos a las actividades y programas de la misma, en términos del [Reglamento](articulo-1-BIS.md).
+XI. Destinar los ingresos recibidos por los servicios establecidos en la Ley Federal de Derechos, prestados por cualquier representación consular en el extranjero, con el objeto de cubrir, previa autorización de la [Secretaría](articulo-1-BIS.md), los gastos relativos a las actividades y programas de la misma, en términos del [Reglamento](articulo-1-BIS.md).
 
 Los gastos a sufragar de conformidad con el párrafo anterior se realizarán de acuerdo con las reglas generales de operación que al efecto establezca la Secretaría, contando con la aprobación de la Secretaría de la Función Pública; Fracción adicionada DOF 25-01-2002. Reformada DOF 09-04-2012, 19-04-2018
 

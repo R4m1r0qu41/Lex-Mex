@@ -136,15 +136,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:article:5:term-usage:303-306",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:article:5",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:term:ley",
-    "span": "Ley",
-    "start_char": 303,
-    "end_char": 306
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:article:6:term-usage:1647-1657",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:article:6",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:term:secretaria",
@@ -253,15 +244,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:article:19:term-usage:415-418",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:article:19",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:term:ley",
-    "span": "Ley",
-    "start_char": 415,
-    "end_char": 418
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:article:20:term-usage:3-13",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:article:20",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:term:secretaria",
@@ -286,15 +268,6 @@
     "span": "Ley",
     "start_char": 449,
     "end_char": 452
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:article:22:term-usage:1677-1680",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:article:22",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:term:ley",
-    "span": "Ley",
-    "start_char": 1677,
-    "end_char": 1680
   },
   {
     "schema_version": "0.1.0",
@@ -397,15 +370,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:article:30:term-usage:127-130",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:article:30",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:term:ley",
-    "span": "Ley",
-    "start_char": 127,
-    "end_char": 130
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:article:31:term-usage:83-93",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:article:31",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:term:secretaria",
@@ -421,24 +385,6 @@
     "span": "Ley",
     "start_char": 91,
     "end_char": 94
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:article:32:term-usage:103-106",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:article:32",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:term:ley",
-    "span": "Ley",
-    "start_char": 103,
-    "end_char": 106
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:article:33:term-usage:218-221",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:article:33",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:term:ley",
-    "span": "Ley",
-    "start_char": 218,
-    "end_char": 221
   },
   {
     "schema_version": "0.1.0",
@@ -532,24 +478,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:article:38:term-usage:665-668",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:article:38",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:term:ley",
-    "span": "Ley",
-    "start_char": 665,
-    "end_char": 668
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:article:38:term-usage:754-760",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:article:38",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:term:sector",
-    "span": "Sector",
-    "start_char": 754,
-    "end_char": 760
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:article:38:term-usage:821-824",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:article:38",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:term:ley",
@@ -577,24 +505,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:article:40:term-usage:1165-1168",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:article:40",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:term:ley",
-    "span": "Ley",
-    "start_char": 1165,
-    "end_char": 1168
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:article:40:term-usage:1254-1260",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:article:40",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:term:sector",
-    "span": "Sector",
-    "start_char": 1254,
-    "end_char": 1260
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:article:40:term-usage:1329-1332",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:article:40",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:term:ley",
@@ -613,48 +523,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:article:43:term-usage:1654-1657",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:article:43",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:term:ley",
-    "span": "Ley",
-    "start_char": 1654,
-    "end_char": 1657
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:article:43:term-usage:1743-1749",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:article:43",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:term:sector",
-    "span": "Sector",
-    "start_char": 1743,
-    "end_char": 1749
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:article:43:term-usage:1818-1821",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:article:43",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:term:ley",
     "span": "Ley",
     "start_char": 1818,
     "end_char": 1821
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:article:44:term-usage:1096-1099",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:article:44",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:term:ley",
-    "span": "Ley",
-    "start_char": 1096,
-    "end_char": 1099
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:article:44:term-usage:1185-1191",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:article:44",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:term:sector",
-    "span": "Sector",
-    "start_char": 1185,
-    "end_char": 1191
   },
   {
     "schema_version": "0.1.0",
@@ -712,24 +586,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:article:48:term-usage:1097-1100",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:article:48",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:term:ley",
-    "span": "Ley",
-    "start_char": 1097,
-    "end_char": 1100
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:article:48:term-usage:1186-1192",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:article:48",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:term:sector",
-    "span": "Sector",
-    "start_char": 1186,
-    "end_char": 1192
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:article:48:term-usage:1261-1264",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:article:48",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:term:ley",
@@ -745,15 +601,6 @@
     "span": "Ley",
     "start_char": 390,
     "end_char": 393
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:article:51:term-usage:402-405",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:article:51",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:term:ley",
-    "span": "Ley",
-    "start_char": 402,
-    "end_char": 405
   },
   {
     "schema_version": "0.1.0",

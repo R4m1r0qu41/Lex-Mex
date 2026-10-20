@@ -19,7 +19,7 @@ source_sha256: c7790df38b773b04e4769459d5fd49cca5b7a5b4955f7618632117275259071f
 
 Para los efectos del presente reglamento se considerarán las definiciones contenidas en la ley y las siguientes:
 
-I. Actividades del Sector Hidrocarburos: Las actividades definidas como tal en el artículo [3](../../lansi/markdown/articulo-3o.md)o., fracción XI de la [Ley](articulo-3o.md) de la [Agencia](articulo-3o.md) Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos; Fracción reformada DOF 31-10-2014
+I. Actividades del Sector Hidrocarburos: Las actividades definidas como tal en el artículo [3](../../lansi/markdown/articulo-3o.md)o., fracción XI de la Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos; Fracción reformada DOF 31-10-2014
 
 I Bis. Agencia: La Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos; Fracción adicionada DOF 31-10-2014
 
@@ -43,7 +43,7 @@ IX. Impacto ambiental significativo o relevante: Aquel que resulta de la acción
 
 X. Impacto ambiental residual: El impacto que persiste después de la aplicación de medidas de mitigación;
 
-XI. Informe preventivo: Documento mediante el cual se dan a conocer los datos generales de una obra o actividad para efectos de determinar si se encuentra en los supuestos señalados por el artículo [31](../../lgeepa/markdown/articulo-31.md) de la Ley o requiere ser evaluada a través de una manifestación de impacto ambiental;
+XI. Informe preventivo: Documento mediante el cual se dan a conocer los datos generales de una obra o actividad para efectos de determinar si se encuentra en los supuestos señalados por el artículo [31](../../lgeepa/markdown/articulo-31.md) de la [Ley](articulo-3o.md) o requiere ser evaluada a través de una manifestación de impacto ambiental;
 
 XII. Ley: La Ley General del Equilibrio Ecológico y la Protección al Ambiente;
 

@@ -199,24 +199,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfprh:article:2:term-usage:9283-9310",
-    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lfprh:term:fondo-mexicano-del-petroleo",
-    "span": "Fondo Mexicano del Petróleo",
-    "start_char": 9283,
-    "end_char": 9310
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfprh:article:2:term-usage:9818-9827",
-    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lfprh:term:entidades",
-    "span": "Entidades",
-    "start_char": 9818,
-    "end_char": 9827
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfprh:article:2:term-usage:10215-10229",
     "provision_id": "urn:lex-mx:federal:statute:lfprh:article:2",
     "term_id": "urn:lex-mx:federal:statute:lfprh:term:cuenta-publica",
@@ -316,15 +298,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfprh:article:2:term-usage:14231-14257",
-    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lfprh:term:responsabilidad-hacendaria",
-    "span": "Responsabilidad Hacendaria",
-    "start_char": 14231,
-    "end_char": 14257
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfprh:article:2:term-usage:15195-15222",
     "provision_id": "urn:lex-mx:federal:statute:lfprh:article:2",
     "term_id": "urn:lex-mx:federal:statute:lfprh:term:fondo-mexicano-del-petroleo",
@@ -358,15 +331,6 @@
     "span": "Presupuesto de Egresos",
     "start_char": 16682,
     "end_char": 16704
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfprh:article:2:term-usage:17684-17711",
-    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lfprh:term:fondo-mexicano-del-petroleo",
-    "span": "Fondo Mexicano del Petróleo",
-    "start_char": 17684,
-    "end_char": 17711
   },
   {
     "schema_version": "0.1.0",
@@ -622,15 +586,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfprh:article:8:term-usage:294-303",
-    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:8",
-    "term_id": "urn:lex-mx:federal:statute:lfprh:term:entidades",
-    "span": "Entidades",
-    "start_char": 294,
-    "end_char": 303
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfprh:article:9:term-usage:85-95",
     "provision_id": "urn:lex-mx:federal:statute:lfprh:article:9",
     "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
@@ -646,15 +601,6 @@
     "span": "Presupuesto de Egresos",
     "start_char": 496,
     "end_char": 518
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfprh:article:9:term-usage:711-720",
-    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:9",
-    "term_id": "urn:lex-mx:federal:statute:lfprh:term:entidades",
-    "span": "Entidades",
-    "start_char": 711,
-    "end_char": 720
   },
   {
     "schema_version": "0.1.0",
@@ -4042,15 +3988,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfprh:article:93:term-usage:120-147",
-    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:93",
-    "term_id": "urn:lex-mx:federal:statute:lfprh:term:fondo-mexicano-del-petroleo",
-    "span": "Fondo Mexicano del Petróleo",
-    "start_char": 120,
-    "end_char": 147
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfprh:article:93:term-usage:416-431",
     "provision_id": "urn:lex-mx:federal:statute:lfprh:article:93",
     "term_id": "urn:lex-mx:federal:statute:lfprh:term:ley-de-ingresos",
@@ -4240,15 +4177,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfprh:article:95:term-usage:1721-1748",
-    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:95",
-    "term_id": "urn:lex-mx:federal:statute:lfprh:term:fondo-mexicano-del-petroleo",
-    "span": "Fondo Mexicano del Petróleo",
-    "start_char": 1721,
-    "end_char": 1748
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfprh:article:96:term-usage:35-52",
     "provision_id": "urn:lex-mx:federal:statute:lfprh:article:96",
     "term_id": "urn:lex-mx:federal:statute:lfprh:term:reserva-del-fondo",
@@ -4309,15 +4237,6 @@
     "span": "Fondo Mexicano del Petróleo",
     "start_char": 546,
     "end_char": 573
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfprh:article:96:term-usage:693-720",
-    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:96",
-    "term_id": "urn:lex-mx:federal:statute:lfprh:term:fondo-mexicano-del-petroleo",
-    "span": "Fondo Mexicano del Petróleo",
-    "start_char": 693,
-    "end_char": 720
   },
   {
     "schema_version": "0.1.0",
@@ -4849,15 +4768,6 @@
     "span": "Reglamento",
     "start_char": 22,
     "end_char": 32
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfprh:transitory:cuarto:term-usage:68-94",
-    "provision_id": "urn:lex-mx:federal:statute:lfprh:transitory:cuarto",
-    "term_id": "urn:lex-mx:federal:statute:lfprh:term:responsabilidad-hacendaria",
-    "span": "Responsabilidad Hacendaria",
-    "start_char": 68,
-    "end_char": 94
   },
   {
     "schema_version": "0.1.0",

@@ -31,7 +31,7 @@ V. Dar fe y expedir certificados de las constancias que obren en los expedientes
 
 VI. Digitalizar la documentación y actuaciones que se requiera incorporar a un expediente tramitado en línea, así como imprimir y certificar las constancias de los expedientes electrónicos de la Sala a la que estén adscritos y las reproducciones en medios electrónicos de dichas actuaciones;
 
-VII. Elaborar el proyecto de acuerdo de radicación de las acciones de responsabilidad remitidas por las autoridades competentes en términos de la [Ley](articulo-2.md) General de Responsabilidades Administrativas;
+VII. Elaborar el proyecto de acuerdo de radicación de las acciones de responsabilidad remitidas por las autoridades competentes en términos de la Ley General de Responsabilidades Administrativas;
 
 VIII. Realizar el proyecto de devolución de las acciones de responsabilidad, cuando de su análisis determine que la conducta no está prevista como falta administrativa grave;
 

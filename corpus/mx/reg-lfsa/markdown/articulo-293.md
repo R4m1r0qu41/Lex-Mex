@@ -31,4 +31,4 @@ V. Métodos de pruebas en los que solicita aprobación;
 
 VI. Relación del o los responsables del laboratorio que emitirá el informe de resultados, y
 
-VII. Declaración bajo protesta de decir verdad de que no ha sido sancionado por la Secretaría. La Secretaría contará con un plazo de sesenta días hábiles, contados a partir del siguiente día al de la recepción de la solicitud respectiva, para emitir respuesta a la misma. La prevención se realizará conforme a lo establecido en la [Ley](articulo-2.md) Federal de Procedimiento Administrativo.
+VII. Declaración bajo protesta de decir verdad de que no ha sido sancionado por la Secretaría. La Secretaría contará con un plazo de sesenta días hábiles, contados a partir del siguiente día al de la recepción de la solicitud respectiva, para emitir respuesta a la misma. La prevención se realizará conforme a lo establecido en la Ley Federal de Procedimiento Administrativo.

@@ -19,7 +19,7 @@ Las dependencias, para el otorgamiento de incentivos, deben observar lo siguient
 
 I. Derogada. Fracción derogada DOF 04-01-2024
 
-II. Que su otorgamiento esté sujeto a la disponibilidad del presupuesto aprobado para esos fines a la dependencia que los otorga, y a la autorización previa, en el ámbito presupuestario, que emita la Secretaría de Hacienda y Crédito Público de conformidad con la [Ley](articulo-2.md) Federal de Presupuesto y Responsabilidad Hacendaria, la Ley Federal de Remuneraciones de los Servidores Públicos, el Presupuesto de Egresos de la Federación para el ejercicio fiscal que corresponda y demás disposiciones aplicables, y Fracción reformada DOF 04-01-2024
+II. Que su otorgamiento esté sujeto a la disponibilidad del presupuesto aprobado para esos fines a la dependencia que los otorga, y a la autorización previa, en el ámbito presupuestario, que emita la Secretaría de Hacienda y Crédito Público de conformidad con la Ley Federal de Presupuesto y Responsabilidad Hacendaria, la Ley Federal de Remuneraciones de los Servidores Públicos, el Presupuesto de Egresos de la Federación para el ejercicio fiscal que corresponda y demás disposiciones aplicables, y Fracción reformada DOF 04-01-2024
 
 III. Que prevean incentivos no monetarios de diverso tipo. Fracción reformada DOF 04-01-2024
 

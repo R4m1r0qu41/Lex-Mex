@@ -15,4 +15,4 @@ source_sha256: 1e049d88e21ced9b995b6727c474bcffdfd4e1a0dd4d09d2bb41ce994fe08416
 
 # Décima
 
-Las autorizaciones, registros y demás medidas y actos administrativos dictados con fundamento en las Leyes que se abrogan y las disposiciones reglamentarias y administrativas previstas en las mismas, que se regulen en la Ley de [Instituciones de Seguros](articulo-2.md) y de Fianzas, continuarán en vigor hasta que no sean revocadas o modificadas por la autoridad competente.
+Las autorizaciones, registros y demás medidas y actos administrativos dictados con fundamento en las Leyes que se abrogan y las disposiciones reglamentarias y administrativas previstas en las mismas, que se regulen en la Ley de Instituciones de Seguros y de Fianzas, continuarán en vigor hasta que no sean revocadas o modificadas por la autoridad competente.

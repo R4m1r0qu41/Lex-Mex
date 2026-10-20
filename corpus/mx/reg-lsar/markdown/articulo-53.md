@@ -25,4 +25,4 @@ Las Administradoras deberán localizar y registrar a los Trabajadores titulares 
 
 Las Administradoras, para llevar a cabo la localización de los Trabajadores a que se refiere el párrafo anterior, y las Empresas Operadoras, para complementar la base de datos a que se refiere el segundo párrafo del artículo [52](articulo-52.md) de este reglamento, deben suscribir instrumentos jurídicos con entidades, dependencias o particulares, para que, en términos de las disposiciones aplicables, puedan obtener datos de localización que faciliten el registro de las Cuentas Individuales que tuvieran asignadas. Párrafo adicionado DOF 27-09-2024
 
-Lo anterior debe atender a lo dispuesto en la [Ley](articulo-2o.md) General de Protección de Datos Personales en Posesión de Sujetos Obligados y a la Ley Federal de Protección de Datos Personales en Posesión de los Particulares. Párrafo adicionado DOF 27-09-2024
+Lo anterior debe atender a lo dispuesto en la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados y a la Ley Federal de Protección de Datos Personales en Posesión de los Particulares. Párrafo adicionado DOF 27-09-2024

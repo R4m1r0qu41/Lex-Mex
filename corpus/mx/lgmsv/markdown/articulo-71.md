@@ -33,9 +33,9 @@ VI. Participar en las acciones que en materia de protección al medio ambiente l
 
 VII. Emitir, en conjunto con las dependencias que integren el Sistema Nacional, los lineamientos técnicos para la realización de las auditorías de seguridad vial, a efecto de proveer de una metodología homologada a nivel nacional;
 
-VIII. Fungir como instancia revisora de las acciones, planes, programas y políticas públicas en materia de seguridad vial que impliquen vías generales de comunicación de conformidad con lo establecido en la [Ley](articulo-3.md) de Caminos, Puentes y Autotransporte Federal;
+VIII. Fungir como instancia revisora de las acciones, planes, programas y políticas públicas en materia de seguridad vial que impliquen vías generales de comunicación de conformidad con lo establecido en la Ley de Caminos, Puentes y Autotransporte Federal;
 
-IX. Coordinar la planificación, construcción, mejoramiento y conservación de caminos, puentes y vías férreas de jurisdicción federal que se adentren en los centros de población, con las entidades federativas, los municipios, para el cumplimiento de lo establecido en esta Ley;
+IX. Coordinar la planificación, construcción, mejoramiento y conservación de caminos, puentes y vías férreas de jurisdicción federal que se adentren en los centros de población, con las entidades federativas, los municipios, para el cumplimiento de lo establecido en esta [Ley](articulo-3.md);
 
 X. Coordinar la planificación de rutas e infraestructuras que se adentren a los centros de población en zonas insulares, con las entidades federativas, los municipios, para el cumplimiento de lo establecido en esta Ley;
 

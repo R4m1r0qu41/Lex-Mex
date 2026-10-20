@@ -17,7 +17,7 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 397
 
-Una vez que el [Instituto](articulo-4.md) haya declarado una infracción administrativa y ésta sea exigible, en términos de la [Ley](articulo-4.md) Federal de Procedimiento Administrativo, la persona titular afectada podrá presentar su reclamo por los daños y perjuicios ocasionados, así como la cuantificación correspondiente a éstos, de manera incidental, para lo cual deberá ofrecer las pruebas que estime pertinentes. Párrafo reformado DOF 03-04-2026
+Una vez que el [Instituto](articulo-4.md) haya declarado una infracción administrativa y ésta sea exigible, en términos de la Ley Federal de Procedimiento Administrativo, la persona titular afectada podrá presentar su reclamo por los daños y perjuicios ocasionados, así como la cuantificación correspondiente a éstos, de manera incidental, para lo cual deberá ofrecer las pruebas que estime pertinentes. Párrafo reformado DOF 03-04-2026
 
 Para determinar el monto de la indemnización se tomará en cuenta la fecha en que se haya acreditado la infracción al derecho y, a elección de la persona titular afectada, cualquier indicador de valor legítimo presentado por ésta, incluyendo: Párrafo reformado DOF 03-04-2026
 

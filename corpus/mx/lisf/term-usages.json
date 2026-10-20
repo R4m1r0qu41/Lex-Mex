@@ -1657,15 +1657,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:article:42:term-usage:2094-2118",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:article:42",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:institucion-de-seguros",
-    "span": "Instituciones de Seguros",
-    "start_char": 2094,
-    "end_char": 2118
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lisf:article:42:term-usage:2395-2419",
     "provision_id": "urn:lex-mx:federal:statute:lisf:article:42",
     "term_id": "urn:lex-mx:federal:statute:lisf:term:institucion-de-fianzas",
@@ -4201,15 +4192,6 @@
     "span": "Instituciones",
     "start_char": 1357,
     "end_char": 1370
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:article:71:term-usage:1490-1503",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:article:71",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:institucion",
-    "span": "Instituciones",
-    "start_char": 1490,
-    "end_char": 1503
   },
   {
     "schema_version": "0.1.0",
@@ -6904,15 +6886,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:article:118:term-usage:3937-3950",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:article:118",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:institucion",
-    "span": "Instituciones",
-    "start_char": 3937,
-    "end_char": 3950
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lisf:article:118:term-usage:3978-4002",
     "provision_id": "urn:lex-mx:federal:statute:lisf:article:118",
     "term_id": "urn:lex-mx:federal:statute:lisf:term:institucion-de-seguros",
@@ -7858,15 +7831,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:article:139:term-usage:588-601",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:article:139",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:institucion",
-    "span": "Instituciones",
-    "start_char": 588,
-    "end_char": 601
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lisf:article:139:term-usage:667-675",
     "provision_id": "urn:lex-mx:federal:statute:lisf:article:139",
     "term_id": "urn:lex-mx:federal:statute:lisf:term:comision",
@@ -8251,15 +8215,6 @@
     "span": "Instituciones de Fianzas",
     "start_char": 784,
     "end_char": 808
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:article:144:term-usage:2743-2756",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:article:144",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:institucion",
-    "span": "Instituciones",
-    "start_char": 2743,
-    "end_char": 2756
   },
   {
     "schema_version": "0.1.0",
@@ -10510,15 +10465,6 @@
     "span": "Institución",
     "start_char": 404,
     "end_char": 415
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:article:199:term-usage:832-845",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:article:199",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:institucion",
-    "span": "Instituciones",
-    "start_char": 832,
-    "end_char": 845
   },
   {
     "schema_version": "0.1.0",
@@ -14938,15 +14884,6 @@
     "span": "Instituciones",
     "start_char": 2446,
     "end_char": 2459
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:article:268:term-usage:2748-2761",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:article:268",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:institucion",
-    "span": "Instituciones",
-    "start_char": 2748,
-    "end_char": 2761
   },
   {
     "schema_version": "0.1.0",
@@ -24247,15 +24184,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:article:380:term-usage:768-781",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:article:380",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:institucion",
-    "span": "Instituciones",
-    "start_char": 768,
-    "end_char": 781
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lisf:article:380:term-usage:1039-1047",
     "provision_id": "urn:lex-mx:federal:statute:lisf:article:380",
     "term_id": "urn:lex-mx:federal:statute:lisf:term:comision",
@@ -25273,30 +25201,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:article:404:term-usage:683-696",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:article:404",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:institucion",
-    "span": "Instituciones",
-    "start_char": 683,
-    "end_char": 696
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lisf:article:404:term-usage:739-750",
     "provision_id": "urn:lex-mx:federal:statute:lisf:article:404",
     "term_id": "urn:lex-mx:federal:statute:lisf:term:institucion",
     "span": "Institución",
     "start_char": 739,
     "end_char": 750
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:article:404:term-usage:2045-2058",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:article:404",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:institucion",
-    "span": "Instituciones",
-    "start_char": 2045,
-    "end_char": 2058
   },
   {
     "schema_version": "0.1.0",
@@ -28756,15 +28666,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:article:492:term-usage:4723-4736",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:article:492",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:institucion",
-    "span": "Instituciones",
-    "start_char": 4723,
-    "end_char": 4736
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lisf:article:492:term-usage:4850-4863",
     "provision_id": "urn:lex-mx:federal:statute:lisf:article:492",
     "term_id": "urn:lex-mx:federal:statute:lisf:term:institucion",
@@ -28852,15 +28753,6 @@
     "span": "Sociedades Mutualistas",
     "start_char": 20,
     "end_char": 42
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:article:493:term-usage:805-818",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:article:493",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:institucion",
-    "span": "Instituciones",
-    "start_char": 805,
-    "end_char": 818
   },
   {
     "schema_version": "0.1.0",
@@ -29944,15 +29836,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:transitory:primera:term-usage:19-43",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:transitory:primera",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:institucion-de-seguros",
-    "span": "Instituciones de Seguros",
-    "start_char": 19,
-    "end_char": 43
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lisf:transitory:primera:term-usage:403-416",
     "provision_id": "urn:lex-mx:federal:statute:lisf:transitory:primera",
     "term_id": "urn:lex-mx:federal:statute:lisf:term:institucion",
@@ -29986,15 +29869,6 @@
     "span": "Comisión",
     "start_char": 503,
     "end_char": 511
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:transitory:primera:term-usage:899-923",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:transitory:primera",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:institucion-de-seguros",
-    "span": "Instituciones de Seguros",
-    "start_char": 899,
-    "end_char": 923
   },
   {
     "schema_version": "0.1.0",
@@ -30034,15 +29908,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:transitory:segunda:term-usage:302-326",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:transitory:segunda",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:institucion-de-seguros",
-    "span": "Instituciones de Seguros",
-    "start_char": 302,
-    "end_char": 326
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lisf:transitory:tercera:term-usage:34-44",
     "provision_id": "urn:lex-mx:federal:statute:lisf:transitory:tercera",
     "term_id": "urn:lex-mx:federal:statute:lisf:term:secretaria",
@@ -30058,15 +29923,6 @@
     "span": "Comisión",
     "start_char": 100,
     "end_char": 108
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:transitory:tercera:term-usage:229-253",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:transitory:tercera",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:institucion-de-seguros",
-    "span": "Instituciones de Seguros",
-    "start_char": 229,
-    "end_char": 253
   },
   {
     "schema_version": "0.1.0",
@@ -30097,15 +29953,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:transitory:tercera:term-usage:868-892",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:transitory:tercera",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:institucion-de-seguros",
-    "span": "Instituciones de Seguros",
-    "start_char": 868,
-    "end_char": 892
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lisf:transitory:cuarta:term-usage:18-26",
     "provision_id": "urn:lex-mx:federal:statute:lisf:transitory:cuarta",
     "term_id": "urn:lex-mx:federal:statute:lisf:term:comision",
@@ -30115,30 +29962,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:transitory:cuarta:term-usage:204-228",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:transitory:cuarta",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:institucion-de-seguros",
-    "span": "Instituciones de Seguros",
-    "start_char": 204,
-    "end_char": 228
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lisf:transitory:quinta:term-usage:59-69",
     "provision_id": "urn:lex-mx:federal:statute:lisf:transitory:quinta",
     "term_id": "urn:lex-mx:federal:statute:lisf:term:secretaria",
     "span": "Secretaría",
     "start_char": 59,
     "end_char": 69
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:transitory:quinta:term-usage:142-166",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:transitory:quinta",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:institucion-de-seguros",
-    "span": "Instituciones de Seguros",
-    "start_char": 142,
-    "end_char": 166
   },
   {
     "schema_version": "0.1.0",
@@ -30205,15 +30034,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:transitory:sexta:term-usage:168-192",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:transitory:sexta",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:institucion-de-seguros",
-    "span": "Instituciones de Seguros",
-    "start_char": 168,
-    "end_char": 192
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lisf:transitory:sexta:term-usage:402-412",
     "provision_id": "urn:lex-mx:federal:statute:lisf:transitory:sexta",
     "term_id": "urn:lex-mx:federal:statute:lisf:term:secretaria",
@@ -30229,24 +30049,6 @@
     "span": "Comisión",
     "start_char": 447,
     "end_char": 455
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:transitory:septima:term-usage:205-229",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:transitory:septima",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:institucion-de-seguros",
-    "span": "Instituciones de Seguros",
-    "start_char": 205,
-    "end_char": 229
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:transitory:octava:term-usage:57-81",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:transitory:octava",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:institucion-de-seguros",
-    "span": "Instituciones de Seguros",
-    "start_char": 57,
-    "end_char": 81
   },
   {
     "schema_version": "0.1.0",
@@ -30274,15 +30076,6 @@
     "span": "Secretaría",
     "start_char": 432,
     "end_char": 442
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:transitory:novena:term-usage:42-66",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:transitory:novena",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:institucion-de-seguros",
-    "span": "Instituciones de Seguros",
-    "start_char": 42,
-    "end_char": 66
   },
   {
     "schema_version": "0.1.0",
@@ -30322,15 +30115,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:transitory:decima:term-usage:228-252",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:transitory:decima",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:institucion-de-seguros",
-    "span": "Instituciones de Seguros",
-    "start_char": 228,
-    "end_char": 252
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lisf:transitory:decima-primera:term-usage:92-105",
     "provision_id": "urn:lex-mx:federal:statute:lisf:transitory:decima-primera",
     "term_id": "urn:lex-mx:federal:statute:lisf:term:institucion",
@@ -30355,60 +30139,6 @@
     "span": "Instituciones de Fianzas",
     "start_char": 210,
     "end_char": 234
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:transitory:decima-primera:term-usage:309-333",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:transitory:decima-primera",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:institucion-de-seguros",
-    "span": "Instituciones de Seguros",
-    "start_char": 309,
-    "end_char": 333
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:transitory:decima-primera:term-usage:566-590",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:transitory:decima-primera",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:institucion-de-seguros",
-    "span": "Instituciones de Seguros",
-    "start_char": 566,
-    "end_char": 590
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:transitory:decima-primera:term-usage:738-762",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:transitory:decima-primera",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:institucion-de-seguros",
-    "span": "Instituciones de Seguros",
-    "start_char": 738,
-    "end_char": 762
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:transitory:decima-segunda:term-usage:93-117",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:transitory:decima-segunda",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:institucion-de-seguros",
-    "span": "Instituciones de Seguros",
-    "start_char": 93,
-    "end_char": 117
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:transitory:decima-segunda:term-usage:232-256",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:transitory:decima-segunda",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:institucion-de-fianzas",
-    "span": "Instituciones de Fianzas",
-    "start_char": 232,
-    "end_char": 256
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:transitory:decima-tercera:term-usage:39-63",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:transitory:decima-tercera",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:institucion-de-seguros",
-    "span": "Instituciones de Seguros",
-    "start_char": 39,
-    "end_char": 63
   },
   {
     "schema_version": "0.1.0",
@@ -30457,129 +30187,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:transitory:decima-cuarta:term-usage:280-304",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:transitory:decima-cuarta",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:institucion-de-seguros",
-    "span": "Instituciones de Seguros",
-    "start_char": 280,
-    "end_char": 304
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:transitory:decima-cuarta:term-usage:475-499",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:transitory:decima-cuarta",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:institucion-de-seguros",
-    "span": "Instituciones de Seguros",
-    "start_char": 475,
-    "end_char": 499
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:transitory:decima-quinta:term-usage:63-87",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:transitory:decima-quinta",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:institucion-de-seguros",
-    "span": "Instituciones de Seguros",
-    "start_char": 63,
-    "end_char": 87
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:transitory:decima-quinta:term-usage:405-429",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:transitory:decima-quinta",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:institucion-de-seguros",
-    "span": "Instituciones de Seguros",
-    "start_char": 405,
-    "end_char": 429
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:transitory:decima-sexta:term-usage:145-169",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:transitory:decima-sexta",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:institucion-de-seguros",
-    "span": "Instituciones de Seguros",
-    "start_char": 145,
-    "end_char": 169
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:transitory:decima-septima:term-usage:182-206",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:transitory:decima-septima",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:institucion-de-seguros",
-    "span": "Instituciones de Seguros",
-    "start_char": 182,
-    "end_char": 206
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:transitory:decima-octava:term-usage:168-192",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:transitory:decima-octava",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:institucion-de-seguros",
-    "span": "Instituciones de Seguros",
-    "start_char": 168,
-    "end_char": 192
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:transitory:decima-novena:term-usage:146-170",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:transitory:decima-novena",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:institucion-de-seguros",
-    "span": "Instituciones de Seguros",
-    "start_char": 146,
-    "end_char": 170
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:transitory:vigesima:term-usage:68-92",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:transitory:vigesima",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:institucion-de-seguros",
-    "span": "Instituciones de Seguros",
-    "start_char": 68,
-    "end_char": 92
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:transitory:vigesima-primera:term-usage:104-128",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:transitory:vigesima-primera",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:institucion-de-seguros",
-    "span": "Instituciones de Seguros",
-    "start_char": 104,
-    "end_char": 128
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:transitory:vigesima-segunda:term-usage:70-94",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:transitory:vigesima-segunda",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:institucion-de-seguros",
-    "span": "Instituciones de Seguros",
-    "start_char": 70,
-    "end_char": 94
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lisf:transitory:vigesima-segunda:term-usage:308-332",
     "provision_id": "urn:lex-mx:federal:statute:lisf:transitory:vigesima-segunda",
     "term_id": "urn:lex-mx:federal:statute:lisf:term:institucion-de-seguros",
     "span": "Instituciones de Seguros",
     "start_char": 308,
     "end_char": 332
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:transitory:vigesima-tercera:term-usage:194-218",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:transitory:vigesima-tercera",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:institucion-de-seguros",
-    "span": "Instituciones de Seguros",
-    "start_char": 194,
-    "end_char": 218
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:transitory:vigesima-cuarta:term-usage:53-77",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:transitory:vigesima-cuarta",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:institucion-de-seguros",
-    "span": "Instituciones de Seguros",
-    "start_char": 53,
-    "end_char": 77
   },
   {
     "schema_version": "0.1.0",
@@ -30607,32 +30220,5 @@
     "span": "Instituciones de Fianzas",
     "start_char": 427,
     "end_char": 451
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:transitory:vigesima-quinta:term-usage:138-162",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:transitory:vigesima-quinta",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:institucion-de-seguros",
-    "span": "Instituciones de Seguros",
-    "start_char": 138,
-    "end_char": 162
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:transitory:vigesima-sexta:term-usage:112-136",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:transitory:vigesima-sexta",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:institucion-de-seguros",
-    "span": "Instituciones de Seguros",
-    "start_char": 112,
-    "end_char": 136
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:transitory:vigesima-sexta:term-usage:404-428",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:transitory:vigesima-sexta",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:institucion-de-seguros",
-    "span": "Instituciones de Seguros",
-    "start_char": 404,
-    "end_char": 428
   }
 ]

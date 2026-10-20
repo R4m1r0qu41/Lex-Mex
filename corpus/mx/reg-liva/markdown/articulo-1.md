@@ -19,7 +19,7 @@ source_sha256: 4f46c1f92fb5682281a7679836e517de95975786fa5326848a331c9eb946cc5f
 
 Para los efectos de este Reglamento se entiende por:
 
-I. Ley: La Ley del [Impuesto](articulo-1.md) al Valor Agregado;
+I. Ley: La Ley del Impuesto al Valor Agregado;
 
 II. Impuesto: El impuesto al valor agregado;
 

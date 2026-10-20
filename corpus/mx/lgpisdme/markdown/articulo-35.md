@@ -17,4 +17,4 @@ source_sha256: 5d22df1b22454fe1fe5354c0d9d4cec71d1d7ded3549072c340c36cb3ea3a624
 
 # Artículo 35
 
-Las personas sentenciadas por el delito de extorsión no tendrán derecho a los beneficios de la libertad anticipada, sustitución, conmutación de la pena o cualquier otro que implique reducción de la condena. Tampoco les serán aplicados los beneficios preliberacionales previstos en la [Ley](articulo-7.md) Nacional de Ejecución Penal.
+Las personas sentenciadas por el delito de extorsión no tendrán derecho a los beneficios de la libertad anticipada, sustitución, conmutación de la pena o cualquier otro que implique reducción de la condena. Tampoco les serán aplicados los beneficios preliberacionales previstos en la Ley Nacional de Ejecución Penal.

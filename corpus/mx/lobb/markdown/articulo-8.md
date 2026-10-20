@@ -19,7 +19,7 @@ source_sha256: 915a4f4f7947f248971aebed71f67ddf5fd26bd41faeacb7084ded7a6c57b6dc
 
 Para el cumplimiento del objeto y la realización de los objetivos a que se refieren los artículos [3](articulo-3.md) y [7](articulo-7.md) anteriores, la [Institución](articulo-2.md) podrá:
 
-I. Realizar las operaciones y prestar los servicios a que se refiere el artículo [46](../../lic/markdown/articulo-46.md) de la [Ley](articulo-2.md) de Instituciones de Crédito;
+I. Realizar las operaciones y prestar los servicios a que se refiere el artículo [46](../../lic/markdown/articulo-46.md) de la Ley de Instituciones de Crédito;
 
 Las operaciones señaladas en el citado artículo 46, fracciones I y II, las realizará en los términos del artículo 47 de dicho ordenamiento;
 

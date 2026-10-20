@@ -17,9 +17,9 @@ source_sha256: b01d875d525d1efbe4edf9f022f58c9afb56fb777581fc9eae1038c212e6b43c
 
 # Artículo 7
 
-La política de austeridad republicana de Estado deberá partir de un diagnóstico de las medidas a aplicar, su compatibilidad con la planeación democrática, y el respeto a los programas sectoriales, institucionales, regionales y especiales que se establezcan de conformidad con la [Ley](articulo-4.md) de Planeación. Además, se deberán desarrollar indicadores de desempeño para evaluar dicha política.
+La política de austeridad republicana de Estado deberá partir de un diagnóstico de las medidas a aplicar, su compatibilidad con la planeación democrática, y el respeto a los programas sectoriales, institucionales, regionales y especiales que se establezcan de conformidad con la Ley de Planeación. Además, se deberán desarrollar indicadores de desempeño para evaluar dicha política.
 
-Al final de cada año fiscal los entes públicos obligados entregarán al [Comité de Evaluación](articulo-4.md) y a la Cámara de Diputados un "Informe de [Austeridad Republicana](articulo-4.md)" en el cual se reportarán los ahorros obtenidos por la aplicación de la presente Ley, y serán evaluados en términos de los propios lineamientos y demás normatividad aplicable.
+Al final de cada año fiscal los entes públicos obligados entregarán al [Comité de Evaluación](articulo-4.md) y a la Cámara de Diputados un "Informe de [Austeridad Republicana](articulo-4.md)" en el cual se reportarán los ahorros obtenidos por la aplicación de la presente [Ley](articulo-4.md), y serán evaluados en términos de los propios lineamientos y demás normatividad aplicable.
 
 Para aplicar la política de la austeridad republicana de Estado, los entes públicos deberán:
 

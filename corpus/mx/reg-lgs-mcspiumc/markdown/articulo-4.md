@@ -17,4 +17,4 @@ source_sha256: 2cc4bd6de7ab80102fae680a7017a0876b062f7999f7e33916b853cc8296cb19
 
 # Artículo 4
 
-A falta de disposición expresa en este Reglamento, cada autoridad se sujetará a los ordenamientos jurídicos aplicables dentro del ámbito de su competencia, salvo en los plazos y términos a los que se aplicará de manera supletoria lo dispuesto en la [Ley](articulo-3.md) Federal de Procedimiento Administrativo.
+A falta de disposición expresa en este Reglamento, cada autoridad se sujetará a los ordenamientos jurídicos aplicables dentro del ámbito de su competencia, salvo en los plazos y términos a los que se aplicará de manera supletoria lo dispuesto en la Ley Federal de Procedimiento Administrativo.

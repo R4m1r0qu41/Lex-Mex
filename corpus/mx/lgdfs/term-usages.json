@@ -3949,32 +3949,5 @@
     "span": "Reglamento",
     "start_char": 129,
     "end_char": 139
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgdfs:transitory:primero:term-usage:28-59",
-    "provision_id": "urn:lex-mx:federal:statute:lgdfs:transitory:primero",
-    "term_id": "urn:lex-mx:federal:statute:lgdfs:term:desarrollo-forestal-sustentable",
-    "span": "Desarrollo Forestal Sustentable",
-    "start_char": 28,
-    "end_char": 59
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgdfs:transitory:primero:term-usage:257-288",
-    "provision_id": "urn:lex-mx:federal:statute:lgdfs:transitory:primero",
-    "term_id": "urn:lex-mx:federal:statute:lgdfs:term:desarrollo-forestal-sustentable",
-    "span": "Desarrollo Forestal Sustentable",
-    "start_char": 257,
-    "end_char": 288
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgdfs:transitory:segundo:term-usage:596-627",
-    "provision_id": "urn:lex-mx:federal:statute:lgdfs:transitory:segundo",
-    "term_id": "urn:lex-mx:federal:statute:lgdfs:term:desarrollo-forestal-sustentable",
-    "span": "Desarrollo Forestal Sustentable",
-    "start_char": 596,
-    "end_char": 627
   }
 ]

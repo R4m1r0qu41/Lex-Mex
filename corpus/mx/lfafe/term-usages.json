@@ -172,15 +172,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfafe:article:8-bis:term-usage:935-938",
-    "provision_id": "urn:lex-mx:federal:statute:lfafe:article:8-bis",
-    "term_id": "urn:lex-mx:federal:statute:lfafe:term:ley",
-    "span": "Ley",
-    "start_char": 935,
-    "end_char": 938
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfafe:article:8-bis:term-usage:1184-1187",
     "provision_id": "urn:lex-mx:federal:statute:lfafe:article:8-bis",
     "term_id": "urn:lex-mx:federal:statute:lfafe:term:ley",

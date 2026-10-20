@@ -21,7 +21,7 @@ Las [Fiscalías Especializadas](articulo-5.md) tendrán en el ámbito de su comp
 
 I. Iniciar y desarrollar la investigación y persecución de hechos delictivos relacionados con los delitos previstos en esta [Ley](articulo-5.md);
 
-II. Requerir a las instancias del sector público competentes, y del sector privado en los casos que disponga la Ley General de [Víctimas](articulo-5.md), a que se le brinde atención médica, psicológica y jurídica a las personas Víctimas de las conductas previstas en esta Ley;
+II. Requerir a las instancias del sector público competentes, y del sector privado en los casos que disponga la Ley General de Víctimas, a que se le brinde atención médica, psicológica y jurídica a las personas [Víctimas](articulo-5.md) de las conductas previstas en esta Ley;
 
 III. Requerir la participación de las autoridades en materia de atención a Víctimas, en términos de las disposiciones aplicables;
 

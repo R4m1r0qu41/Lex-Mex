@@ -226,15 +226,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpccs:article:3:term-usage:7152-7172",
-    "provision_id": "urn:lex-mx:federal:statute:lfpccs:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lfpccs:term:variedad-vegetal",
-    "span": "Variedades Vegetales",
-    "start_char": 7152,
-    "end_char": 7172
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfpccs:article:4:term-usage:3-13",
     "provision_id": "urn:lex-mx:federal:statute:lfpccs:article:4",
     "term_id": "urn:lex-mx:federal:statute:lfpccs:term:secretaria",
@@ -946,15 +937,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpccs:article:23:term-usage:245-265",
-    "provision_id": "urn:lex-mx:federal:statute:lfpccs:article:23",
-    "term_id": "urn:lex-mx:federal:statute:lfpccs:term:variedad-vegetal",
-    "span": "Variedades Vegetales",
-    "start_char": 245,
-    "end_char": 265
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfpccs:article:24:term-usage:3-27",
     "provision_id": "urn:lex-mx:federal:statute:lfpccs:article:24",
     "term_id": "urn:lex-mx:federal:statute:lfpccs:term:catalogo-de-mantenedores",
@@ -988,15 +970,6 @@
     "span": "Guía",
     "start_char": 585,
     "end_char": 589
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpccs:article:24:term-usage:682-702",
-    "provision_id": "urn:lex-mx:federal:statute:lfpccs:article:24",
-    "term_id": "urn:lex-mx:federal:statute:lfpccs:term:variedad-vegetal",
-    "span": "Variedades Vegetales",
-    "start_char": 682,
-    "end_char": 702
   },
   {
     "schema_version": "0.1.0",
@@ -1069,15 +1042,6 @@
     "span": "Secretaría",
     "start_char": 946,
     "end_char": 956
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpccs:article:26:term-usage:75-95",
-    "provision_id": "urn:lex-mx:federal:statute:lfpccs:article:26",
-    "term_id": "urn:lex-mx:federal:statute:lfpccs:term:variedad-vegetal",
-    "span": "Variedades Vegetales",
-    "start_char": 75,
-    "end_char": 95
   },
   {
     "schema_version": "0.1.0",

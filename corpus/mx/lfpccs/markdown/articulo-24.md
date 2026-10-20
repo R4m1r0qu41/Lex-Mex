@@ -25,7 +25,7 @@ II. Demostrar que cuenta con el personal e infraestructura necesarios para la co
 
 III. En su caso, efectuar la descripción de la variedad de la que solicita ser mantenedor, de conformidad con la [Guía](articulo-3.md) respectiva;
 
-IV. En el caso de variedades vegetales protegidas conforme a la Ley Federal de [Variedades Vegetales](articulo-3.md), se deberá contar con el consentimiento del titular del derecho de obtentor;
+IV. En el caso de variedades vegetales protegidas conforme a la Ley Federal de Variedades Vegetales, se deberá contar con el consentimiento del titular del derecho de obtentor;
 
 V. Conservar y en su caso proporcionar al SNICS, la muestra de referencia de la variedad para la que solicita ser mantenedor; y
 

@@ -17,7 +17,7 @@ source_sha256: 915a4f4f7947f248971aebed71f67ddf5fd26bd41faeacb7084ded7a6c57b6dc
 
 # Artículo 36
 
-La [Institución](articulo-2.md) otorgará sus financiamientos únicamente a los Organismos de Integración regulados por la [Ley](articulo-2.md) de Ahorro y Crédito Popular que asuman parcial o totalmente el riesgo de recuperación de estos apoyos, en cumplimiento de su objeto conforme a lo señalado en el artículo [7](articulo-7.md) de esta Ley.
+La [Institución](articulo-2.md) otorgará sus financiamientos únicamente a los Organismos de Integración regulados por la Ley de Ahorro y Crédito Popular que asuman parcial o totalmente el riesgo de recuperación de estos apoyos, en cumplimiento de su objeto conforme a lo señalado en el artículo [7](articulo-7.md) de esta [Ley](articulo-2.md).
 
 No obstante lo anterior, la Institución podrá realizar las siguientes operaciones de financiamiento:
 

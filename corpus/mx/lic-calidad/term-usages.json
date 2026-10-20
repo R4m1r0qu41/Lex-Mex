@@ -9361,15 +9361,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:transitory:noveno:term-usage:342-371",
-    "provision_id": "urn:lex-mx:federal:statute:lic-calidad:transitory:noveno",
-    "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:infraestructura-de-la-calidad",
-    "span": "Infraestructura de la Calidad",
-    "start_char": 342,
-    "end_char": 371
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lic-calidad:transitory:decimo:term-usage:3-13",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:transitory:decimo",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:secretaria",

@@ -17,4 +17,4 @@ source_sha256: a3435ac18a1631617fea83ae6a81bad84f456e3e8fd44b69bb6b7ea39425df9c
 
 # Artículo 242
 
-La Secretaría podrá dejar sin efecto la autorización de los médicos veterinarios responsables autorizados y terceros especialistas autorizados, cuando no cumplan los requisitos, obligaciones o evaluación que determine la Secretaría, o cuando ante un riesgo zoosanitario o de contaminación se nieguen a participar o no informen sobre el mismo. Dicha revocación se hará en los términos de la [Ley](articulo-2.md) Federal de Procedimiento Administrativo.
+La Secretaría podrá dejar sin efecto la autorización de los médicos veterinarios responsables autorizados y terceros especialistas autorizados, cuando no cumplan los requisitos, obligaciones o evaluación que determine la Secretaría, o cuando ante un riesgo zoosanitario o de contaminación se nieguen a participar o no informen sobre el mismo. Dicha revocación se hará en los términos de la Ley Federal de Procedimiento Administrativo.

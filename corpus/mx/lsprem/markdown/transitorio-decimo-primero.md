@@ -33,4 +33,4 @@ a. Dicha autorización pueda tener como efecto incrementar la participación en 
 
 b. La autorización de servicios adicionales tenga como efecto conferir poder sustancial en el mercado relevante a alguno de los concesionarios o integrantes del agente económico preponderante o de los concesionarios cuyos títulos de concesión contengan alguna prohibición o restricción para prestar servicios determinados en el sector que corresponda.
 
-Lo dispuesto en este artículo será aplicable en caso de que los agentes y concesionarios respectivos opten por transitar a la concesión única, y será independiente de las sanciones económicas que procedan conforme a la [Ley](articulo-2.md) Federal de Telecomunicaciones y Radiodifusión.
+Lo dispuesto en este artículo será aplicable en caso de que los agentes y concesionarios respectivos opten por transitar a la concesión única, y será independiente de las sanciones económicas que procedan conforme a la Ley Federal de Telecomunicaciones y Radiodifusión.

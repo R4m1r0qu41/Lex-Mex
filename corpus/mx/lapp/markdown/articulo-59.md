@@ -17,7 +17,7 @@ source_sha256: a4505a7bd41bc835f1def6fb030c42d8e74a2cc050d9c8fa08f91c9519e382bf
 
 Contra el fallo que adjudique el concurso procederá, a elección del participante interesado:
 
-I. El recurso administrativo de revisión, de conformidad con la [Ley](articulo-12.md) Federal de Procedimiento Administrativo; o
+I. El recurso administrativo de revisión, de conformidad con la Ley Federal de Procedimiento Administrativo; o
 
 II. El juicio contencioso administrativo federal, de conformidad con la Ley Federal de Procedimiento Contencioso Administrativo. Fracción reformada DOF 21-04-2016
 

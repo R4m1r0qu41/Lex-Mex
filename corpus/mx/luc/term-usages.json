@@ -2485,15 +2485,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:luc:article:133:term-usage:1659-1667",
-    "provision_id": "urn:lex-mx:federal:statute:luc:article:133",
-    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
-    "span": "Comisión",
-    "start_char": 1659,
-    "end_char": 1667
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:luc:article:133:term-usage:1778-1788",
     "provision_id": "urn:lex-mx:federal:statute:luc:article:133",
     "term_id": "urn:lex-mx:federal:statute:luc:term:secretaria",

@@ -955,15 +955,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:18:term-usage:1053-1056",
-    "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:18",
-    "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:ley",
-    "span": "Ley",
-    "start_char": 1053,
-    "end_char": 1056
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgsnsp:article:18:term-usage:1309-1312",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:18",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:ley",
@@ -1864,15 +1855,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:32:term-usage:465-468",
-    "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:32",
-    "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:ley",
-    "span": "Ley",
-    "start_char": 465,
-    "end_char": 468
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgsnsp:article:32:term-usage:786-802",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:32",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:consejo-nacional",
@@ -2338,15 +2320,6 @@
     "span": "Fondos de Ayuda Federal",
     "start_char": 715,
     "end_char": 738
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:47:term-usage:882-885",
-    "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:47",
-    "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:ley",
-    "span": "Ley",
-    "start_char": 882,
-    "end_char": 885
   },
   {
     "schema_version": "0.1.0",
@@ -2818,15 +2791,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:55:term-usage:1196-1199",
-    "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:55",
-    "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:ley",
-    "span": "Ley",
-    "start_char": 1196,
-    "end_char": 1199
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgsnsp:article:55:term-usage:1237-1259",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:55",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:secretariado-ejecutivo",
@@ -3040,15 +3004,6 @@
     "span": "Ley",
     "start_char": 807,
     "end_char": 810
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:61:term-usage:1847-1850",
-    "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:61",
-    "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:ley",
-    "span": "Ley",
-    "start_char": 1847,
-    "end_char": 1850
   },
   {
     "schema_version": "0.1.0",
@@ -4753,15 +4708,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:114:term-usage:226-229",
-    "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:114",
-    "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:ley",
-    "span": "Ley",
-    "start_char": 226,
-    "end_char": 229
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgsnsp:article:114:term-usage:375-382",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:114",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:sistema",
@@ -4924,15 +4870,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:117:term-usage:408-411",
-    "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:117",
-    "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:ley",
-    "span": "Ley",
-    "start_char": 408,
-    "end_char": 411
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgsnsp:article:117:term-usage:497-513",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:117",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:consejo-nacional",
@@ -5014,15 +4951,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:119:term-usage:435-438",
-    "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:119",
-    "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:ley",
-    "span": "Ley",
-    "start_char": 435,
-    "end_char": 438
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgsnsp:article:121:term-usage:3-19",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:121",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:consejo-nacional",
@@ -5047,15 +4975,6 @@
     "span": "Instituciones de Seguridad Pública",
     "start_char": 1153,
     "end_char": 1187
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:122:term-usage:46-49",
-    "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:122",
-    "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:ley",
-    "span": "Ley",
-    "start_char": 46,
-    "end_char": 49
   },
   {
     "schema_version": "0.1.0",
@@ -5101,15 +5020,6 @@
     "span": "Instituciones de Seguridad Pública",
     "start_char": 81,
     "end_char": 115
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:125:term-usage:399-402",
-    "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:125",
-    "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:ley",
-    "span": "Ley",
-    "start_char": 399,
-    "end_char": 402
   },
   {
     "schema_version": "0.1.0",
@@ -5254,15 +5164,6 @@
     "span": "Instituciones de Seguridad Pública",
     "start_char": 1502,
     "end_char": 1536
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:129:term-usage:2558-2561",
-    "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:129",
-    "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:ley",
-    "span": "Ley",
-    "start_char": 2558,
-    "end_char": 2561
   },
   {
     "schema_version": "0.1.0",
@@ -5488,24 +5389,6 @@
     "span": "Ley",
     "start_char": 175,
     "end_char": 178
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:transitory:segundo:term-usage:13-16",
-    "provision_id": "urn:lex-mx:federal:statute:lgsnsp:transitory:segundo",
-    "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:ley",
-    "span": "Ley",
-    "start_char": 13,
-    "end_char": 16
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:transitory:segundo:term-usage:29-36",
-    "provision_id": "urn:lex-mx:federal:statute:lgsnsp:transitory:segundo",
-    "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:sistema",
-    "span": "Sistema",
-    "start_char": 29,
-    "end_char": 36
   },
   {
     "schema_version": "0.1.0",

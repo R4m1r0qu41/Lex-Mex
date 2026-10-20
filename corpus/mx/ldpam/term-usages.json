@@ -91,15 +91,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldpam:article:5:term-usage:3609-3612",
-    "provision_id": "urn:lex-mx:federal:statute:ldpam:article:5",
-    "term_id": "urn:lex-mx:federal:statute:ldpam:term:ley",
-    "span": "Ley",
-    "start_char": 3609,
-    "end_char": 3612
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:ldpam:article:5:term-usage:5246-5249",
     "provision_id": "urn:lex-mx:federal:statute:ldpam:article:5",
     "term_id": "urn:lex-mx:federal:statute:ldpam:term:ley",
@@ -178,15 +169,6 @@
     "span": "Ley",
     "start_char": 279,
     "end_char": 282
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldpam:article:18:term-usage:325-328",
-    "provision_id": "urn:lex-mx:federal:statute:ldpam:article:18",
-    "term_id": "urn:lex-mx:federal:statute:ldpam:term:ley",
-    "span": "Ley",
-    "start_char": 325,
-    "end_char": 328
   },
   {
     "schema_version": "0.1.0",
@@ -352,24 +334,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldpam:article:35:term-usage:93-96",
-    "provision_id": "urn:lex-mx:federal:statute:ldpam:article:35",
-    "term_id": "urn:lex-mx:federal:statute:ldpam:term:ley",
-    "span": "Ley",
-    "start_char": 93,
-    "end_char": 96
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldpam:article:35:term-usage:295-298",
-    "provision_id": "urn:lex-mx:federal:statute:ldpam:article:35",
-    "term_id": "urn:lex-mx:federal:statute:ldpam:term:ley",
-    "span": "Ley",
-    "start_char": 295,
-    "end_char": 298
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:ldpam:article:35:term-usage:438-447",
     "provision_id": "urn:lex-mx:federal:statute:ldpam:article:35",
     "term_id": "urn:lex-mx:federal:statute:ldpam:term:instituto",
@@ -385,33 +349,6 @@
     "span": "Instituto",
     "start_char": 3,
     "end_char": 12
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldpam:article:36:term-usage:332-335",
-    "provision_id": "urn:lex-mx:federal:statute:ldpam:article:36",
-    "term_id": "urn:lex-mx:federal:statute:ldpam:term:ley",
-    "span": "Ley",
-    "start_char": 332,
-    "end_char": 335
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldpam:article:36:term-usage:541-544",
-    "provision_id": "urn:lex-mx:federal:statute:ldpam:article:36",
-    "term_id": "urn:lex-mx:federal:statute:ldpam:term:ley",
-    "span": "Ley",
-    "start_char": 541,
-    "end_char": 544
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldpam:article:37:term-usage:90-93",
-    "provision_id": "urn:lex-mx:federal:statute:ldpam:article:37",
-    "term_id": "urn:lex-mx:federal:statute:ldpam:term:ley",
-    "span": "Ley",
-    "start_char": 90,
-    "end_char": 93
   },
   {
     "schema_version": "0.1.0",
@@ -448,24 +385,6 @@
     "span": "Instituto",
     "start_char": 3,
     "end_char": 12
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldpam:article:40:term-usage:211-214",
-    "provision_id": "urn:lex-mx:federal:statute:ldpam:article:40",
-    "term_id": "urn:lex-mx:federal:statute:ldpam:term:ley",
-    "span": "Ley",
-    "start_char": 211,
-    "end_char": 214
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldpam:article:40:term-usage:566-569",
-    "provision_id": "urn:lex-mx:federal:statute:ldpam:article:40",
-    "term_id": "urn:lex-mx:federal:statute:ldpam:term:ley",
-    "span": "Ley",
-    "start_char": 566,
-    "end_char": 569
   },
   {
     "schema_version": "0.1.0",
@@ -529,24 +448,6 @@
     "span": "Instituto",
     "start_char": 16,
     "end_char": 25
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldpam:article:42:term-usage:61-64",
-    "provision_id": "urn:lex-mx:federal:statute:ldpam:article:42",
-    "term_id": "urn:lex-mx:federal:statute:ldpam:term:ley",
-    "span": "Ley",
-    "start_char": 61,
-    "end_char": 64
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldpam:article:42:term-usage:69-78",
-    "provision_id": "urn:lex-mx:federal:statute:ldpam:article:42",
-    "term_id": "urn:lex-mx:federal:statute:ldpam:term:instituto",
-    "span": "Instituto",
-    "start_char": 69,
-    "end_char": 78
   },
   {
     "schema_version": "0.1.0",

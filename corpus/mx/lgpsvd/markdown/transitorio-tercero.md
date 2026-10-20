@@ -15,4 +15,4 @@ source_sha256: 2d9d70a5bf906056c4a570d1ec3edf669b1ca2aa9b5a6b335b42b895447740ab
 
 # TERCERO
 
-La Cámara de Diputados del H. Congreso de la Unión, las legislaturas de los Estados y la Asamblea Legislativa del Distrito Federal expedirán las normas legales y tomarán las medidas presupuestales correspondientes para garantizar el cumplimiento de la [Ley](articulo-4.md) General para la Prevención Social de la [Violencia](articulo-4.md) y la Delincuencia, en el ejercicio fiscal siguiente a la entrada en vigor de este decreto.
+La Cámara de Diputados del H. Congreso de la Unión, las legislaturas de los Estados y la Asamblea Legislativa del Distrito Federal expedirán las normas legales y tomarán las medidas presupuestales correspondientes para garantizar el cumplimiento de la [Ley](articulo-4.md) General para la Prevención Social de la Violencia y la Delincuencia, en el ejercicio fiscal siguiente a la entrada en vigor de este decreto.

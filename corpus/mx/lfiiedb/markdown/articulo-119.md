@@ -17,4 +17,4 @@ source_sha256: 7679afbbf32749e0c0bacab72644d41fc6ccdeeab3a2f25dfae8d26a065de01e
 
 # Artículo 119
 
-A los inmuebles, bienes y derechos del dominio público de un [Proyecto para el desarrollo con bienestar](articulo-4.md) les será aplicable la [Ley](articulo-4.md) General de Bienes Nacionales o, en su caso, las disposiciones jurídicas que resulten aplicables a las [Dependencias](articulo-4.md) y [Entidades](articulo-4.md) que suscriban los contratos de inversión estratégica.
+A los inmuebles, bienes y derechos del dominio público de un [Proyecto para el desarrollo con bienestar](articulo-4.md) les será aplicable la Ley General de Bienes Nacionales o, en su caso, las disposiciones jurídicas que resulten aplicables a las [Dependencias](articulo-4.md) y [Entidades](articulo-4.md) que suscriban los contratos de inversión estratégica.

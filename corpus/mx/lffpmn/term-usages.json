@@ -37,15 +37,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lffpmn:article:1:term-usage:306-309",
-    "provision_id": "urn:lex-mx:federal:statute:lffpmn:article:1",
-    "term_id": "urn:lex-mx:federal:statute:lffpmn:term:ley",
-    "span": "Ley",
-    "start_char": 306,
-    "end_char": 309
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lffpmn:article:1:term-usage:386-397",
     "provision_id": "urn:lex-mx:federal:statute:lffpmn:article:1",
     "term_id": "urn:lex-mx:federal:statute:lffpmn:term:maiz-nativo",
@@ -118,15 +109,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lffpmn:article:2:term-usage:1597-1600",
-    "provision_id": "urn:lex-mx:federal:statute:lffpmn:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lffpmn:term:ley",
-    "span": "Ley",
-    "start_char": 1597,
-    "end_char": 1600
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lffpmn:article:3:term-usage:57-82",
     "provision_id": "urn:lex-mx:federal:statute:lffpmn:article:3",
     "term_id": "urn:lex-mx:federal:statute:lffpmn:term:diversificacion-constante",
@@ -142,15 +124,6 @@
     "span": "Maíz Nativo",
     "start_char": 87,
     "end_char": 98
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lffpmn:article:3:term-usage:210-213",
-    "provision_id": "urn:lex-mx:federal:statute:lffpmn:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lffpmn:term:ley",
-    "span": "Ley",
-    "start_char": 210,
-    "end_char": 213
   },
   {
     "schema_version": "0.1.0",
@@ -520,15 +493,6 @@
     "span": "Ley",
     "start_char": 193,
     "end_char": 196
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lffpmn:transitory:cuarto:term-usage:247-250",
-    "provision_id": "urn:lex-mx:federal:statute:lffpmn:transitory:cuarto",
-    "term_id": "urn:lex-mx:federal:statute:lffpmn:term:ley",
-    "span": "Ley",
-    "start_char": 247,
-    "end_char": 250
   },
   {
     "schema_version": "0.1.0",

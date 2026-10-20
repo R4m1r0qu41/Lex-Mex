@@ -55,51 +55,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpisdme:article:4:term-usage:155-158",
-    "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:4",
-    "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:ley",
-    "span": "Ley",
-    "start_char": 155,
-    "end_char": 158
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpisdme:article:4:term-usage:196-199",
-    "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:4",
-    "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:ley",
-    "span": "Ley",
-    "start_char": 196,
-    "end_char": 199
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpisdme:article:4:term-usage:246-249",
-    "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:4",
-    "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:ley",
-    "span": "Ley",
-    "start_char": 246,
-    "end_char": 249
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpisdme:article:4:term-usage:282-285",
-    "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:4",
-    "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:ley",
-    "span": "Ley",
-    "start_char": 282,
-    "end_char": 285
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpisdme:article:4:term-usage:341-344",
-    "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:4",
-    "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:ley",
-    "span": "Ley",
-    "start_char": 341,
-    "end_char": 344
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgpisdme:article:5:term-usage:93-96",
     "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:5",
     "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:ley",
@@ -124,15 +79,6 @@
     "span": "Ley",
     "start_char": 25,
     "end_char": 28
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpisdme:article:8:term-usage:161-164",
-    "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:8",
-    "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:ley",
-    "span": "Ley",
-    "start_char": 161,
-    "end_char": 164
   },
   {
     "schema_version": "0.1.0",
@@ -181,15 +127,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpisdme:article:10:term-usage:878-881",
-    "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:10",
-    "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:ley",
-    "span": "Ley",
-    "start_char": 878,
-    "end_char": 881
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgpisdme:article:11:term-usage:50-83",
     "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:11",
     "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:fiscalias-o-procuradurias-locales",
@@ -223,15 +160,6 @@
     "span": "Ley",
     "start_char": 887,
     "end_char": 890
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpisdme:article:11:term-usage:926-929",
-    "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:11",
-    "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:ley",
-    "span": "Ley",
-    "start_char": 926,
-    "end_char": 929
   },
   {
     "schema_version": "0.1.0",
@@ -271,15 +199,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpisdme:article:12:term-usage:413-416",
-    "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:12",
-    "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:ley",
-    "span": "Ley",
-    "start_char": 413,
-    "end_char": 416
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgpisdme:article:12:term-usage:738-741",
     "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:12",
     "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:ley",
@@ -289,30 +208,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpisdme:article:12:term-usage:749-752",
-    "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:12",
-    "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:ley",
-    "span": "Ley",
-    "start_char": 749,
-    "end_char": 752
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgpisdme:article:12:term-usage:1442-1445",
     "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:12",
     "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:ley",
     "span": "Ley",
     "start_char": 1442,
     "end_char": 1445
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpisdme:article:12:term-usage:1546-1549",
-    "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:12",
-    "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:ley",
-    "span": "Ley",
-    "start_char": 1546,
-    "end_char": 1549
   },
   {
     "schema_version": "0.1.0",
@@ -505,24 +406,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpisdme:article:35:term-usage:284-287",
-    "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:35",
-    "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:ley",
-    "span": "Ley",
-    "start_char": 284,
-    "end_char": 287
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpisdme:article:36:term-usage:421-424",
-    "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:36",
-    "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:ley",
-    "span": "Ley",
-    "start_char": 421,
-    "end_char": 424
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgpisdme:article:39:term-usage:250-253",
     "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:39",
     "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:ley",
@@ -619,14 +502,5 @@
     "span": "Fiscalías o Procuradurías locales",
     "start_char": 359,
     "end_char": 392
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpisdme:transitory:decimo:term-usage:506-509",
-    "provision_id": "urn:lex-mx:federal:statute:lgpisdme:transitory:decimo",
-    "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:ley",
-    "span": "Ley",
-    "start_char": 506,
-    "end_char": 509
   }
 ]

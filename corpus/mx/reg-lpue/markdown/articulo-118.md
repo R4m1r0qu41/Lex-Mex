@@ -17,4 +17,4 @@ source_sha256: 0923a52e7c7ebeb9e136d5b72cba8e6c5852276de034f7fc76a74d7fdb0096b1
 
 # Artículo 118
 
-Queda prohibido fumar en las áreas contempladas en la [Ley](articulo-2.md) General para el Control del Tabaco.
+Queda prohibido fumar en las áreas contempladas en la Ley General para el Control del Tabaco.

@@ -856,15 +856,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:34:term-usage:452-455",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:34",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:ley",
-    "span": "Ley",
-    "start_char": 452,
-    "end_char": 455
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgife:article:34:term-usage:512-530",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:34",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:calidad-de-la-infe",
@@ -1132,15 +1123,6 @@
     "span": "Plantel Educativo",
     "start_char": 309,
     "end_char": 326
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:39:term-usage:487-490",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:39",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:ley",
-    "span": "Ley",
-    "start_char": 487,
-    "end_char": 490
   },
   {
     "schema_version": "0.1.0",
@@ -1582,15 +1564,6 @@
     "span": "Ley",
     "start_char": 234,
     "end_char": 237
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:73:term-usage:266-269",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:73",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:ley",
-    "span": "Ley",
-    "start_char": 266,
-    "end_char": 269
   },
   {
     "schema_version": "0.1.0",

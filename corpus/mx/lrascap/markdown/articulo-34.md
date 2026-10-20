@@ -23,7 +23,7 @@ La Comisión establecerá, mediante disposiciones de carácter general que facil
 
 Adicionalmente, el Comité de Supervisión del [Fondo de Protección](articulo-2.md) podrá ordenar que se efectúen las correcciones a los estados financieros que resulten procedentes de acuerdo a las disposiciones establecidas en la presente Ley y en las disposiciones de carácter general que expida la Comisión.
 
-Los estados financieros anuales deberán estar dictaminados por un auditor externo independiente, quien será designado directamente por el Consejo de Administración de la Sociedad de que se trate. La Comisión en disposiciones de carácter general podrá eximir de dicho dictamen a las Sociedades Cooperativas de Ahorro y Préstamo que tengan asignado los niveles de operaciones I y II, siempre y cuando el valor de sus activos sea inferior a lo que determine el Código Fiscal de la [Federación](articulo-2.md) en su
+Los estados financieros anuales deberán estar dictaminados por un auditor externo independiente, quien será designado directamente por el Consejo de Administración de la Sociedad de que se trate. La Comisión en disposiciones de carácter general podrá eximir de dicho dictamen a las Sociedades Cooperativas de Ahorro y Préstamo que tengan asignado los niveles de operaciones I y II, siempre y cuando el valor de sus activos sea inferior a lo que determine el Código Fiscal de la Federación en su
 
 Artículo 32-A, como supuesto para no encontrarse obligadas a dictaminar sus estados financieros para efectos fiscales en los términos del Artículo [52](articulo-52.md) del propio Código.
 

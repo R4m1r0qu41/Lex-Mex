@@ -10,15 +10,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfaebsp:article:1:term-usage:122-133",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfaebsp:article:1",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfaebsp:term:enajenacion",
-    "span": "Enajenación",
-    "start_char": 122,
-    "end_char": 133
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lfaebsp:article:1:term-usage:233-236",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfaebsp:article:1",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfaebsp:term:ley",
@@ -43,15 +34,6 @@
     "span": "Ley",
     "start_char": 1405,
     "end_char": 1408
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfaebsp:article:1:term-usage:1646-1657",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfaebsp:article:1",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfaebsp:term:enajenacion",
-    "span": "Enajenación",
-    "start_char": 1646,
-    "end_char": 1657
   },
   {
     "schema_version": "0.1.0",
@@ -97,15 +79,6 @@
     "span": "Ley",
     "start_char": 58,
     "end_char": 61
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfaebsp:article:7:term-usage:70-73",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfaebsp:article:7",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfaebsp:term:ley",
-    "span": "Ley",
-    "start_char": 70,
-    "end_char": 73
   },
   {
     "schema_version": "0.1.0",
@@ -595,30 +568,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfaebsp:article:56:term-usage:334-337",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfaebsp:article:56",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfaebsp:term:ley",
-    "span": "Ley",
-    "start_char": 334,
-    "end_char": 337
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lfaebsp:article:57:term-usage:512-518",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfaebsp:article:57",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfaebsp:term:comite",
     "span": "Comité",
     "start_char": 512,
     "end_char": 518
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfaebsp:article:57-bis:term-usage:143-146",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfaebsp:article:57-bis",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfaebsp:term:ley",
-    "span": "Ley",
-    "start_char": 143,
-    "end_char": 146
   },
   {
     "schema_version": "0.1.0",

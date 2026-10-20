@@ -4312,15 +4312,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:transitory:segundo:term-usage:390-417",
-    "provision_id": "urn:lex-mx:federal:statute:lih:transitory:segundo",
-    "term_id": "urn:lex-mx:federal:statute:lih:term:fondo-mexicano-del-petroleo",
-    "span": "Fondo Mexicano del Petróleo",
-    "start_char": 390,
-    "end_char": 417
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lih:transitory:segundo:term-usage:1031-1058",
     "provision_id": "urn:lex-mx:federal:statute:lih:transitory:segundo",
     "term_id": "urn:lex-mx:federal:statute:lih:term:fondo-mexicano-del-petroleo",
