@@ -21,6 +21,11 @@
 - **lan:** the 3 `Aguas Nacionales` inside its own title.
 - **Coverage:** 210 files change `usage_count`. Markdown: 1,177 files, link-only.
 
+**Operational consequence.**
+- An instrument's usages now depend on every committed instrument's title, so admitting a new instrument can drop usages in others that print its title.
+- `batch run`'s closure relinks only the batch's own instruments. Until `link --all` runs, `validate` reports `glossary_coverage_inconsistent` for any other instrument whose usages the new title changes.
+- After an admission, run `link --all` (the corpus closure) before validating or publishing the rest of the corpus.
+
 **For Codex review.**
 - **"La presente Ley".** A term whose definition is `la presente Ley` names no title, so its usages inside the instrument's own full title are dropped: lmigra 9, lgscmm 4. One reading is that the full title is not a use of the shorthand. The 2026-10-18 design would keep a usage whose title names the defined referent, which here needs a referent binding for self-reference.
 - **Not covered.**
