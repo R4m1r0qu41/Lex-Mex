@@ -1,5 +1,28 @@
 # Architecture decisions
 
+## 2026-10-21 — Resolved structural debt retains accepted history; seed version 3
+
+Three operator-accepted LGS headings are standalone provisions at
+`cd6cd22451437322287b974c23349b6d6ca9a33a`: 60 Decies, 192 Quintus and 192 Sextus.
+This is technical resolution of accepted debt, not reversal of a legal decision.
+The October 18 decision and October 19 accepted review ledger remain byte-identical.
+
+The production seed is version 3: 14 active rows plus 3 retirement records. Each
+retirement retains its exact original accepted row, resolving ancestor commit,
+standalone provision ID and resolving source blob/SHA. Active plus retired rows
+must equal all 17 accepted rows exactly, including review metadata; duplicates,
+drops, substitutions and promotions are rejected. Retired rows are excluded
+from active SQL debt rows but preserved in the raw pinned seed input. Both the
+builder and independent verifier check historical acceptance/span and resolving
+and current target existence, owner/type/number/body, ancestor history and removal
+of the original embedded heading. A later missing target invalidates retirement.
+Version-2 seeds remain accepted with their original exact-active-set rule.
+
+This reuses the reconciliation-history principle from the October 19 refresh
+without inventing an unchecked `resolved` review status, rebinding acceptance to
+an uncommitted ledger or editing old human decisions.
+
+
 ## 2026-10-21 — Heading-leak sources re-fetched; 39 instruments reparsed; three parser defects fixed
 
 **Why.** The 2026-10-19 heading-leak reparse covered only instruments with hash-matching retained source and left the rest as debt. A census at `e718da2e5` counted 725 provisions in 51 instruments whose text ends with the next heading. It used the recorded pattern widened to `Libro`, `Único`, ordinal words and names up to 120 characters; the recorded pattern alone gives 462 in 43. A spot check of the added matches found only real headings (`Sección Segunda …`, `Capítulo Único`). 46 of the 51 lacked retained source.

@@ -453,8 +453,9 @@ fn colon_ordinal_article_body<'a>(block: &'a str, ordinals: &[String]) -> Option
 /// Either decree-wrapper form the main article loop discards outright:
 /// neither appended to the current provision's text nor started as a new
 /// one.
-fn is_dropped_decree_block(block: &str, ordinals: &[String]) -> bool {
-    is_decree_article_wrapper(block, ordinals) || is_dot_redacted_decree_article(block, ordinals)
+fn is_dropped_decree_block(block: &str, ordinals: &[String], headers: &[String]) -> bool {
+    is_decree_article_wrapper(block, ordinals, headers)
+        || is_dot_redacted_decree_article(block, ordinals)
 }
 
 /// The leading base number of an article label (`70-A` → 70, `1o` → 1),
@@ -613,7 +614,7 @@ fn is_enactment_signature(block: &str) -> bool {
 
 /// A later decree's heading adding a transitory to the law itself, printed
 /// after the law's own signatures. Only the law's name may follow it.
-fn is_added_statute_transitory_heading(block: &str) -> bool {
+fn is_added_statute_transitory_heading(block: &str, headers: &[String]) -> bool {
     static HEADING: std::sync::LazyLock<Regex> = std::sync::LazyLock::new(|| {
         Regex::new(
             r"^SE (?:ESTABLECEN?|ADICIONAN?) (?:UN |EL |LOS )?ART[ÍI]CULOS? TRANSITORIOS? [ÚU]NICO DE LA LEY [^.]+\.?$",
@@ -621,6 +622,14 @@ fn is_added_statute_transitory_heading(block: &str) -> bool {
         .expect("static added-transitory heading regex")
     });
     HEADING.is_match(block)
+        && block.split_once(" DE LA ").is_some_and(|(_, title)| {
+            headers.iter().any(|header| {
+                collapse_whitespace(header)
+                    .to_uppercase()
+                    .trim_end_matches('.')
+                    == title.trim_end_matches('.')
+            })
+        })
 }
 
 fn is_judicial_appendix(block: &str) -> bool {
@@ -680,7 +689,7 @@ fn is_transitory_section_header(block: &str) -> bool {
 /// Segundo a Artículo Cuarto.- ……` (elided decree articles). An ordinal
 /// heading alone is insufficient because older statutes can use `Artículo
 /// Primero` and `Artículo Segundo` for their operative provisions.
-fn is_decree_article_wrapper(block: &str, ordinals: &[String]) -> bool {
+fn is_decree_article_wrapper(block: &str, ordinals: &[String], headers: &[String]) -> bool {
     let Some((rest, plural)) = [
         ("Artículo ", false),
         ("Artículos ", true),
@@ -720,14 +729,16 @@ fn is_decree_article_wrapper(block: &str, ordinals: &[String]) -> bool {
         // An omnibus decree's article may only name the law it carries
         // (lsar: `ARTICULO PRIMERO.- De la Ley de los Sistemas de Ahorro
         // para el Retiro.`); the whole block is that one name.
-        || (body.starts_with("DE LA LEY ") && !body.trim_end_matches('.').contains('.'))
+        || body.trim_end_matches('.').strip_prefix("DE LA ").is_some_and(|title| {
+            headers.iter().any(|header| collapse_whitespace(header).to_uppercase().trim_end_matches('.') == title)
+        })
 }
 
-fn is_plural_decree_article_wrapper(block: &str, ordinals: &[String]) -> bool {
+fn is_plural_decree_article_wrapper(block: &str, ordinals: &[String], headers: &[String]) -> bool {
     ["Artículos ", "ARTÍCULOS ", "ARTICULOS "]
         .iter()
         .any(|prefix| block.starts_with(prefix))
-        && is_decree_article_wrapper(block, ordinals)
+        && is_decree_article_wrapper(block, ordinals, headers)
 }
 
 /// The enacting decree's own title says it issues a law *and* amends others
@@ -1308,7 +1319,7 @@ fn partition_enactment(
     let ordinals = transitory_ordinals();
     let wrapper = blocks
         .iter()
-        .position(|b| is_decree_article_wrapper(b, &ordinals))
+        .position(|b| is_decree_article_wrapper(b, &ordinals, &options.header_lines))
         .ok_or_else(|| anyhow::anyhow!("enactment partition lacks enacting article wrapper"))?;
     let containing_act_title = blocks[..wrapper]
         .iter()
@@ -1517,7 +1528,7 @@ pub fn parse_diputados_publication(
             // after the original signatures (locg: `SE ESTABLECE UN ARTÍCULO
             // TRANSITORIO ÚNICO DE LA LEY …`, DOF 15-11-2007). Its heading
             // reopens the statute transitories; anything else ends the law.
-            if is_added_statute_transitory_heading(&block) {
+            if is_added_statute_transitory_heading(&block, &options.header_lines) {
                 after_enactment_signature = false;
                 continue;
             }
@@ -1648,7 +1659,9 @@ pub fn parse_diputados_publication(
             if block.starts_with("DECRETO por") || block.starts_with("REFORMAS Y ADICIONES") {
                 break;
             }
-            if omnibus_enactment && is_plural_decree_article_wrapper(&block, &ordinals) {
+            if omnibus_enactment
+                && is_plural_decree_article_wrapper(&block, &ordinals, &options.header_lines)
+            {
                 if let Some(builder) = current.take() {
                     provisions.push(builder.finish(
                         &options.instrument_id,
@@ -1718,7 +1731,7 @@ pub fn parse_diputados_publication(
                 continue;
             }
         } else {
-            if is_dropped_decree_block(&block, &ordinals) {
+            if is_dropped_decree_block(&block, &ordinals, &options.header_lines) {
                 if let Some(builder) = current.take() {
                     provisions.push(builder.finish(
                         &options.instrument_id,
@@ -3648,8 +3661,47 @@ mod tests {
         let ordinals = super::transitory_ordinals();
         assert!(!super::is_decree_article_wrapper(
             "ARTICULO PRIMERO.- De la Ley anterior se derogan los artículos 3 y 4. Texto.",
-            &ordinals
+            &ordinals,
+            &["LEY DE LOS SISTEMAS DE AHORRO PARA EL RETIRO".into()]
         ));
+        assert!(!super::is_decree_article_wrapper(
+            "ARTICULO PRIMERO.- De la Ley anterior se derogan los artículos 3 y 4.",
+            &ordinals,
+            &["LEY ANTERIOR".into()]
+        ));
+        assert!(!super::is_decree_article_wrapper(
+            "ARTICULO PRIMERO.- De la Ley de Otro Instrumento.",
+            &ordinals,
+            &["LEY DE LOS SISTEMAS DE AHORRO PARA EL RETIRO".into()]
+        ));
+    }
+
+    #[test]
+    fn a_single_sentence_about_a_law_is_preserved_as_operative_text() {
+        let document = parse_diputados(
+            include_str!("../../../fixtures/diputados/law-title-prose-is-not-wrapper-sample.txt"),
+            &options("urn:lex-mx:federal:statute:sample", "Ley anterior"),
+            NaiveDate::from_ymd_opt(2026, 1, 1).unwrap(),
+        )
+        .unwrap();
+        assert!(document.provisions.iter().any(|p| {
+            p.text
+                .contains("De la Ley anterior se derogan los artículos 3 y 4.")
+        }));
+    }
+
+    #[test]
+    fn added_transitory_heading_must_name_the_configured_law() {
+        let heading = "SE ESTABLECE UN ARTÍCULO TRANSITORIO ÚNICO DE LA LEY ORGÁNICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS.";
+        assert!(super::is_added_statute_transitory_heading(
+            heading,
+            &["LEY ORGÁNICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS".into()]
+        ));
+        assert!(!super::is_added_statute_transitory_heading(
+            heading,
+            &["LEY DE OTRO INSTRUMENTO".into()]
+        ));
+        assert!(!super::is_added_statute_transitory_heading(heading, &[]));
     }
 
     #[test]
@@ -3714,10 +3766,12 @@ mod tests {
         assert!(!unico.contains("Rúbrica"), "{unico}");
         assert!(!unico.contains("DECRETOS DE REFORMA"), "{unico}");
         assert!(super::is_added_statute_transitory_heading(
-            "SE ESTABLECE UN ARTÍCULO TRANSITORIO ÚNICO DE LA LEY ORGÁNICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS."
+            "SE ESTABLECE UN ARTÍCULO TRANSITORIO ÚNICO DE LA LEY ORGÁNICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS.",
+            &["LEY ORGÁNICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS".into()]
         ));
         assert!(!super::is_added_statute_transitory_heading(
-            "SE ESTABLECE UN ARTÍCULO TRANSITORIO ÚNICO DE LA LEY ORGÁNICA. Artículo 1. Texto."
+            "SE ESTABLECE UN ARTÍCULO TRANSITORIO ÚNICO DE LA LEY ORGÁNICA. Artículo 1. Texto.",
+            &["LEY ORGÁNICA".into()]
         ));
     }
 

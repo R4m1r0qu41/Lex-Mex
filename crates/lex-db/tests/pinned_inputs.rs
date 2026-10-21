@@ -308,3 +308,68 @@ fn inherited_review_requires_matching_historical_hash_and_series_checked_identit
     seed["source_corpus_commit"] = json!(f.pinned);
     assert!(!f.check(&seed));
 }
+
+#[test]
+fn retired_debt_requires_exact_accepted_partition_and_ancestor_resolution_proof() {
+    let mut f = setup();
+    let old = f.seed["rows"][0].clone();
+    let raw = f.input().read(SOURCE).unwrap();
+    let mut provisions: Value = serde_json::from_slice(&raw).unwrap();
+    let mut article = provisions[0].clone();
+    article["id"] = json!(format!(
+        "{}:article:9",
+        old["instrument_id"].as_str().unwrap()
+    ));
+    article["number"] = json!("9");
+    article["label"] = json!("Artículo 9");
+    article["text"] = json!("Nueve.");
+    let text = provisions[0]["text"]
+        .as_str()
+        .unwrap()
+        .replace("Artículo 9.- Nueve.\n\n", "");
+    provisions[0]["text"] = json!(text);
+    provisions.as_array_mut().unwrap().push(article.clone());
+    save(f.root(), SOURCE, &serde_json::to_vec(&provisions).unwrap());
+    let resolved = commit(f.root());
+    let source = GitInput::new(f.root(), &resolved).unwrap();
+    f.seed["schema_version"] = json!("3");
+    f.seed["rows"] = json!([]);
+    f.seed["retirements"] = json!([{"row":old,"resolved_at_commit":resolved,"provision_id":article["id"],"source_path":SOURCE,"source_blob_oid":source.blob_oid(SOURCE).unwrap(),"source_sha256":digest(&source.read(SOURCE).unwrap())}]);
+    f.pinned = resolved;
+    assert!(f.check(&f.seed));
+    for field in [
+        "resolved_at_commit",
+        "provision_id",
+        "source_blob_oid",
+        "source_sha256",
+    ] {
+        let mut bad = f.seed.clone();
+        bad["retirements"][0][field] = json!(if field == "source_sha256" {
+            "0".repeat(64)
+        } else if field == "provision_id" {
+            "urn:absent".into()
+        } else {
+            "0".repeat(40)
+        });
+        assert!(!f.check(&bad), "{field}");
+    }
+    let mut dropped = f.seed.clone();
+    dropped["retirements"] = json!([]);
+    assert!(!f.check(&dropped));
+    let mut duplicate = f.seed.clone();
+    duplicate["rows"] = json!([old]);
+    assert!(!f.check(&duplicate));
+    let mut promoted = f.seed.clone();
+    promoted["retirements"][0]["row"] = f.review["rows"][1].clone();
+    assert!(!f.check(&promoted));
+    let mut invented = f.seed.clone();
+    invented["retirements"][0]["row"]["reviewer"] = json!("invented");
+    assert!(!f.check(&invented));
+    let mut v2 = f.seed.clone();
+    v2["schema_version"] = json!("2");
+    assert!(!f.check(&v2));
+    provisions.as_array_mut().unwrap().pop();
+    save(f.root(), SOURCE, &serde_json::to_vec(&provisions).unwrap());
+    f.pinned = commit(f.root());
+    assert!(!f.check(&f.seed));
+}
