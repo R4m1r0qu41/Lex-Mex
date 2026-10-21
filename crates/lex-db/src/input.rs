@@ -1,0 +1,329 @@
+use crate::{
+    contract::{DEBT_PATH, Handling, InputFile, validate_seed},
+    digest,
+};
+use anyhow::{Context, Result, ensure};
+use serde::Serialize;
+use std::{
+    collections::{BTreeMap, BTreeSet},
+    path::{Path, PathBuf},
+    process::Command,
+};
+
+pub struct GitInput {
+    root: PathBuf,
+    pub commit: String,
+}
+
+impl GitInput {
+    pub fn new(root: &Path, commit: &str) -> Result<Self> {
+        ensure!(
+            commit.len() == 40 && commit.bytes().all(|b| b.is_ascii_hexdigit()),
+            "require full 40-character commit OID"
+        );
+        let git = Self {
+            root: root.to_owned(),
+            commit: commit.to_owned(),
+        };
+        ensure!(
+            git.command(&["rev-parse", "--verify", &format!("{commit}^{{commit}}")])?
+                .trim()
+                == commit,
+            "not a commit object"
+        );
+        Ok(git)
+    }
+    pub fn at(&self, commit: &str) -> Result<Self> {
+        Self::new(&self.root, commit)
+    }
+    pub(crate) fn command(&self, args: &[&str]) -> Result<String> {
+        let output = Command::new("git")
+            .arg("-C")
+            .arg(&self.root)
+            .args(args)
+            .output()?;
+        ensure!(
+            output.status.success(),
+            "git failed: {}",
+            String::from_utf8_lossy(&output.stderr)
+        );
+        Ok(String::from_utf8(output.stdout)?)
+    }
+    pub fn require_ancestor(&self, commit: &str) -> Result<()> {
+        Self::new(&self.root, commit)?;
+        let result = Command::new("git")
+            .arg("-C")
+            .arg(&self.root)
+            .args(["merge-base", "--is-ancestor", commit, &self.commit])
+            .status()?;
+        ensure!(
+            result.success(),
+            "seed source commit is not an ancestor of input commit"
+        );
+        Ok(())
+    }
+    pub fn read(&self, path: &str) -> Result<Vec<u8>> {
+        crate::contract::safe_path(path)?;
+        let output = Command::new("git")
+            .arg("-C")
+            .arg(&self.root)
+            .args(["cat-file", "blob", &format!("{}:{path}", self.commit)])
+            .output()?;
+        ensure!(
+            output.status.success(),
+            "missing pinned input {path}: {}",
+            String::from_utf8_lossy(&output.stderr)
+        );
+        Ok(output.stdout)
+    }
+    pub fn blob_oid(&self, path: &str) -> Result<String> {
+        crate::contract::safe_path(path)?;
+        Ok(self
+            .command(&["rev-parse", &format!("{}:{path}", self.commit)])?
+            .trim()
+            .to_owned())
+    }
+    pub fn paths(&self) -> Result<Vec<String>> {
+        let output = self.command(&["ls-tree", "-r", "-z", "--name-only", &self.commit])?;
+        Ok(output
+            .split('\0')
+            .filter(|s| !s.is_empty())
+            .map(str::to_owned)
+            .collect())
+    }
+}
+
+/// Complete per-path policy for the declared federal model and standards catalogue.
+/// Unknown canonical JSON fails, even when a caller could preserve its raw bytes.
+pub fn handling(path: &str, standards: &BTreeSet<String>) -> Result<Handling> {
+    let parts: Vec<_> = path.split('/').collect();
+    ensure!(
+        parts.len() == 4 && parts[..2] == ["corpus", "mx"],
+        "unsupported canonical layout: {path}"
+    );
+    let name = parts[3];
+    if standards.contains(parts[2]) {
+        return match name {
+            "standard.json" | "validation.json" => Ok(Handling::EvidenceOnly),
+            "clauses.json" | "transitories.json" | "supplements.json" | "extracted-text.txt" => {
+                Ok(Handling::ExcludedStandardBody)
+            }
+            _ => anyhow::bail!("unknown standard input: {path}"),
+        };
+    }
+    match name {
+        "instrument.json"
+        | "provisions.json"
+        | "references.json"
+        | "terms.json"
+        | "term-usages.json"
+        | "glossary-coverage.json"
+        | "enactment-evidence.json"
+        | "source-manifest.json"
+        | "formal-source-manifest.json"
+        | "annex-source-manifests.json" => Ok(Handling::Normalized),
+        "validation.json"
+        | "reform-temporal-evidence.json"
+        | "amendment-references.json"
+        | "temporal-analysis-request.json"
+        | "temporal-analysis-result.json"
+        | "review-queue.json" => Ok(Handling::EvidenceOnly),
+        _ => anyhow::bail!("unknown federal input: {path}"),
+    }
+}
+
+#[derive(Debug, Serialize)]
+pub struct Inspection {
+    pub schema_version: String,
+    pub corpus_commit: String,
+    pub files: Vec<InputFile>,
+    pub federal_instruments: usize,
+    pub standards_catalogue: usize,
+    pub accepted_debt_rows: usize,
+}
+
+#[derive(Debug, serde::Deserialize)]
+#[serde(deny_unknown_fields)]
+struct InventoryPolicy {
+    schema_version: String,
+    evidence_paths: Vec<String>,
+    reference_files: Vec<String>,
+}
+
+pub const POLICY_PATH: &str = "adapters/shared/_database-input-policy.json";
+
+fn read_policy(git: &GitInput, seed: &crate::contract::DebtSeed) -> Result<InventoryPolicy> {
+    let value: serde_json::Value = serde_json::from_slice(&git.read(POLICY_PATH)?)?;
+    let schema: serde_json::Value = serde_json::from_str(include_str!(
+        "../../../schemas/database-input-policy.schema.json"
+    ))?;
+    jsonschema::validator_for(&schema)?
+        .validate(&value)
+        .map_err(|e| anyhow::anyhow!(e.to_string()))?;
+    let policy: InventoryPolicy = serde_json::from_value(value)?;
+    ensure!(
+        policy.schema_version == "1",
+        "unknown inventory policy version"
+    );
+    for path in policy.evidence_paths.iter().chain(&policy.reference_files) {
+        crate::contract::safe_path(path)?;
+    }
+    for path in [&seed.review_source_path, &seed.decision_source_path] {
+        ensure!(
+            policy.evidence_paths.contains(path),
+            "policy omits required decision/review evidence: {path}"
+        );
+    }
+    let review: serde_json::Value = serde_json::from_slice(&git.read(&seed.review_source_path)?)?;
+    if let Some(candidates) = review["candidates_source"].as_str() {
+        ensure!(
+            policy.evidence_paths.iter().any(|p| p == candidates),
+            "policy omits reviewed candidates"
+        );
+        ensure!(
+            Some(digest(&git.read(candidates)?).as_str()) == review["candidates_sha256"].as_str(),
+            "reviewed candidates digest mismatch"
+        );
+    }
+    Ok(policy)
+}
+
+fn selected_inputs(
+    git: &GitInput,
+    paths: &[String],
+    standards: &BTreeSet<String>,
+    seed: &crate::contract::DebtSeed,
+) -> Result<BTreeMap<String, Handling>> {
+    let policy = read_policy(git, seed)?;
+    let mut selected = BTreeMap::new();
+    for path in paths {
+        if path.starts_with("corpus/mx/") {
+            // Every generated presentation artifact is outside canonical scope,
+            // including the historically exported JSON evidence sidecar.
+            if path.split('/').nth(3) != Some("markdown") {
+                selected.insert(path.clone(), handling(path, standards)?);
+            }
+        } else if path.starts_with("corpus/") {
+            ensure!(
+                policy.reference_files.contains(path),
+                "undeclared corpus reference input: {path}"
+            );
+            selected.insert(path.clone(), Handling::EvidenceOnly);
+        } else if ((path.starts_with("adapters/") || path.starts_with("schemas/"))
+            && Path::new(path)
+                .extension()
+                .is_some_and(|e| e.eq_ignore_ascii_case("json")))
+            || policy.evidence_paths.contains(path)
+        {
+            selected.insert(path.clone(), Handling::EvidenceOnly);
+        }
+    }
+    for path in policy.evidence_paths.iter().chain(&policy.reference_files) {
+        ensure!(
+            selected.contains_key(path),
+            "declared inventory input absent: {path}"
+        );
+    }
+    for path in [
+        DEBT_PATH,
+        POLICY_PATH,
+        "adapters/diputados/_closure-accepted-gaps.json",
+    ] {
+        ensure!(
+            selected.contains_key(path),
+            "required inventory input absent: {path}"
+        );
+    }
+    Ok(selected)
+}
+
+fn required_federal_inputs(paths: &[String], federal: &[String]) -> Result<()> {
+    let present: BTreeSet<_> = paths.iter().map(String::as_str).collect();
+    for instrument in federal {
+        let directory = instrument
+            .rsplit_once('/')
+            .context("invalid instrument path")?
+            .0;
+        for name in [
+            "instrument.json",
+            "provisions.json",
+            "references.json",
+            "terms.json",
+            "term-usages.json",
+            "source-manifest.json",
+            "glossary-coverage.json",
+            "validation.json",
+        ] {
+            ensure!(
+                present.contains(format!("{directory}/{name}").as_str()),
+                "missing required input: {directory}/{name}"
+            );
+        }
+    }
+    Ok(())
+}
+
+pub fn inspect(root: &Path, commit: &str) -> Result<Inspection> {
+    Ok(snapshot(root, commit)?.0)
+}
+
+pub type Snapshot = BTreeMap<String, Vec<u8>>;
+
+/// Read immutable inputs once; descriptors and loaded bytes cannot diverge.
+pub fn snapshot(root: &Path, commit: &str) -> Result<(Inspection, Snapshot)> {
+    let git = GitInput::new(root, commit)?;
+    let paths = git.paths()?;
+    let standards: BTreeSet<_> = paths
+        .iter()
+        .filter(|p| {
+            p.starts_with("corpus/mx/")
+                && p.split('/').count() == 4
+                && p.ends_with("/standard.json")
+        })
+        .map(|p| p.split('/').nth(2).unwrap_or_default().to_owned())
+        .collect();
+    let federal: Vec<_> = paths
+        .iter()
+        .filter(|p| {
+            p.starts_with("corpus/mx/")
+                && p.split('/').count() == 4
+                && p.ends_with("/instrument.json")
+        })
+        .cloned()
+        .collect();
+    required_federal_inputs(&paths, &federal)?;
+    let seed = validate_seed(&git, &git.read(DEBT_PATH)?)?;
+    let selected = selected_inputs(&git, &paths, &standards, &seed)?;
+    let mut snapshot = BTreeMap::new();
+    let files = selected
+        .into_iter()
+        .map(|(path, handling)| {
+            let bytes = git.read(&path)?;
+            if Path::new(&path)
+                .extension()
+                .is_some_and(|ext| ext.eq_ignore_ascii_case("json"))
+            {
+                let _: serde_json::Value = serde_json::from_slice(&bytes)
+                    .with_context(|| format!("invalid JSON: {path}"))?;
+            }
+            snapshot.insert(path.clone(), bytes.clone());
+            Ok(InputFile {
+                path,
+                sha256: digest(&bytes),
+                bytes: u64::try_from(bytes.len())?,
+                handling,
+            })
+        })
+        .collect::<Result<Vec<_>>>()?;
+    Ok((
+        Inspection {
+            schema_version: crate::contract::VERSION.into(),
+            corpus_commit: git.commit,
+            files,
+            federal_instruments: federal.len(),
+            standards_catalogue: standards.len(),
+            accepted_debt_rows: seed.rows.len(),
+        },
+        snapshot,
+    ))
+}

@@ -13,6 +13,7 @@ anyhow.workspace = true
 chrono.workspace = true
 clap.workspace = true
 lex-core = { path = "../lex-core" }
+lex-db = { path = "../lex-db" }
 lex-export = { path = "../lex-export" }
 lex-parse = { path = "../lex-parse" }
 lex-source = { path = "../lex-source" }

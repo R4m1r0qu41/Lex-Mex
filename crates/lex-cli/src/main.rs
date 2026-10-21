@@ -38,6 +38,7 @@ use lex_source::{
 use regex::Regex;
 
 mod bundle;
+mod db;
 mod review_packets;
 mod standards;
 
@@ -59,6 +60,11 @@ struct Cli {
 
 #[derive(Debug, Subcommand)]
 enum Command {
+    /// Inspect database contracts without building a full corpus projection.
+    Db {
+        #[command(subcommand)]
+        command: db::DbCommand,
+    },
     /// List the committed instruments available to consumer applications.
     Instruments {
         /// Emit a JSON array instead of tab-separated text.
@@ -407,6 +413,7 @@ fn dispatch(root: &Path, obsidian_vault: Option<&Path>, command: Command) -> Res
             run_consumer_command(root, command)?;
         }
         Command::Bundle { command } => bundle::run_bundle_command(root, command)?,
+        Command::Db { command } => db::run(root, command)?,
         Command::Standards { command } => standards::run_standards_command(root, command)?,
         Command::AuditFurniture { pdf, json } => run_audit_furniture(root, &pdf, json)?,
         Command::Discover { source } => run_discover(root, &source)?,
@@ -490,15 +497,13 @@ fn dispatch(root: &Path, obsidian_vault: Option<&Path>, command: Command) -> Res
             let context = instrument_context(root, &instrument)?;
             run_review_command(root, &context, obsidian_vault, command)?;
         }
-        Command::Batch { command } => {
-            run_batch_command(root, obsidian_vault, command)?;
+        Command::Batch { command } => run_batch_command(root, obsidian_vault, command)?,
+        Command::Adapter {
+            command: AdapterCommand::Scaffold { batch, slug },
+        } => {
+            scaffold_adapter(root, &batch, &slug)?;
+            preflight_adapter_uniqueness(root)?;
         }
-        Command::Adapter { command } => match command {
-            AdapterCommand::Scaffold { batch, slug } => {
-                scaffold_adapter(root, &batch, &slug)?;
-                preflight_adapter_uniqueness(root)?;
-            }
-        },
         Command::ReviewPackets { command } => review_packets::run_review_packets(root, command)?,
     }
     Ok(())

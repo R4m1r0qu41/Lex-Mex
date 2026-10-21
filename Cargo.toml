@@ -5,6 +5,7 @@ members = [
     "crates/lex-parse",
     "crates/lex-export",
     "crates/lex-cli",
+    "crates/lex-db",
 ]
 resolver = "2"
 

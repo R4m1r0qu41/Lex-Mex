@@ -1,0 +1,117 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "release_id",
+    "specification",
+    "database_sha256",
+    "logical_content_sha256"
+  ],
+  "properties": {
+    "schema_version": {
+      "const": "2"
+    },
+    "release_id": {
+      "type": "string",
+      "pattern": "^[a-f0-9]{64}$"
+    },
+    "specification": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "schema_version",
+        "corpus_commit",
+        "builder_commit",
+        "cargo_lock_sha256",
+        "rust_toolchain",
+        "sqlite_version",
+        "sqlite_compile_options",
+        "source_commit_timestamp",
+        "inclusion_policy",
+        "inputs",
+        "logical_digest_policy"
+      ],
+      "properties": {
+        "schema_version": {
+          "const": "2"
+        },
+        "corpus_commit": {
+          "type": "string",
+          "pattern": "^[a-f0-9]{40}$"
+        },
+        "builder_commit": {
+          "type": "string",
+          "pattern": "^[a-f0-9]{40}$"
+        },
+        "cargo_lock_sha256": {
+          "type": "string",
+          "pattern": "^[a-f0-9]{64}$"
+        },
+        "rust_toolchain": {
+          "type": "string"
+        },
+        "sqlite_version": {
+          "type": "string"
+        },
+        "sqlite_compile_options": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "source_commit_timestamp": {
+          "type": "integer"
+        },
+        "inclusion_policy": {
+          "const": "federal_with_standards_catalogue"
+        },
+        "inputs": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "path",
+              "sha256",
+              "bytes",
+              "handling"
+            ],
+            "properties": {
+              "path": {
+                "type": "string"
+              },
+              "sha256": {
+                "type": "string",
+                "pattern": "^[a-f0-9]{64}$"
+              },
+              "bytes": {
+                "type": "integer",
+                "minimum": 0
+              },
+              "handling": {
+                "enum": [
+                  "normalized",
+                  "evidence_only",
+                  "excluded_standard_body"
+                ]
+              }
+            }
+          }
+        },
+        "logical_digest_policy": {
+          "const": "relational_content_v2"
+        }
+      }
+    },
+    "database_sha256": {
+      "type": "string",
+      "pattern": "^[a-f0-9]{64}$"
+    },
+    "logical_content_sha256": {
+      "type": "string",
+      "pattern": "^[a-f0-9]{64}$"
+    }
+  }
+}

@@ -1,0 +1,815 @@
+{
+  "corpus_commit": "bfcda816f46b8b0c1d694fc1f2cfb8b4438275b2",
+  "prior_review_sha256": "8d8ee42e28e9eccde6968b0e471da4f10581222f707bd36a02c3fcccbd2b2200",
+  "detector_script_sha256": "c75bf0925ea1a44da3b500f235979ab6b91546e71d8951ef7f8c210905fd5d8b",
+  "refresh_script_sha256": "a54e3a03385ac9b4ba74483ef51c2018a84a9f4f6776a5ca423158a20234c1a6",
+  "decision_source_sha256": "5dab2f8d004e809ca509779633b9aba5341ca0ca1eee5972bf4bd61a09826ae9",
+  "census": {
+    "instruments": 468,
+    "provisions": 68328,
+    "provision_article": 64822,
+    "provision_transitory": 3476,
+    "references": 35949,
+    "title_anchors": 15,
+    "qualifiers": 12360,
+    "approvals": 17,
+    "operator_reviews": 16,
+    "edges_without_resolution_rule": 2606,
+    "terms": 5734,
+    "term_usages": 102204,
+    "provision_annex": 30
+  },
+  "reference_status_counts": {
+    "resolved": 35928,
+    "historical_superseded_reference_outdated": 17,
+    "historical_target_unavailable": 4
+  },
+  "reference_form_counts": {
+    "direct": 31927,
+    "relative": 2625,
+    "range_expansion": 1397
+  },
+  "qualifier_type_counts": {
+    "fraction": 8712,
+    "paragraph": 2837,
+    "subsection": 811
+  },
+  "glossary_coverage_counts": {
+    "none_detected": 145,
+    "detected": 299,
+    "held": 6,
+    "configured": 18
+  },
+  "accepted_gaps": [
+    {
+      "slug": "cub-dcg-2005",
+      "reason": "Held for the operator DCG pass (Bis N headings are not parsed in the DCGs); the cited target is absent from the committed text.",
+      "errors": [
+        "unresolved_internal_reference: internal reference target does not exist: urn:lex-mx:federal:regulation:cub-dcg-2005:article:319-bis",
+        "unresolved_internal_reference: internal reference target does not exist: urn:lex-mx:federal:regulation:cub-dcg-2005:article:319-bis",
+        "unresolved_internal_reference: internal reference target does not exist: urn:lex-mx:federal:regulation:cub-dcg-2005:article:319-bis",
+        "unresolved_internal_reference: internal reference target does not exist: urn:lex-mx:federal:regulation:cub-dcg-2005:article:319-bis",
+        "unresolved_internal_reference: internal reference target does not exist: urn:lex-mx:federal:regulation:cub-dcg-2005:article:319-bis",
+        "unresolved_internal_reference: internal reference target does not exist: urn:lex-mx:federal:regulation:cub-dcg-2005:article:319-bis",
+        "unresolved_internal_reference: internal reference target does not exist: urn:lex-mx:federal:regulation:cub-dcg-2005:article:319-bis",
+        "unresolved_internal_reference: internal reference target does not exist: urn:lex-mx:federal:regulation:cub-dcg-2005:article:319-bis",
+        "unresolved_internal_reference: internal reference target does not exist: urn:lex-mx:federal:regulation:cub-dcg-2005:article:319-bis-5"
+      ]
+    },
+    {
+      "slug": "cucb-dcg-2004",
+      "reason": "Held for the operator DCG pass (Bis N headings are not parsed in the DCGs); the cited target is absent from the committed text.",
+      "errors": [
+        "unresolved_internal_reference: internal reference target does not exist: urn:lex-mx:federal:regulation:cucb-dcg-2004:article:117-bis-5"
+      ]
+    },
+    {
+      "slug": "lftr",
+      "reason": "Cites LGTAIP article 180 Bis, which is absent from the committed LGTAIP; the operator could not find the reference in either law (held-instruments review: unverified).",
+      "errors": [
+        "unresolved_internal_reference: cross-instrument reference target does not exist: urn:lex-mx:federal:statute:lgtaip:article:180-bis"
+      ]
+    },
+    {
+      "slug": "oaac-dcg-2009",
+      "reason": "Held for the operator DCG pass (Bis N headings are not parsed in the DCGs); the cited target is absent from the committed text.",
+      "errors": [
+        "unresolved_internal_reference: internal reference target does not exist: urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105-bis",
+        "unresolved_internal_reference: internal reference target does not exist: urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105-bis",
+        "unresolved_internal_reference: internal reference target does not exist: urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105-bis"
+      ]
+    },
+    {
+      "slug": "socap-sofipo-dcg-2006",
+      "reason": "Held for the operator DCG pass (Bis N headings are not parsed in the DCGs); the cited target is absent from the committed text.",
+      "errors": [
+        "unresolved_internal_reference: internal reference target does not exist: urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:48-bis",
+        "unresolved_internal_reference: internal reference target does not exist: urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:48-bis",
+        "unresolved_internal_reference: internal reference target does not exist: urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:48-bis"
+      ]
+    }
+  ],
+  "current_debt_counts": {
+    "accepted": 17,
+    "deferred": 10,
+    "rejected": 30
+  },
+  "resolved_old_debt": [
+    {
+      "instrument_id": "urn:lex-mx:federal:code:cpf",
+      "printed_label": "199 Quintus",
+      "old_containing_provision_id": "urn:lex-mx:federal:code:cpf:article:199-quater",
+      "current_provision_id": "urn:lex-mx:federal:code:cpf:article:199-quintus",
+      "status": "separately_parsed",
+      "verified_at_commit": "bfcda816f46b8b0c1d694fc1f2cfb8b4438275b2",
+      "source_path": "corpus/mx/cpf/provisions.json",
+      "source_blob_oid": "5e2d744488887e5bfcc7b5993d56bffa9239ad91",
+      "source_sha256": "4217dcae6ca54ef3ad984bfaa275f74f531054297611caed05b37f95791aabb6"
+    },
+    {
+      "instrument_id": "urn:lex-mx:federal:code:cpf",
+      "printed_label": "199 Sextus",
+      "old_containing_provision_id": "urn:lex-mx:federal:code:cpf:article:199-quater",
+      "current_provision_id": "urn:lex-mx:federal:code:cpf:article:199-sextus",
+      "status": "separately_parsed",
+      "verified_at_commit": "bfcda816f46b8b0c1d694fc1f2cfb8b4438275b2",
+      "source_path": "corpus/mx/cpf/provisions.json",
+      "source_blob_oid": "5e2d744488887e5bfcc7b5993d56bffa9239ad91",
+      "source_sha256": "4217dcae6ca54ef3ad984bfaa275f74f531054297611caed05b37f95791aabb6"
+    },
+    {
+      "instrument_id": "urn:lex-mx:federal:code:cpf",
+      "printed_label": "199 Decies",
+      "old_containing_provision_id": "urn:lex-mx:federal:code:cpf:article:199-nonies",
+      "current_provision_id": "urn:lex-mx:federal:code:cpf:article:199-decies",
+      "status": "separately_parsed",
+      "verified_at_commit": "bfcda816f46b8b0c1d694fc1f2cfb8b4438275b2",
+      "source_path": "corpus/mx/cpf/provisions.json",
+      "source_blob_oid": "5e2d744488887e5bfcc7b5993d56bffa9239ad91",
+      "source_sha256": "4217dcae6ca54ef3ad984bfaa275f74f531054297611caed05b37f95791aabb6"
+    },
+    {
+      "instrument_id": "urn:lex-mx:federal:statute:lac",
+      "printed_label": "78 Decies",
+      "old_containing_provision_id": "urn:lex-mx:federal:statute:lac:article:78-nonies",
+      "current_provision_id": "urn:lex-mx:federal:statute:lac:article:78-decies",
+      "status": "separately_parsed",
+      "verified_at_commit": "bfcda816f46b8b0c1d694fc1f2cfb8b4438275b2",
+      "source_path": "corpus/mx/lac/provisions.json",
+      "source_blob_oid": "19b8dc815b28e9170048196ab4eea4a008697283",
+      "source_sha256": "0e35dc2b6b092a72cd138767528a9022a98f7c504bcaf3b860738c632324bb68"
+    },
+    {
+      "instrument_id": "urn:lex-mx:federal:statute:lac",
+      "printed_label": "78 Undecies",
+      "old_containing_provision_id": "urn:lex-mx:federal:statute:lac:article:78-nonies",
+      "current_provision_id": "urn:lex-mx:federal:statute:lac:article:78-undecies",
+      "status": "separately_parsed",
+      "verified_at_commit": "bfcda816f46b8b0c1d694fc1f2cfb8b4438275b2",
+      "source_path": "corpus/mx/lac/provisions.json",
+      "source_blob_oid": "19b8dc815b28e9170048196ab4eea4a008697283",
+      "source_sha256": "0e35dc2b6b092a72cd138767528a9022a98f7c504bcaf3b860738c632324bb68"
+    },
+    {
+      "instrument_id": "urn:lex-mx:federal:statute:lac",
+      "printed_label": "78 Duodecies",
+      "old_containing_provision_id": "urn:lex-mx:federal:statute:lac:article:78-nonies",
+      "current_provision_id": "urn:lex-mx:federal:statute:lac:article:78-duodecies",
+      "status": "separately_parsed",
+      "verified_at_commit": "bfcda816f46b8b0c1d694fc1f2cfb8b4438275b2",
+      "source_path": "corpus/mx/lac/provisions.json",
+      "source_blob_oid": "19b8dc815b28e9170048196ab4eea4a008697283",
+      "source_sha256": "0e35dc2b6b092a72cd138767528a9022a98f7c504bcaf3b860738c632324bb68"
+    },
+    {
+      "instrument_id": "urn:lex-mx:federal:statute:lac",
+      "printed_label": "78 Terdecies",
+      "old_containing_provision_id": "urn:lex-mx:federal:statute:lac:article:78-nonies",
+      "current_provision_id": "urn:lex-mx:federal:statute:lac:article:78-terdecies",
+      "status": "separately_parsed",
+      "verified_at_commit": "bfcda816f46b8b0c1d694fc1f2cfb8b4438275b2",
+      "source_path": "corpus/mx/lac/provisions.json",
+      "source_blob_oid": "19b8dc815b28e9170048196ab4eea4a008697283",
+      "source_sha256": "0e35dc2b6b092a72cd138767528a9022a98f7c504bcaf3b860738c632324bb68"
+    },
+    {
+      "instrument_id": "urn:lex-mx:federal:statute:lac",
+      "printed_label": "78 Quaterdecies",
+      "old_containing_provision_id": "urn:lex-mx:federal:statute:lac:article:78-nonies",
+      "current_provision_id": "urn:lex-mx:federal:statute:lac:article:78-quaterdecies",
+      "status": "separately_parsed",
+      "verified_at_commit": "bfcda816f46b8b0c1d694fc1f2cfb8b4438275b2",
+      "source_path": "corpus/mx/lac/provisions.json",
+      "source_blob_oid": "19b8dc815b28e9170048196ab4eea4a008697283",
+      "source_sha256": "0e35dc2b6b092a72cd138767528a9022a98f7c504bcaf3b860738c632324bb68"
+    },
+    {
+      "instrument_id": "urn:lex-mx:federal:statute:lac",
+      "printed_label": "78 Quinquiesdecies",
+      "old_containing_provision_id": "urn:lex-mx:federal:statute:lac:article:78-nonies",
+      "current_provision_id": "urn:lex-mx:federal:statute:lac:article:78-quinquiesdecies",
+      "status": "separately_parsed",
+      "verified_at_commit": "bfcda816f46b8b0c1d694fc1f2cfb8b4438275b2",
+      "source_path": "corpus/mx/lac/provisions.json",
+      "source_blob_oid": "19b8dc815b28e9170048196ab4eea4a008697283",
+      "source_sha256": "0e35dc2b6b092a72cd138767528a9022a98f7c504bcaf3b860738c632324bb68"
+    },
+    {
+      "instrument_id": "urn:lex-mx:federal:statute:lac",
+      "printed_label": "78 Sexiesdecies",
+      "old_containing_provision_id": "urn:lex-mx:federal:statute:lac:article:78-nonies",
+      "current_provision_id": "urn:lex-mx:federal:statute:lac:article:78-sexiesdecies",
+      "status": "separately_parsed",
+      "verified_at_commit": "bfcda816f46b8b0c1d694fc1f2cfb8b4438275b2",
+      "source_path": "corpus/mx/lac/provisions.json",
+      "source_blob_oid": "19b8dc815b28e9170048196ab4eea4a008697283",
+      "source_sha256": "0e35dc2b6b092a72cd138767528a9022a98f7c504bcaf3b860738c632324bb68"
+    },
+    {
+      "instrument_id": "urn:lex-mx:federal:statute:lac",
+      "printed_label": "78 Septdecies",
+      "old_containing_provision_id": "urn:lex-mx:federal:statute:lac:article:78-nonies",
+      "current_provision_id": "urn:lex-mx:federal:statute:lac:article:78-septdecies",
+      "status": "separately_parsed",
+      "verified_at_commit": "bfcda816f46b8b0c1d694fc1f2cfb8b4438275b2",
+      "source_path": "corpus/mx/lac/provisions.json",
+      "source_blob_oid": "19b8dc815b28e9170048196ab4eea4a008697283",
+      "source_sha256": "0e35dc2b6b092a72cd138767528a9022a98f7c504bcaf3b860738c632324bb68"
+    },
+    {
+      "instrument_id": "urn:lex-mx:federal:statute:lac",
+      "printed_label": "78 Octodecies",
+      "old_containing_provision_id": "urn:lex-mx:federal:statute:lac:article:78-nonies",
+      "current_provision_id": "urn:lex-mx:federal:statute:lac:article:78-octodecies",
+      "status": "separately_parsed",
+      "verified_at_commit": "bfcda816f46b8b0c1d694fc1f2cfb8b4438275b2",
+      "source_path": "corpus/mx/lac/provisions.json",
+      "source_blob_oid": "19b8dc815b28e9170048196ab4eea4a008697283",
+      "source_sha256": "0e35dc2b6b092a72cd138767528a9022a98f7c504bcaf3b860738c632324bb68"
+    },
+    {
+      "instrument_id": "urn:lex-mx:federal:statute:lac",
+      "printed_label": "78 Novodecies",
+      "old_containing_provision_id": "urn:lex-mx:federal:statute:lac:article:78-nonies",
+      "current_provision_id": "urn:lex-mx:federal:statute:lac:article:78-novodecies",
+      "status": "separately_parsed",
+      "verified_at_commit": "bfcda816f46b8b0c1d694fc1f2cfb8b4438275b2",
+      "source_path": "corpus/mx/lac/provisions.json",
+      "source_blob_oid": "19b8dc815b28e9170048196ab4eea4a008697283",
+      "source_sha256": "0e35dc2b6b092a72cd138767528a9022a98f7c504bcaf3b860738c632324bb68"
+    },
+    {
+      "instrument_id": "urn:lex-mx:federal:statute:lfpc",
+      "printed_label": "63 QUINTUS",
+      "old_containing_provision_id": "urn:lex-mx:federal:statute:lfpc:article:63-quater",
+      "current_provision_id": "urn:lex-mx:federal:statute:lfpc:article:63-quintus",
+      "status": "separately_parsed",
+      "verified_at_commit": "bfcda816f46b8b0c1d694fc1f2cfb8b4438275b2",
+      "source_path": "corpus/mx/lfpc/provisions.json",
+      "source_blob_oid": "afc9cc9a1a0076fc8b2ce23a8e5498d744382567",
+      "source_sha256": "40b7a8ae865fb8e2049f181f43c9432665be29fbb62bc712c3a339ad5912e3dc"
+    },
+    {
+      "instrument_id": "urn:lex-mx:federal:statute:lfpc",
+      "printed_label": "73 QUINTUS",
+      "old_containing_provision_id": "urn:lex-mx:federal:statute:lfpc:article:73-quater",
+      "current_provision_id": "urn:lex-mx:federal:statute:lfpc:article:73-quintus",
+      "status": "separately_parsed",
+      "verified_at_commit": "bfcda816f46b8b0c1d694fc1f2cfb8b4438275b2",
+      "source_path": "corpus/mx/lfpc/provisions.json",
+      "source_blob_oid": "afc9cc9a1a0076fc8b2ce23a8e5498d744382567",
+      "source_sha256": "40b7a8ae865fb8e2049f181f43c9432665be29fbb62bc712c3a339ad5912e3dc"
+    },
+    {
+      "instrument_id": "urn:lex-mx:federal:statute:lfped",
+      "printed_label": "15 Sextus",
+      "old_containing_provision_id": "urn:lex-mx:federal:statute:lfped:article:15-quintus",
+      "current_provision_id": "urn:lex-mx:federal:statute:lfped:article:15-sextus",
+      "status": "separately_parsed",
+      "verified_at_commit": "bfcda816f46b8b0c1d694fc1f2cfb8b4438275b2",
+      "source_path": "corpus/mx/lfped/provisions.json",
+      "source_blob_oid": "a31fbd94ce3386f298004ae900f3a171b789b4aa",
+      "source_sha256": "30ce49799e1f7edfbd53327f69b0aaca2adf14c14ecdbe5b0b4f044fe4758247"
+    },
+    {
+      "instrument_id": "urn:lex-mx:federal:statute:lfped",
+      "printed_label": "15 Séptimus",
+      "old_containing_provision_id": "urn:lex-mx:federal:statute:lfped:article:15-quintus",
+      "current_provision_id": "urn:lex-mx:federal:statute:lfped:article:15-septimus",
+      "status": "separately_parsed",
+      "verified_at_commit": "bfcda816f46b8b0c1d694fc1f2cfb8b4438275b2",
+      "source_path": "corpus/mx/lfped/provisions.json",
+      "source_blob_oid": "a31fbd94ce3386f298004ae900f3a171b789b4aa",
+      "source_sha256": "30ce49799e1f7edfbd53327f69b0aaca2adf14c14ecdbe5b0b4f044fe4758247"
+    },
+    {
+      "instrument_id": "urn:lex-mx:federal:statute:lfped",
+      "printed_label": "15 Octavus",
+      "old_containing_provision_id": "urn:lex-mx:federal:statute:lfped:article:15-quintus",
+      "current_provision_id": "urn:lex-mx:federal:statute:lfped:article:15-octavus",
+      "status": "separately_parsed",
+      "verified_at_commit": "bfcda816f46b8b0c1d694fc1f2cfb8b4438275b2",
+      "source_path": "corpus/mx/lfped/provisions.json",
+      "source_blob_oid": "a31fbd94ce3386f298004ae900f3a171b789b4aa",
+      "source_sha256": "30ce49799e1f7edfbd53327f69b0aaca2adf14c14ecdbe5b0b4f044fe4758247"
+    },
+    {
+      "instrument_id": "urn:lex-mx:federal:statute:lfped",
+      "printed_label": "15 Novenus",
+      "old_containing_provision_id": "urn:lex-mx:federal:statute:lfped:article:15-quintus",
+      "current_provision_id": "urn:lex-mx:federal:statute:lfped:article:15-novenus",
+      "status": "separately_parsed",
+      "verified_at_commit": "bfcda816f46b8b0c1d694fc1f2cfb8b4438275b2",
+      "source_path": "corpus/mx/lfped/provisions.json",
+      "source_blob_oid": "a31fbd94ce3386f298004ae900f3a171b789b4aa",
+      "source_sha256": "30ce49799e1f7edfbd53327f69b0aaca2adf14c14ecdbe5b0b4f044fe4758247"
+    },
+    {
+      "instrument_id": "urn:lex-mx:federal:statute:lfped",
+      "printed_label": "63 Sextus",
+      "old_containing_provision_id": "urn:lex-mx:federal:statute:lfped:article:63-quintus",
+      "current_provision_id": "urn:lex-mx:federal:statute:lfped:article:63-sextus",
+      "status": "separately_parsed",
+      "verified_at_commit": "bfcda816f46b8b0c1d694fc1f2cfb8b4438275b2",
+      "source_path": "corpus/mx/lfped/provisions.json",
+      "source_blob_oid": "a31fbd94ce3386f298004ae900f3a171b789b4aa",
+      "source_sha256": "30ce49799e1f7edfbd53327f69b0aaca2adf14c14ecdbe5b0b4f044fe4758247"
+    },
+    {
+      "instrument_id": "urn:lex-mx:federal:statute:lfped",
+      "printed_label": "63 Séptimus",
+      "old_containing_provision_id": "urn:lex-mx:federal:statute:lfped:article:63-quintus",
+      "current_provision_id": "urn:lex-mx:federal:statute:lfped:article:63-septimus",
+      "status": "separately_parsed",
+      "verified_at_commit": "bfcda816f46b8b0c1d694fc1f2cfb8b4438275b2",
+      "source_path": "corpus/mx/lfped/provisions.json",
+      "source_blob_oid": "a31fbd94ce3386f298004ae900f3a171b789b4aa",
+      "source_sha256": "30ce49799e1f7edfbd53327f69b0aaca2adf14c14ecdbe5b0b4f044fe4758247"
+    },
+    {
+      "instrument_id": "urn:lex-mx:federal:statute:lfped",
+      "printed_label": "63 Octavus",
+      "old_containing_provision_id": "urn:lex-mx:federal:statute:lfped:article:63-quintus",
+      "current_provision_id": "urn:lex-mx:federal:statute:lfped:article:63-octavus",
+      "status": "separately_parsed",
+      "verified_at_commit": "bfcda816f46b8b0c1d694fc1f2cfb8b4438275b2",
+      "source_path": "corpus/mx/lfped/provisions.json",
+      "source_blob_oid": "a31fbd94ce3386f298004ae900f3a171b789b4aa",
+      "source_sha256": "30ce49799e1f7edfbd53327f69b0aaca2adf14c14ecdbe5b0b4f044fe4758247"
+    },
+    {
+      "instrument_id": "urn:lex-mx:federal:statute:lgamvlv",
+      "printed_label": "34 Decies",
+      "old_containing_provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:34-nonies",
+      "current_provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:34-decies",
+      "status": "separately_parsed",
+      "verified_at_commit": "bfcda816f46b8b0c1d694fc1f2cfb8b4438275b2",
+      "source_path": "corpus/mx/lgamvlv/provisions.json",
+      "source_blob_oid": "9d3e5da957f65fe9e376e12b9a6af2143f1c6c89",
+      "source_sha256": "5bdc13a03b40fe4ee7bd10dd308f15c3c8249cb97516c3fbbf3088c456b856e1"
+    },
+    {
+      "instrument_id": "urn:lex-mx:federal:statute:lgamvlv",
+      "printed_label": "34 Undecies",
+      "old_containing_provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:34-nonies",
+      "current_provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:34-undecies",
+      "status": "separately_parsed",
+      "verified_at_commit": "bfcda816f46b8b0c1d694fc1f2cfb8b4438275b2",
+      "source_path": "corpus/mx/lgamvlv/provisions.json",
+      "source_blob_oid": "9d3e5da957f65fe9e376e12b9a6af2143f1c6c89",
+      "source_sha256": "5bdc13a03b40fe4ee7bd10dd308f15c3c8249cb97516c3fbbf3088c456b856e1"
+    },
+    {
+      "instrument_id": "urn:lex-mx:federal:statute:lgamvlv",
+      "printed_label": "34 Duodecies",
+      "old_containing_provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:34-nonies",
+      "current_provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:34-duodecies",
+      "status": "separately_parsed",
+      "verified_at_commit": "bfcda816f46b8b0c1d694fc1f2cfb8b4438275b2",
+      "source_path": "corpus/mx/lgamvlv/provisions.json",
+      "source_blob_oid": "9d3e5da957f65fe9e376e12b9a6af2143f1c6c89",
+      "source_sha256": "5bdc13a03b40fe4ee7bd10dd308f15c3c8249cb97516c3fbbf3088c456b856e1"
+    },
+    {
+      "instrument_id": "urn:lex-mx:federal:statute:lgamvlv",
+      "printed_label": "34 Terdecies",
+      "old_containing_provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:34-nonies",
+      "current_provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:34-terdecies",
+      "status": "separately_parsed",
+      "verified_at_commit": "bfcda816f46b8b0c1d694fc1f2cfb8b4438275b2",
+      "source_path": "corpus/mx/lgamvlv/provisions.json",
+      "source_blob_oid": "9d3e5da957f65fe9e376e12b9a6af2143f1c6c89",
+      "source_sha256": "5bdc13a03b40fe4ee7bd10dd308f15c3c8249cb97516c3fbbf3088c456b856e1"
+    },
+    {
+      "instrument_id": "urn:lex-mx:federal:statute:lgamvlv",
+      "printed_label": "34 Quaterdecies",
+      "old_containing_provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:34-nonies",
+      "current_provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:34-quaterdecies",
+      "status": "separately_parsed",
+      "verified_at_commit": "bfcda816f46b8b0c1d694fc1f2cfb8b4438275b2",
+      "source_path": "corpus/mx/lgamvlv/provisions.json",
+      "source_blob_oid": "9d3e5da957f65fe9e376e12b9a6af2143f1c6c89",
+      "source_sha256": "5bdc13a03b40fe4ee7bd10dd308f15c3c8249cb97516c3fbbf3088c456b856e1"
+    },
+    {
+      "instrument_id": "urn:lex-mx:federal:statute:lgamvlv",
+      "printed_label": "59 Decies",
+      "old_containing_provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:59-nonies",
+      "current_provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:59-decies",
+      "status": "separately_parsed",
+      "verified_at_commit": "bfcda816f46b8b0c1d694fc1f2cfb8b4438275b2",
+      "source_path": "corpus/mx/lgamvlv/provisions.json",
+      "source_blob_oid": "9d3e5da957f65fe9e376e12b9a6af2143f1c6c89",
+      "source_sha256": "5bdc13a03b40fe4ee7bd10dd308f15c3c8249cb97516c3fbbf3088c456b856e1"
+    },
+    {
+      "instrument_id": "urn:lex-mx:federal:statute:lgdnna",
+      "printed_label": "135 Sexties",
+      "old_containing_provision_id": "urn:lex-mx:federal:statute:lgdnna:article:135-quinquies",
+      "current_provision_id": "urn:lex-mx:federal:statute:lgdnna:article:135-sexties",
+      "status": "separately_parsed",
+      "verified_at_commit": "bfcda816f46b8b0c1d694fc1f2cfb8b4438275b2",
+      "source_path": "corpus/mx/lgdnna/provisions.json",
+      "source_blob_oid": "32dac21c244f289099a86d3b862e588d56d19030",
+      "source_sha256": "b367d3f98d4f85dcd4ec86361076c1e09d61e00baaaf58933e9035fb416066db"
+    },
+    {
+      "instrument_id": "urn:lex-mx:federal:statute:lgmdfp",
+      "printed_label": "12 Decies",
+      "old_containing_provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:12-nonies",
+      "current_provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:12-decies",
+      "status": "separately_parsed",
+      "verified_at_commit": "bfcda816f46b8b0c1d694fc1f2cfb8b4438275b2",
+      "source_path": "corpus/mx/lgmdfp/provisions.json",
+      "source_blob_oid": "1d6caa3cfeb30248c98c109507f2608594e021d0",
+      "source_sha256": "eec1e78783dd3c3fe9d9b7eb7103852b87e35e7e190f5776ba6f09e92a40c311"
+    },
+    {
+      "instrument_id": "urn:lex-mx:federal:statute:lgmdfp",
+      "printed_label": "12 Undecies",
+      "old_containing_provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:12-nonies",
+      "current_provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:12-undecies",
+      "status": "separately_parsed",
+      "verified_at_commit": "bfcda816f46b8b0c1d694fc1f2cfb8b4438275b2",
+      "source_path": "corpus/mx/lgmdfp/provisions.json",
+      "source_blob_oid": "1d6caa3cfeb30248c98c109507f2608594e021d0",
+      "source_sha256": "eec1e78783dd3c3fe9d9b7eb7103852b87e35e7e190f5776ba6f09e92a40c311"
+    },
+    {
+      "instrument_id": "urn:lex-mx:federal:statute:lgtoc",
+      "printed_label": "228 a",
+      "old_containing_provision_id": "urn:lex-mx:federal:statute:lgtoc:article:228",
+      "current_provision_id": "urn:lex-mx:federal:statute:lgtoc:article:228-a",
+      "status": "separately_parsed",
+      "verified_at_commit": "bfcda816f46b8b0c1d694fc1f2cfb8b4438275b2",
+      "source_path": "corpus/mx/lgtoc/provisions.json",
+      "source_blob_oid": "153c9297c1d09406bc0af5e726010968a0cd1fe9",
+      "source_sha256": "9602cf87938ffd0d7613959958c2e18399bce1e596277151dd254f602011430c"
+    },
+    {
+      "instrument_id": "urn:lex-mx:federal:statute:lgtoc",
+      "printed_label": "228 a bis",
+      "old_containing_provision_id": "urn:lex-mx:federal:statute:lgtoc:article:228",
+      "current_provision_id": "urn:lex-mx:federal:statute:lgtoc:article:228-a-bis",
+      "status": "separately_parsed",
+      "verified_at_commit": "bfcda816f46b8b0c1d694fc1f2cfb8b4438275b2",
+      "source_path": "corpus/mx/lgtoc/provisions.json",
+      "source_blob_oid": "153c9297c1d09406bc0af5e726010968a0cd1fe9",
+      "source_sha256": "9602cf87938ffd0d7613959958c2e18399bce1e596277151dd254f602011430c"
+    },
+    {
+      "instrument_id": "urn:lex-mx:federal:statute:lgtoc",
+      "printed_label": "228 b",
+      "old_containing_provision_id": "urn:lex-mx:federal:statute:lgtoc:article:228",
+      "current_provision_id": "urn:lex-mx:federal:statute:lgtoc:article:228-b",
+      "status": "separately_parsed",
+      "verified_at_commit": "bfcda816f46b8b0c1d694fc1f2cfb8b4438275b2",
+      "source_path": "corpus/mx/lgtoc/provisions.json",
+      "source_blob_oid": "153c9297c1d09406bc0af5e726010968a0cd1fe9",
+      "source_sha256": "9602cf87938ffd0d7613959958c2e18399bce1e596277151dd254f602011430c"
+    },
+    {
+      "instrument_id": "urn:lex-mx:federal:statute:lgtoc",
+      "printed_label": "228 c",
+      "old_containing_provision_id": "urn:lex-mx:federal:statute:lgtoc:article:228",
+      "current_provision_id": "urn:lex-mx:federal:statute:lgtoc:article:228-c",
+      "status": "separately_parsed",
+      "verified_at_commit": "bfcda816f46b8b0c1d694fc1f2cfb8b4438275b2",
+      "source_path": "corpus/mx/lgtoc/provisions.json",
+      "source_blob_oid": "153c9297c1d09406bc0af5e726010968a0cd1fe9",
+      "source_sha256": "9602cf87938ffd0d7613959958c2e18399bce1e596277151dd254f602011430c"
+    },
+    {
+      "instrument_id": "urn:lex-mx:federal:statute:lgtoc",
+      "printed_label": "228 d",
+      "old_containing_provision_id": "urn:lex-mx:federal:statute:lgtoc:article:228",
+      "current_provision_id": "urn:lex-mx:federal:statute:lgtoc:article:228-d",
+      "status": "separately_parsed",
+      "verified_at_commit": "bfcda816f46b8b0c1d694fc1f2cfb8b4438275b2",
+      "source_path": "corpus/mx/lgtoc/provisions.json",
+      "source_blob_oid": "153c9297c1d09406bc0af5e726010968a0cd1fe9",
+      "source_sha256": "9602cf87938ffd0d7613959958c2e18399bce1e596277151dd254f602011430c"
+    },
+    {
+      "instrument_id": "urn:lex-mx:federal:statute:lgtoc",
+      "printed_label": "228 e",
+      "old_containing_provision_id": "urn:lex-mx:federal:statute:lgtoc:article:228",
+      "current_provision_id": "urn:lex-mx:federal:statute:lgtoc:article:228-e",
+      "status": "separately_parsed",
+      "verified_at_commit": "bfcda816f46b8b0c1d694fc1f2cfb8b4438275b2",
+      "source_path": "corpus/mx/lgtoc/provisions.json",
+      "source_blob_oid": "153c9297c1d09406bc0af5e726010968a0cd1fe9",
+      "source_sha256": "9602cf87938ffd0d7613959958c2e18399bce1e596277151dd254f602011430c"
+    },
+    {
+      "instrument_id": "urn:lex-mx:federal:statute:lgtoc",
+      "printed_label": "228 f",
+      "old_containing_provision_id": "urn:lex-mx:federal:statute:lgtoc:article:228",
+      "current_provision_id": "urn:lex-mx:federal:statute:lgtoc:article:228-f",
+      "status": "separately_parsed",
+      "verified_at_commit": "bfcda816f46b8b0c1d694fc1f2cfb8b4438275b2",
+      "source_path": "corpus/mx/lgtoc/provisions.json",
+      "source_blob_oid": "153c9297c1d09406bc0af5e726010968a0cd1fe9",
+      "source_sha256": "9602cf87938ffd0d7613959958c2e18399bce1e596277151dd254f602011430c"
+    },
+    {
+      "instrument_id": "urn:lex-mx:federal:statute:lgtoc",
+      "printed_label": "228 g",
+      "old_containing_provision_id": "urn:lex-mx:federal:statute:lgtoc:article:228",
+      "current_provision_id": "urn:lex-mx:federal:statute:lgtoc:article:228-g",
+      "status": "separately_parsed",
+      "verified_at_commit": "bfcda816f46b8b0c1d694fc1f2cfb8b4438275b2",
+      "source_path": "corpus/mx/lgtoc/provisions.json",
+      "source_blob_oid": "153c9297c1d09406bc0af5e726010968a0cd1fe9",
+      "source_sha256": "9602cf87938ffd0d7613959958c2e18399bce1e596277151dd254f602011430c"
+    },
+    {
+      "instrument_id": "urn:lex-mx:federal:statute:lgtoc",
+      "printed_label": "228 h",
+      "old_containing_provision_id": "urn:lex-mx:federal:statute:lgtoc:article:228",
+      "current_provision_id": "urn:lex-mx:federal:statute:lgtoc:article:228-h",
+      "status": "separately_parsed",
+      "verified_at_commit": "bfcda816f46b8b0c1d694fc1f2cfb8b4438275b2",
+      "source_path": "corpus/mx/lgtoc/provisions.json",
+      "source_blob_oid": "153c9297c1d09406bc0af5e726010968a0cd1fe9",
+      "source_sha256": "9602cf87938ffd0d7613959958c2e18399bce1e596277151dd254f602011430c"
+    },
+    {
+      "instrument_id": "urn:lex-mx:federal:statute:lgtoc",
+      "printed_label": "228 i",
+      "old_containing_provision_id": "urn:lex-mx:federal:statute:lgtoc:article:228",
+      "current_provision_id": "urn:lex-mx:federal:statute:lgtoc:article:228-i",
+      "status": "separately_parsed",
+      "verified_at_commit": "bfcda816f46b8b0c1d694fc1f2cfb8b4438275b2",
+      "source_path": "corpus/mx/lgtoc/provisions.json",
+      "source_blob_oid": "153c9297c1d09406bc0af5e726010968a0cd1fe9",
+      "source_sha256": "9602cf87938ffd0d7613959958c2e18399bce1e596277151dd254f602011430c"
+    },
+    {
+      "instrument_id": "urn:lex-mx:federal:statute:lgtoc",
+      "printed_label": "228 j",
+      "old_containing_provision_id": "urn:lex-mx:federal:statute:lgtoc:article:228",
+      "current_provision_id": "urn:lex-mx:federal:statute:lgtoc:article:228-j",
+      "status": "separately_parsed",
+      "verified_at_commit": "bfcda816f46b8b0c1d694fc1f2cfb8b4438275b2",
+      "source_path": "corpus/mx/lgtoc/provisions.json",
+      "source_blob_oid": "153c9297c1d09406bc0af5e726010968a0cd1fe9",
+      "source_sha256": "9602cf87938ffd0d7613959958c2e18399bce1e596277151dd254f602011430c"
+    },
+    {
+      "instrument_id": "urn:lex-mx:federal:statute:lgtoc",
+      "printed_label": "228 k",
+      "old_containing_provision_id": "urn:lex-mx:federal:statute:lgtoc:article:228",
+      "current_provision_id": "urn:lex-mx:federal:statute:lgtoc:article:228-k",
+      "status": "separately_parsed",
+      "verified_at_commit": "bfcda816f46b8b0c1d694fc1f2cfb8b4438275b2",
+      "source_path": "corpus/mx/lgtoc/provisions.json",
+      "source_blob_oid": "153c9297c1d09406bc0af5e726010968a0cd1fe9",
+      "source_sha256": "9602cf87938ffd0d7613959958c2e18399bce1e596277151dd254f602011430c"
+    },
+    {
+      "instrument_id": "urn:lex-mx:federal:statute:lgtoc",
+      "printed_label": "228 l",
+      "old_containing_provision_id": "urn:lex-mx:federal:statute:lgtoc:article:228",
+      "current_provision_id": "urn:lex-mx:federal:statute:lgtoc:article:228-l",
+      "status": "separately_parsed",
+      "verified_at_commit": "bfcda816f46b8b0c1d694fc1f2cfb8b4438275b2",
+      "source_path": "corpus/mx/lgtoc/provisions.json",
+      "source_blob_oid": "153c9297c1d09406bc0af5e726010968a0cd1fe9",
+      "source_sha256": "9602cf87938ffd0d7613959958c2e18399bce1e596277151dd254f602011430c"
+    },
+    {
+      "instrument_id": "urn:lex-mx:federal:statute:lgtoc",
+      "printed_label": "228 m",
+      "old_containing_provision_id": "urn:lex-mx:federal:statute:lgtoc:article:228",
+      "current_provision_id": "urn:lex-mx:federal:statute:lgtoc:article:228-m",
+      "status": "separately_parsed",
+      "verified_at_commit": "bfcda816f46b8b0c1d694fc1f2cfb8b4438275b2",
+      "source_path": "corpus/mx/lgtoc/provisions.json",
+      "source_blob_oid": "153c9297c1d09406bc0af5e726010968a0cd1fe9",
+      "source_sha256": "9602cf87938ffd0d7613959958c2e18399bce1e596277151dd254f602011430c"
+    },
+    {
+      "instrument_id": "urn:lex-mx:federal:statute:lgtoc",
+      "printed_label": "228 n",
+      "old_containing_provision_id": "urn:lex-mx:federal:statute:lgtoc:article:228",
+      "current_provision_id": "urn:lex-mx:federal:statute:lgtoc:article:228-n",
+      "status": "separately_parsed",
+      "verified_at_commit": "bfcda816f46b8b0c1d694fc1f2cfb8b4438275b2",
+      "source_path": "corpus/mx/lgtoc/provisions.json",
+      "source_blob_oid": "153c9297c1d09406bc0af5e726010968a0cd1fe9",
+      "source_sha256": "9602cf87938ffd0d7613959958c2e18399bce1e596277151dd254f602011430c"
+    },
+    {
+      "instrument_id": "urn:lex-mx:federal:statute:lgtoc",
+      "printed_label": "228 o",
+      "old_containing_provision_id": "urn:lex-mx:federal:statute:lgtoc:article:228",
+      "current_provision_id": "urn:lex-mx:federal:statute:lgtoc:article:228-o",
+      "status": "separately_parsed",
+      "verified_at_commit": "bfcda816f46b8b0c1d694fc1f2cfb8b4438275b2",
+      "source_path": "corpus/mx/lgtoc/provisions.json",
+      "source_blob_oid": "153c9297c1d09406bc0af5e726010968a0cd1fe9",
+      "source_sha256": "9602cf87938ffd0d7613959958c2e18399bce1e596277151dd254f602011430c"
+    },
+    {
+      "instrument_id": "urn:lex-mx:federal:statute:lgtoc",
+      "printed_label": "228 p",
+      "old_containing_provision_id": "urn:lex-mx:federal:statute:lgtoc:article:228",
+      "current_provision_id": "urn:lex-mx:federal:statute:lgtoc:article:228-p",
+      "status": "separately_parsed",
+      "verified_at_commit": "bfcda816f46b8b0c1d694fc1f2cfb8b4438275b2",
+      "source_path": "corpus/mx/lgtoc/provisions.json",
+      "source_blob_oid": "153c9297c1d09406bc0af5e726010968a0cd1fe9",
+      "source_sha256": "9602cf87938ffd0d7613959958c2e18399bce1e596277151dd254f602011430c"
+    },
+    {
+      "instrument_id": "urn:lex-mx:federal:statute:lgtoc",
+      "printed_label": "228 q",
+      "old_containing_provision_id": "urn:lex-mx:federal:statute:lgtoc:article:228",
+      "current_provision_id": "urn:lex-mx:federal:statute:lgtoc:article:228-q",
+      "status": "separately_parsed",
+      "verified_at_commit": "bfcda816f46b8b0c1d694fc1f2cfb8b4438275b2",
+      "source_path": "corpus/mx/lgtoc/provisions.json",
+      "source_blob_oid": "153c9297c1d09406bc0af5e726010968a0cd1fe9",
+      "source_sha256": "9602cf87938ffd0d7613959958c2e18399bce1e596277151dd254f602011430c"
+    },
+    {
+      "instrument_id": "urn:lex-mx:federal:statute:lgtoc",
+      "printed_label": "228 r",
+      "old_containing_provision_id": "urn:lex-mx:federal:statute:lgtoc:article:228",
+      "current_provision_id": "urn:lex-mx:federal:statute:lgtoc:article:228-r",
+      "status": "separately_parsed",
+      "verified_at_commit": "bfcda816f46b8b0c1d694fc1f2cfb8b4438275b2",
+      "source_path": "corpus/mx/lgtoc/provisions.json",
+      "source_blob_oid": "153c9297c1d09406bc0af5e726010968a0cd1fe9",
+      "source_sha256": "9602cf87938ffd0d7613959958c2e18399bce1e596277151dd254f602011430c"
+    },
+    {
+      "instrument_id": "urn:lex-mx:federal:statute:lgtoc",
+      "printed_label": "228 s",
+      "old_containing_provision_id": "urn:lex-mx:federal:statute:lgtoc:article:228",
+      "current_provision_id": "urn:lex-mx:federal:statute:lgtoc:article:228-s",
+      "status": "separately_parsed",
+      "verified_at_commit": "bfcda816f46b8b0c1d694fc1f2cfb8b4438275b2",
+      "source_path": "corpus/mx/lgtoc/provisions.json",
+      "source_blob_oid": "153c9297c1d09406bc0af5e726010968a0cd1fe9",
+      "source_sha256": "9602cf87938ffd0d7613959958c2e18399bce1e596277151dd254f602011430c"
+    },
+    {
+      "instrument_id": "urn:lex-mx:federal:statute:lgtoc",
+      "printed_label": "228 t",
+      "old_containing_provision_id": "urn:lex-mx:federal:statute:lgtoc:article:228",
+      "current_provision_id": "urn:lex-mx:federal:statute:lgtoc:article:228-t",
+      "status": "separately_parsed",
+      "verified_at_commit": "bfcda816f46b8b0c1d694fc1f2cfb8b4438275b2",
+      "source_path": "corpus/mx/lgtoc/provisions.json",
+      "source_blob_oid": "153c9297c1d09406bc0af5e726010968a0cd1fe9",
+      "source_sha256": "9602cf87938ffd0d7613959958c2e18399bce1e596277151dd254f602011430c"
+    },
+    {
+      "instrument_id": "urn:lex-mx:federal:statute:lgtoc",
+      "printed_label": "228 u",
+      "old_containing_provision_id": "urn:lex-mx:federal:statute:lgtoc:article:228",
+      "current_provision_id": "urn:lex-mx:federal:statute:lgtoc:article:228-u",
+      "status": "separately_parsed",
+      "verified_at_commit": "bfcda816f46b8b0c1d694fc1f2cfb8b4438275b2",
+      "source_path": "corpus/mx/lgtoc/provisions.json",
+      "source_blob_oid": "153c9297c1d09406bc0af5e726010968a0cd1fe9",
+      "source_sha256": "9602cf87938ffd0d7613959958c2e18399bce1e596277151dd254f602011430c"
+    },
+    {
+      "instrument_id": "urn:lex-mx:federal:statute:lgtoc",
+      "printed_label": "228 v",
+      "old_containing_provision_id": "urn:lex-mx:federal:statute:lgtoc:article:228",
+      "current_provision_id": "urn:lex-mx:federal:statute:lgtoc:article:228-v",
+      "status": "separately_parsed",
+      "verified_at_commit": "bfcda816f46b8b0c1d694fc1f2cfb8b4438275b2",
+      "source_path": "corpus/mx/lgtoc/provisions.json",
+      "source_blob_oid": "153c9297c1d09406bc0af5e726010968a0cd1fe9",
+      "source_sha256": "9602cf87938ffd0d7613959958c2e18399bce1e596277151dd254f602011430c"
+    },
+    {
+      "instrument_id": "urn:lex-mx:federal:statute:lgv",
+      "printed_label": "84 Sexíes",
+      "old_containing_provision_id": "urn:lex-mx:federal:statute:lgv:article:84-quinquies",
+      "current_provision_id": "urn:lex-mx:federal:statute:lgv:article:84-sexies",
+      "status": "separately_parsed",
+      "verified_at_commit": "bfcda816f46b8b0c1d694fc1f2cfb8b4438275b2",
+      "source_path": "corpus/mx/lgv/provisions.json",
+      "source_blob_oid": "8ce2868e028c156fc616ea31637c1c418ba0591b",
+      "source_sha256": "f90dfe301c7e70b7013e419cd2dadc4fb0d8c21a856f928667cb0c06fd7507b8"
+    },
+    {
+      "instrument_id": "urn:lex-mx:federal:statute:lic",
+      "printed_label": "112 Quintus",
+      "old_containing_provision_id": "urn:lex-mx:federal:statute:lic:article:112-quater",
+      "current_provision_id": "urn:lex-mx:federal:statute:lic:article:112-quintus",
+      "status": "separately_parsed",
+      "verified_at_commit": "bfcda816f46b8b0c1d694fc1f2cfb8b4438275b2",
+      "source_path": "corpus/mx/lic/provisions.json",
+      "source_blob_oid": "c3762f3dec92a15e76a516c2517b6d0e79dcaef4",
+      "source_sha256": "fb41f8f05038a9b9fb1e58777884d81af761a22cd470f30efc8b9e35842398db"
+    },
+    {
+      "instrument_id": "urn:lex-mx:federal:statute:lic",
+      "printed_label": "112 Sextus",
+      "old_containing_provision_id": "urn:lex-mx:federal:statute:lic:article:112-quater",
+      "current_provision_id": "urn:lex-mx:federal:statute:lic:article:112-sextus",
+      "status": "separately_parsed",
+      "verified_at_commit": "bfcda816f46b8b0c1d694fc1f2cfb8b4438275b2",
+      "source_path": "corpus/mx/lic/provisions.json",
+      "source_blob_oid": "c3762f3dec92a15e76a516c2517b6d0e79dcaef4",
+      "source_sha256": "fb41f8f05038a9b9fb1e58777884d81af761a22cd470f30efc8b9e35842398db"
+    },
+    {
+      "instrument_id": "urn:lex-mx:federal:statute:lic",
+      "printed_label": "112 Séptimus",
+      "old_containing_provision_id": "urn:lex-mx:federal:statute:lic:article:112-quater",
+      "current_provision_id": "urn:lex-mx:federal:statute:lic:article:112-septimus",
+      "status": "separately_parsed",
+      "verified_at_commit": "bfcda816f46b8b0c1d694fc1f2cfb8b4438275b2",
+      "source_path": "corpus/mx/lic/provisions.json",
+      "source_blob_oid": "c3762f3dec92a15e76a516c2517b6d0e79dcaef4",
+      "source_sha256": "fb41f8f05038a9b9fb1e58777884d81af761a22cd470f30efc8b9e35842398db"
+    },
+    {
+      "instrument_id": "urn:lex-mx:federal:regulation:reg-lgcfd",
+      "printed_label": "84 Sextus",
+      "old_containing_provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:84-quintus",
+      "current_provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:84-sextus",
+      "status": "separately_parsed",
+      "verified_at_commit": "bfcda816f46b8b0c1d694fc1f2cfb8b4438275b2",
+      "source_path": "corpus/mx/reg-lgcfd/provisions.json",
+      "source_blob_oid": "db40dcbc99d02c6db3c5705ff38477f90e73cacb",
+      "source_sha256": "84aee76eb4b447e70aa0c13af800ce8a2569682fb0570cb017c57fe332db7ac0"
+    },
+    {
+      "instrument_id": "urn:lex-mx:federal:regulation:reg-lsem",
+      "printed_label": "33 Decies",
+      "old_containing_provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:33-nonies",
+      "current_provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:33-decies",
+      "status": "separately_parsed",
+      "verified_at_commit": "bfcda816f46b8b0c1d694fc1f2cfb8b4438275b2",
+      "source_path": "corpus/mx/reg-lsem/provisions.json",
+      "source_blob_oid": "9fb3f3bad456dadde42c1748fe06b068492b3511",
+      "source_sha256": "f208271dbf90986ce42720687c10a052da6cebadfd2e48eb20f995dca9ab531f"
+    }
+  ],
+  "golden_query_pins": {
+    "G2_lic_194_lfce_31_bis": [
+      {
+        "schema_version": "0.1.0",
+        "id": "urn:lex-mx:federal:statute:lic:article:194:reference:4292-4298:31-bis:direct",
+        "source_provision_id": "urn:lex-mx:federal:statute:lic:article:194",
+        "source_span": "31 bis",
+        "start_char": 4292,
+        "end_char": 4298,
+        "target_instrument_id": "urn:lex-mx:federal:statute:lfce",
+        "target_provision_id": "urn:lex-mx:federal:statute:lfce:article:31-bis",
+        "qualifiers": [],
+        "basis": "express_cross_reference",
+        "confidence": 1.0,
+        "resolution_status": "historical_superseded_reference_outdated",
+        "reference_form": "direct",
+        "outdated_reference_approval": {
+          "source_provision_id": "urn:lex-mx:federal:statute:lic:article:194",
+          "target_instrument_id": "urn:lex-mx:federal:statute:lfce",
+          "target_provision_id": "urn:lex-mx:federal:statute:lfce:article:31-bis",
+          "source_span": "31 bis",
+          "start_char": 4292,
+          "end_char": 4298,
+          "source_text_sha256": "f3d5231cb5f2f3e2ff7b2419a6691130310a6628fe623ef324587d776125a592",
+          "source_sha256": "98225a423eaa3dc47c9ec4ddb49ef8b188ed7f8e7e9ef17323a1c33e47e4284d",
+          "reviewer": "Operator",
+          "captured_at": "2026-10-16T19:42:41Z",
+          "rationale": "LFCE has no article 31 Bis in the current text.",
+          "decision_source": "docs/held-instruments-review-2026-10-16.md",
+          "decision_source_sha256": "99f8379e8bf1ee148347ef54d3a9de0a5a0c88eaae0417990bfbca5b5102a61f"
+        },
+        "legal_operator_review": {
+          "source_provision_id": "urn:lex-mx:federal:statute:lic:article:194",
+          "target_instrument_id": "urn:lex-mx:federal:statute:lfce",
+          "target_provision_id": "urn:lex-mx:federal:statute:lfce:article:31-bis",
+          "source_span": "31 bis",
+          "start_char": 4292,
+          "end_char": 4298,
+          "source_text_sha256": "f3d5231cb5f2f3e2ff7b2419a6691130310a6628fe623ef324587d776125a592",
+          "reviewer": "Operator",
+          "captured_at": "2026-10-16T19:42:41Z",
+          "note": "Operator: should target LFCE article 3, fracción IX (Información Confidencial).",
+          "decision_source": "docs/held-instruments-review-2026-10-16.md",
+          "decision_source_sha256": "99f8379e8bf1ee148347ef54d3a9de0a5a0c88eaae0417990bfbca5b5102a61f"
+        },
+        "resolution_rule": "named_instrument"
+      }
+    ],
+    "G1_parent_shorthand_count": 126,
+    "G1_reg_lan_terms": [
+      "Ley",
+      "Reglamento",
+      "La Comisión",
+      "Registro"
+    ]
+  }
+}

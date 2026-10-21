@@ -51,6 +51,10 @@ secrets, transcripts, hidden reasoning, or mutable copies of external state.
 
 ### Active
 
+- [`docs/plans/scjn-invalidity-registry-integration.md`](docs/plans/scjn-invalidity-registry-integration.md)
+  — Deferred SCJN registry extraction, separate search and reviewed provision links;
+  evidence-only in the current database build.
+
 - [`docs/plans/merged-heading-split.md`](docs/plans/merged-heading-split.md)
   — Split merged article headings into their own provisions (operator decision
   2026-10-18); seven clean reparses first, mechanism for the other ten pending.
@@ -63,7 +67,11 @@ secrets, transcripts, hidden reasoning, or mutable copies of external state.
 
 - [`docs/plans/sqlite-corpus-database.md`](docs/plans/sqlite-corpus-database.md)
   — Database-only SQLite/rusqlite projection: pinned inputs, complete provenance,
-  FTS, parity checks and reproducible local artifacts; plan ready, build not started.
+  FTS, parity checks and reproducible local artifacts; M1 repairs accepted at
+  611171e52; upstream repaired and normal-merged at 6cb2dfe3d; full M2
+  validation accepted by independent review; M3 verifier review repairs and 21 golden queries
+  pass on the full validation artifact (399 tests), pending repair re-review;
+  M4 reproducibility remains.
 
 - [`docs/plans/corpus-wide-reverse-linking.md`](docs/plans/corpus-wide-reverse-linking.md)
   — Relink the committed federal corpus, then validate and republish Markdown.

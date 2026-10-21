@@ -1,0 +1,31 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "evidence_paths",
+    "reference_files"
+  ],
+  "properties": {
+    "schema_version": {
+      "const": "1"
+    },
+    "evidence_paths": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": {
+        "type": "string",
+        "pattern": "^docs/"
+      }
+    },
+    "reference_files": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": {
+        "type": "string",
+        "pattern": "^corpus/reference/"
+      }
+    }
+  }
+}

@@ -1,0 +1,304 @@
+{
+  "schema_version": "1",
+  "instruments": [
+    {
+      "schema_version": "0.1.0",
+      "id": "urn:lex-mx:federal:statute:db-fixture",
+      "jurisdiction": "mx",
+      "level": "federal",
+      "instrument_type": "statute",
+      "official_title": "Ley de Prueba 1",
+      "short_name": "FIXTURE",
+      "operational_source": "camara_de_diputados",
+      "formal_publication_source": "dof",
+      "publication_date": "1990-07-18",
+      "latest_reform_date": "2025-11-14",
+      "retrieved_at": "2026-07-12T08:06:03.378039Z",
+      "source_url": "https://example.invalid/fixture.pdf",
+      "source_sha256": "433950b807a6c3de372f7e956cd5441d2557213eb6692393b9511f044b6b4329",
+      "extracted_text_sha256": "798f6b570fa67d7415d3af1b3ba96ea7c76f3d36d62cb51f6b0654e8403a2a43",
+      "parser_version": "0.1.0",
+      "status": "in_force"
+    }
+  ],
+  "provisions": [
+    {
+      "schema_version": "0.1.0",
+      "id": "urn:lex-mx:federal:statute:db-fixture:article:1",
+      "instrument_id": "urn:lex-mx:federal:statute:db-fixture",
+      "provision_type": "article",
+      "label": "Fixture 1",
+      "number": "1",
+      "heading_context": {
+        "libro": null,
+        "title": null,
+        "chapter": null,
+        "section": null,
+        "apartado": null
+      },
+      "text": "I. Productos.\n\na) Cerveza: bebida.\n\nLa cerveza y Cerveza tienen obligación conforme al artículo 2.",
+      "publication_date": "1990-07-18",
+      "effective_from": null,
+      "effective_to": null,
+      "temporal_status": "unknown",
+      "temporal_basis": null,
+      "temporal_confidence": null,
+      "review_status": "machine_accepted",
+      "transitory_effects": [],
+      "unknown_future_metadata": {
+        "present_null": null,
+        "empty": [],
+        "integer": 1,
+        "decimal": 1.0
+      }
+    },
+    {
+      "schema_version": "0.1.0",
+      "id": "urn:lex-mx:federal:statute:db-fixture:article:2",
+      "instrument_id": "urn:lex-mx:federal:statute:db-fixture",
+      "provision_type": "article",
+      "label": "Fixture 2",
+      "number": "2",
+      "heading_context": {
+        "libro": null,
+        "title": null,
+        "chapter": null,
+        "section": null,
+        "apartado": null
+      },
+      "text": "Contenido segundo.",
+      "publication_date": "1990-07-18",
+      "effective_from": null,
+      "effective_to": null,
+      "temporal_status": "unknown",
+      "temporal_basis": null,
+      "temporal_confidence": null,
+      "review_status": "machine_accepted",
+      "transitory_effects": [],
+      "unknown_future_metadata": {
+        "present_null": null,
+        "empty": [],
+        "integer": 1,
+        "decimal": 1.0
+      }
+    },
+    {
+      "schema_version": "0.1.0",
+      "id": "urn:lex-mx:federal:statute:db-fixture:annex:unico",
+      "instrument_id": "urn:lex-mx:federal:statute:db-fixture",
+      "provision_type": "annex",
+      "label": "Fixture 3",
+      "number": "3",
+      "heading_context": {
+        "libro": null,
+        "title": null,
+        "chapter": null,
+        "section": null,
+        "apartado": null
+      },
+      "text": "Anexo de prueba.",
+      "publication_date": "1990-07-18",
+      "effective_from": null,
+      "effective_to": null,
+      "temporal_status": "unknown",
+      "temporal_basis": null,
+      "temporal_confidence": null,
+      "review_status": "machine_accepted",
+      "transitory_effects": [],
+      "unknown_future_metadata": {
+        "present_null": null,
+        "empty": [],
+        "integer": 1,
+        "decimal": 1.0
+      }
+    },
+    {
+      "schema_version": "0.1.0",
+      "id": "urn:lex-mx:federal:statute:db-fixture:transitory:primero",
+      "instrument_id": "urn:lex-mx:federal:statute:db-fixture",
+      "provision_type": "transitory",
+      "label": "Fixture 4",
+      "number": "4",
+      "heading_context": {
+        "libro": null,
+        "title": null,
+        "chapter": null,
+        "section": null,
+        "apartado": null
+      },
+      "text": "El decreto entrará en vigor conforme a su condición.",
+      "publication_date": "1990-07-18",
+      "effective_from": null,
+      "effective_to": null,
+      "temporal_status": "unknown",
+      "temporal_basis": null,
+      "temporal_confidence": null,
+      "review_status": "machine_accepted",
+      "transitory_effects": [],
+      "unknown_future_metadata": {
+        "present_null": null,
+        "empty": [],
+        "integer": 1,
+        "decimal": 1.0
+      }
+    }
+  ],
+  "reference_edges": [
+    {
+      "schema_version": "0.1.0",
+      "id": "urn:lex-mx:federal:statute:db-fixture:article:1:reference:fixture-live",
+      "source_provision_id": "urn:lex-mx:federal:statute:db-fixture:article:1",
+      "source_span": "2",
+      "start_char": 96,
+      "end_char": 97,
+      "target_instrument_id": "urn:lex-mx:federal:statute:db-fixture",
+      "target_provision_id": "urn:lex-mx:federal:statute:db-fixture:article:2",
+      "qualifiers": [
+        {
+          "qualifier_type": "paragraph",
+          "text": "obligación",
+          "start_char": 64,
+          "end_char": 74
+        },
+        {
+          "qualifier_type": "paragraph",
+          "text": "artículo",
+          "start_char": 87,
+          "end_char": 95
+        }
+      ],
+      "basis": "express_cross_reference",
+      "confidence": 1.0,
+      "resolution_status": "resolved",
+      "reference_form": "direct",
+      "resolution_rule": "own_instrument_marker"
+    },
+    {
+      "schema_version": "0.1.0",
+      "id": "urn:lex-mx:federal:statute:db-fixture:article:1:reference:fixture-history",
+      "source_provision_id": "urn:lex-mx:federal:statute:db-fixture:article:1",
+      "source_span": "2",
+      "start_char": 96,
+      "end_char": 97,
+      "target_instrument_id": "urn:lex-mx:federal:statute:absent-historical",
+      "target_provision_id": "urn:lex-mx:federal:statute:absent-historical:article:2",
+      "qualifiers": [],
+      "basis": "express_cross_reference",
+      "confidence": 1.0,
+      "resolution_status": "historical_target_unavailable",
+      "reference_form": "direct"
+    },
+    {
+      "schema_version": "0.1.0",
+      "id": "urn:lex-mx:federal:statute:db-fixture:reference:title",
+      "source_provision_id": "urn:lex-mx:federal:statute:db-fixture",
+      "source_span": "1",
+      "start_char": 14,
+      "end_char": 15,
+      "target_instrument_id": "urn:lex-mx:federal:statute:db-fixture",
+      "target_provision_id": "urn:lex-mx:federal:statute:db-fixture:article:1",
+      "qualifiers": [],
+      "basis": "express_cross_reference",
+      "confidence": 1.0,
+      "resolution_status": "resolved",
+      "reference_form": "direct",
+      "resolution_rule": "own_instrument_marker"
+    },
+    {
+      "schema_version": "0.1.0",
+      "id": "urn:lex-mx:federal:statute:db-fixture:article:1:reference:fixture-outdated",
+      "source_provision_id": "urn:lex-mx:federal:statute:db-fixture:article:1",
+      "source_span": "2",
+      "start_char": 96,
+      "end_char": 97,
+      "target_instrument_id": "urn:lex-mx:federal:statute:absent-historical",
+      "target_provision_id": "urn:lex-mx:federal:statute:absent-historical:article:2",
+      "qualifiers": [],
+      "basis": "express_cross_reference",
+      "confidence": 1.0,
+      "resolution_status": "historical_superseded_reference_outdated",
+      "reference_form": "direct",
+      "outdated_reference_approval": {
+        "source_provision_id": "urn:lex-mx:federal:statute:db-fixture:article:1",
+        "target_instrument_id": "urn:lex-mx:federal:statute:absent-historical",
+        "target_provision_id": "urn:lex-mx:federal:statute:absent-historical:article:2",
+        "source_span": "2",
+        "start_char": 96,
+        "end_char": 97,
+        "source_text_sha256": "de7e24dad977cb5e0efb02868281e8f7a5886e2f673380a7bc0e61f3e90a23f0",
+        "source_sha256": "433950b807a6c3de372f7e956cd5441d2557213eb6692393b9511f044b6b4329",
+        "reviewer": "Fixture reviewer",
+        "captured_at": "2026-10-16T19:42:41Z",
+        "rationale": "Synthetic fixture decision; no legal determination.",
+        "decision_source": "fixtures/database/adversarial.json",
+        "decision_source_sha256": "b288528ebc3b9c72fc6d088bc4630718f4b3a59f98dff95159ba4fe8a5f3aab9"
+      },
+      "legal_operator_review": {
+        "source_provision_id": "urn:lex-mx:federal:statute:db-fixture:article:1",
+        "target_instrument_id": "urn:lex-mx:federal:statute:absent-historical",
+        "target_provision_id": "urn:lex-mx:federal:statute:absent-historical:article:2",
+        "source_span": "2",
+        "start_char": 96,
+        "end_char": 97,
+        "source_text_sha256": "de7e24dad977cb5e0efb02868281e8f7a5886e2f673380a7bc0e61f3e90a23f0",
+        "reviewer": "Fixture reviewer",
+        "captured_at": "2026-10-16T19:42:41Z",
+        "note": "Synthetic fixture note; no legal determination.",
+        "decision_source": "fixtures/database/adversarial.json",
+        "decision_source_sha256": "b288528ebc3b9c72fc6d088bc4630718f4b3a59f98dff95159ba4fe8a5f3aab9"
+      }
+    }
+  ],
+  "defined_terms": [
+    {
+      "schema_version": "0.1.0",
+      "id": "urn:lex-mx:federal:statute:db-fixture:term:cerveza",
+      "instrument_id": "urn:lex-mx:federal:statute:db-fixture",
+      "term": "Cerveza",
+      "defining_provision_id": "urn:lex-mx:federal:statute:db-fixture:article:1",
+      "fraction": "I",
+      "inciso": "a",
+      "start_char": 15,
+      "end_char": 34,
+      "basis": "express_definition"
+    }
+  ],
+  "term_usages": [
+    {
+      "schema_version": "0.1.0",
+      "id": "urn:lex-mx:federal:statute:db-fixture:article:1:term-usage:fixture",
+      "provision_id": "urn:lex-mx:federal:statute:db-fixture:article:1",
+      "term_id": "urn:lex-mx:federal:statute:db-fixture:term:cerveza",
+      "span": "cerveza",
+      "start_char": 39,
+      "end_char": 46
+    }
+  ],
+  "glossary_coverage": [
+    {
+      "schema_version": "0.1.0",
+      "strategy_version": "glossary-extraction-4",
+      "instrument_id": "urn:lex-mx:federal:statute:db-fixture",
+      "status": "configured",
+      "glossaries": [
+        {
+          "provision_id": "urn:lex-mx:federal:statute:db-fixture:article:1",
+          "method": "auto_whole",
+          "fractions": [
+            "I"
+          ],
+          "repeal_placeholders": [],
+          "term_count": 1,
+          "invalidated_fractions": [
+            "II"
+          ]
+        }
+      ],
+      "hold": null,
+      "imports": [],
+      "usage_form": "with_lowercase",
+      "term_count": 1,
+      "usage_count": 1
+    }
+  ]
+}
