@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/256.pdf
 source_sha256: 1764c89edb8173050fe6bc08f57826ea93a131c7c83f4fc8c15f74de03fb07c3
 ---
 
+> Título I · Capítulo II
+
 # Artículo 4
 
 (Se deroga).

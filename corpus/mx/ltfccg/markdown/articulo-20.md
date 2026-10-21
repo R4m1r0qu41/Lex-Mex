@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/256.pdf
 source_sha256: 1764c89edb8173050fe6bc08f57826ea93a131c7c83f4fc8c15f74de03fb07c3
 ---
 
+> Título IV
+
 # Artículo 20
 
 Si en la contratación del Crédito Garantizado se ofrece al deudor un seguro con cargo a éste, el costo y consentimiento para contratar dicho seguro deberá constar expresamente en la misma sección en la que habrá de recabarse su consentimiento. Asimismo, si tal seguro se establece por la Entidad como requisito de contratación del crédito, deberá informarse al deudor que su contratación con la propia Entidad es opcional.

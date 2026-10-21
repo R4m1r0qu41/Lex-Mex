@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/256.pdf
 source_sha256: 1764c89edb8173050fe6bc08f57826ea93a131c7c83f4fc8c15f74de03fb07c3
 ---
 
+> Título IV
+
 # Artículo 19-Bis
 
 En los Créditos con garantía hipotecaria, las Entidades deberán otorgar ante el fedatario público que corresponda, la escritura donde conste la extinción de dicho gravamen una vez que el acreditado haya pagado el saldo insoluto garantizado o por cualquier causa el referido crédito se haya extinguido.

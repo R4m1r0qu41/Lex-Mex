@@ -8,7 +8,7 @@
   "glossaries": [],
   "hold": {
     "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:3",
-    "provision_text_sha256": "0910f7ca2b128ca66544a0de2abd74ce26d72aec6a545dbf4d42df7dc8433487",
+    "provision_text_sha256": "7b0c6ce9443d4781e676d86cc6f576b26e84dfa6800a4ebeb7cd7e22f14090f5",
     "code": "missing_term",
     "message": "fraction IX has no term before `.`"
   },

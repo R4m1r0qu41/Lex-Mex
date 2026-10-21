@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/256.pdf
 source_sha256: 1764c89edb8173050fe6bc08f57826ea93a131c7c83f4fc8c15f74de03fb07c3
 ---
 
+> Título II · Capítulo II
+
 # Artículo 7
 
 Los avalúos de los bienes inmuebles objeto de Créditos Garantizados a la Vivienda deberán realizarse por peritos valuadores autorizados al efecto por la Sociedad Hipotecaria Federal, S.N.C. El acreditado tendrá el derecho a escoger al perito valuador que intervenga en la operación de entre el listado que le presente la Entidad.

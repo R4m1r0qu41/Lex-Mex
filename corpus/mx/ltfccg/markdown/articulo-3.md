@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/256.pdf
 source_sha256: 1764c89edb8173050fe6bc08f57826ea93a131c7c83f4fc8c15f74de03fb07c3
 ---
 
+> Título I · Capítulo I
+
 # Artículo 3
 
 Para los efectos de esta Ley se entiende por:
@@ -38,5 +40,3 @@ IX. Valuador profesional es la persona que cuenta con cédula profesional de pos
 X. Controlador. Es el valuador profesional que tiene un poder especial para firmar en nombre y representación de la Unidad de Valuación correspondiente a los avalúos que ésta certifique; Fracción adicionada DOF 07-02-2005
 
 XI. Unidad de Valuación. Es la persona moral que se encuentra inscrita como tal en la Sociedad Hipotecaria Federal, S.N.C., de acuerdo a las disposiciones que ésta emita. Fracción adicionada DOF 07-02-2005
-
-Capítulo II.- Información Previa

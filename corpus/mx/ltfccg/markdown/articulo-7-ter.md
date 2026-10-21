@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/256.pdf
 source_sha256: 1764c89edb8173050fe6bc08f57826ea93a131c7c83f4fc8c15f74de03fb07c3
 ---
 
+> Título II · Capítulo II
+
 # Artículo 7 ter
 
 Obligaciones y Prohibiciones de las Unidades de Valuación.
@@ -50,5 +52,3 @@ Se exceptúa de la prohibición señalada en la fracción I, a las Unidades de V
 La Sociedad Hipotecaria Federal S.N.C., podrá sancionar el incumplimiento de las obligaciones y la comisión de las conductas prohibidas a que se refiere este artículo, en los términos y condiciones que establezcan las disposiciones que al efecto emita la citada Sociedad.
 
 Artículo adicionado DOF 07-02-2005
-
-Capítulo III.- Formalización del Crédito Garantizado

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/256.pdf
 source_sha256: 1764c89edb8173050fe6bc08f57826ea93a131c7c83f4fc8c15f74de03fb07c3
 ---
 
+> Título IV
+
 # Artículo 17
 
 Se exceptúa de lo dispuesto en la presente Ley a los Créditos Garantizados que se otorguen en cumplimiento de obligaciones derivadas de contratos colectivos de trabajo. Asimismo se exceptúa exclusivamente de los artículos [13](articulo-13.md), [14](articulo-14.md) y [15](articulo-15.md) de la presente Ley a los Créditos Garantizados que otorguen, financien o garanticen el Instituto del Fondo Nacional de la Vivienda para los Trabajadores, al Fondo de la Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, al Fondo para las Habitaciones Populares, o a cualquier otra entidad pública que realice dichas actividades.

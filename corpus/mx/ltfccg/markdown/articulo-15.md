@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/256.pdf
 source_sha256: 1764c89edb8173050fe6bc08f57826ea93a131c7c83f4fc8c15f74de03fb07c3
 ---
 
+> Título III · Capítulo II
+
 # Artículo 15
 
 En caso de que un Crédito Garantizado se pague anticipadamente mediante la contratación de uno nuevo con otra Entidad, dicha Entidad quedará subrogada por ministerio de ley en los derechos del acreedor subrogante y se mantendrá inalterada la garantía original y su prelación, a efecto de evitar la constitución de una nueva garantía y los gastos inherentes de la misma.
@@ -36,5 +38,3 @@ IV. Que el acreedor subrogado solicite la toma de razón del asiento registral e
 De conformidad con lo establecido en el artículo [17](articulo-17.md) de la presente Ley, el Instituto del Fondo Nacional de la Vivienda para los Trabajadores, el Fondo de la Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y el Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas, no podrán ser acreedores subrogantes pero sí acreedores subrogados en los términos del párrafo segundo del presente artículo.
 
 Artículo reformado DOF 10-01-2014
-
-Título IV.- Disposiciones Comunes

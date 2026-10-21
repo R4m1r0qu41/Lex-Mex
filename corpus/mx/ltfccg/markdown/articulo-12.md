@@ -13,12 +13,10 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/256.pdf
 source_sha256: 1764c89edb8173050fe6bc08f57826ea93a131c7c83f4fc8c15f74de03fb07c3
 ---
 
+> Título II · Capítulo IV
+
 # Artículo 12
 
 (Se deroga).
 
 Artículo derogado DOF 15-06-2007
-
-Título III.- Subrogación de Créditos
-
-Capítulo I.- Subrogación de Deudor

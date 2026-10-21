@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/256.pdf
 source_sha256: 1764c89edb8173050fe6bc08f57826ea93a131c7c83f4fc8c15f74de03fb07c3
 ---
 
+> Título II · Capítulo I
+
 # Artículo 6
 
 Las Entidades, tratándose de Créditos Garantizados a la Vivienda, estarán obligadas a extender sin costo alguno, una oferta vinculante a petición del solicitante y con base en la información que de buena fe declare éste, sin requerir la presentación de los documentos que soporten dicha información.
@@ -42,5 +44,3 @@ La oferta vinculante se formulará por escrito y obligará a la Entidad por un p
 La Entidad estará obligada a otorgar el Crédito Garantizado a la Vivienda en los términos y condiciones establecidos en la oferta vinculante, siempre y cuando, la Entidad compruebe: la identidad del solicitante; la veracidad y autenticidad de los datos que hubiese proporcionado el solicitante; la capacidad crediticia del solicitante conforme a las sanas prácticas y condiciones de mercado; la realización de un avalúo practicado por un valuador autorizado, y el cumplimiento de las demás formalidades que requiera la Ley.
 
 Si una vez realizado el avalúo, existieren diferencias entre éste y el valor declarado de la garantía, la Entidad procurará mantener la tasa de interés ofrecida en la oferta vinculante.
-
-Capítulo II.- Avalúo del Inmueble
