@@ -62,6 +62,16 @@ Every text change was classified:
 - **Reform evidence.** 767 → 1,247, from accumulated extraction improvements since July plus lfcpq's acuerdos.
 - **Closure.** `link --all` relinks 0 and rejects exactly the 5 accepted gaps.
 
+**Open: the DB debt seed must retire three resolved rows (for Codex).** `db project` now stops with `stale debt source: corpus/mx/lgs/provisions.json`.
+- The seed's three accepted lgs merged-heading rows (`60 Decies`, `192 Quintus`, `192 Sextus`, operator-accepted 2026-10-18) are exactly the articles this reparse splits out. `validate_seed` correctly refuses resolved debt left in the seed.
+- The other 14 rows are untouched.
+- **Rehearsal, in a scratch clone only:**
+  - the ledger rows were marked `resolved` with the resolving commit and article IDs, and `status_counts` set to 14/30/10/3;
+  - the seed was cut to 14 rows and rebound to the ledger commit;
+  - results: two byte-identical builds (`corpus.sqlite` `24be25a1…`, logical `d236bc4e…`), `verify` passes with no stale inputs, `check-seed` validates 14 rows, and all 21 goldens pass unchanged;
+  - census: 68,341 provisions, 35,930 references, 97,672 usages, 14 known debt rows.
+- **Not committed,** because `resolved` is a new review-ledger status. The 2026-10-19 contract refresh kept its 60 resolved rows in reconciliation history instead, so the retirement format is Codex's to choose.
+
 ## 2026-10-20 — Codex review of the rulings branch: accepted-gap refreshes are published; parsed partial repeals keep their provenance
 
 **Source.** Codex's review of `parser/operator-rulings-2026-10-20` at `1647daaa8` (`docs/batch-fixes-and-rulings-review-2026-10-20.md` in the DB worktree). Both findings were fixed without an operator decision, under the operator's standing instruction.
