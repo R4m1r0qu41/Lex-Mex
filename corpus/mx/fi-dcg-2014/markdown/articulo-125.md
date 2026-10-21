@@ -10,12 +10,12 @@ generated: true
 temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20los%20fondos%20de%20inversi%C3%B3n%20y%20a%20las%20personas%20que%20les%20prestan%20servicios.pdf
-source_sha256: 30cec2bac3222c89d447b6e8adc7877ea45ece21dfc270ed8c963ea91649b6ee
+source_sha256: 3b21198efc7e52987a773cbcc48772185e6eadc7338673fa39bfb38ba907d07b
 ---
 
 # Artículo 125
 
-Las sociedades operadoras de fondos de inversión para el desempeño de las funciones de Administración integral de riesgos previstas en las presentes disposiciones, podrán optar por establecer un comité de riesgos. En este supuesto el citado comité contará con las atribuciones señaladas en los artículos [121](articulo-121.md), fracciones III a IX y último párrafo; [123](articulo-123.md), fracciones II y VI a IX, y [133](articulo-133.md), fracciones I, incisos a), b), c) y d), II y III de las presentes disposiciones.
+Las sociedades operadoras de fondos de inversión para el desempeño de las funciones de [Administración integral de riesgos](articulo-1.md) previstas en las presentes disposiciones, podrán optar por establecer un comité de riesgos. En este supuesto el citado comité contará con las atribuciones señaladas en los artículos [121](articulo-121.md), fracciones III a IX y último párrafo; [123](articulo-123.md), fracciones II y VI a IX, y [133](articulo-133.md), fracciones I, incisos a), b), c) y d), II y III de las presentes disposiciones.
 
 En su caso, dicho comité deberá sesionar cuando menos una vez al mes y estará integrado por un miembro del consejo de administración, quien deberá presidirlo, el director general y el responsable de la Administración integral de riesgos de la sociedad operadora de fondos de inversión. El contralor normativo deberá asistir a todas las sesiones del comité de riesgos y podrá participar con voz, pero sin voto. Asimismo, las personas que, en su caso, sean invitadas a las sesiones, podrán participar con voz, pero sin voto.
 

@@ -11,7 +11,7 @@ temporal_status: unknown
 review_status: not_analyzed
 amendment_marks: [9,37]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20los%20fondos%20de%20inversi%C3%B3n%20y%20a%20las%20personas%20que%20les%20prestan%20servicios.pdf
-source_sha256: 30cec2bac3222c89d447b6e8adc7877ea45ece21dfc270ed8c963ea91649b6ee
+source_sha256: 3b21198efc7e52987a773cbcc48772185e6eadc7338673fa39bfb38ba907d07b
 ---
 
 # Artículo 75
@@ -22,9 +22,7 @@ I. Para el caso de los estados financieros básicos consolidados de los fondos d
 
 a) Estado de valuación de cartera de inversión:
 
-"El presente estado de valuación de cartera de inversión, se formuló de conformidad con los criterios de contabilidad para fondos de inversión, emitidos por la Comisión Nacional Bancaria y de Valores con fundamento en el artículo [76](../../lfi/markdown/articulo-76.md) de la Ley de Fondos de Inversión, de observancia general y obligatoria, aplicados de manera consistente, encontrándose reflejadas las operaciones con activos objeto de inversión efectuadas por el fondo durante el periodo arriba mencionado, las cuales se realizaron y valuaron con apego a sanas prácticas y a las disposiciones legales y administrativas aplicables.
-
-El presente estado de valuación de cartera de inversión fue aprobado por el consejo de administración de (nombre de la Sociedad Operadora que administre sus activos) bajo la responsabilidad de los directivos que lo suscriben."
+"El presente estado de valuación de cartera de inversión, se formuló de conformidad con los criterios de contabilidad para fondos de inversión, emitidos por la Comisión Nacional Bancaria y de Valores con fundamento en el artículo [76](../../lfi/markdown/articulo-76.md) de la [Ley](articulo-1.md) de Fondos de Inversión, de observancia general y obligatoria, aplicados de manera consistente, encontrándose reflejadas las operaciones con activos objeto de inversión efectuadas por el fondo durante el periodo arriba mencionado, las cuales se realizaron y valuaron con apego a sanas prácticas y a las disposiciones legales y administrativas aplicables. El presente estado de valuación de cartera de inversión fue aprobado por el consejo de administración de (nombre de la Sociedad Operadora que administre sus activos) bajo la responsabilidad de los directivos que lo suscriben."
 
 b)Estado de situación financiera.
 
@@ -108,9 +106,7 @@ c) Estado de cambios en el capital contable:
 
 “El presente estado de cambios en el capital contable se formuló de conformidad con las Normas de Información Financiera, emitidas por el Consejo Mexicano de Normas de Información Financiera, A.C., que le resultan aplicables a las sociedades valuadoras de acciones de fondos de inversión con fundamento en lo dispuesto por el artículo [76](../../lfi/markdown/articulo-76.md) de la Ley de Fondos de Inversión, de observancia general y obligatoria, aplicadas de manera consistente, encontrándose reflejadas las operaciones efectuadas por la sociedad hasta la fecha arriba mencionada, las cuales se realizaron y valuaron con apego a sanas prácticas y a las disposiciones legales y administrativas aplicables.
 
-El presente estado de cambios en el capital contable fue aprobado por el consejo de administración bajo la responsabilidad de los directivos que lo suscriben."
-
-d) Estado de flujos de efectivo:
+El presente estado de cambios en el capital contable fue aprobado por el consejo de administración bajo la responsabilidad de los directivos que lo suscriben." d) Estado de flujos de efectivo:
 
 “El presente estado de flujos de efectivo se formuló de conformidad con las Normas de Información Financiera, emitidas por el Consejo Mexicano de Normas de Información Financiera, A.C., que le resultan aplicables a las sociedades valuadoras de acciones de fondos de inversión con fundamento en lo dispuesto por el artículo [76](../../lfi/markdown/articulo-76.md) de la Ley de Fondos de Inversión, de observancia general y obligatoria, aplicadas de manera consistente, encontrándose reflejadas las operaciones efectuadas por la sociedad hasta la fecha arriba mencionada, las cuales se realizaron y valuaron con apego a sanas prácticas y a las disposiciones legales y administrativas aplicables.
 

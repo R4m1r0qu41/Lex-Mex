@@ -1,1 +1,2504 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:1:term-usage:47-50",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 47,
+    "end_char": 50
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:1:term-usage:3922-3939",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:unidad-de-negocio",
+    "span": "Unidad de negocio",
+    "start_char": 3922,
+    "end_char": 3939
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:1:term-usage:4630-4646",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:factor-de-riesgo",
+    "span": "Factor de riesgo",
+    "start_char": 4630,
+    "end_char": 4646
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:1:term-usage:9366-9401",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:certificados-bursatiles-fiduciarios",
+    "span": "Certificados bursátiles fiduciarios",
+    "start_char": 9366,
+    "end_char": 9401
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:1:term-usage:9409-9430",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:valores-estructurados",
+    "span": "Valores estructurados",
+    "start_char": 9409,
+    "end_char": 9430
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:1:term-usage:9528-9531",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 9528,
+    "end_char": 9531
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:5:term-usage:2405-2426",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:valores-estructurados",
+    "span": "Valores estructurados",
+    "start_char": 2405,
+    "end_char": 2426
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:5:term-usage:2428-2463",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:certificados-bursatiles-fiduciarios",
+    "span": "Certificados bursátiles fiduciarios",
+    "start_char": 2428,
+    "end_char": 2463
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:5:term-usage:2466-2497",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:valores-respaldados-por-activos",
+    "span": "Valores respaldados por activos",
+    "start_char": 2466,
+    "end_char": 2497
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:5:term-usage:2779-2810",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:valores-respaldados-por-activos",
+    "span": "Valores respaldados por activos",
+    "start_char": 2779,
+    "end_char": 2810
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:5:term-usage:2813-2834",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:valores-estructurados",
+    "span": "Valores estructurados",
+    "start_char": 2813,
+    "end_char": 2834
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:5:term-usage:3041-3062",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:valores-estructurados",
+    "span": "Valores estructurados",
+    "start_char": 3041,
+    "end_char": 3062
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:5:term-usage:4157-4160",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 4157,
+    "end_char": 4160
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:6:term-usage:328-335",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:6",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:emisora",
+    "span": "Emisora",
+    "start_char": 328,
+    "end_char": 335
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:6:term-usage:470-478",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:6",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:emisora",
+    "span": "Emisoras",
+    "start_char": 470,
+    "end_char": 478
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:6:term-usage:4521-4528",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:6",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:emisora",
+    "span": "Emisora",
+    "start_char": 4521,
+    "end_char": 4528
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:6:term-usage:5445-5466",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:6",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:valores-estructurados",
+    "span": "Valores estructurados",
+    "start_char": 5445,
+    "end_char": 5466
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:6:term-usage:5468-5499",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:6",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:valores-respaldados-por-activos",
+    "span": "Valores respaldados por activos",
+    "start_char": 5468,
+    "end_char": 5499
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:6:term-usage:5502-5537",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:6",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:certificados-bursatiles-fiduciarios",
+    "span": "Certificados bursátiles fiduciarios",
+    "start_char": 5502,
+    "end_char": 5537
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:6:term-usage:5948-5969",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:6",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:valores-estructurados",
+    "span": "Valores estructurados",
+    "start_char": 5948,
+    "end_char": 5969
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:6:term-usage:5971-6002",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:6",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:valores-respaldados-por-activos",
+    "span": "Valores respaldados por activos",
+    "start_char": 5971,
+    "end_char": 6002
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:6:term-usage:6005-6040",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:6",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:certificados-bursatiles-fiduciarios",
+    "span": "Certificados bursátiles fiduciarios",
+    "start_char": 6005,
+    "end_char": 6040
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:6-bis:term-usage:586-617",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:6-bis",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:activos-objeto-de-inversion-asg",
+    "span": "Activos Objeto de Inversión ASG",
+    "start_char": 586,
+    "end_char": 617
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:7:term-usage:251-272",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:valores-estructurados",
+    "span": "Valores estructurados",
+    "start_char": 251,
+    "end_char": 272
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:9:term-usage:771-802",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:activos-objeto-de-inversion-asg",
+    "span": "Activos Objeto de Inversión ASG",
+    "start_char": 771,
+    "end_char": 802
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:9:term-usage:1158-1162",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:sedi",
+    "span": "SEDI",
+    "start_char": 1158,
+    "end_char": 1162
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:9:term-usage:2313-2317",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:sedi",
+    "span": "SEDI",
+    "start_char": 2313,
+    "end_char": 2317
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:9:term-usage:3953-3956",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 3953,
+    "end_char": 3956
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:9:term-usage:4618-4622",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:sedi",
+    "span": "SEDI",
+    "start_char": 4618,
+    "end_char": 4622
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:9:term-usage:7178-7212",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:administracion-integral-de-riesgos",
+    "span": "Administración integral de riesgos",
+    "start_char": 7178,
+    "end_char": 7212
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:11:term-usage:137-172",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:certificados-bursatiles-fiduciarios",
+    "span": "Certificados bursátiles fiduciarios",
+    "start_char": 137,
+    "end_char": 172
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:11:term-usage:174-195",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:valores-estructurados",
+    "span": "Valores estructurados",
+    "start_char": 174,
+    "end_char": 195
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:11:term-usage:198-229",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:valores-respaldados-por-activos",
+    "span": "Valores respaldados por activos",
+    "start_char": 198,
+    "end_char": 229
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:11:term-usage:2046-2081",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:certificados-bursatiles-fiduciarios",
+    "span": "Certificados bursátiles fiduciarios",
+    "start_char": 2046,
+    "end_char": 2081
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:11:term-usage:2083-2104",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:valores-estructurados",
+    "span": "Valores estructurados",
+    "start_char": 2083,
+    "end_char": 2104
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:11:term-usage:2107-2138",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:valores-respaldados-por-activos",
+    "span": "Valores respaldados por activos",
+    "start_char": 2107,
+    "end_char": 2138
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:11:term-usage:2401-2436",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:certificados-bursatiles-fiduciarios",
+    "span": "Certificados bursátiles fiduciarios",
+    "start_char": 2401,
+    "end_char": 2436
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:11:term-usage:2438-2459",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:valores-estructurados",
+    "span": "Valores estructurados",
+    "start_char": 2438,
+    "end_char": 2459
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:11:term-usage:2462-2493",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:valores-respaldados-por-activos",
+    "span": "Valores respaldados por activos",
+    "start_char": 2462,
+    "end_char": 2493
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:12:term-usage:657-691",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:administracion-integral-de-riesgos",
+    "span": "Administración integral de riesgos",
+    "start_char": 657,
+    "end_char": 691
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:12:term-usage:2839-2842",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 2839,
+    "end_char": 2842
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:13:term-usage:518-521",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:13",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 518,
+    "end_char": 521
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:13:term-usage:1366-1369",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:13",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 1366,
+    "end_char": 1369
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:14:term-usage:398-432",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:administracion-integral-de-riesgos",
+    "span": "Administración integral de riesgos",
+    "start_char": 398,
+    "end_char": 432
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:14:term-usage:2515-2518",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 2515,
+    "end_char": 2518
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:14:term-usage:3928-3931",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 3928,
+    "end_char": 3931
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:14-bis:term-usage:5035-5038",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:14-bis",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 5035,
+    "end_char": 5038
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:15:term-usage:1494-1528",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:15",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:administracion-integral-de-riesgos",
+    "span": "Administración integral de riesgos",
+    "start_char": 1494,
+    "end_char": 1528
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:15:term-usage:2584-2588",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:15",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:sedi",
+    "span": "SEDI",
+    "start_char": 2584,
+    "end_char": 2588
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:17:term-usage:1674-1677",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:17",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 1674,
+    "end_char": 1677
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:17:term-usage:1699-1720",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:17",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:valores-estructurados",
+    "span": "Valores estructurados",
+    "start_char": 1699,
+    "end_char": 1720
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:17:term-usage:1722-1753",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:17",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:valores-respaldados-por-activos",
+    "span": "Valores respaldados por activos",
+    "start_char": 1722,
+    "end_char": 1753
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:18:term-usage:1517-1520",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:18",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 1517,
+    "end_char": 1520
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:19:term-usage:895-898",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:19",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 895,
+    "end_char": 898
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:19:term-usage:1582-1585",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:19",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 1582,
+    "end_char": 1585
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:20:term-usage:148-151",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 148,
+    "end_char": 151
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:22:term-usage:528-536",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:22",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:emisora",
+    "span": "Emisoras",
+    "start_char": 528,
+    "end_char": 536
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:22:term-usage:2417-2447",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:22",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:inversionista-institucional",
+    "span": "Inversionistas institucionales",
+    "start_char": 2417,
+    "end_char": 2447
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:23:term-usage:131-161",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:inversionista-institucional",
+    "span": "Inversionistas institucionales",
+    "start_char": 131,
+    "end_char": 161
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:23:term-usage:423-453",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:inversionista-institucional",
+    "span": "Inversionistas institucionales",
+    "start_char": 423,
+    "end_char": 453
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:25:term-usage:83-113",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:inversionista-institucional",
+    "span": "Inversionistas institucionales",
+    "start_char": 83,
+    "end_char": 113
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:25:term-usage:687-695",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:emisora",
+    "span": "Emisoras",
+    "start_char": 687,
+    "end_char": 695
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:25:term-usage:846-849",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 846,
+    "end_char": 849
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:25-bis:term-usage:383-386",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:25-bis",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 383,
+    "end_char": 386
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:25-bis:term-usage:819-853",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:25-bis",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:administracion-integral-de-riesgos",
+    "span": "Administración integral de riesgos",
+    "start_char": 819,
+    "end_char": 853
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:25-bis:term-usage:1017-1020",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:25-bis",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 1017,
+    "end_char": 1020
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:25-bis:term-usage:2387-2390",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:25-bis",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 2387,
+    "end_char": 2390
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:25-bis:term-usage:2538-2541",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:25-bis",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 2538,
+    "end_char": 2541
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:25-bis:term-usage:2910-2913",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:25-bis",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 2910,
+    "end_char": 2913
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:25-bis:term-usage:3779-3782",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:25-bis",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 3779,
+    "end_char": 3782
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:25-bis:term-usage:4378-4382",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:25-bis",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:stiv",
+    "span": "STIV",
+    "start_char": 4378,
+    "end_char": 4382
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:25-bis-1:term-usage:143-146",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:25-bis-1",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 143,
+    "end_char": 146
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:25-bis-2:term-usage:1259-1262",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:25-bis-2",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 1259,
+    "end_char": 1262
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:25-bis-4:term-usage:21-55",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:25-bis-4",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:administracion-integral-de-riesgos",
+    "span": "Administración integral de riesgos",
+    "start_char": 21,
+    "end_char": 55
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:25-bis-4:term-usage:1880-1914",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:25-bis-4",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:administracion-integral-de-riesgos",
+    "span": "Administración integral de riesgos",
+    "start_char": 1880,
+    "end_char": 1914
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:25-bis-5:term-usage:181-184",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:25-bis-5",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 181,
+    "end_char": 184
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:25-bis-6:term-usage:101-104",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:25-bis-6",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 101,
+    "end_char": 104
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:25-bis-7:term-usage:100-103",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:25-bis-7",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 100,
+    "end_char": 103
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:25-bis-8:term-usage:131-134",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:25-bis-8",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 131,
+    "end_char": 134
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:25-bis-8:term-usage:266-269",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:25-bis-8",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 266,
+    "end_char": 269
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:25-bis-11:term-usage:163-197",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:25-bis-11",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:administracion-integral-de-riesgos",
+    "span": "Administración integral de riesgos",
+    "start_char": 163,
+    "end_char": 197
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:25-bis-12:term-usage:492-526",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:25-bis-12",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:administracion-integral-de-riesgos",
+    "span": "Administración integral de riesgos",
+    "start_char": 492,
+    "end_char": 526
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:25-bis-13:term-usage:410-444",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:25-bis-13",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:administracion-integral-de-riesgos",
+    "span": "Administración integral de riesgos",
+    "start_char": 410,
+    "end_char": 444
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:25-bis-14:term-usage:109-112",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:25-bis-14",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 109,
+    "end_char": 112
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:26:term-usage:282-285",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 282,
+    "end_char": 285
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:26:term-usage:1887-1890",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 1887,
+    "end_char": 1890
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:26:term-usage:4907-4910",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 4907,
+    "end_char": 4910
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:27-bis:term-usage:262-300",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:27-bis",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:servicios-complementarios-o-auxiliares",
+    "span": "Servicios complementarios o auxiliares",
+    "start_char": 262,
+    "end_char": 300
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:27-bis:term-usage:344-347",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:27-bis",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 344,
+    "end_char": 347
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:27-bis-1:term-usage:253-291",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:27-bis-1",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:servicios-complementarios-o-auxiliares",
+    "span": "Servicios complementarios o auxiliares",
+    "start_char": 253,
+    "end_char": 291
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:27-bis-1:term-usage:1241-1279",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:27-bis-1",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:servicios-complementarios-o-auxiliares",
+    "span": "Servicios complementarios o auxiliares",
+    "start_char": 1241,
+    "end_char": 1279
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:27-bis-2:term-usage:276-314",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:27-bis-2",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:servicios-complementarios-o-auxiliares",
+    "span": "Servicios complementarios o auxiliares",
+    "start_char": 276,
+    "end_char": 314
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:27-bis-2:term-usage:801-839",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:27-bis-2",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:servicios-complementarios-o-auxiliares",
+    "span": "Servicios complementarios o auxiliares",
+    "start_char": 801,
+    "end_char": 839
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:28:term-usage:312-315",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:28",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:udi",
+    "span": "UDI",
+    "start_char": 312,
+    "end_char": 315
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:28:term-usage:477-480",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:28",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:udi",
+    "span": "UDI",
+    "start_char": 477,
+    "end_char": 480
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:29:term-usage:406-409",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:29",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:udi",
+    "span": "UDI",
+    "start_char": 406,
+    "end_char": 409
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:29:term-usage:570-573",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:29",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:udi",
+    "span": "UDI",
+    "start_char": 570,
+    "end_char": 573
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:30:term-usage:56-59",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:30",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:udi",
+    "span": "UDI",
+    "start_char": 56,
+    "end_char": 59
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:30:term-usage:117-120",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:30",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:udi",
+    "span": "UDI",
+    "start_char": 117,
+    "end_char": 120
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:30:term-usage:192-195",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:30",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:udi",
+    "span": "UDI",
+    "start_char": 192,
+    "end_char": 195
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:34-bis-1:term-usage:126-129",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:34-bis-1",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 126,
+    "end_char": 129
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:34-bis-2:term-usage:21-55",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:34-bis-2",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:administracion-integral-de-riesgos",
+    "span": "Administración integral de riesgos",
+    "start_char": 21,
+    "end_char": 55
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:35:term-usage:148-151",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:35",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:udi",
+    "span": "UDI",
+    "start_char": 148,
+    "end_char": 151
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:35:term-usage:210-213",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:35",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:udi",
+    "span": "UDI",
+    "start_char": 210,
+    "end_char": 213
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:39:term-usage:239-242",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:39",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 239,
+    "end_char": 242
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:40:term-usage:1952-1955",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:40",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 1952,
+    "end_char": 1955
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:43:term-usage:349-357",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:43",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:emisora",
+    "span": "Emisoras",
+    "start_char": 349,
+    "end_char": 357
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:43:term-usage:1437-1445",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:43",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:emisora",
+    "span": "Emisoras",
+    "start_char": 1437,
+    "end_char": 1445
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:48:term-usage:448-451",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:48",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 448,
+    "end_char": 451
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:50:term-usage:160-163",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:50",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 160,
+    "end_char": 163
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:52:term-usage:94-97",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:52",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 94,
+    "end_char": 97
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:54:term-usage:186-189",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:54",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 186,
+    "end_char": 189
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:55:term-usage:101-104",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:55",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 101,
+    "end_char": 104
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:55:term-usage:304-307",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:55",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 304,
+    "end_char": 307
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:56:term-usage:136-139",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:56",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:udi",
+    "span": "UDI",
+    "start_char": 136,
+    "end_char": 139
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:56:term-usage:255-258",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:56",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:udi",
+    "span": "UDI",
+    "start_char": 255,
+    "end_char": 258
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:56:term-usage:310-313",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:56",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:udi",
+    "span": "UDI",
+    "start_char": 310,
+    "end_char": 313
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:58:term-usage:149-152",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:58",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 149,
+    "end_char": 152
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:59:term-usage:115-118",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:59",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 115,
+    "end_char": 118
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:62:term-usage:501-504",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:62",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 501,
+    "end_char": 504
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:63:term-usage:561-564",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:63",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 561,
+    "end_char": 564
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:63-bis:term-usage:245-248",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:63-bis",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 245,
+    "end_char": 248
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:63-bis:term-usage:5670-5673",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:63-bis",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 5670,
+    "end_char": 5673
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:63-bis-1:term-usage:781-784",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:63-bis-1",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 781,
+    "end_char": 784
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:63-bis-3:term-usage:213-216",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:63-bis-3",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 213,
+    "end_char": 216
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:63-bis-5:term-usage:3920-3923",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:63-bis-5",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 3920,
+    "end_char": 3923
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-1:term-usage:463-466",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-1",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 463,
+    "end_char": 466
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-2:term-usage:1089-1092",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-2",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 1089,
+    "end_char": 1092
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-2:term-usage:1626-1629",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-2",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 1626,
+    "end_char": 1629
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-5:term-usage:2403-2406",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-5",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 2403,
+    "end_char": 2406
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-10:term-usage:499-502",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-10",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 499,
+    "end_char": 502
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-11:term-usage:488-491",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-11",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 488,
+    "end_char": 491
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-12:term-usage:76-106",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-12",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:plan-de-continuidad-de-negocio",
+    "span": "Plan de Continuidad de Negocio",
+    "start_char": 76,
+    "end_char": 106
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-12:term-usage:164-186",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-12",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:contingencia-operativa",
+    "span": "Contingencia Operativa",
+    "start_char": 164,
+    "end_char": 186
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-13:term-usage:71-101",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-13",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:plan-de-continuidad-de-negocio",
+    "span": "Plan de Continuidad de Negocio",
+    "start_char": 71,
+    "end_char": 101
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-13:term-usage:776-806",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-13",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:plan-de-continuidad-de-negocio",
+    "span": "Plan de Continuidad de Negocio",
+    "start_char": 776,
+    "end_char": 806
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-13:term-usage:2384-2414",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-13",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:plan-de-continuidad-de-negocio",
+    "span": "Plan de Continuidad de Negocio",
+    "start_char": 2384,
+    "end_char": 2414
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-14:term-usage:258-282",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-14",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:contingencia-operativa",
+    "span": "Contingencias Operativas",
+    "start_char": 258,
+    "end_char": 282
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-14:term-usage:618-642",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-14",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:contingencia-operativa",
+    "span": "Contingencias Operativas",
+    "start_char": 618,
+    "end_char": 642
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-14:term-usage:816-846",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-14",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:plan-de-continuidad-de-negocio",
+    "span": "Plan de Continuidad de Negocio",
+    "start_char": 816,
+    "end_char": 846
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-19:term-usage:4179-4182",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-19",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 4179,
+    "end_char": 4182
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-40:term-usage:519-522",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-40",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 519,
+    "end_char": 522
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-43:term-usage:1319-1322",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-43",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 1319,
+    "end_char": 1322
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-47:term-usage:383-386",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-47",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 383,
+    "end_char": 386
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-47:term-usage:525-528",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-47",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 525,
+    "end_char": 528
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-49:term-usage:383-386",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-49",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 383,
+    "end_char": 386
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-49:term-usage:814-817",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-49",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 814,
+    "end_char": 817
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-49:term-usage:1640-1643",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-49",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 1640,
+    "end_char": 1643
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-49:term-usage:3696-3699",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-49",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 3696,
+    "end_char": 3699
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-49:term-usage:4448-4481",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-49",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:auditor-externo-independiente",
+    "span": "Auditores Externos Independientes",
+    "start_char": 4448,
+    "end_char": 4481
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-49:term-usage:4860-4863",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-49",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 4860,
+    "end_char": 4863
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-49:term-usage:6224-6253",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-49",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:auditor-externo-independiente",
+    "span": "Auditor Externo Independiente",
+    "start_char": 6224,
+    "end_char": 6253
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-49:term-usage:6721-6754",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-49",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:auditor-externo-independiente",
+    "span": "Auditores Externos Independientes",
+    "start_char": 6721,
+    "end_char": 6754
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-49:term-usage:6979-6982",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-49",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 6979,
+    "end_char": 6982
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-49:term-usage:8380-8413",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-49",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:auditor-externo-independiente",
+    "span": "Auditores Externos Independientes",
+    "start_char": 8380,
+    "end_char": 8413
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-49:term-usage:8596-8599",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-49",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 8596,
+    "end_char": 8599
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-49:term-usage:8927-8931",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-49",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:stiv",
+    "span": "STIV",
+    "start_char": 8927,
+    "end_char": 8931
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-49:term-usage:9622-9626",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-49",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:sedi",
+    "span": "SEDI",
+    "start_char": 9622,
+    "end_char": 9626
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-49:term-usage:9781-9784",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-49",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 9781,
+    "end_char": 9784
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-49:term-usage:10005-10009",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-49",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:stiv",
+    "span": "STIV",
+    "start_char": 10005,
+    "end_char": 10009
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-49:term-usage:10162-10166",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-49",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:sedi",
+    "span": "SEDI",
+    "start_char": 10162,
+    "end_char": 10166
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:75:term-usage:706-709",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:75",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 706,
+    "end_char": 709
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:75:term-usage:1569-1572",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:75",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 1569,
+    "end_char": 1572
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:75:term-usage:5652-5655",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:75",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 5652,
+    "end_char": 5655
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:75:term-usage:6699-6702",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:75",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 6699,
+    "end_char": 6702
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:75:term-usage:7450-7453",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:75",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 7450,
+    "end_char": 7453
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:75:term-usage:8269-8272",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:75",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 8269,
+    "end_char": 8272
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:75:term-usage:9098-9101",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:75",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 9098,
+    "end_char": 9101
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:75:term-usage:10012-10015",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:75",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 10012,
+    "end_char": 10015
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:75:term-usage:11039-11042",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:75",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 11039,
+    "end_char": 11042
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:75:term-usage:11882-11885",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:75",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 11882,
+    "end_char": 11885
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:75:term-usage:12747-12750",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:75",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 12747,
+    "end_char": 12750
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:75:term-usage:13599-13602",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:75",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 13599,
+    "end_char": 13602
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:75:term-usage:14876-14879",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:75",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 14876,
+    "end_char": 14879
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:78:term-usage:2502-2506",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:78",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:sedi",
+    "span": "SEDI",
+    "start_char": 2502,
+    "end_char": 2506
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:80:term-usage:3182-3186",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:80",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:siti",
+    "span": "SITI",
+    "start_char": 3182,
+    "end_char": 3186
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:81:term-usage:2964-2968",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:81",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:sedi",
+    "span": "SEDI",
+    "start_char": 2964,
+    "end_char": 2968
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:84:term-usage:480-484",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:84",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:siti",
+    "span": "SITI",
+    "start_char": 480,
+    "end_char": 484
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:84:term-usage:816-820",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:84",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:siti",
+    "span": "SITI",
+    "start_char": 816,
+    "end_char": 820
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:85:term-usage:156-159",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:85",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 156,
+    "end_char": 159
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:85:term-usage:327-331",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:85",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:stiv",
+    "span": "STIV",
+    "start_char": 327,
+    "end_char": 331
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:85:term-usage:960-964",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:85",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:stiv",
+    "span": "STIV",
+    "start_char": 960,
+    "end_char": 964
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:85:term-usage:1451-1455",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:85",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:sedi",
+    "span": "SEDI",
+    "start_char": 1451,
+    "end_char": 1455
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:85:term-usage:1567-1600",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:85",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:auditor-externo-independiente",
+    "span": "Auditores Externos Independientes",
+    "start_char": 1567,
+    "end_char": 1600
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:87:term-usage:128-161",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:87",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:auditor-externo-independiente",
+    "span": "Auditores Externos Independientes",
+    "start_char": 128,
+    "end_char": 161
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:100:term-usage:97-130",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:100",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:auditor-externo-independiente",
+    "span": "Auditores Externos Independientes",
+    "start_char": 97,
+    "end_char": 130
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:106:term-usage:2653-2656",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:106",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 2653,
+    "end_char": 2656
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:108-bis-1:term-usage:260-263",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:108-bis-1",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 260,
+    "end_char": 263
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:114:term-usage:203-206",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:114",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 203,
+    "end_char": 206
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:117:term-usage:519-522",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:117",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 519,
+    "end_char": 522
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:117:term-usage:666-669",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:117",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 666,
+    "end_char": 669
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:117:term-usage:863-866",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:117",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 863,
+    "end_char": 866
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:117:term-usage:923-957",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:117",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:administracion-integral-de-riesgos",
+    "span": "Administración integral de riesgos",
+    "start_char": 923,
+    "end_char": 957
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:118:term-usage:129-163",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:118",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:administracion-integral-de-riesgos",
+    "span": "Administración integral de riesgos",
+    "start_char": 129,
+    "end_char": 163
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:120:term-usage:103-137",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:120",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:administracion-integral-de-riesgos",
+    "span": "Administración integral de riesgos",
+    "start_char": 103,
+    "end_char": 137
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:120:term-usage:574-608",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:120",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:administracion-integral-de-riesgos",
+    "span": "Administración integral de riesgos",
+    "start_char": 574,
+    "end_char": 608
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:120:term-usage:1188-1204",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:120",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:factor-de-riesgo",
+    "span": "Factor de riesgo",
+    "start_char": 1188,
+    "end_char": 1204
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:120:term-usage:1504-1521",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:120",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:unidad-de-negocio",
+    "span": "Unidad de negocio",
+    "start_char": 1504,
+    "end_char": 1521
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:120:term-usage:1756-1790",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:120",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:administracion-integral-de-riesgos",
+    "span": "Administración integral de riesgos",
+    "start_char": 1756,
+    "end_char": 1790
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:120:term-usage:1950-1984",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:120",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:administracion-integral-de-riesgos",
+    "span": "Administración integral de riesgos",
+    "start_char": 1950,
+    "end_char": 1984
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:121:term-usage:314-348",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:121",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:administracion-integral-de-riesgos",
+    "span": "Administración integral de riesgos",
+    "start_char": 314,
+    "end_char": 348
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:121:term-usage:599-615",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:121",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:factor-de-riesgo",
+    "span": "Factor de riesgo",
+    "start_char": 599,
+    "end_char": 615
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:121:term-usage:884-918",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:121",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:administracion-integral-de-riesgos",
+    "span": "Administración integral de riesgos",
+    "start_char": 884,
+    "end_char": 918
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:121:term-usage:1484-1518",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:121",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:administracion-integral-de-riesgos",
+    "span": "Administración integral de riesgos",
+    "start_char": 1484,
+    "end_char": 1518
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:121:term-usage:1883-1917",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:121",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:administracion-integral-de-riesgos",
+    "span": "Administración integral de riesgos",
+    "start_char": 1883,
+    "end_char": 1917
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:121:term-usage:2009-2043",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:121",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:administracion-integral-de-riesgos",
+    "span": "Administración integral de riesgos",
+    "start_char": 2009,
+    "end_char": 2043
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:121:term-usage:2097-2131",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:121",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:administracion-integral-de-riesgos",
+    "span": "Administración integral de riesgos",
+    "start_char": 2097,
+    "end_char": 2131
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:121:term-usage:2621-2655",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:121",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:administracion-integral-de-riesgos",
+    "span": "Administración integral de riesgos",
+    "start_char": 2621,
+    "end_char": 2655
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:122:term-usage:119-132",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:122",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:independencia",
+    "span": "Independencia",
+    "start_char": 119,
+    "end_char": 132
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:122:term-usage:172-206",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:122",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:administracion-integral-de-riesgos",
+    "span": "Administración integral de riesgos",
+    "start_char": 172,
+    "end_char": 206
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:122:term-usage:213-233",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:122",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:unidad-de-negocio",
+    "span": "Unidades de negocios",
+    "start_char": 213,
+    "end_char": 233
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:122:term-usage:386-420",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:122",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:administracion-integral-de-riesgos",
+    "span": "Administración integral de riesgos",
+    "start_char": 386,
+    "end_char": 420
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:122:term-usage:430-450",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:122",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:unidad-de-negocio",
+    "span": "Unidades de negocios",
+    "start_char": 430,
+    "end_char": 450
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:122:term-usage:1328-1362",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:122",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:administracion-integral-de-riesgos",
+    "span": "Administración integral de riesgos",
+    "start_char": 1328,
+    "end_char": 1362
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:122:term-usage:1682-1699",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:122",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:unidad-de-negocio",
+    "span": "Unidad de negocio",
+    "start_char": 1682,
+    "end_char": 1699
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:122:term-usage:1725-1759",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:122",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:administracion-integral-de-riesgos",
+    "span": "Administración integral de riesgos",
+    "start_char": 1725,
+    "end_char": 1759
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:123:term-usage:35-69",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:123",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:administracion-integral-de-riesgos",
+    "span": "Administración integral de riesgos",
+    "start_char": 35,
+    "end_char": 69
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:123:term-usage:355-389",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:123",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:administracion-integral-de-riesgos",
+    "span": "Administración integral de riesgos",
+    "start_char": 355,
+    "end_char": 389
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:123:term-usage:416-436",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:123",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:unidad-de-negocio",
+    "span": "Unidades de negocios",
+    "start_char": 416,
+    "end_char": 436
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:123:term-usage:565-599",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:123",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:administracion-integral-de-riesgos",
+    "span": "Administración integral de riesgos",
+    "start_char": 565,
+    "end_char": 599
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:123:term-usage:676-710",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:123",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:administracion-integral-de-riesgos",
+    "span": "Administración integral de riesgos",
+    "start_char": 676,
+    "end_char": 710
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:123:term-usage:1136-1170",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:123",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:administracion-integral-de-riesgos",
+    "span": "Administración integral de riesgos",
+    "start_char": 1136,
+    "end_char": 1170
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:123:term-usage:1415-1431",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:123",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:factor-de-riesgo",
+    "span": "Factor de riesgo",
+    "start_char": 1415,
+    "end_char": 1431
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:123:term-usage:2374-2390",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:123",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:factor-de-riesgo",
+    "span": "Factor de riesgo",
+    "start_char": 2374,
+    "end_char": 2390
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:123:term-usage:2676-2710",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:123",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:administracion-integral-de-riesgos",
+    "span": "Administración integral de riesgos",
+    "start_char": 2676,
+    "end_char": 2710
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:123:term-usage:3310-3326",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:123",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:factor-de-riesgo",
+    "span": "Factor de riesgo",
+    "start_char": 3310,
+    "end_char": 3326
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:124:term-usage:21-55",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:124",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:administracion-integral-de-riesgos",
+    "span": "Administración integral de riesgos",
+    "start_char": 21,
+    "end_char": 55
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:124:term-usage:969-985",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:124",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:factor-de-riesgo",
+    "span": "Factor de riesgo",
+    "start_char": 969,
+    "end_char": 985
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:124:term-usage:1373-1407",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:124",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:administracion-integral-de-riesgos",
+    "span": "Administración integral de riesgos",
+    "start_char": 1373,
+    "end_char": 1407
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:125:term-usage:87-121",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:125",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:administracion-integral-de-riesgos",
+    "span": "Administración integral de riesgos",
+    "start_char": 87,
+    "end_char": 121
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:125:term-usage:667-701",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:125",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:administracion-integral-de-riesgos",
+    "span": "Administración integral de riesgos",
+    "start_char": 667,
+    "end_char": 701
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:125:term-usage:1159-1193",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:125",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:administracion-integral-de-riesgos",
+    "span": "Administración integral de riesgos",
+    "start_char": 1159,
+    "end_char": 1193
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:125:term-usage:1795-1829",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:125",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:administracion-integral-de-riesgos",
+    "span": "Administración integral de riesgos",
+    "start_char": 1795,
+    "end_char": 1829
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:125:term-usage:2000-2034",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:125",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:administracion-integral-de-riesgos",
+    "span": "Administración integral de riesgos",
+    "start_char": 2000,
+    "end_char": 2034
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:125:term-usage:2174-2208",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:125",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:administracion-integral-de-riesgos",
+    "span": "Administración integral de riesgos",
+    "start_char": 2174,
+    "end_char": 2208
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:126:term-usage:213-247",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:126",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:administracion-integral-de-riesgos",
+    "span": "Administración integral de riesgos",
+    "start_char": 213,
+    "end_char": 247
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:127:term-usage:155-189",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:127",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:administracion-integral-de-riesgos",
+    "span": "Administración integral de riesgos",
+    "start_char": 155,
+    "end_char": 189
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:127:term-usage:267-301",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:127",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:administracion-integral-de-riesgos",
+    "span": "Administración integral de riesgos",
+    "start_char": 267,
+    "end_char": 301
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:127:term-usage:472-506",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:127",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:administracion-integral-de-riesgos",
+    "span": "Administración integral de riesgos",
+    "start_char": 472,
+    "end_char": 506
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:127:term-usage:599-612",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:127",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:independencia",
+    "span": "Independencia",
+    "start_char": 599,
+    "end_char": 612
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:127:term-usage:635-669",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:127",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:administracion-integral-de-riesgos",
+    "span": "Administración integral de riesgos",
+    "start_char": 635,
+    "end_char": 669
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:127:term-usage:686-706",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:127",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:unidad-de-negocio",
+    "span": "Unidades de negocios",
+    "start_char": 686,
+    "end_char": 706
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:127:term-usage:1105-1125",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:127",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:unidad-de-negocio",
+    "span": "Unidades de negocios",
+    "start_char": 1105,
+    "end_char": 1125
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:127:term-usage:1416-1450",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:127",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:administracion-integral-de-riesgos",
+    "span": "Administración integral de riesgos",
+    "start_char": 1416,
+    "end_char": 1450
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:127:term-usage:1994-2028",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:127",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:administracion-integral-de-riesgos",
+    "span": "Administración integral de riesgos",
+    "start_char": 1994,
+    "end_char": 2028
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:127:term-usage:2171-2184",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:127",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:independencia",
+    "span": "Independencia",
+    "start_char": 2171,
+    "end_char": 2184
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:128:term-usage:228-262",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:128",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:administracion-integral-de-riesgos",
+    "span": "Administración integral de riesgos",
+    "start_char": 228,
+    "end_char": 262
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:128:term-usage:1209-1243",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:128",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:administracion-integral-de-riesgos",
+    "span": "Administración integral de riesgos",
+    "start_char": 1209,
+    "end_char": 1243
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:128:term-usage:1856-1890",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:128",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:administracion-integral-de-riesgos",
+    "span": "Administración integral de riesgos",
+    "start_char": 1856,
+    "end_char": 1890
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:129:term-usage:119-153",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:129",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:administracion-integral-de-riesgos",
+    "span": "Administración integral de riesgos",
+    "start_char": 119,
+    "end_char": 153
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:129:term-usage:464-498",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:129",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:administracion-integral-de-riesgos",
+    "span": "Administración integral de riesgos",
+    "start_char": 464,
+    "end_char": 498
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:129:term-usage:559-572",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:129",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:independencia",
+    "span": "Independencia",
+    "start_char": 559,
+    "end_char": 572
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:129:term-usage:600-634",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:129",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:administracion-integral-de-riesgos",
+    "span": "Administración integral de riesgos",
+    "start_char": 600,
+    "end_char": 634
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:129:term-usage:668-702",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:129",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:administracion-integral-de-riesgos",
+    "span": "Administración integral de riesgos",
+    "start_char": 668,
+    "end_char": 702
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:129:term-usage:767-801",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:129",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:administracion-integral-de-riesgos",
+    "span": "Administración integral de riesgos",
+    "start_char": 767,
+    "end_char": 801
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:129:term-usage:1415-1432",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:129",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:unidad-de-negocio",
+    "span": "Unidad de negocio",
+    "start_char": 1415,
+    "end_char": 1432
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:129:term-usage:2011-2045",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:129",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:administracion-integral-de-riesgos",
+    "span": "Administración integral de riesgos",
+    "start_char": 2011,
+    "end_char": 2045
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:131:term-usage:4545-4566",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:131",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:valores-estructurados",
+    "span": "Valores estructurados",
+    "start_char": 4545,
+    "end_char": 4566
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:131:term-usage:4568-4599",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:131",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:valores-respaldados-por-activos",
+    "span": "Valores respaldados por activos",
+    "start_char": 4568,
+    "end_char": 4599
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:131:term-usage:4601-4636",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:131",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:certificados-bursatiles-fiduciarios",
+    "span": "Certificados bursátiles fiduciarios",
+    "start_char": 4601,
+    "end_char": 4636
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:132:term-usage:1373-1386",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:132",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:independencia",
+    "span": "Independencia",
+    "start_char": 1373,
+    "end_char": 1386
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:132:term-usage:1401-1418",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:132",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:unidad-de-negocio",
+    "span": "Unidad de negocio",
+    "start_char": 1401,
+    "end_char": 1418
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:133:term-usage:1559-1576",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:133",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:unidad-de-negocio",
+    "span": "Unidad de negocio",
+    "start_char": 1559,
+    "end_char": 1576
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:133:term-usage:1847-1881",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:133",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:administracion-integral-de-riesgos",
+    "span": "Administración integral de riesgos",
+    "start_char": 1847,
+    "end_char": 1881
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:133:term-usage:2198-2232",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:133",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:administracion-integral-de-riesgos",
+    "span": "Administración integral de riesgos",
+    "start_char": 2198,
+    "end_char": 2232
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:133:term-usage:7408-7442",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:133",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:administracion-integral-de-riesgos",
+    "span": "Administración integral de riesgos",
+    "start_char": 7408,
+    "end_char": 7442
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:134:term-usage:539-555",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:134",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:factor-de-riesgo",
+    "span": "Factor de riesgo",
+    "start_char": 539,
+    "end_char": 555
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:134:term-usage:1118-1152",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:134",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:administracion-integral-de-riesgos",
+    "span": "Administración integral de riesgos",
+    "start_char": 1118,
+    "end_char": 1152
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:134:term-usage:1406-1440",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:134",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:administracion-integral-de-riesgos",
+    "span": "Administración integral de riesgos",
+    "start_char": 1406,
+    "end_char": 1440
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:135:term-usage:521-555",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:135",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:administracion-integral-de-riesgos",
+    "span": "Administración integral de riesgos",
+    "start_char": 521,
+    "end_char": 555
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:136:term-usage:629-636",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:136",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:emisora",
+    "span": "Emisora",
+    "start_char": 629,
+    "end_char": 636
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:136:term-usage:2009-2044",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:136",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:certificados-bursatiles-fiduciarios",
+    "span": "Certificados bursátiles fiduciarios",
+    "start_char": 2009,
+    "end_char": 2044
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:136:term-usage:2046-2067",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:136",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:valores-estructurados",
+    "span": "Valores estructurados",
+    "start_char": 2046,
+    "end_char": 2067
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:136:term-usage:2070-2101",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:136",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:valores-respaldados-por-activos",
+    "span": "Valores respaldados por activos",
+    "start_char": 2070,
+    "end_char": 2101
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:136:term-usage:3896-3927",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:136",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:activos-objeto-de-inversion-asg",
+    "span": "Activos Objeto de Inversión ASG",
+    "start_char": 3896,
+    "end_char": 3927
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:139:term-usage:315-322",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:139",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:emisora",
+    "span": "Emisora",
+    "start_char": 315,
+    "end_char": 322
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:139:term-usage:664-667",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:139",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "span": "Ley",
+    "start_char": 664,
+    "end_char": 667
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:143:term-usage:570-574",
+    "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:143",
+    "term_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:sedi",
+    "span": "SEDI",
+    "start_char": 570,
+    "end_char": 574
+  }
+]

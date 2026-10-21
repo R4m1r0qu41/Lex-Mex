@@ -10,11 +10,11 @@ generated: true
 temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20los%20fondos%20de%20inversi%C3%B3n%20y%20a%20las%20personas%20que%20les%20prestan%20servicios.pdf
-source_sha256: 30cec2bac3222c89d447b6e8adc7877ea45ece21dfc270ed8c963ea91649b6ee
+source_sha256: 3b21198efc7e52987a773cbcc48772185e6eadc7338673fa39bfb38ba907d07b
 ---
 
 # Artículo 55
 
-Las entidades financieras y sociedades a que hace referencia el párrafo quinto del artículo 40 de la Ley, deberán presentar a la Comisión, con treinta días naturales de anticipación al inicio de las operaciones de distribución, un aviso en el que manifiesten cumplir con los requisitos que establecen la Ley y las presentes disposiciones para tal efecto, acompañado del manual de operación y funcionamiento que aplicarán en la realización de las actividades de distribución. La citada Comisión, dentro del mencionado plazo podrá formular observaciones.
+Las entidades financieras y sociedades a que hace referencia el párrafo quinto del artículo 40 de la [Ley](articulo-1.md), deberán presentar a la Comisión, con treinta días naturales de anticipación al inicio de las operaciones de distribución, un aviso en el que manifiesten cumplir con los requisitos que establecen la Ley y las presentes disposiciones para tal efecto, acompañado del manual de operación y funcionamiento que aplicarán en la realización de las actividades de distribución. La citada Comisión, dentro del mencionado plazo podrá formular observaciones.
 
 Las entidades financieras y sociedades de que se trata, no podrán actuar con el carácter de distribuidoras hasta en tanto la propia Comisión apruebe el referido manual de operación y funcionamiento.

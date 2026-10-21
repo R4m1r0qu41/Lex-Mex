@@ -11,12 +11,12 @@ temporal_status: unknown
 review_status: not_analyzed
 amendment_marks: [2]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20los%20fondos%20de%20inversi%C3%B3n%20y%20a%20las%20personas%20que%20les%20prestan%20servicios.pdf
-source_sha256: 30cec2bac3222c89d447b6e8adc7877ea45ece21dfc270ed8c963ea91649b6ee
+source_sha256: 3b21198efc7e52987a773cbcc48772185e6eadc7338673fa39bfb38ba907d07b
 ---
 
 # Artículo 27 Bis 1
 
-Las sociedades operadoras de fondos de inversión, sociedades distribuidoras o sociedades valuadoras de acciones de fondos de inversión, que pretendan aumentar o reducir la participación que mantengan en el capital social de las empresas que les presten Servicios complementarios o auxiliares, de acuerdo a lo previsto en el [artículo anterior](articulo-27-Bis.md), requerirán de la autorización de la Comisión, para lo cual deberán presentar la información siguiente:
+Las sociedades operadoras de fondos de inversión, sociedades distribuidoras o sociedades valuadoras de acciones de fondos de inversión, que pretendan aumentar o reducir la participación que mantengan en el capital social de las empresas que les presten [Servicios complementarios o auxiliares](articulo-1.md), de acuerdo a lo previsto en el [artículo anterior](articulo-27-Bis.md), requerirán de la autorización de la Comisión, para lo cual deberán presentar la información siguiente:
 
 I. La solicitud en formato libre, suscrita por el representante legal de la sociedad de que se trate, acompañada de los documentos que acrediten su personalidad.
 

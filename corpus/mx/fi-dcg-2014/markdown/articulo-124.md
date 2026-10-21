@@ -11,12 +11,12 @@ temporal_status: unknown
 review_status: not_analyzed
 amendment_marks: [37]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20los%20fondos%20de%20inversi%C3%B3n%20y%20a%20las%20personas%20que%20les%20prestan%20servicios.pdf
-source_sha256: 30cec2bac3222c89d447b6e8adc7877ea45ece21dfc270ed8c963ea91649b6ee
+source_sha256: 3b21198efc7e52987a773cbcc48772185e6eadc7338673fa39bfb38ba907d07b
 ---
 
 # Artículo 124
 
-El responsable de la Administración integral de riesgos, para llevar a cabo la medición, vigilancia y control de los diversos tipos de riesgo discrecionales y la valuación de las posiciones de los fondos de inversión de renta variable y en instrumentos de deuda a las que prestan servicios de administración de activos las sociedades operadoras de fondos de inversión, deberá:
+El responsable de la [Administración integral de riesgos](articulo-1.md), para llevar a cabo la medición, vigilancia y control de los diversos tipos de riesgo discrecionales y la valuación de las posiciones de los fondos de inversión de renta variable y en instrumentos de deuda a las que prestan servicios de administración de activos las sociedades operadoras de fondos de inversión, deberá:
 
 I. Contar con modelos y sistemas de medición de riesgos que reflejen en forma precisa el valor de las posiciones en activos de los fondos de inversión y su sensibilidad a diversos factores de riesgo, incorporando información proveniente de fuentes confiables. Dichos sistemas deberán:
 
@@ -24,7 +24,7 @@ a) Facilitar la medición, vigilancia y control de los riesgos a que se encuentr
 
 b) Considerar para efectos de análisis:
 
-1. La exposición por todo tipo de riesgo, desglosados por fondo de inversión y por tipo de activo, Factor de riesgo, causa u origen de estos.
+1. La exposición por todo tipo de riesgo, desglosados por fondo de inversión y por tipo de activo, [Factor de riesgo](articulo-1.md), causa u origen de estos.
 
 2. El impacto que, en el valor del capital o, en su caso, los activos y en el estado de resultado integral de cada fondo de inversión, provocan las alteraciones de los diferentes factores de riesgo.
 

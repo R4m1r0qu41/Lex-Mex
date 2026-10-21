@@ -10,7 +10,7 @@ generated: true
 temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20los%20fondos%20de%20inversi%C3%B3n%20y%20a%20las%20personas%20que%20les%20prestan%20servicios.pdf
-source_sha256: 30cec2bac3222c89d447b6e8adc7877ea45ece21dfc270ed8c963ea91649b6ee
+source_sha256: 3b21198efc7e52987a773cbcc48772185e6eadc7338673fa39bfb38ba907d07b
 ---
 
 # Artículo 17
@@ -25,7 +25,7 @@ Los fondos de inversión de capitales de reciente creación, contarán con el pl
 
 b) Tratándose de Valores, títulos o documentos representativos de un pasivo a cargo de las Empresas Promovidas, su plazo de amortización total de capital e intereses no excederá el plazo de vigencia del contrato de promoción, mientras que, respecto de empresas que hayan dejado de tener el carácter de promovidas, la inversión en dichos instrumentos no podrá ser mayor al plazo de cinco años, contado a partir de dicho hecho. En ambos supuestos, deberá cumplirse con el régimen de inversión previsto en el inciso anterior.
 
-c) Invertir en la constitución de depósitos de dinero y la adquisición de los Activos Objeto de Inversión a que se refiere el artículo 27, penúltimo párrafo de la Ley, salvo tratándose de Valores estructurados, Valores respaldados por activos e instrumentos financieros derivados.
+c) Invertir en la constitución de depósitos de dinero y la adquisición de los Activos Objeto de Inversión a que se refiere el artículo 27, penúltimo párrafo de la [Ley](articulo-1.md), salvo tratándose de [Valores estructurados](articulo-1.md), [Valores respaldados por activos](articulo-1.md) e instrumentos financieros derivados.
 
 Tratándose de procesos de desinversión en acciones o partes sociales de Empresas Promovidas, que se verifiquen durante el desarrollo del cumplimiento del objeto del fondo de inversión de capitales de que se trate, podrán destinar los recursos disponibles a los Activos Objeto de Inversión señalados en el párrafo que antecede, pero contarán con el plazo de un año para ajustarse estrictamente al régimen de inversión que se señala en esta fracción.
 

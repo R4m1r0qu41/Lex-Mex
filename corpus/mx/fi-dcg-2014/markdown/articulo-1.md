@@ -9,30 +9,38 @@ aliases: ["DCG-FI-2014 — Artículo 1"]
 generated: true
 temporal_status: unknown
 review_status: not_analyzed
-amendment_marks: [2,5,19,27,29,31]
+amendment_marks: [48]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20los%20fondos%20de%20inversi%C3%B3n%20y%20a%20las%20personas%20que%20les%20prestan%20servicios.pdf
-source_sha256: 30cec2bac3222c89d447b6e8adc7877ea45ece21dfc270ed8c963ea91649b6ee
+source_sha256: 3b21198efc7e52987a773cbcc48772185e6eadc7338673fa39bfb38ba907d07b
 ---
 
 # Artículo 1
 
-En adición a las definiciones contenidas en la Ley, para efectos de las presentes disposiciones, se entenderá, en singular o plural, por:
+En adición a las definiciones contenidas en la [Ley](articulo-1.md), para efectos de las presentes disposiciones, se entenderá, en singular o plural, por:
 
-I. Administración integral de riesgos, al conjunto de objetivos, políticas, procedimientos y acciones que se llevan a cabo para identificar, medir, vigilar, limitar, controlar, informar y revelar los distintos riesgos a que se encuentran expuestos los fondos de inversión de renta variable y en instrumentos de deuda.
+I. Activos Objeto de Inversión ASG, a los Activos Objeto de Inversión que cumplan por lo menos con alguno de los siguientes criterios:
 
-ll. Auditor Externo Independiente, al contador público o licenciado en contaduría pública que cumpla, en lo conducente, con las características y requisitos contenidos en las “Disposiciones de carácter general aplicables a las entidades y emisoras supervisadas por la Comisión Nacional Bancaria y de Valores que contraten servicios de auditoría externa de estados financieros básicos” y sus modificaciones.
+a) Estar alineados a la Taxonomía Sostenible de México, que la Secretaría de Hacienda y Crédito Público emitió el 16 de marzo de 2023, sus actualizaciones o la que la sustituya.
 
-III.Certificados bursátiles fiduciarios, a aquellos certificados bursátiles fiduciarios de desarrollo, inmobiliarios e indizados a que se refiere el artículo [63 Bis 1](../../lmv/markdown/articulo-63-Bis-1.md) de la Ley del Mercado de Valores, así como los certificados bursátiles fiduciarios de inversión en energía e infraestructura y los certificados bursátiles fiduciarios de proyectos de inversión a que aluden las "Disposiciones de carácter general aplicables a las emisoras de valores y a otros participantes del mercado de valores", publicadas en el Diario Oficial de la Federación el 19 de marzo de 2003 y sus respectivas modificaciones.
+b) Estar alineados a alguna taxonomía ambiental, social, de gobernanza, sustentable o sostenible, emitida por alguna autoridad de un país que sea miembro designado del Consejo de la Organización Internacional de Comisiones de Valores o que forme parte de la Unión Europea.
 
-IV. Contingencia Operativa, a cualquier evento que dificulte o inhabilite a una sociedad que administra mecanismos electrónicos de negociación de acciones de fondos de inversión o de divulgación de información de fondos de inversión, a prestar sus servicios o realizar los procesos necesarios para llevar a cabo las actividades a que se refiere el artículo [64 Bis 12](articulo-64-Bis-12.md) de las presentes disposiciones.
+c) Contar con una calificación que acredite características relacionadas con factores sostenibles, ambientales, sociales o de gobernanza emitida por algún prestador de este servicio de calificación, que sea independiente de la sociedad operadora de fondos de inversión. Dicha calificación deberá encontrarse dentro del rango que dicho prestador de servicios establezca en cumplimiento de factores sostenibles, ambientales, sociales o de gobernanza, en caso de que el proveedor de servicios no establezca un rango de cumplimiento, deberá tomarse el tercio más alto de la escala de calificaciones de factores sostenibles, ambientales, sociales o de gobernanza.
 
-V. Derogada.
+d) Contar con algún etiquetado sostenible que cumpla con las normas establecidas por alguna autoridad financiera o bolsa de valores, nacional o de un país que sea miembro designado del Consejo de la Organización Internacional de Comisiones de Valores o que forme parte de la Unión Europea.
+
+II. Administración integral de riesgos, al conjunto de objetivos, políticas, procedimientos y acciones que se llevan a cabo para identificar, medir, vigilar, limitar, controlar, informar y revelar los distintos riesgos a que se encuentran expuestos los fondos de inversión de renta variable y en instrumentos de deuda.
+
+III. Auditor Externo Independiente, al contador público o licenciado en contaduría pública que cumpla, en lo conducente, con las características y requisitos contenidos en las “Disposiciones de carácter general aplicables a las entidades y emisoras supervisadas por la Comisión Nacional Bancaria y de Valores que contraten servicios de auditoría externa de estados financieros básicos” y sus modificaciones.
+
+IV. Certificados bursátiles fiduciarios, a aquellos certificados bursátiles fiduciarios de desarrollo, inmobiliarios e indizados a que se refiere el artículo [63 Bis 1](../../lmv/markdown/articulo-63-Bis-1.md) de la Ley del Mercado de Valores, así como los certificados bursátiles fiduciarios de inversión en energía e infraestructura y los certificados bursátiles fiduciarios de proyectos de inversión a que aluden las "Disposiciones de carácter general aplicables a las emisoras de valores y a otros participantes del mercado de valores", publicadas en el Diario Oficial de la Federación el 19 de marzo de 2003 y sus respectivas modificaciones.
+
+V. Contingencia Operativa, a cualquier evento que dificulte o inhabilite a una sociedad que administra mecanismos electrónicos de negociación de acciones de fondos de inversión o de divulgación de información de fondos de inversión, a prestar sus servicios o realizar los procesos necesarios para llevar a cabo las actividades a que se refiere el artículo [64 Bis 12](articulo-64-Bis-12.md) de las presentes disposiciones.
 
 VI. Emisora, a la considerada como tal por la Ley del Mercado de Valores, así como por las disposiciones de carácter general que emanen de dicha ley.
 
 VII. Factor de riesgo, a la variable económica u operativa cuyos movimientos pueden generar cambios en los rendimientos o en el valor de los activos, pasivos o patrimonio de los fondos de inversión a las que presten servicios de administración de activos las sociedades operadoras de fondos de inversión.
 
-VIII. Independencia, a la condición que presenta una Unidad de negocio respecto de otra en términos de no tener conflicto de interés alguno que afecte el adecuado desempeño de sus funciones.
+VIII. Independencia, a la condición que presenta una [Unidad de negocio](articulo-1.md) respecto de otra en términos de no tener conflicto de interés alguno que afecte el adecuado desempeño de sus funciones.
 
 IX. Inversionista calificado, aquel considerado como tal por la Ley del Mercado de Valores, así como por las disposiciones de carácter general que emanen de dicha ley.
 
@@ -40,7 +48,7 @@ X. Inversionista institucional, aquel considerado como tal por la Ley del Mercad
 
 XI. Ley, a la Ley de Fondos de Inversión.
 
-XII. Límite específico de exposición al riesgo, a la magnitud permisible de exposición a un riesgo discrecional determinado, asignada para cada fondo de inversión a la que la sociedad operadora preste servicios de administración de activos, a un tipo de activo, Factor de riesgo, causa u origen del mismo, hasta a un empleado o funcionario en específico al interior de la sociedad operadora de fondos de inversión.
+XII. Límite específico de exposición al riesgo, a la magnitud permisible de exposición a un riesgo discrecional determinado, asignada para cada fondo de inversión a la que la sociedad operadora preste servicios de administración de activos, a un tipo de activo, [Factor de riesgo](articulo-1.md), causa u origen del mismo, hasta a un empleado o funcionario en específico al interior de la sociedad operadora de fondos de inversión.
 
 XIII. Límite global de exposición al riesgo, a la magnitud permisible de exposición a los distintos tipos de riesgo discrecionales por fondo de inversión al que una sociedad operadora preste servicios de administración de activos, incluyendo sus factores de riesgo, causa u origen de los mismos.
 
@@ -72,7 +80,7 @@ XXIV. Valores estructurados, a los Valores con o sin obligación de pago del pri
 
 XXV. Valores respaldados por activos, a los Valores cuya fuente de pago proviene de los recursos, rendimientos o ingresos generados por un conjunto de activos financieros que tienen flujos de pago determinados o determinables, o, en su caso, por cualquier activo destinado al cumplimiento del pago de la emisión, que otorgan el derecho a recibir flujos de efectivo en un plazo determinado o, en su caso, el derecho a la propiedad o titularidad de los referidos activos financieros.
 
-No se considerarán Valores respaldados por activos, a los Certificados bursátiles fiduciarios, a los Valores estructurados, ni a las acciones representativas del capital social de fondos de inversión a que se refiere la Ley. Tampoco serán considerados como Valores respaldados por activos, cualquier otro Valor emitido por mecanismos de inversión colectiva que tenga estrategias y objetivos de inversión particulares.
+No se considerarán Valores respaldados por activos, a los [Certificados bursátiles fiduciarios](articulo-1.md), a los [Valores estructurados](articulo-1.md), ni a las acciones representativas del capital social de fondos de inversión a que se refiere la Ley. Tampoco serán considerados como Valores respaldados por activos, cualquier otro Valor emitido por mecanismos de inversión colectiva que tenga estrategias y objetivos de inversión particulares.
 
 Título Segundo De los fondos de inversión
 

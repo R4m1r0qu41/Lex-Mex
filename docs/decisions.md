@@ -1,5 +1,35 @@
 # Architecture decisions
 
+## 2026-10-20 — ltfccg reparsed from its unchanged source; fi-dcg-2014 re-ingested from CNBV's new edition
+
+**Operator (2026-10-20):** "B1 yes, b2, yes" (`docs/operator-decisions-2026-10-20.md`).
+
+**ltfccg (B1): no new edition.**
+- **Source.** The live Diputados PDF has the committed fingerprint: source `1764c89e…` and extracted text `3a0c7e58…`. The re-fetch retained it, and its manifest was restored unchanged.
+- **Parse.** The current parser reads the separator-form headings from the 2026-10-20 batch.
+  - 8 chapter and title headings no longer end the previous article (Articles 3, 5, 6, 7 Ter, 9, 12, 14 and 15; "Capítulo II.- Información Previa" …).
+  - 23 heading contexts are filled.
+  - Transitorio SEGUNDO loses its 2002 signing and promulgation block, under the existing signature-is-apparatus rule. With it goes the one reference to CPEUM Article 89, inside the promulgation formula (18 → 17 references).
+  - The reform evidence gains the 2014-01-10 decree's Transitorio QUINCUAGÉSIMO CUARTO.
+- **Temporal.** `derive-temporal` was rerun, as for the 2026-10-19 reparse of instruments that carry machine classifications. It reproduces every committed classification, with one exception.
+  - Article 16 stays `partially_repealed` but loses its machine acceptance: `deterministic_rule` / `machine_accepted` / 1.0 becomes unset / `not_analyzed`.
+  - The current parser classifies the partial repeal itself, and `repair_partial_repeals`, which had accepted it, only reclassifies `repealed` articles.
+  - No lawyer-verified provision exists.
+- **Glossary still held:** "IX. Valuador profesional es la persona que…" defines its term with `es`, not the glossary's `.` delimiter. It is not a heading leak. Asked as D3.
+
+**fi-dcg-2014 (B2): new CNBV edition.**
+- **Source.** Last modified 2026-08-07 (ETag `,31` → `,35`). Source `30cec2ba…` → `3b21198e…`; text `55649233…` → `dedd2da0…`.
+- **Text.**
+  - **New:** Article 6 Bis, on funds specialized by the investment-asset classes of Annex 1.
+  - **Amended:** Article 1 (new ASG investment-asset definitions), 9, 14 Bis, 80, 81, 119, 123 and 136.
+  - **Layout only:** 6 articles differ by a paragraph break versus a space (64, 64 Bis 1, 64 Bis 46, 66, 67, 75).
+  - **Marks:** 8 amendment marks change.
+- **Glossary released.** It was held at a fraction IV sequence break; the new edition's Article 1 detects whole: 25 terms, 278 usages.
+- **References:** 170.
+- **Temporal.** `derive-temporal` reproduces all 43 committed `repealed` classifications. Commencement stays unresolved (two ordinary transitories mention entry into force). The new Article 6 Bis is `not_analyzed`.
+  - `temporal-analysis-request.json` describes the old text. It is not regenerated here: `analyze-temporal` rebuilds it when the instrument is analyzed.
+- **Count baseline re-frozen, deliberately:** `expected_articles` 232 → 233, `proposed_at` 2026-10-21. Validation failed only on this count before the re-freeze.
+
 ## 2026-10-20 — Operator rulings A1–A6: lgcs's terms stand, "la presente Ley", LIEPS I b), lan's quoted senses (`glossary-extraction-6`); the LGEEPA imports wait
 
 **Operator (2026-10-20),** answering `docs/operator-decisions-2026-10-20.md`. The operator's words are quoted there.

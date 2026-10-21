@@ -10,7 +10,7 @@ generated: true
 temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20los%20fondos%20de%20inversi%C3%B3n%20y%20a%20las%20personas%20que%20les%20prestan%20servicios.pdf
-source_sha256: 30cec2bac3222c89d447b6e8adc7877ea45ece21dfc270ed8c963ea91649b6ee
+source_sha256: 3b21198efc7e52987a773cbcc48772185e6eadc7338673fa39bfb38ba907d07b
 ---
 
 # Artículo 133
@@ -33,9 +33,9 @@ e) Para el registro de eventos de pérdida por riesgo operativo, incluyendo el t
 
 2. Identificar y clasificar los diferentes tipos de eventos de pérdida conforme al numeral anterior.
 
-3. Mantener una base de datos histórica que contenga el registro sistemático de los diferentes tipos de pérdida y su costo, en correspondencia con su registro contable, debidamente identificados con la Unidad de negocio de origen y por fondo de inversión, según las clasificaciones al efecto definidas por los numerales 1 y 2 anteriores.
+3. Mantener una base de datos histórica que contenga el registro sistemático de los diferentes tipos de pérdida y su costo, en correspondencia con su registro contable, debidamente identificados con la [Unidad de negocio](articulo-1.md) de origen y por fondo de inversión, según las clasificaciones al efecto definidas por los numerales 1 y 2 anteriores.
 
-El desempeño de las funciones descritas en los incisos a), b), c) y e) a que hace referencia la presente fracción estará a cargo del responsable de la Administración integral de riesgos de la sociedad operadora de fondos de inversión de que se trate, pudiendo auxiliarse en el área que se estime conveniente, siempre y cuando con ello no se susciten conflictos de interés.
+El desempeño de las funciones descritas en los incisos a), b), c) y e) a que hace referencia la presente fracción estará a cargo del responsable de la [Administración integral de riesgos](articulo-1.md) de la sociedad operadora de fondos de inversión de que se trate, pudiendo auxiliarse en el área que se estime conveniente, siempre y cuando con ello no se susciten conflictos de interés.
 
 Por lo que toca a las funciones relativas al riesgo operativo a que hace referencia el inciso e) anterior, el responsable de la Administración integral de riesgos de la sociedad operadora de fondos de inversión deberá establecer mecanismos que aseguren un adecuado flujo, calidad y oportunidad de la información con el resto de las unidades al interior de la sociedad operadora, a fin de que estas últimas provean a los primeros los elementos necesarios para llevar a cabo su función.
 

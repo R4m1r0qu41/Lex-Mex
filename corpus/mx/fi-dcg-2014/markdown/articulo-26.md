@@ -11,12 +11,12 @@ temporal_status: unknown
 review_status: not_analyzed
 amendment_marks: [4,15,24]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20los%20fondos%20de%20inversi%C3%B3n%20y%20a%20las%20personas%20que%20les%20prestan%20servicios.pdf
-source_sha256: 30cec2bac3222c89d447b6e8adc7877ea45ece21dfc270ed8c963ea91649b6ee
+source_sha256: 3b21198efc7e52987a773cbcc48772185e6eadc7338673fa39bfb38ba907d07b
 ---
 
 # Artículo 26
 
-Las personas que pretendan obtener la autorización para constituirse como sociedad operadora de fondos de inversión, sociedad distribuidora de acciones de fondos de inversión o sociedad valuadora de acciones de fondos de inversión en términos de lo señalado en el artículo 33 de la Ley, deberán presentar en adición a lo previsto en el artículo [34](articulo-34.md) de dicho ordenamiento legal, la documentación siguiente:
+Las personas que pretendan obtener la autorización para constituirse como sociedad operadora de fondos de inversión, sociedad distribuidora de acciones de fondos de inversión o sociedad valuadora de acciones de fondos de inversión en términos de lo señalado en el artículo 33 de la [Ley](articulo-1.md), deberán presentar en adición a lo previsto en el artículo [34](articulo-34.md) de dicho ordenamiento legal, la documentación siguiente:
 
 I. La solicitud, en formato libre, suscrita por las personas que habrán de participar como accionistas de la sociedad a constituir, o por sus representantes legales, en cuyo caso, deberán adjuntar los documentos que acrediten su personalidad y señalar el domicilio para oír y recibir notificaciones.
 

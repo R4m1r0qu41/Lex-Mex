@@ -9,8 +9,9 @@ aliases: ["DCG-FI-2014 — Artículo 119"]
 generated: true
 temporal_status: unknown
 review_status: not_analyzed
+amendment_marks: [48]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20los%20fondos%20de%20inversi%C3%B3n%20y%20a%20las%20personas%20que%20les%20prestan%20servicios.pdf
-source_sha256: 30cec2bac3222c89d447b6e8adc7877ea45ece21dfc270ed8c963ea91649b6ee
+source_sha256: 3b21198efc7e52987a773cbcc48772185e6eadc7338673fa39bfb38ba907d07b
 ---
 
 # Artículo 119
@@ -27,11 +28,15 @@ a) Riesgos discrecionales, que son aquellos resultantes de la toma de una posici
 
 3. Riesgo de mercado, que se define como la pérdida potencial ante cambios en los factores de riesgo que inciden sobre la valuación o sobre los resultados esperados en las inversiones o pasivos a cargo de los fondos de inversión, tales como movimientos de precios, tasas de interés, tipos de cambio, índices de precios, entre otros.
 
-b) Riesgos no discrecionales, que son aquellos resultantes de la operación del negocio que inciden en el patrimonio de los fondos de inversión, pero que no son producto de la toma de una posición de riesgo, tales como el riesgo operativo que se define como la pérdida potencial por fallas o deficiencias en los controles internos, por errores en el procesamiento y almacenamiento de las operaciones o en la transmisión de información, así como por resoluciones administrativas y judiciales adversas, fraudes o robos y comprende, entre otros, al riesgo tecnológico y al riesgo legal, en el entendido de que:
+b) Riesgos no discrecionales, que son aquellos que inciden en la operación del negocio y que pudieran afectar el patrimonio de los fondos de inversión, pero que no son producto de la toma de una posición de riesgo, tales como:
 
-1. El riesgo tecnológico, se define como la pérdida potencial por daños, interrupción, alteración o fallas derivadas del uso o dependencia en el hardware, software, sistemas, aplicaciones, redes y cualquier otro canal de distribución de información.
+1. Riesgo operativo, se define como la pérdida potencial por fallas o deficiencias en los controles internos, por errores no atribuibles a las herramientas tecnológicas en el procesamiento y almacenamiento de las operaciones o en la transmisión de información.
 
-2. El riesgo legal, se define como la pérdida potencial por el incumplimiento de las disposiciones legales y administrativas aplicables, la emisión de resoluciones administrativas y judiciales desfavorables y la aplicación de sanciones.
+2. Riesgo tecnológico, se define como la pérdida potencial por daños, interrupción, alteración o fallas derivadas del uso o dependencia en el hardware, software, sistemas, aplicaciones, redes y cualquier otro canal de distribución de información.
+
+3. Riesgo legal, se define como la pérdida potencial por el incumplimiento de las disposiciones legales y administrativas aplicables, la emisión de resoluciones administrativas y judiciales desfavorables y la aplicación de sanciones.
+
+4. Riesgos ambientales, sociales y de gobernanza, se definen como la pérdida potencial o posibles afectaciones materiales o relevantes al fondo de inversión que corresponda, por acontecimientos ambientales, sociales y de gobernanza.
 
 Las sociedades operadoras de fondos de inversión estarán obligadas a observar la administración de cada uno de los riesgos discrecionales y no discrecionales a que hacen referencia los incisos a) y b) de esta fracción, respecto de los fondos de inversión a los que presten el servicio de administración de activos, así como respecto de los demás servicios que les proporcionen.
 

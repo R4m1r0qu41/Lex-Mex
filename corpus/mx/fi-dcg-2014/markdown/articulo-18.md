@@ -10,7 +10,7 @@ generated: true
 temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20los%20fondos%20de%20inversi%C3%B3n%20y%20a%20las%20personas%20que%20les%20prestan%20servicios.pdf
-source_sha256: 30cec2bac3222c89d447b6e8adc7877ea45ece21dfc270ed8c963ea91649b6ee
+source_sha256: 3b21198efc7e52987a773cbcc48772185e6eadc7338673fa39bfb38ba907d07b
 ---
 
 # Artículo 18
@@ -19,4 +19,4 @@ Los fondos de inversión de capitales deberán abstenerse de invertir sus recurs
 
 Sin perjuicio de lo dispuesto en este artículo, los fondos de inversión de capitales, para el caso de inversiones que representen conflictos de interés distintos de los arriba señalados, podrán definir los términos y condiciones aplicables a dichas operaciones, siempre que hayan sido aprobados previamente por la mayoría de los miembros independientes del consejo de administración de la sociedad operadora de fondos de inversión que administre al fondo de inversión y prevean de forma expresa en el citado prospecto, la posibilidad de realizar este tipo de inversiones.
 
-Las inversiones que realicen los accionistas o consejeros de la sociedad operadora de fondos de inversión que administre al fondo de inversión de capitales, en Empresas Promovidas o en las que, en su caso, se pretenda invertir, se sujetarán a lo señalado en este artículo y a las políticas y lineamientos contenidos en el manual de operación y funcionamiento a que se refiere el artículo 34, fracción III de la Ley.
+Las inversiones que realicen los accionistas o consejeros de la sociedad operadora de fondos de inversión que administre al fondo de inversión de capitales, en Empresas Promovidas o en las que, en su caso, se pretenda invertir, se sujetarán a lo señalado en este artículo y a las políticas y lineamientos contenidos en el manual de operación y funcionamiento a que se refiere el artículo 34, fracción III de la [Ley](articulo-1.md).

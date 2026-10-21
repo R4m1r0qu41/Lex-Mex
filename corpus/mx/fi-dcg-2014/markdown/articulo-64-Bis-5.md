@@ -11,7 +11,7 @@ temporal_status: unknown
 review_status: not_analyzed
 amendment_marks: [5,18,20]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20los%20fondos%20de%20inversi%C3%B3n%20y%20a%20las%20personas%20que%20les%20prestan%20servicios.pdf
-source_sha256: 30cec2bac3222c89d447b6e8adc7877ea45ece21dfc270ed8c963ea91649b6ee
+source_sha256: 3b21198efc7e52987a773cbcc48772185e6eadc7338673fa39bfb38ba907d07b
 ---
 
 # Artículo 64 Bis 5
@@ -30,7 +30,7 @@ Se considera para efecto de lo señalado en el párrafo anterior que un cliente,
 
 V. Las que tengan parentesco por consanguinidad, afinidad o civil hasta el cuarto grado, así como los cónyuges, la concubina y el concubinario, de cualquiera de las personas físicas referidas en las fracciones I a IV del presente artículo.
 
-VI. Las personas físicas que sean accionistas de sociedades operadoras de fondos de inversión, sociedades o entidades que presten servicios de distribución de acciones de fondos de inversión o cualquier otra persona que le preste servicios a los fondos de inversión en términos del artículo 32 de la Ley, o desempeñen en estas cargos, empleos o comisiones, excepto tratándose de consejeros independientes de alguna de las mencionadas sociedades.
+VI. Las personas físicas que sean accionistas de sociedades operadoras de fondos de inversión, sociedades o entidades que presten servicios de distribución de acciones de fondos de inversión o cualquier otra persona que le preste servicios a los fondos de inversión en términos del artículo 32 de la [Ley](articulo-1.md), o desempeñen en estas cargos, empleos o comisiones, excepto tratándose de consejeros independientes de alguna de las mencionadas sociedades.
 
 Los consejeros independientes que durante su encargo dejen de tener tal característica, deberán hacerlo del conocimiento del consejo de administración a más tardar en la siguiente sesión de dicho órgano.
 

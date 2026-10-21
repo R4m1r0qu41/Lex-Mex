@@ -11,12 +11,12 @@ temporal_status: unknown
 review_status: not_analyzed
 amendment_marks: [31]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20los%20fondos%20de%20inversi%C3%B3n%20y%20a%20las%20personas%20que%20les%20prestan%20servicios.pdf
-source_sha256: 30cec2bac3222c89d447b6e8adc7877ea45ece21dfc270ed8c963ea91649b6ee
+source_sha256: 3b21198efc7e52987a773cbcc48772185e6eadc7338673fa39bfb38ba907d07b
 ---
 
 # Artículo 11
 
-Los fondos de inversión de renta variable y en instrumentos de deuda podrán celebrar operaciones con Instrumentos financieros derivados, Certificados bursátiles fiduciarios, Valores estructurados y Valores respaldados por activos, siempre que:
+Los fondos de inversión de renta variable y en instrumentos de deuda podrán celebrar operaciones con Instrumentos financieros derivados, [Certificados bursátiles fiduciarios](articulo-1.md), [Valores estructurados](articulo-1.md) y [Valores respaldados por activos](articulo-1.md), siempre que:
 
 I. Señalen en sus prospectos de información al público inversionista, dentro del apartado relativo al régimen de inversión, los riesgos que implica la celebración de este tipo de operaciones. Los subyacentes objeto de dichas operaciones deberán estar comprendidos en el régimen de inversión de los fondos de inversión, de acuerdo con su tipo y categoría.
 

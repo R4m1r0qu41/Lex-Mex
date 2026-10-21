@@ -11,7 +11,7 @@ temporal_status: unknown
 review_status: not_analyzed
 amendment_marks: [20,41]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20los%20fondos%20de%20inversi%C3%B3n%20y%20a%20las%20personas%20que%20les%20prestan%20servicios.pdf
-source_sha256: 30cec2bac3222c89d447b6e8adc7877ea45ece21dfc270ed8c963ea91649b6ee
+source_sha256: 3b21198efc7e52987a773cbcc48772185e6eadc7338673fa39bfb38ba907d07b
 ---
 
 # Artículo 63 Bis 5
@@ -24,7 +24,7 @@ Asimismo, estarán obligadas a transferir las acciones representativas del capit
 
 Será responsabilidad de la sociedad o entidad que actúe con el carácter de distribuidora de acciones de fondos de inversión que solicite la transferencia de acciones y recursos y la terminación del contrato correspondiente, contar con la autorización expresa del cliente o clientes de que se trate para la realización de los actos previstos en este artículo.
 
-Si el cliente, cuya terminación del contrato se solicite, objeta dicha terminación o la transferencia de recursos o acciones efectuados por no haber otorgado la autorización respectiva, la sociedad o entidad que actúe con el carácter de distribuidora de acciones de fondos de inversión solicitante estará obligada a entregar las acciones y recursos de que se trate a la sociedad o entidad que actúe con el carácter de distribuidora de acciones de fondos de inversión original en un plazo de diez días hábiles contados a partir de que el cliente manifiesta su inconformidad para la transferencia de recursos. Lo anterior, con independencia del pago de los daños y perjuicios ocasionados al cliente y de las sanciones aplicables en términos de la Ley.
+Si el cliente, cuya terminación del contrato se solicite, objeta dicha terminación o la transferencia de recursos o acciones efectuados por no haber otorgado la autorización respectiva, la sociedad o entidad que actúe con el carácter de distribuidora de acciones de fondos de inversión solicitante estará obligada a entregar las acciones y recursos de que se trate a la sociedad o entidad que actúe con el carácter de distribuidora de acciones de fondos de inversión original en un plazo de diez días hábiles contados a partir de que el cliente manifiesta su inconformidad para la transferencia de recursos. Lo anterior, con independencia del pago de los daños y perjuicios ocasionados al cliente y de las sanciones aplicables en términos de la [Ley](articulo-1.md).
 
 Las solicitudes, autorizaciones y comunicaciones a que se refiere este artículo, podrán llevarse a cabo por escrito mediante firma autógrafa, por cualquier otro medio electrónico, óptico o de cualquier otra tecnología que previamente convengan las partes, o bien a través de los mismos mecanismos que se utilizaron para celebrar el contrato que se pretende dar por terminado, siempre y cuando pueda comprobarse fehacientemente el acto jurídico de que se trate.
 

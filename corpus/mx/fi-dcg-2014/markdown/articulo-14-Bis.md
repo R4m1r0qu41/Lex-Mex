@@ -9,9 +9,9 @@ aliases: ["DCG-FI-2014 — Artículo 14 Bis"]
 generated: true
 temporal_status: unknown
 review_status: not_analyzed
-amendment_marks: [41]
+amendment_marks: [41,48]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20los%20fondos%20de%20inversi%C3%B3n%20y%20a%20las%20personas%20que%20les%20prestan%20servicios.pdf
-source_sha256: 30cec2bac3222c89d447b6e8adc7877ea45ece21dfc270ed8c963ea91649b6ee
+source_sha256: 3b21198efc7e52987a773cbcc48772185e6eadc7338673fa39bfb38ba907d07b
 ---
 
 # Artículo 14 Bis
@@ -72,10 +72,10 @@ XXVI. Fuente donde se puede consultar la información financiera.
 
 XXVII.Información adicional.
 
-XXVIII.Personas responsables de suscribir el prospecto de información al público inversionista.
+XXVIII. Personas responsables de suscribir el prospecto de información al público inversionista.
 
 Las modificaciones al prospecto de información al público inversionista a que se refieren las fracciones I a XXVIII anteriores no deberán implicar de forma directa o indirecta cambios en el régimen de inversión o en la política de compra y venta de acciones, y tampoco impedir que el inversionista tenga la información necesaria que le permita tomar una decisión de inversión razonada y bien informada respecto de dicho fondo de inversión.
 
-Cada vez que el prospecto de información al público inversionista sea modificado, deberá remitirse a la Comisión, a más tardar dentro de los cinco días hábiles previos a la fecha en que surtan efectos las modificaciones, un ejemplar que muestre resaltados los cambios, acompañado de una manifestación, bajo protesta de decir verdad de la persona autorizada para suscribir el prospecto de que se trate, que indique que los cambios se ubican en alguno de los supuestos a que se refieren las fracciones anteriores. El citado ejemplar deberá remitirse a la Comisión en términos de lo indicado en el artículo [85](articulo-85.md) de las presentes disposiciones.
+Cada vez que el prospecto de información al público inversionista sea modificado, deberá remitirse a la Comisión, a más tardar dentro de los cinco días hábiles previos a la fecha en que surtan efectos las modificaciones, un ejemplar que muestre resaltados los cambios, acompañado del formato contenido en el Anexo 22 de las presentes disposiciones, firmado por la persona autorizada para suscribir el prospecto de que se trate o por el representante legal de la sociedad operadora que administre el fondo de inversión, el cual deberá tener inserta la manifestación bajo protesta de decir verdad que indique que los cambios se ubican en alguno de los supuestos a que se refieren las fracciones anteriores. El citado ejemplar deberá remitirse a la Comisión en términos de lo indicado en el artículo [85](articulo-85.md) de las presentes disposiciones.
 
-La Comisión, en todo momento, podrá formular observaciones y requerir se realicen las modificaciones al prospecto de información al público inversionista, cuando considere que este no se ajusta a la Ley y las presentes disposiciones.
+La Comisión, en todo momento, podrá formular observaciones y requerir se realicen las modificaciones al prospecto de información al público inversionista, cuando considere que este no se ajusta a la [Ley](articulo-1.md) y las presentes disposiciones.

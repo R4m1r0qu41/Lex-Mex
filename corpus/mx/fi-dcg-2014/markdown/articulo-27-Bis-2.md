@@ -11,12 +11,12 @@ temporal_status: unknown
 review_status: not_analyzed
 amendment_marks: [2]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20los%20fondos%20de%20inversi%C3%B3n%20y%20a%20las%20personas%20que%20les%20prestan%20servicios.pdf
-source_sha256: 30cec2bac3222c89d447b6e8adc7877ea45ece21dfc270ed8c963ea91649b6ee
+source_sha256: 3b21198efc7e52987a773cbcc48772185e6eadc7338673fa39bfb38ba907d07b
 ---
 
 # Artículo 27 Bis 2
 
-La Comisión podrá revocar la autorización otorgada a las sociedades operadoras de fondos de inversión, sociedades distribuidoras o sociedades valuadoras de acciones de fondos de inversión para invertir en títulos representativos del capital social de empresas que les presten Servicios complementarios o auxiliares en su administración o en la realización de su objeto, cuando:
+La Comisión podrá revocar la autorización otorgada a las sociedades operadoras de fondos de inversión, sociedades distribuidoras o sociedades valuadoras de acciones de fondos de inversión para invertir en títulos representativos del capital social de empresas que les presten [Servicios complementarios o auxiliares](articulo-1.md) en su administración o en la realización de su objeto, cuando:
 
 I. La participación en el capital social de la empresa de que se trate ponga en riesgo grave la estabilidad operativa o financiera de la sociedad. En este supuesto, la propia sociedad deberá adoptar las medidas conducentes para dar por terminados los contratos que hubiere celebrado y que la ubiquen en este supuesto, o
 

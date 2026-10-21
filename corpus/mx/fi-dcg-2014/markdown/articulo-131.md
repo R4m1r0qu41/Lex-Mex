@@ -10,7 +10,7 @@ generated: true
 temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20los%20fondos%20de%20inversi%C3%B3n%20y%20a%20las%20personas%20que%20les%20prestan%20servicios.pdf
-source_sha256: 30cec2bac3222c89d447b6e8adc7877ea45ece21dfc270ed8c963ea91649b6ee
+source_sha256: 3b21198efc7e52987a773cbcc48772185e6eadc7338673fa39bfb38ba907d07b
 ---
 
 # Artículo 131
@@ -59,7 +59,7 @@ f) Evaluar la calidad crediticia y las características de los riesgos involucra
 
 g) Dar seguimiento a los riesgos inherentes a los Valores e instrumentos financieros, atendiendo a los cambios en las condiciones de mercado.
 
-VIII. Adicionalmente, cuando se realicen inversiones en Valores estructurados, Valores respaldados por activos, Certificados bursátiles fiduciarios o cualquier otro activo objeto de inversión que por su complejidad así lo requieran, estarán obligadas a lo siguiente:
+VIII. Adicionalmente, cuando se realicen inversiones en [Valores estructurados](articulo-1.md), [Valores respaldados por activos](articulo-1.md), [Certificados bursátiles fiduciarios](articulo-1.md) o cualquier otro activo objeto de inversión que por su complejidad así lo requieran, estarán obligadas a lo siguiente:
 
 a) Analizar el activo subyacente al que se encuentre referido, para lo cual deberán:
 

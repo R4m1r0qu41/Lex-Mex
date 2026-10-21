@@ -10,7 +10,7 @@ generated: true
 temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20los%20fondos%20de%20inversi%C3%B3n%20y%20a%20las%20personas%20que%20les%20prestan%20servicios.pdf
-source_sha256: 30cec2bac3222c89d447b6e8adc7877ea45ece21dfc270ed8c963ea91649b6ee
+source_sha256: 3b21198efc7e52987a773cbcc48772185e6eadc7338673fa39bfb38ba907d07b
 ---
 
 # Artículo 15
@@ -21,11 +21,11 @@ I. El precio de adquisición de las acciones será el que haya determinado la so
 
 II. Los fondos de inversión de renta variable y en instrumentos de deuda, ante condiciones desordenadas de mercado o compras o ventas significativas e inusuales de sus propias acciones, podrán aplicar al precio de valuación de compra o venta de las acciones emitidas, según se trate, el diferencial que haya sido determinado de conformidad con las políticas, procedimientos y metodología que hubieren sido aprobadas por la mayoría independiente del consejo de administración de la sociedad operadora que administre al fondo de inversión para estos efectos, el cual no podrá ser mayor al resultado que se obtenga conforme a la metodología establecida. Dicho diferencial en ningún caso podrá aplicarse en perjuicio de los inversionistas que permanezcan en el fondo de inversión de que se trate.
 
-La aplicación de dicho diferencial deberá contar con el visto bueno del contralor normativo así como del responsable de la Administración integral de riesgos, ambos de la sociedad operadora que le preste servicios al fondo de inversión de que se trate, el cual deberá constar por escrito y estar suscrito por los funcionarios referidos anteriormente.
+La aplicación de dicho diferencial deberá contar con el visto bueno del contralor normativo así como del responsable de la [Administración integral de riesgos](articulo-1.md), ambos de la sociedad operadora que le preste servicios al fondo de inversión de que se trate, el cual deberá constar por escrito y estar suscrito por los funcionarios referidos anteriormente.
 
 En su caso, el diferencial que se establezca deberá aplicarse consistentemente al precio de valuación de compra o venta, según corresponda, de todas las operaciones que celebre el fondo de inversión respectivo con su clientela inversionista el día de la valuación. El importe del diferencial quedará en el fondo de inversión, en beneficio de los accionistas que permanezcan en este.
 
-En caso de presentarse las situaciones a que se refiere la presente fracción, la sociedad operadora que administre al fondo de inversión de que se trate, deberá hacer del conocimiento de sus accionistas y del público inversionista, así como de la Comisión, las causas y la justificación de la aplicación del diferencial correspondiente al precio de valuación, así como la forma en que este fue determinado, a más tardar el día hábil siguiente en que se presenten, a través del SEDI.
+En caso de presentarse las situaciones a que se refiere la presente fracción, la sociedad operadora que administre al fondo de inversión de que se trate, deberá hacer del conocimiento de sus accionistas y del público inversionista, así como de la Comisión, las causas y la justificación de la aplicación del diferencial correspondiente al precio de valuación, así como la forma en que este fue determinado, a más tardar el día hábil siguiente en que se presenten, a través del [SEDI](articulo-1.md).
 
 III. Los fondos de inversión de renta variable y en instrumentos de deuda, podrán prever la aplicación de diferenciales en el precio de valuación de compra o venta de las acciones emitidas, según se trate, siempre que tal circunstancia se encuentre expresamente establecida en los prospectos de información al público inversionista. Dichos diferenciales deberán ser de aplicación general y consistente, no deberán generar condiciones de inequidad entre sus inversionistas, debiendo revelar adicionalmente en los referidos prospectos, las causas de tal aplicación.
 

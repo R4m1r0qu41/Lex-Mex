@@ -11,7 +11,7 @@ temporal_status: unknown
 review_status: not_analyzed
 amendment_marks: [19]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20los%20fondos%20de%20inversi%C3%B3n%20y%20a%20las%20personas%20que%20les%20prestan%20servicios.pdf
-source_sha256: 30cec2bac3222c89d447b6e8adc7877ea45ece21dfc270ed8c963ea91649b6ee
+source_sha256: 3b21198efc7e52987a773cbcc48772185e6eadc7338673fa39bfb38ba907d07b
 ---
 
 # Artículo 63 Bis 1
@@ -20,6 +20,6 @@ Las sociedades operadoras de fondos de inversión no podrán rechazar las órden
 
 I. Estas no cumplan con los términos y condiciones de los prospectos de información al público inversionista de los fondos de inversión de que se trate o del contrato de adhesión a que se refieren las presentes disposiciones.
 
-II. Se actualice algún supuesto para ser rechazadas en términos de lo que al efecto se establezca en los contratos de adhesión y siempre que no se contravenga lo dispuesto en la Ley y las presentes disposiciones.
+II. Se actualice algún supuesto para ser rechazadas en términos de lo que al efecto se establezca en los contratos de adhesión y siempre que no se contravenga lo dispuesto en la [Ley](articulo-1.md) y las presentes disposiciones.
 
 Las órdenes se entenderán presentadas en firme desde el momento en que sean recibidas por la sociedad operadora de fondos de inversión, la cual contará con un plazo máximo de tres horas para rechazarlas en términos del presente artículo.

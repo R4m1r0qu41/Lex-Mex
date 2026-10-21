@@ -11,7 +11,7 @@ temporal_status: unknown
 review_status: not_analyzed
 amendment_marks: [37]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20los%20fondos%20de%20inversi%C3%B3n%20y%20a%20las%20personas%20que%20les%20prestan%20servicios.pdf
-source_sha256: 30cec2bac3222c89d447b6e8adc7877ea45ece21dfc270ed8c963ea91649b6ee
+source_sha256: 3b21198efc7e52987a773cbcc48772185e6eadc7338673fa39bfb38ba907d07b
 ---
 
 # Artículo 78
@@ -26,4 +26,4 @@ Tratándose de las sociedades operadoras de fondos de inversión que administren
 
 Sin perjuicio de lo anterior, los fondos y las sociedades de que se trata podrán llevar a cabo la publicación de los citados estados financieros consolidados no dictaminados, siempre que hayan sido aprobados por el consejo de administración y se precise en notas tal circunstancia. Tal divulgación podrá efectuarse hasta en tanto no se cuente con los estados financieros dictaminados a que se refiere el presente artículo.
 
-Los fondos de inversión podrán realizar las publicaciones anteriores a través de la página de Internet de las sociedades operadoras que les presten los servicios de administración de sus activos, de las sociedades que administran mecanismos electrónicos de divulgación de información de fondos de inversión contratados o bien, a través del SEDI de la bolsa de valores en la que, en su caso, se encuentren listadas sus acciones, en cuyo caso se tendrán por cumplidas las obligaciones referidas en los párrafos anteriores.
+Los fondos de inversión podrán realizar las publicaciones anteriores a través de la página de Internet de las sociedades operadoras que les presten los servicios de administración de sus activos, de las sociedades que administran mecanismos electrónicos de divulgación de información de fondos de inversión contratados o bien, a través del [SEDI](articulo-1.md) de la bolsa de valores en la que, en su caso, se encuentren listadas sus acciones, en cuyo caso se tendrán por cumplidas las obligaciones referidas en los párrafos anteriores.

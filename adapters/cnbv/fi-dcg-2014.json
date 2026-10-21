@@ -10,12 +10,12 @@
   "reference_url": "https://www.cnbv.gob.mx/Paginas/Normatividad.aspx",
   "publisher": "Comisión Nacional Bancaria y de Valores",
   "publication_date": "2014-11-24",
-  "expected_articles": 232,
+  "expected_articles": 233,
   "expected_transitories": 4,
   "count_baseline": {
     "provenance": "machine-proposed",
     "parser_version": "0.1.0",
-    "proposed_at": "2026-10-17T23:55:37Z"
+    "proposed_at": "2026-10-21T02:20:00Z"
   },
   "issuing_authorities": [
     "Comisión Nacional Bancaria y de Valores"

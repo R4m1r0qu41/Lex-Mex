@@ -11,7 +11,7 @@ temporal_status: unknown
 review_status: not_analyzed
 amendment_marks: [1,18]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20los%20fondos%20de%20inversi%C3%B3n%20y%20a%20las%20personas%20que%20les%20prestan%20servicios.pdf
-source_sha256: 30cec2bac3222c89d447b6e8adc7877ea45ece21dfc270ed8c963ea91649b6ee
+source_sha256: 3b21198efc7e52987a773cbcc48772185e6eadc7338673fa39bfb38ba907d07b
 ---
 
 # Artículo 5
@@ -36,13 +36,13 @@ VIII. Los depósitos bancarios de dinero a la vista en entidades financieras, in
 
 IX. Los instrumentos financieros derivados, ajustándose a las disposiciones de carácter general que al efecto expida el Banco de México.
 
-Los fondos de inversión de renta variable podrán invertir en Valores estructurados, Certificados bursátiles fiduciarios y Valores respaldados por activos, siempre que los Valores, así como los activos subyacentes a los que estén vinculados, se encuentren contemplados dentro de su régimen de inversión conforme a la categoría del fondo de inversión de que se trate.
+Los fondos de inversión de renta variable podrán invertir en [Valores estructurados](articulo-1.md), [Certificados bursátiles fiduciarios](articulo-1.md) y [Valores respaldados por activos](articulo-1.md), siempre que los Valores, así como los activos subyacentes a los que estén vinculados, se encuentren contemplados dentro de su régimen de inversión conforme a la categoría del fondo de inversión de que se trate.
 
 Los fondos de inversión en instrumentos de deuda podrán invertir en Valores respaldados por activos y Valores estructurados, siempre que dichos Valores, así como los activos subyacentes a los que estén vinculados, se encuentren contemplados dentro de su régimen de inversión conforme a su categoría. Tratándose de la inversión en Valores estructurados, el referido Valor deberá contar con obligación de pago del principal y con un rendimiento mínimo determinado. Adicionalmente, podrán invertir en certificados bursátiles fiduciarios indizados, siempre que estén referidos a valores, títulos o documentos representativos de una deuda a cargo de un tercero y dichos valores estén contemplados dentro de su régimen de inversión.
 
 Los fondos de inversión de renta variable e instrumentos de deuda, podrán realizar las operaciones con los Valores a que se refieren los párrafos anteriores, siempre que se cumpla con lo dispuesto en el artículo [11](articulo-11.md) de las presentes disposiciones.
 
-Los fondos de inversión a que hace referencia este artículo no podrán adquirir ni enajenar Activos Objeto de Inversión que tengan en propiedad o en administración las entidades y sociedades pertenecientes al mismo Consorcio o Grupo Empresarial del que forme parte la sociedad operadora de fondos de inversión que los administre o, en su caso, del comisionista que, en su caso, haya contratado la sociedad operadora en términos de lo previsto en el artículo 56 Bis de la Ley, ni con Valores que la Comisión determine que impliquen conflicto de interés, salvo en condiciones desordenadas de mercado, requiriendo para tal efecto la previa autorización del consejo de administración de la sociedad operadora de fondos de inversión que administre al fondo de inversión de que se trate y de la Comisión.
+Los fondos de inversión a que hace referencia este artículo no podrán adquirir ni enajenar Activos Objeto de Inversión que tengan en propiedad o en administración las entidades y sociedades pertenecientes al mismo Consorcio o Grupo Empresarial del que forme parte la sociedad operadora de fondos de inversión que los administre o, en su caso, del comisionista que, en su caso, haya contratado la sociedad operadora en términos de lo previsto en el artículo 56 Bis de la [Ley](articulo-1.md), ni con Valores que la Comisión determine que impliquen conflicto de interés, salvo en condiciones desordenadas de mercado, requiriendo para tal efecto la previa autorización del consejo de administración de la sociedad operadora de fondos de inversión que administre al fondo de inversión de que se trate y de la Comisión.
 
 Se exceptúan del régimen de inversión de los fondos de inversión a que se refiere el presente artículo, los instrumentos de deuda emitidos por las entidades financieras que formen parte del mismo Consorcio o Grupo Empresarial al que pertenezcan las sociedades operadoras de fondos de inversión o, en su caso, comisionistas contratados por estas que administren a dichos fondos de inversión, salvo aquellos emitidos, avalados o aceptados por instituciones de crédito.
 

@@ -11,14 +11,14 @@ temporal_status: unknown
 review_status: not_analyzed
 amendment_marks: [5,18,19]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20los%20fondos%20de%20inversi%C3%B3n%20y%20a%20las%20personas%20que%20les%20prestan%20servicios.pdf
-source_sha256: 30cec2bac3222c89d447b6e8adc7877ea45ece21dfc270ed8c963ea91649b6ee
+source_sha256: 3b21198efc7e52987a773cbcc48772185e6eadc7338673fa39bfb38ba907d07b
 ---
 
 # Artículo 64 Bis 1
 
 Las solicitudes de autorización a que se refiere el artículo [64 Bis](articulo-64-Bis.md) anterior, deberán presentarse a la Comisión acompañadas de la documentación siguiente:
 
-I. Proyecto de estatutos sociales en los que se prevea como objeto la administración de los mecanismos electrónicos a que se refiere el presente Capítulo, según sea el caso, el cual deberá incluir igualmente los servicios que pretendan ofrecer de conformidad con los artículos 40, cuarto párrafo y 45 de la Ley, así como 64 Bis 2 de las presentes disposiciones, según corresponda. Igualmente el proyecto de estatutos sociales deberá incluir las actividades adicionales que pretendan realizar.
+I. Proyecto de estatutos sociales en los que se prevea como objeto la administración de los mecanismos electrónicos a que se refiere el presente Capítulo, según sea el caso, el cual deberá incluir igualmente los servicios que pretendan ofrecer de conformidad con los artículos 40, cuarto párrafo y 45 de la [Ley](articulo-1.md), así como 64 Bis 2 de las presentes disposiciones, según corresponda. Igualmente el proyecto de estatutos sociales deberá incluir las actividades adicionales que pretendan realizar.
 
 II. Relación e información de las personas que directa o indirectamente pretendan mantener una participación en el capital social de la sociedad, indicando:
 
@@ -48,9 +48,7 @@ a) Los locales e instalaciones que utilizarán para la prestación de sus servic
 
 b) Las características de los sistemas automatizados que pretendan implementar para la prestación de sus servicios;
 
-c) Las medidas de seguridad para preservar la integridad y confidencialidad de la información, así como las responsabilidades relativas al uso de los sistemas automatizados a través de los cuales realicen sus actividades, y
-
-d) Las bases relativas a su organización.
+c) Las medidas de seguridad para preservar la integridad y confidencialidad de la información, así como las responsabilidades relativas al uso de los sistemas automatizados a través de los cuales realicen sus actividades, y d) Las bases relativas a su organización.
 
 V. Estudio de viabilidad financiera, que incluya los estados financieros proyectados para los primeros 24 meses de operación bajo un escenario normal y un escenario adverso, en los cuales se muestre que la sociedad cuenta con los recursos suficientes para mantener una adecuada operación al menos durante dicho periodo. Asimismo, se deberá incluir la descripción general del modelo financiero utilizado, señalando los principales supuestos así como los gastos previstos e ingresos esperados por concepto del cobro de las contraprestaciones correspondientes.
 

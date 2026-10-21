@@ -11,12 +11,12 @@ temporal_status: unknown
 review_status: not_analyzed
 amendment_marks: [13]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20los%20fondos%20de%20inversi%C3%B3n%20y%20a%20las%20personas%20que%20les%20prestan%20servicios.pdf
-source_sha256: 30cec2bac3222c89d447b6e8adc7877ea45ece21dfc270ed8c963ea91649b6ee
+source_sha256: 3b21198efc7e52987a773cbcc48772185e6eadc7338673fa39bfb38ba907d07b
 ---
 
 # Artículo 84
 
-Los fondos de inversión, las sociedades operadoras de fondos de inversión, las sociedades distribuidoras de acciones de fondos de inversión, las entidades financieras que proporcionen servicios de distribución de acciones de fondos de inversión y las sociedades valuadoras de acciones de fondos de inversión, salvo disposición expresa en contrario, deberán enviar a la Comisión la información que se menciona en este Título, mediante su transmisión vía electrónica, utilizando el SITI. En caso de que no exista información de algún reporte, las entidades deberán realizar el envío vacío, funcionalidad que está disponible en dicho sistema.
+Los fondos de inversión, las sociedades operadoras de fondos de inversión, las sociedades distribuidoras de acciones de fondos de inversión, las entidades financieras que proporcionen servicios de distribución de acciones de fondos de inversión y las sociedades valuadoras de acciones de fondos de inversión, salvo disposición expresa en contrario, deberán enviar a la Comisión la información que se menciona en este Título, mediante su transmisión vía electrónica, utilizando el [SITI](articulo-1.md). En caso de que no exista información de algún reporte, las entidades deberán realizar el envío vacío, funcionalidad que está disponible en dicho sistema.
 
 La información deberá enviarse una sola vez y se recibirá asumiendo que reúne todas las características requeridas, en virtud de lo cual no podrá ser modificada, generando el SITI un acuse de recibo electrónico.
 

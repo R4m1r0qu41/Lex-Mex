@@ -10,14 +10,14 @@ generated: true
 temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20los%20fondos%20de%20inversi%C3%B3n%20y%20a%20las%20personas%20que%20les%20prestan%20servicios.pdf
-source_sha256: 30cec2bac3222c89d447b6e8adc7877ea45ece21dfc270ed8c963ea91649b6ee
+source_sha256: 3b21198efc7e52987a773cbcc48772185e6eadc7338673fa39bfb38ba907d07b
 ---
 
 # Artículo 6
 
 Los fondos de inversión de renta variable y en instrumentos de deuda, deberán ajustarse al régimen de inversión previsto en sus prospectos de información al público inversionista y a una diversificación mínima sujeta a lo siguiente:
 
-I. La inversión en Valores y en Instrumentos financieros derivados relacionados con una misma Emisora o entidad financiera, no podrá exceder del cuarenta por ciento del activo neto del fondo de inversión.
+I. La inversión en Valores y en Instrumentos financieros derivados relacionados con una misma [Emisora](articulo-1.md) o entidad financiera, no podrá exceder del cuarenta por ciento del activo neto del fondo de inversión.
 
 La suma de las inversiones en Emisoras o entidades financieras que representen en lo individual más del quince por ciento del activo neto del fondo de inversión, no podrá exceder en su conjunto del sesenta por ciento de dicho activo.
 
@@ -59,7 +59,7 @@ Para tal efecto, tendrán el carácter de Valores de fácil realización, aquell
 
 Dentro del porcentaje mínimo mencionado, además de lo señalado en el párrafo anterior, se deberán contemplar los saldos en instituciones de crédito o entidades financieras del exterior del mismo tipo; el saldo neto positivo de las cuentas liquidadoras provenientes de las compras y ventas de Activos Objeto de Inversión, así como la inversión en acciones de otros fondos de inversión cuyo plazo de recompra sea cuando menos semanal, o siendo mayor, reste máximo una semana para el cumplimiento de dicho plazo.
 
-Los fondos de inversión de renta variable y en instrumentos de deuda, que conforme a las presentes disposiciones puedan invertir en instrumentos financieros derivados, Valores estructurados, Valores respaldados por activos y Certificados bursátiles fiduciarios, según sea el caso, deberán computar los activos subyacentes a los que estén vinculados dichos instrumentos o Valores, para efectos de la composición de la cartera, la determinación de los límites e integración del régimen de inversión, según la naturaleza y el tipo de valor de que se trate. El cómputo a que se refiere el presente párrafo, no será aplicable tratándose de instrumentos financieros derivados, Valores estructurados, Valores respaldados por activos y Certificados bursátiles fiduciarios, cuyos subyacentes se encuentren referidos a uno o varios índices.
+Los fondos de inversión de renta variable y en instrumentos de deuda, que conforme a las presentes disposiciones puedan invertir en instrumentos financieros derivados, [Valores estructurados](articulo-1.md), [Valores respaldados por activos](articulo-1.md) y [Certificados bursátiles fiduciarios](articulo-1.md), según sea el caso, deberán computar los activos subyacentes a los que estén vinculados dichos instrumentos o Valores, para efectos de la composición de la cartera, la determinación de los límites e integración del régimen de inversión, según la naturaleza y el tipo de valor de que se trate. El cómputo a que se refiere el presente párrafo, no será aplicable tratándose de instrumentos financieros derivados, Valores estructurados, Valores respaldados por activos y Certificados bursátiles fiduciarios, cuyos subyacentes se encuentren referidos a uno o varios índices.
 
 Tratándose de Valores emitidos al amparo de fideicomisos, dentro de los porcentajes de inversión antes mencionados, se considerarán a todas las entidades o personas de las que dependa preponderantemente el cumplimiento del pago de principal e intereses, o bien, cuya información resulte relevante para una adecuada toma de decisiones, en términos del prospecto de colocación de la emisión de que se trate.
 

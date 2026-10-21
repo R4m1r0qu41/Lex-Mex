@@ -9,9 +9,9 @@ aliases: ["DCG-FI-2014 — Artículo 80"]
 generated: true
 temporal_status: unknown
 review_status: not_analyzed
-amendment_marks: [13,37]
+amendment_marks: [13,37,48]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20los%20fondos%20de%20inversi%C3%B3n%20y%20a%20las%20personas%20que%20les%20prestan%20servicios.pdf
-source_sha256: 30cec2bac3222c89d447b6e8adc7877ea45ece21dfc270ed8c963ea91649b6ee
+source_sha256: 3b21198efc7e52987a773cbcc48772185e6eadc7338673fa39bfb38ba907d07b
 ---
 
 # Artículo 80
@@ -22,13 +22,11 @@ Serie R01 Catálogo mínimo
 
 A-0111 Catálogo mínimo (CO-CM)
 
-Serie R03 Inversiones en instrumentos financieros, operaciones de reporto y de préstamo e instrumentos financieros derivados
+Serie R03 Inversiones en valores, operaciones de reporto y de préstamo de valores e instrumentos financieros derivados
 
 B-0321 Desglose de valores adquiridos en reporto (CO-RE)
 
-B-0322 Préstamo de valores (CO-PR)
-
-B-0323 Operaciones con instrumentos financieros derivados (CO-DE)
+B-0322 Préstamo de valores (CO-PR) B-0323 Operaciones con instrumentos financieros derivados (CO-DE)
 
 E-0351 Operaciones de compra-venta de activos objeto de inversión (CO-CV)
 
@@ -66,10 +64,12 @@ D-1443 Estructura accionaria y corporativa (IN-AC)
 
 Serie R24 Reportes de la información al público inversionista
 
-F-2461 Información de fondos de inversión para el público inversionista (IP-IN) F-2462 Información de fondos de inversión para el público inversionista por serie (IP-CL)
+F-2461 Información de fondos de inversión para el público inversionista (IP-IN)
+
+F-2462 Información de fondos de inversión para el público inversionista por serie (IP-CL)
 
 F-2463 Comisiones y remuneraciones por la prestación de servicios (IP-CO)
 
 Las sociedades a que se refiere este artículo requerirán de la previa autorización de la Comisión para la apertura de nuevos conceptos o niveles que no se encuentren contemplados en las series que correspondan, exclusivamente para el envío de información de las nuevas operaciones que les sean autorizadas en términos de la legislación relativa, para lo cual solicitarán la referida autorización mediante escrito libre dentro de los quince días hábiles siguientes a la autorización de las operaciones de que se trate. Asimismo, en caso de que por cambios en la normativa aplicable, se requiera establecer conceptos o niveles adicionales a los previstos en las presentes disposiciones, la Comisión hará del conocimiento de las sociedades de que se trate la apertura de los nuevos conceptos o niveles respectivos.
 
-En los dos casos previstos en el párrafo anterior, la Comisión, a través del SITI, notificará a las referidas sociedades el mecanismo de registro y envió de la información correspondiente.
+En los dos casos previstos en el párrafo anterior, la Comisión, a través del [SITI](articulo-1.md), notificará a las referidas sociedades el mecanismo de registro y envió de la información correspondiente.

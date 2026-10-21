@@ -123,6 +123,16 @@ Everything is local: the DB merge, the batch and the fixes. Pushing main needs y
 - **Recommendation:** (a).
 - **Answer:**
 
+### D3. ltfccg IX: read "Valuador profesional" as a term?
+
+- **Text:** "IX. Valuador profesional es la persona que cuenta con cédula profesional de postgrado en valuación…"
+- **Now:** ltfccg's glossary uses "Term. Definition"; IX alone writes "Term es …". The whole glossary is held for it, so ltfccg has 0 terms. The reparse removed the heading leaks, but they were not the cause of this hold.
+- **Options:**
+  - (a) A reviewed profile reads IX's term as "Valuador profesional", and the rest by the shared rule. This releases ltfccg's 11 terms.
+  - (b) Leave it held.
+- **Recommendation:** (a).
+- **Answer:**
+
 ## C. Technical backlog (no decision needed; listed for completeness)
 
 - **Label and boundary holds:** `log` (II, after its introduction), `servinv-dcg-2013` (IV after II), `reg-lftr-mcsre` (IX after VII) and `ladua` (IV after I; reparse first).
