@@ -51,7 +51,9 @@
     - **maaa** +19: 12 are `Ambiente` or `Protección` inside "Secretaría de Medio Ambiente y Recursos Naturales", "Procuraduría Federal de Protección al Ambiente", the ASEA name, or LGEEPA's title as printed ("las Leyes General del Equilibrio Ecológico y la Protección al Ambiente"). The other 7 are the LIC's `Verificación`, defined as authorities checking compliance with NOMs, used for checking an environmental-audit action plan.
     - **mretc** +16: 13 `Ambiente` or `Protección` inside the same names; 2 `Contaminante` in "Registro de Emisiones y Transferencia de Contaminantes"; 1 `Residuo` inside an old regulation's title.
   - **Wider than the imports.** Usages inside those agency names already exist elsewhere: 61, in lgeepa 49, ldrs 7 and lbogm 5.
-  - **Held for the operator.** The configuration is held until the operator chooses how to treat names of authorities. The probe is in the session scratchpad as `a5a6-import-probe.patch`.
+  - **Held for the operator.** The configuration is held until the operator chooses how to treat names of authorities (D1). Once D1 is answered, it is applied as these adapter blocks:
+    - `reg-lgeepa-maaa`: `"glossary": {"provision_suffix": ":article:2", "style": "auto_whole", "additive_to": ["urn:lex-mx:federal:statute:lgeepa:article:3", "urn:lex-mx:federal:statute:lic-calidad:article:4"]}`;
+    - `reg-lgeepa-mretc`: `"glossary": {"provision_suffix": ":article:3", "style": "auto_whole", "additive_to": ["urn:lex-mx:federal:statute:lgeepa:article:3"]}`.
 
 **Measured:** see the commit; `link --all` and validation run on the committed code.
 
