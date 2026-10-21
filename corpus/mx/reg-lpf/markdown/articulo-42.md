@@ -91,7 +91,7 @@ XXXVIII. Ordenar la vigilancia para evitar se destruyan o maltraten las carreter
 
 XXXIX. Cumplir con las órdenes de verificación, vigilancia e inspección que expida el Comisionado General y Jefe de la División de Seguridad Regional de conformidad con el presente Reglamento;
 
-XL. Ejercer, en el ámbito de su competencia las atribuciones que sobre migración le confiere la [Ley General](articulo-2.md) de Población;
+XL. Ejercer, en el ámbito de su competencia las atribuciones que sobre migración le confiere la Ley General de Población;
 
 XLI. Proponer a la superioridad el establecimiento de las líneas estratégicas y las tácticas nacionales para cumplir operativamente con la misión de inspección, seguridad, verificación, vigilancia, prevención del delito y combate a la delincuencia, en el ámbito de competencia de la Institución, en los caminos y puentes federales y en la zona terrestre de las vías generales de comunicación;
 

@@ -15,4 +15,4 @@ source_sha256: 6fa1d25c31c4d8c2cc8074208b10a2f3ff35fecce26c1cc03ba18117cfec80d1
 
 # Tercero
 
-Quedan sin efecto para la [Cámara](articulo-2.md) de Diputados, las disposiciones contenidas en el [Reglamento](articulo-2.md) para el Gobierno Interior del Congreso General de los Estados Unidos Mexicanos publicado en el Diario Oficial de la Federación el 20 de marzo de 1934 y sus reformas.
+Quedan sin efecto para la [Cámara](articulo-2.md) de Diputados, las disposiciones contenidas en el Reglamento para el Gobierno Interior del Congreso General de los Estados Unidos Mexicanos publicado en el Diario Oficial de la Federación el 20 de marzo de 1934 y sus reformas.

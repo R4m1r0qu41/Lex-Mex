@@ -17,4 +17,4 @@ source_sha256: a4505a7bd41bc835f1def6fb030c42d8e74a2cc050d9c8fa08f91c9519e382bf
 
 Los proyectos equiparables a los de asociación público-privada, que se hayan iniciado con anterioridad y se encuentren en procedimiento de contratación, ejecución o desarrollo a la entrada en vigor del presente decreto, continuarán rigiéndose conforme a las disposiciones vigentes con anterioridad a la entrada en vigor del mismo.
 
-En caso de proyectos de asociación público-privada que se encuentren en la etapa de preparación a la entrada en vigor del presente decreto, las dependencias y entidades se sujetarán a las disposiciones de la [Ley](articulo-12.md) de Asociaciones Público Privadas, con absoluto respeto de los derechos adquiridos por terceros interesados en la contratación.
+En caso de proyectos de asociación público-privada que se encuentren en la etapa de preparación a la entrada en vigor del presente decreto, las dependencias y entidades se sujetarán a las disposiciones de la Ley de Asociaciones Público Privadas, con absoluto respeto de los derechos adquiridos por terceros interesados en la contratación.

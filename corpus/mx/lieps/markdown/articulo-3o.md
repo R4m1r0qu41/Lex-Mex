@@ -53,7 +53,7 @@ c) Diésel, combustible líquido que puede obtenerse del proceso de refinación 
 
 d) Combustibles no fósiles, combustibles o componentes de combustibles que no se obtienen o derivan de un proceso de destilación de petróleo crudo o del procesamiento de [gas natural](articulo-3o.md). Fracción reformada DOF 11-12-2013, 18-11-2015, 09-12-2019
 
-X. Etanol para uso automotriz, [alcohol](articulo-3o.md) tipo etanol anhidro con contenido de agua menor o igual a 1 por ciento y que cumpla con las especificaciones de calidad y características como biocombustible [puro](articulo-3o.md), que emita la autoridad competente. Fracción reformada DOF 11-12-2013, 18-11-2015, 09-12-2019
+X. Etanol para uso automotriz, alcohol tipo etanol anhidro con contenido de agua menor o igual a 1 por ciento y que cumpla con las especificaciones de calidad y características como biocombustible puro, que emita la autoridad competente. Fracción reformada DOF 11-12-2013, 18-11-2015, 09-12-2019
 
 XI. (Se deroga). Fracción derogada DOF 30-12-2002. Adicionada DOF 23-12-2005. Derogada DOF 09-12-2019
 
@@ -81,7 +81,7 @@ Se consideran concentrados, polvos y jarabes para preparar bebidas energetizante
 
 XVIII. Bebidas saborizadas, las bebidas no alcohólicas elaboradas por la disolución en agua de cualquier tipo de azúcares o [edulcorantes](articulo-3o.md) y que pueden incluir ingredientes adicionales tales como saborizantes naturales, artificiales o sintéticos, adicionados o no, de jugo, pulpa o néctar, de frutas o de verduras o de legumbres, de sus concentrados o extractos y otros aditivos para alimentos, y que pueden estar o no carbonatadas. Fracción adicionada DOF 11-12-2013. Reformada DOF 07-11-2025
 
-XIX. Concentrados, polvos y jarabes, esencias o extractos de sabores, que permitan obtener [bebidas saborizadas](articulo-3o.md), a los productos con o sin edulcorantes o saboreadores, naturales, artificiales o sintéticos, adicionados o no, de jugo, pulpa o néctar, de frutas, de verduras o legumbres y otros aditivos para alimentos. Fracción adicionada DOF 11-12-2013
+XIX. Concentrados, polvos y jarabes, esencias o extractos de sabores, que permitan obtener bebidas saborizadas, a los productos con o sin edulcorantes o saboreadores, naturales, artificiales o sintéticos, adicionados o no, de jugo, pulpa o néctar, de frutas, de verduras o legumbres y otros aditivos para alimentos. Fracción adicionada DOF 11-12-2013
 
 XX. Azúcares, a los monosacáridos, disacáridos y polisacáridos, siempre que en este último caso se utilicen como edulcorantes con aporte calórico. Fracción adicionada DOF 11-12-2013
 

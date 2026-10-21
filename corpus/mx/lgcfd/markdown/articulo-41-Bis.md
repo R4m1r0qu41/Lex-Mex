@@ -17,7 +17,7 @@ source_sha256: 7f28b406ac8966ef726994b15fc2356a5d8ee92a8e24de0e7a3046d2683fe40d
 
 # Artículo 41 Bis
 
-La coordinación y colaboración entre la Federación, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, respecto a la seguridad y prevención en los eventos deportivos masivos o con fines de espectáculo, sin perjuicio de lo dispuesto por la [Ley](articulo-4.md) General del Sistema Nacional de Seguridad Pública, será subsidiaria y se sujetará a lo siguiente: Párrafo reformado DOF 19-01-2018
+La coordinación y colaboración entre la Federación, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, respecto a la seguridad y prevención en los eventos deportivos masivos o con fines de espectáculo, sin perjuicio de lo dispuesto por la Ley General del Sistema Nacional de Seguridad Pública, será subsidiaria y se sujetará a lo siguiente: Párrafo reformado DOF 19-01-2018
 
 I. Los usuarios de las instalaciones deportivas, ya sea organizadores, participantes, asistentes, aficionados o espectadores en general, atenderán las disposiciones en materia de seguridad y protección civil, según corresponda y las indicaciones en la materia que emitan las autoridades competentes, para que los eventos deportivos se realicen de manera ordenada y se preserve la integridad de las personas y los bienes;
 

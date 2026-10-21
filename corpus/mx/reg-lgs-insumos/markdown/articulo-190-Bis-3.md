@@ -19,7 +19,7 @@ source_sha256: e56e8f67f42d7c34c2ed95938cb5f27011f44ab6cf97b653c7dc846e29512fd6
 
 Para obtener la primera prórroga del registro sanitario de equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, insumos de uso odontológico, material quirúrgico, de curación, productos higiénicos, y otros dispositivos de uso médico, que sean de fabricación nacional, se deberá presentar en el siguiente orden y con la solicitud exclusivamente lo siguiente: Párrafo reformado DOF 31-0-2021
 
-I. Comprobante del pago de derechos, en términos de la [Ley](articulo-2o.md) Federal de Derechos;
+I. Comprobante del pago de derechos, en términos de la Ley Federal de Derechos;
 
 II. Número o copia simple del registro sanitario del cual se pide la prórroga y sus modificaciones;
 

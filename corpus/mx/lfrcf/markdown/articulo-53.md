@@ -19,7 +19,7 @@ source_sha256: cc687a4d8d9de93d2d3ec9b40b26d0273e108bb002a6f611806dc36ebce5ba2c
 
 La fiscalización de todos los instrumentos de crédito público y de los financiamientos y otras obligaciones contratados por las entidades federativas y municipios que cuenten con la garantía de la Federación, tiene por objeto verificar si dichos ámbitos de gobierno:
 
-I. Se formalizaron conforme a las bases generales que establece la Ley de Disciplina Financiera de las [Entidades Federativas](articulo-4.md) y los Municipios:
+I. Se formalizaron conforme a las bases generales que establece la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios:
 
 a) Cumplieron con los principios, criterios y condiciones que justifican asumir, modificar o garantizar compromisos y obligaciones financieras que restringen las finanzas públicas e incrementan las responsabilidades para sufragar los pasivos directos e indirectos, explícitos e implícitos al financiamiento y otras obligaciones respectivas;
 

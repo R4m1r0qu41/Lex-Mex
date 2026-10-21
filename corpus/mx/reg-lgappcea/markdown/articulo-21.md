@@ -17,4 +17,4 @@ source_sha256: 066103556290f57dca17504bd178aeb645dff97b3a5e05bf4925e9353204e064
 
 # Artículo 21
 
-La Comisión Nacional de Cultura Física y Deporte, en coordinación con la Secretaría de Educación Pública, promoverá que en la enseñanza, actualización y difusión de la cultura física y deporte, se establezcan temáticas para la Integración de las Personas con la Condición del Espectro Autista en el deporte social, entendido éste con la amplitud que prevé la fracción VI del artículo [5](../../lgcfd/markdown/articulo-5.md) de la [Ley](articulo-2.md) General de Cultura Física y Deporte.
+La Comisión Nacional de Cultura Física y Deporte, en coordinación con la Secretaría de Educación Pública, promoverá que en la enseñanza, actualización y difusión de la cultura física y deporte, se establezcan temáticas para la Integración de las Personas con la Condición del Espectro Autista en el deporte social, entendido éste con la amplitud que prevé la fracción VI del artículo [5](../../lgcfd/markdown/articulo-5.md) de la Ley General de Cultura Física y Deporte.

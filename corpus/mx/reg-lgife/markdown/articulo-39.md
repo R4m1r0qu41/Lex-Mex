@@ -19,7 +19,7 @@ source_sha256: 05cf69d4709df7bb3340fe016a25a1ca29e6c82555d12f5a22b91c723f85b9d8
 
 Durante la vigencia del Certificado otorgado por el Instituto, este podrá realizar visitas de inspección para comprobar que se conservan las condiciones bajo las cuales se entregó el Certificado correspondiente.
 
-Como resultado de la inspección se levantará un acta circunstanciada en la que se indique si el [Plantel Educativo](articulo-2.md) sigue cumpliendo o no con los alcances del Certificado otorgado. Para el levantamiento del acta circunstanciada se observarán las disposiciones previstas en la [Ley](articulo-2.md) Federal de Procedimiento Administrativo.
+Como resultado de la inspección se levantará un acta circunstanciada en la que se indique si el [Plantel Educativo](articulo-2.md) sigue cumpliendo o no con los alcances del Certificado otorgado. Para el levantamiento del acta circunstanciada se observarán las disposiciones previstas en la Ley Federal de Procedimiento Administrativo.
 
 En caso de incurrir en alguna de las causas señaladas en el artículo [40](articulo-40.md) del presente Reglamento, el Instituto otorgará un plazo de hasta sesenta días naturales, para que las mismas sean subsanadas; en caso contrario, se procederá a la revocación del Certificado.
 

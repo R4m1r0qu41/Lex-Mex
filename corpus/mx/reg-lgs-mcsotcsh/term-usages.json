@@ -1,57 +1,12 @@
 [
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcsotcsh:article:6:term-usage:297-304",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcsotcsh:article:6",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcsotcsh:term:organo",
-    "span": "Organos",
-    "start_char": 297,
-    "end_char": 304
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcsotcsh:article:6:term-usage:307-314",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcsotcsh:article:6",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcsotcsh:term:tejido",
-    "span": "Tejidos",
-    "start_char": 307,
-    "end_char": 314
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcsotcsh:article:6:term-usage:481-487",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcsotcsh:article:6",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcsotcsh:term:sangre",
-    "span": "Sangre",
-    "start_char": 481,
-    "end_char": 487
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgs-mcsotcsh:article:6:term-usage:795-801",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcsotcsh:article:6",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcsotcsh:term:sangre",
     "span": "Sangre",
     "start_char": 795,
     "end_char": 801
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcsotcsh:article:6:term-usage:2138-2148",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcsotcsh:article:6",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcsotcsh:term:disponente",
-    "span": "Disponente",
-    "start_char": 2138,
-    "end_char": 2148
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcsotcsh:article:6:term-usage:2152-2158",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcsotcsh:article:6",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcsotcsh:term:sangre",
-    "span": "Sangre",
-    "start_char": 2152,
-    "end_char": 2158
   },
   {
     "schema_version": "0.1.0",
@@ -70,15 +25,6 @@
     "span": "Tejido",
     "start_char": 3684,
     "end_char": 3690
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcsotcsh:article:6:term-usage:3733-3739",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcsotcsh:article:6",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcsotcsh:term:sangre",
-    "span": "Sangre",
-    "start_char": 3733,
-    "end_char": 3739
   },
   {
     "schema_version": "0.1.0",

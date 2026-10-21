@@ -33,10 +33,10 @@ IV. Aprobar los perfiles de [Servidores Públicos](articulo-5.md) que integran e
 
 V. Aprobar el informe anual de actividades del Mecanismo Nacional de Prevención;
 
-VI. Emitir los lineamientos para reserva de la información de acuerdo con la [Ley](articulo-5.md) General de Transparencia y Acceso a la Información Pública;
+VI. Emitir los lineamientos para reserva de la información de acuerdo con la Ley General de Transparencia y Acceso a la Información Pública;
 
 VII. Aprobar las propuestas de reforma a reglamentos y demás normas sobre la materia;
 
 VIII. Solicitar a la persona Titular del Mecanismo Nacional de Prevención, la apertura de expedientes de queja o la presentación de denuncias ante la autoridad competente, respetando las disposiciones aplicables en materia de transparencia y protección de datos personales; y
 
-IX. Las demás que se establezcan en el Protocolo Facultativo de la Convención de las Naciones Unidas contra la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, en la Ley de la [Comisión Nacional](articulo-5.md) de los Derechos Humanos y su Reglamento.
+IX. Las demás que se establezcan en el Protocolo Facultativo de la Convención de las Naciones Unidas contra la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, en la Ley de la Comisión Nacional de los Derechos Humanos y su Reglamento.

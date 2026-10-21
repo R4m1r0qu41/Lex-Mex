@@ -27,7 +27,7 @@ III. Constitución: La Constitución Política de los Estados Unidos Mexicanos.
 
 IV. Defensoría de Oficio: La persona defensora de oficio Militar; Fracción reformada DOF 16-07-2025
 
-V. La Persona titular de la [Fiscalía](articulo-3.md) General de Justicia Militar: Titular del [Ministerio Público](articulo-3.md) Militar; Fracción reformada DOF 16-07-2025
+V. La Persona titular de la Fiscalía General de Justicia Militar: Titular del [Ministerio Público](articulo-3.md) Militar; Fracción reformada DOF 16-07-2025
 
 VI. Fiscalía: Fiscalía General de Justicia Militar.
 

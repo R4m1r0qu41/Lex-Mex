@@ -25,7 +25,7 @@ II. No encontrarse en situaciones de conflicto de interés con las personas que 
 
 III. No promover o haber promovido de manera reiterada acciones difusas, colectivas o individuales homogéneas frívolas o temerarias;
 
-IV. No promover una acción difusa, colectiva en sentido estricto o individual homogénea con fines de lucro, electorales, proselitistas, de competencia desleal o especulativos, y V. No haberse conducido con impericia, mala fe o negligencia en acciones colectivas previas, en los términos del [Código Civil](articulo-2.md) Federal.
+IV. No promover una acción difusa, colectiva en sentido estricto o individual homogénea con fines de lucro, electorales, proselitistas, de competencia desleal o especulativos, y V. No haberse conducido con impericia, mala fe o negligencia en acciones colectivas previas, en los términos del Código Civil Federal.
 
 La representación de la colectividad en el juicio se considera de interés público. La autoridad jurisdiccional Federal, deberá vigilar de oficio que dicha representación sea adecuada durante la substanciación del procedimiento.
 

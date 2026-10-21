@@ -17,4 +17,4 @@ source_sha256: 1307711de5651aa4df9452c8ea4a2e519ab6725b85c014a2e1844a9f8e823f4f
 
 # Artículo 74
 
-Régimen de responsabilidades Para los efectos de las responsabilidades administrativas de las servidoras públicas y los servidores públicos de la [Carrera Judicial](articulo-2.md) se estará a lo dispuesto por la [Ley](articulo-2.md) Orgánica del Poder Judicial de la Federación, la Ley General de Responsabilidades Administrativas y los acuerdos generales aplicables.
+Régimen de responsabilidades Para los efectos de las responsabilidades administrativas de las servidoras públicas y los servidores públicos de la [Carrera Judicial](articulo-2.md) se estará a lo dispuesto por la Ley Orgánica del Poder Judicial de la Federación, la Ley General de Responsabilidades Administrativas y los acuerdos generales aplicables.

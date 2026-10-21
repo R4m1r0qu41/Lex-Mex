@@ -27,7 +27,7 @@ III.- Reglamento, el Reglamento de la Ley Federal de Armas de Fuego y Explosivos
 
 IV.- Arma o armas, al arma o armas de fuego;
 
-V.- [Arma o armas](articulo-1o-Bis.md) de fuego, todo instrumento que cuente con cañón y que lance a través de éste un proyectil o bala por la acción de una deflagración de pólvora; por sus efectos similares a un arma de fuego, se incluyen en esta categoría las armas accionadas por algún tipo de gas inerte, aire comprimido o pistón que generen una energía cinética superior a los 140 Joules;
+V.- Arma o armas de fuego, todo instrumento que cuente con cañón y que lance a través de éste un proyectil o bala por la acción de una deflagración de pólvora; por sus efectos similares a un arma de fuego, se incluyen en esta categoría las armas accionadas por algún tipo de gas inerte, aire comprimido o pistón que generen una energía cinética superior a los 140 Joules;
 
 VI.- Artificios, los iniciadores, detonadores, mechas de seguridad, cordones detonantes, pirotécnicos, y cualquier instrumento, máquina o ingenio con aplicación al uso de explosivos; VII.- Fuerza Armada Permanente, las instituciones a que hace referencia el artículo [89](../../cpeum/markdown/articulo-89.md) fracción VI de la Constitución Política de los Estados Unidos Mexicanos;
 

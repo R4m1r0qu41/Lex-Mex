@@ -17,4 +17,4 @@ source_sha256: 3ae8175ed89c2729e71551aac6ef879dfdd3da40cc03bae6784d61951c2c284d
 
 # Artículo 31
 
-Las organizaciones nacionales y locales deberán constituirse o estar constituidas conforme a lo dispuesto en la [Ley](articulo-3.md) Agraria o en las Leyes Federales, Estatales y del Distrito Federal vigentes, cualquiera que sea su materia.
+Las organizaciones nacionales y locales deberán constituirse o estar constituidas conforme a lo dispuesto en la Ley Agraria o en las [Leyes](articulo-3.md) Federales, Estatales y del Distrito Federal vigentes, cualquiera que sea su materia.

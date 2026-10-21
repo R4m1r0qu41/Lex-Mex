@@ -17,4 +17,4 @@ source_sha256: 7f28b406ac8966ef726994b15fc2356a5d8ee92a8e24de0e7a3046d2683fe40d
 
 # Artículo 20
 
-El Director General del organismo será nombrado y removido por el Presidente de la República, debiendo recaer tal nombramiento en persona que reúna los requisitos señalados en el artículo [21](../../lfep/markdown/articulo-21.md) de la [Ley](articulo-4.md) Federal de las Entidades Paraestatales.
+El Director General del organismo será nombrado y removido por el Presidente de la República, debiendo recaer tal nombramiento en persona que reúna los requisitos señalados en el artículo [21](../../lfep/markdown/articulo-21.md) de la Ley Federal de las Entidades Paraestatales.

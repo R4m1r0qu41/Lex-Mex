@@ -17,6 +17,6 @@ source_sha256: b01d875d525d1efbe4edf9f022f58c9afb56fb777581fc9eae1038c212e6b43c
 
 # Artículo 23
 
-Ningún servidor público podrá utilizar recursos humanos, materiales o financieros institucionales para fines distintos a los relacionados con sus funciones; su contravención será causa de responsabilidad administrativa en los términos que establezca la [Ley](articulo-4.md) General de Responsabilidades Administrativas.
+Ningún servidor público podrá utilizar recursos humanos, materiales o financieros institucionales para fines distintos a los relacionados con sus funciones; su contravención será causa de responsabilidad administrativa en los términos que establezca la Ley General de Responsabilidades Administrativas.
 
-Los entes públicos deberán emitir su correspondiente código de conducta en concordancia con la presente Ley y cada servidor público debe protestar cumplirlo.
+Los entes públicos deberán emitir su correspondiente código de conducta en concordancia con la presente [Ley](articulo-4.md) y cada servidor público debe protestar cumplirlo.

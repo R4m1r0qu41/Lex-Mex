@@ -17,4 +17,4 @@ source_sha256: a823b87d27bee29da481750b9893f00024bd80aed8b0713bf8b1ac1e55b9b8de
 
 # Artículo 130
 
-Si el interesado no cumple con los requisitos aplicables al trámite migratorio que solicita, la autoridad migratoria lo prevendrá conforme a lo dispuesto en la [Ley](articulo-3.md) Federal de Procedimiento Administrativo y le otorgará un plazo de diez días hábiles a partir de que se le notifique dicha prevención para que subsane los requisitos omitidos. En caso de que no se subsanen los requisitos, se desechará el trámite.
+Si el interesado no cumple con los requisitos aplicables al trámite migratorio que solicita, la autoridad migratoria lo prevendrá conforme a lo dispuesto en la Ley Federal de Procedimiento Administrativo y le otorgará un plazo de diez días hábiles a partir de que se le notifique dicha prevención para que subsane los requisitos omitidos. En caso de que no se subsanen los requisitos, se desechará el trámite.

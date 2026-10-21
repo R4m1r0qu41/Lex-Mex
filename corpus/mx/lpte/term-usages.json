@@ -298,42 +298,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:3:term-usage:157-160",
-    "provision_id": "urn:lex-mx:federal:statute:lpte:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lpte:term:ley",
-    "span": "Ley",
-    "start_char": 157,
-    "end_char": 160
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:3:term-usage:186-189",
-    "provision_id": "urn:lex-mx:federal:statute:lpte:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lpte:term:ley",
-    "span": "Ley",
-    "start_char": 186,
-    "end_char": 189
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:3:term-usage:219-222",
-    "provision_id": "urn:lex-mx:federal:statute:lpte:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lpte:term:ley",
-    "span": "Ley",
-    "start_char": 219,
-    "end_char": 222
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:3:term-usage:246-249",
-    "provision_id": "urn:lex-mx:federal:statute:lpte:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lpte:term:ley",
-    "span": "Ley",
-    "start_char": 246,
-    "end_char": 249
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lpte:article:3:term-usage:637-658",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:3",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:eficiencia-energetica",
@@ -379,57 +343,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:3:term-usage:1515-1518",
-    "provision_id": "urn:lex-mx:federal:statute:lpte:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lpte:term:ley",
-    "span": "Ley",
-    "start_char": 1515,
-    "end_char": 1518
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:3:term-usage:1585-1588",
-    "provision_id": "urn:lex-mx:federal:statute:lpte:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lpte:term:ley",
-    "span": "Ley",
-    "start_char": 1585,
-    "end_char": 1588
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:3:term-usage:2333-2336",
-    "provision_id": "urn:lex-mx:federal:statute:lpte:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lpte:term:ley",
-    "span": "Ley",
-    "start_char": 2333,
-    "end_char": 2336
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:3:term-usage:3298-3301",
-    "provision_id": "urn:lex-mx:federal:statute:lpte:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lpte:term:ley",
-    "span": "Ley",
-    "start_char": 3298,
-    "end_char": 3301
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lpte:article:3:term-usage:3605-3626",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:3",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:transicion-energetica",
     "span": "Transición Energética",
     "start_char": 3605,
     "end_char": 3626
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:3:term-usage:4114-4117",
-    "provision_id": "urn:lex-mx:federal:statute:lpte:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lpte:term:ley",
-    "span": "Ley",
-    "start_char": 4114,
-    "end_char": 4117
   },
   {
     "schema_version": "0.1.0",
@@ -460,15 +379,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:3:term-usage:5230-5251",
-    "provision_id": "urn:lex-mx:federal:statute:lpte:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lpte:term:transicion-energetica",
-    "span": "Transición Energética",
-    "start_char": 5230,
-    "end_char": 5251
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lpte:article:3:term-usage:5403-5424",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:3",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:transicion-energetica",
@@ -496,66 +406,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:3:term-usage:5812-5833",
-    "provision_id": "urn:lex-mx:federal:statute:lpte:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lpte:term:transicion-energetica",
-    "span": "Transición Energética",
-    "start_char": 5812,
-    "end_char": 5833
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:3:term-usage:5949-5952",
-    "provision_id": "urn:lex-mx:federal:statute:lpte:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lpte:term:ley",
-    "span": "Ley",
-    "start_char": 5949,
-    "end_char": 5952
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:3:term-usage:5979-5982",
-    "provision_id": "urn:lex-mx:federal:statute:lpte:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lpte:term:ley",
-    "span": "Ley",
-    "start_char": 5979,
-    "end_char": 5982
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:3:term-usage:6062-6065",
-    "provision_id": "urn:lex-mx:federal:statute:lpte:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lpte:term:ley",
-    "span": "Ley",
-    "start_char": 6062,
-    "end_char": 6065
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:3:term-usage:6093-6096",
-    "provision_id": "urn:lex-mx:federal:statute:lpte:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lpte:term:ley",
-    "span": "Ley",
-    "start_char": 6093,
-    "end_char": 6096
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lpte:article:3:term-usage:6150-6160",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:3",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:secretaria",
     "span": "Secretaría",
     "start_char": 6150,
     "end_char": 6160
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:3:term-usage:6210-6213",
-    "provision_id": "urn:lex-mx:federal:statute:lpte:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lpte:term:ley",
-    "span": "Ley",
-    "start_char": 6210,
-    "end_char": 6213
   },
   {
     "schema_version": "0.1.0",
@@ -664,42 +520,6 @@
     "span": "Ley",
     "start_char": 34,
     "end_char": 37
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:5:term-usage:112-115",
-    "provision_id": "urn:lex-mx:federal:statute:lpte:article:5",
-    "term_id": "urn:lex-mx:federal:statute:lpte:term:ley",
-    "span": "Ley",
-    "start_char": 112,
-    "end_char": 115
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:5:term-usage:141-144",
-    "provision_id": "urn:lex-mx:federal:statute:lpte:article:5",
-    "term_id": "urn:lex-mx:federal:statute:lpte:term:ley",
-    "span": "Ley",
-    "start_char": 141,
-    "end_char": 144
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:5:term-usage:174-177",
-    "provision_id": "urn:lex-mx:federal:statute:lpte:article:5",
-    "term_id": "urn:lex-mx:federal:statute:lpte:term:ley",
-    "span": "Ley",
-    "start_char": 174,
-    "end_char": 177
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:5:term-usage:201-204",
-    "provision_id": "urn:lex-mx:federal:statute:lpte:article:5",
-    "term_id": "urn:lex-mx:federal:statute:lpte:term:ley",
-    "span": "Ley",
-    "start_char": 201,
-    "end_char": 204
   },
   {
     "schema_version": "0.1.0",
@@ -1495,15 +1315,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:9:term-usage:2523-2526",
-    "provision_id": "urn:lex-mx:federal:statute:lpte:article:9",
-    "term_id": "urn:lex-mx:federal:statute:lpte:term:ley",
-    "span": "Ley",
-    "start_char": 2523,
-    "end_char": 2526
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lpte:article:9:term-usage:2591-2601",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:9",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:secretaria",
@@ -1537,15 +1348,6 @@
     "span": "Sector Energético",
     "start_char": 2761,
     "end_char": 2778
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:9:term-usage:2844-2847",
-    "provision_id": "urn:lex-mx:federal:statute:lpte:article:9",
-    "term_id": "urn:lex-mx:federal:statute:lpte:term:ley",
-    "span": "Ley",
-    "start_char": 2844,
-    "end_char": 2847
   },
   {
     "schema_version": "0.1.0",
@@ -3043,15 +2845,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:31:term-usage:1258-1261",
-    "provision_id": "urn:lex-mx:federal:statute:lpte:article:31",
-    "term_id": "urn:lex-mx:federal:statute:lpte:term:ley",
-    "span": "Ley",
-    "start_char": 1258,
-    "end_char": 1261
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lpte:article:31:term-usage:1321-1331",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:31",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:secretaria",
@@ -3196,15 +2989,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:32:term-usage:1280-1283",
-    "provision_id": "urn:lex-mx:federal:statute:lpte:article:32",
-    "term_id": "urn:lex-mx:federal:statute:lpte:term:ley",
-    "span": "Ley",
-    "start_char": 1280,
-    "end_char": 1283
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lpte:article:32:term-usage:1339-1349",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:32",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:secretaria",
@@ -3337,15 +3121,6 @@
     "span": "Consejo",
     "start_char": 401,
     "end_char": 408
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:33:term-usage:432-435",
-    "provision_id": "urn:lex-mx:federal:statute:lpte:article:33",
-    "term_id": "urn:lex-mx:federal:statute:lpte:term:ley",
-    "span": "Ley",
-    "start_char": 432,
-    "end_char": 435
   },
   {
     "schema_version": "0.1.0",
@@ -3934,24 +3709,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:51:term-usage:87-90",
-    "provision_id": "urn:lex-mx:federal:statute:lpte:article:51",
-    "term_id": "urn:lex-mx:federal:statute:lpte:term:ley",
-    "span": "Ley",
-    "start_char": 87,
-    "end_char": 90
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:51:term-usage:117-120",
-    "provision_id": "urn:lex-mx:federal:statute:lpte:article:51",
-    "term_id": "urn:lex-mx:federal:statute:lpte:term:ley",
-    "span": "Ley",
-    "start_char": 117,
-    "end_char": 120
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lpte:article:51:term-usage:461-471",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:51",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:secretaria",
@@ -4021,15 +3778,6 @@
     "span": "Secretaría",
     "start_char": 3,
     "end_char": 13
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:55:term-usage:113-116",
-    "provision_id": "urn:lex-mx:federal:statute:lpte:article:55",
-    "term_id": "urn:lex-mx:federal:statute:lpte:term:ley",
-    "span": "Ley",
-    "start_char": 113,
-    "end_char": 116
   },
   {
     "schema_version": "0.1.0",
@@ -4138,15 +3886,6 @@
     "span": "Ley",
     "start_char": 92,
     "end_char": 95
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:60:term-usage:133-136",
-    "provision_id": "urn:lex-mx:federal:statute:lpte:article:60",
-    "term_id": "urn:lex-mx:federal:statute:lpte:term:ley",
-    "span": "Ley",
-    "start_char": 133,
-    "end_char": 136
   },
   {
     "schema_version": "0.1.0",
@@ -4762,15 +4501,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:91:term-usage:541-544",
-    "provision_id": "urn:lex-mx:federal:statute:lpte:article:91",
-    "term_id": "urn:lex-mx:federal:statute:lpte:term:ley",
-    "span": "Ley",
-    "start_char": 541,
-    "end_char": 544
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lpte:article:92:term-usage:479-489",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:92",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:reglamento",
@@ -4804,15 +4534,6 @@
     "span": "Ley",
     "start_char": 1347,
     "end_char": 1350
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:92:term-usage:1419-1422",
-    "provision_id": "urn:lex-mx:federal:statute:lpte:article:92",
-    "term_id": "urn:lex-mx:federal:statute:lpte:term:ley",
-    "span": "Ley",
-    "start_char": 1419,
-    "end_char": 1422
   },
   {
     "schema_version": "0.1.0",
@@ -4867,15 +4588,6 @@
     "span": "Ley",
     "start_char": 99,
     "end_char": 102
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:97:term-usage:250-253",
-    "provision_id": "urn:lex-mx:federal:statute:lpte:article:97",
-    "term_id": "urn:lex-mx:federal:statute:lpte:term:ley",
-    "span": "Ley",
-    "start_char": 250,
-    "end_char": 253
   },
   {
     "schema_version": "0.1.0",
@@ -4960,30 +4672,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:99:term-usage:398-401",
-    "provision_id": "urn:lex-mx:federal:statute:lpte:article:99",
-    "term_id": "urn:lex-mx:federal:statute:lpte:term:ley",
-    "span": "Ley",
-    "start_char": 398,
-    "end_char": 401
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lpte:article:100:term-usage:254-257",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:100",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:ley",
     "span": "Ley",
     "start_char": 254,
     "end_char": 257
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:100:term-usage:262-265",
-    "provision_id": "urn:lex-mx:federal:statute:lpte:article:100",
-    "term_id": "urn:lex-mx:federal:statute:lpte:term:ley",
-    "span": "Ley",
-    "start_char": 262,
-    "end_char": 265
   },
   {
     "schema_version": "0.1.0",
@@ -5065,15 +4759,6 @@
     "span": "Ley",
     "start_char": 489,
     "end_char": 492
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:transitory:tercero:term-usage:509-530",
-    "provision_id": "urn:lex-mx:federal:statute:lpte:transitory:tercero",
-    "term_id": "urn:lex-mx:federal:statute:lpte:term:transicion-energetica",
-    "span": "Transición Energética",
-    "start_char": 509,
-    "end_char": 530
   },
   {
     "schema_version": "0.1.0",
@@ -5182,15 +4867,6 @@
     "span": "Secretaría",
     "start_char": 442,
     "end_char": 452
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:transitory:sexto:term-usage:637-640",
-    "provision_id": "urn:lex-mx:federal:statute:lpte:transitory:sexto",
-    "term_id": "urn:lex-mx:federal:statute:lpte:term:ley",
-    "span": "Ley",
-    "start_char": 637,
-    "end_char": 640
   },
   {
     "schema_version": "0.1.0",

@@ -17,7 +17,7 @@ source_sha256: 0be5ea342f5f369fb2b1cb6bad156b1229c335fd98f1ce0ad0bd229769023ce0
 
 # Artículo 41
 
-Las Dependencias coordinadoras de sector, una vez que se expidan los valores o documentos a que se refiere esta Sección y previamente a su entrega a la Tesorería o a la institución para el depósito de valores autorizada conforme a la [Ley](articulo-2.md) del Mercado de Valores, deberán registrar en el sistema electrónico a que se refiere el artículo [32](../../ltf/markdown/articulo-32.md) de la Ley, al menos la información siguiente:
+Las Dependencias coordinadoras de sector, una vez que se expidan los valores o documentos a que se refiere esta Sección y previamente a su entrega a la Tesorería o a la institución para el depósito de valores autorizada conforme a la Ley del Mercado de Valores, deberán registrar en el sistema electrónico a que se refiere el artículo [32](../../ltf/markdown/articulo-32.md) de la [Ley](articulo-2.md), al menos la información siguiente:
 
 I. Denominación o razón social de la persona moral en la que el Gobierno Federal tenga participación;
 

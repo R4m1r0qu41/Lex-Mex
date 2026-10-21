@@ -24,8 +24,8 @@ Corresponde a la [Secretaría](articulo-3.md) de Cultura:
 
 I. Promover la transmisión de programas de interés cultural y cívico;
 
-II. Intervenir en materia de radiodifusión para proteger los derechos de autor, en los términos establecidos en la [Ley](articulo-3.md) Federal del Derecho de Autor, y
+II. Intervenir en materia de radiodifusión para proteger los derechos de autor, en los términos establecidos en la Ley Federal del Derecho de Autor, y
 
-III. Las demás que le confieran esta Ley y otras disposiciones legales.
+III. Las demás que le confieran esta [Ley](articulo-3.md) y otras disposiciones legales.
 
 Artículo adicionado DOF 17-12-2015

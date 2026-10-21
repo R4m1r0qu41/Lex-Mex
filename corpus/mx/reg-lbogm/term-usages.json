@@ -37,15 +37,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lbogm:article:3:term-usage:93-96",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lbogm:article:3",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lbogm:term:ley",
-    "span": "Ley",
-    "start_char": 93,
-    "end_char": 96
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lbogm:article:4:term-usage:37-58",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lbogm:article:4",
     "term_id": "urn:lex-mx:federal:regulation:reg-lbogm:term:secretaria-competente",
@@ -1312,15 +1303,6 @@
     "span": "Ley",
     "start_char": 274,
     "end_char": 277
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lbogm:article:69:term-usage:183-186",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lbogm:article:69",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lbogm:term:ley",
-    "span": "Ley",
-    "start_char": 183,
-    "end_char": 186
   },
   {
     "schema_version": "0.1.0",

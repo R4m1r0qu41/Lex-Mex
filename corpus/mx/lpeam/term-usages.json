@@ -82,15 +82,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpeam:article:5:term-usage:2169-2191",
-    "provision_id": "urn:lex-mx:federal:statute:lpeam:article:5",
-    "term_id": "urn:lex-mx:federal:statute:lpeam:term:espacio-aereo-mexicano",
-    "span": "Espacio Aéreo Mexicano",
-    "start_char": 2169,
-    "end_char": 2191
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lpeam:article:5:term-usage:2693-2715",
     "provision_id": "urn:lex-mx:federal:statute:lpeam:article:5",
     "term_id": "urn:lex-mx:federal:statute:lpeam:term:espacio-aereo-mexicano",
@@ -106,15 +97,6 @@
     "span": "Protección del Espacio Aéreo Mexicano",
     "start_char": 2995,
     "end_char": 3032
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpeam:article:5:term-usage:3049-3063",
-    "provision_id": "urn:lex-mx:federal:statute:lpeam:article:5",
-    "term_id": "urn:lex-mx:federal:statute:lpeam:term:identificacion",
-    "span": "Identificación",
-    "start_char": 3049,
-    "end_char": 3063
   },
   {
     "schema_version": "0.1.0",

@@ -21,7 +21,7 @@ Para los efectos de esta Ley, se entiende por:
 
 I.- Dependencias: aquéllas que la Ley Orgánica de la Administración Pública Federal determina como tales incluyendo, en su caso, a sus órganos desconcentrados;
 
-II.- [Dependencias](articulo-2.md) administradoras de inmuebles: la [Secretaría](articulo-2.md) y las secretarías de Gobernación; Medio Ambiente y Recursos Naturales; Infraestructura, Comunicaciones y Transportes; Cultura, y Desarrollo Agrario, Territorial y Urbano, mismas que, en relación a los inmuebles federales de su competencia, ejercerán las facultades que esta Ley y las demás leyes les confieran. Las dependencias que tengan destinados a su servicio inmuebles federales no se considerarán como dependencias administradoras de inmuebles; Fracción reformada DOF 17-12-2015, 03-05-2023
+II.- Dependencias administradoras de inmuebles: la [Secretaría](articulo-2.md) y las secretarías de Gobernación; Medio Ambiente y Recursos Naturales; Infraestructura, Comunicaciones y Transportes; Cultura, y Desarrollo Agrario, Territorial y Urbano, mismas que, en relación a los inmuebles federales de su competencia, ejercerán las facultades que esta Ley y las demás leyes les confieran. Las dependencias que tengan destinados a su servicio inmuebles federales no se considerarán como dependencias administradoras de inmuebles; Fracción reformada DOF 17-12-2015, 03-05-2023
 
 III.- Entidades: las entidades paraestatales que con tal carácter determina la Ley Orgánica de la Administración Pública Federal;
 

@@ -33,7 +33,7 @@ VI. Entidades: Los organismos descentralizados, empresas de participación estat
 
 VII. Grandes empresas: Las empresas con el potencial de detonar la producción y el empleo, tanto de manera directa como a través de la integración de cadenas de valor en territorio nacional, la subcontratación de servicios y la compra de insumos de otras empresas, en particular de las [MIPYMES](articulo-4.md);
 
-VIII. MIPYMES: Las micro, pequeñas y medianas empresas a que se refiere el artículo [3](../../ldcmpme/markdown/articulo-3.md), fracción III de la Ley para el Desarrollo de la [Competitividad](articulo-4.md) de la Micro, Pequeña y Mediana Empresa, así como demás disposiciones aplicables;
+VIII. MIPYMES: Las micro, pequeñas y medianas empresas a que se refiere el artículo [3](../../ldcmpme/markdown/articulo-3.md), fracción III de la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa, así como demás disposiciones aplicables;
 
 IX. Núcleo productivo: Grupo de empresas asentadas en una misma zona geográfica y relacionadas a partir de la interconexión de los procesos productivos, de su organización, la tecnología y la innovación aplicada;
 

@@ -27,13 +27,13 @@ III. Secretario, la persona titular de la [Secretaría](articulo-2.md); Fracció
 
 IV. Ejército, Fuerza Aérea y Guardia Nacional, el Ejército Mexicano, la Fuerza Aérea Mexicana y la Guardia Nacional; Fracción reformada DOF 16-07-2025
 
-V. Ley Orgánica, la Ley Orgánica del [Ejército](articulo-2.md) y Fuerza Aérea Mexicanos; VI. Ley, la presente Ley;
+V. Ley Orgánica, la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos; VI. Ley, la presente Ley;
 
 VII. Reglamento, el Reglamento de la Ley;
 
 VIII. Ascenso, el acto de mando mediante el cual es conferido al militar un grado superior en el orden jerárquico dentro de la escala que fija la [Ley Orgánica](articulo-2.md) del Ejército y Fuerza Aérea Mexicanos y la Ley de la Guardia Nacional; Fracción reformada DOF 16-07-2025
 
-IX. Recompensas, las condecoraciones, menciones honoríficas, distinciones y citaciones que se otorgan a las personas civiles o militares, unidades o dependencias del Ejército, Fuerza Aérea y Guardia Nacional para premiar su heroísmo, capacidad profesional, servicios a la Patria o demás hechos meritorios; Fracción reformada DOF 16-07-2025
+IX. Recompensas, las condecoraciones, menciones honoríficas, distinciones y citaciones que se otorgan a las personas civiles o militares, unidades o dependencias del [Ejército](articulo-2.md), Fuerza Aérea y Guardia Nacional para premiar su heroísmo, capacidad profesional, servicios a la Patria o demás hechos meritorios; Fracción reformada DOF 16-07-2025
 
 X. Concursante, el militar con jerarquía hasta de Mayor del Ejército, Fuerza Aérea y Guardia Nacional que sustenta exámenes para cubrir una vacante en el grado inmediato superior; Fracción reformada DOF 05-08-2011, 16-07-2025
 

@@ -146,6 +146,16 @@ send a Codex review packet.
 
 ## Current checkpoint
 
+2026-10-20 (operator-directed batch, `glossary-extraction-5`):
+- **Printed names.** An entry's printed name is its definition site (253 usages removed).
+- **LIEPS.** Reviewed usage exclusions remove its 11 lower-case non-usages; its boundary readings and the lgs correction are confirmed.
+- **Headings.** Headings printed with their name on the heading line are read; seven instruments are reparsed.
+- **lan XXV.** Its lettered incisos define two terms.
+- **Title-span filter.** Usages inside an instrument's title are dropped unless the definition names that title (2,926 removed).
+- **Totals.** Usages 102,432 → 99,243; references unchanged.
+
+See `docs/decisions.md`.
+
 2026-10-20 (`glossary-extraction-4`, operator rulings): term identifiers are
 `[a-z0-9]+(-[a-z0-9]+)*` slugs (32 identifiers migrated), lan's quoted names are
 read without quotation marks (78 terms, 228 usages), and entries the SCJN declared
@@ -258,14 +268,15 @@ auto-detection gains a wider fallback pass").
 
 ## Next action
 
-LIEPS is done (operator review pending on three term boundaries and the
-lower-case matches listed in `docs/decisions.md`). Next:
-- lan's XXV, which nests `a.`/`b.` items (its quoted names are read since
-  2026-10-20; its usages await operator review);
-- ltfccg's chapter-heading leak, a parser fix;
-- the label and boundary holds (log, servinv-dcg-2013, reg-lftr-mcsre, ladua after
-  its reparse; fi-dcg-2014 by re-ingesting the new CNBV edition);
-- the title-span usage filter, which also unblocks the meia and mpcca imports;
-- the 12 unread fractions (profiles or rulings).
-Operator rulings on glossary scope remain pending except `lss` (both 5 A and
-159, ruled 2026-10-18); G3 imports follow accepted originals and scope decisions.
+The 2026-10-20 batch closes lan XXV, lan's usages, the LIEPS lower-case review and the title-span filter (`docs/decisions.md`). Next:
+- **Codex review of the batch.** The open title-filter question is the "la presente Ley" self-reference: lmigra 9, lgscmm 4.
+- **ltfccg's chapter-heading leak.** The parser now reads the form; a reparse needs source matching its committed `source_sha256` (none is retained).
+- **Label and boundary holds:**
+  - log, servinv-dcg-2013, reg-lftr-mcsre;
+  - ladua after its reparse;
+  - fi-dcg-2014, by re-ingesting the new CNBV edition.
+- **The meia and mpcca imports,** which the title-span filter no longer blocks.
+- **The 12 unread fractions** (profiles or rulings).
+
+Operator, legal: whether lgcs's 7 remaining terms stand.
+Operator rulings on glossary scope remain pending except `lss` (both 5 A and 159, ruled 2026-10-18). G3 imports follow accepted originals and scope decisions.

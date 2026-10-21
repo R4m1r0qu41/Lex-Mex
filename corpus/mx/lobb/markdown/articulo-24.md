@@ -17,4 +17,4 @@ source_sha256: 915a4f4f7947f248971aebed71f67ddf5fd26bd41faeacb7084ded7a6c57b6dc
 
 # Artículo 24
 
-El Director General será designado por el Ejecutivo Federal a través del Secretario de Hacienda y Crédito Público, debiendo recaer ese nombramiento en persona que reúna los requisitos que establece el artículo [24](../../lic/markdown/articulo-24.md) de la [Ley](articulo-2.md) de [Instituciones](articulo-2.md) de Crédito.
+El Director General será designado por el Ejecutivo Federal a través del Secretario de Hacienda y Crédito Público, debiendo recaer ese nombramiento en persona que reúna los requisitos que establece el artículo [24](../../lic/markdown/articulo-24.md) de la Ley de Instituciones de Crédito.

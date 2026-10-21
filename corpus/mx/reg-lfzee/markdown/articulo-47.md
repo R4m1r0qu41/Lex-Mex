@@ -21,4 +21,4 @@ La [Autoridad Federal](articulo-4.md) solicitará, sin perjuicio de lo dispuesto
 
 La Secretaría de Medio Ambiente y Recursos Naturales analizará la información remitida y emitirá su opinión en un plazo de veinte días hábiles, contado a partir del siguiente en que reciba la solicitud.
 
-La opinión favorable que emita la Secretaría de Medio Ambiente y Recursos Naturales no supone autorización alguna en materia de impacto ambiental, ni exime a los [Administradores Integrales](articulo-4.md) o [Inversionistas](articulo-4.md) de la obligación de elaborar la manifestación de impacto ambiental correspondiente en términos de la [Ley](articulo-4.md) General del Equilibrio Ecológico y la Protección al Ambiente.
+La opinión favorable que emita la Secretaría de Medio Ambiente y Recursos Naturales no supone autorización alguna en materia de impacto ambiental, ni exime a los [Administradores Integrales](articulo-4.md) o [Inversionistas](articulo-4.md) de la obligación de elaborar la manifestación de impacto ambiental correspondiente en términos de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.

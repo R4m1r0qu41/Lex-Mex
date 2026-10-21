@@ -15,9 +15,9 @@ source_sha256: b32c33fa4ed071dc8bea1ad69ce8510cdb05016967e9e4fcb60f10c6f2216628
 
 # Tercero
 
-La [Ley](articulo-2.md) General de Responsabilidades Administrativas entrará en vigor al año siguiente de la entrada en vigor del presente Decreto.
+La Ley General de Responsabilidades Administrativas entrará en vigor al año siguiente de la entrada en vigor del presente Decreto.
 
-En tanto entra en vigor la Ley a que se refiere el presente Transitorio, continuará aplicándose la legislación en materia de Responsabilidades Administrativas, en el ámbito federal y de las entidades federativas, que se encuentre vigente a la fecha de entrada en vigor del presente Decreto.
+En tanto entra en vigor la [Ley](articulo-2.md) a que se refiere el presente Transitorio, continuará aplicándose la legislación en materia de Responsabilidades Administrativas, en el ámbito federal y de las entidades federativas, que se encuentre vigente a la fecha de entrada en vigor del presente Decreto.
 
 El cumplimiento de las obligaciones previstas en la Ley General de Responsabilidades Administrativas, una vez que ésta entre en vigor, serán exigibles, en lo que resulte aplicable, hasta en tanto el Comité Coordinador del Sistema Nacional Anticorrupción, de conformidad con la ley de la materia, emita los lineamientos, criterios y demás resoluciones conducentes de su competencia. Los procedimientos administrativos iniciados por las autoridades federales y locales con anterioridad a la entrada en vigor de la Ley General de Responsabilidades Administrativas, serán concluidos conforme a las disposiciones aplicables vigentes a su inicio.
 

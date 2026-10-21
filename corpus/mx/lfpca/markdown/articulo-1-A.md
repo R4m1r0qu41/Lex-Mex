@@ -33,7 +33,7 @@ V. Contraseña: Conjunto único de caracteres alfanuméricos, asignados de maner
 
 VI. Dirección de Correo Electrónico: Sistema de comunicación a través de redes informáticas, señalado por las partes en el juicio contencioso administrativo federal.
 
-VII. [Dirección de Correo Electrónico](articulo-1-A.md) Institucional: Sistema de comunicación a través de redes informáticas, dentro del dominio definido y proporcionado por los órganos gubernamentales a los servidores públicos.
+VII. Dirección de Correo Electrónico Institucional: Sistema de comunicación a través de redes informáticas, dentro del dominio definido y proporcionado por los órganos gubernamentales a los servidores públicos.
 
 VIII. Documento Electrónico o Digital: Todo mensaje de datos que contiene texto o escritura generada, enviada, recibida o archivada por medios electrónicos, ópticos o de cualquier otra tecnología que forma parte del Expediente Electrónico.
 

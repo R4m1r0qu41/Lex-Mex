@@ -46,24 +46,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsa:article:2:term-usage:5127-5143",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfsa:article:2",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfsa:term:personal-oficial",
-    "span": "Personal Oficial",
-    "start_char": 5127,
-    "end_char": 5143
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsa:article:3:term-usage:764-767",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfsa:article:3",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfsa:term:ley",
-    "span": "Ley",
-    "start_char": 764,
-    "end_char": 767
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lfsa:article:4:term-usage:457-460",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsa:article:4",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsa:term:ley",
@@ -79,15 +61,6 @@
     "span": "Ley",
     "start_char": 718,
     "end_char": 721
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsa:article:8:term-usage:756-759",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfsa:article:8",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfsa:term:ley",
-    "span": "Ley",
-    "start_char": 756,
-    "end_char": 759
   },
   {
     "schema_version": "0.1.0",
@@ -190,15 +163,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsa:article:49:term-usage:279-282",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfsa:article:49",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfsa:term:ley",
-    "span": "Ley",
-    "start_char": 279,
-    "end_char": 282
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lfsa:article:51:term-usage:111-114",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsa:article:51",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsa:term:ley",
@@ -262,15 +226,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsa:article:63:term-usage:267-270",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfsa:article:63",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfsa:term:ley",
-    "span": "Ley",
-    "start_char": 267,
-    "end_char": 270
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lfsa:article:63:term-usage:615-618",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsa:article:63",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsa:term:ley",
@@ -331,24 +286,6 @@
     "span": "Ley",
     "start_char": 477,
     "end_char": 480
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsa:article:72:term-usage:948-951",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfsa:article:72",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfsa:term:ley",
-    "span": "Ley",
-    "start_char": 948,
-    "end_char": 951
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsa:article:73:term-usage:415-418",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfsa:article:73",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfsa:term:ley",
-    "span": "Ley",
-    "start_char": 415,
-    "end_char": 418
   },
   {
     "schema_version": "0.1.0",
@@ -421,24 +358,6 @@
     "span": "Ley",
     "start_char": 347,
     "end_char": 350
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsa:article:110:term-usage:1148-1151",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfsa:article:110",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfsa:term:ley",
-    "span": "Ley",
-    "start_char": 1148,
-    "end_char": 1151
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsa:article:111:term-usage:2017-2020",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfsa:article:111",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfsa:term:ley",
-    "span": "Ley",
-    "start_char": 2017,
-    "end_char": 2020
   },
   {
     "schema_version": "0.1.0",
@@ -586,15 +505,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsa:article:202:term-usage:1244-1247",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfsa:article:202",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfsa:term:ley",
-    "span": "Ley",
-    "start_char": 1244,
-    "end_char": 1247
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lfsa:article:202:term-usage:1946-1949",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsa:article:202",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsa:term:ley",
@@ -655,15 +565,6 @@
     "span": "Certificación Tipo Inspección Federal",
     "start_char": 754,
     "end_char": 791
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsa:article:234:term-usage:353-356",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfsa:article:234",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfsa:term:ley",
-    "span": "Ley",
-    "start_char": 353,
-    "end_char": 356
   },
   {
     "schema_version": "0.1.0",
@@ -739,15 +640,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsa:article:242:term-usage:390-393",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfsa:article:242",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfsa:term:ley",
-    "span": "Ley",
-    "start_char": 390,
-    "end_char": 393
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lfsa:article:244:term-usage:204-207",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsa:article:244",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsa:term:ley",
@@ -790,15 +682,6 @@
     "span": "Ley",
     "start_char": 276,
     "end_char": 279
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsa:article:271:term-usage:708-711",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfsa:article:271",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfsa:term:ley",
-    "span": "Ley",
-    "start_char": 708,
-    "end_char": 711
   },
   {
     "schema_version": "0.1.0",
@@ -910,33 +793,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsa:article:291:term-usage:303-306",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfsa:article:291",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfsa:term:ley",
-    "span": "Ley",
-    "start_char": 303,
-    "end_char": 306
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsa:article:293:term-usage:964-967",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfsa:article:293",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfsa:term:ley",
-    "span": "Ley",
-    "start_char": 964,
-    "end_char": 967
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsa:article:305:term-usage:586-589",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfsa:article:305",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfsa:term:ley",
-    "span": "Ley",
-    "start_char": 586,
-    "end_char": 589
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lfsa:article:306:term-usage:324-327",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsa:article:306",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsa:term:ley",
@@ -1018,15 +874,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsa:article:363:term-usage:149-152",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfsa:article:363",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfsa:term:ley",
-    "span": "Ley",
-    "start_char": 149,
-    "end_char": 152
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lfsa:article:364:term-usage:97-100",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsa:article:364",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsa:term:ley",
@@ -1063,15 +910,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsa:article:367:term-usage:262-265",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfsa:article:367",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfsa:term:ley",
-    "span": "Ley",
-    "start_char": 262,
-    "end_char": 265
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lfsa:article:371:term-usage:182-185",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsa:article:371",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsa:term:ley",
@@ -1105,14 +943,5 @@
     "span": "Ley",
     "start_char": 796,
     "end_char": 799
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsa:article:373:term-usage:173-176",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfsa:article:373",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfsa:term:ley",
-    "span": "Ley",
-    "start_char": 173,
-    "end_char": 176
   }
 ]

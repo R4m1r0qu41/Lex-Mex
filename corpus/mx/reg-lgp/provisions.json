@@ -92,7 +92,8 @@
     "number": "5",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo SEGUNDO"
+      "chapter": "Capítulo SEGUNDO",
+      "section": "Sección I"
     },
     "text": "La política nacional de población tiene por objeto incidir en el volumen, dinámica, estructura por edades y sexo y distribución de la población en el territorio nacional, a fin de contribuir al mejoramiento de las condiciones de vida de sus habitantes y al logro de la participación justa y equitativa de hombres y mujeres en los beneficios del desarrollo económico y social.\n\nEl respeto a las garantías individuales consagradas en la Constitución Política de los Estados Unidos Mexicanos, a los derechos humanos, a la equidad de género y a los valores culturales de la población mexicana, es el principio en el que se sustenta la política nacional de población y los programas en la materia, así como los programas migratorios y respecto de la mujer.",
     "publication_date": "2000-04-14",
@@ -113,7 +114,8 @@
     "number": "6",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo SEGUNDO"
+      "chapter": "Capítulo SEGUNDO",
+      "section": "Sección I"
     },
     "text": "El Ejecutivo Federal, atendiendo a las necesidades del desarrollo nacional, formulará, por conducto del Consejo, los programas necesarios para aplicar la política de población; por conducto del Instituto, los relativos a migración de nacionales y extranjeros, y por conducto de la Comisión Nacional de la Mujer, los programas respecto de la mujer.",
     "publication_date": "2000-04-14",
@@ -134,7 +136,8 @@
     "number": "7",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo SEGUNDO"
+      "chapter": "Capítulo SEGUNDO",
+      "section": "Sección I"
     },
     "text": "Para el debido cumplimiento de los fines de la política nacional de población, la Secretaría, según el caso, dictará, ejecutará o promoverá ante las otras dependencias y entidades de la Administración Pública Federal, de conformidad con las atribuciones y competencias de éstas y, en su caso, con la participación coordinada de las entidades federativas y de los municipios, las medidas que se requieran para desarrollar y cumplir los programas y acciones en materia de población, de migración y respecto de la mujer. Con este mismo propósito, la Secretaría celebrará bases de coordinación y convenios de colaboración con las dependencias y entidades de la Administración Pública Federal, acuerdos de coordinación con los ejecutivos locales y de concertación con los sectores social y privado.",
     "publication_date": "2000-04-14",
@@ -155,7 +158,8 @@
     "number": "8",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo SEGUNDO"
+      "chapter": "Capítulo SEGUNDO",
+      "section": "Sección I"
     },
     "text": "Las dependencias incluirán en sus programas las actividades y los recursos necesarios para realizar los programas formulados en el seno del Consejo, del Instituto y de la Comisión Nacional de la Mujer. La Secretaría promoverá ante las entidades de la Administración Pública Federal su participación en los términos señalados anteriormente.",
     "publication_date": "2000-04-14",
@@ -176,7 +180,8 @@
     "number": "9",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo SEGUNDO"
+      "chapter": "Capítulo SEGUNDO",
+      "section": "Sección I"
     },
     "text": "El Consejo, a través de sus programas, identificará y determinará las prioridades relacionadas con el volumen, estructura, dinámica y distribución de la población, a efecto de atenderlas mediante las acciones correspondientes a los ámbitos de competencia de cada uno de sus miembros y de las demás dependencias y entidades de la Administración Pública Federal cuando sea necesario para el cabal cumplimiento de los fines de la política nacional de población y los establecidos en la Ley.\n\nPara los efectos de lo dispuesto en la Ley y en el presente Reglamento, el Consejo elaborará y proporcionará las previsiones, consideraciones y criterios demográficos generales, así como las recomendaciones pertinentes que de ellos se deriven, para que las dependencias y entidades de la Administración Pública Federal los incluyan en la formulación y ejecución de sus programas y acciones.\n\nEl Consejo promoverá, por conducto de los consejos de población u organismos equivalentes, que las entidades federativas y los municipios tomen en cuenta estas previsiones, consideraciones y criterios demográficos generales, dentro de sus planes estatales y municipales de desarrollo y en los programas respectivos.",
     "publication_date": "2000-04-14",
@@ -197,7 +202,8 @@
     "number": "10",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo SEGUNDO"
+      "chapter": "Capítulo SEGUNDO",
+      "section": "Sección I"
     },
     "text": "El Consejo proporcionará los lineamientos para la elaboración de los programas de difusión, información y educación en población para contribuir a la formación de una cultura demográfica con miras al mejoramiento del bienestar individual y colectivo de los habitantes de la República. La Secretaría emitirá los lineamientos que promuevan la igualdad de la mujer, los cuales impulsarán su participación en todos los ámbitos de la vida social, cultural, política y económica en igualdad de condiciones con el varón. Asimismo, el Consejo, el Instituto y la Comisión Nacional de la Mujer determinarán y coordinarán estrategias, tareas y acciones que deban realizar sus miembros en las materias de su competencia.",
     "publication_date": "2000-04-14",
@@ -218,7 +224,8 @@
     "number": "11",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo SEGUNDO"
+      "chapter": "Capítulo SEGUNDO",
+      "section": "Sección I"
     },
     "text": "Los recursos de toda índole que en materia de población provengan del extranjero, deberán ajustarse a los programas oficiales y a las prioridades e inversiones propuestas por el Consejo. El Instituto participará de igual manera en lo relativo a los recursos en materia de migración de nacionales y extranjeros. Los recursos en materia de promoción de la condición de la mujer, deberán ajustarse a los programas oficiales y a las prioridades e inversiones propuestas por la Comisión Nacional de la Mujer.",
     "publication_date": "2000-04-14",
@@ -239,9 +246,10 @@
     "number": "12",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo SEGUNDO"
+      "chapter": "Capítulo SEGUNDO",
+      "section": "Sección I"
     },
-    "text": "El Instituto Nacional de Estadística, Geografía e Informática y las dependencias competentes, incluirán en los cuestionarios de los censos y de las encuestas que realicen, así como en la generación de estadísticas continuas, los datos que en materia de población, migración y género solicite la Secretaría.\n\nSECCIÓN II.- Planificación Familiar",
+    "text": "El Instituto Nacional de Estadística, Geografía e Informática y las dependencias competentes, incluirán en los cuestionarios de los censos y de las encuestas que realicen, así como en la generación de estadísticas continuas, los datos que en materia de población, migración y género solicite la Secretaría.",
     "publication_date": "2000-04-14",
     "effective_from": null,
     "effective_to": null,
@@ -260,7 +268,8 @@
     "number": "13",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo SEGUNDO"
+      "chapter": "Capítulo SEGUNDO",
+      "section": "Sección II"
     },
     "text": "Para efectos de este Reglamento, la planificación familiar, en los términos del artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos, es el ejercicio del derecho de toda persona a decidir, de manera libre, responsable e informada, sobre el número y el espaciamiento de sus hijos y a obtener la información especializada y los servicios idóneos.",
     "publication_date": "2000-04-14",
@@ -281,7 +290,8 @@
     "number": "14",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo SEGUNDO"
+      "chapter": "Capítulo SEGUNDO",
+      "section": "Sección II"
     },
     "text": "Los programas de planificación familiar son indicativos, por lo que deberán proporcionar información general e individualizada sobre sus objetivos, métodos y consecuencias, a efecto de que las personas estén en aptitud de ejercer con responsabilidad el derecho a determinar el número y espaciamiento de sus hijos. También se orientará sobre las causas de infertilidad y los medios para superarla. En la información que se imparta no se identificará la planificación familiar con el control natal o cualesquiera otros sistemas que impliquen acciones apremiantes o coactivas para las personas que impidan el libre ejercicio del derecho a que se refiere el párrafo anterior.",
     "publication_date": "2000-04-14",
@@ -302,7 +312,8 @@
     "number": "15",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo SEGUNDO"
+      "chapter": "Capítulo SEGUNDO",
+      "section": "Sección II"
     },
     "text": "Los servicios de planificación familiar deberán estar integrados y coordinados con los de salud, salud reproductiva, educación, seguridad social e información pública y otros destinados a lograr el bienestar de los individuos y de la familia, con un enfoque de género, y de conformidad con lo establecido en la Ley, el presente Reglamento y las demás disposiciones aplicables.",
     "publication_date": "2000-04-14",
@@ -323,7 +334,8 @@
     "number": "16",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo SEGUNDO"
+      "chapter": "Capítulo SEGUNDO",
+      "section": "Sección II"
     },
     "text": "La información y los servicios de salud, educación y demás similares, que estén relacionados con programas de planificación familiar, serán gratuitos cuando sean prestados por dependencias y organismos del sector público.",
     "publication_date": "2000-04-14",
@@ -344,7 +356,8 @@
     "number": "17",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo SEGUNDO"
+      "chapter": "Capítulo SEGUNDO",
+      "section": "Sección II"
     },
     "text": "Los programas de planificación familiar incorporarán el enfoque de género e informarán de manera clara y llana sobre fenómenos demográficos y de salud reproductiva, así como las vinculaciones de la familia con el proceso general de desarrollo, e instruirán sobre los medios permitidos por las leyes para regular la fecundidad.\n\nLa responsabilidad de las parejas e individuos en el ejercicio del derecho a planificar su familia, consiste en tomar en cuenta las necesidades de sus hijos, vivos y futuros, y su solidaridad con los demás miembros de la comunidad, para dar lugar a un mayor bienestar individual y colectivo.",
     "publication_date": "2000-04-14",
@@ -365,7 +378,8 @@
     "number": "18",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo SEGUNDO"
+      "chapter": "Capítulo SEGUNDO",
+      "section": "Sección II"
     },
     "text": "La educación e información sobre planificación familiar deberán dar a conocer los beneficios que genera decidir de manera libre y responsable sobre el número y espaciamiento de los hijos y la edad para concebirlos. Asimismo, deberán incluir la orientación sobre los riesgos a la salud que causen infertilidad y las estrategias de prevención y control. El Consejo pondrá especial atención en proporcionar dicha información a los jóvenes y adolescentes.",
     "publication_date": "2000-04-14",
@@ -386,7 +400,8 @@
     "number": "19",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo SEGUNDO"
+      "chapter": "Capítulo SEGUNDO",
+      "section": "Sección II"
     },
     "text": "Los servicios de información, salud, salud reproductiva y educación sobre planificación familiar a cargo de las instituciones públicas se realizarán a través de programas permanentes. El Consejo establecerá los criterios y procedimientos de coordinación de las dependencias y entidades que tengan a su cargo esos servicios.",
     "publication_date": "2000-04-14",
@@ -407,7 +422,8 @@
     "number": "20",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo SEGUNDO"
+      "chapter": "Capítulo SEGUNDO",
+      "section": "Sección II"
     },
     "text": "Los servicios de salud, salud reproductiva, educativos y de información sobre programas de planificación familiar, garantizarán a la persona la libre decisión sobre los métodos que para regular su fecundidad desee emplear.\n\nQueda prohibido obligar a las personas a utilizar contra su voluntad métodos de regulación de la fecundidad. Cuando las personas opten por el empleo de algún método anticonceptivo permanente, las instituciones o dependencias que presten el servicio deberán responsabilizarse de que las y los usuarios reciban orientación adecuada para la adopción del método, así como de recabar su consentimiento a través de la firma o la impresión de la huella dactilar en los formatos institucionales correspondientes.",
     "publication_date": "2000-04-14",
@@ -428,7 +444,8 @@
     "number": "21",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo SEGUNDO"
+      "chapter": "Capítulo SEGUNDO",
+      "section": "Sección II"
     },
     "text": "En los casos de personas sujetas a interdicción, que carezcan de representante legal, serán las autoridades de las instituciones y organismos de los sectores público, social y privado que las tengan a su cargo, las que resuelvan, previo el dictamen médico respectivo, sobre el ejercicio del derecho a que se refiere el tercer párrafo del artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos. En cada caso se dará vista al Ministerio Público.",
     "publication_date": "2000-04-14",
@@ -449,7 +466,8 @@
     "number": "22",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo SEGUNDO"
+      "chapter": "Capítulo SEGUNDO",
+      "section": "Sección II"
     },
     "text": "Las normas oficiales mexicanas de los servicios de planificación familiar, de salud y salud reproductiva, se establecerán de conformidad con lo dispuesto por la Ley Federal sobre Metrología y Normalización, y en lo conducente, por las leyes generales de Población y de Salud y con los acuerdos adoptados por el Consejo.",
     "publication_date": "2000-04-14",
@@ -470,9 +488,10 @@
     "number": "23",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo SEGUNDO"
+      "chapter": "Capítulo SEGUNDO",
+      "section": "Sección II"
     },
-    "text": "El Consejo proporcionará a los jueces u oficiales del Registro Civil, la información sobre planificación familiar, igualdad jurídica de la mujer y del varón, responsabilidades familiares compartidas y organización legal y desarrollo de la familia, para que se difunda entre los que intervengan en los actos del estado civil.\n\nSECCIÓN III.- Familia y Grupos Marginados",
+    "text": "El Consejo proporcionará a los jueces u oficiales del Registro Civil, la información sobre planificación familiar, igualdad jurídica de la mujer y del varón, responsabilidades familiares compartidas y organización legal y desarrollo de la familia, para que se difunda entre los que intervengan en los actos del estado civil.",
     "publication_date": "2000-04-14",
     "effective_from": null,
     "effective_to": null,
@@ -491,7 +510,8 @@
     "number": "24",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo SEGUNDO"
+      "chapter": "Capítulo SEGUNDO",
+      "section": "Sección III"
     },
     "text": "Los programas de población procurarán:\n\nI. Vincular a la familia con los objetivos nacionales de desarrollo;\n\nII. Fomentar el fortalecimiento de los lazos de solidaridad entre los integrantes de la familia;\n\nIII. Revaluar el papel de la mujer y del varón en el seno familiar;\n\nIV. Evitar toda forma de abuso, coerción, violencia o discriminación individual o colectiva, hacia las mujeres;\n\nV. Promover la igualdad de derechos y obligaciones para mujeres y hombres en el seno de la familia y la participación de sus integrantes en un marco de relaciones de corresponsabilidad, así como establecer medidas para impulsar la igualdad social y económica entre la mujer y el varón;\n\nVI. Fomentar la participación igualitaria de la pareja en las decisiones relativas a planificación familiar;\n\nVII. Fomentar decisiones libres, informadas y conscientes en relación con los derechos y obligaciones que adquieren las parejas al unirse en matrimonio, el número y espaciamiento de los hijos, el cuidado y atención de los menores, ancianos y discapacitados, entre otros;\n\nVIII. Realizar y promover acciones de educación y comunicación que generen el ejercicio de la paternidad responsable y refuercen el mejor desempeño de los padres en la formación de los hijos y en la transmisión de los valores familiares y cívicos;\n\nIX. Diseñar campañas y llevar a cabo acciones que sensibilicen a la población acerca de la violencia contra la mujer en todas sus formas, así como en cuanto a las repercusiones que este problema social ejerce sobre el desarrollo integral de la mujer y la familia, y que contribuyan a prevenir la violencia en el seno familiar y a fortalecer especialmente en los menores, adolescentes y jóvenes una cultura de respeto a los miembros de la familia y a la dignidad de la mujer, y\n\nX. Poner en marcha programas de información acerca de los derechos de las víctimas de violencia familiar y de los centros de servicio para la familia en materia de atención a las mismas, así como de aquellos dirigidos a rehabilitar agresores.",
     "publication_date": "2000-04-14",
@@ -512,9 +532,10 @@
     "number": "25",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo SEGUNDO"
+      "chapter": "Capítulo SEGUNDO",
+      "section": "Sección III"
     },
-    "text": "Los programas de población establecerán estrategias adecuadas a las características culturales, sociales, económicas y demográficas de los grupos indígenas vulnerables y de la población marginada, con el fin de impulsar sus condiciones de bienestar.\n\nSECCIÓN IV.- Mujer y Equidad de Género",
+    "text": "Los programas de población establecerán estrategias adecuadas a las características culturales, sociales, económicas y demográficas de los grupos indígenas vulnerables y de la población marginada, con el fin de impulsar sus condiciones de bienestar.",
     "publication_date": "2000-04-14",
     "effective_from": null,
     "effective_to": null,
@@ -533,7 +554,8 @@
     "number": "26",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo SEGUNDO"
+      "chapter": "Capítulo SEGUNDO",
+      "section": "Sección IV"
     },
     "text": "En la formulación de la política, la elaboración de los instrumentos programáticos, la realización de las acciones y la promoción de iniciativas en favor de la mujer, las dependencias y entidades de la Administración Pública Federal, observarán el principio de equidad de género.\n\nPara los efectos de este Reglamento, se entenderá por género, el conjunto de ideas, creencias, representaciones y atribuciones de nuestra cultura tomando como base la diferencia sexual.\n\nLa equidad de género se traducirá en el establecimiento y fortalecimiento de mecanismos destinados a impulsar la igualdad de derechos, responsabilidades y oportunidades de mujeres y hombres; revaloración del papel de la mujer y del hombre en el seno familiar, así como la no discriminación individual y colectiva hacia la mujer.",
     "publication_date": "2000-04-14",
@@ -554,7 +576,8 @@
     "number": "27",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo SEGUNDO"
+      "chapter": "Capítulo SEGUNDO",
+      "section": "Sección IV"
     },
     "text": "Los programas del Ejecutivo Federal, en relación con la mujer, deberán considerar cuando menos las siguientes áreas:\n\nI) Educación;\n\nII) Cuidado de la salud;\n\nIII) Combate a la pobreza;\n\nIV) Revaloración del trabajo remunerado y no remunerado;\n\nV) Mujer que vive en medios rurales;\n\nVI) Mujer indígena;\n\nVII) Fomento productivo;\n\nVIII) Mujer y familia;\n\nIX) Familia con hijo discapacitado;\n\nX) Derechos de la mujer;\n\nXI) Participación en la toma de decisiones, y\n\nXII) Combate a la violencia, abusos y prácticas discriminatorias hacia la mujer.",
     "publication_date": "2000-04-14",
@@ -575,7 +598,8 @@
     "number": "28",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo SEGUNDO"
+      "chapter": "Capítulo SEGUNDO",
+      "section": "Sección IV"
     },
     "text": "Las dependencias y entidades de la Administración Pública Federal, en ejercicio de sus atribuciones y funciones incorporarán el enfoque de género en sus políticas, programas y acciones sectoriales, con base en lo dispuesto en el presente Reglamento y siguiendo los lineamientos que emita la Secretaría, y en cumplimiento de los convenios internacionales signados por el Gobierno Mexicano.",
     "publication_date": "2000-04-14",
@@ -596,7 +620,8 @@
     "number": "29",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo SEGUNDO"
+      "chapter": "Capítulo SEGUNDO",
+      "section": "Sección IV"
     },
     "text": "Las dependencias y entidades de la Administración Pública Federal elaborarán y aplicarán un programa interno, a fin de promover la condición de equidad de las mujeres que laboren en cada una de ellas, tomando en cuenta para ese propósito las disposiciones de este Reglamento y los lineamientos que emita la Secretaría, así como la demás normatividad aplicable.",
     "publication_date": "2000-04-14",
@@ -617,9 +642,10 @@
     "number": "30",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo SEGUNDO"
+      "chapter": "Capítulo SEGUNDO",
+      "section": "Sección IV"
     },
-    "text": "Los programas de las dependencias y entidades de la Administración Pública Federal destinados a impulsar la condición de la mujer establecerán un conjunto de políticas, estrategias y acciones para garantizar la igualdad de oportunidades a la mujer, con independencia de su condición jurídica, socioeconómica, étnica, religiosa, física, política, y nivel educativo.\n\nSECCIÓN V.- Distribución de la Población",
+    "text": "Los programas de las dependencias y entidades de la Administración Pública Federal destinados a impulsar la condición de la mujer establecerán un conjunto de políticas, estrategias y acciones para garantizar la igualdad de oportunidades a la mujer, con independencia de su condición jurídica, socioeconómica, étnica, religiosa, física, política, y nivel educativo.",
     "publication_date": "2000-04-14",
     "effective_from": null,
     "effective_to": null,
@@ -638,7 +664,8 @@
     "number": "31",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo SEGUNDO"
+      "chapter": "Capítulo SEGUNDO",
+      "section": "Sección V"
     },
     "text": "Los programas sobre distribución de la población establecerán las medidas necesarias para lograr una distribución más equilibrada de la población en el territorio nacional, con el fin de aprovechar óptimamente los recursos naturales del país, así como de procurar la preservación de los mismos y mejorar las condiciones de vida de sus habitantes.\n\nPara el logro de los fines establecidos en el párrafo anterior, el Consejo promoverá la coordinación de acciones entre las dependencias y entidades, conforme a su competencia y objeto, en materia de desarrollo regional y urbano, ecología y conservación, uso y aprovechamiento sustentable de los recursos naturales.",
     "publication_date": "2000-04-14",
@@ -659,7 +686,8 @@
     "number": "32",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo SEGUNDO"
+      "chapter": "Capítulo SEGUNDO",
+      "section": "Sección V"
     },
     "text": "De conformidad con las disposiciones legales aplicables, los programas de desarrollo regional y urbano deberán prever el impacto que generen sobre la distribución de la población, los cuales deberán ser congruentes con los lineamientos establecidos por los programas en materia de población y con las previsiones, consideraciones y criterios demográficos determinados por el Consejo.",
     "publication_date": "2000-04-14",
@@ -680,7 +708,8 @@
     "number": "33",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo SEGUNDO"
+      "chapter": "Capítulo SEGUNDO",
+      "section": "Sección V"
     },
     "text": "En el marco de las políticas de desarrollo nacional, el Consejo promoverá los programas y medidas que contribuyan a regular la migración interna, para lograr una mejor distribución demográfica, considerando las potencialidades y necesidades de la población que reside en las diversas comunidades y regiones del país, el acervo de recursos disponibles en cada región, y el potencial de desarrollo.",
     "publication_date": "2000-04-14",
@@ -848,7 +877,8 @@
     "number": "41",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo CUARTO"
+      "chapter": "Capítulo CUARTO",
+      "section": "Sección I"
     },
     "text": "Corresponde al Registro Nacional de Población la instrumentación, operación y aplicación de las disposiciones contenidas en la Ley, este Reglamento y las demás que al respecto dicte la Secretaría en materia de registro de población.",
     "publication_date": "2000-04-14",
@@ -869,7 +899,8 @@
     "number": "42",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo CUARTO"
+      "chapter": "Capítulo CUARTO",
+      "section": "Sección I"
     },
     "text": "El Registro Nacional de Población coordinará los métodos de identificación y registro de personas de la Administración Pública Federal y de las administraciones públicas estatales y municipales en los términos de los instrumentos que se celebren al respecto, con el propósito de constituir un sistema integrado de registro de población.",
     "publication_date": "2000-04-14",
@@ -890,7 +921,8 @@
     "number": "43",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo CUARTO"
+      "chapter": "Capítulo CUARTO",
+      "section": "Sección I"
     },
     "text": "Las dependencias y entidades de la Administración Pública Federal que en virtud de sus atribuciones integren algún registro de personas, deberán adoptar el uso de la Clave Única de Registro de Población como elemento de aquél.",
     "publication_date": "2000-04-14",
@@ -911,7 +943,8 @@
     "number": "44",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo CUARTO"
+      "chapter": "Capítulo CUARTO",
+      "section": "Sección I"
     },
     "text": "La Secretaría promoverá, ante los gobiernos de las entidades federativas, la celebración de acuerdos de coordinación para la adopción y uso de la Clave Única de Registro de Población en los registros de personas que competan a su ámbito.",
     "publication_date": "2000-04-14",
@@ -932,7 +965,8 @@
     "number": "45",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo CUARTO"
+      "chapter": "Capítulo CUARTO",
+      "section": "Sección I"
     },
     "text": "Para que los mexicanos y mexicanas radicados en el extranjero que tengan inscrito su nacimiento en la oficina del Registro Civil de otro país puedan ser incorporados al Registro Nacional de Población, previamente deberán registrar su acta de nacimiento en el Registro Civil de la República Mexicana o de la sección consular de la embajada o consulado mexicano que corresponda, para que le expidan el documento respectivo.",
     "publication_date": "2000-04-14",
@@ -953,9 +987,10 @@
     "number": "46",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo CUARTO"
+      "chapter": "Capítulo CUARTO",
+      "section": "Sección I"
     },
-    "text": "Los mexicanos y mexicanas residentes en el extranjero podrán solicitar su incorporación al Registro Nacional de Población en las secciones consulares de las embajadas o consulados del Gobierno Mexicano acreditados en el país donde residan, conforme al procedimiento que el Registro Nacional de Población establezca de común acuerdo con la Secretaría de Relaciones Exteriores.\n\nSECCIÓN II.- Registro Nacional de Ciudadanos",
+    "text": "Los mexicanos y mexicanas residentes en el extranjero podrán solicitar su incorporación al Registro Nacional de Población en las secciones consulares de las embajadas o consulados del Gobierno Mexicano acreditados en el país donde residan, conforme al procedimiento que el Registro Nacional de Población establezca de común acuerdo con la Secretaría de Relaciones Exteriores.",
     "publication_date": "2000-04-14",
     "effective_from": null,
     "effective_to": null,
@@ -974,7 +1009,8 @@
     "number": "47",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo CUARTO"
+      "chapter": "Capítulo CUARTO",
+      "section": "Sección II"
     },
     "text": "El Registro Nacional de Ciudadanos se conforma con los datos de los mexicanos y mexicanas de dieciocho o más años, los cuales deberán ser, cuando menos, los siguientes:\n\na) Nombre completo;\n\nb) Sexo del ciudadano;\n\nc) Lugar y fecha de nacimiento;\n\nd) Lugar y fecha en que se llevó a cabo la inscripción de la persona al Registro Nacional de Ciudadanos;\n\ne) Nombre completo y nacionalidad del padre y la madre cuando se consignen en los documentos presentados;\n\nf) Datos de localización del acta de nacimiento en el Registro Civil, o del certificado de nacionalidad, o de la carta de naturalización;\n\ng) Nacionalidad de origen cuando el ciudadano haya adquirido la nacionalidad por naturalización;\n\nh) Clave Única de Registro de Población, y\n\ni) Fotografía, huellas dactilares, imagen del iris y firma del ciudadano. Inciso reformado DOF 19-01-2011",
     "publication_date": "2000-04-14",
@@ -995,7 +1031,8 @@
     "number": "48",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo CUARTO"
+      "chapter": "Capítulo CUARTO",
+      "section": "Sección II"
     },
     "text": "Los mexicanos y mexicanas que hayan cumplido dieciocho años y que radiquen en territorio nacional, tienen la obligación de inscribirse en el Registro Nacional de Ciudadanos y obtener su Cédula de Identidad Ciudadana, en el término de seis meses a partir de que hayan cumplido dicha edad; igual obligación tendrán los mexicanos y mexicanas por naturalización a partir de la obtención de su carta de naturalización.\n\nPor lo que hace a los mexicanos y mexicanas residentes en el extranjero se estará a lo que acuerden el Registro Nacional de Población y la Secretaría de Relaciones Exteriores.",
     "publication_date": "2000-04-14",
@@ -1016,7 +1053,8 @@
     "number": "49",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo CUARTO"
+      "chapter": "Capítulo CUARTO",
+      "section": "Sección II"
     },
     "text": "El Registro Nacional de Población determinará los datos y elementos que deberá contener la Cédula de Identidad Ciudadana, además de los señalados por el artículo 107 de la Ley.",
     "publication_date": "2000-04-14",
@@ -1037,7 +1075,8 @@
     "number": "50",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo CUARTO"
+      "chapter": "Capítulo CUARTO",
+      "section": "Sección II"
     },
     "text": "La expedición de la Cédula de Identidad Ciudadana será gratuita. En los casos de renovación o reposición, se estará a lo que determine la Ley Federal de Derechos.",
     "publication_date": "2000-04-14",
@@ -1058,9 +1097,10 @@
     "number": "51",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo CUARTO"
+      "chapter": "Capítulo CUARTO",
+      "section": "Sección II"
     },
-    "text": "Cuando alguna dependencia o entidad de la Administración Pública Federal, estatal o municipal requiera al ciudadano la exhibición de su Cédula de Identidad Ciudadana en los trámites de carácter personal que realice, éste deberá mostrarla sin que el hecho de no hacerlo implique sanción alguna.\n\nSECCIÓN III.- Registro de Menores de Edad",
+    "text": "Cuando alguna dependencia o entidad de la Administración Pública Federal, estatal o municipal requiera al ciudadano la exhibición de su Cédula de Identidad Ciudadana en los trámites de carácter personal que realice, éste deberá mostrarla sin que el hecho de no hacerlo implique sanción alguna.",
     "publication_date": "2000-04-14",
     "effective_from": null,
     "effective_to": null,
@@ -1079,7 +1119,8 @@
     "number": "52",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo CUARTO"
+      "chapter": "Capítulo CUARTO",
+      "section": "Sección III"
     },
     "text": "El Registro de Menores de Edad se conforma con los datos de los mexicanos y mexicanas menores de dieciocho años que se recaben a través de los registros civiles, los cuales deberán ser, cuando menos, los siguientes:\n\na) Nombre completo;\n\nb) Sexo del o la menor;\n\nc) Lugar y fecha de nacimiento;\n\nd) Lugar y fecha en donde se llevó a cabo el registro;\n\ne) Nombres, apellidos y nacionalidad del padre y la madre del menor;\n\nf) Datos de localización del acta de nacimiento en el Registro Civil, y\n\ng) Clave Única de Registro de Población.\n\nAdemás, dicho Registro contendrá la fotografía, las huellas dactilares y la imagen del iris, que para tal efecto recabe el Registro Nacional de Población. Párrafo reformado DOF 19-01-2011",
     "publication_date": "2000-04-14",
@@ -1100,7 +1141,8 @@
     "number": "53",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo CUARTO"
+      "chapter": "Capítulo CUARTO",
+      "section": "Sección III"
     },
     "text": "Para efecto del documento de identificación para los mexicanos y mexicanas menores de dieciocho años, se expedirá la Cédula de Identidad Personal.",
     "publication_date": "2000-04-14",
@@ -1121,7 +1163,8 @@
     "number": "54",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo CUARTO"
+      "chapter": "Capítulo CUARTO",
+      "section": "Sección III"
     },
     "text": "La Cédula de Identidad Personal deberá contener, cuando menos, los siguientes datos y elementos de identificación:\n\na) Nombre completo;\n\nb) Sexo del o la menor;\n\nc) Lugar y fecha de nacimiento;\n\nd) Nombres completos del padre y la madre;\n\ne) Clave Única de Registro de Población;\n\nf) Fotografía del titular; g) La codificación de la imagen del iris, y Inciso reformado DOF 19-01-2011\n\nh) Lugar y fecha de expedición.",
     "publication_date": "2000-04-14",
@@ -1142,7 +1185,8 @@
     "number": "55",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo CUARTO"
+      "chapter": "Capítulo CUARTO",
+      "section": "Sección III"
     },
     "text": "La Cédula de Identidad Personal podrá ser solicitada por los padres o tutores del menor. Cuando éste haya cumplido los catorce años podrá solicitarla personalmente.",
     "publication_date": "2000-04-14",
@@ -1163,7 +1207,8 @@
     "number": "56",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo CUARTO"
+      "chapter": "Capítulo CUARTO",
+      "section": "Sección III"
     },
     "text": "El Registro Nacional de Población sólo podrá acreditar fehacientemente la identidad del o la menor una vez que se le haya expedido la Cédula de Identidad Personal.",
     "publication_date": "2000-04-14",
@@ -1184,7 +1229,8 @@
     "number": "57",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo CUARTO"
+      "chapter": "Capítulo CUARTO",
+      "section": "Sección III"
     },
     "text": "La Cédula de Identidad Personal tendrá una vigencia de seis años, y podrá renovarse cuando a criterio de los padres o tutores los rasgos físicos del o la menor no correspondan con los de la fotografía que porta la cédula.",
     "publication_date": "2000-04-14",
@@ -1205,9 +1251,10 @@
     "number": "58",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo CUARTO"
+      "chapter": "Capítulo CUARTO",
+      "section": "Sección III"
     },
-    "text": "Las autoridades mexicanas, ya sea en el país o en el extranjero, y las personas físicas y morales con domicilio en el país, deberán darle plena validez a la Cédula de Identidad Personal como medio de identificación del o la menor.\n\nSECCIÓN IV.- Del Procedimiento",
+    "text": "Las autoridades mexicanas, ya sea en el país o en el extranjero, y las personas físicas y morales con domicilio en el país, deberán darle plena validez a la Cédula de Identidad Personal como medio de identificación del o la menor.",
     "publication_date": "2000-04-14",
     "effective_from": null,
     "effective_to": null,
@@ -1226,7 +1273,8 @@
     "number": "59",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo CUARTO"
+      "chapter": "Capítulo CUARTO",
+      "section": "Sección IV"
     },
     "text": "Para la inscripción en el Registro Nacional de Ciudadanos los mexicanos y mexicanas que hayan cumplido dieciocho años, así como los y las menores de edad que soliciten su Cédula de Identidad Personal, deberán presentar su solicitud en el formato y a través de los medios que para tal efecto determine el Registro Nacional de Población.\n\nArtículo reformado DOF 19-01-2011",
     "publication_date": "2000-04-14",
@@ -1247,7 +1295,8 @@
     "number": "60",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo CUARTO"
+      "chapter": "Capítulo CUARTO",
+      "section": "Sección IV"
     },
     "text": "El Registro Nacional de Población, a fin de certificar plenamente la identidad de las personas, podrá exigir:\n\nI. Documentos que acrediten que la identidad de la persona es la misma a la que se refiere la copia certificada de su acta de nacimiento, los que podrán consistir en:\n\na) Cédula profesional;\n\nb) Pasaporte;\n\nc) Certificado o constancia de estudios;\n\nd) Constancia de residencia emitida por la autoridad del lugar de residencia del interesado;\n\ne) Cartilla del Servicio Militar Nacional, y\n\nf) Credencial de afiliación del Instituto Mexicano del Seguro Social o del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;\n\nII. Testimonial de personas que hayan obtenido su Cédula de Identidad Ciudadana, la cual deberán exhibir al rendir su testimonio, y\n\nIII. Testimonial de la autoridad tradicional indígena y de la autoridad municipal o de la delegación del lugar. Los requisitos y documentos señalados no limitan la facultad del Registro Nacional de Población de solicitar al interesado cualquier otro medio de identificación. Los documentos a que se refiere la fracción I de este artículo deberán contener fotografía del interesado y al menos uno de ellos, haber sido expedido con una antigüedad mínima de un año al momento de la presentación de la solicitud.",
     "publication_date": "2000-04-14",
@@ -1268,7 +1317,8 @@
     "number": "61",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo CUARTO"
+      "chapter": "Capítulo CUARTO",
+      "section": "Sección IV"
     },
     "text": "Las solicitudes se presentarán en los formatos y con la documentación requeridos, en caso contrario se desechará.",
     "publication_date": "2000-04-14",
@@ -1289,7 +1339,8 @@
     "number": "62",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo CUARTO"
+      "chapter": "Capítulo CUARTO",
+      "section": "Sección IV"
     },
     "text": "Al presentar su solicitud para su inscripción en el Registro Nacional de Ciudadanos, el interesado o la interesada deberá, conforme a las normas técnicas que emita la Secretaría:\n\nI. Estampar su firma y huellas dactilares;\n\nII. Registrar la imagen de su iris, y\n\nIII. Manifestar su domicilio bajo protesta de decir verdad.\n\nEn el caso de los y las menores de edad deberán registrar sus huellas dactilares así como la imagen de su iris.\n\nArtículo reformado DOF 19-01-2011",
     "publication_date": "2000-04-14",
@@ -1310,7 +1361,8 @@
     "number": "63",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo CUARTO"
+      "chapter": "Capítulo CUARTO",
+      "section": "Sección IV"
     },
     "text": "Las solicitudes deberán ser presentadas mediante los mecanismos que para tal efecto determine la Secretaría.\n\nLa Secretaría contará como mínimo con una oficina del Registro Nacional de Población en cada entidad federativa, sin perjuicio de auxiliarse de cualquier autoridad federal o local con la que se haya convenido al respecto.\n\nArtículo reformado DOF 19-01-2011",
     "publication_date": "2000-04-14",
@@ -1331,7 +1383,8 @@
     "number": "64",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo CUARTO"
+      "chapter": "Capítulo CUARTO",
+      "section": "Sección IV"
     },
     "text": "El funcionamiento de las oficinas a que se refiere el artículo anterior deberá sujetarse a los lineamientos que para tal fin dicte el Registro Nacional de Población.",
     "publication_date": "2000-04-14",
@@ -1352,7 +1405,8 @@
     "number": "65",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo CUARTO"
+      "chapter": "Capítulo CUARTO",
+      "section": "Sección IV"
     },
     "text": "Cuando el Registro Nacional de Población cuente con la información certificada del Registro Civil, no será necesario que el interesado acompañe a su solicitud copia certificada de su acta de nacimiento.",
     "publication_date": "2000-04-14",
@@ -1373,7 +1427,8 @@
     "number": "66",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo CUARTO"
+      "chapter": "Capítulo CUARTO",
+      "section": "Sección IV"
     },
     "text": "Los mexicanos y mexicanas que hayan cumplido dieciocho años y que cuenten con su Cédula de Identidad Personal podrán presentar ante la oficina del Registro Nacional de Población la solicitud para su inscripción en el Registro Nacional de Ciudadanos acompañando dicha Cédula, sin que sea necesaria la copia certificada de su acta de nacimiento.",
     "publication_date": "2000-04-14",
@@ -1394,7 +1449,8 @@
     "number": "67",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo CUARTO"
+      "chapter": "Capítulo CUARTO",
+      "section": "Sección IV"
     },
     "text": "Cuando el interesado o la interesada no pueda entregar copia certificada del acta de nacimiento por no haber sido inscrito en el Registro Civil, el servidor público que haya recibido la solicitud de inscripción deberá orientarlo para que concurra ante la autoridad que corresponda para llevar a cabo su registro extemporáneo.",
     "publication_date": "2000-04-14",
@@ -1415,7 +1471,8 @@
     "number": "68",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo CUARTO"
+      "chapter": "Capítulo CUARTO",
+      "section": "Sección IV"
     },
     "text": "Si al dictaminar los documentos presentados por el interesado o la interesada, el Registro Nacional de Población encontrara alguna irregularidad o inconsistencia que afectara los datos esenciales consignados en el acta, en el certificado de nacionalidad o en la carta de naturalización, orientará a los interesados para que concurran ante la autoridad que corresponda y se lleve a cabo la aclaración o rectificación del documento de que se trate, asentando en el formato de solicitud las causas por las cuales se rechazó la misma y archivará copia de ese formato.",
     "publication_date": "2000-04-14",
@@ -1436,7 +1493,8 @@
     "number": "69",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo CUARTO"
+      "chapter": "Capítulo CUARTO",
+      "section": "Sección IV"
     },
     "text": "Cuando la irregularidad recaiga en los demás documentos anexos a la solicitud, el Registro Nacional de Población lo notificará al interesado por escrito en un término no mayor de quince días hábiles, especificando en qué consiste la irregularidad y la forma de subsanarla.",
     "publication_date": "2000-04-14",
@@ -1457,7 +1515,8 @@
     "number": "70",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo CUARTO"
+      "chapter": "Capítulo CUARTO",
+      "section": "Sección IV"
     },
     "text": "El interesado o la interesada dispondrán de un término de treinta días hábiles a partir de la fecha en que recibió la notificación para hacer la aclaración respectiva de los documentos a que se refiere el artículo anterior.",
     "publication_date": "2000-04-14",
@@ -1478,7 +1537,8 @@
     "number": "71",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo CUARTO"
+      "chapter": "Capítulo CUARTO",
+      "section": "Sección IV"
     },
     "text": "Si en el término señalado el interesado o la interesada no se presenta ante la oficina del Registro Nacional de Población a realizar la aclaración correspondiente, deberán presentar una nueva solicitud para su inscripción en el Registro Nacional de Ciudadanos o para la expedición de su Cédula de Identidad Personal.",
     "publication_date": "2000-04-14",
@@ -1499,7 +1559,8 @@
     "number": "72",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo CUARTO"
+      "chapter": "Capítulo CUARTO",
+      "section": "Sección IV"
     },
     "text": "Una vez declarada la procedencia de la solicitud, el Registro Nacional de Población deberá notificar al interesado o la interesada en un término no mayor de treinta días, y lo o la citará a efecto de entregarle su Cédula de Identidad Ciudadana o su Cédula de Identidad Personal, según sea el caso.",
     "publication_date": "2000-04-14",
@@ -1520,7 +1581,8 @@
     "number": "73",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo CUARTO"
+      "chapter": "Capítulo CUARTO",
+      "section": "Sección IV"
     },
     "text": "Para los efectos de reposición o renovación de su Cédula de Identidad Ciudadana, o de su Cédula de Identidad Personal, el interesado o la interesada deberán realizar el trámite correspondiente en las oficinas que al efecto determine el Registro Nacional de Población.",
     "publication_date": "2000-04-14",
@@ -1541,7 +1603,8 @@
     "number": "74",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo CUARTO"
+      "chapter": "Capítulo CUARTO",
+      "section": "Sección IV"
     },
     "text": "En los casos señalados por las fracciones II y III del artículo 109 de la Ley la renovación de la Cédula de Identidad Ciudadana se hará a criterio de su titular.",
     "publication_date": "2000-04-14",
@@ -1562,7 +1625,8 @@
     "number": "75",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo CUARTO"
+      "chapter": "Capítulo CUARTO",
+      "section": "Sección IV"
     },
     "text": "En caso de que el interesado o la interesada solicite la reposición de su Cédula de Identidad Ciudadana o de su Cédula de Identidad Personal, por la variación de alguno o algunos de los datos de su identidad, deberá anexar a su solicitud la certificación del Registro Civil en donde consten dichas modificaciones.",
     "publication_date": "2000-04-14",
@@ -1583,7 +1647,8 @@
     "number": "76",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo CUARTO"
+      "chapter": "Capítulo CUARTO",
+      "section": "Sección IV"
     },
     "text": "En caso de extravío de la Cédula de Identidad Ciudadana, el interesado o la interesada deberá dar aviso al Registro Nacional de Población dentro de los treinta días siguientes al hecho, y presentar el acta o comprobante de extravío levantado ante el Ministerio Público de la adscripción o de la autoridad administrativa competente, e iniciar el trámite para su reposición.",
     "publication_date": "2000-04-14",
@@ -1604,9 +1669,10 @@
     "number": "77",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo CUARTO"
+      "chapter": "Capítulo CUARTO",
+      "section": "Sección IV"
     },
-    "text": "En el caso de extravío o destrucción de la Cédula de Identidad Personal, deberá darse aviso al Registro Nacional de Población dentro de los treinta días siguientes al hecho. El interesado o la interesada mayor de 14 años o los padres o tutores del menor podrán solicitar su reposición.\n\nSECCIÓN V.- Catálogo de Extranjeros Residentes en la República Mexicana",
+    "text": "En el caso de extravío o destrucción de la Cédula de Identidad Personal, deberá darse aviso al Registro Nacional de Población dentro de los treinta días siguientes al hecho. El interesado o la interesada mayor de 14 años o los padres o tutores del menor podrán solicitar su reposición.",
     "publication_date": "2000-04-14",
     "effective_from": null,
     "effective_to": null,
@@ -1625,7 +1691,8 @@
     "number": "78",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo CUARTO"
+      "chapter": "Capítulo CUARTO",
+      "section": "Sección V"
     },
     "text": "El Catálogo de los Extranjeros Residentes en la República Mexicana se organizará técnicamente conforme a las disposiciones generales internas que emita el Registro Nacional de Población para su instrumentación, operación y aplicación, de acuerdo con las necesidades que el servicio requiera.",
     "publication_date": "2000-04-14",
@@ -1646,9 +1713,10 @@
     "number": "79",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo CUARTO"
+      "chapter": "Capítulo CUARTO",
+      "section": "Sección V"
     },
-    "text": "La Secretaría de Relaciones Exteriores informará a la Secretaría mensualmente y por escrito, los cambios de nacionalidad de los extranjeros y extranjeras radicados en la República Mexicana. El Instituto informará mensualmente al Registro Nacional de Población sobre las altas y bajas del Registro Nacional de Extranjeros, así como de los cambios de domicilio, estado civil y actividades a que se dediquen los extranjeros y extranjeras radicados en el país.\n\nSECCIÓN VI.- Actualización del Registro Nacional de Población",
+    "text": "La Secretaría de Relaciones Exteriores informará a la Secretaría mensualmente y por escrito, los cambios de nacionalidad de los extranjeros y extranjeras radicados en la República Mexicana. El Instituto informará mensualmente al Registro Nacional de Población sobre las altas y bajas del Registro Nacional de Extranjeros, así como de los cambios de domicilio, estado civil y actividades a que se dediquen los extranjeros y extranjeras radicados en el país.",
     "publication_date": "2000-04-14",
     "effective_from": null,
     "effective_to": null,
@@ -1667,7 +1735,8 @@
     "number": "80",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo CUARTO"
+      "chapter": "Capítulo CUARTO",
+      "section": "Sección VI"
     },
     "text": "El Registro Nacional de Población deberá mantener permanentemente actualizada su información e incorporar los avances tecnológicos disponibles para su mejor funcionamiento.",
     "publication_date": "2000-04-14",
@@ -1688,7 +1757,8 @@
     "number": "81",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo CUARTO"
+      "chapter": "Capítulo CUARTO",
+      "section": "Sección VI"
     },
     "text": "Las autoridades judiciales remitirán al Registro Nacional de Población la información de todas aquellas personas que estén sujetas a proceso por delito que merezca pena corporal, las resoluciones que emitan y afecten los derechos ciudadanos y las que impliquen modificaciones a los datos del estado civil de las personas. De igual manera, lo harán en los casos de declaración de ausencia y de presunción de muerte.\n\nAsimismo, deberán informar sobre los fallecimientos de que tengan conocimiento en el desempeño de sus funciones.\n\nDichas autoridades deberán remitir esta información tan pronto como se dicte la resolución respectiva o se tenga conocimiento del hecho.",
     "publication_date": "2000-04-14",
@@ -1709,9 +1779,10 @@
     "number": "82",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo CUARTO"
+      "chapter": "Capítulo CUARTO",
+      "section": "Sección VI"
     },
-    "text": "Las dependencias y entidades de la Administración Pública Federal tienen la obligación de proporcionar al Registro Nacional de Población, cuando éste lo solicite, la información de las personas incorporadas en sus respectivos registros. La Secretaría deberá celebrar convenios con las administraciones públicas estatales y municipales, así como con instituciones privadas, para los efectos señalados en este artículo.\n\nPara el caso de los mexicanos y mexicanas residentes en el extranjero, la Secretaría de Relaciones Exteriores proporcionará a la Secretaría, cuando ésta lo solicite, los listados de los individuos que hayan recibido la matrícula consular.\n\nSECCIÓN VII.- Información del Registro Nacional de Población",
+    "text": "Las dependencias y entidades de la Administración Pública Federal tienen la obligación de proporcionar al Registro Nacional de Población, cuando éste lo solicite, la información de las personas incorporadas en sus respectivos registros. La Secretaría deberá celebrar convenios con las administraciones públicas estatales y municipales, así como con instituciones privadas, para los efectos señalados en este artículo.\n\nPara el caso de los mexicanos y mexicanas residentes en el extranjero, la Secretaría de Relaciones Exteriores proporcionará a la Secretaría, cuando ésta lo solicite, los listados de los individuos que hayan recibido la matrícula consular.",
     "publication_date": "2000-04-14",
     "effective_from": null,
     "effective_to": null,
@@ -1730,7 +1801,8 @@
     "number": "83",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo CUARTO"
+      "chapter": "Capítulo CUARTO",
+      "section": "Sección VII"
     },
     "text": "La información contenida en el Registro Nacional de Población será confidencial, y sólo podrá proporcionarse mediante requerimiento expreso en los siguientes casos:\n\nI. Al Instituto Federal Electoral para que integre los instrumentos electorales, y\n\nII. A las dependencias y entidades públicas, respecto de los datos a que se refiere el artículo 107 de la Ley para el ejercicio de sus funciones.",
     "publication_date": "2000-04-14",
@@ -1751,7 +1823,8 @@
     "number": "84",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo CUARTO"
+      "chapter": "Capítulo CUARTO",
+      "section": "Sección VII"
     },
     "text": "El Registro Nacional de Población podrá generar y publicar información estadística, observando lo establecido en el artículo 38 de la Ley de Información Estadística y Geográfica.",
     "publication_date": "2000-04-14",
@@ -1772,9 +1845,10 @@
     "number": "85",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo CUARTO"
+      "chapter": "Capítulo CUARTO",
+      "section": "Sección VII"
     },
-    "text": "El Registro Nacional de Población sólo podrá solicitar a las dependencias y entidades de la Administración Pública los datos correspondientes a la identidad de las personas.\n\nSECCIÓN VIII.- Comité Técnico Consultivo",
+    "text": "El Registro Nacional de Población sólo podrá solicitar a las dependencias y entidades de la Administración Pública los datos correspondientes a la identidad de las personas.",
     "publication_date": "2000-04-14",
     "effective_from": null,
     "effective_to": null,
@@ -1793,7 +1867,8 @@
     "number": "86",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo CUARTO"
+      "chapter": "Capítulo CUARTO",
+      "section": "Sección VIII"
     },
     "text": "El Comité Técnico Consultivo a que se refiere el artículo 98 de la Ley tiene como objetivo estudiar, analizar, asesorar y proponer opiniones técnicas sobre los programas y los métodos de identificación e inscripción del Registro Nacional de Ciudadanos.",
     "publication_date": "2000-04-14",
@@ -1814,7 +1889,8 @@
     "number": "87",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo CUARTO"
+      "chapter": "Capítulo CUARTO",
+      "section": "Sección VIII"
     },
     "text": "El Comité estará integrado por un representante de la Secretaría, que será el Subsecretario, quien fungirá como Presidente del mismo; por un Secretario, que será el Director General del Registro Nacional de Población e Identificación Personal, y por representantes de las dependencias y entidades del Ejecutivo Federal cuyas actividades se vinculen con el objeto de dicho Comité, de conformidad con las reglas que se establezcan para su funcionamiento interno, quienes deberán tener el nivel de Subsecretario o su equivalente.\n\nEl Presidente del Comité podrá invitar a participar en las sesiones a representantes de las entidades federativas y municipios, de las Cámaras de Diputados y Senadores y de otras organizaciones e instituciones, así como a distinguidos especialistas de la materia propia del Comité, quienes tendrán el carácter de invitados sin derecho a voto.",
     "publication_date": "2000-04-14",
@@ -1835,7 +1911,8 @@
     "number": "88",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo CUARTO"
+      "chapter": "Capítulo CUARTO",
+      "section": "Sección VIII"
     },
     "text": "El Comité deberá celebrar cuando menos dos sesiones ordinarias al año, así como las extraordinarias a las que convoque el Presidente del mismo.",
     "publication_date": "2000-04-14",
@@ -1856,7 +1933,8 @@
     "number": "89",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo QUINTO"
+      "chapter": "Capítulo QUINTO",
+      "section": "Sección I"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -1877,7 +1955,8 @@
     "number": "90",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo QUINTO"
+      "chapter": "Capítulo QUINTO",
+      "section": "Sección I"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -1898,7 +1977,8 @@
     "number": "91",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo QUINTO"
+      "chapter": "Capítulo QUINTO",
+      "section": "Sección I"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -1919,7 +1999,8 @@
     "number": "92",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo QUINTO"
+      "chapter": "Capítulo QUINTO",
+      "section": "Sección I"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -1940,7 +2021,8 @@
     "number": "93",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo QUINTO"
+      "chapter": "Capítulo QUINTO",
+      "section": "Sección I"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -1961,7 +2043,8 @@
     "number": "94",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo QUINTO"
+      "chapter": "Capítulo QUINTO",
+      "section": "Sección I"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -1982,7 +2065,8 @@
     "number": "95",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo QUINTO"
+      "chapter": "Capítulo QUINTO",
+      "section": "Sección I"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -2003,7 +2087,8 @@
     "number": "96",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo QUINTO"
+      "chapter": "Capítulo QUINTO",
+      "section": "Sección I"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -2024,7 +2109,8 @@
     "number": "97",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo QUINTO"
+      "chapter": "Capítulo QUINTO",
+      "section": "Sección I"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -2045,9 +2131,10 @@
     "number": "98",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo QUINTO"
+      "chapter": "Capítulo QUINTO",
+      "section": "Sección I"
     },
-    "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012\n\nSECCIÓN II.- Movimiento Migratorio (Se deroga) Sección derogada DOF 28-09-2012",
+    "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
     "effective_from": null,
     "effective_to": null,
@@ -2066,7 +2153,8 @@
     "number": "99",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo QUINTO"
+      "chapter": "Capítulo QUINTO",
+      "section": "Sección II"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -2087,7 +2175,8 @@
     "number": "100",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo QUINTO"
+      "chapter": "Capítulo QUINTO",
+      "section": "Sección II"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -2108,7 +2197,8 @@
     "number": "101",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo QUINTO"
+      "chapter": "Capítulo QUINTO",
+      "section": "Sección II"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -2129,7 +2219,8 @@
     "number": "102",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo QUINTO"
+      "chapter": "Capítulo QUINTO",
+      "section": "Sección II"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -2150,7 +2241,8 @@
     "number": "103",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo QUINTO"
+      "chapter": "Capítulo QUINTO",
+      "section": "Sección II"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -2171,7 +2263,8 @@
     "number": "104",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo QUINTO"
+      "chapter": "Capítulo QUINTO",
+      "section": "Sección II"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -2192,7 +2285,8 @@
     "number": "105",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo QUINTO"
+      "chapter": "Capítulo QUINTO",
+      "section": "Sección II"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -2213,7 +2307,8 @@
     "number": "106",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo QUINTO"
+      "chapter": "Capítulo QUINTO",
+      "section": "Sección II"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -2234,7 +2329,8 @@
     "number": "107",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo QUINTO"
+      "chapter": "Capítulo QUINTO",
+      "section": "Sección II"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -2255,7 +2351,8 @@
     "number": "108",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo QUINTO"
+      "chapter": "Capítulo QUINTO",
+      "section": "Sección II"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -2276,7 +2373,8 @@
     "number": "109",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo QUINTO"
+      "chapter": "Capítulo QUINTO",
+      "section": "Sección II"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -2297,7 +2395,8 @@
     "number": "110",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo QUINTO"
+      "chapter": "Capítulo QUINTO",
+      "section": "Sección II"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -2318,7 +2417,8 @@
     "number": "111",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo QUINTO"
+      "chapter": "Capítulo QUINTO",
+      "section": "Sección II"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -2339,7 +2439,8 @@
     "number": "112",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo QUINTO"
+      "chapter": "Capítulo QUINTO",
+      "section": "Sección II"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -2360,7 +2461,8 @@
     "number": "113",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo QUINTO"
+      "chapter": "Capítulo QUINTO",
+      "section": "Sección II"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -2381,9 +2483,10 @@
     "number": "114",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo QUINTO"
+      "chapter": "Capítulo QUINTO",
+      "section": "Sección II"
     },
-    "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012\n\nSECCIÓN III.- Transportes (Se deroga) Sección derogada DOF 28-09-2012",
+    "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
     "effective_from": null,
     "effective_to": null,
@@ -2402,7 +2505,8 @@
     "number": "115",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo QUINTO"
+      "chapter": "Capítulo QUINTO",
+      "section": "Sección III"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -2423,7 +2527,8 @@
     "number": "116",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo QUINTO"
+      "chapter": "Capítulo QUINTO",
+      "section": "Sección III"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -2444,7 +2549,8 @@
     "number": "117",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo QUINTO"
+      "chapter": "Capítulo QUINTO",
+      "section": "Sección III"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -2465,7 +2571,8 @@
     "number": "118",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo QUINTO"
+      "chapter": "Capítulo QUINTO",
+      "section": "Sección III"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -2486,7 +2593,8 @@
     "number": "119",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo QUINTO"
+      "chapter": "Capítulo QUINTO",
+      "section": "Sección III"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -2507,7 +2615,8 @@
     "number": "120",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo QUINTO"
+      "chapter": "Capítulo QUINTO",
+      "section": "Sección III"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -2528,7 +2637,8 @@
     "number": "121",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo QUINTO"
+      "chapter": "Capítulo QUINTO",
+      "section": "Sección III"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -2549,7 +2659,8 @@
     "number": "122",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo QUINTO"
+      "chapter": "Capítulo QUINTO",
+      "section": "Sección III"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -2570,7 +2681,8 @@
     "number": "123",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo QUINTO"
+      "chapter": "Capítulo QUINTO",
+      "section": "Sección III"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -2591,7 +2703,8 @@
     "number": "124",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo QUINTO"
+      "chapter": "Capítulo QUINTO",
+      "section": "Sección III"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -2612,7 +2725,8 @@
     "number": "125",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo QUINTO"
+      "chapter": "Capítulo QUINTO",
+      "section": "Sección III"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -2633,7 +2747,8 @@
     "number": "126",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo QUINTO"
+      "chapter": "Capítulo QUINTO",
+      "section": "Sección III"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -2654,7 +2769,8 @@
     "number": "127",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo QUINTO"
+      "chapter": "Capítulo QUINTO",
+      "section": "Sección III"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -2675,7 +2791,8 @@
     "number": "128",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo QUINTO"
+      "chapter": "Capítulo QUINTO",
+      "section": "Sección III"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -2696,7 +2813,8 @@
     "number": "129",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo QUINTO"
+      "chapter": "Capítulo QUINTO",
+      "section": "Sección III"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -2717,7 +2835,8 @@
     "number": "130",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo QUINTO"
+      "chapter": "Capítulo QUINTO",
+      "section": "Sección III"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -2738,7 +2857,8 @@
     "number": "131",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo QUINTO"
+      "chapter": "Capítulo QUINTO",
+      "section": "Sección III"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -2759,7 +2879,8 @@
     "number": "132",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo QUINTO"
+      "chapter": "Capítulo QUINTO",
+      "section": "Sección III"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -2906,7 +3027,8 @@
     "number": "139",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo SÉPTIMO"
+      "chapter": "Capítulo SÉPTIMO",
+      "section": "Sección I"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -2927,7 +3049,8 @@
     "number": "140",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo SÉPTIMO"
+      "chapter": "Capítulo SÉPTIMO",
+      "section": "Sección I"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -2948,7 +3071,8 @@
     "number": "141",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo SÉPTIMO"
+      "chapter": "Capítulo SÉPTIMO",
+      "section": "Sección I"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -2969,7 +3093,8 @@
     "number": "142",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo SÉPTIMO"
+      "chapter": "Capítulo SÉPTIMO",
+      "section": "Sección I"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -2990,7 +3115,8 @@
     "number": "143",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo SÉPTIMO"
+      "chapter": "Capítulo SÉPTIMO",
+      "section": "Sección I"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -3011,7 +3137,8 @@
     "number": "144",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo SÉPTIMO"
+      "chapter": "Capítulo SÉPTIMO",
+      "section": "Sección I"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -3032,7 +3159,8 @@
     "number": "145",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo SÉPTIMO"
+      "chapter": "Capítulo SÉPTIMO",
+      "section": "Sección I"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -3053,9 +3181,10 @@
     "number": "146",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo SÉPTIMO"
+      "chapter": "Capítulo SÉPTIMO",
+      "section": "Sección I"
     },
-    "text": "(Se deroga)\n\nArtículo reformado DOF 29-11-2006. Derogado DOF 28-09-2012\n\nSECCIÓN II.- Actos y Contratos (Se deroga) Sección derogada DOF 28-09-2012",
+    "text": "(Se deroga)\n\nArtículo reformado DOF 29-11-2006. Derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
     "effective_from": null,
     "effective_to": null,
@@ -3074,7 +3203,8 @@
     "number": "147",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo SÉPTIMO"
+      "chapter": "Capítulo SÉPTIMO",
+      "section": "Sección II"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -3095,7 +3225,8 @@
     "number": "148",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo SÉPTIMO"
+      "chapter": "Capítulo SÉPTIMO",
+      "section": "Sección II"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -3116,7 +3247,8 @@
     "number": "149",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo SÉPTIMO"
+      "chapter": "Capítulo SÉPTIMO",
+      "section": "Sección II"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -3137,7 +3269,8 @@
     "number": "150",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo SÉPTIMO"
+      "chapter": "Capítulo SÉPTIMO",
+      "section": "Sección II"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -3158,7 +3291,8 @@
     "number": "151",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo SÉPTIMO"
+      "chapter": "Capítulo SÉPTIMO",
+      "section": "Sección II"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -3179,7 +3313,8 @@
     "number": "152",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo SÉPTIMO"
+      "chapter": "Capítulo SÉPTIMO",
+      "section": "Sección II"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -3200,7 +3335,8 @@
     "number": "153",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo SÉPTIMO"
+      "chapter": "Capítulo SÉPTIMO",
+      "section": "Sección II"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -3221,7 +3357,8 @@
     "number": "154",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo SÉPTIMO"
+      "chapter": "Capítulo SÉPTIMO",
+      "section": "Sección II"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -3242,7 +3379,8 @@
     "number": "155",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo SÉPTIMO"
+      "chapter": "Capítulo SÉPTIMO",
+      "section": "Sección II"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -3263,7 +3401,8 @@
     "number": "156",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo SÉPTIMO"
+      "chapter": "Capítulo SÉPTIMO",
+      "section": "Sección II"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -3284,7 +3423,8 @@
     "number": "157",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo SÉPTIMO"
+      "chapter": "Capítulo SÉPTIMO",
+      "section": "Sección II"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -3305,9 +3445,10 @@
     "number": "158",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo SÉPTIMO"
+      "chapter": "Capítulo SÉPTIMO",
+      "section": "Sección II"
     },
-    "text": "(Se deroga)\n\nArtículo reformado DOF 29-11-2006. Derogado DOF 28-09-2012\n\nSECCIÓN III.- No Inmigrantes (Se deroga) Sección derogada DOF 28-09-2012",
+    "text": "(Se deroga)\n\nArtículo reformado DOF 29-11-2006. Derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
     "effective_from": null,
     "effective_to": null,
@@ -3326,7 +3467,8 @@
     "number": "159",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo SÉPTIMO"
+      "chapter": "Capítulo SÉPTIMO",
+      "section": "Sección III"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -3347,7 +3489,8 @@
     "number": "160",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo SÉPTIMO"
+      "chapter": "Capítulo SÉPTIMO",
+      "section": "Sección III"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -3368,7 +3511,8 @@
     "number": "161",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo SÉPTIMO"
+      "chapter": "Capítulo SÉPTIMO",
+      "section": "Sección III"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -3389,7 +3533,8 @@
     "number": "162",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo SÉPTIMO"
+      "chapter": "Capítulo SÉPTIMO",
+      "section": "Sección III"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -3410,7 +3555,8 @@
     "number": "163",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo SÉPTIMO"
+      "chapter": "Capítulo SÉPTIMO",
+      "section": "Sección III"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -3431,7 +3577,8 @@
     "number": "164",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo SÉPTIMO"
+      "chapter": "Capítulo SÉPTIMO",
+      "section": "Sección III"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -3452,7 +3599,8 @@
     "number": "165",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo SÉPTIMO"
+      "chapter": "Capítulo SÉPTIMO",
+      "section": "Sección III"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -3473,7 +3621,8 @@
     "number": "166",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo SÉPTIMO"
+      "chapter": "Capítulo SÉPTIMO",
+      "section": "Sección III"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -3494,7 +3643,8 @@
     "number": "167",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo SÉPTIMO"
+      "chapter": "Capítulo SÉPTIMO",
+      "section": "Sección III"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -3515,7 +3665,8 @@
     "number": "168",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo SÉPTIMO"
+      "chapter": "Capítulo SÉPTIMO",
+      "section": "Sección III"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -3536,7 +3687,8 @@
     "number": "169",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo SÉPTIMO"
+      "chapter": "Capítulo SÉPTIMO",
+      "section": "Sección III"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -3557,7 +3709,8 @@
     "number": "170",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo SÉPTIMO"
+      "chapter": "Capítulo SÉPTIMO",
+      "section": "Sección III"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -3578,7 +3731,8 @@
     "number": "171",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo SÉPTIMO"
+      "chapter": "Capítulo SÉPTIMO",
+      "section": "Sección III"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -3599,7 +3753,8 @@
     "number": "172",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo SÉPTIMO"
+      "chapter": "Capítulo SÉPTIMO",
+      "section": "Sección III"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -3620,9 +3775,10 @@
     "number": "173",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo SÉPTIMO"
+      "chapter": "Capítulo SÉPTIMO",
+      "section": "Sección III"
     },
-    "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012\n\nSECCIÓN IV.- Inmigrantes (Se deroga) Sección derogada DOF 28-09-2012",
+    "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
     "effective_from": null,
     "effective_to": null,
@@ -3641,7 +3797,8 @@
     "number": "174",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo SÉPTIMO"
+      "chapter": "Capítulo SÉPTIMO",
+      "section": "Sección IV"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -3662,7 +3819,8 @@
     "number": "175",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo SÉPTIMO"
+      "chapter": "Capítulo SÉPTIMO",
+      "section": "Sección IV"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -3683,7 +3841,8 @@
     "number": "176",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo SÉPTIMO"
+      "chapter": "Capítulo SÉPTIMO",
+      "section": "Sección IV"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -3704,7 +3863,8 @@
     "number": "177",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo SÉPTIMO"
+      "chapter": "Capítulo SÉPTIMO",
+      "section": "Sección IV"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -3725,7 +3885,8 @@
     "number": "178",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo SÉPTIMO"
+      "chapter": "Capítulo SÉPTIMO",
+      "section": "Sección IV"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -3746,7 +3907,8 @@
     "number": "179",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo SÉPTIMO"
+      "chapter": "Capítulo SÉPTIMO",
+      "section": "Sección IV"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -3767,7 +3929,8 @@
     "number": "180",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo SÉPTIMO"
+      "chapter": "Capítulo SÉPTIMO",
+      "section": "Sección IV"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -3788,7 +3951,8 @@
     "number": "181",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo SÉPTIMO"
+      "chapter": "Capítulo SÉPTIMO",
+      "section": "Sección IV"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -3809,7 +3973,8 @@
     "number": "182",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo SÉPTIMO"
+      "chapter": "Capítulo SÉPTIMO",
+      "section": "Sección IV"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -3830,7 +3995,8 @@
     "number": "183",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo SÉPTIMO"
+      "chapter": "Capítulo SÉPTIMO",
+      "section": "Sección IV"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -3851,7 +4017,8 @@
     "number": "184",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo SÉPTIMO"
+      "chapter": "Capítulo SÉPTIMO",
+      "section": "Sección IV"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -3872,7 +4039,8 @@
     "number": "185",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo SÉPTIMO"
+      "chapter": "Capítulo SÉPTIMO",
+      "section": "Sección IV"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -3893,7 +4061,8 @@
     "number": "186",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo SÉPTIMO"
+      "chapter": "Capítulo SÉPTIMO",
+      "section": "Sección IV"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -3914,7 +4083,8 @@
     "number": "187",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo SÉPTIMO"
+      "chapter": "Capítulo SÉPTIMO",
+      "section": "Sección IV"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -3935,7 +4105,8 @@
     "number": "188",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo SÉPTIMO"
+      "chapter": "Capítulo SÉPTIMO",
+      "section": "Sección IV"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -3956,9 +4127,10 @@
     "number": "189",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo SÉPTIMO"
+      "chapter": "Capítulo SÉPTIMO",
+      "section": "Sección IV"
     },
-    "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012\n\nSECCIÓN V.- Inmigrados (Se deroga) Sección derogada DOF 28-09-2012",
+    "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
     "effective_from": null,
     "effective_to": null,
@@ -3977,7 +4149,8 @@
     "number": "190",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo SÉPTIMO"
+      "chapter": "Capítulo SÉPTIMO",
+      "section": "Sección V"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -3998,7 +4171,8 @@
     "number": "191",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo SÉPTIMO"
+      "chapter": "Capítulo SÉPTIMO",
+      "section": "Sección V"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -4019,7 +4193,8 @@
     "number": "192",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo SÉPTIMO"
+      "chapter": "Capítulo SÉPTIMO",
+      "section": "Sección V"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -4040,7 +4215,8 @@
     "number": "193",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo SÉPTIMO"
+      "chapter": "Capítulo SÉPTIMO",
+      "section": "Sección V"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",
@@ -4061,7 +4237,8 @@
     "number": "194",
     "heading_context": {
       "title": null,
-      "chapter": "Capítulo SÉPTIMO"
+      "chapter": "Capítulo SÉPTIMO",
+      "section": "Sección V"
     },
     "text": "(Se deroga)\n\nArtículo derogado DOF 28-09-2012",
     "publication_date": "2000-04-14",

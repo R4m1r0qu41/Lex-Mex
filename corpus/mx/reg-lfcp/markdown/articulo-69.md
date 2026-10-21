@@ -17,6 +17,6 @@ source_sha256: 43723ba379e128c1a1c1be4b085ecc870946cdec43d56f83e7314c077361368f
 
 # Artículo 69
 
-En caso de que del acta de inspección se desprendan presuntas irregularidades o anomalías que ameriten sanción, la [Secretaría](articulo-2o.md) notificará al corredor el inicio del procedimiento administrativo, el cual se tramitará y resolverá de conformidad con lo previsto en la [Ley](articulo-2o.md) Federal de Procedimiento Administrativo, incluyendo las normas que son supletorias a la misma.
+En caso de que del acta de inspección se desprendan presuntas irregularidades o anomalías que ameriten sanción, la [Secretaría](articulo-2o.md) notificará al corredor el inicio del procedimiento administrativo, el cual se tramitará y resolverá de conformidad con lo previsto en la Ley Federal de Procedimiento Administrativo, incluyendo las normas que son supletorias a la misma.
 
 Artículo reformado DOF 26-11-2012

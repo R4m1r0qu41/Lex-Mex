@@ -15,7 +15,7 @@ source_sha256: a823b87d27bee29da481750b9893f00024bd80aed8b0713bf8b1ac1e55b9b8de
 
 # SÉPTIMO
 
-Las referencias realizadas en la [Ley](articulo-3.md) de Migración al auto de vinculación a proceso, quedarán entendidas al término vigente de auto de formal prisión, toda vez que con este Decreto no entra en vigor el artículo 19 constitucional sujeto a la vacancia prevista en el artículo Segundo Transitorio del
+Las referencias realizadas en la Ley de Migración al auto de vinculación a proceso, quedarán entendidas al término vigente de auto de formal prisión, toda vez que con este Decreto no entra en vigor el artículo 19 constitucional sujeto a la vacancia prevista en el artículo Segundo Transitorio del
 
 Decreto por el que se reforman y adicionan diversas disposiciones de la [Constitución](articulo-3.md) Política de los
 

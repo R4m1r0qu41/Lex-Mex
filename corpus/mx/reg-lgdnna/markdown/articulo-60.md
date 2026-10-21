@@ -17,6 +17,6 @@ source_sha256: 210ea0277e17a912d821642fc2db095f75f5cb2421e3dce4d0373239c9c1cc71
 
 # Artículo 60
 
-El personal de la [Procuraduría Federal](articulo-2.md) efectuará las [Visitas de Supervisión](articulo-2.md) a los Centros de Asistencia Social conforme a lo dispuesto en la [Ley](articulo-2.md) Federal de Procedimiento Administrativo, así como en los protocolos y procedimientos a que se refiere el artículo [58](articulo-58.md) de este Reglamento.
+El personal de la [Procuraduría Federal](articulo-2.md) efectuará las [Visitas de Supervisión](articulo-2.md) a los Centros de Asistencia Social conforme a lo dispuesto en la Ley Federal de Procedimiento Administrativo, así como en los protocolos y procedimientos a que se refiere el artículo [58](articulo-58.md) de este Reglamento.
 
 Las Visitas de Supervisión se realizarán sin perjuicio del ejercicio de las atribuciones de otras autoridades.

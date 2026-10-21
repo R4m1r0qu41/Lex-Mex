@@ -25,7 +25,7 @@ Una vez recibidos los informes solicitados, la persona titular del Área de Quej
 
 Las medidas que se hayan determinado conforme al párrafo anterior, se deben notificar a la persona inconforme dentro de los diez días hábiles siguientes. Dichas medidas no tienen efectos vinculatorios para las personas inconformes.
 
-En aquellos casos en que, con motivo de las inconformidades presentadas y la substanciación de éstas, se advierta incumplimiento a las obligaciones de las personas servidoras públicas, la persona titular del Área de Quejas, Denuncias e Investigaciones del Órgano Interno de Control en la dependencia debe proceder, en términos de las disposiciones aplicables a efecto de que se inicie el procedimiento previsto en la [Ley](articulo-2.md) General de Responsabilidades Administrativas.
+En aquellos casos en que, con motivo de las inconformidades presentadas y la substanciación de éstas, se advierta incumplimiento a las obligaciones de las personas servidoras públicas, la persona titular del Área de Quejas, Denuncias e Investigaciones del Órgano Interno de Control en la dependencia debe proceder, en términos de las disposiciones aplicables a efecto de que se inicie el procedimiento previsto en la Ley General de Responsabilidades Administrativas.
 
 Artículo reformado DOF 04-01-2024
 

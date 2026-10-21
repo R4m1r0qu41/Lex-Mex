@@ -17,4 +17,4 @@ source_sha256: fa7447754261e46a344d4b49a9be0e1a5bd0eaf28c1ef12c721c124fe39e7b15
 
 # Artículo 6o
 
-Las atribuciones que la presente ley otorga a la federación, serán ejercidas por el Poder Ejecutivo federal a través de las dependencias y entidades que integran la administración pública federal centralizada y paraestatal, de conformidad con las facultades que les confiere esta ley, la [Ley](articulo-3o.md) Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales y demás disposiciones jurídicas aplicables.
+Las atribuciones que la presente ley otorga a la federación, serán ejercidas por el Poder Ejecutivo federal a través de las dependencias y entidades que integran la administración pública federal centralizada y paraestatal, de conformidad con las facultades que les confiere esta ley, la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales y demás disposiciones jurídicas aplicables.

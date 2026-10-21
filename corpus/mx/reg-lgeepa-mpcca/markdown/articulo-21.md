@@ -17,6 +17,6 @@ source_sha256: cf47ab93fdea40d2b3e41b58784df62f89dd90b4482dd3b7f25adc7f6957036b
 
 # Artículo 21
 
-Los responsables de fuentes fijas de jurisdicción federal que cuenten con licencia otorgada por las unidades administrativas competentes de la [Secretaría](articulo-6o.md) deberán presentar ante ésta, una Cédula de Operación Anual dentro del periodo comprendido entre el 1o. de marzo y el 30 de junio de cada año, los interesados deberán utilizar la Cédula de Operación Anual a que se refiere el artículo [10](../../reg-lgeepa-mretc/markdown/articulo-10.md) del [Reglamento](articulo-6o.md) de la [Ley](articulo-6o.md) General del Equilibrio Ecológico y la Protección al Ambiente en materia de Registro de [Emisiones](articulo-6o.md) y Transferencia de Contaminantes.
+Los responsables de fuentes fijas de jurisdicción federal que cuenten con licencia otorgada por las unidades administrativas competentes de la [Secretaría](articulo-6o.md) deberán presentar ante ésta, una Cédula de Operación Anual dentro del periodo comprendido entre el 1o. de marzo y el 30 de junio de cada año, los interesados deberán utilizar la Cédula de Operación Anual a que se refiere el artículo [10](../../reg-lgeepa-mretc/markdown/articulo-10.md) del Reglamento de la [Ley](articulo-6o.md) General del Equilibrio Ecológico y la Protección al Ambiente en materia de Registro de Emisiones y Transferencia de Contaminantes.
 
 Artículo reformado DOF 03-06-2004, 31-10-2014

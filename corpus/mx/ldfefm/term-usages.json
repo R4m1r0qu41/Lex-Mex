@@ -793,15 +793,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldfefm:article:2:term-usage:10971-10990",
-    "provision_id": "urn:lex-mx:federal:statute:ldfefm:article:2",
-    "term_id": "urn:lex-mx:federal:statute:ldfefm:term:financiamiento-neto",
-    "span": "Financiamiento Neto",
-    "start_char": 10971,
-    "end_char": 10990
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:ldfefm:article:2:term-usage:11005-11024",
     "provision_id": "urn:lex-mx:federal:statute:ldfefm:article:2",
     "term_id": "urn:lex-mx:federal:statute:ldfefm:term:financiamiento-neto",
@@ -6337,174 +6328,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldfefm:transitory:cuarto:term-usage:188-209",
-    "provision_id": "urn:lex-mx:federal:statute:ldfefm:transitory:cuarto",
-    "term_id": "urn:lex-mx:federal:statute:ldfefm:term:disciplina-financiera",
-    "span": "Disciplina Financiera",
-    "start_char": 188,
-    "end_char": 209
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldfefm:transitory:cuarto:term-usage:217-238",
-    "provision_id": "urn:lex-mx:federal:statute:ldfefm:transitory:cuarto",
-    "term_id": "urn:lex-mx:federal:statute:ldfefm:term:entidades-federativas",
-    "span": "Entidades Federativas",
-    "start_char": 217,
-    "end_char": 238
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldfefm:transitory:cuarto:term-usage:245-255",
-    "provision_id": "urn:lex-mx:federal:statute:ldfefm:transitory:cuarto",
-    "term_id": "urn:lex-mx:federal:statute:ldfefm:term:municipios",
-    "span": "Municipios",
-    "start_char": 245,
-    "end_char": 255
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldfefm:transitory:quinto:term-usage:63-84",
-    "provision_id": "urn:lex-mx:federal:statute:ldfefm:transitory:quinto",
-    "term_id": "urn:lex-mx:federal:statute:ldfefm:term:disciplina-financiera",
-    "span": "Disciplina Financiera",
-    "start_char": 63,
-    "end_char": 84
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldfefm:transitory:quinto:term-usage:92-113",
-    "provision_id": "urn:lex-mx:federal:statute:ldfefm:transitory:quinto",
-    "term_id": "urn:lex-mx:federal:statute:ldfefm:term:entidades-federativas",
-    "span": "Entidades Federativas",
-    "start_char": 92,
-    "end_char": 113
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldfefm:transitory:quinto:term-usage:120-130",
-    "provision_id": "urn:lex-mx:federal:statute:ldfefm:transitory:quinto",
-    "term_id": "urn:lex-mx:federal:statute:ldfefm:term:municipios",
-    "span": "Municipios",
-    "start_char": 120,
-    "end_char": 130
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldfefm:transitory:sexto:term-usage:43-64",
-    "provision_id": "urn:lex-mx:federal:statute:ldfefm:transitory:sexto",
-    "term_id": "urn:lex-mx:federal:statute:ldfefm:term:disciplina-financiera",
-    "span": "Disciplina Financiera",
-    "start_char": 43,
-    "end_char": 64
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldfefm:transitory:sexto:term-usage:72-93",
-    "provision_id": "urn:lex-mx:federal:statute:ldfefm:transitory:sexto",
-    "term_id": "urn:lex-mx:federal:statute:ldfefm:term:entidades-federativas",
-    "span": "Entidades Federativas",
-    "start_char": 72,
-    "end_char": 93
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldfefm:transitory:sexto:term-usage:100-110",
-    "provision_id": "urn:lex-mx:federal:statute:ldfefm:transitory:sexto",
-    "term_id": "urn:lex-mx:federal:statute:ldfefm:term:municipios",
-    "span": "Municipios",
-    "start_char": 100,
-    "end_char": 110
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:ldfefm:transitory:sexto:term-usage:145-167",
     "provision_id": "urn:lex-mx:federal:statute:ldfefm:transitory:sexto",
     "term_id": "urn:lex-mx:federal:statute:ldfefm:term:presupuesto-de-egresos",
     "span": "Presupuesto de Egresos",
     "start_char": 145,
     "end_char": 167
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldfefm:transitory:sexto:term-usage:403-424",
-    "provision_id": "urn:lex-mx:federal:statute:ldfefm:transitory:sexto",
-    "term_id": "urn:lex-mx:federal:statute:ldfefm:term:disciplina-financiera",
-    "span": "Disciplina Financiera",
-    "start_char": 403,
-    "end_char": 424
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldfefm:transitory:sexto:term-usage:432-453",
-    "provision_id": "urn:lex-mx:federal:statute:ldfefm:transitory:sexto",
-    "term_id": "urn:lex-mx:federal:statute:ldfefm:term:entidades-federativas",
-    "span": "Entidades Federativas",
-    "start_char": 432,
-    "end_char": 453
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldfefm:transitory:sexto:term-usage:460-470",
-    "provision_id": "urn:lex-mx:federal:statute:ldfefm:transitory:sexto",
-    "term_id": "urn:lex-mx:federal:statute:ldfefm:term:municipios",
-    "span": "Municipios",
-    "start_char": 460,
-    "end_char": 470
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldfefm:transitory:sexto:term-usage:799-820",
-    "provision_id": "urn:lex-mx:federal:statute:ldfefm:transitory:sexto",
-    "term_id": "urn:lex-mx:federal:statute:ldfefm:term:disciplina-financiera",
-    "span": "Disciplina Financiera",
-    "start_char": 799,
-    "end_char": 820
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldfefm:transitory:sexto:term-usage:828-849",
-    "provision_id": "urn:lex-mx:federal:statute:ldfefm:transitory:sexto",
-    "term_id": "urn:lex-mx:federal:statute:ldfefm:term:entidades-federativas",
-    "span": "Entidades Federativas",
-    "start_char": 828,
-    "end_char": 849
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldfefm:transitory:sexto:term-usage:856-866",
-    "provision_id": "urn:lex-mx:federal:statute:ldfefm:transitory:sexto",
-    "term_id": "urn:lex-mx:federal:statute:ldfefm:term:municipios",
-    "span": "Municipios",
-    "start_char": 856,
-    "end_char": 866
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldfefm:transitory:septimo:term-usage:64-85",
-    "provision_id": "urn:lex-mx:federal:statute:ldfefm:transitory:septimo",
-    "term_id": "urn:lex-mx:federal:statute:ldfefm:term:disciplina-financiera",
-    "span": "Disciplina Financiera",
-    "start_char": 64,
-    "end_char": 85
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldfefm:transitory:septimo:term-usage:93-114",
-    "provision_id": "urn:lex-mx:federal:statute:ldfefm:transitory:septimo",
-    "term_id": "urn:lex-mx:federal:statute:ldfefm:term:entidades-federativas",
-    "span": "Entidades Federativas",
-    "start_char": 93,
-    "end_char": 114
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldfefm:transitory:septimo:term-usage:121-131",
-    "provision_id": "urn:lex-mx:federal:statute:ldfefm:transitory:septimo",
-    "term_id": "urn:lex-mx:federal:statute:ldfefm:term:municipios",
-    "span": "Municipios",
-    "start_char": 121,
-    "end_char": 131
   },
   {
     "schema_version": "0.1.0",
@@ -6526,33 +6355,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldfefm:transitory:octavo:term-usage:289-310",
-    "provision_id": "urn:lex-mx:federal:statute:ldfefm:transitory:octavo",
-    "term_id": "urn:lex-mx:federal:statute:ldfefm:term:disciplina-financiera",
-    "span": "Disciplina Financiera",
-    "start_char": 289,
-    "end_char": 310
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldfefm:transitory:octavo:term-usage:318-339",
-    "provision_id": "urn:lex-mx:federal:statute:ldfefm:transitory:octavo",
-    "term_id": "urn:lex-mx:federal:statute:ldfefm:term:entidades-federativas",
-    "span": "Entidades Federativas",
-    "start_char": 318,
-    "end_char": 339
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldfefm:transitory:octavo:term-usage:346-356",
-    "provision_id": "urn:lex-mx:federal:statute:ldfefm:transitory:octavo",
-    "term_id": "urn:lex-mx:federal:statute:ldfefm:term:municipios",
-    "span": "Municipios",
-    "start_char": 346,
-    "end_char": 356
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:ldfefm:transitory:noveno:term-usage:4-23",
     "provision_id": "urn:lex-mx:federal:statute:ldfefm:transitory:noveno",
     "term_id": "urn:lex-mx:federal:statute:ldfefm:term:ingresos-excedentes",
@@ -6568,33 +6370,6 @@
     "span": "Ingresos de libre disposición",
     "start_char": 37,
     "end_char": 66
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldfefm:transitory:noveno:term-usage:129-150",
-    "provision_id": "urn:lex-mx:federal:statute:ldfefm:transitory:noveno",
-    "term_id": "urn:lex-mx:federal:statute:ldfefm:term:disciplina-financiera",
-    "span": "Disciplina Financiera",
-    "start_char": 129,
-    "end_char": 150
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldfefm:transitory:noveno:term-usage:158-179",
-    "provision_id": "urn:lex-mx:federal:statute:ldfefm:transitory:noveno",
-    "term_id": "urn:lex-mx:federal:statute:ldfefm:term:entidades-federativas",
-    "span": "Entidades Federativas",
-    "start_char": 158,
-    "end_char": 179
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldfefm:transitory:noveno:term-usage:186-196",
-    "provision_id": "urn:lex-mx:federal:statute:ldfefm:transitory:noveno",
-    "term_id": "urn:lex-mx:federal:statute:ldfefm:term:municipios",
-    "span": "Municipios",
-    "start_char": 186,
-    "end_char": 196
   },
   {
     "schema_version": "0.1.0",
@@ -6616,93 +6391,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo:term-usage:178-199",
-    "provision_id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo",
-    "term_id": "urn:lex-mx:federal:statute:ldfefm:term:disciplina-financiera",
-    "span": "Disciplina Financiera",
-    "start_char": 178,
-    "end_char": 199
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo:term-usage:207-228",
-    "provision_id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo",
-    "term_id": "urn:lex-mx:federal:statute:ldfefm:term:entidades-federativas",
-    "span": "Entidades Federativas",
-    "start_char": 207,
-    "end_char": 228
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo:term-usage:235-245",
-    "provision_id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo",
-    "term_id": "urn:lex-mx:federal:statute:ldfefm:term:municipios",
-    "span": "Municipios",
-    "start_char": 235,
-    "end_char": 245
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo-primero:term-usage:64-85",
-    "provision_id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo-primero",
-    "term_id": "urn:lex-mx:federal:statute:ldfefm:term:disciplina-financiera",
-    "span": "Disciplina Financiera",
-    "start_char": 64,
-    "end_char": 85
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo-primero:term-usage:93-114",
-    "provision_id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo-primero",
-    "term_id": "urn:lex-mx:federal:statute:ldfefm:term:entidades-federativas",
-    "span": "Entidades Federativas",
-    "start_char": 93,
-    "end_char": 114
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo-primero:term-usage:121-131",
-    "provision_id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo-primero",
-    "term_id": "urn:lex-mx:federal:statute:ldfefm:term:municipios",
-    "span": "Municipios",
-    "start_char": 121,
-    "end_char": 131
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo-primero:term-usage:193-203",
     "provision_id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo-primero",
     "term_id": "urn:lex-mx:federal:statute:ldfefm:term:municipios",
     "span": "Municipios",
     "start_char": 193,
     "end_char": 203
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo-segundo:term-usage:125-146",
-    "provision_id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo-segundo",
-    "term_id": "urn:lex-mx:federal:statute:ldfefm:term:disciplina-financiera",
-    "span": "Disciplina Financiera",
-    "start_char": 125,
-    "end_char": 146
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo-segundo:term-usage:154-175",
-    "provision_id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo-segundo",
-    "term_id": "urn:lex-mx:federal:statute:ldfefm:term:entidades-federativas",
-    "span": "Entidades Federativas",
-    "start_char": 154,
-    "end_char": 175
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo-segundo:term-usage:182-192",
-    "provision_id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo-segundo",
-    "term_id": "urn:lex-mx:federal:statute:ldfefm:term:municipios",
-    "span": "Municipios",
-    "start_char": 182,
-    "end_char": 192
   },
   {
     "schema_version": "0.1.0",
@@ -6721,33 +6415,6 @@
     "span": "Municipios",
     "start_char": 196,
     "end_char": 206
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo-tercero:term-usage:356-377",
-    "provision_id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo-tercero",
-    "term_id": "urn:lex-mx:federal:statute:ldfefm:term:disciplina-financiera",
-    "span": "Disciplina Financiera",
-    "start_char": 356,
-    "end_char": 377
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo-tercero:term-usage:385-406",
-    "provision_id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo-tercero",
-    "term_id": "urn:lex-mx:federal:statute:ldfefm:term:entidades-federativas",
-    "span": "Entidades Federativas",
-    "start_char": 385,
-    "end_char": 406
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo-tercero:term-usage:413-423",
-    "provision_id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo-tercero",
-    "term_id": "urn:lex-mx:federal:statute:ldfefm:term:municipios",
-    "span": "Municipios",
-    "start_char": 413,
-    "end_char": 423
   },
   {
     "schema_version": "0.1.0",
@@ -6775,33 +6442,6 @@
     "span": "Municipios",
     "start_char": 197,
     "end_char": 207
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo-cuarto:term-usage:269-290",
-    "provision_id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo-cuarto",
-    "term_id": "urn:lex-mx:federal:statute:ldfefm:term:disciplina-financiera",
-    "span": "Disciplina Financiera",
-    "start_char": 269,
-    "end_char": 290
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo-cuarto:term-usage:298-319",
-    "provision_id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo-cuarto",
-    "term_id": "urn:lex-mx:federal:statute:ldfefm:term:entidades-federativas",
-    "span": "Entidades Federativas",
-    "start_char": 298,
-    "end_char": 319
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo-cuarto:term-usage:326-336",
-    "provision_id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo-cuarto",
-    "term_id": "urn:lex-mx:federal:statute:ldfefm:term:municipios",
-    "span": "Municipios",
-    "start_char": 326,
-    "end_char": 336
   },
   {
     "schema_version": "0.1.0",
@@ -6868,33 +6508,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo-cuarto:term-usage:1953-1974",
-    "provision_id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo-cuarto",
-    "term_id": "urn:lex-mx:federal:statute:ldfefm:term:disciplina-financiera",
-    "span": "Disciplina Financiera",
-    "start_char": 1953,
-    "end_char": 1974
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo-cuarto:term-usage:1982-2003",
-    "provision_id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo-cuarto",
-    "term_id": "urn:lex-mx:federal:statute:ldfefm:term:entidades-federativas",
-    "span": "Entidades Federativas",
-    "start_char": 1982,
-    "end_char": 2003
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo-cuarto:term-usage:2010-2020",
-    "provision_id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo-cuarto",
-    "term_id": "urn:lex-mx:federal:statute:ldfefm:term:municipios",
-    "span": "Municipios",
-    "start_char": 2010,
-    "end_char": 2020
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo-quinto:term-usage:3-21",
     "provision_id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo-quinto",
     "term_id": "urn:lex-mx:federal:statute:ldfefm:term:sistema-de-alertas",
@@ -6904,66 +6517,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo-quinto:term-usage:85-106",
-    "provision_id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo-quinto",
-    "term_id": "urn:lex-mx:federal:statute:ldfefm:term:disciplina-financiera",
-    "span": "Disciplina Financiera",
-    "start_char": 85,
-    "end_char": 106
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo-quinto:term-usage:114-135",
-    "provision_id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo-quinto",
-    "term_id": "urn:lex-mx:federal:statute:ldfefm:term:entidades-federativas",
-    "span": "Entidades Federativas",
-    "start_char": 114,
-    "end_char": 135
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo-quinto:term-usage:142-152",
-    "provision_id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo-quinto",
-    "term_id": "urn:lex-mx:federal:statute:ldfefm:term:municipios",
-    "span": "Municipios",
-    "start_char": 142,
-    "end_char": 152
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo-sexto:term-usage:18-32",
     "provision_id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo-sexto",
     "term_id": "urn:lex-mx:federal:statute:ldfefm:term:entes-publicos",
     "span": "Entes Públicos",
     "start_char": 18,
     "end_char": 32
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo-sexto:term-usage:73-94",
-    "provision_id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo-sexto",
-    "term_id": "urn:lex-mx:federal:statute:ldfefm:term:disciplina-financiera",
-    "span": "Disciplina Financiera",
-    "start_char": 73,
-    "end_char": 94
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo-sexto:term-usage:102-123",
-    "provision_id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo-sexto",
-    "term_id": "urn:lex-mx:federal:statute:ldfefm:term:entidades-federativas",
-    "span": "Entidades Federativas",
-    "start_char": 102,
-    "end_char": 123
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo-sexto:term-usage:130-140",
-    "provision_id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo-sexto",
-    "term_id": "urn:lex-mx:federal:statute:ldfefm:term:municipios",
-    "span": "Municipios",
-    "start_char": 130,
-    "end_char": 140
   },
   {
     "schema_version": "0.1.0",
@@ -6994,66 +6553,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo-septimo:term-usage:303-324",
-    "provision_id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo-septimo",
-    "term_id": "urn:lex-mx:federal:statute:ldfefm:term:disciplina-financiera",
-    "span": "Disciplina Financiera",
-    "start_char": 303,
-    "end_char": 324
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo-septimo:term-usage:332-353",
-    "provision_id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo-septimo",
-    "term_id": "urn:lex-mx:federal:statute:ldfefm:term:entidades-federativas",
-    "span": "Entidades Federativas",
-    "start_char": 332,
-    "end_char": 353
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo-septimo:term-usage:360-370",
-    "provision_id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo-septimo",
-    "term_id": "urn:lex-mx:federal:statute:ldfefm:term:municipios",
-    "span": "Municipios",
-    "start_char": 360,
-    "end_char": 370
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo-octavo:term-usage:3-25",
     "provision_id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo-octavo",
     "term_id": "urn:lex-mx:federal:statute:ldfefm:term:registro-publico-unico",
     "span": "Registro Público Único",
     "start_char": 3,
     "end_char": 25
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo-octavo:term-usage:90-111",
-    "provision_id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo-octavo",
-    "term_id": "urn:lex-mx:federal:statute:ldfefm:term:disciplina-financiera",
-    "span": "Disciplina Financiera",
-    "start_char": 90,
-    "end_char": 111
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo-octavo:term-usage:119-140",
-    "provision_id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo-octavo",
-    "term_id": "urn:lex-mx:federal:statute:ldfefm:term:entidades-federativas",
-    "span": "Entidades Federativas",
-    "start_char": 119,
-    "end_char": 140
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo-octavo:term-usage:147-157",
-    "provision_id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo-octavo",
-    "term_id": "urn:lex-mx:federal:statute:ldfefm:term:municipios",
-    "span": "Municipios",
-    "start_char": 147,
-    "end_char": 157
   },
   {
     "schema_version": "0.1.0",
@@ -7129,33 +6634,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo-noveno:term-usage:91-112",
-    "provision_id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo-noveno",
-    "term_id": "urn:lex-mx:federal:statute:ldfefm:term:disciplina-financiera",
-    "span": "Disciplina Financiera",
-    "start_char": 91,
-    "end_char": 112
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo-noveno:term-usage:120-141",
-    "provision_id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo-noveno",
-    "term_id": "urn:lex-mx:federal:statute:ldfefm:term:entidades-federativas",
-    "span": "Entidades Federativas",
-    "start_char": 120,
-    "end_char": 141
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo-noveno:term-usage:148-158",
-    "provision_id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo-noveno",
-    "term_id": "urn:lex-mx:federal:statute:ldfefm:term:municipios",
-    "span": "Municipios",
-    "start_char": 148,
-    "end_char": 158
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo-noveno:term-usage:179-201",
     "provision_id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo-noveno",
     "term_id": "urn:lex-mx:federal:statute:ldfefm:term:registro-publico-unico",
@@ -7183,47 +6661,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldfefm:transitory:vigesimo:term-usage:384-405",
-    "provision_id": "urn:lex-mx:federal:statute:ldfefm:transitory:vigesimo",
-    "term_id": "urn:lex-mx:federal:statute:ldfefm:term:disciplina-financiera",
-    "span": "Disciplina Financiera",
-    "start_char": 384,
-    "end_char": 405
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldfefm:transitory:vigesimo:term-usage:413-434",
-    "provision_id": "urn:lex-mx:federal:statute:ldfefm:transitory:vigesimo",
-    "term_id": "urn:lex-mx:federal:statute:ldfefm:term:entidades-federativas",
-    "span": "Entidades Federativas",
-    "start_char": 413,
-    "end_char": 434
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldfefm:transitory:vigesimo:term-usage:441-451",
-    "provision_id": "urn:lex-mx:federal:statute:ldfefm:transitory:vigesimo",
-    "term_id": "urn:lex-mx:federal:statute:ldfefm:term:municipios",
-    "span": "Municipios",
-    "start_char": 441,
-    "end_char": 451
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:ldfefm:transitory:vigesimo-primero:term-usage:189-202",
     "provision_id": "urn:lex-mx:federal:statute:ldfefm:transitory:vigesimo-primero",
     "term_id": "urn:lex-mx:federal:statute:ldfefm:term:deuda-publica",
     "span": "Deuda Pública",
     "start_char": 189,
     "end_char": 202
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldfefm:transitory:vigesimo-primero:term-usage:248-261",
-    "provision_id": "urn:lex-mx:federal:statute:ldfefm:transitory:vigesimo-primero",
-    "term_id": "urn:lex-mx:federal:statute:ldfefm:term:deuda-publica",
-    "span": "Deuda Pública",
-    "start_char": 248,
-    "end_char": 261
   }
 ]

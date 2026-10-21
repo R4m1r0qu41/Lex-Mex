@@ -1,15 +1,6 @@
 [
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgt:article:1:term-usage:72-79",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgt:article:1",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgt:term:turismo",
-    "span": "Turismo",
-    "start_char": 72,
-    "end_char": 79
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgt:article:2:term-usage:492-499",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgt:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgt:term:turismo",

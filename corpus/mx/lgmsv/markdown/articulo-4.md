@@ -49,7 +49,7 @@ XVI. Seguridad vehicular. Aspecto de la seguridad vial enfocado en el desempeño
 
 XVII. Sostenibilidad. Satisfacer las necesidades de movilidad procurando los menores impactos negativos en el medio ambiente y la calidad de vida de las personas, garantizando un beneficio continuo para las generaciones actuales y futuras;
 
-XVIII. Transparencia y rendición de cuentas. Garantizar la máxima publicidad y acceso a la información relacionada con la movilidad y la seguridad vial, así como sobre el ejercicio presupuestal y cumplimiento de la normativa, de conformidad con lo establecido en la [Ley](articulo-3.md) General de Transparencia y Acceso a la Información Pública;
+XVIII. Transparencia y rendición de cuentas. Garantizar la máxima publicidad y acceso a la información relacionada con la movilidad y la seguridad vial, así como sobre el ejercicio presupuestal y cumplimiento de la normativa, de conformidad con lo establecido en la Ley General de Transparencia y Acceso a la Información Pública;
 
 XIX. Transversalidad. Instrumentar e integrar las políticas, programas y acciones en materia de movilidad y seguridad vial, desarrollados por las distintas dependencias y entidades de la administración pública, que proveen bienes y servicios a la población, poniendo especial atención a los grupos en situación de vulnerabilidad, y
 

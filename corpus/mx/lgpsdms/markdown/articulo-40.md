@@ -17,7 +17,7 @@ source_sha256: 7ce179f23e6c8813df32848eda4596fc43da954c1bb4d68e412155eda544343c
 
 # Artículo 40
 
-Conforme a lo dispuesto por el artículo [73](../../cpeum/markdown/articulo-73.md), fracción XXI de la Constitución Política de los Estados Unidos Mexicanos, la [Ley](articulo-4.md) General del [Sistema](articulo-4.md) Nacional de Seguridad Pública y las disposiciones de esta Ley, las instituciones de Seguridad Pública de los distintos órdenes de gobierno y las Fiscalías o Procuradurías de Justicia de la Federación, de las entidades federativas, en el ámbito de su competencia y de acuerdo a los lineamientos que establezca el [Consejo Nacional](articulo-4.md) de Seguridad Pública, deberán coordinarse para: Párrafo reformado DOF 19-01-2018, 20-05-2021
+Conforme a lo dispuesto por el artículo [73](../../cpeum/markdown/articulo-73.md), fracción XXI de la Constitución Política de los Estados Unidos Mexicanos, la Ley General del Sistema Nacional de Seguridad Pública y las disposiciones de esta [Ley](articulo-4.md), las instituciones de Seguridad Pública de los distintos órdenes de gobierno y las Fiscalías o Procuradurías de Justicia de la Federación, de las entidades federativas, en el ámbito de su competencia y de acuerdo a los lineamientos que establezca el [Consejo Nacional](articulo-4.md) de Seguridad Pública, deberán coordinarse para: Párrafo reformado DOF 19-01-2018, 20-05-2021
 
 I. Cumplir con los objetivos y fines de esta Ley;
 
@@ -27,7 +27,7 @@ III. Elaborar y realizar políticas de prevención social, de conformidad con la
 
 V. Ejecutar, dar seguimiento y evaluar las políticas, estrategias y acciones contra las conductas previstas en la presente Ley;
 
-VI. Distribuir, a los integrantes del Sistema, actividades específicas para el cumplimiento de los fines de la seguridad pública y prevención, investigación y persecución de las conductas previstas en la presente Ley;
+VI. Distribuir, a los integrantes del [Sistema](articulo-4.md), actividades específicas para el cumplimiento de los fines de la seguridad pública y prevención, investigación y persecución de las conductas previstas en la presente Ley;
 
 VII. Determinar criterios uniformes para la organización, operación y modernización tecnológica para el combate de las conductas previstas en la presente Ley;
 

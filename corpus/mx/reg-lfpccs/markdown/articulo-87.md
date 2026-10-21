@@ -17,4 +17,4 @@ source_sha256: 8a999465afe704f31d0f615aa1afb605c395600298a2433e09778463db25da47
 
 # Artículo 87
 
-Tratándose de la comercialización de semillas provenientes de variedades vegetales protegidas, en términos de la [Ley](articulo-2.md) Federal de Variedades Vegetales, se deberá indicar en la etiqueta señalada en el artículo [33](../../lfpccs/markdown/articulo-33.md) de la Ley, que se trata de una variedad protegida.
+Tratándose de la comercialización de semillas provenientes de variedades vegetales protegidas, en términos de la Ley Federal de Variedades Vegetales, se deberá indicar en la etiqueta señalada en el artículo [33](../../lfpccs/markdown/articulo-33.md) de la [Ley](articulo-2.md), que se trata de una variedad protegida.

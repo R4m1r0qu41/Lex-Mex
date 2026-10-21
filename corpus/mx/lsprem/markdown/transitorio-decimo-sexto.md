@@ -15,4 +15,4 @@ source_sha256: bcc21844355854fe331c842c21436d721d6c2856b5c5986715fe39f4a845b317
 
 # DÉCIMO SEXTO
 
-La [Secretaría](articulo-2.md) de Comunicaciones y Transportes deberá establecer los mecanismos para llevar a cabo la coordinación prevista en el artículo [9](../../lftr/markdown/articulo-9.md), fracción V de la [Ley](articulo-2.md) Federal de Telecomunicaciones y Radiodifusión, dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto.
+La [Secretaría](articulo-2.md) de Comunicaciones y Transportes deberá establecer los mecanismos para llevar a cabo la coordinación prevista en el artículo [9](../../lftr/markdown/articulo-9.md), fracción V de la Ley Federal de Telecomunicaciones y Radiodifusión, dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto.

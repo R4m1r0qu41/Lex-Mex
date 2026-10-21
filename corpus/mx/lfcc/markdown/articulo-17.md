@@ -17,4 +17,4 @@ source_sha256: 0305c9a7ba90c8d0bbe973be2a134a650976ce5d25c304458cb0fd5401b8ddde
 
 # Artículo 17
 
-Para la aplicación de las sanciones señaladas en el [artículo anterior](articulo-16.md), se observará el procedimiento establecido en la [Ley](articulo-3.md) Federal de Procedimiento Administrativo o conforme a la ley de la materia que regule el acto.
+Para la aplicación de las sanciones señaladas en el [artículo anterior](articulo-16.md), se observará el procedimiento establecido en la Ley Federal de Procedimiento Administrativo o conforme a la ley de la materia que regule el acto.

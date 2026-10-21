@@ -17,6 +17,6 @@ source_sha256: f12e559ab950b52583c04f0ebddcf312054e07300f56b2c546028580e154a8d9
 
 # Artículo 42
 
-Las relaciones de trabajo del organismo y su personal se regirán por la [Ley](articulo-1.md) Federal del Trabajo, reglamentaria del apartado "A" del artículo [123](../../cpeum/markdown/articulo-123.md) de la Constitución Política de los Estados Unidos Mexicanos.
+Las relaciones de trabajo del organismo y su personal se regirán por la Ley Federal del Trabajo, reglamentaria del apartado "A" del artículo [123](../../cpeum/markdown/articulo-123.md) de la Constitución Política de los Estados Unidos Mexicanos.
 
 CAPÍTULO V (sic DOF 20-03-2014) DEL PROCEDIMIENTO DE QUEJA Capítulo recorrido y denominación reformada DOF 20-03-2014

@@ -17,4 +17,4 @@ source_sha256: e7b8eb91eb4546fb79066efffae991c1c22316a23d9d21c2727e32434e2e9b01
 
 # Artículo 176
 
-El [Integrante](articulo-2.md) comisionado en el extranjero deberá sujetarse a los lineamientos de la [Ley](articulo-2.md) del Servicio Exterior Mexicano, su [Reglamento](articulo-2.md) y demás disposiciones legales aplicables, que le confieren el título de personal asimilado durante el período que permanezca en dicha comisión.
+El [Integrante](articulo-2.md) comisionado en el extranjero deberá sujetarse a los lineamientos de la Ley del Servicio Exterior Mexicano, su [Reglamento](articulo-2.md) y demás disposiciones legales aplicables, que le confieren el título de personal asimilado durante el período que permanezca en dicha comisión.

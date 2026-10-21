@@ -57,7 +57,7 @@ XVI. Participar con las autoridades competentes en el seguimiento y vigilancia d
 
 XVII. Solicitar información y documentación a las unidades de la Institución y demás autoridades que auxilien en la investigación de que se trate, para el cumplimiento de sus fines, así como levantar las actas administrativas a que haya lugar;
 
-XVIII. Dar vista al Órgano Interno de Control de los hechos en que se desprendan presuntas infracciones administrativas cometidas dentro del servicio cuando así proceda, en los términos de la [Ley General](articulo-2.md) de Responsabilidades Administrativas;
+XVIII. Dar vista al Órgano Interno de Control de los hechos en que se desprendan presuntas infracciones administrativas cometidas dentro del servicio cuando así proceda, en los términos de la Ley General de Responsabilidades Administrativas;
 
 XIX. Citar a los integrantes sometidos a una investigación o, en su caso, a aquéllos que puedan aportar datos para la misma;
 

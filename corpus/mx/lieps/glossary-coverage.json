@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-4",
+  "strategy_version": "glossary-extraction-5",
   "instrument_id": "urn:lex-mx:federal:statute:lieps",
   "source_sha256": "32639ede8448f91e6ddde556d4b8bceaf349b904bc21631f06e1c8a7a3d416f4",
   "extracted_text_sha256": "c4b6dac008c1dfa3cf9fd92a232ac948ad31e158d1a1304e4e81ca33832c8736",
@@ -74,9 +74,9 @@
         "XI"
       ],
       "profile": {
-        "strategy_version": "glossary-extraction-4",
+        "strategy_version": "glossary-extraction-5",
         "provision_text_sha256": "9c80c1dc34488ddc56b82465adc6bf0941894b64ac09962e2a633c53f0f6e232",
-        "rationale": "Operator rulings 2026-10-19: I, VIII and XXII are parents defined by their incisos (VIII as \"Tabacos labrados\"); IX's incisos are the definitions; XXII d) and g) only point to IX b) and c). Machine boundary readings awaiting operator review, not rulings: XIX and XXXVIII define the whole printed name, which has internal commas, up to the definition (\", a los productos\", \", aquellos que\"); XXII f) \"Turbosina y kerosenos\" is one term.",
+        "rationale": "Operator rulings 2026-10-19: I, VIII and XXII are parents defined by their incisos (VIII as \"Tabacos labrados\"); IX's incisos are the definitions; XXII d) and g) only point to IX b) and c). Operator rulings 2026-10-20 (confirming the machine boundary readings): XIX and XXXVIII define the whole printed name, which has internal commas, up to the definition (\", a los productos\", \", aquellos que\"); XXII f) \"Turbosina y kerosenos\" is one term.",
         "evidence": "docs/decisions.md (2026-10-19, LIEPS glossary under its rulings)",
         "entries": [
           {
@@ -431,5 +431,5 @@
   "imports": [],
   "usage_form": "with_lowercase",
   "term_count": 58,
-  "usage_count": 328
+  "usage_count": 316
 }

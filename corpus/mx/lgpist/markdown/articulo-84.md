@@ -19,4 +19,4 @@ source_sha256: 1e7d06c67fac4c8a100d2bb2845cc765fba5e8ce09d27d30b2b44432ffeb8c41
 
 El [Registro Nacional](articulo-5.md) incluirá entre otros datos, el lugar, fecha, circunstancias, técnicas utilizadas como actos de tortura y tratos o penas crueles, inhumanos o degradantes; las autoridades señaladas como posibles responsables; el estatus de las investigaciones; y, en su caso, la información referente a la [Víctima](articulo-5.md), como su situación jurídica, edad, sexo, o cualquier otra condición relevante para los efectos estadísticos.
 
-Asimismo, estará interconectado con el Registro Nacional de Víctimas, en términos de la [Ley](articulo-5.md) General de Víctimas, cuando proceda su inscripción en este, y procurará que las personas identificadas como Víctimas de tortura y otros tratos o penas crueles, inhumanos o degradantes aparezcan en ambos registros.
+Asimismo, estará interconectado con el Registro Nacional de Víctimas, en términos de la Ley General de Víctimas, cuando proceda su inscripción en este, y procurará que las personas identificadas como Víctimas de tortura y otros tratos o penas crueles, inhumanos o degradantes aparezcan en ambos registros.

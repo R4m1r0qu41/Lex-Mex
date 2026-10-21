@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-4",
+  "strategy_version": "glossary-extraction-5",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-lpeam",
   "source_sha256": "4195c0740ad46978a8b0f2d43f0ac6d77e46b0216bd6f756950b1a050044ce98",
   "extracted_text_sha256": "3eb1fd3bad9242aae06402e9089c91e1937060123a1ff1f0836d5983a95a6aee",
@@ -48,5 +48,5 @@
   ],
   "imports": [],
   "term_count": 30,
-  "usage_count": 200
+  "usage_count": 192
 }

@@ -22,6 +22,6 @@ source_sha256: a15012b33a415083f7714764c86fda8ed0078d3f5313dfc194c503f98a573a2a
 
 Las concesiones a que se refiere este capítulo sólo se otorgarán a personas físicas o morales de nacionalidad mexicana.
 
-La participación de la inversión extranjera en sociedades concesionarias se permitirá en los términos del [Decreto](articulo-3.md) y de la [Ley](articulo-3.md) de Inversión Extranjera.
+La participación de la inversión extranjera en sociedades concesionarias se permitirá en los términos del [Decreto](articulo-3.md) y de la Ley de Inversión Extranjera.
 
 Cuando se solicite concesión para prestar servicios de radiodifusión que involucre participación de inversión extranjera, se requerirá la opinión previa y favorable de la Comisión Nacional de Inversiones Extranjeras, quien verificará que se cumpla con los límites de inversión extranjera previstos por el Decreto y la Ley de Inversión Extranjera. Dicha opinión deberá presentarse por el interesado al [Instituto](articulo-3.md).

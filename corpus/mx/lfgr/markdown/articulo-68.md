@@ -17,6 +17,6 @@ source_sha256: cbd3307808b89748077396e108c02651da8099a5bc491657c17fa676618d85f1
 
 # Artículo 68
 
-Salvo por lo previsto en el [Estatuto orgánico](articulo-9.md), serán aplicables en lo conducente de manera supletoria y en el siguiente orden las disposiciones de la [Ley](articulo-9.md) Federal de Procedimiento Administrativo y del [Código Nacional](articulo-9.md) de Procedimientos Civiles y Familiares.
+Salvo por lo previsto en el [Estatuto orgánico](articulo-9.md), serán aplicables en lo conducente de manera supletoria y en el siguiente orden las disposiciones de la Ley Federal de Procedimiento Administrativo y del Código Nacional de Procedimientos Civiles y Familiares.
 
 Artículo reformado DOF 14-11-2025

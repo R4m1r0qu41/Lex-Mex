@@ -17,4 +17,4 @@ source_sha256: ea6e39560929f2e1998b2dabe0852fde0d684c69e5be49aab7f33433299bbeb0
 
 # Artículo 185
 
-La [Ley](articulo-2.md) Federal de Procedimiento Administrativo y el Código Federal de Procedimientos Civiles, serán aplicados supletoriamente en lo relacionado al procedimiento ordinario ante los Consejos de Disciplina, la substanciación del recurso y todo aquello que no esté regulado por el mismo.
+La Ley Federal de Procedimiento Administrativo y el Código Federal de Procedimientos Civiles, serán aplicados supletoriamente en lo relacionado al procedimiento ordinario ante los Consejos de Disciplina, la substanciación del recurso y todo aquello que no esté regulado por el mismo.

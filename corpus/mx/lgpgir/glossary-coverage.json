@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-4",
+  "strategy_version": "glossary-extraction-5",
   "instrument_id": "urn:lex-mx:federal:statute:lgpgir",
   "source_sha256": "b34326588bd6e7519e33411d3658239e3aefb56cef0fae5d775bc894af64a565",
   "extracted_text_sha256": "94e532726385094489b91635a9c54aa8e16428e2a6e3a934f84bdd9086a5db9a",
@@ -65,5 +65,5 @@
   ],
   "imports": [],
   "term_count": 47,
-  "usage_count": 271
+  "usage_count": 243
 }

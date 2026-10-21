@@ -19,7 +19,7 @@ source_sha256: 030ed4c6e3950adecfd4c6376b31d216dc4d876d90b21190c982bccac0b03d7a
 
 Las reglas de operación de los programas a través de los cuales se otorguen subsidios para fortalecer a los intermediarios que participan en el sector de ahorro y crédito popular, otros intermediarios financieros, y de los programas en los que, por conducto de dichas instituciones, se otorguen subsidios a la población de menores ingresos, deberán prever lo siguiente:
 
-I. Que en la operación de dichos programas, las instituciones de ahorro y crédito popular se sujetarán a las disposiciones de la [Ley](articulo-2.md) de Ahorro y Crédito Popular;
+I. Que en la operación de dichos programas, las instituciones de ahorro y crédito popular se sujetarán a las disposiciones de la Ley de Ahorro y Crédito Popular;
 
 II. La integración, en términos de las disposiciones generales aplicables, de un padrón de beneficiarios directos, y uno de intermediarios financieros y no financieros que participen como mecanismos de distribución de apoyos o, en su caso, sean beneficiarios directos de éstos;
 

@@ -25,7 +25,7 @@ II. Albergado: Persona que en forma temporal recibe asilo, amparo, alojamiento y
 
 III. Albergue: Instalación que se establece para brindar resguardo a las personas que se han visto afectadas en sus viviendas por los efectos de fenómenos perturbadores y en donde permanecen hasta que se da la recuperación o reconstrucción de sus viviendas;
 
-IV. Atlas Nacional de [Riesgos](articulo-2.md): Sistema integral de información sobre los agentes perturbadores y daños esperados, resultado de un análisis espacial y temporal sobre la interacción entre los peligros, la vulnerabilidad y el grado de exposición de los agentes afectables; V. Auxilio: respuesta de ayuda a las personas en riesgo o las víctimas de un siniestro, emergencia o desastre, por parte de grupos especializados públicos o privados, o por las unidades internas de protección civil, así como las acciones para salvaguardar los demás agentes afectables;
+IV. Atlas Nacional de Riesgos: Sistema integral de información sobre los agentes perturbadores y daños esperados, resultado de un análisis espacial y temporal sobre la interacción entre los peligros, la vulnerabilidad y el grado de exposición de los agentes afectables; V. Auxilio: respuesta de ayuda a las personas en riesgo o las víctimas de un siniestro, emergencia o desastre, por parte de grupos especializados públicos o privados, o por las unidades internas de protección civil, así como las acciones para salvaguardar los demás agentes afectables;
 
 VI. Brigada: Grupo de personas que se organizan dentro de un inmueble, capacitadas y adiestradas en funciones básicas de respuesta a emergencias tales como: primeros auxilios, combate a conatos de incendio, evacuación, búsqueda y rescate; designados en la [Unidad Interna de Protección Civil](articulo-2.md) como encargados del desarrollo y ejecución de acciones de prevención, auxilio y recuperación, con base en lo estipulado en el [Programa Interno de Protección Civil](articulo-2.md) del inmueble;
 
@@ -75,7 +75,7 @@ XXVIII. Gestión Integral de Riesgos: El conjunto de acciones encaminadas a la i
 
 XXIX. Grupos Voluntarios: Las personas morales o las personas físicas, que se han acreditado ante las autoridades competentes, y que cuentan con personal, conocimientos, experiencia y equipo necesarios, para prestar de manera altruista y comprometida, sus servicios en acciones de protección civil; Fracción recorrida DOF 03-06-2014
 
-XXX. Hospital [Seguro](articulo-2.md): Establecimiento de servicios de salud que debe permanecer accesible y funcionando a su máxima capacidad, con la misma estructura, bajo una situación de emergencia o de desastre; Fracción recorrida DOF 03-06-2014
+XXX. Hospital Seguro: Establecimiento de servicios de salud que debe permanecer accesible y funcionando a su máxima capacidad, con la misma estructura, bajo una situación de emergencia o de desastre; Fracción recorrida DOF 03-06-2014
 
 XXXI. Identificación de Riesgos: Reconocer y valorar las pérdidas o daños probables sobre los agentes afectables y su distribución geográfica, a través del análisis de los peligros y la vulnerabilidad; Fracción recorrida DOF 03-06-2014
 
@@ -119,7 +119,7 @@ L. Riesgo Inminente: Aquel riesgo que según la opinión de una instancia técni
 
 LI. Secretaría: La Secretaría de Seguridad y Protección Ciudadana; Fracción recorrida DOF 03-06-2014. Reformada DOF 21-12-2023
 
-LII. Seguro: Instrumento de Administración y Transferencia de Riesgos; Fracción recorrida DOF 03-06-2014
+LII. Seguro: Instrumento de Administración y Transferencia de [Riesgos](articulo-2.md); Fracción recorrida DOF 03-06-2014
 
 LIII. Simulacro: Representación mediante una simulación de las acciones de respuesta previamente planeadas con el fin de observar, probar y corregir una respuesta eficaz ante posibles situaciones reales de emergencia o desastre. Implica el montaje de un escenario en terreno específico, diseñado a partir de la identificación y análisis de riesgos y la vulnerabilidad de los sistemas afectables; Fracción recorrida DOF 03-06-2014
 
@@ -137,4 +137,4 @@ LIX. Zona de Desastre: Espacio territorial determinado en el tiempo por la decla
 
 LX. Zona de Riesgo: Espacio territorial determinado en el que existe la probabilidad de que se produzca un daño, originado por un fenómeno perturbador, y Fracción recorrida DOF 03-06-2014
 
-LXI. [Zona de Riesgo](articulo-2.md) Grave: Asentamiento humano que se encuentra dentro de una zona de grave riesgo, originado por un posible fenómeno perturbador. Fracción recorrida DOF 03-06-2014
+LXI. Zona de Riesgo Grave: Asentamiento humano que se encuentra dentro de una zona de grave riesgo, originado por un posible fenómeno perturbador. Fracción recorrida DOF 03-06-2014

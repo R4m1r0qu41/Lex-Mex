@@ -19,7 +19,7 @@ source_sha256: 915a4f4f7947f248971aebed71f67ddf5fd26bd41faeacb7084ded7a6c57b6dc
 
 En ningún caso podrán ser consejeros:
 
-I. Las personas que se encuentren en los supuestos señalados en el penúltimo párrafo del artículo [41](../../lic/markdown/articulo-41.md) de la [Ley](articulo-2.md) de [Instituciones](articulo-2.md) de Crédito; Fracción reformada DOF 24-06-2002
+I. Las personas que se encuentren en los supuestos señalados en el penúltimo párrafo del artículo [41](../../lic/markdown/articulo-41.md) de la Ley de Instituciones de Crédito; Fracción reformada DOF 24-06-2002
 
 II. Las personas que ocupen un puesto de elección popular o de dirigencia partidista, mientras se encuentren en el ejercicio del mismo, y
 
@@ -29,7 +29,7 @@ Si alguno de los consejeros propietarios designados llegare a encontrarse compre
 
 Adicionalmente, no podrán ser consejeros independientes:
 
-a) Las personas que tengan nexo patrimonial o vínculo laboral con la Institución, conforme a lo establecido en el Reglamento Orgánico;
+a) Las personas que tengan nexo patrimonial o vínculo laboral con la [Institución](articulo-2.md), conforme a lo establecido en el Reglamento Orgánico;
 
 b) Las personas que tengan un nexo patrimonial o vínculo laboral con una persona física o moral que sea acreedor, deudor, cliente o proveedor importante de la Institución, conforme a lo establecido en el Reglamento Orgánico; c) Las personas que tengan conflicto de intereses con la Institución por ser clientes, proveedores, deudores, acreedores importantes o de cualquier otra naturaleza, conforme a lo establecido en el Reglamento Orgánico, y
 

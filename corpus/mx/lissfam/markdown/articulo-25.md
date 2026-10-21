@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LISSFAM.pdf
 source_sha256: 35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc
 ---
 
-> Capítulo Único
+> Título SEGUNDO · Capítulo Segundo
 
 # Artículo 25
 
@@ -41,4 +41,4 @@ X. Para los Generales de Brigada 63
 
 XI. Para los Generales de División 65
 
-De las jerarquías del Ejército Mexicano contenidas de la fracción I a XI deberán tomarse los homólogos para la Fuerza Aérea Mexicana, la Armada y la Guardia Nacional, contenidas en las leyes orgánicas de dichas Fuerzas Armadas y la [Ley](articulo-4o.md) de la Guardia Nacional, respectivamente. Párrafo reformado DOF 16-07-2025
+De las jerarquías del Ejército Mexicano contenidas de la fracción I a XI deberán tomarse los homólogos para la Fuerza Aérea Mexicana, la Armada y la Guardia Nacional, contenidas en las leyes orgánicas de dichas Fuerzas Armadas y la Ley de la Guardia Nacional, respectivamente. Párrafo reformado DOF 16-07-2025

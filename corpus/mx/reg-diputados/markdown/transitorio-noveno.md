@@ -15,4 +15,4 @@ source_sha256: 6fa1d25c31c4d8c2cc8074208b10a2f3ff35fecce26c1cc03ba18117cfec80d1
 
 # Noveno
 
-Todas aquellas disposiciones del [Reglamento](articulo-2.md) para el Gobierno Interior del Congreso General de los Estados Unidos Mexicanos que sean materia de Congreso General, así como de la Comisión Permanente, seguirán vigentes en tanto no se expida el ordenamiento específico.
+Todas aquellas disposiciones del Reglamento para el Gobierno Interior del Congreso General de los Estados Unidos Mexicanos que sean materia de Congreso General, así como de la Comisión Permanente, seguirán vigentes en tanto no se expida el ordenamiento específico.

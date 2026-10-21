@@ -21,7 +21,7 @@ Para los efectos de esta Ley, se entiende por:
 
 I. Sector, el que se refiere en el artículo [3](articulo-3o.md)o. de la presente Ley; Fracción reformada DOF 11-06-2013
 
-II. Organismos del [Sector](articulo-5o.md), a las organizaciones, empresas y sociedades del Sector Social de la Economía;
+II. Organismos del Sector, a las organizaciones, empresas y sociedades del [Sector](articulo-5o.md) Social de la Economía;
 
 III. Secretaría, a la Secretaría de Bienestar; Fracción reformada DOF 30-12-2015, 29-12-2023
 

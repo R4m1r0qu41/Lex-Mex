@@ -19,7 +19,7 @@ source_sha256: d7c97f38c1dfe7dbf0ac5eba162d5fedb51dd132975912cf6e84aee9a614f348
 
 Los nombramientos del director o gerente general de las [Sociedades Financieras Populares](articulo-3o.md) y de los funcionarios que ocupen cargos con las dos jerarquías inmediatas inferiores a la de éste, deberán recaer en personas que cuenten con elegibilidad crediticia y honorabilidad, y que además reúnan los requisitos siguientes:
 
-I. Ser residentes en territorio mexicano, en términos de lo dispuesto por el Código Fiscal de la [Federación](articulo-3o.md);
+I. Ser residentes en territorio mexicano, en términos de lo dispuesto por el Código Fiscal de la Federación;
 
 II. Haber prestado por lo menos cinco años sus servicios en puestos de alto nivel decisorio, cuyo desempeño requiera conocimiento y experiencia en materia financiera y administrativa, o bien, acreditar experiencia y conocimientos en materia financiera y administrativa en términos de lo que para tales efectos establezca la [Comisión](articulo-3o.md) mediante disposiciones de carácter general;
 

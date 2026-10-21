@@ -15,7 +15,7 @@ source_sha256: 0a9852297132d8972d0c2f77e1b67d614bd296632109065e703bd09254187aea
 
 # Octavo
 
-El Congreso de la Unión contará con un plazo de 180 días a partir de la entrada en vigor del presente Decreto para realizar las reformas necesarias a la [Ley](articulo-2.md) de Migración con el objetivo de crear un registro de personas migrantes detenidas que cuente con las mismas garantías procesales, de protección y de seguridad que las previstas en la presente Ley.
+El Congreso de la Unión contará con un plazo de 180 días a partir de la entrada en vigor del presente Decreto para realizar las reformas necesarias a la Ley de Migración con el objetivo de crear un registro de personas migrantes detenidas que cuente con las mismas garantías procesales, de protección y de seguridad que las previstas en la presente [Ley](articulo-2.md).
 
 Ciudad de México, a 23 de mayo de 2019.- Sen. Martí Batres Guadarrama, Presidente.- Dip. Porfirio Muñoz Ledo, Presidente.- Sen. Nancy de la Sierra Arámburo, Secretaria.- Dip. Ma. Sara Rocha Medina, Secretaria.- Rúbricas."
 

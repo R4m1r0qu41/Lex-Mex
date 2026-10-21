@@ -15,4 +15,4 @@ source_sha256: a823b87d27bee29da481750b9893f00024bd80aed8b0713bf8b1ac1e55b9b8de
 
 # OCTAVO
 
-La [Secretaría](articulo-3.md) de Gobernación publicará en el Diario Oficial de la Federación, las reglas relativas al Sistema de Puntos previsto en la [Ley](articulo-3.md) de Migración, dentro del término de ciento ochenta días contados a partir de su entrada en vigor.
+La [Secretaría](articulo-3.md) de Gobernación publicará en el Diario Oficial de la Federación, las reglas relativas al Sistema de Puntos previsto en la Ley de Migración, dentro del término de ciento ochenta días contados a partir de su entrada en vigor.

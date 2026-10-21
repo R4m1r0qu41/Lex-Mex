@@ -73,15 +73,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfda:article:3:term-usage:155-158",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfda:article:3",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfda:term:ley",
-    "span": "Ley",
-    "start_char": 155,
-    "end_char": 158
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lfda:article:4:term-usage:85-88",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfda:article:4",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfda:term:ley",
@@ -484,15 +475,6 @@
     "span": "Ley",
     "start_char": 161,
     "end_char": 164
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfda:article:47:term-usage:180-183",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfda:article:47",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfda:term:ley",
-    "span": "Ley",
-    "start_char": 180,
-    "end_char": 183
   },
   {
     "schema_version": "0.1.0",
@@ -1558,15 +1540,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfda:article:138:term-usage:140-152",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfda:article:138",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfda:term:codigo-civil",
-    "span": "Código Civil",
-    "start_char": 140,
-    "end_char": 152
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lfda:article:138:term-usage:188-191",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfda:article:138",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfda:term:ley",
@@ -2005,15 +1978,6 @@
     "span": "Ley",
     "start_char": 209,
     "end_char": 212
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfda:article:174:term-usage:245-248",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfda:article:174",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfda:term:ley",
-    "span": "Ley",
-    "start_char": 245,
-    "end_char": 248
   },
   {
     "schema_version": "0.1.0",

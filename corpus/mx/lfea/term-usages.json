@@ -1,15 +1,6 @@
 [
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfea:article:2:term-usage:4835-4861",
-    "provision_id": "urn:lex-mx:federal:statute:lfea:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lfea:term:firma-electronica-avanzada",
-    "span": "Firma Electrónica Avanzada",
-    "start_char": 4835,
-    "end_char": 4861
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfea:article:4:term-usage:195-205",
     "provision_id": "urn:lex-mx:federal:statute:lfea:article:4",
     "term_id": "urn:lex-mx:federal:statute:lfea:term:secretaria",

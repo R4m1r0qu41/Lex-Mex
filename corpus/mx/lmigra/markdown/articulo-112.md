@@ -19,9 +19,9 @@ source_sha256: a823b87d27bee29da481750b9893f00024bd80aed8b0713bf8b1ac1e55b9b8de
 
 Cuando alguna niña, niño o adolescente sea puesta a disposición del [Instituto](articulo-3.md), quedará bajo su total responsabilidad en tanto procede la notificación inmediata a la [Procuraduría de Protección](articulo-3.md) y la canalización al Sistema DIF correspondiente, y se deberá garantizar el respeto a sus derechos humanos, sujetándose particularmente a lo siguiente:
 
-I. Por lo que respecta a la seguridad y cuidado de niñas, niños y adolescentes, el Instituto deberá ponerles de inmediato a disposición del Sistema Nacional DIF o su equivalente en las diferentes entidades federativas, municipios o demarcaciones territoriales y notificar del caso a la Procuraduría de Protección, para proceder a su gestión conforme a lo establecido en la [Ley](articulo-3.md) General de los Derechos de Niñas, Niños y Adolescentes.
+I. Por lo que respecta a la seguridad y cuidado de niñas, niños y adolescentes, el Instituto deberá ponerles de inmediato a disposición del Sistema Nacional DIF o su equivalente en las diferentes entidades federativas, municipios o demarcaciones territoriales y notificar del caso a la Procuraduría de Protección, para proceder a su gestión conforme a lo establecido en la Ley General de los Derechos de Niñas, Niños y Adolescentes.
 
-De manera cautelar, el Instituto reconocerá a toda niña, niño y adolescente migrante la condición de Visitante por Razones Humanitarias, en los términos establecidos en la presente Ley y su [Reglamento](articulo-3.md).
+De manera cautelar, el Instituto reconocerá a toda niña, niño y adolescente migrante la condición de Visitante por Razones Humanitarias, en los términos establecidos en la presente [Ley](articulo-3.md) y su [Reglamento](articulo-3.md).
 
 El Instituto emitirá un acta de canalización de la niña, niño o adolescente en la que conste la notificación a la Procuraduría de Protección y la canalización de la niña, niño o adolescente al Sistema DIF correspondiente;
 

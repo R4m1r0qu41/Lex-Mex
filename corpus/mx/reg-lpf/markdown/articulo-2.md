@@ -29,7 +29,7 @@ V. Integrantes, a los miembros de la Policía Federal;
 
 VI. Ley, a la Ley de la Policía Federal;
 
-VII. Ley General, a la [Ley](articulo-2.md) General del [Sistema](articulo-2.md) Nacional de Seguridad Pública;
+VII. Ley General, a la Ley General del Sistema Nacional de Seguridad Pública;
 
 VIII. Manual de Organización, al Manual de Organización de la Institución;
 

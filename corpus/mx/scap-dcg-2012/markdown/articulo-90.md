@@ -68,7 +68,7 @@ a) Grupo 1 (Ponderación del 0 %):
 
 2. Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero, o la que la sustituya.
 
-3. Fideicomisos públicos que formen parte del sistema financiero mexicano acorde con el Artículo [3](../../lic/markdown/articulo-3o.md)o. de la [Ley](articulo-1.md) de Instituciones de Crédito.
+3. Fideicomisos públicos que formen parte del sistema financiero mexicano acorde con el Artículo [3](../../lic/markdown/articulo-3o.md)o. de la Ley de Instituciones de Crédito.
 
 4. Fideicomisos celebrados específicamente con la finalidad de compartir el riesgo de crédito, en los cuales actúen como fideicomitentes y fiduciarias las instituciones de banca de desarrollo que cuenten con garantía expresa del Gobierno Federal.
 

@@ -17,7 +17,7 @@ source_sha256: 71c334347de911b670b7e920a44db19f2555f611203ec25d227733687972f424
 
 # Artículo 16
 
-Previo a la presentación de la [Cédula](articulo-3o.md) a través del portal electrónico, el promovente o su representante legal, deberán solicitar a la [Secretaría](articulo-3o.md), por conducto de sus unidades administrativas competentes, un certificado de identificación para obtener la firma electrónica avanzada, conforme a lo previsto en la [Ley](articulo-3o.md) de Firma Electrónica Avanzada y las disposiciones jurídicas que de ésta se derivan.
+Previo a la presentación de la [Cédula](articulo-3o.md) a través del portal electrónico, el promovente o su representante legal, deberán solicitar a la [Secretaría](articulo-3o.md), por conducto de sus unidades administrativas competentes, un certificado de identificación para obtener la firma electrónica avanzada, conforme a lo previsto en la Ley de Firma Electrónica Avanzada y las disposiciones jurídicas que de ésta se derivan.
 
 Cuando la Cédula sea presentada a través de los portales electrónicos en los que se habilite su recepción, los sistemas correspondientes generarán el acuse de recibo electrónico correspondiente.
 

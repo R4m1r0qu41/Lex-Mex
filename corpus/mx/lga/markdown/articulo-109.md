@@ -17,7 +17,7 @@ source_sha256: 2f931111ab2745aa5a3b2ef0a99dc5beaf73d78f7674f2d90b4462319c1fc688
 
 # Artículo 109
 
-El [Órgano de Gobierno](articulo-4.md) es el cuerpo colegiado de administración del [Archivo General](articulo-4.md) que, además de lo previsto en la [Ley](articulo-4.md) Federal de las Entidades Paraestatales y las disposiciones reglamentarias, tendrá las siguientes atribuciones:
+El [Órgano de Gobierno](articulo-4.md) es el cuerpo colegiado de administración del [Archivo General](articulo-4.md) que, además de lo previsto en la Ley Federal de las Entidades Paraestatales y las disposiciones reglamentarias, tendrá las siguientes atribuciones:
 
 I. Evaluar la operación administrativa así como el cumplimiento de los objetivos y metas del Archivo General;
 

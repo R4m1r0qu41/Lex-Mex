@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-4",
+  "strategy_version": "glossary-extraction-5",
   "instrument_id": "urn:lex-mx:federal:statute:lfmped",
   "source_sha256": "1f33240cef59d86e064987331b3448af4f030f168813be571117bd3e09f20291",
   "extracted_text_sha256": "479cf52dec2638063bba5674c6f483f2686152ab82c7e8994a137e0160703a76",
@@ -20,5 +20,5 @@
   ],
   "imports": [],
   "term_count": 2,
-  "usage_count": 93
+  "usage_count": 91
 }

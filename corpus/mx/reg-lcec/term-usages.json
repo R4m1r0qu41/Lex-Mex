@@ -19,15 +19,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lcec:article:3:term-usage:156-159",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lcec:article:3",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lcec:term:ley",
-    "span": "Ley",
-    "start_char": 156,
-    "end_char": 159
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lcec:article:5:term-usage:255-258",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lcec:article:5",
     "term_id": "urn:lex-mx:federal:regulation:reg-lcec:term:dof",
@@ -43,15 +34,6 @@
     "span": "Ley",
     "start_char": 70,
     "end_char": 73
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lcec:article:6:term-usage:334-337",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lcec:article:6",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lcec:term:ley",
-    "span": "Ley",
-    "start_char": 334,
-    "end_char": 337
   },
   {
     "schema_version": "0.1.0",
@@ -79,15 +61,6 @@
     "span": "Ley",
     "start_char": 97,
     "end_char": 100
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lcec:article:9:term-usage:268-271",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lcec:article:9",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lcec:term:ley",
-    "span": "Ley",
-    "start_char": 268,
-    "end_char": 271
   },
   {
     "schema_version": "0.1.0",
@@ -250,15 +223,6 @@
     "span": "Ley",
     "start_char": 258,
     "end_char": 261
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lcec:article:40:term-usage:81-84",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lcec:article:40",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lcec:term:ley",
-    "span": "Ley",
-    "start_char": 81,
-    "end_char": 84
   },
   {
     "schema_version": "0.1.0",

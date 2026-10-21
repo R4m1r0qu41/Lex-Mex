@@ -15,4 +15,4 @@ source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 
 # Décimo Noveno
 
-Los contratos de caución bursátil celebrados conforme a lo establecido en el artículo 99 de la Ley del Mercado de [Valores](articulo-2.md) que se abroga por virtud de esta Ley, continuarán rigiéndose para su cumplimiento y ejecución por las disposiciones vigentes en la fecha de su celebración.
+Los contratos de caución bursátil celebrados conforme a lo establecido en el artículo 99 de la Ley del Mercado de Valores que se abroga por virtud de esta Ley, continuarán rigiéndose para su cumplimiento y ejecución por las disposiciones vigentes en la fecha de su celebración.

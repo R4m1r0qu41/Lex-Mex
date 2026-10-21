@@ -217,15 +217,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:1:term-usage:4017-4030",
-    "provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:1",
-    "term_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:term:autenticacion",
-    "span": "Autenticación",
-    "start_char": 4017,
-    "end_char": 4030
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:1:term-usage:4048-4061",
     "provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:1",
     "term_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:term:autenticacion",
@@ -250,15 +241,6 @@
     "span": "Cliente",
     "start_char": 4156,
     "end_char": 4163
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:1:term-usage:4271-4278",
-    "provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:1",
-    "term_id": "urn:lex-mx:federal:statute:lritf:term:cliente",
-    "span": "Cliente",
-    "start_char": 4271,
-    "end_char": 4278
   },
   {
     "schema_version": "0.1.0",
@@ -631,15 +613,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:1:term-usage:11348-11371",
-    "provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:1",
-    "term_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:term:transferencia-de-fondos",
-    "span": "Transferencia de Fondos",
-    "start_char": 11348,
-    "end_char": 11371
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:1:term-usage:11403-11412",
     "provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:1",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:operaciones",
@@ -691,15 +664,6 @@
     "span": "Operación",
     "start_char": 11919,
     "end_char": 11928
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:1:term-usage:12570-12597",
-    "provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:1",
-    "term_id": "urn:lex-mx:federal:statute:lritf:term:infraestructura-tecnologica",
-    "span": "Infraestructura Tecnológica",
-    "start_char": 12570,
-    "end_char": 12597
   },
   {
     "schema_version": "0.1.0",

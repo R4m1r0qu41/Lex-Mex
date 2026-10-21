@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LTOSF.pdf
 source_sha256: bf9e443e89a5c0ba268e76f20923ae25195ef5c1ffbacecff36693ca228c3667
 ---
 
+> Capítulo II
+
 # Artículo 4 Bis 2
 
 Con el objeto de incrementar la competencia en el sistema financiero, el Banco de México publicará bimestralmente información e indicadores sobre el comportamiento de las tasas de interés y [Comisiones](articulo-3.md) correspondientes a los diferentes segmentos del mercado, a fin de que los usuarios cuenten con información que les permita comparar el costo que cobran las instituciones de crédito, sociedades financieras de objeto limitado y las sociedades financieras de objeto múltiple reguladas en los diferentes productos que ofrecen.

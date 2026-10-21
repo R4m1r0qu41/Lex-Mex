@@ -29,4 +29,4 @@ IV. Correo electrónico, en su caso, y
 
 V. Número del Registro Federal de Contribuyentes o en su defecto la Clave Única de Registro de Población.
 
-Los datos específicos, requisitos, plazos y vigencias aplicables a cada trámite estarán previstos en el presente Reglamento, en disposiciones de sanidad animal que para tal efecto emita la Secretaría o, en su defecto en la [Ley](articulo-2.md) Federal de Procedimiento Administrativo. La Secretaría determinará las modalidades de cada trámite establecido en el presente Reglamento.
+Los datos específicos, requisitos, plazos y vigencias aplicables a cada trámite estarán previstos en el presente Reglamento, en disposiciones de sanidad animal que para tal efecto emita la Secretaría o, en su defecto en la Ley Federal de Procedimiento Administrativo. La Secretaría determinará las modalidades de cada trámite establecido en el presente Reglamento.

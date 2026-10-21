@@ -1711,15 +1711,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpc:transitory:segundo:term-usage:42-52",
-    "provision_id": "urn:lex-mx:federal:statute:lfpc:transitory:segundo",
-    "term_id": "urn:lex-mx:federal:statute:lfpc:term:consumidor",
-    "span": "Consumidor",
-    "start_char": 42,
-    "end_char": 52
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfpc:transitory:tercero:term-usage:78-88",
     "provision_id": "urn:lex-mx:federal:statute:lfpc:transitory:tercero",
     "term_id": "urn:lex-mx:federal:statute:lfpc:term:consumidor",

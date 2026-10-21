@@ -1,5 +1,177 @@
 # Architecture decisions
 
+## 2026-10-20 — Codex batch review: batch completion closes the corpus; title containment repaired
+
+**Source:** Codex's review of `parser/pending-batch` at `cf8eed626` (`docs/parser-batch-review-2026-10-20.md` in the DB worktree, drafted). The operator chose to fix both findings before the batch merges (B3, `docs/operator-decisions-2026-10-20.md`).
+
+**P1: batch completion did not prove corpus glossary closure.**
+- **Cause.** `run_batch_closure` relinked and validated only the batch's own instruments, while the title filter reads every committed title.
+- **Repair.** After the batch's own relinks, it runs the corpus closure once.
+  - The closure must reject exactly the accepted gaps; anything else fails the batch ("beyond the accepted gaps").
+  - Every instrument the closure relinks is validated and republished with the batch's, Obsidian included.
+- **Reports.** The batch report's `relinked` lists them. `.work/corpus-closure.json` gains `relinked_instruments`.
+- **Tests.**
+  - `batch_closure_relinks_an_instrument_outside_the_batch_whose_usage_the_new_title_covers`: admitting B's title drops A's usage although A is not in the batch; A validates, its Markdown is republished, and a second closure changes nothing.
+  - `batch_closure_fails_when_the_corpus_closure_rejects_an_unaccepted_instrument`.
+
+**P2: whitespace defeated the title lookback.**
+- **Cause.** Candidate starts were bounded by the longest title's length, but counted in raw characters, while a title may print any whitespace run for a space. A usage at the end of a title printed with long runs of spaces escaped.
+- **Repair.** `lookback_start` counts a whitespace run as the one space it matches. Canonical text is not normalized.
+
+**Codex's policy note, folded in.** A definition names a covering title only as whole words (`contains_phrase`). Before this, `la ley de aguascalientes` named `ley de aguas`.
+
+**Test:** `a_title_printed_with_long_whitespace_runs_still_covers_its_usages`. It covers 80 spaces, 40 line breaks, tabs, a non-ASCII prefix, and the whole-word definition.
+
+**Measured.**
+- fmt and strict clippy pass, and 377 tests pass.
+- `link --all` exits 0: relinked 0, unchanged 463, the 5 rejections are exactly the accepted gaps, and references stay at 35,949.
+- No corpus or adapter file changes, so Codex's pinned census (99,243 usages, golden 2,581 → 2,545) still holds.
+
+## 2026-10-20 — Title-span usage filter: a term inside an instrument's title is not a usage
+
+**Operator (2026-10-20):** on lan's `Aguas Nacionales` inside `Ley de Aguas Nacionales`, chose "Build it now": the corpus-wide title-span usage filter of the 2026-10-18 outlier review (`docs/glossary-g0-g2-outlier-review-2026-10-18.md`, "The Ley / Reglamento / Código prefix fix").
+
+**Rule (`lex-cli` `drop_usages_in_titles`).**
+- **Title spans.** These are every committed instrument's official title with more than one word, including the instrument's own, plus every curated multi-word alias in `_instrument-aliases.json` whose instrument is committed.
+- **Matching.** Titles are found in any case, with any run of whitespace for a space (a title wrapped across lines), at word boundaries. A title shared by two instruments is still a title.
+- **Suppression.** A usage lying wholly inside a title span is dropped (`Ley` in `Ley Federal de Competencia Económica`; lan's `Aguas Nacionales` in `Ley de Aguas Nacionales`).
+- **Source-backed referent.** A usage is kept when the term's own definition entry names one of the titles covering it. reg-lan's `Ley` is defined as `la Ley de Aguas Nacionales` and stays a usage inside that title. Inside `Reglamento de la Ley General de Salud en Materia de …`, a `Ley` defined as `la Ley General de Salud` stays, because the nested title is its referent.
+- **Scope.** `usage_form: quoted` (reg-lan) is unchanged. Citation edges are unaffected; this filters glossary usages only.
+- **Tests:** `usages_inside_an_instrument_title_are_dropped_unless_the_definition_names_it`, covering another law's title, the defined referent's title, a nested title, a wrapped title and a bare `Ley`.
+- **Implementation.** Titles are indexed by first word, and each usage checks only the word starts just before it. A 513-way regex over every provision was tried first and took over 30 minutes for `link --all`; this takes about 4.5 minutes.
+
+**Measured** (`link --all`: exit 0; 5 rejections, exactly the accepted gaps; references 35,949 → 35,949):
+- **Usages:** 102,169 → 99,243. 2,926 removed in 210 instruments, none added. This equals, instrument by instrument, an independent Python prototype run before the Rust code.
+- **By term:** `Ley` 2,210 (other laws' titles), `Estados` 48 (`… de los Estados Unidos Mexicanos`), `Instituciones` 37, `Entidades Federativas` 34, `Instituciones de Seguros` 34 (lisf's own title), `Trabajadores` 30, `Impuesto` 26, `Código` 23 …
+- **578 usages kept** because the definition names the title.
+- **lritf** 1,091 → 1,088: `Valor` in `Ley para Determinar el Valor de la Unidad de Medida y Actualización`, and `Valores` in `Ley de la Comisión Nacional Bancaria y de Valores` (twice). ifpe-dcg-2021 is unchanged.
+- **lan:** the 3 `Aguas Nacionales` inside its own title.
+- **Coverage:** 210 files change `usage_count`. Markdown: 1,177 files, link-only.
+
+**Operational consequence.**
+- An instrument's usages now depend on every committed instrument's title, so admitting a new instrument can drop usages in others that print its title.
+- `batch run`'s closure relinks only the batch's own instruments. Until `link --all` runs, `validate` reports `glossary_coverage_inconsistent` for any other instrument whose usages the new title changes.
+- After an admission, run `link --all` (the corpus closure) before validating or publishing the rest of the corpus.
+- *Superseded by the entry below:* `batch run` now runs the corpus closure itself.
+
+**For Codex review.**
+- **"La presente Ley".** A term whose definition is `la presente Ley` names no title, so its usages inside the instrument's own full title are dropped: lmigra 9, lgscmm 4. One reading is that the full title is not a use of the shorthand. The 2026-10-18 design would keep a usage whose title names the defined referent, which here needs a referent binding for self-reference.
+- **Not covered.**
+  - Titles absent from the corpus are not recognized, so a `Ley` inside them remains a usage.
+  - Bare `la Ley` and `esta Ley` remain under the existing scope policy.
+  - No ambiguity record is emitted for unrecognized title-like text.
+
+## 2026-10-20 — Headings that print their name on the heading line; lan XXV's incisos (`glossary-extraction-5`)
+
+**Trigger.** Operator (2026-10-20): "go ahead with the fixes". Two parser defects were left open:
+- the unread heading forms of lfce, lissfam and reg-lgp (the 2026-10-19 heading-leak entry);
+- lan XXV a./b. (the 2026-10-20 term-identifier entry).
+
+**Headings (`diputados.rs` `HeadingPatterns`).**
+- **Defect.** Only a bare `CAPÍTULO II` line was a heading. A heading that ends with a separator, often with its name on the same line, stayed in the preceding article's text:
+  - `Sección II.` (lfce);
+  - `SECCIÓN II.- Planificación Familiar` (reg-lgp);
+  - `TÍTULO SEGUNDO: De las Prestaciones` (lissfam);
+  - `Capítulo II.- …` (ltosf);
+  - `Sección Primera. De la Federación` (lgamvlv).
+- **Rule.** Libro, Título, Capítulo and Sección also read in a separator form. The keyword is capitalized or upper case, then comes an upper-case Roman numeral or an ordinal word (`Primero` … `Décimo Segundo`, `Único`, `Preliminar`), then `.`, `.-` or `:`, then optionally a capitalized name of up to 200 characters.
+  - The bare form is unchanged.
+  - Apartados are not read this way: CPEUM 41's `Apartado C. En la propaganda…` is article text.
+  - A glossary entry `Título de Concesión:` is not a heading, because its numeral is not a numeral.
+- **Guard.** A separator-form line is a heading only after a block boundary or a finished sentence (`.`, `;`, `:`). The first census run found the case: cpf 65 wraps `…en el Título Segundo del` / `Libro Primero.`, which was read as a heading. That dropped the sentence end and the reform note, and reset 62 articles' heading context.
+- **Fixture and test:** `heading-name-on-heading-line-sample.txt`, `a_heading_that_prints_its_name_on_its_own_line_closes_the_article`. They cover lfce, reg-lgp, lissfam, the two non-headings and the cpf wrap.
+
+**Census and reparse.**
+- The new form can change only a source with a matching line. 9 retained sources have one; 8 parse with the Diputados parser and hash-match (cub-dcg-2005 is a CNBV DCG).
+- An old/new A/B parse of those 8 changes provisions only by heading context and removed trailing heading text. cpf is unchanged after the guard.
+- The 7 that change are reparsed: lfce, lgamvlv, lissfam, lpf, ltosf, reg-lgp and reg-lgs-mcsaeps.
+- Per instrument, removed headings and changed heading contexts:
+
+| Instrument | Removed headings | Changed heading contexts |
+|---|---:|---:|
+| lfce | 1 | 1 |
+| lgamvlv | 12 | 14 |
+| lissfam | 9 | 231 |
+| lpf | 1 | 7 |
+| ltosf | 3 | 52 |
+| reg-lgp | 17 | 177 |
+| reg-lgs-mcsaeps | 0 | 72 (its `Capítulo UNICO` is now read) |
+
+- Removed text is only the heading, with any note printed under it (`Sección recorrida (antes Sección Octava) DOF 04-06-2015`, `Sección derogada DOF 28-09-2012`). Heading context keeps the numeral only, as before, so such notes are not stored elsewhere.
+- **No temporal or review field changes.** `derive-temporal` was not rerun. lfce, lgamvlv, lissfam, lpf and reg-lgp are `not_analyzed`, and a first attempt that reran it would have created new machine classifications, so it was reverted.
+- **Pre-existing parser difference.** reg-lgs-mcsaeps Transitory CUARTO no longer ends with the 1988 signing block ("Dado en la residencia del Poder Ejecutivo Federal…"). The current parser already treats an enactment signature as apparatus; the old committed parse predates that rule.
+- **Not reparsed.** `ltfccg` (`Capítulo II.- Información Previa` inside Article 3) has no retained source. Reparsing it needs a fetch that matches its committed `source_sha256`.
+
+**lan XXV (`terms.rs` `lettered_incisos`).**
+- **Rule.** An established-pass fraction whose body opens with inciso `a.` (or `a)`), and continues with lettered incisos in the same form at paragraph starts, defines one term per inciso. Each term is read by the glossary's delimiter and carries an `inciso` locator; its span runs from its marker to the next.
+- Broken lettering, or an inciso with no term, records the fraction as unread rather than guessing. Fewer than two incisos is not such a list.
+- No other committed term had this shape (census: terms starting with an inciso marker; only lan XXV).
+- **lan:** `a. "Distrito de Riego"` (one malformed term, id `…:term:a-distrito-de-riego`) becomes `Distrito de Riego` (inciso a) and `Distrito de Temporal Tecnificado` (inciso b). Terms 78 → 79; usages 215 → 218 (`Distrito de Temporal Tecnificado` 3).
+- **Profiles.** Profile incisos also accept the `a.` form (one form per fraction). This is mechanism only: lan is read by the established pass, and `auto_whole` cannot read its quoted names.
+- **Test:** `a_fraction_of_lettered_incisos_defines_one_term_per_inciso`.
+- **Strategy version.** Term detection changed meaning, so it is bumped to `glossary-extraction-5`. All 468 coverage files and the six profiles (lfca, lfpccs, lfra, lfvv, lsct, lieps) are rebound, with their extraction unchanged. The `glossary-coverage` schema constant follows.
+
+**Measured** (`link --all`: exit 0; 5 rejections, exactly the accepted gaps; references 35,949 → 35,949):
+- **Terms:** 5,727 → 5,728.
+- **Usages:** 102,168 → 102,169. lan gains 3; ltosf loses 2, both inside its leaked `Capítulo II.- De las Comisiones y Cuotas de Intercambio`.
+- **Markdown:** 125 files, all in the seven reparsed instruments.
+
+## 2026-10-20 — Reviewed usage exclusions; LIEPS drops 11 lower-case non-usages
+
+**Operator (2026-10-20):** on LIEPS's questionable lower-case matches, chose "Reviewed exclusions": a per-usage list pinned to provision, position and exact text, removing only the reviewed false links.
+
+**Mechanism.** `GlossaryConfig.usage_exclusions` in the adapter (`lex-source` `UsageExclusion`).
+- Each entry has a provision suffix, `start_char`, the exact matched `text`, `term_id` and a `reason`. Unknown fields are refused.
+- After usage extraction, `lex-cli` `exclude_reviewed_non_usages` removes the one usage matching all four.
+- An entry that matches no usage fails extraction ("re-review it against the current text"). So a reform that moves or rewords the text cannot silently exclude a different occurrence.
+- Coverage is unchanged in shape: its `usage_count` is after exclusion. The adapter, which the database inventories as evidence, carries the list and reasons.
+- Unit test: `a_reviewed_non_usage_removes_exactly_its_pinned_match_and_a_stale_one_fails`.
+
+**LIEPS: 11 exclusions, the matches listed for review in the 2026-10-19 LIEPS entry.**
+- `puro` in X (`biocombustible puro`);
+- `alcohol` in 2-E's `alcohol isopropílico` (2), and in X's `alcohol tipo etanol anhidro`, which VI excludes;
+- `gasolinas` in 2-E's chemistry text (2), and `gasolina de alto octanaje` inside XXII e) `Gasavión`;
+- `azúcar` in XIII (`fabricación de azúcar`), XXX (2, flan) and XXXI (pudín).
+
+The profile rationale now records the 2026-10-20 boundary rulings (entry below). Its text hash and extraction are unchanged.
+
+**Measured** (`link --all`: exit 0; only LIEPS relinked; 5 rejections, exactly the accepted gaps; references 35,949):
+- LIEPS usages 327 → 316, exactly these 11, none added. Corpus usages 102,179 → 102,168.
+- Markdown: `articulo-2o-E.md` and `articulo-3o.md`, link-only.
+
+**Not excluded; for the operator if wanted.** Art. 3 I b) `ácido cítrico, azúcar, ácido benzoico` (`azúcar` as a soft-drink ingredient, offset 690) is the same kind as XXX and XXXI but was not in the reviewed list.
+
+## 2026-10-20 — Operator confirms the lgs correction and the LIEPS boundary readings
+
+**Operator (2026-10-20):** "On the pending items also go ahead with the fixes … the suggested fixes look good." Asked which items to record as confirmed, the operator chose "Confirm both".
+1. **lgs.** The CPF prints `Artículo 209 Quintus` (added DOF 07-06-2024), so lgs's citation resolves and its accepted gap stays removed. This corrects the premise of the 2026-10-18 decision ("the committed CPF text … prints no 209 Quintus"). See the 2026-10-19 heading-leak entry.
+2. **LIEPS boundaries.** XIX and XXXVIII define their whole printed names, and XXII f) `Turbosina y kerosenos` is one term. These were machine readings in the 2026-10-19 LIEPS entry; they are now rulings. The corpus is unchanged: this is already how they are read.
+
+**Not decided here.** Whether lgcs's 7 remaining terms stand, given that its introduction is itself bracketed and declared invalid, is a legal question and stays open.
+
+## 2026-10-20 — An entry's printed name is its definition site: no term matches inside it
+
+**Trigger.** Operator review of lan's usages (2026-10-20 entry below): `Uso` matched 10 times inside Article 3's own entry names (`"Uso Agrícola"`, `"Uso Doméstico"` …). The operator directed the fix.
+
+**Defect.** At each position the longest matching term wins, but a term is not linked inside its own definition entry. At a name such as `Uso Agrícola`, the longest match was excluded, and the matcher then fell through to the shorter `Uso`. The same happened throughout the corpus: `Cliente` inside `Identificador de Cliente:`, `Autenticación` inside `Factor de Autenticación:`, `Fiscalía` inside `La Persona titular de la Fiscalía General de Justicia Militar:`.
+
+**Rule.** Each term's printed name, at its first occurrence in its own entry, is the definition site, and no term matches inside it. The definition text after the name is ordinary text. So `"La Comisión": La Comisión Nacional del Agua` still links `Comisión Nacional del Agua`, and a term still never matches inside its own entry.
+- All 5,727 names occur literally in their entries.
+- The first attempt let the excluded longest match consume its span anywhere in the entry. That also hid 9 genuine usages in definition text (lan `Comisión Nacional del Agua`; reg-lgn and reg-lpf `Manual del Consejo de …`). It was replaced by this narrower rule.
+- `terms.rs` `defined_name_spans`; regression test `a_term_at_its_own_definition_site_hides_shorter_terms_inside_it` covers lan's three shapes.
+- This changes usage resolution only. Term detection and `GLOSSARY_STRATEGY_VERSION` are unchanged (the LIEPS `usage_form` precedent).
+
+**Measured** (`link --all`: exit 0; 5 rejections, exactly the accepted gaps; references 35,949 → 35,949):
+- **Usages:** 102,432 → 102,179. All 253 removals are inside an exact printed name, and none are added.
+- **Where:** 91 instruments. The largest counts are lnetb 20, lan 13 (its 10 `Uso`), lgpc 12, scap-dcg-2012 10, lsh 9 and socap-sofipo-dcg-2006 9. ifpe-dcg-2021 loses 4, LIEPS 1 and lritf 0.
+- **Coverage:** 91 `glossary-coverage.json` files change `usage_count` only.
+- **Markdown:** 67 files, link-only. Where a link sat inside an entry's own name, it moves to the first genuine usage (`Factor de Autenticación: al mecanismo de [Autenticación]`).
+- **Terms:** unchanged at 5,727.
+
+**Still open from the lan review.**
+- `Aguas Nacionales` inside the title `Ley de Aguas Nacionales` goes to the title-span usage filter (operator: build it now; a separate change).
+- `Descarga` inside `Permiso de Descarga` is unchanged.
+
 ## 2026-10-20 — Term identifiers are slugs; lan's quoted names; SCJN-invalidated glossary entries (`glossary-extraction-4`)
 
 **Trigger.** The SQLite M2 builder (`docs/sqlite-m2-builder-2026-10-20.md` on `db/sqlite-projection`) fails closed on main's data.

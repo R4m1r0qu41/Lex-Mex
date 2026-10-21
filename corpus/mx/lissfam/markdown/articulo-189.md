@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LISSFAM.pdf
 source_sha256: 35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc
 ---
 
-> Capítulo Único
+> Título TERCERO · Capítulo Segundo
 
 # Artículo 189
 

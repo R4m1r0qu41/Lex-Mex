@@ -17,7 +17,7 @@ source_sha256: e5c0ecb4328043b7090ee5d73e982d6a04410f1330f6fdb350a7a34527eb2e59
 
 # Artículo 55
 
-El establecimiento y operación de encierros, tapos, copos, almadrabas y demás artes de pesca, fijas o cimentadas, en aguas de jurisdicción federal, así como su cambio de localización o dimensiones, sólo podrá realizarse con autorización de la [Secretaría](articulo-2o.md). En todos los casos, el promovente se sujetará a las disposiciones en materia de impacto ambiental contenidas en la [Ley](articulo-2o.md) General del Equilibrio Ecológico y la Protección al Ambiente y aquellas que sean de la competencia de otras autoridades. Su temporalidad no podrá exceder a la señalada en la concesión o permiso correspondiente.
+El establecimiento y operación de encierros, tapos, copos, almadrabas y demás artes de pesca, fijas o cimentadas, en aguas de jurisdicción federal, así como su cambio de localización o dimensiones, sólo podrá realizarse con autorización de la [Secretaría](articulo-2o.md). En todos los casos, el promovente se sujetará a las disposiciones en materia de impacto ambiental contenidas en la Ley General del Equilibrio Ecológico y la Protección al Ambiente y aquellas que sean de la competencia de otras autoridades. Su temporalidad no podrá exceder a la señalada en la concesión o permiso correspondiente.
 
 Al efecto, los interesados deberán cumplir los siguientes requisitos:
 

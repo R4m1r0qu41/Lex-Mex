@@ -17,4 +17,4 @@ source_sha256: 1311332a5177afc73a9d005e9953e0cd34487524768e6fe099a1c6fef29bdbb7
 
 # Artículo 193
 
-En lo no previsto en este Reglamento en cuanto a las sanciones administrativas, son aplicables supletoriamente las disposiciones del Capítulo Único del Título Cuarto de la [Ley](articulo-2.md) Federal de Procedimiento Administrativo, con excepción del artículo 70-A de dicho ordenamiento.
+En lo no previsto en este Reglamento en cuanto a las sanciones administrativas, son aplicables supletoriamente las disposiciones del Capítulo Único del Título Cuarto de la Ley Federal de Procedimiento Administrativo, con excepción del artículo 70-A de dicho ordenamiento.

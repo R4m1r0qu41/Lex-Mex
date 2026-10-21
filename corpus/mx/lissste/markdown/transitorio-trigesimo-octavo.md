@@ -17,7 +17,7 @@ source_sha256: aa6e0e437331debd80d0086155e2d99885ea5e22cb13353c44eb0b1090f0b4d5
 
 El [Instituto](articulo-6.md) publicará en el Diario Oficial de la Federación en un plazo no mayor al día treinta y uno de julio de dos mil siete, la relación de [Dependencias](articulo-6.md) y [Entidades](articulo-6.md) que a la fecha de entrada en vigor de esta Ley, tengan adeudos por concepto de [Aportaciones](articulo-6.md), [Cuotas](articulo-6.md) y recuperación de créditos a corto y mediano plazo a los [Derechohabientes](articulo-6.md), dando a conocer los estímulos establecidos en esta Ley para el pago de sus adeudos.
 
-Las Dependencias y Entidades que voluntariamente regularicen adeudos con el Instituto, gozarán por única vez del beneficio de la condonación parcial o total de recargos, sin que ello se considere como remisión de deuda para efectos de la Ley del Impuesto sobre la [Renta](articulo-6.md) de acuerdo con las siguientes bases específicas:
+Las Dependencias y Entidades que voluntariamente regularicen adeudos con el Instituto, gozarán por única vez del beneficio de la condonación parcial o total de recargos, sin que ello se considere como remisión de deuda para efectos de la Ley del Impuesto sobre la Renta de acuerdo con las siguientes bases específicas:
 
 A.
 

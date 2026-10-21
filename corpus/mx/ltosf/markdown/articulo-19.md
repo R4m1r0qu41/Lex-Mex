@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LTOSF.pdf
 source_sha256: bf9e443e89a5c0ba268e76f20923ae25195ef5c1ffbacecff36693ca228c3667
 ---
 
+> Capítulo IV
+
 # Artículo 19
 
 El Banco de México estará facultado para regular, mediante disposiciones de carácter general, escuchando la previa opinión de la [Comisión](articulo-3.md) Nacional Bancaria y de Valores, el funcionamiento y la operación de las Cámaras de Compensación de cualquier [Medio de Disposición](articulo-3.md), así como los cargos que éstas efectúen por la realización de sus operaciones. Párrafo reformado DOF 10-01-2014

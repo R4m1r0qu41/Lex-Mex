@@ -43,7 +43,7 @@ XI. Instituto Matías Romero: Es el órgano administrativo desconcentrado de la 
 
 XII. Jefe de Misión: Titular de la representación diplomática, encargado de actuar con tal carácter;
 
-XIII. Jefe de [Oficina Consular](articulo-1-BIS.md): La persona encargada de desempeñar tal función;
+XIII. Jefe de Oficina Consular: La persona encargada de desempeñar tal función;
 
 XIV. Ley: La Ley del Servicio Exterior Mexicano;
 

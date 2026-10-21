@@ -17,9 +17,9 @@ source_sha256: 9f964bc5c075d7cf47e5e9df7c2fbe262eb5bd1794de9b230dbd72026a51ae5e
 
 # Artículo 36
 
-Corresponde a la [Secretaría](articulo-6.md) con base en lo dispuesto en la [Ley](articulo-6.md) General de Salud y demás disposiciones aplicables:
+Corresponde a la [Secretaría](articulo-6.md) con base en lo dispuesto en la Ley General de Salud y demás disposiciones aplicables:
 
-I. Expedir las autorizaciones requeridas por esta Ley;
+I. Expedir las autorizaciones requeridas por esta [Ley](articulo-6.md);
 
 II. Revocar dichas autorizaciones;
 

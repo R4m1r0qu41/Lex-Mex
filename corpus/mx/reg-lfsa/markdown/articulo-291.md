@@ -17,4 +17,4 @@ source_sha256: a3435ac18a1631617fea83ae6a81bad84f456e3e8fd44b69bb6b7ea39425df9c
 
 # Artículo 291
 
-Una vez recibida la solicitud de aprobación, en términos del [artículo anterior](articulo-290.md), la Secretaría emitirá la resolución correspondiente, dentro de los sesenta días hábiles, contados a partir del día hábil siguiente de la recepción de la solicitud. La prevención se realizará conforme a lo establecido en la [Ley](articulo-2.md) Federal de Procedimiento Administrativo.
+Una vez recibida la solicitud de aprobación, en términos del [artículo anterior](articulo-290.md), la Secretaría emitirá la resolución correspondiente, dentro de los sesenta días hábiles, contados a partir del día hábil siguiente de la recepción de la solicitud. La prevención se realizará conforme a lo establecido en la Ley Federal de Procedimiento Administrativo.

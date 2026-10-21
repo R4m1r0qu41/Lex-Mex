@@ -17,7 +17,7 @@ source_sha256: 02ff746c921b436a1ab6c74e5f1bc429976595b1b0f82cb8c5b50db1004128c1
 
 # Artículo 81 Bis
 
-En términos del artículo [302](../../lss/markdown/articulo-302.md), segundo párrafo, de la Ley del Seguro Social y del artículo [251](../../lissste/markdown/articulo-251.md) de la Ley del Instituto de Seguridad y Servicios Sociales de los [Trabajadores](articulo-3o.md) del Estado, las administradoras y las prestadoras de servicio deberán transferir, sin necesidad de resolución judicial, los recursos de aquellos trabajadores que se encuentren en los supuestos referidos en dichos artículos.
+En términos del artículo [302](../../lss/markdown/articulo-302.md), segundo párrafo, de la Ley del Seguro Social y del artículo [251](../../lissste/markdown/articulo-251.md) de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, las administradoras y las prestadoras de servicio deberán transferir, sin necesidad de resolución judicial, los recursos de aquellos trabajadores que se encuentren en los supuestos referidos en dichos artículos.
 
 El proceso para el traspaso de los recursos referidos se sujetará a las reglas de operación que emita el Comité Técnico del Fondo referido en el párrafo anterior.
 

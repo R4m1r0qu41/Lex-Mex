@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-4",
+  "strategy_version": "glossary-extraction-5",
   "instrument_id": "urn:lex-mx:federal:statute:lfcsq",
   "source_sha256": "414c7e193ba776fc660f862c8bf2e8c0d91d35f6566979542132fcac0c82d923",
   "extracted_text_sha256": "cccae8d1a0b783208ad24e353246d02901045d23f99a26d23a1621972d7b6a39",
@@ -51,5 +51,5 @@
   ],
   "imports": [],
   "term_count": 33,
-  "usage_count": 446
+  "usage_count": 440
 }

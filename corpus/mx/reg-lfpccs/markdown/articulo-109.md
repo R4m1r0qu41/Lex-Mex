@@ -17,4 +17,4 @@ source_sha256: 8a999465afe704f31d0f615aa1afb605c395600298a2433e09778463db25da47
 
 # Artículo 109
 
-En toda visita de verificación se harán constar en acta circunstanciada los hechos y omisiones encontrados en la misma, observando las formalidades señaladas en la [Ley](articulo-2.md) Federal de Procedimiento Administrativo.
+En toda visita de verificación se harán constar en acta circunstanciada los hechos y omisiones encontrados en la misma, observando las formalidades señaladas en la Ley Federal de Procedimiento Administrativo.

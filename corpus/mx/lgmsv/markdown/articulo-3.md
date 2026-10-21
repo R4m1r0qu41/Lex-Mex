@@ -31,7 +31,7 @@ VI. Autoridades: Autoridades de los tres órdenes de gobierno en materia de movi
 
 VII. Ayudas Técnicas: Dispositivos tecnológicos y materiales que permiten habilitar, rehabilitar o compensar una o más limitaciones funcionales, motrices, sensoriales o intelectuales de las personas con discapacidad;
 
-VIII. Bases de Datos sobre [Movilidad](articulo-3.md) y Seguridad Vial: Las bases de datos a las que se refiere el artículo [29](articulo-29.md) de la presente Ley;
+VIII. Bases de Datos sobre Movilidad y Seguridad Vial: Las bases de datos a las que se refiere el artículo [29](articulo-29.md) de la presente Ley;
 
 IX. Calle completa: Aquella diseñada para facilitar el tránsito seguro de las personas usuarias de las vías, de conformidad con la jerarquía de la movilidad, que propician la convivencia y los desplazamientos accesibles y eficientes. Consideran criterios de diseño universal, la ampliación de banquetas o espacios compartidos de circulación peatonal y vehicular libres de obstáculos, el redimensionamiento de carriles para promover velocidades seguras, carriles exclusivos para el transporte público, infraestructura ciclista y señalética adecuada y visible en todo momento;
 
@@ -53,7 +53,7 @@ XVII. Enfoque Sistémico: Enfoque que aborda la movilidad en su totalidad e inte
 
 XVIII. Especificaciones técnicas: Parámetros a los que se encuentra sujeto el diseño, funcionalidad y uso tanto de las vías como de los modos de transporte, con el objeto de garantizar la seguridad, salud e integridad de las personas usuarias y la prevención del riesgo, considerando las necesidades diferenciadas de los grupos en situación de vulnerabilidad;
 
-XIX. Estrategia Nacional de Movilidad y Seguridad Vial: Instrumento rector para la conducción de la Política Nacional de Movilidad y Seguridad Vial, que incluye el conjunto de acciones encaminadas a promover la movilidad y la seguridad vial, para implementarlas a través de la coordinación de los tres órdenes de gobierno;
+XIX. Estrategia Nacional de Movilidad y Seguridad Vial: Instrumento rector para la conducción de la Política Nacional de [Movilidad](articulo-3.md) y Seguridad Vial, que incluye el conjunto de acciones encaminadas a promover la movilidad y la seguridad vial, para implementarlas a través de la coordinación de los tres órdenes de gobierno;
 
 XX. Estudio de Impacto de Movilidad: El que realizan las autoridades de los tres órdenes de gobierno en el ámbito de sus funciones, con el fin de evitar o reducir los efectos negativos sobre la calidad de vida de la ciudadanía en materia de movilidad y seguridad vial;
 

@@ -19,9 +19,9 @@ source_sha256: f3f010bc7f5a510b084b5d43ef56a567e9b02b2083c36e50a9d0e8955af28cd6
 
 Para solicitar la autorización y clasificación de las películas, que se pretendan distribuir, comercializar o exhibir públicamente en la República Mexicana, deberá presentarse:
 
-I. Comprobante del pago de los derechos correspondientes, conforme a lo establecido por la [Ley](articulo-3.md) Federal de Derechos;
+I. Comprobante del pago de los derechos correspondientes, conforme a lo establecido por la Ley Federal de Derechos;
 
-II. Entrega de copia nueva de la película a la [Dirección General](articulo-3.md) cuya autorización se solicita, subtitulada al español, en su caso, para posteriormente ser remitida a la [Cineteca](articulo-3.md) para incorporarse al archivo fílmico nacional, salvo lo dispuesto en los artículos 39, párrafo segundo, de la Ley o en tratados o acuerdos internacionales.
+II. Entrega de copia nueva de la película a la [Dirección General](articulo-3.md) cuya autorización se solicita, subtitulada al español, en su caso, para posteriormente ser remitida a la [Cineteca](articulo-3.md) para incorporarse al archivo fílmico nacional, salvo lo dispuesto en los artículos 39, párrafo segundo, de la [Ley](articulo-3.md) o en tratados o acuerdos internacionales.
 
 . III. Solicitud en la forma correspondiente especificando:
 

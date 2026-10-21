@@ -28,24 +28,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lobb:article:2:term-usage:663-666",
-    "provision_id": "urn:lex-mx:federal:statute:lobb:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lobb:term:ley",
-    "span": "Ley",
-    "start_char": 663,
-    "end_char": 666
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lobb:article:2:term-usage:700-703",
-    "provision_id": "urn:lex-mx:federal:statute:lobb:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lobb:term:ley",
-    "span": "Ley",
-    "start_char": 700,
-    "end_char": 703
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lobb:article:3:term-usage:54-65",
     "provision_id": "urn:lex-mx:federal:statute:lobb:article:3",
     "term_id": "urn:lex-mx:federal:statute:lobb:term:institucion",
@@ -136,24 +118,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lobb:article:3:term-usage:1645-1648",
-    "provision_id": "urn:lex-mx:federal:statute:lobb:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lobb:term:ley",
-    "span": "Ley",
-    "start_char": 1645,
-    "end_char": 1648
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lobb:article:3:term-usage:1652-1665",
-    "provision_id": "urn:lex-mx:federal:statute:lobb:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lobb:term:institucion",
-    "span": "Instituciones",
-    "start_char": 1652,
-    "end_char": 1665
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lobb:article:4:term-usage:19-30",
     "provision_id": "urn:lex-mx:federal:statute:lobb:article:4",
     "term_id": "urn:lex-mx:federal:statute:lobb:term:institucion",
@@ -196,33 +160,6 @@
     "span": "Ley",
     "start_char": 103,
     "end_char": 106
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lobb:article:6:term-usage:111-114",
-    "provision_id": "urn:lex-mx:federal:statute:lobb:article:6",
-    "term_id": "urn:lex-mx:federal:statute:lobb:term:ley",
-    "span": "Ley",
-    "start_char": 111,
-    "end_char": 114
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lobb:article:6:term-usage:118-131",
-    "provision_id": "urn:lex-mx:federal:statute:lobb:article:6",
-    "term_id": "urn:lex-mx:federal:statute:lobb:term:institucion",
-    "span": "Instituciones",
-    "start_char": 118,
-    "end_char": 131
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lobb:article:6:term-usage:147-150",
-    "provision_id": "urn:lex-mx:federal:statute:lobb:article:6",
-    "term_id": "urn:lex-mx:federal:statute:lobb:term:ley",
-    "span": "Ley",
-    "start_char": 147,
-    "end_char": 150
   },
   {
     "schema_version": "0.1.0",
@@ -280,24 +217,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lobb:article:7:term-usage:650-653",
-    "provision_id": "urn:lex-mx:federal:statute:lobb:article:7",
-    "term_id": "urn:lex-mx:federal:statute:lobb:term:ley",
-    "span": "Ley",
-    "start_char": 650,
-    "end_char": 653
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lobb:article:7:term-usage:671-684",
-    "provision_id": "urn:lex-mx:federal:statute:lobb:article:7",
-    "term_id": "urn:lex-mx:federal:statute:lobb:term:institucion",
-    "span": "Instituciones",
-    "start_char": 671,
-    "end_char": 684
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lobb:article:7:term-usage:824-830",
     "provision_id": "urn:lex-mx:federal:statute:lobb:article:7",
     "term_id": "urn:lex-mx:federal:statute:lobb:term:sector",
@@ -331,24 +250,6 @@
     "span": "Sector",
     "start_char": 1734,
     "end_char": 1740
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lobb:article:7:term-usage:1832-1835",
-    "provision_id": "urn:lex-mx:federal:statute:lobb:article:7",
-    "term_id": "urn:lex-mx:federal:statute:lobb:term:ley",
-    "span": "Ley",
-    "start_char": 1832,
-    "end_char": 1835
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lobb:article:7:term-usage:1853-1866",
-    "provision_id": "urn:lex-mx:federal:statute:lobb:article:7",
-    "term_id": "urn:lex-mx:federal:statute:lobb:term:institucion",
-    "span": "Instituciones",
-    "start_char": 1853,
-    "end_char": 1866
   },
   {
     "schema_version": "0.1.0",
@@ -406,24 +307,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lobb:article:7:term-usage:3606-3609",
-    "provision_id": "urn:lex-mx:federal:statute:lobb:article:7",
-    "term_id": "urn:lex-mx:federal:statute:lobb:term:ley",
-    "span": "Ley",
-    "start_char": 3606,
-    "end_char": 3609
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lobb:article:7:term-usage:3627-3640",
-    "provision_id": "urn:lex-mx:federal:statute:lobb:article:7",
-    "term_id": "urn:lex-mx:federal:statute:lobb:term:institucion",
-    "span": "Instituciones",
-    "start_char": 3627,
-    "end_char": 3640
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lobb:article:7:term-usage:3862-3873",
     "provision_id": "urn:lex-mx:federal:statute:lobb:article:7",
     "term_id": "urn:lex-mx:federal:statute:lobb:term:institucion",
@@ -457,42 +340,6 @@
     "span": "Institución",
     "start_char": 119,
     "end_char": 130
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lobb:article:8:term-usage:229-232",
-    "provision_id": "urn:lex-mx:federal:statute:lobb:article:8",
-    "term_id": "urn:lex-mx:federal:statute:lobb:term:ley",
-    "span": "Ley",
-    "start_char": 229,
-    "end_char": 232
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lobb:article:8:term-usage:236-249",
-    "provision_id": "urn:lex-mx:federal:statute:lobb:article:8",
-    "term_id": "urn:lex-mx:federal:statute:lobb:term:institucion",
-    "span": "Instituciones",
-    "start_char": 236,
-    "end_char": 249
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lobb:article:8:term-usage:848-851",
-    "provision_id": "urn:lex-mx:federal:statute:lobb:article:8",
-    "term_id": "urn:lex-mx:federal:statute:lobb:term:ley",
-    "span": "Ley",
-    "start_char": 848,
-    "end_char": 851
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lobb:article:8:term-usage:855-868",
-    "provision_id": "urn:lex-mx:federal:statute:lobb:article:8",
-    "term_id": "urn:lex-mx:federal:statute:lobb:term:institucion",
-    "span": "Instituciones",
-    "start_char": 855,
-    "end_char": 868
   },
   {
     "schema_version": "0.1.0",
@@ -541,39 +388,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lobb:article:8:term-usage:2866-2869",
-    "provision_id": "urn:lex-mx:federal:statute:lobb:article:8",
-    "term_id": "urn:lex-mx:federal:statute:lobb:term:ley",
-    "span": "Ley",
-    "start_char": 2866,
-    "end_char": 2869
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lobb:article:8:term-usage:2873-2886",
-    "provision_id": "urn:lex-mx:federal:statute:lobb:article:8",
-    "term_id": "urn:lex-mx:federal:statute:lobb:term:institucion",
-    "span": "Instituciones",
-    "start_char": 2873,
-    "end_char": 2886
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lobb:article:8:term-usage:3389-3395",
     "provision_id": "urn:lex-mx:federal:statute:lobb:article:8",
     "term_id": "urn:lex-mx:federal:statute:lobb:term:sector",
     "span": "Sector",
     "start_char": 3389,
     "end_char": 3395
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lobb:article:8:term-usage:3702-3705",
-    "provision_id": "urn:lex-mx:federal:statute:lobb:article:8",
-    "term_id": "urn:lex-mx:federal:statute:lobb:term:ley",
-    "span": "Ley",
-    "start_char": 3702,
-    "end_char": 3705
   },
   {
     "schema_version": "0.1.0",
@@ -601,33 +421,6 @@
     "span": "Secretaría",
     "start_char": 3,
     "end_char": 13
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lobb:article:9:term-usage:72-75",
-    "provision_id": "urn:lex-mx:federal:statute:lobb:article:9",
-    "term_id": "urn:lex-mx:federal:statute:lobb:term:ley",
-    "span": "Ley",
-    "start_char": 72,
-    "end_char": 75
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lobb:article:9:term-usage:79-92",
-    "provision_id": "urn:lex-mx:federal:statute:lobb:article:9",
-    "term_id": "urn:lex-mx:federal:statute:lobb:term:institucion",
-    "span": "Instituciones",
-    "start_char": 79,
-    "end_char": 92
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lobb:article:9:term-usage:115-118",
-    "provision_id": "urn:lex-mx:federal:statute:lobb:article:9",
-    "term_id": "urn:lex-mx:federal:statute:lobb:term:ley",
-    "span": "Ley",
-    "start_char": 115,
-    "end_char": 118
   },
   {
     "schema_version": "0.1.0",
@@ -685,33 +478,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lobb:article:11:term-usage:73-76",
-    "provision_id": "urn:lex-mx:federal:statute:lobb:article:11",
-    "term_id": "urn:lex-mx:federal:statute:lobb:term:ley",
-    "span": "Ley",
-    "start_char": 73,
-    "end_char": 76
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lobb:article:11:term-usage:212-215",
-    "provision_id": "urn:lex-mx:federal:statute:lobb:article:11",
-    "term_id": "urn:lex-mx:federal:statute:lobb:term:ley",
-    "span": "Ley",
-    "start_char": 212,
-    "end_char": 215
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lobb:article:11:term-usage:219-232",
-    "provision_id": "urn:lex-mx:federal:statute:lobb:article:11",
-    "term_id": "urn:lex-mx:federal:statute:lobb:term:institucion",
-    "span": "Instituciones",
-    "start_char": 219,
-    "end_char": 232
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lobb:article:11:term-usage:292-303",
     "provision_id": "urn:lex-mx:federal:statute:lobb:article:11",
     "term_id": "urn:lex-mx:federal:statute:lobb:term:institucion",
@@ -739,42 +505,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lobb:article:12:term-usage:628-631",
-    "provision_id": "urn:lex-mx:federal:statute:lobb:article:12",
-    "term_id": "urn:lex-mx:federal:statute:lobb:term:ley",
-    "span": "Ley",
-    "start_char": 628,
-    "end_char": 631
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lobb:article:12:term-usage:635-648",
-    "provision_id": "urn:lex-mx:federal:statute:lobb:article:12",
-    "term_id": "urn:lex-mx:federal:statute:lobb:term:institucion",
-    "span": "Instituciones",
-    "start_char": 635,
-    "end_char": 648
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lobb:article:13:term-usage:54-57",
-    "provision_id": "urn:lex-mx:federal:statute:lobb:article:13",
-    "term_id": "urn:lex-mx:federal:statute:lobb:term:ley",
-    "span": "Ley",
-    "start_char": 54,
-    "end_char": 57
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lobb:article:13:term-usage:61-74",
-    "provision_id": "urn:lex-mx:federal:statute:lobb:article:13",
-    "term_id": "urn:lex-mx:federal:statute:lobb:term:institucion",
-    "span": "Instituciones",
-    "start_char": 61,
-    "end_char": 74
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lobb:article:13:term-usage:107-117",
     "provision_id": "urn:lex-mx:federal:statute:lobb:article:13",
     "term_id": "urn:lex-mx:federal:statute:lobb:term:secretaria",
@@ -790,24 +520,6 @@
     "span": "Secretaría",
     "start_char": 3,
     "end_char": 13
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lobb:article:14:term-usage:153-156",
-    "provision_id": "urn:lex-mx:federal:statute:lobb:article:14",
-    "term_id": "urn:lex-mx:federal:statute:lobb:term:ley",
-    "span": "Ley",
-    "start_char": 153,
-    "end_char": 156
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lobb:article:14:term-usage:160-173",
-    "provision_id": "urn:lex-mx:federal:statute:lobb:article:14",
-    "term_id": "urn:lex-mx:federal:statute:lobb:term:institucion",
-    "span": "Instituciones",
-    "start_char": 160,
-    "end_char": 173
   },
   {
     "schema_version": "0.1.0",
@@ -874,24 +586,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lobb:article:19:term-usage:146-149",
-    "provision_id": "urn:lex-mx:federal:statute:lobb:article:19",
-    "term_id": "urn:lex-mx:federal:statute:lobb:term:ley",
-    "span": "Ley",
-    "start_char": 146,
-    "end_char": 149
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lobb:article:19:term-usage:153-166",
-    "provision_id": "urn:lex-mx:federal:statute:lobb:article:19",
-    "term_id": "urn:lex-mx:federal:statute:lobb:term:institucion",
-    "span": "Instituciones",
-    "start_char": 153,
-    "end_char": 166
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lobb:article:19:term-usage:904-915",
     "provision_id": "urn:lex-mx:federal:statute:lobb:article:19",
     "term_id": "urn:lex-mx:federal:statute:lobb:term:institucion",
@@ -946,66 +640,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lobb:article:21:term-usage:121-124",
-    "provision_id": "urn:lex-mx:federal:statute:lobb:article:21",
-    "term_id": "urn:lex-mx:federal:statute:lobb:term:ley",
-    "span": "Ley",
-    "start_char": 121,
-    "end_char": 124
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lobb:article:21:term-usage:128-141",
-    "provision_id": "urn:lex-mx:federal:statute:lobb:article:21",
-    "term_id": "urn:lex-mx:federal:statute:lobb:term:institucion",
-    "span": "Instituciones",
-    "start_char": 128,
-    "end_char": 141
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lobb:article:21:term-usage:251-262",
     "provision_id": "urn:lex-mx:federal:statute:lobb:article:21",
     "term_id": "urn:lex-mx:federal:statute:lobb:term:institucion",
     "span": "Institución",
     "start_char": 251,
     "end_char": 262
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lobb:article:21:term-usage:383-386",
-    "provision_id": "urn:lex-mx:federal:statute:lobb:article:21",
-    "term_id": "urn:lex-mx:federal:statute:lobb:term:ley",
-    "span": "Ley",
-    "start_char": 383,
-    "end_char": 386
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lobb:article:21:term-usage:390-403",
-    "provision_id": "urn:lex-mx:federal:statute:lobb:article:21",
-    "term_id": "urn:lex-mx:federal:statute:lobb:term:institucion",
-    "span": "Instituciones",
-    "start_char": 390,
-    "end_char": 403
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lobb:article:22:term-usage:70-73",
-    "provision_id": "urn:lex-mx:federal:statute:lobb:article:22",
-    "term_id": "urn:lex-mx:federal:statute:lobb:term:ley",
-    "span": "Ley",
-    "start_char": 70,
-    "end_char": 73
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lobb:article:22:term-usage:77-90",
-    "provision_id": "urn:lex-mx:federal:statute:lobb:article:22",
-    "term_id": "urn:lex-mx:federal:statute:lobb:term:institucion",
-    "span": "Instituciones",
-    "start_char": 77,
-    "end_char": 90
   },
   {
     "schema_version": "0.1.0",
@@ -1054,24 +694,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lobb:article:22:term-usage:1638-1641",
-    "provision_id": "urn:lex-mx:federal:statute:lobb:article:22",
-    "term_id": "urn:lex-mx:federal:statute:lobb:term:ley",
-    "span": "Ley",
-    "start_char": 1638,
-    "end_char": 1641
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lobb:article:22:term-usage:1645-1658",
-    "provision_id": "urn:lex-mx:federal:statute:lobb:article:22",
-    "term_id": "urn:lex-mx:federal:statute:lobb:term:institucion",
-    "span": "Instituciones",
-    "start_char": 1645,
-    "end_char": 1658
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lobb:article:22:term-usage:2236-2247",
     "provision_id": "urn:lex-mx:federal:statute:lobb:article:22",
     "term_id": "urn:lex-mx:federal:statute:lobb:term:institucion",
@@ -1096,24 +718,6 @@
     "span": "Institución",
     "start_char": 2810,
     "end_char": 2821
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lobb:article:22:term-usage:3434-3437",
-    "provision_id": "urn:lex-mx:federal:statute:lobb:article:22",
-    "term_id": "urn:lex-mx:federal:statute:lobb:term:ley",
-    "span": "Ley",
-    "start_char": 3434,
-    "end_char": 3437
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lobb:article:22:term-usage:3441-3454",
-    "provision_id": "urn:lex-mx:federal:statute:lobb:article:22",
-    "term_id": "urn:lex-mx:federal:statute:lobb:term:institucion",
-    "span": "Instituciones",
-    "start_char": 3441,
-    "end_char": 3454
   },
   {
     "schema_version": "0.1.0",
@@ -1159,24 +763,6 @@
     "span": "Institución",
     "start_char": 4771,
     "end_char": 4782
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lobb:article:22:term-usage:5134-5137",
-    "provision_id": "urn:lex-mx:federal:statute:lobb:article:22",
-    "term_id": "urn:lex-mx:federal:statute:lobb:term:ley",
-    "span": "Ley",
-    "start_char": 5134,
-    "end_char": 5137
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lobb:article:22:term-usage:5141-5154",
-    "provision_id": "urn:lex-mx:federal:statute:lobb:article:22",
-    "term_id": "urn:lex-mx:federal:statute:lobb:term:institucion",
-    "span": "Instituciones",
-    "start_char": 5141,
-    "end_char": 5154
   },
   {
     "schema_version": "0.1.0",
@@ -1279,24 +865,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lobb:article:24:term-usage:219-222",
-    "provision_id": "urn:lex-mx:federal:statute:lobb:article:24",
-    "term_id": "urn:lex-mx:federal:statute:lobb:term:ley",
-    "span": "Ley",
-    "start_char": 219,
-    "end_char": 222
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lobb:article:24:term-usage:226-239",
-    "provision_id": "urn:lex-mx:federal:statute:lobb:article:24",
-    "term_id": "urn:lex-mx:federal:statute:lobb:term:institucion",
-    "span": "Instituciones",
-    "start_char": 226,
-    "end_char": 239
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lobb:article:25:term-usage:134-145",
     "provision_id": "urn:lex-mx:federal:statute:lobb:article:25",
     "term_id": "urn:lex-mx:federal:statute:lobb:term:institucion",
@@ -1339,24 +907,6 @@
     "span": "Institución",
     "start_char": 1758,
     "end_char": 1769
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lobb:article:25:term-usage:1837-1840",
-    "provision_id": "urn:lex-mx:federal:statute:lobb:article:25",
-    "term_id": "urn:lex-mx:federal:statute:lobb:term:ley",
-    "span": "Ley",
-    "start_char": 1837,
-    "end_char": 1840
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lobb:article:25:term-usage:1844-1857",
-    "provision_id": "urn:lex-mx:federal:statute:lobb:article:25",
-    "term_id": "urn:lex-mx:federal:statute:lobb:term:institucion",
-    "span": "Instituciones",
-    "start_char": 1844,
-    "end_char": 1857
   },
   {
     "schema_version": "0.1.0",
@@ -1540,24 +1090,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lobb:article:27:term-usage:92-95",
-    "provision_id": "urn:lex-mx:federal:statute:lobb:article:27",
-    "term_id": "urn:lex-mx:federal:statute:lobb:term:ley",
-    "span": "Ley",
-    "start_char": 92,
-    "end_char": 95
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lobb:article:27:term-usage:99-112",
-    "provision_id": "urn:lex-mx:federal:statute:lobb:article:27",
-    "term_id": "urn:lex-mx:federal:statute:lobb:term:institucion",
-    "span": "Instituciones",
-    "start_char": 99,
-    "end_char": 112
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lobb:article:28:term-usage:61-71",
     "provision_id": "urn:lex-mx:federal:statute:lobb:article:28",
     "term_id": "urn:lex-mx:federal:statute:lobb:term:secretaria",
@@ -1630,24 +1162,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lobb:article:32:term-usage:460-463",
-    "provision_id": "urn:lex-mx:federal:statute:lobb:article:32",
-    "term_id": "urn:lex-mx:federal:statute:lobb:term:ley",
-    "span": "Ley",
-    "start_char": 460,
-    "end_char": 463
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lobb:article:32:term-usage:467-480",
-    "provision_id": "urn:lex-mx:federal:statute:lobb:article:32",
-    "term_id": "urn:lex-mx:federal:statute:lobb:term:institucion",
-    "span": "Instituciones",
-    "start_char": 467,
-    "end_char": 480
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lobb:article:32:term-usage:530-541",
     "provision_id": "urn:lex-mx:federal:statute:lobb:article:32",
     "term_id": "urn:lex-mx:federal:statute:lobb:term:institucion",
@@ -1663,24 +1177,6 @@
     "span": "Institución",
     "start_char": 34,
     "end_char": 45
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lobb:article:33:term-usage:329-332",
-    "provision_id": "urn:lex-mx:federal:statute:lobb:article:33",
-    "term_id": "urn:lex-mx:federal:statute:lobb:term:ley",
-    "span": "Ley",
-    "start_char": 329,
-    "end_char": 332
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lobb:article:33:term-usage:336-349",
-    "provision_id": "urn:lex-mx:federal:statute:lobb:article:33",
-    "term_id": "urn:lex-mx:federal:statute:lobb:term:institucion",
-    "span": "Instituciones",
-    "start_char": 336,
-    "end_char": 349
   },
   {
     "schema_version": "0.1.0",
@@ -1729,15 +1225,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lobb:article:36:term-usage:104-107",
-    "provision_id": "urn:lex-mx:federal:statute:lobb:article:36",
-    "term_id": "urn:lex-mx:federal:statute:lobb:term:ley",
-    "span": "Ley",
-    "start_char": 104,
-    "end_char": 107
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lobb:article:36:term-usage:288-291",
     "provision_id": "urn:lex-mx:federal:statute:lobb:article:36",
     "term_id": "urn:lex-mx:federal:statute:lobb:term:ley",
@@ -1774,30 +1261,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lobb:article:36:term-usage:1075-1078",
-    "provision_id": "urn:lex-mx:federal:statute:lobb:article:36",
-    "term_id": "urn:lex-mx:federal:statute:lobb:term:ley",
-    "span": "Ley",
-    "start_char": 1075,
-    "end_char": 1078
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lobb:article:36:term-usage:1440-1443",
     "provision_id": "urn:lex-mx:federal:statute:lobb:article:36",
     "term_id": "urn:lex-mx:federal:statute:lobb:term:ley",
     "span": "Ley",
     "start_char": 1440,
     "end_char": 1443
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lobb:article:36:term-usage:1742-1745",
-    "provision_id": "urn:lex-mx:federal:statute:lobb:article:36",
-    "term_id": "urn:lex-mx:federal:statute:lobb:term:ley",
-    "span": "Ley",
-    "start_char": 1742,
-    "end_char": 1745
   },
   {
     "schema_version": "0.1.0",
@@ -2104,24 +1573,6 @@
     "span": "Ley",
     "start_char": 157,
     "end_char": 160
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lobb:transitory:cuarto:term-usage:275-278",
-    "provision_id": "urn:lex-mx:federal:statute:lobb:transitory:cuarto",
-    "term_id": "urn:lex-mx:federal:statute:lobb:term:ley",
-    "span": "Ley",
-    "start_char": 275,
-    "end_char": 278
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lobb:transitory:cuarto:term-usage:282-295",
-    "provision_id": "urn:lex-mx:federal:statute:lobb:transitory:cuarto",
-    "term_id": "urn:lex-mx:federal:statute:lobb:term:institucion",
-    "span": "Instituciones",
-    "start_char": 282,
-    "end_char": 295
   },
   {
     "schema_version": "0.1.0",

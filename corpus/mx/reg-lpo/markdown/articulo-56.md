@@ -27,4 +27,4 @@ II. La congruencia de los programas concertados con la Política Nacional de Pro
 
 III. Los compromisos de las partes de acuerdo con su competencia y objeto, respectivamente, y
 
-IV. Los demás aspectos regulados en la [Ley](articulo-2.md) Federal de Presupuesto y Responsabilidad Hacendaria, en las disposiciones presupuestarias y programáticas, así como en los ordenamientos jurídicos que resulten aplicables.
+IV. Los demás aspectos regulados en la Ley Federal de Presupuesto y Responsabilidad Hacendaria, en las disposiciones presupuestarias y programáticas, así como en los ordenamientos jurídicos que resulten aplicables.

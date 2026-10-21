@@ -3700,15 +3700,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:190-bis-1:term-usage:228-231",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:190-bis-1",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:term:ley",
-    "span": "Ley",
-    "start_char": 228,
-    "end_char": 231
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:190-bis-1:term-usage:984-994",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:190-bis-1",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:term:secretaria",
@@ -3769,15 +3760,6 @@
     "span": "Normas",
     "start_char": 1092,
     "end_char": 1098
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:190-bis-3:term-usage:472-475",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:190-bis-3",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:term:ley",
-    "span": "Ley",
-    "start_char": 472,
-    "end_char": 475
   },
   {
     "schema_version": "0.1.0",

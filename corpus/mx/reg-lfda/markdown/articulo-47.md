@@ -17,4 +17,4 @@ source_sha256: 2beb1a3a5c23de93f1588ce6d4e4c209e73a8d747f19e3165706f38abcee8fe3
 
 # Artículo 47
 
-La reproducción, comunicación pública o cualquier otra forma de uso, así como el ejercicio de los derechos morales sobre los símbolos patrios deberán apegarse a lo dispuesto en la [Ley](articulo-2o.md) sobre el Escudo, la Bandera y el Himno Nacionales.
+La reproducción, comunicación pública o cualquier otra forma de uso, así como el ejercicio de los derechos morales sobre los símbolos patrios deberán apegarse a lo dispuesto en la Ley sobre el Escudo, la Bandera y el Himno Nacionales.

@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-4",
+  "strategy_version": "glossary-extraction-5",
   "instrument_id": "urn:lex-mx:federal:statute:lgmde",
   "source_sha256": "9e8c5600d8747b4b1db2f9591ba40210d444040cb46fd1ad7732b6bd0e0ad56b",
   "extracted_text_sha256": "d98ed646da9d270c37c77cfc3425db5ba2c1d82b1be38101ee2da76aa043f975",
@@ -33,5 +33,5 @@
   ],
   "imports": [],
   "term_count": 15,
-  "usage_count": 35
+  "usage_count": 33
 }

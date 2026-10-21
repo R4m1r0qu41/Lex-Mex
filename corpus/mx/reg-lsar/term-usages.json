@@ -37,60 +37,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:2:term-usage:631-640",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:2",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:fovissste",
-    "span": "FOVISSSTE",
-    "start_char": 631,
-    "end_char": 640
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:2:term-usage:774-777",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:2",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:ley",
-    "span": "Ley",
-    "start_char": 774,
-    "end_char": 777
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:2:term-usage:833-845",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:2",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:trabajadores",
-    "span": "Trabajadores",
-    "start_char": 833,
-    "end_char": 845
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:2:term-usage:878-887",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:2",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:infonavit",
-    "span": "INFONAVIT",
-    "start_char": 878,
-    "end_char": 887
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:2:term-usage:987-990",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:2",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:ley",
-    "span": "Ley",
-    "start_char": 987,
-    "end_char": 990
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:2:term-usage:1048-1060",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:2",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:trabajadores",
-    "span": "Trabajadores",
-    "start_char": 1048,
-    "end_char": 1060
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lsar:article:2:term-usage:1131-1145",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:administradora",
@@ -127,15 +73,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:2:term-usage:1874-1877",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:2",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:ley",
-    "span": "Ley",
-    "start_char": 1874,
-    "end_char": 1877
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lsar:article:2:term-usage:2036-2051",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:administradora",
@@ -169,51 +106,6 @@
     "span": "Administradora",
     "start_char": 2154,
     "end_char": 2168
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:2:term-usage:2241-2244",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:2",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:ley",
-    "span": "Ley",
-    "start_char": 2241,
-    "end_char": 2244
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:2:term-usage:2267-2270",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:2",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:ley",
-    "span": "Ley",
-    "start_char": 2267,
-    "end_char": 2270
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:2:term-usage:2328-2340",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:2",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:trabajadores",
-    "span": "Trabajadores",
-    "start_char": 2328,
-    "end_char": 2340
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:2:term-usage:2346-2349",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:2",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:ley",
-    "span": "Ley",
-    "start_char": 2346,
-    "end_char": 2349
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:2:term-usage:2405-2417",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:2",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:trabajadores",
-    "span": "Trabajadores",
-    "start_char": 2405,
-    "end_char": 2417
   },
   {
     "schema_version": "0.1.0",
@@ -307,15 +199,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:2:term-usage:3145-3155",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:2",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:asignacion",
-    "span": "Asignación",
-    "start_char": 3145,
-    "end_char": 3155
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lsar:article:2:term-usage:3276-3291",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:administradora",
@@ -331,15 +214,6 @@
     "span": "Asignación",
     "start_char": 3336,
     "end_char": 3346
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:2:term-usage:3521-3530",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:2",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:traspaso",
-    "span": "Traspasos",
-    "start_char": 3521,
-    "end_char": 3530
   },
   {
     "schema_version": "0.1.0",
@@ -379,33 +253,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:2:term-usage:4602-4605",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:2",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:ley",
-    "span": "Ley",
-    "start_char": 4602,
-    "end_char": 4605
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:2:term-usage:4757-4760",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:2",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:ley",
-    "span": "Ley",
-    "start_char": 4757,
-    "end_char": 4760
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:2:term-usage:4816-4828",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:2",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:trabajadores",
-    "span": "Trabajadores",
-    "start_char": 4816,
-    "end_char": 4828
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lsar:article:2:term-usage:4975-4990",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:administradora",
@@ -421,15 +268,6 @@
     "span": "Trabajadores",
     "start_char": 5214,
     "end_char": 5226
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:2:term-usage:5317-5325",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:2",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:traspaso",
-    "span": "Traspaso",
-    "start_char": 5317,
-    "end_char": 5325
   },
   {
     "schema_version": "0.1.0",
@@ -496,93 +334,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:2:term-usage:5985-5988",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:2",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:ley",
-    "span": "Ley",
-    "start_char": 5985,
-    "end_char": 5988
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:2:term-usage:6044-6056",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:2",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:trabajadores",
-    "span": "Trabajadores",
-    "start_char": 6044,
-    "end_char": 6056
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:2:term-usage:6093-6097",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:2",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:imss",
-    "span": "IMSS",
-    "start_char": 6093,
-    "end_char": 6097
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:2:term-usage:6220-6223",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:2",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:ley",
-    "span": "Ley",
-    "start_char": 6220,
-    "end_char": 6223
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:2:term-usage:6268-6274",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:2",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:issste",
-    "span": "ISSSTE",
-    "start_char": 6268,
-    "end_char": 6274
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:2:term-usage:6385-6388",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:2",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:ley",
-    "span": "Ley",
-    "start_char": 6385,
-    "end_char": 6388
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:2:term-usage:6444-6456",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:2",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:trabajadores",
-    "span": "Trabajadores",
-    "start_char": 6444,
-    "end_char": 6456
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lsar:article:2:term-usage:6532-6557",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:aportaciones-al-infonavit",
     "span": "Aportaciones al INFONAVIT",
     "start_char": 6532,
     "end_char": 6557
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:2:term-usage:6629-6632",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:2",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:ley",
-    "span": "Ley",
-    "start_char": 6629,
-    "end_char": 6632
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:2:term-usage:6690-6702",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:2",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:trabajadores",
-    "span": "Trabajadores",
-    "start_char": 6690,
-    "end_char": 6702
   },
   {
     "schema_version": "0.1.0",
@@ -1261,15 +1018,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:21:term-usage:352-355",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:21",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:ley",
-    "span": "Ley",
-    "start_char": 352,
-    "end_char": 355
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lsar:article:21:term-usage:1463-1475",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:21",
     "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:trabajadores",
@@ -1297,15 +1045,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:22:term-usage:101-104",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:22",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:ley",
-    "span": "Ley",
-    "start_char": 101,
-    "end_char": 104
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lsar:article:22:term-usage:421-424",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:22",
     "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:ley",
@@ -1321,15 +1060,6 @@
     "span": "Administradoras",
     "start_char": 430,
     "end_char": 445
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:22:term-usage:706-709",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:22",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:ley",
-    "span": "Ley",
-    "start_char": 706,
-    "end_char": 709
   },
   {
     "schema_version": "0.1.0",
@@ -1375,15 +1105,6 @@
     "span": "Ley",
     "start_char": 128,
     "end_char": 131
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:25:term-usage:216-219",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:25",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:ley",
-    "span": "Ley",
-    "start_char": 216,
-    "end_char": 219
   },
   {
     "schema_version": "0.1.0",
@@ -1684,33 +1405,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:33:term-usage:2242-2245",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:33",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:ley",
-    "span": "Ley",
-    "start_char": 2242,
-    "end_char": 2245
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:33:term-usage:2268-2271",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:33",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:ley",
-    "span": "Ley",
-    "start_char": 2268,
-    "end_char": 2271
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:33:term-usage:2327-2339",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:33",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:trabajadores",
-    "span": "Trabajadores",
-    "start_char": 2327,
-    "end_char": 2339
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lsar:article:33:term-usage:2355-2358",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:33",
     "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:ley",
@@ -1852,15 +1546,6 @@
     "span": "IMSS",
     "start_char": 160,
     "end_char": 164
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:35:term-usage:245-248",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:35",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:ley",
-    "span": "Ley",
-    "start_char": 245,
-    "end_char": 248
   },
   {
     "schema_version": "0.1.0",
@@ -2500,15 +2185,6 @@
     "span": "Administradora",
     "start_char": 2684,
     "end_char": 2698
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:41:term-usage:2845-2848",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:41",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:ley",
-    "span": "Ley",
-    "start_char": 2845,
-    "end_char": 2848
   },
   {
     "schema_version": "0.1.0",
@@ -3538,24 +3214,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:53:term-usage:1541-1544",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:53",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:ley",
-    "span": "Ley",
-    "start_char": 1541,
-    "end_char": 1544
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:53:term-usage:1627-1630",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:53",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:ley",
-    "span": "Ley",
-    "start_char": 1627,
-    "end_char": 1630
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lsar:article:54:term-usage:4-19",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:54",
     "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:administradora",
@@ -3625,24 +3283,6 @@
     "span": "Administradoras",
     "start_char": 4,
     "end_char": 19
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:55:term-usage:729-732",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:55",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:ley",
-    "span": "Ley",
-    "start_char": 729,
-    "end_char": 732
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:55:term-usage:790-802",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:55",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:trabajadores",
-    "span": "Trabajadores",
-    "start_char": 790,
-    "end_char": 802
   },
   {
     "schema_version": "0.1.0",
@@ -3727,15 +3367,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:57:term-usage:352-355",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:57",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:ley",
-    "span": "Ley",
-    "start_char": 352,
-    "end_char": 355
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lsar:article:57:term-usage:419-425",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:57",
     "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:issste",
@@ -3751,24 +3382,6 @@
     "span": "Trabajadores",
     "start_char": 458,
     "end_char": 470
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:57:term-usage:484-487",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:57",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:ley",
-    "span": "Ley",
-    "start_char": 484,
-    "end_char": 487
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:57:term-usage:543-555",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:57",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:trabajadores",
-    "span": "Trabajadores",
-    "start_char": 543,
-    "end_char": 555
   },
   {
     "schema_version": "0.1.0",
@@ -3904,33 +3517,6 @@
     "span": "Seguro de RCV",
     "start_char": 1786,
     "end_char": 1799
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:57:term-usage:1865-1868",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:57",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:ley",
-    "span": "Ley",
-    "start_char": 1865,
-    "end_char": 1868
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:57:term-usage:1912-1915",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:57",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:ley",
-    "span": "Ley",
-    "start_char": 1912,
-    "end_char": 1915
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:57:term-usage:1971-1983",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:57",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:trabajadores",
-    "span": "Trabajadores",
-    "start_char": 1971,
-    "end_char": 1983
   },
   {
     "schema_version": "0.1.0",
@@ -4123,15 +3709,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:62:term-usage:359-362",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:62",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:ley",
-    "span": "Ley",
-    "start_char": 359,
-    "end_char": 362
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lsar:article:62:term-usage:395-409",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:62",
     "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:administradora",
@@ -4177,24 +3754,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:62:term-usage:721-724",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:62",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:ley",
-    "span": "Ley",
-    "start_char": 721,
-    "end_char": 724
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:62:term-usage:780-792",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:62",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:trabajadores",
-    "span": "Trabajadores",
-    "start_char": 780,
-    "end_char": 792
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lsar:article:62:term-usage:837-851",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:62",
     "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:administradora",
@@ -4210,24 +3769,6 @@
     "span": "Trabajadores",
     "start_char": 962,
     "end_char": 974
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:62:term-usage:1080-1083",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:62",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:ley",
-    "span": "Ley",
-    "start_char": 1080,
-    "end_char": 1083
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:62:term-usage:1139-1151",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:62",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:trabajadores",
-    "span": "Trabajadores",
-    "start_char": 1139,
-    "end_char": 1151
   },
   {
     "schema_version": "0.1.0",
@@ -5158,24 +4699,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:68:term-usage:3182-3185",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:68",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:ley",
-    "span": "Ley",
-    "start_char": 3182,
-    "end_char": 3185
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:68:term-usage:3243-3255",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:68",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:trabajadores",
-    "span": "Trabajadores",
-    "start_char": 3243,
-    "end_char": 3255
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lsar:article:68:term-usage:3382-3390",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:68",
     "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:traspaso",
@@ -5191,24 +4714,6 @@
     "span": "Trabajadores",
     "start_char": 3453,
     "end_char": 3465
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:68:term-usage:3574-3577",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:68",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:ley",
-    "span": "Ley",
-    "start_char": 3574,
-    "end_char": 3577
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:68:term-usage:3633-3645",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:68",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:trabajadores",
-    "span": "Trabajadores",
-    "start_char": 3633,
-    "end_char": 3645
   },
   {
     "schema_version": "0.1.0",
@@ -5806,15 +5311,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:73:term-usage:730-733",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:73",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:ley",
-    "span": "Ley",
-    "start_char": 730,
-    "end_char": 733
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lsar:article:73:term-usage:1028-1032",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:73",
     "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:imss",
@@ -5902,24 +5398,6 @@
     "span": "Trabajadores",
     "start_char": 431,
     "end_char": 443
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:74:term-usage:550-553",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:74",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:ley",
-    "span": "Ley",
-    "start_char": 550,
-    "end_char": 553
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:74:term-usage:611-623",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:74",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:trabajadores",
-    "span": "Trabajadores",
-    "start_char": 611,
-    "end_char": 623
   },
   {
     "schema_version": "0.1.0",
@@ -6442,33 +5920,6 @@
     "span": "Administradora",
     "start_char": 197,
     "end_char": 211
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:99:term-usage:162-165",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:99",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:ley",
-    "span": "Ley",
-    "start_char": 162,
-    "end_char": 165
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:99:term-usage:195-198",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:99",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:ley",
-    "span": "Ley",
-    "start_char": 195,
-    "end_char": 198
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:99:term-usage:254-266",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:99",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:trabajadores",
-    "span": "Trabajadores",
-    "start_char": 254,
-    "end_char": 266
   },
   {
     "schema_version": "0.1.0",

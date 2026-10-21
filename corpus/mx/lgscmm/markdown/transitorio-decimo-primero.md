@@ -15,4 +15,4 @@ source_sha256: 40a949085c5ebbc522c1145f4a48fd04c4d1dc0c18592fd3a665b8d0dabeef87
 
 # Décimo Primero
 
-Las menciones que en otras disposiciones de carácter federal se hagan a la [Ley](articulo-7.md) General del Servicio Profesional Docente y al Servicio Profesional Docente, se entenderán referidas a la Ley General del [Sistema](articulo-7.md) para la Carrera de las Maestras y los Maestros y al Sistema para la Carrera de las Maestras y los Maestros, respectivamente.
+Las menciones que en otras disposiciones de carácter federal se hagan a la [Ley](articulo-7.md) General del Servicio Profesional Docente y al Servicio Profesional Docente, se entenderán referidas a la Ley General del Sistema para la Carrera de las Maestras y los Maestros y al [Sistema](articulo-7.md) para la Carrera de las Maestras y los Maestros, respectivamente.

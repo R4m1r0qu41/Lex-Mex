@@ -23,7 +23,7 @@ I. Asilo Político: Protección que el Estado Mexicano otorga a un extranjero co
 
 II. Asilado: El extranjero que encontrándose en el supuesto establecido en el artículo 61 de la Ley recibe la protección del Estado Mexicano.
 
-III. Fundados Temores: Los actos y hechos que den o hayan dado lugar a una persecución, y que por su naturaleza, carácter reiterado, o bien, por una acumulación de acciones por parte de un tercero, ponen o podrían poner en riesgo la vida, la libertad o la seguridad de una persona. IV. Ley: Ley sobre Refugiados, [Protección Complementaria](articulo-2.md) y [Asilo Político](articulo-2.md).
+III. Fundados Temores: Los actos y hechos que den o hayan dado lugar a una persecución, y que por su naturaleza, carácter reiterado, o bien, por una acumulación de acciones por parte de un tercero, ponen o podrían poner en riesgo la vida, la libertad o la seguridad de una persona. IV. Ley: Ley sobre Refugiados, Protección Complementaria y Asilo Político.
 
 V. Reglamento: Reglamento de la Ley sobre Refugiados, Protección Complementaria y Asilo Político.
 
@@ -39,7 +39,7 @@ X. Secretaría: Secretaría de Gobernación.
 
 XI. Solicitante de Asilo Político: El extranjero que solicita a la Secretaría de Relaciones Exteriores, a sus delegaciones localizadas fuera del Distrito Federal o a la [Representación](articulo-2.md), según corresponda, el otorgamiento de asilo político.
 
-XII. Solicitante de la [Condición de Refugiado](articulo-2.md): El extranjero que solicita a la Secretaría el reconocimiento de la condición de refugiado, independientemente de su situación migratoria.
+XII. Solicitante de la Condición de Refugiado: El extranjero que solicita a la Secretaría el reconocimiento de la condición de refugiado, independientemente de su situación migratoria.
 
 XIII. Interculturalidad. El principio de política que asegura la inclusión igualitaria en sociedades culturalmente diversas en un plano de equidad real y dignidad humana, basado en la salvaguarda, respeto y ejercicio de las libertades y derechos humanos. Fomenta la interacción e interrelación entre personas de diferentes orígenes e identidades, personales y culturales. Fracción adicionada DOF 18-02-2022
 

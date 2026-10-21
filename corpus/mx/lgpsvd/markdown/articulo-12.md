@@ -19,6 +19,6 @@ source_sha256: 2d9d70a5bf906056c4a570d1ec3edf669b1ca2aa9b5a6b335b42b895447740ab
 
 El [Consejo Nacional](articulo-4.md) será la máxima instancia para la coordinación y definición de la política de prevención social de la violencia y la delincuencia.
 
-El Consejo Nacional contará con el [Secretariado Ejecutivo](articulo-4.md) del Sistema Nacional de Seguridad Pública para coordinar e implementar la política de prevención social de la violencia y la delincuencia, y éste se apoyará para ello en el [Centro Nacional](articulo-4.md), en los términos que señala la [Ley](articulo-4.md) General del Sistema Nacional de Seguridad Pública y demás normativa aplicable.
+El Consejo Nacional contará con el [Secretariado Ejecutivo](articulo-4.md) del Sistema Nacional de Seguridad Pública para coordinar e implementar la política de prevención social de la violencia y la delincuencia, y éste se apoyará para ello en el [Centro Nacional](articulo-4.md), en los términos que señala la Ley General del Sistema Nacional de Seguridad Pública y demás normativa aplicable.
 
 Para dar seguimiento al cumplimiento de las disposiciones aplicables, el Secretariado Ejecutivo se coordinará con la [Comisión](articulo-4.md).

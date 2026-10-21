@@ -17,4 +17,4 @@ source_sha256: 1307711de5651aa4df9452c8ea4a2e519ab6725b85c014a2e1844a9f8e823f4f
 
 # Artículo 20
 
-Requisitos para las categorías del [Tribunal Electoral](articulo-2.md) Los requisitos para las categorías de la [Carrera Judicial](articulo-2.md) en el Tribunal Electoral se encuentran previstos en la [Ley](articulo-2.md) Orgánica del Poder Judicial de la Federación.
+Requisitos para las categorías del [Tribunal Electoral](articulo-2.md) Los requisitos para las categorías de la [Carrera Judicial](articulo-2.md) en el Tribunal Electoral se encuentran previstos en la Ley Orgánica del Poder Judicial de la Federación.

@@ -39,7 +39,7 @@ X. Lesión: el daño producido por una causa externa que deja huella material en
 
 XI. Lesión grave: el daño producido por una causa externa que ponga en peligro la vida o que disminuya de manera permanente las capacidades físicas de una persona;
 
-XII. Ley: la Ley Nacional sobre el [Uso de la Fuerza](articulo-3.md);
+XII. Ley: la Ley Nacional sobre el Uso de la Fuerza;
 
 XIII. Sujetos Obligados: las instituciones de seguridad pública, las auxiliares, y los agentes de ambas, y
 

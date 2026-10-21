@@ -17,7 +17,7 @@ source_sha256: eaf7300918a6f5dc58fbd5f36373f914841ad3b728a6ac60d6c9ff2f28ec8e12
 
 # Artículo 2
 
-Las universidades e instituciones de educación superior a las que la ley otorgue autonomía contarán con todas las facultades y garantías institucionales que se establecen en la fracción VII del artículo [3](../../cpeum/markdown/articulo-3o.md)o. de la Constitución Política de los [Estados](articulo-6.md) Unidos Mexicanos y se regirán por sus respectivas leyes orgánicas, la normatividad que deriva de éstas y, en lo que resulte compatible, por las disposiciones de la presente Ley.
+Las universidades e instituciones de educación superior a las que la ley otorgue autonomía contarán con todas las facultades y garantías institucionales que se establecen en la fracción VII del artículo [3](../../cpeum/markdown/articulo-3o.md)o. de la Constitución Política de los Estados Unidos Mexicanos y se regirán por sus respectivas leyes orgánicas, la normatividad que deriva de éstas y, en lo que resulte compatible, por las disposiciones de la presente Ley.
 
 Los procesos legislativos relacionados con sus leyes orgánicas, en todo momento, respetarán de manera irrestricta las facultades y garantías a las que se refiere el párrafo anterior, por lo que no podrán menoscabar la facultad y responsabilidad de las universidades e instituciones de educación superior autónomas por ley de gobernarse a sí mismas; realizar sus fines de educar, investigar y difundir la cultura respetando la libertad de cátedra e investigación y de libre examen y discusión de las ideas; determinar sus planes y programas; fijar los términos de ingreso, promoción y permanencia de su personal académico; así como administrar su patrimonio.
 

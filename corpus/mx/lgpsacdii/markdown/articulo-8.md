@@ -23,13 +23,13 @@ I. Centros de Atención: Espacios, cualquiera que sea su denominación de modali
 
 II. Desarrollo Integral Infantil: Es el derecho que tienen niñas y niños a formarse física, mental, emocional y socialmente en condiciones de igualdad;
 
-III. Ley: Ley General de Prestación de Servicios para la Atención, Cuidado y [Desarrollo Integral Infantil](articulo-8.md);
+III. Ley: Ley General de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil;
 
 IV. Medidas Precautorias: Aquéllas que con motivo de la prestación de los servicios para la atención, cuidado y desarrollo integral infantil emitan las autoridades competentes, de conformidad con la presente Ley, para salvaguardar y proteger la vida y la integridad de niñas y niños;
 
 V. Modalidades: Las que refiere el artículo [39](articulo-39.md) de esta Ley;
 
-VI. Política Nacional: Política Nacional de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil;
+VI. Política Nacional: Política Nacional de Servicios para la Atención, Cuidado y [Desarrollo Integral Infantil](articulo-8.md);
 
 VII. Prestadores de servicios para la atención, cuidado y desarrollo Integral infantil: Aquellas personas físicas o morales que cuenten con permiso, licencia o autorización, emitido por la autoridad competente, para instalar y operar uno o varios [Centros de Atención](articulo-8.md) en cualquier modalidad y tipo;
 

@@ -31,7 +31,7 @@ a) la instrucción incondicional dada por un Participante, a través de un Siste
 
 b) la instrucción incondicional o aviso dado por un Participante, a través de un Sistema de Pagos, a otro Participante en ese mismo Sistema de Pagos, para que se efectúe la enajenación, liquidación, afectación o entrega de valores.
 
-VI. [Orden de Transferencia](articulo-2o.md) Aceptada: en singular o plural, aquella Orden de Transferencia que haya pasado todos los controles de riesgo establecidos conforme a las Normas Internas de un Sistema de Pagos y que, por lo tanto, pueda ser efectuada su [Liquidación](articulo-2o.md) de conformidad con las referidas Normas Internas del Sistema de Pagos de que se trate;
+VI. Orden de Transferencia Aceptada: en singular o plural, aquella [Orden de Transferencia](articulo-2o.md) que haya pasado todos los controles de riesgo establecidos conforme a las Normas Internas de un Sistema de Pagos y que, por lo tanto, pueda ser efectuada su [Liquidación](articulo-2o.md) de conformidad con las referidas Normas Internas del Sistema de Pagos de que se trate;
 
 VII. Participante: en singular o plural, el Banco de México y cualquier institución financiera, sociedad o entidad que haya sido admitida para cursar Órdenes de Transferencia en algún Sistema de Pagos, conforme a las Normas Internas aplicables a ese Sistema de Pagos, y
 

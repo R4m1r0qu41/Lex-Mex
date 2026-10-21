@@ -17,4 +17,4 @@ source_sha256: 1311332a5177afc73a9d005e9953e0cd34487524768e6fe099a1c6fef29bdbb7
 
 # Artículo 80
 
-Durante el retorno de la [Mercancía Regulada](articulo-2.md), el personal de la Secretaría levantará un acta circunstanciada en términos de la [Ley](articulo-2.md) Federal de Procedimiento Administrativo, en la que se haga constar el retorno del [Embarque](articulo-2.md) por representar un Riesgo Fitosanitario.
+Durante el retorno de la [Mercancía Regulada](articulo-2.md), el personal de la Secretaría levantará un acta circunstanciada en términos de la Ley Federal de Procedimiento Administrativo, en la que se haga constar el retorno del [Embarque](articulo-2.md) por representar un Riesgo Fitosanitario.

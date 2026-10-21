@@ -559,30 +559,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcfd:article:19:term-usage:6610-6613",
-    "provision_id": "urn:lex-mx:federal:statute:lgcfd:article:19",
-    "term_id": "urn:lex-mx:federal:statute:lgcfd:term:ley",
-    "span": "Ley",
-    "start_char": 6610,
-    "end_char": 6613
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgcfd:article:19:term-usage:6658-6668",
     "provision_id": "urn:lex-mx:federal:statute:lgcfd:article:19",
     "term_id": "urn:lex-mx:federal:statute:lgcfd:term:reglamento",
     "span": "Reglamento",
     "start_char": 6658,
     "end_char": 6668
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcfd:article:20:term-usage:197-200",
-    "provision_id": "urn:lex-mx:federal:statute:lgcfd:article:20",
-    "term_id": "urn:lex-mx:federal:statute:lgcfd:term:ley",
-    "span": "Ley",
-    "start_char": 197,
-    "end_char": 200
   },
   {
     "schema_version": "0.1.0",
@@ -775,48 +757,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcfd:article:21:term-usage:4558-4561",
-    "provision_id": "urn:lex-mx:federal:statute:lgcfd:article:21",
-    "term_id": "urn:lex-mx:federal:statute:lgcfd:term:ley",
-    "span": "Ley",
-    "start_char": 4558,
-    "end_char": 4561
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcfd:article:21:term-usage:4628-4631",
-    "provision_id": "urn:lex-mx:federal:statute:lgcfd:article:21",
-    "term_id": "urn:lex-mx:federal:statute:lgcfd:term:ley",
-    "span": "Ley",
-    "start_char": 4628,
-    "end_char": 4631
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgcfd:article:21:term-usage:4839-4845",
     "provision_id": "urn:lex-mx:federal:statute:lgcfd:article:21",
     "term_id": "urn:lex-mx:federal:statute:lgcfd:term:conade",
     "span": "CONADE",
     "start_char": 4839,
     "end_char": 4845
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcfd:article:21:term-usage:5317-5320",
-    "provision_id": "urn:lex-mx:federal:statute:lgcfd:article:21",
-    "term_id": "urn:lex-mx:federal:statute:lgcfd:term:ley",
-    "span": "Ley",
-    "start_char": 5317,
-    "end_char": 5320
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcfd:article:21:term-usage:5386-5389",
-    "provision_id": "urn:lex-mx:federal:statute:lgcfd:article:21",
-    "term_id": "urn:lex-mx:federal:statute:lgcfd:term:ley",
-    "span": "Ley",
-    "start_char": 5386,
-    "end_char": 5389
   },
   {
     "schema_version": "0.1.0",
@@ -919,15 +865,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcfd:article:23:term-usage:179-182",
-    "provision_id": "urn:lex-mx:federal:statute:lgcfd:article:23",
-    "term_id": "urn:lex-mx:federal:statute:lgcfd:term:ley",
-    "span": "Ley",
-    "start_char": 179,
-    "end_char": 182
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgcfd:article:24:term-usage:523-529",
     "provision_id": "urn:lex-mx:federal:statute:lgcfd:article:24",
     "term_id": "urn:lex-mx:federal:statute:lgcfd:term:conade",
@@ -961,24 +898,6 @@
     "span": "CONADE",
     "start_char": 935,
     "end_char": 941
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcfd:article:24:term-usage:1100-1110",
-    "provision_id": "urn:lex-mx:federal:statute:lgcfd:article:24",
-    "term_id": "urn:lex-mx:federal:statute:lgcfd:term:reglamento",
-    "span": "Reglamento",
-    "start_char": 1100,
-    "end_char": 1110
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcfd:article:24:term-usage:1117-1120",
-    "provision_id": "urn:lex-mx:federal:statute:lgcfd:article:24",
-    "term_id": "urn:lex-mx:federal:statute:lgcfd:term:ley",
-    "span": "Ley",
-    "start_char": 1117,
-    "end_char": 1120
   },
   {
     "schema_version": "0.1.0",
@@ -1018,33 +937,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcfd:article:25:term-usage:87-90",
-    "provision_id": "urn:lex-mx:federal:statute:lgcfd:article:25",
-    "term_id": "urn:lex-mx:federal:statute:lgcfd:term:ley",
-    "span": "Ley",
-    "start_char": 87,
-    "end_char": 90
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcfd:article:25:term-usage:138-148",
-    "provision_id": "urn:lex-mx:federal:statute:lgcfd:article:25",
-    "term_id": "urn:lex-mx:federal:statute:lgcfd:term:reglamento",
-    "span": "Reglamento",
-    "start_char": 138,
-    "end_char": 148
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcfd:article:25:term-usage:155-158",
-    "provision_id": "urn:lex-mx:federal:statute:lgcfd:article:25",
-    "term_id": "urn:lex-mx:federal:statute:lgcfd:term:ley",
-    "span": "Ley",
-    "start_char": 155,
-    "end_char": 158
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgcfd:article:29:term-usage:27-33",
     "provision_id": "urn:lex-mx:federal:statute:lgcfd:article:29",
     "term_id": "urn:lex-mx:federal:statute:lgcfd:term:conade",
@@ -1060,15 +952,6 @@
     "span": "CONADE",
     "start_char": 183,
     "end_char": 189
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcfd:article:29:term-usage:562-565",
-    "provision_id": "urn:lex-mx:federal:statute:lgcfd:article:29",
-    "term_id": "urn:lex-mx:federal:statute:lgcfd:term:ley",
-    "span": "Ley",
-    "start_char": 562,
-    "end_char": 565
   },
   {
     "schema_version": "0.1.0",
@@ -1324,15 +1207,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcfd:article:31:term-usage:185-188",
-    "provision_id": "urn:lex-mx:federal:statute:lgcfd:article:31",
-    "term_id": "urn:lex-mx:federal:statute:lgcfd:term:ley",
-    "span": "Ley",
-    "start_char": 185,
-    "end_char": 188
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgcfd:article:32:term-usage:215-221",
     "provision_id": "urn:lex-mx:federal:statute:lgcfd:article:32",
     "term_id": "urn:lex-mx:federal:statute:lgcfd:term:conade",
@@ -1537,15 +1411,6 @@
     "span": "SINADE",
     "start_char": 1359,
     "end_char": 1365
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcfd:article:41-bis:term-usage:288-291",
-    "provision_id": "urn:lex-mx:federal:statute:lgcfd:article:41-bis",
-    "term_id": "urn:lex-mx:federal:statute:lgcfd:term:ley",
-    "span": "Ley",
-    "start_char": 288,
-    "end_char": 291
   },
   {
     "schema_version": "0.1.0",
@@ -2638,15 +2503,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcfd:article:85:term-usage:99-102",
-    "provision_id": "urn:lex-mx:federal:statute:lgcfd:article:85",
-    "term_id": "urn:lex-mx:federal:statute:lgcfd:term:ley",
-    "span": "Ley",
-    "start_char": 99,
-    "end_char": 102
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgcfd:article:86:term-usage:255-258",
     "provision_id": "urn:lex-mx:federal:statute:lgcfd:article:86",
     "term_id": "urn:lex-mx:federal:statute:lgcfd:term:ley",
@@ -2887,15 +2743,6 @@
     "span": "CONADE",
     "start_char": 3,
     "end_char": 9
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcfd:article:102:term-usage:394-397",
-    "provision_id": "urn:lex-mx:federal:statute:lgcfd:article:102",
-    "term_id": "urn:lex-mx:federal:statute:lgcfd:term:ley",
-    "span": "Ley",
-    "start_char": 394,
-    "end_char": 397
   },
   {
     "schema_version": "0.1.0",
@@ -3700,15 +3547,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcfd:article:146:term-usage:116-119",
-    "provision_id": "urn:lex-mx:federal:statute:lgcfd:article:146",
-    "term_id": "urn:lex-mx:federal:statute:lgcfd:term:ley",
-    "span": "Ley",
-    "start_char": 116,
-    "end_char": 119
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgcfd:article:148:term-usage:173-176",
     "provision_id": "urn:lex-mx:federal:statute:lgcfd:article:148",
     "term_id": "urn:lex-mx:federal:statute:lgcfd:term:com",
@@ -3844,15 +3682,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcfd:article:155:term-usage:833-836",
-    "provision_id": "urn:lex-mx:federal:statute:lgcfd:article:155",
-    "term_id": "urn:lex-mx:federal:statute:lgcfd:term:ley",
-    "span": "Ley",
-    "start_char": 833,
-    "end_char": 836
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgcfd:transitory:primero:term-usage:12-15",
     "provision_id": "urn:lex-mx:federal:statute:lgcfd:transitory:primero",
     "term_id": "urn:lex-mx:federal:statute:lgcfd:term:ley",
@@ -3931,15 +3760,6 @@
     "span": "Ley",
     "start_char": 35,
     "end_char": 38
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcfd:transitory:quinto:term-usage:226-229",
-    "provision_id": "urn:lex-mx:federal:statute:lgcfd:transitory:quinto",
-    "term_id": "urn:lex-mx:federal:statute:lgcfd:term:ley",
-    "span": "Ley",
-    "start_char": 226,
-    "end_char": 229
   },
   {
     "schema_version": "0.1.0",

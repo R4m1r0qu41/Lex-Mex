@@ -23,4 +23,4 @@ Cada integrante de este órgano colegiado deberá nombrar un suplente con nivel 
 
 Los miembros de la Junta de Gobierno gozarán de voz y voto en las sesiones de la misma. Sus decisiones serán tomadas por mayoría de votos.
 
-La Junta de Gobierno tendrá las atribuciones establecidas en la [Ley](articulo-3o.md) Federal de las Entidades Paraestatales y aquellas que se señalen en su Estatuto Orgánico.
+La Junta de Gobierno tendrá las atribuciones establecidas en la Ley Federal de las Entidades Paraestatales y aquellas que se señalen en su Estatuto Orgánico.

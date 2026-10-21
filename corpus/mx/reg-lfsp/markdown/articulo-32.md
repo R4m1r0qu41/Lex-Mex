@@ -21,7 +21,7 @@ El [Registro Nacional](articulo-2.md) contendrá las altas y bajas de los socios
 
 A efecto de inscribir al personal operativo ante el Registro Nacional del Personal de Seguridad Pública, los Prestadores de Servicios, además de llenar el formato de la cédula única de identificación personal debidamente requisitada, deberán exhibir los siguientes documentos:
 
-I. Comprobante de pago correspondiente, de conformidad con lo previsto por la [Ley](articulo-2.md) Federal de Derechos; II. Copia certificada del acta de nacimiento;
+I. Comprobante de pago correspondiente, de conformidad con lo previsto por la Ley Federal de Derechos; II. Copia certificada del acta de nacimiento;
 
 III. Comprobante de domicilio, con una antigüedad menor a tres meses a partir de la fecha de expedición;
 

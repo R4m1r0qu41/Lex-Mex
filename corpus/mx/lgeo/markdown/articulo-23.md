@@ -31,7 +31,7 @@ V. Presupuesto detallado del proyecto;
 
 VI. Documentación que acredite su capacidad jurídica, técnica, administrativa y financiera, para desarrollar, operar y mantener las instalaciones necesarias para la Explotación de Recursos Geotérmicos;
 
-VII. Cronogramas calendarizados de trabajo y financiero a realizar durante la etapa de Explotación del Área Geotérmica, incluyendo las gestiones correspondientes a las obligaciones establecidas en la [Ley](articulo-2.md) del Sector Eléctrico y que resulten aplicables, pago de derechos y aquellos establecidos en las disposiciones en materia ambiental, indicando a detalle cada una de las actividades por efectuar y los objetivos de estas;
+VII. Cronogramas calendarizados de trabajo y financiero a realizar durante la etapa de Explotación del Área Geotérmica, incluyendo las gestiones correspondientes a las obligaciones establecidas en la Ley del Sector Eléctrico y que resulten aplicables, pago de derechos y aquellos establecidos en las disposiciones en materia ambiental, indicando a detalle cada una de las actividades por efectuar y los objetivos de estas;
 
 VIII. Acreditar haber obtenido y cumplido con los términos y condiciones del [Permiso de Exploración](articulo-2.md);
 
@@ -39,7 +39,7 @@ IX. Documentación sobre la aportación del proyecto para el Estado y la socieda
 
 X. Solicitud de generación, factibilidad en la interconexión, pago de derechos y aquellos establecidos en las disposiciones en materia ambiental, y
 
-XI. Cualquier otro, expresamente previsto en esta Ley o su [Reglamento](articulo-2.md).
+XI. Cualquier otro, expresamente previsto en esta [Ley](articulo-2.md) o su [Reglamento](articulo-2.md).
 
 El caso a que se refiere la fracción X de este artículo, la persona solicitante de una Concesión tendrá como plazo máximo tres años para obtener de las autoridades competentes los permisos correspondientes. El plazo antes señalado debe iniciar a partir de la presentación de la solicitud a que se refiere dicha fracción ante la Secretaría.
 

@@ -19,4 +19,4 @@ source_sha256: ea6e39560929f2e1998b2dabe0852fde0d684c69e5be49aab7f33433299bbeb0
 
 En los días de descanso obligatorio, cuando gocen de permisos, comisiones, y en las vacaciones, los integrantes recibirán el monto íntegro de la contraprestación.
 
-En el caso de lesiones sufridas en el desempeño de sus funciones, el pago de la remuneración se hará de acuerdo a la [Ley](articulo-2.md) del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
+En el caso de lesiones sufridas en el desempeño de sus funciones, el pago de la remuneración se hará de acuerdo a la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.

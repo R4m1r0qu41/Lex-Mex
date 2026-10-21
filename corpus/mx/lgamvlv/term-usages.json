@@ -91,15 +91,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgamvlv:article:11:term-usage:260-263",
-    "provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:11",
-    "term_id": "urn:lex-mx:federal:statute:lgamvlv:term:ley",
-    "span": "Ley",
-    "start_char": 260,
-    "end_char": 263
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgamvlv:article:20-bis:term-usage:955-958",
     "provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:20-bis",
     "term_id": "urn:lex-mx:federal:statute:lgamvlv:term:ley",
@@ -151,24 +142,6 @@
     "span": "Programa",
     "start_char": 886,
     "end_char": 894
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgamvlv:article:26:term-usage:224-227",
-    "provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:26",
-    "term_id": "urn:lex-mx:federal:statute:lgamvlv:term:ley",
-    "span": "Ley",
-    "start_char": 224,
-    "end_char": 227
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgamvlv:article:26:term-usage:239-247",
-    "provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:26",
-    "term_id": "urn:lex-mx:federal:statute:lgamvlv:term:victima",
-    "span": "Víctimas",
-    "start_char": 239,
-    "end_char": 247
   },
   {
     "schema_version": "0.1.0",
@@ -262,24 +235,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgamvlv:article:34-e:term-usage:110-113",
-    "provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:34-e",
-    "term_id": "urn:lex-mx:federal:statute:lgamvlv:term:ley",
-    "span": "Ley",
-    "start_char": 110,
-    "end_char": 113
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgamvlv:article:34-e:term-usage:126-142",
-    "provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:34-e",
-    "term_id": "urn:lex-mx:federal:statute:lgamvlv:term:sistema-nacional",
-    "span": "Sistema Nacional",
-    "start_char": 126,
-    "end_char": 142
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgamvlv:article:34-f:term-usage:126-143",
     "provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:34-f",
     "term_id": "urn:lex-mx:federal:statute:lgamvlv:term:registro-nacional",
@@ -313,15 +268,6 @@
     "span": "Registro Nacional",
     "start_char": 950,
     "end_char": 967
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgamvlv:article:34-g:term-usage:1204-1207",
-    "provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:34-g",
-    "term_id": "urn:lex-mx:federal:statute:lgamvlv:term:ley",
-    "span": "Ley",
-    "start_char": 1204,
-    "end_char": 1207
   },
   {
     "schema_version": "0.1.0",
@@ -820,15 +766,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgamvlv:article:46-ter:term-usage:1043-1046",
-    "provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:46-ter",
-    "term_id": "urn:lex-mx:federal:statute:lgamvlv:term:ley",
-    "span": "Ley",
-    "start_char": 1043,
-    "end_char": 1046
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgamvlv:article:46-ter:term-usage:1256-1264",
     "provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:46-ter",
     "term_id": "urn:lex-mx:federal:statute:lgamvlv:term:programa",
@@ -853,24 +790,6 @@
     "span": "Registro Nacional",
     "start_char": 3450,
     "end_char": 3467
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgamvlv:article:47:term-usage:3524-3527",
-    "provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:47",
-    "term_id": "urn:lex-mx:federal:statute:lgamvlv:term:ley",
-    "span": "Ley",
-    "start_char": 3524,
-    "end_char": 3527
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgamvlv:article:47:term-usage:3540-3556",
-    "provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:47",
-    "term_id": "urn:lex-mx:federal:statute:lgamvlv:term:sistema-nacional",
-    "span": "Sistema Nacional",
-    "start_char": 3540,
-    "end_char": 3556
   },
   {
     "schema_version": "0.1.0",
@@ -973,24 +892,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgamvlv:article:49:term-usage:5374-5377",
-    "provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:49",
-    "term_id": "urn:lex-mx:federal:statute:lgamvlv:term:ley",
-    "span": "Ley",
-    "start_char": 5374,
-    "end_char": 5377
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgamvlv:article:49:term-usage:5390-5406",
-    "provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:49",
-    "term_id": "urn:lex-mx:federal:statute:lgamvlv:term:sistema-nacional",
-    "span": "Sistema Nacional",
-    "start_char": 5390,
-    "end_char": 5406
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgamvlv:article:50:term-usage:874-882",
     "provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:50",
     "term_id": "urn:lex-mx:federal:statute:lgamvlv:term:programa",
@@ -1015,24 +916,6 @@
     "span": "Registro Nacional",
     "start_char": 1978,
     "end_char": 1995
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgamvlv:article:50:term-usage:2052-2055",
-    "provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:50",
-    "term_id": "urn:lex-mx:federal:statute:lgamvlv:term:ley",
-    "span": "Ley",
-    "start_char": 2052,
-    "end_char": 2055
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgamvlv:article:50:term-usage:2068-2084",
-    "provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:50",
-    "term_id": "urn:lex-mx:federal:statute:lgamvlv:term:sistema-nacional",
-    "span": "Sistema Nacional",
-    "start_char": 2068,
-    "end_char": 2084
   },
   {
     "schema_version": "0.1.0",

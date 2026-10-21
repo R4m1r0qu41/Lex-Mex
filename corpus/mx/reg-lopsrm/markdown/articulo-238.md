@@ -21,4 +21,4 @@ La responsabilidad de adquirir los inmuebles, bienes muebles y derechos necesari
 
 En el caso de que la responsabilidad mencionada en el párrafo anterior recaiga de manera total o parcial en el Inversionista contratista, éste deberá realizar la adquisición de inmuebles, de bienes muebles o de los derechos correspondientes a nombre de la Federación o de la entidad correspondiente, para lo cual se coordinará con la dependencia o entidad de que se trate.
 
-La adquisición de los inmuebles a que se refiere este artículo se realizará previo avalúo que se emita en términos de la [Ley](articulo-2.md) General de Bienes Nacionales.
+La adquisición de los inmuebles a que se refiere este artículo se realizará previo avalúo que se emita en términos de la Ley General de Bienes Nacionales.

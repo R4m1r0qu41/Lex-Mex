@@ -10,30 +10,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:1:term-usage:107-118",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:1",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:actividades",
-    "span": "Actividades",
-    "start_char": 107,
-    "end_char": 118
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:2:term-usage:106-109",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:ley",
     "span": "Ley",
     "start_char": 106,
     "end_char": 109
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:2:term-usage:135-146",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:2",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:actividades",
-    "span": "Actividades",
-    "start_char": 135,
-    "end_char": 146
   },
   {
     "schema_version": "0.1.0",
@@ -79,24 +61,6 @@
     "span": "Ley",
     "start_char": 703,
     "end_char": 706
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:2:term-usage:732-743",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:2",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:actividades",
-    "span": "Actividades",
-    "start_char": 732,
-    "end_char": 743
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:2:term-usage:865-876",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:2",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:actividades",
-    "span": "Actividades",
-    "start_char": 865,
-    "end_char": 876
   },
   {
     "schema_version": "0.1.0",
@@ -694,15 +658,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:34:term-usage:184-187",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:34",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:ley",
-    "span": "Ley",
-    "start_char": 184,
-    "end_char": 187
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:35:term-usage:3-25",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:35",
     "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:sistema-de-informacion",
@@ -1249,24 +1204,6 @@
     "span": "Ley",
     "start_char": 74,
     "end_char": 77
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:57:term-usage:128-131",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:57",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:ley",
-    "span": "Ley",
-    "start_char": 128,
-    "end_char": 131
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:58:term-usage:269-272",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:58",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:ley",
-    "span": "Ley",
-    "start_char": 269,
-    "end_char": 272
   },
   {
     "schema_version": "0.1.0",

@@ -52,7 +52,7 @@ fn source(root: &Path) {
     let directory = "corpus/mx/db-fixture";
     // Only the two synthetic articles are needed; no false temporal claims.
     let provisions = f["provisions"].as_array().unwrap()[..2].to_vec();
-    let coverage = json!({"schema_version":"0.1.0","strategy_version":"glossary-extraction-4","instrument_id":i["id"],"source_sha256":i["source_sha256"],"extracted_text_sha256":i["extracted_text_sha256"],"status":"none_detected","glossaries":[],"imports":[],"term_count":0,"usage_count":0});
+    let coverage = json!({"schema_version":"0.1.0","strategy_version":lex_core::GLOSSARY_STRATEGY_VERSION,"instrument_id":i["id"],"source_sha256":i["source_sha256"],"extracted_text_sha256":i["extracted_text_sha256"],"status":"none_detected","glossaries":[],"imports":[],"term_count":0,"usage_count":0});
     let manifest = json!({"schema_version":"0.1.0","instrument_id":i["id"],"operational_source":"camara_de_diputados","formal_publication_source":"dof","publisher":"Synthetic fixture","official_url":"https://example.invalid/fixture.pdf","retrieved_at":i["retrieved_at"],"http_status":200,"source_sha256":i["source_sha256"],"extracted_text_sha256":i["extracted_text_sha256"],"parser_version":"0.1.0","schema_version_used":"0.1.0"});
     for (name, value) in [
         ("instrument.json", i.clone()),

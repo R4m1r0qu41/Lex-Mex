@@ -17,4 +17,4 @@ source_sha256: 2031b8a0cffc7dd2c9a3012644baea0ccd914029b6bf46ae3ca73f46f78dd735
 
 # Artículo 89
 
-En caso de ser necesario un transplante de órganos se cumplirá con lo que para tal efecto dispone el Título Décimo Cuarto, Capítulo III, de la [Ley](../../lss/markdown/articulo-5-A.md) General de Salud.
+En caso de ser necesario un transplante de órganos se cumplirá con lo que para tal efecto dispone el Título Décimo Cuarto, Capítulo III, de la Ley General de Salud.

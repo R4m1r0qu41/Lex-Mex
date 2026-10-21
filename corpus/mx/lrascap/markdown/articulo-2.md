@@ -41,6 +41,6 @@ X. Sociedad o Sociedad Cooperativa de Ahorro y Préstamo: en singular o plural, 
 
 XI. Socio: en singular o plural, a las personas físicas o morales que participen en el capital social de las Sociedades Cooperativas de Ahorro y Préstamo; Fracción reformada DOF 10-01-2014
 
-XII. UDI: a la unidad de cuenta llamada “Unidad de Inversión” establecida en el "Decreto por el que se establecen las obligaciones que podrán denominarse en Unidades de Inversión y reforma y adiciona diversas disposiciones del Código Fiscal de la [Federación](articulo-2.md) y de la Ley del Impuesto sobre la Renta" publicado en el Diario Oficial de la Federación el 1 de abril de 1995, tal como el mismo sea modificado o adicionado de tiempo en tiempo, y
+XII. UDI: a la unidad de cuenta llamada “Unidad de Inversión” establecida en el "Decreto por el que se establecen las obligaciones que podrán denominarse en Unidades de Inversión y reforma y adiciona diversas disposiciones del Código Fiscal de la Federación y de la Ley del Impuesto sobre la Renta" publicado en el Diario Oficial de la [Federación](articulo-2.md) el 1 de abril de 1995, tal como el mismo sea modificado o adicionado de tiempo en tiempo, y
 
 XIII. Zona Rural, en plural o singular, a aquellas zonas de la República Mexicana que cumplan con los requisitos que en materia de territorio, densidad y actividades productivas determine la Comisión mediante disposiciones de carácter general.

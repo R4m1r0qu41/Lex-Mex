@@ -17,7 +17,7 @@ source_sha256: 75ae7c5f6dd941ce9a3e988e5310c87422966b1774f3b7e83919538c0bb079e9
 
 # Artículo 82
 
-Las negociaciones o empresas a que se refiere la fracción XII del Apartado A del artículo [123](../../cpeum/markdown/articulo-123.md) de la Constitución Política de los [Estados](articulo-4.md) Unidos Mexicanos están obligadas a establecer y sostener escuelas cuando el número de educandos que las requiera sea mayor de veinte. Estos planteles quedarán bajo la dirección administrativa de la autoridad educativa local.
+Las negociaciones o empresas a que se refiere la fracción XII del Apartado A del artículo [123](../../cpeum/markdown/articulo-123.md) de la Constitución Política de los Estados Unidos Mexicanos están obligadas a establecer y sostener escuelas cuando el número de educandos que las requiera sea mayor de veinte. Estos planteles quedarán bajo la dirección administrativa de la autoridad educativa local.
 
 Las escuelas que se establezcan en cumplimiento de la obligación prevista en el párrafo anterior contarán con edificio, instalaciones accesibles y demás elementos necesarios para realizar su función, en los términos que señalen las disposiciones aplicables.
 

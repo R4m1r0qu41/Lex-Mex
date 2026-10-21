@@ -17,7 +17,7 @@ source_sha256: 5a0e15e01ac963917e019e3cc4ad07e96d76cc6c82c8b4238dfbb3a58a146847
 
 # Artículo 30
 
-En el proyecto de Presupuesto de Egresos de la Federación se debe considerar el presupuesto destinado a humanidades, ciencias, tecnologías e innovación, en términos de la [Ley](articulo-4.md) Federal de Presupuesto y Responsabilidad Hacendaria.
+En el proyecto de Presupuesto de Egresos de la Federación se debe considerar el presupuesto destinado a humanidades, ciencias, tecnologías e innovación, en términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
 
 Las dependencias y entidades de la Administración Pública Federal al formular su anteproyecto de presupuesto considerarán las previsiones para fomentar, realizar y apoyar actividades en materia de humanidades, ciencias, tecnologías e innovación, en términos de lo previsto en la Ley Federal de Presupuesto y Responsabilidad Hacendaria, así como de conformidad con el [Programa Especial](articulo-4.md).
 

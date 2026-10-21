@@ -41,7 +41,7 @@ X. Suministrar, integrar y mantener actualizadas las bases de datos de la Direcc
 
 XI. Planear reuniones de trabajo con los operadores del sistema de justicia penal, para mejorar las funciones de traslados y de seguridad en salas;
 
-XII. Dirigir y atender todos los asuntos de traslados y seguridad en salas vinculados al sistema de justicia penal a que se refiere el artículo [22](../../lnep/markdown/articulo-22.md) de la [Ley](articulo-2.md) Nacional de Ejecución Penal;
+XII. Dirigir y atender todos los asuntos de traslados y seguridad en salas vinculados al sistema de justicia penal a que se refiere el artículo [22](../../lnep/markdown/articulo-22.md) de la Ley Nacional de Ejecución Penal;
 
 XIII. Informar a los Consejos de Disciplina las faltas cometidas por el personal que desempeñe funciones de seguridad procesal;
 

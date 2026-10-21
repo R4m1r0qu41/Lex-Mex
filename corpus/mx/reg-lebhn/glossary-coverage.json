@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-4",
+  "strategy_version": "glossary-extraction-5",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-lebhn",
   "source_sha256": "3a86c9bc8afe7162bbcc0c31a28250ca91cfbf2cb6a08deddae0653977ae3d3f",
   "extracted_text_sha256": "1455fe54adb00eca2a85460ce418c2dc5ca94df9f222cd6d99c7b4842cc8af6e",
@@ -22,5 +22,5 @@
   ],
   "imports": [],
   "term_count": 4,
-  "usage_count": 88
+  "usage_count": 86
 }

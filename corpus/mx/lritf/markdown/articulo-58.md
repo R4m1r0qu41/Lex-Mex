@@ -49,7 +49,7 @@ VII. La revisión que deberán realizar de forma anual por parte del área de au
 
 Las ITF deberán conservar, por al menos diez años la información y documentación a que se refiere la fracción III del párrafo anterior, sin perjuicio de lo establecido en otras disposiciones jurídicas aplicables.
 
-Al efecto, tanto el oficial de cumplimiento a que se refiere la fracción VI del párrafo tercero de este artículo, como el auditor o el tercero independiente responsable de la revisión señalada en la fracción VII de dicho párrafo deberán obtener la certificación prevista en el artículo 4, fracción X de la Ley de la Comisión Nacional Bancaria y de [Valores](articulo-4.md).
+Al efecto, tanto el oficial de cumplimiento a que se refiere la fracción VI del párrafo tercero de este artículo, como el auditor o el tercero independiente responsable de la revisión señalada en la fracción VII de dicho párrafo deberán obtener la certificación prevista en el artículo 4, fracción X de la Ley de la Comisión Nacional Bancaria y de Valores.
 
 La Secretaría estará facultada para requerir y recabar, por conducto de la CNBV, información y documentación relacionada con los actos, Operaciones y servicios a que se refiere este artículo. Las ITF estarán obligadas a proporcionar dicha información y documentación. Asimismo, la Secretaría estará facultada para obtener información adicional de otras personas con el mismo fin y a proporcionar información a las autoridades competentes.
 

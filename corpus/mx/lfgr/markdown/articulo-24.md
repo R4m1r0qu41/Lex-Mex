@@ -17,7 +17,7 @@ source_sha256: cbd3307808b89748077396e108c02651da8099a5bc491657c17fa676618d85f1
 
 # Artículo 24
 
-La persona titular de la [Fiscalía General](articulo-9.md) sólo podrá ser removida por la persona titular del Ejecutivo Federal por incurrir en alguna de las causas graves contempladas en el Capítulo II del Título Tercero de la [Ley](articulo-9.md) General de Responsabilidades Administrativas o por la comisión de uno o más delitos que ameriten prisión preventiva oficiosa en términos del artículo 19 de la [Constitución](articulo-9.md) y 167 del [Código Nacional](articulo-9.md) o por los supuestos siguientes:
+La persona titular de la [Fiscalía General](articulo-9.md) sólo podrá ser removida por la persona titular del Ejecutivo Federal por incurrir en alguna de las causas graves contempladas en el Capítulo II del Título Tercero de la Ley General de Responsabilidades Administrativas o por la comisión de uno o más delitos que ameriten prisión preventiva oficiosa en términos del artículo 19 de la [Constitución](articulo-9.md) y 167 del [Código Nacional](articulo-9.md) o por los supuestos siguientes:
 
 I. Perder la ciudadanía mexicana, en los términos que establece el artículo 37 de la Constitución;
 

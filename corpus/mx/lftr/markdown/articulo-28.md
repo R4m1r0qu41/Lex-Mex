@@ -20,7 +20,7 @@ source_sha256: a15012b33a415083f7714764c86fda8ed0078d3f5313dfc194c503f98a573a2a
 
 # Artículo 28
 
-Corresponde a la autoridad investigadora, además de las señaladas en la [Ley](articulo-3.md) Federal de Competencia Económica para la autoridad investigadora prevista en esa ley, lo siguiente:
+Corresponde a la autoridad investigadora, además de las señaladas en la Ley Federal de Competencia Económica para la autoridad investigadora prevista en esa ley, lo siguiente:
 
 I. Asistir a las sesiones del Pleno, a requerimiento de éste, con voz pero sin voto;
 
@@ -30,4 +30,4 @@ III. Proporcionar al Pleno y a los comisionados, la información solicitada, as�
 
 IV. Informar al Pleno de las resoluciones que le competan, dictadas por los tribunales especializados en materia de competencia económica, radiodifusión y telecomunicaciones, y
 
-V. Las demás que le encomienden esta Ley, el estatuto orgánico del [Instituto](articulo-3.md), el Pleno y demás disposiciones aplicables.
+V. Las demás que le encomienden esta [Ley](articulo-3.md), el estatuto orgánico del [Instituto](articulo-3.md), el Pleno y demás disposiciones aplicables.

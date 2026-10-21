@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LTOSF.pdf
 source_sha256: bf9e443e89a5c0ba268e76f20923ae25195ef5c1ffbacecff36693ca228c3667
 ---
 
+> Capítulo III
+
 # Artículo 11
 
 Los Contratos de Adhesión que utilicen las [Entidades Financieras](articulo-3.md) para documentar operaciones masivas deberán cumplir con los requisitos que mediante disposiciones de carácter general establezca la [Comisión](articulo-3.md) Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros. Las disposiciones señalaran los tipos específicos de Contratos de Adhesión a los que les serán aplicables las mismas y lo que debe entenderse por operaciones masivas en términos de este artículo. Párrafo reformado DOF 25-06-2009

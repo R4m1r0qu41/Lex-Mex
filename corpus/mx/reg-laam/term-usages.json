@@ -19,15 +19,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-laam:article:5:term-usage:370-373",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:5",
-    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:ley",
-    "span": "Ley",
-    "start_char": 370,
-    "end_char": 373
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-laam:article:5:term-usage:505-515",
     "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:5",
     "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:alto-mando",
@@ -52,15 +43,6 @@
     "span": "Ley",
     "start_char": 1383,
     "end_char": 1386
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-laam:article:5:term-usage:1570-1573",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:5",
-    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:ley",
-    "span": "Ley",
-    "start_char": 1570,
-    "end_char": 1573
   },
   {
     "schema_version": "0.1.0",
@@ -100,15 +82,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-laam:article:5:term-usage:2386-2389",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:5",
-    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:ley",
-    "span": "Ley",
-    "start_char": 2386,
-    "end_char": 2389
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-laam:article:5:term-usage:2766-2787",
     "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:5",
     "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:comision-coordinadora",
@@ -145,15 +118,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-laam:article:5:term-usage:3612-3615",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:5",
-    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:ley",
-    "span": "Ley",
-    "start_char": 3612,
-    "end_char": 3615
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-laam:article:5:term-usage:3709-3712",
     "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:5",
     "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:ley",
@@ -169,24 +133,6 @@
     "span": "Comisión Coordinadora",
     "start_char": 4035,
     "end_char": 4056
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-laam:article:5:term-usage:4113-4138",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:5",
-    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:presidenta-o-presidente",
-    "span": "Presidentas o Presidentes",
-    "start_char": 4113,
-    "end_char": 4138
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-laam:article:5:term-usage:4146-4164",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:5",
-    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:comision-local",
-    "span": "Comisiones Locales",
-    "start_char": 4146,
-    "end_char": 4164
   },
   {
     "schema_version": "0.1.0",
@@ -1333,15 +1279,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-laam:article:61:term-usage:385-388",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:61",
-    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:ley",
-    "span": "Ley",
-    "start_char": 385,
-    "end_char": 388
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-laam:article:61:term-usage:535-538",
     "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:61",
     "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:ley",
@@ -1351,48 +1288,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-laam:article:61:term-usage:726-729",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:61",
-    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:ley",
-    "span": "Ley",
-    "start_char": 726,
-    "end_char": 729
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-laam:article:61:term-usage:997-1000",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:61",
-    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:ley",
-    "span": "Ley",
-    "start_char": 997,
-    "end_char": 1000
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-laam:article:61:term-usage:1266-1269",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:61",
-    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:ley",
-    "span": "Ley",
-    "start_char": 1266,
-    "end_char": 1269
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-laam:article:63:term-usage:58-64",
     "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:63",
     "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:manual",
     "span": "Manual",
     "start_char": 58,
     "end_char": 64
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-laam:article:69:term-usage:273-276",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:69",
-    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:ley",
-    "span": "Ley",
-    "start_char": 273,
-    "end_char": 276
   },
   {
     "schema_version": "0.1.0",
@@ -1456,15 +1357,6 @@
     "span": "Comisiones Locales",
     "start_char": 95,
     "end_char": 113
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-laam:article:81:term-usage:320-323",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:81",
-    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:ley",
-    "span": "Ley",
-    "start_char": 320,
-    "end_char": 323
   },
   {
     "schema_version": "0.1.0",
@@ -1792,15 +1684,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-laam:article:123:term-usage:189-192",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:123",
-    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:ley",
-    "span": "Ley",
-    "start_char": 189,
-    "end_char": 192
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-laam:article:125:term-usage:319-322",
     "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:125",
     "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:ley",
@@ -1855,24 +1738,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-laam:article:132:term-usage:605-608",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:132",
-    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:ley",
-    "span": "Ley",
-    "start_char": 605,
-    "end_char": 608
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-laam:article:132:term-usage:1532-1535",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:132",
-    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:ley",
-    "span": "Ley",
-    "start_char": 1532,
-    "end_char": 1535
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-laam:article:132:term-usage:1901-1918",
     "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:132",
     "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:promocion-general",
@@ -1924,14 +1789,5 @@
     "span": "Ley",
     "start_char": 49,
     "end_char": 52
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-laam:transitory:segundo:term-usage:330-333",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-laam:transitory:segundo",
-    "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:ley",
-    "span": "Ley",
-    "start_char": 330,
-    "end_char": 333
   }
 ]

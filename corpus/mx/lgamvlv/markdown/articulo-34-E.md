@@ -17,6 +17,6 @@ source_sha256: 9a35a6a9017840b7d052dfc0726ff668a76257fd3f76f741c615630125fbf535
 
 # Artículo 34-E
 
-La base de datos del [Registro Nacional](articulo-5.md), formará parte del [Sistema Nacional](articulo-5.md) de Información a que se refiere la [Ley](articulo-5.md) General del Sistema Nacional de Seguridad Pública.
+La base de datos del [Registro Nacional](articulo-5.md), formará parte del [Sistema Nacional](articulo-5.md) de Información a que se refiere la Ley General del Sistema Nacional de Seguridad Pública.
 
 Artículo adicionado DOF 16-12-2024

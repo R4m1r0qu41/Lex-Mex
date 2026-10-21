@@ -39,11 +39,11 @@ VIII. Aprobar las disposiciones y criterios para racionalizar el gasto administr
 
 IX. Aprobar las políticas y programas que someta a su consideración la persona titular de la Dirección General del Consejo Nacional, incluyendo el [Programa Sectorial](articulo-4.md);
 
-X. Aprobar y emitir las reglas de operación de los programas y sus modificaciones, de conformidad con lo dispuesto en la [Ley](articulo-4.md) Federal de Presupuesto y Responsabilidad Hacendaria y en su Reglamento, así como en el Presupuesto de Egresos de la Federación para el Ejercicio Fiscal que corresponda;
+X. Aprobar y emitir las reglas de operación de los programas y sus modificaciones, de conformidad con lo dispuesto en la Ley Federal de Presupuesto y Responsabilidad Hacendaria y en su Reglamento, así como en el Presupuesto de Egresos de la Federación para el Ejercicio Fiscal que corresponda;
 
 XI. Aprobar y emitir la reglamentación y normativa que someta a su consideración la persona titular de la Dirección General;
 
-XII. Reconocer como [Centros Públicos](articulo-4.md) a entidades paraestatales de la Administración Pública Federal que así lo ameriten, en los términos de esta Ley;
+XII. Reconocer como [Centros Públicos](articulo-4.md) a entidades paraestatales de la Administración Pública Federal que así lo ameriten, en los términos de esta [Ley](articulo-4.md);
 
 XIII. Constituir, agrupar, fusionar, desincorporar o reintegrar Centros Públicos, de conformidad con las disposiciones legales y administrativas aplicables;
 

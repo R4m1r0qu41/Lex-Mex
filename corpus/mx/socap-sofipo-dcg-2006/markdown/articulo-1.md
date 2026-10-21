@@ -42,7 +42,7 @@ a) Un [Usuario](articulo-1.md) y su facultad para realizar operaciones a través
 
 b) Una [Sociedad](articulo-1.md) Financiera Popular y su facultad para recibir instrucciones a través de Servicios Electrónicos.
 
-VI. Bloqueo de Factores de [Autenticación](articulo-1.md), al proceso mediante el cual la Sociedad Financiera Popular inhabilita el uso de un [Factor de Autenticación](articulo-1.md) de forma temporal.
+VI. Bloqueo de Factores de Autenticación, al proceso mediante el cual la Sociedad Financiera Popular inhabilita el uso de un [Factor de Autenticación](articulo-1.md) de forma temporal.
 
 VII. Cajero Automático, al [Dispositivo de Acceso](articulo-1.md) de autoservicio que permite realizar consultas y operaciones diversas, tales como la disposición de dinero en efectivo y al cual el Usuario accede mediante una tarjeta o cuenta para utilizar los Servicios Electrónicos.
 
@@ -114,7 +114,7 @@ XXV. Cuenta de Depósito, a la cuenta a que se refiere el inciso a) de la fracci
 
 XXVI. Cuenta Destino, a la cuenta receptora de recursos dinerarios en Operaciones Monetarias.
 
-XXVII. [Cuenta Destino](articulo-1.md) Recurrente, a la Cuenta Destino que cumpla con los requisitos previstos por el artículo [265 Bis 9](articulo-265-Bis-9.md) de las presentes disposiciones.
+XXVII. Cuenta Destino Recurrente, a la [Cuenta Destino](articulo-1.md) que cumpla con los requisitos previstos por el artículo [265 Bis 9](articulo-265-Bis-9.md) de las presentes disposiciones.
 
 XXVIII. Cuenta Individual, a las cuentas con un solo titular.
 
@@ -144,7 +144,7 @@ XXXIV Bis 3. Exposición al Incumplimiento (EI), a la posición esperada bruta, 
 
 XXXV. Factor de Ajuste Operacional (FAO), al que resulta de dividir la suma de los requerimientos de capitalización por riesgo de crédito y de mercado entre la suma de los requerimientos de capitalización por riesgo de crédito, de mercado y operacional a los que se encuentra expuesta la Sociedad Financiera Popular en el ejercicio de sus operaciones, de conformidad con los procedimientos definidos en las Secciones Segunda a Quinta, del Título Cuarto de las presentes disposiciones.
 
-XXXV Bis. Factor de Autenticación, al mecanismo de Autenticación, tangible o intangible, basado en las características físicas del Usuario, en dispositivos o información que sólo el Usuario posea o conozca. Estos mecanismos podrán ser: a) Información que el Usuario conozca y que la Sociedad Financiera Popular valide a través de cuestionarios practicados por operadores de atención telefónica.
+XXXV Bis. Factor de Autenticación, al mecanismo de [Autenticación](articulo-1.md), tangible o intangible, basado en las características físicas del Usuario, en dispositivos o información que sólo el Usuario posea o conozca. Estos mecanismos podrán ser: a) Información que el Usuario conozca y que la Sociedad Financiera Popular valide a través de cuestionarios practicados por operadores de atención telefónica.
 
 b) Información que solamente el Usuario conozca, tales como [Contraseñas](articulo-1.md) y Números de Identificación Personal (NIP).
 
@@ -198,7 +198,7 @@ XLVIII. Ley, a la Ley de Ahorro y Crédito Popular publicada en el Diario Oficia
 
 XLIX. Medidas Correctivas, a las [Medidas Correctivas Mínimas](articulo-1.md) y a las [Medidas Correctivas Especiales Adicionales](articulo-1.md), conjuntamente.
 
-L. [Medidas Correctivas](articulo-1.md) Especiales Adicionales, a las medidas que la Comisión está facultada a ordenar a las Sociedades Financieras Populares en términos de lo dispuesto por los artículos 73 y 74 de la Ley, así como por las presentes disposiciones.
+L. Medidas Correctivas Especiales Adicionales, a las medidas que la Comisión está facultada a ordenar a las Sociedades Financieras Populares en términos de lo dispuesto por los artículos 73 y 74 de la Ley, así como por las presentes disposiciones.
 
 LI. Medidas Correctivas Mínimas, a las medidas que deba aplicar la Comisión conforme a lo dispuesto por los artículos 73 y 74 de la Ley, así como por las presentes disposiciones.
 
@@ -212,7 +212,7 @@ LIV. Microcrédito, en singular o plural, a los créditos cuya fuente de pago la
 
 LV. Miembros del Comité de Supervisión, a las personas que integran el Comité de Supervisión de las Federaciones a que se refiere la Ley.
 
-LVI. Miembros del [Consejo de Vigilancia o Comisario](articulo-1.md), a las personas que integran el Consejo de Vigilancia, o que ocupan dicho cargo en las Sociedades Financieras Populares, Federaciones o [Confederaciones](articulo-1.md).
+LVI. Miembros del Consejo de Vigilancia o Comisario, a las personas que integran el Consejo de Vigilancia, o que ocupan dicho cargo en las Sociedades Financieras Populares, Federaciones o [Confederaciones](articulo-1.md).
 
 LVI Bis. Nivel de Regulación Prudencial, a los lineamientos que deberán cumplir las Sociedades Financieras Populares de conformidad con el nivel correspondiente al que se refiere el artículo [209 Bis 12](articulo-209-Bis-12.md) de las presentes disposiciones.
 

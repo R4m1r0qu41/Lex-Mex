@@ -52,7 +52,7 @@ La tasa de interés deberá determinarse conforme a alguna de las tres opciones 
 
 3. Una tasa variable con un límite máximo fijo.
 
-Las tasas de interés pactadas se deberán calcular sobre saldos insolutos y sólo podrán cobrarse por anticipado en los supuestos que al efecto determine el Banco de México en términos de lo dispuesto por la [Ley](articulo-1.md) para la Transparencia y Ordenamiento de los Servicios Financieros.
+Las tasas de interés pactadas se deberán calcular sobre saldos insolutos y sólo podrán cobrarse por anticipado en los supuestos que al efecto determine el Banco de México en términos de lo dispuesto por la Ley para la Transparencia y Ordenamiento de los Servicios Financieros.
 
 Tratándose de aperturas de líneas de crédito en las que las Sociedades no hayan renunciado al derecho de denunciarlas en cualquier tiempo, las partes podrán pactar que la tasa de interés aplicable se fijará en el momento en que se efectúe cada una de las disposiciones respectivas. Lo anterior, deberá ser acordado por las partes en los documentos en los que se instrumenten los préstamos o créditos.
 
@@ -92,7 +92,7 @@ h) Garantías.
 
 Tratándose de Sociedades con nivel de operaciones I, únicamente podrán otorgar créditos o préstamos revolventes, siempre y cuando dichas operaciones estén cubiertas al 100% por garantías líquidas que cumplan con lo que se establece en el Anexo C de las presentes disposiciones.
 
-II. Inversiones en valores autorizados por la Ley. 44
+II. Inversiones en valores autorizados por la [Ley](articulo-1.md). 44
 
 a) [Valores Gubernamentales](articulo-1.md).
 

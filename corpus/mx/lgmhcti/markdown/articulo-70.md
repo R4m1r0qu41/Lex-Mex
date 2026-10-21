@@ -25,4 +25,4 @@ II. Contar con una sólida formación curricular, así como con una trayectoria 
 
 III. Haber realizado destacadas aportaciones teóricas y de incidencia pública o social en materia de humanidades, ciencias, tecnologías o innovación, además de haber participado en actividades de acceso universal al conocimiento humanístico y científico y a sus beneficios sociales, y
 
-IV. No encontrarse en alguno de los impedimentos a que se refiere el artículo [21](../../lfep/markdown/articulo-21.md), fracción III, de la [Ley](articulo-4.md) Federal de las Entidades Paraestatales.
+IV. No encontrarse en alguno de los impedimentos a que se refiere el artículo [21](../../lfep/markdown/articulo-21.md), fracción III, de la Ley Federal de las Entidades Paraestatales.

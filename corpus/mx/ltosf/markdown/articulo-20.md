@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LTOSF.pdf
 source_sha256: bf9e443e89a5c0ba268e76f20923ae25195ef5c1ffbacecff36693ca228c3667
 ---
 
+> Capítulo IV
+
 # Artículo 20
 
 La [Comisión](articulo-3.md) Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros estará facultada para supervisar y vigilar el cumplimiento de la presente Ley por parte de las [Entidades Financieras](articulo-3.md), así como para conocer de cualquier controversia relacionada con la aplicación de la presente Ley entre los [Clientes](articulo-3.md) y las Entidades Financieras y entre los Clientes en términos de las disposiciones aplicables. Párrafo reformado DOF 25-06-2009

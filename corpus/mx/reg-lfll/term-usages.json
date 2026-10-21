@@ -109,15 +109,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfll:article:4:term-usage:385-388",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfll:article:4",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfll:term:ley",
-    "span": "Ley",
-    "start_char": 385,
-    "end_char": 388
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lfll:article:4:term-usage:545-555",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfll:article:4",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfll:term:secretaria",
@@ -784,15 +775,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfll:article:31:term-usage:601-604",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfll:article:31",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfll:term:ley",
-    "span": "Ley",
-    "start_char": 601,
-    "end_char": 604
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lfll:article:32:term-usage:135-138",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfll:article:32",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfll:term:ley",
@@ -835,14 +817,5 @@
     "span": "CONACULTA",
     "start_char": 140,
     "end_char": 149
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfll:transitory:cuarto:term-usage:310-313",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfll:transitory:cuarto",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfll:term:ley",
-    "span": "Ley",
-    "start_char": 310,
-    "end_char": 313
   }
 ]

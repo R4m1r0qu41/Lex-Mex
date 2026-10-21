@@ -81,10 +81,10 @@ XXVIII. Sistema Local de Protección: El Sistema de Protección de Niñas, Niño
 
 XXIX. Sistemas Municipales: Los Sistemas Municipales para el Desarrollo Integral de la Familia; Fracción recorrida DOF 11-12-2023, 17-04-2024
 
-XXX. [Sistema Municipal](articulo-4.md) de Protección: El Sistema de Protección de niñas, niños y adolescentes de cada municipio; Fracción adicionada DOF 17-10-2019. Recorrida DOF 11-12-2023, 17-04-2024
+XXX. Sistema Municipal de Protección: El Sistema de Protección de niñas, niños y adolescentes de cada municipio; Fracción adicionada DOF 17-10-2019. Recorrida DOF 11-12-2023, 17-04-2024
 
 XXXI. Sistema Nacional DIF: El Sistema Nacional para el Desarrollo Integral de la Familia; Fracción recorrida DOF 17-10-2019, 11-12-2023, 17-04-2024
 
-XXXII. Sistema Nacional de [Protección Integral](articulo-4.md): El Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes, y Fracción recorrida DOF 17-10-2019, 11-12-2023, 17-04-2024
+XXXII. Sistema Nacional de Protección Integral: El Sistema Nacional de [Protección Integral](articulo-4.md) de Niñas, Niños y Adolescentes, y Fracción recorrida DOF 17-10-2019, 11-12-2023, 17-04-2024
 
 XXXIII. Tratados Internacionales: Los tratados internacionales vigentes en materia de derechos de niñas, niños y adolescentes de los que el Estado mexicano sea parte. Fracción recorrida DOF 17-10-2019, 11-12-2023, 17-04-2024

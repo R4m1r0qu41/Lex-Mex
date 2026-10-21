@@ -42,4 +42,4 @@ IV. En la resolución definitiva el Instituto determinará las obligaciones espe
 
 El Instituto contará con un plazo de quince días hábiles para dictar la resolución definitiva correspondiente, la cual deberá ser notificada al agente económico dentro de un plazo no mayor a cinco días hábiles contados a partir del día siguiente a aquel en que sea emitida por la autoridad correspondiente y, posteriormente, se publicará en el Diario Oficial de la Federación.
 
-A este procedimiento le será aplicable supletoriamente la [Ley](articulo-3.md) Federal de Procedimiento Administrativo, en lo que no se oponga a las disposiciones de esta Ley.
+A este procedimiento le será aplicable supletoriamente la Ley Federal de Procedimiento Administrativo, en lo que no se oponga a las disposiciones de esta [Ley](articulo-3.md).

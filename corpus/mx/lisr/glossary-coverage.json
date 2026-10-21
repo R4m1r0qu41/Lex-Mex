@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-4",
+  "strategy_version": "glossary-extraction-5",
   "instrument_id": "urn:lex-mx:federal:statute:lisr",
   "source_sha256": "803c2875c09c751c1966b8eb4dca99f460b237da4ef67ee04b4fa325d8c2f786",
   "extracted_text_sha256": "a375e6e15f15d76cb89f96fdfa23ccd97245dba4cbcfc0e878708d5950a476f7",

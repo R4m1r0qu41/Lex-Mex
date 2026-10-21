@@ -19,9 +19,9 @@ source_sha256: 685a4669dd8c9f71153676b083ba7a68c88416677fc7b4e6026ab868c5292d3a
 
 Las Cuentas Individuales de los [Trabajadores](articulo-2o.md) y de los [Trabajadores no Afiliados](articulo-2o.md), se integrarán en su caso, por cualquiera de las siguientes Subcuentas:
 
-I. RCV [IMSS](articulo-2o.md), relativa al Seguro de Retiro, Cesantía en Edad Avanzada y Vejez previsto en la [Ley](articulo-2o.md) del Seguro Social;
+I. RCV [IMSS](articulo-2o.md), relativa al Seguro de Retiro, Cesantía en Edad Avanzada y Vejez previsto en la Ley del Seguro Social;
 
-II. RCV [ISSSTE](articulo-2o.md), relativa al Seguro de Retiro, Cesantía en Edad Avanzada y Vejez previsto en la Ley del ISSSTE;
+II. RCV [ISSSTE](articulo-2o.md), relativa al Seguro de Retiro, Cesantía en Edad Avanzada y Vejez previsto en la [Ley](articulo-2o.md) del ISSSTE;
 
 III. Vivienda;
 

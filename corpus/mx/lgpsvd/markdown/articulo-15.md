@@ -17,7 +17,7 @@ source_sha256: 2d9d70a5bf906056c4a570d1ec3edf669b1ca2aa9b5a6b335b42b895447740ab
 
 # Artículo 15
 
-El [Centro Nacional](articulo-4.md) tendrá, además de las que le confiere la [Ley](articulo-4.md) General del Sistema Nacional de Seguridad Pública y demás disposiciones aplicables, las siguientes atribuciones: I. Participar en la elaboración del [Programa Nacional](articulo-4.md) de Prevención Social de la [Violencia](articulo-4.md) y la Delincuencia;
+El [Centro Nacional](articulo-4.md) tendrá, además de las que le confiere la Ley General del Sistema Nacional de Seguridad Pública y demás disposiciones aplicables, las siguientes atribuciones: I. Participar en la elaboración del [Programa Nacional](articulo-4.md) de Prevención Social de la [Violencia](articulo-4.md) y la Delincuencia;
 
 II. Elaborar su programa anual de trabajo y someterlo a la aprobación del [Secretario Ejecutivo](articulo-4.md);
 

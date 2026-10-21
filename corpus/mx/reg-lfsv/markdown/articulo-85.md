@@ -19,7 +19,7 @@ source_sha256: 1311332a5177afc73a9d005e9953e0cd34487524768e6fe099a1c6fef29bdbb7
 
 En el caso de retorno de [Mercancías Reguladas](articulo-2.md) exportadas y rechazadas por la autoridad fitosanitaria del país de destino antes o después de ingresar a su territorio, por cuestiones de Sanidad Vegetal o contaminación, su reingreso al país estará sujeto a que el interesado cumpla en el Punto de Entrada con los requisitos siguientes:
 
-I. La copia del pedimento de exportación, en términos de lo señalado en la [Ley](articulo-2.md) Aduanera y su Reglamento;
+I. La copia del pedimento de exportación, en términos de lo señalado en la Ley Aduanera y su Reglamento;
 
 II. La carta de la notificación de rechazo, y copia del [Certificado Fitosanitario Internacional para la Exportación](articulo-2.md) emitido por la Secretaría;
 

@@ -17,4 +17,4 @@ source_sha256: 9080231242a59cbd78d30fb747864bc45cd63d3c4978f37086b01e45343f4244
 
 # Artículo 64
 
-Petróleos Mexicanos, a través del área que corresponda, debe realizar los registros de las cuentas por los conceptos de presupuesto y gasto de los recursos económicos destinados a cumplir con las obligaciones señaladas en los artículos [133](../../lsh/markdown/articulo-133.md), fracción VII y [152](../../lsh/markdown/articulo-152.md), último párrafo de la [Ley](articulo-2.md) del Sector Hidrocarburos.
+Petróleos Mexicanos, a través del área que corresponda, debe realizar los registros de las cuentas por los conceptos de presupuesto y gasto de los recursos económicos destinados a cumplir con las obligaciones señaladas en los artículos [133](../../lsh/markdown/articulo-133.md), fracción VII y [152](../../lsh/markdown/articulo-152.md), último párrafo de la Ley del Sector Hidrocarburos.

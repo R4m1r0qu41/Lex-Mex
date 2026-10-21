@@ -17,7 +17,7 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 15-A
 
-La contratación de servicios especializados o la ejecución de obras especializadas deberán cumplir con las condiciones y requisitos establecidos en la [Ley](articulo-5-A.md) Federal del Trabajo.
+La contratación de servicios especializados o la ejecución de obras especializadas deberán cumplir con las condiciones y requisitos establecidos en la Ley Federal del Trabajo.
 
 La persona física o moral que contrate la prestación de servicios o la ejecución de obras con otra persona física o moral que incumpla las obligaciones en materia de seguridad social, será responsable solidaria en relación con los trabajadores utilizados para ejecutar dichas contrataciones.
 

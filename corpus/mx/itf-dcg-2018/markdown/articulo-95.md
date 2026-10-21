@@ -20,7 +20,7 @@ source_sha256: 71787505c1b264e4e329816c009c4c1cf210f4e8889119412f83f6b1853998a2
 
 Las instituciones de financiamiento colectivo que realicen [Operaciones](../../lritf/markdown/articulo-4.md) de [Financiamiento Colectivo de Capital](articulo-2.md) deberán poner a disposición de los [Inversionistas](articulo-2.md) que hayan participado en la Operación de que se trate, al menos, durante los dos años siguientes a que se concretó la Operación, los datos siguientes:
 
-I. La información anual de los administradores de la persona moral financiada a que se refiere el artículo [172](../../lgsm/markdown/articulo-172.md) de la [Ley](articulo-2.md) General de Sociedades Mercantiles o equivalente.
+I. La información anual de los administradores de la persona moral financiada a que se refiere el artículo [172](../../lgsm/markdown/articulo-172.md) de la Ley General de Sociedades Mercantiles o equivalente.
 
 II. Los riesgos y retos que enfrenta la persona moral financiada.
 
@@ -36,4 +36,4 @@ d) Eficiencia operativa, que es el resultado de dividir los gastos administrativ
 
 Los datos a que aluden las fracciones anteriores deberán ponerse a disposición a través de su [Plataforma](articulo-2.md) a más tardar el 30 de abril de cada año. Una vez que concluya el plazo de revelación a que hace referencia el párrafo anterior, la institución de financiamiento colectivo, deberá informar a los inversionistas tal circunstancia.
 
-Tratándose de instituciones de financiamiento colectivo que a su vez sean Inversionistas por la implementación de esquemas para compartir riesgos a que alude el artículo 21, segundo párrafo de la Ley, lo dispuesto en este artículo será aplicable durante todo el tiempo en que la institución sea Inversionista.
+Tratándose de instituciones de financiamiento colectivo que a su vez sean Inversionistas por la implementación de esquemas para compartir riesgos a que alude el artículo 21, segundo párrafo de la [Ley](articulo-2.md), lo dispuesto en este artículo será aplicable durante todo el tiempo en que la institución sea Inversionista.

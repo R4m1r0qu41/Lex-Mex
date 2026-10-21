@@ -17,4 +17,4 @@ source_sha256: fc8b5680b4a1402fe4c59be919f85ace11eb8114a27f8179757dbc3bc428cdd1
 
 # Artículo 188
 
-La Secretaría de Economía emitirá las Normas Oficiales Mexicanas en coordinación con la [PROFECO](articulo-3.md) que establezcan las obligaciones específicas que deberán observar los concesionarios o autorizados, con el objeto de garantizar la protección efectiva de los derechos de los usuarios previstos en la [Ley](articulo-3.md) Federal de Protección al Consumidor y en esta Ley.
+La Secretaría de Economía emitirá las Normas Oficiales Mexicanas en coordinación con la [PROFECO](articulo-3.md) que establezcan las obligaciones específicas que deberán observar los concesionarios o autorizados, con el objeto de garantizar la protección efectiva de los derechos de los usuarios previstos en la Ley Federal de Protección al Consumidor y en esta [Ley](articulo-3.md).

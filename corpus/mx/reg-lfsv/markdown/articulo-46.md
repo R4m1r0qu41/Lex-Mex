@@ -19,4 +19,4 @@ source_sha256: 1311332a5177afc73a9d005e9953e0cd34487524768e6fe099a1c6fef29bdbb7
 
 Los Certificados Fitosanitarios de Movilización Nacional se revocarán atendiendo a los principios científicos o, en su caso, al Análisis de Riesgo de Plagas.
 
-Lo anterior, conforme a los términos y plazos establecidos en la [Ley](articulo-2.md) Federal de Procedimiento Administrativo y demás Disposiciones Legales Aplicables.
+Lo anterior, conforme a los términos y plazos establecidos en la Ley Federal de Procedimiento Administrativo y demás Disposiciones Legales Aplicables.

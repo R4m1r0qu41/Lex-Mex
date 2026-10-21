@@ -21,11 +21,11 @@ Son facultades del Pleno General las siguientes:
 
 I. Elegir de entre los Magistrados de la Sala Superior al [Presidente del Tribunal](articulo-2.md);
 
-II. Aprobar el proyecto de presupuesto del [Tribunal](articulo-2.md) con sujeción a las disposiciones contenidas en la [Ley](articulo-2.md) Federal de Presupuesto y Responsabilidad Hacendaria, y enviarlo a través del Presidente del Tribunal a la Secretaría de Hacienda y Crédito Público para su incorporación en el proyecto de Presupuesto de Egresos de la Federación, en los términos de los criterios generales de política económica y conforme a los techos globales de gasto establecidos por el Ejecutivo Federal;
+II. Aprobar el proyecto de presupuesto del [Tribunal](articulo-2.md) con sujeción a las disposiciones contenidas en la Ley Federal de Presupuesto y Responsabilidad Hacendaria, y enviarlo a través del Presidente del Tribunal a la Secretaría de Hacienda y Crédito Público para su incorporación en el proyecto de Presupuesto de Egresos de la Federación, en los términos de los criterios generales de política económica y conforme a los techos globales de gasto establecidos por el Ejecutivo Federal;
 
 III. Aprobar y expedir el Reglamento Interior del Tribunal y las reformas que le proponga la [Junta](articulo-2.md) de Gobierno y Administración;
 
-IV. Expedir el Estatuto de Carrera a que se refiere la presente Ley; V. Elegir a los Magistrados de Sala Superior y de las Salas Regionales, y a los que se integrarán la Junta de Gobierno y Administración conforme a lo previsto en la presente Ley; en su caso, sustituirlos por razones debidamente fundadas;
+IV. Expedir el Estatuto de Carrera a que se refiere la presente [Ley](articulo-2.md); V. Elegir a los Magistrados de Sala Superior y de las Salas Regionales, y a los que se integrarán la Junta de Gobierno y Administración conforme a lo previsto en la presente Ley; en su caso, sustituirlos por razones debidamente fundadas;
 
 VI. Aprobar y someter a consideración del Presidente de la República la propuesta para el nombramiento de Magistrados del Tribunal para otros periodos, previa evaluación de la Junta de Gobierno y Administración; o en su caso, para nuevos nombramientos;
 

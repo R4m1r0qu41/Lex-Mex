@@ -370,15 +370,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgahotdu:article:3:term-usage:4118-4125",
-    "provision_id": "urn:lex-mx:federal:statute:lgahotdu:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lgahotdu:term:riesgo",
-    "span": "Riesgos",
-    "start_char": 4118,
-    "end_char": 4125
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgahotdu:article:3:term-usage:4590-4601",
     "provision_id": "urn:lex-mx:federal:statute:lgahotdu:article:3",
     "term_id": "urn:lex-mx:federal:statute:lgahotdu:term:resiliencia",
@@ -415,30 +406,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgahotdu:article:3:term-usage:5732-5753",
-    "provision_id": "urn:lex-mx:federal:statute:lgahotdu:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lgahotdu:term:asentamiento-humano",
-    "span": "Asentamientos Humanos",
-    "start_char": 5732,
-    "end_char": 5753
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgahotdu:article:3:term-usage:6244-6253",
     "provision_id": "urn:lex-mx:federal:statute:lgahotdu:article:3",
     "term_id": "urn:lex-mx:federal:statute:lgahotdu:term:fundacion",
     "span": "Fundación",
     "start_char": 6244,
     "end_char": 6253
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgahotdu:article:3:term-usage:6301-6308",
-    "provision_id": "urn:lex-mx:federal:statute:lgahotdu:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lgahotdu:term:riesgo",
-    "span": "Riesgos",
-    "start_char": 6301,
-    "end_char": 6308
   },
   {
     "schema_version": "0.1.0",

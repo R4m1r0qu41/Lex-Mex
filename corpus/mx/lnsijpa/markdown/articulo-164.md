@@ -21,7 +21,7 @@ Internamiento El internamiento se utilizará como medida extrema y por el tiempo
 
 Para los efectos de esta [Ley](articulo-3.md), podrá ser aplicado el internamiento en los siguientes supuestos, previstos en la legislación federal o sus equivalentes en las entidades federativas:
 
-a) De los delitos previstos en la [Ley General](articulo-3.md) para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo [73](../../cpeum/markdown/articulo-73.md) de la [Constitución](articulo-3.md) Política de los Estados Unidos Mexicanos;
+a) De los delitos previstos en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo [73](../../cpeum/markdown/articulo-73.md) de la [Constitución](articulo-3.md) Política de los Estados Unidos Mexicanos;
 
 b) De los delitos previstos en la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos;
 

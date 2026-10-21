@@ -22,5 +22,3 @@ La Federación, las entidades federativas, la Ciudad de México y los municipios
 De conformidad con lo dispuesto en el artículo [73](../../cpeum/markdown/articulo-73.md), fracción XXI de la Constitución Política de los Estados Unidos Mexicanos, las autoridades federales podrán conocer de las medidas u órdenes de protección que deriven de violencias de género en contra de las mujeres o de delitos de fuero común relacionados con las violencias de género contra las mujeres, en los términos que establezcan las leyes aplicables en la materia. Párrafo adicionado DOF 15-01-2026
 
 Artículo reformado DOF 20-01-2009, 11-01-2021
-
-Sección Primera. De la Federación

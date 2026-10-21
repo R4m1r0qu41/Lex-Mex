@@ -19,7 +19,7 @@ source_sha256: d50b44df321cf8be51375c07cee5dbcf03eac76df1cd11ab4bd777c9fce0f789
 
 Para los efectos del presente Reglamento se estará a las definiciones previstas en las [Leyes](articulo-2.md) General del Equilibrio Ecológico y la Protección al Ambiente, y Federal sobre Metrología y Normalización y a las siguientes:
 
-I. Actividades del Sector Hidrocarburos: Aquéllas previstas en el artículo [3](../../lansi/markdown/articulo-3o.md), fracción XI, de la Ley de la [Agencia](articulo-2.md) Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos; Fracción reformada DOF 31-10-2014
+I. Actividades del Sector Hidrocarburos: Aquéllas previstas en el artículo [3](../../lansi/markdown/articulo-3o.md), fracción XI, de la Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos; Fracción reformada DOF 31-10-2014
 
 I Bis. Agencia: Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos; Fracción adicionada DOF 31-10-2014
 
@@ -33,7 +33,7 @@ V. Autorregulación: Proceso voluntario mediante el cual, respetando la legislac
 
 VI. Buenas prácticas de operación e ingeniería: Programas, proyectos, políticas o acciones desarrolladas, implantadas y mantenidas por la Empresa y que están orientadas a la prevención de la contaminación y a la administración del riesgo ambiental;
 
-VII. Certificado: Documento que la [Procuraduría](articulo-2.md) o, en su caso, la Agencia, según corresponda, otorgan a una Empresa que participa en el [Programa](articulo-2.md) Nacional de Auditoría Ambiental; Fracción reformada DOF 31-10-2014
+VII. Certificado: Documento que la [Procuraduría](articulo-2.md) o, en su caso, la [Agencia](articulo-2.md), según corresponda, otorgan a una Empresa que participa en el [Programa](articulo-2.md) Nacional de Auditoría Ambiental; Fracción reformada DOF 31-10-2014
 
 VIII. Convenio de Concertación: Instrumento jurídico firmado entre una Empresa y la Procuraduría o, en su caso, la Agencia, según corresponda; Fracción reformada DOF 31-10-2014
 

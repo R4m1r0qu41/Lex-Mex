@@ -27,7 +27,7 @@ Donde:
 
 “Mo” Representa el costo por mano de obra.
 
-“Sr” Representa el salario real del personal que interviene directamente en la ejecución de cada concepto de trabajo por jornada de ocho horas, salvo las percepciones del personal técnico, administrativo, de control, supervisión y vigilancia que corresponden a los costos indirectos, incluyendo todas las prestaciones derivadas de la [Ley](articulo-2.md) Federal del Trabajo, la Ley del Seguro Social, la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores o de los Contratos Colectivos de Trabajo en vigor.
+“Sr” Representa el salario real del personal que interviene directamente en la ejecución de cada concepto de trabajo por jornada de ocho horas, salvo las percepciones del personal técnico, administrativo, de control, supervisión y vigilancia que corresponden a los costos indirectos, incluyendo todas las prestaciones derivadas de la Ley Federal del Trabajo, la Ley del Seguro Social, la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores o de los Contratos Colectivos de Trabajo en vigor.
 
 Para la obtención del salario real se debe considerar la siguiente expresión:
 

@@ -17,7 +17,7 @@ source_sha256: 7e1c33029ca423d65491911d15e2f1b436ed269540148af1e4787570441ac0b6
 
 # Artículo 2
 
-Para efectos de este Reglamento, además de lo previsto en el artículo [2](../../lgipd/markdown/articulo-2.md) de la Ley General para la Inclusión de las Personas con [Discapacidad](articulo-2.md), se entenderá por:
+Para efectos de este Reglamento, además de lo previsto en el artículo [2](../../lgipd/markdown/articulo-2.md) de la Ley General para la Inclusión de las Personas con Discapacidad, se entenderá por:
 
 I. Deficiencia o limitación en las personas: Son disminuciones en las funciones o estructuras corporales, que restringen la actividad o la participación de una persona al interactuar con el entorno;
 

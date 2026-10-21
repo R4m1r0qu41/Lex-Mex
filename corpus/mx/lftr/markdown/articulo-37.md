@@ -20,9 +20,9 @@ source_sha256: a15012b33a415083f7714764c86fda8ed0078d3f5313dfc194c503f98a573a2a
 
 # Artículo 37
 
-El titular del Órgano Interno de Control será designado por la Cámara de Diputados con el voto de las dos terceras partes de sus miembros presentes, conforme al procedimiento establecido en la [Ley](articulo-3.md) Orgánica del Congreso General de los Estados Unidos Mexicanos.
+El titular del Órgano Interno de Control será designado por la Cámara de Diputados con el voto de las dos terceras partes de sus miembros presentes, conforme al procedimiento establecido en la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos.
 
-El titular del Órgano Interno de Control durará en su encargo cuatro años y podrá ser designado por un período inmediato posterior al que se haya desempeñado, previa postulación y cumpliendo los requisitos previstos en esta Ley y el procedimiento establecido en la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos.
+El titular del Órgano Interno de Control durará en su encargo cuatro años y podrá ser designado por un período inmediato posterior al que se haya desempeñado, previa postulación y cumpliendo los requisitos previstos en esta [Ley](articulo-3.md) y el procedimiento establecido en la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos.
 
 Tendrá un nivel jerárquico igual al de un Director General o su equivalente en la estructura orgánica del [Instituto](articulo-3.md), y mantendrá la coordinación técnica necesaria con la Entidad de Fiscalización Superior de la Federación a que se refiere el artículo [79](../../cpeum/markdown/articulo-79.md) de la [Constitución](articulo-3.md) Política de los Estados Unidos Mexicanos.
 

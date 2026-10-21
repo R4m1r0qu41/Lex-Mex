@@ -41,7 +41,7 @@ X. Consejo Mexicano. El Consejo Mexicano para el Desarrollo Rural Sustentable;
 
 XI. Consejo Municipal. El Consejo Municipal para el Desarrollo Rural Sustentable;
 
-XII. Constitución. La Constitución Política de los [Estados](articulo-3o.md) Unidos Mexicanos;
+XII. Constitución. La Constitución Política de los Estados Unidos Mexicanos;
 
 XIII. Cosechas Nacionales. El resultado de la producción agropecuaria del país;
 
@@ -55,7 +55,7 @@ XVII. Entidades Federativas. Los estados de la federación y el Distrito Federal
 
 XVIII. Estado. Los Poderes de la Unión, de las entidades federativas y de los municipios; Fracción recorrida DOF 27-01-2011
 
-XIX. Estímulos Fiscales. Los incentivos otorgados por el Estado a través de beneficios preferentes en el ejercicio de la tributación; Fracción recorrida DOF 27-01-2011
+XIX. Estímulos Fiscales. Los incentivos otorgados por el [Estado](articulo-3o.md) a través de beneficios preferentes en el ejercicio de la tributación; Fracción recorrida DOF 27-01-2011
 
 XIX Bis. Figuras Asociativas. Los ejidos, comunidades y las organizaciones y asociaciones de carácter nacional, estatal, regional, distrital, municipal o comunitario de productores del medio rural, pequeñas unidades de producción y, en su caso, las ramas de producción, que se constituyan o estén constituidas, de conformidad con las leyes vigentes y las demás disposiciones aplicables; Fracción adicionada DOF 22-12-2017
 

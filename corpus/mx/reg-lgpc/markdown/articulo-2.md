@@ -41,6 +41,6 @@ XI. Incidente: El suceso que sin constituir una situación anormal ni haber sido
 
 XII. Ley: La Ley General de Protección Civil;
 
-XIII. Sistemas de [Alerta](articulo-2.md) Temprana: El conjunto de elementos para la provisión de información oportuna y eficaz, que permiten a individuos expuestos a una amenaza tomar acciones para evitar o reducir su Riesgo, así como prepararse para una respuesta efectiva. Los Sistemas de Alerta Temprana incluyen conocimiento y mapeo de amenazas; monitoreo y pronóstico de eventos inminentes; proceso y difusión de Alertas comprensibles a las autoridades y población; así como adopción de medidas apropiadas y oportunas en respuesta a tales Alertas, y
+XIII. Sistemas de Alerta Temprana: El conjunto de elementos para la provisión de información oportuna y eficaz, que permiten a individuos expuestos a una amenaza tomar acciones para evitar o reducir su Riesgo, así como prepararse para una respuesta efectiva. Los Sistemas de [Alerta](articulo-2.md) Temprana incluyen conocimiento y mapeo de amenazas; monitoreo y pronóstico de eventos inminentes; proceso y difusión de Alertas comprensibles a las autoridades y población; así como adopción de medidas apropiadas y oportunas en respuesta a tales Alertas, y
 
 XIV. Sistemas de Monitoreo: El conjunto de elementos que permiten detectar, medir, procesar, pronosticar y estudiar el comportamiento de los agentes perturbadores, con la finalidad de evaluar Peligros y Riesgos.

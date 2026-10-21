@@ -23,7 +23,7 @@ I.- Zonas de Jurisdicción Federal, las señaladas en las disposiciones aplicabl
 
 a) Los sitios ocupados por todas las instalaciones de las terminales de transporte público federal, terrestre, aéreo y acuático;
 
-b) Los parques industriales localizados en bienes del dominio público de la Federación; en los términos de la [Ley](articulo-6o.md) General de Bienes Nacionales; y
+b) Los parques industriales localizados en bienes del dominio público de la Federación; en los términos de la Ley General de Bienes Nacionales; y
 
 c) La zona Federal marítimo-terrestre
 

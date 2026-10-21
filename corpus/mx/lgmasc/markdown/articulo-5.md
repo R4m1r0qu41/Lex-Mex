@@ -21,7 +21,7 @@ Para efectos de esta [Ley](articulo-5.md), se entenderá por:
 
 I. Acciones preventivas. Son obligaciones de dar, hacer o no hacer, solicitadas por algunas de las partes y acordadas conjuntamente ante la persona facilitadora o persona abogada colaborativa, desde el inicio del procedimiento hasta la eventual celebración del convenio;
 
-II. Centro Público de [Mecanismos Alternativos de Solución de Controversias](articulo-5.md). Los órganos del Poder Judicial de la Federación o de los Poderes Judiciales de las entidades federativas, facultados para el ejercicio de los mecanismos alternativos de solución de controversias, de conformidad con lo dispuesto en esta Ley y demás que resulten aplicables en sus respectivos ámbitos de competencia;
+II. Centro Público de Mecanismos Alternativos de Solución de Controversias. Los órganos del Poder Judicial de la Federación o de los Poderes Judiciales de las entidades federativas, facultados para el ejercicio de los mecanismos alternativos de solución de controversias, de conformidad con lo dispuesto en esta Ley y demás que resulten aplicables en sus respectivos ámbitos de competencia;
 
 III. [Centro Público de Mecanismos Alternativos de Solución de Controversias](articulo-5.md) en materia de Justicia Administrativa. Los órganos especializados de los [Tribunales de Justicia Administrativa](articulo-5.md) federal y locales, facultados para el ejercicio de los mecanismos alternativos de solución de controversias, de conformidad con lo dispuesto en esta Ley y demás que resulten aplicables en sus respectivos ámbitos de competencia;
 
@@ -29,7 +29,7 @@ IV. Centro Privado de Mecanismos Alternativos de Solución de Controversias. La 
 
 V. Certificación. Documento mediante el cual se hace constar la autorización de las personas facilitadoras públicas o privadas, así como de las personas abogadas colaborativas, para su intervención en los mecanismos alternativos de solución de controversias, otorgada por los Poderes Judiciales Federal o de las entidades federativas; así como en los Tribunales de Justicia Administrativa federal y locales;
 
-VI. Consejo. Consejo Nacional de Mecanismos Alternativos de Solución de Controversias;
+VI. Consejo. Consejo Nacional de [Mecanismos Alternativos de Solución de Controversias](articulo-5.md);
 
 VII. Consejo de Justicia Administrativa. Consejo Nacional de Mecanismos Alternativos de Solución de Controversias en materia de Justicia Administrativa, de conformidad con lo dispuesto en el Capítulo VIII de esta Ley;
 
@@ -49,13 +49,13 @@ XIV. Persona Facilitadora. La persona física certificada, para el ejercicio pú
 
 XV. Procesos de Justicia Restaurativa. Conjunto de sesiones, encuentros e intervenciones metodológicas, multidisciplinarias y especializadas enfocadas en gestionar el conflicto mediante el reconocimiento de su existencia y los daños que se generaron, así como la identificación de las necesidades de las partes, su momento de vida y sus mutuas responsabilidades, con la finalidad de adoptar y acordar el despliegue de conductas enfocadas en reparar los daños existentes y prevenir los futuros, bajo la expectativa de no repetición;
 
-XVI. Procesos de Justicia Terapéutica. Herramientas metodológicas e interdisciplinarias aplicadas en el abordaje y resolución de conflictos, mediante el acompañamiento, guía e interacción de agentes terapéuticos con las personas involucradas en el conflicto, ello con la finalidad de fomentar el bienestar físico, psicológico y emocional de las personas interesadas en la solución del conflicto; XVII. Registro de [Personas Facilitadoras](articulo-5.md). Resguardo electrónico de datos respecto del otorgamiento o modificación de la certificación de las personas facilitadoras públicas y privadas, así como de las personas abogadas colaborativas, a cargo de la instancia que determinen los Poderes Judiciales Federal o de las entidades federativas;
+XVI. Procesos de Justicia Terapéutica. Herramientas metodológicas e interdisciplinarias aplicadas en el abordaje y resolución de conflictos, mediante el acompañamiento, guía e interacción de agentes terapéuticos con las personas involucradas en el conflicto, ello con la finalidad de fomentar el bienestar físico, psicológico y emocional de las personas interesadas en la solución del conflicto; XVII. Registro de Personas Facilitadoras. Resguardo electrónico de datos respecto del otorgamiento o modificación de la certificación de las personas facilitadoras públicas y privadas, así como de las personas abogadas colaborativas, a cargo de la instancia que determinen los Poderes Judiciales Federal o de las entidades federativas;
 
 XVIII. Plataforma Nacional de Personas Facilitadoras. Resguardo electrónico a cargo del [Consejo](articulo-5.md) de la Judicatura Federal, que contiene los datos e información respecto del otorgamiento de certificación de las personas facilitadoras públicas y privadas en todo el territorio nacional, así como de las personas abogadas colaborativas;
 
 XIX. Sistemas en línea. Dispositivos electrónicos, programas informáticos, aplicaciones, herramientas tecnológicas, plataformas, protocolos, sistemas de justicia descentralizada, sistemas automatizados y demás tecnologías de la información y comunicación, utilizados para llevar a cabo la solución de controversias en línea;
 
-XX. Sistema de [Convenios](articulo-5.md). Resguardo electrónico del registro de los convenios, a cargo del Centro Público de Mecanismos Alternativos de Solución de Controversias, de los Poderes Judiciales Federal o de las entidades federativas;
+XX. Sistema de Convenios. Resguardo electrónico del registro de los convenios, a cargo del Centro Público de Mecanismos Alternativos de Solución de Controversias, de los Poderes Judiciales Federal o de las entidades federativas;
 
 XXI. Sistema Nacional de Información de Convenios. Resguardo electrónico de la información contenida en el [Sistema de Convenios](articulo-5.md) de los Poderes Judiciales Federal o de las entidades federativas, a cargo del Consejo de la Judicatura Federal;
 

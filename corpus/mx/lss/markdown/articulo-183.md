@@ -17,6 +17,6 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 183
 
-Los gastos que genere el sistema de emisión, cobranza y control de aportaciones a las cuentas individuales de los trabajadores serán cubiertos al [Instituto](articulo-5-A.md) por las administradoras de fondos para el retiro, por cada dispersión de recursos, en términos de lo que se prevea en las disposiciones administrativas que deriven de la [Ley](articulo-5-A.md) de los Sistemas de Ahorro para el Retiro.
+Los gastos que genere el sistema de emisión, cobranza y control de aportaciones a las cuentas individuales de los trabajadores serán cubiertos al [Instituto](articulo-5-A.md) por las administradoras de fondos para el retiro, por cada dispersión de recursos, en términos de lo que se prevea en las disposiciones administrativas que deriven de la Ley de los Sistemas de Ahorro para el Retiro.
 
 Artículo reformado DOF 20-12-2001

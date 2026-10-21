@@ -19,4 +19,4 @@ source_sha256: a823b87d27bee29da481750b9893f00024bd80aed8b0713bf8b1ac1e55b9b8de
 
 Los extranjeros deberán acreditar su situación migratoria regular en el país, en los actos jurídicos en los que se requiera de la intervención de los notarios públicos, los que sustituyan a éstos o hagan sus veces, en lo relativo a cuestiones inmobiliarias, y los corredores de comercio.
 
-De conformidad con lo dispuesto en el artículo 27 de la [Constitución](articulo-3.md), la [Ley](articulo-3.md) de Inversión Extranjera y demás leyes y disposiciones aplicables, los extranjeros deberán formular las renuncias correspondientes.
+De conformidad con lo dispuesto en el artículo 27 de la [Constitución](articulo-3.md), la Ley de Inversión Extranjera y demás leyes y disposiciones aplicables, los extranjeros deberán formular las renuncias correspondientes.

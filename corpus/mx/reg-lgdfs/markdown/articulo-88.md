@@ -33,6 +33,6 @@ VI. Vigencia, la cual no podrá exceder de dos años, y
 
 VII. Lugar de destino final del material recolectado.
 
-Asimismo, con el aviso deberá anexarse el original o copia certificada del documento en que conste el consentimiento del propietario o Legítimo poseedor del predio en el que se realice la recolección. En el caso de ejidos y comunidades, original o copia certificada del acta de asamblea en la que conste su consentimiento para realizar la colecta, de conformidad con la [Ley](articulo-2.md) Agraria. En ambos casos, se presentará copia simple para cotejo.
+Asimismo, con el aviso deberá anexarse el original o copia certificada del documento en que conste el consentimiento del propietario o Legítimo poseedor del predio en el que se realice la recolección. En el caso de ejidos y comunidades, original o copia certificada del acta de asamblea en la que conste su consentimiento para realizar la colecta, de conformidad con la Ley Agraria. En ambos casos, se presentará copia simple para cotejo.
 
 Tratándose de Terrenos forestales nacionales la autoridad competente otorgará dicho consentimiento de conformidad con las disposiciones jurídicas aplicables.

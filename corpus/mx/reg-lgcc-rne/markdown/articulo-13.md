@@ -37,4 +37,4 @@ VIII. La información específica a que se refiere el [artículo siguiente](arti
 
 Además de la información señalada en el párrafo anterior se anexarán el documento con el que se acredite la personalidad jurídica del representante legal y la copia de su identificación oficial, en formato electrónico, como archivos de imagen u otros análogos.
 
-Los Establecimientos Sujetos a Reporte que opten por efectuar el trámite a que se refiere este artículo a través de medios electrónicos, deberán observar las disposiciones conducentes previstas en la [Ley](../../lgcc/markdown/articulo-3o.md) de Firma Electrónica Avanzada y en su Reglamento.
+Los Establecimientos Sujetos a Reporte que opten por efectuar el trámite a que se refiere este artículo a través de medios electrónicos, deberán observar las disposiciones conducentes previstas en la Ley de Firma Electrónica Avanzada y en su Reglamento.

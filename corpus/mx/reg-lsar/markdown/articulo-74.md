@@ -23,7 +23,7 @@ I. Proporcionar de manera continua a las Empresas Operadoras, la información re
 
 II. Proporcionar de manera continua a las Empresas Operadoras y al [IMSS](articulo-2o.md), la información sobre los Trabajadores a los que les haya sido otorgado o cancelado un crédito de vivienda;
 
-III. Realizar de conformidad con la [Ley](articulo-2o.md) del Instituto del Fondo Nacional de la Vivienda para los Trabajadores y sus reglamentos, y con base en la información que le proporcione la Comisión o las Empresas Operadoras, acciones tendientes a que los patrones formulen las aclaraciones relativas a las [Aportaciones al INFONAVIT](articulo-2o.md) que enteren y que no puedan ser individualizadas. A tal efecto, el INFONAVIT informará a la Comisión o a las Empresas Operadoras las acciones realizadas;
+III. Realizar de conformidad con la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores y sus reglamentos, y con base en la información que le proporcione la Comisión o las Empresas Operadoras, acciones tendientes a que los patrones formulen las aclaraciones relativas a las [Aportaciones al INFONAVIT](articulo-2o.md) que enteren y que no puedan ser individualizadas. A tal efecto, el INFONAVIT informará a la Comisión o a las Empresas Operadoras las acciones realizadas;
 
 IV. Coadyuvar en lo conducente, para que se consideren en las Subcuentas de Vivienda los resultados de los procesos de unificación y [Separación de Cuentas](articulo-2o.md);
 

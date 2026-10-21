@@ -15,4 +15,4 @@ source_sha256: fc8b5680b4a1402fe4c59be919f85ace11eb8114a27f8179757dbc3bc428cdd1
 
 # Sexto
 
-Al día siguiente a aquel en que se integre el Pleno de la [Comisión](articulo-3.md) Reguladora de Telecomunicaciones, se abroga la [Ley](articulo-3.md) Federal de Telecomunicaciones y [Radiodifusión](articulo-3.md), publicada en el Diario Oficial de la Federación el 14 de julio de 2014.
+Al día siguiente a aquel en que se integre el Pleno de la [Comisión](articulo-3.md) Reguladora de Telecomunicaciones, se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicada en el Diario Oficial de la Federación el 14 de julio de 2014.

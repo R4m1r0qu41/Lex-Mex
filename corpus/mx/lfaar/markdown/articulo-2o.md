@@ -31,7 +31,7 @@ V. Agroasemex, a AGROASEMEX, S.A., Institución Nacional de Seguros;
 
 VI. Organismo Integrador, en singular o plural, a las Asociaciones de Fondos de Aseguramiento que se constituyan en los ámbitos Nacional, Estatal y Local, de conformidad con lo previsto en esta Ley;
 
-VII. [Organismo Integrador](articulo-2o.md) Nacional, al Organismo Integrador Nacional de Fondos de Aseguramiento Agropecuario y Rural formado por [Organismos Integradores Estatales](articulo-2o.md), de conformidad con lo previsto en esta Ley;
+VII. Organismo Integrador Nacional, al [Organismo Integrador](articulo-2o.md) Nacional de Fondos de Aseguramiento Agropecuario y Rural formado por [Organismos Integradores Estatales](articulo-2o.md), de conformidad con lo previsto en esta Ley;
 
 VIII. Organismo Integrador Estatal, en singular o plural, a las Asociaciones de Fondos de Aseguramiento formadas por [Organismos Integradores Locales](articulo-2o.md) y/o por Fondos de Aseguramiento de una Entidad Federativa, de conformidad con lo previsto en esta Ley;
 

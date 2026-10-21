@@ -19,7 +19,7 @@ source_sha256: 694325ff5d428da51b8f87c5939c58b1e2e8590bd86f13ade6cd284c932cdfc3
 
 Para los efectos de este Reglamento, en lo sucesivo se entenderá por:
 
-I. Apuesta: Monto susceptible de apreciarse en moneda nacional que se arriesga en un juego de los permitidos en el artículo [2](../../lfjs/markdown/articulo-2o.md) de la [Ley](articulo-3.md) Federal de Juegos y [Sorteos](articulo-3.md) y regulado por el presente reglamento con la posibilidad de obtener o ganar un premio, cuyo monto, sumado a la cantidad arriesgada debe ser superior a ésta; Fracción reformada DOF 16-11-2023
+I. Apuesta: Monto susceptible de apreciarse en moneda nacional que se arriesga en un juego de los permitidos en el artículo [2](../../lfjs/markdown/articulo-2o.md) de la [Ley](articulo-3.md) Federal de Juegos y Sorteos y regulado por el presente reglamento con la posibilidad de obtener o ganar un premio, cuyo monto, sumado a la cantidad arriesgada debe ser superior a ésta; Fracción reformada DOF 16-11-2023
 
 I. BIS. Azar: Casualidad a que se fía el resultado de un juego, el cual es completamente ajeno a la voluntad del jugador; Fracción adicionada DOF 19-10-2012
 
@@ -29,7 +29,7 @@ III. Boleto: Documento o registro electrónico autorizado que acredita al portad
 
 IV. Concentración: Procedimiento auxiliar de seguridad para los participantes, a cargo del organizador, que consiste en reunir previamente a la celebración de un sorteo los talones de los boletos participantes, en los términos fijados en el permiso correspondiente;
 
-IV BIS. Consejo Consultivo: al Consejo Consultivo de Juegos y Sorteos; Fracción adicionada DOF 16-11-2023
+IV BIS. Consejo Consultivo: al Consejo Consultivo de Juegos y [Sorteos](articulo-3.md); Fracción adicionada DOF 16-11-2023
 
 V. Dirección: La Dirección General de Juegos y Sorteos, de la [Secretaría](articulo-3.md) de Gobernación; Fracción reformada DOF 19-10-2012
 
@@ -67,7 +67,7 @@ XX. Secretaría: Secretaría de Gobernación;
 
 XXI. Sembrado: Distribución aleatoria de los números que serán premiados o de los premios que serán otorgados, establecida en el momento de elaboración de los comprobantes de participación de los sorteos instantáneos;
 
-XXII. Sistema Central de [Apuestas](articulo-3.md): Sistema central de cómputo que registra y totaliza las transacciones generadas con motivo de la apuesta y permite su interconexión segura a través de telecomunicaciones;
+XXII. Sistema Central de Apuestas: Sistema central de cómputo que registra y totaliza las transacciones generadas con motivo de la apuesta y permite su interconexión segura a través de telecomunicaciones;
 
 XXIII. Sorteo: Actividad en la que los poseedores o titulares de un boleto mediante la selección previa de un número, combinación de números o cualquier otro símbolo, obtienen el derecho a participar, ya sea de manera gratuita o mediante un pago, en un procedimiento previamente estipulado y aprobado por la Secretaría, conforme al cual se determina al azar un número, combinación de números, símbolo o símbolos que generan uno o varios ganadores de un premio;
 

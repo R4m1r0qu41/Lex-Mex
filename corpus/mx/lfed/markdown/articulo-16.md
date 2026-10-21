@@ -23,7 +23,7 @@ I. Las carpetas de investigación, las averiguaciones previas y los juicios pena
 
 II. La que se genere de las investigaciones para la prevención de los delitos que realicen las autoridades competentes de cualquier fuero;
 
-III. La información que se genere en el sistema único de información criminal previsto en la [Ley](articulo-2.md) General del Sistema Nacional de Seguridad Pública;
+III. La información que se genere en el sistema único de información criminal previsto en la Ley General del Sistema Nacional de Seguridad Pública;
 
 IV. La información generada con la aplicación de la Ley General de Responsabilidades Administrativas;
 
@@ -33,4 +33,4 @@ VI. La generada por la asistencia jurídica, acuerdos y los tratados internacion
 
 VII. Cualquier otra información lícita que contenga datos o indicios útiles para la preparación de la acción de extinción de dominio.
 
-Para el caso de que durante la etapa de preparación de la acción de extinción de dominio que realiza el Ministerio Público, se obtenga información cierta de alguna persona, que de manera eficaz, o que en forma efectiva contribuya a la obtención de evidencia para la declaratoria de extinción de dominio, o las aporte, podrá recibir una retribución de hasta el cinco por ciento del producto que el Estado obtenga por la liquidación y venta de tales [Bienes](articulo-2.md), luego de realizados los pagos a que se refiere esta Ley, a juicio del [Juez](articulo-2.md). Los falsos informantes o declarantes ante el Ministerio Público incurrirán en el delito de falsedad de informes dados a una autoridad o sus equivalentes en las leyes penales de las [Entidades Federativas](articulo-2.md).
+Para el caso de que durante la etapa de preparación de la acción de extinción de dominio que realiza el Ministerio Público, se obtenga información cierta de alguna persona, que de manera eficaz, o que en forma efectiva contribuya a la obtención de evidencia para la declaratoria de extinción de dominio, o las aporte, podrá recibir una retribución de hasta el cinco por ciento del producto que el Estado obtenga por la liquidación y venta de tales [Bienes](articulo-2.md), luego de realizados los pagos a que se refiere esta [Ley](articulo-2.md), a juicio del [Juez](articulo-2.md). Los falsos informantes o declarantes ante el Ministerio Público incurrirán en el delito de falsedad de informes dados a una autoridad o sus equivalentes en las leyes penales de las [Entidades Federativas](articulo-2.md).

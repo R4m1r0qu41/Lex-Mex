@@ -29,4 +29,4 @@ IV. Haya dado un mal uso al Certificado y a la marca correspondiente, o
 
 V. Haya sido sancionado por alguno de los ilícitos previstos en el Titulo Vigésimo Quinto del Código Penal Federal, de los Delitos contra el ambiente y la gestión ambiental.
 
-El procedimiento previsto en este artículo, se desarrollará conforme a las disposiciones de la [Ley](articulo-2.md) Federal de Procedimiento Administrativo.
+El procedimiento previsto en este artículo, se desarrollará conforme a las disposiciones de la Ley Federal de Procedimiento Administrativo.

@@ -21,4 +21,4 @@ La [Estrategia Nacional](articulo-3o.md) constituye el instrumento rector de la 
 
 La [Secretaría](articulo-3o.md) elaborará la Estrategia Nacional con la participación del [INECC](articulo-3o.md) y la opinión del [Consejo](articulo-3o.md) y será aprobada por la [Comisión](articulo-3o.md) y publicada en el Diario Oficial de la Federación.
 
-En la elaboración de la Estrategia Nacional se promoverá la participación y consulta del sector social y privado, con el propósito de que la población exprese sus opiniones para su elaboración, actualización y ejecución, en los términos previstos por la [Ley](articulo-3o.md) de Planeación y demás disposiciones aplicables.
+En la elaboración de la Estrategia Nacional se promoverá la participación y consulta del sector social y privado, con el propósito de que la población exprese sus opiniones para su elaboración, actualización y ejecución, en los términos previstos por la Ley de Planeación y demás disposiciones aplicables.

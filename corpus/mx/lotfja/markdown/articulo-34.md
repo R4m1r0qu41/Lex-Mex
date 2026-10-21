@@ -21,7 +21,7 @@ Las Salas Regionales Ordinarias conocerán de los juicios por razón de territor
 
 I. Se trate de personas morales que:
 
-a. Formen parte del sistema financiero, en los términos de la [Ley](articulo-2.md) del Impuesto sobre la Renta, o
+a. Formen parte del sistema financiero, en los términos de la Ley del Impuesto sobre la Renta, o
 
 b. Tengan el carácter de controladoras o controladas, de conformidad con la Ley del Impuesto sobre la Renta, y determinen su resultado fiscal consolidado;
 

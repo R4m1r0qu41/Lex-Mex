@@ -23,7 +23,7 @@ I. Renuncia;
 
 II. Incapacidad permanente para el desempeño de sus funciones dictaminada por el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
 
-III. Destitución, en los términos que señale la [Ley](articulo-9.md) General de Responsabilidades Administrativas y la presente Ley;
+III. Destitución, en los términos que señale la Ley General de Responsabilidades Administrativas y la presente [Ley](articulo-9.md);
 
 IV. Inhabilitación;
 

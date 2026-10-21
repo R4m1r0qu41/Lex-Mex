@@ -127,15 +127,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgec:article:3:term-usage:186-199",
-    "provision_id": "urn:lex-mx:federal:statute:lgec:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lgec:term:ciclo-de-vida",
-    "span": "Ciclo de Vida",
-    "start_char": 186,
-    "end_char": 199
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgec:article:3:term-usage:247-260",
     "provision_id": "urn:lex-mx:federal:statute:lgec:article:3",
     "term_id": "urn:lex-mx:federal:statute:lgec:term:ciclo-de-vida",
@@ -325,15 +316,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgec:article:3:term-usage:2911-2928",
-    "provision_id": "urn:lex-mx:federal:statute:lgec:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lgec:term:economia-circular",
-    "span": "Economía Circular",
-    "start_char": 2911,
-    "end_char": 2928
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgec:article:3:term-usage:3002-3010",
     "provision_id": "urn:lex-mx:federal:statute:lgec:article:3",
     "term_id": "urn:lex-mx:federal:statute:lgec:term:producto",
@@ -376,15 +358,6 @@
     "span": "Economía Circular",
     "start_char": 3662,
     "end_char": 3679
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgec:article:3:term-usage:4128-4145",
-    "provision_id": "urn:lex-mx:federal:statute:lgec:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lgec:term:economia-circular",
-    "span": "Economía Circular",
-    "start_char": 4128,
-    "end_char": 4145
   },
   {
     "schema_version": "0.1.0",
@@ -559,15 +532,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgec:article:3:term-usage:7452-7469",
-    "provision_id": "urn:lex-mx:federal:statute:lgec:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lgec:term:economia-circular",
-    "span": "Economía Circular",
-    "start_char": 7452,
-    "end_char": 7469
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgec:article:3:term-usage:7507-7526",
     "provision_id": "urn:lex-mx:federal:statute:lgec:article:3",
     "term_id": "urn:lex-mx:federal:statute:lgec:term:plataforma-nacional",
@@ -592,15 +556,6 @@
     "span": "Ley",
     "start_char": 7618,
     "end_char": 7621
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgec:article:3:term-usage:7633-7650",
-    "provision_id": "urn:lex-mx:federal:statute:lgec:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lgec:term:economia-circular",
-    "span": "Economía Circular",
-    "start_char": 7633,
-    "end_char": 7650
   },
   {
     "schema_version": "0.1.0",
@@ -1207,15 +1162,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgec:article:6:term-usage:433-436",
-    "provision_id": "urn:lex-mx:federal:statute:lgec:article:6",
-    "term_id": "urn:lex-mx:federal:statute:lgec:term:ley",
-    "span": "Ley",
-    "start_char": 433,
-    "end_char": 436
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgec:article:6:term-usage:494-511",
     "provision_id": "urn:lex-mx:federal:statute:lgec:article:6",
     "term_id": "urn:lex-mx:federal:statute:lgec:term:economia-circular",
@@ -1231,15 +1177,6 @@
     "span": "Secretaría",
     "start_char": 715,
     "end_char": 725
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgec:article:6:term-usage:778-781",
-    "provision_id": "urn:lex-mx:federal:statute:lgec:article:6",
-    "term_id": "urn:lex-mx:federal:statute:lgec:term:ley",
-    "span": "Ley",
-    "start_char": 778,
-    "end_char": 781
   },
   {
     "schema_version": "0.1.0",
@@ -2206,15 +2143,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgec:article:18:term-usage:76-79",
-    "provision_id": "urn:lex-mx:federal:statute:lgec:article:18",
-    "term_id": "urn:lex-mx:federal:statute:lgec:term:ley",
-    "span": "Ley",
-    "start_char": 76,
-    "end_char": 79
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgec:article:18:term-usage:221-238",
     "provision_id": "urn:lex-mx:federal:statute:lgec:article:18",
     "term_id": "urn:lex-mx:federal:statute:lgec:term:economia-circular",
@@ -2257,15 +2185,6 @@
     "span": "Programa Nacional",
     "start_char": 845,
     "end_char": 862
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgec:article:18:term-usage:962-965",
-    "provision_id": "urn:lex-mx:federal:statute:lgec:article:18",
-    "term_id": "urn:lex-mx:federal:statute:lgec:term:ley",
-    "span": "Ley",
-    "start_char": 962,
-    "end_char": 965
   },
   {
     "schema_version": "0.1.0",
@@ -2701,15 +2620,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgec:article:22:term-usage:515-518",
-    "provision_id": "urn:lex-mx:federal:statute:lgec:article:22",
-    "term_id": "urn:lex-mx:federal:statute:lgec:term:ley",
-    "span": "Ley",
-    "start_char": 515,
-    "end_char": 518
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgec:article:22:term-usage:688-705",
     "provision_id": "urn:lex-mx:federal:statute:lgec:article:22",
     "term_id": "urn:lex-mx:federal:statute:lgec:term:economia-circular",
@@ -3007,24 +2917,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgec:article:29:term-usage:511-514",
-    "provision_id": "urn:lex-mx:federal:statute:lgec:article:29",
-    "term_id": "urn:lex-mx:federal:statute:lgec:term:ley",
-    "span": "Ley",
-    "start_char": 511,
-    "end_char": 514
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgec:article:29:term-usage:519-526",
-    "provision_id": "urn:lex-mx:federal:statute:lgec:article:29",
-    "term_id": "urn:lex-mx:federal:statute:lgec:term:sistema",
-    "span": "Sistema",
-    "start_char": 519,
-    "end_char": 526
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgec:article:29:term-usage:761-780",
     "provision_id": "urn:lex-mx:federal:statute:lgec:article:29",
     "term_id": "urn:lex-mx:federal:statute:lgec:term:plataforma-nacional",
@@ -3247,15 +3139,6 @@
     "span": "Ley",
     "start_char": 188,
     "end_char": 191
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgec:article:35:term-usage:196-199",
-    "provision_id": "urn:lex-mx:federal:statute:lgec:article:35",
-    "term_id": "urn:lex-mx:federal:statute:lgec:term:ley",
-    "span": "Ley",
-    "start_char": 196,
-    "end_char": 199
   },
   {
     "schema_version": "0.1.0",
@@ -3772,15 +3655,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgec:article:44:term-usage:500-503",
-    "provision_id": "urn:lex-mx:federal:statute:lgec:article:44",
-    "term_id": "urn:lex-mx:federal:statute:lgec:term:ley",
-    "span": "Ley",
-    "start_char": 500,
-    "end_char": 503
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgec:article:45:term-usage:34-37",
     "provision_id": "urn:lex-mx:federal:statute:lgec:article:45",
     "term_id": "urn:lex-mx:federal:statute:lgec:term:ley",
@@ -3805,15 +3679,6 @@
     "span": "Secretaría",
     "start_char": 82,
     "end_char": 92
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgec:article:45:term-usage:147-150",
-    "provision_id": "urn:lex-mx:federal:statute:lgec:article:45",
-    "term_id": "urn:lex-mx:federal:statute:lgec:term:ley",
-    "span": "Ley",
-    "start_char": 147,
-    "end_char": 150
   },
   {
     "schema_version": "0.1.0",
@@ -3850,15 +3715,6 @@
     "span": "Ley",
     "start_char": 598,
     "end_char": 601
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgec:article:47:term-usage:692-695",
-    "provision_id": "urn:lex-mx:federal:statute:lgec:article:47",
-    "term_id": "urn:lex-mx:federal:statute:lgec:term:ley",
-    "span": "Ley",
-    "start_char": 692,
-    "end_char": 695
   },
   {
     "schema_version": "0.1.0",
@@ -3907,15 +3763,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgec:article:49:term-usage:62-65",
-    "provision_id": "urn:lex-mx:federal:statute:lgec:article:49",
-    "term_id": "urn:lex-mx:federal:statute:lgec:term:ley",
-    "span": "Ley",
-    "start_char": 62,
-    "end_char": 65
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgec:article:49:term-usage:131-134",
     "provision_id": "urn:lex-mx:federal:statute:lgec:article:49",
     "term_id": "urn:lex-mx:federal:statute:lgec:term:ley",
@@ -3925,30 +3772,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgec:article:49:term-usage:197-200",
-    "provision_id": "urn:lex-mx:federal:statute:lgec:article:49",
-    "term_id": "urn:lex-mx:federal:statute:lgec:term:ley",
-    "span": "Ley",
-    "start_char": 197,
-    "end_char": 200
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgec:transitory:segundo:term-usage:164-167",
     "provision_id": "urn:lex-mx:federal:statute:lgec:transitory:segundo",
     "term_id": "urn:lex-mx:federal:statute:lgec:term:ley",
     "span": "Ley",
     "start_char": 164,
     "end_char": 167
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgec:transitory:segundo:term-usage:179-196",
-    "provision_id": "urn:lex-mx:federal:statute:lgec:transitory:segundo",
-    "term_id": "urn:lex-mx:federal:statute:lgec:term:economia-circular",
-    "span": "Economía Circular",
-    "start_char": 179,
-    "end_char": 196
   },
   {
     "schema_version": "0.1.0",
@@ -3997,15 +3826,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgec:transitory:tercero:term-usage:411-414",
-    "provision_id": "urn:lex-mx:federal:statute:lgec:transitory:tercero",
-    "term_id": "urn:lex-mx:federal:statute:lgec:term:ley",
-    "span": "Ley",
-    "start_char": 411,
-    "end_char": 414
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgec:transitory:tercero:term-usage:443-453",
     "provision_id": "urn:lex-mx:federal:statute:lgec:transitory:tercero",
     "term_id": "urn:lex-mx:federal:statute:lgec:term:secretaria",
@@ -4030,15 +3850,6 @@
     "span": "Ley",
     "start_char": 224,
     "end_char": 227
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgec:transitory:cuarto:term-usage:239-256",
-    "provision_id": "urn:lex-mx:federal:statute:lgec:transitory:cuarto",
-    "term_id": "urn:lex-mx:federal:statute:lgec:term:economia-circular",
-    "span": "Economía Circular",
-    "start_char": 239,
-    "end_char": 256
   },
   {
     "schema_version": "0.1.0",

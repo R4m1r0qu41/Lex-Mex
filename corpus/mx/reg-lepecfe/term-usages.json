@@ -46,15 +46,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lepecfe:article:2:term-usage:625-644",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lepecfe:article:2",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lepecfe:term:personas-consejeras",
-    "span": "Personas Consejeras",
-    "start_char": 625,
-    "end_char": 644
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lepecfe:article:2:term-usage:690-715",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lepecfe:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lepecfe:term:consejo-de-administracion",
@@ -70,15 +61,6 @@
     "span": "Ley",
     "start_char": 767,
     "end_char": 770
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lepecfe:article:2:term-usage:779-796",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lepecfe:article:2",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lepecfe:term:personas-consejeras",
-    "span": "Persona Consejera",
-    "start_char": 779,
-    "end_char": 796
   },
   {
     "schema_version": "0.1.0",
@@ -829,33 +811,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lepecfe:article:29:term-usage:335-338",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lepecfe:article:29",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lepecfe:term:ley",
-    "span": "Ley",
-    "start_char": 335,
-    "end_char": 338
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lepecfe:article:29:term-usage:388-391",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lepecfe:article:29",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lepecfe:term:ley",
-    "span": "Ley",
-    "start_char": 388,
-    "end_char": 391
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lepecfe:article:29:term-usage:461-464",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lepecfe:article:29",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lepecfe:term:ley",
-    "span": "Ley",
-    "start_char": 461,
-    "end_char": 464
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lepecfe:article:30:term-usage:141-144",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lepecfe:article:30",
     "term_id": "urn:lex-mx:federal:regulation:reg-lepecfe:term:ley",
@@ -991,24 +946,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lepecfe:article:38:term-usage:353-356",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lepecfe:article:38",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lepecfe:term:ley",
-    "span": "Ley",
-    "start_char": 353,
-    "end_char": 356
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lepecfe:article:38:term-usage:426-429",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lepecfe:article:38",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lepecfe:term:ley",
-    "span": "Ley",
-    "start_char": 426,
-    "end_char": 429
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lepecfe:article:38:term-usage:636-661",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lepecfe:article:38",
     "term_id": "urn:lex-mx:federal:regulation:reg-lepecfe:term:consejo-de-administracion",
@@ -1090,15 +1027,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lepecfe:article:43:term-usage:542-545",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lepecfe:article:43",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lepecfe:term:ley",
-    "span": "Ley",
-    "start_char": 542,
-    "end_char": 545
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lepecfe:article:44:term-usage:53-56",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lepecfe:article:44",
     "term_id": "urn:lex-mx:federal:regulation:reg-lepecfe:term:ley",
@@ -1135,57 +1063,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lepecfe:article:62:term-usage:1007-1010",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lepecfe:article:62",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lepecfe:term:ley",
-    "span": "Ley",
-    "start_char": 1007,
-    "end_char": 1010
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lepecfe:article:64:term-usage:89-92",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lepecfe:article:64",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lepecfe:term:ley",
-    "span": "Ley",
-    "start_char": 89,
-    "end_char": 92
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lepecfe:article:66:term-usage:55-58",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lepecfe:article:66",
     "term_id": "urn:lex-mx:federal:regulation:reg-lepecfe:term:ley",
     "span": "Ley",
     "start_char": 55,
     "end_char": 58
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lepecfe:article:66:term-usage:904-907",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lepecfe:article:66",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lepecfe:term:ley",
-    "span": "Ley",
-    "start_char": 904,
-    "end_char": 907
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lepecfe:article:66:term-usage:958-961",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lepecfe:article:66",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lepecfe:term:ley",
-    "span": "Ley",
-    "start_char": 958,
-    "end_char": 961
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lepecfe:article:67:term-usage:175-178",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lepecfe:article:67",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lepecfe:term:ley",
-    "span": "Ley",
-    "start_char": 175,
-    "end_char": 178
   },
   {
     "schema_version": "0.1.0",
@@ -1222,15 +1105,6 @@
     "span": "Consejo de Administración",
     "start_char": 888,
     "end_char": 913
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lepecfe:article:69:term-usage:297-300",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lepecfe:article:69",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lepecfe:term:ley",
-    "span": "Ley",
-    "start_char": 297,
-    "end_char": 300
   },
   {
     "schema_version": "0.1.0",
@@ -1321,15 +1195,6 @@
     "span": "Ley",
     "start_char": 66,
     "end_char": 69
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lepecfe:article:75:term-usage:359-362",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lepecfe:article:75",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lepecfe:term:ley",
-    "span": "Ley",
-    "start_char": 359,
-    "end_char": 362
   },
   {
     "schema_version": "0.1.0",
@@ -1429,15 +1294,6 @@
     "span": "Ley",
     "start_char": 52,
     "end_char": 55
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lepecfe:article:79:term-usage:164-167",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lepecfe:article:79",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lepecfe:term:ley",
-    "span": "Ley",
-    "start_char": 164,
-    "end_char": 167
   },
   {
     "schema_version": "0.1.0",

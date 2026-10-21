@@ -62,5 +62,3 @@ XX. Solicitar información a las autoridades administrativas y jurisdiccionales 
 XXI. Coadyuvar con la Secretaría de las Mujeres para el cumplimiento de las funciones previstas con relación al Registro Nacional, y Fracción adicionada DOF 16-12-2024
 
 XXII. Las demás previstas para el cumplimiento de la presente ley. Fracción recorrida DOF 14-06-2012, 08-05-2023, 16-12-2024
-
-Sección Quinta. De la Secretaría de Educación Pública

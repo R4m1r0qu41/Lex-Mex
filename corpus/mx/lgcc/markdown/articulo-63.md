@@ -23,7 +23,7 @@ La contribución nacionalmente determinada constituye el instrumento rector de l
 
 La [Secretaría](articulo-3o.md) elaborará la contribución nacionalmente determinada con la participación del [INECC](articulo-3o.md) y la opinión del [Consejo](articulo-3o.md) y será aprobada por la Comisión y publicada en el Diario Oficial de la Federación.
 
-En la elaboración de la contribución nacionalmente determinada se promoverá la participación y consulta del sector social y privado, con el propósito de que la población exprese sus opiniones para su elaboración, actualización y ejecución, en los términos previstos por la [Ley](articulo-3o.md) de Planeación y demás disposiciones aplicables.
+En la elaboración de la contribución nacionalmente determinada se promoverá la participación y consulta del sector social y privado, con el propósito de que la población exprese sus opiniones para su elaboración, actualización y ejecución, en los términos previstos por la Ley de Planeación y demás disposiciones aplicables.
 
 La Secretaría con la participación de la Comisión deberá revisar la contribución nacionalmente determinada según lo establecido por el Acuerdo de París o las decisiones que emanen de dicho acuerdo.
 

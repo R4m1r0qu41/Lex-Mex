@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LTOSF.pdf
 source_sha256: bf9e443e89a5c0ba268e76f20923ae25195ef5c1ffbacecff36693ca228c3667
 ---
 
+> Capítulo III
+
 # Artículo 18
 
 Las instituciones de crédito en las que se realice el depósito del salario, pensiones y de otras prestaciones de carácter laboral estarán obligadas a atender las solicitudes de los trabajadores para transferir periódicamente la totalidad de los recursos depositados a otra institución de crédito de su elección, sin que la institución que transfiera los recursos pueda cobrar penalización o cargo alguno al trabajador que le solicite este servicio. Asimismo, los trabajadores podrán convenir con la institución de crédito que elijan como destinataria de sus recursos que en su nombre y representación realice el trámite a que se refiere el presente artículo.

@@ -1,24 +1,6 @@
 [
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgimh:article:3:term-usage:831-845",
-    "provision_id": "urn:lex-mx:federal:statute:lgimh:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lgimh:term:discriminacion",
-    "span": "Discriminación",
-    "start_char": 831,
-    "end_char": 845
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgimh:article:4:term-usage:147-161",
-    "provision_id": "urn:lex-mx:federal:statute:lgimh:article:4",
-    "term_id": "urn:lex-mx:federal:statute:lgimh:term:discriminacion",
-    "span": "Discriminación",
-    "start_char": 147,
-    "end_char": 161
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgimh:article:5:term-usage:4377-4396",
     "provision_id": "urn:lex-mx:federal:statute:lgimh:article:5",
     "term_id": "urn:lex-mx:federal:statute:lgimh:term:igualdad-sustantiva",

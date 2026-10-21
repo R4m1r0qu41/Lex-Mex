@@ -29,7 +29,7 @@ d) Ejercer la fe pública registral;
 
 e) Realizar el estudio integral de los documentos que les sean turnados para determinar la procedencia de su registro;
 
-f) Informar el monto de los derechos por cubrir de conformidad con lo establecido en la [Ley](articulo-10.md) Federal de Derechos;
+f) Informar el monto de los derechos por cubrir de conformidad con lo establecido en la Ley Federal de Derechos;
 
 g) Ordenar, bajo su estricta vigilancia y supervisión, que se hagan los asientos en el folio correspondiente, y autorizarlos con su firma;
 

@@ -15,4 +15,4 @@ source_sha256: 1a64991c466c40c7ed0f3d7bffa1b5d5b87dc9df8aa59a97b525a99f98b381a6
 
 # Tercero
 
-El [Programa](articulo-4.md) a que se refiere la Ley de [Cooperación Internacional](articulo-4.md) para el Desarrollo, deberá ser integrado dentro de los 120 días que sigan a la constitución de la [AMEXCID](articulo-4.md).
+El [Programa](articulo-4.md) a que se refiere la Ley de Cooperación Internacional para el Desarrollo, deberá ser integrado dentro de los 120 días que sigan a la constitución de la [AMEXCID](articulo-4.md).

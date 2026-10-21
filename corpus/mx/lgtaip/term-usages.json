@@ -595,15 +595,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgtaip:article:29:term-usage:248-251",
-    "provision_id": "urn:lex-mx:federal:statute:lgtaip:article:29",
-    "term_id": "urn:lex-mx:federal:statute:lgtaip:term:ley",
-    "span": "Ley",
-    "start_char": 248,
-    "end_char": 251
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgtaip:article:29:term-usage:441-457",
     "provision_id": "urn:lex-mx:federal:statute:lgtaip:article:29",
     "term_id": "urn:lex-mx:federal:statute:lgtaip:term:consejo-nacional",
@@ -1360,15 +1351,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgtaip:article:65:term-usage:5396-5399",
-    "provision_id": "urn:lex-mx:federal:statute:lgtaip:article:65",
-    "term_id": "urn:lex-mx:federal:statute:lgtaip:term:ley",
-    "span": "Ley",
-    "start_char": 5396,
-    "end_char": 5399
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgtaip:article:65:term-usage:6895-6905",
     "provision_id": "urn:lex-mx:federal:statute:lgtaip:article:65",
     "term_id": "urn:lex-mx:federal:statute:lgtaip:term:expediente",
@@ -1432,15 +1414,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgtaip:article:67:term-usage:5396-5399",
-    "provision_id": "urn:lex-mx:federal:statute:lgtaip:article:67",
-    "term_id": "urn:lex-mx:federal:statute:lgtaip:term:ley",
-    "span": "Ley",
-    "start_char": 5396,
-    "end_char": 5399
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgtaip:article:68:term-usage:139-142",
     "provision_id": "urn:lex-mx:federal:statute:lgtaip:article:68",
     "term_id": "urn:lex-mx:federal:statute:lgtaip:term:ley",
@@ -1477,33 +1450,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgtaip:article:70:term-usage:3985-3988",
-    "provision_id": "urn:lex-mx:federal:statute:lgtaip:article:70",
-    "term_id": "urn:lex-mx:federal:statute:lgtaip:term:ley",
-    "span": "Ley",
-    "start_char": 3985,
-    "end_char": 3988
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgtaip:article:70:term-usage:4141-4144",
-    "provision_id": "urn:lex-mx:federal:statute:lgtaip:article:70",
-    "term_id": "urn:lex-mx:federal:statute:lgtaip:term:ley",
-    "span": "Ley",
-    "start_char": 4141,
-    "end_char": 4144
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgtaip:article:70:term-usage:5646-5649",
-    "provision_id": "urn:lex-mx:federal:statute:lgtaip:article:70",
-    "term_id": "urn:lex-mx:federal:statute:lgtaip:term:ley",
-    "span": "Ley",
-    "start_char": 5646,
-    "end_char": 5649
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgtaip:article:70:term-usage:6568-6584",
     "provision_id": "urn:lex-mx:federal:statute:lgtaip:article:70",
     "term_id": "urn:lex-mx:federal:statute:lgtaip:term:sistema-nacional",
@@ -1519,15 +1465,6 @@
     "span": "Ley",
     "start_char": 126,
     "end_char": 129
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgtaip:article:71:term-usage:967-970",
-    "provision_id": "urn:lex-mx:federal:statute:lgtaip:article:71",
-    "term_id": "urn:lex-mx:federal:statute:lgtaip:term:ley",
-    "span": "Ley",
-    "start_char": 967,
-    "end_char": 970
   },
   {
     "schema_version": "0.1.0",
@@ -1681,69 +1618,6 @@
     "span": "Ley",
     "start_char": 105,
     "end_char": 108
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgtaip:article:82:term-usage:448-451",
-    "provision_id": "urn:lex-mx:federal:statute:lgtaip:article:82",
-    "term_id": "urn:lex-mx:federal:statute:lgtaip:term:ley",
-    "span": "Ley",
-    "start_char": 448,
-    "end_char": 451
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgtaip:article:82:term-usage:4568-4571",
-    "provision_id": "urn:lex-mx:federal:statute:lgtaip:article:82",
-    "term_id": "urn:lex-mx:federal:statute:lgtaip:term:ley",
-    "span": "Ley",
-    "start_char": 4568,
-    "end_char": 4571
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgtaip:article:82:term-usage:5319-5322",
-    "provision_id": "urn:lex-mx:federal:statute:lgtaip:article:82",
-    "term_id": "urn:lex-mx:federal:statute:lgtaip:term:ley",
-    "span": "Ley",
-    "start_char": 5319,
-    "end_char": 5322
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgtaip:article:82:term-usage:9193-9196",
-    "provision_id": "urn:lex-mx:federal:statute:lgtaip:article:82",
-    "term_id": "urn:lex-mx:federal:statute:lgtaip:term:ley",
-    "span": "Ley",
-    "start_char": 9193,
-    "end_char": 9196
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgtaip:article:82:term-usage:10526-10529",
-    "provision_id": "urn:lex-mx:federal:statute:lgtaip:article:82",
-    "term_id": "urn:lex-mx:federal:statute:lgtaip:term:ley",
-    "span": "Ley",
-    "start_char": 10526,
-    "end_char": 10529
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgtaip:article:82:term-usage:10891-10894",
-    "provision_id": "urn:lex-mx:federal:statute:lgtaip:article:82",
-    "term_id": "urn:lex-mx:federal:statute:lgtaip:term:ley",
-    "span": "Ley",
-    "start_char": 10891,
-    "end_char": 10894
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgtaip:article:82:term-usage:11449-11452",
-    "provision_id": "urn:lex-mx:federal:statute:lgtaip:article:82",
-    "term_id": "urn:lex-mx:federal:statute:lgtaip:term:ley",
-    "span": "Ley",
-    "start_char": 11449,
-    "end_char": 11452
   },
   {
     "schema_version": "0.1.0",
@@ -2626,24 +2500,6 @@
     "span": "Comité de Transparencia",
     "start_char": 756,
     "end_char": 779
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgtaip:article:143:term-usage:392-395",
-    "provision_id": "urn:lex-mx:federal:statute:lgtaip:article:143",
-    "term_id": "urn:lex-mx:federal:statute:lgtaip:term:ley",
-    "span": "Ley",
-    "start_char": 392,
-    "end_char": 395
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgtaip:article:143:term-usage:869-872",
-    "provision_id": "urn:lex-mx:federal:statute:lgtaip:article:143",
-    "term_id": "urn:lex-mx:federal:statute:lgtaip:term:ley",
-    "span": "Ley",
-    "start_char": 869,
-    "end_char": 872
   },
   {
     "schema_version": "0.1.0",
@@ -3601,15 +3457,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgtaip:article:190:term-usage:241-244",
-    "provision_id": "urn:lex-mx:federal:statute:lgtaip:article:190",
-    "term_id": "urn:lex-mx:federal:statute:lgtaip:term:ley",
-    "span": "Ley",
-    "start_char": 241,
-    "end_char": 244
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgtaip:article:190:term-usage:527-530",
     "provision_id": "urn:lex-mx:federal:statute:lgtaip:article:190",
     "term_id": "urn:lex-mx:federal:statute:lgtaip:term:ley",
@@ -3841,15 +3688,6 @@
     "span": "Autoridades garantes",
     "start_char": 284,
     "end_char": 304
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgtaip:article:203:term-usage:103-106",
-    "provision_id": "urn:lex-mx:federal:statute:lgtaip:article:203",
-    "term_id": "urn:lex-mx:federal:statute:lgtaip:term:ley",
-    "span": "Ley",
-    "start_char": 103,
-    "end_char": 106
   },
   {
     "schema_version": "0.1.0",
@@ -4186,15 +4024,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgtaip:transitory:segundo:term-usage:90-93",
-    "provision_id": "urn:lex-mx:federal:statute:lgtaip:transitory:segundo",
-    "term_id": "urn:lex-mx:federal:statute:lgtaip:term:ley",
-    "span": "Ley",
-    "start_char": 90,
-    "end_char": 93
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgtaip:transitory:segundo:term-usage:247-250",
     "provision_id": "urn:lex-mx:federal:statute:lgtaip:transitory:segundo",
     "term_id": "urn:lex-mx:federal:statute:lgtaip:term:ley",
@@ -4210,15 +4039,6 @@
     "span": "Ley",
     "start_char": 422,
     "end_char": 425
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgtaip:transitory:segundo:term-usage:596-599",
-    "provision_id": "urn:lex-mx:federal:statute:lgtaip:transitory:segundo",
-    "term_id": "urn:lex-mx:federal:statute:lgtaip:term:ley",
-    "span": "Ley",
-    "start_char": 596,
-    "end_char": 599
   },
   {
     "schema_version": "0.1.0",
@@ -4273,15 +4093,6 @@
     "span": "Ley",
     "start_char": 175,
     "end_char": 178
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgtaip:transitory:decimo-tercero:term-usage:283-286",
-    "provision_id": "urn:lex-mx:federal:statute:lgtaip:transitory:decimo-tercero",
-    "term_id": "urn:lex-mx:federal:statute:lgtaip:term:ley",
-    "span": "Ley",
-    "start_char": 283,
-    "end_char": 286
   },
   {
     "schema_version": "0.1.0",

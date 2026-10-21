@@ -19,7 +19,7 @@ source_sha256: 4e276866fce1638948a6daf1a5c0438fa412554f1a6e0381cbdf7cb300e3db75
 
 A la solicitud señalada en el [artículo anterior](articulo-126.md), se anexará:
 
-I. Acta de asamblea ejidal o comunal, realizada en términos de la [Ley](articulo-3o.md) Agraria, en la que se exprese la voluntad de destinar sus predios a la conservación, para el caso de ejidos y comunidades;
+I. Acta de asamblea ejidal o comunal, realizada en términos de la Ley Agraria, en la que se exprese la voluntad de destinar sus predios a la conservación, para el caso de ejidos y comunidades;
 
 II. Copia de la identificación oficial en caso de que el propietario sea persona física y, cuando se trate de personas morales, copia de la documentación que acredite su personalidad jurídica y la de su representante legal. Tratándose de ejidos y comunidades, copia del acta de asamblea por la que se elige al comisariado ejidal o comunal en funciones en términos de la Ley Agraria;
 
@@ -37,7 +37,7 @@ c) Los lineamientos para el uso y aprovechamiento de los recursos naturales del 
 
 Los interesados que requieran de la asistencia técnica de la [Secretaría](articulo-3o.md) podrán acudir ante las unidades administrativas de la [Comisión](articulo-3o.md), para que se les apoye en el diseño de la estrategia de manejo del área a certificar.
 
-En las áreas privadas y sociales destinadas voluntariamente a la conservación, competencia de la Federación, los propietarios definirán libremente las zonas y subzonas para el manejo del predio, para lo cual podrán considerar lo previsto en el artículo [47 BIS](../../lgeepa/markdown/articulo-47-BIS.md) de la Ley.
+En las áreas privadas y sociales destinadas voluntariamente a la conservación, competencia de la Federación, los propietarios definirán libremente las zonas y subzonas para el manejo del predio, para lo cual podrán considerar lo previsto en el artículo [47 BIS](../../lgeepa/markdown/articulo-47-BIS.md) de la [Ley](articulo-3o.md).
 
 Asimismo, decidirán libremente la denominación con la que el predio destinado voluntariamente a la conservación será reconocido como área natural protegida de competencia federal y podrán incluir en la misma la característica que destaque conforme a lo señalado en el artículo [133 QUÁTER](articulo-133-QUÁTER.md) del presente Reglamento.
 

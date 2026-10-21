@@ -2971,15 +2971,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpas:transitory:sexto:term-usage:253-258",
-    "provision_id": "urn:lex-mx:federal:statute:lgpas:transitory:sexto",
-    "term_id": "urn:lex-mx:federal:statute:lgpas:term:pesca",
-    "span": "Pesca",
-    "start_char": 253,
-    "end_char": 258
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgpas:transitory:noveno:term-usage:172-177",
     "provision_id": "urn:lex-mx:federal:statute:lgpas:transitory:noveno",
     "term_id": "urn:lex-mx:federal:statute:lgpas:term:pesca",

@@ -27,7 +27,7 @@ III. Código Penal: El Código Penal Federal.
 
 IV. Código Procesal: El Código Federal de Procedimientos Penales.
 
-V. [Códigos Procesales](articulo-4o.md) Locales: Los Códigos de Procedimientos Penales de las entidades federativas.
+V. Códigos Procesales Locales: Los Códigos de Procedimientos Penales de las entidades federativas.
 
 VI. La Secretaría: La Secretaría de Gobernación.
 

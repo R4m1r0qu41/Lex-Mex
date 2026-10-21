@@ -23,7 +23,7 @@ I. A la Fiscalía Especializada de Control Competencial, la investigación y per
 
 II. A la Fiscalía Especializada de Control Regional, la investigación y persecución de los delitos federales que no sean competencia de otra unidad administrativa de la Institución, así como de la coordinación y articulación de las unidades administrativas de la Fiscalía General que ejerzan sus funciones en las circunscripciones territoriales o regionales, garantizará la unidad de actuación, la coordinación institucional y la eficiencia del [Ministerio Público](articulo-9.md);
 
-III. A la Fiscalía Especializada en materia de Delincuencia Organizada, que será la unidad especializada a que se refiere el artículo [8](../../lfdo/markdown/articulo-8o.md) de la [Ley](articulo-9.md) Federal contra la Delincuencia Organizada, las facultades que dicho ordenamiento le confiere;
+III. A la Fiscalía Especializada en materia de Delincuencia Organizada, que será la unidad especializada a que se refiere el artículo [8](../../lfdo/markdown/articulo-8o.md) de la Ley Federal contra la Delincuencia Organizada, las facultades que dicho ordenamiento le confiere;
 
 IV. A la Fiscalía Especializada en materia de Delitos Electorales, la investigación y persecución de los delitos establecidos en la Ley General en Materia de Delitos Electorales y en cualquier otro ordenamiento legal en la materia;
 

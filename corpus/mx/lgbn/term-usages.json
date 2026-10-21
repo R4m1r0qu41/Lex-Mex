@@ -10,15 +10,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgbn:article:2:term-usage:214-226",
-    "provision_id": "urn:lex-mx:federal:statute:lgbn:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lgbn:term:dependencias",
-    "span": "Dependencias",
-    "start_char": 214,
-    "end_char": 226
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgbn:article:2:term-usage:260-270",
     "provision_id": "urn:lex-mx:federal:statute:lgbn:article:2",
     "term_id": "urn:lex-mx:federal:statute:lgbn:term:secretaria",
@@ -2428,15 +2419,6 @@
     "span": "Federación",
     "start_char": 102,
     "end_char": 112
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgbn:article:116:term-usage:533-542",
-    "provision_id": "urn:lex-mx:federal:statute:lgbn:article:116",
-    "term_id": "urn:lex-mx:federal:statute:lgbn:term:entidades",
-    "span": "Entidades",
-    "start_char": 533,
-    "end_char": 542
   },
   {
     "schema_version": "0.1.0",

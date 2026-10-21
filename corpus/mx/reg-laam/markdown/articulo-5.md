@@ -21,7 +21,7 @@ Para efectos de lo establecido en el presente Reglamento, se entenderá como:
 
 I. Alto Mando: La persona titular de la [Secretaría](articulo-5.md) de Marina; Fracción reformada DOF 02-04-2026
 
-I Bis. Adecuación de grado: El proceso de selección en el cual puede participar el personal naval que haya realizado estudios por su cuenta, conforme a lo previsto en los artículos [55](../../loam/markdown/articulo-55.md) y [57](../../loam/markdown/articulo-57.md) de la [Ley](articulo-5.md) Orgánica de la Armada de México; Fracción adicionada DOF 02-04-2026
+I Bis. Adecuación de grado: El proceso de selección en el cual puede participar el personal naval que haya realizado estudios por su cuenta, conforme a lo previsto en los artículos [55](../../loam/markdown/articulo-55.md) y [57](../../loam/markdown/articulo-57.md) de la Ley Orgánica de la Armada de México; Fracción adicionada DOF 02-04-2026
 
 I Ter. Ascenso de forma excepcional: Son los otorgados por el [Alto Mando](articulo-5.md) al personal que ostente el grado de Marinero a Capitán de Corbeta que, a su juicio y consideración haya demostrado una destacada dedicación, compromiso y disposición para el servicio. Lo anterior, con independencia de los concursos de selección de la promoción y adecuación de grado, y sin detrimento de las vacantes autorizadas para estos, conforme a la disponibilidad presupuestaria. Fracción adicionada DOF 02-04-2026
 
@@ -29,7 +29,7 @@ II. Comisión Coordinadora: Comisión Coordinadora para Ascensos;
 
 III. Comisión Local: Comisión que, con carácter temporal, se integra en las jurisdicciones de los Mandos, para proporcionar apoyo a la [Comisión Coordinadora](articulo-5.md) durante la promoción; Fracción reformada DOF 02-04-2026
 
-IV. Concurso de Selección: El conjunto de actividades que comprende el desarrollo, la aplicación y calificación de los exámenes a que se refiere el artículo 35 de la Ley para determinar el orden de prelación en el que será propuesto el personal de Marinero hasta Capitán de Corbeta convocado para su ascenso, en los diferentes procesos que contempla la Ley Orgánica de la Armada de México; Fracción reformada DOF 11-03-2016, 02-04-2026
+IV. Concurso de Selección: El conjunto de actividades que comprende el desarrollo, la aplicación y calificación de los exámenes a que se refiere el artículo 35 de la [Ley](articulo-5.md) para determinar el orden de prelación en el que será propuesto el personal de Marinero hasta Capitán de Corbeta convocado para su ascenso, en los diferentes procesos que contempla la Ley Orgánica de la Armada de México; Fracción reformada DOF 11-03-2016, 02-04-2026
 
 V. Direcciones Generales: Unidades administrativas de la Secretaría que conforme a sus atribuciones son responsables a nivel central de la administración de los recursos humanos y materiales, así como aquellas unidades administrativas que el Alto Mando determine deban participar en la [Promoción General](articulo-5.md); Fracción reformada DOF 11-03-2016
 
@@ -57,7 +57,7 @@ XV. Personal de Apoyo: Personal naval de los diferentes cuerpos y servicios de l
 
 XVI. Presidenta o Presidente: La persona titular de la Presidencia de la Comisión Coordinadora para Ascensos; Fracción reformada DOF 02-04-2026
 
-XVII. [Presidentas o Presidentes](articulo-5.md) de las [Comisiones Locales](articulo-5.md): Las personas titulares de los Mandos de Regiones, Zonas y Sectores Navales, Agregadurías Navales y otros que por necesidades del servicio designe la Comisión Coordinadora; Fracción reformada DOF 02-04-2026
+XVII. Presidentas o Presidentes de las Comisiones Locales: Las personas titulares de los Mandos de Regiones, Zonas y Sectores Navales, Agregadurías Navales y otros que por necesidades del servicio designe la Comisión Coordinadora; Fracción reformada DOF 02-04-2026
 
 XVII Bis. Proceso de Selección: El conjunto de actividades que realiza la [Jefatura de Operaciones](articulo-5.md) cada año o cuando se ordene para seleccionar y reunir los elementos de juicio señalados en el artículo [18](../../laam/markdown/articulo-18.md) de la Ley, al personal de Capitanes de Fragata hasta Vicealmirantes convocados para ascenso y, en su caso, proponerlos en las listas a que se refieren los artículos [32](../../laam/markdown/articulo-32.md), fracción III y [33](../../laam/markdown/articulo-33.md), fracción III de la Ley de Ascensos de la Armada de México, las cuales se elaborarán conforme a dichos artículos; Fracción adicionada DOF 11-03-2016. Reformada DOF 02-04-2026
 

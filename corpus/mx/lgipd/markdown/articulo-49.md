@@ -21,4 +21,4 @@ El Director General será designado por el Presidente de la República, debiendo
 
 II. Haber desempeñado cargos de alto nivel decisorio, cuyo ejercicio requiera conocimientos, experiencia en materia administrativa y en materia de discapacidad, y
 
-III. No encontrarse en alguno de los impedimentos que para ser miembro del Órgano de Gobierno señalan las fracciones II, III, IV y V del artículo [19](../../lfep/markdown/articulo-19.md) de la [Ley](articulo-2.md) Federal de las Entidades Paraestatales.
+III. No encontrarse en alguno de los impedimentos que para ser miembro del Órgano de Gobierno señalan las fracciones II, III, IV y V del artículo [19](../../lfep/markdown/articulo-19.md) de la Ley Federal de las Entidades Paraestatales.

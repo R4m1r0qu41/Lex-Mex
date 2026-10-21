@@ -1783,15 +1783,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpdppso:transitory:segundo:term-usage:657-674",
-    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:transitory:segundo",
-    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:sujetos-obligados",
-    "span": "Sujetos Obligados",
-    "start_char": 657,
-    "end_char": 674
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgpdppso:transitory:quinto:term-usage:304-314",
     "provision_id": "urn:lex-mx:federal:statute:lgpdppso:transitory:quinto",
     "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",

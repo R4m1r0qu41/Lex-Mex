@@ -19,4 +19,4 @@ source_sha256: 43723ba379e128c1a1c1be4b085ecc870946cdec43d56f83e7314c077361368f
 
 El corredor podrá intervenir como árbitro en la resolución de controversias en materia mercantil o en las que resulten entre proveedores y consumidores, ya sea a solicitud de las partes en conflicto o de autoridad competente.
 
-En los casos en que el corredor sea designado árbitro por las partes contendientes ante la Procuraduría Federal del Consumidor, su intervención se sujetará a las bases previstas en la [Ley](articulo-2o.md) Federal de Protección al Consumidor.
+En los casos en que el corredor sea designado árbitro por las partes contendientes ante la Procuraduría Federal del Consumidor, su intervención se sujetará a las bases previstas en la Ley Federal de Protección al Consumidor.

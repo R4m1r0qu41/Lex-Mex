@@ -19,7 +19,7 @@ source_sha256: 030ed4c6e3950adecfd4c6376b31d216dc4d876d90b21190c982bccac0b03d7a
 
 La estructura programática, conforme a la clasificación funcional y programática, se compone de las categorías siguientes: Párrafo reformado DOF 04-09-2009
 
-I. Función y subfunción, que identifican y organizan las actividades que realizan los ejecutores de gasto en la consecución de los fines y objetivos contenidos en la Constitución Política de los Estados Unidos Mexicanos, conforme al clasificador emitido en términos de la [Ley](articulo-2.md) General de Contabilidad Gubernamental; Fracción reformada DOF 25-04-2014
+I. Función y subfunción, que identifican y organizan las actividades que realizan los ejecutores de gasto en la consecución de los fines y objetivos contenidos en la Constitución Política de los Estados Unidos Mexicanos, conforme al clasificador emitido en términos de la Ley General de Contabilidad Gubernamental; Fracción reformada DOF 25-04-2014
 
 II. Programa, para efectos presupuestarios, identifica los programas que establecen las dependencias y entidades para el cumplimiento de sus funciones, políticas y objetivos institucionales, conforme a sus atribuciones. Párrafo reformado DOF 04-09-2009
 

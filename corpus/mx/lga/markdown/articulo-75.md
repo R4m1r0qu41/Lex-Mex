@@ -17,7 +17,7 @@ source_sha256: 2f931111ab2745aa5a3b2ef0a99dc5beaf73d78f7674f2d90b4462319c1fc688
 
 # Artículo 75
 
-Las personas físicas y morales, propietarios o poseedores de documentos o archivos considerados de interés público, deberán garantizar su conservación, preservación y acceso, y aquellos declarados como Monumentos históricos, en términos de la [Ley](articulo-4.md) Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, deberán inscribirlos en el [Registro Nacional](articulo-4.md), de conformidad con el Capítulo VI del presente Título.
+Las personas físicas y morales, propietarios o poseedores de documentos o archivos considerados de interés público, deberán garantizar su conservación, preservación y acceso, y aquellos declarados como Monumentos históricos, en términos de la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, deberán inscribirlos en el [Registro Nacional](articulo-4.md), de conformidad con el Capítulo VI del presente Título.
 
 Asimismo, los particulares podrán solicitar al [Archivo General](articulo-4.md) asistencia técnica en materia de gestión documental y administración de archivos.
 

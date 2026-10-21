@@ -23,7 +23,7 @@ II. Realizar en el ámbito federal la función conciliatoria colectiva, misma qu
 
 III. Llevar el registro de todos los contratos colectivos de trabajo, contratos-ley, reglamentos interiores de trabajo y de las organizaciones sindicales, así como todos los actos y procedimientos a que se refiere el párrafo cuarto de la fracción XX del Apartado A del artículo 123 Constitucional;
 
-IV. Establecer el servicio profesional de conformidad con los parámetros estipulados en la [Ley](articulo-3.md) Federal del Trabajo y esta Ley;
+IV. Establecer el servicio profesional de conformidad con los parámetros estipulados en la Ley Federal del Trabajo y esta [Ley](articulo-3.md);
 
 V. Establecer planes de capacitación de conformidad con lo previsto en la Ley Federal del Trabajo y esta Ley;
 

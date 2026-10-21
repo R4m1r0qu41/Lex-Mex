@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-4",
+  "strategy_version": "glossary-extraction-5",
   "instrument_id": "urn:lex-mx:federal:statute:lmv",
   "source_sha256": "cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9",
   "extracted_text_sha256": "c1671047f4abca5eae46619bf3671abaa86fdc6d31fae27c51b6124269918b1a",
@@ -43,5 +43,5 @@
   ],
   "imports": [],
   "term_count": 25,
-  "usage_count": 973
+  "usage_count": 964
 }

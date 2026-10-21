@@ -71,6 +71,6 @@ j) Descripción y programación de las medidas de prevención y mitigación de i
 
 k) En su caso, el nombre o denominación o razón social y datos de inscripción en el Registro de la persona responsable de elaborar el Programa de manejo forestal y de dirigir la ejecución del aprovechamiento.
 
-Lo previsto en las fracciones I y II del presente artículo no aplicará para las especies que se encuentren en alguna categoría especial de riesgo, cuyo aprovechamiento se sujetará a lo dispuesto en la [Ley](articulo-2.md) General de Vida Silvestre y su Reglamento.
+Lo previsto en las fracciones I y II del presente artículo no aplicará para las especies que se encuentren en alguna categoría especial de riesgo, cuyo aprovechamiento se sujetará a lo dispuesto en la Ley General de Vida Silvestre y su Reglamento.
 
 Cuando la información requerida en el presente artículo se contenga en los estudios o programas regionales forestales autorizados por la Comisión a las Unidades de manejo forestal e inscritos en el Registro, bastará con que el interesado haga referencia a dichos estudios o programas para cumplir con los requisitos previstos en este artículo.

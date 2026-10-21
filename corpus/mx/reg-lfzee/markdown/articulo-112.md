@@ -33,11 +33,11 @@ VII. La descripción de los espacios o lotes industriales que el Solicitante pre
 
 VIII. El calendario que establezca los plazos y etapas para la construcción y operación requeridas para llevar a cabo las Actividades Económicas Productivas en la Zona;
 
-IX. La autorización de impacto ambiental emitida en términos de la [Ley](articulo-4.md) General del Equilibrio Ecológico y la Protección al Ambiente y las demás disposiciones jurídicas aplicables, en su caso;
+IX. La autorización de impacto ambiental emitida en términos de la Ley General del Equilibrio Ecológico y la Protección al Ambiente y las demás disposiciones jurídicas aplicables, en su caso;
 
 X. La descripción de los [Servicios Asociados](articulo-4.md) que pretenda solicitar y las cantidades que le deberán ser suministradas en la Zona;
 
-X Bis. La opinión favorable del Servicio de Administración Tributaria, conforme a las reglas de carácter general que para tal efecto emita dicho órgano administrativo desconcentrado. Para obtener dicha opinión, las empresas deberán demostrar que la Actividad Económica Productiva que pretenden realizar se efectúa en su totalidad mediante inversiones nuevas a que se refiere el artículo [67](articulo-67.md), fracción VIII Bis, inciso a) del presente Reglamento, que no implica el traslado o reubicación de inversiones existentes en otras áreas o regiones del país y que genera niveles óptimos de inversión y empleo consistentes con los objetivos de la Ley; Fracción adicionada DOF 29-09-2017
+X Bis. La opinión favorable del Servicio de Administración Tributaria, conforme a las reglas de carácter general que para tal efecto emita dicho órgano administrativo desconcentrado. Para obtener dicha opinión, las empresas deberán demostrar que la Actividad Económica Productiva que pretenden realizar se efectúa en su totalidad mediante inversiones nuevas a que se refiere el artículo [67](articulo-67.md), fracción VIII Bis, inciso a) del presente Reglamento, que no implica el traslado o reubicación de inversiones existentes en otras áreas o regiones del país y que genera niveles óptimos de inversión y empleo consistentes con los objetivos de la [Ley](articulo-4.md); Fracción adicionada DOF 29-09-2017
 
 XI. La manifestación, bajo protesta de decir verdad, que la información que presenta es verídica, y
 

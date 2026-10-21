@@ -21,7 +21,7 @@ En lo no previsto por la presente Ley, a los sujetos de la misma se les aplicar�
 
 I. La legislación mercantil;
 
-II. La legislación civil federal; III. El Código Fiscal de la [Federación](articulo-3o.md) para efectos de las notificaciones a que se refiere esta Ley, y
+II. La legislación civil federal; III. El Código Fiscal de la Federación para efectos de las notificaciones a que se refiere esta Ley, y
 
 IV. La Ley Federal de Procedimiento Administrativo en sus Títulos Tercero A, referente a la mejora regulatoria.
 

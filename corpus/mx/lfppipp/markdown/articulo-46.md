@@ -21,4 +21,4 @@ En el supuesto caso de que una persona que se encuentre dentro del [Programa](ar
 
 Este traslado no ocasionará responsabilidad alguna para el Estado mexicano y las autoridades encargadas del Programa.
 
-En el supuesto de que el país receptor de la persona requerida, pretenda procesarla penalmente, deberá estarse a lo establecido en la [Ley](articulo-2.md) de Extradición Internacional y en los Tratados Internacionales en la materia.
+En el supuesto de que el país receptor de la persona requerida, pretenda procesarla penalmente, deberá estarse a lo establecido en la Ley de Extradición Internacional y en los Tratados Internacionales en la materia.

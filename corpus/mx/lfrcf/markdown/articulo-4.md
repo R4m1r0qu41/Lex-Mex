@@ -43,7 +43,7 @@ XII. Entidades fiscalizadoras locales: las que están previstas en el artículo 
 
 XIII. Faltas administrativas graves: las así señaladas en la Ley General de Responsabilidades Administrativas;
 
-XIV. Financiamiento y otras obligaciones: toda operación constitutiva de un pasivo, directo o contingente, de corto, mediano o largo plazo, derivada de un crédito, empréstito o préstamo, incluyendo arrendamientos y factorajes financieros o cadenas productivas, independientemente de la forma mediante la que se instrumente, u obligación de pago, en los términos de la Ley Federal de Deuda Pública y de la Ley de Disciplina Financiera de las [Entidades Federativas](articulo-4.md) y los Municipios;
+XIV. Financiamiento y otras obligaciones: toda operación constitutiva de un pasivo, directo o contingente, de corto, mediano o largo plazo, derivada de un crédito, empréstito o préstamo, incluyendo arrendamientos y factorajes financieros o cadenas productivas, independientemente de la forma mediante la que se instrumente, u obligación de pago, en los términos de la Ley Federal de Deuda Pública y de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios;
 
 XV. Fiscalía Especializada: Fiscalía Especializada en Materia de Combate a la Corrupción;
 
@@ -51,7 +51,7 @@ XVI. Fiscalización superior: la revisión que realiza la Auditoría Superior de
 
 XVII. Gestión Financiera: las acciones, tareas y procesos que, en la ejecución de los programas, realizan las entidades fiscalizadas para captar, recaudar u obtener recursos públicos conforme a la [Ley de Ingresos](articulo-4.md) y el presupuesto de egresos, así como las demás disposiciones aplicables, para administrar, manejar, custodiar, ejercer y aplicar los mismos y demás fondos, patrimonio y recursos, en términos del [Presupuesto de Egresos](articulo-4.md) y las demás disposiciones aplicables;
 
-XVIII. Hacienda Pública Federal: conjunto de bienes y derechos de titularidad de la Federación; XIX. Informe de Avance de [Gestión Financiera](articulo-4.md): el informe que rinden los poderes de la unión y los entes públicos federales de manera consolidada a través del Ejecutivo Federal, a la Cámara sobre los avances físicos y financieros de los programas federales aprobados para el análisis correspondiente de dicha Cámara, presentado como un apartado específico del segundo informe trimestral del ejercicio correspondiente al que se refiere el artículo [107](../../lfprh/markdown/articulo-107.md) de la Ley Federal de Presupuesto y Responsabilidad Hacendaria;
+XVIII. Hacienda Pública Federal: conjunto de bienes y derechos de titularidad de la Federación; XIX. Informe de Avance de Gestión Financiera: el informe que rinden los poderes de la unión y los entes públicos federales de manera consolidada a través del Ejecutivo Federal, a la Cámara sobre los avances físicos y financieros de los programas federales aprobados para el análisis correspondiente de dicha Cámara, presentado como un apartado específico del segundo informe trimestral del ejercicio correspondiente al que se refiere el artículo [107](../../lfprh/markdown/articulo-107.md) de la Ley Federal de Presupuesto y Responsabilidad Hacendaria;
 
 XX. Informe General: el Informe General Ejecutivo del Resultado de la Fiscalización Superior de la Cuenta Pública;
 

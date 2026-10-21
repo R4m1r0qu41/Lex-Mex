@@ -244,15 +244,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfgr:article:9:term-usage:435-451",
-    "provision_id": "urn:lex-mx:federal:statute:lfgr:article:9",
-    "term_id": "urn:lex-mx:federal:statute:lfgr:term:fiscalia-general",
-    "span": "Fiscalía General",
-    "start_char": 435,
-    "end_char": 451
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfgr:article:9:term-usage:829-847",
     "provision_id": "urn:lex-mx:federal:statute:lfgr:article:9",
     "term_id": "urn:lex-mx:federal:statute:lfgr:term:ministerio-publico",
@@ -349,15 +340,6 @@
     "span": "Constitución",
     "start_char": 2552,
     "end_char": 2564
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfgr:article:10:term-usage:2812-2815",
-    "provision_id": "urn:lex-mx:federal:statute:lfgr:article:10",
-    "term_id": "urn:lex-mx:federal:statute:lfgr:term:ley",
-    "span": "Ley",
-    "start_char": 2812,
-    "end_char": 2815
   },
   {
     "schema_version": "0.1.0",
@@ -514,57 +496,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfgr:article:13:term-usage:1376-1379",
-    "provision_id": "urn:lex-mx:federal:statute:lfgr:article:13",
-    "term_id": "urn:lex-mx:federal:statute:lfgr:term:ley",
-    "span": "Ley",
-    "start_char": 1376,
-    "end_char": 1379
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfgr:article:13:term-usage:1607-1610",
-    "provision_id": "urn:lex-mx:federal:statute:lfgr:article:13",
-    "term_id": "urn:lex-mx:federal:statute:lfgr:term:ley",
-    "span": "Ley",
-    "start_char": 1607,
-    "end_char": 1610
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfgr:article:13:term-usage:2045-2048",
-    "provision_id": "urn:lex-mx:federal:statute:lfgr:article:13",
-    "term_id": "urn:lex-mx:federal:statute:lfgr:term:ley",
-    "span": "Ley",
-    "start_char": 2045,
-    "end_char": 2048
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfgr:article:13:term-usage:2169-2172",
-    "provision_id": "urn:lex-mx:federal:statute:lfgr:article:13",
-    "term_id": "urn:lex-mx:federal:statute:lfgr:term:ley",
-    "span": "Ley",
-    "start_char": 2169,
-    "end_char": 2172
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfgr:article:13:term-usage:3589-3605",
     "provision_id": "urn:lex-mx:federal:statute:lfgr:article:13",
     "term_id": "urn:lex-mx:federal:statute:lfgr:term:fiscalia-general",
     "span": "Fiscalía General",
     "start_char": 3589,
     "end_char": 3605
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfgr:article:13:term-usage:4122-4125",
-    "provision_id": "urn:lex-mx:federal:statute:lfgr:article:13",
-    "term_id": "urn:lex-mx:federal:statute:lfgr:term:ley",
-    "span": "Ley",
-    "start_char": 4122,
-    "end_char": 4125
   },
   {
     "schema_version": "0.1.0",
@@ -604,15 +541,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfgr:article:13:term-usage:5582-5585",
-    "provision_id": "urn:lex-mx:federal:statute:lfgr:article:13",
-    "term_id": "urn:lex-mx:federal:statute:lfgr:term:ley",
-    "span": "Ley",
-    "start_char": 5582,
-    "end_char": 5585
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfgr:article:14:term-usage:109-126",
     "provision_id": "urn:lex-mx:federal:statute:lfgr:article:14",
     "term_id": "urn:lex-mx:federal:statute:lfgr:term:estatuto-organico",
@@ -646,15 +574,6 @@
     "span": "Estatuto orgánico",
     "start_char": 760,
     "end_char": 777
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfgr:article:15:term-usage:287-290",
-    "provision_id": "urn:lex-mx:federal:statute:lfgr:article:15",
-    "term_id": "urn:lex-mx:federal:statute:lfgr:term:ley",
-    "span": "Ley",
-    "start_char": 287,
-    "end_char": 290
   },
   {
     "schema_version": "0.1.0",
@@ -874,15 +793,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfgr:article:19:term-usage:3371-3374",
-    "provision_id": "urn:lex-mx:federal:statute:lfgr:article:19",
-    "term_id": "urn:lex-mx:federal:statute:lfgr:term:ley",
-    "span": "Ley",
-    "start_char": 3371,
-    "end_char": 3374
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfgr:article:19:term-usage:3890-3902",
     "provision_id": "urn:lex-mx:federal:statute:lfgr:article:19",
     "term_id": "urn:lex-mx:federal:statute:lfgr:term:constitucion",
@@ -1018,30 +928,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfgr:article:19:term-usage:7276-7279",
-    "provision_id": "urn:lex-mx:federal:statute:lfgr:article:19",
-    "term_id": "urn:lex-mx:federal:statute:lfgr:term:ley",
-    "span": "Ley",
-    "start_char": 7276,
-    "end_char": 7279
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfgr:article:19:term-usage:7338-7350",
     "provision_id": "urn:lex-mx:federal:statute:lfgr:article:19",
     "term_id": "urn:lex-mx:federal:statute:lfgr:term:constitucion",
     "span": "Constitución",
     "start_char": 7338,
     "end_char": 7350
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfgr:article:19:term-usage:7475-7478",
-    "provision_id": "urn:lex-mx:federal:statute:lfgr:article:19",
-    "term_id": "urn:lex-mx:federal:statute:lfgr:term:ley",
-    "span": "Ley",
-    "start_char": 7475,
-    "end_char": 7478
   },
   {
     "schema_version": "0.1.0",
@@ -1063,30 +955,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfgr:article:19:term-usage:8824-8827",
-    "provision_id": "urn:lex-mx:federal:statute:lfgr:article:19",
-    "term_id": "urn:lex-mx:federal:statute:lfgr:term:ley",
-    "span": "Ley",
-    "start_char": 8824,
-    "end_char": 8827
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfgr:article:19:term-usage:9547-9565",
     "provision_id": "urn:lex-mx:federal:statute:lfgr:article:19",
     "term_id": "urn:lex-mx:federal:statute:lfgr:term:ministerio-publico",
     "span": "Ministerio Público",
     "start_char": 9547,
     "end_char": 9565
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfgr:article:19:term-usage:9842-9845",
-    "provision_id": "urn:lex-mx:federal:statute:lfgr:article:19",
-    "term_id": "urn:lex-mx:federal:statute:lfgr:term:ley",
-    "span": "Ley",
-    "start_char": 9842,
-    "end_char": 9845
   },
   {
     "schema_version": "0.1.0",
@@ -1123,15 +997,6 @@
     "span": "Fiscalía General",
     "start_char": 10863,
     "end_char": 10879
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfgr:article:19:term-usage:11043-11046",
-    "provision_id": "urn:lex-mx:federal:statute:lfgr:article:19",
-    "term_id": "urn:lex-mx:federal:statute:lfgr:term:ley",
-    "span": "Ley",
-    "start_char": 11043,
-    "end_char": 11046
   },
   {
     "schema_version": "0.1.0",
@@ -1324,15 +1189,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfgr:article:22:term-usage:78-81",
-    "provision_id": "urn:lex-mx:federal:statute:lfgr:article:22",
-    "term_id": "urn:lex-mx:federal:statute:lfgr:term:ley",
-    "span": "Ley",
-    "start_char": 78,
-    "end_char": 81
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfgr:article:22:term-usage:193-209",
     "provision_id": "urn:lex-mx:federal:statute:lfgr:article:22",
     "term_id": "urn:lex-mx:federal:statute:lfgr:term:fiscalia-general",
@@ -1411,15 +1267,6 @@
     "span": "Fiscalía General",
     "start_char": 25,
     "end_char": 41
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfgr:article:24:term-usage:211-214",
-    "provision_id": "urn:lex-mx:federal:statute:lfgr:article:24",
-    "term_id": "urn:lex-mx:federal:statute:lfgr:term:ley",
-    "span": "Ley",
-    "start_char": 211,
-    "end_char": 214
   },
   {
     "schema_version": "0.1.0",
@@ -1990,15 +1837,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfgr:article:38:term-usage:2111-2114",
-    "provision_id": "urn:lex-mx:federal:statute:lfgr:article:38",
-    "term_id": "urn:lex-mx:federal:statute:lfgr:term:ley",
-    "span": "Ley",
-    "start_char": 2111,
-    "end_char": 2114
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfgr:article:39:term-usage:3-19",
     "provision_id": "urn:lex-mx:federal:statute:lfgr:article:39",
     "term_id": "urn:lex-mx:federal:statute:lfgr:term:fiscalia-general",
@@ -2098,15 +1936,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfgr:article:40:term-usage:1537-1540",
-    "provision_id": "urn:lex-mx:federal:statute:lfgr:article:40",
-    "term_id": "urn:lex-mx:federal:statute:lfgr:term:ley",
-    "span": "Ley",
-    "start_char": 1537,
-    "end_char": 1540
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfgr:article:40:term-usage:1565-1580",
     "provision_id": "urn:lex-mx:federal:statute:lfgr:article:40",
     "term_id": "urn:lex-mx:federal:statute:lfgr:term:codigo-nacional",
@@ -2122,15 +1951,6 @@
     "span": "Constitución",
     "start_char": 1832,
     "end_char": 1844
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfgr:article:40:term-usage:1849-1852",
-    "provision_id": "urn:lex-mx:federal:statute:lfgr:article:40",
-    "term_id": "urn:lex-mx:federal:statute:lfgr:term:ley",
-    "span": "Ley",
-    "start_char": 1849,
-    "end_char": 1852
   },
   {
     "schema_version": "0.1.0",
@@ -2170,15 +1990,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfgr:article:40:term-usage:4043-4046",
-    "provision_id": "urn:lex-mx:federal:statute:lfgr:article:40",
-    "term_id": "urn:lex-mx:federal:statute:lfgr:term:ley",
-    "span": "Ley",
-    "start_char": 4043,
-    "end_char": 4046
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfgr:article:40:term-usage:4071-4086",
     "provision_id": "urn:lex-mx:federal:statute:lfgr:article:40",
     "term_id": "urn:lex-mx:federal:statute:lfgr:term:codigo-nacional",
@@ -2203,15 +2014,6 @@
     "span": "Constitución",
     "start_char": 4338,
     "end_char": 4350
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfgr:article:40:term-usage:4496-4499",
-    "provision_id": "urn:lex-mx:federal:statute:lfgr:article:40",
-    "term_id": "urn:lex-mx:federal:statute:lfgr:term:ley",
-    "span": "Ley",
-    "start_char": 4496,
-    "end_char": 4499
   },
   {
     "schema_version": "0.1.0",
@@ -2293,15 +2095,6 @@
     "span": "Código Nacional",
     "start_char": 10548,
     "end_char": 10563
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfgr:article:40:term-usage:10816-10819",
-    "provision_id": "urn:lex-mx:federal:statute:lfgr:article:40",
-    "term_id": "urn:lex-mx:federal:statute:lfgr:term:ley",
-    "span": "Ley",
-    "start_char": 10816,
-    "end_char": 10819
   },
   {
     "schema_version": "0.1.0",
@@ -2635,33 +2428,6 @@
     "span": "Fiscalía General",
     "start_char": 3814,
     "end_char": 3830
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfgr:article:46:term-usage:211-214",
-    "provision_id": "urn:lex-mx:federal:statute:lfgr:article:46",
-    "term_id": "urn:lex-mx:federal:statute:lfgr:term:ley",
-    "span": "Ley",
-    "start_char": 211,
-    "end_char": 214
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfgr:article:46:term-usage:415-418",
-    "provision_id": "urn:lex-mx:federal:statute:lfgr:article:46",
-    "term_id": "urn:lex-mx:federal:statute:lfgr:term:ley",
-    "span": "Ley",
-    "start_char": 415,
-    "end_char": 418
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfgr:article:46:term-usage:2222-2225",
-    "provision_id": "urn:lex-mx:federal:statute:lfgr:article:46",
-    "term_id": "urn:lex-mx:federal:statute:lfgr:term:ley",
-    "span": "Ley",
-    "start_char": 2222,
-    "end_char": 2225
   },
   {
     "schema_version": "0.1.0",
@@ -3115,15 +2881,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfgr:article:61:term-usage:324-327",
-    "provision_id": "urn:lex-mx:federal:statute:lfgr:article:61",
-    "term_id": "urn:lex-mx:federal:statute:lfgr:term:ley",
-    "span": "Ley",
-    "start_char": 324,
-    "end_char": 327
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfgr:article:61:term-usage:387-390",
     "provision_id": "urn:lex-mx:federal:statute:lfgr:article:61",
     "term_id": "urn:lex-mx:federal:statute:lfgr:term:ley",
@@ -3214,24 +2971,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfgr:article:68:term-usage:150-153",
-    "provision_id": "urn:lex-mx:federal:statute:lfgr:article:68",
-    "term_id": "urn:lex-mx:federal:statute:lfgr:term:ley",
-    "span": "Ley",
-    "start_char": 150,
-    "end_char": 153
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfgr:article:68:term-usage:200-215",
-    "provision_id": "urn:lex-mx:federal:statute:lfgr:article:68",
-    "term_id": "urn:lex-mx:federal:statute:lfgr:term:codigo-nacional",
-    "span": "Código Nacional",
-    "start_char": 200,
-    "end_char": 215
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfgr:article:70:term-usage:27-43",
     "provision_id": "urn:lex-mx:federal:statute:lfgr:article:70",
     "term_id": "urn:lex-mx:federal:statute:lfgr:term:fiscalia-general",
@@ -3268,30 +3007,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfgr:article:70:term-usage:445-448",
-    "provision_id": "urn:lex-mx:federal:statute:lfgr:article:70",
-    "term_id": "urn:lex-mx:federal:statute:lfgr:term:ley",
-    "span": "Ley",
-    "start_char": 445,
-    "end_char": 448
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfgr:article:71:term-usage:40-56",
     "provision_id": "urn:lex-mx:federal:statute:lfgr:article:71",
     "term_id": "urn:lex-mx:federal:statute:lfgr:term:fiscalia-general",
     "span": "Fiscalía General",
     "start_char": 40,
     "end_char": 56
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfgr:article:71:term-usage:111-114",
-    "provision_id": "urn:lex-mx:federal:statute:lfgr:article:71",
-    "term_id": "urn:lex-mx:federal:statute:lfgr:term:ley",
-    "span": "Ley",
-    "start_char": 111,
-    "end_char": 114
   },
   {
     "schema_version": "0.1.0",
@@ -3349,15 +3070,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfgr:article:75:term-usage:348-351",
-    "provision_id": "urn:lex-mx:federal:statute:lfgr:article:75",
-    "term_id": "urn:lex-mx:federal:statute:lfgr:term:ley",
-    "span": "Ley",
-    "start_char": 348,
-    "end_char": 351
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfgr:article:76:term-usage:297-313",
     "provision_id": "urn:lex-mx:federal:statute:lfgr:article:76",
     "term_id": "urn:lex-mx:federal:statute:lfgr:term:fiscalia-general",
@@ -3382,24 +3094,6 @@
     "span": "Ley",
     "start_char": 85,
     "end_char": 88
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfgr:article:79:term-usage:109-112",
-    "provision_id": "urn:lex-mx:federal:statute:lfgr:article:79",
-    "term_id": "urn:lex-mx:federal:statute:lfgr:term:ley",
-    "span": "Ley",
-    "start_char": 109,
-    "end_char": 112
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfgr:article:79:term-usage:239-242",
-    "provision_id": "urn:lex-mx:federal:statute:lfgr:article:79",
-    "term_id": "urn:lex-mx:federal:statute:lfgr:term:ley",
-    "span": "Ley",
-    "start_char": 239,
-    "end_char": 242
   },
   {
     "schema_version": "0.1.0",
@@ -3529,24 +3223,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfgr:article:85:term-usage:154-157",
-    "provision_id": "urn:lex-mx:federal:statute:lfgr:article:85",
-    "term_id": "urn:lex-mx:federal:statute:lfgr:term:ley",
-    "span": "Ley",
-    "start_char": 154,
-    "end_char": 157
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfgr:article:85:term-usage:227-230",
-    "provision_id": "urn:lex-mx:federal:statute:lfgr:article:85",
-    "term_id": "urn:lex-mx:federal:statute:lfgr:term:ley",
-    "span": "Ley",
-    "start_char": 227,
-    "end_char": 230
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfgr:article:85:term-usage:347-363",
     "provision_id": "urn:lex-mx:federal:statute:lfgr:article:85",
     "term_id": "urn:lex-mx:federal:statute:lfgr:term:fiscalia-general",
@@ -3571,15 +3247,6 @@
     "span": "Fiscalía General",
     "start_char": 21,
     "end_char": 37
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfgr:article:87:term-usage:68-71",
-    "provision_id": "urn:lex-mx:federal:statute:lfgr:article:87",
-    "term_id": "urn:lex-mx:federal:statute:lfgr:term:ley",
-    "span": "Ley",
-    "start_char": 68,
-    "end_char": 71
   },
   {
     "schema_version": "0.1.0",
@@ -3709,24 +3376,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfgr:article:93:term-usage:87-90",
-    "provision_id": "urn:lex-mx:federal:statute:lfgr:article:93",
-    "term_id": "urn:lex-mx:federal:statute:lfgr:term:ley",
-    "span": "Ley",
-    "start_char": 87,
-    "end_char": 90
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfgr:article:93:term-usage:141-144",
-    "provision_id": "urn:lex-mx:federal:statute:lfgr:article:93",
-    "term_id": "urn:lex-mx:federal:statute:lfgr:term:ley",
-    "span": "Ley",
-    "start_char": 141,
-    "end_char": 144
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfgr:article:93:term-usage:468-484",
     "provision_id": "urn:lex-mx:federal:statute:lfgr:article:93",
     "term_id": "urn:lex-mx:federal:statute:lfgr:term:fiscalia-general",
@@ -3796,33 +3445,6 @@
     "span": "Fiscalía General",
     "start_char": 2079,
     "end_char": 2095
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfgr:article:93:term-usage:2149-2152",
-    "provision_id": "urn:lex-mx:federal:statute:lfgr:article:93",
-    "term_id": "urn:lex-mx:federal:statute:lfgr:term:ley",
-    "span": "Ley",
-    "start_char": 2149,
-    "end_char": 2152
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfgr:article:93:term-usage:2221-2224",
-    "provision_id": "urn:lex-mx:federal:statute:lfgr:article:93",
-    "term_id": "urn:lex-mx:federal:statute:lfgr:term:ley",
-    "span": "Ley",
-    "start_char": 2221,
-    "end_char": 2224
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfgr:article:93:term-usage:2288-2291",
-    "provision_id": "urn:lex-mx:federal:statute:lfgr:article:93",
-    "term_id": "urn:lex-mx:federal:statute:lfgr:term:ley",
-    "span": "Ley",
-    "start_char": 2288,
-    "end_char": 2291
   },
   {
     "schema_version": "0.1.0",
@@ -3916,15 +3538,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfgr:article:94:term-usage:239-242",
-    "provision_id": "urn:lex-mx:federal:statute:lfgr:article:94",
-    "term_id": "urn:lex-mx:federal:statute:lfgr:term:ley",
-    "span": "Ley",
-    "start_char": 239,
-    "end_char": 242
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfgr:article:94:term-usage:1398-1414",
     "provision_id": "urn:lex-mx:federal:statute:lfgr:article:94",
     "term_id": "urn:lex-mx:federal:statute:lfgr:term:fiscalia-general",
@@ -3949,15 +3562,6 @@
     "span": "Ley",
     "start_char": 232,
     "end_char": 235
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfgr:article:95:term-usage:273-276",
-    "provision_id": "urn:lex-mx:federal:statute:lfgr:article:95",
-    "term_id": "urn:lex-mx:federal:statute:lfgr:term:ley",
-    "span": "Ley",
-    "start_char": 273,
-    "end_char": 276
   },
   {
     "schema_version": "0.1.0",
@@ -3997,30 +3601,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfgr:article:96:term-usage:121-124",
-    "provision_id": "urn:lex-mx:federal:statute:lfgr:article:96",
-    "term_id": "urn:lex-mx:federal:statute:lfgr:term:ley",
-    "span": "Ley",
-    "start_char": 121,
-    "end_char": 124
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfgr:article:96:term-usage:247-250",
     "provision_id": "urn:lex-mx:federal:statute:lfgr:article:96",
     "term_id": "urn:lex-mx:federal:statute:lfgr:term:ley",
     "span": "Ley",
     "start_char": 247,
     "end_char": 250
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfgr:article:96:term-usage:595-598",
-    "provision_id": "urn:lex-mx:federal:statute:lfgr:article:96",
-    "term_id": "urn:lex-mx:federal:statute:lfgr:term:ley",
-    "span": "Ley",
-    "start_char": 595,
-    "end_char": 598
   },
   {
     "schema_version": "0.1.0",
@@ -4057,15 +3643,6 @@
     "span": "Fiscalía General",
     "start_char": 291,
     "end_char": 307
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfgr:article:97:term-usage:497-500",
-    "provision_id": "urn:lex-mx:federal:statute:lfgr:article:97",
-    "term_id": "urn:lex-mx:federal:statute:lfgr:term:ley",
-    "span": "Ley",
-    "start_char": 497,
-    "end_char": 500
   },
   {
     "schema_version": "0.1.0",

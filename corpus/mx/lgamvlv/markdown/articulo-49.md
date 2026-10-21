@@ -73,12 +73,10 @@ XXIII. Integrar registros públicos sistemáticos de los delitos cometidos en co
 
 XXIV. Elaborar y aplicar protocolos especializados con perspectiva de género en la búsqueda inmediata de mujeres, adolescentes y niñas desaparecidas, para la investigación de los delitos de discriminación, feminicidio, trata de personas y contra la libertad y el normal desarrollo psicosexual; Fracción reformada DOF 29-04-2022, 08-05-2023 XXV. Crear, operar y fortalecer los [Centros de Justicia para las Mujeres](articulo-5.md), conforme al Modelo de Gestión Operativa que para tal efecto emita la Secretaría de las Mujeres; Fracción adicionada DOF 29-04-2022. Reformada DOF 08-05-2023, 16-12-2024, 15-01-2026
 
-XXVI. Cumplir con las facultades y responsabilidades que le corresponden y que se derivan de la operación del [Registro Nacional](articulo-5.md), en términos de lo dispuesto en la presente ley y en la [Ley](articulo-5.md) General del [Sistema Nacional](articulo-5.md) de Seguridad Pública, y Fracción adicionada DOF 16-12-2024
+XXVI. Cumplir con las facultades y responsabilidades que le corresponden y que se derivan de la operación del [Registro Nacional](articulo-5.md), en términos de lo dispuesto en la presente ley y en la Ley General del Sistema Nacional de Seguridad Pública, y Fracción adicionada DOF 16-12-2024
 
 XXVII. Las demás aplicables a la materia, que les conceda la ley u otros ordenamientos legales. Fracción recorrida DOF 29-04-2022. Publicada íntegra sin cambios DOF 08-05-2023. Recorrida DOF 16-12-2024
 
 Las autoridades federales, harán las gestiones necesarias para propiciar que las autoridades locales reformen su legislación, para considerar como agravantes los delitos contra la vida y la integridad corporal cometidos contra mujeres.
 
 Artículo reformado DOF 20-01-2009, 28-01-2011, 14-06-2012. Reformado y publicado íntegro DOF 04-06-2015
-
-Sección Décima Segunda. De los Municipios y Demarcaciones Territoriales de la Ciudad de México Sección recorrida (antes Sección Décima) DOF 04-06-2015. Denominación reformada DOF 29-04-2022

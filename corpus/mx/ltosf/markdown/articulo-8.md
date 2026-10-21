@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LTOSF.pdf
 source_sha256: bf9e443e89a5c0ba268e76f20923ae25195ef5c1ffbacecff36693ca228c3667
 ---
 
+> Capítulo III
+
 # Artículo 8
 
 El Banco de México establecerá a través de disposiciones de carácter general, la fórmula, los componentes y la metodología de cálculo del [CAT](articulo-3.md), en relación con los créditos, préstamos o financiamientos que otorguen las [Entidades](articulo-3.md). En dichas disposiciones el Banco de México establecerá los tipos y montos de los créditos, préstamos o financiamientos a los que será aplicable el CAT.

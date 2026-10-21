@@ -20,7 +20,7 @@ source_sha256: a15012b33a415083f7714764c86fda8ed0078d3f5313dfc194c503f98a573a2a
 
 # Artículo 38
 
-El titular del Órgano Interno de Control del [Instituto](articulo-3.md) será sujeto de responsabilidad administrativa en términos de la [Ley](articulo-3.md) General de Responsabilidades Administrativas y podrá ser sancionado de conformidad con el procedimiento previsto en la normatividad aplicable.
+El titular del Órgano Interno de Control del [Instituto](articulo-3.md) será sujeto de responsabilidad administrativa en términos de la Ley General de Responsabilidades Administrativas y podrá ser sancionado de conformidad con el procedimiento previsto en la normatividad aplicable.
 
 El titular del Órgano Interno de Control se abstendrá de desempeñar cualquier otro empleo, trabajo o comisión públicos o privados, con excepción de los cargos docentes.
 

@@ -23,7 +23,7 @@ I. Austeridad Republicana: Conducta republicana y política de Estado que los en
 
 II. Comité de Evaluación: Órgano Colegiado Interinstitucional encargado en el ámbito de la Administración Pública Federal de, entre otros, evaluar las medidas de austeridad republicana;
 
-III. Ley: Ley Federal de [Austeridad Republicana](articulo-4.md);
+III. Ley: Ley Federal de Austeridad Republicana;
 
 IV. Nepotismo: La designación, otorgamiento de nombramiento o contratación que realice un servidor público de personas con las que tenga lazos de parentesco por consanguinidad hasta el cuarto grado, de afinidad hasta el segundo grado, o vínculo de matrimonio o concubinato para que preste sus servicios en la misma institución, dependencia o ente público en que éste labore;
 

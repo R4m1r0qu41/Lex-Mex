@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-4",
+  "strategy_version": "glossary-extraction-5",
   "instrument_id": "urn:lex-mx:federal:statute:lcacsam",
   "source_sha256": "e56b3fe80514e68891aee1c7ad316374b7b6d21ab2b8ce55c53b3ae83a535248",
   "extracted_text_sha256": "f016211f56ed07ed32f2c02da0dd8a299658af300612e87d69ed47e81c67cea2",
@@ -20,5 +20,5 @@
   ],
   "imports": [],
   "term_count": 2,
-  "usage_count": 1
+  "usage_count": 0
 }

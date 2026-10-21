@@ -27,7 +27,7 @@ III. Las acciones de restauración que deberán realizarse, incluyendo:
 
 a) Las formas para inducir la recuperación de las poblaciones naturales;
 
-b) La repoblación, reintroducción o traslocación de ejemplares y poblaciones, conforme a lo establecido en la [Ley](articulo-3o.md) General de Vida Silvestre;
+b) La repoblación, reintroducción o traslocación de ejemplares y poblaciones, conforme a lo establecido en la Ley General de Vida Silvestre;
 
 c) Las obras y prácticas de conservación de suelo y agua que se tengan previstas, y
 

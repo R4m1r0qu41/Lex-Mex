@@ -25,11 +25,11 @@ II. Comisión: La Comisión Permanente de Prevención del Delito y Participació
 
 III. Consejo Nacional: El Consejo Nacional de Seguridad Pública;
 
-IV. Ley: La Ley General para la Prevención Social de la [Violencia](articulo-4.md) y la Delincuencia;
+IV. Ley: La Ley General para la Prevención Social de la Violencia y la Delincuencia;
 
 V. Participación ciudadana y comunitaria: La participación de los diferentes sectores y grupos de la sociedad civil, organizada y no organizada, así como de la comunidad académica;
 
-VI. Programa Nacional: El Programa Nacional para la Prevención Social de la Violencia y la Delincuencia;
+VI. Programa Nacional: El Programa Nacional para la Prevención Social de la [Violencia](articulo-4.md) y la Delincuencia;
 
 VII. Programa anual: El programa de trabajo anual del [Centro Nacional](articulo-4.md);
 

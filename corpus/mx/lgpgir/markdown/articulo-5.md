@@ -21,9 +21,9 @@ Para los efectos de esta [Ley](articulo-5.md) se entiende por:
 
 I. Agente Infeccioso: Microorganismo capaz de causar una enfermedad si se reúnen las condiciones para ello, y cuya presencia en un residuo lo hace peligroso;
 
-II. Aprovechamiento de los [Residuos](articulo-5.md): Conjunto de acciones cuyo objetivo es recuperar el valor económico de los residuos mediante su reutilización, remanufactura, rediseño, tratamiento, reciclado y recuperación de materiales secundarios o de energía; Fracción reformada DOF 19-01-2026
+II. Aprovechamiento de los Residuos: Conjunto de acciones cuyo objetivo es recuperar el valor económico de los residuos mediante su reutilización, remanufactura, rediseño, tratamiento, reciclado y recuperación de materiales secundarios o de energía; Fracción reformada DOF 19-01-2026
 
-III. Caracterización de [Sitios Contaminados](articulo-5.md): Es la determinación cualitativa y cuantitativa de los contaminantes químicos o biológicos presentes, provenientes de materiales o residuos peligrosos, para estimar la magnitud y tipo de riesgos que conlleva dicha contaminación;
+III. Caracterización de Sitios Contaminados: Es la determinación cualitativa y cuantitativa de los contaminantes químicos o biológicos presentes, provenientes de materiales o residuos peligrosos, para estimar la magnitud y tipo de riesgos que conlleva dicha contaminación;
 
 IV. Co-procesamiento: Integración ambientalmente segura de los residuos generados por una industria o fuente conocida, como insumo a otro proceso productivo;
 
@@ -31,7 +31,7 @@ V. Disposición Final: Acción de depositar o confinar permanentemente residuos 
 
 VI. Envase: Es el componente de un producto que cumple la función de contenerlo y protegerlo para su distribución, comercialización y consumo;
 
-VII. Evaluación del [Riesgo](articulo-5.md) Ambiental: Proceso metodológico para determinar la probabilidad o posibilidad de que se produzcan efectos adversos, como consecuencia de la exposición de los seres vivos a las sustancias contenidas en los residuos peligrosos o agentes infecciosos que los forman;
+VII. Evaluación del Riesgo Ambiental: Proceso metodológico para determinar la probabilidad o posibilidad de que se produzcan efectos adversos, como consecuencia de la exposición de los seres vivos a las sustancias contenidas en los residuos peligrosos o agentes infecciosos que los forman;
 
 VIII. Generación: Acción de producir residuos a través del desarrollo de procesos productivos o de consumo;
 
@@ -39,7 +39,7 @@ IX. Generador: Persona física o moral que produce residuos, a través del desar
 
 X. Gestión Integral de Residuos: Conjunto articulado e interrelacionado de acciones normativas, operativas, financieras, de planeación, administrativas, sociales, educativas, de monitoreo, supervisión y evaluación, para el manejo de residuos, desde su generación hasta la disposición final, a fin de lograr beneficios ambientales, la optimización económica de su manejo y su aceptación social, respondiendo a las necesidades y circunstancias de cada localidad o región;
 
-XI. Gestor: Persona física o moral autorizada en los términos de este ordenamiento, para realizar la prestación de los servicios de una o más de las actividades de manejo integral de residuos; XII. Gran [Generador](articulo-5.md): Persona física o moral que genere una cantidad igual o superior a 10 toneladas en peso bruto total de residuos al año o su equivalente en otra unidad de medida;
+XI. Gestor: Persona física o moral autorizada en los términos de este ordenamiento, para realizar la prestación de los servicios de una o más de las actividades de manejo integral de residuos; XII. Gran Generador: Persona física o moral que genere una cantidad igual o superior a 10 toneladas en peso bruto total de residuos al año o su equivalente en otra unidad de medida;
 
 XIII. Incineración: Cualquier proceso para reducir el volumen y descomponer o cambiar la composición física, química o biológica de un residuo sólido, líquido o gaseoso, mediante oxidación térmica, en la cual todos los factores de combustión, como la temperatura, el tiempo de retención y la turbulencia, pueden ser controlados, a fin de alcanzar la eficiencia, eficacia y los parámetros ambientales previamente establecidos. En esta definición se incluye la pirólisis, la gasificación y plasma, sólo cuando los subproductos combustibles generados en estos procesos sean sometidos a combustión en un ambiente rico en oxígeno;
 

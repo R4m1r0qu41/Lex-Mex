@@ -33,7 +33,7 @@ VI. Apoyar a las autoridades competentes en la investigación y combate de delit
 
 VII. Garantizar que su actuación sea congruente, oportuna y proporcional al hecho cuando la población se encuentre amenazada por situaciones de alto riesgo, disturbios u otras circunstancias que impliquen violencia o riesgo inminente, restableciendo el orden y paz públicos con estricto apego a los derechos humanos que la Constitución Federal refiere;
 
-VIII. Apoyar el aseguramiento que, en términos de la [Ley General](articulo-2.md) de Población, realice la autoridad competente; así como vigilar, supervisar, asegurar y custodiar, las estaciones migratorias cuando el caso lo amerite y conforme a las necesidades del servicio, y en estricto apego a los derechos humanos reconocidos en la Constitución Federal;
+VIII. Apoyar el aseguramiento que, en términos de la Ley General de Población, realice la autoridad competente; así como vigilar, supervisar, asegurar y custodiar, las estaciones migratorias cuando el caso lo amerite y conforme a las necesidades del servicio, y en estricto apego a los derechos humanos reconocidos en la Constitución Federal;
 
 IX. Vigilar, supervisar, asegurar y custodiar, a solicitud de la autoridad competente, las instalaciones de los centros federales de detención, reclusión y readaptación social, con apego a los derechos humanos reconocidos en la Constitución Federal; así como realizar los traslados de internos que a solicitud de la autoridad competente requieran;
 

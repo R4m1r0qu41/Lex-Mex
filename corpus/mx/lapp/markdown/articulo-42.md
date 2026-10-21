@@ -23,7 +23,7 @@ III. Aquellas que, por causas imputables a ellas mismas, alguna dependencia o en
 
 IV. Las que por causas imputables a ellas mismas se encuentren en situación de mora en el cumplimiento de sus obligaciones en contratos celebrados con dependencias o entidades federales;
 
-V. Las que se encuentren inhabilitadas por la Secretaría de la Función Pública en los términos del título séptimo de la [Ley](articulo-12.md) de Obras Públicas y Servicios Relacionados con las Mismas, del título sexto de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, o de la sección cuarta del capítulo décimo primero de la presente Ley;
+V. Las que se encuentren inhabilitadas por la Secretaría de la Función Pública en los términos del título séptimo de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, del título sexto de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, o de la sección cuarta del capítulo décimo primero de la presente [Ley](articulo-12.md);
 
 VI. Las que contraten servicios de cualquier naturaleza, si se comprueba que todo o parte de las contraprestaciones pagadas al prestador del servicio, a su vez, son recibidas por servidores públicos por sí o por interpósita persona, con independencia de que quienes las reciban tengan o no relación con la contratación,
 

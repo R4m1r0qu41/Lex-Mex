@@ -17,4 +17,4 @@ source_sha256: 2f931111ab2745aa5a3b2ef0a99dc5beaf73d78f7674f2d90b4462319c1fc688
 
 # Artículo 84
 
-El patrimonio documental de la Nación es propiedad del Estado mexicano, de dominio e interés público y, por lo tanto, inalienable, imprescriptible, inembargable y no está sujeto a ningún gravamen o afectación de dominio, en términos de la [Ley](articulo-4.md) General de Bienes Nacionales y de la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos.
+El patrimonio documental de la Nación es propiedad del Estado mexicano, de dominio e interés público y, por lo tanto, inalienable, imprescriptible, inembargable y no está sujeto a ningún gravamen o afectación de dominio, en términos de la Ley General de Bienes Nacionales y de la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos.

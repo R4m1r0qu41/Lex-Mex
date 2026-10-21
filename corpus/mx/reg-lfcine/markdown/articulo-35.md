@@ -17,4 +17,4 @@ source_sha256: f3f010bc7f5a510b084b5d43ef56a567e9b02b2083c36e50a9d0e8955af28cd6
 
 # Artículo 35
 
-En el caso de publicidad relativa a tabaco y alcohol se estará a lo dispuesto por la [Ley](articulo-3.md) General de Salud y el reglamento en materia de control sanitario en la publicidad.
+En el caso de publicidad relativa a tabaco y alcohol se estará a lo dispuesto por la Ley General de Salud y el reglamento en materia de control sanitario en la publicidad.

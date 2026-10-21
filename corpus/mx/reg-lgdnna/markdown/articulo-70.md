@@ -21,6 +21,6 @@ La [Procuraduría Federal](articulo-2.md) podrá realizar visitas a los domicili
 
 La Familia de Acogida durante las visitas deberá permitir al personal autorizado de la Procuraduría Federal el acceso a todas las áreas del domicilio.
 
-La Procuraduría Federal realizará las visitas de conformidad con lo dispuesto en la [Ley](articulo-2.md) Federal de Procedimiento Administrativo. Dichas visitas se realizarán sin perjuicio del ejercicio de las atribuciones de otras autoridades.
+La Procuraduría Federal realizará las visitas de conformidad con lo dispuesto en la Ley Federal de Procedimiento Administrativo. Dichas visitas se realizarán sin perjuicio del ejercicio de las atribuciones de otras autoridades.
 
 Si derivado de las visitas domiciliarias la Procuraduría Federal advierte que la información rendida por la Familia de Acogida en cualquiera de los informes es falsa o viola los derechos de niñas, niños y adolescentes, revocará la certificación correspondiente previo derecho de audiencia, conforme a la Ley Federal de Procedimiento Administrativo y sin perjuicio de otras sanciones en que pueda incurrir.

@@ -17,4 +17,4 @@ source_sha256: ea6e39560929f2e1998b2dabe0852fde0d684c69e5be49aab7f33433299bbeb0
 
 # Artículo 226
 
-Para expedir copias certificadas que sean solicitadas por el compareciente, éste deberá de acreditar previo a su entrega el pago de derechos a que se refiere la [Ley](articulo-2.md) Federal de Derechos.
+Para expedir copias certificadas que sean solicitadas por el compareciente, éste deberá de acreditar previo a su entrega el pago de derechos a que se refiere la Ley Federal de Derechos.

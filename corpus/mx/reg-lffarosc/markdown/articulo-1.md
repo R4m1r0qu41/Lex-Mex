@@ -17,4 +17,4 @@ source_sha256: 50d888e53a7b0990f6d19dbab03d263e01ca7d4a4365a0c2663e03caf9f2715c
 
 # Artículo 1
 
-El presente ordenamiento tiene por objeto reglamentar las disposiciones de la [Ley](articulo-2.md) Federal de Fomento a las [Actividades](articulo-2.md) Realizadas por Organizaciones de la Sociedad Civil.
+El presente ordenamiento tiene por objeto reglamentar las disposiciones de la [Ley](articulo-2.md) Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil.

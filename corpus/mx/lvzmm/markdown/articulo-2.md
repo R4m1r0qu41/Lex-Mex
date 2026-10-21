@@ -25,7 +25,7 @@ II. Dragado.- Retiro, movimiento o excavación de suelos cubiertos o saturados p
 
 III. Incineración.- La destrucción térmica de desechos u otras materias a bordo de un buque, plataforma u otra construcción en el mar para su eliminación deliberada, en las zonas marinas mexicanas, salvo que otra Ley o Tratado Internacional de los que el Estado Mexicano sea parte prohíba dicha eliminación. Esta definición no incluye a los residuos peligrosos, cuya incineración se rige por lo establecido en la legislación aplicable;
 
-IV. Ley.- Ley de Vertimientos en las [Zonas Marinas Mexicanas](articulo-2.md);
+IV. Ley.- Ley de Vertimientos en las Zonas Marinas Mexicanas;
 
 V. Otras materias.- Los materiales y sustancias de cualquier clase, forma o naturaleza;
 

@@ -19,7 +19,7 @@ source_sha256: 7f28b406ac8966ef726994b15fc2356a5d8ee92a8e24de0e7a3046d2683fe40d
 
 El Contralor Interno en la [CONADE](articulo-4.md), tendrá las siguientes atribuciones:
 
-I. Recibir quejas y denuncias por incumplimiento de las obligaciones de los servidores públicos adscritos a la CONADE y darles seguimiento; investigar y fincar las responsabilidades a que hubiere lugar e imponer las sanciones aplicables en los términos de ley, con excepción de las que deba conocer la Dirección General de Responsabilidades y Situación Patrimonial de la Secretaría de la Función Pública; así como calificar y constituir los pliegos de responsabilidades a que se refiere la [Ley](articulo-4.md) Federal de Presupuesto y Responsabilidad Hacendaria y su [Reglamento](articulo-4.md), salvo los que sean competencia de la Dirección General;
+I. Recibir quejas y denuncias por incumplimiento de las obligaciones de los servidores públicos adscritos a la CONADE y darles seguimiento; investigar y fincar las responsabilidades a que hubiere lugar e imponer las sanciones aplicables en los términos de ley, con excepción de las que deba conocer la Dirección General de Responsabilidades y Situación Patrimonial de la Secretaría de la Función Pública; así como calificar y constituir los pliegos de responsabilidades a que se refiere la Ley Federal de Presupuesto y Responsabilidad Hacendaria y su [Reglamento](articulo-4.md), salvo los que sean competencia de la Dirección General;
 
 II. Realizar la defensa jurídica de las resoluciones que emitan ante las diversas instancias jurisdiccionales, representando al titular de la Secretaría de la Función Pública, así como expedir las certificaciones de los documentos que obran en los archivos del órgano interno de control de la CONADE;
 

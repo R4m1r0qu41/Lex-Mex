@@ -44,7 +44,7 @@ XI. Dispositivo de Acceso, al equipo que permite a un Cliente acceder al Medio E
 
 XII. Evento de Seguridad de la Información, a cualquier suceso, interno o externo, relacionado con Clientes, terceros contratados por la propia institución de financiamiento colectivo, personas y procesos operativos, así como con componentes de la Infraestructura Tecnológica, dispositivos, medios físicos u otros elementos que almacenen información, entre otros, que pueda suponer una afectación en la confidencialidad, integridad o disponibilidad de la información que dicha institución gestione o conozca o, en la propia Infraestructura Tecnológica.
 
-XIII. Factor de [Autenticación](articulo-2.md), al mecanismo de Autenticación basado en las características físicas del Cliente, dispositivos o información que solo el Cliente posea o conozca.
+XIII. Factor de Autenticación, al mecanismo de [Autenticación](articulo-2.md) basado en las características físicas del Cliente, dispositivos o información que solo el Cliente posea o conozca.
 
 XIV. Financiamiento Colectivo de Capital, a la operación de financiamiento colectivo mediante la cual los Solicitantes obtienen recursos por parte de los Inversionistas a cambio de títulos representativos de su capital social.
 

@@ -27,7 +27,7 @@ III. Ejercer su facultad de atracción para resolver los procedimientos administ
 
 El ejercicio de la facultad de atracción podrá ser solicitada por cualquiera de los Magistrados de la Sección Tercera, o bien por el Pleno de las Salas Especializadas en materia de Responsabilidades Administrativas, por mayoría de votos de sus integrantes;
 
-IV. Resolver el recurso de reclamación que proceda en los términos de la [Ley](articulo-2.md) General de Responsabilidades Administrativas;
+IV. Resolver el recurso de reclamación que proceda en los términos de la Ley General de Responsabilidades Administrativas;
 
 V. Fijar jurisprudencia, con la aprobación de cinco precedentes en el mismo sentido no interrumpidos por otro en contrario;
 

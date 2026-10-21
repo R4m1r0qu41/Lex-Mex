@@ -46,15 +46,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:article:3:term-usage:818-832",
-    "provision_id": "urn:lex-mx:federal:statute:lgcc:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lgcc:term:vulnerabilidad",
-    "span": "Vulnerabilidad",
-    "start_char": 818,
-    "end_char": 832
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgcc:article:3:term-usage:1759-1769",
     "provision_id": "urn:lex-mx:federal:statute:lgcc:article:3",
     "term_id": "urn:lex-mx:federal:statute:lgcc:term:convencion",
@@ -91,15 +82,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:article:3:term-usage:6381-6391",
-    "provision_id": "urn:lex-mx:federal:statute:lgcc:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lgcc:term:adaptacion",
-    "span": "Adaptación",
-    "start_char": 6381,
-    "end_char": 6391
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgcc:article:3:term-usage:6649-6659",
     "provision_id": "urn:lex-mx:federal:statute:lgcc:article:3",
     "term_id": "urn:lex-mx:federal:statute:lgcc:term:convencion",
@@ -124,24 +106,6 @@
     "span": "Ley",
     "start_char": 38,
     "end_char": 41
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:article:6:term-usage:288-291",
-    "provision_id": "urn:lex-mx:federal:statute:lgcc:article:6",
-    "term_id": "urn:lex-mx:federal:statute:lgcc:term:ley",
-    "span": "Ley",
-    "start_char": 288,
-    "end_char": 291
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:article:6:term-usage:342-345",
-    "provision_id": "urn:lex-mx:federal:statute:lgcc:article:6",
-    "term_id": "urn:lex-mx:federal:statute:lgcc:term:ley",
-    "span": "Ley",
-    "start_char": 342,
-    "end_char": 345
   },
   {
     "schema_version": "0.1.0",
@@ -397,15 +361,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:article:13:term-usage:322-325",
-    "provision_id": "urn:lex-mx:federal:statute:lgcc:article:13",
-    "term_id": "urn:lex-mx:federal:statute:lgcc:term:ley",
-    "span": "Ley",
-    "start_char": 322,
-    "end_char": 325
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgcc:article:14:term-usage:3-8",
     "provision_id": "urn:lex-mx:federal:statute:lgcc:article:14",
     "term_id": "urn:lex-mx:federal:statute:lgcc:term:inecc",
@@ -487,15 +442,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:article:17:term-usage:795-798",
-    "provision_id": "urn:lex-mx:federal:statute:lgcc:article:17",
-    "term_id": "urn:lex-mx:federal:statute:lgcc:term:ley",
-    "span": "Ley",
-    "start_char": 795,
-    "end_char": 798
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgcc:article:18:term-usage:3-8",
     "provision_id": "urn:lex-mx:federal:statute:lgcc:article:18",
     "term_id": "urn:lex-mx:federal:statute:lgcc:term:inecc",
@@ -511,15 +457,6 @@
     "span": "INECC",
     "start_char": 40,
     "end_char": 45
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:article:19:term-usage:308-311",
-    "provision_id": "urn:lex-mx:federal:statute:lgcc:article:19",
-    "term_id": "urn:lex-mx:federal:statute:lgcc:term:ley",
-    "span": "Ley",
-    "start_char": 308,
-    "end_char": 311
   },
   {
     "schema_version": "0.1.0",
@@ -628,15 +565,6 @@
     "span": "Inventario",
     "start_char": 2246,
     "end_char": 2256
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:article:22:term-usage:2967-2970",
-    "provision_id": "urn:lex-mx:federal:statute:lgcc:article:22",
-    "term_id": "urn:lex-mx:federal:statute:lgcc:term:ley",
-    "span": "Ley",
-    "start_char": 2967,
-    "end_char": 2970
   },
   {
     "schema_version": "0.1.0",
@@ -880,15 +808,6 @@
     "span": "Programa",
     "start_char": 1081,
     "end_char": 1089
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:article:34:term-usage:5947-5950",
-    "provision_id": "urn:lex-mx:federal:statute:lgcc:article:34",
-    "term_id": "urn:lex-mx:federal:statute:lgcc:term:ley",
-    "span": "Ley",
-    "start_char": 5947,
-    "end_char": 5950
   },
   {
     "schema_version": "0.1.0",
@@ -1495,15 +1414,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:article:60:term-usage:688-691",
-    "provision_id": "urn:lex-mx:federal:statute:lgcc:article:60",
-    "term_id": "urn:lex-mx:federal:statute:lgcc:term:ley",
-    "span": "Ley",
-    "start_char": 688,
-    "end_char": 691
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgcc:article:61:term-usage:3-13",
     "provision_id": "urn:lex-mx:federal:statute:lgcc:article:61",
     "term_id": "urn:lex-mx:federal:statute:lgcc:term:secretaria",
@@ -1654,15 +1564,6 @@
     "span": "Comisión",
     "start_char": 922,
     "end_char": 930
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:article:63:term-usage:1256-1259",
-    "provision_id": "urn:lex-mx:federal:statute:lgcc:article:63",
-    "term_id": "urn:lex-mx:federal:statute:lgcc:term:ley",
-    "span": "Ley",
-    "start_char": 1256,
-    "end_char": 1259
   },
   {
     "schema_version": "0.1.0",
@@ -1837,15 +1738,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:article:68:term-usage:165-168",
-    "provision_id": "urn:lex-mx:federal:statute:lgcc:article:68",
-    "term_id": "urn:lex-mx:federal:statute:lgcc:term:ley",
-    "span": "Ley",
-    "start_char": 165,
-    "end_char": 168
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgcc:article:69:term-usage:18-26",
     "provision_id": "urn:lex-mx:federal:statute:lgcc:article:69",
     "term_id": "urn:lex-mx:federal:statute:lgcc:term:programa",
@@ -1879,15 +1771,6 @@
     "span": "Ley",
     "start_char": 243,
     "end_char": 246
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:article:70:term-usage:454-457",
-    "provision_id": "urn:lex-mx:federal:statute:lgcc:article:70",
-    "term_id": "urn:lex-mx:federal:statute:lgcc:term:ley",
-    "span": "Ley",
-    "start_char": 454,
-    "end_char": 457
   },
   {
     "schema_version": "0.1.0",
@@ -2557,15 +2440,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:article:113:term-usage:242-245",
-    "provision_id": "urn:lex-mx:federal:statute:lgcc:article:113",
-    "term_id": "urn:lex-mx:federal:statute:lgcc:term:ley",
-    "span": "Ley",
-    "start_char": 242,
-    "end_char": 245
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgcc:article:113:term-usage:399-409",
     "provision_id": "urn:lex-mx:federal:statute:lgcc:article:113",
     "term_id": "urn:lex-mx:federal:statute:lgcc:term:secretaria",
@@ -2896,15 +2770,6 @@
     "span": "Secretaría",
     "start_char": 528,
     "end_char": 538
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:transitory:septimo:term-usage:769-772",
-    "provision_id": "urn:lex-mx:federal:statute:lgcc:transitory:septimo",
-    "term_id": "urn:lex-mx:federal:statute:lgcc:term:ley",
-    "span": "Ley",
-    "start_char": 769,
-    "end_char": 772
   },
   {
     "schema_version": "0.1.0",

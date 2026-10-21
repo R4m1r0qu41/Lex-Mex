@@ -23,7 +23,7 @@ I. Recibir la información, orientación y asesoría necesaria, de manera integr
 
 II. Garantizar el respeto irrestricto a su dignidad, evitando cualquier elemento o situación que impida o dificulte el salvaguardar en todo momento el ejercicio pleno de sus derechos humanos;
 
-III. Respetar su privacidad e intimidad, en términos de lo establecido en la [Ley](articulo-3.md) General de Protección de Datos Personales en Posesión de Sujetos Obligados y demás normatividad aplicable. Las autoridades competentes deberán evitar, en todo momento, la divulgación de la información contenida en los procesos administrativos, civiles y penales que pueda violentarla;
+III. Respetar su privacidad e intimidad, en términos de lo establecido en la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados y demás normatividad aplicable. Las autoridades competentes deberán evitar, en todo momento, la divulgación de la información contenida en los procesos administrativos, civiles y penales que pueda violentarla;
 
 IV. Recibir atención médica y psicológica de manera integral;
 

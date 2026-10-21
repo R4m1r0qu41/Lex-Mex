@@ -154,15 +154,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnmasc-penal:article:3:term-usage:1049-1072",
-    "provision_id": "urn:lex-mx:federal:statute:lnmasc-penal:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lnmasc-penal:term:mecanismos-alternativos",
-    "span": "Mecanismos Alternativos",
-    "start_char": 1049,
-    "end_char": 1072
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lnmasc-penal:article:3:term-usage:1249-1272",
     "provision_id": "urn:lex-mx:federal:statute:lnmasc-penal:article:3",
     "term_id": "urn:lex-mx:federal:statute:lnmasc-penal:term:mecanismos-alternativos",
@@ -3052,30 +3043,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnmasc-penal:transitory:primero:term-usage:19-42",
-    "provision_id": "urn:lex-mx:federal:statute:lnmasc-penal:transitory:primero",
-    "term_id": "urn:lex-mx:federal:statute:lnmasc-penal:term:mecanismos-alternativos",
-    "span": "Mecanismos Alternativos",
-    "start_char": 19,
-    "end_char": 42
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lnmasc-penal:transitory:primero:term-usage:858-861",
     "provision_id": "urn:lex-mx:federal:statute:lnmasc-penal:transitory:primero",
     "term_id": "urn:lex-mx:federal:statute:lnmasc-penal:term:ley",
     "span": "Ley",
     "start_char": 858,
     "end_char": 861
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnmasc-penal:transitory:primero:term-usage:874-897",
-    "provision_id": "urn:lex-mx:federal:statute:lnmasc-penal:transitory:primero",
-    "term_id": "urn:lex-mx:federal:statute:lnmasc-penal:term:mecanismos-alternativos",
-    "span": "Mecanismos Alternativos",
-    "start_char": 874,
-    "end_char": 897
   },
   {
     "schema_version": "0.1.0",
@@ -3121,15 +3094,6 @@
     "span": "Ley",
     "start_char": 62,
     "end_char": 65
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnmasc-penal:transitory:cuarto:term-usage:78-101",
-    "provision_id": "urn:lex-mx:federal:statute:lnmasc-penal:transitory:cuarto",
-    "term_id": "urn:lex-mx:federal:statute:lnmasc-penal:term:mecanismos-alternativos",
-    "span": "Mecanismos Alternativos",
-    "start_char": 78,
-    "end_char": 101
   },
   {
     "schema_version": "0.1.0",

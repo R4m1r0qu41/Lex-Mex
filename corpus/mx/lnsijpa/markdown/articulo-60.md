@@ -29,4 +29,4 @@ III. Pago en dinero con cargo a los ingresos laborales o de trabajo del adolesce
 
 Las medidas a que se refieren las fracciones anteriores se realizarán por el acuerdo de voluntades de las partes; el Ministerio Público Especializado en [Adolescentes](articulo-3.md) competente sancionará, en todos los casos, los mecanismos por el que se pretenda realizar la reparación del daño.
 
-El pago a la víctima u ofendido, podrá aplicarse con cargo al Fondo de Ayuda, Asistencia y Reparación Integral de la Comisión Ejecutiva de Atención a Víctimas o su similar en las entidades federativas, conforme a lo establecido por la [Ley General](articulo-3.md) de Víctimas y leyes correspondientes en las entidades federativas, respecto a la compensación subsidiaria.
+El pago a la víctima u ofendido, podrá aplicarse con cargo al Fondo de Ayuda, Asistencia y Reparación Integral de la Comisión Ejecutiva de Atención a Víctimas o su similar en las entidades federativas, conforme a lo establecido por la Ley General de Víctimas y leyes correspondientes en las entidades federativas, respecto a la compensación subsidiaria.

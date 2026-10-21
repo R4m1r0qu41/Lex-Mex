@@ -181,15 +181,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsp:article:2:term-usage:1915-1937",
-    "provision_id": "urn:lex-mx:federal:statute:lsp:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lsp:term:orden-de-transferencia",
-    "span": "Orden de Transferencia",
-    "start_char": 1915,
-    "end_char": 1937
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lsp:article:2:term-usage:1978-2000",
     "provision_id": "urn:lex-mx:federal:statute:lsp:article:2",
     "term_id": "urn:lex-mx:federal:statute:lsp:term:orden-de-transferencia",

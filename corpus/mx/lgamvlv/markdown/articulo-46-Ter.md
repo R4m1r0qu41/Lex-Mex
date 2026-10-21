@@ -29,12 +29,10 @@ IV. Diseñar y difundir materiales que promuevan la prevención, atención y err
 
 V. Tomar medidas y realizar las acciones necesarias, en coordinación con las demás autoridades, para alcanzar los objetivos previstos en la presente ley;
 
-VI. Constituir un padrón sobre las unidades destinadas para las mujeres a las que se refieren los artículos [63](../../lagra/markdown/articulo-63.md) y [71](../../lagra/markdown/articulo-71.md) de la [Ley](articulo-5.md) Agraria, con base en la información contenida en el Registro Agrario Nacional;
+VI. Constituir un padrón sobre las unidades destinadas para las mujeres a las que se refieren los artículos [63](../../lagra/markdown/articulo-63.md) y [71](../../lagra/markdown/articulo-71.md) de la Ley Agraria, con base en la información contenida en el Registro Agrario Nacional;
 
 VII. Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema y del [Programa](articulo-5.md), y
 
 VIII. Las demás previstas para el cumplimiento de la presente ley.
 
 Artículo adicionado DOF 04-06-2015
-
-Sección Novena. De la Fiscalía General de la República Sección recorrida (antes Sección Séptima) DOF 04-06-2015. Denominación reformada DOF 20-05-2021

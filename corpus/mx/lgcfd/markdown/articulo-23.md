@@ -17,4 +17,4 @@ source_sha256: 7f28b406ac8966ef726994b15fc2356a5d8ee92a8e24de0e7a3046d2683fe40d
 
 # Artículo 23
 
-El órgano de vigilancia de la [CONADE](articulo-4.md) estará integrado por un Comisario Público propietario y un suplente, designados por la Secretaría de la Función Pública en los términos de la [Ley](articulo-4.md) Orgánica de la Administración Pública Federal.
+El órgano de vigilancia de la [CONADE](articulo-4.md) estará integrado por un Comisario Público propietario y un suplente, designados por la Secretaría de la Función Pública en los términos de la Ley Orgánica de la Administración Pública Federal.

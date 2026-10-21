@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LTOSF.pdf
 source_sha256: bf9e443e89a5c0ba268e76f20923ae25195ef5c1ffbacecff36693ca228c3667
 ---
 
+> Capítulo IV
+
 # Artículo 21
 
 Las [Entidades Financieras](articulo-3.md) y las Cámaras de Compensación, estarán obligadas a suministrar al Banco de México, en la forma y términos que éste les requiera, la información sobre los Medios de Disposición, créditos, préstamos y financiamientos respectivos, así como, en general, aquélla que sea útil al Banco para proveer el adecuado cumplimiento de sus funciones.

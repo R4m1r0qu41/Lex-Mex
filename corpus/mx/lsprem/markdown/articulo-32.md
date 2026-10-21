@@ -17,4 +17,4 @@ source_sha256: bcc21844355854fe331c842c21436d721d6c2856b5c5986715fe39f4a845b317
 
 # Artículo 32
 
-Las relaciones de trabajo del [Sistema](articulo-2.md) y su personal se regirán por la [Ley](articulo-2.md) Federal del Trabajo, reglamentaria del Apartado B del artículo [123](../../cpeum/markdown/articulo-123.md) de la Constitución Política de los Estados Unidos Mexicanos.
+Las relaciones de trabajo del [Sistema](articulo-2.md) y su personal se regirán por la Ley Federal del Trabajo, reglamentaria del Apartado B del artículo [123](../../cpeum/markdown/articulo-123.md) de la Constitución Política de los Estados Unidos Mexicanos.

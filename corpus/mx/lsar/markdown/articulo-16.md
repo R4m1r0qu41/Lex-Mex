@@ -37,7 +37,7 @@ IX. Emitir opinión a la Junta de Gobierno respecto de las reglas de carácter g
 
 X. Recomendar medidas preventivas para el sano desarrollo de los [Sistemas de Ahorro para el Retiro](articulo-3o.md);
 
-XI. Emitir opinión sobre el procedimiento de contratación de seguros de vida o de invalidez con cargo a los recursos de la subcuenta de ahorro para el retiro de los trabajadores sujetos a la Ley del Instituto de Seguridad y Servicios Sociales de los [Trabajadores](articulo-3o.md) del Estado;
+XI. Emitir opinión sobre el procedimiento de contratación de seguros de vida o de invalidez con cargo a los recursos de la subcuenta de ahorro para el retiro de los trabajadores sujetos a la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
 
 XII. Conocer sobre los criterios generales para la supervisión de los participantes en los sistemas de ahorro para el retiro;
 

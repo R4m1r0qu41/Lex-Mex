@@ -1,15 +1,6 @@
 [
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lieps:article:1:term-usage:73-81",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lieps:article:1",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lieps:term:impuesto",
-    "span": "Impuesto",
-    "start_char": 73,
-    "end_char": 81
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lieps:article:2:term-usage:40-43",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lieps:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lieps:term:ley",
@@ -46,48 +37,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lieps:article:5:term-usage:310-313",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lieps:article:5",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lieps:term:ley",
-    "span": "Ley",
-    "start_char": 310,
-    "end_char": 313
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lieps:article:5:term-usage:318-326",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lieps:article:5",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lieps:term:impuesto",
-    "span": "Impuesto",
-    "start_char": 318,
-    "end_char": 326
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lieps:article:6:term-usage:59-62",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lieps:article:6",
     "term_id": "urn:lex-mx:federal:regulation:reg-lieps:term:ley",
     "span": "Ley",
     "start_char": 59,
     "end_char": 62
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lieps:article:6:term-usage:265-268",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lieps:article:6",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lieps:term:ley",
-    "span": "Ley",
-    "start_char": 265,
-    "end_char": 268
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lieps:article:6:term-usage:273-281",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lieps:article:6",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lieps:term:impuesto",
-    "span": "Impuesto",
-    "start_char": 273,
-    "end_char": 281
   },
   {
     "schema_version": "0.1.0",
@@ -181,15 +136,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lieps:article:18:term-usage:82-85",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lieps:article:18",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lieps:term:ley",
-    "span": "Ley",
-    "start_char": 82,
-    "end_char": 85
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lieps:article:19:term-usage:39-42",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lieps:article:19",
     "term_id": "urn:lex-mx:federal:regulation:reg-lieps:term:ley",
@@ -214,14 +160,5 @@
     "span": "Ley",
     "start_char": 30,
     "end_char": 33
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lieps:transitory:segundo:term-usage:38-46",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lieps:transitory:segundo",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lieps:term:impuesto",
-    "span": "Impuesto",
-    "start_char": 38,
-    "end_char": 46
   }
 ]

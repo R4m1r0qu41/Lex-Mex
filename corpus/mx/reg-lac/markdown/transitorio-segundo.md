@@ -17,7 +17,7 @@ source_sha256: 4dcf5277184d5f5c5cc1c8ae2dfa196134b472d883eb2806c7bac27cd77eda7d
 
 Conforme se expidan las normas oficiales mexicanas, reglas de tránsito aéreo y demás disposiciones administrativas a que se refiere este Reglamento quedarán abrogados los ordenamientos siguientes:
 
-I. El Reglamento del artículo [320](../../lvgc/markdown/articulo-320.md) de la [Ley](articulo-2.md) de Vías Generales de Comunicación, publicado en el Diario Oficial de la Federación el 1 de septiembre de 1941.
+I. El Reglamento del artículo [320](../../lvgc/markdown/articulo-320.md) de la Ley de Vías Generales de Comunicación, publicado en el Diario Oficial de la Federación el 1 de septiembre de 1941.
 
 II. El Reglamento para la expedición de prioridades en los transportes aéreos, publicado en el Diario Oficial de la Federación el 22 de junio de 1943.
 

@@ -15,4 +15,4 @@ source_sha256: a823b87d27bee29da481750b9893f00024bd80aed8b0713bf8b1ac1e55b9b8de
 
 # CUARTO
 
-Las disposiciones administrativas de carácter general en materia migratoria emitidas con anterioridad a la entrada en vigor de la [Ley](articulo-3.md) de Migración, continuarán vigentes en todo lo que no se le opongan, hasta en tanto se expidan las disposiciones que las sustituyan con arreglo a la misma.
+Las disposiciones administrativas de carácter general en materia migratoria emitidas con anterioridad a la entrada en vigor de la Ley de Migración, continuarán vigentes en todo lo que no se le opongan, hasta en tanto se expidan las disposiciones que las sustituyan con arreglo a la misma.

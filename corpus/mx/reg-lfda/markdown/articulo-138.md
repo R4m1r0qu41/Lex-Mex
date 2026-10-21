@@ -17,6 +17,6 @@ source_sha256: 2beb1a3a5c23de93f1588ce6d4e4c209e73a8d747f19e3165706f38abcee8fe3
 
 # Artículo 138
 
-El ejercicio de las acciones establecidas en la [Ley](articulo-2o.md) dejará a salvo el derecho de iniciar otro procedimiento de conformidad con la misma, el [Código Civil](articulo-2o.md) Federal, el Código de Comercio, la Ley de la Propiedad Industrial o, en su caso, la legislación común aplicable, así como presentar denuncia o querella en materia penal.
+El ejercicio de las acciones establecidas en la [Ley](articulo-2o.md) dejará a salvo el derecho de iniciar otro procedimiento de conformidad con la misma, el Código Civil Federal, el Código de Comercio, la Ley de la Propiedad Industrial o, en su caso, la legislación común aplicable, así como presentar denuncia o querella en materia penal.
 
 Artículo reformado DOF 14-09-2005

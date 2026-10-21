@@ -82,30 +82,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lac:article:2:term-usage:9407-9415",
-    "provision_id": "urn:lex-mx:federal:statute:lac:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lac:term:aeronave",
-    "span": "Aeronave",
-    "start_char": 9407,
-    "end_char": 9415
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lac:article:2:term-usage:9464-9472",
     "provision_id": "urn:lex-mx:federal:statute:lac:article:2",
     "term_id": "urn:lex-mx:federal:statute:lac:term:aeronave",
     "span": "Aeronave",
     "start_char": 9464,
     "end_char": 9472
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lac:article:2:term-usage:9943-9949",
-    "provision_id": "urn:lex-mx:federal:statute:lac:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lac:term:fatiga",
-    "span": "Fatiga",
-    "start_char": 9943,
-    "end_char": 9949
   },
   {
     "schema_version": "0.1.0",
@@ -1546,15 +1528,6 @@
     "span": "Secretaría",
     "start_char": 3,
     "end_char": 13
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lac:article:78-nonies:term-usage:106-117",
-    "provision_id": "urn:lex-mx:federal:statute:lac:article:78-nonies",
-    "term_id": "urn:lex-mx:federal:statute:lac:term:aeropuerto",
-    "span": "Aeropuertos",
-    "start_char": 106,
-    "end_char": 117
   },
   {
     "schema_version": "0.1.0",

@@ -964,15 +964,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-csps:transitory:segundo:term-usage:679-688",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-csps:transitory:segundo",
-    "term_id": "urn:lex-mx:federal:regulation:reg-csps:term:producto",
-    "span": "Productos",
-    "start_char": 679,
-    "end_char": 688
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-csps:annex:1:term-usage:18422-18432",
     "provision_id": "urn:lex-mx:federal:regulation:reg-csps:annex:1",
     "term_id": "urn:lex-mx:federal:regulation:reg-csps:term:secretaria",

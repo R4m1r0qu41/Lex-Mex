@@ -23,7 +23,7 @@ I. Cuando se trate de modificación en la titularidad del predio:
 
 a) El nombre del nuevo titular;
 
-b) La manifestación del nuevo titular de que desea seguir destinando voluntariamente el predio a la conservación, así como de continuar aplicando la estrategia de manejo avalada por la [Comisión](articulo-3o.md) o en su caso, las modificaciones que decida realizar a la misma. En su caso, acta de la asamblea ejidal o comunal realizada en términos de la [Ley](articulo-3o.md) Agraria, en la que se exprese la voluntad de destinar sus predios a la conservación, para el caso de ejidos y comunidades;
+b) La manifestación del nuevo titular de que desea seguir destinando voluntariamente el predio a la conservación, así como de continuar aplicando la estrategia de manejo avalada por la [Comisión](articulo-3o.md) o en su caso, las modificaciones que decida realizar a la misma. En su caso, acta de la asamblea ejidal o comunal realizada en términos de la Ley Agraria, en la que se exprese la voluntad de destinar sus predios a la conservación, para el caso de ejidos y comunidades;
 
 c) El título de propiedad que ampare su derecho sobre el predio, y
 

@@ -17,4 +17,4 @@ source_sha256: a3435ac18a1631617fea83ae6a81bad84f456e3e8fd44b69bb6b7ea39425df9c
 
 # Artículo 49
 
-La supervisión de la recolección de los comisariatos y de los desechos inorgánicos que hayan estado en contacto con aquellos, en aviones y barcos, podrá realizarse por el personal oficial, lo cual se hará constar mediante acta circunstanciada, en términos de lo dispuesto por la [Ley](articulo-2.md) Federal de Procedimiento Administrativo.
+La supervisión de la recolección de los comisariatos y de los desechos inorgánicos que hayan estado en contacto con aquellos, en aviones y barcos, podrá realizarse por el personal oficial, lo cual se hará constar mediante acta circunstanciada, en términos de lo dispuesto por la Ley Federal de Procedimiento Administrativo.

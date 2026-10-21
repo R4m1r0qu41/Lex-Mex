@@ -17,7 +17,7 @@ source_sha256: cbd3307808b89748077396e108c02651da8099a5bc491657c17fa676618d85f1
 
 # Artículo 96
 
-La persona titular del Órgano Interno de Control de la [Fiscalía General](articulo-9.md) será sujeto de responsabilidad en términos de la [Ley](articulo-9.md) General de Responsabilidades Administrativas y podrá ser sancionado de conformidad con el procedimiento previsto en dicha Ley, el cual será tramitado y resuelto por la persona titular de la Fiscalía Especializada en materia de Combate a la Corrupción.
+La persona titular del Órgano Interno de Control de la [Fiscalía General](articulo-9.md) será sujeto de responsabilidad en términos de la Ley General de Responsabilidades Administrativas y podrá ser sancionado de conformidad con el procedimiento previsto en dicha [Ley](articulo-9.md), el cual será tramitado y resuelto por la persona titular de la Fiscalía Especializada en materia de Combate a la Corrupción.
 
 Tratándose de las demás personas servidoras públicas adscritas al Órgano Interno de Control, serán sancionadas por su persona titular o por la persona servidora pública en quien delegue la facultad, en términos de la Ley General de Responsabilidades Administrativas.
 

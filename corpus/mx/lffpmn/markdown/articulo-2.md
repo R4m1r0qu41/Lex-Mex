@@ -19,7 +19,7 @@ source_sha256: 3564da0e2d5216d234ef006ac52ce494528a018a67301be009026db9f1edf91b
 
 Para los efectos de esta ley se entenderá por:
 
-I. Bancos Comunitarios de Semillas de [Maíz Nativo](articulo-2.md): Los centros de producción, selección, conservación y distribución de semillas de Maíz Nativo, que tienen por objeto su preservación y administración de forma colectiva, para su producción mediante sistemas tradicionales;
+I. Bancos Comunitarios de Semillas de Maíz Nativo: Los centros de producción, selección, conservación y distribución de semillas de [Maíz Nativo](articulo-2.md), que tienen por objeto su preservación y administración de forma colectiva, para su producción mediante sistemas tradicionales;
 
 II. CONAM: El Consejo Nacional del Maíz Nativo; III. Diversificación Constante: Proceso evolutivo de domesticación continua mediante técnicas de agricultura nativa, que por milenios ha permitido una diversidad genética con variantes en tamaño, textura, color de mazorca y de grano con capacidad de adaptabilidad a condiciones climáticas amplias y versatilidad en usos;
 
@@ -31,7 +31,7 @@ VI. Raza: Individuos o poblaciones que comparten características en común, de 
 
 VII. Maíz Nativo: Razas de la categoría taxonómica Zea mays subespecie mays que los pueblos indígenas, campesinos y agricultores han cultivado y cultivan, a partir de semillas seleccionadas por sí mismos u obtenidas a través de intercambio, en evolución y [Diversificación Constante](articulo-2.md), que sean identificadas por la Comisión Nacional para el Conocimiento y Uso de la Biodiversidad;
 
-VIII. OGM's: Organismo u organismos genéticamente modificados; en los términos de la [Ley](articulo-2.md) de Bioseguridad de Organismos Genéticamente Modificados;
+VIII. OGM's: Organismo u organismos genéticamente modificados; en los términos de la Ley de Bioseguridad de Organismos Genéticamente Modificados;
 
 IX. SADER: Secretaría de Agricultura y Desarrollo Rural, y
 

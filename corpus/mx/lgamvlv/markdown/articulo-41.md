@@ -58,5 +58,3 @@ XIX. Desarrollar todos los mecanismos necesarios para el cumplimiento de la pres
 XX. Promover y coordinar con las entidades federativas la creación y el fortalecimiento de los [Centros de Justicia para las Mujeres](articulo-5.md), y Fracción adicionada DOF 08-05-2023
 
 XXI. Las demás que le confieran esta ley u otros ordenamientos aplicables. Fracción recorrida DOF 08-05-2023
-
-Sección Segunda. De la Secretaría de las Mujeres Denominación de la Sección reformada DOF 15-01-2026

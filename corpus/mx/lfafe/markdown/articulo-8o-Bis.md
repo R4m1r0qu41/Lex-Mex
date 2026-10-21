@@ -25,11 +25,11 @@ II.- Opinión favorable del Secretariado Ejecutivo del Sistema Nacional de Segur
 
 III.- Suscripción de convenio de colaboración con la Secretaría para la capacitación y adiestramiento en el uso de las armas solicitadas;
 
-IV.- La evaluación y certificación establecida en la [Ley](articulo-1o-Bis.md) General del Sistema Nacional de Seguridad Pública;
+IV.- La evaluación y certificación establecida en la Ley General del Sistema Nacional de Seguridad Pública;
 
 V.- Certificado Único Policial vigente del personal operativo al que se asignará el armamento solicitado;
 
-VI.- Sujetarse a los lineamientos que establece el apartado B del artículo [29](articulo-29.md) de esta Ley.
+VI.- Sujetarse a los lineamientos que establece el apartado B del artículo [29](articulo-29.md) de esta [Ley](articulo-1o-Bis.md).
 
 Una vez que el Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública determine que se ha cumplido con el objetivo que originó la solicitud para la adquisición y portación de las armas de fuego automáticas calibre 7.62 mm o similares y superiores, estas deben ser transferidas por donación a la Secretaría o, en su caso, quedar bajo resguardo en la instalación militar que determine la Secretaría.
 

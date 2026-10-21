@@ -21,7 +21,7 @@ Son facultades de la Primera y Segunda Sección, las siguientes:
 
 I. Elegir de entre sus Magistrados al Presidente de la Sección correspondiente;
 
-II. Dictar sentencia definitiva en los juicios que traten las materias señaladas en el artículo [94](../../lce/markdown/articulo-94.md) de la [Ley](articulo-2.md) de Comercio Exterior, a excepción de aquéllos en los que se controvierta exclusivamente la aplicación de cuotas compensatorias;
+II. Dictar sentencia definitiva en los juicios que traten las materias señaladas en el artículo [94](../../lce/markdown/articulo-94.md) de la Ley de Comercio Exterior, a excepción de aquéllos en los que se controvierta exclusivamente la aplicación de cuotas compensatorias;
 
 III. Resolver los juicios con características especiales, en términos de las disposiciones aplicables, con excepción de los que sean competencia exclusiva de la Tercera Sección;
 

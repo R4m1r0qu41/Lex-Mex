@@ -19,24 +19,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:2:term-usage:433-440",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:2",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:acuerdo",
-    "span": "Acuerdo",
-    "start_char": 433,
-    "end_char": 440
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:2:term-usage:837-844",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:2",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:acuerdo",
-    "span": "Acuerdo",
-    "start_char": 837,
-    "end_char": 844
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:2:term-usage:1063-1073",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:reglamento",

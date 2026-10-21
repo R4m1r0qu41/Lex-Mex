@@ -973,15 +973,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:13:term-usage:1644-1647",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:13",
-    "term_id": "urn:lex-mx:federal:statute:lgcc:term:ley",
-    "span": "Ley",
-    "start_char": 1644,
-    "end_char": 1647
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:14:term-usage:49-67",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:14",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:emisiones-directas",
@@ -1267,15 +1258,6 @@
     "span": "Emisiones",
     "start_char": 100,
     "end_char": 109
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:20:term-usage:285-288",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:20",
-    "term_id": "urn:lex-mx:federal:statute:lgcc:term:ley",
-    "span": "Ley",
-    "start_char": 285,
-    "end_char": 288
   },
   {
     "schema_version": "0.1.0",
@@ -1924,15 +1906,6 @@
     "span": "Emisiones",
     "start_char": 346,
     "end_char": 355
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:transitory:sexto:term-usage:475-478",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:transitory:sexto",
-    "term_id": "urn:lex-mx:federal:statute:lgcc:term:ley",
-    "span": "Ley",
-    "start_char": 475,
-    "end_char": 478
   },
   {
     "schema_version": "0.1.0",

@@ -19,24 +19,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:1:term-usage:245-254",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:1",
-    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
-    "span": "Instituto",
-    "start_char": 245,
-    "end_char": 254
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:2:term-usage:184-188",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:2",
-    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:inah",
-    "span": "INAH",
-    "start_char": 184,
-    "end_char": 188
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-loinah:article:2:term-usage:245-254",
     "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
@@ -55,15 +37,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:2:term-usage:628-637",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:2",
-    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
-    "span": "Instituto",
-    "start_char": 628,
-    "end_char": 637
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-loinah:article:2:term-usage:692-701",
     "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
@@ -79,15 +52,6 @@
     "span": "Instituto",
     "start_char": 782,
     "end_char": 791
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:2:term-usage:975-984",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:2",
-    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
-    "span": "Instituto",
-    "start_char": 975,
-    "end_char": 984
   },
   {
     "schema_version": "0.1.0",
@@ -4456,24 +4420,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:52:term-usage:146-158",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:52",
-    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:ley-organica",
-    "span": "Ley Orgánica",
-    "start_char": 146,
-    "end_char": 158
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:53:term-usage:173-185",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:53",
-    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:ley-organica",
-    "span": "Ley Orgánica",
-    "start_char": 173,
-    "end_char": 185
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-loinah:article:54:term-usage:3-12",
     "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:54",
     "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
@@ -4579,14 +4525,5 @@
     "span": "Instituto",
     "start_char": 67,
     "end_char": 76
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-loinah:transitory:cuarto:term-usage:495-507",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:transitory:cuarto",
-    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:ley-organica",
-    "span": "Ley Orgánica",
-    "start_char": 495,
-    "end_char": 507
   }
 ]

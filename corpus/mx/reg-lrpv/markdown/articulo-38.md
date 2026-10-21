@@ -17,7 +17,7 @@ source_sha256: 3ff22c0d4dda5724ded6314ddc83e072cab81433b14dd9c6056e67eb5f4f8dd1
 
 # Artículo 38
 
-Cualquier persona podrá realizar consultas al Registro por escrito conforme a los acuerdos generales que para tal efecto establezca el Secretariado Ejecutivo, en términos de la [Ley](articulo-2.md) Federal de Procedimiento Administrativo, los cuales serán publicados en el Diario Oficial de la Federación.
+Cualquier persona podrá realizar consultas al Registro por escrito conforme a los acuerdos generales que para tal efecto establezca el Secretariado Ejecutivo, en términos de la Ley Federal de Procedimiento Administrativo, los cuales serán publicados en el Diario Oficial de la Federación.
 
 La respuesta se emitirá por el Secretariado Ejecutivo en un plazo no mayor a diez días hábiles, contados a partir de la recepción de la solicitud de información, la cual deberá garantizar la protección de los datos personales, en términos de las disposiciones aplicables.
 

@@ -118,15 +118,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsna:article:3:term-usage:1967-1983",
-    "provision_id": "urn:lex-mx:federal:statute:lgsna:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lgsna:term:sistema-nacional",
-    "span": "Sistema Nacional",
-    "start_char": 1967,
-    "end_char": 1983
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgsna:article:3:term-usage:2005-2021",
     "provision_id": "urn:lex-mx:federal:statute:lgsna:article:3",
     "term_id": "urn:lex-mx:federal:statute:lgsna:term:sistema-nacional",
@@ -2320,15 +2311,6 @@
     "span": "Sistema Nacional",
     "start_char": 1534,
     "end_char": 1550
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsna:transitory:cuarto:term-usage:19-35",
-    "provision_id": "urn:lex-mx:federal:statute:lgsna:transitory:cuarto",
-    "term_id": "urn:lex-mx:federal:statute:lgsna:term:sistema-nacional",
-    "span": "Sistema Nacional",
-    "start_char": 19,
-    "end_char": 35
   },
   {
     "schema_version": "0.1.0",

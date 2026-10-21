@@ -298,15 +298,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lacp:article:8:term-usage:198-208",
-    "provision_id": "urn:lex-mx:federal:statute:lacp:article:8",
-    "term_id": "urn:lex-mx:federal:statute:lacp:term:federacion",
-    "span": "Federación",
-    "start_char": 198,
-    "end_char": 208
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lacp:article:8:term-usage:646-678",
     "provision_id": "urn:lex-mx:federal:statute:lacp:article:8",
     "term_id": "urn:lex-mx:federal:statute:lacp:term:sociedad-financiera-popular",
@@ -1078,15 +1069,6 @@
     "span": "Sociedades Financieras Populares",
     "start_char": 56,
     "end_char": 88
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lacp:article:23:term-usage:417-427",
-    "provision_id": "urn:lex-mx:federal:statute:lacp:article:23",
-    "term_id": "urn:lex-mx:federal:statute:lacp:term:federacion",
-    "span": "Federación",
-    "start_char": 417,
-    "end_char": 427
   },
   {
     "schema_version": "0.1.0",
@@ -8335,15 +8317,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lacp:article:96:term-usage:1903-1913",
-    "provision_id": "urn:lex-mx:federal:statute:lacp:article:96",
-    "term_id": "urn:lex-mx:federal:statute:lacp:term:federacion",
-    "span": "Federación",
-    "start_char": 1903,
-    "end_char": 1913
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lacp:article:97:term-usage:81-108",
     "provision_id": "urn:lex-mx:federal:statute:lacp:article:97",
     "term_id": "urn:lex-mx:federal:statute:lacp:term:sociedad-financiera-popular",
@@ -10639,15 +10612,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lacp:article:120:term-usage:205-213",
-    "provision_id": "urn:lex-mx:federal:statute:lacp:article:120",
-    "term_id": "urn:lex-mx:federal:statute:lacp:term:comision",
-    "span": "Comisión",
-    "start_char": 205,
-    "end_char": 213
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lacp:article:120:term-usage:329-337",
     "provision_id": "urn:lex-mx:federal:statute:lacp:article:120",
     "term_id": "urn:lex-mx:federal:statute:lacp:term:comision",
@@ -12439,15 +12403,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lacp:article:130:term-usage:1354-1364",
-    "provision_id": "urn:lex-mx:federal:statute:lacp:article:130",
-    "term_id": "urn:lex-mx:federal:statute:lacp:term:federacion",
-    "span": "Federación",
-    "start_char": 1354,
-    "end_char": 1364
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lacp:article:130:term-usage:1468-1476",
     "provision_id": "urn:lex-mx:federal:statute:lacp:article:130",
     "term_id": "urn:lex-mx:federal:statute:lacp:term:comision",
@@ -13300,15 +13255,6 @@
     "span": "Comisión",
     "start_char": 1426,
     "end_char": 1434
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lacp:article:146:term-usage:1661-1669",
-    "provision_id": "urn:lex-mx:federal:statute:lacp:article:146",
-    "term_id": "urn:lex-mx:federal:statute:lacp:term:comision",
-    "span": "Comisión",
-    "start_char": 1661,
-    "end_char": 1669
   },
   {
     "schema_version": "0.1.0",

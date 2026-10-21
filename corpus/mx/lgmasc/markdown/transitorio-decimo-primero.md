@@ -15,4 +15,4 @@ source_sha256: d6c47a12a294da2615fcac2b41f76a897373325184ac9f8c5debe6357aa43f4a
 
 # Décimo Primero
 
-En caso de que haya concluido la vigencia de la [Certificación](articulo-5.md) y los Poderes Judiciales de las entidades federativas no emitan la Convocatoria que corresponda para la renovación o recertificación en los términos previstos en la [Ley](articulo-5.md) General de [Mecanismos Alternativos de Solución de Controversias](articulo-5.md) prevista en el presente Decreto, ésta continuará vigente hasta en tanto se lleven a cabo los actos y procedimientos dispuestos para tal fin.
+En caso de que haya concluido la vigencia de la [Certificación](articulo-5.md) y los Poderes Judiciales de las entidades federativas no emitan la Convocatoria que corresponda para la renovación o recertificación en los términos previstos en la [Ley](articulo-5.md) General de Mecanismos Alternativos de Solución de Controversias prevista en el presente Decreto, ésta continuará vigente hasta en tanto se lleven a cabo los actos y procedimientos dispuestos para tal fin.

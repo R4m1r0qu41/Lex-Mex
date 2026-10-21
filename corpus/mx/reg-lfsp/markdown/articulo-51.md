@@ -21,7 +21,7 @@ Toda persona que tenga conocimiento de irregularidades cometidas por los Centros
 
 La queja se resolverá conforme al siguiente procedimiento:
 
-I. Una vez recibido el escrito de queja, se radicará el expediente correspondiente ante la Dirección General, en términos del artículo [46](../../lfpa/markdown/articulo-46.md) de la [Ley](articulo-2.md) Federal de Procedimiento Administrativo; II. Previo análisis y valoración de las documentales o datos vertidos en el expediente, la Dirección General deberá acreditar su competencia para conocer de la queja en términos de los artículos [1](../../lfsp/markdown/articulo-1.md) y [16](../../lfsp/markdown/articulo-16.md) de la Ley;
+I. Una vez recibido el escrito de queja, se radicará el expediente correspondiente ante la Dirección General, en términos del artículo [46](../../lfpa/markdown/articulo-46.md) de la Ley Federal de Procedimiento Administrativo; II. Previo análisis y valoración de las documentales o datos vertidos en el expediente, la Dirección General deberá acreditar su competencia para conocer de la queja en términos de los artículos [1](../../lfsp/markdown/articulo-1.md) y [16](../../lfsp/markdown/articulo-16.md) de la [Ley](articulo-2.md);
 
 III. Determinada la competencia, tanto territorial como por la materia, la Dirección General ordenará las diligencias pertinentes para hacerse de medios de prueba, sin más limitaciones que las establecidas en la Ley y, en su caso, ordenará la práctica de una visita de verificación para comprobar el cumplimiento de la normatividad en materia de seguridad privada;
 

@@ -25,8 +25,8 @@ II. Llevar el registro de las cuotas del seguro de retiro, así como de las apor
 
 III. Llevar el registro del saldo de los recursos del seguro de retiro y de las aportaciones voluntarias, así como de los rendimientos que genere su depósito en el Banco de México;
 
-IV. Llevar el registro del saldo de la subcuenta de vivienda y de los rendimientos que genere de conformidad con la [Ley](articulo-2o.md) del Instituto del Fondo Nacional de la Vivienda para los [Trabajadores](articulo-2o.md), y
+IV. Llevar el registro del saldo de la subcuenta de vivienda y de los rendimientos que genere de conformidad con la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, y
 
 V. Los demás análogos o conexos que determine la Comisión.
 
-A efecto de lo anterior, las Empresas Operadoras deberán proporcionar a las Administradoras prestadoras de servicio la información relativa a las aportaciones, tasas de rendimiento y aplicación de las comisiones a cargo de los Trabajadores mencionados.
+A efecto de lo anterior, las Empresas Operadoras deberán proporcionar a las Administradoras prestadoras de servicio la información relativa a las aportaciones, tasas de rendimiento y aplicación de las comisiones a cargo de los [Trabajadores](articulo-2o.md) mencionados.

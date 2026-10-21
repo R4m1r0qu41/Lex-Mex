@@ -27,4 +27,4 @@ III. Contar con título profesional de Licenciado en Derecho, y haber desempeña
 
 IV. Cumplir lo previsto en el artículo 123, Apartado A, fracción XX, párrafo octavo, de la Constitución, y
 
-V. No encontrarse en alguno de los impedimentos que para ser miembro de la [Junta de Gobierno](articulo-3.md) señalan las fracciones II, III, IV y V del artículo [19](../../lfep/markdown/articulo-19.md) de la [Ley](articulo-3.md) Federal de las Entidades Paraestatales.
+V. No encontrarse en alguno de los impedimentos que para ser miembro de la [Junta de Gobierno](articulo-3.md) señalan las fracciones II, III, IV y V del artículo [19](../../lfep/markdown/articulo-19.md) de la Ley Federal de las Entidades Paraestatales.

@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-4",
+  "strategy_version": "glossary-extraction-5",
   "instrument_id": "urn:lex-mx:federal:statute:lfrm",
   "source_sha256": "eddfcf458c46cacee55392a138412b0d014bcc306c455d92ed94250efce4904c",
   "extracted_text_sha256": "e29e0de5ef0743baab59214fab2521eaae25b08a2d49810eb9e8f3039c5f3af4",
@@ -26,5 +26,5 @@
   ],
   "imports": [],
   "term_count": 8,
-  "usage_count": 108
+  "usage_count": 107
 }

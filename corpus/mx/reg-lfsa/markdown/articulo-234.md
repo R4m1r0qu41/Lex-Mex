@@ -17,4 +17,4 @@ source_sha256: a3435ac18a1631617fea83ae6a81bad84f456e3e8fd44b69bb6b7ea39425df9c
 
 # Artículo 234
 
-La Secretaría, desarrollará e implementará el Programa Anual de Verificación e Inspección a los Establecimientos TIF, con el objeto de constatar el cumplimiento de las disposiciones legales aplicables en la materia, emitidas por la Secretaría. Las visitas de verificación e inspección se practicarán de acuerdo con lo establecido para estos actos en la [Ley](articulo-2.md) Federal de Procedimiento Administrativo y serán ordenadas por el [SENASICA](articulo-2.md).
+La Secretaría, desarrollará e implementará el Programa Anual de Verificación e Inspección a los Establecimientos TIF, con el objeto de constatar el cumplimiento de las disposiciones legales aplicables en la materia, emitidas por la Secretaría. Las visitas de verificación e inspección se practicarán de acuerdo con lo establecido para estos actos en la Ley Federal de Procedimiento Administrativo y serán ordenadas por el [SENASICA](articulo-2.md).

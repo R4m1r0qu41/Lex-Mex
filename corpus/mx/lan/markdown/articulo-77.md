@@ -19,7 +19,7 @@ source_sha256: 4ef50d6b4b3a6ad0378720c5d49463b4f17d70d9de39f895ed5dae4d2e21736d
 
 Los acuerdos de creación de los Distritos de Temporal Tecnificado se publicarán en el Diario Oficial de la Federación, que se sustentarán en estudios técnicos formulados por los Organismos de Cuenca y autorizados por "la Comisión", para lo cual se coordinará en lo conducente con las Autoridades que correspondan, y señalarán además:
 
-I. Los requisitos para formar parte como personas usuarias del Distrito de Temporal Tecnificado; Fracción reformada DOF 11-12-2025
+I. Los requisitos para formar parte como personas usuarias del [Distrito de Temporal Tecnificado](articulo-3.md); Fracción reformada DOF 11-12-2025
 
 II. Los derechos y obligaciones de quienes formen del Distrito de Temporal Tecnificado;
 

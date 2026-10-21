@@ -13,10 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGP.pdf
 source_sha256: d1b105c503cd9d4e593d9e349b440a77cffc4bf1f3507fe1d1659ab97c8befd8
 ---
 
-> Capítulo SEGUNDO
+> Capítulo SEGUNDO · Sección II
 
 # Artículo 23
 
 El [Consejo](articulo-3.md) proporcionará a los jueces u oficiales del Registro Civil, la información sobre planificación familiar, igualdad jurídica de la mujer y del varón, responsabilidades familiares compartidas y organización legal y desarrollo de la familia, para que se difunda entre los que intervengan en los actos del estado civil.
-
-SECCIÓN III.- Familia y Grupos Marginados

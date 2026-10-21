@@ -185,7 +185,7 @@ LXXVI. Turno o edad de cosecha: Periodo de regeneración de los recursos foresta
 
 LXXVII. Unidades de manejo forestal: Territorio con semejanzas físicas, ambientales, sociales y económicas, delimitado por la Comisión, en coordinación con las Entidades Federativas y con la opinión de sus [Consejos Estatales](articulo-7.md) Forestales;
 
-LXXVIII. Unidades Productoras de [Germoplasma Forestal](articulo-7.md): Áreas establecidas en rodales naturales, plantaciones, huertos semilleros o viveros, con individuos seleccionados por su genotipo y/o fenotipo que posee identificada su procedencia, usada para la producción de frutos, semillas o material vegetativo;
+LXXVIII. Unidades Productoras de Germoplasma Forestal: Áreas establecidas en rodales naturales, plantaciones, huertos semilleros o viveros, con individuos seleccionados por su genotipo y/o fenotipo que posee identificada su procedencia, usada para la producción de frutos, semillas o material vegetativo;
 
 LXXIX. Uso doméstico: Es el aprovechamiento, sin propósitos comerciales, de los recursos forestales extraídos del medio natural en el que se encuentran, para usos rituales o satisfacer las necesidades de energía calorífica, vivienda, aperos de labranza y otros usos en la satisfacción de necesidades básicas en el medio rural;
 

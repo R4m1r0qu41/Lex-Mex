@@ -41,7 +41,7 @@ XI. Mesa Directiva: La Mesa Directiva de la Cámara de Diputados;
 
 XII. Presidencia: La Diputada o Diputado que preside la Mesa Directiva de la Cámara de Diputados; Fracción reformada DOF 07-05-2025
 
-XIII. Presidencia de la [Junta Directiva](articulo-2.md): La Diputada o Diputado que preside el órgano de dirección de la comisión o comité; Fracción reformada DOF 07-05-2025
+XIII. Presidencia de la Junta Directiva: La Diputada o Diputado que preside el órgano de dirección de la comisión o comité; Fracción reformada DOF 07-05-2025
 
 XIV. Reglamento: El Reglamento de la Cámara de Diputados;
 

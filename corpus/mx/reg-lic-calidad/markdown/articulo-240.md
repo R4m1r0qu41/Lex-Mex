@@ -17,4 +17,4 @@ source_sha256: d23aedc9ffdb09b9202311f03023241da20445cb45aea855b37bfd9685768861
 
 # Artículo 240
 
-La Secretaría y demás autoridades competentes, previo procedimiento establecido en la [Ley](articulo-2.md) Federal de Procedimiento Administrativo, pueden imponer las sanciones que correspondan, de conformidad con la Ley, este Reglamento y demás disposiciones jurídicas aplicables.
+La Secretaría y demás autoridades competentes, previo procedimiento establecido en la Ley Federal de Procedimiento Administrativo, pueden imponer las sanciones que correspondan, de conformidad con la [Ley](articulo-2.md), este Reglamento y demás disposiciones jurídicas aplicables.

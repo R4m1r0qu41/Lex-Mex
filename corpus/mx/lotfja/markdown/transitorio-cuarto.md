@@ -15,7 +15,7 @@ source_sha256: b32c33fa4ed071dc8bea1ad69ce8510cdb05016967e9e4fcb60f10c6f2216628
 
 # Cuarto
 
-La [Ley](articulo-2.md) General del Sistema Nacional Anticorrupción, entrará en vigor al día siguiente de la publicación del presente Decreto, sin perjuicio de lo previsto en el Tercero Transitorio anterior y en los párrafos siguientes.
+La Ley General del Sistema Nacional Anticorrupción, entrará en vigor al día siguiente de la publicación del presente Decreto, sin perjuicio de lo previsto en el Tercero Transitorio anterior y en los párrafos siguientes.
 
 Dentro de los noventa días siguientes a la entrada en vigor del presente Decreto, la Cámara de Senadores, deberá designar a los integrantes de la Comisión de Selección.
 

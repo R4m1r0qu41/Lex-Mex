@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LTOSF.pdf
 source_sha256: bf9e443e89a5c0ba268e76f20923ae25195ef5c1ffbacecff36693ca228c3667
 ---
 
+> Capítulo III
+
 # Artículo 10 Bis 1
 
 En los créditos al consumo otorgados por [Entidades](articulo-3.md), la terminación del contrato podrá hacerse en cualquier momento por parte del [Cliente](articulo-3.md) acreditado, en cuyo caso la relación jurídica derivada de los recursos previamente dispuestos, solo continuará en vigor para efectos del pago del principal con los intereses y accesorios que correspondan al crédito otorgado, procediendo a la cancelación del [Medio de Disposición](articulo-3.md), en su caso.

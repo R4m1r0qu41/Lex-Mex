@@ -17,4 +17,4 @@ source_sha256: 9478163ef6ab468edc2be8def3bf84efedd03da5b6c166fba0430bfcb6d8467c
 
 # Artículo 64
 
-En lo no previsto en el presente capítulo, resultan aplicables, de manera supletoria, la [Ley](articulo-2.md) Federal de Procedimiento Administrativo y el Código Federal de Procedimientos Civiles, o aquellos que los sustituyan, en este orden.
+En lo no previsto en el presente capítulo, resultan aplicables, de manera supletoria, la Ley Federal de Procedimiento Administrativo y el Código Federal de Procedimientos Civiles, o aquellos que los sustituyan, en este orden.

@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-4",
+  "strategy_version": "glossary-extraction-5",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe",
   "source_sha256": "d25fabb2d2e90d9f76028717f83c442d05a4f64024f13461285bda8ebd389a04",
   "extracted_text_sha256": "55605a936c3fedacd1af36cb1185fe1777924fc48e1111388a9512a7096cbc76",
@@ -46,5 +46,5 @@
   ],
   "imports": [],
   "term_count": 26,
-  "usage_count": 134
+  "usage_count": 117
 }

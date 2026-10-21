@@ -482,13 +482,37 @@ impl HeadingPatterns {
         // not), ÚNICO/ÚNICA, and PRELIMINAR; the numeral part is captured
         // verbatim and stored as printed.
         let numeral = "(?:[IVXLCDM]+|[A-ZÁÉÍÓÚÑ]+(?:\\s+[A-ZÁÉÍÓÚÑ]+)?)";
+        // A heading may also end with a separator, and print its name on the
+        // same line after it: `Sección II.`, `SECCIÓN II.- Planificación
+        // Familiar`, `TÍTULO SEGUNDO: De las Prestaciones`. Then the keyword
+        // must be capitalized and the numeral an upper-case Roman numeral or
+        // an ordinal word, so a glossary entry such as `Título de Concesión:
+        // …` is not a heading. Apartados are not read this way: `Apartado C.
+        // En la propaganda…` is text inside an article (CPEUM 41).
+        let ordinal = "(?i:(?:PRIMER[OA]?|SEGUND[OA]|TERCER[OA]?|CUART[OA]|QUINT[OA]|SEXT[OA]|S[ÉE]PTIM[OA]|OCTAV[OA]|NOVEN[OA]|D[ÉE]CIM[OA]|UND[ÉE]CIM[OA]|DUOD[ÉE]CIM[OA]|VIG[ÉE]SIM[OA]|[ÚU]NIC[OA]|PRELIMINAR)(?:\\s+(?:PRIMER[OA]|SEGUND[OA]|TERCER[OA]|CUART[OA]|QUINT[OA]|SEXT[OA]|S[ÉE]PTIM[OA]|OCTAV[OA]|NOVEN[OA]))?)";
+        let named = |keyword: &str| {
+            format!(
+                "^{keyword}\\s+([IVXLCDM]+|{ordinal})\\s*(?:\\.-|\\.|:)(?:\\s*\\p{{Lu}}[^\\n]{{0,200}})?$"
+            )
+        };
+        let level = |bare: &str, keyword: &str| {
+            Regex::new(&format!("(?i:^{bare}\\s+({numeral})$)|{}", named(keyword)))
+        };
         Ok(Self {
-            libro: Regex::new(&format!("(?i)^LIBRO\\s+({numeral})$"))?,
-            title: Regex::new(&format!("(?i)^T[ÍI]TULO\\s+({numeral})$"))?,
-            chapter: Regex::new(&format!("(?i)^CAP[ÍI]TULO\\s+({numeral})$"))?,
-            section: Regex::new(&format!("(?i)^SECCI[ÓO]N\\s+({numeral})$"))?,
+            libro: level("LIBRO", "(?:LIBRO|Libro)")?,
+            title: level("T[ÍI]TULO", "(?:T[ÍI]TULO|T[íi]tulo)")?,
+            chapter: level("CAP[ÍI]TULO", "(?:CAP[ÍI]TULO|Cap[íi]tulo)")?,
+            section: level("SECCI[ÓO]N", "(?:SECCI[ÓO]N|Secci[óo]n)")?,
             apartado: Regex::new(&format!("(?i)^APARTADO\\s+({numeral})$"))?,
         })
+    }
+
+    /// The numeral of a heading match, from whichever form matched.
+    fn numeral<'a>(captures: &'a regex::Captures<'_>) -> &'a str {
+        captures
+            .get(1)
+            .or_else(|| captures.get(2))
+            .map_or("", |m| m.as_str())
     }
 
     /// When `block` is a structural heading, update `heading` — resetting
@@ -496,18 +520,18 @@ impl HeadingPatterns {
     /// Título/Capítulo — and report the match.
     fn apply(&self, block: &str, heading: &mut HeadingContext) -> bool {
         if let Some(captures) = self.libro.captures(block) {
-            heading.libro = Some(format!("Libro {}", &captures[1]));
+            heading.libro = Some(format!("Libro {}", Self::numeral(&captures)));
             (heading.title, heading.chapter) = (None, None);
             (heading.section, heading.apartado) = (None, None);
         } else if let Some(captures) = self.title.captures(block) {
-            heading.title = Some(format!("Título {}", &captures[1]));
+            heading.title = Some(format!("Título {}", Self::numeral(&captures)));
             heading.chapter = None;
             (heading.section, heading.apartado) = (None, None);
         } else if let Some(captures) = self.chapter.captures(block) {
-            heading.chapter = Some(format!("Capítulo {}", &captures[1]));
+            heading.chapter = Some(format!("Capítulo {}", Self::numeral(&captures)));
             (heading.section, heading.apartado) = (None, None);
         } else if let Some(captures) = self.section.captures(block) {
-            heading.section = Some(format!("Sección {}", &captures[1]));
+            heading.section = Some(format!("Sección {}", Self::numeral(&captures)));
             heading.apartado = None;
         } else if let Some(captures) = self.apartado.captures(block) {
             heading.apartado = Some(format!("Apartado {}", &captures[1]));
@@ -515,6 +539,18 @@ impl HeadingPatterns {
             return false;
         }
         true
+    }
+
+    /// A heading only in the separator form (`Sección II.`, `TÍTULO
+    /// SEGUNDO: …`), not the bare `CAPÍTULO II`.
+    fn matches_only_with_separator(&self, line: &str) -> bool {
+        let levels = [&self.libro, &self.title, &self.chapter, &self.section];
+        levels
+            .iter()
+            .any(|level| level.captures(line).is_some_and(|c| c.get(2).is_some()))
+            && !levels
+                .iter()
+                .any(|level| level.captures(line).is_some_and(|c| c.get(1).is_some()))
     }
 
     fn matches(&self, block: &str) -> bool {
@@ -912,7 +948,14 @@ fn normalized_blocks(
         {
             flush_block(&mut current, &mut blocks);
         }
-        if is_immediate_structural(line, options, headings) {
+        // A heading line that ends with a separator (`Libro Primero.`) can
+        // also be the end of a wrapped sentence (cpf 65: `…en el Título
+        // Segundo del` / `Libro Primero.`); it is a heading only after a
+        // block boundary or a finished sentence.
+        let continues_sentence = !current.is_empty()
+            && !current.trim_end().ends_with(['.', ';', ':'])
+            && headings.matches_only_with_separator(line);
+        if !continues_sentence && is_immediate_structural(line, options, headings) {
             flush_block(&mut current, &mut blocks);
             blocks.push(collapse_whitespace(line));
             continue;
@@ -2710,6 +2753,40 @@ mod tests {
             Some("Capítulo III")
         );
         assert_eq!(document.provisions[1].text, "Texto bajo el capítulo.");
+    }
+
+    #[test]
+    fn a_heading_that_prints_its_name_on_its_own_line_closes_the_article() {
+        // lfce `Sección II.`, reg-lgp `SECCIÓN II.- Planificación Familiar`,
+        // lissfam `TÍTULO SEGUNDO: De las Prestaciones`; a glossary entry
+        // `Título de Concesión:` and CPEUM's `Apartado C.` stay text.
+        let document = parse_diputados(
+            include_str!("../../../fixtures/diputados/heading-name-on-heading-line-sample.txt"),
+            &options("urn:lex-mx:federal:statute:sample", "Ley de Muestra"),
+            NaiveDate::from_ymd_opt(1995, 5, 11).expect("valid date"),
+        )
+        .expect("heading-name fixture parses");
+
+        let texts: Vec<&str> = document
+            .provisions
+            .iter()
+            .map(|p| p.text.as_str())
+            .collect();
+        assert_eq!(texts[0], "Texto del artículo anterior.");
+        assert!(texts[1].contains("Título de Concesión: el documento"));
+        assert!(
+            texts[1].ends_with("Apartado C. En la propaganda política no se usarán expresiones.")
+        );
+        assert_eq!(texts[2..4], ["Texto de la sección.", "Texto del capítulo."]);
+        let context = |i: usize| &document.provisions[i].heading_context;
+        assert_eq!(context(1).section.as_deref(), Some("Sección II"));
+        assert_eq!(context(2).section.as_deref(), Some("Sección II"));
+        assert_eq!(context(3).title.as_deref(), Some("Título SEGUNDO"));
+        assert_eq!(context(3).chapter.as_deref(), Some("Capítulo Primero"));
+        // cpf 65: a wrapped sentence ending `Libro Primero.` is not a heading.
+        assert!(texts[4].contains("en el Título Segundo del Libro Primero."));
+        assert_eq!(context(4).libro, None);
+        assert_eq!(context(4).chapter.as_deref(), Some("Capítulo Primero"));
     }
 
     #[test]

@@ -17,4 +17,4 @@ source_sha256: 1311332a5177afc73a9d005e9953e0cd34487524768e6fe099a1c6fef29bdbb7
 
 # Artículo 6
 
-Los trámites podrán realizarse de manera presencial o por medios electrónicos. En este último caso la Secretaría determinará, mediante disposiciones generales que se publicarán en el Diario Oficial de la Federación, los trámites en los que se permitirá utilizar dichos medios electrónicos, para lo cual el solicitante deberá contar con una firma electrónica en términos de la [Ley](articulo-2.md) de Firma Electrónica Avanzada y su Reglamento.
+Los trámites podrán realizarse de manera presencial o por medios electrónicos. En este último caso la Secretaría determinará, mediante disposiciones generales que se publicarán en el Diario Oficial de la Federación, los trámites en los que se permitirá utilizar dichos medios electrónicos, para lo cual el solicitante deberá contar con una firma electrónica en términos de la Ley de Firma Electrónica Avanzada y su Reglamento.

@@ -33,4 +33,4 @@ VI. No haber sido procesado o encontrarse en un proceso penal por delitos que at
 
 VII. La demás información que el Sistema Nacional DIF considere necesaria para asegurar y preservar el interés superior de la niñez, mediante Acuerdo que publique en el Diario Oficial de la Federación.
 
-En caso de que las personas solicitantes de adopción no presenten la documentación completa o la [Procuraduría Federal](articulo-2.md) requiera información adicional en términos de la fracción VII de este artículo, procederá conforme a lo dispuesto en el artículo [17-A](../../lfpa/markdown/articulo-17-A.md) de la [Ley](articulo-2.md) Federal de Procedimiento Administrativo.
+En caso de que las personas solicitantes de adopción no presenten la documentación completa o la [Procuraduría Federal](articulo-2.md) requiera información adicional en términos de la fracción VII de este artículo, procederá conforme a lo dispuesto en el artículo [17-A](../../lfpa/markdown/articulo-17-A.md) de la Ley Federal de Procedimiento Administrativo.

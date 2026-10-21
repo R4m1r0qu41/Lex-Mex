@@ -29,9 +29,9 @@ IV. Defensoría Pública: Instituto Federal de Defensoría Pública;
 
 V. Directora o Director General: Directora o Director General de la Escuela Nacional de Formación Judicial;
 
-VI. Escuela Judicial: Escuela Nacional de Formación Judicial; VII. Integrantes del [Órgano](articulo-2.md) de Administración Judicial: Las personas que integran el [Pleno](articulo-2.md) del Órgano de Administración Judicial;
+VI. Escuela Judicial: Escuela Nacional de Formación Judicial; VII. Integrantes del Órgano de Administración Judicial: Las personas que integran el [Pleno](articulo-2.md) del [Órgano](articulo-2.md) de Administración Judicial;
 
-VIII. Ley: Ley de [Carrera Judicial](articulo-2.md) del Poder Judicial de la Federación;
+VIII. Ley: Ley de Carrera Judicial del Poder Judicial de la Federación;
 
 IX. Órgano: El Órgano de Administración Judicial;
 
@@ -41,7 +41,7 @@ XI. Pleno: Pleno del Órgano de Administración Judicial;
 
 XII. Presidenta/Presidente: Presidenta o Presidente del Órgano de Administración Judicial;
 
-XIII. Registro Único: Registro Único de Personas Servidoras Públicas de la Carrera Judicial;
+XIII. Registro Único: Registro Único de Personas Servidoras Públicas de la [Carrera Judicial](articulo-2.md);
 
 XIV. Suprema Corte: Suprema Corte de Justicia de la Nación;
 

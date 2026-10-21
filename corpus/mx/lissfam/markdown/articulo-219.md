@@ -13,10 +13,10 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LISSFAM.pdf
 source_sha256: 35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc
 ---
 
-> Capítulo Único
+> Título CUARTO · Capítulo Único
 
 # Artículo 219
 
-Los trabajadores del [Instituto](articulo-4o.md) quedarán bajo el régimen de la [Ley](articulo-4o.md) del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
+Los trabajadores del [Instituto](articulo-4o.md) quedarán bajo el régimen de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
 
-Las responsabilidades de los funcionarios y empleados del Instituto, se normarán por la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, y demás ordenamientos legales y administrativos aplicables.
+Las responsabilidades de los funcionarios y empleados del Instituto, se normarán por la [Ley](articulo-4o.md) Federal de Responsabilidades Administrativas de los Servidores Públicos, y demás ordenamientos legales y administrativos aplicables.

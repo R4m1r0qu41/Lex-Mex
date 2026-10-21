@@ -17,6 +17,6 @@ source_sha256: 8a999465afe704f31d0f615aa1afb605c395600298a2433e09778463db25da47
 
 # Artículo 17
 
-En caso de que la solicitud presente errores u omisiones, el SNICS podrá requerir al interesado, en los términos previstos por la [Ley](articulo-2.md) Federal de Procedimiento Administrativo, que subsane dichos errores u omisiones dentro de un plazo de diez días hábiles.
+En caso de que la solicitud presente errores u omisiones, el SNICS podrá requerir al interesado, en los términos previstos por la Ley Federal de Procedimiento Administrativo, que subsane dichos errores u omisiones dentro de un plazo de diez días hábiles.
 
 De no desahogarse la prevención antes señalada en el término correspondiente, la solicitud será desechada.

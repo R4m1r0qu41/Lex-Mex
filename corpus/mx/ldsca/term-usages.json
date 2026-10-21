@@ -10,15 +10,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:2:term-usage:141-144",
-    "provision_id": "urn:lex-mx:federal:statute:ldsca:article:2",
-    "term_id": "urn:lex-mx:federal:statute:ldsca:term:ley",
-    "span": "Ley",
-    "start_char": 141,
-    "end_char": 144
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:ldsca:article:3:term-usage:25-28",
     "provision_id": "urn:lex-mx:federal:statute:ldsca:article:3",
     "term_id": "urn:lex-mx:federal:statute:ldsca:term:ley",
@@ -82,15 +73,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:3:term-usage:1402-1405",
-    "provision_id": "urn:lex-mx:federal:statute:ldsca:article:3",
-    "term_id": "urn:lex-mx:federal:statute:ldsca:term:ley",
-    "span": "Ley",
-    "start_char": 1402,
-    "end_char": 1405
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:ldsca:article:3:term-usage:1571-1592",
     "provision_id": "urn:lex-mx:federal:statute:ldsca:article:3",
     "term_id": "urn:lex-mx:federal:statute:ldsca:term:abastecedores-de-cana",
@@ -106,15 +88,6 @@
     "span": "Abastecedores de Caña",
     "start_char": 1645,
     "end_char": 1666
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:3:term-usage:1847-1850",
-    "provision_id": "urn:lex-mx:federal:statute:ldsca:article:3",
-    "term_id": "urn:lex-mx:federal:statute:ldsca:term:ley",
-    "span": "Ley",
-    "start_char": 1847,
-    "end_char": 1850
   },
   {
     "schema_version": "0.1.0",
@@ -160,15 +133,6 @@
     "span": "Contrato",
     "start_char": 2601,
     "end_char": 2609
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:5:term-usage:163-166",
-    "provision_id": "urn:lex-mx:federal:statute:ldsca:article:5",
-    "term_id": "urn:lex-mx:federal:statute:ldsca:term:ley",
-    "span": "Ley",
-    "start_char": 163,
-    "end_char": 166
   },
   {
     "schema_version": "0.1.0",
@@ -250,15 +214,6 @@
     "span": "Secretaría",
     "start_char": 1410,
     "end_char": 1420
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:7:term-usage:1529-1532",
-    "provision_id": "urn:lex-mx:federal:statute:ldsca:article:7",
-    "term_id": "urn:lex-mx:federal:statute:ldsca:term:ley",
-    "span": "Ley",
-    "start_char": 1529,
-    "end_char": 1532
   },
   {
     "schema_version": "0.1.0",
@@ -361,15 +316,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:7:term-usage:3996-3999",
-    "provision_id": "urn:lex-mx:federal:statute:ldsca:article:7",
-    "term_id": "urn:lex-mx:federal:statute:ldsca:term:ley",
-    "span": "Ley",
-    "start_char": 3996,
-    "end_char": 3999
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:ldsca:article:7:term-usage:4039-4042",
     "provision_id": "urn:lex-mx:federal:statute:ldsca:article:7",
     "term_id": "urn:lex-mx:federal:statute:ldsca:term:ley",
@@ -403,15 +349,6 @@
     "span": "Comité Nacional",
     "start_char": 38,
     "end_char": 53
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:9:term-usage:52-55",
-    "provision_id": "urn:lex-mx:federal:statute:ldsca:article:9",
-    "term_id": "urn:lex-mx:federal:statute:ldsca:term:ley",
-    "span": "Ley",
-    "start_char": 52,
-    "end_char": 55
   },
   {
     "schema_version": "0.1.0",
@@ -628,15 +565,6 @@
     "span": "Secretaría",
     "start_char": 5484,
     "end_char": 5494
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:10:term-usage:5809-5812",
-    "provision_id": "urn:lex-mx:federal:statute:ldsca:article:10",
-    "term_id": "urn:lex-mx:federal:statute:ldsca:term:ley",
-    "span": "Ley",
-    "start_char": 5809,
-    "end_char": 5812
   },
   {
     "schema_version": "0.1.0",
@@ -1504,15 +1432,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:31:term-usage:112-115",
-    "provision_id": "urn:lex-mx:federal:statute:ldsca:article:31",
-    "term_id": "urn:lex-mx:federal:statute:ldsca:term:ley",
-    "span": "Ley",
-    "start_char": 112,
-    "end_char": 115
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:ldsca:article:31:term-usage:133-138",
     "provision_id": "urn:lex-mx:federal:statute:ldsca:article:31",
     "term_id": "urn:lex-mx:federal:statute:ldsca:term:ley",
@@ -1603,15 +1522,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:32:term-usage:853-856",
-    "provision_id": "urn:lex-mx:federal:statute:ldsca:article:32",
-    "term_id": "urn:lex-mx:federal:statute:ldsca:term:ley",
-    "span": "Ley",
-    "start_char": 853,
-    "end_char": 856
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:ldsca:article:32:term-usage:926-934",
     "provision_id": "urn:lex-mx:federal:statute:ldsca:article:32",
     "term_id": "urn:lex-mx:federal:statute:ldsca:term:registro",
@@ -1627,15 +1537,6 @@
     "span": "Ley",
     "start_char": 973,
     "end_char": 976
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:32:term-usage:1048-1051",
-    "provision_id": "urn:lex-mx:federal:statute:ldsca:article:32",
-    "term_id": "urn:lex-mx:federal:statute:ldsca:term:ley",
-    "span": "Ley",
-    "start_char": 1048,
-    "end_char": 1051
   },
   {
     "schema_version": "0.1.0",
@@ -1978,15 +1879,6 @@
     "span": "Comité Nacional",
     "start_char": 1370,
     "end_char": 1385
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:39:term-usage:1422-1425",
-    "provision_id": "urn:lex-mx:federal:statute:ldsca:article:39",
-    "term_id": "urn:lex-mx:federal:statute:ldsca:term:ley",
-    "span": "Ley",
-    "start_char": 1422,
-    "end_char": 1425
   },
   {
     "schema_version": "0.1.0",
@@ -2656,24 +2548,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:53:term-usage:635-638",
-    "provision_id": "urn:lex-mx:federal:statute:ldsca:article:53",
-    "term_id": "urn:lex-mx:federal:statute:ldsca:term:ley",
-    "span": "Ley",
-    "start_char": 635,
-    "end_char": 638
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:53:term-usage:650-664",
-    "provision_id": "urn:lex-mx:federal:statute:ldsca:article:53",
-    "term_id": "urn:lex-mx:federal:statute:ldsca:term:organizaciones",
-    "span": "Organizaciones",
-    "start_char": 650,
-    "end_char": 664
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:ldsca:article:54:term-usage:6-14",
     "provision_id": "urn:lex-mx:federal:statute:ldsca:article:54",
     "term_id": "urn:lex-mx:federal:statute:ldsca:term:contrato",
@@ -2707,15 +2581,6 @@
     "span": "Abastecedores de Caña",
     "start_char": 320,
     "end_char": 341
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:54:term-usage:476-479",
-    "provision_id": "urn:lex-mx:federal:statute:ldsca:article:54",
-    "term_id": "urn:lex-mx:federal:statute:ldsca:term:ley",
-    "span": "Ley",
-    "start_char": 476,
-    "end_char": 479
   },
   {
     "schema_version": "0.1.0",
@@ -4465,15 +4330,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:118:term-usage:510-513",
-    "provision_id": "urn:lex-mx:federal:statute:ldsca:article:118",
-    "term_id": "urn:lex-mx:federal:statute:ldsca:term:ley",
-    "span": "Ley",
-    "start_char": 510,
-    "end_char": 513
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:ldsca:article:119:term-usage:148-164",
     "provision_id": "urn:lex-mx:federal:statute:ldsca:article:119",
     "term_id": "urn:lex-mx:federal:statute:ldsca:term:junta-permanente",
@@ -4735,15 +4591,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:127:term-usage:46-49",
-    "provision_id": "urn:lex-mx:federal:statute:ldsca:article:127",
-    "term_id": "urn:lex-mx:federal:statute:ldsca:term:ley",
-    "span": "Ley",
-    "start_char": 46,
-    "end_char": 49
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:ldsca:article:127:term-usage:221-237",
     "provision_id": "urn:lex-mx:federal:statute:ldsca:article:127",
     "term_id": "urn:lex-mx:federal:statute:ldsca:term:junta-permanente",
@@ -4768,15 +4615,6 @@
     "span": "Junta Permanente",
     "start_char": 3,
     "end_char": 19
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:128:term-usage:268-271",
-    "provision_id": "urn:lex-mx:federal:statute:ldsca:article:128",
-    "term_id": "urn:lex-mx:federal:statute:ldsca:term:ley",
-    "span": "Ley",
-    "start_char": 268,
-    "end_char": 271
   },
   {
     "schema_version": "0.1.0",

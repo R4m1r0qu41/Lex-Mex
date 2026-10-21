@@ -136,30 +136,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmde:article:21:term-usage:262-265",
-    "provision_id": "urn:lex-mx:federal:statute:lgmde:article:21",
-    "term_id": "urn:lex-mx:federal:statute:lgmde:term:ley",
-    "span": "Ley",
-    "start_char": 262,
-    "end_char": 265
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgmde:article:21:term-usage:650-662",
     "provision_id": "urn:lex-mx:federal:statute:lgmde:article:21",
     "term_id": "urn:lex-mx:federal:statute:lgmde:term:codigo-penal",
     "span": "Código Penal",
     "start_char": 650,
     "end_char": 662
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmde:article:21:term-usage:679-682",
-    "provision_id": "urn:lex-mx:federal:statute:lgmde:article:21",
-    "term_id": "urn:lex-mx:federal:statute:lgmde:term:ley",
-    "span": "Ley",
-    "start_char": 679,
-    "end_char": 682
   },
   {
     "schema_version": "0.1.0",

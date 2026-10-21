@@ -31,7 +31,7 @@ El Comandante deberá autorizar, mediante resolución fundada y tomando en cuent
 
 Tratándose de la ejecución de órdenes de aprehensión, detenciones en flagrancia y cateos relacionados con los delitos de delincuencia organizada solicitará al [Ministerio Público](articulo-2.md) dicha reserva, imposibilitando que conste en cualquier documento público de la investigación, su nombre, domicilio, fotografía o cualquier otro dato o circunstancia que pudiera servir para su identificación.
 
-En tales casos, se asignará una clave numérica que sólo será del conocimiento del [Secretario](articulo-2.md), el Comandante, el Director General de Inteligencia y el integrante responsable de la operación, sin perjuicio de las facultades del Ministerio Público durante la investigación, en términos de la [Ley](articulo-2.md) Federal contra la Delincuencia Organizada.
+En tales casos, se asignará una clave numérica que sólo será del conocimiento del [Secretario](articulo-2.md), el Comandante, el Director General de Inteligencia y el integrante responsable de la operación, sin perjuicio de las facultades del Ministerio Público durante la investigación, en términos de la Ley Federal contra la Delincuencia Organizada.
 
 Las operaciones encubiertas que se realicen en la investigación y combate a los delitos se llevarán a cabo bajo la supervisión y vigilancia del Ministerio Público.
 

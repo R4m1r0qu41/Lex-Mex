@@ -39,4 +39,4 @@ IX. La revalorización del personal académico de las instituciones de educació
 
 X. La interrelación entre el Sistema Nacional de Educación Superior, el Sistema Nacional de Mejora Continua de la Educación y el Sistema Nacional de Ciencia y Tecnología en sus respectivos procesos de evaluación y acreditación, y
 
-XI. Los demás necesarios para que la evaluación del tipo de educación superior contribuya a los principios, fines y criterios establecidos en el artículo [3](../../cpeum/markdown/articulo-3o.md)o. de la Constitución Política de los [Estados](articulo-6.md) Unidos Mexicanos.
+XI. Los demás necesarios para que la evaluación del tipo de educación superior contribuya a los principios, fines y criterios establecidos en el artículo [3](../../cpeum/markdown/articulo-3o.md)o. de la Constitución Política de los Estados Unidos Mexicanos.

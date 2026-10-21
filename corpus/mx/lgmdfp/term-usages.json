@@ -262,15 +262,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:4:term-usage:2339-2347",
-    "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:4",
-    "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:victimas",
-    "span": "Víctimas",
-    "start_char": 2339,
-    "end_char": 2347
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgmdfp:article:4:term-usage:2380-2388",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:4",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:victimas",
@@ -433,15 +424,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:4:term-usage:8566-8583",
-    "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:4",
-    "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:registro-nacional",
-    "span": "Registro Nacional",
-    "start_char": 8566,
-    "end_char": 8583
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgmdfp:article:4:term-usage:8630-8647",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:4",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:registro-nacional",
@@ -457,15 +439,6 @@
     "span": "Entidades Federativas",
     "start_char": 8865,
     "end_char": 8886
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:4:term-usage:8926-8943",
-    "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:4",
-    "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:registro-nacional",
-    "span": "Registro Nacional",
-    "start_char": 8926,
-    "end_char": 8943
   },
   {
     "schema_version": "0.1.0",
@@ -1738,15 +1711,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:45:term-usage:1709-1717",
-    "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:45",
-    "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:fiscalia",
-    "span": "Fiscalía",
-    "start_char": 1709,
-    "end_char": 1717
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgmdfp:article:45:term-usage:1955-1971",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:45",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:sistema-nacional",
@@ -2230,15 +2194,6 @@
     "span": "Instituciones de Seguridad Pública",
     "start_char": 474,
     "end_char": 508
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:542-558",
-    "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:53",
-    "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:sistema-nacional",
-    "span": "Sistema Nacional",
-    "start_char": 542,
-    "end_char": 558
   },
   {
     "schema_version": "0.1.0",
@@ -2845,15 +2800,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:57:term-usage:80-96",
-    "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:57",
-    "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:sistema-nacional",
-    "span": "Sistema Nacional",
-    "start_char": 80,
-    "end_char": 96
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgmdfp:article:57:term-usage:302-318",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:57",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:sistema-nacional",
@@ -3346,24 +3292,6 @@
     "span": "Fiscalías Especializadas",
     "start_char": 41,
     "end_char": 65
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:69:term-usage:253-269",
-    "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:69",
-    "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:sistema-nacional",
-    "span": "Sistema Nacional",
-    "start_char": 253,
-    "end_char": 269
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:69:term-usage:399-415",
-    "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:69",
-    "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:sistema-nacional",
-    "span": "Sistema Nacional",
-    "start_char": 399,
-    "end_char": 415
   },
   {
     "schema_version": "0.1.0",
@@ -7480,15 +7408,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:158:term-usage:430-446",
-    "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:158",
-    "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:sistema-nacional",
-    "span": "Sistema Nacional",
-    "start_char": 430,
-    "end_char": 446
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgmdfp:article:160:term-usage:3-11",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:160",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:fiscalia",
@@ -8404,15 +8323,6 @@
     "span": "Banco Nacional de Datos Forenses",
     "start_char": 720,
     "end_char": 752
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:transitory:decimo-noveno:term-usage:874-890",
-    "provision_id": "urn:lex-mx:federal:statute:lgmdfp:transitory:decimo-noveno",
-    "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:sistema-nacional",
-    "span": "Sistema Nacional",
-    "start_char": 874,
-    "end_char": 890
   },
   {
     "schema_version": "0.1.0",

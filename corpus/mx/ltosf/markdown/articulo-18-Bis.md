@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LTOSF.pdf
 source_sha256: bf9e443e89a5c0ba268e76f20923ae25195ef5c1ffbacecff36693ca228c3667
 ---
 
+> Capítulo III
+
 # Artículo 18 Bis
 
 Tratándose de créditos, préstamos o financiamientos revolventes asociados a una tarjeta y créditos personales de liquidez sin garantía real masivamente celebrados, las [Entidades](articulo-3.md) documentarán por escrito las referidas operaciones en los formularios que contengan las solicitudes que utilicen para contratar con sus [Clientes](articulo-3.md), en los términos siguientes:

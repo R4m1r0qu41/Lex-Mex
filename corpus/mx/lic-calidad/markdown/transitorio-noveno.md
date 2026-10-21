@@ -15,4 +15,4 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 # NOVENO
 
-Las referencias que, en otras leyes y demás disposiciones jurídicas, así como la denominación de los [Organismos de Evaluación de la Conformidad](articulo-4.md) se realicen a la Ley Federal sobre Metrología y Normalización por lo que hace a cuestiones sobre normalización, evaluación de la conformidad y metrología, se entenderán a los referidos en la Ley de [Infraestructura de la Calidad](articulo-4.md).
+Las referencias que, en otras leyes y demás disposiciones jurídicas, así como la denominación de los [Organismos de Evaluación de la Conformidad](articulo-4.md) se realicen a la Ley Federal sobre Metrología y Normalización por lo que hace a cuestiones sobre normalización, evaluación de la conformidad y metrología, se entenderán a los referidos en la Ley de Infraestructura de la Calidad.

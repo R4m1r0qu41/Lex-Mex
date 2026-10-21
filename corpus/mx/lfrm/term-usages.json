@@ -748,15 +748,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfrm:article:45:term-usage:348-359",
-    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:45",
-    "term_id": "urn:lex-mx:federal:statute:lfrm:term:ley-general",
-    "span": "Ley General",
-    "start_char": 348,
-    "end_char": 359
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfrm:article:46:term-usage:666-684",
     "provision_id": "urn:lex-mx:federal:statute:lfrm:article:46",
     "term_id": "urn:lex-mx:federal:statute:lfrm:term:tribunal-electoral",

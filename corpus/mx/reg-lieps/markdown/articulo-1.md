@@ -19,6 +19,6 @@ source_sha256: cb15a70b51a87cff0f6d329d5e8a97617d71c955e46da65921037a77a83ca5f4
 
 Para los efectos de este Reglamento se entiende por:
 
-I. Ley. La Ley del [Impuesto](articulo-1.md) Especial sobre Producción y Servicios, y
+I. Ley. La Ley del Impuesto Especial sobre Producción y Servicios, y
 
 II. Impuesto. El impuesto especial sobre producción y servicios.

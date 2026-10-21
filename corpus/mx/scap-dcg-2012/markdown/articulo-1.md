@@ -26,7 +26,7 @@ I. Administrador de Comisionistas: a los comisionistas que operan al amparo de l
 
 II. Auditor Externo Independiente: al contador público o licenciado en contaduría pública que cumpla con las características y requisitos contenidos en las “Disposiciones de carácter general aplicables a las entidades y emisoras supervisadas por la [Comisión](articulo-1.md) Nacional Bancaria y de Valores que contraten servicios de auditoría externa de estados financieros básicos” y sus modificaciones.
 
-III. Auditor Interno, a la persona o área que desempeña dicha función en las Sociedades Cooperativas de Ahorro y Préstamo, a que se refiere el inciso d) de la fracción V del Artículo [34](../../lgsc/markdown/articulo-34.md) de la [Ley](articulo-1.md) General de Sociedades Cooperativas.
+III. Auditor Interno, a la persona o área que desempeña dicha función en las Sociedades Cooperativas de Ahorro y Préstamo, a que se refiere el inciso d) de la fracción V del Artículo [34](../../lgsc/markdown/articulo-34.md) de la Ley General de Sociedades Cooperativas.
 
 15 Anexo sustituido mediante Resolución publicada en el Diario Oficial de la Federación el 09 de abril de 2024, cuya entrada en vigor fue diferida al 1 de enero de 2027, en términos de la Resolución modificatoria publicada en el Diario Oficial de la Federación el 27 de diciembre de 2025, por lo que dicha sustitución no se encuentra reflejada en el texto vigente. 16 Anexo sustituido mediante Resolución publicada en el Diario Oficial de la Federación el 09 de abril de 2024, cuya entrada en vigor fue diferida al 1 de enero de 2027, en términos de la Resolución modificatoria publicada en el Diario Oficial de la Federación el 27 de diciembre de 2025, por lo que dicha sustitución no se encuentra reflejada en el texto vigente. 17 Fracción adicionada mediante Resolución publicada en el Diario Oficial de la Federación el 09 de abril de 2024, cuya entrada en vigor fue diferida al 1 de enero de 2027, en términos de la Resolución modificatoria publicada en el Diario Oficial de la Federación el 27 de diciembre de 2025, por lo que dicha adición no se encuentra reflejada en el texto vigente.
 
@@ -36,7 +36,7 @@ a) Un [Usuario](articulo-1.md) y su facultad para realizar operaciones a través
 
 b) Una Sociedad y su facultad para recibir instrucciones a través de Servicios Electrónicos.
 
-V. Bloqueo de Factores de [Autenticación](articulo-1.md): al proceso mediante el cual la Sociedad inhabilita el uso de un [Factor de Autenticación](articulo-1.md) de forma temporal.
+V. Bloqueo de Factores de Autenticación: al proceso mediante el cual la Sociedad inhabilita el uso de un [Factor de Autenticación](articulo-1.md) de forma temporal.
 
 VI. Cajero Automático: al [Dispositivo de Acceso](articulo-1.md) de autoservicio que permite realizar consultas y operaciones diversas, tales como la disposición de dinero en efectivo y al cual el Usuario accede mediante una tarjeta o cuenta para utilizar los Servicios Electrónicos.
 
@@ -58,7 +58,7 @@ XII. Comité de Crédito, al Comité de Crédito o su equivalente a que se refie
 
 18 Fracción adicionada mediante Resolución publicada en el Diario Oficial de la Federación el 09 de abril de 2024, cuya entrada en vigor fue diferida al 1 de enero de 2027, en términos de la Resolución modificatoria publicada en el Diario Oficial de la Federación el 27 de diciembre de 2025, por lo que dicha adición no se encuentra reflejada en el texto vigente. 19 Fracción adicionada mediante Resolución publicada en el Diario Oficial de la Federación el 09 de abril de 2024, cuya entrada en vigor fue diferida al 1 de enero de 2027, en términos de la Resolución modificatoria publicada en el Diario Oficial de la Federación el 27 de diciembre de 2025, por lo que dicha adición no se encuentra reflejada en el texto vigente.
 
-XIII. Comité de Protección al Ahorro Cooperativo, al órgano del [Fondo de Protección](articulo-1.md) encargado de administrar la cuenta de seguro de depósitos de dicho fondo, que se constituya de conformidad con lo señalado en el Título Cuarto de la Ley.
+XIII. Comité de Protección al Ahorro Cooperativo, al órgano del [Fondo de Protección](articulo-1.md) encargado de administrar la cuenta de seguro de depósitos de dicho fondo, que se constituya de conformidad con lo señalado en el Título Cuarto de la [Ley](articulo-1.md).
 
 XIV. Comité de Riesgos, al Comité de Riesgos a que se refiere el inciso b) de la fracción V del Artículo [34](../../lgsc/markdown/articulo-34.md) de la Ley General de Sociedades Cooperativas.
 
@@ -86,7 +86,7 @@ XXIV. Cuentas de Depósito: a las cuentas a que se refiere el inciso a) de la fr
 
 XXV. Cuentas Destino: a las cuentas receptoras de recursos dinerarios en [Operaciones Monetarias](articulo-1.md).
 
-XXVI. [Cuentas Destino](articulo-1.md) Recurrentes: a las Cuentas Destino que cumplan con los requisitos previstos en el Artículo [17 Bis 9](articulo-17-Bis-9.md) de las presentes disposiciones.
+XXVI. Cuentas Destino Recurrentes: a las [Cuentas Destino](articulo-1.md) que cumplan con los requisitos previstos en el Artículo [17 Bis 9](articulo-17-Bis-9.md) de las presentes disposiciones.
 
 XXVII. Cuentas Individuales, a las cuentas con un solo titular.
 
@@ -108,7 +108,7 @@ XXXIII Bis. Esquema de Cobertura en Paso y Medida (Pari-Passu): al esquema contr
 
 (27) 22
 
-XXXIV. Factor de Autenticación: al mecanismo de Autenticación, tangible o intangible, basado en las características físicas del Usuario, en dispositivos o información que solo el Usuario, posea o conozca. Estos mecanismos podrán ser:
+XXXIV. Factor de Autenticación: al mecanismo de [Autenticación](articulo-1.md), tangible o intangible, basado en las características físicas del Usuario, en dispositivos o información que solo el Usuario, posea o conozca. Estos mecanismos podrán ser:
 
 a) Información que el Usuario conozca y que la Sociedad valide a través de cuestionarios practicados por operadores de atención telefónica.
 
@@ -150,7 +150,7 @@ XLVI. Medidas Correctivas, a las [Medidas Correctivas Especiales Adicionales](ar
 
 (27) 26
 
-XLVII. [Medidas Correctivas](articulo-1.md) Especiales Adicionales, a las Medidas Correctivas que las Sociedades deberán cumplir en términos de lo dispuesto por el Artículo 76 de la Ley.
+XLVII. Medidas Correctivas Especiales Adicionales, a las [Medidas Correctivas](articulo-1.md) que las Sociedades deberán cumplir en términos de lo dispuesto por el Artículo 76 de la Ley.
 
 XLVIII. Medidas Correctivas Mínimas, a las medidas que deberán cumplir las Sociedades de conformidad con lo previsto por los Artículos 76 y 77 de la Ley, así como por las presentes Disposiciones.
 
@@ -162,9 +162,9 @@ LI. Microcrédito Productivo, en singular o plural, a los créditos otorgados po
 
 En todo caso, los grupos de Socios señalados deberán ser obligados mancomunados o solidarios. LII. Microfilmación, al acto mediante el cual un libro, registro o documento original, es filmado en una película.
 
-LIII. Miembros del [Comité de Supervisión Auxiliar](articulo-1.md), al Presidente y los gerentes de las oficinas regionales que integran el Comité de Supervisión Auxiliar, en términos del Artículo 51 de la Ley.
+LIII. Miembros del Comité de Supervisión Auxiliar, al Presidente y los gerentes de las oficinas regionales que integran el [Comité de Supervisión Auxiliar](articulo-1.md), en términos del Artículo 51 de la Ley.
 
-LIV. Miembros del [Consejo de Vigilancia](articulo-1.md), a las personas que integran el Consejo de Vigilancia.
+LIV. Miembros del Consejo de Vigilancia, a las personas que integran el [Consejo de Vigilancia](articulo-1.md).
 
 LV. Nivel de Capitalización, a la relación que guarda el capital neto de las Sociedades respecto de sus requerimientos de capitalización por riesgos de crédito y de mercado, expresada en porcentaje.
 

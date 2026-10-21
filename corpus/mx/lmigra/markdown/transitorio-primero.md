@@ -15,4 +15,4 @@ source_sha256: a823b87d27bee29da481750b9893f00024bd80aed8b0713bf8b1ac1e55b9b8de
 
 # PRIMERO
 
-La [Ley](articulo-3.md) de Migración entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, excepto las disposiciones que están sujetas a la vacancia prevista en el artículo Segundo Transitorio.
+La Ley de Migración entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, excepto las disposiciones que están sujetas a la vacancia prevista en el artículo Segundo Transitorio.

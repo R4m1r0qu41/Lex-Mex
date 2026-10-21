@@ -25,7 +25,7 @@ II. La legislación civil federal.
 
 III. La Ley Federal de Procedimiento Administrativo en sus Títulos Tercero A, referente a la mejora regulatoria, y Sexto, respecto de la tramitación de los recursos a que se refiere esta Ley.
 
-IV. El Código Fiscal de la [Federación](articulo-2.md) respecto de la actualización de multas.
+IV. El Código Fiscal de la Federación respecto de la actualización de multas.
 
 V. Los usos y prácticas imperantes entre las Sociedades Cooperativas de Ahorro y Préstamo.
 

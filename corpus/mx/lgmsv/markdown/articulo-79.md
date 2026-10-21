@@ -17,4 +17,4 @@ source_sha256: 79f2b255a142d1756d7e8c13244af6dc8c4f2f474acaf0d669f2b156b022fc03
 
 # Artículo 79
 
-A fin de garantizar la participación efectiva de la sociedad, las leyes de las entidades federativas deberán tomar en cuenta a las instituciones de planeación y de participación ciudadana establecidas en la [Ley](articulo-3.md) General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano, sin limitar la posibilidad de crear otros organismos que se consideren necesarios.
+A fin de garantizar la participación efectiva de la sociedad, las leyes de las entidades federativas deberán tomar en cuenta a las instituciones de planeación y de participación ciudadana establecidas en la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano, sin limitar la posibilidad de crear otros organismos que se consideren necesarios.

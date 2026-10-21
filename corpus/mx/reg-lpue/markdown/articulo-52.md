@@ -39,4 +39,4 @@ X. Oficinas administrativas para llevar el registro de usuarios, entrada y salid
 
 XI. Póliza de seguros que cubran la responsabilidad civil del [Operador](articulo-2.md), robos y daños a las embarcaciones y accidentes de personas, y
 
-XII. Contar con un programa interno de protección civil conforme a lo establecido en la [Ley](articulo-2.md) General de Protección Civil y su Reglamento.
+XII. Contar con un programa interno de protección civil conforme a lo establecido en la Ley General de Protección Civil y su Reglamento.

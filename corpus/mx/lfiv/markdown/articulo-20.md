@@ -21,7 +21,7 @@ La [Secretaría](articulo-3.md) en coordinación con la Comisión apoyará al [S
 
 I. Promover, evaluar y ejecutar una política nacional de fomento económico específica delineada a favor de la industria vitivinícola con la participación de los representantes de los Comités Nacional y Estatales de los Sistemas Producto [Vid](articulo-3.md), comités interinstitucionales, consejos, productores, asociaciones civiles y académicos que por objeto o interés estén vinculados a la Industria Vitivinícola;
 
-II. Instrumentar el [Registro](articulo-3.md), el cual deberá contener los datos completos del padrón de productores de uva destinada a la producción de [Vino](articulo-3.md), embotelladores, comercializadores, distribuidores, importadores y exportadores de Vino; el cual será parte del Sistema Nacional de Información para el Desarrollo Rural Sustentable, establecido en la [Ley](articulo-3.md) de Desarrollo Rural Sustentable;
+II. Instrumentar el [Registro](articulo-3.md), el cual deberá contener los datos completos del padrón de productores de uva destinada a la producción de [Vino](articulo-3.md), embotelladores, comercializadores, distribuidores, importadores y exportadores de Vino; el cual será parte del Sistema Nacional de Información para el Desarrollo Rural Sustentable, establecido en la Ley de Desarrollo Rural Sustentable;
 
 III. Asesorar a los productores para que en el desarrollo de cultivos destinados a la producción de insumos para la vitivinicultura se realicen de acuerdo con las mejores prácticas agrícolas aplicables en materia de sanidad vegetal y que las investigaciones científicas y tecnológicas aconsejen;
 

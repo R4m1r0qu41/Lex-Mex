@@ -17,4 +17,4 @@ source_sha256: 9f964bc5c075d7cf47e5e9df7c2fbe262eb5bd1794de9b230dbd72026a51ae5e
 
 # Artículo 39
 
-Los verificadores podrán realizar visitas ordinarias y extraordinarias, sea por denuncia ciudadana u otro motivo, de acuerdo a las disposiciones de la [Ley](articulo-6.md) General de Salud, de esta Ley y demás disposiciones aplicables.
+Los verificadores podrán realizar visitas ordinarias y extraordinarias, sea por denuncia ciudadana u otro motivo, de acuerdo a las disposiciones de la Ley General de Salud, de esta [Ley](articulo-6.md) y demás disposiciones aplicables.

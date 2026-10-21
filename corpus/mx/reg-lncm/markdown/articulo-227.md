@@ -23,7 +23,7 @@ II. [Turismo Náutico](articulo-10.md), con [Embarcaciones Menores de Recreo y D
 
 III. Seguridad, salvamento y auxilio a la Navegación;
 
-IV. Remolque, maniobra y lanchaje en puerto, excepto cuando tengan celebrado contrato con la [API](articulo-10.md), conforme lo establezca la [Ley](articulo-10.md) de Puertos;
+IV. Remolque, maniobra y lanchaje en puerto, excepto cuando tengan celebrado contrato con la [API](articulo-10.md), conforme lo establezca la Ley de Puertos;
 
 V. Dragado cuando la Embarcación sea de bandera extranjera, y
 

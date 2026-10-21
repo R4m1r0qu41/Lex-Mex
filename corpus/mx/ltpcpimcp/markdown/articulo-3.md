@@ -33,4 +33,4 @@ VIII. Publicidad: Actividad que comprende todo proceso de creación, planificaci
 
 IX. Publicidad Digital: Lugar que las plataformas digitales conectadas a Internet, como páginas web y aplicaciones móviles, destinan para insertar anuncios publicitarios en línea, y
 
-X. [Publicidad Digital](articulo-3.md) Programática: Publicidad Digital vendida a través de mecanismos automatizados, en particular a través de subastas en tiempo real, que establecen como criterio principal de venta el acceso a audiencias con perfiles segmentados.
+X. Publicidad Digital Programática: [Publicidad Digital](articulo-3.md) vendida a través de mecanismos automatizados, en particular a través de subastas en tiempo real, que establecen como criterio principal de venta el acceso a audiencias con perfiles segmentados.

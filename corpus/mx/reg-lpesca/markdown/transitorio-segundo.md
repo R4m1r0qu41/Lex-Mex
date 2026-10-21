@@ -15,4 +15,4 @@ source_sha256: e5c0ecb4328043b7090ee5d73e982d6a04410f1330f6fdb350a7a34527eb2e59
 
 # SEGUNDO
 
-Se abroga el Reglamento de la [Ley](articulo-2o.md) de Pesca, publicado en el Diario Oficial de la Federación el 21 de julio de 1992.
+Se abroga el Reglamento de la Ley de Pesca, publicado en el Diario Oficial de la Federación el 21 de julio de 1992.

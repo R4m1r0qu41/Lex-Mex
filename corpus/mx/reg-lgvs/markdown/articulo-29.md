@@ -31,4 +31,4 @@ d) Deberá presentarse una carta topográfica del Instituto Nacional de Estadís
 
 II. La Secretaría contará con diez días hábiles a partir de la recepción del aviso para solicitar al interesado información faltante, rectificaciones o aclaraciones, y
 
-III. Transcurrido el plazo señalado en la fracción anterior sin que la Secretaría haya emitido observaciones, se entenderá que los predios e instalaciones han quedado incorporados en los términos del aviso presentado y procederá a expedir la constancia correspondiente, de conformidad con lo establecido en el artículo [17](../../lfpa/markdown/articulo-17.md) de la [Ley](articulo-2.md) Federal de Procedimiento Administrativo.
+III. Transcurrido el plazo señalado en la fracción anterior sin que la Secretaría haya emitido observaciones, se entenderá que los predios e instalaciones han quedado incorporados en los términos del aviso presentado y procederá a expedir la constancia correspondiente, de conformidad con lo establecido en el artículo [17](../../lfpa/markdown/articulo-17.md) de la Ley Federal de Procedimiento Administrativo.

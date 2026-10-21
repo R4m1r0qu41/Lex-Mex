@@ -514,15 +514,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:4:term-usage:8328-8333",
-    "provision_id": "urn:lex-mx:federal:statute:lritf:article:4",
-    "term_id": "urn:lex-mx:federal:statute:lritf:term:valores",
-    "span": "Valor",
-    "start_char": 8328,
-    "end_char": 8333
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lritf:article:5:term-usage:4-27",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:5",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:autoridad-financiera",
@@ -4120,15 +4111,6 @@
     "span": "ITF",
     "start_char": 4633,
     "end_char": 4636
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:58:term-usage:5191-5198",
-    "provision_id": "urn:lex-mx:federal:statute:lritf:article:58",
-    "term_id": "urn:lex-mx:federal:statute:lritf:term:valores",
-    "span": "Valores",
-    "start_char": 5191,
-    "end_char": 5198
   },
   {
     "schema_version": "0.1.0",
@@ -9619,15 +9601,6 @@
     "span": "CNBV",
     "start_char": 1367,
     "end_char": 1371
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:134:term-usage:1610-1617",
-    "provision_id": "urn:lex-mx:federal:statute:lritf:article:134",
-    "term_id": "urn:lex-mx:federal:statute:lritf:term:valores",
-    "span": "Valores",
-    "start_char": 1610,
-    "end_char": 1617
   },
   {
     "schema_version": "0.1.0",

@@ -17,4 +17,4 @@ source_sha256: bcc21844355854fe331c842c21436d721d6c2856b5c5986715fe39f4a845b317
 
 # Artículo 29
 
-El [Sistema](articulo-2.md) contará con un Contralor Interno designado por el Titular de la [Secretaría](articulo-2.md) de la Función Pública, de quien dependerá jerárquica y funcionalmente, y cuya competencia y atribuciones serán las que se establezcan en las disposiciones aplicables de la [Ley](articulo-2.md) Orgánica de la Administración Pública Federal y demás preceptos jurídicos y administrativos aplicables.
+El [Sistema](articulo-2.md) contará con un Contralor Interno designado por el Titular de la [Secretaría](articulo-2.md) de la Función Pública, de quien dependerá jerárquica y funcionalmente, y cuya competencia y atribuciones serán las que se establezcan en las disposiciones aplicables de la Ley Orgánica de la Administración Pública Federal y demás preceptos jurídicos y administrativos aplicables.

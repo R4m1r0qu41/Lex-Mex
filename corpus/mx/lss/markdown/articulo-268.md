@@ -23,7 +23,7 @@ I. Presidir las sesiones de la Asamblea General y del Consejo Técnico;
 
 II. Ejecutar los acuerdos del propio Consejo;
 
-III. Representar legalmente al [Instituto](articulo-5-A.md), con todas las facultades que corresponden a los mandatarios generales para pleitos y cobranzas, actos de administración y de dominio, y las especiales que requieran cláusula especial conforme al [Código](articulo-5-A.md) Civil Federal o cualesquiera otra ley, así como ante todas las autoridades. Fracción reformada DOF 20-12-2001
+III. Representar legalmente al [Instituto](articulo-5-A.md), con todas las facultades que corresponden a los mandatarios generales para pleitos y cobranzas, actos de administración y de dominio, y las especiales que requieran cláusula especial conforme al Código Civil Federal o cualesquiera otra ley, así como ante todas las autoridades. Fracción reformada DOF 20-12-2001
 
 IV. Presentar anualmente al Consejo el informe de actividades, así como el programa de labores y el presupuesto de ingresos y egresos para el siguiente período;
 

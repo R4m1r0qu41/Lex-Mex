@@ -19,11 +19,11 @@ source_sha256: 2cc4bd6de7ab80102fae680a7017a0876b062f7999f7e33916b853cc8296cb19
 
 Para efectos de este Reglamento, corresponde a:
 
-I. [SENASICA](articulo-3.md), regular y promover la sanidad de la [Cannabis](articulo-3.md), así como la aplicación, verificación y certificación de los sistemas de reducción de riesgos de contaminación física, química y microbiológica en la [Producción Primaria](articulo-3.md), conforme a lo establecido en la [Ley](articulo-3.md) Federal de Sanidad Vegetal y demás disposiciones jurídicas aplicables;
+I. [SENASICA](articulo-3.md), regular y promover la sanidad de la [Cannabis](articulo-3.md), así como la aplicación, verificación y certificación de los sistemas de reducción de riesgos de contaminación física, química y microbiológica en la [Producción Primaria](articulo-3.md), conforme a lo establecido en la Ley Federal de Sanidad Vegetal y demás disposiciones jurídicas aplicables;
 
 II. [SNICS](articulo-3.md), regular la producción de semillas certificadas, la calificación de semillas y la comercialización y puesta en circulación de todas las semillas de la Cannabis, conforme a lo establecido en la Ley Federal de Producción, Certificación y Comercio de Semillas y demás disposiciones jurídicas aplicables;
 
-III. [COFEPRIS](articulo-3.md), la regulación, control y fomento sanitario relacionados con los fines de investigación, fabricación y médicos de la Cannabis, sus [Derivados Farmacológicos](articulo-3.md) y [Medicamentos](articulo-3.md), así como el control y seguimiento en el Testado y [Trazabilidad](articulo-3.md), conforme a lo establecido en la Ley General de Salud y demás disposiciones jurídicas aplicables;
+III. [COFEPRIS](articulo-3.md), la regulación, control y fomento sanitario relacionados con los fines de investigación, fabricación y médicos de la Cannabis, sus [Derivados Farmacológicos](articulo-3.md) y [Medicamentos](articulo-3.md), así como el control y seguimiento en el Testado y [Trazabilidad](articulo-3.md), conforme a lo establecido en la [Ley](articulo-3.md) General de Salud y demás disposiciones jurídicas aplicables;
 
 IV. [SAT](articulo-3.md), verificar el cumplimiento de las disposiciones jurídicas aplicables a la [Importación](articulo-3.md) y [Exportación](articulo-3.md), y
 

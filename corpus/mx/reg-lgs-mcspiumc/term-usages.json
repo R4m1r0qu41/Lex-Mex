@@ -100,24 +100,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:906-909",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:ley",
-    "span": "Ley",
-    "start_char": 906,
-    "end_char": 909
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:1350-1353",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:ley",
-    "span": "Ley",
-    "start_char": 1350,
-    "end_char": 1353
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:1641-1646",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:salud",
@@ -190,15 +172,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:1915-1938",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:produccion-farmaceutica",
-    "span": "Producción Farmacéutica",
-    "start_char": 1915,
-    "end_char": 1938
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:1959-1967",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:cannabis",
@@ -223,15 +196,6 @@
     "span": "Medicamentos",
     "start_char": 2105,
     "end_char": 2117
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:2133-2152",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:produccion-primaria",
-    "span": "Producción Primaria",
-    "start_char": 2133,
-    "end_char": 2152
   },
   {
     "schema_version": "0.1.0",
@@ -352,15 +316,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:3157-3160",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:ley",
-    "span": "Ley",
-    "start_char": 3157,
-    "end_char": 3160
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:3627-3640",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:materia-prima",
@@ -394,15 +349,6 @@
     "span": "Cannabis",
     "start_char": 3685,
     "end_char": 3693
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:3780-3783",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:ley",
-    "span": "Ley",
-    "start_char": 3780,
-    "end_char": 3783
   },
   {
     "schema_version": "0.1.0",
@@ -775,15 +721,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:4:term-usage:249-252",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:4",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:ley",
-    "span": "Ley",
-    "start_char": 249,
-    "end_char": 252
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:5:term-usage:170-173",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:5",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:ley",
@@ -856,15 +793,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:7:term-usage:310-313",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:7",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:ley",
-    "span": "Ley",
-    "start_char": 310,
-    "end_char": 313
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:7:term-usage:390-395",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:7",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:snics",
@@ -880,15 +808,6 @@
     "span": "Cannabis",
     "start_char": 547,
     "end_char": 555
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:7:term-usage:589-592",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:7",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:ley",
-    "span": "Ley",
-    "start_char": 589,
-    "end_char": 592
   },
   {
     "schema_version": "0.1.0",
@@ -3421,15 +3340,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:57:term-usage:210-213",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:57",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:ley",
-    "span": "Ley",
-    "start_char": 210,
-    "end_char": 213
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:57:term-usage:320-325",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:57",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:sader",
@@ -3448,15 +3358,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:57:term-usage:447-450",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:57",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:ley",
-    "span": "Ley",
-    "start_char": 447,
-    "end_char": 450
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:57:term-usage:565-573",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:57",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:senasica",
@@ -3472,15 +3373,6 @@
     "span": "Importación",
     "start_char": 592,
     "end_char": 603
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:57:term-usage:721-724",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:57",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:ley",
-    "span": "Ley",
-    "start_char": 721,
-    "end_char": 724
   },
   {
     "schema_version": "0.1.0",
@@ -3544,15 +3436,6 @@
     "span": "Importación",
     "start_char": 144,
     "end_char": 155
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:58:term-usage:513-516",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:58",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:ley",
-    "span": "Ley",
-    "start_char": 513,
-    "end_char": 516
   },
   {
     "schema_version": "0.1.0",
@@ -3661,15 +3544,6 @@
     "span": "Sitio Confinado Permitido",
     "start_char": 364,
     "end_char": 389
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:59:term-usage:565-568",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:59",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:ley",
-    "span": "Ley",
-    "start_char": 565,
-    "end_char": 568
   },
   {
     "schema_version": "0.1.0",
@@ -3862,15 +3736,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:62:term-usage:197-200",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:62",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:ley",
-    "span": "Ley",
-    "start_char": 197,
-    "end_char": 200
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:62:term-usage:303-308",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:62",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:sader",
@@ -3889,15 +3754,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:62:term-usage:432-435",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:62",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:ley",
-    "span": "Ley",
-    "start_char": 432,
-    "end_char": 435
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:62:term-usage:554-562",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:62",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:senasica",
@@ -3913,15 +3769,6 @@
     "span": "Importación",
     "start_char": 581,
     "end_char": 592
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:62:term-usage:710-713",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:62",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:ley",
-    "span": "Ley",
-    "start_char": 710,
-    "end_char": 713
   },
   {
     "schema_version": "0.1.0",
@@ -4633,15 +4480,6 @@
     "span": "Ley",
     "start_char": 194,
     "end_char": 197
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:75:term-usage:263-279",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:75",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:establecimientos",
-    "span": "Establecimientos",
-    "start_char": 263,
-    "end_char": 279
   },
   {
     "schema_version": "0.1.0",

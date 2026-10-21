@@ -17,4 +17,4 @@ source_sha256: d9ffbbf8f19b54a93ff577abb1266e4be1316d935e79fad655242955fd80ff70
 
 # Artículo 49
 
-El recurso previsto en el [artículo anterior](articulo-48.md) procederá en lugar del recurso establecido en el artículo [83](../../lfpa/markdown/articulo-83.md) de la [Ley](articulo-2.md) Federal de Procedimiento Administrativo. Las resoluciones que pongan fin al procedimiento administrativo que emita la [Secretaría](articulo-2.md), no admitirán recurso alguno.
+El recurso previsto en el [artículo anterior](articulo-48.md) procederá en lugar del recurso establecido en el artículo [83](../../lfpa/markdown/articulo-83.md) de la Ley Federal de Procedimiento Administrativo. Las resoluciones que pongan fin al procedimiento administrativo que emita la [Secretaría](articulo-2.md), no admitirán recurso alguno.

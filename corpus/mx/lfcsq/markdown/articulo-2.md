@@ -53,9 +53,9 @@ XIII. Estados Parte: Estados que han consentido en obligarse por la Convención 
 
 XIV. Estados no Parte: Estados que no han consentido en obligarse por la Convención y con respecto a los cuales dicho tratado internacional no está en vigor, los cuales se encuentran relacionados en el Apéndice Dos de esta Ley;
 
-XV. Grupo de [Inspección Internacional](articulo-2.md): Conjunto de inspectores y ayudantes de inspección designados por el Director General de la [OPAQ](articulo-2.md) y aceptados por el Estado mexicano, que ingresan a territorio de la República o áreas bajo la jurisdicción del Estado mexicano para llevar a cabo una Inspección Internacional;
+XV. Grupo de Inspección Internacional: Conjunto de inspectores y ayudantes de inspección designados por el Director General de la [OPAQ](articulo-2.md) y aceptados por el Estado mexicano, que ingresan a territorio de la República o áreas bajo la jurisdicción del Estado mexicano para llevar a cabo una [Inspección Internacional](articulo-2.md);
 
-XVI. Grupo de [Inspección Nacional](articulo-2.md): Conjunto de inspectores y ayudantes de inspección designados por la Secretaría, para la realización de inspecciones nacionales;
+XVI. Grupo de Inspección Nacional: Conjunto de inspectores y ayudantes de inspección designados por la Secretaría, para la realización de inspecciones nacionales;
 
 XVII. Grupo Nacional de Acompañamiento: Servidores públicos mexicanos designados en cada caso por la Secretaría, para la realización de inspecciones internacionales y para vigilar las actividades de un [Grupo de Inspección Internacional](articulo-2.md) desde su entrada al territorio de la República o áreas bajo la jurisdicción del Estado mexicano hasta la salida del mismo;
 
@@ -69,7 +69,7 @@ XXI. Listado Nacional: Relación de las sustancias químicas sujetas a las medid
 
 XXII. Mandato de Inspección Internacional: Instrucciones del Director General de la Secretaría Técnica de la OPAQ al Grupo de Inspección Internacional para la realización de una Inspección Internacional;
 
-XXIII. Mandato de Inspección Nacional: Instrucciones de la Secretaría para la realización de una Inspección Nacional;
+XXIII. Mandato de Inspección Nacional: Instrucciones de la Secretaría para la realización de una [Inspección Nacional](articulo-2.md);
 
 XXIV. Normas Generales: Normas Generales de Verificación contenidas en la Parte II del “[Anexo sobre Verificación](articulo-2.md)” de la Convención;
 

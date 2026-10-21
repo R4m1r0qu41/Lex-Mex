@@ -19,7 +19,7 @@ source_sha256: 4933abadd27d345e7a5c1754af10ed429fd148b709b4a78d4f42447b5fcd546d
 
 Para los efectos de esta [Ley](articulo-3.md), se entiende por:
 
-I. Ley: La Ley para el Desarrollo de la [Competitividad](articulo-3.md) de la Micro, Pequeña y Mediana Empresa;
+I. Ley: La Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa;
 
 II. Secretaría: La Secretaría de Economía;
 
@@ -49,7 +49,7 @@ XII. Programas: Esquemas para la ejecución de acciones y participación de la F
 
 XIII. Actividades de Fomento: Acciones económicas, jurídicas, sociales, comerciales, de [Capacitación](articulo-3.md) o tecnológicas, que contribuyen al desarrollo y competitividad de las MIPYMES, que establezca el [Reglamento](articulo-3.md) de esta Ley;
 
-XIV. Sistema: El Sistema Nacional para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa;
+XIV. Sistema: El Sistema Nacional para el Desarrollo de la [Competitividad](articulo-3.md) de la Micro, Pequeña y Mediana Empresa;
 
 XV. Consejo: El Consejo Nacional para la Competitividad de la Micro, Pequeña y Mediana Empresa;
 

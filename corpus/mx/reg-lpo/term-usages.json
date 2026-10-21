@@ -10,15 +10,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lpo:article:1:term-usage:64-83",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lpo:article:1",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lpo:term:producto-organico",
-    "span": "Productos Orgánicos",
-    "start_char": 64,
-    "end_char": 83
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lpo:article:1:term-usage:844-847",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lpo:article:1",
     "term_id": "urn:lex-mx:federal:regulation:reg-lpo:term:ley",
@@ -46,30 +37,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lpo:article:2:term-usage:135-154",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lpo:article:2",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lpo:term:producto-organico",
-    "span": "Productos Orgánicos",
-    "start_char": 135,
-    "end_char": 154
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lpo:article:2:term-usage:447-450",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lpo:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lpo:term:ley",
     "span": "Ley",
     "start_char": 447,
     "end_char": 450
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lpo:article:2:term-usage:784-803",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lpo:article:2",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lpo:term:producto-organico",
-    "span": "Productos Orgánicos",
-    "start_char": 784,
-    "end_char": 803
   },
   {
     "schema_version": "0.1.0",
@@ -343,15 +316,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lpo:article:38:term-usage:228-231",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lpo:article:38",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lpo:term:ley",
-    "span": "Ley",
-    "start_char": 228,
-    "end_char": 231
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lpo:article:39:term-usage:647-655",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lpo:article:39",
     "term_id": "urn:lex-mx:federal:regulation:reg-lpo:term:senasica",
@@ -433,33 +397,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lpo:article:53:term-usage:408-411",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lpo:article:53",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lpo:term:ley",
-    "span": "Ley",
-    "start_char": 408,
-    "end_char": 411
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lpo:article:56:term-usage:742-745",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lpo:article:56",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lpo:term:ley",
-    "span": "Ley",
-    "start_char": 742,
-    "end_char": 745
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lpo:article:60:term-usage:132-135",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lpo:article:60",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lpo:term:ley",
-    "span": "Ley",
-    "start_char": 132,
-    "end_char": 135
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lpo:article:62:term-usage:246-249",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lpo:article:62",
     "term_id": "urn:lex-mx:federal:regulation:reg-lpo:term:ley",
@@ -511,14 +448,5 @@
     "span": "Ley",
     "start_char": 59,
     "end_char": 62
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lpo:transitory:septimo:term-usage:370-373",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lpo:transitory:septimo",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lpo:term:ley",
-    "span": "Ley",
-    "start_char": 370,
-    "end_char": 373
   }
 ]

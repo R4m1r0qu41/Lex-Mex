@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LTOSF.pdf
 source_sha256: bf9e443e89a5c0ba268e76f20923ae25195ef5c1ffbacecff36693ca228c3667
 ---
 
+> Capítulo II
+
 # Artículo 6
 
 Las instituciones de crédito y las sociedades financieras de objeto múltiple reguladas, así como las instituciones de tecnología financiera, deberán registrar ante el Banco de México las [Comisiones](articulo-3.md) que pretendan cobrar por los servicios de pago y créditos que ofrecen al público, así como sus respectivas modificaciones. Dicho registro se realizará con al menos treinta días naturales de anticipación a la entrada en vigor de las nuevas Comisiones o de las modificaciones a las previamente registradas cuando impliquen un incremento. Párrafo reformado DOF 09-03-2018

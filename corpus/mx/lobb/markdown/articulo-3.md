@@ -21,4 +21,4 @@ El Banco del Bienestar, Sociedad Nacional de Crédito, [Institución](articulo-2
 
 El Banco del Bienestar, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, podrá operar bajo cualquier nombre comercial. Párrafo adicionado DOF 10-01-2014. Reformado DOF 19-07-2019
 
-La operación y funcionamiento de la Institución se realizará con apego al marco legal aplicable y a las sanas prácticas y usos bancarios para alcanzar en colaboración con el Sector, los objetivos de carácter general señalados en el artículo [4](../../lic/markdown/articulo-4o.md)o. de la [Ley](articulo-2.md) de Instituciones de Crédito.
+La operación y funcionamiento de la Institución se realizará con apego al marco legal aplicable y a las sanas prácticas y usos bancarios para alcanzar en colaboración con el Sector, los objetivos de carácter general señalados en el artículo [4](../../lic/markdown/articulo-4o.md)o. de la Ley de Instituciones de Crédito.

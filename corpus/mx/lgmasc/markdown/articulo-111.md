@@ -19,4 +19,4 @@ source_sha256: d6c47a12a294da2615fcac2b41f76a897373325184ac9f8c5debe6357aa43f4a
 
 En los casos en que transcurrido el plazo máximo de treinta días hábiles, los convenios no fueren inscritos en el [Sistema de Convenios](articulo-5.md) o devueltos para las rectificaciones que corresponda, la persona facilitadora podrá solicitar su inscripción directa.
 
-Ante dicha omisión, se procederá de conformidad con la [Ley](articulo-5.md) General de Responsabilidades Administrativas y demás que resulten aplicables.
+Ante dicha omisión, se procederá de conformidad con la Ley General de Responsabilidades Administrativas y demás que resulten aplicables.

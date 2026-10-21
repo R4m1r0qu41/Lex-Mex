@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-4",
+  "strategy_version": "glossary-extraction-5",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-laat",
   "source_sha256": "c1c2979863552f79416de98fc49cc4898abefac47eb223de3c163a49b793273b",
   "extracted_text_sha256": "607a93685b5d8e958fb156e54a0f5e1771d4076d155fde91b28a2c653711b5ae",
@@ -27,5 +27,5 @@
   ],
   "imports": [],
   "term_count": 9,
-  "usage_count": 44
+  "usage_count": 40
 }

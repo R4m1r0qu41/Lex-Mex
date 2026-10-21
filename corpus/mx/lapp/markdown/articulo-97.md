@@ -15,7 +15,7 @@ source_sha256: a4505a7bd41bc835f1def6fb030c42d8e74a2cc050d9c8fa08f91c9519e382bf
 
 # Artículo 97
 
-A los inmuebles, bienes y derechos del dominio público de un proyecto de asociación público-privada les será aplicable la [Ley](articulo-12.md) General de Bienes Nacionales y demás disposiciones respectivas.
+A los inmuebles, bienes y derechos del dominio público de un proyecto de asociación público-privada les será aplicable la Ley General de Bienes Nacionales y demás disposiciones respectivas.
 
 Los demás inmuebles, bienes y derechos incorporados a la infraestructura, o necesarios para la prestación de los servicios del proyecto, no podrán ser enajenados, hipotecados, gravados o de cualquier manera afectarse, sin previa autorización expresa y por escrito de la dependencia o entidad contratante, la cual no podrá negarse salvo por causa justificada.
 

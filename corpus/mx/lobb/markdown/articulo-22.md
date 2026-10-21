@@ -17,13 +17,13 @@ source_sha256: 915a4f4f7947f248971aebed71f67ddf5fd26bd41faeacb7084ded7a6c57b6dc
 
 # Artículo 22
 
-También serán facultades del Consejo Directivo, en los términos de la [Ley](articulo-2.md) de [Instituciones](articulo-2.md) de Crédito, las siguientes:
+También serán facultades del Consejo Directivo, en los términos de la Ley de Instituciones de Crédito, las siguientes:
 
 I. Aprobar en su caso, el informe anual de actividades que le presente el Director General;
 
-II. Aprobar las reglas generales de operación de los planes de ahorro y demás instrumentos de captación que ofrezca la Institución, y las modificaciones a las mismas;
+II. Aprobar las reglas generales de operación de los planes de ahorro y demás instrumentos de captación que ofrezca la [Institución](articulo-2.md), y las modificaciones a las mismas;
 
-III. Autorizar la adquisición y uso de tecnología a que se refiere la fracción III del artículo [7](articulo-7.md) de la presente Ley;
+III. Autorizar la adquisición y uso de tecnología a que se refiere la fracción III del artículo [7](articulo-7.md) de la presente [Ley](articulo-2.md);
 
 IV. Aprobar los demás programas específicos y reglamentos internos de la Institución que le presente el Director General; V. Nombrar y remover, a propuesta del director general, a los servidores públicos de la institución que ocupen cargos con las dos jerarquías administrativas inferiores a la de aquél y a los demás que señale el reglamento orgánico, así como concederles licencias; Fracción derogada DOF 24-06-2002. Adicionada DOF 23-02-2005. Reformada DOF 10-01-2014
 

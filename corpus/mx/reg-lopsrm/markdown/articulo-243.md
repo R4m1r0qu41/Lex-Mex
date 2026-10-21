@@ -19,4 +19,4 @@ source_sha256: 2828ab54bad472120dc40073d722c684b122a714662f3559bfcf22a79f04bfe9
 
 Las dependencias y entidades realizarán el pago de estimaciones una vez concluida la ejecución de la obra e iniciada su operación.
 
-Las aportaciones que, en su caso, realicen las dependencias y entidades en la etapa de ejecución de la obra, no implican el pago de estimaciones. La determinación del documento comprobatorio de dichas aportaciones se realizará conforme a las disposiciones aplicables de la [Ley](articulo-2.md) Federal de Presupuesto y Responsabilidad Hacendaria y su Reglamento.
+Las aportaciones que, en su caso, realicen las dependencias y entidades en la etapa de ejecución de la obra, no implican el pago de estimaciones. La determinación del documento comprobatorio de dichas aportaciones se realizará conforme a las disposiciones aplicables de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y su Reglamento.

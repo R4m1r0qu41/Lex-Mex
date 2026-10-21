@@ -17,6 +17,6 @@ source_sha256: d6c47a12a294da2615fcac2b41f76a897373325184ac9f8c5debe6357aa43f4a
 
 # Artículo 137
 
-Los convenios suscritos por las partes y la persona facilitadora adquirirán el carácter de cosa juzgada una vez aprobados por el Magistrado Instructor. El tribunal se encargará de publicar en el boletín oficial el [Convenio](articulo-5.md) logrado y de publicar los términos del mismo conforme a las disposiciones de la [Ley](articulo-5.md) General de Transparencia y Acceso a la Información Pública y las disposiciones emitidas para el efecto.
+Los convenios suscritos por las partes y la persona facilitadora adquirirán el carácter de cosa juzgada una vez aprobados por el Magistrado Instructor. El tribunal se encargará de publicar en el boletín oficial el [Convenio](articulo-5.md) logrado y de publicar los términos del mismo conforme a las disposiciones de la Ley General de Transparencia y Acceso a la Información Pública y las disposiciones emitidas para el efecto.
 
 Los convenios que se celebren en relación con el cumplimiento de sentencias tendrán como efecto la declaración de cumplimiento de sentencia.

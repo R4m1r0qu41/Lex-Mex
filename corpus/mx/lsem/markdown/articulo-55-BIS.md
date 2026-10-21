@@ -19,7 +19,7 @@ source_sha256: 012a7b3a18d987229f48c98a36b9b9cf91f5227b5e888ff09f535fd609e31c21
 
 Los Miembros del [Servicio Exterior](articulo-1-BIS.md) de carrera tendrán derecho a recibir un apoyo económico complementario a la pensión de vejez del régimen del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, a los 70 años de edad, siempre que cumplan con los siguientes requisitos:
 
-I. Se registren, a su ingreso al Servicio Exterior, al régimen de apoyo económico complementario previsto en el presente artículo consintiendo expresamente en realizar las aportaciones a su cargo y adicionalmente elegir aportar el tope del 2% máximo permitido al Ahorro Solidario previsto en la [Ley](articulo-1-BIS.md) del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
+I. Se registren, a su ingreso al Servicio Exterior, al régimen de apoyo económico complementario previsto en el presente artículo consintiendo expresamente en realizar las aportaciones a su cargo y adicionalmente elegir aportar el tope del 2% máximo permitido al Ahorro Solidario previsto en la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
 
 Las personas que no se registren al momento de su ingreso no podrán registrarse posteriormente;
 
@@ -37,7 +37,7 @@ i. Contratar con la aseguradora de su elección un seguro de pensión que le oto
 
 ii. Mantener el saldo de su cuenta individual en una administradora de fondos para el retiro y efectuar, con cargo a dicho saldo, retiros programados, conforme a lo establecido en la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
 
-El apoyo económico complementario podrá acumularse a la renta vitalicia o retiro programado que, en su caso, el miembro disfrute como pensión por vejez bajo el régimen de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado. En todo caso, el apoyo económico complementario se sujetará a lo establecido en esta Ley, el Reglamento, las disposiciones de carácter general que expida la Secretaría, previa opinión favorable de la Secretaría de Hacienda y Crédito Público y en las disposiciones administrativas que expida la Comisión Nacional del Sistema de Ahorro para el Retiro o la Comisión Nacional de Seguros y Fianzas, según corresponda respectivamente.
+El apoyo económico complementario podrá acumularse a la renta vitalicia o retiro programado que, en su caso, el miembro disfrute como pensión por vejez bajo el régimen de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado. En todo caso, el apoyo económico complementario se sujetará a lo establecido en esta [Ley](articulo-1-BIS.md), el Reglamento, las disposiciones de carácter general que expida la Secretaría, previa opinión favorable de la Secretaría de Hacienda y Crédito Público y en las disposiciones administrativas que expida la Comisión Nacional del Sistema de Ahorro para el Retiro o la Comisión Nacional de Seguros y Fianzas, según corresponda respectivamente.
 
 En caso de que un [Miembro del Servicio Exterior](articulo-1-BIS.md) de carrera, no reúna los requisitos para disfrutar del apoyo pensionario adicional en los términos del presente artículo, tendrá derecho a recibir en una sola exhibición, exclusivamente los recursos acumulados por las aportaciones realizadas por él. Las aportaciones realizadas por el Gobierno Federal se transferirán a la Tesorería de la Federación.
 

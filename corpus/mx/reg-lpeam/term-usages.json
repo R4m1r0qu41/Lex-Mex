@@ -136,15 +136,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lpeam:article:4:term-usage:3891-3894",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lpeam:article:4",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lpeam:term:ley",
-    "span": "Ley",
-    "start_char": 3891,
-    "end_char": 3894
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lpeam:article:4:term-usage:4175-4178",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lpeam:article:4",
     "term_id": "urn:lex-mx:federal:regulation:reg-lpeam:term:ley",
@@ -169,15 +160,6 @@
     "span": "Consolidación",
     "start_char": 4279,
     "end_char": 4292
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lpeam:article:4:term-usage:4557-4567",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lpeam:article:4",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lpeam:term:vigilancia",
-    "span": "Vigilancia",
-    "start_char": 4557,
-    "end_char": 4567
   },
   {
     "schema_version": "0.1.0",
@@ -340,15 +322,6 @@
     "span": "SICT",
     "start_char": 381,
     "end_char": 385
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lpeam:article:11:term-usage:472-475",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lpeam:article:11",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lpeam:term:ley",
-    "span": "Ley",
-    "start_char": 472,
-    "end_char": 475
   },
   {
     "schema_version": "0.1.0",
@@ -595,15 +568,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lpeam:article:18:term-usage:1502-1505",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lpeam:article:18",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lpeam:term:ley",
-    "span": "Ley",
-    "start_char": 1502,
-    "end_char": 1505
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lpeam:article:18:term-usage:2135-2155",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lpeam:article:18",
     "term_id": "urn:lex-mx:federal:regulation:reg-lpeam:term:tripulacion-de-vuelo",
@@ -646,15 +610,6 @@
     "span": "AFAC",
     "start_char": 2371,
     "end_char": 2375
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lpeam:article:18:term-usage:2568-2571",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lpeam:article:18",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lpeam:term:ley",
-    "span": "Ley",
-    "start_char": 2568,
-    "end_char": 2571
   },
   {
     "schema_version": "0.1.0",
@@ -988,15 +943,6 @@
     "span": "Consolidación",
     "start_char": 47,
     "end_char": 60
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lpeam:article:24:term-usage:204-207",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lpeam:article:24",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lpeam:term:ley",
-    "span": "Ley",
-    "start_char": 204,
-    "end_char": 207
   },
   {
     "schema_version": "0.1.0",
@@ -1594,15 +1540,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lpeam:article:61:term-usage:419-422",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lpeam:article:61",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lpeam:term:ley",
-    "span": "Ley",
-    "start_char": 419,
-    "end_char": 422
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lpeam:article:61:term-usage:779-792",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lpeam:article:61",
     "term_id": "urn:lex-mx:federal:regulation:reg-lpeam:term:defensa-aerea",
@@ -1681,15 +1618,6 @@
     "span": "AFAC",
     "start_char": 162,
     "end_char": 166
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lpeam:article:65:term-usage:311-314",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lpeam:article:65",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lpeam:term:ley",
-    "span": "Ley",
-    "start_char": 311,
-    "end_char": 314
   },
   {
     "schema_version": "0.1.0",

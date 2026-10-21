@@ -17,7 +17,7 @@ source_sha256: 931a461822618f46f4c830890fe77f07bca22c1161f03a2ce5e70106a43f8557
 
 # Artículo 2
 
-Para los efectos de aplicación e interpretación de este Reglamento, además de las definiciones previstas en el artículo [3](../../lpo/markdown/articulo-3.md) de la [Ley](articulo-2.md) de [Productos Orgánicos](articulo-2.md) se entenderá por:
+Para los efectos de aplicación e interpretación de este Reglamento, además de las definiciones previstas en el artículo [3](../../lpo/markdown/articulo-3.md) de la [Ley](articulo-2.md) de Productos Orgánicos se entenderá por:
 
 I. Etiquetado: Cualquier material impreso o gráfico que acompaña al producto orgánico o que se exhibe en proximidad de éste, incluso el que tiene por objeto fomentar su venta o colocación;
 

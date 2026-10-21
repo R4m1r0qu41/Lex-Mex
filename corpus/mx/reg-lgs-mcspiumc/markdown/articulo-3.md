@@ -27,7 +27,7 @@ III. Adquirir: Obtener, a título oneroso, [Materia Prima](articulo-3.md), [Deri
 
 IV. Buenas Prácticas de Laboratorio: Conjunto de reglas, procedimientos operacionales y prácticas establecidas para asegurar la calidad e integridad de las actividades realizadas en el Laboratorio de Calidad y de los datos analíticos obtenidos de ensayos o pruebas;
 
-V. Calificación de Semilla: Procedimiento por el cual se verifican las semillas de Cannabis, conforme a las reglas que para tal efecto emita la [SADER](articulo-3.md), en su calidad genética, física, fisiológica y fitosanitaria, conforme a la [Ley](articulo-3.md) Federal de Producción, Certificación y Comercio de Semillas y su Reglamento;
+V. Calificación de Semilla: Procedimiento por el cual se verifican las semillas de Cannabis, conforme a las reglas que para tal efecto emita la [SADER](articulo-3.md), en su calidad genética, física, fisiológica y fitosanitaria, conforme a la Ley Federal de Producción, Certificación y Comercio de Semillas y su Reglamento;
 
 VI. Cannabinoides: Compuestos orgánicos pertenecientes al grupo de los terpenofenoles, entre los que se encuentran, el cannabidiol y tetrahidrocannabinol;
 
@@ -41,9 +41,9 @@ XI. Comercializar: Distribuir, con propósito de especulación comercial, Materi
 
 XII. Consumir: Usar Derivados Farmacológicos y Medicamentos de Cannabis, en términos del presente Reglamento;
 
-XIII. Cupo de [Producción Farmacéutica](articulo-3.md): Máxima cantidad de Cannabis en peso seco que se permite adquirir o emplear a la persona titular de una autorización para la producción de Derivados Farmacológicos o Medicamentos;
+XIII. Cupo de Producción Farmacéutica: Máxima cantidad de Cannabis en peso seco que se permite adquirir o emplear a la persona titular de una autorización para la producción de Derivados Farmacológicos o Medicamentos;
 
-XIV. Cupo de [Producción Primaria](articulo-3.md): Número máximo de plantas y superficie total en metros cuadrados o hectáreas que se permite a la persona titular de una autorización de siembra de Cannabis, durante un periodo determinado;
+XIV. Cupo de Producción Primaria: Número máximo de plantas y superficie total en metros cuadrados o hectáreas que se permite a la persona titular de una autorización de siembra de Cannabis, durante un periodo determinado;
 
 XV. Derivado Farmacológico: Todo Cannabinoide y sus formas ácidas, la mezcla o composición de estos, que tengan alguna actividad farmacológica, que se identifique por sus propiedades físicas, químicas o acciones biológicas que no se presente en forma farmacéutica y que reúna condiciones para ser empleada como principio activo de un Medicamento;
 
@@ -51,7 +51,7 @@ XVI. Elaborar y Preparar: Conjunto de acciones tendientes a la obtención de Der
 
 XVII. Emplear o Usar: Utilizar Materia Prima, Derivados Farmacológicos y Medicamentos de Cannabis;
 
-XVIII. Establecimientos: Los que refiere el artículo [257](../../lgs/markdown/articulo-257.md) de la Ley;
+XVIII. Establecimientos: Los que refiere el artículo [257](../../lgs/markdown/articulo-257.md) de la [Ley](articulo-3.md);
 
 XIX. Exportación: Salida de Derivados Farmacológicos y Medicamentos de Cannabis, del territorio nacional, bajo el régimen de exportación definitiva, en términos de la Ley Aduanera y su Reglamento;
 
@@ -77,7 +77,7 @@ XXIX. Producción Farmacéutica: Operaciones involucradas en el procesamiento de
 
 XXX. Producción Primaria: Proceso de la Cannabis en campo, que incluye la preparación del terreno, siembra, desarrollo del cultivo, cosecha y empaque;
 
-XXXI. Protocolo de Investigación: Documento que describe la propuesta de una investigación que implique la utilización de la Cannabis con el fin de obtener sus Derivados Farmacológicos que sean destinados a la Producción Farmacéutica;
+XXXI. Protocolo de Investigación: Documento que describe la propuesta de una investigación que implique la utilización de la Cannabis con el fin de obtener sus Derivados Farmacológicos que sean destinados a la [Producción Farmacéutica](articulo-3.md);
 
 XXXII. SADER: Secretaría de Agricultura y Desarrollo Rural;
 
@@ -89,7 +89,7 @@ XXXV. SE: Secretaría de Economía;
 
 XXXVI. SENASICA: Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria, órgano administrativo desconcentrado de la SADER;
 
-XXXVII. Sistema de Gestión de Calidad: Mecanismo a través del cual el [Laboratorio de Control de Calidad](articulo-3.md) da cumplimiento a lo establecido en el artículo [8](../../reg-lgs-insumos/markdown/articulo-8o.md)o. del Reglamento de Insumos para la Salud y controla las actividades asociadas con la calidad; XXXVIII. Sitio Confinado Permitido: Espacio físico donde se encuentra la Producción Primaria de Cannabis y se realiza su comercialización, siempre que en la realización de tales actividades se utilicen barreras, con el fin de limitar de manera efectiva su contacto con la población y el medio ambiente;
+XXXVII. Sistema de Gestión de Calidad: Mecanismo a través del cual el [Laboratorio de Control de Calidad](articulo-3.md) da cumplimiento a lo establecido en el artículo [8](../../reg-lgs-insumos/markdown/articulo-8o.md)o. del Reglamento de Insumos para la Salud y controla las actividades asociadas con la calidad; XXXVIII. Sitio Confinado Permitido: Espacio físico donde se encuentra la [Producción Primaria](articulo-3.md) de Cannabis y se realiza su comercialización, siempre que en la realización de tales actividades se utilicen barreras, con el fin de limitar de manera efectiva su contacto con la población y el medio ambiente;
 
 XXXIX. SNICS: Servicio Nacional de Inspección y Certificación de Semillas, órgano administrativo desconcentrado de la SADER;
 

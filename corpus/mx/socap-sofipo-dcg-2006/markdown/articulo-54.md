@@ -62,7 +62,7 @@ ii) En el caso de personas físicas, copia del acta de nacimiento o comprobantes
 
 9. Tratándose de los organismos autónomos de las entidades federativas y de los municipios, organismos descentralizados, empresas de participación estatal mayoritaria y fideicomisos de las entidades federativas y municipios, así como de cualquier otro ente público sobre las que dichas entidades federativas y municipios tengan control sobre sus decisiones o acciones, el expediente deberá contener, además de lo previsto en los numerales anteriores, lo siguiente:
 
-i) Solicitud de crédito debidamente llenada y firmada ya sea autógrafa o electrónicamente por servidor público facultado, o bien, la invitación a participar en el [Financiamiento](articulo-1.md) de conformidad con la [Ley](articulo-1.md) de Disciplina Financiera de las Entidades Federativas y los Municipios o la que la sustituya. En ambos casos, las Sociedades Financieras Populares deberán hacer constar la evidencia y criterios que originaron dicho ofrecimiento.
+i) Solicitud de crédito debidamente llenada y firmada ya sea autógrafa o electrónicamente por servidor público facultado, o bien, la invitación a participar en el [Financiamiento](articulo-1.md) de conformidad con la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios o la que la sustituya. En ambos casos, las Sociedades Financieras Populares deberán hacer constar la evidencia y criterios que originaron dicho ofrecimiento.
 
 ii) Estudios de crédito donde se analice al acreditado y avalista, cuando este último sea considerado en el proceso de calificación del crédito.
 
@@ -70,7 +70,7 @@ iii) Información financiera del acreditado.
 
 iv) Autorizaciones de crédito por parte de la Sociedad Financiera Popular.
 
-v) Copia de la Ley de Ingresos y Presupuesto de Egresos según se definen en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, o presupuestos modificados para gobiernos de las entidades federativas y municipios del ejercicio fiscal en el cual se documente el ingreso y destino del Financiamiento.
+v) Copia de la [Ley](articulo-1.md) de Ingresos y Presupuesto de Egresos según se definen en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, o presupuestos modificados para gobiernos de las entidades federativas y municipios del ejercicio fiscal en el cual se documente el ingreso y destino del Financiamiento.
 
 vi) En el caso de gobiernos municipales, copia del acta de cabildo y del ejemplar del medio de difusión oficial de la entidad federativa que contenga el decreto del congreso local en el que conste la autorización para la contratación de créditos, conforme a lo establecido en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y en el Reglamento del Registro Público Único al que se refiere la citada ley o los que los sustituyan.
 

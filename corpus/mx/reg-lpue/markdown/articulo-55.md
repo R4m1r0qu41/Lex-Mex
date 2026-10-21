@@ -19,4 +19,4 @@ source_sha256: 0923a52e7c7ebeb9e136d5b72cba8e6c5852276de034f7fc76a74d7fdb0096b1
 
 Las embarcaciones extranjeras que se encuentren en una Marina podrán mantenerse bajo custodia de la misma en tanto cumplan con los requisitos exigidos por la autoridad aduanera.
 
-No obstante, para su explotación comercial deberán recabar el permiso a que se refiere el artículo [42](../../lncm/markdown/articulo-42.md), fracciones I y II de la [Ley](articulo-2.md) de Navegación y Comercio Marítimos y cumplir con las [Normas](articulo-2.md) e inspecciones a que están sujetas las embarcaciones mexicanas.
+No obstante, para su explotación comercial deberán recabar el permiso a que se refiere el artículo [42](../../lncm/markdown/articulo-42.md), fracciones I y II de la Ley de Navegación y Comercio Marítimos y cumplir con las [Normas](articulo-2.md) e inspecciones a que están sujetas las embarcaciones mexicanas.

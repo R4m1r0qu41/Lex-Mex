@@ -81,7 +81,7 @@ XX. Fiscalías Locales: a las Fiscalías o Procuradurías Generales de Justicia 
 
 XXI. Registro Nacional: al Registro Nacional de Personas Desaparecidas y No Localizadas, que concentra la información de los registros de Personas Desaparecidas y No Localizadas, tanto de la Federación como de las Entidades Federativas;
 
-XXII. [Registro Nacional](articulo-4.md) de Personas Fallecidas y No Identificadas: al Registro Nacional de Personas Fallecidas No Identificadas y No Reclamadas que concentra la información forense procesada de la localización, recuperación, identificación y destino final de los restos tanto de la Federación como de las Entidades Federativas, cualquiera que sea su origen;
+XXII. Registro Nacional de Personas Fallecidas y No Identificadas: al [Registro Nacional](articulo-4.md) de Personas Fallecidas No Identificadas y No Reclamadas que concentra la información forense procesada de la localización, recuperación, identificación y destino final de los restos tanto de la Federación como de las Entidades Federativas, cualquiera que sea su origen;
 
 XXIII. Registro Nacional de Fosas: al Registro Nacional de Fosas Comunes y de Fosas Clandestinas, que concentra la información respecto de las fosas comunes que existen en los cementerios y panteones de todos los municipios del país, así como de las fosas clandestinas que la Fiscalía y las Fiscalías y Procuradurías Locales localicen; Fracción reformada DOF 20-05-2021
 

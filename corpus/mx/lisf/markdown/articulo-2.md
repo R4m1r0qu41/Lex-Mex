@@ -61,7 +61,7 @@ XVIII. Institución Financiera del Exterior, la entidad financiera constituida e
 
 XIX. Institución, la Institución de Seguros y la [Institución de Fianzas](articulo-2.md);
 
-XX. Intermediario de [Reaseguro](articulo-2.md), la persona moral domiciliada en el país, autorizada conforme a esta Ley para intermediar en la realización de operaciones de reaseguro y de reafianzamiento;
+XX. Intermediario de Reaseguro, la persona moral domiciliada en el país, autorizada conforme a esta Ley para intermediar en la realización de operaciones de reaseguro y de reafianzamiento;
 
 XXI. Operaciones Financieras Derivadas, las que determine el Banco de México, mediante disposiciones de carácter general;
 

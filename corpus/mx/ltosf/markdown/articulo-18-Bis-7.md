@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LTOSF.pdf
 source_sha256: bf9e443e89a5c0ba268e76f20923ae25195ef5c1ffbacecff36693ca228c3667
 ---
 
+> Capítulo III
+
 # Artículo 18 Bis 7
 
 El Banco de México mediante disposiciones de carácter general determinará los montos de pago mínimo que deberán cobrar las [Entidades Financieras](articulo-3.md), en los créditos, préstamos o financiamientos revolventes asociados a una tarjeta.

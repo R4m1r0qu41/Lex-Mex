@@ -17,4 +17,4 @@ source_sha256: 2f931111ab2745aa5a3b2ef0a99dc5beaf73d78f7674f2d90b4462319c1fc688
 
 # Artículo 14
 
-Además de los instrumentos de control y consulta archivísticos, los sujetos obligados deberán contar y poner a disposición del público la Guía de archivo documental y el Índice de expedientes clasificados como reservados a que hace referencia la [Ley](articulo-4.md) General de Transparencia y Acceso a la Información Pública y demás disposiciones aplicables en el ámbito federal y de las entidades federativas.
+Además de los instrumentos de control y consulta archivísticos, los sujetos obligados deberán contar y poner a disposición del público la Guía de archivo documental y el Índice de expedientes clasificados como reservados a que hace referencia la Ley General de Transparencia y Acceso a la Información Pública y demás disposiciones aplicables en el ámbito federal y de las entidades federativas.

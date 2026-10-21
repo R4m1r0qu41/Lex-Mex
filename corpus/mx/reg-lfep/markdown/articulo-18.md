@@ -27,4 +27,4 @@ En caso de que la reunión convocada no pudiera llevarse a cabo en la fecha prog
 
 III. Para la validez de las reuniones del órgano de gobierno se requerirá de la asistencia de por lo menos la mitad más uno de sus miembros, así como que la mayoría de los asistentes sean representantes de la Administración Pública Federal; IV. Las resoluciones del órgano de gobierno se tomarán por mayoría de los miembros presentes, teniendo el presidente voto, de calidad para el caso de empate, y
 
-V. La falta de asistencia injustificada de los servidores públicos a las sesiones a que sean convocados, dará lugar a la aplicación de las sanciones previstas en la [Ley](articulo-2o.md) Federal de Responsabilidades de los Servidores Públicos.
+V. La falta de asistencia injustificada de los servidores públicos a las sesiones a que sean convocados, dará lugar a la aplicación de las sanciones previstas en la Ley Federal de Responsabilidades de los Servidores Públicos.

@@ -199,42 +199,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:2:term-usage:160-163",
-    "provision_id": "urn:lex-mx:federal:statute:lbio:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lbio:term:ley",
-    "span": "Ley",
-    "start_char": 160,
-    "end_char": 163
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:2:term-usage:206-209",
-    "provision_id": "urn:lex-mx:federal:statute:lbio:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lbio:term:ley",
-    "span": "Ley",
-    "start_char": 206,
-    "end_char": 209
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:2:term-usage:239-242",
-    "provision_id": "urn:lex-mx:federal:statute:lbio:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lbio:term:ley",
-    "span": "Ley",
-    "start_char": 239,
-    "end_char": 242
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:2:term-usage:309-312",
-    "provision_id": "urn:lex-mx:federal:statute:lbio:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lbio:term:ley",
-    "span": "Ley",
-    "start_char": 309,
-    "end_char": 312
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lbio:article:2:term-usage:407-414",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:2",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:biomasa",
@@ -298,15 +262,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:2:term-usage:2022-2037",
-    "provision_id": "urn:lex-mx:federal:statute:lbio:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lbio:term:biocombustible",
-    "span": "Biocombustibles",
-    "start_char": 2022,
-    "end_char": 2037
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lbio:article:2:term-usage:2177-2184",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:2",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:biomasa",
@@ -331,15 +286,6 @@
     "span": "Ley",
     "start_char": 2318,
     "end_char": 2321
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:2:term-usage:2325-2340",
-    "provision_id": "urn:lex-mx:federal:statute:lbio:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lbio:term:biocombustible",
-    "span": "Biocombustibles",
-    "start_char": 2325,
-    "end_char": 2340
   },
   {
     "schema_version": "0.1.0",
@@ -403,87 +349,6 @@
     "span": "Ley",
     "start_char": 38,
     "end_char": 41
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:3:term-usage:95-98",
-    "provision_id": "urn:lex-mx:federal:statute:lbio:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lbio:term:ley",
-    "span": "Ley",
-    "start_char": 95,
-    "end_char": 98
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:3:term-usage:141-144",
-    "provision_id": "urn:lex-mx:federal:statute:lbio:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lbio:term:ley",
-    "span": "Ley",
-    "start_char": 141,
-    "end_char": 144
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:3:term-usage:170-173",
-    "provision_id": "urn:lex-mx:federal:statute:lbio:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lbio:term:ley",
-    "span": "Ley",
-    "start_char": 170,
-    "end_char": 173
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:3:term-usage:203-206",
-    "provision_id": "urn:lex-mx:federal:statute:lbio:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lbio:term:ley",
-    "span": "Ley",
-    "start_char": 203,
-    "end_char": 206
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:3:term-usage:272-275",
-    "provision_id": "urn:lex-mx:federal:statute:lbio:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lbio:term:ley",
-    "span": "Ley",
-    "start_char": 272,
-    "end_char": 275
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:3:term-usage:342-345",
-    "provision_id": "urn:lex-mx:federal:statute:lbio:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lbio:term:ley",
-    "span": "Ley",
-    "start_char": 342,
-    "end_char": 345
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:3:term-usage:378-381",
-    "provision_id": "urn:lex-mx:federal:statute:lbio:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lbio:term:ley",
-    "span": "Ley",
-    "start_char": 378,
-    "end_char": 381
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:3:term-usage:429-432",
-    "provision_id": "urn:lex-mx:federal:statute:lbio:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lbio:term:ley",
-    "span": "Ley",
-    "start_char": 429,
-    "end_char": 432
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:3:term-usage:483-486",
-    "provision_id": "urn:lex-mx:federal:statute:lbio:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lbio:term:ley",
-    "span": "Ley",
-    "start_char": 483,
-    "end_char": 486
   },
   {
     "schema_version": "0.1.0",
@@ -4006,15 +3871,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:21:term-usage:118-121",
-    "provision_id": "urn:lex-mx:federal:statute:lbio:article:21",
-    "term_id": "urn:lex-mx:federal:statute:lbio:term:ley",
-    "span": "Ley",
-    "start_char": 118,
-    "end_char": 121
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lbio:article:21:term-usage:284-294",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:21",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:produccion",
@@ -5572,15 +5428,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:38:term-usage:398-401",
-    "provision_id": "urn:lex-mx:federal:statute:lbio:article:38",
-    "term_id": "urn:lex-mx:federal:statute:lbio:term:ley",
-    "span": "Ley",
-    "start_char": 398,
-    "end_char": 401
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lbio:article:40:term-usage:3-8",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:40",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:sader",
@@ -6067,15 +5914,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:42:term-usage:426-429",
-    "provision_id": "urn:lex-mx:federal:statute:lbio:article:42",
-    "term_id": "urn:lex-mx:federal:statute:lbio:term:ley",
-    "span": "Ley",
-    "start_char": 426,
-    "end_char": 429
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lbio:article:42:term-usage:504-507",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:42",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:ley",
@@ -6148,15 +5986,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:44:term-usage:531-534",
-    "provision_id": "urn:lex-mx:federal:statute:lbio:article:44",
-    "term_id": "urn:lex-mx:federal:statute:lbio:term:ley",
-    "span": "Ley",
-    "start_char": 531,
-    "end_char": 534
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lbio:article:45:term-usage:60-70",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:45",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:produccion",
@@ -6211,30 +6040,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:45:term-usage:290-293",
-    "provision_id": "urn:lex-mx:federal:statute:lbio:article:45",
-    "term_id": "urn:lex-mx:federal:statute:lbio:term:ley",
-    "span": "Ley",
-    "start_char": 290,
-    "end_char": 293
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lbio:article:46:term-usage:75-78",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:46",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:ley",
     "span": "Ley",
     "start_char": 75,
     "end_char": 78
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:46:term-usage:171-174",
-    "provision_id": "urn:lex-mx:federal:statute:lbio:article:46",
-    "term_id": "urn:lex-mx:federal:statute:lbio:term:ley",
-    "span": "Ley",
-    "start_char": 171,
-    "end_char": 174
   },
   {
     "schema_version": "0.1.0",
@@ -6325,15 +6136,6 @@
     "span": "Ley",
     "start_char": 533,
     "end_char": 536
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:transitory:tercero:term-usage:540-555",
-    "provision_id": "urn:lex-mx:federal:statute:lbio:transitory:tercero",
-    "term_id": "urn:lex-mx:federal:statute:lbio:term:biocombustible",
-    "span": "Biocombustibles",
-    "start_char": 540,
-    "end_char": 555
   },
   {
     "schema_version": "0.1.0",
@@ -6625,15 +6427,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:transitory:decimo-primero:term-usage:112-127",
-    "provision_id": "urn:lex-mx:federal:statute:lbio:transitory:decimo-primero",
-    "term_id": "urn:lex-mx:federal:statute:lbio:term:biocombustible",
-    "span": "Biocombustibles",
-    "start_char": 112,
-    "end_char": 127
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lbio:transitory:decimo-segundo:term-usage:47-52",
     "provision_id": "urn:lex-mx:federal:statute:lbio:transitory:decimo-segundo",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:sener",
@@ -6721,15 +6514,6 @@
     "span": "Biocombustibles",
     "start_char": 57,
     "end_char": 72
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:transitory:decimo-tercero:term-usage:139-142",
-    "provision_id": "urn:lex-mx:federal:statute:lbio:transitory:decimo-tercero",
-    "term_id": "urn:lex-mx:federal:statute:lbio:term:ley",
-    "span": "Ley",
-    "start_char": 139,
-    "end_char": 142
   },
   {
     "schema_version": "0.1.0",

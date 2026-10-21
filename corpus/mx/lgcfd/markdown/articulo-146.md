@@ -17,4 +17,4 @@ source_sha256: 7f28b406ac8966ef726994b15fc2356a5d8ee92a8e24de0e7a3046d2683fe40d
 
 # Artículo 146
 
-Las sanciones administrativas a que se refiere el [artículo anterior](articulo-145.md), se aplicarán de acuerdo a lo establecido en la [Ley](articulo-4.md) Federal de Procedimiento Administrativo. Los servidores públicos, además estarán sujetos a las leyes que rigen la materia.
+Las sanciones administrativas a que se refiere el [artículo anterior](articulo-145.md), se aplicarán de acuerdo a lo establecido en la Ley Federal de Procedimiento Administrativo. Los servidores públicos, además estarán sujetos a las leyes que rigen la materia.

@@ -17,7 +17,7 @@ source_sha256: cc687a4d8d9de93d2d3ec9b40b26d0273e108bb002a6f611806dc36ebce5ba2c
 
 # Artículo 58
 
-La [Auditoría Superior de la Federación](articulo-4.md), respecto de las reglas presupuestarias y de ejercicio, y de la contratación de deuda pública y obligaciones previstas en la Ley de Disciplina Financiera de las [Entidades Federativas](articulo-4.md) y los Municipios, deberá fiscalizar:
+La [Auditoría Superior de la Federación](articulo-4.md), respecto de las reglas presupuestarias y de ejercicio, y de la contratación de deuda pública y obligaciones previstas en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, deberá fiscalizar:
 
 I. La observancia de las reglas de disciplina financiera, de acuerdo a los términos establecidos en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios;
 

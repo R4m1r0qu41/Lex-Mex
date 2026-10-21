@@ -19,6 +19,6 @@ source_sha256: a823b87d27bee29da481750b9893f00024bd80aed8b0713bf8b1ac1e55b9b8de
 
 La [Secretaría](articulo-3.md) celebrará convenios de colaboración con dependencias y entidades del Gobierno Federal, de las entidades federativas, de los municipios y de las demarcaciones territoriales de la Ciudad de México, para el efecto de establecer acciones de coordinación en materia de prevención, persecución, combate y atención a los migrantes que son víctimas del delito.
 
-Cuando se trate de mujeres, adolescentes, niñas y niños víctimas de violencias, deberán otorgarse las medidas u órdenes de protección necesarias, de acuerdo con lo establecido en la [Ley](articulo-3.md) General de Acceso de las Mujeres a una Vida Libre de Violencias y demás disposiciones aplicables.
+Cuando se trate de mujeres, adolescentes, niñas y niños víctimas de violencias, deberán otorgarse las medidas u órdenes de protección necesarias, de acuerdo con lo establecido en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias y demás disposiciones aplicables.
 
 Artículo reformado DOF 15-01-2026

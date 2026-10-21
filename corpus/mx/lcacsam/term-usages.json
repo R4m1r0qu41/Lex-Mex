@@ -1,11 +1,1 @@
-[
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcacsam:article:1:term-usage:59-77",
-    "provision_id": "urn:lex-mx:federal:statute:lcacsam:article:1",
-    "term_id": "urn:lex-mx:federal:statute:lcacsam:term:tiempo-de-servicios",
-    "span": "Tiempo de servicio",
-    "start_char": 59,
-    "end_char": 77
-  }
-]
+[]

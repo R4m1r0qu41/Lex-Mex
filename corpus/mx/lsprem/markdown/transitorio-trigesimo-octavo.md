@@ -15,7 +15,7 @@ source_sha256: bcc21844355854fe331c842c21436d721d6c2856b5c5986715fe39f4a845b317
 
 # TRIGÉSIMO OCTAVO
 
-El Instituto Federal de Telecomunicaciones deberá emitir dentro de los sesenta días hábiles siguientes a la entrada en vigor de la [Ley](articulo-2.md) Federal de Telecomunicaciones y Radiodifusión, las reglas administrativas necesarias que eliminen requisitos que puedan retrasar o impedir la portabilidad numérica y, en su caso, promover que se haga a través de medios electrónicos.
+El Instituto Federal de Telecomunicaciones deberá emitir dentro de los sesenta días hábiles siguientes a la entrada en vigor de la Ley Federal de Telecomunicaciones y Radiodifusión, las reglas administrativas necesarias que eliminen requisitos que puedan retrasar o impedir la portabilidad numérica y, en su caso, promover que se haga a través de medios electrónicos.
 
 Las reglas a que se refiere el párrafo anterior, deberán garantizar una portabilidad efectiva y que la misma se realice en un plazo no mayor a 24 horas contadas a partir de la solicitud realizada por el titular del número respectivo.
 

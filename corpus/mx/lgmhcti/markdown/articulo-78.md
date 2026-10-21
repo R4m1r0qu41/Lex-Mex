@@ -23,6 +23,6 @@ I. Realizar un esfuerzo editorial conjunto que facilite la difusión y divulgaci
 
 II. Obtener el reconocimiento de los derechos de propiedad intelectual que correspondan a los desarrollos tecnológicos e innovaciones realizadas por sus integrantes;
 
-III. La importación de los insumos necesarios para sus actividades de investigación humanística y científica, desarrollo tecnológico e innovación, incluyendo el cumplimiento de los requisitos aplicables para agilizar su despacho, en términos de la [Ley](articulo-4.md) Aduanera y su Reglamento, y
+III. La importación de los insumos necesarios para sus actividades de investigación humanística y científica, desarrollo tecnológico e innovación, incluyendo el cumplimiento de los requisitos aplicables para agilizar su despacho, en términos de la Ley Aduanera y su Reglamento, y
 
 IV. Las demás que se requieran para el cumplimiento de su objeto.

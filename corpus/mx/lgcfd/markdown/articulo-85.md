@@ -17,4 +17,4 @@ source_sha256: 7f28b406ac8966ef726994b15fc2356a5d8ee92a8e24de0e7a3046d2683fe40d
 
 # Artículo 85
 
-Los deportistas que participen dentro del deporte profesional, se regirán por lo establecido en la [Ley](articulo-4.md) Federal del Trabajo.
+Los deportistas que participen dentro del deporte profesional, se regirán por lo establecido en la Ley Federal del Trabajo.

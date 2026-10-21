@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-4",
+  "strategy_version": "glossary-extraction-5",
   "instrument_id": "urn:lex-mx:federal:statute:lissfam",
   "source_sha256": "35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc",
   "extracted_text_sha256": "7c6a789e4edd813e6371b03be51c0c74249b069dedc35063bf413272d6cbf763",
@@ -35,5 +35,5 @@
   ],
   "imports": [],
   "term_count": 17,
-  "usage_count": 374
+  "usage_count": 355
 }

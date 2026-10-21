@@ -17,4 +17,4 @@ source_sha256: d23aedc9ffdb09b9202311f03023241da20445cb45aea855b37bfd9685768861
 
 # Artículo 243
 
-En todo lo no previsto en este Reglamento en materia de notificaciones, visitas de verificación y sanciones, son aplicables, de manera supletoria, las disposiciones de la [Ley](articulo-2.md) Federal de Procedimiento Administrativo, con excepción del artículo 70-A de dicho ordenamiento.
+En todo lo no previsto en este Reglamento en materia de notificaciones, visitas de verificación y sanciones, son aplicables, de manera supletoria, las disposiciones de la Ley Federal de Procedimiento Administrativo, con excepción del artículo 70-A de dicho ordenamiento.

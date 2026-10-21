@@ -55,24 +55,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgcdc:article:4:term-usage:1558-1561",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcdc:article:4",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgcdc:term:ley",
-    "span": "Ley",
-    "start_char": 1558,
-    "end_char": 1561
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgcdc:article:4:term-usage:1660-1663",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcdc:article:4",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgcdc:term:ley",
-    "span": "Ley",
-    "start_char": 1660,
-    "end_char": 1663
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgcdc:article:4:term-usage:1746-1749",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgcdc:article:4",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgcdc:term:ley",
@@ -160,15 +142,6 @@
     "span": "Sectores Vulnerables",
     "start_char": 346,
     "end_char": 366
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgcdc:article:10:term-usage:322-325",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcdc:article:10",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgcdc:term:ley",
-    "span": "Ley",
-    "start_char": 322,
-    "end_char": 325
   },
   {
     "schema_version": "0.1.0",

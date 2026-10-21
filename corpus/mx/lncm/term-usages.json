@@ -1657,15 +1657,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lncm:transitory:segundo:term-usage:20-30",
-    "provision_id": "urn:lex-mx:federal:statute:lncm:transitory:segundo",
-    "term_id": "urn:lex-mx:federal:statute:lncm:term:navegacion",
-    "span": "Navegación",
-    "start_char": 20,
-    "end_char": 30
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lncm:transitory:cuarto:term-usage:3-13",
     "provision_id": "urn:lex-mx:federal:statute:lncm:transitory:cuarto",
     "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",

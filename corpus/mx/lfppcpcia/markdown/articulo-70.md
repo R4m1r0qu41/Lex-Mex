@@ -17,7 +17,7 @@ source_sha256: 7263691565a635e37b58c99dbea5ad01b4e911550d48954dd5553b76d1664abe
 
 # Artículo 70
 
-Las infracciones señaladas en el [artículo anterior](articulo-69.md) serán sustanciadas y sancionadas por el [INDAUTOR](articulo-3.md) con arreglo supletorio en la [Ley](articulo-3.md) Federal de Procedimiento Administrativo con multa de:
+Las infracciones señaladas en el [artículo anterior](articulo-69.md) serán sustanciadas y sancionadas por el [INDAUTOR](articulo-3.md) con arreglo supletorio en la Ley Federal de Procedimiento Administrativo con multa de:
 
 I. Quinientas a quince mil Unidades de Medida y Actualización en los casos previstos en las fracciones I, III, IV, V y VI, y
 

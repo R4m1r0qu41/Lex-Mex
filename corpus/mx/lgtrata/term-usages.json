@@ -1,15 +1,6 @@
 [
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgtrata:article:4:term-usage:425-443",
-    "provision_id": "urn:lex-mx:federal:statute:lgtrata:article:4",
-    "term_id": "urn:lex-mx:federal:statute:lgtrata:term:codigo-procesal",
-    "span": "Códigos Procesales",
-    "start_char": 425,
-    "end_char": 443
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgtrata:article:5:term-usage:722-734",
     "provision_id": "urn:lex-mx:federal:statute:lgtrata:article:5",
     "term_id": "urn:lex-mx:federal:statute:lgtrata:term:codigo-penal",

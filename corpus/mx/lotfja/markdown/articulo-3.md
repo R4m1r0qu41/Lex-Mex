@@ -41,7 +41,7 @@ IX. Las que nieguen la indemnización por responsabilidad patrimonial del Estado
 
 X. Las que requieran el pago de garantías a favor de la Federación, las entidades federativas o los Municipios, así como de sus entidades paraestatales y las empresas productivas del Estado;
 
-XI. Las que traten las materias señaladas en el artículo [94](../../lce/markdown/articulo-94.md) de la [Ley](articulo-2.md) de Comercio Exterior;
+XI. Las que traten las materias señaladas en el artículo [94](../../lce/markdown/articulo-94.md) de la Ley de Comercio Exterior;
 
 XII. Las dictadas por las autoridades administrativas que pongan fin a un procedimiento administrativo, a una instancia o resuelvan un expediente, en los términos de la Ley Federal de Procedimiento Administrativo; XIII. Las que resuelvan los recursos administrativos en contra de las resoluciones que se indican en las demás fracciones de este artículo;
 

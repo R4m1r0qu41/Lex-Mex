@@ -21,6 +21,6 @@ La Tesorería programará y gestionará, en función de las disponibilidades, la
 
 Las instrucciones de pago se documentarán en el sistema electrónico de pago mediante:
 
-I. Acuerdos de ministración a que se refiere la [Ley](articulo-2.md) Federal de Presupuesto y Responsabilidad Hacendaria y su Reglamento, y
+I. Acuerdos de ministración a que se refiere la Ley Federal de Presupuesto y Responsabilidad Hacendaria y su Reglamento, y
 
 II. Cuentas por liquidar certificadas a que se refiere el artículo [52](articulo-52.md) de este Reglamento.

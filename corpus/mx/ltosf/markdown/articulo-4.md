@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LTOSF.pdf
 source_sha256: bf9e443e89a5c0ba268e76f20923ae25195ef5c1ffbacecff36693ca228c3667
 ---
 
+> Capítulo II
+
 # Artículo 4
 
 Para los fines previstos en el artículo [1](articulo-1.md) de esta Ley, el Banco de México emitirá disposiciones de carácter general para regular las tasas de interés, activas y pasivas, [Comisiones](articulo-3.md) y pagos anticipados y adelantados de las operaciones que realicen con sus [Clientes](articulo-3.md), las instituciones de crédito y las sociedades financieras de objeto múltiple reguladas, salvo lo previsto en el Artículo [4 Bis 3](articulo-4-Bis-3.md) que corresponderá regular de manera conjunta a la Comisión Nacional Bancaria y de Valores y al Banco de México.

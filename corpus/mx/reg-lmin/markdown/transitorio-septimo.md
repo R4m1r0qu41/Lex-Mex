@@ -15,4 +15,4 @@ source_sha256: 4d25bcb022ab62a24462e11a230c9554c0120012913ab4599cd3ec1b2b275c1d
 
 # SÉPTIMO
 
-Las referencias que los instrumentos jurídicos existentes y vigentes que se emitieron con fundamento en el Reglamento de la [Ley](articulo-1o.md) Minera, publicado en el Diario Oficial de la Federación el 15 de febrero de 1999 que se abroga, hacen al Consejo de Recursos Minerales, se entenderán referidas al [Servicio Geológico](articulo-1o.md) Mexicano.
+Las referencias que los instrumentos jurídicos existentes y vigentes que se emitieron con fundamento en el Reglamento de la Ley Minera, publicado en el Diario Oficial de la Federación el 15 de febrero de 1999 que se abroga, hacen al Consejo de Recursos Minerales, se entenderán referidas al [Servicio Geológico](articulo-1o.md) Mexicano.

@@ -29,7 +29,7 @@ III. Llevar la firma de la Institución;
 
 IV. Actuar como Delegado Fiduciario General;
 
-V. Decidir la designación y contratación de los servidores públicos de la Institución, distintos de los señalados en la fracción I del artículo [42](../../lic/markdown/articulo-42.md) de la [Ley](articulo-2.md) de Instituciones de Crédito, así como la designación y remoción de los delegados fiduciarios; administrar al personal en su conjunto, y establecer y organizar las oficinas de la institución; Fracción reformada DOF 10-01-2014
+V. Decidir la designación y contratación de los servidores públicos de la Institución, distintos de los señalados en la fracción I del artículo [42](../../lic/markdown/articulo-42.md) de la Ley de Instituciones de Crédito, así como la designación y remoción de los delegados fiduciarios; administrar al personal en su conjunto, y establecer y organizar las oficinas de la institución; Fracción reformada DOF 10-01-2014
 
 VI. Autorizar la publicación de los balances mensuales de la Institución, conforme a las bases acordadas por el Consejo Directivo;
 
@@ -61,7 +61,7 @@ XIX. Rendir al Consejo Directivo un informe anual de actividades; Fracción adic
 
 XX. Proponer al Consejo Directivo la emisión de obligaciones subordinadas; Fracción adicionada DOF 23-02-2005
 
-XXI. Presentar al Consejo Directivo para su aprobación, la propuesta de inversión en títulos representativos del capital social de las sociedades a que se refiere el artículo [8](articulo-8.md), fracciones IX, X y XII de la presente Ley; Fracción adicionada DOF 23-02-2005
+XXI. Presentar al Consejo Directivo para su aprobación, la propuesta de inversión en títulos representativos del capital social de las sociedades a que se refiere el artículo [8](articulo-8.md), fracciones IX, X y XII de la presente [Ley](articulo-2.md); Fracción adicionada DOF 23-02-2005
 
 XXII. Presentar al Consejo Directivo las propuestas de aplicación de utilidades y la forma y términos en que sugiera se deban realizar; Fracción adicionada DOF 23-02-2005
 

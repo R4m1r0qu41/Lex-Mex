@@ -37,7 +37,7 @@ IX. Realizar propuestas de instituciones similares nacionales e internacionales,
 
 X. Elaborar estudios en materia de investigación, supervisión y vigilancia;
 
-XI. Informar al titular de la Unidad de Asuntos Internos respecto de los hechos en que se desprendan presuntas infracciones a la [Ley General](articulo-2.md) de Responsabilidades Administrativas;
+XI. Informar al titular de la Unidad de Asuntos Internos respecto de los hechos en que se desprendan presuntas infracciones a la Ley General de Responsabilidades Administrativas;
 
 XII. Asentar constancia por escrito de todas sus actuaciones;
 

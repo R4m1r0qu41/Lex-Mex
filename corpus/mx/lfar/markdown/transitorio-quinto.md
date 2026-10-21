@@ -15,7 +15,7 @@ source_sha256: b01d875d525d1efbe4edf9f022f58c9afb56fb777581fc9eae1038c212e6b43c
 
 # Quinto
 
-Los lineamientos a que se refiere la [Ley](articulo-4.md) Federal de [Austeridad Republicana](articulo-4.md) se expedirán en un plazo máximo de ciento ochenta días hábiles siguientes a la entrada en vigor del presente Decreto.
+Los lineamientos a que se refiere la [Ley](articulo-4.md) Federal de Austeridad Republicana se expedirán en un plazo máximo de ciento ochenta días hábiles siguientes a la entrada en vigor del presente Decreto.
 
 Dichos lineamientos, entre otras cosas, establecerán las disposiciones relativas a la contratación de personal por honorarios y asesores en las dependencias de la Administración Pública Federal.
 

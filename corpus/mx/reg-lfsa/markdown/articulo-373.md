@@ -17,4 +17,4 @@ source_sha256: a3435ac18a1631617fea83ae6a81bad84f456e3e8fd44b69bb6b7ea39425df9c
 
 # Artículo 373
 
-En lo no previsto en este Reglamento, son aplicables supletoriamente en cuanto a las sanciones administrativas, las disposiciones del Capítulo Único del Título Cuarto de la [Ley](articulo-2.md) Federal de Procedimiento Administrativo, con excepción del artículo 70-A de dicho ordenamiento.
+En lo no previsto en este Reglamento, son aplicables supletoriamente en cuanto a las sanciones administrativas, las disposiciones del Capítulo Único del Título Cuarto de la Ley Federal de Procedimiento Administrativo, con excepción del artículo 70-A de dicho ordenamiento.

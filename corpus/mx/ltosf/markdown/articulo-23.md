@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LTOSF.pdf
 source_sha256: bf9e443e89a5c0ba268e76f20923ae25195ef5c1ffbacecff36693ca228c3667
 ---
 
+> Capítulo IV
+
 # Artículo 23
 
 En todas las operaciones y servicios que las [Entidades Financieras](articulo-3.md) celebren por medio de Contratos de Adhesión masivamente celebradas y hasta por los montos máximos que establezca la [Comisión](articulo-3.md) Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros en disposiciones de carácter general, aquéllas deberán proporcionarle a sus [Clientes](articulo-3.md) la asistencia, acceso y facilidades necesarias para atender las aclaraciones relacionadas con dichas operaciones y servicios. Párrafo reformado DOF 25-06-2009
