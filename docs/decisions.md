@@ -1,5 +1,32 @@
 # Architecture decisions
 
+## 2026-10-20 — Codex batch review: batch completion closes the corpus; title containment repaired
+
+**Source:** Codex's review of `parser/pending-batch` at `cf8eed626` (`docs/parser-batch-review-2026-10-20.md` in the DB worktree, drafted). The operator chose to fix both findings before the batch merges (B3, `docs/operator-decisions-2026-10-20.md`).
+
+**P1: batch completion did not prove corpus glossary closure.**
+- **Cause.** `run_batch_closure` relinked and validated only the batch's own instruments, while the title filter reads every committed title.
+- **Repair.** After the batch's own relinks, it runs the corpus closure once.
+  - The closure must reject exactly the accepted gaps; anything else fails the batch ("beyond the accepted gaps").
+  - Every instrument the closure relinks is validated and republished with the batch's, Obsidian included.
+- **Reports.** The batch report's `relinked` lists them. `.work/corpus-closure.json` gains `relinked_instruments`.
+- **Tests.**
+  - `batch_closure_relinks_an_instrument_outside_the_batch_whose_usage_the_new_title_covers`: admitting B's title drops A's usage although A is not in the batch; A validates, its Markdown is republished, and a second closure changes nothing.
+  - `batch_closure_fails_when_the_corpus_closure_rejects_an_unaccepted_instrument`.
+
+**P2: whitespace defeated the title lookback.**
+- **Cause.** Candidate starts were bounded by the longest title's length, but counted in raw characters, while a title may print any whitespace run for a space. A usage at the end of a title printed with long runs of spaces escaped.
+- **Repair.** `lookback_start` counts a whitespace run as the one space it matches. Canonical text is not normalized.
+
+**Codex's policy note, folded in.** A definition names a covering title only as whole words (`contains_phrase`). Before this, `la ley de aguascalientes` named `ley de aguas`.
+
+**Test:** `a_title_printed_with_long_whitespace_runs_still_covers_its_usages`. It covers 80 spaces, 40 line breaks, tabs, a non-ASCII prefix, and the whole-word definition.
+
+**Measured.**
+- fmt and strict clippy pass, and 377 tests pass.
+- `link --all` exits 0: relinked 0, unchanged 463, the 5 rejections are exactly the accepted gaps, and references stay at 35,949.
+- No corpus or adapter file changes, so Codex's pinned census (99,243 usages, golden 2,581 → 2,545) still holds.
+
 ## 2026-10-20 — Title-span usage filter: a term inside an instrument's title is not a usage
 
 **Operator (2026-10-20):** on lan's `Aguas Nacionales` inside `Ley de Aguas Nacionales`, chose "Build it now": the corpus-wide title-span usage filter of the 2026-10-18 outlier review (`docs/glossary-g0-g2-outlier-review-2026-10-18.md`, "The Ley / Reglamento / Código prefix fix").
@@ -25,6 +52,7 @@
 - An instrument's usages now depend on every committed instrument's title, so admitting a new instrument can drop usages in others that print its title.
 - `batch run`'s closure relinks only the batch's own instruments. Until `link --all` runs, `validate` reports `glossary_coverage_inconsistent` for any other instrument whose usages the new title changes.
 - After an admission, run `link --all` (the corpus closure) before validating or publishing the rest of the corpus.
+- *Superseded by the entry below:* `batch run` now runs the corpus closure itself.
 
 **For Codex review.**
 - **"La presente Ley".** A term whose definition is `la presente Ley` names no title, so its usages inside the instrument's own full title are dropped: lmigra 9, lgscmm 4. One reading is that the full title is not a use of the shorthand. The 2026-10-18 design would keep a usage whose title names the defined referent, which here needs a referent binding for self-reference.

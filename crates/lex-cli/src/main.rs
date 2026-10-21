@@ -1458,7 +1458,10 @@ struct ExpectedEdgeCorpus {
 
 /// Close the bounded graph for the successfully processed instruments.  Their
 /// first parse could not see a later batch sibling, so this deliberately runs
-/// after every selected source has entered the corpus.
+/// after every selected source has entered the corpus. An admitted title can
+/// also move another instrument's glossary usages (the title-span filter), so
+/// the whole corpus is then closed once and must reject exactly the accepted
+/// gaps; every instrument it relinks is validated and republished.
 fn run_batch_closure(
     root: &Path,
     successful_slugs: &[String],
@@ -1469,7 +1472,18 @@ fn run_batch_closure(
         let context = instrument_context(root, slug)?;
         run_link(root, &context)?;
     }
-    for slug in successful_slugs {
+    let mut closed: BTreeSet<String> = successful_slugs.iter().cloned().collect();
+    if !successful_slugs.is_empty() {
+        let corpus = run_corpus_closure(root)?;
+        if !closure_matches_accepted_gaps(root, &corpus)? {
+            bail!(
+                "corpus closure after the batch rejected {} instrument(s) beyond the accepted gaps; see .work/corpus-closure.json",
+                corpus.rejected.len()
+            );
+        }
+        closed.extend(corpus.relinked_instruments);
+    }
+    for slug in &closed {
         let context = instrument_context(root, slug)?;
         let report = run_validate(root, &context)?;
         if !report.valid {
@@ -1493,7 +1507,7 @@ fn run_batch_closure(
     };
     Ok(BatchClosureReport {
         status: status.to_owned(),
-        relinked: successful_slugs.to_vec(),
+        relinked: closed.into_iter().collect(),
         expected_edges: checks,
     })
 }
@@ -2529,12 +2543,42 @@ fn title_end(text: &[char], start: usize, title: &[char]) -> Option<usize> {
     (!ends_in_word || text.get(at).is_none_or(|c| !c.is_alphanumeric())).then_some(at)
 }
 
+/// The earliest position a title of `longest` characters, lower-cased with
+/// single spaces, can start at and still reach `start`: a run of whitespace
+/// counts as the one space it matches in the title.
+fn lookback_start(text: &[char], start: usize, longest: usize) -> usize {
+    let mut begin = start.min(text.len());
+    let mut units = 0;
+    while begin > 0 && units < longest {
+        begin -= 1;
+        let continues_run =
+            text[begin].is_whitespace() && text.get(begin + 1).is_some_and(|c| c.is_whitespace());
+        if !continues_run {
+            units += 1;
+        }
+    }
+    begin
+}
+
+/// Whether `text` contains `phrase` as whole words.
+fn contains_phrase(text: &str, phrase: &str) -> bool {
+    text.match_indices(phrase).any(|(at, found)| {
+        let before = text[..at].chars().next_back();
+        let after = text[at + found.len()..].chars().next();
+        let edge = |c: Option<char>| c.is_none_or(|c| !c.is_alphanumeric());
+        (!phrase.starts_with(char::is_alphanumeric) || edge(before))
+            && (!phrase.ends_with(char::is_alphanumeric) || edge(after))
+    })
+}
+
 /// Every title printed over `[start, end)` of `text`: a title nested in a
 /// longer one (`Ley General de Salud` in `Reglamento de la Ley General de
 /// Salud en Materia de …`) covers it too.
 fn covering_titles(text: &[char], start: usize, end: usize, index: &TitleIndex) -> Vec<String> {
     let mut covering = Vec::new();
-    for begin in start.saturating_sub(index.longest)..=start.min(text.len().saturating_sub(1)) {
+    for begin in
+        lookback_start(text, start, index.longest)..=start.min(text.len().saturating_sub(1))
+    {
         if !text[begin].is_alphanumeric() || (begin > 0 && text[begin - 1].is_alphanumeric()) {
             continue;
         }
@@ -2584,7 +2628,7 @@ fn drop_usages_in_titles(
                 || definitions.get(&usage.term_id).is_some_and(|definition| {
                     titles
                         .iter()
-                        .any(|title| definition.contains(title.as_str()))
+                        .any(|title| contains_phrase(definition, title))
                 })
         })
         .collect()
@@ -3276,6 +3320,7 @@ struct CorpusClosureReport {
     status: String,
     instruments: usize,
     relinked: usize,
+    relinked_instruments: Vec<String>,
     unchanged: usize,
     references_before: usize,
     references_after: usize,
@@ -3437,7 +3482,8 @@ fn run_corpus_closure(root: &Path) -> Result<CorpusClosureReport> {
     let report = CorpusClosureReport {
         status: if rejected.is_empty() { "ok" } else { "failed" }.to_owned(),
         instruments: corpora.len(),
-        relinked,
+        relinked: relinked.len(),
+        relinked_instruments: relinked,
         unchanged,
         references_before,
         references_after: corpora
@@ -3554,9 +3600,9 @@ fn write_closure_outputs(
     decisions: &[ClosureDecision],
     refreshed_as_persisted: &[bool],
     glossary_refreshed: &[bool],
-) -> Result<(usize, usize, Vec<CorpusClosureRejection>)> {
+) -> Result<(Vec<String>, usize, Vec<CorpusClosureRejection>)> {
     let (targets, term_targets) = closure_link_targets(corpora);
-    let mut relinked = 0;
+    let mut relinked = Vec::new();
     let mut unchanged = 0;
     let mut rejected = Vec::new();
     for (index, (slug, corpus)) in corpora.iter().enumerate() {
@@ -3588,7 +3634,7 @@ fn write_closure_outputs(
             ClosureDecision::Accepted(report) => {
                 write_relinked_instrument(context, corpus, report, &targets, &term_targets)?;
                 println!("{slug}: relinked {} references", corpus.references.len());
-                relinked += 1;
+                relinked.push(slug.clone());
             }
         }
     }
@@ -5096,6 +5142,64 @@ mod tests {
     }
 
     #[test]
+    fn a_title_printed_with_long_whitespace_runs_still_covers_its_usages() {
+        let index = super::title_index(&[
+            "Ley de Aguas Nacionales".to_owned(),
+            "Ley de Aguas".to_owned(),
+        ])
+        .unwrap();
+        let usage = |text: &str, term: &str, span: &str| {
+            let byte = text.rfind(span).unwrap();
+            let start = text[..byte].chars().count();
+            let provision = Provision {
+                text: text.to_owned(),
+                ..fixture_corpus("urn:x:law", "Ley", "LEY", "Texto").provisions[0].clone()
+            };
+            let usage = lex_core::TermUsage {
+                schema_version: SCHEMA_VERSION.to_owned(),
+                id: format!("{}:term-usage:{start}", provision.id),
+                provision_id: provision.id.clone(),
+                term_id: term.to_owned(),
+                span: span.to_owned(),
+                start_char: start,
+                end_char: start + span.chars().count(),
+            };
+            (provision, usage)
+        };
+        let kept = |text: &str, term: &str, span: &str, definition: &str| {
+            let (provision, usage) = usage(text, term, span);
+            let definitions = HashMap::from([(term.to_owned(), definition.to_owned())]);
+            super::drop_usages_in_titles(vec![usage], &[provision], &definitions, &index).len()
+        };
+        let spaces = " ".repeat(80);
+        let breaks = "\n".repeat(40);
+        for text in [
+            format!("Ñandú. Ley{spaces}de Aguas Nacionales."),
+            format!("Ñandú. Ley de{breaks}Aguas\t\t\t\t Nacionales."),
+            format!("Ñandú. Ley\t{spaces}de{breaks}Aguas{spaces}Nacionales"),
+        ] {
+            assert_eq!(
+                kept(
+                    &text,
+                    "nacionales",
+                    "Nacionales",
+                    "nacionales: las personas;"
+                ),
+                0,
+                "{text:?}"
+            );
+        }
+        // The definition must name the covering title as whole words: the
+        // Ley de Aguascalientes does not name the Ley de Aguas.
+        let text = "Conforme a la Ley de Aguas.";
+        assert_eq!(
+            kept(text, "ley", "Ley", "ley: la ley de aguascalientes;"),
+            0
+        );
+        assert_eq!(kept(text, "ley", "Ley", "ley: la ley de aguas;"), 1);
+    }
+
+    #[test]
     fn a_reviewed_non_usage_removes_exactly_its_pinned_match_and_a_stale_one_fails() {
         let usage = |start: usize, span: &str| lex_core::TermUsage {
             schema_version: SCHEMA_VERSION.to_owned(),
@@ -5132,8 +5236,8 @@ mod tests {
         Cli, Command, ExpectedEdgeCorpus, InstrumentAliasTable, LinkedGraph, Paths, SearchScope,
         committed_instrument_index, evaluate_expected_edges, freeze_adapter_baseline,
         latest_reform_date, merge_external_instruments, protected_edge_drift, read_corpus,
-        resolve_global_aliases, run_batch_closure, run_corpus_closure, scaffold_adapter,
-        selected_corpus_paths, unique_official_title_markers,
+        resolve_global_aliases, run_batch_closure, run_corpus_closure, run_link, run_validate,
+        scaffold_adapter, selected_corpus_paths, unique_official_title_markers,
     };
 
     const STALE_RUNNING_HEADER_REFORM_DATE_FIXTURE: &str = include_str!(
@@ -6021,6 +6125,84 @@ mod tests {
         assert_eq!(skipped.status, "skipped");
         assert_eq!(skipped.expected_edges[0].status, "deferred");
     }
+    #[test]
+    fn batch_closure_relinks_an_instrument_outside_the_batch_whose_usage_the_new_title_covers() {
+        let temporary = tempfile::tempdir().unwrap();
+        let root = temporary.path();
+        let glossary_id = "urn:lex-mx:test:glosario";
+        let admitted_id = "urn:lex-mx:test:aguas";
+        write_fixture_adapter(
+            root,
+            "glosario",
+            glossary_id,
+            "Ley Glosario",
+            "GLOSARIO",
+            &serde_json::json!([]),
+        );
+        write_canonical(
+            &fixture_corpus(
+                glossary_id,
+                "Ley Glosario",
+                "GLOSARIO",
+                "Para los efectos de esta Ley, se entiende por:\n\nI. Aguas: Las del subsuelo;\n\n\
+                 II. Banco: El Banco que vigila las Aguas conforme a la Ley de Aguas Federales.",
+            ),
+            &root.join("corpus/mx/glosario"),
+        )
+        .unwrap();
+        let glossary = |root: &Path| {
+            read_corpus(&Paths::new(root, "glosario", lex_source::SourceFormat::Pdf)).unwrap()
+        };
+        run_link(root, &instrument_context(root, "glosario").unwrap()).unwrap();
+        assert_eq!(glossary(root).term_usages.len(), 2);
+
+        // Admitting the Ley de Aguas Federales makes the second `Aguas` part
+        // of its title, although the glossary is not in the batch.
+        write_fixture_adapter(
+            root,
+            "aguas",
+            admitted_id,
+            "Ley de Aguas Federales",
+            "LAF",
+            &serde_json::json!([]),
+        );
+        write_canonical(
+            &fixture_corpus(admitted_id, "Ley de Aguas Federales", "LAF", "Texto."),
+            &root.join("corpus/mx/aguas"),
+        )
+        .unwrap();
+        let closure = run_batch_closure(root, &["aguas".to_owned()], &[], None).unwrap();
+
+        assert_eq!(closure.status, "ok");
+        assert_eq!(closure.relinked, ["aguas", "glosario"]);
+        let usages = glossary(root).term_usages;
+        assert_eq!(usages.len(), 1);
+        assert_eq!(usages[0].span, "Aguas");
+        let context = instrument_context(root, "glosario").unwrap();
+        assert!(run_validate(root, &context).unwrap().valid);
+        assert!(
+            root.join("corpus/mx/glosario/markdown/articulo-1.md")
+                .is_file()
+        );
+        // Closing again changes nothing.
+        let before = fs::read(root.join("corpus/mx/glosario/term-usages.json")).unwrap();
+        let again = run_batch_closure(root, &["aguas".to_owned()], &[], None).unwrap();
+        assert_eq!(again.relinked, ["aguas"]);
+        assert_eq!(
+            fs::read(root.join("corpus/mx/glosario/term-usages.json")).unwrap(),
+            before
+        );
+    }
+
+    #[test]
+    fn batch_closure_fails_when_the_corpus_closure_rejects_an_unaccepted_instrument() {
+        let temporary = tempfile::tempdir().unwrap();
+        let root = temporary.path();
+        write_title_closure_fixture(root);
+        let error = run_batch_closure(root, &["target".to_owned()], &[], None).unwrap_err();
+        assert!(format!("{error:#}").contains("beyond the accepted gaps"));
+    }
+
     fn fixture_publication_period(hash: &str) -> lex_core::PublicationPeriod {
         lex_core::PublicationPeriod {
             metadata_version: "1.0.0".to_owned(),
@@ -6236,6 +6418,7 @@ mod tests {
             status: "failed".to_owned(),
             instruments: 2,
             relinked: 0,
+            relinked_instruments: vec![],
             unchanged: 0,
             references_before: 0,
             references_after: 0,
