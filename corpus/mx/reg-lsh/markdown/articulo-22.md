@@ -17,4 +17,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Artículo 22
 
-La [Secretaría](articulo-3.md) de Hacienda y Crédito Público, la Secretaría de Economía, el [Fondo Mexicano del Petróleo](articulo-3.md) o la Agencia, pueden someter a consideración de la Secretaría, en el ámbito de su competencia, en cualquier momento, la existencia de posibles causales de revocación de los títulos de Asignación.
+La Secretaría de Hacienda y Crédito Público, la Secretaría de Economía, el [Fondo Mexicano del Petróleo](articulo-3.md) o la Agencia, pueden someter a consideración de la [Secretaría](articulo-3.md), en el ámbito de su competencia, en cualquier momento, la existencia de posibles causales de revocación de los títulos de Asignación.

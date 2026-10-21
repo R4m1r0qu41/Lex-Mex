@@ -37,7 +37,7 @@ IX. Centro de diversidad genética: Es aquella área geográfica del territorio 
 
 X. Comercialización: Es la introducción al mercado para distribución y consumo de organismos genéticamente modificados en calidad de productos o mercancías, sin propósitos de liberación intencional al medio ambiente y con independencia del ánimo de lucro y del título jurídico bajo el cual se realice.
 
-XI. CIBIOGEM: La Comisión Intersecretarial de [Bioseguridad](articulo-3.md) de los [Organismos](articulo-3.md) Genéticamente Modificados.
+XI. CIBIOGEM: La Comisión Intersecretarial de Bioseguridad de los Organismos Genéticamente Modificados.
 
 XII. CONACyT: El Consejo Nacional de Ciencia y Tecnología.
 
@@ -73,7 +73,7 @@ XXVII. Registro: El Registro Nacional de Bioseguridad de los Organismos Genétic
 
 XXVIII. Residuos: Cualquier material de desecho generado en la utilización confinada de organismos genéticamente modificados, incluidos los propios organismos genéticamente modificados.
 
-XXIX. Secretarías: La Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, la Secretaría de [Medio Ambiente](articulo-3.md) y Recursos Naturales y la Secretaría de Salud, respecto de sus respectivos ámbitos de competencia establecidos en esta Ley.
+XXIX. Secretarías: La Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, la Secretaría de Medio Ambiente y Recursos Naturales y la Secretaría de Salud, respecto de sus respectivos ámbitos de competencia establecidos en esta Ley.
 
 XXX. SAGARPA: La Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación.
 

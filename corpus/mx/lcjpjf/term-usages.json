@@ -73,15 +73,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcjpjf:article:2:term-usage:1455-1471",
-    "provision_id": "urn:lex-mx:federal:statute:lcjpjf:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lcjpjf:term:carrera-judicial",
-    "span": "Carrera Judicial",
-    "start_char": 1455,
-    "end_char": 1471
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcjpjf:article:3:term-usage:48-51",
     "provision_id": "urn:lex-mx:federal:statute:lcjpjf:article:3",
     "term_id": "urn:lex-mx:federal:statute:lcjpjf:term:ley",

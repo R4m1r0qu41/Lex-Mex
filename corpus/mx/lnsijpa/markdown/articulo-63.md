@@ -17,7 +17,7 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 # Artículo 63
 
-Especialización de los órganos del [Sistema](articulo-3.md) Integral de Justicia Penal para [Adolescentes](articulo-3.md) El Sistema Integral de Justicia Penal para Adolescentes deberá contar con los siguientes órganos especializados:
+Especialización de los órganos del [Sistema](articulo-3.md) Integral de Justicia Penal para Adolescentes El Sistema Integral de Justicia Penal para Adolescentes deberá contar con los siguientes órganos especializados:
 
 I. Ministerio Público;
 

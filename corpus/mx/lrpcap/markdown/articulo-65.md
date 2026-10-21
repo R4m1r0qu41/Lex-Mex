@@ -19,6 +19,6 @@ source_sha256: cf241af670623476911e625178a081e9e05921b4b6cc73ae92b41a47da45487a
 
 Las [Representaciones](articulo-2.md) solo recibirán solicitudes de asilo político de los nacionales de aquellos países ante los que se encuentren acreditadas.
 
-Las Representaciones deberán remitir las solicitudes a la [Secretaría](articulo-2.md) de Relaciones Exteriores.
+Las Representaciones deberán remitir las solicitudes a la Secretaría de Relaciones Exteriores.
 
 Artículo adicionado DOF 30-10-2014

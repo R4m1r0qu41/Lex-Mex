@@ -53,7 +53,7 @@ XVII. Coordinar la implementación y seguimiento del sistema de denuncia ciudada
 
 XVIII. Proponer, en coordinación con las áreas competentes de la Institución, lineamientos para fortalecer la colaboración de las Delegaciones con los organismos de participación ciudadana en las labores de procuración de justicia;
 
-XIX. Proponer a la unidad administrativa competente la presentación de quejas administrativas que, de conformidad con lo dispuesto por la Ley Orgánica del Poder Judicial de la Federación, deban presentarse ante el [Consejo](articulo-2.md) de la Judicatura Federal, por actos u omisiones de los órganos jurisdiccionales que conozcan de procesos penales federales; XX. Auxiliar a la Visitaduría General en el ejercicio de sus funciones e informar a ésta sobre las averiguaciones previas que se inicien en contra de servidores públicos de la Procuraduría;
+XIX. Proponer a la unidad administrativa competente la presentación de quejas administrativas que, de conformidad con lo dispuesto por la Ley Orgánica del Poder Judicial de la Federación, deban presentarse ante el Consejo de la Judicatura Federal, por actos u omisiones de los órganos jurisdiccionales que conozcan de procesos penales federales; XX. Auxiliar a la Visitaduría General en el ejercicio de sus funciones e informar a ésta sobre las averiguaciones previas que se inicien en contra de servidores públicos de la Procuraduría;
 
 XXI. Realizar visitas de supervisión para detectar áreas de oportunidad y proponer mejoras a las Delegaciones, y
 

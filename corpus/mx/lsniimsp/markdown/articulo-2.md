@@ -29,7 +29,7 @@ IV. Inteligencia en seguridad pública: la función estatal estratégica que, me
 
 V. Interconexión: el mecanismo para la consulta directa a la información contenida en los sistemas tecnológicos, las bases de datos, los registros e información que posean los entes públicos y particulares, a través de la Plataforma, en apego a la normativa aplicable en materia de protección de datos personales;
 
-VI. Ley: la Ley del Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad Pública;
+VI. Ley: la Ley del [Sistema Nacional](articulo-2.md) de Investigación e Inteligencia en Materia de Seguridad Pública;
 
 VII. Plataforma: la Plataforma Central de Inteligencia;
 

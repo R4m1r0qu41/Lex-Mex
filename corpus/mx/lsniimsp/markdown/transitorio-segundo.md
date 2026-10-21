@@ -15,4 +15,4 @@ source_sha256: e23e37074b34f32fbf2e9b34648ecf8303d8a16cfbb80ae4253d26463992c28c
 
 # Segundo
 
-La operación y funcionamiento de la [Plataforma](articulo-2.md) prevista en el artículo [36](articulo-36.md) se realizará con los recursos humanos, financieros y materiales asignados durante el presente ejercicio fiscal. Para los ejercicios presupuestales posteriores, el [CNI](articulo-2.md) solicitará a la [Secretaría](articulo-2.md) de Hacienda y Crédito Público, los recursos necesarios para el correcto funcionamiento de la Plataforma.
+La operación y funcionamiento de la [Plataforma](articulo-2.md) prevista en el artículo [36](articulo-36.md) se realizará con los recursos humanos, financieros y materiales asignados durante el presente ejercicio fiscal. Para los ejercicios presupuestales posteriores, el [CNI](articulo-2.md) solicitará a la Secretaría de Hacienda y Crédito Público, los recursos necesarios para el correcto funcionamiento de la Plataforma.

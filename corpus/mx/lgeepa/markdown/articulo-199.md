@@ -19,7 +19,7 @@ source_sha256: 0574853d06020030188e8aee1eae5dabb2b476ac630cc52be631a48d2b91adbc
 
 Los expedientes de denuncia popular que hubieren sido abiertos, podrán ser concluidos por las siguientes causas:
 
-I.- Por incompetencia de la Procuraduría Federal de [Protección](articulo-3o.md) al [Ambiente](articulo-3o.md) para conocer de la denuncia popular planteada;
+I.- Por incompetencia de la Procuraduría Federal de Protección al Ambiente para conocer de la denuncia popular planteada;
 
 II.- Por haberse dictado la recomendación correspondiente;
 

@@ -298,15 +298,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-larcp:article:8:term-usage:2708-2718",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-larcp:article:8",
-    "term_id": "urn:lex-mx:federal:regulation:reg-larcp:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 2708,
-    "end_char": 2718
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-larcp:article:9:term-usage:3-20",
     "provision_id": "urn:lex-mx:federal:regulation:reg-larcp:article:9",
     "term_id": "urn:lex-mx:federal:regulation:reg-larcp:term:direccion-general",
@@ -466,15 +457,6 @@
     "span": "Dirección General",
     "start_char": 683,
     "end_char": 700
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-larcp:article:15:term-usage:716-726",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-larcp:article:15",
-    "term_id": "urn:lex-mx:federal:regulation:reg-larcp:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 716,
-    "end_char": 726
   },
   {
     "schema_version": "0.1.0",

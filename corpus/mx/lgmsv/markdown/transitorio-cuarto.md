@@ -15,4 +15,4 @@ source_sha256: 79f2b255a142d1756d7e8c13244af6dc8c4f2f474acaf0d669f2b156b022fc03
 
 # Cuarto
 
-El [Sistema Nacional](articulo-3.md) de [Movilidad](articulo-3.md) y Seguridad Vial deberá integrarse y emitir los lineamientos para su organización y operación, en un plazo no mayor a 180 días naturales contados a partir de la entrada en vigor de la presente [Ley](articulo-3.md).
+El [Sistema Nacional](articulo-3.md) de Movilidad y Seguridad Vial deberá integrarse y emitir los lineamientos para su organización y operación, en un plazo no mayor a 180 días naturales contados a partir de la entrada en vigor de la presente [Ley](articulo-3.md).

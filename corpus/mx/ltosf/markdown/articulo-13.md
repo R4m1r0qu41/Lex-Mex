@@ -21,13 +21,13 @@ Las [Entidades](articulo-3.md) deberán enviar al domicilio que señalen los [Cl
 
 Los Clientes podrán pactar con las Entidades para que en sustitución de la obligación referida, pueda consultarse el citado estado de cuenta a través de cualquier medio que al efecto se acuerde entre ambas partes.
 
-Los mencionados estados de cuenta, así como los comprobantes de operación, deberán cumplir con los requisitos que para [Entidades Financieras](articulo-3.md) establezca la [Comisión](articulo-3.md) Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros; y para [Entidades Comerciales](articulo-3.md), los que establezca la Procuraduría Federal del Consumidor, igualmente mediante disposiciones de carácter general.
+Los mencionados estados de cuenta, así como los comprobantes de operación, deberán cumplir con los requisitos que para [Entidades Financieras](articulo-3.md) establezca la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros; y para [Entidades Comerciales](articulo-3.md), los que establezca la Procuraduría Federal del Consumidor, igualmente mediante disposiciones de carácter general.
 
 Las citadas disposiciones de carácter general, deberán considerar los aspectos siguientes:
 
 I. Claridad y simplicidad en la presentación de la información contenida en los estados de cuenta y en los comprobantes de operaciones, que permita conocer la situación que guardan las transacciones efectuadas por el Cliente en un periodo previamente acordado entre las partes;
 
-II. La base para incorporar en los estados de cuenta y comprobantes de operación, las Comisiones y demás conceptos que la Entidad cobre al Cliente por la prestación del servicio u operación de que se trate, así como otras características del servicio;
+II. La base para incorporar en los estados de cuenta y comprobantes de operación, las [Comisiones](articulo-3.md) y demás conceptos que la Entidad cobre al Cliente por la prestación del servicio u operación de que se trate, así como otras características del servicio;
 
 III. La información relevante que contemple el cobro de Comisiones por diversos conceptos, el cobro de intereses, los saldos, límites de crédito y advertencias sobre riesgos de la operación y el [CAT](articulo-3.md), entre otros conceptos.
 

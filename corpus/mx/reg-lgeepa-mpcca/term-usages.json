@@ -190,15 +190,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:article:7:term-usage:2076-2086",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:article:7",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 2076,
-    "end_char": 2086
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:article:7:term-usage:3496-3506",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:article:7",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:term:reglamento",
@@ -232,15 +223,6 @@
     "span": "Reglamento",
     "start_char": 4632,
     "end_char": 4642
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:article:8:term-usage:89-99",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:article:8",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 89,
-    "end_char": 99
   },
   {
     "schema_version": "0.1.0",
@@ -316,30 +298,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:article:16:term-usage:363-373",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:article:16",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 363,
-    "end_char": 373
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:article:16:term-usage:936-946",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:article:16",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:term:secretaria",
     "span": "Secretaría",
     "start_char": 936,
     "end_char": 946
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:article:16:term-usage:970-980",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:article:16",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 970,
-    "end_char": 980
   },
   {
     "schema_version": "0.1.0",
@@ -559,66 +523,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:article:28:term-usage:463-473",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:article:28",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 463,
-    "end_char": 473
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:article:30:term-usage:3-13",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:article:30",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 3,
-    "end_char": 13
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:article:30:term-usage:274-284",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:article:30",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:term:secretaria",
     "span": "Secretaría",
     "start_char": 274,
     "end_char": 284
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:article:30:term-usage:309-319",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:article:30",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 309,
-    "end_char": 319
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:article:32:term-usage:282-292",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:article:32",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 282,
-    "end_char": 292
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:article:34:term-usage:1079-1089",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:article:34",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 1079,
-    "end_char": 1089
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:article:35:term-usage:534-544",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:article:35",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 534,
-    "end_char": 544
   },
   {
     "schema_version": "0.1.0",
@@ -631,15 +541,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:article:36:term-usage:37-47",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:article:36",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 37,
-    "end_char": 47
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:article:36:term-usage:310-320",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:article:36",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:term:reglamento",
@@ -649,39 +550,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:article:37:term-usage:46-56",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:article:37",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 46,
-    "end_char": 56
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:article:37:term-usage:864-874",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:article:37",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:term:secretaria",
     "span": "Secretaría",
     "start_char": 864,
     "end_char": 874
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:article:38:term-usage:28-38",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:article:38",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 28,
-    "end_char": 38
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:article:38:term-usage:364-374",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:article:38",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 364,
-    "end_char": 374
   },
   {
     "schema_version": "0.1.0",
@@ -763,15 +637,6 @@
     "span": "Secretaría",
     "start_char": 159,
     "end_char": 169
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:article:43:term-usage:194-204",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:article:43",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 194,
-    "end_char": 204
   },
   {
     "schema_version": "0.1.0",

@@ -10,15 +10,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:3:term-usage:150-157",
-    "provision_id": "urn:lex-mx:federal:statute:lritf:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lritf:term:valores",
-    "span": "Valores",
-    "start_char": 150,
-    "end_char": 157
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lritf:article:3:term-usage:668-678",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:3",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:secretaria",
@@ -79,15 +70,6 @@
     "span": "Modelos Novedosos",
     "start_char": 444,
     "end_char": 461
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:4:term-usage:512-519",
-    "provision_id": "urn:lex-mx:federal:statute:lritf:article:4",
-    "term_id": "urn:lex-mx:federal:statute:lritf:term:valores",
-    "span": "Valores",
-    "start_char": 512,
-    "end_char": 519
   },
   {
     "schema_version": "0.1.0",
@@ -1177,15 +1159,6 @@
     "span": "Operaciones",
     "start_char": 1740,
     "end_char": 1751
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:16:term-usage:2067-2074",
-    "provision_id": "urn:lex-mx:federal:statute:lritf:article:16",
-    "term_id": "urn:lex-mx:federal:statute:lritf:term:valores",
-    "span": "Valores",
-    "start_char": 2067,
-    "end_char": 2074
   },
   {
     "schema_version": "0.1.0",
@@ -9676,51 +9649,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:transitory:tercera:term-usage:35-42",
-    "provision_id": "urn:lex-mx:federal:statute:lritf:transitory:tercera",
-    "term_id": "urn:lex-mx:federal:statute:lritf:term:valores",
-    "span": "Valores",
-    "start_char": 35,
-    "end_char": 42
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:transitory:septima:term-usage:35-42",
-    "provision_id": "urn:lex-mx:federal:statute:lritf:transitory:septima",
-    "term_id": "urn:lex-mx:federal:statute:lritf:term:valores",
-    "span": "Valores",
-    "start_char": 35,
-    "end_char": 42
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:transitory:octava:term-usage:238-245",
-    "provision_id": "urn:lex-mx:federal:statute:lritf:transitory:octava",
-    "term_id": "urn:lex-mx:federal:statute:lritf:term:valores",
-    "span": "Valores",
-    "start_char": 238,
-    "end_char": 245
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:transitory:octava:term-usage:571-578",
-    "provision_id": "urn:lex-mx:federal:statute:lritf:transitory:octava",
-    "term_id": "urn:lex-mx:federal:statute:lritf:term:valores",
-    "span": "Valores",
-    "start_char": 571,
-    "end_char": 578
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:transitory:octava:term-usage:910-917",
-    "provision_id": "urn:lex-mx:federal:statute:lritf:transitory:octava",
-    "term_id": "urn:lex-mx:federal:statute:lritf:term:valores",
-    "span": "Valores",
-    "start_char": 910,
-    "end_char": 917
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lritf:transitory:octava:term-usage:1316-1327",
     "provision_id": "urn:lex-mx:federal:statute:lritf:transitory:octava",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:operaciones",
@@ -9772,15 +9700,6 @@
     "span": "Secretaría",
     "start_char": 18,
     "end_char": 28
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:transitory:decima:term-usage:243-250",
-    "provision_id": "urn:lex-mx:federal:statute:lritf:transitory:decima",
-    "term_id": "urn:lex-mx:federal:statute:lritf:term:valores",
-    "span": "Valores",
-    "start_char": 243,
-    "end_char": 250
   },
   {
     "schema_version": "0.1.0",

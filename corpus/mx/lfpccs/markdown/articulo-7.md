@@ -17,7 +17,7 @@ source_sha256: ea99e8d1b13b36451e69f865d4aeeca08ce847fb7dcab648e77f65ca88991a8b
 
 # Artículo 7
 
-Se crea el [Sistema](articulo-3.md) Nacional de [Semillas](articulo-3.md), con objeto de articular la concurrencia, participación, cooperación y complementación de los sectores público, social y privado involucrados en la conservación, investigación, producción, certificación, comercialización, fomento, abasto y uso de semillas.
+Se crea el [Sistema](articulo-3.md) Nacional de Semillas, con objeto de articular la concurrencia, participación, cooperación y complementación de los sectores público, social y privado involucrados en la conservación, investigación, producción, certificación, comercialización, fomento, abasto y uso de semillas.
 
 El Sistema será un órgano deliberativo, de carácter consultivo, de concertación, de asesoría y de seguimiento y evaluación de las políticas de semillas y en general de todas las materias establecidas en esta Ley.
 

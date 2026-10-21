@@ -20,4 +20,4 @@ source_sha256: a15012b33a415083f7714764c86fda8ed0078d3f5313dfc194c503f98a573a2a
 
 # Artículo 235
 
-La [Secretaría](articulo-3.md) de Gobernación requerirá directamente a los concesionarios los canales a que se refieren los dos artículos anteriores y podrá indicar al concesionario el número de canal que deberá asignarles.
+La Secretaría de Gobernación requerirá directamente a los concesionarios los canales a que se refieren los dos artículos anteriores y podrá indicar al concesionario el número de canal que deberá asignarles.

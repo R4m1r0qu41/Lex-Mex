@@ -100,15 +100,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:910-920",
-    "provision_id": "urn:lex-mx:federal:statute:lih:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lih:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 910,
-    "end_char": 920
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:949-976",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:3",
     "term_id": "urn:lex-mx:federal:statute:lih:term:fondo-mexicano-del-petroleo",
@@ -397,15 +388,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:4330-4340",
-    "provision_id": "urn:lex-mx:federal:statute:lih:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lih:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 4330,
-    "end_char": 4340
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:4358-4375",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:3",
     "term_id": "urn:lex-mx:federal:statute:lih:term:punto-de-medicion",
@@ -439,15 +421,6 @@
     "span": "Contrato",
     "start_char": 4634,
     "end_char": 4642
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:4703-4713",
-    "provision_id": "urn:lex-mx:federal:statute:lih:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lih:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 4703,
-    "end_char": 4713
   },
   {
     "schema_version": "0.1.0",
@@ -1675,15 +1648,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:20:term-usage:469-479",
-    "provision_id": "urn:lex-mx:federal:statute:lih:article:20",
-    "term_id": "urn:lex-mx:federal:statute:lih:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 469,
-    "end_char": 479
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lih:article:21:term-usage:7-16",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:21",
     "term_id": "urn:lex-mx:federal:statute:lih:term:contrato",
@@ -2260,15 +2224,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:26:term-usage:1536-1546",
-    "provision_id": "urn:lex-mx:federal:statute:lih:article:26",
-    "term_id": "urn:lex-mx:federal:statute:lih:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 1536,
-    "end_char": 1546
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lih:article:27:term-usage:3-18",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:27",
     "term_id": "urn:lex-mx:federal:statute:lih:term:comercializador",
@@ -2302,15 +2257,6 @@
     "span": "Contrato",
     "start_char": 158,
     "end_char": 166
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:27:term-usage:315-325",
-    "provision_id": "urn:lex-mx:federal:statute:lih:article:27",
-    "term_id": "urn:lex-mx:federal:statute:lih:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 315,
-    "end_char": 325
   },
   {
     "schema_version": "0.1.0",
@@ -2413,15 +2359,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:28:term-usage:1299-1309",
-    "provision_id": "urn:lex-mx:federal:statute:lih:article:28",
-    "term_id": "urn:lex-mx:federal:statute:lih:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 1299,
-    "end_char": 1309
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lih:article:28:term-usage:1600-1608",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:28",
     "term_id": "urn:lex-mx:federal:statute:lih:term:contrato",
@@ -2473,15 +2410,6 @@
     "span": "Fondo Mexicano del Petróleo",
     "start_char": 2396,
     "end_char": 2423
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:28:term-usage:2430-2440",
-    "provision_id": "urn:lex-mx:federal:statute:lih:article:28",
-    "term_id": "urn:lex-mx:federal:statute:lih:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 2430,
-    "end_char": 2440
   },
   {
     "schema_version": "0.1.0",
@@ -2827,15 +2755,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:34:term-usage:344-354",
-    "provision_id": "urn:lex-mx:federal:statute:lih:article:34",
-    "term_id": "urn:lex-mx:federal:statute:lih:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 344,
-    "end_char": 354
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lih:article:34:term-usage:479-501",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:34",
     "term_id": "urn:lex-mx:federal:statute:lih:term:produccion-contractual",
@@ -2944,15 +2863,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:35:term-usage:276-286",
-    "provision_id": "urn:lex-mx:federal:statute:lih:article:35",
-    "term_id": "urn:lex-mx:federal:statute:lih:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 276,
-    "end_char": 286
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lih:article:35:term-usage:326-335",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:35",
     "term_id": "urn:lex-mx:federal:statute:lih:term:contrato",
@@ -3004,15 +2914,6 @@
     "span": "Secretaría",
     "start_char": 616,
     "end_char": 626
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:35:term-usage:632-642",
-    "provision_id": "urn:lex-mx:federal:statute:lih:article:35",
-    "term_id": "urn:lex-mx:federal:statute:lih:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 632,
-    "end_char": 642
   },
   {
     "schema_version": "0.1.0",
@@ -3232,24 +3133,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:37:term-usage:1220-1230",
-    "provision_id": "urn:lex-mx:federal:statute:lih:article:37",
-    "term_id": "urn:lex-mx:federal:statute:lih:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 1220,
-    "end_char": 1230
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:37:term-usage:1366-1376",
-    "provision_id": "urn:lex-mx:federal:statute:lih:article:37",
-    "term_id": "urn:lex-mx:federal:statute:lih:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 1366,
-    "end_char": 1376
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lih:article:37:term-usage:1395-1405",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:37",
     "term_id": "urn:lex-mx:federal:statute:lih:term:secretaria",
@@ -3430,30 +3313,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:37:term-usage:3844-3854",
-    "provision_id": "urn:lex-mx:federal:statute:lih:article:37",
-    "term_id": "urn:lex-mx:federal:statute:lih:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 3844,
-    "end_char": 3854
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lih:article:37:term-usage:4065-4092",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:37",
     "term_id": "urn:lex-mx:federal:statute:lih:term:fondo-mexicano-del-petroleo",
     "span": "Fondo Mexicano del Petróleo",
     "start_char": 4065,
     "end_char": 4092
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:37:term-usage:4100-4110",
-    "provision_id": "urn:lex-mx:federal:statute:lih:article:37",
-    "term_id": "urn:lex-mx:federal:statute:lih:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 4100,
-    "end_char": 4110
   },
   {
     "schema_version": "0.1.0",
@@ -3619,15 +3484,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:46:term-usage:1043-1053",
-    "provision_id": "urn:lex-mx:federal:statute:lih:article:46",
-    "term_id": "urn:lex-mx:federal:statute:lih:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 1043,
-    "end_char": 1053
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lih:article:47:term-usage:33-43",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:47",
     "term_id": "urn:lex-mx:federal:statute:lih:term:secretaria",
@@ -3772,15 +3628,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:50:term-usage:218-228",
-    "provision_id": "urn:lex-mx:federal:statute:lih:article:50",
-    "term_id": "urn:lex-mx:federal:statute:lih:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 218,
-    "end_char": 228
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lih:article:51:term-usage:182-193",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:51",
     "term_id": "urn:lex-mx:federal:statute:lih:term:condensados",
@@ -3859,15 +3706,6 @@
     "span": "Secretaría",
     "start_char": 1959,
     "end_char": 1969
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:57:term-usage:2010-2020",
-    "provision_id": "urn:lex-mx:federal:statute:lih:article:57",
-    "term_id": "urn:lex-mx:federal:statute:lih:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 2010,
-    "end_char": 2020
   },
   {
     "schema_version": "0.1.0",
@@ -4060,15 +3898,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:58:term-usage:2869-2879",
-    "provision_id": "urn:lex-mx:federal:statute:lih:article:58",
-    "term_id": "urn:lex-mx:federal:statute:lih:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 2869,
-    "end_char": 2879
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lih:article:58:term-usage:3514-3541",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:58",
     "term_id": "urn:lex-mx:federal:statute:lih:term:fondo-mexicano-del-petroleo",
@@ -4084,15 +3913,6 @@
     "span": "Secretaría",
     "start_char": 3547,
     "end_char": 3557
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:58:term-usage:3583-3593",
-    "provision_id": "urn:lex-mx:federal:statute:lih:article:58",
-    "term_id": "urn:lex-mx:federal:statute:lih:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 3583,
-    "end_char": 3593
   },
   {
     "schema_version": "0.1.0",
@@ -4159,15 +3979,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:62:term-usage:181-191",
-    "provision_id": "urn:lex-mx:federal:statute:lih:article:62",
-    "term_id": "urn:lex-mx:federal:statute:lih:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 181,
-    "end_char": 191
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lih:article:62:term-usage:274-283",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:62",
     "term_id": "urn:lex-mx:federal:statute:lih:term:contrato",
@@ -4192,15 +4003,6 @@
     "span": "Secretaría",
     "start_char": 872,
     "end_char": 882
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:62:term-usage:888-898",
-    "provision_id": "urn:lex-mx:federal:statute:lih:article:62",
-    "term_id": "urn:lex-mx:federal:statute:lih:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 888,
-    "end_char": 898
   },
   {
     "schema_version": "0.1.0",
@@ -4309,6 +4111,15 @@
     "span": "Fondo Mexicano del Petróleo",
     "start_char": 118,
     "end_char": 145
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lih:transitory:segundo:term-usage:390-417",
+    "provision_id": "urn:lex-mx:federal:statute:lih:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:statute:lih:term:fondo-mexicano-del-petroleo",
+    "span": "Fondo Mexicano del Petróleo",
+    "start_char": 390,
+    "end_char": 417
   },
   {
     "schema_version": "0.1.0",

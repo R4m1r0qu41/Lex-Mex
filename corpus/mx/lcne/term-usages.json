@@ -280,15 +280,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcne:article:8:term-usage:376-384",
-    "provision_id": "urn:lex-mx:federal:statute:lcne:article:8",
-    "term_id": "urn:lex-mx:federal:statute:lcne:term:comision",
-    "span": "Comisión",
-    "start_char": 376,
-    "end_char": 384
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcne:article:8:term-usage:1034-1042",
     "provision_id": "urn:lex-mx:federal:statute:lcne:article:8",
     "term_id": "urn:lex-mx:federal:statute:lcne:term:comision",
@@ -550,15 +541,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcne:article:16:term-usage:2943-2953",
-    "provision_id": "urn:lex-mx:federal:statute:lcne:article:16",
-    "term_id": "urn:lex-mx:federal:statute:lcne:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 2943,
-    "end_char": 2953
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcne:article:16:term-usage:3005-3015",
     "provision_id": "urn:lex-mx:federal:statute:lcne:article:16",
     "term_id": "urn:lex-mx:federal:statute:lcne:term:secretaria",
@@ -601,15 +583,6 @@
     "span": "Comisión",
     "start_char": 3536,
     "end_char": 3544
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcne:article:16:term-usage:3718-3726",
-    "provision_id": "urn:lex-mx:federal:statute:lcne:article:16",
-    "term_id": "urn:lex-mx:federal:statute:lcne:term:comision",
-    "span": "Comisión",
-    "start_char": 3718,
-    "end_char": 3726
   },
   {
     "schema_version": "0.1.0",
@@ -1276,15 +1249,6 @@
     "span": "Secretaría",
     "start_char": 190,
     "end_char": 200
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcne:transitory:decimo-segundo:term-usage:244-254",
-    "provision_id": "urn:lex-mx:federal:statute:lcne:transitory:decimo-segundo",
-    "term_id": "urn:lex-mx:federal:statute:lcne:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 244,
-    "end_char": 254
   },
   {
     "schema_version": "0.1.0",

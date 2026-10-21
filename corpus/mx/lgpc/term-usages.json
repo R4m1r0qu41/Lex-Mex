@@ -19,24 +19,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpc:article:2:term-usage:2091-2101",
-    "provision_id": "urn:lex-mx:federal:statute:lgpc:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lgpc:term:prevencion",
-    "span": "Prevención",
-    "start_char": 2091,
-    "end_char": 2101
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpc:article:2:term-usage:2105-2114",
-    "provision_id": "urn:lex-mx:federal:statute:lgpc:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lgpc:term:desastre",
-    "span": "Desastres",
-    "start_char": 2105,
-    "end_char": 2114
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgpc:article:2:term-usage:2160-2171",
     "provision_id": "urn:lex-mx:federal:statute:lgpc:article:2",
     "term_id": "urn:lex-mx:federal:statute:lgpc:term:emergencia",
@@ -64,30 +46,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpc:article:2:term-usage:2265-2281",
-    "provision_id": "urn:lex-mx:federal:statute:lgpc:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lgpc:term:proteccion-civil",
-    "span": "Protección Civil",
-    "start_char": 2265,
-    "end_char": 2281
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgpc:article:2:term-usage:2306-2322",
     "provision_id": "urn:lex-mx:federal:statute:lgpc:article:2",
     "term_id": "urn:lex-mx:federal:statute:lgpc:term:consejo-nacional",
     "span": "Consejo Nacional",
     "start_char": 2306,
     "end_char": 2322
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpc:article:2:term-usage:2370-2386",
-    "provision_id": "urn:lex-mx:federal:statute:lgpc:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lgpc:term:proteccion-civil",
-    "span": "Protección Civil",
-    "start_char": 2370,
-    "end_char": 2386
   },
   {
     "schema_version": "0.1.0",
@@ -151,15 +115,6 @@
     "span": "Riesgos",
     "start_char": 16170,
     "end_char": 16177
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpc:article:2:term-usage:16691-16707",
-    "provision_id": "urn:lex-mx:federal:statute:lgpc:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lgpc:term:proteccion-civil",
-    "span": "Protección Civil",
-    "start_char": 16691,
-    "end_char": 16707
   },
   {
     "schema_version": "0.1.0",
@@ -433,15 +388,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpc:article:19:term-usage:1652-1662",
-    "provision_id": "urn:lex-mx:federal:statute:lgpc:article:19",
-    "term_id": "urn:lex-mx:federal:statute:lgpc:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 1652,
-    "end_char": 1662
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgpc:article:19:term-usage:3108-3124",
     "provision_id": "urn:lex-mx:federal:statute:lgpc:article:19",
     "term_id": "urn:lex-mx:federal:statute:lgpc:term:proteccion-civil",
@@ -493,33 +439,6 @@
     "span": "Riesgo",
     "start_char": 5576,
     "end_char": 5582
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpc:article:19:term-usage:6527-6537",
-    "provision_id": "urn:lex-mx:federal:statute:lgpc:article:19",
-    "term_id": "urn:lex-mx:federal:statute:lgpc:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 6527,
-    "end_char": 6537
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpc:article:19:term-usage:6915-6925",
-    "provision_id": "urn:lex-mx:federal:statute:lgpc:article:19",
-    "term_id": "urn:lex-mx:federal:statute:lgpc:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 6915,
-    "end_char": 6925
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpc:article:19:term-usage:7308-7318",
-    "provision_id": "urn:lex-mx:federal:statute:lgpc:article:19",
-    "term_id": "urn:lex-mx:federal:statute:lgpc:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 7308,
-    "end_char": 7318
   },
   {
     "schema_version": "0.1.0",
@@ -586,57 +505,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpc:article:20:term-usage:621-631",
-    "provision_id": "urn:lex-mx:federal:statute:lgpc:article:20",
-    "term_id": "urn:lex-mx:federal:statute:lgpc:term:prevencion",
-    "span": "Prevención",
-    "start_char": 621,
-    "end_char": 631
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpc:article:20:term-usage:635-644",
-    "provision_id": "urn:lex-mx:federal:statute:lgpc:article:20",
-    "term_id": "urn:lex-mx:federal:statute:lgpc:term:desastre",
-    "span": "Desastres",
-    "start_char": 635,
-    "end_char": 644
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgpc:article:20:term-usage:943-959",
     "provision_id": "urn:lex-mx:federal:statute:lgpc:article:20",
     "term_id": "urn:lex-mx:federal:statute:lgpc:term:sistema-nacional",
     "span": "Sistema Nacional",
     "start_char": 943,
     "end_char": 959
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpc:article:20:term-usage:963-979",
-    "provision_id": "urn:lex-mx:federal:statute:lgpc:article:20",
-    "term_id": "urn:lex-mx:federal:statute:lgpc:term:proteccion-civil",
-    "span": "Protección Civil",
-    "start_char": 963,
-    "end_char": 979
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpc:article:21:term-usage:322-332",
-    "provision_id": "urn:lex-mx:federal:statute:lgpc:article:21",
-    "term_id": "urn:lex-mx:federal:statute:lgpc:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 322,
-    "end_char": 332
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpc:article:21:term-usage:361-371",
-    "provision_id": "urn:lex-mx:federal:statute:lgpc:article:21",
-    "term_id": "urn:lex-mx:federal:statute:lgpc:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 361,
-    "end_char": 371
   },
   {
     "schema_version": "0.1.0",
@@ -835,24 +709,6 @@
     "span": "Sistema Nacional",
     "start_char": 928,
     "end_char": 944
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpc:article:26:term-usage:1884-1894",
-    "provision_id": "urn:lex-mx:federal:statute:lgpc:article:26",
-    "term_id": "urn:lex-mx:federal:statute:lgpc:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 1884,
-    "end_char": 1894
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpc:article:26:term-usage:2170-2180",
-    "provision_id": "urn:lex-mx:federal:statute:lgpc:article:26",
-    "term_id": "urn:lex-mx:federal:statute:lgpc:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 2170,
-    "end_char": 2180
   },
   {
     "schema_version": "0.1.0",
@@ -1603,24 +1459,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpc:article:62:term-usage:37-47",
-    "provision_id": "urn:lex-mx:federal:statute:lgpc:article:62",
-    "term_id": "urn:lex-mx:federal:statute:lgpc:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 37,
-    "end_char": 47
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpc:article:63:term-usage:836-846",
-    "provision_id": "urn:lex-mx:federal:statute:lgpc:article:63",
-    "term_id": "urn:lex-mx:federal:statute:lgpc:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 836,
-    "end_char": 846
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgpc:article:64:term-usage:158-174",
     "provision_id": "urn:lex-mx:federal:statute:lgpc:article:64",
     "term_id": "urn:lex-mx:federal:statute:lgpc:term:sistema-nacional",
@@ -1828,29 +1666,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpc:transitory:decimo-segundo:term-usage:209-219",
-    "provision_id": "urn:lex-mx:federal:statute:lgpc:transitory:decimo-segundo",
-    "term_id": "urn:lex-mx:federal:statute:lgpc:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 209,
-    "end_char": 219
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgpc:transitory:decimo-tercero:term-usage:202-218",
     "provision_id": "urn:lex-mx:federal:statute:lgpc:transitory:decimo-tercero",
     "term_id": "urn:lex-mx:federal:statute:lgpc:term:sistema-nacional",
     "span": "Sistema Nacional",
     "start_char": 202,
     "end_char": 218
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpc:transitory:decimo-tercero:term-usage:222-238",
-    "provision_id": "urn:lex-mx:federal:statute:lgpc:transitory:decimo-tercero",
-    "term_id": "urn:lex-mx:federal:statute:lgpc:term:proteccion-civil",
-    "span": "Protección Civil",
-    "start_char": 222,
-    "end_char": 238
   }
 ]

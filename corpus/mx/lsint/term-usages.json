@@ -163,15 +163,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsint:article:6:term-usage:444-462",
-    "provision_id": "urn:lex-mx:federal:statute:lsint:article:6",
-    "term_id": "urn:lex-mx:federal:statute:lsint:term:seguridad-nacional",
-    "span": "Seguridad Nacional",
-    "start_char": 444,
-    "end_char": 462
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lsint:article:6:term-usage:554-572",
     "provision_id": "urn:lex-mx:federal:statute:lsint:article:6",
     "term_id": "urn:lex-mx:federal:statute:lsint:term:seguridad-interior",
@@ -304,15 +295,6 @@
     "span": "Seguridad Interior",
     "start_char": 1082,
     "end_char": 1100
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsint:article:12:term-usage:123-141",
-    "provision_id": "urn:lex-mx:federal:statute:lsint:article:12",
-    "term_id": "urn:lex-mx:federal:statute:lsint:term:seguridad-nacional",
-    "span": "Seguridad Nacional",
-    "start_char": 123,
-    "end_char": 141
   },
   {
     "schema_version": "0.1.0",

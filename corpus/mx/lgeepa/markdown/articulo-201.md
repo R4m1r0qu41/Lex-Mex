@@ -17,7 +17,7 @@ source_sha256: 0574853d06020030188e8aee1eae5dabb2b476ac630cc52be631a48d2b91adbc
 
 # Artículo 201
 
-Las autoridades y servidores públicos involucrados en asuntos de la competencia de la Procuraduría Federal de [Protección](articulo-3o.md) al [Ambiente](articulo-3o.md), o que por razón de sus funciones o actividades puedan proporcionar información pertinente, deberán cumplir en sus términos con las peticiones que dicha dependencia les formule en tal sentido.
+Las autoridades y servidores públicos involucrados en asuntos de la competencia de la Procuraduría Federal de Protección al Ambiente, o que por razón de sus funciones o actividades puedan proporcionar información pertinente, deberán cumplir en sus términos con las peticiones que dicha dependencia les formule en tal sentido.
 
 Las autoridades y servidores públicos a los que se les solicite información o documentación que se estime con carácter reservado, conforme a lo dispuesto en la legislación aplicable, lo comunicarán a la Procuraduría Federal de Protección al Ambiente. En este supuesto, dicha dependencia deberá manejar la información proporcionada bajo la más estricta confidencialidad.
 

@@ -27,6 +27,6 @@ En caso de empate durante la votación la persona titular de la Presidencia del 
 
 Las personas integrantes del Consejo podrán hacerse acompañar del personal técnico que requieran para el tratamiento de los asuntos materia de las sesiones, previa comunicación a la Secretaría Técnica, veinticuatro horas antes de la celebración de la sesión. El Consejo tendrá como personas invitadas permanentes: a la persona titular de la Comandancia de la Fuerza Aérea Mexicana; a la persona titular de la Comandancia de la Guardia Nacional; a la persona titular de la Dirección General de la Agencia Federal de Aviación Civil, y a la persona titular de la Dirección General de Servicios a la Navegación en el [Espacio Aéreo Mexicano](articulo-5.md).
 
-También se podrá invitar a la persona titular del Instituto Nacional de Migración; a la persona titular de la Agencia Nacional de Aduanas de México; a la persona titular de la Dirección General del [Centro](articulo-5.md) Nacional de Inteligencia; a representantes de universidades públicas y privadas, y a las autoridades que por el ámbito de competencia se estime conveniente.
+También se podrá invitar a la persona titular del Instituto Nacional de Migración; a la persona titular de la Agencia Nacional de Aduanas de México; a la persona titular de la Dirección General del Centro Nacional de Inteligencia; a representantes de universidades públicas y privadas, y a las autoridades que por el ámbito de competencia se estime conveniente.
 
 Las personas invitadas tendrán derecho a voz, pero sin voto.

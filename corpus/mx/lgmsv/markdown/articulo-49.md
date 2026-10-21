@@ -63,7 +63,7 @@ a) Para las personas que conduzcan motocicletas queda prohibido hacerlo con una 
 
 b) Para vehículos destinados al transporte de pasajeros y de carga, queda prohibido conducir con cualquier concentración de alcohol por espiración o litro de sangre.
 
-La autoridad competente realizará el respectivo control de alcoholimetría mediante el método aprobado por la [Secretaría](articulo-3.md) de Salud Federal;
+La autoridad competente realizará el respectivo control de alcoholimetría mediante el método aprobado por la Secretaría de Salud Federal;
 
 XIII. La supervisión de pesos y dimensiones de todos los vehículos motorizados en todas sus modalidades deberán cumplir con las Normas Oficiales Mexicanas y demás leyes aplicables, y
 

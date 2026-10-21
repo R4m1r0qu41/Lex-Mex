@@ -17,7 +17,7 @@ source_sha256: 2beb1a3a5c23de93f1588ce6d4e4c209e73a8d747f19e3165706f38abcee8fe3
 
 # Artículo 177
 
-La aplicación de las medidas adoptadas por el [Instituto](articulo-2o.md) Mexicano de la Propiedad Industrial, sin perjuicio de lo dispuesto en los artículos 199 bis y 212 bis de la [Ley](articulo-2o.md) de la Propiedad Industrial, podrá recaer en:
+La aplicación de las medidas adoptadas por el Instituto Mexicano de la Propiedad Industrial, sin perjuicio de lo dispuesto en los artículos 199 bis y 212 bis de la [Ley](articulo-2o.md) de la Propiedad Industrial, podrá recaer en:
 
 I. Ejemplares de las obras, moldes, clisés, placas, libros, publicaciones periódicas, fonogramas y videogramas y en general, los instrumentos y los objetos fabricados, producidos o distribuidos en contravención a lo dispuesto por la Ley o este Reglamento;
 

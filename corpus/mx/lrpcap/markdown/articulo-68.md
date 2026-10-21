@@ -17,6 +17,6 @@ source_sha256: cf241af670623476911e625178a081e9e05921b4b6cc73ae92b41a47da45487a
 
 # Artículo 68
 
-Corresponde a la [Secretaría](articulo-2.md) de Relaciones Exteriores la decisión de conceder o no el asilo político, previa opinión de la Secretaría.
+Corresponde a la Secretaría de Relaciones Exteriores la decisión de conceder o no el asilo político, previa opinión de la [Secretaría](articulo-2.md).
 
 Artículo adicionado DOF 30-10-2014

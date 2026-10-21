@@ -19,7 +19,7 @@ source_sha256: 01b72308e67d46ba6ca8a6b07fb7584c6a74e905ea0c4b5be5c0c0d32a6d817a
 
 Para los efectos de este Reglamento, además de las definiciones previstas en el artículo [2](../../larefam/markdown/articulo-2.md) de la Ley, se entiende por:
 
-I. Centro Integral de Evaluación: El Centro Integral de Evaluación de la Sección Primera del [Estado Mayor](articulo-5.md) Conjunto de la Defensa Nacional responsable de la evaluación y pruebas de capacidad;
+I. Centro Integral de Evaluación: El Centro Integral de Evaluación de la Sección Primera del Estado Mayor Conjunto de la Defensa Nacional responsable de la evaluación y pruebas de capacidad;
 
 II. Concurso de selección: El conjunto de exámenes que tiene por objeto evaluar a la persona militar, la mejor calificada será seleccionada para desempeñarse en la jerarquía superior, en las promociones de especialistas y general;
 

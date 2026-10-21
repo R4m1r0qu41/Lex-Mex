@@ -15,7 +15,7 @@ source_sha256: 493282f369e52da50db28c4777119591852a52313e5bb1cef82d1bd453899bb0
 
 # Anexo 8
 
-Especificaciones del sistema de información desarrollado por un tercero para el cifrado de información compartida con la Comisión Nacional Bancaria y de [Valores](../../lritf/markdown/articulo-4.md) y el Banco de México
+Especificaciones del sistema de información desarrollado por un tercero para el cifrado de información compartida con la Comisión Nacional Bancaria y de Valores y el Banco de México
 
 Para efectos de este anexo, los términos con inicial mayúscula utilizados en este, en singular o plural, tendrán los mismos significados que los establecidos para dichos términos el Código de Comercio y las Reglas de la Infraestructura Extendida de Seguridad (IES), así como los siguientes:
 

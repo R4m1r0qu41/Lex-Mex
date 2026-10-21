@@ -17,7 +17,7 @@ source_sha256: d2a25adcb45f622bbbf2a4e58f1139fb5236961fe86de3dd9ad9de2dfa21d54e
 
 # Artículo 50-A
 
-Las sentencias que dicte el [Tribunal](articulo-1-A.md) Federal de Justicia Administrativa con motivo de las demandas que prevé la Ley Federal de Responsabilidad Patrimonial del Estado, deberán contener como elementos mínimos los siguientes: Párrafo reformado DOF 09-06-2026
+Las sentencias que dicte el Tribunal Federal de Justicia Administrativa con motivo de las demandas que prevé la Ley Federal de Responsabilidad Patrimonial del Estado, deberán contener como elementos mínimos los siguientes: Párrafo reformado DOF 09-06-2026
 
 I. El relativo a la existencia de la relación de causalidad entre la actividad administrativa y la lesión producida y la valoración del daño o perjuicio causado;
 

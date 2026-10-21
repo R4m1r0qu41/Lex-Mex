@@ -37,6 +37,6 @@ VI. Relación de representantes y de asociados, en su caso. Tratándose de repre
 
 Para efectos de las estructuras internas de las asociaciones religiosas, son asociados a quienes éstas les confieran ese carácter, conforme a los estatutos de las mismas. Dichas personas deberán ser mayores de edad;
 
-VII. Dos ejemplares del escrito con firmas autógrafas de las personas señaladas en la fracción anterior, donde se solicite a la [Secretaría](articulo-2o.md) de Relaciones Exteriores la celebración del convenio a que se refiere la fracción I del artículo [27](../../cpeum/markdown/articulo-27.md) de la Constitución Política de los Estados Unidos Mexicanos, y
+VII. Dos ejemplares del escrito con firmas autógrafas de las personas señaladas en la fracción anterior, donde se solicite a la Secretaría de Relaciones Exteriores la celebración del convenio a que se refiere la fracción I del artículo [27](../../cpeum/markdown/articulo-27.md) de la Constitución Política de los Estados Unidos Mexicanos, y
 
 VIII. Señalar, en su caso, a las personas autorizadas para oír y recibir todo tipo de notificaciones.

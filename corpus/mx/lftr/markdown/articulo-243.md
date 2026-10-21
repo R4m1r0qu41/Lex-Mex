@@ -20,4 +20,4 @@ source_sha256: a15012b33a415083f7714764c86fda8ed0078d3f5313dfc194c503f98a573a2a
 
 # Artículo 243
 
-Sólo podrá hacerse publicidad o anuncio de loterías, rifas y sorteos cuando éstos hayan sido previamente autorizados por la [Secretaría](articulo-3.md) de Gobernación.
+Sólo podrá hacerse publicidad o anuncio de loterías, rifas y sorteos cuando éstos hayan sido previamente autorizados por la Secretaría de Gobernación.

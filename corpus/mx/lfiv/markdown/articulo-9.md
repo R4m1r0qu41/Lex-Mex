@@ -19,7 +19,7 @@ source_sha256: db115e165edc517f5ad816da7be01e11727838a59b9e68906fe686685f4c5087
 
 Se crea la Comisión Intersecretarial de Fomento a la Industria Vitivinícola, como órgano de consulta y coordinación de la Administración Pública Federal, de conformidad con lo establecido en esta [Ley](articulo-3.md) y demás disposiciones aplicables.
 
-La Comisión se integrará por representantes de la [Secretaría](articulo-3.md) de Gobernación, Secretaría de Hacienda y Crédito Público, Secretaría de Relaciones Exteriores, Secretaría de Turismo, Secretaría de Educación Pública, Secretaría de Medio Ambiente y Recursos Naturales y Secretaría de Salud.
+La Comisión se integrará por representantes de la Secretaría de Gobernación, Secretaría de Hacienda y Crédito Público, Secretaría de Relaciones Exteriores, [Secretaría](articulo-3.md) de Turismo, Secretaría de Educación Pública, Secretaría de Medio Ambiente y Recursos Naturales y Secretaría de Salud.
 
 Los servidores públicos que integran la Comisión deberán tener un nivel mínimo de Director General, asimismo, podrán designar a sus suplentes quienes deberán tener un nivel mínimo de Director de Área.
 

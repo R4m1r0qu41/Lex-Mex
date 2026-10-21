@@ -37,7 +37,7 @@ Se considerará que la Institución de Seguros reincide en las infracciones señ
 
 VIII. Tratándose de Instituciones de Seguros autorizadas para operar el ramo de salud: a) Si la sociedad respectiva no presenta ante la Comisión el dictamen definitivo a que se refiere el artículo [41](articulo-41.md), fracción VII, de la presente Ley, dentro del término de noventa días contado a partir del otorgamiento de la autorización;
 
-b) Si no presenta a la Comisión, el dictamen de la [Secretaría](articulo-2.md) de Salud, en los términos del artículo [306](articulo-306.md) de esta Ley. En este caso se escuchará la opinión de la Secretaría de Salud, o
+b) Si no presenta a la Comisión, el dictamen de la Secretaría de Salud, en los términos del artículo [306](articulo-306.md) de esta Ley. En este caso se escuchará la opinión de la Secretaría de Salud, o
 
 c) Si en cualquier momento la Comisión tiene conocimiento de que dichas instituciones no mantienen los elementos necesarios para prestar los servicios materia de los contratos de seguro a que se refiere el artículo [27](articulo-27.md), fracción V, de este ordenamiento. Para este efecto, la Comisión solicitará la opinión previa de la Secretaría de Salud;
 

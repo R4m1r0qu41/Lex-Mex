@@ -33,7 +33,7 @@ IV. Secretaría de Hacienda y Crédito Público;
 
 V. Secretaría del Trabajo y Previsión Social;
 
-VI. Secretaría de [Comunicaciones](articulo-2.md) y Transportes;
+VI. Secretaría de Comunicaciones y Transportes;
 
 VII. Sistema Nacional para el Desarrollo Integral de la Familia;
 

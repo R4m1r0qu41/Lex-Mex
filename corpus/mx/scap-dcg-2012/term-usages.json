@@ -1540,6 +1540,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:7:term-usage:554-562",
+    "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:comision",
+    "span": "Comisión",
+    "start_char": 554,
+    "end_char": 562
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:7:term-usage:865-868",
     "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:7",
     "term_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:ley",
@@ -7504,24 +7513,6 @@
     "span": "Usuarios",
     "start_char": 5468,
     "end_char": 5476
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:17-bis-39:term-usage:5742-5750",
-    "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:17-bis-39",
-    "term_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:comision",
-    "span": "Comisión",
-    "start_char": 5742,
-    "end_char": 5750
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:17-bis-39:term-usage:5796-5804",
-    "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:17-bis-39",
-    "term_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:usuario",
-    "span": "Usuarios",
-    "start_char": 5796,
-    "end_char": 5804
   },
   {
     "schema_version": "0.1.0",

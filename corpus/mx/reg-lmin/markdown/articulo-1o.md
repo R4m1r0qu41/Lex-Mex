@@ -31,7 +31,7 @@ IV. Índice de Precios: el Índice Nacional de Precios al Consumidor publicado p
 
 V. INEGI: el Instituto Nacional de Estadística y Geografía;
 
-VI. GPS: el Sistema de [Posicionamiento](articulo-1o.md) Global; VII. Ley: la Ley Minera;
+VI. GPS: el Sistema de Posicionamiento Global; VII. Ley: la Ley Minera;
 
 VIII. Liga topográfica: la distancia horizontal y rumbo astronómico entre dos puntos, obtenida mediante equipos que utilizan el sistema de posicionamiento [GPS](articulo-1o.md);
 

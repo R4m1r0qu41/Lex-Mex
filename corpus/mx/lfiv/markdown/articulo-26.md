@@ -17,4 +17,4 @@ source_sha256: db115e165edc517f5ad816da7be01e11727838a59b9e68906fe686685f4c5087
 
 # Artículo 26
 
-La [Secretaría](articulo-3.md) de Relaciones Exteriores, en coordinación con la Comisión, apoyará al [Sector](articulo-3.md) promocionando al [Vino Mexicano](articulo-3.md) a través de todas sus representaciones, embajadas y consulados, dentro y fuera del territorio nacional, promoviendo la oferta y calidad del Vino Mexicano en el extranjero.
+La Secretaría de Relaciones Exteriores, en coordinación con la Comisión, apoyará al [Sector](articulo-3.md) promocionando al [Vino Mexicano](articulo-3.md) a través de todas sus representaciones, embajadas y consulados, dentro y fuera del territorio nacional, promoviendo la oferta y calidad del Vino Mexicano en el extranjero.

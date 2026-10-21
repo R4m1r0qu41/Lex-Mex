@@ -19,15 +19,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:1:term-usage:165-174",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:1",
-    "term_id": "urn:lex-mx:federal:statute:lgcc:term:emisiones",
-    "span": "Emisiones",
-    "start_char": 165,
-    "end_char": 174
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:1:term-usage:243-253",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:1",
     "term_id": "urn:lex-mx:federal:statute:lgcc:term:secretaria",
@@ -52,24 +43,6 @@
     "span": "Emisiones",
     "start_char": 226,
     "end_char": 235
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:2:term-usage:390-398",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lgcc:term:registro",
-    "span": "Registro",
-    "start_char": 390,
-    "end_char": 398
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:2:term-usage:402-411",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lgcc:term:emisiones",
-    "span": "Emisiones",
-    "start_char": 402,
-    "end_char": 411
   },
   {
     "schema_version": "0.1.0",

@@ -64,15 +64,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lce:article:4:term-usage:1905-1915",
-    "provision_id": "urn:lex-mx:federal:statute:lce:article:4",
-    "term_id": "urn:lex-mx:federal:statute:lce:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 1905,
-    "end_char": 1915
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lce:article:5:term-usage:21-31",
     "provision_id": "urn:lex-mx:federal:statute:lce:article:5",
     "term_id": "urn:lex-mx:federal:statute:lce:term:secretaria",
@@ -118,15 +109,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lce:article:7:term-usage:3-11",
-    "provision_id": "urn:lex-mx:federal:statute:lce:article:7",
-    "term_id": "urn:lex-mx:federal:statute:lce:term:comision",
-    "span": "Comisión",
-    "start_char": 3,
-    "end_char": 11
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lce:article:7:term-usage:180-188",
     "provision_id": "urn:lex-mx:federal:statute:lce:article:7",
     "term_id": "urn:lex-mx:federal:statute:lce:term:comision",
@@ -169,15 +151,6 @@
     "span": "Secretaría",
     "start_char": 665,
     "end_char": 675
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lce:article:11:term-usage:204-214",
-    "provision_id": "urn:lex-mx:federal:statute:lce:article:11",
-    "term_id": "urn:lex-mx:federal:statute:lce:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 204,
-    "end_char": 214
   },
   {
     "schema_version": "0.1.0",
@@ -691,15 +664,6 @@
     "span": "Secretaría",
     "start_char": 290,
     "end_char": 300
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lce:article:65:term-usage:3-13",
-    "provision_id": "urn:lex-mx:federal:statute:lce:article:65",
-    "term_id": "urn:lex-mx:federal:statute:lce:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 3,
-    "end_char": 13
   },
   {
     "schema_version": "0.1.0",
@@ -1225,15 +1189,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lce:article:94:term-usage:1736-1746",
-    "provision_id": "urn:lex-mx:federal:statute:lce:article:94",
-    "term_id": "urn:lex-mx:federal:statute:lce:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 1736,
-    "end_char": 1746
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lce:article:94:term-usage:1832-1842",
     "provision_id": "urn:lex-mx:federal:statute:lce:article:94",
     "term_id": "urn:lex-mx:federal:statute:lce:term:secretaria",
@@ -1258,15 +1213,6 @@
     "span": "Secretaría",
     "start_char": 957,
     "end_char": 967
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lce:article:98:term-usage:1433-1443",
-    "provision_id": "urn:lex-mx:federal:statute:lce:article:98",
-    "term_id": "urn:lex-mx:federal:statute:lce:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 1433,
-    "end_char": 1443
   },
   {
     "schema_version": "0.1.0",

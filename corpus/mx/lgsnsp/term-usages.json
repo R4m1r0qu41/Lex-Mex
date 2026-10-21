@@ -766,33 +766,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:16:term-usage:150-160",
-    "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:16",
-    "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 150,
-    "end_char": 160
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:16:term-usage:184-194",
-    "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:16",
-    "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 184,
-    "end_char": 194
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:16:term-usage:225-235",
-    "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:16",
-    "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 225,
-    "end_char": 235
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgsnsp:article:16:term-usage:373-393",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:16",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:conferencias-nacionales",
@@ -1069,33 +1042,6 @@
     "span": "Secretaría",
     "start_char": 383,
     "end_char": 393
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:20:term-usage:424-434",
-    "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:20",
-    "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 424,
-    "end_char": 434
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:20:term-usage:458-468",
-    "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:20",
-    "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 458,
-    "end_char": 468
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:20:term-usage:499-509",
-    "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:20",
-    "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 499,
-    "end_char": 509
   },
   {
     "schema_version": "0.1.0",
@@ -2170,15 +2116,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:40:term-usage:880-890",
-    "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:40",
-    "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 880,
-    "end_char": 890
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgsnsp:article:40:term-usage:1705-1739",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:40",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:instituciones-de-seguridad-publica",
@@ -2521,15 +2458,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:47:term-usage:5254-5264",
-    "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:47",
-    "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 5254,
-    "end_char": 5264
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgsnsp:article:47:term-usage:5368-5390",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:47",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:secretariado-ejecutivo",
@@ -2557,30 +2485,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:48:term-usage:585-595",
-    "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:48",
-    "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 585,
-    "end_char": 595
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgsnsp:article:48:term-usage:710-732",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:48",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:secretariado-ejecutivo",
     "span": "Secretariado Ejecutivo",
     "start_char": 710,
     "end_char": 732
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:48:term-usage:831-841",
-    "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:48",
-    "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 831,
-    "end_char": 841
   },
   {
     "schema_version": "0.1.0",
@@ -5392,6 +5302,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:transitory:segundo:term-usage:29-36",
+    "provision_id": "urn:lex-mx:federal:statute:lgsnsp:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:sistema",
+    "span": "Sistema",
+    "start_char": 29,
+    "end_char": 36
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgsnsp:transitory:cuarto:term-usage:188-210",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:transitory:cuarto",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:secretariado-ejecutivo",
@@ -5479,14 +5398,5 @@
     "span": "Instituciones de Seguridad Pública",
     "start_char": 48,
     "end_char": 82
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:transitory:noveno:term-usage:88-98",
-    "provision_id": "urn:lex-mx:federal:statute:lgsnsp:transitory:noveno",
-    "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 88,
-    "end_char": 98
   }
 ]

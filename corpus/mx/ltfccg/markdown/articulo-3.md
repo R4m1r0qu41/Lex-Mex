@@ -21,9 +21,9 @@ Para los efectos de esta Ley se entiende por:
 
 I. (Se deroga). Fracción reformada DOF 13-06-2003. Derogada DOF 15-06-2007
 
-II. Crédito Garantizado. El crédito que otorguen las Entidades con garantía real, ya sea a través de hipoteca, prenda, caución bursátil, fideicomiso de garantía o de cualquier otra forma, destinado a la adquisición, construcción, remodelación o refinanciamiento relativo a bienes inmuebles. Para efectos de esta definición, las operaciones que realicen las Entidades sujetas a la modalidad de compraventa con reserva de dominio, arrendamiento con opción de compra, compraventa en abonos, se equiparan al Crédito Garantizado y tendrán el mismo tratamiento que otorga la presente Ley. Fracción reformada DOF 13-06-2003
+II. Crédito Garantizado. El crédito que otorguen las [Entidades](articulo-3.md) con garantía real, ya sea a través de hipoteca, prenda, caución bursátil, fideicomiso de garantía o de cualquier otra forma, destinado a la adquisición, construcción, remodelación o refinanciamiento relativo a bienes inmuebles. Para efectos de esta definición, las operaciones que realicen las Entidades sujetas a la modalidad de compraventa con reserva de dominio, arrendamiento con opción de compra, compraventa en abonos, se equiparan al Crédito Garantizado y tendrán el mismo tratamiento que otorga la presente Ley. Fracción reformada DOF 13-06-2003
 
-III. Crédito Garantizado a la Vivienda. El Crédito Garantizado que se otorgue relacionado con vivienda.
+III. Crédito Garantizado a la Vivienda. El [Crédito Garantizado](articulo-3.md) que se otorgue relacionado con vivienda.
 
 IV. Desarrollador Inmobiliario. Es la empresa mercantil, propiedad de una persona física o moral, que se dedica de forma habitual a la construcción, remodelación o venta de bienes inmuebles, utilizando u otorgando Crédito Garantizado.
 
@@ -37,6 +37,6 @@ VIII. Subrogación de Deudor. Es la sustitución de Deudor en un Crédito Garant
 
 IX. Valuador profesional es la persona que cuenta con cédula profesional de postgrado en valuación expedida por la Secretaría de Educación Pública y que se encuentra autorizada para tal efecto por la Sociedad Hipotecaria Federal, S.N.C.; Fracción adicionada DOF 07-02-2005
 
-X. Controlador. Es el valuador profesional que tiene un poder especial para firmar en nombre y representación de la Unidad de Valuación correspondiente a los avalúos que ésta certifique; Fracción adicionada DOF 07-02-2005
+X. Controlador. Es el valuador profesional que tiene un poder especial para firmar en nombre y representación de la [Unidad de Valuación](articulo-3.md) correspondiente a los avalúos que ésta certifique; Fracción adicionada DOF 07-02-2005
 
 XI. Unidad de Valuación. Es la persona moral que se encuentra inscrita como tal en la Sociedad Hipotecaria Federal, S.N.C., de acuerdo a las disposiciones que ésta emita. Fracción adicionada DOF 07-02-2005

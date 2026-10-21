@@ -17,6 +17,6 @@ source_sha256: 1764c89edb8173050fe6bc08f57826ea93a131c7c83f4fc8c15f74de03fb07c3
 
 # Artículo 7
 
-Los avalúos de los bienes inmuebles objeto de Créditos Garantizados a la Vivienda deberán realizarse por peritos valuadores autorizados al efecto por la Sociedad Hipotecaria Federal, S.N.C. El acreditado tendrá el derecho a escoger al perito valuador que intervenga en la operación de entre el listado que le presente la Entidad.
+Los avalúos de los bienes inmuebles objeto de [Créditos Garantizados](articulo-3.md) a la Vivienda deberán realizarse por peritos valuadores autorizados al efecto por la Sociedad Hipotecaria Federal, S.N.C. El acreditado tendrá el derecho a escoger al perito valuador que intervenga en la operación de entre el listado que le presente la [Entidad](articulo-3.md).
 
 A efecto de lo anterior, la Sociedad Hipotecaria Federal, S.N.C. deberá establecer mediante reglas de carácter general los términos y condiciones para obtener la autorización de perito valuador, la que se renovará cada 3 años. Asimismo, la Sociedad Hipotecaria Federal, S.N.C. podrá establecer, a través de dichas reglas, la metodología para la valuación de los bienes inmuebles.

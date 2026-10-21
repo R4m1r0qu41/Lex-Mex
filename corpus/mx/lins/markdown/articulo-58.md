@@ -21,7 +21,7 @@ Los [Institutos Nacionales de Salud](articulo-2.md) podrán celebrar contratos c
 
 I. Definición de las responsabilidades que asuman las partes;
 
-II. La contraprestación establecida a favor del Instituto Nacional de Salud que corresponda, en términos de las bases que para tal efecto emita la [Secretaría](articulo-2.md) de Hacienda y Crédito Público, y
+II. La contraprestación establecida a favor del Instituto Nacional de Salud que corresponda, en términos de las bases que para tal efecto emita la Secretaría de Hacienda y Crédito Público, y
 
 III. Expresión de las demás estipulaciones que de común acuerdo establezcan las partes.
 

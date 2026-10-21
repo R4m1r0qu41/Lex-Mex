@@ -17,7 +17,7 @@ source_sha256: 2beb1a3a5c23de93f1588ce6d4e4c209e73a8d747f19e3165706f38abcee8fe3
 
 # Artículo 183
 
-Las resoluciones de trámite dictadas en el procedimiento de infracción en materia de comercio, serán notificadas a las partes por medio de listas fijadas en los estrados del [Instituto](articulo-2o.md) Mexicano de la Propiedad Industrial y surtirán efectos al día siguiente de su publicación. La misma regla regirá para los procedimientos seguidos en rebeldía, y para aquellos casos en que los presuntos infractores no señalen domicilio para oír y recibir notificaciones.
+Las resoluciones de trámite dictadas en el procedimiento de infracción en materia de comercio, serán notificadas a las partes por medio de listas fijadas en los estrados del Instituto Mexicano de la Propiedad Industrial y surtirán efectos al día siguiente de su publicación. La misma regla regirá para los procedimientos seguidos en rebeldía, y para aquellos casos en que los presuntos infractores no señalen domicilio para oír y recibir notificaciones.
 
 Las resoluciones definitivas serán publicadas en la Gaceta de la Propiedad Industrial y surtirán efectos al día siguiente de su puesta en circulación.
 

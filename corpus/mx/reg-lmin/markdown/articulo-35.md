@@ -23,11 +23,11 @@ I. Capacidad jurídica:
 
 a) Ser de nacionalidad mexicana tratándose de personas físicas;
 
-b) Estar inscritos en el [Registro](articulo-1o.md) Agrario Nacional, en el caso de ejidos o comunidades agrarias, mediante la constancia respectiva;
+b) Estar inscritos en el Registro Agrario Nacional, en el caso de ejidos o comunidades agrarias, mediante la constancia respectiva;
 
 c) Comprobar que cumplen con las condiciones y requerimientos establecidos en el artículo 11 de la Ley si se trata de personas morales, por medio de testimonio original o, en su caso, copia certificada notarial de su escritura constitutiva o de la que consigne sus estatutos vigentes, y
 
-d) Estar inscrita en el Registro en el caso de una sociedad minera, o bien, que se encuentra en trámite su inscripción en dicho Registro mediante la constancia respectiva;
+d) Estar inscrita en el [Registro](articulo-1o.md) en el caso de una sociedad minera, o bien, que se encuentra en trámite su inscripción en dicho Registro mediante la constancia respectiva;
 
 II. Capacidad técnica:
 

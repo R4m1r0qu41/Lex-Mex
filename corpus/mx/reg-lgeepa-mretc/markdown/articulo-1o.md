@@ -17,4 +17,4 @@ source_sha256: 71c334347de911b670b7e920a44db19f2555f611203ec25d227733687972f424
 
 # Artículo 1o
 
-El presente ordenamiento es de observancia general en todo el territorio nacional y en las zonas en donde la Nación ejerce su soberanía y jurisdicción, tiene por objeto reglamentar la [Ley](articulo-3o.md) General del Equilibrio Ecológico y la Protección al Ambiente en lo que se refiere al [Registro](articulo-3o.md) de [Emisiones](articulo-3o.md) y [Transferencia](articulo-3o.md) de Contaminantes.
+El presente ordenamiento es de observancia general en todo el territorio nacional y en las zonas en donde la Nación ejerce su soberanía y jurisdicción, tiene por objeto reglamentar la [Ley](articulo-3o.md) General del Equilibrio Ecológico y la Protección al Ambiente en lo que se refiere al [Registro](articulo-3o.md) de Emisiones y Transferencia de Contaminantes.

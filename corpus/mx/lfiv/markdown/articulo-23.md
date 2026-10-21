@@ -17,4 +17,4 @@ source_sha256: db115e165edc517f5ad816da7be01e11727838a59b9e68906fe686685f4c5087
 
 # Artículo 23
 
-La [Secretaría](articulo-3.md) de Educación Pública, en coordinación con la Comisión apoyará al [Sector](articulo-3.md) Vitivinícola promoviendo e impulsando en la educación media superior y superior las áreas encaminadas al estudio de la [Enología](articulo-3.md) y la [Viticultura](articulo-3.md).
+La Secretaría de Educación Pública, en coordinación con la Comisión apoyará al [Sector](articulo-3.md) Vitivinícola promoviendo e impulsando en la educación media superior y superior las áreas encaminadas al estudio de la [Enología](articulo-3.md) y la [Viticultura](articulo-3.md).

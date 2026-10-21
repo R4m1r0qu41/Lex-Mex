@@ -17,4 +17,4 @@ source_sha256: fa7447754261e46a344d4b49a9be0e1a5bd0eaf28c1ef12c721c124fe39e7b15
 
 # Artículo 35
 
-Con el objetivo de impulsar la transición a modelos de generación de energía eléctrica a partir de combustibles fósiles a tecnologías que generen menores emisiones, la [Secretaría](articulo-3o.md) de Energía establecerá políticas e incentivos para promover la utilización de tecnologías de bajas emisiones de carbono, considerando el combustible a utilizar.
+Con el objetivo de impulsar la transición a modelos de generación de energía eléctrica a partir de combustibles fósiles a tecnologías que generen menores emisiones, la Secretaría de Energía establecerá políticas e incentivos para promover la utilización de tecnologías de bajas emisiones de carbono, considerando el combustible a utilizar.

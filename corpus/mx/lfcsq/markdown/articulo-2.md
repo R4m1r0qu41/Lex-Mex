@@ -41,7 +41,7 @@ VI. Autoridad Nacional: Órgano auxiliar del [Consejo](articulo-2.md), cuya fina
 
 VII. CAS (Chemical Abstracts Service): Identificación numérica única para compuestos químicos, polímeros, secuencias biológicas preparadas y aleaciones, emitido por la Sociedad Química Americana;
 
-VIII. Centro: Centro Nacional de Inteligencia, órgano desconcentrado de la [Secretaría](articulo-2.md) de Seguridad y Protección Ciudadana; Fracción reformada DOF 14-06-2024
+VIII. Centro: Centro Nacional de Inteligencia, órgano desconcentrado de la Secretaría de Seguridad y Protección Ciudadana; Fracción reformada DOF 14-06-2024
 
 IX. Consejo: El Consejo de Seguridad Nacional previsto en la Ley de Seguridad Nacional;
 
@@ -55,7 +55,7 @@ XIV. Estados no Parte: Estados que no han consentido en obligarse por la Convenc
 
 XV. Grupo de Inspección Internacional: Conjunto de inspectores y ayudantes de inspección designados por el Director General de la [OPAQ](articulo-2.md) y aceptados por el Estado mexicano, que ingresan a territorio de la República o áreas bajo la jurisdicción del Estado mexicano para llevar a cabo una [Inspección Internacional](articulo-2.md);
 
-XVI. Grupo de Inspección Nacional: Conjunto de inspectores y ayudantes de inspección designados por la Secretaría, para la realización de inspecciones nacionales;
+XVI. Grupo de Inspección Nacional: Conjunto de inspectores y ayudantes de inspección designados por la [Secretaría](articulo-2.md), para la realización de inspecciones nacionales;
 
 XVII. Grupo Nacional de Acompañamiento: Servidores públicos mexicanos designados en cada caso por la Secretaría, para la realización de inspecciones internacionales y para vigilar las actividades de un [Grupo de Inspección Internacional](articulo-2.md) desde su entrada al territorio de la República o áreas bajo la jurisdicción del Estado mexicano hasta la salida del mismo;
 
@@ -75,7 +75,7 @@ XXIV. Normas Generales: Normas Generales de Verificación contenidas en la Parte
 
 XXV. OPAQ: Organización para la Prohibición de las Armas Químicas; XXVI. Polígono de Inspección: Toda instalación o zona sujeta a una Inspección Internacional o Nacional, vinculada con el desarrollo de Actividades Reguladas, que se haya definido específicamente en el correspondiente [Mandato de Inspección Internacional](articulo-2.md) o Nacional;
 
-XXVII. Registro: Registro Nacional para el Control de Sustancias Químicas Susceptibles de [Desvío](articulo-2.md) para la Fabricación de Armas Químicas;
+XXVII. Registro: Registro Nacional para el Control de Sustancias Químicas Susceptibles de Desvío para la Fabricación de Armas Químicas;
 
 XXVIII. Secretaría: Órgano ejecutivo de la [Autoridad Nacional](articulo-2.md) que recae en el [Centro](articulo-2.md), a través de la unidad administrativa denominada Dirección de Autoridad Nacional;
 

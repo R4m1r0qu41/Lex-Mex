@@ -17,4 +17,4 @@ source_sha256: aa96853f010885bdf85160e944e5c0ef5c3c8e95422dfede280d228cf064310a
 
 # Artículo 150
 
-La [Secretaría](articulo-3.md) de Medio Ambiente y Recursos Naturales debe establecer, a través de Normas Oficiales Mexicanas y los demás instrumentos o disposiciones aplicables, las obligaciones de reducción de emisiones contaminantes relativas al sector eléctrico.
+La Secretaría de Medio Ambiente y Recursos Naturales debe establecer, a través de Normas Oficiales Mexicanas y los demás instrumentos o disposiciones aplicables, las obligaciones de reducción de emisiones contaminantes relativas al sector eléctrico.

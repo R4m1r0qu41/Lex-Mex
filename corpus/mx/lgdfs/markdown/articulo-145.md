@@ -17,7 +17,7 @@ source_sha256: 2c75fd0eab3245aed43a4e1230dcd142b48959a1df09bdd4e70684935a505dd4
 
 # Artículo 145
 
-En materia de educación y capacitación, la [Comisión](articulo-7.md), en coordinación con la [Secretaría](articulo-7.md) de Educación Pública y con las demás dependencias o entidades competentes de los tres órdenes de gobierno, así como de los sectores social y privado, realizará las siguientes acciones:
+En materia de educación y capacitación, la [Comisión](articulo-7.md), en coordinación con la Secretaría de Educación Pública y con las demás dependencias o entidades competentes de los tres órdenes de gobierno, así como de los sectores social y privado, realizará las siguientes acciones:
 
 I. Promover a través de los Centros de Educación y Capacitación Forestal, la formación, capacitación y actualización de técnicos forestales;
 

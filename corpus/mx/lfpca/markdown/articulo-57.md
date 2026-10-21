@@ -17,7 +17,7 @@ source_sha256: d2a25adcb45f622bbbf2a4e58f1139fb5236961fe86de3dd9ad9de2dfa21d54e
 
 # Artículo 57
 
-Las autoridades demandadas y cualesquiera otra autoridad relacionada, están obligadas a cumplir las sentencias del [Tribunal](articulo-1-A.md) Federal de Justicia Administrativa, conforme a lo siguiente: Párrafo reformado DOF 09-06-2026
+Las autoridades demandadas y cualesquiera otra autoridad relacionada, están obligadas a cumplir las sentencias del Tribunal Federal de Justicia Administrativa, conforme a lo siguiente: Párrafo reformado DOF 09-06-2026
 
 I. En los casos en los que la sentencia declare la nulidad y ésta se funde en alguna de las siguientes causales:
 

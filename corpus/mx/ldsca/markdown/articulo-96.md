@@ -35,6 +35,6 @@ g) Determinación de brix o sólidos totales en jugo mezclado;
 
 h) Cálculos para obtener los datos promedio ponderados del día, de la semana y acumulados al término de la zafra del porciento de pol en caña y el porciento de fibra en caña, así como la pol y el brix del jugo mezclado para determinar su pureza, y
 
-i) Verificación de la instalación en los Ingenios de los equipos necesarios y su correcta operación, así como de la aplicación debida de las normas mexicanas vigentes y disposiciones que correspondan emitidas por la Dirección General de Normas de la [Secretaría](articulo-3.md) de Economía.
+i) Verificación de la instalación en los Ingenios de los equipos necesarios y su correcta operación, así como de la aplicación debida de las normas mexicanas vigentes y disposiciones que correspondan emitidas por la Dirección General de Normas de la Secretaría de Economía.
 
 En caso de que las Organizaciones nombren representantes para vigilar y participar en la determinación de los parámetros utilizados en el cálculo del azúcar recuperable de la caña industrializada, deberán firmar conjuntamente con el personal del Ingenio encargado de dichas actividades los resultados diarios obtenidos. En caso de divergencia, las partes manifestarán su inconformidad levantando el acta respectiva que harán del conocimiento inmediato del [Comité](articulo-3.md) del Ingenio de que se trate.

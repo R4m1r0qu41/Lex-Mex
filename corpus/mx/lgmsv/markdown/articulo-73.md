@@ -17,7 +17,7 @@ source_sha256: 79f2b255a142d1756d7e8c13244af6dc8c4f2f474acaf0d669f2b156b022fc03
 
 # Artículo 73
 
-Secretaría de Salud. Corresponden a la [Secretaría](articulo-3.md) de Salud, a través del Secretariado Técnico del Consejo Nacional para la Prevención de Accidentes, las siguientes atribuciones:
+Secretaría de Salud. Corresponden a la Secretaría de Salud, a través del Secretariado Técnico del Consejo Nacional para la Prevención de Accidentes, las siguientes atribuciones:
 
 I. Elaborar guías de práctica clínica y protocolos que permitan mejorar la calidad de la atención médica prehospitalaria e intrahospitalaria por siniestros de tránsito;
 

@@ -72,7 +72,7 @@ XXVI. Infraestructura activa: Elementos de las redes de telecomunicaciones o rad
 
 XXVII. Infraestructura pasiva: Elementos accesorios que proporcionan soporte a la infraestructura activa, entre otros, bastidores, cableado subterráneo y aéreo, canalizaciones, construcciones, ductos, obras, postes, sistemas de suministro y respaldo de energía eléctrica, sistemas de climatización, sitios, torres y demás aditamentos, incluyendo derechos de vía, que sean necesarios para la instalación y operación de las redes, así como para la prestación de servicios de telecomunicaciones y radiodifusión;
 
-XXVIII. Instituto: Instituto Federal de [Telecomunicaciones](articulo-3.md);
+XXVIII. Instituto: Instituto Federal de Telecomunicaciones;
 
 XXIX. Insumos esenciales: Elementos de red o servicios que se proporcionan por un solo concesionario o un reducido número de concesionarios, cuya reproducción no es viable desde un punto de vista técnico, legal o económico y son insumos indispensables para la prestación de los servicios de telecomunicaciones y de radiodifusión. En los casos no previstos en esta Ley, el Instituto determinará la existencia y regulación al acceso de insumos esenciales en términos de lo dispuesto por la Ley Federal de Competencia Económica;
 

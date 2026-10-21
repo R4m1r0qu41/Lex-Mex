@@ -20,4 +20,4 @@ source_sha256: a15012b33a415083f7714764c86fda8ed0078d3f5313dfc194c503f98a573a2a
 
 # Artículo 221
 
-El [Instituto](articulo-3.md) Nacional Electoral tendrá las atribuciones que se establecen en la Ley General de Instituciones y Procedimientos Electorales y demás disposiciones aplicables en la materia.
+El Instituto Nacional Electoral tendrá las atribuciones que se establecen en la Ley General de Instituciones y Procedimientos Electorales y demás disposiciones aplicables en la materia.

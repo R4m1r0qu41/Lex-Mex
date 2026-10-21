@@ -19,7 +19,7 @@ source_sha256: f16b066f28d00980415d75d52b7165cbba892a37c4881f3b6b6cf122c57eb926
 
 Se entiende por despacho vía la pesca, la autorización a una embarcación para que se haga a la mar con el objeto de realizar actividades pesqueras.
 
-La capitanía de puerto estará obligada a expedir un despacho por cada embarcación pesquera. El plazo de vigencia del despacho será el mismo que se establezca para la vigencia de las concesiones o permisos que emita la [Secretaría](articulo-2.md) de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación para la actividad pesquera que se haya solicitado en dicho despacho. Párrafo reformado DOF 19-12-2016
+La capitanía de puerto estará obligada a expedir un despacho por cada embarcación pesquera. El plazo de vigencia del despacho será el mismo que se establezca para la vigencia de las concesiones o permisos que emita la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación para la actividad pesquera que se haya solicitado en dicho despacho. Párrafo reformado DOF 19-12-2016
 
 La capitanía de puerto deberá suspender el despacho vía la pesca cuando:
 

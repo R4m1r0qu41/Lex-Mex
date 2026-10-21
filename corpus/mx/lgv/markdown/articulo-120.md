@@ -39,7 +39,7 @@ IX. No obstaculizar ni condicionar el acceso de la víctima a la justicia y la v
 
 X. Presentar ante el Ministerio Público, o en su caso, ante los organismos públicos de derechos humanos, las denuncias y quejas que en cumplimiento de esta Ley reciban. Dicha presentación oficial deberá hacerse dentro de los tres días hábiles contados a partir de que la víctima, o su representante, formuló o entregó la misma;
 
-XI. Ingresar a la víctima al [Registro](articulo-6.md) Nacional de [Víctimas](articulo-6.md), cuando así lo imponga su competencia;
+XI. Ingresar a la víctima al [Registro](articulo-6.md) Nacional de Víctimas, cuando así lo imponga su competencia;
 
 XII. Aportar a la autoridad correspondiente los documentos, indicios o pruebas que obren en su poder, cuando éstos le sean requeridos o se relacionen con la denuncia, queja o solicitud que la víctima haya presentado en los términos de la presente Ley;
 

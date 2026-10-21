@@ -235,24 +235,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcg:article:77:term-usage:767-774",
-    "provision_id": "urn:lex-mx:federal:statute:lgcg:article:77",
-    "term_id": "urn:lex-mx:federal:statute:lgcg:term:consejo",
-    "span": "Consejo",
-    "start_char": 767,
-    "end_char": 774
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcg:article:77:term-usage:886-893",
-    "provision_id": "urn:lex-mx:federal:statute:lgcg:article:77",
-    "term_id": "urn:lex-mx:federal:statute:lgcg:term:consejo",
-    "span": "Consejo",
-    "start_char": 886,
-    "end_char": 893
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgcg:article:78:term-usage:1983-2005",
     "provision_id": "urn:lex-mx:federal:statute:lgcg:article:78",
     "term_id": "urn:lex-mx:federal:statute:lgcg:term:secretaria-de-hacienda",

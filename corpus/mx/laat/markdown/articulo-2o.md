@@ -19,7 +19,7 @@ source_sha256: 2e6462a9ddd472efe129d2285c1602316c91640646847da74dbf13363c5238fb
 
 Para efectos de la presente Ley se entenderá por:
 
-I. Dieta correcta. Aquella que es completa, equilibrada, saludable, suficiente, variada y adecuada, en términos de las disposiciones que al efecto expida la [Secretaría](articulo-2o.md) de Salud;
+I. Dieta correcta. Aquella que es completa, equilibrada, saludable, suficiente, variada y adecuada, en términos de las disposiciones que al efecto expida la Secretaría de Salud;
 
 II. Normas. A las normas oficiales mexicanas;
 

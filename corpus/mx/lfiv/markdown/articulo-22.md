@@ -17,4 +17,4 @@ source_sha256: db115e165edc517f5ad816da7be01e11727838a59b9e68906fe686685f4c5087
 
 # Artículo 22
 
-La [Secretaría](articulo-3.md) de Hacienda y Crédito Público en coordinación con la Comisión apoyará al [Sector](articulo-3.md) a actualizar la incorporación de los productores nacionales al padrón de exportadores.
+La Secretaría de Hacienda y Crédito Público en coordinación con la Comisión apoyará al [Sector](articulo-3.md) a actualizar la incorporación de los productores nacionales al padrón de exportadores.

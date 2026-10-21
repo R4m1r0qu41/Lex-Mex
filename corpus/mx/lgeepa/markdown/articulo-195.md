@@ -17,7 +17,7 @@ source_sha256: 0574853d06020030188e8aee1eae5dabb2b476ac630cc52be631a48d2b91adbc
 
 # Artículo 195
 
-Si del resultado de la investigación realizada por la Procuraduría Federal de [Protección](articulo-3o.md) al [Ambiente](articulo-3o.md), se desprende que se trata de actos, hechos u omisiones en que hubieren incurrido autoridades federales, estatales o municipales, emitirá las recomendaciones necesarias para promover ante éstas la ejecución de las acciones procedentes.
+Si del resultado de la investigación realizada por la Procuraduría Federal de Protección al Ambiente, se desprende que se trata de actos, hechos u omisiones en que hubieren incurrido autoridades federales, estatales o municipales, emitirá las recomendaciones necesarias para promover ante éstas la ejecución de las acciones procedentes.
 
 Las recomendaciones que emita la Procuraduría Federal de Protección al Ambiente serán públicas, autónomas y no vinculatorias.
 

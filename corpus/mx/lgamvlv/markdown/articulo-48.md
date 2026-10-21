@@ -31,7 +31,7 @@ V. Elaborar y promover, en colaboración con la Secretaría de las Mujeres, dire
 
 VI. Vigilar y sancionar conforme a la [Ley](articulo-5.md) en la materia, a los medios de comunicación que incumplan las directrices señaladas en la fracción anterior;
 
-VII. Desarrollar e implementar acciones y estrategias con perspectiva de género para la protección de las niñas, niños y adolescentes víctimas del delito, en coordinación con la Comisión Ejecutiva de Atención a [Víctimas](articulo-5.md);
+VII. Desarrollar e implementar acciones y estrategias con perspectiva de género para la protección de las niñas, niños y adolescentes víctimas del delito, en coordinación con la Comisión Ejecutiva de Atención a Víctimas;
 
 VIII. Coadyuvar en la difusión a través de diversos medios de comunicación, de los resultados del Sistema Nacional y del Programa que proporcione la Secretaría de las Mujeres;
 

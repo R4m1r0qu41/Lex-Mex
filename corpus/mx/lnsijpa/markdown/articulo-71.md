@@ -31,7 +31,7 @@ Que para su ejercicio tendrá las siguientes atribuciones:
 
 I. Celebrar convenios con instituciones públicas y privadas para el cumplimiento de lo dispuesto en el presente artículo;
 
-II. Coordinar acciones con las demás autoridades del [Sistema](articulo-3.md) Integral de Justicia Penal para [Adolescentes](articulo-3.md);
+II. Coordinar acciones con las demás autoridades del [Sistema](articulo-3.md) Integral de Justicia Penal para Adolescentes;
 
 III. Diseñar y ejecutar el [Plan Individualizado de Actividades](articulo-3.md), así como el [Plan Individualizado de Ejecución](articulo-3.md);
 

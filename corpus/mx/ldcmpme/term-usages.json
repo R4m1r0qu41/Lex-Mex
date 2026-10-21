@@ -64,15 +64,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldcmpme:article:3:term-usage:350-360",
-    "provision_id": "urn:lex-mx:federal:statute:ldcmpme:article:3",
-    "term_id": "urn:lex-mx:federal:statute:ldcmpme:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 350,
-    "end_char": 360
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:ldcmpme:article:3:term-usage:513-519",
     "provision_id": "urn:lex-mx:federal:statute:ldcmpme:article:3",
     "term_id": "urn:lex-mx:federal:statute:ldcmpme:term:sectores",
@@ -142,24 +133,6 @@
     "span": "Ley",
     "start_char": 3139,
     "end_char": 3142
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldcmpme:article:3:term-usage:3204-3218",
-    "provision_id": "urn:lex-mx:federal:statute:ldcmpme:article:3",
-    "term_id": "urn:lex-mx:federal:statute:ldcmpme:term:competitividad",
-    "span": "Competitividad",
-    "start_char": 3204,
-    "end_char": 3218
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldcmpme:article:3:term-usage:3301-3315",
-    "provision_id": "urn:lex-mx:federal:statute:ldcmpme:article:3",
-    "term_id": "urn:lex-mx:federal:statute:ldcmpme:term:competitividad",
-    "span": "Competitividad",
-    "start_char": 3301,
-    "end_char": 3315
   },
   {
     "schema_version": "0.1.0",
@@ -1213,15 +1186,6 @@
     "span": "Consejo",
     "start_char": 3,
     "end_char": 10
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldcmpme:article:18:term-usage:786-793",
-    "provision_id": "urn:lex-mx:federal:statute:ldcmpme:article:18",
-    "term_id": "urn:lex-mx:federal:statute:ldcmpme:term:consejo",
-    "span": "Consejo",
-    "start_char": 786,
-    "end_char": 793
   },
   {
     "schema_version": "0.1.0",

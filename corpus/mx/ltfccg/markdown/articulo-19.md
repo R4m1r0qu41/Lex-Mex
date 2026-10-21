@@ -17,6 +17,6 @@ source_sha256: 1764c89edb8173050fe6bc08f57826ea93a131c7c83f4fc8c15f74de03fb07c3
 
 # Artículo 19
 
-Sin perjuicio de lo dispuesto en los artículos [13](articulo-13.md), [14](articulo-14.md) y [15](articulo-15.md) de la presente Ley y con el objetivo de lograr una mayor disminución de los costos de transacción para la Subrogación de Deudor y la Subrogación de Acreedor, la Secretaría de Economía podrá celebrar convenios de coordinación con los Estados y Municipios para eliminar los costos registrales y los aranceles notariales, procurando que en los casos de subrogación no se carguen los mismos costos de una nueva transacción, y si es posible, eliminarlos. Lo anterior, con el objeto de beneficiar a los acreditados a incentivar la reactivación del crédito.
+Sin perjuicio de lo dispuesto en los artículos [13](articulo-13.md), [14](articulo-14.md) y [15](articulo-15.md) de la presente Ley y con el objetivo de lograr una mayor disminución de los costos de transacción para la [Subrogación de Deudor](articulo-3.md) y la [Subrogación de Acreedor](articulo-3.md), la Secretaría de Economía podrá celebrar convenios de coordinación con los Estados y Municipios para eliminar los costos registrales y los aranceles notariales, procurando que en los casos de subrogación no se carguen los mismos costos de una nueva transacción, y si es posible, eliminarlos. Lo anterior, con el objeto de beneficiar a los acreditados a incentivar la reactivación del crédito.
 
 Artículo reformado DOF 10-01-2014

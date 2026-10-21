@@ -17,7 +17,7 @@ source_sha256: 1e049d88e21ced9b995b6727c474bcffdfd4e1a0dd4d09d2bb41ce994fe08416
 
 # Artículo 279
 
-Los beneficiarios de fianzas deberán presentar sus reclamaciones por responsabilidades derivadas de los derechos y obligaciones que consten en la póliza respectiva, directamente ante la [Institución](articulo-2.md). En caso que ésta no le dé contestación dentro del término legal o que exista inconformidad respecto de la resolución emitida por la misma, el reclamante podrá, a su elección, hacer valer sus derechos ante la [Comisión](articulo-2.md) Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros o bien, ante los tribunales competentes en los términos previstos por el artículo [280](articulo-280.md) de esta Ley.
+Los beneficiarios de fianzas deberán presentar sus reclamaciones por responsabilidades derivadas de los derechos y obligaciones que consten en la póliza respectiva, directamente ante la [Institución](articulo-2.md). En caso que ésta no le dé contestación dentro del término legal o que exista inconformidad respecto de la resolución emitida por la misma, el reclamante podrá, a su elección, hacer valer sus derechos ante la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros o bien, ante los tribunales competentes en los términos previstos por el artículo [280](articulo-280.md) de esta Ley.
 
 En las reclamaciones en contra de las Instituciones, se observará lo siguiente:
 

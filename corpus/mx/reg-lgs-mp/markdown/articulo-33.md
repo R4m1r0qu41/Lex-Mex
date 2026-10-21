@@ -17,4 +17,4 @@ source_sha256: 0fb9b74e27b7abf66250404ef5ec1c68acdc460e9cff5b381f49224ec6f71003
 
 # Artículo 33
 
-La publicidad de bebidas alcohólicas en radio y televisión, sólo podrá difundirse durante los horarios autorizados por la [Secretaría](articulo-2.md) de Gobernación, de conformidad con las disposiciones aplicables, y en las salas cinematográficas sólo en películas para adultos, correspondientes a las clasificaciones “C” y “D”.
+La publicidad de bebidas alcohólicas en radio y televisión, sólo podrá difundirse durante los horarios autorizados por la Secretaría de Gobernación, de conformidad con las disposiciones aplicables, y en las salas cinematográficas sólo en películas para adultos, correspondientes a las clasificaciones “C” y “D”.

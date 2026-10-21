@@ -17,4 +17,4 @@ source_sha256: d25fabb2d2e90d9f76028717f83c442d05a4f64024f13461285bda8ebd389a04
 
 # Artículo 77
 
-La [Secretaría](articulo-3o.md) de Marina coadyuvará con la Secretaría en las acciones de inspección y vigilancia de los programas de ordenamiento ecológico marino.
+La Secretaría de Marina coadyuvará con la [Secretaría](articulo-3o.md) en las acciones de inspección y vigilancia de los programas de ordenamiento ecológico marino.

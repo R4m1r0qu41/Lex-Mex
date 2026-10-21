@@ -21,7 +21,7 @@ Denominación o posible denominación de la institución de tecnología financie
 
 Fecha de elaboración (dd/mm/aaaa)
 
-Esta información forma parte de la solicitud presentada ante la Comisión Nacional Bancaria y de [Valores](../../lritf/markdown/articulo-4.md), su contenido es confidencial y podrá ser objeto de revisión y verificación.
+Esta información forma parte de la solicitud presentada ante la Comisión Nacional Bancaria y de Valores, su contenido es confidencial y podrá ser objeto de revisión y verificación.
 
 Instrucciones de llenado
 

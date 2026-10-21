@@ -19,7 +19,7 @@ source_sha256: 02ff746c921b436a1ab6c74e5f1bc429976595b1b0f82cb8c5b50db1004128c1
 
 La Junta de Gobierno estará integrada por el Secretario de Hacienda y Crédito Público, quien la presidirá, el Presidente de la Comisión, dos vicepresidentes de la misma y otros trece vocales. Párrafo reformado DOF 15-06-2007
 
-Dichos vocales serán el Secretario del Trabajo y Previsión Social, el Gobernador del Banco de México, el Subsecretario de Hacienda y Crédito Público, el Director General del Instituto Mexicano del Seguro Social, el Director General del Instituto del Fondo Nacional de la Vivienda para los [Trabajadores](articulo-3o.md), el Director General del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, el Presidente de la Comisión Nacional Bancaria y de Valores y el Presidente de la Comisión Nacional de Seguros y Fianzas.
+Dichos vocales serán el Secretario del Trabajo y Previsión Social, el Gobernador del Banco de México, el Subsecretario de Hacienda y Crédito Público, el Director General del Instituto Mexicano del Seguro Social, el Director General del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, el Director General del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, el Presidente de la Comisión Nacional Bancaria y de Valores y el Presidente de la Comisión Nacional de Seguros y Fianzas.
 
 Los cinco vocales restantes serán designados por el Secretario de Hacienda y Crédito Público debiendo ser cuatro representantes de las organizaciones nacionales de trabajadores y uno de los correspondientes a los patrones, que formen parte del Comité Consultivo y de Vigilancia y que ostenten la mayor representatividad. Párrafo reformado DOF 15-06-2007
 

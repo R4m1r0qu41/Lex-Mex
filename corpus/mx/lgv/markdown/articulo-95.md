@@ -27,7 +27,7 @@ III. Crear los lineamientos, mecanismos, instrumentos e indicadores para el segu
 
 IV. Notificar a los integrantes del [Sistema](articulo-6.md) los acuerdos asumidos y dar seguimiento a los mismos; Fracción reformada DOF 03-01-2017
 
-V. Coordinar las funciones del [Registro](articulo-6.md) Nacional de [Víctimas](articulo-6.md), incluido el registro federal, mediante la creación de lineamientos, mecanismos, instrumentos e indicadores para implementar y vigilar el debido funcionamiento de dicho registro;
+V. Coordinar las funciones del [Registro](articulo-6.md) Nacional de Víctimas, incluido el registro federal, mediante la creación de lineamientos, mecanismos, instrumentos e indicadores para implementar y vigilar el debido funcionamiento de dicho registro;
 
 VI. Rendir cuentas a la Cámara de Diputados cuando sea requerido, sobre las funciones encomendadas a la Comisión Ejecutiva y a las áreas que la integran; Fracción reformada DOF 06-11-2020
 

@@ -2410,7 +2410,8 @@ fn extract_instrument_terms(
         usages
     } else {
         let definitions = term_definitions(&term_sets, provisions, siblings);
-        let index = title_index(&title_phrases(&context.root, instrument, siblings)?)?;
+        let phrases = title_phrases(&context.root, instrument, siblings, &terms, provisions)?;
+        let index = title_index(&phrases)?;
         drop_usages_in_titles(usages, provisions, &definitions, &index)
     };
     let imports = additive_to
@@ -2428,13 +2429,17 @@ fn extract_instrument_terms(
     })
 }
 
-/// Instrument titles as usage boundaries: every committed instrument's
-/// official title with more than one word, and every curated multi-word
-/// alias whose instrument is committed, lower-cased.
+/// Instrument titles and institution names as usage boundaries: every
+/// committed instrument's official title with more than one word, every
+/// curated multi-word alias whose instrument is committed, and every
+/// institution's full name a glossary prints as a definition
+/// ([`institution_names`]), lower-cased.
 fn title_phrases(
     root: &Path,
     instrument: &Instrument,
     siblings: &[(&str, &Corpus)],
+    terms: &[lex_core::DefinedTerm],
+    provisions: &[lex_core::Provision],
 ) -> Result<Vec<String>> {
     let mut instruments: Vec<&Instrument> = vec![instrument];
     instruments.extend(siblings.iter().map(|(_, corpus)| &corpus.instrument));
@@ -2461,7 +2466,146 @@ fn title_phrases(
             }
         }
     }
+    phrases.extend(institution_names(terms, provisions));
+    for (_, corpus) in siblings {
+        phrases.extend(committed_institution_names(corpus)?);
+    }
     Ok(phrases.into_iter().collect())
+}
+
+/// [`institution_names`] of a committed corpus, kept per instrument because
+/// `link --all` asks for every sibling's once per instrument.
+fn committed_institution_names(corpus: &Corpus) -> Result<Vec<String>> {
+    type Cache = HashMap<String, (String, Vec<String>)>;
+    static CACHE: std::sync::Mutex<Option<Cache>> = std::sync::Mutex::new(None);
+    let fingerprint = corpus
+        .terms
+        .iter()
+        .map(|term| format!("{}@{}-{}", term.id, term.start_char, term.end_char))
+        .chain(std::iter::once(
+            corpus.instrument.extracted_text_sha256.clone(),
+        ))
+        .collect::<Vec<_>>()
+        .join(",");
+    let mut cache = CACHE
+        .lock()
+        .map_err(|_| anyhow::anyhow!("institution name cache poisoned"))?;
+    let cache = cache.get_or_insert_with(HashMap::new);
+    if let Some((cached, names)) = cache.get(&corpus.instrument.id)
+        && *cached == fingerprint
+    {
+        return Ok(names.clone());
+    }
+    let names = institution_names(&corpus.terms, &corpus.provisions);
+    cache.insert(corpus.instrument.id.clone(), (fingerprint, names.clone()));
+    Ok(names)
+}
+
+/// Words that name an institution or a part of one.
+const INSTITUTION_WORDS: &[&str] = &[
+    "Administración",
+    "Agencia",
+    "Auditoría",
+    "Banco",
+    "Cámara",
+    "Centro",
+    "Comisión",
+    "Consejo",
+    "Coordinación",
+    "Dirección",
+    "Fiscalía",
+    "Fondo",
+    "Instituto",
+    "Junta",
+    "Oficina",
+    "Organismo",
+    "Procuraduría",
+    "Registro",
+    "Secretaría",
+    "Servicio",
+    "Sistema",
+    "Subsecretaría",
+    "Suprema",
+    "Tribunal",
+    "Unidad",
+];
+
+/// The full names of institutions that glossaries define, lower-cased: a
+/// definition that opens with one (`Secretaría: Secretaría de Medio Ambiente
+/// y Recursos Naturales`; `Procuraduría: La Procuraduría Federal de
+/// Protección al Ambiente`). A term inside such a name is the name's word,
+/// not a use of the term (LGEEPA's `Ambiente` in the Procuraduría's name;
+/// `Secretaría`, defined as the Secretaría de Economía, in `Secretaría de
+/// Hacienda y Crédito Público`), unless the term's own definition names it
+/// (operator 2026-10-20: "when in doubt use the full exact name"). A name
+/// counts only with three or more words, and not when it refers to another
+/// body inside it: a name ending in an institution word or an abbreviation
+/// (`Consejo Técnico del Instituto`, `Consejo Consultivo de la AMEXCID`),
+/// or with an institution word followed by a connector or the end
+/// (`Fiscalía Especializada de la Fiscalía y de las Procuradurías`).
+fn institution_names(
+    terms: &[lex_core::DefinedTerm],
+    provisions: &[lex_core::Provision],
+) -> Vec<String> {
+    static NAME: std::sync::LazyLock<Regex> = std::sync::LazyLock::new(|| {
+        let institution = INSTITUTION_WORDS.join("|");
+        let word = r"[A-ZÁÉÍÓÚÑ][\wáéíóúñü-]*";
+        let connector = r"(?:de|del|la|las|los|el|y|e|para|al|en|a)";
+        Regex::new(&format!(
+            r#"\A[\s"“”:,.;-]*(?:(?:La|El|Los|Las|la|el|los|las|a la|al|A la|Al)\s+)?((?:{institution})(?:\s+(?:{connector}\s+)*{word})+)"#
+        ))
+        .expect("institution name regex must compile")
+    });
+    let connectors = [
+        "de", "del", "la", "las", "los", "el", "y", "e", "para", "al", "en", "a",
+    ];
+    let institution_word = |word: &str| {
+        INSTITUTION_WORDS
+            .iter()
+            .any(|institution| word == *institution || word.strip_suffix('s') == Some(institution))
+    };
+    let texts: HashMap<&str, &str> = provisions
+        .iter()
+        .map(|provision| (provision.id.as_str(), provision.text.as_str()))
+        .collect();
+    let mut names = BTreeSet::new();
+    for term in terms {
+        let Some(text) = texts.get(term.defining_provision_id.as_str()) else {
+            continue;
+        };
+        let entry: String = text
+            .chars()
+            .skip(term.start_char)
+            .take(term.end_char.saturating_sub(term.start_char))
+            .collect();
+        let Some(after) = entry
+            .find(&term.term)
+            .map(|at| &entry[at + term.term.len()..])
+        else {
+            continue;
+        };
+        let Some(found) = NAME.captures(after).and_then(|captures| captures.get(1)) else {
+            continue;
+        };
+        let mut words: Vec<&str> = found.as_str().split_whitespace().collect();
+        while words.last().is_some_and(|word| connectors.contains(word)) {
+            words.pop();
+        }
+        let Some(last) = words.last() else {
+            continue;
+        };
+        let refers_inside = words.iter().enumerate().skip(1).any(|(index, word)| {
+            institution_word(word)
+                && words
+                    .get(index + 1)
+                    .is_none_or(|next| connectors.contains(next))
+        });
+        let abbreviation = last.chars().count() > 1 && last.chars().all(|c| !c.is_lowercase());
+        if words.len() >= 3 && !refers_inside && !abbreviation && !institution_word(last) {
+            names.insert(words.join(" ").to_lowercase());
+        }
+    }
+    names.into_iter().collect()
 }
 
 /// Instrument titles, lower-cased with single spaces, indexed by their first
@@ -5137,6 +5281,111 @@ mod tests {
                 // Inside the Reglamento's title, `Ley` is still the title it
                 // is defined as.
                 ("ley".to_owned(), at("Ley", 3)),
+            ]
+        );
+    }
+
+    #[test]
+    fn a_term_inside_an_institution_name_a_glossary_defines_is_not_a_usage() {
+        let glossary = "Para los efectos de esta Ley se entiende por:\n\n\
+             I. Ambiente: El conjunto de elementos naturales;\n\n\
+             II. Procuraduría: La Procuraduría Federal de Protección al Ambiente;\n\n\
+             III. Secretaría: Secretaría de Economía;\n\n\
+             IV. Hacienda: Secretaría de Hacienda y Crédito Público;\n\n\
+             V. Consejo: Consejo Técnico del Instituto;\n\n\
+             VI. Comité: Consejo Consultivo de la AMEXCID;\n\n\
+             VII. Fiscalías: Fiscalía Especializada de la Fiscalía y de las Procuradurías.";
+        let provision = Provision {
+            text: glossary.to_owned(),
+            ..fixture_corpus("urn:x:law", "Ley", "LEY", "Texto").provisions[0].clone()
+        };
+        let entry = |term: &str, fraction: &str| {
+            let start = glossary.find(&format!("{fraction}. {term}")).unwrap();
+            let end = glossary[start..]
+                .find(";\n\n")
+                .map_or(glossary.len(), |end| start + end + 1);
+            lex_core::DefinedTerm {
+                schema_version: SCHEMA_VERSION.to_owned(),
+                id: format!("urn:x:law:term:{}", term.to_lowercase()),
+                term: term.to_owned(),
+                instrument_id: "urn:x:law".to_owned(),
+                defining_provision_id: provision.id.clone(),
+                fraction: Some(fraction.to_owned()),
+                inciso: None,
+                start_char: glossary[..start].chars().count(),
+                end_char: glossary[..end].chars().count(),
+                basis: lex_core::Basis::ExpressDefinition,
+            }
+        };
+        let terms = [
+            entry("Ambiente", "I"),
+            entry("Procuraduría", "II"),
+            entry("Secretaría", "III"),
+            entry("Hacienda", "IV"),
+            entry("Consejo", "V"),
+            entry("Comité", "VI"),
+            entry("Fiscalías", "VII"),
+        ];
+        assert_eq!(
+            super::institution_names(&terms, std::slice::from_ref(&provision)),
+            [
+                "procuraduría federal de protección al ambiente",
+                "secretaría de economía",
+                "secretaría de hacienda y crédito público",
+            ]
+        );
+
+        let text = "La Procuraduría Federal de Protección al Ambiente cuida el Ambiente; \
+                    la Secretaría informa a la Secretaría de Hacienda y Crédito Público.";
+        let operative = Provision {
+            id: "urn:x:law:article:2".to_owned(),
+            text: text.to_owned(),
+            ..provision.clone()
+        };
+        let usage = |term: &str, span: &str, nth: usize| {
+            let byte = text.match_indices(span).nth(nth).unwrap().0;
+            let start = text[..byte].chars().count();
+            lex_core::TermUsage {
+                schema_version: SCHEMA_VERSION.to_owned(),
+                id: format!("urn:x:law:article:2:term-usage:{start}"),
+                provision_id: operative.id.clone(),
+                term_id: format!("urn:x:law:term:{}", term.to_lowercase()),
+                span: span.to_owned(),
+                start_char: start,
+                end_char: start + span.chars().count(),
+            }
+        };
+        let usages = vec![
+            usage("Procuraduría", "Procuraduría", 0),
+            usage("Ambiente", "Ambiente", 0),
+            usage("Ambiente", "Ambiente", 1),
+            usage("Secretaría", "Secretaría", 0),
+            usage("Secretaría", "Secretaría", 1),
+        ];
+        let definitions = super::term_definitions(&[&terms], std::slice::from_ref(&provision), &[]);
+        let index = super::title_index(&super::institution_names(
+            &terms,
+            std::slice::from_ref(&provision),
+        ))
+        .unwrap();
+        let kept: Vec<(String, usize)> =
+            super::drop_usages_in_titles(usages, &[operative], &definitions, &index)
+                .into_iter()
+                .map(|usage| (usage.span, usage.start_char))
+                .collect();
+        let at = |span: &str, nth: usize| {
+            let byte = text.match_indices(span).nth(nth).unwrap().0;
+            text[..byte].chars().count()
+        };
+        // The Procuraduría is the name its definition gives; the Ambiente in
+        // its name is not, and the Secretaría (de Economía) is not the one
+        // in the name of the Secretaría de Hacienda.
+        assert_eq!(
+            kept,
+            [
+                ("Procuraduría".to_owned(), at("Procuraduría", 0)),
+                ("Ambiente".to_owned(), at("Ambiente", 1)),
+                ("Secretaría".to_owned(), at("Secretaría", 0)),
             ]
         );
     }

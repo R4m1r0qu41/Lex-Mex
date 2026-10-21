@@ -113,7 +113,7 @@ Everything is local: the DB merge, the batch and the fixes. Pushing main needs y
   - **`Verificación` in maaa:** is it the LIC's defined Verificación? My reading is that it is not.
   - **The 2 `Contaminante` in the RETC name:** are they genuine? My reading is that they are, since the registry is of LGEEPA contaminants.
 - **Recommendation:** (a). Exclude maaa's `Verificación`; keep the RETC `Contaminante`.
-- **Answer:**
+- **Answer:** "the false Ambiente and Proteccion should't be that hard to fix … when in doubt use the full exact name". Applied as institution full names taken from the glossaries; the remaining cases were decided from context (`docs/decisions.md`).
 
 ### D2. lan XVI: confirm the same reading as XL
 
@@ -121,17 +121,17 @@ Everything is local: the DB merge, the batch and the fixes. Pushing main needs y
 - **What happens:** the A4 rule (parent plus quoted incisos, as LIEPS VIII) also reads these two names as terms. No usage changes, because lan never prints either name as it is defined.
 - **Options:** (a) confirm; (b) limit the rule to XL.
 - **Recommendation:** (a).
-- **Answer:**
+- **Answer:** "LAN … just with it" (a).
 
 ### D3. ltfccg IX: read "Valuador profesional" as a term?
 
 - **Text:** "IX. Valuador profesional es la persona que cuenta con cédula profesional de postgrado en valuación…"
 - **Now:** ltfccg's glossary uses "Term. Definition"; IX alone writes "Term es …". The whole glossary is held for it, so ltfccg has 0 terms. The reparse removed the heading leaks, but they were not the cause of this hold.
 - **Options:**
-  - (a) A reviewed profile reads IX's term as "Valuador profesional", and the rest by the shared rule. This releases ltfccg's 11 terms.
+  - (a) A reviewed profile reads IX's term as "Valuador profesional", and the rest by the shared rule. This releases ltfccg's terms (10, as read).
   - (b) Leave it held.
 - **Recommendation:** (a).
-- **Answer:**
+- **Answer:** "valudor profesionale es is s definition. read IX a one-off profile" (a).
 
 ## C. Technical backlog (no decision needed; listed for completeness)
 
@@ -154,3 +154,6 @@ Everything is local: the DB merge, the batch and the fixes. Pushing main needs y
   Each one needs a profile, or a ruling if the source is ambiguous.
 - **meia and mpcca imports.** The title filter removes matches inside LGEEPA's own title. But "Secretaría de Medio Ambiente y Recursos Naturales" and the ASEA agency name are not instrument titles, so the `Ambiente` and `Protección` false matches may remain. They need a re-probe before configuration.
 - **Reparse blockers:** cff (a duplicate evidence id) and lfd (validation), both from unchanged source.
+
+
+**Standing instruction (2026-10-20):** "when you encounter an issue, look for the surrounding context to see if it can be fixed, without my input." Only legal questions come here from now on.

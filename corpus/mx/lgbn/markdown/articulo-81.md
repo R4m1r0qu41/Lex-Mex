@@ -17,11 +17,11 @@ source_sha256: ea96e97cbea2fd1919af78b94cd3466ee20a77e05989be2d482d2eb8061618c5
 
 # Artículo 81
 
-Si los muebles e inmuebles federales utilizados para fines religiosos y sus anexidades están considerados como monumentos históricos o artísticos conforme a la ley de la materia o la declaratoria correspondiente, a la [Secretaría](articulo-2.md) de Cultura le corresponderá respecto de estos bienes: Párrafo reformado DOF 17-12-2015
+Si los muebles e inmuebles federales utilizados para fines religiosos y sus anexidades están considerados como monumentos históricos o artísticos conforme a la ley de la materia o la declaratoria correspondiente, a la Secretaría de Cultura le corresponderá respecto de estos bienes: Párrafo reformado DOF 17-12-2015
 
 I.- Resolver administrativamente todas las cuestiones que se susciten sobre la conservación, restauración y mantenimiento de los muebles e inmuebles, por conducto del Instituto Nacional de Antropología e Historia y del Instituto Nacional de Bellas Artes y Literatura, según corresponda;
 
-II.- Colaborar con la Secretaría y, en su caso, ejercer las acciones legales y administrativas para la preservación y defensa de dichos bienes;
+II.- Colaborar con la [Secretaría](articulo-2.md) y, en su caso, ejercer las acciones legales y administrativas para la preservación y defensa de dichos bienes;
 
 III.- Presentar en forma coordinada con la Secretaría o directamente, las denuncias en el orden penal a que haya lugar para salvaguardar los inmuebles federales a que se refiere este artículo; IV.- Revisar, aprobar y, en su caso, ejecutar los proyectos de obra que le presente la asociación religiosa usuaria de cada inmueble, para su mantenimiento, conservación y óptimo aprovechamiento, así como vigilar y supervisar la ejecución de dichas obras; Fracción reformada DOF 10-01-2012
 

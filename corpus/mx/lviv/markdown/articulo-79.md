@@ -17,6 +17,6 @@ source_sha256: f6af373e0f5b95596b4e54f4ccd2e0270fcc85bd4f05fb43da775de2f53c9ff7
 
 # Artículo 79
 
-La [Secretaría](articulo-4.md) de Economía, considerando la opinión de la Secretaría, dictará las disposiciones necesarias para regular y orientar la transferencia de tecnología aplicable a la vivienda y establecer por sí o a través de organismos nacionales de normalización las normas mexicanas relativas a la calidad y desempeño de bienes y servicios básicos para la construcción de vivienda.
+La Secretaría de Economía, considerando la opinión de la [Secretaría](articulo-4.md), dictará las disposiciones necesarias para regular y orientar la transferencia de tecnología aplicable a la vivienda y establecer por sí o a través de organismos nacionales de normalización las normas mexicanas relativas a la calidad y desempeño de bienes y servicios básicos para la construcción de vivienda.
 
 Artículo reformado DOF 14-05-2019

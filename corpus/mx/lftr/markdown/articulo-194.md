@@ -20,4 +20,4 @@ source_sha256: a15012b33a415083f7714764c86fda8ed0078d3f5313dfc194c503f98a573a2a
 
 # Artículo 194
 
-La [Secretaría](articulo-3.md) de Economía emitirá las normas oficiales mexicanas en coordinación con el [Instituto](articulo-3.md) que establezcan las obligaciones específicas que deberán observar los concesionarios o autorizados, con el objeto de garantizar la protección efectiva de los derechos de los usuarios previstos en la Ley Federal de Protección al Consumidor y en esta [Ley](articulo-3.md).
+La Secretaría de Economía emitirá las normas oficiales mexicanas en coordinación con el [Instituto](articulo-3.md) que establezcan las obligaciones específicas que deberán observar los concesionarios o autorizados, con el objeto de garantizar la protección efectiva de los derechos de los usuarios previstos en la Ley Federal de Protección al Consumidor y en esta [Ley](articulo-3.md).

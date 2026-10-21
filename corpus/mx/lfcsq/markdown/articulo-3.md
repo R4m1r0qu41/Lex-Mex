@@ -19,7 +19,7 @@ source_sha256: 414c7e193ba776fc660f862c8bf2e8c0d91d35f6566979542132fcac0c82d923
 
 La aplicación de la presente Ley corresponderá al Ejecutivo Federal por conducto de:
 
-I. La [Secretaría](articulo-2.md) de Gobernación;
+I. La Secretaría de Gobernación;
 
 II. La Secretaría de Relaciones Exteriores;
 

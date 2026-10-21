@@ -17,7 +17,7 @@ source_sha256: ea96e97cbea2fd1919af78b94cd3466ee20a77e05989be2d482d2eb8061618c5
 
 # Artículo 121
 
-Para los efectos del [artículo anterior](articulo-120.md), los convenios o acuerdos de coordinación que celebre la [Federación](articulo-2.md), por conducto de la [Secretaría](articulo-2.md) de Medio Ambiente y Recursos Naturales, con los gobiernos de los estados, con la participación, en su caso, de sus municipios, deberán sujetarse a las siguientes bases:
+Para los efectos del [artículo anterior](articulo-120.md), los convenios o acuerdos de coordinación que celebre la [Federación](articulo-2.md), por conducto de la Secretaría de Medio Ambiente y Recursos Naturales, con los gobiernos de los estados, con la participación, en su caso, de sus municipios, deberán sujetarse a las siguientes bases:
 
 I.- Se celebrarán a propuesta del Ejecutivo Federal o a petición de una entidad federativa, cuando ésta considere que cuenta con los medios necesarios, el personal capacitado, los recursos materiales y financieros, así como la estructura institucional específica para el desarrollo de las facultades que asumiría;
 

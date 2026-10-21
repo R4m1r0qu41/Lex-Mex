@@ -17,4 +17,4 @@ source_sha256: 1289ec6964e48c84990572ca6080ca05c9d6210e5b0ff5af6d8c9d935fc5fcc8
 
 # Artículo 141
 
-El derecho nacional no requiere ser probado. El derecho extranjero podrá ser objeto de prueba en cuanto su existencia, validez, contenido y alcance, para lo cual las autoridades resolutoras del asunto podrán valerse de informes que se soliciten por conducto de la [Secretaría](articulo-3.md) de Relaciones Exteriores, sin perjuicio de las pruebas que al respecto puedan ofrecer las partes.
+El derecho nacional no requiere ser probado. El derecho extranjero podrá ser objeto de prueba en cuanto su existencia, validez, contenido y alcance, para lo cual las autoridades resolutoras del asunto podrán valerse de informes que se soliciten por conducto de la Secretaría de Relaciones Exteriores, sin perjuicio de las pruebas que al respecto puedan ofrecer las partes.

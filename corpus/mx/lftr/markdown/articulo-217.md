@@ -20,7 +20,7 @@ source_sha256: a15012b33a415083f7714764c86fda8ed0078d3f5313dfc194c503f98a573a2a
 
 # Artículo 217
 
-Corresponde a la [Secretaría](articulo-3.md) de Gobernación:
+Corresponde a la Secretaría de Gobernación:
 
 I. Ordenar y administrar la transmisión de los tiempos de Estado en los términos previstos en esta [Ley](articulo-3.md), así como, en su caso, aquellos previstos en otras disposiciones aplicables;
 

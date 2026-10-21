@@ -307,6 +307,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:3:term-usage:6584-6615",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:sistema-nacional-anticorrupcion",
+    "span": "Sistema Nacional Anticorrupción",
+    "start_char": 6584,
+    "end_char": 6615
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgra:article:3:term-usage:6754-6764",
     "provision_id": "urn:lex-mx:federal:statute:lgra:article:3",
     "term_id": "urn:lex-mx:federal:statute:lgra:term:secretarias",
@@ -901,6 +910,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:19:term-usage:109-140",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:sistema-nacional-anticorrupcion",
+    "span": "Sistema Nacional Anticorrupción",
+    "start_char": 109,
+    "end_char": 140
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgra:article:19:term-usage:155-173",
     "provision_id": "urn:lex-mx:federal:statute:lgra:article:19",
     "term_id": "urn:lex-mx:federal:statute:lgra:term:comite-coordinador",
@@ -1018,6 +1036,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:26:term-usage:311-342",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:sistema-nacional-anticorrupcion",
+    "span": "Sistema Nacional Anticorrupción",
+    "start_char": 311,
+    "end_char": 342
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgra:article:26:term-usage:405-423",
     "provision_id": "urn:lex-mx:federal:statute:lgra:article:26",
     "term_id": "urn:lex-mx:federal:statute:lgra:term:comite-coordinador",
@@ -1063,12 +1090,30 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:27:term-usage:549-580",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:sistema-nacional-anticorrupcion",
+    "span": "Sistema Nacional Anticorrupción",
+    "start_char": 549,
+    "end_char": 580
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgra:article:27:term-usage:586-613",
     "provision_id": "urn:lex-mx:federal:statute:lgra:article:27",
     "term_id": "urn:lex-mx:federal:statute:lgra:term:plataforma-digital-nacional",
     "span": "Plataforma digital nacional",
     "start_char": 586,
     "end_char": 613
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:27:term-usage:705-736",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:sistema-nacional-anticorrupcion",
+    "span": "Sistema Nacional Anticorrupción",
+    "start_char": 705,
+    "end_char": 736
   },
   {
     "schema_version": "0.1.0",
@@ -1087,6 +1132,15 @@
     "span": "Plataforma digital nacional",
     "start_char": 1278,
     "end_char": 1305
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:27:term-usage:1396-1427",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:sistema-nacional-anticorrupcion",
+    "span": "Sistema Nacional Anticorrupción",
+    "start_char": 1396,
+    "end_char": 1427
   },
   {
     "schema_version": "0.1.0",
@@ -2773,15 +2827,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgra:article:141:term-usage:264-274",
-    "provision_id": "urn:lex-mx:federal:statute:lgra:article:141",
-    "term_id": "urn:lex-mx:federal:statute:lgra:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 264,
-    "end_char": 274
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgra:article:142:term-usage:344-364",
     "provision_id": "urn:lex-mx:federal:statute:lgra:article:142",
     "term_id": "urn:lex-mx:federal:statute:lgra:term:faltas-administrativas",
@@ -4186,15 +4231,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgra:article:227:term-usage:388-398",
-    "provision_id": "urn:lex-mx:federal:statute:lgra:article:227",
-    "term_id": "urn:lex-mx:federal:statute:lgra:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 388,
-    "end_char": 398
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgra:article:228:term-usage:86-112",
     "provision_id": "urn:lex-mx:federal:statute:lgra:article:228",
     "term_id": "urn:lex-mx:federal:statute:lgra:term:falta-administrativa-grave",
@@ -4276,6 +4312,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:transitory:cuarto:term-usage:19-50",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:sistema-nacional-anticorrupcion",
+    "span": "Sistema Nacional Anticorrupción",
+    "start_char": 19,
+    "end_char": 50
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgra:transitory:cuarto:term-usage:647-665",
     "provision_id": "urn:lex-mx:federal:statute:lgra:transitory:cuarto",
     "term_id": "urn:lex-mx:federal:statute:lgra:term:comite-coordinador",
@@ -4339,12 +4384,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgra:transitory:quinto:term-usage:348-356",
+    "id": "urn:lex-mx:federal:statute:lgra:transitory:quinto:term-usage:20-28",
     "provision_id": "urn:lex-mx:federal:statute:lgra:transitory:quinto",
     "term_id": "urn:lex-mx:federal:statute:lgra:term:tribunal",
     "span": "Tribunal",
-    "start_char": 348,
-    "end_char": 356
+    "start_char": 20,
+    "end_char": 28
   },
   {
     "schema_version": "0.1.0",
@@ -4366,15 +4411,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgra:transitory:quinto:term-usage:1230-1238",
-    "provision_id": "urn:lex-mx:federal:statute:lgra:transitory:quinto",
-    "term_id": "urn:lex-mx:federal:statute:lgra:term:tribunal",
-    "span": "Tribunal",
-    "start_char": 1230,
-    "end_char": 1238
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgra:transitory:quinto:term-usage:1566-1574",
     "provision_id": "urn:lex-mx:federal:statute:lgra:transitory:quinto",
     "term_id": "urn:lex-mx:federal:statute:lgra:term:tribunal",
@@ -4390,6 +4426,15 @@
     "span": "Magistrados",
     "start_char": 1671,
     "end_char": 1682
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:transitory:quinto:term-usage:1810-1818",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1810,
+    "end_char": 1818
   },
   {
     "schema_version": "0.1.0",
@@ -4420,6 +4465,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:transitory:quinto:term-usage:2936-2944",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 2936,
+    "end_char": 2944
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgra:transitory:quinto:term-usage:3073-3081",
     "provision_id": "urn:lex-mx:federal:statute:lgra:transitory:quinto",
     "term_id": "urn:lex-mx:federal:statute:lgra:term:tribunal",
@@ -4429,12 +4483,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgra:transitory:quinto:term-usage:3624-3632",
+    "id": "urn:lex-mx:federal:statute:lgra:transitory:quinto:term-usage:3242-3250",
     "provision_id": "urn:lex-mx:federal:statute:lgra:transitory:quinto",
     "term_id": "urn:lex-mx:federal:statute:lgra:term:tribunal",
     "span": "Tribunal",
-    "start_char": 3624,
-    "end_char": 3632
+    "start_char": 3242,
+    "end_char": 3250
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:transitory:quinto:term-usage:3417-3425",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 3417,
+    "end_char": 3425
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:transitory:quinto:term-usage:3561-3569",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 3561,
+    "end_char": 3569
   },
   {
     "schema_version": "0.1.0",
@@ -4444,15 +4516,6 @@
     "span": "Tribunal",
     "start_char": 3715,
     "end_char": 3723
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgra:transitory:quinto:term-usage:3851-3859",
-    "provision_id": "urn:lex-mx:federal:statute:lgra:transitory:quinto",
-    "term_id": "urn:lex-mx:federal:statute:lgra:term:tribunal",
-    "span": "Tribunal",
-    "start_char": 3851,
-    "end_char": 3859
   },
   {
     "schema_version": "0.1.0",

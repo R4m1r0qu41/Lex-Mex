@@ -15,6 +15,6 @@ source_sha256: ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776
 
 # Artículo 61
 
-El prestador de servicio de suministro de combustible sólo podrá proporcionarlo a terceros para actividades distintas a las aeronáuticas, cuando estos últimos cuenten con el permiso o autorización de la [Secretaría](articulo-2.md) de Energía, la Procuraduría General de la República y lo notifique a la Secretaría, en el entendido de que esta actividad no deberá perjudicar el abasto de las aeronaves en los aeródromos civiles. El prestador del servicio deberá anexar una copia de dicho permiso o autorización a la factura que en cada caso expida.
+El prestador de servicio de suministro de combustible sólo podrá proporcionarlo a terceros para actividades distintas a las aeronáuticas, cuando estos últimos cuenten con el permiso o autorización de la Secretaría de Energía, la Procuraduría General de la República y lo notifique a la [Secretaría](articulo-2.md), en el entendido de que esta actividad no deberá perjudicar el abasto de las aeronaves en los aeródromos civiles. El prestador del servicio deberá anexar una copia de dicho permiso o autorización a la factura que en cada caso expida.
 
 El comprador del combustible estará obligado a presentar al prestador del servicio la información y documentación que establezca la norma básica de seguridad.

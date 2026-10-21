@@ -82,6 +82,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpf:article:2:term-usage:621-628",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lpf:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lpf:term:sistema",
+    "span": "Sistema",
+    "start_char": 621,
+    "end_char": 628
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lpf:article:2:term-usage:723-734",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lpf:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lpf:term:institucion",
@@ -124,15 +133,6 @@
     "span": "Instituciones",
     "start_char": 1072,
     "end_char": 1085
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lpf:article:2:term-usage:1480-1490",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lpf:article:2",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lpf:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 1480,
-    "end_char": 1490
   },
   {
     "schema_version": "0.1.0",
@@ -1636,15 +1636,6 @@
     "span": "Instituciones",
     "start_char": 3165,
     "end_char": 3178
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lpf:article:17:term-usage:3881-3891",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lpf:article:17",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lpf:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 3881,
-    "end_char": 3891
   },
   {
     "schema_version": "0.1.0",
@@ -3484,15 +3475,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lpf:article:36:term-usage:2910-2920",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lpf:article:36",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lpf:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 2910,
-    "end_char": 2920
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lpf:article:36:term-usage:3439-3450",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lpf:article:36",
     "term_id": "urn:lex-mx:federal:regulation:reg-lpf:term:institucion",
@@ -4951,15 +4933,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lpf:article:54:term-usage:2388-2398",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lpf:article:54",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lpf:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 2388,
-    "end_char": 2398
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lpf:article:54:term-usage:3458-3468",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lpf:article:54",
     "term_id": "urn:lex-mx:federal:regulation:reg-lpf:term:secretaria",
@@ -5986,15 +5959,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lpf:article:86:term-usage:2241-2251",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lpf:article:86",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lpf:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 2241,
-    "end_char": 2251
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lpf:article:86:term-usage:2373-2384",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lpf:article:86",
     "term_id": "urn:lex-mx:federal:regulation:reg-lpf:term:institucion",
@@ -6445,15 +6409,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lpf:article:93:term-usage:2302-2312",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lpf:article:93",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lpf:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 2302,
-    "end_char": 2312
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lpf:article:93:term-usage:2498-2509",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lpf:article:93",
     "term_id": "urn:lex-mx:federal:regulation:reg-lpf:term:institucion",
@@ -6469,15 +6424,6 @@
     "span": "Institución",
     "start_char": 2701,
     "end_char": 2712
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lpf:article:93:term-usage:2936-2946",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lpf:article:93",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lpf:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 2936,
-    "end_char": 2946
   },
   {
     "schema_version": "0.1.0",
@@ -6613,15 +6559,6 @@
     "span": "Institución",
     "start_char": 2672,
     "end_char": 2683
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lpf:article:94:term-usage:2705-2712",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lpf:article:94",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lpf:term:sistema",
-    "span": "Sistema",
-    "start_char": 2705,
-    "end_char": 2712
   },
   {
     "schema_version": "0.1.0",
@@ -7720,15 +7657,6 @@
     "span": "Reglamento",
     "start_char": 750,
     "end_char": 760
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lpf:article:107:term-usage:776-786",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lpf:article:107",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lpf:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 776,
-    "end_char": 786
   },
   {
     "schema_version": "0.1.0",
@@ -8920,15 +8848,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lpf:article:150:term-usage:458-468",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lpf:article:150",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lpf:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 458,
-    "end_char": 468
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lpf:article:151:term-usage:76-87",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lpf:article:151",
     "term_id": "urn:lex-mx:federal:regulation:reg-lpf:term:integrantes",
@@ -9439,15 +9358,6 @@
     "span": "Integrantes",
     "start_char": 148,
     "end_char": 159
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lpf:article:175:term-usage:276-286",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lpf:article:175",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lpf:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 276,
-    "end_char": 286
   },
   {
     "schema_version": "0.1.0",

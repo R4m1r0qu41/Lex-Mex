@@ -29,7 +29,7 @@ IV. Entidades: las mencionadas en las fracciones IV y V del artículo [1](articu
 
 V. Entidades federativas: los Estados de la Federación y la Ciudad de México, conforme al artículo [43](../../cpeum/markdown/articulo-43.md) de la Constitución Política de los Estados Unidos Mexicanos;
 
-VI. Hacienda: la [Secretaría](articulo-2.md) de Hacienda y Crédito Público;
+VI. Hacienda: la Secretaría de Hacienda y Crédito Público;
 
 VII. Ingeniería básica: los documentos que contienen los elementos que definen la obra de manera general, así como la información relevante del proyecto, en los cuales se incluirán las normas de calidad aplicables, considerando las características del territorio nacional en el cual se ejecutarán los trabajos;
 
@@ -55,7 +55,7 @@ XVII. Proyecto ejecutivo: el conjunto de planos, modelos digitales y documentos 
 
 XVIII. Secretaría: la Secretaría Anticorrupción y Buen Gobierno;
 
-XIX. Testigo social en las contrataciones públicas: la persona física o moral, designada por la Secretaría para vigilar los procedimientos de contratación;
+XIX. Testigo social en las contrataciones públicas: la persona física o moral, designada por la [Secretaría](articulo-2.md) para vigilar los procedimientos de contratación;
 
 XX. Tratados: los convenios regidos por el derecho internacional público con capítulo de compras, celebrados por escrito entre el gobierno de los Estados Unidos Mexicanos con aprobación del Senado y uno o varios sujetos de Derecho Internacional Público, ya sea que para su aplicación requiera o no la celebración de acuerdos en materias específicas, cualquiera que sea su denominación, mediante los cuales los Estados Unidos Mexicanos asumen compromisos, y
 

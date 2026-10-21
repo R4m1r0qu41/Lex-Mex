@@ -73,6 +73,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:3:term-usage:403-409",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:3",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:centro",
+    "span": "Centro",
+    "start_char": 403,
+    "end_char": 409
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:locfcrl:article:3:term-usage:662-668",
     "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:3",
     "term_id": "urn:lex-mx:federal:statute:locfcrl:term:centro",

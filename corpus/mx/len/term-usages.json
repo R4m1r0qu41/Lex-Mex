@@ -55,15 +55,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:len:article:1:term-usage:418-428",
-    "provision_id": "urn:lex-mx:federal:statute:len:article:1",
-    "term_id": "urn:lex-mx:federal:statute:len:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 418,
-    "end_char": 428
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:len:article:2:term-usage:114-131",
     "provision_id": "urn:lex-mx:federal:statute:len:article:2",
     "term_id": "urn:lex-mx:federal:statute:len:term:sistema-educativo",

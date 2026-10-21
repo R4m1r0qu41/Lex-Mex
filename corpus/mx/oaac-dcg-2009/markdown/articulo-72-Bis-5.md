@@ -40,7 +40,7 @@ VII. Estados financieros consolidados y dictaminados, con opinión favorable del
 
 Cuando los estados financieros del ejercicio más reciente a la fecha de presentación de la solicitud de aprobación de que se trate, tengan una antigüedad mayor a seis meses, se deberán presentar adicionalmente los estados financieros con revisión de información financiera intermedia y opinión favorable o no modificada con fecha de corte no mayor al periodo antes señalado, en forma comparativa con los estados financieros del ejercicio anterior de conformidad con los criterios de contabilidad previstos en el Capítulo Primero del Título Tercero de la Circular Única de Bancos. Lo anterior, en el entendido de que la opinión o el informe del auditor deberán versar sobre cada uno de los periodos comparativos que se presenten.
 
-VIII. Declaración del auditor externo independiente en la que manifieste que cumple con lo previsto por el artículo 38 de las “Disposiciones de carácter general aplicables a las entidades y emisoras supervisadas por la Comisión Nacional Bancaria y de [Valores](articulo-1.md) que contraten servicios de auditoría externa de estados financieros básicos” y sus modificaciones.
+VIII. Declaración del auditor externo independiente en la que manifieste que cumple con lo previsto por el artículo 38 de las “Disposiciones de carácter general aplicables a las entidades y emisoras supervisadas por la Comisión Nacional Bancaria y de Valores que contraten servicios de auditoría externa de estados financieros básicos” y sus modificaciones.
 
 IX. El programa general de operación que permita a la Comisión evaluar si la sociedad podrá cumplir adecuadamente con su objeto social. Dicho programa deberá contener, por lo menos:
 

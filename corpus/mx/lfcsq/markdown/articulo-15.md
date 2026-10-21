@@ -17,4 +17,4 @@ source_sha256: 414c7e193ba776fc660f862c8bf2e8c0d91d35f6566979542132fcac0c82d923
 
 # Artículo 15
 
-La comunicación entre la [Autoridad Nacional](articulo-2.md) y la [OPAQ](articulo-2.md), así como la remisión de las declaraciones de la Autoridad Nacional a ésta última, se realizarán por la vía diplomática, en coordinación con la [Secretaría](articulo-2.md) de Relaciones Exteriores.
+La comunicación entre la [Autoridad Nacional](articulo-2.md) y la [OPAQ](articulo-2.md), así como la remisión de las declaraciones de la Autoridad Nacional a ésta última, se realizarán por la vía diplomática, en coordinación con la Secretaría de Relaciones Exteriores.

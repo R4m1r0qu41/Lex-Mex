@@ -17,7 +17,7 @@ source_sha256: d8dd1de3627b899bb4faf31c2812c3d5f14f7108be153d5aa8dd549b9136184a
 
 # Artículo 21
 
-En una situación de emergencia, el auxilio a la población debe constituirse en una función prioritaria de la protección civil, por lo que las instancias de coordinación deberán actuar en forma conjunta y ordenada, en los términos de esta Ley y de las demás disposiciones aplicables. También se hará del conocimiento de la [Secretaría](articulo-2.md) de la Defensa Nacional y la Secretaría de Marina para que se implemente el Plan de [Auxilio](articulo-2.md) a la Población Civil en caso de desastres y el Plan General de Auxilio a la Población Civil, respectivamente.
+En una situación de emergencia, el auxilio a la población debe constituirse en una función prioritaria de la protección civil, por lo que las instancias de coordinación deberán actuar en forma conjunta y ordenada, en los términos de esta Ley y de las demás disposiciones aplicables. También se hará del conocimiento de la Secretaría de la Defensa Nacional y la Secretaría de Marina para que se implemente el Plan de [Auxilio](articulo-2.md) a la Población Civil en caso de desastres y el Plan General de Auxilio a la Población Civil, respectivamente.
 
 Con la finalidad de iniciar las actividades de auxilio en caso de emergencia, la primera autoridad que tome conocimiento de ésta, deberá proceder a la inmediata prestación de ayuda e informar tan pronto como sea posible a las instancias especializadas de protección civil.
 

@@ -5770,15 +5770,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:59:term-usage:1017-1027",
-    "provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:59",
-    "term_id": "urn:lex-mx:federal:statute:lritf:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 1017,
-    "end_char": 1027
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:59:term-usage:1363-1386",
     "provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:59",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:autoridad-financiera",
@@ -6571,15 +6562,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:annex:6:term-usage:3856-3863",
-    "provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:annex:6",
-    "term_id": "urn:lex-mx:federal:statute:lritf:term:valores",
-    "span": "Valores",
-    "start_char": 3856,
-    "end_char": 3863
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:annex:6:term-usage:3878-3882",
     "provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:annex:6",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:cnbv",
@@ -7261,15 +7243,6 @@
     "span": "Cliente",
     "start_char": 10331,
     "end_char": 10338
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:annex:8:term-usage:153-160",
-    "provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:annex:8",
-    "term_id": "urn:lex-mx:federal:statute:lritf:term:valores",
-    "span": "Valores",
-    "start_char": 153,
-    "end_char": 160
   },
   {
     "schema_version": "0.1.0",

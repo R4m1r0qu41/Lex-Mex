@@ -10,15 +10,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeepa:article:3:term-usage:11791-11799",
-    "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lgeepa:term:ambiente",
-    "span": "Ambiente",
-    "start_char": 11791,
-    "end_char": 11799
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgeepa:article:6:term-usage:116-126",
     "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:6",
     "term_id": "urn:lex-mx:federal:statute:lgeepa:term:secretaria",
@@ -523,15 +514,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeepa:article:37-bis:term-usage:37-47",
-    "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:37-bis",
-    "term_id": "urn:lex-mx:federal:statute:lgeepa:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 37,
-    "end_char": 47
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgeepa:article:38:term-usage:358-368",
     "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:38",
     "term_id": "urn:lex-mx:federal:statute:lgeepa:term:secretaria",
@@ -577,30 +559,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeepa:article:39:term-usage:796-806",
-    "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:39",
-    "term_id": "urn:lex-mx:federal:statute:lgeepa:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 796,
-    "end_char": 806
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgeepa:article:39:term-usage:1148-1158",
     "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:39",
     "term_id": "urn:lex-mx:federal:statute:lgeepa:term:secretaria",
     "span": "Secretaría",
     "start_char": 1148,
     "end_char": 1158
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeepa:article:40:term-usage:3-13",
-    "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:40",
-    "term_id": "urn:lex-mx:federal:statute:lgeepa:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 3,
-    "end_char": 13
   },
   {
     "schema_version": "0.1.0",
@@ -664,15 +628,6 @@
     "span": "Secretaría",
     "start_char": 1474,
     "end_char": 1484
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeepa:article:51:term-usage:1490-1500",
-    "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:51",
-    "term_id": "urn:lex-mx:federal:statute:lgeepa:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 1490,
-    "end_char": 1500
   },
   {
     "schema_version": "0.1.0",
@@ -817,24 +772,6 @@
     "span": "Secretaría",
     "start_char": 37,
     "end_char": 47
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeepa:article:64-bis:term-usage:71-81",
-    "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:64-bis",
-    "term_id": "urn:lex-mx:federal:statute:lgeepa:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 71,
-    "end_char": 81
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeepa:article:64-bis:term-usage:910-920",
-    "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:64-bis",
-    "term_id": "urn:lex-mx:federal:statute:lgeepa:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 910,
-    "end_char": 920
   },
   {
     "schema_version": "0.1.0",
@@ -1045,15 +982,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeepa:article:85:term-usage:142-152",
-    "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:85",
-    "term_id": "urn:lex-mx:federal:statute:lgeepa:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 142,
-    "end_char": 152
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgeepa:article:86:term-usage:5-15",
     "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:86",
     "term_id": "urn:lex-mx:federal:statute:lgeepa:term:secretaria",
@@ -1135,15 +1063,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeepa:article:90:term-usage:38-48",
-    "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:90",
-    "term_id": "urn:lex-mx:federal:statute:lgeepa:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 38,
-    "end_char": 48
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgeepa:article:93:term-usage:3-13",
     "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:93",
     "term_id": "urn:lex-mx:federal:statute:lgeepa:term:secretaria",
@@ -1186,15 +1105,6 @@
     "span": "Secretaría",
     "start_char": 3,
     "end_char": 13
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeepa:article:104:term-usage:32-42",
-    "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:104",
-    "term_id": "urn:lex-mx:federal:statute:lgeepa:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 32,
-    "end_char": 42
   },
   {
     "schema_version": "0.1.0",
@@ -1279,51 +1189,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeepa:article:111:term-usage:396-406",
-    "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:111",
-    "term_id": "urn:lex-mx:federal:statute:lgeepa:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 396,
-    "end_char": 406
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeepa:article:111:term-usage:2155-2165",
-    "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:111",
-    "term_id": "urn:lex-mx:federal:statute:lgeepa:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 2155,
-    "end_char": 2165
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeepa:article:111:term-usage:2532-2542",
-    "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:111",
-    "term_id": "urn:lex-mx:federal:statute:lgeepa:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 2532,
-    "end_char": 2542
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeepa:article:111:term-usage:3739-3749",
-    "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:111",
-    "term_id": "urn:lex-mx:federal:statute:lgeepa:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 3739,
-    "end_char": 3749
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeepa:article:111:term-usage:4047-4057",
-    "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:111",
-    "term_id": "urn:lex-mx:federal:statute:lgeepa:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 4047,
-    "end_char": 4057
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgeepa:article:111-bis:term-usage:201-211",
     "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:111-bis",
     "term_id": "urn:lex-mx:federal:statute:lgeepa:term:secretaria",
@@ -1405,15 +1270,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeepa:article:119:term-usage:740-750",
-    "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:119",
-    "term_id": "urn:lex-mx:federal:statute:lgeepa:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 740,
-    "end_char": 750
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgeepa:article:119-bis:term-usage:1149-1159",
     "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:119-bis",
     "term_id": "urn:lex-mx:federal:statute:lgeepa:term:secretaria",
@@ -1441,15 +1297,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeepa:article:124:term-usage:121-131",
-    "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:124",
-    "term_id": "urn:lex-mx:federal:statute:lgeepa:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 121,
-    "end_char": 131
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgeepa:article:127:term-usage:3-13",
     "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:127",
     "term_id": "urn:lex-mx:federal:statute:lgeepa:term:secretaria",
@@ -1459,30 +1306,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeepa:article:127:term-usage:38-48",
-    "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:127",
-    "term_id": "urn:lex-mx:federal:statute:lgeepa:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 38,
-    "end_char": 48
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgeepa:article:128:term-usage:262-272",
     "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:128",
     "term_id": "urn:lex-mx:federal:statute:lgeepa:term:secretaria",
     "span": "Secretaría",
     "start_char": 262,
     "end_char": 272
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeepa:article:128:term-usage:295-305",
-    "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:128",
-    "term_id": "urn:lex-mx:federal:statute:lgeepa:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 295,
-    "end_char": 305
   },
   {
     "schema_version": "0.1.0",
@@ -1501,15 +1330,6 @@
     "span": "Secretaría",
     "start_char": 411,
     "end_char": 421
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeepa:article:130:term-usage:443-453",
-    "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:130",
-    "term_id": "urn:lex-mx:federal:statute:lgeepa:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 443,
-    "end_char": 453
   },
   {
     "schema_version": "0.1.0",
@@ -1549,15 +1369,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeepa:article:133:term-usage:68-78",
-    "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:133",
-    "term_id": "urn:lex-mx:federal:statute:lgeepa:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 68,
-    "end_char": 78
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgeepa:article:137:term-usage:378-388",
     "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:137",
     "term_id": "urn:lex-mx:federal:statute:lgeepa:term:secretaria",
@@ -1591,15 +1402,6 @@
     "span": "Secretaría",
     "start_char": 179,
     "end_char": 189
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeepa:article:140:term-usage:214-224",
-    "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:140",
-    "term_id": "urn:lex-mx:federal:statute:lgeepa:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 214,
-    "end_char": 224
   },
   {
     "schema_version": "0.1.0",
@@ -1837,24 +1639,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeepa:article:154:term-usage:3-13",
-    "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:154",
-    "term_id": "urn:lex-mx:federal:statute:lgeepa:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 3,
-    "end_char": 13
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeepa:article:154:term-usage:141-151",
-    "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:154",
-    "term_id": "urn:lex-mx:federal:statute:lgeepa:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 141,
-    "end_char": 151
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgeepa:article:154:term-usage:687-697",
     "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:154",
     "term_id": "urn:lex-mx:federal:statute:lgeepa:term:secretaria",
@@ -1870,24 +1654,6 @@
     "span": "Secretaría",
     "start_char": 240,
     "end_char": 250
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeepa:article:155:term-usage:381-391",
-    "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:155",
-    "term_id": "urn:lex-mx:federal:statute:lgeepa:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 381,
-    "end_char": 391
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeepa:article:156:term-usage:341-351",
-    "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:156",
-    "term_id": "urn:lex-mx:federal:statute:lgeepa:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 341,
-    "end_char": 351
   },
   {
     "schema_version": "0.1.0",
@@ -2053,15 +1819,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeepa:article:161:term-usage:457-467",
-    "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:161",
-    "term_id": "urn:lex-mx:federal:statute:lgeepa:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 457,
-    "end_char": 467
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgeepa:article:167:term-usage:748-758",
     "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:167",
     "term_id": "urn:lex-mx:federal:statute:lgeepa:term:secretaria",
@@ -2131,42 +1888,6 @@
     "span": "Secretaría",
     "start_char": 79,
     "end_char": 89
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeepa:article:168:term-usage:406-416",
-    "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:168",
-    "term_id": "urn:lex-mx:federal:statute:lgeepa:term:proteccion",
-    "span": "Protección",
-    "start_char": 406,
-    "end_char": 416
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeepa:article:168:term-usage:420-428",
-    "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:168",
-    "term_id": "urn:lex-mx:federal:statute:lgeepa:term:ambiente",
-    "span": "Ambiente",
-    "start_char": 420,
-    "end_char": 428
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeepa:article:169:term-usage:1473-1483",
-    "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:169",
-    "term_id": "urn:lex-mx:federal:statute:lgeepa:term:proteccion",
-    "span": "Protección",
-    "start_char": 1473,
-    "end_char": 1483
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeepa:article:169:term-usage:1487-1495",
-    "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:169",
-    "term_id": "urn:lex-mx:federal:statute:lgeepa:term:ambiente",
-    "span": "Ambiente",
-    "start_char": 1487,
-    "end_char": 1495
   },
   {
     "schema_version": "0.1.0",
@@ -2293,402 +2014,6 @@
     "span": "Secretaría",
     "start_char": 690,
     "end_char": 700
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeepa:article:189:term-usage:141-151",
-    "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:189",
-    "term_id": "urn:lex-mx:federal:statute:lgeepa:term:proteccion",
-    "span": "Protección",
-    "start_char": 141,
-    "end_char": 151
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeepa:article:189:term-usage:155-163",
-    "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:189",
-    "term_id": "urn:lex-mx:federal:statute:lgeepa:term:ambiente",
-    "span": "Ambiente",
-    "start_char": 155,
-    "end_char": 163
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeepa:article:189:term-usage:599-609",
-    "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:189",
-    "term_id": "urn:lex-mx:federal:statute:lgeepa:term:proteccion",
-    "span": "Protección",
-    "start_char": 599,
-    "end_char": 609
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeepa:article:189:term-usage:613-621",
-    "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:189",
-    "term_id": "urn:lex-mx:federal:statute:lgeepa:term:ambiente",
-    "span": "Ambiente",
-    "start_char": 613,
-    "end_char": 621
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeepa:article:189:term-usage:934-944",
-    "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:189",
-    "term_id": "urn:lex-mx:federal:statute:lgeepa:term:proteccion",
-    "span": "Protección",
-    "start_char": 934,
-    "end_char": 944
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeepa:article:189:term-usage:948-956",
-    "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:189",
-    "term_id": "urn:lex-mx:federal:statute:lgeepa:term:ambiente",
-    "span": "Ambiente",
-    "start_char": 948,
-    "end_char": 956
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeepa:article:190:term-usage:828-838",
-    "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:190",
-    "term_id": "urn:lex-mx:federal:statute:lgeepa:term:proteccion",
-    "span": "Protección",
-    "start_char": 828,
-    "end_char": 838
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeepa:article:190:term-usage:842-850",
-    "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:190",
-    "term_id": "urn:lex-mx:federal:statute:lgeepa:term:ambiente",
-    "span": "Ambiente",
-    "start_char": 842,
-    "end_char": 850
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeepa:article:190:term-usage:1168-1178",
-    "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:190",
-    "term_id": "urn:lex-mx:federal:statute:lgeepa:term:proteccion",
-    "span": "Protección",
-    "start_char": 1168,
-    "end_char": 1178
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeepa:article:190:term-usage:1182-1190",
-    "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:190",
-    "term_id": "urn:lex-mx:federal:statute:lgeepa:term:ambiente",
-    "span": "Ambiente",
-    "start_char": 1182,
-    "end_char": 1190
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeepa:article:191:term-usage:27-37",
-    "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:191",
-    "term_id": "urn:lex-mx:federal:statute:lgeepa:term:proteccion",
-    "span": "Protección",
-    "start_char": 27,
-    "end_char": 37
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeepa:article:191:term-usage:41-49",
-    "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:191",
-    "term_id": "urn:lex-mx:federal:statute:lgeepa:term:ambiente",
-    "span": "Ambiente",
-    "start_char": 41,
-    "end_char": 49
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeepa:article:191:term-usage:422-432",
-    "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:191",
-    "term_id": "urn:lex-mx:federal:statute:lgeepa:term:proteccion",
-    "span": "Protección",
-    "start_char": 422,
-    "end_char": 432
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeepa:article:191:term-usage:436-444",
-    "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:191",
-    "term_id": "urn:lex-mx:federal:statute:lgeepa:term:ambiente",
-    "span": "Ambiente",
-    "start_char": 436,
-    "end_char": 444
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeepa:article:191:term-usage:709-719",
-    "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:191",
-    "term_id": "urn:lex-mx:federal:statute:lgeepa:term:proteccion",
-    "span": "Protección",
-    "start_char": 709,
-    "end_char": 719
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeepa:article:191:term-usage:723-731",
-    "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:191",
-    "term_id": "urn:lex-mx:federal:statute:lgeepa:term:ambiente",
-    "span": "Ambiente",
-    "start_char": 723,
-    "end_char": 731
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeepa:article:192:term-usage:58-68",
-    "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:192",
-    "term_id": "urn:lex-mx:federal:statute:lgeepa:term:proteccion",
-    "span": "Protección",
-    "start_char": 58,
-    "end_char": 68
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeepa:article:192:term-usage:72-80",
-    "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:192",
-    "term_id": "urn:lex-mx:federal:statute:lgeepa:term:ambiente",
-    "span": "Ambiente",
-    "start_char": 72,
-    "end_char": 80
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeepa:article:192:term-usage:501-511",
-    "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:192",
-    "term_id": "urn:lex-mx:federal:statute:lgeepa:term:proteccion",
-    "span": "Protección",
-    "start_char": 501,
-    "end_char": 511
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeepa:article:192:term-usage:515-523",
-    "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:192",
-    "term_id": "urn:lex-mx:federal:statute:lgeepa:term:ambiente",
-    "span": "Ambiente",
-    "start_char": 515,
-    "end_char": 523
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeepa:article:193:term-usage:62-72",
-    "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:193",
-    "term_id": "urn:lex-mx:federal:statute:lgeepa:term:proteccion",
-    "span": "Protección",
-    "start_char": 62,
-    "end_char": 72
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeepa:article:193:term-usage:76-84",
-    "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:193",
-    "term_id": "urn:lex-mx:federal:statute:lgeepa:term:ambiente",
-    "span": "Ambiente",
-    "start_char": 76,
-    "end_char": 84
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeepa:article:194:term-usage:27-37",
-    "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:194",
-    "term_id": "urn:lex-mx:federal:statute:lgeepa:term:proteccion",
-    "span": "Protección",
-    "start_char": 27,
-    "end_char": 37
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeepa:article:194:term-usage:41-49",
-    "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:194",
-    "term_id": "urn:lex-mx:federal:statute:lgeepa:term:ambiente",
-    "span": "Ambiente",
-    "start_char": 41,
-    "end_char": 49
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeepa:article:195:term-usage:78-88",
-    "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:195",
-    "term_id": "urn:lex-mx:federal:statute:lgeepa:term:proteccion",
-    "span": "Protección",
-    "start_char": 78,
-    "end_char": 88
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeepa:article:195:term-usage:92-100",
-    "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:195",
-    "term_id": "urn:lex-mx:federal:statute:lgeepa:term:ambiente",
-    "span": "Ambiente",
-    "start_char": 92,
-    "end_char": 100
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeepa:article:195:term-usage:395-405",
-    "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:195",
-    "term_id": "urn:lex-mx:federal:statute:lgeepa:term:proteccion",
-    "span": "Protección",
-    "start_char": 395,
-    "end_char": 405
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeepa:article:195:term-usage:409-417",
-    "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:195",
-    "term_id": "urn:lex-mx:federal:statute:lgeepa:term:ambiente",
-    "span": "Ambiente",
-    "start_char": 409,
-    "end_char": 417
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeepa:article:196:term-usage:164-174",
-    "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:196",
-    "term_id": "urn:lex-mx:federal:statute:lgeepa:term:proteccion",
-    "span": "Protección",
-    "start_char": 164,
-    "end_char": 174
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeepa:article:196:term-usage:178-186",
-    "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:196",
-    "term_id": "urn:lex-mx:federal:statute:lgeepa:term:ambiente",
-    "span": "Ambiente",
-    "start_char": 178,
-    "end_char": 186
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeepa:article:197:term-usage:256-266",
-    "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:197",
-    "term_id": "urn:lex-mx:federal:statute:lgeepa:term:proteccion",
-    "span": "Protección",
-    "start_char": 256,
-    "end_char": 266
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeepa:article:197:term-usage:270-278",
-    "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:197",
-    "term_id": "urn:lex-mx:federal:statute:lgeepa:term:ambiente",
-    "span": "Ambiente",
-    "start_char": 270,
-    "end_char": 278
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeepa:article:198:term-usage:130-140",
-    "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:198",
-    "term_id": "urn:lex-mx:federal:statute:lgeepa:term:proteccion",
-    "span": "Protección",
-    "start_char": 130,
-    "end_char": 140
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeepa:article:198:term-usage:144-152",
-    "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:198",
-    "term_id": "urn:lex-mx:federal:statute:lgeepa:term:ambiente",
-    "span": "Ambiente",
-    "start_char": 144,
-    "end_char": 152
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeepa:article:199:term-usage:166-176",
-    "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:199",
-    "term_id": "urn:lex-mx:federal:statute:lgeepa:term:proteccion",
-    "span": "Protección",
-    "start_char": 166,
-    "end_char": 176
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeepa:article:199:term-usage:180-188",
-    "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:199",
-    "term_id": "urn:lex-mx:federal:statute:lgeepa:term:ambiente",
-    "span": "Ambiente",
-    "start_char": 180,
-    "end_char": 188
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeepa:article:201:term-usage:110-120",
-    "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:201",
-    "term_id": "urn:lex-mx:federal:statute:lgeepa:term:proteccion",
-    "span": "Protección",
-    "start_char": 110,
-    "end_char": 120
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeepa:article:201:term-usage:124-132",
-    "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:201",
-    "term_id": "urn:lex-mx:federal:statute:lgeepa:term:ambiente",
-    "span": "Ambiente",
-    "start_char": 124,
-    "end_char": 132
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeepa:article:201:term-usage:554-564",
-    "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:201",
-    "term_id": "urn:lex-mx:federal:statute:lgeepa:term:proteccion",
-    "span": "Protección",
-    "start_char": 554,
-    "end_char": 564
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeepa:article:201:term-usage:568-576",
-    "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:201",
-    "term_id": "urn:lex-mx:federal:statute:lgeepa:term:ambiente",
-    "span": "Ambiente",
-    "start_char": 568,
-    "end_char": 576
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeepa:article:202:term-usage:27-37",
-    "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:202",
-    "term_id": "urn:lex-mx:federal:statute:lgeepa:term:proteccion",
-    "span": "Protección",
-    "start_char": 27,
-    "end_char": 37
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeepa:article:202:term-usage:41-49",
-    "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:202",
-    "term_id": "urn:lex-mx:federal:statute:lgeepa:term:ambiente",
-    "span": "Ambiente",
-    "start_char": 41,
-    "end_char": 49
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeepa:article:202:term-usage:415-425",
-    "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:202",
-    "term_id": "urn:lex-mx:federal:statute:lgeepa:term:proteccion",
-    "span": "Protección",
-    "start_char": 415,
-    "end_char": 425
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeepa:article:202:term-usage:429-437",
-    "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:202",
-    "term_id": "urn:lex-mx:federal:statute:lgeepa:term:ambiente",
-    "span": "Ambiente",
-    "start_char": 429,
-    "end_char": 437
   },
   {
     "schema_version": "0.1.0",

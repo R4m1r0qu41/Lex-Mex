@@ -1,15 +1,6 @@
 [
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgimh:article:5:term-usage:4377-4396",
-    "provision_id": "urn:lex-mx:federal:statute:lgimh:article:5",
-    "term_id": "urn:lex-mx:federal:statute:lgimh:term:igualdad-sustantiva",
-    "span": "Igualdad Sustantiva",
-    "start_char": 4377,
-    "end_char": 4396
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgimh:article:5:term-usage:4550-4569",
     "provision_id": "urn:lex-mx:federal:statute:lgimh:article:5",
     "term_id": "urn:lex-mx:federal:statute:lgimh:term:igualdad-sustantiva",
@@ -136,15 +127,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgimh:article:18:term-usage:148-167",
-    "provision_id": "urn:lex-mx:federal:statute:lgimh:article:18",
-    "term_id": "urn:lex-mx:federal:statute:lgimh:term:igualdad-sustantiva",
-    "span": "Igualdad Sustantiva",
-    "start_char": 148,
-    "end_char": 167
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgimh:article:18:term-usage:198-215",
     "provision_id": "urn:lex-mx:federal:statute:lgimh:article:18",
     "term_id": "urn:lex-mx:federal:statute:lgimh:term:programa-nacional",
@@ -223,24 +205,6 @@
     "span": "Sistema Nacional",
     "start_char": 214,
     "end_char": 230
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgimh:article:24-bis:term-usage:693-709",
-    "provision_id": "urn:lex-mx:federal:statute:lgimh:article:24-bis",
-    "term_id": "urn:lex-mx:federal:statute:lgimh:term:sistema-nacional",
-    "span": "Sistema Nacional",
-    "start_char": 693,
-    "end_char": 709
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgimh:article:24-bis:term-usage:919-933",
-    "provision_id": "urn:lex-mx:federal:statute:lgimh:article:24-bis",
-    "term_id": "urn:lex-mx:federal:statute:lgimh:term:discriminacion",
-    "span": "Discriminación",
-    "start_char": 919,
-    "end_char": 933
   },
   {
     "schema_version": "0.1.0",

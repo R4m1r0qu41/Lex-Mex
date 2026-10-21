@@ -27,7 +27,7 @@ B. Descripción del volumen y las condiciones en que se realizaron las importaci
 
 C. El tipo de medida de salvaguarda que se establece;
 
-D. La mención de que se notificará a la [Secretaría](articulo-1o.md) de Hacienda y Crédito Público para la aplicación oportuna de la medida impuesta, y
+D. La mención de que se notificará a la Secretaría de Hacienda y Crédito Público para la aplicación oportuna de la medida impuesta, y
 
 E. La fecha en que se sometió el proyecto de resolución final a opinión de la [Comisión](articulo-1o.md) y el sentido en que ésta opinó. Inciso reformado DOF 22-05-2014
 

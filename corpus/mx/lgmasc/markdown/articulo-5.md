@@ -29,7 +29,7 @@ IV. Centro Privado de Mecanismos Alternativos de Solución de Controversias. La 
 
 V. Certificación. Documento mediante el cual se hace constar la autorización de las personas facilitadoras públicas o privadas, así como de las personas abogadas colaborativas, para su intervención en los mecanismos alternativos de solución de controversias, otorgada por los Poderes Judiciales Federal o de las entidades federativas; así como en los Tribunales de Justicia Administrativa federal y locales;
 
-VI. Consejo. Consejo Nacional de [Mecanismos Alternativos de Solución de Controversias](articulo-5.md);
+VI. Consejo. Consejo Nacional de Mecanismos Alternativos de Solución de Controversias;
 
 VII. Consejo de Justicia Administrativa. Consejo Nacional de Mecanismos Alternativos de Solución de Controversias en materia de Justicia Administrativa, de conformidad con lo dispuesto en el Capítulo VIII de esta Ley;
 
@@ -51,7 +51,7 @@ XV. Procesos de Justicia Restaurativa. Conjunto de sesiones, encuentros e interv
 
 XVI. Procesos de Justicia Terapéutica. Herramientas metodológicas e interdisciplinarias aplicadas en el abordaje y resolución de conflictos, mediante el acompañamiento, guía e interacción de agentes terapéuticos con las personas involucradas en el conflicto, ello con la finalidad de fomentar el bienestar físico, psicológico y emocional de las personas interesadas en la solución del conflicto; XVII. Registro de Personas Facilitadoras. Resguardo electrónico de datos respecto del otorgamiento o modificación de la certificación de las personas facilitadoras públicas y privadas, así como de las personas abogadas colaborativas, a cargo de la instancia que determinen los Poderes Judiciales Federal o de las entidades federativas;
 
-XVIII. Plataforma Nacional de Personas Facilitadoras. Resguardo electrónico a cargo del [Consejo](articulo-5.md) de la Judicatura Federal, que contiene los datos e información respecto del otorgamiento de certificación de las personas facilitadoras públicas y privadas en todo el territorio nacional, así como de las personas abogadas colaborativas;
+XVIII. Plataforma Nacional de Personas Facilitadoras. Resguardo electrónico a cargo del Consejo de la Judicatura Federal, que contiene los datos e información respecto del otorgamiento de certificación de las personas facilitadoras públicas y privadas en todo el territorio nacional, así como de las personas abogadas colaborativas;
 
 XIX. Sistemas en línea. Dispositivos electrónicos, programas informáticos, aplicaciones, herramientas tecnológicas, plataformas, protocolos, sistemas de justicia descentralizada, sistemas automatizados y demás tecnologías de la información y comunicación, utilizados para llevar a cabo la solución de controversias en línea;
 

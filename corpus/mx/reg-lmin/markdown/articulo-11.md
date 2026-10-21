@@ -19,7 +19,7 @@ source_sha256: 4d25bcb022ab62a24462e11a230c9554c0120012913ab4599cd3ec1b2b275c1d
 
 El director general del [Servicio Geológico](articulo-1o.md) tendrá, además de las facultades señaladas en la Ley Federal de las Entidades Paraestatales y en el Reglamento de la Ley Federal de las Entidades Paraestatales, las contenidas en su Estatuto Orgánico.
 
-El Servicio Geológico cuenta con un órgano de vigilancia, integrado por un Comisario Público propietario y un suplente, designados por la [Secretaría](articulo-1o.md) de la Función Pública, quienes asistirán con voz pero sin voto a las sesiones ordinarias y extraordinarias de la Junta de Gobierno y tendrán las atribuciones que les otorga la Ley Federal de las Entidades Paraestatales y su Reglamento y demás disposiciones legales aplicables.
+El Servicio Geológico cuenta con un órgano de vigilancia, integrado por un Comisario Público propietario y un suplente, designados por la Secretaría de la Función Pública, quienes asistirán con voz pero sin voto a las sesiones ordinarias y extraordinarias de la Junta de Gobierno y tendrán las atribuciones que les otorga la Ley Federal de las Entidades Paraestatales y su Reglamento y demás disposiciones legales aplicables.
 
 Asimismo, el Servicio Geológico cuenta con una Contraloría Interna, Órgano Interno de Control, al frente del cual está el Titular, designado en los términos del artículo [37](../../loapf/markdown/articulo-37.md), fracción XII de la Ley Orgánica de la Administración Pública Federal, quien en el ejercicio de sus facultades se auxiliará por los titulares de las áreas de auditoría, quejas y responsabilidades, designados en los mismos términos.
 

@@ -23,7 +23,7 @@ I. Nombre y domicilio del solicitante; II. Región donde pretenda llevar a cabo 
 
 III. La duración que se pretenda;
 
-IV. Acreditar su inscripción en el [Registro](articulo-4o.md) Nacional de [Pesca](articulo-4o.md) y [Acuacultura](articulo-4o.md) o copia de la solicitud, si se encuentra en trámite;
+IV. Acreditar su inscripción en el [Registro](articulo-4o.md) Nacional de Pesca y Acuacultura o copia de la solicitud, si se encuentra en trámite;
 
 V. Descripción de las características tecnológicas de la embarcación, equipos y artes de pesca con las cuales se pretende llevar a cabo la actividad, y
 

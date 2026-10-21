@@ -46,24 +46,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lecampo:article:3:term-usage:461-471",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lecampo:article:3",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lecampo:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 461,
-    "end_char": 471
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lecampo:article:3:term-usage:670-680",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lecampo:article:3",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lecampo:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 670,
-    "end_char": 680
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lecampo:article:5:term-usage:3-13",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lecampo:article:5",
     "term_id": "urn:lex-mx:federal:regulation:reg-lecampo:term:secretaria",

@@ -71,7 +71,7 @@ XVI. Contribuir al diagnóstico de la situación ambiental en relación con los 
 
 XVII. Participar, en el diseño de mecanismos de financiamiento que permitan llevar a cabo los proyectos de investigación para la conservación y aprovechamiento sustentable de los recursos naturales y control de la contaminación;
 
-XVIII. Participar en la integración y toma de decisiones del [Consejo](articulo-3o.md) Técnico Consultivo Nacional para la Conservación y Aprovechamiento Sustentable de la Vida Silvestre, así como desarrollar estudios científicos que tengan por objeto identificar las especies en riesgo, determinar las especies y poblaciones prioritarias para la conservación y promover la declaración de hábitat críticos y áreas de refugio;
+XVIII. Participar en la integración y toma de decisiones del Consejo Técnico Consultivo Nacional para la Conservación y Aprovechamiento Sustentable de la Vida Silvestre, así como desarrollar estudios científicos que tengan por objeto identificar las especies en riesgo, determinar las especies y poblaciones prioritarias para la conservación y promover la declaración de hábitat críticos y áreas de refugio;
 
 XIX. Dar apoyo técnico a los estudios que propongan y justifiquen el establecimiento y recategorización de las áreas naturales protegidas de competencia federal, zonas de restauración, así como la elaboración de los respectivos programas de manejo;
 

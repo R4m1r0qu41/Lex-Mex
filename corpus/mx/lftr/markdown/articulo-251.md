@@ -20,7 +20,7 @@ source_sha256: a15012b33a415083f7714764c86fda8ed0078d3f5313dfc194c503f98a573a2a
 
 # Artículo 251
 
-Los concesionarios de uso comercial, público y social que presten el servicio de radiodifusión deberán efectuar transmisiones gratuitas diarias en cada estación y por cada canal de programación, con una duración de hasta treinta minutos continuos o discontinuos, dedicados a difundir temas educativos, culturales y de interés social. Los tiempos de transmisión serán administrados por la [Secretaría](articulo-3.md) de Gobernación, la que oirá previamente al concesionario y de acuerdo con ellos fijará los horarios a lo largo de sus horas de transmisión.
+Los concesionarios de uso comercial, público y social que presten el servicio de radiodifusión deberán efectuar transmisiones gratuitas diarias en cada estación y por cada canal de programación, con una duración de hasta treinta minutos continuos o discontinuos, dedicados a difundir temas educativos, culturales y de interés social. Los tiempos de transmisión serán administrados por la Secretaría de Gobernación, la que oirá previamente al concesionario y de acuerdo con ellos fijará los horarios a lo largo de sus horas de transmisión.
 
 El [Ejecutivo Federal](articulo-3.md) señalará las dependencias que deberán proporcionar el material para el uso de dicho tiempo y las emisiones serán coordinadas por la Secretaría de Gobernación.
 

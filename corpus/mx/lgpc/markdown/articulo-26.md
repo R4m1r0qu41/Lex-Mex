@@ -33,7 +33,7 @@ VII. Fomentar la participación comprometida y corresponsable de todos los secto
 
 VIII. Convocar, coordinar y armonizar, con pleno respeto a sus respectivas soberanías, la participación de las entidades federativas y por conducto de éstas, de los municipios, las demarcaciones territoriales de la Ciudad de México y de los diversos grupos sociales locales organizados, en la definición y ejecución de las acciones que se convenga realizar en materia de protección civil; Fracción reformada DOF 19-01-2018
 
-IX. Proponer a la [Secretaría](articulo-2.md) de Relaciones Exteriores, los criterios para la celebración y el cumplimiento de los acuerdos internacionales en materia de protección civil;
+IX. Proponer a la Secretaría de Relaciones Exteriores, los criterios para la celebración y el cumplimiento de los acuerdos internacionales en materia de protección civil;
 
 X. Proponer el establecimiento de las modalidades de cooperación y auxilio internacionales en casos de desastres, de acuerdo con la Secretaría de Relaciones Exteriores y en los términos establecidos en el Reglamento;
 

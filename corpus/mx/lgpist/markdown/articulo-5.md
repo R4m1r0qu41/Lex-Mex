@@ -21,9 +21,9 @@ Para los efectos de esta [Ley](articulo-5.md) se entiende por:
 
 I. Comisión Nacional: La Comisión Nacional de los Derechos Humanos.
 
-II. Comisión Ejecutiva: La Comisión Ejecutiva de Atención a [Víctimas](articulo-5.md).
+II. Comisión Ejecutiva: La Comisión Ejecutiva de Atención a Víctimas.
 
-III. Comisiones de Atención a Víctimas: Las Comisiones de Atención a Víctimas de las entidades federativas.
+III. Comisiones de Atención a Víctimas: Las Comisiones de Atención a [Víctimas](articulo-5.md) de las entidades federativas.
 
 IV. Constitución: La Constitución Política de los Estados Unidos Mexicanos.
 

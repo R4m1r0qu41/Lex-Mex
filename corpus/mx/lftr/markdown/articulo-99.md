@@ -20,4 +20,4 @@ source_sha256: a15012b33a415083f7714764c86fda8ed0078d3f5313dfc194c503f98a573a2a
 
 # Artículo 99
 
-Todas las contraprestaciones a que se refiere esta [Ley](articulo-3.md) requerirán previa opinión no vinculante de la [Secretaría](articulo-3.md) de Hacienda y Crédito Público, misma que deberá emitirse en un plazo no mayor de treinta días naturales. Transcurrido este plazo sin que se emita dicha opinión, el [Instituto](articulo-3.md) continuará los trámites correspondientes.
+Todas las contraprestaciones a que se refiere esta [Ley](articulo-3.md) requerirán previa opinión no vinculante de la Secretaría de Hacienda y Crédito Público, misma que deberá emitirse en un plazo no mayor de treinta días naturales. Transcurrido este plazo sin que se emita dicha opinión, el [Instituto](articulo-3.md) continuará los trámites correspondientes.

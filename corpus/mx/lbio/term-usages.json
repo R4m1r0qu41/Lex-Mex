@@ -298,15 +298,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:2:term-usage:2633-2648",
-    "provision_id": "urn:lex-mx:federal:statute:lbio:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lbio:term:biocombustible",
-    "span": "Biocombustibles",
-    "start_char": 2633,
-    "end_char": 2648
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lbio:article:2:term-usage:2670-2675",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:2",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:sener",

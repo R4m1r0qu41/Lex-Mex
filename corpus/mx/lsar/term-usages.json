@@ -1,24 +1,6 @@
 [
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsar:article:1:term-usage:272-284",
-    "provision_id": "urn:lex-mx:federal:statute:lsar:article:1",
-    "term_id": "urn:lex-mx:federal:statute:lsar:term:trabajador",
-    "span": "Trabajadores",
-    "start_char": 272,
-    "end_char": 284
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsar:article:1:term-usage:342-354",
-    "provision_id": "urn:lex-mx:federal:statute:lsar:article:1",
-    "term_id": "urn:lex-mx:federal:statute:lsar:term:trabajador",
-    "span": "Trabajadores",
-    "start_char": 342,
-    "end_char": 354
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lsar:article:2:term-usage:137-169",
     "provision_id": "urn:lex-mx:federal:statute:lsar:article:2",
     "term_id": "urn:lex-mx:federal:statute:lsar:term:sistemas-de-ahorro-para-el-retiro",
@@ -61,24 +43,6 @@
     "span": "Trabajadores",
     "start_char": 2027,
     "end_char": 2039
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsar:article:3:term-usage:2215-2227",
-    "provision_id": "urn:lex-mx:federal:statute:lsar:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lsar:term:trabajador",
-    "span": "Trabajadores",
-    "start_char": 2215,
-    "end_char": 2227
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsar:article:3:term-usage:2285-2297",
-    "provision_id": "urn:lex-mx:federal:statute:lsar:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lsar:term:trabajador",
-    "span": "Trabajadores",
-    "start_char": 2285,
-    "end_char": 2297
   },
   {
     "schema_version": "0.1.0",
@@ -136,42 +100,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsar:article:7:term-usage:515-527",
-    "provision_id": "urn:lex-mx:federal:statute:lsar:article:7",
-    "term_id": "urn:lex-mx:federal:statute:lsar:term:trabajador",
-    "span": "Trabajadores",
-    "start_char": 515,
-    "end_char": 527
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsar:article:7:term-usage:604-616",
-    "provision_id": "urn:lex-mx:federal:statute:lsar:article:7",
-    "term_id": "urn:lex-mx:federal:statute:lsar:term:trabajador",
-    "span": "Trabajadores",
-    "start_char": 604,
-    "end_char": 616
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsar:article:15:term-usage:436-448",
-    "provision_id": "urn:lex-mx:federal:statute:lsar:article:15",
-    "term_id": "urn:lex-mx:federal:statute:lsar:term:trabajador",
-    "span": "Trabajadores",
-    "start_char": 436,
-    "end_char": 448
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsar:article:15:term-usage:517-529",
-    "provision_id": "urn:lex-mx:federal:statute:lsar:article:15",
-    "term_id": "urn:lex-mx:federal:statute:lsar:term:trabajador",
-    "span": "Trabajadores",
-    "start_char": 517,
-    "end_char": 529
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lsar:article:15:term-usage:1108-1120",
     "provision_id": "urn:lex-mx:federal:statute:lsar:article:15",
     "term_id": "urn:lex-mx:federal:statute:lsar:term:trabajador",
@@ -190,39 +118,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsar:article:18:term-usage:1626-1638",
-    "provision_id": "urn:lex-mx:federal:statute:lsar:article:18",
-    "term_id": "urn:lex-mx:federal:statute:lsar:term:trabajador",
-    "span": "Trabajadores",
-    "start_char": 1626,
-    "end_char": 1638
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsar:article:18:term-usage:2037-2049",
-    "provision_id": "urn:lex-mx:federal:statute:lsar:article:18",
-    "term_id": "urn:lex-mx:federal:statute:lsar:term:trabajador",
-    "span": "Trabajadores",
-    "start_char": 2037,
-    "end_char": 2049
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lsar:article:18:term-usage:3397-3412",
     "provision_id": "urn:lex-mx:federal:statute:lsar:article:18",
     "term_id": "urn:lex-mx:federal:statute:lsar:term:administradora",
     "span": "Administradoras",
     "start_char": 3397,
     "end_char": 3412
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsar:article:18:term-usage:5746-5758",
-    "provision_id": "urn:lex-mx:federal:statute:lsar:article:18",
-    "term_id": "urn:lex-mx:federal:statute:lsar:term:trabajador",
-    "span": "Trabajadores",
-    "start_char": 5746,
-    "end_char": 5758
   },
   {
     "schema_version": "0.1.0",
@@ -568,48 +469,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsar:article:74-bis:term-usage:84-96",
-    "provision_id": "urn:lex-mx:federal:statute:lsar:article:74-bis",
-    "term_id": "urn:lex-mx:federal:statute:lsar:term:trabajador",
-    "span": "Trabajadores",
-    "start_char": 84,
-    "end_char": 96
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsar:article:74-bis:term-usage:1746-1758",
-    "provision_id": "urn:lex-mx:federal:statute:lsar:article:74-bis",
-    "term_id": "urn:lex-mx:federal:statute:lsar:term:trabajador",
-    "span": "Trabajadores",
-    "start_char": 1746,
-    "end_char": 1758
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lsar:article:74-bis:term-usage:1985-2017",
     "provision_id": "urn:lex-mx:federal:statute:lsar:article:74-bis",
     "term_id": "urn:lex-mx:federal:statute:lsar:term:sistemas-de-ahorro-para-el-retiro",
     "span": "Sistema de Ahorro para el Retiro",
     "start_char": 1985,
     "end_char": 2017
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsar:article:74-bis:term-usage:2481-2493",
-    "provision_id": "urn:lex-mx:federal:statute:lsar:article:74-bis",
-    "term_id": "urn:lex-mx:federal:statute:lsar:term:trabajador",
-    "span": "Trabajadores",
-    "start_char": 2481,
-    "end_char": 2493
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsar:article:74-bis:term-usage:2749-2761",
-    "provision_id": "urn:lex-mx:federal:statute:lsar:article:74-bis",
-    "term_id": "urn:lex-mx:federal:statute:lsar:term:trabajador",
-    "span": "Trabajadores",
-    "start_char": 2749,
-    "end_char": 2761
   },
   {
     "schema_version": "0.1.0",
@@ -658,24 +523,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsar:article:79:term-usage:2728-2740",
-    "provision_id": "urn:lex-mx:federal:statute:lsar:article:79",
-    "term_id": "urn:lex-mx:federal:statute:lsar:term:trabajador",
-    "span": "Trabajadores",
-    "start_char": 2728,
-    "end_char": 2740
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsar:article:81:term-usage:459-471",
-    "provision_id": "urn:lex-mx:federal:statute:lsar:article:81",
-    "term_id": "urn:lex-mx:federal:statute:lsar:term:trabajador",
-    "span": "Trabajadores",
-    "start_char": 459,
-    "end_char": 471
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lsar:article:81:term-usage:518-550",
     "provision_id": "urn:lex-mx:federal:statute:lsar:article:81",
     "term_id": "urn:lex-mx:federal:statute:lsar:term:sistemas-de-ahorro-para-el-retiro",
@@ -703,15 +550,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsar:article:92:term-usage:884-896",
-    "provision_id": "urn:lex-mx:federal:statute:lsar:article:92",
-    "term_id": "urn:lex-mx:federal:statute:lsar:term:trabajador",
-    "span": "Trabajadores",
-    "start_char": 884,
-    "end_char": 896
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lsar:article:93:term-usage:1075-1108",
     "provision_id": "urn:lex-mx:federal:statute:lsar:article:93",
     "term_id": "urn:lex-mx:federal:statute:lsar:term:sistemas-de-ahorro-para-el-retiro",
@@ -727,24 +565,6 @@
     "span": "La Comisión",
     "start_char": 199,
     "end_char": 210
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsar:article:99:term-usage:167-179",
-    "provision_id": "urn:lex-mx:federal:statute:lsar:article:99",
-    "term_id": "urn:lex-mx:federal:statute:lsar:term:trabajador",
-    "span": "Trabajadores",
-    "start_char": 167,
-    "end_char": 179
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsar:article:99:term-usage:250-262",
-    "provision_id": "urn:lex-mx:federal:statute:lsar:article:99",
-    "term_id": "urn:lex-mx:federal:statute:lsar:term:trabajador",
-    "span": "Trabajadores",
-    "start_char": 250,
-    "end_char": 262
   },
   {
     "schema_version": "0.1.0",
@@ -1114,15 +934,6 @@
     "span": "Sistema de Ahorro para el Retiro",
     "start_char": 14,
     "end_char": 46
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsar:article:116:term-usage:125-137",
-    "provision_id": "urn:lex-mx:federal:statute:lsar:article:116",
-    "term_id": "urn:lex-mx:federal:statute:lsar:term:trabajador",
-    "span": "Trabajadores",
-    "start_char": 125,
-    "end_char": 137
   },
   {
     "schema_version": "0.1.0",

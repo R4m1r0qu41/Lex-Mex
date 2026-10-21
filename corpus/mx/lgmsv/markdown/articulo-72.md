@@ -17,7 +17,7 @@ source_sha256: 79f2b255a142d1756d7e8c13244af6dc8c4f2f474acaf0d669f2b156b022fc03
 
 # Artículo 72
 
-Secretaría de Seguridad y Protección Ciudadana. Corresponden a la [Secretaría](articulo-3.md) de Seguridad y Protección Ciudadana, las siguientes atribuciones:
+Secretaría de Seguridad y Protección Ciudadana. Corresponden a la Secretaría de Seguridad y Protección Ciudadana, las siguientes atribuciones:
 
 I. Remitir al [Sistema Nacional](articulo-3.md) la información contenida en el Registro Público Vehicular; II. Mantener actualizada la información contenida en el Registro Público Vehicular, con el objetivo de coadyuvar al cumplimiento de los principios de la presente [Ley](articulo-3.md);
 

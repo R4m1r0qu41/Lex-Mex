@@ -17,4 +17,4 @@ source_sha256: 2beb1a3a5c23de93f1588ce6d4e4c209e73a8d747f19e3165706f38abcee8fe3
 
 # Artículo 174
 
-El [Instituto](articulo-2o.md) Mexicano de la Propiedad Industrial es la autoridad competente para conocer de los procedimientos de infracción en materia de comercio, de conformidad con las facultades que le otorgan la [Ley](articulo-2o.md), la Ley de la Propiedad Industrial y la Ley Aduanera.
+El Instituto Mexicano de la Propiedad Industrial es la autoridad competente para conocer de los procedimientos de infracción en materia de comercio, de conformidad con las facultades que le otorgan la [Ley](articulo-2o.md), la Ley de la Propiedad Industrial y la Ley Aduanera.

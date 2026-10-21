@@ -874,15 +874,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeo:article:7:term-usage:2901-2911",
-    "provision_id": "urn:lex-mx:federal:statute:lgeo:article:7",
-    "term_id": "urn:lex-mx:federal:statute:lgeo:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 2901,
-    "end_char": 2911
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgeo:article:7:term-usage:3747-3750",
     "provision_id": "urn:lex-mx:federal:statute:lgeo:article:7",
     "term_id": "urn:lex-mx:federal:statute:lgeo:term:ley",

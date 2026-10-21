@@ -17,6 +17,6 @@ source_sha256: cf241af670623476911e625178a081e9e05921b4b6cc73ae92b41a47da45487a
 
 # Artículo 66
 
-Durante el procedimiento, la [Secretaría](articulo-2.md) de Relaciones Exteriores o la [Representación](articulo-2.md) de considerarlo pertinente, tomará las medidas a su alcance para proveer protección a los solicitantes de asilo político.
+Durante el procedimiento, la Secretaría de Relaciones Exteriores o la [Representación](articulo-2.md) de considerarlo pertinente, tomará las medidas a su alcance para proveer protección a los solicitantes de asilo político.
 
 Artículo adicionado DOF 30-10-2014

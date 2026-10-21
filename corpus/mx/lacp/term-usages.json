@@ -1576,24 +1576,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lacp:article:34:term-usage:2521-2531",
-    "provision_id": "urn:lex-mx:federal:statute:lacp:article:34",
-    "term_id": "urn:lex-mx:federal:statute:lacp:term:federacion",
-    "span": "Federación",
-    "start_char": 2521,
-    "end_char": 2531
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lacp:article:34:term-usage:2775-2785",
-    "provision_id": "urn:lex-mx:federal:statute:lacp:article:34",
-    "term_id": "urn:lex-mx:federal:statute:lacp:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 2775,
-    "end_char": 2785
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lacp:article:34:term-usage:4125-4133",
     "provision_id": "urn:lex-mx:federal:statute:lacp:article:34",
     "term_id": "urn:lex-mx:federal:statute:lacp:term:comision",
@@ -10612,6 +10594,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lacp:article:120:term-usage:205-213",
+    "provision_id": "urn:lex-mx:federal:statute:lacp:article:120",
+    "term_id": "urn:lex-mx:federal:statute:lacp:term:comision",
+    "span": "Comisión",
+    "start_char": 205,
+    "end_char": 213
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lacp:article:120:term-usage:329-337",
     "provision_id": "urn:lex-mx:federal:statute:lacp:article:120",
     "term_id": "urn:lex-mx:federal:statute:lacp:term:comision",
@@ -11152,15 +11143,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lacp:article:122-bis:term-usage:592-600",
-    "provision_id": "urn:lex-mx:federal:statute:lacp:article:122-bis",
-    "term_id": "urn:lex-mx:federal:statute:lacp:term:comision",
-    "span": "Comisión",
-    "start_char": 592,
-    "end_char": 600
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lacp:article:122-bis:term-usage:759-767",
     "provision_id": "urn:lex-mx:federal:statute:lacp:article:122-bis",
     "term_id": "urn:lex-mx:federal:statute:lacp:term:comision",
@@ -11224,15 +11206,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lacp:article:122-bis:term-usage:1315-1323",
-    "provision_id": "urn:lex-mx:federal:statute:lacp:article:122-bis",
-    "term_id": "urn:lex-mx:federal:statute:lacp:term:comision",
-    "span": "Comisión",
-    "start_char": 1315,
-    "end_char": 1323
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lacp:article:122-bis:term-usage:2762-2772",
     "provision_id": "urn:lex-mx:federal:statute:lacp:article:122-bis",
     "term_id": "urn:lex-mx:federal:statute:lacp:term:secretaria",
@@ -11248,15 +11221,6 @@
     "span": "Comisión",
     "start_char": 2777,
     "end_char": 2785
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lacp:article:122-bis:term-usage:2811-2819",
-    "provision_id": "urn:lex-mx:federal:statute:lacp:article:122-bis",
-    "term_id": "urn:lex-mx:federal:statute:lacp:term:comision",
-    "span": "Comisión",
-    "start_char": 2811,
-    "end_char": 2819
   },
   {
     "schema_version": "0.1.0",
@@ -11293,15 +11257,6 @@
     "span": "Comisión",
     "start_char": 4939,
     "end_char": 4947
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lacp:article:122-bis:term-usage:4973-4981",
-    "provision_id": "urn:lex-mx:federal:statute:lacp:article:122-bis",
-    "term_id": "urn:lex-mx:federal:statute:lacp:term:comision",
-    "span": "Comisión",
-    "start_char": 4973,
-    "end_char": 4981
   },
   {
     "schema_version": "0.1.0",
@@ -13258,6 +13213,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lacp:article:146:term-usage:1661-1669",
+    "provision_id": "urn:lex-mx:federal:statute:lacp:article:146",
+    "term_id": "urn:lex-mx:federal:statute:lacp:term:comision",
+    "span": "Comisión",
+    "start_char": 1661,
+    "end_char": 1669
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lacp:article:146:term-usage:1780-1790",
     "provision_id": "urn:lex-mx:federal:statute:lacp:article:146",
     "term_id": "urn:lex-mx:federal:statute:lacp:term:secretaria",
@@ -13498,15 +13462,6 @@
     "span": "Comisión",
     "start_char": 195,
     "end_char": 203
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lacp:transitory:decimo-segundo:term-usage:240-248",
-    "provision_id": "urn:lex-mx:federal:statute:lacp:transitory:decimo-segundo",
-    "term_id": "urn:lex-mx:federal:statute:lacp:term:comision",
-    "span": "Comisión",
-    "start_char": 240,
-    "end_char": 248
   },
   {
     "schema_version": "0.1.0",

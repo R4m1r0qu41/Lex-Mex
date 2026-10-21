@@ -37,15 +37,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lpesca:article:2:term-usage:1693-1703",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:2",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lpesca:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 1693,
-    "end_char": 1703
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lpesca:article:2:term-usage:2426-2429",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lpesca:term:ley",
@@ -268,15 +259,6 @@
     "span": "Secretaría",
     "start_char": 3,
     "end_char": 13
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lpesca:article:16:term-usage:1019-1029",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:16",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lpesca:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 1019,
-    "end_char": 1029
   },
   {
     "schema_version": "0.1.0",
@@ -1132,15 +1114,6 @@
     "span": "Secretaría",
     "start_char": 3,
     "end_char": 13
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lpesca:article:71:term-usage:176-186",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:71",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lpesca:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 176,
-    "end_char": 186
   },
   {
     "schema_version": "0.1.0",
@@ -2035,30 +2008,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lpesca:article:144:term-usage:88-98",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:144",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lpesca:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 88,
-    "end_char": 98
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lpesca:article:144:term-usage:612-622",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:144",
     "term_id": "urn:lex-mx:federal:regulation:reg-lpesca:term:secretaria",
     "span": "Secretaría",
     "start_char": 612,
     "end_char": 622
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lpesca:article:144:term-usage:638-648",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:144",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lpesca:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 638,
-    "end_char": 648
   },
   {
     "schema_version": "0.1.0",
@@ -2086,24 +2041,6 @@
     "span": "Secretaría",
     "start_char": 68,
     "end_char": 78
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lpesca:article:149:term-usage:107-117",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:149",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lpesca:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 107,
-    "end_char": 117
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lpesca:article:150:term-usage:3-13",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:150",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lpesca:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 3,
-    "end_char": 13
   },
   {
     "schema_version": "0.1.0",

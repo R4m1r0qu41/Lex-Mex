@@ -20,7 +20,7 @@ source_sha256: a15012b33a415083f7714764c86fda8ed0078d3f5313dfc194c503f98a573a2a
 
 # Artículo 233
 
-Los concesionarios que presten el servicio de televisión o audio restringido deberán reservar gratuitamente canales para la distribución de las señales de televisión de instituciones públicas federales, que indique el [Ejecutivo Federal](articulo-3.md), por conducto de la [Secretaría](articulo-3.md) de Gobernación, conforme a lo siguiente:
+Los concesionarios que presten el servicio de televisión o audio restringido deberán reservar gratuitamente canales para la distribución de las señales de televisión de instituciones públicas federales, que indique el [Ejecutivo Federal](articulo-3.md), por conducto de la Secretaría de Gobernación, conforme a lo siguiente:
 
 I. Un canal, cuando el servicio consista de 31 a 37 canales;
 

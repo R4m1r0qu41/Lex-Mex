@@ -31240,15 +31240,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:265-bis-39:term-usage:6266-6274",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:265-bis-39",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:usuario",
-    "span": "Usuarios",
-    "start_char": 6266,
-    "end_char": 6274
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:265-bis-40:term-usage:4-14",
     "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:265-bis-40",
     "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sociedad",

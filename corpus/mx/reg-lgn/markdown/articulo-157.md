@@ -19,4 +19,4 @@ source_sha256: ea6e39560929f2e1998b2dabe0852fde0d684c69e5be49aab7f33433299bbeb0
 
 Para efectos del presente Capítulo se entenderá que presta servicios de la [Institución](articulo-2.md) en el extranjero, cualquier actividad o servicio que, con carácter temporal, efectúen los integrantes fuera del territorio nacional.
 
-Dicha actividad deberá realizarse atendiendo a los lineamientos de la [Secretaría](articulo-2.md) de Relaciones Exteriores y a la Ley del Servicio Exterior Mexicano, su [Reglamento](articulo-2.md) y demás disposiciones jurídicas aplicables.
+Dicha actividad deberá realizarse atendiendo a los lineamientos de la Secretaría de Relaciones Exteriores y a la Ley del Servicio Exterior Mexicano, su [Reglamento](articulo-2.md) y demás disposiciones jurídicas aplicables.

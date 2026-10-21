@@ -17,4 +17,4 @@ source_sha256: db115e165edc517f5ad816da7be01e11727838a59b9e68906fe686685f4c5087
 
 # Artículo 27
 
-La [Secretaría](articulo-3.md) de Medio Ambiente y Recursos Naturales, a través de la Comisión Nacional del Agua y las entidades federativas, a través de sus Comisiones Estatales u Organismos Operadores de Agua, proporcionarán en el ámbito de sus respectivas competencias, con cargo a los productores en términos de las disposiciones aplicables, el abastecimiento y acceso al agua en las regiones productoras de [Vid](articulo-3.md).
+La Secretaría de Medio Ambiente y Recursos Naturales, a través de la Comisión Nacional del Agua y las entidades federativas, a través de sus Comisiones Estatales u Organismos Operadores de Agua, proporcionarán en el ámbito de sus respectivas competencias, con cargo a los productores en términos de las disposiciones aplicables, el abastecimiento y acceso al agua en las regiones productoras de [Vid](articulo-3.md).

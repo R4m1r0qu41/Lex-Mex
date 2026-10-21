@@ -41,7 +41,7 @@ La información anterior también deberá presentarse respecto del beneficiario 
 
 III. Respecto de cada persona moral que participe como socio o accionista en la sociedad solicitante y, en su caso, en personas morales que a su vez sean socias o accionistas de la sociedad solicitante: a) Testimonio de la escritura constitutiva y de todas las modificaciones hechas a la misma, señalando los respectivos datos de inscripción en el Registro Público de la Propiedad y del Comercio que corresponda;
 
-b) Balances generales, estados de resultados, de origen y aplicación de recursos y de variaciones en el capital contable por los últimos cinco años y notas respectivas de estos documentos, debidamente auditados y dictaminados por contador público independiente registrado ante la [Secretaría](articulo-3.md) de Hacienda y Crédito Público;
+b) Balances generales, estados de resultados, de origen y aplicación de recursos y de variaciones en el capital contable por los últimos cinco años y notas respectivas de estos documentos, debidamente auditados y dictaminados por contador público independiente registrado ante la Secretaría de Hacienda y Crédito Público;
 
 c) Copia certificada ante fedatario público del acta en la que el órgano facultado de la persona moral haya autorizado la inversión en la sociedad solicitante del permiso;
 

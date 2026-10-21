@@ -10,15 +10,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lansi:article:1:term-usage:211-231",
-    "provision_id": "urn:lex-mx:federal:statute:lansi:article:1",
-    "term_id": "urn:lex-mx:federal:statute:lansi:term:seguridad-industrial",
-    "span": "Seguridad Industrial",
-    "start_char": 211,
-    "end_char": 231
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lansi:article:1:term-usage:343-353",
     "provision_id": "urn:lex-mx:federal:statute:lansi:article:1",
     "term_id": "urn:lex-mx:federal:statute:lansi:term:secretaria",
@@ -79,15 +70,6 @@
     "span": "Secretarías",
     "start_char": 599,
     "end_char": 610
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lansi:article:3:term-usage:244-264",
-    "provision_id": "urn:lex-mx:federal:statute:lansi:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lansi:term:seguridad-industrial",
-    "span": "Seguridad Industrial",
-    "start_char": 244,
-    "end_char": 264
   },
   {
     "schema_version": "0.1.0",
@@ -181,15 +163,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lansi:article:5:term-usage:371-381",
-    "provision_id": "urn:lex-mx:federal:statute:lansi:article:5",
-    "term_id": "urn:lex-mx:federal:statute:lansi:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 371,
-    "end_char": 381
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lansi:article:5:term-usage:744-764",
     "provision_id": "urn:lex-mx:federal:statute:lansi:article:5",
     "term_id": "urn:lex-mx:federal:statute:lansi:term:seguridad-industrial",
@@ -214,15 +187,6 @@
     "span": "Secretaría",
     "start_char": 1243,
     "end_char": 1253
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lansi:article:5:term-usage:1306-1316",
-    "provision_id": "urn:lex-mx:federal:statute:lansi:article:5",
-    "term_id": "urn:lex-mx:federal:statute:lansi:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 1306,
-    "end_char": 1316
   },
   {
     "schema_version": "0.1.0",
@@ -469,24 +433,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lansi:article:6:term-usage:837-847",
-    "provision_id": "urn:lex-mx:federal:statute:lansi:article:6",
-    "term_id": "urn:lex-mx:federal:statute:lansi:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 837,
-    "end_char": 847
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lansi:article:6:term-usage:867-877",
-    "provision_id": "urn:lex-mx:federal:statute:lansi:article:6",
-    "term_id": "urn:lex-mx:federal:statute:lansi:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 867,
-    "end_char": 877
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lansi:article:6:term-usage:2757-2770",
     "provision_id": "urn:lex-mx:federal:statute:lansi:article:6",
     "term_id": "urn:lex-mx:federal:statute:lansi:term:contingencia",
@@ -568,15 +514,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lansi:article:10:term-usage:57-67",
-    "provision_id": "urn:lex-mx:federal:statute:lansi:article:10",
-    "term_id": "urn:lex-mx:federal:statute:lansi:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 57,
-    "end_char": 67
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lansi:article:11:term-usage:3-10",
     "provision_id": "urn:lex-mx:federal:statute:lansi:article:11",
     "term_id": "urn:lex-mx:federal:statute:lansi:term:agencia",
@@ -586,39 +523,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lansi:article:11:term-usage:26-36",
-    "provision_id": "urn:lex-mx:federal:statute:lansi:article:11",
-    "term_id": "urn:lex-mx:federal:statute:lansi:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 26,
-    "end_char": 36
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lansi:article:11:term-usage:54-64",
-    "provision_id": "urn:lex-mx:federal:statute:lansi:article:11",
-    "term_id": "urn:lex-mx:federal:statute:lansi:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 54,
-    "end_char": 64
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lansi:article:11:term-usage:420-427",
     "provision_id": "urn:lex-mx:federal:statute:lansi:article:11",
     "term_id": "urn:lex-mx:federal:statute:lansi:term:agencia",
     "span": "Agencia",
     "start_char": 420,
     "end_char": 427
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lansi:article:11:term-usage:443-453",
-    "provision_id": "urn:lex-mx:federal:statute:lansi:article:11",
-    "term_id": "urn:lex-mx:federal:statute:lansi:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 443,
-    "end_char": 453
   },
   {
     "schema_version": "0.1.0",
@@ -1387,15 +1297,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lansi:article:31:term-usage:752-762",
-    "provision_id": "urn:lex-mx:federal:statute:lansi:article:31",
-    "term_id": "urn:lex-mx:federal:statute:lansi:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 752,
-    "end_char": 762
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lansi:article:31:term-usage:864-871",
     "provision_id": "urn:lex-mx:federal:statute:lansi:article:31",
     "term_id": "urn:lex-mx:federal:statute:lansi:term:agencia",
@@ -1567,30 +1468,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lansi:article:37:term-usage:821-831",
-    "provision_id": "urn:lex-mx:federal:statute:lansi:article:37",
-    "term_id": "urn:lex-mx:federal:statute:lansi:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 821,
-    "end_char": 831
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lansi:article:37:term-usage:956-963",
     "provision_id": "urn:lex-mx:federal:statute:lansi:article:37",
     "term_id": "urn:lex-mx:federal:statute:lansi:term:agencia",
     "span": "Agencia",
     "start_char": 956,
     "end_char": 963
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lansi:article:37:term-usage:1214-1224",
-    "provision_id": "urn:lex-mx:federal:statute:lansi:article:37",
-    "term_id": "urn:lex-mx:federal:statute:lansi:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 1214,
-    "end_char": 1224
   },
   {
     "schema_version": "0.1.0",
@@ -1645,15 +1528,6 @@
     "span": "Secretaría",
     "start_char": 3,
     "end_char": 13
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lansi:transitory:cuarto:term-usage:18-28",
-    "provision_id": "urn:lex-mx:federal:statute:lansi:transitory:cuarto",
-    "term_id": "urn:lex-mx:federal:statute:lansi:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 18,
-    "end_char": 28
   },
   {
     "schema_version": "0.1.0",
@@ -1738,30 +1612,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lansi:transitory:quinto:term-usage:351-361",
-    "provision_id": "urn:lex-mx:federal:statute:lansi:transitory:quinto",
-    "term_id": "urn:lex-mx:federal:statute:lansi:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 351,
-    "end_char": 361
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lansi:transitory:sexto:term-usage:3-13",
     "provision_id": "urn:lex-mx:federal:statute:lansi:transitory:sexto",
     "term_id": "urn:lex-mx:federal:statute:lansi:term:secretaria",
     "span": "Secretaría",
     "start_char": 3,
     "end_char": 13
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lansi:transitory:sexto:term-usage:18-28",
-    "provision_id": "urn:lex-mx:federal:statute:lansi:transitory:sexto",
-    "term_id": "urn:lex-mx:federal:statute:lansi:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 18,
-    "end_char": 28
   },
   {
     "schema_version": "0.1.0",

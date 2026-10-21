@@ -17,4 +17,4 @@ source_sha256: b01d875d525d1efbe4edf9f022f58c9afb56fb777581fc9eae1038c212e6b43c
 
 # Artículo 26
 
-La [Secretaría](articulo-4.md) de Hacienda y Crédito Público y la Secretaría emitirán los lineamientos aplicables en materia de austeridad republicana, sin que éstos limiten o interfieran en el cumplimiento de la prestación de servicios al público y de los objetivos de la Administración Pública Federal.
+La Secretaría de Hacienda y Crédito Público y la [Secretaría](articulo-4.md) emitirán los lineamientos aplicables en materia de austeridad republicana, sin que éstos limiten o interfieran en el cumplimiento de la prestación de servicios al público y de los objetivos de la Administración Pública Federal.

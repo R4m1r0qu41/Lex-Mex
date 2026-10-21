@@ -118,24 +118,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmasc:article:5:term-usage:1893-1945",
-    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:5",
-    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:mecanismos-alternativos-de-solucion-de-controversias",
-    "span": "Mecanismos Alternativos de Solución de Controversias",
-    "start_char": 1893,
-    "end_char": 1945
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmasc:article:5:term-usage:2009-2061",
-    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:5",
-    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:mecanismos-alternativos-de-solucion-de-controversias",
-    "span": "Mecanismos Alternativos de Solución de Controversias",
-    "start_char": 2009,
-    "end_char": 2061
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgmasc:article:5:term-usage:2161-2164",
     "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:5",
     "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
@@ -172,15 +154,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmasc:article:5:term-usage:5314-5321",
-    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:5",
-    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:consejo",
-    "span": "Consejo",
-    "start_char": 5314,
-    "end_char": 5321
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgmasc:article:5:term-usage:5977-6047",
     "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:5",
     "term_id": "urn:lex-mx:federal:statute:lgmasc:term:centro-publico-de-mecanismos-alternativos-de-solucion-de-controversias",
@@ -196,15 +169,6 @@
     "span": "Sistema de Convenios",
     "start_char": 6223,
     "end_char": 6243
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmasc:article:5:term-usage:6322-6329",
-    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:5",
-    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:consejo",
-    "span": "Consejo",
-    "start_char": 6322,
-    "end_char": 6329
   },
   {
     "schema_version": "0.1.0",
@@ -394,15 +358,6 @@
     "span": "Plataforma Nacional de Personas Facilitadoras",
     "start_char": 253,
     "end_char": 298
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmasc:article:18:term-usage:484-491",
-    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:18",
-    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:consejo",
-    "span": "Consejo",
-    "start_char": 484,
-    "end_char": 491
   },
   {
     "schema_version": "0.1.0",
@@ -1261,15 +1216,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmasc:article:54:term-usage:157-164",
-    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:54",
-    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:consejo",
-    "span": "Consejo",
-    "start_char": 157,
-    "end_char": 164
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgmasc:article:54:term-usage:276-310",
     "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:54",
     "term_id": "urn:lex-mx:federal:statute:lgmasc:term:registro-de-personas-facilitadoras",
@@ -1864,15 +1810,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmasc:article:113:term-usage:125-132",
-    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:113",
-    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:consejo",
-    "span": "Consejo",
-    "start_char": 125,
-    "end_char": 132
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgmasc:article:114:term-usage:3-47",
     "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:114",
     "term_id": "urn:lex-mx:federal:statute:lgmasc:term:sistema-nacional-de-informacion-de-convenios",
@@ -1972,15 +1909,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmasc:article:117:term-usage:900-952",
-    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:117",
-    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:mecanismos-alternativos-de-solucion-de-controversias",
-    "span": "Mecanismos Alternativos de Solución de Controversias",
-    "start_char": 900,
-    "end_char": 952
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgmasc:article:117:term-usage:1469-1521",
     "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:117",
     "term_id": "urn:lex-mx:federal:statute:lgmasc:term:mecanismos-alternativos-de-solucion-de-controversias",
@@ -2035,15 +1963,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmasc:article:119:term-usage:23-75",
-    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:119",
-    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:mecanismos-alternativos-de-solucion-de-controversias",
-    "span": "Mecanismos Alternativos de Solución de Controversias",
-    "start_char": 23,
-    "end_char": 75
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgmasc:article:119:term-usage:203-273",
     "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:119",
     "term_id": "urn:lex-mx:federal:statute:lgmasc:term:centro-publico-de-mecanismos-alternativos-de-solucion-de-controversias",
@@ -2080,15 +1999,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmasc:article:120:term-usage:23-75",
-    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:120",
-    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:mecanismos-alternativos-de-solucion-de-controversias",
-    "span": "Mecanismos Alternativos de Solución de Controversias",
-    "start_char": 23,
-    "end_char": 75
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgmasc:article:120:term-usage:343-377",
     "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:120",
     "term_id": "urn:lex-mx:federal:statute:lgmasc:term:consejo-de-justicia-administrativa",
@@ -2113,15 +2023,6 @@
     "span": "Consejo",
     "start_char": 15,
     "end_char": 22
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmasc:article:121:term-usage:35-87",
-    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:121",
-    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:mecanismos-alternativos-de-solucion-de-controversias",
-    "span": "Mecanismos Alternativos de Solución de Controversias",
-    "start_char": 35,
-    "end_char": 87
   },
   {
     "schema_version": "0.1.0",
@@ -2422,30 +2323,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmasc:article:139:term-usage:868-875",
-    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:139",
-    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:consejo",
-    "span": "Consejo",
-    "start_char": 868,
-    "end_char": 875
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgmasc:article:139:term-usage:1002-1005",
     "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:139",
     "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
     "span": "Ley",
     "start_char": 1002,
     "end_char": 1005
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmasc:article:140:term-usage:3-10",
-    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:140",
-    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:consejo",
-    "span": "Consejo",
-    "start_char": 3,
-    "end_char": 10
   },
   {
     "schema_version": "0.1.0",
@@ -2572,15 +2455,6 @@
     "span": "Ley",
     "start_char": 311,
     "end_char": 314
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmasc:transitory:sexto:term-usage:23-30",
-    "provision_id": "urn:lex-mx:federal:statute:lgmasc:transitory:sexto",
-    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:consejo",
-    "span": "Consejo",
-    "start_char": 23,
-    "end_char": 30
   },
   {
     "schema_version": "0.1.0",

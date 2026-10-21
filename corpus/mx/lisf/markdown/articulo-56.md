@@ -37,7 +37,7 @@ f) Los servidores públicos de las autoridades encargadas de la inspección y vi
 
 g) Quienes realicen funciones de regulación y supervisión de las Instituciones, salvo que exista participación del Gobierno Federal en el capital de las mismas;
 
-h) Los servidores públicos del Banco de México, del Instituto para la Protección al Ahorro Bancario, la [Comisión](articulo-2.md) Nacional Bancaria y de Valores, la Comisión Nacional del Sistema de Ahorro para el Retiro y la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, e
+h) Los servidores públicos del Banco de México, del Instituto para la Protección al Ahorro Bancario, la Comisión Nacional Bancaria y de Valores, la [Comisión](articulo-2.md) Nacional del Sistema de Ahorro para el Retiro y la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, e
 
 i) Quienes participen en el consejo de administración de otra Institución o de una sociedad controladora de un grupo financiero al que pertenezca una Institución que practique la misma operación o ramo, o bien el mismo ramo o subramo, según sea el caso, cuando las Instituciones de que se trate no mantengan nexos patrimoniales de [Control](articulo-2.md) entre las mismas.
 

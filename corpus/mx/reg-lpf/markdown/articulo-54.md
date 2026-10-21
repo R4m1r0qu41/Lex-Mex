@@ -41,7 +41,7 @@ XI. Proponer y desarrollar mecanismos de intercambio de información con autorid
 
 XII. Revisar los protocolos existentes con agencias internacionales para el intercambio de información relacionada con el robo de documentos de viajes, identificación de cadáveres y otros en el ámbito de su competencia;
 
-XIII. Facilitar, en coordinación con la [Secretaría](articulo-2.md) de Relaciones Exteriores, la Procuraduría General de la República y demás dependencias y entidades de la Administración Pública Federal, la interlocución internacional de la Policía Federal para la ejecución de acciones en el ámbito de su competencia;
+XIII. Facilitar, en coordinación con la Secretaría de Relaciones Exteriores, la Procuraduría General de la República y demás dependencias y entidades de la Administración Pública Federal, la interlocución internacional de la Policía Federal para la ejecución de acciones en el ámbito de su competencia;
 
 XIV. Proponer vínculos con representantes extranjeros acreditados en el país para el manejo de temas de seguridad pública;
 
@@ -51,7 +51,7 @@ XVI. Previo acuerdo con su superior jerárquico, establecer y operar canales de 
 
 XVII. Elaborar proyectos de convenios, acuerdos, tratados internacionales relacionados con la seguridad pública y demás actos jurídicos que se sometan a consideración de la Dirección General de Asuntos Jurídicos,
 
-XVIII. Promover, en coordinación con los agregados y enlaces de la Secretaría acreditados en el extranjero, la cooperación en materia de seguridad pública, de acuerdo con las disposiciones constitucionales y legales;
+XVIII. Promover, en coordinación con los agregados y enlaces de la [Secretaría](articulo-2.md) acreditados en el extranjero, la cooperación en materia de seguridad pública, de acuerdo con las disposiciones constitucionales y legales;
 
 XIX. A través de los agregados y enlaces:
 

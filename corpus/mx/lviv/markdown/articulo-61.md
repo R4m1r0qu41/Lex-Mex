@@ -19,7 +19,7 @@ source_sha256: f6af373e0f5b95596b4e54f4ccd2e0270fcc85bd4f05fb43da775de2f53c9ff7
 
 Los subsidios que en materia de vivienda y de suelo otorgue el Gobierno Federal se destinarán exclusivamente a los hogares en situación de pobreza, la cual se definirá, identificará y medirá de acuerdo a lo previsto en la Ley General de Desarrollo Social y su Reglamento.
 
-La [Secretaría](articulo-4.md) de Desarrollo Social deberá elaborar anualmente, una estimación fundamentada que determine el monto de recursos federales requeridos para cumplimentar la política de subsidios.
+La Secretaría de Desarrollo Social deberá elaborar anualmente, una estimación fundamentada que determine el monto de recursos federales requeridos para cumplimentar la política de subsidios.
 
 Para la estimación de los recursos a que se refiere el párrafo anterior, se deberá considerar el rezago habitacional, las necesidades de vivienda, la condición de pobreza de los hogares, así como el grado de marginación de la comunidad rural o urbana, entre otros.
 

@@ -63,7 +63,7 @@ XXII. No proporcionar la información en los términos y plazos que solicite la 
 
 XXIV. Introducir o manejar bajo cualquier forma, especies o material biológico en aguas de jurisdicción federal, que causen daño, alteren o pongan en peligro la conservación de los recursos pesqueros;
 
-XXV. No cumplir con la obligación de inscripción y actualización en el [Registro](articulo-4o.md) Nacional de [Pesca](articulo-4o.md) y [Acuacultura](articulo-4o.md), en los términos de esta Ley y su reglamento;
+XXV. No cumplir con la obligación de inscripción y actualización en el [Registro](articulo-4o.md) Nacional de Pesca y Acuacultura, en los términos de esta Ley y su reglamento;
 
 XXVI. Incumplir lo establecido en las normas oficiales que deriven de esta Ley;
 

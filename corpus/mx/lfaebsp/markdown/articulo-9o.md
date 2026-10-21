@@ -17,7 +17,7 @@ source_sha256: 269e72195414406bcbd3e90ac40ec26e031a9ea519316c44ee30bdfdf3163059
 
 # Artículo 9o
 
-Las armas de fuego, municiones y explosivos serán administradas por la [Secretaría](articulo-2o.md) de la Defensa Nacional. En todo caso deberá observarse, además, lo dispuesto en la Ley Federal de Armas de Fuego y Explosivos.
+Las armas de fuego, municiones y explosivos serán administradas por la Secretaría de la Defensa Nacional. En todo caso deberá observarse, además, lo dispuesto en la Ley Federal de Armas de Fuego y Explosivos.
 
 Tratándose de substancias psicotrópicas, estupefacientes, psicoactivas, drogas, narcóticos, flora y fauna protegidos o en peligro de extinción, materiales o substancias peligrosos y demás [Bienes](articulo-2o.md) cuya propiedad o posesión se encuentre prohibida, restringida o especialmente regulada, se procederá en los términos de la legislación federal aplicable. Párrafo reformado DOF 09-08-2019
 

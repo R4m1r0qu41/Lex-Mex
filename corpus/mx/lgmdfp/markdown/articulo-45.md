@@ -39,7 +39,7 @@ IX. La persona que designe la Conferencia Nacional de Procuración de Justicia, 
 
 X. La persona titular de la Secretaría de Seguridad y Protección Ciudadana, y Fracción adicionada DOF 16-07-2025
 
-XI. La persona titular de la [Comisión Ejecutiva](articulo-4.md) de Atención a [Víctimas](articulo-4.md). Fracción adicionada DOF 16-07-2025
+XI. La persona titular de la [Comisión Ejecutiva](articulo-4.md) de Atención a Víctimas. Fracción adicionada DOF 16-07-2025
 
 Las personas integrantes del Sistema Nacional deben nombrar a sus respectivos suplentes, los cuales deben contar con el nivel jerárquico inmediato inferior. Para el caso de la Fiscalía General de la República, se deberá atender a lo que se señala en la Ley de la Fiscalía General de la República. Para el caso de las fracciones VI y IX, el suplente será designado por los propios órganos a los que se refieren las citadas fracciones. Párrafo reformado DOF 20-05-2021
 

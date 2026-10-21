@@ -21,7 +21,7 @@ Las disposiciones administrativas, regularán los procedimientos, fórmulas de f
 
 La retención injustificada de dichos recursos por parte de los servidores públicos federales involucrados en el procedimiento de acceso será sancionada de conformidad con la Ley Federal de Responsabilidad Administrativa de los Servidores Públicos.
 
-Cuando se autoricen los recursos con cargo a los instrumentos financieros de gestión de riesgo, la secretaría informará trimestralmente su uso y destino a la [Secretaría](articulo-2.md) de Hacienda y Crédito Público, para que esta los incluya en los informes trimestrales sobre la situación económica, las finanzas públicas y la deuda pública.
+Cuando se autoricen los recursos con cargo a los instrumentos financieros de gestión de riesgo, la secretaría informará trimestralmente su uso y destino a la Secretaría de Hacienda y Crédito Público, para que esta los incluya en los informes trimestrales sobre la situación económica, las finanzas públicas y la deuda pública.
 
 La aplicación, erogación, regulación, justificación, comprobación, rendición de cuentas y transparencia de los recursos autorizados en los instrumentos financieros de gestión de riesgos se sujetarán a las reglas y demás disposiciones aplicables que garantizarán los principios de honradez, eficacia y eficiencia en la utilización de los recursos. Párrafo reformado DOF 03-06-2014
 

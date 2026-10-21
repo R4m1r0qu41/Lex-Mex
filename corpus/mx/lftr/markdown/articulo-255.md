@@ -20,4 +20,4 @@ source_sha256: a15012b33a415083f7714764c86fda8ed0078d3f5313dfc194c503f98a573a2a
 
 # Artículo 255
 
-Todos los concesionarios de uso comercial, público y social que presten servicios de radiodifusión estarán obligados a encadenar las estaciones de radio y canales de televisión en el país cuando se trate de transmitir informaciones de trascendencia para la Nación, a juicio de la [Secretaría](articulo-3.md) de Gobernación.
+Todos los concesionarios de uso comercial, público y social que presten servicios de radiodifusión estarán obligados a encadenar las estaciones de radio y canales de televisión en el país cuando se trate de transmitir informaciones de trascendencia para la Nación, a juicio de la Secretaría de Gobernación.

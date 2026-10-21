@@ -17,6 +17,6 @@ source_sha256: 0574853d06020030188e8aee1eae5dabb2b476ac630cc52be631a48d2b91adbc
 
 # Artículo 193
 
-El denunciante podrá coadyuvar con la Procuraduría Federal de [Protección](articulo-3o.md) al [Ambiente](articulo-3o.md), aportándole las pruebas, documentación e información que estime pertinentes. Dicha dependencia deberá manifestar las consideraciones adoptadas respecto de la información proporcionada por el denunciante, al momento de resolver la denuncia.
+El denunciante podrá coadyuvar con la Procuraduría Federal de Protección al Ambiente, aportándole las pruebas, documentación e información que estime pertinentes. Dicha dependencia deberá manifestar las consideraciones adoptadas respecto de la información proporcionada por el denunciante, al momento de resolver la denuncia.
 
 Artículo reformado DOF 13-12-1996

@@ -21,4 +21,4 @@ En caso de modificación de los estatutos, las asociaciones religiosas deberán 
 
 Para efectos del cambio de denominación, la asociación religiosa deberá solicitar a la Dirección General, la toma de nota en el registro respectivo, presentando un ejemplar del acta de asamblea o documento previsto en los estatutos, donde se exprese la conformidad al respecto.
 
-La Dirección General informará a la [Secretaría](articulo-2o.md) de Relaciones Exteriores respecto del cambio de denominación de una asociación religiosa, para los efectos conducentes relacionados con el convenio a que se refiere la fracción VII del artículo [8](articulo-8o.md)o. del presente [Reglamento](articulo-2o.md).
+La Dirección General informará a la Secretaría de Relaciones Exteriores respecto del cambio de denominación de una asociación religiosa, para los efectos conducentes relacionados con el convenio a que se refiere la fracción VII del artículo [8](articulo-8o.md)o. del presente [Reglamento](articulo-2o.md).

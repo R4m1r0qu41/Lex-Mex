@@ -29,7 +29,7 @@ V. La Secretaría de Cultura;
 
 VI. La Secretaría de la Función Pública, y
 
-VII. El [Consejo Nacional](articulo-4.md) de Ciencia y Tecnología.
+VII. El Consejo Nacional de Ciencia y Tecnología.
 
 Los integrantes del Órgano de Gobierno deberán tener, por lo menos, nivel de Subsecretario o su equivalente. Por cada miembro propietario habrá un suplente que deberá tener nivel, por lo menos, de director general o su equivalente.
 

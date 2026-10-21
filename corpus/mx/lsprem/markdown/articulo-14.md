@@ -21,7 +21,7 @@ La [Junta de Gobierno](articulo-2.md) se integrará conforme al principio de par
 
 a) La persona que presida el [Sistema](articulo-2.md);
 
-b) Una persona representante de la [Secretaría](articulo-2.md) de Gobernación;
+b) Una persona representante de la Secretaría de Gobernación;
 
 c) Una persona representante de la Secretaría de Educación Pública;
 

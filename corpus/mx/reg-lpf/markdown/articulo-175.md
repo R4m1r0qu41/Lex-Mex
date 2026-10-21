@@ -17,4 +17,4 @@ source_sha256: e7b8eb91eb4546fb79066efffae991c1c22316a23d9d21c2727e32434e2e9b01
 
 # Artículo 175
 
-Para efectos de este [Reglamento](articulo-2.md) se entenderá por comisión en el extranjero, cualquier actividad o servicio que, con carácter temporal, efectúen los [Integrantes](articulo-2.md) fuera del territorio nacional. Dicha comisión deberá realizarse atendiendo los lineamientos y recomendaciones de la [Secretaría](articulo-2.md) de Relaciones Exteriores aplicables al caso.
+Para efectos de este [Reglamento](articulo-2.md) se entenderá por comisión en el extranjero, cualquier actividad o servicio que, con carácter temporal, efectúen los [Integrantes](articulo-2.md) fuera del territorio nacional. Dicha comisión deberá realizarse atendiendo los lineamientos y recomendaciones de la Secretaría de Relaciones Exteriores aplicables al caso.

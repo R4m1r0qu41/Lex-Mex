@@ -17,6 +17,6 @@ source_sha256: f12e559ab950b52583c04f0ebddcf312054e07300f56b2c546028580e154a8d9
 
 # Artículo 8
 
-En la aplicación de la presente [Ley](articulo-1.md) intervendrán los poderes públicos federales, así como el [Consejo](articulo-1.md) Nacional para Prevenir la [Discriminación](articulo-1.md), en sus correspondientes ámbitos de competencia.
+En la aplicación de la presente [Ley](articulo-1.md) intervendrán los poderes públicos federales, así como el [Consejo](articulo-1.md) Nacional para Prevenir la Discriminación, en sus correspondientes ámbitos de competencia.
 
 Artículo reformado DOF 20-03-2014

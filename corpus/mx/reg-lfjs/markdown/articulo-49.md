@@ -17,7 +17,7 @@ source_sha256: 694325ff5d428da51b8f87c5939c58b1e2e8590bd86f13ade6cd284c932cdfc3
 
 # Artículo 49
 
-Una vez recibida la solicitud de permiso, la [Dirección](articulo-3.md) remitirá un tanto de la misma al [Órgano Técnico de Consulta](articulo-3.md) correspondiente y otro tanto al [Consejo Consultivo](articulo-3.md) de Juegos y [Sorteos](articulo-3.md), a efecto de que, dentro de un plazo de 60 días hábiles, emitan su opinión al respecto.
+Una vez recibida la solicitud de permiso, la [Dirección](articulo-3.md) remitirá un tanto de la misma al [Órgano Técnico de Consulta](articulo-3.md) correspondiente y otro tanto al [Consejo Consultivo](articulo-3.md) de Juegos y Sorteos, a efecto de que, dentro de un plazo de 60 días hábiles, emitan su opinión al respecto.
 
 Durante el plazo a que se refiere el párrafo anterior, la [Secretaría](articulo-3.md), con la colaboración del órgano técnico de consulta, verificará que el solicitante cumple las condiciones técnicas para la realización del espectáculo de que se trate.
 

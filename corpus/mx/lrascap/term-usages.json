@@ -1090,6 +1090,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:18:term-usage:309-317",
+    "provision_id": "urn:lex-mx:federal:statute:lrascap:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lrascap:term:comision",
+    "span": "Comisión",
+    "start_char": 309,
+    "end_char": 317
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lrascap:article:18:term-usage:426-434",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:18",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:comision",
@@ -3709,6 +3718,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:62:term-usage:235-243",
+    "provision_id": "urn:lex-mx:federal:statute:lrascap:article:62",
+    "term_id": "urn:lex-mx:federal:statute:lrascap:term:comision",
+    "span": "Comisión",
+    "start_char": 235,
+    "end_char": 243
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lrascap:article:62:term-usage:359-367",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:62",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:comision",
@@ -4051,24 +4069,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:69:term-usage:2639-2649",
-    "provision_id": "urn:lex-mx:federal:statute:lrascap:article:69",
-    "term_id": "urn:lex-mx:federal:statute:lrascap:term:federaciones",
-    "span": "Federación",
-    "start_char": 2639,
-    "end_char": 2649
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:69:term-usage:2894-2904",
-    "provision_id": "urn:lex-mx:federal:statute:lrascap:article:69",
-    "term_id": "urn:lex-mx:federal:statute:lrascap:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 2894,
-    "end_char": 2904
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lrascap:article:69:term-usage:4241-4249",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:69",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:comision",
@@ -4222,15 +4222,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:70:term-usage:710-718",
-    "provision_id": "urn:lex-mx:federal:statute:lrascap:article:70",
-    "term_id": "urn:lex-mx:federal:statute:lrascap:term:comision",
-    "span": "Comisión",
-    "start_char": 710,
-    "end_char": 718
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lrascap:article:70:term-usage:926-934",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:70",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:comision",
@@ -4276,15 +4267,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:70:term-usage:1485-1493",
-    "provision_id": "urn:lex-mx:federal:statute:lrascap:article:70",
-    "term_id": "urn:lex-mx:federal:statute:lrascap:term:comision",
-    "span": "Comisión",
-    "start_char": 1485,
-    "end_char": 1493
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lrascap:article:70:term-usage:2933-2943",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:70",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:secretaria",
@@ -4300,15 +4282,6 @@
     "span": "Comisión",
     "start_char": 2948,
     "end_char": 2956
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:70:term-usage:2982-2990",
-    "provision_id": "urn:lex-mx:federal:statute:lrascap:article:70",
-    "term_id": "urn:lex-mx:federal:statute:lrascap:term:comision",
-    "span": "Comisión",
-    "start_char": 2982,
-    "end_char": 2990
   },
   {
     "schema_version": "0.1.0",
@@ -4345,15 +4318,6 @@
     "span": "Comisión",
     "start_char": 5110,
     "end_char": 5118
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:70:term-usage:5144-5152",
-    "provision_id": "urn:lex-mx:federal:statute:lrascap:article:70",
-    "term_id": "urn:lex-mx:federal:statute:lrascap:term:comision",
-    "span": "Comisión",
-    "start_char": 5144,
-    "end_char": 5152
   },
   {
     "schema_version": "0.1.0",
@@ -6361,6 +6325,15 @@
     "span": "Comisión",
     "start_char": 1424,
     "end_char": 1432
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:120:term-usage:1658-1666",
+    "provision_id": "urn:lex-mx:federal:statute:lrascap:article:120",
+    "term_id": "urn:lex-mx:federal:statute:lrascap:term:comision",
+    "span": "Comisión",
+    "start_char": 1658,
+    "end_char": 1666
   },
   {
     "schema_version": "0.1.0",

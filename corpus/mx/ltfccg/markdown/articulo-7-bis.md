@@ -21,7 +21,7 @@ Obligaciones y prohibiciones de los Valuadores Profesionales.
 
 Los Valuadores Profesionales tendrán las siguientes obligaciones:
 
-I. Guardar confidencialidad respecto con la información que conozcan y manejen con motivo de la realización de los avalúos, salvo que la utilicen con fines estadísticos; II. De manera oportuna, poner en conocimiento de la Sociedad Hipotecaria Federal S.N.C. y de la Unidad de Valuación respectiva, cualquier acto o situación que, en el ejercicio de la función valuatoria, pudiera traducirse en beneficio, daño o perjuicio para éstas, o para cualquiera de las personas involucradas en los avalúos que realicen;
+I. Guardar confidencialidad respecto con la información que conozcan y manejen con motivo de la realización de los avalúos, salvo que la utilicen con fines estadísticos; II. De manera oportuna, poner en conocimiento de la Sociedad Hipotecaria Federal S.N.C. y de la [Unidad de Valuación](articulo-3.md) respectiva, cualquier acto o situación que, en el ejercicio de la función valuatoria, pudiera traducirse en beneficio, daño o perjuicio para éstas, o para cualquiera de las personas involucradas en los avalúos que realicen;
 
 III. Firmar los avalúos que realicen, y
 

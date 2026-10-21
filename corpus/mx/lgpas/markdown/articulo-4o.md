@@ -61,7 +61,7 @@ XIX. Esfuerzo pesquero: El número de individuos, embarcaciones o artes de pesca
 
 XX. Guía de pesca: Es el documento que ampara el transporte por vía terrestre, marítima o aérea de productos pesqueros vivos, frescos, enhielados o congelados, provenientes de la acuacultura o de la pesca;
 
-XXI. IMIPAS: Instituto Mexicano de Investigación en [Pesca](articulo-4o.md) y [Acuacultura](articulo-4o.md) Sustentables, órgano público descentralizado sectorizado con la Secretaría de Agricultura y Desarrollo Rural; Fracción reformada DOF 07-06-2012, 19-06-2017, 04-12-2023
+XXI. IMIPAS: Instituto Mexicano de Investigación en Pesca y Acuacultura Sustentables, órgano público descentralizado sectorizado con la Secretaría de Agricultura y Desarrollo Rural; Fracción reformada DOF 07-06-2012, 19-06-2017, 04-12-2023
 
 XXII. Inocuidad: Es la garantía de que el consumo de los recursos pesqueros y acuícolas no cause daño en la salud de los consumidores;
 
@@ -101,7 +101,7 @@ XLI. Repoblación: Es el acto de introducir organismos acuáticos vivos nativos 
 
 XLII. Sanidad acuícola: Es el conjunto de prácticas y medidas establecidas en normas oficiales, encaminadas a la prevención, diagnóstico y control de las plagas, y enfermedades que afectan a dichas especies;
 
-XLIII. Secretaría: La Secretaría de Agricultura y Desarrollo Rural, a través de la Comisión Nacional de Acuacultura y Pesca, con excepción de aquellos casos en los que sea a través de [SENASICA](articulo-4o.md); Fracción reformada DOF 04-12-2023
+XLIII. Secretaría: La Secretaría de Agricultura y Desarrollo Rural, a través de la Comisión Nacional de [Acuacultura](articulo-4o.md) y [Pesca](articulo-4o.md), con excepción de aquellos casos en los que sea a través de [SENASICA](articulo-4o.md); Fracción reformada DOF 04-12-2023
 
 XLIV. SEMARNAT: La Secretaría de Medio Ambiente y Recursos Naturales;
 

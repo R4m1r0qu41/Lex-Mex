@@ -307,15 +307,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsh:article:5:term-usage:167-180",
-    "provision_id": "urn:lex-mx:federal:statute:lsh:article:5",
-    "term_id": "urn:lex-mx:federal:statute:lsh:term:hidrocarburos",
-    "span": "Hidrocarburos",
-    "start_char": 167,
-    "end_char": 180
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lsh:article:5:term-usage:226-239",
     "provision_id": "urn:lex-mx:federal:statute:lsh:article:5",
     "term_id": "urn:lex-mx:federal:statute:lsh:term:hidrocarburos",
@@ -4942,15 +4933,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsh:article:57:term-usage:60-68",
-    "provision_id": "urn:lex-mx:federal:statute:lsh:article:57",
-    "term_id": "urn:lex-mx:federal:statute:lsh:term:petroleo",
-    "span": "Petróleo",
-    "start_char": 60,
-    "end_char": 68
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lsh:article:57:term-usage:126-135",
     "provision_id": "urn:lex-mx:federal:statute:lsh:article:57",
     "term_id": "urn:lex-mx:federal:statute:lsh:term:petroleo",
@@ -5290,15 +5272,6 @@
     "span": "Extracción",
     "start_char": 2248,
     "end_char": 2258
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsh:article:58:term-usage:2713-2721",
-    "provision_id": "urn:lex-mx:federal:statute:lsh:article:58",
-    "term_id": "urn:lex-mx:federal:statute:lsh:term:petroleo",
-    "span": "Petróleo",
-    "start_char": 2713,
-    "end_char": 2721
   },
   {
     "schema_version": "0.1.0",
@@ -6976,15 +6949,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsh:article:75:term-usage:3364-3372",
-    "provision_id": "urn:lex-mx:federal:statute:lsh:article:75",
-    "term_id": "urn:lex-mx:federal:statute:lsh:term:petroleo",
-    "span": "Petróleo",
-    "start_char": 3364,
-    "end_char": 3372
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lsh:article:75:term-usage:3417-3424",
     "provision_id": "urn:lex-mx:federal:statute:lsh:article:75",
     "term_id": "urn:lex-mx:federal:statute:lsh:term:agencia",
@@ -8227,15 +8191,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsh:article:93:term-usage:1015-1022",
-    "provision_id": "urn:lex-mx:federal:statute:lsh:article:93",
-    "term_id": "urn:lex-mx:federal:statute:lsh:term:agencia",
-    "span": "Agencia",
-    "start_char": 1015,
-    "end_char": 1022
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lsh:article:93:term-usage:1171-1184",
     "provision_id": "urn:lex-mx:federal:statute:lsh:article:93",
     "term_id": "urn:lex-mx:federal:statute:lsh:term:permisionaria",
@@ -8251,24 +8206,6 @@
     "span": "Permisionaria",
     "start_char": 1909,
     "end_char": 1922
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsh:article:93:term-usage:1981-1988",
-    "provision_id": "urn:lex-mx:federal:statute:lsh:article:93",
-    "term_id": "urn:lex-mx:federal:statute:lsh:term:agencia",
-    "span": "Agencia",
-    "start_char": 1981,
-    "end_char": 1988
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsh:article:93:term-usage:2228-2235",
-    "provision_id": "urn:lex-mx:federal:statute:lsh:article:93",
-    "term_id": "urn:lex-mx:federal:statute:lsh:term:agencia",
-    "span": "Agencia",
-    "start_char": 2228,
-    "end_char": 2235
   },
   {
     "schema_version": "0.1.0",
@@ -8785,15 +8722,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsh:article:100:term-usage:34-45",
-    "provision_id": "urn:lex-mx:federal:statute:lsh:article:100",
-    "term_id": "urn:lex-mx:federal:statute:lsh:term:gas-natural",
-    "span": "Gas Natural",
-    "start_char": 34,
-    "end_char": 45
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lsh:article:100:term-usage:104-114",
     "provision_id": "urn:lex-mx:federal:statute:lsh:article:100",
     "term_id": "urn:lex-mx:federal:statute:lsh:term:transporte",
@@ -8821,15 +8749,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsh:article:100:term-usage:614-625",
-    "provision_id": "urn:lex-mx:federal:statute:lsh:article:100",
-    "term_id": "urn:lex-mx:federal:statute:lsh:term:gas-natural",
-    "span": "Gas Natural",
-    "start_char": 614,
-    "end_char": 625
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lsh:article:100:term-usage:679-693",
     "provision_id": "urn:lex-mx:federal:statute:lsh:article:100",
     "term_id": "urn:lex-mx:federal:statute:lsh:term:permisionaria",
@@ -8854,15 +8773,6 @@
     "span": "Almacenamiento",
     "start_char": 720,
     "end_char": 734
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsh:article:100:term-usage:1038-1049",
-    "provision_id": "urn:lex-mx:federal:statute:lsh:article:100",
-    "term_id": "urn:lex-mx:federal:statute:lsh:term:gas-natural",
-    "span": "Gas Natural",
-    "start_char": 1038,
-    "end_char": 1049
   },
   {
     "schema_version": "0.1.0",
@@ -8902,15 +8812,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsh:article:100:term-usage:1418-1429",
-    "provision_id": "urn:lex-mx:federal:statute:lsh:article:100",
-    "term_id": "urn:lex-mx:federal:statute:lsh:term:gas-natural",
-    "span": "Gas Natural",
-    "start_char": 1418,
-    "end_char": 1429
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lsh:article:100:term-usage:1461-1475",
     "provision_id": "urn:lex-mx:federal:statute:lsh:article:100",
     "term_id": "urn:lex-mx:federal:statute:lsh:term:permisionaria",
@@ -8920,48 +8821,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsh:article:100:term-usage:1548-1559",
-    "provision_id": "urn:lex-mx:federal:statute:lsh:article:100",
-    "term_id": "urn:lex-mx:federal:statute:lsh:term:gas-natural",
-    "span": "Gas Natural",
-    "start_char": 1548,
-    "end_char": 1559
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsh:article:100:term-usage:1723-1734",
-    "provision_id": "urn:lex-mx:federal:statute:lsh:article:100",
-    "term_id": "urn:lex-mx:federal:statute:lsh:term:gas-natural",
-    "span": "Gas Natural",
-    "start_char": 1723,
-    "end_char": 1734
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsh:article:100:term-usage:1924-1935",
-    "provision_id": "urn:lex-mx:federal:statute:lsh:article:100",
-    "term_id": "urn:lex-mx:federal:statute:lsh:term:gas-natural",
-    "span": "Gas Natural",
-    "start_char": 1924,
-    "end_char": 1935
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lsh:article:100:term-usage:2073-2084",
     "provision_id": "urn:lex-mx:federal:statute:lsh:article:100",
     "term_id": "urn:lex-mx:federal:statute:lsh:term:gas-natural",
     "span": "Gas Natural",
     "start_char": 2073,
     "end_char": 2084
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsh:article:100:term-usage:2177-2188",
-    "provision_id": "urn:lex-mx:federal:statute:lsh:article:100",
-    "term_id": "urn:lex-mx:federal:statute:lsh:term:gas-natural",
-    "span": "Gas Natural",
-    "start_char": 2177,
-    "end_char": 2188
   },
   {
     "schema_version": "0.1.0",
@@ -8992,30 +8857,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsh:article:100:term-usage:2511-2522",
-    "provision_id": "urn:lex-mx:federal:statute:lsh:article:100",
-    "term_id": "urn:lex-mx:federal:statute:lsh:term:gas-natural",
-    "span": "Gas Natural",
-    "start_char": 2511,
-    "end_char": 2522
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lsh:article:100:term-usage:2565-2576",
     "provision_id": "urn:lex-mx:federal:statute:lsh:article:100",
     "term_id": "urn:lex-mx:federal:statute:lsh:term:gas-natural",
     "span": "Gas Natural",
     "start_char": 2565,
     "end_char": 2576
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsh:article:101:term-usage:34-45",
-    "provision_id": "urn:lex-mx:federal:statute:lsh:article:101",
-    "term_id": "urn:lex-mx:federal:statute:lsh:term:gas-natural",
-    "span": "Gas Natural",
-    "start_char": 34,
-    "end_char": 45
   },
   {
     "schema_version": "0.1.0",
@@ -9034,24 +8881,6 @@
     "span": "Permisionarias",
     "start_char": 240,
     "end_char": 254
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsh:article:101:term-usage:360-371",
-    "provision_id": "urn:lex-mx:federal:statute:lsh:article:101",
-    "term_id": "urn:lex-mx:federal:statute:lsh:term:gas-natural",
-    "span": "Gas Natural",
-    "start_char": 360,
-    "end_char": 371
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsh:article:102:term-usage:34-45",
-    "provision_id": "urn:lex-mx:federal:statute:lsh:article:102",
-    "term_id": "urn:lex-mx:federal:statute:lsh:term:gas-natural",
-    "span": "Gas Natural",
-    "start_char": 34,
-    "end_char": 45
   },
   {
     "schema_version": "0.1.0",
@@ -9109,30 +8938,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsh:article:102:term-usage:306-317",
-    "provision_id": "urn:lex-mx:federal:statute:lsh:article:102",
-    "term_id": "urn:lex-mx:federal:statute:lsh:term:gas-natural",
-    "span": "Gas Natural",
-    "start_char": 306,
-    "end_char": 317
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lsh:article:102:term-usage:426-445",
     "provision_id": "urn:lex-mx:federal:statute:lsh:article:102",
     "term_id": "urn:lex-mx:federal:statute:lsh:term:sistema-integrado",
     "span": "Sistemas Integrados",
     "start_char": 426,
     "end_char": 445
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsh:article:103:term-usage:34-45",
-    "provision_id": "urn:lex-mx:federal:statute:lsh:article:103",
-    "term_id": "urn:lex-mx:federal:statute:lsh:term:gas-natural",
-    "span": "Gas Natural",
-    "start_char": 34,
-    "end_char": 45
   },
   {
     "schema_version": "0.1.0",
@@ -9187,24 +8998,6 @@
     "span": "Gas Natural",
     "start_char": 522,
     "end_char": 533
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsh:article:103:term-usage:1167-1178",
-    "provision_id": "urn:lex-mx:federal:statute:lsh:article:103",
-    "term_id": "urn:lex-mx:federal:statute:lsh:term:gas-natural",
-    "span": "Gas Natural",
-    "start_char": 1167,
-    "end_char": 1178
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsh:article:103:term-usage:1376-1387",
-    "provision_id": "urn:lex-mx:federal:statute:lsh:article:103",
-    "term_id": "urn:lex-mx:federal:statute:lsh:term:gas-natural",
-    "span": "Gas Natural",
-    "start_char": 1376,
-    "end_char": 1387
   },
   {
     "schema_version": "0.1.0",
@@ -10150,15 +9943,6 @@
     "span": "Sistemas Integrados",
     "start_char": 1875,
     "end_char": 1894
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsh:article:115:term-usage:2184-2195",
-    "provision_id": "urn:lex-mx:federal:statute:lsh:article:115",
-    "term_id": "urn:lex-mx:federal:statute:lsh:term:gas-natural",
-    "span": "Gas Natural",
-    "start_char": 2184,
-    "end_char": 2195
   },
   {
     "schema_version": "0.1.0",
@@ -13447,30 +13231,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsh:article:158:term-usage:287-298",
-    "provision_id": "urn:lex-mx:federal:statute:lsh:article:158",
-    "term_id": "urn:lex-mx:federal:statute:lsh:term:gas-natural",
-    "span": "Gas Natural",
-    "start_char": 287,
-    "end_char": 298
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lsh:article:158:term-usage:1028-1037",
     "provision_id": "urn:lex-mx:federal:statute:lsh:article:158",
     "term_id": "urn:lex-mx:federal:statute:lsh:term:petroleo",
     "span": "Petróleos",
     "start_char": 1028,
     "end_char": 1037
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsh:article:158:term-usage:1084-1095",
-    "provision_id": "urn:lex-mx:federal:statute:lsh:article:158",
-    "term_id": "urn:lex-mx:federal:statute:lsh:term:gas-natural",
-    "span": "Gas Natural",
-    "start_char": 1084,
-    "end_char": 1095
   },
   {
     "schema_version": "0.1.0",
@@ -13501,24 +13267,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsh:article:158:term-usage:1510-1521",
-    "provision_id": "urn:lex-mx:federal:statute:lsh:article:158",
-    "term_id": "urn:lex-mx:federal:statute:lsh:term:gas-natural",
-    "span": "Gas Natural",
-    "start_char": 1510,
-    "end_char": 1521
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsh:article:159:term-usage:41-52",
-    "provision_id": "urn:lex-mx:federal:statute:lsh:article:159",
-    "term_id": "urn:lex-mx:federal:statute:lsh:term:gas-natural",
-    "span": "Gas Natural",
-    "start_char": 41,
-    "end_char": 52
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lsh:article:159:term-usage:207-217",
     "provision_id": "urn:lex-mx:federal:statute:lsh:article:159",
     "term_id": "urn:lex-mx:federal:statute:lsh:term:transporte",
@@ -13546,30 +13294,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsh:article:159:term-usage:680-691",
-    "provision_id": "urn:lex-mx:federal:statute:lsh:article:159",
-    "term_id": "urn:lex-mx:federal:statute:lsh:term:gas-natural",
-    "span": "Gas Natural",
-    "start_char": 680,
-    "end_char": 691
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lsh:article:159:term-usage:814-822",
     "provision_id": "urn:lex-mx:federal:statute:lsh:article:159",
     "term_id": "urn:lex-mx:federal:statute:lsh:term:usuaria",
     "span": "Usuarias",
     "start_char": 814,
     "end_char": 822
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsh:article:160:term-usage:373-382",
-    "provision_id": "urn:lex-mx:federal:statute:lsh:article:160",
-    "term_id": "urn:lex-mx:federal:statute:lsh:term:instituto",
-    "span": "Instituto",
-    "start_char": 373,
-    "end_char": 382
   },
   {
     "schema_version": "0.1.0",
@@ -13804,15 +13534,6 @@
     "span": "Agencia",
     "start_char": 238,
     "end_char": 245
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsh:article:166:term-usage:324-337",
-    "provision_id": "urn:lex-mx:federal:statute:lsh:article:166",
-    "term_id": "urn:lex-mx:federal:statute:lsh:term:hidrocarburos",
-    "span": "Hidrocarburos",
-    "start_char": 324,
-    "end_char": 337
   },
   {
     "schema_version": "0.1.0",

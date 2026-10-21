@@ -17,4 +17,4 @@ source_sha256: ce45c7c0c4e9099691e6e24bd2456d0b6f71f91ab27eedd5c4f2190b66d47741
 
 # Artículo 38
 
-La programación y el ejercicio de recursos destinados a comunicación social se autorizarán por la [Secretaría](articulo-2.md) de Gobernación en los términos de las disposiciones generales que para tal efecto emita. Los gastos que en los mismos rubros efectúen las entidades se autorizarán además por su órgano de gobierno.
+La programación y el ejercicio de recursos destinados a comunicación social se autorizarán por la Secretaría de Gobernación en los términos de las disposiciones generales que para tal efecto emita. Los gastos que en los mismos rubros efectúen las entidades se autorizarán además por su órgano de gobierno.

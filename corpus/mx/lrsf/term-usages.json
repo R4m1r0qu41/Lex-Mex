@@ -55,15 +55,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrsf:article:2:term-usage:2578-2588",
-    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lrsf:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 2578,
-    "end_char": 2588
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lrsf:article:6:term-usage:17-27",
     "provision_id": "urn:lex-mx:federal:statute:lrsf:article:6",
     "term_id": "urn:lex-mx:federal:statute:lrsf:term:secretaria",
@@ -262,15 +253,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrsf:article:8-bis:term-usage:155-165",
-    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:8-bis",
-    "term_id": "urn:lex-mx:federal:statute:lrsf:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 155,
-    "end_char": 165
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lrsf:article:8-bis:term-usage:796-806",
     "provision_id": "urn:lex-mx:federal:statute:lrsf:article:8-bis",
     "term_id": "urn:lex-mx:federal:statute:lrsf:term:secretaria",
@@ -280,39 +262,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrsf:article:8-bis:term-usage:827-837",
-    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:8-bis",
-    "term_id": "urn:lex-mx:federal:statute:lrsf:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 827,
-    "end_char": 837
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrsf:article:8-bis:term-usage:1252-1262",
-    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:8-bis",
-    "term_id": "urn:lex-mx:federal:statute:lrsf:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 1252,
-    "end_char": 1262
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lrsf:article:8-bis:term-usage:1955-1965",
     "provision_id": "urn:lex-mx:federal:statute:lrsf:article:8-bis",
     "term_id": "urn:lex-mx:federal:statute:lrsf:term:secretaria",
     "span": "Secretaría",
     "start_char": 1955,
     "end_char": 1965
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrsf:article:8-bis:term-usage:1988-1998",
-    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:8-bis",
-    "term_id": "urn:lex-mx:federal:statute:lrsf:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 1988,
-    "end_char": 1998
   },
   {
     "schema_version": "0.1.0",
@@ -799,15 +754,6 @@
     "span": "Agencia",
     "start_char": 341,
     "end_char": 348
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrsf:article:41:term-usage:406-416",
-    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:41",
-    "term_id": "urn:lex-mx:federal:statute:lrsf:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 406,
-    "end_char": 416
   },
   {
     "schema_version": "0.1.0",

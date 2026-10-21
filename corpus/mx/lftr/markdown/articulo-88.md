@@ -26,7 +26,7 @@ Los concesionarios de uso público podrán tener cualquiera de las siguientes fu
 
 I. Donativos en dinero o en especie hechos por personas físicas o morales de nacionalidad mexicana o extranjera, siempre que en este último caso provengan exclusivamente de organismos multilaterales y agencias de cooperación internacionales reconocidas por el orden jurídico nacional, las que en ningún caso podrán participar ni influir en el contenido de las transmisiones.
 
-Cuando se trate de donativos en dinero deberán expedirse comprobantes fiscales que cumplan con las disposiciones establecidas por la [Secretaría](articulo-3.md) de Hacienda y Crédito Público, mientras que las donaciones en especie se harán constar en un contrato celebrado conforme a las leyes aplicables;
+Cuando se trate de donativos en dinero deberán expedirse comprobantes fiscales que cumplan con las disposiciones establecidas por la Secretaría de Hacienda y Crédito Público, mientras que las donaciones en especie se harán constar en un contrato celebrado conforme a las leyes aplicables;
 
 II. Venta de productos, contenidos propios previamente transmitidos de conformidad con su fin y objeto o servicios, acordes con su capacidad tanto legal como operativa sin que se encuentre comprendida la emisión de mensajes comerciales y venta de publicidad;
 

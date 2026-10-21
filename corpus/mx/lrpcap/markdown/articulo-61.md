@@ -17,6 +17,6 @@ source_sha256: cf241af670623476911e625178a081e9e05921b4b6cc73ae92b41a47da45487a
 
 # Artículo 61
 
-Todo extranjero que encuentre en peligro su vida, su libertad o seguridad por ideas o actividades políticas directamente relacionadas con su perfil público, y carezca de la protección de su país, podrá solicitar el otorgamiento de asilo político ante la [Secretaría](articulo-2.md) de Relaciones Exteriores, sus delegaciones localizadas fuera del Distrito Federal o la [Representación](articulo-2.md), según corresponda.
+Todo extranjero que encuentre en peligro su vida, su libertad o seguridad por ideas o actividades políticas directamente relacionadas con su perfil público, y carezca de la protección de su país, podrá solicitar el otorgamiento de asilo político ante la Secretaría de Relaciones Exteriores, sus delegaciones localizadas fuera del Distrito Federal o la [Representación](articulo-2.md), según corresponda.
 
 Artículo adicionado DOF 30-10-2014

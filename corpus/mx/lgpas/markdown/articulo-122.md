@@ -17,7 +17,7 @@ source_sha256: 160e5e85efddb1749a79f6b154af31711a9b31a5e32bace3c07e2859c2620ecf
 
 # Artículo 122
 
-El [Registro](articulo-4o.md) Nacional de [Pesca](articulo-4o.md) y [Acuacultura](articulo-4o.md) estará a cargo de la [Secretaría](articulo-4o.md), tendrá carácter público y tiene por objeto la inscripción y actualización obligatorias de la siguiente información relativa a las actividades pesqueras y acuícolas:
+El [Registro](articulo-4o.md) Nacional de Pesca y Acuacultura estará a cargo de la [Secretaría](articulo-4o.md), tendrá carácter público y tiene por objeto la inscripción y actualización obligatorias de la siguiente información relativa a las actividades pesqueras y acuícolas:
 
 I. Las personas físicas o morales que se dediquen a la pesca y la acuacultura, con excepción de las personas físicas que realicen actividades de pesca deportivo-recreativa y de pesca para consumo doméstico; II. La información sobre los permisos y concesiones expedidos que incluya el nombre del titular, especies, artes y equipos de pesca, vigencia, cuotas de captura o zonas de captura;
 

@@ -73,15 +73,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpist:article:5:term-usage:176-184",
-    "provision_id": "urn:lex-mx:federal:statute:lgpist:article:5",
-    "term_id": "urn:lex-mx:federal:statute:lgpist:term:victimas",
-    "span": "Víctimas",
-    "start_char": 176,
-    "end_char": 184
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgpist:article:5:term-usage:256-264",
     "provision_id": "urn:lex-mx:federal:statute:lgpist:article:5",
     "term_id": "urn:lex-mx:federal:statute:lgpist:term:victimas",
@@ -1747,6 +1738,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpist:article:77:term-usage:2114-2131",
+    "provision_id": "urn:lex-mx:federal:statute:lgpist:article:77",
+    "term_id": "urn:lex-mx:federal:statute:lgpist:term:comision-nacional",
+    "span": "Comisión Nacional",
+    "start_char": 2114,
+    "end_char": 2131
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgpist:article:78:term-usage:3-35",
     "provision_id": "urn:lex-mx:federal:statute:lgpist:article:78",
     "term_id": "urn:lex-mx:federal:statute:lgpist:term:mecanismo-nacional-de-prevencion",
@@ -1810,6 +1810,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpist:article:78:term-usage:3891-3908",
+    "provision_id": "urn:lex-mx:federal:statute:lgpist:article:78",
+    "term_id": "urn:lex-mx:federal:statute:lgpist:term:comision-nacional",
+    "span": "Comisión Nacional",
+    "start_char": 3891,
+    "end_char": 3908
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgpist:article:79:term-usage:18-50",
     "provision_id": "urn:lex-mx:federal:statute:lgpist:article:79",
     "term_id": "urn:lex-mx:federal:statute:lgpist:term:mecanismo-nacional-de-prevencion",
@@ -1870,6 +1879,15 @@
     "span": "Mecanismo Nacional de Prevención",
     "start_char": 840,
     "end_char": 872
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpist:article:79:term-usage:1094-1111",
+    "provision_id": "urn:lex-mx:federal:statute:lgpist:article:79",
+    "term_id": "urn:lex-mx:federal:statute:lgpist:term:comision-nacional",
+    "span": "Comisión Nacional",
+    "start_char": 1094,
+    "end_char": 1111
   },
   {
     "schema_version": "0.1.0",
@@ -1996,24 +2014,6 @@
     "span": "Víctima",
     "start_char": 309,
     "end_char": 316
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpist:article:84:term-usage:466-483",
-    "provision_id": "urn:lex-mx:federal:statute:lgpist:article:84",
-    "term_id": "urn:lex-mx:federal:statute:lgpist:term:registro-nacional",
-    "span": "Registro Nacional",
-    "start_char": 466,
-    "end_char": 483
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpist:article:84:term-usage:487-495",
-    "provision_id": "urn:lex-mx:federal:statute:lgpist:article:84",
-    "term_id": "urn:lex-mx:federal:statute:lgpist:term:victimas",
-    "span": "Víctimas",
-    "start_char": 487,
-    "end_char": 495
   },
   {
     "schema_version": "0.1.0",
@@ -2395,24 +2395,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpist:article:92:term-usage:1236-1253",
-    "provision_id": "urn:lex-mx:federal:statute:lgpist:article:92",
-    "term_id": "urn:lex-mx:federal:statute:lgpist:term:registro-nacional",
-    "span": "Registro Nacional",
-    "start_char": 1236,
-    "end_char": 1253
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpist:article:92:term-usage:1257-1265",
-    "provision_id": "urn:lex-mx:federal:statute:lgpist:article:92",
-    "term_id": "urn:lex-mx:federal:statute:lgpist:term:victimas",
-    "span": "Víctimas",
-    "start_char": 1257,
-    "end_char": 1265
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgpist:article:92:term-usage:1272-1280",
     "provision_id": "urn:lex-mx:federal:statute:lgpist:article:92",
     "term_id": "urn:lex-mx:federal:statute:lgpist:term:victimas",
@@ -2638,15 +2620,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpist:transitory:quinto:term-usage:3-15",
-    "provision_id": "urn:lex-mx:federal:statute:lgpist:transitory:quinto",
-    "term_id": "urn:lex-mx:federal:statute:lgpist:term:procuradurias",
-    "span": "Procuraduría",
-    "start_char": 3,
-    "end_char": 15
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgpist:transitory:quinto:term-usage:165-182",
     "provision_id": "urn:lex-mx:federal:statute:lgpist:transitory:quinto",
     "term_id": "urn:lex-mx:federal:statute:lgpist:term:programa-nacional",
@@ -2809,30 +2782,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpist:transitory:decimo-tercero:term-usage:479-487",
-    "provision_id": "urn:lex-mx:federal:statute:lgpist:transitory:decimo-tercero",
-    "term_id": "urn:lex-mx:federal:statute:lgpist:term:victimas",
-    "span": "Víctimas",
-    "start_char": 479,
-    "end_char": 487
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgpist:transitory:decimo-tercero:term-usage:684-687",
     "provision_id": "urn:lex-mx:federal:statute:lgpist:transitory:decimo-tercero",
     "term_id": "urn:lex-mx:federal:statute:lgpist:term:ley",
     "span": "Ley",
     "start_char": 684,
     "end_char": 687
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpist:transitory:decimo-cuarto:term-usage:100-112",
-    "provision_id": "urn:lex-mx:federal:statute:lgpist:transitory:decimo-cuarto",
-    "term_id": "urn:lex-mx:federal:statute:lgpist:term:procuradurias",
-    "span": "Procuraduría",
-    "start_char": 100,
-    "end_char": 112
   },
   {
     "schema_version": "0.1.0",
@@ -2881,15 +2836,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpist:transitory:decimo-quinto:term-usage:144-152",
-    "provision_id": "urn:lex-mx:federal:statute:lgpist:transitory:decimo-quinto",
-    "term_id": "urn:lex-mx:federal:statute:lgpist:term:victimas",
-    "span": "Víctimas",
-    "start_char": 144,
-    "end_char": 152
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgpist:transitory:decimo-sexto:term-usage:69-72",
     "provision_id": "urn:lex-mx:federal:statute:lgpist:transitory:decimo-sexto",
     "term_id": "urn:lex-mx:federal:statute:lgpist:term:ley",
@@ -2905,14 +2851,5 @@
     "span": "Comisión Ejecutiva",
     "start_char": 190,
     "end_char": 208
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpist:transitory:decimo-sexto:term-usage:223-231",
-    "provision_id": "urn:lex-mx:federal:statute:lgpist:transitory:decimo-sexto",
-    "term_id": "urn:lex-mx:federal:statute:lgpist:term:victimas",
-    "span": "Víctimas",
-    "start_char": 223,
-    "end_char": 231
   }
 ]

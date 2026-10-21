@@ -20,6 +20,6 @@ source_sha256: a15012b33a415083f7714764c86fda8ed0078d3f5313dfc194c503f98a573a2a
 
 # Artículo 236
 
-El concesionario podrá utilizar los canales a que se refiere el [artículo anterior](articulo-235.md), en tanto no le sean requeridos por la [Secretaría](articulo-3.md) de Gobernación.
+El concesionario podrá utilizar los canales a que se refiere el [artículo anterior](articulo-235.md), en tanto no le sean requeridos por la Secretaría de Gobernación.
 
 El concesionario cubrirá por su cuenta el costo de los equipos e instalaciones necesarios para la recepción y distribución de las señales que le sean indicadas. La calidad de transmisión de estas señales será, por lo menos, igual a las del resto del servicio.

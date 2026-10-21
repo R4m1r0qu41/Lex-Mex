@@ -27,7 +27,7 @@ III. La obligación de enviar los referidos padrones y sus respectivas actualiza
 
 Conforme a las disposiciones establecidas por la Función Pública, los padrones deberán identificar a las personas físicas con la Clave Única de Registro de Población y, en el caso de personas morales, con la clave de Registro Federal de Contribuyentes;
 
-IV. La aplicación de criterios de regulación prudencial básica y normas de contabilidad por parte de los intermediarios financieros no regulados por la [Comisión](articulo-2.md) Nacional Bancaria y de Valores a que se refiere la fracción II de este artículo;
+IV. La aplicación de criterios de regulación prudencial básica y normas de contabilidad por parte de los intermediarios financieros no regulados por la Comisión Nacional Bancaria y de Valores a que se refiere la fracción II de este artículo;
 
 V. La generación de información que posibilite la evaluación de la operación de los intermediarios que participan en el sector de ahorro y crédito popular desde una óptica financiera en función de los objetivos de disciplina fiscal y de bancarización de la población de bajos ingresos;
 
@@ -35,4 +35,4 @@ VI. Las dependencias y entidades a cargo de dichos programas vigilarán que los 
 
 VII. Las dependencias y entidades a cargo de dichos programas proporcionarán en los informes trimestrales la información relativa a la ejecución del gasto, los padrones de beneficiarios directos y, en su caso, los intermediarios financieros y no financieros, la distribución territorial de los recursos por municipio y los avances en las metas anuales de los programas registrados durante ese periodo.
 
-Los informes a que se refieren las fracciones III, VI y VII, deberán remitirse por las dependencias y entidades directamente al Congreso de la Unión, por conducto de las Comisiones correspondientes, a más tardar a los 30 días naturales de concluido el trimestre de que se trate. Párrafo adicionado DOF 05-09-2007
+Los informes a que se refieren las fracciones III, VI y VII, deberán remitirse por las dependencias y entidades directamente al Congreso de la Unión, por conducto de las [Comisiones](articulo-2.md) correspondientes, a más tardar a los 30 días naturales de concluido el trimestre de que se trate. Párrafo adicionado DOF 05-09-2007

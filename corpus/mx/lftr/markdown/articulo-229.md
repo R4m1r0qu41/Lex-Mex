@@ -20,7 +20,7 @@ source_sha256: a15012b33a415083f7714764c86fda8ed0078d3f5313dfc194c503f98a573a2a
 
 # Artículo 229
 
-La transmisión o promoción de los concursos en que se ofrezcan premios en sus distintas modalidades será previamente autorizada y supervisada en todas sus etapas por la [Secretaría](articulo-3.md) de Gobernación, a fin de proteger la buena fe y la integridad de los participantes y del público.
+La transmisión o promoción de los concursos en que se ofrezcan premios en sus distintas modalidades será previamente autorizada y supervisada en todas sus etapas por la Secretaría de Gobernación, a fin de proteger la buena fe y la integridad de los participantes y del público.
 
 Tratándose de concursos que se transmitan a través de señales provenientes del extranjero, los concesionarios celebrarán acuerdos con los programadores y operadores de las señales extranjeras, que garanticen la seriedad de los concursos y el cumplimiento en la entrega de los premios cuando se trate de participantes ganadores en territorio nacional.
 

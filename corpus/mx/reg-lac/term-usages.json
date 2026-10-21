@@ -172,39 +172,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lac:article:27:term-usage:1960-1970",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:27",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 1960,
-    "end_char": 1970
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lac:article:27:term-usage:2142-2152",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:27",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 2142,
-    "end_char": 2152
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lac:article:30:term-usage:418-421",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:30",
     "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
     "span": "Ley",
     "start_char": 418,
     "end_char": 421
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lac:article:31:term-usage:1139-1149",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:31",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 1139,
-    "end_char": 1149
   },
   {
     "schema_version": "0.1.0",
@@ -790,24 +763,6 @@
     "span": "Secretaría",
     "start_char": 3,
     "end_char": 13
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lac:article:181:term-usage:18-28",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:181",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 18,
-    "end_char": 28
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lac:article:181:term-usage:56-66",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:181",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 56,
-    "end_char": 66
   },
   {
     "schema_version": "0.1.0",

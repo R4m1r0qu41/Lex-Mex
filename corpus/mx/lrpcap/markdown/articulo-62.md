@@ -17,6 +17,6 @@ source_sha256: cf241af670623476911e625178a081e9e05921b4b6cc73ae92b41a47da45487a
 
 # Artículo 62
 
-La [Secretaría](articulo-2.md) de Relaciones Exteriores podrá hacer extensivo, por derivación el otorgamiento de asilo político al cónyuge, concubinario, concubina, sus hijos y los de su cónyuge, concubinario o concubina, que dependan económicamente del asilado, que se encuentren en su país de origen o en territorio nacional con el solicitante, para lo cual deberá considerar la opinión que emita la Secretaría.
+La Secretaría de Relaciones Exteriores podrá hacer extensivo, por derivación el otorgamiento de asilo político al cónyuge, concubinario, concubina, sus hijos y los de su cónyuge, concubinario o concubina, que dependan económicamente del asilado, que se encuentren en su país de origen o en territorio nacional con el solicitante, para lo cual deberá considerar la opinión que emita la [Secretaría](articulo-2.md).
 
 Artículo adicionado DOF 30-10-2014

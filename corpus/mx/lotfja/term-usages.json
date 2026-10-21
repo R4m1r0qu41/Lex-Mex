@@ -73,6 +73,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lotfja:article:2:term-usage:124-132",
+    "provision_id": "urn:lex-mx:federal:statute:lotfja:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lotfja:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 124,
+    "end_char": 132
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lotfja:article:2:term-usage:218-226",
     "provision_id": "urn:lex-mx:federal:statute:lotfja:article:2",
     "term_id": "urn:lex-mx:federal:statute:lotfja:term:tribunal",
@@ -1972,6 +1981,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lotfja:transitory:quinto:term-usage:20-28",
+    "provision_id": "urn:lex-mx:federal:statute:lotfja:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lotfja:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 20,
+    "end_char": 28
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lotfja:transitory:quinto:term-usage:272-275",
     "provision_id": "urn:lex-mx:federal:statute:lotfja:transitory:quinto",
     "term_id": "urn:lex-mx:federal:statute:lotfja:term:ley",
@@ -1987,15 +2005,6 @@
     "span": "Ley",
     "start_char": 331,
     "end_char": 334
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lotfja:transitory:quinto:term-usage:348-356",
-    "provision_id": "urn:lex-mx:federal:statute:lotfja:transitory:quinto",
-    "term_id": "urn:lex-mx:federal:statute:lotfja:term:tribunal",
-    "span": "Tribunal",
-    "start_char": 348,
-    "end_char": 356
   },
   {
     "schema_version": "0.1.0",
@@ -2044,15 +2053,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lotfja:transitory:quinto:term-usage:1230-1238",
-    "provision_id": "urn:lex-mx:federal:statute:lotfja:transitory:quinto",
-    "term_id": "urn:lex-mx:federal:statute:lotfja:term:tribunal",
-    "span": "Tribunal",
-    "start_char": 1230,
-    "end_char": 1238
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lotfja:transitory:quinto:term-usage:1324-1327",
     "provision_id": "urn:lex-mx:federal:statute:lotfja:transitory:quinto",
     "term_id": "urn:lex-mx:federal:statute:lotfja:term:ley",
@@ -2098,12 +2098,30 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lotfja:transitory:quinto:term-usage:1810-1818",
+    "provision_id": "urn:lex-mx:federal:statute:lotfja:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lotfja:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1810,
+    "end_char": 1818
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lotfja:transitory:quinto:term-usage:2919-2922",
     "provision_id": "urn:lex-mx:federal:statute:lotfja:transitory:quinto",
     "term_id": "urn:lex-mx:federal:statute:lotfja:term:ley",
     "span": "Ley",
     "start_char": 2919,
     "end_char": 2922
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lotfja:transitory:quinto:term-usage:2936-2944",
+    "provision_id": "urn:lex-mx:federal:statute:lotfja:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lotfja:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 2936,
+    "end_char": 2944
   },
   {
     "schema_version": "0.1.0",
@@ -2125,6 +2143,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lotfja:transitory:quinto:term-usage:3242-3250",
+    "provision_id": "urn:lex-mx:federal:statute:lotfja:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lotfja:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 3242,
+    "end_char": 3250
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lotfja:transitory:quinto:term-usage:3400-3403",
     "provision_id": "urn:lex-mx:federal:statute:lotfja:transitory:quinto",
     "term_id": "urn:lex-mx:federal:statute:lotfja:term:ley",
@@ -2134,12 +2161,30 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lotfja:transitory:quinto:term-usage:3417-3425",
+    "provision_id": "urn:lex-mx:federal:statute:lotfja:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lotfja:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 3417,
+    "end_char": 3425
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lotfja:transitory:quinto:term-usage:3544-3547",
     "provision_id": "urn:lex-mx:federal:statute:lotfja:transitory:quinto",
     "term_id": "urn:lex-mx:federal:statute:lotfja:term:ley",
     "span": "Ley",
     "start_char": 3544,
     "end_char": 3547
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lotfja:transitory:quinto:term-usage:3561-3569",
+    "provision_id": "urn:lex-mx:federal:statute:lotfja:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lotfja:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 3561,
+    "end_char": 3569
   },
   {
     "schema_version": "0.1.0",
@@ -2158,15 +2203,6 @@
     "span": "Presidente del Tribunal",
     "start_char": 3700,
     "end_char": 3723
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lotfja:transitory:quinto:term-usage:3850-3858",
-    "provision_id": "urn:lex-mx:federal:statute:lotfja:transitory:quinto",
-    "term_id": "urn:lex-mx:federal:statute:lotfja:term:tribunal",
-    "span": "Tribunal",
-    "start_char": 3850,
-    "end_char": 3858
   },
   {
     "schema_version": "0.1.0",

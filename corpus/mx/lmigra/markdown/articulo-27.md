@@ -17,7 +17,7 @@ source_sha256: a823b87d27bee29da481750b9893f00024bd80aed8b0713bf8b1ac1e55b9b8de
 
 # Artículo 27
 
-Corresponde a la [Secretaría](articulo-3.md) de Salud:
+Corresponde a la Secretaría de Salud:
 
 I. Promover en coordinación con las autoridades sanitarias de los diferentes niveles de gobierno que, la prestación de servicios de salud que se otorgue a los extranjeros, se brinde sin importar su situación migratoria y conforme a las disposiciones jurídicas aplicables;
 

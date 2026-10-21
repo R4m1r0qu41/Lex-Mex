@@ -45,7 +45,7 @@ XIII. Secretaría: Secretaría de la Defensa Nacional;
 
 XIV. Seguimiento: Contacto continuo visual, electro-óptico o por medio de radar de una aeronave, durante toda su ruta, cuando no se tiene identificada una traza de interés, o una aeronave en vuelo no autorizado, o en vuelo clandestino;
 
-XV. Seguridad del Espacio Aéreo: Las acciones destinadas a la protección del Espacio Aéreo Mexicano frente a amenazas tradicionales y especializadas, como las relacionadas con la delincuencia organizada transnacional, el problema mundial de las drogas, la corrupción, el lavado de activos, el tráfico de armas y las conexiones, entre otras; XVI. Sistema: Sistema de Vigilancia y [Protección del Espacio Aéreo Mexicano](articulo-5.md);
+XV. Seguridad del Espacio Aéreo: Las acciones destinadas a la protección del Espacio Aéreo Mexicano frente a amenazas tradicionales y especializadas, como las relacionadas con la delincuencia organizada transnacional, el problema mundial de las drogas, la corrupción, el lavado de activos, el tráfico de armas y las conexiones, entre otras; XVI. Sistema: Sistema de Vigilancia y Protección del Espacio Aéreo Mexicano;
 
 XVII. Zona de Identificación de Defensa Aérea: Área delimitada por la [Secretaría](articulo-5.md) dentro del Espacio Aéreo Mexicano para llevar a cabo procedimientos especiales de identificación y notificación de aeronaves, sin menoscabo de los relacionados con la prestación de servicios de tránsito aéreo, y
 

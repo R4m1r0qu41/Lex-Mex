@@ -17,9 +17,9 @@ source_sha256: cf47ab93fdea40d2b3e41b58784df62f89dd90b4482dd3b7f25adc7f6957036b
 
 # Artículo 38
 
-Presentada la solicitud, la [Secretaría](articulo-6o.md) de Comunicaciones y Transportes procederá a su análisis y evaluación. Dentro de un plazo no mayor de 60 días naturales a partir de la fecha en que hubiere recibido dicha solicitud, notificará la resolución en la que otorgue o niegue la autorización correspondiente.
+Presentada la solicitud, la Secretaría de Comunicaciones y Transportes procederá a su análisis y evaluación. Dentro de un plazo no mayor de 60 días naturales a partir de la fecha en que hubiere recibido dicha solicitud, notificará la resolución en la que otorgue o niegue la autorización correspondiente.
 
-Dentro del plazo a que se refiere el párrafo anterior, la Secretaría de Comunicaciones y Transportes podrá promover ante la Secretaría la formulación de un dictamen técnico al respecto, el cual deberá ser expedido en un plazo no mayor de 30 días naturales a partir de recibida la promoción. Si transcurrido el plazo la Secretaría no hubiese emitido dictamen expreso, se entenderá otorgado en sentido aprobatorio.
+Dentro del plazo a que se refiere el párrafo anterior, la Secretaría de Comunicaciones y Transportes podrá promover ante la [Secretaría](articulo-6o.md) la formulación de un dictamen técnico al respecto, el cual deberá ser expedido en un plazo no mayor de 30 días naturales a partir de recibida la promoción. Si transcurrido el plazo la Secretaría no hubiese emitido dictamen expreso, se entenderá otorgado en sentido aprobatorio.
 
 El dictamen podrá determinar si el proyecto cumple con los requerimientos técnicos, si es necesaria su modificación para la satisfacción de dichos requerimientos o si el proyecto no puede autorizarse por no satisfacer la normatividad aplicable.
 

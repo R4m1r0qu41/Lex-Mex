@@ -33,9 +33,9 @@ I Sexies. Centro Nacional: al Centro Nacional de Identificación Humana adscrito
 
 I Septies. Base Nacional de Carpetas de Investigación: al registro que contiene los datos de las carpetas de investigación o averiguaciones previas iniciadas por los delitos de desaparición forzada de personas y de desaparición cometida por particulares, la cual será operada por el Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública y actualizada en tiempo real por las [Fiscalías Especializadas](articulo-4.md); Fracción adicionada DOF 16-07-2025
 
-II. Comisión Ejecutiva: a la Comisión Ejecutiva de Atención a [Víctimas](articulo-4.md);
+II. Comisión Ejecutiva: a la Comisión Ejecutiva de Atención a Víctimas;
 
-III. Comisiones de Víctimas: a las Comisiones de Atención a Víctimas de las Entidades Federativas;
+III. Comisiones de Víctimas: a las Comisiones de Atención a [Víctimas](articulo-4.md) de las Entidades Federativas;
 
 IV. Comisión Nacional de Búsqueda: a la Comisión Nacional de Búsqueda de Personas;
 
@@ -81,7 +81,7 @@ XX. Fiscalías Locales: a las Fiscalías o Procuradurías Generales de Justicia 
 
 XXI. Registro Nacional: al Registro Nacional de Personas Desaparecidas y No Localizadas, que concentra la información de los registros de Personas Desaparecidas y No Localizadas, tanto de la Federación como de las Entidades Federativas;
 
-XXII. Registro Nacional de Personas Fallecidas y No Identificadas: al [Registro Nacional](articulo-4.md) de Personas Fallecidas No Identificadas y No Reclamadas que concentra la información forense procesada de la localización, recuperación, identificación y destino final de los restos tanto de la Federación como de las Entidades Federativas, cualquiera que sea su origen;
+XXII. Registro Nacional de Personas Fallecidas y No Identificadas: al Registro Nacional de Personas Fallecidas No Identificadas y No Reclamadas que concentra la información forense procesada de la localización, recuperación, identificación y destino final de los restos tanto de la Federación como de las Entidades Federativas, cualquiera que sea su origen;
 
 XXIII. Registro Nacional de Fosas: al Registro Nacional de Fosas Comunes y de Fosas Clandestinas, que concentra la información respecto de las fosas comunes que existen en los cementerios y panteones de todos los municipios del país, así como de las fosas clandestinas que la Fiscalía y las Fiscalías y Procuradurías Locales localicen; Fracción reformada DOF 20-05-2021
 

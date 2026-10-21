@@ -10,15 +10,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgpsvd:article:3:term-usage:992-1002",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpsvd:article:3",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgpsvd:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 992,
-    "end_char": 1002
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgpsvd:article:3:term-usage:1132-1142",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgpsvd:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgpsvd:term:secretaria",
@@ -208,30 +199,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgpsvd:article:17:term-usage:3-13",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpsvd:article:17",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgpsvd:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 3,
-    "end_char": 13
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgpsvd:article:18:term-usage:450-477",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgpsvd:article:18",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgpsvd:term:diagnostico-participativo",
     "span": "Diagnósticos Participativos",
     "start_char": 450,
     "end_char": 477
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgpsvd:article:19:term-usage:3-13",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpsvd:article:19",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgpsvd:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 3,
-    "end_char": 13
   },
   {
     "schema_version": "0.1.0",

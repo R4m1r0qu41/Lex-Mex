@@ -37,15 +37,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgt:article:2:term-usage:2692-2699",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgt:article:2",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgt:term:turismo",
-    "span": "Turismo",
-    "start_char": 2692,
-    "end_char": 2699
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgt:article:2:term-usage:2930-2949",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgt:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgt:term:destino-turistico",
@@ -343,30 +334,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgt:article:13:term-usage:818-825",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgt:article:13",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgt:term:turismo",
-    "span": "Turismo",
-    "start_char": 818,
-    "end_char": 825
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgt:article:14:term-usage:56-63",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgt:article:14",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgt:term:turismo",
     "span": "Turismo",
     "start_char": 56,
     "end_char": 63
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgt:article:18:term-usage:780-787",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgt:article:18",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgt:term:turismo",
-    "span": "Turismo",
-    "start_char": 780,
-    "end_char": 787
   },
   {
     "schema_version": "0.1.0",
@@ -1591,15 +1564,6 @@
     "span": "Turismo",
     "start_char": 45,
     "end_char": 52
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgt:transitory:quinto:term-usage:233-240",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgt:transitory:quinto",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgt:term:turismo",
-    "span": "Turismo",
-    "start_char": 233,
-    "end_char": 240
   },
   {
     "schema_version": "0.1.0",

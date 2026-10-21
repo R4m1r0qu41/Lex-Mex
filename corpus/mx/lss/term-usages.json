@@ -811,15 +811,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lss:article:27:term-usage:1122-1131",
-    "provision_id": "urn:lex-mx:federal:statute:lss:article:27",
-    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
-    "span": "Instituto",
-    "start_char": 1122,
-    "end_char": 1131
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lss:article:28-a:term-usage:101-104",
     "provision_id": "urn:lex-mx:federal:statute:lss:article:28-a",
     "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
@@ -2917,15 +2908,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lss:article:159:term-usage:644-653",
-    "provision_id": "urn:lex-mx:federal:statute:lss:article:159",
-    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
-    "span": "Instituto",
-    "start_char": 644,
-    "end_char": 653
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lss:article:159:term-usage:739-742",
     "provision_id": "urn:lex-mx:federal:statute:lss:article:159",
     "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
@@ -3031,15 +3013,6 @@
     "span": "Instituto",
     "start_char": 280,
     "end_char": 289
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lss:article:170:term-usage:762-771",
-    "provision_id": "urn:lex-mx:federal:statute:lss:article:170",
-    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
-    "span": "Instituto",
-    "start_char": 762,
-    "end_char": 771
   },
   {
     "schema_version": "0.1.0",
@@ -4501,15 +4474,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lss:article:251:term-usage:3525-3534",
-    "provision_id": "urn:lex-mx:federal:statute:lss:article:251",
-    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
-    "span": "Instituto",
-    "start_char": 3525,
-    "end_char": 3534
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lss:article:251:term-usage:3638-3647",
     "provision_id": "urn:lex-mx:federal:statute:lss:article:251",
     "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
@@ -4615,15 +4579,6 @@
     "span": "Instituto",
     "start_char": 6811,
     "end_char": 6820
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lss:article:251:term-usage:7081-7090",
-    "provision_id": "urn:lex-mx:federal:statute:lss:article:251",
-    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
-    "span": "Instituto",
-    "start_char": 7081,
-    "end_char": 7090
   },
   {
     "schema_version": "0.1.0",
@@ -7045,15 +7000,6 @@
     "span": "Instituto",
     "start_char": 1312,
     "end_char": 1321
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lss:article:302:term-usage:1343-1352",
-    "provision_id": "urn:lex-mx:federal:statute:lss:article:302",
-    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
-    "span": "Instituto",
-    "start_char": 1343,
-    "end_char": 1352
   },
   {
     "schema_version": "0.1.0",

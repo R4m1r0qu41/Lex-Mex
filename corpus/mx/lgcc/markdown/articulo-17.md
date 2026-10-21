@@ -17,7 +17,7 @@ source_sha256: fa7447754261e46a344d4b49a9be0e1a5bd0eaf28c1ef12c721c124fe39e7b15
 
 # Artículo 17
 
-La Junta de Gobierno será la máxima autoridad del organismo, estará presidida por el titular de la [Secretaría](articulo-3o.md) de Medio Ambiente y Recursos Naturales e integrada por los titulares de las Secretarías de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación; de Gobernación; de Desarrollo Social; de Hacienda y Crédito Público; de Energía; de Salud; de Desarrollo Agrario, Territorial y Urbano, y del [Consejo](articulo-3o.md) Nacional de Ciencia y Tecnología. Párrafo reformado DOF 29-12-2014
+La Junta de Gobierno será la máxima autoridad del organismo, estará presidida por el titular de la [Secretaría](articulo-3o.md) de Medio Ambiente y Recursos Naturales e integrada por los titulares de las Secretarías de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación; de Gobernación; de Desarrollo Social; de Hacienda y Crédito Público; de Energía; de Salud; de Desarrollo Agrario, Territorial y Urbano, y del Consejo Nacional de Ciencia y Tecnología. Párrafo reformado DOF 29-12-2014
 
 Cada integrante de este órgano colegiado deberá nombrar un suplente con nivel jerárquico de subsecretario.
 

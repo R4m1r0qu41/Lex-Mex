@@ -17,4 +17,4 @@ source_sha256: 2e6462a9ddd472efe129d2285c1602316c91640646847da74dbf13363c5238fb
 
 # Artículo 6o
 
-La [Secretaría](articulo-2o.md) de Salud, en coordinación con la Secretaría, definirá e instrumentará campañas nacionales, dirigidas específicamente a los trabajadores, en materia de promoción de la salud y orientación alimentaria, incluyendo mensajes para mejorar su estado nutricional y prevenir la desnutrición, el sobrepeso y la obesidad.
+La Secretaría de Salud, en coordinación con la [Secretaría](articulo-2o.md), definirá e instrumentará campañas nacionales, dirigidas específicamente a los trabajadores, en materia de promoción de la salud y orientación alimentaria, incluyendo mensajes para mejorar su estado nutricional y prevenir la desnutrición, el sobrepeso y la obesidad.

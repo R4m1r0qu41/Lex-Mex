@@ -29,7 +29,7 @@ IV. Certificación orgánica: Proceso a través del cual los organismos de certi
 
 V. Certificado orgánico: Documento que expide el organismo de certificación con el cual asegura que el producto fue producido y/o procesado conforme a esta Ley y sus disposiciones reglamentarias;
 
-VI. Consejo: Consejo Nacional de [Producción Orgánica](articulo-3.md);
+VI. Consejo: Consejo Nacional de Producción Orgánica;
 
 VII. Evaluación de la conformidad: La determinación del grado de cumplimiento con las normas oficiales mexicanas o la conformidad con las normas mexicanas, las normas internacionales u otras especificaciones, prescripciones o características. Comprende, entre otros, los procedimientos de muestreo, prueba, calibración, certificación y verificación;
 

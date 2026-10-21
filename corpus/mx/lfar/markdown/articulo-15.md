@@ -17,4 +17,4 @@ source_sha256: b01d875d525d1efbe4edf9f022f58c9afb56fb777581fc9eae1038c212e6b43c
 
 # Artículo 15
 
-Quedan prohibidas las delegaciones de los entes públicos en el extranjero, salvo las correspondientes a las áreas de seguridad nacional e impartición de justicia. La representación del Estado Mexicano en el extranjero, la ejecución de la política exterior, su dirección y administración, corresponderán únicamente a la [Secretaría](articulo-4.md) de Relaciones Exteriores.
+Quedan prohibidas las delegaciones de los entes públicos en el extranjero, salvo las correspondientes a las áreas de seguridad nacional e impartición de justicia. La representación del Estado Mexicano en el extranjero, la ejecución de la política exterior, su dirección y administración, corresponderán únicamente a la Secretaría de Relaciones Exteriores.

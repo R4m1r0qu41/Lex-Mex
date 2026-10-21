@@ -1072,15 +1072,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:article:26:term-usage:1425-1435",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:article:26",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 1425,
-    "end_char": 1435
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lisf:article:26:term-usage:1709-1733",
     "provision_id": "urn:lex-mx:federal:statute:lisf:article:26",
     "term_id": "urn:lex-mx:federal:statute:lisf:term:institucion-de-seguros",
@@ -1501,24 +1492,6 @@
     "span": "Institución de Seguros",
     "start_char": 3080,
     "end_char": 3102
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:article:41:term-usage:3232-3242",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:article:41",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 3232,
-    "end_char": 3242
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:article:41:term-usage:3654-3664",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:article:41",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 3654,
-    "end_char": 3664
   },
   {
     "schema_version": "0.1.0",
@@ -2737,30 +2710,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:article:56:term-usage:2157-2165",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:article:56",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:comision",
-    "span": "Comisión",
-    "start_char": 2157,
-    "end_char": 2165
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lisf:article:56:term-usage:2201-2209",
     "provision_id": "urn:lex-mx:federal:statute:lisf:article:56",
     "term_id": "urn:lex-mx:federal:statute:lisf:term:comision",
     "span": "Comisión",
     "start_char": 2201,
     "end_char": 2209
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:article:56:term-usage:2261-2269",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:article:56",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:comision",
-    "span": "Comisión",
-    "start_char": 2261,
-    "end_char": 2269
   },
   {
     "schema_version": "0.1.0",
@@ -4321,24 +4276,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:article:72:term-usage:4415-4425",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:article:72",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 4415,
-    "end_char": 4425
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:article:72:term-usage:5012-5022",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:article:72",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 5012,
-    "end_char": 5022
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lisf:article:72:term-usage:5065-5073",
     "provision_id": "urn:lex-mx:federal:statute:lisf:article:72",
     "term_id": "urn:lex-mx:federal:statute:lisf:term:comision",
@@ -4402,15 +4339,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:article:73:term-usage:185-195",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:article:73",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 185,
-    "end_char": 195
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lisf:article:73:term-usage:248-258",
     "provision_id": "urn:lex-mx:federal:statute:lisf:article:73",
     "term_id": "urn:lex-mx:federal:statute:lisf:term:secretaria",
@@ -4465,30 +4393,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:article:73:term-usage:1208-1218",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:article:73",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 1208,
-    "end_char": 1218
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lisf:article:73:term-usage:1322-1330",
     "provision_id": "urn:lex-mx:federal:statute:lisf:article:73",
     "term_id": "urn:lex-mx:federal:statute:lisf:term:comision",
     "span": "Comisión",
     "start_char": 1322,
     "end_char": 1330
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:article:73:term-usage:1338-1348",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:article:73",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 1338,
-    "end_char": 1348
   },
   {
     "schema_version": "0.1.0",
@@ -7687,15 +7597,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:article:136:term-usage:3382-3390",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:article:136",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:comision",
-    "span": "Comisión",
-    "start_char": 3382,
-    "end_char": 3390
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lisf:article:136:term-usage:3480-3488",
     "provision_id": "urn:lex-mx:federal:statute:lisf:article:136",
     "term_id": "urn:lex-mx:federal:statute:lisf:term:comision",
@@ -7885,15 +7786,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:article:140:term-usage:1428-1436",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:article:140",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:comision",
-    "span": "Comisión",
-    "start_char": 1428,
-    "end_char": 1436
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lisf:article:140:term-usage:1638-1662",
     "provision_id": "urn:lex-mx:federal:statute:lisf:article:140",
     "term_id": "urn:lex-mx:federal:statute:lisf:term:institucion-de-seguros",
@@ -7909,15 +7801,6 @@
     "span": "Comisión",
     "start_char": 1862,
     "end_char": 1870
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:article:140:term-usage:1903-1911",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:article:140",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:comision",
-    "span": "Comisión",
-    "start_char": 1903,
-    "end_char": 1911
   },
   {
     "schema_version": "0.1.0",
@@ -8962,15 +8845,6 @@
     "span": "Instituciones de Fianzas",
     "start_char": 2981,
     "end_char": 3005
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:article:160:term-usage:3382-3390",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:article:160",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:comision",
-    "span": "Comisión",
-    "start_char": 3382,
-    "end_char": 3390
   },
   {
     "schema_version": "0.1.0",
@@ -10405,15 +10279,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:article:197:term-usage:3-11",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:article:197",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:comision",
-    "span": "Comisión",
-    "start_char": 3,
-    "end_char": 11
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lisf:article:197:term-usage:327-340",
     "provision_id": "urn:lex-mx:federal:statute:lisf:article:197",
     "term_id": "urn:lex-mx:federal:statute:lisf:term:institucion",
@@ -10429,15 +10294,6 @@
     "span": "Comisión",
     "start_char": 3,
     "end_char": 11
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:article:198:term-usage:17-25",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:article:198",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:comision",
-    "span": "Comisión",
-    "start_char": 17,
-    "end_char": 25
   },
   {
     "schema_version": "0.1.0",
@@ -10729,15 +10585,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:article:204:term-usage:653-661",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:article:204",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:comision",
-    "span": "Comisión",
-    "start_char": 653,
-    "end_char": 661
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lisf:article:204:term-usage:967-975",
     "provision_id": "urn:lex-mx:federal:statute:lisf:article:204",
     "term_id": "urn:lex-mx:federal:statute:lisf:term:comision",
@@ -11008,15 +10855,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:article:207:term-usage:1386-1394",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:article:207",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:comision",
-    "span": "Comisión",
-    "start_char": 1386,
-    "end_char": 1394
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lisf:article:207:term-usage:1883-1905",
     "provision_id": "urn:lex-mx:federal:statute:lisf:article:207",
     "term_id": "urn:lex-mx:federal:statute:lisf:term:institucion-de-seguros",
@@ -11032,15 +10870,6 @@
     "span": "Comisión",
     "start_char": 2556,
     "end_char": 2564
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:article:207:term-usage:2596-2604",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:article:207",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:comision",
-    "span": "Comisión",
-    "start_char": 2596,
-    "end_char": 2604
   },
   {
     "schema_version": "0.1.0",
@@ -11080,15 +10909,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:article:208:term-usage:1144-1152",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:article:208",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:comision",
-    "span": "Comisión",
-    "start_char": 1144,
-    "end_char": 1152
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lisf:article:208:term-usage:1279-1303",
     "provision_id": "urn:lex-mx:federal:statute:lisf:article:208",
     "term_id": "urn:lex-mx:federal:statute:lisf:term:institucion-de-seguros",
@@ -11122,15 +10942,6 @@
     "span": "Instituciones de Seguros",
     "start_char": 2198,
     "end_char": 2222
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:article:208:term-usage:2258-2266",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:article:208",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:comision",
-    "span": "Comisión",
-    "start_char": 2258,
-    "end_char": 2266
   },
   {
     "schema_version": "0.1.0",
@@ -16264,15 +16075,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:article:276:term-usage:5733-5741",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:article:276",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:comision",
-    "span": "Comisión",
-    "start_char": 5733,
-    "end_char": 5741
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lisf:article:276:term-usage:5880-5895",
     "provision_id": "urn:lex-mx:federal:statute:lisf:article:276",
     "term_id": "urn:lex-mx:federal:statute:lisf:term:dias-de-salario",
@@ -16363,30 +16165,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:article:277:term-usage:2281-2289",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:article:277",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:comision",
-    "span": "Comisión",
-    "start_char": 2281,
-    "end_char": 2289
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lisf:article:278:term-usage:31-55",
     "provision_id": "urn:lex-mx:federal:statute:lisf:article:278",
     "term_id": "urn:lex-mx:federal:statute:lisf:term:institucion-de-seguros",
     "span": "Instituciones de Seguros",
     "start_char": 31,
     "end_char": 55
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:article:278:term-usage:231-239",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:article:278",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:comision",
-    "span": "Comisión",
-    "start_char": 231,
-    "end_char": 239
   },
   {
     "schema_version": "0.1.0",
@@ -16696,15 +16480,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:article:279:term-usage:407-415",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:article:279",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:comision",
-    "span": "Comisión",
-    "start_char": 407,
-    "end_char": 415
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lisf:article:279:term-usage:633-646",
     "provision_id": "urn:lex-mx:federal:statute:lisf:article:279",
     "term_id": "urn:lex-mx:federal:statute:lisf:term:institucion",
@@ -16774,15 +16549,6 @@
     "span": "Institución",
     "start_char": 2654,
     "end_char": 2665
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:article:279:term-usage:2703-2711",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:article:279",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:comision",
-    "span": "Comisión",
-    "start_char": 2703,
-    "end_char": 2711
   },
   {
     "schema_version": "0.1.0",
@@ -16900,15 +16666,6 @@
     "span": "Instituciones",
     "start_char": 2627,
     "end_char": 2640
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:article:280:term-usage:3015-3023",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:article:280",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:comision",
-    "span": "Comisión",
-    "start_char": 3015,
-    "end_char": 3023
   },
   {
     "schema_version": "0.1.0",
@@ -17557,24 +17314,6 @@
     "span": "Comisión",
     "start_char": 1170,
     "end_char": 1178
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:article:288:term-usage:1391-1399",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:article:288",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:comision",
-    "span": "Comisión",
-    "start_char": 1391,
-    "end_char": 1399
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:article:288:term-usage:1514-1522",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:article:288",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:comision",
-    "span": "Comisión",
-    "start_char": 1514,
-    "end_char": 1522
   },
   {
     "schema_version": "0.1.0",
@@ -18820,15 +18559,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:article:306:term-usage:234-244",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:article:306",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 234,
-    "end_char": 244
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lisf:article:306:term-usage:467-491",
     "provision_id": "urn:lex-mx:federal:statute:lisf:article:306",
     "term_id": "urn:lex-mx:federal:statute:lisf:term:institucion-de-seguros",
@@ -18889,15 +18619,6 @@
     "span": "Instituciones",
     "start_char": 349,
     "end_char": 362
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:article:307:term-usage:532-540",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:article:307",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:comision",
-    "span": "Comisión",
-    "start_char": 532,
-    "end_char": 540
   },
   {
     "schema_version": "0.1.0",
@@ -20593,24 +20314,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:article:332:term-usage:3782-3792",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:article:332",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 3782,
-    "end_char": 3792
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:article:332:term-usage:3892-3902",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:article:332",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 3892,
-    "end_char": 3902
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lisf:article:332:term-usage:3946-3954",
     "provision_id": "urn:lex-mx:federal:statute:lisf:article:332",
     "term_id": "urn:lex-mx:federal:statute:lisf:term:comision",
@@ -20626,15 +20329,6 @@
     "span": "Comisión",
     "start_char": 4190,
     "end_char": 4198
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:article:332:term-usage:4234-4244",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:article:332",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 4234,
-    "end_char": 4244
   },
   {
     "schema_version": "0.1.0",
@@ -22564,15 +22258,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:article:366:term-usage:8309-8317",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:article:366",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:comision",
-    "span": "Comisión",
-    "start_char": 8309,
-    "end_char": 8317
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lisf:article:366:term-usage:8519-8527",
     "provision_id": "urn:lex-mx:federal:statute:lisf:article:366",
     "term_id": "urn:lex-mx:federal:statute:lisf:term:comision",
@@ -22651,15 +22336,6 @@
     "span": "Secretaría",
     "start_char": 327,
     "end_char": 337
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:article:368:term-usage:373-381",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:article:368",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:comision",
-    "span": "Comisión",
-    "start_char": 373,
-    "end_char": 381
   },
   {
     "schema_version": "0.1.0",
@@ -23536,15 +23212,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:article:372:term-usage:5935-5943",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:article:372",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:comision",
-    "span": "Comisión",
-    "start_char": 5935,
-    "end_char": 5943
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lisf:article:372:term-usage:6145-6153",
     "provision_id": "urn:lex-mx:federal:statute:lisf:article:372",
     "term_id": "urn:lex-mx:federal:statute:lisf:term:comision",
@@ -24130,30 +23797,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:article:380:term-usage:73-81",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:article:380",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:comision",
-    "span": "Comisión",
-    "start_char": 73,
-    "end_char": 81
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lisf:article:380:term-usage:119-127",
     "provision_id": "urn:lex-mx:federal:statute:lisf:article:380",
     "term_id": "urn:lex-mx:federal:statute:lisf:term:comision",
     "span": "Comisión",
     "start_char": 119,
     "end_char": 127
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:article:380:term-usage:181-189",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:article:380",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:comision",
-    "span": "Comisión",
-    "start_char": 181,
-    "end_char": 189
   },
   {
     "schema_version": "0.1.0",
@@ -24280,15 +23929,6 @@
     "span": "Instituciones de Seguros",
     "start_char": 4,
     "end_char": 28
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:article:384:term-usage:199-209",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:article:384",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 199,
-    "end_char": 209
   },
   {
     "schema_version": "0.1.0",
@@ -26368,15 +26008,6 @@
     "span": "Sociedades Mutualistas",
     "start_char": 45,
     "end_char": 67
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:article:446:term-usage:188-196",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:article:446",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:comision",
-    "span": "Comisión",
-    "start_char": 188,
-    "end_char": 196
   },
   {
     "schema_version": "0.1.0",

@@ -17,7 +17,7 @@ source_sha256: ea96e97cbea2fd1919af78b94cd3466ee20a77e05989be2d482d2eb8061618c5
 
 # Artículo 80
 
-Respecto de los inmuebles federales utilizados para fines religiosos y sus anexidades, a la [Secretaría](articulo-2.md) de Gobernación, sin perjuicio de las atribuciones que le confieran otras leyes, le corresponderá:
+Respecto de los inmuebles federales utilizados para fines religiosos y sus anexidades, a la Secretaría de Gobernación, sin perjuicio de las atribuciones que le confieran otras leyes, le corresponderá:
 
 I.- Resolver administrativamente y en definitiva todas las cuestiones que se susciten sobre el destino, uso o cualquier tipo de afectación de inmuebles federales utilizados para fines religiosos y sus anexidades;
 
@@ -25,7 +25,7 @@ II.- Conocer y resolver en definitiva, cualquier diferencia que se suscite entre
 
 III.- Determinar la asociación religiosa a la que corresponda el derecho de usar y custodiar un inmueble federal, en caso de duda o conflicto;
 
-IV.- Iniciar en forma coordinada con la Secretaría o directamente, las denuncias y procedimientos judiciales tendientes a preservar los derechos patrimoniales de la Nación respecto de los inmuebles federales utilizados para fines religiosos y de los muebles ubicados en los mismos que se consideren inmovilizados o guarden conexión con el uso o destino religioso;
+IV.- Iniciar en forma coordinada con la [Secretaría](articulo-2.md) o directamente, las denuncias y procedimientos judiciales tendientes a preservar los derechos patrimoniales de la Nación respecto de los inmuebles federales utilizados para fines religiosos y de los muebles ubicados en los mismos que se consideren inmovilizados o guarden conexión con el uso o destino religioso;
 
 V.- Ordenar la suspensión temporal del uso del inmueble o la clausura, en el caso de que se realicen en el interior del mismo actos contrarios a las leyes, y
 

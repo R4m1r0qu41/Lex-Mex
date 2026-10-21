@@ -19,24 +19,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:1:term-usage:285-294",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:1",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:emision",
-    "span": "Emisiones",
-    "start_char": 285,
-    "end_char": 294
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:1:term-usage:297-310",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:1",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:transferencia",
-    "span": "Transferencia",
-    "start_char": 297,
-    "end_char": 310
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:2:term-usage:86-96",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:secretaria",
@@ -88,6 +70,15 @@
     "span": "Ley",
     "start_char": 173,
     "end_char": 176
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:3:term-usage:389-396",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:agencia",
+    "span": "Agencia",
+    "start_char": 389,
+    "end_char": 396
   },
   {
     "schema_version": "0.1.0",
@@ -151,24 +142,6 @@
     "span": "Ley",
     "start_char": 2035,
     "end_char": 2038
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:3:term-usage:2568-2577",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:3",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:emision",
-    "span": "Emisiones",
-    "start_char": 2568,
-    "end_char": 2577
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:3:term-usage:2580-2593",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:3",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:transferencia",
-    "span": "Transferencia",
-    "start_char": 2580,
-    "end_char": 2593
   },
   {
     "schema_version": "0.1.0",
@@ -1276,6 +1249,15 @@
     "span": "Ley",
     "start_char": 99,
     "end_char": 102
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:transitory:quinto:term-usage:178-186",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:registro",
+    "span": "Registro",
+    "start_char": 178,
+    "end_char": 186
   },
   {
     "schema_version": "0.1.0",

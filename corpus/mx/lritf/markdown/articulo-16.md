@@ -31,6 +31,6 @@ Los actos jurídicos que se realicen para la celebración de las Operaciones a q
 
 Las Operaciones a que se refiere este artículo se denominarán en moneda nacional. Asimismo, las instituciones de financiamiento colectivo podrán realizar las referidas Operaciones en moneda extranjera o con activos virtuales, en los casos y sujeto a los términos y condiciones que el Banco de México establezca mediante disposiciones de carácter general que para tal efecto emita.
 
-Los títulos que se ofrezcan a través de estas instituciones no podrán estar inscritos en el Registro Nacional de [Valores](articulo-4.md).
+Los títulos que se ofrezcan a través de estas instituciones no podrán estar inscritos en el Registro Nacional de Valores.
 
 Asimismo, las instituciones de financiamiento colectivo podrán realizar aquellas actividades para facilitar la venta o adquisición de los derechos o títulos intercambiados que documenten las Operaciones referidas en las fracciones I a III de este artículo. La [CNBV](articulo-4.md), con el objeto de proteger a los inversionistas, establecerá disposiciones de carácter general para tal efecto.

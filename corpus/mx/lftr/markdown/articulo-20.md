@@ -40,7 +40,7 @@ VIII. Proponer al Pleno el nombramiento del titular de la autoridad investigador
 
 IX. Dar cuenta al Comité de Evaluación previsto en el artículo 28 de la [Constitución](articulo-3.md) de las vacantes que se produzcan en el Pleno del Instituto, y a la Cámara de Diputados de la vacante que se produzca respecto del titular del Órgano Interno de Control, a efecto de su nombramiento; Fracción reformada DOF 27-01-2017
 
-X. Proponer anualmente al Pleno el anteproyecto de presupuesto del Instituto para su aprobación y remitirlo, una vez aprobado, a la [Secretaría](articulo-3.md) de Hacienda y Crédito Público, a fin de que se incluya en el Proyecto de [Decreto](articulo-3.md) de Presupuesto de Egresos de la Federación;
+X. Proponer anualmente al Pleno el anteproyecto de presupuesto del Instituto para su aprobación y remitirlo, una vez aprobado, a la Secretaría de Hacienda y Crédito Público, a fin de que se incluya en el Proyecto de [Decreto](articulo-3.md) de Presupuesto de Egresos de la Federación;
 
 XI. Presentar para aprobación del Pleno, dentro del mes de enero de cada año, el proyecto del programa anual de trabajo del Instituto y trimestralmente los proyectos de informes de actividades que incluyan: los resultados, las acciones y los criterios que al efecto hubiere aplicado; su contribución para cumplir con los objetivos y metas fijados en el Plan Nacional de Desarrollo y demás instrumentos programáticos, relacionados con los sectores de radiodifusión y telecomunicaciones; así como su impacto en el desarrollo, progreso y competitividad del país; debiendo remitirlos a los Poderes Ejecutivo y Legislativo de la Unión;
 

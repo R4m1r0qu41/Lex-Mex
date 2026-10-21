@@ -29,4 +29,4 @@ V. Dirigir, presentar y en su caso, supervisar la presentación de informes, rec
 
 VI. Suplir al Procurador, cuando le corresponda representar al Presidente de la República, en materia penal, de conformidad con el artículo [19](../../lamp/markdown/articulo-19.md) de la Ley de Amparo, Reglamentaria de los artículos [103](../../cpeum/markdown/articulo-103.md) y [107](../../cpeum/markdown/articulo-107.md) de la Constitución Política de los Estados Unidos Mexicanos, y
 
-VII. Someter a consideración del Subprocurador, la presentación de las quejas administrativas que de conformidad con lo dispuesto por la Ley Orgánica del Poder Judicial de la Federación deban presentarse ante el [Consejo](articulo-2.md) de la Judicatura Federal, que deriven de actos u omisiones de los órganos jurisdiccionales en materia de amparo.
+VII. Someter a consideración del Subprocurador, la presentación de las quejas administrativas que de conformidad con lo dispuesto por la Ley Orgánica del Poder Judicial de la Federación deban presentarse ante el Consejo de la Judicatura Federal, que deriven de actos u omisiones de los órganos jurisdiccionales en materia de amparo.

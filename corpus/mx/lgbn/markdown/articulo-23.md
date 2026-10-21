@@ -31,4 +31,4 @@ IV.- Implementar un sistema de administración inmobiliaria que permita la admin
 
 V.- Emitir los lineamientos correspondientes para la construcción, reconstrucción, adaptación, conservación, mantenimiento y aprovechamiento de dichos inmuebles.
 
-Tratándose de inmuebles considerados como monumentos históricos o artísticos conforme a la ley de la materia o la declaratoria correspondiente, darán la intervención que corresponda conforme a la legislación aplicable, a la [Secretaría](articulo-2.md) de Cultura. Párrafo reformado DOF 17-12-2015
+Tratándose de inmuebles considerados como monumentos históricos o artísticos conforme a la ley de la materia o la declaratoria correspondiente, darán la intervención que corresponda conforme a la legislación aplicable, a la Secretaría de Cultura. Párrafo reformado DOF 17-12-2015

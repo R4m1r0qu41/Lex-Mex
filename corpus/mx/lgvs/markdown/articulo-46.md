@@ -17,7 +17,7 @@ source_sha256: b82b6148e235121951a94cb388fe59dbebe4212c8a6c85f26704873150827911
 
 # Artículo 46
 
-La [Secretaría](articulo-3o.md) coordinará el Sistema Nacional de Unidades de [Manejo](articulo-3o.md) para la [Conservación](articulo-3o.md) de la [Vida Silvestre](articulo-3o.md), el cual se conformará por el conjunto de dichas unidades y tendrá por objeto: a) La conservación de la biodiversidad y del hábitat natural de la vida silvestre, así como la continuidad de los procesos evolutivos de las especies silvestres en el territorio nacional.
+La [Secretaría](articulo-3o.md) coordinará el Sistema Nacional de Unidades de Manejo para la Conservación de la Vida Silvestre, el cual se conformará por el conjunto de dichas unidades y tendrá por objeto: a) La conservación de la biodiversidad y del hábitat natural de la vida silvestre, así como la continuidad de los procesos evolutivos de las especies silvestres en el territorio nacional.
 
 b) La formación de corredores biológicos que interconecten las unidades de manejo para la conservación de la vida silvestre entre sí y con las áreas naturales protegidas, de manera tal que se garantice y potencialice el flujo de ejemplares de especies silvestres.
 

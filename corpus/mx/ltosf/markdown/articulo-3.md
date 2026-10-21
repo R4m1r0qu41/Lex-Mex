@@ -19,7 +19,7 @@ source_sha256: bf9e443e89a5c0ba268e76f20923ae25195ef5c1ffbacecff36693ca228c3667
 
 Para los efectos de la presente Ley, en singular o plural se entenderá por:
 
-I. Autoridades: a la [Comisión](articulo-3.md) Nacional Bancaria y de Valores, al Banco de México, a la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros y a la Procuraduría Federal del Consumidor; Fracción reformada DOF 25-06-2009, 10-01-2014
+I. Autoridades: a la Comisión Nacional Bancaria y de Valores, al Banco de México, a la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros y a la Procuraduría Federal del Consumidor; Fracción reformada DOF 25-06-2009, 10-01-2014
 
 II. Cámara de Compensación: a la entidad central o mecanismo de procesamiento centralizado, a través del cual se intercambian instrucciones de pago u otras obligaciones financieras, relacionadas con cualquier [Medio de Disposición](articulo-3.md); Fracción reformada DOF 25-05-2010
 

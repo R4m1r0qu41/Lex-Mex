@@ -17,6 +17,6 @@ source_sha256: 36f74d61a6190ff8005805ad80aa6cf90f7d5bf2209d24bdaf32f51d21214daf
 
 # Artículo 7o
 
-La [Secretaría](articulo-2o.md) de Bienestar y la Secretaría, a propuesta de esta última, delimitarán y determinarán, mediante acuerdo conjunto, aquellos bienes del dominio público de la federación que constituirán los recintos portuarios de los puertos, terminales y marinas. Dicho acuerdo deberá publicarse en el Diario Oficial de la Federación, dentro de los treinta días siguientes a la propuesta de la Secretaría debidamente requisitada en los términos del reglamento aplicable.
+La Secretaría de Bienestar y la [Secretaría](articulo-2o.md), a propuesta de esta última, delimitarán y determinarán, mediante acuerdo conjunto, aquellos bienes del dominio público de la federación que constituirán los recintos portuarios de los puertos, terminales y marinas. Dicho acuerdo deberá publicarse en el Diario Oficial de la Federación, dentro de los treinta días siguientes a la propuesta de la Secretaría debidamente requisitada en los términos del reglamento aplicable.
 
 Artículo reformado DOF 07-12-2020

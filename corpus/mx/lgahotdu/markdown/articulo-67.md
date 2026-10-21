@@ -27,7 +27,7 @@ III. Instalaciones de tratamiento, confinamiento, eliminación o disposición de
 
 IV. Los equipamientos de propiedad pública donde se brinden servicios de salud, educación, seguridad, transporte y abasto, y V. Las instalaciones de almacenamiento, confinamiento, distribución, venta o transformación de combustibles.
 
-Los estudios de prevención de riesgos geológicos e hidrometeorológicos contendrán las especificaciones, responsables técnicos, requisitos y alcances que determine el acuerdo que para tales efectos publique la [Secretaría](articulo-3.md) de Gobernación, en coordinación con la Secretaría.
+Los estudios de prevención de riesgos geológicos e hidrometeorológicos contendrán las especificaciones, responsables técnicos, requisitos y alcances que determine el acuerdo que para tales efectos publique la Secretaría de Gobernación, en coordinación con la [Secretaría](articulo-3.md).
 
 Las autorizaciones para el [Crecimiento](articulo-3.md) urbano deberán ajustarse a dichos estudios, y en ningún caso podrán asignarse usos o aprovechamientos urbanos o [Asentamientos Humanos](articulo-3.md) en zonas de alto riesgo que no hubieran tomado medidas de mitigación previas. En tales zonas estará estrictamente prohibido realizar cualquier obra o edificación de carácter permanente.
 

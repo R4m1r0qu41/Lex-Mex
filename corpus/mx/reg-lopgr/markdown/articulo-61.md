@@ -37,7 +37,7 @@ IX. Prestar auxilio técnico a las Delegaciones en las entidades federativas en 
 
 X. Prestar auxilio técnico a la Dirección General de Control de Juicios de Amparo en casos de delitos competencia de las unidades especializadas adscritas a la Subprocuraduría Especializada en Investigación de Delitos Federales;
 
-XI. Someter a consideración de su superior jerárquico, la presentación de las quejas administrativas que de conformidad con lo dispuesto por la Ley Orgánica del Poder Judicial de la Federación deban presentarse ante el [Consejo](articulo-2.md) de la Judicatura Federal, que deriven de actos u omisiones de los órganos jurisdiccionales que conozcan de procesos penales federales;
+XI. Someter a consideración de su superior jerárquico, la presentación de las quejas administrativas que de conformidad con lo dispuesto por la Ley Orgánica del Poder Judicial de la Federación deban presentarse ante el Consejo de la Judicatura Federal, que deriven de actos u omisiones de los órganos jurisdiccionales que conozcan de procesos penales federales;
 
 XII. Establecer mecanismos de coordinación con las unidades administrativas que tengan a su cargo la integración de averiguaciones previas, el control de procesos penales y el desahogo de los procedimientos internacionales, a fin de mejorar la actuación del Ministerio Público de la Federación como parte en los juicios de amparo, en casos de delitos competencia de las unidades especializadas adscritas a la Subprocuraduría Especializada en Investigación de Delitos Federales, y
 

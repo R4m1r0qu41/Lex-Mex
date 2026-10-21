@@ -33,6 +33,6 @@ VI. El periodo de vigencia;
 
 VII. El monto del fondo de reserva destinado a la conservación y mantenimiento de la vía;
 
-VIII. Las contraprestaciones que deban cubrirse al gobierno Federal, mismas que serán fijadas por la [Secretaría](articulo-2o.md) de Hacienda y Crédito Público a propuesta de la Secretaría, y
+VIII. Las contraprestaciones que deban cubrirse al gobierno Federal, mismas que serán fijadas por la Secretaría de Hacienda y Crédito Público a propuesta de la [Secretaría](articulo-2o.md), y
 
 IX. Las causas de revocación y terminación.

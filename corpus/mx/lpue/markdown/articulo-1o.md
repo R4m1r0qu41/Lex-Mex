@@ -19,4 +19,4 @@ source_sha256: 36f74d61a6190ff8005805ad80aa6cf90f7d5bf2209d24bdaf32f51d21214daf
 
 La presente ley es de orden público y de observancia en todo el territorio nacional, y tiene por objeto regular los puertos, terminales, marinas e instalaciones portuarias, su construcción, uso, aprovechamiento, explotación, operación, protección y formas de administración, así como la prestación de los servicios portuarios. Párrafo reformado DOF 26-12-2013
 
-Los puertos, terminales e instalaciones portuarias de carácter militar, destinados por el Ejecutivo Federal a la [Secretaría](articulo-2o.md) de [Marina](articulo-2o.md) para uso de la Armada de México, se regirán por las disposiciones aplicables en la materia.
+Los puertos, terminales e instalaciones portuarias de carácter militar, destinados por el Ejecutivo Federal a la [Secretaría](articulo-2o.md) de Marina para uso de la Armada de México, se regirán por las disposiciones aplicables en la materia.

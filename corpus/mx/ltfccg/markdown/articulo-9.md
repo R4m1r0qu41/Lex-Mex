@@ -21,4 +21,4 @@ Los fedatarios públicos frente a los cuales se otorgue la escritura tendrán la
 
 II. Comprobar que no se incluyan gastos o comisiones a cargo del acreditado, que debieran haberse incluido en las cláusulas financieras, y
 
-III. Las demás que prevean las Reglas.
+III. Las demás que prevean las [Reglas](articulo-3.md).

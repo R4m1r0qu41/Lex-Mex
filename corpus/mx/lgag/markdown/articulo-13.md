@@ -17,4 +17,4 @@ source_sha256: 025de5f30e5b2b422e8654f9470ddefda03486c72a732489146cfe09065d5409
 
 # Artículo 13
 
-La [Secretaría](articulo-4.md) de Salud y sus órganos desconcentrados, en coordinación con los estados y la Ciudad de México implementarán medidas enfocadas a la prevención, tratamiento y control de enfermedades asociadas a la falta de servicios adecuados y a la contaminación del agua.
+La Secretaría de Salud y sus órganos desconcentrados, en coordinación con los estados y la Ciudad de México implementarán medidas enfocadas a la prevención, tratamiento y control de enfermedades asociadas a la falta de servicios adecuados y a la contaminación del agua.

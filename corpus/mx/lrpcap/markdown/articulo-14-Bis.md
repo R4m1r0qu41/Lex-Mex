@@ -17,9 +17,9 @@ source_sha256: cf241af670623476911e625178a081e9e05921b4b6cc73ae92b41a47da45487a
 
 # Artículo 14 Bis
 
-En materia de [Asilo Político](articulo-2.md), compete a la [Secretaría](articulo-2.md) de Relaciones Exteriores:
+En materia de [Asilo Político](articulo-2.md), compete a la Secretaría de Relaciones Exteriores:
 
-I. Resolver sobre el otorgamiento de asilo político a los extranjeros que encontrándose en la representación o en territorio nacional, presenten su solicitud de conformidad con los supuestos previstos en la presente Ley y su reglamento. En todos los casos a que se refiere esta fracción recabará previamente la opinión de la Secretaría;
+I. Resolver sobre el otorgamiento de asilo político a los extranjeros que encontrándose en la representación o en territorio nacional, presenten su solicitud de conformidad con los supuestos previstos en la presente Ley y su reglamento. En todos los casos a que se refiere esta fracción recabará previamente la opinión de la [Secretaría](articulo-2.md);
 
 II. Orientar a los solicitantes de asilo político y asilados sobre sus derechos y obligaciones;
 

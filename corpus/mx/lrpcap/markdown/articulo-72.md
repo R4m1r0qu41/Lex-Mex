@@ -17,7 +17,7 @@ source_sha256: cf241af670623476911e625178a081e9e05921b4b6cc73ae92b41a47da45487a
 
 # Artículo 72
 
-Los asilados podrán renunciar en cualquier momento a la protección que les fue otorgada, para lo cual será necesario dar aviso por escrito a la [Secretaría](articulo-2.md) de Relaciones Exteriores, la que comunicará lo conducente a la Secretaría.
+Los asilados podrán renunciar en cualquier momento a la protección que les fue otorgada, para lo cual será necesario dar aviso por escrito a la Secretaría de Relaciones Exteriores, la que comunicará lo conducente a la [Secretaría](articulo-2.md).
 
 En caso de que un asilado solicite la protección o residencia permanente en otro país, se entenderá que renuncia a la protección que se le otorgó en los Estados Unidos Mexicanos.
 

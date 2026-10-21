@@ -31,7 +31,7 @@ VI. Caza deportiva: La actividad que consiste en la búsqueda, persecución o ac
 
 VII. Colecta: La extracción de ejemplares, partes o derivados de vida silvestre del hábitat en que se encuentran.
 
-VIII. Consejo: El Consejo Técnico Consultivo Nacional para la [Conservación](articulo-3o.md) y Aprovechamiento Sustentable de la [Vida Silvestre](articulo-3o.md).
+VIII. Consejo: El Consejo Técnico Consultivo Nacional para la Conservación y Aprovechamiento Sustentable de la Vida Silvestre.
 
 IX. Conservación: La protección, cuidado, manejo y mantenimiento de los ecosistemas, los hábitats, las especies y las poblaciones de la vida silvestre, dentro o fuera de sus entornos naturales, de manera que se salvaguarden las condiciones naturales para su permanencia a largo plazo.
 
@@ -81,7 +81,7 @@ XXXIII. Muestreo: El levantamiento sistemático de datos indicadores de las cara
 
 XXXIV. Parte: La porción, fragmento o componente de un ejemplar. Para efectos de las disposiciones que se aplican al comercio exterior, se considerarán productos las partes no transformadas y subproductos aquellas que han sido sujetas a algún proceso de transformación. Fracción recorrida DOF 06-04-2010, 05-11-2013
 
-XXXV. Plan de manejo: El documento técnico operativo de las Unidades de [Manejo](articulo-3o.md) para la Conservación de Vida Silvestre sujeto a aprobación de la Secretaría, que describe y programa actividades para el manejo de especies silvestres particulares y sus hábitats y establece metas e indicadores de éxito en función del hábitat y las poblaciones. Fracción recorrida DOF 06-04-2010, 05-11-2013
+XXXV. Plan de manejo: El documento técnico operativo de las Unidades de [Manejo](articulo-3o.md) para la [Conservación](articulo-3o.md) de [Vida Silvestre](articulo-3o.md) sujeto a aprobación de la Secretaría, que describe y programa actividades para el manejo de especies silvestres particulares y sus hábitats y establece metas e indicadores de éxito en función del hábitat y las poblaciones. Fracción recorrida DOF 06-04-2010, 05-11-2013
 
 XXXVI. Población: El conjunto de individuos de una especie silvestre que comparten el mismo hábitat. Se considera la unidad básica de manejo de las especies silvestres en vida libre. Fracción recorrida DOF 06-04-2010, 05-11-2013 XXXVII. Predio: Unidad territorial delimitada por un polígono que puede contener cuerpos de agua o ser parte de ellos. Fracción recorrida DOF 06-04-2010, 05-11-2013
 

@@ -26,7 +26,7 @@ I. Actividad Crediticia: a la colocación de recursos de la unión de crédito e
 
 (94)17
 
-III. Auditor Externo Independiente: al contador público o licenciado en contaduría pública que cumpla con las características y requisitos contenidos en las “Disposiciones de carácter general aplicables a las entidades y emisoras supervisadas por la [Comisión](articulo-1.md) Nacional Bancaria y de [Valores](articulo-1.md) que contraten servicios de auditoría externa de estados financieros básicos” y sus modificaciones.
+III. Auditor Externo Independiente: al contador público o licenciado en contaduría pública que cumpla con las características y requisitos contenidos en las “Disposiciones de carácter general aplicables a las entidades y emisoras supervisadas por la [Comisión](articulo-1.md) Nacional Bancaria y de Valores que contraten servicios de auditoría externa de estados financieros básicos” y sus modificaciones.
 
 IV. Auditoría Interna, a la función que realizarán las uniones de crédito a través de un área o funcionario independiente del Director General, encargado de revisar periódica y sistemáticamente, acorde con el programa anual de trabajo, el funcionamiento del [Sistema de Control Interno](articulo-1.md), en apego a lo establecido por los Artículos [121](articulo-121.md) y [122](articulo-122.md) de las presentes disposiciones.
 
@@ -94,7 +94,7 @@ c) El fideicomiso se encuentre inscrito ante la Unidad de Política Presupuestal
 
 d) El patrimonio del fideicomiso sea constituido con efectivo.
 
-e) Los fondos líquidos del fideicomiso son invertidos en instrumentos de deuda garantizados o avalados por el Gobierno Federal o por instituciones de crédito, o bien en reportos de papel gubernamental o bancario; en el caso de inversiones en directo o reporto de papel bancario, las contrapartes deberán contar con una calificación crediticia emitida por una institución calificadora de valores regulada conforme a la Ley del Mercado de Valores, igual o mejor al grado de riesgo 3 del Anexo 34 de las presentes disposiciones.
+e) Los fondos líquidos del fideicomiso son invertidos en instrumentos de deuda garantizados o avalados por el Gobierno Federal o por instituciones de crédito, o bien en reportos de papel gubernamental o bancario; en el caso de inversiones en directo o reporto de papel bancario, las contrapartes deberán contar con una calificación crediticia emitida por una institución calificadora de valores regulada conforme a la Ley del Mercado de [Valores](articulo-1.md), igual o mejor al grado de riesgo 3 del Anexo 34 de las presentes disposiciones.
 
 19 Fracción adicionada mediante Resolución publicada en el Diario Oficial de la Federación el 25 de abril de 2024, que entrará en vigor el 1 de enero de 2027.
 
@@ -202,7 +202,7 @@ fideicomiso, así como los Financiamientos que le sean otorgados en directo a ca
 
 Para efectos de lo establecido en esta fracción, en las operaciones de factoraje, Descuento y Operaciones de Cesión de Derechos de Crédito, también se podrá considerar como deudor al factorado, descontatario o cedente de los derechos de crédito, únicamente cuando exista obligación solidaria de estos últimos; de lo contrario, se seguirá considerando como deudor al sujeto pasivo de los créditos adquiridos.
 
-XLVI. RUCAM: al [Registro](articulo-1.md) Único de Certificados, Almacenes y Mercancías a que hace referencia el Artículo 22 Bis 6 de la LGOAAC.
+XLVI. RUCAM: al Registro Único de Certificados, Almacenes y Mercancías a que hace referencia el Artículo 22 Bis 6 de la LGOAAC.
 
 XLVII. Secretaría: a la Secretaría de Hacienda y Crédito Público.
 

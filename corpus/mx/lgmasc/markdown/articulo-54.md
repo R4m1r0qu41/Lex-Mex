@@ -17,4 +17,4 @@ source_sha256: d6c47a12a294da2615fcac2b41f76a897373325184ac9f8c5debe6357aa43f4a
 
 # Artículo 54
 
-La [Plataforma Nacional de Personas Facilitadoras](articulo-5.md) concentra la información correlativa, su diseño y actualización corresponde a la instancia que determine el [Consejo](articulo-5.md) de la Judicatura Federal y se integra con la información remitida por los Centros Públicos, correspondiente al [Registro de Personas Facilitadoras](articulo-5.md) en el ámbito federal o de las entidades federativas, de conformidad con los Lineamientos emitidos por el Consejo.
+La [Plataforma Nacional de Personas Facilitadoras](articulo-5.md) concentra la información correlativa, su diseño y actualización corresponde a la instancia que determine el Consejo de la Judicatura Federal y se integra con la información remitida por los Centros Públicos, correspondiente al [Registro de Personas Facilitadoras](articulo-5.md) en el ámbito federal o de las entidades federativas, de conformidad con los Lineamientos emitidos por el [Consejo](articulo-5.md).

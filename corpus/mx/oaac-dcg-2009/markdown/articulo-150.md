@@ -25,7 +25,7 @@ consolidados, las constancias siguientes:
 
 “El presente balance general se formuló de conformidad con los criterios de contabilidad (93) 223
 
-para uniones de crédito emitidos por la [Comisión](articulo-1.md) Nacional Bancaria y de [Valores](articulo-1.md), con fundamento en lo dispuesto por los artículos [65](../../luc/markdown/articulo-65.md), [67](../../luc/markdown/articulo-67.md) y [74](../../luc/markdown/articulo-74.md) de la Ley de Uniones de Crédito, de observancia general y obligatoria, aplicados de manera consistente, encontrándose reflejadas las operaciones efectuadas por la unión de crédito hasta la fecha arriba mencionada, las cuales se realizaron y valuaron con apego a sanas prácticas y a las disposiciones aplicables.
+para uniones de crédito emitidos por la [Comisión](articulo-1.md) Nacional Bancaria y de Valores, con fundamento en lo dispuesto por los artículos [65](../../luc/markdown/articulo-65.md), [67](../../luc/markdown/articulo-67.md) y [74](../../luc/markdown/articulo-74.md) de la Ley de Uniones de Crédito, de observancia general y obligatoria, aplicados de manera consistente, encontrándose reflejadas las operaciones efectuadas por la unión de crédito hasta la fecha arriba mencionada, las cuales se realizaron y valuaron con apego a sanas prácticas y a las disposiciones aplicables.
 
 El presente balance general fue aprobado por el consejo de administración bajo la (93) 224
 

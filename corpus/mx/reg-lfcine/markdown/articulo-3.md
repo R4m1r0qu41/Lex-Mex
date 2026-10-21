@@ -31,7 +31,7 @@ V. Instituto: el Instituto Nacional del Derecho de Autor, de la Secretaría de E
 
 VI. CONACULTA: el Consejo Nacional para la Cultura y las Artes, de la Secretaría de Educación Pública;
 
-VII. IMCINE: el [Instituto](articulo-3.md) Mexicano de Cinematografía;
+VII. IMCINE: el Instituto Mexicano de Cinematografía;
 
 VIII. Cineteca: la Cineteca Nacional;
 

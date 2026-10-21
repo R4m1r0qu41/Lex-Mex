@@ -29,7 +29,7 @@ El infractor deberá informar a la autoridad ordenadora, por escrito, en forma d
 
 La procuraduría podrá realizar inspecciones para verificar el cumplimiento de las obligaciones del infractor. Cuando del acta que se levante al efecto, se desprenda su incumplimiento, podrá imponerse además de las sanciones previstas en el artículo [171](articulo-171.md) de esta Ley, una multa adicional que no exceda el monto previsto en dicho precepto.
 
-En los casos en que el infractor realice las medidas correctivas o de urgente aplicación, subsane las irregularidades detectadas, o cumpla con las obligaciones derivadas del convenio previsto en el artículo [168](articulo-168.md), en los plazos ordenados o acordados por la Procuraduría Federal de [Protección](articulo-3o.md) al [Ambiente](articulo-3o.md), siempre y cuando el infractor no sea reincidente, ésta podrá revocar o modificar la sanción o sanciones impuestas.
+En los casos en que el infractor realice las medidas correctivas o de urgente aplicación, subsane las irregularidades detectadas, o cumpla con las obligaciones derivadas del convenio previsto en el artículo [168](articulo-168.md), en los plazos ordenados o acordados por la Procuraduría Federal de Protección al Ambiente, siempre y cuando el infractor no sea reincidente, ésta podrá revocar o modificar la sanción o sanciones impuestas.
 
 En los casos en que proceda, la autoridad federal hará del conocimiento del Ministerio Público la realización de actos u omisiones constatados en el ejercicio de sus facultades que pudieran configurar uno o más delitos.
 

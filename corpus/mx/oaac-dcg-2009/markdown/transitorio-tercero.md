@@ -15,7 +15,7 @@ source_sha256: 8ac502b97188bd6e795781e9821be6e62ccdd8050cdd3be74aab52a888e67939
 
 # TERCERO
 
-A la entrada en vigor de las presentes disposiciones, quedarán derogadas respecto de las organizaciones auxiliares del crédito, sociedades financieras de objeto limitado, uniones de crédito y casas de cambio, la totalidad de las circulares, oficios-circulares, reglas, disposiciones de carácter general y demás normatividad administrativa secundaria emitida con anterioridad por la [Comisión](articulo-1.md) Nacional Bancaria, Comisión Nacional Bancaria y de Seguros y Comisión Nacional Bancaria y de [Valores](articulo-1.md), que hubieren sido dirigidas a las entidades referidas, excepto por lo siguiente:
+A la entrada en vigor de las presentes disposiciones, quedarán derogadas respecto de las organizaciones auxiliares del crédito, sociedades financieras de objeto limitado, uniones de crédito y casas de cambio, la totalidad de las circulares, oficios-circulares, reglas, disposiciones de carácter general y demás normatividad administrativa secundaria emitida con anterioridad por la [Comisión](articulo-1.md) Nacional Bancaria, Comisión Nacional Bancaria y de Seguros y Comisión Nacional Bancaria y de Valores, que hubieren sido dirigidas a las entidades referidas, excepto por lo siguiente:
 
 I. Las circulares 1342 del 23 de diciembre de 1996, 1433 y 1434 del 15 de abril de 1999, expedidas por la Comisión, relativas a programas de apoyo a deudores.
 

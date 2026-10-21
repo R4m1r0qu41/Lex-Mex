@@ -17,7 +17,7 @@ source_sha256: a4e37974114bed9b3882be9b609e1a2b3fffcad3834b03c9729ad6528ad06a5e
 
 # Artículo 37
 
-Se establece la [Comisión Intersecretarial](articulo-3.md) de [Zonas](articulo-3.md) Económicas Especiales, cuyo objeto es coordinar a las dependencias y entidades paraestatales competentes en la planeación, establecimiento y operación de las Zonas.
+Se establece la [Comisión Intersecretarial](articulo-3.md) de Zonas Económicas Especiales, cuyo objeto es coordinar a las dependencias y entidades paraestatales competentes en la planeación, establecimiento y operación de las [Zonas](articulo-3.md).
 
 La Comisión Intersecretarial estará integrada por:
 

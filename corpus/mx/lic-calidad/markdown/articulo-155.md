@@ -31,7 +31,7 @@ d) Cualquier otro incumplimiento a la presente Ley y su Reglamento que no tenga 
 
 II. De seiscientas a nueve mil veces el equivalente en Unidades de Medida y Actualización, cuando:
 
-a) Sin haber dado aviso a la autoridad competente, así como al [Organismo de Evaluación de la Conformidad](articulo-4.md) que la hubiere evaluado, modifique un bien, producto, proceso o servicio sujeto al cumplimiento de Normas Oficiales Mexicanas;
+a) Sin haber dado aviso a la autoridad competente, así como al Organismo de Evaluación de la Conformidad que la hubiere evaluado, modifique un bien, producto, proceso o servicio sujeto al cumplimiento de Normas Oficiales Mexicanas;
 
 b) No se efectúe el acondicionamiento, reprocesamiento, reparación, sustitución o modificación de bienes, productos, procesos y servicios sujetos al cumplimiento de Normas Oficiales Mexicanas, en los términos señalados por la autoridad competente;
 

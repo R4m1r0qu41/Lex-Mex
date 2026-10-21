@@ -55,15 +55,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfjs:article:2:term-usage:404-411",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfjs:article:2",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfjs:term:sorteo",
-    "span": "Sorteos",
-    "start_char": 404,
-    "end_char": 411
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lfjs:article:2:term-usage:533-536",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfjs:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfjs:term:ley",
@@ -115,15 +106,6 @@
     "span": "Dirección",
     "start_char": 1335,
     "end_char": 1344
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfjs:article:2:term-usage:1365-1372",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfjs:article:2",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfjs:term:sorteo",
-    "span": "Sorteos",
-    "start_char": 1365,
-    "end_char": 1372
   },
   {
     "schema_version": "0.1.0",
@@ -187,24 +169,6 @@
     "span": "Ley",
     "start_char": 1390,
     "end_char": 1393
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfjs:article:3:term-usage:1957-1964",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfjs:article:3",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfjs:term:sorteo",
-    "span": "Sorteos",
-    "start_char": 1957,
-    "end_char": 1964
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfjs:article:3:term-usage:2049-2056",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfjs:article:3",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfjs:term:sorteo",
-    "span": "Sorteos",
-    "start_char": 2049,
-    "end_char": 2056
   },
   {
     "schema_version": "0.1.0",
@@ -514,15 +478,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfjs:article:14:term-usage:42-49",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfjs:article:14",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfjs:term:sorteo",
-    "span": "Sorteos",
-    "start_char": 42,
-    "end_char": 49
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lfjs:article:14:term-usage:81-90",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfjs:article:14",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfjs:term:direccion",
@@ -820,24 +775,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfjs:article:22:term-usage:2719-2729",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfjs:article:22",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfjs:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 2719,
-    "end_char": 2729
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfjs:article:22:term-usage:4678-4688",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfjs:article:22",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfjs:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 4678,
-    "end_char": 4688
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lfjs:article:23:term-usage:205-215",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfjs:article:23",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfjs:term:secretaria",
@@ -910,15 +847,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfjs:article:29:term-usage:780-790",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfjs:article:29",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfjs:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 780,
-    "end_char": 790
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lfjs:article:29:term-usage:842-852",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfjs:article:29",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfjs:term:secretaria",
@@ -979,15 +907,6 @@
     "span": "Consejo Consultivo",
     "start_char": 3408,
     "end_char": 3426
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfjs:article:29:term-usage:3439-3446",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfjs:article:29",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfjs:term:sorteo",
-    "span": "Sorteos",
-    "start_char": 3439,
-    "end_char": 3446
   },
   {
     "schema_version": "0.1.0",
@@ -1204,15 +1123,6 @@
     "span": "Consejo Consultivo",
     "start_char": 147,
     "end_char": 165
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfjs:article:49:term-usage:178-185",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfjs:article:49",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfjs:term:sorteo",
-    "span": "Sorteos",
-    "start_char": 178,
-    "end_char": 185
   },
   {
     "schema_version": "0.1.0",
@@ -1702,15 +1612,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfjs:article:117:term-usage:449-458",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfjs:article:117",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfjs:term:direccion",
-    "span": "Dirección",
-    "start_char": 449,
-    "end_char": 458
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lfjs:article:117:term-usage:718-736",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfjs:article:117",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfjs:term:unidad-de-gobierno",
@@ -2134,15 +2035,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfjs:transitory:septimo:term-usage:34-41",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfjs:transitory:septimo",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfjs:term:sorteo",
-    "span": "Sorteos",
-    "start_char": 34,
-    "end_char": 41
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lfjs:transitory:septimo:term-usage:214-224",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfjs:transitory:septimo",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfjs:term:secretaria",
@@ -2158,14 +2050,5 @@
     "span": "Consejo Consultivo",
     "start_char": 245,
     "end_char": 263
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfjs:transitory:septimo:term-usage:276-283",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfjs:transitory:septimo",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfjs:term:sorteo",
-    "span": "Sorteos",
-    "start_char": 276,
-    "end_char": 283
   }
 ]

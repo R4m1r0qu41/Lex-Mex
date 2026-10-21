@@ -29,6 +29,6 @@ IV. La duración prevista de la medida de salvaguarda o, si no fuere posible, la
 
 V. Si fuere posible, el calendario de la liberación progresiva de la medida de salvaguarda; VI. La mención de que se notificará a los países signatarios del tratado o convenio internacional del que México sea parte, el sentido de la resolución emitida;
 
-VII. La mención de que se notificará a la [Secretaría](articulo-1o.md) de Hacienda y Crédito Público para la aplicación oportuna de la medida impuesta, y
+VII. La mención de que se notificará a la Secretaría de Hacienda y Crédito Público para la aplicación oportuna de la medida impuesta, y
 
 VIII. La fecha en que se sometió el proyecto de resolución final a opinión de la [Comisión](articulo-1o.md) y el sentido en que ésta opinó. Fracción reformada DOF 22-05-2014

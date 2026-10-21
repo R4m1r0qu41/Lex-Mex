@@ -17,6 +17,6 @@ source_sha256: db115e165edc517f5ad816da7be01e11727838a59b9e68906fe686685f4c5087
 
 # Artículo 28
 
-La [Secretaría](articulo-3.md) de Energía, en coordinación con la Comisión, apoyará al [Sector](articulo-3.md) a:
+La Secretaría de Energía, en coordinación con la Comisión, apoyará al [Sector](articulo-3.md) a:
 
 I. Fomentar y promover una mayor integración nacional de equipos y componentes para el aprovechamiento de las energías renovables en los diferentes procesos de producción del [Vino Mexicano](articulo-3.md), y II. Promover las energías renovables utilizadas en la vitivinicultura, en apego a la [Ley](articulo-3.md) de Transición Energética.

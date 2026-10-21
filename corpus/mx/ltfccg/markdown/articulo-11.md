@@ -17,4 +17,4 @@ source_sha256: 1764c89edb8173050fe6bc08f57826ea93a131c7c83f4fc8c15f74de03fb07c3
 
 # Artículo 11
 
-La Sociedad Hipotecaria Federal publicará mensualmente en el Diario Oficial de la Federación, información relativa exclusivamente a las condiciones del mercado de Créditos Garantizados con garantía hipotecaria, que le permita a los interesados evaluar las ofertas vinculantes que reciban. Dicha información también tendrá que ser divulgada a través de la página de Internet de la Sociedad Hipotecaria Federal u otros medios electrónicos.
+La Sociedad Hipotecaria Federal publicará mensualmente en el Diario Oficial de la Federación, información relativa exclusivamente a las condiciones del mercado de [Créditos Garantizados](articulo-3.md) con garantía hipotecaria, que le permita a los interesados evaluar las ofertas vinculantes que reciban. Dicha información también tendrá que ser divulgada a través de la página de Internet de la Sociedad Hipotecaria Federal u otros medios electrónicos.

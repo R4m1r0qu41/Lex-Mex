@@ -397,15 +397,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:6:term-usage:4373-4382",
-    "provision_id": "urn:lex-mx:federal:statute:lissste:article:6",
-    "term_id": "urn:lex-mx:federal:statute:lissste:term:instituto",
-    "span": "Instituto",
-    "start_char": 4373,
-    "end_char": 4382
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lissste:article:6:term-usage:4589-4594",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:6",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:renta",
@@ -9226,48 +9217,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:153:term-usage:502-511",
-    "provision_id": "urn:lex-mx:federal:statute:lissste:article:153",
-    "term_id": "urn:lex-mx:federal:statute:lissste:term:instituto",
-    "span": "Instituto",
-    "start_char": 502,
-    "end_char": 511
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:153:term-usage:516-521",
-    "provision_id": "urn:lex-mx:federal:statute:lissste:article:153",
-    "term_id": "urn:lex-mx:federal:statute:lissste:term:fondo",
-    "span": "Fondo",
-    "start_char": 516,
-    "end_char": 521
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lissste:article:154:term-usage:42-51",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:154",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:instituto",
     "span": "Instituto",
     "start_char": 42,
     "end_char": 51
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:154:term-usage:115-124",
-    "provision_id": "urn:lex-mx:federal:statute:lissste:article:154",
-    "term_id": "urn:lex-mx:federal:statute:lissste:term:instituto",
-    "span": "Instituto",
-    "start_char": 115,
-    "end_char": 124
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:154:term-usage:129-134",
-    "provision_id": "urn:lex-mx:federal:statute:lissste:article:154",
-    "term_id": "urn:lex-mx:federal:statute:lissste:term:fondo",
-    "span": "Fondo",
-    "start_char": 129,
-    "end_char": 134
   },
   {
     "schema_version": "0.1.0",
@@ -9286,24 +9241,6 @@
     "span": "Fondo",
     "start_char": 258,
     "end_char": 263
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:154:term-usage:333-342",
-    "provision_id": "urn:lex-mx:federal:statute:lissste:article:154",
-    "term_id": "urn:lex-mx:federal:statute:lissste:term:instituto",
-    "span": "Instituto",
-    "start_char": 333,
-    "end_char": 342
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:154:term-usage:347-352",
-    "provision_id": "urn:lex-mx:federal:statute:lissste:article:154",
-    "term_id": "urn:lex-mx:federal:statute:lissste:term:fondo",
-    "span": "Fondo",
-    "start_char": 347,
-    "end_char": 352
   },
   {
     "schema_version": "0.1.0",
@@ -9343,24 +9280,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:155:term-usage:89-98",
-    "provision_id": "urn:lex-mx:federal:statute:lissste:article:155",
-    "term_id": "urn:lex-mx:federal:statute:lissste:term:instituto",
-    "span": "Instituto",
-    "start_char": 89,
-    "end_char": 98
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:155:term-usage:103-108",
-    "provision_id": "urn:lex-mx:federal:statute:lissste:article:155",
-    "term_id": "urn:lex-mx:federal:statute:lissste:term:fondo",
-    "span": "Fondo",
-    "start_char": 103,
-    "end_char": 108
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lissste:article:155:term-usage:219-236",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:155",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:cuenta-individual",
@@ -9388,24 +9307,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:156:term-usage:105-114",
-    "provision_id": "urn:lex-mx:federal:statute:lissste:article:156",
-    "term_id": "urn:lex-mx:federal:statute:lissste:term:instituto",
-    "span": "Instituto",
-    "start_char": 105,
-    "end_char": 114
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:156:term-usage:119-124",
-    "provision_id": "urn:lex-mx:federal:statute:lissste:article:156",
-    "term_id": "urn:lex-mx:federal:statute:lissste:term:fondo",
-    "span": "Fondo",
-    "start_char": 119,
-    "end_char": 124
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lissste:article:156:term-usage:289-301",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:156",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:aportaciones",
@@ -9421,24 +9322,6 @@
     "span": "Instituto",
     "start_char": 385,
     "end_char": 394
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:156:term-usage:400-409",
-    "provision_id": "urn:lex-mx:federal:statute:lissste:article:156",
-    "term_id": "urn:lex-mx:federal:statute:lissste:term:instituto",
-    "span": "Instituto",
-    "start_char": 400,
-    "end_char": 409
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:156:term-usage:414-419",
-    "provision_id": "urn:lex-mx:federal:statute:lissste:article:156",
-    "term_id": "urn:lex-mx:federal:statute:lissste:term:fondo",
-    "span": "Fondo",
-    "start_char": 414,
-    "end_char": 419
   },
   {
     "schema_version": "0.1.0",
@@ -10423,24 +10306,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:176:term-usage:1060-1069",
-    "provision_id": "urn:lex-mx:federal:statute:lissste:article:176",
-    "term_id": "urn:lex-mx:federal:statute:lissste:term:instituto",
-    "span": "Instituto",
-    "start_char": 1060,
-    "end_char": 1069
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:176:term-usage:1074-1079",
-    "provision_id": "urn:lex-mx:federal:statute:lissste:article:176",
-    "term_id": "urn:lex-mx:federal:statute:lissste:term:fondo",
-    "span": "Fondo",
-    "start_char": 1074,
-    "end_char": 1079
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lissste:article:176:term-usage:1206-1215",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:176",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:subcuenta",
@@ -10495,48 +10360,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:176:term-usage:2074-2083",
-    "provision_id": "urn:lex-mx:federal:statute:lissste:article:176",
-    "term_id": "urn:lex-mx:federal:statute:lissste:term:instituto",
-    "span": "Instituto",
-    "start_char": 2074,
-    "end_char": 2083
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:176:term-usage:2088-2093",
-    "provision_id": "urn:lex-mx:federal:statute:lissste:article:176",
-    "term_id": "urn:lex-mx:federal:statute:lissste:term:fondo",
-    "span": "Fondo",
-    "start_char": 2088,
-    "end_char": 2093
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lissste:article:176:term-usage:2146-2151",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:176",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:fondo",
     "span": "Fondo",
     "start_char": 2146,
     "end_char": 2151
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:176:term-usage:2454-2463",
-    "provision_id": "urn:lex-mx:federal:statute:lissste:article:176",
-    "term_id": "urn:lex-mx:federal:statute:lissste:term:instituto",
-    "span": "Instituto",
-    "start_char": 2454,
-    "end_char": 2463
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:176:term-usage:2468-2473",
-    "provision_id": "urn:lex-mx:federal:statute:lissste:article:176",
-    "term_id": "urn:lex-mx:federal:statute:lissste:term:fondo",
-    "span": "Fondo",
-    "start_char": 2468,
-    "end_char": 2473
   },
   {
     "schema_version": "0.1.0",
@@ -14371,6 +14200,15 @@
     "span": "Instituto",
     "start_char": 3,
     "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lissste:transitory:segundo:term-usage:66-75",
+    "provision_id": "urn:lex-mx:federal:statute:lissste:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:statute:lissste:term:instituto",
+    "span": "Instituto",
+    "start_char": 66,
+    "end_char": 75
   },
   {
     "schema_version": "0.1.0",

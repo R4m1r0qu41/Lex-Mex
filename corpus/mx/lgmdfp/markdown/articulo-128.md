@@ -19,7 +19,7 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 Los cadáveres o restos de personas cuya identidad se desconozca o no hayan sido reclamados no pueden ser incinerados, destruidos o desintegrados, ni disponerse de sus pertenencias.
 
-La [Fiscalía](articulo-4.md) y las [Fiscalías Locales](articulo-4.md) y otras autoridades que tengan a su cargo servicios forenses deben tener el registro del lugar donde sean colocados los cadáveres o restos de personas cuya identidad se desconozca o no hayan sido reclamados, de acuerdo con el [Registro Nacional](articulo-4.md) de Personas Fallecidas No Identificadas y No Reclamadas. Párrafo reformado DOF 20-05-2021, 16-07-2025
+La [Fiscalía](articulo-4.md) y las [Fiscalías Locales](articulo-4.md) y otras autoridades que tengan a su cargo servicios forenses deben tener el registro del lugar donde sean colocados los cadáveres o restos de personas cuya identidad se desconozca o no hayan sido reclamados, de acuerdo con el Registro Nacional de Personas Fallecidas No Identificadas y No Reclamadas. Párrafo reformado DOF 20-05-2021, 16-07-2025
 
 Cuando las investigaciones revelen la identidad del cadáver o los restos de la persona, el agente del Ministerio Público competente podrá autorizar que los [Familiares](articulo-4.md) dispongan de él y de sus pertenencias, salvo que sean necesarios para continuar con las investigaciones o para el correcto desarrollo del proceso penal, en cuyo caso dictará las medidas correspondientes de conformidad con el Código Nacional de Procedimientos Penales. Párrafo reformado DOF 16-07-2025
 

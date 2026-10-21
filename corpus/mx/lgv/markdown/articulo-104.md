@@ -17,7 +17,7 @@ source_sha256: a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8
 
 # Artículo 104
 
-La información sistematizada en el [Registro](articulo-6.md) Nacional de [Víctimas](articulo-6.md) incluirá:
+La información sistematizada en el [Registro](articulo-6.md) Nacional de Víctimas incluirá:
 
 I. El relato del hecho victimizante, como quedó registrado en el formato único de declaración. El relato inicial se actualizará en la medida en que se avance en la respectiva investigación penal o a través de otros mecanismos de esclarecimiento de los hechos;
 

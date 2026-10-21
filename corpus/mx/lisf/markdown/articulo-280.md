@@ -37,7 +37,7 @@ Tratándose de los contratos que celebren las Instituciones con instituciones de
 
 Los intermediarios del mercado de valores y las instituciones depositarias de los valores con los que las Instituciones tengan celebrados contratos para la administración, intermediación, depósito o custodia de títulos o valores que formen parte de su activo, quedarán sujetos, en cuanto a lo señalado en el presente artículo, a lo dispuesto en esta Ley y a las demás disposiciones aplicables, y
 
-b) Tratándose de mandamientos de embargo dictados por la autoridad judicial o administrativa, la [Comisión](articulo-2.md) Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros determinará los bienes de la Institución que deban afectarse en garantía exclusiva del cumplimiento de las obligaciones por las que se ordenó el embargo. La referida Comisión dictará las disposiciones de carácter general sobre el depósito de dichos bienes;
+b) Tratándose de mandamientos de embargo dictados por la autoridad judicial o administrativa, la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros determinará los bienes de la Institución que deban afectarse en garantía exclusiva del cumplimiento de las obligaciones por las que se ordenó el embargo. La referida [Comisión](articulo-2.md) dictará las disposiciones de carácter general sobre el depósito de dichos bienes;
 
 VI. El Código de Comercio y el Código Nacional de Procedimientos Civiles y Familiares, en ese orden, son supletorios de las reglas procesales contenidas en este artículo y son aplicables al juicio todas las instituciones procesales que establecen dichos ordenamientos; Fracción reformada DOF 14-11-2025
 

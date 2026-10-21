@@ -19,15 +19,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lopsrm:article:2:term-usage:635-645",
-    "provision_id": "urn:lex-mx:federal:statute:lopsrm:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lopsrm:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 635,
-    "end_char": 645
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lopsrm:article:2:term-usage:4423-4433",
     "provision_id": "urn:lex-mx:federal:statute:lopsrm:article:2",
     "term_id": "urn:lex-mx:federal:statute:lopsrm:term:secretaria",
@@ -64,15 +55,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lopsrm:article:8:term-usage:215-225",
-    "provision_id": "urn:lex-mx:federal:statute:lopsrm:article:8",
-    "term_id": "urn:lex-mx:federal:statute:lopsrm:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 215,
-    "end_char": 225
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lopsrm:article:8:term-usage:275-285",
     "provision_id": "urn:lex-mx:federal:statute:lopsrm:article:8",
     "term_id": "urn:lex-mx:federal:statute:lopsrm:term:secretaria",
@@ -88,24 +70,6 @@
     "span": "Hacienda",
     "start_char": 568,
     "end_char": 576
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lopsrm:article:8:term-usage:612-622",
-    "provision_id": "urn:lex-mx:federal:statute:lopsrm:article:8",
-    "term_id": "urn:lex-mx:federal:statute:lopsrm:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 612,
-    "end_char": 622
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lopsrm:article:9:term-usage:80-90",
-    "provision_id": "urn:lex-mx:federal:statute:lopsrm:article:9",
-    "term_id": "urn:lex-mx:federal:statute:lopsrm:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 80,
-    "end_char": 90
   },
   {
     "schema_version": "0.1.0",
@@ -133,15 +97,6 @@
     "span": "Secretaría",
     "start_char": 1004,
     "end_char": 1014
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lopsrm:article:20:term-usage:498-508",
-    "provision_id": "urn:lex-mx:federal:statute:lopsrm:article:20",
-    "term_id": "urn:lex-mx:federal:statute:lopsrm:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 498,
-    "end_char": 508
   },
   {
     "schema_version": "0.1.0",

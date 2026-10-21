@@ -17,10 +17,10 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Artículo 111
 
-El [Registro Nacional](articulo-4.md) de Personas Fallecidas No Identificadas y No Reclamadas se encuentra a cargo de la [Fiscalía](articulo-4.md), formará parte del [Banco Nacional de Datos Forenses](articulo-4.md) y contiene información sobre los datos forenses de los cadáveres o restos de personas no identificadas y no reclamadas, del lugar del hallazgo, el lugar de inhumación o destino final y demás información relevante para su posterior identificación. Párrafo reformado DOF 20-05-2021
+El Registro Nacional de Personas Fallecidas No Identificadas y No Reclamadas se encuentra a cargo de la [Fiscalía](articulo-4.md), formará parte del [Banco Nacional de Datos Forenses](articulo-4.md) y contiene información sobre los datos forenses de los cadáveres o restos de personas no identificadas y no reclamadas, del lugar del hallazgo, el lugar de inhumación o destino final y demás información relevante para su posterior identificación. Párrafo reformado DOF 20-05-2021
 
 El [Registro Nacional de Personas Fallecidas y No Identificadas](articulo-4.md) se integra con la información proporcionada por las autoridades competentes, la Federación y las [Entidades Federativas](articulo-4.md).
 
-El objetivo de este Registro Nacional es el de concentrar la información que permita la identificación de las personas fallecidas no identificadas y apoyar en la localización de los [Familiares](articulo-4.md) de personas fallecidas no reclamadas.
+El objetivo de este [Registro Nacional](articulo-4.md) es el de concentrar la información que permita la identificación de las personas fallecidas no identificadas y apoyar en la localización de los [Familiares](articulo-4.md) de personas fallecidas no reclamadas.
 
 La Fiscalía emitirá los lineamientos para que las autoridades de los distintos órdenes de gobierno remitan dicha información de forma homologada. Párrafo reformado DOF 20-05-2021

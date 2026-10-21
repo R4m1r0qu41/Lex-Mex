@@ -19,15 +19,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:1018-1025",
-    "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
-    "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:valores",
-    "span": "Valores",
-    "start_char": 1018,
-    "end_char": 1025
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:1384-1410",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:sistema-de-control-interno",
@@ -52,15 +43,6 @@
     "span": "LUC",
     "start_char": 1821,
     "end_char": 1824
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:3412-3419",
-    "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
-    "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:valores",
-    "span": "Valores",
-    "start_char": 3412,
-    "end_char": 3419
   },
   {
     "schema_version": "0.1.0",
@@ -253,6 +235,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:14168-14176",
+    "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:comision",
+    "span": "Comisión",
+    "start_char": 14168,
+    "end_char": 14176
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:14478-14511",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:precio-actualizado-para-valuacion",
@@ -322,15 +313,6 @@
     "span": "Valores",
     "start_char": 17795,
     "end_char": 17802
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:18007-18014",
-    "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
-    "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:valores",
-    "span": "Valores",
-    "start_char": 18007,
-    "end_char": 18014
   },
   {
     "schema_version": "0.1.0",
@@ -448,15 +430,6 @@
     "span": "Descuento",
     "start_char": 20835,
     "end_char": 20844
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:21178-21186",
-    "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
-    "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:registro",
-    "span": "Registro",
-    "start_char": 21178,
-    "end_char": 21186
   },
   {
     "schema_version": "0.1.0",
@@ -1117,30 +1090,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:18:term-usage:438-445",
-    "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:18",
-    "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:valores",
-    "span": "Valores",
-    "start_char": 438,
-    "end_char": 445
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:18:term-usage:1211-1219",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:18",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:comision",
     "span": "Comisión",
     "start_char": 1211,
     "end_char": 1219
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:18:term-usage:1243-1250",
-    "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:18",
-    "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:valores",
-    "span": "Valores",
-    "start_char": 1243,
-    "end_char": 1250
   },
   {
     "schema_version": "0.1.0",
@@ -1153,30 +1108,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:18:term-usage:2115-2122",
-    "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:18",
-    "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:valores",
-    "span": "Valores",
-    "start_char": 2115,
-    "end_char": 2122
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:18:term-usage:2971-2979",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:18",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:comision",
     "span": "Comisión",
     "start_char": 2971,
     "end_char": 2979
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:18:term-usage:3003-3010",
-    "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:18",
-    "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:valores",
-    "span": "Valores",
-    "start_char": 3003,
-    "end_char": 3010
   },
   {
     "schema_version": "0.1.0",
@@ -1189,30 +1126,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:18:term-usage:3903-3910",
-    "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:18",
-    "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:valores",
-    "span": "Valores",
-    "start_char": 3903,
-    "end_char": 3910
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:18:term-usage:4655-4663",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:18",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:comision",
     "span": "Comisión",
     "start_char": 4655,
     "end_char": 4663
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:18:term-usage:4687-4694",
-    "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:18",
-    "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:valores",
-    "span": "Valores",
-    "start_char": 4687,
-    "end_char": 4694
   },
   {
     "schema_version": "0.1.0",
@@ -1225,30 +1144,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:18:term-usage:5540-5547",
-    "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:18",
-    "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:valores",
-    "span": "Valores",
-    "start_char": 5540,
-    "end_char": 5547
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:18:term-usage:6377-6385",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:18",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:comision",
     "span": "Comisión",
     "start_char": 6377,
     "end_char": 6385
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:18:term-usage:6409-6416",
-    "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:18",
-    "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:valores",
-    "span": "Valores",
-    "start_char": 6409,
-    "end_char": 6416
   },
   {
     "schema_version": "0.1.0",
@@ -2917,15 +2818,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:72:term-usage:3309-3316",
-    "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:72",
-    "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:valores",
-    "span": "Valores",
-    "start_char": 3309,
-    "end_char": 3316
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:72:term-usage:3357-3365",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:72",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:comision",
@@ -3079,15 +2971,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:72-bis:term-usage:3897-3904",
-    "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:72-bis",
-    "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:valores",
-    "span": "Valores",
-    "start_char": 3897,
-    "end_char": 3904
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:72-bis:term-usage:3945-3953",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:72-bis",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:comision",
@@ -3196,15 +3079,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:72-bis-1:term-usage:4214-4221",
-    "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:72-bis-1",
-    "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:valores",
-    "span": "Valores",
-    "start_char": 4214,
-    "end_char": 4221
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:72-bis-1:term-usage:4262-4270",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:72-bis-1",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:comision",
@@ -3259,15 +3133,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:72-bis-2:term-usage:686-693",
-    "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:72-bis-2",
-    "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:valores",
-    "span": "Valores",
-    "start_char": 686,
-    "end_char": 693
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:72-bis-2:term-usage:734-742",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:72-bis-2",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:comision",
@@ -3310,15 +3175,6 @@
     "span": "Registro",
     "start_char": 112,
     "end_char": 120
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:72-bis-3:term-usage:133-140",
-    "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:72-bis-3",
-    "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:valores",
-    "span": "Valores",
-    "start_char": 133,
-    "end_char": 140
   },
   {
     "schema_version": "0.1.0",
@@ -3421,24 +3277,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:72-bis-3:term-usage:3600-3607",
-    "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:72-bis-3",
-    "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:valores",
-    "span": "Valores",
-    "start_char": 3600,
-    "end_char": 3607
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:72-bis-3:term-usage:3969-3977",
-    "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:72-bis-3",
-    "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:comision",
-    "span": "Comisión",
-    "start_char": 3969,
-    "end_char": 3977
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:72-bis-3:term-usage:4097-4103",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:72-bis-3",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:lgoaac",
@@ -3454,15 +3292,6 @@
     "span": "Registro",
     "start_char": 4359,
     "end_char": 4367
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:72-bis-3:term-usage:4380-4387",
-    "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:72-bis-3",
-    "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:valores",
-    "span": "Valores",
-    "start_char": 4380,
-    "end_char": 4387
   },
   {
     "schema_version": "0.1.0",
@@ -3508,15 +3337,6 @@
     "span": "Comisión",
     "start_char": 251,
     "end_char": 259
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:72-bis-5:term-usage:397-405",
-    "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:72-bis-5",
-    "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:comision",
-    "span": "Comisión",
-    "start_char": 397,
-    "end_char": 405
   },
   {
     "schema_version": "0.1.0",
@@ -3571,15 +3391,6 @@
     "span": "Comisión",
     "start_char": 4042,
     "end_char": 4050
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:72-bis-5:term-usage:4074-4081",
-    "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:72-bis-5",
-    "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:valores",
-    "span": "Valores",
-    "start_char": 4074,
-    "end_char": 4081
   },
   {
     "schema_version": "0.1.0",
@@ -3715,15 +3526,6 @@
     "span": "Registro",
     "start_char": 1323,
     "end_char": 1331
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:72-bis-9:term-usage:1344-1351",
-    "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:72-bis-9",
-    "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:valores",
-    "span": "Valores",
-    "start_char": 1344,
-    "end_char": 1351
   },
   {
     "schema_version": "0.1.0",
@@ -3925,15 +3727,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:74-bis-1:term-usage:271-279",
-    "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:74-bis-1",
-    "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:comision",
-    "span": "Comisión",
-    "start_char": 271,
-    "end_char": 279
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:74-bis-1:term-usage:992-1000",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:74-bis-1",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:comision",
@@ -3958,15 +3751,6 @@
     "span": "Registro",
     "start_char": 235,
     "end_char": 243
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:75:term-usage:256-263",
-    "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:75",
-    "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:valores",
-    "span": "Valores",
-    "start_char": 256,
-    "end_char": 263
   },
   {
     "schema_version": "0.1.0",
@@ -4024,15 +3808,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:76:term-usage:256-263",
-    "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:76",
-    "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:valores",
-    "span": "Valores",
-    "start_char": 256,
-    "end_char": 263
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:76:term-usage:297-304",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:76",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:valores",
@@ -4084,15 +3859,6 @@
     "span": "Registro",
     "start_char": 112,
     "end_char": 120
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:76-bis-1:term-usage:133-140",
-    "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:76-bis-1",
-    "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:valores",
-    "span": "Valores",
-    "start_char": 133,
-    "end_char": 140
   },
   {
     "schema_version": "0.1.0",
@@ -8353,30 +8119,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:150:term-usage:336-343",
-    "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:150",
-    "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:valores",
-    "span": "Valores",
-    "start_char": 336,
-    "end_char": 343
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:150:term-usage:1045-1053",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:150",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:comision",
     "span": "Comisión",
     "start_char": 1045,
     "end_char": 1053
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:150:term-usage:1077-1084",
-    "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:150",
-    "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:valores",
-    "span": "Valores",
-    "start_char": 1077,
-    "end_char": 1084
   },
   {
     "schema_version": "0.1.0",
@@ -8389,30 +8137,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:150:term-usage:3508-3515",
-    "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:150",
-    "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:valores",
-    "span": "Valores",
-    "start_char": 3508,
-    "end_char": 3515
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:150:term-usage:4336-4344",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:150",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:comision",
     "span": "Comisión",
     "start_char": 4336,
     "end_char": 4344
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:150:term-usage:4368-4375",
-    "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:150",
-    "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:valores",
-    "span": "Valores",
-    "start_char": 4368,
-    "end_char": 4375
   },
   {
     "schema_version": "0.1.0",
@@ -8551,15 +8281,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:160:term-usage:2086-2093",
-    "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:160",
-    "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:valores",
-    "span": "Valores",
-    "start_char": 2086,
-    "end_char": 2093
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:160:term-usage:2200-2208",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:160",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:comision",
@@ -8593,15 +8314,6 @@
     "span": "Comisión",
     "start_char": 452,
     "end_char": 460
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:transitory:tercero:term-usage:484-491",
-    "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:transitory:tercero",
-    "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:valores",
-    "span": "Valores",
-    "start_char": 484,
-    "end_char": 491
   },
   {
     "schema_version": "0.1.0",
@@ -8764,14 +8476,5 @@
     "span": "Comisión",
     "start_char": 2542,
     "end_char": 2550
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:transitory:noveno:term-usage:2574-2581",
-    "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:transitory:noveno",
-    "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:valores",
-    "span": "Valores",
-    "start_char": 2574,
-    "end_char": 2581
   }
 ]

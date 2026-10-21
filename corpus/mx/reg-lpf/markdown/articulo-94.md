@@ -43,7 +43,7 @@ XII. Controlar el uso, mantenimiento y reparación del equipo de transporte de l
 
 XIII. Dirigir, controlar y evaluar los servicios generales de apoyo;
 
-XIV. Supervisar la ejecución al interior de la Institución de los programas del [Sistema](articulo-2.md) Nacional de Protección Civil;
+XIV. Supervisar la ejecución al interior de la Institución de los programas del Sistema Nacional de Protección Civil;
 
 XV. Proponer a su coordinador el destino final de bienes muebles a cargo de las unidades administrativas de la Institución, incluyendo la destrucción de aquéllos cuya baja se haya determinado;
 

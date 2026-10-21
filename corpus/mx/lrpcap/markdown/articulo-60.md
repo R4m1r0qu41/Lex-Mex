@@ -17,6 +17,6 @@ source_sha256: cf241af670623476911e625178a081e9e05921b4b6cc73ae92b41a47da45487a
 
 # Artículo 60
 
-La información aportada por los solicitantes de asilo político y asilados será tratada con la más estricta confidencialidad, en términos de lo establecido por la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental. Cuando alguna autoridad requiera información respecto a los solicitantes de asilo político o asilados, deberá solicitarla a la [Secretaría](articulo-2.md) de Relaciones Exteriores; en caso de que se le proporcione dicha información, ésta deberá ser tratada de manera confidencial, en términos de la ley citada.
+La información aportada por los solicitantes de asilo político y asilados será tratada con la más estricta confidencialidad, en términos de lo establecido por la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental. Cuando alguna autoridad requiera información respecto a los solicitantes de asilo político o asilados, deberá solicitarla a la Secretaría de Relaciones Exteriores; en caso de que se le proporcione dicha información, ésta deberá ser tratada de manera confidencial, en términos de la ley citada.
 
 Artículo adicionado DOF 30-10-2014

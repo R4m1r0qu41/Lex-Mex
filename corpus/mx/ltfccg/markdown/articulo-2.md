@@ -23,4 +23,4 @@ I. Las leyes mercantiles especiales;
 
 II. El Código de Comercio, y
 
-III. La legislación civil de la Entidad Federativa donde se realicen los actos jurídicos a que se refiere esta Ley.
+III. La legislación civil de la [Entidad](articulo-3.md) Federativa donde se realicen los actos jurídicos a que se refiere esta Ley.

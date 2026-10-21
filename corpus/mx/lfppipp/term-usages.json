@@ -1036,6 +1036,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:18:term-usage:740-756",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:fiscalia-general",
+    "span": "Fiscalía General",
+    "start_char": 740,
+    "end_char": 756
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfppipp:article:18:term-usage:1207-1224",
     "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:18",
     "term_id": "urn:lex-mx:federal:statute:lfppipp:term:persona-protegida",

@@ -29,6 +29,6 @@ En caso de que el Cliente objete la terminación del contrato por no haber otorg
 
 Las solicitudes, autorizaciones, instrucciones y comunicaciones a que se refiere este artículo podrán llevarse a cabo por escrito con firma autógrafa o a través de medios electrónicos, ópticos o de cualquier otra tecnología que previamente convengan las partes, siempre y cuando pueda comprobarse fehacientemente el acto jurídico de que se trate.
 
-Lo dispuesto por este artículo se sujetará a las disposiciones de carácter general que emita la [Comisión](articulo-3.md) Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros.
+Lo dispuesto por este artículo se sujetará a las disposiciones de carácter general que emita la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros.
 
 Artículo adicionado DOF 25-06-2009. Reformado DOF 10-01-2014

@@ -37,15 +37,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcid:article:2:term-usage:370-395",
-    "provision_id": "urn:lex-mx:federal:statute:lcid:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lcid:term:cooperacion-internacional",
-    "span": "Cooperación Internacional",
-    "start_char": 370,
-    "end_char": 395
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcid:article:2:term-usage:435-445",
     "provision_id": "urn:lex-mx:federal:statute:lcid:article:2",
     "term_id": "urn:lex-mx:federal:statute:lcid:term:secretaria",
@@ -70,24 +61,6 @@
     "span": "Cooperación Internacional",
     "start_char": 574,
     "end_char": 599
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcid:article:2:term-usage:811-836",
-    "provision_id": "urn:lex-mx:federal:statute:lcid:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lcid:term:cooperacion-internacional",
-    "span": "Cooperación Internacional",
-    "start_char": 811,
-    "end_char": 836
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcid:article:4:term-usage:83-108",
-    "provision_id": "urn:lex-mx:federal:statute:lcid:article:4",
-    "term_id": "urn:lex-mx:federal:statute:lcid:term:cooperacion-internacional",
-    "span": "Cooperación Internacional",
-    "start_char": 83,
-    "end_char": 108
   },
   {
     "schema_version": "0.1.0",
@@ -142,15 +115,6 @@
     "span": "Cooperación Internacional",
     "start_char": 25,
     "end_char": 50
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcid:article:6:term-usage:95-120",
-    "provision_id": "urn:lex-mx:federal:statute:lcid:article:6",
-    "term_id": "urn:lex-mx:federal:statute:lcid:term:cooperacion-internacional",
-    "span": "Cooperación Internacional",
-    "start_char": 95,
-    "end_char": 120
   },
   {
     "schema_version": "0.1.0",

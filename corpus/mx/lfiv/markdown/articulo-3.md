@@ -29,7 +29,7 @@ V. Reglamento: El Reglamento de la Ley de Fomento a la Industria Vitivinícola.
 
 VI. Productor: Persona dedicada al cultivo, producción, elaboración y transformación de la uva destinada a la elaboración de [Vino](articulo-3.md).
 
-VII. Registro: El Registro Nacional de [Productores](articulo-3.md) Vitivinícolas.
+VII. Registro: El Registro Nacional de Productores Vitivinícolas.
 
 VIII. Secretaría: La Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación.
 

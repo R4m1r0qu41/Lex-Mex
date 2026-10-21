@@ -55,15 +55,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpo:article:3:term-usage:1110-1129",
-    "provision_id": "urn:lex-mx:federal:statute:lpo:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lpo:term:produccion-organica",
-    "span": "Producción Orgánica",
-    "start_char": 1110,
-    "end_char": 1129
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lpo:article:3:term-usage:3495-3517",
     "provision_id": "urn:lex-mx:federal:statute:lpo:article:3",
     "term_id": "urn:lex-mx:federal:statute:lpo:term:certificacion-organica",
@@ -100,30 +91,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpo:article:4:term-usage:337-347",
-    "provision_id": "urn:lex-mx:federal:statute:lpo:article:4",
-    "term_id": "urn:lex-mx:federal:statute:lpo:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 337,
-    "end_char": 347
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lpo:article:4:term-usage:392-402",
     "provision_id": "urn:lex-mx:federal:statute:lpo:article:4",
     "term_id": "urn:lex-mx:federal:statute:lpo:term:secretaria",
     "span": "Secretaría",
     "start_char": 392,
     "end_char": 402
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpo:article:4:term-usage:434-444",
-    "provision_id": "urn:lex-mx:federal:statute:lpo:article:4",
-    "term_id": "urn:lex-mx:federal:statute:lpo:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 434,
-    "end_char": 444
   },
   {
     "schema_version": "0.1.0",
@@ -196,15 +169,6 @@
     "span": "Sistema de control",
     "start_char": 1984,
     "end_char": 2002
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpo:article:6:term-usage:2283-2293",
-    "provision_id": "urn:lex-mx:federal:statute:lpo:article:6",
-    "term_id": "urn:lex-mx:federal:statute:lpo:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 2283,
-    "end_char": 2293
   },
   {
     "schema_version": "0.1.0",
@@ -325,15 +289,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpo:article:13:term-usage:31-50",
-    "provision_id": "urn:lex-mx:federal:statute:lpo:article:13",
-    "term_id": "urn:lex-mx:federal:statute:lpo:term:produccion-organica",
-    "span": "Producción Orgánica",
-    "start_char": 31,
-    "end_char": 50
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lpo:article:13:term-usage:81-91",
     "provision_id": "urn:lex-mx:federal:statute:lpo:article:13",
     "term_id": "urn:lex-mx:federal:statute:lpo:term:secretaria",
@@ -376,15 +331,6 @@
     "span": "Secretaría",
     "start_char": 55,
     "end_char": 65
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpo:article:14:term-usage:73-83",
-    "provision_id": "urn:lex-mx:federal:statute:lpo:article:14",
-    "term_id": "urn:lex-mx:federal:statute:lpo:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 73,
-    "end_char": 83
   },
   {
     "schema_version": "0.1.0",
@@ -619,15 +565,6 @@
     "span": "Organismo de certificación orgánica",
     "start_char": 119,
     "end_char": 154
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpo:article:25:term-usage:255-265",
-    "provision_id": "urn:lex-mx:federal:statute:lpo:article:25",
-    "term_id": "urn:lex-mx:federal:statute:lpo:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 255,
-    "end_char": 265
   },
   {
     "schema_version": "0.1.0",
@@ -919,15 +856,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpo:transitory:segundo:term-usage:40-59",
-    "provision_id": "urn:lex-mx:federal:statute:lpo:transitory:segundo",
-    "term_id": "urn:lex-mx:federal:statute:lpo:term:produccion-organica",
-    "span": "Producción Orgánica",
-    "start_char": 40,
-    "end_char": 59
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lpo:transitory:cuarto:term-usage:127-137",
     "provision_id": "urn:lex-mx:federal:statute:lpo:transitory:cuarto",
     "term_id": "urn:lex-mx:federal:statute:lpo:term:secretaria",
@@ -943,14 +871,5 @@
     "span": "Secretaría",
     "start_char": 3,
     "end_char": 13
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpo:transitory:quinto:term-usage:19-29",
-    "provision_id": "urn:lex-mx:federal:statute:lpo:transitory:quinto",
-    "term_id": "urn:lex-mx:federal:statute:lpo:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 19,
-    "end_char": 29
   }
 ]

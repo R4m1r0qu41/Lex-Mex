@@ -17,7 +17,7 @@ source_sha256: ea96e97cbea2fd1919af78b94cd3466ee20a77e05989be2d482d2eb8061618c5
 
 # Artículo 30
 
-La [Secretaría](articulo-2.md) de Cultura será competente para poseer, vigilar, conservar, administrar y controlar los inmuebles federales considerados como monumentos arqueológicos conforme a la ley de la materia, así como las zonas de monumentos arqueológicos. Párrafo reformado DOF 17-12-2015
+La Secretaría de Cultura será competente para poseer, vigilar, conservar, administrar y controlar los inmuebles federales considerados como monumentos arqueológicos conforme a la ley de la materia, así como las zonas de monumentos arqueológicos. Párrafo reformado DOF 17-12-2015
 
 Los inmuebles federales considerados como monumentos arqueológicos conforme a la ley de la materia, no podrán ser objeto de concesión, permiso o autorización.
 

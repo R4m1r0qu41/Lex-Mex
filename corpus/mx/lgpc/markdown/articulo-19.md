@@ -31,7 +31,7 @@ V. Investigar, estudiar y evaluar riesgos, peligros y vulnerabilidades, integran
 
 VI. Difundir entre las autoridades correspondientes y la población en general los resultados de los trabajos que realice, así como toda aquella información pública que tienda a la generación, desarrollo y consolidación de una cultura nacional en la materia, con las reservas que correspondan en materia de transparencia y de seguridad nacional;
 
-VII. Asesorar y apoyar a los gobiernos de las entidades federativas, en coordinación con la [Secretaría](articulo-2.md) de Hacienda y Crédito Público, en el análisis y selección del modelo requerido para la transferencia de riesgos a que se refiere el artículo [18](articulo-18.md) de esta Ley;
+VII. Asesorar y apoyar a los gobiernos de las entidades federativas, en coordinación con la Secretaría de Hacienda y Crédito Público, en el análisis y selección del modelo requerido para la transferencia de riesgos a que se refiere el artículo [18](articulo-18.md) de esta Ley;
 
 VIII. Asesorar y apoyar a los gobiernos de las entidades federativas en el análisis y selección del modelo requerido para la transferencia de riesgos a que se refiere el artículo 19 de esta Ley, para lo cual podrá solicitar recursos de los instrumentos financieros; IX. Instrumentar y en su caso, operar redes de detección, monitoreo, pronóstico y sistemas de alertamiento, en coordinación con las dependencias responsables e incorporando los esfuerzos de otras redes de monitoreo públicas o privadas;
 
