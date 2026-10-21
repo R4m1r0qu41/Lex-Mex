@@ -1,0 +1,1023 @@
+{
+  "head": "fedcbc5dbe1ae7d87a6dce0e0e521f56b28b9a58",
+  "execution": "two independent fresh output roots, concurrent builds/verifications in the same environment",
+  "runs": [
+    {
+      "build": {
+        "exit_code": 0,
+        "elapsed_seconds": 213.67,
+        "stderr": "",
+        "report": {
+          "release_id": "9c44409186e24c88b61c7e5050d6a629dcb4ec9c7fa0e05da05d9966cf5236f6",
+          "directory": "/Users/jr/Dev/lex-mex-db/derived/db/m4-validation-a/9c44409186e24c88b61c7e5050d6a629dcb4ec9c7fa0e05da05d9966cf5236f6",
+          "database_sha256": "16ec392e67baf6e1b0bdf94bb939d1e0ae2ebaf0549cba32b66e087e86ca654f",
+          "input_files": 4960,
+          "table_counts": {
+            "coverage": 1872,
+            "coverage_accepted_gaps": 5,
+            "defined_terms": 5727,
+            "enactment_evidence": 99,
+            "evidence_artifacts": 1673,
+            "glossary_coverage": 468,
+            "input_files": 4960,
+            "instrument_reproducibility": 0,
+            "instruments": 468,
+            "known_structural_debt": 17,
+            "legal_operator_reviews": 16,
+            "outdated_reference_approvals": 17,
+            "provisions": 68328,
+            "reference_edges": 35949,
+            "reference_qualifiers": 12360,
+            "source_manifests": 498,
+            "standards_catalog": 32,
+            "term_usages": 102432
+          }
+        }
+      },
+      "verify": {
+        "exit_code": 0,
+        "elapsed_seconds": 162.79,
+        "stderr": "",
+        "report": {
+          "schema_version": "2",
+          "release_id": "9c44409186e24c88b61c7e5050d6a629dcb4ec9c7fa0e05da05d9966cf5236f6",
+          "corpus_commit": "fedcbc5dbe1ae7d87a6dce0e0e521f56b28b9a58",
+          "head_commit": "fedcbc5dbe1ae7d87a6dce0e0e521f56b28b9a58",
+          "stale_input_paths": [],
+          "input_files": 4960,
+          "normalized_records": 213471,
+          "table_counts": {
+            "corpus_release": 1,
+            "coverage": 1872,
+            "coverage_accepted_gaps": 5,
+            "defined_terms": 5727,
+            "enactment_evidence": 99,
+            "evidence_artifacts": 1673,
+            "glossary_coverage": 468,
+            "input_files": 4960,
+            "instrument_reproducibility": 0,
+            "instruments": 468,
+            "known_structural_debt": 17,
+            "legal_operator_reviews": 16,
+            "outdated_reference_approvals": 17,
+            "provisions": 68328,
+            "reference_edges": 35949,
+            "reference_qualifiers": 12360,
+            "source_anchors": 68796,
+            "source_manifests": 498,
+            "standards_catalog": 32,
+            "term_usages": 102432
+          },
+          "fts_token_occurrences": 9996277,
+          "database_sha256": "16ec392e67baf6e1b0bdf94bb939d1e0ae2ebaf0549cba32b66e087e86ca654f",
+          "logical_content_sha256": "435078f9e530c4a8fca9954ad56ce1b7915db35b8ebda60fe476a735a8da9f2c"
+        }
+      },
+      "golden": {
+        "exit_code": 0,
+        "elapsed_seconds": 0.14,
+        "stderr": "",
+        "report": [
+          "G1 reg-lan parent law",
+          "G2 G4 approved outdated with independent notes",
+          "G3 unavailable history",
+          "G3 current target remains live",
+          "G5 LFTR missing citation",
+          "G5 repaired CPF is absent",
+          "G6 LGTOC separate article",
+          "G6 active LFD structural debt",
+          "G7 accent-insensitive complete hit set",
+          "G7 accent-insensitive reverse hit set",
+          "G7 baseline hit count",
+          "G8 exact Terdecies lookup",
+          "definition provenance",
+          "exact term usages",
+          "cross-instrument glossary usages",
+          "source provenance",
+          "analysis completeness remains explicit",
+          "standards excluded from provisions",
+          "G1 adapter parent authority",
+          "G1 source definition authority",
+          "G5 complete cited-but-missing inventory"
+        ]
+      },
+      "database_bytes": 485859328,
+      "manifest_without_input_descriptors": {
+        "schema_version": "2",
+        "release_id": "9c44409186e24c88b61c7e5050d6a629dcb4ec9c7fa0e05da05d9966cf5236f6",
+        "specification": {
+          "schema_version": "2",
+          "corpus_commit": "fedcbc5dbe1ae7d87a6dce0e0e521f56b28b9a58",
+          "builder_commit": "fedcbc5dbe1ae7d87a6dce0e0e521f56b28b9a58",
+          "cargo_lock_sha256": "1a29a8a76b1d7c01e71918c99f0b5bac089cffc81340ee758124d40cd343f5a5",
+          "rust_toolchain": "rustc 1.95.0 (59807616e 2026-04-14)",
+          "sqlite_version": "3.53.2",
+          "sqlite_compile_options": [
+            "ATOMIC_INTRINSICS=1",
+            "COMPILER=clang-21.0.0",
+            "DEFAULT_AUTOVACUUM",
+            "DEFAULT_CACHE_SIZE=-2000",
+            "DEFAULT_FILE_FORMAT=4",
+            "DEFAULT_FOREIGN_KEYS",
+            "DEFAULT_JOURNAL_SIZE_LIMIT=-1",
+            "DEFAULT_MMAP_SIZE=0",
+            "DEFAULT_PAGE_SIZE=4096",
+            "DEFAULT_PCACHE_INITSZ=20",
+            "DEFAULT_RECURSIVE_TRIGGERS",
+            "DEFAULT_SECTOR_SIZE=4096",
+            "DEFAULT_SYNCHRONOUS=2",
+            "DEFAULT_WAL_AUTOCHECKPOINT=1000",
+            "DEFAULT_WAL_SYNCHRONOUS=2",
+            "DEFAULT_WORKER_THREADS=0",
+            "DIRECT_OVERFLOW_READ",
+            "ENABLE_API_ARMOR",
+            "ENABLE_COLUMN_METADATA",
+            "ENABLE_DBSTAT_VTAB",
+            "ENABLE_FTS3",
+            "ENABLE_FTS3_PARENTHESIS",
+            "ENABLE_FTS5",
+            "ENABLE_LOAD_EXTENSION",
+            "ENABLE_MEMORY_MANAGEMENT",
+            "ENABLE_RTREE",
+            "ENABLE_STAT4",
+            "HAVE_ISNAN",
+            "MALLOC_SOFT_LIMIT=1024",
+            "MAX_ATTACHED=10",
+            "MAX_COLUMN=2000",
+            "MAX_COMPOUND_SELECT=500",
+            "MAX_DEFAULT_PAGE_SIZE=8192",
+            "MAX_EXPR_DEPTH=1000",
+            "MAX_FUNCTION_ARG=1000",
+            "MAX_LENGTH=1000000000",
+            "MAX_LIKE_PATTERN_LENGTH=50000",
+            "MAX_MMAP_SIZE=0x7fff0000",
+            "MAX_PAGE_COUNT=0xfffffffe",
+            "MAX_PAGE_SIZE=65536",
+            "MAX_SQL_LENGTH=1000000000",
+            "MAX_TRIGGER_DEPTH=1000",
+            "MAX_VARIABLE_NUMBER=32766",
+            "MAX_VDBE_OP=250000000",
+            "MAX_WORKER_THREADS=8",
+            "MUTEX_PTHREADS",
+            "SOUNDEX",
+            "SYSTEM_MALLOC",
+            "TEMP_STORE=1",
+            "THREADSAFE=1",
+            "USE_URI"
+          ],
+          "source_commit_timestamp": 1792527523,
+          "inclusion_policy": "federal_with_standards_catalogue",
+          "logical_digest_policy": "relational_content_v2"
+        },
+        "database_sha256": "16ec392e67baf6e1b0bdf94bb939d1e0ae2ebaf0549cba32b66e087e86ca654f",
+        "logical_content_sha256": "435078f9e530c4a8fca9954ad56ce1b7915db35b8ebda60fe476a735a8da9f2c"
+      },
+      "manifest_sha256": "30a82072796694212ae68b75cba519f3ee3783edec5ac7e7aeb802082a53cfa1",
+      "input_descriptors_sha256": "3630ee6547b19debf1ea0b66c09a59ac3d0a4df21c25b42b1cd5abf4ae5b6a96",
+      "input_descriptor_count": 4960
+    },
+    {
+      "build": {
+        "exit_code": 0,
+        "elapsed_seconds": 213.81,
+        "stderr": "",
+        "report": {
+          "release_id": "9c44409186e24c88b61c7e5050d6a629dcb4ec9c7fa0e05da05d9966cf5236f6",
+          "directory": "/Users/jr/Dev/lex-mex-db/derived/db/m4-validation-b/9c44409186e24c88b61c7e5050d6a629dcb4ec9c7fa0e05da05d9966cf5236f6",
+          "database_sha256": "16ec392e67baf6e1b0bdf94bb939d1e0ae2ebaf0549cba32b66e087e86ca654f",
+          "input_files": 4960,
+          "table_counts": {
+            "coverage": 1872,
+            "coverage_accepted_gaps": 5,
+            "defined_terms": 5727,
+            "enactment_evidence": 99,
+            "evidence_artifacts": 1673,
+            "glossary_coverage": 468,
+            "input_files": 4960,
+            "instrument_reproducibility": 0,
+            "instruments": 468,
+            "known_structural_debt": 17,
+            "legal_operator_reviews": 16,
+            "outdated_reference_approvals": 17,
+            "provisions": 68328,
+            "reference_edges": 35949,
+            "reference_qualifiers": 12360,
+            "source_manifests": 498,
+            "standards_catalog": 32,
+            "term_usages": 102432
+          }
+        }
+      },
+      "verify": {
+        "exit_code": 0,
+        "elapsed_seconds": 162.65,
+        "stderr": "",
+        "report": {
+          "schema_version": "2",
+          "release_id": "9c44409186e24c88b61c7e5050d6a629dcb4ec9c7fa0e05da05d9966cf5236f6",
+          "corpus_commit": "fedcbc5dbe1ae7d87a6dce0e0e521f56b28b9a58",
+          "head_commit": "fedcbc5dbe1ae7d87a6dce0e0e521f56b28b9a58",
+          "stale_input_paths": [],
+          "input_files": 4960,
+          "normalized_records": 213471,
+          "table_counts": {
+            "corpus_release": 1,
+            "coverage": 1872,
+            "coverage_accepted_gaps": 5,
+            "defined_terms": 5727,
+            "enactment_evidence": 99,
+            "evidence_artifacts": 1673,
+            "glossary_coverage": 468,
+            "input_files": 4960,
+            "instrument_reproducibility": 0,
+            "instruments": 468,
+            "known_structural_debt": 17,
+            "legal_operator_reviews": 16,
+            "outdated_reference_approvals": 17,
+            "provisions": 68328,
+            "reference_edges": 35949,
+            "reference_qualifiers": 12360,
+            "source_anchors": 68796,
+            "source_manifests": 498,
+            "standards_catalog": 32,
+            "term_usages": 102432
+          },
+          "fts_token_occurrences": 9996277,
+          "database_sha256": "16ec392e67baf6e1b0bdf94bb939d1e0ae2ebaf0549cba32b66e087e86ca654f",
+          "logical_content_sha256": "435078f9e530c4a8fca9954ad56ce1b7915db35b8ebda60fe476a735a8da9f2c"
+        }
+      },
+      "golden": {
+        "exit_code": 0,
+        "elapsed_seconds": 0.15,
+        "stderr": "",
+        "report": [
+          "G1 reg-lan parent law",
+          "G2 G4 approved outdated with independent notes",
+          "G3 unavailable history",
+          "G3 current target remains live",
+          "G5 LFTR missing citation",
+          "G5 repaired CPF is absent",
+          "G6 LGTOC separate article",
+          "G6 active LFD structural debt",
+          "G7 accent-insensitive complete hit set",
+          "G7 accent-insensitive reverse hit set",
+          "G7 baseline hit count",
+          "G8 exact Terdecies lookup",
+          "definition provenance",
+          "exact term usages",
+          "cross-instrument glossary usages",
+          "source provenance",
+          "analysis completeness remains explicit",
+          "standards excluded from provisions",
+          "G1 adapter parent authority",
+          "G1 source definition authority",
+          "G5 complete cited-but-missing inventory"
+        ]
+      },
+      "database_bytes": 485859328,
+      "manifest_without_input_descriptors": {
+        "schema_version": "2",
+        "release_id": "9c44409186e24c88b61c7e5050d6a629dcb4ec9c7fa0e05da05d9966cf5236f6",
+        "specification": {
+          "schema_version": "2",
+          "corpus_commit": "fedcbc5dbe1ae7d87a6dce0e0e521f56b28b9a58",
+          "builder_commit": "fedcbc5dbe1ae7d87a6dce0e0e521f56b28b9a58",
+          "cargo_lock_sha256": "1a29a8a76b1d7c01e71918c99f0b5bac089cffc81340ee758124d40cd343f5a5",
+          "rust_toolchain": "rustc 1.95.0 (59807616e 2026-04-14)",
+          "sqlite_version": "3.53.2",
+          "sqlite_compile_options": [
+            "ATOMIC_INTRINSICS=1",
+            "COMPILER=clang-21.0.0",
+            "DEFAULT_AUTOVACUUM",
+            "DEFAULT_CACHE_SIZE=-2000",
+            "DEFAULT_FILE_FORMAT=4",
+            "DEFAULT_FOREIGN_KEYS",
+            "DEFAULT_JOURNAL_SIZE_LIMIT=-1",
+            "DEFAULT_MMAP_SIZE=0",
+            "DEFAULT_PAGE_SIZE=4096",
+            "DEFAULT_PCACHE_INITSZ=20",
+            "DEFAULT_RECURSIVE_TRIGGERS",
+            "DEFAULT_SECTOR_SIZE=4096",
+            "DEFAULT_SYNCHRONOUS=2",
+            "DEFAULT_WAL_AUTOCHECKPOINT=1000",
+            "DEFAULT_WAL_SYNCHRONOUS=2",
+            "DEFAULT_WORKER_THREADS=0",
+            "DIRECT_OVERFLOW_READ",
+            "ENABLE_API_ARMOR",
+            "ENABLE_COLUMN_METADATA",
+            "ENABLE_DBSTAT_VTAB",
+            "ENABLE_FTS3",
+            "ENABLE_FTS3_PARENTHESIS",
+            "ENABLE_FTS5",
+            "ENABLE_LOAD_EXTENSION",
+            "ENABLE_MEMORY_MANAGEMENT",
+            "ENABLE_RTREE",
+            "ENABLE_STAT4",
+            "HAVE_ISNAN",
+            "MALLOC_SOFT_LIMIT=1024",
+            "MAX_ATTACHED=10",
+            "MAX_COLUMN=2000",
+            "MAX_COMPOUND_SELECT=500",
+            "MAX_DEFAULT_PAGE_SIZE=8192",
+            "MAX_EXPR_DEPTH=1000",
+            "MAX_FUNCTION_ARG=1000",
+            "MAX_LENGTH=1000000000",
+            "MAX_LIKE_PATTERN_LENGTH=50000",
+            "MAX_MMAP_SIZE=0x7fff0000",
+            "MAX_PAGE_COUNT=0xfffffffe",
+            "MAX_PAGE_SIZE=65536",
+            "MAX_SQL_LENGTH=1000000000",
+            "MAX_TRIGGER_DEPTH=1000",
+            "MAX_VARIABLE_NUMBER=32766",
+            "MAX_VDBE_OP=250000000",
+            "MAX_WORKER_THREADS=8",
+            "MUTEX_PTHREADS",
+            "SOUNDEX",
+            "SYSTEM_MALLOC",
+            "TEMP_STORE=1",
+            "THREADSAFE=1",
+            "USE_URI"
+          ],
+          "source_commit_timestamp": 1792527523,
+          "inclusion_policy": "federal_with_standards_catalogue",
+          "logical_digest_policy": "relational_content_v2"
+        },
+        "database_sha256": "16ec392e67baf6e1b0bdf94bb939d1e0ae2ebaf0549cba32b66e087e86ca654f",
+        "logical_content_sha256": "435078f9e530c4a8fca9954ad56ce1b7915db35b8ebda60fe476a735a8da9f2c"
+      },
+      "manifest_sha256": "30a82072796694212ae68b75cba519f3ee3783edec5ac7e7aeb802082a53cfa1",
+      "input_descriptors_sha256": "3630ee6547b19debf1ea0b66c09a59ac3d0a4df21c25b42b1cd5abf4ae5b6a96",
+      "input_descriptor_count": 4960
+    }
+  ],
+  "manifest_identity": true,
+  "byte_identity": true,
+  "logical_identity": true,
+  "golden_identity": true,
+  "status": "m4_independently_accepted",
+  "tests_passed": 399,
+  "required_validators": {
+    "lritf": {
+      "articles": 145,
+      "transitories": 11,
+      "references": 126,
+      "issues": 0
+    },
+    "ifpe-dcg-2021": {
+      "articles": 59,
+      "transitories": 4,
+      "references": 115,
+      "issues": 0
+    }
+  },
+  "measurements": {
+    "host": {
+      "system": "macOS-26.5.1-arm64-arm-64bit-Mach-O",
+      "machine": "arm64",
+      "python_sqlite": "3.53.4"
+    },
+    "measurements": "20 repeated warm read-only executions per query on each release; local observations, no SLA",
+    "runs": [
+      {
+        "database": "/Users/jr/Dev/lex-mex-db/derived/db/m4-validation-a/9c44409186e24c88b61c7e5050d6a629dcb4ec9c7fa0e05da05d9966cf5236f6/corpus.sqlite",
+        "queries": [
+          {
+            "name": "exact_id",
+            "sql": "SELECT id,label,text FROM provisions WHERE id=?",
+            "parameters": [
+              "urn:lex-mx:federal:statute:lritf:article:1"
+            ],
+            "row_count": 1,
+            "result_sha256": "347ff064834b6ae8decc18e2fbf57d1090b92f1f7ce5f0ae7d4c40e9add9f50e",
+            "median_ms": 0.0045,
+            "max_ms": 0.0093,
+            "plan": [
+              [
+                3,
+                0,
+                39,
+                "SEARCH provisions USING INDEX sqlite_autoindex_provisions_1 (id=?)"
+              ]
+            ]
+          },
+          {
+            "name": "number_type",
+            "sql": "SELECT id FROM provisions WHERE instrument_id=? AND provision_type=? AND number=? ORDER BY id",
+            "parameters": [
+              "urn:lex-mx:federal:statute:lac",
+              "article",
+              "78 Terdecies"
+            ],
+            "row_count": 1,
+            "result_sha256": "259ead2d99076ccb3d35ba13ea1680cd73cd66273396d2afa30b7677ba2b2c9e",
+            "median_ms": 0.0825,
+            "max_ms": 0.0892,
+            "plan": [
+              [
+                4,
+                0,
+                61,
+                "SEARCH provisions USING INDEX provisions_owner (instrument_id=?)"
+              ],
+              [
+                25,
+                0,
+                0,
+                "USE TEMP B-TREE FOR ORDER BY"
+              ]
+            ]
+          },
+          {
+            "name": "outgoing_live",
+            "sql": "SELECT id,target_provision_id FROM live_citations WHERE source_provision_id=? ORDER BY id",
+            "parameters": [
+              "urn:lex-mx:federal:statute:lrsic:article:2"
+            ],
+            "row_count": 4,
+            "result_sha256": "59ce7da9e7bb888a8c75c1055ac9640ddc60ba4b5359d496df6e45facf15cd9c",
+            "median_ms": 3.5742,
+            "max_ms": 3.7723,
+            "plan": [
+              [
+                4,
+                0,
+                61,
+                "SEARCH reference_edges USING INDEX reference_status (resolution_status=?)"
+              ],
+              [
+                16,
+                0,
+                0,
+                "USE TEMP B-TREE FOR ORDER BY"
+              ]
+            ]
+          },
+          {
+            "name": "reverse_live",
+            "sql": "SELECT id,source_provision_id FROM live_citations WHERE live_target=? ORDER BY id",
+            "parameters": [
+              "urn:lex-mx:federal:statute:lraf:article:12"
+            ],
+            "row_count": 3,
+            "result_sha256": "5dbf5ea5c6a78049519d3697b3fb49d81565cb92945c36571e7c6081313fbd65",
+            "median_ms": 4.2315,
+            "max_ms": 4.511,
+            "plan": [
+              [
+                4,
+                0,
+                61,
+                "SEARCH reference_edges USING INDEX reference_status (resolution_status=?)"
+              ],
+              [
+                22,
+                0,
+                0,
+                "USE TEMP B-TREE FOR ORDER BY"
+              ]
+            ]
+          },
+          {
+            "name": "term_usages",
+            "sql": "SELECT id,provision_id FROM term_usages WHERE term_id=? ORDER BY id",
+            "parameters": [
+              "urn:lex-mx:federal:statute:lritf:term:autoridad-financiera"
+            ],
+            "row_count": 88,
+            "result_sha256": "25ccdf464aef268d63292479eb0f4b6d4521725c8cd6b6a7ed28d3f4b0ff50ee",
+            "median_ms": 0.0352,
+            "max_ms": 0.0449,
+            "plan": [
+              [
+                4,
+                0,
+                61,
+                "SEARCH term_usages USING INDEX term_occurrences (term_id=?)"
+              ],
+              [
+                16,
+                0,
+                0,
+                "USE TEMP B-TREE FOR ORDER BY"
+              ]
+            ]
+          },
+          {
+            "name": "fts_ranked",
+            "sql": "SELECT p.id,bm25(provisions_fts,10,3,1) FROM provisions_fts JOIN provisions p ON p.row_id=provisions_fts.rowid WHERE provisions_fts MATCH ? ORDER BY bm25(provisions_fts,10,3,1),p.id LIMIT 20",
+            "parameters": [
+              "\"obligaci\u00f3n\""
+            ],
+            "row_count": 20,
+            "result_sha256": "d5a45dabdbb4e65ab4cc41a26c7da10d6b4c97ce4ba13ece799d0b13ce1f70df",
+            "median_ms": 2.1291,
+            "max_ms": 2.3765,
+            "plan": [
+              [
+                5,
+                0,
+                156,
+                "SCAN provisions_fts VIRTUAL TABLE INDEX 0:M3"
+              ],
+              [
+                10,
+                0,
+                45,
+                "SEARCH p USING INTEGER PRIMARY KEY (rowid=?)"
+              ],
+              [
+                24,
+                0,
+                0,
+                "USE TEMP B-TREE FOR ORDER BY"
+              ]
+            ]
+          },
+          {
+            "name": "coverage",
+            "sql": "SELECT stage,state,count(*) FROM coverage GROUP BY stage,state ORDER BY stage,state",
+            "parameters": [],
+            "row_count": 5,
+            "result_sha256": "fd2139f39f0d5bceb7cddc3d4f1e9bedb8b77b2bcc00f14b2841c19e3293b4c9",
+            "median_ms": 0.2473,
+            "max_ms": 0.2565,
+            "plan": [
+              [
+                7,
+                0,
+                216,
+                "SCAN coverage"
+              ],
+              [
+                9,
+                0,
+                0,
+                "USE TEMP B-TREE FOR GROUP BY"
+              ]
+            ]
+          },
+          {
+            "name": "cited_missing",
+            "sql": "SELECT source_slug,target_provision_id,multiplicity FROM cited_but_missing ORDER BY source_slug,target_provision_id",
+            "parameters": [],
+            "row_count": 6,
+            "result_sha256": "d62684c60170e3153223226863955ba98a0a8a5b451ff461be2e5d20d88247b0",
+            "median_ms": 0.0272,
+            "max_ms": 0.034,
+            "plan": [
+              [
+                2,
+                0,
+                0,
+                "CO-ROUTINE cited_but_missing"
+              ],
+              [
+                12,
+                2,
+                215,
+                "SCAN g USING INDEX sqlite_autoindex_coverage_accepted_gaps_1"
+              ],
+              [
+                15,
+                2,
+                46,
+                "SEARCH i USING INDEX sqlite_autoindex_instruments_2 (slug=?)"
+              ],
+              [
+                20,
+                2,
+                0,
+                "SCAN j VIRTUAL TABLE INDEX 3:"
+              ],
+              [
+                29,
+                2,
+                0,
+                "USE TEMP B-TREE FOR GROUP BY"
+              ],
+              [
+                93,
+                0,
+                82,
+                "SCAN cited_but_missing"
+              ],
+              [
+                102,
+                0,
+                0,
+                "USE TEMP B-TREE FOR ORDER BY"
+              ]
+            ]
+          }
+        ],
+        "census": {
+          "provision_types": [
+            [
+              "annex",
+              30
+            ],
+            [
+              "article",
+              64822
+            ],
+            [
+              "transitory",
+              3476
+            ]
+          ],
+          "anchor_kinds": [
+            [
+              "instrument_title",
+              468
+            ],
+            [
+              "provision",
+              68328
+            ]
+          ],
+          "title_anchored_edges": [
+            [
+              15
+            ]
+          ],
+          "handling": [
+            [
+              "evidence_only",
+              1545
+            ],
+            [
+              "excluded_standard_body",
+              128
+            ],
+            [
+              "normalized",
+              3287
+            ]
+          ],
+          "edge_status": [
+            [
+              "historical_superseded_reference_outdated",
+              17
+            ],
+            [
+              "historical_target_unavailable",
+              4
+            ],
+            [
+              "resolved",
+              35928
+            ]
+          ],
+          "scjn_inputs": [
+            [
+              "corpus/reference/scjn-invalidity-registry/DeclaracionesInvalidez.pdf",
+              "evidence_only"
+            ],
+            [
+              "corpus/reference/scjn-invalidity-registry/DeclaracionesInvalidez_lex-mex.md",
+              "evidence_only"
+            ],
+            [
+              "corpus/reference/scjn-invalidity-registry/source-manifest.json",
+              "evidence_only"
+            ]
+          ],
+          "integrity": [
+            [
+              "ok"
+            ]
+          ],
+          "foreign_keys": []
+        },
+        "original_checksum_unchanged": true
+      },
+      {
+        "database": "/Users/jr/Dev/lex-mex-db/derived/db/m4-validation-b/9c44409186e24c88b61c7e5050d6a629dcb4ec9c7fa0e05da05d9966cf5236f6/corpus.sqlite",
+        "queries": [
+          {
+            "name": "exact_id",
+            "sql": "SELECT id,label,text FROM provisions WHERE id=?",
+            "parameters": [
+              "urn:lex-mx:federal:statute:lritf:article:1"
+            ],
+            "row_count": 1,
+            "result_sha256": "347ff064834b6ae8decc18e2fbf57d1090b92f1f7ce5f0ae7d4c40e9add9f50e",
+            "median_ms": 0.0045,
+            "max_ms": 0.0075,
+            "plan": [
+              [
+                3,
+                0,
+                39,
+                "SEARCH provisions USING INDEX sqlite_autoindex_provisions_1 (id=?)"
+              ]
+            ]
+          },
+          {
+            "name": "number_type",
+            "sql": "SELECT id FROM provisions WHERE instrument_id=? AND provision_type=? AND number=? ORDER BY id",
+            "parameters": [
+              "urn:lex-mx:federal:statute:lac",
+              "article",
+              "78 Terdecies"
+            ],
+            "row_count": 1,
+            "result_sha256": "259ead2d99076ccb3d35ba13ea1680cd73cd66273396d2afa30b7677ba2b2c9e",
+            "median_ms": 0.082,
+            "max_ms": 0.0906,
+            "plan": [
+              [
+                4,
+                0,
+                61,
+                "SEARCH provisions USING INDEX provisions_owner (instrument_id=?)"
+              ],
+              [
+                25,
+                0,
+                0,
+                "USE TEMP B-TREE FOR ORDER BY"
+              ]
+            ]
+          },
+          {
+            "name": "outgoing_live",
+            "sql": "SELECT id,target_provision_id FROM live_citations WHERE source_provision_id=? ORDER BY id",
+            "parameters": [
+              "urn:lex-mx:federal:statute:lrsic:article:2"
+            ],
+            "row_count": 4,
+            "result_sha256": "59ce7da9e7bb888a8c75c1055ac9640ddc60ba4b5359d496df6e45facf15cd9c",
+            "median_ms": 3.5456,
+            "max_ms": 3.7543,
+            "plan": [
+              [
+                4,
+                0,
+                61,
+                "SEARCH reference_edges USING INDEX reference_status (resolution_status=?)"
+              ],
+              [
+                16,
+                0,
+                0,
+                "USE TEMP B-TREE FOR ORDER BY"
+              ]
+            ]
+          },
+          {
+            "name": "reverse_live",
+            "sql": "SELECT id,source_provision_id FROM live_citations WHERE live_target=? ORDER BY id",
+            "parameters": [
+              "urn:lex-mx:federal:statute:lraf:article:12"
+            ],
+            "row_count": 3,
+            "result_sha256": "5dbf5ea5c6a78049519d3697b3fb49d81565cb92945c36571e7c6081313fbd65",
+            "median_ms": 4.2794,
+            "max_ms": 5.1607,
+            "plan": [
+              [
+                4,
+                0,
+                61,
+                "SEARCH reference_edges USING INDEX reference_status (resolution_status=?)"
+              ],
+              [
+                22,
+                0,
+                0,
+                "USE TEMP B-TREE FOR ORDER BY"
+              ]
+            ]
+          },
+          {
+            "name": "term_usages",
+            "sql": "SELECT id,provision_id FROM term_usages WHERE term_id=? ORDER BY id",
+            "parameters": [
+              "urn:lex-mx:federal:statute:lritf:term:autoridad-financiera"
+            ],
+            "row_count": 88,
+            "result_sha256": "25ccdf464aef268d63292479eb0f4b6d4521725c8cd6b6a7ed28d3f4b0ff50ee",
+            "median_ms": 0.0352,
+            "max_ms": 0.0395,
+            "plan": [
+              [
+                4,
+                0,
+                61,
+                "SEARCH term_usages USING INDEX term_occurrences (term_id=?)"
+              ],
+              [
+                16,
+                0,
+                0,
+                "USE TEMP B-TREE FOR ORDER BY"
+              ]
+            ]
+          },
+          {
+            "name": "fts_ranked",
+            "sql": "SELECT p.id,bm25(provisions_fts,10,3,1) FROM provisions_fts JOIN provisions p ON p.row_id=provisions_fts.rowid WHERE provisions_fts MATCH ? ORDER BY bm25(provisions_fts,10,3,1),p.id LIMIT 20",
+            "parameters": [
+              "\"obligaci\u00f3n\""
+            ],
+            "row_count": 20,
+            "result_sha256": "d5a45dabdbb4e65ab4cc41a26c7da10d6b4c97ce4ba13ece799d0b13ce1f70df",
+            "median_ms": 2.057,
+            "max_ms": 2.4314,
+            "plan": [
+              [
+                5,
+                0,
+                156,
+                "SCAN provisions_fts VIRTUAL TABLE INDEX 0:M3"
+              ],
+              [
+                10,
+                0,
+                45,
+                "SEARCH p USING INTEGER PRIMARY KEY (rowid=?)"
+              ],
+              [
+                24,
+                0,
+                0,
+                "USE TEMP B-TREE FOR ORDER BY"
+              ]
+            ]
+          },
+          {
+            "name": "coverage",
+            "sql": "SELECT stage,state,count(*) FROM coverage GROUP BY stage,state ORDER BY stage,state",
+            "parameters": [],
+            "row_count": 5,
+            "result_sha256": "fd2139f39f0d5bceb7cddc3d4f1e9bedb8b77b2bcc00f14b2841c19e3293b4c9",
+            "median_ms": 0.2492,
+            "max_ms": 0.2547,
+            "plan": [
+              [
+                7,
+                0,
+                216,
+                "SCAN coverage"
+              ],
+              [
+                9,
+                0,
+                0,
+                "USE TEMP B-TREE FOR GROUP BY"
+              ]
+            ]
+          },
+          {
+            "name": "cited_missing",
+            "sql": "SELECT source_slug,target_provision_id,multiplicity FROM cited_but_missing ORDER BY source_slug,target_provision_id",
+            "parameters": [],
+            "row_count": 6,
+            "result_sha256": "d62684c60170e3153223226863955ba98a0a8a5b451ff461be2e5d20d88247b0",
+            "median_ms": 0.0269,
+            "max_ms": 0.0315,
+            "plan": [
+              [
+                2,
+                0,
+                0,
+                "CO-ROUTINE cited_but_missing"
+              ],
+              [
+                12,
+                2,
+                215,
+                "SCAN g USING INDEX sqlite_autoindex_coverage_accepted_gaps_1"
+              ],
+              [
+                15,
+                2,
+                46,
+                "SEARCH i USING INDEX sqlite_autoindex_instruments_2 (slug=?)"
+              ],
+              [
+                20,
+                2,
+                0,
+                "SCAN j VIRTUAL TABLE INDEX 3:"
+              ],
+              [
+                29,
+                2,
+                0,
+                "USE TEMP B-TREE FOR GROUP BY"
+              ],
+              [
+                93,
+                0,
+                82,
+                "SCAN cited_but_missing"
+              ],
+              [
+                102,
+                0,
+                0,
+                "USE TEMP B-TREE FOR ORDER BY"
+              ]
+            ]
+          }
+        ],
+        "census": {
+          "provision_types": [
+            [
+              "annex",
+              30
+            ],
+            [
+              "article",
+              64822
+            ],
+            [
+              "transitory",
+              3476
+            ]
+          ],
+          "anchor_kinds": [
+            [
+              "instrument_title",
+              468
+            ],
+            [
+              "provision",
+              68328
+            ]
+          ],
+          "title_anchored_edges": [
+            [
+              15
+            ]
+          ],
+          "handling": [
+            [
+              "evidence_only",
+              1545
+            ],
+            [
+              "excluded_standard_body",
+              128
+            ],
+            [
+              "normalized",
+              3287
+            ]
+          ],
+          "edge_status": [
+            [
+              "historical_superseded_reference_outdated",
+              17
+            ],
+            [
+              "historical_target_unavailable",
+              4
+            ],
+            [
+              "resolved",
+              35928
+            ]
+          ],
+          "scjn_inputs": [
+            [
+              "corpus/reference/scjn-invalidity-registry/DeclaracionesInvalidez.pdf",
+              "evidence_only"
+            ],
+            [
+              "corpus/reference/scjn-invalidity-registry/DeclaracionesInvalidez_lex-mex.md",
+              "evidence_only"
+            ],
+            [
+              "corpus/reference/scjn-invalidity-registry/source-manifest.json",
+              "evidence_only"
+            ]
+          ],
+          "integrity": [
+            [
+              "ok"
+            ]
+          ],
+          "foreign_keys": []
+        },
+        "original_checksum_unchanged": true
+      }
+    ],
+    "query_identity": true,
+    "census_identity": true
+  },
+  "commit_status": "M3 committed; M4 reports uncommitted; no push",
+  "canonical_diff_paths": 0,
+  "seed_ancestor": "6505baf57c7aa7051cffe62742f46f10276a834a",
+  "independent_review": {
+    "packet": "2026-10-20-lex-mex-m4-review.md",
+    "reviewer": "Claude Opus 5.5",
+    "m3_repairs": "accepted",
+    "m4": "accepted",
+    "third_build": "reviewer reports separately compiled release binary in fresh scratch clone reproduces database and manifest bytes; verifier empty stale list;21goldens pass",
+    "scope": "same host/toolchain; not rerun by Codex this turn"
+  }
+}
