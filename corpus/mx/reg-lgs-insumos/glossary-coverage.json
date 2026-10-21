@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-5",
+  "strategy_version": "glossary-extraction-6",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos",
   "source_sha256": "e56e8f67f42d7c34c2ed95938cb5f27011f44ab6cf97b653c7dc846e29512fd6",
   "extracted_text_sha256": "07ed51145ee4233431fe3560419ba45450bc6a695b4aa4698473591663bc05cb",

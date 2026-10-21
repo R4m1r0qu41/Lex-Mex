@@ -21,9 +21,9 @@ Para los efectos de esta Ley se entiende por: I. Bebidas con contenido alcohóli
 
 a) Bebidas alcohólicas, las que a la temperatura de 15° centígrados tengan una graduación alcohólica de más de 3°G.L., hasta 55°G.L., incluyendo el aguardiente y a los concentrados de bebidas alcohólicas aun cuando tengan una graduación alcohólica mayor.
 
-b) Bebidas refrescantes, las elaboradas con un mínimo de 50% a base de vino de mesa, producto de la fermentación natural de frutas, pudiéndose adicionar agua, bióxido de carbono o agua carbonatada, jugo de frutas, extracto de frutas, aceites esenciales, ácido cítrico, [azúcar](articulo-3o.md), ácido benzoico o ácido sórbico o sus sales como conservadores, así como aquéllas que se elaboran de destilados alcohólicos diversos de los antes señalados.
+b) Bebidas refrescantes, las elaboradas con un mínimo de 50% a base de vino de mesa, producto de la fermentación natural de frutas, pudiéndose adicionar agua, bióxido de carbono o agua carbonatada, jugo de frutas, extracto de frutas, aceites esenciales, ácido cítrico, azúcar, ácido benzoico o ácido sórbico o sus sales como conservadores, así como aquéllas que se elaboran de destilados alcohólicos diversos de los antes señalados.
 
-II. Cerveza, la bebida fermentada, elaborada con malta de cebada, lúpulo, levadura y agua o con infusiones de cualquier semilla farinácea procedente de gramíneas o leguminosas, raíces o frutos feculentos o azúcares como adjuntos de la malta, con adición de lúpulo o sucedáneos de éste.
+II. Cerveza, la bebida fermentada, elaborada con malta de cebada, lúpulo, levadura y agua o con infusiones de cualquier semilla farinácea procedente de gramíneas o leguminosas, raíces o frutos feculentos o [azúcares](articulo-3o.md) como adjuntos de la malta, con adición de lúpulo o sucedáneos de éste.
 
 III. Bebidas alcohólicas a granel, las que se encuentren envasadas en recipientes cuya capacidad exceda a 5,000 mililitros.
 

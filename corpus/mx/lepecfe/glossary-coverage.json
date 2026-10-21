@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-5",
+  "strategy_version": "glossary-extraction-6",
   "instrument_id": "urn:lex-mx:federal:statute:lepecfe",
   "source_sha256": "6e45ab84a076cbd9cfd5fbd8abbe5f2d88fbd767229f21f5e7327aaf692b22a5",
   "extracted_text_sha256": "ec4c780cbf94d5e0f045e7beecbe8daecb2844c69d2b1938531c44854a36f3de",

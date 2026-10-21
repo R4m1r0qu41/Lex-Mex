@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-5",
+  "strategy_version": "glossary-extraction-6",
   "instrument_id": "urn:lex-mx:federal:statute:lisipl",
   "source_sha256": "432feb3abb31b584418b275a1e4d42015eb7a4f4a440d09d938a7d74a9c13113",
   "extracted_text_sha256": "503bbf0cd691aa2b02eedce5dfa7d6326ddfe63bd20c15fa8492bf2860ca702a",

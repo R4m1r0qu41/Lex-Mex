@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-5",
+  "strategy_version": "glossary-extraction-6",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-ltf",
   "source_sha256": "0be5ea342f5f369fb2b1cb6bad156b1229c335fd98f1ce0ad0bd229769023ce0",
   "extracted_text_sha256": "ff722eddbe635908f767e8607a5dcdd86cdd4b07405257707b8ab2276017e18e",

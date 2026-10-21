@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-5",
+  "strategy_version": "glossary-extraction-6",
   "instrument_id": "urn:lex-mx:federal:statute:lfiv",
   "source_sha256": "db115e165edc517f5ad816da7be01e11727838a59b9e68906fe686685f4c5087",
   "extracted_text_sha256": "7be302aed1713cda19898e3c0fe24c2711c604ffb514f98fd3b24d7dc501d9db",

@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-5",
+  "strategy_version": "glossary-extraction-6",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-lfjs",
   "source_sha256": "694325ff5d428da51b8f87c5939c58b1e2e8590bd86f13ade6cd284c932cdfc3",
   "extracted_text_sha256": "6754aa6c34ec298200d10701890e606f883d6fa563632ddc6c089f06a285ad81",

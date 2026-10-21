@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-5",
+  "strategy_version": "glossary-extraction-6",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp",
   "source_sha256": "4e276866fce1638948a6daf1a5c0438fa412554f1a6e0381cbdf7cb300e3db75",
   "extracted_text_sha256": "5989240c757e798beab4605e9f3d6595e9549425e566aa025ca4234bfd8c8697",

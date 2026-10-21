@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-5",
+  "strategy_version": "glossary-extraction-6",
   "instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
   "source_sha256": "a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a",
   "extracted_text_sha256": "510415fb1966892b98de9e4cbe9434fae39da03ecbf1df990e4622d2df366dcc",

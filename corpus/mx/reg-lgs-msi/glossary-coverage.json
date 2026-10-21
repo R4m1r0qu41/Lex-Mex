@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-5",
+  "strategy_version": "glossary-extraction-6",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-msi",
   "source_sha256": "44746db892329cfe37f9f1642d6e385f18c3ecade102b2742aa5c7bf67168dc7",
   "extracted_text_sha256": "ca2fe60561e36b6664fb802f5404b3a3907c855325298659c44db85cd3bf7da5",

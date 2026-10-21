@@ -1,5 +1,30 @@
 # Architecture decisions
 
+## 2026-10-20 — Operator rulings A1–A6: lgcs's terms stand, "la presente Ley", LIEPS I b), lan's quoted senses (`glossary-extraction-6`); the LGEEPA imports wait
+
+**Operator (2026-10-20),** answering `docs/operator-decisions-2026-10-20.md`. The operator's words are quoted there.
+
+- **A1 (lgcs).** "Yes the 7 remaing still stand." lgcs keeps its 7 terms. This does not rule on the restored pre-2022 definitions, which the source does not print; they stay absent.
+- **A2 ("la presente Ley").** "keep dorped". The 13 usages of `Ley` inside the instrument's own full title (lmigra 9, lgscmm 4) stay dropped. No self-reference binding is added.
+- **A3 (LIEPS 3 I b)).** "exclude". A 12th reviewed usage exclusion pins `azúcar` at character 690, which is in the ingredient list of bebidas refrescantes and is not the defined `Azúcares`. LIEPS usages go 316 → 315.
+- **A4 (lan XL b.).** ""Permisos de Descarga" in full should link to it same rulling as LIEPS VIII".
+  - **Rule (`lex-parse` `quoted_sense_incisos`, established pass).** A fraction can give its senses as lettered incisos, from `a` in order, at least two, each opening with a quoted name and a colon. Such a fraction also defines each inciso name that differs from the fraction's own term, with its inciso locator. An inciso that repeats the parent's name adds nothing: lan XL a. is `Permisos` again. Incisos that do not each open with a quoted name are a list inside the definition, not senses.
+  - **Strategy:** `glossary-extraction-6`. The 6 profile adapters and the coverage schema move with it.
+  - **Test:** `a_fraction_whose_incisos_quote_its_senses_defines_each_new_name`.
+  - **lan XL:** `Permisos de Descarga` (XL b.). "Permiso de Descarga" in Articles 92, 93 and 93 Bis now links to it whole (singular variant). It replaces the split `Permisos` + `Descarga` usages there (6 removed, 3 added). The name in XL b. itself is its definition site.
+  - **lan XVI, same rule, not separately ruled.** After "Cuenca Hidrológica", XVI says "Para los fines de esta Ley, se considera como: a. “Región hidrológica”: … b. "Región Hidrológico - Administrativa": …", and both names are now terms. No usage changes: lan never prints either name as defined. **For operator confirmation.**
+  - **Census** (`link --all` with the rule, before the version bump): only lan's terms change. lan goes 79 → 82 terms and 215 → 211 usages.
+- **A5 (reg-lgeepa-maaa)** "Link to the new Ley de Infraestructura de la calidad, in terms of Transitorio NOVENO". **A6 (reg-lgeepa-mretc)** "link to LGEEPA only".
+  - **Basis for A5:** `urn:lex-mx:federal:statute:lic-calidad:transitory:noveno`. References to the LFMN "por lo que hace a cuestiones sobre normalización, evaluación de la conformidad y metrología, se entenderán a los referidos en la Ley de Infraestructura de la Calidad".
+  - **Configured and probed, not committed.** maaa imported LGEEPA Article 3 plus `lic-calidad` Article 4; mretc imported LGEEPA Article 3. The only word defined in both LGEEPA and the LIC is `Secretaría`. maaa defines its own, which takes priority, so no precedence question arises.
+  - **The imports add only false matches:**
+    - **maaa** +19: 12 are `Ambiente` or `Protección` inside "Secretaría de Medio Ambiente y Recursos Naturales", "Procuraduría Federal de Protección al Ambiente", the ASEA name, or LGEEPA's title as printed ("las Leyes General del Equilibrio Ecológico y la Protección al Ambiente"). The other 7 are the LIC's `Verificación`, defined as authorities checking compliance with NOMs, used for checking an environmental-audit action plan.
+    - **mretc** +16: 13 `Ambiente` or `Protección` inside the same names; 2 `Contaminante` in "Registro de Emisiones y Transferencia de Contaminantes"; 1 `Residuo` inside an old regulation's title.
+  - **Wider than the imports.** Usages inside those agency names already exist elsewhere: 61, in lgeepa 49, ldrs 7 and lbogm 5.
+  - **Held for the operator.** The configuration is held until the operator chooses how to treat names of authorities. The probe is in the session scratchpad as `a5a6-import-probe.patch`.
+
+**Measured:** see the commit; `link --all` and validation run on the committed code.
+
 ## 2026-10-20 — Codex batch review: batch completion closes the corpus; title containment repaired
 
 **Source:** Codex's review of `parser/pending-batch` at `cf8eed626` (`docs/parser-batch-review-2026-10-20.md` in the DB worktree, drafted). The operator chose to fix both findings before the batch merges (B3, `docs/operator-decisions-2026-10-20.md`).

@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-5",
+  "strategy_version": "glossary-extraction-6",
   "instrument_id": "urn:lex-mx:federal:statute:lgdocia",
   "source_sha256": "8403427f940274c9affce29b07d7522d3eb88e794dfdc0f703326b4907a14480",
   "extracted_text_sha256": "2ddc7cd9e41cf452bfc8fde45da77f8d8cbd33e3c66257b19cc780507cba7732",

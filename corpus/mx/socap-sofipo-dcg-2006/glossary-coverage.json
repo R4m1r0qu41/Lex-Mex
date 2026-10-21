@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-5",
+  "strategy_version": "glossary-extraction-6",
   "instrument_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006",
   "source_sha256": "0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640",
   "extracted_text_sha256": "368dc82e68667c4bc40956febb90c8eb17a5a96537485179c03b13b6b0c1c036",

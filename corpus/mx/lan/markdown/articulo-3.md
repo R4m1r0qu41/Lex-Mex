@@ -109,7 +109,7 @@ XL. “Permisos”: Para los fines de la presente Ley, existen dos acepciones de
 
 a. “Permisos”: Son los que otorga el Ejecutivo Federal a través de “la Comisión” o del Organismo de Cuenca que corresponda, conforme a sus respectivas competencias, para la construcción de obras hidráulicas y otros de índole diversa relacionadas con el agua y los bienes nacionales a los que se refiere el Artículo [113](articulo-113.md) de la presente Ley; Inciso reformado DOF 08-06-2012
 
-b. "Permisos de [Descarga](articulo-3.md)": Título que otorga el Ejecutivo Federal a través de "la Comisión" o del Organismo de Cuenca que corresponda, conforme a sus respectivas competencias, para la descarga de aguas residuales a cuerpos receptores de propiedad nacional, a las personas físicas o morales de carácter público y privado;
+b. "Permisos de Descarga": Título que otorga el Ejecutivo Federal a través de "la Comisión" o del Organismo de Cuenca que corresponda, conforme a sus respectivas competencias, para la descarga de aguas residuales a cuerpos receptores de propiedad nacional, a las personas físicas o morales de carácter público y privado;
 
 XLI. "Persona física o moral": Los individuos, los ejidos, las comunidades, las asociaciones, las sociedades y las demás instituciones a las que la ley reconozca personalidad jurídica, con las modalidades y limitaciones que establezca la misma;
 

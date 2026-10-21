@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-5",
+  "strategy_version": "glossary-extraction-6",
   "instrument_id": "urn:lex-mx:federal:statute:lrart76-fracvi",
   "source_sha256": "bb06062d0e0454e928090853dd4071bfd19b713abe553033285147a67c323531",
   "extracted_text_sha256": "7879ed40021c49ac411e0d50cf89620090373d5425945b4f7fa9fd4e377fcc15",

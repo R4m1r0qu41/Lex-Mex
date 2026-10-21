@@ -360,6 +360,7 @@ fn established_glossary_terms(provision: &Provision) -> Result<Vec<DefinedTerm>>
 /// An established-pass glossary: its terms, and the fractions it found but
 /// could not read a term from. Those are recorded rather than dropped, so a
 /// partial glossary is never reported as a complete one.
+#[derive(Default)]
 struct EstablishedGlossary {
     terms: Vec<DefinedTerm>,
     unread_fractions: Vec<String>,
@@ -367,11 +368,7 @@ struct EstablishedGlossary {
 }
 
 fn established_glossary(provision: &Provision) -> Result<EstablishedGlossary> {
-    let none = || EstablishedGlossary {
-        terms: Vec::new(),
-        unread_fractions: Vec::new(),
-        invalidated_fractions: Vec::new(),
-    };
+    let none = EstablishedGlossary::default;
     let head: String = provision.text.chars().take(400).collect();
     let Some(intro_match) = ESTABLISHED_INTRO.find(&head) else {
         return Ok(none());
@@ -466,13 +463,16 @@ fn established_glossary(provision: &Provision) -> Result<EstablishedGlossary> {
             unread_fractions.push(normalize_fraction_label(numeral));
             continue;
         };
+        let label = normalize_fraction_label(numeral);
         entries.push(GlossaryEntry {
             term: term.to_owned(),
-            fraction: Some(normalize_fraction_label(numeral)),
+            fraction: Some(label.clone()),
             inciso: None,
             start_char: text[..*numeral_start].chars().count(),
             end_char: text[..entry_end].chars().count(),
         });
+        let senses = quoted_sense_incisos(entry_body, term);
+        entries.extend(inciso_entries(text, after_numeral, &label, senses));
     }
     if entries.is_empty() {
         return Ok(none());
@@ -553,6 +553,63 @@ fn lettered_incisos(
         incisos.push((expected.to_string(), term.to_owned(), start, end));
     }
     Some(Some(incisos))
+}
+
+/// A fraction whose definition gives its senses as lettered incisos, each
+/// printing its own quoted name, also defines each inciso name that differs
+/// from the fraction's term (lan XL: `"Permisos": … existen dos acepciones de
+/// permisos: a. "Permisos": … b. "Permisos de Descarga": …`; operator
+/// 2026-10-20, as LIEPS VIII's parent and incisos). Items are `(letter,
+/// name, start, end)` as in [`lettered_incisos`]. Empty unless every inciso,
+/// lettered from `a` in order and at least two, opens with a quoted name and
+/// a colon.
+fn quoted_sense_incisos(body: &str, parent: &str) -> Vec<(String, String, usize, usize)> {
+    static MARKER: LazyLock<Regex> = LazyLock::new(|| {
+        Regex::new(r"\n\n([a-z])([.)])[ \t]").expect("sense inciso regex must compile")
+    });
+    static QUOTED: LazyLock<Regex> = LazyLock::new(|| {
+        Regex::new(r#"\A\s*[“"]([^”"\n]+)[”"]\s*:"#).expect("quoted sense regex must compile")
+    });
+    let unquoted = |name: &str| {
+        name.trim()
+            .trim_matches(['“', '”', '"'])
+            .trim()
+            .to_lowercase()
+    };
+    let markers: Vec<_> = MARKER.captures_iter(body).collect();
+    let Some(first) = markers.first() else {
+        return Vec::new();
+    };
+    let form = first[2].to_owned();
+    if markers.len() < 2 || markers.iter().any(|captures| captures[2] != form) {
+        return Vec::new();
+    }
+    let mut senses = Vec::with_capacity(markers.len());
+    for (index, (captures, expected)) in markers.iter().zip('a'..='z').enumerate() {
+        let (Some(letter), Some(whole)) = (captures.get(1), captures.get(0)) else {
+            return Vec::new();
+        };
+        if !letter.as_str().starts_with(expected) {
+            return Vec::new();
+        }
+        let end = markers
+            .get(index + 1)
+            .and_then(|next| next.get(1))
+            .map_or(body.len(), |next| next.start());
+        let inciso = &body[whole.end()..end];
+        let Some(name) = QUOTED
+            .captures(inciso)
+            .and_then(|quoted| quoted.get(0))
+            .map(|quoted| inciso[..quoted.end() - 1].trim())
+            .filter(|name| name.chars().count() <= COLON_TERM_MAX_CHARS)
+        else {
+            return Vec::new();
+        };
+        if unquoted(name) != unquoted(parent) {
+            senses.push((expected.to_string(), name.to_owned(), letter.start(), end));
+        }
+    }
+    senses
 }
 
 /// An entry's term read by its own delimiter, and that delimiter: the text
@@ -3699,6 +3756,51 @@ mod tests {
         ] {
             assert_eq!(super::slug(name), expected, "{name}");
         }
+    }
+
+    #[test]
+    fn a_fraction_whose_incisos_quote_its_senses_defines_each_new_name() {
+        // lan XL: the parent term, then two senses; `a.` repeats the parent's
+        // name and `b.` defines "Permisos de Descarga" (operator 2026-10-20).
+        let text = "Para los efectos de esta Ley se entenderá por:\n\n\
+             XXXIX. \"Organismo\": La unidad;\n\n\
+             XL. “Permisos”: Existen dos acepciones de permisos:\n\n\
+             a. “Permisos”: Son los que otorga el Ejecutivo Federal;\n\n\
+             b. \"Permisos de Descarga\": Título para la descarga de aguas residuales;\n\n\
+             XLI. \"Persona\": Los individuos.";
+        let detection = wider(text);
+        assert_eq!(
+            terms_and_fractions(&detection.terms),
+            owned(&[
+                ("Organismo", "XXXIX"),
+                ("Permisos", "XL"),
+                ("Permisos de Descarga", "XL"),
+                ("Persona", "XLI"),
+            ])
+        );
+        let descarga = detection
+            .terms
+            .iter()
+            .find(|term| term.term == "Permisos de Descarga")
+            .unwrap();
+        assert_eq!(descarga.inciso.as_deref(), Some("b"));
+        let span: String = text
+            .chars()
+            .skip(descarga.start_char)
+            .take(descarga.end_char - descarga.start_char)
+            .collect();
+        assert_eq!(
+            span,
+            "b. \"Permisos de Descarga\": Título para la descarga de aguas residuales;\n\n"
+        );
+        // Incisos that do not each open with a quoted name are a list inside
+        // the definition, not senses.
+        let listed = text.replace("b. \"Permisos de Descarga\":", "b. Permisos de Descarga:");
+        assert!(
+            !terms_and_fractions(&wider(&listed).terms)
+                .iter()
+                .any(|(term, _)| term == "Permisos de Descarga")
+        );
     }
 
     #[test]

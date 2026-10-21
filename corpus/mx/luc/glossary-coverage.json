@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-5",
+  "strategy_version": "glossary-extraction-6",
   "instrument_id": "urn:lex-mx:federal:statute:luc",
   "source_sha256": "3db723c0e32c0f31b97d4ff15387fc7e76e29fe6b48ce84da2624a536144f938",
   "extracted_text_sha256": "f122825552b597ad58eec3f133ccf4abe4ac21fd530133c01efb2f8dac18fe58",

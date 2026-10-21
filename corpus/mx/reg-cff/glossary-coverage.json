@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-5",
+  "strategy_version": "glossary-extraction-6",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-cff",
   "source_sha256": "649a06c9d35578dcf2626ce7961b8eca08e62c7fe97424ab97fce2c92cde4248",
   "extracted_text_sha256": "cb344048922fe10e4e426e034c224820e6fbeccedf57dc6c9c124aea152fca9b",

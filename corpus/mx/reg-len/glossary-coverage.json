@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-5",
+  "strategy_version": "glossary-extraction-6",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-len",
   "source_sha256": "01a9b609397e354014b0511a81438ad96ddba6e85157f82ff4d778e5979ca795",
   "extracted_text_sha256": "0075590cae444570fcadbbbd5a3f60b8cc6d75920009fcf01929c1488037ea58",

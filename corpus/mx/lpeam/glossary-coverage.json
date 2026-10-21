@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-5",
+  "strategy_version": "glossary-extraction-6",
   "instrument_id": "urn:lex-mx:federal:statute:lpeam",
   "source_sha256": "91c9521ab87e22ff0a199a3a017e0d22449cdf59dfc788f6e550a1833717f2df",
   "extracted_text_sha256": "4c67b955d4b361d526e05ec1908646cff0dd673417e6a89251413100a442c176",

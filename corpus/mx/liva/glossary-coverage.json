@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-5",
+  "strategy_version": "glossary-extraction-6",
   "instrument_id": "urn:lex-mx:federal:statute:liva",
   "source_sha256": "f2b5b1770441a6a4e48f3ade408f9ff7a3e9c81bd5d529e52484f49e4a8e91a6",
   "extracted_text_sha256": "054fddf27d62ca2550d093437a08b7cfc70e1c7f0e2430b7bd45cf4ed8dad747",

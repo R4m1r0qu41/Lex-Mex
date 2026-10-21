@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-5",
+  "strategy_version": "glossary-extraction-6",
   "instrument_id": "urn:lex-mx:federal:statute:lobnce",
   "source_sha256": "8ab677987a58aad0d0ed9b1e299b375fd382aeec47b9536547ec7debb2d24a2c",
   "extracted_text_sha256": "cb54ae9ffb078371ad9a637077dc7a57cf3b95e429074aa12c8bd959dce2c97d",

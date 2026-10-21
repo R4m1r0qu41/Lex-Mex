@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-5",
+  "strategy_version": "glossary-extraction-6",
   "instrument_id": "urn:lex-mx:federal:statute:lec",
   "source_sha256": "71dca147c2bed643f28921065bc240abcd15879a1504a55a9c153d6b202bbc5f",
   "extracted_text_sha256": "d71ecabf8eab3bb9a4e56d563a0b98bbdd5f370ab2f569c0b06d35142868f5e8",

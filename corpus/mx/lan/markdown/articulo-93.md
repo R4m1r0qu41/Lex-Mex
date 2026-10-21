@@ -27,6 +27,6 @@ III. La revocación de la concesión o asignación de aguas nacionales, cuando c
 
 Cuando proceda la revocación, "la Autoridad del Agua" previa audiencia con la persona interesada, dictará y notificará la resolución respectiva, la cual deberá estar debidamente fundada y motivada. Párrafo reformado DOF 11-12-2025
 
-El [Permiso](articulo-3.md) de [Descarga](articulo-3.md) caducará cuando caduque el título de concesión o asignación que origina la descarga.
+El [Permiso de Descarga](articulo-3.md) caducará cuando caduque el título de concesión o asignación que origina la descarga.
 
 Artículo reformado DOF 29-04-2004

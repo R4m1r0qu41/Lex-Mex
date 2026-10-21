@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-5",
+  "strategy_version": "glossary-extraction-6",
   "instrument_id": "urn:lex-mx:federal:statute:lrpcap",
   "source_sha256": "cf241af670623476911e625178a081e9e05921b4b6cc73ae92b41a47da45487a",
   "extracted_text_sha256": "42e0447e862fa679eb76d08d1e04dd101a1e3b523e0bb554138cc1ccddfe7ed1",

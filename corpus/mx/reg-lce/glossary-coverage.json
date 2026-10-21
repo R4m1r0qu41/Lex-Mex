@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-5",
+  "strategy_version": "glossary-extraction-6",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-lce",
   "source_sha256": "14d38a7a24e4d8e5093951b5e80a87f331fa3ea0be2164269573a8b9e4c291dd",
   "extracted_text_sha256": "0bf38d7880fde0c96c88bc5d55c06cefd45b66792ff0c4310c264f5030afe3da",

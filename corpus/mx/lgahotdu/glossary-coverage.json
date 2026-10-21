@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-5",
+  "strategy_version": "glossary-extraction-6",
   "instrument_id": "urn:lex-mx:federal:statute:lgahotdu",
   "source_sha256": "dd294df803cf4a31421f3533f6fd4be308305d6e6f43a89a07e6a30d72d0ddd5",
   "extracted_text_sha256": "2ed89b5f421b4609a864753b89f857830c7c9dae5e9f3cde0313eccf73528064",

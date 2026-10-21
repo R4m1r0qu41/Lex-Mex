@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-5",
+  "strategy_version": "glossary-extraction-6",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-csps",
   "source_sha256": "70464807d63da08244e495f2ff0ac30b12b30119926b84cedc7930397fcb80ef",
   "extracted_text_sha256": "48ccced9d78d2478cdf0b7cf419a8bc77e9db325d8378ec2980194fadec72a33",

@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-5",
+  "strategy_version": "glossary-extraction-6",
   "instrument_id": "urn:lex-mx:federal:statute:lsnieg",
   "source_sha256": "bf18e4d51b4f44e741ab550e298f712a350ab08eec94061489aba7745c1aaeab",
   "extracted_text_sha256": "3267018e7785651c9ac3acdd50e86d792d955a554d12c00c9e1abd2c5b290f67",

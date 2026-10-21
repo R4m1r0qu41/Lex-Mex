@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-5",
+  "strategy_version": "glossary-extraction-6",
   "instrument_id": "urn:lex-mx:federal:statute:lpf",
   "source_sha256": "fecec9ae534befd8467e94bb8eb7e39444938f6ef3346b9cc0e91932f4082885",
   "extracted_text_sha256": "021c39ecaece2751c1b2e5e7802577c43c499c1454dda0a6117155ba9b9c6ff7",

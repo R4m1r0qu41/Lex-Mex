@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-5",
+  "strategy_version": "glossary-extraction-6",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-lpesca",
   "source_sha256": "e5c0ecb4328043b7090ee5d73e982d6a04410f1330f6fdb350a7a34527eb2e59",
   "extracted_text_sha256": "68d29e79286eeeb0e4b7988c5f7ac93ef05d7986cc0b205d9e663b8d14159bb7",

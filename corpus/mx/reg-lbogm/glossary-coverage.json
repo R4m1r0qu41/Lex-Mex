@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-5",
+  "strategy_version": "glossary-extraction-6",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-lbogm",
   "source_sha256": "667636f9e0ea65e72ac9d6d7b4d7563a183b75d0f140268a61929c74f5f88041",
   "extracted_text_sha256": "8cff1dd25616939e507e6349b512319f23e733c40938be0f870472895949c379",

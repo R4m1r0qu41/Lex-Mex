@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-5",
+  "strategy_version": "glossary-extraction-6",
   "instrument_id": "urn:lex-mx:federal:statute:lrart27-mn",
   "source_sha256": "547158ef75d8c668bfe91b1f6673f265d17dd89d807b9cbba3b37a1313835ce8",
   "extracted_text_sha256": "08146e5bd8d675bafa827f274591824b730d46d91431af9aaaa414f71fe210d4",

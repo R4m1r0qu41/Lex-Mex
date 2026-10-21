@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-5",
+  "strategy_version": "glossary-extraction-6",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-lapp",
   "source_sha256": "4ff895e3a71cad0980a03360585d24750d7e165b6ea2537fc44c5c05f9142ce7",
   "extracted_text_sha256": "8249d825d620f56247cf82c9f38250a38a71c288f430684fa280f29cf3d8c2a9",

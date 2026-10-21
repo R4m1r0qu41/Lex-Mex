@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-5",
+  "strategy_version": "glossary-extraction-6",
   "instrument_id": "urn:lex-mx:federal:statute:lacp",
   "source_sha256": "d7c97f38c1dfe7dbf0ac5eba162d5fedb51dd132975912cf6e84aee9a614f348",
   "extracted_text_sha256": "d3e183ef132bb1b5b5e2cc97c8ddd0e30a820d494ce813c4403c86cd281c41b3",

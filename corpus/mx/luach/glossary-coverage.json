@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-5",
+  "strategy_version": "glossary-extraction-6",
   "instrument_id": "urn:lex-mx:federal:statute:luach",
   "source_sha256": "eaf46ed3247dddcc29d15d16c73bd64684685dc7540b8318f743ce000f7bbff5",
   "extracted_text_sha256": "2f408f1dac8437a9c5002b5de2fe603fbea02ab151ef4e203dbdad87c70259a8",

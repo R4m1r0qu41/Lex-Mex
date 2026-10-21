@@ -55,15 +55,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lan:article:3:term-usage:15774-15782",
-    "provision_id": "urn:lex-mx:federal:statute:lan:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lan:term:descarga",
-    "span": "Descarga",
-    "start_char": 15774,
-    "end_char": 15782
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lan:article:3:term-usage:15856-15875",
     "provision_id": "urn:lex-mx:federal:statute:lan:article:3",
     "term_id": "urn:lex-mx:federal:statute:lan:term:organismo-de-cuenca",
@@ -1693,20 +1684,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lan:article:92:term-usage:149-156",
+    "id": "urn:lex-mx:federal:statute:lan:article:92:term-usage:149-168",
     "provision_id": "urn:lex-mx:federal:statute:lan:article:92",
-    "term_id": "urn:lex-mx:federal:statute:lan:term:permisos",
-    "span": "Permiso",
+    "term_id": "urn:lex-mx:federal:statute:lan:term:permisos-de-descarga",
+    "span": "Permiso de Descarga",
     "start_char": 149,
-    "end_char": 156
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lan:article:92:term-usage:160-168",
-    "provision_id": "urn:lex-mx:federal:statute:lan:article:92",
-    "term_id": "urn:lex-mx:federal:statute:lan:term:descarga",
-    "span": "Descarga",
-    "start_char": 160,
     "end_char": 168
   },
   {
@@ -1729,38 +1711,20 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lan:article:93:term-usage:890-897",
+    "id": "urn:lex-mx:federal:statute:lan:article:93:term-usage:890-909",
     "provision_id": "urn:lex-mx:federal:statute:lan:article:93",
-    "term_id": "urn:lex-mx:federal:statute:lan:term:permisos",
-    "span": "Permiso",
+    "term_id": "urn:lex-mx:federal:statute:lan:term:permisos-de-descarga",
+    "span": "Permiso de Descarga",
     "start_char": 890,
-    "end_char": 897
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lan:article:93:term-usage:901-909",
-    "provision_id": "urn:lex-mx:federal:statute:lan:article:93",
-    "term_id": "urn:lex-mx:federal:statute:lan:term:descarga",
-    "span": "Descarga",
-    "start_char": 901,
     "end_char": 909
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lan:article:93-bis:term-usage:81-88",
+    "id": "urn:lex-mx:federal:statute:lan:article:93-bis:term-usage:81-100",
     "provision_id": "urn:lex-mx:federal:statute:lan:article:93-bis",
-    "term_id": "urn:lex-mx:federal:statute:lan:term:permisos",
-    "span": "Permiso",
+    "term_id": "urn:lex-mx:federal:statute:lan:term:permisos-de-descarga",
+    "span": "Permiso de Descarga",
     "start_char": 81,
-    "end_char": 88
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lan:article:93-bis:term-usage:92-100",
-    "provision_id": "urn:lex-mx:federal:statute:lan:article:93-bis",
-    "term_id": "urn:lex-mx:federal:statute:lan:term:descarga",
-    "span": "Descarga",
-    "start_char": 92,
     "end_char": 100
   },
   {

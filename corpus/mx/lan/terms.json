@@ -221,6 +221,30 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lan:term:region-hidrologica",
+    "term": "Región hidrológica",
+    "instrument_id": "urn:lex-mx:federal:statute:lan",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lan:article:3",
+    "fraction": "XVI",
+    "inciso": "a",
+    "start_char": 6385,
+    "end_char": 7247,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lan:term:region-hidrologico-administrativa",
+    "term": "Región Hidrológico - Administrativa",
+    "instrument_id": "urn:lex-mx:federal:statute:lan",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lan:article:3",
+    "fraction": "XVI",
+    "inciso": "b",
+    "start_char": 7247,
+    "end_char": 7636,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lan:term:cuerpo-receptor",
     "term": "Cuerpo receptor",
     "instrument_id": "urn:lex-mx:federal:statute:lan",
@@ -493,6 +517,18 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lan:article:3",
     "fraction": "XL",
     "start_char": 15298,
+    "end_char": 16080,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lan:term:permisos-de-descarga",
+    "term": "Permisos de Descarga",
+    "instrument_id": "urn:lex-mx:federal:statute:lan",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lan:article:3",
+    "fraction": "XL",
+    "inciso": "b",
+    "start_char": 15758,
     "end_char": 16080,
     "basis": "express_definition"
   },
