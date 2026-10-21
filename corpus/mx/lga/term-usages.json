@@ -19,15 +19,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lga:article:1:term-usage:707-715",
-    "provision_id": "urn:lex-mx:federal:statute:lga:article:1",
-    "term_id": "urn:lex-mx:federal:statute:lga:term:archivo",
-    "span": "Archivos",
-    "start_char": 707,
-    "end_char": 715
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lga:article:2:term-usage:22-25",
     "provision_id": "urn:lex-mx:federal:statute:lga:article:2",
     "term_id": "urn:lex-mx:federal:statute:lga:term:ley",
@@ -82,15 +73,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lga:article:4:term-usage:3066-3074",
-    "provision_id": "urn:lex-mx:federal:statute:lga:article:4",
-    "term_id": "urn:lex-mx:federal:statute:lga:term:archivo",
-    "span": "Archivos",
-    "start_char": 3066,
-    "end_char": 3074
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lga:article:4:term-usage:4001-4016",
     "provision_id": "urn:lex-mx:federal:statute:lga:article:4",
     "term_id": "urn:lex-mx:federal:statute:lga:term:archivo-general",
@@ -115,24 +97,6 @@
     "span": "Archivo General",
     "start_char": 9369,
     "end_char": 9384
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lga:article:4:term-usage:10388-10396",
-    "provision_id": "urn:lex-mx:federal:statute:lga:article:4",
-    "term_id": "urn:lex-mx:federal:statute:lga:term:archivo",
-    "span": "Archivos",
-    "start_char": 10388,
-    "end_char": 10396
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lga:article:4:term-usage:11018-11026",
-    "provision_id": "urn:lex-mx:federal:statute:lga:article:4",
-    "term_id": "urn:lex-mx:federal:statute:lga:term:archivo",
-    "span": "Archivos",
-    "start_char": 11018,
-    "end_char": 11026
   },
   {
     "schema_version": "0.1.0",
@@ -919,15 +883,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lga:article:74:term-usage:84-100",
-    "provision_id": "urn:lex-mx:federal:statute:lga:article:74",
-    "term_id": "urn:lex-mx:federal:statute:lga:term:sistema-nacional",
-    "span": "Sistema Nacional",
-    "start_char": 84,
-    "end_char": 100
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lga:article:75:term-usage:347-364",
     "provision_id": "urn:lex-mx:federal:statute:lga:article:75",
     "term_id": "urn:lex-mx:federal:statute:lga:term:registro-nacional",
@@ -1429,15 +1384,6 @@
     "span": "Órgano de Gobierno",
     "start_char": 3,
     "end_char": 21
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lga:article:110:term-usage:357-373",
-    "provision_id": "urn:lex-mx:federal:statute:lga:article:110",
-    "term_id": "urn:lex-mx:federal:statute:lga:term:consejo-nacional",
-    "span": "Consejo Nacional",
-    "start_char": 357,
-    "end_char": 373
   },
   {
     "schema_version": "0.1.0",
@@ -1978,15 +1924,6 @@
     "span": "Registro Nacional",
     "start_char": 57,
     "end_char": 74
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lga:transitory:decimo-tercero:term-usage:78-86",
-    "provision_id": "urn:lex-mx:federal:statute:lga:transitory:decimo-tercero",
-    "term_id": "urn:lex-mx:federal:statute:lga:term:archivo",
-    "span": "Archivos",
-    "start_char": 78,
-    "end_char": 86
   },
   {
     "schema_version": "0.1.0",

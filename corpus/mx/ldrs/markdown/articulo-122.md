@@ -17,7 +17,7 @@ source_sha256: 30f884c4cd22148b89f3fc21ff0be69be7571d51c146cefa7da2cac06b421f21
 
 # Artículo 122
 
-La [Comisión Intersecretarial](articulo-3o.md), en coordinación con la [Secretaría](articulo-3o.md) de Hacienda y Crédito Público y con la colaboración de los gobiernos de las entidades federativas, podrá participar en el establecimiento de fondos a fin de apoyar:
+La [Comisión Intersecretarial](articulo-3o.md), en coordinación con la Secretaría de Hacienda y Crédito Público y con la colaboración de los gobiernos de las entidades federativas, podrá participar en el establecimiento de fondos a fin de apoyar:
 
 I. La capitalización de iniciativas de inversión de las organizaciones económicas de los productores;
 

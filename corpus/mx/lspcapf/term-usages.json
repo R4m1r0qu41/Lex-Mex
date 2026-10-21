@@ -163,30 +163,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lspcapf:article:7:term-usage:793-803",
-    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:7",
-    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 793,
-    "end_char": 803
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lspcapf:article:8:term-usage:3-10",
     "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:8",
     "term_id": "urn:lex-mx:federal:statute:lspcapf:term:sistema",
     "span": "Sistema",
     "start_char": 3,
     "end_char": 10
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lspcapf:article:8:term-usage:101-111",
-    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:8",
-    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 101,
-    "end_char": 111
   },
   {
     "schema_version": "0.1.0",
@@ -1576,15 +1558,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lspcapf:article:70:term-usage:232-242",
-    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:70",
-    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 232,
-    "end_char": 242
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lspcapf:article:70:term-usage:465-472",
     "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:70",
     "term_id": "urn:lex-mx:federal:statute:lspcapf:term:consejo",
@@ -1888,15 +1861,6 @@
     "span": "Comités",
     "start_char": 431,
     "end_char": 438
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lspcapf:transitory:sexto:term-usage:3-13",
-    "provision_id": "urn:lex-mx:federal:statute:lspcapf:transitory:sexto",
-    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 3,
-    "end_char": 13
   },
   {
     "schema_version": "0.1.0",

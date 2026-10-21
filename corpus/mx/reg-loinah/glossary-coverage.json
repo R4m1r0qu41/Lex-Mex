@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-5",
+  "strategy_version": "glossary-extraction-6",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-loinah",
   "source_sha256": "36b4431a137649d7b90cf02b8adac914729223824a0d0821f3dd8c3f8274e8db",
   "extracted_text_sha256": "e6decf51bb203e4ff15b864a8ae251ba7e218d0f9c9ea799568110b7110b7e12",
@@ -31,5 +31,5 @@
   ],
   "imports": [],
   "term_count": 13,
-  "usage_count": 503
+  "usage_count": 505
 }

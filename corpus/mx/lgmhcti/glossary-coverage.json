@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-5",
+  "strategy_version": "glossary-extraction-6",
   "instrument_id": "urn:lex-mx:federal:statute:lgmhcti",
   "source_sha256": "5a0e15e01ac963917e019e3cc4ad07e96d76cc6c82c8b4238dfbb3a58a146847",
   "extracted_text_sha256": "3393b0de9b380cecb59b62c161d9660cd1eb476d59637f72766c2ddea2ac4b99",
@@ -45,5 +45,5 @@
   ],
   "imports": [],
   "term_count": 27,
-  "usage_count": 487
+  "usage_count": 477
 }

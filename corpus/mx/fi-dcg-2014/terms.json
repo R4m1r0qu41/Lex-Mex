@@ -1,1 +1,277 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:activos-objeto-de-inversion-asg",
+    "term": "Activos Objeto de Inversión ASG",
+    "instrument_id": "urn:lex-mx:federal:regulation:fi-dcg-2014",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:1",
+    "fraction": "I",
+    "start_char": 139,
+    "end_char": 1679,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:administracion-integral-de-riesgos",
+    "term": "Administración integral de riesgos",
+    "instrument_id": "urn:lex-mx:federal:regulation:fi-dcg-2014",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:1",
+    "fraction": "II",
+    "start_char": 1679,
+    "end_char": 1999,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:auditor-externo-independiente",
+    "term": "Auditor Externo Independiente",
+    "instrument_id": "urn:lex-mx:federal:regulation:fi-dcg-2014",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:1",
+    "fraction": "III",
+    "start_char": 1999,
+    "end_char": 2408,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:certificados-bursatiles-fiduciarios",
+    "term": "Certificados bursátiles fiduciarios",
+    "instrument_id": "urn:lex-mx:federal:regulation:fi-dcg-2014",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:1",
+    "fraction": "IV",
+    "start_char": 2408,
+    "end_char": 3013,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:contingencia-operativa",
+    "term": "Contingencia Operativa",
+    "instrument_id": "urn:lex-mx:federal:regulation:fi-dcg-2014",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:1",
+    "fraction": "V",
+    "start_char": 3013,
+    "end_char": 3412,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:emisora",
+    "term": "Emisora",
+    "instrument_id": "urn:lex-mx:federal:regulation:fi-dcg-2014",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:1",
+    "fraction": "VI",
+    "start_char": 3412,
+    "end_char": 3563,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:factor-de-riesgo",
+    "term": "Factor de riesgo",
+    "instrument_id": "urn:lex-mx:federal:regulation:fi-dcg-2014",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:1",
+    "fraction": "VII",
+    "start_char": 3563,
+    "end_char": 3869,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:independencia",
+    "term": "Independencia",
+    "instrument_id": "urn:lex-mx:federal:regulation:fi-dcg-2014",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:1",
+    "fraction": "VIII",
+    "start_char": 3869,
+    "end_char": 4061,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:inversionista-calificado",
+    "term": "Inversionista calificado",
+    "instrument_id": "urn:lex-mx:federal:regulation:fi-dcg-2014",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:1",
+    "fraction": "IX",
+    "start_char": 4061,
+    "end_char": 4230,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:inversionista-institucional",
+    "term": "Inversionista institucional",
+    "instrument_id": "urn:lex-mx:federal:regulation:fi-dcg-2014",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:1",
+    "fraction": "X",
+    "start_char": 4230,
+    "end_char": 4325,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:regulation:fi-dcg-2014",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:1",
+    "fraction": "XI",
+    "start_char": 4325,
+    "end_char": 4368,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:limite-especifico-de-exposicion-al-riesgo",
+    "term": "Límite específico de exposición al riesgo",
+    "instrument_id": "urn:lex-mx:federal:regulation:fi-dcg-2014",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:1",
+    "fraction": "XII",
+    "start_char": 4368,
+    "end_char": 4784,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:limite-global-de-exposicion-al-riesgo",
+    "term": "Límite global de exposición al riesgo",
+    "instrument_id": "urn:lex-mx:federal:regulation:fi-dcg-2014",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:1",
+    "fraction": "XIII",
+    "start_char": 4784,
+    "end_char": 5081,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:nivel-de-tolerancia-al-riesgo",
+    "term": "Nivel de tolerancia al riesgo",
+    "instrument_id": "urn:lex-mx:federal:regulation:fi-dcg-2014",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:1",
+    "fraction": "XIV",
+    "start_char": 5081,
+    "end_char": 5317,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:opinion-no-modificada-o-favorable-o-modificada-o-desfavorable",
+    "term": "Opinión no modificada (o favorable) o modificada (o desfavorable)",
+    "instrument_id": "urn:lex-mx:federal:regulation:fi-dcg-2014",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:1",
+    "fraction": "XV",
+    "start_char": 5317,
+    "end_char": 5689,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:plan-de-continuidad-de-negocio",
+    "term": "Plan de Continuidad de Negocio",
+    "instrument_id": "urn:lex-mx:federal:regulation:fi-dcg-2014",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:1",
+    "fraction": "XVI",
+    "start_char": 5689,
+    "end_char": 6188,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:reportes-de-informacion-crediticia",
+    "term": "Reportes de información crediticia",
+    "instrument_id": "urn:lex-mx:federal:regulation:fi-dcg-2014",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:1",
+    "fraction": "XVII",
+    "start_char": 6188,
+    "end_char": 6725,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:sedi",
+    "term": "SEDI",
+    "instrument_id": "urn:lex-mx:federal:regulation:fi-dcg-2014",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:1",
+    "fraction": "XVIII",
+    "start_char": 6725,
+    "end_char": 6875,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:servicios-complementarios-o-auxiliares",
+    "term": "Servicios complementarios o auxiliares",
+    "instrument_id": "urn:lex-mx:federal:regulation:fi-dcg-2014",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:1",
+    "fraction": "XIX",
+    "start_char": 6875,
+    "end_char": 7490,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:siti",
+    "term": "SITI",
+    "instrument_id": "urn:lex-mx:federal:regulation:fi-dcg-2014",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:1",
+    "fraction": "XX",
+    "start_char": 7490,
+    "end_char": 7564,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:stiv",
+    "term": "STIV",
+    "instrument_id": "urn:lex-mx:federal:regulation:fi-dcg-2014",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:1",
+    "fraction": "XXI",
+    "start_char": 7564,
+    "end_char": 7665,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:udi",
+    "term": "UDI",
+    "instrument_id": "urn:lex-mx:federal:regulation:fi-dcg-2014",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:1",
+    "fraction": "XXII",
+    "start_char": 7665,
+    "end_char": 8156,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:unidad-de-negocio",
+    "term": "Unidad de negocio",
+    "instrument_id": "urn:lex-mx:federal:regulation:fi-dcg-2014",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:1",
+    "fraction": "XXIII",
+    "start_char": 8156,
+    "end_char": 8363,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:valores-estructurados",
+    "term": "Valores estructurados",
+    "instrument_id": "urn:lex-mx:federal:regulation:fi-dcg-2014",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:1",
+    "fraction": "XXIV",
+    "start_char": 8363,
+    "end_char": 8825,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:fi-dcg-2014:term:valores-respaldados-por-activos",
+    "term": "Valores respaldados por activos",
+    "instrument_id": "urn:lex-mx:federal:regulation:fi-dcg-2014",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:1",
+    "fraction": "XXV",
+    "start_char": 8825,
+    "end_char": 9858,
+    "basis": "express_definition"
+  }
+]

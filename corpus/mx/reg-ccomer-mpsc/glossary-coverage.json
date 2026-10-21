@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-5",
+  "strategy_version": "glossary-extraction-6",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-ccomer-mpsc",
   "source_sha256": "68289021a298c81ea470c045775a924186bf451c2469dcf6c59a43200a2b0048",
   "extracted_text_sha256": "1a7b8d51c50ace471175781666c59a758ef6a3fa31fa0aad3675c91312c98a4d",

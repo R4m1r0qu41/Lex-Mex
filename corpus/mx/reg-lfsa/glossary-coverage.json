@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-5",
+  "strategy_version": "glossary-extraction-6",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-lfsa",
   "source_sha256": "a3435ac18a1631617fea83ae6a81bad84f456e3e8fd44b69bb6b7ea39425df9c",
   "extracted_text_sha256": "f35cca065397d2bfc40568140dfb1939b7baed59597dd26d4000ba962c0e02fc",

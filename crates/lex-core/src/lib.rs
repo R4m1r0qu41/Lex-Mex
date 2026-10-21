@@ -1172,7 +1172,10 @@ pub struct TermUsage {
 /// as invalidated rather than reading a term from it.
 /// Version 5 reads an established-pass fraction of lettered incisos (`a.`
 /// … `b.`, or `a)` … `b)`) as one term per inciso, with its inciso locator.
-pub const GLOSSARY_STRATEGY_VERSION: &str = "glossary-extraction-5";
+/// Version 6 also reads a fraction's lettered incisos that each open with a
+/// quoted name as further terms, beside the fraction's own (lan XL b.
+/// "Permisos de Descarga").
+pub const GLOSSARY_STRATEGY_VERSION: &str = "glossary-extraction-6";
 
 /// How `terms.json` was produced for one instrument
 /// (`glossary-coverage.json`). It separates a glossary held as incomplete

@@ -244,15 +244,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfvv:article:29:term-usage:355-365",
-    "provision_id": "urn:lex-mx:federal:statute:lfvv:article:29",
-    "term_id": "urn:lex-mx:federal:statute:lfvv:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 355,
-    "end_char": 365
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfvv:article:29:term-usage:512-518",
     "provision_id": "urn:lex-mx:federal:statute:lfvv:article:29",
     "term_id": "urn:lex-mx:federal:statute:lfvv:term:comite",

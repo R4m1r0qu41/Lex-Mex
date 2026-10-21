@@ -19,7 +19,7 @@ source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 
 La presente Ley es de orden público y observancia general en los Estados Unidos Mexicanos y tiene por objeto desarrollar el mercado de valores en forma equitativa, eficiente y transparente; proteger los intereses del público inversionista; minimizar el riesgo sistémico; fomentar una sana competencia, y regular lo siguiente:
 
-I. La inscripción y la actualización, suspensión y cancelación de la inscripción de valores en el [Registro](articulo-2.md) Nacional de [Valores](articulo-2.md) y la organización de éste.
+I. La inscripción y la actualización, suspensión y cancelación de la inscripción de valores en el [Registro](articulo-2.md) Nacional de Valores y la organización de éste.
 
 II. La oferta e intermediación de valores, salvo tratándose de títulos ofrecidos a través de las instituciones de tecnología financiera. Fracción reformada DOF 09-03-2018
 

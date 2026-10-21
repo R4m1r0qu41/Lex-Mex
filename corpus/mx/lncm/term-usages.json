@@ -19,15 +19,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lncm:article:2:term-usage:2092-2123",
-    "provision_id": "urn:lex-mx:federal:statute:lncm:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lncm:term:proteccion-maritima-y-portuaria",
-    "span": "Protección Marítima y Portuaria",
-    "start_char": 2092,
-    "end_char": 2123
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lncm:article:6:term-usage:69-93",
     "provision_id": "urn:lex-mx:federal:statute:lncm:article:6",
     "term_id": "urn:lex-mx:federal:statute:lncm:term:tratados-internacionales",
@@ -97,15 +88,6 @@
     "span": "Protección Marítima y Portuaria",
     "start_char": 1687,
     "end_char": 1718
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lncm:article:8:term-usage:2133-2143",
-    "provision_id": "urn:lex-mx:federal:statute:lncm:article:8",
-    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 2133,
-    "end_char": 2143
   },
   {
     "schema_version": "0.1.0",
@@ -325,15 +307,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lncm:article:31:term-usage:225-235",
-    "provision_id": "urn:lex-mx:federal:statute:lncm:article:31",
-    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 225,
-    "end_char": 235
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lncm:article:31:term-usage:453-463",
     "provision_id": "urn:lex-mx:federal:statute:lncm:article:31",
     "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
@@ -433,39 +406,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lncm:article:33:term-usage:17-27",
-    "provision_id": "urn:lex-mx:federal:statute:lncm:article:33",
-    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 17,
-    "end_char": 27
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lncm:article:33:term-usage:92-102",
     "provision_id": "urn:lex-mx:federal:statute:lncm:article:33",
     "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
     "span": "Secretaría",
     "start_char": 92,
     "end_char": 102
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lncm:article:34:term-usage:1313-1323",
-    "provision_id": "urn:lex-mx:federal:statute:lncm:article:34",
-    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 1313,
-    "end_char": 1323
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lncm:article:34:term-usage:1361-1371",
-    "provision_id": "urn:lex-mx:federal:statute:lncm:article:34",
-    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 1361,
-    "end_char": 1371
   },
   {
     "schema_version": "0.1.0",
@@ -484,15 +430,6 @@
     "span": "Secretaría",
     "start_char": 3420,
     "end_char": 3430
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lncm:article:34:term-usage:3637-3647",
-    "provision_id": "urn:lex-mx:federal:statute:lncm:article:34",
-    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 3637,
-    "end_char": 3647
   },
   {
     "schema_version": "0.1.0",
@@ -736,15 +673,6 @@
     "span": "Secretaría",
     "start_char": 561,
     "end_char": 571
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lncm:article:51:term-usage:367-377",
-    "provision_id": "urn:lex-mx:federal:statute:lncm:article:51",
-    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 367,
-    "end_char": 377
   },
   {
     "schema_version": "0.1.0",
@@ -1114,15 +1042,6 @@
     "span": "Secretaría",
     "start_char": 841,
     "end_char": 851
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lncm:article:77:term-usage:1514-1524",
-    "provision_id": "urn:lex-mx:federal:statute:lncm:article:77",
-    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 1514,
-    "end_char": 1524
   },
   {
     "schema_version": "0.1.0",
@@ -1663,14 +1582,5 @@
     "span": "Secretaría",
     "start_char": 3,
     "end_char": 13
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lncm:transitory:decimo:term-usage:197-207",
-    "provision_id": "urn:lex-mx:federal:statute:lncm:transitory:decimo",
-    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 197,
-    "end_char": 207
   }
 ]

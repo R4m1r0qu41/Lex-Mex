@@ -2053,15 +2053,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfprh:article:177:term-usage:1423-1431",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:177",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfprh:term:comision",
-    "span": "Comisión",
-    "start_char": 1423,
-    "end_char": 1431
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lfprh:article:177:term-usage:2749-2759",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:177",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfprh:term:comision",
@@ -2995,15 +2986,6 @@
     "span": "Ley",
     "start_char": 352,
     "end_char": 355
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfprh:transitory:octavo:term-usage:225-233",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:transitory:octavo",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfprh:term:comision",
-    "span": "Comisión",
-    "start_char": 225,
-    "end_char": 233
   },
   {
     "schema_version": "0.1.0",

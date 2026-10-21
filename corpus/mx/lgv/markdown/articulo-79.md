@@ -17,7 +17,7 @@ source_sha256: a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8
 
 # Artículo 79
 
-El [Sistema](articulo-6.md) Nacional de Atención a [Víctimas](articulo-6.md) será la instancia superior de coordinación y formulación de políticas públicas y tendrá por objeto proponer, establecer y supervisar las directrices, servicios, planes, programas, proyectos, acciones institucionales e interinstitucionales, y demás políticas públicas que se implementen para la protección, ayuda, asistencia, atención, acceso a la justicia, a la verdad y a la reparación integral a las víctimas en los ámbitos local, federal y municipal.
+El [Sistema](articulo-6.md) Nacional de Atención a Víctimas será la instancia superior de coordinación y formulación de políticas públicas y tendrá por objeto proponer, establecer y supervisar las directrices, servicios, planes, programas, proyectos, acciones institucionales e interinstitucionales, y demás políticas públicas que se implementen para la protección, ayuda, asistencia, atención, acceso a la justicia, a la verdad y a la reparación integral a las víctimas en los ámbitos local, federal y municipal.
 
 El Sistema Nacional de Atención a Víctimas está constituido por todas las instituciones y entidades públicas federales, estatales, del Gobierno de la Ciudad de México y municipales, organismos autónomos, y demás organizaciones públicas o privadas, encargadas de la protección, ayuda, asistencia, atención, defensa de los derechos humanos, acceso a la justicia, a la verdad y a la reparación integral de las víctimas, a que se refiere el Capítulo II del presente Título. Párrafo reformado DOF 03-01-2017
 

@@ -25,7 +25,7 @@ II. Las disponibilidades financieras con que, en su caso, cuenten de los recurso
 
 III. El presupuesto comprometido, devengado y pagado correspondiente al ejercicio fiscal.
 
-La información sobre el destino de los recursos deberá estar claramente asociada con los objetivos de las estrategias definidas por el [Consejo](articulo-4.md) Nacional de Seguridad Pública.
+La información sobre el destino de los recursos deberá estar claramente asociada con los objetivos de las estrategias definidas por el Consejo Nacional de Seguridad Pública.
 
 Para el cumplimiento de lo previsto en este artículo, el consejo solicitará al Consejo Nacional de Seguridad Pública los lineamientos y el modelo de estructura de información que sean necesarios.
 

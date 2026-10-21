@@ -172,15 +172,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeo:article:6:term-usage:351-361",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeo:article:6",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgeo:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 351,
-    "end_char": 361
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgeo:article:8:term-usage:56-66",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeo:article:8",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeo:term:secretaria",

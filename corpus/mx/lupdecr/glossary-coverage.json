@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-5",
+  "strategy_version": "glossary-extraction-6",
   "instrument_id": "urn:lex-mx:federal:statute:lupdecr",
   "source_sha256": "add375b17749965073df032027c6cafb7883ab25bfae2f13e34ba41b1ff24e88",
   "extracted_text_sha256": "82ba18d7405a112e51d32ccc310655524d9da46a189db41996047d2f576e107d",

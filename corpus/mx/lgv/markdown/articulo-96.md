@@ -17,7 +17,7 @@ source_sha256: a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8
 
 # Artículo 96
 
-El [Registro](articulo-6.md) Nacional de [Víctimas](articulo-6.md), es el mecanismo administrativo y técnico que soporta todo el proceso de ingreso y registro de las víctimas del delito y de violaciones de derechos humanos al [Sistema](articulo-6.md), creado en esta Ley.
+El [Registro](articulo-6.md) Nacional de Víctimas, es el mecanismo administrativo y técnico que soporta todo el proceso de ingreso y registro de las víctimas del delito y de violaciones de derechos humanos al [Sistema](articulo-6.md), creado en esta Ley.
 
 El Registro Nacional de Víctimas constituye un soporte fundamental para garantizar que las víctimas tengan un acceso oportuno y efectivo a las medidas de ayuda, asistencia, atención, acceso a la justicia y reparación integral previstas en esta Ley.
 

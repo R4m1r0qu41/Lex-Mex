@@ -1,15 +1,15 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-5",
+  "strategy_version": "glossary-extraction-6",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa",
   "source_sha256": "d50b44df321cf8be51375c07cee5dbcf03eac76df1cd11ab4bd777c9fce0f789",
   "extracted_text_sha256": "d927c1c6dd3e308cb2e2bdade8964579bc446a9cf074bbb5f8d58d840b4ef342",
-  "status": "detected",
+  "status": "configured",
   "glossaries": [
     {
       "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2",
       "provision_text_sha256": "c79dab0aee24cb0a3845b5310511672c3dd8e0d4cb0ef4976800ef2a8830691c",
-      "method": "wider_pass",
+      "method": "auto_whole",
       "fractions": [
         "I",
         "I Bis",
@@ -40,7 +40,16 @@
       "term_count": 24
     }
   ],
-  "imports": [],
+  "imports": [
+    {
+      "additive_to": "urn:lex-mx:federal:statute:lgeepa:article:3",
+      "term_count": 44
+    },
+    {
+      "additive_to": "urn:lex-mx:federal:statute:lic-calidad:article:4",
+      "term_count": 27
+    }
+  ],
   "term_count": 24,
-  "usage_count": 495
+  "usage_count": 497
 }

@@ -19,6 +19,6 @@ source_sha256: b8f75dc45895e70fc2299799d9308a6df8782a1e2e3e736e3e3f537c751137c9
 
 Cuando se trate de bienes de propiedad privada, la [Autoridad Federal](articulo-4.md) deberá adjuntar a la solicitud a que se refiere el [artículo anterior](articulo-51.md) los datos y documentos que acrediten la titularidad del bien de que se trate, en caso de que éstos existan.
 
-En caso de bienes de propiedad social a que se refiere la Ley Agraria, la [Secretaría](articulo-4.md) de Desarrollo Agrario, Territorial y Urbano solicitará al Registro Agrario Nacional el historial del núcleo agrario.
+En caso de bienes de propiedad social a que se refiere la Ley Agraria, la Secretaría de Desarrollo Agrario, Territorial y Urbano solicitará al Registro Agrario Nacional el historial del núcleo agrario.
 
-Si el Registro Agrario Nacional informa a la Secretaría de Desarrollo Agrario, Territorial y Urbano que el predio ha dejado de estar sujeto al régimen de propiedad social, dicha Secretaría notificará tal circunstancia a la Autoridad Federal, a fin de que ésta verifique si dicho predio está sujeto al régimen de propiedad privada.
+Si el Registro Agrario Nacional informa a la Secretaría de Desarrollo Agrario, Territorial y Urbano que el predio ha dejado de estar sujeto al régimen de propiedad social, dicha [Secretaría](articulo-4.md) notificará tal circunstancia a la Autoridad Federal, a fin de que ésta verifique si dicho predio está sujeto al régimen de propiedad privada.

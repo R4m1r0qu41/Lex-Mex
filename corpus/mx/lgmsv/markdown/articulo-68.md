@@ -19,7 +19,7 @@ source_sha256: 79f2b255a142d1756d7e8c13244af6dc8c4f2f474acaf0d669f2b156b022fc03
 
 De los municipios. Corresponde a los municipios las siguientes atribuciones:
 
-I. Participar en el [Sistema Nacional](articulo-3.md) de [Movilidad](articulo-3.md) y Seguridad Vial, de conformidad con lo establecido en el artículo [7](articulo-7.md) del presente ordenamiento y los lineamientos que establezca el Sistema Nacional;
+I. Participar en el [Sistema Nacional](articulo-3.md) de Movilidad y Seguridad Vial, de conformidad con lo establecido en el artículo [7](articulo-7.md) del presente ordenamiento y los lineamientos que establezca el Sistema Nacional;
 
 II. Formular, aprobar, administrar y ejecutar los programas municipales en materia de movilidad y seguridad vial, conforme a lo establecido en el Plan Nacional de Desarrollo, la Estrategia Nacional, los programas de la entidad federativa correspondiente y los Convenios de Coordinación Metropolitanos; así como conducir, evaluar y vigilar la política conforme a lo establecido por esta [Ley](articulo-3.md), sus principios y jerarquía de la movilidad;
 

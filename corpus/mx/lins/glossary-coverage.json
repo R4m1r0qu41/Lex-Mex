@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-5",
+  "strategy_version": "glossary-extraction-6",
   "instrument_id": "urn:lex-mx:federal:statute:lins",
   "source_sha256": "40271b07f2d2236f7e4d722d2b61f35db2d82772543dcf4911097efe13697c5e",
   "extracted_text_sha256": "1d464053a97ac566ab3657ba83ba9e5be8d61e479a9073ddaca2aa16f8e8243f",
@@ -29,5 +29,5 @@
   ],
   "imports": [],
   "term_count": 11,
-  "usage_count": 80
+  "usage_count": 74
 }

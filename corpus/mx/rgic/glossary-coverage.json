@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-5",
+  "strategy_version": "glossary-extraction-6",
   "instrument_id": "urn:lex-mx:federal:regulation:rgic",
   "source_sha256": "fff7e0e84270e4d5f9c103b0b792c5e05256d4c6957126d2a5c12509b6b383ec",
   "extracted_text_sha256": "63a971f7e2e75de3c5a47b57e3a62a30295c6d981b5e74c30962b24271234106",

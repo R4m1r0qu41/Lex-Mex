@@ -49,7 +49,7 @@ XIV. Proponer al Comisionado General los programas de control y de suministro de
 
 XV. Desarrollar dispositivos de vigilancia especiales en apoyo de otras áreas o autoridades competentes;
 
-XVI. Coordinar y aplicar, con las áreas correspondientes, el cumplimiento de los requisitos que señale la [Secretaría](articulo-2.md) de la Defensa Nacional con respecto a la licencia oficial colectiva de portación de armas de la Institución;
+XVI. Coordinar y aplicar, con las áreas correspondientes, el cumplimiento de los requisitos que señale la Secretaría de la Defensa Nacional con respecto a la licencia oficial colectiva de portación de armas de la Institución;
 
 XVII. Elaborar y coordinar los planes y programas de protección civil institucional, y supervisar su aplicación;
 

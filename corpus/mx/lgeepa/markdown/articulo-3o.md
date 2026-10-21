@@ -103,7 +103,7 @@ XXXIII.- Residuos peligrosos: son aquellos que posean alguna de las característ
 
 XXXIV.- Restauración: Conjunto de actividades tendientes a la recuperación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales; Fracción recorrida DOF 28-01-2011
 
-XXXV. Secretaría: La Secretaría de Medio [Ambiente](articulo-3o.md) y Recursos Naturales. Fracción reformada DOF 07-01-2000. Recorrida DOF 28-01-2011. Reformada DOF 09-04-2012
+XXXV. Secretaría: La Secretaría de Medio Ambiente y Recursos Naturales. Fracción reformada DOF 07-01-2000. Recorrida DOF 28-01-2011. Reformada DOF 09-04-2012
 
 XXXVI. Servicios ambientales: los beneficios tangibles e intangibles, generados por los ecosistemas, necesarios para la supervivencia del sistema natural y biológico en su conjunto, y para que proporcionen beneficios al ser humano; Fracción adicionada DOF 04-06-2012
 

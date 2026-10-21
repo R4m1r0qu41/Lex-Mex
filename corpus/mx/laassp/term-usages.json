@@ -28,15 +28,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:laassp:article:5:term-usage:519-529",
-    "provision_id": "urn:lex-mx:federal:statute:laassp:article:5",
-    "term_id": "urn:lex-mx:federal:statute:laassp:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 519,
-    "end_char": 529
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:laassp:article:5:term-usage:3957-3967",
     "provision_id": "urn:lex-mx:federal:statute:laassp:article:5",
     "term_id": "urn:lex-mx:federal:statute:laassp:term:secretaria",
@@ -109,15 +100,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:laassp:article:9:term-usage:215-225",
-    "provision_id": "urn:lex-mx:federal:statute:laassp:article:9",
-    "term_id": "urn:lex-mx:federal:statute:laassp:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 215,
-    "end_char": 225
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:laassp:article:9:term-usage:274-284",
     "provision_id": "urn:lex-mx:federal:statute:laassp:article:9",
     "term_id": "urn:lex-mx:federal:statute:laassp:term:secretaria",
@@ -136,30 +118,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:laassp:article:9:term-usage:613-623",
-    "provision_id": "urn:lex-mx:federal:statute:laassp:article:9",
-    "term_id": "urn:lex-mx:federal:statute:laassp:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 613,
-    "end_char": 623
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:laassp:article:10:term-usage:80-90",
     "provision_id": "urn:lex-mx:federal:statute:laassp:article:10",
     "term_id": "urn:lex-mx:federal:statute:laassp:term:secretaria",
     "span": "Secretaría",
     "start_char": 80,
     "end_char": 90
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:laassp:article:10:term-usage:117-127",
-    "provision_id": "urn:lex-mx:federal:statute:laassp:article:10",
-    "term_id": "urn:lex-mx:federal:statute:laassp:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 117,
-    "end_char": 127
   },
   {
     "schema_version": "0.1.0",
@@ -232,24 +196,6 @@
     "span": "Secretaría",
     "start_char": 588,
     "end_char": 598
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:laassp:article:17:term-usage:621-631",
-    "provision_id": "urn:lex-mx:federal:statute:laassp:article:17",
-    "term_id": "urn:lex-mx:federal:statute:laassp:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 621,
-    "end_char": 631
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:laassp:article:18:term-usage:834-844",
-    "provision_id": "urn:lex-mx:federal:statute:laassp:article:18",
-    "term_id": "urn:lex-mx:federal:statute:laassp:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 834,
-    "end_char": 844
   },
   {
     "schema_version": "0.1.0",
@@ -394,15 +340,6 @@
     "span": "Hacienda",
     "start_char": 256,
     "end_char": 264
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:laassp:article:22:term-usage:556-566",
-    "provision_id": "urn:lex-mx:federal:statute:laassp:article:22",
-    "term_id": "urn:lex-mx:federal:statute:laassp:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 556,
-    "end_char": 566
   },
   {
     "schema_version": "0.1.0",
@@ -1009,15 +946,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:laassp:article:39:term-usage:1648-1658",
-    "provision_id": "urn:lex-mx:federal:statute:laassp:article:39",
-    "term_id": "urn:lex-mx:federal:statute:laassp:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 1648,
-    "end_char": 1658
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:laassp:article:39:term-usage:3457-3464",
     "provision_id": "urn:lex-mx:federal:statute:laassp:article:39",
     "term_id": "urn:lex-mx:federal:statute:laassp:term:tratados",
@@ -1033,15 +961,6 @@
     "span": "Tratado",
     "start_char": 3638,
     "end_char": 3645
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:laassp:article:39:term-usage:4329-4339",
-    "provision_id": "urn:lex-mx:federal:statute:laassp:article:39",
-    "term_id": "urn:lex-mx:federal:statute:laassp:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 4329,
-    "end_char": 4339
   },
   {
     "schema_version": "0.1.0",
@@ -1645,15 +1564,6 @@
     "span": "Hacienda",
     "start_char": 1019,
     "end_char": 1027
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:laassp:article:65:term-usage:1033-1043",
-    "provision_id": "urn:lex-mx:federal:statute:laassp:article:65",
-    "term_id": "urn:lex-mx:federal:statute:laassp:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 1033,
-    "end_char": 1043
   },
   {
     "schema_version": "0.1.0",
@@ -2437,33 +2347,6 @@
     "span": "Plataforma",
     "start_char": 1150,
     "end_char": 1160
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:laassp:transitory:decimo-tercero:term-usage:371-381",
-    "provision_id": "urn:lex-mx:federal:statute:laassp:transitory:decimo-tercero",
-    "term_id": "urn:lex-mx:federal:statute:laassp:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 371,
-    "end_char": 381
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:laassp:transitory:decimo-tercero:term-usage:400-410",
-    "provision_id": "urn:lex-mx:federal:statute:laassp:transitory:decimo-tercero",
-    "term_id": "urn:lex-mx:federal:statute:laassp:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 400,
-    "end_char": 410
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:laassp:transitory:decimo-quinto:term-usage:918-928",
-    "provision_id": "urn:lex-mx:federal:statute:laassp:transitory:decimo-quinto",
-    "term_id": "urn:lex-mx:federal:statute:laassp:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 918,
-    "end_char": 928
   },
   {
     "schema_version": "0.1.0",

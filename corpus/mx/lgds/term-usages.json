@@ -325,15 +325,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgds:article:51:term-usage:668-677",
-    "provision_id": "urn:lex-mx:federal:statute:lgds:article:51",
-    "term_id": "urn:lex-mx:federal:statute:lgds:term:instituto",
-    "span": "Instituto",
-    "start_char": 668,
-    "end_char": 677
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgds:article:51:term-usage:913-923",
     "provision_id": "urn:lex-mx:federal:statute:lgds:article:51",
     "term_id": "urn:lex-mx:federal:statute:lgds:term:secretaria",
@@ -754,15 +745,6 @@
     "span": "Instituto",
     "start_char": 1049,
     "end_char": 1058
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgds:transitory:tercero:term-usage:179-208",
-    "provision_id": "urn:lex-mx:federal:statute:lgds:transitory:tercero",
-    "term_id": "urn:lex-mx:federal:statute:lgds:term:politica-de-desarrollo-social",
-    "span": "Política de Desarrollo Social",
-    "start_char": 179,
-    "end_char": 208
   },
   {
     "schema_version": "0.1.0",

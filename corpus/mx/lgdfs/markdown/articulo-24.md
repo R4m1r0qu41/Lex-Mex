@@ -17,7 +17,7 @@ source_sha256: 2c75fd0eab3245aed43a4e1230dcd142b48959a1df09bdd4e70684935a505dd4
 
 # Artículo 24
 
-De acuerdo con lo previsto en la Ley Orgánica de la Administración Pública Federal, la [Secretaría](articulo-7.md) de Agricultura y Desarrollo Rural, se coordinará con la Secretaría y con la participación de la [Comisión](articulo-7.md), en su caso, para el cumplimiento de los objetivos de la Ley y, particularmente, en los siguientes aspectos: Párrafo reformado DOF 26-04-2021
+De acuerdo con lo previsto en la Ley Orgánica de la Administración Pública Federal, la Secretaría de Agricultura y Desarrollo Rural, se coordinará con la [Secretaría](articulo-7.md) y con la participación de la [Comisión](articulo-7.md), en su caso, para el cumplimiento de los objetivos de la Ley y, particularmente, en los siguientes aspectos: Párrafo reformado DOF 26-04-2021
 
 I. Fomentar la investigación forestal y el desarrollo de sistemas agrosilvopastoriles en la conservación y restauración de los bosques, el manejo forestal sustentable, así como la captación e infiltración de agua pluvial en terrenos forestales;
 

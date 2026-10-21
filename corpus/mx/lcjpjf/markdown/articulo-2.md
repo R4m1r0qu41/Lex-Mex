@@ -41,7 +41,7 @@ XI. Pleno: Pleno del Órgano de Administración Judicial;
 
 XII. Presidenta/Presidente: Presidenta o Presidente del Órgano de Administración Judicial;
 
-XIII. Registro Único: Registro Único de Personas Servidoras Públicas de la [Carrera Judicial](articulo-2.md);
+XIII. Registro Único: Registro Único de Personas Servidoras Públicas de la Carrera Judicial;
 
 XIV. Suprema Corte: Suprema Corte de Justicia de la Nación;
 

@@ -19,4 +19,4 @@ source_sha256: f6af373e0f5b95596b4e54f4ccd2e0270fcc85bd4f05fb43da775de2f53c9ff7
 
 Los programas institucionales en materia de vivienda deberán ajustarse a la Ley de Planeación y a lo dispuesto por esta Ley y el Programa Nacional de Vivienda.
 
-Las entidades de la Administración Pública Federal que lleven a cabo programas de vivienda u otorguen financiamiento, deberán enviar sus programas operativos anuales a la [Comisión](articulo-4.md) para su opinión, la cual será remitida a la [Secretaría](articulo-4.md) de Hacienda y Crédito Público, a fin de que se considere en el proceso de presupuestación.
+Las entidades de la Administración Pública Federal que lleven a cabo programas de vivienda u otorguen financiamiento, deberán enviar sus programas operativos anuales a la [Comisión](articulo-4.md) para su opinión, la cual será remitida a la Secretaría de Hacienda y Crédito Público, a fin de que se considere en el proceso de presupuestación.

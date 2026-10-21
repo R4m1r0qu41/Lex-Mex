@@ -17,6 +17,6 @@ source_sha256: f16b066f28d00980415d75d52b7165cbba892a37c4881f3b6b6cf122c57eb926
 
 # Artículo 33
 
-Corresponde a la [Secretaría](articulo-2.md) del Trabajo y Previsión Social por sí, o en colaboración con la Secretaría, supervisar por medio de inspecciones, el cumplimiento de las disposiciones nacionales e internacionales respecto a las condiciones mínimas de trabajo de los tripulantes mexicanos a bordo de embarcaciones y artefactos navales mexicanos o, tratándose de embarcaciones y artefactos navales extranjeros, cuando se encuentren en puertos mexicanos o en el mar territorial y aguas interiores.
+Corresponde a la Secretaría del Trabajo y Previsión Social por sí, o en colaboración con la [Secretaría](articulo-2.md), supervisar por medio de inspecciones, el cumplimiento de las disposiciones nacionales e internacionales respecto a las condiciones mínimas de trabajo de los tripulantes mexicanos a bordo de embarcaciones y artefactos navales mexicanos o, tratándose de embarcaciones y artefactos navales extranjeros, cuando se encuentren en puertos mexicanos o en el mar territorial y aguas interiores.
 
 Artículo reformado DOF 19-12-2016, 07-12-2020

@@ -496,15 +496,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:37:term-usage:1729-1736",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:37",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:sistema",
-    "span": "Sistema",
-    "start_char": 1729,
-    "end_char": 1736
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:38:term-usage:46-70",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:38",
     "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",

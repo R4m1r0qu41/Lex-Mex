@@ -1,5 +1,136 @@
 # Architecture decisions
 
+## 2026-10-20 — Codex review of the rulings branch: accepted-gap refreshes are published; parsed partial repeals keep their provenance
+
+**Source.** Codex's review of `parser/operator-rulings-2026-10-20` at `1647daaa8` (`docs/batch-fixes-and-rulings-review-2026-10-20.md` in the DB worktree). Both findings were fixed without an operator decision, under the operator's standing instruction.
+
+**P1: accepted-gap glossary refreshes were missing from batch publication.**
+- **Cause.** The corpus closure's glossary-only refresh rewrote terms, usages and repository Markdown for an accepted-gap instrument. But it reported only accepted relinks, so a batch never republished such an instrument to an external Obsidian vault.
+- **Repair.**
+  - `CorpusClosureReport.glossary_refreshed_instruments` and `BatchClosureReport.glossary_refreshed` name these instruments.
+  - The batch republishes their exports.
+  - It does not run the ordinary validation on them, because their recorded reference errors stand; the closure has already checked their coverage.
+  - `relinked` in the batch report is documented as including relinks outside the batch.
+- **Tests.**
+  - `batch_closure_republishes_an_accepted_gap_instrument_whose_glossary_alone_it_refreshed`: an accepted-gap law outside the batch takes the admitted title's boundary. Its references stay identical, its repository and vault exports refresh, the report names it, and repeating the closure changes nothing.
+  - `batch_closure_rereads_the_alias_catalog_as_a_usage_boundary`: the alias-catalog test Codex asked for.
+
+**P2: ltfccg Article 16 lost reproducible machine provenance on reparse.**
+- **Cause.** The parser now classifies a partial repeal itself and records its scope. `repair_partial_repeals` handles only stored whole repeals, and derivation Rule B skips partial ones, so nothing promoted it.
+- **Repair (`derive_article_temporal_determinations`, "Rule A, partial").** An untouched `PartiallyRepealed` article is promoted as `deterministic_rule` / 1.0 / `machine_accepted` only when its opening note still parses to exactly its recorded repeal scope. No commencement date is set for the remaining text. Reviewed provisions are not touched.
+- **Test:** `a_parsed_partial_repeal_is_promoted_only_while_its_note_matches_its_scope`. It covers a widened scope, a lawyer-verified copy and idempotence.
+- **Effect.** `derive-temporal ltfccg` restores Article 16. Its temporal fields equal the pre-reparse commit `7ae8329ab` exactly. No other instrument was re-derived.
+
+**Measured:**
+- 382 tests pass;
+- `link --all` relinks 0 and rejects exactly the 5 accepted gaps;
+- every instrument validates.
+
+## 2026-10-20 — Institution names, LGEEPA imports and ltfccg IX
+
+**Operator (2026-10-20):**
+- On D1: "the false Ambiente and Proteccion should't be that hard to fix … when in doubt use the full exact name".
+- On D2: "LAN … just with it". This confirms lan XVI.
+- On D3: "valudor profesionale es is s definition. read IX a one-off profile".
+- Standing instruction: "when you encounter an issue, look for the surrounding context to see if it can be fixed, without my input".
+
+**Institution names are usage boundaries (`lex-cli` `institution_names`).**
+- **Source of the names.** A glossary that defines a term by an institution's full name prints that name: `Secretaría: Secretaría de Medio Ambiente y Recursos Naturales`; `Procuraduría: La Procuraduría Federal de Protección al Ambiente`. Every such name in the corpus, own or committed, joins the title spans.
+- **The rule.** It is the title rule. A usage lying inside a name is dropped unless the term's own definition names it.
+  - Kept: `Procuraduría` defined as PROFEPA, inside PROFEPA's name.
+  - Dropped: LGEEPA's `Ambiente` inside PROFEPA's name.
+  - Dropped: a `Secretaría` defined as the Secretaría de Economía, inside "Secretaría de Hacienda y Crédito Público".
+- **Which names count.** At least three words. A name that refers to another body inside it does not count:
+  - one ending in an institution word or an abbreviation (`Consejo Técnico del Instituto`, `Consejo Consultivo de la AMEXCID`);
+  - one with an institution word followed by a connector or the end (`Fiscalía Especializada de la Fiscalía y de las Procuradurías`).
+  
+  These were checked against a hand-reviewed sample of 35 drops.
+- **Nested names.** A name nested in a title counts like a nested title. `Tribunal` inside "Ley Orgánica del Tribunal Federal de Justicia Administrativa" is the defined Tribunal and stays. The same holds for `Sistema Nacional Anticorrupción` and `Fondo Mexicano del Petróleo`. Usages of this kind are restored in 33 instruments.
+- **Test:** `a_term_inside_an_institution_name_a_glossary_defines_is_not_a_usage`.
+- **Measured** (census `link --all`, with the two imports below configured): usages 99,516 → 97,733, removed in 167 instruments.
+  - **By term:** `Secretaría` 993 (a ministry other than the defined one), `Comisión` 158, `Valores` 132 (inside "Comisión Nacional Bancaria y de Valores" and "Registro Nacional de Valores"), `Instituto` 46, `Víctima` 37, …, LGEEPA's `Ambiente` 25 and `Protección` 24.
+  - **lritf** loses 9 `Valores` inside those two names. ifpe-dcg-2021 loses 3.
+  - References are unchanged at 35,950.
+
+**LGEEPA imports (A5, A6), now applied.** `reg-lgeepa-maaa` (Reglamento de la LGEEPA en materia de Autorregulación y Auditorías Ambientales) imports LGEEPA Article 3 and `lic-calidad` Article 4, per LIC Transitorio NOVENO. `reg-lgeepa-mretc` (Reglamento de la LGEEPA en materia de Registro de Emisiones y Transferencia de Contaminantes) imports LGEEPA Article 3.
+
+These matches remained after the name rule, and each was decided from its context:
+- **Pinned exclusions, 11:**
+  - LGEEPA's title printed jointly with the LFMN's ("las Leyes General del Equilibrio Ecológico y la Protección al Ambiente, y Federal sobre …", 2);
+  - two former regulations' titles (3);
+  - the LIC's `Verificación` used for an environmental auditor's verification of an audit Plan de Acción (6). The LIC defines Verificación as authorities checking conformity with NOMs.
+- **Kept:**
+  - `Agencia` inside "Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos" (the defined ASEA);
+  - `Registro` inside mretc's own title (the defined RETC).
+
+**ltfccg IX (D3).** A reviewed profile reads "Valuador profesional", the term IX writes before `es`; the other fractions are read by the shared rule. This releases ltfccg's glossary: 10 terms, 86 usages.
+
+**Final, at commit:**
+- terms 5,766, usages 97,808;
+- maaa 495 → 497, mretc 147 → 145;
+- `link --all` gives the 5 accepted gaps, references 35,950;
+- every instrument validates;
+- 379 tests pass.
+
+**lan XVI (D2).** "Región hidrológica" and "Región Hidrológico - Administrativa" are confirmed.
+
+## 2026-10-20 — ltfccg reparsed from its unchanged source; fi-dcg-2014 re-ingested from CNBV's new edition
+
+**Operator (2026-10-20):** "B1 yes, b2, yes" (`docs/operator-decisions-2026-10-20.md`).
+
+**ltfccg (B1): no new edition.**
+- **Source.** The live Diputados PDF has the committed fingerprint: source `1764c89e…` and extracted text `3a0c7e58…`. The re-fetch retained it, and its manifest was restored unchanged.
+- **Parse.** The current parser reads the separator-form headings from the 2026-10-20 batch.
+  - 8 chapter and title headings no longer end the previous article (Articles 3, 5, 6, 7 Ter, 9, 12, 14 and 15; "Capítulo II.- Información Previa" …).
+  - 23 heading contexts are filled.
+  - Transitorio SEGUNDO loses its 2002 signing and promulgation block, under the existing signature-is-apparatus rule. With it goes the one reference to CPEUM Article 89, inside the promulgation formula (18 → 17 references).
+  - The reform evidence gains the 2014-01-10 decree's Transitorio QUINCUAGÉSIMO CUARTO.
+- **Temporal.** `derive-temporal` was rerun, as for the 2026-10-19 reparse of instruments that carry machine classifications. It reproduces every committed classification, with one exception.
+  - Article 16 stays `partially_repealed` but loses its machine acceptance: `deterministic_rule` / `machine_accepted` / 1.0 becomes unset / `not_analyzed`.
+  - The current parser classifies the partial repeal itself, and `repair_partial_repeals`, which had accepted it, only reclassifies `repealed` articles.
+  - No lawyer-verified provision exists.
+- **Glossary still held:** "IX. Valuador profesional es la persona que…" defines its term with `es`, not the glossary's `.` delimiter. It is not a heading leak. Asked as D3.
+
+**fi-dcg-2014 (B2): new CNBV edition.**
+- **Source.** Last modified 2026-08-07 (ETag `,31` → `,35`). Source `30cec2ba…` → `3b21198e…`; text `55649233…` → `dedd2da0…`.
+- **Text.**
+  - **New:** Article 6 Bis, on funds specialized by the investment-asset classes of Annex 1.
+  - **Amended:** Article 1 (new ASG investment-asset definitions), 9, 14 Bis, 80, 81, 119, 123 and 136.
+  - **Layout only:** 6 articles differ by a paragraph break versus a space (64, 64 Bis 1, 64 Bis 46, 66, 67, 75).
+  - **Marks:** 8 amendment marks change.
+- **Glossary released.** It was held at a fraction IV sequence break; the new edition's Article 1 detects whole: 25 terms, 278 usages.
+- **References:** 170.
+- **Temporal.** `derive-temporal` reproduces all 43 committed `repealed` classifications. Commencement stays unresolved (two ordinary transitories mention entry into force). The new Article 6 Bis is `not_analyzed`.
+  - `temporal-analysis-request.json` describes the old text. It is not regenerated here: `analyze-temporal` rebuilds it when the instrument is analyzed.
+- **Count baseline re-frozen, deliberately:** `expected_articles` 232 → 233, `proposed_at` 2026-10-21. Validation failed only on this count before the re-freeze.
+
+## 2026-10-20 — Operator rulings A1–A6: lgcs's terms stand, "la presente Ley", LIEPS I b), lan's quoted senses (`glossary-extraction-6`); the LGEEPA imports wait
+
+**Operator (2026-10-20),** answering `docs/operator-decisions-2026-10-20.md`. The operator's words are quoted there.
+
+- **A1 (lgcs).** "Yes the 7 remaing still stand." lgcs keeps its 7 terms. This does not rule on the restored pre-2022 definitions, which the source does not print; they stay absent.
+- **A2 ("la presente Ley").** "keep dorped". The 13 usages of `Ley` inside the instrument's own full title (lmigra 9, lgscmm 4) stay dropped. No self-reference binding is added.
+- **A3 (LIEPS 3 I b)).** "exclude". A 12th reviewed usage exclusion pins `azúcar` at character 690, which is in the ingredient list of bebidas refrescantes and is not the defined `Azúcares`. LIEPS usages go 316 → 315.
+- **A4 (lan XL b.).** ""Permisos de Descarga" in full should link to it same rulling as LIEPS VIII".
+  - **Rule (`lex-parse` `quoted_sense_incisos`, established pass).** A fraction can give its senses as lettered incisos, from `a` in order, at least two, each opening with a quoted name and a colon. Such a fraction also defines each inciso name that differs from the fraction's own term, with its inciso locator. An inciso that repeats the parent's name adds nothing: lan XL a. is `Permisos` again. Incisos that do not each open with a quoted name are a list inside the definition, not senses.
+  - **Strategy:** `glossary-extraction-6`. The 6 profile adapters and the coverage schema move with it.
+  - **Test:** `a_fraction_whose_incisos_quote_its_senses_defines_each_new_name`.
+  - **lan XL:** `Permisos de Descarga` (XL b.). "Permiso de Descarga" in Articles 92, 93 and 93 Bis now links to it whole (singular variant). It replaces the split `Permisos` + `Descarga` usages there (6 removed, 3 added). The name in XL b. itself is its definition site.
+  - **lan XVI, same rule, not separately ruled.** After "Cuenca Hidrológica", XVI says "Para los fines de esta Ley, se considera como: a. “Región hidrológica”: … b. "Región Hidrológico - Administrativa": …", and both names are now terms. No usage changes: lan never prints either name as defined. Confirmed by the operator on 2026-10-20 ("LAN … just with it").
+  - **Census** (`link --all` with the rule, before the version bump): only lan's terms change. lan goes 79 → 82 terms and 215 → 211 usages.
+- **A5 (reg-lgeepa-maaa)** "Link to the new Ley de Infraestructura de la calidad, in terms of Transitorio NOVENO". **A6 (reg-lgeepa-mretc)** "link to LGEEPA only".
+  - **Basis for A5:** `urn:lex-mx:federal:statute:lic-calidad:transitory:noveno`. References to the LFMN "por lo que hace a cuestiones sobre normalización, evaluación de la conformidad y metrología, se entenderán a los referidos en la Ley de Infraestructura de la Calidad".
+  - **Configured and probed, not committed.** maaa imported LGEEPA Article 3 plus `lic-calidad` Article 4; mretc imported LGEEPA Article 3. The only word defined in both LGEEPA and the LIC is `Secretaría`. maaa defines its own, which takes priority, so no precedence question arises.
+  - **The imports add only false matches:**
+    - **maaa** +19: 12 are `Ambiente` or `Protección` inside "Secretaría de Medio Ambiente y Recursos Naturales", "Procuraduría Federal de Protección al Ambiente", the ASEA name, or LGEEPA's title as printed ("las Leyes General del Equilibrio Ecológico y la Protección al Ambiente"). The other 7 are the LIC's `Verificación`, defined as authorities checking compliance with NOMs, used for checking an environmental-audit action plan.
+    - **mretc** +16: 13 `Ambiente` or `Protección` inside the same names; 2 `Contaminante` in "Registro de Emisiones y Transferencia de Contaminantes"; 1 `Residuo` inside an old regulation's title.
+  - **Wider than the imports.** Usages inside those agency names already exist elsewhere: 61, in lgeepa 49, ldrs 7 and lbogm 5.
+  - **Applied** after D1 (see "Institution names, LGEEPA imports and ltfccg IX" above), as these adapter blocks:
+    - `reg-lgeepa-maaa`: `"glossary": {"provision_suffix": ":article:2", "style": "auto_whole", "additive_to": ["urn:lex-mx:federal:statute:lgeepa:article:3", "urn:lex-mx:federal:statute:lic-calidad:article:4"]}`;
+    - `reg-lgeepa-mretc`: `"glossary": {"provision_suffix": ":article:3", "style": "auto_whole", "additive_to": ["urn:lex-mx:federal:statute:lgeepa:article:3"]}`.
+
+**Measured:** see the commit; `link --all` and validation run on the committed code.
+
 ## 2026-10-20 — Codex batch review: batch completion closes the corpus; title containment repaired
 
 **Source:** Codex's review of `parser/pending-batch` at `cf8eed626` (`docs/parser-batch-review-2026-10-20.md` in the DB worktree, drafted). The operator chose to fix both findings before the batch merges (B3, `docs/operator-decisions-2026-10-20.md`).

@@ -487,15 +487,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:36:term-usage:891-908",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:36",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:comision-nacional",
-    "span": "Comisión Nacional",
-    "start_char": 891,
-    "end_char": 908
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:36-bis:term-usage:306-323",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:36-bis",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:comision-nacional",

@@ -20,7 +20,7 @@ source_sha256: a15012b33a415083f7714764c86fda8ed0078d3f5313dfc194c503f98a573a2a
 
 # Artículo 218 Bis
 
-Corresponde a la [Secretaría](articulo-3.md) de Cultura:
+Corresponde a la Secretaría de Cultura:
 
 I. Promover la transmisión de programas de interés cultural y cívico;
 

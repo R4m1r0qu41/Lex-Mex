@@ -10,24 +10,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbogm:article:2:term-usage:960-972",
-    "provision_id": "urn:lex-mx:federal:statute:lbogm:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lbogm:term:bioseguridad",
-    "span": "Bioseguridad",
-    "start_char": 960,
-    "end_char": 972
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbogm:article:2:term-usage:980-990",
-    "provision_id": "urn:lex-mx:federal:statute:lbogm:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lbogm:term:organismo",
-    "span": "Organismos",
-    "start_char": 980,
-    "end_char": 990
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lbogm:article:2:term-usage:1042-1053",
     "provision_id": "urn:lex-mx:federal:statute:lbogm:article:2",
     "term_id": "urn:lex-mx:federal:statute:lbogm:term:secretarias",
@@ -64,24 +46,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbogm:article:2:term-usage:2245-2257",
-    "provision_id": "urn:lex-mx:federal:statute:lbogm:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lbogm:term:bioseguridad",
-    "span": "Bioseguridad",
-    "start_char": 2245,
-    "end_char": 2257
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbogm:article:2:term-usage:2265-2275",
-    "provision_id": "urn:lex-mx:federal:statute:lbogm:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lbogm:term:organismo",
-    "span": "Organismos",
-    "start_char": 2265,
-    "end_char": 2275
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lbogm:article:2:term-usage:3295-3303",
     "provision_id": "urn:lex-mx:federal:statute:lbogm:article:2",
     "term_id": "urn:lex-mx:federal:statute:lbogm:term:cibiogem",
@@ -97,24 +61,6 @@
     "span": "Secretaría",
     "start_char": 606,
     "end_char": 616
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbogm:article:3:term-usage:3574-3586",
-    "provision_id": "urn:lex-mx:federal:statute:lbogm:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lbogm:term:bioseguridad",
-    "span": "Bioseguridad",
-    "start_char": 3574,
-    "end_char": 3586
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbogm:article:3:term-usage:3594-3604",
-    "provision_id": "urn:lex-mx:federal:statute:lbogm:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lbogm:term:organismo",
-    "span": "Organismos",
-    "start_char": 3594,
-    "end_char": 3604
   },
   {
     "schema_version": "0.1.0",
@@ -136,33 +82,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbogm:article:3:term-usage:8901-8913",
-    "provision_id": "urn:lex-mx:federal:statute:lbogm:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lbogm:term:bioseguridad",
-    "span": "Bioseguridad",
-    "start_char": 8901,
-    "end_char": 8913
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbogm:article:3:term-usage:8921-8931",
-    "provision_id": "urn:lex-mx:federal:statute:lbogm:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lbogm:term:organismo",
-    "span": "Organismos",
-    "start_char": 8921,
-    "end_char": 8931
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbogm:article:3:term-usage:9264-9278",
-    "provision_id": "urn:lex-mx:federal:statute:lbogm:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lbogm:term:medio-ambiente",
-    "span": "Medio Ambiente",
-    "start_char": 9264,
-    "end_char": 9278
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lbogm:article:3:term-usage:9421-9431",
     "provision_id": "urn:lex-mx:federal:statute:lbogm:article:3",
     "term_id": "urn:lex-mx:federal:statute:lbogm:term:secretarias",
@@ -178,24 +97,6 @@
     "span": "Secretaría",
     "start_char": 9519,
     "end_char": 9529
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbogm:article:3:term-usage:9533-9547",
-    "provision_id": "urn:lex-mx:federal:statute:lbogm:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lbogm:term:medio-ambiente",
-    "span": "Medio Ambiente",
-    "start_char": 9533,
-    "end_char": 9547
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbogm:article:3:term-usage:9587-9597",
-    "provision_id": "urn:lex-mx:federal:statute:lbogm:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lbogm:term:secretarias",
-    "span": "Secretaría",
-    "start_char": 9587,
-    "end_char": 9597
   },
   {
     "schema_version": "0.1.0",
@@ -232,15 +133,6 @@
     "span": "Secretaría",
     "start_char": 1004,
     "end_char": 1014
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbogm:article:7:term-usage:1018-1032",
-    "provision_id": "urn:lex-mx:federal:statute:lbogm:article:7",
-    "term_id": "urn:lex-mx:federal:statute:lbogm:term:medio-ambiente",
-    "span": "Medio Ambiente",
-    "start_char": 1018,
-    "end_char": 1032
   },
   {
     "schema_version": "0.1.0",
@@ -856,24 +748,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbogm:article:27:term-usage:129-141",
-    "provision_id": "urn:lex-mx:federal:statute:lbogm:article:27",
-    "term_id": "urn:lex-mx:federal:statute:lbogm:term:bioseguridad",
-    "span": "Bioseguridad",
-    "start_char": 129,
-    "end_char": 141
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbogm:article:27:term-usage:149-159",
-    "provision_id": "urn:lex-mx:federal:statute:lbogm:article:27",
-    "term_id": "urn:lex-mx:federal:statute:lbogm:term:organismo",
-    "span": "Organismos",
-    "start_char": 149,
-    "end_char": 159
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lbogm:article:27:term-usage:200-208",
     "provision_id": "urn:lex-mx:federal:statute:lbogm:article:27",
     "term_id": "urn:lex-mx:federal:statute:lbogm:term:cibiogem",
@@ -1441,15 +1315,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbogm:article:76:term-usage:309-319",
-    "provision_id": "urn:lex-mx:federal:statute:lbogm:article:76",
-    "term_id": "urn:lex-mx:federal:statute:lbogm:term:secretarias",
-    "span": "Secretaría",
-    "start_char": 309,
-    "end_char": 319
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lbogm:article:77:term-usage:110-118",
     "provision_id": "urn:lex-mx:federal:statute:lbogm:article:77",
     "term_id": "urn:lex-mx:federal:statute:lbogm:term:semarnat",
@@ -1738,15 +1603,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbogm:article:99:term-usage:166-176",
-    "provision_id": "urn:lex-mx:federal:statute:lbogm:article:99",
-    "term_id": "urn:lex-mx:federal:statute:lbogm:term:secretarias",
-    "span": "Secretaría",
-    "start_char": 166,
-    "end_char": 176
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lbogm:article:101:term-usage:92-95",
     "provision_id": "urn:lex-mx:federal:statute:lbogm:article:101",
     "term_id": "urn:lex-mx:federal:statute:lbogm:term:ssa",
@@ -1765,30 +1621,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbogm:article:101:term-usage:742-752",
-    "provision_id": "urn:lex-mx:federal:statute:lbogm:article:101",
-    "term_id": "urn:lex-mx:federal:statute:lbogm:term:secretarias",
-    "span": "Secretaría",
-    "start_char": 742,
-    "end_char": 752
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lbogm:article:101:term-usage:1154-1161",
     "provision_id": "urn:lex-mx:federal:statute:lbogm:article:101",
     "term_id": "urn:lex-mx:federal:statute:lbogm:term:sagarpa",
     "span": "SAGARPA",
     "start_char": 1154,
     "end_char": 1161
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbogm:article:101:term-usage:1189-1199",
-    "provision_id": "urn:lex-mx:federal:statute:lbogm:article:101",
-    "term_id": "urn:lex-mx:federal:statute:lbogm:term:secretarias",
-    "span": "Secretaría",
-    "start_char": 1189,
-    "end_char": 1199
   },
   {
     "schema_version": "0.1.0",
@@ -1810,15 +1648,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbogm:article:101:term-usage:1662-1672",
-    "provision_id": "urn:lex-mx:federal:statute:lbogm:article:101",
-    "term_id": "urn:lex-mx:federal:statute:lbogm:term:secretarias",
-    "span": "Secretaría",
-    "start_char": 1662,
-    "end_char": 1672
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lbogm:article:102:term-usage:498-505",
     "provision_id": "urn:lex-mx:federal:statute:lbogm:article:102",
     "term_id": "urn:lex-mx:federal:statute:lbogm:term:sagarpa",
@@ -1834,15 +1663,6 @@
     "span": "SSA",
     "start_char": 510,
     "end_char": 513
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbogm:article:102:term-usage:519-529",
-    "provision_id": "urn:lex-mx:federal:statute:lbogm:article:102",
-    "term_id": "urn:lex-mx:federal:statute:lbogm:term:secretarias",
-    "span": "Secretaría",
-    "start_char": 519,
-    "end_char": 529
   },
   {
     "schema_version": "0.1.0",

@@ -1846,15 +1846,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmtr:article:56:term-usage:449-457",
-    "provision_id": "urn:lex-mx:federal:statute:lmtr:article:56",
-    "term_id": "urn:lex-mx:federal:statute:lmtr:term:comision",
-    "span": "Comisión",
-    "start_char": 449,
-    "end_char": 457
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lmtr:article:56:term-usage:697-705",
     "provision_id": "urn:lex-mx:federal:statute:lmtr:article:56",
     "term_id": "urn:lex-mx:federal:statute:lmtr:term:comision",
@@ -8272,15 +8263,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmtr:transitory:quinto:term-usage:480-488",
-    "provision_id": "urn:lex-mx:federal:statute:lmtr:transitory:quinto",
-    "term_id": "urn:lex-mx:federal:statute:lmtr:term:comision",
-    "span": "Comisión",
-    "start_char": 480,
-    "end_char": 488
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lmtr:transitory:sexto:term-usage:58-66",
     "provision_id": "urn:lex-mx:federal:statute:lmtr:transitory:sexto",
     "term_id": "urn:lex-mx:federal:statute:lmtr:term:comision",
@@ -8305,15 +8287,6 @@
     "span": "Comisión",
     "start_char": 1364,
     "end_char": 1372
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmtr:transitory:noveno:term-usage:1426-1434",
-    "provision_id": "urn:lex-mx:federal:statute:lmtr:transitory:noveno",
-    "term_id": "urn:lex-mx:federal:statute:lmtr:term:comision",
-    "span": "Comisión",
-    "start_char": 1426,
-    "end_char": 1434
   },
   {
     "schema_version": "0.1.0",
@@ -8407,30 +8380,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmtr:transitory:decimo-sexto:term-usage:380-388",
-    "provision_id": "urn:lex-mx:federal:statute:lmtr:transitory:decimo-sexto",
-    "term_id": "urn:lex-mx:federal:statute:lmtr:term:comision",
-    "span": "Comisión",
-    "start_char": 380,
-    "end_char": 388
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lmtr:transitory:decimo-octavo:term-usage:423-431",
     "provision_id": "urn:lex-mx:federal:statute:lmtr:transitory:decimo-octavo",
     "term_id": "urn:lex-mx:federal:statute:lmtr:term:comision",
     "span": "Comisión",
     "start_char": 423,
     "end_char": 431
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmtr:transitory:decimo-octavo:term-usage:470-478",
-    "provision_id": "urn:lex-mx:federal:statute:lmtr:transitory:decimo-octavo",
-    "term_id": "urn:lex-mx:federal:statute:lmtr:term:comision",
-    "span": "Comisión",
-    "start_char": 470,
-    "end_char": 478
   },
   {
     "schema_version": "0.1.0",
@@ -8443,30 +8398,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmtr:transitory:decimo-octavo:term-usage:1098-1106",
-    "provision_id": "urn:lex-mx:federal:statute:lmtr:transitory:decimo-octavo",
-    "term_id": "urn:lex-mx:federal:statute:lmtr:term:comision",
-    "span": "Comisión",
-    "start_char": 1098,
-    "end_char": 1106
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lmtr:transitory:decimo-noveno:term-usage:143-151",
     "provision_id": "urn:lex-mx:federal:statute:lmtr:transitory:decimo-noveno",
     "term_id": "urn:lex-mx:federal:statute:lmtr:term:comision",
     "span": "Comisión",
     "start_char": 143,
     "end_char": 151
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmtr:transitory:decimo-noveno:term-usage:193-201",
-    "provision_id": "urn:lex-mx:federal:statute:lmtr:transitory:decimo-noveno",
-    "term_id": "urn:lex-mx:federal:statute:lmtr:term:comision",
-    "span": "Comisión",
-    "start_char": 193,
-    "end_char": 201
   },
   {
     "schema_version": "0.1.0",
@@ -8575,15 +8512,6 @@
     "span": "Internet",
     "start_char": 124,
     "end_char": 132
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmtr:transitory:trigesimo-primero:term-usage:173-181",
-    "provision_id": "urn:lex-mx:federal:statute:lmtr:transitory:trigesimo-primero",
-    "term_id": "urn:lex-mx:federal:statute:lmtr:term:comision",
-    "span": "Comisión",
-    "start_char": 173,
-    "end_char": 181
   },
   {
     "schema_version": "0.1.0",

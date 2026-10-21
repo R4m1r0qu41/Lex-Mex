@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-5",
+  "strategy_version": "glossary-extraction-6",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-lgn",
   "source_sha256": "ea6e39560929f2e1998b2dabe0852fde0d684c69e5be49aab7f33433299bbeb0",
   "extracted_text_sha256": "8fd573957ffea45054f19cc85d388d9d6e1b1cab2f1f97a8e77112b3beb58a6a",
@@ -41,5 +41,5 @@
   ],
   "imports": [],
   "term_count": 21,
-  "usage_count": 980
+  "usage_count": 972
 }

@@ -81,7 +81,7 @@ XXXI. Política Nacional de Adaptación: Proceso de identificación de necesidad
 
 XXXII. Protocolo de Kioto: Protocolo de Kioto de la Convención Marco de las Naciones Unidas sobre el Cambio Climático. Fracción recorrida DOF 13-07-2018
 
-XXXIII. Reducciones certificadas de emisiones: Reducciones de emisiones expresadas en toneladas de bióxido de carbono equivalentes y logradas por actividades o proyectos, que fueron certificadas por alguna entidad autorizada para dichos efectos. Fracción recorrida DOF 13-07-2018 XXXIV. Registro: Registro Nacional de [Emisiones](articulo-3o.md). Fracción recorrida DOF 13-07-2018
+XXXIII. Reducciones certificadas de emisiones: Reducciones de emisiones expresadas en toneladas de bióxido de carbono equivalentes y logradas por actividades o proyectos, que fueron certificadas por alguna entidad autorizada para dichos efectos. Fracción recorrida DOF 13-07-2018 XXXIV. Registro: Registro Nacional de Emisiones. Fracción recorrida DOF 13-07-2018
 
 XXXV. Resiliencia: Capacidad de los sistemas naturales o sociales para recuperarse o soportar los efectos derivados del cambio climático. Fracción recorrida DOF 13-07-2018
 

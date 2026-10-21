@@ -28,6 +28,6 @@ III. Supervisar que la programación dirigida a la población infantil respete l
 
 IV. [Ordenar la suspensión precautoria de las transmisiones que violen las normas previstas en esta Ley en las materias a que se refiere la fracción III, previo apercibimiento, y] Fracción reformada DOF 31-10-2017 Fracción declarada inválida por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 30-08-2022 y publicada DOF 16-12-2022
 
-V. Informar a la [Secretaría](articulo-3.md) de Salud y a la Secretaría de Gobernación, los resultados de las supervisiones realizadas en términos de la fracción III, para que éstas ejerzan sus facultades de sanción.
+V. Informar a la Secretaría de Salud y a la Secretaría de Gobernación, los resultados de las supervisiones realizadas en términos de la fracción III, para que éstas ejerzan sus facultades de sanción.
 
 Para efectos de lo dispuesto en la fracción III del presente artículo, podrá celebrar convenios de colaboración con Dependencias u órganos federales.

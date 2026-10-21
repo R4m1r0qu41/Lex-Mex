@@ -29,7 +29,7 @@ III. Boleto: Documento o registro electrónico autorizado que acredita al portad
 
 IV. Concentración: Procedimiento auxiliar de seguridad para los participantes, a cargo del organizador, que consiste en reunir previamente a la celebración de un sorteo los talones de los boletos participantes, en los términos fijados en el permiso correspondiente;
 
-IV BIS. Consejo Consultivo: al Consejo Consultivo de Juegos y [Sorteos](articulo-3.md); Fracción adicionada DOF 16-11-2023
+IV BIS. Consejo Consultivo: al Consejo Consultivo de Juegos y Sorteos; Fracción adicionada DOF 16-11-2023
 
 V. Dirección: La Dirección General de Juegos y Sorteos, de la [Secretaría](articulo-3.md) de Gobernación; Fracción reformada DOF 19-10-2012
 

@@ -127,15 +127,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmhcti:article:4:term-usage:4713-4729",
-    "provision_id": "urn:lex-mx:federal:statute:lgmhcti:article:4",
-    "term_id": "urn:lex-mx:federal:statute:lgmhcti:term:sistema-nacional",
-    "span": "Sistema Nacional",
-    "start_char": 4713,
-    "end_char": 4729
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgmhcti:article:5:term-usage:546-549",
     "provision_id": "urn:lex-mx:federal:statute:lgmhcti:article:5",
     "term_id": "urn:lex-mx:federal:statute:lgmhcti:term:ley",
@@ -277,15 +268,6 @@
     "span": "Consejo Nacional",
     "start_char": 934,
     "end_char": 950
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmhcti:article:13:term-usage:980-996",
-    "provision_id": "urn:lex-mx:federal:statute:lgmhcti:article:13",
-    "term_id": "urn:lex-mx:federal:statute:lgmhcti:term:consejo-nacional",
-    "span": "Consejo Nacional",
-    "start_char": 980,
-    "end_char": 996
   },
   {
     "schema_version": "0.1.0",
@@ -3889,15 +3871,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmhcti:transitory:segundo:term-usage:64-80",
-    "provision_id": "urn:lex-mx:federal:statute:lgmhcti:transitory:segundo",
-    "term_id": "urn:lex-mx:federal:statute:lgmhcti:term:consejo-nacional",
-    "span": "Consejo Nacional",
-    "start_char": 64,
-    "end_char": 80
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgmhcti:transitory:tercero:term-usage:69-72",
     "provision_id": "urn:lex-mx:federal:statute:lgmhcti:transitory:tercero",
     "term_id": "urn:lex-mx:federal:statute:lgmhcti:term:ley",
@@ -3934,15 +3907,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmhcti:transitory:cuarto:term-usage:243-259",
-    "provision_id": "urn:lex-mx:federal:statute:lgmhcti:transitory:cuarto",
-    "term_id": "urn:lex-mx:federal:statute:lgmhcti:term:consejo-nacional",
-    "span": "Consejo Nacional",
-    "start_char": 243,
-    "end_char": 259
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgmhcti:transitory:cuarto:term-usage:311-314",
     "provision_id": "urn:lex-mx:federal:statute:lgmhcti:transitory:cuarto",
     "term_id": "urn:lex-mx:federal:statute:lgmhcti:term:ley",
@@ -3958,15 +3922,6 @@
     "span": "Ley",
     "start_char": 40,
     "end_char": 43
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmhcti:transitory:quinto:term-usage:167-183",
-    "provision_id": "urn:lex-mx:federal:statute:lgmhcti:transitory:quinto",
-    "term_id": "urn:lex-mx:federal:statute:lgmhcti:term:consejo-nacional",
-    "span": "Consejo Nacional",
-    "start_char": 167,
-    "end_char": 183
   },
   {
     "schema_version": "0.1.0",
@@ -3994,15 +3949,6 @@
     "span": "Consejo Nacional",
     "start_char": 79,
     "end_char": 95
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmhcti:transitory:septimo:term-usage:66-82",
-    "provision_id": "urn:lex-mx:federal:statute:lgmhcti:transitory:septimo",
-    "term_id": "urn:lex-mx:federal:statute:lgmhcti:term:consejo-nacional",
-    "span": "Consejo Nacional",
-    "start_char": 66,
-    "end_char": 82
   },
   {
     "schema_version": "0.1.0",
@@ -4093,15 +4039,6 @@
     "span": "Sistema Nacional de Información",
     "start_char": 286,
     "end_char": 317
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmhcti:transitory:decimo-tercero:term-usage:81-97",
-    "provision_id": "urn:lex-mx:federal:statute:lgmhcti:transitory:decimo-tercero",
-    "term_id": "urn:lex-mx:federal:statute:lgmhcti:term:consejo-nacional",
-    "span": "Consejo Nacional",
-    "start_char": 81,
-    "end_char": 97
   },
   {
     "schema_version": "0.1.0",
@@ -4213,15 +4150,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmhcti:transitory:decimo-sexto:term-usage:231-247",
-    "provision_id": "urn:lex-mx:federal:statute:lgmhcti:transitory:decimo-sexto",
-    "term_id": "urn:lex-mx:federal:statute:lgmhcti:term:consejo-nacional",
-    "span": "Consejo Nacional",
-    "start_char": 231,
-    "end_char": 247
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgmhcti:transitory:decimo-sexto:term-usage:278-294",
     "provision_id": "urn:lex-mx:federal:statute:lgmhcti:transitory:decimo-sexto",
     "term_id": "urn:lex-mx:federal:statute:lgmhcti:term:centros-publicos",
@@ -4258,15 +4186,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmhcti:transitory:decimo-septimo:term-usage:105-121",
-    "provision_id": "urn:lex-mx:federal:statute:lgmhcti:transitory:decimo-septimo",
-    "term_id": "urn:lex-mx:federal:statute:lgmhcti:term:consejo-nacional",
-    "span": "Consejo Nacional",
-    "start_char": 105,
-    "end_char": 121
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgmhcti:transitory:decimo-septimo:term-usage:155-171",
     "provision_id": "urn:lex-mx:federal:statute:lgmhcti:transitory:decimo-septimo",
     "term_id": "urn:lex-mx:federal:statute:lgmhcti:term:centros-publicos",
@@ -4300,15 +4219,6 @@
     "span": "Ley",
     "start_char": 80,
     "end_char": 83
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmhcti:transitory:decimo-noveno:term-usage:146-162",
-    "provision_id": "urn:lex-mx:federal:statute:lgmhcti:transitory:decimo-noveno",
-    "term_id": "urn:lex-mx:federal:statute:lgmhcti:term:consejo-nacional",
-    "span": "Consejo Nacional",
-    "start_char": 146,
-    "end_char": 162
   },
   {
     "schema_version": "0.1.0",

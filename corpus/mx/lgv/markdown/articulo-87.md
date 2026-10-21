@@ -17,6 +17,6 @@ source_sha256: a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8
 
 # Artículo 87
 
-El Comisionado Ejecutivo para el desarrollo de las actividades de la [Comisión Ejecutiva](articulo-6.md) designará a las personas responsables de la [Asesoría Jurídica](articulo-6.md), el [Registro](articulo-6.md) Nacional de [Víctimas](articulo-6.md) y el área responsable de efectuar los pagos que, en su caso, corresponda efectuar a las víctimas por concepto de [Recursos de Ayuda](articulo-6.md), asistencia, reparación integral y compensación.
+El Comisionado Ejecutivo para el desarrollo de las actividades de la [Comisión Ejecutiva](articulo-6.md) designará a las personas responsables de la [Asesoría Jurídica](articulo-6.md), el [Registro](articulo-6.md) Nacional de Víctimas y el área responsable de efectuar los pagos que, en su caso, corresponda efectuar a las víctimas por concepto de [Recursos de Ayuda](articulo-6.md), asistencia, reparación integral y compensación.
 
 Artículo reformado DOF 03-05-2013, 03-01-2017, 06-11-2020

@@ -23,7 +23,7 @@ Para los efectos de esta ley se entenderá por:
 
 I. Ajustes razonables: Las modificaciones y adaptaciones necesarias y adecuadas en la infraestructura y los servicios, que al realizarlas no impongan una carga desproporcionada o afecten derechos de terceros, que se aplican cuando se requieran en un caso particular, para garantizar que las personas gocen o ejerzan sus derechos en igualdad de condiciones con las demás;
 
-II. Consejo: El Consejo Nacional para Prevenir la [Discriminación](articulo-1.md);
+II. Consejo: El Consejo Nacional para Prevenir la Discriminación;
 
 III. Discriminación: Para los efectos de esta ley se entenderá por discriminación toda distinción, exclusión, restricción o preferencia que, por acción u omisión, con intención o sin ella, no sea objetiva, racional ni proporcional y tenga por objeto o resultado obstaculizar, restringir, impedir, menoscabar o anular el reconocimiento, goce o ejercicio de los derechos humanos y libertades, cuando se base en uno o más de los siguientes motivos: el origen étnico o nacional, el color de piel, la cultura, el sexo, el género, la edad, las discapacidades, la condición social, económica, de salud física o mental, jurídica, la religión, la apariencia física, las características genéticas, la situación migratoria, el embarazo, la lengua, las opiniones, las preferencias sexuales, la identidad o filiación política, el estado civil, la situación familiar, las responsabilidades familiares, el idioma, los antecedentes penales o cualquier otro motivo; Párrafo reformado DOF 17-05-2022
 
@@ -49,6 +49,6 @@ VII. Ley: La Ley Federal para Prevenir y Eliminar la Discriminación;
 
 VIII. Poderes públicos federales: Las autoridades, dependencias y entidades del Poder Ejecutivo Federal, de los Poderes Legislativo y Judicial y los organismos constitucionales autónomos;
 
-IX. Programa: El Programa Nacional para la Igualdad y no Discriminación, y
+IX. Programa: El Programa Nacional para la Igualdad y no [Discriminación](articulo-1.md), y
 
 X. Resolución por disposición: Resolución emitida por el Consejo, con carácter vinculante, por medio de la cual se declara que se acreditó una conducta o práctica social discriminatoria, y por tanto, de manera fundada y motivada se imponen medidas administrativas y de reparación a quien resulte responsable de dichas conductas o prácticas. Párrafo con fracciones adicionado DOF 20-03-2014

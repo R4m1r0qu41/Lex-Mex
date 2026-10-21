@@ -19,7 +19,7 @@ source_sha256: b01d875d525d1efbe4edf9f022f58c9afb56fb777581fc9eae1038c212e6b43c
 
 Todos los fideicomisos, fondos, mandatos o contratos análogos que reciban recursos públicos en la Administración Pública Federal Centralizada, sin excepción deberán:
 
-I. Ser constituidos por la [Secretaría](articulo-4.md) de Hacienda y Crédito Público, como fideicomitente único, sólo para el caso de los constituidos por Dependencias; II. Ofrecer información regular cada trimestre en forma oportuna y veraz, con objeto de dar cumplimiento a las obligaciones de transparencia, y observar el principio de rendición de cuentas, de conformidad con la Ley General de Transparencia y Acceso a la Información Pública, la Ley Federal de Presupuesto y Responsabilidad Hacendaria, la Ley General de Responsabilidades Administrativas, la Ley de Fiscalización y Rendición de Cuentas de la Federación y demás disposiciones aplicables;
+I. Ser constituidos por la Secretaría de Hacienda y Crédito Público, como fideicomitente único, sólo para el caso de los constituidos por Dependencias; II. Ofrecer información regular cada trimestre en forma oportuna y veraz, con objeto de dar cumplimiento a las obligaciones de transparencia, y observar el principio de rendición de cuentas, de conformidad con la Ley General de Transparencia y Acceso a la Información Pública, la Ley Federal de Presupuesto y Responsabilidad Hacendaria, la Ley General de Responsabilidades Administrativas, la Ley de Fiscalización y Rendición de Cuentas de la Federación y demás disposiciones aplicables;
 
 III. Publicar trimestralmente sus estados financieros;
 

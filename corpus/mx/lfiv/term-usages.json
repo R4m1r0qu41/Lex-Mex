@@ -73,15 +73,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfiv:article:3:term-usage:941-952",
-    "provision_id": "urn:lex-mx:federal:statute:lfiv:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lfiv:term:productor",
-    "span": "Productores",
-    "start_char": 941,
-    "end_char": 952
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfiv:article:3:term-usage:1224-1228",
     "provision_id": "urn:lex-mx:federal:statute:lfiv:article:3",
     "term_id": "urn:lex-mx:federal:statute:lfiv:term:vino",
@@ -298,33 +289,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfiv:article:9:term-usage:285-295",
-    "provision_id": "urn:lex-mx:federal:statute:lfiv:article:9",
-    "term_id": "urn:lex-mx:federal:statute:lfiv:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 285,
-    "end_char": 295
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfiv:article:9:term-usage:312-322",
-    "provision_id": "urn:lex-mx:federal:statute:lfiv:article:9",
-    "term_id": "urn:lex-mx:federal:statute:lfiv:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 312,
-    "end_char": 322
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfiv:article:9:term-usage:354-364",
-    "provision_id": "urn:lex-mx:federal:statute:lfiv:article:9",
-    "term_id": "urn:lex-mx:federal:statute:lfiv:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 354,
-    "end_char": 364
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfiv:article:9:term-usage:391-401",
     "provision_id": "urn:lex-mx:federal:statute:lfiv:article:9",
     "term_id": "urn:lex-mx:federal:statute:lfiv:term:secretaria",
@@ -334,48 +298,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfiv:article:9:term-usage:414-424",
-    "provision_id": "urn:lex-mx:federal:statute:lfiv:article:9",
-    "term_id": "urn:lex-mx:federal:statute:lfiv:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 414,
-    "end_char": 424
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfiv:article:9:term-usage:447-457",
-    "provision_id": "urn:lex-mx:federal:statute:lfiv:article:9",
-    "term_id": "urn:lex-mx:federal:statute:lfiv:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 447,
-    "end_char": 457
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfiv:article:9:term-usage:499-509",
-    "provision_id": "urn:lex-mx:federal:statute:lfiv:article:9",
-    "term_id": "urn:lex-mx:federal:statute:lfiv:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 499,
-    "end_char": 509
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfiv:article:9:term-usage:824-827",
     "provision_id": "urn:lex-mx:federal:statute:lfiv:article:9",
     "term_id": "urn:lex-mx:federal:statute:lfiv:term:ley",
     "span": "Ley",
     "start_char": 824,
     "end_char": 827
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfiv:article:11:term-usage:47-57",
-    "provision_id": "urn:lex-mx:federal:statute:lfiv:article:11",
-    "term_id": "urn:lex-mx:federal:statute:lfiv:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 47,
-    "end_char": 57
   },
   {
     "schema_version": "0.1.0",
@@ -430,15 +358,6 @@
     "span": "Sector",
     "start_char": 722,
     "end_char": 728
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfiv:article:17:term-usage:25-35",
-    "provision_id": "urn:lex-mx:federal:statute:lfiv:article:17",
-    "term_id": "urn:lex-mx:federal:statute:lfiv:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 25,
-    "end_char": 35
   },
   {
     "schema_version": "0.1.0",
@@ -568,15 +487,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfiv:article:21:term-usage:3-13",
-    "provision_id": "urn:lex-mx:federal:statute:lfiv:article:21",
-    "term_id": "urn:lex-mx:federal:statute:lfiv:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 3,
-    "end_char": 13
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfiv:article:21:term-usage:69-75",
     "provision_id": "urn:lex-mx:federal:statute:lfiv:article:21",
     "term_id": "urn:lex-mx:federal:statute:lfiv:term:sector",
@@ -604,15 +514,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfiv:article:21:term-usage:541-551",
-    "provision_id": "urn:lex-mx:federal:statute:lfiv:article:21",
-    "term_id": "urn:lex-mx:federal:statute:lfiv:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 541,
-    "end_char": 551
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfiv:article:21:term-usage:788-801",
     "provision_id": "urn:lex-mx:federal:statute:lfiv:article:21",
     "term_id": "urn:lex-mx:federal:statute:lfiv:term:vino-mexicano",
@@ -622,30 +523,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfiv:article:22:term-usage:3-13",
-    "provision_id": "urn:lex-mx:federal:statute:lfiv:article:22",
-    "term_id": "urn:lex-mx:federal:statute:lfiv:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 3,
-    "end_char": 13
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfiv:article:22:term-usage:87-93",
     "provision_id": "urn:lex-mx:federal:statute:lfiv:article:22",
     "term_id": "urn:lex-mx:federal:statute:lfiv:term:sector",
     "span": "Sector",
     "start_char": 87,
     "end_char": 93
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfiv:article:23:term-usage:3-13",
-    "provision_id": "urn:lex-mx:federal:statute:lfiv:article:23",
-    "term_id": "urn:lex-mx:federal:statute:lfiv:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 3,
-    "end_char": 13
   },
   {
     "schema_version": "0.1.0",
@@ -673,15 +556,6 @@
     "span": "Viticultura",
     "start_char": 219,
     "end_char": 230
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfiv:article:24:term-usage:3-13",
-    "provision_id": "urn:lex-mx:federal:statute:lfiv:article:24",
-    "term_id": "urn:lex-mx:federal:statute:lfiv:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 3,
-    "end_char": 13
   },
   {
     "schema_version": "0.1.0",
@@ -739,15 +613,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfiv:article:26:term-usage:3-13",
-    "provision_id": "urn:lex-mx:federal:statute:lfiv:article:26",
-    "term_id": "urn:lex-mx:federal:statute:lfiv:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 3,
-    "end_char": 13
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfiv:article:26:term-usage:84-90",
     "provision_id": "urn:lex-mx:federal:statute:lfiv:article:26",
     "term_id": "urn:lex-mx:federal:statute:lfiv:term:sector",
@@ -775,30 +640,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfiv:article:27:term-usage:3-13",
-    "provision_id": "urn:lex-mx:federal:statute:lfiv:article:27",
-    "term_id": "urn:lex-mx:federal:statute:lfiv:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 3,
-    "end_char": 13
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfiv:article:27:term-usage:395-398",
     "provision_id": "urn:lex-mx:federal:statute:lfiv:article:27",
     "term_id": "urn:lex-mx:federal:statute:lfiv:term:vid",
     "span": "Vid",
     "start_char": 395,
     "end_char": 398
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfiv:article:28:term-usage:3-13",
-    "provision_id": "urn:lex-mx:federal:statute:lfiv:article:28",
-    "term_id": "urn:lex-mx:federal:statute:lfiv:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 3,
-    "end_char": 13
   },
   {
     "schema_version": "0.1.0",

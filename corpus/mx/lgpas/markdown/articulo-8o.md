@@ -73,7 +73,7 @@ XXVII. Promover la organización y capacitación para el trabajo pesquero y acu�
 
 XXVIII. Promover y apoyar la investigación, la innovación y el desarrollo tecnológico de la pesca y la acuacultura, así como el fortalecimiento de las capacidades tecnológicas de la planta productiva nacional;
 
-XXIX. La coordinación con [IMIPAS](articulo-4o.md), como organismo público descentralizado responsable de la investigación científica y tecnológica del sector pesquero y de acuacultura nacional; Fracción reformada DOF 07-06-2012, 04-12-2023 XXX. Establecer y operar el Sistema Nacional de Información Pesquera y Acuícola y el [Registro](articulo-4o.md) Nacional de [Pesca](articulo-4o.md) y [Acuacultura](articulo-4o.md), así como mantenerlos actualizados en forma permanente, de conformidad con las disposiciones legales aplicables;
+XXIX. La coordinación con [IMIPAS](articulo-4o.md), como organismo público descentralizado responsable de la investigación científica y tecnológica del sector pesquero y de acuacultura nacional; Fracción reformada DOF 07-06-2012, 04-12-2023 XXX. Establecer y operar el Sistema Nacional de Información Pesquera y Acuícola y el [Registro](articulo-4o.md) Nacional de Pesca y Acuacultura, así como mantenerlos actualizados en forma permanente, de conformidad con las disposiciones legales aplicables;
 
 XXXI. Establecer bases de coordinación con las dependencias y entidades de la Administración Pública Federal y celebrar acuerdos de concertación de acciones con los sectores productivos para la ejecución de programas y proyectos de fomento y desarrollo de las actividades pesqueras y acuícolas;
 
@@ -83,7 +83,7 @@ XXXIII. Promover, en coordinación con las instancias correspondientes de la adm
 
 XXXIV. Promover la inclusión de proyectos de inversión en obra pública a la cartera de programas y proyectos de inversión de la Administración Pública Federal, mediante la concertación y colaboración con los tres órdenes de gobierno y los productores pesqueros y acuícolas;
 
-XXXV. Promover la participación activa de las comunidades y los productores en la administración y manejo de los recursos pesqueros y acuícolas, a través del Consejo Nacional de Pesca y Acuacultura;
+XXXV. Promover la participación activa de las comunidades y los productores en la administración y manejo de los recursos pesqueros y acuícolas, a través del Consejo Nacional de [Pesca](articulo-4o.md) y [Acuacultura](articulo-4o.md);
 
 XXXVI. Determinar, con la participación de las instituciones de investigación, sectores productivos y Consejos Estatales de Pesca y Acuacultura, zonas de repoblación de especies;
 

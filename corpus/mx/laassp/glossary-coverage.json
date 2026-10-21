@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-5",
+  "strategy_version": "glossary-extraction-6",
   "instrument_id": "urn:lex-mx:federal:statute:laassp",
   "source_sha256": "883f6e9c3139d0961de302de7bddcf3262c69884008bb3b2324d57e5d67009fc",
   "extracted_text_sha256": "59997ed82a2312da00ce29087c207d142e64e1480ad3b327eac457a93784aa3d",
@@ -38,5 +38,5 @@
   ],
   "imports": [],
   "term_count": 21,
-  "usage_count": 276
+  "usage_count": 263
 }

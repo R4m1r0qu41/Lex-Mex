@@ -30,6 +30,6 @@ III. Disposiciones aplicables a las operaciones con valores que realicen los dir
 
 IV. Disposiciones de carácter general que señalan los días en que las entidades financieras sujetas a la supervisión de la [Comisión](articulo-1.md) deberán cerrar sus puertas y suspender operaciones.
 
-V. Disposiciones de carácter general aplicables a las entidades y emisoras supervisadas por la Comisión Nacional Bancaria y de [Valores](articulo-1.md) que contraten servicios de auditoría externa de estados financieros básicos.
+V. Disposiciones de carácter general aplicables a las entidades y emisoras supervisadas por la Comisión Nacional Bancaria y de Valores que contraten servicios de auditoría externa de estados financieros básicos.
 
 VI. Las demás que expida la Comisión con posterioridad a estas disposiciones, que resulten aplicables.

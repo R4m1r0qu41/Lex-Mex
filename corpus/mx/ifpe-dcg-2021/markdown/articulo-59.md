@@ -21,7 +21,7 @@ Tratándose de los documentos que contengan solicitudes, informes, reportes y pl
 
 I. Uso de claves criptográficas, conocidas como llaves, asimétricas pública y privada por cada firma electrónica, a fin de garantizar confidencialidad y no repudio, evitando compartir la llave privada.
 
-II. Uso de un certificado digital validado por una agencia certificadora reconocida o por un prestador de servicios de certificación acreditado ante la [Secretaría](../../lritf/markdown/articulo-4.md) de Economía.
+II. Uso de un certificado digital validado por una agencia certificadora reconocida o por un prestador de servicios de certificación acreditado ante la Secretaría de Economía.
 
 III. Incorporación de firma electrónica que permita garantizar la integridad de la información proporcionada.
 

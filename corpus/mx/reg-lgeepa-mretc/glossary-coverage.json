@@ -1,15 +1,15 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-5",
+  "strategy_version": "glossary-extraction-6",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc",
   "source_sha256": "71c334347de911b670b7e920a44db19f2555f611203ec25d227733687972f424",
   "extracted_text_sha256": "b4dedf046312cf1a5c7e44ab44caba93baf0cb1a7ecf84eaa54deba7ab28e1f1",
-  "status": "detected",
+  "status": "configured",
   "glossaries": [
     {
       "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:3",
       "provision_text_sha256": "8a91ee6b6e4d0db642826f1fd5896ba715cf0ee6c9550838d7807a8223790097",
-      "method": "wider_pass",
+      "method": "auto_whole",
       "fractions": [
         "I",
         "I Bis",
@@ -36,7 +36,12 @@
       "term_count": 18
     }
   ],
-  "imports": [],
+  "imports": [
+    {
+      "additive_to": "urn:lex-mx:federal:statute:lgeepa:article:3",
+      "term_count": 44
+    }
+  ],
   "term_count": 18,
-  "usage_count": 147
+  "usage_count": 145
 }

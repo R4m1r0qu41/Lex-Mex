@@ -146,6 +146,11 @@ send a Codex review packet.
 
 ## Current checkpoint
 
+2026-10-20 (operator rulings A1–A6, `glossary-extraction-6`, branch `parser/operator-rulings-2026-10-20`):
+- **Rulings applied.** lgcs's 7 terms stand. "La presente Ley" stays dropped. LIEPS I b) `azúcar` is excluded.
+- **lan's quoted senses.** XL b. defines "Permisos de Descarga", and XVI a./b. read the same way, pending confirmation (D2).
+- **Later the same day.** Institution full names printed by glossaries became usage boundaries (`Ambiente` inside PROFEPA's name; a `Secretaría` defined as Economía inside SHCP's name). The LGEEPA imports of the two regulations are applied, with 11 exclusions decided from context. ltfccg IX is read through a profile, and lan XVI is confirmed.
+
 2026-10-20 (operator-directed batch, `glossary-extraction-5`):
 - **Printed names.** An entry's printed name is its definition site (253 usages removed).
 - **LIEPS.** Reviewed usage exclusions remove its 11 lower-case non-usages; its boundary readings and the lgs correction are confirmed.
@@ -268,15 +273,13 @@ auto-detection gains a wider fallback pass").
 
 ## Next action
 
-The 2026-10-20 batch closes lan XXV, lan's usages, the LIEPS lower-case review and the title-span filter (`docs/decisions.md`). Next:
-- **Codex review of the batch.** The open title-filter question is the "la presente Ley" self-reference: lmigra 9, lgscmm 4.
-- **ltfccg's chapter-heading leak.** The parser now reads the form; a reparse needs source matching its committed `source_sha256` (none is retained).
+The 2026-10-20 batch closes lan XXV, lan's usages, the LIEPS lower-case review and the title-span filter. The rulings branch closes A1–A4 (`docs/decisions.md`). Next:
+- **Spanish-grammar checking plan** (operator, with Grok): fold it in when it arrives.
+- **Re-ingestion of new editions,** operator-authorized (B1, B2): ltfccg and fi-dcg-2014.
 - **Label and boundary holds:**
   - log, servinv-dcg-2013, reg-lftr-mcsre;
   - ladua after its reparse;
-  - fi-dcg-2014, by re-ingesting the new CNBV edition.
-- **The meia and mpcca imports,** which the title-span filter no longer blocks.
+- **The meia and mpcca imports** (LGEEPA Article 3). Re-probe them under the institution-name rule.
 - **The 12 unread fractions** (profiles or rulings).
 
-Operator, legal: whether lgcs's 7 remaining terms stand.
 Operator rulings on glossary scope remain pending except `lss` (both 5 A and 159, ruled 2026-10-18). G3 imports follow accepted originals and scope decisions.

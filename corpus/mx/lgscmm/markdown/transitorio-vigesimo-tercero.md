@@ -15,4 +15,4 @@ source_sha256: 40a949085c5ebbc522c1145f4a48fd04c4d1dc0c18592fd3a665b8d0dabeef87
 
 # Vigésimo Tercero
 
-Para efectos de lo dispuesto en el artículo 106 de la Ley General del Sistema para la Carrera de las Maestras y los Maestros, la información que servirá de base para el censo será aquella que corresponda al inicio del ciclo escolar 2019-2020. Asimismo, las [Secretarías](articulo-7.md) de Educación Pública y de Hacienda y Crédito Público conjuntamente darán a conocer a las autoridades educativas correspondientes el procedimiento y los plazos para la basificación respectiva.
+Para efectos de lo dispuesto en el artículo 106 de la Ley General del [Sistema](articulo-7.md) para la Carrera de las Maestras y los Maestros, la información que servirá de base para el censo será aquella que corresponda al inicio del ciclo escolar 2019-2020. Asimismo, las [Secretarías](articulo-7.md) de Educación Pública y de Hacienda y Crédito Público conjuntamente darán a conocer a las autoridades educativas correspondientes el procedimiento y los plazos para la basificación respectiva.

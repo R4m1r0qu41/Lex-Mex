@@ -21,7 +21,7 @@ La Dirección General de Control de Armamento y Licencia Oficial Colectiva tiene
 
 I. Proponer al [Comandante](articulo-2.md), a través de la Coordinación de Administración y Finanzas, los programas de control y de suministro de armamento y municiones para estandarizar el armamento de la [Institución](articulo-2.md);
 
-II. Coordinar y aplicar, con las unidades correspondientes, el cumplimiento de los requisitos que señale la [Secretaría](articulo-2.md) de la Defensa Nacional con respecto a la licencia oficial colectiva de portación de armas de la Institución;
+II. Coordinar y aplicar, con las unidades correspondientes, el cumplimiento de los requisitos que señale la Secretaría de la Defensa Nacional con respecto a la licencia oficial colectiva de portación de armas de la Institución;
 
 III. Realizar ante las autoridades competentes los trámites relacionados con la licencia oficial colectiva de portación de armas; así como otros permisos o licencias que se requieran en materia de armamento para el cumplimiento de los objetivos de la Institución;
 

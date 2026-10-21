@@ -226,30 +226,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lncm:article:10:term-usage:2999-3016",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lncm:term:direccion-general",
-    "span": "Dirección General",
-    "start_char": 2999,
-    "end_char": 3016
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lncm:article:10:term-usage:4011-4038",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "term_id": "urn:lex-mx:federal:regulation:reg-lncm:term:sustancias-nocivas-liquidas",
     "span": "Sustancias Nocivas Líquidas",
     "start_char": 4011,
     "end_char": 4038
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lncm:article:10:term-usage:4168-4185",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lncm:term:direccion-general",
-    "span": "Dirección General",
-    "start_char": 4168,
-    "end_char": 4185
   },
   {
     "schema_version": "0.1.0",

@@ -15,4 +15,4 @@ source_sha256: a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8
 
 # QUINTO
 
-La [Comisión Ejecutiva](articulo-6.md) de Atención a [Víctimas](articulo-6.md) a que se refiere la presente Ley deberá elegirse dentro de los treinta días naturales a partir de configuración del sistema.
+La [Comisión Ejecutiva](articulo-6.md) de Atención a Víctimas a que se refiere la presente Ley deberá elegirse dentro de los treinta días naturales a partir de configuración del sistema.

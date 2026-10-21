@@ -17,6 +17,6 @@ source_sha256: 40271b07f2d2236f7e4d722d2b61f35db2d82772543dcf4911097efe13697c5e
 
 # Artículo 32
 
-Cada uno de los [Institutos Nacionales de Salud](articulo-2.md) contará con un órgano de vigilancia integrado por un comisario público propietario y un suplente designados por la [Secretaría](articulo-2.md) de la Función Pública, y tendrán las atribuciones que les otorga la Ley Federal de las Entidades Paraestatales.
+Cada uno de los [Institutos Nacionales de Salud](articulo-2.md) contará con un órgano de vigilancia integrado por un comisario público propietario y un suplente designados por la Secretaría de la Función Pública, y tendrán las atribuciones que les otorga la Ley Federal de las Entidades Paraestatales.
 
 Artículo reformado DOF 09-04-2012

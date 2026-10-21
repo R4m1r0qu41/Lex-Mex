@@ -17,7 +17,7 @@ source_sha256: 269e72195414406bcbd3e90ac40ec26e031a9ea519316c44ee30bdfdf3163059
 
 # Artículo 84
 
-El [Instituto](articulo-2o.md) contará con un órgano de vigilancia integrado por un Comisario Público y un Suplente, designados por la [Secretaría](articulo-2o.md) de la Función Pública, quienes tendrán a su cargo las atribuciones que les confieren la Ley Federal de las Entidades Paraestatales, su reglamento y demás disposiciones aplicables.
+El [Instituto](articulo-2o.md) contará con un órgano de vigilancia integrado por un Comisario Público y un Suplente, designados por la Secretaría de la Función Pública, quienes tendrán a su cargo las atribuciones que les confieren la Ley Federal de las Entidades Paraestatales, su reglamento y demás disposiciones aplicables.
 
 El Comisario asistirá, con voz, pero sin voto, a las sesiones de la [Junta de Gobierno](articulo-2o.md) del Instituto.
 

@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-5",
+  "strategy_version": "glossary-extraction-6",
   "instrument_id": "urn:lex-mx:federal:statute:lgappcea",
   "source_sha256": "8d3d1a9b2d2dec12c65695cd5b87d60f76e2f3c64356f73ab6011d7dc40fbe37",
   "extracted_text_sha256": "69b6aa0fd7d2ea56ae6583617448cdbe63988e012f2e15a9b0d34afa2532747f",
@@ -39,5 +39,5 @@
   ],
   "imports": [],
   "term_count": 18,
-  "usage_count": 24
+  "usage_count": 19
 }

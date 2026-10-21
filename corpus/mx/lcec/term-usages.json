@@ -1342,15 +1342,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcec:article:31:term-usage:290-300",
-    "provision_id": "urn:lex-mx:federal:statute:lcec:article:31",
-    "term_id": "urn:lex-mx:federal:statute:lcec:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 290,
-    "end_char": 300
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcec:article:31:term-usage:517-527",
     "provision_id": "urn:lex-mx:federal:statute:lcec:article:31",
     "term_id": "urn:lex-mx:federal:statute:lcec:term:secretaria",

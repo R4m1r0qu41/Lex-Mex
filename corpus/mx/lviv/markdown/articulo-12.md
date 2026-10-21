@@ -23,6 +23,6 @@ Sin perjuicio de lo establecido en las disposiciones presupuestales aplicables, 
 
 Las dependencias, entidades y organismos señalados en el párrafo primero del presente artículo, así como los gobiernos de las entidades federativas y los municipios que financien, instrumenten o ejecuten programas de vivienda con recursos federales, tendrán la obligación de proporcionar toda la información y las facilidades necesarias para la realización de la evaluación.
 
-Los resultados de las evaluaciones deberán enviarse a la Comisión, a la [Comisión Intersecretarial](articulo-4.md), al [Consejo](articulo-4.md) Nacional de Evaluación de la Política de Desarrollo Social, al Consejo y a las comisiones que atiendan los asuntos de vivienda de las Cámaras de Diputados y Senadores del Congreso de la Unión. Asimismo, serán públicos en los términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental.
+Los resultados de las evaluaciones deberán enviarse a la Comisión, a la [Comisión Intersecretarial](articulo-4.md), al Consejo Nacional de Evaluación de la Política de Desarrollo Social, al [Consejo](articulo-4.md) y a las comisiones que atiendan los asuntos de vivienda de las Cámaras de Diputados y Senadores del Congreso de la Unión. Asimismo, serán públicos en los términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental.
 
 Dichas instancias podrán emitir las sugerencias y recomendaciones que consideren pertinentes.

@@ -21,13 +21,13 @@ Conformación Para el desempeño de sus funciones, el [CNI](articulo-2.md) se ap
 
 Los grupos de trabajo serán los siguientes:
 
-a) Grupo de trabajo en investigación estratégica de alto impacto y análisis criminal, integrado por una persona representante de cada una de las siguientes instituciones: Secretaría de la Defensa Nacional, [Secretaría](articulo-2.md) de Marina, Secretaría, Fiscalía General de la República, Guardia Nacional y Unidad de Inteligencia Financiera;
+a) Grupo de trabajo en investigación estratégica de alto impacto y análisis criminal, integrado por una persona representante de cada una de las siguientes instituciones: Secretaría de la Defensa Nacional, Secretaría de Marina, [Secretaría](articulo-2.md), Fiscalía General de la República, Guardia Nacional y Unidad de Inteligencia Financiera;
 
 b) Grupo de trabajo en investigación en materia patrimonial, fiscal y financiera, integrado por una persona representante de cada una de las siguientes instituciones: Secretaría de Gobernación, Secretaría Anticorrupción y Buen Gobierno, Fiscalía General de la República, Servicio de Administración Tributaria, Unidad de Inteligencia Financiera, Comisión Nacional Bancaria y de Valores;
 
 c) Grupo de trabajo en investigación en materia registral, estadística, de comercio y telecomunicaciones, integrado por una persona representante de cada una de las siguientes instituciones: Secretaría de Gobernación, Secretaría de Relaciones Exteriores, Secretaría de Economía, Secretaría de Energía, Agencia de Transformación Digital y Telecomunicaciones, e Instituto Nacional de Estadística y Geografía, y
 
-d) Grupo de trabajo especializado en fortalecimiento probatorio, integrado por una persona representante de cada una de las siguientes instituciones: Secretaría, Fiscalía General de la República, Consejería Jurídica del Ejecutivo Federal, Guardia Nacional y Secretariado Ejecutivo del [Sistema Nacional](articulo-2.md) de Seguridad Pública. El nombramiento de las personas representantes deberá ser hecho por las personas titulares de las instituciones respectivas.
+d) Grupo de trabajo especializado en fortalecimiento probatorio, integrado por una persona representante de cada una de las siguientes instituciones: Secretaría, Fiscalía General de la República, Consejería Jurídica del Ejecutivo Federal, Guardia Nacional y Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública. El nombramiento de las personas representantes deberá ser hecho por las personas titulares de las instituciones respectivas.
 
 La persona titular del CNI podrá incorporar otros integrantes a los grupos de trabajo y crear grupos adicionales a los señalados en el presente artículo.
 

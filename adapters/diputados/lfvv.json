@@ -23,7 +23,7 @@
     "provision_suffix": ":article:2",
     "style": "auto_whole",
     "profile": {
-      "strategy_version": "glossary-extraction-5",
+      "strategy_version": "glossary-extraction-6",
       "provision_text_sha256": "c04e2eaff2ab5431f8c54ad7ed4199aad2bc88a8ad1bb7c77692da3ad759275b",
       "rationale": "Fraction VII writes its term before a semicolon (`Secretaría; La Secretaría…`) where every other fraction uses a colon.",
       "evidence": "docs/decisions.md (2026-10-19, glossary exception profiles, batch 1)",

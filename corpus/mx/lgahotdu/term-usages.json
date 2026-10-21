@@ -235,15 +235,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgahotdu:article:3:term-usage:1678-1695",
-    "provision_id": "urn:lex-mx:federal:statute:lgahotdu:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lgahotdu:term:desarrollo-urbano",
-    "span": "Desarrollo Urbano",
-    "start_char": 1678,
-    "end_char": 1695
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgahotdu:article:3:term-usage:1960-1980",
     "provision_id": "urn:lex-mx:federal:statute:lgahotdu:article:3",
     "term_id": "urn:lex-mx:federal:statute:lgahotdu:term:centros-de-poblacion",
@@ -901,15 +892,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgahotdu:article:8:term-usage:1678-1688",
-    "provision_id": "urn:lex-mx:federal:statute:lgahotdu:article:8",
-    "term_id": "urn:lex-mx:federal:statute:lgahotdu:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 1678,
-    "end_char": 1688
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgahotdu:article:8:term-usage:2041-2052",
     "provision_id": "urn:lex-mx:federal:statute:lgahotdu:article:8",
     "term_id": "urn:lex-mx:federal:statute:lgahotdu:term:provisiones",
@@ -1096,15 +1078,6 @@
     "span": "Desarrollo Metropolitano",
     "start_char": 6395,
     "end_char": 6419
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgahotdu:article:8:term-usage:6496-6506",
-    "provision_id": "urn:lex-mx:federal:statute:lgahotdu:article:8",
-    "term_id": "urn:lex-mx:federal:statute:lgahotdu:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 6496,
-    "end_char": 6506
   },
   {
     "schema_version": "0.1.0",
@@ -3340,15 +3313,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgahotdu:article:45:term-usage:404-414",
-    "provision_id": "urn:lex-mx:federal:statute:lgahotdu:article:45",
-    "term_id": "urn:lex-mx:federal:statute:lgahotdu:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 404,
-    "end_char": 414
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgahotdu:article:45:term-usage:642-659",
     "provision_id": "urn:lex-mx:federal:statute:lgahotdu:article:45",
     "term_id": "urn:lex-mx:federal:statute:lgahotdu:term:desarrollo-urbano",
@@ -4489,15 +4453,6 @@
     "span": "Usos del suelo",
     "start_char": 242,
     "end_char": 256
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgahotdu:article:67:term-usage:970-980",
-    "provision_id": "urn:lex-mx:federal:statute:lgahotdu:article:67",
-    "term_id": "urn:lex-mx:federal:statute:lgahotdu:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 970,
-    "end_char": 980
   },
   {
     "schema_version": "0.1.0",
@@ -6031,15 +5986,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgahotdu:article:102:term-usage:1101-1111",
-    "provision_id": "urn:lex-mx:federal:statute:lgahotdu:article:102",
-    "term_id": "urn:lex-mx:federal:statute:lgahotdu:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 1101,
-    "end_char": 1111
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgahotdu:article:103:term-usage:210-227",
     "provision_id": "urn:lex-mx:federal:statute:lgahotdu:article:103",
     "term_id": "urn:lex-mx:federal:statute:lgahotdu:term:desarrollo-urbano",
@@ -6343,15 +6289,6 @@
     "span": "Consejo Nacional",
     "start_char": 225,
     "end_char": 241
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgahotdu:transitory:sexto:term-usage:272-289",
-    "provision_id": "urn:lex-mx:federal:statute:lgahotdu:transitory:sexto",
-    "term_id": "urn:lex-mx:federal:statute:lgahotdu:term:desarrollo-urbano",
-    "span": "Desarrollo Urbano",
-    "start_char": 272,
-    "end_char": 289
   },
   {
     "schema_version": "0.1.0",

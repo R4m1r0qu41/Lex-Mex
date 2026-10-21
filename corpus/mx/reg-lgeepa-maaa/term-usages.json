@@ -82,6 +82,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2:term-usage:326-333",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:term:agencia",
+    "span": "Agencia",
+    "start_char": 326,
+    "end_char": 333
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2:term-usage:678-697",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:term:auditoria-ambiental",
@@ -3940,6 +3949,15 @@
     "span": "Buenas prácticas de operación e ingeniería",
     "start_char": 329,
     "end_char": 371
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:39-bis:term-usage:511-518",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:39-bis",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:term:agencia",
+    "span": "Agencia",
+    "start_char": 511,
+    "end_char": 518
   },
   {
     "schema_version": "0.1.0",

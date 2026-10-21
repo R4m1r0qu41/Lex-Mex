@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-5",
+  "strategy_version": "glossary-extraction-6",
   "instrument_id": "urn:lex-mx:federal:statute:lccaif",
   "source_sha256": "0cfd6d7820098b2fa0a6388cbf69fb010bc2816951a1c80c52245dadbecd4eda",
   "extracted_text_sha256": "58cafc7fd9dd3e1faedae609c6f8f4093f56fc8b19d71de3400352547447d744",

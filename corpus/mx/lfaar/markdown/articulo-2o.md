@@ -23,7 +23,7 @@ I. Secretaría, a la Secretaría de Hacienda y Crédito Público;
 
 II. Comisión, a la Comisión Nacional de Seguros y Fianzas;
 
-III. SAGARPA, a la [Secretaría](articulo-2o.md) de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
+III. SAGARPA, a la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
 
 IV. Fondo de Aseguramiento, en singular o plural, son las sociedades constituidas como Fondos de Aseguramiento Agropecuario y Rural, en los términos de esta Ley y de lo previsto en el artículo 13 de la Ley General de Instituciones y Sociedades Mutualistas de Seguros;
 
@@ -39,7 +39,7 @@ IX. Organismo Integrador Local, en singular o plural, a las Asociaciones de Fond
 
 X. Socios, a las personas físicas o morales que participen como socios de los Fondos de Aseguramiento en los términos de esta Ley;
 
-XI. Líneas de Operación, a las operaciones y ramos de seguros que los Fondos de Aseguramiento podrán practicar al amparo del registro ante la Secretaría, de conformidad con esta Ley, la Ley General de Instituciones y Sociedades Mutualistas de Seguros y con las Reglas Generales que emita la Secretaría;
+XI. Líneas de Operación, a las operaciones y ramos de seguros que los Fondos de Aseguramiento podrán practicar al amparo del registro ante la [Secretaría](articulo-2o.md), de conformidad con esta Ley, la Ley General de Instituciones y Sociedades Mutualistas de Seguros y con las Reglas Generales que emita la Secretaría;
 
 XII. Sistema de Protección, al sistema integrado por el [Fondo de Protección](articulo-2o.md) y por los Fondos de Retención Común de Riesgos, en los términos de esta Ley; XIII. Fondo de Protección, a los recursos constituidos por las aportaciones de los Fondos de Aseguramiento y de otros aportantes, destinados a los fines establecidos en esta Ley;
 

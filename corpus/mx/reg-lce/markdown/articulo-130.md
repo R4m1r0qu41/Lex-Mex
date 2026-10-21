@@ -21,4 +21,4 @@ La resolución que imponga medidas de salvaguarda provisionales a que se refiere
 
 II. El tipo de medida de salvaguarda que se establece, y
 
-III. La mención de que se notificará a la [Secretaría](articulo-1o.md) de Hacienda y Crédito Público para la aplicación oportuna de la medida impuesta.
+III. La mención de que se notificará a la Secretaría de Hacienda y Crédito Público para la aplicación oportuna de la medida impuesta.

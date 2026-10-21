@@ -17,4 +17,4 @@ source_sha256: 30f884c4cd22148b89f3fc21ff0be69be7571d51c146cefa7da2cac06b421f21
 
 # Artículo 147
 
-La [Comisión Intersecretarial](articulo-3o.md) establecerá el [Servicio](articulo-3o.md) Nacional del Registro Agropecuario, al que tendrán derecho las organizaciones a que se refiere este Capítulo. El registro generará efectos de fe pública, para los aspectos regulados por esta Ley, los considerados en la Ley de Organizaciones Ganaderas y demás ordenamientos aplicables.
+La [Comisión Intersecretarial](articulo-3o.md) establecerá el Servicio Nacional del Registro Agropecuario, al que tendrán derecho las organizaciones a que se refiere este Capítulo. El registro generará efectos de fe pública, para los aspectos regulados por esta Ley, los considerados en la Ley de Organizaciones Ganaderas y demás ordenamientos aplicables.

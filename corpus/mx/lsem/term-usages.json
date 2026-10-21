@@ -145,6 +145,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsem:article:1-bis:term-usage:2381-2398",
+    "provision_id": "urn:lex-mx:federal:statute:lsem:article:1-bis",
+    "term_id": "urn:lex-mx:federal:statute:lsem:term:servicio-exterior",
+    "span": "Servicio Exterior",
+    "start_char": 2381,
+    "end_char": 2398
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lsem:article:1-bis:term-usage:2482-2499",
     "provision_id": "urn:lex-mx:federal:statute:lsem:article:1-bis",
     "term_id": "urn:lex-mx:federal:statute:lsem:term:servicio-exterior",
@@ -244,6 +253,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsem:article:1-bis:term-usage:3851-3868",
+    "provision_id": "urn:lex-mx:federal:statute:lsem:article:1-bis",
+    "term_id": "urn:lex-mx:federal:statute:lsem:term:servicio-exterior",
+    "span": "Servicio Exterior",
+    "start_char": 3851,
+    "end_char": 3868
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lsem:article:1-bis:term-usage:4209-4219",
     "provision_id": "urn:lex-mx:federal:statute:lsem:article:1-bis",
     "term_id": "urn:lex-mx:federal:statute:lsem:term:secretaria",
@@ -340,15 +358,6 @@
     "span": "Secretaría",
     "start_char": 2266,
     "end_char": 2276
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsem:article:2:term-usage:2311-2321",
-    "provision_id": "urn:lex-mx:federal:statute:lsem:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lsem:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 2311,
-    "end_char": 2321
   },
   {
     "schema_version": "0.1.0",
@@ -3931,15 +3940,6 @@
     "span": "Secretaría",
     "start_char": 2893,
     "end_char": 2903
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsem:article:55-bis:term-usage:2936-2946",
-    "provision_id": "urn:lex-mx:federal:statute:lsem:article:55-bis",
-    "term_id": "urn:lex-mx:federal:statute:lsem:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 2936,
-    "end_char": 2946
   },
   {
     "schema_version": "0.1.0",

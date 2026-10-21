@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-5",
+  "strategy_version": "glossary-extraction-6",
   "instrument_id": "urn:lex-mx:federal:statute:lcnbv",
   "source_sha256": "b3b4605f2abb4d33a705c6f5569ba5eaa45a41158305ac588ad4e275705798d8",
   "extracted_text_sha256": "3db2ae8195f2f94fd15a3afe1713afc8cd1d102525708deacf8a1360c2ab0669",

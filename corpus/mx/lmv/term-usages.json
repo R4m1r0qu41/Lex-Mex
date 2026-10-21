@@ -10,24 +10,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmv:article:1:term-usage:446-453",
-    "provision_id": "urn:lex-mx:federal:statute:lmv:article:1",
-    "term_id": "urn:lex-mx:federal:statute:lmv:term:valores",
-    "span": "Valores",
-    "start_char": 446,
-    "end_char": 453
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmv:article:2:term-usage:92-99",
-    "provision_id": "urn:lex-mx:federal:statute:lmv:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lmv:term:valores",
-    "span": "Valores",
-    "start_char": 92,
-    "end_char": 99
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lmv:article:2:term-usage:1662-1670",
     "provision_id": "urn:lex-mx:federal:statute:lmv:article:2",
     "term_id": "urn:lex-mx:federal:statute:lmv:term:registro",
@@ -70,15 +52,6 @@
     "span": "Comisión",
     "start_char": 3241,
     "end_char": 3249
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmv:article:2:term-usage:3273-3280",
-    "provision_id": "urn:lex-mx:federal:statute:lmv:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lmv:term:valores",
-    "span": "Valores",
-    "start_char": 3273,
-    "end_char": 3280
   },
   {
     "schema_version": "0.1.0",
@@ -133,15 +106,6 @@
     "span": "Comisión",
     "start_char": 7904,
     "end_char": 7912
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmv:article:2:term-usage:10539-10546",
-    "provision_id": "urn:lex-mx:federal:statute:lmv:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lmv:term:valores",
-    "span": "Valores",
-    "start_char": 10539,
-    "end_char": 10546
   },
   {
     "schema_version": "0.1.0",
@@ -259,15 +223,6 @@
     "span": "Registro",
     "start_char": 48,
     "end_char": 56
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmv:article:8:term-usage:69-76",
-    "provision_id": "urn:lex-mx:federal:statute:lmv:article:8",
-    "term_id": "urn:lex-mx:federal:statute:lmv:term:valores",
-    "span": "Valores",
-    "start_char": 69,
-    "end_char": 76
   },
   {
     "schema_version": "0.1.0",
@@ -601,15 +556,6 @@
     "span": "Registro",
     "start_char": 1191,
     "end_char": 1199
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmv:article:63-bis-1:term-usage:1212-1219",
-    "provision_id": "urn:lex-mx:federal:statute:lmv:article:63-bis-1",
-    "term_id": "urn:lex-mx:federal:statute:lmv:term:valores",
-    "span": "Valores",
-    "start_char": 1212,
-    "end_char": 1219
   },
   {
     "schema_version": "0.1.0",
@@ -4267,15 +4213,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmv:article:212:term-usage:7159-7166",
-    "provision_id": "urn:lex-mx:federal:statute:lmv:article:212",
-    "term_id": "urn:lex-mx:federal:statute:lmv:term:valores",
-    "span": "Valores",
-    "start_char": 7159,
-    "end_char": 7166
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lmv:article:213:term-usage:87-95",
     "provision_id": "urn:lex-mx:federal:statute:lmv:article:213",
     "term_id": "urn:lex-mx:federal:statute:lmv:term:comision",
@@ -5455,30 +5392,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmv:article:252-bis:term-usage:1244-1251",
-    "provision_id": "urn:lex-mx:federal:statute:lmv:article:252-bis",
-    "term_id": "urn:lex-mx:federal:statute:lmv:term:valores",
-    "span": "Valores",
-    "start_char": 1244,
-    "end_char": 1251
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lmv:article:252-bis:term-usage:1763-1771",
     "provision_id": "urn:lex-mx:federal:statute:lmv:article:252-bis",
     "term_id": "urn:lex-mx:federal:statute:lmv:term:registro",
     "span": "Registro",
     "start_char": 1763,
     "end_char": 1771
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmv:article:252-bis:term-usage:1784-1791",
-    "provision_id": "urn:lex-mx:federal:statute:lmv:article:252-bis",
-    "term_id": "urn:lex-mx:federal:statute:lmv:term:valores",
-    "span": "Valores",
-    "start_char": 1784,
-    "end_char": 1791
   },
   {
     "schema_version": "0.1.0",
@@ -6895,15 +6814,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmv:article:358:term-usage:735-742",
-    "provision_id": "urn:lex-mx:federal:statute:lmv:article:358",
-    "term_id": "urn:lex-mx:federal:statute:lmv:term:valores",
-    "span": "Valores",
-    "start_char": 735,
-    "end_char": 742
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lmv:article:358:term-usage:1702-1710",
     "provision_id": "urn:lex-mx:federal:statute:lmv:article:358",
     "term_id": "urn:lex-mx:federal:statute:lmv:term:comision",
@@ -6946,15 +6856,6 @@
     "span": "Registro",
     "start_char": 211,
     "end_char": 219
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmv:article:358-bis:term-usage:232-239",
-    "provision_id": "urn:lex-mx:federal:statute:lmv:article:358-bis",
-    "term_id": "urn:lex-mx:federal:statute:lmv:term:valores",
-    "span": "Valores",
-    "start_char": 232,
-    "end_char": 239
   },
   {
     "schema_version": "0.1.0",
@@ -7279,15 +7180,6 @@
     "span": "Comisión",
     "start_char": 733,
     "end_char": 741
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmv:article:389-bis:term-usage:765-772",
-    "provision_id": "urn:lex-mx:federal:statute:lmv:article:389-bis",
-    "term_id": "urn:lex-mx:federal:statute:lmv:term:valores",
-    "span": "Valores",
-    "start_char": 765,
-    "end_char": 772
   },
   {
     "schema_version": "0.1.0",
@@ -7930,15 +7822,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmv:article:392:term-usage:35719-35726",
-    "provision_id": "urn:lex-mx:federal:statute:lmv:article:392",
-    "term_id": "urn:lex-mx:federal:statute:lmv:term:valores",
-    "span": "Valores",
-    "start_char": 35719,
-    "end_char": 35726
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lmv:article:392:term-usage:36277-36285",
     "provision_id": "urn:lex-mx:federal:statute:lmv:article:392",
     "term_id": "urn:lex-mx:federal:statute:lmv:term:comision",
@@ -8209,6 +8092,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmv:article:399:term-usage:1612-1620",
+    "provision_id": "urn:lex-mx:federal:statute:lmv:article:399",
+    "term_id": "urn:lex-mx:federal:statute:lmv:term:comision",
+    "span": "Comisión",
+    "start_char": 1612,
+    "end_char": 1620
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lmv:article:399:term-usage:1798-1808",
     "provision_id": "urn:lex-mx:federal:statute:lmv:article:399",
     "term_id": "urn:lex-mx:federal:statute:lmv:term:secretaria",
@@ -8389,15 +8281,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmv:transitory:tercero:term-usage:80-87",
-    "provision_id": "urn:lex-mx:federal:statute:lmv:transitory:tercero",
-    "term_id": "urn:lex-mx:federal:statute:lmv:term:valores",
-    "span": "Valores",
-    "start_char": 80,
-    "end_char": 87
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lmv:transitory:cuarto:term-usage:12-22",
     "provision_id": "urn:lex-mx:federal:statute:lmv:transitory:cuarto",
     "term_id": "urn:lex-mx:federal:statute:lmv:term:secretaria",
@@ -8416,30 +8299,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmv:transitory:cuarto:term-usage:89-96",
-    "provision_id": "urn:lex-mx:federal:statute:lmv:transitory:cuarto",
-    "term_id": "urn:lex-mx:federal:statute:lmv:term:valores",
-    "span": "Valores",
-    "start_char": 89,
-    "end_char": 96
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lmv:transitory:quinto:term-usage:202-210",
     "provision_id": "urn:lex-mx:federal:statute:lmv:transitory:quinto",
     "term_id": "urn:lex-mx:federal:statute:lmv:term:registro",
     "span": "Registro",
     "start_char": 202,
     "end_char": 210
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmv:transitory:quinto:term-usage:223-230",
-    "provision_id": "urn:lex-mx:federal:statute:lmv:transitory:quinto",
-    "term_id": "urn:lex-mx:federal:statute:lmv:term:valores",
-    "span": "Valores",
-    "start_char": 223,
-    "end_char": 230
   },
   {
     "schema_version": "0.1.0",
@@ -8452,30 +8317,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmv:transitory:quinto:term-usage:395-402",
-    "provision_id": "urn:lex-mx:federal:statute:lmv:transitory:quinto",
-    "term_id": "urn:lex-mx:federal:statute:lmv:term:valores",
-    "span": "Valores",
-    "start_char": 395,
-    "end_char": 402
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lmv:transitory:sexto:term-usage:93-101",
     "provision_id": "urn:lex-mx:federal:statute:lmv:transitory:sexto",
     "term_id": "urn:lex-mx:federal:statute:lmv:term:registro",
     "span": "Registro",
     "start_char": 93,
     "end_char": 101
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmv:transitory:sexto:term-usage:114-121",
-    "provision_id": "urn:lex-mx:federal:statute:lmv:transitory:sexto",
-    "term_id": "urn:lex-mx:federal:statute:lmv:term:valores",
-    "span": "Valores",
-    "start_char": 114,
-    "end_char": 121
   },
   {
     "schema_version": "0.1.0",
@@ -8488,15 +8335,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmv:transitory:octavo:term-usage:967-974",
-    "provision_id": "urn:lex-mx:federal:statute:lmv:transitory:octavo",
-    "term_id": "urn:lex-mx:federal:statute:lmv:term:valores",
-    "span": "Valores",
-    "start_char": 967,
-    "end_char": 974
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lmv:transitory:noveno:term-usage:93-101",
     "provision_id": "urn:lex-mx:federal:statute:lmv:transitory:noveno",
     "term_id": "urn:lex-mx:federal:statute:lmv:term:registro",
@@ -8506,30 +8344,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmv:transitory:noveno:term-usage:114-121",
-    "provision_id": "urn:lex-mx:federal:statute:lmv:transitory:noveno",
-    "term_id": "urn:lex-mx:federal:statute:lmv:term:valores",
-    "span": "Valores",
-    "start_char": 114,
-    "end_char": 121
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lmv:transitory:noveno:term-usage:275-283",
     "provision_id": "urn:lex-mx:federal:statute:lmv:transitory:noveno",
     "term_id": "urn:lex-mx:federal:statute:lmv:term:registro",
     "span": "Registro",
     "start_char": 275,
     "end_char": 283
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmv:transitory:noveno:term-usage:296-303",
-    "provision_id": "urn:lex-mx:federal:statute:lmv:transitory:noveno",
-    "term_id": "urn:lex-mx:federal:statute:lmv:term:valores",
-    "span": "Valores",
-    "start_char": 296,
-    "end_char": 303
   },
   {
     "schema_version": "0.1.0",
@@ -8551,15 +8371,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmv:transitory:noveno:term-usage:908-915",
-    "provision_id": "urn:lex-mx:federal:statute:lmv:transitory:noveno",
-    "term_id": "urn:lex-mx:federal:statute:lmv:term:valores",
-    "span": "Valores",
-    "start_char": 908,
-    "end_char": 915
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lmv:transitory:noveno:term-usage:941-949",
     "provision_id": "urn:lex-mx:federal:statute:lmv:transitory:noveno",
     "term_id": "urn:lex-mx:federal:statute:lmv:term:registro",
@@ -8578,30 +8389,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmv:transitory:noveno:term-usage:1076-1083",
-    "provision_id": "urn:lex-mx:federal:statute:lmv:transitory:noveno",
-    "term_id": "urn:lex-mx:federal:statute:lmv:term:valores",
-    "span": "Valores",
-    "start_char": 1076,
-    "end_char": 1083
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lmv:transitory:decimo:term-usage:425-433",
     "provision_id": "urn:lex-mx:federal:statute:lmv:transitory:decimo",
     "term_id": "urn:lex-mx:federal:statute:lmv:term:registro",
     "span": "Registro",
     "start_char": 425,
     "end_char": 433
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmv:transitory:decimo:term-usage:446-453",
-    "provision_id": "urn:lex-mx:federal:statute:lmv:transitory:decimo",
-    "term_id": "urn:lex-mx:federal:statute:lmv:term:valores",
-    "span": "Valores",
-    "start_char": 446,
-    "end_char": 453
   },
   {
     "schema_version": "0.1.0",
@@ -8623,15 +8416,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmv:transitory:decimo-tercero:term-usage:172-179",
-    "provision_id": "urn:lex-mx:federal:statute:lmv:transitory:decimo-tercero",
-    "term_id": "urn:lex-mx:federal:statute:lmv:term:valores",
-    "span": "Valores",
-    "start_char": 172,
-    "end_char": 179
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lmv:transitory:decimo-sexto:term-usage:18-28",
     "provision_id": "urn:lex-mx:federal:statute:lmv:transitory:decimo-sexto",
     "term_id": "urn:lex-mx:federal:statute:lmv:term:secretaria",
@@ -8647,15 +8431,6 @@
     "span": "Comisión",
     "start_char": 64,
     "end_char": 72
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmv:transitory:decimo-sexto:term-usage:96-103",
-    "provision_id": "urn:lex-mx:federal:statute:lmv:transitory:decimo-sexto",
-    "term_id": "urn:lex-mx:federal:statute:lmv:term:valores",
-    "span": "Valores",
-    "start_char": 96,
-    "end_char": 103
   },
   {
     "schema_version": "0.1.0",

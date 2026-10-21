@@ -29,7 +29,7 @@ III. La Secretaría de Marina;
 
 IV. La Fiscalía General de la República;
 
-V. El Secretariado Ejecutivo del [Sistema Nacional](articulo-2.md) de Seguridad Pública;
+V. El Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública;
 
 VI. Las fiscalías y procuradurías de las entidades federativas;
 
@@ -73,4 +73,4 @@ II. Todas aquellas personas físicas que tengan o puedan tener o acceder a infor
 
 III. Todos aquellos organismos regionales e internacionales, gobiernos y empresas extranjeras para los mismos fines de las fracciones I y II.
 
-Todos los documentos y la información a los que el CNI tenga acceso a través de la Plataforma y por virtud del Sistema Nacional, deberán ser manejados y usados de conformidad con las leyes y normas aplicables en materia de protección de datos personales, confidencialidad, reserva, secrecía y privacidad. Lo que no sea utilizado para investigaciones concretas, deberá ser destruido a través de la aplicación de técnicas de eliminación segura por el CNI.
+Todos los documentos y la información a los que el CNI tenga acceso a través de la Plataforma y por virtud del [Sistema Nacional](articulo-2.md), deberán ser manejados y usados de conformidad con las leyes y normas aplicables en materia de protección de datos personales, confidencialidad, reserva, secrecía y privacidad. Lo que no sea utilizado para investigaciones concretas, deberá ser destruido a través de la aplicación de técnicas de eliminación segura por el CNI.

@@ -1,15 +1,6 @@
 [
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpca:article:1:term-usage:37-45",
-    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:1",
-    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
-    "span": "Tribunal",
-    "start_char": 37,
-    "end_char": 45
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfpca:article:1-a:term-usage:149-157",
     "provision_id": "urn:lex-mx:federal:statute:lfpca:article:1-a",
     "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
@@ -586,15 +577,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpca:article:50-a:term-usage:28-36",
-    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:50-a",
-    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
-    "span": "Tribunal",
-    "start_char": 28,
-    "end_char": 36
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfpca:article:51:term-usage:2937-2945",
     "provision_id": "urn:lex-mx:federal:statute:lfpca:article:51",
     "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
@@ -673,15 +655,6 @@
     "span": "Tribunal",
     "start_char": 1671,
     "end_char": 1679
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpca:article:57:term-usage:115-123",
-    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:57",
-    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
-    "span": "Tribunal",
-    "start_char": 115,
-    "end_char": 123
   },
   {
     "schema_version": "0.1.0",

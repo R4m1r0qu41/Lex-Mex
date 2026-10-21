@@ -29,6 +29,6 @@ IV. Proponer la incompetencia o el ejercicio de la acción penal, remitiendo los
 
 V. Establecer mecanismos de coordinación con las [Delegaciones](articulo-2.md), a fin de que presten el auxilio necesario para el ejercicio de sus funciones;
 
-VI. Presentar ante el [Consejo](articulo-2.md) de la Judicatura Federal las quejas administrativas de conformidad con lo dispuesto por la Ley Orgánica del Poder Judicial de la Federación, por asuntos materia de la competencia de la Fiscalía Especializada para la Atención de Delitos Electorales, y
+VI. Presentar ante el Consejo de la Judicatura Federal las quejas administrativas de conformidad con lo dispuesto por la Ley Orgánica del Poder Judicial de la Federación, por asuntos materia de la competencia de la Fiscalía Especializada para la Atención de Delitos Electorales, y
 
 VII. Promover lo conducente al desarrollo de los procesos en el ámbito de su competencia.

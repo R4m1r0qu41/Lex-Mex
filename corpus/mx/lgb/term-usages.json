@@ -109,15 +109,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgb:article:10:term-usage:123-133",
-    "provision_id": "urn:lex-mx:federal:statute:lgb:article:10",
-    "term_id": "urn:lex-mx:federal:statute:lgb:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 123,
-    "end_char": 133
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgb:article:10:term-usage:171-181",
     "provision_id": "urn:lex-mx:federal:statute:lgb:article:10",
     "term_id": "urn:lex-mx:federal:statute:lgb:term:secretaria",
@@ -745,15 +736,6 @@
     "span": "Libro",
     "start_char": 265,
     "end_char": 270
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgb:article:44:term-usage:3-13",
-    "provision_id": "urn:lex-mx:federal:statute:lgb:article:44",
-    "term_id": "urn:lex-mx:federal:statute:lgb:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 3,
-    "end_char": 13
   },
   {
     "schema_version": "0.1.0",

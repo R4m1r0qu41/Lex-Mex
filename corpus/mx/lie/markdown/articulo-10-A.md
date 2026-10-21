@@ -17,7 +17,7 @@ source_sha256: 14cd17e37e96e766c8ab74950c71186d579c0ba6cc10ac9e8b06f6194af7d953
 
 # Artículo 10-A
 
-Los extranjeros que pretendan adquirir bienes inmuebles fuera de la zona restringida, u obtener concesiones para la exploración y explotación de minas y aguas en el territorio nacional, deberán presentar previamente ante la [Secretaría](articulo-2o.md) de Relaciones Exteriores un escrito en el que convengan lo dispuesto en la fracción I del artículo [27](../../cpeum/markdown/articulo-27.md) de la Constitución Política de los Estados Unidos Mexicanos y obtener el permiso correspondiente de dicha dependencia.
+Los extranjeros que pretendan adquirir bienes inmuebles fuera de la zona restringida, u obtener concesiones para la exploración y explotación de minas y aguas en el territorio nacional, deberán presentar previamente ante la Secretaría de Relaciones Exteriores un escrito en el que convengan lo dispuesto en la fracción I del artículo [27](../../cpeum/markdown/articulo-27.md) de la Constitución Política de los Estados Unidos Mexicanos y obtener el permiso correspondiente de dicha dependencia.
 
 Cuando el bien inmueble que se pretenda adquirir esté en un municipio totalmente ubicado fuera de la zona restringida o cuando se pretenda obtener una concesión para la explotación de minas y aguas en territorio nacional, el permiso se entenderá otorgado si no se publica en el Diario Oficial de la Federación la negativa de la Secretaría de Relaciones Exteriores dentro de los cinco días hábiles siguientes a la fecha de la presentación de la solicitud.
 

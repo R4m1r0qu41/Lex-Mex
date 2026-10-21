@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-5",
+  "strategy_version": "glossary-extraction-6",
   "instrument_id": "urn:lex-mx:federal:statute:lrsic",
   "source_sha256": "25be325eba8804157a7b094dd11c861740241434d433a9cd69c53d4fe9e30b91",
   "extracted_text_sha256": "12f188861642c7deccd367c266866b6cba3302e0c4e9a20116347a2748904bdd",

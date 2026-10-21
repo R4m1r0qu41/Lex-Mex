@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-5",
+  "strategy_version": "glossary-extraction-6",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-lsh",
   "source_sha256": "24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3",
   "extracted_text_sha256": "ca5a3b32161bb9f5967eabc21eca49c0bfcd477d3d96b63f306cc173a37f10a4",
@@ -74,5 +74,5 @@
   ],
   "imports": [],
   "term_count": 56,
-  "usage_count": 1984
+  "usage_count": 1896
 }

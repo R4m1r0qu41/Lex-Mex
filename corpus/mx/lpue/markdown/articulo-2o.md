@@ -19,7 +19,7 @@ source_sha256: 36f74d61a6190ff8005805ad80aa6cf90f7d5bf2209d24bdaf32f51d21214daf
 
 Para los efectos de esta ley, se entenderá por:
 
-I. Secretaría: La Secretaría de [Marina](articulo-2o.md); Fracción reformada DOF 07-12-2020
+I. Secretaría: La Secretaría de Marina; Fracción reformada DOF 07-12-2020
 
 I Bis. Se deroga. Fracción adicionada DOF 19-12-2016. Derogada DOF 07-12-2020
 
@@ -39,6 +39,6 @@ VIII. Zona de desarrollo portuario: El área constituida con los terrenos de pro
 
 IX. Administrador portuario: El titular de una concesión para la administración portuaria integral.
 
-X. CUMAR: El Centro Unificado para la [Protección Marítima y Portuaria](articulo-2o.md). Fracción adicionada DOF 26-12-2013
+X. CUMAR: El Centro Unificado para la Protección Marítima y Portuaria. Fracción adicionada DOF 26-12-2013
 
 XI. Protección Marítima y Portuaria: El conjunto de medidas y acciones destinadas a salvaguardar de toda amenaza que pueda afectar al puerto, recinto portuario, terminales, marinas e instalaciones portuarias, así como a las embarcaciones, artefactos navales, personas, carga, unidades de transporte y provisiones, abordo de las mismas. Fracción adicionada DOF 26-12-2013. Reformada DOF 07-12-2020

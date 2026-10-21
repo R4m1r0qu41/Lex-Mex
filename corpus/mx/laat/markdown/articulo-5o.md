@@ -17,4 +17,4 @@ source_sha256: 2e6462a9ddd472efe129d2285c1602316c91640646847da74dbf13363c5238fb
 
 # Artículo 5o
 
-La ayuda alimentaria tendrá como objetivo que los trabajadores se beneficien del consumo de una dieta correcta. Las características específicas de una dieta correcta serán las que la [Secretaría](articulo-2o.md) de Salud establezca en las normas.
+La ayuda alimentaria tendrá como objetivo que los trabajadores se beneficien del consumo de una dieta correcta. Las características específicas de una dieta correcta serán las que la Secretaría de Salud establezca en las normas.

@@ -838,15 +838,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpgir:article:24:term-usage:118-128",
-    "provision_id": "urn:lex-mx:federal:statute:lgpgir:article:24",
-    "term_id": "urn:lex-mx:federal:statute:lgpgir:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 118,
-    "end_char": 128
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgpgir:article:25:term-usage:3-13",
     "provision_id": "urn:lex-mx:federal:statute:lgpgir:article:25",
     "term_id": "urn:lex-mx:federal:statute:lgpgir:term:secretaria",
@@ -1423,15 +1414,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpgir:article:62:term-usage:1042-1052",
-    "provision_id": "urn:lex-mx:federal:statute:lgpgir:article:62",
-    "term_id": "urn:lex-mx:federal:statute:lgpgir:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 1042,
-    "end_char": 1052
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgpgir:article:62-bis:term-usage:113-123",
     "provision_id": "urn:lex-mx:federal:statute:lgpgir:article:62-bis",
     "term_id": "urn:lex-mx:federal:statute:lgpgir:term:secretaria",
@@ -1603,30 +1585,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpgir:article:78:term-usage:38-48",
-    "provision_id": "urn:lex-mx:federal:statute:lgpgir:article:78",
-    "term_id": "urn:lex-mx:federal:statute:lgpgir:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 38,
-    "end_char": 48
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgpgir:article:80:term-usage:255-265",
     "provision_id": "urn:lex-mx:federal:statute:lgpgir:article:80",
     "term_id": "urn:lex-mx:federal:statute:lgpgir:term:secretaria",
     "span": "Secretaría",
     "start_char": 255,
     "end_char": 265
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpgir:article:80:term-usage:1753-1763",
-    "provision_id": "urn:lex-mx:federal:statute:lgpgir:article:80",
-    "term_id": "urn:lex-mx:federal:statute:lgpgir:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 1753,
-    "end_char": 1763
   },
   {
     "schema_version": "0.1.0",
@@ -2068,15 +2032,6 @@
     "span": "Ley",
     "start_char": 116,
     "end_char": 119
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpgir:transitory:sexto:term-usage:3-13",
-    "provision_id": "urn:lex-mx:federal:statute:lgpgir:transitory:sexto",
-    "term_id": "urn:lex-mx:federal:statute:lgpgir:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 3,
-    "end_char": 13
   },
   {
     "schema_version": "0.1.0",

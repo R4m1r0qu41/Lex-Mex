@@ -17,7 +17,7 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 # Artículo 74
 
-Obligaciones generales para las instituciones de Seguridad Pública El [Sistema](articulo-3.md) Nacional de Seguridad Pública dará seguimiento para que todos los elementos de las instituciones de seguridad pública reciban capacitación conforme a protocolos, que deberá diseñar y aprobar, en materia de detención y medidas especiales para la protección de los derechos de las personas adolescentes.
+Obligaciones generales para las instituciones de Seguridad Pública El Sistema Nacional de Seguridad Pública dará seguimiento para que todos los elementos de las instituciones de seguridad pública reciban capacitación conforme a protocolos, que deberá diseñar y aprobar, en materia de detención y medidas especiales para la protección de los derechos de las personas adolescentes.
 
 Los elementos de las instituciones de seguridad pública que intervengan en la detención de alguna persona adolescente, además de las obligaciones que establezcan otros ordenamientos legales aplicables, deberán:
 
@@ -33,11 +33,11 @@ VI. Informar al adolescente la causa de su detención y los derechos que le reco
 
 VII. Poner a la persona adolescente inmediatamente y sin demora, a la disposición del Agente del Ministerio Público Especializado.
 
-Los guías técnicos de los Centros de Internamiento estarán formados y certificados en materia de los derechos humanos de niñas, niños y adolescentes, así como de los derechos del Sistema.
+Los guías técnicos de los Centros de Internamiento estarán formados y certificados en materia de los derechos humanos de niñas, niños y adolescentes, así como de los derechos del [Sistema](articulo-3.md).
 
 Las instituciones policiales deberán contar con programas de formación básica y actualización permanente, respecto al trato con las personas sujetas a esta [Ley](articulo-3.md), salvaguardando en todo momento los principios del interés superior de la niñez.
 
-En la investigación de los hechos señalados como delitos atribuidos a las personas sujetas a esta Ley, las policías deberán contar con capacitación especializada en materia del Sistema Integral de Justicia Penal para [Adolescentes](articulo-3.md), y actuarán bajo estricto apego a los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos, así como a las obligaciones establecidas en esta Ley, y las demás disposiciones aplicables.
+En la investigación de los hechos señalados como delitos atribuidos a las personas sujetas a esta Ley, las policías deberán contar con capacitación especializada en materia del Sistema Integral de Justicia Penal para Adolescentes, y actuarán bajo estricto apego a los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos, así como a las obligaciones establecidas en esta Ley, y las demás disposiciones aplicables.
 
 En los casos de detención en flagrancia, serán válidas las actuaciones de la policía, siempre que no contravengan los principios previstos en esta Ley, los derechos de las personas adolescentes establecidas en la misma y las demás disposiciones legales aplicables.
 

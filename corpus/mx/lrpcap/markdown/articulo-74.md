@@ -17,6 +17,6 @@ source_sha256: cf241af670623476911e625178a081e9e05921b4b6cc73ae92b41a47da45487a
 
 # Artículo 74
 
-En caso de presentarse una solicitud de extradición de un asilado, la [Secretaría](articulo-2.md) de Relaciones Exteriores incluirá la condición de asilado como un elemento al considerar la solicitud de extradición.
+En caso de presentarse una solicitud de extradición de un asilado, la Secretaría de Relaciones Exteriores incluirá la condición de asilado como un elemento al considerar la solicitud de extradición.
 
 Artículo adicionado DOF 30-10-2014

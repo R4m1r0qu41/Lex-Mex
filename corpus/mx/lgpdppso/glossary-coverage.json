@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-5",
+  "strategy_version": "glossary-extraction-6",
   "instrument_id": "urn:lex-mx:federal:statute:lgpdppso",
   "source_sha256": "a184d451e59d0c5663e14a41c8211d6f5309b15f82d0a6a2e45ed599c44364b9",
   "extracted_text_sha256": "e274a8679f218797e9b921bca2db2401c7f1ed3dcb45df0db704bc3639154b41",
@@ -48,5 +48,5 @@
   ],
   "imports": [],
   "term_count": 30,
-  "usage_count": 220
+  "usage_count": 218
 }

@@ -19,15 +19,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfcc:article:1:term-usage:985-995",
-    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:1",
-    "term_id": "urn:lex-mx:federal:statute:lfcc:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 985,
-    "end_char": 995
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfcc:article:1:term-usage:1235-1238",
     "provision_id": "urn:lex-mx:federal:statute:lfcc:article:1",
     "term_id": "urn:lex-mx:federal:statute:lfcc:term:ley",

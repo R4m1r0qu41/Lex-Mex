@@ -17,7 +17,7 @@ source_sha256: 0574853d06020030188e8aee1eae5dabb2b476ac630cc52be631a48d2b91adbc
 
 # Artículo 191
 
-La Procuraduría Federal de [Protección](articulo-3o.md) al [Ambiente](articulo-3o.md), una vez recibida la denuncia, acusará recibo de su recepción, le asignará un número de expediente y la registrará. En caso de recibirse dos o más denuncias por los mismos hechos, actos u omisiones, se acordará la acumulación en un solo expediente, debiéndose notificar a los denunciantes el acuerdo respectivo.
+La Procuraduría Federal de Protección al Ambiente, una vez recibida la denuncia, acusará recibo de su recepción, le asignará un número de expediente y la registrará. En caso de recibirse dos o más denuncias por los mismos hechos, actos u omisiones, se acordará la acumulación en un solo expediente, debiéndose notificar a los denunciantes el acuerdo respectivo.
 
 Una vez registrada la denuncia, la Procuraduría Federal de Protección al Ambiente dentro de los 10 días siguientes a su presentación, notificará al denunciante el acuerdo de calificación correspondiente, señalando el trámite que se le ha dado a la misma.
 

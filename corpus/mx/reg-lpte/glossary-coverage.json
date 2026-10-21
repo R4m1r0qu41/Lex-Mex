@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-5",
+  "strategy_version": "glossary-extraction-6",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-lpte",
   "source_sha256": "716e427a30e9982ccaa0576288aad2ad5305c624b236a0f342b6a87d60b7a9ed",
   "extracted_text_sha256": "a3e066dd60fbbf470e2be8640d4571a0048f478ca5b94f0760a53595a4b9e538",
@@ -43,5 +43,5 @@
   ],
   "imports": [],
   "term_count": 25,
-  "usage_count": 482
+  "usage_count": 474
 }

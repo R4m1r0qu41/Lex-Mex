@@ -11,7 +11,7 @@ temporal_status: unknown
 review_status: not_analyzed
 amendment_marks: [5,18,19,20]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20los%20fondos%20de%20inversi%C3%B3n%20y%20a%20las%20personas%20que%20les%20prestan%20servicios.pdf
-source_sha256: 30cec2bac3222c89d447b6e8adc7877ea45ece21dfc270ed8c963ea91649b6ee
+source_sha256: 3b21198efc7e52987a773cbcc48772185e6eadc7338673fa39bfb38ba907d07b
 ---
 
 # Artículo 64 Bis 19
@@ -34,4 +34,4 @@ A fin de determinar la viabilidad de celebrar los contratos correspondientes, la
 
 El modelo de contrato de prestación de servicios que cada sociedad que administra mecanismos electrónicos de negociación de acciones de fondos de inversión pretenda celebrar, así como sus modificaciones, deberá ser enviado a la Comisión para su autorización. Dicho contrato podrá ser un contrato marco que suscriban las sociedades que administran mecanismos electrónicos de negociación de acciones de fondos de inversión con todas las partes a las que les prestarán sus servicios. En lugar del contrato marco, las sociedades que administran mecanismos electrónicos de negociación de acciones de fondos de inversión podrán optar por celebrar contratos con las sociedades operadoras de fondos de inversión que contengan las estipulaciones a favor de las sociedades o entidades que distribuyan acciones de fondos de inversión, así como contratos con las sociedades o entidades que presten servicios de distribución de acciones de fondos de inversión, que contenga las estipulaciones a favor de las operadoras de fondos de inversión. En estos últimos casos, las estipulaciones a favor de terceros únicamente se referirán a las sociedades operadoras y sociedades o entidades que distribuyan acciones de fondos de inversión que utilicen los servicios de las sociedades que administran mecanismos electrónicos de negociación de acciones de fondos de inversión.
 
-Las sociedades que administran mecanismos electrónicos de negociación de acciones de fondos de inversión en ningún momento responderán del incumplimiento de las obligaciones que la Ley y las presentes disposiciones le imponen a las sociedades operadoras de acciones de fondos de inversión o a las sociedades o entidades que prestan los servicios de distribución de acciones de fondos de inversión.
+Las sociedades que administran mecanismos electrónicos de negociación de acciones de fondos de inversión en ningún momento responderán del incumplimiento de las obligaciones que la [Ley](articulo-1.md) y las presentes disposiciones le imponen a las sociedades operadoras de acciones de fondos de inversión o a las sociedades o entidades que prestan los servicios de distribución de acciones de fondos de inversión.

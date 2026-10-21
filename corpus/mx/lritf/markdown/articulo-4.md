@@ -23,7 +23,7 @@ I. Autoridad Financiera, a cualquiera de las [Comisiones Supervisoras](articulo-
 
 II. Cliente, a la persona física o moral que contrata o realiza alguna [Operación](articulo-4.md) con una [ITF](articulo-4.md), así como la que contrata o utiliza los servicios de [Entidades Financieras](articulo-4.md) previstos en esta Ley o de sociedades autorizadas para operar con [Modelos Novedosos](articulo-4.md);
 
-III. CNBV, a la Comisión Nacional Bancaria y de [Valores](articulo-4.md);
+III. CNBV, a la Comisión Nacional Bancaria y de Valores;
 
 IV. CNSF, a la Comisión Nacional de Seguros y Fianzas;
 
@@ -37,7 +37,7 @@ VIII. CONSAR, a la Comisión Nacional del Sistema de Ahorro para el Retiro;
 
 IX. Consorcio, al conjunto de personas morales vinculadas entre sí por una o más personas físicas que integrando un [Grupo de Personas](articulo-4.md), tengan el [Control](articulo-4.md) de las primeras;
 
-X. Control, a la capacidad de imponer, directa o indirectamente, decisiones en las asambleas generales de accionistas, de socios u órganos equivalentes, o nombrar o destituir a la mayoría de los consejeros, administradores o sus equivalentes de una persona moral; o el mantener la titularidad de derechos que permitan, directa o indirectamente, ejercer el voto respecto de más del cincuenta por ciento del capital social de la sociedad, o el dirigir, directa o indirectamente, la administración, la estrategia o las principales políticas de la sociedad, ya sea a través de la propiedad de Valores o por cualquier otro acto jurídico;
+X. Control, a la capacidad de imponer, directa o indirectamente, decisiones en las asambleas generales de accionistas, de socios u órganos equivalentes, o nombrar o destituir a la mayoría de los consejeros, administradores o sus equivalentes de una persona moral; o el mantener la titularidad de derechos que permitan, directa o indirectamente, ejercer el voto respecto de más del cincuenta por ciento del capital social de la sociedad, o el dirigir, directa o indirectamente, la administración, la estrategia o las principales políticas de la sociedad, ya sea a través de la propiedad de [Valores](articulo-4.md) o por cualquier otro acto jurídico;
 
 XI. Directivo Relevante, al Director General de las ITF, así como a las personas físicas que, ocupando un empleo, cargo o comisión en aquellas o en las personas morales que tengan el Control de dichas ITF o que sean controladas por estas últimas, adopten decisiones que trasciendan de forma significativa en la situación administrativa, financiera, operacional o jurídica de la propia ITF o del [Grupo Empresarial](articulo-4.md) al que esta pertenezca, sin que queden comprendidos dentro de esta definición los consejeros de las ITF;
 

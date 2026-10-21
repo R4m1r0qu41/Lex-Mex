@@ -172,15 +172,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpccs:article:3:term-usage:6319-6327",
-    "provision_id": "urn:lex-mx:federal:statute:lfpccs:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lfpccs:term:semilla",
-    "span": "Semillas",
-    "start_char": 6319,
-    "end_char": 6327
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfpccs:article:3:term-usage:6362-6372",
     "provision_id": "urn:lex-mx:federal:statute:lfpccs:article:3",
     "term_id": "urn:lex-mx:federal:statute:lfpccs:term:secretaria",
@@ -205,15 +196,6 @@
     "span": "Semillas",
     "start_char": 6610,
     "end_char": 6618
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpccs:article:3:term-usage:6786-6794",
-    "provision_id": "urn:lex-mx:federal:statute:lfpccs:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lfpccs:term:semilla",
-    "span": "Semillas",
-    "start_char": 6786,
-    "end_char": 6794
   },
   {
     "schema_version": "0.1.0",
@@ -352,15 +334,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpccs:article:4:term-usage:2383-2391",
-    "provision_id": "urn:lex-mx:federal:statute:lfpccs:article:4",
-    "term_id": "urn:lex-mx:federal:statute:lfpccs:term:semilla",
-    "span": "Semillas",
-    "start_char": 2383,
-    "end_char": 2391
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfpccs:article:4:term-usage:2640-2647",
     "provision_id": "urn:lex-mx:federal:statute:lfpccs:article:4",
     "term_id": "urn:lex-mx:federal:statute:lfpccs:term:sistema",
@@ -370,30 +343,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpccs:article:4:term-usage:2660-2668",
-    "provision_id": "urn:lex-mx:federal:statute:lfpccs:article:4",
-    "term_id": "urn:lex-mx:federal:statute:lfpccs:term:semilla",
-    "span": "Semillas",
-    "start_char": 2660,
-    "end_char": 2668
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfpccs:article:4:term-usage:2718-2725",
     "provision_id": "urn:lex-mx:federal:statute:lfpccs:article:4",
     "term_id": "urn:lex-mx:federal:statute:lfpccs:term:sistema",
     "span": "Sistema",
     "start_char": 2718,
     "end_char": 2725
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpccs:article:4:term-usage:2738-2746",
-    "provision_id": "urn:lex-mx:federal:statute:lfpccs:article:4",
-    "term_id": "urn:lex-mx:federal:statute:lfpccs:term:semilla",
-    "span": "Semillas",
-    "start_char": 2738,
-    "end_char": 2746
   },
   {
     "schema_version": "0.1.0",
@@ -424,30 +379,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpccs:article:5:term-usage:454-462",
-    "provision_id": "urn:lex-mx:federal:statute:lfpccs:article:5",
-    "term_id": "urn:lex-mx:federal:statute:lfpccs:term:semilla",
-    "span": "Semillas",
-    "start_char": 454,
-    "end_char": 462
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfpccs:article:5:term-usage:507-514",
     "provision_id": "urn:lex-mx:federal:statute:lfpccs:article:5",
     "term_id": "urn:lex-mx:federal:statute:lfpccs:term:sistema",
     "span": "Sistema",
     "start_char": 507,
     "end_char": 514
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpccs:article:5:term-usage:527-535",
-    "provision_id": "urn:lex-mx:federal:statute:lfpccs:article:5",
-    "term_id": "urn:lex-mx:federal:statute:lfpccs:term:semilla",
-    "span": "Semillas",
-    "start_char": 527,
-    "end_char": 535
   },
   {
     "schema_version": "0.1.0",
@@ -574,15 +511,6 @@
     "span": "Sistema",
     "start_char": 11,
     "end_char": 18
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpccs:article:7:term-usage:31-39",
-    "provision_id": "urn:lex-mx:federal:statute:lfpccs:article:7",
-    "term_id": "urn:lex-mx:federal:statute:lfpccs:term:semilla",
-    "span": "Semillas",
-    "start_char": 31,
-    "end_char": 39
   },
   {
     "schema_version": "0.1.0",
@@ -718,15 +646,6 @@
     "span": "Sistema",
     "start_char": 61,
     "end_char": 68
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpccs:article:11:term-usage:81-89",
-    "provision_id": "urn:lex-mx:federal:statute:lfpccs:article:11",
-    "term_id": "urn:lex-mx:federal:statute:lfpccs:term:semilla",
-    "span": "Semillas",
-    "start_char": 81,
-    "end_char": 89
   },
   {
     "schema_version": "0.1.0",
@@ -1324,15 +1243,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpccs:article:37:term-usage:1167-1175",
-    "provision_id": "urn:lex-mx:federal:statute:lfpccs:article:37",
-    "term_id": "urn:lex-mx:federal:statute:lfpccs:term:semilla",
-    "span": "Semillas",
-    "start_char": 1167,
-    "end_char": 1175
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfpccs:article:38:term-usage:500-526",
     "provision_id": "urn:lex-mx:federal:statute:lfpccs:article:38",
     "term_id": "urn:lex-mx:federal:statute:lfpccs:term:normas-oficiales-mexicanas",
@@ -1483,15 +1393,6 @@
     "span": "Secretaría",
     "start_char": 610,
     "end_char": 620
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpccs:transitory:tercero:term-usage:630-640",
-    "provision_id": "urn:lex-mx:federal:statute:lfpccs:transitory:tercero",
-    "term_id": "urn:lex-mx:federal:statute:lfpccs:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 630,
-    "end_char": 640
   },
   {
     "schema_version": "0.1.0",

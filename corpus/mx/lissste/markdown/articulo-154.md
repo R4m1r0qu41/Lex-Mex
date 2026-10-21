@@ -17,6 +17,6 @@ source_sha256: aa6e0e437331debd80d0086155e2d99885ea5e22cb13353c44eb0b1090f0b4d5
 
 # Artículo 154
 
-Los Trabajadores que hubieren cotizado al [Instituto](articulo-6.md) y que por virtud de una nueva relación laboral se inscriban al Instituto del [Fondo](articulo-6.md) Nacional de la Vivienda para los Trabajadores, podrán transferir a este último los recursos acumulados en la [Subcuenta](articulo-6.md) del Fondo de la Vivienda. De la misma manera, los Trabajadores inscritos en el Instituto del Fondo Nacional de la Vivienda para los Trabajadores que inicien una relación laboral que los sujete al régimen de esta Ley podrán transferir al Instituto los recursos de la Subcuenta del Fondo de la Vivienda respectiva.
+Los Trabajadores que hubieren cotizado al [Instituto](articulo-6.md) y que por virtud de una nueva relación laboral se inscriban al Instituto del Fondo Nacional de la Vivienda para los Trabajadores, podrán transferir a este último los recursos acumulados en la [Subcuenta](articulo-6.md) del [Fondo](articulo-6.md) de la Vivienda. De la misma manera, los Trabajadores inscritos en el Instituto del Fondo Nacional de la Vivienda para los Trabajadores que inicien una relación laboral que los sujete al régimen de esta Ley podrán transferir al Instituto los recursos de la Subcuenta del Fondo de la Vivienda respectiva.
 
 Para efectos de la transferencia de derechos prevista en el presente artículo, se estará a las reglas que, para tal efecto, expida cada uno de los institutos de seguridad social mencionados.

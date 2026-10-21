@@ -19,7 +19,7 @@ source_sha256: 79f2b255a142d1756d7e8c13244af6dc8c4f2f474acaf0d669f2b156b022fc03
 
 De las Entidades Federativas. Corresponde a las entidades federativas:
 
-I. Integrar el [Sistema Nacional](articulo-3.md) de [Movilidad](articulo-3.md) y Seguridad Vial, de conformidad con lo establecido en el artículo [7](articulo-7.md) del presente ordenamiento;
+I. Integrar el [Sistema Nacional](articulo-3.md) de Movilidad y Seguridad Vial, de conformidad con lo establecido en el artículo [7](articulo-7.md) del presente ordenamiento;
 
 II. Gestionar la seguridad vial y la movilidad urbana, interurbana, rural e insular, en el ámbito de su competencia, con base en lo establecido en esta [Ley](articulo-3.md) y demás disposiciones legales en la materia;
 

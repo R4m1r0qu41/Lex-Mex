@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-5",
+  "strategy_version": "glossary-extraction-6",
   "instrument_id": "urn:lex-mx:federal:statute:lfpccs",
   "source_sha256": "ea99e8d1b13b36451e69f865d4aeeca08ce847fb7dcab648e77f65ca88991a8b",
   "extracted_text_sha256": "c8d59b071e75ff18ae64ccbc6debd788120bdde24946494586754285c972627e",
@@ -43,7 +43,7 @@
       ],
       "repeal_placeholders": [],
       "profile": {
-        "strategy_version": "glossary-extraction-5",
+        "strategy_version": "glossary-extraction-6",
         "provision_text_sha256": "6a30ae4a30c525fb88576269fc8811de20491182b958b79b84ac8237323a7217",
         "rationale": "Fraction XXVII writes its term before a period (`SNICS. El Servicio…`) where every other fraction uses a colon.",
         "evidence": "docs/decisions.md (2026-10-19, glossary exception profiles, batch 1)",
@@ -65,5 +65,5 @@
   ],
   "imports": [],
   "term_count": 29,
-  "usage_count": 168
+  "usage_count": 157
 }

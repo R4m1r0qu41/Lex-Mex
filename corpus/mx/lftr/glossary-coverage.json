@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-5",
+  "strategy_version": "glossary-extraction-6",
   "instrument_id": "urn:lex-mx:federal:statute:lftr",
   "source_sha256": "a15012b33a415083f7714764c86fda8ed0078d3f5313dfc194c503f98a573a2a",
   "extracted_text_sha256": "4aec027be9cb1e9b2fb928d3554a6698e2331e91ce29f1c84d2d1c22839d441e",
@@ -89,5 +89,5 @@
   ],
   "imports": [],
   "term_count": 71,
-  "usage_count": 1120
+  "usage_count": 1075
 }

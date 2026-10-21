@@ -20,9 +20,9 @@ source_sha256: a15012b33a415083f7714764c86fda8ed0078d3f5313dfc194c503f98a573a2a
 
 # Artículo 218
 
-Corresponde a la [Secretaría](articulo-3.md) de Educación Pública:
+Corresponde a la Secretaría de Educación Pública:
 
-I. En los términos establecidos en las disposiciones que en materia de Estrategia Digital emita el [Ejecutivo Federal](articulo-3.md), promover en coordinación con la Secretaría, el uso de las tecnologías de la información y la comunicación en el sector de educación;
+I. En los términos establecidos en las disposiciones que en materia de Estrategia Digital emita el [Ejecutivo Federal](articulo-3.md), promover en coordinación con la [Secretaría](articulo-3.md), el uso de las tecnologías de la información y la comunicación en el sector de educación;
 
 II. Elaborar y difundir programas de carácter educativo y recreativo para la población infantil, y
 

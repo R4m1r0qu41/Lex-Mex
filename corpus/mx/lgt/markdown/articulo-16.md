@@ -21,4 +21,4 @@ La [Secretaría](articulo-3.md) impulsará y promoverá el turismo social, el cu
 
 Las dependencias y las entidades de la Administración Pública Federal, coordinarán y promoverán sus esfuerzos entre ellas y con las de los gobiernos locales y municipales, e impulsarán acciones con los sectores social y privado para el fomento del turismo social.
 
-La Secretaría, la Secretaría de Desarrollo Social, el Instituto Mexicano del Seguro Social, el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y la [Comisión](articulo-3.md) Nacional de Cultura Física y Deporte, elaborarán y ejecutarán de manera coordinada un programa tendiente a fomentar el turismo social.
+La Secretaría, la Secretaría de Desarrollo Social, el Instituto Mexicano del Seguro Social, el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y la Comisión Nacional de Cultura Física y Deporte, elaborarán y ejecutarán de manera coordinada un programa tendiente a fomentar el turismo social.

@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-5",
+  "strategy_version": "glossary-extraction-6",
   "instrument_id": "urn:lex-mx:federal:statute:lgcg",
   "source_sha256": "cf7f5220f083bdcd8eed4104bbdf40299221f32cd5c51e17b1f03b033e677815",
   "extracted_text_sha256": "1a13eb00058d3e8098f78d4bbd79bc9c8293b9b0ee9f15bd80c570536a0e4733",
@@ -47,5 +47,5 @@
   ],
   "imports": [],
   "term_count": 29,
-  "usage_count": 38
+  "usage_count": 36
 }

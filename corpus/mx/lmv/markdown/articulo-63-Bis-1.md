@@ -25,6 +25,6 @@ II. Cuyos recursos de la emisión se destinen a la inversión en inmuebles para 
 
 III. Que representen derechos respecto de valores, bienes, instrumentos financieros derivados u otros activos que busquen replicar el comportamiento de uno o más índices, activos financieros o parámetros de referencia, agregarán a su denominación de certificados bursátiles fiduciarios la palabra “indizados”.
 
-Los certificados bursátiles fiduciarios a que se refieren las fracciones I a III anteriores, que se encuentren inscritos en el [Registro](articulo-2.md) Nacional de [Valores](articulo-2.md), deberán ser listados y negociados a lo largo de las sesiones bursátiles en las bolsas de valores. La [Comisión](articulo-2.md) podrá determinar, mediante disposiciones de carácter general, las características de las emisiones de cada uno de dichos certificados bursátiles para efectos de su inscripción en el Registro.
+Los certificados bursátiles fiduciarios a que se refieren las fracciones I a III anteriores, que se encuentren inscritos en el [Registro](articulo-2.md) Nacional de Valores, deberán ser listados y negociados a lo largo de las sesiones bursátiles en las bolsas de valores. La [Comisión](articulo-2.md) podrá determinar, mediante disposiciones de carácter general, las características de las emisiones de cada uno de dichos certificados bursátiles para efectos de su inscripción en el Registro.
 
 Artículo adicionado DOF 10-01-2014

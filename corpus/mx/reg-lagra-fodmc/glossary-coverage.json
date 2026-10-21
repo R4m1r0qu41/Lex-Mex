@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-5",
+  "strategy_version": "glossary-extraction-6",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc",
   "source_sha256": "8f260ce1817a60db6bf98c15f8ddf05b57321d6b78c67eaf1e0b987f8bcc70b1",
   "extracted_text_sha256": "03300bf97c988a61d6c991ae012ab294d0db265cb079f3f7b04d9fa25ffaae63",

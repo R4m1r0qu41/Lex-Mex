@@ -24,7 +24,7 @@ I. El Capítulo Primero del Título Séptimo de las presentes disposiciones.
 
 II. El Capítulo Tercero del Título Séptimo de las presentes disposiciones.
 
-III. Las “Disposiciones de carácter general que establecen el procedimiento para la atención de los requerimientos de información y documentación que las autoridades competentes formulan a las entidades financieras sujetas a la supervisión de la Comisión Nacional Bancaria y de [Valores](articulo-1.md), por conducto de esta”, emitidas por la Comisión y publicadas en el Diario Oficial de la Federación el 11 de octubre de 2010.
+III. Las “Disposiciones de carácter general que establecen el procedimiento para la atención de los requerimientos de información y documentación que las autoridades competentes formulan a las entidades financieras sujetas a la supervisión de la Comisión Nacional Bancaria y de Valores, por conducto de esta”, emitidas por la Comisión y publicadas en el Diario Oficial de la Federación el 11 de octubre de 2010.
 
 IV. Las “Reglas generales para la integración de expedientes que contengan la información que acredite el cumplimiento de los requisitos que deben satisfacer las personas que desempeñen empleos, cargos o comisiones en entidades financieras”, emitidas por la Comisión y publicadas en el Diario Oficial de la Federación el 1 de marzo de 2002 y sus respectivas modificaciones.
 

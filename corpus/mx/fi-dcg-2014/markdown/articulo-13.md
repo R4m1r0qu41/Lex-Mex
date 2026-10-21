@@ -11,12 +11,12 @@ temporal_status: unknown
 review_status: not_analyzed
 amendment_marks: [40]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20los%20fondos%20de%20inversi%C3%B3n%20y%20a%20las%20personas%20que%20les%20prestan%20servicios.pdf
-source_sha256: 30cec2bac3222c89d447b6e8adc7877ea45ece21dfc270ed8c963ea91649b6ee
+source_sha256: 3b21198efc7e52987a773cbcc48772185e6eadc7338673fa39bfb38ba907d07b
 ---
 
 # Artículo 13
 
-Los prospectos de información al público inversionista de los fondos de inversión de renta variable y en instrumentos de deuda deberán elaborarse ajustándose al instructivo que se contiene en el Anexo 2 de las presentes disposiciones. Dichos prospectos deberán contener un documento con información clave para la inversión, elaborado conforme a lo previsto en el Anexo 3 de estas disposiciones, y requerirán de la previa autorización de la Comisión en términos de lo establecido en el artículo 9, primer párrafo de la Ley.
+Los prospectos de información al público inversionista de los fondos de inversión de renta variable y en instrumentos de deuda deberán elaborarse ajustándose al instructivo que se contiene en el Anexo 2 de las presentes disposiciones. Dichos prospectos deberán contener un documento con información clave para la inversión, elaborado conforme a lo previsto en el Anexo 3 de estas disposiciones, y requerirán de la previa autorización de la Comisión en términos de lo establecido en el artículo 9, primer párrafo de la [Ley](articulo-1.md).
 
 Tratándose de fondos de inversión que sean administrados por la misma sociedad operadora de fondos de inversión, los prospectos de información al público inversionista podrán presentarse a la Comisión y al público inversionista en un documento genérico que contenga la información común aplicable a todos los fondos de inversión y sin excepción entre ellos, mientras que la información distintiva de cada uno de dichos fondos deberá presentarse claramente diferenciada por cada uno de ellos en un documento por separado.
 

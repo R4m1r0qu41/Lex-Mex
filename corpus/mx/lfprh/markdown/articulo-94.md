@@ -21,7 +21,7 @@ source_sha256: ce45c7c0c4e9099691e6e24bd2456d0b6f71f91ab27eedd5c4f2190b66d47741
 
 I. Hasta por un monto equivalente a 10%, al fondo para el sistema de pensión universal conforme a lo que señale su ley;
 
-II. Hasta por un monto equivalente a 10%, para financiar proyectos de inversión en ciencia, tecnología e innovación, y en energías renovables; III. Hasta por un monto equivalente a 30%, para fondear un vehículo de inversión especializado en proyectos petroleros, coordinado por la [Secretaría](articulo-2.md) de Energía y, en su caso, en inversiones en infraestructura para el desarrollo nacional, y
+II. Hasta por un monto equivalente a 10%, para financiar proyectos de inversión en ciencia, tecnología e innovación, y en energías renovables; III. Hasta por un monto equivalente a 30%, para fondear un vehículo de inversión especializado en proyectos petroleros, coordinado por la Secretaría de Energía y, en su caso, en inversiones en infraestructura para el desarrollo nacional, y
 
 IV. Hasta por un monto equivalente a 10%, en becas para la formación de capital humano en universidades y posgrados; en proyectos de mejora a la conectividad; así como para el desarrollo regional de la industria. Con excepción del programa de becas, no podrán emplearse recursos para gasto corriente en lo determinado en esta fracción.
 

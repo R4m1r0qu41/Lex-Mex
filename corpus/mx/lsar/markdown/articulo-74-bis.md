@@ -17,7 +17,7 @@ source_sha256: 02ff746c921b436a1ab6c74e5f1bc429976595b1b0f82cb8c5b50db1004128c1
 
 # Artículo 74 bis
 
-Los trabajadores inscritos en el Instituto de Seguridad y Servicios Sociales de los [Trabajadores](articulo-3o.md) del Estado, tendrán derecho a la apertura de su cuenta individual en la administradora de su elección. La administradora elegida tendrá a su cargo la administración de la cuenta individual y, cuando el trabajador así lo decida, la inversión de la totalidad de los recursos acumulados en la subcuenta de ahorro para el retiro y de las aportaciones voluntarias en las sociedades de inversión.
+Los trabajadores inscritos en el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, tendrán derecho a la apertura de su cuenta individual en la administradora de su elección. La administradora elegida tendrá a su cargo la administración de la cuenta individual y, cuando el trabajador así lo decida, la inversión de la totalidad de los recursos acumulados en la subcuenta de ahorro para el retiro y de las aportaciones voluntarias en las sociedades de inversión.
 
 Asimismo, dichos trabajadores podrán solicitar, en su caso, el traspaso de sus cuentas individuales operadas por instituciones de crédito a la administradora de su elección.
 

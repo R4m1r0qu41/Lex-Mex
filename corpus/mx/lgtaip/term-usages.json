@@ -955,15 +955,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgtaip:article:39:term-usage:1570-1586",
-    "provision_id": "urn:lex-mx:federal:statute:lgtaip:article:39",
-    "term_id": "urn:lex-mx:federal:statute:lgtaip:term:sistema-nacional",
-    "span": "Sistema Nacional",
-    "start_char": 1570,
-    "end_char": 1586
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgtaip:article:39:term-usage:2564-2567",
     "provision_id": "urn:lex-mx:federal:statute:lgtaip:article:39",
     "term_id": "urn:lex-mx:federal:statute:lgtaip:term:ley",

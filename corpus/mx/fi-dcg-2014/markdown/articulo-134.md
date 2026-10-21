@@ -10,18 +10,18 @@ generated: true
 temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20los%20fondos%20de%20inversi%C3%B3n%20y%20a%20las%20personas%20que%20les%20prestan%20servicios.pdf
-source_sha256: 30cec2bac3222c89d447b6e8adc7877ea45ece21dfc270ed8c963ea91649b6ee
+source_sha256: 3b21198efc7e52987a773cbcc48772185e6eadc7338673fa39bfb38ba907d07b
 ---
 
 # Artículo 134
 
 Las sociedades operadoras de fondos de inversión deberán contar con informes que se basen en datos íntegros, precisos y oportunos relacionados con la administración de riesgos, los cuales deberán ser presentados periódicamente al consejo de administración. Dichos informes deberán contener como mínimo lo siguiente:
 
-I. La exposición por tipo de riesgo en los casos de riesgos discrecionales, así como los niveles de incidencia e impacto en el caso de los riesgos no discrecionales, desglosados por fondo de inversión, tipo de Valor y por Factor de riesgo, causa u origen de estos. Los informes sobre la exposición de riesgo deberán incluir análisis de sensibilidad y pruebas bajo condiciones extremas.
+I. La exposición por tipo de riesgo en los casos de riesgos discrecionales, así como los niveles de incidencia e impacto en el caso de los riesgos no discrecionales, desglosados por fondo de inversión, tipo de Valor y por [Factor de riesgo](articulo-1.md), causa u origen de estos. Los informes sobre la exposición de riesgo deberán incluir análisis de sensibilidad y pruebas bajo condiciones extremas.
 
 En este sentido y respecto a los riesgos no cuantificables, los informes deberán contener una descripción del riesgo de que se trate, las posibles causas y consecuencias de su materialización, incluyendo en la medida de lo posible una estimación de su impacto financiero y propuestas de acciones a fin de minimizar dicha exposición.
 
-II. El grado de cumplimiento de los objetivos, lineamientos y políticas para la Administración integral de riesgos.
+II. El grado de cumplimiento de los objetivos, lineamientos y políticas para la [Administración integral de riesgos](articulo-1.md).
 
 III. Los resúmenes de los resultados de las auditorías o evaluaciones a que hacen referencia los artículos [127](articulo-127.md) y [128](articulo-128.md) de las presentes disposiciones, según sea el caso, por lo que hace al cumplimiento de los objetivos, lineamientos y políticas para la Administración integral de riesgos, así como sobre las evaluaciones de los sistemas de medición de riesgos.
 

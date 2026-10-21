@@ -27,13 +27,13 @@ III. Biblioteca pública.- Establecimiento que contiene un acervo bibliográfico
 
 IV. Consejo.- El Consejo Nacional de Fomento para el Libro y la Lectura;
 
-V. CONACULTA.- El [Consejo](articulo-2.md) Nacional para la Cultura y las Artes;
+V. CONACULTA.- El Consejo Nacional para la Cultura y las Artes;
 
 VI. Importador.- Persona física o moral que introduce al territorio nacional libros y revistas extranjeras para su comercialización, de conformidad con las disposiciones aplicables;
 
 VII. ISBN.- Número internacional normalizado del libro;
 
-VIII. Ley.- Ley de Fomento para la Lectura y el Libro; IX. Lineamientos.- Los lineamientos que el Consejo emita para el funcionamiento del [Registro](articulo-2.md) del Precio Único de Venta al Público;
+VIII. Ley.- Ley de Fomento para la Lectura y el Libro; IX. Lineamientos.- Los lineamientos que el [Consejo](articulo-2.md) emita para el funcionamiento del [Registro](articulo-2.md) del Precio Único de Venta al Público;
 
 X. Programa.- El Programa de Fomento para el Libro y la Lectura a que se refiere la fracción I del artículo [6](../../lfll/markdown/articulo-6.md) de la Ley;
 

@@ -25,8 +25,8 @@ III. Recibir educación y, en su caso, el reconocimiento de sus estudios;
 
 IV. Ejercer el derecho al trabajo, pudiéndose dedicar a cualquier actividad, siempre que sea lícita, sin perjuicio de las disposiciones jurídicas que resulten aplicables en la materia;
 
-V. Obtener el documento de identidad y viaje expedido por la [Secretaría](articulo-2.md) de Relaciones Exteriores;
+V. Obtener el documento de identidad y viaje expedido por la Secretaría de Relaciones Exteriores;
 
 VI. Solicitar la reunificación familiar, y
 
-VII. Obtener el documento migratorio expedido por la Secretaría, que acredite su condición de estancia como residente permanente. Fracción reformada DOF 30-10-2014
+VII. Obtener el documento migratorio expedido por la [Secretaría](articulo-2.md), que acredite su condición de estancia como residente permanente. Fracción reformada DOF 30-10-2014

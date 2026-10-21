@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-5",
+  "strategy_version": "glossary-extraction-6",
   "instrument_id": "urn:lex-mx:federal:statute:lpcinecdi",
   "source_sha256": "e969fde67d7c5adc1c78322e3309fe5a5ecc245489ce3ec259f16063eea0c1db",
   "extracted_text_sha256": "c04d8cc6ad4672b5a3887ed006aea82a72d0d74177910532d32c80b5917f1162",

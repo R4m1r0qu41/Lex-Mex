@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-5",
+  "strategy_version": "glossary-extraction-6",
   "instrument_id": "urn:lex-mx:federal:statute:lsat",
   "source_sha256": "ba54c4384528c6b47fbb3f641cb57dd089a9f1770306b45776ad1711eaca21d5",
   "extracted_text_sha256": "32c3f2d9cc8dca377e40483f47d8ea54e5828f9501e4b779d07e2eb8af2441bc",

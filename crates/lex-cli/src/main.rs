@@ -1435,7 +1435,12 @@ fn run_batch_instrument(
 #[derive(Debug, serde::Serialize)]
 struct BatchClosureReport {
     status: String,
+    /// The batch's own instruments and every other instrument the corpus
+    /// closure relinked.
     relinked: Vec<String>,
+    /// Accepted-gap instruments outside the batch whose glossary alone the
+    /// corpus closure refreshed.
+    glossary_refreshed: Vec<String>,
     expected_edges: Vec<ExpectedEdgeCheck>,
 }
 
@@ -1466,7 +1471,10 @@ struct ExpectedEdgeCorpus {
 /// after every selected source has entered the corpus. An admitted title can
 /// also move another instrument's glossary usages (the title-span filter), so
 /// the whole corpus is then closed once and must reject exactly the accepted
-/// gaps; every instrument it relinks is validated and republished.
+/// gaps; every instrument it relinks is validated and republished. An
+/// accepted-gap instrument whose glossary alone it refreshed is republished
+/// without the ordinary validation, whose recorded reference errors stand
+/// (Codex review 2026-10-20); the closure already checked its coverage.
 fn run_batch_closure(
     root: &Path,
     successful_slugs: &[String],
@@ -1478,6 +1486,7 @@ fn run_batch_closure(
         run_link(root, &context)?;
     }
     let mut closed: BTreeSet<String> = successful_slugs.iter().cloned().collect();
+    let mut glossary_refreshed = Vec::new();
     if !successful_slugs.is_empty() {
         let corpus = run_corpus_closure(root)?;
         if !closure_matches_accepted_gaps(root, &corpus)? {
@@ -1487,6 +1496,7 @@ fn run_batch_closure(
             );
         }
         closed.extend(corpus.relinked_instruments);
+        glossary_refreshed = corpus.glossary_refreshed_instruments;
     }
     for slug in &closed {
         let context = instrument_context(root, slug)?;
@@ -1495,6 +1505,9 @@ fn run_batch_closure(
             bail!("validation failed for {slug} after batch reverse linking");
         }
         republish_exports(root, &context, obsidian_vault)?;
+    }
+    for slug in &glossary_refreshed {
+        republish_exports(root, &instrument_context(root, slug)?, obsidian_vault)?;
     }
 
     let corpora = expected_edge_corpora(root)?;
@@ -1513,6 +1526,7 @@ fn run_batch_closure(
     Ok(BatchClosureReport {
         status: status.to_owned(),
         relinked: closed.into_iter().collect(),
+        glossary_refreshed,
         expected_edges: checks,
     })
 }
@@ -2415,7 +2429,8 @@ fn extract_instrument_terms(
         usages
     } else {
         let definitions = term_definitions(&term_sets, provisions, siblings);
-        let index = title_index(&title_phrases(&context.root, instrument, siblings)?)?;
+        let phrases = title_phrases(&context.root, instrument, siblings, &terms, provisions)?;
+        let index = title_index(&phrases)?;
         drop_usages_in_titles(usages, provisions, &definitions, &index)
     };
     let imports = additive_to
@@ -2433,13 +2448,17 @@ fn extract_instrument_terms(
     })
 }
 
-/// Instrument titles as usage boundaries: every committed instrument's
-/// official title with more than one word, and every curated multi-word
-/// alias whose instrument is committed, lower-cased.
+/// Instrument titles and institution names as usage boundaries: every
+/// committed instrument's official title with more than one word, every
+/// curated multi-word alias whose instrument is committed, and every
+/// institution's full name a glossary prints as a definition
+/// ([`institution_names`]), lower-cased.
 fn title_phrases(
     root: &Path,
     instrument: &Instrument,
     siblings: &[(&str, &Corpus)],
+    terms: &[lex_core::DefinedTerm],
+    provisions: &[lex_core::Provision],
 ) -> Result<Vec<String>> {
     let mut instruments: Vec<&Instrument> = vec![instrument];
     instruments.extend(siblings.iter().map(|(_, corpus)| &corpus.instrument));
@@ -2466,7 +2485,146 @@ fn title_phrases(
             }
         }
     }
+    phrases.extend(institution_names(terms, provisions));
+    for (_, corpus) in siblings {
+        phrases.extend(committed_institution_names(corpus)?);
+    }
     Ok(phrases.into_iter().collect())
+}
+
+/// [`institution_names`] of a committed corpus, kept per instrument because
+/// `link --all` asks for every sibling's once per instrument.
+fn committed_institution_names(corpus: &Corpus) -> Result<Vec<String>> {
+    type Cache = HashMap<String, (String, Vec<String>)>;
+    static CACHE: std::sync::Mutex<Option<Cache>> = std::sync::Mutex::new(None);
+    let fingerprint = corpus
+        .terms
+        .iter()
+        .map(|term| format!("{}@{}-{}", term.id, term.start_char, term.end_char))
+        .chain(std::iter::once(
+            corpus.instrument.extracted_text_sha256.clone(),
+        ))
+        .collect::<Vec<_>>()
+        .join(",");
+    let mut cache = CACHE
+        .lock()
+        .map_err(|_| anyhow::anyhow!("institution name cache poisoned"))?;
+    let cache = cache.get_or_insert_with(HashMap::new);
+    if let Some((cached, names)) = cache.get(&corpus.instrument.id)
+        && *cached == fingerprint
+    {
+        return Ok(names.clone());
+    }
+    let names = institution_names(&corpus.terms, &corpus.provisions);
+    cache.insert(corpus.instrument.id.clone(), (fingerprint, names.clone()));
+    Ok(names)
+}
+
+/// Words that name an institution or a part of one.
+const INSTITUTION_WORDS: &[&str] = &[
+    "Administración",
+    "Agencia",
+    "Auditoría",
+    "Banco",
+    "Cámara",
+    "Centro",
+    "Comisión",
+    "Consejo",
+    "Coordinación",
+    "Dirección",
+    "Fiscalía",
+    "Fondo",
+    "Instituto",
+    "Junta",
+    "Oficina",
+    "Organismo",
+    "Procuraduría",
+    "Registro",
+    "Secretaría",
+    "Servicio",
+    "Sistema",
+    "Subsecretaría",
+    "Suprema",
+    "Tribunal",
+    "Unidad",
+];
+
+/// The full names of institutions that glossaries define, lower-cased: a
+/// definition that opens with one (`Secretaría: Secretaría de Medio Ambiente
+/// y Recursos Naturales`; `Procuraduría: La Procuraduría Federal de
+/// Protección al Ambiente`). A term inside such a name is the name's word,
+/// not a use of the term (LGEEPA's `Ambiente` in the Procuraduría's name;
+/// `Secretaría`, defined as the Secretaría de Economía, in `Secretaría de
+/// Hacienda y Crédito Público`), unless the term's own definition names it
+/// (operator 2026-10-20: "when in doubt use the full exact name"). A name
+/// counts only with three or more words, and not when it refers to another
+/// body inside it: a name ending in an institution word or an abbreviation
+/// (`Consejo Técnico del Instituto`, `Consejo Consultivo de la AMEXCID`),
+/// or with an institution word followed by a connector or the end
+/// (`Fiscalía Especializada de la Fiscalía y de las Procuradurías`).
+fn institution_names(
+    terms: &[lex_core::DefinedTerm],
+    provisions: &[lex_core::Provision],
+) -> Vec<String> {
+    static NAME: std::sync::LazyLock<Regex> = std::sync::LazyLock::new(|| {
+        let institution = INSTITUTION_WORDS.join("|");
+        let word = r"[A-ZÁÉÍÓÚÑ][\wáéíóúñü-]*";
+        let connector = r"(?:de|del|la|las|los|el|y|e|para|al|en|a)";
+        Regex::new(&format!(
+            r#"\A[\s"“”:,.;-]*(?:(?:La|El|Los|Las|la|el|los|las|a la|al|A la|Al)\s+)?((?:{institution})(?:\s+(?:{connector}\s+)*{word})+)"#
+        ))
+        .expect("institution name regex must compile")
+    });
+    let connectors = [
+        "de", "del", "la", "las", "los", "el", "y", "e", "para", "al", "en", "a",
+    ];
+    let institution_word = |word: &str| {
+        INSTITUTION_WORDS
+            .iter()
+            .any(|institution| word == *institution || word.strip_suffix('s') == Some(institution))
+    };
+    let texts: HashMap<&str, &str> = provisions
+        .iter()
+        .map(|provision| (provision.id.as_str(), provision.text.as_str()))
+        .collect();
+    let mut names = BTreeSet::new();
+    for term in terms {
+        let Some(text) = texts.get(term.defining_provision_id.as_str()) else {
+            continue;
+        };
+        let entry: String = text
+            .chars()
+            .skip(term.start_char)
+            .take(term.end_char.saturating_sub(term.start_char))
+            .collect();
+        let Some(after) = entry
+            .find(&term.term)
+            .map(|at| &entry[at + term.term.len()..])
+        else {
+            continue;
+        };
+        let Some(found) = NAME.captures(after).and_then(|captures| captures.get(1)) else {
+            continue;
+        };
+        let mut words: Vec<&str> = found.as_str().split_whitespace().collect();
+        while words.last().is_some_and(|word| connectors.contains(word)) {
+            words.pop();
+        }
+        let Some(last) = words.last() else {
+            continue;
+        };
+        let refers_inside = words.iter().enumerate().skip(1).any(|(index, word)| {
+            institution_word(word)
+                && words
+                    .get(index + 1)
+                    .is_none_or(|next| connectors.contains(next))
+        });
+        let abbreviation = last.chars().count() > 1 && last.chars().all(|c| !c.is_lowercase());
+        if words.len() >= 3 && !refers_inside && !abbreviation && !institution_word(last) {
+            names.insert(words.join(" ").to_lowercase());
+        }
+    }
+    names.into_iter().collect()
 }
 
 /// Instrument titles, lower-cased with single spaces, indexed by their first
@@ -3326,6 +3484,9 @@ struct CorpusClosureReport {
     instruments: usize,
     relinked: usize,
     relinked_instruments: Vec<String>,
+    /// Accepted-gap instruments whose terms, usages, coverage and Markdown
+    /// were refreshed while their references stayed as persisted.
+    glossary_refreshed_instruments: Vec<String>,
     unchanged: usize,
     references_before: usize,
     references_after: usize,
@@ -3476,7 +3637,12 @@ fn run_corpus_closure(root: &Path) -> Result<CorpusClosureReport> {
         &refreshed_as_persisted,
         &glossary_refreshed,
     )?;
-    let (relinked, unchanged, rejected) = write_closure_outputs(
+    let ClosureOutputs {
+        relinked,
+        glossary_refreshed,
+        unchanged,
+        rejected,
+    } = write_closure_outputs(
         &corpora,
         &contexts,
         &coverage,
@@ -3489,6 +3655,7 @@ fn run_corpus_closure(root: &Path) -> Result<CorpusClosureReport> {
         instruments: corpora.len(),
         relinked: relinked.len(),
         relinked_instruments: relinked,
+        glossary_refreshed_instruments: glossary_refreshed,
         unchanged,
         references_before,
         references_after: corpora
@@ -3605,9 +3772,10 @@ fn write_closure_outputs(
     decisions: &[ClosureDecision],
     refreshed_as_persisted: &[bool],
     glossary_refreshed: &[bool],
-) -> Result<(Vec<String>, usize, Vec<CorpusClosureRejection>)> {
+) -> Result<ClosureOutputs> {
     let (targets, term_targets) = closure_link_targets(corpora);
     let mut relinked = Vec::new();
+    let mut glossary_refreshed_instruments = Vec::new();
     let mut unchanged = 0;
     let mut rejected = Vec::new();
     for (index, (slug, corpus)) in corpora.iter().enumerate() {
@@ -3625,6 +3793,7 @@ fn write_closure_outputs(
             ClosureDecision::Rejected(errors) => {
                 if glossary_refreshed[index] {
                     write_refreshed_glossary(context, corpus, &targets, &term_targets)?;
+                    glossary_refreshed_instruments.push(slug.clone());
                     println!(
                         "{slug}: rejected as its accepted gap; glossary refreshed, references left unchanged"
                     );
@@ -3643,7 +3812,21 @@ fn write_closure_outputs(
             }
         }
     }
-    Ok((relinked, unchanged, rejected))
+    Ok(ClosureOutputs {
+        relinked,
+        glossary_refreshed: glossary_refreshed_instruments,
+        unchanged,
+        rejected,
+    })
+}
+
+/// What [`write_closure_outputs`] wrote: relinked instruments, accepted-gap
+/// instruments whose glossary alone was refreshed, and the rest.
+struct ClosureOutputs {
+    relinked: Vec<String>,
+    glossary_refreshed: Vec<String>,
+    unchanged: usize,
+    rejected: Vec<CorpusClosureRejection>,
 }
 
 /// Which rejected instruments take a glossary-only refresh: an instrument
@@ -5147,6 +5330,111 @@ mod tests {
     }
 
     #[test]
+    fn a_term_inside_an_institution_name_a_glossary_defines_is_not_a_usage() {
+        let glossary = "Para los efectos de esta Ley se entiende por:\n\n\
+             I. Ambiente: El conjunto de elementos naturales;\n\n\
+             II. Procuraduría: La Procuraduría Federal de Protección al Ambiente;\n\n\
+             III. Secretaría: Secretaría de Economía;\n\n\
+             IV. Hacienda: Secretaría de Hacienda y Crédito Público;\n\n\
+             V. Consejo: Consejo Técnico del Instituto;\n\n\
+             VI. Comité: Consejo Consultivo de la AMEXCID;\n\n\
+             VII. Fiscalías: Fiscalía Especializada de la Fiscalía y de las Procuradurías.";
+        let provision = Provision {
+            text: glossary.to_owned(),
+            ..fixture_corpus("urn:x:law", "Ley", "LEY", "Texto").provisions[0].clone()
+        };
+        let entry = |term: &str, fraction: &str| {
+            let start = glossary.find(&format!("{fraction}. {term}")).unwrap();
+            let end = glossary[start..]
+                .find(";\n\n")
+                .map_or(glossary.len(), |end| start + end + 1);
+            lex_core::DefinedTerm {
+                schema_version: SCHEMA_VERSION.to_owned(),
+                id: format!("urn:x:law:term:{}", term.to_lowercase()),
+                term: term.to_owned(),
+                instrument_id: "urn:x:law".to_owned(),
+                defining_provision_id: provision.id.clone(),
+                fraction: Some(fraction.to_owned()),
+                inciso: None,
+                start_char: glossary[..start].chars().count(),
+                end_char: glossary[..end].chars().count(),
+                basis: lex_core::Basis::ExpressDefinition,
+            }
+        };
+        let terms = [
+            entry("Ambiente", "I"),
+            entry("Procuraduría", "II"),
+            entry("Secretaría", "III"),
+            entry("Hacienda", "IV"),
+            entry("Consejo", "V"),
+            entry("Comité", "VI"),
+            entry("Fiscalías", "VII"),
+        ];
+        assert_eq!(
+            super::institution_names(&terms, std::slice::from_ref(&provision)),
+            [
+                "procuraduría federal de protección al ambiente",
+                "secretaría de economía",
+                "secretaría de hacienda y crédito público",
+            ]
+        );
+
+        let text = "La Procuraduría Federal de Protección al Ambiente cuida el Ambiente; \
+                    la Secretaría informa a la Secretaría de Hacienda y Crédito Público.";
+        let operative = Provision {
+            id: "urn:x:law:article:2".to_owned(),
+            text: text.to_owned(),
+            ..provision.clone()
+        };
+        let usage = |term: &str, span: &str, nth: usize| {
+            let byte = text.match_indices(span).nth(nth).unwrap().0;
+            let start = text[..byte].chars().count();
+            lex_core::TermUsage {
+                schema_version: SCHEMA_VERSION.to_owned(),
+                id: format!("urn:x:law:article:2:term-usage:{start}"),
+                provision_id: operative.id.clone(),
+                term_id: format!("urn:x:law:term:{}", term.to_lowercase()),
+                span: span.to_owned(),
+                start_char: start,
+                end_char: start + span.chars().count(),
+            }
+        };
+        let usages = vec![
+            usage("Procuraduría", "Procuraduría", 0),
+            usage("Ambiente", "Ambiente", 0),
+            usage("Ambiente", "Ambiente", 1),
+            usage("Secretaría", "Secretaría", 0),
+            usage("Secretaría", "Secretaría", 1),
+        ];
+        let definitions = super::term_definitions(&[&terms], std::slice::from_ref(&provision), &[]);
+        let index = super::title_index(&super::institution_names(
+            &terms,
+            std::slice::from_ref(&provision),
+        ))
+        .unwrap();
+        let kept: Vec<(String, usize)> =
+            super::drop_usages_in_titles(usages, &[operative], &definitions, &index)
+                .into_iter()
+                .map(|usage| (usage.span, usage.start_char))
+                .collect();
+        let at = |span: &str, nth: usize| {
+            let byte = text.match_indices(span).nth(nth).unwrap().0;
+            text[..byte].chars().count()
+        };
+        // The Procuraduría is the name its definition gives; the Ambiente in
+        // its name is not, and the Secretaría (de Economía) is not the one
+        // in the name of the Secretaría de Hacienda.
+        assert_eq!(
+            kept,
+            [
+                ("Procuraduría".to_owned(), at("Procuraduría", 0)),
+                ("Ambiente".to_owned(), at("Ambiente", 1)),
+                ("Secretaría".to_owned(), at("Secretaría", 0)),
+            ]
+        );
+    }
+
+    #[test]
     fn a_title_printed_with_long_whitespace_runs_still_covers_its_usages() {
         let index = super::title_index(&[
             "Ley de Aguas Nacionales".to_owned(),
@@ -6199,6 +6487,166 @@ mod tests {
         );
     }
 
+    /// A Ley Rota with an accepted gap (its article 9 of the Ley Destino does
+    /// not exist) and a glossary whose `Aguas` the admitted Ley de Aguas
+    /// Federales' title covers. Returns Rota's persisted references.
+    fn write_accepted_gap_fixture(root: &Path) -> serde_json::Value {
+        const CITATION: &str = "En términos del artículo 9 de la Ley Destino.";
+        let none = serde_json::json!([]);
+        write_fixture_adapter(
+            root,
+            "target",
+            "urn:lex-mx:test:target",
+            "Ley Destino",
+            "DESTINO",
+            &none,
+        );
+        write_canonical(
+            &fixture_corpus(
+                "urn:lex-mx:test:target",
+                "Ley Destino",
+                "DESTINO",
+                "Texto destino.",
+            ),
+            &root.join("corpus/mx/target"),
+        )
+        .unwrap();
+        write_fixture_adapter(
+            root,
+            "rota",
+            "urn:lex-mx:test:rota",
+            "Ley Rota",
+            "ROTA",
+            &none,
+        );
+        write_canonical(
+            &fixture_corpus("urn:lex-mx:test:rota", "Ley Rota", "ROTA", CITATION),
+            &root.join("corpus/mx/rota"),
+        )
+        .unwrap();
+        let before = run_corpus_closure(root).unwrap();
+        assert_eq!(before.rejected.len(), 1);
+        fs::write(
+            root.join(super::CLOSURE_ACCEPTED_GAPS),
+            serde_json::to_vec_pretty(&serde_json::json!({
+                "accepted": [{"slug": "rota", "errors": before.rejected[0].errors}],
+            }))
+            .unwrap(),
+        )
+        .unwrap();
+        // Its glossary follows the citation, so the gap's errors are unchanged;
+        // its terms are not persisted yet.
+        write_canonical(
+            &fixture_corpus(
+                "urn:lex-mx:test:rota",
+                "Ley Rota",
+                "ROTA",
+                &format!(
+                    "{CITATION}\n\nPara los efectos de esta Ley, se entiende por:\n\n\
+                     I. Aguas: Las del subsuelo;\n\nII. Banco: El Banco que vigila las Aguas \
+                     conforme a la Ley de Aguas Federales."
+                ),
+            ),
+            &root.join("corpus/mx/rota"),
+        )
+        .unwrap();
+        let references = serde_json::to_value(&rota(root).references).unwrap();
+
+        write_fixture_adapter(
+            root,
+            "aguas",
+            "urn:lex-mx:test:aguas",
+            "Ley de Aguas Federales",
+            "LAF",
+            &none,
+        );
+        write_canonical(
+            &fixture_corpus(
+                "urn:lex-mx:test:aguas",
+                "Ley de Aguas Federales",
+                "LAF",
+                "Texto.",
+            ),
+            &root.join("corpus/mx/aguas"),
+        )
+        .unwrap();
+        references
+    }
+
+    fn rota(root: &Path) -> Corpus {
+        read_corpus(&Paths::new(root, "rota", lex_source::SourceFormat::Pdf)).unwrap()
+    }
+
+    #[test]
+    fn batch_closure_republishes_an_accepted_gap_instrument_whose_glossary_alone_it_refreshed() {
+        let temporary = tempfile::tempdir().unwrap();
+        let root = temporary.path();
+        let vault = temporary.path().join("vault");
+        let references = write_accepted_gap_fixture(root);
+        let closure = run_batch_closure(root, &["aguas".to_owned()], &[], Some(&vault)).unwrap();
+
+        assert_eq!(closure.status, "ok");
+        assert_eq!(closure.glossary_refreshed, ["rota"]);
+        assert!(!closure.relinked.contains(&"rota".to_owned()));
+        // Its glossary is refreshed (the `Aguas` in the admitted title is not
+        // a usage), its references stay as persisted, and both exports carry it.
+        let refreshed = rota(root);
+        assert_eq!(refreshed.terms.len(), 2);
+        assert_eq!(refreshed.term_usages.len(), 1);
+        assert_eq!(
+            serde_json::to_value(&refreshed.references).unwrap(),
+            references
+        );
+        assert!(root.join("corpus/mx/rota/markdown/articulo-1.md").is_file());
+        let in_vault = walk_files(&vault)
+            .iter()
+            .any(|path| fs::read_to_string(path).is_ok_and(|text| text.contains("Ley Rota")));
+        assert!(in_vault);
+        // Closing again changes nothing and refreshes nothing.
+        let again = run_batch_closure(root, &["aguas".to_owned()], &[], Some(&vault)).unwrap();
+        assert!(again.glossary_refreshed.is_empty());
+        assert_eq!(
+            serde_json::to_value(&rota(root).term_usages).unwrap(),
+            serde_json::to_value(&refreshed.term_usages).unwrap()
+        );
+    }
+
+    #[test]
+    fn batch_closure_rereads_the_alias_catalog_as_a_usage_boundary() {
+        let temporary = tempfile::tempdir().unwrap();
+        let root = temporary.path();
+        write_accepted_gap_fixture(root);
+        run_batch_closure(root, &["aguas".to_owned()], &[], None).unwrap();
+        assert_eq!(rota(root).term_usages.len(), 1);
+        // A new alias in the catalog bounds usages too: the closure rereads it.
+        fs::write(
+            root.join("adapters/diputados/_instrument-aliases.json"),
+            serde_json::to_vec_pretty(&serde_json::json!({
+                "schema_version": "0.1.0",
+                "description": "fixture",
+                "aliases": {"ROTA": ["Banco que vigila las Aguas"]},
+            }))
+            .unwrap(),
+        )
+        .unwrap();
+        let aliased = run_batch_closure(root, &["aguas".to_owned()], &[], None).unwrap();
+        assert_eq!(aliased.glossary_refreshed, ["rota"]);
+        assert!(rota(root).term_usages.is_empty());
+    }
+
+    fn walk_files(directory: &Path) -> Vec<std::path::PathBuf> {
+        let mut files = Vec::new();
+        for entry in fs::read_dir(directory).into_iter().flatten().flatten() {
+            let path = entry.path();
+            if path.is_dir() {
+                files.extend(walk_files(&path));
+            } else {
+                files.push(path);
+            }
+        }
+        files
+    }
+
     #[test]
     fn batch_closure_fails_when_the_corpus_closure_rejects_an_unaccepted_instrument() {
         let temporary = tempfile::tempdir().unwrap();
@@ -6424,6 +6872,7 @@ mod tests {
             instruments: 2,
             relinked: 0,
             relinked_instruments: vec![],
+            glossary_refreshed_instruments: vec![],
             unchanged: 0,
             references_before: 0,
             references_after: 0,

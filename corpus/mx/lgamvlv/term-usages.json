@@ -298,15 +298,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgamvlv:article:36:term-usage:659-675",
-    "provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:36",
-    "term_id": "urn:lex-mx:federal:statute:lgamvlv:term:sistema-nacional",
-    "span": "Sistema Nacional",
-    "start_char": 659,
-    "end_char": 675
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgamvlv:article:36:term-usage:1179-1195",
     "provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:36",
     "term_id": "urn:lex-mx:federal:statute:lgamvlv:term:sistema-nacional",
@@ -820,15 +811,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgamvlv:article:48:term-usage:1334-1342",
-    "provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:48",
-    "term_id": "urn:lex-mx:federal:statute:lgamvlv:term:victima",
-    "span": "Víctimas",
-    "start_char": 1334,
-    "end_char": 1342
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgamvlv:article:48:term-usage:1443-1459",
     "provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:48",
     "term_id": "urn:lex-mx:federal:statute:lgamvlv:term:sistema-nacional",
@@ -1024,15 +1006,6 @@
     "span": "Centros de Justicia para las Mujeres",
     "start_char": 452,
     "end_char": 488
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgamvlv:article:59-quinquies:term-usage:923-931",
-    "provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:59-quinquies",
-    "term_id": "urn:lex-mx:federal:statute:lgamvlv:term:victima",
-    "span": "Víctimas",
-    "start_char": 923,
-    "end_char": 931
   },
   {
     "schema_version": "0.1.0",

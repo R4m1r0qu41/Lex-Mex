@@ -36,7 +36,7 @@ VI. Publicar los programas de bandas de frecuencias del espectro radioeléctrico
 
 VII. Llevar a cabo los procesos de licitación y asignación de bandas de frecuencias del espectro radioeléctrico en materia de telecomunicaciones y radiodifusión, y de recursos orbitales con sus bandas de frecuencias asociadas;
 
-VIII. Fijar tanto el monto de las contraprestaciones por el otorgamiento de las concesiones, así como por la autorización de servicios adicionales vinculados a éstas, previa opinión no vinculante de la [Secretaría](articulo-3.md) de Hacienda y Crédito Público; IX. Emitir disposiciones, lineamientos o resoluciones en materia de interoperabilidad e interconexión de las redes públicas de telecomunicaciones, a efecto de asegurar la libre competencia y concurrencia en el mercado;
+VIII. Fijar tanto el monto de las contraprestaciones por el otorgamiento de las concesiones, así como por la autorización de servicios adicionales vinculados a éstas, previa opinión no vinculante de la Secretaría de Hacienda y Crédito Público; IX. Emitir disposiciones, lineamientos o resoluciones en materia de interoperabilidad e interconexión de las redes públicas de telecomunicaciones, a efecto de asegurar la libre competencia y concurrencia en el mercado;
 
 X. Resolver y establecer los términos y condiciones de interconexión que no hayan podido convenir los concesionarios respecto de sus redes públicas de telecomunicaciones conforme a lo previsto en la presente Ley;
 
@@ -82,7 +82,7 @@ XXX. Imponer sanciones por infracciones a las disposiciones legales, reglamentar
 
 XXXI. Realizar las acciones necesarias para contribuir, en el ámbito de su competencia, al logro de los objetivos de la política de inclusión digital universal y cobertura universal establecida por el Ejecutivo Federal; así como a los objetivos y metas fijados en el Plan Nacional de Desarrollo y los demás instrumentos programáticos relacionados con los sectores de radiodifusión y telecomunicaciones;
 
-XXXII. Colaborar con la Secretaría en las gestiones que realice ante los organismos internacionales competentes, para la obtención de recursos orbitales a favor del Estado Mexicano; XXXIII. Colaborar con la Secretaría en la coordinación de recursos orbitales ante los organismos internacionales competentes, con las entidades de otros países y con los concesionarios u operadores nacionales o extranjeros;
+XXXII. Colaborar con la [Secretaría](articulo-3.md) en las gestiones que realice ante los organismos internacionales competentes, para la obtención de recursos orbitales a favor del Estado Mexicano; XXXIII. Colaborar con la Secretaría en la coordinación de recursos orbitales ante los organismos internacionales competentes, con las entidades de otros países y con los concesionarios u operadores nacionales o extranjeros;
 
 XXXIV. Colaborar con el Ejecutivo Federal en la negociación de tratados y convenios internacionales en materia de telecomunicaciones y radiodifusión y vigilar su observancia en el ámbito de sus atribuciones;
 

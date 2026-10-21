@@ -17,4 +17,4 @@ source_sha256: 2beb1a3a5c23de93f1588ce6d4e4c209e73a8d747f19e3165706f38abcee8fe3
 
 # Artículo 184
 
-En los procedimientos que involucren a dos o más presuntos infractores, o en aquellos en los que no sea posible determinar el número exacto de los mismos, el [Instituto](articulo-2o.md) Mexicano de la Propiedad Industrial podrá dictar resolución definitiva por separado por cada uno de los presuntos infractores, siempre que no queden pruebas por desahogar. La resolución dictada a un probable infractor no afectará el derecho de los demás para continuar con el procedimiento administrativo.
+En los procedimientos que involucren a dos o más presuntos infractores, o en aquellos en los que no sea posible determinar el número exacto de los mismos, el Instituto Mexicano de la Propiedad Industrial podrá dictar resolución definitiva por separado por cada uno de los presuntos infractores, siempre que no queden pruebas por desahogar. La resolución dictada a un probable infractor no afectará el derecho de los demás para continuar con el procedimiento administrativo.

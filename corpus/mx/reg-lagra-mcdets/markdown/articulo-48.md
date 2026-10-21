@@ -21,7 +21,7 @@ En el caso de las fracciones I y III del [artículo anterior](articulo-47.md), l
 
 I. Que en la localización, deslinde y fraccionamiento de las tierras de que se trate, intervenga la autoridad municipal;
 
-II. Que se observen las normas técnicas que al efecto emita la [Secretaría](articulo-2º.md) de Desarrollo Social;
+II. Que se observen las normas técnicas que al efecto emita la Secretaría de Desarrollo Social;
 
 III. Que se separen las áreas necesarias para los servicios públicos de la comunidad, con la intervención de las autoridades competentes;
 

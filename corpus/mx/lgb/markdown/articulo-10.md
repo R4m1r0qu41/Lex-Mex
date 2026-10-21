@@ -19,7 +19,7 @@ source_sha256: 1a7dcb966c812b4d78487fc81a4f873a2d1fd63e0f40a021dc8aa2d56e31dc19
 
 Se integra la [Red Nacional de Bibliotecas Públicas](articulo-2.md) con:
 
-I. Las bibliotecas constituidas y en operación dependientes de la [Secretaría](articulo-2.md) de Educación Pública Federal y de la Secretaría;
+I. Las bibliotecas constituidas y en operación dependientes de la Secretaría de Educación Pública Federal y de la [Secretaría](articulo-2.md);
 
 II. Las bibliotecas en operación dependientes de cualquier dependencia o entidad de la Administración Pública Federal u órgano constitucional autónomo de los poderes públicos que, con base en un acuerdo o convenio de colaboración, se adscriban a la [Red](articulo-2.md);
 

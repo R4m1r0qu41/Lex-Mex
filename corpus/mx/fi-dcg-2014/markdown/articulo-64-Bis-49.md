@@ -11,12 +11,12 @@ temporal_status: unknown
 review_status: not_analyzed
 amendment_marks: [19]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20los%20fondos%20de%20inversi%C3%B3n%20y%20a%20las%20personas%20que%20les%20prestan%20servicios.pdf
-source_sha256: 30cec2bac3222c89d447b6e8adc7877ea45ece21dfc270ed8c963ea91649b6ee
+source_sha256: 3b21198efc7e52987a773cbcc48772185e6eadc7338673fa39bfb38ba907d07b
 ---
 
 # Artículo 64 Bis 49
 
-Los fondos de inversión, a través del director general de la sociedad operadora de fondos de inversión que lo administre y las sociedades operadoras de fondos de inversión, las sociedades o entidades que prestan servicios de distribución de acciones de fondos de inversión, así como los demás prestadores de servicios de los fondos de inversión a que se refiere el artículo 32 de la Ley a través de su director general deberán revelar, según corresponda, la siguiente información que se considerará como relevante:
+Los fondos de inversión, a través del director general de la sociedad operadora de fondos de inversión que lo administre y las sociedades operadoras de fondos de inversión, las sociedades o entidades que prestan servicios de distribución de acciones de fondos de inversión, así como los demás prestadores de servicios de los fondos de inversión a que se refiere el artículo 32 de la [Ley](articulo-1.md) a través de su director general deberán revelar, según corresponda, la siguiente información que se considerará como relevante:
 
 I. Por lo que respecta a los fondos de inversión:
 
@@ -62,7 +62,7 @@ c) Respecto de su situación financiera:
 
 i) La contratación de créditos, préstamos o financiamientos por un monto igual o superior al cinco por ciento del patrimonio del fondo de inversión, así como la justificación de dicha contratación.
 
-ii) Las Opiniones modificadas o desfavorables que emitan los Auditores Externos Independientes.
+ii) Las Opiniones modificadas o desfavorables que emitan los [Auditores Externos Independientes](articulo-1.md).
 
 iii) Un aviso respecto del apego a algún régimen contable especial que le haya sido autorizado, debiendo notificar tanto el momento de inicio de régimen especial como el momento en que dejen de utilizarlo.
 
@@ -110,8 +110,8 @@ d) Las Opiniones modificadas o desfavorables que emitan los Auditores Externos I
 
 e) Los cambios en la integración de su consejo de administración, identificando a los consejeros independientes y a los no independientes en los términos del artículo 34 Bis de la Ley, así como aquellos que ostentan su carácter de propietario o suplente. Se deberá incluir el perfil profesional y experiencia laboral de los miembros que integran dicho consejo.
 
-Sin perjuicio de lo anterior, las sociedades o entidades a que se refiere el presente artículo estarán obligadas a enviar a la Comisión a través del STIV y a la sociedad que administra mecanismos electrónicos de divulgación de información de fondos de inversión, la información relevante a que se refieren las fracciones anteriores, el día hábil siguiente a que se origine dicha información relevante.
+Sin perjuicio de lo anterior, las sociedades o entidades a que se refiere el presente artículo estarán obligadas a enviar a la Comisión a través del [STIV](articulo-1.md) y a la sociedad que administra mecanismos electrónicos de divulgación de información de fondos de inversión, la información relevante a que se refieren las fracciones anteriores, el día hábil siguiente a que se origine dicha información relevante.
 
-Los fondos de inversión, a través de las sociedades operadoras que los administren, podrán cumplir con la obligación de revelar la información a que alude la fracción I del presente artículo, así como con todas aquellas obligaciones de revelación de información a que se refieren las presentes disposiciones, a través de las sociedades que administren mecanismos electrónicos de divulgación de información de fondos de inversión o bien, del SEDI de la bolsa de valores en la que, en su caso, se encuentren listadas sus acciones. Lo anterior, con independencia de la información que en términos de la Ley y las presentes disposiciones deben enviar a la Comisión.
+Los fondos de inversión, a través de las sociedades operadoras que los administren, podrán cumplir con la obligación de revelar la información a que alude la fracción I del presente artículo, así como con todas aquellas obligaciones de revelación de información a que se refieren las presentes disposiciones, a través de las sociedades que administren mecanismos electrónicos de divulgación de información de fondos de inversión o bien, del [SEDI](articulo-1.md) de la bolsa de valores en la que, en su caso, se encuentren listadas sus acciones. Lo anterior, con independencia de la información que en términos de la Ley y las presentes disposiciones deben enviar a la Comisión.
 
 Asimismo, los fondos de inversión, a través de las sociedades operadoras que los administren, estarán obligados a enviar el mismo día a la Comisión a través del STIV y a revelar al público mediante una sociedad que administra mecanismos electrónicos de divulgación de información de fondos de inversión o a través del SEDI, la información sobre los Eventos relevantes.

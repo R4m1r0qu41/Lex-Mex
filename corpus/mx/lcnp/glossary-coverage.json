@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-5",
+  "strategy_version": "glossary-extraction-6",
   "instrument_id": "urn:lex-mx:federal:statute:lcnp",
   "source_sha256": "b1de107a982a73c02c12c952586d16063c9fc51c8e1e29594924f24d0107395a",
   "extracted_text_sha256": "a13332f0a4185494c22eaeed3b96ee21492fecc02265e9f02f5739afcc6d2260",

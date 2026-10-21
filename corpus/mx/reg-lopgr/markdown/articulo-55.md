@@ -31,4 +31,4 @@ V. Contribuir a la supervisión y evaluación primaria de la calidad técnico-ju
 
 VI. Establecer mecanismos de coordinación con las unidades administrativas que tengan a su cargo la investigación de delitos, a fin de perfeccionar el ejercicio de la acción penal y facilitar las actuaciones procesales que deban desahogarse ante los órganos jurisdiccionales, y
 
-VII. Someter a consideración de su superior jerárquico las quejas administrativas que de conformidad con lo dispuesto por la Ley Orgánica del Poder Judicial de la Federación deban presentarse ante el [Consejo](articulo-2.md) de la Judicatura Federal, que deriven de actos u omisiones de los órganos jurisdiccionales que conozcan de procesos penales federales.
+VII. Someter a consideración de su superior jerárquico las quejas administrativas que de conformidad con lo dispuesto por la Ley Orgánica del Poder Judicial de la Federación deban presentarse ante el Consejo de la Judicatura Federal, que deriven de actos u omisiones de los órganos jurisdiccionales que conozcan de procesos penales federales.

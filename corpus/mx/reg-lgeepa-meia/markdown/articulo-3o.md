@@ -19,7 +19,7 @@ source_sha256: c7790df38b773b04e4769459d5fd49cca5b7a5b4955f7618632117275259071f
 
 Para los efectos del presente reglamento se considerarán las definiciones contenidas en la ley y las siguientes:
 
-I. Actividades del Sector Hidrocarburos: Las actividades definidas como tal en el artículo [3](../../lansi/markdown/articulo-3o.md)o., fracción XI de la Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos; Fracción reformada DOF 31-10-2014
+I. Actividades del Sector Hidrocarburos: Las actividades definidas como tal en el artículo [3](../../lansi/markdown/articulo-3o.md)o., fracción XI de la Ley de la [Agencia](articulo-3o.md) Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos; Fracción reformada DOF 31-10-2014
 
 I Bis. Agencia: La Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos; Fracción adicionada DOF 31-10-2014
 

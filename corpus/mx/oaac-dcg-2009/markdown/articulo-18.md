@@ -24,7 +24,7 @@ I. Tratándose de almacenes generales de depósito:
 
 a) Estado de situación financiera:
 
-“El presente estado de situación financiera, se formuló de conformidad con los criterios de contabilidad para almacenes generales de depósito, emitidos por la [Comisión](articulo-1.md) Nacional Bancaria y de [Valores](articulo-1.md), con fundamento en lo dispuesto por los artículos [52](../../lgoaac/markdown/articulo-52.md) y [53](../../lgoaac/markdown/articulo-53.md) de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, de observancia general y obligatoria, aplicados de manera consistente, encontrándose reflejadas las operaciones efectuadas por el almacén general de depósito hasta la fecha arriba mencionada, las cuales se realizaron y valuaron con apego a sanas prácticas y a las disposiciones aplicables.
+“El presente estado de situación financiera, se formuló de conformidad con los criterios de contabilidad para almacenes generales de depósito, emitidos por la [Comisión](articulo-1.md) Nacional Bancaria y de Valores, con fundamento en lo dispuesto por los artículos [52](../../lgoaac/markdown/articulo-52.md) y [53](../../lgoaac/markdown/articulo-53.md) de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, de observancia general y obligatoria, aplicados de manera consistente, encontrándose reflejadas las operaciones efectuadas por el almacén general de depósito hasta la fecha arriba mencionada, las cuales se realizaron y valuaron con apego a sanas prácticas y a las disposiciones aplicables.
 
 El presente estado de situación financiera fue aprobado por el consejo de administración bajo la responsabilidad de los directivos que lo suscriben.”
 

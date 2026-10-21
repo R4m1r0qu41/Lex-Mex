@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-5",
+  "strategy_version": "glossary-extraction-6",
   "instrument_id": "urn:lex-mx:federal:statute:lgdnna",
   "source_sha256": "475861976811f45ac5676ccd6b9db68c61b41d7f8d85e4d3d267914ab3fe3822",
   "extracted_text_sha256": "a03eb8e9836db518499676e093141eb38886d3b03413472e3fd955f1ea4e6dde",
@@ -53,5 +53,5 @@
   ],
   "imports": [],
   "term_count": 32,
-  "usage_count": 191
+  "usage_count": 190
 }

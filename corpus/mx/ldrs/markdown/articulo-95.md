@@ -17,4 +17,4 @@ source_sha256: 30f884c4cd22148b89f3fc21ff0be69be7571d51c146cefa7da2cac06b421f21
 
 # Artículo 95
 
-La [Comisión Intersecretarial](articulo-3o.md), con la participación del [Consejo Mexicano](articulo-3o.md), propondrá, a la [Secretaría](articulo-3o.md) de Relaciones Exteriores, la adhesión a los tratados e instrumentos internacionales que resulten necesarios en asuntos de sanidad agropecuaria y de organismos genéticamente modificados; asimismo, podrá promover acuerdos tendientes a la armonización y equivalencia internacional de las disposiciones fitozoosanitarias.
+La [Comisión Intersecretarial](articulo-3o.md), con la participación del [Consejo Mexicano](articulo-3o.md), propondrá, a la Secretaría de Relaciones Exteriores, la adhesión a los tratados e instrumentos internacionales que resulten necesarios en asuntos de sanidad agropecuaria y de organismos genéticamente modificados; asimismo, podrá promover acuerdos tendientes a la armonización y equivalencia internacional de las disposiciones fitozoosanitarias.

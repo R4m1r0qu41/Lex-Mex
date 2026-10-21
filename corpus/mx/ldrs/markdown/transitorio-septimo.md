@@ -15,4 +15,4 @@ source_sha256: 30f884c4cd22148b89f3fc21ff0be69be7571d51c146cefa7da2cac06b421f21
 
 # SÉPTIMO
 
-La constitución del [Consejo Mexicano](articulo-3o.md) para el [Desarrollo Rural Sustentable](articulo-3o.md) y la integración de la [Comisión Intersecretarial](articulo-3o.md) para el Desarrollo Rural Sustentable, tendrán un plazo de seis meses a partir de la publicación de esta Ley en el Diario Oficial de la Federación.
+La constitución del [Consejo Mexicano](articulo-3o.md) para el Desarrollo Rural Sustentable y la integración de la [Comisión Intersecretarial](articulo-3o.md) para el Desarrollo Rural Sustentable, tendrán un plazo de seis meses a partir de la publicación de esta Ley en el Diario Oficial de la Federación.

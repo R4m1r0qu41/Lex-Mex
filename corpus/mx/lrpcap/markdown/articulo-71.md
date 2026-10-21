@@ -17,7 +17,7 @@ source_sha256: cf241af670623476911e625178a081e9e05921b4b6cc73ae92b41a47da45487a
 
 # Artículo 71
 
-La [Secretaría](articulo-2.md) de Relaciones Exteriores podrá retirar el otorgamiento de asilo político en los siguientes casos:
+La Secretaría de Relaciones Exteriores podrá retirar el otorgamiento de asilo político en los siguientes casos:
 
 I. En los que se acredite que el asilado ocultó o falseó la información proporcionada;
 

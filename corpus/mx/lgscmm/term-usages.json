@@ -2458,30 +2458,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgscmm:article:107:term-usage:1550-1560",
-    "provision_id": "urn:lex-mx:federal:statute:lgscmm:article:107",
-    "term_id": "urn:lex-mx:federal:statute:lgscmm:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 1550,
-    "end_char": 1560
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgscmm:article:107:term-usage:1942-1952",
     "provision_id": "urn:lex-mx:federal:statute:lgscmm:article:107",
     "term_id": "urn:lex-mx:federal:statute:lgscmm:term:secretaria",
     "span": "Secretaría",
     "start_char": 1942,
     "end_char": 1952
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgscmm:article:107:term-usage:1979-1989",
-    "provision_id": "urn:lex-mx:federal:statute:lgscmm:article:107",
-    "term_id": "urn:lex-mx:federal:statute:lgscmm:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 1979,
-    "end_char": 1989
   },
   {
     "schema_version": "0.1.0",
@@ -2647,6 +2629,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgscmm:transitory:decimo-primero:term-usage:200-207",
+    "provision_id": "urn:lex-mx:federal:statute:lgscmm:transitory:decimo-primero",
+    "term_id": "urn:lex-mx:federal:statute:lgscmm:term:sistema",
+    "span": "Sistema",
+    "start_char": 200,
+    "end_char": 207
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgscmm:transitory:decimo-primero:term-usage:260-267",
     "provision_id": "urn:lex-mx:federal:statute:lgscmm:transitory:decimo-primero",
     "term_id": "urn:lex-mx:federal:statute:lgscmm:term:sistema",
@@ -2728,21 +2719,21 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgscmm:transitory:decimo-tercero:term-usage:410-417",
+    "provision_id": "urn:lex-mx:federal:statute:lgscmm:transitory:decimo-tercero",
+    "term_id": "urn:lex-mx:federal:statute:lgscmm:term:sistema",
+    "span": "Sistema",
+    "start_char": 410,
+    "end_char": 417
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgscmm:transitory:decimo-tercero:term-usage:495-505",
     "provision_id": "urn:lex-mx:federal:statute:lgscmm:transitory:decimo-tercero",
     "term_id": "urn:lex-mx:federal:statute:lgscmm:term:secretaria",
     "span": "Secretaría",
     "start_char": 495,
     "end_char": 505
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgscmm:transitory:decimo-tercero:term-usage:533-543",
-    "provision_id": "urn:lex-mx:federal:statute:lgscmm:transitory:decimo-tercero",
-    "term_id": "urn:lex-mx:federal:statute:lgscmm:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 533,
-    "end_char": 543
   },
   {
     "schema_version": "0.1.0",
@@ -2788,15 +2779,6 @@
     "span": "Ley",
     "start_char": 129,
     "end_char": 132
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgscmm:transitory:decimo-octavo:term-usage:341-351",
-    "provision_id": "urn:lex-mx:federal:statute:lgscmm:transitory:decimo-octavo",
-    "term_id": "urn:lex-mx:federal:statute:lgscmm:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 341,
-    "end_char": 351
   },
   {
     "schema_version": "0.1.0",
@@ -2854,11 +2836,29 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgscmm:transitory:vigesimo-tercero:term-usage:70-77",
+    "provision_id": "urn:lex-mx:federal:statute:lgscmm:transitory:vigesimo-tercero",
+    "term_id": "urn:lex-mx:federal:statute:lgscmm:term:sistema",
+    "span": "Sistema",
+    "start_char": 70,
+    "end_char": 77
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgscmm:transitory:vigesimo-tercero:term-usage:257-268",
     "provision_id": "urn:lex-mx:federal:statute:lgscmm:transitory:vigesimo-tercero",
     "term_id": "urn:lex-mx:federal:statute:lgscmm:term:secretaria",
     "span": "Secretarías",
     "start_char": 257,
     "end_char": 268
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgscmm:transitory:vigesimo-cuarto:term-usage:211-218",
+    "provision_id": "urn:lex-mx:federal:statute:lgscmm:transitory:vigesimo-cuarto",
+    "term_id": "urn:lex-mx:federal:statute:lgscmm:term:sistema",
+    "span": "Sistema",
+    "start_char": 211,
+    "end_char": 218
   }
 ]

@@ -17,4 +17,4 @@ source_sha256: bcc21844355854fe331c842c21436d721d6c2856b5c5986715fe39f4a845b317
 
 # Artículo 31
 
-De conformidad con las disposiciones correspondientes de la Ley Orgánica de la Administración Pública Federal, la [Secretaría](articulo-2.md) de la Función Pública designará un Comisario ante la [Junta de Gobierno](articulo-2.md) del [Sistema](articulo-2.md), el que asistirá a sus sesiones con voz, pero sin voto, para intervenir en los asuntos de su competencia.
+De conformidad con las disposiciones correspondientes de la Ley Orgánica de la Administración Pública Federal, la Secretaría de la Función Pública designará un Comisario ante la [Junta de Gobierno](articulo-2.md) del [Sistema](articulo-2.md), el que asistirá a sus sesiones con voz, pero sin voto, para intervenir en los asuntos de su competencia.

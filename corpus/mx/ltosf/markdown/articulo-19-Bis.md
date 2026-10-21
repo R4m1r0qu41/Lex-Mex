@@ -21,7 +21,7 @@ Para organizarse y operar como [Cámara de Compensación](articulo-3.md) se requ
 
 Para tales efectos la interesada deberá presentar la información y documentación que dicho Banco Central señale a través de disposiciones de carácter general.
 
-Las Cámaras de Compensación estarán obligadas a enlazar sus sistemas de procesamiento de operación de Medios de Disposición para responder las solicitudes de autorización de pago, devoluciones y ajustes que les envíen otras Cámaras de Compensación, en los términos que, mediante disposiciones de carácter general, establezca el Banco de México, escuchando previamente la opinión de la [Comisión](articulo-3.md) Nacional Bancaria y de Valores. Párrafo reformado DOF 10-01-2014
+Las Cámaras de Compensación estarán obligadas a enlazar sus sistemas de procesamiento de operación de Medios de Disposición para responder las solicitudes de autorización de pago, devoluciones y ajustes que les envíen otras Cámaras de Compensación, en los términos que, mediante disposiciones de carácter general, establezca el Banco de México, escuchando previamente la opinión de la Comisión Nacional Bancaria y de Valores. Párrafo reformado DOF 10-01-2014
 
 Las Cámaras de Compensación no podrán cobrar a otras Cámaras de Compensación contraprestación por dicho enlace y por la transmisión de información entre ellas o cualquier otro concepto, salvo los gastos directos de instalación. Adicionalmente, las Cámaras de Compensación tendrán prohibido establecer cualquier tipo de barrera de entrada a otras Cámaras de Compensación.
 

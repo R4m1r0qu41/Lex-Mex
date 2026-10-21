@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-5",
+  "strategy_version": "glossary-extraction-6",
   "instrument_id": "urn:lex-mx:federal:statute:lagra",
   "source_sha256": "7fa6151d65442b7beeb14e032ba54cbcaf4a8140606f152acb988bc554978550",
   "extracted_text_sha256": "454bd57afaecc06c538af13083b91a36f0e740aecca62336360d57fcea08e4ca",

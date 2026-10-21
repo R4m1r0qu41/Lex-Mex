@@ -17,7 +17,7 @@ source_sha256: a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8
 
 # Artículo 100
 
-Será responsabilidad de las entidades e instituciones que reciban solicitudes de ingreso al [Registro](articulo-6.md) Nacional de [Víctimas](articulo-6.md):
+Será responsabilidad de las entidades e instituciones que reciban solicitudes de ingreso al [Registro](articulo-6.md) Nacional de Víctimas:
 
 I. Garantizar que las personas que solicitan el ingreso en el Registro Nacional de Víctimas sean atendidas de manera preferencial y orientadas de forma digna y respetuosa;
 

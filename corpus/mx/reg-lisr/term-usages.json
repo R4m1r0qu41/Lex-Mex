@@ -2782,15 +2782,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:153:term-usage:823-833",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lisr:article:153",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lisr:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 823,
-    "end_char": 833
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lisr:article:154:term-usage:60-63",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lisr:article:154",
     "term_id": "urn:lex-mx:federal:regulation:reg-lisr:term:ley",

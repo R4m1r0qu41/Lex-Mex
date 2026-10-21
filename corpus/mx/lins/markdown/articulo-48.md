@@ -19,4 +19,4 @@ source_sha256: 40271b07f2d2236f7e4d722d2b61f35db2d82772543dcf4911097efe13697c5e
 
 En la coordinación entre los [Institutos Nacionales de Salud](articulo-2.md), para la realización conjunta de proyectos específicos, podrá quedar comprendida la transferencia de recursos de uno a otro organismo hasta por el monto necesario.
 
-Para realizar la transferencia a que se refiere el párrafo anterior, los Institutos deberán contar con la autorización de la coordinadora de sector y de la [Secretaría](articulo-2.md) de Hacienda y Crédito Público, en términos de las disposiciones presupuestales aplicables.
+Para realizar la transferencia a que se refiere el párrafo anterior, los Institutos deberán contar con la autorización de la coordinadora de sector y de la Secretaría de Hacienda y Crédito Público, en términos de las disposiciones presupuestales aplicables.

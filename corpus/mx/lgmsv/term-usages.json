@@ -28,15 +28,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmsv:article:1:term-usage:703-712",
-    "provision_id": "urn:lex-mx:federal:statute:lgmsv:article:1",
-    "term_id": "urn:lex-mx:federal:statute:lgmsv:term:movilidad",
-    "span": "Movilidad",
-    "start_char": 703,
-    "end_char": 712
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgmsv:article:1:term-usage:768-811",
     "provision_id": "urn:lex-mx:federal:statute:lgmsv:article:1",
     "term_id": "urn:lex-mx:federal:statute:lgmsv:term:sistema-de-informacion-territorial-y-urbano",
@@ -61,15 +52,6 @@
     "span": "Sistema Nacional",
     "start_char": 1907,
     "end_char": 1923
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmsv:article:1:term-usage:1927-1936",
-    "provision_id": "urn:lex-mx:federal:statute:lgmsv:article:1",
-    "term_id": "urn:lex-mx:federal:statute:lgmsv:term:movilidad",
-    "span": "Movilidad",
-    "start_char": 1927,
-    "end_char": 1936
   },
   {
     "schema_version": "0.1.0",
@@ -199,15 +181,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmsv:article:3:term-usage:14785-14794",
-    "provision_id": "urn:lex-mx:federal:statute:lgmsv:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lgmsv:term:movilidad",
-    "span": "Movilidad",
-    "start_char": 14785,
-    "end_char": 14794
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgmsv:article:5:term-usage:0-17",
     "provision_id": "urn:lex-mx:federal:statute:lgmsv:article:5",
     "term_id": "urn:lex-mx:federal:statute:lgmsv:term:enfoque-sistemico",
@@ -262,30 +235,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmsv:article:7:term-usage:20-29",
-    "provision_id": "urn:lex-mx:federal:statute:lgmsv:article:7",
-    "term_id": "urn:lex-mx:federal:statute:lgmsv:term:movilidad",
-    "span": "Movilidad",
-    "start_char": 20,
-    "end_char": 29
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgmsv:article:7:term-usage:51-67",
     "provision_id": "urn:lex-mx:federal:statute:lgmsv:article:7",
     "term_id": "urn:lex-mx:federal:statute:lgmsv:term:sistema-nacional",
     "span": "Sistema Nacional",
     "start_char": 51,
     "end_char": 67
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmsv:article:7:term-usage:71-80",
-    "provision_id": "urn:lex-mx:federal:statute:lgmsv:article:7",
-    "term_id": "urn:lex-mx:federal:statute:lgmsv:term:movilidad",
-    "span": "Movilidad",
-    "start_char": 71,
-    "end_char": 80
   },
   {
     "schema_version": "0.1.0",
@@ -331,15 +286,6 @@
     "span": "Transportes",
     "start_char": 695,
     "end_char": 706
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmsv:article:7:term-usage:717-727",
-    "provision_id": "urn:lex-mx:federal:statute:lgmsv:article:7",
-    "term_id": "urn:lex-mx:federal:statute:lgmsv:term:secretarias",
-    "span": "Secretaría",
-    "start_char": 717,
-    "end_char": 727
   },
   {
     "schema_version": "0.1.0",
@@ -874,15 +820,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmsv:article:49:term-usage:5004-5014",
-    "provision_id": "urn:lex-mx:federal:statute:lgmsv:article:49",
-    "term_id": "urn:lex-mx:federal:statute:lgmsv:term:secretarias",
-    "span": "Secretaría",
-    "start_char": 5004,
-    "end_char": 5014
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgmsv:article:53:term-usage:641-684",
     "provision_id": "urn:lex-mx:federal:statute:lgmsv:article:53",
     "term_id": "urn:lex-mx:federal:statute:lgmsv:term:sistema-de-informacion-territorial-y-urbano",
@@ -1045,15 +982,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmsv:article:67:term-usage:107-116",
-    "provision_id": "urn:lex-mx:federal:statute:lgmsv:article:67",
-    "term_id": "urn:lex-mx:federal:statute:lgmsv:term:movilidad",
-    "span": "Movilidad",
-    "start_char": 107,
-    "end_char": 116
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgmsv:article:67:term-usage:366-369",
     "provision_id": "urn:lex-mx:federal:statute:lgmsv:article:67",
     "term_id": "urn:lex-mx:federal:statute:lgmsv:term:ley",
@@ -1141,15 +1069,6 @@
     "span": "Sistema Nacional",
     "start_char": 98,
     "end_char": 114
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmsv:article:68:term-usage:118-127",
-    "provision_id": "urn:lex-mx:federal:statute:lgmsv:article:68",
-    "term_id": "urn:lex-mx:federal:statute:lgmsv:term:movilidad",
-    "span": "Movilidad",
-    "start_char": 118,
-    "end_char": 127
   },
   {
     "schema_version": "0.1.0",
@@ -1306,15 +1225,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmsv:article:70:term-usage:2213-2223",
-    "provision_id": "urn:lex-mx:federal:statute:lgmsv:article:70",
-    "term_id": "urn:lex-mx:federal:statute:lgmsv:term:secretarias",
-    "span": "Secretaría",
-    "start_char": 2213,
-    "end_char": 2223
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgmsv:article:70:term-usage:2461-2477",
     "provision_id": "urn:lex-mx:federal:statute:lgmsv:article:70",
     "term_id": "urn:lex-mx:federal:statute:lgmsv:term:sistema-nacional",
@@ -1339,15 +1249,6 @@
     "span": "Sistema Nacional",
     "start_char": 2930,
     "end_char": 2946
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmsv:article:70:term-usage:3730-3740",
-    "provision_id": "urn:lex-mx:federal:statute:lgmsv:article:70",
-    "term_id": "urn:lex-mx:federal:statute:lgmsv:term:secretarias",
-    "span": "Secretaría",
-    "start_char": 3730,
-    "end_char": 3740
   },
   {
     "schema_version": "0.1.0",
@@ -1441,15 +1342,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmsv:article:71:term-usage:2262-2272",
-    "provision_id": "urn:lex-mx:federal:statute:lgmsv:article:71",
-    "term_id": "urn:lex-mx:federal:statute:lgmsv:term:secretarias",
-    "span": "Secretaría",
-    "start_char": 2262,
-    "end_char": 2272
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgmsv:article:71:term-usage:2414-2417",
     "provision_id": "urn:lex-mx:federal:statute:lgmsv:article:71",
     "term_id": "urn:lex-mx:federal:statute:lgmsv:term:ley",
@@ -1465,15 +1357,6 @@
     "span": "Ley",
     "start_char": 2761,
     "end_char": 2764
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmsv:article:72:term-usage:66-76",
-    "provision_id": "urn:lex-mx:federal:statute:lgmsv:article:72",
-    "term_id": "urn:lex-mx:federal:statute:lgmsv:term:secretarias",
-    "span": "Secretaría",
-    "start_char": 66,
-    "end_char": 76
   },
   {
     "schema_version": "0.1.0",
@@ -1510,15 +1393,6 @@
     "span": "Ley",
     "start_char": 1127,
     "end_char": 1130
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmsv:article:73:term-usage:39-49",
-    "provision_id": "urn:lex-mx:federal:statute:lgmsv:article:73",
-    "term_id": "urn:lex-mx:federal:statute:lgmsv:term:secretarias",
-    "span": "Secretaría",
-    "start_char": 39,
-    "end_char": 49
   },
   {
     "schema_version": "0.1.0",
@@ -1573,33 +1447,6 @@
     "span": "Transportes",
     "start_char": 796,
     "end_char": 807
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmsv:article:74:term-usage:818-828",
-    "provision_id": "urn:lex-mx:federal:statute:lgmsv:article:74",
-    "term_id": "urn:lex-mx:federal:statute:lgmsv:term:secretarias",
-    "span": "Secretaría",
-    "start_char": 818,
-    "end_char": 828
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmsv:article:74:term-usage:874-884",
-    "provision_id": "urn:lex-mx:federal:statute:lgmsv:article:74",
-    "term_id": "urn:lex-mx:federal:statute:lgmsv:term:secretarias",
-    "span": "Secretaría",
-    "start_char": 874,
-    "end_char": 884
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmsv:article:74:term-usage:991-1001",
-    "provision_id": "urn:lex-mx:federal:statute:lgmsv:article:74",
-    "term_id": "urn:lex-mx:federal:statute:lgmsv:term:secretarias",
-    "span": "Secretaría",
-    "start_char": 991,
-    "end_char": 1001
   },
   {
     "schema_version": "0.1.0",
@@ -1747,15 +1594,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmsv:transitory:tercero:term-usage:23-32",
-    "provision_id": "urn:lex-mx:federal:statute:lgmsv:transitory:tercero",
-    "term_id": "urn:lex-mx:federal:statute:lgmsv:term:movilidad",
-    "span": "Movilidad",
-    "start_char": 23,
-    "end_char": 32
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgmsv:transitory:tercero:term-usage:67-116",
     "provision_id": "urn:lex-mx:federal:statute:lgmsv:transitory:tercero",
     "term_id": "urn:lex-mx:federal:statute:lgmsv:term:estrategia-nacional-de-movilidad-y-seguridad-vial",
@@ -1780,15 +1618,6 @@
     "span": "Sistema Nacional",
     "start_char": 3,
     "end_char": 19
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmsv:transitory:cuarto:term-usage:23-32",
-    "provision_id": "urn:lex-mx:federal:statute:lgmsv:transitory:cuarto",
-    "term_id": "urn:lex-mx:federal:statute:lgmsv:term:movilidad",
-    "span": "Movilidad",
-    "start_char": 23,
-    "end_char": 32
   },
   {
     "schema_version": "0.1.0",
@@ -1825,15 +1654,6 @@
     "span": "Sistema Nacional",
     "start_char": 135,
     "end_char": 151
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmsv:transitory:quinto:term-usage:155-164",
-    "provision_id": "urn:lex-mx:federal:statute:lgmsv:transitory:quinto",
-    "term_id": "urn:lex-mx:federal:statute:lgmsv:term:movilidad",
-    "span": "Movilidad",
-    "start_char": 155,
-    "end_char": 164
   },
   {
     "schema_version": "0.1.0",

@@ -64,15 +64,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgdnna:article:4:term-usage:8660-8679",
-    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:4",
-    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:proteccion-integral",
-    "span": "Protección Integral",
-    "start_char": 8660,
-    "end_char": 8679
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgdnna:article:19:term-usage:1208-1235",
     "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:19",
     "term_id": "urn:lex-mx:federal:statute:lgdnna:term:procuradurias-de-proteccion",

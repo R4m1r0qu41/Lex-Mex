@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/256.pdf
 source_sha256: 1764c89edb8173050fe6bc08f57826ea93a131c7c83f4fc8c15f74de03fb07c3
 ---
 
+> Título II · Capítulo II
+
 # Artículo 7 ter
 
 Obligaciones y Prohibiciones de las Unidades de Valuación.
@@ -39,7 +41,7 @@ II. Ostentarse como tales en tanto no tengan la Inscripción correspondiente;
 
 III. Certificar dictámenes de valuación al amparo de la inscripción que les otorgue la Sociedad Hipotecaria Federal S.N.C., respecto de bienes diferentes a los inmuebles;
 
-IV. Certificar avalúos sobre Inmuebles respecto de los que la Unidad de Valuación, sus socios, directivos o empleados, así como sus Valuadores Profesionales o controladores, el cónyuge, los parientes por consanguinidad dentro del cuarto grado, por afinidad o civiles de éstos, tengan interés que pueda influir negativamente en la imparcialidad que debe imperar en los avalúos; así como de aquellos que sean propiedad de clientes que representen el cuarenta por ciento o más de la facturación de la Unidad de Valuación respectiva, en el año fiscal en curso;
+IV. Certificar avalúos sobre Inmuebles respecto de los que la [Unidad de Valuación](articulo-3.md), sus socios, directivos o empleados, así como sus Valuadores Profesionales o controladores, el cónyuge, los parientes por consanguinidad dentro del cuarto grado, por afinidad o civiles de éstos, tengan interés que pueda influir negativamente en la imparcialidad que debe imperar en los avalúos; así como de aquellos que sean propiedad de clientes que representen el cuarenta por ciento o más de la facturación de la Unidad de Valuación respectiva, en el año fiscal en curso;
 
 V. Certificar avalúos en los que pueda resultar algún beneficio ilícito para ellas, sus socios, directivos o empleados; o bien cuando estén implicadas personas con las que sus Valuadores Profesionales o controladores, el cónyuge o los parientes consanguíneos hasta el cuarto grado, por afinidad o civiles de éstos tengan enemistad manifiesta; y
 
@@ -50,5 +52,3 @@ Se exceptúa de la prohibición señalada en la fracción I, a las Unidades de V
 La Sociedad Hipotecaria Federal S.N.C., podrá sancionar el incumplimiento de las obligaciones y la comisión de las conductas prohibidas a que se refiere este artículo, en los términos y condiciones que establezcan las disposiciones que al efecto emita la citada Sociedad.
 
 Artículo adicionado DOF 07-02-2005
-
-Capítulo III.- Formalización del Crédito Garantizado

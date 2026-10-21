@@ -19,7 +19,7 @@ source_sha256: c15f1084289b8990a4e345e6854c3e14333de0c452edc2df7b73b52050f9ae4e
 
 Al invertir sus reservas técnicas, los Fondos de Aseguramiento se ajustarán a lo siguiente:
 
-I. Deberán mantenerlas invertidas, en todo momento, en valores emitidos o respaldados por el Gobierno Federal, en valores aprobados por la [Comisión](articulo-2o.md) Nacional Bancaria y de Valores como objeto de inversión de las reservas técnicas de las instituciones y sociedades mutualistas de seguros o en depósitos en instituciones de crédito con excepción de la cuenta maestra empresarial y la cuenta de cheques;
+I. Deberán mantenerlas invertidas, en todo momento, en valores emitidos o respaldados por el Gobierno Federal, en valores aprobados por la Comisión Nacional Bancaria y de Valores como objeto de inversión de las reservas técnicas de las instituciones y sociedades mutualistas de seguros o en depósitos en instituciones de crédito con excepción de la cuenta maestra empresarial y la cuenta de cheques;
 
 II. En los seguros de moneda extranjera deberán mantener invertidas las reservas en valores denominados en moneda extranjera que emita o respalde el Gobierno Federal, en valores denominados en moneda extranjera que estén inscritos en el Registro Nacional de Valores e Intermediarios que lleva la Comisión Nacional Bancaria y de Valores;
 

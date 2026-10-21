@@ -19,9 +19,9 @@ source_sha256: 30f884c4cd22148b89f3fc21ff0be69be7571d51c146cefa7da2cac06b421f21
 
 El [Sistema](articulo-3o.md) Nacional de Capacitación y Asistencia Técnica Rural Integral será coordinado por la [Secretaría](articulo-3o.md) y se conformará por:
 
-I. El [Consejo Mexicano](articulo-3o.md) para el [Desarrollo Rural Sustentable](articulo-3o.md);
+I. El [Consejo Mexicano](articulo-3o.md) para el Desarrollo Rural Sustentable;
 
-II. Los consejos estatales para el Desarrollo Rural Sustentable;
+II. Los consejos estatales para el [Desarrollo Rural Sustentable](articulo-3o.md);
 
 III. Los prestadores de servicios de capacitación certificados con base en normas de competencia laboral y de conformidad con la Ley Federal sobre Metrología y Normalización;
 

@@ -19,7 +19,7 @@ source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 
 Para efectos de esta Ley se entenderá por:
 
-I. Comisión, la Comisión Nacional Bancaria y de [Valores](articulo-2.md).
+I. Comisión, la Comisión Nacional Bancaria y de Valores.
 
 II. Consorcio, el conjunto de personas morales vinculadas entre sí por una o más personas físicas que integrando un grupo de personas, tengan el control de las primeras.
 

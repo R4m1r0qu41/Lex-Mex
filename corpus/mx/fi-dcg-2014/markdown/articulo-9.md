@@ -9,9 +9,9 @@ aliases: ["DCG-FI-2014 — Artículo 9"]
 generated: true
 temporal_status: unknown
 review_status: not_analyzed
-amendment_marks: [40,41]
+amendment_marks: [40,41,48]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20los%20fondos%20de%20inversi%C3%B3n%20y%20a%20las%20personas%20que%20les%20prestan%20servicios.pdf
-source_sha256: 30cec2bac3222c89d447b6e8adc7877ea45ece21dfc270ed8c963ea91649b6ee
+source_sha256: 3b21198efc7e52987a773cbcc48772185e6eadc7338673fa39bfb38ba907d07b
 ---
 
 # Artículo 9
@@ -20,9 +20,9 @@ Los fondos de inversión que no cubran o excedan los límites mínimos o máximo
 
 I. Las inversiones que al momento de efectuarse incumplan con alguno de los límites aplicables, sin perjuicio de las sanciones que resulten aplicables, deberán ser corregidas a más tardar al día siguiente en que se presenten.
 
-II. Las inversiones que hayan sido realizadas dentro de los límites aplicables y que como consecuencia de variaciones en los precios de sus activos o de compras o ventas de acciones representativas de su capital pagado que se alejen del volumen promedio de operación diaria, incumplan con alguno de tales límites, deberán ajustarse a los parámetros de que se trate, en un plazo que no exceda de noventa días naturales, sin que esto se considere un incumplimiento a su régimen de inversión.
+II. Las inversiones que hayan sido realizadas dentro de los límites aplicables y que se ubiquen fuera de estos debido a variaciones en los precios de sus activos, a compras o ventas de acciones representativas de su capital pagado que se alejen del volumen promedio de operación diaria, o porque los activos en que inviertan dejen de cumplir con los criterios para ser considerados como [Activos Objeto de Inversión ASG](articulo-1.md), conforme a las definiciones establecidas en las presentes disposiciones, dichas inversiones deberán ajustarse a los parámetros correspondientes, en un plazo que no exceda de noventa días naturales, sin que esto sea considerado un incumplimiento a su régimen de inversión.
 
-Al efecto, los fondos de inversión deberán dar aviso a la Comisión, a través del SEDI, en el sitio de la página electrónica en la red mundial denominada Internet de la sociedad operadora de fondos de inversión que administre al fondo de inversión y, en su caso de las sociedades o entidades que les presten el servicio de distribución de acciones, a más tardar el día hábil siguiente a aquel en que no se cubran o excedan los límites de inversión aplicables a causa de lo previsto en el párrafo anterior.
+Al efecto, los fondos de inversión deberán dar aviso a la Comisión, a través del [SEDI](articulo-1.md), en el sitio de la página electrónica en la red mundial denominada Internet de la sociedad operadora de fondos de inversión que administre al fondo de inversión y, en su caso de las sociedades o entidades que les presten el servicio de distribución de acciones, a más tardar el día hábil siguiente a aquel en que no se cubran o excedan los límites de inversión aplicables a causa de lo previsto en el párrafo anterior.
 
 Si transcurridos los primeros treinta días naturales, el fondo de inversión no ha corregido el incumplimiento de alguno de los límites citados, deberá informarlo en forma inmediata a la Comisión y hacerlo del conocimiento de sus inversionistas a través de los medios señalados en el párrafo anterior, así como de cualquier otro medio convenido con la clientela.
 
@@ -40,7 +40,7 @@ a) Tratándose de fondos de inversión de nueva constitución, noventa días nat
 
 b) En el caso de fondos de inversión que se encuentren en proceso de fusión, escisión, disolución, liquidación o concurso mercantil, noventa días naturales contados a partir de la autorización por parte de la Comisión del acto corporativo correspondiente.
 
-c) Cuando, con motivo de los actos corporativos regulados en los artículos 14 Bis 4, 14 Bis 9 y 14 Bis 10, así como del concurso mercantil indicado en el artículo 14 Bis 14, todos ellos de la Ley, no existan accionistas en la parte variable del capital social pagado del fondo de inversión de que se trate, noventa días naturales contados a partir de la fecha en la que se notifique a la Comisión la citada inexistencia de accionistas.
+c) Cuando, con motivo de los actos corporativos regulados en los artículos 14 Bis 4, 14 Bis 9 y 14 Bis 10, así como del concurso mercantil indicado en el artículo 14 Bis 14, todos ellos de la [Ley](articulo-1.md), no existan accionistas en la parte variable del capital social pagado del fondo de inversión de que se trate, noventa días naturales contados a partir de la fecha en la que se notifique a la Comisión la citada inexistencia de accionistas.
 
 d) Se realice un cambio de tipo de fondo de inversión o alguna transformación en su objetivo o política de inversión por la cual se haya modificado significativamente su régimen de inversión, noventa días naturales contados a partir de la fecha de entrada en vigor de las modificaciones al prospecto de información al público inversionista.
 
@@ -54,4 +54,4 @@ Los fondos de inversión que se ubiquen en alguno de los supuestos previstos en 
 
 En los supuestos a que se refiere este artículo, el consejo de administración de la sociedad operadora de fondos de inversión que le preste los servicios de administración de activos o la persona que dicho consejo haya designado, no podrá autorizar la emisión de nuevas acciones representativas del capital social variable del fondo de inversión de que se trate, hasta en tanto no se cumplan con los límites mínimos o máximos aplicables.
 
-Asimismo, la Comisión podrá ordenar la suspensión, total o parcial, de la realización de operaciones con Valores e instrumentos financieros derivados, cuando las sociedades operadoras de fondos de inversión no cumplan con los requisitos de Administración integral de riesgos previstos en el Título Séptimo de estas disposiciones. Lo anterior, sin perjuicio de las sanciones administrativas que, en su caso, resulten procedentes.
+Asimismo, la Comisión podrá ordenar la suspensión, total o parcial, de la realización de operaciones con Valores e instrumentos financieros derivados, cuando las sociedades operadoras de fondos de inversión no cumplan con los requisitos de [Administración integral de riesgos](articulo-1.md) previstos en el Título Séptimo de estas disposiciones. Lo anterior, sin perjuicio de las sanciones administrativas que, en su caso, resulten procedentes.

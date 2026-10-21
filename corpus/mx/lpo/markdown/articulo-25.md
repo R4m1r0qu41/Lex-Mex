@@ -17,4 +17,4 @@ source_sha256: 2c0605e891e16c74283ed14d0adf749dba4cab1ad67909a2a5934f8e38b641a6
 
 # Artículo 25
 
-Los solicitantes de Certificación de productos de recolección silvestres y de recursos forestales deberán presentar al [Organismo de certificación orgánica](articulo-3.md) las autorizaciones que en materia de aprovechamiento y producción de dichos productos competan a la [Secretaría](articulo-3.md) de Medio Ambiente y Recursos Naturales.
+Los solicitantes de Certificación de productos de recolección silvestres y de recursos forestales deberán presentar al [Organismo de certificación orgánica](articulo-3.md) las autorizaciones que en materia de aprovechamiento y producción de dichos productos competan a la Secretaría de Medio Ambiente y Recursos Naturales.

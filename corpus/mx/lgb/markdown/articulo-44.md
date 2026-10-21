@@ -17,4 +17,4 @@ source_sha256: 1a7dcb966c812b4d78487fc81a4f873a2d1fd63e0f40a021dc8aa2d56e31dc19
 
 # Artículo 44
 
-La [Secretaría](articulo-2.md) de Hacienda y Crédito Público hará efectivas las sanciones administrativas que correspondan conforme a las disposiciones legales aplicables, y el monto que se recaude por concepto de multas se integrará en un fondo para el fortalecimiento de los propósitos de Depósito Legal.
+La Secretaría de Hacienda y Crédito Público hará efectivas las sanciones administrativas que correspondan conforme a las disposiciones legales aplicables, y el monto que se recaude por concepto de multas se integrará en un fondo para el fortalecimiento de los propósitos de Depósito Legal.

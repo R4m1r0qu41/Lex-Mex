@@ -35,7 +35,7 @@ VII. Instruir la asignación del personal y recursos logísticos, en el ámbito 
 
 VIII. Instaurar los programas de control, resguardo y suministro de armamento, así como de las municiones y equipo para estandarizar el armamento de la [Institución](articulo-2.md);
 
-IX. Ejecutar los programas específicos para dar cumplimiento a las obligaciones derivadas de la legislación federal relacionadas con el control del armamento, municiones, equipo, así como del material propio del servicio y las que señale la [Secretaría](articulo-2.md) de la Defensa Nacional con motivo del otorgamiento de la Licencia Oficial Colectiva de portación de armas de fuego de la Institución;
+IX. Ejecutar los programas específicos para dar cumplimiento a las obligaciones derivadas de la legislación federal relacionadas con el control del armamento, municiones, equipo, así como del material propio del servicio y las que señale la Secretaría de la Defensa Nacional con motivo del otorgamiento de la Licencia Oficial Colectiva de portación de armas de fuego de la Institución;
 
 X. Instruir los servicios de seguridad física de las instalaciones a resguardo de la División;
 

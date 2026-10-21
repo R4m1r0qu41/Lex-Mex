@@ -1,1 +1,776 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:article:1:term-usage:127-146",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:1",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:credito-garantizado",
+    "span": "Crédito Garantizado",
+    "start_char": 127,
+    "end_char": 146
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:article:2:term-usage:179-186",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:2",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:entidades",
+    "span": "Entidad",
+    "start_char": 179,
+    "end_char": 186
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:article:3:term-usage:176-185",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:3",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:entidades",
+    "span": "Entidades",
+    "start_char": 176,
+    "end_char": 185
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:article:3:term-usage:480-489",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:3",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:entidades",
+    "span": "Entidades",
+    "start_char": 480,
+    "end_char": 489
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:article:3:term-usage:784-803",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:3",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:credito-garantizado",
+    "span": "Crédito Garantizado",
+    "start_char": 784,
+    "end_char": 803
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:article:3:term-usage:1060-1079",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:3",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:credito-garantizado",
+    "span": "Crédito Garantizado",
+    "start_char": 1060,
+    "end_char": 1079
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:article:3:term-usage:1228-1247",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:3",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:credito-garantizado",
+    "span": "Crédito Garantizado",
+    "start_char": 1228,
+    "end_char": 1247
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:article:3:term-usage:1496-1503",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:3",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:entidades",
+    "span": "Entidad",
+    "start_char": 1496,
+    "end_char": 1503
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:article:3:term-usage:1520-1539",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:3",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:credito-garantizado",
+    "span": "Crédito Garantizado",
+    "start_char": 1520,
+    "end_char": 1539
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:article:3:term-usage:1650-1669",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:3",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:credito-garantizado",
+    "span": "Crédito Garantizado",
+    "start_char": 1650,
+    "end_char": 1669
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:article:3:term-usage:2107-2126",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:3",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:unidad-de-valuacion",
+    "span": "Unidad de Valuación",
+    "start_char": 2107,
+    "end_char": 2126
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:article:5:term-usage:4-13",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:5",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:entidades",
+    "span": "Entidades",
+    "start_char": 4,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:article:5:term-usage:29-50",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:5",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:credito-garantizado",
+    "span": "Créditos Garantizados",
+    "start_char": 29,
+    "end_char": 50
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:article:5:term-usage:319-340",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:5",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:credito-garantizado",
+    "span": "Créditos Garantizados",
+    "start_char": 319,
+    "end_char": 340
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:article:5:term-usage:369-376",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:5",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:entidades",
+    "span": "Entidad",
+    "start_char": 369,
+    "end_char": 376
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:article:5:term-usage:440-447",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:5",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:entidades",
+    "span": "Entidad",
+    "start_char": 440,
+    "end_char": 447
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:article:5:term-usage:671-704",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:5",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:credito-garantizado-a-la-vivienda",
+    "span": "Crédito Garantizado a la Vivienda",
+    "start_char": 671,
+    "end_char": 704
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:article:5:term-usage:774-781",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:5",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:entidades",
+    "span": "Entidad",
+    "start_char": 774,
+    "end_char": 781
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:article:5:term-usage:995-1002",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:5",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:entidades",
+    "span": "Entidad",
+    "start_char": 995,
+    "end_char": 1002
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:article:5:term-usage:1148-1181",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:5",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:credito-garantizado-a-la-vivienda",
+    "span": "Crédito Garantizado a la Vivienda",
+    "start_char": 1148,
+    "end_char": 1181
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:article:5:term-usage:1294-1327",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:5",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:credito-garantizado-a-la-vivienda",
+    "span": "Crédito Garantizado a la Vivienda",
+    "start_char": 1294,
+    "end_char": 1327
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:article:5:term-usage:1436-1442",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:5",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:reglas",
+    "span": "Reglas",
+    "start_char": 1436,
+    "end_char": 1442
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:article:5:term-usage:1449-1455",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:5",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:reglas",
+    "span": "Reglas",
+    "start_char": 1449,
+    "end_char": 1455
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:article:5:term-usage:1744-1777",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:5",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:credito-garantizado-a-la-vivienda",
+    "span": "Crédito Garantizado a la Vivienda",
+    "start_char": 1744,
+    "end_char": 1777
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:article:5:term-usage:1785-1792",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:5",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:entidades",
+    "span": "Entidad",
+    "start_char": 1785,
+    "end_char": 1792
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:article:5:term-usage:1808-1817",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:5",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:entidades",
+    "span": "Entidades",
+    "start_char": 1808,
+    "end_char": 1817
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:article:6:term-usage:4-13",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:6",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:entidades",
+    "span": "Entidades",
+    "start_char": 4,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:article:6:term-usage:29-50",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:6",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:credito-garantizado",
+    "span": "Créditos Garantizados",
+    "start_char": 29,
+    "end_char": 50
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:article:6:term-usage:319-328",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:6",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:entidades",
+    "span": "Entidades",
+    "start_char": 319,
+    "end_char": 328
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:article:6:term-usage:788-795",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:6",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:entidades",
+    "span": "Entidad",
+    "start_char": 788,
+    "end_char": 795
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:article:6:term-usage:819-852",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:6",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:credito-garantizado-a-la-vivienda",
+    "span": "Crédito Garantizado a la Vivienda",
+    "start_char": 819,
+    "end_char": 852
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:article:6:term-usage:1117-1124",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:6",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:entidades",
+    "span": "Entidad",
+    "start_char": 1117,
+    "end_char": 1124
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:article:6:term-usage:1222-1229",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:6",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:entidades",
+    "span": "Entidad",
+    "start_char": 1222,
+    "end_char": 1229
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:article:6:term-usage:1606-1612",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:6",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:reglas",
+    "span": "Reglas",
+    "start_char": 1606,
+    "end_char": 1612
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:article:6:term-usage:1619-1625",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:6",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:reglas",
+    "span": "Reglas",
+    "start_char": 1619,
+    "end_char": 1625
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:article:6:term-usage:1800-1809",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:6",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:entidades",
+    "span": "Entidades",
+    "start_char": 1800,
+    "end_char": 1809
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:article:6:term-usage:1874-1881",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:6",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:entidades",
+    "span": "Entidad",
+    "start_char": 1874,
+    "end_char": 1881
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:article:6:term-usage:2268-2275",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:6",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:entidades",
+    "span": "Entidad",
+    "start_char": 2268,
+    "end_char": 2275
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:article:6:term-usage:2362-2369",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:6",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:entidades",
+    "span": "Entidad",
+    "start_char": 2362,
+    "end_char": 2369
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:article:6:term-usage:2399-2432",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:6",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:credito-garantizado-a-la-vivienda",
+    "span": "Crédito Garantizado a la Vivienda",
+    "start_char": 2399,
+    "end_char": 2432
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:article:6:term-usage:2522-2529",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:6",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:entidades",
+    "span": "Entidad",
+    "start_char": 2522,
+    "end_char": 2529
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:article:6:term-usage:2990-2997",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:6",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:entidades",
+    "span": "Entidad",
+    "start_char": 2990,
+    "end_char": 2997
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:article:7:term-usage:46-67",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:7",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:credito-garantizado",
+    "span": "Créditos Garantizados",
+    "start_char": 46,
+    "end_char": 67
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:article:7:term-usage:321-328",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:7",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:entidades",
+    "span": "Entidad",
+    "start_char": 321,
+    "end_char": 328
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:article:7-bis:term-usage:396-415",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:7-bis",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:unidad-de-valuacion",
+    "span": "Unidad de Valuación",
+    "start_char": 396,
+    "end_char": 415
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:article:7-bis:term-usage:1359-1378",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:7-bis",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:unidad-de-valuacion",
+    "span": "Unidad de Valuación",
+    "start_char": 1359,
+    "end_char": 1378
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:article:7-bis:term-usage:1779-1798",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:7-bis",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:unidad-de-valuacion",
+    "span": "Unidad de Valuación",
+    "start_char": 1779,
+    "end_char": 1798
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:article:7-ter:term-usage:2110-2129",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:7-ter",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:unidad-de-valuacion",
+    "span": "Unidad de Valuación",
+    "start_char": 2110,
+    "end_char": 2129
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:article:7-ter:term-usage:2546-2565",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:7-ter",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:unidad-de-valuacion",
+    "span": "Unidad de Valuación",
+    "start_char": 2546,
+    "end_char": 2565
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:article:9:term-usage:433-439",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:9",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:reglas",
+    "span": "Reglas",
+    "start_char": 433,
+    "end_char": 439
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:article:11:term-usage:163-184",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:11",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:credito-garantizado",
+    "span": "Créditos Garantizados",
+    "start_char": 163,
+    "end_char": 184
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:article:13:term-usage:77-96",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:13",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:credito-garantizado",
+    "span": "Crédito Garantizado",
+    "start_char": 77,
+    "end_char": 96
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:article:13:term-usage:433-440",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:13",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:entidades",
+    "span": "Entidad",
+    "start_char": 433,
+    "end_char": 440
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:article:14:term-usage:17-36",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:14",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:credito-garantizado",
+    "span": "Crédito Garantizado",
+    "start_char": 17,
+    "end_char": 36
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:article:14:term-usage:42-68",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:14",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:desarrollador-inmobiliario",
+    "span": "Desarrollador Inmobiliario",
+    "start_char": 42,
+    "end_char": 68
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:article:14:term-usage:224-250",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:14",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:desarrollador-inmobiliario",
+    "span": "Desarrollador Inmobiliario",
+    "start_char": 224,
+    "end_char": 250
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:article:14:term-usage:564-571",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:14",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:entidades",
+    "span": "Entidad",
+    "start_char": 564,
+    "end_char": 571
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:article:15:term-usage:18-37",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:15",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:credito-garantizado",
+    "span": "Crédito Garantizado",
+    "start_char": 18,
+    "end_char": 37
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:article:15:term-usage:110-117",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:15",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:entidades",
+    "span": "Entidad",
+    "start_char": 110,
+    "end_char": 117
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:article:15:term-usage:125-132",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:15",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:entidades",
+    "span": "Entidad",
+    "start_char": 125,
+    "end_char": 132
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:article:15:term-usage:377-400",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:15",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:subrogacion-de-acreedor",
+    "span": "Subrogación de Acreedor",
+    "start_char": 377,
+    "end_char": 400
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:article:15:term-usage:1167-1186",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:15",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:credito-garantizado",
+    "span": "Crédito Garantizado",
+    "start_char": 1167,
+    "end_char": 1186
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:article:15:term-usage:2997-3016",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:15",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:credito-garantizado",
+    "span": "Crédito Garantizado",
+    "start_char": 2997,
+    "end_char": 3016
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:article:15:term-usage:3202-3221",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:15",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:credito-garantizado",
+    "span": "Crédito Garantizado",
+    "start_char": 3202,
+    "end_char": 3221
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:article:15:term-usage:3309-3332",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:15",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:subrogacion-de-acreedor",
+    "span": "Subrogación de Acreedor",
+    "start_char": 3309,
+    "end_char": 3332
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:article:16:term-usage:120-143",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:16",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:subrogacion-de-acreedor",
+    "span": "Subrogación de Acreedor",
+    "start_char": 120,
+    "end_char": 143
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:article:16:term-usage:151-172",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:16",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:credito-garantizado",
+    "span": "Créditos Garantizados",
+    "start_char": 151,
+    "end_char": 172
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:article:17:term-usage:53-74",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:17",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:credito-garantizado",
+    "span": "Créditos Garantizados",
+    "start_char": 53,
+    "end_char": 74
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:article:17:term-usage:259-280",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:17",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:credito-garantizado",
+    "span": "Créditos Garantizados",
+    "start_char": 259,
+    "end_char": 280
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:article:17:term-usage:773-780",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:17",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:entidades",
+    "span": "Entidad",
+    "start_char": 773,
+    "end_char": 780
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:article:17:term-usage:999-1006",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:17",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:entidades",
+    "span": "Entidad",
+    "start_char": 999,
+    "end_char": 1006
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:article:18:term-usage:94-113",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:18",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:credito-garantizado",
+    "span": "Crédito Garantizado",
+    "start_char": 94,
+    "end_char": 113
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:article:18:term-usage:191-200",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:18",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:entidades",
+    "span": "Entidades",
+    "start_char": 191,
+    "end_char": 200
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:article:18:term-usage:228-247",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:18",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:credito-garantizado",
+    "span": "Crédito Garantizado",
+    "start_char": 228,
+    "end_char": 247
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:article:19:term-usage:165-186",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:19",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:subrogacion-de-deudor",
+    "span": "Subrogación de Deudor",
+    "start_char": 165,
+    "end_char": 186
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:article:19:term-usage:192-215",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:19",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:subrogacion-de-acreedor",
+    "span": "Subrogación de Acreedor",
+    "start_char": 192,
+    "end_char": 215
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:article:19-bis:term-usage:46-55",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:19-bis",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:entidades",
+    "span": "Entidades",
+    "start_char": 46,
+    "end_char": 55
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:article:19-bis:term-usage:306-313",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:19-bis",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:entidades",
+    "span": "Entidad",
+    "start_char": 306,
+    "end_char": 313
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:article:19-bis:term-usage:621-628",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:19-bis",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:entidades",
+    "span": "Entidad",
+    "start_char": 621,
+    "end_char": 628
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:article:19-bis:term-usage:878-885",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:19-bis",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:entidades",
+    "span": "Entidad",
+    "start_char": 878,
+    "end_char": 885
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:article:19-bis:term-usage:977-1000",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:19-bis",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:subrogacion-de-acreedor",
+    "span": "Subrogación de Acreedor",
+    "start_char": 977,
+    "end_char": 1000
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:article:19-bis:term-usage:1593-1602",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:19-bis",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:entidades",
+    "span": "Entidades",
+    "start_char": 1593,
+    "end_char": 1602
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:article:20:term-usage:26-45",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:20",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:credito-garantizado",
+    "span": "Crédito Garantizado",
+    "start_char": 26,
+    "end_char": 45
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:article:20:term-usage:288-295",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:20",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:entidades",
+    "span": "Entidad",
+    "start_char": 288,
+    "end_char": 295
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:article:20:term-usage:402-409",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:article:20",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:entidades",
+    "span": "Entidad",
+    "start_char": 402,
+    "end_char": 409
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltfccg:transitory:segundo:term-usage:399-408",
+    "provision_id": "urn:lex-mx:federal:statute:ltfccg:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:statute:ltfccg:term:entidades",
+    "span": "Entidades",
+    "start_char": 399,
+    "end_char": 408
+  }
+]

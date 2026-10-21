@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-5",
+  "strategy_version": "glossary-extraction-6",
   "instrument_id": "urn:lex-mx:federal:statute:lgaas",
   "source_sha256": "56a1bbbaa8d0296def17f9cef3f8e81fa3ff09f2f02fecfd91eb01a847841410",
   "extracted_text_sha256": "5beae453e73ece56b4b627e0b612dbc1c4ba48ec0f5cddd22e301036783f31cb",

@@ -17,7 +17,7 @@ source_sha256: bf9e443e89a5c0ba268e76f20923ae25195ef5c1ffbacecff36693ca228c3667
 
 # Artículo 49 Bis 1
 
-La [Comisión](articulo-3.md) Nacional Bancaria y de Valores podrá practicar visitas de inspección a cualesquiera de los [Participantes en Redes](articulo-3.md) y requerirles, dentro de los plazos que la propia Comisión establezca, toda la información y documentación necesaria a efecto de verificar el cumplimiento de esta Ley y la observancia de las disposiciones de carácter general que de ella emanen. Al efecto, la Comisión Nacional Bancaria y de Valores podrá:
+La Comisión Nacional Bancaria y de Valores podrá practicar visitas de inspección a cualesquiera de los [Participantes en Redes](articulo-3.md) y requerirles, dentro de los plazos que la propia [Comisión](articulo-3.md) establezca, toda la información y documentación necesaria a efecto de verificar el cumplimiento de esta Ley y la observancia de las disposiciones de carácter general que de ella emanen. Al efecto, la Comisión Nacional Bancaria y de Valores podrá:
 
 a) Requerir toda clase de información y documentación, y
 

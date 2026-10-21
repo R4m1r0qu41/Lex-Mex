@@ -15,4 +15,4 @@ source_sha256: 2c0605e891e16c74283ed14d0adf749dba4cab1ad67909a2a5934f8e38b641a6
 
 # SEGUNDO
 
-La constitución del [Consejo](articulo-3.md) Nacional de [Producción Orgánica](articulo-3.md) y sus grupos de trabajo deberá realizarse dentro de los seis meses siguientes a la fecha de publicación de esta Ley en el Diario Oficial de la Federación.
+La constitución del [Consejo](articulo-3.md) Nacional de Producción Orgánica y sus grupos de trabajo deberá realizarse dentro de los seis meses siguientes a la fecha de publicación de esta Ley en el Diario Oficial de la Federación.

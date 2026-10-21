@@ -31,7 +31,7 @@ V. Arreglo de reconocimiento mutuo o arreglo de reconocimiento multilateral: un 
 
 VI. Autoridad Normalizadora: a las dependencias o entidades competentes de la Administración Pública Federal que tengan atribuciones o facultades expresas para realizar actividades de normalización y estandarización.
 
-VII. Comisión: a la Comisión Nacional de [Infraestructura de la Calidad](articulo-4.md).
+VII. Comisión: a la Comisión Nacional de Infraestructura de la Calidad.
 
 VIII. Comités Mexicanos: a los comités creados por la [Comisión](articulo-4.md) a solicitud de la [Secretaría](articulo-4.md) o de las Autoridades Normalizadoras para la atención de organismos internacionales de normalización. Los Comités Mexicanos deberán estar integrados por los diversos sectores interesados de acuerdo con lo previsto en el Reglamento de esta Ley.
 
@@ -53,7 +53,7 @@ XVII. Organismos de Evaluación de la Conformidad: a la persona acreditada por u
 
 XVIII. Plataforma Tecnológica Integral de Infraestructura de la Calidad: a la solución digital donde se administrarán y ejecutarán de manera sistematizada los datos, procesos, trámites, servicios y actividades de normalización, estandarización, Evaluación de la Conformidad y metrología.
 
-XIX. Programa: al Programa Nacional de Infraestructura de la Calidad aprobado por la Comisión. XX. Procedimiento de Evaluación de la Conformidad: al conjunto de acciones especificadas que tienen por objeto comprobar que el bien, producto, proceso o servicio cumple con una Norma Oficial Mexicana o Estándar, a través de los medios que para ello se definan en esta Ley y en su Reglamento.
+XIX. Programa: al Programa Nacional de [Infraestructura de la Calidad](articulo-4.md) aprobado por la Comisión. XX. Procedimiento de Evaluación de la Conformidad: al conjunto de acciones especificadas que tienen por objeto comprobar que el bien, producto, proceso o servicio cumple con una Norma Oficial Mexicana o Estándar, a través de los medios que para ello se definan en esta Ley y en su Reglamento.
 
 XXI. Secretaría: a la Secretaría de Economía.
 

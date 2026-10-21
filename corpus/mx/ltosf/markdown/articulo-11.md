@@ -17,7 +17,7 @@ source_sha256: bf9e443e89a5c0ba268e76f20923ae25195ef5c1ffbacecff36693ca228c3667
 
 # Artículo 11
 
-Los Contratos de Adhesión que utilicen las [Entidades Financieras](articulo-3.md) para documentar operaciones masivas deberán cumplir con los requisitos que mediante disposiciones de carácter general establezca la [Comisión](articulo-3.md) Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros. Las disposiciones señalaran los tipos específicos de Contratos de Adhesión a los que les serán aplicables las mismas y lo que debe entenderse por operaciones masivas en términos de este artículo. Párrafo reformado DOF 25-06-2009
+Los Contratos de Adhesión que utilicen las [Entidades Financieras](articulo-3.md) para documentar operaciones masivas deberán cumplir con los requisitos que mediante disposiciones de carácter general establezca la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros. Las disposiciones señalaran los tipos específicos de Contratos de Adhesión a los que les serán aplicables las mismas y lo que debe entenderse por operaciones masivas en términos de este artículo. Párrafo reformado DOF 25-06-2009
 
 Los Contratos de Adhesión que empleen las [Entidades Comerciales](articulo-3.md) deberán cumplir con los requisitos que mediante disposiciones de carácter general establezca la Procuraduría Federal del Consumidor. Párrafo reformado DOF 25-06-2009
 
@@ -31,7 +31,7 @@ II Bis. La utilización de una carátula para los contratos de adhesión que se 
 
 a) Los elementos esenciales de la operación que permitan al [Cliente](articulo-3.md) comparar los servicios del mismo tipo ofrecido por diversas [Entidades](articulo-3.md);
 
-b) Las advertencias en materia de tasas y Comisiones que representen penalidades para el Cliente y los supuestos en los que serían aplicables;
+b) Las advertencias en materia de tasas y [Comisiones](articulo-3.md) que representen penalidades para el Cliente y los supuestos en los que serían aplicables;
 
 c) Campos claros que permitan distinguir términos y condiciones tales como las Comisiones y Tasas de Interés, el [CAT](articulo-3.md) y el monto total a pagar en el caso de créditos, préstamos o financiamientos, y
 

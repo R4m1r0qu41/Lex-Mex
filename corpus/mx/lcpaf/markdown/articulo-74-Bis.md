@@ -17,7 +17,7 @@ source_sha256: 9133f4bfc63f4f6ee32f3657ba4468c67b2eb9db46410ed893c85e693018a036
 
 # Artículo 74 Bis
 
-La [Secretaría](articulo-2o.md) de Gobernación, a través de la Policía Federal, de conformidad con las disposiciones legales y reglamentarias respectivas, impondrá las siguientes sanciones: Párrafo reformado DOF 21-05-2013
+La Secretaría de Gobernación, a través de la Policía Federal, de conformidad con las disposiciones legales y reglamentarias respectivas, impondrá las siguientes sanciones: Párrafo reformado DOF 21-05-2013
 
 I. Por infracciones a la presente Ley y reglamentos que de ella se deriven en materia de tránsito, multa de hasta doscientos días de salario mínimo, y
 
@@ -27,7 +27,7 @@ El propietario del vehículo tendrá 45 días naturales para la contratación de
 
 III. Cualquier otra infracción a las disposiciones de esta Ley y los ordenamientos que de ella se deriven para la operación de los servicios de autotransporte federal, sus servicios auxiliares y transporte privado cuando circulen en la zona terrestre de las vías generales de comunicación, con multa de hasta quinientos días de salario mínimo. Fracción recorrida DOF 21-05-2013
 
-En caso de reincidencia, la Secretaría de Seguridad Pública podrá imponer una multa equivalente hasta el doble de las cuantías señaladas, salvo las excepciones o casos específicos previstos en esta Ley.
+En caso de reincidencia, la [Secretaría](articulo-2o.md) de Seguridad Pública podrá imponer una multa equivalente hasta el doble de las cuantías señaladas, salvo las excepciones o casos específicos previstos en esta Ley.
 
 Los ingresos derivados por concepto de multas a que se refiere la fracción I del presente Artículo, se destinarán a la Secretaría de Seguridad Pública para cubrir gastos de operación e inversión en programas vinculados a la propia seguridad pública y de manera específica se destinará el 20% del total a prevención del delito, en tanto que los derivados de la fracción II se destinarán conforme a lo establecido en el último párrafo del Artículo [74](articulo-74.md) de esta Ley. La Secretaría y la Secretaría de Seguridad Pública establecerán mecanismos para el intercambio de información en materia de infracciones.
 

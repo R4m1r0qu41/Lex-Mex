@@ -17,7 +17,7 @@ source_sha256: 14cd17e37e96e766c8ab74950c71186d579c0ba6cc10ac9e8b06f6194af7d953
 
 # Artículo 11
 
-Se requiere permiso de la [Secretaría](articulo-2o.md) de Relaciones Exteriores para que instituciones de crédito adquieran como fiduciarias, derechos sobre bienes inmuebles ubicados dentro del la zona restringida, cuando el objeto del fideicomiso sea permitir la utilización y el aprovechamiento de tales bienes sin constituir derechos reales sobre ellos, y los fideicomisarios sean:
+Se requiere permiso de la Secretaría de Relaciones Exteriores para que instituciones de crédito adquieran como fiduciarias, derechos sobre bienes inmuebles ubicados dentro del la zona restringida, cuando el objeto del fideicomiso sea permitir la utilización y el aprovechamiento de tales bienes sin constituir derechos reales sobre ellos, y los fideicomisarios sean:
 
 I.- Sociedades mexicanas sin cláusula de exclusión de extranjeros en el caso previsto en la fracción II del artículo [10](articulo-10.md) de esta Ley; y
 

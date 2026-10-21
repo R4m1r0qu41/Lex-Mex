@@ -31,7 +31,7 @@ V. Constitución: Constitución Política de los Estados Unidos Mexicanos;
 
 VI. Convención: Convención sobre los Derechos del Niño;
 
-VII. Defensa: La o el defensor público o la o el defensor particular especializado en el [Sistema](articulo-3.md) Integral de Justicia Penal para [Adolescentes](articulo-3.md) en los términos de esta Ley;
+VII. Defensa: La o el defensor público o la o el defensor particular especializado en el [Sistema](articulo-3.md) Integral de Justicia Penal para Adolescentes en los términos de esta Ley;
 
 VIII. Facilitador: Profesional certificado y especializado en adolescentes, cuya función es facilitar la participación de los intervinientes en los mecanismos alternativos y justicia restaurativa; IX. Grupo etario I: Grupo de personas adolescentes que por su edad se encuentren comprendidas en el rango de edad de doce años cumplidos a menos de catorce años;
 
@@ -59,7 +59,7 @@ XX. Plan Individualizado de Actividades: Organización de los tiempos y espacios
 
 XXI. Plan Individualizado de Ejecución: El plan que diseña la [Autoridad Administrativa](articulo-3.md) en la Ejecución de Medidas por el que se individualiza la ejecución de las medidas de sanción, aprobado por el Juez de Ejecución;
 
-XXII. Procuradurías de Protección: La Procuraduría Federal de Protección de Niñas, Niños y Adolescentes y las procuradurías de protección de niñas, niños y adolescentes de cada entidad federativa establecidas por la [Ley General](articulo-3.md);
+XXII. Procuradurías de Protección: La Procuraduría Federal de Protección de Niñas, Niños y [Adolescentes](articulo-3.md) y las procuradurías de protección de niñas, niños y adolescentes de cada entidad federativa establecidas por la [Ley General](articulo-3.md);
 
 XXIII. Sistema: Sistema Integral de Justicia Penal para Adolescentes, y
 

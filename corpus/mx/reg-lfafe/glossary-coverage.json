@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-5",
+  "strategy_version": "glossary-extraction-6",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-lfafe",
   "source_sha256": "9fedca5f25e5e912e6a91ad595c8782841e8227ffe9538bfb55c8d0bd4d7d183",
   "extracted_text_sha256": "ab0a38cb91c88192e3b4dab4e468cb669d3569c29bbcb439127a0c4fc31de5e4",

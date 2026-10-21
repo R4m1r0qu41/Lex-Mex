@@ -17,7 +17,7 @@ source_sha256: 91c9521ab87e22ff0a199a3a017e0d22449cdf59dfc788f6e550a1833717f2df
 
 # Artículo 12
 
-El [Sistema](articulo-5.md) de Vigilancia y [Protección del Espacio Aéreo Mexicano](articulo-5.md) se integra por:
+El [Sistema](articulo-5.md) de Vigilancia y Protección del Espacio Aéreo Mexicano se integra por:
 
 I. La [Secretaría](articulo-5.md) de la Defensa Nacional, quien coordinará el Sistema:
 

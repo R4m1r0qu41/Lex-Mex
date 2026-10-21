@@ -17,4 +17,4 @@ source_sha256: 30f884c4cd22148b89f3fc21ff0be69be7571d51c146cefa7da2cac06b421f21
 
 # Artículo 10
 
-Para los propósitos de esta Ley se crea la [Comisión Intersecretarial](articulo-3o.md) para el [Desarrollo Rural Sustentable](articulo-3o.md).
+Para los propósitos de esta Ley se crea la [Comisión Intersecretarial](articulo-3o.md) para el Desarrollo Rural Sustentable.

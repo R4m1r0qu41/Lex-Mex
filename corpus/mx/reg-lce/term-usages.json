@@ -1,15 +1,6 @@
 [
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lce:article:1:term-usage:247-255",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lce:article:1",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lce:term:comision",
-    "span": "Comisión",
-    "start_char": 247,
-    "end_char": 255
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lce:article:2:term-usage:3-11",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lce:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lce:term:comision",
@@ -277,15 +268,6 @@
     "span": "Secretaría",
     "start_char": 2061,
     "end_char": 2071
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lce:article:9:term-usage:2347-2357",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lce:article:9",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lce:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 2347,
-    "end_char": 2357
   },
   {
     "schema_version": "0.1.0",
@@ -1252,15 +1234,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lce:article:82:term-usage:1630-1640",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lce:article:82",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lce:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 1630,
-    "end_char": 1640
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lce:article:82:term-usage:2237-2245",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lce:article:82",
     "term_id": "urn:lex-mx:federal:regulation:reg-lce:term:comision",
@@ -1312,15 +1285,6 @@
     "span": "Ley",
     "start_char": 1243,
     "end_char": 1246
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lce:article:83:term-usage:1700-1710",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lce:article:83",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lce:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 1700,
-    "end_char": 1710
   },
   {
     "schema_version": "0.1.0",
@@ -2026,15 +1990,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lce:article:126:term-usage:800-810",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lce:article:126",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lce:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 800,
-    "end_char": 810
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lce:article:126:term-usage:976-984",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lce:article:126",
     "term_id": "urn:lex-mx:federal:regulation:reg-lce:term:comision",
@@ -2080,15 +2035,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lce:article:130:term-usage:434-444",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lce:article:130",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lce:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 434,
-    "end_char": 444
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lce:article:131:term-usage:99-102",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lce:article:131",
     "term_id": "urn:lex-mx:federal:regulation:reg-lce:term:ley",
@@ -2104,15 +2050,6 @@
     "span": "Ley",
     "start_char": 409,
     "end_char": 412
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lce:article:131:term-usage:768-778",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lce:article:131",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lce:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 768,
-    "end_char": 778
   },
   {
     "schema_version": "0.1.0",

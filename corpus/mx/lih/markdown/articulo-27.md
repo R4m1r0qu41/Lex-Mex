@@ -17,6 +17,6 @@ source_sha256: 8262a75eac7bfb608d4f48657ffb2714fe115d0b9694c42ac81624fd275bf5f6
 
 # Artículo 27
 
-El [Comercializador](articulo-3.md) debe entregar al [Fondo Mexicano del Petróleo](articulo-3.md) todos los ingresos derivados de la venta de la [Producción Contractual](articulo-3.md) que de acuerdo con cada [Contrato](articulo-3.md) corresponda al Estado, una vez descontado el pago por los servicios de aquél, de conformidad con lo establecido en el contrato que formalice con la [Secretaría](articulo-3.md) de Energía, en términos del artículo [57](../../lsh/markdown/articulo-57.md) de la Ley del Sector Hidrocarburos.
+El [Comercializador](articulo-3.md) debe entregar al [Fondo Mexicano del Petróleo](articulo-3.md) todos los ingresos derivados de la venta de la [Producción Contractual](articulo-3.md) que de acuerdo con cada [Contrato](articulo-3.md) corresponda al Estado, una vez descontado el pago por los servicios de aquél, de conformidad con lo establecido en el contrato que formalice con la Secretaría de Energía, en términos del artículo [57](../../lsh/markdown/articulo-57.md) de la Ley del Sector Hidrocarburos.
 
 Artículo reformado DOF 18-03-2025

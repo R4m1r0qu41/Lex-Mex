@@ -29,7 +29,7 @@ IV. Solicitar a las instituciones que llevan a cabo la investigación de los del
 
 V. Solicitar información a la [Fiscalía Especializada](articulo-5.md) competente para mejorar la atención brindada a las Víctimas de los delitos materia de esta Ley; Fracción reformada DOF 20-05-2021
 
-VI. Incluir en el [Registro Nacional](articulo-5.md) de Víctimas a las Víctimas de los delitos previstos en esta Ley;
+VI. Incluir en el Registro Nacional de Víctimas a las Víctimas de los delitos previstos en esta Ley;
 
 VII. Celebrar acuerdos o convenios con instituciones públicas de la Federación, de las entidades federativas y de los municipios, así como con organismos e instituciones de carácter social o privado, nacionales e internacionales, para la atención a las Víctimas de los delitos materia de esta Ley, con el fin de mejorar el cumplimiento de sus atribuciones;
 

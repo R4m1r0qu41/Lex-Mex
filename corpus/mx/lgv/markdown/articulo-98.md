@@ -19,7 +19,7 @@ source_sha256: a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8
 
 Las solicitudes de ingreso se realizarán en forma totalmente gratuita, ante la [Comisión Ejecutiva](articulo-6.md) y sus correlativos de las entidades federativas, según corresponda de acuerdo a la competencia. Las solicitudes derivadas de delitos federales o de violaciones donde participen autoridades federales, serán presentadas a la Comisión Ejecutiva quien llevará el registro federal. Párrafo reformado DOF 03-01-2017
 
-Los mexicanos domiciliados en el exterior, podrán presentar la incorporación de datos al [Registro](articulo-6.md) Nacional de [Víctimas](articulo-6.md) ante la Embajada o Consulado del país donde se encuentren. En los países en que no exista representación del Estado mexicano, podrán acudir al país más cercano que cuente con sede diplomática.
+Los mexicanos domiciliados en el exterior, podrán presentar la incorporación de datos al [Registro](articulo-6.md) Nacional de Víctimas ante la Embajada o Consulado del país donde se encuentren. En los países en que no exista representación del Estado mexicano, podrán acudir al país más cercano que cuente con sede diplomática.
 
 La información que acompaña la incorporación de datos al registro se consignará en el formato único de declaración diseñado por la Comisión Ejecutiva y su utilización será obligatoria por parte de las autoridades responsables de garantizar el ingreso al mismo, de conformidad con lo dispuesto en la Ley. El formato único de incorporación al registro deberá ser accesible a toda persona y de uso simplificado y buscará recoger la información necesaria para que la víctima pueda acceder plenamente a todos sus derechos, incluidos los que se le reconocen en la presente Ley.
 

@@ -91,15 +91,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:liispcen:article:5:term-usage:706-716",
-    "provision_id": "urn:lex-mx:federal:statute:liispcen:article:5",
-    "term_id": "urn:lex-mx:federal:statute:liispcen:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 706,
-    "end_char": 716
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:liispcen:article:5:term-usage:750-756",
     "provision_id": "urn:lex-mx:federal:statute:liispcen:article:5",
     "term_id": "urn:lex-mx:federal:statute:liispcen:term:comite",
@@ -262,33 +253,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:liispcen:article:12:term-usage:383-393",
-    "provision_id": "urn:lex-mx:federal:statute:liispcen:article:12",
-    "term_id": "urn:lex-mx:federal:statute:liispcen:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 383,
-    "end_char": 393
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:liispcen:article:12:term-usage:471-481",
-    "provision_id": "urn:lex-mx:federal:statute:liispcen:article:12",
-    "term_id": "urn:lex-mx:federal:statute:liispcen:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 471,
-    "end_char": 481
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:liispcen:article:12:term-usage:567-577",
-    "provision_id": "urn:lex-mx:federal:statute:liispcen:article:12",
-    "term_id": "urn:lex-mx:federal:statute:liispcen:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 567,
-    "end_char": 577
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:liispcen:article:12:term-usage:1327-1333",
     "provision_id": "urn:lex-mx:federal:statute:liispcen:article:12",
     "term_id": "urn:lex-mx:federal:statute:liispcen:term:comite",
@@ -406,15 +370,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:liispcen:article:18:term-usage:309-319",
-    "provision_id": "urn:lex-mx:federal:statute:liispcen:article:18",
-    "term_id": "urn:lex-mx:federal:statute:liispcen:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 309,
-    "end_char": 319
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:liispcen:article:18:term-usage:362-368",
     "provision_id": "urn:lex-mx:federal:statute:liispcen:article:18",
     "term_id": "urn:lex-mx:federal:statute:liispcen:term:comite",
@@ -424,30 +379,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:liispcen:article:18:term-usage:723-733",
-    "provision_id": "urn:lex-mx:federal:statute:liispcen:article:18",
-    "term_id": "urn:lex-mx:federal:statute:liispcen:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 723,
-    "end_char": 733
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:liispcen:article:18:term-usage:919-930",
     "provision_id": "urn:lex-mx:federal:statute:liispcen:article:18",
     "term_id": "urn:lex-mx:federal:statute:liispcen:term:secretaria",
     "span": "Secretarías",
     "start_char": 919,
     "end_char": 930
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:liispcen:article:18:term-usage:1268-1278",
-    "provision_id": "urn:lex-mx:federal:statute:liispcen:article:18",
-    "term_id": "urn:lex-mx:federal:statute:liispcen:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 1268,
-    "end_char": 1278
   },
   {
     "schema_version": "0.1.0",

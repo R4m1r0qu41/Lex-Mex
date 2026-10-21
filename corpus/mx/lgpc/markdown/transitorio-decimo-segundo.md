@@ -15,4 +15,4 @@ source_sha256: d8dd1de3627b899bb4faf31c2812c3d5f14f7108be153d5aa8dd549b9136184a
 
 # Décimo Segundo
 
-Con relación al artículo [31](articulo-31.md) y en lo referente a los recursos necesarios como los inmuebles que le sirvan de sede, infraestructura, personal y demás recursos necesarios para la realización de sus objetivos, la [Secretaría](articulo-2.md) de Gobernación dotará de éstos para que la Coordinación realice sus objetivos y se establezca.
+Con relación al artículo [31](articulo-31.md) y en lo referente a los recursos necesarios como los inmuebles que le sirvan de sede, infraestructura, personal y demás recursos necesarios para la realización de sus objetivos, la Secretaría de Gobernación dotará de éstos para que la Coordinación realice sus objetivos y se establezca.

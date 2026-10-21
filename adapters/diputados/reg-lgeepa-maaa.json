@@ -20,5 +20,85 @@
   },
   "allow_article_gaps": true,
   "formal_publication_urls": {},
-  "parent_instrument_id": "urn:lex-mx:federal:statute:lgeepa"
+  "parent_instrument_id": "urn:lex-mx:federal:statute:lgeepa",
+  "glossary": {
+    "provision_suffix": ":article:2",
+    "style": "auto_whole",
+    "additive_to": [
+      "urn:lex-mx:federal:statute:lgeepa:article:3",
+      "urn:lex-mx:federal:statute:lic-calidad:article:4"
+    ],
+    "usage_exclusions": [
+      {
+        "provision_suffix": ":article:2",
+        "start_char": 131,
+        "text": "Protección",
+        "term_id": "urn:lex-mx:federal:statute:lgeepa:term:proteccion",
+        "reason": "LGEEPA's title, printed jointly with the LFMN as \"las Leyes General del Equilibrio Ecológico y la Protección al Ambiente, y Federal sobre Metrología y Normalización\": the title's words, not the defined term (decided from context, operator 2026-10-20: \"when in doubt use the full exact name\")"
+      },
+      {
+        "provision_suffix": ":article:2",
+        "start_char": 145,
+        "text": "Ambiente",
+        "term_id": "urn:lex-mx:federal:statute:lgeepa:term:ambiente",
+        "reason": "LGEEPA's title, printed jointly with the LFMN as \"las Leyes General del Equilibrio Ecológico y la Protección al Ambiente, y Federal sobre Metrología y Normalización\": the title's words, not the defined term (decided from context, operator 2026-10-20: \"when in doubt use the full exact name\")"
+      },
+      {
+        "provision_suffix": ":article:21",
+        "start_char": 481,
+        "text": "Verificación",
+        "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:verificacion",
+        "reason": "the LIC's Verificación (authorities checking conformity with NOMs) is not this regulation's verification of an audit Plan de Acción by environmental auditors (decided from context, operator 2026-10-20: \"when in doubt use the full exact name\")"
+      },
+      {
+        "provision_suffix": ":article:21",
+        "start_char": 965,
+        "text": "Verificación",
+        "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:verificacion",
+        "reason": "the LIC's Verificación (authorities checking conformity with NOMs) is not this regulation's verification of an audit Plan de Acción by environmental auditors (decided from context, operator 2026-10-20: \"when in doubt use the full exact name\")"
+      },
+      {
+        "provision_suffix": ":article:21",
+        "start_char": 1309,
+        "text": "Verificación",
+        "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:verificacion",
+        "reason": "the LIC's Verificación (authorities checking conformity with NOMs) is not this regulation's verification of an audit Plan de Acción by environmental auditors (decided from context, operator 2026-10-20: \"when in doubt use the full exact name\")"
+      },
+      {
+        "provision_suffix": ":article:22",
+        "start_char": 172,
+        "text": "Verificación",
+        "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:verificacion",
+        "reason": "the LIC's Verificación (authorities checking conformity with NOMs) is not this regulation's verification of an audit Plan de Acción by environmental auditors (decided from context, operator 2026-10-20: \"when in doubt use the full exact name\")"
+      },
+      {
+        "provision_suffix": ":article:22",
+        "start_char": 412,
+        "text": "Verificación",
+        "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:verificacion",
+        "reason": "the LIC's Verificación (authorities checking conformity with NOMs) is not this regulation's verification of an audit Plan de Acción by environmental auditors (decided from context, operator 2026-10-20: \"when in doubt use the full exact name\")"
+      },
+      {
+        "provision_suffix": ":article:36",
+        "start_char": 496,
+        "text": "Verificación",
+        "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:verificacion",
+        "reason": "the LIC's Verificación (authorities checking conformity with NOMs) is not this regulation's verification of an audit Plan de Acción by environmental auditors (decided from context, operator 2026-10-20: \"when in doubt use the full exact name\")"
+      },
+      {
+        "provision_suffix": ":transitory:tercero",
+        "start_char": 219,
+        "text": "Protección",
+        "term_id": "urn:lex-mx:federal:statute:lgeepa:term:proteccion",
+        "reason": "inside the title of the former \"Reglamento de la Ley General del Equilibrio Ecológico y Protección al Ambiente en materia de Auditoría Ambiental\", not the defined term (decided from context, operator 2026-10-20: \"when in doubt use the full exact name\")"
+      },
+      {
+        "provision_suffix": ":transitory:tercero",
+        "start_char": 233,
+        "text": "Ambiente",
+        "term_id": "urn:lex-mx:federal:statute:lgeepa:term:ambiente",
+        "reason": "inside the title of the former \"Reglamento de la Ley General del Equilibrio Ecológico y Protección al Ambiente en materia de Auditoría Ambiental\", not the defined term (decided from context, operator 2026-10-20: \"when in doubt use the full exact name\")"
+      }
+    ]
+  }
 }

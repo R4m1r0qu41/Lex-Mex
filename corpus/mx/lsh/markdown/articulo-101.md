@@ -17,4 +17,4 @@ source_sha256: 1405f36fd836ff74d059ebe7e50ae439cbb9e5e291a317514667f34a26f72a23
 
 # Artículo 101
 
-El Centro Nacional de Control del [Gas Natural](articulo-5.md) no puede privilegiar el uso de su infraestructura o la ampliación de la misma, en calidad de persona [Permisionaria](articulo-5.md), en detrimento de la infraestructura integrada que pertenezca a otras personas Permisionarias. La Secretaría de Energía debe determinar los términos a que se sujete el Centro Nacional de Control del Gas Natural para cumplir con lo previsto en el presente artículo.
+El Centro Nacional de Control del Gas Natural no puede privilegiar el uso de su infraestructura o la ampliación de la misma, en calidad de persona [Permisionaria](articulo-5.md), en detrimento de la infraestructura integrada que pertenezca a otras personas Permisionarias. La Secretaría de Energía debe determinar los términos a que se sujete el Centro Nacional de Control del Gas Natural para cumplir con lo previsto en el presente artículo.

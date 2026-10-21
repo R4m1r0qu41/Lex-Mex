@@ -17,4 +17,4 @@ source_sha256: 02ff746c921b436a1ab6c74e5f1bc429976595b1b0f82cb8c5b50db1004128c1
 
 # Artículo 1o
 
-La presente Ley es de orden público e interés social y tiene por objeto regular el funcionamiento de los sistemas de ahorro para el retiro y sus participantes previstos en esta Ley y en las leyes del Seguro Social, del Instituto del Fondo Nacional de la Vivienda para los [Trabajadores](articulo-3o.md) y del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
+La presente Ley es de orden público e interés social y tiene por objeto regular el funcionamiento de los sistemas de ahorro para el retiro y sus participantes previstos en esta Ley y en las leyes del Seguro Social, del Instituto del Fondo Nacional de la Vivienda para los Trabajadores y del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.

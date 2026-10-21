@@ -39,8 +39,8 @@ VI. Perspectiva de Género. Concepto que se refiere a la metodología y los meca
 
 VII. Transversalidad. Es el proceso que permite garantizar la incorporación de la perspectiva de género con el objetivo de valorar las implicaciones que tiene para las mujeres y los hombres cualquier acción que se programe, tratándose de legislación, políticas públicas, actividades administrativas, económicas y culturales en las instituciones públicas y privadas; Fracción reformada y recorrida DOF 14-11-2013
 
-VIII. Sistema Nacional. Sistema Nacional para la [Igualdad Sustantiva](articulo-5.md) entre Mujeres y Hombres; Fracción reformada y recorrida DOF 14-11-2013. Reformada DOF 15-01-2026
+VIII. Sistema Nacional. Sistema Nacional para la Igualdad Sustantiva entre Mujeres y Hombres; Fracción reformada y recorrida DOF 14-11-2013. Reformada DOF 15-01-2026
 
-IX. Política Nacional. Política Nacional en Materia de Igualdad Sustantiva entre Mujeres y Hombres; Fracción reformada y recorrida DOF 14-11-2013. Reformada DOF 15-01-2026
+IX. Política Nacional. Política Nacional en Materia de [Igualdad Sustantiva](articulo-5.md) entre Mujeres y Hombres; Fracción reformada y recorrida DOF 14-11-2013. Reformada DOF 15-01-2026
 
 X. Programa Nacional. Programa Nacional de Proyectos Estratégicos para la Igualdad Sustantiva entre Mujeres y Hombres. Fracción adicionada DOF 15-01-2026

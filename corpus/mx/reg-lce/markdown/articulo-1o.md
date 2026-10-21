@@ -25,6 +25,6 @@ II. Secretaría, la Secretaría de Economía; Fracción reformada DOF 22-05-2014
 
 III. Comisión, la Comisión de Comercio Exterior, y
 
-IV. Comisión Mixta, la [Comisión](articulo-1o.md) Mixta para la Promoción de las Exportaciones.
+IV. Comisión Mixta, la Comisión Mixta para la Promoción de las Exportaciones.
 
 Cuando este Reglamento se refiera a plazos en días se entenderán días hábiles y cuando se refiera a meses o años se entenderán meses o años calendario.

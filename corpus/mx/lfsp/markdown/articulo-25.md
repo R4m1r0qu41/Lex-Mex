@@ -33,7 +33,7 @@ b). Escritura en la que se contenga el Acta Constitutiva y modificaciones, si la
 
 c) En su caso, poder notarial en el que se acredite la personalidad del solicitante, y Inciso reformado DOF 05-08-2011
 
-d) Copia de la cédula del registro federal de contribuyentes, expedida por la [Secretaría](articulo-2.md) de Hacienda y Crédito Público; Inciso adicionado DOF 05-08-2011
+d) Copia de la cédula del registro federal de contribuyentes, expedida por la Secretaría de Hacienda y Crédito Público; Inciso adicionado DOF 05-08-2011
 
 V. Señalar el domicilio de la matriz y en su caso de las sucursales, precisando el nombre y puesto del encargado en cada una de ellas, además de adjuntar los comprobantes de domicilio correspondientes, y acompañarse de fotografías a color de la fachada de los inmuebles antes referidos las cuales deberán actualizarse cada vez que sufra alguna modificación de cualquier índole; Fracción reformada DOF 05-08-2011
 

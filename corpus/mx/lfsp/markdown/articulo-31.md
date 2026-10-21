@@ -17,4 +17,4 @@ source_sha256: 08a1e07c7b82309ac734f7905b7457f059141336731e7b9047042f5bd84aac69
 
 # Artículo 31
 
-El prestador de servicios deberá registrar ante la [Secretaría](articulo-2.md) del Trabajo y Previsión Social los planes y programas de los cursos de capacitación, actualización o adiestramiento para el personal operativo; posteriormente deberá entregar un ejemplar a la Secretaría para su seguimiento.
+El prestador de servicios deberá registrar ante la Secretaría del Trabajo y Previsión Social los planes y programas de los cursos de capacitación, actualización o adiestramiento para el personal operativo; posteriormente deberá entregar un ejemplar a la [Secretaría](articulo-2.md) para su seguimiento.

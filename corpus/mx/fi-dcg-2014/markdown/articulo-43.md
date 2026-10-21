@@ -10,14 +10,14 @@ generated: true
 temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20los%20fondos%20de%20inversi%C3%B3n%20y%20a%20las%20personas%20que%20les%20prestan%20servicios.pdf
-source_sha256: 30cec2bac3222c89d447b6e8adc7877ea45ece21dfc270ed8c963ea91649b6ee
+source_sha256: 3b21198efc7e52987a773cbcc48772185e6eadc7338673fa39bfb38ba907d07b
 ---
 
 # Artículo 43
 
 El valor de los Activos Objeto de Inversión que resulte conforme al artículo [42](articulo-42.md) anterior, será el que se utilice para la formulación y presentación de los estados financieros y para la determinación del valor contable por acción del fondo de inversión de capitales de que se trate.
 
-Los fondos de inversión de capitales que no tengan el carácter de Emisoras con Valores listados en bolsa, adicionalmente podrán utilizar para fines informativos, aumentos o disminuciones al precio actualizado para valuación de sus acciones que resulte de lo señalado en el artículo [42](articulo-42.md) anterior, considerando las primas o descuentos que resulten de la aplicación consistente de los métodos de valuación que para tal efecto se contemplen en el prospecto de información al público inversionista y que deberá aplicar la sociedad valuadora o el comité de valuación, según corresponda, a efecto de reconocer diferenciales en dicho precio, haciendo constar tal circunstancia de forma expresa mediante documento suscrito por quienes hayan determinado tal diferencial y por la mayoría de los consejeros de la sociedad operadora que administre al fondo de inversión de capitales, con la argumentación necesaria.
+Los fondos de inversión de capitales que no tengan el carácter de [Emisoras](articulo-1.md) con Valores listados en bolsa, adicionalmente podrán utilizar para fines informativos, aumentos o disminuciones al precio actualizado para valuación de sus acciones que resulte de lo señalado en el artículo [42](articulo-42.md) anterior, considerando las primas o descuentos que resulten de la aplicación consistente de los métodos de valuación que para tal efecto se contemplen en el prospecto de información al público inversionista y que deberá aplicar la sociedad valuadora o el comité de valuación, según corresponda, a efecto de reconocer diferenciales en dicho precio, haciendo constar tal circunstancia de forma expresa mediante documento suscrito por quienes hayan determinado tal diferencial y por la mayoría de los consejeros de la sociedad operadora que administre al fondo de inversión de capitales, con la argumentación necesaria.
 
 El citado documento deberá remitirse, conjuntamente con los estados financieros del fondo, a la Comisión en los términos y plazos establecidos en las presentes disposiciones. Asimismo, los fondos de inversión de capitales que no tengan el carácter de Emisoras con Valores listados en bolsa y pretendan reconocer diferenciales en el precio de sus acciones, deberán señalarlo en los prospectos de información al público inversionista y revelarlo en las notas de sus estados financieros.
 

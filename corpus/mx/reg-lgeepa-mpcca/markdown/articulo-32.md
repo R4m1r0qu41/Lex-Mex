@@ -17,4 +17,4 @@ source_sha256: cf47ab93fdea40d2b3e41b58784df62f89dd90b4482dd3b7f25adc7f6957036b
 
 # Artículo 32
 
-Para efecto de lo dispuesto en el [artículo anterior](articulo-31.md), los propietarios de los vehículos destinados al transporte público federal terrestre, deberán someter a verificación sus vehículos en el período y en el centro de verificación que corresponda, conforme al programa que formule la [Secretaría](articulo-6o.md) de Comunicaciones y Transportes. Asimismo deberán cubrir los productos que por este concepto establezca la legislación aplicable.
+Para efecto de lo dispuesto en el [artículo anterior](articulo-31.md), los propietarios de los vehículos destinados al transporte público federal terrestre, deberán someter a verificación sus vehículos en el período y en el centro de verificación que corresponda, conforme al programa que formule la Secretaría de Comunicaciones y Transportes. Asimismo deberán cubrir los productos que por este concepto establezca la legislación aplicable.

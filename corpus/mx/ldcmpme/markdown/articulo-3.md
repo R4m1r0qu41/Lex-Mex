@@ -49,11 +49,11 @@ XII. Programas: Esquemas para la ejecución de acciones y participación de la F
 
 XIII. Actividades de Fomento: Acciones económicas, jurídicas, sociales, comerciales, de [Capacitación](articulo-3.md) o tecnológicas, que contribuyen al desarrollo y competitividad de las MIPYMES, que establezca el [Reglamento](articulo-3.md) de esta Ley;
 
-XIV. Sistema: El Sistema Nacional para el Desarrollo de la [Competitividad](articulo-3.md) de la Micro, Pequeña y Mediana Empresa;
+XIV. Sistema: El Sistema Nacional para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa;
 
 XV. Consejo: El Consejo Nacional para la Competitividad de la Micro, Pequeña y Mediana Empresa;
 
-XVI. Consejo Estatal: El [Consejo](articulo-3.md) que en cada Entidad Federativa se establezca para la Competitividad de la Micro, Pequeña y Mediana Empresa, y Fracción reformada DOF 01-12-2016, 19-05-2017
+XVI. Consejo Estatal: El [Consejo](articulo-3.md) que en cada Entidad Federativa se establezca para la [Competitividad](articulo-3.md) de la Micro, Pequeña y Mediana Empresa, y Fracción reformada DOF 01-12-2016, 19-05-2017
 
 XVII. Reglamento: El Reglamento de esta Ley, y Fracción reformada DOF 01-12-2016
 

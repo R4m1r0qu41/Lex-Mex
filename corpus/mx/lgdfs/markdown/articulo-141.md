@@ -37,4 +37,4 @@ A fin de lograr la integralidad del desarrollo forestal, en la ampliación y mod
 
 El desarrollo de la infraestructura se sujetará a las disposiciones previstas en esta Ley y demás disposiciones aplicables.
 
-La [Secretaría](articulo-7.md) de Hacienda y Crédito Público podrá proponer incentivos fiscales para aquellos que inviertan en infraestructura a que se refieren las fracciones III, IV y V del presente artículo.
+La Secretaría de Hacienda y Crédito Público podrá proponer incentivos fiscales para aquellos que inviertan en infraestructura a que se refieren las fracciones III, IV y V del presente artículo.

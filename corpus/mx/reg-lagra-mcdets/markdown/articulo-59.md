@@ -17,4 +17,4 @@ source_sha256: 70dc1863cee2a88911e43cefb51d1c2007e550a2a46f9e11d5569c1525667cfd
 
 # Artículo 59
 
-Será responsabilidad de la [Secretaría](articulo-2º.md) de Desarrollo Social, solicitar la inscripción en el [Registro](articulo-2º.md) de las declaratorias materia de su competencia.
+Será responsabilidad de la Secretaría de Desarrollo Social, solicitar la inscripción en el [Registro](articulo-2º.md) de las declaratorias materia de su competencia.

@@ -14,8 +14,10 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/256.pdf
 source_sha256: 1764c89edb8173050fe6bc08f57826ea93a131c7c83f4fc8c15f74de03fb07c3
 ---
 
+> Título IV
+
 # Artículo 16
 
 (Se deroga el primer párrafo). Párrafo derogado DOF 15-06-2007
 
-La comisión que se establezca por pago anticipado en la Subrogación de Acreedor en los Créditos Garantizados a tasa variable, no podrá ser superior al uno por ciento del monto remanente del crédito que falte por amortizar.
+La comisión que se establezca por pago anticipado en la [Subrogación de Acreedor](articulo-3.md) en los [Créditos Garantizados](articulo-3.md) a tasa variable, no podrá ser superior al uno por ciento del monto remanente del crédito que falte por amortizar.

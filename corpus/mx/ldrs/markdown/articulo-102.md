@@ -17,7 +17,7 @@ source_sha256: 30f884c4cd22148b89f3fc21ff0be69be7571d51c146cefa7da2cac06b421f21
 
 # Artículo 102
 
-El [Servicio](articulo-3o.md) Nacional de Inspección y Certificación de Semillas tendrá los siguientes objetivos:
+El Servicio Nacional de Inspección y Certificación de Semillas tendrá los siguientes objetivos:
 
 I. Establecer y en su caso proponer, conjuntamente con las demás dependencias e instituciones vinculadas, políticas, acciones y acuerdos internacionales sobre conservación, acceso, uso y manejo integral de los recursos fitogenéticos, derechos de protección de los obtentores y análisis de calidad de semillas;
 

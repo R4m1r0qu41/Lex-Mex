@@ -17,4 +17,4 @@ source_sha256: 694325ff5d428da51b8f87c5939c58b1e2e8590bd86f13ade6cd284c932cdfc3
 
 # Artículo 14
 
-Se crea el [Consejo Consultivo](articulo-3.md) de Juegos y [Sorteos](articulo-3.md) con objeto de coadyuvar con la [Dirección](articulo-3.md) en el cumplimiento de las políticas públicas de transparencia y rendición de cuentas conforme a la [Ley](articulo-3.md) y este Reglamento.
+Se crea el [Consejo Consultivo](articulo-3.md) de Juegos y Sorteos con objeto de coadyuvar con la [Dirección](articulo-3.md) en el cumplimiento de las políticas públicas de transparencia y rendición de cuentas conforme a la [Ley](articulo-3.md) y este Reglamento.

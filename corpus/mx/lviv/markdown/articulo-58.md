@@ -17,4 +17,4 @@ source_sha256: f6af373e0f5b95596b4e54f4ccd2e0270fcc85bd4f05fb43da775de2f53c9ff7
 
 # Artículo 58
 
-Las instituciones de banca de desarrollo vinculadas con el sector de vivienda, deberán diseñar e instrumentar mecanismos que fomenten la concurrencia de diversas fuentes de financiamiento para generar oportunidades que faciliten a la población en situación de pobreza, el acceso a una vivienda, de conformidad con las disposiciones aplicables y las reglas que al efecto expida la [Secretaría](articulo-4.md) de Hacienda y Crédito Público.
+Las instituciones de banca de desarrollo vinculadas con el sector de vivienda, deberán diseñar e instrumentar mecanismos que fomenten la concurrencia de diversas fuentes de financiamiento para generar oportunidades que faciliten a la población en situación de pobreza, el acceso a una vivienda, de conformidad con las disposiciones aplicables y las reglas que al efecto expida la Secretaría de Hacienda y Crédito Público.

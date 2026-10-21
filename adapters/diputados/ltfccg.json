@@ -18,5 +18,27 @@
     "proposed_at": "2026-08-02T07:39:25Z"
   },
   "allow_article_gaps": true,
-  "formal_publication_urls": {}
+  "formal_publication_urls": {},
+  "glossary": {
+    "provision_suffix": ":article:3",
+    "style": "auto_whole",
+    "profile": {
+      "strategy_version": "glossary-extraction-6",
+      "provision_text_sha256": "7b0c6ce9443d4781e676d86cc6f576b26e84dfa6800a4ebeb7cd7e22f14090f5",
+      "rationale": "Fraction IX writes its term before \"es\" (\"Valuador profesional es la persona que…\") where every other fraction uses a period. Operator 2026-10-20: \"valudor profesionale es is s definition. read IX a one-off profile\".",
+      "evidence": "docs/decisions.md (2026-10-20, institution names, LGEEPA imports and ltfccg IX)",
+      "entries": [
+        {
+          "fraction": "IX",
+          "disposition": "definition",
+          "terms": [
+            {
+              "text": "Valuador profesional",
+              "start_char": 1721
+            }
+          ]
+        }
+      ]
+    }
+  }
 }

@@ -21,9 +21,9 @@ Para efectos de esta [Ley](articulo-2.md) se entenderá, por:
 
 I. Junta: La Junta de Gobierno y Administración;
 
-II. Ley: La Ley Orgánica del Tribunal Federal de Justicia Administrativa;
+II. Ley: La Ley Orgánica del [Tribunal](articulo-2.md) Federal de Justicia Administrativa;
 
-III. Presidente del Tribunal: El Presidente del [Tribunal](articulo-2.md) Federal de Justicia Administrativa, y
+III. Presidente del Tribunal: El Presidente del Tribunal Federal de Justicia Administrativa, y
 
 IV. Tribunal: El Tribunal Federal de Justicia Administrativa.
 

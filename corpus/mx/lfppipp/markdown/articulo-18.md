@@ -33,7 +33,7 @@ II. Vigilancia.
 
 III. Modo y mecanismos para el traslado de las personas protegidas a distintos lugares, asegurando en todo momento el resguardo de las mismas.
 
-IV. Custodia policial, personal móvil y/o domiciliaria a las personas protegidas, que estará a cargo de los elementos de la [Unidad](articulo-2.md); salvo en los supuestos de urgencia establecidos en el artículo [21](articulo-21.md) de la presente [Ley](articulo-2.md), en los cuales el Ministerio Público podrá solicitar el apoyo de sus auxiliares en términos de la Ley de la Fiscalía General de la República y demás disposiciones aplicables. Fracción reformada DOF 20-05-2021
+IV. Custodia policial, personal móvil y/o domiciliaria a las personas protegidas, que estará a cargo de los elementos de la [Unidad](articulo-2.md); salvo en los supuestos de urgencia establecidos en el artículo [21](articulo-21.md) de la presente [Ley](articulo-2.md), en los cuales el Ministerio Público podrá solicitar el apoyo de sus auxiliares en términos de la Ley de la [Fiscalía General](articulo-2.md) de la República y demás disposiciones aplicables. Fracción reformada DOF 20-05-2021
 
 V. Suministrar a la persona alojamiento temporal o los medios económicos para transporte, alimentos, comunicación, atención sanitaria, mudanza, reinserción laboral, trámites personales y aquellos que requiera para cumplir con sus obligaciones, sistemas de seguridad, acondicionamiento de vivienda y demás gastos indispensables, dentro o fuera del país, mientras la [Persona Protegida](articulo-2.md) se halle imposibilitada de obtenerlos por sus propios medios.
 

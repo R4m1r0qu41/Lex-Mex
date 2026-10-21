@@ -17,4 +17,4 @@ source_sha256: 30f884c4cd22148b89f3fc21ff0be69be7571d51c146cefa7da2cac06b421f21
 
 # Artículo 101
 
-El [Servicio](articulo-3o.md) Nacional de Inspección y Certificación de Semillas será la instancia coordinadora de las actividades para la participación de los diversos sectores de la producción, certificación y comercio de semillas y estará a cargo de la [Secretaría](articulo-3o.md).
+El Servicio Nacional de Inspección y Certificación de Semillas será la instancia coordinadora de las actividades para la participación de los diversos sectores de la producción, certificación y comercio de semillas y estará a cargo de la [Secretaría](articulo-3o.md).

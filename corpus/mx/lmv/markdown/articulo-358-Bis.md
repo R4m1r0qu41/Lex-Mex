@@ -17,7 +17,7 @@ source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 
 # Artículo 358 Bis
 
-La [Comisión](articulo-2.md), a solicitud de las autoridades citadas en el artículo [358](articulo-358.md) anterior y con base en el principio de reciprocidad, podrá realizar visitas de inspección a las emisoras que tengan valores inscritos en el [Registro](articulo-2.md) Nacional de [Valores](articulo-2.md) en lo relativo a sus obligaciones como emisora o a las filiales de las entidades. A discreción de la misma, las visitas podrán hacerse por su conducto o bien, en cooperación con la autoridad financiera del exterior de que se trate, podrá permitir que esta última la realice.
+La [Comisión](articulo-2.md), a solicitud de las autoridades citadas en el artículo [358](articulo-358.md) anterior y con base en el principio de reciprocidad, podrá realizar visitas de inspección a las emisoras que tengan valores inscritos en el [Registro](articulo-2.md) Nacional de Valores en lo relativo a sus obligaciones como emisora o a las filiales de las entidades. A discreción de la misma, las visitas podrán hacerse por su conducto o bien, en cooperación con la autoridad financiera del exterior de que se trate, podrá permitir que esta última la realice.
 
 La solicitud a que hace mención el párrafo anterior deberá hacerse por escrito, cuando menos con treinta días naturales de anticipación y acompañarse de lo siguiente:
 

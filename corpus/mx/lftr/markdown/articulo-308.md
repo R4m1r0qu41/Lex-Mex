@@ -20,7 +20,7 @@ source_sha256: a15012b33a415083f7714764c86fda8ed0078d3f5313dfc194c503f98a573a2a
 
 # Artículo 308
 
-Las infracciones a lo dispuesto en esta [Ley](articulo-3.md) y a las disposiciones que deriven de ella en materia de contenidos audiovisuales, se sancionarán por la [Secretaría](articulo-3.md) de Gobernación, de conformidad con lo siguiente:
+Las infracciones a lo dispuesto en esta [Ley](articulo-3.md) y a las disposiciones que deriven de ella en materia de contenidos audiovisuales, se sancionarán por la Secretaría de Gobernación, de conformidad con lo siguiente:
 
 A) Con apercibimiento por una sola vez o multa por el equivalente de 0.01% hasta el 0.75% de los ingresos del concesionario, autorizado o programador, por presentar de manera extemporánea avisos, reportes, documentos o información.
 

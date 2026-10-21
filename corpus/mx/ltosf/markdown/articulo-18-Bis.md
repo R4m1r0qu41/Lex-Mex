@@ -23,7 +23,7 @@ I. En los citados formularios conste que fue hecho del conocimiento del Cliente 
 
 II. En los respectivos formularios se señalen los datos de inscripción del [Contrato de Adhesión](articulo-3.md) en el registro a que se refiere el quinto párrafo del artículo 11 de la Ley.
 
-Tanto para la contratación como en caso de alguna controversia respecto de créditos, préstamos o financiamientos revolventes, se entenderá que el contrato de adhesión válido en la operación de que se trate, es el registrado ante la [Comisión](articulo-3.md) Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros. Párrafo reformado DOF 09-03-2018
+Tanto para la contratación como en caso de alguna controversia respecto de créditos, préstamos o financiamientos revolventes, se entenderá que el contrato de adhesión válido en la operación de que se trate, es el registrado ante la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros. Párrafo reformado DOF 09-03-2018
 
 III. Se envíe el respectivo Contrato de Adhesión y su carátula adjunto con el [Medio de Disposición](articulo-3.md) o de identificación, tratándose de aperturas de crédito en cuenta corriente o créditos personales de liquidez sin garantía real, o se mantengan a disposición de sus Clientes modelos de contratos relativos a las operaciones en sus oficinas, sucursales e Internet, cuando así se pacte con dichos Clientes.
 

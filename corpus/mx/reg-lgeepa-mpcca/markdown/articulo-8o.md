@@ -17,7 +17,7 @@ source_sha256: cf47ab93fdea40d2b3e41b58784df62f89dd90b4482dd3b7f25adc7f6957036b
 
 # Artículo 8o
 
-Sin perjuicio de lo que establezcan otras disposiciones legales aplicables, compete a la [Secretaría](articulo-6o.md) de Comunicaciones y Transportes:
+Sin perjuicio de lo que establezcan otras disposiciones legales aplicables, compete a la Secretaría de Comunicaciones y Transportes:
 
 I.- Autorizar el establecimiento de centros de verificación obligatoria de los vehículos del transporte público federal;
 

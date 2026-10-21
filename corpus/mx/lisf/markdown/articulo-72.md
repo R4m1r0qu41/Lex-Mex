@@ -49,7 +49,7 @@ XI. Tratándose de las instituciones nacionales de seguros o instituciones nacio
 
 a) El comité de auditoría estará integrado por cuando menos tres miembros, de los cuales al menos uno deberá ser consejero independiente, quien lo presidirá;
 
-b) Los miembros del comité de auditoría serán designados por el consejo de administración, a propuesta de su presidente y previa opinión de la [Secretaría](articulo-2.md) de la Función Pública, debiendo cumplir con los requisitos señalados en el presente artículo;
+b) Los miembros del comité de auditoría serán designados por el consejo de administración, a propuesta de su presidente y previa opinión de la Secretaría de la Función Pública, debiendo cumplir con los requisitos señalados en el presente artículo;
 
 c) El consejo de administración podrá designar suplentes de los miembros propietarios del comité de auditoría. El presidente del comité de auditoría, en sus ausencias, podrá ser suplido por cualquiera de los integrantes propietarios o suplentes del comité, siempre que se reúnan los requisitos de independencia señalados en este artículo;
 

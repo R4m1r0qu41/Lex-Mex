@@ -46,33 +46,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:3:term-usage:370-380",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:3",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 370,
-    "end_char": 380
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:3:term-usage:474-484",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:3",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 474,
-    "end_char": 484
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:3:term-usage:524-533",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:3",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:instituto",
-    "span": "Instituto",
-    "start_char": 524,
-    "end_char": 533
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:3:term-usage:711-714",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:ley",
@@ -106,15 +79,6 @@
     "span": "Secretaría",
     "start_char": 306,
     "end_char": 316
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:4:term-usage:325-335",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:4",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 325,
-    "end_char": 335
   },
   {
     "schema_version": "0.1.0",
@@ -952,15 +916,6 @@
     "span": "FIDECINE",
     "start_char": 307,
     "end_char": 315
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:56:term-usage:444-454",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:56",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 444,
-    "end_char": 454
   },
   {
     "schema_version": "0.1.0",

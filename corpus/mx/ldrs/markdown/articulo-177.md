@@ -17,4 +17,4 @@ source_sha256: 30f884c4cd22148b89f3fc21ff0be69be7571d51c146cefa7da2cac06b421f21
 
 # Artículo 177
 
-Los contratos para los efectos del cuidado y la protección de la naturaleza, en los términos de la Ley General del Equilibrio Ecológico y la Protección al Ambiente y Ley General de Vida Silvestre requerirán autorización de la [Secretaría](articulo-3o.md) de Medio Ambiente y [Recursos Naturales](articulo-3o.md) para tener validez legal.
+Los contratos para los efectos del cuidado y la protección de la naturaleza, en los términos de la Ley General del Equilibrio Ecológico y la Protección al Ambiente y Ley General de Vida Silvestre requerirán autorización de la Secretaría de Medio Ambiente y Recursos Naturales para tener validez legal.

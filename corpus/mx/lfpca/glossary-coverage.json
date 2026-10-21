@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-5",
+  "strategy_version": "glossary-extraction-6",
   "instrument_id": "urn:lex-mx:federal:statute:lfpca",
   "source_sha256": "d2a25adcb45f622bbbf2a4e58f1139fb5236961fe86de3dd9ad9de2dfa21d54e",
   "extracted_text_sha256": "5322ae33a465ff3cf68d81215a374f5fdb0a4e5d60b56866fbfa13cb01c7c1e9",
@@ -35,5 +35,5 @@
   ],
   "imports": [],
   "term_count": 17,
-  "usage_count": 202
+  "usage_count": 199
 }

@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-5",
+  "strategy_version": "glossary-extraction-6",
   "instrument_id": "urn:lex-mx:federal:statute:lfprh",
   "source_sha256": "ce45c7c0c4e9099691e6e24bd2456d0b6f71f91ab27eedd5c4f2190b66d47741",
   "extracted_text_sha256": "1a3a27512fa2f67f21db88822b041331b461dc96eda4bf7f1f1c57a104d4ca85",
@@ -84,5 +84,5 @@
   ],
   "imports": [],
   "term_count": 66,
-  "usage_count": 538
+  "usage_count": 534
 }

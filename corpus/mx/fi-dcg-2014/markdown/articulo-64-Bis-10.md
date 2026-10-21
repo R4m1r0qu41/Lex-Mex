@@ -11,12 +11,12 @@ temporal_status: unknown
 review_status: not_analyzed
 amendment_marks: [5,18]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20los%20fondos%20de%20inversi%C3%B3n%20y%20a%20las%20personas%20que%20les%20prestan%20servicios.pdf
-source_sha256: 30cec2bac3222c89d447b6e8adc7877ea45ece21dfc270ed8c963ea91649b6ee
+source_sha256: 3b21198efc7e52987a773cbcc48772185e6eadc7338673fa39bfb38ba907d07b
 ---
 
 # Artículo 64 Bis 10
 
-Las sociedades que administran mecanismos electrónicos de negociación de acciones de fondos de inversión o de divulgación de información de fondos de inversión, podrán contratar con terceros la prestación de servicios relacionados con algún proceso operativo o tecnológico que contemple la transmisión, almacenamiento, procesamiento, resguardo y custodia de la información, o con la administración de bases de datos. Cuando se trate de la contratación de servicios que prestan de conformidad con la Ley y las presentes disposiciones, estarán sujetos a las previsiones que se señalan en este artículo y en el 64 Bis 11 siguiente.
+Las sociedades que administran mecanismos electrónicos de negociación de acciones de fondos de inversión o de divulgación de información de fondos de inversión, podrán contratar con terceros la prestación de servicios relacionados con algún proceso operativo o tecnológico que contemple la transmisión, almacenamiento, procesamiento, resguardo y custodia de la información, o con la administración de bases de datos. Cuando se trate de la contratación de servicios que prestan de conformidad con la [Ley](articulo-1.md) y las presentes disposiciones, estarán sujetos a las previsiones que se señalan en este artículo y en el 64 Bis 11 siguiente.
 
 Para efectos de lo anterior, la sociedad de que se trate deberá obtener previamente autorización de la Comisión y cumplir con los requisitos siguientes:
 

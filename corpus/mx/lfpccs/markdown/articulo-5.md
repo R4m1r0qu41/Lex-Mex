@@ -23,7 +23,7 @@ I. Otorgar la inscripción a personas físicas o morales como mantenedores, prev
 
 II. Calificar las semillas y aprobar a los organismos de certificación para la calificación de semillas, de conformidad con lo establecido en esta Ley;
 
-III. Coordinar y promover el [Sistema](articulo-3.md) Nacional de [Semillas](articulo-3.md) y operar el Fondo de Apoyos e Incentivos al Sistema Nacional de Semillas;
+III. Coordinar y promover el [Sistema](articulo-3.md) Nacional de Semillas y operar el Fondo de Apoyos e Incentivos al Sistema Nacional de Semillas;
 
 IV. Participar en términos de la Ley Federal sobre Metrología y Normalización en la elaboración de anteproyectos de [Normas Oficiales Mexicanas](articulo-3.md) y propuestas de proyectos de [Normas Mexicanas](articulo-3.md), así como en la elaboración de [Guías](articulo-3.md), [Reglas](articulo-3.md) y demás instrumentos para la aplicación de esta Ley;
 
@@ -33,7 +33,7 @@ VI. Expedir los Certificados de Origen para la exportación de semillas y contro
 
 VII. Fomentar, promover, organizar, coordinar y atender las actividades relativas a la producción, calificación, certificación, conservación, análisis y comercio de semillas;
 
-VIII. Integrar el Directorio de Productores, Obtentores y Comercializadores de Semillas;
+VIII. Integrar el Directorio de Productores, Obtentores y Comercializadores de [Semillas](articulo-3.md);
 
 IX. Integrar, actualizar y publicar anualmente el [Catálogo Nacional de Variedades Vegetales](articulo-3.md) y el [Catálogo de Mantenedores](articulo-3.md);
 

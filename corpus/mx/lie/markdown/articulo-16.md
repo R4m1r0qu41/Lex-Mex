@@ -19,7 +19,7 @@ source_sha256: 14cd17e37e96e766c8ab74950c71186d579c0ba6cc10ac9e8b06f6194af7d953
 
 El procedimiento referido en el [artículo anterior](articulo-15.md), se aplicará para sociedades constituidas que cambien su denominación o razón social. Párrafo reformado DOF 15-12-2011
 
-Las sociedades que modifiquen su cláusula de exclusión de extranjeros por la de admisión, deberán notificarlo a la [Secretaría](articulo-2o.md) de Relaciones Exteriores, dentro de los treinta días hábiles siguientes a dicha modificación.
+Las sociedades que modifiquen su cláusula de exclusión de extranjeros por la de admisión, deberán notificarlo a la Secretaría de Relaciones Exteriores, dentro de los treinta días hábiles siguientes a dicha modificación.
 
 Si estas sociedades son propietarias de bienes inmuebles ubicados en la zona restringida destinados a fines no residenciales, deberán dar el aviso a que se refiere la fracción I del artículo [10](articulo-10.md) de esta Ley, dentro del plazo previsto en el párrafo anterior.
 

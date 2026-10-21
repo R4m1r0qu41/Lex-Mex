@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-5",
+  "strategy_version": "glossary-extraction-6",
   "instrument_id": "urn:lex-mx:federal:statute:lcjpjf",
   "source_sha256": "1307711de5651aa4df9452c8ea4a2e519ab6725b85c014a2e1844a9f8e823f4f",
   "extracted_text_sha256": "cd68b4335a5007accdb6013ea0fe22668fefdd185769c44504bbbf1735c6fb63",
@@ -35,5 +35,5 @@
   ],
   "imports": [],
   "term_count": 17,
-  "usage_count": 249
+  "usage_count": 248
 }

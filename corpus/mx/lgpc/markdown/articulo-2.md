@@ -31,9 +31,9 @@ VI. Brigada: Grupo de personas que se organizan dentro de un inmueble, capacitad
 
 VII. Cambio Climático: Cambio en el clima, atribuible directa o indirectamente a la actividad humana, que altera la composición de la atmósfera mundial y que se suma a la variabilidad climática natural observada durante períodos comparables;
 
-VIII. Centro Nacional: El Centro Nacional de [Prevención](articulo-2.md) de [Desastres](articulo-2.md);
+VIII. Centro Nacional: El Centro Nacional de Prevención de Desastres;
 
-IX. Comité Nacional: Al Comité Nacional de [Emergencias](articulo-2.md) y Desastres de [Protección Civil](articulo-2.md);
+IX. Comité Nacional: Al Comité Nacional de [Emergencias](articulo-2.md) y [Desastres](articulo-2.md) de [Protección Civil](articulo-2.md);
 
 X. Consejo Consultivo: Al Consejo Consultivo Permanente de Protección Civil, como órgano asesor del [Consejo Nacional](articulo-2.md);
 

@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-5",
+  "strategy_version": "glossary-extraction-6",
   "instrument_id": "urn:lex-mx:federal:statute:liispcen",
   "source_sha256": "1b8883c465f17c991ae5faeffeedffc8fee4b0b5bd7c2d2f080264fee2b3805c",
   "extracted_text_sha256": "a6a897399264ec2730fd86773e4b04b7957de41a7332d6df529a7ccf2f08b6aa",
@@ -33,5 +33,5 @@
   ],
   "imports": [],
   "term_count": 15,
-  "usage_count": 67
+  "usage_count": 60
 }

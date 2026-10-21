@@ -17,7 +17,7 @@ source_sha256: 160e5e85efddb1749a79f6b154af31711a9b31a5e32bace3c07e2859c2620ecf
 
 # Artículo 10
 
-De acuerdo con lo previsto en la Ley Orgánica de la Administración Pública Federal, la [Secretaría](articulo-4o.md) de Marina, para el cumplimiento de los objetivos previstos en la presente Ley, en coordinación con la Secretaría, llevará a cabo:
+De acuerdo con lo previsto en la Ley Orgánica de la Administración Pública Federal, la Secretaría de Marina, para el cumplimiento de los objetivos previstos en la presente Ley, en coordinación con la [Secretaría](articulo-4o.md), llevará a cabo:
 
 I. La vigilancia en las zonas marinas mexicanas y realizar las inspecciones que se requieran para verificar el cumplimiento de las disposiciones en materia de pesca, de conformidad con la legislación nacional, así como con los Tratados Internacionales vigentes en los que México sea parte;
 

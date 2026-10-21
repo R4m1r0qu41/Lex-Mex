@@ -17,7 +17,7 @@ source_sha256: 79f2b255a142d1756d7e8c13244af6dc8c4f2f474acaf0d669f2b156b022fc03
 
 # Artículo 7
 
-[Sistema Nacional](articulo-3.md) de [Movilidad](articulo-3.md) y Seguridad Vial. El Sistema Nacional de Movilidad y Seguridad Vial será el mecanismo de coordinación entre las autoridades competentes en materia de movilidad y seguridad vial, de los tres órdenes de gobierno, así como con los sectores de la sociedad en la materia, a fin de cumplir el objeto, los objetivos y principios de esta [Ley](articulo-3.md), la política, el Plan Nacional de Desarrollo, la Estrategia Nacional y los instrumentos de planeación específicos.
+[Sistema Nacional](articulo-3.md) de Movilidad y Seguridad Vial. El Sistema Nacional de Movilidad y Seguridad Vial será el mecanismo de coordinación entre las autoridades competentes en materia de movilidad y seguridad vial, de los tres órdenes de gobierno, así como con los sectores de la sociedad en la materia, a fin de cumplir el objeto, los objetivos y principios de esta [Ley](articulo-3.md), la política, el Plan Nacional de Desarrollo, la Estrategia Nacional y los instrumentos de planeación específicos.
 
 A. El Sistema Nacional estará integrado por las personas titulares o representantes legales de:
 

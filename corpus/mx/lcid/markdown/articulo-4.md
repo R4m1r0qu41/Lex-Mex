@@ -19,7 +19,7 @@ source_sha256: 1a64991c466c40c7ed0f3d7bffa1b5d5b87dc9df8aa59a97b525a99f98b381a6
 
 Para los efectos de esta Ley se entenderá por:
 
-I. AMEXCID: La Agencia Mexicana de [Cooperación Internacional](articulo-4.md) para el Desarrollo.
+I. AMEXCID: La Agencia Mexicana de Cooperación Internacional para el Desarrollo.
 
 II. Cooperación Horizontal: La cooperación para el desarrollo económico y social en la que los recursos del oferente son complementados con recursos de contraparte aportados por el receptor.
 
@@ -39,7 +39,7 @@ IX. Demanda de Cooperación: Las acciones de cooperación internacional que Méx
 
 X. Director Ejecutivo: El Director Ejecutivo de la AMEXCID. XI. Oferta de Cooperación: Las acciones de cooperación internacional que las instituciones mexicanas pueden realizar en apoyo de terceros países, en las modalidades de cooperación vertical, horizontal y triangular.
 
-XII. Programa: Programa de Cooperación Internacional para el Desarrollo.
+XII. Programa: Programa de [Cooperación Internacional](articulo-4.md) para el Desarrollo.
 
 XIII. Registro Nacional: Registro nacional de instituciones y expertos participantes y de acciones de cooperación internacional.
 

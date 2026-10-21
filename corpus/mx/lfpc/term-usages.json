@@ -1,15 +1,6 @@
 [
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpc:article:2:term-usage:1469-1479",
-    "provision_id": "urn:lex-mx:federal:statute:lfpc:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lfpc:term:consumidor",
-    "span": "Consumidor",
-    "start_char": 1469,
-    "end_char": 1479
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfpc:article:3:term-usage:116-126",
     "provision_id": "urn:lex-mx:federal:statute:lfpc:article:3",
     "term_id": "urn:lex-mx:federal:statute:lfpc:term:secretaria",
@@ -25,15 +16,6 @@
     "span": "Procuraduría",
     "start_char": 206,
     "end_char": 218
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpc:article:5:term-usage:683-693",
-    "provision_id": "urn:lex-mx:federal:statute:lfpc:article:5",
-    "term_id": "urn:lex-mx:federal:statute:lfpc:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 683,
-    "end_char": 693
   },
   {
     "schema_version": "0.1.0",
@@ -169,15 +151,6 @@
     "span": "Procuraduría",
     "start_char": 3,
     "end_char": 15
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpc:article:20:term-usage:28-38",
-    "provision_id": "urn:lex-mx:federal:statute:lfpc:article:20",
-    "term_id": "urn:lex-mx:federal:statute:lfpc:term:consumidor",
-    "span": "Consumidor",
-    "start_char": 28,
-    "end_char": 38
   },
   {
     "schema_version": "0.1.0",
@@ -568,15 +541,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpc:article:63:term-usage:3103-3113",
-    "provision_id": "urn:lex-mx:federal:statute:lfpc:article:63",
-    "term_id": "urn:lex-mx:federal:statute:lfpc:term:consumidor",
-    "span": "Consumidor",
-    "start_char": 3103,
-    "end_char": 3113
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfpc:article:63-ter:term-usage:577-589",
     "provision_id": "urn:lex-mx:federal:statute:lfpc:article:63-ter",
     "term_id": "urn:lex-mx:federal:statute:lfpc:term:procuraduria",
@@ -718,15 +682,6 @@
     "span": "Procuraduría",
     "start_char": 784,
     "end_char": 796
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpc:article:65:term-usage:809-819",
-    "provision_id": "urn:lex-mx:federal:statute:lfpc:article:65",
-    "term_id": "urn:lex-mx:federal:statute:lfpc:term:consumidor",
-    "span": "Consumidor",
-    "start_char": 809,
-    "end_char": 819
   },
   {
     "schema_version": "0.1.0",
@@ -952,15 +907,6 @@
     "span": "Procuraduría",
     "start_char": 80,
     "end_char": 92
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpc:article:86-quater:term-usage:105-115",
-    "provision_id": "urn:lex-mx:federal:statute:lfpc:article:86-quater",
-    "term_id": "urn:lex-mx:federal:statute:lfpc:term:consumidor",
-    "span": "Consumidor",
-    "start_char": 105,
-    "end_char": 115
   },
   {
     "schema_version": "0.1.0",
@@ -1585,15 +1531,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpc:article:128-ter:term-usage:1799-1809",
-    "provision_id": "urn:lex-mx:federal:statute:lfpc:article:128-ter",
-    "term_id": "urn:lex-mx:federal:statute:lfpc:term:consumidor",
-    "span": "Consumidor",
-    "start_char": 1799,
-    "end_char": 1809
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfpc:article:128-ter:term-usage:2021-2033",
     "provision_id": "urn:lex-mx:federal:statute:lfpc:article:128-ter",
     "term_id": "urn:lex-mx:federal:statute:lfpc:term:procuraduria",
@@ -1729,15 +1666,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpc:transitory:tercero:term-usage:145-155",
-    "provision_id": "urn:lex-mx:federal:statute:lfpc:transitory:tercero",
-    "term_id": "urn:lex-mx:federal:statute:lfpc:term:consumidor",
-    "span": "Consumidor",
-    "start_char": 145,
-    "end_char": 155
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfpc:transitory:cuarto:term-usage:41-51",
     "provision_id": "urn:lex-mx:federal:statute:lfpc:transitory:cuarto",
     "term_id": "urn:lex-mx:federal:statute:lfpc:term:consumidor",
@@ -1753,14 +1681,5 @@
     "span": "Procuraduría",
     "start_char": 165,
     "end_char": 177
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpc:transitory:cuarto:term-usage:190-200",
-    "provision_id": "urn:lex-mx:federal:statute:lfpc:transitory:cuarto",
-    "term_id": "urn:lex-mx:federal:statute:lfpc:term:consumidor",
-    "span": "Consumidor",
-    "start_char": 190,
-    "end_char": 200
   }
 ]

@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-5",
+  "strategy_version": "glossary-extraction-6",
   "instrument_id": "urn:lex-mx:federal:statute:lfar",
   "source_sha256": "b01d875d525d1efbe4edf9f022f58c9afb56fb777581fc9eae1038c212e6b43c",
   "extracted_text_sha256": "575dd916dc69b9c4ae9dc66d02d19713326a0c5d8c8aad841048c6659beb14b7",
@@ -24,5 +24,5 @@
   ],
   "imports": [],
   "term_count": 6,
-  "usage_count": 55
+  "usage_count": 42
 }

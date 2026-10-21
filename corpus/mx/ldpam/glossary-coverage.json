@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-5",
+  "strategy_version": "glossary-extraction-6",
   "instrument_id": "urn:lex-mx:federal:statute:ldpam",
   "source_sha256": "e9c60d3644c8edcb600667e79ef7e3d218c21369879b0495b441f09d25aa78db",
   "extracted_text_sha256": "d9aa34df45e696d04f684db84c4d318b6b82db40430ea0ca66405e286908f282",

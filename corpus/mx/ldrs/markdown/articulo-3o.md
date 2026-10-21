@@ -31,7 +31,7 @@ V. Alimentos Básicos y Estratégicos. Respectivamente, aquellos así calificado
 
 VI. Bienestar Social. Satisfacción de las necesidades materiales y culturales de la población incluidas, entre otras: la seguridad social, vivienda, educación, salud e infraestructura básica;
 
-VII. Comisión Intersecretarial. La Comisión Intersecretarial para el [Desarrollo Rural Sustentable](articulo-3o.md);
+VII. Comisión Intersecretarial. La Comisión Intersecretarial para el Desarrollo Rural Sustentable;
 
 VIII. Consejo Distrital. El Consejo para el Desarrollo Rural Sustentable del Distrito de Desarrollo Rural;
 
@@ -49,7 +49,7 @@ XIV. Desarrollo Rural Sustentable. El mejoramiento integral del bienestar social
 
 XV. Desertificación. La pérdida de la capacidad productiva de las tierras, causada por el hombre, en cualquiera de los ecosistemas existentes en el territorio de la República Mexicana;
 
-XVI. Difusión. La promoción nacional mediante los medios de información masiva escritos y electrónicos, libros, folletos y cualquier otro material idóneo que permitan dar a conocer los diversos programas y beneficios económicos que se deriven de la aplicación del [Programa Especial Concurrente](articulo-3o.md) para el Desarrollo Rural Sustentable; Fracción adicionada DOF 27-01-2011
+XVI. Difusión. La promoción nacional mediante los medios de información masiva escritos y electrónicos, libros, folletos y cualquier otro material idóneo que permitan dar a conocer los diversos programas y beneficios económicos que se deriven de la aplicación del [Programa Especial Concurrente](articulo-3o.md) para el [Desarrollo Rural Sustentable](articulo-3o.md); Fracción adicionada DOF 27-01-2011
 
 XVII. Entidades Federativas. Los estados de la federación y el Distrito Federal; Fracción recorrida DOF 27-01-2011
 

@@ -21,9 +21,9 @@ El [Consejo](articulo-5.md) estará integrado por:
 
 I. La persona titular de la Presidencia de la República, quien lo presidirá;
 
-II. La persona titular de la [Secretaría](articulo-5.md) de Relaciones Exteriores;
+II. La persona titular de la Secretaría de Relaciones Exteriores;
 
-III. La persona titular de la Secretaría de la Defensa Nacional;
+III. La persona titular de la [Secretaría](articulo-5.md) de la Defensa Nacional;
 
 IV. La persona titular de la Secretaría de Marina;
 

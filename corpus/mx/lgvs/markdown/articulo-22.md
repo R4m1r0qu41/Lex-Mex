@@ -17,4 +17,4 @@ source_sha256: b82b6148e235121951a94cb388fe59dbebe4212c8a6c85f26704873150827911
 
 # Artículo 22
 
-La [Secretaría](articulo-3o.md), en coordinación con el [Consejo](articulo-3o.md) Nacional de Ciencia y Tecnología y otras Dependencias o Entidades de los distintos órdenes de gobierno, promoverá el apoyo de proyectos y el otorgamiento de reconocimientos y estímulos, que contribuyan al desarrollo de conocimientos e instrumentos para la conservación y aprovechamiento sustentable de la vida silvestre y su hábitat.
+La [Secretaría](articulo-3o.md), en coordinación con el Consejo Nacional de Ciencia y Tecnología y otras Dependencias o Entidades de los distintos órdenes de gobierno, promoverá el apoyo de proyectos y el otorgamiento de reconocimientos y estímulos, que contribuyan al desarrollo de conocimientos e instrumentos para la conservación y aprovechamiento sustentable de la vida silvestre y su hábitat.

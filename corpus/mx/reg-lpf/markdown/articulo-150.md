@@ -19,4 +19,4 @@ source_sha256: e7b8eb91eb4546fb79066efffae991c1c22316a23d9d21c2727e32434e2e9b01
 
 La remuneración será uniforme para cada uno de los puestos consignados en el catálogo general de puestos del Gobierno Federal y se fijará en los tabuladores regionales, quedando comprendidos en el Presupuesto de Egresos respectivo.
 
-La cuantía de la remuneración uniforme fijada en los términos del párrafo anterior no podrá ser disminuida durante la vigencia del Presupuesto de Egresos a que corresponda, pero podrá actualizarse en los términos que fije la [Secretaría](articulo-2.md) de Hacienda y Crédito Público.
+La cuantía de la remuneración uniforme fijada en los términos del párrafo anterior no podrá ser disminuida durante la vigencia del Presupuesto de Egresos a que corresponda, pero podrá actualizarse en los términos que fije la Secretaría de Hacienda y Crédito Público.

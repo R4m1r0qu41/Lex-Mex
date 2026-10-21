@@ -17,7 +17,7 @@ source_sha256: b8f75dc45895e70fc2299799d9308a6df8782a1e2e3e736e3e3f537c751137c9
 
 # Artículo 47
 
-La [Autoridad Federal](articulo-4.md) solicitará, sin perjuicio de lo dispuesto en el [artículo anterior](articulo-46.md), la opinión de la [Secretaría](articulo-4.md) de Medio Ambiente y Recursos Naturales respecto del estudio de impacto ambiental a que se refiere el artículo [45](articulo-45.md), fracción III de este Reglamento, para lo cual le remitirá la información prevista en dicha fracción, así como la de los incisos a) y b) de la fracción I del citado artículo.
+La [Autoridad Federal](articulo-4.md) solicitará, sin perjuicio de lo dispuesto en el [artículo anterior](articulo-46.md), la opinión de la Secretaría de Medio Ambiente y Recursos Naturales respecto del estudio de impacto ambiental a que se refiere el artículo [45](articulo-45.md), fracción III de este Reglamento, para lo cual le remitirá la información prevista en dicha fracción, así como la de los incisos a) y b) de la fracción I del citado artículo.
 
 La Secretaría de Medio Ambiente y Recursos Naturales analizará la información remitida y emitirá su opinión en un plazo de veinte días hábiles, contado a partir del siguiente en que reciba la solicitud.
 

@@ -604,15 +604,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgec:article:3:term-usage:8218-8235",
-    "provision_id": "urn:lex-mx:federal:statute:lgec:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lgec:term:economia-circular",
-    "span": "Economía Circular",
-    "start_char": 8218,
-    "end_char": 8235
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgec:article:4:term-usage:95-112",
     "provision_id": "urn:lex-mx:federal:statute:lgec:article:4",
     "term_id": "urn:lex-mx:federal:statute:lgec:term:economia-circular",
@@ -910,15 +901,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgec:article:5:term-usage:23-40",
-    "provision_id": "urn:lex-mx:federal:statute:lgec:article:5",
-    "term_id": "urn:lex-mx:federal:statute:lgec:term:economia-circular",
-    "span": "Economía Circular",
-    "start_char": 23,
-    "end_char": 40
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgec:article:5:term-usage:152-169",
     "provision_id": "urn:lex-mx:federal:statute:lgec:article:5",
     "term_id": "urn:lex-mx:federal:statute:lgec:term:economia-circular",
@@ -982,69 +964,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgec:article:5:term-usage:403-413",
-    "provision_id": "urn:lex-mx:federal:statute:lgec:article:5",
-    "term_id": "urn:lex-mx:federal:statute:lgec:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 403,
-    "end_char": 413
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgec:article:5:term-usage:435-445",
-    "provision_id": "urn:lex-mx:federal:statute:lgec:article:5",
-    "term_id": "urn:lex-mx:federal:statute:lgec:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 435,
-    "end_char": 445
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgec:article:5:term-usage:484-494",
-    "provision_id": "urn:lex-mx:federal:statute:lgec:article:5",
-    "term_id": "urn:lex-mx:federal:statute:lgec:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 484,
-    "end_char": 494
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgec:article:5:term-usage:513-523",
-    "provision_id": "urn:lex-mx:federal:statute:lgec:article:5",
-    "term_id": "urn:lex-mx:federal:statute:lgec:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 513,
-    "end_char": 523
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgec:article:5:term-usage:576-586",
-    "provision_id": "urn:lex-mx:federal:statute:lgec:article:5",
-    "term_id": "urn:lex-mx:federal:statute:lgec:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 576,
-    "end_char": 586
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgec:article:5:term-usage:645-655",
-    "provision_id": "urn:lex-mx:federal:statute:lgec:article:5",
-    "term_id": "urn:lex-mx:federal:statute:lgec:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 645,
-    "end_char": 655
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgec:article:5:term-usage:687-697",
-    "provision_id": "urn:lex-mx:federal:statute:lgec:article:5",
-    "term_id": "urn:lex-mx:federal:statute:lgec:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 687,
-    "end_char": 697
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgec:article:5:term-usage:833-843",
     "provision_id": "urn:lex-mx:federal:statute:lgec:article:5",
     "term_id": "urn:lex-mx:federal:statute:lgec:term:secretaria",
@@ -1069,15 +988,6 @@
     "span": "Sistema",
     "start_char": 1342,
     "end_char": 1349
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgec:article:5:term-usage:1362-1379",
-    "provision_id": "urn:lex-mx:federal:statute:lgec:article:5",
-    "term_id": "urn:lex-mx:federal:statute:lgec:term:economia-circular",
-    "span": "Economía Circular",
-    "start_char": 1362,
-    "end_char": 1379
   },
   {
     "schema_version": "0.1.0",
@@ -1168,15 +1078,6 @@
     "span": "Economía Circular",
     "start_char": 494,
     "end_char": 511
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgec:article:6:term-usage:715-725",
-    "provision_id": "urn:lex-mx:federal:statute:lgec:article:6",
-    "term_id": "urn:lex-mx:federal:statute:lgec:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 715,
-    "end_char": 725
   },
   {
     "schema_version": "0.1.0",
@@ -1276,15 +1177,6 @@
     "span": "Economía Circular",
     "start_char": 1986,
     "end_char": 2003
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgec:article:6:term-usage:2109-2119",
-    "provision_id": "urn:lex-mx:federal:statute:lgec:article:6",
-    "term_id": "urn:lex-mx:federal:statute:lgec:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 2109,
-    "end_char": 2119
   },
   {
     "schema_version": "0.1.0",
@@ -1717,15 +1609,6 @@
     "span": "Producto",
     "start_char": 192,
     "end_char": 200
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgec:article:10:term-usage:335-345",
-    "provision_id": "urn:lex-mx:federal:statute:lgec:article:10",
-    "term_id": "urn:lex-mx:federal:statute:lgec:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 335,
-    "end_char": 345
   },
   {
     "schema_version": "0.1.0",
@@ -2293,15 +2176,6 @@
     "span": "Ley",
     "start_char": 1176,
     "end_char": 1179
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgec:article:20:term-usage:1261-1271",
-    "provision_id": "urn:lex-mx:federal:statute:lgec:article:20",
-    "term_id": "urn:lex-mx:federal:statute:lgec:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 1261,
-    "end_char": 1271
   },
   {
     "schema_version": "0.1.0",
@@ -3025,15 +2899,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgec:article:32:term-usage:315-325",
-    "provision_id": "urn:lex-mx:federal:statute:lgec:article:32",
-    "term_id": "urn:lex-mx:federal:statute:lgec:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 315,
-    "end_char": 325
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgec:article:32:term-usage:598-615",
     "provision_id": "urn:lex-mx:federal:statute:lgec:article:32",
     "term_id": "urn:lex-mx:federal:statute:lgec:term:economia-circular",
@@ -3061,15 +2926,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgec:article:33:term-usage:63-73",
-    "provision_id": "urn:lex-mx:federal:statute:lgec:article:33",
-    "term_id": "urn:lex-mx:federal:statute:lgec:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 63,
-    "end_char": 73
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgec:article:33:term-usage:325-342",
     "provision_id": "urn:lex-mx:federal:statute:lgec:article:33",
     "term_id": "urn:lex-mx:federal:statute:lgec:term:economia-circular",
@@ -3088,30 +2944,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgec:article:33:term-usage:498-508",
-    "provision_id": "urn:lex-mx:federal:statute:lgec:article:33",
-    "term_id": "urn:lex-mx:federal:statute:lgec:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 498,
-    "end_char": 508
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgec:article:33:term-usage:690-707",
     "provision_id": "urn:lex-mx:federal:statute:lgec:article:33",
     "term_id": "urn:lex-mx:federal:statute:lgec:term:economia-circular",
     "span": "Economía Circular",
     "start_char": 690,
     "end_char": 707
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgec:article:34:term-usage:3-13",
-    "provision_id": "urn:lex-mx:federal:statute:lgec:article:34",
-    "term_id": "urn:lex-mx:federal:statute:lgec:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 3,
-    "end_char": 13
   },
   {
     "schema_version": "0.1.0",

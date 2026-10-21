@@ -37,15 +37,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfll:article:2:term-usage:1259-1266",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfll:article:2",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfll:term:consejo",
-    "span": "Consejo",
-    "start_char": 1259,
-    "end_char": 1266
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lfll:article:2:term-usage:1644-1651",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfll:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfll:term:consejo",
@@ -412,24 +403,6 @@
     "span": "Secretaría",
     "start_char": 151,
     "end_char": 161
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfll:article:13:term-usage:226-233",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfll:article:13",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfll:term:consejo",
-    "span": "Consejo",
-    "start_char": 226,
-    "end_char": 233
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfll:article:13:term-usage:313-320",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfll:article:13",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfll:term:consejo",
-    "span": "Consejo",
-    "start_char": 313,
-    "end_char": 320
   },
   {
     "schema_version": "0.1.0",

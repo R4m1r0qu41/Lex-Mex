@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-5",
+  "strategy_version": "glossary-extraction-6",
   "instrument_id": "urn:lex-mx:federal:statute:lsar",
   "source_sha256": "02ff746c921b436a1ab6c74e5f1bc429976595b1b0f82cb8c5b50db1004128c1",
   "extracted_text_sha256": "78c3f03cd9766826a2dec30e160796bb835d65345303e9e07deee2cdee02bba9",
@@ -36,5 +36,5 @@
   ],
   "imports": [],
   "term_count": 18,
-  "usage_count": 136
+  "usage_count": 115
 }

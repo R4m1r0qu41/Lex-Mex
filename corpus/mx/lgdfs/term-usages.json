@@ -307,15 +307,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgdfs:article:14:term-usage:2821-2831",
-    "provision_id": "urn:lex-mx:federal:statute:lgdfs:article:14",
-    "term_id": "urn:lex-mx:federal:statute:lgdfs:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 2821,
-    "end_char": 2831
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgdfs:article:14:term-usage:3180-3188",
     "provision_id": "urn:lex-mx:federal:statute:lgdfs:article:14",
     "term_id": "urn:lex-mx:federal:statute:lgdfs:term:comision",
@@ -412,15 +403,6 @@
     "span": "Comisión",
     "start_char": 3,
     "end_char": 11
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgdfs:article:18:term-usage:368-376",
-    "provision_id": "urn:lex-mx:federal:statute:lgdfs:article:18",
-    "term_id": "urn:lex-mx:federal:statute:lgdfs:term:comision",
-    "span": "Comisión",
-    "start_char": 368,
-    "end_char": 376
   },
   {
     "schema_version": "0.1.0",
@@ -532,30 +514,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgdfs:article:20:term-usage:7106-7116",
-    "provision_id": "urn:lex-mx:federal:statute:lgdfs:article:20",
-    "term_id": "urn:lex-mx:federal:statute:lgdfs:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 7106,
-    "end_char": 7116
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgdfs:article:20:term-usage:7165-7175",
     "provision_id": "urn:lex-mx:federal:statute:lgdfs:article:20",
     "term_id": "urn:lex-mx:federal:statute:lgdfs:term:secretaria",
     "span": "Secretaría",
     "start_char": 7165,
     "end_char": 7175
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgdfs:article:20:term-usage:7191-7201",
-    "provision_id": "urn:lex-mx:federal:statute:lgdfs:article:20",
-    "term_id": "urn:lex-mx:federal:statute:lgdfs:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 7191,
-    "end_char": 7201
   },
   {
     "schema_version": "0.1.0",
@@ -667,15 +631,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgdfs:article:24:term-usage:87-97",
-    "provision_id": "urn:lex-mx:federal:statute:lgdfs:article:24",
-    "term_id": "urn:lex-mx:federal:statute:lgdfs:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 87,
-    "end_char": 97
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgdfs:article:24:term-usage:154-164",
     "provision_id": "urn:lex-mx:federal:statute:lgdfs:article:24",
     "term_id": "urn:lex-mx:federal:statute:lgdfs:term:secretaria",
@@ -703,30 +658,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgdfs:article:24:term-usage:1707-1717",
-    "provision_id": "urn:lex-mx:federal:statute:lgdfs:article:24",
-    "term_id": "urn:lex-mx:federal:statute:lgdfs:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 1707,
-    "end_char": 1717
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgdfs:article:24:term-usage:2198-2208",
     "provision_id": "urn:lex-mx:federal:statute:lgdfs:article:24",
     "term_id": "urn:lex-mx:federal:statute:lgdfs:term:secretaria",
     "span": "Secretaría",
     "start_char": 2198,
     "end_char": 2208
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgdfs:article:24:term-usage:2214-2224",
-    "provision_id": "urn:lex-mx:federal:statute:lgdfs:article:24",
-    "term_id": "urn:lex-mx:federal:statute:lgdfs:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 2214,
-    "end_char": 2224
   },
   {
     "schema_version": "0.1.0",
@@ -745,24 +682,6 @@
     "span": "Comisión",
     "start_char": 2428,
     "end_char": 2436
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgdfs:article:25:term-usage:77-85",
-    "provision_id": "urn:lex-mx:federal:statute:lgdfs:article:25",
-    "term_id": "urn:lex-mx:federal:statute:lgdfs:term:comision",
-    "span": "Comisión",
-    "start_char": 77,
-    "end_char": 85
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgdfs:article:25:term-usage:109-117",
-    "provision_id": "urn:lex-mx:federal:statute:lgdfs:article:25",
-    "term_id": "urn:lex-mx:federal:statute:lgdfs:term:comision",
-    "span": "Comisión",
-    "start_char": 109,
-    "end_char": 117
   },
   {
     "schema_version": "0.1.0",
@@ -793,30 +712,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgdfs:article:25:term-usage:634-642",
-    "provision_id": "urn:lex-mx:federal:statute:lgdfs:article:25",
-    "term_id": "urn:lex-mx:federal:statute:lgdfs:term:comision",
-    "span": "Comisión",
-    "start_char": 634,
-    "end_char": 642
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgdfs:article:26:term-usage:3-11",
     "provision_id": "urn:lex-mx:federal:statute:lgdfs:article:26",
     "term_id": "urn:lex-mx:federal:statute:lgdfs:term:comision",
     "span": "Comisión",
     "start_char": 3,
     "end_char": 11
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgdfs:article:26:term-usage:17-24",
-    "provision_id": "urn:lex-mx:federal:statute:lgdfs:article:26",
-    "term_id": "urn:lex-mx:federal:statute:lgdfs:term:consejo",
-    "span": "Consejo",
-    "start_char": 17,
-    "end_char": 24
   },
   {
     "schema_version": "0.1.0",
@@ -1279,15 +1180,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgdfs:article:45:term-usage:73-81",
-    "provision_id": "urn:lex-mx:federal:statute:lgdfs:article:45",
-    "term_id": "urn:lex-mx:federal:statute:lgdfs:term:registro",
-    "span": "Registro",
-    "start_char": 73,
-    "end_char": 81
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgdfs:article:45:term-usage:130-138",
     "provision_id": "urn:lex-mx:federal:statute:lgdfs:article:45",
     "term_id": "urn:lex-mx:federal:statute:lgdfs:term:registro",
@@ -1474,15 +1366,6 @@
     "span": "Registro",
     "start_char": 3,
     "end_char": 11
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgdfs:article:52:term-usage:33-41",
-    "provision_id": "urn:lex-mx:federal:statute:lgdfs:article:52",
-    "term_id": "urn:lex-mx:federal:statute:lgdfs:term:registro",
-    "span": "Registro",
-    "start_char": 33,
-    "end_char": 41
   },
   {
     "schema_version": "0.1.0",
@@ -1762,15 +1645,6 @@
     "span": "Secretaría",
     "start_char": 182,
     "end_char": 192
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgdfs:article:61-bis:term-usage:290-298",
-    "provision_id": "urn:lex-mx:federal:statute:lgdfs:article:61-bis",
-    "term_id": "urn:lex-mx:federal:statute:lgdfs:term:comision",
-    "span": "Comisión",
-    "start_char": 290,
-    "end_char": 298
   },
   {
     "schema_version": "0.1.0",
@@ -2449,15 +2323,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgdfs:article:99:term-usage:70-80",
-    "provision_id": "urn:lex-mx:federal:statute:lgdfs:article:99",
-    "term_id": "urn:lex-mx:federal:statute:lgdfs:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 70,
-    "end_char": 80
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgdfs:article:99:term-usage:542-552",
     "provision_id": "urn:lex-mx:federal:statute:lgdfs:article:99",
     "term_id": "urn:lex-mx:federal:statute:lgdfs:term:secretaria",
@@ -3025,24 +2890,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgdfs:article:125:term-usage:111-119",
-    "provision_id": "urn:lex-mx:federal:statute:lgdfs:article:125",
-    "term_id": "urn:lex-mx:federal:statute:lgdfs:term:comision",
-    "span": "Comisión",
-    "start_char": 111,
-    "end_char": 119
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgdfs:article:125:term-usage:167-175",
-    "provision_id": "urn:lex-mx:federal:statute:lgdfs:article:125",
-    "term_id": "urn:lex-mx:federal:statute:lgdfs:term:comision",
-    "span": "Comisión",
-    "start_char": 167,
-    "end_char": 175
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgdfs:article:125:term-usage:226-254",
     "provision_id": "urn:lex-mx:federal:statute:lgdfs:article:125",
     "term_id": "urn:lex-mx:federal:statute:lgdfs:term:areas-de-proteccion-forestal",
@@ -3277,15 +3124,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgdfs:article:138-bis:term-usage:251-259",
-    "provision_id": "urn:lex-mx:federal:statute:lgdfs:article:138-bis",
-    "term_id": "urn:lex-mx:federal:statute:lgdfs:term:comision",
-    "span": "Comisión",
-    "start_char": 251,
-    "end_char": 259
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgdfs:article:138-bis:term-usage:342-352",
     "provision_id": "urn:lex-mx:federal:statute:lgdfs:article:138-bis",
     "term_id": "urn:lex-mx:federal:statute:lgdfs:term:secretaria",
@@ -3310,15 +3148,6 @@
     "span": "Comisión",
     "start_char": 695,
     "end_char": 703
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgdfs:article:138-bis:term-usage:764-772",
-    "provision_id": "urn:lex-mx:federal:statute:lgdfs:article:138-bis",
-    "term_id": "urn:lex-mx:federal:statute:lgdfs:term:comision",
-    "span": "Comisión",
-    "start_char": 764,
-    "end_char": 772
   },
   {
     "schema_version": "0.1.0",
@@ -3421,15 +3250,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgdfs:article:141:term-usage:1240-1250",
-    "provision_id": "urn:lex-mx:federal:statute:lgdfs:article:141",
-    "term_id": "urn:lex-mx:federal:statute:lgdfs:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 1240,
-    "end_char": 1250
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgdfs:article:142:term-usage:3-11",
     "provision_id": "urn:lex-mx:federal:statute:lgdfs:article:142",
     "term_id": "urn:lex-mx:federal:statute:lgdfs:term:comision",
@@ -3445,15 +3265,6 @@
     "span": "Comisión",
     "start_char": 388,
     "end_char": 396
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgdfs:article:142:term-usage:421-431",
-    "provision_id": "urn:lex-mx:federal:statute:lgdfs:article:142",
-    "term_id": "urn:lex-mx:federal:statute:lgdfs:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 421,
-    "end_char": 431
   },
   {
     "schema_version": "0.1.0",
@@ -3517,15 +3328,6 @@
     "span": "Comisión",
     "start_char": 43,
     "end_char": 51
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgdfs:article:145:term-usage:76-86",
-    "provision_id": "urn:lex-mx:federal:statute:lgdfs:article:145",
-    "term_id": "urn:lex-mx:federal:statute:lgdfs:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 76,
-    "end_char": 86
   },
   {
     "schema_version": "0.1.0",

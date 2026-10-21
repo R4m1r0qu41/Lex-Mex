@@ -17,7 +17,7 @@ source_sha256: a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8
 
 # Artículo 97
 
-El [Registro](articulo-6.md) Nacional de [Víctimas](articulo-6.md) será integrado por las siguientes fuentes:
+El [Registro](articulo-6.md) Nacional de Víctimas será integrado por las siguientes fuentes:
 
 I. Las solicitudes de ingreso hechas directamente por las víctimas del delito y de violaciones de derechos humanos, a través de su representante legal o de algún familiar o persona de confianza ante la [Comisión Ejecutiva](articulo-6.md) o ante sus equivalentes en las entidades federativas, según corresponda;
 

@@ -46,15 +46,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfaar:article:2:term-usage:191-201",
-    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 191,
-    "end_char": 201
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfaar:article:2:term-usage:847-867",
     "provision_id": "urn:lex-mx:federal:statute:lfaar:article:2",
     "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
@@ -1681,24 +1672,6 @@
     "span": "Organismo Integrador",
     "start_char": 1468,
     "end_char": 1488
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfaar:article:39:term-usage:232-240",
-    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:39",
-    "term_id": "urn:lex-mx:federal:statute:lfaar:term:comision",
-    "span": "Comisión",
-    "start_char": 232,
-    "end_char": 240
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfaar:article:39:term-usage:790-798",
-    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:39",
-    "term_id": "urn:lex-mx:federal:statute:lfaar:term:comision",
-    "span": "Comisión",
-    "start_char": 790,
-    "end_char": 798
   },
   {
     "schema_version": "0.1.0",

@@ -17,7 +17,7 @@ source_sha256: aa6e0e437331debd80d0086155e2d99885ea5e22cb13353c44eb0b1090f0b4d5
 
 # Artículo 156
 
-Los Trabajadores que se encuentren amortizando un crédito de vivienda otorgado por el [Instituto](articulo-6.md) o por el Instituto del [Fondo](articulo-6.md) Nacional de la Vivienda para los Trabajadores y que, por virtud de una nueva relación laboral, cambien de régimen de seguridad social deberán seguir utilizando sus [Aportaciones](articulo-6.md) de vivienda para el pago del crédito correspondiente.
+Los Trabajadores que se encuentren amortizando un crédito de vivienda otorgado por el [Instituto](articulo-6.md) o por el Instituto del Fondo Nacional de la Vivienda para los Trabajadores y que, por virtud de una nueva relación laboral, cambien de régimen de seguridad social deberán seguir utilizando sus [Aportaciones](articulo-6.md) de vivienda para el pago del crédito correspondiente.
 
 A efecto de lo anterior, el Instituto y el Instituto del Fondo Nacional de la Vivienda para los Trabajadores podrán celebrar convenio para determinar el procedimiento para la transferencia de las Aportaciones de vivienda entre ambos institutos.
 

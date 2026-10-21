@@ -15,7 +15,7 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Décimo Segundo
 
-Dentro de los treinta días siguientes a la creación de la [Comisión Nacional de Búsqueda](articulo-4.md), el Secretariado Ejecutivo del [Sistema Nacional](articulo-4.md) de Seguridad Pública le transferirá las herramientas tecnológicas y la información que haya recabado en cumplimiento de lo dispuesto en la Ley del [Registro Nacional](articulo-4.md) de Datos de Personas Extraviadas o Desaparecidas.
+Dentro de los treinta días siguientes a la creación de la [Comisión Nacional de Búsqueda](articulo-4.md), el Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública le transferirá las herramientas tecnológicas y la información que haya recabado en cumplimiento de lo dispuesto en la Ley del [Registro Nacional](articulo-4.md) de Datos de Personas Extraviadas o Desaparecidas.
 
 Dentro de los noventa días siguientes a que reciba la información a que se refiere el párrafo anterior, la Comisión Nacional de Búsqueda deberá transmitir a las [Fiscalías Especializadas](articulo-4.md) la información de las [Personas Desaparecidas](articulo-4.md) o No Localizadas que correspondan al ámbito de su competencia. Las Fiscalías Especializadas deberán actualizar el contenido del Registro Nacional, conforme a lo siguiente:
 

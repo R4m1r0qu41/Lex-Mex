@@ -10,6 +10,7 @@ Fuente operativa: [cnbv](https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de
 - [Artículo 4](articulo-4.md)
 - [Artículo 5](articulo-5.md)
 - [Artículo 6](articulo-6.md)
+- [Artículo 6 Bis](articulo-6-Bis.md)
 - [Artículo 7](articulo-7.md)
 - [Artículo 8](articulo-8.md)
 - [Artículo 9](articulo-9.md)
@@ -295,3 +296,6 @@ Los números de margen `(N)` del documento compilado remiten a estas resolucione
 45. Por Resolución publicada en el Diario Oficial de la Federación el 04 de septiembre de 2025, se SUSTITUYEN los ANEXOS 5, 6, 7 y del 8 la Serie R01 “Catálogo Mínimo” y Serie R13 “Estados Financieros”.
 46. Reformado por Resolución publicada en el Diario Oficial de la Federación el 7 de julio de 2026.
 47. Por Resolución publicada en el Diario Oficial de la Federación el 7 de julio de 2026, se ADICIONA el ANEXO 22.
+48. Reformado por Resolución publicada en el Diario Oficial de la Federación el 7 de agosto de 2026.
+49. Adicionado por Resolución publicada en el Diario Oficial de la Federación el 7 de agosto de 2026.
+50. Por Resolución publicada en el Diario Oficial de la Federación el 7 de agosto de 2026, se SUSTITUYEN los ANEXOS 1, 2, 3 y 19, así como el índice del 8.

@@ -91,15 +91,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:article:3:term-usage:7069-7078",
-    "provision_id": "urn:lex-mx:federal:statute:lgcc:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lgcc:term:emisiones",
-    "span": "Emisiones",
-    "start_char": 7069,
-    "end_char": 7078
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgcc:article:4:term-usage:38-41",
     "provision_id": "urn:lex-mx:federal:statute:lgcc:article:4",
     "term_id": "urn:lex-mx:federal:statute:lgcc:term:ley",
@@ -433,15 +424,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:article:17:term-usage:407-414",
-    "provision_id": "urn:lex-mx:federal:statute:lgcc:article:17",
-    "term_id": "urn:lex-mx:federal:statute:lgcc:term:consejo",
-    "span": "Consejo",
-    "start_char": 407,
-    "end_char": 414
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgcc:article:18:term-usage:3-8",
     "provision_id": "urn:lex-mx:federal:statute:lgcc:article:18",
     "term_id": "urn:lex-mx:federal:statute:lgcc:term:inecc",
@@ -568,30 +550,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:article:22:term-usage:3033-3043",
-    "provision_id": "urn:lex-mx:federal:statute:lgcc:article:22",
-    "term_id": "urn:lex-mx:federal:statute:lgcc:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 3033,
-    "end_char": 3043
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgcc:article:22:term-usage:3449-3459",
     "provision_id": "urn:lex-mx:federal:statute:lgcc:article:22",
     "term_id": "urn:lex-mx:federal:statute:lgcc:term:secretaria",
     "span": "Secretaría",
     "start_char": 3449,
     "end_char": 3459
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:article:22:term-usage:4120-4127",
-    "provision_id": "urn:lex-mx:federal:statute:lgcc:article:22",
-    "term_id": "urn:lex-mx:federal:statute:lgcc:term:consejo",
-    "span": "Consejo",
-    "start_char": 4120,
-    "end_char": 4127
   },
   {
     "schema_version": "0.1.0",
@@ -811,39 +775,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:article:35:term-usage:168-178",
-    "provision_id": "urn:lex-mx:federal:statute:lgcc:article:35",
-    "term_id": "urn:lex-mx:federal:statute:lgcc:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 168,
-    "end_char": 178
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgcc:article:36:term-usage:3-13",
     "provision_id": "urn:lex-mx:federal:statute:lgcc:article:36",
     "term_id": "urn:lex-mx:federal:statute:lgcc:term:secretaria",
     "span": "Secretaría",
     "start_char": 3,
     "end_char": 13
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:article:36:term-usage:52-62",
-    "provision_id": "urn:lex-mx:federal:statute:lgcc:article:36",
-    "term_id": "urn:lex-mx:federal:statute:lgcc:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 52,
-    "end_char": 62
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:article:36:term-usage:98-108",
-    "provision_id": "urn:lex-mx:federal:statute:lgcc:article:36",
-    "term_id": "urn:lex-mx:federal:statute:lgcc:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 98,
-    "end_char": 108
   },
   {
     "schema_version": "0.1.0",
@@ -982,15 +919,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:article:45:term-usage:143-153",
-    "provision_id": "urn:lex-mx:federal:statute:lgcc:article:45",
-    "term_id": "urn:lex-mx:federal:statute:lgcc:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 143,
-    "end_char": 153
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgcc:article:45:term-usage:188-198",
     "provision_id": "urn:lex-mx:federal:statute:lgcc:article:45",
     "term_id": "urn:lex-mx:federal:statute:lgcc:term:secretaria",
@@ -1015,15 +943,6 @@
     "span": "Comisión",
     "start_char": 3,
     "end_char": 11
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:article:46:term-usage:86-93",
-    "provision_id": "urn:lex-mx:federal:statute:lgcc:article:46",
-    "term_id": "urn:lex-mx:federal:statute:lgcc:term:consejo",
-    "span": "Consejo",
-    "start_char": 86,
-    "end_char": 93
   },
   {
     "schema_version": "0.1.0",
@@ -2548,111 +2467,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:transitory:tercero:term-usage:1889-1899",
-    "provision_id": "urn:lex-mx:federal:statute:lgcc:transitory:tercero",
-    "term_id": "urn:lex-mx:federal:statute:lgcc:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 1889,
-    "end_char": 1899
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:transitory:tercero:term-usage:2312-2322",
-    "provision_id": "urn:lex-mx:federal:statute:lgcc:transitory:tercero",
-    "term_id": "urn:lex-mx:federal:statute:lgcc:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 2312,
-    "end_char": 2322
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:transitory:tercero:term-usage:2376-2386",
-    "provision_id": "urn:lex-mx:federal:statute:lgcc:transitory:tercero",
-    "term_id": "urn:lex-mx:federal:statute:lgcc:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 2376,
-    "end_char": 2386
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:transitory:tercero:term-usage:2403-2413",
-    "provision_id": "urn:lex-mx:federal:statute:lgcc:transitory:tercero",
-    "term_id": "urn:lex-mx:federal:statute:lgcc:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 2403,
-    "end_char": 2413
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:transitory:tercero:term-usage:2429-2439",
-    "provision_id": "urn:lex-mx:federal:statute:lgcc:transitory:tercero",
-    "term_id": "urn:lex-mx:federal:statute:lgcc:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 2429,
-    "end_char": 2439
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:transitory:tercero:term-usage:2511-2521",
-    "provision_id": "urn:lex-mx:federal:statute:lgcc:transitory:tercero",
-    "term_id": "urn:lex-mx:federal:statute:lgcc:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 2511,
-    "end_char": 2521
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:transitory:tercero:term-usage:2886-2896",
-    "provision_id": "urn:lex-mx:federal:statute:lgcc:transitory:tercero",
-    "term_id": "urn:lex-mx:federal:statute:lgcc:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 2886,
-    "end_char": 2896
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:transitory:tercero:term-usage:2950-2960",
-    "provision_id": "urn:lex-mx:federal:statute:lgcc:transitory:tercero",
-    "term_id": "urn:lex-mx:federal:statute:lgcc:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 2950,
-    "end_char": 2960
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgcc:transitory:tercero:term-usage:2977-2985",
     "provision_id": "urn:lex-mx:federal:statute:lgcc:transitory:tercero",
     "term_id": "urn:lex-mx:federal:statute:lgcc:term:comision",
     "span": "Comisión",
     "start_char": 2977,
     "end_char": 2985
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:transitory:tercero:term-usage:3222-3230",
-    "provision_id": "urn:lex-mx:federal:statute:lgcc:transitory:tercero",
-    "term_id": "urn:lex-mx:federal:statute:lgcc:term:comision",
-    "span": "Comisión",
-    "start_char": 3222,
-    "end_char": 3230
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:transitory:tercero:term-usage:3264-3274",
-    "provision_id": "urn:lex-mx:federal:statute:lgcc:transitory:tercero",
-    "term_id": "urn:lex-mx:federal:statute:lgcc:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 3264,
-    "end_char": 3274
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:transitory:tercero:term-usage:3309-3317",
-    "provision_id": "urn:lex-mx:federal:statute:lgcc:transitory:tercero",
-    "term_id": "urn:lex-mx:federal:statute:lgcc:term:comision",
-    "span": "Comisión",
-    "start_char": 3309,
-    "end_char": 3317
   },
   {
     "schema_version": "0.1.0",

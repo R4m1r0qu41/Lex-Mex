@@ -49,7 +49,7 @@ XX. Calidad del café: Atributos físicos y organolépticos del grano de café a
 
 XXI. Cambio climático: Variación del clima atribuido directa o indirectamente a la actividad humana, que altera la composición de la atmósfera global y se suma a la variabilidad natural del clima observada durante períodos comparables.
 
-XXII. Comisión: Comisión Nacional para el Desarrollo de la [Cafeticultura](articulo-3.md) Mexicana.
+XXII. Comisión: Comisión Nacional para el Desarrollo de la Cafeticultura Mexicana.
 
 XXIII. Diferencial: Margen positivo o negativo sobre los mercados de referencia de futuros de café, que se utilizan en la determinación de precios del café a la compra y a la venta, tanto en las regiones productoras, como en los puntos de venta, tanto en el mercado doméstico como en el mercado exterior, en apego a las reglas para facilitar la operatividad de las transacciones de comercio internacional en materia de café. XXIV. Diferencial neto: Resultante de los diferenciales de compra y venta sobre el mercado de futuros de referencia para un café de la misma calidad o su equivalente, ya procesado. Aunque la compra y venta suceda en momentos diferentes.
 

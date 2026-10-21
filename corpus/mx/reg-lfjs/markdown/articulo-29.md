@@ -37,7 +37,7 @@ VII. Informar a la Secretaría sobre la enajenación de las acciones o partes so
 
 En todo caso se deberá proporcionar la documentación e información a que se refieren las fracciones II y III del artículo [22](articulo-22.md) de este Reglamento, respecto de los socios o accionistas que adquieran partes sociales o acciones de la sociedad permisionaria;
 
-VIII. Mantener y, en su caso, incrementar el capital fijo de la sociedad, conforme a los lineamientos que establezca periódicamente la Secretaría, previa opinión del [Consejo Consultivo](articulo-3.md) de Juegos y [Sorteos](articulo-3.md);
+VIII. Mantener y, en su caso, incrementar el capital fijo de la sociedad, conforme a los lineamientos que establezca periódicamente la Secretaría, previa opinión del [Consejo Consultivo](articulo-3.md) de Juegos y Sorteos;
 
 IX. Impedir que los accionistas o socios de la sociedad permisionaria y los accionistas de los accionistas de ésta, y así sucesivamente hasta el último beneficiario, puedan ser personas físicas o morales radicadas en territorios con regímenes fiscales preferentes o jurisdicciones de baja imposición fiscal, según la determinación que periódicamente haga la autoridad federal competente. Únicamente se excluyen de lo anterior aquellas sociedades que coticen sus acciones en bolsas de valores de países que obliguen al cumplimiento de cuando menos los mismos estándares establecidos para las empresas listadas en la Bolsa Mexicana de Valores, S.A. de C.V., o bien estén registradas y sometidas a control ante las autoridades de los mercados de valores cuando se trate de fondos de pensiones, de inversión o similares;
 

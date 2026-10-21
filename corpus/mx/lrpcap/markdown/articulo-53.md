@@ -17,7 +17,7 @@ source_sha256: cf241af670623476911e625178a081e9e05921b4b6cc73ae92b41a47da45487a
 
 # Artículo 53
 
-En caso de presentarse una solicitud de extradición de un extranjero que hubiese solicitado el reconocimiento de la condición de refugiado o de un refugiado, la [Secretaría](articulo-2.md) de Relaciones Exteriores notificará a la Secretaría en un plazo no mayor a cinco días hábiles, a partir de la fecha en que reciba la solicitud de extradición.
+En caso de presentarse una solicitud de extradición de un extranjero que hubiese solicitado el reconocimiento de la condición de refugiado o de un refugiado, la Secretaría de Relaciones Exteriores notificará a la [Secretaría](articulo-2.md) en un plazo no mayor a cinco días hábiles, a partir de la fecha en que reciba la solicitud de extradición.
 
 Para efectos de lo señalado en el párrafo anterior, la Secretaría deberá remitir a la Secretaría de Relaciones Exteriores, el listado de los solicitantes y refugiados de conformidad con el reglamento.
 

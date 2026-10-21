@@ -55,15 +55,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcpaf:article:6-bis:term-usage:154-164",
-    "provision_id": "urn:lex-mx:federal:statute:lcpaf:article:6-bis",
-    "term_id": "urn:lex-mx:federal:statute:lcpaf:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 154,
-    "end_char": 164
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcpaf:article:6-bis:term-usage:727-737",
     "provision_id": "urn:lex-mx:federal:statute:lcpaf:article:6-bis",
     "term_id": "urn:lex-mx:federal:statute:lcpaf:term:secretaria",
@@ -73,39 +64,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcpaf:article:6-bis:term-usage:758-768",
-    "provision_id": "urn:lex-mx:federal:statute:lcpaf:article:6-bis",
-    "term_id": "urn:lex-mx:federal:statute:lcpaf:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 758,
-    "end_char": 768
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcpaf:article:6-bis:term-usage:1183-1193",
-    "provision_id": "urn:lex-mx:federal:statute:lcpaf:article:6-bis",
-    "term_id": "urn:lex-mx:federal:statute:lcpaf:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 1183,
-    "end_char": 1193
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcpaf:article:6-bis:term-usage:1887-1897",
     "provision_id": "urn:lex-mx:federal:statute:lcpaf:article:6-bis",
     "term_id": "urn:lex-mx:federal:statute:lcpaf:term:secretaria",
     "span": "Secretaría",
     "start_char": 1887,
     "end_char": 1897
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcpaf:article:6-bis:term-usage:1920-1930",
-    "provision_id": "urn:lex-mx:federal:statute:lcpaf:article:6-bis",
-    "term_id": "urn:lex-mx:federal:statute:lcpaf:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 1920,
-    "end_char": 1930
   },
   {
     "schema_version": "0.1.0",
@@ -187,15 +151,6 @@
     "span": "Secretaría",
     "start_char": 3,
     "end_char": 13
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcpaf:article:15:term-usage:654-664",
-    "provision_id": "urn:lex-mx:federal:statute:lcpaf:article:15",
-    "term_id": "urn:lex-mx:federal:statute:lcpaf:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 654,
-    "end_char": 664
   },
   {
     "schema_version": "0.1.0",
@@ -586,15 +541,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcpaf:article:63-bis:term-usage:299-309",
-    "provision_id": "urn:lex-mx:federal:statute:lcpaf:article:63-bis",
-    "term_id": "urn:lex-mx:federal:statute:lcpaf:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 299,
-    "end_char": 309
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcpaf:article:64:term-usage:356-366",
     "provision_id": "urn:lex-mx:federal:statute:lcpaf:article:64",
     "term_id": "urn:lex-mx:federal:statute:lcpaf:term:secretaria",
@@ -745,15 +691,6 @@
     "span": "Secretaría",
     "start_char": 1484,
     "end_char": 1494
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcpaf:article:74-bis:term-usage:3-13",
-    "provision_id": "urn:lex-mx:federal:statute:lcpaf:article:74-bis",
-    "term_id": "urn:lex-mx:federal:statute:lcpaf:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 3,
-    "end_char": 13
   },
   {
     "schema_version": "0.1.0",

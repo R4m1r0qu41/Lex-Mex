@@ -35,6 +35,6 @@ a) La relación de los aeródromos civiles a utilizar en la operación;
 
 b) La relación del personal técnico aeronáutico a emplear en forma directa o a través de terceros;
 
-c) La autorización de la [Secretaría](articulo-2.md) de Agricultura y Desarrollo Rural, en el caso de los servicios de fumigación aérea y de transporte de troncos, y Inciso reformado DOF 31-05-2023
+c) La autorización de la Secretaría de Agricultura y Desarrollo Rural, en el caso de los servicios de fumigación aérea y de transporte de troncos, y Inciso reformado DOF 31-05-2023
 
 d) La autorización de la Secretaría de la Defensa Nacional, para los servicios de aerofotografía, aerotopografía y levantamiento orográfico. Inciso reformado DOF 08-08-2000, 05-10-2000 Reforma DOF 05-10-2000: Derogó del artículo el entonces párrafo segundo (antes adicionado por DOF 08-08-2000)

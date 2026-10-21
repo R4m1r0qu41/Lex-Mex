@@ -15,4 +15,4 @@ source_sha256: 40a949085c5ebbc522c1145f4a48fd04c4d1dc0c18592fd3a665b8d0dabeef87
 
 # Décimo Octavo
 
-Las autoridades de educación media superior y los organismos descentralizados emitirán los programas al que se refieren los artículos [64](articulo-64.md), [65](articulo-65.md) y [70](articulo-70.md) en un plazo máximo de ciento ochenta días naturales contados a partir de la entrada en vigor del presente Decreto. En el ámbito federal, dichos programas deberán contar con la autorización de la [Secretaría](articulo-7.md) de Hacienda y Crédito Público, en el ámbito de sus atribuciones.
+Las autoridades de educación media superior y los organismos descentralizados emitirán los programas al que se refieren los artículos [64](articulo-64.md), [65](articulo-65.md) y [70](articulo-70.md) en un plazo máximo de ciento ochenta días naturales contados a partir de la entrada en vigor del presente Decreto. En el ámbito federal, dichos programas deberán contar con la autorización de la Secretaría de Hacienda y Crédito Público, en el ámbito de sus atribuciones.

@@ -29,7 +29,7 @@ V. Integrantes, a los miembros de la Policía Federal;
 
 VI. Ley, a la Ley de la Policía Federal;
 
-VII. Ley General, a la Ley General del Sistema Nacional de Seguridad Pública;
+VII. Ley General, a la Ley General del [Sistema](articulo-2.md) Nacional de Seguridad Pública;
 
 VIII. Manual de Organización, al Manual de Organización de la Institución;
 
@@ -47,8 +47,8 @@ XIII. Reglamento, al presente ordenamiento;
 
 XIV. Secretaría, a la Secretaría de Gobernación; Fracción reformada DOF 22-08-2014
 
-XV. Secretaría General, a la [Secretaría](articulo-2.md) General de la Policía Federal;
+XV. Secretaría General, a la Secretaría General de la Policía Federal;
 
-XVI. Secretario, al Titular de la Secretaría, y
+XVI. Secretario, al Titular de la [Secretaría](articulo-2.md), y
 
 XVII. Sistema, al Sistema Nacional de Seguridad Pública.

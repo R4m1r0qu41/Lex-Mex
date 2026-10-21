@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/256.pdf
 source_sha256: 1764c89edb8173050fe6bc08f57826ea93a131c7c83f4fc8c15f74de03fb07c3
 ---
 
+> Título I · Capítulo I
+
 # Artículo 2
 
 Son de aplicación supletoria a la presente Ley, en el orden en que se indica:
@@ -21,4 +23,4 @@ I. Las leyes mercantiles especiales;
 
 II. El Código de Comercio, y
 
-III. La legislación civil de la Entidad Federativa donde se realicen los actos jurídicos a que se refiere esta Ley.
+III. La legislación civil de la [Entidad](articulo-3.md) Federativa donde se realicen los actos jurídicos a que se refiere esta Ley.

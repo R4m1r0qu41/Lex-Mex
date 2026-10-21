@@ -21,7 +21,7 @@ Las personas concesionarias, asignatarias, o permisionarias tendrán la obligaci
 
 Las personas instructoras que impartan la capacitación y el adiestramiento deben contar con registro ante la [Agencia Federal de Aviación Civil](articulo-2.md) o ante la institución educativa extranjera para la cual presten sus servicios.
 
-La Agencia Federal de Aviación Civil, sin perjuicio de las atribuciones que correspondan a la [Secretaría](articulo-2.md) del Trabajo y Previsión Social, en coordinación con otras autoridades federales competentes, determinará los lineamientos generales aplicables para la definición de aquellos conocimientos, habilidades y destrezas que requieran de certificación, para garantizar la seguridad en la prestación de los servicios aéreos y aeroportuarios. Dicha certificación se sujetará al régimen que las autoridades señaladas establezcan.
+La Agencia Federal de Aviación Civil, sin perjuicio de las atribuciones que correspondan a la Secretaría del Trabajo y Previsión Social, en coordinación con otras autoridades federales competentes, determinará los lineamientos generales aplicables para la definición de aquellos conocimientos, habilidades y destrezas que requieran de certificación, para garantizar la seguridad en la prestación de los servicios aéreos y aeroportuarios. Dicha certificación se sujetará al régimen que las autoridades señaladas establezcan.
 
 En la determinación de los lineamientos generales antes citados, las autoridades competentes establecerán procedimientos que consideren las propuestas y operaciones de las personas concesionarias, asignatarias y permisionarias.
 

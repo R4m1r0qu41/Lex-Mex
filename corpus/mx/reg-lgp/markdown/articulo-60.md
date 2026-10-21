@@ -31,7 +31,7 @@ d) Constancia de residencia emitida por la autoridad del lugar de residencia del
 
 e) Cartilla del Servicio Militar Nacional, y
 
-f) Credencial de afiliación del [Instituto](articulo-3.md) Mexicano del Seguro Social o del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
+f) Credencial de afiliación del Instituto Mexicano del Seguro Social o del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
 
 II. Testimonial de personas que hayan obtenido su Cédula de Identidad Ciudadana, la cual deberán exhibir al rendir su testimonio, y
 

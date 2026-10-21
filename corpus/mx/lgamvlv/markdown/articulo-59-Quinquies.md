@@ -35,7 +35,7 @@ VII. Sistema para el Desarrollo Integral de la Familia;
 
 VIII. Secretaría o Instituto de las Mujeres;
 
-IX. Comisión Ejecutiva de Atención a [Víctimas](articulo-5.md);
+IX. Comisión Ejecutiva de Atención a Víctimas;
 
 X. Procuraduría de Protección de Niñas, Niños y Adolescentes;
 

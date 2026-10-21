@@ -21,7 +21,7 @@ Especialización de los operadores del [Sistema](articulo-3.md) Integral Los ope
 
 I. Conocimientos interdisciplinarios en materia de derechos de niñas, niños y adolescentes;
 
-II. Conocimientos específicos sobre el Sistema Integral de Justicia Penal para [Adolescentes](articulo-3.md);
+II. Conocimientos específicos sobre el Sistema Integral de Justicia Penal para Adolescentes;
 
 III. Conocimientos del sistema penal acusatorio, las medidas de sanción especiales y la prevención del delito para adolescentes;
 

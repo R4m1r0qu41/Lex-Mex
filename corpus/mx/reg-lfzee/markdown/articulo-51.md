@@ -17,7 +17,7 @@ source_sha256: b8f75dc45895e70fc2299799d9308a6df8782a1e2e3e736e3e3f537c751137c9
 
 # Artículo 51
 
-Para efectos del [artículo anterior](articulo-50.md), la [Autoridad Federal](articulo-4.md) solicitará el trámite respectivo a la [Secretaría](articulo-4.md) de Desarrollo Agrario, Territorial y Urbano, mediante escrito dirigido a su titular, el cual deberá acompañar los datos y documentos siguientes: I. Nombre del predio o núcleo agrario, así como de la [Entidad Federativa](articulo-4.md) y [Municipio](articulo-4.md) donde se ubique;
+Para efectos del [artículo anterior](articulo-50.md), la [Autoridad Federal](articulo-4.md) solicitará el trámite respectivo a la Secretaría de Desarrollo Agrario, Territorial y Urbano, mediante escrito dirigido a su titular, el cual deberá acompañar los datos y documentos siguientes: I. Nombre del predio o núcleo agrario, así como de la [Entidad Federativa](articulo-4.md) y [Municipio](articulo-4.md) donde se ubique;
 
 II. Señalamiento del régimen de propiedad ejidal, comunal o privada a que se encuentra sujeto el predio;
 

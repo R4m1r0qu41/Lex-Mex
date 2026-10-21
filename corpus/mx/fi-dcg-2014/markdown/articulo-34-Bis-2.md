@@ -11,9 +11,9 @@ temporal_status: unknown
 review_status: not_analyzed
 amendment_marks: [2]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20los%20fondos%20de%20inversi%C3%B3n%20y%20a%20las%20personas%20que%20les%20prestan%20servicios.pdf
-source_sha256: 30cec2bac3222c89d447b6e8adc7877ea45ece21dfc270ed8c963ea91649b6ee
+source_sha256: 3b21198efc7e52987a773cbcc48772185e6eadc7338673fa39bfb38ba907d07b
 ---
 
 # Artículo 34 Bis 2
 
-El responsable de la Administración integral de riesgos de la sociedad operadora de fondos de inversión de que se trate, deberá dar seguimiento al desempeño de los comisionistas, así como al cumplimiento de los parámetros establecidos en el contrato de comisión, debiendo informar al consejo de administración de la sociedad operadora de fondos de inversión los resultados de la gestión, cada vez que el consejo sesione, o bien, con una frecuencia menor si las condiciones del mercado, o de las inversiones así lo requieren.
+El responsable de la [Administración integral de riesgos](articulo-1.md) de la sociedad operadora de fondos de inversión de que se trate, deberá dar seguimiento al desempeño de los comisionistas, así como al cumplimiento de los parámetros establecidos en el contrato de comisión, debiendo informar al consejo de administración de la sociedad operadora de fondos de inversión los resultados de la gestión, cada vez que el consejo sesione, o bien, con una frecuencia menor si las condiciones del mercado, o de las inversiones así lo requieren.

@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-5",
+  "strategy_version": "glossary-extraction-6",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeo",
   "source_sha256": "b19bcf104673af06117a6d4f3c947591f7a65999f19bad3dcfe2599a29bb3ab0",
   "extracted_text_sha256": "868bcb6fce3ece653cb47c736b44033c659f49ed3c5b929c9a7992b5ea11843a",
@@ -26,5 +26,5 @@
   ],
   "imports": [],
   "term_count": 8,
-  "usage_count": 350
+  "usage_count": 349
 }

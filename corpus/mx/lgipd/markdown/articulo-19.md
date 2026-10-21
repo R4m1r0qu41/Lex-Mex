@@ -17,7 +17,7 @@ source_sha256: 952f9d7ef0ed8b0efaf968bf3a002030b1705463d4c8c3d0ca7f392953caa71f
 
 # Artículo 19
 
-La Secretaría de [Comunicaciones](articulo-2.md) y Transportes promoverá el derecho de las personas con discapacidad, sin discriminación de ningún tipo, al acceso al transporte, los sistemas y las tecnologías de la información y las comunicaciones, particularmente aquellas que contribuyan a su independencia y desarrollo integral. Para estos efectos, realizará las siguientes acciones:
+La Secretaría de Comunicaciones y Transportes promoverá el derecho de las personas con discapacidad, sin discriminación de ningún tipo, al acceso al transporte, los sistemas y las tecnologías de la información y las comunicaciones, particularmente aquellas que contribuyan a su independencia y desarrollo integral. Para estos efectos, realizará las siguientes acciones:
 
 I. Establecer mecanismos de coordinación con autoridades competentes y empresas privadas, a fin de elaborar normas y programas que garanticen a las personas con discapacidad, la accesibilidad, seguridad, comodidad, calidad y funcionalidad en los medios de transporte público aéreo, terrestre y marítimo;
 

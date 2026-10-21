@@ -19,7 +19,7 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 Además de lo establecido en este Capítulo, la Federación y las [Entidades Federativas](articulo-4.md), deberán contar, al menos, con:
 
-I. El [Registro Nacional](articulo-4.md) de Detenciones, previsto en la Ley Nacional del Registro de Detenciones; Fracción reformada DOF 16-07-2025
+I. El Registro Nacional de Detenciones, previsto en la Ley Nacional del Registro de Detenciones; Fracción reformada DOF 16-07-2025
 
 II. El [Registro Nacional de Fosas](articulo-4.md), el cual deberá contar con la información respecto de las fosas comunes que existen en los cementerios y panteones de todos los municipios del país, así como de las fosas clandestinas que la [Fiscalía](articulo-4.md), así como las [Fiscalías Locales](articulo-4.md) localicen, y Fracción reformada DOF 20-05-2021, 16-07-2025
 

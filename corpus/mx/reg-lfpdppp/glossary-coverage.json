@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-5",
+  "strategy_version": "glossary-extraction-6",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-lfpdppp",
   "source_sha256": "cf0f417074e7375038e5e5ba6742e321aaf86db7cb76b83ced2775b88c28a5bb",
   "extracted_text_sha256": "b5169962570ebea2ae5f9b1eb72b8ed67654912c2708135ed6ec4cf6867b4bf2",

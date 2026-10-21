@@ -17,8 +17,8 @@ source_sha256: b01d875d525d1efbe4edf9f022f58c9afb56fb777581fc9eae1038c212e6b43c
 
 # Artículo 19
 
-La [Secretaría](articulo-4.md) de Hacienda y Crédito Público contará con un sistema de información de fideicomisos, mandatos o contratos análogos que manejen recursos públicos en el cual las dependencias y entidades inscribirán la información de la totalidad de los instrumentos a que se refiere el [artículo anterior](articulo-18.md). Asimismo, concentrará el reporte de la información respectiva, misma que se hará de conocimiento en los informes trimestrales a que se refiere la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
+La Secretaría de Hacienda y Crédito Público contará con un sistema de información de fideicomisos, mandatos o contratos análogos que manejen recursos públicos en el cual las dependencias y entidades inscribirán la información de la totalidad de los instrumentos a que se refiere el [artículo anterior](articulo-18.md). Asimismo, concentrará el reporte de la información respectiva, misma que se hará de conocimiento en los informes trimestrales a que se refiere la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
 
-La Secretaría y la Auditoría Superior de la Federación desarrollarán, en el ámbito de sus respectivas competencias, las actividades de fiscalización a todo fideicomiso, mandato o contrato análogo que maneje recursos públicos, para verificar el cumplimiento de lo dispuesto en la presente [Ley](articulo-4.md).
+La [Secretaría](articulo-4.md) y la Auditoría Superior de la Federación desarrollarán, en el ámbito de sus respectivas competencias, las actividades de fiscalización a todo fideicomiso, mandato o contrato análogo que maneje recursos públicos, para verificar el cumplimiento de lo dispuesto en la presente [Ley](articulo-4.md).
 
 Las autoridades competentes en materia de fiscalización incluirán en su planeación de auditorías, visitas e inspecciones a cualquier fideicomiso, mandato o contrato análogo que maneje recursos públicos, y darán seguimiento y evaluación rigurosa del cumplimiento de los fines para los cuales fueron constituidos.

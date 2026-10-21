@@ -34,4 +34,4 @@ V. Referencias del valor de mercado de la banda de frecuencia, tanto nacionales 
 
 VI. El cumplimiento de los objetivos señalados en los artículos 6o. y 28 de la [Constitución](articulo-3.md); así como de los establecidos en el Plan Nacional de Desarrollo y demás instrumentos programáticos.
 
-En la solicitud de opinión que formule el Instituto a la [Secretaría](articulo-3.md) de Hacienda y Crédito Público, deberá incluir, en lo aplicable, la información a que se refieren las fracciones I a VI de este artículo, así como el proyecto de contraprestación derivado del análisis de dicha información.
+En la solicitud de opinión que formule el Instituto a la Secretaría de Hacienda y Crédito Público, deberá incluir, en lo aplicable, la información a que se refieren las fracciones I a VI de este artículo, así como el proyecto de contraprestación derivado del análisis de dicha información.

@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-5",
+  "strategy_version": "glossary-extraction-6",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-lih",
   "source_sha256": "c9996a72239837b24f45f4a49c4f117b1fe2b3b9faf2c3eb0e5ce00d8a991d53",
   "extracted_text_sha256": "7415d52f0620b69fc1ca107c7b1a498fb4b32edc39c7a0f6daf3ba5caee0ed9e",

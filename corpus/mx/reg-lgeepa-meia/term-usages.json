@@ -55,6 +55,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia:article:3:term-usage:238-245",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia:term:agencia",
+    "span": "Agencia",
+    "start_char": 238,
+    "end_char": 245
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia:article:3:term-usage:2827-2830",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia:term:ley",

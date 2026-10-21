@@ -17,4 +17,4 @@ source_sha256: 3ae8175ed89c2729e71551aac6ef879dfdd3da40cc03bae6784d61951c2c284d
 
 # Artículo 19
 
-La vigilancia del [Comité Nacional](articulo-3.md) estará a cargo de un Comisario propietario y un suplente, designados por la [Secretaría](articulo-3.md) de la Función Pública; lo anterior sin perjuicio de que el Comité Nacional integre en su estructura su propio órgano interno de control.
+La vigilancia del [Comité Nacional](articulo-3.md) estará a cargo de un Comisario propietario y un suplente, designados por la Secretaría de la Función Pública; lo anterior sin perjuicio de que el Comité Nacional integre en su estructura su propio órgano interno de control.

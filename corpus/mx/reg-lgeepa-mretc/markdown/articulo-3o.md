@@ -19,7 +19,7 @@ source_sha256: 71c334347de911b670b7e920a44db19f2555f611203ec25d227733687972f424
 
 Sin perjuicio de las definiciones que establezcan otros ordenamientos jurídicos, para los efectos del presente Reglamento, se considerarán las definiciones contenidas en la [Ley](articulo-3o.md) General del Equilibrio Ecológico y la Protección al Ambiente, así como las siguientes:
 
-I. Actividades del Sector Hidrocarburos: Las actividades definidas como tal en el artículo [3](../../lansi/markdown/articulo-3o.md)o., fracción XI de la Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos; Fracción reformada DOF 31-10-2014
+I. Actividades del Sector Hidrocarburos: Las actividades definidas como tal en el artículo [3](../../lansi/markdown/articulo-3o.md)o., fracción XI de la Ley de la [Agencia](articulo-3o.md) Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos; Fracción reformada DOF 31-10-2014
 
 I Bis. Agencia: La Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos; Fracción adicionada DOF 31-10-2014
 
@@ -43,7 +43,7 @@ VIII. Establecimiento sujeto a reporte: Toda instalación que de acuerdo con la 
 
 IX. Ley: Ley General del Equilibrio Ecológico y la Protección al Ambiente;
 
-X. Reciclaje: Transformación de los residuos a través de distintos procesos que permiten restituir su valor económico, evitando así su disposición final, siempre y cuando esta restitución favorezca un ahorro de energía y materias primas sin perjuicio para la salud, los ecosistemas o sus elementos; XI. Registro: El Registro de [Emisiones](articulo-3o.md) y [Transferencia](articulo-3o.md) de Contaminantes que se integra con la información de los establecimientos sujetos a reporte sobre sus emisiones y transferencia de contaminantes al aire, agua, suelo y subsuelo, materiales y residuos, así como de aquellas sustancias que determinen las autoridades competentes, el cual será operado y administrado por la Secretaría de Medio Ambiente y Recursos Naturales, a través de la unidad administrativa correspondiente;
+X. Reciclaje: Transformación de los residuos a través de distintos procesos que permiten restituir su valor económico, evitando así su disposición final, siempre y cuando esta restitución favorezca un ahorro de energía y materias primas sin perjuicio para la salud, los ecosistemas o sus elementos; XI. Registro: El Registro de Emisiones y Transferencia de Contaminantes que se integra con la información de los establecimientos sujetos a reporte sobre sus emisiones y transferencia de contaminantes al aire, agua, suelo y subsuelo, materiales y residuos, así como de aquellas sustancias que determinen las autoridades competentes, el cual será operado y administrado por la Secretaría de Medio Ambiente y Recursos Naturales, a través de la unidad administrativa correspondiente;
 
 XII. Reutilización: El empleo de un material o residuo previamente usado, sin que medie un proceso de transformación;
 

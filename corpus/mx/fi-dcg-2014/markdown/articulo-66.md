@@ -11,7 +11,7 @@ temporal_status: unknown
 review_status: not_analyzed
 amendment_marks: [43,46]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20los%20fondos%20de%20inversi%C3%B3n%20y%20a%20las%20personas%20que%20les%20prestan%20servicios.pdf
-source_sha256: 30cec2bac3222c89d447b6e8adc7877ea45ece21dfc270ed8c963ea91649b6ee
+source_sha256: 3b21198efc7e52987a773cbcc48772185e6eadc7338673fa39bfb38ba907d07b
 ---
 
 # Artículo 66
@@ -20,9 +20,7 @@ La Comisión, podrá autorizar a los fondos de inversión criterios contables es
 
 Para efectos de lo establecido en el párrafo anterior, deberá entenderse por fenómeno natural perturbador lo referido en la Ley General de Protección Civil o la que la sustituya.
 
-Para obtener la autorización de aplicación de criterios contables especiales deberá enviarse a la Comisión por lo menos, lo siguiente:
-
-I. Descripción detallada de los criterios contables especiales solicitados, así como del periodo y área geográfica de aplicación.
+Para obtener la autorización de aplicación de criterios contables especiales deberá enviarse a la Comisión por lo menos, lo siguiente: I. Descripción detallada de los criterios contables especiales solicitados, así como del periodo y área geográfica de aplicación.
 
 II. Narrativa detallada de las afectaciones económicas que ha ocasionado o que se estima que ocasionará el fenómeno natural perturbador.
 
@@ -30,8 +28,6 @@ III. Estimación del impacto que las afectaciones económicas pudieran ocasionar
 
 IV. Explicación de cómo los criterios contables especiales coadyuvarán a reducir o prevenir las afectaciones a que hacen referencia las fracciones anteriores.
 
-La solicitud de autorización deberá enviarse a la Comisión conforme al formato contenido en el Anexo 22 de las presentes disposiciones y estar firmada con firma autógrafa, o bien, mediante firma electrónica avanzada o fiable, de conformidad con el Código de Comercio, por el representante legal de los fondos de inversión o, en su caso, por el representante legal de los organismos autorregulatorios reconocidos por la Comisión o de algún órgano de representación gremial
-
-La Comisión resolverá la solicitud de autorización a que se refiere el párrafo anterior, dentro de un plazo de sesenta días hábiles contados a partir del día siguiente a su recepción. En tanto no se notifique la resolución respectiva, los fondos de inversión deberán continuar utilizando los criterios de contabilidad establecidos en el Anexo 5 de las presentes disposiciones. Transcurrido dicho plazo sin que la Comisión emita o notifique la resolución correspondiente, se entenderá en sentido negativo y se tendrá por desestimada la solicitud.
+La solicitud de autorización deberá enviarse a la Comisión conforme al formato contenido en el Anexo 22 de las presentes disposiciones y estar firmada con firma autógrafa, o bien, mediante firma electrónica avanzada o fiable, de conformidad con el Código de Comercio, por el representante legal de los fondos de inversión o, en su caso, por el representante legal de los organismos autorregulatorios reconocidos por la Comisión o de algún órgano de representación gremial La Comisión resolverá la solicitud de autorización a que se refiere el párrafo anterior, dentro de un plazo de sesenta días hábiles contados a partir del día siguiente a su recepción. En tanto no se notifique la resolución respectiva, los fondos de inversión deberán continuar utilizando los criterios de contabilidad establecidos en el Anexo 5 de las presentes disposiciones. Transcurrido dicho plazo sin que la Comisión emita o notifique la resolución correspondiente, se entenderá en sentido negativo y se tendrá por desestimada la solicitud.
 
 La vigencia para la aplicación de los criterios contables especiales autorizados podrá prorrogarse por única ocasión por un período que no podrá exceder el plazo originalmente otorgado, cuando a juicio de la Comisión, los solicitantes acrediten que las afectaciones económicas persistan a la fecha de la solicitud de prórroga.

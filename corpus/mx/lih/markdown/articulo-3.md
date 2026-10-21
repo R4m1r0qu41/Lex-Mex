@@ -25,7 +25,7 @@ I Bis. Barril: unidad de medida equivalente a un volumen igual a 158.99 litros a
 
 II. BTU: unidad térmica británica, representa la cantidad de energía necesaria para elevar la temperatura de una libra de agua (0.4535 kilogramos) un grado Fahrenheit (0.5556 grados centígrados), en condiciones atmosféricas normales;
 
-III. Comercializador: aquel que contrate la [Secretaría](articulo-3.md) de Energía, a solicitud del [Fondo Mexicano del Petróleo](articulo-3.md), para que preste a la Nación el servicio de comercialización de Hidrocarburos que reciba el Estado como resultado de un [Contrato](articulo-3.md); Fracción reformada DOF 18-03-2025
+III. Comercializador: aquel que contrate la Secretaría de Energía, a solicitud del [Fondo Mexicano del Petróleo](articulo-3.md), para que preste a la Nación el servicio de comercialización de Hidrocarburos que reciba el Estado como resultado de un [Contrato](articulo-3.md); Fracción reformada DOF 18-03-2025
 
 IV. Condensados: líquidos del Gas Natural constituidos principalmente por pentanos y componentes de Hidrocarburos más pesados;
 
@@ -39,7 +39,7 @@ VIII. Fondo Mexicano del Petróleo: el Fondo Mexicano del Petróleo para la Esta
 
 IX. Límite de Recuperación de Costos: el resultado de multiplicar el [Porcentaje de Recuperación de Costos](articulo-3.md) por el [Valor Contractual de los Hidrocarburos](articulo-3.md). El producto de dicha multiplicación determinará la proporción máxima del Valor Contractual de los Hidrocarburos que podrá destinarse en cada [Periodo](articulo-3.md) a la recuperación de costos;
 
-X. Mecanismo de Ajuste: fórmula que establece la Secretaría en cada Contrato que aumenta las Contraprestaciones a favor del Estado, mediante la modificación de alguno de los parámetros que determinan las Contraprestaciones del Contrato. La aplicación del Mecanismo de Ajuste tiene el propósito de que el Estado Mexicano capture la rentabilidad extraordinaria que, en su caso, se genere por el Contrato; Fracción reformada DOF 07-12-2016
+X. Mecanismo de Ajuste: fórmula que establece la [Secretaría](articulo-3.md) en cada Contrato que aumenta las Contraprestaciones a favor del Estado, mediante la modificación de alguno de los parámetros que determinan las Contraprestaciones del Contrato. La aplicación del Mecanismo de Ajuste tiene el propósito de que el Estado Mexicano capture la rentabilidad extraordinaria que, en su caso, se genere por el Contrato; Fracción reformada DOF 07-12-2016
 
 XI. Periodo: mes calendario.
 

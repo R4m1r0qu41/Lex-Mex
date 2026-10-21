@@ -31,7 +31,7 @@ V. Espacios Auxiliares: el lugar de la vivienda donde se desarrollan actividades
 
 VI. Comisión: la Comisión Nacional de Vivienda; Fracción recorrida DOF 20-04-2015
 
-VII. Comisión Intersecretarial: la [Comisión](articulo-4.md) Intersecretarial de Vivienda; Fracción recorrida DOF 20-04-2015
+VII. Comisión Intersecretarial: la Comisión Intersecretarial de Vivienda; Fracción recorrida DOF 20-04-2015
 
 VIII. Consejo: el Consejo Nacional de Vivienda; Fracción recorrida DOF 20-04-2015
 

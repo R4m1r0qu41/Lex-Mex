@@ -17,7 +17,7 @@ source_sha256: db115e165edc517f5ad816da7be01e11727838a59b9e68906fe686685f4c5087
 
 # Artículo 21
 
-La [Secretaría](articulo-3.md) de Economía en coordinación con la Comisión apoyará al [Sector](articulo-3.md) a: I. Realizar campañas de promoción del [Vino Mexicano](articulo-3.md), asegurándose que las marcas participantes en estas campañas estén debidamente certificadas conforme lo establezcan las normas oficiales mexicanas aplicables al [Vino](articulo-3.md);
+La Secretaría de Economía en coordinación con la Comisión apoyará al [Sector](articulo-3.md) a: I. Realizar campañas de promoción del [Vino Mexicano](articulo-3.md), asegurándose que las marcas participantes en estas campañas estén debidamente certificadas conforme lo establezcan las normas oficiales mexicanas aplicables al [Vino](articulo-3.md);
 
 II. Difundir las normas oficiales mexicanas en donde se establezcan las características y especificaciones necesarias que deberán cumplir la elaboración de productos vitivinícolas para su comercialización;
 

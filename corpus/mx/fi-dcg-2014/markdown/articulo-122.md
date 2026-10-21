@@ -10,12 +10,12 @@ generated: true
 temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20los%20fondos%20de%20inversi%C3%B3n%20y%20a%20las%20personas%20que%20les%20prestan%20servicios.pdf
-source_sha256: 30cec2bac3222c89d447b6e8adc7877ea45ece21dfc270ed8c963ea91649b6ee
+source_sha256: 3b21198efc7e52987a773cbcc48772185e6eadc7338673fa39bfb38ba907d07b
 ---
 
 # Artículo 122
 
-El director general de las sociedades operadoras de fondos de inversión será responsable de vigilar que se mantenga la Independencia necesaria entre los responsables de la Administración integral de riesgos y las Unidades de negocios. Adicionalmente deberá adoptar las medidas siguientes:
+El director general de las sociedades operadoras de fondos de inversión será responsable de vigilar que se mantenga la [Independencia](articulo-1.md) necesaria entre los responsables de la [Administración integral de riesgos](articulo-1.md) y las [Unidades de negocios](articulo-1.md). Adicionalmente deberá adoptar las medidas siguientes:
 
 I. Establecer como mínimo programas semestrales de revisión por parte de los responsables de la Administración integral de riesgos y de las Unidades de negocios, respecto al cumplimiento de objetivos, procedimientos y controles en la celebración de operaciones, así como de los Límites de exposición y Niveles de tolerancia al riesgo de los fondos de inversión a los que presten servicios de administración de activos las sociedades operadoras de fondos de inversión.
 

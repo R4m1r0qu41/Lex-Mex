@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-5",
+  "strategy_version": "glossary-extraction-6",
   "instrument_id": "urn:lex-mx:federal:statute:lrascap",
   "source_sha256": "b47aeec8015f6cd2ccbcc51a81b3beb06b2b9b096cd738dae46bc725c8a0d644",
   "extracted_text_sha256": "ecaafe93fd37a3832ed24709fcd0f5af5abec7c4772df6c7050f2d15a7718dd2",
@@ -31,5 +31,5 @@
   ],
   "imports": [],
   "term_count": 13,
-  "usage_count": 819
+  "usage_count": 816
 }

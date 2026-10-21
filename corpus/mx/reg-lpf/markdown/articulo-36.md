@@ -43,7 +43,7 @@ XI. Someter a la consideración del Secretario General los programas de racional
 
 XII. Proponer al Secretario General los contratos y convenios vinculados con el desarrollo de las atribuciones de la Institución o relacionados con la administración de los recursos humanos, materiales y financieros que ésta tenga asignados, así como los demás actos de administración que requieran ser documentados, conforme a la normatividad vigente y signar aquellos que le faculten; XIII. Establecer las normas y procedimientos para el trámite de pago de la documentación comprobatoria de operaciones, así como supervisar su aplicación y llevar a cabo el resguardo de dicha documentación;
 
-XIV. Llevar el registro contable del ejercicio del presupuesto de la Institución, conforme a la [Ley](articulo-2.md) Federal de Presupuesto y Responsabilidad Hacendaría, el [Reglamento](articulo-2.md) de ésta última y las normas que expida la [Secretaría](articulo-2.md) de Hacienda y Crédito Público;
+XIV. Llevar el registro contable del ejercicio del presupuesto de la Institución, conforme a la [Ley](articulo-2.md) Federal de Presupuesto y Responsabilidad Hacendaría, el [Reglamento](articulo-2.md) de ésta última y las normas que expida la Secretaría de Hacienda y Crédito Público;
 
 XV. Proponer las actualizaciones a los Manuales de Organización y Procedimientos, y establecer los lineamientos para la elaboración y actualización de los demás instrumentos de apoyo administrativo interno necesarios para la operación y funcionamiento de las unidades de la misma, así como brindar la asesoría técnica en la materia;
 
@@ -71,7 +71,7 @@ XXVI. Administrar el patrimonio inmobiliario asignado a la Institución;
 
 XXVII. Facilitar la infraestructura, equipo y material para el registro, imposición y descarga de las sanciones por infracciones en materia de tránsito de vehículos, por violación a las disposiciones legales y reglamentarias relativas al uso y aprovechamiento de la zona terrestre de las vías generales de comunicación, así como de aquellas relativas a la operación de los servicios de autotransporte federal, sus servicios auxiliares y transporte privado;
 
-XXVIII. Registrar y llevar el control de los montos a que ascienden las sanciones impuestas por violación a las disposiciones legales y reglamentarias en materia de tránsito, autotransporte federal, sus servicios auxiliares y transporte privado, cuando los vehículos circulen en la zona terrestre de las vías generales de comunicación, así como el monto a que ascienden los recursos que se destinan a la Secretaría, de conformidad con las disposiciones aplicables;
+XXVIII. Registrar y llevar el control de los montos a que ascienden las sanciones impuestas por violación a las disposiciones legales y reglamentarias en materia de tránsito, autotransporte federal, sus servicios auxiliares y transporte privado, cuando los vehículos circulen en la zona terrestre de las vías generales de comunicación, así como el monto a que ascienden los recursos que se destinan a la [Secretaría](articulo-2.md), de conformidad con las disposiciones aplicables;
 
 XXIX. Gestionar ante la Secretaría la entrega de los ingresos que se perciban por concepto de multas impuestas con motivo de infracciones por violaciones a las disposiciones legales y reglamentarias relativas al tránsito de vehículos en la zona terrestre en las vías generales de comunicación;
 

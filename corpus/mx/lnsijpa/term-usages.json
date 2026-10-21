@@ -46,15 +46,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnsijpa:article:2:term-usage:102-114",
-    "provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lnsijpa:term:adolescente",
-    "span": "Adolescentes",
-    "start_char": 102,
-    "end_char": 114
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lnsijpa:article:2:term-usage:351-358",
     "provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:2",
     "term_id": "urn:lex-mx:federal:statute:lnsijpa:term:sistema",
@@ -64,30 +55,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnsijpa:article:2:term-usage:391-403",
-    "provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lnsijpa:term:adolescente",
-    "span": "Adolescentes",
-    "start_char": 391,
-    "end_char": 403
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lnsijpa:article:2:term-usage:546-553",
     "provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:2",
     "term_id": "urn:lex-mx:federal:statute:lnsijpa:term:sistema",
     "span": "Sistema",
     "start_char": 546,
     "end_char": 553
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnsijpa:article:2:term-usage:586-598",
-    "provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lnsijpa:term:adolescente",
-    "span": "Adolescentes",
-    "start_char": 586,
-    "end_char": 598
   },
   {
     "schema_version": "0.1.0",
@@ -118,21 +91,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnsijpa:article:3:term-usage:945-957",
-    "provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lnsijpa:term:adolescente",
-    "span": "Adolescentes",
-    "start_char": 945,
-    "end_char": 957
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lnsijpa:article:3:term-usage:982-985",
     "provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:3",
     "term_id": "urn:lex-mx:federal:statute:lnsijpa:term:ley",
     "span": "Ley",
     "start_char": 982,
     "end_char": 985
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnsijpa:article:3:term-usage:2089-2096",
+    "provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lnsijpa:term:sistema",
+    "span": "Sistema",
+    "start_char": 2089,
+    "end_char": 2096
   },
   {
     "schema_version": "0.1.0",
@@ -145,30 +118,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnsijpa:article:3:term-usage:2499-2511",
-    "provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lnsijpa:term:adolescente",
-    "span": "Adolescentes",
-    "start_char": 2499,
-    "end_char": 2511
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lnsijpa:article:3:term-usage:2653-2660",
     "provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:3",
     "term_id": "urn:lex-mx:federal:statute:lnsijpa:term:sistema",
     "span": "Sistema",
     "start_char": 2653,
     "end_char": 2660
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnsijpa:article:3:term-usage:2693-2705",
-    "provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lnsijpa:term:adolescente",
-    "span": "Adolescentes",
-    "start_char": 2693,
-    "end_char": 2705
   },
   {
     "schema_version": "0.1.0",
@@ -214,15 +169,6 @@
     "span": "Ley General",
     "start_char": 3858,
     "end_char": 3869
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnsijpa:article:3:term-usage:3928-3940",
-    "provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lnsijpa:term:adolescente",
-    "span": "Adolescentes",
-    "start_char": 3928,
-    "end_char": 3940
   },
   {
     "schema_version": "0.1.0",
@@ -502,15 +448,6 @@
     "span": "Sistema",
     "start_char": 595,
     "end_char": 602
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnsijpa:article:23:term-usage:635-647",
-    "provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:23",
-    "term_id": "urn:lex-mx:federal:statute:lnsijpa:term:adolescente",
-    "span": "Adolescentes",
-    "start_char": 635,
-    "end_char": 647
   },
   {
     "schema_version": "0.1.0",
@@ -964,30 +901,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnsijpa:article:63:term-usage:75-87",
-    "provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:63",
-    "term_id": "urn:lex-mx:federal:statute:lnsijpa:term:adolescente",
-    "span": "Adolescentes",
-    "start_char": 75,
-    "end_char": 87
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lnsijpa:article:63:term-usage:91-98",
     "provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:63",
     "term_id": "urn:lex-mx:federal:statute:lnsijpa:term:sistema",
     "span": "Sistema",
     "start_char": 91,
     "end_char": 98
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnsijpa:article:63:term-usage:131-143",
-    "provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:63",
-    "term_id": "urn:lex-mx:federal:statute:lnsijpa:term:adolescente",
-    "span": "Adolescentes",
-    "start_char": 131,
-    "end_char": 143
   },
   {
     "schema_version": "0.1.0",
@@ -1045,15 +964,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnsijpa:article:64:term-usage:444-456",
-    "provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:64",
-    "term_id": "urn:lex-mx:federal:statute:lnsijpa:term:adolescente",
-    "span": "Adolescentes",
-    "start_char": 444,
-    "end_char": 456
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lnsijpa:article:64:term-usage:745-752",
     "provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:64",
     "term_id": "urn:lex-mx:federal:statute:lnsijpa:term:sistema",
@@ -1069,15 +979,6 @@
     "span": "Sistema",
     "start_char": 146,
     "end_char": 153
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnsijpa:article:65:term-usage:186-198",
-    "provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:65",
-    "term_id": "urn:lex-mx:federal:statute:lnsijpa:term:adolescente",
-    "span": "Adolescentes",
-    "start_char": 186,
-    "end_char": 198
   },
   {
     "schema_version": "0.1.0",
@@ -1405,15 +1306,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnsijpa:article:71:term-usage:992-1004",
-    "provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:71",
-    "term_id": "urn:lex-mx:federal:statute:lnsijpa:term:adolescente",
-    "span": "Adolescentes",
-    "start_char": 992,
-    "end_char": 1004
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lnsijpa:article:71:term-usage:1034-1069",
     "provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:71",
     "term_id": "urn:lex-mx:federal:statute:lnsijpa:term:plan-individualizado-de-actividades",
@@ -1594,15 +1486,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnsijpa:article:74:term-usage:70-77",
-    "provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:74",
-    "term_id": "urn:lex-mx:federal:statute:lnsijpa:term:sistema",
-    "span": "Sistema",
-    "start_char": 70,
-    "end_char": 77
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lnsijpa:article:74:term-usage:1619-1626",
     "provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:74",
     "term_id": "urn:lex-mx:federal:statute:lnsijpa:term:sistema",
@@ -1636,15 +1519,6 @@
     "span": "Sistema",
     "start_char": 2048,
     "end_char": 2055
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnsijpa:article:74:term-usage:2088-2100",
-    "provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:74",
-    "term_id": "urn:lex-mx:federal:statute:lnsijpa:term:adolescente",
-    "span": "Adolescentes",
-    "start_char": 2088,
-    "end_char": 2100
   },
   {
     "schema_version": "0.1.0",
@@ -1765,15 +1639,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnsijpa:article:78:term-usage:793-800",
-    "provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:78",
-    "term_id": "urn:lex-mx:federal:statute:lnsijpa:term:sistema",
-    "span": "Sistema",
-    "start_char": 793,
-    "end_char": 800
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lnsijpa:article:78:term-usage:851-863",
     "provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:78",
     "term_id": "urn:lex-mx:federal:statute:lnsijpa:term:adolescente",
@@ -1816,15 +1681,6 @@
     "span": "Sistema",
     "start_char": 85,
     "end_char": 92
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnsijpa:article:80:term-usage:125-137",
-    "provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:80",
-    "term_id": "urn:lex-mx:federal:statute:lnsijpa:term:adolescente",
-    "span": "Adolescentes",
-    "start_char": 125,
-    "end_char": 137
   },
   {
     "schema_version": "0.1.0",
@@ -3511,15 +3367,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnsijpa:transitory:primero:term-usage:522-534",
-    "provision_id": "urn:lex-mx:federal:statute:lnsijpa:transitory:primero",
-    "term_id": "urn:lex-mx:federal:statute:lnsijpa:term:adolescente",
-    "span": "Adolescentes",
-    "start_char": 522,
-    "end_char": 534
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lnsijpa:transitory:segundo:term-usage:24-27",
     "provision_id": "urn:lex-mx:federal:statute:lnsijpa:transitory:segundo",
     "term_id": "urn:lex-mx:federal:statute:lnsijpa:term:ley",
@@ -3637,15 +3484,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnsijpa:transitory:noveno:term-usage:370-382",
-    "provision_id": "urn:lex-mx:federal:statute:lnsijpa:transitory:noveno",
-    "term_id": "urn:lex-mx:federal:statute:lnsijpa:term:adolescente",
-    "span": "Adolescentes",
-    "start_char": 370,
-    "end_char": 382
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lnsijpa:transitory:noveno:term-usage:428-435",
     "provision_id": "urn:lex-mx:federal:statute:lnsijpa:transitory:noveno",
     "term_id": "urn:lex-mx:federal:statute:lnsijpa:term:sistema",
@@ -3679,15 +3517,6 @@
     "span": "Sistema",
     "start_char": 108,
     "end_char": 115
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnsijpa:transitory:decimo-primero:term-usage:148-160",
-    "provision_id": "urn:lex-mx:federal:statute:lnsijpa:transitory:decimo-primero",
-    "term_id": "urn:lex-mx:federal:statute:lnsijpa:term:adolescente",
-    "span": "Adolescentes",
-    "start_char": 148,
-    "end_char": 160
   },
   {
     "schema_version": "0.1.0",
@@ -3751,15 +3580,6 @@
     "span": "Ley",
     "start_char": 158,
     "end_char": 161
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnsijpa:transitory:decimo-cuarto:term-usage:278-285",
-    "provision_id": "urn:lex-mx:federal:statute:lnsijpa:transitory:decimo-cuarto",
-    "term_id": "urn:lex-mx:federal:statute:lnsijpa:term:sistema",
-    "span": "Sistema",
-    "start_char": 278,
-    "end_char": 285
   },
   {
     "schema_version": "0.1.0",

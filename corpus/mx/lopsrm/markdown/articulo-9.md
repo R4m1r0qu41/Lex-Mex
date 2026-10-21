@@ -17,6 +17,6 @@ source_sha256: b760b87cb82b23955e149500a1a832a608029ca814f0653b1430f6948d33e9f5
 
 # Artículo 9
 
-Atendiendo a las disposiciones de esta Ley y a las demás que de ella emanen, la [Secretaría](articulo-2.md) de Economía dictará las reglas que deban observar las dependencias y entidades, derivadas de programas que tengan por objeto promover la participación de las empresas nacionales, especialmente de las micro, pequeñas y medianas. Reforma DOF 16-04-2025: Derogó del artículo el entonces párrafo segundo
+Atendiendo a las disposiciones de esta Ley y a las demás que de ella emanen, la Secretaría de Economía dictará las reglas que deban observar las dependencias y entidades, derivadas de programas que tengan por objeto promover la participación de las empresas nacionales, especialmente de las micro, pequeñas y medianas. Reforma DOF 16-04-2025: Derogó del artículo el entonces párrafo segundo
 
 Artículo reformado DOF 28-05-2009

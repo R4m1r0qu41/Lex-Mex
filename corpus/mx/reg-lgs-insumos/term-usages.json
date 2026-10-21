@@ -451,15 +451,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:17:term-usage:1041-1051",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:17",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 1041,
-    "end_char": 1051
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:18:term-usage:213-218",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:18",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:term:normas",
@@ -2365,15 +2356,6 @@
     "span": "Insumos",
     "start_char": 519,
     "end_char": 526
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:162:term-usage:303-313",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:162",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 303,
-    "end_char": 313
   },
   {
     "schema_version": "0.1.0",

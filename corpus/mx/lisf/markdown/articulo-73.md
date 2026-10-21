@@ -17,7 +17,7 @@ source_sha256: 1e049d88e21ced9b995b6727c474bcffdfd4e1a0dd4d09d2bb41ce994fe08416
 
 # Artículo 73
 
-Las [Instituciones de Seguros](articulo-2.md) autorizadas para operar el ramo de salud deberán contar con un contralor médico, el cual será nombrado por el consejo de administración y ratificado por la [Secretaría](articulo-2.md) de Salud de acuerdo a los criterios que emita dicha Secretaría, en donde se tomarán en cuenta, entre otros requisitos: la experiencia y conocimientos médicos; no tener parentesco por consanguinidad hasta el segundo grado, o afinidad, con el director general de la [Institución](articulo-2.md); y no encontrarse en ninguno de los supuestos a que se refieren los incisos b) a h) de la fracción III del artículo [56](articulo-56.md) de esta Ley.
+Las [Instituciones de Seguros](articulo-2.md) autorizadas para operar el ramo de salud deberán contar con un contralor médico, el cual será nombrado por el consejo de administración y ratificado por la Secretaría de Salud de acuerdo a los criterios que emita dicha [Secretaría](articulo-2.md), en donde se tomarán en cuenta, entre otros requisitos: la experiencia y conocimientos médicos; no tener parentesco por consanguinidad hasta el segundo grado, o afinidad, con el director general de la [Institución](articulo-2.md); y no encontrarse en ninguno de los supuestos a que se refieren los incisos b) a h) de la fracción III del artículo [56](articulo-56.md) de esta Ley.
 
 El contralor médico deberá, entre otras actividades, supervisar:
 

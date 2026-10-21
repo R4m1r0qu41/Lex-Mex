@@ -2305,15 +2305,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:47:term-usage:3437-3444",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:47",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:consejo",
-    "span": "Consejo",
-    "start_char": 3437,
-    "end_char": 3444
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:47:term-usage:3857-3869",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:47",
     "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:delegaciones",
@@ -2845,15 +2836,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:55:term-usage:1796-1803",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:55",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:consejo",
-    "span": "Consejo",
-    "start_char": 1796,
-    "end_char": 1803
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:56:term-usage:236-248",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:56",
     "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
@@ -2905,15 +2887,6 @@
     "span": "Constitución",
     "start_char": 1755,
     "end_char": 1767
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:56:term-usage:2025-2032",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:56",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:consejo",
-    "span": "Consejo",
-    "start_char": 2025,
-    "end_char": 2032
   },
   {
     "schema_version": "0.1.0",
@@ -2977,15 +2950,6 @@
     "span": "Delegaciones",
     "start_char": 2961,
     "end_char": 2973
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:57:term-usage:3567-3574",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:57",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:consejo",
-    "span": "Consejo",
-    "start_char": 3567,
-    "end_char": 3574
   },
   {
     "schema_version": "0.1.0",
@@ -3067,15 +3031,6 @@
     "span": "Delegaciones",
     "start_char": 2844,
     "end_char": 2856
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:61:term-usage:3582-3589",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:61",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:consejo",
-    "span": "Consejo",
-    "start_char": 3582,
-    "end_char": 3589
   },
   {
     "schema_version": "0.1.0",
@@ -3400,15 +3355,6 @@
     "span": "Delegaciones",
     "start_char": 944,
     "end_char": 956
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:77:term-usage:1059-1066",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:77",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:consejo",
-    "span": "Consejo",
-    "start_char": 1059,
-    "end_char": 1066
   },
   {
     "schema_version": "0.1.0",

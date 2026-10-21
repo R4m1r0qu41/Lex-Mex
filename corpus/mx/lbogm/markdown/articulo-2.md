@@ -25,7 +25,7 @@ II. Definir los principios y la política nacional en materia de bioseguridad de
 
 III. Determinar las competencias de las diversas dependencias de la Administración Pública Federal en materia de bioseguridad de los OGMs; IV. Establecer las bases para la celebración de convenios o acuerdos de coordinación entre la Federación, por conducto de las [Secretarías](articulo-3.md) competentes y los gobiernos de las entidades federativas, para el mejor cumplimiento del objeto de esta Ley;
 
-V. Establecer las bases para el funcionamiento de la Comisión Intersecretarial de [Bioseguridad](articulo-3.md) de los [Organismos](articulo-3.md) Genéticamente Modificados, a través de la cual las Secretarías que la integran deban colaborar de manera coordinada, en el ámbito de sus competencias, en lo relativo a la bioseguridad de los organismos genéticamente modificados;
+V. Establecer las bases para el funcionamiento de la Comisión Intersecretarial de Bioseguridad de los Organismos Genéticamente Modificados, a través de la cual las Secretarías que la integran deban colaborar de manera coordinada, en el ámbito de sus competencias, en lo relativo a la bioseguridad de los organismos genéticamente modificados;
 
 VI. Establecer procedimientos administrativos y criterios para la evaluación y el monitoreo de los posibles riesgos que puedan ocasionar las actividades con organismos genéticamente modificados en la salud humana o en el medio ambiente y la diversidad biológica o en la sanidad animal, vegetal o acuícola;
 
@@ -35,7 +35,7 @@ VIII. Establecer el régimen de avisos para la realización de actividades de ut
 
 IX. Establecer el régimen de las autorizaciones de la Secretaría de Salud de organismos genéticamente modificados que se determinan en esta Ley;
 
-X. Crear y desarrollar el Sistema Nacional de Información sobre Bioseguridad y el [Registro](articulo-3.md) Nacional de Bioseguridad de los Organismos Genéticamente Modificados;
+X. Crear y desarrollar el Sistema Nacional de Información sobre [Bioseguridad](articulo-3.md) y el [Registro](articulo-3.md) Nacional de Bioseguridad de los Organismos Genéticamente Modificados;
 
 XI. Determinar las bases para el establecimiento caso por caso de áreas geográficas libres de OGMs en las que se prohíba y aquellas en las que se restrinja la realización de actividades con determinados organismos genéticamente modificados, así como de cultivos de los cuales México sea centro de origen, en especial del maíz, que mantendrá un régimen de protección especial;
 

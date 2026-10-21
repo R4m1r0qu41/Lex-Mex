@@ -34,7 +34,7 @@ IV. Designar a los funcionarios del Instituto que se determinen en el estatuto o
 
 V. Vigilar que los funcionarios y empleados del Instituto actúen con apego a esta [Ley](articulo-3.md), así como a lo dispuesto en el estatuto orgánico y los reglamentos que expida;
 
-VI. Aprobar anualmente el anteproyecto de presupuesto del Instituto que le proponga el Comisionado Presidente, para que éste lo remita, una vez aprobado, al titular de la [Secretaría](articulo-3.md) de Hacienda y Crédito Público, a fin de incluirse en el proyecto de Presupuesto de Egresos de la Federación; VII. Aprobar y publicar el programa anual de trabajo del Instituto que le presente el Comisionado Presidente;
+VI. Aprobar anualmente el anteproyecto de presupuesto del Instituto que le proponga el Comisionado Presidente, para que éste lo remita, una vez aprobado, al titular de la Secretaría de Hacienda y Crédito Público, a fin de incluirse en el proyecto de Presupuesto de Egresos de la Federación; VII. Aprobar y publicar el programa anual de trabajo del Instituto que le presente el Comisionado Presidente;
 
 VIII. Aprobar los informes trimestrales de actividades del Instituto que le presente el Comisionado Presidente;
 

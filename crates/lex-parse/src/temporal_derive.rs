@@ -208,6 +208,32 @@ pub fn derive_article_temporal_determinations(
         }
     }
 
+    // Rule A, partial: the parser classifies an article whose opening note
+    // repeals only named paragraphs or fractions as `PartiallyRepealed` and
+    // records that scope. Promote it like a whole repeal only while the note
+    // still reads as exactly the recorded scope; the remaining text's
+    // commencement is not derived here (ltfccg 16 lost its provenance on
+    // reparse, Codex review 2026-10-20).
+    for provision in provisions {
+        if provision.provision_type == ProvisionType::Article
+            && provision.review_status == ReviewStatus::NotAnalyzed
+            && provision.temporal_status == TemporalStatus::PartiallyRepealed
+            && !provision.repeals.is_empty()
+            && crate::initial_repeals(&provision.text) == provision.repeals
+        {
+            determinations.push(determination(
+                provision,
+                instrument,
+                TemporalStatus::PartiallyRepealed,
+                None,
+                1.0,
+                vec![
+                    "text opens with a partial repeal note matching its recorded scope".to_owned(),
+                ],
+            ));
+        }
+    }
+
     // Rule B: resolve the instrument's own commencement, then apply it to
     // every remaining untouched, non-repealed article.
     let ordinary_transitories: Vec<&Provision> = provisions
@@ -710,6 +736,46 @@ mod tests {
         assert_eq!(provisions[1].temporal_status, TemporalStatus::Repealed);
         assert_eq!(provisions[2].temporal_status, TemporalStatus::Repealed);
         assert_eq!(repair_partial_repeals(&mut provisions), 0);
+    }
+
+    #[test]
+    fn a_parsed_partial_repeal_is_promoted_only_while_its_note_matches_its_scope() {
+        let inst = instrument(date(2002, 12, 30));
+        let text =
+            "(Se deroga el primer párrafo). Párrafo derogado DOF 15-06-2007\n\nTexto vigente.";
+        let mut partial = article("16", text);
+        partial.temporal_status = TemporalStatus::PartiallyRepealed;
+        partial.repeals = crate::initial_repeals(text);
+        let mut widened = partial.clone();
+        widened.id.push_str("-widened");
+        widened.repeals[0].ordinals.push("2".to_owned());
+        let mut reviewed = partial.clone();
+        reviewed.id.push_str("-reviewed");
+        reviewed.review_status = ReviewStatus::LawyerVerified;
+        let mut provisions = vec![partial, widened, reviewed];
+
+        let outcome = derive_article_temporal_determinations(&inst, &provisions, date(2026, 1, 1));
+        let promoted: Vec<&str> = outcome
+            .determinations
+            .iter()
+            .map(|determination| determination.provision_id.as_str())
+            .collect();
+        assert_eq!(promoted, [provisions[0].id.as_str()]);
+        let determination = &outcome.determinations[0];
+        assert_eq!(
+            determination.temporal_status,
+            TemporalStatus::PartiallyRepealed
+        );
+        assert_eq!(determination.effective_from, None);
+        assert!((determination.confidence - 1.0).abs() < f32::EPSILON);
+
+        lex_core::apply_temporal_determinations(&mut provisions, &outcome.determinations);
+        assert_eq!(provisions[0].review_status, ReviewStatus::MachineAccepted);
+        assert_eq!(provisions[0].temporal_basis, Some(Basis::DeterministicRule));
+        assert_eq!(provisions[0].repeals, crate::initial_repeals(text));
+        // Deriving again changes nothing: the article is no longer untouched.
+        let again = derive_article_temporal_determinations(&inst, &provisions, date(2026, 1, 1));
+        assert!(again.determinations.is_empty());
     }
 
     #[test]

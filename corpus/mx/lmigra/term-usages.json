@@ -388,15 +388,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmigra:article:18:term-usage:992-1002",
-    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:18",
-    "term_id": "urn:lex-mx:federal:statute:lmigra:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 992,
-    "end_char": 1002
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lmigra:article:18:term-usage:1124-1134",
     "provision_id": "urn:lex-mx:federal:statute:lmigra:article:18",
     "term_id": "urn:lex-mx:federal:statute:lmigra:term:reglamento",
@@ -430,15 +421,6 @@
     "span": "Reglamento",
     "start_char": 1507,
     "end_char": 1517
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmigra:article:18:term-usage:1546-1556",
-    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:18",
-    "term_id": "urn:lex-mx:federal:statute:lmigra:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 1546,
-    "end_char": 1556
   },
   {
     "schema_version": "0.1.0",
@@ -610,15 +592,6 @@
     "span": "Reglamento",
     "start_char": 2330,
     "end_char": 2340
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmigra:article:21:term-usage:3-13",
-    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:21",
-    "term_id": "urn:lex-mx:federal:statute:lmigra:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 3,
-    "end_char": 13
   },
   {
     "schema_version": "0.1.0",
@@ -898,15 +871,6 @@
     "span": "Reglamento",
     "start_char": 505,
     "end_char": 515
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmigra:article:27:term-usage:17-27",
-    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:27",
-    "term_id": "urn:lex-mx:federal:statute:lmigra:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 17,
-    "end_char": 27
   },
   {
     "schema_version": "0.1.0",
@@ -1276,15 +1240,6 @@
     "span": "Secretaría",
     "start_char": 2838,
     "end_char": 2848
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmigra:article:40:term-usage:2854-2864",
-    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:40",
-    "term_id": "urn:lex-mx:federal:statute:lmigra:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 2854,
-    "end_char": 2864
   },
   {
     "schema_version": "0.1.0",
@@ -2131,15 +2086,6 @@
     "span": "Instituto",
     "start_char": 295,
     "end_char": 304
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmigra:article:81:term-usage:510-520",
-    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:81",
-    "term_id": "urn:lex-mx:federal:statute:lmigra:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 510,
-    "end_char": 520
   },
   {
     "schema_version": "0.1.0",
@@ -3049,15 +2995,6 @@
     "span": "Secretaría",
     "start_char": 3,
     "end_char": 13
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmigra:article:116:term-usage:38-48",
-    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:116",
-    "term_id": "urn:lex-mx:federal:statute:lmigra:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 38,
-    "end_char": 48
   },
   {
     "schema_version": "0.1.0",

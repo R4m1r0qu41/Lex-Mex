@@ -46,30 +46,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:4:term-usage:408-418",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:4",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 408,
-    "end_char": 418
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:6:term-usage:71-81",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:6",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
     "span": "Secretaría",
     "start_char": 71,
     "end_char": 81
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:6:term-usage:188-198",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:6",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 188,
-    "end_char": 198
   },
   {
     "schema_version": "0.1.0",
@@ -871,15 +853,6 @@
     "span": "Registros",
     "start_char": 183,
     "end_char": 192
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:42:term-usage:254-262",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:42",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:registro",
-    "span": "Registro",
-    "start_char": 254,
-    "end_char": 262
   },
   {
     "schema_version": "0.1.0",
@@ -2221,15 +2194,6 @@
     "span": "Secretaría",
     "start_char": 133,
     "end_char": 143
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:138:term-usage:167-177",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:138",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 167,
-    "end_char": 177
   },
   {
     "schema_version": "0.1.0",

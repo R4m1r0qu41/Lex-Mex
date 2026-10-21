@@ -31,7 +31,7 @@ V. Seguridad Pública.
 
 Lo anterior, no será aplicable cuando dichos fideicomisos o mandatos se encuentren previstos en ley, decreto o tratado internacional.
 
-Para los demás casos, los entes públicos de la Administración Pública Federal sólo podrán constituir fideicomisos o mandatos cuando sean autorizados por la [Secretaría](articulo-4.md) de Hacienda y Crédito Público, en términos de lo previsto en la [Ley](articulo-4.md) Federal del Presupuesto y Responsabilidad Hacendaria.
+Para los demás casos, los entes públicos de la Administración Pública Federal sólo podrán constituir fideicomisos o mandatos cuando sean autorizados por la Secretaría de Hacienda y Crédito Público, en términos de lo previsto en la [Ley](articulo-4.md) Federal del Presupuesto y Responsabilidad Hacendaria.
 
 Bajo ninguna circunstancia se podrán hacer aportaciones, transferencias, o pagos de cualquier naturaleza utilizando instrumentos que permitan evadir las reglas de disciplina financiera, transparencia y fiscalización del gasto.
 

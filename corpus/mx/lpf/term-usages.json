@@ -55,15 +55,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpf:article:4:term-usage:637-647",
-    "provision_id": "urn:lex-mx:federal:statute:lpf:article:4",
-    "term_id": "urn:lex-mx:federal:statute:lpf:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 637,
-    "end_char": 647
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lpf:article:6:term-usage:267-277",
     "provision_id": "urn:lex-mx:federal:statute:lpf:article:6",
     "term_id": "urn:lex-mx:federal:statute:lpf:term:secretario",

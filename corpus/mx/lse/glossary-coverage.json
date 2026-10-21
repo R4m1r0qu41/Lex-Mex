@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-5",
+  "strategy_version": "glossary-extraction-6",
   "instrument_id": "urn:lex-mx:federal:statute:lse",
   "source_sha256": "aa96853f010885bdf85160e944e5c0ef5c3c8e95422dfede280d228cf064310a",
   "extracted_text_sha256": "83fe97bfaf93bbfe5f4d17c6c1583872b758bf21634c58bd70133b6ba37b8667",
@@ -84,5 +84,5 @@
   ],
   "imports": [],
   "term_count": 66,
-  "usage_count": 1819
+  "usage_count": 1789
 }

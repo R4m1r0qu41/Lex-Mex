@@ -43,7 +43,7 @@ i) Consejo Nacional para Prevenir la Discriminación;
 
 j) Consejo Nacional para la Cultura y las Artes;
 
-k) Fondo Nacional de Fomento al [Turismo](articulo-2.md);
+k) Fondo Nacional de Fomento al Turismo;
 
 l) Instituto Nacional de Antropología e Historia;
 

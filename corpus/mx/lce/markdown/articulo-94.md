@@ -43,4 +43,4 @@ XI. Que concluyan la investigación a que se refiere la fracción IV del artícu
 
 XII. Que impongan las sanciones a que se refiere esta Ley. Fracción reformada DOF 13-03-2003 (se recorre)
 
-Los recursos de revocación contra las resoluciones en materia de certificación de origen y los actos que apliquen cuotas compensatorias definitivas, se impondrán ante la [Secretaría](articulo-3o.md) de Hacienda y Crédito Público. En los demás casos, el recurso se interpondrá ante la Secretaría.
+Los recursos de revocación contra las resoluciones en materia de certificación de origen y los actos que apliquen cuotas compensatorias definitivas, se impondrán ante la Secretaría de Hacienda y Crédito Público. En los demás casos, el recurso se interpondrá ante la [Secretaría](articulo-3o.md).

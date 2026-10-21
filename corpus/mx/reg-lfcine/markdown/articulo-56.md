@@ -19,7 +19,7 @@ source_sha256: f3f010bc7f5a510b084b5d43ef56a567e9b02b2083c36e50a9d0e8955af28cd6
 
 El Comité Técnico, que se integrará en los términos del artículo 37 de la [Ley](articulo-3.md), será la máxima autoridad del [FIDECINE](articulo-3.md) y sujetará su actuación a las disposiciones jurídicas aplicables. Sus integrantes y sus parientes consanguíneos o por afinidad hasta en tercer grado, no podrán obtener créditos o apoyos del FIDECINE para proyectos personales o de las empresas en que tengan participación directa o indirectamente.
 
-Corresponde al Titular de la [Secretaría](articulo-3.md) de Hacienda y Crédito Público y al del [IMCINE](articulo-3.md) designar a sus respectivos representantes ante el Comité Técnico, los cuales no tendrán rango menor al de Director General en la dependencia o entidad de que se trate.
+Corresponde al Titular de la Secretaría de Hacienda y Crédito Público y al del [IMCINE](articulo-3.md) designar a sus respectivos representantes ante el Comité Técnico, los cuales no tendrán rango menor al de Director General en la dependencia o entidad de que se trate.
 
 En el caso de asociaciones, cámaras u otras agrupaciones de productores, exhibidores o distribuidores, el nombramiento del representante respectivo ante el Comité Técnico, se realizará en los términos que las mismas determinen. La acreditación del representante será mediante documento en el que conste la conformidad de la mayoría de los integrantes del sector.
 

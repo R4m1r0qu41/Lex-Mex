@@ -10,16 +10,16 @@ generated: true
 temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20los%20fondos%20de%20inversi%C3%B3n%20y%20a%20las%20personas%20que%20les%20prestan%20servicios.pdf
-source_sha256: 30cec2bac3222c89d447b6e8adc7877ea45ece21dfc270ed8c963ea91649b6ee
+source_sha256: 3b21198efc7e52987a773cbcc48772185e6eadc7338673fa39bfb38ba907d07b
 ---
 
 # Artículo 127
 
-Las sociedades operadoras de fondos de inversión deberán llevar a cabo cuando menos una vez al año o al cierre de cada ejercicio, una auditoría interna de Administración integral de riesgos que contemple, entre otros, los aspectos siguientes:
+Las sociedades operadoras de fondos de inversión deberán llevar a cabo cuando menos una vez al año o al cierre de cada ejercicio, una auditoría interna de [Administración integral de riesgos](articulo-1.md) que contemple, entre otros, los aspectos siguientes:
 
 I. El desarrollo de la Administración integral de riesgos de conformidad con lo establecido en las presentes disposiciones, con los objetivos, lineamientos y políticas en la materia aplicables, así como con los manuales para la Administración integral de riesgos a que se refiere el último párrafo del artículo [129](articulo-129.md) de las presentes disposiciones.
 
-II. La Independencia del responsable de la Administración integral de riesgos respecto de las Unidades de negocios.
+II. La [Independencia](articulo-1.md) del responsable de la Administración integral de riesgos respecto de las [Unidades de negocios](articulo-1.md).
 
 III. La suficiencia, integridad, consistencia, validez y oportunidad de las fuentes y los sistemas informáticos utilizados para el análisis de riesgos, así como las bases de datos utilizadas en los modelos de medición.
 

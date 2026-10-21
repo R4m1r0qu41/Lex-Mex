@@ -19,7 +19,7 @@ source_sha256: 4ff895e3a71cad0980a03360585d24750d7e165b6ea2537fc44c5c05f9142ce7
 
 El análisis sobre el impacto ambiental, asentamientos humanos y desarrollo urbano previsto en el artículo 14, fracción V de la Ley tendrá los dos apartados siguientes:
 
-I. El de viabilidad ambiental, respecto del cual se solicitará la opinión de la [Secretaría](articulo-11.md) de Medio Ambiente y Recursos Naturales y, en su caso, de las autoridades ambientales estatales y municipales, sobre los aspectos a que se refiere el artículo [15](articulo-15.md), fracción I, de la propia Ley.
+I. El de viabilidad ambiental, respecto del cual se solicitará la opinión de la Secretaría de Medio Ambiente y Recursos Naturales y, en su caso, de las autoridades ambientales estatales y municipales, sobre los aspectos a que se refiere el artículo [15](articulo-15.md), fracción I, de la propia Ley.
 
 La solicitud a la Secretaría de Medio Ambiente y Recursos Naturales deberá contener:
 
@@ -45,6 +45,6 @@ c) Relación de los ordenamientos sobre el uso del suelo en los predios pretendi
 
 La Secretaría de Desarrollo Agrario, Territorial y Urbano analizará la información señalada en los incisos anteriores y emitirá su opinión en un plazo de veinte días hábiles, contado a partir del siguiente en que reciba la solicitud. Párrafo reformado DOF 20-02-2017
 
-La opinión de la citada Secretaría enumerará las autorizaciones necesarias para el desarrollo del proyecto, y señalará si se cumple con los aspectos mínimos indispensable sobre su viabilidad en tales materias. La opinión favorable no supone autorización alguna, ni exime de la obligación de tramitar las que resulten necesarias de conformidad con las disposiciones aplicables.
+La opinión de la citada [Secretaría](articulo-11.md) enumerará las autorizaciones necesarias para el desarrollo del proyecto, y señalará si se cumple con los aspectos mínimos indispensable sobre su viabilidad en tales materias. La opinión favorable no supone autorización alguna, ni exime de la obligación de tramitar las que resulten necesarias de conformidad con las disposiciones aplicables.
 
 El análisis sobre el impacto ambiental, asentamientos humanos y desarrollo urbano previsto en el artículo [14](../../lapp/markdown/articulo-14.md), fracción V de la Ley se considerará completo con las opiniones mencionadas en las dos fracciones del presente artículo. El proyecto se considerará viable con la opinión favorable en los aspectos citados.

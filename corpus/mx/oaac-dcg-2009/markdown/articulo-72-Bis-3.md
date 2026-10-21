@@ -18,7 +18,7 @@ source_sha256: 8ac502b97188bd6e795781e9821be6e62ccdd8050cdd3be74aab52a888e67939
 
 # Artículo 72 Bis 3
 
-Las Sociedades Financieras de Objeto Múltiple Reguladas que emitan valores de deuda a su cargo, inscritos en el [Registro](articulo-1.md) Nacional de [Valores](articulo-1.md) conforme a la Ley del Mercado de Valores, o bien, tratándose de títulos fiduciarios igualmente inscritos en el citado Registro, cuando el cumplimiento de las obligaciones en relación con los títulos que se emitan al amparo del fideicomiso dependan total o parcialmente de dicha sociedad, actuando como fideicomitente, cedente o administrador del patrimonio fideicomitido, o como garante o avalista de los referidos títulos, deberán sujetarse a las disposiciones siguientes:
+Las Sociedades Financieras de Objeto Múltiple Reguladas que emitan valores de deuda a su cargo, inscritos en el [Registro](articulo-1.md) Nacional de Valores conforme a la Ley del Mercado de [Valores](articulo-1.md), o bien, tratándose de títulos fiduciarios igualmente inscritos en el citado Registro, cuando el cumplimiento de las obligaciones en relación con los títulos que se emitan al amparo del fideicomiso dependan total o parcialmente de dicha sociedad, actuando como fideicomitente, cedente o administrador del patrimonio fideicomitido, o como garante o avalista de los referidos títulos, deberán sujetarse a las disposiciones siguientes:
 
 I. La Sección Cuarta del Capítulo I del Título Segundo de la [Circular Única de Bancos](articulo-1.md).
 

@@ -22,4 +22,4 @@ source_sha256: a15012b33a415083f7714764c86fda8ed0078d3f5313dfc194c503f98a573a2a
 
 En sus transmisiones, las estaciones radiodifusoras de los concesionarios podrán hacer uso de cualquiera de las lenguas nacionales de conformidad con las disposiciones legales aplicables. Las concesiones de uso social indígena podrán hacer uso de la lengua del pueblo originario que corresponda. Párrafo reformado DOF 01-06-2016. Fe de erratas DOF 09-06-2016
 
-En caso de que las transmisiones sean en idioma extranjero, deberá utilizarse el subtitulaje o la traducción respectiva al español, en casos excepcionales, la [Secretaría](articulo-3.md) de Gobernación podrá autorizar el uso de idiomas extranjeros sin subtitulaje o traducción de conformidad con las disposiciones reglamentarias.
+En caso de que las transmisiones sean en idioma extranjero, deberá utilizarse el subtitulaje o la traducción respectiva al español, en casos excepcionales, la Secretaría de Gobernación podrá autorizar el uso de idiomas extranjeros sin subtitulaje o traducción de conformidad con las disposiciones reglamentarias.

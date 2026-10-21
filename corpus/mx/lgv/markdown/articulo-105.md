@@ -17,6 +17,6 @@ source_sha256: a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8
 
 # Artículo 105
 
-La [Comisión Ejecutiva](articulo-6.md) elaborará un plan de divulgación, capacitación y actualización sobre el procedimiento para la recepción de la declaración y su trámite hasta la decisión de inclusión o no en el [Registro](articulo-6.md) Nacional de [Víctimas](articulo-6.md). Las entidades encargadas de recibir y tramitar la inscripción de datos en el Registro garantizarán la implementación de este plan en los respectivos órdenes federal, estatal y municipal.
+La [Comisión Ejecutiva](articulo-6.md) elaborará un plan de divulgación, capacitación y actualización sobre el procedimiento para la recepción de la declaración y su trámite hasta la decisión de inclusión o no en el [Registro](articulo-6.md) Nacional de Víctimas. Las entidades encargadas de recibir y tramitar la inscripción de datos en el Registro garantizarán la implementación de este plan en los respectivos órdenes federal, estatal y municipal.
 
 Artículo reformado DOF 03-05-2013

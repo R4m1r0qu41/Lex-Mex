@@ -21,9 +21,9 @@ Integración El [Consejo Nacional](articulo-2.md) estará integrado por las pers
 
 I. El Poder Ejecutivo Federal, quien lo presidirá;
 
-II. La [Secretaría](articulo-2.md) de Gobernación;
+II. La Secretaría de Gobernación;
 
-III. La Secretaría, cuya persona titular fungirá como secretaria ejecutiva y podrá suplir a la persona que lo preside en sus ausencias;
+III. La [Secretaría](articulo-2.md), cuya persona titular fungirá como secretaria ejecutiva y podrá suplir a la persona que lo preside en sus ausencias;
 
 IV. La Secretaría de la Defensa Nacional;
 
@@ -41,7 +41,7 @@ X. La Agencia de Transformación Digital y Telecomunicaciones;
 
 XI. La Fiscalía General de la República;
 
-XII. El Secretariado Ejecutivo del [Sistema Nacional](articulo-2.md) de Seguridad Pública, y
+XII. El Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública, y
 
 XIII. El [CNI](articulo-2.md).
 

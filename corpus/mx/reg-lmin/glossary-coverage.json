@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-5",
+  "strategy_version": "glossary-extraction-6",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-lmin",
   "source_sha256": "4d25bcb022ab62a24462e11a230c9554c0120012913ab4599cd3ec1b2b275c1d",
   "extracted_text_sha256": "8be36a14ea5e7f3cfb19f0f521471dad17d8defa20ae124ed20f53462204dd1f",
@@ -42,5 +42,5 @@
   ],
   "imports": [],
   "term_count": 24,
-  "usage_count": 373
+  "usage_count": 356
 }

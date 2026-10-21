@@ -17,7 +17,7 @@ source_sha256: b82b6148e235121951a94cb388fe59dbebe4212c8a6c85f26704873150827911
 
 # Artículo 16
 
-La [Secretaría](articulo-3o.md) contará con un [Consejo](articulo-3o.md) Técnico Consultivo Nacional para la [Conservación](articulo-3o.md) y Aprovechamiento Sustentable de la [Vida Silvestre](articulo-3o.md), cuyas funciones consistirán en emitir opiniones o recomendaciones en relación con la identificación de las especies en riesgo y la determinación de especies y poblaciones prioritarias para la conservación, el desarrollo de proyectos de recuperación, la declaración de existencia de hábitats críticos, así como con el otorgamiento de los reconocimientos y premios a los que se refiere el artículo [45](articulo-45.md) de la presente Ley.
+La [Secretaría](articulo-3o.md) contará con un [Consejo](articulo-3o.md) Técnico Consultivo Nacional para la Conservación y Aprovechamiento Sustentable de la Vida Silvestre, cuyas funciones consistirán en emitir opiniones o recomendaciones en relación con la identificación de las especies en riesgo y la determinación de especies y poblaciones prioritarias para la conservación, el desarrollo de proyectos de recuperación, la declaración de existencia de hábitats críticos, así como con el otorgamiento de los reconocimientos y premios a los que se refiere el artículo [45](articulo-45.md) de la presente Ley.
 
 La Secretaría podrá constituir otros órganos técnicos consultivos relacionados con la vida silvestre y su hábitat, con el objeto de que la apoyen tanto en la formulación como en la aplicación de las medidas que sean necesarias para su conservación y aprovechamiento sustentable.
 

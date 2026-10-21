@@ -17,7 +17,7 @@ source_sha256: a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8
 
 # Artículo 82
 
-El [Sistema](articulo-6.md) Nacional de Atención a [Víctimas](articulo-6.md) estará integrado por las instituciones, entidades, organismos y demás participantes, aquí enumerados, incluyendo en su caso las instituciones homólogas en los ámbitos estatal y municipal:
+El [Sistema](articulo-6.md) Nacional de Atención a Víctimas estará integrado por las instituciones, entidades, organismos y demás participantes, aquí enumerados, incluyendo en su caso las instituciones homólogas en los ámbitos estatal y municipal:
 
 I. Poder Ejecutivo:
 

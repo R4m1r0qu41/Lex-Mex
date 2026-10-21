@@ -127,15 +127,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lebhn:article:5:term-usage:5-15",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lebhn:article:5",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lebhn:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 5,
-    "end_char": 15
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lebhn:article:5:term-usage:497-507",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lebhn:article:5",
     "term_id": "urn:lex-mx:federal:regulation:reg-lebhn:term:secretaria",
@@ -178,15 +169,6 @@
     "span": "Ley",
     "start_char": 254,
     "end_char": 257
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lebhn:article:6:term-usage:293-303",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lebhn:article:6",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lebhn:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 293,
-    "end_char": 303
   },
   {
     "schema_version": "0.1.0",
@@ -439,15 +421,6 @@
     "span": "Secretaría",
     "start_char": 529,
     "end_char": 539
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lebhn:article:26:term-usage:563-573",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lebhn:article:26",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lebhn:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 563,
-    "end_char": 573
   },
   {
     "schema_version": "0.1.0",
@@ -739,38 +712,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lebhn:transitory:segundo:term-usage:337-347",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lebhn:transitory:segundo",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lebhn:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 337,
-    "end_char": 347
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lebhn:transitory:cuarto:term-usage:176-186",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lebhn:transitory:cuarto",
     "term_id": "urn:lex-mx:federal:regulation:reg-lebhn:term:secretaria",
     "span": "Secretaría",
     "start_char": 176,
     "end_char": 186
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lebhn:transitory:cuarto:term-usage:208-218",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lebhn:transitory:cuarto",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lebhn:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 208,
-    "end_char": 218
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lebhn:transitory:cuarto:term-usage:247-257",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lebhn:transitory:cuarto",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lebhn:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 247,
-    "end_char": 257
   }
 ]

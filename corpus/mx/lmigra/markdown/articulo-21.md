@@ -17,11 +17,11 @@ source_sha256: a823b87d27bee29da481750b9893f00024bd80aed8b0713bf8b1ac1e55b9b8de
 
 # Artículo 21
 
-La [Secretaría](articulo-3.md) de Relaciones Exteriores tendrá las siguientes atribuciones en materia migratoria:
+La Secretaría de Relaciones Exteriores tendrá las siguientes atribuciones en materia migratoria:
 
 I. Aplicar en el ámbito de su competencia las disposiciones de esta [Ley](articulo-3.md), su [Reglamento](articulo-3.md) y demás disposiciones legales;
 
-II. Promover conjuntamente con la Secretaría la suscripción de instrumentos internacionales en materia de retorno asistido de mexicanos y extranjeros;
+II. Promover conjuntamente con la [Secretaría](articulo-3.md) la suscripción de instrumentos internacionales en materia de retorno asistido de mexicanos y extranjeros;
 
 III. Promover conjuntamente con la Secretaría de Gobernación, la suscripción de acuerdos bilaterales que regulen el flujo migratorio;
 

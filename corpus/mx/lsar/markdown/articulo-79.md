@@ -29,7 +29,7 @@ Los trabajadores podrán realizar retiros de su subcuenta de aportaciones volunt
 
 Para realizar retiros con cargo a la subcuenta de aportaciones voluntarias, los trabajadores deberán dar aviso a la administradora en los términos que se establezcan en el prospecto de información de la sociedad de inversión de que se trate.
 
-Previo consentimiento del trabajador afiliado, el importe de las aportaciones voluntarias podrá transferirse a la subcuenta de vivienda para su aplicación en un crédito de vivienda otorgado a su favor por el Instituto del Fondo Nacional de la Vivienda para los [Trabajadores](articulo-3o.md). Esta transferencia podrá realizarse en cualquier momento aun cuando no haya transcurrido el plazo mínimo para disponer de las aportaciones voluntarias.
+Previo consentimiento del trabajador afiliado, el importe de las aportaciones voluntarias podrá transferirse a la subcuenta de vivienda para su aplicación en un crédito de vivienda otorgado a su favor por el Instituto del Fondo Nacional de la Vivienda para los Trabajadores. Esta transferencia podrá realizarse en cualquier momento aun cuando no haya transcurrido el plazo mínimo para disponer de las aportaciones voluntarias.
 
 En caso de fallecimiento del trabajador, tendrán derecho a disponer de los recursos de sus subcuentas de ahorro voluntario de la cuenta individual, las personas que el titular de la cuenta haya designado para tal efecto y, a falta de éstas, las personas que señale la legislación aplicable en cada caso. Párrafo reformado DOF 15-06-2007
 
