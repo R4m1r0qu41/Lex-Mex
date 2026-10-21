@@ -1430,7 +1430,12 @@ fn run_batch_instrument(
 #[derive(Debug, serde::Serialize)]
 struct BatchClosureReport {
     status: String,
+    /// The batch's own instruments and every other instrument the corpus
+    /// closure relinked.
     relinked: Vec<String>,
+    /// Accepted-gap instruments outside the batch whose glossary alone the
+    /// corpus closure refreshed.
+    glossary_refreshed: Vec<String>,
     expected_edges: Vec<ExpectedEdgeCheck>,
 }
 
@@ -1461,7 +1466,10 @@ struct ExpectedEdgeCorpus {
 /// after every selected source has entered the corpus. An admitted title can
 /// also move another instrument's glossary usages (the title-span filter), so
 /// the whole corpus is then closed once and must reject exactly the accepted
-/// gaps; every instrument it relinks is validated and republished.
+/// gaps; every instrument it relinks is validated and republished. An
+/// accepted-gap instrument whose glossary alone it refreshed is republished
+/// without the ordinary validation, whose recorded reference errors stand
+/// (Codex review 2026-10-20); the closure already checked its coverage.
 fn run_batch_closure(
     root: &Path,
     successful_slugs: &[String],
@@ -1473,6 +1481,7 @@ fn run_batch_closure(
         run_link(root, &context)?;
     }
     let mut closed: BTreeSet<String> = successful_slugs.iter().cloned().collect();
+    let mut glossary_refreshed = Vec::new();
     if !successful_slugs.is_empty() {
         let corpus = run_corpus_closure(root)?;
         if !closure_matches_accepted_gaps(root, &corpus)? {
@@ -1482,6 +1491,7 @@ fn run_batch_closure(
             );
         }
         closed.extend(corpus.relinked_instruments);
+        glossary_refreshed = corpus.glossary_refreshed_instruments;
     }
     for slug in &closed {
         let context = instrument_context(root, slug)?;
@@ -1490,6 +1500,9 @@ fn run_batch_closure(
             bail!("validation failed for {slug} after batch reverse linking");
         }
         republish_exports(root, &context, obsidian_vault)?;
+    }
+    for slug in &glossary_refreshed {
+        republish_exports(root, &instrument_context(root, slug)?, obsidian_vault)?;
     }
 
     let corpora = expected_edge_corpora(root)?;
@@ -1508,6 +1521,7 @@ fn run_batch_closure(
     Ok(BatchClosureReport {
         status: status.to_owned(),
         relinked: closed.into_iter().collect(),
+        glossary_refreshed,
         expected_edges: checks,
     })
 }
@@ -3465,6 +3479,9 @@ struct CorpusClosureReport {
     instruments: usize,
     relinked: usize,
     relinked_instruments: Vec<String>,
+    /// Accepted-gap instruments whose terms, usages, coverage and Markdown
+    /// were refreshed while their references stayed as persisted.
+    glossary_refreshed_instruments: Vec<String>,
     unchanged: usize,
     references_before: usize,
     references_after: usize,
@@ -3615,7 +3632,12 @@ fn run_corpus_closure(root: &Path) -> Result<CorpusClosureReport> {
         &refreshed_as_persisted,
         &glossary_refreshed,
     )?;
-    let (relinked, unchanged, rejected) = write_closure_outputs(
+    let ClosureOutputs {
+        relinked,
+        glossary_refreshed,
+        unchanged,
+        rejected,
+    } = write_closure_outputs(
         &corpora,
         &contexts,
         &coverage,
@@ -3628,6 +3650,7 @@ fn run_corpus_closure(root: &Path) -> Result<CorpusClosureReport> {
         instruments: corpora.len(),
         relinked: relinked.len(),
         relinked_instruments: relinked,
+        glossary_refreshed_instruments: glossary_refreshed,
         unchanged,
         references_before,
         references_after: corpora
@@ -3744,9 +3767,10 @@ fn write_closure_outputs(
     decisions: &[ClosureDecision],
     refreshed_as_persisted: &[bool],
     glossary_refreshed: &[bool],
-) -> Result<(Vec<String>, usize, Vec<CorpusClosureRejection>)> {
+) -> Result<ClosureOutputs> {
     let (targets, term_targets) = closure_link_targets(corpora);
     let mut relinked = Vec::new();
+    let mut glossary_refreshed_instruments = Vec::new();
     let mut unchanged = 0;
     let mut rejected = Vec::new();
     for (index, (slug, corpus)) in corpora.iter().enumerate() {
@@ -3764,6 +3788,7 @@ fn write_closure_outputs(
             ClosureDecision::Rejected(errors) => {
                 if glossary_refreshed[index] {
                     write_refreshed_glossary(context, corpus, &targets, &term_targets)?;
+                    glossary_refreshed_instruments.push(slug.clone());
                     println!(
                         "{slug}: rejected as its accepted gap; glossary refreshed, references left unchanged"
                     );
@@ -3782,7 +3807,21 @@ fn write_closure_outputs(
             }
         }
     }
-    Ok((relinked, unchanged, rejected))
+    Ok(ClosureOutputs {
+        relinked,
+        glossary_refreshed: glossary_refreshed_instruments,
+        unchanged,
+        rejected,
+    })
+}
+
+/// What [`write_closure_outputs`] wrote: relinked instruments, accepted-gap
+/// instruments whose glossary alone was refreshed, and the rest.
+struct ClosureOutputs {
+    relinked: Vec<String>,
+    glossary_refreshed: Vec<String>,
+    unchanged: usize,
+    rejected: Vec<CorpusClosureRejection>,
 }
 
 /// Which rejected instruments take a glossary-only refresh: an instrument
@@ -6443,6 +6482,166 @@ mod tests {
         );
     }
 
+    /// A Ley Rota with an accepted gap (its article 9 of the Ley Destino does
+    /// not exist) and a glossary whose `Aguas` the admitted Ley de Aguas
+    /// Federales' title covers. Returns Rota's persisted references.
+    fn write_accepted_gap_fixture(root: &Path) -> serde_json::Value {
+        const CITATION: &str = "En términos del artículo 9 de la Ley Destino.";
+        let none = serde_json::json!([]);
+        write_fixture_adapter(
+            root,
+            "target",
+            "urn:lex-mx:test:target",
+            "Ley Destino",
+            "DESTINO",
+            &none,
+        );
+        write_canonical(
+            &fixture_corpus(
+                "urn:lex-mx:test:target",
+                "Ley Destino",
+                "DESTINO",
+                "Texto destino.",
+            ),
+            &root.join("corpus/mx/target"),
+        )
+        .unwrap();
+        write_fixture_adapter(
+            root,
+            "rota",
+            "urn:lex-mx:test:rota",
+            "Ley Rota",
+            "ROTA",
+            &none,
+        );
+        write_canonical(
+            &fixture_corpus("urn:lex-mx:test:rota", "Ley Rota", "ROTA", CITATION),
+            &root.join("corpus/mx/rota"),
+        )
+        .unwrap();
+        let before = run_corpus_closure(root).unwrap();
+        assert_eq!(before.rejected.len(), 1);
+        fs::write(
+            root.join(super::CLOSURE_ACCEPTED_GAPS),
+            serde_json::to_vec_pretty(&serde_json::json!({
+                "accepted": [{"slug": "rota", "errors": before.rejected[0].errors}],
+            }))
+            .unwrap(),
+        )
+        .unwrap();
+        // Its glossary follows the citation, so the gap's errors are unchanged;
+        // its terms are not persisted yet.
+        write_canonical(
+            &fixture_corpus(
+                "urn:lex-mx:test:rota",
+                "Ley Rota",
+                "ROTA",
+                &format!(
+                    "{CITATION}\n\nPara los efectos de esta Ley, se entiende por:\n\n\
+                     I. Aguas: Las del subsuelo;\n\nII. Banco: El Banco que vigila las Aguas \
+                     conforme a la Ley de Aguas Federales."
+                ),
+            ),
+            &root.join("corpus/mx/rota"),
+        )
+        .unwrap();
+        let references = serde_json::to_value(&rota(root).references).unwrap();
+
+        write_fixture_adapter(
+            root,
+            "aguas",
+            "urn:lex-mx:test:aguas",
+            "Ley de Aguas Federales",
+            "LAF",
+            &none,
+        );
+        write_canonical(
+            &fixture_corpus(
+                "urn:lex-mx:test:aguas",
+                "Ley de Aguas Federales",
+                "LAF",
+                "Texto.",
+            ),
+            &root.join("corpus/mx/aguas"),
+        )
+        .unwrap();
+        references
+    }
+
+    fn rota(root: &Path) -> Corpus {
+        read_corpus(&Paths::new(root, "rota", lex_source::SourceFormat::Pdf)).unwrap()
+    }
+
+    #[test]
+    fn batch_closure_republishes_an_accepted_gap_instrument_whose_glossary_alone_it_refreshed() {
+        let temporary = tempfile::tempdir().unwrap();
+        let root = temporary.path();
+        let vault = temporary.path().join("vault");
+        let references = write_accepted_gap_fixture(root);
+        let closure = run_batch_closure(root, &["aguas".to_owned()], &[], Some(&vault)).unwrap();
+
+        assert_eq!(closure.status, "ok");
+        assert_eq!(closure.glossary_refreshed, ["rota"]);
+        assert!(!closure.relinked.contains(&"rota".to_owned()));
+        // Its glossary is refreshed (the `Aguas` in the admitted title is not
+        // a usage), its references stay as persisted, and both exports carry it.
+        let refreshed = rota(root);
+        assert_eq!(refreshed.terms.len(), 2);
+        assert_eq!(refreshed.term_usages.len(), 1);
+        assert_eq!(
+            serde_json::to_value(&refreshed.references).unwrap(),
+            references
+        );
+        assert!(root.join("corpus/mx/rota/markdown/articulo-1.md").is_file());
+        let in_vault = walk_files(&vault)
+            .iter()
+            .any(|path| fs::read_to_string(path).is_ok_and(|text| text.contains("Ley Rota")));
+        assert!(in_vault);
+        // Closing again changes nothing and refreshes nothing.
+        let again = run_batch_closure(root, &["aguas".to_owned()], &[], Some(&vault)).unwrap();
+        assert!(again.glossary_refreshed.is_empty());
+        assert_eq!(
+            serde_json::to_value(&rota(root).term_usages).unwrap(),
+            serde_json::to_value(&refreshed.term_usages).unwrap()
+        );
+    }
+
+    #[test]
+    fn batch_closure_rereads_the_alias_catalog_as_a_usage_boundary() {
+        let temporary = tempfile::tempdir().unwrap();
+        let root = temporary.path();
+        write_accepted_gap_fixture(root);
+        run_batch_closure(root, &["aguas".to_owned()], &[], None).unwrap();
+        assert_eq!(rota(root).term_usages.len(), 1);
+        // A new alias in the catalog bounds usages too: the closure rereads it.
+        fs::write(
+            root.join("adapters/diputados/_instrument-aliases.json"),
+            serde_json::to_vec_pretty(&serde_json::json!({
+                "schema_version": "0.1.0",
+                "description": "fixture",
+                "aliases": {"ROTA": ["Banco que vigila las Aguas"]},
+            }))
+            .unwrap(),
+        )
+        .unwrap();
+        let aliased = run_batch_closure(root, &["aguas".to_owned()], &[], None).unwrap();
+        assert_eq!(aliased.glossary_refreshed, ["rota"]);
+        assert!(rota(root).term_usages.is_empty());
+    }
+
+    fn walk_files(directory: &Path) -> Vec<std::path::PathBuf> {
+        let mut files = Vec::new();
+        for entry in fs::read_dir(directory).into_iter().flatten().flatten() {
+            let path = entry.path();
+            if path.is_dir() {
+                files.extend(walk_files(&path));
+            } else {
+                files.push(path);
+            }
+        }
+        files
+    }
+
     #[test]
     fn batch_closure_fails_when_the_corpus_closure_rejects_an_unaccepted_instrument() {
         let temporary = tempfile::tempdir().unwrap();
@@ -6668,6 +6867,7 @@ mod tests {
             instruments: 2,
             relinked: 0,
             relinked_instruments: vec![],
+            glossary_refreshed_instruments: vec![],
             unchanged: 0,
             references_before: 0,
             references_after: 0,

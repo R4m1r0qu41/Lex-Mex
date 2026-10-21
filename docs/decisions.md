@@ -1,5 +1,31 @@
 # Architecture decisions
 
+## 2026-10-20 — Codex review of the rulings branch: accepted-gap refreshes are published; parsed partial repeals keep their provenance
+
+**Source.** Codex's review of `parser/operator-rulings-2026-10-20` at `1647daaa8` (`docs/batch-fixes-and-rulings-review-2026-10-20.md` in the DB worktree). Both findings were fixed without an operator decision, under the operator's standing instruction.
+
+**P1: accepted-gap glossary refreshes were missing from batch publication.**
+- **Cause.** The corpus closure's glossary-only refresh rewrote terms, usages and repository Markdown for an accepted-gap instrument. But it reported only accepted relinks, so a batch never republished such an instrument to an external Obsidian vault.
+- **Repair.**
+  - `CorpusClosureReport.glossary_refreshed_instruments` and `BatchClosureReport.glossary_refreshed` name these instruments.
+  - The batch republishes their exports.
+  - It does not run the ordinary validation on them, because their recorded reference errors stand; the closure has already checked their coverage.
+  - `relinked` in the batch report is documented as including relinks outside the batch.
+- **Tests.**
+  - `batch_closure_republishes_an_accepted_gap_instrument_whose_glossary_alone_it_refreshed`: an accepted-gap law outside the batch takes the admitted title's boundary. Its references stay identical, its repository and vault exports refresh, the report names it, and repeating the closure changes nothing.
+  - `batch_closure_rereads_the_alias_catalog_as_a_usage_boundary`: the alias-catalog test Codex asked for.
+
+**P2: ltfccg Article 16 lost reproducible machine provenance on reparse.**
+- **Cause.** The parser now classifies a partial repeal itself and records its scope. `repair_partial_repeals` handles only stored whole repeals, and derivation Rule B skips partial ones, so nothing promoted it.
+- **Repair (`derive_article_temporal_determinations`, "Rule A, partial").** An untouched `PartiallyRepealed` article is promoted as `deterministic_rule` / 1.0 / `machine_accepted` only when its opening note still parses to exactly its recorded repeal scope. No commencement date is set for the remaining text. Reviewed provisions are not touched.
+- **Test:** `a_parsed_partial_repeal_is_promoted_only_while_its_note_matches_its_scope`. It covers a widened scope, a lawyer-verified copy and idempotence.
+- **Effect.** `derive-temporal ltfccg` restores Article 16. Its temporal fields equal the pre-reparse commit `7ae8329ab` exactly. No other instrument was re-derived.
+
+**Measured:**
+- 382 tests pass;
+- `link --all` relinks 0 and rejects exactly the 5 accepted gaps;
+- every instrument validates.
+
 ## 2026-10-20 — Institution names, LGEEPA imports and ltfccg IX
 
 **Operator (2026-10-20):**
