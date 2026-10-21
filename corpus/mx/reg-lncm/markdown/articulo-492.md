@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Tercero · Capítulo IV
+
 # Artículo 492
 
 Las Embarcaciones dedicadas a servicios portuarios, conforme a la Ley de Puertos, además de dar cumplimiento a las normas aplicables de este Capítulo, podrán tramitar un despacho con vigencia hasta por treinta días naturales. Este despacho no es válido para Embarcaciones que se dirijan a otro puerto. Para ello se requiere:

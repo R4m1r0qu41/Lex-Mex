@@ -13,11 +13,13 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPPI.pdf
 source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 ---
 
-> Título SEGUNDO
+> Título SEGUNDO · Capítulo IV
 
 # Artículo 74
 
-Para reconocer la prioridad a que se refiere el artículo [41](articulo-41.md) de esta [Ley](articulo-4.md), en una solicitud de registro de diseño industrial, la persona solicitante deberá satisfacer los requisitos siguientes: Párrafo reformado DOF 03-04-2026 I.- Señalar el número de la solicitud presentada en el país de origen, cuando se conozca o esté disponible, cuya fecha de presentación se reclame como fecha de prioridad, y
+Para reconocer la prioridad a que se refiere el artículo [41](articulo-41.md) de esta [Ley](articulo-4.md), en una solicitud de registro de diseño industrial, la persona solicitante deberá satisfacer los requisitos siguientes: Párrafo reformado DOF 03-04-2026
+
+I.- Señalar el número de la solicitud presentada en el país de origen, cuando se conozca o esté disponible, cuya fecha de presentación se reclame como fecha de prioridad, y
 
 II.- Exhibir una copia certificada de la prioridad reclamada y, en su caso, la traducción al español, a más tardar dentro del plazo de tres meses contados a partir de la presentación de la solicitud en México o de publicación del registro internacional que corresponda y el comprobante de pago de la tarifa.
 

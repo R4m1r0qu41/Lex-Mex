@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSPCAPF.pdf
 source_sha256: b4a968d8e8c138ac2069f6afa0dc622178328df24f59cf58eddbab8efe4a7eff
 ---
 
+> Capítulo Décimo Tercero
+
 # Artículo 67
 
 Los métodos de evaluación del desempeño de las personas servidoras públicas deben incluir el puntaje que resulte de la combinación de las modalidades de valoración determinadas, así como el correspondiente al resultado promedio de la capacitación recibida. El resultado de ambos puntajes se debe considerar como:

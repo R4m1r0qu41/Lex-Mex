@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPPI.pdf
 source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 ---
 
-> Título PRIMERO
+> Título PRIMERO · Capítulo III
 
 # Artículo 27
 
@@ -31,7 +31,9 @@ III.- En los casos no comprendidos en la fracción II de este artículo, mediant
 
 IV.- En los casos no comprendidos en la fracción II de este artículo, mediante poder otorgado conforme a la legislación aplicable del país en donde éste se otorgue o de acuerdo a los [Tratados Internacionales](articulo-4.md), en caso de que la persona mandante sea una persona moral extranjera. Se presumirá la validez del poder, salvo prueba en contrario, y Fracción reformada DOF 03-04-2026
 
-V.- Mediante la manifestación bajo protesta de decir verdad de la persona representante de contar con facultades suficientes para actuar, siempre y cuando se trate de la misma persona desde el inicio hasta la conclusión del trámite y dicha manifestación conste en la solicitud o promoción respectiva, únicamente en los trámites: Párrafo reformado DOF 03-04-2026 a) Que se deriven del Título Cuarto de esta [Ley](articulo-4.md), excepto cuando se trate de una solicitud de limitación de productos o servicios o la de cancelación voluntaria de un registro o publicación, en cuyo caso será necesario exhibir un poder, general o especial, para actos de dominio y cuando se presente una oposición a un registro o publicación, en donde deberá exhibirse un instrumento público o carta poder, o
+V.- Mediante la manifestación bajo protesta de decir verdad de la persona representante de contar con facultades suficientes para actuar, siempre y cuando se trate de la misma persona desde el inicio hasta la conclusión del trámite y dicha manifestación conste en la solicitud o promoción respectiva, únicamente en los trámites: Párrafo reformado DOF 03-04-2026
+
+a) Que se deriven del Título Cuarto de esta [Ley](articulo-4.md), excepto cuando se trate de una solicitud de limitación de productos o servicios o la de cancelación voluntaria de un registro o publicación, en cuyo caso será necesario exhibir un poder, general o especial, para actos de dominio y cuando se presente una oposición a un registro o publicación, en donde deberá exhibirse un instrumento público o carta poder, o
 
 b) Que se relacionen con las solicitudes de información tecnológica.
 

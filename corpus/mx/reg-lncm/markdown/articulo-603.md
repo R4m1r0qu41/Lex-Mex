@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Tercero · Capítulo VIII
+
 # Artículo 603
 
 Previo registro de los equipos afectos al servicio específico ante la [Dirección General](articulo-10.md), las empresas de participación estatal que no cuenten con permiso o contrato con la [API](articulo-10.md) de acuerdo con lo establecido en los artículos [224](articulo-224.md) y [238](articulo-238.md) del presente Reglamento, sólo podrá operar sus propios remolcadores en maniobras en Embarcaciones de su propiedad o a su servicio, o que operen en sus instalaciones. En las otras áreas sólo podrá operar por orden expresa de la [Capitanía de Puerto](articulo-10.md) cuando:

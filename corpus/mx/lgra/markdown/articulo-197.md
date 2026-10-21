@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGRA.pdf
 source_sha256: 1289ec6964e48c84990572ca6080ca05c9d6210e5b0ff5af6d8c9d935fc5fcc8
 ---
 
-> Título SEGUNDO
+> Título SEGUNDO · Capítulo I
 
 # Artículo 197
 
@@ -26,5 +26,3 @@ II. Cuando por virtud de una reforma legislativa, la [Falta administrativa](arti
 III. Cuando el señalado como presunto responsable muera durante el procedimiento de responsabilidad administrativa.
 
 Cuando las partes tengan conocimiento de alguna causa de sobreseimiento, la comunicarán de inmediato a la [Autoridad substanciadora](articulo-3.md) o resolutora, según corresponda, y de ser posible, acompañarán las constancias que la acrediten.
-
-Sección Décimo Primera De las audiencias

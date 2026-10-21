@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAN_250814.pdf
 source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 ---
 
-> Título SEXTO
+> Título SEXTO · Capítulo II
 
 # Artículo 96
 
@@ -30,5 +30,3 @@ IV. Para que la transmisión de los derechos que amparan dichos certificados ten
 V. La transmisión de los certificados entre los propios usuarios, o a terceras personas que los sustituyan como usuarios dentro de la unidad de riego, podrá efectuarse sin mayor trámite que los que se señalen en el reglamento de la unidad de riego, y VI. Los derechos de explotación, uso o aprovechamiento del agua que amparan los certificados no pueden ser transferidos fuera de la unidad de riego, ni a fuentes distintas de las concesiones de origen.
 
 Los certificados no crean derechos reales sobre aguas nacionales.
-
-Sección Cuarta Distritos de Riego

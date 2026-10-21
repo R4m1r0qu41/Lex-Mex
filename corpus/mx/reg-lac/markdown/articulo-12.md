@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAC.pdf
 source_sha256: 4dcf5277184d5f5c5cc1c8ae2dfa196134b472d883eb2806c7bac27cd77eda7d
 ---
 
+> Título Segundo · Capítulo I
+
 # Artículo 12
 
 El servicio de transporte aéreo internacional no regular, bajo la modalidad de fletamento, está sujeto a la autorización de horarios conforme a lo dispuesto en el artículo [21](articulo-21.md) del presente reglamento. La persona permisionaria mexicana debe prestar el servicio desde territorio nacional hacia otro u otros países, y viceversa, expresamente determinados en el permiso correspondiente. Párrafo reformado DOF 31-05-2023

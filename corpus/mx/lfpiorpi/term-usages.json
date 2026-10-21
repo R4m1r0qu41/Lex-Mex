@@ -226,12 +226,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpiorpi:article:3:term-usage:6577-6585",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:article:3:term-usage:6578-6586",
     "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:3",
     "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:fiscalia",
     "span": "Fiscalía",
-    "start_char": 6577,
-    "end_char": 6585
+    "start_char": 6578,
+    "end_char": 6586
   },
   {
     "schema_version": "0.1.0",
@@ -775,33 +775,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpiorpi:article:12:term-usage:1240-1261",
-    "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:12",
-    "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:entidades-financieras",
-    "span": "Entidades Financieras",
-    "start_char": 1240,
-    "end_char": 1261
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpiorpi:article:12:term-usage:1271-1294",
-    "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:12",
-    "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:actividades-vulnerables",
-    "span": "Actividades Vulnerables",
-    "start_char": 1271,
-    "end_char": 1294
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpiorpi:article:12:term-usage:1319-1340",
-    "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:12",
-    "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:entidades-financieras",
-    "span": "Entidades Financieras",
-    "start_char": 1319,
-    "end_char": 1340
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfpiorpi:article:13:term-usage:47-50",
     "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:13",
     "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:ley",
@@ -916,15 +889,6 @@
     "span": "Secretaría",
     "start_char": 724,
     "end_char": 734
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpiorpi:article:16:term-usage:867-890",
-    "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:16",
-    "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:actividades-vulnerables",
-    "span": "Actividades Vulnerables",
-    "start_char": 867,
-    "end_char": 890
   },
   {
     "schema_version": "0.1.0",
@@ -2440,15 +2404,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpiorpi:article:22-bis:term-usage:368-374",
-    "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:22-bis",
-    "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:avisos",
-    "span": "Avisos",
-    "start_char": 368,
-    "end_char": 374
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfpiorpi:article:23:term-usage:17-40",
     "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:23",
     "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:actividades-vulnerables",
@@ -2626,24 +2581,6 @@
     "span": "Avisos",
     "start_char": 279,
     "end_char": 285
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpiorpi:article:25:term-usage:349-355",
-    "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:25",
-    "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:avisos",
-    "span": "Avisos",
-    "start_char": 349,
-    "end_char": 355
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpiorpi:article:25:term-usage:372-392",
-    "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:25",
-    "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:entidades-colegiadas",
-    "span": "Entidades Colegiadas",
-    "start_char": 372,
-    "end_char": 392
   },
   {
     "schema_version": "0.1.0",
@@ -3157,15 +3094,6 @@
     "span": "Beneficiario Controlador",
     "start_char": 1165,
     "end_char": 1189
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpiorpi:article:33:term-usage:1308-1332",
-    "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:33",
-    "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:beneficiario-controlador",
-    "span": "Beneficiario Controlador",
-    "start_char": 1308,
-    "end_char": 1332
   },
   {
     "schema_version": "0.1.0",

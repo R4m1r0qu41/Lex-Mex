@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Segundo · Capítulo II
+
 # Artículo 59
 
 Recibido el expediente a que se refiere el [artículo anterior](articulo-58.md), de resultar procedente, se expedirá el nuevo Certificado de Matrícula dentro de los cinco días hábiles siguientes a la recepción de la solicitud. Si no hubiere respuesta, la copia sellada sustituirá al certificado hasta que el mismo se expida.

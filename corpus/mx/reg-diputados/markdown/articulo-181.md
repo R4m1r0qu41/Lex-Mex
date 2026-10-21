@@ -28,5 +28,3 @@ III. Peticiones, y
 IV. Los demás asuntos que no ameriten dictamen.
 
 2. A la comunicación que no amerite mayor trámite, se responderá de enterado.
-
-Sección Décima Tercera Plazo para emitir Dictamen

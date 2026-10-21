@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Segundo · Capítulo V
+
 # Artículo 218
 
 Para obtener la tarjeta de control para el personal que tripula las Embarcaciones de pesca ribereña o lacustre, de apoyo en la captura de camarón y otras especies, de recreo y deportiva, los alumnos de las Instituciones Educativas Pesqueras que realizan prácticas a bordo, deberán presentar ante la [Dirección General](articulo-10.md) los siguientes requisitos:

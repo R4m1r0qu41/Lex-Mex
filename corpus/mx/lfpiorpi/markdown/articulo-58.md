@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPIORPI.pdf
 source_sha256: 2e35228bd3100a3a137f313359833c4836f2b4b6d4e52e1ce4fe58a970cd768f
 ---
 
+> Capítulo VII
+
 # Artículo 58
 
 Cuando la [Secretaría](articulo-3.md) determine que una persona notaria o corredora Pública ha incurrido en notorias deficiencias relacionadas con el cumplimiento de esta [Ley](articulo-3.md), informará a la autoridad competente para supervisar el ejercicio de la fe pública, a efecto de que instaure el procedimiento sancionador correspondiente. Párrafo reformado DOF 16-07-2025

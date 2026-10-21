@@ -2035,15 +2035,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgra:article:72:term-usage:514-536",
-    "provision_id": "urn:lex-mx:federal:statute:lgra:article:72",
-    "term_id": "urn:lex-mx:federal:statute:lgra:term:faltas-de-particulares",
-    "span": "Faltas de particulares",
-    "start_char": 514,
-    "end_char": 536
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgra:article:73:term-usage:15-37",
     "provision_id": "urn:lex-mx:federal:statute:lgra:article:73",
     "term_id": "urn:lex-mx:federal:statute:lgra:term:faltas-de-particulares",
@@ -2287,15 +2278,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgra:article:80-bis:term-usage:461-483",
-    "provision_id": "urn:lex-mx:federal:statute:lgra:article:80-bis",
-    "term_id": "urn:lex-mx:federal:statute:lgra:term:faltas-de-particulares",
-    "span": "Faltas de particulares",
-    "start_char": 461,
-    "end_char": 483
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgra:article:81:term-usage:54-76",
     "provision_id": "urn:lex-mx:federal:statute:lgra:article:81",
     "term_id": "urn:lex-mx:federal:statute:lgra:term:faltas-de-particulares",
@@ -2356,15 +2338,6 @@
     "span": "Faltas de particulares",
     "start_char": 244,
     "end_char": 266
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgra:article:83:term-usage:565-587",
-    "provision_id": "urn:lex-mx:federal:statute:lgra:article:83",
-    "term_id": "urn:lex-mx:federal:statute:lgra:term:faltas-de-particulares",
-    "span": "Faltas de particulares",
-    "start_char": 565,
-    "end_char": 587
   },
   {
     "schema_version": "0.1.0",
@@ -2608,15 +2581,6 @@
     "span": "Órganos internos de control",
     "start_char": 267,
     "end_char": 294
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgra:article:99:term-usage:419-441",
-    "provision_id": "urn:lex-mx:federal:statute:lgra:article:99",
-    "term_id": "urn:lex-mx:federal:statute:lgra:term:faltas-administrativas",
-    "span": "Faltas administrativas",
-    "start_char": 419,
-    "end_char": 441
   },
   {
     "schema_version": "0.1.0",
@@ -3511,24 +3475,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgra:article:207:term-usage:1908-1919",
-    "provision_id": "urn:lex-mx:federal:statute:lgra:article:207",
-    "term_id": "urn:lex-mx:federal:statute:lgra:term:secretaria",
-    "span": "Secretarías",
-    "start_char": 1908,
-    "end_char": 1919
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgra:article:207:term-usage:1922-1949",
-    "provision_id": "urn:lex-mx:federal:statute:lgra:article:207",
-    "term_id": "urn:lex-mx:federal:statute:lgra:term:organos-internos-de-control",
-    "span": "Órganos internos de control",
-    "start_char": 1922,
-    "end_char": 1949
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgra:article:208:term-usage:32-64",
     "provision_id": "urn:lex-mx:federal:statute:lgra:article:208",
     "term_id": "urn:lex-mx:federal:statute:lgra:term:falta-administrativa-no-grave",
@@ -3634,15 +3580,6 @@
     "span": "Autoridad resolutora",
     "start_char": 3849,
     "end_char": 3869
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgra:article:208:term-usage:4620-4630",
-    "provision_id": "urn:lex-mx:federal:statute:lgra:article:208",
-    "term_id": "urn:lex-mx:federal:statute:lgra:term:tribunal",
-    "span": "Tribunales",
-    "start_char": 4620,
-    "end_char": 4630
   },
   {
     "schema_version": "0.1.0",
@@ -4069,15 +4006,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgra:article:221:term-usage:351-383",
-    "provision_id": "urn:lex-mx:federal:statute:lgra:article:221",
-    "term_id": "urn:lex-mx:federal:statute:lgra:term:falta-administrativa-no-grave",
-    "span": "Faltas administrativas no graves",
-    "start_char": 351,
-    "end_char": 383
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgra:article:222:term-usage:34-66",
     "provision_id": "urn:lex-mx:federal:statute:lgra:article:222",
     "term_id": "urn:lex-mx:federal:statute:lgra:term:falta-administrativa-no-grave",
@@ -4111,24 +4039,6 @@
     "span": "Ente público",
     "start_char": 111,
     "end_char": 123
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgra:article:223:term-usage:200-229",
-    "provision_id": "urn:lex-mx:federal:statute:lgra:article:223",
-    "term_id": "urn:lex-mx:federal:statute:lgra:term:falta-administrativa-grave",
-    "span": "Faltas administrativas graves",
-    "start_char": 200,
-    "end_char": 229
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgra:article:223:term-usage:232-254",
-    "provision_id": "urn:lex-mx:federal:statute:lgra:article:223",
-    "term_id": "urn:lex-mx:federal:statute:lgra:term:faltas-de-particulares",
-    "span": "Faltas de particulares",
-    "start_char": 232,
-    "end_char": 254
   },
   {
     "schema_version": "0.1.0",
@@ -4525,14 +4435,5 @@
     "span": "Tribunal",
     "start_char": 3932,
     "end_char": 3940
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgra:transitory:quinto:term-usage:4286-4298",
-    "provision_id": "urn:lex-mx:federal:statute:lgra:transitory:quinto",
-    "term_id": "urn:lex-mx:federal:statute:lgra:term:constitucion",
-    "span": "Constitución",
-    "start_char": 4286,
-    "end_char": 4298
   }
 ]

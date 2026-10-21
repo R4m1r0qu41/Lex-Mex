@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAPP.pdf
 source_sha256: a4505a7bd41bc835f1def6fb030c42d8e74a2cc050d9c8fa08f91c9519e382bf
 ---
 
+> Capítulo Duodécimo · Sección Cuarta
+
 # Artículo 143
 
 La autoridad, jurisdiccional o administrativa, que conozca de una actuación notoriamente improcedente o como táctica meramente dilatoria, podrá imponer a quien lo promueva multa administrativa de quinientas y hasta dos mil veces el salario mínimo general diario para el Distrito Federal, elevado al mes, vigente en la fecha de interposición del recurso.

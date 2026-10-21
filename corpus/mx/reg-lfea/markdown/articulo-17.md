@@ -13,8 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFEA.pdf
 source_sha256: 910ba43ef1ae54b3b12fe325f65c81056191fde641c52a10ba709f0f1a39021f
 ---
 
+> Capítulo III
+
 # Artículo 17
 
 Las Autoridades Certificadoras incluirán en su Página Web los servicios digitales y, en su caso, proporcionarán medios de acceso a éstos desde sus instalaciones para los usuarios, a fin de facilitar a los titulares de Certificados Digitales el cumplimiento de las obligaciones previstas en las fracciones III y IV del artículo [22](../../lfea/markdown/articulo-22.md) de la [Ley](articulo-2.md).
-
-Capítulo IV De las Autoridades Certificadoras

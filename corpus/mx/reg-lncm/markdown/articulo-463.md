@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Tercero · Capítulo IV
+
 # Artículo 463
 
 Una vez cumplidos los requisitos, la [Capitanía de Puerto](articulo-10.md) autorizará el arribo correspondiente. Para efectos del pago establecido en la Ley Federal de Derechos, la Capitanía de Puerto considerará el momento en que se emite la autorización del arribo. Asimismo, el naviero o agente consignatario deberá acreditar ante la Capitanía de Puerto el pago del servicio dentro del término de un día hábil. En caso de no hacerlo, la Capitanía de Puerto negará todo servicio hasta que se cubra el adeudo.

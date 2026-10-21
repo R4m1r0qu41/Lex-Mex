@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LCM.pdf
 source_sha256: 8e270686b885035488bfe310b0b42bb40e7154431794227ebe212dd7dc12e46a
 ---
 
-> Título TERCERO
+> Título TERCERO · Capítulo V
 
 # Artículo 90
 
@@ -25,4 +25,4 @@ II. Los derechos a favor y las obligaciones a cargo del Comerciante que hubieren
 
 III. Los derechos y obligaciones que deriven de las operaciones previstas en los artículos [102](articulo-102.md) al [105](articulo-105.md) de esta [Ley](articulo-4o.md), y
 
-IV. Los créditos fiscales a favor y en contra del Comerciante. Sección II De los contratos pendientes
+IV. Los créditos fiscales a favor y en contra del Comerciante.

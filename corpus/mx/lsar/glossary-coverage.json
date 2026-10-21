@@ -8,7 +8,7 @@
   "glossaries": [
     {
       "provision_id": "urn:lex-mx:federal:statute:lsar:article:3",
-      "provision_text_sha256": "a4d0ccbffd2e663c8ea42c1fcb28412060654db014e06f3783a0a798662e9832",
+      "provision_text_sha256": "219720e7740b2d367328471d56d34fe32442972d1cf94f0cb8364eb4e4663c9a",
       "method": "established_pass",
       "fractions": [
         "I",
@@ -36,5 +36,5 @@
   ],
   "imports": [],
   "term_count": 18,
-  "usage_count": 115
+  "usage_count": 112
 }

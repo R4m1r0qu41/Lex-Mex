@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf
 source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 ---
 
+> Título III · Capítulo Primero
+
 # Artículo 37 Bis
 
 La [Comisión](articulo-2.md), previo acuerdo de su Junta de Gobierno, podrá autorizar mediante disposiciones de carácter general a las sociedades operadoras, distribuidoras o valuadoras, participar en el capital social de empresas que les presten servicios complementarios o auxiliares en su administración o en la realización de su objeto, dentro de los porcentajes y sujeto a los requisitos que se establezcan en dichas disposiciones.

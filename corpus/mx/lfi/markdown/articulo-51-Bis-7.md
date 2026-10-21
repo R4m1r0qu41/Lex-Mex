@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf
 source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 ---
 
+> Título III · Capítulo Noveno
+
 # Artículo 51 Bis 7
 
 Las sociedades operadoras de fondos de inversión que actúen como fiduciarias, cuando al ser requeridas no rindan las cuentas de su gestión dentro de un plazo de quince días hábiles, o cuando sean declaradas por sentencia ejecutoriada, culpables de las pérdidas o menoscabo que sufran los bienes dados en fideicomiso o responsables de esas pérdidas o menoscabo por negligencia grave, procederá su remoción como fiduciarias.

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAPP.pdf
 source_sha256: a4505a7bd41bc835f1def6fb030c42d8e74a2cc050d9c8fa08f91c9519e382bf
 ---
 
+> Capítulo Sexto · Sección Segunda
+
 # Artículo 97
 
 A los inmuebles, bienes y derechos del dominio público de un proyecto de asociación público-privada les será aplicable la Ley General de Bienes Nacionales y demás disposiciones respectivas.

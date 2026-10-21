@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LOTFJA.pdf
 source_sha256: b32c33fa4ed071dc8bea1ad69ce8510cdb05016967e9e4fcb60f10c6f2216628
 ---
 
-> Título SEGUNDO
+> Título SEGUNDO · Capítulo VI
 
 # Artículo 19
 
@@ -28,5 +28,3 @@ Si con ese proyecto persistiera el empate, el [Presidente del Tribunal](articulo
 Siempre que un Magistrado disintiere de la mayoría podrá formular voto particular, el cual se insertará o engrosará al final de la sentencia respectiva si fuere presentado dentro de los cinco días siguientes a la fecha de la sesión.
 
 Para la validez de las sesiones de la Secciones Primera y Segunda se requerirá la presencia de cuatro Magistrados y los debates serán dirigidos por el Presidente de la Sección.
-
-Capítulo VII De las atribuciones de la Sección Tercera de la Sala Superior

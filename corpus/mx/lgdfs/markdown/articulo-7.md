@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDFS.pdf
 source_sha256: 2c75fd0eab3245aed43a4e1230dcd142b48959a1df09bdd4e70684935a505dd4
 ---
 
-> Título PRIMERO
+> Título PRIMERO · Capítulo I
 
 # Artículo 7
 
@@ -31,7 +31,9 @@ III. Aprovechamiento forestal sustentable: La extracción realizada en los térm
 
 III Bis. Árbol: Planta leñosa perenne con un solo tronco principal o, en el caso del monte bajo con varios tallos, que tengan una copa más o menos definida; Fracción adicionada DOF 11-04-2022
 
-III Bis 1. Arbusto: Planta leñosa perenne con una altura que sobrepasa generalmente los 0.5 metros pero no alcanza los 5 metros a su madurez y sin un solo vástago principal, ni una copa definida; Fracción adicionada DOF 11-04-2022 IV. Áreas de Protección Forestal: Comprende los espacios forestales o boscosos colindantes a la zona federal y de influencia de nacimientos, corrientes, cursos y cuerpos de agua, o la faja de terreno inmediata a los cuerpos de propiedad particular, en la extensión que en cada caso fije la autoridad, de acuerdo con el Reglamento de esta Ley;
+III Bis 1. Arbusto: Planta leñosa perenne con una altura que sobrepasa generalmente los 0.5 metros pero no alcanza los 5 metros a su madurez y sin un solo vástago principal, ni una copa definida; Fracción adicionada DOF 11-04-2022
+
+IV. Áreas de Protección Forestal: Comprende los espacios forestales o boscosos colindantes a la zona federal y de influencia de nacimientos, corrientes, cursos y cuerpos de agua, o la faja de terreno inmediata a los cuerpos de propiedad particular, en la extensión que en cada caso fije la autoridad, de acuerdo con el Reglamento de esta Ley;
 
 V. Auditoría Técnica Preventiva: La evaluación que realiza el personal autorizado para promover e inducir el cumplimiento de lo establecido en los programas de manejo, estudios técnicos en ejecución y demás actos previstos en la Ley y otras disposiciones legales aplicables, respecto al aprovechamiento forestal;
 
@@ -105,7 +107,9 @@ XXXVII. Materias primas forestales: Los productos del aprovechamiento de los rec
 
 XXXVIII. Ordenación forestal: La organización económica de un área forestal tomando en cuenta sus características silvícolas, que implica la división espacial y temporal de las actividades del manejo forestal;
 
-XXXVIII Bis. Otros terrenos forestales: Terrenos cubiertos de vegetación forestal que no reúnen las características para ser considerados terrenos forestales arbolados; Fracción adicionada DOF 13-04-2020 XXXIX. Plaga Forestal: Forma de vida vegetal o animal o agente patogénico, dañino o potencialmente dañino para los recursos forestales;
+XXXVIII Bis. Otros terrenos forestales: Terrenos cubiertos de vegetación forestal que no reúnen las características para ser considerados terrenos forestales arbolados; Fracción adicionada DOF 13-04-2020
+
+XXXIX. Plaga Forestal: Forma de vida vegetal o animal o agente patogénico, dañino o potencialmente dañino para los recursos forestales;
 
 XL. Plantación forestal comercial: Es el cultivo de especies forestales establecidas en terrenos temporalmente forestales o preferentemente forestales, con propósitos mercantiles;
 
@@ -193,10 +197,10 @@ LXXX. Vegetación forestal: Es el conjunto de plantas y hongos que crecen y se d
 
 LXXX Bis. Vegetación Forestal de Zonas Áridas: Aquella que se desarrolla en forma espontánea en zonas de clima seco y muy seco. Se incluyen todos los tipos de matorral, selva baja espinosa y chaparral de la clasificación del Instituto Nacional de Estadística y Geografía, así como cualquier otro tipo de vegetación espontánea arbórea o arbustiva que ocurra en zonas con precipitación media anual inferior a 600 milímetros; Fracción adicionada DOF 11-04-2022
 
-LXXXI. Vegetación secundaria nativa: Aquella vegetación forestal que surge de manera espontánea como proceso de sucesión o recuperación en zonas donde ha habido algún impacto natural o antropogénico; Fracción reformada DOF 13-04-2020 LXXXII. Visita de Inspección: La supervisión que realiza el personal autorizado para verificar que el aprovechamiento, manejo, transporte, almacenamiento y transformación de recursos forestales, se ajuste a la ley y demás disposiciones jurídicas aplicables;
+LXXXI. Vegetación secundaria nativa: Aquella vegetación forestal que surge de manera espontánea como proceso de sucesión o recuperación en zonas donde ha habido algún impacto natural o antropogénico; Fracción reformada DOF 13-04-2020
+
+LXXXII. Visita de Inspección: La supervisión que realiza el personal autorizado para verificar que el aprovechamiento, manejo, transporte, almacenamiento y transformación de recursos forestales, se ajuste a la ley y demás disposiciones jurídicas aplicables;
 
 LXXXIII. Vivero forestal: Sitio que cuenta con un conjunto de instalaciones, equipo, herramientas e insumos, en el cual se aplican técnicas apropiadas para la producción de plántulas forestales con talla y calidad apropiada según la especie, para su plantación en un lugar definitivo, y
 
 LXXXIV. Zonificación forestal: Es el instrumento de planeación en el cual se identifican, agrupan y ordenan los terrenos forestales y preferentemente forestales dentro de las cuencas hidrográficas, con criterios de conservación, restauración y manejo sustentable.
-
-Capítulo II Derechos y [Salvaguardas](articulo-7.md)

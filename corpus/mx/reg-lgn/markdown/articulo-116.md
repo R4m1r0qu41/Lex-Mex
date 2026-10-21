@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGN_111220.pdf
 source_sha256: ea6e39560929f2e1998b2dabe0852fde0d684c69e5be49aab7f33433299bbeb0
 ---
 
-> Título TERCERO
+> Título TERCERO · Capítulo III
 
 # Artículo 116
 
@@ -36,5 +36,3 @@ VI. Mérito Facultativo;
 VII. Mérito Docente;
 
 VIII. Mérito Deportivo, y IX. Tiempo de Servicio.
-
-Sección Segunda De las Menciones Honoríficas, Distinciones, Citaciones y Recompensas

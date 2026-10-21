@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAC.pdf
 source_sha256: 4dcf5277184d5f5c5cc1c8ae2dfa196134b472d883eb2806c7bac27cd77eda7d
 ---
 
-> Título TERCERO · Capítulo I BIS
+> Título Cuarto · Capítulo VI
 
 # Artículo 134 Bis
 
@@ -52,7 +52,3 @@ XV. Sistema de energía auxiliar en caso de falla del sistema principal. Los equ
 La Agencia Federal de Aviación Civil convalidará la instalación de los equipos y sistemas, conforme a la disposición técnico-administrativa correspondiente. Párrafo adicionado DOF 31-05-2023
 
 Artículo adicionado DOF 21-01-2022
-
-Capítulo VII Del mantenimiento de las aeronaves y de los talleres aeronáuticos
-
-Sección primera Del mantenimiento de las aeronaves

@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFDA.pdf
 source_sha256: 1844f4e56b279c17061db90f4ab7970df3794e3a5ae10d74a0aec1f12641e7a5
 ---
 
-> Título V
+> Título V · Capítulo II
 
 # Artículo 122
 
@@ -24,5 +24,3 @@ I. La primera fijación de la interpretación o ejecución en un fonograma;
 II. La primera interpretación o ejecución de obras no grabadas en fonogramas,o
 
 III. La transmisión por primera vez a través de la radio, televisión o cualquier medio.
-
-Capítulo III De los Editores de Libros

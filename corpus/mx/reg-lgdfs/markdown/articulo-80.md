@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGDFS.pdf
 source_sha256: a4dbcdb94d780332f0bda62246611dab5972e75bcb01df293df93a95cdd03530
 ---
 
-> Título TERCERO
+> Título TERCERO · Capítulo II
 
 # Artículo 80
 
@@ -26,5 +26,3 @@ II. Número de oficio de la autorización o fecha de recepción del aviso, segú
 En el caso de aprovechamientos maderables y no maderables, el aviso a que se refiere el presente artículo deberá estar acompañado de un informe de finiquito del aprovechamiento, en el que se señale el estado que guardan las actividades y los compromisos de conservación y de mitigación de impactos ambientales establecidos en el Programa de manejo forestal, así como en la autorización o aviso correspondiente, avalado, en su caso, por el Prestador de Servicios forestales.
 
 Se tendrá por extinguida la autorización o aviso en la fecha de recepción del aviso de renuncia.
-
-Sección IV Colecta de Recursos Biológicos Forestales

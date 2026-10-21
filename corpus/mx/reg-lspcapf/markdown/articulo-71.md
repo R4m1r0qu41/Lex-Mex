@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSPCAPF.pdf
 source_sha256: b4a968d8e8c138ac2069f6afa0dc622178328df24f59cf58eddbab8efe4a7eff
 ---
 
+> Capítulo Décimo Tercero
+
 # Artículo 71
 
 Como resultado de las sesiones de seguimiento o de cumplimiento del plan de acción se deben acordar las acciones de capacitación, actualización y apoyo para fortalecer el desempeño y el logro de resultados del servidor público de carrera, para lo cual se deben considerar sus fortalezas y áreas de oportunidad identificadas previamente. Párrafo reformado DOF 04-01-2024

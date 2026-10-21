@@ -28,5 +28,3 @@ b) Dirigir los trabajos de las áreas a él adscritas y acordar con los titulare
 c) Realizar estudios sobre la organización, el funcionamiento y los procedimientos de la Cámara, así como promover investigaciones de derecho parlamentario comparado; y
 
 d) Cumplir las demás funciones que le confieren esta ley y los ordenamientos relativos a la actividad parlamentaria.
-
-Sección Tercera De la Secretaría de Servicios Administrativos y Financieros

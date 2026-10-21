@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf
 source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 ---
 
+> Título IV · Capítulo Quinto
+
 # Artículo 82 Bis
 
 La [Comisión](articulo-2.md) otorgará a las sociedades interesadas el derecho de audiencia a que se refieren los artículos [82](articulo-82.md) y [83](articulo-83.md) a fin de que, dentro del plazo de diez días hábiles, contado a partir del día hábil siguiente a aquél en que surta efectos la notificación correspondiente, manifiesten por escrito lo que a su interés convenga y ofrezcan pruebas. La Comisión, a petición de parte, podrá ampliar por una sola ocasión este plazo, hasta por el mismo lapso, atendiendo a las circunstancias particulares del caso. Las notificaciones surtirán efectos al día hábil siguiente a aquél en que se practiquen.

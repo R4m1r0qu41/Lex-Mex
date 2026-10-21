@@ -13,8 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LNUF.pdf
 source_sha256: 0c11f4464286e7411713a80361a2e1ab15c4cc55bff80b4e6ee4a4333592d50c
 ---
 
+> Capítulo IX
+
 # Artículo 39
 
 Los datos personales de los agentes que hayan utilizado fuerza letal deberán ser tratados en términos de la legislación en la materia.
-
-Capítulo X Capacitación y Profesionalización

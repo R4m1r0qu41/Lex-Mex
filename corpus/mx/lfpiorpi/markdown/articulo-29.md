@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPIORPI.pdf
 source_sha256: 2e35228bd3100a3a137f313359833c4836f2b4b6d4e52e1ce4fe58a970cd768f
 ---
 
+> Capítulo III · Sección Cuarta
+
 # Artículo 29
 
 La [Entidad Colegiada](articulo-3.md) deberá cumplir en tiempo y forma con los requerimientos de información y documentación relacionada con los [Avisos](articulo-3.md) que la [Secretaría](articulo-3.md) le formule por escrito o durante las visitas de verificación.

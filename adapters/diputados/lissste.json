@@ -12,11 +12,11 @@
   "publication_date": "2007-03-31",
   "expected_min_articles": 259,
   "expected_articles": 259,
-  "expected_transitories": 39,
+  "expected_transitories": 48,
   "count_baseline": {
     "provenance": "machine-proposed",
     "parser_version": "0.1.0",
-    "proposed_at": "2026-07-12T08:00:39Z"
+    "proposed_at": "2026-10-21T16:40:00Z"
   },
   "allow_article_gaps": true,
   "formal_publication_urls": {}

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf
 source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 ---
 
+> Título IV · Capítulo Primero
+
 # Artículo 55 Bis 2
 
 La [Comisión](articulo-2.md), a solicitud de las autoridades citadas en el artículo [55 Bis 1](articulo-55-Bis-1.md) anterior y, con base en el principio de reciprocidad, podrá realizar visitas de inspección a las filiales. A discreción de la misma, las visitas podrán hacerse por su conducto o bien, en cooperación con la autoridad financiera del exterior de que se trate, podrá permitir que esta última la realice.

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPIORPI.pdf
 source_sha256: 2e35228bd3100a3a137f313359833c4836f2b4b6d4e52e1ce4fe58a970cd768f
 ---
 
+> Capítulo IV Bis
+
 # Artículo 33 Ter
 
 Las sociedades mercantiles también deben registrar en el sistema electrónico referido en el artículo 33 Bis de la [Ley](articulo-3.md), la información necesaria para identificar a la persona o grupo de personas que cumplan los supuestos para ser consideradas como [Beneficiario Controlador](articulo-3.md) de dichas personas morales, conforme a los lineamientos que al efecto emita la [Secretaría](articulo-3.md) en los términos de esta Ley.

@@ -13,8 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LICal_010720.pdf
 source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 ---
 
-> Título SEGUNDO
+> Título SEGUNDO · Capítulo I
 
 # Artículo 120
 
-Los productos empacados o envasados por fabricantes, importadores o comerciantes deberán ostentar la información en materia de metrología legal que establezcan las [Normas Oficiales Mexicanas](articulo-4.md) y los [Estándares](articulo-4.md) ahí referidos, así como la demás información prevista en éstas. Capítulo II De la [Aprobación](articulo-4.md) de Modelo de los Instrumentos para Medir
+Los productos empacados o envasados por fabricantes, importadores o comerciantes deberán ostentar la información en materia de metrología legal que establezcan las [Normas Oficiales Mexicanas](articulo-4.md) y los [Estándares](articulo-4.md) ahí referidos, así como la demás información prevista en éstas.

@@ -26,5 +26,3 @@ III. El Gobierno Federal cubrirá mensualmente una [Cuota Social](articulo-6.md)
 Para efecto de las Cuotas y Aportaciones de los [Pensionados](articulo-6.md) por riesgos del trabajo o invalidez, las cotizaciones antes mencionadas se realizarán con base en el monto de la Pensión que reciban.
 
 Los recursos a que se refiere este artículo se depositarán en las [Subcuentas](articulo-6.md) de retiro, cesantía en edad avanzada y vejez.
-
-Sección VII Bis De los Créditos otorgados por entidades financieras con cargo a las pensiones Sección adicionada DOF 28-05-2012

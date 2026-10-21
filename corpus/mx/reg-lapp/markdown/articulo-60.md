@@ -13,12 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAPP_200217.pdf
 source_sha256: 4ff895e3a71cad0980a03360585d24750d7e165b6ea2537fc44c5c05f9142ce7
 ---
 
-> Capítulo CUARTO
+> Capítulo CUARTO · Sección Primera
 
 # Artículo 60
 
 Los servicios de [Agente](articulo-11.md) podrán contratarse con instituciones de banca de desarrollo, en cuyo caso se hará mediante adjudicación directa y no será aplicable lo dispuesto en el artículo [58](articulo-58.md) de este Reglamento.
-
-Sección Segunda De los [Concursos](articulo-11.md)
-
-Subsección Primera De los Observadores y Testigos Sociales

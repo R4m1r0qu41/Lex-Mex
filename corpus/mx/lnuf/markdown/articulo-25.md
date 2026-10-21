@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LNUF.pdf
 source_sha256: 0c11f4464286e7411713a80361a2e1ab15c4cc55bff80b4e6ee4a4333592d50c
 ---
 
+> Capítulo VI
+
 # Artículo 25
 
 Las detenciones podrán ser registradas en medios audiovisuales que serán accesibles por los medios que establezcan las disposiciones en materia de acceso a la información pública y protección de datos personales.

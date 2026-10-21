@@ -23,4 +23,6 @@ source_sha256: 6fa1d25c31c4d8c2cc8074208b10a2f3ff35fecce26c1cc03ba18117cfec80d1
 
 3. El voto particular deberá enviarse al Presidente de la [Junta Directiva](articulo-2.md) por escrito, hasta antes de que el dictamen aprobado se remita a la [Mesa Directiva](articulo-2.md) con el dictamen aprobado, con el fin de que se publique en la [Gaceta](articulo-2.md) y sirva para ilustrar la discusión en el Pleno.
 
-4. El voto particular será puesto a discusión sólo en caso de que el Pleno deseche el dictamen, con proyecto de ley o decreto aprobado por la comisión. Numeral reformado DOF 20-04-2011 5. Si hubiese más de un voto particular, se discutirán en orden decreciente atendiendo a la representatividad de los grupos a los que pertenezcan los ponentes del voto.
+4. El voto particular será puesto a discusión sólo en caso de que el Pleno deseche el dictamen, con proyecto de ley o decreto aprobado por la comisión. Numeral reformado DOF 20-04-2011
+
+5. Si hubiese más de un voto particular, se discutirán en orden decreciente atendiendo a la representatividad de los grupos a los que pertenezcan los ponentes del voto.

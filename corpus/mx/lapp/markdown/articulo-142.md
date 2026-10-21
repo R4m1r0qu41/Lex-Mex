@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAPP.pdf
 source_sha256: a4505a7bd41bc835f1def6fb030c42d8e74a2cc050d9c8fa08f91c9519e382bf
 ---
 
+> Capítulo Duodécimo · Sección Cuarta
+
 # Artículo 142
 
 Para iniciar cualquier procedimiento administrativo o jurisdiccional, relativo a actos referidos a la presente [Ley](articulo-12.md) o a las disposiciones que de ella emanen, los particulares deberán otorgar garantía para cubrir las multas, daños y perjuicios que puedan llegar a originarse en términos de las disposiciones jurídicas que rigen dichos procedimientos.

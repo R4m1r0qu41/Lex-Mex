@@ -27,7 +27,9 @@ III. La asistencia a Reunión de otra comisión de la que sea integrante o cuand
 
 IV. La asistencia a Reunión de [Junta](articulo-2.md) o [Conferencia](articulo-2.md), y
 
-V. El cumplimiento de encomiendas autorizadas por el Pleno, la Junta, la [Mesa Directiva](articulo-2.md), el coordinador o la [Junta Directiva](articulo-2.md) de alguna comisión a la que pertenezca. Fracción reformada DOF 20-04-2011 2. La acreditación de justificaciones de inasistencia por las causas señaladas en las fracciones I, II y V se harán presentando ante la Junta Directiva los elementos señalados para la justificación de inasistencias a sesiones del Pleno.
+V. El cumplimiento de encomiendas autorizadas por el Pleno, la Junta, la [Mesa Directiva](articulo-2.md), el coordinador o la [Junta Directiva](articulo-2.md) de alguna comisión a la que pertenezca. Fracción reformada DOF 20-04-2011
+
+2. La acreditación de justificaciones de inasistencia por las causas señaladas en las fracciones I, II y V se harán presentando ante la Junta Directiva los elementos señalados para la justificación de inasistencias a sesiones del Pleno.
 
 3. La justificación por asistencia a Reunión de otra comisión de la que sea integrante, deberá acreditarse presentando ante la Junta Directiva el registro de asistencia inicial y final de aquella Reunión. Numeral reformado DOF 20-04-2011
 

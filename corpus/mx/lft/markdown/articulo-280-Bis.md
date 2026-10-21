@@ -19,7 +19,9 @@ source_sha256: 12f09393a1951a91c3f57f579bf611b034edf1a5f78cdbfb828e23ff3a9acbf7
 
 La Comisión Nacional de los Salarios Mínimos fijará los salarios mínimos profesionales de las personas trabajadoras del campo, debiendo tomar en consideración, entre otras, las circunstancias siguientes: Párrafo reformado DOF 24-01-2024
 
-I. La naturaleza esencial de los trabajos para la seguridad y soberanía alimentaria del país, así como la cantidad y calidad de éstos; Fracción reformada DOF 24-01-2024 II. El desgate físico ocasionado por las condiciones del trabajo, y
+I. La naturaleza esencial de los trabajos para la seguridad y soberanía alimentaria del país, así como la cantidad y calidad de éstos; Fracción reformada DOF 24-01-2024
+
+II. El desgate físico ocasionado por las condiciones del trabajo, y
 
 III. Los salarios y prestaciones percibidas por las personas trabajadoras del campo de establecimientos y empresas dedicadas a la producción de productos en las actividades a que se refiere este Capítulo, donde las personas trabajadoras del campo estén suficientemente organizadas. Fracción reformada DOF 24-01-2024
 

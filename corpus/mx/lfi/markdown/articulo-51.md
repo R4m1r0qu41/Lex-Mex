@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf
 source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 ---
 
+> Título III · Capítulo Séptimo
+
 # Artículo 51
 
 Los servicios de depósito de los valores inscritos en el [Registro Nacional](articulo-2.md) que integran el activo de los fondos de inversión, serán proporcionados por las instituciones para el depósito de valores o, en su caso, por las entidades que determine la [Comisión](articulo-2.md) conforme al artículo [16](articulo-16.md) de esta Ley.
@@ -34,5 +36,3 @@ I. El nombre, nacionalidad y domicilio del accionista, y la indicación de las a
 II. Las transmisiones de acciones que se realicen. Los fondos de inversión considerarán como dueño de las acciones a quien aparezca inscrito como tal en el registro a que se refiere el presente artículo. A este efecto, las entidades financieras señaladas deberán inscribir en dicho registro a petición de cualquier titular las transmisiones que se efectúen.
 
 Artículo reformado DOF 10-01-2014
-
-Capítulo Octavo De los servicios administrativos Capítulo adicionado DOF 10-01-2014

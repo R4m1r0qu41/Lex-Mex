@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Cuarto · Capítulo Único
+
 # Artículo 692
 
 Las Capitanías de Puerto, conforme al contenido de los artículos [9](../../lncm/markdown/articulo-9.md), fracción XIII y [326](../../lncm/markdown/articulo-326.md), fracción IV de la [Ley](articulo-10.md), en el ámbito de sus respectivas jurisdicciones y competencia, sancionarán las violaciones a las disposiciones de Ley y reguladas en el presente Reglamento conforme a lo siguiente:

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf
 source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 ---
 
+> Título IV · Capítulo Tercero
+
 # Artículo 81
 
 La [Comisión](articulo-2.md) y el Banco de México, en el ámbito de sus respectivas competencias, contarán con facultades para investigar, en la esfera administrativa, actos o hechos que presuntamente constituyan o puedan llegar a constituir una infracción a lo previsto en esta Ley o a las disposiciones de carácter general que de ella deriven. Párrafo reformado DOF 24-01-2024

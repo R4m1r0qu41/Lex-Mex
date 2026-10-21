@@ -13,9 +13,13 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAC.pdf
 source_sha256: 4dcf5277184d5f5c5cc1c8ae2dfa196134b472d883eb2806c7bac27cd77eda7d
 ---
 
+> Título Segundo · Capítulo II
+
 # Artículo 29-A
 
-Las personas permisionarias del servicio de transporte aéreo internacional regular deben solicitar autorización para la modificación de sus horarios, para lo cual deben presentar solicitud por escrito, en el formato que autorice la Agencia Federal de Aviación Civil, señalando las modificaciones hechas a los últimos horarios-itinerarios autorizados y acompañarse de los documentos que a continuación se señalan: Párrafo reformado DOF 31-05-2023 I. Recomendación sobre los horarios-itinerarios emitida por el Comité de Operación y Horarios de los aeropuertos involucrados, y Fracción reformada DOF 05-10-2000
+Las personas permisionarias del servicio de transporte aéreo internacional regular deben solicitar autorización para la modificación de sus horarios, para lo cual deben presentar solicitud por escrito, en el formato que autorice la Agencia Federal de Aviación Civil, señalando las modificaciones hechas a los últimos horarios-itinerarios autorizados y acompañarse de los documentos que a continuación se señalan: Párrafo reformado DOF 31-05-2023
+
+I. Recomendación sobre los horarios-itinerarios emitida por el Comité de Operación y Horarios de los aeropuertos involucrados, y Fracción reformada DOF 05-10-2000
 
 II. Original y dos copias de la relación de horarios.
 

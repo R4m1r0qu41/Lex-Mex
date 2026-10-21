@@ -46,5 +46,3 @@ d) Ejecutar en los casos que le corresponda, así como supervisar y vigilar que 
 e) Formular los programas anuales de naturaleza administrativa y financiera; y
 
 f) Informar trimestralmente a la Conferencia para la Dirección y Programación de los Trabajos Legislativos, sobre el cumplimiento de las políticas, lineamientos y acuerdos adoptados por ésta, y respecto al desempeño en la prestación de los servicios parlamentarios y administrativos y financieros.
-
-Sección Segunda De la Secretaría de Servicios Parlamentarios

@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGDFS.pdf
 source_sha256: a4dbcdb94d780332f0bda62246611dab5972e75bcb01df293df93a95cdd03530
 ---
 
-> Título PRIMERO
+> Título PRIMERO · Capítulo I
 
 # Artículo 2
 
@@ -64,5 +64,3 @@ XXIII. UTM, Sistema de Proyección Universal Trasversal de Mercator, utilizado p
 XXIV. Veda forestal, restricción total o parcial de carácter temporal para el Aprovechamiento de los Recursos forestales que se determinen en una superficie, establecida mediante Decreto expedido por el Titular del Poder Ejecutivo Federal, y
 
 XXV. Vegetación forestal de zonas áridas y semiáridas, aquella que se desarrolla en forma espontánea en regiones de clima árido o semiárido, formando masas mayores a 1,500 metros cuadrados. Se incluyen todos los tipos de matorral, Selva baja espinosa y chaparral de la clasificación del Instituto Nacional de Estadística y Geografía, así como cualquier otro tipo de vegetación espontánea arbórea o arbustiva que ocurra en zonas con precipitación media anual inferior a 500 milímetros.
-
-Capítulo II Derechos y Salvaguardas

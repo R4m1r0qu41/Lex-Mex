@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LOTFJA.pdf
 source_sha256: b32c33fa4ed071dc8bea1ad69ce8510cdb05016967e9e4fcb60f10c6f2216628
 ---
 
-> Título SEGUNDO
+> Título SEGUNDO · Capítulo XI
 
 # Artículo 39
 
@@ -42,5 +42,3 @@ XI. Dirigir la audiencia de vista con el personal de apoyo administrativo y juri
 XII. Dar seguimiento y proveer la ejecución de las resoluciones que emita, y
 
 XIII. Las demás que les correspondan conforme a las disposiciones legales aplicables.
-
-Capítulo XII De las Salas Regionales Auxiliares

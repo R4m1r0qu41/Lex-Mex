@@ -23,6 +23,8 @@ En los demás casos a que se refiere el [artículo anterior](articulo-762.md), s
 
 Lo establecido en los párrafos anteriores no aplica en lo que se refiere al juicio individual ordinario previsto en el capítulo XVII del presente Título. Párrafo adicionado DOF 01-05-2019
 
-Al promoverse un incidente, se señalarán los motivos de este y acompañarse las pruebas en que lo funde; de no cumplir con dichos requisitos, el tribunal lo desechará de plano. Párrafo adicionado DOF 01-05-2019 Los incidentes que no tengan señalada una tramitación especial en esta Ley se resolverán de plano oyendo a las partes.
+Al promoverse un incidente, se señalarán los motivos de este y acompañarse las pruebas en que lo funde; de no cumplir con dichos requisitos, el tribunal lo desechará de plano. Párrafo adicionado DOF 01-05-2019
+
+Los incidentes que no tengan señalada una tramitación especial en esta Ley se resolverán de plano oyendo a las partes.
 
 Artículo reformado DOF 04-01-1980, 30-11-2012

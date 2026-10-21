@@ -13,10 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAN_250814.pdf
 source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 ---
 
-> Título SEXTO
+> Título SEXTO · Capítulo II
 
 # Artículo 110
 
 La interconexión o fusión de un distrito de riego con otro u otros distritos o con unidades de riego, a que se refiere la fracción I, del artículo [75](../../lan/markdown/articulo-75.md) de la "[Ley](articulo-1o.md)", se podrá realizar cuando esta acción redunde en un mejor aprovechamiento de las aguas disponibles en los mismos, para lo cual "[La Comisión](articulo-1o.md)" realizará los estudios correspondientes y emitirá las recomendaciones que considere pertinentes.
-
-Sección Quinta Drenaje Agrícola

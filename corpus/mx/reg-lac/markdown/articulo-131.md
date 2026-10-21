@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAC.pdf
 source_sha256: 4dcf5277184d5f5c5cc1c8ae2dfa196134b472d883eb2806c7bac27cd77eda7d
 ---
 
-> Título TERCERO · Capítulo I BIS
+> Título Cuarto · Capítulo V
 
 # Artículo 131
 
@@ -52,5 +52,3 @@ XVI. Los procedimientos para la tripulación de vuelo al mando de aeronaves inte
 XVII. Los demás que, en su caso, se determine en las normas oficiales mexicanas y, en lo no previsto en éstas, en las disposiciones técnico administrativas, con base en el avance en el desarrollo tecnológico. Fracción adicionada DOF 21-01-2022
 
 Las personas operadoras aéreas únicamente deben cumplir lo dispuesto en las fracciones I, II, III, IV, VI, VII, VIII, IX, X, XI, XII, XV, XVI y XVII, señaladas en el párrafo anterior. Párrafo reformado DOF 21-01-2022, 31-05-2023
-
-Capítulo VI Del equipo de comunicaciones, navegación y vigilancia de a bordo Denominación del Capítulo reformada DOF 21-01-2022

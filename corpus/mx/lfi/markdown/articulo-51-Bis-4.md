@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf
 source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 ---
 
+> Título III · Capítulo Noveno
+
 # Artículo 51 Bis 4
 
 Las sociedades operadoras de fondos de inversión en las operaciones de fideicomiso en que funjan como fiduciarias, abrirán contabilidades especiales por cada contrato, debiendo registrar en las mismas y en su propia contabilidad, el dinero y demás bienes, valores o derechos que se les confíen, así como los incrementos o disminuciones por los ingresos o egresos respectivos.

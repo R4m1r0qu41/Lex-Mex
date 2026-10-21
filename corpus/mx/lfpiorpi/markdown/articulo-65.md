@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPIORPI.pdf
 source_sha256: 2e35228bd3100a3a137f313359833c4836f2b4b6d4e52e1ce4fe58a970cd768f
 ---
 
+> Capítulo VIII
+
 # Artículo 65
 
 Se requiere de la denuncia previa de la [Secretaría](articulo-3.md) para proceder penalmente en contra de los empleados, directivos, funcionarios, consejeros o de cualquier persona que realice actos en nombre de las instituciones financieras autorizadas por la Secretaría, que estén involucrados en la comisión de cualquiera de los delitos previstos en los artículos [62](articulo-62.md) y [63](articulo-63.md) de esta [Ley](articulo-3.md).

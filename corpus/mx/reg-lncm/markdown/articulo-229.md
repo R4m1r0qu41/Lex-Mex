@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Tercero · Capítulo I
+
 # Artículo 229
 
 Si los permisos temporales de Navegación a que se refiere el artículo [40](../../lncm/markdown/articulo-40.md) de la [Ley](articulo-10.md), pretenden otorgarse por no existir Embarcaciones mexicanas disponibles y en igualdad de condiciones técnicas, la [Dirección General](articulo-10.md), antes de concederlos, avisará a la Cámara Industrial del Transporte Marítimo registrada ante la Secretaría de Economía conforme a la Ley de Cámaras Empresariales y sus Confederaciones, dentro de los tres días hábiles siguientes a la presentación de la solicitud del permiso, a efecto de que informe si existe Embarcación mexicana disponible y en igualdad de condiciones técnicas. Si la Cámara no emite respuesta dentro de los cinco días hábiles posteriores a la presentación del aviso, la Dirección General resolverá lo conducente.

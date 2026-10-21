@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAPP.pdf
 source_sha256: a4505a7bd41bc835f1def6fb030c42d8e74a2cc050d9c8fa08f91c9519e382bf
 ---
 
+> Capítulo Séptimo · Sección Cuarta
+
 # Artículo 115
 
 Al concluir la intervención, se devolverá al desarrollador la administración del proyecto y los ingresos percibidos, una vez deducidos todos los gastos y honorarios de la intervención, así como las penalidades en las que, en su caso, hubiere incurrido.

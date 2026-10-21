@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Segundo · Capítulo III
+
 # Artículo 82
 
 Los folios constarán en dos ejemplares; uno de ellos quedará en la oficina local del Registro; y la oficina que reciba la solicitud deberá remitir el otro ejemplar a la oficina central para su custodia y conservación.

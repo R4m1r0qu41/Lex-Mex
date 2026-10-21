@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGRA.pdf
 source_sha256: 1289ec6964e48c84990572ca6080ca05c9d6210e5b0ff5af6d8c9d935fc5fcc8
 ---
 
-> Título PRIMERO
+> Título PRIMERO · Capítulo III
 
 # Artículo 101
 
@@ -24,5 +24,3 @@ I. Que la actuación del servidor público, en la atención, trámite o resoluci
 II. Que el acto u omisión fue corregido o subsanado de manera espontánea por el servidor público o implique error manifiesto y en cualquiera de estos supuestos, los efectos que, en su caso, se hubieren producido, desaparecieron.
 
 La autoridad investigadora o el denunciante, podrán impugnar la abstención, en los términos de lo dispuesto por el siguiente Capítulo.
-
-Capítulo IV Impugnación de la calificación de faltas no graves

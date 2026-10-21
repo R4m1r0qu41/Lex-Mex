@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Tercero · Capítulo III
+
 # Artículo 297
 
 Las Embarcaciones o Artefactos Navales para ser sujetas de reconocimiento, [Inspección](articulo-10.md) y, en su caso, certificación, deberán estar disponibles para realizar cualquier prueba que se solicite, y además deberán contar con:

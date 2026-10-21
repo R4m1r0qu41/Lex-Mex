@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFEA.pdf
 source_sha256: 910ba43ef1ae54b3b12fe325f65c81056191fde641c52a10ba709f0f1a39021f
 ---
 
+> Capítulo I
+
 # Artículo 4
 
 Para efectos de lo dispuesto en el artículo [4](../../lfea/markdown/articulo-4.md) de la [Ley](articulo-2.md), son actos en los que no es factible el uso de la Firma Electrónica Avanzada por disposición de Ley, aquéllos en los que una disposición legal exija la firma autógrafa de los servidores públicos o de los particulares.

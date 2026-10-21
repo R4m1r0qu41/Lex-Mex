@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Tercero · Capítulo III
+
 # Artículo 324
 
 Las personas físicas y morales para ser autorizadas a realizar las actividades de reconocimientos, [Inspecciones](articulo-10.md), y verificaciones, de Embarcaciones, Artefactos Navales y Unidades Mar Adentro, deberán cumplir con las disposiciones que establece la Resolución, A.739 (18) de la [OMI](articulo-10.md) o la que la sustituya y bajo los términos que la [Dirección General](articulo-10.md) establezca.

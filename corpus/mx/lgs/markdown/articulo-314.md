@@ -39,7 +39,9 @@ VIII. Embrión, al producto de la concepción a partir de ésta, y hasta el tér
 
 IX. Feto, al producto de la concepción a partir de la decimotercera semana de edad gestacional, hasta la expulsión del seno materno;
 
-X. Órgano, a la entidad morfológica compuesta por la agrupación de tejidos diferentes, que mantiene de modo autónomo su estructura, vascularización y capacidad de desarrollar funciones fisiológicas; Fracción reformada DOF 12-12-2011 XI. Producto, a todo tejido o sustancia extruida, excretada o expelida por el cuerpo humano como resultante de procesos fisiológicos normales. Serán considerados productos, para efectos de este Título, la placenta y los anexos de la piel;
+X. Órgano, a la entidad morfológica compuesta por la agrupación de tejidos diferentes, que mantiene de modo autónomo su estructura, vascularización y capacidad de desarrollar funciones fisiológicas; Fracción reformada DOF 12-12-2011
+
+XI. Producto, a todo tejido o sustancia extruida, excretada o expelida por el cuerpo humano como resultante de procesos fisiológicos normales. Serán considerados productos, para efectos de este Título, la placenta y los anexos de la piel;
 
 XI Bis. Productos sanguíneos, a los diversos preparados de la sangre que tienen utilidad terapéutica, incluyen las unidades de sangre total, de sus componentes y mezclas de estos; Fracción adicionada DOF 15-01-2026
 

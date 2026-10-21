@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAPP_200217.pdf
 source_sha256: 4ff895e3a71cad0980a03360585d24750d7e165b6ea2537fc44c5c05f9142ce7
 ---
 
-> Capítulo SEXTO
+> Capítulo SEXTO · Sección Primera
 
 # Artículo 106
 
@@ -28,5 +28,3 @@ III. El capital mínimo sin derecho a retiro de cada sociedad deberá ser igual 
 IV. Cualquier modificación al convenio que regule las relaciones de las integrantes del consorcio, así como la inclusión y exclusión de tales integrantes, requerirá autorización previa de la dependencia o entidad contratante, y
 
 V. Los estatutos, títulos representativos del capital de las integrantes del consorcio, y el convenio que las regula, deberán contener las menciones de las fracciones II a IV inmediatas anteriores.
-
-Sección Segunda De la Suscripción de los Contratos

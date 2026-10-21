@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAPP.pdf
 source_sha256: a4505a7bd41bc835f1def6fb030c42d8e74a2cc050d9c8fa08f91c9519e382bf
 ---
 
+> Capítulo Cuarto · Sección Quinta
+
 # Artículo 62
 
 Los medios de defensa, ordinarios o extraordinarios, mediante los cuales se pretenda impugnar el fallo, solamente suspenderán el concurso o la obra en curso, cuando concurran los requisitos siguientes:

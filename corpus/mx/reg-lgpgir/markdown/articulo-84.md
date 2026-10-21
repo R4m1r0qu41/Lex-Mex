@@ -18,5 +18,3 @@ source_sha256: ef64bacccac32c63c214d59f4860251db0365fc125840a6504c195288077888c
 # Artículo 84
 
 Los residuos peligrosos, una vez captados y envasados, deben ser remitidos al almacén donde no podrán permanecer por un periodo mayor a seis meses.
-
-Sección II [Recolección](articulo-2.md) y Transporte de Residuos Peligrosos

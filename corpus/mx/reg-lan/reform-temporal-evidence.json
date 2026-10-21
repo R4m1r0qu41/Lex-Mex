@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lan:amendment:1997-12-10:transitory:primero",
+    "label": "Transitorio PRIMERO — Decreto DOF 1997-12-10",
+    "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lan:amendment:1997-12-10:transitory:segundo",
+    "label": "Transitorio SEGUNDO — Decreto DOF 1997-12-10",
+    "text": "Para efectos del artículo 72 del Reglamento, “La Comisión” efectuará los estudios técnicos para determinar la factibilidad de las transmisiones de derechos en zonas de veda establecidas por los Decretos o Reglamentos existentes, en un plazo máximo de 180 días hábiles contados a partir de la entrada en vigor del presente Decreto, a fin de poder expedir los acuerdos respectivos."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lan:amendment:2002-08-29:transitory:unico",
+    "label": "Transitorio ÚNICO — Decreto DOF 2002-08-29",
+    "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lan:amendment:2011-05-24:transitory:primero",
+    "label": "Transitorio PRIMERO — Decreto DOF 2011-05-24",
+    "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lan:amendment:2011-05-24:transitory:segundo",
+    "label": "Transitorio SEGUNDO — Decreto DOF 2011-05-24",
+    "text": "Quedan sin efecto, en la parte conducente, aquellas disposiciones administrativas que impidan o limiten lo previsto en el presente Decreto."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lan:amendment:2014-08-25:transitory:unico",
+    "label": "Transitorio ÚNICO — Ley DOF 2014-08-25",
+    "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+  }
+]

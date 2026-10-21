@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf
 source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 ---
 
+> Título IV · Capítulo Quinto
+
 # Artículo 90 Bis
 
 Las personas que ostenten algún cargo, mandato, comisión o cualquier otro título jurídico que, para el desempeño de las actividades y operaciones que correspondan a las sociedades operadoras de fondos de inversión, sociedades distribuidoras de acciones de fondos de inversión, sociedades valuadoras de acciones de fondos de inversión y asesores en inversiones que cuenten con la autorización que refiere el artículo [225 Bis](../../lmv/markdown/articulo-225-Bis.md) de la Ley del Mercado de Valores, estas les hubieren otorgado, serán consideradas como funcionarios o empleados de dichas sociedades, para efectos de las responsabilidades administrativas y penales establecidas en el presente Apartado.

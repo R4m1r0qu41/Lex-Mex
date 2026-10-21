@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAPP.pdf
 source_sha256: a4505a7bd41bc835f1def6fb030c42d8e74a2cc050d9c8fa08f91c9519e382bf
 ---
 
+> Capítulo Cuarto · Sección Segunda
+
 # Artículo 48
 
 Las modificaciones a las bases del concurso que, en su caso, la convocante realice deberán ajustarse a lo siguiente:
@@ -26,5 +28,3 @@ III. Deberán notificarse a cada uno de los participantes, a más tardar el déc
 IV. Darán oportunidad a los participantes de retirarse del concurso, sin que ello implique incumplimiento o hacer efectiva garantía alguna.
 
 Las modificaciones así realizadas formarán parte de la convocatoria y bases del concurso, por lo que deberán ser consideradas por los concursantes en la elaboración de sus propuestas.
-
-Sección Tercera De la Presentación de las Propuestas

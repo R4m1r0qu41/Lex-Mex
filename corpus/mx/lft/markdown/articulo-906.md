@@ -25,7 +25,9 @@ II. Si no concurre la contraparte, se le tendrá por inconforme con todo arreglo
 
 III. Si concurren las dos partes, el [Tribunal](articulo-3o.-Ter.md), después de oír sus alegaciones, las exhortará para que procuren un arreglo conciliatorio. Los miembros del mismo podrán hacer las sugestiones que juzguen convenientes para el arreglo del conflicto; Fracción reformada DOF 01-05-2019
 
-IV. Si las partes llegan a un convenio, se dará por terminado el conflicto. El convenio, aprobado por el Tribunal, producirá todos los efectos jurídicos inherentes a una sentencia; Fracción reformada DOF 01-05-2019 V. Si no se llega a un convenio, las partes harán una exposición de los hechos y causas que dieron origen al conflicto y formularán sus peticiones y a las que por su naturaleza no puedan desahogarse, se les señalará día y hora para ello;
+IV. Si las partes llegan a un convenio, se dará por terminado el conflicto. El convenio, aprobado por el Tribunal, producirá todos los efectos jurídicos inherentes a una sentencia; Fracción reformada DOF 01-05-2019
+
+V. Si no se llega a un convenio, las partes harán una exposición de los hechos y causas que dieron origen al conflicto y formularán sus peticiones y a las que por su naturaleza no puedan desahogarse, se les señalará día y hora para ello;
 
 VI. Concluidas las exposiciones de las partes y formuladas sus peticiones, se procederá a desahogar las pruebas admitidas, y Fracción reformada DOF 01-05-2019
 

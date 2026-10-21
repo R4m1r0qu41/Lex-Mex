@@ -41,7 +41,9 @@ X. Las demás estipulaciones que convengan las partes. Fracción recorrida DOF 2
 
 Los contratos colectivos no podrán contener cláusula de exclusión por separación, entendiéndose como tal la que establece que aquellos trabajadores que dejen de pertenecer al sindicato por renuncia o expulsión del mismo, puedan ser separados de su empleo sin responsabilidad para el patrón. Párrafo adicionado DOF 01-05-2019
 
-El Centro Federal de Conciliación y Registro Laboral deberá expedir a quien lo solicite por escrito y pague los derechos correspondientes, copia certificada del texto más reciente del contrato colectivo y/o tabuladores que haya sido registrado. Párrafo adicionado DOF 01-05-2019 A solicitud de las partes, el Centro Federal de Conciliación y Registro Laboral, dentro de los tres días siguientes a que ésta se presente emitirá el Certificado de Registro del Contrato Colectivo de Trabajo que contendrá:
+El Centro Federal de Conciliación y Registro Laboral deberá expedir a quien lo solicite por escrito y pague los derechos correspondientes, copia certificada del texto más reciente del contrato colectivo y/o tabuladores que haya sido registrado. Párrafo adicionado DOF 01-05-2019
+
+A solicitud de las partes, el Centro Federal de Conciliación y Registro Laboral, dentro de los tres días siguientes a que ésta se presente emitirá el Certificado de Registro del Contrato Colectivo de Trabajo que contendrá:
 
 I. Número o folio del expediente de registro;
 

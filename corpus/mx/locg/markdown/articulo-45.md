@@ -44,5 +44,3 @@ g) Realizar las actividades que se deriven de esta ley, de los ordenamientos apl
 7. Las comisiones tomarán sus decisiones por mayoría de votos de sus miembros. En caso de empate en la votación de un proyecto de dictamen o resolución deberá repetirse la votación en la misma sesión, y si resultare empate por segunda vez, se discutirá y votará de nuevo el asunto en la sesión inmediata, pero si aquél persistiere, el asunto será resuelto en definitiva por el Pleno, dando cuenta de ambas posiciones, escuchando a los oradores a favor y en contra que determine el Presidente de la Mesa Directiva y conforme a las reglas del debate que rigen a la Asamblea.
 
 Los proyectos de dictamen de la Sección Instructora y los de las comisiones encargadas de resolver asuntos relacionados con imputaciones o fincamiento de responsabilidades, así como de juicio político y declaración de procedencia, sólo pasarán al Pleno si son votados por la mayoría de los integrantes respectivos. Numeral adicionado DOF 29-09-2003
-
-Sección Cuarta De los Comités

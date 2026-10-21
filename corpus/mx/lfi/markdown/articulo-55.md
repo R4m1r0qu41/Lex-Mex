@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf
 source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 ---
 
+> Título IV · Capítulo Primero
+
 # Artículo 55
 
 Los fondos de inversión y las personas que les presten los servicios a que se refiere el artículo [32](articulo-32.md) de esta Ley, en ningún caso podrán dar noticias o información de las operaciones o servicios que realicen o en las que intervengan, sino al titular o beneficiario de las acciones representativas del capital social del fondo de inversión de que se trate, a sus representantes legales o a quienes tengan otorgado poder para disponer de dichas acciones.

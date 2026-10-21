@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAPP.pdf
 source_sha256: a4505a7bd41bc835f1def6fb030c42d8e74a2cc050d9c8fa08f91c9519e382bf
 ---
 
+> Capítulo Quinto · Sección Tercera
+
 # Artículo 77
 
 La declaratoria de utilidad pública se publicará en el Diario Oficial de la Federación, en el órgano oficial de la localidad respectiva y se notificará personalmente a los titulares de los inmuebles, bienes y derechos de que se trate.

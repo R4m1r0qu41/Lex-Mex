@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Segundo · Capítulo V
+
 # Artículo 141
 
 Las personas egresadas de las Instituciones Educativas del [FIDENA](articulo-10.md) o de las [Instituciones Educativas Particulares](articulo-10.md) que hayan recibido la capacitación correspondiente, podrán desempeñar a bordo de las Embarcaciones o Artefactos Navales, los siguientes niveles de responsabilidad:

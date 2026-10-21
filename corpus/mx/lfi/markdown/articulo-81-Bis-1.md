@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf
 source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 ---
 
+> Título IV · Capítulo Cuarto
+
 # Artículo 81 Bis 1
 
 La fusión o escisión de sociedades operadoras de fondos de inversión, sociedades distribuidoras de acciones de fondos de inversión y valuadoras de acciones de fondos de inversión, o de cualquier sociedad o entidad financiera con sociedades operadoras de fondos de inversión, sociedades distribuidoras de acciones de fondos de inversión y valuadoras de acciones de fondos de inversión, deberá ser autorizada por la [Comisión](articulo-2.md), previo acuerdo de su Junta de Gobierno.

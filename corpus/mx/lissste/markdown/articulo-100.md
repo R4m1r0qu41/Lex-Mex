@@ -24,5 +24,3 @@ Las [Dependencias](articulo-6.md) y [Entidades](articulo-6.md) en la que presten
 A efecto de lo anterior, las Dependencias y Entidades deberán enterar las cantidades a su cargo conjuntamente con el ahorro que realice el Trabajador, sin que las mismas se consideren [Cuotas](articulo-6.md) o [Aportaciones](articulo-6.md).
 
 Los recursos acumulados en la Subcuenta de ahorro solidario, estarán sujetos a las normas aplicables a la Subcuenta de retiro, cesantía en edad avanzada y vejez.
-
-Sección VII Régimen Financiero

@@ -26,5 +26,3 @@ I. Los supuestos y estimaciones de ingresos, egresos y deuda que en cualquier mo
 II. Las actualizaciones mensuales de la información de ingresos, egresos y deuda durante el ejercicio fiscal correspondiente, y
 
 III. La demás información que se establezca en las disposiciones generales que para tal efecto emita la Tesorería.
-
-Sección Segunda De los Depósitos ante la Tesorería

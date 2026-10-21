@@ -56,5 +56,3 @@ XVIII. Obtener apoyo institucional para mantener un vínculo con sus representad
 XIX. Ejercer sus derechos lingüísticos, quienes pertenezcan a una comunidad indígena, participando en tribuna y demás espacios legislativos en su lengua materna, facilitándoles la traducción simultánea, así como los servicios de interpretación u otros medios adecuados. Para hacer uso de esta prerrogativa, la diputada o el diputado lo harán saber previamente por escrito y con al menos cuarenta y ocho horas antes a la [Mesa Directiva](articulo-2.md), con la finalidad de que se ordene habilitar a un intérprete que traduzca la exposición del legislador de que se trate, y Fracción adicionada DOF 18-10-2016
 
 XX. Las demás previstas en este Reglamento. Fracción recorrida DOF 20-04-2011, 18-10-2016
-
-Sección Segunda Prerrogativas de Diputados y Diputadas

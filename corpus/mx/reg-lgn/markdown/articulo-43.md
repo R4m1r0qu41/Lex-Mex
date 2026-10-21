@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGN_111220.pdf
 source_sha256: ea6e39560929f2e1998b2dabe0852fde0d684c69e5be49aab7f33433299bbeb0
 ---
 
-> Título SEGUNDO
+> Título SEGUNDO · Capítulo VI
 
 # Artículo 43
 
@@ -36,5 +36,3 @@ VII. Levantar las actas de las sesiones, turnándolas para firma a quienes corre
 VIII. Expedir certificaciones de los documentos que se encuentren en el archivo a su cargo, así como emitir las constancias de la información que se encuentre en los medios magnéticos o electrónicos cuando así proceda, y
 
 IX. Las demás que sean necesarias para el adecuado funcionamiento de los Consejos de Comisarios y de Honor Superior y del Consejo de Carrera y no estén previstas a cargo de otra unidad de la Institución.
-
-Capítulo VII De la Unidad de Asuntos Internos

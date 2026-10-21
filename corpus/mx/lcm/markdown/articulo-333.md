@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LCM.pdf
 source_sha256: 8e270686b885035488bfe310b0b42bb40e7154431794227ebe212dd7dc12e46a
 ---
 
-> Título DÉCIMO TERCERO
+> Título DÉCIMO TERCERO · Capítulo III
 
 # Artículo 333
 
@@ -26,5 +26,3 @@ II. Se pagarán en los términos que determine el Instituto, que tomará en cons
 III. Serán acordes con las condiciones del mercado laboral y tendientes a lograr la inscripción de personas idóneas y debidamente calificadas para el desempeño de sus funciones en el registro a que se refiere el Capítulo siguiente.
 
 En todo caso, la remuneración del conciliador y del síndico estará vinculada a su desempeño.
-
-Capítulo IV Del registro de los visitadores, conciliadores y síndicos

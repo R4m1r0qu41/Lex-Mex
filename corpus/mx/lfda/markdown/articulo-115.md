@@ -13,10 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFDA.pdf
 source_sha256: 1844f4e56b279c17061db90f4ab7970df3794e3a5ae10d74a0aec1f12641e7a5
 ---
 
-> Título V
+> Título V · Capítulo I
 
 # Artículo 115
 
 La protección prevista en este título dejará intacta y no afectará en modo alguno la protección de los derechos de autor sobre las obras literarias y artísticas. Por lo tanto, ninguna de las disposiciones del presente título podrá interpretarse en menoscabo de esa protección.
-
-Capítulo II De los Artistas Intérpretes o Ejecutantes

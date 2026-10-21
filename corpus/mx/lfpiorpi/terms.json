@@ -194,7 +194,7 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:3",
     "fraction": "XIII",
     "start_char": 6125,
-    "end_char": 6224,
+    "end_char": 6225,
     "basis": "express_definition"
   },
   {
@@ -204,8 +204,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lfpiorpi",
     "defining_provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:3",
     "fraction": "XIII Bis",
-    "start_char": 6224,
-    "end_char": 6481,
+    "start_char": 6225,
+    "end_char": 6482,
     "basis": "express_definition"
   },
   {
@@ -215,8 +215,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lfpiorpi",
     "defining_provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:3",
     "fraction": "XIV",
-    "start_char": 6481,
-    "end_char": 6632,
+    "start_char": 6482,
+    "end_char": 6633,
     "basis": "express_definition"
   }
 ]

@@ -13,10 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDFS.pdf
 source_sha256: 2c75fd0eab3245aed43a4e1230dcd142b48959a1df09bdd4e70684935a505dd4
 ---
 
-> Título TERCERO
+> Título TERCERO · Capítulo II
 
 # Artículo 52
 
 El [Registro](articulo-7.md) se coordinará con el Registro Agrario Nacional y los Registros Públicos de la Propiedad de las distintas Entidades Federativas para compartir y actualizar información de sus respectivos actos.
-
-Sección Séptima De las Normas Oficiales Mexicanas en materia forestal

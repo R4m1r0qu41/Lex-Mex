@@ -1,5 +1,20 @@
 [
   {
+    "provision_id": "urn:lex-mx:federal:statute:lft:amendment:1998-01-23:transitory:unico",
+    "label": "Transitorio ÚNICO — Decreto DOF 1998-01-23",
+    "text": "El presente Decreto entrará en vigor el 20 de marzo de 1998."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lft:amendment:2006-01-17:transitory:primero",
+    "label": "Transitorio PRIMERO — Decreto DOF 2006-01-17",
+    "text": "El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lft:amendment:2006-01-17:transitory:segundo",
+    "label": "Transitorio SEGUNDO — Decreto DOF 2006-01-17",
+    "text": "Por la conmemoración en el año 2006 del natalicio de Don Benito Juárez García, Benemérito de las Américas, la fracción III, tendrá vigencia a partir del año 2007."
+  },
+  {
     "provision_id": "urn:lex-mx:federal:statute:lft:amendment:2012-04-09:transitory:primero",
     "label": "Transitorio Primero — Decreto DOF 2012-04-09",
     "text": "El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
@@ -77,7 +92,32 @@
   {
     "provision_id": "urn:lex-mx:federal:statute:lft:amendment:2012-11-30:transitory:decimo-cuarto",
     "label": "Transitorio Décimo Cuarto — Decreto DOF 2012-11-30",
-    "text": "Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto de egresos aprobado, por lo que no se requerirán recursos adicionales en el presente ejercicio fiscal, ni se incrementará el presupuesto regularizable. México, D.F., a 13 de noviembre de 2012.- Dip. Jesus Murillo Karam, Presidente.- Sen. Ernesto Javier Cordero Arroyo, Presidente.- Dip. Javier Orozco Gomez, Secretario.- Sen. Lilia Guadalupe Merodio Reza, Secretaria.- Rúbricas.\"\n\nArtículo Único.- Se reforman los artículos 5o., fracciones I y IV; 22; 22 Bis; 23; 174; 175, primer, segundo y tercer párrafos y fracción IV; 175 Bis, primer párrafo e inciso c); 176; 178; 179, 180, primer párrafo y fracción II; 191, 267; 362; 372, primer párrafo; 988, primer párrafo y 995 Bis; y se derogan las fracciones I y II del artículo 372 de la Ley Federal del Trabajo, para quedar como sigue:\n\n……….\n\nTransitorio\n\nÚnico. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+    "text": "Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto de egresos aprobado, por lo que no se requerirán recursos adicionales en el presente ejercicio fiscal, ni se incrementará el presupuesto regularizable. México, D.F., a 13 de noviembre de 2012.- Dip. Jesus Murillo Karam, Presidente.- Sen. Ernesto Javier Cordero Arroyo, Presidente.- Dip. Javier Orozco Gomez, Secretario.- Sen. Lilia Guadalupe Merodio Reza, Secretaria.- Rúbricas.\"\n\nEn cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintinueve de noviembre de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lft:amendment:2015-06-12:transitory:unico",
+    "label": "Transitorio Único — Decreto DOF 2015-06-12",
+    "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lft:amendment:2018-05-30:transitory:unico",
+    "label": "Transitorio Único — Decreto DOF 2018-05-30",
+    "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lft:amendment:2018-06-22:transitory:primero",
+    "label": "Transitorio PRIMERO — Decreto DOF 2018-06-22",
+    "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lft:amendment:2018-06-22:transitory:segundo",
+    "label": "Transitorio SEGUNDO — Decreto DOF 2018-06-22",
+    "text": "El titular del Ejecutivo Federal, los gobernadores de los estados, así como el Jefe de Gobierno de la Ciudad de México, en el ámbito de sus respectivas competencias, contarán con un plazo de seis meses para adecuar los ordenamientos jurídicos y reglamentarios que correspondan, a efecto de cumplir y armonizarlos con las disposiciones contenidas en el presente Decreto."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lft:amendment:2018-06-22:transitory:tercero",
+    "label": "Transitorio TERCERO — Decreto DOF 2018-06-22",
+    "text": "Las autoridades del Instituto Mexicano del Seguro Social, del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y demás instituciones de Seguridad Social, deberán realizar las adecuaciones correspondientes a su normatividad interna durante los siguientes seis meses, contados a partir de la expedición del presente Decreto."
   },
   {
     "provision_id": "urn:lex-mx:federal:statute:lft:amendment:2019-05-01:transitory:primero",
@@ -217,7 +257,7 @@
   {
     "provision_id": "urn:lex-mx:federal:statute:lft:amendment:2019-05-01:transitory:vigesimo-octavo",
     "label": "Transitorio Vigésimo Octavo — Decreto DOF 2019-05-01",
-    "text": "Derogación explícita y tácita de preceptos incompatibles. Se derogan las disposiciones legales, administrativas y reglamentarias que se opongan a las contenidas en el presente Decreto. Ciudad de México, a 29 de abril de 2019.- Dip. Porfirio Muñoz Ledo, Presidente.- Sen. Martí Batres Guadarrama, Presidente.- Dip. Karla Yuritzi Almazán Burgos, Secretaria.- Sen. Antares G. Vázquez Alatorre, Secretaria.- Rúbricas.”\n\nArtículo Tercero.- Se adicionan una fracción IX al artículo 42; una fracción XXIX Bis al artículo 132 y un artículo 170 Bis a la Ley Federal del Trabajo, para quedar como sigue:\n\n………"
+    "text": "Derogación explícita y tácita de preceptos incompatibles. Se derogan las disposiciones legales, administrativas y reglamentarias que se opongan a las contenidas en el presente Decreto. Ciudad de México, a 29 de abril de 2019.- Dip. Porfirio Muñoz Ledo, Presidente.- Sen. Martí Batres Guadarrama, Presidente.- Dip. Karla Yuritzi Almazán Burgos, Secretaria.- Sen. Antares G. Vázquez Alatorre, Secretaria.- Rúbricas.”\n\nEn cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 30 de abril de 2019.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica."
   },
   {
     "provision_id": "urn:lex-mx:federal:statute:lft:amendment:2019-06-04:transitory:primero",
@@ -292,7 +332,7 @@
   {
     "provision_id": "urn:lex-mx:federal:statute:lft:amendment:2021-04-23:transitory:quinto",
     "label": "Transitorio Quinto — Decreto DOF 2021-04-23",
-    "text": "Aquellos patrones que, en términos del segundo párrafo del artículo 75 de la Ley del Seguro Social, previo a la entrada en vigor del presente Decreto, hubiesen solicitado al Instituto Mexicano del Seguro Social la asignación de uno o más registros patronales por clase, de las señaladas en el artículo 73 de la Ley del Seguro Social, para realizar la inscripción de sus trabajadores a nivel nacional, tendrán hasta el 1 de septiembre de 2021 para dar de baja dichos registros patronales y de ser procedente, solicitar al mencionado Instituto se le otorgue un registro patronal en términos de lo dispuesto por el Reglamento de la Ley del Seguro Social en materia de Afiliación, Clasificación de Empresas, Recaudación y Fiscalización. Párrafo reformado DOF 31-07-2021 Una vez concluido dicho plazo, aquellos registros patronales por clase que no hayan sido dados de baja, serán dados de baja por el Instituto Mexicano del Seguro Social."
+    "text": "Aquellos patrones que, en términos del segundo párrafo del artículo 75 de la Ley del Seguro Social, previo a la entrada en vigor del presente Decreto, hubiesen solicitado al Instituto Mexicano del Seguro Social la asignación de uno o más registros patronales por clase, de las señaladas en el artículo 73 de la Ley del Seguro Social, para realizar la inscripción de sus trabajadores a nivel nacional, tendrán hasta el 1 de septiembre de 2021 para dar de baja dichos registros patronales y de ser procedente, solicitar al mencionado Instituto se le otorgue un registro patronal en términos de lo dispuesto por el Reglamento de la Ley del Seguro Social en materia de Afiliación, Clasificación de Empresas, Recaudación y Fiscalización. Párrafo reformado DOF 31-07-2021\n\nUna vez concluido dicho plazo, aquellos registros patronales por clase que no hayan sido dados de baja, serán dados de baja por el Instituto Mexicano del Seguro Social."
   },
   {
     "provision_id": "urn:lex-mx:federal:statute:lft:amendment:2021-04-23:transitory:sexto",
@@ -320,6 +360,11 @@
     "text": "Las dependencias y entidades de la Administración Pública Federal involucradas en la implementación del presente Decreto, realizarán las acciones necesarias para que las erogaciones que se generen con motivo de la entrada en vigor e implementación del mismo, se realicen con cargo al presupuesto aprobado a cada una de ellas en el presente ejercicio fiscal y subsecuentes, por lo que no requerirán recursos adicionales que tengan por objeto solventar las mismas y no se incrementará el presupuesto regularizable de éstas para el presente ejercicio fiscal ni posteriores."
   },
   {
+    "provision_id": "urn:lex-mx:federal:statute:lft:amendment:2021-07-31:transitory:unico",
+    "label": "Transitorio Único — Decreto DOF 2021-07-31",
+    "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+  },
+  {
     "provision_id": "urn:lex-mx:federal:statute:lft:amendment:2022-04-05:transitory:primero",
     "label": "Transitorio Primero — Decreto DOF 2022-04-05",
     "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
@@ -330,6 +375,21 @@
     "text": "La Secretaría del Trabajo y Previsión Social contará con un plazo de 180 días posteriores a la entrada en vigor del presente Decreto para elaborar y publicar una Norma Oficial Mexicana a efecto de clasificar las actividades a que se refiere el artículo 176, fracción II, numeral 8 a fin de determinar aquéllas de menor riesgo."
   },
   {
+    "provision_id": "urn:lex-mx:federal:statute:lft:amendment:2022-04-28:transitory:unico",
+    "label": "Transitorio Único — Decreto DOF 2022-04-28",
+    "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lft:amendment:2022-04-28:decree-2:transitory:unico",
+    "label": "Transitorio Único — Decreto 2 DOF 2022-04-28",
+    "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lft:amendment:2019-05-01:decree-2:transitory:unico",
+    "label": "Transitorio Único — Decreto 2 DOF 2019-05-01",
+    "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+  },
+  {
     "provision_id": "urn:lex-mx:federal:statute:lft:amendment:2022-12-27:transitory:primero",
     "label": "Transitorio Primero — Decreto DOF 2022-12-27",
     "text": "El presente Decreto entrará en vigor el 1.° de enero de 2023, o al día siguiente de su publicación en el Diario Oficial de la Federación, si esta fuera en el año 2023."
@@ -338,6 +398,11 @@
     "provision_id": "urn:lex-mx:federal:statute:lft:amendment:2022-12-27:transitory:segundo",
     "label": "Transitorio Segundo — Decreto DOF 2022-12-27",
     "text": "Las modificaciones motivo del presente Decreto serán aplicables a los contratos individuales o colectivos de trabajo vigentes a la fecha de su entrada en vigor, cualquiera que sea su forma o denominación, siempre que resulten más favorables a los derechos de las personas trabajadoras."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lft:amendment:2023-11-29:transitory:unico",
+    "label": "Transitorio Único — Decreto DOF 2023-11-29",
+    "text": "El presente Decreto entrará en vigor el primero de enero del año posterior a su publicación en el Diario Oficial de la Federación."
   },
   {
     "provision_id": "urn:lex-mx:federal:statute:lft:amendment:2023-12-04:transitory:primero",
@@ -358,6 +423,21 @@
     "provision_id": "urn:lex-mx:federal:statute:lft:amendment:2023-12-04:transitory:cuarto",
     "label": "Transitorio Cuarto — Decreto DOF 2023-12-04",
     "text": "Se derogan todas las disposiciones que contravengan lo establecido en el presente Decreto."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lft:amendment:2024-01-24:transitory:unico",
+    "label": "Transitorio Único — Decreto DOF 2024-01-24",
+    "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lft:amendment:2024-04-04:transitory:unico",
+    "label": "Transitorio Único — Decreto DOF 2024-04-04",
+    "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lft:amendment:2024-09-30:transitory:unico",
+    "label": "Transitorio Único — Decreto DOF 2024-09-30",
+    "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
   },
   {
     "provision_id": "urn:lex-mx:federal:statute:lft:amendment:2024-12-16:transitory:primero",
@@ -412,7 +492,7 @@
   {
     "provision_id": "urn:lex-mx:federal:statute:lft:amendment:2024-12-24:transitory:sexto",
     "label": "Transitorio Sexto — Decreto DOF 2024-12-24",
-    "text": "La Secretaría del Trabajo y Previsión Social contará con 5 días posteriores a la entrada en vigor del presente Decreto para publicar las disposiciones de carácter general que definirán el cálculo del ingreso neto a las que se refiere el artículo 291-F.\n\nArtículo Segundo.- Se reforman los artículos 97, fracción III; 110, fracción III; 139; 140; 141, fracción II; 147, fracción II; y se adiciona el artículo 145, con un último párrafo, de Ley Federal del Trabajo, para quedar como sigue:\n\n…….."
+    "text": "La Secretaría del Trabajo y Previsión Social contará con 5 días posteriores a la entrada en vigor del presente Decreto para publicar las disposiciones de carácter general que definirán el cálculo del ingreso neto a las que se refiere el artículo 291-F."
   },
   {
     "provision_id": "urn:lex-mx:federal:statute:lft:amendment:2025-02-21:transitory:primero",
@@ -507,7 +587,7 @@
   {
     "provision_id": "urn:lex-mx:federal:statute:lft:amendment:2026-01-15:transitory:septimo",
     "label": "Transitorio Séptimo — Decreto DOF 2026-01-15",
-    "text": "Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General para la Igualdad entre Mujeres y Hombres, se entenderán referidas a la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres. Ciudad de México, a 9 de diciembre de 2025.- Dip. Kenia López Rabadán, Presidenta.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Julieta Villalpando Riquelme, Secretaria.- Sen. María Martina Kantún Can, Secretaria.- Rúbricas.\"\n\nArtículo Único.- Se reforman los artículos 59; 61; 66; 68; 69 y 71, segundo párrafo; se adicionan un segundo párrafo al artículo 58; y la fracción XXXIV al artículo 132 y la fracción IV Bis al artículo 994; y se deroga el segundo párrafo del artículo 67, de la Ley Federal del Trabajo, para quedar como sigue:\n\n………"
+    "text": "Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General para la Igualdad entre Mujeres y Hombres, se entenderán referidas a la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres. Ciudad de México, a 9 de diciembre de 2025.- Dip. Kenia López Rabadán, Presidenta.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Julieta Villalpando Riquelme, Secretaria.- Sen. María Martina Kantún Can, Secretaria.- Rúbricas.\"\n\nEn cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de enero de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica."
   },
   {
     "provision_id": "urn:lex-mx:federal:statute:lft:amendment:2026-05-01:transitory:primero",
@@ -542,21 +622,21 @@
   {
     "provision_id": "urn:lex-mx:federal:statute:lft:amendment:2026-05-01:transitory:septimo",
     "label": "Transitorio Séptimo — Decreto DOF 2026-05-01",
-    "text": "En ningún caso la reducción de la jornada laboral implicará la disminución de sueldos, salarios o prestaciones de las personas trabajadoras. Ciudad de México, a 22 de abril de 2026.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Magdalena del Socorro Núñez Monreal, Secretaria.- Rúbricas.\"\n\nArtículo Tercero.- Se adiciona el artículo 283 Quáter a la Ley Federal del Trabajo, para quedar como sigue:\n\n…….."
+    "text": "En ningún caso la reducción de la jornada laboral implicará la disminución de sueldos, salarios o prestaciones de las personas trabajadoras. Ciudad de México, a 22 de abril de 2026.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Magdalena del Socorro Núñez Monreal, Secretaria.- Rúbricas.\"\n\nEn cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 01 de mayo de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica."
   },
   {
-    "provision_id": "urn:lex-mx:federal:statute:lft:amendment:2026-05-01:transitory:primero",
-    "label": "Transitorio Primero — Decreto DOF 2026-05-01",
+    "provision_id": "urn:lex-mx:federal:statute:lft:amendment:2026-05-01:decree-2:transitory:primero",
+    "label": "Transitorio Primero — Decreto 2 DOF 2026-05-01",
     "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
   },
   {
-    "provision_id": "urn:lex-mx:federal:statute:lft:amendment:2026-05-01:transitory:segundo",
-    "label": "Transitorio Segundo — Decreto DOF 2026-05-01",
+    "provision_id": "urn:lex-mx:federal:statute:lft:amendment:2026-05-01:decree-2:transitory:segundo",
+    "label": "Transitorio Segundo — Decreto 2 DOF 2026-05-01",
     "text": "La Secretaría del Trabajo y Previsión Social en un plazo de 30 días contados a partir de la entrada en vigor del presente Decreto, expedirá las disposiciones de carácter general que determinen los procedimientos relativos al certificado a que se refiere el artículo 283 Quáter de la Ley Federal del Trabajo."
   },
   {
-    "provision_id": "urn:lex-mx:federal:statute:lft:amendment:2026-05-01:transitory:tercero",
-    "label": "Transitorio Tercero — Decreto DOF 2026-05-01",
+    "provision_id": "urn:lex-mx:federal:statute:lft:amendment:2026-05-01:decree-2:transitory:tercero",
+    "label": "Transitorio Tercero — Decreto 2 DOF 2026-05-01",
     "text": "Las erogaciones que se generen con motivo de la entrada en vigor e implementación del presente Decreto deberán efectuarse con cargo al presupuesto autorizado de los ejecutores de gasto correspondientes, por lo que no se incrementará su presupuesto regularizable de gasto de operación y de servicios personales, y no se autorizarán recursos adicionales para el ejercicio fiscal de que se trate."
   },
   {

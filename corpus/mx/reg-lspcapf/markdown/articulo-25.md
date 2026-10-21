@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSPCAPF.pdf
 source_sha256: b4a968d8e8c138ac2069f6afa0dc622178328df24f59cf58eddbab8efe4a7eff
 ---
 
+> Capítulo Octavo
+
 # Artículo 25
 
 Cuando con motivo de una reestructuración en la Administración Pública Federal se transfieran recursos humanos, cuyos puestos proceda incorporar al Sistema en términos de las disposiciones aplicables, los servidores públicos que los ocupen serán considerados como de libre designación por un plazo máximo de dos años, durante el cual el Comité Técnico de Profesionalización de que se trate, deberá realizar las acciones que correspondan a efecto de que estén en posibilidad de obtener su nombramiento como servidores públicos de carrera, mediante:

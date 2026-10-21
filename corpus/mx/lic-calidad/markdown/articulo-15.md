@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LICal_010720.pdf
 source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 ---
 
-> Título SEGUNDO
+> Título SEGUNDO · Capítulo I
 
 # Artículo 15
 
@@ -24,7 +24,3 @@ I. La [Comisión](articulo-4.md);
 II. Las [Autoridades Normalizadoras](articulo-4.md), y
 
 III. Los Comités Consultivos Nacionales de Normalización y, en su caso, sus subcomités y grupos de trabajo.
-
-Capítulo II De la Comisión
-
-Sección Primera De su Integración y Atribuciones

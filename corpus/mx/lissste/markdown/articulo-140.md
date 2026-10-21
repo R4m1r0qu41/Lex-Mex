@@ -22,7 +22,3 @@ Las prestaciones del seguro de invalidez y vida, se financiarán en la forma sig
 I. A los Trabajadores les corresponde una [Cuota](articulo-6.md) de cero punto seiscientos veinticinco por ciento del [Sueldo Básico](articulo-6.md), y
 
 II. A las [Dependencias](articulo-6.md) y [Entidades](articulo-6.md) les corresponde una [Aportación](articulo-6.md) de cero punto seiscientos veinticinco por ciento del Sueldo Básico.
-
-Capítulo VIII De la Transferencia de los Derechos
-
-Sección I De la Transferencia de Derechos entre el [Instituto](articulo-6.md) y el [IMSS](articulo-6.md)

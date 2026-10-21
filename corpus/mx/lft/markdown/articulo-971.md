@@ -25,7 +25,9 @@ II. Será llevado a cabo por el juez, quien lo declarará abierto; Fracción ref
 
 III. El juez concederá un término de espera, que no podrá ser mayor de media hora, para recibir posturas; transcurrido éste no se admitirán nuevos postores salvo que sea el actor o el propio embargado; Fracción reformada DOF 01-05-2019
 
-IV. El juez calificará las posturas, y concederá quince minutos entre puja y puja; Fracción reformada DOF 01-05-2019 V. El actor podrá concurrir a la almoneda como postor, presentando por escrito su postura, sin necesidad de cumplir el requisito a que se refiere el artículo [974](articulo-974.md) de esta Ley; y
+IV. El juez calificará las posturas, y concederá quince minutos entre puja y puja; Fracción reformada DOF 01-05-2019
+
+V. El actor podrá concurrir a la almoneda como postor, presentando por escrito su postura, sin necesidad de cumplir el requisito a que se refiere el artículo [974](articulo-974.md) de esta Ley; y
 
 VI. El juez declarará fincado el remate a favor del mejor postor. Fracción reformada DOF 01-05-2019
 

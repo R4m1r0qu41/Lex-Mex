@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAC.pdf
 source_sha256: 4dcf5277184d5f5c5cc1c8ae2dfa196134b472d883eb2806c7bac27cd77eda7d
 ---
 
-> Título TERCERO · Capítulo II
+> Título Cuarto · Capítulo I
 
 # Artículo 100
 
@@ -35,7 +35,9 @@ VII. El nombre y domicilio de la persona propietaria, así como los datos del t�
 
 VIII. En su caso, el nombre y domicilio de la persona poseedora, así como los datos del título de posesión; Fracción reformada DOF 31-05-2023
 
-IX. En su caso, el nombre y domicilio de la persona acreedora, así como la hipoteca o tipo de gravamen y fecha del mismo; Fracción reformada DOF 31-05-2023 X. La base de operaciones de la aeronave;
+IX. En su caso, el nombre y domicilio de la persona acreedora, así como la hipoteca o tipo de gravamen y fecha del mismo; Fracción reformada DOF 31-05-2023
+
+X. La base de operaciones de la aeronave;
 
 XI. El servicio a que se destina, y
 

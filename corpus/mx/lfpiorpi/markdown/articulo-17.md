@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPIORPI.pdf
 source_sha256: 2e35228bd3100a3a137f313359833c4836f2b4b6d4e52e1ce4fe58a970cd768f
 ---
 
+> Capítulo III · Sección Segunda
+
 # Artículo 17
 
 Para efectos de esta [Ley](articulo-3.md) se entenderán [Actividades Vulnerables](articulo-3.md) y, por tanto, objeto de identificación en términos del [artículo siguiente](articulo-18.md), las que a continuación se enlistan:

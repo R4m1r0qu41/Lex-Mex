@@ -31,6 +31,8 @@ V. Participar en actos de simulación asumiendo el carácter de patrón, con el 
 
 VI. Hacer constar o utilizar constancias en las que se señalen la realización de votaciones o consultas a los trabajadores sin que estas se hayan efectuado; Fracción adicionada DOF 01-05-2019
 
-VII. Obstaculizar la participación de los trabajadores en los procedimientos de elección de sus directivas sindicales, poniendo condiciones sin fundamento legal o cualquier tipo de obstáculo indebido para ejercer el derecho de votar y ser votado, y Fracción adicionada DOF 01-05-2019 VIII. Cometer actos de extorsión u obtener dádivas del patrón, ajenas al contrato colectivo de trabajo. Fracción adicionada DOF 01-05-2019
+VII. Obstaculizar la participación de los trabajadores en los procedimientos de elección de sus directivas sindicales, poniendo condiciones sin fundamento legal o cualquier tipo de obstáculo indebido para ejercer el derecho de votar y ser votado, y Fracción adicionada DOF 01-05-2019
+
+VIII. Cometer actos de extorsión u obtener dádivas del patrón, ajenas al contrato colectivo de trabajo. Fracción adicionada DOF 01-05-2019
 
 Se consideran como violación a derechos fundamentales a la libertad sindical y de negociación colectiva las hipótesis contenidas en las fracciones IV, VI y VII del presente artículo. Párrafo adicionado DOF 01-05-2019

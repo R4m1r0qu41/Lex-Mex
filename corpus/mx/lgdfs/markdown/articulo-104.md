@@ -13,12 +13,10 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDFS.pdf
 source_sha256: 2c75fd0eab3245aed43a4e1230dcd142b48959a1df09bdd4e70684935a505dd4
 ---
 
-> Título CUARTO
+> Título CUARTO · Capítulo II
 
 # Artículo 104
 
 La [Comisión](articulo-7.md) desarrollará un sistema de capacitación, reconocimientos, estímulos y acreditación que permita identificar, tanto a titulares de aprovechamiento como a prestadores de servicios forestales, que cumplan oportuna y eficientemente los compromisos adquiridos en los programas de manejo, en la certificación de buen manejo y en las auditorías técnicas preventivas.
 
 Asimismo, establecerá y ejecutará medidas para procurar el acceso a los elementos necesarios para la mejora continua de los servicios forestales.
-
-Capítulo III De las Unidades de Manejo Forestal

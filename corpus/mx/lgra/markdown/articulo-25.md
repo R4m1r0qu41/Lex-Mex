@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGRA.pdf
 source_sha256: 1289ec6964e48c84990572ca6080ca05c9d6210e5b0ff5af6d8c9d935fc5fcc8
 ---
 
-> Título SEGUNDO
+> Título SEGUNDO · Capítulo II
 
 # Artículo 25
 
@@ -30,7 +30,3 @@ IV. Sistemas adecuados de denuncia, tanto al interior de la organización como h
 V. Sistemas y procesos adecuados de entrenamiento y capacitación respecto de las medidas de integridad que contiene este artículo; VI. Políticas de recursos humanos tendientes a evitar la incorporación de personas que puedan generar un riesgo a la integridad de la corporación. Estas políticas en ningún caso autorizarán la discriminación de persona alguna motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas, y
 
 VII. Mecanismos que aseguren en todo momento la transparencia y publicidad de sus intereses.
-
-Capítulo III De los instrumentos de rendición de cuentas
-
-Sección Primera Del sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal

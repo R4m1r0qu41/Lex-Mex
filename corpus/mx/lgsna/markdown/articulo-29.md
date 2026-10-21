@@ -13,12 +13,10 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSNA_200521.pdf
 source_sha256: 5edf7b5ad4dd65a9c97c02ec51f13499aa7ab5025f02ad6e9be3c948ff3cf185
 ---
 
-> Título SEGUNDO
+> Título SEGUNDO · Capítulo IV
 
 # Artículo 29
 
 El órgano de gobierno tendrá las atribuciones indelegables previstas en los artículos [15](../../lfep/markdown/articulo-15.md), segundo párrafo, y [58](../../lfep/markdown/articulo-58.md) de la Ley Federal de las Entidades Paraestatales.
 
 Asimismo, tendrá la atribución indelegable de nombrar y remover, por mayoría calificada de cinco votos, al [Secretario Técnico](articulo-3.md), de conformidad con lo establecido por esta Ley.
-
-Sección II De la [Comisión Ejecutiva](articulo-3.md)

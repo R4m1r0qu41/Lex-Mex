@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGDFS.pdf
 source_sha256: a4dbcdb94d780332f0bda62246611dab5972e75bcb01df293df93a95cdd03530
 ---
 
-> Título TERCERO
+> Título TERCERO · Capítulo I
 
 # Artículo 37
 
@@ -22,7 +22,3 @@ La Secretaría o, en su caso, la Comisión podrán requerir, a través de medios
 I. Se atenderán sus opiniones y observaciones técnicas, siempre que estén debidamente justificadas y, en su caso, se sustenten en los documentos técnicos correspondientes, y
 
 II. Se hará mención de las opiniones y observaciones técnicas de los Consejos Estatales en las resoluciones que emita respecto de las solicitudes de aprovechamiento de Recursos forestales maderables o, en su caso, se señalará expresamente que estas no fueron emitidas dentro del término establecido en el artículo [74](../../lgdfs/markdown/articulo-74.md) de la Ley.
-
-Capítulo II Autorizaciones, Avisos y Registros
-
-Sección I Aprovechamiento de Recursos Forestales Maderables

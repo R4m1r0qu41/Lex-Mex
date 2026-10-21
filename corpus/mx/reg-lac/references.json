@@ -153,19 +153,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lac:article:110:reference:6098-6100:110:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:110:reference:6099-6101:110:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:110",
     "source_span": "VI",
-    "start_char": 6098,
-    "end_char": 6100,
+    "start_char": 6099,
+    "end_char": 6101,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:110",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "VI",
-        "start_char": 6098,
-        "end_char": 6100
+        "start_char": 6099,
+        "end_char": 6101
       }
     ],
     "basis": "express_cross_reference",
@@ -2552,11 +2552,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lac:article:92-quater:reference:1943-1945:44:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:92-quater:reference:1944-1946:44:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:92-quater",
     "source_span": "44",
-    "start_char": 1943,
-    "end_char": 1945,
+    "start_char": 1944,
+    "end_char": 1946,
     "target_instrument_id": "urn:lex-mx:federal:statute:lac",
     "target_provision_id": "urn:lex-mx:federal:statute:lac:article:44",
     "qualifiers": [],

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPIORPI.pdf
 source_sha256: 2e35228bd3100a3a137f313359833c4836f2b4b6d4e52e1ce4fe58a970cd768f
 ---
 
+> Capítulo III · Sección Segunda
+
 # Artículo 20
 
 Las personas morales y quienes actúen a través de fideicomisos o cualquier otra figura jurídica que realicen [Actividades Vulnerables](articulo-3.md), deberán designar ante la [Secretaría](articulo-3.md) a una persona Representante Encargada del Cumplimiento de las obligaciones derivadas de esta [Ley](articulo-3.md), y mantener vigente dicha designación, cuya identidad deberá resguardarse en términos del artículo [38](articulo-38.md) de esta Ley.

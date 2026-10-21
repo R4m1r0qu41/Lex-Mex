@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGDFS.pdf
 source_sha256: a4dbcdb94d780332f0bda62246611dab5972e75bcb01df293df93a95cdd03530
 ---
 
-> Título CUARTO
+> Título CUARTO · Capítulo I
 
 # Artículo 179
 
@@ -22,5 +22,3 @@ La Comisión instrumentará y coordinará los dispositivos de emergencia para la
 La Comisión establecerá, organizará y coordinará con las dependencias de la Administración Pública Federal y, en su caso, con las entidades federativas, las campañas y cuarentenas fitosanitarias necesarias para prevenir, combatir, controlar y confinar a las Plagas y Enfermedades forestales.
 
 La Comisión podrá convenir con las entidades federativas, municipios y las demarcaciones territoriales de la Ciudad de México, la creación de fondos de contingencia sanitaria forestal para la atención oportuna de las Plagas y Enfermedades forestales que pongan en riesgo la salud forestal, de conformidad con las disposiciones jurídicas aplicables.
-
-Sección II Sanidad Forestal

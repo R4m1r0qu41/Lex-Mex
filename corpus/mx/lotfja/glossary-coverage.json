@@ -8,7 +8,7 @@
   "glossaries": [
     {
       "provision_id": "urn:lex-mx:federal:statute:lotfja:article:2",
-      "provision_text_sha256": "3fe8932bdb29514c001ad882495c65406096d87c421d5854d352a0fb56fbf7e1",
+      "provision_text_sha256": "ba06112105ac8e093cbb1c69ff7d664311c5178ed6c865b9cdaafa701413d965",
       "method": "wider_pass",
       "fractions": [
         "I",
@@ -22,5 +22,5 @@
   ],
   "imports": [],
   "term_count": 4,
-  "usage_count": 246
+  "usage_count": 245
 }

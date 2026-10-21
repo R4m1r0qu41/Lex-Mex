@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf
 source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 ---
 
+> Título IV · Capítulo Tercero
+
 # Artículo 78
 
 Los libros de contabilidad y los registros a que se refiere esta Ley, deberán conservarse disponibles en las oficinas del fondo de inversión, sociedad operadora de fondos de inversión, sociedad distribuidora de acciones de fondos de inversión o de las sociedades valuadoras de acciones de fondos de inversión.

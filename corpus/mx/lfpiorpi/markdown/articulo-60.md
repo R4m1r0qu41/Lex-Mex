@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPIORPI.pdf
 source_sha256: 2e35228bd3100a3a137f313359833c4836f2b4b6d4e52e1ce4fe58a970cd768f
 ---
 
+> Capítulo VII
+
 # Artículo 60
 
 La [Secretaría](articulo-3.md), en la imposición de sanciones de carácter administrativo a que se refiere el presente Capítulo, tomará en cuenta, en su caso, lo siguiente:

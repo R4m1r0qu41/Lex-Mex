@@ -13,10 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LOTFJA.pdf
 source_sha256: b32c33fa4ed071dc8bea1ad69ce8510cdb05016967e9e4fcb60f10c6f2216628
 ---
 
-> Título SEGUNDO
+> Título SEGUNDO · Capítulo VIII
 
 # Artículo 27
 
 La [Junta](articulo-2.md) de Gobierno y Administración, para atender los asuntos de su competencia, contará con los Secretarios Técnicos, Operativos y Auxiliares necesarios.
-
-Capítulo IX De las Salas Regionales Ordinarias, Auxiliares, Especializadas o Mixtas

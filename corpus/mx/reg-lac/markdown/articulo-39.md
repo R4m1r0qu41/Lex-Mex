@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAC.pdf
 source_sha256: 4dcf5277184d5f5c5cc1c8ae2dfa196134b472d883eb2806c7bac27cd77eda7d
 ---
 
+> Título Segundo · Capítulo III
+
 # Artículo 39
 
 Sin perjuicio de lo dispuesto en el artículo [83](../../lac/markdown/articulo-83.md) de la [Ley](articulo-2.md), en caso de desastre natural, de guerra, de grave alteración del orden público o cuando se prevea algún peligro inminente para la seguridad nacional o la paz interior del país o para la economía nacional, la [Secretaría](articulo-2.md) está facultada para imponer en la prestación de los servicios de transporte aéreo, y sólo por el tiempo y en la proporción que resulten estrictamente necesarias, las modalidades siguientes:

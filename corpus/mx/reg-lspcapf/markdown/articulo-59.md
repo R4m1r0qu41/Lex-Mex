@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSPCAPF.pdf
 source_sha256: b4a968d8e8c138ac2069f6afa0dc622178328df24f59cf58eddbab8efe4a7eff
 ---
 
+> Capítulo Décimo Segundo
+
 # Artículo 59
 
 La certificación de capacidades otorgará puntos adicionales a los servidores públicos de carrera, los cuales deberán ser actualizados permanentemente en el Registro, para ser considerados en los procesos de selección y en la autorización de movimientos o trayectorias laterales.

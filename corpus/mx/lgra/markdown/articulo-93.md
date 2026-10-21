@@ -13,10 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGRA.pdf
 source_sha256: 1289ec6964e48c84990572ca6080ca05c9d6210e5b0ff5af6d8c9d935fc5fcc8
 ---
 
-> Título PRIMERO
+> Título PRIMERO · Capítulo I
 
 # Artículo 93
 
 La denuncia deberá contener los datos o indicios que permitan advertir la presunta responsabilidad administrativa por la comisión de [Faltas administrativas](articulo-3.md), y podrán ser presentadas de manera electrónica a través de los mecanismos que para tal efecto establezcan las [Autoridades investigadoras](articulo-3.md), lo anterior sin menoscabo de la plataforma digital que determine, para tal efecto, el [Sistema Nacional Anticorrupción](articulo-3.md).
-
-Capítulo II De la Investigación

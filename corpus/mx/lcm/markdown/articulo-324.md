@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LCM.pdf
 source_sha256: 8e270686b885035488bfe310b0b42bb40e7154431794227ebe212dd7dc12e46a
 ---
 
-> Título DÉCIMO TERCERO
+> Título DÉCIMO TERCERO · Capítulo II
 
 # Artículo 324
 
@@ -32,5 +32,3 @@ V. Someter a la aprobación de la Junta Directiva, la propuesta de estructura ad
 VI. Someter a consideración de la Junta Directiva, los programas, así como las normas de organización y funcionamiento del Instituto, y
 
 VII. Las demás que le confieran esta [Ley](articulo-4o.md) y otros ordenamientos.
-
-Capítulo III De los visitadores, conciliadores y síndicos

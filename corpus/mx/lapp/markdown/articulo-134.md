@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAPP.pdf
 source_sha256: a4505a7bd41bc835f1def6fb030c42d8e74a2cc050d9c8fa08f91c9519e382bf
 ---
 
+> Capítulo Duodécimo · Sección Primera
+
 # Artículo 134
 
 En caso de divergencias de naturaleza técnica o económica, las partes del contrato de asociación público-privada tratarán de resolverlas de mutuo acuerdo y con apego al principio de buena fe.

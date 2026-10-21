@@ -18,5 +18,3 @@ source_sha256: 30e92e19100dc26408ce0b130151f8c44fe25aeb113eff14f3515553330ba230
 # Artículo 42
 
 1. El Pleno podrá acordar la constitución de comisiones especiales cuando se estimen necesarias para hacerse cargo de un asunto específico. El acuerdo que las establezca señalará su objeto, el número de los integrantes que las conformarán y el plazo para efectuar las tareas que se les hayan encomendado. Cumplido su objeto se extinguirán. Cuando se haya agotado el objeto de una comisión especial o al final de la Legislatura, el Secretario General de la Cámara informará lo conducente a la Conferencia para la Dirección y Programación de los Trabajos Legislativos, la cual hará la declaración de su extinción.
-
-Sección Segunda De su integración

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf
 source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 ---
 
+> Título III · Capítulo Segundo
+
 # Artículo 39 Bis 3
 
 Las sociedades operadoras de fondos de inversión que proporcionen servicios asesorados a sus clientes, deberán determinar los perfiles de cada uno de ellos o de sus cuentas, asignándole un nivel de tolerancia al riesgo en cada supuesto, según corresponda.

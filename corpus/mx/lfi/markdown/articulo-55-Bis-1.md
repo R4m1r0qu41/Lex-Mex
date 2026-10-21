@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf
 source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 ---
 
+> Título IV · Capítulo Primero
+
 # Artículo 55 Bis 1
 
 La Secretaría de Hacienda y Crédito Público, la [Comisión](articulo-2.md) y el Banco de México, en el ámbito de su competencia, estarán facultadas para proporcionar a las autoridades financieras del exterior toda clase de información que estimen procedente para atender los requerimientos que les formulen, en el ámbito de su competencia, tales como documentos, constancias, registros, declaraciones y demás evidencias que tales autoridades tengan en su poder por haberla obtenido en el ejercicio de sus facultades. Para efectos de lo previsto en el párrafo anterior, las autoridades deberán tener suscrito un acuerdo de intercambio de información con las autoridades financieras del exterior de que se trate, en el que se contemple el principio de reciprocidad.

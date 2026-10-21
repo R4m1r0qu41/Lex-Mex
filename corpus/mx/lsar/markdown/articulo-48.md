@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LSAR.pdf
 source_sha256: 02ff746c921b436a1ab6c74e5f1bc429976595b1b0f82cb8c5b50db1004128c1
 ---
 
-> Capítulo III
+> Capítulo III · Sección II
 
 # Artículo 48
 
@@ -44,5 +44,3 @@ X. Celebrar operaciones que de manera directa o indirecta tengan como resultado 
 [La Comisión](articulo-3o.md) en casos excepcionales y atendiendo a las consideraciones del caso concreto, podrá autorizar la adquisición de los valores a que se refiere el párrafo anterior hasta por un diez por ciento; XI. Adquirir valores extranjeros distintos a los autorizados por la Comisión en el régimen de inversión. Estos valores no deberán exceder el 20% del activo total de la sociedad de inversión, y Fracción reformada DOF 10-12-2002
 
 XII. Las demás que señalen ésta u otras leyes.
-
-Sección III Disposiciones Comunes

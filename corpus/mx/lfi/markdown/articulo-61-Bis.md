@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf
 source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 ---
 
+> Título IV · Capítulo Primero
+
 # Artículo 61 Bis
 
 Los estados de cuenta que envíen las sociedades o entidades que presten los servicios de distribución de acciones de fondos de inversión a sus clientes, deberán contener lo siguiente: I. La posición de las acciones de las cuales sea titular, valuada al último día del corte del período que corresponda y la del corte del período anterior;
@@ -32,5 +34,3 @@ VII. La demás información que establezca la Comisión mediante disposiciones d
 Cuando se cumplan los requisitos para la remisión del estado de cuenta en donde se contenga, entre otra, la información a que se refiere el presente artículo, o bien, cumplidas las instrucciones giradas por el cliente de que se trate, los registros que figuren en las mismas, así como en la contabilidad del fondo de inversión, se presumirán ciertos, salvo prueba en contrario, en el juicio respectivo, sin perjuicio de quedar a salvo el ejercicio de las acciones que por otros conceptos o agravios competa ejercer al accionista.
 
 Artículo adicionado DOF 10-01-2014
-
-Capítulo Segundo De las Filiales de Instituciones Financieras del Exterior Capítulo adicionado DOF 10-01-2014

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSPCAPF.pdf
 source_sha256: b4a968d8e8c138ac2069f6afa0dc622178328df24f59cf58eddbab8efe4a7eff
 ---
 
+> Capítulo Octavo
+
 # Artículo 24
 
 El Catálogo debe integrar la información de los puestos del Sistema, relativa a la adscripción, denominación, rama de cargo o puesto, cuerpo de función, código, funciones, perfil del puesto, remuneraciones que correspondan, y la fecha de creación, modificación o supresión del puesto. Párrafo reformado DOF 04-01-2024

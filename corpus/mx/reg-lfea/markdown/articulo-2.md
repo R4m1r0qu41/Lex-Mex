@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFEA.pdf
 source_sha256: 910ba43ef1ae54b3b12fe325f65c81056191fde641c52a10ba709f0f1a39021f
 ---
 
+> Capítulo I
+
 # Artículo 2
 
 Para los efectos del presente Reglamento, además de las definiciones establecidas en el artículo [2](../../lfea/markdown/articulo-2.md) de la [Ley](articulo-2.md), se entenderá por:

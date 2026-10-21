@@ -25,7 +25,9 @@ II. Emitir las normas oficiales mexicanas a que deberá sujetarse el tratamiento
 
 III. Establecer criterios sanitarios para la fijación de las condiciones particulares de descarga, el tratamiento y uso de aguas residuales o en su caso, para la elaboración de normas oficiales mexicanas ecológicas en la materia; Fracción reformada DOF 14-06-1991, 07-05-1997
 
-III Bis. Determinar y evaluar los riesgos sanitarios a los que se encuentra expuesta la población en caso de eventos provocados por fenómenos naturales originados por cambio climático; Fracción adicionada DOF 08-04-2013 IV. Promover y apoyar el saneamiento básico; Fracción reformada DOF 14-06-1991
+III Bis. Determinar y evaluar los riesgos sanitarios a los que se encuentra expuesta la población en caso de eventos provocados por fenómenos naturales originados por cambio climático; Fracción adicionada DOF 08-04-2013
+
+IV. Promover y apoyar el saneamiento básico; Fracción reformada DOF 14-06-1991
 
 V. Asesorar en criterios de ingeniería sanitaria de obras públicas y privadas para cualquier uso;
 

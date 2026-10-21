@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSPCAPF.pdf
 source_sha256: b4a968d8e8c138ac2069f6afa0dc622178328df24f59cf58eddbab8efe4a7eff
 ---
 
+> Capítulo Primero
+
 # Artículo 2
 
 Para efectos del presente reglamento, además de lo previsto en el artículo [3](../../lspcapf/markdown/articulo-3.md) de la [Ley](articulo-2.md), se entiende por:

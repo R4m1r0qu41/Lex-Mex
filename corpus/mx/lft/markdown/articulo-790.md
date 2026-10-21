@@ -27,7 +27,9 @@ III. El declarante bajo protesta de decir verdad, responderá por sí mismo, sin
 
 IV. Se deroga. Fracción derogada DOF 01-05-2019
 
-V. Se deroga. Fracción derogada DOF 01-05-2019 VI. El declarante contestará las posiciones o preguntas que se le formulen, pudiendo agregar las explicaciones que juzgue convenientes o las que le pida el [Tribunal](articulo-3o.-Ter.md); Fracción reformada DOF 01-05-2019
+V. Se deroga. Fracción derogada DOF 01-05-2019
+
+VI. El declarante contestará las posiciones o preguntas que se le formulen, pudiendo agregar las explicaciones que juzgue convenientes o las que le pida el [Tribunal](articulo-3o.-Ter.md); Fracción reformada DOF 01-05-2019
 
 VII. Si el declarante se niega a responder o sus respuestas son evasivas, el Tribunal de oficio o a instancia de parte, lo apercibirá en el acto de tenerlo por confeso de los hechos que se le atribuyen si persiste en ello. Fracción reformada DOF 01-05-2019
 

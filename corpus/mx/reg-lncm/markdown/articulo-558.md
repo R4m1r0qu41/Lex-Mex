@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Tercero · Capítulo VI
+
 # Artículo 558
 
 Los [CCTM](articulo-10.md) tendrán como finalidad establecer soluciones integrales para la planificación y ordenación del movimiento de las Embarcaciones; controlar la densidad del tráfico marítimo incluyendo planes de Navegación, así como para fijar límites de velocidad que han de observarse, prevenir situaciones peligrosas y otras medidas adecuadas que la [Dirección General](articulo-10.md) considere necesarias.

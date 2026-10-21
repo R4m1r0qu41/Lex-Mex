@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Tercero · Capítulo IV
+
 # Artículo 454
 
 La [Capitanía de Puerto](articulo-10.md) podrá, por razones de operatividad, autorizar el arribo de una [Embarcación Mayor](articulo-10.md) o Menor hasta con quince horas de anticipación, previo el cumplimiento de los requisitos establecidos, en cuyo caso el agente naviero consignatario será responsable de proporcionar oportuna y correctamente la información y documentación requerida. En el caso de que la Embarcación no arribe a más tardar tres horas después de la hora prevista, se deberá tramitar una nueva autorización.

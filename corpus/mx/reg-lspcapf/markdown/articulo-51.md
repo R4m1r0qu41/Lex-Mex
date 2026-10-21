@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSPCAPF.pdf
 source_sha256: b4a968d8e8c138ac2069f6afa0dc622178328df24f59cf58eddbab8efe4a7eff
 ---
 
+> Capítulo Décimo Primero
+
 # Artículo 51
 
 Para efectos de los convenios de intercambio previstos en el artículo [43](../../lspcapf/markdown/articulo-43.md) de la [Ley](articulo-2.md), se debe atender a lo siguiente: Párrafo reformado DOF 04-01-2024

@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAC.pdf
 source_sha256: 4dcf5277184d5f5c5cc1c8ae2dfa196134b472d883eb2806c7bac27cd77eda7d
 ---
 
-> Título TERCERO
+> Título TERCERO · Capítulo I
 
 # Artículo 86 Bis
 
@@ -34,5 +34,3 @@ VI. Tenga conocimiento sobre factores humanos con relación a las funciones de s
 La duración y contenido de cada programa de adiestramiento será de acuerdo con lo que se especifique de conformidad con las disposiciones técnico-administrativas que emita la Agencia Federal de Aviación Civil. Párrafo reformado DOF 31-05-2023
 
 Artículo adicionado DOF 21-01-2022
-
-Sección tercera Del personal de tierra

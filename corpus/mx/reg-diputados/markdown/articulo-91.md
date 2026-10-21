@@ -24,5 +24,3 @@ I. Una parte expositiva conformada por el fundamento jurídico del voto, los ant
 II. Una parte integrada por los resolutivos a los que han llegado el o los promoventes, ya sean estas normas o propuestas concretas, y
 
 III. Las firmas de las diputadas y de los diputados que exponen el voto particular.
-
-Sección Sexta Proyectos

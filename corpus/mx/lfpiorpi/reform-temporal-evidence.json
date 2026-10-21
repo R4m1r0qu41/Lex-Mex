@@ -1,5 +1,10 @@
 [
   {
+    "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:amendment:2018-03-09:transitory:unico",
+    "label": "Transitorio ÚNICO — Decreto DOF 2018-03-09",
+    "text": "El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación, salvo que en las Disposiciones Transitorias de este Decreto se disponga lo contrario."
+  },
+  {
     "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:amendment:2021-05-20:transitory:primero",
     "label": "Transitorio Primero — Decreto DOF 2021-05-20",
     "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República."

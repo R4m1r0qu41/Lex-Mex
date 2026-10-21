@@ -13,10 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGN_111220.pdf
 source_sha256: ea6e39560929f2e1998b2dabe0852fde0d684c69e5be49aab7f33433299bbeb0
 ---
 
-> Título SEXTO
+> Título SEXTO · Capítulo IX
 
 # Artículo 207
 
 Cuando se proponga la recusación en forma dolosa para retardar el procedimiento, se declarará improcedente y el responsable será sancionado en los términos previstos en las disposiciones jurídicas aplicables.
-
-Capítulo X Del Recurso de Inconformidad

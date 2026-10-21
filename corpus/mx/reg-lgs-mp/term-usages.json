@@ -496,12 +496,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mp:article:79:term-usage:945-948",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mp:article:79:term-usage:946-949",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mp:article:79",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mp:term:ley",
     "span": "Ley",
-    "start_char": 945,
-    "end_char": 948
+    "start_char": 946,
+    "end_char": 949
   },
   {
     "schema_version": "0.1.0",

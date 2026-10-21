@@ -13,8 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Segundo · Capítulo I
+
 # Artículo 24
 
 En la contratación de su personal operativo, los interesados procurarán favorecer la inclusión de trabajadores mexicanos, por lo que notificarán a la [Dirección General](articulo-10.md) los perfiles del personal requerido, a fin de que ésta instrumente los cursos de capacitación necesarios para la formación de dicho personal.
-
-Sección II Temporalidad de la Caracterización Tecnológica

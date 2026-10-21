@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPPI.pdf
 source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 ---
 
-> Título QUINTO BIS
+> Título QUINTO BIS · Capítulo II
 
 # Artículo 327 Ter
 
@@ -28,5 +28,3 @@ El Comité Técnico Especializado contará con una Secretaría Técnica a cargo 
 Las personas integrantes del Comité Técnico Especializado desempeñarán sus funciones de manera honorífica, por lo que no recibirán emolumento o percibirán remuneración económica alguna.
 
 Artículo adicionado DOF 03-04-2026
-
-Capítulo III Del Procedimiento de Emisión de Resolución Obligatoria de Patentes o Registros Capítulo adicionado DOF 03-04-2026

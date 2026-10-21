@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf
 source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 ---
 
+> Título IV · Capítulo Tercero
+
 # Artículo 81 Bis
 
 La [Comisión](articulo-2.md), en el ejercicio de las facultades a que se refiere esta Ley, podrá señalar la forma y términos en que las personas a las cuales les solicite información, deberán dar cumplimiento a sus requerimientos.
@@ -32,5 +34,3 @@ Para efectos de este artículo, las autoridades judiciales o ministeriales feder
 En los casos de cuerpos de seguridad pública de las entidades federativas o de los municipios, el apoyo se solicitará en los términos de los ordenamientos que regulan la seguridad pública o, en su caso, de conformidad con los acuerdos de colaboración administrativa que se tengan celebrados con la Federación.
 
 Artículo adicionado DOF 10-01-2014
-
-Capítulo Cuarto De la fusión y escisión Capítulo adicionado DOF 10-01-2014

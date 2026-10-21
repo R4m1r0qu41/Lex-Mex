@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSPCAPF.pdf
 source_sha256: b4a968d8e8c138ac2069f6afa0dc622178328df24f59cf58eddbab8efe4a7eff
 ---
 
+> Capítulo Octavo
+
 # Artículo 26
 
 En los casos en que se supriman puestos del Sistema o se determine alguno de ellos como de libre designación, los servidores públicos de carrera que los ocupen serán reubicados en el Sistema, previa solicitud que formulen a la [DGRH](articulo-2.md) y siempre que existan puestos vacantes afines al perfil del puesto del que es titular.
@@ -20,5 +22,3 @@ En los casos en que se supriman puestos del Sistema o se determine alguno de ell
 Cuando se modifiquen puestos del Sistema por necesidades de reestructura en las dependencias, los servidores públicos de carrera que los ocupen podrán tener continuidad en el nuevo puesto siempre y cuando se cumpla con el perfil del puesto y dichas modificaciones no impliquen cambio de rango o grupo. En caso contrario, el Comité Técnico de Profesionalización, previa solicitud que formulen dichos servidores públicos de carrera a la DGRH, podrá determinar la reubicación de éstos en el Sistema. Párrafo adicionado DOF 04-01-2024
 
 Corresponde a la DGRH llevar a cabo, dentro del plazo que determine el Comité Técnico de Profesionalización, las gestiones tendientes a la reubicación en el Sistema de los servidores públicos de carrera a que se refiere este artículo. Párrafo reformado DOF 04-01-2024
-
-Capítulo Noveno Del Registro Único del Servicio Público Profesional

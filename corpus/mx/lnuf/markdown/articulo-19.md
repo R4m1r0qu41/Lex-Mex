@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LNUF.pdf
 source_sha256: 0c11f4464286e7411713a80361a2e1ab15c4cc55bff80b4e6ee4a4333592d50c
 ---
 
+> Capítulo V
+
 # Artículo 19
 
 Todo agente tiene derecho a la protección de su vida e integridad física, al respeto a su dignidad como ser humano y a su autoridad por parte de sus superiores y de la ciudadanía.

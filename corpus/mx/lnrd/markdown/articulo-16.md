@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LNRD_270519.pdf
 source_sha256: 0a9852297132d8972d0c2f77e1b67d614bd296632109065e703bd09254187aea
 ---
 
+> Capítulo V
+
 # Artículo 16
 
 Las condiciones y perfiles de acceso al [Registro](articulo-2.md) serán determinados por la [Secretaría](articulo-2.md), conforme a los siguientes niveles:
@@ -28,5 +30,3 @@ IV. Capturista: perfil orientado a sujetos obligados que realizan funciones de c
 V. Enlace Estatal o Institucional: perfil orientado al personal que realiza las funciones de contacto y los trámites necesarios para la solicitud de cuentas de los sujetos obligados de todas las dependencias que se encuentren en la Entidad Federativa o de todas las áreas de su institución ante la Secretaría.
 
 La plataforma del Registro emitirá alertas y bloqueos respectivos cuando los sujetos obligados manipulen de manera inusual los datos del registro o se violenten los privilegios de acceso.
-
-Capítulo VI Procedimiento para el Suministro, Intercambio y Actualización de Información del Registro

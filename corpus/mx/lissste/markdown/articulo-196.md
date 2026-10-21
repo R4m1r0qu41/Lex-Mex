@@ -28,5 +28,3 @@ III. Servicios funerarios;
 IV. Servicios de atención para el bienestar y desarrollo infantil, y
 
 V. Los demás que acuerde la Junta Directiva, siempre que no se afecte la viabilidad financiera en el corto, mediano o largo plazo.
-
-Sección II Servicios Culturales

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf
 source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 ---
 
+> Título IV · Capítulo Cuarto
+
 # Artículo 81 Bis 3
 
 Las sociedades mencionadas en el artículo [81 Bis 1](articulo-81-Bis-1.md) de esta Ley podrán escindirse ya sea extinguiéndose, en cuyo caso la sociedad escindente dividirá la totalidad o parte de su activo, pasivo y capital social en dos o más partes, que serán aportadas en bloque a otras sociedades de nueva creación; o cuando la sociedad escindente, sin extinguirse, aporte en bloque parte de su activo, pasivo y capital social a otra u otras sociedades de nueva creación.
@@ -53,6 +55,4 @@ En el evento de que la escisión produzca la extinción de las sociedades referi
 
 Las sociedades escindidas que se constituyan a raíz de la escisión podrán ser sociedades del mismo tipo que las escindentes o de cualquier otro tipo legal.
 
-Artículo adicionado DOF 10-01-2014 Capítulo Quinto De la revocación y de los procedimientos administrativos Capítulo adicionado DOF 10-01-2014
-
-Sección I De la revocación Sección adicionada DOF 10-01-2014
+Artículo adicionado DOF 10-01-2014

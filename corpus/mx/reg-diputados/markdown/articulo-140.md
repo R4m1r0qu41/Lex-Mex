@@ -26,5 +26,3 @@ I. Por instrucciones del Presidente, la [Secretaría](articulo-2.md) consultará
 II. Enseguida, la Secretaría pedirá a los diputados y diputadas que estén por la negativa, que expresen su parecer poniéndose de pie o levantando la mano, y
 
 III. Terminada la votación, la Secretaría comunicará el resultado al Presidente, quien hará el anuncio al Pleno y dará el trámite que corresponda.
-
-Sección Cuarta Votación por Cédula

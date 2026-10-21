@@ -13,10 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDFS.pdf
 source_sha256: 2c75fd0eab3245aed43a4e1230dcd142b48959a1df09bdd4e70684935a505dd4
 ---
 
-> Título CUARTO
+> Título CUARTO · Capítulo I
 
 # Artículo 90
 
 El aprovechamiento de los recursos forestales, para usos domésticos y colecta para fines de investigación, en áreas que sean el hábitat de especies que se encuentren en alguna categoría de riesgo, deberá hacerse de manera que no se alteren las condiciones para la sobrevivencia, desarrollo y permanencia de dichas especies.
-
-Sección Sexta Del Transporte, Almacenamiento y Transformación de las Materias Primas Forestales

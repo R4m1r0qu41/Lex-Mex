@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSPCAPF.pdf
 source_sha256: b4a968d8e8c138ac2069f6afa0dc622178328df24f59cf58eddbab8efe4a7eff
 ---
 
+> Capítulo Décimo Primero
+
 # Artículo 48
 
 Las dependencias, antes de la publicación de la convocatoria, podrán ocupar las vacantes de los puestos sujetos al Sistema, mediante movimiento o trayectoria lateral, de conformidad con lo previsto en el artículo [39](../../lspcapf/markdown/articulo-39.md) fracción II de la [Ley](articulo-2.md) y este Reglamento.

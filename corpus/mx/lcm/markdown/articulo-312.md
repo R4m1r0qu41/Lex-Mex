@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LCM.pdf
 source_sha256: 8e270686b885035488bfe310b0b42bb40e7154431794227ebe212dd7dc12e46a
 ---
 
-> Título DÉCIMO TERCERO
+> Título DÉCIMO TERCERO · Capítulo I
 
 # Artículo 312
 
@@ -22,5 +22,3 @@ El [Comerciante](articulo-4o.md) que enfrente problemas económicos o financiero
 El Instituto deberá notificar al solicitante por escrito, dentro de los quince días naturales siguientes a la fecha de la solicitud correspondiente, la lista a la que se refiere el párrafo anterior. Los honorarios del conciliador serán a cargo del solicitante.
 
 En ningún caso el Instituto será responsable por los actos realizados por el conciliador que el Comerciante o, en su caso, cualquier acreedor hubieren elegido.
-
-Capítulo II De la organización

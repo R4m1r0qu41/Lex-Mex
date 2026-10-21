@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPIORPI.pdf
 source_sha256: 2e35228bd3100a3a137f313359833c4836f2b4b6d4e52e1ce4fe58a970cd768f
 ---
 
+> Capítulo IV Bis
+
 # Artículo 33 Bis
 
 Las sociedades mercantiles deben atender los requerimientos realizados por las autoridades competentes conforme a esta [Ley](articulo-3.md), para determinar claramente a quien sea su [Beneficiario Controlador](articulo-3.md) y conservar la información que lo soporte.

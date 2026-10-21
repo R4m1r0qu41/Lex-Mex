@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Tercero · Capítulo V
+
 # Artículo 503
 
 El proyecto de reglas de pilotaje de cada puerto o sus reformas deberá considerar las previsiones de las Reglas de Operación del Puerto. La [Dirección General](articulo-10.md) escuchará la opinión del [Comité Técnico](articulo-10.md) antes de proceder a su aprobación y publicación en el Diario Oficial de la Federación.

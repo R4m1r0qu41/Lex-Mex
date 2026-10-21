@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAC.pdf
 source_sha256: 4dcf5277184d5f5c5cc1c8ae2dfa196134b472d883eb2806c7bac27cd77eda7d
 ---
 
-> Título TERCERO · Capítulo I BIS
+> Título Cuarto · Capítulo II
 
 # Artículo 107
 
@@ -37,7 +37,9 @@ IV. Las jaulas o contenedores que transporten a los animales domésticos deberá
 
 V. Cuando la aeronave no cuente con compartimentos de carga presurizados y climatizados, el transporte de los animales domésticos podrá hacerse en una cabina adyacente a la de las personas pasajeras, pero separada de ésta por un mamparo, siempre que se respeten los lineamientos en materia de seguridad para la operación de las aeronaves destinadas al transporte de personas pasajeras; Fracción reformada DOF 31-05-2023
 
-VI. Las especies braquicéfalas sólo podrán ser transportadas por vía aérea, cuando la persona pasajera otorgue carta responsiva por los posibles daños o la muerte del animal, sin responsabilidad para la persona concesionaria, asignataria o permisionaria; Fracción reformada DOF 31-05-2023 VII. Sólo los animales de servicio, incluyendo perros lazarillos, así como los animales de apoyo emocional podrán viajar en la cabina de personas pasajeras. Para tal efecto, la persona pasajera deberá sujetarse a las medidas de seguridad operacional aplicables, las cuales deberán informársele previamente por la persona concesionaria, asignataria o permisionaria; Fracción reformada DOF 31-05-2023
+VI. Las especies braquicéfalas sólo podrán ser transportadas por vía aérea, cuando la persona pasajera otorgue carta responsiva por los posibles daños o la muerte del animal, sin responsabilidad para la persona concesionaria, asignataria o permisionaria; Fracción reformada DOF 31-05-2023
+
+VII. Sólo los animales de servicio, incluyendo perros lazarillos, así como los animales de apoyo emocional podrán viajar en la cabina de personas pasajeras. Para tal efecto, la persona pasajera deberá sujetarse a las medidas de seguridad operacional aplicables, las cuales deberán informársele previamente por la persona concesionaria, asignataria o permisionaria; Fracción reformada DOF 31-05-2023
 
 VIII. No podrán ser transportados a bordo de la cabina de las personas pasajeras, los animales domésticos que por la naturaleza propia de su especie o raza sean potencialmente peligrosos y pudieran representar un riesgo para la tripulación o para las personas pasajeras. Párrafo reformado DOF 31-05-2023
 

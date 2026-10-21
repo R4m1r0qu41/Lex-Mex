@@ -13,10 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAN_250814.pdf
 source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 ---
 
-> Título CUARTO
+> Título CUARTO · Capítulo IV
 
 # Artículo 63
 
 Las reclamaciones por negativa, rectificación, modificación y cancelación de inscripciones que perjudiquen a terceros, así como las que se refieran a nulidades de éstas, a que se refiere el artículo [31](../../lan/markdown/articulo-31.md) de la "[Ley](articulo-1o.md)", se resolverán conforme al procedimiento de conciliación y arbitraje previsto en el presente "[Reglamento](articulo-1o.md)" o, en su defecto, se deberá demandar ante los tribunales competentes para que, previa la substanciación del proceso respectivo, se dicte la resolución que conforme a derecho proceda.
-
-Capítulo V Transmisión de Títulos

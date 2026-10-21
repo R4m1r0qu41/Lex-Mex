@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRCF.pdf
 source_sha256: cc687a4d8d9de93d2d3ec9b40b26d0273e108bb002a6f611806dc36ebce5ba2c
 ---
 
-> Título SEGUNDO
+> Título SEGUNDO · Capítulo III
 
 # Artículo 38
 
@@ -26,5 +26,3 @@ En dicho informe, la Auditoría Superior de la Federación dará a conocer el se
 Respecto de los pliegos de observaciones, en dicho informe se dará a conocer el número de pliegos emitidos, su estatus procesal y las causas que los motivaron.
 
 En cuanto a las denuncias penales formuladas ante la [Fiscalía Especializada](articulo-4.md) o las autoridades competentes, en dicho informe la Auditoría Superior de la Federación dará a conocer la información actualizada sobre la situación que guardan las denuncias penales, el número de denuncias presentadas, las causas que las motivaron, las razones sobre su procedencia o improcedencia así como, en su caso, la pena impuesta.
-
-Capítulo IV De las Acciones y Recomendaciones derivadas de la Fiscalización

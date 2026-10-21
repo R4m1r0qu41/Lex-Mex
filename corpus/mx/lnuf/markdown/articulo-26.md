@@ -13,8 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LNUF.pdf
 source_sha256: 0c11f4464286e7411713a80361a2e1ab15c4cc55bff80b4e6ee4a4333592d50c
 ---
 
+> Capítulo VI
+
 # Artículo 26
 
 De cada detención se llevará a cabo el registro e informe correspondiente, en términos de lo establecido por la ley en la materia.
-
-Capítulo VII Actuación de las Policías en Manifestaciones y Reuniones Públicas

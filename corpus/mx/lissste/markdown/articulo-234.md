@@ -28,5 +28,3 @@ III. Reservas financieras y actuariales, y
 IV. Reservas general financiera y actuarial.
 
 Los recursos afectos a las Reservas señaladas quedan fuera de las disposiciones de anualidad presupuestal, por lo que podrán financiar obligaciones y contingencias más allá de un solo ejercicio fiscal. Del manejo multianual que haga el Instituto de estos [Fondos](articulo-6.md) deberá informarse a la Secretaría de Hacienda y Crédito Público a más tardar el día veintiocho de febrero del año siguiente.
-
-Sección II De las Reservas de los Seguros

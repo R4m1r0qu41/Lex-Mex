@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf
 source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 ---
 
+> Título IV · Capítulo Tercero
+
 # Artículo 80
 
 La [Comisión](articulo-2.md) contará con facultades de supervisión, en términos de su Ley, respecto de los fondos de inversión, las personas que les presten servicios conforme a lo señalado en el artículo [32](articulo-32.md) de esta Ley, así como de las instituciones de seguros en cuanto a las actividades que estas realicen en materia de distribución de acciones de fondos de inversión. Las personas a que se refiere este artículo, sin perjuicio de la información y documentación que deban proporcionarle periódicamente a la Comisión, deberán presentar la información y documentación que esta les requiera, dentro de los plazos, condiciones y demás características que la Comisión establezca, para poder cumplir con sus facultades de supervisión, dentro del ámbito de las disposiciones aplicables. Párrafo reformado DOF 10-01-2014
@@ -31,7 +33,9 @@ a) Remoción, a la separación del infractor del empleo, cargo o comisión que t
 
 b) Suspensión, a la interrupción temporal en el desempeño de las funciones que el infractor tuviere dentro de la sociedad que corresponda en el momento en que se haya cometido o detecte la infracción, pudiendo realizar funciones distintas a aquellas que dieron origen a la sanción, siempre y cuando no se encuentren relacionados directa o indirectamente con el cargo o actividad que dio origen a la suspensión, y
 
-c) Inhabilitación, al impedimento temporal para el ejercicio de un empleo, cargo o comisión dentro del sistema financiero mexicano. Fracción reformada DOF 10-01-2014 IV. Practicar visitas domiciliarias a las personas a que se refiere el primer párrafo de este artículo, con el objeto de revisar, verificar, comprobar y evaluar las operaciones, organización, funcionamiento, los procesos, los sistemas de control interno, de administración de riesgos y de información, así como el patrimonio, la adecuación del capital a los riesgos, la calidad de los activos y, en general, todo lo que pudiendo afectar la posición financiera y legal, conste o deba constar en los registros, a fin de que dichas personas se ajusten al cumplimiento de las disposiciones que las rigen y a las sanas prácticas de la materia. Las visitas domiciliarias podrán ser ordinarias, especiales y de investigación.
+c) Inhabilitación, al impedimento temporal para el ejercicio de un empleo, cargo o comisión dentro del sistema financiero mexicano. Fracción reformada DOF 10-01-2014
+
+IV. Practicar visitas domiciliarias a las personas a que se refiere el primer párrafo de este artículo, con el objeto de revisar, verificar, comprobar y evaluar las operaciones, organización, funcionamiento, los procesos, los sistemas de control interno, de administración de riesgos y de información, así como el patrimonio, la adecuación del capital a los riesgos, la calidad de los activos y, en general, todo lo que pudiendo afectar la posición financiera y legal, conste o deba constar en los registros, a fin de que dichas personas se ajusten al cumplimiento de las disposiciones que las rigen y a las sanas prácticas de la materia. Las visitas domiciliarias podrán ser ordinarias, especiales y de investigación.
 
 Las visitas ordinarias serán aquellas que se efectúen de conformidad con el programa anual que apruebe el presidente de la Comisión.
 
@@ -55,7 +59,9 @@ En todo caso, las visitas a que se refiere esta fracción se sujetarán a lo dis
 
 Cuando, en el ejercicio de la función prevista en esta fracción, la Comisión así lo requiera, podrá contratar los servicios de auditores y de otros profesionistas que le auxilien en dicha función; Fracción reformada DOF 10-01-2014
 
-V. Intervenir gerencialmente a los fondos de inversión, operadoras de fondos de inversión, distribuidoras y valuadoras de acciones de fondos de inversión, con objeto de suspender, normalizar o resolver las operaciones que pongan en peligro su solvencia, estabilidad o liquidez, o aquellas violatorias de la presente Ley, de la Ley del Mercado de Valores o de las disposiciones de carácter general derivadas de ambos ordenamientos legales; Fracción reformada DOF 10-01-2014 VI. Ordenar la suspensión parcial o normalización de actividades de los fondos de inversión, sociedades operadoras de fondos de inversión, sociedades distribuidoras de acciones de fondos de inversión y sociedades valuadoras de acciones de fondos de inversión, así como las actividades que conforme a la presente Ley realicen las instituciones de crédito, casas de bolsa, instituciones de seguros, organizaciones auxiliares del crédito y casas de cambio; Fracción reformada DOF 10-01-2014
+V. Intervenir gerencialmente a los fondos de inversión, operadoras de fondos de inversión, distribuidoras y valuadoras de acciones de fondos de inversión, con objeto de suspender, normalizar o resolver las operaciones que pongan en peligro su solvencia, estabilidad o liquidez, o aquellas violatorias de la presente Ley, de la Ley del Mercado de Valores o de las disposiciones de carácter general derivadas de ambos ordenamientos legales; Fracción reformada DOF 10-01-2014
+
+VI. Ordenar la suspensión parcial o normalización de actividades de los fondos de inversión, sociedades operadoras de fondos de inversión, sociedades distribuidoras de acciones de fondos de inversión y sociedades valuadoras de acciones de fondos de inversión, así como las actividades que conforme a la presente Ley realicen las instituciones de crédito, casas de bolsa, instituciones de seguros, organizaciones auxiliares del crédito y casas de cambio; Fracción reformada DOF 10-01-2014
 
 VII. Emitir disposiciones de carácter general acerca de los términos y condiciones a los que deberá sujetarse toda clase de propaganda e información dirigida al público, tanto de los fondos de inversión, como de las sociedades operadoras de fondos de inversión y las personas que presten servicios de distribución de acciones de fondos de inversión, quedando prohibido a las primeras anunciar su capital autorizado sin consignar el capital pagado.
 

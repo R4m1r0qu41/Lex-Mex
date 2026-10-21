@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGRA.pdf
 source_sha256: 1289ec6964e48c84990572ca6080ca05c9d6210e5b0ff5af6d8c9d935fc5fcc8
 ---
 
-> Título SEGUNDO
+> Título SEGUNDO · Capítulo I
 
 # Artículo 207
 
@@ -36,5 +36,3 @@ VIII. La determinación de la sanción para el servidor público que haya sido d
 IX. La existencia o inexistencia que en términos de esta Ley constituyen Faltas administrativas, y
 
 X. Los puntos resolutivos, donde deberá precisarse la forma en que deberá cumplirse la resolución.
-
-Capítulo II Del procedimiento de responsabilidad administrativa ante las [Secretarías](articulo-3.md) y [Órganos internos de control](articulo-3.md)

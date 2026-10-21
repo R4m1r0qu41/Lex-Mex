@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf
 source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 ---
 
+> Título II · Capítulo Primero
+
 # Artículo 9
 
 Los prospectos de información al público inversionista de los fondos de inversión, así como sus modificaciones, requerirán de la previa autorización de la [Comisión](articulo-2.md), y contendrán la información relevante que contribuya a la adecuada toma de decisiones por parte del público inversionista, entre la que deberá figurar como mínimo la siguiente: Párrafo reformado DOF 10-01-2014
@@ -60,5 +62,3 @@ La Comisión, mediante disposiciones de carácter general, precisará las modifi
 Las personas que presten a los fondos de inversión los servicios de distribución de sus acciones, deberán estipular con el público inversionista, por cuenta de estas, al momento de la celebración del contrato respectivo, los medios a través de los cuales se pondrán a su disposición para su análisis y consulta, los prospectos de información al público inversionista y documentos con información clave para la inversión de los fondos de inversión cuyas acciones al efecto distribuyan y, en su caso, sus modificaciones, acordando al mismo tiempo los hechos o actos que presumirán su consentimiento respecto de los mismos. Párrafo adicionado DOF 10-01-2014
 
 En todo caso, los fondos de inversión se encontrarán obligados a presentar sus prospectos de información al público inversionista en el formato que para tales efectos emita la Comisión conforme a las disposiciones de carácter general a que alude este artículo. Párrafo adicionado DOF 10-01-2014
-
-Capítulo Segundo De la organización Capítulo adicionado DOF 10-01-2014

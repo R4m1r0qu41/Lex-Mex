@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSPCAPF.pdf
 source_sha256: b4a968d8e8c138ac2069f6afa0dc622178328df24f59cf58eddbab8efe4a7eff
 ---
 
+> Capítulo Cuarto
+
 # Artículo 9
 
 Para efectos del artículo [70](../../lspcapf/markdown/articulo-70.md) de la [Ley](articulo-2.md), los responsables de cada subsistema serán:

@@ -13,11 +13,13 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPPI.pdf
 source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 ---
 
-> Título SEGUNDO
+> Título SEGUNDO · Capítulo V
 
 # Artículo 90
 
-El registro de un esquema de trazado no producirá efecto alguno en contra de cualquier tercera persona que: Párrafo reformado DOF 03-04-2026 I.- Sin autorización de la persona titular, con propósitos privados o con el único objetivo de evaluación, análisis, investigación o enseñanza, reproduzca un esquema de trazado protegido; Párrafo reformado DOF 03-04-2026
+El registro de un esquema de trazado no producirá efecto alguno en contra de cualquier tercera persona que: Párrafo reformado DOF 03-04-2026
+
+I.- Sin autorización de la persona titular, con propósitos privados o con el único objetivo de evaluación, análisis, investigación o enseñanza, reproduzca un esquema de trazado protegido; Párrafo reformado DOF 03-04-2026
 
 II.- Cree un esquema de trazado que cumpla con la exigencia de originalidad, sobre la base de la evaluación o el análisis de un esquema de trazado protegido, en los términos de la fracción I de este artículo.
 
@@ -38,5 +40,3 @@ V.- Sin autorización de la persona titular, venda o distribuya, en cualquier fo
 La tercera persona de buena fe estará obligada al pago de una regalía razonable, similar a la que correspondería bajo una licencia libremente negociada, a partir del momento en que reciba aviso suficiente de que el esquema de trazado protegido fue reproducido ilícitamente, para agotar el inventario existente o los pedidos hechos con anterioridad a la notificación del aviso. Párrafo reformado DOF 03-04-2026
 
 La realización de cualquier actividad contemplada en el presente artículo no constituirá infracción administrativa o delito en los términos de esta Ley.
-
-Capítulo VI De la Tramitación de Patentes

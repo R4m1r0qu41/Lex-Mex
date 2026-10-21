@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf
 source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 ---
 
+> Título IV · Capítulo Primero
+
 # Artículo 56 Bis
 
 Las sociedades operadoras de fondos de inversión podrán pactar con otras sociedades operadoras y entidades financieras del exterior del mismo tipo, comisiones para realizar los servicios de administración de activos de los fondos de inversión, de conformidad con las disposiciones de carácter general que expida la [Comisión](articulo-2.md), previo acuerdo de su Junta de Gobierno.

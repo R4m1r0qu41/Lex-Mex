@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSPCAPF.pdf
 source_sha256: b4a968d8e8c138ac2069f6afa0dc622178328df24f59cf58eddbab8efe4a7eff
 ---
 
+> Capítulo Octavo
+
 # Artículo 22
 
 Las dependencias, a través del Comité Técnico de Profesionalización, son responsables de la descripción, de los perfiles y demás requerimientos de los puestos del Sistema que forman parte del Catálogo, así como de su registro y actualización.

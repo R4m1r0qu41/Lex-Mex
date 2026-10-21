@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAC.pdf
 source_sha256: 4dcf5277184d5f5c5cc1c8ae2dfa196134b472d883eb2806c7bac27cd77eda7d
 ---
 
+> Título Segundo · Capítulo III
+
 # Artículo 47 Quater
 
 La persona concesionaria, asignataria y permisionaria debe realizar un programa de control de calidad de las medidas de seguridad aplicadas a sus operaciones con la finalidad de evaluar la eficacia, debiendo extenderse a las tareas en seguridad de la aviación civil encomendadas a proveedores externos de servicios.

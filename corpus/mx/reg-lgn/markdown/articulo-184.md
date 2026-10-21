@@ -13,10 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGN_111220.pdf
 source_sha256: ea6e39560929f2e1998b2dabe0852fde0d684c69e5be49aab7f33433299bbeb0
 ---
 
-> Título SEXTO
+> Título SEXTO · Capítulo V
 
 # Artículo 184
 
 Las Coordinaciones Territoriales podrán tener más de un Consejo de Honor Superior, de acuerdo con las necesidades del mando correspondiente.
-
-Capítulo VI Supletoriedad

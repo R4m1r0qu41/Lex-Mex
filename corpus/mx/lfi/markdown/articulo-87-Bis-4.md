@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf
 source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 ---
 
+> Título IV · Capítulo Quinto
+
 # Artículo 87 Bis 4
 
 Las notificaciones de visitas de investigación y de la declaración de intervención a que se refiere esta ley se realizarán en un solo acto y conforme a lo previsto en el reglamento a que hace referencia el último párrafo del artículo [87 Bis 2](articulo-87-Bis-2.md) de esta Ley.

@@ -8,7 +8,7 @@
   "glossaries": [
     {
       "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:3",
-      "provision_text_sha256": "ab6368ec8a5d324d219f8b4c441875e861a281d0925b134617843d0513891e83",
+      "provision_text_sha256": "1486a3de8f89a73e4f86105992b2e90bad050038e11ccd50f7380caf4b30fc47",
       "method": "established_pass",
       "fractions": [
         "I",
@@ -38,5 +38,5 @@
   ],
   "imports": [],
   "term_count": 20,
-  "usage_count": 542
+  "usage_count": 534
 }

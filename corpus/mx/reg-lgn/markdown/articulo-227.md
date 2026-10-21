@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGN_111220.pdf
 source_sha256: ea6e39560929f2e1998b2dabe0852fde0d684c69e5be49aab7f33433299bbeb0
 ---
 
-> Título SÉPTIMO
+> Título SÉPTIMO · Capítulo I
 
 # Artículo 227
 
@@ -38,5 +38,3 @@ En sus ausencias el Presidente del Consejo de Carrera será suplido por el Jefe 
 Los miembros del Consejo de Carrera serán de carácter permanente y podrán designar un suplente permanente que deberá tener, al menos, el grado de Comisario o, en su caso, el cargo de Director General.
 
 El Consejo de Carrera contará para el desempeño de sus funciones, con los secretarios de acuerdos, secretarios de estudio y cuenta, actuarios, auxiliares administrativos y demás personal necesario, conforme a las disponibilidades presupuestales de cada unidad representada.
-
-Capítulo II Del Funcionamiento del Consejo de Carrera

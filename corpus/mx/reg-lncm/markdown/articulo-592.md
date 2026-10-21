@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Tercero · Capítulo VII
+
 # Artículo 592
 
 Para el conocimiento público sobre el [Señalamiento Marítimo](articulo-10.md), la [Dirección General](articulo-10.md) mantendrá un sistema de información relacionada, en la cual deberán integrarse los siguientes contenidos:
@@ -26,7 +28,3 @@ IV. Cuaderno de faros;
 V. Radiocomunicaciones, y
 
 VI. Archivo de instrumentos aplicables al Señalamiento Marítimo.
-
-Capítulo VIII Remolque Maniobra
-
-Sección I Aspectos Generales

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAPP.pdf
 source_sha256: a4505a7bd41bc835f1def6fb030c42d8e74a2cc050d9c8fa08f91c9519e382bf
 ---
 
+> Capítulo Quinto · Sección Segunda
+
 # Artículo 70
 
 La dependencia o entidad podrá cubrir, contra la posesión del inmueble, bien o derecho, anticipos hasta por el equivalente a un cincuenta por ciento del precio acordado.

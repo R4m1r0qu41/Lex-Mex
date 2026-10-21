@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPPI.pdf
 source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 ---
 
-> Título SEGUNDO
+> Título SEGUNDO · Capítulo VIII
 
 # Artículo 136 Bis
 
@@ -30,5 +30,3 @@ El Instituto expedirá un certificado complementario a la persona titular de la 
 El certificado complementario no podrá exceder cinco años y surtirá efectos al día siguiente del vencimiento de la vigencia de la patente de la cual deriva, siempre y cuando ésta se encuentre vigente.
 
 Artículo adicionado DOF 03-04-2026
-
-Capítulo IX De las Licencias y Transmisión de Derechos

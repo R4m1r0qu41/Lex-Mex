@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Tercero · Capítulo IX
+
 # Artículo 613
 
 El tipo de Navegación de las [Embarcaciones Menores de Recreo y Deportivas](articulo-10.md) se indicará y deberá ser el mismo en sus certificados de matrícula y de seguridad para la Navegación, conforme a la elección que el Propietario o legítimo poseedor realice en la solicitud correspondiente.

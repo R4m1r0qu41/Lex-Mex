@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf
 source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 ---
 
+> Título III · Capítulo Segundo
+
 # Artículo 39 Bis 1
 
 Las sociedades operadoras de fondos de inversión en el servicio a que se refiere la fracción V del artículo [39 Bis](articulo-39-Bis.md) de esta Ley, podrán asesorar a sus clientes en las inversiones que, en su caso, se realicen, estipulando al efecto las responsabilidades que deriven de su asesoría, con independencia de si en el contrato se conviene o no el manejo discrecional.

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf
 source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 ---
 
+> Título IV · Capítulo Sexto
+
 # Artículo 97
 
 No se les aplicará lo establecido en los artículos [94](articulo-94.md) a [96](articulo-96.md) a las autoridades administrativas en el ejercicio de sus atribuciones de supervisión, inspección y vigilancia.

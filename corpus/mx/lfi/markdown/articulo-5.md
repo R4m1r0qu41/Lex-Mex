@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf
 source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 ---
 
+> Título I · Capítulo Único
+
 # Artículo 5
 
 Los fondos de inversión, serán sociedades anónimas de capital variable que tendrán por objeto exclusivamente la adquisición y venta habitual y profesional de [Activos Objeto de Inversión](articulo-2.md) con recursos provenientes de la colocación de las acciones representativas de su capital social ofreciéndolas a persona indeterminada, a través de servicios de intermediación financiera, conforme a lo dispuesto en la Ley del Mercado de Valores y en esta Ley.

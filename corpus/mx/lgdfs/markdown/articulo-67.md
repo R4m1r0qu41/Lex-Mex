@@ -13,12 +13,10 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDFS.pdf
 source_sha256: 2c75fd0eab3245aed43a4e1230dcd142b48959a1df09bdd4e70684935a505dd4
 ---
 
-> Título CUARTO
+> Título CUARTO · Capítulo I
 
 # Artículo 67
 
 Las autorizaciones, avisos, informes y otros actos previstos en la presente Ley, podrán ser modificados cuando varíen las condiciones que la autoridad consideró al momento de su otorgamiento, independientemente de que el titular haya dado lugar a dichas variaciones.
 
 Artículo reformado DOF 11-04-2022
-
-Sección Primera De los Trámites en Materia Forestal

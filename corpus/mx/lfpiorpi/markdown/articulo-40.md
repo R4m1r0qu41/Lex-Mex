@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPIORPI.pdf
 source_sha256: 2e35228bd3100a3a137f313359833c4836f2b4b6d4e52e1ce4fe58a970cd768f
 ---
 
+> Capítulo VI
+
 # Artículo 40
 
 La [Secretaría](articulo-3.md) deberá denunciar ante la [Fiscalía](articulo-3.md) cualquier acto u operación que derive de una Actividad Vulnerable que pudiera dar lugar a la existencia de un delito del fuero federal que se identifique con motivo de la aplicación de la presente [Ley](articulo-3.md).

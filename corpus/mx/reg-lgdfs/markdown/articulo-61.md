@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGDFS.pdf
 source_sha256: a4dbcdb94d780332f0bda62246611dab5972e75bcb01df293df93a95cdd03530
 ---
 
-> Título TERCERO
+> Título TERCERO · Capítulo II
 
 # Artículo 61
 
@@ -46,5 +46,3 @@ XIII. En su caso, fecha de expiración del certificado de manejo forestal, y
 XIV. En su caso, superficie forestal certificada.
 
 La Secretaría actualizará el padrón anualmente. La información a que se refiere el presente artículo será pública y estará disponible a los interesados a través de la página electrónica de la Secretaría y de la Comisión.
-
-Sección II Plantaciones Forestales Comerciales

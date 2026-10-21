@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf
 source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 ---
 
+> Título III · Capítulo Tercero
+
 # Artículo 41
 
 Los accionistas de los fondos de inversión deberán designar ante la sociedad operadora de fondos de inversión o bien, ante la sociedad distribuidora o la entidad que preste los servicios de distribución de acciones, sus beneficiarios y podrán en cualquier tiempo sustituirlos, así como modificar, en su caso, la proporción correspondiente a cada uno de ellos.

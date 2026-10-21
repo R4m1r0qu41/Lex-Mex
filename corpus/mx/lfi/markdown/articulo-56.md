@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf
 source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 ---
 
+> Título IV · Capítulo Primero
+
 # Artículo 56
 
 Los servicios a que se refiere el artículo [32](articulo-32.md) de esta Ley, podrán ser prestados por una o más personas, siempre que conforme con lo establecido en la misma, se encuentren en la posibilidad de proporcionarlos.

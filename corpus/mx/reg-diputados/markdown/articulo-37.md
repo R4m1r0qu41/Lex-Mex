@@ -26,5 +26,3 @@ source_sha256: 6fa1d25c31c4d8c2cc8074208b10a2f3ff35fecce26c1cc03ba18117cfec80d1
 4. El Presidente deberá explicar el objeto de la convocatoria, al inicio de la Sesión de apertura del periodo de sesiones extraordinarias y declararlo concluido cuando se hubieran agotado los asuntos enlistados, o hasta veinticuatro horas antes del inicio del periodo de Sesiones ordinarias. Numeral reformado DOF 20-04-2011
 
 5. Los asuntos materia del periodo extraordinario que no se hubieran agotado, deberán ser listados en la siguiente Sesión del periodo de sesiones ordinarias. Numeral reformado DOF 20-04-2011
-
-Sección Cuarta Sesiones Solemnes

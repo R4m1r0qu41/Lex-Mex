@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf
 source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 ---
 
+> Título IV · Capítulo Cuarto
+
 # Artículo 81 Bis 2
 
 La fusión de las sociedades mencionadas en el artículo [81 Bis 1](articulo-81-Bis-1.md) de esta Ley, se efectuará con sujeción a las bases siguientes:

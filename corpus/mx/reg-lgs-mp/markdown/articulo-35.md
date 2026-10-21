@@ -13,10 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGS_MP.pdf
 source_sha256: 0fb9b74e27b7abf66250404ef5ec1c68acdc460e9cff5b381f49224ec6f71003
 ---
 
-> Título CUARTO
+> Título CUARTO · Capítulo II
 
 # Artículo 35
 
 No se podrán publicitar anuncios que promuevan el consumo ilimitado de bebidas alcohólicas, mediante un pago fijo a los establecimientos que las expenden o suministran, conocido, entre otros, como barra libre.
-
-Capítulo III Tabaco Capítulo derogado DOF 31-05-2009

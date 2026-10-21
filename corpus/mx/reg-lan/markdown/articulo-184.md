@@ -13,12 +13,10 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAN_250814.pdf
 source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 ---
 
-> Título DECIMO
+> Título DECIMO · Capítulo I
 
 # Artículo 184
 
 Derogado.
 
 Artículo derogado DOF 25-08-2014
-
-Capítulo II Infracciones y Sanciones Administrativas

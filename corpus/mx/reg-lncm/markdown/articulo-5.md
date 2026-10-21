@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Primero · Capítulo I
+
 # Artículo 5
 
 En la interpretación que tanto la Secretaría como las demás autoridades competentes formulen respecto a la [Ley](articulo-10.md) y a este Reglamento, habrán de considerarse los siguientes criterios específicos:

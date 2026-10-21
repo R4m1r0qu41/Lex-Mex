@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Tercero · Capítulo IV
+
 # Artículo 471
 
 Los delegados honorarios de las marinas turísticas, deportivas o de recreo deberán llevar una bitácora de arribo y de zarpe de las Embarcaciones que asistan con regularidad en la misma, así como de las que arriben sólo de visita.

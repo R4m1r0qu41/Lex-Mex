@@ -13,13 +13,15 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGS.pdf
 source_sha256: a2d3f947b369e4383f2f27a4e9bd819a3dba768ab9bae527e6388e30c1f9e06c
 ---
 
-> Título TERCERO BIS
+> Título TERCERO BIS · Capítulo VIII
 
 # Artículo 77 bis 35
 
 El organismo público descentralizado Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR) es la institución de salud del Estado Mexicano encargada de la prestación gratuita de servicios de salud, medicamentos y demás insumos asociados para la atención integral de las personas que no cuenten con afiliación a las instituciones de seguridad social, en el supuesto de concurrencia con las entidades federativas, con independencia de los servicios de salud que prestan otras instituciones públicas o privadas. Párrafo reformado DOF 29-05-2023
 
-Los Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR) se regirá por esta Ley, su Decreto de Creación y demás normatividad aplicable. Párrafo reformado DOF 29-05-2023 Para el cumplimiento de su objeto, Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR) tendrá, entre otras, las funciones siguientes: Párrafo reformado DOF 29-05-2023
+Los Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR) se regirá por esta Ley, su Decreto de Creación y demás normatividad aplicable. Párrafo reformado DOF 29-05-2023
+
+Para el cumplimiento de su objeto, Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR) tendrá, entre otras, las funciones siguientes: Párrafo reformado DOF 29-05-2023
 
 I. Prestar de manera gratuita servicios de salud y asegurar el suministro de medicamentos e insumos asociados y demás elementos necesarios para la atención a las personas sin seguridad social, de conformidad con los instrumentos jurídicos que al efecto suscriba con las instituciones integrantes del Sistema Nacional de Salud;
 

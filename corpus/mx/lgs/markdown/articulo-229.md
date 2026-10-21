@@ -25,7 +25,9 @@ II. Vacunas virales de uso oral o parenteral;
 
 III. Sueros y antitoxinas de origen animal;
 
-IV. Hemoderivados; Fracción reformada DOF 07-05-1997 V. Vacunas y preparaciones microbianas para uso oral;
+IV. Hemoderivados; Fracción reformada DOF 07-05-1997
+
+V. Vacunas y preparaciones microbianas para uso oral;
 
 VI. Materiales biológicos para diagnóstico que se administran al paciente;
 

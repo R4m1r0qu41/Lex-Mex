@@ -13,12 +13,10 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSNA_200521.pdf
 source_sha256: 5edf7b5ad4dd65a9c97c02ec51f13499aa7ab5025f02ad6e9be3c948ff3cf185
 ---
 
-> Título SEGUNDO
+> Título SEGUNDO · Capítulo II
 
 # Artículo 14
 
 Las determinaciones se tomarán por mayoría de votos, salvo en los casos que esta Ley establezca mayoría calificada.
 
 El Presidente del [Comité Coordinador](articulo-3.md) tendrá voto de calidad en caso de empate. Los miembros del Comité Coordinador podrán emitir voto particular de los asuntos que se aprueben en el seno del mismo.
-
-Capítulo III Del [Comité de Participación Ciudadana](articulo-3.md)

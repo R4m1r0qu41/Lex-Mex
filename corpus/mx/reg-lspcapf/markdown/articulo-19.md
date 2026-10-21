@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSPCAPF.pdf
 source_sha256: b4a968d8e8c138ac2069f6afa0dc622178328df24f59cf58eddbab8efe4a7eff
 ---
 
+> Capítulo Séptimo
+
 # Artículo 19
 
 Cada dependencia tendrá a su cargo la operación de los subsistemas, de conformidad con la [Ley](articulo-2.md), este Reglamento y las disposiciones que emita la Secretaría. El Comité Técnico de Profesionalización de la dependencia, por sí o por quien éste designe, debe realizar los estudios sobre las características, particularidades, condiciones, requisitos y perfiles que conforman la estructura ocupacional de la dependencia, a efecto de elaborar su [Programa Anual de Planeación del Sistema](articulo-2.md). Párrafo reformado DOF 04-01-2024

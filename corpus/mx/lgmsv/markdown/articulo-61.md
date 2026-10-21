@@ -18,5 +18,3 @@ source_sha256: 79f2b255a142d1756d7e8c13244af6dc8c4f2f474acaf0d669f2b156b022fc03
 # Artículo 61
 
 Programas federales de inversión. Las dependencias y entidades de la Administración Pública Federal incorporarán en la ejecución de sus programas de inversión y obras de infraestructura para la movilidad, los principios y las políticas establecidas en esta [Ley](articulo-3.md).
-
-Sección Sexta De la sensibilización, educación y formación en materia de movilidad y seguridad vial

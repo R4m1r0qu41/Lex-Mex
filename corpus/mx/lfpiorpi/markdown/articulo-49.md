@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPIORPI.pdf
 source_sha256: 2e35228bd3100a3a137f313359833c4836f2b4b6d4e52e1ce4fe58a970cd768f
 ---
 
+> Capítulo VI
+
 # Artículo 49
 
 La [Secretaría](articulo-3.md) podrá dar información conforme a los tratados, convenios o acuerdos internacionales, o a falta de estos, según los principios de cooperación y reciprocidad, a las autoridades extranjeras encargadas de la identificación, detección, supervisión, prevención, investigación o persecución de los delitos equivalentes a los de operaciones con recursos de procedencia ilícita.

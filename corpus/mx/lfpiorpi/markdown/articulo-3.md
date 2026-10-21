@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPIORPI.pdf
 source_sha256: 2e35228bd3100a3a137f313359833c4836f2b4b6d4e52e1ce4fe58a970cd768f
 ---
 
+> Capítulo I
+
 # Artículo 3
 
 Para los efectos de esta [Ley](articulo-3.md), se entenderá por:
@@ -63,6 +65,8 @@ XII Bis. Representante Encargada de Cumplimiento, a la persona designada ante la
 
 XII Ter. Riesgo, a la probabilidad de que las Actividades Vulnerables puedan ser utilizadas para llevar a cabo actos u operaciones a través de los cuales se pudiesen actualizar los [Delitos de Operaciones con Recursos de Procedencia Ilícita](articulo-3.md), los Delitos relacionados con estos y con las estructuras financieras de las organizaciones delictivas, así como evitar el uso de los recursos para su financiamiento; Fracción adicionada DOF 16-07-2025
 
-XIII. Secretaría, a la Secretaría de Hacienda y Crédito Público; Fracción reformada DOF 16-07-2025 XIII Bis. UMA, a la Unidad de Medida y Actualización a que se refiere el artículo [26](../../cpeum/markdown/articulo-26.md) de la Constitución Política de los Estados Unidos Mexicanos y la Ley para determinar el valor de la Unidad de Medida y Actualización; y Fracción adicionada DOF 16-07-2025
+XIII. Secretaría, a la Secretaría de Hacienda y Crédito Público; Fracción reformada DOF 16-07-2025
+
+XIII Bis. UMA, a la Unidad de Medida y Actualización a que se refiere el artículo [26](../../cpeum/markdown/articulo-26.md) de la Constitución Política de los Estados Unidos Mexicanos y la Ley para determinar el valor de la Unidad de Medida y Actualización; y Fracción adicionada DOF 16-07-2025
 
 XIV. Unidad, a la Unidad Especializada en Investigación de Delitos Fiscales y Financieros de la [Fiscalía](articulo-3.md). Fracción reformada DOF 20-05-2021, 16-07-2025

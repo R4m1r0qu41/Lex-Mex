@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Tercero · Capítulo X
+
 # Artículo 688
 
 Cuando las mercancías peligrosas no sean declaradas como tales por el embarcador o consignatario, o causen abandono en puerto y la [API](articulo-10.md) decida destinarlas para su destrucción o disposición final, la actividad tendrá que ser realizada a través de prestadores de servicios portuarios autorizados por la autoridad ambiental competente. Esta disposición no exime al embarcador o consignatario de otras obligaciones legales y administrativas.

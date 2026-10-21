@@ -13,10 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGN_111220.pdf
 source_sha256: ea6e39560929f2e1998b2dabe0852fde0d684c69e5be49aab7f33433299bbeb0
 ---
 
-> Título TERCERO
+> Título TERCERO · Capítulo II
 
 # Artículo 112
 
 Siempre que dos o más Integrantes de Carrera del mismo grado o de la misma clasificación Operativa o de Servicio, tengan nombramiento con antigüedad de igual fecha, deberá considerarse como el más antiguo al que hubiere servido más tiempo en el grado anterior. En igualdad de circunstancias, el que tuviere mayor tiempo de servicios, y si aún éste fuere igual, al de mayor edad.
-
-Capítulo III Del [Reconocimiento](articulo-2.md)

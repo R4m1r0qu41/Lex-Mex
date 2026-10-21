@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf
 source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 ---
 
+> Título IV · Capítulo Quinto
+
 # Artículo 86 Bis 4
 
 Los programas de autocorrección a que se refiere el artículo [86 Bis 3](articulo-86-Bis-3.md) de esta Ley, se sujetarán a las disposiciones de carácter general que emita la [Comisión](articulo-2.md). Adicionalmente, deberán ser firmados por la persona o área que ejerza las funciones de vigilancia en el fondo de inversión o en las personas que otorguen los servicios a que se refieren las fracciones I a VI del artículo [32](articulo-32.md) de esta Ley, y ser presentados al consejo de administración u órgano equivalente en la sesión inmediata posterior a la solicitud de autorización presentada a la Comisión. Igualmente, deberá contener las irregularidades o incumplimientos cometidos indicando al efecto las disposiciones que se hayan considerado contravenidas; las circunstancias que originaron la irregularidad o incumplimiento cometido, así como señalar las acciones adoptadas o que se pretendan adoptar por parte de la sociedad para corregir la irregularidad o incumplimiento que motivó el programa.

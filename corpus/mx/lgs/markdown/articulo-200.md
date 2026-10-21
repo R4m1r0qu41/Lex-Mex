@@ -21,6 +21,8 @@ La Secretaría de Salud determinará, con base en los riesgos que representen pa
 
 I. Contar, en su caso, con un responsable que reúna los requisitos que se establecen en esta ley y en los reglamentos respectivos;
 
-II. (Se deroga). Fracción derogada DOF 07-05-1997 III. Utilizar la última edición de la Farmacopea de los Estados Unidos Mexicanos y sus suplementos, mismos que serán elaborados y actualizados por la Secretaría de Salud.
+II. (Se deroga). Fracción derogada DOF 07-05-1997
+
+III. Utilizar la última edición de la Farmacopea de los Estados Unidos Mexicanos y sus suplementos, mismos que serán elaborados y actualizados por la Secretaría de Salud.
 
 Artículo reformado DOF 27-05-1987, 14-06-1991

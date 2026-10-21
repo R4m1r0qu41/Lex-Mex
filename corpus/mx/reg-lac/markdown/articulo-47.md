@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAC.pdf
 source_sha256: 4dcf5277184d5f5c5cc1c8ae2dfa196134b472d883eb2806c7bac27cd77eda7d
 ---
 
+> Título Segundo · Capítulo III
+
 # Artículo 47
 
 Cuando la persona concesionaria, asignataria o permisionaria tenga conocimiento o evidencia de que cualquier persona involucrada en la operación de una aeronave constituye un peligro para las personas pasajeras, la carga o la aeronave, debe adoptar todas las medidas urgentes para prevenir el caso y avisar de inmediato a las autoridades competentes.

@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LIFNCT.pdf
 source_sha256: 78fb5069898e5e58096511208e3cfa308922eb1c5c68f68c4ecd80b20c6f422f
 ---
 
-> Capítulo IV
+> Capítulo IV · Sección I
 
 # Artículo 18
 
@@ -44,5 +44,3 @@ XII. Aprobar el contenido de las actas que se levanten en sus sesiones;
 XIII. Aprobar su calendario anual de sesiones, y
 
 XIV. Las demás previstas en la presente Ley.
-
-Sección II De los Comités de Apoyo del Instituto

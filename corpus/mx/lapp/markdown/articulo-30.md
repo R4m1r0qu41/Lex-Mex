@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAPP.pdf
 source_sha256: a4505a7bd41bc835f1def6fb030c42d8e74a2cc050d9c8fa08f91c9519e382bf
 ---
 
+> Capítulo Tercero
+
 # Artículo 30
 
 Transcurrido el plazo para evaluación de la propuesta y, en su caso, su prórroga, la dependencia o entidad emitirá la opinión de viabilidad que corresponda, sobre la procedencia del proyecto y del concurso o bien sobre la adquisición o no de los estudios presentados.

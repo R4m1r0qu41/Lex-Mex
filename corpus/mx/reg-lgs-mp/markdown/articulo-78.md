@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGS_MP.pdf
 source_sha256: 0fb9b74e27b7abf66250404ef5ec1c68acdc460e9cff5b381f49224ec6f71003
 ---
 
-> Título DÉCIMO PRIMERO
+> Título DÉCIMO PRIMERO · Capítulo I
 
 # Artículo 78
 
@@ -22,5 +22,3 @@ Los medios de difusión se asegurarán de que la publicidad que trasmitan cuente
 Para efectos del párrafo anterior, el anunciante que pretenda publicitar un producto o servicio sujeto a control sanitario por parte de la Secretaría, deberá presentar al medio de difusión cuyos servicios utilice, ya sea por sí mismo o a través de una agencia de publicidad, copia certificada de la carátula del registro sanitario vigente, en caso de tratarse de un producto sujeto a esta autorización sanitaria y del permiso o aviso presentado ante la Secretaría.
 
 Artículo reformado DOF 19-01-2012
-
-Capítulo II Permisos

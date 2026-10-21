@@ -22,5 +22,3 @@ El [Instituto](articulo-6.md) establecerá un plan rector para el desarrollo y m
 Para este efecto se establecerá un Comité de Evaluación y Seguimiento de los servicios de salud, que se integrará de manera paritaria con tres representantes de las áreas médica, administrativa y financiera del Instituto y tres representantes de las organizaciones de Trabajadores.
 
 El comité tendrá las funciones de evaluar los resultados y de proponer medidas para la óptima prestación de los servicios médicos; plantear recomendaciones para que las unidades prestadoras de servicios de salud tengan los recursos necesarios y aseguren el equilibrio financiero, atendiendo prioritariamente las cuestiones de equipo, infraestructura y recursos humanos; así como proponer reconocimientos por desempeño, de conformidad con lo que establezca el reglamento que para este propósito apruebe la Junta Directiva.
-
-Sección III Atención Médica Preventiva

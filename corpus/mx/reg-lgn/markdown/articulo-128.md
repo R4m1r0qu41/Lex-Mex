@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGN_111220.pdf
 source_sha256: ea6e39560929f2e1998b2dabe0852fde0d684c69e5be49aab7f33433299bbeb0
 ---
 
-> Título TERCERO
+> Título TERCERO · Capítulo V
 
 # Artículo 128
 
@@ -30,5 +30,3 @@ IV. Imperio de la ley: Considerando que todas las personas e Instituciones está
 V. Mando superior: Al ser la disciplina una de las características de la Institución, la formación y el desempeño de sus integrantes velará porque siempre se guarde a los superiores, subordinados o iguales en jerarquía, el respeto y la consideración debidos, teniendo en cuenta en todo momento que se opera bajo un mando civil, y
 
 VI. Perspectiva de género: En la Institución, la formación y el desempeño de los integrantes se guiará por la igualdad de género y la no discriminación.
-
-Capítulo VI De la Conclusión del Servicio

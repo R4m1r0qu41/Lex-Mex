@@ -550,15 +550,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lotfja:article:20:term-usage:4188-4193",
-    "provision_id": "urn:lex-mx:federal:statute:lotfja:article:20",
-    "term_id": "urn:lex-mx:federal:statute:lotfja:term:junta",
-    "span": "Junta",
-    "start_char": 4188,
-    "end_char": 4193
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lotfja:article:21:term-usage:3-8",
     "provision_id": "urn:lex-mx:federal:statute:lotfja:article:21",
     "term_id": "urn:lex-mx:federal:statute:lotfja:term:junta",

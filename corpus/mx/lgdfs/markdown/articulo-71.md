@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDFS.pdf
 source_sha256: 2c75fd0eab3245aed43a4e1230dcd142b48959a1df09bdd4e70684935a505dd4
 ---
 
-> Título CUARTO
+> Título CUARTO · Capítulo I
 
 # Artículo 71
 
@@ -22,5 +22,3 @@ Para el aprovechamiento de recursos que provenga de terrenos diversos a los fore
 Lo anterior, en los términos y conforme al procedimiento que establezca el [Reglamento](articulo-7.md).
 
 Artículo reformado DOF 11-04-2022
-
-Sección Segunda Del Aprovechamiento de Recursos Forestales Maderables

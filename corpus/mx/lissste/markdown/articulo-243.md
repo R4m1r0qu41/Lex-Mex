@@ -28,5 +28,3 @@ III. Los montos trimestrales y anuales que se dedicarán a incrementar o reconst
 IV. Los recursos anuales que en forma trimestral prevea afectar a la Reserva de operación para el siguiente ejercicio fiscal.
 
 La Junta Directiva, a propuesta del Director General, podrá modificar en cualquier momento la asignación de recursos contenida en el programa de administración y constitución de Reservas, con excepción de los montos de incremento de las Reservas financieras y actuariales y de la Reserva general financiera y actuarial comprometidos, cuando los flujos de ingresos y gastos a lo largo del ejercicio así lo requieran. La propuesta del Director General deberá describir el impacto que esa modificación tendrá en el mediano y largo plazo.
-
-Sección IV De la Inversión de las Reservas y de su Uso para la Operación

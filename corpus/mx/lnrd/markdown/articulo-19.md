@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LNRD_270519.pdf
 source_sha256: 0a9852297132d8972d0c2f77e1b67d614bd296632109065e703bd09254187aea
 ---
 
+> Capítulo VI
+
 # Artículo 19
 
 Cuando la detención se practique por autoridades que realicen funciones de apoyo a la seguridad pública, éstas, bajo su más estricta responsabilidad, deberán dar aviso, inmediatamente, de la detención a la autoridad policial competente, brindando la información necesaria para que ésta genere el registro correspondiente, en términos de lo establecido por esta [Ley](articulo-2.md).

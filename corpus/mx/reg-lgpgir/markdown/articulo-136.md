@@ -24,7 +24,3 @@ I. Los planos de instalaciones, de depósitos de residuos, de materiales peligro
 II. Los planos del sitio georeferenciados en coordenadas [UTM](articulo-2.md) a escala adecuada que muestren las áreas contaminadas por encima de los límites de concentración de contaminantes establecidos en las normas oficiales mexicanas o de aquéllos determinados mediante una evaluación de riesgo ambiental, y
 
 III. El estudio y resultados de evaluación de riesgo ambiental, en su caso.
-
-Sección II Responsable Técnico
-
-51

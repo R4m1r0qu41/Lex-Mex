@@ -55,48 +55,48 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsar:article:5:term-usage:2081-2092",
+    "id": "urn:lex-mx:federal:statute:lsar:article:5:term-usage:2082-2093",
     "provision_id": "urn:lex-mx:federal:statute:lsar:article:5",
     "term_id": "urn:lex-mx:federal:statute:lsar:term:la-comision",
     "span": "La Comisión",
-    "start_char": 2081,
-    "end_char": 2092
+    "start_char": 2082,
+    "end_char": 2093
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsar:article:5:term-usage:2334-2360",
+    "id": "urn:lex-mx:federal:statute:lsar:article:5:term-usage:2335-2361",
     "provision_id": "urn:lex-mx:federal:statute:lsar:article:5",
     "term_id": "urn:lex-mx:federal:statute:lsar:term:base-de-datos-nacional-sar",
     "span": "Base de Datos Nacional SAR",
-    "start_char": 2334,
-    "end_char": 2360
+    "start_char": 2335,
+    "end_char": 2361
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsar:article:5:term-usage:3144-3177",
+    "id": "urn:lex-mx:federal:statute:lsar:article:5:term-usage:3145-3178",
     "provision_id": "urn:lex-mx:federal:statute:lsar:article:5",
     "term_id": "urn:lex-mx:federal:statute:lsar:term:sistemas-de-ahorro-para-el-retiro",
     "span": "Sistemas de Ahorro para el Retiro",
-    "start_char": 3144,
-    "end_char": 3177
+    "start_char": 3145,
+    "end_char": 3178
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsar:article:5:term-usage:4590-4606",
+    "id": "urn:lex-mx:federal:statute:lsar:article:5:term-usage:4591-4607",
     "provision_id": "urn:lex-mx:federal:statute:lsar:article:5",
     "term_id": "urn:lex-mx:federal:statute:lsar:term:rendimiento-neto",
     "span": "Rendimiento Neto",
-    "start_char": 4590,
-    "end_char": 4606
+    "start_char": 4591,
+    "end_char": 4607
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsar:article:5:term-usage:4611-4627",
+    "id": "urn:lex-mx:federal:statute:lsar:article:5:term-usage:4612-4628",
     "provision_id": "urn:lex-mx:federal:statute:lsar:article:5",
     "term_id": "urn:lex-mx:federal:statute:lsar:term:rendimiento-neto",
     "span": "Rendimiento Neto",
-    "start_char": 4611,
-    "end_char": 4627
+    "start_char": 4612,
+    "end_char": 4628
   },
   {
     "schema_version": "0.1.0",
@@ -325,24 +325,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsar:article:56:term-usage:1767-1786",
-    "provision_id": "urn:lex-mx:federal:statute:lsar:article:56",
-    "term_id": "urn:lex-mx:federal:statute:lsar:term:empresas-operadoras",
-    "span": "Empresas Operadoras",
-    "start_char": 1767,
-    "end_char": 1786
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsar:article:56:term-usage:1793-1819",
-    "provision_id": "urn:lex-mx:federal:statute:lsar:article:56",
-    "term_id": "urn:lex-mx:federal:statute:lsar:term:base-de-datos-nacional-sar",
-    "span": "Base de Datos Nacional SAR",
-    "start_char": 1793,
-    "end_char": 1819
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lsar:article:57:term-usage:3-29",
     "provision_id": "urn:lex-mx:federal:statute:lsar:article:57",
     "term_id": "urn:lex-mx:federal:statute:lsar:term:base-de-datos-nacional-sar",
@@ -412,15 +394,6 @@
     "span": "Base de Datos Nacional SAR",
     "start_char": 78,
     "end_char": 104
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsar:article:63:term-usage:227-242",
-    "provision_id": "urn:lex-mx:federal:statute:lsar:article:63",
-    "term_id": "urn:lex-mx:federal:statute:lsar:term:administradora",
-    "span": "Administradoras",
-    "start_char": 227,
-    "end_char": 242
   },
   {
     "schema_version": "0.1.0",

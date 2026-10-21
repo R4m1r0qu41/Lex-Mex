@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDFS.pdf
 source_sha256: 2c75fd0eab3245aed43a4e1230dcd142b48959a1df09bdd4e70684935a505dd4
 ---
 
-> Título SEGUNDO
+> Título SEGUNDO · Capítulo II
 
 # Artículo 20
 
@@ -98,5 +98,3 @@ XXXIX. Fomentar la generación de oportunidades de empleo e ingreso para la pobl
 XLI. Participar en el diseño, instrumentación y operación de los mecanismos cooperativos de reducción de emisiones en el sector forestal de acuerdo con los criterios y protocolos emitidos por la Secretaría para este objeto, y Fracción adicionada DOF 11-04-2022
 
 XLII. Las demás que le señale la presente Ley, el [Reglamento](articulo-7.md) y demás disposiciones legales aplicables. Fracción recorrida DOF 11-04-2022
-
-Capítulo III De la Coordinación Interinstitucional

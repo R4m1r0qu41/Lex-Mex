@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPIORPI.pdf
 source_sha256: 2e35228bd3100a3a137f313359833c4836f2b4b6d4e52e1ce4fe58a970cd768f
 ---
 
+> Capítulo V
+
 # Artículo 35
 
 El desarrollo de las visitas de verificación y los requerimientos de información, documentación, datos e imágenes, así como la imposición de sanciones administrativas previstas en esta [Ley](articulo-3.md), se sujetarán a lo previsto en esta Ley, su Reglamento y las reglas de carácter general, observando de manera supletoria la Ley Federal de Procedimiento Administrativo.

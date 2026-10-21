@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LCM.pdf
 source_sha256: 8e270686b885035488bfe310b0b42bb40e7154431794227ebe212dd7dc12e46a
 ---
 
-> Título DÉCIMO SEGUNDO
+> Título DÉCIMO SEGUNDO · Capítulo IV
 
 # Artículo 305
 
@@ -28,5 +28,3 @@ III. La coordinación de la administración y la supervisión de los bienes y ne
 IV. La aprobación o la aplicación por los tribunales de los acuerdos relativos a la coordinación de los procedimientos, y
 
 V. La coordinación de los procedimientos que se estén siguiendo simultáneamente respecto de un mismo Comerciante.
-
-Capítulo V De los procedimientos paralelos

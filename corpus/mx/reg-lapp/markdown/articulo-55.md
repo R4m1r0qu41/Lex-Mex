@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAPP_200217.pdf
 source_sha256: 4ff895e3a71cad0980a03360585d24750d7e165b6ea2537fc44c5c05f9142ce7
 ---
 
-> Capítulo TERCERO
+> Capítulo TERCERO · Sección Tercera
 
 # Artículo 55
 
@@ -26,5 +26,3 @@ II. Su cobertura será por el monto que al efecto determine la convocante bajo s
 III. Se mantendrá vigente en tanto no concluya el [Concurso](articulo-11.md) y se celebre el contrato correspondiente, y
 
 IV. Se hará efectiva en caso de incumplimiento de las obligaciones que el promotor adquiere en la declaración unilateral de voluntad que presentó para llevar a cabo el Concurso.
-
-Sección Cuarta De la Adquisición de los Estudios

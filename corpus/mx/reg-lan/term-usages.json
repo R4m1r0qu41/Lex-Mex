@@ -1018,12 +1018,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lan:article:26:term-usage:639-650",
+    "id": "urn:lex-mx:federal:regulation:reg-lan:article:26:term-usage:640-651",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lan:article:26",
     "term_id": "urn:lex-mx:federal:regulation:reg-lan:term:la-comision",
     "span": "La Comisión",
-    "start_char": 639,
-    "end_char": 650
+    "start_char": 640,
+    "end_char": 651
   },
   {
     "schema_version": "0.1.0",

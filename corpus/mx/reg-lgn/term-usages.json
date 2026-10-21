@@ -640,15 +640,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgn:article:18:term-usage:3611-3621",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:18",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgn:term:comandante",
-    "span": "Comandante",
-    "start_char": 3611,
-    "end_char": 3621
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgn:article:19:term-usage:73-84",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:19",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgn:term:institucion",
@@ -5707,15 +5698,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgn:article:80:term-usage:383-392",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:80",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgn:term:promocion",
-    "span": "Promoción",
-    "start_char": 383,
-    "end_char": 392
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgn:article:81:term-usage:254-257",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:81",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgn:term:ley",
@@ -6325,15 +6307,6 @@
     "span": "Integrante de Carrera",
     "start_char": 132,
     "end_char": 153
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgn:article:112:term-usage:397-411",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:112",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgn:term:reconocimientos",
-    "span": "Reconocimiento",
-    "start_char": 397,
-    "end_char": 411
   },
   {
     "schema_version": "0.1.0",
@@ -7417,15 +7390,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgn:article:227:term-usage:1520-1538",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:227",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgn:term:consejo-de-carrera",
-    "span": "Consejo de Carrera",
-    "start_char": 1520,
-    "end_char": 1538
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgn:article:228:term-usage:3-21",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:228",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgn:term:consejo-de-carrera",
@@ -7531,33 +7495,6 @@
     "span": "Consejo de Carrera",
     "start_char": 103,
     "end_char": 121
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgn:article:229:term-usage:292-302",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:229",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgn:term:presidente",
-    "span": "Presidente",
-    "start_char": 292,
-    "end_char": 302
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgn:article:229:term-usage:307-325",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:229",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgn:term:consejo-de-carrera",
-    "span": "Consejo de Carrera",
-    "start_char": 307,
-    "end_char": 325
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgn:article:229:term-usage:331-341",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:229",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgn:term:secretario",
-    "span": "Secretario",
-    "start_char": 331,
-    "end_char": 341
   },
   {
     "schema_version": "0.1.0",
@@ -7918,15 +7855,6 @@
     "span": "Consejo de Carrera",
     "start_char": 794,
     "end_char": 812
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgn:article:232:term-usage:853-871",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:232",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgn:term:consejo-de-carrera",
-    "span": "Consejo de Carrera",
-    "start_char": 853,
-    "end_char": 871
   },
   {
     "schema_version": "0.1.0",
@@ -8737,14 +8665,5 @@
     "span": "Reglamento",
     "start_char": 396,
     "end_char": 406
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgn:transitory:decimo:term-usage:551-561",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgn:transitory:decimo",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgn:term:secretario",
-    "span": "Secretario",
-    "start_char": 551,
-    "end_char": 561
   }
 ]

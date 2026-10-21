@@ -8,7 +8,7 @@
   "glossaries": [
     {
       "provision_id": "urn:lex-mx:federal:regulation:reg-lapp:article:11",
-      "provision_text_sha256": "d20a52d783293ce80589209efa424331ce4c7c5d24eb15a9adaf411c8a63fcb6",
+      "provision_text_sha256": "f286ae1883d9c6bae5a74484cd7fb3e6ab3d60fbaef18582fc17de761251bdca",
       "method": "established_pass",
       "fractions": [
         "I",
@@ -31,5 +31,5 @@
   ],
   "imports": [],
   "term_count": 13,
-  "usage_count": 208
+  "usage_count": 204
 }

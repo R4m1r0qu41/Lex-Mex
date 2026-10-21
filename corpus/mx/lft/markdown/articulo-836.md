@@ -20,5 +20,3 @@ source_sha256: 12f09393a1951a91c3f57f579bf611b034edf1a5f78cdbfb828e23ff3a9acbf7
 El [Tribunal](articulo-3o.-Ter.md) estará obligado a tomar en cuenta las actuaciones y elementos que obren en el expediente y los anexos formados con motivo del juicio.
 
 Artículo reformado DOF 04-01-1980, 01-05-2019
-
-Sección Novena De los Elementos Aportados por los Avances de la Ciencia. Sección adicionada DOF 30-11-2012

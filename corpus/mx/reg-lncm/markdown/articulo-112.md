@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Segundo · Capítulo IV
+
 # Artículo 112
 
 Las autorizaciones como agente naviero tendrán una vigencia de hasta cinco años. Una vez autorizado el agente naviero, deberá informar anualmente a la [Dirección General](articulo-10.md) de las modificaciones o adiciones que haya tenido o no la documentación requerida en el artículo [109](articulo-109.md), apartados B o C del presente Reglamento, según corresponda, acompañando la documentación respectiva.

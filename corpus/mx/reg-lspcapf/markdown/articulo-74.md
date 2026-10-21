@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSPCAPF.pdf
 source_sha256: b4a968d8e8c138ac2069f6afa0dc622178328df24f59cf58eddbab8efe4a7eff
 ---
 
+> Capítulo Décimo Cuarto
+
 # Artículo 74
 
 Será responsabilidad de los Comités Técnicos de Profesionalización establecer los procedimientos específicos para el otorgamiento de licencias y para la separación de los servidores públicos de carrera, tomando en cuenta lo dispuesto en la [Ley](articulo-2.md), este Reglamento y las disposiciones que resulten aplicables en materia laboral.

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Segundo · Capítulo IV
+
 # Artículo 117
 
 Con relación al artículo [35](../../lncm/markdown/articulo-35.md) de la [Ley](articulo-10.md), el agente naviero podrá garantizar su responsabilidad solidaria, una vez que quede debidamente acreditado ante la [Capitanía de Puerto](articulo-10.md) competente, lo siguiente:

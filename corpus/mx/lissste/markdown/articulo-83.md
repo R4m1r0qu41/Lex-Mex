@@ -22,5 +22,3 @@ Los recursos depositados en la [Cuenta Individual](articulo-6.md) de cada Trabaj
 Los recursos depositados en la [Subcuenta](articulo-6.md) de retiro, cesantía en edad avanzada y vejez y en la Subcuenta de ahorro solidario serán inembargables.
 
 Los recursos depositados en las Subcuentas de aportaciones voluntarias, complementarias de retiro y de ahorro a largo plazo serán inembargables hasta por un monto equivalente a veinte veces el [Salario Mínimo](articulo-6.md) elevado al año por cada Subcuenta, por el importe excedente a esta cantidad se podrá trabar embargo.
-
-Sección II Pensión por Cesantía en Edad Avanzada

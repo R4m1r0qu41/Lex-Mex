@@ -67,4 +67,6 @@ XIX. Acatar las sanciones que establece este [Reglamento](articulo-2.md) y otros
 
 XX. Acatar las disposiciones y procedimientos del Código de Ética de la Cámara de Diputados del Honorable Congreso de la Unión, y Fracción adicionada DOF 10-05-2016
 
-XXI. Las demás previstas en este Reglamento. Fracción recorrida DOF 10-05-2016 2. Para los efectos de la fracción VI, la [Mesa Directiva](articulo-2.md) deberá llevar y mantener actualizado un registro de los asuntos que estará vigente durante toda la Legislatura.
+XXI. Las demás previstas en este Reglamento. Fracción recorrida DOF 10-05-2016
+
+2. Para los efectos de la fracción VI, la [Mesa Directiva](articulo-2.md) deberá llevar y mantener actualizado un registro de los asuntos que estará vigente durante toda la Legislatura.

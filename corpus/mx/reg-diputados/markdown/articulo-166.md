@@ -46,5 +46,3 @@ XI. La información relativa a la asignación, custodia y condiciones de los veh
 XII. La información sobre la aplicación y destino final de los recursos económicos asignados por el Comité de Administración.
 
 4. El informe final será la base para la integración de los documentos que se requieran administrativamente durante el proceso de entrega-recepción en la conclusión de la Legislatura y una copia se integrará al expediente relativo. Numeral adicionado DOF 20-04-2011
-
-Sección Octava Reuniones de las Comisiones

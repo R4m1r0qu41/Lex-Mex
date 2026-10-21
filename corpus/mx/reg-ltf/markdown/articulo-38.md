@@ -24,5 +24,3 @@ I. Realizar la inversión en cumplimiento de las políticas y directrices que em
 II. Contar con una cuenta abierta en una institución autorizada para el depósito de valores; III. Dar a conocer a la Tesorería, cuando así se le solicite, el monto de los recursos invertidos, así como elaborar y entregar los reportes e informes que, en su caso, se le requiera, y
 
 IV. Celebrar y dar cumplimiento a los contratos o actos jurídicos necesarios para llevar a cabo las operaciones de inversión de las disponibilidades, de acuerdo con las políticas y directrices que emita el Comité Técnico.
-
-Sección Cuarta De la Custodia y Administración de Valores o Documentos Representativos de Inversiones Financieras del Gobierno Federal

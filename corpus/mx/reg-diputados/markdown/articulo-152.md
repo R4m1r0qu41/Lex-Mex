@@ -44,5 +44,3 @@ III. Determinar el calendario de reuniones. 6. Los documentos generados por los 
 7. El predictamen será sometido a la consideración de los integrantes de la Subcomisión para su análisis, discusión y en su caso aprobación. Aprobado el predictamen, proyecto de resolución o el asunto específico, el Presidente de la Junta Directiva lo hará del conocimiento de sus integrantes y convocará, en los términos de este [Reglamento](articulo-2.md), a Reunión de la comisión para su discusión.
 
 8. Cuando la subcomisión no llegara a un acuerdo o no elabore un predictamen o proyecto para ponerlo a consideración de la Junta Directiva, ésta tendrá que resolver al respecto.
-
-Sección Quinta Grupos de Trabajo

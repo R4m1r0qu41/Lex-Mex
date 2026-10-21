@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAC.pdf
 source_sha256: 4dcf5277184d5f5c5cc1c8ae2dfa196134b472d883eb2806c7bac27cd77eda7d
 ---
 
+> Título Segundo · Capítulo II
+
 # Artículo 27
 
 La persona permisionaria, para el inicio de operaciones de los servicios a que se refiere esta sección, debe acreditar mediante aviso ante la Agencia Federal de Aviación Civil que reúne los requisitos del artículo [20](articulo-20.md) de este reglamento, salvo lo dispuesto en la fracción I tratándose de personas permisionarias extranjeras y, además, observar lo siguiente: Párrafo reformado DOF 08-08-2000, 05-10-2000, 31-05-2023

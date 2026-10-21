@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFEA.pdf
 source_sha256: 910ba43ef1ae54b3b12fe325f65c81056191fde641c52a10ba709f0f1a39021f
 ---
 
+> Capítulo IV
+
 # Artículo 21
 
 Para los efectos del artículo [26](../../lfea/markdown/articulo-26.md) de la [Ley](articulo-2.md), la Secretaría podrá suspender y revocar el reconocimiento otorgado como Autoridad Certificadora, en términos del artículo [24](../../lfea/markdown/articulo-24.md) de la Ley, cuando: I. Voluntariamente así lo solicite para efectos de concluir su operación como Autoridad Certificadora, o

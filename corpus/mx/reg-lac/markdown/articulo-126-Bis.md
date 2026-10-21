@@ -13,12 +13,10 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAC.pdf
 source_sha256: 4dcf5277184d5f5c5cc1c8ae2dfa196134b472d883eb2806c7bac27cd77eda7d
 ---
 
-> Título TERCERO · Capítulo I BIS
+> Título Cuarto · Capítulo IV
 
 # Artículo 126 Bis
 
 Las personas concesionarias, asignatarias o permisionarias deben de contar con una base de datos de los obstáculos naturales o artificiales que se hallen en las cercanías del aeródromo, para que el operador desarrolle los procedimientos operacionales en caso de pérdida de un motor en las fases de despegue y aterrizaje.
 
 Artículo adicionado DOF 31-05-2023
-
-Capítulo V De los instrumentos, equipo y documentos de vuelo

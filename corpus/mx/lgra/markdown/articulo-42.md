@@ -13,10 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGRA.pdf
 source_sha256: 1289ec6964e48c84990572ca6080ca05c9d6210e5b0ff5af6d8c9d935fc5fcc8
 ---
 
-> Título SEGUNDO
+> Título SEGUNDO · Capítulo III
 
 # Artículo 42
 
 Cuando las [Autoridades investigadoras](articulo-3.md), en el ámbito de sus competencias, llegaren a formular denuncias ante el Ministerio Público correspondiente, éstas serán coadyuvantes del mismo en el procedimiento penal respectivo.
-
-Sección cuarta Régimen de los servidores públicos que participan en contrataciones públicas

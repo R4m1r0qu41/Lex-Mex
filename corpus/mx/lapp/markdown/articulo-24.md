@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAPP.pdf
 source_sha256: a4505a7bd41bc835f1def6fb030c42d8e74a2cc050d9c8fa08f91c9519e382bf
 ---
 
+> Capítulo Segundo · Sección Tercera
+
 # Artículo 24
 
 El gasto público federal que, en su caso, sea necesario para el desarrollo de un proyecto de los previstos en la presente [Ley](articulo-12.md), se ajustará a las disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, al Presupuesto de Egresos de la Federación y demás disposiciones jurídicas aplicables.

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSPCAPF.pdf
 source_sha256: b4a968d8e8c138ac2069f6afa0dc622178328df24f59cf58eddbab8efe4a7eff
 ---
 
+> Capítulo Décimo Octavo
+
 # Artículo 98
 
 La Secretaría, durante la substanciación del recurso de revocación, debe llevar a cabo los actos siguientes: Párrafo reformado DOF 04-01-2024
@@ -25,7 +27,9 @@ III. Requerir a la persona promovente el cumplimiento de algún requisito establ
 
 IV. Dar vista a los terceros interesados con el recurso interpuesto, para que dentro del plazo de cinco días hábiles, manifiesten lo que a su derecho convenga y, en su caso, ofrezcan pruebas;
 
-V. Solicitar al Comité Técnico de Selección que, dentro del plazo de cinco días hábiles, proporcione un informe que dé cuenta de la resolución emitida en el proceso de selección, acompañado de las constancias respectivas y del expediente original del concurso; Fracción reformada DOF 04-01-2024 VI. Dictar, una vez vencidos los plazos de desahogo de vista y de las pruebas que al efecto se acordaron, la resolución que en derecho proceda dentro del plazo de quince días hábiles. Las resoluciones que recaigan a los recursos de revocación deben notificarse a las personas interesadas en un plazo de cinco días hábiles, contado a partir de la emisión de dicha resolución, y Fracción reformada DOF 04-01-2024
+V. Solicitar al Comité Técnico de Selección que, dentro del plazo de cinco días hábiles, proporcione un informe que dé cuenta de la resolución emitida en el proceso de selección, acompañado de las constancias respectivas y del expediente original del concurso; Fracción reformada DOF 04-01-2024
+
+VI. Dictar, una vez vencidos los plazos de desahogo de vista y de las pruebas que al efecto se acordaron, la resolución que en derecho proceda dentro del plazo de quince días hábiles. Las resoluciones que recaigan a los recursos de revocación deben notificarse a las personas interesadas en un plazo de cinco días hábiles, contado a partir de la emisión de dicha resolución, y Fracción reformada DOF 04-01-2024
 
 VII. Cuando se haya resuelto revocar la resolución recurrida, una vez que la determinación sea notificada al Comité Técnico de Selección, éste cuenta con un mes para dar cumplimiento a lo ordenado. Vencido dicho plazo, dentro de los cinco días hábiles siguientes, debe informar a la Secretaría el cumplimiento y las acciones realizadas.
 

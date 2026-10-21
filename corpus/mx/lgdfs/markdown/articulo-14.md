@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDFS.pdf
 source_sha256: 2c75fd0eab3245aed43a4e1230dcd142b48959a1df09bdd4e70684935a505dd4
 ---
 
-> Título SEGUNDO
+> Título SEGUNDO · Capítulo I
 
 # Artículo 14
 
@@ -56,5 +56,3 @@ XVIII. Definir instrumentos para promover un mercado de bienes y servicios ambie
 XIX. Regular, establecer, integrar, operar y mantener actualizado el Registro de la reducción o absorción de emisiones derivadas de la deforestación y degradación forestal, así como autorizar las transferencias de éstas a los mecanismos cooperativos y de comercio internacional de carbono, y Fracción adicionada DOF 11-04-2022
 
 XX. Las demás que le confieren la presente Ley y el [Reglamento](articulo-7.md). Fracción recorrida DOF 11-04-2022
-
-Capítulo II De la Comisión Nacional Forestal y sus Atribuciones

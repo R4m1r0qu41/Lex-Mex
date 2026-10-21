@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGS_MP.pdf
 source_sha256: 0fb9b74e27b7abf66250404ef5ec1c68acdc460e9cff5b381f49224ec6f71003
 ---
 
-> Título TERCERO
+> Título TERCERO · Capítulo I
 
 # Artículo 22 Bis
 
@@ -26,5 +26,3 @@ La publicidad de alimentos y bebidas no alcohólicas, incluyendo la de los produ
 Para efectos de lo anterior la Secretaría tendrá hasta veinte días hábiles para resolver la solicitud.
 
 Artículo adicionado DOF 14-02-2014. Reformado DOF 08-09-2022
-
-Capítulo II Alimentos y bebidas no alcohólicas

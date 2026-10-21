@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LBOGM.pdf
 source_sha256: 667636f9e0ea65e72ac9d6d7b4d7563a183b75d0f140268a61929c74f5f88041
 ---
 
-> Título SEGUNDO
+> Título SEGUNDO · Capítulo II
 
 # Artículo 19
 
@@ -44,5 +44,3 @@ VIII. En caso de importación del OGM, copia legalizada o apostillada de las aut
 IX. La [Secretaría competente](articulo-2.md), de considerarlo necesario, podrá requerir copia simple de la legislación aplicable vigente en el país de exportación traducida al español, y
 
 X. La información que en cada caso determinen las NOM.
-
-Capítulo III De la resolución de solicitudes de permiso y su vigencia

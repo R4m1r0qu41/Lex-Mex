@@ -34,5 +34,3 @@ e) Contribuir en la formación y especialización del personal de todos los nive
 f) Coadyuvar con el centro de estudios para el logro de la igualdad de género en la producción y sistematización de información con perspectiva de género. Numeral con incisos adicionado DOF 04-03-2016
 
 3. La Unidad estará a cargo de un Coordinador nombrado en los términos que establezca el Estatuto para la Organización Técnica y Administrativa del Servicio de Carrera de la Cámara de Diputados y contará con el personal suficiente para su eficaz desempeño, así como con la infraestructura adecuada para su funcionamiento. Numeral adicionado DOF 04-03-2016
-
-Sección Quinta Disposiciones Generales

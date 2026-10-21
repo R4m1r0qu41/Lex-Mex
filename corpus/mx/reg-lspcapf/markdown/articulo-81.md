@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSPCAPF.pdf
 source_sha256: b4a968d8e8c138ac2069f6afa0dc622178328df24f59cf58eddbab8efe4a7eff
 ---
 
+> Capítulo Décimo Cuarto
+
 # Artículo 81
 
 Cuando el Comité Técnico de Profesionalización determine la separación del servidor público de carrera, realizará de inmediato los trámites necesarios para solicitar al Tribunal Federal de Conciliación y Arbitraje la autorización para dar por terminados los efectos del nombramiento correspondiente.

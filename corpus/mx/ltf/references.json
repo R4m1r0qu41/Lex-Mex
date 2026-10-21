@@ -717,29 +717,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ltf:transitory:decimo-primero:reference:605-607:89:direct",
-    "source_provision_id": "urn:lex-mx:federal:statute:ltf:transitory:decimo-primero",
-    "source_span": "89",
-    "start_char": 605,
-    "end_char": 607,
-    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
-    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:89",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 581,
-        "end_char": 591
-      }
-    ],
-    "basis": "express_cross_reference",
-    "confidence": 1.0,
-    "resolution_status": "resolved",
-    "reference_form": "direct",
-    "resolution_rule": "named_instrument"
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:ltf:transitory:noveno:reference:542-547:6-ter:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:ltf:transitory:noveno",
     "source_span": "6 ter",

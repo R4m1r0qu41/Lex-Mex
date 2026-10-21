@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Tercero · Capítulo III
+
 # Artículo 289
 
 Toda Embarcación o Artefacto Naval, que se pretenda abanderar y matricular como mexicano, que se construya en el país o en el extranjero, así como las Embarcaciones o Artefactos Navales matriculados mexicanos que pretendan modificar su diseño original, deberán contar con el proyecto previamente aprobado por la [Dirección General](articulo-10.md), el cual contendrá los planos y especificaciones de construcción o modificación.

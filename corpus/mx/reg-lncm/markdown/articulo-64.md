@@ -13,8 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Segundo · Capítulo II
+
 # Artículo 64
 
 En los casos de las fracciones VII y VIII del artículo [14](../../lncm/markdown/articulo-14.md) de la [Ley](articulo-10.md), el Capitán de Puerto cancelará de inmediato la matrícula, sin perjuicio de lo dispuesto en el último párrafo del mismo artículo.
-
-Sección III De los Pasavantes

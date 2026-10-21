@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPIORPI.pdf
 source_sha256: 2e35228bd3100a3a137f313359833c4836f2b4b6d4e52e1ce4fe58a970cd768f
 ---
 
+> Capítulo VIII
+
 # Artículo 63
 
 Se sancionará con prisión de cuatro a diez años y con quinientos a dos mil días multa conforme al Código Penal Federal:

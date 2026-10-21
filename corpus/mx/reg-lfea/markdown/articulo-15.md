@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFEA.pdf
 source_sha256: 910ba43ef1ae54b3b12fe325f65c81056191fde641c52a10ba709f0f1a39021f
 ---
 
+> Capítulo III
+
 # Artículo 15
 
 La Clave Privada deberá ser resguardada y controlada por el titular del Certificado Digital, en un Medio Electrónico, óptico o magnético que sea de su uso exclusivo.

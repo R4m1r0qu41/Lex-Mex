@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAPP.pdf
 source_sha256: a4505a7bd41bc835f1def6fb030c42d8e74a2cc050d9c8fa08f91c9519e382bf
 ---
 
+> Capítulo Décimo
+
 # Artículo 126
 
 La supervisión de la prestación de los servicios, de la ejecución de la obra, así como del cumplimiento de las autorizaciones para el desarrollo del proyecto, se realizará conforme a las disposiciones que resulten aplicables, así como a lo pactado en el contrato celebrado.

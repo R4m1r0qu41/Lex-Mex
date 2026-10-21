@@ -28,5 +28,3 @@ source_sha256: 6fa1d25c31c4d8c2cc8074208b10a2f3ff35fecce26c1cc03ba18117cfec80d1
 5. La elección de personas, sea por candidaturas individuales o por fórmulas, deberá contar con la mayoría absoluta para decretar un ganador, a no ser que la [Constitución](articulo-2.md) o la [Ley](articulo-2.md) dispongan una mayoría distinta. Para ello, se realizarán tantas rondas de votación como sean necesarias.
 
 6. Una vez hecho el cómputo de los sufragios para la elección de personas, la [Secretaría](articulo-2.md) comunicará el resultado al Presidente, quien hará el anuncio formal al Pleno y, continuará el trámite que corresponda.
-
-Sección Quinta Empate

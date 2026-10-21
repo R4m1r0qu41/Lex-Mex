@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Tercero · Capítulo III
+
 # Artículo 446
 
 Las instalaciones de servicio, astilleros, diques, varaderos y talleres de reparaciones navales, estaciones de reparación y mantenimiento de [Medios y Dispositivos de Salvamento](articulo-10.md), equipos y sistemas contraincendio, receptoras de [Desechos](articulo-10.md), así como el personal técnico, para obtener el registro y aprobación inicial de la [Dirección General](articulo-10.md), deberán presentar solicitud por escrito a la Dirección General y adjuntar lo siguiente:

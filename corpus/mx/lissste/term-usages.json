@@ -2998,30 +2998,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:41:term-usage:1927-1936",
+    "id": "urn:lex-mx:federal:statute:lissste:article:41:term-usage:1928-1937",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:41",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:instituto",
     "span": "Instituto",
-    "start_char": 1927,
-    "end_char": 1936
+    "start_char": 1928,
+    "end_char": 1937
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:41:term-usage:2331-2341",
+    "id": "urn:lex-mx:federal:statute:lissste:article:41:term-usage:2332-2342",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:41",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:pensionado",
     "span": "Pensionado",
-    "start_char": 2331,
-    "end_char": 2341
+    "start_char": 2332,
+    "end_char": 2342
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:41:term-usage:2507-2517",
+    "id": "urn:lex-mx:federal:statute:lissste:article:41:term-usage:2508-2518",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:41",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:pensionado",
     "span": "Pensionado",
-    "start_char": 2507,
-    "end_char": 2517
+    "start_char": 2508,
+    "end_char": 2518
   },
   {
     "schema_version": "0.1.0",
@@ -5644,15 +5644,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:91:term-usage:1137-1156",
-    "provision_id": "urn:lex-mx:federal:statute:lissste:article:91",
-    "term_id": "urn:lex-mx:federal:statute:lissste:term:pension-garantizada",
-    "span": "Pensión Garantizada",
-    "start_char": 1137,
-    "end_char": 1156
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lissste:article:92:term-usage:0-19",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:92",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:pension-garantizada",
@@ -6100,15 +6091,6 @@
     "span": "Pensionado",
     "start_char": 369,
     "end_char": 379
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:96:term-usage:500-517",
-    "provision_id": "urn:lex-mx:federal:statute:lissste:article:96",
-    "term_id": "urn:lex-mx:federal:statute:lissste:term:cuenta-individual",
-    "span": "Cuenta Individual",
-    "start_char": 500,
-    "end_char": 517
   },
   {
     "schema_version": "0.1.0",
@@ -6694,15 +6676,6 @@
     "span": "PENSIONISSSTE",
     "start_char": 2256,
     "end_char": 2269
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:102-bis:term-usage:2462-2475",
-    "provision_id": "urn:lex-mx:federal:statute:lissste:article:102-bis",
-    "term_id": "urn:lex-mx:federal:statute:lissste:term:pensionissste",
-    "span": "PENSIONISSSTE",
-    "start_char": 2462,
-    "end_char": 2475
   },
   {
     "schema_version": "0.1.0",
@@ -8560,24 +8533,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:140:term-usage:444-453",
-    "provision_id": "urn:lex-mx:federal:statute:lissste:article:140",
-    "term_id": "urn:lex-mx:federal:statute:lissste:term:instituto",
-    "span": "Instituto",
-    "start_char": 444,
-    "end_char": 453
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:140:term-usage:459-463",
-    "provision_id": "urn:lex-mx:federal:statute:lissste:article:140",
-    "term_id": "urn:lex-mx:federal:statute:lissste:term:imss",
-    "span": "IMSS",
-    "start_char": 459,
-    "end_char": 463
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lissste:article:141:term-usage:42-51",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:141",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:instituto",
@@ -9064,24 +9019,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:148:term-usage:512-521",
-    "provision_id": "urn:lex-mx:federal:statute:lissste:article:148",
-    "term_id": "urn:lex-mx:federal:statute:lissste:term:instituto",
-    "span": "Instituto",
-    "start_char": 512,
-    "end_char": 521
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:148:term-usage:544-554",
-    "provision_id": "urn:lex-mx:federal:statute:lissste:article:148",
-    "term_id": "urn:lex-mx:federal:statute:lissste:term:instituto",
-    "span": "Institutos",
-    "start_char": 544,
-    "end_char": 554
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lissste:article:149:term-usage:3-12",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:149",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:instituto",
@@ -9205,15 +9142,6 @@
     "span": "Pensionado",
     "start_char": 3,
     "end_char": 13
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:153:term-usage:487-496",
-    "provision_id": "urn:lex-mx:federal:statute:lissste:article:153",
-    "term_id": "urn:lex-mx:federal:statute:lissste:term:instituto",
-    "span": "Instituto",
-    "start_char": 487,
-    "end_char": 496
   },
   {
     "schema_version": "0.1.0",
@@ -11260,84 +11188,84 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:192:term-usage:540-549",
+    "id": "urn:lex-mx:federal:statute:lissste:article:192:term-usage:541-550",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:192",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:instituto",
     "span": "Instituto",
-    "start_char": 540,
-    "end_char": 549
+    "start_char": 541,
+    "end_char": 550
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:192:term-usage:587-596",
+    "id": "urn:lex-mx:federal:statute:lissste:article:192:term-usage:588-597",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:192",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:subcuenta",
     "span": "Subcuenta",
-    "start_char": 587,
-    "end_char": 596
+    "start_char": 588,
+    "end_char": 597
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:192:term-usage:601-606",
+    "id": "urn:lex-mx:federal:statute:lissste:article:192:term-usage:602-607",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:192",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:fondo",
     "span": "Fondo",
-    "start_char": 601,
-    "end_char": 606
+    "start_char": 602,
+    "end_char": 607
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:192:term-usage:625-638",
+    "id": "urn:lex-mx:federal:statute:lissste:article:192:term-usage:626-639",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:192",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:pensionissste",
     "span": "PENSIONISSSTE",
-    "start_char": 625,
-    "end_char": 638
+    "start_char": 626,
+    "end_char": 639
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:192:term-usage:644-659",
+    "id": "urn:lex-mx:federal:statute:lissste:article:192:term-usage:645-660",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:192",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:administradora",
     "span": "Administradoras",
-    "start_char": 644,
-    "end_char": 659
+    "start_char": 645,
+    "end_char": 660
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:192:term-usage:662-674",
+    "id": "urn:lex-mx:federal:statute:lissste:article:192:term-usage:663-675",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:192",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:aseguradora",
     "span": "Aseguradoras",
-    "start_char": 662,
-    "end_char": 674
+    "start_char": 663,
+    "end_char": 675
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:192:term-usage:932-937",
+    "id": "urn:lex-mx:federal:statute:lissste:article:192:term-usage:933-938",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:192",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:fondo",
     "span": "Fondo",
-    "start_char": 932,
-    "end_char": 937
+    "start_char": 933,
+    "end_char": 938
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:192:term-usage:977-982",
+    "id": "urn:lex-mx:federal:statute:lissste:article:192:term-usage:978-983",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:192",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:fondo",
     "span": "Fondo",
-    "start_char": 977,
-    "end_char": 982
+    "start_char": 978,
+    "end_char": 983
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:192:term-usage:1165-1174",
+    "id": "urn:lex-mx:federal:statute:lissste:article:192:term-usage:1166-1175",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:192",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:instituto",
     "span": "Instituto",
-    "start_char": 1165,
-    "end_char": 1174
+    "start_char": 1166,
+    "end_char": 1175
   },
   {
     "schema_version": "0.1.0",
@@ -13357,15 +13285,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:234:term-usage:636-644",
-    "provision_id": "urn:lex-mx:federal:statute:lissste:article:234",
-    "term_id": "urn:lex-mx:federal:statute:lissste:term:reserva",
-    "span": "Reservas",
-    "start_char": 636,
-    "end_char": 644
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lissste:article:235:term-usage:19-26",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:235",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:reserva",
@@ -13726,15 +13645,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:242:term-usage:699-707",
-    "provision_id": "urn:lex-mx:federal:statute:lissste:article:242",
-    "term_id": "urn:lex-mx:federal:statute:lissste:term:reserva",
-    "span": "Reservas",
-    "start_char": 699,
-    "end_char": 707
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lissste:article:243:term-usage:325-333",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:243",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:reserva",
@@ -13831,15 +13741,6 @@
     "span": "Reserva",
     "start_char": 1503,
     "end_char": 1510
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:243:term-usage:1793-1801",
-    "provision_id": "urn:lex-mx:federal:statute:lissste:article:243",
-    "term_id": "urn:lex-mx:federal:statute:lissste:term:reserva",
-    "span": "Reservas",
-    "start_char": 1793,
-    "end_char": 1801
   },
   {
     "schema_version": "0.1.0",
@@ -15877,290 +15778,290 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:transitory:trigesimo-noveno:term-usage:826-835",
-    "provision_id": "urn:lex-mx:federal:statute:lissste:transitory:trigesimo-noveno",
+    "id": "urn:lex-mx:federal:statute:lissste:transitory:cuadragesimo:term-usage:80-89",
+    "provision_id": "urn:lex-mx:federal:statute:lissste:transitory:cuadragesimo",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:instituto",
     "span": "Instituto",
-    "start_char": 826,
-    "end_char": 835
+    "start_char": 80,
+    "end_char": 89
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:transitory:trigesimo-noveno:term-usage:1126-1137",
-    "provision_id": "urn:lex-mx:federal:statute:lissste:transitory:trigesimo-noveno",
+    "id": "urn:lex-mx:federal:statute:lissste:transitory:cuadragesimo-primero:term-usage:19-30",
+    "provision_id": "urn:lex-mx:federal:statute:lissste:transitory:cuadragesimo-primero",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:pensionado",
     "span": "Pensionados",
-    "start_char": 1126,
-    "end_char": 1137
+    "start_char": 19,
+    "end_char": 30
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:transitory:trigesimo-noveno:term-usage:1556-1565",
-    "provision_id": "urn:lex-mx:federal:statute:lissste:transitory:trigesimo-noveno",
+    "id": "urn:lex-mx:federal:statute:lissste:transitory:cuadragesimo-primero:term-usage:449-458",
+    "provision_id": "urn:lex-mx:federal:statute:lissste:transitory:cuadragesimo-primero",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:entidades",
     "span": "Entidades",
-    "start_char": 1556,
-    "end_char": 1565
+    "start_char": 449,
+    "end_char": 458
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:transitory:trigesimo-noveno:term-usage:1713-1722",
-    "provision_id": "urn:lex-mx:federal:statute:lissste:transitory:trigesimo-noveno",
+    "id": "urn:lex-mx:federal:statute:lissste:transitory:cuadragesimo-primero:term-usage:606-615",
+    "provision_id": "urn:lex-mx:federal:statute:lissste:transitory:cuadragesimo-primero",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:instituto",
     "span": "Instituto",
-    "start_char": 1713,
-    "end_char": 1722
+    "start_char": 606,
+    "end_char": 615
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:transitory:trigesimo-noveno:term-usage:1928-1937",
-    "provision_id": "urn:lex-mx:federal:statute:lissste:transitory:trigesimo-noveno",
+    "id": "urn:lex-mx:federal:statute:lissste:transitory:cuadragesimo-primero:term-usage:821-830",
+    "provision_id": "urn:lex-mx:federal:statute:lissste:transitory:cuadragesimo-primero",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:instituto",
     "span": "Instituto",
-    "start_char": 1928,
-    "end_char": 1937
+    "start_char": 821,
+    "end_char": 830
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:transitory:trigesimo-noveno:term-usage:1977-1986",
-    "provision_id": "urn:lex-mx:federal:statute:lissste:transitory:trigesimo-noveno",
+    "id": "urn:lex-mx:federal:statute:lissste:transitory:cuadragesimo-primero:term-usage:870-879",
+    "provision_id": "urn:lex-mx:federal:statute:lissste:transitory:cuadragesimo-primero",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:instituto",
     "span": "Instituto",
-    "start_char": 1977,
-    "end_char": 1986
+    "start_char": 870,
+    "end_char": 879
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:transitory:trigesimo-noveno:term-usage:2714-2723",
-    "provision_id": "urn:lex-mx:federal:statute:lissste:transitory:trigesimo-noveno",
+    "id": "urn:lex-mx:federal:statute:lissste:transitory:cuadragesimo-primero:term-usage:1607-1616",
+    "provision_id": "urn:lex-mx:federal:statute:lissste:transitory:cuadragesimo-primero",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:entidades",
     "span": "Entidades",
-    "start_char": 2714,
-    "end_char": 2723
+    "start_char": 1607,
+    "end_char": 1616
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:transitory:trigesimo-noveno:term-usage:2757-2766",
-    "provision_id": "urn:lex-mx:federal:statute:lissste:transitory:trigesimo-noveno",
+    "id": "urn:lex-mx:federal:statute:lissste:transitory:cuadragesimo-primero:term-usage:1650-1659",
+    "provision_id": "urn:lex-mx:federal:statute:lissste:transitory:cuadragesimo-primero",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:instituto",
     "span": "Instituto",
-    "start_char": 2757,
-    "end_char": 2766
+    "start_char": 1650,
+    "end_char": 1659
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:transitory:trigesimo-noveno:term-usage:2953-2960",
-    "provision_id": "urn:lex-mx:federal:statute:lissste:transitory:trigesimo-noveno",
+    "id": "urn:lex-mx:federal:statute:lissste:transitory:cuadragesimo-primero:term-usage:1846-1853",
+    "provision_id": "urn:lex-mx:federal:statute:lissste:transitory:cuadragesimo-primero",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:entidades",
     "span": "Entidad",
-    "start_char": 2953,
-    "end_char": 2960
+    "start_char": 1846,
+    "end_char": 1853
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:transitory:trigesimo-noveno:term-usage:3188-3197",
-    "provision_id": "urn:lex-mx:federal:statute:lissste:transitory:trigesimo-noveno",
+    "id": "urn:lex-mx:federal:statute:lissste:transitory:cuadragesimo-primero:term-usage:2081-2090",
+    "provision_id": "urn:lex-mx:federal:statute:lissste:transitory:cuadragesimo-primero",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:entidades",
     "span": "Entidades",
-    "start_char": 3188,
-    "end_char": 3197
+    "start_char": 2081,
+    "end_char": 2090
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:transitory:trigesimo-noveno:term-usage:3239-3248",
-    "provision_id": "urn:lex-mx:federal:statute:lissste:transitory:trigesimo-noveno",
+    "id": "urn:lex-mx:federal:statute:lissste:transitory:cuadragesimo-primero:term-usage:2132-2141",
+    "provision_id": "urn:lex-mx:federal:statute:lissste:transitory:cuadragesimo-primero",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:instituto",
     "span": "Instituto",
-    "start_char": 3239,
-    "end_char": 3248
+    "start_char": 2132,
+    "end_char": 2141
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:transitory:trigesimo-noveno:term-usage:3370-3379",
-    "provision_id": "urn:lex-mx:federal:statute:lissste:transitory:trigesimo-noveno",
+    "id": "urn:lex-mx:federal:statute:lissste:transitory:cuadragesimo-primero:term-usage:2263-2272",
+    "provision_id": "urn:lex-mx:federal:statute:lissste:transitory:cuadragesimo-primero",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:instituto",
     "span": "Instituto",
-    "start_char": 3370,
-    "end_char": 3379
+    "start_char": 2263,
+    "end_char": 2272
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:transitory:trigesimo-noveno:term-usage:3787-3799",
-    "provision_id": "urn:lex-mx:federal:statute:lissste:transitory:trigesimo-noveno",
+    "id": "urn:lex-mx:federal:statute:lissste:transitory:cuadragesimo-tercero:term-usage:47-59",
+    "provision_id": "urn:lex-mx:federal:statute:lissste:transitory:cuadragesimo-tercero",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:dependencias",
     "span": "Dependencias",
-    "start_char": 3787,
-    "end_char": 3799
+    "start_char": 47,
+    "end_char": 59
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:transitory:trigesimo-noveno:term-usage:3802-3811",
-    "provision_id": "urn:lex-mx:federal:statute:lissste:transitory:trigesimo-noveno",
+    "id": "urn:lex-mx:federal:statute:lissste:transitory:cuadragesimo-tercero:term-usage:62-71",
+    "provision_id": "urn:lex-mx:federal:statute:lissste:transitory:cuadragesimo-tercero",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:entidades",
     "span": "Entidades",
-    "start_char": 3802,
-    "end_char": 3811
+    "start_char": 62,
+    "end_char": 71
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:transitory:trigesimo-noveno:term-usage:4333-4344",
-    "provision_id": "urn:lex-mx:federal:statute:lissste:transitory:trigesimo-noveno",
+    "id": "urn:lex-mx:federal:statute:lissste:transitory:cuadragesimo-tercero:term-usage:593-604",
+    "provision_id": "urn:lex-mx:federal:statute:lissste:transitory:cuadragesimo-tercero",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:dependencias",
     "span": "Dependencia",
-    "start_char": 4333,
-    "end_char": 4344
+    "start_char": 593,
+    "end_char": 604
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:transitory:trigesimo-noveno:term-usage:4347-4354",
-    "provision_id": "urn:lex-mx:federal:statute:lissste:transitory:trigesimo-noveno",
+    "id": "urn:lex-mx:federal:statute:lissste:transitory:cuadragesimo-tercero:term-usage:607-614",
+    "provision_id": "urn:lex-mx:federal:statute:lissste:transitory:cuadragesimo-tercero",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:entidades",
     "span": "Entidad",
-    "start_char": 4347,
-    "end_char": 4354
+    "start_char": 607,
+    "end_char": 614
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:transitory:trigesimo-noveno:term-usage:4669-4678",
-    "provision_id": "urn:lex-mx:federal:statute:lissste:transitory:trigesimo-noveno",
+    "id": "urn:lex-mx:federal:statute:lissste:transitory:cuadragesimo-cuarto:term-usage:28-37",
+    "provision_id": "urn:lex-mx:federal:statute:lissste:transitory:cuadragesimo-cuarto",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:instituto",
     "span": "Instituto",
-    "start_char": 4669,
-    "end_char": 4678
+    "start_char": 28,
+    "end_char": 37
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:transitory:trigesimo-noveno:term-usage:4829-4838",
-    "provision_id": "urn:lex-mx:federal:statute:lissste:transitory:trigesimo-noveno",
+    "id": "urn:lex-mx:federal:statute:lissste:transitory:cuadragesimo-cuarto:term-usage:188-197",
+    "provision_id": "urn:lex-mx:federal:statute:lissste:transitory:cuadragesimo-cuarto",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:instituto",
     "span": "Instituto",
-    "start_char": 4829,
-    "end_char": 4838
+    "start_char": 188,
+    "end_char": 197
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:transitory:trigesimo-noveno:term-usage:5237-5246",
-    "provision_id": "urn:lex-mx:federal:statute:lissste:transitory:trigesimo-noveno",
+    "id": "urn:lex-mx:federal:statute:lissste:transitory:cuadragesimo-sexto:term-usage:222-231",
+    "provision_id": "urn:lex-mx:federal:statute:lissste:transitory:cuadragesimo-sexto",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:instituto",
     "span": "Instituto",
-    "start_char": 5237,
-    "end_char": 5246
+    "start_char": 222,
+    "end_char": 231
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:transitory:trigesimo-noveno:term-usage:5487-5496",
-    "provision_id": "urn:lex-mx:federal:statute:lissste:transitory:trigesimo-noveno",
+    "id": "urn:lex-mx:federal:statute:lissste:transitory:cuadragesimo-septimo:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:statute:lissste:transitory:cuadragesimo-septimo",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:instituto",
     "span": "Instituto",
-    "start_char": 5487,
-    "end_char": 5496
+    "start_char": 3,
+    "end_char": 12
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:transitory:trigesimo-noveno:term-usage:5501-5514",
-    "provision_id": "urn:lex-mx:federal:statute:lissste:transitory:trigesimo-noveno",
+    "id": "urn:lex-mx:federal:statute:lissste:transitory:cuadragesimo-septimo:term-usage:17-30",
+    "provision_id": "urn:lex-mx:federal:statute:lissste:transitory:cuadragesimo-septimo",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:pensionissste",
     "span": "PENSIONISSSTE",
-    "start_char": 5501,
-    "end_char": 5514
+    "start_char": 17,
+    "end_char": 30
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:transitory:trigesimo-noveno:term-usage:5520-5525",
-    "provision_id": "urn:lex-mx:federal:statute:lissste:transitory:trigesimo-noveno",
+    "id": "urn:lex-mx:federal:statute:lissste:transitory:cuadragesimo-septimo:term-usage:36-41",
+    "provision_id": "urn:lex-mx:federal:statute:lissste:transitory:cuadragesimo-septimo",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:fondo",
     "span": "Fondo",
-    "start_char": 5520,
-    "end_char": 5525
+    "start_char": 36,
+    "end_char": 41
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:transitory:trigesimo-noveno:term-usage:5812-5821",
-    "provision_id": "urn:lex-mx:federal:statute:lissste:transitory:trigesimo-noveno",
+    "id": "urn:lex-mx:federal:statute:lissste:transitory:cuadragesimo-octavo:term-usage:48-57",
+    "provision_id": "urn:lex-mx:federal:statute:lissste:transitory:cuadragesimo-octavo",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:instituto",
     "span": "Instituto",
-    "start_char": 5812,
-    "end_char": 5821
+    "start_char": 48,
+    "end_char": 57
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:transitory:trigesimo-noveno:term-usage:6057-6066",
-    "provision_id": "urn:lex-mx:federal:statute:lissste:transitory:trigesimo-noveno",
+    "id": "urn:lex-mx:federal:statute:lissste:transitory:cuadragesimo-octavo:term-usage:293-302",
+    "provision_id": "urn:lex-mx:federal:statute:lissste:transitory:cuadragesimo-octavo",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:instituto",
     "span": "Instituto",
-    "start_char": 6057,
-    "end_char": 6066
+    "start_char": 293,
+    "end_char": 302
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:transitory:trigesimo-noveno:term-usage:6329-6334",
-    "provision_id": "urn:lex-mx:federal:statute:lissste:transitory:trigesimo-noveno",
+    "id": "urn:lex-mx:federal:statute:lissste:transitory:cuadragesimo-octavo:term-usage:565-570",
+    "provision_id": "urn:lex-mx:federal:statute:lissste:transitory:cuadragesimo-octavo",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:fondo",
     "span": "Fondo",
-    "start_char": 6329,
-    "end_char": 6334
+    "start_char": 565,
+    "end_char": 570
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:transitory:trigesimo-noveno:term-usage:7162-7171",
-    "provision_id": "urn:lex-mx:federal:statute:lissste:transitory:trigesimo-noveno",
+    "id": "urn:lex-mx:federal:statute:lissste:transitory:cuadragesimo-octavo:term-usage:1398-1407",
+    "provision_id": "urn:lex-mx:federal:statute:lissste:transitory:cuadragesimo-octavo",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:instituto",
     "span": "Instituto",
-    "start_char": 7162,
-    "end_char": 7171
+    "start_char": 1398,
+    "end_char": 1407
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:transitory:trigesimo-noveno:term-usage:7470-7479",
-    "provision_id": "urn:lex-mx:federal:statute:lissste:transitory:trigesimo-noveno",
+    "id": "urn:lex-mx:federal:statute:lissste:transitory:cuadragesimo-octavo:term-usage:1706-1715",
+    "provision_id": "urn:lex-mx:federal:statute:lissste:transitory:cuadragesimo-octavo",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:instituto",
     "span": "Instituto",
-    "start_char": 7470,
-    "end_char": 7479
+    "start_char": 1706,
+    "end_char": 1715
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:transitory:trigesimo-noveno:term-usage:7719-7724",
-    "provision_id": "urn:lex-mx:federal:statute:lissste:transitory:trigesimo-noveno",
+    "id": "urn:lex-mx:federal:statute:lissste:transitory:cuadragesimo-octavo:term-usage:1955-1960",
+    "provision_id": "urn:lex-mx:federal:statute:lissste:transitory:cuadragesimo-octavo",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:fondo",
     "span": "Fondo",
-    "start_char": 7719,
-    "end_char": 7724
+    "start_char": 1955,
+    "end_char": 1960
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:transitory:trigesimo-noveno:term-usage:7822-7831",
-    "provision_id": "urn:lex-mx:federal:statute:lissste:transitory:trigesimo-noveno",
+    "id": "urn:lex-mx:federal:statute:lissste:transitory:cuadragesimo-octavo:term-usage:2058-2067",
+    "provision_id": "urn:lex-mx:federal:statute:lissste:transitory:cuadragesimo-octavo",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:instituto",
     "span": "Instituto",
-    "start_char": 7822,
-    "end_char": 7831
+    "start_char": 2058,
+    "end_char": 2067
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:transitory:trigesimo-noveno:term-usage:8099-8108",
-    "provision_id": "urn:lex-mx:federal:statute:lissste:transitory:trigesimo-noveno",
+    "id": "urn:lex-mx:federal:statute:lissste:transitory:cuadragesimo-octavo:term-usage:2335-2344",
+    "provision_id": "urn:lex-mx:federal:statute:lissste:transitory:cuadragesimo-octavo",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:instituto",
     "span": "Instituto",
-    "start_char": 8099,
-    "end_char": 8108
+    "start_char": 2335,
+    "end_char": 2344
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:transitory:trigesimo-noveno:term-usage:8218-8223",
-    "provision_id": "urn:lex-mx:federal:statute:lissste:transitory:trigesimo-noveno",
+    "id": "urn:lex-mx:federal:statute:lissste:transitory:cuadragesimo-octavo:term-usage:2454-2459",
+    "provision_id": "urn:lex-mx:federal:statute:lissste:transitory:cuadragesimo-octavo",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:fondo",
     "span": "Fondo",
-    "start_char": 8218,
-    "end_char": 8223
+    "start_char": 2454,
+    "end_char": 2459
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:transitory:trigesimo-noveno:term-usage:8321-8330",
-    "provision_id": "urn:lex-mx:federal:statute:lissste:transitory:trigesimo-noveno",
+    "id": "urn:lex-mx:federal:statute:lissste:transitory:cuadragesimo-octavo:term-usage:2557-2566",
+    "provision_id": "urn:lex-mx:federal:statute:lissste:transitory:cuadragesimo-octavo",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:instituto",
     "span": "Instituto",
-    "start_char": 8321,
-    "end_char": 8330
+    "start_char": 2557,
+    "end_char": 2566
   }
 ]

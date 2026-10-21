@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LCM.pdf
 source_sha256: 8e270686b885035488bfe310b0b42bb40e7154431794227ebe212dd7dc12e46a
 ---
 
-> Título CUARTO
+> Título CUARTO · Capítulo I
 
 # Artículo 134
 
@@ -26,5 +26,3 @@ II. Las objeciones que por escrito se realicen respecto de la lista provisional;
 III. La sentencia de reconocimiento, graduación y prelación respecto de los créditos incluidos en ella, o
 
 IV. La apelación respecto de los créditos cuyo reconocimiento se solicite.
-
-Capítulo II De la apelación de la sentencia de reconocimiento, graduación y prelación de créditos

@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDFS.pdf
 source_sha256: 2c75fd0eab3245aed43a4e1230dcd142b48959a1df09bdd4e70684935a505dd4
 ---
 
-> Título QUINTO
+> Título QUINTO · Capítulo III
 
 # Artículo 124
 
@@ -29,7 +29,9 @@ IV. Tengan como finalidad la regeneración de terrenos incendiados.
 
 Se exceptuarán de las vedas los terrenos en los que se realice el aprovechamiento forestal o la plantación forestal comercial de conformidad con los instrumentos de manejo establecidos en la presente Ley, en tanto no se ponga en riesgo la biodiversidad, de acuerdo con los criterios e indicadores que al efecto se emitan.
 
-En este último caso la veda tendrá carácter precautorio, deberá referirse en forma específica al programa de manejo respectivo y sólo podrá abarcar la fracción del área forestal afectada por el riesgo a la biodiversidad. La [Secretaría](articulo-7.md) solicitará a los titulares la modificación de los programas de manejo respectivos, segregando de los mismos las superficies afectadas. Así mismo se establecerá un programa que tenga como finalidad atacar las causas que originan la veda y asegurarse al término de la misma que dichas causas no se repitan. Párrafo reformado DOF 11-04-2022 Los proyectos de veda deberán publicarse en el Diario Oficial de la Federación, y se notificarán previamente a los posibles afectados en forma personal cuando se conocieren sus domicilios; en caso contrario, se hará una segunda publicación la que surtirá efectos de notificación.
+En este último caso la veda tendrá carácter precautorio, deberá referirse en forma específica al programa de manejo respectivo y sólo podrá abarcar la fracción del área forestal afectada por el riesgo a la biodiversidad. La [Secretaría](articulo-7.md) solicitará a los titulares la modificación de los programas de manejo respectivos, segregando de los mismos las superficies afectadas. Así mismo se establecerá un programa que tenga como finalidad atacar las causas que originan la veda y asegurarse al término de la misma que dichas causas no se repitan. Párrafo reformado DOF 11-04-2022
+
+Los proyectos de veda deberán publicarse en el Diario Oficial de la Federación, y se notificarán previamente a los posibles afectados en forma personal cuando se conocieren sus domicilios; en caso contrario, se hará una segunda publicación la que surtirá efectos de notificación.
 
 Los decretos que establezcan vedas forestales, precisarán las características, temporalidad, excepciones y límites de las superficies o recursos forestales vedados, así como, en su caso, las medidas que adoptará el Ejecutivo Federal para apoyar a las comunidades afectadas. Dichos decretos se publicarán en dos ocasiones en el Diario Oficial de la Federación y, por una sola vez, en los diarios de mayor circulación de las Entidades Federativas donde se ubiquen los terrenos y recursos forestales vedados.
 

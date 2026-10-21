@@ -22,5 +22,3 @@ La Pensión por invalidez será revocada cuando el Trabajador recupere su capaci
 La revocación de la Pensión se llevará a cabo en los mismos términos que se señalan para la suspensión, en el último párrafo del [artículo anterior](articulo-127.md).
 
 Si el Trabajador no fuere restituido a su empleo o no se le asignara otro en los términos del párrafo primero de este artículo por causa imputable a la Dependencia o Entidad en que hubiere prestado sus servicios, seguirá percibiendo el importe de la Pensión con cargo al presupuesto de ésta. Lo anterior, sin perjuicio de la responsabilidad en que incurra el titular de la Dependencia o Entidad, el cual deberá restituir los montos erogados por concepto del pago de la Pensión.
-
-Sección III Pensión por Causa de Muerte

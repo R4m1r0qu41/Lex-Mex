@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LINS.pdf
 source_sha256: 40271b07f2d2236f7e4d722d2b61f35db2d82772543dcf4911097efe13697c5e
 ---
 
-> Título SEGUNDO
+> Título SEGUNDO · Capítulo V
 
 # Artículo 34
 
@@ -30,5 +30,3 @@ IV. Efectuarán revisiones y auditorías;
 V. Vigilarán que el manejo y aplicación de los recursos se efectúe conforme a las disposiciones aplicables, y presentarán al director general y a la Junta de Gobierno los informes resultantes de las auditorías, exámenes y evaluaciones realizados, y
 
 VI. Ejercerán las demás facultades que otras disposiciones legales y reglamentarias les confieran.
-
-Capítulo VI Régimen laboral

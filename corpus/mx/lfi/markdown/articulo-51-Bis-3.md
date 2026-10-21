@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf
 source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 ---
 
+> Título III · Capítulo Noveno
+
 # Artículo 51 Bis 3
 
 Las sociedades operadoras de fondos de inversión que actúen como fiduciarias, previamente a la realización de las actividades fiduciarias deberán establecer las medidas necesarias para prevenir conflictos de interés que puedan originarse en la prestación de servicios fiduciarios y los que proporcionen a sus clientes, así como evitar prácticas que afecten una sana operación o vayan en detrimento de los intereses de las personas a las que les presten sus servicios.

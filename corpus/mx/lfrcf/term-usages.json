@@ -1270,15 +1270,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfrcf:article:32:term-usage:432-447",
-    "provision_id": "urn:lex-mx:federal:statute:lfrcf:article:32",
-    "term_id": "urn:lex-mx:federal:statute:lfrcf:term:informe-general",
-    "span": "Informe General",
-    "start_char": 432,
-    "end_char": 447
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfrcf:article:33:term-usage:3-38",
     "provision_id": "urn:lex-mx:federal:statute:lfrcf:article:33",
     "term_id": "urn:lex-mx:federal:statute:lfrcf:term:auditoria-superior-de-la-federacion",
@@ -1402,15 +1393,6 @@
     "span": "Cámara",
     "start_char": 724,
     "end_char": 730
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfrcf:article:34:term-usage:1164-1185",
-    "provision_id": "urn:lex-mx:federal:statute:lfrcf:article:34",
-    "term_id": "urn:lex-mx:federal:statute:lfrcf:term:informes-individuales",
-    "span": "Informes Individuales",
-    "start_char": 1164,
-    "end_char": 1185
   },
   {
     "schema_version": "0.1.0",
@@ -1780,15 +1762,6 @@
     "span": "Cámara",
     "start_char": 295,
     "end_char": 301
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfrcf:article:43:term-usage:504-518",
-    "provision_id": "urn:lex-mx:federal:statute:lfrcf:article:43",
-    "term_id": "urn:lex-mx:federal:statute:lfrcf:term:cuenta-publica",
-    "span": "Cuenta Pública",
-    "start_char": 504,
-    "end_char": 518
   },
   {
     "schema_version": "0.1.0",
@@ -2212,15 +2185,6 @@
     "span": "Auditoría Superior de la Federación",
     "start_char": 2492,
     "end_char": 2527
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfrcf:article:51:term-usage:2772-2793",
-    "provision_id": "urn:lex-mx:federal:statute:lfrcf:article:51",
-    "term_id": "urn:lex-mx:federal:statute:lfrcf:term:entidades-federativas",
-    "span": "Entidades Federativas",
-    "start_char": 2772,
-    "end_char": 2793
   },
   {
     "schema_version": "0.1.0",
@@ -4048,15 +4012,6 @@
     "span": "Auditoría Superior de la Federación",
     "start_char": 65,
     "end_char": 100
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfrcf:article:101:term-usage:218-253",
-    "provision_id": "urn:lex-mx:federal:statute:lfrcf:article:101",
-    "term_id": "urn:lex-mx:federal:statute:lfrcf:term:auditoria-superior-de-la-federacion",
-    "span": "Auditoría Superior de la Federación",
-    "start_char": 218,
-    "end_char": 253
   },
   {
     "schema_version": "0.1.0",

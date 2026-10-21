@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf
 source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 ---
 
+> Título IV · Capítulo Tercero
+
 # Artículo 80 Bis 1
 
 La [Comisión](articulo-2.md) contará con facultades de inspección y vigilancia, respecto de las personas morales que presten servicios de auditoría externa en términos de esta Ley, incluyendo los socios o empleados de aquellas que formen parte del equipo de auditoría, pudiendo al efecto y a fin de verificar el cumplimiento de esta Ley y la observancia de las disposiciones de carácter general que de ella emanen:

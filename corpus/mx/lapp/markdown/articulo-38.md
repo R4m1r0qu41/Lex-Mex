@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAPP.pdf
 source_sha256: a4505a7bd41bc835f1def6fb030c42d8e74a2cc050d9c8fa08f91c9519e382bf
 ---
 
+> Capítulo Cuarto · Sección Primera
+
 # Artículo 38
 
 Las dependencias y entidades que pretendan el desarrollo de un proyecto de asociación público-privada convocarán a concurso, que deberá llevarse a cabo conforme a los principios de legalidad, libre concurrencia y competencia, objetividad e imparcialidad, transparencia y publicidad y, con las particularidades del artículo [31](articulo-31.md) de esta [Ley](articulo-12.md), en igualdad de condiciones para todos los participantes.

@@ -13,10 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPPI.pdf
 source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 ---
 
-> Título SEXTO
+> Título SEXTO · Capítulo III
 
 # Artículo 371
 
 En el caso de las notificaciones que no deban practicarse de manera personal, se dará prioridad a la notificación por [Gaceta](articulo-4.md).
-
-Capítulo IV De la Conciliación

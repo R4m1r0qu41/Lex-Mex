@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Tercero · Capítulo III
+
 # Artículo 371
 
 Se entiende por señal internacional de socorro, todo medio visual o audible emitido o recibido de manera directa o indirecta, que indica que una Embarcación o aeronave, están en peligro y que está definido en los Códigos Internacionales aplicables para nuestro país.

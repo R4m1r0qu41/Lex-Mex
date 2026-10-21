@@ -45,7 +45,9 @@ XII. Participar, en coordinación con las unidades administrativas competentes d
 
 XII Bis. Proponer a la persona titular de la Secretaría de Salud la regulación de protección contra riesgos sanitarios en los casos de emergencia sanitaria para instrumentar, supervisar y garantizar la calidad, seguridad y eficacia de los insumos para la salud; Fracción adicionada DOF 15-01-2026
 
-XII Ter. Emitir autorizaciones temporales del uso de insumos para la salud durante emergencias de salud pública; Fracción adicionada DOF 15-01-2026 XII Quater. Coordinar el Sistema Federal Sanitario, en colaboración con los gobiernos de las entidades federativas, de conformidad con las disposiciones aplicables y en los términos de los acuerdos de coordinación o colaboración que se celebren; Fracción adicionada DOF 15-01-2026
+XII Ter. Emitir autorizaciones temporales del uso de insumos para la salud durante emergencias de salud pública; Fracción adicionada DOF 15-01-2026
+
+XII Quater. Coordinar el Sistema Federal Sanitario, en colaboración con los gobiernos de las entidades federativas, de conformidad con las disposiciones aplicables y en los términos de los acuerdos de coordinación o colaboración que se celebren; Fracción adicionada DOF 15-01-2026
 
 XII Quinquies. Coordinar y reportar las actividades de farmacovigilancia y tecnovigilancia en el país, a través de su Centro Nacional de Farmacovigilancia y Tecnovigilancia, con base en la normativa aplicable, y Fracción adicionada DOF 15-01-2026
 

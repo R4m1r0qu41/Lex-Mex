@@ -18,5 +18,3 @@ source_sha256: ef64bacccac32c63c214d59f4860251db0365fc125840a6504c195288077888c
 # Artículo 89
 
 Para el uso de residuos peligrosos como combustibles alternos en procesos de combustión de calentamiento de tipo directo o indirecto, deberán observarse los criterios ambientales para la operación y límites máximos permisibles establecidos en las normas oficiales mexicanas que resulten aplicables.
-
-Sección IV Tratamiento de residuos peligrosos

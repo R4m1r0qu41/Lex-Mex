@@ -30,5 +30,3 @@ III. Elaborar el orden del día de sus reuniones;
 IV. Llevar a cabo consultas con representantes de los otros poderes de la Unión, especialistas, organizaciones sociales, grupos de interés y ciudadanos en general, y
 
 V. Entregar a la [Cámara](articulo-2.md), a través de la [Conferencia](articulo-2.md), y al público en general, a través de los medios de divulgación disponibles, informes semestrales e informe final en las mismas fechas que las señaladas para las comisiones ordinarias, señalando el destino final de los recursos económicos y materiales utilizados durante cada año legislativo.
-
-Sección Vigésima Primera Coordinación en la Programación de las Reuniones

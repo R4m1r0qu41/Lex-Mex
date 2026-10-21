@@ -13,8 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Tercero · Capítulo III
+
 # Artículo 423
 
 La persona que ejerza el mando como capitán en las Unidades Móviles de Perforación Mar Adentro de Bandera Mexicana, deberá ser un profesional egresado de una Institución Educativa Náutica Mercante Mexicana, lo que deberá acreditar mediante el título y refrendo correspondiente.
-
-Sección XVIII Instalaciones de Servicios

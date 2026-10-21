@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAPP.pdf
 source_sha256: a4505a7bd41bc835f1def6fb030c42d8e74a2cc050d9c8fa08f91c9519e382bf
 ---
 
+> Capítulo Segundo · Sección Segunda
+
 # Artículo 23
 
 El procedimiento de contratación de un proyecto de asociación público-privada sólo podrá iniciarse conforme a lo siguiente:
@@ -28,5 +30,3 @@ c) La autorización de la Comisión Intersecretarial de Gasto Público, Financia
 III. Tratándose de proyectos de asociación público-privada que involucren recursos públicos federales distintos a numerario, deberán contar con el dictamen de viabilidad, en términos del artículo [14](articulo-14.md) de la presente Ley.
 
 Artículo reformado DOF 21-04-2016
-
-Sección Tercera Otras Disposiciones sobre la Preparación e Inicio de los Proyectos

@@ -554,7 +554,8 @@
     "number": "27",
     "heading_context": {
       "title": "Título SEGUNDO",
-      "chapter": "Capítulo IV"
+      "chapter": "Capítulo IV",
+      "section": "Sección Primera"
     },
     "text": "La administración de los recursos de la propiedad del Gobierno Federal a cargo de la Tesorería comprende la administración de la liquidez y la inversión de las disponibilidades.",
     "publication_date": "2017-06-30",
@@ -575,9 +576,10 @@
     "number": "28",
     "heading_context": {
       "title": "Título SEGUNDO",
-      "chapter": "Capítulo IV"
+      "chapter": "Capítulo IV",
+      "section": "Sección Primera"
     },
-    "text": "Para la administración de la liquidez, la Tesorería tendrá a su cargo la integración de las proyecciones de los Flujos de Efectivo y de la posición diaria de las disponibilidades del Gobierno Federal a que se refieren los artículos 26 y 27 de la Ley, a partir de la información contenida en los Criterios Generales de Política Económica para la Iniciativa de Ley de Ingresos y el Proyecto de Presupuesto de Egresos de la Federación; la Ley de Ingresos de la Federación y el calendario mensual de ingresos que deriva de dicha Ley; el Presupuesto de Egresos de la Federación y, los calendarios de presupuesto autorizados a las Dependencias y Entidades, del ejercicio fiscal que corresponda.\n\nAsimismo, las unidades administrativas competentes de la Secretaría deberán proporcionar a la Tesorería, para efectos del párrafo anterior y conforme a las disposiciones jurídicas aplicables, la información siguiente:\n\nI. Los supuestos y estimaciones de ingresos, egresos y deuda que en cualquier momento modifiquen o deban ser consideradas en las proyecciones de los Flujos de Efectivo;\n\nII. Las actualizaciones mensuales de la información de ingresos, egresos y deuda durante el ejercicio fiscal correspondiente, y\n\nIII. La demás información que se establezca en las disposiciones generales que para tal efecto emita la Tesorería.\n\nSección Segunda De los Depósitos ante la Tesorería",
+    "text": "Para la administración de la liquidez, la Tesorería tendrá a su cargo la integración de las proyecciones de los Flujos de Efectivo y de la posición diaria de las disponibilidades del Gobierno Federal a que se refieren los artículos 26 y 27 de la Ley, a partir de la información contenida en los Criterios Generales de Política Económica para la Iniciativa de Ley de Ingresos y el Proyecto de Presupuesto de Egresos de la Federación; la Ley de Ingresos de la Federación y el calendario mensual de ingresos que deriva de dicha Ley; el Presupuesto de Egresos de la Federación y, los calendarios de presupuesto autorizados a las Dependencias y Entidades, del ejercicio fiscal que corresponda.\n\nAsimismo, las unidades administrativas competentes de la Secretaría deberán proporcionar a la Tesorería, para efectos del párrafo anterior y conforme a las disposiciones jurídicas aplicables, la información siguiente:\n\nI. Los supuestos y estimaciones de ingresos, egresos y deuda que en cualquier momento modifiquen o deban ser consideradas en las proyecciones de los Flujos de Efectivo;\n\nII. Las actualizaciones mensuales de la información de ingresos, egresos y deuda durante el ejercicio fiscal correspondiente, y\n\nIII. La demás información que se establezca en las disposiciones generales que para tal efecto emita la Tesorería.",
     "publication_date": "2017-06-30",
     "effective_from": "2017-07-01",
     "effective_to": null,
@@ -596,7 +598,8 @@
     "number": "29",
     "heading_context": {
       "title": "Título SEGUNDO",
-      "chapter": "Capítulo IV"
+      "chapter": "Capítulo IV",
+      "section": "Sección Segunda"
     },
     "text": "Para la constitución de los depósitos se estará a lo siguiente:\n\nI. Tratándose de los depósitos previstos en el artículo 29, fracciones II, IV y V de la Ley:\n\na) Los solicitantes deberán presentar escrito fundado y motivado, en el cual se especifique el monto inicial, tipo de moneda, temporalidad del depósito y fines del mismo, así como cumplir los demás requisitos que señale la Tesorería mediante disposiciones generales que para tal efecto emita;\n\nb) Se constituirán una vez que la Tesorería lo autorice y emita el oficio correspondiente, a los cinco días hábiles posteriores a la recepción de la solicitud, y\n\nc) El depositante deberá realizar las operaciones de cargos y abonos a través de los sistemas automatizados que la Tesorería establezca para tal efecto en términos del artículo 10 de la Ley, y\n\nII. Tratándose de los depósitos a que se refiere el artículo 29, fracciones I y III de la Ley: a) Se constituirán una vez que la Tesorería reciba la resolución de la autoridad fiscal, administrativa o judicial y el monto correspondiente a más tardar a los quince días naturales siguientes a la notificación de la resolución de que se trate. Tratándose de solicitudes por concepto de garantías, se constituirán una vez que la Tesorería reciba los recursos y el oficio que emita el Auxiliar por el que acepte la garantía no fiscal a más tardar a los sesenta días hábiles siguientes.\n\nA falta de los requisitos señalados en el párrafo anterior, no se constituirá el depósito, por lo que los recursos correspondientes serán considerados como recursos entregados sin concepto o instrucción de destino o aplicación en términos del artículo 30 de la Ley;\n\nb) El depositante podrá realizar consultas sobre el saldo del depósito a través del sistema automatizado que la Tesorería establezca para tal efecto en términos del artículo 10 de la Ley, y\n\nc) La Tesorería realizará los cargos que solicite la autoridad fiscal, administrativa o judicial que exigió, solicitó o aceptó la constitución del depósito.\n\nLos depósitos a que se refieren las fracciones I y III del artículo 29 de la Ley no generarán interés alguno.\n\nLa Tesorería emitirá un estado de cuenta electrónico mensual para cada uno de los depósitos constituidos ante ella, en el cual se incluirán el saldo inicial y final, así como, en su caso, los movimientos de cargo y abono y los intereses que se hayan generado durante el período.",
     "publication_date": "2017-06-30",
@@ -617,7 +620,8 @@
     "number": "30",
     "heading_context": {
       "title": "Título SEGUNDO",
-      "chapter": "Capítulo IV"
+      "chapter": "Capítulo IV",
+      "section": "Sección Segunda"
     },
     "text": "Para los depósitos constituidos en moneda nacional, la Tesorería aplicará o devolverá los recursos del depósito de que se trate, en un plazo de tres a cinco días hábiles bancarios, contado a partir de la recepción de la solicitud del depositante o de que surta efectos la notificación de la resolución que emita la autoridad competente, de conformidad con las disposiciones jurídicas aplicables.\n\nPara el caso de los depósitos en moneda extranjera, el plazo a que se refiere el párrafo anterior se podrá extender de acuerdo a los calendarios de los sistemas de pago internacionales, sin que éste pueda ser mayor a diez días hábiles.\n\nLa devolución de los recursos correspondientes a los depósitos se realizará mediante transferencia electrónica de fondos para abono en cuenta bancaria o cualquier otro medio que la Tesorería establezca mediante disposiciones generales que para tal efecto emita.",
     "publication_date": "2017-06-30",
@@ -638,9 +642,10 @@
     "number": "31",
     "heading_context": {
       "title": "Título SEGUNDO",
-      "chapter": "Capítulo IV"
+      "chapter": "Capítulo IV",
+      "section": "Sección Segunda"
     },
-    "text": "El depositante o la autoridad que constituya un depósito será el responsable de realizar las gestiones para la devolución o aplicación de los recursos, así como para la cancelación del depósito correspondiente.\n\nSección Tercera De la Inversión de las Disponibilidades",
+    "text": "El depositante o la autoridad que constituya un depósito será el responsable de realizar las gestiones para la devolución o aplicación de los recursos, así como para la cancelación del depósito correspondiente.",
     "publication_date": "2017-06-30",
     "effective_from": "2017-07-01",
     "effective_to": null,
@@ -659,7 +664,8 @@
     "number": "32",
     "heading_context": {
       "title": "Título SEGUNDO",
-      "chapter": "Capítulo IV"
+      "chapter": "Capítulo IV",
+      "section": "Sección Tercera"
     },
     "text": "El Comité Técnico sesionará válidamente cuando asistan, por lo menos, tres de sus miembros, y sus resoluciones serán válidas cuando sean tomadas por la mayoría de los presentes. En caso de empate, el Presidente del Comité contará con voto de calidad.\n\nEl Comité Técnico sesionará en forma ordinaria o extraordinaria mediante convocatoria que realice el Secretario del Comité Técnico a sus miembros con un mínimo de cinco días naturales anteriores a la fecha señalada para las sesiones ordinarias y con un día hábil de anticipación para las sesiones extraordinarias. Las sesiones ordinarias se llevarán a cabo por lo menos una vez al año dentro del primer trimestre y las extraordinarias en cualquier tiempo previa petición que para tal efecto se haga al Secretario del Comité Técnico por alguno de sus miembros.\n\nEl Secretario del Comité Técnico elaborará las actas de las sesiones, las cuales deberán estar firmadas por los miembros asistentes a las mismas.",
     "publication_date": "2017-06-30",
@@ -680,7 +686,8 @@
     "number": "33",
     "heading_context": {
       "title": "Título SEGUNDO",
-      "chapter": "Capítulo IV"
+      "chapter": "Capítulo IV",
+      "section": "Sección Tercera"
     },
     "text": "Para efectos del artículo 31, cuarto párrafo de la Ley, los miembros del Comité Técnico serán suplidos conforme a lo siguiente:\n\nI. El Secretario de Hacienda y Crédito Público por el Titular de la Tesorería;\n\nII. El Titular de la Tesorería, por el Subtesorero de Operación;\n\nIII. El Subsecretario de Hacienda y Crédito Público, por el Titular de la Unidad de Crédito Público;\n\nIV. El Subsecretario de Ingresos, por el Titular de la Unidad de Política de Ingresos Tributarios, y\n\nV. El Subsecretario de Egresos, por el Titular de la Unidad de Política y Control Presupuestario.\n\nEl Titular de la Tesorería podrá nombrar un Prosecretario.\n\nEl Secretario del Comité Técnico tendrá las funciones siguientes:\n\nI. Elaborar el orden del día, así como integrar y presentar a los miembros del Comité Técnico la documentación correspondiente a las sesiones;\n\nII. Convocar a las sesiones del Comité Técnico;\n\nIII. Verificar que exista quórum para llevar a cabo las sesiones del Comité Técnico;\n\nIV. Elaborar las actas de las sesiones del Comité Técnico;\n\nV. Dar seguimiento a los acuerdos del Comité Técnico, y\n\nVI. Las demás que el Comité Técnico le encomiende.",
     "publication_date": "2017-06-30",
@@ -701,7 +708,8 @@
     "number": "34",
     "heading_context": {
       "title": "Título SEGUNDO",
-      "chapter": "Capítulo IV"
+      "chapter": "Capítulo IV",
+      "section": "Sección Tercera"
     },
     "text": "El Comité Técnico podrá crear comisiones o grupos de trabajo que requiera para el cumplimiento de su objeto.",
     "publication_date": "2017-06-30",
@@ -722,7 +730,8 @@
     "number": "35",
     "heading_context": {
       "title": "Título SEGUNDO",
-      "chapter": "Capítulo IV"
+      "chapter": "Capítulo IV",
+      "section": "Sección Tercera"
     },
     "text": "Las políticas y directrices en materia de inversión y administración de la liquidez que emita el Comité Técnico tendrán por objeto:\n\nI. Definir los porcentajes máximos que la Tesorería podrá invertir en los instrumentos autorizados;\n\nII. Establecer el régimen de inversión de recursos que pueda realizar la Tesorería, el cual deberá comprender:\n\na) Los intermediarios financieros a través de los cuales podrá realizar sus operaciones de inversión y las demás necesarias para alcanzar este fin;\n\nb) Los instrumentos financieros en los que pueda invertir; c) Los emisores de instrumentos financieros en los que pueda invertir;\n\nd) Los tipos de divisas en que pueda invertir;\n\ne) Los montos máximos que puedan mantenerse en el portafolio de inversiones por emisor, por tipo de instrumento y por divisa, y\n\nf) Los plazos a los que puedan invertirse los recursos y la vigencia promedio máxima que pueda tener el portafolio de inversiones;\n\nIII. Determinar las medidas que deben tomarse para la custodia de los valores;\n\nIV. Determinar las políticas para minimizar los riesgos relativos a las operaciones de inversión que realice la Tesorería;\n\nV. Determinar la forma en que habrán de valuarse las inversiones realizadas;\n\nVI. Autorizar los gastos, comisiones y honorarios que por la naturaleza de cada operación puedan generarse;\n\nVII. Establecer los términos en que se efectuará la administración de la liquidez;\n\nVIII. Determinar las políticas para la inversión de recursos objeto de depósitos constituidos ante la Tesorería a la vista o en títulos de crédito emitidos por el Gobierno Federal, y\n\nIX. Señalar los términos para las demás operaciones que deba realizar la Tesorería en materia de inversiones y administración de la liquidez.",
     "publication_date": "2017-06-30",
@@ -743,7 +752,8 @@
     "number": "36",
     "heading_context": {
       "title": "Título SEGUNDO",
-      "chapter": "Capítulo IV"
+      "chapter": "Capítulo IV",
+      "section": "Sección Tercera"
     },
     "text": "Para efectos del artículo 31, segundo párrafo de la Ley, dentro de las operaciones de inversión de disponibilidades que realice la Tesorería se encuentra la compra y venta de títulos de deuda gubernamental, certificados de depósito bancario y cualquier otra que autorice el Comité Técnico en las políticas y directrices.\n\nEn los contratos y demás actos jurídicos que sean necesarios para llevar a cabo las operaciones de inversión de las disponibilidades, la Tesorería deberá ser la única beneficiaria y procurar obtener las mejores condiciones de mercado en beneficio del Erario Federal.",
     "publication_date": "2017-06-30",
@@ -764,7 +774,8 @@
     "number": "37",
     "heading_context": {
       "title": "Título SEGUNDO",
-      "chapter": "Capítulo IV"
+      "chapter": "Capítulo IV",
+      "section": "Sección Tercera"
     },
     "text": "Para el ejercicio de la Función de tesorería a que se refiere esta Sección, la Tesorería será responsable de:\n\nI. Dar cumplimiento a las políticas y directrices que emita el Comité Técnico, y\n\nII. Dar a conocer al Comité Técnico en sus sesiones ordinarias, la cartera de valores integrantes de sus activos, así como elaborar y entregar los reportes e informes adicionales que, en su caso, requiera dicho Comité.",
     "publication_date": "2017-06-30",
@@ -785,9 +796,10 @@
     "number": "38",
     "heading_context": {
       "title": "Título SEGUNDO",
-      "chapter": "Capítulo IV"
+      "chapter": "Capítulo IV",
+      "section": "Sección Tercera"
     },
-    "text": "El Auxiliar que realice la Función de tesorería de inversión de las disponibilidades, será responsable de:\n\nI. Realizar la inversión en cumplimiento de las políticas y directrices que emita el Comité Técnico;\n\nII. Contar con una cuenta abierta en una institución autorizada para el depósito de valores; III. Dar a conocer a la Tesorería, cuando así se le solicite, el monto de los recursos invertidos, así como elaborar y entregar los reportes e informes que, en su caso, se le requiera, y\n\nIV. Celebrar y dar cumplimiento a los contratos o actos jurídicos necesarios para llevar a cabo las operaciones de inversión de las disponibilidades, de acuerdo con las políticas y directrices que emita el Comité Técnico.\n\nSección Cuarta De la Custodia y Administración de Valores o Documentos Representativos de Inversiones Financieras del Gobierno Federal",
+    "text": "El Auxiliar que realice la Función de tesorería de inversión de las disponibilidades, será responsable de:\n\nI. Realizar la inversión en cumplimiento de las políticas y directrices que emita el Comité Técnico;\n\nII. Contar con una cuenta abierta en una institución autorizada para el depósito de valores; III. Dar a conocer a la Tesorería, cuando así se le solicite, el monto de los recursos invertidos, así como elaborar y entregar los reportes e informes que, en su caso, se le requiera, y\n\nIV. Celebrar y dar cumplimiento a los contratos o actos jurídicos necesarios para llevar a cabo las operaciones de inversión de las disponibilidades, de acuerdo con las políticas y directrices que emita el Comité Técnico.",
     "publication_date": "2017-06-30",
     "effective_from": "2017-07-01",
     "effective_to": null,
@@ -806,7 +818,8 @@
     "number": "39",
     "heading_context": {
       "title": "Título SEGUNDO",
-      "chapter": "Capítulo IV"
+      "chapter": "Capítulo IV",
+      "section": "Sección Cuarta"
     },
     "text": "La custodia de valores o documentos que representen inversiones financieras del Gobierno Federal corresponde a las Dependencias coordinadoras de sector a partir de su emisión hasta su entrega a la Tesorería o a la institución para el depósito de valores autorizada conforme a la Ley del Mercado de Valores.\n\nLa custodia de los valores o documentos a que se refiere esta Sección se realizará por la Tesorería una vez que los reciba, en términos del artículo 16 de la Ley.",
     "publication_date": "2017-06-30",
@@ -827,7 +840,8 @@
     "number": "40",
     "heading_context": {
       "title": "Título SEGUNDO",
-      "chapter": "Capítulo IV"
+      "chapter": "Capítulo IV",
+      "section": "Sección Cuarta"
     },
     "text": "A falta de disposición legal expresa, los valores o documentos representativos de inversiones financieras del Gobierno Federal deberán emitirse o expedirse dentro del plazo de un año contado a partir de la fecha en que se acuerde la emisión o expedición correspondiente.\n\nEn los casos en que la legislación de la materia prevea la posibilidad de emitir certificados provisionales, las Dependencias coordinadoras de sector deberán entregar a la Tesorería o a la institución para el depósito de valores autorizada conforme a la Ley del Mercado de Valores dichos certificados dentro del plazo de cinco días hábiles posteriores a la expedición de los mismos.\n\nLas Dependencias coordinadoras de sector podrán requerir a las personas morales en las que el Gobierno Federal tenga participación en su capital social, la información o documentación que resulte necesaria para dar cumplimiento a su obligación prevista en el artículo 32, primer párrafo de la Ley.\n\nLa Tesorería podrá requerir a las Dependencias coordinadoras de sector que no hayan entregado los valores o documentación conforme a lo previsto en el primer párrafo del artículo 32 de la Ley, la entrega de dichos valores y documentación, para lo cual les concederá un plazo de quince días hábiles contado a partir de la fecha en que surta efectos la notificación del requerimiento correspondiente. Transcurrido dicho plazo sin que los valores o documentación se entreguen, la Tesorería comunicará al órgano interno de control o su equivalente en la Dependencia coordinadora de sector de que se trate la infracción al artículo 32 de la Ley, para la aplicación de las sanciones correspondientes, sin perjuicio de que se efectúe la entrega de los valores o documentos a que se refiere este artículo.",
     "publication_date": "2017-06-30",
@@ -848,7 +862,8 @@
     "number": "41",
     "heading_context": {
       "title": "Título SEGUNDO",
-      "chapter": "Capítulo IV"
+      "chapter": "Capítulo IV",
+      "section": "Sección Cuarta"
     },
     "text": "Las Dependencias coordinadoras de sector, una vez que se expidan los valores o documentos a que se refiere esta Sección y previamente a su entrega a la Tesorería o a la institución para el depósito de valores autorizada conforme a la Ley del Mercado de Valores, deberán registrar en el sistema electrónico a que se refiere el artículo 32 de la Ley, al menos la información siguiente:\n\nI. Denominación o razón social de la persona moral en la que el Gobierno Federal tenga participación;\n\nII. Nombre de la Dependencia coordinadora de sector;\n\nIII. Valor nominal total del capital social o su equivalente de la persona moral; IV. Valor nominal total de la inversión financiera del Gobierno Federal en la persona moral;\n\nV. Número total de valores o documentos que representen la inversión financiera del Gobierno Federal en la persona moral;\n\nVI. Tipo de emisión, provisional o definitiva, del valor o documento que represente la inversión financiera del Gobierno Federal en la persona moral;\n\nVII. Tipo de cada valor o documento que represente la inversión financiera del Gobierno Federal en la persona moral;\n\nVIII. Valor nominal de cada uno de los valores o documentos que representen la inversión financiera del Gobierno Federal en la persona moral;\n\nIX. Fecha de la emisión o expedición de cada valor o documento que represente la inversión financiera del Gobierno Federal en la persona moral;\n\nX. Valor de la participación patrimonial del Gobierno Federal determinado con base en los estados financieros aprobados del último ejercicio social de la persona moral de que se trate, y\n\nXI. Nombre de la institución para el depósito de valores autorizada conforme a la Ley del Mercado de Valores en la que se depositarán los valores y documentos a que se refiere esta Sección, así como los datos que identifiquen el certificado de custodia respectivo, cuando dichos valores o documentos no estarán en custodia de la Tesorería.\n\nLas Dependencias coordinadoras de sector deberán mantener actualizada la información del registro a que se refiere este artículo.\n\nLa Tesorería podrá solicitar información a las Dependencias coordinadoras de sector respecto de las inversiones financieras del Gobierno Federal en las personas morales a que se refiere el artículo 32 de la Ley.",
     "publication_date": "2017-06-30",
@@ -869,7 +884,8 @@
     "number": "42",
     "heading_context": {
       "title": "Título SEGUNDO",
-      "chapter": "Capítulo IV"
+      "chapter": "Capítulo IV",
+      "section": "Sección Cuarta"
     },
     "text": "La entrega a la Tesorería de los valores o documentos representativos de inversiones financieras del Gobierno Federal en personas morales a que se refiere el artículo 32 de la Ley, se formalizará mediante acta suscrita por los servidores públicos competentes de las Dependencias coordinadoras de sector y de la Tesorería.",
     "publication_date": "2017-06-30",
@@ -890,7 +906,8 @@
     "number": "43",
     "heading_context": {
       "title": "Título SEGUNDO",
-      "chapter": "Capítulo IV"
+      "chapter": "Capítulo IV",
+      "section": "Sección Cuarta"
     },
     "text": "Para efectos del artículo 33, segundo párrafo de la Ley, la Dependencia coordinadora de sector deberá designar a un servidor público que tendrá acceso al sistema electrónico de información a que se refiere el artículo 32 de la Ley.\n\nEl servidor público designado en términos del párrafo anterior, podrá solicitar la expedición del certificado de tenencia en los plazos y términos señalados en esta Sección, el cual será remitido por la Tesorería en formato digital a través de dicho sistema.",
     "publication_date": "2017-06-30",
@@ -911,7 +928,8 @@
     "number": "44",
     "heading_context": {
       "title": "Título SEGUNDO",
-      "chapter": "Capítulo IV"
+      "chapter": "Capítulo IV",
+      "section": "Sección Cuarta"
     },
     "text": "Para efectos del artículo 33 de la Ley, la Dependencia coordinadora de sector deberá comunicar a la Tesorería la designación del representante del Gobierno Federal y solicitar la expedición del certificado de tenencia en términos del artículo anterior, cuando menos con cinco días hábiles de anticipación a la celebración de la asamblea de accionistas, de socios, de asociados o su equivalente de la persona moral de que se trate.",
     "publication_date": "2017-06-30",
@@ -932,7 +950,8 @@
     "number": "45",
     "heading_context": {
       "title": "Título SEGUNDO",
-      "chapter": "Capítulo IV"
+      "chapter": "Capítulo IV",
+      "section": "Sección Cuarta"
     },
     "text": "Para efectos del artículo 34 de la Ley, el representante del Gobierno Federal comunicará a la Tesorería los casos en que se involucre la toma de decisión sobre derechos patrimoniales cuando menos con quince días hábiles de anticipación a la celebración de la asamblea de accionistas, de socios, de asociados o su equivalente de la persona moral de que se trate, para que la Tesorería ejerza sus facultades, salvo cuando se trate del incremento de capital social, en cuyo caso el plazo será cuando menos de cinco días hábiles y se estará a la autorización prevista en las disposiciones jurídicas aplicables en materia presupuestaria.\n\nTratándose de las instituciones de banca de desarrollo, los servidores públicos de la Secretaría que, en términos de las respectivas leyes orgánicas y disposiciones jurídicas aplicables, funjan como representantes del Gobierno Federal ante los órganos de gobierno correspondientes, comunicarán anualmente a la Tesorería el calendario de sesiones de los mismos y ésta tendrá por habilitados a dichos servidores públicos para que ejerzan los derechos patrimoniales correspondientes, aún en sesiones extraordinarias, sin que resulte aplicable lo dispuesto en el artículo siguiente. Lo anterior, sin perjuicio de que dichos representantes deberán registrar lo conducente en el sistema electrónico a que se refiere el artículo 32 de la Ley.",
     "publication_date": "2017-06-30",
@@ -953,7 +972,8 @@
     "number": "46",
     "heading_context": {
       "title": "Título SEGUNDO",
-      "chapter": "Capítulo IV"
+      "chapter": "Capítulo IV",
+      "section": "Sección Cuarta"
     },
     "text": "Para efectos del artículo 35 de la Ley, la Tesorería ejercerá las facultades que impliquen la titularidad de las acciones, partes sociales o los documentos que acrediten los derechos patrimoniales de los valores a que se refiere la presente Sección, previo dictamen favorable de la Dependencia coordinadora de sector, el cual se remitirá a la Tesorería en la comunicación a que se refiere el artículo anterior.\n\nEl dictamen a que refiere este artículo se emitirá por el Oficial Mayor o su equivalente de la Dependencia coordinadora de sector o, en su caso, a través de la unidad administrativa de ésta que se establezca en su reglamento interior y deberá contener la viabilidad jurídica y financiera respecto de la toma de decisión sobre los derechos patrimoniales de que se trate.\n\nCon la presentación del dictamen, la Dependencia coordinadora de sector, solicitará a la Tesorería la designación del representante ante la asamblea de accionistas, de socios, de asociados o su equivalente de la persona moral de que se trate. La Tesorería podrá designar a su representante o habilitar al representante del Gobierno Federal que ejerza las facultades que impliquen la titularidad de las acciones, partes sociales o documentos que acrediten los derechos corporativos, para que ejerza los derechos patrimoniales conforme a las instrucciones que le dé a conocer la propia Tesorería.\n\nLo previsto en este artículo no será aplicable en los casos de toma de decisión sobre el incremento de capital social.",
     "publication_date": "2017-06-30",
@@ -974,7 +994,8 @@
     "number": "47",
     "heading_context": {
       "title": "Título SEGUNDO",
-      "chapter": "Capítulo IV"
+      "chapter": "Capítulo IV",
+      "section": "Sección Cuarta"
     },
     "text": "Para efectos del artículo 36 de la Ley, los intereses se causarán conforme a la tasa anual de interés que resulte del promedio aritmético de las tasas de rendimiento equivalentes a las tasas de descuento de los Certificados de la Tesorería de la Federación a noventa y un días en colocación primaria que dé a conocer el Banco de México dentro del período que dure la falta de Entero.\n\nSi durante el período que comprende la falta de Entero el Banco de México no da a conocer la tasa de interés a que se refiere el párrafo anterior, se utilizará la que resulte del promedio aritmético de las tasas de rendimiento equivalentes a las tasas de descuento de los Certificados de la Tesorería de la Federación a noventa y un días en colocación primaria, que haya dado a conocer el Banco de México en el mes inmediato anterior al de la fecha en que se originó la falta de Entero.\n\nEn caso de que por cualquier motivo se deje de publicar la tasa de descuento de los Certificados de la Tesorería de la Federación a noventa y un días en colocación primaria, se utilizará la que la sustituya.",
     "publication_date": "2017-06-30",
@@ -995,7 +1016,8 @@
     "number": "48",
     "heading_context": {
       "title": "Título SEGUNDO",
-      "chapter": "Capítulo IV"
+      "chapter": "Capítulo IV",
+      "section": "Sección Cuarta"
     },
     "text": "En los casos de transmisión de valores o documentos que representen inversiones financieras del Gobierno Federal, la Dependencia coordinadora de sector efectuará dicha transmisión conforme a la ley de la materia, para lo cual solicitará los valores o documentos correspondientes a la Tesorería.",
     "publication_date": "2017-06-30",
@@ -1016,7 +1038,8 @@
     "number": "49",
     "heading_context": {
       "title": "Título SEGUNDO",
-      "chapter": "Capítulo V"
+      "chapter": "Capítulo V",
+      "section": "Sección Primera"
     },
     "text": "Para efectos del artículo 38 de la Ley, corresponde a la Tesorería efectuar los pagos siguientes:\n\nI. Por obligaciones del Gobierno Federal con cargo al Presupuesto de Egresos de la Federación y las que no lo impactan, inclusive el pago de los recursos presupuestarios a los Poderes Legislativo y Judicial y órganos constitucionales autónomos de la Federación, y\n\nII. A cargo de un tercero que previamente haya suscrito con la Tesorería un convenio para la realización de los pagos o que por disposición legal así se establezca.",
     "publication_date": "2017-06-30",
@@ -1037,7 +1060,8 @@
     "number": "50",
     "heading_context": {
       "title": "Título SEGUNDO",
-      "chapter": "Capítulo V"
+      "chapter": "Capítulo V",
+      "section": "Sección Primera"
     },
     "text": "Las instrucciones de pago a la Tesorería se realizarán a través del sistema electrónico de pago que corresponda, al cual se tendrá acceso mediante la utilización de medios de identificación electrónica a que se refiere el artículo 12 de este Reglamento.",
     "publication_date": "2017-06-30",
@@ -1058,7 +1082,8 @@
     "number": "51",
     "heading_context": {
       "title": "Título SEGUNDO",
-      "chapter": "Capítulo V"
+      "chapter": "Capítulo V",
+      "section": "Sección Primera"
     },
     "text": "La Tesorería programará y gestionará, en función de las disponibilidades, las instrucciones de pago que se registren e instruyan en el sistema electrónico de pago que corresponda.\n\nLas instrucciones de pago se documentarán en el sistema electrónico de pago mediante:\n\nI. Acuerdos de ministración a que se refiere la Ley Federal de Presupuesto y Responsabilidad Hacendaria y su Reglamento, y\n\nII. Cuentas por liquidar certificadas a que se refiere el artículo 52 de este Reglamento.",
     "publication_date": "2017-06-30",
@@ -1079,7 +1104,8 @@
     "number": "52",
     "heading_context": {
       "title": "Título SEGUNDO",
-      "chapter": "Capítulo V"
+      "chapter": "Capítulo V",
+      "section": "Sección Primera"
     },
     "text": "Las cuentas por liquidar certificadas que se registren en el sistema electrónico de pago serán de acuerdo a:\n\nI. Los recursos que afectan:\n\na) Presupuestarias, cuando afectan el Presupuesto de Egresos de la Federación en el ejercicio fiscal que corresponda y las registradas para operarse mediante el mecanismo de pasivo circulante, de conformidad con las disposiciones presupuestarias, o\n\nb) No presupuestarias, cuando no forman parte de la Ley de Ingresos de la Federación y del Presupuesto de Egresos de la Federación del ejercicio fiscal que corresponda, entre otros, por acuerdos de ministración, anticipos de participaciones, previstos en las disposiciones de la Ley de Coordinación Fiscal, la devolución de cantidades percibidas indebidamente por el Gobierno Federal que procedan de conformidad con las resoluciones de la autoridad competente, o cuando se cumpla con obligaciones a cargo de terceros. En los casos a que se refiere el párrafo anterior, la autoridad competente o el tercero de que se trate, deberá señalar la fuente de los recursos con los cuales se efectuará el pago;\n\nII. Al Flujo de Efectivo:\n\na) Efectivas, cuando existe salida de recursos del Gobierno Federal o de los terceros, o\n\nb) Compensadas, cuando su liquidación solo genera un registro presupuestal y contable o solo contable, y\n\nIII. Su denominación:\n\na) En moneda nacional o extranjera, o\n\nb) En unidades de inversión o cualquier otra unidad de cuenta.",
     "publication_date": "2017-06-30",
@@ -1100,7 +1126,8 @@
     "number": "53",
     "heading_context": {
       "title": "Título SEGUNDO",
-      "chapter": "Capítulo V"
+      "chapter": "Capítulo V",
+      "section": "Sección Primera"
     },
     "text": "Los obligados al pago serán responsables de:\n\nI. La información contenida en la instrucción de pago y su seguimiento a través del sistema electrónico de pago;\n\nII. Observar las disposiciones generales que para tal efecto emita la Tesorería relativas a la función de pago, y\n\nIII. Cancelar las instrucciones de pago en el sistema electrónico de pago, observando, en su caso, las disposiciones jurídicas en materia presupuestaria o contable.",
     "publication_date": "2017-06-30",
@@ -1121,7 +1148,8 @@
     "number": "54",
     "heading_context": {
       "title": "Título SEGUNDO",
-      "chapter": "Capítulo V"
+      "chapter": "Capítulo V",
+      "section": "Sección Primera"
     },
     "text": "La Tesorería podrá realizar la función de pago para cubrir, por cuenta y orden de terceros que constituyan depósitos a que se refiere el artículo 29 de la Ley, las obligaciones que les corresponda cumplir, siempre y cuando existan recursos suficientes de dichos terceros para tal fin.",
     "publication_date": "2017-06-30",
@@ -1142,7 +1170,8 @@
     "number": "55",
     "heading_context": {
       "title": "Título SEGUNDO",
-      "chapter": "Capítulo V"
+      "chapter": "Capítulo V",
+      "section": "Sección Primera"
     },
     "text": "Para ejecutar la función de pago, la Tesorería podrá utilizar los servicios de tesorería que preste el Banco de México al Gobierno Federal, en los términos que señalen las disposiciones que para tal efecto emita dicho organismo, la Ley, este Reglamento y demás disposiciones jurídicas aplicables o, contratar los servicios bancarios y financieros necesarios para ejercer de manera eficaz y eficiente dicha función de pago.",
     "publication_date": "2017-06-30",
@@ -1163,7 +1192,8 @@
     "number": "56",
     "heading_context": {
       "title": "Título SEGUNDO",
-      "chapter": "Capítulo V"
+      "chapter": "Capítulo V",
+      "section": "Sección Primera"
     },
     "text": "La fecha de pago de las cuentas por liquidar certificadas será conforme a las disponibilidades y de acuerdo a lo siguiente:\n\nI. En territorio nacional, en un plazo de tres a cinco días hábiles bancarios posteriores a la fecha de registro en el sistema electrónico de pago, salvo que el obligado al pago solicite una fecha posterior, y\n\nII. En el extranjero, el plazo a que se refiere el párrafo anterior se podrá extender de acuerdo a los calendarios y sistemas de pago internacionales.",
     "publication_date": "2017-06-30",
@@ -1184,7 +1214,8 @@
     "number": "57",
     "heading_context": {
       "title": "Título SEGUNDO",
-      "chapter": "Capítulo V"
+      "chapter": "Capítulo V",
+      "section": "Sección Primera"
     },
     "text": "Para el pago de contribuciones, productos y aprovechamientos federales a cargo de las Dependencias y Entidades, éstas deberán registrar su declaración fiscal en el sistema electrónico a cargo de la Tesorería establecido para tales efectos y expedir cuentas por liquidar certificadas compensadas a favor de la Tesorería, las cuales deberán registrarse en dicho sistema para su liquidación.",
     "publication_date": "2017-06-30",
@@ -1205,7 +1236,8 @@
     "number": "58",
     "heading_context": {
       "title": "Título SEGUNDO",
-      "chapter": "Capítulo V"
+      "chapter": "Capítulo V",
+      "section": "Sección Primera"
     },
     "text": "Los pagos que deban efectuarse en moneda extranjera, se cubrirán por conducto de la Tesorería a través de Banco de México o de instituciones de crédito que al efecto se contraten, así como de sus corresponsales en el extranjero, mediante transferencias electrónicas de fondos para depósito en la cuenta bancaria del beneficiario.\n\nPara efectos del pago a que se refiere el párrafo anterior, el tipo de cambio aplicable será el que el Banco de México publique en el Diario Oficial de la Federación para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana, el día anterior a la fecha de pago.\n\nLos días en que el Banco de México no publique el tipo de cambio a que se refiere el párrafo anterior, se aplicará el último tipo de cambio publicado con anterioridad al día en que se lleve a cabo el pago.\n\nEl obligado al pago deberá regularizar los saldos que resulten por diferencias en el tipo de cambio conforme a las disposiciones jurídicas aplicables.",
     "publication_date": "2017-06-30",
@@ -1226,7 +1258,8 @@
     "number": "59",
     "heading_context": {
       "title": "Título SEGUNDO",
-      "chapter": "Capítulo V"
+      "chapter": "Capítulo V",
+      "section": "Sección Primera"
     },
     "text": "Para efectos del artículo 41 de la Ley, la autoridad que instruyó el pago de cantidades improcedentes o en exceso, deberá requerir por escrito al receptor o beneficiario de los mismos, el Entero de dichas cantidades por concepto de devolución o reintegro.\n\nEl Entero a que se refiere el párrafo anterior deberá realizarse, en su caso, simultáneamente con los rendimientos financieros que correspondan, en los términos siguientes:\n\nI. Tratándose de devolución, la autoridad que instruyó el pago señalará por separado la cantidad correspondiente de la devolución y, en su caso, la de los rendimientos financieros, así como el mecanismo con que se deberá efectuar dicha devolución, y\n\nII. Tratándose de reintegro de recursos del Presupuesto de Egresos de la Federación, éste deberá realizarse conforme a la Ley Federal de Presupuesto y Responsabilidad Hacendaria y demás disposiciones que de ella emanen.\n\nEn caso de que el receptor o beneficiario sea servidor público y no realice el Entero a que se refiere este artículo en el plazo establecido en el artículo 41 de la Ley, se podrán realizar descuentos a su salario como servidor público por la autoridad que instruyó el pago al mismo. Dichos descuentos no podrán exceder del porcentaje que establezcan las disposiciones jurídicas aplicables.\n\nLa autoridad competente fincará las responsabilidades e impondrá las sanciones correspondientes a los servidores públicos que hayan incurrido en actos u omisiones determinantes del pago improcedente o en exceso, en términos de la legislación federal en materia de responsabilidades administrativas de los servidores públicos.",
     "publication_date": "2017-06-30",
@@ -1247,9 +1280,10 @@
     "number": "60",
     "heading_context": {
       "title": "Título SEGUNDO",
-      "chapter": "Capítulo V"
+      "chapter": "Capítulo V",
+      "section": "Sección Primera"
     },
-    "text": "Los rendimientos financieros a que se refiere el artículo anterior se calcularán conforme a la tasa ponderada de fondeo bancario dada a conocer diariamente por el Banco de México en su página de Internet durante el periodo que dure la falta de devolución o reintegro. En caso de que por cualquier motivo se deje de publicar dicha tasa, se utilizará la tasa de interés obtenida por la Tesorería en su Cuenta Corriente en el Banco de México.\n\nEl monto de los rendimientos financieros se determinará dividiendo la tasa anual a que se refiere el párrafo anterior entre trescientos sesenta, y el resultado hasta la centésima, se multiplicará por el número total de días transcurridos desde el día siguiente al vencimiento del plazo para realizar la devolución o reintegro a que se refiere el artículo 41 de la Ley hasta el día en que se realice la devolución o reintegro. El resultado obtenido se multiplicará por el importe no devuelto o reintegrado oportunamente.\n\nSección Segunda De la Compensación",
+    "text": "Los rendimientos financieros a que se refiere el artículo anterior se calcularán conforme a la tasa ponderada de fondeo bancario dada a conocer diariamente por el Banco de México en su página de Internet durante el periodo que dure la falta de devolución o reintegro. En caso de que por cualquier motivo se deje de publicar dicha tasa, se utilizará la tasa de interés obtenida por la Tesorería en su Cuenta Corriente en el Banco de México.\n\nEl monto de los rendimientos financieros se determinará dividiendo la tasa anual a que se refiere el párrafo anterior entre trescientos sesenta, y el resultado hasta la centésima, se multiplicará por el número total de días transcurridos desde el día siguiente al vencimiento del plazo para realizar la devolución o reintegro a que se refiere el artículo 41 de la Ley hasta el día en que se realice la devolución o reintegro. El resultado obtenido se multiplicará por el importe no devuelto o reintegrado oportunamente.",
     "publication_date": "2017-06-30",
     "effective_from": "2017-07-01",
     "effective_to": null,
@@ -1268,7 +1302,8 @@
     "number": "61",
     "heading_context": {
       "title": "Título SEGUNDO",
-      "chapter": "Capítulo V"
+      "chapter": "Capítulo V",
+      "section": "Sección Segunda"
     },
     "text": "Las Dependencias y Entidades no podrán efectuar el pago de contribuciones, productos y aprovechamientos federales en el sistema de compensación.",
     "publication_date": "2017-06-30",
@@ -1289,7 +1324,8 @@
     "number": "62",
     "heading_context": {
       "title": "Título SEGUNDO",
-      "chapter": "Capítulo V"
+      "chapter": "Capítulo V",
+      "section": "Sección Segunda"
     },
     "text": "Los participantes del sistema de compensación comunicarán a la Tesorería, en términos de las disposiciones generales que para tal efecto emita ésta, el nombre y cargo de los servidores públicos autorizados para suscribir los adeudos.",
     "publication_date": "2017-06-30",
@@ -1310,7 +1346,8 @@
     "number": "63",
     "heading_context": {
       "title": "Título SEGUNDO",
-      "chapter": "Capítulo V"
+      "chapter": "Capítulo V",
+      "section": "Sección Segunda"
     },
     "text": "Los participantes del sistema de compensación estarán obligados a registrar todos los adeudos recíprocos, líquidos y exigibles con otros participantes.\n\nUna vez registrados los adeudos a que se refiere el párrafo anterior, los deudores y acreedores los validarán y aceptarán o rechazarán a través del sistema de compensación, de acuerdo con los requisitos establecidos en las disposiciones generales que para tal efecto emita la Tesorería.",
     "publication_date": "2017-06-30",
@@ -1331,7 +1368,8 @@
     "number": "64",
     "heading_context": {
       "title": "Título SEGUNDO",
-      "chapter": "Capítulo V"
+      "chapter": "Capítulo V",
+      "section": "Sección Segunda"
     },
     "text": "Los adeudos que sean aceptados a través del sistema de compensación por los deudores y acreedores recíprocos se compensarán, por lo que se extinguirán hasta la cantidad que importe el adeudo del monto menor.",
     "publication_date": "2017-06-30",
@@ -1352,7 +1390,8 @@
     "number": "65",
     "heading_context": {
       "title": "Título SEGUNDO",
-      "chapter": "Capítulo V"
+      "chapter": "Capítulo V",
+      "section": "Sección Segunda"
     },
     "text": "Concluida la operación compensatoria, los participantes podrán obtener a través del sistema de compensación el resultado de adeudos y de las diferencias netas pendientes de pago para que el deudor las liquide conforme a las disposiciones jurídicas aplicables.",
     "publication_date": "2017-06-30",
@@ -1373,7 +1412,8 @@
     "number": "66",
     "heading_context": {
       "title": "Título SEGUNDO",
-      "chapter": "Capítulo V"
+      "chapter": "Capítulo V",
+      "section": "Sección Segunda"
     },
     "text": "Para efectos del artículo 43 de la Ley, las participaciones federales incluirán los ajustes, anticipos y demás conceptos que correspondan conforme a la Ley de Coordinación Fiscal.",
     "publication_date": "2017-06-30",
@@ -1394,7 +1434,8 @@
     "number": "67",
     "heading_context": {
       "title": "Título SEGUNDO",
-      "chapter": "Capítulo V"
+      "chapter": "Capítulo V",
+      "section": "Sección Segunda"
     },
     "text": "Si del procedimiento de compensación a que se refiere el artículo 43 de la Ley resultan diferencias a cargo de la Federación, la Tesorería realizará los pagos correspondientes de participaciones federales a las Entidades Federativas o sus municipios de conformidad con la Ley de Coordinación Fiscal y los convenios de colaboración administrativa en materia fiscal federal.\n\nTratándose de diferencias a cargo de las Entidades Federativas o sus municipios, éstos deberán concentrarlas en la cuenta bancaria a nombre de la Tesorería que ésta les señale, para lo cual deberán de solicitarle la línea de captura respectiva de conformidad con las disposiciones jurídicas aplicables.",
     "publication_date": "2017-06-30",
@@ -1415,7 +1456,8 @@
     "number": "68",
     "heading_context": {
       "title": "Título SEGUNDO",
-      "chapter": "Capítulo V"
+      "chapter": "Capítulo V",
+      "section": "Sección Segunda"
     },
     "text": "La Tesorería informará a la unidad administrativa de la Secretaría facultada para calcular y liquidar las participaciones federales que correspondan a las Entidades Federativas y sus municipios, los importes no concentrados a la Tesorería en términos del artículo anterior, a efecto de que en su oportunidad, se descuenten dichos importes del subsecuente cálculo que les corresponda percibir por concepto de participaciones federales.\n\nPara efecto de lo anterior, la unidad administrativa competente de la Secretaría presentará ante la Tesorería las cuentas por liquidar certificadas por cada adeudo a la Federación, incluyendo, en su caso, las actualizaciones y los intereses a la tasa de recargos que correspondan conforme al artículo 15 de la Ley de Coordinación Fiscal y, respecto del saldo a distribuir, las cuentas por liquidar certificadas se presentarán por el importe exacto a depositar en las cuentas bancarias registradas por las Entidades Federativas.",
     "publication_date": "2017-06-30",
@@ -2488,7 +2530,7 @@
       "title": null,
       "chapter": null
     },
-    "text": "Los asuntos que se encuentren en trámite o pendientes de resolución a la fecha de entrada en vigor del presente Reglamento, deberán sustanciarse y concluirse de conformidad con las disposiciones vigentes al momento de su inicio o tramitación.\n\nDado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veintiocho de junio de dos mil diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Antonio Meade Kuribreña.- Rúbrica.",
+    "text": "Los asuntos que se encuentren en trámite o pendientes de resolución a la fecha de entrada en vigor del presente Reglamento, deberán sustanciarse y concluirse de conformidad con las disposiciones vigentes al momento de su inicio o tramitación.",
     "publication_date": "2017-06-30",
     "effective_from": null,
     "effective_to": null,

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Tercero · Capítulo V
+
 # Artículo 515
 
 Son causas de revocación del [Certificado de Competencia](articulo-10.md):
@@ -28,5 +30,3 @@ IV. Desempeñar cualquier empleo, cargo o comisión, directo o indirecto, en las
 La revocación del Certificado de Competencia se tramitará con sujeción al procedimiento establecido en la Ley Federal de Procedimiento Administrativo, y el Piloto de Puerto sólo será separado de sus funciones cuando dicha revocación cause estado.
 
 No obstante lo anterior, en el supuesto previsto en la fracción III de este artículo, la [Dirección General](articulo-10.md) podrá suspender la actividad del piloto como medida de seguridad para salvaguardar la seguridad pública de las Embarcaciones e instalaciones portuarias en tanto se trámite y resuelva el procedimiento.
-
-Sección VI De la Operación del Pilotaje

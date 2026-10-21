@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSPCAPF.pdf
 source_sha256: b4a968d8e8c138ac2069f6afa0dc622178328df24f59cf58eddbab8efe4a7eff
 ---
 
+> Capítulo Décimo
+
 # Artículo 31
 
 El reclutamiento de aspirantes a ocupar los puestos del Sistema se llevará a cabo por conducto de las [DGRH](articulo-2.md). Éstas deberán implementar los mecanismos necesarios para promover la más amplia participación y atraer al mayor número de participantes en las convocatorias, de conformidad con las disposiciones aplicables.

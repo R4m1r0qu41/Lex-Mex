@@ -13,10 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPPI.pdf
 source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 ---
 
-> Título QUINTO
+> Título QUINTO · Capítulo I
 
 # Artículo 272
 
 Además de las publicaciones previstas en este Título, se publicarán en la [Gaceta](articulo-4.md) las declaraciones y autorizaciones que otorgue el [Instituto](articulo-4.md), así como cualquier acto que dé por terminados los efectos de los derechos otorgados en materia de denominaciones de origen o indicaciones geográficas.
-
-Capítulo II Del Trámite de la Declaración de Protección

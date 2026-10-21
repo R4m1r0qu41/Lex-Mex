@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGN_111220.pdf
 source_sha256: ea6e39560929f2e1998b2dabe0852fde0d684c69e5be49aab7f33433299bbeb0
 ---
 
-> Título SEGUNDO
+> Título SEGUNDO · Capítulo I
 
 # Artículo 18
 
@@ -122,5 +122,3 @@ Los servicios técnicos y administrativos a que se refiere el artículo [21](../
 Asimismo, la Institución contará con los directores de área, subdirectores de área, jefes de departamento y demás personal que se requiera para el desarrollo de sus funciones, de conformidad con el presupuesto autorizado.
 
 La Institución, contará con un Órgano Interno de Control, que se regirá conforme a lo dispuesto en el artículo 66 del Reglamento.
-
-Capítulo II Del Comandante

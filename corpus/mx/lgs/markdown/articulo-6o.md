@@ -33,7 +33,9 @@ V. Apoyar el mejoramiento de las condiciones sanitarias del medio ambiente que p
 
 VI. Impulsar un sistema racional de administración y desarrollo de los recursos humanos para mejorar la salud; Fracción reformada DOF 27-05-1987
 
-VI Bis. Promover el respeto, conocimiento y desarrollo de la medicina tradicional indígena y su práctica en condiciones dignas, incluida la partería tradicional; Fracción adicionada DOF 19-09-2006. Reformada DOF 26-03-2024 VII. Coadyuvar a la adopción de hábitos, costumbres y actitudes relacionados con la salud y con el uso de los servicios que presten para su protección; Fracción reformada DOF 27-05-1987, 15-01-2013, 26-03-2024
+VI Bis. Promover el respeto, conocimiento y desarrollo de la medicina tradicional indígena y su práctica en condiciones dignas, incluida la partería tradicional; Fracción adicionada DOF 19-09-2006. Reformada DOF 26-03-2024
+
+VII. Coadyuvar a la adopción de hábitos, costumbres y actitudes relacionados con la salud y con el uso de los servicios que presten para su protección; Fracción reformada DOF 27-05-1987, 15-01-2013, 26-03-2024
 
 VIII. Promover un sistema de fomento sanitario que coadyuve al desarrollo de productos y servicios que no sean nocivos para la salud; Fracción adicionada DOF 27-05-1987. Reformada DOF 15-01-2013, 14-10-2015
 

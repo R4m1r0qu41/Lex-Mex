@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPPI.pdf
 source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 ---
 
-> Título PRIMERO
+> Título PRIMERO · Capítulo I
 
 # Artículo 5
 
@@ -45,7 +45,9 @@ XII.- Actuar como depositario cuando se le designe conforme a esta Ley y, en su 
 
 XIII.- Sustanciar y resolver los recursos administrativos que se interpongan contra las resoluciones que emita, conforme a la competencia de las leyes cuya aplicación le corresponde;
 
-XIV.- Fungir como árbitro en la resolución de controversias relacionadas con la competencia de las leyes cuya aplicación le corresponde, cuando las personas involucradas la designen expresamente como tal, de conformidad con las disposiciones contenidas en el Código de Comercio; Fracción reformada DOF 03-04-2026 XV.- Publicar en la [Gaceta](articulo-4.md) los actos a los que se refiere esta Ley;
+XIV.- Fungir como árbitro en la resolución de controversias relacionadas con la competencia de las leyes cuya aplicación le corresponde, cuando las personas involucradas la designen expresamente como tal, de conformidad con las disposiciones contenidas en el Código de Comercio; Fracción reformada DOF 03-04-2026
+
+XV.- Publicar en la [Gaceta](articulo-4.md) los actos a los que se refiere esta Ley;
 
 XVI.- Difundir la información derivada de las patentes, registros, publicaciones, declaratorias, declaraciones, autorizaciones y cualquier otra relacionada con las leyes cuya aplicación le corresponde, asegurando que sea accesible y se promueva la participación de mujeres y otros grupos en situación de vulnerabilidad o exclusión, en el uso y aprovechamiento de dicha información; Fracción reformada DOF 15-01-2026
 

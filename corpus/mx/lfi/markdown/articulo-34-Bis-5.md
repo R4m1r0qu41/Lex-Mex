@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf
 source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 ---
 
+> Título III · Capítulo Primero
+
 # Artículo 34 Bis 5
 
 Las sociedades a que se refiere el artículo [33](articulo-33.md) de esta Ley, previo al inicio de operaciones, deberán acreditar a la [Comisión](articulo-2.md) que cumplen con los requisitos siguientes:

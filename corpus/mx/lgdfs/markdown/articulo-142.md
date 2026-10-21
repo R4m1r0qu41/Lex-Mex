@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDFS.pdf
 source_sha256: 2c75fd0eab3245aed43a4e1230dcd142b48959a1df09bdd4e70684935a505dd4
 ---
 
-> Título SEXTO
+> Título SEXTO · Capítulo III
 
 # Artículo 142
 
@@ -24,5 +24,3 @@ La Comisión coordinará junto con la Secretaría de Comunicaciones y Transporte
 Las autoridades competentes vigilarán que la construcción de redes de electricidad, obras hidráulicas y caminos en terrenos forestales cause el menor daño a los ecosistemas forestales, respetando la densidad de la red de caminos y brechas forestales.
 
 Las especificaciones para mitigar los impactos se establecerán en las Normas Oficiales Mexicanas correspondientes.
-
-Capítulo IV De la Investigación Forestal

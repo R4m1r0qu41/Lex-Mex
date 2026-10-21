@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGDFS.pdf
 source_sha256: a4dbcdb94d780332f0bda62246611dab5972e75bcb01df293df93a95cdd03530
 ---
 
-> Título SEGUNDO
+> Título SEGUNDO · Capítulo I
 
 # Artículo 12
 
@@ -42,5 +42,3 @@ IX. Certificados fitosanitarios de exportación de Materias primas, Productos y 
 X. Los demás que, conforme a la legislación aplicable, sea considerada información pública.
 
 La Comisión podrá tener acceso en términos de las disposiciones que para tal efecto expida la Secretaría, al componente de gestión forestal para agilizar el intercambio de información y realizar consultas. Para el manejo de la información la Secretaría y la Comisión se sujetarán en todo momento a la legislación en materia de transparencia y acceso a la información y protección de datos personales que resulte aplicable.
-
-Capítulo II Inventario Nacional Forestal y de Suelos

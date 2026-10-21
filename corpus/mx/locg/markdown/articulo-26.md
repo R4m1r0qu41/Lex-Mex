@@ -29,6 +29,8 @@ b) Las normas acordadas por los miembros del Grupo para su funcionamiento intern
 
 c) Nombre del diputado que haya sido designado como Coordinador del Grupo Parlamentario y los nombres de quienes desempeñen otras actividades directivas.
 
-4. En la primera sesión de cada periodo ordinario, cada grupo parlamentario presentará la agenda legislativa que abordará durante el transcurso de éste. Numeral reformado DOF 30-03-2006 5. El Secretario General hará publicar los documentos constitutivos de los grupos parlamentarios y, al inicio de cada periodo de sesiones, la agenda legislativa de los temas que cada uno pretenda abordar durante el transcurso de éste. Numeral adicionado DOF 30-03-2006
+4. En la primera sesión de cada periodo ordinario, cada grupo parlamentario presentará la agenda legislativa que abordará durante el transcurso de éste. Numeral reformado DOF 30-03-2006
+
+5. El Secretario General hará publicar los documentos constitutivos de los grupos parlamentarios y, al inicio de cada periodo de sesiones, la agenda legislativa de los temas que cada uno pretenda abordar durante el transcurso de éste. Numeral adicionado DOF 30-03-2006
 
 6. Los grupos parlamentarios con base en la similitud de sus agendas o en la comunión de sus principios ideológicos, podrán formular acuerdos que se traduzcan en la conformación de mayorías parlamentarias. Numeral adicionado DOF 30-03-2006

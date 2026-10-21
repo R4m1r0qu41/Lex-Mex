@@ -22,5 +22,3 @@ El tercerista podrá presentar la demanda ante la autoridad exhortada que practi
 La autoridad exhortada, al devolver el exhorto, remitirá la demanda de tercería, dentro del término de tres días a la fecha en que se haya practicado el embargo.
 
 Artículo adicionado DOF 04-01-1980. Reformado DOF 01-05-2019
-
-Sección Segunda De la preferencia de créditos Sección adicionada DOF 04-01-1980

@@ -32,5 +32,3 @@ f) Llevar un registro de las resoluciones, acuerdos y dictámenes emitidos por l
 g) Desahogar las consultas de carácter técnico-jurídico que le formulen las comisiones, respecto a las iniciativas de ley o decreto que estén en proceso de Dictamen, con el apoyo de la unidad especializada correspondiente; y
 
 h) Las demás que se deriven de esta Ley, del Reglamento, y de los acuerdos de la Mesa Directiva de la Cámara.
-
-Sección Segunda De la Secretaría General de Servicios Administrativos

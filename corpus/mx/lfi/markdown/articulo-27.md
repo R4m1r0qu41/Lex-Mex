@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf
 source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 ---
 
+> Título II · Capítulo Noveno
+
 # Artículo 27
 
 Las inversiones que realicen los fondos de este tipo, se sujetarán al régimen que la [Comisión](articulo-2.md) establezca mediante disposiciones de carácter general, y que deberán considerar, entre otros:

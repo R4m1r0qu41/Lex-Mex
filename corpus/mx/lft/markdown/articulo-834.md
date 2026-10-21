@@ -20,5 +20,3 @@ source_sha256: 12f09393a1951a91c3f57f579bf611b034edf1a5f78cdbfb828e23ff3a9acbf7
 Las partes al ofrecer la prueba presuncional, indicarán en qué consiste y lo que se acredita con ella.
 
 Artículo reformado DOF 04-01-1980
-
-Sección Octava De la Instrumental Sección adicionada DOF 04-01-1980

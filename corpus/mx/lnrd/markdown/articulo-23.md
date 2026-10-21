@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LNRD_270519.pdf
 source_sha256: 0a9852297132d8972d0c2f77e1b67d614bd296632109065e703bd09254187aea
 ---
 
+> Capítulo VI
+
 # Artículo 23
 
 La actualización de la información del [Registro](articulo-2.md) que lleven a cabo las instituciones de procuración de justicia o administrativas deberá contener, cuando menos, lo siguiente:

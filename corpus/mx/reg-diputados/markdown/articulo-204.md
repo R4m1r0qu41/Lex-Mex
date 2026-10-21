@@ -18,5 +18,3 @@ source_sha256: 6fa1d25c31c4d8c2cc8074208b10a2f3ff35fecce26c1cc03ba18117cfec80d1
 # Artículo 204
 
 1. Los informes de resultados que presenten las comisiones investigadoras, a que se refiere el párrafo tercero del artículo 93 constitucional, se enviarán al Presidente de la República.
-
-Sección Vigésima Comités y Comisiones Especiales

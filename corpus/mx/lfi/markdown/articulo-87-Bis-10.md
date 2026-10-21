@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf
 source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 ---
 
+> Título IV · Capítulo Quinto
+
 # Artículo 87 Bis 10
 
 Las notificaciones por edictos se efectuarán en el supuesto de que el interesado haya desaparecido, hubiere fallecido, se desconozca su domicilio o exista imposibilidad de acceder a él, y no tenga representante conocido o domicilio en territorio nacional o se encuentre en el extranjero sin haber dejado representante.

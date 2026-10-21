@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSPCAPF.pdf
 source_sha256: b4a968d8e8c138ac2069f6afa0dc622178328df24f59cf58eddbab8efe4a7eff
 ---
 
+> Capítulo Sexto
+
 # Artículo 18
 
 Los Comités Técnicos de Selección tendrán, en adición a las que señala la [Ley](articulo-2.md), las siguientes atribuciones:
@@ -28,5 +30,3 @@ IV. Las demás que señale este reglamento y las disposiciones aplicables al Sis
 El Secretario Técnico del Comité Técnico de Selección convocará a sesión cuando el Comité Técnico de Profesionalización, con motivo de la existencia de una vacante o la creación de una nueva, determine que se deben iniciar los procedimientos de reclutamiento y selección.
 
 Durante los procedimientos respectivos, el Secretario Técnico será responsable de informar oportunamente a los demás miembros del Comité de los avances del concurso, para efectos de lo previsto en la fracción II de este artículo.
-
-Capítulo Séptimo De la Operación del Servicio Profesional de Carrera

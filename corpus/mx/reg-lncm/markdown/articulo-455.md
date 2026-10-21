@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Tercero · Capítulo IV
+
 # Artículo 455
 
 En el caso de Embarcaciones que arriban de manera regular a un determinado puerto, será necesario entregar copia simple de los certificados aplicables conforme a esta sección, la primera vez que arribe al puerto; o bien, cuando haya algún cambio. En los arribos sucesivos, sólo se entregará relación actualizada con vigencia firmada por el capitán de la Embarcación y se hará referencia a la primera entrega.

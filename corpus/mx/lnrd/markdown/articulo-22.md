@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LNRD_270519.pdf
 source_sha256: 0a9852297132d8972d0c2f77e1b67d614bd296632109065e703bd09254187aea
 ---
 
+> Capítulo VI
+
 # Artículo 22
 
 En los casos en que las instituciones de procuración de justicia o aquellas que conozcan de faltas administrativas no ratifiquen la detención realizada por la autoridad, inmediatamente después de decretar la libertad de la persona detenida se dejará constancia de ello y realizará la actualización de información en el [Registro](articulo-2.md).

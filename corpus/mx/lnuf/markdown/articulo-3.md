@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LNUF.pdf
 source_sha256: 0c11f4464286e7411713a80361a2e1ab15c4cc55bff80b4e6ee4a4333592d50c
 ---
 
+> Capítulo I
+
 # Artículo 3
 
 Para los efectos de la presente [Ley](articulo-3.md), se entenderá por:
@@ -44,5 +46,3 @@ XII. Ley: la Ley Nacional sobre el Uso de la Fuerza;
 XIII. Sujetos Obligados: las instituciones de seguridad pública, las auxiliares, y los agentes de ambas, y
 
 XIV. Uso de la Fuerza: la inhibición por medios mecánicos o biomecánicos, de forma momentánea o permanente, de una o más funciones corporales que lleva a cabo una persona autorizada por el Estado sobre otra, siguiendo los procedimientos y protocolos que establecen las normas jurídicas aplicables; su finalidad es salvaguardar la vida, las libertades, la integridad y el patrimonio de las personas, así como contribuir a la generación, preservación o restablecimiento del orden público, seguridad y la paz social. Fracción reformada DOF 24-01-2024
-
-Capítulo II Principios del Uso de la Fuerza

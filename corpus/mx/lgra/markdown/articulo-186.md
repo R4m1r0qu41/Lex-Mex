@@ -13,10 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGRA.pdf
 source_sha256: 1289ec6964e48c84990572ca6080ca05c9d6210e5b0ff5af6d8c9d935fc5fcc8
 ---
 
-> Título SEGUNDO
+> Título SEGUNDO · Capítulo I
 
 # Artículo 186
 
 Cuando sea procedente la acumulación, será competente para conocer del asunto aquella [Autoridad substanciadora](articulo-3.md) que tenga conocimiento de la falta cuya sanción sea mayor. Si la [Falta administrativa](articulo-3.md) amerita la misma sanción, será competente la autoridad encargada de substanciar el asunto que primero haya admitido el [Informe de Presunta Responsabilidad Administrativa](articulo-3.md).
-
-Sección Octava De las notificaciones

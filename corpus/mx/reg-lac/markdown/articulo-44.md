@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAC.pdf
 source_sha256: 4dcf5277184d5f5c5cc1c8ae2dfa196134b472d883eb2806c7bac27cd77eda7d
 ---
 
+> Título Segundo · Capítulo III
+
 # Artículo 44
 
 Toda persona concesionaria, asignataria o permisionaria debe contar con un programa de seguridad para la prevención de actos de interferencia ilícita autorizado por la Agencia Federal de Aviación Civil, que cumpla con lo dispuesto en las normas oficiales mexicanas y en las disposiciones técnico-administrativas correspondientes y que además contenga las medidas pertinentes para que no se lleven a bordo de la aeronave artículos que dificulten su navegación o pongan en peligro la seguridad del personal técnico aeronáutico y de las personas pasajeras.

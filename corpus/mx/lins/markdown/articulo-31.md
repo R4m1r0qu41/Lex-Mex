@@ -13,10 +13,10 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LINS.pdf
 source_sha256: 40271b07f2d2236f7e4d722d2b61f35db2d82772543dcf4911097efe13697c5e
 ---
 
-> Título SEGUNDO
+> Título SEGUNDO · Capítulo IV
 
 # Artículo 31
 
 La designación como investigador emérito será una distinción vitalicia.
 
-Los investigadores eméritos recibirán el estímulo económico y las prestaciones que determine la Junta de Gobierno respectiva. Capítulo V Órgano de vigilancia
+Los investigadores eméritos recibirán el estímulo económico y las prestaciones que determine la Junta de Gobierno respectiva.

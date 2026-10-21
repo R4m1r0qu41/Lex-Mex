@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAPP.pdf
 source_sha256: a4505a7bd41bc835f1def6fb030c42d8e74a2cc050d9c8fa08f91c9519e382bf
 ---
 
+> Capítulo Quinto · Sección Tercera
+
 # Artículo 82
 
 Si los inmuebles, bienes y derechos expropiados tienen algún gravamen hipotecario o cualquier otro de naturaleza real, la indemnización se consignará ante la autoridad competente, a fin de que ésta determine la parte que corresponda a cada uno de los titulares de los derechos que resulten afectados.

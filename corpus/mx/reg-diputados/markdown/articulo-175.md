@@ -46,5 +46,3 @@ VII. Proyectos de acuerdo para conocimiento;
 VIII. Avisos de vencimiento de término, y
 
 IX. Asuntos Generales.
-
-Sección Décima Segunda Proceso de Dictamen

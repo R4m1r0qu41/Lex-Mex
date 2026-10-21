@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSPCAPF.pdf
 source_sha256: b4a968d8e8c138ac2069f6afa0dc622178328df24f59cf58eddbab8efe4a7eff
 ---
 
+> Capítulo Décimo
+
 # Artículo 33
 
 Los servidores públicos de carrera eventuales a que se refiere el inciso a de la fracción I del artículo [5](articulo-5.md) de este reglamento tienen derecho a obtener el nombramiento como servidores públicos de carrera titulares, al término del plazo de su designación como eventuales, salvo que en la evaluación de su desempeño obtuvieran una calificación no satisfactoria, no aprobatoria o deficiente, en cuyo caso el nombramiento surtirá efectos únicamente hasta la fecha de su vigencia, sin responsabilidad para la dependencia, y la relación laboral se tendrá por concluida.

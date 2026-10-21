@@ -23,4 +23,6 @@ I. Ser mexicanos, mayores de veinticinco años y estar en pleno ejercicio de sus
 
 II. Poseer título legalmente expedido de licenciado en derecho o en economía;
 
-III. No ser ministro de culto; y Fracción reformada DOF 30-11-2012 IV. No haber sido condenados por delito intencional sancionado con pena corporal.
+III. No ser ministro de culto; y Fracción reformada DOF 30-11-2012
+
+IV. No haber sido condenados por delito intencional sancionado con pena corporal.

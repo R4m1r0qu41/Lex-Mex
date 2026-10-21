@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGRA.pdf
 source_sha256: 1289ec6964e48c84990572ca6080ca05c9d6210e5b0ff5af6d8c9d935fc5fcc8
 ---
 
-> Título SEGUNDO
+> Título SEGUNDO · Capítulo I
 
 # Artículo 193
 
@@ -30,5 +30,3 @@ V. Los acuerdos por lo que se aperciba a las partes o terceros, con la imposici�
 VI. La resolución definitiva que se pronuncie en el procedimiento de responsabilidad administrativa, y
 
 VII. Las demás que así se determinen en la ley, o que las autoridades substanciadoras o resolutoras del asunto consideren pertinentes para el mejor cumplimiento de sus resoluciones.
-
-Sección Novena De los Informes de Presunta Responsabilidad Administrativa

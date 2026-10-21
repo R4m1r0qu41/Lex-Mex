@@ -31,6 +31,8 @@ a) Si el número de trabajadores que se retire dentro del término de un año no
 
 b) Si el número de trabajadores que se retire excede del diez por ciento, se pagará a los que primeramente se retiren y podrá diferirse para el año siguiente el pago a los trabajadores que excedan de dicho porcentaje.
 
-c) Si el retiro se efectúa al mismo tiempo por un número de trabajadores mayor del porcentaje mencionado, se cubrirá la prima a los que tengan mayor antigüedad y podrá diferirse para el año siguiente el pago de la que corresponda a los restantes trabajadores; Fe de erratas al inciso DOF 05-06-1970 V. En caso de muerte del trabajador, cualquiera que sea su antigüedad, la prima que corresponda se pagará a las personas mencionadas en el artículo [501](articulo-501.md); y
+c) Si el retiro se efectúa al mismo tiempo por un número de trabajadores mayor del porcentaje mencionado, se cubrirá la prima a los que tengan mayor antigüedad y podrá diferirse para el año siguiente el pago de la que corresponda a los restantes trabajadores; Fe de erratas al inciso DOF 05-06-1970
+
+V. En caso de muerte del trabajador, cualquiera que sea su antigüedad, la prima que corresponda se pagará a las personas mencionadas en el artículo [501](articulo-501.md); y
 
 VI. La prima de antigüedad a que se refiere este artículo se cubrirá a los trabajadores o a sus beneficiarios, independientemente de cualquier otra prestación que les corresponda.

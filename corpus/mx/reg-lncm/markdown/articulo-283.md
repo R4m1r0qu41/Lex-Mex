@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Tercero · Capítulo III
+
 # Artículo 283
 
 Las Embarcaciones y Artefactos Navales objeto de este Reglamento cuyo casco sea de acero o material equivalente, serán inspeccionadas en términos de la Norma Oficial Mexicana aplicable, como mínimo cada dos años y medio y aquéllas cuyo casco sea de fibra de vidrio deberán ser inspeccionadas en seco cada cinco años.

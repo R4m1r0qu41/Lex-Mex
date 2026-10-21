@@ -13,8 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Tercero · Capítulo II
+
 # Artículo 254
 
 Los oficiales de las patrullas marítimas deberán cumplir con las obligaciones que se establezcan en el Manual que para tal efecto expida la [Dirección General](articulo-10.md).
-
-Sección II Horarios

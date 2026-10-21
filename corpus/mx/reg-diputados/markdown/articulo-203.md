@@ -22,5 +22,3 @@ source_sha256: 6fa1d25c31c4d8c2cc8074208b10a2f3ff35fecce26c1cc03ba18117cfec80d1
 2. Las comisiones a las que se haya turnado las respuestas de los funcionarios, tendrán un plazo de quince días, contados a partir de la recepción del turno por parte de la [Mesa Directiva](articulo-2.md), para formular conclusiones y, en su caso, recomendaciones.
 
 3. Si el servidor público no contesta la pregunta o no satisface la solicitud de información, los diputados podrán acudir en queja ante el Titular del Ejecutivo Federal, por conducto del Presidente.
-
-Sección Décima Novena Comisiones de Investigación

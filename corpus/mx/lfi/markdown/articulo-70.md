@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf
 source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 ---
 
+> Título IV · Capítulo Segundo
+
 # Artículo 70
 
 La [Comisión](articulo-2.md) podrá autorizar a las Instituciones Financieras del Exterior o a las Sociedades Controladoras Filiales, la adquisición de acciones representativas del capital social de una sociedad operadora de fondos de inversión o distribuidora de acciones de fondos de inversión, siempre y cuando se cumplan los siguientes requisitos:

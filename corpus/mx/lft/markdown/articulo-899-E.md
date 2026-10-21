@@ -19,7 +19,9 @@ source_sha256: 12f09393a1951a91c3f57f579bf611b034edf1a5f78cdbfb828e23ff3a9acbf7
 
 En el procedimiento se observará lo establecido en la sección primera de este capítulo, y en los casos en que se demanden prestaciones derivadas de riesgos de trabajo o enfermedades generales, el procedimiento se sujetará además a las siguientes reglas: Párrafo reformado DOF 01-05-2019
 
-Cuando lo planteado en la demanda exija la designación de peritos, deberá citarse a la audiencia preliminar, y en el auto de citación se designará al perito o peritos médicos oficiales que estime necesarios, sin perjuicio de que las partes puedan acompañarse de un asesor que los auxilie en el desahogo del interrogatorio. Párrafo reformado DOF 01-05-2019 Los dictámenes deberán contener:
+Cuando lo planteado en la demanda exija la designación de peritos, deberá citarse a la audiencia preliminar, y en el auto de citación se designará al perito o peritos médicos oficiales que estime necesarios, sin perjuicio de que las partes puedan acompañarse de un asesor que los auxilie en el desahogo del interrogatorio. Párrafo reformado DOF 01-05-2019
+
+Los dictámenes deberán contener:
 
 I. Datos de la identificación y de la acreditación de la profesión de médico de cada uno de los peritos;
 
@@ -45,7 +47,9 @@ El Tribunal deberá aplicar a los peritos las medidas de apremio que establece e
 
 Las partes en la audiencia de desahogo de la pericial médica, por sí o a través de un especialista en medicina, podrán formular las observaciones o preguntas que juzguen convenientes en relación a las consideraciones y conclusiones de la prueba pericial médica. Párrafo reformado DOF 01-05-2019
 
-El Tribunal podrá formular preguntas al perito o a los peritos que comparezcan a la diligencia. Párrafo reformado DOF 01-05-2019 El Tribunal determinará si se acreditó el nexo causal entre la actividad específica desarrollada por el trabajador y el medio ambiente de trabajo señalado en el escrito de demanda, así como el origen profesional del presunto riesgo de trabajo, para calificarlo como tal. Párrafo reformado DOF 01-05-2019
+El Tribunal podrá formular preguntas al perito o a los peritos que comparezcan a la diligencia. Párrafo reformado DOF 01-05-2019
+
+El Tribunal determinará si se acreditó el nexo causal entre la actividad específica desarrollada por el trabajador y el medio ambiente de trabajo señalado en el escrito de demanda, así como el origen profesional del presunto riesgo de trabajo, para calificarlo como tal. Párrafo reformado DOF 01-05-2019
 
 El Tribunal podrá requerir a las autoridades, instituciones públicas y organismos descentralizados, la información que posean y que contribuya al esclarecimiento de los hechos; también podrá solicitar estudios médicos de instituciones de salud públicas o privadas; practicar toda clase de consultas e inspecciones en las empresas o establecimientos en los que el trabajador haya laborado y, de ser necesario, se auxiliará con la opinión de peritos en otras materias. Párrafo reformado DOF 01-05-2019
 

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Tercero · Capítulo V
+
 # Artículo 507
 
 La [Dirección General](articulo-10.md) determinará la asignación mínima de pilotos de puerto con base en un procedimiento en el que se considere el tráfico marítimo y la frecuencia del mismo, el promedio de tiempo de cada maniobra, de manera que el número mínimo de pilotos sea tal, que se pueda cubrir la demanda del servicio, sin que el tiempo real de trabajo en veinticuatro horas rebase el de la jornada que establece la legislación laboral.

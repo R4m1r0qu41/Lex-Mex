@@ -28,75 +28,66 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgdfs:article:7:term-usage:2272-2282",
+    "id": "urn:lex-mx:federal:statute:lgdfs:article:7:term-usage:2273-2283",
     "provision_id": "urn:lex-mx:federal:statute:lgdfs:article:7",
     "term_id": "urn:lex-mx:federal:statute:lgdfs:term:reglamento",
     "span": "Reglamento",
-    "start_char": 2272,
-    "end_char": 2282
+    "start_char": 2273,
+    "end_char": 2283
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgdfs:article:7:term-usage:4726-4734",
+    "id": "urn:lex-mx:federal:statute:lgdfs:article:7:term-usage:4727-4735",
     "provision_id": "urn:lex-mx:federal:statute:lgdfs:article:7",
     "term_id": "urn:lex-mx:federal:statute:lgdfs:term:consejo",
     "span": "Consejos",
-    "start_char": 4726,
-    "end_char": 4734
+    "start_char": 4727,
+    "end_char": 4735
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgdfs:article:7:term-usage:11552-11562",
+    "id": "urn:lex-mx:federal:statute:lgdfs:article:7:term-usage:11554-11564",
     "provision_id": "urn:lex-mx:federal:statute:lgdfs:article:7",
     "term_id": "urn:lex-mx:federal:statute:lgdfs:term:reglamento",
     "span": "Reglamento",
-    "start_char": 11552,
-    "end_char": 11562
+    "start_char": 11554,
+    "end_char": 11564
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgdfs:article:7:term-usage:18046-18056",
+    "id": "urn:lex-mx:federal:statute:lgdfs:article:7:term-usage:18048-18058",
     "provision_id": "urn:lex-mx:federal:statute:lgdfs:article:7",
     "term_id": "urn:lex-mx:federal:statute:lgdfs:term:secretaria",
     "span": "Secretaría",
-    "start_char": 18046,
-    "end_char": 18056
+    "start_char": 18048,
+    "end_char": 18058
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgdfs:article:7:term-usage:18567-18575",
+    "id": "urn:lex-mx:federal:statute:lgdfs:article:7:term-usage:18569-18577",
     "provision_id": "urn:lex-mx:federal:statute:lgdfs:article:7",
     "term_id": "urn:lex-mx:federal:statute:lgdfs:term:comision",
     "span": "Comisión",
-    "start_char": 18567,
-    "end_char": 18575
+    "start_char": 18569,
+    "end_char": 18577
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgdfs:article:7:term-usage:21768-21776",
+    "id": "urn:lex-mx:federal:statute:lgdfs:article:7:term-usage:21770-21778",
     "provision_id": "urn:lex-mx:federal:statute:lgdfs:article:7",
     "term_id": "urn:lex-mx:federal:statute:lgdfs:term:comision",
     "span": "Comisión",
-    "start_char": 21768,
-    "end_char": 21776
+    "start_char": 21770,
+    "end_char": 21778
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgdfs:article:7:term-usage:21848-21866",
+    "id": "urn:lex-mx:federal:statute:lgdfs:article:7:term-usage:21850-21868",
     "provision_id": "urn:lex-mx:federal:statute:lgdfs:article:7",
     "term_id": "urn:lex-mx:federal:statute:lgdfs:term:consejos-estatales",
     "span": "Consejos Estatales",
-    "start_char": 21848,
-    "end_char": 21866
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgdfs:article:7:term-usage:24317-24329",
-    "provision_id": "urn:lex-mx:federal:statute:lgdfs:article:7",
-    "term_id": "urn:lex-mx:federal:statute:lgdfs:term:salvaguardas",
-    "span": "Salvaguardas",
-    "start_char": 24317,
-    "end_char": 24329
+    "start_char": 21850,
+    "end_char": 21868
   },
   {
     "schema_version": "0.1.0",
@@ -127,12 +118,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgdfs:article:8:term-usage:2029-2041",
+    "id": "urn:lex-mx:federal:statute:lgdfs:article:8:term-usage:2030-2042",
     "provision_id": "urn:lex-mx:federal:statute:lgdfs:article:8",
     "term_id": "urn:lex-mx:federal:statute:lgdfs:term:salvaguardas",
     "span": "Salvaguardas",
-    "start_char": 2029,
-    "end_char": 2041
+    "start_char": 2030,
+    "end_char": 2042
   },
   {
     "schema_version": "0.1.0",
@@ -331,15 +322,6 @@
     "span": "Reglamento",
     "start_char": 3837,
     "end_char": 3847
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgdfs:article:14:term-usage:3902-3910",
-    "provision_id": "urn:lex-mx:federal:statute:lgdfs:article:14",
-    "term_id": "urn:lex-mx:federal:statute:lgdfs:term:comision",
-    "span": "Comisión",
-    "start_char": 3902,
-    "end_char": 3910
   },
   {
     "schema_version": "0.1.0",
@@ -784,57 +766,57 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgdfs:article:34:term-usage:213-249",
+    "id": "urn:lex-mx:federal:statute:lgdfs:article:34:term-usage:214-250",
     "provision_id": "urn:lex-mx:federal:statute:lgdfs:article:34",
     "term_id": "urn:lex-mx:federal:statute:lgdfs:term:sistema-nacional-de-gestion-forestal",
     "span": "Sistema Nacional de Gestión Forestal",
-    "start_char": 213,
-    "end_char": 249
+    "start_char": 214,
+    "end_char": 250
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgdfs:article:34:term-usage:294-334",
+    "id": "urn:lex-mx:federal:statute:lgdfs:article:34:term-usage:295-335",
     "provision_id": "urn:lex-mx:federal:statute:lgdfs:article:34",
     "term_id": "urn:lex-mx:federal:statute:lgdfs:term:inventario-nacional-forestal-y-de-suelos",
     "span": "Inventario Nacional Forestal y de Suelos",
-    "start_char": 294,
-    "end_char": 334
+    "start_char": 295,
+    "end_char": 335
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgdfs:article:34:term-usage:442-450",
+    "id": "urn:lex-mx:federal:statute:lgdfs:article:34:term-usage:443-451",
     "provision_id": "urn:lex-mx:federal:statute:lgdfs:article:34",
     "term_id": "urn:lex-mx:federal:statute:lgdfs:term:registro",
     "span": "Registro",
-    "start_char": 442,
-    "end_char": 450
+    "start_char": 443,
+    "end_char": 451
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgdfs:article:34:term-usage:920-930",
+    "id": "urn:lex-mx:federal:statute:lgdfs:article:34:term-usage:921-931",
     "provision_id": "urn:lex-mx:federal:statute:lgdfs:article:34",
     "term_id": "urn:lex-mx:federal:statute:lgdfs:term:reglamento",
     "span": "Reglamento",
-    "start_char": 920,
-    "end_char": 930
+    "start_char": 921,
+    "end_char": 931
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgdfs:article:34:term-usage:936-946",
+    "id": "urn:lex-mx:federal:statute:lgdfs:article:34:term-usage:937-947",
     "provision_id": "urn:lex-mx:federal:statute:lgdfs:article:34",
     "term_id": "urn:lex-mx:federal:statute:lgdfs:term:secretaria",
     "span": "Secretaría",
-    "start_char": 936,
-    "end_char": 946
+    "start_char": 937,
+    "end_char": 947
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgdfs:article:34:term-usage:952-960",
+    "id": "urn:lex-mx:federal:statute:lgdfs:article:34:term-usage:953-961",
     "provision_id": "urn:lex-mx:federal:statute:lgdfs:article:34",
     "term_id": "urn:lex-mx:federal:statute:lgdfs:term:comision",
     "span": "Comisión",
-    "start_char": 952,
-    "end_char": 960
+    "start_char": 953,
+    "end_char": 961
   },
   {
     "schema_version": "0.1.0",
@@ -880,15 +862,6 @@
     "span": "Comisión",
     "start_char": 175,
     "end_char": 183
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgdfs:article:36:term-usage:310-350",
-    "provision_id": "urn:lex-mx:federal:statute:lgdfs:article:36",
-    "term_id": "urn:lex-mx:federal:statute:lgdfs:term:sistema-nacional-de-informacion-forestal",
-    "span": "Sistema Nacional de Información Forestal",
-    "start_char": 310,
-    "end_char": 350
   },
   {
     "schema_version": "0.1.0",
@@ -1000,15 +973,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgdfs:article:41:term-usage:273-309",
-    "provision_id": "urn:lex-mx:federal:statute:lgdfs:article:41",
-    "term_id": "urn:lex-mx:federal:statute:lgdfs:term:sistema-nacional-de-gestion-forestal",
-    "span": "Sistema Nacional de Gestión Forestal",
-    "start_char": 273,
-    "end_char": 309
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgdfs:article:41-bis:term-usage:3-39",
     "provision_id": "urn:lex-mx:federal:statute:lgdfs:article:41-bis",
     "term_id": "urn:lex-mx:federal:statute:lgdfs:term:sistema-nacional-de-gestion-forestal",
@@ -1087,15 +1051,6 @@
     "span": "Reglamento",
     "start_char": 171,
     "end_char": 181
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgdfs:article:41-bis-1:term-usage:240-248",
-    "provision_id": "urn:lex-mx:federal:statute:lgdfs:article:41-bis-1",
-    "term_id": "urn:lex-mx:federal:statute:lgdfs:term:registro",
-    "span": "Registro",
-    "start_char": 240,
-    "end_char": 248
   },
   {
     "schema_version": "0.1.0",
@@ -1207,15 +1162,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgdfs:article:45:term-usage:676-716",
-    "provision_id": "urn:lex-mx:federal:statute:lgdfs:article:45",
-    "term_id": "urn:lex-mx:federal:statute:lgdfs:term:inventario-nacional-forestal-y-de-suelos",
-    "span": "Inventario Nacional Forestal y de Suelos",
-    "start_char": 676,
-    "end_char": 716
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgdfs:article:46:term-usage:3-43",
     "provision_id": "urn:lex-mx:federal:statute:lgdfs:article:46",
     "term_id": "urn:lex-mx:federal:statute:lgdfs:term:inventario-nacional-forestal-y-de-suelos",
@@ -1294,15 +1240,6 @@
     "span": "Reglamento",
     "start_char": 186,
     "end_char": 196
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgdfs:article:49:term-usage:346-354",
-    "provision_id": "urn:lex-mx:federal:statute:lgdfs:article:49",
-    "term_id": "urn:lex-mx:federal:statute:lgdfs:term:registro",
-    "span": "Registro",
-    "start_char": 346,
-    "end_char": 354
   },
   {
     "schema_version": "0.1.0",
@@ -1387,66 +1324,66 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgdfs:article:54:term-usage:803-811",
+    "id": "urn:lex-mx:federal:statute:lgdfs:article:54:term-usage:804-812",
     "provision_id": "urn:lex-mx:federal:statute:lgdfs:article:54",
     "term_id": "urn:lex-mx:federal:statute:lgdfs:term:comision",
     "span": "Comisión",
-    "start_char": 803,
-    "end_char": 811
+    "start_char": 804,
+    "end_char": 812
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgdfs:article:54:term-usage:1003-1013",
+    "id": "urn:lex-mx:federal:statute:lgdfs:article:54:term-usage:1004-1014",
     "provision_id": "urn:lex-mx:federal:statute:lgdfs:article:54",
     "term_id": "urn:lex-mx:federal:statute:lgdfs:term:secretaria",
     "span": "Secretaría",
-    "start_char": 1003,
-    "end_char": 1013
+    "start_char": 1004,
+    "end_char": 1014
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgdfs:article:54:term-usage:1040-1047",
+    "id": "urn:lex-mx:federal:statute:lgdfs:article:54:term-usage:1041-1048",
     "provision_id": "urn:lex-mx:federal:statute:lgdfs:article:54",
     "term_id": "urn:lex-mx:federal:statute:lgdfs:term:consejo",
     "span": "Consejo",
-    "start_char": 1040,
-    "end_char": 1047
+    "start_char": 1041,
+    "end_char": 1048
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgdfs:article:54:term-usage:1200-1210",
+    "id": "urn:lex-mx:federal:statute:lgdfs:article:54:term-usage:1201-1211",
     "provision_id": "urn:lex-mx:federal:statute:lgdfs:article:54",
     "term_id": "urn:lex-mx:federal:statute:lgdfs:term:reglamento",
     "span": "Reglamento",
-    "start_char": 1200,
-    "end_char": 1210
+    "start_char": 1201,
+    "end_char": 1211
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgdfs:article:54:term-usage:1350-1360",
+    "id": "urn:lex-mx:federal:statute:lgdfs:article:54:term-usage:1351-1361",
     "provision_id": "urn:lex-mx:federal:statute:lgdfs:article:54",
     "term_id": "urn:lex-mx:federal:statute:lgdfs:term:secretaria",
     "span": "Secretaría",
-    "start_char": 1350,
-    "end_char": 1360
+    "start_char": 1351,
+    "end_char": 1361
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgdfs:article:54:term-usage:1381-1389",
+    "id": "urn:lex-mx:federal:statute:lgdfs:article:54:term-usage:1382-1390",
     "provision_id": "urn:lex-mx:federal:statute:lgdfs:article:54",
     "term_id": "urn:lex-mx:federal:statute:lgdfs:term:comision",
     "span": "Comisión",
-    "start_char": 1381,
-    "end_char": 1389
+    "start_char": 1382,
+    "end_char": 1390
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgdfs:article:54:term-usage:1876-1886",
+    "id": "urn:lex-mx:federal:statute:lgdfs:article:54:term-usage:1877-1887",
     "provision_id": "urn:lex-mx:federal:statute:lgdfs:article:54",
     "term_id": "urn:lex-mx:federal:statute:lgdfs:term:reglamento",
     "span": "Reglamento",
-    "start_char": 1876,
-    "end_char": 1886
+    "start_char": 1877,
+    "end_char": 1887
   },
   {
     "schema_version": "0.1.0",
@@ -2548,15 +2485,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgdfs:article:106:term-usage:1195-1226",
-    "provision_id": "urn:lex-mx:federal:statute:lgdfs:article:106",
-    "term_id": "urn:lex-mx:federal:statute:lgdfs:term:auditoria-tecnica-preventiva",
-    "span": "Auditorías Técnicas Preventivas",
-    "start_char": 1195,
-    "end_char": 1226
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgdfs:article:108:term-usage:3-11",
     "provision_id": "urn:lex-mx:federal:statute:lgdfs:article:108",
     "term_id": "urn:lex-mx:federal:statute:lgdfs:term:comision",
@@ -2689,15 +2617,6 @@
     "span": "Comisión",
     "start_char": 462,
     "end_char": 470
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgdfs:article:116:term-usage:492-512",
-    "provision_id": "urn:lex-mx:federal:statute:lgdfs:article:116",
-    "term_id": "urn:lex-mx:federal:statute:lgdfs:term:incendio-forestal",
-    "span": "Incendios Forestales",
-    "start_char": 492,
-    "end_char": 512
   },
   {
     "schema_version": "0.1.0",
@@ -3178,15 +3097,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgdfs:article:138-bis:term-usage:1848-1853",
-    "provision_id": "urn:lex-mx:federal:statute:lgdfs:article:138-bis",
-    "term_id": "urn:lex-mx:federal:statute:lgdfs:term:fondo",
-    "span": "Fondo",
-    "start_char": 1848,
-    "end_char": 1853
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgdfs:article:139:term-usage:3-8",
     "provision_id": "urn:lex-mx:federal:statute:lgdfs:article:139",
     "term_id": "urn:lex-mx:federal:statute:lgdfs:term:fondo",
@@ -3472,15 +3382,6 @@
     "span": "Comisión",
     "start_char": 3,
     "end_char": 11
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgdfs:article:151:term-usage:568-576",
-    "provision_id": "urn:lex-mx:federal:statute:lgdfs:article:151",
-    "term_id": "urn:lex-mx:federal:statute:lgdfs:term:consejo",
-    "span": "Consejos",
-    "start_char": 568,
-    "end_char": 576
   },
   {
     "schema_version": "0.1.0",

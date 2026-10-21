@@ -26,5 +26,3 @@ source_sha256: 6fa1d25c31c4d8c2cc8074208b10a2f3ff35fecce26c1cc03ba18117cfec80d1
 4. Los diputados y diputadas podrán reservar artículos de un dictamen para su discusión en lo particular, pero el tiempo máximo de cada intervención no será mayor de cinco minutos, observándose la regla del numeral anterior.
 
 5. Los diputados y diputadas que no sean integrantes de la comisión tendrán voz, pero no voto y podrán intervenir, en los trabajos de la comisión, apegándose a los tiempos y formas acordadas.
-
-Sección Décima Quinta Votaciones

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPIORPI.pdf
 source_sha256: 2e35228bd3100a3a137f313359833c4836f2b4b6d4e52e1ce4fe58a970cd768f
 ---
 
+> Capítulo II
+
 # Artículo 9
 
 Las personas servidoras públicas adscritas a la [Unidad](articulo-3.md), además de reunir los requisitos de ingreso y selección que determine la Ley de la [Fiscalía](articulo-3.md) General de la República, deberán: Párrafo reformado DOF 20-05-2021, 16-07-2025

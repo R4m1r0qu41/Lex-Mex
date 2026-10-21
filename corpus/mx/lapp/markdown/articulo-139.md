@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAPP.pdf
 source_sha256: a4505a7bd41bc835f1def6fb030c42d8e74a2cc050d9c8fa08f91c9519e382bf
 ---
 
+> Capítulo Duodécimo · Sección Segunda
+
 # Artículo 139
 
 Las partes de un contrato de asociación público-privada podrán convenir un procedimiento arbitral, de estricto derecho, para resolver las controversias que deriven sobre el cumplimiento del propio contrato en términos de lo dispuesto en el título cuarto del libro quinto del Código de Comercio.
@@ -28,5 +30,3 @@ III. El laudo será obligatorio y firme para ambas partes. En su caso, sólo pro
 No podrá ser materia de arbitraje la revocación de las concesiones y autorizaciones en general, ni los actos de autoridad.
 
 La solución de controversias relacionadas con la validez legal de cualquier acto administrativo sólo podrá dirimirse por los tribunales federales.
-
-Sección Tercera Jurisdicción Federal

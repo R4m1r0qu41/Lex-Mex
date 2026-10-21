@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LNRD_270519.pdf
 source_sha256: 0a9852297132d8972d0c2f77e1b67d614bd296632109065e703bd09254187aea
 ---
 
+> Capítulo VIII
+
 # Artículo 34
 
 El [Sistema de Consulta](articulo-2.md), en su caso, emitirá el reporte correspondiente de la persona detenida, el cual deberá contener al menos lo siguiente:

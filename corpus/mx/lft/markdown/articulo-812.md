@@ -22,5 +22,3 @@ Cuando los documentos públicos contengan declaraciones o manifestaciones hechas
 Las declaraciones o manifestaciones de que se trate prueban contra quienes las hicieron o asistieron al acto en que fueron hechas, y se manifestaron conformes con ellas.
 
 Artículo reformado DOF 04-01-1980
-
-Sección Cuarta De la Testimonial Sección adicionada DOF 04-01-1980

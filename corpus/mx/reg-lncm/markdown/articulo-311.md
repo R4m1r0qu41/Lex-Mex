@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Tercero · Capítulo III
+
 # Artículo 311
 
 Las Embarcaciones y Artefactos Navales extranjeros que se encuentren en zonas marinas mexicanas, deberán contar para su operación en éstas, con los Certificados de Seguridad vigentes.

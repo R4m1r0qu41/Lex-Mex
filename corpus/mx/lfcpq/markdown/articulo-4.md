@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCPQ.pdf
 source_sha256: 39d132d9b54587ce0636972dfe474936d152717e7d656864e160a637347628c6
 ---
 
-> Capítulo SEGUNDO
+> Capítulo SEGUNDO · Sección Primera
 
 # Artículo 4
 
@@ -35,7 +35,7 @@ f) Ergotamina;
 
 g) 1-fenil-2-propanona;
 
-h) Fenilpropanolamina; LEY FEDERAL PARA EL CONTROL DE PRECURSORES QUÍMICOS, PRODUCTOS QUÍMICOS ESENCIALES Y MÁQUINAS PARA ELABORAR CÁPSULAS, TABLETAS Y/O COMPRIMIDOS i) Isosafrol;
+h) Fenilpropanolamina; i) Isosafrol;
 
 j) 3, 4-metilendioxifenil-2-propanona;
 
@@ -75,7 +75,7 @@ También quedan incluidos en esta categoría, en caso de que su existencia sea p
 
 II. Productos Químicos Esenciales:
 
-a) Acetona; LEY FEDERAL PARA EL CONTROL DE PRECURSORES QUÍMICOS, PRODUCTOS QUÍMICOS ESENCIALES Y MÁQUINAS PARA ELABORAR CÁPSULAS, TABLETAS Y/O COMPRIMIDOS b) Ácido antranílico;
+a) Acetona; b) Ácido antranílico;
 
 c) Ácido clorhídrico;
 

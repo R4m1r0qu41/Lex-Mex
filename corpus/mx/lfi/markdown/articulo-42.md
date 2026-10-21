@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf
 source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 ---
 
+> Título III · Capítulo Tercero
+
 # Artículo 42
 
 Las sociedades distribuidoras de acciones de fondos de inversión, al celebrar operaciones con el público, deberán utilizar documentación que contenga información relacionada con su personalidad jurídica y el carácter con el que comparecen en dichos actos, destacando la denominación del fondo de inversión por cuenta del cual se actúa.

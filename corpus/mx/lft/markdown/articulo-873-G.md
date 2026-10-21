@@ -24,5 +24,3 @@ a) Si se tratare de autoridades, el [Tribunal](articulo-3o.-Ter.md) las requerir
 b) Si se trata de terceros, el Tribunal dictará las medidas de apremio correspondientes, hasta que se logre la presentación de las copias o documentos requeridos.
 
 Artículo adicionado DOF 01-05-2019
-
-Sección Segunda Audiencia de Juicio Sección adicionada DOF 01-05-2019

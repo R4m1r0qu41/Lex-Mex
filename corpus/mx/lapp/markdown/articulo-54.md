@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAPP.pdf
 source_sha256: a4505a7bd41bc835f1def6fb030c42d8e74a2cc050d9c8fa08f91c9519e382bf
 ---
 
+> Capítulo Cuarto · Sección Cuarta
+
 # Artículo 54
 
 Hecha la evaluación de las propuestas, el proyecto se adjudicará al participante que haya presentado la propuesta solvente, por cumplir los requisitos legales, técnicos y económicos, conforme a los criterios establecidos en las bases del concurso y, por tanto, garantiza su cumplimiento. Si resultare que dos o más propuestas son solventes por satisfacer los requisitos solicitados, el proyecto se adjudicará a la propuesta que asegure las mejores condiciones económicas para el Estado, conforme a lo previsto en los propios criterios de evaluación señalados en las bases del concurso.

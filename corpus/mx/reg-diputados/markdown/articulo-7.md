@@ -24,5 +24,3 @@ I. Contar con los recursos humanos, materiales y financieros que les permitan de
 II. Disponer de los servicios de comunicación, telemáticos y demás servicios con que cuente la [Cámara](articulo-2.md) para el desarrollo de su función. Fracción reformada DOF 20-04-2011
 
 2. La satisfacción de las solicitudes de los diputados y diputadas, con base en las prerrogativas enunciadas, estará sujeta a las limitaciones legales y a las disponibilidades de los recursos presupuestarios, financieros, administrativos y humanos de la Cámara.
-
-Sección Tercera Obligaciones de los Diputados y Diputadas

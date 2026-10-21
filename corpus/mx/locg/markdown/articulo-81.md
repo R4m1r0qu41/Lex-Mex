@@ -28,5 +28,3 @@ source_sha256: 30e92e19100dc26408ce0b130151f8c44fe25aeb113eff14f3515553330ba230
 5. Si al iniciar la legislatura ningún coordinador cuenta con la mayoría absoluta del voto ponderado de la Junta, la Presidencia de ésta será ejercida, en forma alternada y para cada año legislativo, por los coordinadores de los grupos parlamentarios que cuenten con un número de senadores que representen, al menos, el 25 por ciento del total de la Cámara. El orden anual para presidir la Junta será determinado por el coordinador del grupo parlamentario de mayor número de senadores.
 
 6. El Presidente de la Junta nombrará a un Secretario Técnico, quien será responsable de preparar los documentos para las reuniones, elaborar las actas y comunicar los acuerdos a las instancias correspondientes de la Cámara.
-
-Sección Segunda De sus Atribuciones

@@ -22,5 +22,3 @@ source_sha256: 6fa1d25c31c4d8c2cc8074208b10a2f3ff35fecce26c1cc03ba18117cfec80d1
 2. El presidente tendrá la responsabilidad de vigilar que se haga buen uso de los espacios, de la [Cámara](articulo-2.md), asignados a los grupos, diputados y diputadas sin partido e independientes. Numeral reformado DOF 18-12-2015
 
 3. Si ocurriere algún daño a los espacios o recursos de la Cámara, por los grupos o diputados y diputadas, será cubierto con recursos de éstos, de conformidad con la normatividad administrativa aplicable.
-
-Sección Segunda Salón de Sesiones y Salón de Plenos

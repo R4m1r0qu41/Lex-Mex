@@ -33,4 +33,6 @@ VI. Cuando en un establecimiento se vendan o suministren substancias psicotrópi
 
 VI Bis. Cuando en un establecimiento se practiquen pruebas cosméticas en animales con el propósito de fabricar o comercializar productos cosméticos, en términos del artículo [271 Bis](articulo-271-Bis.md) de esta Ley; Fracción adicionada DOF 14-10-2021
 
-VII. Cuando se compruebe que las actividades que se realicen en un establecimiento violan las disposiciones sanitarias, constituyendo un peligro grave para la salud, y Fracción reformada DOF 14-10-2021 VIII. Por reincidencia en tercera ocasión. Fracción adicionada DOF 07-05-1997
+VII. Cuando se compruebe que las actividades que se realicen en un establecimiento violan las disposiciones sanitarias, constituyendo un peligro grave para la salud, y Fracción reformada DOF 14-10-2021
+
+VIII. Por reincidencia en tercera ocasión. Fracción adicionada DOF 07-05-1997

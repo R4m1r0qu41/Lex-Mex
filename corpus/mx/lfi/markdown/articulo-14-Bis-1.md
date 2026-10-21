@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf
 source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 ---
 
+> Título II · Capítulo Tercero
+
 # Artículo 14 Bis 1
 
 Las acciones representativas del capital social fijo de los fondos de inversión solo podrán ser suscritas por la persona que conforme a esta Ley pueda tener el carácter de socio fundador. Las acciones que representen el capital fijo serán de una sola serie y clase, sin derecho a retiro y solo podrán transmitirse en propiedad o afectarse en garantía o fideicomiso, previa autorización de la [Comisión](articulo-2.md).

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSPCAPF.pdf
 source_sha256: b4a968d8e8c138ac2069f6afa0dc622178328df24f59cf58eddbab8efe4a7eff
 ---
 
+> Capítulo Décimo Cuarto
+
 # Artículo 80
 
 Una vez iniciado el procedimiento, la persona titular de la [Unidad](articulo-2.md) de Administración y Finanzas o su equivalente, de la dependencia, puede, de acuerdo con la gravedad del incumplimiento, suspender temporalmente al servidor público de carrera, sin perjuicio de continuar el procedimiento hasta agotarlo en los términos y plazos previstos en este reglamento. Párrafo reformado DOF 04-01-2024

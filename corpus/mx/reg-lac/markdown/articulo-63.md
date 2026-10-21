@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAC.pdf
 source_sha256: 4dcf5277184d5f5c5cc1c8ae2dfa196134b472d883eb2806c7bac27cd77eda7d
 ---
 
-> Capítulo IV
+> Título Segundo · Capítulo IV
 
 # Artículo 63
 
@@ -27,8 +27,8 @@ III. La póliza de seguro en los términos del artículo [74](../../lac/markdown
 
 IV. Los datos del área en donde se pretenda realizar la demostración y los aeródromos civiles involucrados en la misma, y
 
-V. Las licencias, los certificados de aptitud psicofísica y las capacidades vigentes del personal técnico aeronáutico de vuelo que participe. Fracción reformada DOF 31-05-2023 Cuando se trate de aeronaves procedentes del extranjero se debe informar, además, sobre la ruta de entrada y salida a territorio nacional, tiempo estimado de permanencia y la base de operaciones temporal.
+V. Las licencias, los certificados de aptitud psicofísica y las capacidades vigentes del personal técnico aeronáutico de vuelo que participe. Fracción reformada DOF 31-05-2023
+
+Cuando se trate de aeronaves procedentes del extranjero se debe informar, además, sobre la ruta de entrada y salida a territorio nacional, tiempo estimado de permanencia y la base de operaciones temporal.
 
 En su caso, la Agencia Federal de Aviación Civil debe emitir la autorización a que se refiere el presente artículo en un plazo no mayor a diez días hábiles. Si después de dicho plazo no se ha emitido resolución alguna, ésta se debe considerar como negada. Párrafo adicionado DOF 08-08-2000. Reformado DOF 31-05-2023
-
-Capítulo V De la responsabilidad por daños y de los seguros aéreos

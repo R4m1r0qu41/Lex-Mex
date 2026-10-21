@@ -20,5 +20,3 @@ source_sha256: aa6e0e437331debd80d0086155e2d99885ea5e22cb13353c44eb0b1090f0b4d5
 Para el [Instituto](articulo-6.md), será obligatoria la atención de las mujeres embarazadas que presenten una urgencia obstétrica, solicitada de manera directa o a través de la referencia de otra unidad médica, en las unidades con capacidad para la atención de urgencias obstétricas, independientemente de su derechohabiencia o afiliación a cualquier esquema de aseguramiento.
 
 Artículo adicionado DOF 12-11-2015
-
-Sección II Del Comité de Evaluación y Seguimiento de los Servicios de Salud

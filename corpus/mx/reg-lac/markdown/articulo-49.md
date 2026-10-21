@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAC.pdf
 source_sha256: 4dcf5277184d5f5c5cc1c8ae2dfa196134b472d883eb2806c7bac27cd77eda7d
 ---
 
+> Título Segundo · Capítulo III
+
 # Artículo 49
 
 Las personas concesionarias, asignatarias o permisionarias pueden fijar y modificar libremente las tarifas por los servicios que presten; considerando en su determinación todos aquellos elementos para su valoración, mismas que, deben aplicar de manera no discriminatoria, en igualdad de condiciones para todas las personas pasajeras y cumplir con las obligaciones señaladas en los artículos [42](../../lac/markdown/articulo-42.md) y [42 Bis](../../lac/markdown/articulo-42-Bis.md) de la [Ley](articulo-2.md).

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSPCAPF.pdf
 source_sha256: b4a968d8e8c138ac2069f6afa0dc622178328df24f59cf58eddbab8efe4a7eff
 ---
 
+> Capítulo Octavo
+
 # Artículo 21
 
 En el Subsistema de Planeación de Recursos Humanos se deben efectuar los procesos de registro y análisis de la información que remitan las dependencias a la Secretaría, para la operación del Sistema y toma de decisiones en materia de recursos humanos en la Administración Pública. Párrafo reformado DOF 04-01-2024

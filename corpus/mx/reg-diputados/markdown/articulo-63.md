@@ -21,7 +21,9 @@ source_sha256: 6fa1d25c31c4d8c2cc8074208b10a2f3ff35fecce26c1cc03ba18117cfec80d1
 
 2. Cuando un dictamen sea remitido a la Mesa Directiva, ésta tendrá tres días hábiles para hacer a las comisiones las sugerencias necesarias para dar cumplimiento a lo establecido en el párrafo anterior.
 
-3. La Mesa Directiva sólo podrá hacer las sugerencias respecto a cuestiones técnicas del dictamen y no podrá hacer modificaciones al texto aprobado en comisiones. Numeral adicionado DOF 20-04-2011 4. Cuando las comisiones acuerden con la Mesa Directiva los términos finales del dictamen, no podrán pasar más de dos sesiones ordinarias, sin que se incluya en el Orden del día, para efectos de declaratoria de publicidad. Numeral recorrido DOF 20-04-2011
+3. La Mesa Directiva sólo podrá hacer las sugerencias respecto a cuestiones técnicas del dictamen y no podrá hacer modificaciones al texto aprobado en comisiones. Numeral adicionado DOF 20-04-2011
+
+4. Cuando las comisiones acuerden con la Mesa Directiva los términos finales del dictamen, no podrán pasar más de dos sesiones ordinarias, sin que se incluya en el Orden del día, para efectos de declaratoria de publicidad. Numeral recorrido DOF 20-04-2011
 
 5. El mismo plazo se observará para que sea presentado a discusión y votación en el Pleno. La excepción a esta norma sólo podrá darse cuando:
 

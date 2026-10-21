@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSPCAPF.pdf
 source_sha256: b4a968d8e8c138ac2069f6afa0dc622178328df24f59cf58eddbab8efe4a7eff
 ---
 
+> Capítulo Décimo Tercero
+
 # Artículo 70
 
 Las personas servidoras públicas sujetas a evaluación del desempeño y sus superiores jerárquicos deben llevar a cabo sesiones de seguimiento o un plan de acción para mejorar su desempeño y lograr el cumplimiento de metas del periodo correspondiente.

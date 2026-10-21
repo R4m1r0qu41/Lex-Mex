@@ -18,5 +18,3 @@ source_sha256: ef712663724737ddfd8542c8104eeb983303f651b7cf8a76bba9d30539a7e6fa
 # Artículo 28
 
 La administración de los recursos al cuidado del Gobierno Federal se realizará en los términos que se pacten en los instrumentos jurídicos que al efecto se celebren con la [Tesorería](articulo-2.md).
-
-Sección Segunda De los Depósitos ante la Tesorería

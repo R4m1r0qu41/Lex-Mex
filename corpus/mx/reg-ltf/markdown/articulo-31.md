@@ -18,5 +18,3 @@ source_sha256: 0be5ea342f5f369fb2b1cb6bad156b1229c335fd98f1ce0ad0bd229769023ce0
 # Artículo 31
 
 El depositante o la autoridad que constituya un depósito será el responsable de realizar las gestiones para la devolución o aplicación de los recursos, así como para la cancelación del depósito correspondiente.
-
-Sección Tercera De la Inversión de las Disponibilidades

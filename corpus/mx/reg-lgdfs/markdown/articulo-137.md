@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGDFS.pdf
 source_sha256: a4dbcdb94d780332f0bda62246611dab5972e75bcb01df293df93a95cdd03530
 ---
 
-> Título TERCERO
+> Título TERCERO · Capítulo II
 
 # Artículo 137
 
@@ -32,5 +32,3 @@ V. Destino de los productos de la vegetación;
 VI. Código de identificación que corresponda, y VII. Vigencia para realizar la remoción y transporte de los productos de la vegetación.
 
 Las constancias que la Comisión emita para Terrenos diversos a los forestales deberán incluir el volumen en existencia de [Madera en rollo](articulo-2.md).
-
-Sección VI Cambio de Uso de Suelo en Terrenos Forestales

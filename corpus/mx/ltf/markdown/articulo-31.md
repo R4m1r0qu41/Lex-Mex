@@ -24,5 +24,3 @@ La [Tesorería](articulo-2.md) llevará a cabo las operaciones de inversión de 
 El Comité Técnico estará integrado por el Secretario de Hacienda y Crédito Público, quien fungirá como Presidente; por el Titular de la Tesorería de la Federación, quien fungirá como secretario del Comité y, en caso de ausencia del Secretario, será quien presida dicho Comité; por el Subsecretario de Hacienda y Crédito Público; por el Subsecretario de Ingresos, y por el Subsecretario de Egresos. Asimismo, podrá asistir en calidad de invitado, con voz pero sin voto, un representante del Banco de México que, en todo caso, será el Subgobernador que al efecto designe el Gobernador de ese instituto central.
 
 El [Reglamento](articulo-2.md) establecerá lo relativo a la suplencia, organización y funcionamiento del Comité Técnico.
-
-Sección Cuarta De la Custodia de los Valores que Representan Inversiones Financieras del Gobierno Federal

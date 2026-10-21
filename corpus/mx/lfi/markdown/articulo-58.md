@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf
 source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 ---
 
+> Título IV · Capítulo Primero
+
 # Artículo 58
 
 La [Comisión](articulo-2.md), mediante disposiciones de carácter general, determinará las características de las operaciones que celebren los fondos de inversión, así como las que realicen las sociedades operadoras de fondos de inversión y distribuidoras de acciones de fondos de inversión, con el público inversionista.

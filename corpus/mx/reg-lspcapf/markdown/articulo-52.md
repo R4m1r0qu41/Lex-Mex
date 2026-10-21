@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSPCAPF.pdf
 source_sha256: b4a968d8e8c138ac2069f6afa0dc622178328df24f59cf58eddbab8efe4a7eff
 ---
 
+> Capítulo Décimo Primero
+
 # Artículo 52
 
 Las dependencias pueden ocupar temporalmente puestos con servidores públicos de carrera que cubran el perfil requerido para el puesto, en los casos siguientes: Párrafo reformado DOF 04-01-2024

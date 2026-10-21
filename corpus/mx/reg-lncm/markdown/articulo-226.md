@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Tercero · Capítulo I
+
 # Artículo 226
 
 Los navieros extranjeros para la explotación y operación de Embarcaciones extranjeras en Navegación de cabotaje requerirán permiso temporal de Navegación conforme a lo establecido en el artículo [41](../../lncm/markdown/articulo-41.md) de la [Ley](articulo-10.md), excepto cuando su operación y explotación estén destinadas a:

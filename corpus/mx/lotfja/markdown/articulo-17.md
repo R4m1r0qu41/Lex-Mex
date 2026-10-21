@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LOTFJA.pdf
 source_sha256: b32c33fa4ed071dc8bea1ad69ce8510cdb05016967e9e4fcb60f10c6f2216628
 ---
 
-> Título SEGUNDO
+> Título SEGUNDO · Capítulo V
 
 # Artículo 17
 
@@ -42,5 +42,3 @@ XI. Ordenar que se reabra la instrucción y la consecuente devolución de los au
 XII. Podrá ejercer de oficio la facultad de atracción para la resolución de los recursos de reclamación y revisión, en casos de trascendencia que así considere o para fijar jurisprudencia, y
 
 XIII. Las señaladas en las demás leyes que competa conocer al Pleno Jurisdiccional de la Sala Superior del Tribunal.
-
-Capítulo VI De las atribuciones de la Primera y Segunda Sección de la Sala Superior

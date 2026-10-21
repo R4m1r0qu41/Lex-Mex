@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCPQ.pdf
 source_sha256: 39d132d9b54587ce0636972dfe474936d152717e7d656864e160a637347628c6
 ---
 
-> Capítulo SEGUNDO
+> Capítulo SEGUNDO · Sección Tercera
 
 # Artículo 12
 
@@ -33,4 +33,4 @@ VI. Órdenes de producción, y
 
 VII. Demás información que se deba reportar en el Sistema Integral de Sustancias, en los términos que señale el Reglamento de esta Ley.
 
-Artículo reformado DOF 03-05-2023 LEY FEDERAL PARA EL CONTROL DE PRECURSORES QUÍMICOS, PRODUCTOS QUÍMICOS ESENCIALES Y MÁQUINAS PARA ELABORAR CÁPSULAS, TABLETAS Y/O COMPRIMIDOS
+Artículo reformado DOF 03-05-2023

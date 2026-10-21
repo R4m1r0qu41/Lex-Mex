@@ -23,7 +23,9 @@ I. El control y la vigilancia sanitarios de la disposición y trasplantes de ór
 
 II. La regulación sobre cadáveres, en los términos de esta Ley;
 
-III. Establecer y dirigir las políticas en salud en materia de donación, procuración y trasplantes de órganos, tejidos, células troncales, así como de la disposición de sangre, productos sanguíneos y hemoderivados, para lo cual se apoyará en el Centro Nacional de Trasplantes, y en el Centro Nacional de la Transfusión Sanguínea; Fracción reformada DOF 15-01-2026 IV. Emitir las disposiciones de carácter general que permitan la homologación de los criterios de atención médica integral en la materia, y
+III. Establecer y dirigir las políticas en salud en materia de donación, procuración y trasplantes de órganos, tejidos, células troncales, así como de la disposición de sangre, productos sanguíneos y hemoderivados, para lo cual se apoyará en el Centro Nacional de Trasplantes, y en el Centro Nacional de la Transfusión Sanguínea; Fracción reformada DOF 15-01-2026
+
+IV. Emitir las disposiciones de carácter general que permitan la homologación de los criterios de atención médica integral en la materia, y
 
 V. Elaborar y llevar a cabo, en coordinación con las instituciones públicas del Sistema Nacional de Salud y con los gobiernos de las entidades federativas, campañas permanentes de concientización sobre la importancia de la donación de órganos, tejidos y células troncales para fines de trasplantes, así como de sangre y productos sanguíneos para efectos de transfusiones y otros usos terapéuticos. Fracción reformada DOF 20-04-2015, 15-01-2026
 

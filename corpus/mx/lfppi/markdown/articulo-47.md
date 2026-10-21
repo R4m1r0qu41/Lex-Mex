@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPPI.pdf
 source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 ---
 
-> Título SEGUNDO
+> Título SEGUNDO · Capítulo II
 
 # Artículo 47
 
@@ -33,4 +33,6 @@ VI.- Las formas de presentar información;
 
 VII.- El material biológico y genético, tal como se encuentra en la naturaleza, y
 
-VIII.- La yuxtaposición de invenciones conocidas o combinación de productos conocidos, salvo que se trate de su combinación o fusión que no pueda funcionar separadamente o que las cualidades o funciones características de las mismas sean modificadas para obtener un resultado industrial o un uso no obvio para una persona técnica en la materia. Fracción reformada DOF 03-04-2026 No se considerará invención la materia prevista en las fracciones I a VIII de este artículo, cuando en la solicitud exclusivamente se reclame ésta como tal, o en sí misma. Párrafo reformado DOF 03-04-2026
+VIII.- La yuxtaposición de invenciones conocidas o combinación de productos conocidos, salvo que se trate de su combinación o fusión que no pueda funcionar separadamente o que las cualidades o funciones características de las mismas sean modificadas para obtener un resultado industrial o un uso no obvio para una persona técnica en la materia. Fracción reformada DOF 03-04-2026
+
+No se considerará invención la materia prevista en las fracciones I a VIII de este artículo, cuando en la solicitud exclusivamente se reclame ésta como tal, o en sí misma. Párrafo reformado DOF 03-04-2026

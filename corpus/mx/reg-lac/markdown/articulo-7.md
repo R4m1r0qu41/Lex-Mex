@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAC.pdf
 source_sha256: 4dcf5277184d5f5c5cc1c8ae2dfa196134b472d883eb2806c7bac27cd77eda7d
 ---
 
+> Título Segundo · Capítulo I
+
 # Artículo 7
 
 El servicio de transporte aéreo nacional no regular bajo la modalidad de fletamento es aquél en que la persona permisionaria pone a disposición del fletador, la capacidad útil total o parcial de una o más aeronaves con el personal técnico aeronáutico de vuelo. Párrafo reformado DOF 31-05-2023

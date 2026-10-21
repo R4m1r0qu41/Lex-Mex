@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAC.pdf
 source_sha256: 4dcf5277184d5f5c5cc1c8ae2dfa196134b472d883eb2806c7bac27cd77eda7d
 ---
 
+> Título Segundo · Capítulo III
+
 # Artículo 36
 
 Toda persona concesionaria, asignataria o permisionaria que preste servicio al público de transporte aéreo debe expedir un contrato de acuerdo al tipo de servicio que opere, conforme a lo siguiente: Párrafo reformado DOF 31-05-2023

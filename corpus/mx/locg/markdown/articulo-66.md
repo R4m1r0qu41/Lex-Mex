@@ -48,5 +48,3 @@ m) Las demás que se deriven de esta Ley o del Reglamento. Inciso recorrido DOF 
 2. Las facultades que se precisan en los incisos a), d), e), f), g), h) y l), serán ejercidas por el Presidente de la Mesa Directiva. Numeral reformado DOF 20-05-2014
 
 3. Las facultades que se precisan en los incisos b), c), i), j) y k), serán ejercidas de manera colegiada, por acuerdo de la mayoría absoluta de los miembros presentes de la Mesa Directiva. En caso de empate, el Presidente de la misma tendrá voto de calidad. Para sesionar válidamente deberán asistir más de la mitad de sus integrantes. Numeral reformado DOF 20-05-2014
-
-Sección Tercera De su Presidente

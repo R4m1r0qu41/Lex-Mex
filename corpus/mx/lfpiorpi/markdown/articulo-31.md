@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPIORPI.pdf
 source_sha256: 2e35228bd3100a3a137f313359833c4836f2b4b6d4e52e1ce4fe58a970cd768f
 ---
 
+> Capítulo III · Sección Cuarta
+
 # Artículo 31
 
 La [Entidad Colegiada](articulo-3.md) deberá de informar con cuando menos treinta días de anticipación, a sus integrantes y a la [Secretaría](articulo-3.md), la intención de extinción, disolución o liquidación de la misma, o bien de su intención de dejar de actuar como intermediario entre sus integrantes y la Secretaría. Párrafo reformado DOF 16-07-2025
@@ -22,5 +24,3 @@ A partir de la extinción, disolución o liquidación, o bien de que deje de act
 Previo a la liquidación, disolución o extinción de la Entidad Colegiada, o bien, a que deje de actuar como intermediario entre sus integrantes y la Secretaría, deberá devolver a sus integrantes la información y documentación que estos le hayan proporcionado para el cumplimiento de sus obligaciones.
 
 En aquellos casos en los que deje de tener vigencia el convenio celebrado con la Secretaría, la Entidad Colegiada deberá de proceder de conformidad con lo anteriormente señalado.
-
-Capítulo IV Del Uso de Efectivo y Metales

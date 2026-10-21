@@ -1,5 +1,170 @@
 [
   {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:1997-05-07:transitory:primero",
+    "label": "Transitorio PRIMERO — Decreto DOF 1997-05-07",
+    "text": "El presente Decreto entrará en vigor a los sesenta días siguientes de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:1997-05-07:transitory:segundo",
+    "label": "Transitorio SEGUNDO — Decreto DOF 1997-05-07",
+    "text": "Los expedientes en trámite relacionados con las autorizaciones sanitarias, se concluirán en lo que beneficie a los interesados en los términos del presente Decreto."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:1997-05-07:transitory:tercero",
+    "label": "Transitorio TERCERO — Decreto DOF 1997-05-07",
+    "text": "En tanto se expiden las disposiciones administrativas que se deriven del presente Decreto, seguirán en vigor las que han regido hasta ahora, en lo que no lo contravengan."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2000-05-26:transitory:primero",
+    "label": "Transitorio PRIMERO — Decreto DOF 2000-05-26",
+    "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo las disposiciones que a continuación se señalan que entrarán en vigor en los plazos que se indican, contados a partir de la expresada publicación:\n\nI. A los tres meses los artículos 316, segundo párrafo, 322; 323, 324 y 325, y\n\nII. A los doce meses el artículo 336, segundo párrafo."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2000-05-26:transitory:segundo",
+    "label": "Transitorio SEGUNDO — Decreto DOF 2000-05-26",
+    "text": "En tanto se expiden las disposiciones administrativas que se deriven del presente Decreto, seguirán en vigor las que han regido hasta ahora, en lo que no lo contravengan."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2000-05-26:transitory:tercero",
+    "label": "Transitorio TERCERO — Decreto DOF 2000-05-26",
+    "text": "La Secretaría de Salud, en un plazo no mayor de seis meses contados a partir de la entrada en vigor del presente Decreto, promoverá ante las demás dependencias de la Administración Pública Federal y los gobiernos de las entidades federativas, que se otorguen facilidades para que en los documentos públicos que les corresponda expedir a los particulares, éstos puedan asentar su consentimiento expreso o negativa para la donación de órganos y tejidos."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2000-05-26:transitory:cuarto",
+    "label": "Transitorio CUARTO — Decreto DOF 2000-05-26",
+    "text": "La Secretaría de Salud, en un plazo no mayor de nueve meses contados a partir de la entrada en vigor del presente Decreto, deberá tener debidamente integrada la información señalada en el artículo 338."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2000-05-26:transitory:quinto",
+    "label": "Transitorio QUINTO — Decreto DOF 2000-05-26",
+    "text": "En tanto entra en funciones el Centro Nacional de Trasplantes, la Secretaría de Salud ejercerá las facultades de control sanitario a que se refiere la fracción I del artículo 313 de esta Ley, por conducto de la unidad administrativa que, conforme al Reglamento Interior de esa Dependencia, actualmente tenga a su cargo la vigilancia de los actos de disposición de órganos."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2000-05-31:transitory:unico",
+    "label": "Transitorio Unico — Decreto DOF 2000-05-31",
+    "text": "Este decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2001-01-05:transitory:unico",
+    "label": "Transitorio UNICO — Decreto DOF 2001-01-05",
+    "text": "El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2002-06-04:transitory:unico",
+    "label": "Transitorio UNICO — Decreto DOF 2002-06-04",
+    "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2003-05-15:transitory:primero",
+    "label": "Transitorio PRIMERO — Decreto DOF 2003-05-15",
+    "text": "El presente Decreto entrará en vigor el 1o. de enero del año dos mil cuatro."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2003-05-15:transitory:segundo",
+    "label": "Transitorio SEGUNDO — Decreto DOF 2003-05-15",
+    "text": "El Ejecutivo Federal deberá emitir el Reglamento de la Ley General de Salud en Materia de Protección Social en Salud, en un plazo que no excederá de noventa días contados a partir de la entrada en vigor del presente Decreto."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2003-05-15:transitory:tercero",
+    "label": "Transitorio TERCERO — Decreto DOF 2003-05-15",
+    "text": "En un plazo similar al que se refiere la disposición transitoria anterior, el Consejo de Salubridad General deberá emitir las resoluciones que le correspondan como consecuencia de este Decreto."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2003-05-15:transitory:cuarto",
+    "label": "Transitorio CUARTO — Decreto DOF 2003-05-15",
+    "text": "Para los efectos del artículo 77 Bis 1, dentro de los servicios de salud se incluirán progresivamente todas las intervenciones de manera integral, con exclusión de las intervenciones cosméticas, experimentales y las que no hayan demostrado su eficacia."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2003-05-15:transitory:quinto",
+    "label": "Transitorio QUINTO — Decreto DOF 2003-05-15",
+    "text": "Para los efectos del artículo 77 Bis 9, los estados y el Distrito Federal acreditarán gradualmente la calidad de las unidades médicas de la administración pública, tanto federal como local, que se incorporen al Sistema de Protección Social en Salud."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2003-05-15:transitory:sexto",
+    "label": "Transitorio SEXTO — Decreto DOF 2003-05-15",
+    "text": "Para efectos del artículo 77 Bis 7, fracción III, la Cédula del Registro Nacional de Población se exigirá en la medida en que dicho medio de identificación nacional se vaya expidiendo a los usuarios de Protección Social en Salud."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2003-05-15:transitory:septimo",
+    "label": "Transitorio SÉPTIMO — Decreto DOF 2003-05-15",
+    "text": "Para los efectos del artículo 77 Bis 12 de la Ley, la fecha de inicio para el cálculo de la actualización conforme al Índice Nacional de Precios al Consumidor será el primero de enero de 2004."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2003-05-15:transitory:octavo",
+    "label": "Transitorio OCTAVO — Decreto DOF 2003-05-15",
+    "text": "A partir de la entrada en vigor de este Decreto, cada año y de manera acumulativa, se podrán incorporar al Sistema de Protección Social en Salud hasta el equivalente a 14.3% de las familias susceptibles de nueva incorporación, con el fin de alcanzar el 100% de cobertura en el año 2010.\n\nEn el ejercicio fiscal 2004 y subsecuentes, podrán adherirse las familias cuya incorporación pueda ser cubierta con cargo a los recursos del Fondo de Aportaciones para los Servicios de Salud a que se refiere la Ley de Coordinación Fiscal, con cargo a los recursos de los programas del Ramo Administrativo 12 Salud del Presupuesto de Egresos de la Federación y, con cargo a los recursos para la función Salud que el Ejecutivo Federal presente para el Sistema de Protección Social en Salud y que la Cámara de Diputados apruebe.\n\nLa cobertura de los servicios de protección social en salud iniciará dando preferencia a la población de los dos primeros deciles de ingreso en las áreas de mayor marginación, zonas rurales e indígenas, de conformidad con los padrones que para el efecto maneje el Gobierno Federal."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2003-05-15:transitory:noveno",
+    "label": "Transitorio NOVENO — Decreto DOF 2003-05-15",
+    "text": "La aportación solidaria de los gobiernos de los estados y el Distrito Federal en términos del artículo 77 Bis 13, deberá iniciarse en el ejercicio fiscal de su incorporación al Sistema de Protección Social en Salud."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2003-05-15:transitory:decimo",
+    "label": "Transitorio DÉCIMO — Decreto DOF 2003-05-15",
+    "text": "Con el objeto de que los programas en materia de salud se ejecuten de manera más eficiente y eficaz, en el Presupuesto de Egresos de la Federación para el Ejercicio Fiscal 2004 y en los años subsecuentes, los recursos aprobados para la función Salud se identificarán con una estrategia integral que sea congruente con el Sistema de Protección Social en Salud."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2003-05-15:transitory:decimo-primero",
+    "label": "Transitorio DÉCIMO PRIMERO — Decreto DOF 2003-05-15",
+    "text": "La Secretaría de Salud deberá constituir la previsión presupuestal a que se refiere el artículo 77 Bis 18 en el ejercicio presupuestal siguiente a aquel en que se apruebe y publique este Decreto."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2003-05-15:transitory:decimo-segundo",
+    "label": "Transitorio DÉCIMO SEGUNDO — Decreto DOF 2003-05-15",
+    "text": "A partir del ejercicio fiscal en que se celebre el acuerdo de coordinación correspondiente, para la entidad federativa suscriptora, el monto total de recursos aprobados del Fondo de Aportaciones para los Servicios de Salud, establecido en la Ley de Coordinación Fiscal, será utilizado para financiar los recursos que el Gobierno Federal debe destinar al Sistema de Protección Social en Salud en los términos de los artículos 77 Bis 13, fracción II y 77 Bis 20 de esta Ley.\n\nPara los efectos del párrafo anterior, las aportaciones solidarias a que se refiere el artículo 77 Bis 13, fracción II, de la Ley, se realizarán en la medida en que se incorporen las familias al Sistema en los términos del artículo transitorio octavo y de los acuerdos de coordinación correspondientes, sin afectar la continuidad de la atención de las familias no aseguradas.\n\nEl Sistema de Protección Social en Salud dejará sin efectos, respecto de la entidad federativa que se incorpore al mismo, la aplicación de las disposiciones relativas al Fondo de Aportaciones para los Servicios de Salud establecidas en los artículos 25, fracción II, 29, 30 y 31 de la Ley de Coordinación Fiscal, a partir de la fecha en que suscriba el acuerdo de coordinación correspondiente. Lo anterior, sin perjuicio de la continuidad de la atención de las familias no aseguradas que deberá establecerse en el respectivo acuerdo de coordinación. Los recursos necesarios para dar continuidad a dicha atención serán calculados, sólo para efectos de referencia, con base en lo dispuesto en el artículo 30 de la Ley de Coordinación Fiscal, una vez descontados los recursos federales que se destinarán para financiar a las familias que se incorporen al Sistema."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2003-05-15:transitory:decimo-tercero",
+    "label": "Transitorio DÉCIMO TERCERO — Decreto DOF 2003-05-15",
+    "text": "Para los efectos de los artículos 77 Bis 13 y 77 Bis 20 de la Ley, la Secretaría de Salud determinará como punto de partida para el primer cálculo, qué montos del Fondo de Aportaciones para los Servicios de Salud a que se refiere la Ley de Coordinación Fiscal se destinó en el ejercicio fiscal de 2003 para la prestación de servicios de salud a la persona y para la prestación de servicios de salud a la comunidad, respectivamente."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2003-05-15:transitory:decimo-cuarto",
+    "label": "Transitorio DÉCIMO CUARTO — Decreto DOF 2003-05-15",
+    "text": "En un plazo que no excederá de noventa días contados a partir de la entrada en vigor de este Decreto, la Federación deberá emitir las reglas a que se sujetará el Fondo de Protección contra Gastos Catastróficos a que se refiere el artículo 77 Bis 29.\n\nPara los efectos de dicho artículo, el fondo incluirá a la entrada en vigor de este Decreto, las siguientes categorías:\n\nI. El diagnóstico y tratamiento del Cáncer, problemas cardiovasculares, enfermedades cerebro- vasculares, lesiones graves, rehabilitación de largo plazo, VIH/SIDA, y\n\nII. Cuidados intensivos neonatales, trasplantes y diálisis. El Consejo de Salubridad General actualizará periódicamente estas categorías con base en los criterios establecidos en el artículo 77 Bis 29 de la Ley."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2003-05-15:transitory:decimo-quinto",
+    "label": "Transitorio DÉCIMO QUINTO — Decreto DOF 2003-05-15",
+    "text": "El Ejecutivo Federal deberá emitir el Reglamento del Consejo Nacional de Protección Social en Salud a que se refiere el artículo 77 Bis 33, en un plazo que no excederá de noventa días contados a partir de la entrada en vigor del presente Decreto."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2003-05-15:transitory:decimo-sexto",
+    "label": "Transitorio DÉCIMO SEXTO — Decreto DOF 2003-05-15",
+    "text": "Derogado\n\nArtículo derogado DOF 15-01-2026"
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2003-05-15:transitory:decimo-septimo",
+    "label": "Transitorio DÉCIMO SÉPTIMO — Decreto DOF 2003-05-15",
+    "text": "Para los efectos de la primera integración del Consejo Nacional de Protección Social en Salud a que se refiere el artículo 77 Bis 33, se invitará a los titulares de los servicios estatales de salud de las cinco primeras entidades federativas en suscribir el acuerdo de coordinación para su integración al Sistema de Protección Social en Salud, a que se refiere el artículo 77 Bis 6 de la Ley."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2003-05-15:transitory:decimo-octavo",
+    "label": "Transitorio DÉCIMO OCTAVO — Decreto DOF 2003-05-15",
+    "text": "El Ejecutivo Federal deberá emitir el reglamento interno de la Comisión Nacional del Sistema de Protección Social en Salud a que se refiere el artículo 77 Bis 35, en un plazo que no excederá de sesenta días a partir de la entrada en vigor del presente Decreto."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2003-05-15:transitory:decimo-noveno",
+    "label": "Transitorio DÉCIMO NOVENO — Decreto DOF 2003-05-15",
+    "text": "La Secretaría de Salud dispondrá lo necesario para dar continuidad a las acciones derivadas del Programa de Salud para Todos en los mismos términos en que se ha desarrollado a la fecha, hasta en tanto se encuentre en operación plena la ejecución del presente Decreto de reformas."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2003-05-15:transitory:vigesimo",
+    "label": "Transitorio VIGÉSIMO — Decreto DOF 2003-05-15",
+    "text": "El Congreso de la Unión en uso de sus facultades legales, podrá a través de sus órganos dar seguimiento al cumplimiento de las normas aprobadas en el presente Decreto."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2003-05-15:transitory:vigesimo-primero",
+    "label": "Transitorio VIGÉSIMO PRIMERO — Decreto DOF 2003-05-15",
+    "text": "El Programa de Desarrollo Humano Oportunidades, continuará operando conforme al modelo de atención establecido en sus reglas de operación. La Secretaría de Desarrollo Social administrará el padrón de beneficiarios de este Programa, y para su operación se coordinará con la Secretaría de Salud, a fin de evitar duplicidades administrativas."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2003-06-13:transitory:unico",
+    "label": "Transitorio Único — Decreto DOF 2003-06-13",
+    "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+  },
+  {
     "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2003-06-19:transitory:primero",
     "label": "Transitorio Primero — Decreto DOF 2003-06-19",
     "text": "El presente Decreto iniciará su vigencia al día siguiente después de su publicación en el Diario Oficial de la Federación."
@@ -15,6 +180,21 @@
     "text": "Una vez que las autoridades modifiquen las disposiciones reglamentarias, los usuarios contarán con un año para regularizarse."
   },
   {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2003-06-25:transitory:unico",
+    "label": "Transitorio Único — Decreto DOF 2003-06-25",
+    "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2003-06-30:transitory:primero",
+    "label": "Transitorio PRIMERO — Decreto DOF 2003-06-30",
+    "text": "El presente Decreto entrará en vigor al siguiente día de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2003-06-30:transitory:segundo",
+    "label": "Transitorio SEGUNDO — Decreto DOF 2003-06-30",
+    "text": "La organización y distribución de atribuciones de la Comisión Federal para la Protección contra Riesgos Sanitarios se establecerán en el Reglamento que, para tal efecto, expida el Presidente de la República. Hasta en tanto no se expida este Reglamento, continuarán en vigor las disposiciones del"
+  },
+  {
     "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2004-01-19:transitory:primero",
     "label": "Transitorio Primero — Decreto DOF 2004-01-19",
     "text": "El presente Decreto entrará en vigor al siguiente día de su publicación en el Diario Oficial de la Federación."
@@ -23,6 +203,41 @@
     "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2004-01-19:transitory:segundo",
     "label": "Transitorio Segundo — Decreto DOF 2004-01-19",
     "text": "Las disposiciones reglamentarias contrarias a este Decreto quedarán sin efecto al entrar en vigor el mismo."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2004-06-02:transitory:unico",
+    "label": "Transitorio UNICO — Decreto DOF 2004-06-02",
+    "text": "El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2004-11-05:transitory:primero",
+    "label": "Transitorio Primero — Decreto DOF 2004-11-05",
+    "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, sólo en cuanto a los Artículos 333, 461, 462 y 462 Bis de la Ley General de Salud."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2004-11-05:transitory:segundo",
+    "label": "Transitorio Segundo — Decreto DOF 2004-11-05",
+    "text": "A los treinta días de su publicación en cuanto al Artículo 329 de la Ley General de Salud, el Centro Nacional de Trasplantes deberá presentar a la Secretaría de Salud la propuesta del documento mediante el cual se manifestará el consentimiento expreso de todas aquellas personas cuya voluntad sea donar sus órganos después de su muerte para que éstos sean utilizados en trasplantes."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2005-01-18:transitory:primero",
+    "label": "Transitorio Primero — Decreto DOF 2005-01-18",
+    "text": "Los Gobiernos de las Entidades Federativas, adecuarán el reglamento respectivo para establecer la modalidad para la ejecución de los estudios socioeconómicos respectivos."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2005-01-18:transitory:segundo",
+    "label": "Transitorio Segundo — Decreto DOF 2005-01-18",
+    "text": "El Ejecutivo Federal podrá allegarse de los recursos necesarios para dar cumplimiento a las disposiciones del presente Decreto mediante las asignaciones que para compensar la disminución de ingresos por concepto de cuotas de recuperación se destinen en el Presupuesto de Egresos de la Federación para el ejercicio del año 2005."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2005-01-18:transitory:tercero",
+    "label": "Transitorio Tercero — Decreto DOF 2005-01-18",
+    "text": "Todos los niños beneficiarios de esta reforma, deberán ser inscritos obligatoriamente en el Programa de Control del Niño Sano de la jurisdicción sanitaria correspondiente."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2005-01-18:transitory:cuarto",
+    "label": "Transitorio Cuarto — Decreto DOF 2005-01-18",
+    "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
   },
   {
     "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2005-02-24:transitory:primero",
@@ -40,14 +255,94 @@
     "text": "Los titulares de los registros sanitarios de medicamentos y demás insumos para la salud otorgados por tiempo indeterminado deberán someterlos a revisión para obtener la renovación del registro en un plazo de hasta cinco años a partir de la publicación del presente Decreto en el Diario Oficial de la Federación.\n\nLa renovación se otorgará únicamente cuando la Secretaría haya constatado la seguridad y eficacia terapéutica de los insumos para la salud sometidas a revisión de conformidad a las disposiciones sanitarias vigentes, en caso contrario las autorizaciones otorgadas para tiempo indeterminado se entenderán como revocadas para todos los efectos legales y administrativos a que haya lugar."
   },
   {
-    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2005-02-24:transitory:primero",
-    "label": "Transitorio Primero — Decreto DOF 2005-02-24",
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2005-02-24:decree-2:transitory:primero",
+    "label": "Transitorio Primero — Decreto 2 DOF 2005-02-24",
     "text": "Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
   },
   {
-    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2005-02-24:transitory:segundo",
-    "label": "Transitorio Segundo — Decreto DOF 2005-02-24",
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2005-02-24:decree-2:transitory:segundo",
+    "label": "Transitorio Segundo — Decreto 2 DOF 2005-02-24",
     "text": "Con la finalidad de diagnosticar y tratar oportuna e integralmente a las personas con debilidad auditiva y visual, conforme a lo establecido por las modificaciones a la Ley General de Salud, la Secretaría de Salud deberá crear un programa coordinado con la Secretaría de Educación Pública, que integre a los tres niveles de gobierno y que no ponga en riesgo la viabilidad financiera de las Instituciones de Salud."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2005-06-07:transitory:primero",
+    "label": "Transitorio Primero — Decreto DOF 2005-06-07",
+    "text": "El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2005-06-07:transitory:segundo",
+    "label": "Transitorio Segundo — Decreto DOF 2005-06-07",
+    "text": "La legislación secundaria deberá adecuarse a lo dispuesto en este Decreto."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2005-06-28:transitory:unico",
+    "label": "Transitorio Único — Decreto DOF 2005-06-28",
+    "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2005-12-26:transitory:unico",
+    "label": "Transitorio Único — Decreto DOF 2005-12-26",
+    "text": "El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2006-01-12:transitory:unico",
+    "label": "Transitorio Único — Decreto DOF 2006-01-12",
+    "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2006-02-14:transitory:unico",
+    "label": "Transitorio Único — Decreto DOF 2006-02-14",
+    "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2006-04-24:transitory:primero",
+    "label": "Transitorio PRIMERO — Decreto DOF 2006-04-24",
+    "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2006-04-24:transitory:segundo",
+    "label": "Transitorio SEGUNDO — Decreto DOF 2006-04-24",
+    "text": "El Ejecutivo Federal contará con sesenta días a partir de la entrada en vigor de este Decreto para emitir el Reglamento en Materia de Tatuajes, Micropigmentaciones y Perforaciones."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2006-05-25:transitory:unico",
+    "label": "Transitorio Único — Decreto DOF 2006-05-25",
+    "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2006-06-06:transitory:unico",
+    "label": "Transitorio Único — Decreto DOF 2006-06-06",
+    "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2006-09-19:transitory:unico",
+    "label": "Transitorio Único — Decreto DOF 2006-09-19",
+    "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2007-01-18:transitory:unico",
+    "label": "Transitorio Único — Decreto DOF 2007-01-18",
+    "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2007-05-09:transitory:unico",
+    "label": "Transitorio ÚNICO — Decreto DOF 2007-05-09",
+    "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2007-05-09:decree-2:transitory:primero",
+    "label": "Transitorio Primero — Decreto 2 DOF 2007-05-09",
+    "text": "El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2007-05-09:decree-2:transitory:segundo",
+    "label": "Transitorio Segundo — Decreto 2 DOF 2007-05-09",
+    "text": "La Secretaría de Salud contará con 90 días después de entrada en vigor de este Decreto para expedir la reglamentación relativa a la atención médica prehospitalaria."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2007-05-09:decree-2:transitory:tercero",
+    "label": "Transitorio Tercero — Decreto 2 DOF 2007-05-09",
+    "text": "Las personas que den atención prehospitalaria y que son objeto de la regulación que se establece en el artículo 79 de la Ley en comento, tendrán un año para regularizar su situación profesional, a partir de la entrada en vigor del presente decreto."
   },
   {
     "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2007-06-19:transitory:primero",
@@ -57,6 +352,91 @@
   {
     "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2007-06-19:transitory:segundo",
     "label": "Transitorio Segundo — Decreto DOF 2007-06-19",
+    "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2007-12-18:transitory:primero",
+    "label": "Transitorio Primero — Decreto DOF 2007-12-18",
+    "text": "El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2007-12-18:transitory:segundo",
+    "label": "Transitorio Segundo — Decreto DOF 2007-12-18",
+    "text": "La Secretaría de Salud contará con un plazo máximo de 90 días hábiles a partir de la publicación del presente Decreto para emitir las disposiciones reglamentarias respectivas y publicar en el Diario Oficial de la Federación el proyecto de Norma Oficial Mexicana que contenga los lineamientos generales para las instalaciones, operación y buenas prácticas de fabricación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2008-05-30:transitory:primero",
+    "label": "Transitorio PRIMERO — Decreto DOF 2008-05-30",
+    "text": "El presente Decreto entrará en vigor a los 90 días después de su publicación el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2008-05-30:transitory:segundo",
+    "label": "Transitorio SEGUNDO — Decreto DOF 2008-05-30",
+    "text": "Se emitirán los reglamentos a los que se refiere esta Ley, a más tardar 180 días después de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2008-05-30:transitory:tercero",
+    "label": "Transitorio TERCERO — Decreto DOF 2008-05-30",
+    "text": "Todos los procedimientos, recursos administrativos y demás asuntos relacionados con las materias a que refiere esta Ley, iniciados con anterioridad a la entrada en vigor al presente Decreto, se tramitarán y resolverán conforme a las disposiciones vigentes en ese momento."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2008-05-30:transitory:cuarto",
+    "label": "Transitorio CUARTO — Decreto DOF 2008-05-30",
+    "text": "El gobierno del Distrito Federal, los gobiernos de las entidades federativas y de los municipios, deberán adecuar sus Leyes, reglamentos, bandos y demás disposiciones jurídicas, de acuerdo con las competencias que a cada uno corresponda, para que sean congruentes con la presente Ley."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2008-05-30:transitory:quinto",
+    "label": "Transitorio QUINTO — Decreto DOF 2008-05-30",
+    "text": "La Secretaría publicará en el Diario Oficial de la Federación las disposiciones para la formulación, aprobación, aplicación, utilización e incorporación de las leyendas, imágenes, pictogramas, fotografías y mensajes sanitarios que se incorporarán en los paquetes de productos del tabaco y en todo empaquetado y etiquetado externo de los mismos, de acuerdo a lo establecido en esta Ley, a más tardar 180 días después de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2008-05-30:transitory:sexto",
+    "label": "Transitorio SEXTO — Decreto DOF 2008-05-30",
+    "text": "Todos los empaques de tabaco fabricados en o importados hacia México deberán exhibir las nuevas advertencias de salud en un plazo de 9 meses contados a partir de la fecha en que la Secretaría publique los diseños para las advertencias sanitarias en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2008-07-14:transitory:unico",
+    "label": "Transitorio Único — Decreto DOF 2008-07-14",
+    "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2008-07-14:decree-2:transitory:unico",
+    "label": "Transitorio Único — Decreto 2 DOF 2008-07-14",
+    "text": "El presente Decreto entrará en vigor al siguiente día al de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2008-12-15:transitory:unico",
+    "label": "Transitorio Único — Decreto DOF 2008-12-15",
+    "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2009-01-05:transitory:unico",
+    "label": "Transitorio Único — Decreto DOF 2009-01-05",
+    "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2009-01-05:decree-2:transitory:primero",
+    "label": "Transitorio Primero — Decreto 2 DOF 2009-01-05",
+    "text": "La Secretaría de Salud deberá emitir los reglamentos y Normas Oficiales Mexicanas que sean necesarios para garantizar el ejercicio de los derechos que concede este Título."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2009-01-05:decree-2:transitory:segundo",
+    "label": "Transitorio Segundo — Decreto 2 DOF 2009-01-05",
+    "text": "La Secretaría de Salud tendrá 180 días naturales para expedir el Reglamento respectivo de este Título, contados a partir de la entrada en vigor del presente Decreto."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2009-01-05:decree-2:transitory:tercero",
+    "label": "Transitorio Tercero — Decreto 2 DOF 2009-01-05",
+    "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2009-04-17:transitory:primero",
+    "label": "Transitorio Primero — Decreto DOF 2009-04-17",
+    "text": "El derecho al que se refiere el artículo 51 podrá ser ejercido por los asegurados del Sistema Nacional de Salud una vez que transcurran 12 meses a partir de la entrada en vigor del presente Decreto, a efecto de que dichos organismos efectúen la reorganización que corresponda en los ámbitos médicos y administrativos."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2009-04-17:transitory:segundo",
+    "label": "Transitorio Segundo — Decreto DOF 2009-04-17",
     "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
   },
   {
@@ -95,14 +475,39 @@
     "text": "El Reglamento del Comité de Moléculas Nuevas deberá expedirse antes de los 90 días posteriores a la publicación del presente Decreto."
   },
   {
-    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2009-06-11:transitory:primero",
-    "label": "Transitorio Primero — Decreto DOF 2009-06-11",
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2009-06-11:decree-2:transitory:primero",
+    "label": "Transitorio Primero — Decreto 2 DOF 2009-06-11",
     "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
   },
   {
-    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2009-06-11:transitory:segundo",
-    "label": "Transitorio Segundo — Decreto DOF 2009-06-11",
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2009-06-11:decree-2:transitory:segundo",
+    "label": "Transitorio Segundo — Decreto 2 DOF 2009-06-11",
     "text": "Por lo que se refiere a los establecimientos del sector público, la creación y funcionamiento de los Comités a que se refiere el presente Decreto se sujetarán a los recursos humanos (incluyendo el personal médico y administrativo), materiales y financieros con que cuentan actualmente."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2009-08-20:transitory:primero",
+    "label": "Transitorio PRIMERO — Decreto DOF 2009-08-20",
+    "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.\n\nPara efecto de lo dispuesto en el artículo 474 de la Ley General de Salud, las legislaturas locales y la Asamblea Legislativa del Distrito Federal contarán con el plazo de un año a partir de la entrada en vigor del presente Decreto para realizar las adecuaciones a la legislación que corresponda.\n\nLa Federación y las entidades federativas contarán con el plazo de tres años a partir de la entrada en vigor del presente Decreto, para realizar las acciones necesarias, según sea el caso, a fin de dar el debido cumplimiento a las atribuciones contenidas en el mismo."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2009-08-20:transitory:segundo",
+    "label": "Transitorio SEGUNDO — Decreto DOF 2009-08-20",
+    "text": "Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto se seguirán conforme a las disposiciones vigentes al momento de la comisión de los hechos."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2009-08-20:transitory:tercero",
+    "label": "Transitorio TERCERO — Decreto DOF 2009-08-20",
+    "text": "A las personas que hayan cometido un delito de los contemplados en el presente Decreto con anterioridad a su entrada en vigor, incluidas las procesadas o sentenciadas, les serán aplicables las disposiciones vigentes en el momento en que se haya cometido."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2009-08-20:transitory:cuarto",
+    "label": "Transitorio CUARTO — Decreto DOF 2009-08-20",
+    "text": "Las autoridades competentes financiaran las acciones derivadas del cumplimiento del presente Decreto con los recursos que anualmente se prevea en el Presupuesto de Egresos de la Federación, sin menoscabo de los recursos que para tales efectos aporten las entidades federativas."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2009-08-20:transitory:quinto",
+    "label": "Transitorio QUINTO — Decreto DOF 2009-08-20",
+    "text": "Se derogan todas las disposiciones que se opongan al presente Decreto."
   },
   {
     "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2009-12-30:transitory:primero",
@@ -120,6 +525,46 @@
     "text": "A partir de la entrada en vigor de este Decreto, se podrán incorporar al Sistema de Protección Social en Salud la Población susceptible de nueva incorporación, con el fin de alcanzar el 100% de la cobertura en el año 2011."
   },
   {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2010-04-27:transitory:primero",
+    "label": "Transitorio PRIMERO — Decreto DOF 2010-04-27",
+    "text": "El presente Decreto entrará en vigor a los ciento ochenta días de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2010-04-27:transitory:segundo",
+    "label": "Transitorio SEGUNDO — Decreto DOF 2010-04-27",
+    "text": "Se otorgan noventa días a la Secretaría de Salud, para que ajuste el Reglamento de Insumos para la Salud."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2010-04-27:transitory:tercero",
+    "label": "Transitorio TERCERO — Decreto DOF 2010-04-27",
+    "text": "Se otorgan ciento ochenta días a la Secretaría de Salud, para crear la Norma Oficial Mexicana correspondiente."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2010-04-27:decree-2:transitory:unico",
+    "label": "Transitorio Único — Decreto 2 DOF 2010-04-27",
+    "text": "El presente Decreto entrará en vigor a los sesenta días de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2011-06-07:transitory:primero",
+    "label": "Transitorio PRIMERO — Decreto DOF 2011-06-07",
+    "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2011-06-07:transitory:segundo",
+    "label": "Transitorio SEGUNDO — Decreto DOF 2011-06-07",
+    "text": "Las referencias que las disposiciones jurídicas o administrativas hagan a los productos de perfumería y belleza, se entenderán realizadas a los productos cosméticos. Asimismo, las disposiciones emitidas con anterioridad para los productos de perfumería y belleza mantendrán su vigencia."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2011-06-07:transitory:tercero",
+    "label": "Transitorio TERCERO — Decreto DOF 2011-06-07",
+    "text": "El Poder Ejecutivo Federal, a través de las instancias competentes, emitirá en el Diario Oficial de la Federación las disposiciones aplicables para la verificación de las buenas prácticas de fabricación para este tipo de productos."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2011-06-10:transitory:unico",
+    "label": "Transitorio ÚNICO — Decreto DOF 2011-06-10",
+    "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+  },
+  {
     "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2011-08-05:transitory:primero",
     "label": "Transitorio Primero — Decreto DOF 2011-08-05",
     "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
@@ -128,6 +573,126 @@
     "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2011-08-05:transitory:segundo",
     "label": "Transitorio Segundo — Decreto DOF 2011-08-05",
     "text": "La Secretaría contará con un plazo de 180 días naturales para emitir las disposiciones administrativas necesarias para la aplicación de este Decreto."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2011-09-01:transitory:primero",
+    "label": "Transitorio PRIMERO — Decreto DOF 2011-09-01",
+    "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2011-09-01:transitory:segundo",
+    "label": "Transitorio SEGUNDO — Decreto DOF 2011-09-01",
+    "text": "La Secretaría de Salud contará con un plazo no mayor a 120 días contados a partir de su publicación en el Diario Oficial de la Federación, para emitir las disposiciones a que se refiere el artículo 272 Bis de la presente Ley."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2011-11-16:transitory:unico",
+    "label": "Transitorio Único — Decreto DOF 2011-11-16",
+    "text": "El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2011-12-12:transitory:primero",
+    "label": "Transitorio PRIMERO — Decreto DOF 2011-12-12",
+    "text": "El presente Decreto entrará en vigor a los noventa días contados a partir de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2011-12-12:transitory:segundo",
+    "label": "Transitorio SEGUNDO — Decreto DOF 2011-12-12",
+    "text": "El Ejecutivo Federal expedirá el Reglamento de la Ley General de Salud en Materia de Trasplantes en un plazo que no excederá los ciento ochenta días naturales a partir de la entrada en vigor del presente Decreto."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2011-12-12:transitory:tercero",
+    "label": "Transitorio TERCERO — Decreto DOF 2011-12-12",
+    "text": "La Secretaría de Salud deberá emitir las disposiciones de carácter general que permitan la homologación de los criterios de atención médica integral en la materia en un plazo no mayor a ciento ochenta días naturales a partir de la entrada en vigor del presente Decreto."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2011-12-12:transitory:cuarto",
+    "label": "Transitorio CUARTO — Decreto DOF 2011-12-12",
+    "text": "Los establecimientos a los que se refieren las fracciones I y II del artículo 315 de la Ley General de Salud contarán con un plazo de 90 días a partir de la entrada en vigor del presente Decreto para realizar las adecuaciones correspondientes para su cumplimiento.\n\nAsimismo, tendrán un plazo de hasta veinticuatro meses a partir de la entrada en vigor del presente Decreto, para contar con un Coordinador Hospitalario de Donación de Órganos y Tejidos para Trasplantes. Dicho plazo se determinará de conformidad con las disposiciones reglamentarias que para tal efecto se emitan y con el Programa de Capacitación que expida el Centro Nacional de Trasplantes.\n\nEl personal de salud que a la fecha de entrada en vigor del presente Decreto cuente con un documento que acredite que ha tomado el Diplomado impartido por el Centro Nacional de Trasplantes para formar coordinadores hospitalarios de donación de órganos y tejidos para trasplantes, podrá continuar desarrollando su función como coordinador hospitalario de donación de órganos y tejidos para trasplantes, pero deberá obtener la revalidación que al efecto establezcan las disposiciones reglamentarias aplicables."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2011-12-12:transitory:quinto",
+    "label": "Transitorio QUINTO — Decreto DOF 2011-12-12",
+    "text": "Las acciones que, en su caso, deban realizar las dependencias y entidades de la Administración Pública Federal, para dar cumplimiento a lo dispuesto por el presente Decreto, deberán cubrirse en función de los ingresos disponibles conforme a la Ley de Ingresos de la Federación y sujetarse a la disponibilidad presupuestaria que se apruebe para dichos fines en el Presupuesto de Egresos de la Federación y a las disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria. México, D.F., a 25 de octubre de 2011.- Dip. Emilio Chuayffet Chemor, Presidente.- Sen. José González Morfín, Presidente.- Dip. Laura Arizmendi Campos, Secretaria.- Sen. Arturo Herviz Reyes, Secretario.- Rúbricas.\"\n\nEn cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a nueve de diciembre de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2011-12-14:transitory:primero",
+    "label": "Transitorio PRIMERO — Decreto DOF 2011-12-14",
+    "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2011-12-14:transitory:segundo",
+    "label": "Transitorio SEGUNDO — Decreto DOF 2011-12-14",
+    "text": "En un lapso que no excederá de noventa días naturales, la Secretaría de Salud, a través de la Comisión Nacional de Bioética, expedirá las disposiciones necesarias para la integración y funcionamiento de los Comités Hospitalarios de Bioética y las características de los centros hospitalarios que deben tenerlos."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2011-12-14:transitory:tercero",
+    "label": "Transitorio TERCERO — Decreto DOF 2011-12-14",
+    "text": "Por lo que se refiere a los establecimientos del sector público, la creación y funcionamiento de los comités a que se refiere el presente Decreto se sujetarán a los recursos humanos, materiales y financieros de dichos establecimientos, así como a la disponibilidad presupuestaria aprobada para tales efectos en el ejercicio fiscal correspondiente."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2011-12-14:decree-2:transitory:unico",
+    "label": "Transitorio Único — Decreto 2 DOF 2011-12-14",
+    "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2012-01-16:transitory:unico",
+    "label": "Transitorio ÚNICO — Decreto DOF 2012-01-16",
+    "text": "El presente Decreto entrará en vigor un día después de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2012-01-30:transitory:primero",
+    "label": "Transitorio PRIMERO — Decreto DOF 2012-01-30",
+    "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2012-01-30:transitory:segundo",
+    "label": "Transitorio SEGUNDO — Decreto DOF 2012-01-30",
+    "text": "Las acciones que, en su caso, deban realizar las dependencias y entidades de la Administración Pública Federal, para dar cumplimiento a lo dispuesto por el presente Decreto, deberán cubrirse en función de los ingresos disponibles conforme a la Ley de Ingresos de la Federación y sujetarse a la disponibilidad presupuestaria que se apruebe para dichos fines en el Presupuesto de Egresos de la Federación y a las disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2012-01-30:decree-2:transitory:primero",
+    "label": "Transitorio PRIMERO — Decreto 2 DOF 2012-01-30",
+    "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2012-01-30:decree-2:transitory:segundo",
+    "label": "Transitorio SEGUNDO — Decreto 2 DOF 2012-01-30",
+    "text": "Las acciones que, en su caso, deban realizar las dependencias y entidades de la Administración Pública Federal, para dar cumplimiento a lo dispuesto por el presente Decreto, deberán cubrirse en función de los ingresos disponibles conforme a la Ley de Ingresos de la Federación y sujetarse a la disponibilidad presupuestaria que se apruebe para dichos fines en el Presupuesto de Egresos de la Federación y a las disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2012-01-30:decree-3:transitory:primero",
+    "label": "Transitorio PRIMERO — Decreto 3 DOF 2012-01-30",
+    "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2012-01-30:decree-3:transitory:segundo",
+    "label": "Transitorio SEGUNDO — Decreto 3 DOF 2012-01-30",
+    "text": "La Secretaría de Salud contará con 180 días naturales, posteriores a la publicación del Decreto, para emitir las disposiciones reglamentarias necesarias para su aplicación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2012-01-30:decree-3:transitory:tercero",
+    "label": "Transitorio TERCERO — Decreto 3 DOF 2012-01-30",
+    "text": "La Secretaría de Salud, en términos de lo que establece la Ley Federal sobre Metrología y Normalización, deberá adecuar las normas oficiales mexicanas relacionadas a lo establecido por este Decreto."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2012-01-30:decree-3:transitory:cuarto",
+    "label": "Transitorio CUARTO — Decreto 3 DOF 2012-01-30",
+    "text": "Se exhorta a la Secretaría de Hacienda y Crédito Público para que dentro de su ámbito de atribuciones otorgue las facilidades administrativas que estime convenientes para la importación de insumos para la salud vinculados a protocolos de investigación debidamente autorizados por la Secretaría de Salud."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2012-03-05:transitory:unico",
+    "label": "Transitorio ÚNICO — Decreto DOF 2012-03-05",
+    "text": "El presente Decreto entrará en vigor al año siguiente de su publicación en el Diario Oficial de la Federación, plazo durante el cual el Ejecutivo Federal, a través de la Secretaría de Salud y de conformidad con el texto propuesto en el último párrafo del artículo 28 Bis de la Ley General de Salud, deberá establecer los lineamientos y procedimientos de operación, así como los criterios para la prescripción de medicamentos por el personal de enfermería en la atención primaria a la salud."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2012-03-05:decree-2:transitory:primero",
+    "label": "Transitorio PRIMERO — Decreto 2 DOF 2012-03-05",
+    "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2012-03-05:decree-2:transitory:segundo",
+    "label": "Transitorio SEGUNDO — Decreto 2 DOF 2012-03-05",
+    "text": "Los gobiernos Federal, de las entidades federativas y de los municipios deberán desarrollar, de manera coordinada, las políticas públicas previstas en el presente Decreto a partir de los recursos presupuestarios disponibles, para lograr, de manera progresiva, el cumplimiento del mismo."
   },
   {
     "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2012-04-09:transitory:primero",
@@ -150,6 +715,141 @@
     "text": "La Secretaría de Salud contará con un año, a partir de la publicación del presente Decreto en el Diario Oficial de la Federación, para emitir la normatividad secundaria correspondiente."
   },
   {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2012-06-07:transitory:primero",
+    "label": "Transitorio PRIMERO — Decreto DOF 2012-06-07",
+    "text": "El presente decreto entrará en vigor el día siguiente al de la publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2012-06-07:transitory:segundo",
+    "label": "Transitorio SEGUNDO — Decreto DOF 2012-06-07",
+    "text": "La Secretaría expedirá las disposiciones que deberán contener los lineamientos y requisitos para la certificación de los establecimientos donde se sacrifican animales, o procesan, envasan, empacan, refrigeran o industrializan bienes de origen animal, en seis meses a partir de la entrada en vigor del presente decreto."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2012-06-07:transitory:tercero",
+    "label": "Transitorio TERCERO — Decreto DOF 2012-06-07",
+    "text": "La Secretaría difundirá en los medios impresos y electrónicos, la participación de los municipios y gobiernos de los estados y del Distrito Federal, en los programas de certificación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2012-06-07:transitory:cuarto",
+    "label": "Transitorio CUARTO — Decreto DOF 2012-06-07",
+    "text": "Las legislaturas de los estados deberán adecuar en su legislación correspondiente las reformas contenidas en el presente decreto, para fomentar la certificación por parte de la secretaría de los establecimientos dedicados al sacrificio de animales o que procesan, envasan, empacan, refrigeran o industrializan bienes de origen animal de competencia municipal."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2012-06-07:transitory:quinto",
+    "label": "Transitorio QUINTO — Decreto DOF 2012-06-07",
+    "text": "Las acciones que, en su caso, deban realizar las dependencias y entidades de la Administración Pública Federal para dar cumplimiento al presente Decreto, deberán cubrirse en función de los ingresos disponibles conforme a la Ley de Ingresos de la Federación, y sujetarse a la disponibilidad presupuestaria que se apruebe para dichos fines en el Presupuesto de Egresos de la Federación y a las disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2012-06-07:transitory:sexto",
+    "label": "Transitorio SEXTO — Decreto DOF 2012-06-07",
+    "text": "Para la debida instauración del presente Decreto, el Ejecutivo Federal instruirá a las Secretarías de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, y de Salud, a efecto de que en un plazo no mayor a 90 días, suscriban las bases de coordinación que determinarán el ejercicio de las atribuciones que, en materia de inspección y vigilancia de la calidad, sanidad e inocuidad de los productos procesados en rastros y en establecimientos dedicados al procesamiento de los productos derivados del sacrificio, les confieren la Ley Federal de Sanidad Animal, la Ley General de Salud y las demás disposiciones aplicables."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2012-06-07:decree-2:transitory:unico",
+    "label": "Transitorio Único — Decreto 2 DOF 2012-06-07",
+    "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2013-01-14:transitory:unico",
+    "label": "Transitorio Único — Decreto DOF 2013-01-14",
+    "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2013-01-14:decree-2:transitory:unico",
+    "label": "Transitorio ÚNICO — Decreto 2 DOF 2013-01-14",
+    "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2013-01-15:transitory:unico",
+    "label": "Transitorio ÚNICO — Decreto DOF 2013-01-15",
+    "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2013-01-15:decree-2:transitory:primero",
+    "label": "Transitorio PRIMERO — Decreto 2 DOF 2013-01-15",
+    "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2013-01-15:decree-2:transitory:segundo",
+    "label": "Transitorio SEGUNDO — Decreto 2 DOF 2013-01-15",
+    "text": "El Ejecutivo Federal, a través de la Secretaría de Salud, contará con un plazo de 180 días naturales, a partir de la entrada en vigor del presente Decreto, para emitir las disposiciones administrativas necesarias para su aplicación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2013-01-24:transitory:unico",
+    "label": "Transitorio ÚNICO — Decreto DOF 2013-01-24",
+    "text": "El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2013-01-25:transitory:unico",
+    "label": "Transitorio ÚNICO — Decreto DOF 2013-01-25",
+    "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2013-04-08:transitory:unico",
+    "label": "Transitorio ÚNICO — Decreto DOF 2013-04-08",
+    "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2013-04-08:decree-2:transitory:primero",
+    "label": "Transitorio PRIMERO — Decreto 2 DOF 2013-04-08",
+    "text": "El presente Decreto entrará en vigor el siguiente día al de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2013-04-08:decree-2:transitory:segundo",
+    "label": "Transitorio SEGUNDO — Decreto 2 DOF 2013-04-08",
+    "text": "En un plazo no mayor a un año, posterior a la publicación del presente Decreto, la Secretaría de Salud deberá actualizar el marco normativo y programático a que haya lugar en materia de riesgo sanitario."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2013-04-08:decree-3:transitory:unico",
+    "label": "Transitorio ÚNICO — Decreto 3 DOF 2013-04-08",
+    "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2013-04-24:transitory:primero",
+    "label": "Transitorio PRIMERO — Decreto DOF 2013-04-24",
+    "text": "El presente Decreto entrará en vigor al día siguiente a su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2013-04-24:transitory:segundo",
+    "label": "Transitorio SEGUNDO — Decreto DOF 2013-04-24",
+    "text": "La Secretaría de Salud expedirá el modelo de certificado de nacimiento, mediante su publicación en el Diario Oficial de la Federación, para su conocimiento general y observancia en todo el territorio de los Estados Unidos Mexicanos."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2013-04-24:transitory:tercero",
+    "label": "Transitorio TERCERO — Decreto DOF 2013-04-24",
+    "text": "La Secretaría de Salud, en coordinación con la Secretaría de Gobernación y las autoridades sanitarias y del Registro Civil de las entidades federativas, promoverá la utilización del certificado de nacimiento."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2013-04-24:transitory:cuarto",
+    "label": "Transitorio CUARTO — Decreto DOF 2013-04-24",
+    "text": "El Ejecutivo Federal contará con un plazo de 90 días hábiles, a partir de la publicación del presente decreto, para establecer el reglamento correspondiente a la expedición de los certificados de nacimiento."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2013-12-04:transitory:unico",
+    "label": "Transitorio ÚNICO — Decreto DOF 2013-12-04",
+    "text": "El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2013-12-04:decree-2:transitory:unico",
+    "label": "Transitorio ÚNICO — Decreto 2 DOF 2013-12-04",
+    "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2013-12-04:decree-3:transitory:unico",
+    "label": "Transitorio ÚNICO — Decreto 3 DOF 2013-12-04",
+    "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2014-01-07:transitory:primero",
+    "label": "Transitorio PRIMERO — Decreto DOF 2014-01-07",
+    "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2014-01-07:transitory:segundo",
+    "label": "Transitorio SEGUNDO — Decreto DOF 2014-01-07",
+    "text": "Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto se seguirán tramitando hasta su conclusión, conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes."
+  },
+  {
     "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2014-01-13:transitory:primero",
     "label": "Transitorio Primero — Decreto DOF 2014-01-13",
     "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
@@ -158,6 +858,36 @@
     "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2014-01-13:transitory:segundo",
     "label": "Transitorio Segundo — Decreto DOF 2014-01-13",
     "text": "A partir de la entrada en vigor del presente Decreto, la Secretaría de Salud y todas las instituciones relacionadas, contarán con 180 días para realizar los ajustes necesarios a fin de poder otorgar la Atención Preventiva Integrada a la Salud."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2014-01-15:transitory:primero",
+    "label": "Transitorio PRIMERO — Decreto DOF 2014-01-15",
+    "text": "El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2014-01-15:transitory:segundo",
+    "label": "Transitorio SEGUNDO — Decreto DOF 2014-01-15",
+    "text": "Las erogaciones que en su caso, deban realizar las dependencias y entidades de la Administración Pública Federal en sus ámbitos de competencia, para dar cumplimiento a lo dispuesto por el presente decreto, deberán cubrirse en función de sus respectivas disponibilidades presupuestarias."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2014-03-19:transitory:unico",
+    "label": "Transitorio Único — Decreto DOF 2014-03-19",
+    "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2014-04-02:transitory:primero",
+    "label": "Transitorio PRIMERO — Decreto DOF 2014-04-02",
+    "text": "El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2014-04-02:transitory:segundo",
+    "label": "Transitorio SEGUNDO — Decreto DOF 2014-04-02",
+    "text": "Se concede un plazo de trescientos sesenta y cinco días naturales, contados a partir de la fecha en que entren en vigor estas modificaciones, para que las empresas, instituciones, dependencias y, en general, todos los obligados conforme a este Decreto efectúen las adecuaciones físicas necesarias para dar cumplimiento a las disposiciones de la ley correspondiente."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2014-06-03:transitory:unico",
+    "label": "Transitorio ÚNICO — Decreto DOF 2014-06-03",
+    "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
   },
   {
     "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2014-06-04:transitory:primero",
@@ -205,6 +935,21 @@
     "text": "En un plazo que no excederá de ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto, la Secretaría de Salud establecerá la normatividad para la instalación y el funcionamiento de los lactarios.\n\nAsimismo, las acciones que deban realizar las dependencias o entidades de la Administración Pública Federal para dar cumplimiento a lo dispuesto en el presente Decreto, en términos de la normatividad que la Secretaría de Salud emita para tal efecto, deberán sujetarse a la disponibilidad presupuestaria que se apruebe para dichos fines en el Presupuesto de Egresos de la Federación."
   },
   {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2015-03-17:transitory:unico",
+    "label": "Transitorio Único — Decreto DOF 2015-03-17",
+    "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2015-03-17:decree-2:transitory:unico",
+    "label": "Transitorio Único — Decreto 2 DOF 2015-03-17",
+    "text": "El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2015-03-17:decree-3:transitory:unico",
+    "label": "Transitorio Único — Decreto 3 DOF 2015-03-17",
+    "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+  },
+  {
     "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2015-04-20:transitory:primero",
     "label": "Transitorio Primero — Decreto DOF 2015-04-20",
     "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
@@ -225,18 +970,18 @@
     "text": "Los gobiernos Federal, de las entidades federativas y de los municipios, desarrollarán de manera coordinada y en el ámbito de su competencia, las políticas públicas previstas en el presente Decreto a partir de los recursos presupuestarios disponibles, para lograr de manera progresiva, el cumplimiento del mismo."
   },
   {
-    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2015-04-20:transitory:primero",
-    "label": "Transitorio Primero — Decreto DOF 2015-04-20",
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2015-04-20:decree-2:transitory:primero",
+    "label": "Transitorio Primero — Decreto 2 DOF 2015-04-20",
     "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
   },
   {
-    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2015-04-20:transitory:segundo",
-    "label": "Transitorio Segundo — Decreto DOF 2015-04-20",
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2015-04-20:decree-2:transitory:segundo",
+    "label": "Transitorio Segundo — Decreto 2 DOF 2015-04-20",
     "text": "Para efectos de lo dispuesto en la fracción II del artículo 187 Bis, la Secretaría de Salud contará con un plazo de 180 días naturales a partir de la entrada en vigor del presente Decreto para emitir las disposiciones que resulten aplicables."
   },
   {
-    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2015-04-20:transitory:tercero",
-    "label": "Transitorio Tercero — Decreto DOF 2015-04-20",
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2015-04-20:decree-2:transitory:tercero",
+    "label": "Transitorio Tercero — Decreto 2 DOF 2015-04-20",
     "text": "Los gobiernos Federal, de las entidades federativas y de los municipios, desarrollarán de manera coordinada, las políticas públicas previstas en el presente Decreto a partir de los recursos presupuestarios disponibles, para lograr de manera progresiva, el cumplimiento del mismo."
   },
   {
@@ -250,6 +995,21 @@
     "text": "Las erogaciones que se generen con motivo de la reforma al artículo 73, se harán con los recursos financieros y materiales con los que cuente la dependencia, por lo que no requerirá transferencias presupuestarias para su cumplimiento."
   },
   {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2015-06-04:decree-2:transitory:unico",
+    "label": "Transitorio Único — Decreto 2 DOF 2015-06-04",
+    "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2015-10-14:transitory:unico",
+    "label": "Transitorio Único — Decreto DOF 2015-10-14",
+    "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2015-11-04:transitory:unico",
+    "label": "Transitorio Único — Decreto DOF 2015-11-04",
+    "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+  },
+  {
     "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2015-11-12:transitory:primero",
     "label": "Transitorio Primero — Decreto DOF 2015-11-12",
     "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
@@ -260,13 +1020,18 @@
     "text": "Corresponderá a las autoridades encargadas de las presentes disposiciones emitir y efectuar las adecuaciones normativas y reglamentos correspondientes a fin de dar cumplimiento al presente Decreto. Para ello contarán con un plazo no mayor de 120 días."
   },
   {
-    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2016-05-10:transitory:primero",
-    "label": "Transitorio Primero — Decreto DOF 2016-05-10",
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2016-05-10:transitory:unico",
+    "label": "Transitorio Único — Decreto DOF 2016-05-10",
+    "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2016-05-10:decree-2:transitory:primero",
+    "label": "Transitorio Primero — Decreto 2 DOF 2016-05-10",
     "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
   },
   {
-    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2016-05-10:transitory:segundo",
-    "label": "Transitorio Segundo — Decreto DOF 2016-05-10",
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2016-05-10:decree-2:transitory:segundo",
+    "label": "Transitorio Segundo — Decreto 2 DOF 2016-05-10",
     "text": "En un plazo que no excederá de ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto, la Secretaría de Salud establecerá la normatividad para la instalación y funcionamiento de los bancos de leche humana.\n\nAsimismo, las acciones que deban realizar las entidades federativas para dar cumplimiento a lo dispuesto en el presente Decreto, en términos de la normatividad que la Secretaría de Salud emita para tal efecto, deberán sujetarse a la disponibilidad presupuestaria que se apruebe para dichos fines en sus presupuestos."
   },
   {
@@ -280,6 +1045,31 @@
     "text": "Las acciones que se deban emprender con motivo de la entrada en vigor del presente Decreto, deberán cubrirse con cargo al presupuesto aprobado por las dependencias y entidades de la Administración Pública Federal en el Presupuesto de Egresos de la Federación para el ejercicio fiscal que corresponda, por lo que no se requerirán mayores transferencias presupuestarias."
   },
   {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2016-06-01:decree-2:transitory:unico",
+    "label": "Transitorio Único — Decreto 2 DOF 2016-06-01",
+    "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2016-06-01:decree-3:transitory:unico",
+    "label": "Transitorio Único — Decreto 3 DOF 2016-06-01",
+    "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2016-06-01:decree-4:transitory:unico",
+    "label": "Transitorio Único — Decreto 4 DOF 2016-06-01",
+    "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2016-06-01:decree-5:transitory:unico",
+    "label": "Transitorio Único — Decreto 5 DOF 2016-06-01",
+    "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2016-11-28:transitory:unico",
+    "label": "Transitorio Único — Decreto DOF 2016-11-28",
+    "text": "El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación."
+  },
+  {
     "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2016-12-16:transitory:primero",
     "label": "Transitorio Primero — Decreto DOF 2016-12-16",
     "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
@@ -288,6 +1078,11 @@
     "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2016-12-16:transitory:segundo",
     "label": "Transitorio Segundo — Decreto DOF 2016-12-16",
     "text": "Las acciones que deban realizar los gobiernos Federal y de las entidades federativas para dar cumplimiento a lo dispuesto por el presente Decreto, deberán sujetarse a la disponibilidad presupuestaria que se apruebe para dichos fines en sus respectivos presupuestos de egresos"
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2017-01-27:transitory:unico",
+    "label": "Transitorio Único — Decreto DOF 2017-01-27",
+    "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
   },
   {
     "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2017-06-19:transitory:primero",
@@ -310,33 +1105,33 @@
     "text": "La Secretaría de Salud tendrá 180 días a partir de la entrada en vigor del presente Decreto, para armonizar los reglamentos y normatividad en el uso terapéutico del TETRAHIDROCANNABINOL de los siguiente isómeros: ∆6a (10a), ∆6a (7), ∆7, ∆8, ∆9, ∆10, ∆9 (11) y sus variantes estereoquímicas."
   },
   {
-    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2017-06-19:transitory:primero",
-    "label": "Transitorio Primero — Decreto DOF 2017-06-19",
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2017-06-19:decree-2:transitory:primero",
+    "label": "Transitorio Primero — Decreto 2 DOF 2017-06-19",
     "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
   },
   {
-    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2017-06-19:transitory:segundo",
-    "label": "Transitorio Segundo — Decreto DOF 2017-06-19",
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2017-06-19:decree-2:transitory:segundo",
+    "label": "Transitorio Segundo — Decreto 2 DOF 2017-06-19",
     "text": "Se abroga el Decreto por el que se reforma el Consejo Nacional de Vacunación, publicado en el Diario Oficial de la Federación el 5 de julio de 2001."
   },
   {
-    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2017-06-19:transitory:tercero",
-    "label": "Transitorio Tercero — Decreto DOF 2017-06-19",
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2017-06-19:decree-2:transitory:tercero",
+    "label": "Transitorio Tercero — Decreto 2 DOF 2017-06-19",
     "text": "Se derogan todas las disposiciones que se opongan al presente Decreto."
   },
   {
-    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2017-06-19:transitory:cuarto",
-    "label": "Transitorio Cuarto — Decreto DOF 2017-06-19",
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2017-06-19:decree-2:transitory:cuarto",
+    "label": "Transitorio Cuarto — Decreto 2 DOF 2017-06-19",
     "text": "La Secretaría de Salud contará con un plazo de noventa días hábiles para convocar e instalar el Consejo Nacional de Vacunación de conformidad con el presente Decreto. El Consejo Nacional de Vacunación tendrá un plazo de noventa días hábiles para emitir su Reglamento Interno, contados a partir de la fecha en que se celebre su sesión de instalación."
   },
   {
-    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2017-06-19:transitory:quinto",
-    "label": "Transitorio Quinto — Decreto DOF 2017-06-19",
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2017-06-19:decree-2:transitory:quinto",
+    "label": "Transitorio Quinto — Decreto 2 DOF 2017-06-19",
     "text": "El Consejo de Salubridad General publicará en el Diario Oficial de la Federación los acuerdos que permitan instrumentar las acciones necesarias para enfrentar circunstancias epidemiológicas extraordinarias. Asimismo, la Secretaría de Salud y las demás dependencias y entidades de la Administración Pública que forman parte del Sistema Nacional de Salud, considerarán en sus respectivos proyectos de presupuesto la incorporación de las nuevas vacunas al Programa de Vacunación Universal conforme a la disponibilidad presupuestaria, en los términos previstos en el presente Decreto."
   },
   {
-    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2017-06-19:transitory:sexto",
-    "label": "Transitorio Sexto — Decreto DOF 2017-06-19",
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2017-06-19:decree-2:transitory:sexto",
+    "label": "Transitorio Sexto — Decreto 2 DOF 2017-06-19",
     "text": "La Secretaría de Salud contará con un plazo máximo de hasta 360 días para emitir las disposiciones a que se refiere el presente Decreto."
   },
   {
@@ -465,6 +1260,11 @@
     "text": "Dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, la Comisión Nacional de Búsqueda deberá emitir los lineamientos a que se refiere la fracción XIV del artículo 53 de la Ley."
   },
   {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2017-12-08:transitory:unico",
+    "label": "Transitorio Único — Decreto DOF 2017-12-08",
+    "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+  },
+  {
     "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2018-05-11:transitory:primero",
     "label": "Transitorio Primero — Decreto DOF 2018-05-11",
     "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
@@ -483,6 +1283,11 @@
     "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2018-05-11:transitory:cuarto",
     "label": "Transitorio Cuarto — Decreto DOF 2018-05-11",
     "text": "Las acciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con los recursos financieros, humanos y materiales con los que actualmente cuente la Secretaría de Salud."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2018-06-21:transitory:unico",
+    "label": "Transitorio Único — Decreto DOF 2018-06-21",
+    "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
   },
   {
     "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2018-07-12:transitory:primero",
@@ -508,6 +1313,11 @@
     "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2018-07-12:transitory:quinto",
     "label": "Transitorio Quinto — Decreto DOF 2018-07-12",
     "text": "Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a las dependencias y entidades involucradas para el ejercicio fiscal respectivo y subsecuentes."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2018-12-24:transitory:unico",
+    "label": "Transitorio ÚNICO — Acuerdo DOF 2018-12-24",
+    "text": "El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
   },
   {
     "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2019-11-08:transitory:primero",
@@ -585,18 +1395,23 @@
     "text": "En un periodo de tres años contados a partir de la entrada en vigor del presente Decreto el Instituto de Salud para el Bienestar deberá presentar al Congreso de la Unión un informe del cumplimiento de cobertura de la prestación gratuita de servicios de salud, medicamentos y demás insumos, especificando la cobertura de atención a los grupos vulnerables y marginación social."
   },
   {
-    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2020-01-24:transitory:primero",
-    "label": "Transitorio Primero — Decreto DOF 2020-01-24",
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2020-01-24:transitory:unico",
+    "label": "Transitorio Único — Decreto DOF 2020-01-24",
     "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
   },
   {
-    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2020-01-24:transitory:segundo",
-    "label": "Transitorio Segundo — Decreto DOF 2020-01-24",
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2020-01-24:decree-2:transitory:primero",
+    "label": "Transitorio Primero — Decreto 2 DOF 2020-01-24",
+    "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2020-01-24:decree-2:transitory:segundo",
+    "label": "Transitorio Segundo — Decreto 2 DOF 2020-01-24",
     "text": "Los prestadores de servicios funerarios contarán con ciento ochenta días contados a partir de la entrada en vigor del presente Decreto para dar cumplimiento a lo establecido en el artículo 348 Bis de la Ley General de Salud."
   },
   {
-    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2020-01-24:transitory:tercero",
-    "label": "Transitorio Tercero — Decreto DOF 2020-01-24",
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2020-01-24:decree-2:transitory:tercero",
+    "label": "Transitorio Tercero — Decreto 2 DOF 2020-01-24",
     "text": "En un plazo que no excederá de ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto, la Secretaría de Salud y las autoridades sanitarias locales, en el ámbito de su respectiva competencia, emitirán las disposiciones reglamentarias para dar cumplimiento a lo establecido en los artículos 348 Bis, 348 Bis 1 y 348 Bis 2 de la Ley General de Salud."
   },
   {
@@ -623,6 +1438,11 @@
     "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2020-12-22:transitory:tercero",
     "label": "Transitorio Tercero — Decreto DOF 2020-12-22",
     "text": "Las acciones que, en su caso, deban realizar las dependencias y entidades de la Administración Pública Federal, para dar cumplimiento a lo dispuesto por el presente Decreto, se cubrirán con cargo al presupuesto autorizado para el presente ejercicio fiscal y los subsecuentes."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2021-01-07:transitory:unico",
+    "label": "Transitorio Único — Decreto DOF 2021-01-07",
+    "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
   },
   {
     "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2021-02-19:transitory:primero",
@@ -695,6 +1515,16 @@
     "text": "Las disposiciones a las que se refiere el presente Decreto no se aplicarán a los productos e ingredientes probados y disponibles para la venta, en el momento de la publicación de este Decreto."
   },
   {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2021-11-22:transitory:unico",
+    "label": "Transitorio Único — Decreto DOF 2021-11-22",
+    "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2022-03-16:transitory:unico",
+    "label": "Transitorio Único — Decreto DOF 2022-03-16",
+    "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+  },
+  {
     "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2022-03-29:transitory:primero",
     "label": "Transitorio Primero — Decreto DOF 2022-03-29",
     "text": "El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación."
@@ -720,6 +1550,11 @@
     "text": "Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto aprobado para los ejecutores de gasto que correspondan, por lo que no se autorizarán recursos adicionales para tales efectos, para el presente ejercicio fiscal ni subsecuentes."
   },
   {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2022-03-30:decree-2:transitory:unico",
+    "label": "Transitorio Único — Decreto 2 DOF 2022-03-30",
+    "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+  },
+  {
     "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2022-05-11:transitory:primero",
     "label": "Transitorio Primero — Decreto DOF 2022-05-11",
     "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
@@ -732,7 +1567,7 @@
   {
     "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2022-05-11:transitory:tercero",
     "label": "Transitorio Tercero — Decreto DOF 2022-05-11",
-    "text": "Todas las obligaciones que se generen con la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, está también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.\n\nArtículo Único.- Se reforman los artículos 72; 73, actual primer párrafo y las fracciones I, II, III, IV, V, VII, VIII y actual IX; 74; actual 74 Bis, 75; 76, primer párrafo; y 77; se adicionan los párrafos tercero, cuarto, quinto, sexto, séptimo, octavo, noveno y décimo al artículo 51 Bis 2; el artículo 72 Bis; el artículo 72 Ter; un primer párrafo, recorriéndose el actual, y las fracciones IX, X y XI, recorriéndose la actual IX en su orden, al artículo 73; 73 Bis; 73 Ter; 74 Ter; 75 Bis y 75 Ter; se deroga la fracción V Bis del artículo 73; el Capítulo I del Título Décimo Primero y el artículo 184 Bis de la Ley General de Salud, para quedar como sigue:\n\n………."
+    "text": "Todas las obligaciones que se generen con la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, está también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables."
   },
   {
     "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2022-05-16:transitory:primero",
@@ -790,13 +1625,13 @@
     "text": "Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto aprobado para los ejecutores de gasto que correspondan, por lo que no se autorizarán recursos adicionales para tales efectos, para el presente ejercicio fiscal ni subsecuentes."
   },
   {
-    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2023-05-10:transitory:primero",
-    "label": "Transitorio Primero — Decreto DOF 2023-05-10",
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2023-05-10:decree-2:transitory:primero",
+    "label": "Transitorio Primero — Decreto 2 DOF 2023-05-10",
     "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
   },
   {
-    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2023-05-10:transitory:segundo",
-    "label": "Transitorio Segundo — Decreto DOF 2023-05-10",
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2023-05-10:decree-2:transitory:segundo",
+    "label": "Transitorio Segundo — Decreto 2 DOF 2023-05-10",
     "text": "La Secretaría realizará las modificaciones a la Norma Oficial Mexicana en la materia y demás disposiciones administrativas relativas al diagnóstico y la atención de los distintos tipos de diabetes, en el término de 180 días a partir de la entrada en vigor del presente Decreto."
   },
   {
@@ -847,7 +1682,7 @@
   {
     "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2023-05-29:transitory:decimo",
     "label": "Transitorio Décimo — Decreto DOF 2023-05-29",
-    "text": "Las obligaciones y erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a los recursos aprobados expresamente para esos fines en los respectivos presupuestos de egresos de los ejecutores del gasto correspondientes, por lo que no se autorizarán ampliaciones a sus presupuestos de egresos para el ejercicio fiscal en curso y subsecuentes.\n\nArtículo Segundo. Se reforman el segundo, actuales tercero, cuarto y séptimo párrafos y las fracciones I y II del actual párrafo quinto, del artículo 77 bis 16 A; se adicionan los párrafos tercero y quinto, recorriéndose los subsecuentes, al artículo 77 bis 16 A, y se derogan el segundo párrafo de la fracción II bis, del artículo 3o.; y la fracción III, del artículo 7o. de la Ley General de Salud, para quedar como sigue:\n\n…….."
+    "text": "Las obligaciones y erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a los recursos aprobados expresamente para esos fines en los respectivos presupuestos de egresos de los ejecutores del gasto correspondientes, por lo que no se autorizarán ampliaciones a sus presupuestos de egresos para el ejercicio fiscal en curso y subsecuentes."
   },
   {
     "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2024-01-03:transitory:primero",
@@ -915,6 +1750,11 @@
     "text": "Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto corresponderán a las dependencias y entidades competentes y se realizarán con cargo a su presupuesto aprobado por la Cámara de Diputados para el ejercicio fiscal que corresponda."
   },
   {
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2024-04-01:transitory:unico",
+    "label": "Transitorio Único — Decreto DOF 2024-04-01",
+    "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+  },
+  {
     "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2024-06-07:transitory:primero",
     "label": "Transitorio Primero — Decreto DOF 2024-06-07",
     "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
@@ -957,66 +1797,66 @@
   {
     "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2026-01-15:transitory:septimo",
     "label": "Transitorio Séptimo — Decreto DOF 2026-01-15",
-    "text": "Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General para la Igualdad entre Mujeres y Hombres, se entenderán referidas a la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres. Ciudad de México, a 9 de diciembre de 2025.- Dip. Kenia López Rabadán, Presidenta.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Julieta Villalpando Riquelme, Secretaria.- Sen. María Martina Kantún Can, Secretaria.- Rúbricas.\"\n\nArtículo Único.- Se reforman los artículos 3o., actual fracción XXVIII; 6o., fracción XII; 7o., fracciones VIII Bis, actual X, que pasa a ser IX Bis, XIV Bis y actual XV; 10, párrafo primero y actual párrafo segundo; 13, apartado B, fracciones V, VI y actual VII; 17 Bis, párrafos primero y segundo, fracciones II, VI, X y XI; 18, párrafo primero; 19, párrafo primero; 32, párrafo segundo; 41 Bis; 51 Bis 3; 77 bis 5, inciso A), fracción VI, e inciso B), fracciones V y VI; 77 bis 8; 77 bis 9, párrafo segundo; 77 bis 10, fracción III; 77 bis 17; 77 bis 29, párrafo primero, fracción II, y párrafo cuarto; 77 bis 30, párrafos cuarto y quinto; 77 bis 35, párrafo tercero, fracción XII; 98; 104, primer párrafo; 105; 194, párrafos primero y segundo, fracción I; 222, párrafo segundo; 234; 245, fracciones I, párrafo segundo, II y IV; 259, párrafo primero; 313, fracciones III y V; 314, fracciones XIV Bis, XVII, XXV, XXVII y XXVIII; 316, párrafos primero, segundo, quinto, sexto y séptimo; 316 Bis 1; 319; 321 Bis; 322, párrafo quinto; 323, fracción II; 327, párrafo primero; 332, párrafo segundo; la denominación del Capítulo III Bis del Título Décimo Cuarto; 341, párrafo primero, inciso A), fracción IV, y párrafo segundo; 341 Bis, párrafo primero; 342 Bis 1, párrafo primero; 342 Bis 3, párrafo primero y fracción III; 371; 375, fracción VI; 376; 396, fracción I; 414 Bis, párrafo primero, incisos a) y b), y 431; se adicionan los artículos 3o., con las fracciones III Bis, XXVIII y XXIX; 6o., con la fracción XIII; 7o., con las fracciones II Ter, X, XIV Ter, XV y XVI, recorriéndose en su orden la subsecuente; 9 Bis; 10, con los párrafos segundo, pasando el actual a ser párrafo tercero y último; 13, apartado A, con la fracción III Bis, y apartado B, con la fracción VII, recorriéndose en su orden la subsecuente; 17 Bis, párrafo segundo, con las fracciones XII Bis, XII Ter, XII Quater y XII Quinquies; 35 Bis; el Capítulo IV Bis al Título Tercero, que comprende los artículos 60 Bis, 60 Ter, 60 Quater, 60 Quinquies y 60 Sexies; el Capítulo IV Ter al Título Tercero, que comprende los artículos 60 Septies, 60 Octies, 60 Nonies, 60 Decies; el Capítulo VI Bis al Título Tercero, que comprende los artículos 71 Bis, 71 Ter, 71 Quater, 71 Quinquies, 71 Sexies, 71 Septies y 71 Octies; 77 bis 10, con la fracción IV Bis; 222, párrafo tercero; 245, fracción III, los párrafos quincuagésimo sexto, recorriéndose los subsecuentes en su orden, y último; 262 Bis; el Capítulo XII Ter al Título Décimo Segundo, que comprende los artículos 282 Ter, 282 Quater y 282 Quinquies; 314, con las fracciones XI Bis, XXIX, XXX, XXXI y XXXII; 340 Bis; 340 Ter; 340 Quater; 341, con un párrafo tercero; 342 Bis 1, con los párrafos sexto y séptimo; 342 Bis 4; 414 Bis, párrafo primero, con un inciso c), y 456 Bis, y se derogan los artículos 7o., fracción II, el párrafo tercero; 108; 245, fracción III, párrafo cuadragésimo quinto, y 314, fracción IV, de la Ley General de Salud, para quedar como sigue:\n\n…….."
+    "text": "Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General para la Igualdad entre Mujeres y Hombres, se entenderán referidas a la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres. Ciudad de México, a 9 de diciembre de 2025.- Dip. Kenia López Rabadán, Presidenta.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Julieta Villalpando Riquelme, Secretaria.- Sen. María Martina Kantún Can, Secretaria.- Rúbricas.\"\n\nEn cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de enero de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica."
   },
   {
-    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2026-01-15:transitory:primero",
-    "label": "Transitorio Primero — Decreto DOF 2026-01-15",
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2026-01-15:decree-2:transitory:primero",
+    "label": "Transitorio Primero — Decreto 2 DOF 2026-01-15",
     "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
   },
   {
-    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2026-01-15:transitory:segundo",
-    "label": "Transitorio Segundo — Decreto DOF 2026-01-15",
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2026-01-15:decree-2:transitory:segundo",
+    "label": "Transitorio Segundo — Decreto 2 DOF 2026-01-15",
     "text": "La inclusión en las clasificaciones previstas en el artículo 245 de esta Ley de las siguientes substancias: CATINA, DIHIDROERGOCRISTINA, NICERGOLINA, NORPSEUDOEFEDRINA, PSEUDOEFEDRINA, ANFEBUTAMONA (BUPROPIÓN), TRAMADOL, ACIDO GAMMA HIDROXIBUTIRICO (GHB), BENZQUINAMIDA, GAMMA BUTIROLACTONA (GBL), entrará en vigor a los ciento ochenta días naturales siguientes a la publicación en el Diario Oficial de la Federación del presente Decreto."
   },
   {
-    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2026-01-15:transitory:tercero",
-    "label": "Transitorio Tercero — Decreto DOF 2026-01-15",
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2026-01-15:decree-2:transitory:tercero",
+    "label": "Transitorio Tercero — Decreto 2 DOF 2026-01-15",
     "text": "Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.\n\nSe abroga el Reglamento de la Ley General de Salud en Materia de Protección Social en Salud publicado en el Diario Oficial de la Federación el 5 de abril de 2004."
   },
   {
-    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2026-01-15:transitory:cuarto",
-    "label": "Transitorio Cuarto — Decreto DOF 2026-01-15",
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2026-01-15:decree-2:transitory:cuarto",
+    "label": "Transitorio Cuarto — Decreto 2 DOF 2026-01-15",
     "text": "La Secretaría de Salud integrará la información del Plan Maestro Nacional de Infraestructura en Salud y Equipamiento de Alta Tecnología en un plazo no mayor a ciento ochenta días naturales posteriores a la entrada en vigor del presente Decreto. La integración por primera vez de este Plan no afectará las obras en trámite, ni las asociadas a programas prioritarios o proyectos estratégicos."
   },
   {
-    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2026-01-15:transitory:quinto",
-    "label": "Transitorio Quinto — Decreto DOF 2026-01-15",
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2026-01-15:decree-2:transitory:quinto",
+    "label": "Transitorio Quinto — Decreto 2 DOF 2026-01-15",
     "text": "La Secretaría de Salud deberá emitir los lineamientos a que se refiere el artículo 60 Octies de este ordenamiento en un plazo no mayor a noventa días naturales posteriores a la entrada en vigor del presente Decreto.\n\nA la entrada en vigor del presente Decreto queda sin efectos el Acuerdo por el que se establecen los Criterios Generales para el Desarrollo de Infraestructura en Salud, publicado en el Diario Oficial de la Federación el 4 de mayo de 2022."
   },
   {
-    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2026-01-15:transitory:sexto",
-    "label": "Transitorio Sexto — Decreto DOF 2026-01-15",
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2026-01-15:decree-2:transitory:sexto",
+    "label": "Transitorio Sexto — Decreto 2 DOF 2026-01-15",
     "text": "Los certificados de necesidades emitidos a la fecha de entrada en vigor del presente Decreto conservarán la vigencia con la que fueron emitidos. La Secretaría de Salud integrará la información contenida en dichos certificados en la integración del Plan Maestro Nacional de Infraestructura en Salud y Equipamiento de Alta Tecnología.\n\nLos trámites de certificados de necesidades pendientes de conclusión a la fecha de entrada en vigor del presente Decreto deben ser resueltos en un plazo no mayor a quince días hábiles a la entrada en vigor del presente instrumento, de conformidad con las disposiciones jurídicas aplicables al momento de su inicio, e integrarse en el Plan Maestro Nacional de Infraestructura en Salud y Equipamiento de Alta Tecnología."
   },
   {
-    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2026-01-15:transitory:septimo",
-    "label": "Transitorio Séptimo — Decreto DOF 2026-01-15",
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2026-01-15:decree-2:transitory:septimo",
+    "label": "Transitorio Séptimo — Decreto 2 DOF 2026-01-15",
     "text": "La Comisión Nacional de Arbitraje Médico deberá llevar a cabo las gestiones necesarias para la emisión y en su caso modificación de la normativa interna que regule la implementación de los mecanismos alternativos de solución de controversias en materia de servicios de salud contemplados en el presente ordenamiento en un plazo no mayor a ciento ochenta días naturales posteriores a la entrada en vigor del presente Decreto."
   },
   {
-    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2026-01-15:transitory:octavo",
-    "label": "Transitorio Octavo — Decreto DOF 2026-01-15",
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2026-01-15:decree-2:transitory:octavo",
+    "label": "Transitorio Octavo — Decreto 2 DOF 2026-01-15",
     "text": "Las autorizaciones sanitarias relacionadas con cigarrillos electrónicos, vapeadores y demás sistemas o dispositivos análogos, que se hayan otorgado con anterioridad a la entrada en vigor de este Decreto, quedarán sin efectos.\n\nLa Comisión Federal para la Protección contra Riesgos Sanitarios notificará a las personas titulares de dichas autorizaciones para que, de manera inmediata, cesen todas las actividades vinculadas a dichos dispositivos."
   },
   {
-    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2026-01-15:transitory:noveno",
-    "label": "Transitorio Noveno — Decreto DOF 2026-01-15",
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2026-01-15:decree-2:transitory:noveno",
+    "label": "Transitorio Noveno — Decreto 2 DOF 2026-01-15",
     "text": "La disposición prevista en el artículo 10, párrafo último, de este ordenamiento, para promover la participación de personas físicas o morales que acrediten contar, en territorio nacional, con inversión en la cadena de producción de medicamentos, dispositivos médicos y demás insumos para la salud, o con el inicio de instalación de fábricas, laboratorios o almacenes que formen parte de dicha cadena, o bien, de aquellas que desarrollen investigación científica o cuando se trate de adquisiciones de productos innovadores en materia de salud en los procedimientos de contratación consolidada de medicamentos, dispositivos médicos y demás insumos para la salud, será aplicable a los procedimientos de contratación que se realicen a partir del ejercicio fiscal 2026 y cuyos medicamentos, dispositivos médicos y demás insumos para la salud sean programados para su entrega a partir del 2027."
   },
   {
-    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2026-01-15:transitory:decimo",
-    "label": "Transitorio Décimo — Decreto DOF 2026-01-15",
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2026-01-15:decree-2:transitory:decimo",
+    "label": "Transitorio Décimo — Decreto 2 DOF 2026-01-15",
     "text": "Se deroga el Transitorio Décimo Sexto del Decreto por el que se reforma y adiciona la Ley General de Salud publicado en el Diario Oficial de la Federación el 15 de mayo de 2003."
   },
   {
-    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2026-01-15:transitory:decimo-primero",
-    "label": "Transitorio Décimo Primero — Decreto DOF 2026-01-15",
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2026-01-15:decree-2:transitory:decimo-primero",
+    "label": "Transitorio Décimo Primero — Decreto 2 DOF 2026-01-15",
     "text": "Las erogaciones que se generen por la implementación del presente Decreto se cubrirán con cargo a los presupuestos de los ejecutores de gasto que intervengan en este, por lo que no se autorizarán ampliaciones de recursos en el presente ejercicio fiscal ni en años subsecuentes para tales efectos.\n\nPara ejercicios fiscales subsecuentes se deberán realizar las previsiones de recursos respectivas en los anteproyectos de presupuesto de los ejecutores de gasto que correspondan sin que se incremente su presupuesto regularizable de gasto de operación ni de servicios personales."
   },
   {
-    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2026-01-15:transitory:decimo-segundo",
-    "label": "Transitorio Décimo Segundo — Decreto DOF 2026-01-15",
+    "provision_id": "urn:lex-mx:federal:statute:lgs:amendment:2026-01-15:decree-2:transitory:decimo-segundo",
+    "label": "Transitorio Décimo Segundo — Decreto 2 DOF 2026-01-15",
     "text": "Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR) en un plazo máximo de treinta días hábiles, contado a partir de la entrada en vigor del presente Decreto, realizará las acciones necesarias para modificar, en términos de las disposiciones jurídicas aplicables, el contrato del fideicomiso público denominado “Fondo de Salud para el Bienestar”, conforme a lo previsto en el presente Decreto.\n\nFormalizada la modificación al contrato dentro de los treinta días hábiles siguientes, el Comité Técnico deberá aprobar las reglas de operación del Fondo de Salud para el Bienestar, conforme a lo previsto en el presente Decreto."
   }
 ]

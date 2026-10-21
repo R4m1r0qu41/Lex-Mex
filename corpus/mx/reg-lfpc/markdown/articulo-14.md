@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFPC_191219.pdf
 source_sha256: 2587146ec169db7ba3623f0df1d9097a9a0ddb70b1c5acbc4f0414afa84f0b0c
 ---
 
-> Capítulo II
+> Capítulo II · Sección Primera
 
 # Artículo 14
 

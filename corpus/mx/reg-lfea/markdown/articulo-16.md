@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFEA.pdf
 source_sha256: 910ba43ef1ae54b3b12fe325f65c81056191fde641c52a10ba709f0f1a39021f
 ---
 
+> Capítulo III
+
 # Artículo 16
 
 Las Autoridades Certificadoras deberán poner a disposición de los interesados en obtener Certificados Digitales, la información relativa a los derechos y obligaciones que adquieren como titulares de un Certificado Digital.

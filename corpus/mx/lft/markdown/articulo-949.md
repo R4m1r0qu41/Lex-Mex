@@ -22,5 +22,3 @@ Siempre que en ejecución de una sentencia o convenio deba entregarse una suma d
 El trámite del exhorto de ejecución de una sentencia favorable, puede ser realizado por conducto de apoderado, sin que éste pueda recibir cantidad alguna de la condena.
 
 Artículo adicionado DOF 04-01-1980. Reformado DOF 30-11-2012, 01-05-2019
-
-Sección Segunda Del procedimiento del embargo Sección adicionada DOF 04-01-1980

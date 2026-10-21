@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGN_111220.pdf
 source_sha256: ea6e39560929f2e1998b2dabe0852fde0d684c69e5be49aab7f33433299bbeb0
 ---
 
-> Título SEGUNDO
+> Título SEGUNDO · Capítulo II
 
 # Artículo 19
 
@@ -108,5 +108,3 @@ El Comandante contará con unidades de apoyo necesarias, incluidas una Ayudantí
 Cuando el Comandante emita manuales, acuerdos, circulares, memoranda, instructivos, bases y demás normas y disposiciones administrativas para el buen funcionamiento de la Institución, bastará con que lo haya acordado con el Secretario, para dar cumplimiento con lo previsto en la fracción VII del artículo [15](../../lgn/markdown/articulo-15.md) de la Ley. Párrafo adicionado DOF 11-12-2020
 
 El Secretario podrá delegar en el Comandante cualquiera de las facultades previstas en el artículo [13](../../lgn/markdown/articulo-13.md) de la Ley, mediante acuerdo que deberá ser publicado en el Diario Oficial de la Federación, salvo aquellas que por disposición expresa de ley sean indelegables. Párrafo adicionado DOF 11-12-2020
-
-Capítulo III De la Jefatura General de Coordinación Policial

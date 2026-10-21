@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSPCAPF.pdf
 source_sha256: b4a968d8e8c138ac2069f6afa0dc622178328df24f59cf58eddbab8efe4a7eff
 ---
 
+> Capítulo Quinto
+
 # Artículo 13
 
 El Comité Técnico de Profesionalización es el cuerpo colegiado a través del cual cada dependencia establece las particularidades que debe tener el Servicio Profesional de Carrera en su ámbito de competencia, de conformidad con lo previsto en la [Ley](articulo-2.md), este Reglamento y las demás disposiciones aplicables.

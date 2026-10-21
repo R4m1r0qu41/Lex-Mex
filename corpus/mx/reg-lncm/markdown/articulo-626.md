@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Tercero · Capítulo IX
+
 # Artículo 626
 
 Si el servicio para el cual se solicita permiso comprende en su ruta puntos que correspondan a la jurisdicción de dos o más Capitanías de Puerto, la que la haya recibido, deberá turnarla a la [Dirección General](articulo-10.md) dentro de un plazo de tres días hábiles a partir de la fecha de su recepción, para que esta última resuelva sobre su otorgamiento. En este caso, el plazo de resolución del trámite empezará a contar a partir de que la solicitud sea recibida por la Dirección General.

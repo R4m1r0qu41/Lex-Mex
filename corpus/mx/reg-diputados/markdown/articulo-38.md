@@ -28,5 +28,3 @@ III. Recibir a visitantes distinguidos, delegaciones parlamentarias o invitados 
 IV. Realizar actos protocolarios o diplomáticos.
 
 2. El formato de las sesiones solemnes y su organización se establecerán en el decreto o acuerdo que les de origen.
-
-Sección Quinta Sesiones Permanentes

@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LOTFJA.pdf
 source_sha256: b32c33fa4ed071dc8bea1ad69ce8510cdb05016967e9e4fcb60f10c6f2216628
 ---
 
-> Título SEGUNDO
+> Título SEGUNDO · Capítulo X
 
 # Artículo 36
 
@@ -46,5 +46,3 @@ XIII. Resolver sobre el otorgamiento de medidas cautelares que correspondan;
 XIV. Formular el proyecto de resolución correspondiente y en caso de determinar la comisión de una falta administrativa grave, preverá la sanción correspondiente, la cual incluirá el pago de las indemnizaciones que deriven de los daños y perjuicios que afecten a la Hacienda Pública Federal o al patrimonio de los entes públicos federales, en los términos de la Ley General de Responsabilidades Administrativas, y
 
 XV. Las demás que les correspondan conforme a las disposiciones legales aplicables.
-
-Capítulo XI De las Salas Especializadas en Materia de Responsabilidades Administrativas

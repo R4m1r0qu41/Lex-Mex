@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf
 source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 ---
 
+> Título II · Capítulo Quinto
+
 # Artículo 14 Bis 10
 
 La disolución y liquidación de los fondos de inversión, se regirá por lo dispuesto para las sociedades mercantiles por acciones en la Ley General de Sociedades Mercantiles con las siguientes excepciones:

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf
 source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 ---
 
+> Título II · Capítulo Primero
+
 # Artículo 8
 
 Para la organización y funcionamiento de los fondos de inversión se requiere previa autorización de la [Comisión](articulo-2.md), sin necesidad de acuerdo previo de su Junta de Gobierno. Dicha autorización se otorgará a las sociedades anónimas organizadas de conformidad con las disposiciones especiales que se contienen en el presente ordenamiento legal y, en lo no previsto por este, en lo dispuesto por la Ley General de Sociedades Mercantiles.

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Segundo · Capítulo V
+
 # Artículo 152
 
 Los requisitos que debe cumplir el personal dedicado al [Turismo Náutico](articulo-10.md) son los establecidos por este Reglamento según corresponda. En caso de ascenso, además deberá demostrar su [Tiempo de Embarque](articulo-10.md) para la categoría inmediata superior.

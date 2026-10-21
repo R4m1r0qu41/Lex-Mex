@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf
 source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 ---
 
+> Título II · Capítulo Cuarto
+
 # Artículo 14 Bis 6
 
 Los fondos de inversión, podrán escindirse ya sea extinguiéndose, en cuyo caso el fondo escindente dividirá la totalidad o parte de su activo, pasivo y capital social en dos o más partes, que serán aportadas en bloque a otros fondos de nueva creación; o cuando el fondo de inversión escindente, sin extinguirse, aporte en bloque parte de su activo, pasivo y capital social a otra u otros fondos de nueva creación. Los fondos de inversión escindidos se entenderán autorizados para organizarse y operar como fondos de inversión.

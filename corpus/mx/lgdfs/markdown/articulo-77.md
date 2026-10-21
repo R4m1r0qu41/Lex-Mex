@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDFS.pdf
 source_sha256: 2c75fd0eab3245aed43a4e1230dcd142b48959a1df09bdd4e70684935a505dd4
 ---
 
-> Título CUARTO
+> Título CUARTO · Capítulo I
 
 # Artículo 77
 
@@ -30,5 +30,3 @@ IV. Se trate de las áreas de protección a que se refiere esta Ley;
 V. Exista falsedad en la información proporcionada por los promoventes, respecto de cualquier elemento de los programas de manejo correspondientes, o
 
 VI. Cuando se presenten conflictos agrarios, de límites o de sobreposición de predios, en cuyo caso, la negativa sólo aplicará a las áreas en conflicto.
-
-Sección Tercera De las Plantaciones Forestales Comerciales

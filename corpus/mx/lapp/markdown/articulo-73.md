@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAPP.pdf
 source_sha256: a4505a7bd41bc835f1def6fb030c42d8e74a2cc050d9c8fa08f91c9519e382bf
 ---
 
+> Capítulo Quinto · Sección Segunda
+
 # Artículo 73
 
 La dependencia o entidad responsable llevará un expediente de las negociaciones de cada proyecto, en el que consten los avalúos y documentos relativos a las mismas que el [Reglamento](articulo-12.md) señale.

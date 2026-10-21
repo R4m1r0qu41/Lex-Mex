@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Primero · Capítulo III
+
 # Artículo 14
 
 Además de lo señalado en los artículos precedentes de esta sección, la carta de garantía deberá cumplir con los siguientes requisitos:
@@ -30,5 +32,3 @@ V. Indicar la declaración de pagar hasta el monto que se establezca, pagadero y
 VI. Señalar la [Ley](articulo-10.md) aplicable, jurisdicción y competencia de los tribunales mexicanos o método alternativo de resolución de controversia a los que se someten las partes, y
 
 VII. La vigencia de la misma, que comprenderá hasta que la reclamación que dio origen a su emisión sea resuelta de manera extrajudicial o mediante sentencia ejecutoriada.
-
-Sección II Seguro Marítimo

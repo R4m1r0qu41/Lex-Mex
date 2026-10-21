@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf
 source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 ---
 
+> Título IV · Capítulo Quinto
+
 # Artículo 83
 
 La [Comisión](articulo-2.md), con el acuerdo de su Junta de Gobierno y previo derecho de audiencia, podrá revocar la autorización de las sociedades a que se refiere el artículo [33](articulo-33.md) de esta Ley, cuando a su juicio: Párrafo reformado DOF 10-01-2014

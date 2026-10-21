@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAPP.pdf
 source_sha256: a4505a7bd41bc835f1def6fb030c42d8e74a2cc050d9c8fa08f91c9519e382bf
 ---
 
+> Capítulo Sexto · Sección Primera
+
 # Artículo 87
 
 Cuando en un proyecto de asociación público-privada el uso de bienes públicos o la prestación de los servicios por parte del o de los desarrolladores requieran de permisos, concesiones u otras autorizaciones, éstos se otorgarán conforme a las disposiciones que los regulen, con las salvedades siguientes:

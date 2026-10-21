@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf
 source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 ---
 
+> Título IV · Capítulo Primero
+
 # Artículo 60
 
 Las sociedades operadoras de fondos de inversión, las sociedades distribuidoras de acciones de fondos de inversión y las entidades que prestan el servicio de distribución de acciones de fondos de inversión, al celebrar operaciones con el público inversionista, podrán pactar el uso de equipos y sistemas automatizados o de telecomunicación, siempre que se establezca en los contratos respectivos lo siguiente: Párrafo reformado DOF 10-01-2014, 28-12-2023

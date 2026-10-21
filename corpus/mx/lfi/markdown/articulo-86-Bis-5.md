@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf
 source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 ---
 
+> Título IV · Capítulo Quinto
+
 # Artículo 86 Bis 5
 
 Durante la vigencia de los programas de autocorrección que hubiere autorizado la [Comisión](articulo-2.md) en términos de los artículos [86 Bis 3](articulo-86-Bis-3.md) y [86 Bis 4](articulo-86-Bis-4.md) anteriores, esta se abstendrá de imponer a los fondos de inversión o a las personas que otorguen los servicios a que se refieren las fracciones I a VI del artículo [32](articulo-32.md) de esta Ley, las sanciones previstas en esta Ley, por las irregularidades o incumplimientos cuya corrección contemplen dichos programas. Asimismo, durante tal periodo se interrumpirá el plazo de caducidad para imponer las sanciones, reanudándose hasta que se determine que no se subsanaron las irregularidades o incumplimientos objeto del programa de autocorrección.

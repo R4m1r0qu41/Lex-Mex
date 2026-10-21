@@ -23,7 +23,9 @@ I. El dictamen de viabilidad a que se refiere el artículo [30](articulo-30.md) 
 
 II. En su caso, los documentos relativos a la aprobación de la suficiencia presupuestaria para la procedencia de erogaciones de recursos federales presupuestarios;
 
-III. En relación con el procedimiento de contratación: Párrafo reformado DOF 20-02-2017 a) El contrato con el [Agente](articulo-11.md) que, en su caso, haya participado, así como la documentación en que consten sus actuaciones;
+III. En relación con el procedimiento de contratación: Párrafo reformado DOF 20-02-2017
+
+a) El contrato con el [Agente](articulo-11.md) que, en su caso, haya participado, así como la documentación en que consten sus actuaciones;
 
 b) Si la contratación se hizo mediante [Concurso](articulo-11.md), un ejemplar de la convocatoria, de las bases con sus anexos y sus modificaciones, de la propuesta ganadora y de las dos inmediatas siguientes, del dictamen del fallo y del propio fallo, de las actas levantadas, y demás documentos relevantes, tales como solicitudes de aclaraciones de los Concursantes, correcciones al fallo, informes de irregularidades detectadas y reembolso de gastos, y Inciso reformado DOF 20-02-2017
 

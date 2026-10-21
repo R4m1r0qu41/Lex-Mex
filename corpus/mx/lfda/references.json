@@ -1273,11 +1273,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfda:article:27:reference:1697-1700:104:direct",
+    "id": "urn:lex-mx:federal:statute:lfda:article:27:reference:1698-1701:104:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lfda:article:27",
     "source_span": "104",
-    "start_char": 1697,
-    "end_char": 1700,
+    "start_char": 1698,
+    "end_char": 1701,
     "target_instrument_id": "urn:lex-mx:federal:statute:lfda",
     "target_provision_id": "urn:lex-mx:federal:statute:lfda:article:104",
     "qualifiers": [],
@@ -1437,28 +1437,5 @@
     "resolution_status": "resolved",
     "reference_form": "direct",
     "resolution_rule": "own_instrument_marker"
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfda:transitory:noveno:reference:515-517:89:direct",
-    "source_provision_id": "urn:lex-mx:federal:statute:lfda:transitory:noveno",
-    "source_span": "89",
-    "start_char": 515,
-    "end_char": 517,
-    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
-    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:89",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 491,
-        "end_char": 501
-      }
-    ],
-    "basis": "express_cross_reference",
-    "confidence": 1.0,
-    "resolution_status": "resolved",
-    "reference_form": "direct",
-    "resolution_rule": "named_instrument"
   }
 ]

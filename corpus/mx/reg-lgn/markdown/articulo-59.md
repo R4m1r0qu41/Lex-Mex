@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGN_111220.pdf
 source_sha256: ea6e39560929f2e1998b2dabe0852fde0d684c69e5be49aab7f33433299bbeb0
 ---
 
-> Título SEGUNDO
+> Título SEGUNDO · Capítulo X
 
 # Artículo 59
 
@@ -64,5 +64,3 @@ XXIII. Organizar, coordinar y dirigir al grupo responsable del control del armam
 XXIV. Los demás que le confieren otras disposiciones jurídicas, así como aquellas funciones que le encomiende el Titular de la Coordinación.
 
 El Titular de la Jefatura de Coordinación Policial Estatal, para el ejercicio de sus facultades, será auxiliado por la Jefatura Operativa, la Jefatura Logística, así como la Jefatura de Servicios Especializados, las cuales se organizarán y funcionarán conforme al Manual correspondiente.
-
-Capítulo XI De las Coordinaciones de Unidad de Nivel Batallón

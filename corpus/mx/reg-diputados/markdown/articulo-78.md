@@ -31,7 +31,9 @@ V. Fundamento legal; Fracción recorrida DOF 22-03-2017
 
 VI. Denominación del proyecto de ley o decreto; Fracción recorrida DOF 22-03-2017
 
-VII. Ordenamientos a modificar; Fracción recorrida DOF 22-03-2017 VIII. Texto normativo propuesto; Fracción recorrida DOF 22-03-2017
+VII. Ordenamientos a modificar; Fracción recorrida DOF 22-03-2017
+
+VIII. Texto normativo propuesto; Fracción recorrida DOF 22-03-2017
 
 IX. Artículos transitorios; Fracción recorrida DOF 22-03-2017
 
@@ -40,5 +42,3 @@ X. Lugar; Fracción recorrida DOF 22-03-2017
 XI. Fecha, y Fracción recorrida DOF 22-03-2017
 
 XII. Nombre y rúbrica del iniciador. Fracción recorrida DOF 22-03-2017
-
-Sección Tercera Proposiciones

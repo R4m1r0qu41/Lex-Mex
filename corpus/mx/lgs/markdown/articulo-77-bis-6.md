@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGS.pdf
 source_sha256: a2d3f947b369e4383f2f27a4e9bd819a3dba768ab9bae527e6388e30c1f9e06c
 ---
 
-> Título TERCERO BIS
+> Título TERCERO BIS · Capítulo I
 
 # Artículo 77 bis 6
 
@@ -40,5 +40,3 @@ VIII. La obligación de las entidades federativas de no realizar nuevas contrata
 IX. Cualquier otra necesaria para la prestación de los servicios objeto de dichos convenios. Fracción adicionada DOF 29-05-2023
 
 Artículo adicionado DOF 15-05-2003. Reformado DOF 04-06-2014
-
-Capítulo II De la cobertura y alcance de la prestación gratuita de servicios de salud, medicamentos y demás insumos asociados para las personas sin seguridad social. Capítulo adicionado DOF 15-05-2003. Denominación reformada DOF 29-11-2019

@@ -87,7 +87,9 @@ XI. Normas para la administración, adquisición y disposición de los bienes, p
 
 XII. Forma de pago y monto de las cuotas sindicales;
 
-XIII. Época y forma de presentación de la cuenta completa y detallada de la administración del patrimonio sindical y sanciones a sus directivos en caso de incumplimiento. Párrafo reformado DOF 01-05-2019 Para tales efectos, se deberán establecer instancias y procedimientos internos que aseguren la resolución de controversias entre los agremiados, con motivo de la gestión de los fondos sindicales. Fracción reformada DOF 30-11-2012
+XIII. Época y forma de presentación de la cuenta completa y detallada de la administración del patrimonio sindical y sanciones a sus directivos en caso de incumplimiento. Párrafo reformado DOF 01-05-2019
+
+Para tales efectos, se deberán establecer instancias y procedimientos internos que aseguren la resolución de controversias entre los agremiados, con motivo de la gestión de los fondos sindicales. Fracción reformada DOF 30-11-2012
 
 XIV. Normas para la liquidación del patrimonio sindical; y
 

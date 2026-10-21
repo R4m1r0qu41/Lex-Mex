@@ -26,5 +26,3 @@ II. Cuando concluyan las intervenciones de los oradores, el presidente preguntar
 III. Las proposiciones se votarán sucesivamente, de acuerdo con el turno que tengan en el Orden del día, inmediatamente después de terminadas las discusiones previstas. El Secretario leerá la proposición y el nombre del Grupo antes de iniciar la votación, y
 
 IV. El grupo o el diputado independiente que haya presentado la proposición podrá sugerir alguna modificación, siempre que la presenten durante su discusión, por escrito y firmada por su coordinador cuando corresponda. Fracción reformada DOF 18-12-2015
-
-Sección Cuarta Mociones

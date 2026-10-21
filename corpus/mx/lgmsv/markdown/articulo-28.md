@@ -22,5 +22,3 @@ Integración de Indicadores y Bases de Datos de [Movilidad](articulo-3.md) y Seg
 I. Base de Datos sobre información de movilidad, y
 
 II. Base de Datos de información y seguimiento de seguridad vial.
-
-Sección Segunda De las [Bases de Datos sobre Movilidad y Seguridad Vial](articulo-3.md)

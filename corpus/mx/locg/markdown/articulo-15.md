@@ -31,4 +31,6 @@ source_sha256: 30e92e19100dc26408ce0b130151f8c44fe25aeb113eff14f3515553330ba230
 
 8. Realizadas las votaciones y declarados los resultados para la elección de la Mesa Directiva de la Cámara, el Presidente de la Mesa de Decanos invitará a sus integrantes a que ocupen el lugar que les corresponde en el presidium, y los miembros de ésta tomarán su sitio en el Salón de Sesiones.
 
-9. La elección de la Mesa Directiva se comunicará al Presidente de la República, a la Cámara de Senadores, a la Suprema Corte de Justicia de la Nación, y a los órganos legislativos de las entidades federativas. Numeral reformado DOF 02-05-2017 10. En la circunstancia de que la Mesa de Decanos deba actuar como Mesa Directiva, en tanto se concretan los entendimientos necesarios para elegir ésta, se harán las comunicaciones pertinentes a que se refiere el párrafo anterior.
+9. La elección de la Mesa Directiva se comunicará al Presidente de la República, a la Cámara de Senadores, a la Suprema Corte de Justicia de la Nación, y a los órganos legislativos de las entidades federativas. Numeral reformado DOF 02-05-2017
+
+10. En la circunstancia de que la Mesa de Decanos deba actuar como Mesa Directiva, en tanto se concretan los entendimientos necesarios para elegir ésta, se harán las comunicaciones pertinentes a que se refiere el párrafo anterior.

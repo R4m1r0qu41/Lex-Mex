@@ -26,5 +26,3 @@ El tercero interesado que acuda a juicio será parte en éste, debiendo sujetars
 El llamamiento a tercero interesado lo deberán hacer las partes en la demanda, contestación, reconvención o contestación a al reconvención, o bien al emitir la réplica y contrarréplica, según sea el caso; el [Tribunal](articulo-3o.-Ter.md) acordará de plano dicha solicitud, la que en caso de admitirse, ordenará se emplace al tercero interesado para que dentro de los quince días siguientes, realice sus manifestaciones por escrito, al cual deberá acompañar las pruebas que estime pertinentes conforme lo establecido en el artículo [780](articulo-780.md) de esta Ley, con copias de traslado suficientes para las partes.
 
 Artículo adicionado DOF 01-05-2019
-
-Sección Primera Audiencia Preliminar Sección adicionada DOF 01-05-2019

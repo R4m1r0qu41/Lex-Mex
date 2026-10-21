@@ -31,7 +31,9 @@ B. Si los bienes embargados son inmuebles:
 
 l. Se tomará como avalúo el de un perito valuador legalmente autorizado, que será designado por el juez y en su caso, se procederá conforme a lo dispuesto por la fracción I del apartado A de este artículo; Fracción reformada DOF 30-11-2012, 01-05-2019
 
-II. El embargante exhibirá certificado de gravámenes expedido por el Registro Público de la Propiedad, de 10 años anteriores a la fecha en que ordenó el remate. Si en autos obrare ya otro certificado, se pedirá al Registro sólo el relativo al periodo o periodos que aquél no abarque; y Fracción reformada DOF 30-11-2012 III. El proveído que ordene el remate se publicará, por una sola vez, con una anticipación de diez días a la fecha del remate, en el boletín y en los estrados del Tribunal, además de manera potestativa utilizará algún otro medio de publicidad, en su caso y se fijará, por una sola vez, en la Tesorería de cada entidad federativa y en el periódico de mayor circulación del lugar en que se encuentren ubicados los bienes, convocando postores. Fracción reformada DOF 30-11-2012, 01-05-2019
+II. El embargante exhibirá certificado de gravámenes expedido por el Registro Público de la Propiedad, de 10 años anteriores a la fecha en que ordenó el remate. Si en autos obrare ya otro certificado, se pedirá al Registro sólo el relativo al periodo o periodos que aquél no abarque; y Fracción reformada DOF 30-11-2012
+
+III. El proveído que ordene el remate se publicará, por una sola vez, con una anticipación de diez días a la fecha del remate, en el boletín y en los estrados del Tribunal, además de manera potestativa utilizará algún otro medio de publicidad, en su caso y se fijará, por una sola vez, en la Tesorería de cada entidad federativa y en el periódico de mayor circulación del lugar en que se encuentren ubicados los bienes, convocando postores. Fracción reformada DOF 30-11-2012, 01-05-2019
 
 Se citará personalmente con una anticipación de diez días a los acreedores que aparezcan en el certificado de gravámenes, así como al poseedor del bien inmueble, a efecto de que hagan valer sus derechos. Párrafo reformado DOF 01-05-2019
 

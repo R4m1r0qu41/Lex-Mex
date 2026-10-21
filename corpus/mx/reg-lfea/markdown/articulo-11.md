@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFEA.pdf
 source_sha256: 910ba43ef1ae54b3b12fe325f65c81056191fde641c52a10ba709f0f1a39021f
 ---
 
+> Capítulo II
+
 # Artículo 11
 
 El Acuse de Recibo Electrónico deberá contener un sello digital que permita dar plena certeza sobre la fecha y hora de recepción, así como del registro de los Documentos Electrónicos, asociados a dicho Acuse de Recibo.

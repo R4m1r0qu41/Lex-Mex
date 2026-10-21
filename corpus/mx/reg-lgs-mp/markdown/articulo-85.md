@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGS_MP.pdf
 source_sha256: 0fb9b74e27b7abf66250404ef5ec1c68acdc460e9cff5b381f49224ec6f71003
 ---
 
-> Título DÉCIMO PRIMERO
+> Título DÉCIMO PRIMERO · Capítulo II
 
 # Artículo 85
 
@@ -26,5 +26,3 @@ II. A los medios de comunicación en que se difunda el mensaje publicitario de q
 III. A las demás dependencias competentes en materia de publicidad, y
 
 IV. A las dependencias y entidades públicas que tengan atribuciones de orientación y protección al consumidor.
-
-Capítulo III Avisos

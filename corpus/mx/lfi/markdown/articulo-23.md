@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf
 source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 ---
 
+> Título II · Capítulo Séptimo
+
 # Artículo 23
 
 Las inversiones que realicen los fondos de este tipo, se sujetarán al régimen que la [Comisión](articulo-2.md) establezca mediante disposiciones de carácter general, y que deberán considerar, entre otros:
@@ -26,5 +28,3 @@ IV. El porcentaje mínimo del activo neto del fondo que deberá invertirse en ac
 Al expedir las disposiciones a que se refiere este artículo, la Comisión podrá establecer las bases de cálculo de los porcentajes referidos y regímenes diferentes atendiendo a las políticas de inversión, liquidez, selección y, en su caso, diversificación o especialización de activos, así como prever la inversión en otros valores, derechos, títulos de crédito, documentos, contratos, depósitos de dinero y demás bienes objeto de comercio.
 
 Artículo reformado DOF 10-01-2014
-
-Capítulo Octavo De los fondos de inversión en instrumentos de deuda Capítulo adicionado DOF 10-01-2014

@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCPQ.pdf
 source_sha256: 39d132d9b54587ce0636972dfe474936d152717e7d656864e160a637347628c6
 ---
 
-> Capítulo SEGUNDO
+> Capítulo SEGUNDO · Sección Segunda
 
 # Artículo 10
 

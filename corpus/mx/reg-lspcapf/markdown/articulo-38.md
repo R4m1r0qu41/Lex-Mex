@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSPCAPF.pdf
 source_sha256: b4a968d8e8c138ac2069f6afa0dc622178328df24f59cf58eddbab8efe4a7eff
 ---
 
+> Capítulo Décimo
+
 # Artículo 38
 
 En caso de que la persona superior jerárquica del puesto que se concursa ejerza, de manera fundada y motivada, el veto previsto en el artículo [74](../../lspcapf/markdown/articulo-74.md) de la [Ley](articulo-2.md), el Comité Técnico de Selección debe elegir, de entre los restantes finalistas, a la persona que ocupará el puesto.

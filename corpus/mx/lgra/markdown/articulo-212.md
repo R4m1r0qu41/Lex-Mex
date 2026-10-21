@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGRA.pdf
 source_sha256: 1289ec6964e48c84990572ca6080ca05c9d6210e5b0ff5af6d8c9d935fc5fcc8
 ---
 
-> Título SEGUNDO
+> Título SEGUNDO · Capítulo III
 
 # Artículo 212
 
@@ -26,5 +26,3 @@ II. Que no se siga perjuicio al interés social ni se contravengan disposiciones
 En los casos en que sea procedente la suspensión pero pueda ocasionar daño o perjuicio a tercero y la misma se conceda, el quejoso deberá otorgar garantía bastante para reparar el daño e indemnizar los perjuicios que con aquélla se causaren si no obtuviere resolución favorable.
 
 Cuando con la suspensión puedan afectarse derechos del tercero interesado que no sean estimables en dinero, la autoridad que resuelva el recurso fijará discrecionalmente el importe de la garantía. La autoridad deberá de acordar en un plazo no mayor de veinticuatro horas respecto a la suspensión que solicite el recurrente.
-
-Sección Segunda De la Reclamación

@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGS_MT.pdf
 source_sha256: 9ff708994e8bad54142e90da50dd0ffe7c58b739b77d89c5c31a5162abfb1429
 ---
 
-> Título NOVENO
+> Título NOVENO · Capítulo Único
 
 # Artículo 76
 

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAPP.pdf
 source_sha256: a4505a7bd41bc835f1def6fb030c42d8e74a2cc050d9c8fa08f91c9519e382bf
 ---
 
+> Capítulo Cuarto · Sección Segunda
+
 # Artículo 47
 
 No podrán establecerse requisitos que tengan como resultado limitar el proceso de competencia y libre concurrencia. En su caso, la convocante tomará en cuenta las recomendaciones de la Comisión Federal de Competencia.

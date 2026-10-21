@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf
 source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 ---
 
+> Título III · Capítulo Primero
+
 # Artículo 34 Bis
 
 El consejo de administración de las sociedades operadoras de fondos de inversión y de las sociedades valuadoras de acciones de fondos de inversión, se integrará por un mínimo de cinco y un máximo de quince consejeros. El consejo de administración de las sociedades operadoras de fondos de inversión deberá estar conformado por al menos el cuarenta por ciento de consejeros independientes, y para las sociedades valuadoras de acciones de fondos de inversión los consejeros independientes deberán representar cuando menos el veinticinco por ciento del propio consejo. Por cada consejero propietario se podrá designar a un suplente, en el entendido de que los consejeros suplentes de los consejeros independientes deberán tener este mismo carácter.

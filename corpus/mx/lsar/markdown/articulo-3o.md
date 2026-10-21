@@ -49,7 +49,9 @@ X. Sistemas de Ahorro para el Retiro, aquéllos regulados por las leyes de segur
 
 XI. Sociedades de inversión, a las sociedades de inversión especializadas de fondos para el retiro;
 
-XII. Trabajador, a los trabajadores afiliados, así como a cualquier otra persona que tenga derecho a la apertura de una cuenta individual en los términos de esta ley; Fracción reformada DOF 10-12-2002 XIII. Trabajador Afiliado, a los trabajadores inscritos en el Instituto Mexicano del Seguro Social; Fracción reformada DOF 10-12-2002
+XII. Trabajador, a los trabajadores afiliados, así como a cualquier otra persona que tenga derecho a la apertura de una cuenta individual en los términos de esta ley; Fracción reformada DOF 10-12-2002
+
+XIII. Trabajador Afiliado, a los trabajadores inscritos en el Instituto Mexicano del Seguro Social; Fracción reformada DOF 10-12-2002
 
 XIII bis. Trabajador no Afiliado, a los trabajadores que no se encuentren inscritos en el Instituto Mexicano del Seguro Social, y Fracción adicionada DOF 10-12-2002
 

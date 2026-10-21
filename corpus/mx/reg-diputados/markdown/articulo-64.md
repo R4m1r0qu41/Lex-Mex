@@ -22,5 +22,3 @@ source_sha256: 6fa1d25c31c4d8c2cc8074208b10a2f3ff35fecce26c1cc03ba18117cfec80d1
 2. Los grupos por medio de sus coordinadores o sus representantes en la Junta, podrán modificar el orden de presentación de sus asuntos registrados en el Orden del día, lo cual deberán de notificar a la [Mesa Directiva](articulo-2.md) y a los demás grupos, antes del inicio de la Sesión.
 
 3. Cuando la modificación implique el intercambio de espacios entre asuntos registrados en el Orden del día de diferentes grupos, esta deberá contar con la aprobación de la Mesa Directiva.
-
-Sección Segunda Inclusión de Asuntos
