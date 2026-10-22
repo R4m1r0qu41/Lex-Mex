@@ -1,5 +1,9 @@
 # Heading-leak review and parser/debt repair — 2026-10-21
 
+Current acceptance: commit5eca03bc5 and both permanent builds are accepted;
+zero stale inputs remain. See [permanent acceptance](heading-leak-permanent-acceptance-2026-10-21.md).
+The candidate snapshot and pending statements below record the earlier stage.
+
 Reviewed incoming branch `parser/heading-leak-refetch-2026-10-21` at
 `9a2df2529`, including `cd6cd2245`, against pushed `e718da2e5`.
 Operator requests technical fixes; no new branch commit/merge/push authorized.

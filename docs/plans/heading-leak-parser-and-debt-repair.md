@@ -34,6 +34,10 @@ may be unreferenced test objects; they are not permanent branch commits.
 All four milestones complete: 419 tests; private affected E2E; two byte-identical
 DB builds with independent verification and 21/21 goldens each. See
 `docs/heading-leak-refetch-review-and-repair-2026-10-21.md` and companion evidence.
-Current next action: review repairs, obtain commit authorization, then rebuild
-against that permanent commit. Three selected input paths remain intentionally
-stale against unchanged branch HEAD; no production release is claimed.
+Current checkpoint: repair committed as5eca03bc5; permanent-commit builds
+accepted with zero stale inputs and21/21 goldens each. See
+`docs/heading-leak-permanent-acceptance-2026-10-21.md` and evidence. The earlier
+candidate stage above is historical; no further rebuild is needed for its
+three stale inputs.
+Current next action: operator-authorized documentation commit and reviewed
+normal merge preserving cd6cd2245; no merge or push performed here.
