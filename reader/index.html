@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="lex-mex-base" content="/lex-mex/">
+<meta name="description" content="Corpus jurídico mexicano: artículos, referencias y sus fuentes oficiales, en una misma consulta.">
+<link rel="describedby" href="./llms.txt"><link rel="stylesheet" href="./reader.css">
+<link rel="icon" href="/favicon-monogram-square.png" sizes="512x512" type="image/png">
+<link rel="shortcut icon" href="/favicon-monogram-square.png">
+<link rel="apple-touch-icon" href="/avatar-dark-512.png">
+<title>Lex-Mex · Corpus jurídico</title>
+</head>
+<body>
+<a class="skip" href="#article">Ir al artículo</a>
+<header class="topbar">
+  <a class="brand" href="./" aria-label="Lex-Mex inicio"><span><img src="./lex-mex.svg" width="115" height="36" alt="lex-mex"><small>CORPUS JURÍDICO</small></span></a>
+  <div class="search-wrap"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="Buscar en esta colección" aria-label="Buscar artículos en la colección" autocomplete="off"><kbd>/</kbd></div>
+  <span class="collection-badge">Colección financiera · parcial</span>
+  <button id="about-open" class="about-link" type="button">About</button>
+  <a class="firm-link" href="https://www.leg4ll4bs.com/">LEG4L L4BS ↗</a>
+</header>
+<div class="workspace">
+<aside class="sidebar" id="index-sheet" aria-label="Índice del corpus">
+  <div class="sheet-bar"><p class="eyebrow">INSTRUMENTOS</p><button class="quiet sheet-close" type="button" data-close="index-sheet">Cerrar</button></div><select id="instrument" aria-label="Seleccionar instrumento"></select>
+  <div id="instrument-summary" class="instrument-summary"></div>
+  <button id="download-instrument" class="quiet download-instrument" type="button">Descargar norma completa · .md</button>
+  <div class="index-label"><span>Índice de disposiciones</span><span id="count"></span></div>
+  <p id="search-summary" class="muted small" role="status" hidden></p>
+  <nav id="provision-list" aria-label="Disposiciones"></nav>
+  <p class="index-hint muted small">Índice desplazable · sigue tu lectura</p>
+  <div class="sidebar-foot"><a id="agent-index" href="./llms.txt">Acceso para agentes ↗</a><span class="exports">Disposición activa: <a id="markdown-link">Markdown</a> · <a id="text-link">Texto exacto</a> · <a id="manifest-link">Manifiesto</a></span><span id="release-tag"></span></div>
+</aside>
+<main class="reading-column" id="article" tabindex="-1" aria-label="Lectura continua">
+  <div class="active-bar" id="active-bar">
+    <div class="compact-bar"><button id="index-open" class="quiet" type="button" aria-controls="index-sheet">Índice</button><button id="source-open" class="quiet" type="button" aria-controls="source-sheet">Fuente oficial</button></div>
+    <div class="active-title"><span class="eyebrow" id="crumb-instrument"></span><strong id="active-label">Preparando el corpus…</strong></div>
+    <div class="copy-actions"><button id="copy-text" class="quiet primary" type="button">Copiar artículo</button><button id="copy-citation" class="quiet" type="button">Copiar cita</button><button id="share" class="quiet" type="button">Copiar enlace</button></div>
+  </div>
+  <p id="load-status" class="muted small" role="status" aria-live="polite"></p>
+  <div id="flow" class="flow"></div>
+  <footer class="reader-footer"><span>Corpus de consulta. Nada aquí constituye asesoría jurídica. La fuente de publicación oficial de la normatividad federal es el DOF.</span><span>© LEG4L L4BS 2026</span></footer>
+</main>
+<aside class="source-column" id="source-sheet" aria-label="Fuente oficial">
+  <div class="sheet-bar"><div><p class="eyebrow">DOCUMENTO DE RESPALDO</p><h2>Fuente oficial</h2></div><button class="quiet sheet-close" type="button" data-close="source-sheet">Cerrar</button></div>
+  <div class="source-meta"><strong id="source-publisher"></strong><p id="retrieval-date"></p><p id="reform-date"></p><p>Última comprobación periódica: <strong>no registrada</strong></p></div>
+  <div class="source-actions"><a id="pdf-open" class="quiet primary" target="_blank" rel="noopener">Abrir PDF ↗</a><button id="pdf-follow" class="quiet" type="button" disabled aria-describedby="follow-note">Seguimiento no disponible</button><button id="verify-pdf" class="quiet" type="button">Verificar copia PDF</button></div>
+  <div id="source-offer" class="notice" hidden><span id="source-offer-text"></span> <button id="source-offer-open" class="quiet" type="button">Abrir PDF de esta disposición</button></div>
+  <div class="follow-state" id="follow-state"><strong id="follow-title"></strong><p id="follow-note" class="small"></p></div>
+  <div class="pdf-area"><iframe id="pdf" title="PDF oficial de la norma seleccionada"></iframe><div id="pdf-unavailable" class="notice" hidden>Esta versión no tiene una copia PDF verificada disponible.</div></div>
+  <div class="source-bottom"><p>La página del PDF solo seguiría la lectura con un anclaje verificado, nunca por proporción ni por la aparición de una etiqueta. Esta publicación no registra ninguno.</p><details><summary>Proveniencia y verificación</summary><p id="source-digest" class="digest"></p><p id="verification-result" role="status" hidden></p><a id="upstream-link" target="_blank" rel="noopener">Consultar enlace oficial actual ↗</a><p class="small muted">La verificación compara la copia PDF retenida con la huella registrada al recuperar la fuente. No comprueba el enlace actual ni compara una huella PDF con la del texto.</p></details></div>
+</aside>
+</div>
+<aside id="comparison" class="comparison" role="region" aria-labelledby="comparison-title" hidden><div class="section-title"><h2 id="comparison-title"></h2><button id="close-comparison" class="quiet" type="button">Volver</button></div><p class="muted small">Referencia consultada en vista secundaria. El artículo y la posición de origen se conservan.</p><p id="comparison-text" class="comparison-text"></p><div class="copy-actions"><button id="comparison-citation" class="quiet" type="button">Copiar cita</button><button id="show-comparison" class="quiet" type="button">Abrir como artículo principal →</button></div></aside>
+<div id="sheet-backdrop" class="sheet-backdrop" hidden></div>
+<dialog id="about-dialog" aria-labelledby="about-title"><div class="section-title"><h2 id="about-title">About lex-mex</h2><button id="about-close" class="quiet" type="button">Cerrar</button></div><p>lex-mex es un portal de LEG4L L4BS para consultar leyes y regulaciones mexicanas y acceder a sus textos en Markdown (.md).</p><p>Está pensado para la consulta humana y la búsqueda por agentes, con fuentes identificadas, fechas de recuperación y huellas criptográficas que permiten verificar la procedencia de cada publicación.</p><p>La base de datos, las relaciones entre conceptos y las herramientas de búsqueda por agentes están en desarrollo activo. La colección publicada es parcial; las referencias disponibles se muestran cuando están ancladas al texto.</p><p>Corpus de consulta. Nada aquí constituye asesoría jurídica. La fuente de publicación oficial de la normatividad federal es el DOF.</p><p class="small muted">© LEG4L L4BS 2026</p></dialog>
+<div id="message" class="toast" role="status" aria-live="polite" hidden></div>
+<script type="module" src="./reader.js"></script>
+</body></html>
