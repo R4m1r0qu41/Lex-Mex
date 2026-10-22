@@ -52,7 +52,7 @@ secrets, transcripts, hidden reasoning, or mutable copies of external state.
 ### Active
 
 - [`docs/plans/four-instrument-reader-design-release.md`](docs/plans/four-instrument-reader-design-release.md)
-  — Implement approved Reader Revision 02 for four instruments; local package and publication packet ready, awaiting operator decisions.
+  — Implement approved Reader Revision 02 for four instruments; R0–R4 continuation done (active tracking repaired, source-verified 870-provision candidate, full pin delta); awaiting Codex re-review and operator publication decision.
 
 - [`docs/plans/scjn-invalidity-registry-integration.md`](docs/plans/scjn-invalidity-registry-integration.md)
   — Deferred SCJN registry extraction, separate search and reviewed provision links;

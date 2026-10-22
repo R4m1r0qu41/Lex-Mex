@@ -1,5 +1,7 @@
 # Four-instrument Reader release — implementation receipt and publication packet
 
+> **Superseded in part, 2026-10-22.** The R0–R4 continuation (`docs/four-instrument-reader-continuation-receipt-2026-10-22.md`) found the active-article tracking defect in this package's `0b797aa6…` UI and repaired it. It cleared the blanket LIC hold for the audited bytes and replaced the publication/rollback proposal below with a full pin delta. This file remains the M0–M4 record; its ready package and pin delta are no longer the proposal.
+
 2026-10-22. Executed from `docs/plans/four-instrument-reader-design-release.md`
 (original SHA-256 `d067c29da94c1e4a72625b667a282bdde7eef2a1c23980105f366547dcbdb847`).
 **Nothing is committed, pushed, merged, staged to a host or deployed.**

@@ -125,5 +125,10 @@
   "retained": "867/867",
   "main": "870/870"
  },
- "lritf": "byte-identical provisions and references"
+ "lritf": "byte-identical provisions and references",
+ "disposition_superseded": {
+  "date": "2026-10-22",
+  "by": "docs/four-instrument-reader-continuation-receipt-2026-10-22.md",
+  "note": "Source-fidelity technical hold cleared for the exact audited LIC bytes (docs/lic-publication-source-audit-2026-10-22-evidence.json); 9626 release is the preferred candidate. No legal-review row, commencement date or validity claim changed; operator still authorizes publication."
+ }
 }

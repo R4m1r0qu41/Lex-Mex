@@ -322,6 +322,34 @@ when the selected release changed. Rehearse locally. Host writes/deploy, commits
 merge and push still require separate operator authorization after the concrete
 packet is ready. No publication occurs just because the technical hold is cleared.
 
-Exactly one current next action: Claude resumes at R0 in the existing isolated
-Reader worktree, executes R1–R4, and returns a final reviewable package and pin
-delta. Do not restart completed DB implementation or the original design build.
+### R0–R4 outcome — 2026-10-22
+
+Executed in `/Users/jr/Dev/lex-mex-reader-four` by Claude Opus 5.5. This plan assigned Sonnet, so
+the executor is a routing deviation, recorded in the receipt. Receipt:
+`docs/four-instrument-reader-continuation-receipt-2026-10-22.md`; evidence:
+`docs/four-instrument-reader-continuation-evidence-2026-10-22.json`.
+
+- **R1.** The defect reproduced on `ship-a`. Repaired with a rAF reading-line scheduler, a
+  lock-expiry trailing pass, and a `100dvh` trailing spacer added after the fresh Opus review found a
+  tall-viewport rewrite. `reader/browser-check.mjs` passes 28/28 twice on the preferred package and
+  25/25 (3 N/A) on the fallback; the old bytes fail 7.
+- **R2.** The 9626 release matches the source audit exactly. Reference spans have 0 mismatches.
+  LRITF and the PDFs are byte-identical. Nothing new is held.
+- **R3.** Packages built twice and identical. Fail closed 6/6. Rehearsal: exact restore identical;
+  stage rollback leaves `releases/9626…`.
+- **R3 native gates.** 424 tests, fmt, clippy and both validators were rerun before commit; all
+  passed.
+- **Packages.** Preferred publication
+  `f5a1937aa7304375508a11dad427c6fea4d43ad74c567fb53e2fe7e85df00acf` over release 9626… (870
+  provisions). Fallback `709b09c401f3f4176104def965d40a2b70a0114d0d1d38d6147b88db4566c004` over
+  3c04…. Rollback to the deployed `407aa3dc…`.
+- **Pin delta.** The preferred option changes `release_id`, `publication_id`, `corpus_commit` and
+  `manifest_sha256`; the fallback changes only `publication_id`.
+
+No host write, deploy, push or merge occurred. The operator authorized local staged commits on this
+branch only.
+
+Exactly one current next action: Codex re-reviews the continuation packet (handoff
+`2026-10-22-lex-mex-reader-r0-r4-continuation-review.md` in `pending/codex/`). The operator then
+chooses the preferred or fallback option and separately authorizes host staging, the pin change,
+deployment, and branch merge/push.
