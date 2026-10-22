@@ -51,6 +51,9 @@ secrets, transcripts, hidden reasoning, or mutable copies of external state.
 
 ### Active
 
+- [`docs/plans/four-instrument-reader-design-release.md`](docs/plans/four-instrument-reader-design-release.md)
+  — Implement approved Reader Revision 02 for four instruments; local package and publication packet ready, awaiting operator decisions.
+
 - [`docs/plans/scjn-invalidity-registry-integration.md`](docs/plans/scjn-invalidity-registry-integration.md)
   — Deferred SCJN registry extraction, separate search and reviewed provision links;
   evidence-only in the current database build.
