@@ -297,6 +297,45 @@ export async function runChecks({publication,chrome=defaultChrome,anchoring=true
         await errors(b.page,'resize storm');record('long resize storm: budget bounded, target realigned after quiet',exhausted>=1&&idle===0&&ui.label===p.label&&truth.id===p.id&&ui.urlProvision===p.id&&intents===0&&Math.abs(offset-8)<=3,{ui:ui.label,truth:truth.label,offsetBelowBar:offset,exhaustedMarks:exhausted,scrollsWhileIdleAfterRecovery:idle,stormMs,intentMarks:intents});
       }finally{await b.close();}
     }
+    // 27. Terminal recovery-cap boundary (fault injection, NOT natural-storm coverage; scenario 26 is that). reader.js is a
+    // module, so a CDP breakpoint in keepHeld sets the lifetime counters to their spent values while a synthetic layout
+    // change leaves the held target off the reading line. No test hook is added to the shipped bytes. The hold must end:
+    // one exhaustion mark, a visible notice, label/index/URL/copy agreeing with the reading line, no correction loop,
+    // reader movement still tracked without intent, and a fresh explicit navigation holding and settling again.
+    {
+      const b=await launch(chrome,{anchoring,fonts:'blocked'});const p=find('Artículo 193'),index=lic.indexOf(p);try{
+        const sources=new Map();b.page.ws.addEventListener('message',event=>{const msg=JSON.parse(event.data);if(msg.method==='Debugger.scriptParsed'&&/\/reader\.js$/.test(msg.params.url))sources.set(msg.params.scriptId,msg.params.url);});
+        await b.page.viewport(390,844);await b.page.send('Page.navigate',{url:at('lic',p.id)});const settledFirst=await settle(b.page,15000);
+        const before=await b.page.eval('__probe.ui()');
+        await b.page.send('Debugger.enable');const [scriptId]=[...sources.keys()];
+        const lines=(await b.page.send('Debugger.getScriptSource',{scriptId})).scriptSource.split('\n');const bodyLine=lines.findIndex(line=>line.startsWith('function keepHeld(){'))+1;
+        const breakpoint=await b.page.send('Debugger.setBreakpointByUrl',{urlRegex:'/reader\\.js$',lineNumber:bodyLine});
+        const paused=new Promise((resolve,reject)=>{const handler=async event=>{const msg=JSON.parse(event.data);if(msg.method!=='Debugger.paused')return;b.page.ws.removeEventListener('message',handler);
+          try{await b.page.send('Debugger.evaluateOnCallFrame',{callFrameId:msg.params.callFrames[0].callFrameId,expression:'realigns=41;nudges=401;recoveries=30;settleTarget=null;0'});await b.page.send('Debugger.removeBreakpoint',{breakpointId:breakpoint.breakpointId});await b.page.send('Debugger.resume');resolve();}catch(error){reject(error);}};
+          b.page.ws.addEventListener('message',handler);});
+        await b.page.eval("document.querySelector('#flow article').style.paddingBottom='1400px';0");
+        await Promise.race([paused,sleep(10000).then(()=>{throw new Error('keepHeld breakpoint never paused');})]);
+        await sleep(2000); // 700ms settled timer, then the URL replace delay
+        const notice=await b.page.eval("(()=>{const m=document.getElementById('message');return {visible:!m.hidden,text:m.textContent};})()"); // read before Copiar replaces the message
+        const truth=lic[await b.page.eval('__probe.truth()')],ui=await b.page.eval('__probe.ui()'),copy=await b.page.eval("__probe.copy('copy-text')");
+        const exhausted=await b.page.eval(mark('reader:hold-recovery-exhausted')),intents=await b.page.eval(mark('reader:intent'));
+        const idleStart=await b.page.eval('window.__scrolls');await sleep(1800);const idle=await b.page.eval('window.__scrolls')-idleStart;
+        await b.page.eval('__probe.scrollBy(100)');await sleep(700);
+        const movedTruth=lic[await b.page.eval('__probe.truth()')],moved=await b.page.eval('__probe.ui()'),movedCopy=await b.page.eval("__probe.copy('copy-text')"),intentsAfterMove=await b.page.eval(mark('reader:intent'));
+        const settledMarks=await b.page.eval(mark('reader:target-settled'));
+        await b.page.eval(`document.querySelector('#provision-list button[data-provision="${p.id}"]').click();0`);
+        await b.page.until(`${mark('reader:target-settled')}>${settledMarks}`,10000).catch(()=>{});await sleep(700);
+        const renav=await b.page.eval('__probe.ui()'),renavTruth=lic[await b.page.eval('__probe.truth()')],renavCopy=await b.page.eval("__probe.copy('copy-text')");
+        const renavOffset=Math.round(await b.page.eval(`__probe.top(${index})-document.getElementById('active-bar').offsetHeight`));
+        const renavStart=await b.page.eval('window.__scrolls');await sleep(1800);const renavIdle=await b.page.eval('window.__scrolls')-renavStart;
+        await errors(b.page,'terminal recovery cap');
+        record('terminal recovery cap (fault injection): unaligned hold ends with a notice, tracking resumes, new navigation re-holds',
+          settledFirst&&before.label===p.label&&truth.id!==p.id&&ui.label===truth.label&&ui.current===truth.id&&ui.urlProvision===truth.id&&copy===truth.text&&notice.visible&&notice.text.includes('No se pudo mantener')&&exhausted===1&&intents===0&&idle===0
+          &&movedTruth.id===moved.current&&moved.label===movedTruth.label&&moved.urlProvision===movedTruth.id&&movedCopy===movedTruth.text&&intentsAfterMove===0
+          &&renav.label===p.label&&renavTruth.id===p.id&&renav.current===p.id&&renav.urlProvision===p.id&&renavCopy===p.text&&Math.abs(renavOffset-8)<=3&&renavIdle===0&&await b.page.eval(mark('reader:hold-recovery-exhausted'))===1,
+          {requested:p.label,readingLine:truth.label,ui:ui.label,index:ui.current===truth.id,urlProvision:ui.urlProvision===truth.id,copyExact:copy===truth.text,notice,exhaustedMarks:exhausted,intentMarks:intents,scrollsWhileIdle:idle,afterReaderScroll:{truth:movedTruth.label,ui:moved.label,copyExact:movedCopy===movedTruth.text,intentMarks:intentsAfterMove},afterNewNavigation:{ui:renav.label,truth:renavTruth.label,copyExact:renavCopy===p.text,offsetBelowBar:renavOffset,scrollsWhileIdle:renavIdle}});
+      }finally{await b.close();}
+    }
     // 25. Default entry (first provision, no provision in the URL) and a selector switch to another instrument's first
     // provision settle, never exhaust the realign budget, and leave no realigning running afterwards.
     for(const [width,height] of [[1440,900],[390,844]]){

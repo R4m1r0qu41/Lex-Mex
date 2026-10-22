@@ -395,3 +395,97 @@ Nothing is committed for R5, staged to a host, deployed, merged or pushed.
 
 Exactly one current next action: Codex re-reviews the R5 packet. Operator decisions stay separate: local commit
 authorization for R5, the choice of option, host staging, the pin change, deployment, and merge/push.
+
+
+### R5 independent Codex re-review — 2026-10-22
+
+Reviewed clean HEAD ca58f5879 (repair b8c344b97); the local commits supersede
+prior uncommitted status wording. Preferred fbcb4e98 and fallback 4a3b2e2f
+A/B pairs, all package-file hashes and manifest/descriptor IDs verify. Only UI
+JS and publication receipts differ from accepted R4 packages; native/canonical
+inputs are unchanged. Independent Node22/22 and targeted legacy193 checks4/4
+pass. The full preferred browser attempt was reviewer-terminated after43PASS
+lines, about178s total, without final JSON; do not count it as56/0. Full fallback
+was not attempted after that stop. Isolated touch-next scenario passes.
+
+One P2 blocker remains in both packages: after lifetime recovery exhaustion,
+keep-held suppresses passive selection indefinitely even with a misaligned
+target. Independent CDP counter fault injection on unchanged shipped fallback
+bytes plus a synthetic layout shift leaves visibleLIC191 while label/index/URL
+and copy identify193. This proves the terminal branch, not natural frequency of
+30 exhausting storms. Ending an unaligned hold at the terminal cap, resuming
+tracking and visibly reporting failure is required; no expiry timer is required
+for a healthy aligned hold. Add bounded terminal-cap/new-navigation regression.
+
+Report: docs/four-instrument-reader-r5-codex-review-2026-10-22.md, companion
+-evidence.json. Content/source baselines remain accepted; no DB/corpus repair
+requested. No source/package/host changes, commit, push, merge or deployment by
+Codex. Existing state preserved.
+
+Exactly one current next action (supersedes earlier R5 next actions): owning
+implementer addresses terminal recovery-cap behavior and returns fresh package
+hashes plus completed preferred/fallback/legacy browser evidence for focused
+re-review. Package choice and publication/integration permissions remain
+operator decisions.
+
+
+### R6 terminal recovery-cap repair — 2026-10-22 (Claude Sonnet 5.5; uncommitted)
+
+Addresses the single P2 in `docs/four-instrument-reader-r5-codex-review-2026-10-22.md`. Source change is
+`reader/reader.js` only (`settled()` terminal branch): when the 30 lifetime recovery chains are spent and the target is
+still off the reading line, the hold now ends (`unhold()`), `reader:hold-recovery-exhausted` is marked once, passive
+tracking resumes, and the notice "No se pudo mantener la posición solicitada; la selección sigue el texto visible."
+shows. It is not routed through `intent()`, so no `reader:intent` mark is emitted. A healthy aligned hold is unchanged and
+never expires; `go()` still starts a fresh hold with reset counters. The header comment that said spending budgets never
+ends the hold is rewritten.
+
+Regression: harness scenario 27 in `reader/browser-check.mjs`, labelled a fault-injection boundary test (not natural-storm
+coverage; scenario 26 is that). A CDP breakpoint in `keepHeld` (line found from the served source, no test hook in the
+shipped bytes) sets the spent counters after `reader:target-settled`; synthetic padding then displaces LIC 193 at 390px with
+fonts blocked. Asserted: exhaustion mark once; notice visible; label/index/URL/copy equal the reading-line article
+(191; the document title is not asserted); zero intent marks; no `scrollTo` calls over 1.8s idle; a 100px reader scroll leaves the selection consistent (it stays on 191, so this shows consistency, not a change;
+passive tracking resuming is shown by the 193→191 switch after the unhold); an index-button
+navigation to 193 re-holds, settles at 8px below the bar, copies exactly and stays idle. The first dev run failed only on
+the notice assertion (harness read it after Copiar had replaced the message); the read was moved earlier.
+Limits: the counters are injected, so the natural frequency of 30 exhausting storms stays unmeasured, and the new-navigation
+check observes re-holding rather than reading the reset counters.
+
+Hashes: `reader/reader.js` `68344a3001803e3282c135259383d07f1ad3225f7e934c5f71476d4b2879a28a`;
+`reader/browser-check.mjs` `954951a3a292af81eda17304e9ba076574edf0004d24c7e5d8d64fd8f89f35f9`.
+Packages (ignored; `.work/r11-*`, A=B byte-identical): preferred
+`8eb8d8b4fcfd09c7b9414263494789207de38ea1968b01103fbb010df2b65a6f` over 9626 (1790 listed, 1791 on disk incl.
+`publication.json`, 0 bad hashes); fallback `9afcaedbd7aad277cdd4d0c63ee0a019675cf0b933454b2594d1dfa299b2a30a` over 3c04
+(1784/1785, 0 bad). Versus R5 (`fbcb4e98`, `4a3b2e2f`) only `reader.js` and `publication.json` differ. Native, schema, Cargo
+and corpus are untouched; no Rust gates rerun.
+
+Checks run: `node --test reader/` 22/22. Full harness through `mech`, one pass each, wall times 13:03–13:26:
+preferred 57/0 (5m18s), fallback 54/0 + 3 N/A (112 Quintus/Sextus/Séptimus absent from 3c04; 5m11s), legacy 3c04 links on a
+preferred-staged directory `.work/r11-legacy-stage` 72/0 (7m14s), preferred no-anchoring 57/0 (5m20s). Scenario 27 and
+scenario 26 pass in all four; no run stalled. Reports: `.work/evidence/r5/r11-final-{preferred-1,fallback-1,legacy-staged,preferred-noanchor}.json`.
+Not rerun: mutation campaign, Safari/Firefox/real-device, fail-closed and rehearsal receipts (UI-only change, not requested).
+`git diff --check` passes.
+
+Evidence bindings (SHA-256 of the reports in ignored `.work/evidence/r5/`): `r11-final-preferred-1.json`
+`1a5c70effc88598602673606ab7c90ff9cae2b667975e5473f15a6a0fcd88d91`; `r11-final-fallback-1.json`
+`0464a2a712afad7d1568957b0fbbb995662c4912319a1710b356ac5c1d7ef886`; `r11-final-legacy-staged.json`
+`6441fa611056723deaeed66106ad417fffc7ce1895fd5ee8b01de97a5305c297`; `r11-final-preferred-noanchor.json`
+`9c9523cabe7350682f633720ceef282c2377df722c06ae7a563684db43c4b5da`. The fallback package was rebuilt with
+`.work/r10-fallback-a` (the R5 fallback package) as release input and the preferred one from `.work/release-main-a`;
+`diff -rq` against the R5 packages shows only `reader.js` and `publication.json` differ in both. The legacy directory
+was built by copying `.work/baseline-unmodified-ui` (deployed 3c04) and running `reader/stage.mjs` with the R6 preferred
+package; its `reader.js` equals the package's.
+
+Discrimination check: the final harness run against the unchanged R5 fallback package `.work/r10-fallback-a` gives 53 passed,
+1 failed, 3 N/A. The only failure is scenario 27: the requested article 193 stays in label/index/URL/copy while the reading
+line is on 191, no notice appears, and the 100px reader scroll then records a `reader:intent` mark. No other scenario fails.
+Report `.work/evidence/r5/r11-harness-on-r10-fallback-a.json` SHA-256 `37b480c8501f73b50ce4e396c504d27082e1a76a5956db71d38c29f78fea68a6`.
+
+Provenance: `docs/reader-r5-account-switch-2026-10-22.md` (written during the work, by the Codex side) describes the
+uncommitted `reader.js`/`browser-check.mjs` edits as of unknown author. Their snapshot hashes equal the R6 hashes above;
+they are this repair, so no other writer's edits were found. That note was not modified.
+
+Unresolved risks for Codex to judge: the notice is a 5.5s status toast that a later message (for example Copiar) replaces;
+the no-false-selection contract rests on unholding, not on the toast.
+
+Exactly one current next action: Codex focused re-review of the R6 hashes and reports above. Commit, package choice,
+host staging, pin change, deployment, merge and push remain separate operator decisions. Unrelated untracked files preserved.

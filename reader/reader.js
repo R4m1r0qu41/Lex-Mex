@@ -160,7 +160,9 @@ function scrollToIndex(index,tries=6){
 // assistive technology. That movement is the only sign of intent, and it is checked before every realign. Browser
 // anchoring returns when the hold ends. A shift during a settle chain is corrected at once; otherwise a new chain starts.
 // Budgets bound both; they reset once the target is aligned, a spent budget allows one more chain after 700ms of
-// quiet (at most 30 per hold), and spending them never ends the hold.
+// quiet (at most 30 per hold). A healthy aligned hold never expires. When those chains are spent and the target is still
+// off the reading line, the hold ends: tracking resumes, so the label, index, URL and copy follow the visible text, and a
+// notice says the requested position could not be kept. A later explicit navigation starts a fresh hold.
 const layout=new ResizeObserver(()=>keepHeld());
 function hold(index){held=index;realigns=0;nudges=0;recoveries=0;$('article').style.overflowAnchor='none';expectedTop=$('article').scrollTop;keepHeld();}
 function unhold(){held=null;clearTimeout(settledTimer);$('article').style.overflowAnchor='';schedule();}
@@ -189,7 +191,7 @@ function settled(){
   if(aligned&&!loading&&document.fonts.status==='loaded'){performance.mark('reader:target-settled');return;}
   if(!aligned&&settleTarget===null&&realigns>40){ // after a quiet spell, one more chain; at most 30 per hold
     if(recoveries<30){recoveries++;realigns=39;nudges=0;keepHeld();}
-    else if(recoveries++===30)performance.mark('reader:hold-recovery-exhausted');
+    else{performance.mark('reader:hold-recovery-exhausted');unhold();message('No se pudo mantener la posición solicitada; la selección sigue el texto visible.');}
     return;
   }
   settledTimer=setTimeout(settled,700);
