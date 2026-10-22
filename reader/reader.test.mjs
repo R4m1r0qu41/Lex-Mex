@@ -1,5 +1,5 @@
 import test from 'node:test';import assert from 'node:assert/strict';import {mkdtemp,writeFile,mkdir,rm} from 'node:fs/promises';import {tmpdir} from 'node:os';import {join} from 'node:path';
-import {normalize,searchDocuments,safeRelative,releaseId,referencesFor,navigation,selectionUrl,indexGroup,instrumentMarkdown,chunkOrder,pickActive,historyMode,citation,articleCopy,followState,matchSummary,estimateHeight,sourceDecision} from './reader-core.mjs';import {createReaderServer} from './serve.mjs';
+import {normalize,searchDocuments,safeRelative,releaseId,referencesFor,navigation,selectionUrl,indexGroup,instrumentMarkdown,chunkOrder,activeIndex,historyMode,citation,articleCopy,followState,matchSummary,estimateHeight,sourceDecision} from './reader-core.mjs';import {createReaderServer} from './serve.mjs';
 const id='a'.repeat(64);const document={slug:'test',short_name:'LEY',provisions:[{id:'one',label:'Artículo 1',text:'Protección del crédito'},{id:'two',label:'Artículo 2 Bis',text:'Otra norma'}],references:[{source_provision_id:'one',target_provision_id:'two',resolution_status:'resolved'},{source_provision_id:'one',target_provision_id:'outside',resolution_status:'resolved'}]};
 test('search, neighbors and pinned share URLs preserve suffix identities',()=>{
   assert.equal(normalize('CRÉDITO'),'credito');assert.equal(searchDocuments([document],'credito')[0].provision.id,'one');assert.equal(searchDocuments([document],'2 bis')[0].provision.id,'two');assert.equal(navigation(document,'one').next.id,'two');
@@ -29,9 +29,13 @@ test('chunks render the deep-link target first and then spread outward without g
  const covered=chunkOrder(511,300).flatMap(([start,end])=>Array.from({length:end-start},(_,i)=>start+i)).sort((a,b)=>a-b);assert.deepEqual(covered,Array.from({length:511},(_,i)=>i));
  assert.deepEqual(chunkOrder(10,999,4)[0],[8,10]);
 });
-test('active provision is the last visible article above the reading line, else the first visible one',()=>{
- assert.equal(pickActive([],100),-1);assert.equal(pickActive([{index:3,top:-400},{index:4,top:60},{index:5,top:250}],100),4);
- assert.equal(pickActive([{index:7,top:300},{index:6,top:180}],100),6);assert.equal(pickActive([{index:2,top:-900}],100),2);
+test('active provision is the last article whose top crossed the reading line, found from positions alone',()=>{
+ const at=tops=>[tops.length,i=>tops[i]];
+ assert.equal(activeIndex(...at([]),100),-1);assert.equal(activeIndex(...at([-400,60,250]),100),1);
+ assert.equal(activeIndex(...at([180,300]),100),0);assert.equal(activeIndex(...at([-900]),100),0);assert.equal(activeIndex(...at([-50,100,100,400]),100),2);
+ // A heading crossing the line changes the answer even when no other article enters or leaves view.
+ assert.equal(activeIndex(...at([-900,180]),124),0);assert.equal(activeIndex(...at([-1000,80]),124),1);
+ const tops=Array.from({length:511},(_,i)=>i*300-20000);let reads=0;assert.equal(activeIndex(511,i=>{reads++;return tops[i];},124),67);assert.ok(reads<=10);
 });
 test('only deliberate navigation adds history entries',()=>{
  for(const trigger of ['index','reference','instrument','search'])assert.equal(historyMode(trigger),'push');

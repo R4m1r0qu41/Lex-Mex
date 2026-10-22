@@ -1,10 +1,9 @@
-import {searchDocuments,safeRelative,releaseId,referencesFor,statusLabels,reviewLabels,selectionUrl,indexGroup,instrumentMarkdown,chunkOrder,pickActive,historyMode,citation,articleCopy,followState,matchSummary,estimateHeight,sourceDecision} from './reader-core.mjs';
+import {searchDocuments,safeRelative,releaseId,referencesFor,statusLabels,reviewLabels,selectionUrl,indexGroup,instrumentMarkdown,chunkOrder,activeIndex,historyMode,citation,articleCopy,followState,matchSummary,estimateHeight,sourceDecision} from './reader-core.mjs';
 const $=id=>document.getElementById(id);
 const base=new URL(document.querySelector('meta[name="lex-mex-base"]').content,location.origin);
 const compact=matchMedia('(max-width: 1100px)');
-let release,manifest,documents=[],selected,comparison,origin,observer,flowToken=0,lockUntil=0,replaceTimer,userScrolled=false,settleTarget=null,loading=false;
+let release,manifest,documents=[],selected,comparison,origin,observer,flowToken=0,lockUntil=0,replaceTimer,userScrolled=false,settleTarget=null,loading=false,frame=0,trailing;
 const flow={document:null,nodes:[],filled:new Set()};
-const seen=new Map();
 const state={pdfUrl:null,source:null,offer:null};
 function url(path){return new URL(safeRelative(path),base).href;}
 function inRelease(path){return url(`releases/${release}/${safeRelative(path)}`);}
@@ -100,8 +99,8 @@ function renderRelations(relations){
 // Every provision is real DOM inside one scroll container (native find, selection and anchors keep working);
 // content-visibility defers painting. Bodies are filled in chunks, the chunk holding the target first.
 function buildFlow(document_){
-  flow.document=document_;flow.nodes=[];flow.filled=new Set();seen.clear();observer?.disconnect();$('flow').replaceChildren();
-  observer=new IntersectionObserver(observed,{root:$('article'),rootMargin:'0px 0px -50% 0px'});
+  flow.document=document_;flow.nodes=[];flow.filled=new Set();observer?.disconnect();cancelAnimationFrame(frame);frame=0;clearTimeout(trailing);$('flow').replaceChildren();
+  observer=new IntersectionObserver(schedule,{root:$('article'),rootMargin:'0px 0px -50% 0px'});
   document_.provisions.forEach((provision,index)=>{
     const node=element('article','provision');node.dataset.index=String(index);node.style.containIntrinsicSize=`auto ${estimateHeight(provision)}px`;node.setAttribute('aria-labelledby',`h-${index}`);
     const heading=Object.values(provision.heading_context||{}).filter(Boolean).join(' · ');
@@ -127,11 +126,11 @@ async function fillAll(target){
   for(const [position,range] of chunkOrder(count,target).entries()){
     if(token!==flowToken)return;
     fillChunk(range);$('load-status').textContent=`Cargando disposiciones… ${flow.filled.size} de ${count}`;
-    if(position===0){performance.mark('reader:first-chunk');scrollToIndex(target);}
+    if(position===0){performance.mark('reader:first-chunk');scrollToIndex(target);}else schedule();
     await new Promise(resolve=>setTimeout(resolve,0));
   }
   if(token!==flowToken)return;
-  loading=false;$('load-status').textContent='';performance.mark('reader:flow-complete');
+  loading=false;$('load-status').textContent='';performance.mark('reader:flow-complete');schedule();
   if(!userScrolled){ // sizes above the target settle once everything is filled; the entry target stays the selection
     if(selected.index!==target)activate(flow.document,target,'settle');
     scrollToIndex(target);
@@ -141,7 +140,7 @@ async function fillAll(target){
 function barHeight(){return $('active-bar').offsetHeight;}
 function offsetOf(index){const column=$('article');return flow.nodes[index].getBoundingClientRect().top-column.getBoundingClientRect().top-barHeight()-8;}
 // Skipped articles are laid out from estimates, so a jump is re-aligned until the layout stops moving or the reader scrolls.
-// While it settles, the observer cannot reassign the selection.
+// While it settles, passive tracking cannot reassign the selection; a pass runs once it ends.
 function scrollToIndex(index,tries=6){
   const column=$('article');if(!flow.nodes[index])return;
   settleTarget=index;lockUntil=performance.now()+300;
@@ -149,16 +148,20 @@ function scrollToIndex(index,tries=6){
   requestAnimationFrame(()=>setTimeout(()=>{
     if(settleTarget!==index)return;
     if(!userScrolled&&tries>0&&Math.abs(offsetOf(index))>2){scrollToIndex(index,tries-1);return;}
-    settleTarget=null;
+    settleTarget=null;schedule();
   },60));
 }
-function observed(entries){
-  for(const entry of entries)seen.set(Number(entry.target.dataset.index),entry.isIntersecting);
-  if(performance.now()<lockUntil||settleTarget!==null||!flow.document||(loading&&!userScrolled))return;
+// The selection follows the reading line, not observer membership: scrolling, resizing, filling and observer changes
+// all schedule one pass per frame. A pass suppressed by a navigation lock retries when the lock expires.
+function schedule(){if(!frame)frame=requestAnimationFrame(track);}
+function track(){
+  frame=0;clearTimeout(trailing);
+  if(!flow.document||!selected||selected.document!==flow.document)return;
+  const wait=lockUntil-performance.now();if(wait>0){trailing=setTimeout(schedule,wait);return;}
+  if(settleTarget!==null||(loading&&!userScrolled))return;
   const column=$('article').getBoundingClientRect().top;
-  const visible=[...seen].filter(([,on])=>on).map(([index])=>({index,top:flow.nodes[index].getBoundingClientRect().top-column}));
-  const index=pickActive(visible,barHeight()+24);
-  if(index>=0&&selected&&index!==selected.index)activate(flow.document,index,'scroll');
+  const index=activeIndex(flow.nodes.length,i=>flow.nodes[i].getBoundingClientRect().top-column,barHeight()+24);
+  if(index>=0&&index!==selected.index)activate(flow.document,index,'scroll');
 }
 
 function activate(document_,index,trigger){
@@ -226,8 +229,9 @@ async function init(){
   $('about-open').onclick=()=>$('about-dialog').showModal();$('about-close').onclick=()=>$('about-dialog').close();
   $('index-open').onclick=event=>openSheet('index-sheet',event.currentTarget);$('source-open').onclick=event=>openSheet('source-sheet',event.currentTarget);
   for(const button of document.querySelectorAll('.sheet-close'))button.onclick=closeSheets;$('sheet-backdrop').onclick=closeSheets;
-  compact.addEventListener('change',closeSheets);
+  compact.addEventListener('change',()=>{closeSheets();schedule();});window.addEventListener('resize',schedule);
   for(const kind of ['wheel','touchmove','keydown','pointerdown'])$('article').addEventListener(kind,()=>{userScrolled=true;},{passive:true});
+  $('article').addEventListener('scroll',schedule,{passive:true});
   $('verify-pdf').onclick=verifyPdf;$('source-offer-open').onclick=()=>state.offer&&loadSource(state.offer.source,state.offer.pdfUrl);
   window.addEventListener('popstate',()=>{const requested=new URL(location.href).searchParams.get('release');if(requested&&requested!==release){location.reload();return;}closeComparison();selectFromUrl('popstate');});
   window.addEventListener('keydown',event=>{

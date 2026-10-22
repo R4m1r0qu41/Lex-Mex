@@ -35,11 +35,13 @@ export function chunkOrder(count,target,size=40) {
   const first=Math.min(chunks.length-1,Math.max(0,Math.floor(target/size)));
   return chunks.map((range,index)=>({range,distance:Math.abs(index-first)})).sort((a,b)=>a.distance-b.distance||a.range[0]-b.range[0]).map(item=>item.range);
 }
-/** Active provision: the last visible article whose top has crossed the reading line, else the first visible one. */
-export function pickActive(visible,line) {
-  if(!visible.length)return -1;
-  let best;for(const item of visible)if(item.top<=line&&(!best||item.top>best.top))best=item;
-  return (best||visible.reduce((a,b)=>b.index<a.index?b:a)).index;
+/** Active provision: the last article whose top has crossed the reading line, else the first. Article tops increase
+ * with their index, so a binary search reads only a few positions per pass, independent of observer membership. */
+export function activeIndex(count,topOf,line) {
+  if(!count)return -1;
+  let low=0,high=count-1,best=0;
+  while(low<=high){const middle=(low+high)>>1;if(topOf(middle)<=line){best=middle;low=middle+1;}else high=middle-1;}
+  return best;
 }
 /** Passive scrolling must not add history entries; deliberate navigation does. */
 export function historyMode(trigger) {return ['index','reference','instrument','search'].includes(trigger)?'push':trigger==='popstate'?'none':'replace';}

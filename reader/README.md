@@ -38,7 +38,7 @@ Coverage is partial. Repository temporal classifications are qualified, not lega
 
 ## Continuous reading (design Revision 02)
 
-The selected instrument is one scroll of real articles. Every provision is real DOM (native find, selection and anchors work); `content-visibility: auto` defers painting and bodies are filled in chunks, the chunk holding a deep link first. The active article follows the reading line and updates the sticky header, the index (`aria-current`) and the PDF-pane state; the index scrolls independently and never moves the text. Passive scrolling replaces the URL (no history entries); index choices, search results, instrument changes and reference follows push one entry; back/forward restore the article. "Copiar artículo" copies the complete canonical body from the release JSON, never a rendering; "Copiar cita" and "Copiar enlace" name the provision and pin the release. Search runs over the release JSON, so unrendered articles are found, and counts are per provision.
+The selected instrument is one scroll of real articles. Every provision is real DOM (native find, selection and anchors work); `content-visibility: auto` defers painting and bodies are filled in chunks, the chunk holding a deep link first. The active article follows the reading line (recomputed once per frame on scroll, resize, chunk fill and observer changes, and once more when a navigation settle or lock ends) and updates the sticky header, the index (`aria-current`) and the PDF-pane state; the index scrolls independently and never moves the text. Passive scrolling replaces the URL (no history entries); index choices, search results, instrument changes and reference follows push one entry; back/forward restore the article. "Copiar artículo" copies the complete canonical body from the release JSON, never a rendering; "Copiar cita" and "Copiar enlace" name the provision and pin the release. Search runs over the release JSON, so unrendered articles are found, and counts are per provision.
 
 A reference opens in a secondary view without moving the origin article; "Volver" restores its scroll position and focus. Targets outside the published collection stay unlinked and are labelled unavailable.
 
@@ -52,7 +52,10 @@ Below 1100px the index and source panes become sheets over the reading column (f
 
 ```sh
 node --test reader/
+node reader/browser-check.mjs --publication .work/public-reader --out .work/browser-check.json
 ```
+
+`browser-check.mjs` drives a real headless Chrome over the DevTools protocol (no dependencies; `--chrome PATH` overrides the macOS default) against a packaged publication. It scrolls with programmatic and trusted wheel events and checks that the active label, index, title, exact copy body, share URL and replaced URL equal the article at the reading line, including when a heading crosses the line without any IntersectionObserver change, plus deep links, settle interruption, resize, history, search, references and the PDF offer. It is kept out of `node --test` because it needs Chrome; run it on the final package and record its exit code.
 
 The packager verifies the release identifier, every artifact digest and byte count, rejects files outside the public allowlist, and creates a reproducible `publication.json`. Rust regression tests cover deterministic exact text, source digest failures, private-data exclusion and destination protection.
 
