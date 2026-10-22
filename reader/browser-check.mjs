@@ -2,7 +2,7 @@
 // protocol (no dependencies) against a packaged publication, and checks that the active label, index,
 // exact copy body, share URL and replaced URL track the article at the reading line under real scroll
 // events. Kept out of `node --test reader/` on purpose: it needs Chrome, and a silent skip would weaken
-// that gate. Usage: node reader/browser-check.mjs --publication DIR [--chrome PATH] [--no-scroll-anchoring] [--out FILE]
+// that gate. Usage: node reader/browser-check.mjs --publication DIR [--chrome PATH] [--no-scroll-anchoring] [--legacy-release ID] [--out FILE]
 import {spawn} from 'node:child_process';
 import {mkdtemp,readFile,rm,writeFile} from 'node:fs/promises';
 import {tmpdir} from 'node:os';
@@ -15,6 +15,8 @@ const defaultChrome='/Applications/Google Chrome.app/Contents/MacOS/Google Chrom
 
 // Page-side probes, installed before the reader runs. They read the DOM only; the shipped bytes are untouched.
 const probes=`(()=>{
+  window.__scrolls=0;{const scrollTo=Element.prototype.scrollTo;Element.prototype.scrollTo=function(...args){window.__scrolls++;return scrollTo.apply(this,args);};}
+  window.__errors=[];addEventListener('error',e=>window.__errors.push(String(e.message||e)));addEventListener('unhandledrejection',e=>window.__errors.push(String(e.reason)));
   window.__pushes=[];const push=history.pushState.bind(history);history.pushState=(...args)=>{window.__pushes.push(String(args[2]));return push(...args);};
   Object.defineProperty(navigator,'clipboard',{configurable:true,value:{writeText:async text=>{window.__copied=text;}}});
   const col=()=>document.getElementById('article');
@@ -46,20 +48,24 @@ export class Page {
   viewport(width,height){return this.send('Emulation.setDeviceMetricsOverride',{width,height,deviceScaleFactor:1,mobile:false});}
 }
 
-export async function launch(chrome=defaultChrome,{anchoring=true}={}){
+export async function launch(chrome=defaultChrome,{anchoring=true,fonts='normal',smooth=false}={}){
   const profile=await mkdtemp(join(tmpdir(),'lex-reader-chrome-'));
-  const child=spawn(chrome,['--headless=new','--remote-debugging-port=0',`--user-data-dir=${profile}`,'--disable-smooth-scrolling','--no-first-run','--no-default-browser-check','--disable-background-timer-throttling','--disable-renderer-backgrounding','--window-size=1440,900','about:blank'],{stdio:'ignore'});
+  const child=spawn(chrome,['--headless=new','--remote-debugging-port=0',`--user-data-dir=${profile}`,...(smooth?[]:['--disable-smooth-scrolling']),'--no-first-run','--no-default-browser-check','--disable-background-timer-throttling','--disable-renderer-backgrounding','--window-size=1440,900','about:blank'],{stdio:'ignore'});
   let port;for(let i=0;i<200&&!port;i++){try{port=(await readFile(join(profile,'DevToolsActivePort'),'utf8')).split('\n')[0];}catch{await sleep(50);}}
   if(!port)throw new Error('Chrome did not expose a DevTools port.');
   const targets=await (await fetch(`http://127.0.0.1:${port}/json/list`)).json();const target=targets.find(t=>t.type==='page');
   const ws=new WebSocket(target.webSocketDebuggerUrl);await new Promise((ok,fail)=>{ws.onopen=ok;ws.onerror=fail;});
   const page=new Page(ws);await page.send('Page.enable');await page.send('Runtime.enable');await page.send('Page.addScriptToEvaluateOnNewDocument',{source:probes});
   // Without scroll anchoring (as in browsers that lack it) layout shifts above the view no longer emit scroll events.
+  // Web fonts can be blocked or delayed to reproduce late layout shifts (the stylesheet imports Google Fonts).
+  const fontUrls=['*fonts.googleapis.com*','*fonts.gstatic.com*'];
+  if(fonts==='blocked'){await page.send('Network.enable');await page.send('Network.setBlockedURLs',{urls:fontUrls});}
+  else if(typeof fonts==='number'){await page.send('Fetch.enable',{patterns:fontUrls.map(urlPattern=>({urlPattern}))});ws.addEventListener('message',event=>{const msg=JSON.parse(event.data);if(msg.method==='Fetch.requestPaused')setTimeout(()=>page.send('Fetch.continueRequest',{requestId:msg.params.requestId}).catch(()=>{}),fonts);});}
   if(!anchoring)await page.send('Page.addScriptToEvaluateOnNewDocument',{source:"document.addEventListener('DOMContentLoaded',()=>document.head.append(Object.assign(document.createElement('style'),{textContent:'#article{overflow-anchor:none}'})));"});
   return {page,async close(){ws.close();child.kill();await sleep(200);await rm(profile,{recursive:true,force:true});}};
 }
 
-export async function runChecks({publication,chrome=defaultChrome,anchoring=true}){
+export async function runChecks({publication,chrome=defaultChrome,anchoring=true,legacyRelease=null}){
   publication=resolve(publication);
   const releaseId=JSON.parse(await readFile(join(publication,'latest.json'),'utf8')).release_id;
   const manifest=JSON.parse(await readFile(join(publication,'releases',releaseId,'manifest.json'),'utf8'));
@@ -71,7 +77,12 @@ export async function runChecks({publication,chrome=defaultChrome,anchoring=true
   const record=(scenario,ok,detail)=>{results.push({scenario,ok,...detail});console.log(`${ok?'PASS':'FAIL'} ${scenario}${ok?'':' '+JSON.stringify(detail)}`);};
   const at=(slug,provisionId='')=>`${origin}?release=${releaseId}&instrument=${slug}${provisionId?`&provision=${encodeURIComponent(provisionId)}`:''}`;
   // Push counts come from a pushState wrapper; resetting history keeps back() inside each scenario.
-  async function open(href,{width=1440,height=900}={}){await page.viewport(width,height);await page.send('Page.navigate',{url:href});await page.until('window.__probe&&__probe.ready()');await page.send('Page.resetNavigationHistory');await sleep(700);}
+  // Scenarios start once an explicit target has settled (older builds have no such mark and get a bounded wait).
+  const mark=name=>`performance.getEntriesByName('${name}').length`;
+  const pageErrors=[],unsettled=[];
+  async function errors(p,where){const list=await p.eval('window.__errors||[]');if(list.length)pageErrors.push({where,list});}
+  async function settle(p=page,timeout=10000){await p.until('window.__probe&&__probe.ready()',20000);return p.until(`${mark('reader:target-settled')}>0`,timeout).then(()=>true,()=>false);}
+  async function open(href,{width=1440,height=900}={}){await page.viewport(width,height);await page.send('Page.navigate',{url:href});if(!await settle(page,3000))unsettled.push(href);await page.send('Page.resetNavigationHistory');await sleep(700);await errors(page,href);}
   // Compares every UI surface with the article at the reading line.
   async function agree(slug,{url=true}={}){
     const truth=await page.eval('__probe.truth()'),ui=await page.eval('__probe.ui()'),p=instruments[slug].provisions[truth];
@@ -215,19 +226,125 @@ export async function runChecks({publication,chrome=defaultChrome,anchoring=true
     // 15. Explicit targets at the end of each instrument reach the reading line and keep the selection, even on tall viewports.
     for(const [width,height] of [[1440,3000],[390,844]])for(const slug of Object.keys(instruments)){
       const list=instruments[slug].provisions,p=list[list.length-1];
-      await open(at(slug,p.id),{width,height});await sleep(500);const ui=await page.eval('__probe.ui()');const truth=list[await page.eval('__probe.truth()')];
-      record(`last provision deep link ${slug} at ${width}x${height}`,ui.label===p.label&&truth.id===p.id&&ui.urlProvision===p.id,{ui:ui.label,truth:truth.label,urlProvision:ui.urlProvision===p.id});
+      await open(at(slug,p.id),{width,height});await sleep(500);const ui=await page.eval('__probe.ui()');const truth=list[await page.eval('__probe.truth()')];const intents=await page.eval("performance.getEntriesByName('reader:intent').length");
+      record(`last provision deep link ${slug} at ${width}x${height}`,ui.label===p.label&&truth.id===p.id&&ui.urlProvision===p.id&&intents===0,{ui:ui.label,truth:truth.label,urlProvision:ui.urlProvision===p.id,intentMarks:intents});
+    }
+    // 16. Requested-target stability with no reader input: deferred sizes and late web fonts move the target after the
+    // jump. It must end on the requested article, settle (mark asserted), and no intent may be inferred from the browser's
+    // own scroll-anchoring adjustments. Fresh browsers per condition.
+    const fontsLoaded=async p=>p.until("document.fonts.status==='loaded'",16000).catch(()=>{});
+    const stability=async(label,rid,list,slug)=>{
+      const matrix=[];for(const fonts of ['normal',1500,'blocked'])for(let rep=0;rep<3;rep++)matrix.push([390,844,fonts,rep]);
+      matrix.push([390,844,10000,0]);for(const fonts of ['normal',1500,'blocked',10000])matrix.push([1440,900,fonts,0]);
+      for(const [width,height,fonts,rep] of matrix){
+        const b=await launch(chrome,{anchoring,fonts});const p=list.find(q=>q.label===label);const index=list.indexOf(p);
+        try{
+          await b.page.viewport(width,height);const t0=Date.now();await b.page.send('Page.navigate',{url:`${origin}?release=${rid}&instrument=${slug}&provision=${encodeURIComponent(p.id)}`});
+          await b.page.until('window.__probe&&__probe.ready()',20000);
+          await b.page.eval(`(()=>{window.__drift={frames:0,over50:0,max:0};const bar=document.getElementById('active-bar');const tick=()=>{const off=Math.abs(__probe.top(${index})-bar.offsetHeight-8);__drift.frames++;if(off>50)__drift.over50++;__drift.max=Math.max(__drift.max,Math.round(off));if(!performance.getEntriesByName('reader:target-settled').length)requestAnimationFrame(tick);};requestAnimationFrame(tick);})()`);
+          await fontsLoaded(b.page);const isSettled=await settle(b.page,8000);const settleMs=Date.now()-t0;await sleep(600);
+          const ui=await b.page.eval('__probe.ui()'),truth=list[await b.page.eval('__probe.truth()')];
+          const offset=Math.round(await b.page.eval(`__probe.top(${index})-document.getElementById('active-bar').offsetHeight`));
+          const copy=await b.page.eval("__probe.copy('copy-text')");const intents=await b.page.eval(mark('reader:intent'));const exhausted=await b.page.eval(mark('reader:hold-exhausted'));const drift=await b.page.eval('window.__drift');
+          await errors(b.page,`stability ${label} ${width} ${fonts}`);
+          record(`requested target stable ${slug} ${label} ${width}px fonts=${fonts} #${rep+1}${rid===releaseId?'':' (legacy release)'}`,ui.label===label&&truth.id===p.id&&ui.urlProvision===p.id&&copy===p.text&&Math.abs(offset-8)<=3&&isSettled&&intents===0&&exhausted===0,{ui:ui.label,truth:truth.label,urlProvision:ui.urlProvision===p.id,copyExact:copy===p.text,offsetBelowBar:offset,settled:isSettled,settleMs,intentMarks:intents,exhausted,paintedDriftAfterReady:drift});
+        }finally{await b.close();}
+      }
+    };
+    await stability('Artículo 193',releaseId,lic,'lic');
+    // 17. Regression guard (also passes on builds without a hold): a wheel during a held target wins over later font swaps.
+    // 19. A scroll the page cannot attribute to input (find in page, focus, assistive technology; simulated by setting the
+    //     scroll position) also ends the hold: no snap-back when fonts land, and tracking resumes.
+    // 20. Pressing "Copiar enlace" during a held target is not scroll intent: the target, label, URL and copy survive the swap.
+    {
+      const p=find('Artículo 193');
+      const during=async(name,act,check,p=find('Artículo 193'),smooth=false)=>{const b=await launch(chrome,{anchoring,fonts:1500,smooth});try{
+        await b.page.viewport(390,844);await b.page.send('Page.navigate',{url:at('lic',p.id)});await b.page.until('window.__probe&&__probe.ready()',20000);
+        const loadingAtAct=await b.page.eval("document.fonts.status");await act(b.page);await fontsLoaded(b.page);await sleep(1500);
+        const ui=await b.page.eval('__probe.ui()'),truth=lic[await b.page.eval('__probe.truth()')];const intents=await b.page.eval(mark('reader:intent'));const copy=await b.page.eval("__probe.copy('copy-text')");
+        const offset=Math.round(await b.page.eval(`__probe.top(${lic.indexOf(p)})-document.getElementById('active-bar').offsetHeight`));
+        await errors(b.page,name);record(name,check({ui,truth,intents,copy,offset})&&loadingAtAct==='loading',{ui:ui.label,truth:truth.label,url:ui.urlProvision===truth.id,intentMarks:intents,offsetBelowBar:offset,fontsAtAction:loadingAtAct});
+      }finally{await b.close();}};
+      const box="(()=>{const r=document.getElementById('article').getBoundingClientRect();return {x:Math.round(r.left+r.width/2),y:Math.round(r.top+r.height*0.6)};})()";
+      await during('reader scroll during a held target is preserved',async b=>{const c=await b.eval(box);for(let i=0;i<8;i++){await b.wheel(c.x,c.y,-120);await sleep(15);}},({ui,truth})=>ui.label===truth.label&&ui.urlProvision===truth.id&&truth.id!==p.id);
+      await during('unattributed scroll during a held target ends the hold',async b=>{await b.eval('__probe.scrollBy(-900)');},({ui,truth,intents,copy})=>ui.label===truth.label&&ui.urlProvision===truth.id&&truth.id!==p.id&&intents>0&&copy===truth.text);
+      await during('pressing Copiar enlace during a held target keeps the target',async b=>{const r=await b.eval("(()=>{const r=document.getElementById('share').getBoundingClientRect();return {x:Math.round(r.left+r.width/2),y:Math.round(r.top+r.height/2)};})()");for(const type of ['mousePressed','mouseReleased'])await b.send('Input.dispatchMouseEvent',{type,x:r.x,y:r.y,button:'left',clickCount:1});},({ui,truth,intents,copy})=>ui.label===p.label&&truth.id===p.id&&ui.urlProvision===p.id&&intents===0&&copy===p.text);
+    // 22. Real input during a held target: PageDown (keyboard scroll) is intent and is not undone; a 2px touch tap is not.
+    // 23. Volver from a reference opened during the hold returns to the held target, not to a stale scroll position.
+      await during('PageDown during a held target is intent and is kept',async b=>{await b.eval("document.getElementById('article').focus({preventScroll:true})");for(const type of ['rawKeyDown','keyUp'])await b.send('Input.dispatchKeyEvent',{type,key:'PageDown',code:'PageDown',windowsVirtualKeyCode:34,nativeVirtualKeyCode:34});await sleep(200);},({ui,truth,intents,offset})=>ui.label===truth.label&&ui.urlProvision===truth.id&&intents>0&&Math.abs(offset-8)>50);
+      await during('touch tap during a held target keeps the target',async b=>{await b.send('Emulation.setTouchEmulationEnabled',{enabled:true});const c=await b.eval(box);await b.send('Input.dispatchTouchEvent',{type:'touchStart',touchPoints:[{x:c.x,y:c.y}]});await b.send('Input.dispatchTouchEvent',{type:'touchMove',touchPoints:[{x:c.x,y:c.y+2}]});await b.send('Input.dispatchTouchEvent',{type:'touchEnd',touchPoints:[]});},({ui,truth,intents,copy})=>ui.label===p.label&&truth.id===p.id&&ui.urlProvision===p.id&&intents===0&&copy===p.text);
+      await during('smooth-scrolling PageDown during a held target is intent and is kept',async b=>{await b.eval("document.getElementById('article').focus({preventScroll:true})");for(const type of ['rawKeyDown','keyUp'])await b.send('Input.dispatchKeyEvent',{type,key:'PageDown',code:'PageDown',windowsVirtualKeyCode:34,nativeVirtualKeyCode:34});await sleep(600);},({ui,truth,intents,offset})=>ui.label===truth.label&&ui.urlProvision===truth.id&&intents>0&&Math.abs(offset-8)>50,find('Artículo 193'),true);
+      const linked=lic.find((q,i)=>i>150&&instruments.lic.references.some(r=>r.source_provision_id===q.id&&r.resolution_status==='resolved'&&lic.some(t=>t.id===r.target_provision_id)&&Array.from(q.text).slice(r.start_char,r.end_char).join('')===r.source_span));
+      await during('Volver after a reference opened during a held target returns to the target',async b=>{const opened=await b.eval(`(()=>{const a=document.querySelector('#flow article[data-index="${lic.indexOf(linked)}"] .article-text a');if(!a)return false;a.click();return !document.getElementById('comparison').hidden;})()`);if(!opened)throw new Error('reference link did not open');await b.until("document.fonts.status==='loaded'",8000).catch(()=>{});await sleep(800);await b.eval("document.getElementById('close-comparison').click()");await sleep(500);},({ui,truth,intents})=>ui.label===linked.label&&truth.id===linked.id&&ui.urlProvision===linked.id&&intents===0,linked);
+    }
+    // 24. A resize drag across the breakpoint during a held target keeps it (budget never exhausted, no intent inferred).
+    {
+      const b=await launch(chrome,{anchoring});const p=find('Artículo 193');try{
+        await b.page.viewport(1440,900);await b.page.send('Page.navigate',{url:at('lic',p.id)});await settle(b.page);
+        for(const w of [1300,1200,1100,1000,900,800,900,1050,1200,1440]){await b.page.viewport(w,900);await sleep(300);}
+        await sleep(1200);const ui=await b.page.eval('__probe.ui()'),truth=lic[await b.page.eval('__probe.truth()')];const intents=await b.page.eval(mark('reader:intent'));const exhausted=await b.page.eval(mark('reader:hold-exhausted'));
+        await errors(b.page,'resize drag');record('resize drag during a held target keeps it',ui.label===p.label&&truth.id===p.id&&ui.urlProvision===p.id&&intents===0&&exhausted===0,{ui:ui.label,truth:truth.label,intentMarks:intents,exhausted});
+      }finally{await b.close();}
+    }
+    // 26. A long resize storm exhausts the realign budget (exhaustion lands ~5.5s in; 800 steps run ~18s); once it stops, the held target is realigned within a quiet spell.
+    {
+      const b=await launch(chrome,{anchoring});const p=find('Artículo 193');try{
+        await b.page.viewport(1440,900);await b.page.send('Page.navigate',{url:at('lic',p.id)});await settle(b.page);
+        const t0=Date.now();for(let i=0;i<800;i++){await b.page.viewport(i%2?1440:1380+(i%7)*5,900);await sleep(18);}const stormMs=Date.now()-t0;
+        await b.page.viewport(1200,900);await sleep(2500);const before=await b.page.eval('window.__scrolls');await sleep(3000);const idle=await b.page.eval('window.__scrolls')-before;
+        const ui=await b.page.eval('__probe.ui()'),truth=lic[await b.page.eval('__probe.truth()')];const exhausted=await b.page.eval(mark('reader:hold-exhausted'));const intents=await b.page.eval(mark('reader:intent'));
+        const offset=Math.round(await b.page.eval(`__probe.top(${lic.indexOf(p)})-document.getElementById('active-bar').offsetHeight`));
+        await errors(b.page,'resize storm');record('long resize storm: budget bounded, target realigned after quiet',exhausted>=1&&idle===0&&ui.label===p.label&&truth.id===p.id&&ui.urlProvision===p.id&&intents===0&&Math.abs(offset-8)<=3,{ui:ui.label,truth:truth.label,offsetBelowBar:offset,exhaustedMarks:exhausted,scrollsWhileIdleAfterRecovery:idle,stormMs,intentMarks:intents});
+      }finally{await b.close();}
+    }
+    // 25. Default entry (first provision, no provision in the URL) and a selector switch to another instrument's first
+    // provision settle, never exhaust the realign budget, and leave no realigning running afterwards.
+    for(const [width,height] of [[1440,900],[390,844]]){
+      const b=await launch(chrome,{anchoring});try{
+        await b.page.viewport(width,height);await b.page.send('Page.navigate',{url:`${origin}?release=${releaseId}&instrument=lic`});const isSettled=await settle(b.page,10000);
+        await sleep(1000);const before=await b.page.eval('window.__scrolls');await sleep(3000);const after=await b.page.eval('window.__scrolls');
+        const ui=await b.page.eval('__probe.ui()');const exhausted=await b.page.eval(mark('reader:hold-exhausted'));
+        await b.page.eval(`(()=>{const s=document.getElementById('instrument');s.value='lritf';s.dispatchEvent(new Event('change'));})()`);
+        await b.page.until(`${mark('reader:target-settled')}>1`,10000).catch(()=>{});await sleep(1000);const before2=await b.page.eval('window.__scrolls');await sleep(3000);const after2=await b.page.eval('window.__scrolls');
+        const ui2=await b.page.eval('__probe.ui()'),settledCount=await b.page.eval(mark('reader:target-settled')),exhausted2=await b.page.eval(mark('reader:hold-exhausted')),total=await b.page.eval('window.__scrolls');
+        await errors(b.page,`first provision ${width}`);
+        record(`first-provision entry and instrument switch settle at ${width}px`,isSettled&&exhausted===0&&after===before&&ui.label===lic[0].label&&ui2.instrument==='lritf'&&ui2.label===instruments.lritf.provisions[0].label&&settledCount>=2&&exhausted2===0&&after2===before2,{entry:ui.label,settled:isSettled,scrollsWhileIdle:after-before,switched:ui2.label,settledMarks:settledCount,scrollsWhileIdleAfterSwitch:after2-before2,totalScrollCalls:total,exhausted:exhausted+exhausted2});
+      }finally{await b.close();}
+    }
+    // 21. Explicit navigation other than entry at 390px while fonts are late: an index choice pushes once and holds; back restores.
+    {
+      const b=await launch(chrome,{anchoring,fonts:1500});const target=find('Artículo 193');try{
+        await b.page.viewport(390,844);await b.page.send('Page.navigate',{url:at('lic',find('Artículo 2o').id)});await b.page.until('window.__probe&&__probe.ready()',20000);
+        const centreOf=async sel=>b.page.eval(`(()=>{const r=document.querySelector('${sel}').getBoundingClientRect();return {x:Math.round(r.left+r.width/2),y:Math.round(r.top+r.height/2)};})()`);
+        const click=async sel=>{const c=await centreOf(sel);for(const type of ['mousePressed','mouseReleased'])await b.page.send('Input.dispatchMouseEvent',{type,x:c.x,y:c.y,button:'left',clickCount:1});};
+        await click('#index-open');await sleep(300);await b.page.eval(`document.querySelector('#provision-list button[data-provision="${target.id}"]').scrollIntoView({block:'center'})`);await sleep(100);
+        await click(`#provision-list button[data-provision="${target.id}"]`);await fontsLoaded(b.page);await sleep(1500);
+        const ui=await b.page.eval('__probe.ui()'),truth=lic[await b.page.eval('__probe.truth()')];
+        await b.page.eval('history.back()');await sleep(1500);const back=await b.page.eval('__probe.ui()'),backTruth=lic[await b.page.eval('__probe.truth()')];
+        await errors(b.page,'index at 390');
+        record('index choice at 390px with late fonts holds, pushes once, back restores',ui.label===target.label&&truth.id===target.id&&ui.urlProvision===target.id&&ui.pushes===1&&back.label==='Artículo 2o'&&backTruth.label==='Artículo 2o'&&back.urlProvision===find('Artículo 2o').id,{ui:ui.label,truth:truth.label,pushes:ui.pushes,back:back.label,backTruth:backTruth.label});
+      }finally{await b.close();}
+    }
+    // 18. Legacy pinned release served next to the current one (preferred staging keeps the older release published).
+    if(legacyRelease){
+      const legacy=JSON.parse(await readFile(join(publication,'releases',legacyRelease,'manifest.json'),'utf8'));const doc=legacy.instruments.find(i=>i.slug==='lic');
+      const list=JSON.parse(await readFile(join(publication,'releases',legacyRelease,doc.document_path),'utf8')).provisions;
+      await stability('Artículo 193',legacyRelease,list,'lic');
+      const b=await launch(chrome,{anchoring});try{await b.page.viewport(390,844);const p=list.find(q=>q.label==='Artículo 193');await b.page.send('Page.navigate',{url:`${origin}?release=${legacyRelease}&instrument=lic&provision=${encodeURIComponent(p.id)}`});await settle(b.page);const tag=await b.page.eval("document.getElementById('release-tag').textContent");const share=await b.page.eval("__probe.copy('share')");
+        record('legacy release link keeps its pinned release',tag.includes(legacyRelease.slice(0,12))&&new URL(share).searchParams.get('release')===legacyRelease,{tag,shareRelease:new URL(share).searchParams.get('release')});}finally{await b.close();}
     }
     // Indicative LIC load times on these bytes (navigation to flow complete); no budget is asserted.
     for(let i=0;i<3;i++){await page.viewport(1440,900);const t0=Date.now();await page.send('Page.navigate',{url:at('lic',find('Artículo 193').id)});await page.until('window.__probe&&__probe.ready()');timings.push({wall_ms:Date.now()-t0,...(await page.eval("Object.fromEntries(['reader:first-chunk','reader:flow-complete'].map(n=>[n,Math.round(performance.getEntriesByName(n)[0].startTime)]))"))});}
+    record('no page errors (exceptions, ResizeObserver loops)',pageErrors.length===0,{pageErrors});
+    record('every opened page settles its explicit target',unsettled.length===0,{unsettled});
   }finally{await browser.close();await new Promise(r=>server.close(r));}
   return {publication,releaseId,origin,scrollAnchoring:anchoring,results,notApplicable,licLoadTimings:timings,passed:results.filter(r=>r.ok).length,failed:results.filter(r=>!r.ok).length};
 }
 
 if(process.argv[1]&&import.meta.url===pathToFileURL(resolve(process.argv[1])).href){
   const args=process.argv.slice(2),value=key=>args.includes(key)?args[args.indexOf(key)+1]:undefined;
-  if(!value('--publication')){console.error('Usage: node reader/browser-check.mjs --publication DIR [--chrome PATH] [--no-scroll-anchoring] [--out FILE]');process.exit(1);}
-  const report=await runChecks({publication:value('--publication'),chrome:value('--chrome')||defaultChrome,anchoring:!args.includes('--no-scroll-anchoring')});
+  if(!value('--publication')){console.error('Usage: node reader/browser-check.mjs --publication DIR [--chrome PATH] [--no-scroll-anchoring] [--legacy-release ID] [--out FILE]');process.exit(1);}
+  const report=await runChecks({publication:value('--publication'),chrome:value('--chrome')||defaultChrome,anchoring:!args.includes('--no-scroll-anchoring'),legacyRelease:value('--legacy-release')||null});
   if(value('--out'))await writeFile(value('--out'),JSON.stringify(report,null,2)+'\n');
   console.log(`${report.passed} passed, ${report.failed} failed, ${report.notApplicable.length} not applicable`);process.exitCode=report.failed?1:0;
 }

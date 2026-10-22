@@ -2,7 +2,7 @@ import {searchDocuments,safeRelative,releaseId,referencesFor,statusLabels,review
 const $=id=>document.getElementById(id);
 const base=new URL(document.querySelector('meta[name="lex-mex-base"]').content,location.origin);
 const compact=matchMedia('(max-width: 1100px)');
-let release,manifest,documents=[],selected,comparison,origin,observer,flowToken=0,lockUntil=0,replaceTimer,userScrolled=false,settleTarget=null,loading=false,frame=0,trailing;
+let release,manifest,documents=[],selected,comparison,origin,observer,flowToken=0,lockUntil=0,replaceTimer,userScrolled=false,settleTarget=null,loading=false,frame=0,trailing,held=null,realigns=0,nudges=0,recoveries=0,settledTimer,expectedTop=0;
 const flow={document:null,nodes:[],filled:new Set()};
 const state={pdfUrl:null,source:null,offer:null};
 function url(path){return new URL(safeRelative(path),base).href;}
@@ -131,7 +131,7 @@ async function fillAll(target){
   }
   if(token!==flowToken)return;
   loading=false;$('load-status').textContent='';performance.mark('reader:flow-complete');schedule();
-  if(!userScrolled){ // sizes above the target settle once everything is filled; the entry target stays the selection
+  if(!userScrolled&&held===target){ // sizes above the target settle once everything is filled; a newer navigation owns its own target
     if(selected.index!==target)activate(flow.document,target,'settle');
     scrollToIndex(target);
   }
@@ -139,18 +139,63 @@ async function fillAll(target){
 
 function barHeight(){return $('active-bar').offsetHeight;}
 function offsetOf(index){const column=$('article');return flow.nodes[index].getBoundingClientRect().top-column.getBoundingClientRect().top-barHeight()-8;}
+// How far the column can still move toward aligning an article: the first article cannot rise above the top, nor the last past the end.
+function drift(index){const column=$('article'),top=Math.min(Math.max(0,column.scrollTop+offsetOf(index)),column.scrollHeight-column.clientHeight);return top-column.scrollTop;}
 // Skipped articles are laid out from estimates, so a jump is re-aligned until the layout stops moving or the reader scrolls.
 // While it settles, passive tracking cannot reassign the selection; a pass runs once it ends.
 function scrollToIndex(index,tries=6){
-  const column=$('article');if(!flow.nodes[index])return;
+  const column=$('article');if(!flow.nodes[index]||readerMoved())return;
   settleTarget=index;lockUntil=performance.now()+300;
-  column.scrollTo({top:column.scrollTop+offsetOf(index),behavior:'instant'});
+  column.scrollTo({top:column.scrollTop+drift(index),behavior:'instant'});expectedTop=column.scrollTop;
   requestAnimationFrame(()=>setTimeout(()=>{
-    if(settleTarget!==index)return;
-    if(!userScrolled&&tries>0&&Math.abs(offsetOf(index))>2){scrollToIndex(index,tries-1);return;}
-    settleTarget=null;schedule();
+    if(settleTarget!==index||readerMoved())return;
+    if(!userScrolled&&tries>0&&Math.abs(drift(index))>2){scrollToIndex(index,tries-1);return;}
+    settleTarget=null;schedule();keepHeld();
   },60));
 }
+// An explicit target stays at the reading line until the reader moves the view or navigates again: deferred article
+// sizes and late web-font swaps can move it after the first jump. While a target is held this code does the anchoring
+// (re-aligning the target as soon as the layout changes) and the browser's scroll anchoring is off, so the column only
+// moves when this code moves it, unless the reader does: keyboard, wheel, touch, scrollbar, find in page, focus or
+// assistive technology. That movement is the only sign of intent, and it is checked before every realign. Browser
+// anchoring returns when the hold ends. A shift during a settle chain is corrected at once; otherwise a new chain starts.
+// Budgets bound both; they reset once the target is aligned, a spent budget allows one more chain after 700ms of
+// quiet (at most 30 per hold), and spending them never ends the hold.
+const layout=new ResizeObserver(()=>keepHeld());
+function hold(index){held=index;realigns=0;nudges=0;recoveries=0;$('article').style.overflowAnchor='none';expectedTop=$('article').scrollTop;keepHeld();}
+function unhold(){held=null;clearTimeout(settledTimer);$('article').style.overflowAnchor='';schedule();}
+function readerMoved(){
+  if(held===null)return false;
+  const column=$('article'),top=column.scrollTop;
+  if(Math.abs(top-expectedTop)<=2)return false;
+  if(top<expectedTop&&top>=column.scrollHeight-column.clientHeight-1){expectedTop=top;return false;} // clamped by shrinking content
+  intent();settleTarget=null;return true;
+}
+function keepHeld(){
+  if(held===null||userScrolled||!flow.nodes[held]||readerMoved())return;
+  const off=drift(held);
+  if(Math.abs(off)>2){
+    if(settleTarget!==null&&nudges<400){nudges++;const column=$('article');column.scrollTo({top:column.scrollTop+off,behavior:'instant'});expectedTop=column.scrollTop;}
+    else if(settleTarget===null&&realigns<40){realigns++;scrollToIndex(held);}
+    else if(realigns<=40&&nudges<=400){realigns=41;nudges=401;performance.mark('reader:hold-exhausted');}
+  }
+  clearTimeout(settledTimer);settledTimer=setTimeout(settled,700);
+}
+// The settled mark is informational: the held target is aligned with filling and fonts done. The hold continues.
+function settled(){
+  if(held===null||userScrolled)return;
+  const aligned=settleTarget===null&&Math.abs(drift(held))<=2;
+  if(aligned){realigns=0;nudges=0;}
+  if(aligned&&!loading&&document.fonts.status==='loaded'){performance.mark('reader:target-settled');return;}
+  if(!aligned&&settleTarget===null&&realigns>40){ // after a quiet spell, one more chain; at most 30 per hold
+    if(recoveries<30){recoveries++;realigns=39;nudges=0;keepHeld();}
+    else if(recoveries++===30)performance.mark('reader:hold-recovery-exhausted');
+    return;
+  }
+  settledTimer=setTimeout(settled,700);
+}
+function intent(){userScrolled=true;if(held!==null){unhold();performance.mark('reader:intent');}}
+function scrolled(){readerMoved();schedule();}
 // The selection follows the reading line, not observer membership: scrolling, resizing, filling and observer changes
 // all schedule one pass per frame. A pass suppressed by a navigation lock retries when the lock expires.
 function schedule(){if(!frame)frame=requestAnimationFrame(track);}
@@ -158,7 +203,7 @@ function track(){
   frame=0;clearTimeout(trailing);
   if(!flow.document||!selected||selected.document!==flow.document)return;
   const wait=lockUntil-performance.now();if(wait>0){trailing=setTimeout(schedule,wait);return;}
-  if(settleTarget!==null||(loading&&!userScrolled))return;
+  if(settleTarget!==null||(loading&&!userScrolled)||(held!==null&&!userScrolled))return;
   const column=$('article').getBoundingClientRect().top;
   const index=activeIndex(flow.nodes.length,i=>flow.nodes[i].getBoundingClientRect().top-column,barHeight()+24);
   if(index>=0&&index!==selected.index)activate(flow.document,index,'scroll');
@@ -179,10 +224,10 @@ function activate(document_,index,trigger){
   else if(mode==='replace')replaceTimer=setTimeout(()=>history.replaceState({},'',target),250);
 }
 async function go(document_,provision,trigger){
-  const index=document_.provisions.indexOf(provision);userScrolled=false;
+  const index=document_.provisions.indexOf(provision);userScrolled=false;held=null; // the previous target's hold ends here
   if(flow.document!==document_){if(trigger!=='search')$('search').value='';buildFlow(document_);renderIndex();}
   activate(document_,index,trigger);
-  fillChunk(chunkOrder(document_.provisions.length,index)[0]);scrollToIndex(index);
+  fillChunk(chunkOrder(document_.provisions.length,index)[0]);scrollToIndex(index);hold(index);
   if(flow.filled.size<document_.provisions.length)fillAll(index);
 }
 
@@ -194,7 +239,8 @@ function compare(target,trigger){
 }
 function closeComparison(){
   if(!comparison)return;$('comparison').hidden=true;comparison=null;
-  $('article').scrollTop=origin.scrollTop;origin.trigger?.focus?.({preventScroll:true});
+  if(held!==null&&!userScrolled)scrollToIndex(held);else $('article').scrollTop=origin.scrollTop; // a held target may have been re-aligned meanwhile
+  expectedTop=$('article').scrollTop;origin.trigger?.focus?.({preventScroll:true});
 }
 function selectFromUrl(trigger){
   const params=new URL(location.href).searchParams;const document_=documents.find(d=>d.slug===params.get('instrument'))||documents[0];
@@ -230,8 +276,8 @@ async function init(){
   $('index-open').onclick=event=>openSheet('index-sheet',event.currentTarget);$('source-open').onclick=event=>openSheet('source-sheet',event.currentTarget);
   for(const button of document.querySelectorAll('.sheet-close'))button.onclick=closeSheets;$('sheet-backdrop').onclick=closeSheets;
   compact.addEventListener('change',()=>{closeSheets();schedule();});window.addEventListener('resize',schedule);
-  for(const kind of ['wheel','touchmove','keydown','pointerdown'])$('article').addEventListener(kind,()=>{userScrolled=true;},{passive:true});
-  $('article').addEventListener('scroll',schedule,{passive:true});
+  for(const id of ['flow','active-bar','load-status'])layout.observe($(id));document.fonts.addEventListener('loadingdone',()=>keepHeld());
+  $('article').addEventListener('scroll',scrolled,{passive:true});
   $('verify-pdf').onclick=verifyPdf;$('source-offer-open').onclick=()=>state.offer&&loadSource(state.offer.source,state.offer.pdfUrl);
   window.addEventListener('popstate',()=>{const requested=new URL(location.href).searchParams.get('release');if(requested&&requested!==release){location.reload();return;}closeComparison();selectFromUrl('popstate');});
   window.addEventListener('keydown',event=>{
