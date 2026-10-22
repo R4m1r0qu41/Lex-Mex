@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGS.pdf
 source_sha256: a2d3f947b369e4383f2f27a4e9bd819a3dba768ab9bae527e6388e30c1f9e06c
 ---
 
-> Título TERCERO BIS
+> Título TERCERO BIS · Capítulo IV
 
 # Artículo 77 bis 20
 
@@ -24,5 +24,3 @@ La Secretaría de Salud determinará el monto anual de este fondo, así como la 
 La Secretaría de Salud definirá las variables que serán utilizadas en la fórmula de distribución de los recursos del fondo y proporcionará la información utilizada para el cálculo, así como de la utilización de los mismos, al Congreso de la Unión.
 
 Artículo adicionado DOF 15-05-2003
-
-Capítulo V De las Cuotas Familiares Se deroga. Capítulo adicionado DOF 15-05-2003. Derogado DOF 29-11-2019

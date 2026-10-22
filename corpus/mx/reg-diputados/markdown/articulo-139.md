@@ -28,5 +28,3 @@ III. Se exponga a consideración del Pleno alguna iniciativa o minuta por vencim
 IV. La [Constitución](articulo-2.md), la [Ley](articulo-2.md), este [Reglamento](articulo-2.md) o alguna disposición de la [Cámara](articulo-2.md) así lo ordene, y
 
 V. Persista duda del resultado de una votación económica, aún cuando ésta se haya repetido o sea impugnada por un Grupo, a través de su [Coordinador](articulo-2.md) o por la [Secretaría](articulo-2.md). Fracción reformada DOF 20-04-2011
-
-Sección Tercera Votación Económica

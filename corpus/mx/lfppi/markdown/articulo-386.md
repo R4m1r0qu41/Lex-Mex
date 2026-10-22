@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPPI.pdf
 source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 ---
 
-> Título SÉPTIMO
+> Título SÉPTIMO · Capítulo I
 
 # Artículo 386
 
@@ -29,7 +29,9 @@ b) Que se fabriquen productos bajo especificaciones, licencias o autorización d
 
 c) Que se prestan servicios o se venden productos bajo autorización, licencias o especificaciones de una tercera persona; Inciso reformado DOF 03-04-2026
 
-d) Que el producto de que se trate proviene de un territorio, región o localidad distinta al verdadero lugar de origen, de modo que induzca al público a error en cuanto al origen geográfico del producto, o Inciso reformado DOF 03-04-2026 e) La existencia de una relación de patrocinio oficial entre un signo distintivo y un evento público o privado de concentración masiva. Inciso adicionado DOF 03-04-2026
+d) Que el producto de que se trate proviene de un territorio, región o localidad distinta al verdadero lugar de origen, de modo que induzca al público a error en cuanto al origen geográfico del producto, o Inciso reformado DOF 03-04-2026
+
+e) La existencia de una relación de patrocinio oficial entre un signo distintivo y un evento público o privado de concentración masiva. Inciso adicionado DOF 03-04-2026
 
 III.- Intentar o lograr el propósito de desprestigiar los productos, los servicios, la actividad industrial o comercial o el establecimiento de otro. No estará comprendida en esta disposición, la comparación de productos o servicios que ampare la marca con el propósito de informar al público, siempre que dicha comparación no sea tendenciosa, falsa o exagerada en los términos de la Ley Federal de Protección al Consumidor;
 

@@ -244,12 +244,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcm:article:9:term-usage:522-533",
+    "id": "urn:lex-mx:federal:statute:lcm:article:9:term-usage:523-534",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:9",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:comerciante",
     "span": "Comerciante",
-    "start_char": 522,
-    "end_char": 533
+    "start_char": 523,
+    "end_char": 534
   },
   {
     "schema_version": "0.1.0",
@@ -892,12 +892,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcm:article:29:term-usage:769-778",
+    "id": "urn:lex-mx:federal:statute:lcm:article:29:term-usage:770-779",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:29",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:instituto",
     "span": "Instituto",
-    "start_char": 769,
-    "end_char": 778
+    "start_char": 770,
+    "end_char": 779
   },
   {
     "schema_version": "0.1.0",
@@ -1864,15 +1864,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcm:article:69:term-usage:1020-1031",
-    "provision_id": "urn:lex-mx:federal:statute:lcm:article:69",
-    "term_id": "urn:lex-mx:federal:statute:lcm:term:comerciante",
-    "span": "Comerciante",
-    "start_char": 1020,
-    "end_char": 1031
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:70:term-usage:27-38",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:70",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:comerciante",
@@ -1996,15 +1987,6 @@
     "span": "Masa",
     "start_char": 817,
     "end_char": 821
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcm:article:73:term-usage:723-734",
-    "provision_id": "urn:lex-mx:federal:statute:lcm:article:73",
-    "term_id": "urn:lex-mx:federal:statute:lcm:term:comerciante",
-    "span": "Comerciante",
-    "start_char": 723,
-    "end_char": 734
   },
   {
     "schema_version": "0.1.0",
@@ -2293,15 +2275,6 @@
     "span": "Ley",
     "start_char": 227,
     "end_char": 230
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcm:article:85:term-usage:296-307",
-    "provision_id": "urn:lex-mx:federal:statute:lcm:article:85",
-    "term_id": "urn:lex-mx:federal:statute:lcm:term:comerciante",
-    "span": "Comerciante",
-    "start_char": 296,
-    "end_char": 307
   },
   {
     "schema_version": "0.1.0",
@@ -5650,15 +5623,6 @@
     "span": "Masa",
     "start_char": 507,
     "end_char": 511
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcm:article:228:term-usage:652-674",
-    "provision_id": "urn:lex-mx:federal:statute:lcm:article:228",
-    "term_id": "urn:lex-mx:federal:statute:lcm:term:acreedores-reconocidos",
-    "span": "Acreedores Reconocidos",
-    "start_char": 652,
-    "end_char": 674
   },
   {
     "schema_version": "0.1.0",

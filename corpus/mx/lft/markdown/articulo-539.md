@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFT.pdf
 source_sha256: 12f09393a1951a91c3f57f579bf611b034edf1a5f78cdbfb828e23ff3a9acbf7
 ---
 
-> Título ONCE · Capítulo III
+> Título ONCE · Capítulo IV
 
 # Artículo 539
 
@@ -45,7 +45,9 @@ b) Autorizar y registrar, en su caso, el funcionamiento de agencias privadas que
 
 c) Vigilar que las entidades privadas a que alude el inciso anterior, cumplan las obligaciones que les impongan esta ley, sus reglamentos y las disposiciones administrativas de las autoridades laborales;
 
-d) Intervenir, en coordinación con las Secretarías de Gobernación, Economía y Relaciones Exteriores, dentro del ámbito de sus respectivas competencias, en la contratación de los nacionales que vayan a prestar sus servicios al extranjero; Inciso reformado DOF 30-11-2012 e) Proponer la celebración de convenios en materia de colocación de trabajadores, entre la Federación y las Entidades Federativas; y,
+d) Intervenir, en coordinación con las Secretarías de Gobernación, Economía y Relaciones Exteriores, dentro del ámbito de sus respectivas competencias, en la contratación de los nacionales que vayan a prestar sus servicios al extranjero; Inciso reformado DOF 30-11-2012
+
+e) Proponer la celebración de convenios en materia de colocación de trabajadores, entre la Federación y las Entidades Federativas; y,
 
 f) En general, realizar todas las que las Leyes y reglamentos encomienden a la Secretaría del Trabajo y Previsión Social en esta materia. Inciso reformado DOF 30-11-2012
 

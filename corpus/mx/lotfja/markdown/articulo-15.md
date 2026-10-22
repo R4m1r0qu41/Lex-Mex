@@ -13,10 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LOTFJA.pdf
 source_sha256: b32c33fa4ed071dc8bea1ad69ce8510cdb05016967e9e4fcb60f10c6f2216628
 ---
 
-> Título SEGUNDO
+> Título SEGUNDO · Capítulo III
 
 # Artículo 15
 
 Las Secciones sesionarán públicamente, de las cuales se levantará Acta y se tomará versión estenográfica. De las sesiones privadas que así lo establezca la [Ley](articulo-2.md), sólo se levantará Acta y se realizará versión pública de la misma.
-
-Capítulo IV De las atribuciones del Pleno General

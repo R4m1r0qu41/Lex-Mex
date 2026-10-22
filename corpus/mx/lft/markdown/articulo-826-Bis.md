@@ -20,5 +20,3 @@ source_sha256: 12f09393a1951a91c3f57f579bf611b034edf1a5f78cdbfb828e23ff3a9acbf7
 Cuando el dictamen rendido por un perito sea notoriamente falso, tendencioso o inexacto, el [Tribunal](articulo-3o.-Ter.md) dará vista al Ministerio Público para que determine si existe la comisión de un delito.
 
 Artículo adicionado DOF 30-11-2012. Reformado DOF 01-05-2019
-
-Sección Sexta De la Inspección Sección adicionada DOF 04-01-1980

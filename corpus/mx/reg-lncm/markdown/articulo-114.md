@@ -13,8 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Segundo · Capítulo IV
+
 # Artículo 114
 
 La terminación de la autorización como agente naviero, no exime al autorizado de las responsabilidades contraídas durante la vigencia del mismo.
-
-Sección II De la Operación

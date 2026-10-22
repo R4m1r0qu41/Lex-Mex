@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAPP.pdf
 source_sha256: a4505a7bd41bc835f1def6fb030c42d8e74a2cc050d9c8fa08f91c9519e382bf
 ---
 
+> Capítulo Décimo
+
 # Artículo 125
 
 Corresponderá a la Secretaría de la Función Pública, en ejercicio de sus atribuciones, supervisar que la preparación, inicio y adjudicación de los proyectos de asociaciones público-privadas, así como de los demás actos regulados por la presente [Ley](articulo-12.md), se ajusten a lo dispuesto en esta misma Ley, salvo los aspectos y actos señalados en los párrafos siguientes.

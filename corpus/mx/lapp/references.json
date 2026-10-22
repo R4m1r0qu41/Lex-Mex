@@ -1079,28 +1079,5 @@
     "resolution_status": "resolved",
     "reference_form": "direct",
     "resolution_rule": "named_instrument"
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lapp:transitory:sexto:reference:452-454:89:direct",
-    "source_provision_id": "urn:lex-mx:federal:statute:lapp:transitory:sexto",
-    "source_span": "89",
-    "start_char": 452,
-    "end_char": 454,
-    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
-    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:89",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 428,
-        "end_char": 438
-      }
-    ],
-    "basis": "express_cross_reference",
-    "confidence": 1.0,
-    "resolution_status": "resolved",
-    "reference_form": "direct",
-    "resolution_rule": "named_instrument"
   }
 ]

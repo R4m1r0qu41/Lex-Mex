@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGRA.pdf
 source_sha256: 1289ec6964e48c84990572ca6080ca05c9d6210e5b0ff5af6d8c9d935fc5fcc8
 ---
 
-> Título SEGUNDO
+> Título SEGUNDO · Capítulo III
 
 # Artículo 214
 
@@ -24,5 +24,3 @@ Interpuesto el recurso, se ordenará correr traslado a la contraparte por el té
 De la reclamación conocerá la Autoridad substanciadora o resolutora que haya emitido el auto recurrido.
 
 La resolución de la reclamación no admitirá recurso legal alguno.
-
-Sección Tercera De la Apelación

@@ -13,12 +13,10 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGS.pdf
 source_sha256: a2d3f947b369e4383f2f27a4e9bd819a3dba768ab9bae527e6388e30c1f9e06c
 ---
 
-> Título TERCERO BIS
+> Título TERCERO BIS · Capítulo V
 
 # Artículo 77 bis 28
 
 Se deroga.
 
 Artículo adicionado DOF 15-05-2003. Derogado DOF 29-11-2019
-
-Capítulo VI Del Fondo de Salud para el Bienestar Capítulo adicionado DOF 15-05-2003. Denominación reformada DOF 29-11-2019

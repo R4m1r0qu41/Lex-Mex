@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LBOGM.pdf
 source_sha256: 667636f9e0ea65e72ac9d6d7b4d7563a183b75d0f140268a61929c74f5f88041
 ---
 
-> Título NOVENO
+> Título NOVENO · Capítulo I
 
 # Artículo 52
 
@@ -36,5 +36,3 @@ VII. La Secretaría competente que reciba una comunicación en términos del art
 Para efectos de la fracción II del [artículo anterior](articulo-51.md), el Secretario Ejecutivo solicitará a las Secretarías y a los órganos de consulta y opinión de la CIBIOGEM la información necesaria para integrar las estadísticas.
 
 Las Secretarías y los órganos de consulta y opinión de la CIBIOGEM deberán responder esas solicitudes ingresando en el sistema de información a que se refiere este artículo, los datos y documentos que le requiera la Secretaría Ejecutiva.
-
-Capítulo II Del seguimiento a la información sobre bioseguridad

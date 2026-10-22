@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Segundo · Capítulo V
+
 # Artículo 196
 
 Para renovar el [Certificado de Competencia Especial](articulo-10.md) referido en el [artículo anterior](articulo-195.md), el interesado deberá presentar a la [Dirección General](articulo-10.md):

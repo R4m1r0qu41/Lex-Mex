@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Tercero · Capítulo III
+
 # Artículo 328
 
 Los documentos de autorización serán revocados por cualquiera de las causas siguientes:
@@ -42,5 +44,3 @@ XI. Si como resultado de una verificación hecha a Embarcaciones, Artefactos Nav
 XII. No entregar mensualmente o por requerimiento de la Secretaría el reporte de las actividades e Inspecciones realizadas, o
 
 XIII. No guardar secreto profesional respecto a los hechos que conozcan en el ejercicio de sus funciones.
-
-Sección V Arqueo

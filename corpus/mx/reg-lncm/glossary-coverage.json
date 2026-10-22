@@ -8,7 +8,7 @@
   "glossaries": [
     {
       "provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
-      "provision_text_sha256": "139ecfeec85e108aa8a4f578a5827a0ad1f7ab75763a289e9a7097211a65b438",
+      "provision_text_sha256": "27c5b5fa2be9d1883025c543b806373c7065e4c076c0feb5daae068b970eda22",
       "method": "established_pass",
       "fractions": [
         "I",
@@ -114,5 +114,5 @@
   ],
   "imports": [],
   "term_count": 96,
-  "usage_count": 1722
+  "usage_count": 1702
 }

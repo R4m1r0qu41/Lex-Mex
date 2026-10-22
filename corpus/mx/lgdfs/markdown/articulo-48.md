@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDFS.pdf
 source_sha256: 2c75fd0eab3245aed43a4e1230dcd142b48959a1df09bdd4e70684935a505dd4
 ---
 
-> Título TERCERO
+> Título TERCERO · Capítulo II
 
 # Artículo 48
 
@@ -28,5 +28,3 @@ III. La vocación de los terrenos forestales y preferentemente forestales;
 IV. Los impactos existentes en los ecosistemas por efecto de las actividades económicas o de otras actividades humanas o fenómenos naturales, y
 
 V. La delimitación de las Unidades de Manejo Forestal.
-
-Sección Quinta De la Zonificación Forestal

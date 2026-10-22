@@ -37,7 +37,9 @@ IV Bis 1. La salud visual; Fracción adicionada DOF 24-02-2005. Reenumerada (ant
 
 IV Bis 2. La salud auditiva; Fracción adicionada DOF 24-02-2005. Reenumerada (antes fracción VI) DOF 10-06-2011
 
-IV Bis 3. Salud bucodental; Fracción adicionada DOF 28-11-2016 V. La planificación familiar; Fracción recorrida DOF 24-02-2005. Recorrida (antes fracción VII) DOF 10-06-2011
+IV Bis 3. Salud bucodental; Fracción adicionada DOF 28-11-2016
+
+V. La planificación familiar; Fracción recorrida DOF 24-02-2005. Recorrida (antes fracción VII) DOF 10-06-2011
 
 VI. La salud mental; Fracción recorrida DOF 24-02-2005. Recorrida (antes fracción VIII) DOF 10-06-2011
 
@@ -69,7 +71,9 @@ XVI Bis. El diseño, la organización, coordinación y vigilancia del Registro N
 
 XVII. La prevención de la discapacidad y la rehabilitación de las personas con discapacidad; Fracción recorrida DOF 24-02-2005. Recorrida (antes fracción XIX) DOF 10-06-2011. Reformada DOF 08-04-2013
 
-XVIII. La asistencia social; Fracción recorrida DOF 24-02-2005. Recorrida (antes fracción XX) DOF 10-06-2011 XIX. El programa para la prevención, reducción y tratamiento del uso nocivo del alcohol, la atención del alcoholismo y la prevención de enfermedades derivadas del mismo, así como la protección de la salud de terceros y de la sociedad frente al uso nocivo del alcohol; Fracción recorrida DOF 24-02-2005. Recorrida (antes fracción XXI) DOF 10-06-2011. Reformada DOF 20-04-2015
+XVIII. La asistencia social; Fracción recorrida DOF 24-02-2005. Recorrida (antes fracción XX) DOF 10-06-2011
+
+XIX. El programa para la prevención, reducción y tratamiento del uso nocivo del alcohol, la atención del alcoholismo y la prevención de enfermedades derivadas del mismo, así como la protección de la salud de terceros y de la sociedad frente al uso nocivo del alcohol; Fracción recorrida DOF 24-02-2005. Recorrida (antes fracción XXI) DOF 10-06-2011. Reformada DOF 20-04-2015
 
 XX. El programa contra el tabaquismo; Fracción recorrida DOF 24-02-2005. Recorrida (antes fracción XXII) DOF 10-06-2011
 

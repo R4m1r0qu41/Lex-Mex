@@ -4887,19 +4887,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcm:article:9:reference:613-631:10:relative",
+    "id": "urn:lex-mx:federal:statute:lcm:article:9:reference:614-632:10:relative",
     "source_provision_id": "urn:lex-mx:federal:statute:lcm:article:9",
     "source_span": "artículo siguiente",
-    "start_char": 613,
-    "end_char": 631,
+    "start_char": 614,
+    "end_char": 632,
     "target_instrument_id": "urn:lex-mx:federal:statute:lcm",
     "target_provision_id": "urn:lex-mx:federal:statute:lcm:article:10",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracciones I y II",
-        "start_char": 591,
-        "end_char": 608
+        "start_char": 592,
+        "end_char": 609
       }
     ],
     "basis": "express_cross_reference",

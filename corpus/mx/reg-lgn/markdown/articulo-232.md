@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGN_111220.pdf
 source_sha256: ea6e39560929f2e1998b2dabe0852fde0d684c69e5be49aab7f33433299bbeb0
 ---
 
-> Título SÉPTIMO
+> Título SÉPTIMO · Capítulo III
 
 # Artículo 232
 
@@ -30,5 +30,3 @@ IV. Integrar las comisiones que el Consejo de Carrera determine; V. Dar cuenta, 
 VI. Las demás que le confieran otras disposiciones jurídicas.
 
 Los manuales respectivos establecerán la sustanciación de los procedimientos relativos a la Carrera de Guardia Nacional y a la profesionalización de los integrantes, que sean turnados al Consejo de Carrera.
-
-Capítulo IV Del Procedimiento ante el Consejo de Carrera

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Tercero · Capítulo IV
+
 # Artículo 464
 
 Cuando una [Embarcación Mayor](articulo-10.md) o Menor nacional, matriculada para tráfico de cabotaje, requiera salir al extranjero, deberá tramitar previamente los certificados de exención establecidos en los Convenios Internacionales aplicables. En caso de no contar con ellos, se desechará el trámite.

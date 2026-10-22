@@ -29,7 +29,9 @@ b) El Tribunal del domicilio de cualquiera de los demandados, y Inciso reformado
 
 c) El Tribunal del lugar de prestación de los servicios; si éstos se prestaron en varios lugares, será el Tribunal del último de ellos. Inciso reformado DOF 01-05-2019 Fracción reformada DOF 30-11-2012
 
-III. En los conflictos colectivos de jurisdicción federal, será competente el Tribunal Federal; en los conflictos colectivos de jurisdicción local, conocerá el Tribunal Local del lugar en que esté ubicada la empresa o establecimiento; Fracción reformada DOF 01-05-2019 IV. Cuando se trate de la cancelación del registro de un sindicato, el Tribunal Federal cuya adscripción sea la más cercana a su domicilio; Fracción reformada DOF 01-05-2019
+III. En los conflictos colectivos de jurisdicción federal, será competente el Tribunal Federal; en los conflictos colectivos de jurisdicción local, conocerá el Tribunal Local del lugar en que esté ubicada la empresa o establecimiento; Fracción reformada DOF 01-05-2019
+
+IV. Cuando se trate de la cancelación del registro de un sindicato, el Tribunal Federal cuya adscripción sea la más cercana a su domicilio; Fracción reformada DOF 01-05-2019
 
 V. En los conflictos entre patrones o trabajadores entre sí, el Tribunal del domicilio del demandado, y Fracción reformada DOF 01-05-2019
 

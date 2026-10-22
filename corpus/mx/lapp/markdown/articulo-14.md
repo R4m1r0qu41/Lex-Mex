@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAPP.pdf
 source_sha256: a4505a7bd41bc835f1def6fb030c42d8e74a2cc050d9c8fa08f91c9519e382bf
 ---
 
+> Capítulo Segundo · Sección Primera
+
 # Artículo 14
 
 Los proyectos de asociaciones público-privadas serán viables cuando así lo determine la dependencia o entidad interesada, mediante dictamen que la misma emita. Para la elaboración de dicho dictamen, la dependencia o entidad deberá llevar a cabo los análisis siguientes: Párrafo reformado DOF 21-04-2016
@@ -37,7 +39,9 @@ IX. La conveniencia de llevar a cabo el proyecto mediante un esquema de asociaci
 
 La información anterior deberá ser publicada en internet y ser presentada ante la Cámara de Diputados.
 
-La Secretaría de Hacienda y Crédito Público coordinará y publicará un registro para efectos estadísticos con la información contenida en los análisis a que se refieren las fracciones I a IX del presente artículo. Asimismo, publicará de manera sistemática la información siguiente: Párrafo reformado DOF 21-04-2016 a) Nombre del proyecto;
+La Secretaría de Hacienda y Crédito Público coordinará y publicará un registro para efectos estadísticos con la información contenida en los análisis a que se refieren las fracciones I a IX del presente artículo. Asimismo, publicará de manera sistemática la información siguiente: Párrafo reformado DOF 21-04-2016
+
+a) Nombre del proyecto;
 
 b) Número de licitación y/o registro del sistema electrónico de información pública gubernamental [CompraNet](articulo-12.md);
 

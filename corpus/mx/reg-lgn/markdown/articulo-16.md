@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGN_111220.pdf
 source_sha256: ea6e39560929f2e1998b2dabe0852fde0d684c69e5be49aab7f33433299bbeb0
 ---
 
-> Título PRIMERO
+> Título PRIMERO · Capítulo IV
 
 # Artículo 16
 
@@ -24,5 +24,3 @@ II. Interino, es ejercido por quien es designado con ese carácter por la superi
 III. Suplente, el que se ejerce por ausencia temporal del Titular o Interino, en caso de enfermedad, impedimento, licencias, vacaciones, comisiones fuera de su adscripción u otros motivos, y
 
 IV. Incidental, el que se desempeña en casos imprevistos por ausencia momentánea del Titular o de quien ejerza el mando.
-
-Capítulo V De la Suplencia

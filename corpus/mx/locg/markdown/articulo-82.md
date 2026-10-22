@@ -25,7 +25,9 @@ b) Presentar al Pleno, por conducto de la Mesa Directiva, propuestas de puntos d
 
 c) Proponer al Pleno, a través de la Mesa Directiva, la integración de las comisiones, con el señalamiento de las respectivas juntas directivas, así como a los senadores que integrarán la Comisión Permanente;
 
-d) Proponer al Pleno la integración de las comisiones a más tardar en la tercera sesión ordinaria del primer periodo de sesiones del primer año de la legislatura, cuando se presente una iniciativa con el carácter de preferente o se reciba el oficio del Ejecutivo Federal señalando dicho carácter a iniciativas presentadas con anterioridad; Inciso adicionado DOF 20-05-2014 e) Elaborar el programa legislativo de cada periodo de sesiones, el calendario de trabajo para su desahogo y puntos del orden del día de las sesiones del Pleno, y realizar reuniones con la Mesa Directiva, o con su Presidente, para dichos efectos; Inciso recorrido DOF 20-05-2014
+d) Proponer al Pleno la integración de las comisiones a más tardar en la tercera sesión ordinaria del primer periodo de sesiones del primer año de la legislatura, cuando se presente una iniciativa con el carácter de preferente o se reciba el oficio del Ejecutivo Federal señalando dicho carácter a iniciativas presentadas con anterioridad; Inciso adicionado DOF 20-05-2014
+
+e) Elaborar el programa legislativo de cada periodo de sesiones, el calendario de trabajo para su desahogo y puntos del orden del día de las sesiones del Pleno, y realizar reuniones con la Mesa Directiva, o con su Presidente, para dichos efectos; Inciso recorrido DOF 20-05-2014
 
 f) Proponer al Presidente de la Mesa Directiva a los senadores que integren las delegaciones para atender la celebración de reuniones de carácter internacional; y Inciso recorrido DOF 20-05-2014
 

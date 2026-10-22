@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGN_111220.pdf
 source_sha256: ea6e39560929f2e1998b2dabe0852fde0d684c69e5be49aab7f33433299bbeb0
 ---
 
-> Título SEGUNDO
+> Título SEGUNDO · Capítulo IV
 
 # Artículo 31
 
@@ -36,5 +36,3 @@ VII. Participar en la verificación del buen estado del armamento, material, mun
 VIII. Proponer al Comandante, a través del [Coordinador de Administración y Finanzas](articulo-2.md), los lineamientos para el correcto empleo de los equipos de autoprotección, como escudos, cascos, chalecos a prueba de balas y medios de transporte a prueba de balas, que disminuyan la necesidad de emplear armas de cualquier tipo, y
 
 IX. Las demás que le confieran otras disposiciones jurídicas, así como aquellas funciones que le encomiende su superior.
-
-Capítulo V De la Unidad de Órganos Especializados por Competencia

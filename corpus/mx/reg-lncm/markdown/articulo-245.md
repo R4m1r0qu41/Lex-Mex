@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Tercero · Capítulo II
+
 # Artículo 245
 
 El Comandante General deberá designar de entre los servidores públicos que se encuentran adscritos a la [Dirección General](articulo-10.md), a aquél que desempeñará la función de Jefe Central.

@@ -33,6 +33,8 @@ III. La revisión de retina y tamiz auditivo al prematuro; Fracción reformada D
 
 IV. La aplicación del tamiz oftalmológico neonatal, a la cuarta semana del nacimiento, para la detección temprana de malformaciones que puedan causar ceguera, y su tratamiento, en todos sus grados; Fracción adicionada DOF 24-02-2005. Reformada DOF 25-01-2013, 16-12-2016
 
-V. El diagnóstico oportuno y atención temprana de la displasia en el desarrollo de la cadera, a través del examen clínico en la primera semana del nacimiento, en el primer mes de edad y a los dos, cuatro, seis, nueve y doce meses de edad; así como la toma de ultrasonido de cadera o radiografía anteposterior de pelvis, entre el primer y cuarto mes de vida, y Fracción adicionada DOF 16-12-2016 VI. La atención del niño y su vigilancia durante el crecimiento y desarrollo, y promoción de la integración y del bienestar familiar. Fracción adicionada DOF 24-02-2005. Reformada DOF 25-01-2013. Recorrida DOF 16-12-2016
+V. El diagnóstico oportuno y atención temprana de la displasia en el desarrollo de la cadera, a través del examen clínico en la primera semana del nacimiento, en el primer mes de edad y a los dos, cuatro, seis, nueve y doce meses de edad; así como la toma de ultrasonido de cadera o radiografía anteposterior de pelvis, entre el primer y cuarto mes de vida, y Fracción adicionada DOF 16-12-2016
+
+VI. La atención del niño y su vigilancia durante el crecimiento y desarrollo, y promoción de la integración y del bienestar familiar. Fracción adicionada DOF 24-02-2005. Reformada DOF 25-01-2013. Recorrida DOF 16-12-2016
 
 Artículo publicado completo DOF 16-12-2016

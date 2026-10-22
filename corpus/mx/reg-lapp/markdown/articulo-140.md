@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAPP_200217.pdf
 source_sha256: 4ff895e3a71cad0980a03360585d24750d7e165b6ea2537fc44c5c05f9142ce7
 ---
 
-> Capítulo DÉCIMO SEGUNDO
+> Capítulo DÉCIMO SEGUNDO · Sección Primera
 
 # Artículo 140
 
@@ -30,5 +30,3 @@ IV. De continuar el desacuerdo, cada uno de los expertos designados tendrá dere
 V. Si alguno o ambos de los expertos designados por las partes no participa en los términos de las fracciones anteriores de este artículo, se considerará que está de acuerdo con la designación que, en su oportunidad, la Función Pública realice, y
 
 VI. El tercer experto será aquel que, no habiendo sido eliminado, aparezca en primer lugar en la lista. La Función Pública así lo comunicará a los expertos designados.
-
-Sección Segunda De la Conciliación

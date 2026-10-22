@@ -29,7 +29,9 @@ IV. Los servicios de sangre; Fracción reformada DOF 24-01-2013, 20-04-2015
 
 V. La disposición de células troncales, y Fracción adicionada DOF 24-01-2013. Reformada DOF 20-04-2015
 
-VI. Los establecimientos de medicina regenerativa. Fracción adicionada DOF 20-04-2015 La Secretaría de Salud otorgará la licencia a que se refiere el presente artículo a los establecimientos que cuenten con el personal, infraestructura, equipo, instrumental e insumos necesarios para la realización de los actos relativos, conforme a lo que establezcan las disposiciones de esta Ley y demás aplicables. Párrafo reformado DOF 20-04-2015
+VI. Los establecimientos de medicina regenerativa. Fracción adicionada DOF 20-04-2015
+
+La Secretaría de Salud otorgará la licencia a que se refiere el presente artículo a los establecimientos que cuenten con el personal, infraestructura, equipo, instrumental e insumos necesarios para la realización de los actos relativos, conforme a lo que establezcan las disposiciones de esta Ley y demás aplicables. Párrafo reformado DOF 20-04-2015
 
 Para el caso de los establecimientos de salud a que se refiere la fracción IV del presente artículo, la licencia sanitaria tendrá una vigencia de 5 años prorrogables por plazos iguales de conformidad con las disposiciones aplicables. Párrafo adicionado DOF 20-04-2015
 

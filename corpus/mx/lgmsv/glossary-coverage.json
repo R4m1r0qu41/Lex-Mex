@@ -8,7 +8,7 @@
   "glossaries": [
     {
       "provision_id": "urn:lex-mx:federal:statute:lgmsv:article:3",
-      "provision_text_sha256": "ba6ebab74a07070aa15e5fd028f613616f24879ed03893b2136372e7a518ac5e",
+      "provision_text_sha256": "3bf22ec5c8f12c146c80a5e39ef60088556acac048bcab9e08ef2af19939b3fd",
       "method": "established_pass",
       "fractions": [
         "I",
@@ -88,5 +88,5 @@
   ],
   "imports": [],
   "term_count": 70,
-  "usage_count": 187
+  "usage_count": 183
 }

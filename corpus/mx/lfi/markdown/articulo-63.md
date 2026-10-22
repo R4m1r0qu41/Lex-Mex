@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf
 source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 ---
 
+> Título IV · Capítulo Segundo
+
 # Artículo 63
 
 Las Filiales se regirán por lo previsto en los tratados o acuerdos internacionales correspondientes, el presente capítulo, las disposiciones contenidas en esta Ley aplicables a las sociedades operadoras de fondos de inversión o distribuidoras de acciones de fondos de inversión, según corresponda, y las reglas para el establecimiento de Filiales que al efecto expida la Secretaría de Hacienda y Crédito Público, oyendo la opinión de la [Comisión](articulo-2.md). Párrafo reformado DOF 10-01-2014

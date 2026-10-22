@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf
 source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 ---
 
+> Título IV · Capítulo Quinto
+
 # Artículo 87 Bis 2
 
 Las notificaciones de los requerimientos, visitas de inspección ordinarias y especiales, medidas cautelares, solicitudes de información y documentación, citatorios, emplazamientos, resoluciones de imposición de sanciones administrativas o de cualquier acto que ponga fin a los procedimientos de registro, suspensión, cancelación o revocación de autorizaciones a que se refiere la presente Ley, así como los actos que nieguen las autorizaciones a que se refiere esta Ley y las resoluciones administrativas que le recaigan a los recursos de revisión y a las solicitudes de condonación interpuestos conforme a las leyes aplicables, se podrán realizar de las siguientes maneras:

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSPCAPF.pdf
 source_sha256: b4a968d8e8c138ac2069f6afa0dc622178328df24f59cf58eddbab8efe4a7eff
 ---
 
+> Capítulo Octavo
+
 # Artículo 23
 
 El Catálogo es el instrumento a partir del cual se establecen ramas de cargos o puestos y cuerpos de función, así como la homologación o equivalencia entre puestos conforme a las características de los perfiles, nivel de responsabilidad, remuneraciones, competencia, rango, jerarquía, tipo de funciones o régimen laboral, entre otros aspectos. Párrafo reformado DOF 04-01-2024

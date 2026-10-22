@@ -25,7 +25,9 @@ II.- Exigir que los trabajadores compren sus artículos de consumo en tienda o l
 
 III.- Exigir o aceptar dinero de los trabajadores como gratificación porque se les admita en el trabajo o por cualquier otro motivo que se refiera a las condiciones de éste;
 
-IV. Obligar a los trabajadores por coacción o por cualquier otro medio, a afiliarse o retirarse del sindicato o agrupación a que pertenezcan, o a que voten por determinada candidatura, así como cualquier acto u omisión que atente contra su derecho a decidir quién debe representarlos en la negociación colectiva; Fracción reformada DOF 01-05-2019 V. Intervenir en cualquier forma en el régimen interno del sindicato, impedir su formación o el desarrollo de la actividad sindical, mediante represalias implícitas o explícitas contra los trabajadores; Fracción reformada DOF 30-11-2012
+IV. Obligar a los trabajadores por coacción o por cualquier otro medio, a afiliarse o retirarse del sindicato o agrupación a que pertenezcan, o a que voten por determinada candidatura, así como cualquier acto u omisión que atente contra su derecho a decidir quién debe representarlos en la negociación colectiva; Fracción reformada DOF 01-05-2019
+
+V. Intervenir en cualquier forma en el régimen interno del sindicato, impedir su formación o el desarrollo de la actividad sindical, mediante represalias implícitas o explícitas contra los trabajadores; Fracción reformada DOF 30-11-2012
 
 VI.- Hacer o autorizar colectas o suscripciones en los establecimientos y lugares de trabajo;
 

@@ -25,6 +25,6 @@ II. Incluirá información del asunto mediante una breve descripción.
 
 2. El Orden del día, sólo se podrá modificar a propuesta de la Junta; la solicitud será expuesta por el Presidente. Acto seguido, la [Secretaría](articulo-2.md) consultará, en votación económica a la Asamblea, si es de aprobarse.
 
-3. En caso de que la Junta no celebre Reunión, los grupos acordarán los términos para la recepción y registro de los asuntos que integrarán el Orden del día. Para ello, contarán con el auxilio del personal técnico de la Junta, quien recopilará los asuntos, y una vez integrado el Orden del día informará oportunamente a los grupos. Numeral reformado DOF 20-04-2011 4. Cuando se requiera que algún asunto sea tramitado de urgente u obvia resolución, deberá señalarse expresamente al momento en que sea registrado ante la Junta, quien deberá circular entre los grupos el documento en archivo electrónico o impreso con el contenido de la propuesta. Los casos de excepción deberán ser acordados por la Junta.
+3. En caso de que la Junta no celebre Reunión, los grupos acordarán los términos para la recepción y registro de los asuntos que integrarán el Orden del día. Para ello, contarán con el auxilio del personal técnico de la Junta, quien recopilará los asuntos, y una vez integrado el Orden del día informará oportunamente a los grupos. Numeral reformado DOF 20-04-2011
 
-Sección Tercera Turno
+4. Cuando se requiera que algún asunto sea tramitado de urgente u obvia resolución, deberá señalarse expresamente al momento en que sea registrado ante la Junta, quien deberá circular entre los grupos el documento en archivo electrónico o impreso con el contenido de la propuesta. Los casos de excepción deberán ser acordados por la Junta.

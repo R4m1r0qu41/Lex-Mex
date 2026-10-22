@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf
 source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 ---
 
+> Título IV · Capítulo Tercero
+
 # Artículo 77 Bis
 
 Los auditores externos que suscriban el dictamen a los estados financieros en representación de las personas morales que proporcionen los servicios de auditoría externa deberán contar con honorabilidad; reunir los requisitos personales y profesionales que establezca la [Comisión](articulo-2.md) mediante disposiciones de carácter general, y ser socios de una persona moral que preste servicios profesionales de auditoría de estados financieros y que cumpla con los requisitos de control de calidad que al efecto establezca la propia Comisión en las citadas disposiciones.

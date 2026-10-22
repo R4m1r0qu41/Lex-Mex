@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf
 source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 ---
 
+> Título IV · Capítulo Quinto
+
 # Artículo 91
 
 Las sociedades operadoras de fondos de inversión y distribuidoras de acciones de fondos de inversión en términos de las disposiciones de carácter general que emita la Secretaría de Hacienda y Crédito Público, escuchando la previa opinión de la [Comisión](articulo-2.md), estarán obligadas, en adición a cumplir con las demás obligaciones que les resulten aplicables, a: Párrafo reformado DOF 10-01-2014

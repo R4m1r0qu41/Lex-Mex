@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGRA.pdf
 source_sha256: 1289ec6964e48c84990572ca6080ca05c9d6210e5b0ff5af6d8c9d935fc5fcc8
 ---
 
-> Título SEGUNDO
+> Título SEGUNDO · Capítulo II
 
 # Artículo 208
 
@@ -38,5 +38,3 @@ IX. Concluido el desahogo de las pruebas ofrecidas por las partes, y si no exist
 X. Una vez trascurrido el periodo de alegatos, la [Autoridad resolutora](articulo-3.md) del asunto, de oficio, declarará cerrada la instrucción y citará a las partes para oír la resolución que corresponda, la cual deberá dictarse en un plazo no mayor a treinta días hábiles, el cual podrá ampliarse por una sola vez por otros treinta días hábiles más, cuando la complejidad del asunto así lo requiera, debiendo expresar los motivos para ello;
 
 XI. La resolución, deberá notificarse personalmente al presunto responsable. En su caso, se notificará a los denunciantes únicamente para su conocimiento, y al jefe inmediato o al titular de la dependencia o entidad, para los efectos de su ejecución, en un plazo no mayor de diez días hábiles.
-
-Capítulo III Del procedimiento de responsabilidad administrativa cuya resolución corresponda a los [Tribunales](articulo-3.md)

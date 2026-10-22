@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LICal_010720.pdf
 source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 ---
 
-> Título PRIMERO
+> Título PRIMERO · Capítulo I
 
 # Artículo 3
 
@@ -56,5 +56,3 @@ XVI. Concertar, en el ámbito de su competencia, los acuerdos de reconocimiento 
 XVII. Participar, en el ámbito de su competencia, en la elaboración de las [Normas Internacionales](articulo-4.md);
 
 XVIII. A solicitud de la Secretaría, opinar sobre las Normas Internacionales; y XIX. Observar e implementar el Código de Buena Conducta para la elaboración, adopción y aplicación de Normas, del Acuerdo sobre Obstáculos Técnicos al Comercio de la Organización Mundial del Comercio.
-
-Capítulo II Definiciones y Principios de esta Ley

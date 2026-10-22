@@ -13,12 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LICal_010720.pdf
 source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 ---
 
-> Título QUINTO
+> Título QUINTO · Capítulo I
 
 # Artículo 48
 
 Cuando la [Secretaría](articulo-4.md) o las [Autoridades Normalizadoras](articulo-4.md) identifiquen, de acuerdo a la Ley Federal de Competencia Económica, que una [Entidad de Acreditación](articulo-4.md) u Organismo de Evaluación de la Conformidad tenga poder sustancial en uno o más mercados relevantes, darán vista a la [Comisión](articulo-4.md) Federal de Competencia Económica, de conformidad con la legislación aplicable.
-
-Capítulo II De las Entidades de Acreditación y los [Organismos de Evaluación de la Conformidad](articulo-4.md)
-
-Sección Primera Entidades de Acreditación

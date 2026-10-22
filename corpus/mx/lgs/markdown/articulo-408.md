@@ -29,4 +29,6 @@ IV. Cuando así se requiera de acuerdo con las disposiciones internacionales apl
 
 V. Ante el riesgo de emergencia o aparición de nuevas enfermedades trasmisibles o agentes infecciosos en territorio nacional, o de alguna que se considere controlada, eliminada o erradicada, y Fracción adicionada DOF 19-06-2017
 
-VI. Ante un desastre natural que por sus características incremente el riesgo de aparición de enfermedades prevenibles por vacunación. Fracción adicionada DOF 19-06-2017 Las acciones de inmunización extraordinaria, serán obligatorias para todos los individuos en el territorio nacional. Párrafo adicionado DOF 19-06-2017
+VI. Ante un desastre natural que por sus características incremente el riesgo de aparición de enfermedades prevenibles por vacunación. Fracción adicionada DOF 19-06-2017
+
+Las acciones de inmunización extraordinaria, serán obligatorias para todos los individuos en el territorio nacional. Párrafo adicionado DOF 19-06-2017

@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDFS.pdf
 source_sha256: 2c75fd0eab3245aed43a4e1230dcd142b48959a1df09bdd4e70684935a505dd4
 ---
 
-> Título TERCERO
+> Título TERCERO · Capítulo I
 
 # Artículo 33
 
@@ -50,5 +50,3 @@ XV. La realización de las obras o actividades públicas o privadas que por ella
 XVI. El establecimiento de plantaciones forestales comerciales.
 
 El Ejecutivo Federal a través de la [Comisión](articulo-7.md) Nacional Forestal, incorporará en sus informes anuales que debe rendir ante el Congreso de la Unión, un informe sobre el estado que guarde el sector forestal. Las leyes locales estipularán los procedimientos de rendición de cuentas del Ejecutivo de la Entidad a la Legislatura respectiva. Los gobiernos de las Entidades Federativas y de los Municipios, informarán anualmente a la [Secretaría](articulo-7.md) y a la Comisión los resultados obtenidos, en términos de los convenios o acuerdos de coordinación celebrados.
-
-Capítulo II De los Instrumentos de la Política Forestal

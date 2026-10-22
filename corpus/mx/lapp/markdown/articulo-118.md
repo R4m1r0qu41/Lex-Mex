@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAPP.pdf
 source_sha256: a4505a7bd41bc835f1def6fb030c42d8e74a2cc050d9c8fa08f91c9519e382bf
 ---
 
+> Capítulo Octavo · Sección Primera
+
 # Artículo 118
 
 En los supuestos de las fracciones I, II y IV del artículo [117](articulo-117.md) inmediato anterior, las modificaciones se ajustarán a lo siguiente:

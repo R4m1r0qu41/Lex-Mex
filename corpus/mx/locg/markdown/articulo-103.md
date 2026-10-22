@@ -18,5 +18,3 @@ source_sha256: 30e92e19100dc26408ce0b130151f8c44fe25aeb113eff14f3515553330ba230
 # Artículo 103
 
 1. El Reglamento establecerá los procedimientos y trámites para el despacho de los trabajos de las comisiones y los asuntos que por su naturaleza y trascendencia puedan ser resueltos por ellas mismas.
-
-Sección Segunda De su Integración

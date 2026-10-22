@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAPP.pdf
 source_sha256: a4505a7bd41bc835f1def6fb030c42d8e74a2cc050d9c8fa08f91c9519e382bf
 ---
 
+> Capítulo Segundo · Sección Primera
+
 # Artículo 19
 
 Los proyectos de asociación público-privada serán preferentemente integrales, pero, cuando así resulte conveniente y necesario, podrán concursarse por etapas, si ello permite un avance más ordenado en su implementación.

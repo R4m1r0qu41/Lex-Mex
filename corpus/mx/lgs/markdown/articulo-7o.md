@@ -49,7 +49,9 @@ IX Bis. Promover el establecimiento del Sistema Nacional de Información Básica
 
 X. Integrar y administrar una base nacional de información en salud con información de la prestación de los servicios, la infraestructura y el equipo médico, que permita la evaluación del desempeño de los integrantes del Sistema Nacional de Salud, el intercambio de servicios y la planeación estratégica de las políticas, los criterios y las directrices en materia de salud; Fracción adicionada DOF 15-01-2026
 
-X Bis. Establecer, promover y coordinar el Registro Nacional de Cáncer. Fracción adicionada DOF 22-06-2017 XI. Apoyar la coordinación entre las instituciones de salud y las educativas, para formar y capacitar recursos humanos para la salud;
+X Bis. Establecer, promover y coordinar el Registro Nacional de Cáncer. Fracción adicionada DOF 22-06-2017
+
+XI. Apoyar la coordinación entre las instituciones de salud y las educativas, para formar y capacitar recursos humanos para la salud;
 
 XII. Coadyuvar a que la formación y distribución de los recursos humanos para la salud sea congruente con las prioridades del Sistema Nacional de Salud;
 

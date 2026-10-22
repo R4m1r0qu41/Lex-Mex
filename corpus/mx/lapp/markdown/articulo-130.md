@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAPP.pdf
 source_sha256: a4505a7bd41bc835f1def6fb030c42d8e74a2cc050d9c8fa08f91c9519e382bf
 ---
 
+> Capítulo Undécimo
+
 # Artículo 130
 
 Además de las sanciones que, en su caso, procedan conforme a las disposiciones aplicables, la Secretaría de la Función Pública podrá inhabilitar temporalmente para participar en procedimientos de contratación o celebrar contratos regulados por esta [Ley](articulo-12.md), en la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, así como en la Ley de Obras Públicas y Servicios Relacionados con las Mismas, a las personas que se encuentren en alguno de los supuestos siguientes:

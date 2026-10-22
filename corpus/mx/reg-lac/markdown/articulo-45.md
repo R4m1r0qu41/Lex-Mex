@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAC.pdf
 source_sha256: 4dcf5277184d5f5c5cc1c8ae2dfa196134b472d883eb2806c7bac27cd77eda7d
 ---
 
+> Título Segundo · Capítulo III
+
 # Artículo 45
 
 El manejo, embalaje y transporte de materiales, sustancias y objetos peligrosos, se debe llevar a cabo conforme a lo dispuesto en las normas oficiales mexicanas y en las disposiciones técnico-administrativas correspondientes.

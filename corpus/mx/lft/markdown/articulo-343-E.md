@@ -13,13 +13,15 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFT.pdf
 source_sha256: 12f09393a1951a91c3f57f579bf611b034edf1a5f78cdbfb828e23ff3a9acbf7
 ---
 
-> Título SEXTO · Capítulo XIII
+> Título SEXTO · Capítulo XIII Bis
 
 # Artículo 343-E
 
 A los responsables y encargados directos de la operación y supervisión de los trabajos y desarrollos mineros, que dolosamente o negligentemente omitan implementar las medidas de seguridad previstas en la normatividad, y que hayan sido previamente identificados por escrito en dictamen fundado y motivado de la autoridad competente, se les aplicarán las penas siguientes:
 
-I. Multa de hasta 2,000 veces la Unidad de Medida y Actualización, cuando por su omisión se produzca un riesgo de trabajo, que genere a uno o varios trabajadores una incapacidad permanente parcial; Fracción reformada DOF 01-05-2019 II. Multa de hasta 3,500 veces la Unidad de Medida y Actualización, cuando por su omisión se produzca un riesgo de trabajo, que genere a uno o varios trabajadores una incapacidad permanente total, y Fracción reformada DOF 01-05-2019
+I. Multa de hasta 2,000 veces la Unidad de Medida y Actualización, cuando por su omisión se produzca un riesgo de trabajo, que genere a uno o varios trabajadores una incapacidad permanente parcial; Fracción reformada DOF 01-05-2019
+
+II. Multa de hasta 3,500 veces la Unidad de Medida y Actualización, cuando por su omisión se produzca un riesgo de trabajo, que genere a uno o varios trabajadores una incapacidad permanente total, y Fracción reformada DOF 01-05-2019
 
 III. Multa de hasta 5,000 veces la Unidad de Medida y Actualización, cuando por su omisión se produzca un riesgo de trabajo, que provoque la muerte del trabajador. Fracción adicionada DOF 01-05-2019
 

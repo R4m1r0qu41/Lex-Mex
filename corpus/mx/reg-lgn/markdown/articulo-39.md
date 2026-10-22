@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGN_111220.pdf
 source_sha256: ea6e39560929f2e1998b2dabe0852fde0d684c69e5be49aab7f33433299bbeb0
 ---
 
-> Título SEGUNDO
+> Título SEGUNDO · Capítulo V
 
 # Artículo 39
 
@@ -66,5 +66,3 @@ XXIII. Determinar la distribución del personal policial procesal en las entidad
 XXIV. Organizar la distribución de los recursos humanos, financieros, materiales y tecnológicos que permitan con sus atribuciones, y
 
 XXV. Las demás que le confieran otras disposiciones jurídicas; así como aquellas funciones que le encomiende su superior.
-
-Capítulo VI De la Unidad para la Protección de los Derechos Humanos, Disciplina y Desarrollo Profesional

@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGDFS.pdf
 source_sha256: a4dbcdb94d780332f0bda62246611dab5972e75bcb01df293df93a95cdd03530
 ---
 
-> Título SEGUNDO
+> Título SEGUNDO · Capítulo II
 
 # Artículo 15
 
@@ -74,5 +74,3 @@ c) Comunidades, y
 d) Propiedad privada y colonias agrícolas.
 
 La Comisión, mediante Acuerdo que publique en el Diario Oficial de la Federación podrá definir aspectos técnicos que permitan identificar a detalle la información a que se refiere el presente artículo.
-
-Capítulo III Zonificación Forestal

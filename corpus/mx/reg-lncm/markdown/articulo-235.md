@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Tercero · Capítulo I
+
 # Artículo 235
 
 En el caso de permisos temporales de Navegación de cabotaje a Embarcación extranjera, o de autorización de permanencia para el Artefacto Naval en las zonas marinas mexicanas, además de lo previsto en los Tratados Internacionales vigentes y lo requerido en los demás artículos del presente Capítulo, el interesado deberá presentar:

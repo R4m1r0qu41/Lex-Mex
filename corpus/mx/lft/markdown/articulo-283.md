@@ -57,7 +57,9 @@ XIII. Brindar servicios de guardería a los hijos e hijas de las personas trabaj
 
 En aquellos lugares donde el Instituto Mexicano del Seguro Social no cuente con instalaciones, la persona empleadora deberá habilitar espacios con instalaciones y mobiliario seguros e higiénicos, así como contar con personal capacitado y autorizado por las autoridades competentes.
 
-Este servicio deberá atender a los niños y niñas que aún no han cumplido la edad escolar y también, en contra turno, a los que asisten a la escuela hasta cubrir la jornada laboral de las personas trabajadoras del campo a cuyo cargo se encuentren; Fracción adicionada DOF 30-11-2012. Reformada DOF 24-01-2024 XIV. Capacitar y adiestrar sobre el uso correcto del equipo de protección personal cuando la persona trabajadora del campo debiere realizar tareas peligrosas para su salud. Dicha capacitación deberá realizarse en la lengua indígena o en el idioma de la persona trabajadora.
+Este servicio deberá atender a los niños y niñas que aún no han cumplido la edad escolar y también, en contra turno, a los que asisten a la escuela hasta cubrir la jornada laboral de las personas trabajadoras del campo a cuyo cargo se encuentren; Fracción adicionada DOF 30-11-2012. Reformada DOF 24-01-2024
+
+XIV. Capacitar y adiestrar sobre el uso correcto del equipo de protección personal cuando la persona trabajadora del campo debiere realizar tareas peligrosas para su salud. Dicha capacitación deberá realizarse en la lengua indígena o en el idioma de la persona trabajadora.
 
 Lo anterior también será aplicable cuando el trabajo implique la realización de procesos o manipulación de agroquímicos, sustancias tóxicas, irritantes o agresivas en cualquiera de sus formas; Fracción adicionada DOF 01-05-2019. Reformada DOF 24-01-2024
 

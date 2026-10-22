@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAC.pdf
 source_sha256: 4dcf5277184d5f5c5cc1c8ae2dfa196134b472d883eb2806c7bac27cd77eda7d
 ---
 
+> Título Segundo · Capítulo III
+
 # Artículo 47 Sexies
 
 La persona concesionaria, asignataria y permisionaria debe llevar a cabo la revisión de seguridad de la aeronave, con la finalidad de retirar todos los artículos prohibidos que dejen a bordo el personal o las personas pasajeras, que puedan utilizarse para cometer un acto de interferencia ilícita.

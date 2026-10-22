@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSPCAPF.pdf
 source_sha256: b4a968d8e8c138ac2069f6afa0dc622178328df24f59cf58eddbab8efe4a7eff
 ---
 
+> Capítulo Tercero
+
 # Artículo 7
 
 Corresponde a la Secretaría, a través de la [Unidad](articulo-2.md), programar, dirigir, coordinar, evaluar y dar seguimiento a la implementación, operación y funcionamiento del Sistema.
@@ -22,5 +24,3 @@ La Unidad es la responsable de la dirección y coordinación de los subsistemas 
 La operación integral de los subsistemas a que se refiere el párrafo anterior corresponde a las unidades administrativas que determine el Reglamento Interior de la Secretaría de la Función Pública.
 
 Artículo reformado DOF 04-01-2024
-
-Capítulo Cuarto Del Consejo Consultivo del Sistema

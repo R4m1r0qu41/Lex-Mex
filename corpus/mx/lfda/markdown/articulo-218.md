@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFDA.pdf
 source_sha256: 1844f4e56b279c17061db90f4ab7970df3794e3a5ae10d74a0aec1f12641e7a5
 ---
 
-> Título XI
+> Título XI · Capítulo II
 
 # Artículo 218
 
@@ -28,5 +28,3 @@ III. Mixta, con audiencias presenciales y en línea, o personas que acuden prese
 Los procedimientos relativos a los mecanismos alternativos se establecerán en el Reglamento, así como en las disposiciones que emita el Instituto.
 
 Artículo reformado DOF 10-06-2013, 01-07-2020, 15-01-2026, 14-05-2026
-
-Capítulo III Del Arbitraje

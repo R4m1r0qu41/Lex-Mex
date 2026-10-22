@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPIORPI.pdf
 source_sha256: 2e35228bd3100a3a137f313359833c4836f2b4b6d4e52e1ce4fe58a970cd768f
 ---
 
+> Capítulo II
+
 # Artículo 5
 
 La [Secretaría](articulo-3.md) será la autoridad competente para aplicar e interpretar, en el ámbito administrativo, la presente [Ley](articulo-3.md), su Reglamento y las reglas de carácter general que emita la propia Secretaría conforme a esta Ley.

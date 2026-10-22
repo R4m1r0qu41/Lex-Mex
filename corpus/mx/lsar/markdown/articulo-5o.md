@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LSAR.pdf
 source_sha256: 02ff746c921b436a1ab6c74e5f1bc429976595b1b0f82cb8c5b50db1004128c1
 ---
 
-> Capítulo II
+> Capítulo II · Sección I
 
 # Artículo 5o
 
@@ -31,7 +31,9 @@ V. Establecer las bases de colaboración entre las dependencias y entidades púb
 
 VI. Otorgar, modificar o revocar las autorizaciones a que se refiere esta ley, a las administradoras y sociedades de inversión; Fracción reformada DOF 10-12-2002
 
-VI bis. Conocer de los nombramientos de los consejeros, directores generales, funcionarios de los dos niveles inmediatos inferiores y comisarios de los participantes en los sistemas de ahorro para el retiro, con excepción de las instituciones de crédito; Fracción adicionada DOF 10-12-2002 VII. Realizar la supervisión de los participantes en los sistemas de ahorro para el retiro. Tratándose de las instituciones de crédito, la supervisión se realizará exclusivamente en relación con su participación en los sistemas de ahorro para el retiro.
+VI bis. Conocer de los nombramientos de los consejeros, directores generales, funcionarios de los dos niveles inmediatos inferiores y comisarios de los participantes en los sistemas de ahorro para el retiro, con excepción de las instituciones de crédito; Fracción adicionada DOF 10-12-2002
+
+VII. Realizar la supervisión de los participantes en los sistemas de ahorro para el retiro. Tratándose de las instituciones de crédito, la supervisión se realizará exclusivamente en relación con su participación en los sistemas de ahorro para el retiro.
 
 La Comisión Nacional Bancaria y de Valores, la Comisión Nacional de Seguros y Fianzas y la Comisión, de común acuerdo, establecerán las bases de colaboración para el ejercicio de sus funciones de supervisión;
 
@@ -57,10 +59,10 @@ d) Información estadística de los trabajadores registrados en las administrado
 
 e) Información desagregada por administradora relativa a los montos de [Rendimiento Neto](articulo-3o.md), de Rendimiento Neto Real, pagados a los trabajadores, al cobro de comisiones, y en caso de presentarse minusvalías, el monto de éstas y el porcentaje que corresponda por tipo de inversión. Fracción reformada DOF 10-12-2002, 21-01-2009
 
-XIII bis. Establecer medidas para proteger los recursos de los trabajadores cuando se presenten circunstancias atípicas en los mercados financieros. Así como dictar reglas para evitar prácticas que se aparten de los sanos usos comerciales, bursátiles o del mercado financiero; Fracción adicionada DOF 21-01-2009 XIV. Dar a conocer a la opinión pública reportes sobre comisiones, número de trabajadores registrados en las administradoras, estado de situación financiera, estado de resultados, composición de cartera y rentabilidad de las sociedades de inversión, cuando menos en forma trimestral; Fracción reformada DOF 10-12-2002
+XIII bis. Establecer medidas para proteger los recursos de los trabajadores cuando se presenten circunstancias atípicas en los mercados financieros. Así como dictar reglas para evitar prácticas que se aparten de los sanos usos comerciales, bursátiles o del mercado financiero; Fracción adicionada DOF 21-01-2009
+
+XIV. Dar a conocer a la opinión pública reportes sobre comisiones, número de trabajadores registrados en las administradoras, estado de situación financiera, estado de resultados, composición de cartera y rentabilidad de las sociedades de inversión, cuando menos en forma trimestral; Fracción reformada DOF 10-12-2002
 
 XV. Elaborar y publicar estadísticas y documentos relacionados con los sistemas de ahorro para el retiro; y
 
 XVI. Las demás que le otorguen ésta u otras leyes.
-
-Sección II De los Organos de Gobierno

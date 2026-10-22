@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf
 source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 ---
 
+> Título I · Capítulo Único
+
 # Artículo 3
 
 La Ley del Mercado de Valores, la legislación mercantil, los usos bursátiles y mercantiles y la legislación del orden común, serán supletorios de la presente Ley, en el orden citado.

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSPCAPF.pdf
 source_sha256: b4a968d8e8c138ac2069f6afa0dc622178328df24f59cf58eddbab8efe4a7eff
 ---
 
+> Capítulo Décimo Séptimo
+
 # Artículo 96
 
 La persona titular del Área de Quejas, Denuncias e Investigaciones del Órgano Interno de Control en la dependencia, dentro de los cinco días hábiles siguientes a la fecha de su presentación, debe determinar si procede o no dar trámite a la inconformidad, y dictar el acuerdo respectivo. De dictarse acuerdo de procedencia se debe requerir al órgano o autoridad que haya emitido los actos u omisiones contra los que se hubiese formulado la inconformidad para que, en un plazo no mayor a siete días hábiles contado a partir de su notificación, rinda un informe circunstanciado sobre la inconformidad presentada, acompañado de los elementos de justificación respectivos.
@@ -28,5 +30,3 @@ Las medidas que se hayan determinado conforme al párrafo anterior, se deben not
 En aquellos casos en que, con motivo de las inconformidades presentadas y la substanciación de éstas, se advierta incumplimiento a las obligaciones de las personas servidoras públicas, la persona titular del Área de Quejas, Denuncias e Investigaciones del Órgano Interno de Control en la dependencia debe proceder, en términos de las disposiciones aplicables a efecto de que se inicie el procedimiento previsto en la Ley General de Responsabilidades Administrativas.
 
 Artículo reformado DOF 04-01-2024
-
-Capítulo Décimo Octavo Del Recurso de Revocación

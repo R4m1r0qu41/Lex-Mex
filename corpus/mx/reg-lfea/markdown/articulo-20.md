@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFEA.pdf
 source_sha256: 910ba43ef1ae54b3b12fe325f65c81056191fde641c52a10ba709f0f1a39021f
 ---
 
+> Capítulo IV
+
 # Artículo 20
 
 En las [Disposiciones Generales](articulo-2.md) se establecerán las medidas y controles de seguridad que deberán adoptar las Autoridades Certificadoras para evitar la falsificación, alteración o uso indebido de Certificados Digitales a que se refiere la fracción III del artículo [25](../../lfea/markdown/articulo-25.md) de la [Ley](articulo-2.md) y, en general, para dar cumplimiento a las demás obligaciones previstas en el citado precepto.

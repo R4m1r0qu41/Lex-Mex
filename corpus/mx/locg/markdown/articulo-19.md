@@ -30,5 +30,3 @@ a) Transgredir en forma grave o reiterada las disposiciones contenidas en la Con
 b) Incumplir los acuerdos del Pleno, cuando se afecten las atribuciones constitucionales y legales de la Cámara; y
 
 c) Dejar de asistir, reiteradamente y sin causa justificada, a las sesiones de la Cámara o a las reuniones de la Mesa Directiva.
-
-Sección Segunda De sus atribuciones

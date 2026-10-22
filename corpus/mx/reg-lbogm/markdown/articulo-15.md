@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LBOGM.pdf
 source_sha256: 667636f9e0ea65e72ac9d6d7b4d7563a183b75d0f140268a61929c74f5f88041
 ---
 
-> Título SEGUNDO
+> Título SEGUNDO · Capítulo I
 
 # Artículo 15
 
@@ -38,5 +38,3 @@ c) Las razones por las que la liberación solicitada contraviene la [Ley](articu
 d) Las demás determinaciones que formule la autoridad en ejercicio del enfoque precautorio establecido en la Ley.
 
 De conformidad con el último párrafo del artículo [15](../../lbogm/markdown/articulo-15.md) de la Ley, el dictamen de bioseguridad a que se refiere la fracción I de dicho artículo será vinculante para la SAGARPA en la resolución de las solicitudes de permisos que conforme a la Ley sean de su competencia.
-
-Capítulo II De los requisitos para los permisos de liberación al ambiente

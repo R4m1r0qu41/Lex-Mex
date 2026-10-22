@@ -22,5 +22,3 @@ El pago de la [Pensión Garantizada](articulo-6.md) será suspendido cuando el [
 El Pensionado por cesantía en edad avanzada o vejez que disfrute de una Pensión Garantizada no podrá recibir otra de igual naturaleza.
 
 La Pensión que corresponda a los Familiares [Derechohabientes](articulo-6.md) del Pensionado fallecido, se entregará a éstos aun cuando estuvieran gozando de otra Pensión de cualquier naturaleza.
-
-Sección V De la [Cuenta Individual](articulo-6.md)

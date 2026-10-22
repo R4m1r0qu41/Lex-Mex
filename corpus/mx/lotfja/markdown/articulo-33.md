@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LOTFJA.pdf
 source_sha256: b32c33fa4ed071dc8bea1ad69ce8510cdb05016967e9e4fcb60f10c6f2216628
 ---
 
-> Título SEGUNDO
+> Título SEGUNDO · Capítulo IX
 
 # Artículo 33
 
@@ -40,5 +40,3 @@ X. Proponer a la Junta de Gobierno y Administración del Tribunal se imponga una
 XI. Comunicar a la Junta de Gobierno y Administración la falta de alguno de sus Magistrados integrantes, así como el acuerdo por el que se suplirá dicha falta por el primer Secretario de Acuerdos del Magistrado ausente, y
 
 XII. Las demás que establezcan las disposiciones aplicables.
-
-Capítulo X De las Salas Regionales Ordinarias

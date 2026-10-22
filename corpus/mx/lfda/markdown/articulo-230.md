@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFDA.pdf
 source_sha256: 1844f4e56b279c17061db90f4ab7970df3794e3a5ae10d74a0aec1f12641e7a5
 ---
 
-> Título XII
+> Título XII · Capítulo I
 
 # Artículo 230
 
@@ -28,5 +28,3 @@ Se aplicará multa adicional de hasta setecientas veces el valor diario de la Un
 Las sanciones previstas en este Capítulo se impondrán además de la indemnización que corresponda por daños y perjuicios a los afectados, en los términos de lo dispuesto en los artículos [213](articulo-213.md) y [216 Bis](articulo-216-bis.md) de esta Ley y sin perjuicio de las sanciones penales correspondientes.
 
 Artículo reformado DOF 01-07-2020
-
-Capítulo II De las Infracciones en Materia de Comercio

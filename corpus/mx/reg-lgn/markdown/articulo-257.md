@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGN_111220.pdf
 source_sha256: ea6e39560929f2e1998b2dabe0852fde0d684c69e5be49aab7f33433299bbeb0
 ---
 
-> Título OCTAVO
+> Título OCTAVO · Capítulo II
 
 # Artículo 257
 
@@ -28,5 +28,3 @@ II. La duración de la operación de usuario simulado, y
 III. El responsable de la operación, y la persona o personas que harán de usuarios simulados y sus nombres clave.
 
 Al concluir la operación de usuario simulado se levantará acta circunstanciada, en presencia de dos testigos propuestos por la autoridad que practique la diligencia y se dará vista a la Unidad de Asuntos Internos para que, en su caso, supervise que las actuaciones se ajustaron a derecho.
-
-Capítulo III De la Intervención de Comunicaciones Privadas

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Tercero · Capítulo V
+
 # Artículo 542
 
 En la prestación del pilotaje se considerará como licencia temporal al piloto para abstenerse de prestar el servicio, sin que ello afecte la validez de su [Certificado de Competencia](articulo-10.md) y autorización, cuando el piloto la solicite a la [Dirección General](articulo-10.md) en virtud de las siguientes causas:
@@ -28,7 +30,3 @@ IV. Por causa de interés particular del piloto solicitante. En todo caso, la li
 En cualquiera de los supuestos, el piloto deberá solicitar la licencia con una anticipación de ciento veinte días naturales a la fecha en que pretenda separarse del servicio, salvo situaciones imprevistas como una enfermedad.
 
 Previo a la reincorporación del [Piloto de Puerto](articulo-10.md), si éste estuvo separado del servicio por más de un año, deberá realizar treinta días de prácticas y tomar los cursos de actualización que determine el [Comité Técnico](articulo-10.md) correspondiente.
-
-Capítulo VI Organización del Tráfico Marítimo
-
-Sección I Régimen de Organización del Tráfico Marítimo

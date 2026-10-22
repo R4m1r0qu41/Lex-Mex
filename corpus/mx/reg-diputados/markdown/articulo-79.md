@@ -50,5 +50,3 @@ II. Las solicitudes de gestión o ampliación de recursos del Proyecto de Presup
 III. Las solicitudes de información, a la dependencia gubernamental que corresponda, y
 
 IV. Las peticiones para que una comisión se reúna con algún funcionario público del Poder Ejecutivo Federal, deberán hacerse conforme a lo establecido en la [Ley](articulo-2.md).
-
-Sección Cuarta Dictamen

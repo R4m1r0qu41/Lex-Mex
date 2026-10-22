@@ -19,7 +19,9 @@ source_sha256: 12f09393a1951a91c3f57f579bf611b034edf1a5f78cdbfb828e23ff3a9acbf7
 
 Si el embargo recae en finca urbana y sus productos o sobre éstos solamente, el depositario tendrá el carácter de administrador con las facultades y obligaciones siguientes:
 
-I. Podrá celebrar contratos de arrendamiento, conforme a estas condiciones: por tiempo voluntario para ambas partes; el importe de la renta no podrá ser menor al fijado en el último contrato; exigir al arrendatario las garantías necesarias de su cumplimiento; y recabar en todos los casos, la autorización del [Tribunal](articulo-3o.-Ter.md); Fracción reformada DOF 01-05-2019 II. Cobrar oportunamente las rentas en sus términos y plazos, procediendo contra los inquilinos morosos con arreglo a la Ley;
+I. Podrá celebrar contratos de arrendamiento, conforme a estas condiciones: por tiempo voluntario para ambas partes; el importe de la renta no podrá ser menor al fijado en el último contrato; exigir al arrendatario las garantías necesarias de su cumplimiento; y recabar en todos los casos, la autorización del [Tribunal](articulo-3o.-Ter.md); Fracción reformada DOF 01-05-2019
+
+II. Cobrar oportunamente las rentas en sus términos y plazos, procediendo contra los inquilinos morosos con arreglo a la Ley;
 
 III. Hacer sin previa autorización los pagos de los impuestos y derechos que cause el inmueble; y cubrir los gastos ordinarios de conservación y aseo;
 

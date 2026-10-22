@@ -13,10 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGN_111220.pdf
 source_sha256: ea6e39560929f2e1998b2dabe0852fde0d684c69e5be49aab7f33433299bbeb0
 ---
 
-> Título SEXTO
+> Título SEXTO · Capítulo VI
 
 # Artículo 186
 
 Se respetará el principio de presunción de inocencia de los integrantes en la probable comisión de una o más faltas, quien será tratado como inocente, mientras no se declare su responsabilidad mediante resolución emitida por el Consejo de Disciplina que conozca del asunto.
-
-Capítulo VII De la Comparecencia

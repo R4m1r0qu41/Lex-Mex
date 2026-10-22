@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPIORPI.pdf
 source_sha256: 2e35228bd3100a3a137f313359833c4836f2b4b6d4e52e1ce4fe58a970cd768f
 ---
 
+> Capítulo III · Sección Primera
+
 # Artículo 15
 
 Las [Entidades Financieras](articulo-3.md), respecto de las [Actividades Vulnerables](articulo-3.md) en las que participan, tienen de conformidad con esta [Ley](articulo-3.md) y con las leyes que especialmente las regulan, las siguientes obligaciones:

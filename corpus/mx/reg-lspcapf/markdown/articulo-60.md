@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSPCAPF.pdf
 source_sha256: b4a968d8e8c138ac2069f6afa0dc622178328df24f59cf58eddbab8efe4a7eff
 ---
 
+> Capítulo Décimo Segundo
+
 # Artículo 60
 
 Los servidores públicos de carrera que certifiquen las capacidades profesionales requeridas para permanecer en el puesto que ocupan, están obligados a acreditar las acciones de actualización a que se refiere el artículo [57](articulo-57.md) de este reglamento.

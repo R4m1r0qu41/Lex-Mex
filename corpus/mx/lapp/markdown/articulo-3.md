@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAPP.pdf
 source_sha256: a4505a7bd41bc835f1def6fb030c42d8e74a2cc050d9c8fa08f91c9519e382bf
 ---
 
+> Capítulo Primero
+
 # Artículo 3
 
 También podrán ser proyectos de asociación público –privada los que se realicen en los términos de esta ley, con cualquier esquema de asociación para desarrollar proyectos de inversión productiva, investigación aplicada y/o de innovación tecnológica. En este último caso, las dependencias y entidades optarán en igualdad de condiciones, por el desarrollo de proyectos con instituciones de educación superior y centros de investigación científica-tecnológica públicas del país.

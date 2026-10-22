@@ -19,7 +19,9 @@ source_sha256: 79f2b255a142d1756d7e8c13244af6dc8c4f2f474acaf0d669f2b156b022fc03
 
 Glosario. Para efectos de esta [Ley](articulo-3.md), se entenderá por:
 
-I. Accesibilidad: Las medidas pertinentes para asegurar el acceso de las personas con discapacidad, en igualdad de condiciones con los demás, al entorno físico, el transporte, la información y las comunicaciones, incluidos los sistemas y las tecnologías de la información, la accesibilidad cognitiva y otros servicios e instalaciones abiertos al público o de uso público, tanto en zonas urbanas como rurales e insulares; Fracción reformada DOF 29-12-2023 II. Acciones afirmativas: Políticas, medidas o acciones dirigidas a favorecer a personas o grupos en situación de vulnerabilidad, con el fin de eliminar o reducir las desigualdades y barreras de tipo actitudinal, social, cultural o económico que los afectan;
+I. Accesibilidad: Las medidas pertinentes para asegurar el acceso de las personas con discapacidad, en igualdad de condiciones con los demás, al entorno físico, el transporte, la información y las comunicaciones, incluidos los sistemas y las tecnologías de la información, la accesibilidad cognitiva y otros servicios e instalaciones abiertos al público o de uso público, tanto en zonas urbanas como rurales e insulares; Fracción reformada DOF 29-12-2023
+
+II. Acciones afirmativas: Políticas, medidas o acciones dirigidas a favorecer a personas o grupos en situación de vulnerabilidad, con el fin de eliminar o reducir las desigualdades y barreras de tipo actitudinal, social, cultural o económico que los afectan;
 
 III. Ajustes Razonables: Modificaciones y adaptaciones necesarias y adecuadas que no impongan una carga desproporcionada o indebida, cuando se requieran en un caso particular, para garantizar a las personas con discapacidad el goce o ejercicio, en igualdad de condiciones con las demás, de todos los derechos humanos y libertades fundamentales;
 

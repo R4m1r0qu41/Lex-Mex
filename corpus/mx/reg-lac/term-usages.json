@@ -487,12 +487,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lac:article:92-quater:term-usage:1952-1955",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:92-quater:term-usage:1953-1956",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:92-quater",
     "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
     "span": "Ley",
-    "start_char": 1952,
-    "end_char": 1955
+    "start_char": 1953,
+    "end_char": 1956
   },
   {
     "schema_version": "0.1.0",
@@ -550,12 +550,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lac:article:110:term-usage:5230-5233",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:110:term-usage:5231-5234",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:110",
     "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
     "span": "Ley",
-    "start_char": 5230,
-    "end_char": 5233
+    "start_char": 5231,
+    "end_char": 5234
   },
   {
     "schema_version": "0.1.0",

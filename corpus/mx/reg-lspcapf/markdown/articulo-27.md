@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSPCAPF.pdf
 source_sha256: b4a968d8e8c138ac2069f6afa0dc622178328df24f59cf58eddbab8efe4a7eff
 ---
 
+> Capítulo Noveno
+
 # Artículo 27
 
 Los Comités Técnicos de Profesionalización son responsables de que, la información correspondiente a los servidores públicos de carrera que laboren en su dependencia, esté integrada al Registro y que se actualice, de conformidad con las disposiciones que emita la Secretaría.

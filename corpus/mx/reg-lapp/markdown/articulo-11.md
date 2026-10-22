@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAPP_200217.pdf
 source_sha256: 4ff895e3a71cad0980a03360585d24750d7e165b6ea2537fc44c5c05f9142ce7
 ---
 
-> Capítulo PRIMERO
+> Capítulo PRIMERO · Sección Primera
 
 # Artículo 11
 
@@ -44,5 +44,3 @@ XII. Rescisión: La finalización de un contrato de asociación público-privada
 XIII. Secretaría: La Secretaría de Hacienda y Crédito Público, y Fracción adicionada DOF 31-10-2014
 
 XIV. Terminación Anticipada: La finalización de un contrato de asociación público-privada en términos de los artículos [123](articulo-123.md) y [124](articulo-124.md) de este Reglamento, por motivos estipulados en el contrato, distintos al incumplimiento de alguna de las partes. Fracción adicionada DOF 31-10-2014
-
-Sección Segunda CompraNet

@@ -683,11 +683,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mp:article:79:reference:935-938:278:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mp:article:79:reference:936-939:278:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mp:article:79",
     "source_span": "278",
-    "start_char": 935,
-    "end_char": 938,
+    "start_char": 936,
+    "end_char": 939,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgs",
     "target_provision_id": "urn:lex-mx:federal:statute:lgs:article:278",
     "qualifiers": [],
@@ -699,19 +699,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mp:article:79:reference:1268-1274:22-bis:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mp:article:79:reference:1269-1275:22-bis:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mp:article:79",
     "source_span": "22 Bis",
-    "start_char": 1268,
-    "end_char": 1274,
+    "start_char": 1269,
+    "end_char": 1275,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-mp",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mp:article:22-bis",
     "qualifiers": [
       {
         "qualifier_type": "paragraph",
         "text": "segundo párrafo",
-        "start_char": 1239,
-        "end_char": 1254
+        "start_char": 1240,
+        "end_char": 1255
       }
     ],
     "basis": "express_cross_reference",
@@ -722,19 +722,42 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mp:article:79:reference:1608-1612:79:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mp:article:79:reference:1609-1613:79:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mp:article:79",
     "source_span": "VIII",
-    "start_char": 1608,
-    "end_char": 1612,
+    "start_char": 1609,
+    "end_char": 1613,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-mp",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mp:article:79",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "VIII",
-        "start_char": 1608,
-        "end_char": 1612
+        "start_char": 1609,
+        "end_char": 1613
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct",
+    "resolution_rule": "same_article"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mp:article:79:reference:1616-1618:79:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mp:article:79",
+    "source_span": "IX",
+    "start_char": 1616,
+    "end_char": 1618,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-mp",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mp:article:79",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "IX",
+        "start_char": 1616,
+        "end_char": 1618
       }
     ],
     "basis": "express_cross_reference",

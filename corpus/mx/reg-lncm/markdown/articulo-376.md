@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Tercero · Capítulo III
+
 # Artículo 376
 
 Se entiende como dotación de Embarcación o Artefacto Naval, el número total de tripulantes a bordo y como dotación mínima de seguridad de una Embarcación o Artefacto Naval, la constituida por oficiales y subalternos competentes en número suficiente para garantizar la seguridad del resto de la Tripulación, sus [Pasajeros](articulo-10.md), funcionamiento de los equipos y sistemas a bordo durante la Navegación u operación, la carga y de los demás bienes a bordo, así como la protección del medio ambiente marino, incluyendo la atención de los diversos turnos de guardia.

@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGN_111220.pdf
 source_sha256: ea6e39560929f2e1998b2dabe0852fde0d684c69e5be49aab7f33433299bbeb0
 ---
 
-> Título SEGUNDO
+> Título SEGUNDO · Capítulo VII
 
 # Artículo 47
 
@@ -44,5 +44,3 @@ XII. Asentar constancia por escrito de todas sus actuaciones;
 XIII. Las demás que le confieran otras disposiciones jurídicas, así como aquellas funciones que le encomiende su superior.
 
 XIV. Las demás que le confieran este [Reglamento](articulo-2.md), otras disposiciones legales aplicables o aquéllas que le encomiende el inmediato superior de quien dependa.
-
-Capítulo VIII De la Unidad de Asuntos Jurídicos y Transparencia

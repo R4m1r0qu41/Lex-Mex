@@ -13,10 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LBOGM.pdf
 source_sha256: 667636f9e0ea65e72ac9d6d7b4d7563a183b75d0f140268a61929c74f5f88041
 ---
 
-> Título NOVENO
+> Título NOVENO · Capítulo II
 
 # Artículo 54
 
 La consulta y participación de los pueblos y comunidades indígenas asentadas en las zonas donde se pretenda la liberación de los OGMs se realizará de conformidad con los mecanismos que para el efecto determine la CIBIOGEM.
-
-Capítulo III Del Registro

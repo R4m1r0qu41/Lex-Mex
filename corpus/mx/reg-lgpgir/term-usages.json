@@ -730,15 +730,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:84:term-usage:160-171",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:84",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:recoleccion",
-    "span": "Recolección",
-    "start_char": 160,
-    "end_char": 171
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:88:term-usage:407-410",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:88",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",

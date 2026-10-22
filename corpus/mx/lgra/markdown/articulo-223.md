@@ -13,10 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGRA.pdf
 source_sha256: 1289ec6964e48c84990572ca6080ca05c9d6210e5b0ff5af6d8c9d935fc5fcc8
 ---
 
-> Título SEGUNDO
+> Título SEGUNDO · Capítulo IV
 
 # Artículo 223
 
 Tratándose de los Servidores Públicos de base, la suspensión y la destitución se ejecutarán por el titular del [Ente público](articulo-3.md) correspondiente.
-
-Sección Segunda Cumplimiento y ejecución de sanciones por [Faltas administrativas graves](articulo-3.md) y [Faltas de particulares](articulo-3.md)

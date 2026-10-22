@@ -50,5 +50,3 @@ c) La iniciativa preferente será discutida en sus términos y sin mayor trámit
 d) La discusión y votación sólo se abocará a la iniciativa preferente y deberá ser aprobada por mayoría absoluta, de lo contrario, se tendrá por desechada, en términos de lo dispuesto en el Apartado G del artículo 72 de la [Constitución](articulo-2.md).
 
 e) El proyecto de decreto materia de la iniciativa con carácter preferente aprobado por la [Cámara](articulo-2.md), será enviado de inmediato a la Cámara revisora, en calidad de minuta, para los efectos del artículo 71 de la Constitución. Numeral adicionado DOF 31-12-2012
-
-Sección Quinta Votos Particulares

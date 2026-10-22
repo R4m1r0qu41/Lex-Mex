@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf
 source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 ---
 
+> Título IV · Capítulo Quinto
+
 # Artículo 87 Bis 5
 
 Las notificaciones personales podrán efectuarse en las oficinas de la [Comisión](articulo-2.md) solamente cuando el interesado o su representante acuda a las mismas y manifieste su conformidad en recibir las notificaciones; para lo cual quien realice la notificación levantará por duplicado un acta que cumpla con la regulación aplicable a este tipo de actos.

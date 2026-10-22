@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Tercero · Capítulo V
+
 # Artículo 506
 
 El piloto coordinador, además de las obligaciones inherentes al servicio de pilotaje, tendrá las siguientes funciones:
@@ -34,5 +36,3 @@ VIII. Realizar la administración técnica del servicio de pilotaje, y
 IX. Proponer a la Capitanía de Puerto los calados y dimensiones máximos que hagan seguras las maniobras.
 
 Para el ejercicio de sus funciones, el piloto coordinador podrá auxiliarse de los pilotos de puerto que se encuentren de servicio.
-
-Sección IV De la Admisión de los Pilotos de Puerto

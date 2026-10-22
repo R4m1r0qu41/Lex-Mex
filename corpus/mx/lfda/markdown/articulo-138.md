@@ -13,10 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFDA.pdf
 source_sha256: 1844f4e56b279c17061db90f4ab7970df3794e3a5ae10d74a0aec1f12641e7a5
 ---
 
-> Título V
+> Título V · Capítulo V
 
 # Artículo 138
 
 La duración de los derechos regulados en este capítulo es de cincuenta años a partir de la primera fijación de las imágenes en el videograma.
-
-Capítulo VI De los Organismos de Radiodifusión

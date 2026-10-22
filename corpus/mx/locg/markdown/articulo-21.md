@@ -24,5 +24,3 @@ source_sha256: 30e92e19100dc26408ce0b130151f8c44fe25aeb113eff14f3515553330ba230
 3. Para los efectos del párrafo anterior, el Diputado facultado para ejercer el voto ponderado, será el Vicepresidente. En el caso de los Grupos Parlamentarios que no cuenten con Vicepresidente o ante la ausencia del Vicepresidente respectivo a las reuniones de la Mesa, el voto ponderado será ejercido por el Secretario que corresponda. Numeral adicionado DOF 13-09-2006
 
 4. A las reuniones de la Mesa concurrirá el Secretario General de la Cámara, con voz pero sin voto, quien preparará los documentos necesarios para las reuniones, levantará el acta correspondiente y llevará el registro de los acuerdos que se adopten. Numeral recorrido DOF 13-09-2006
-
-Sección Tercera De su presidente

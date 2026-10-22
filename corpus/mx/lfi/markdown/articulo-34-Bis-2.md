@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf
 source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 ---
 
+> Título III · Capítulo Primero
+
 # Artículo 34 Bis 2
 
 En adición a lo señalado en el artículo [34 Bis 1](articulo-34-Bis-1.md) de esta Ley, el contralor normativo de las sociedades operadoras de fondos de inversión, estará a cargo respecto de los fondos de inversión que administre la sociedad operadora respectiva, de vigilar lo siguiente:

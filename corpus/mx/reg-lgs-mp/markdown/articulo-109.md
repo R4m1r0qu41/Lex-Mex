@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGS_MP.pdf
 source_sha256: 0fb9b74e27b7abf66250404ef5ec1c68acdc460e9cff5b381f49224ec6f71003
 ---
 
-> Título DÉCIMO QUINTO
+> Título DÉCIMO QUINTO · Capítulo III
 
 # Artículo 109
 
@@ -30,5 +30,3 @@ Cuando la denuncia se haga de manera verbal, la autoridad sanitaria hará consta
 La autoridad sanitaria proporcionará al denunciante copia del documento en que conste la denuncia, con sello de recepción. Una vez recibida ésta, será turnada a la unidad administrativa competente y notificada al presunto infractor.
 
 La autoridad sanitaria informará al denunciante la atención que se le dé a dicha denuncia.
-
-Capítulo IV Sanciones

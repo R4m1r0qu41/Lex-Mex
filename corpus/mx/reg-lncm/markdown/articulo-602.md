@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Tercero · Capítulo VIII
+
 # Artículo 602
 
 Los criterios que establezca la [Dirección General](articulo-10.md) para el servicio de remolque maniobra serán determinados en función del tonelaje de [Arqueo Bruto](articulo-10.md) de los buques y de la potencia de los remolcadores se aplicarán bajo condiciones normales de tiempo, condiciones técnicas apropiadas de la Embarcación, calado, asiento y lugar de la maniobra. Lo dispuesto en este artículo no se aplicará en los casos siguientes:

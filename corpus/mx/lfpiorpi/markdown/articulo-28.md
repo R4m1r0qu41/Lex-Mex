@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPIORPI.pdf
 source_sha256: 2e35228bd3100a3a137f313359833c4836f2b4b6d4e52e1ce4fe58a970cd768f
 ---
 
+> Capítulo III · Sección Cuarta
+
 # Artículo 28
 
 La [Entidad Colegiada](articulo-3.md) deberá cumplir con la presentación de los [Avisos](articulo-3.md) de sus integrantes dentro de los plazos y cumpliendo las formalidades que conforme a esta [Ley](articulo-3.md) le correspondan a éstos.

@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LSAR.pdf
 source_sha256: 02ff746c921b436a1ab6c74e5f1bc429976595b1b0f82cb8c5b50db1004128c1
 ---
 
-> Capítulo IV
+> Capítulo IV · Sección I
 
 # Artículo 81 Bis
 
@@ -24,5 +24,3 @@ El proceso para el traspaso de los recursos referidos se sujetará a las reglas 
 Los trabajadores y, en su caso, sus beneficiarios, podrán acceder ante los institutos de seguridad social que correspondan al mecanismo de devolución de forma permanente para recibir la pensión a que tengan derecho o, en su caso, la devolución de los recursos, así como los intereses que les correspondan en los términos de las disposiciones que resulten aplicables.
 
 Artículo adicionado DOF 30-04-2024
-
-Sección II Del Registro de Planes de Pensiones Establecidos por Patrones o Derivados de Contratación Colectiva

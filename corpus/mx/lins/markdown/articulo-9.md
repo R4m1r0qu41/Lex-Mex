@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LINS.pdf
 source_sha256: 40271b07f2d2236f7e4d722d2b61f35db2d82772543dcf4911097efe13697c5e
 ---
 
-> Título SEGUNDO
+> Título SEGUNDO · Capítulo I
 
 # Artículo 9
 
@@ -28,5 +28,3 @@ IV. Los recursos autogenerados;
 V. Los recursos de origen externo, y
 
 VI. Los demás bienes, derechos y recursos que por cualquier título adquieran.
-
-Capítulo II Autonomía

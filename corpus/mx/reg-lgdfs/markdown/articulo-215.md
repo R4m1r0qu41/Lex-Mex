@@ -13,10 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGDFS.pdf
 source_sha256: a4dbcdb94d780332f0bda62246611dab5972e75bcb01df293df93a95cdd03530
 ---
 
-> Título CUARTO
+> Título CUARTO · Capítulo III
 
 # Artículo 215
 
 Los posibles afectados por el proyecto de Veda tendrán un plazo de treinta días hábiles contado a partir de la fecha en que hayan sido notificados, para alegar lo que a su derecho convenga.
-
-Capítulo IV De los Servicios Ambientales

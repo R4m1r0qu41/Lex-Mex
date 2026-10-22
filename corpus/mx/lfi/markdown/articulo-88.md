@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf
 source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 ---
 
+> Título IV · Capítulo Quinto
+
 # Artículo 88
 
 Serán sancionadas con prisión de cinco a quince años las personas que realicen actos de los reservados por este ordenamiento legal en los artículos [5](articulo-5.md), [39](articulo-39.md), [39 Bis](articulo-39-Bis.md), [39 Bis 6](articulo-39-Bis-6.md), [40](articulo-40.md), [40 Bis](articulo-40-Bis.md) y [44](articulo-44.md) a los fondos de inversión, operadoras de fondos de inversión o distribuidoras de acciones de fondos de inversión, según corresponda, sin que para ello se cuente con la autorización correspondiente en los términos de la presente Ley. Párrafo reformado DOF 28-12-2023

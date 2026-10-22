@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf
 source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 ---
 
+> Título IV · Capítulo Quinto
+
 # Artículo 84
 
 El incumplimiento o la violación a las normas de la presente Ley y a las disposiciones que emanen de ella, serán sancionados con multa que impondrá administrativamente la [Comisión](articulo-2.md) y se hará efectiva por la Secretaría de Hacienda y Crédito Público, una vez que hayan quedado firmes. Párrafo reformado DOF 10-01-2014

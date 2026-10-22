@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf
 source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 ---
 
+> Título IV · Capítulo Quinto
+
 # Artículo 87 Bis 9
 
 En el supuesto de que el día y hora señalados en el citatorio que se hubiere dejado en términos del artículo [87 Bis 6](articulo-87-Bis-6.md) de esta Ley, quien realice la notificación encontrare cerrado el domicilio que corresponda o bien el interesado, su representante o quien atienda la diligencia, se nieguen a recibir el oficio motivo de la notificación, hará efectivo el apercibimiento señalado en el mencionado citatorio. Para tales efectos llevará a cabo la notificación, mediante instructivo que fijará en lugar visible del domicilio, anexando el oficio en el que conste el acto a notificar, ante la presencia de dos testigos que al efecto designe.

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf
 source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 ---
 
+> Título III · Capítulo Primero
+
 # Artículo 37
 
 La adquisición, afectación en garantía o en fideicomiso de las acciones de sociedades operadoras de fondos de inversión, así como de las distribuidoras y valuadoras de acciones de fondos de inversión, requerirá de la previa autorización de la [Comisión](articulo-2.md). En cualquier caso, las personas que pretendan adquirir las acciones, deberán acreditar que cumplen con lo señalado en la fracción IV del artículo [34](articulo-34.md) de esta Ley.

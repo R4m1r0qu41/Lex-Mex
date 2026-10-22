@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf
 source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 ---
 
+> Título IV · Capítulo Tercero
+
 # Artículo 77
 
 La [Comisión](articulo-2.md), mediante disposiciones de carácter general, señalará las bases a las que se sujetará la aprobación de los estados financieros de las sociedades operadoras de fondos de inversión, sociedades distribuidoras de acciones de fondos de inversión y sociedades valuadoras de acciones de fondos de inversión, por parte de su consejo de administración; su difusión a través de cualquier medio de comunicación incluyendo a los medios electrónicos, ópticos o de cualquier otra tecnología, así como el procedimiento a que se ajustará la revisión que de los mismos efectúe la propia Comisión.

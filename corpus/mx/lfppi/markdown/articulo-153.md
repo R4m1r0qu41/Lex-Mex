@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPPI.pdf
 source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 ---
 
-> Título SEGUNDO
+> Título SEGUNDO · Capítulo IX
 
 # Artículo 153
 
@@ -24,5 +24,3 @@ Para efectos del párrafo anterior, la Secretaría de Salud fijará las condicio
 La concesión de una licencia de utilidad pública distinta a la prevista en los párrafos segundo y tercero de este artículo se tramitará por el Instituto conforme a lo dispuesto en el artículo [148](articulo-148.md), segundo párrafo de esta [Ley](articulo-4.md).
 
 Las licencias de utilidad pública no serán exclusivas ni transmisibles y podrán abarcar una o todas las prerrogativas a las que se refiere el artículo [55](articulo-55.md) de esta Ley.
-
-Capítulo X De la Nulidad y Caducidad de Patentes y Registros

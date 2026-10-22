@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Segundo · Capítulo III
+
 # Artículo 79
 
 El personal del Registro tendrá las funciones que a continuación se indican:
@@ -38,5 +40,3 @@ h) Permitir la consulta de los asientos registrales, así como expedir las certi
 i) Las demás que le señalen el presente Reglamento y otros ordenamientos aplicables, y
 
 II. Corresponde a los registradores, en el ámbito de su jurisdicción, las funciones señaladas en los incisos c) a i) de la fracción anterior.
-
-Sección II De las Inscripciones

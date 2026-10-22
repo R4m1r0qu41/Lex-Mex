@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Tercero · Capítulo V
+
 # Artículo 500
 
 El pilotaje se prestará a toda [Embarcación Mayor](articulo-10.md) que arribe o zarpe cuando esté legalmente obligada a utilizar el servicio, así como a las demás que sin estar obligadas lo soliciten. En este último caso, desde que el servicio sea autorizado quedará sujeto el solicitante al cumplimiento de las disposiciones de este Reglamento.

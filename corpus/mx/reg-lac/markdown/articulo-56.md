@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAC.pdf
 source_sha256: 4dcf5277184d5f5c5cc1c8ae2dfa196134b472d883eb2806c7bac27cd77eda7d
 ---
 
+> Título Segundo · Capítulo III
+
 # Artículo 56
 
 Para la fijación de bases de regulación tarifaria la Agencia Federal de Aviación Civil considerará, entre otros factores, los siguientes: Párrafo reformado DOF 05-10-2000, 31-05-2023
@@ -29,4 +31,6 @@ a) Tratándose de la fracción I, los ingresos promedio por asiento disponible d
 
 b) En el caso de la fracción II, los ingresos por asiento disponible que la persona concesionaria o asignataria que permanezca en la ruta haya obtenido durante el período en el que hubo competencia. Inciso reformado DOF 31-05-2023
 
-Las disposiciones contenidas en esta fracción deberán ser revisadas por la Agencia Federal de Aviación Civil cada tres años a partir de la fecha de su entrada en vigor, debiendo notificarse a la Comisión Federal de Competencia Económica los resultados de la revisión. Párrafo reformado DOF 31-05-2023 Fracción adicionada DOF 05-10-2000 La Agencia Federal de Aviación Civil al fijar los mecanismos de ajuste incluidos en las bases de regulación tarifaria, podrá establecer condiciones en materia de rutas, frecuencias, horarios, equipo, calidad del servicio, información contable, comercialización, tarifas, así como períodos de vigencia. Párrafo reformado DOF 31-05-2023
+Las disposiciones contenidas en esta fracción deberán ser revisadas por la Agencia Federal de Aviación Civil cada tres años a partir de la fecha de su entrada en vigor, debiendo notificarse a la Comisión Federal de Competencia Económica los resultados de la revisión. Párrafo reformado DOF 31-05-2023 Fracción adicionada DOF 05-10-2000
+
+La Agencia Federal de Aviación Civil al fijar los mecanismos de ajuste incluidos en las bases de regulación tarifaria, podrá establecer condiciones en materia de rutas, frecuencias, horarios, equipo, calidad del servicio, información contable, comercialización, tarifas, así como períodos de vigencia. Párrafo reformado DOF 31-05-2023

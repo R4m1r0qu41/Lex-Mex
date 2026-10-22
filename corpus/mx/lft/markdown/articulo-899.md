@@ -20,5 +20,3 @@ source_sha256: 12f09393a1951a91c3f57f579bf611b034edf1a5f78cdbfb828e23ff3a9acbf7
 Se deroga.
 
 Artículo adicionado DOF 04-01-1980. Derogado DOF 01-05-2019
-
-Sección Primera Conflictos Individuales de Seguridad Social Sección adicionada DOF 30-11-2012

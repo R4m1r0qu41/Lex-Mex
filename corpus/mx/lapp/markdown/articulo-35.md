@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAPP.pdf
 source_sha256: a4505a7bd41bc835f1def6fb030c42d8e74a2cc050d9c8fa08f91c9519e382bf
 ---
 
+> Capítulo Tercero
+
 # Artículo 35
 
 Cuando se presenten dos o más propuestas en relación con un mismo proyecto y más de una se consideren viables, la dependencia o entidad resolverá en favor de la que represente mayores beneficios esperados y, en igualdad de condiciones, en favor de la primera presentada.

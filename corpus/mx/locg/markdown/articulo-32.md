@@ -20,5 +20,3 @@ source_sha256: 30e92e19100dc26408ce0b130151f8c44fe25aeb113eff14f3515553330ba230
 1. En caso de ausencia temporal o definitiva del Presidente de la Junta, el Grupo Parlamentario al que pertenezca informará de inmediato, tanto al Presidente de la Cámara como a la propia Junta, el nombre del diputado que lo sustituirá.
 
 2. Los integrantes de la Junta podrán ser sustituidos temporalmente de conformidad con las reglas internas de cada Grupo Parlamentario.
-
-Sección Segunda De su naturaleza y atribuciones

@@ -28,5 +28,3 @@ II. Prestadores de servicios de tratamiento de suelos contaminados autorizados, 
 III. Otra persona, siempre que el responsable anexe al programa de remediación respectivo la documentación que acredite la formación profesional y experiencia en la remedición de sitios contaminados por materiales peligrosos o residuos peligrosos.
 
 Los responsables de la contaminación o daño ambiental que designen como responsable técnico a las personas indicadas en las fracciones I o III del presente artículo, deberán otorgar seguro o garantía suficiente para cubrir los daños que pudieran generarse durante la ejecución de las acciones de remediación correspondientes.
-
-Sección III Estudios de caracterización

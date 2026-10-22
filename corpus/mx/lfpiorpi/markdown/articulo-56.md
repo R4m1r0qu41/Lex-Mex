@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPIORPI.pdf
 source_sha256: 2e35228bd3100a3a137f313359833c4836f2b4b6d4e52e1ce4fe58a970cd768f
 ---
 
+> Capítulo VII
+
 # Artículo 56
 
 Son causas de revocación de los permisos o autorizaciones otorgadas por autoridades competentes a aquellas personas que realicen las [Actividades Vulnerables](articulo-3.md) a que se refieren las fracciones I, IX y X del artículo [17](articulo-17.md) de esta [Ley](articulo-3.md), además de las señaladas en las disposiciones jurídicas aplicables: Párrafo reformado DOF 16-07-2025

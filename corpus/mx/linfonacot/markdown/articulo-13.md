@@ -18,5 +18,3 @@ source_sha256: 78fb5069898e5e58096511208e3cfa308922eb1c5c68f68c4ecd80b20c6f422f
 # Artículo 13
 
 La administración del [Instituto](articulo-4.md) estará encomendada a un [Consejo](articulo-4.md) Directivo y a un Director General, quienes se auxiliarán para el ejercicio de sus funciones de los comités previstos en esta [Ley](articulo-4.md) y en los demás que constituya el propio Consejo, así como de los servidores públicos que prevea el Estatuto Orgánico.
-
-Sección I Del Consejo Directivo

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Tercero · Capítulo III
+
 # Artículo 437
 
 Cuando el certificado previsto en esta Subsección sea modificado por cambio de nombre, matrícula o puerto de matrícula, o bien, requiera una reposición de dicho certificado por daño, extravío o robo, el interesado deberá presentar la solicitud correspondiente por escrito a la [Dirección General](articulo-10.md), adjuntando lo siguiente:

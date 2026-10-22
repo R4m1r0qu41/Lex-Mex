@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf
 source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 ---
 
+> Título I · Capítulo Único
+
 # Artículo 5 Bis
 
 Las expresiones sociedades de inversión, fondos de inversión, portafolios de inversión u otras que expresen ideas semejantes en cualquier idioma, por las que pueda inferirse el ejercicio de las actividades reservadas por esta Ley a los fondos de inversión, no podrán ser usadas en el nombre, denominación social, razón social, publicidad, propaganda o documentación de personas y establecimientos distintos de los propios fondos de inversión a que se refiere esta Ley.

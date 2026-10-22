@@ -20,5 +20,3 @@ source_sha256: 12f09393a1951a91c3f57f579bf611b034edf1a5f78cdbfb828e23ff3a9acbf7
 El [Tribunal](articulo-3o.-Ter.md) deberá dar vista al Instituto Mexicano del Seguro Social con la sentencia condenatoria, a fin de que dicho organismo actúe conforme a sus atribuciones haga cumplir a la parte condenada respecto de sus obligaciones en materia de seguridad social.
 
 Artículo adicionado DOF 01-05-2019
-
-Sección Tercera Remates Sección adicionada DOF 04-01-1980

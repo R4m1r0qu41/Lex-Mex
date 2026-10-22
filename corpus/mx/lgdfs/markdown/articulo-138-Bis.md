@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDFS.pdf
 source_sha256: 2c75fd0eab3245aed43a4e1230dcd142b48959a1df09bdd4e70684935a505dd4
 ---
 
-> Título SEXTO
+> Título SEXTO · Capítulo I
 
 # Artículo 138 Bis
 
@@ -26,5 +26,3 @@ Los recursos obtenidos del pago por resultados derivados de la reducción de emi
 Los dueños y legítimos poseedores de los terrenos forestales podrán realizar la compensación o transferencia de emisiones a nivel nacional o internacional en mercados voluntarios, sujetándose a las disposiciones generales que establezca la Secretaría.
 
 Artículo adicionado DOF 11-04-2022
-
-Capítulo II Del [Fondo](articulo-7.md) Forestal Mexicano

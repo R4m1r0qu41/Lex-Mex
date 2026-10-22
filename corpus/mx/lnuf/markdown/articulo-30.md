@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LNUF.pdf
 source_sha256: 0c11f4464286e7411713a80361a2e1ab15c4cc55bff80b4e6ee4a4333592d50c
 ---
 
+> Capítulo VIII
+
 # Artículo 30
 
 En el uso de la fuerza y la planeación de operativos siempre se tomará en consideración la salvaguarda de los objetivos y principios que establece esta [Ley](articulo-3.md) para garantizar la protección a los derechos humanos de todos los potenciales involucrados. Además, deberán cumplir con lo siguiente:

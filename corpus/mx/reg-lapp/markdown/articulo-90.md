@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAPP_200217.pdf
 source_sha256: 4ff895e3a71cad0980a03360585d24750d7e165b6ea2537fc44c5c05f9142ce7
 ---
 
-> Capítulo CUARTO
+> Capítulo CUARTO · Sección Segunda
 
 # Artículo 90
 
@@ -28,5 +28,3 @@ b) El costo de las garantías que se hubieran solicitado para participar en el C
 c) El costo de la preparación e integración de la propuesta ganadora, y II. En ningún caso podrá exceder del equivalente al dos por ciento de la [Inversión Inicial](articulo-11.md) del proyecto, ni del equivalente a cinco millones de Unidades de Inversión, lo que resulte menor.
 
 El ganador podrá solicitar el reembolso dentro de un plazo máximo de veinte días hábiles, contado a partir de la fecha fijada en las bases para la firma del contrato. El reembolso se hará dentro de los noventa días hábiles siguientes al recibo de la solicitud.
-
-Sección Tercera De las Excepciones al Concurso

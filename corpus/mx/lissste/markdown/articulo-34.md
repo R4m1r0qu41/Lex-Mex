@@ -44,5 +44,3 @@ XII. Envejecimiento saludable;
 XIII. Prevención y rehabilitación de pacientes con capacidades disminuidas, y
 
 XIV. Las demás actividades que determine como tales la Junta Directiva de acuerdo con las posibilidades financieras del seguro de salud.
-
-Sección IV Atención Médica Curativa y de Maternidad y Rehabilitación Física y Mental

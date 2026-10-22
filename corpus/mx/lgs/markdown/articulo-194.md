@@ -25,6 +25,8 @@ I. Proceso, importación y exportación de alimentos, bebidas no alcohólicas, b
 
 II. Proceso, uso, mantenimiento, importación, exportación y disposición final de dispositivos médicos, y Fracción reformada DOF 10-05-2023
 
-III. Proceso, uso, importación, exportación, aplicación y disposición final de plaguicidas, nutrientes vegetales y substancias tóxicas o peligrosas para la salud, así como de las materias primas que intervengan en su elaboración. Fracción reformada DOF 07-05-1997 El control sanitario del proceso, importación y exportación de medicamentos, estupefacientes y substancias psicotrópicas y las materias primas que intervengan en su elaboración, compete en forma exclusiva a la Secretaría de Salud, en función del potencial de riesgo para la salud que estos productos representan.
+III. Proceso, uso, importación, exportación, aplicación y disposición final de plaguicidas, nutrientes vegetales y substancias tóxicas o peligrosas para la salud, así como de las materias primas que intervengan en su elaboración. Fracción reformada DOF 07-05-1997
+
+El control sanitario del proceso, importación y exportación de medicamentos, estupefacientes y substancias psicotrópicas y las materias primas que intervengan en su elaboración, compete en forma exclusiva a la Secretaría de Salud, en función del potencial de riesgo para la salud que estos productos representan.
 
 Artículo reformado DOF 27-05-1987, 14-06-1991

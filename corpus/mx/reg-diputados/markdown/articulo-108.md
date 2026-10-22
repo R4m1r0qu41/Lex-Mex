@@ -20,5 +20,3 @@ source_sha256: 6fa1d25c31c4d8c2cc8074208b10a2f3ff35fecce26c1cc03ba18117cfec80d1
 1. Los dictámenes con proyectos de ley que consten de más de treinta artículos podrán ser discutidos y aprobados, por los libros, títulos, capítulos o secciones, en que sean divididos por sus autores o las comisiones dictaminadoras, siempre que así lo acuerde el Pleno, a propuesta de uno o más de sus integrantes.
 
 2. Si lo propone algún miembro de la [Cámara](articulo-2.md) y se aprueba por el Pleno, podrá votarse por separado cada uno de los artículos o fracciones del artículo o de la sección que esté a debate.
-
-Sección Segunda Discusión en lo Particular

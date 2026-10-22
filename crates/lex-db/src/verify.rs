@@ -353,6 +353,164 @@ fn fts(c: &Connection, database: &Path) -> Result<i64> {
     Ok(count)
 }
 
+/// Independently verify retirement history without the builder's seed validator.
+fn retired_debt(git: &GitInput, data: &BTreeMap<String, Value>) -> Result<()> {
+    let seed = data
+        .get("adapters/shared/_known-structural-debt.json")
+        .context("seed absent")?;
+    let schema = data
+        .get("schemas/structural-debt.schema.json")
+        .context("seed schema absent")?;
+    jsonschema::validator_for(schema)
+        .map_err(|e| anyhow::anyhow!(e.to_string()))?
+        .validate(seed)
+        .map_err(|e| anyhow::anyhow!("seed schema: {e}"))?;
+    let Some(retirements) = seed.get("retirements").and_then(Value::as_array) else {
+        return Ok(());
+    };
+    let original_commit = retirement_text(seed, "source_corpus_commit")?;
+    git.require_ancestor(&original_commit)?;
+    let original = git.at(&original_commit)?;
+    let review_path = retirement_text(seed, "review_source_path")?;
+    let raw_review = original.read(&review_path)?;
+    ensure!(
+        digest(&raw_review) == retirement_text(seed, "review_source_sha256")?
+            && git.read(&review_path)? == raw_review,
+        "retirement review authority changed"
+    );
+    let review: Value = serde_json::from_slice(&raw_review)?;
+    let accepted: Vec<_> = review["rows"]
+        .as_array()
+        .context("review rows absent")?
+        .iter()
+        .filter(|r| r["review_status"] == "accepted")
+        .collect();
+    let active = seed["rows"].as_array().context("active rows absent")?;
+    ensure!(
+        active.len() + retirements.len() == accepted.len(),
+        "active/retired partition count differs"
+    );
+    let mut identities = BTreeSet::new();
+    for row in active.iter().chain(retirements.iter().map(|r| &r["row"])) {
+        let identity = (
+            retirement_text(row, "instrument_id")?,
+            retirement_text(row, "printed_label")?,
+        );
+        ensure!(identities.insert(identity), "active/retired duplicate");
+        ensure!(
+            accepted
+                .iter()
+                .filter(|expected| row
+                    .as_object()
+                    .is_some_and(|m| m.iter().all(|(k, v)| expected.get(k) == Some(v))))
+                .count()
+                == 1,
+            "retirement differs from original accepted row"
+        );
+    }
+    for retirement in retirements {
+        retirement_proof(git, &original, &original_commit, retirement)?;
+    }
+
+    Ok(())
+}
+
+fn retirement_text(v: &Value, key: &str) -> Result<String> {
+    Ok(v[key]
+        .as_str()
+        .with_context(|| format!("retirement lacks {key}"))?
+        .to_owned())
+}
+fn retirement_proof(
+    git: &GitInput,
+    original: &GitInput,
+    original_commit: &str,
+    retirement: &Value,
+) -> Result<()> {
+    let row = &retirement["row"];
+    let owner = retirement_text(row, "instrument_id")?;
+    let target = format!(
+        "{}:article:{}",
+        owner,
+        lex_parse::labels::canonical_slug(&retirement_text(row, "printed_label")?)
+    );
+    ensure!(
+        target == retirement_text(retirement, "provision_id")?,
+        "retired target label differs"
+    );
+    let path = retirement_text(row, "source_path")?;
+    ensure!(
+        path == retirement_text(retirement, "source_path")?,
+        "retired source path differs"
+    );
+    let at = retirement_text(retirement, "resolved_at_commit")?;
+    git.require_ancestor(&at)?;
+    let resolved = git.at(&at)?;
+    resolved.require_ancestor(original_commit)?;
+    ensure!(at != original_commit, "resolution must follow acceptance");
+    let old = original.read(&path)?;
+    ensure!(
+        digest(&old) == retirement_text(row, "source_sha256")?
+            && original.blob_oid(&path)? == retirement_text(row, "source_blob_oid")?,
+        "historical retirement locator differs"
+    );
+    let old: Value = serde_json::from_slice(&old)?;
+    let old = old.as_array().context("historical provisions absent")?;
+    ensure!(
+        !old.iter().any(|p| p["id"] == target),
+        "target existed before retirement"
+    );
+    let container = old
+        .iter()
+        .find(|p| p["id"] == row["containing_provision_id"])
+        .context("historical container absent")?;
+    let start = usize::try_from(row["start_char"].as_u64().context("start absent")?)?;
+    let end = usize::try_from(row["end_char"].as_u64().context("end absent")?)?;
+    let body = retirement_text(container, "text")?;
+    ensure!(
+        container["instrument_id"] == owner
+            && start < end
+            && end <= body.chars().count()
+            && body
+                .chars()
+                .skip(start)
+                .take(end - start)
+                .collect::<String>()
+                == retirement_text(row, "heading_text")?,
+        "historical retirement span differs"
+    );
+    let raw = resolved.read(&path)?;
+    ensure!(
+        digest(&raw) == retirement_text(retirement, "source_sha256")?
+            && resolved.blob_oid(&path)? == retirement_text(retirement, "source_blob_oid")?,
+        "resolution source differs"
+    );
+    for raw in [raw, git.read(&path)?] {
+        let values: Value = serde_json::from_slice(&raw)?;
+        let values = values.as_array().context("resolution provisions absent")?;
+        let found: Vec<_> = values.iter().filter(|v| v["id"] == target).collect();
+        ensure!(found.len() == 1, "retirement target absent/duplicate");
+        ensure!(
+            found[0]["instrument_id"] == owner
+                && found[0]["provision_type"] == "article"
+                && lex_parse::labels::canonical_slug(&retirement_text(found[0], "number")?)
+                    == lex_parse::labels::canonical_slug(&retirement_text(row, "printed_label")?)
+                && !retirement_text(found[0], "text")?.trim().is_empty(),
+            "retirement target differs"
+        );
+        ensure!(
+            !values
+                .iter()
+                .any(|p| p["id"] == row["containing_provision_id"]
+                    && p["text"].as_str().is_some_and(|s| row["heading_text"]
+                        .as_str()
+                        .is_some_and(|h| s.contains(h)))),
+            "retired heading remains embedded"
+        );
+    }
+    Ok(())
+}
+
 pub fn verify(
     root: &Path,
     database: &Path,
@@ -411,6 +569,7 @@ pub fn verify(
         "stored release differs from sidecar"
     );
     let data = raw_inputs(&c, &git, &manifest)?;
+    retired_debt(&git, &data)?;
     let (normalized_records, table_counts) = rows::check(&c, &data, &manifest)?;
     let logical_content_sha256 = logical(&c)?;
     ensure!(
@@ -462,4 +621,108 @@ pub fn open_readonly(path: &Path) -> Result<Connection> {
     let c = Connection::open_with_flags(path, OpenFlags::SQLITE_OPEN_READ_ONLY)?;
     c.execute_batch("PRAGMA query_only=ON; PRAGMA foreign_keys=ON;")?;
     Ok(c)
+}
+
+#[cfg(test)]
+mod retirement_tests {
+    use super::*;
+    use serde_json::json;
+    use std::process::Command;
+    fn git(root: &Path, args: &[&str]) -> String {
+        let out = Command::new("git")
+            .arg("-C")
+            .arg(root)
+            .args(args)
+            .output()
+            .unwrap();
+        assert!(
+            out.status.success(),
+            "{}",
+            String::from_utf8_lossy(&out.stderr)
+        );
+        String::from_utf8(out.stdout).unwrap().trim().to_owned()
+    }
+    fn commit(root: &Path) -> String {
+        git(root, &["add", "."]);
+        git(
+            root,
+            &[
+                "-c",
+                "user.name=Fixture",
+                "-c",
+                "user.email=fixture@example.invalid",
+                "-c",
+                "commit.gpgsign=false",
+                "commit",
+                "-qm",
+                "retirement fixture",
+            ],
+        );
+        git(root, &["rev-parse", "HEAD"])
+    }
+    #[test]
+    fn independent_retirement_check_rejects_forged_history_and_missing_current_target() {
+        let temp = tempfile::tempdir().unwrap();
+        let root = temp.path();
+        git(root, &["init", "-q"]);
+        let path = "corpus/mx/fixture/provisions.json";
+        let review_path = "docs/review.json";
+        fs::create_dir_all(root.join("corpus/mx/fixture")).unwrap();
+        fs::create_dir_all(root.join("docs")).unwrap();
+        let owner = "urn:lex-mx:federal:statute:fixture";
+        let container = format!("{owner}:article:1");
+        let target = format!("{owner}:article:9");
+        let heading = "Artículo 9.-";
+        let old =
+            json!([{"id":container,"instrument_id":owner,"text":format!("{heading} Nueve.")}]);
+        let raw = serde_json::to_vec(&old).unwrap();
+        fs::write(root.join(path), &raw).unwrap();
+        let blob = git(root, &["hash-object", "-w", path]);
+        let row = json!({"instrument_id":owner,"kind":"merged_heading","printed_label":"9","heading_text":heading,"containing_provision_id":container,"start_char":0,"end_char":heading.chars().count(),"source_path":path,"source_blob_oid":blob,"source_sha256":digest(&raw),"review_status":"accepted","reviewer":"Fixture","reviewed_at":"2026-10-21","decision_reference":"docs/decisions.md#fixture"});
+        let review = serde_json::to_vec(&json!({"rows":[row]})).unwrap();
+        fs::write(root.join(review_path), &review).unwrap();
+        let original = commit(root);
+        let current = json!([{"id":container,"instrument_id":owner,"text":"Uno."},{"id":target,"instrument_id":owner,"provision_type":"article","number":"9","text":"Nueve."}]);
+        let raw = serde_json::to_vec(&current).unwrap();
+        fs::write(root.join(path), &raw).unwrap();
+        let resolved = commit(root);
+        let input = GitInput::new(root, &resolved).unwrap();
+        let seed = json!({"schema_version":"3","source_corpus_commit":original,"decision_source_path":"docs/decisions.md","decision_source_sha256":"0".repeat(64),"review_source_path":review_path,"review_source_sha256":digest(&review),"decision_sections":[{"reference":"docs/decisions.md#fixture","heading":"## Fixture","sha256":"0".repeat(64)}],"rows":[],"retirements":[{"row":row,"resolved_at_commit":resolved,"provision_id":target,"source_path":path,"source_blob_oid":input.blob_oid(path).unwrap(),"source_sha256":digest(&raw)}]});
+        let mut data = BTreeMap::from([
+            (
+                "adapters/shared/_known-structural-debt.json".into(),
+                seed.clone(),
+            ),
+            (
+                "schemas/structural-debt.schema.json".into(),
+                serde_json::from_str(include_str!("../../../schemas/structural-debt.schema.json"))
+                    .unwrap(),
+            ),
+        ]);
+        assert!(retired_debt(&input, &data).is_ok());
+        for field in ["provision_id", "source_sha256", "source_blob_oid"] {
+            let mut bad = seed.clone();
+            bad["retirements"][0][field] = json!(if field == "source_sha256" {
+                "0".repeat(64)
+            } else if field == "source_blob_oid" {
+                "0".repeat(40)
+            } else {
+                "urn:absent".into()
+            });
+            data.insert("adapters/shared/_known-structural-debt.json".into(), bad);
+            assert!(retired_debt(&input, &data).is_err(), "{field}");
+        }
+        let mut bad = seed.clone();
+        bad["retirements"][0]["row"]["reviewer"] = json!("invented");
+        data.insert("adapters/shared/_known-structural-debt.json".into(), bad);
+        assert!(retired_debt(&input, &data).is_err());
+        data.insert("adapters/shared/_known-structural-debt.json".into(), seed);
+        fs::write(
+            root.join(path),
+            serde_json::to_vec(&json!([current[0]])).unwrap(),
+        )
+        .unwrap();
+        let removed = commit(root);
+        assert!(retired_debt(&GitInput::new(root, &removed).unwrap(), &data).is_err());
+    }
 }

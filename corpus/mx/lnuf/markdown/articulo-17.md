@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LNUF.pdf
 source_sha256: 0c11f4464286e7411713a80361a2e1ab15c4cc55bff80b4e6ee4a4333592d50c
 ---
 
+> Capítulo V
+
 # Artículo 17
 
 Las instituciones de seguridad deberán contar con una base de datos que contenga el registro detallado de las huellas y las características que impriman los proyectiles u ojivas, las estrías o rayado helicoidal de las armas de fuego bajo su resguardo; así como de las armas y equipo asignado a cada agente.

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Segundo · Capítulo V
+
 # Artículo 207
 
 Para el caso del personal no tripulante que labora como apoyo en las instalaciones costa afuera, además de los requisitos previstos en el artículo [205](articulo-205.md) de este Reglamento, deberá exhibir constancia del Curso Básico de Seguridad para Plataformas y [Barcazas](articulo-10.md), impartido por una Institución Educativa autorizada por la [Dirección General](articulo-10.md).

@@ -25,7 +25,9 @@ II. A las Secretarías de Hacienda y Crédito Público y de Educación Pública;
 
 II Bis. Al Centro Federal de Conciliación y Registro Laboral; Fracción adicionada DOF 01-05-2019
 
-II Ter. A los [Centros de Conciliación](articulo-3o.-Ter.md) en materia local; Fracción adicionada DOF 01-05-2019 III. A las autoridades de las Entidades Federativas, y a sus Direcciones o Departamentos de Trabajo;
+II Ter. A los [Centros de Conciliación](articulo-3o.-Ter.md) en materia local; Fracción adicionada DOF 01-05-2019
+
+III. A las autoridades de las Entidades Federativas, y a sus Direcciones o Departamentos de Trabajo;
 
 IV. A la Procuraduría de la Defensa del Trabajo;
 

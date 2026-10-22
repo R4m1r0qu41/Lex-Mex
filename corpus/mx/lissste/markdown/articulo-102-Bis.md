@@ -26,5 +26,3 @@ La Comisión Nacional de los Sistemas de Ahorro para el Retiro y la Comisión Na
 Los gastos que se generen con motivo del control, descuentos y entrega o transferencia de los importes relativos a los préstamos otorgados por las Entidades Financieras serán cubiertos por éstas al PENSIONISSSTE o la aseguradora o administradora de fondos para el retiro de que se trate, en los términos que se estipule en los convenios respectivos.
 
 Artículo adicionado DOF 28-05-2012
-
-Sección VIII Del PENSIONISSSTE

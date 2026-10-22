@@ -45,7 +45,9 @@ XII. Participar, en el ámbito de su competencia, en la consolidación de la ope
 
 XIII. Rendir opiniones y formular sugerencias al Ejecutivo Federal tendientes al mejoramiento de la eficiencia del Sistema Nacional de Salud y al mejor cumplimiento del programa sectorial de salud; Fracción reformada y recorrida DOF 29-05-2023
 
-XIV. Proponer a las autoridades sanitarias el otorgamiento de reconocimientos y estímulos para las instituciones y personas que se distingan por sus méritos a favor de la salud; Fracción adicionada DOF 07-05-1997. Reformada y renumerada (antes fracción VII bis) DOF 29-05-2023 XV. Coordinar, a través de la persona titular de la Secretaría del Consejo, la entrega de condecoraciones, reconocimiento, premios y estímulos, que determinen las autoridades sanitarias, con sujeción a las disposiciones jurídicas aplicables; Fracción adicionada DOF 29-05-2023
+XIV. Proponer a las autoridades sanitarias el otorgamiento de reconocimientos y estímulos para las instituciones y personas que se distingan por sus méritos a favor de la salud; Fracción adicionada DOF 07-05-1997. Reformada y renumerada (antes fracción VII bis) DOF 29-05-2023
+
+XV. Coordinar, a través de la persona titular de la Secretaría del Consejo, la entrega de condecoraciones, reconocimiento, premios y estímulos, que determinen las autoridades sanitarias, con sujeción a las disposiciones jurídicas aplicables; Fracción adicionada DOF 29-05-2023
 
 XVI. Analizar, a través de la persona titular de la Secretaría del Consejo, las disposiciones legales en materia de salud y formular propuestas de reformas o adiciones a las mismas, y Fracción reformada y recorrida DOF 29-05-2023
 

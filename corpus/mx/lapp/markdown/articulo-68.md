@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAPP.pdf
 source_sha256: a4505a7bd41bc835f1def6fb030c42d8e74a2cc050d9c8fa08f91c9519e382bf
 ---
 
+> Capítulo Quinto · Sección Primera
+
 # Artículo 68
 
 Para proceder a la adquisición a través de la vía convencional o, en su caso, a la expropiación de los inmuebles, bienes y derechos necesarios para el proyecto de asociación público- privada, se solicitará avalúo de los mismos al Instituto de Administración y Avalúos de Bienes Nacionales o a las instituciones de crédito del país que se encuentren autorizadas, o a corredores públicos o profesionistas con postgrado en valuación, en los términos que indique el [Reglamento](articulo-12.md).
@@ -32,5 +34,3 @@ La aplicación de los factores citados en las fracciones anteriores se hará en 
 En ningún caso el valor de adquisición o de expropiación será menor al valor fiscal de los inmuebles y, en su caso, bienes y derechos de que se trate.
 
 Los avalúos tendrán una vigencia de un año, vencido el cual, procederá su actualización.
-
-Sección Segunda Del Procedimiento de Negociación

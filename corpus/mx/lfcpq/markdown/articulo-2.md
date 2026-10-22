@@ -19,7 +19,7 @@ source_sha256: 39d132d9b54587ce0636972dfe474936d152717e7d656864e160a637347628c6
 
 Para los efectos de esta Ley se entenderá por:
 
-I. Actividades reguladas: Producción, preparación, enajenación, adquisición, importación, exportación, transporte, almacenaje y distribución de precursores químicos, productos químicos esenciales o máquinas para elaborar cápsulas, tabletas o comprimidos; LEY FEDERAL PARA EL CONTROL DE PRECURSORES QUÍMICOS, PRODUCTOS QUÍMICOS ESENCIALES Y MÁQUINAS PARA ELABORAR CÁPSULAS, TABLETAS Y/O COMPRIMIDOS Fracción reformada DOF 03-05-2023
+I. Actividades reguladas: Producción, preparación, enajenación, adquisición, importación, exportación, transporte, almacenaje y distribución de precursores químicos, productos químicos esenciales o máquinas para elaborar cápsulas, tabletas o comprimidos; Fracción reformada DOF 03-05-2023
 
 II. Derogada. Fracción derogada DOF 03-05-2023
 

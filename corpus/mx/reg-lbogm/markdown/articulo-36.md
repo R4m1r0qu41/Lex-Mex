@@ -13,10 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LBOGM.pdf
 source_sha256: 667636f9e0ea65e72ac9d6d7b4d7563a183b75d0f140268a61929c74f5f88041
 ---
 
-> Título CUARTO
+> Título CUARTO · Capítulo I
 
 # Artículo 36
 
 La Secretaría que resolvió negativamente la solicitud de permiso o de autorización deberá resolver la solicitud de reconsideración en un plazo no mayor a dos meses, contado a partir del día hábil siguiente a que el promovente haya entregado su solicitud de reconsideración.
-
-Capítulo II De la revisión de los permisos y las autorizaciones

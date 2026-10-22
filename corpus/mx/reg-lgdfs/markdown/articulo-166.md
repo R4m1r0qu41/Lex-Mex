@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGDFS.pdf
 source_sha256: a4dbcdb94d780332f0bda62246611dab5972e75bcb01df293df93a95cdd03530
 ---
 
-> Título TERCERO
+> Título TERCERO · Capítulo IV
 
 # Artículo 166
 
@@ -54,7 +54,3 @@ XVI. La elaboración del programa anual de actividades para la Unidad de manejo 
 XVII. Las demás que los participantes en la Unidad de manejo forestal consideren necesarias.
 
 La Comisión diseñará y difundirá a través de su página electrónica los lineamientos, guías, reglas para la implementación e instrumentación de mecanismos que promuevan el desarrollo de las actividades a que se refiere el presente artículo, con el objetivo de impulsar el Desarrollo forestal sustentable a través de la ejecución de las actividades que se establezcan en los estudios y programas regionales. La Comisión dará a conocer, mediante Acuerdo que publique en el Diario Oficial de la Federación el contenido de los estudios y programas a que se refiere la fracción I del presente artículo.
-
-Capítulo V Certificación Forestal y de las Auditorías Técnicas Preventivas
-
-Sección I Certificación de Buen Manejo Forestal

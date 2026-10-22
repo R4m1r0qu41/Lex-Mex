@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Tercero · Capítulo IX
+
 # Artículo 653
 
 El prestador de servicios deberá observar lo siguiente:
@@ -34,5 +36,3 @@ VIII. Identificar el equipo con el nombre de la empresa o del prestador de servi
 IX. Evitar arrojar basura, aguas residuales o combustible, que puedan ocasionar daños a las vías navegables, por lo que el permisionario establecerá los procedimientos para el manejo de tales elementos, durante la prestación de su servicio, y
 
 X. Comunicar por escrito a los usuarios de los servicios, las instrucciones generales de seguridad, límites de la zona de operación y velocidad que deberán observar, y las firmarán de conformidad.
-
-Sección VI Seguros Aplicables

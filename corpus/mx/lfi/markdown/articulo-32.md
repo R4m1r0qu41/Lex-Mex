@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf
 source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 ---
 
+> Título III · Capítulo Primero
+
 # Artículo 32
 
 Los fondos de inversión en los términos y casos que esta Ley señala, para el cumplimiento de su objeto deberán contratar los servicios que a continuación se indican: Párrafo reformado DOF 10-01-2014
@@ -31,7 +33,9 @@ VI. Depósito y custodia de Activos Objeto de Inversión; Fracción reformada DO
 
 VII. Contabilidad de fondos de inversión; Fracción reformada DOF 10-01-2014
 
-VIII. Administrativos para fondos de inversión, y Fracción reformada DOF 10-01-2014 IX. Los demás que autorice la [Comisión](articulo-2.md) mediante disposiciones de carácter general.
+VIII. Administrativos para fondos de inversión, y Fracción reformada DOF 10-01-2014
+
+IX. Los demás que autorice la [Comisión](articulo-2.md) mediante disposiciones de carácter general.
 
 Los fondos de inversión estarán obligados a contratar los servicios a que se refiere la fracción IV anterior, cuando así lo prevea la Comisión en las disposiciones de carácter general a que se refiere el artículo [17](articulo-17.md) de esta Ley, salvo en los casos a que alude el último párrafo del artículo [80 Bis](articulo-80-Bis.md) del presente ordenamiento. Párrafo reformado DOF 10-01-2014
 

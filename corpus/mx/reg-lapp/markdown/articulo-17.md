@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAPP_200217.pdf
 source_sha256: 4ff895e3a71cad0980a03360585d24750d7e165b6ea2537fc44c5c05f9142ce7
 ---
 
-> Capítulo PRIMERO
+> Capítulo PRIMERO · Sección Tercera
 
 # Artículo 17
 
@@ -28,5 +28,3 @@ IV. Las propuestas no solicitadas que las Dependencias y Entidades Federales hay
 La información a que se refiere este artículo se integrará con base en los registros ingresados en CompraNet, y demás elementos que las Dependencias y Entidades Federales remitan, en la cual no se podrá incluir información de naturaleza reservada o confidencial en términos de la Ley Federal de Transparencia y Acceso a la Información Pública y demás disposiciones jurídicas aplicables.
 
 Artículo reformado DOF 20-02-2017
-
-Sección Cuarta Del Registro para Efectos Estadísticos

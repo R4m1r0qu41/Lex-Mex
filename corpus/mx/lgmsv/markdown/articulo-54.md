@@ -24,5 +24,3 @@ La actualización de los dispositivos, sistemas y estándares de seguridad en lo
 Las autoridades competentes, en coordinación con la [Secretaría](articulo-3.md) de Infraestructura, Comunicaciones y [Transportes](articulo-3.md), deberán establecer un sistema de evaluación de vehículos nuevos, independiente de fabricantes y concesionarios. Asimismo, las Normas Oficiales Mexicanas establecerán los requisitos de información que los fabricantes, importadores y personas concesionarias de vehículos nuevos deberán dar a conocer respecto del desempeño de protección y la seguridad de los vehículos, con un sistema de información de fácil comprensión.
 
 Las autoridades federales y de las entidades federativas, en el ámbito de sus competencias, deberán verificar la seguridad de los vehículos nuevos y en circulación, de acuerdo con las disposiciones normativas vigentes y aplicables.
-
-Sección Cuarta De los Instrumentos en materia de [Movilidad](articulo-3.md) y Seguridad Vial en la Gestión de la Demanda

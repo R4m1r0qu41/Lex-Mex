@@ -13,10 +13,10 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAPP.pdf
 source_sha256: a4505a7bd41bc835f1def6fb030c42d8e74a2cc050d9c8fa08f91c9519e382bf
 ---
 
+> Capítulo Séptimo · Sección Segunda
+
 # Artículo 107
 
 La prestación de los servicios comenzará previa autorización de la dependencia o entidad contratante.
 
 No procederá la autorización antes citada sin la previa verificación técnica de que las instalaciones, cumplen las condiciones de seguridad según las especificaciones del proyecto y las requeridas por las disposiciones aplicables.
-
-Sección Tercera Disposiciones Comunes a la Ejecución de la Obra y a la Prestación de los Servicios

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Segundo · Capítulo II
+
 # Artículo 72
 
 Para abanderar una Embarcación o Artefacto Naval por primera ocasión y siempre y cuando esto lo vaya a realizar un servidor público con rango de Subsecretario u homólogo o por el Director General de Marina Mercante, a bordo de la Embarcación o Artefacto Naval se deberá cumplir con lo siguiente:

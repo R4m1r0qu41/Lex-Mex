@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRCF.pdf
 source_sha256: cc687a4d8d9de93d2d3ec9b40b26d0273e108bb002a6f611806dc36ebce5ba2c
 ---
 
-> Título TERCERO
+> Título TERCERO · Capítulo II
 
 # Artículo 51
 
@@ -32,5 +32,3 @@ IV. En su caso, las acciones de capacitación a desarrollar.
 La Auditoría Superior de la Federación llevará a cabo de manera directa las auditorías que correspondan, independientemente de los convenios que hubiere celebrado con las entidades fiscalizadoras locales cuando la entidad local de fiscalización haya solventado sin sustento, o en contravención a los lineamientos mencionados, observaciones realizadas con motivo de auditorías al ejercicio de las participaciones federales durante dos años consecutivos.
 
 Lo anterior sin perjuicio de que la Auditoría Superior de la Federación podrá llevar a cabo directamente la fiscalización de participaciones federales independientemente del mecanismo de coordinación que hubiere celebrado o implementado. Asimismo, la Auditoría Superior de la Federación informará de manera semestral a la [Comisión](articulo-4.md), respecto de los mecanismos de coordinación celebrados, así como de los resultados del desempeño de las autoridades fiscalizadoras locales correspondientes con las que se coordinó. Sin perjuicio de lo establecido en el presente Capítulo, la Auditoría Superior de la Federación podrá, en los términos previstos en el Título Cuarto de esta Ley, fiscalizar la gestión financiera correspondiente al ejercicio fiscal en curso o respecto a años anteriores.
-
-Capítulo III De la Fiscalización Superior de la Deuda Pública de las [Entidades Federativas](articulo-4.md) y Municipios que cuenten con Garantía del Gobierno Federal.

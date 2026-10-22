@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGN_111220.pdf
 source_sha256: ea6e39560929f2e1998b2dabe0852fde0d684c69e5be49aab7f33433299bbeb0
 ---
 
-> Título SEXTO
+> Título SEXTO · Capítulo III
 
 # Artículo 179
 
@@ -26,5 +26,3 @@ II. Validar la conducta o actuación de los integrantes a que se refiere la frac
 IV. Turnar al [Secretario](articulo-2.md), el recurso de inconformidad que presenten los Integrantes de Carrera, por no estar de acuerdo con la resolución del Consejo de Comisarios, para que éste a su vez lo turne ante el Consejo de Comisarios en su modalidad de Reducido, y
 
 V. Establecer el catálogo de faltas, que ameriten la imposición de correctivos disciplinarios o sanciones, mismo que será de observancia obligatoria tanto para el Consejo de Comisarios, como para los de Honor Superior y Ordinario.
-
-Capítulo IV Del Consejo de Honor Superior

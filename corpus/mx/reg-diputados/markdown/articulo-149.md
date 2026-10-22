@@ -31,7 +31,9 @@ a) La coordinación de actividades con otras comisiones o comités, de la [Cáma
 
 b) La realización de reuniones en conferencia con comisiones de la Cámara de Senadores. Fracción reformada DOF 20-04-2011, 21-12-2021
 
-IV. Elaborar un proyecto de calendario de reuniones ordinarias de la comisión o comité y remitirlo a la [Conferencia](articulo-2.md); Fracción reformada DOF 20-04-2011 V. Proponer al interior de la comisión o comité la realización de foros, seminarios, talleres, conferencias, investigaciones, estudios, audiencias y consultas; Fracción reformada DOF 20-04-2011
+IV. Elaborar un proyecto de calendario de reuniones ordinarias de la comisión o comité y remitirlo a la [Conferencia](articulo-2.md); Fracción reformada DOF 20-04-2011
+
+V. Proponer al interior de la comisión o comité la realización de foros, seminarios, talleres, conferencias, investigaciones, estudios, audiencias y consultas; Fracción reformada DOF 20-04-2011
 
 VI. Llevar a cabo consultas, respecto a los temas de su competencia, con representantes de los otros Poderes de la Unión, especialistas, organizaciones sociales, grupos de interés y ciudadanos en general;
 
@@ -48,5 +50,3 @@ XI. Resolver los asuntos de su competencia que le hayan sido turnados, no previs
 XII. Llevar a cabo la evaluación de los trabajos de la comisión o comité y de su personal de apoyo. Fracción recorrida DOF 20-04-2011
 
 3. La Junta Directiva podrá consultar a ciudadanos, grupos, organizaciones, a los titulares de las entidades de la administración pública centralizada y paraestatal y a los titulares o representantes legales de quienes detenten una concesión del Estado, cuando se estudie un negocio concerniente a sus respectivos ramos o actividades.
-
-Sección Tercera Obligaciones del Presidente y de la [Secretaría de la Junta Directiva](articulo-2.md)

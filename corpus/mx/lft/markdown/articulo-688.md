@@ -20,5 +20,3 @@ source_sha256: 12f09393a1951a91c3f57f579bf611b034edf1a5f78cdbfb828e23ff3a9acbf7
 Las autoridades administrativas están obligadas, en la esfera de sus respectivas competencias, a auxiliar a los [Tribunales](articulo-3o.-Ter.md), si se negaren a ello, serán responsables en los términos de las Leyes aplicables al caso.
 
 Artículo reformado DOF 04-01-1980, 30-11-2012, 01-05-2019
-
-Capítulo II De la Capacidad, Personalidad y Legitimación Capítulo reubicado y denominación reformada DOF 04-01-1980. Denominación reformada DOF 30-11-2012

@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LBOGM.pdf
 source_sha256: 667636f9e0ea65e72ac9d6d7b4d7563a183b75d0f140268a61929c74f5f88041
 ---
 
-> Título SEXTO
+> Título SEXTO · Capítulo Único
 
 # Artículo 43
 

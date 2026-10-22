@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAC.pdf
 source_sha256: 4dcf5277184d5f5c5cc1c8ae2dfa196134b472d883eb2806c7bac27cd77eda7d
 ---
 
+> Título Segundo · Capítulo III
+
 # Artículo 51
 
 Las tarifas nacionales e internacionales deben presentarse por cada ruta, incluyendo sus puntos intermedios, para su registro o aprobación ante la Agencia Federal de Aviación Civil en los formatos publicados en el Diario Oficial de la Federación para tales efectos. Las tarifas deben registrarse o aprobarse, antes de la fecha en que se pretendan comercializar y aplicar.

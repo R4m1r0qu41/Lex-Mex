@@ -29,6 +29,8 @@ a) Incumplimiento al régimen de inversión de las sociedades de inversión;
 
 b) Cobro de comisiones que excedan el monto autorizado por la Comisión; Inciso reformado DOF 10-01-2014
 
-c) Cuando las administradoras no proporcionen la información a que estén obligadas o no atiendan los trámites solicitados directamente por los trabajadores respecto de las cuentas individuales, conforme a lo previsto en esta ley y demás disposiciones aplicables, y Inciso reformado DOF 10-01-2014 d) Cuando se trate de omisiones o contravenciones a la normatividad que se identifiquen en un mismo proceso en forma reiterada. Inciso adicionado DOF 10-01-2014
+c) Cuando las administradoras no proporcionen la información a que estén obligadas o no atiendan los trámites solicitados directamente por los trabajadores respecto de las cuentas individuales, conforme a lo previsto en esta ley y demás disposiciones aplicables, y Inciso reformado DOF 10-01-2014
+
+d) Cuando se trate de omisiones o contravenciones a la normatividad que se identifiquen en un mismo proceso en forma reiterada. Inciso adicionado DOF 10-01-2014
 
 Artículo adicionado DOF 10-12-2002. Reformado DOF 11-01-2005

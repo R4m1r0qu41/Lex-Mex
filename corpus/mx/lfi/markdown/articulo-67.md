@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf
 source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 ---
 
+> Título IV · Capítulo Segundo
+
 # Artículo 67
 
 La solicitud de autorización para organizarse y funcionar como Filial deberá cumplir con los requisitos establecidos en la presente Ley y en las reglas a las que se refiere el primer párrafo del artículo [63](articulo-63.md).

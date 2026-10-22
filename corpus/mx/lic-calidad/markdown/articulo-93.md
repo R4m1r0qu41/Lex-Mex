@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LICal_010720.pdf
 source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 ---
 
-> Título SEGUNDO
+> Título SEGUNDO · Capítulo II
 
 # Artículo 93
 
@@ -36,5 +36,3 @@ VII. Las demás previstas en el Reglamento de esta Ley.
 Las personas morales que hayan obtenido el registro de la Secretaría como Organismos Nacionales de Estandarización podrán realizar labores de estandarización, en el entendido que ese registro estará limitado a la materia, ramas y sectores económicos sobre los que se haya otorgado.
 
 La Secretaría deberá emitir anualmente los lineamientos para evitar la duplicidad en las labores de estandarización y publicará los registros otorgados a los Organismos Nacionales de Estandarización en el Diario Oficial de la Federación y en la [Plataforma Tecnológica Integral de Infraestructura de la Calidad](articulo-4.md).
-
-Capítulo III Las Autoridades Normalizadoras en la Labor de Estandarización

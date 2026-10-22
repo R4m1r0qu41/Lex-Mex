@@ -25,7 +25,9 @@ II. Convocar a las reuniones ordinarias de la comisión o comité, con una antic
 
 III. Elaborar y suscribir las convocatorias a Reunión, conforme al orden del día aprobado por la Junta Directiva y cuando corresponda para dictámenes, se extenderá la Convocatoria al diputado o diputada iniciante; Fracción reformada DOF 14-11-2016
 
-IV. Abrir, prorrogar, suspender, declarar en Reunión permanente y levantar las reuniones de la comisión o comité; Fracción reformada DOF 20-04-2011 V. Conceder el uso de la palabra, dirigir los debates, discusiones y deliberaciones, ordenar el cómputo de la votación y formular la declaración del resultado correspondiente;
+IV. Abrir, prorrogar, suspender, declarar en Reunión permanente y levantar las reuniones de la comisión o comité; Fracción reformada DOF 20-04-2011
+
+V. Conceder el uso de la palabra, dirigir los debates, discusiones y deliberaciones, ordenar el cómputo de la votación y formular la declaración del resultado correspondiente;
 
 VI. Dar cuenta a la Junta Directiva y a la comisión o comité, en su caso, de los asuntos turnados para su atención y desahogo oportuno;
 

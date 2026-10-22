@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Segundo · Capítulo V
+
 # Artículo 121
 
 El personal formado y capacitado de acuerdo al [Convenio STCW](articulo-10.md) y/o cualquier otro convenio internacional del que el Estado Mexicano sea parte en materia de Educación Marítima Mercante, deberá actualizar en los términos de este Reglamento, su formación y capacitación, en la inteligencia que de no hacerlo, no podrán desempeñar los cargos para las categorías correspondientes.

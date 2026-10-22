@@ -48,5 +48,3 @@ j) En la sesión correspondiente de la Cámara de Diputados, se dará a conocer 
 k) Aprobado el dictamen, cuando así lo acuerde el Presidente, el candidato cuyo nombramiento se apruebe en los términos del presente Capítulo, rendirá la protesta constitucional ante el Pleno de la Cámara de Diputados en la misma sesión.
 
 Artículo adicionado DOF 27-01-2017
-
-Sección Tercera De la Responsabilidad de los Titulares de los Órganos Internos de Control Sección adicionada DOF 27-01-2017

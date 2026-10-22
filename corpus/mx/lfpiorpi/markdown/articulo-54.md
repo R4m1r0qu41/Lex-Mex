@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPIORPI.pdf
 source_sha256: 2e35228bd3100a3a137f313359833c4836f2b4b6d4e52e1ce4fe58a970cd768f
 ---
 
+> Capítulo VII
+
 # Artículo 54
 
 Las multas aplicables para los supuestos del [artículo anterior](articulo-53.md) de esta [Ley](articulo-3.md) serán las siguientes: I. Se aplicará multa equivalente a doscientos y hasta dos mil veces el valor diario de la [UMA](articulo-3.md) en el caso de las fracciones I, II, III y IV del artículo [53](articulo-53.md) de esta Ley; Fracción reformada DOF 16-07-2025

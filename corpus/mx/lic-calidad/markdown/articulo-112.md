@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LICal_010720.pdf
 source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 ---
 
-> Título PRIMERO
+> Título PRIMERO · Capítulo IV
 
 # Artículo 112
 
@@ -31,4 +31,4 @@ V. Los donativos, aportaciones, legados en dinero y/o especie, previa informaci�
 
 VI. Otros bienes que reciba por actos jurídicos o análogos, y
 
-VII. Los demás bienes y derechos que adquiera para la realización de sus fines. Capítulo V De los Institutos Designados de Metrología
+VII. Los demás bienes y derechos que adquiera para la realización de sus fines.

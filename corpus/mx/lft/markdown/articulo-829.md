@@ -38,5 +38,3 @@ III. Se deroga. Fracción derogada DOF 01-05-2019
 IV. Se deroga. Fracción derogada DOF 01-05-2019
 
 Artículo reformado DOF 04-01-1980
-
-Sección Séptima De la Presuncional Sección adicionada DOF 04-01-1980

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Tercero · Capítulo II
+
 # Artículo 255
 
 Los servidores públicos de las Capitanías de Puerto que participen en las labores de [REMAFE](articulo-10.md) quedarán sujetos a un régimen de guardias a fin de que dicha actividad se realice las veinticuatro horas del día de los trescientos sesenta y cinco días del año.

@@ -24,5 +24,3 @@ source_sha256: 6fa1d25c31c4d8c2cc8074208b10a2f3ff35fecce26c1cc03ba18117cfec80d1
 3. Los diputados y diputadas que hayan votado en contra del dictamen, podrán presentar voto particular.
 
 4. En caso de empate, se llevará a cabo el procedimiento establecido en el artículo 45, numeral 7 de la [Ley](articulo-2.md).
-
-Sección Décima Sexta Inasistencias, Justificaciones y Sustituciones

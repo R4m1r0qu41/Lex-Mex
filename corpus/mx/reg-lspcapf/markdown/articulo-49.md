@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSPCAPF.pdf
 source_sha256: b4a968d8e8c138ac2069f6afa0dc622178328df24f59cf58eddbab8efe4a7eff
 ---
 
+> Capítulo Décimo Primero
+
 # Artículo 49
 
 Los servidores públicos de carrera titulares podrán ser sujetos de movimientos o trayectorias laterales, en los casos que así lo soliciten; por necesidades del servicio para ser reubicados en otra área o unidad administrativa de la propia dependencia o de alguna otra, o cuando sus puestos se encuentren en proceso de desaparición con motivo de una reestructuración, observando al efecto los requisitos siguientes:

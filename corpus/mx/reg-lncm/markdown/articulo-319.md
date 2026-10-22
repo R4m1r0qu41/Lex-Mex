@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Tercero · Capítulo III
+
 # Artículo 319
 
 El profesional especializado que pretenda ser autorizado como [INP](articulo-10.md), deberá presentar solicitud por escrito a la [Dirección General](articulo-10.md), así como adjuntar la documentación que le acredite: I. Estar facultado y contar con cédula profesional expedida por autoridad competente para ejercer alguna de las profesiones siguientes:

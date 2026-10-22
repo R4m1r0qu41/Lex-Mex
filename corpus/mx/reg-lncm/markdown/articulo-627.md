@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Tercero · Capítulo IX
+
 # Artículo 627
 
 Los navieros interesados en obtener permiso para la [Prestación de Servicios de Turismo Náutico](articulo-10.md) a terceros, deberán presentar solicitud ante la [Capitanía de Puerto](articulo-10.md) en cuya jurisdicción pretendan prestar el servicio, misma en la que se precisará lo siguiente:

@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPPI.pdf
 source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 ---
 
-> Título SEGUNDO
+> Título SEGUNDO · Capítulo II
 
 # Artículo 57
 
@@ -36,5 +36,3 @@ VII.- Una tercera persona que, en el caso de patentes relacionadas con productos
 VIII.- Una tercera persona que utilice la invención patentada o haya realizado los preparativos necesarios para tal fin, durante el periodo de rehabilitación a que se refiere el artículo [161](articulo-161.md) de esta [Ley](articulo-4.md). Fracción reformada DOF 03-04-2026
 
 La realización de cualquier actividad contemplada en el presente artículo no constituirá infracción administrativa o delito en los términos de esta Ley.
-
-Capítulo III De los Modelos de Utilidad

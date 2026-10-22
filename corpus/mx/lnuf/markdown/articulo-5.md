@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LNUF.pdf
 source_sha256: 0c11f4464286e7411713a80361a2e1ab15c4cc55bff80b4e6ee4a4333592d50c
 ---
 
+> Capítulo II
+
 # Artículo 5
 
 El uso de la fuerza se hará en todo momento con pleno respeto a los derechos humanos.

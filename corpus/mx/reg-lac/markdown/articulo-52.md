@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAC.pdf
 source_sha256: 4dcf5277184d5f5c5cc1c8ae2dfa196134b472d883eb2806c7bac27cd77eda7d
 ---
 
+> Título Segundo · Capítulo III
+
 # Artículo 52
 
 La solicitud que se formule a la Agencia Federal de Aviación Civil para que establezca bases de regulación tarifaria debe presentarse por escrito, en tres tantos, debiendo la persona solicitante: Párrafo reformado DOF 31-05-2023

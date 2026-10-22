@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf
 source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 ---
 
+> Título IV · Capítulo Quinto
+
 # Artículo 86 Bis 2
 
 Para tutelar el ejercicio del derecho de acceso a la información pública gubernamental, la [Comisión](articulo-2.md) ajustándose a los lineamientos que apruebe su Junta de Gobierno, deberá hacer del conocimiento del público en general, a través de su portal de Internet las sanciones que al efecto imponga por infracciones a esta Ley o a las disposiciones que emanen de ella, para lo cual deberán señalar:
@@ -26,5 +28,3 @@ III. El estado que guarda la resolución, indicando si se encuentra firme o bien
 La información antes señalada no será considerada como reservada o confidencial.
 
 Artículo adicionado DOF 10-01-2014
-
-Apartado C De los programas de autocorrección Apartado adicionado DOF 10-01-2014

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAC.pdf
 source_sha256: 4dcf5277184d5f5c5cc1c8ae2dfa196134b472d883eb2806c7bac27cd77eda7d
 ---
 
+> Título Segundo · Capítulo III
+
 # Artículo 37
 
 El contrato que se expida en términos de lo dispuesto por el [artículo anterior](articulo-36.md) debe sujetarse a lo establecido en las disposiciones técnico-administrativas correspondientes y contener como mínimo lo siguiente:

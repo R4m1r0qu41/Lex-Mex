@@ -27,4 +27,6 @@ III. La prevención específica en cada caso y la vigilancia de su cumplimiento;
 
 IV. La realización de estudios epidemiológicos, y
 
-V. La difusión permanente de las dietas, hábitos alimenticios y procedimientos que conduzcan al consumo efectivo de los mínimos de nutrimentos por la población general y no exceder los máximos de azúcares, grasas saturadas, grasas trans y sodio, con base en lo recomendado por la propia Secretaría, y Fracción adicionada DOF 26-12-2005. Reformada DOF 08-11-2019 VI. Las demás que sean necesarias para la prevención, tratamiento y control de los padecimientos que se presenten en la población. Fracción recorrida DOF 26-12-2005
+V. La difusión permanente de las dietas, hábitos alimenticios y procedimientos que conduzcan al consumo efectivo de los mínimos de nutrimentos por la población general y no exceder los máximos de azúcares, grasas saturadas, grasas trans y sodio, con base en lo recomendado por la propia Secretaría, y Fracción adicionada DOF 26-12-2005. Reformada DOF 08-11-2019
+
+VI. Las demás que sean necesarias para la prevención, tratamiento y control de los padecimientos que se presenten en la población. Fracción recorrida DOF 26-12-2005

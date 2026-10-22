@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDFS.pdf
 source_sha256: 2c75fd0eab3245aed43a4e1230dcd142b48959a1df09bdd4e70684935a505dd4
 ---
 
-> Título OCTAVO
+> Título OCTAVO · Capítulo II
 
 # Artículo 155
 
@@ -74,5 +74,3 @@ XXVII. Depositar residuos peligrosos en terrenos forestales o preferentemente fo
 XXIX. Proporcionar información falsa a la Secretaría y a la Comisión, y Fracción adicionada DOF 11-04-2022
 
 XXX. Cualquier otra contravención a lo dispuesto en la presente Ley. Fracción recorrida DOF 11-04-2022
-
-Capítulo III De las Sanciones

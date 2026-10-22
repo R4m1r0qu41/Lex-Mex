@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSPCAPF.pdf
 source_sha256: b4a968d8e8c138ac2069f6afa0dc622178328df24f59cf58eddbab8efe4a7eff
 ---
 
+> Capítulo Décimo Cuarto
+
 # Artículo 77
 
 Cuando se presuma el incumplimiento reiterado e injustificado por parte del servidor público de carrera a sus obligaciones establecidas en la [Ley](articulo-2.md), en los ordenamientos aplicables en materia laboral, así como en otras disposiciones legales y reglamentarias, o en la descripción del puesto, se desahogará el procedimiento establecido conforme al artículo [74](articulo-74.md) de este Reglamento.

@@ -24,5 +24,3 @@ source_sha256: 6fa1d25c31c4d8c2cc8074208b10a2f3ff35fecce26c1cc03ba18117cfec80d1
 4. La sesión permanente podrá darse por terminada cuando así lo acuerde el pleno o cuando se hayan agotado los asuntos que la motivaron. Antes de clausurarla se podrá leer, discutir y aprobar el acta de la misma. Numeral reformado DOF 20-04-2011
 
 5. Cuando se traten asuntos para los cuales la legislación fije un plazo o término, ninguna sesión podrá prorrogarse más allá de dicho término. Numeral reformado DOF 20-04-2011
-
-Sección Sexta Sesiones Secretas Se Deroga Sección derogada DOF 28-12-2016

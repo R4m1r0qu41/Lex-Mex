@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf
 source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 ---
 
+> Título IV · Capítulo Quinto
+
 # Artículo 92
 
 Los delitos previstos en esta Ley únicamente se perseguirán a petición de la Secretaría de Hacienda y Crédito Público, previa opinión de la [Comisión](articulo-2.md), o bien, por querella del ofendido o del titular de la cuenta de que se trate.

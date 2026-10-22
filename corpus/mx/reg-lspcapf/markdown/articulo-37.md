@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSPCAPF.pdf
 source_sha256: b4a968d8e8c138ac2069f6afa0dc622178328df24f59cf58eddbab8efe4a7eff
 ---
 
+> Capítulo Décimo
+
 # Artículo 37
 
 La persona superior jerárquica del puesto en concurso puede, por una sola vez y bajo su responsabilidad, vetar durante la determinación a la persona seleccionada como finalista por los demás integrantes del Comité Técnico de Selección para ocupar el puesto, para lo cual debe fundar y motivar su determinación en el acta correspondiente.

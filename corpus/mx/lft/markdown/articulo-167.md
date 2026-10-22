@@ -17,4 +17,6 @@ source_sha256: 12f09393a1951a91c3f57f579bf611b034edf1a5f78cdbfb828e23ff3a9acbf7
 
 # Artículo 167
 
-Para los efectos de este título, son labores peligrosas o insalubres las que, por la naturaleza del trabajo, por las condiciones físicas, químicas y biológicas del medio en que se presta, o por la composición de la materia prima que se utilice, son capaces de actuar sobre la vida y la salud física y mental de la mujer en estado de gestación, o del producto. Párrafo reformado DOF 31-12-1974 Los reglamentos que se expidan determinarán los trabajos que quedan comprendidos en la definición anterior.
+Para los efectos de este título, son labores peligrosas o insalubres las que, por la naturaleza del trabajo, por las condiciones físicas, químicas y biológicas del medio en que se presta, o por la composición de la materia prima que se utilice, son capaces de actuar sobre la vida y la salud física y mental de la mujer en estado de gestación, o del producto. Párrafo reformado DOF 31-12-1974
+
+Los reglamentos que se expidan determinarán los trabajos que quedan comprendidos en la definición anterior.

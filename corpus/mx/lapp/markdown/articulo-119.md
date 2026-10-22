@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAPP.pdf
 source_sha256: a4505a7bd41bc835f1def6fb030c42d8e74a2cc050d9c8fa08f91c9519e382bf
 ---
 
+> Capítulo Octavo · Sección Primera
+
 # Artículo 119
 
 Con objeto de restablecer el equilibrio económico del proyecto, el desarrollador tendrá derecho a la revisión del contrato cuando, derivado de un acto administrativo, legislativo o jurisdiccional, de autoridad competente, aumente sustancialmente el costo de ejecución del proyecto, o se reduzcan, también sustancialmente, los beneficios a su favor.

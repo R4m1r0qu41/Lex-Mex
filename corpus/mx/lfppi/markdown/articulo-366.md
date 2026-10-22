@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPPI.pdf
 source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 ---
 
-> Título SEXTO
+> Título SEXTO · Capítulo II
 
 # Artículo 366
 
@@ -24,5 +24,3 @@ I.- La donación de los bienes a dependencias y entidades de la Administración 
 II.- La destrucción de los mismos, sin compensación alguna.
 
 Lo anterior, sin perjuicio del acuerdo al que pudieran llegar las partes sobre el destino de los bienes asegurados durante la tramitación del procedimiento.
-
-Capítulo III De las Notificaciones

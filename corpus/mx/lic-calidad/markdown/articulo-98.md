@@ -13,10 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LICal_010720.pdf
 source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 ---
 
-> Título PRIMERO
+> Título PRIMERO · Capítulo II
 
 # Artículo 98
 
 La [Secretaría](articulo-4.md), en su caso, coadyuvada por el Centro Nacional de Metrología, verificará el uso del [Sistema General de Unidades de Medida](articulo-4.md) en los ámbitos público y privado.
-
-Capítulo III De la Trazabilidad de las Medidas

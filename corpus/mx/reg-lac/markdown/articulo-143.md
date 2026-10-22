@@ -13,11 +13,13 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAC.pdf
 source_sha256: 4dcf5277184d5f5c5cc1c8ae2dfa196134b472d883eb2806c7bac27cd77eda7d
 ---
 
-> Título TERCERO · Capítulo I BIS
+> Título Cuarto · Capítulo VII
 
 # Artículo 143
 
-La persona permisionaria del taller debe: Párrafo reformado DOF 31-05-2023 I. Elaborar y mantener actualizado un manual de procedimientos del taller conforme a las normas oficiales mexicanas correspondientes y debe asegurarse que todo el personal que labore en el mismo lo conozca y cumpla;
+La persona permisionaria del taller debe: Párrafo reformado DOF 31-05-2023
+
+I. Elaborar y mantener actualizado un manual de procedimientos del taller conforme a las normas oficiales mexicanas correspondientes y debe asegurarse que todo el personal que labore en el mismo lo conozca y cumpla;
 
 II. Integrar un expediente con la documentación profesional de capacidades y experiencia de cada persona integrante del personal técnico aeronáutico que labore en el mismo; Fracción reformada DOF 31-05-2023
 

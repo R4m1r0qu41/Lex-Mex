@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSPCAPF.pdf
 source_sha256: b4a968d8e8c138ac2069f6afa0dc622178328df24f59cf58eddbab8efe4a7eff
 ---
 
+> Capítulo Décimo Primero
+
 # Artículo 43
 
 El Subsistema de Desarrollo Profesional se integra con los procedimientos y mecanismos con base en los cuales los servidores públicos de carrera titulares pueden adquirir experiencias y fortalecer su desarrollo profesional para, en su caso, ocupar plazas vacantes de igual o mayor jerarquía tanto en las dependencias, como en instituciones públicas o privadas con las que las dependencias tengan convenios celebrados. Párrafo reformado DOF 04-01-2024

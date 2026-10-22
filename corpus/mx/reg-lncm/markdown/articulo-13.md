@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Primero · Capítulo III
+
 # Artículo 13
 
 Además de los clubes de protección e indemnización que cumplan con lo establecido en esta sección, podrán ser reconocidas de modo similar, las instituciones de seguros nacionales y entidades del exterior equivalentes, siempre y cuando cumplan con los requisitos del [artículo anterior](articulo-12.md) de esta sección.

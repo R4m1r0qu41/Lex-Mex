@@ -20,5 +20,3 @@ source_sha256: 6fa1d25c31c4d8c2cc8074208b10a2f3ff35fecce26c1cc03ba18117cfec80d1
 1. Los diputados y diputadas tendrán los mismos derechos, obligaciones y prerrogativas, sin importar su filiación política o sistema de elección. Numeral reformado DOF 20-04-2011
 
 2. Los diputados y diputadas no gozarán de remuneración adicional por el desempeño de sus tareas, comisiones o cualquier otra responsabilidad derivada de su cargo.
-
-Sección Primera Derechos de Diputados y Diputadas

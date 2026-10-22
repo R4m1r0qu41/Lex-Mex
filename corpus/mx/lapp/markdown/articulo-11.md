@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAPP.pdf
 source_sha256: a4505a7bd41bc835f1def6fb030c42d8e74a2cc050d9c8fa08f91c9519e382bf
 ---
 
+> Capítulo Primero
+
 # Artículo 11
 
 La Secretaría de la Función Pública incluirá en el sistema electrónico de información pública gubernamental [CompraNet](articulo-12.md), por secciones debidamente separadas, la información relativa a los proyectos de asociación público-privada federales, así como de las propuestas no solicitadas que reciban las dependencias y entidades de la Administración Pública Federal a que se refiere la presente [Ley](articulo-12.md). Este sistema será de consulta gratuita y constituirá un medio por el cual podrán desarrollarse procedimientos de contratación. Párrafo reformado DOF 21-04-2016

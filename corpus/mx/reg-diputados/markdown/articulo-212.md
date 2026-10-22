@@ -18,5 +18,3 @@ source_sha256: 6fa1d25c31c4d8c2cc8074208b10a2f3ff35fecce26c1cc03ba18117cfec80d1
 # Artículo 212
 
 1. Las comisiones, sólo de manera extraordinaria y con el permiso de la [Junta](articulo-2.md), podrán reunirse durante las sesiones del Pleno. En caso de que se presente una votación en el Pleno, se decretará un receso, en la Reunión de la comisión, en tanto los integrantes acuden a votar.
-
-Sección Vigésima Segunda Publicidad, Difusión y Acceso a la Información de las Comisiones y Comités

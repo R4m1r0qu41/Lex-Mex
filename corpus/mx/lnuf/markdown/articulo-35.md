@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LNUF.pdf
 source_sha256: 0c11f4464286e7411713a80361a2e1ab15c4cc55bff80b4e6ee4a4333592d50c
 ---
 
+> Capítulo IX
+
 # Artículo 35
 
 Las instituciones de seguridad deberán presentar informes públicos anuales que permitan conocer el desarrollo de las actividades que involucren el uso de la fuerza.

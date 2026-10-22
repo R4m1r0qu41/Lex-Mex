@@ -1,5 +1,100 @@
 # Architecture decisions
 
+## 2026-10-21 — Resolved structural debt retains accepted history; seed version 3
+
+Three operator-accepted LGS headings are standalone provisions at
+`cd6cd22451437322287b974c23349b6d6ca9a33a`: 60 Decies, 192 Quintus and 192 Sextus.
+This is technical resolution of accepted debt, not reversal of a legal decision.
+The October 18 decision and October 19 accepted review ledger remain byte-identical.
+
+The production seed is version 3: 14 active rows plus 3 retirement records. Each
+retirement retains its exact original accepted row, resolving ancestor commit,
+standalone provision ID and resolving source blob/SHA. Active plus retired rows
+must equal all 17 accepted rows exactly, including review metadata; duplicates,
+drops, substitutions and promotions are rejected. Retired rows are excluded
+from active SQL debt rows but preserved in the raw pinned seed input. Both the
+builder and independent verifier check historical acceptance/span and resolving
+and current target existence, owner/type/number/body, ancestor history and removal
+of the original embedded heading. A later missing target invalidates retirement.
+Version-2 seeds remain accepted with their original exact-active-set rule.
+
+This reuses the reconciliation-history principle from the October 19 refresh
+without inventing an unchecked `resolved` review status, rebinding acceptance to
+an uncommitted ledger or editing old human decisions.
+
+
+## 2026-10-21 — Heading-leak sources re-fetched; 39 instruments reparsed; three parser defects fixed
+
+**Why.** The 2026-10-19 heading-leak reparse covered only instruments with hash-matching retained source and left the rest as debt. A census at `e718da2e5` counted 725 provisions in 51 instruments whose text ends with the next heading. It used the recorded pattern widened to `Libro`, `Único`, ordinal words and names up to 120 characters; the recorded pattern alone gives 462 in 43. A spot check of the added matches found only real headings (`Sección Segunda …`, `Capítulo Único`). 46 of the 51 lacked retained source.
+
+**Re-fetch (scratch clone; no manifest committed).** All 46 were fetched and extracted under a scratch root.
+- **43 are unchanged.** The source and extracted-text hashes equal the committed manifest, so the committed manifests stay as they are. Only the `pdftotext` version in the extraction differs (26.06/26.07 → 26.09), and its output is byte-identical. The 43 sources are now retained in `.work/`.
+- **3 are new editions, not reparsed:** cub-dcg-2005, reg-laero and socap-sofipo-dcg-2006. Each needs its own re-ingestion review.
+
+**Not reparsed although their source matches:**
+- **lritf:** JRH's reviewed corpus. A reparse would rewrite reviewed text, so it is held for JRH.
+- **lgoaac, oaac-dcg-2009 and scap-dcg-2012:** the parser removes none of their headings, because it doesn't read those heading forms yet. Their only differences would be a dropped signature (lgoaac) and CNBV marginal numbers moved to `amendment_marks` (the two DCGs), unrelated CNBV-parser drift.
+
+**Parser defects found by the reparse, each fixed with a fixture:**
+- **locg lost its `Transitorio Único`, added by the decree of DOF 15-11-2007.** Since the 2026-10-19 signature rule, an enactment signature ends the statute. The Cámara prints this added transitory after the 1999 signatures, under `SE ESTABLECE UN ARTÍCULO TRANSITORIO ÚNICO DE LA LEY …`, so the whole text was silently dropped. It appeared in neither the provisions nor the reform evidence.
+  - **Fix:** a signature inside the statute transitories now closes the open provision. The next block is then read: that heading reopens the transitories, and anything else ends the statute as before.
+  - Only locg prints this heading among all 353 retained sources.
+  - **Fixture:** `transitory-added-after-enactment-signature-sample.txt`.
+- **lfcpq failed closed** ("found reform transitory without its containing act heading"). Its appendix holds executive `ACUERDO por el que …` instruments that amend the substances list in Article 4.
+  - **Fix:** `ACUERDO` followed by a lower-case word is an act title inside the reform appendix, labelled `Acuerdo`.
+  - **Effect:** lfcpq's reform evidence goes 21 → 29.
+  - **Fixture:** `reform-acuerdo-title-sample.txt`.
+- **lsar parsed a duplicate `article:1`.** In its omnibus decree, `ARTICULO PRIMERO.- De la Ley de los Sistemas de Ahorro para el Retiro.` only names the law it carries.
+  - **Fix:** a decree article whose whole text is `De la Ley …` is a wrapper.
+  - Only lsar prints this form.
+  - The committed July parse was correct; the current parser introduced the duplicate, and `validate` caught it.
+  - **Fixture:** `decree-article-names-the-law-sample.txt`.
+
+**A/B census of the three fixes.** Every instrument with retained, hash-matching source was parsed under `e718da2e5` and under this change: 353 instruments in all, including the 43 newly retained.
+- **347 are byte-identical.**
+- locg, lfcpq and lsar change as described.
+- **Label-only changes in ccom, lfpc and lgs:** reform-evidence labels for acuerdos already captured by the publication-note fallback move from `Acto` to `Acuerdo`. Their IDs and text are unchanged.
+- ccom and lfpc keep their committed parse until their next reparse.
+
+**What.** 39 instruments are reparsed with `derive-temporal` rerun: lapp, lcm, lfcpq, lfda, lfi, lfpiorpi, lfppi, lfrcf, lft, lgdfs, lgmsv, lgra, lgs, lgsna, lic-calidad, linfonacot, lins, lissste, lnrd, lnuf, locg, lotfja, lsar, ltf, reg-diputados, reg-lac, reg-lan, reg-lapp, reg-lbogm, reg-lfea, reg-lfpc, reg-lgdfs, reg-lgn, reg-lgpgir, reg-lgs-mp, reg-lgs-mt, reg-lncm, reg-lspcapf and reg-ltf.
+
+Every text change was classified:
+- trailing headings removed (plus 17 mid-text);
+- whitespace and paragraph breaks restored (137);
+- 34 promulgation signature blocks dropped, under the existing signature-is-apparatus rule;
+- recovered provisions:
+  - lgs `60 Decies`, `192 Quintus` and `192 Sextus`, printed inside the previous article;
+  - lissste transitories `CUADRAGÉSIMO`–`CUADRAGÉSIMO OCTAVO`, previously inside `TRIGÉSIMO NOVENO`.
+
+**Measured.**
+- **Leaks.** 725 leaking provisions in 51 instruments become 125 in 12. The remaining 12:
+  - the three new editions;
+  - lritf (held);
+  - forms the parser does not read yet: cucb-, cue-, fi-dcg-2014, oaac-, scap-dcg and lan, lfped, lgoaac.
+- **Provisions.** 8,481 → 8,493 in the 39, with no ID lost.
+- **Count baselines,** re-proposed and still machine-proposed: lgs 730 → 733 articles, lissste 39 → 48 transitories.
+- **Temporal state.** After `derive-temporal`, every determination matches except seven articles that gain their law's commencement date with unchanged status: lcm 244, lfda 114 and 156, reg-diputados 284, reg-lac 92 and 97, reg-lapp 15. Each one's leaked heading carried a `… adicionado/reformada DOF` note that made the article read as amended. The 12 recovered provisions are `not_analyzed`. No reviewed provision exists in the 39.
+- **References.** 4,315 → 4,295 in the 39; corpus 35,950 → 35,930.
+  - Lost:
+    - 21 CPEUM Art. 89 edges from dropped promulgation formulas;
+    - reg-lfea's LOAPF Art. 18, inside a signature;
+    - lgs's self-edge to Art. 192, made from the heading `Artículo 192 Quintus` inside 192 Quater;
+    - lissste's four `TRIGÉSIMO NOVENO` edges, which move to the recovered transitories.
+  - Gained: three intra-instrument edges from restored paragraph breaks.
+- **Glossary.** Terms unchanged. Usages 14,964 → 14,828, from terms inside removed headings and signatures (`Capítulo II Del concurso mercantil de las Instituciones Financieras`).
+- **Reform evidence.** 767 → 1,247, from accumulated extraction improvements since July plus lfcpq's acuerdos.
+- **Closure.** `link --all` relinks 0 and rejects exactly the 5 accepted gaps.
+
+**Open: the DB debt seed must retire three resolved rows (for Codex).** `db project` now stops with `stale debt source: corpus/mx/lgs/provisions.json`.
+- The seed's three accepted lgs merged-heading rows (`60 Decies`, `192 Quintus`, `192 Sextus`, operator-accepted 2026-10-18) are exactly the articles this reparse splits out. `validate_seed` correctly refuses resolved debt left in the seed.
+- The other 14 rows are untouched.
+- **Rehearsal, in a scratch clone only:**
+  - the ledger rows were marked `resolved` with the resolving commit and article IDs, and `status_counts` set to 14/30/10/3;
+  - the seed was cut to 14 rows and rebound to the ledger commit;
+  - results: two byte-identical builds (`corpus.sqlite` `24be25a1…`, logical `d236bc4e…`), `verify` passes with no stale inputs, `check-seed` validates 14 rows, and all 21 goldens pass unchanged;
+  - census: 68,341 provisions, 35,930 references, 97,672 usages, 14 known debt rows.
+- **Not committed,** because `resolved` is a new review-ledger status. The 2026-10-19 contract refresh kept its 60 resolved rows in reconciliation history instead, so the retirement format is Codex's to choose.
+
 ## 2026-10-20 — Codex review of the rulings branch: accepted-gap refreshes are published; parsed partial repeals keep their provenance
 
 **Source.** Codex's review of `parser/operator-rulings-2026-10-20` at `1647daaa8` (`docs/batch-fixes-and-rulings-review-2026-10-20.md` in the DB worktree). Both findings were fixed without an operator decision, under the operator's standing instruction.

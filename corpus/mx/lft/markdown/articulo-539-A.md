@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFT.pdf
 source_sha256: 12f09393a1951a91c3f57f579bf611b034edf1a5f78cdbfb828e23ff3a9acbf7
 ---
 
-> Título ONCE · Capítulo III
+> Título ONCE · Capítulo IV
 
 # Artículo 539-A
 

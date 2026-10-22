@@ -1,5 +1,5 @@
 {
-  "schema_version": "2",
+  "schema_version": "3",
   "source_corpus_commit": "6505baf57c7aa7051cffe62742f46f10276a834a",
   "decision_source_path": "docs/decisions.md",
   "decision_source_sha256": "5dab2f8d004e809ca509779633b9aba5341ca0ca1eee5972bf4bd61a09826ae9",
@@ -227,54 +227,6 @@
       "reviewer": "operator",
       "reviewed_at": "2026-10-18",
       "decision_reference": "docs/decisions.md#2026-10-18-merged-headings-are-split-into-their-own-articles-letter-series-accepted-by-equivalence"
-    },
-    {
-      "instrument_id": "urn:lex-mx:federal:statute:lgs",
-      "kind": "merged_heading",
-      "printed_label": "60 Decies",
-      "heading_text": "Artículo 60 Decies.-",
-      "containing_provision_id": "urn:lex-mx:federal:statute:lgs:article:60-nonies",
-      "start_char": 328,
-      "end_char": 348,
-      "source_path": "corpus/mx/lgs/provisions.json",
-      "source_blob_oid": "ef0f0f7adea6a50323d6c7ae4c0151364c1e590b",
-      "source_sha256": "3bca60da11c7b077efc4186be4497341faaa16ee5e86818af33e31a1f6644fca",
-      "review_status": "accepted",
-      "reviewer": "operator",
-      "reviewed_at": "2026-10-18",
-      "decision_reference": "docs/decisions.md#2026-10-18-merged-headings-are-split-into-their-own-articles-letter-series-accepted-by-equivalence"
-    },
-    {
-      "instrument_id": "urn:lex-mx:federal:statute:lgs",
-      "kind": "merged_heading",
-      "printed_label": "192 Quintus",
-      "heading_text": "Artículo 192 Quintus.-",
-      "containing_provision_id": "urn:lex-mx:federal:statute:lgs:article:192-quater",
-      "start_char": 1333,
-      "end_char": 1355,
-      "source_path": "corpus/mx/lgs/provisions.json",
-      "source_blob_oid": "ef0f0f7adea6a50323d6c7ae4c0151364c1e590b",
-      "source_sha256": "3bca60da11c7b077efc4186be4497341faaa16ee5e86818af33e31a1f6644fca",
-      "review_status": "accepted",
-      "reviewer": "operator",
-      "reviewed_at": "2026-10-18",
-      "decision_reference": "docs/decisions.md#2026-10-18-merged-headings-are-split-into-their-own-articles-letter-series-accepted-by-equivalence"
-    },
-    {
-      "instrument_id": "urn:lex-mx:federal:statute:lgs",
-      "kind": "merged_heading",
-      "printed_label": "192 Sextus",
-      "heading_text": "Artículo 192 Sextus.-",
-      "containing_provision_id": "urn:lex-mx:federal:statute:lgs:article:192-quater",
-      "start_char": 3059,
-      "end_char": 3080,
-      "source_path": "corpus/mx/lgs/provisions.json",
-      "source_blob_oid": "ef0f0f7adea6a50323d6c7ae4c0151364c1e590b",
-      "source_sha256": "3bca60da11c7b077efc4186be4497341faaa16ee5e86818af33e31a1f6644fca",
-      "review_status": "accepted",
-      "reviewer": "operator",
-      "reviewed_at": "2026-10-18",
-      "decision_reference": "docs/decisions.md#2026-10-18-merged-headings-are-split-into-their-own-articles-letter-series-accepted-by-equivalence"
     }
   ],
   "review_source_path": "docs/sqlite-structural-debt-review-2026-10-19.json",
@@ -284,6 +236,77 @@
       "reference": "docs/decisions.md#2026-10-18-merged-headings-are-split-into-their-own-articles-letter-series-accepted-by-equivalence",
       "heading": "## 2026-10-18 — Merged headings are split into their own articles; letter series accepted by equivalence",
       "sha256": "314192b578908d5edf788f6806aa29c186e6c7943f62501b8f21b8554c56e6c9"
+    }
+  ],
+  "retirements": [
+    {
+      "row": {
+        "instrument_id": "urn:lex-mx:federal:statute:lgs",
+        "kind": "merged_heading",
+        "printed_label": "60 Decies",
+        "heading_text": "Artículo 60 Decies.-",
+        "containing_provision_id": "urn:lex-mx:federal:statute:lgs:article:60-nonies",
+        "start_char": 328,
+        "end_char": 348,
+        "source_path": "corpus/mx/lgs/provisions.json",
+        "source_blob_oid": "ef0f0f7adea6a50323d6c7ae4c0151364c1e590b",
+        "source_sha256": "3bca60da11c7b077efc4186be4497341faaa16ee5e86818af33e31a1f6644fca",
+        "review_status": "accepted",
+        "reviewer": "operator",
+        "reviewed_at": "2026-10-18",
+        "decision_reference": "docs/decisions.md#2026-10-18-merged-headings-are-split-into-their-own-articles-letter-series-accepted-by-equivalence"
+      },
+      "resolved_at_commit": "cd6cd22451437322287b974c23349b6d6ca9a33a",
+      "provision_id": "urn:lex-mx:federal:statute:lgs:article:60-decies",
+      "source_path": "corpus/mx/lgs/provisions.json",
+      "source_blob_oid": "a0558489584108c99c1beaf9ebf270844bd14c25",
+      "source_sha256": "82d22b22d4221542b9805634a269da8bf270d4bedc788fe7c931c1b97b17b7b7"
+    },
+    {
+      "row": {
+        "instrument_id": "urn:lex-mx:federal:statute:lgs",
+        "kind": "merged_heading",
+        "printed_label": "192 Quintus",
+        "heading_text": "Artículo 192 Quintus.-",
+        "containing_provision_id": "urn:lex-mx:federal:statute:lgs:article:192-quater",
+        "start_char": 1333,
+        "end_char": 1355,
+        "source_path": "corpus/mx/lgs/provisions.json",
+        "source_blob_oid": "ef0f0f7adea6a50323d6c7ae4c0151364c1e590b",
+        "source_sha256": "3bca60da11c7b077efc4186be4497341faaa16ee5e86818af33e31a1f6644fca",
+        "review_status": "accepted",
+        "reviewer": "operator",
+        "reviewed_at": "2026-10-18",
+        "decision_reference": "docs/decisions.md#2026-10-18-merged-headings-are-split-into-their-own-articles-letter-series-accepted-by-equivalence"
+      },
+      "resolved_at_commit": "cd6cd22451437322287b974c23349b6d6ca9a33a",
+      "provision_id": "urn:lex-mx:federal:statute:lgs:article:192-quintus",
+      "source_path": "corpus/mx/lgs/provisions.json",
+      "source_blob_oid": "a0558489584108c99c1beaf9ebf270844bd14c25",
+      "source_sha256": "82d22b22d4221542b9805634a269da8bf270d4bedc788fe7c931c1b97b17b7b7"
+    },
+    {
+      "row": {
+        "instrument_id": "urn:lex-mx:federal:statute:lgs",
+        "kind": "merged_heading",
+        "printed_label": "192 Sextus",
+        "heading_text": "Artículo 192 Sextus.-",
+        "containing_provision_id": "urn:lex-mx:federal:statute:lgs:article:192-quater",
+        "start_char": 3059,
+        "end_char": 3080,
+        "source_path": "corpus/mx/lgs/provisions.json",
+        "source_blob_oid": "ef0f0f7adea6a50323d6c7ae4c0151364c1e590b",
+        "source_sha256": "3bca60da11c7b077efc4186be4497341faaa16ee5e86818af33e31a1f6644fca",
+        "review_status": "accepted",
+        "reviewer": "operator",
+        "reviewed_at": "2026-10-18",
+        "decision_reference": "docs/decisions.md#2026-10-18-merged-headings-are-split-into-their-own-articles-letter-series-accepted-by-equivalence"
+      },
+      "resolved_at_commit": "cd6cd22451437322287b974c23349b6d6ca9a33a",
+      "provision_id": "urn:lex-mx:federal:statute:lgs:article:192-sextus",
+      "source_path": "corpus/mx/lgs/provisions.json",
+      "source_blob_oid": "a0558489584108c99c1beaf9ebf270844bd14c25",
+      "source_sha256": "82d22b22d4221542b9805634a269da8bf270d4bedc788fe7c931c1b97b17b7b7"
     }
   ]
 }

@@ -26,5 +26,3 @@ II. El transportista conservará una de las copias que le entregue el generador,
 III. El destinatario de los residuos peligrosos conservará la copia del manifiesto que le entregue el transportista, para su archivo, y firmará el original, mismo que deberá remitir de inmediato al generador, y
 
 IV. Si transcurrido un plazo de sesenta días naturales, contados a partir de la fecha en que la empresa de servicios de manejo correspondiente reciba los residuos peligrosos para su transporte, no devuelve al generador el original del manifiesto debidamente firmado por el destinatario, el generador deberá informar a la Secretaría de este hecho a efecto de que dicha dependencia determine las medidas que procedan.
-
-Sección III Reutilización, reciclaje y co-procesamiento

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf
 source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 ---
 
+> Título II · Capítulo Cuarto
+
 # Artículo 14 Bis 8
 
 Para la escisión de los fondos de inversión que se realice conforme a lo dispuesto por este artículo y el artículo [14 Bis 7](articulo-14-Bis-7.md) anterior, los fondos de inversión se deberán sujetar a las disposiciones de carácter general que emita la [Comisión](articulo-2.md) para tales efectos y remitir a la Comisión la documentación siguiente:
@@ -36,5 +38,3 @@ La Comisión podrá ordenar modificaciones a los términos y condiciones en que 
 La Comisión establecerá mediante disposiciones de carácter general la mecánica operativa, para la administración, valuación de los [Activos Objeto de Inversión](articulo-2.md), revelación de información y liquidación del fondo de inversión escindido. Adicionalmente, en las referidas disposiciones se determinarán las características de los Activos Objeto de Inversión que podrán destinarse al fondo de inversión escindido.
 
 Artículo adicionado DOF 10-01-2014
-
-Capítulo Quinto De la disolución, liquidación y concurso mercantil Capítulo adicionado DOF 10-01-2014

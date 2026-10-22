@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Segundo · Capítulo II
+
 # Artículo 70
 
 La [Dirección General](articulo-10.md) deberá emitir la resolución que corresponda en un plazo de cinco días hábiles posteriores a la fecha de cumplimiento de los requisitos previstos en el precepto inmediato anterior, de no hacerlo, se entenderá que ha dado respuesta afirmativa.

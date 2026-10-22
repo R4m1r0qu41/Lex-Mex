@@ -13,10 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGS_MP.pdf
 source_sha256: 0fb9b74e27b7abf66250404ef5ec1c68acdc460e9cff5b381f49224ec6f71003
 ---
 
-> Título DÉCIMO QUINTO
+> Título DÉCIMO QUINTO · Capítulo I
 
 # Artículo 107
 
 La [Secretaría](articulo-2.md) podrá verificar en todo momento que la publicidad que se difunda en cualquier medio, se apegue a lo dispuesto en la [Ley](articulo-2.md), este Reglamento y las normas oficiales mexicanas.
-
-Capítulo II Medidas de seguridad

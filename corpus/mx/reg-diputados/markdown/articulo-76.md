@@ -34,5 +34,3 @@ VI. Efemérides, hasta por tres minutos.
 2. Los diputados y diputadas que tengan registradas más de una iniciativa por Sesión, podrán elegir cuál de ellas presentará en tribuna previo aviso a la [Mesa Directiva](articulo-2.md). Numeral adicionado DOF 20-04-2011
 
 3. Durante la presentación de iniciativas, si el promovente no se encuentra en el Salón de Sesiones en el momento de su intervención, la iniciativa será turnada a la comisión o comisiones correspondientes. Numeral adicionado DOF 20-04-2011
-
-Sección Segunda Iniciativas

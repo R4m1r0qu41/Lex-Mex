@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LNRD_270519.pdf
 source_sha256: 0a9852297132d8972d0c2f77e1b67d614bd296632109065e703bd09254187aea
 ---
 
+> Capítulo I
+
 # Artículo 4
 
 El [Registro](articulo-2.md) forma parte del Sistema Nacional de Información en Seguridad Pública y tiene por objetivo prevenir la violación de los derechos humanos de la persona detenida, actos de tortura, tratos crueles, inhumanos y degradantes, o la desaparición forzada.

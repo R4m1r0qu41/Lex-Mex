@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSPCAPF.pdf
 source_sha256: b4a968d8e8c138ac2069f6afa0dc622178328df24f59cf58eddbab8efe4a7eff
 ---
 
+> Capítulo Décimo Octavo
+
 # Artículo 97
 
 La interposición del recurso de revocación no suspenderá los efectos de la resolución que recaiga en el proceso de selección. En caso de que se determine la revocación de la resolución, el servidor público de carrera continuará en el puesto hasta en tanto se resuelva en definitiva sobre el concurso de que se trate.

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf
 source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 ---
 
+> Título III · Capítulo Cuarto
+
 # Artículo 44
 
 El servicio de valuación de acciones representativas del capital social de fondos de inversión será proporcionado por sociedades valuadoras de acciones de fondos de inversión. El resultado de la valuación determinará el precio de valuación de las distintas series o clases de acciones.

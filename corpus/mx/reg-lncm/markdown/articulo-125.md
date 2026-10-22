@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Segundo · Capítulo V
+
 # Artículo 125
 
 La Educación Marítima Mercante comprenderá los siguientes niveles:
@@ -22,5 +24,3 @@ I. La formación profesional, que corresponde a las licenciaturas de Piloto Nava
 II. El de actualización y postgrado, que se impartirá mediante cursos a los profesionales que desempeñen una actividad dentro de la Marina Mercante, para ascensos de categoría o para preparar personal competente en áreas o actividades específicas, y
 
 III. El de capacitación, que se impartirá mediante cursos al [Personal Subalterno](articulo-10.md) de la Marina Mercante Mexicana, o al que desempeña una actividad dentro de la misma para ascensos o categorías, así como para preparar a la gente dedicada al sector pesquero, de apoyo en la industria costa afuera, transporte de [Pasajeros](articulo-10.md), [Turismo Náutico](articulo-10.md) y/o [Embarcaciones Menores de Recreo y Deportivas](articulo-10.md); o cualquier otra relacionada con Puertos o la Marina Mercante.
-
-Sección III Instituciones de Formación y Capacitación

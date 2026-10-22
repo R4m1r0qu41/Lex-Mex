@@ -26,5 +26,3 @@ II. La descripción de las condiciones geológicas, geo-hidrológicas e hidroló
 52 III. La descripción de las condiciones climáticas y físicas que afecten el comportamiento de los contaminantes, y
 
 IV. La determinación de la distribución y el comportamiento de los contaminantes en el suelo, subsuelo y en los acuíferos con base en los resultados obtenidos.
-
-Sección III Estudios de evaluación del riesgo ambiental

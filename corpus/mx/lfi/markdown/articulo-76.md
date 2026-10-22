@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf
 source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 ---
 
+> Título IV · Capítulo Tercero
+
 # Artículo 76
 
 Los fondos de inversión, sociedades operadoras de fondos de inversión, sociedades distribuidoras de acciones de fondos de inversión y sociedades valuadoras de acciones de fondos de inversión, deberán llevar el sistema de contabilidad que previene el Código de Comercio y los registros o auxiliares que ordene la [Comisión](articulo-2.md). Párrafo reformado DOF 10-01-2014

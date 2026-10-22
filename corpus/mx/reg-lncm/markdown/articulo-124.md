@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Segundo · Capítulo V
+
 # Artículo 124
 
 La formación y capacitación será impartida de acuerdo con lo establecido en este Reglamento y las disposiciones que determine la [Dirección General](articulo-10.md), a través de las siguientes Instituciones Educativas:

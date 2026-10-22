@@ -27,6 +27,8 @@ III. La identificación temprana y la atención oportuna de procesos físicos, m
 
 IV. La orientación educativa en materia de rehabilitación a la colectividad en general, y en particular a las familias que cuenten con alguna persona con discapacidad, promoviendo al efecto la solidaridad social; Fracción reformada DOF 08-04-2013
 
-V. La atención integral de las personas con discapacidad, incluyendo la adaptación de las prótesis, órtesis y ayudas funcionales que requieran; Fracción reformada DOF 08-04-2013 VI. La promoción para adecuar facilidades urbanísticas y arquitectónicas a las necesidades de las personas con discapacidad, y Fracción reformada DOF 08-04-2013
+V. La atención integral de las personas con discapacidad, incluyendo la adaptación de las prótesis, órtesis y ayudas funcionales que requieran; Fracción reformada DOF 08-04-2013
+
+VI. La promoción para adecuar facilidades urbanísticas y arquitectónicas a las necesidades de las personas con discapacidad, y Fracción reformada DOF 08-04-2013
 
 VII. La promoción de la educación y la capacitación para el trabajo, así como la promoción del empleo de las personas en proceso de rehabilitación.

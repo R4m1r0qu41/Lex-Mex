@@ -21,7 +21,9 @@ La persona empleadora quedará eximida de la obligación de reinstalar a la pers
 
 I. Cuando se trate de trabajadores que tengan una antigüedad menor de un año;
 
-II. Si comprueba ante el [Tribunal](articulo-3o.-Ter.md) que el trabajador, por razón del trabajo que desempeña o por las características de sus labores, está en contacto directo y permanente con él y el Tribunal estima, tomando en consideración las circunstancias del caso, que no es posible el desarrollo normal de la relación de trabajo; Fracción reformada DOF 01-05-2019 III. En los casos de trabajadores de confianza;
+II. Si comprueba ante el [Tribunal](articulo-3o.-Ter.md) que el trabajador, por razón del trabajo que desempeña o por las características de sus labores, está en contacto directo y permanente con él y el Tribunal estima, tomando en consideración las circunstancias del caso, que no es posible el desarrollo normal de la relación de trabajo; Fracción reformada DOF 01-05-2019
+
+III. En los casos de trabajadores de confianza;
 
 IV. En el trabajo del hogar; Fracción reformada DOF 01-05-2019, 02-07-2019, 24-12-2024
 

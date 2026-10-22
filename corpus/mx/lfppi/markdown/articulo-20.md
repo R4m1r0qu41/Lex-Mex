@@ -13,11 +13,13 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPPI.pdf
 source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 ---
 
-> Título PRIMERO
+> Título PRIMERO · Capítulo II
 
 # Artículo 20
 
-Cuando se efectúe una notificación por [Gaceta](articulo-4.md) se enviará un aviso informativo a la persona solicitante, en la misma fecha de su publicación. Párrafo reformado DOF 03-04-2026 Las notificaciones se entenderán realizadas con su sola publicación en la Gaceta, con independencia del envío y recepción del aviso al que se refiere el presente artículo.
+Cuando se efectúe una notificación por [Gaceta](articulo-4.md) se enviará un aviso informativo a la persona solicitante, en la misma fecha de su publicación. Párrafo reformado DOF 03-04-2026
+
+Las notificaciones se entenderán realizadas con su sola publicación en la Gaceta, con independencia del envío y recepción del aviso al que se refiere el presente artículo.
 
 El aviso deberá contener, cuando menos, el número de expediente, la fecha y número de oficio, la descripción general del asunto y el enlace electrónico al documento, en su caso. El aviso podrá estar relacionado con uno o más expedientes.
 

@@ -34,5 +34,3 @@ VI. La determinación de los niveles de remediación específicos del sitio con 
 VII. La descripción de las suposiciones hechas a lo largo de los cálculos efectuados y de las limitaciones e incertidumbres de los datos en los cuales se basa la evaluación del riesgo a la salud humana, y la caracterización total del riesgo, entendiendo ésta como la conclusión de la evaluación de la información contenida en el presente artículo.
 
 Para la determinación a que se refiere la fracción II del presente artículo podrán utilizarse los perfiles toxicológicos aceptados internacionalmente.
-
-Sección V Propuestas de remediación

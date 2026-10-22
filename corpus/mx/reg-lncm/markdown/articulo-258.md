@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Tercero · Capítulo III
+
 # Artículo 258
 
 El presente Capítulo tiene por objeto reglamentar la construcción, así como la reparación y modificación significativas de Embarcaciones y Artefactos Navales de Bandera Mexicana, al igual que el reconocimiento, [Inspección](articulo-10.md), supervisión, verificación y certificación de sus condiciones de seguridad para la Navegación, prevención de la contaminación y operación, incluyendo a las Embarcaciones y Artefactos Navales de bandera extranjera, que operen en zonas marinas mexicanas en los términos previstos por la [Ley](articulo-10.md) y conforme a los Tratados y Convenios Internacionales de los que el Estado Mexicano sea parte.

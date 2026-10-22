@@ -26,5 +26,3 @@ II. Mantener el saldo de su Cuenta Individual en el [PENSIONISSSTE](articulo-6.m
 Ambos supuestos se sujetarán a lo establecido en esta Ley y en las disposiciones administrativas que expida la Comisión Nacional del Sistema de Ahorro para el Retiro.
 
 El [Pensionado](articulo-6.md) que opte por la alternativa prevista en la fracción II podrá, en cualquier momento, contratar una Renta vitalicia de acuerdo con lo dispuesto en la fracción I. El Pensionado no podrá optar por la alternativa señalada si la Renta mensual vitalicia a convenirse fuera inferior a la [Pensión Garantizada](articulo-6.md).
-
-Sección III Pensión por Vejez

@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGRA.pdf
 source_sha256: 1289ec6964e48c84990572ca6080ca05c9d6210e5b0ff5af6d8c9d935fc5fcc8
 ---
 
-> Título SEGUNDO
+> Título SEGUNDO · Capítulo III
 
 # Artículo 43
 
@@ -22,5 +22,3 @@ La [Plataforma digital nacional](articulo-3.md) incluirá, en un sistema especí
 Los formatos y mecanismos para registrar la información serán determinados por el [Comité Coordinador](articulo-3.md).
 
 La información a que se refiere el presente artículo deberá ser puesta a disposición de todo público a través de un portal de Internet.
-
-Sección quinta Del protocolo de actuación en contrataciones

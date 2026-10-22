@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAPP.pdf
 source_sha256: a4505a7bd41bc835f1def6fb030c42d8e74a2cc050d9c8fa08f91c9519e382bf
 ---
 
+> Capítulo Séptimo · Sección Tercera
+
 # Artículo 110
 
 Si los derechos derivados del contrato de asociación público-privada y, en su caso, de las autorizaciones para la prestación de los servicios, o bien los inmuebles, bienes y derechos incorporados a la infraestructura o destinados a la prestación de servicios, no considerados públicos, fueron dados en garantía o afectados de cualquier manera, y dichas garantías o afectaciones se hicieren efectivas, los titulares de las mismas sólo tendrán derecho a los flujos generados por el proyecto, después de deducir los gastos y gravámenes fiscales de los mismos.

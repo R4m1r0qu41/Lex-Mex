@@ -26,5 +26,3 @@ De no encontrarse ésta en el domicilio se le declarará confeso o por reconocid
 Los certificados médicos deberán contener el nombre y número de cédula profesional de quien los expida, la fecha y el estado patológico que impide la comparecencia del citado. Los certificados médicos expedidos por instituciones públicas de seguridad social no requieren ser ratificados.
 
 Artículo reformado DOF 04-01-1980. Fe de erratas DOF 30-01-1980. Reformado DOF 30-11-2012
-
-Sección Segunda De la Confesional Sección adicionada DOF 04-01-1980

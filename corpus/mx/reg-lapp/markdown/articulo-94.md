@@ -13,12 +13,10 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAPP_200217.pdf
 source_sha256: 4ff895e3a71cad0980a03360585d24750d7e165b6ea2537fc44c5c05f9142ce7
 ---
 
-> Capítulo QUINTO
+> Capítulo QUINTO · Sección Primera
 
 # Artículo 94
 
 La aplicación de los factores previstos en el artículo 68 de la Ley deberá procurar la mayor equidad en la valuación, misma que se realizará de conformidad con los lineamientos que expida el Instituto de Administración y Avalúos de Bienes Nacionales.
 
 Artículo reformado DOF 20-02-2017
-
-Sección Segunda De las Adquisiciones por Vía Convencional

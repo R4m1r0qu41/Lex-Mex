@@ -13,12 +13,10 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPPI.pdf
 source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 ---
 
-> Título QUINTO
+> Título QUINTO · Capítulo IV
 
 # Artículo 314
 
 Las declaraciones administrativas de nulidad, cancelación y caducidad se harán por el [Instituto](articulo-4.md) de oficio, a petición de parte o del Ministerio Público Federal.
 
 La caducidad a que se refiere la fracción II del [artículo anterior](articulo-313.md), no requerirá de declaración administrativa por parte del Instituto.
-
-Capítulo V Del Reconocimiento a las Denominaciones de Origen e Indicaciones Geográficas Protegidas en el Extranjero

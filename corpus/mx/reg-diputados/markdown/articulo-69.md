@@ -21,6 +21,8 @@ source_sha256: 6fa1d25c31c4d8c2cc8074208b10a2f3ff35fecce26c1cc03ba18117cfec80d1
 
 2. La comisión a la que corresponda opinar, deberá remitir su parecer a la comisión dictaminadora, en un plazo máximo de treinta días, a partir de la recepción formal del asunto. La opinión deberá ser aprobada por mayoría absoluta de la comisión que la emite. Si vencido el plazo no se hubiese formulado la opinión, se entenderá que la comisión respectiva declina realizarla. Numeral reformado DOF 20-04-2011
 
-3. En el caso de la Iniciativa preferente, la Comisión deberá remitir su parecer a la dictaminadora, en un plazo máximo de diez días naturales, de lo contrario se entenderá su declinación. Numeral adicionado DOF 31-12-2012 4. Las opiniones contribuyen a formar el criterio para la elaboración de los dictámenes de las comisiones, pero en ningún caso serán vinculatorias. Numeral reformado y recorrido DOF 31-12-2012
+3. En el caso de la Iniciativa preferente, la Comisión deberá remitir su parecer a la dictaminadora, en un plazo máximo de diez días naturales, de lo contrario se entenderá su declinación. Numeral adicionado DOF 31-12-2012
+
+4. Las opiniones contribuyen a formar el criterio para la elaboración de los dictámenes de las comisiones, pero en ningún caso serán vinculatorias. Numeral reformado y recorrido DOF 31-12-2012
 
 5. En los dictámenes, las comisiones deben anexar copia de la opinión para su publicación. Numeral recorrido DOF 31-12-2012

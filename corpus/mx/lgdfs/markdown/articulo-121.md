@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDFS.pdf
 source_sha256: 2c75fd0eab3245aed43a4e1230dcd142b48959a1df09bdd4e70684935a505dd4
 ---
 
-> Título QUINTO
+> Título QUINTO · Capítulo II
 
 # Artículo 121
 
@@ -24,5 +24,3 @@ Cuando los propietarios y legítimos poseedores de los predios dañados demuestr
 Transcurrido el plazo de dos años sin que el propietario o legítimo poseedor hubiera procedido a la restauración, la [Comisión](articulo-7.md) realizará los trabajos correspondientes con cargo a ellos, quienes deberán pagar la contraprestación respectiva en los términos de las disposiciones aplicables, que tendrá el carácter de crédito fiscal y su recuperación será mediante el procedimiento económico coactivo correspondiente.
 
 Cuando los propietarios y legítimos poseedores de terrenos forestales que hayan sido afectados por incendio, comprueben fehacientemente que los daños sean de una magnitud tal que requieran de un proceso de restauración mayor a los dos años, podrán acudir ante la Comisión para solicitar la ampliación de plazo a que se refieren los primeros párrafos de este artículo, así como la gestión de apoyos mediante los programas federales y de las Entidades Federativas, aplicables.
-
-Capítulo III De la Conservación y Restauración

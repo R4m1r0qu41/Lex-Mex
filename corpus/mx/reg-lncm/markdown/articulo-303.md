@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Tercero · Capítulo III
+
 # Artículo 303
 
 Para determinar los tipos de Certificados de Seguridad que apliquen a las Embarcaciones o Artefactos Navales, se deberá atender a su operación predominante en viajes nacionales o internacionales. Para este efecto, se entenderá por:

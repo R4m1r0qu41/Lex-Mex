@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPIORPI.pdf
 source_sha256: 2e35228bd3100a3a137f313359833c4836f2b4b6d4e52e1ce4fe58a970cd768f
 ---
 
+> Capítulo VI
+
 # Artículo 39
 
 La información que derive de los [Avisos](articulo-3.md) que se presenten ante las autoridades competentes, será utilizada exclusivamente para la prevención, identificación, investigación y sanción de operaciones con recursos de procedencia ilícita y demás delitos relacionados con éstas.

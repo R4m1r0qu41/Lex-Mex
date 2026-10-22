@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Tercero · Capítulo V
+
 # Artículo 508
 
 Para dar trámite y resolver sobre las solicitudes de quienes pretendan ser Pilotos de Puerto, la [Dirección General](articulo-10.md) conformará un [Comité Técnico](articulo-10.md) que estará integrado por el Capitán de Puerto de la jurisdicción que corresponda a la solicitud, un representante de la Dirección General, el piloto coordinador del cuerpo de pilotos del puerto correspondiente y un representante de la organización en que estén asociados los Pilotos de Puerto en activo. La opinión del Comité Técnico no será vinculante para la Dirección General, quien en todo caso deberá fundar y motivar su resolución.

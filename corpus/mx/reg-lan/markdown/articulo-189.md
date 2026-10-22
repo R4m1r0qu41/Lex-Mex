@@ -13,12 +13,10 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAN_250814.pdf
 source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 ---
 
-> Título DECIMO
+> Título DECIMO · Capítulo II
 
 # Artículo 189
 
 Las multas administrativas que imponga "[La Comisión](articulo-1o.md)", en los términos del Título Décimo de la "[Ley](articulo-1o.md)", se deberán cubrir dentro de los quince días hábiles siguientes a su notificación.
 
 Para la distribución de las multas administrativas efectivamente pagadas, destinadas legalmente a "La Comisión", y con las cuales se constituya el fondo de productividad para el otorgamiento de estímulos y recompensas a los servidores públicos de la misma, se estará a lo dispuesto en el artículo [14](articulo-14.md), fracción XIII, de este "[Reglamento](articulo-1o.md)".
-
-Capítulo III Recurso de Revisión

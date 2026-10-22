@@ -19,7 +19,9 @@ source_sha256: aa6e0e437331debd80d0086155e2d99885ea5e22cb13353c44eb0b1090f0b4d5
 
 También tendrán derecho a los servicios del seguro de salud en caso de enfermedad, los Familiares [Derechohabientes](articulo-6.md) de la Trabajadora o del Trabajador o de la Pensionada o del [Pensionado](articulo-6.md) que enseguida se enumeran: Párrafo reformado DOF 20-01-2023
 
-I. La o el cónyuge del Trabajador o Pensionado, o a falta de éstos la concubina o concubinario que haya vivido como si fuera su cónyuge durante los cinco años anteriores a la enfermedad o con quien tuviese uno o más hijos (as), siempre que ambos permanezcan libres de matrimonio o de unión civil, o la persona que haya suscrito una unión civil con la o el Trabajador o Pensionado. Si la o el Trabajador o la o el Pensionado, tiene varias concubinas o concubinarios, ninguno de ellos tendrá derecho a recibir la prestación; Fracción reformada DOF 20-01-2023 II. Los hijos menores de dieciocho años de ambos o de sólo uno de los cónyuges, siempre que dependan económicamente de alguno de ellos;
+I. La o el cónyuge del Trabajador o Pensionado, o a falta de éstos la concubina o concubinario que haya vivido como si fuera su cónyuge durante los cinco años anteriores a la enfermedad o con quien tuviese uno o más hijos (as), siempre que ambos permanezcan libres de matrimonio o de unión civil, o la persona que haya suscrito una unión civil con la o el Trabajador o Pensionado. Si la o el Trabajador o la o el Pensionado, tiene varias concubinas o concubinarios, ninguno de ellos tendrá derecho a recibir la prestación; Fracción reformada DOF 20-01-2023
+
+II. Los hijos menores de dieciocho años de ambos o de sólo uno de los cónyuges, siempre que dependan económicamente de alguno de ellos;
 
 Del mismo derecho gozarán las y los menores de dieciocho años, sobre quienes el asegurado o pensionado ejerza la patria potestad o guarda y custodia o tutela, acreditada por resolución judicial; Párrafo adicionado DOF 07-06-2024
 
@@ -38,5 +40,3 @@ Los familiares que se mencionan en este artículo tendrán el derecho que esta d
 a) Que el Trabajador o el Pensionado tenga derecho a los servicios de atención médica curativa y de maternidad, así como de rehabilitación física y mental, y
 
 b) Que dichos familiares no tengan por sí mismos derecho a las prestaciones señaladas en el inciso anterior.
-
-Sección V Régimen Financiero

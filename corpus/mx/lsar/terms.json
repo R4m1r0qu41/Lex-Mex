@@ -161,7 +161,7 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lsar:article:3",
     "fraction": "XII",
     "start_char": 3630,
-    "end_char": 3831,
+    "end_char": 3832,
     "basis": "express_definition"
   },
   {
@@ -171,8 +171,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lsar",
     "defining_provision_id": "urn:lex-mx:federal:statute:lsar:article:3",
     "fraction": "XIII",
-    "start_char": 3831,
-    "end_char": 3966,
+    "start_char": 3832,
+    "end_char": 3967,
     "basis": "express_definition"
   },
   {
@@ -182,8 +182,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lsar",
     "defining_provision_id": "urn:lex-mx:federal:statute:lsar:article:3",
     "fraction": "XIII Bis",
-    "start_char": 3966,
-    "end_char": 4132,
+    "start_char": 3967,
+    "end_char": 4133,
     "basis": "express_definition"
   },
   {
@@ -193,8 +193,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lsar",
     "defining_provision_id": "urn:lex-mx:federal:statute:lsar:article:3",
     "fraction": "XIV",
-    "start_char": 4132,
-    "end_char": 4335,
+    "start_char": 4133,
+    "end_char": 4336,
     "basis": "express_definition"
   }
 ]

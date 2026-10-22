@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPPI.pdf
 source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 ---
 
-> Título SEGUNDO
+> Título SEGUNDO · Capítulo VI
 
 # Artículo 106
 
@@ -43,4 +43,6 @@ e) Los documentos que la persona solicitante señale que se acompañan, incluyen
 
 Si el Instituto advierte la omisión o deficiencia de alguno de los elementos señalados en el presente artículo, podrá requerir al solicitante para que precise o aclare lo que se considere necesario o subsane las omisiones, dentro del plazo de dos meses. De no darse cumplimiento a dicho requerimiento dentro del plazo concedido, la solicitud se considerará abandonada.
 
-Si el Instituto advierte la omisión o deficiencia de alguno de los elementos señalados en la fracción II del artículo [42](articulo-42.md) de esta Ley, podrá requerir al finalizar el plazo de tres meses establecido en dicha fracción, que la persona solicitante exhiba la documentación correspondiente dentro del plazo de cinco días hábiles siguientes. De no darse cumplimiento a dicho requerimiento en el plazo señalado, el derecho de prioridad se tendrá como no reclamado. Párrafo adicionado DOF 03-04-2026 El resultado favorable del examen de forma no prejuzgará sobre el cumplimiento de los requisitos necesarios para el otorgamiento de la patente o reconocimiento de los derechos reclamados y que deben ser objeto del examen de fondo de la solicitud, previsto en esta Ley.
+Si el Instituto advierte la omisión o deficiencia de alguno de los elementos señalados en la fracción II del artículo [42](articulo-42.md) de esta Ley, podrá requerir al finalizar el plazo de tres meses establecido en dicha fracción, que la persona solicitante exhiba la documentación correspondiente dentro del plazo de cinco días hábiles siguientes. De no darse cumplimiento a dicho requerimiento en el plazo señalado, el derecho de prioridad se tendrá como no reclamado. Párrafo adicionado DOF 03-04-2026
+
+El resultado favorable del examen de forma no prejuzgará sobre el cumplimiento de los requisitos necesarios para el otorgamiento de la patente o reconocimiento de los derechos reclamados y que deben ser objeto del examen de fondo de la solicitud, previsto en esta Ley.

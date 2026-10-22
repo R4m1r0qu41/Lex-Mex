@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSPCAPF.pdf
 source_sha256: b4a968d8e8c138ac2069f6afa0dc622178328df24f59cf58eddbab8efe4a7eff
 ---
 
+> Capítulo Décimo
+
 # Artículo 42
 
 En caso de que, durante el desarrollo del proceso de selección, alguno de los integrantes del Comité Técnico de Selección advierta posibles irregularidades, las comunicará a los demás miembros para el efecto de que se aclaren o subsanen; en caso contrario, el Comité suspenderá el proceso respectivo hasta en tanto la Secretaría determine las medidas que procedan.
@@ -24,5 +26,3 @@ En caso de que en el desarrollo del proceso de selección se presente alguna inc
 En caso de que la certificación se haya emitido y posteriormente se tenga conocimiento de un recurso de revocación, dicha certificación quedará sin efectos, y se expedirá una nueva al momento en que se emita la resolución correspondiente. Párrafo adicionado DOF 04-01-2024
 
 De detectar posibles irregularidades en el proceso, las comunicará al Área de Quejas del Órgano Interno de Control de la dependencia, para el efecto de que se proceda en términos de las disposiciones aplicables.
-
-Capítulo Décimo Primero Del Subsistema de Desarrollo Profesional

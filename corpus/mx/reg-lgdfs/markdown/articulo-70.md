@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGDFS.pdf
 source_sha256: a4dbcdb94d780332f0bda62246611dab5972e75bcb01df293df93a95cdd03530
 ---
 
-> Título TERCERO
+> Título TERCERO · Capítulo II
 
 # Artículo 70
 
@@ -28,5 +28,3 @@ III. Especies que serán utilizadas, las que deberán identificarse por medio de
 Asimismo, con el aviso a que se refiere este artículo se adjuntarán los documentos en los que se demuestren las modificaciones propuestas y, en su caso, el [Plano georeferenciado](articulo-2.md) que represente gráficamente las modificaciones.
 
 Una vez presentado el aviso de modificación de Plantación forestal comercial, la Secretaría emitirá la constancia correspondiente dentro de los diez días hábiles siguientes.
-
-Sección III Aprovechamiento de Recursos Forestales no Maderables

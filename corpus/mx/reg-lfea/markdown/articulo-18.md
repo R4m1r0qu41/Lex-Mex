@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFEA.pdf
 source_sha256: 910ba43ef1ae54b3b12fe325f65c81056191fde641c52a10ba709f0f1a39021f
 ---
 
+> Capítulo IV
+
 # Artículo 18
 
 La Secretaría emitirá el dictamen favorable a que se refiere el artículo 24, fracción I, de la [Ley](articulo-2.md) dentro de un plazo de cuarenta y cinco días hábiles, contados a partir del día siguiente al de la presentación de la solicitud acompañada de la documentación que acredite los requisitos establecidos en las [Disposiciones Generales](articulo-2.md).

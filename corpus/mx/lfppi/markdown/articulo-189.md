@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPPI.pdf
 source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 ---
 
-> Título CUARTO
+> Título CUARTO · Capítulo II
 
 # Artículo 189
 
@@ -25,4 +25,4 @@ II.- Se involucre en la producción o en la comercialización de cualquier produ
 
 III.- Permita el uso de la marca para fines distintos a la certificación, o
 
-IV.- Se niegue de manera discriminatoria a certificar o continuar certificando los productos o servicios de cualquier persona que mantenga las normas o condiciones que certifique dicha marca. Capítulo III De las Marcas Notoriamente Conocidas y Famosas
+IV.- Se niegue de manera discriminatoria a certificar o continuar certificando los productos o servicios de cualquier persona que mantenga las normas o condiciones que certifique dicha marca.

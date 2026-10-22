@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSPCAPF.pdf
 source_sha256: b4a968d8e8c138ac2069f6afa0dc622178328df24f59cf58eddbab8efe4a7eff
 ---
 
+> Capítulo Décimo Séptimo
+
 # Artículo 95
 
 La inconformidad que se formule deberá ser presentada por escrito, en el que se indique: el nombre de la persona que se inconforma y su domicilio para oír y recibir notificaciones; en su caso, las personas autorizadas para recibirlas; su manifestación, bajo protesta de decir verdad, de los hechos y razones que dan motivo a la inconformidad y que se refieran a la operación del Sistema, así como la fecha en que tuvo conocimiento de los mismos.

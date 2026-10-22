@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Tercero · Capítulo III
+
 # Artículo 420
 
 La [Dirección General](articulo-10.md) resolverá sobre la procedencia de cualquier certificado de exención de cumplimiento al [Código MODU](articulo-10.md) a Unidades Móviles de Perforación Mar Adentro de Bandera Mexicana conforme a la normatividad internacional, siempre y cuando no se genere un riesgo a la vida humana en el mar, la prevención de la contaminación o la [Protección Marítima](articulo-10.md).

@@ -13,10 +13,10 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPIORPI.pdf
 source_sha256: 2e35228bd3100a3a137f313359833c4836f2b4b6d4e52e1ce4fe58a970cd768f
 ---
 
+> Capítulo VII
+
 # Artículo 61
 
 Las sanciones administrativas impuestas conforme a la presente [Ley](articulo-3.md) podrán impugnarse ante la propia [Secretaría](articulo-3.md), mediante el recurso de revisión previsto en la Ley Federal de Procedimiento Administrativo o directamente ante el Tribunal Federal de Justicia Administrativa a través del procedimiento contencioso administrativo.
 
 Artículo reformado DOF 16-07-2025
-
-Capítulo VIII De los Delitos

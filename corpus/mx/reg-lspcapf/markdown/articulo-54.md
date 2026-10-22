@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSPCAPF.pdf
 source_sha256: b4a968d8e8c138ac2069f6afa0dc622178328df24f59cf58eddbab8efe4a7eff
 ---
 
+> Capítulo Décimo Segundo
+
 # Artículo 54
 
 El Subsistema de Capacitación y Certificación de Capacidades debe implementarse con base en la detección de necesidades institucionales y de profesionalización que requieran las dependencias, para lo cual debe tomar como referencia el cuerpo de funciones y los requerimientos para el desarrollo profesional de las personas servidoras públicas.

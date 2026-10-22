@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf
 source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 ---
 
+> Título IV · Capítulo Quinto
+
 # Artículo 87 Bis 6
 
 Las notificaciones personales también podrán practicarse con el interesado o con su representante, en el último domicilio que hubiere proporcionado a la [Comisión](articulo-2.md) o en el último domicilio que haya señalado ante la propia autoridad en el procedimiento administrativo de que se trate, para lo cual se levantará acta en los términos a que se refiere el penúltimo párrafo de este artículo.

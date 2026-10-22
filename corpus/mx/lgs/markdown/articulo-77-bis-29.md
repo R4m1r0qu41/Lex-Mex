@@ -13,13 +13,15 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGS.pdf
 source_sha256: a2d3f947b369e4383f2f27a4e9bd819a3dba768ab9bae527e6388e30c1f9e06c
 ---
 
-> Título TERCERO BIS
+> Título TERCERO BIS · Capítulo VI
 
 # Artículo 77 bis 29
 
 El Fondo de Salud para el Bienestar, es un fideicomiso público sin estructura orgánica, constituido en términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria en una institución de banca de desarrollo, en el que Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR) funge como fideicomitente, y que tiene como fin destinar los recursos que integran su patrimonio a: Párrafo reformado DOF 29-05-2023
 
-I. La atención de enfermedades que impliquen un alto costo en los tratamientos y medicamentos asociados; Fracción reformada DOF 29-05-2023 II. La atención de necesidades de infraestructura y equipamiento, inclusive de acciones de mantenimiento urgente y conservación, preferentemente en las entidades federativas con mayor marginación social, y Fracción reformada DOF 15-01-2026
+I. La atención de enfermedades que impliquen un alto costo en los tratamientos y medicamentos asociados; Fracción reformada DOF 29-05-2023
+
+II. La atención de necesidades de infraestructura y equipamiento, inclusive de acciones de mantenimiento urgente y conservación, preferentemente en las entidades federativas con mayor marginación social, y Fracción reformada DOF 15-01-2026
 
 III. Complementar los recursos destinados al abasto y distribución de medicamentos y demás insumos, así como del acceso a exámenes clínicos, asociados a personas sin seguridad social.
 

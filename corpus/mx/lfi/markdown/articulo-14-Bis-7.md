@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf
 source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 ---
 
+> Título II · Capítulo Cuarto
+
 # Artículo 14 Bis 7
 
 Como excepción a lo señalado en el artículo [14 Bis 6](articulo-14-Bis-6.md) de esta Ley, y en el evento de que se presenten condiciones desordenadas o de alta volatilidad en los mercados financieros, o bien, cuando por las características de los [Activos Objeto de Inversión](articulo-2.md) de los fondos de inversión, estos presenten problemas de liquidez o valuación, los propios fondos de inversión podrán escindirse con sujeción a las reglas previstas en este artículo y en el artículo [14 Bis 8](articulo-14-Bis-8.md) siguiente.

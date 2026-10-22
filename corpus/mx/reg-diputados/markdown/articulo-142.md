@@ -19,4 +19,4 @@ source_sha256: 6fa1d25c31c4d8c2cc8074208b10a2f3ff35fecce26c1cc03ba18117cfec80d1
 
 1. Cuando haya empate en las votaciones deberá repetirse la votación en la misma Sesión, y si resulta empate por segunda vez, se discutirá y votará de nuevo el asunto en la Sesión inmediata.
 
-2. Si el empate persistiese en la Sesión siguiente, el asunto se tendrá por desechado y no podrá volver a presentarse, sino hasta el siguiente periodo ordinario de sesiones; salvo que se trate de asuntos que por su vencimiento o trascendencia, requieran una resolución inmediata, en cuyo caso, se votarán nuevamente tras un receso. Sección Sexta Disposiciones Adicionales
+2. Si el empate persistiese en la Sesión siguiente, el asunto se tendrá por desechado y no podrá volver a presentarse, sino hasta el siguiente periodo ordinario de sesiones; salvo que se trate de asuntos que por su vencimiento o trascendencia, requieran una resolución inmediata, en cuyo caso, se votarán nuevamente tras un receso.

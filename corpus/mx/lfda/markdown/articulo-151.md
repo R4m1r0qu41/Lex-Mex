@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFDA.pdf
 source_sha256: 1844f4e56b279c17061db90f4ab7970df3794e3a5ae10d74a0aec1f12641e7a5
 ---
 
-> Título VI
+> Título VI · Capítulo II
 
 # Artículo 151
 
@@ -26,5 +26,3 @@ II. Se trate de breves fragmentos utilizados en informaciones sobre sucesos de a
 III. Sea con fines de enseñanza o investigación científica, o
 
 IV. Se trate de los casos previstos en los artículos [147](articulo-147.md), [148](articulo-148.md) y [149](articulo-149.md) de la presente Ley.
-
-Capítulo III Del Dominio Público

@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPPI.pdf
 source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 ---
 
-> Título SÉPTIMO
+> Título SÉPTIMO · Capítulo II
 
 # Artículo 402
 
@@ -21,7 +21,9 @@ Son delitos:
 
 I.- Falsificar una marca con fines de especulación comercial.
 
-Para efectos de esta [Ley](articulo-4.md), se entenderá por falsificar, el usar una marca idéntica o de forma tal que no pueda distinguirse en sus aspectos esenciales a una previamente registrada o a una protegida por esta Ley, sin autorización de su legítima persona titular o de su licenciataria, para representar falsamente a un producto o servicio como original o auténtico. Párrafo reformado DOF 03-04-2026 Para acreditar la falsificación bastará que la marca sea usada en forma idéntica o de forma tal que no pueda distinguirse en sus aspectos esenciales a como aparezca representada en el título de registro o, en su caso, en la resolución que estime o declare su notoriedad o fama;
+Para efectos de esta [Ley](articulo-4.md), se entenderá por falsificar, el usar una marca idéntica o de forma tal que no pueda distinguirse en sus aspectos esenciales a una previamente registrada o a una protegida por esta Ley, sin autorización de su legítima persona titular o de su licenciataria, para representar falsamente a un producto o servicio como original o auténtico. Párrafo reformado DOF 03-04-2026
+
+Para acreditar la falsificación bastará que la marca sea usada en forma idéntica o de forma tal que no pueda distinguirse en sus aspectos esenciales a como aparezca representada en el título de registro o, en su caso, en la resolución que estime o declare su notoriedad o fama;
 
 II.- Producir, almacenar, transportar, introducir al país, distribuir o vender con fines de especulación comercial, objetos que ostenten falsificaciones de marcas, así como aportar o proveer de cualquier forma, a sabiendas, materias primas o insumos destinados a la producción de objetos que ostenten dichas falsificaciones;
 

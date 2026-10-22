@@ -453,8 +453,9 @@ fn colon_ordinal_article_body<'a>(block: &'a str, ordinals: &[String]) -> Option
 /// Either decree-wrapper form the main article loop discards outright:
 /// neither appended to the current provision's text nor started as a new
 /// one.
-fn is_dropped_decree_block(block: &str, ordinals: &[String]) -> bool {
-    is_decree_article_wrapper(block, ordinals) || is_dot_redacted_decree_article(block, ordinals)
+fn is_dropped_decree_block(block: &str, ordinals: &[String], headers: &[String]) -> bool {
+    is_decree_article_wrapper(block, ordinals, headers)
+        || is_dot_redacted_decree_article(block, ordinals)
 }
 
 /// The leading base number of an article label (`70-A` → 70, `1o` → 1),
@@ -611,6 +612,26 @@ fn is_enactment_signature(block: &str) -> bool {
         || ((upper.starts_with("DIP.") || upper.starts_with("SEN.")) && upper.contains("RÚBRICA"))
 }
 
+/// A later decree's heading adding a transitory to the law itself, printed
+/// after the law's own signatures. Only the law's name may follow it.
+fn is_added_statute_transitory_heading(block: &str, headers: &[String]) -> bool {
+    static HEADING: std::sync::LazyLock<Regex> = std::sync::LazyLock::new(|| {
+        Regex::new(
+            r"^SE (?:ESTABLECEN?|ADICIONAN?) (?:UN |EL |LOS )?ART[ÍI]CULOS? TRANSITORIOS? [ÚU]NICO DE LA LEY [^.]+\.?$",
+        )
+        .expect("static added-transitory heading regex")
+    });
+    HEADING.is_match(block)
+        && block.split_once(" DE LA ").is_some_and(|(_, title)| {
+            headers.iter().any(|header| {
+                collapse_whitespace(header)
+                    .to_uppercase()
+                    .trim_end_matches('.')
+                    == title.trim_end_matches('.')
+            })
+        })
+}
+
 fn is_judicial_appendix(block: &str) -> bool {
     block.starts_with("PUNTOS RESOLUTIVOS de la sentencia")
         || block.starts_with("SENTENCIA dictada")
@@ -668,7 +689,7 @@ fn is_transitory_section_header(block: &str) -> bool {
 /// Segundo a Artículo Cuarto.- ……` (elided decree articles). An ordinal
 /// heading alone is insufficient because older statutes can use `Artículo
 /// Primero` and `Artículo Segundo` for their operative provisions.
-fn is_decree_article_wrapper(block: &str, ordinals: &[String]) -> bool {
+fn is_decree_article_wrapper(block: &str, ordinals: &[String], headers: &[String]) -> bool {
     let Some((rest, plural)) = [
         ("Artículo ", false),
         ("Artículos ", true),
@@ -705,13 +726,19 @@ fn is_decree_article_wrapper(block: &str, ordinals: &[String]) -> bool {
     ]
     .iter()
     .any(|action| body.starts_with(action))
+        // An omnibus decree's article may only name the law it carries
+        // (lsar: `ARTICULO PRIMERO.- De la Ley de los Sistemas de Ahorro
+        // para el Retiro.`); the whole block is that one name.
+        || body.trim_end_matches('.').strip_prefix("DE LA ").is_some_and(|title| {
+            headers.iter().any(|header| collapse_whitespace(header).to_uppercase().trim_end_matches('.') == title)
+        })
 }
 
-fn is_plural_decree_article_wrapper(block: &str, ordinals: &[String]) -> bool {
+fn is_plural_decree_article_wrapper(block: &str, ordinals: &[String], headers: &[String]) -> bool {
     ["Artículos ", "ARTÍCULOS ", "ARTICULOS "]
         .iter()
         .any(|prefix| block.starts_with(prefix))
-        && is_decree_article_wrapper(block, ordinals)
+        && is_decree_article_wrapper(block, ordinals, headers)
 }
 
 /// The enacting decree's own title says it issues a law *and* amends others
@@ -1292,7 +1319,7 @@ fn partition_enactment(
     let ordinals = transitory_ordinals();
     let wrapper = blocks
         .iter()
-        .position(|b| is_decree_article_wrapper(b, &ordinals))
+        .position(|b| is_decree_article_wrapper(b, &ordinals, &options.header_lines))
         .ok_or_else(|| anyhow::anyhow!("enactment partition lacks enacting article wrapper"))?;
     let containing_act_title = blocks[..wrapper]
         .iter()
@@ -1467,6 +1494,7 @@ pub fn parse_diputados_publication(
     let mut seen_ordinals: std::collections::HashSet<String> = std::collections::HashSet::new();
 
     let mut singleton_closed = false;
+    let mut after_enactment_signature = false;
     let mut preamble_quote_depth: usize = 0;
     for block in blocks {
         // Before the instrument's first article, a cover note may quote
@@ -1493,6 +1521,34 @@ pub fn parse_diputados_publication(
             if let Some(builder) = &mut current {
                 builder.push_block(&block);
             }
+            continue;
+        }
+        if after_enactment_signature {
+            // A later decree may add a transitory to the law itself, printed
+            // after the original signatures (locg: `SE ESTABLECE UN ARTÍCULO
+            // TRANSITORIO ÚNICO DE LA LEY …`, DOF 15-11-2007). Its heading
+            // reopens the statute transitories; anything else ends the law.
+            if is_added_statute_transitory_heading(&block, &options.header_lines) {
+                after_enactment_signature = false;
+                continue;
+            }
+            break;
+        }
+        if in_statute_transitories
+            && singleton_heading.is_none()
+            && current.is_some()
+            && options.annex_markers.is_empty()
+            && is_enactment_signature(&block)
+            && !is_stop_marker(&block, options)
+        {
+            if let Some(builder) = current.take() {
+                provisions.push(builder.finish(
+                    &options.instrument_id,
+                    publication_date,
+                    publication_period,
+                ));
+            }
+            after_enactment_signature = true;
             continue;
         }
         if is_stop_marker(&block, options)
@@ -1603,7 +1659,9 @@ pub fn parse_diputados_publication(
             if block.starts_with("DECRETO por") || block.starts_with("REFORMAS Y ADICIONES") {
                 break;
             }
-            if omnibus_enactment && is_plural_decree_article_wrapper(&block, &ordinals) {
+            if omnibus_enactment
+                && is_plural_decree_article_wrapper(&block, &ordinals, &options.header_lines)
+            {
                 if let Some(builder) = current.take() {
                     provisions.push(builder.finish(
                         &options.instrument_id,
@@ -1673,7 +1731,7 @@ pub fn parse_diputados_publication(
                 continue;
             }
         } else {
-            if is_dropped_decree_block(&block, &ordinals) {
+            if is_dropped_decree_block(&block, &ordinals, &options.header_lines) {
                 if let Some(builder) = current.take() {
                     provisions.push(builder.finish(
                         &options.instrument_id,
@@ -1930,9 +1988,20 @@ fn reform_act_heading_kind(block: &str) -> Option<&'static str> {
         Some("Ley")
     } else if is_reforms_heading(block) {
         Some("Reformas")
+    } else if is_acuerdo_heading(block) {
+        Some("Acuerdo")
     } else {
         None
     }
+}
+
+/// An executive acuerdo amending a list the law delegates to it (lfcpq:
+/// `ACUERDO por el que se establecen medidas de control y vigilancia…`, DOF
+/// 23-11-2009), in the same uppercase-name/lowercase-connector style.
+fn is_acuerdo_heading(block: &str) -> bool {
+    block
+        .strip_prefix("ACUERDO ")
+        .is_some_and(|rest| rest.starts_with(|c: char| c.is_lowercase()))
 }
 
 /// An appendix entry titled by its reforms (cpf: `REFORMAS al Código Penal
@@ -2259,6 +2328,13 @@ mod tests {
         include_str!("../../../fixtures/diputados/article-letter-suffix-qualifier-sample.txt");
     const NESTED_OMNIBUS_TRANSITORY_FIXTURE: &str =
         include_str!("../../../fixtures/diputados/nested-omnibus-transitory-sample.txt");
+    const DECREE_ARTICLE_NAMES_THE_LAW_FIXTURE: &str =
+        include_str!("../../../fixtures/diputados/decree-article-names-the-law-sample.txt");
+    const REFORM_ACUERDO_TITLE_FIXTURE: &str =
+        include_str!("../../../fixtures/diputados/reform-acuerdo-title-sample.txt");
+    const TRANSITORY_ADDED_AFTER_ENACTMENT_SIGNATURE_FIXTURE: &str = include_str!(
+        "../../../fixtures/diputados/transitory-added-after-enactment-signature-sample.txt"
+    );
 
     fn options(instrument_id: &str, title: &str) -> DiputadosOptions {
         DiputadosOptions {
@@ -3560,6 +3636,145 @@ mod tests {
             ]
         );
     }
+    #[test]
+    fn a_decree_article_that_only_names_the_law_is_not_its_first_article() {
+        let document = parse_diputados(
+            DECREE_ARTICLE_NAMES_THE_LAW_FIXTURE,
+            &options(
+                "urn:lex-mx:federal:statute:lsar",
+                "Ley de los Sistemas de Ahorro para el Retiro",
+            ),
+            NaiveDate::from_ymd_opt(1996, 5, 23).unwrap(),
+        )
+        .unwrap();
+        let ids: Vec<&str> = document
+            .provisions
+            .iter()
+            .map(|provision| provision.id.rsplit(':').next().unwrap())
+            .collect();
+        assert_eq!(ids, ["1", "2"]);
+        assert!(
+            document.provisions[0]
+                .text
+                .starts_with("La presente Ley es de orden público")
+        );
+        let ordinals = super::transitory_ordinals();
+        assert!(!super::is_decree_article_wrapper(
+            "ARTICULO PRIMERO.- De la Ley anterior se derogan los artículos 3 y 4. Texto.",
+            &ordinals,
+            &["LEY DE LOS SISTEMAS DE AHORRO PARA EL RETIRO".into()]
+        ));
+        assert!(!super::is_decree_article_wrapper(
+            "ARTICULO PRIMERO.- De la Ley anterior se derogan los artículos 3 y 4.",
+            &ordinals,
+            &["LEY ANTERIOR".into()]
+        ));
+        assert!(!super::is_decree_article_wrapper(
+            "ARTICULO PRIMERO.- De la Ley de Otro Instrumento.",
+            &ordinals,
+            &["LEY DE LOS SISTEMAS DE AHORRO PARA EL RETIRO".into()]
+        ));
+    }
+
+    #[test]
+    fn a_single_sentence_about_a_law_is_preserved_as_operative_text() {
+        let document = parse_diputados(
+            include_str!("../../../fixtures/diputados/law-title-prose-is-not-wrapper-sample.txt"),
+            &options("urn:lex-mx:federal:statute:sample", "Ley anterior"),
+            NaiveDate::from_ymd_opt(2026, 1, 1).unwrap(),
+        )
+        .unwrap();
+        assert!(document.provisions.iter().any(|p| {
+            p.text
+                .contains("De la Ley anterior se derogan los artículos 3 y 4.")
+        }));
+    }
+
+    #[test]
+    fn added_transitory_heading_must_name_the_configured_law() {
+        let heading = "SE ESTABLECE UN ARTÍCULO TRANSITORIO ÚNICO DE LA LEY ORGÁNICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS.";
+        assert!(super::is_added_statute_transitory_heading(
+            heading,
+            &["LEY ORGÁNICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS".into()]
+        ));
+        assert!(!super::is_added_statute_transitory_heading(
+            heading,
+            &["LEY DE OTRO INSTRUMENTO".into()]
+        ));
+        assert!(!super::is_added_statute_transitory_heading(heading, &[]));
+    }
+
+    #[test]
+    fn an_amending_acuerdo_in_the_reform_appendix_is_an_act() {
+        let document = parse_diputados(
+            REFORM_ACUERDO_TITLE_FIXTURE,
+            &options(
+                "urn:lex-mx:federal:statute:lfcpq",
+                "Ley Federal para el Control de Precursores Químicos, Productos Químicos Esenciales y Máquinas para Elaborar Cápsulas, Tabletas y/o Comprimidos",
+            ),
+            NaiveDate::from_ymd_opt(1997, 12, 26).unwrap(),
+        )
+        .unwrap();
+        let labels: Vec<&str> = document
+            .reform_evidence
+            .iter()
+            .map(|item| item.label.as_str())
+            .collect();
+        assert_eq!(
+            labels,
+            [
+                "Transitorio PRIMERO — Acuerdo DOF 2009-11-23",
+                "Transitorio SEGUNDO — Acuerdo DOF 2009-11-23",
+                "Transitorio TERCERO — Acuerdo DOF 2009-11-23",
+            ]
+        );
+        assert!(!super::is_acuerdo_heading("ACUERDO."));
+        assert!(!super::is_acuerdo_heading("ACUERDOS GENERALES"));
+    }
+
+    #[test]
+    fn a_transitory_a_later_decree_adds_after_the_signatures_is_read() {
+        let document = parse_diputados(
+            TRANSITORY_ADDED_AFTER_ENACTMENT_SIGNATURE_FIXTURE,
+            &options(
+                "urn:lex-mx:federal:statute:locg",
+                "Ley Orgánica del Congreso General de los Estados Unidos Mexicanos",
+            ),
+            NaiveDate::from_ymd_opt(1999, 9, 3).unwrap(),
+        )
+        .unwrap();
+        let ids: Vec<&str> = document
+            .provisions
+            .iter()
+            .map(|provision| provision.id.rsplit(':').next().unwrap())
+            .collect();
+        assert_eq!(
+            ids,
+            ["1", "primero", "segundo", "quinto", "septimo", "unico"]
+        );
+        let septimo = &document.provisions[4].text;
+        assert!(septimo.ends_with("20 de julio de 1994."), "{septimo}");
+        let unico = &document.provisions[5].text;
+        assert!(
+            unico.starts_with("Para efectos de dar cumplimiento"),
+            "{unico}"
+        );
+        assert!(
+            unico.contains("Artículo adicionado DOF 15-11-2007"),
+            "{unico}"
+        );
+        assert!(!unico.contains("Rúbrica"), "{unico}");
+        assert!(!unico.contains("DECRETOS DE REFORMA"), "{unico}");
+        assert!(super::is_added_statute_transitory_heading(
+            "SE ESTABLECE UN ARTÍCULO TRANSITORIO ÚNICO DE LA LEY ORGÁNICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS.",
+            &["LEY ORGÁNICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS".into()]
+        ));
+        assert!(!super::is_added_statute_transitory_heading(
+            "SE ESTABLECE UN ARTÍCULO TRANSITORIO ÚNICO DE LA LEY ORGÁNICA. Artículo 1. Texto.",
+            &["LEY ORGÁNICA".into()]
+        ));
+    }
+
     #[test]
     fn campaign_signatures_end_transitories_without_adapter_stop_markers() {
         let document = parse_diputados(

@@ -51,7 +51,9 @@ p) Solicitar al Presidente de la Suprema Corte de Justicia de la Nación la aten
 
 q) Solicitar al Instituto Nacional Electoral la verificación del porcentaje requerido por la fracción IV del artículo [71](../../cpeum/markdown/articulo-71.md) de la Constitución Política de los Estados Unidos Mexicanos; y Inciso adicionado DOF 20-05-2014
 
-r) Las demás que le atribuyan la Constitución General de la República, esta ley y los demás ordenamientos relativos a la actividad parlamentaria. Inciso adicionado DOF 02-04-2013. Recorrido DOF 20-05-2014 2. En el caso de iniciativas y minutas preferentes tendrá las siguientes atribuciones:
+r) Las demás que le atribuyan la Constitución General de la República, esta ley y los demás ordenamientos relativos a la actividad parlamentaria. Inciso adicionado DOF 02-04-2013. Recorrido DOF 20-05-2014
+
+2. En el caso de iniciativas y minutas preferentes tendrá las siguientes atribuciones:
 
 a) Turnar inmediatamente la iniciativa o minuta a una o más comisiones para su análisis y dictamen;
 
@@ -66,5 +68,3 @@ e) Emitir la declaratoria de publicidad inmediatamente después de concluido el 
 3. Asimismo, conforme a la declaración de Presidente Electo de los Estados Unidos Mexicanos que hubiere hecho el Tribunal Electoral del Poder Judicial de la Federación, corresponde al Presidente de la Cámara disponer la elaboración inmediata del Bando Solemne; darlo a conocer al Pleno en la sesión más próxima; ordenar su publicación en el Diario Oficial de la Federación; y tomar las medidas necesarias para que se difunda en los Periódicos Oficiales de las entidades federativas y se fije en las principales oficinas públicas de las entidades federativas y de los Municipios. Numeral recorrido DOF 20-05-2014. Reformado DOF 02-05-2017
 
 4. Si al comenzar el periodo constitucional no se presentase el Presidente electo, o la elección no estuviere hecha o declarada válida el 1 de diciembre, procederá a tomar las medidas necesarias para que el Congreso se erija en colegio electoral a efecto de designar Presidente interino, en los términos del artículo 84 Constitucional. Numeral adicionado DOF 21-04-2008. Recorrido DOF 20-05-2014
-
-Sección Cuarta De los Vicepresidentes y de los Secretarios

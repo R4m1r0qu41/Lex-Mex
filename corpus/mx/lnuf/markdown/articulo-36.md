@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LNUF.pdf
 source_sha256: 0c11f4464286e7411713a80361a2e1ab15c4cc55bff80b4e6ee4a4333592d50c
 ---
 
+> Capítulo IX
+
 # Artículo 36
 
 En aquellos operativos en los que se requiera y autorice desde la planeación el uso de la fuerza letal, se podrán utilizar dispositivos tecnológicos con el fin de registrar audiovisualmente el desarrollo del operativo con fines de verificación.

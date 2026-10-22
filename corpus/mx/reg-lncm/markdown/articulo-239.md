@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Tercero · Capítulo I
+
 # Artículo 239
 
 Los permisos mencionados en el [artículo anterior](articulo-238.md) podrán renovarse por plazos iguales al original siempre que se satisfagan los requisitos señalados en el [artículo anterior](articulo-238.md). La [Dirección General](articulo-10.md) podrá revocar los permisos otorgados cuando, por cualquier circunstancia y en cualquier tiempo, dejen de darse las condiciones de seguridad referidas en este Capítulo.

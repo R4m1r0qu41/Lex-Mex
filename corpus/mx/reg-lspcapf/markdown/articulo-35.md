@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSPCAPF.pdf
 source_sha256: b4a968d8e8c138ac2069f6afa0dc622178328df24f59cf58eddbab8efe4a7eff
 ---
 
+> Capítulo Décimo
+
 # Artículo 35
 
 Los resultados de cada etapa del proceso de selección se darán a conocer a los participantes en el concurso, mediante su publicación en los medios electrónicos que establezca la dependencia.

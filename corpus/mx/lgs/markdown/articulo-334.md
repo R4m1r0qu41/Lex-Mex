@@ -21,7 +21,9 @@ Para realizar trasplantes de donantes que hayan perdido la vida, deberá cumplir
 
 I. Comprobar, previamente a la extracción de los órganos y tejidos y por un médico distinto a los que intervendrán en el trasplante o en la extracción de los órganos o tejidos, la pérdida de la vida del donante, en los términos que se precisan en este título; Fracción reformada DOF 12-12-2011
 
-II. Existir consentimiento expreso del disponente, que conste por escrito o no constar la revocación del tácito para la donación de sus órganos y tejidos; Fracción reformada DOF 12-12-2011 II Bis. Proporcionar información completa, amplia, veraz y oportuna al o la cónyuge, el concubinario, la concubina, los descendientes, los ascendientes, los hermanos, el adoptado o el adoptante de la persona fallecida, conforme a la prelación señalada, de los procedimientos que se llevarán a cabo, y Fracción adicionada DOF 12-12-2011
+II. Existir consentimiento expreso del disponente, que conste por escrito o no constar la revocación del tácito para la donación de sus órganos y tejidos; Fracción reformada DOF 12-12-2011
+
+II Bis. Proporcionar información completa, amplia, veraz y oportuna al o la cónyuge, el concubinario, la concubina, los descendientes, los ascendientes, los hermanos, el adoptado o el adoptante de la persona fallecida, conforme a la prelación señalada, de los procedimientos que se llevarán a cabo, y Fracción adicionada DOF 12-12-2011
 
 III. Asegurarse que no exista riesgo sanitario.
 

@@ -21,6 +21,8 @@ La Secretaría de Salud y los gobiernos de las entidades federativas, en el ámb
 
 La información se referirá, fundamentalmente, a los siguientes aspectos:
 
-I. Estadísticas de natalidad, mortalidad, morbilidad y discapacidad; Fracción reformada DOF 08-04-2013 II. Factores demográficos, económicos, sociales y ambientales vinculados a la salud, y
+I. Estadísticas de natalidad, mortalidad, morbilidad y discapacidad; Fracción reformada DOF 08-04-2013
+
+II. Factores demográficos, económicos, sociales y ambientales vinculados a la salud, y
 
 III. Recursos físicos, humanos y financieros disponibles para la protección de la salud de la población, y su utilización.

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf
 source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 ---
 
+> Título III · Capítulo Primero
+
 # Artículo 35
 
 Las sociedades operadoras de fondos de inversión en la administración de los activos de estos últimos o a favor de terceros, así como las distribuidoras y las entidades financieras que lleven a cabo la distribución de acciones de fondos de inversión, al proporcionar servicios de asesoría sobre valores o de promoción, compra y venta de acciones de fondos de inversión, o bien, fiduciarios, según se trate, deberán utilizar los servicios de personas físicas autorizadas por la [Comisión](articulo-2.md), siempre que se acredite que cuentan con calidad técnica, honorabilidad e historial crediticio satisfactorio. En todo caso, deberán otorgarse los poderes que correspondan.

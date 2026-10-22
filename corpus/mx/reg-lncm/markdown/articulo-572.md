@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Tercero · Capítulo VI
+
 # Artículo 572
 
 En casos de contingencia, el [CCTM](articulo-10.md) podrá emitir las recomendaciones que juzgue procedentes, sin perjuicio de lo anterior, la decisión, ejecución y resultado de ello, será responsabilidad del capitán de la Embarcación.

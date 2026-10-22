@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LNUF.pdf
 source_sha256: 0c11f4464286e7411713a80361a2e1ab15c4cc55bff80b4e6ee4a4333592d50c
 ---
 
+> Capítulo IV
+
 # Artículo 14
 
 Las instituciones de seguridad asignarán las armas solamente al agente que apruebe la capacitación establecida para su uso y este, a su vez, solo podrá usar las armas que le hayan sido asignadas.

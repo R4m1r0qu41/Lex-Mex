@@ -26,5 +26,3 @@ II. La declaración no se encuentre en oposición con otras pruebas que obren en
 III. Concurran en el testigo circunstancias que sean garantía de veracidad.
 
 Artículo reformado DOF 04-01-1980
-
-Sección Quinta De la Pericial Sección adicionada DOF 04-01-1980

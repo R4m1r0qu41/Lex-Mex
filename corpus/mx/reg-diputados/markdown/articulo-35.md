@@ -20,5 +20,3 @@ source_sha256: 6fa1d25c31c4d8c2cc8074208b10a2f3ff35fecce26c1cc03ba18117cfec80d1
 1. Las Sesiones de la [Cámara](articulo-2.md) tendrán el carácter de ordinarias, extraordinarias, solemnes o permanentes; todas las sesiones serán públicas.
 
 Artículo reformado DOF 20-04-2011, 28-12-2016
-
-Sección Segunda Sesiones Ordinarias

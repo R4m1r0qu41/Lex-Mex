@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAPP.pdf
 source_sha256: a4505a7bd41bc835f1def6fb030c42d8e74a2cc050d9c8fa08f91c9519e382bf
 ---
 
+> Capítulo Noveno
+
 # Artículo 123
 
 A la terminación del contrato, los inmuebles, bienes y derechos de carácter público, incorporados a la infraestructura o indispensables para la prestación del servicio, pasarán al control y administración de la dependencia o entidad contratante. Los demás bienes necesarios para la prestación del servicio quedarán sujetos al régimen de dominio público de la Federación, dependencia o entidad contratante, en los términos pactados en el contrato. La transferencia de los inmuebles, bienes y derechos en términos del párrafo inmediato anterior no implicarán la afectación de los derechos adquiridos por terceros de buena fe, quienes los conservarán en todos sus términos y condiciones.

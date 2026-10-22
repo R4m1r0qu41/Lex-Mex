@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LCM.pdf
 source_sha256: 8e270686b885035488bfe310b0b42bb40e7154431794227ebe212dd7dc12e46a
 ---
 
-> Título SÉPTIMO
+> Título SÉPTIMO · Capítulo II
 
 # Artículo 224
 
@@ -25,4 +25,6 @@ II. Los contraídos para la administración de la Masa por el [Comerciante](arti
 
 III. Los contraídos para atender los gastos normales para la seguridad de los bienes de la Masa, su refacción, conservación y administración, y Fracción reformada DOF 27-12-2007
 
-IV. Los procedentes de diligencias judiciales o extrajudiciales en beneficio de la Masa. Fracción reformada DOF 27-12-2007 V. (Se deroga) Fracción derogada DOF 27-12-2007
+IV. Los procedentes de diligencias judiciales o extrajudiciales en beneficio de la Masa. Fracción reformada DOF 27-12-2007
+
+V. (Se deroga) Fracción derogada DOF 27-12-2007

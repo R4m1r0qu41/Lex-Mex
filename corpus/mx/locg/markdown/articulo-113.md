@@ -64,5 +64,3 @@ f) Unidad de Anticorrupción y Transparencia. Inciso adicionado DOF 02-07-2025
 3. Las resoluciones del contralor interno se darán a conocer previamente a la Mesa Directiva por conducto de su Presidente.
 
 Artículo reformado DOF 05-03-2009
-
-Sección Cuarta Del Servicio Civil de Carrera

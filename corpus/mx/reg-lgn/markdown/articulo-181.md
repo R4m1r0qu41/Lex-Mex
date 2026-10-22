@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGN_111220.pdf
 source_sha256: ea6e39560929f2e1998b2dabe0852fde0d684c69e5be49aab7f33433299bbeb0
 ---
 
-> Título SEXTO
+> Título SEXTO · Capítulo IV
 
 # Artículo 181
 
@@ -30,5 +30,3 @@ IV. Turnar al Consejo de Comisarios, las inconformidades que presenten los Integ
 V. Comunicar al Consejo de Comisarios sobre la integración y cambios de los miembros en los Consejos de Honor Superior, y
 
 VI. Las demás que le señalen otras disposiciones jurídicas.
-
-Capítulo V Del Consejo de Honor Ordinario

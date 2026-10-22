@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf
 source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 ---
 
+> Título III · Capítulo Tercero
+
 # Artículo 40
 
 Los servicios de distribución de acciones representativas del capital social de fondos de inversión, comprenderán la promoción y asesoría a terceros, así como instruir la compra y venta de dichas acciones por cuenta y orden del fondo de inversión que contrate estos servicios, así como por cuenta y orden del cliente que pretenda adquirirlas o enajenarlas.

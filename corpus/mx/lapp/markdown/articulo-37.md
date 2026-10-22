@@ -13,10 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAPP.pdf
 source_sha256: a4505a7bd41bc835f1def6fb030c42d8e74a2cc050d9c8fa08f91c9519e382bf
 ---
 
+> Capítulo Tercero
+
 # Artículo 37
 
 En caso de que durante el plazo de evaluación, el interesado no proporcione la información solicitada sin causa justificada o bien, promueva el proyecto con alguna otra entidad o de alguna otra manera, o ceda su propuesta a terceros, se dará por concluido el trámite y el interesado perderá en favor del Ejecutivo federal todos sus derechos sobre los estudios presentados, incluso si el proyecto se concursa, previa garantía de audiencia.
-
-Capítulo Cuarto De la Adjudicación de los Proyectos
-
-Sección Primera De los Concursos

@@ -20,5 +20,3 @@ source_sha256: aa6e0e437331debd80d0086155e2d99885ea5e22cb13353c44eb0b1090f0b4d5
 Las inversiones de las [Reservas](articulo-6.md) financieras y actuariales y la Reserva general financiera y actuarial, previstas en este Capítulo, sólo podrán invertirse en los valores, títulos de crédito y otros derechos, que se determinen por la Junta Directiva, oyendo previamente la opinión del Comité de Inversiones, conforme al reglamento correspondiente.
 
 Los intereses o rendimientos que genere cada Reserva deberán aplicarse exclusivamente a la Reserva que les dé origen.
-
-Sección V De la Contabilidad

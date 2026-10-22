@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Segundo · Capítulo II
+
 # Artículo 38
 
 Al ser abanderados y matriculados como mexicanos, las Embarcaciones y Artefactos Navales se clasificarán de acuerdo con lo establecido por el artículo [10](../../lncm/markdown/articulo-10.md) de la [Ley](articulo-10.md) e igualmente se identificará en su Certificado de Matrícula si son destinados a uso particular o para operar en el Comercio Marítimo.

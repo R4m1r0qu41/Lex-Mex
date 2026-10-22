@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPIORPI.pdf
 source_sha256: 2e35228bd3100a3a137f313359833c4836f2b4b6d4e52e1ce4fe58a970cd768f
 ---
 
+> Capítulo III · Sección Segunda
+
 # Artículo 19
 
 El Reglamento de la [Ley](articulo-3.md) establecerá medidas simplificadas para el cumplimiento de las obligaciones previstas en el [artículo anterior](articulo-18.md), en función del nivel de riesgo de las [Actividades Vulnerables](articulo-3.md) y de quienes las realicen.

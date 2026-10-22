@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAPP.pdf
 source_sha256: a4505a7bd41bc835f1def6fb030c42d8e74a2cc050d9c8fa08f91c9519e382bf
 ---
 
+> Capítulo Cuarto · Sección Cuarta
+
 # Artículo 55
 
 La convocante elaborará un dictamen que servirá de base para el fallo, en el que se hará constar el análisis de las propuestas, las razones para admitirlas o desecharlas, la comparación de las mismas, y los elementos por los cuales la propuesta ganadora es la que ofrece las mejores condiciones para el Estado.

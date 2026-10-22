@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Tercero · Capítulo III
+
 # Artículo 352
 
 Las Embarcaciones sin cubierta, quedan exentas de todas las disposiciones de la presente sección, pero cumplirán con los requerimientos de radiocomunicación y luces de Navegación que establezca el Manual de [Inspección](articulo-10.md).

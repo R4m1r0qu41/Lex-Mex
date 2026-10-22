@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAPP.pdf
 source_sha256: a4505a7bd41bc835f1def6fb030c42d8e74a2cc050d9c8fa08f91c9519e382bf
 ---
 
+> Capítulo Sexto · Sección Segunda
+
 # Artículo 100
 
 En caso de que así lo permita la rentabilidad del proyecto y según se haya establecido en las bases del concurso y en el contrato respectivo, la dependencia o entidad contratante podrá exigir al desarrollador, con independencia de lo que señalen otras disposiciones aplicables, alguna o algunas de las prestaciones siguientes:

@@ -85,7 +85,9 @@ XXVIII.- Participar en la integración y funcionamiento de las Comisiones que de
 
 XXIX.- Otorgar permiso sin goce de sueldo a las y los trabajadores declarados desaparecidos que cuenten con Declaración Especial de Ausencia, en los términos de lo establecido en la legislación especial en la materia. Fracción adicionada DOF 22-06-2018
 
-XXIX Bis.- Otorgar las facilidades conducentes a los trabajadores respecto de las licencias expedidas por el Instituto según lo establece el artículo [140 Bis](../../lss/markdown/articulo-140-Bis.md) de la Ley del Seguro Social. Fracción adicionada DOF 04-06-2019 XXX. Entregar a sus trabajadores de manera gratuita un ejemplar impreso del contrato colectivo de trabajo inicial o de su revisión dentro de los quince días siguientes a que dicho contrato sea depositado ante el Centro Federal de Conciliación y Registro Laboral; esta obligación se podrá acreditar con la firma de recibido del trabajador; Fracción adicionada DOF 01-05-2019
+XXIX Bis.- Otorgar las facilidades conducentes a los trabajadores respecto de las licencias expedidas por el Instituto según lo establece el artículo [140 Bis](../../lss/markdown/articulo-140-Bis.md) de la Ley del Seguro Social. Fracción adicionada DOF 04-06-2019
+
+XXX. Entregar a sus trabajadores de manera gratuita un ejemplar impreso del contrato colectivo de trabajo inicial o de su revisión dentro de los quince días siguientes a que dicho contrato sea depositado ante el Centro Federal de Conciliación y Registro Laboral; esta obligación se podrá acreditar con la firma de recibido del trabajador; Fracción adicionada DOF 01-05-2019
 
 XXXI. Implementar, en acuerdo con los trabajadores, un protocolo para prevenir la discriminación por razones de género y atención de casos de violencia y acoso u hostigamiento sexual, así como erradicar el trabajo forzoso e infantil; Fracción adicionada DOF 01-05-2019
 

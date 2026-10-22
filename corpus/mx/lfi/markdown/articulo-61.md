@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf
 source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 ---
 
+> Título IV · Capítulo Primero
+
 # Artículo 61
 
 Los nombramientos de consejeros, contralor normativo, director general y directivos que ocupen cargos con la jerarquía inmediata inferior a la de este último, de las operadoras de los fondos de inversión, distribuidoras y valuadoras de acciones, deberán recaer en personas que acrediten contar con calidad técnica, honorabilidad e historial crediticio satisfactorio, así como con amplios conocimientos y experiencia en materia financiera, legal o administrativa. Párrafo reformado DOF 10-01-2014

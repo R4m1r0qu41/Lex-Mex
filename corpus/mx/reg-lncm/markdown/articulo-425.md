@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Tercero · Capítulo III
+
 # Artículo 425
 
 Las instalaciones de servicios cumplirán con las disposiciones establecidas en las Normas Oficiales Mexicanas correspondientes y, en lo no previsto por éstas, conforme lo establecen los Convenios Internacionales aplicables, con las exenciones que la [Dirección General](articulo-10.md) considere pertinentes.

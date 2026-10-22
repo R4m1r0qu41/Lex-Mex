@@ -23,7 +23,9 @@ I. El patrón, dentro de un término de diez días contado a partir de la fecha 
 
 Los trabajadores no podrán poner en conocimiento de terceras personas los datos contenidos en la declaración y en sus anexos;
 
-II. Dentro de los treinta días siguientes, el sindicato titular del contrato colectivo o la mayoría de los trabajadores de la empresa, podrá formular ante la Secretaría de Hacienda y Crédito Público las observaciones que juzgue convenientes, la que tendrá la obligación de responder por escrito, una vez que concluyan los procedimientos de fiscalización de acuerdo a los plazos que establece el Código Fiscal de la Federación, respecto de cada una de ellas; Fracción reformada DOF 30-11-2012 III. La resolución definitiva dictada por la misma Secretaría no podrá ser recurrida por los trabajadores; y
+II. Dentro de los treinta días siguientes, el sindicato titular del contrato colectivo o la mayoría de los trabajadores de la empresa, podrá formular ante la Secretaría de Hacienda y Crédito Público las observaciones que juzgue convenientes, la que tendrá la obligación de responder por escrito, una vez que concluyan los procedimientos de fiscalización de acuerdo a los plazos que establece el Código Fiscal de la Federación, respecto de cada una de ellas; Fracción reformada DOF 30-11-2012
+
+III. La resolución definitiva dictada por la misma Secretaría no podrá ser recurrida por los trabajadores; y
 
 IV. Dentro de los treinta días siguientes a la resolución dictada por la Secretaría de Hacienda y Crédito Público, el patrón dará cumplimiento a la misma independientemente de que la impugne. Si como resultado de la impugnación variara a su favor el sentido de la resolución, los pagos hechos podrán deducirse de las utilidades correspondientes a los trabajadores en el siguiente ejercicio.
 

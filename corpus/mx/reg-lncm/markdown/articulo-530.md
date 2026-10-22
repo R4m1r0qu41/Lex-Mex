@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Tercero · Capítulo V
+
 # Artículo 530
 
 Una vez aceptado el plan de maniobras que indique el piloto, el capitán de la Embarcación tiene la obligación de atenerse a él, siempre que considere que no se expone la seguridad de la Embarcación. En caso contrario, no se efectuará la maniobra y ambos darán aviso de ello a la autoridad competente.

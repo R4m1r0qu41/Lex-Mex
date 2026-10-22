@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Tercero · Capítulo III
+
 # Artículo 322
 
 Los Inspectores Navales Privados serán autorizados de acuerdo a las áreas o especialidades técnicas que soliciten. En caso de ser aprobados, tendrán las mismas atribuciones del [OSSM](articulo-10.md), con excepción de las señaladas en las fracciones II, IV, VI, VIII y XII del artículo [316](articulo-316.md) de este Reglamento.

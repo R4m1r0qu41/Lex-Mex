@@ -32,5 +32,3 @@ El encargo de sus integrantes será por el término de la legislatura, salvo aqu
 6. Si un diputado se separa del Grupo Parlamentario al que pertenecía en el momento de conformarse las comisiones, el Coordinador del propio Grupo podrá solicitar su sustitución. Numeral recorrido DOF 05-12-2006
 
 7. Los integrantes de la Mesa Directiva de la Cámara no formarán parte de las comisiones. Numeral recorrido DOF 05-12-2006
-
-Sección Tercera Disposiciones Complementarias

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAC.pdf
 source_sha256: 4dcf5277184d5f5c5cc1c8ae2dfa196134b472d883eb2806c7bac27cd77eda7d
 ---
 
+> Título Segundo · Capítulo II
+
 # Artículo 23
 
 La persona concesionaria requiere autorización de la Agencia Federal de Aviación Civil para realizar secciones extras de los vuelos. La sección extra es un vuelo adicional del servicio público de transporte aéreo nacional regular para operar una ruta autorizada, sin variación en el itinerario vigente, con el equipo autorizado que se tenga disponible y con la aplicación de la tarifa registrada para el tramo de ruta correspondiente.

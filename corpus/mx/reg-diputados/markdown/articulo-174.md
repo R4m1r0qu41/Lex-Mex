@@ -28,5 +28,3 @@ source_sha256: 6fa1d25c31c4d8c2cc8074208b10a2f3ff35fecce26c1cc03ba18117cfec80d1
 5. Las votaciones de comisiones unidas se tomarán de manera independiente por cada una. Los diputados y diputadas que sean integrantes de más de una de ellas, tendrán un voto por cada comisión.
 
 6. Para que haya dictamen de comisiones unidas, la propuesta deberá aprobarse por mayoría absoluta. Numeral reformado DOF 20-04-2011
-
-Sección Décima Primera Orden de los Asuntos

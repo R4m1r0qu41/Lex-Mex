@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LOTFJA.pdf
 source_sha256: b32c33fa4ed071dc8bea1ad69ce8510cdb05016967e9e4fcb60f10c6f2216628
 ---
 
-> Título SEGUNDO
+> Título SEGUNDO · Capítulo VII
 
 # Artículo 20
 
@@ -50,5 +50,3 @@ XIII. A petición de su Magistrado Presidente, solicitar al Pleno de la Sala Sup
 XIV. Dar seguimiento y proveer la ejecución de las resoluciones que emita, y
 
 XV. Las señaladas en las demás leyes como competencia exclusiva de la Sección.
-
-Capítulo VIII De las atribuciones de la Junta de Gobierno y Administración

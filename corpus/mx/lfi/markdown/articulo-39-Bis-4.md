@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf
 source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 ---
 
+> Título III · Capítulo Segundo
+
 # Artículo 39 Bis 4
 
 Las sociedades operadoras de fondos de inversión deberán proporcionar a sus clientes la información relativa a los productos financieros que ofrezcan, las actividades y servicios que les proporcionen, así como las comisiones cobradas, por lo que deberán contar con lineamientos para la difusión de tal información. La [Comisión](articulo-2.md) podrá expedir disposiciones de carácter general que establezcan tanto los elementos mínimos para la difusión de esta información como para la determinación de los conceptos y criterios para cobrar comisiones.

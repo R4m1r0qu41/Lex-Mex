@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf
 source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 ---
 
+> Título IV · Capítulo Quinto
+
 # Artículo 86 Bis 3
 
 Los fondos de inversión o las personas que otorguen los servicios a que se refieren las fracciones I a VI del artículo [32](articulo-32.md) de esta Ley, por conducto de su director general o equivalente y, con la opinión de la persona o área que ejerza las funciones de vigilancia de la propia sociedad, podrán someter a la autorización de la [Comisión](articulo-2.md) un programa de autocorrección cuando la sociedad de que se trate, en la realización de sus actividades, o la persona o área que ejerza las funciones de vigilancia como resultado de las funciones que tiene conferidas, detecten irregularidades o incumplimientos a lo previsto en esta Ley y demás disposiciones aplicables.

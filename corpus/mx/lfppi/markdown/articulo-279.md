@@ -13,11 +13,13 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPPI.pdf
 source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 ---
 
-> Título QUINTO
+> Título QUINTO · Capítulo II
 
 # Artículo 279
 
-La persona solicitante tendrá un plazo adicional de dos meses para cumplir los requisitos a que se refiere el [artículo anterior](articulo-278.md), sin que medie solicitud y comprobando el pago de la tarifa que corresponda al mes en que se dé cumplimiento. Párrafo reformado DOF 03-04-2026 El plazo adicional, se contará a partir del día siguiente al del vencimiento del plazo de dos meses previsto en el [artículo anterior](articulo-278.md).
+La persona solicitante tendrá un plazo adicional de dos meses para cumplir los requisitos a que se refiere el [artículo anterior](articulo-278.md), sin que medie solicitud y comprobando el pago de la tarifa que corresponda al mes en que se dé cumplimiento. Párrafo reformado DOF 03-04-2026
+
+El plazo adicional, se contará a partir del día siguiente al del vencimiento del plazo de dos meses previsto en el [artículo anterior](articulo-278.md).
 
 La solicitud se tendrá por abandonada si la persona solicitante no da cumplimiento a los requerimientos formulados dentro del plazo inicial o en el adicional a que se refiere este artículo, o no presenta el comprobante de pago de las tarifas correspondientes. Párrafo reformado DOF 03-04-2026
 

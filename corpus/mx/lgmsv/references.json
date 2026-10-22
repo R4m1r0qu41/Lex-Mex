@@ -47,11 +47,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmsv:article:3:reference:2415-2417:29:direct",
+    "id": "urn:lex-mx:federal:statute:lgmsv:article:3:reference:2416-2418:29:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lgmsv:article:3",
     "source_span": "29",
-    "start_char": 2415,
-    "end_char": 2417,
+    "start_char": 2416,
+    "end_char": 2418,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgmsv",
     "target_provision_id": "urn:lex-mx:federal:statute:lgmsv:article:29",
     "qualifiers": [],
@@ -63,19 +63,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmsv:article:3:reference:11166-11167:2:direct",
+    "id": "urn:lex-mx:federal:statute:lgmsv:article:3:reference:11167-11168:2:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lgmsv:article:3",
     "source_span": "2",
-    "start_char": 11166,
-    "end_char": 11167,
+    "start_char": 11167,
+    "end_char": 11168,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgipd",
     "target_provision_id": "urn:lex-mx:federal:statute:lgipd:article:2",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción XXVII",
-        "start_char": 11138,
-        "end_char": 11152
+        "start_char": 11139,
+        "end_char": 11153
       }
     ],
     "basis": "express_cross_reference",
@@ -86,11 +86,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmsv:article:3:reference:14716-14718:27:direct",
+    "id": "urn:lex-mx:federal:statute:lgmsv:article:3:reference:14717-14719:27:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lgmsv:article:3",
     "source_span": "27",
-    "start_char": 14716,
-    "end_char": 14718,
+    "start_char": 14717,
+    "end_char": 14719,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgmsv",
     "target_provision_id": "urn:lex-mx:federal:statute:lgmsv:article:27",
     "qualifiers": [],
@@ -211,28 +211,5 @@
     "resolution_status": "resolved",
     "reference_form": "direct",
     "resolution_rule": "own_instrument_default"
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmsv:transitory:sexto:reference:1013-1015:89:direct",
-    "source_provision_id": "urn:lex-mx:federal:statute:lgmsv:transitory:sexto",
-    "source_span": "89",
-    "start_char": 1013,
-    "end_char": 1015,
-    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
-    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:89",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 989,
-        "end_char": 999
-      }
-    ],
-    "basis": "express_cross_reference",
-    "confidence": 1.0,
-    "resolution_status": "resolved",
-    "reference_form": "direct",
-    "resolution_rule": "named_instrument"
   }
 ]

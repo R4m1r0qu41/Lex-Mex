@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Tercero · Capítulo I
+
 # Artículo 237
 
 En los permisos temporales de Navegación se incluirá expresamente que en caso de permanecer la Embarcación extranjera en zonas marinas mexicanas por más de dos años, el naviero tendrá la obligación de abanderarla como mexicana en el plazo máximo de dicho período, contado éste a partir de la fecha de expedición del primer permiso temporal de Navegación y, en caso, de no abanderarse como mexicana en el plazo señalado, la [Dirección General](articulo-10.md) no otorgará renovaciones o permisos adicionales para la misma Embarcación o para otra Embarcación similar que pretenda contratar el mismo naviero para prestar un servicio igual o similar al efectuado.

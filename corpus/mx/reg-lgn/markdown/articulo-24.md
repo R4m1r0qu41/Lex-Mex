@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGN_111220.pdf
 source_sha256: ea6e39560929f2e1998b2dabe0852fde0d684c69e5be49aab7f33433299bbeb0
 ---
 
-> Título SEGUNDO
+> Título SEGUNDO · Capítulo III
 
 # Artículo 24
 
@@ -50,5 +50,3 @@ XIV. Elaborar y analizar las estadísticas y el sistema de registro de los asunt
 XV. Recopilar, analizar y evaluar la información difundida en los medios de comunicación, y
 
 XVI. Las demás que le confieran otras disposiciones jurídicas, así como aquellas funciones que le encomiende su superior.
-
-Capítulo IV De la Coordinación de Administración y Finanzas

@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGRA.pdf
 source_sha256: 1289ec6964e48c84990572ca6080ca05c9d6210e5b0ff5af6d8c9d935fc5fcc8
 ---
 
-> Título TERCERO
+> Título TERCERO · Capítulo I
 
 # Artículo 49
 
@@ -41,4 +41,6 @@ IX. [Cerciorarse, antes de la celebración de contratos de adquisiciones, arrend
 
 X. [Sin perjuicio de la obligación anterior, previo a realizar cualquier acto jurídico que involucre el ejercicio de recursos públicos con personas jurídicas, revisar su constitución y, en su caso, sus modificaciones con el fin de verificar que sus socios, integrantes de los consejos de administración o accionistas que ejerzan control no incurran en conflicto de interés.] Fracción adicionada DOF 19-11-2019. Reformada DOF 27-12-2022 Fracción declarada inválida por Resolutivos de la SCJN a Acción de Inconstitucionalidad notificados para efectos legales el 08-05-2023 Fracción que “recupera su vigencia con el texto que tenía al 27 de diciembre de 2022” por Engrose de sentencia de la SCJN a Acción de Inconstitucionalidad notificado el 31-05-2023 y publicado DOF 24-11-2023
 
-[XI. Suprimida] Fracción adicionada DOF 27-12-2022 Fracción declarada inválida por Resolutivos de la SCJN a Acción de Inconstitucionalidad notificados para efectos legales el 08-05-2023 Fracción suprimida conforme al texto de la ley “que tenía al 27 de diciembre de 2022” por Engrose de sentencia de la SCJN a Acción de Inconstitucionalidad notificado el 31-05-2023 y publicado DOF 24-11-2023 Para efectos de esta Ley se entiende que un socio o accionista ejerce control sobre una sociedad cuando sean administradores o formen parte del consejo de administración, o bien conjunta o separadamente, directa o indirectamente, mantengan la titularidad de derechos que permitan ejercer el voto respecto de más del cincuenta por ciento del capital, tengan poder decisorio en sus asambleas, estén en posibilidades de nombrar a la mayoría de los miembros de su órgano de administración o por cualquier otro medio tengan facultades de tomar las decisiones fundamentales de dichas personas morales.
+[XI. Suprimida] Fracción adicionada DOF 27-12-2022 Fracción declarada inválida por Resolutivos de la SCJN a Acción de Inconstitucionalidad notificados para efectos legales el 08-05-2023 Fracción suprimida conforme al texto de la ley “que tenía al 27 de diciembre de 2022” por Engrose de sentencia de la SCJN a Acción de Inconstitucionalidad notificado el 31-05-2023 y publicado DOF 24-11-2023
+
+Para efectos de esta Ley se entiende que un socio o accionista ejerce control sobre una sociedad cuando sean administradores o formen parte del consejo de administración, o bien conjunta o separadamente, directa o indirectamente, mantengan la titularidad de derechos que permitan ejercer el voto respecto de más del cincuenta por ciento del capital, tengan poder decisorio en sus asambleas, estén en posibilidades de nombrar a la mayoría de los miembros de su órgano de administración o por cualquier otro medio tengan facultades de tomar las decisiones fundamentales de dichas personas morales.

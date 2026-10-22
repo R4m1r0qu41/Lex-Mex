@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LCM.pdf
 source_sha256: 8e270686b885035488bfe310b0b42bb40e7154431794227ebe212dd7dc12e46a
 ---
 
-> Título SEGUNDO
+> Título SEGUNDO · Capítulo I
 
 # Artículo 61
 
@@ -22,5 +22,3 @@ El visitador, el conciliador y el síndico serán responsables ante el [Comercia
 En el caso del síndico y del conciliador, cuando esté a cargo de la administración, serán igualmente responsables por el incumplimiento a las obligaciones fiscales a que se refiere el artículo [69](articulo-69.md) de esta [Ley](articulo-4o.md).
 
 Artículo reformado DOF 10-01-2014
-
-Capítulo II De los interventores

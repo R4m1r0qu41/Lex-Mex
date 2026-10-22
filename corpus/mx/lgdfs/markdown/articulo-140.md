@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDFS.pdf
 source_sha256: 2c75fd0eab3245aed43a4e1230dcd142b48959a1df09bdd4e70684935a505dd4
 ---
 
-> Título SEXTO
+> Título SEXTO · Capítulo II
 
 # Artículo 140
 
@@ -36,5 +36,3 @@ VIII. Los demás recursos que obtenga por cualquier otro concepto.
 Los recursos que el Fondo Forestal Mexicano obtenga por el cobro de bienes y servicios ambientales se entregarán directamente a los proveedores de dichos servicios y una parte se destinará a cubrir los costos de esta operación. Los recursos obtenidos por concepto de compensación ambiental para actividades de reforestación o restauración y su mantenimiento podrán también ser utilizados para la protección de los recursos forestales y la prevención, adaptación y mitigación del cambio climático en los ecosistemas forestales. Párrafo reformado DOF 28-04-2022
 
 Las aportaciones y donaciones que las personas físicas o morales de carácter privado hagan al Fondo Forestal Mexicano serán deducibles del Impuesto sobre la Renta.
-
-Capítulo III De la Infraestructura Forestal

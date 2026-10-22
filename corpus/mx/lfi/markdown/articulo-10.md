@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf
 source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 ---
 
+> Título II · Capítulo Segundo
+
 # Artículo 10
 
 Los fondos de inversión, como excepción a la Ley General de Sociedades Mercantiles, no contarán con asamblea de accionistas, ni consejo de administración ni comisario. Las funciones que los artículos [181](../../lgsm/markdown/articulo-181.md) y [182](../../lgsm/markdown/articulo-182.md) de la Ley General de Sociedades Mercantiles asignan a la asamblea de accionistas, estarán asignadas al socio fundador y en los casos en que esta Ley expresamente lo indique, adicionalmente a los demás socios. Igualmente, las actividades del consejo de administración quedarán encomendadas a la sociedad operadora de fondos de inversión que contrate en cumplimiento de esta Ley. Por lo que corresponde a la vigilancia de los fondos de inversión, esta se asigna al contralor normativo de la sociedad operadora de fondos de inversión contratada por el propio fondo, en los términos previstos en la presente Ley.

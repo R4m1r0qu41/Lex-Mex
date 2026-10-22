@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAPP.pdf
 source_sha256: a4505a7bd41bc835f1def6fb030c42d8e74a2cc050d9c8fa08f91c9519e382bf
 ---
 
+> Capítulo Duodécimo · Sección Primera
+
 # Artículo 135
 
 Dentro de los cinco días hábiles siguientes al vencimiento de los plazos citados en el artículo [134](articulo-134.md) inmediato anterior, la parte interesada notificará a su contraparte aviso que contendrá:

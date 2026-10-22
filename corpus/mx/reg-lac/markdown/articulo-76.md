@@ -13,12 +13,10 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAC.pdf
 source_sha256: 4dcf5277184d5f5c5cc1c8ae2dfa196134b472d883eb2806c7bac27cd77eda7d
 ---
 
-> Título TERCERO
+> Título TERCERO · Capítulo I
 
 # Artículo 76
 
 (Se deroga).
 
 Artículo reformado DOF 08-08-2000, 05-10-2000. Derogado DOF 24-06-2004
-
-Sección segunda Del personal de vuelo

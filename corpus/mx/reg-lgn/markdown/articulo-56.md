@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGN_111220.pdf
 source_sha256: ea6e39560929f2e1998b2dabe0852fde0d684c69e5be49aab7f33433299bbeb0
 ---
 
-> Título SEGUNDO
+> Título SEGUNDO · Capítulo IX
 
 # Artículo 56
 
@@ -52,5 +52,3 @@ XVII. Dirigir las acciones tendientes a la protección ecológica en los predios
 XVIII. Las demás que le confieran otras disposiciones jurídicas, así como aquellas funciones que le encomiende el Titular de la Coordinación Territorial.
 
 El Titular de la Jefatura de Coordinación Policial Territorial, para el ejercicio de sus facultades, será auxiliado por las Jefaturas Operativa y Logística, las cuales se organizarán y funcionarán conforme al Manual correspondiente.
-
-Capítulo X De las Coordinaciones Estatales

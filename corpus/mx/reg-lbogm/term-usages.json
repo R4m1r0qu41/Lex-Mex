@@ -1375,14 +1375,5 @@
     "span": "México",
     "start_char": 228,
     "end_char": 234
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lbogm:transitory:decimo:term-usage:142-148",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lbogm:transitory:decimo",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lbogm:term:mexico",
-    "span": "México",
-    "start_char": 142,
-    "end_char": 148
   }
 ]

@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LCM.pdf
 source_sha256: 8e270686b885035488bfe310b0b42bb40e7154431794227ebe212dd7dc12e46a
 ---
 
-> Título DÉCIMO SEGUNDO
+> Título DÉCIMO SEGUNDO · Capítulo II
 
 # Artículo 291
 
@@ -28,5 +28,3 @@ I. Señalar un plazo de cuarenta y cinco días naturales para la presentación d
 II. Indicar si los acreedores con créditos garantizados necesitan presentar esos créditos, y
 
 III. Contener cualquier otra información requerida para esa notificación conforme a las leyes mexicanas y a las resoluciones del juez.
-
-Capítulo III Del reconocimiento de un procedimiento extranjero y medidas otorgables

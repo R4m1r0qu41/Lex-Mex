@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf
 source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 ---
 
+> Título IV · Capítulo Quinto
+
 # Artículo 87 Bis 12
 
 No obstante lo dispuesto en este apartado, si la persona mal notificada o no notificada se manifestare ante el tribunal, sabedora de la providencia, antes de promover el medio de defensa que corresponda, la notificación mal hecha u omitida surtirá sus efectos, como si estuviese hecha con arreglo a la ley. En este caso, el medio de defensa que se promueva será desechado de plano.

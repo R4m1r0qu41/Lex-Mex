@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFDA.pdf
 source_sha256: 1844f4e56b279c17061db90f4ab7970df3794e3a5ae10d74a0aec1f12641e7a5
 ---
 
-> Título II
+> Título II · Capítulo III
 
 # Artículo 27
 
@@ -25,7 +25,9 @@ II. La comunicación pública de su obra a través de cualquiera de las siguient
 
 a) La representación, recitación y ejecución pública en el caso de las obras literarias y artísticas;
 
-b) La exhibición pública por cualquier medio o procedimiento, en el caso de obras literarias y artísticas; Inciso reformado DOF 01-07-2020 c) El acceso público por medio de la telecomunicación, incluida la banda ancha e Internet, y Inciso reformado DOF 01-07-2020
+b) La exhibición pública por cualquier medio o procedimiento, en el caso de obras literarias y artísticas; Inciso reformado DOF 01-07-2020
+
+c) El acceso público por medio de la telecomunicación, incluida la banda ancha e Internet, y Inciso reformado DOF 01-07-2020
 
 d) La puesta a disposición del público de sus obras, de tal forma que los miembros del público puedan acceder a estas obras desde el lugar y en el momento que cada uno de ellos elija. Inciso adicionado DOF 01-07-2020
 

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Tercero · Capítulo III
+
 # Artículo 338
 
 El casco, las [Superestructuras](articulo-10.md), casetas, guardacalores de máquinas, tambuchos, los equipos de amarre y fondeo y cualquier otra estructura, equipo o sistema de las Embarcaciones o Artefactos Navales, deberán ser construidos y diseñados de tal forma que les dé la resistencia necesaria para hacer frente a todas las condiciones previsibles del servicio a que se destinen éstas.

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSPCAPF.pdf
 source_sha256: b4a968d8e8c138ac2069f6afa0dc622178328df24f59cf58eddbab8efe4a7eff
 ---
 
+> Capítulo Décimo Tercero
+
 # Artículo 69
 
 Las dependencias, para el otorgamiento de incentivos, deben observar lo siguiente: Párrafo reformado DOF 04-01-2024

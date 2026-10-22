@@ -26,5 +26,3 @@ source_sha256: 30e92e19100dc26408ce0b130151f8c44fe25aeb113eff14f3515553330ba230
 4. Se podrá incrementar el número de miembros de las comisiones ordinarias, tomando en cuenta lo dispuesto en el numeral 2 de este artículo, siempre que haya Acuerdo de la mayoría de los integrantes de la Junta de Coordinación Política y sea aprobado por el Pleno. Numeral adicionado DOF 08-05-2019
 
 5. A propuesta de la Junta de Coordinación Política, el Pleno podrá constituir “grupos de amistad” para la atención y seguimiento de los vínculos bilaterales con órganos de representación popular de países con los que México sostenga relaciones diplomáticas. Numeral recorrido DOF 08-05-2019
-
-Sección Tercera De su Organización

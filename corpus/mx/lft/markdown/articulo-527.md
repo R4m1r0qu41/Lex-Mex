@@ -63,7 +63,9 @@ I. Ramas industriales y de servicios: Párrafo reformado DOF 30-11-2012
 
 21. Tabacalera, que comprende el beneficio o fabricación de productos de tabaco; y Numeral reformado DOF 30-11-2012
 
-22. Servicios de banca y crédito. Numeral adicionado DOF 30-11-2012 II. Empresas:
+22. Servicios de banca y crédito. Numeral adicionado DOF 30-11-2012
+
+II. Empresas:
 
 1. Aquéllas que sean administradas en forma directa o descentralizada por el Gobierno Federal;
 

@@ -13,8 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Segundo · Capítulo V
+
 # Artículo 134
 
 Las actividades que deban llevarse a cabo por [Personal de la Marina Mercante](articulo-10.md), vinculadas a la operación de Embarcaciones y Artefactos Navales, que no cuenten con regulación de cursos de capacitación de la [OMI](articulo-10.md) y que sean impartidos por instituciones educativas extranjeras o nacionales, podrán ser reconocidas por la [Dirección General](articulo-10.md) si de acuerdo a su análisis cumple con estándares internacionales del sector en que operen.
-
-Sección IV [Instituciones Educativas Particulares](articulo-10.md)

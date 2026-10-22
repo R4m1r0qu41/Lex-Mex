@@ -13,8 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSPCAPF.pdf
 source_sha256: b4a968d8e8c138ac2069f6afa0dc622178328df24f59cf58eddbab8efe4a7eff
 ---
 
+> Capítulo Quinto
+
 # Artículo 16
 
 Para la validez de las sesiones del Comité Técnico de Profesionalización se requerirá la asistencia de la totalidad de sus miembros o representantes. Sus resoluciones se tomarán por mayoría de votos.
-
-Capítulo Sexto De los Comités Técnicos de Selección

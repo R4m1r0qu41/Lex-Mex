@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Tercero · Capítulo III
+
 # Artículo 344
 
 El cuaderno de estabilidad de las Embarcaciones o Artefactos Navales iguales o mayores de veinticuatro metros de eslora que se presente para su aprobación, deberá incluir la estabilidad estática y dinámica, así como los criterios mínimos de estabilidad para los análisis de cada una de las condiciones de carga que deberán estar basados según el tipo de Embarcación o Artefacto Naval, en la Resolución A-749 (18) de la [OMI](articulo-10.md) o la que le sustituya, incluyendo los cálculos correspondientes a su condición en rosca y de entrada a dique.

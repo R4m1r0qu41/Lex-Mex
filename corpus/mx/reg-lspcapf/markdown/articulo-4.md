@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSPCAPF.pdf
 source_sha256: b4a968d8e8c138ac2069f6afa0dc622178328df24f59cf58eddbab8efe4a7eff
 ---
 
+> Capítulo Primero
+
 # Artículo 4
 
 La actuación de los servidores públicos de carrera y la operación del Sistema se sujetará a los siguientes principios:
@@ -30,5 +32,3 @@ V. Imparcialidad: Es actuar sin conceder preferencias o privilegios a persona al
 VII. Competencia por mérito: Es la valoración integral de las capacidades de las personas aspirantes a ingresar al Sistema, así como de los servidores públicos de carrera, que se efectúa con base en la relación que existe entre los siguientes elementos: experiencia, estudios y actividades de formación y difusión, actitudes, competencias, resultados de desempeño en el cumplimiento de sus programas de trabajo, logros, y contribuciones que realizan para el cumplimiento de los objetivos institucionales de las dependencias, y Fracción reformada DOF 04-01-2024
 
 VIII. Igualdad de género: Es el acceso de las mujeres y hombres a las mismas posibilidades y oportunidades para el reconocimiento, goce o ejercicio de los derechos que reconoce la Ley y el presente reglamento. Fracción reformada DOF 04-01-2024
-
-Capítulo Segundo De los Servidores Públicos de Carrera

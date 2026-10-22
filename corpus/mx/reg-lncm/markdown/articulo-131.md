@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Segundo · Capítulo V
+
 # Artículo 131
 
 Las Escuelas Náuticas Mercantes e Instituciones Educativas del [FIDENA](articulo-10.md), así como las [Instituciones Educativas Particulares](articulo-10.md), deberán registrar a sus instructores ante la [Dirección General](articulo-10.md), la cual les expedirá su [Certificado de Competencia](articulo-10.md), previa comprobación de su capacidad una vez acreditado lo siguiente:

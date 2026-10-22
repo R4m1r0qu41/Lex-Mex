@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDFS.pdf
 source_sha256: 2c75fd0eab3245aed43a4e1230dcd142b48959a1df09bdd4e70684935a505dd4
 ---
 
-> Título CUARTO
+> Título CUARTO · Capítulo I
 
 # Artículo 85
 
@@ -26,5 +26,3 @@ b) Tallos de las especies del género Yucca, y
 c) Plantas completas de las familias Agavaceae, Cactaceae, Cyatheaceae, Dicksoniaceae, Nolinaceae, Orchidaceae, Palmae y Zamiaceae provenientes de vegetación forestal.
 
 El [Reglamento](articulo-7.md) establecerá los requisitos de la solicitud de autorización.
-
-Sección Quinta De la Colecta y Uso de los Recursos Forestales

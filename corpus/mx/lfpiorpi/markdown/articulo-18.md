@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPIORPI.pdf
 source_sha256: 2e35228bd3100a3a137f313359833c4836f2b4b6d4e52e1ce4fe58a970cd768f
 ---
 
+> Capítulo III · Sección Segunda
+
 # Artículo 18
 
 Quienes realicen las [Actividades Vulnerables](articulo-3.md) a que se refiere el [artículo anterior](articulo-17.md) tendrán las obligaciones siguientes:

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPIORPI.pdf
 source_sha256: 2e35228bd3100a3a137f313359833c4836f2b4b6d4e52e1ce4fe58a970cd768f
 ---
 
+> Capítulo III · Sección Tercera
+
 # Artículo 24
 
 La presentación de los [Avisos](articulo-3.md) e Informes se llevará a cabo a través de los medios electrónicos y en los formatos oficiales que establezca la [Secretaría](articulo-3.md), los cuales deberán ser publicados en el Diario Oficial de la Federación, así como sus modificaciones. Párrafo reformado DOF 16-07-2025

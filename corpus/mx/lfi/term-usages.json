@@ -1441,39 +1441,39 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfi:article:32:term-usage:879-887",
+    "id": "urn:lex-mx:federal:statute:lfi:article:32:term-usage:880-888",
     "provision_id": "urn:lex-mx:federal:statute:lfi:article:32",
     "term_id": "urn:lex-mx:federal:statute:lfi:term:comision",
     "span": "Comisión",
-    "start_char": 879,
-    "end_char": 887
+    "start_char": 880,
+    "end_char": 888
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfi:article:32:term-usage:1067-1075",
+    "id": "urn:lex-mx:federal:statute:lfi:article:32:term-usage:1068-1076",
     "provision_id": "urn:lex-mx:federal:statute:lfi:article:32",
     "term_id": "urn:lex-mx:federal:statute:lfi:term:comision",
     "span": "Comisión",
-    "start_char": 1067,
-    "end_char": 1075
+    "start_char": 1068,
+    "end_char": 1076
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfi:article:32:term-usage:1550-1558",
+    "id": "urn:lex-mx:federal:statute:lfi:article:32:term-usage:1551-1559",
     "provision_id": "urn:lex-mx:federal:statute:lfi:article:32",
     "term_id": "urn:lex-mx:federal:statute:lfi:term:comision",
     "span": "Comisión",
-    "start_char": 1550,
-    "end_char": 1558
+    "start_char": 1551,
+    "end_char": 1559
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfi:article:32:term-usage:3332-3340",
+    "id": "urn:lex-mx:federal:statute:lfi:article:32:term-usage:3333-3341",
     "provision_id": "urn:lex-mx:federal:statute:lfi:article:32",
     "term_id": "urn:lex-mx:federal:statute:lfi:term:comision",
     "span": "Comisión",
-    "start_char": 3332,
-    "end_char": 3340
+    "start_char": 3333,
+    "end_char": 3341
   },
   {
     "schema_version": "0.1.0",
@@ -1981,21 +1981,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfi:article:39:term-usage:2390-2416",
+    "id": "urn:lex-mx:federal:statute:lfi:article:39:term-usage:2391-2417",
     "provision_id": "urn:lex-mx:federal:statute:lfi:article:39",
     "term_id": "urn:lex-mx:federal:statute:lfi:term:activos-objeto-de-inversion",
     "span": "Activo Objeto de Inversión",
-    "start_char": 2390,
-    "end_char": 2416
+    "start_char": 2391,
+    "end_char": 2417
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfi:article:39:term-usage:3054-3062",
+    "id": "urn:lex-mx:federal:statute:lfi:article:39:term-usage:3055-3063",
     "provision_id": "urn:lex-mx:federal:statute:lfi:article:39",
     "term_id": "urn:lex-mx:federal:statute:lfi:term:comision",
     "span": "Comisión",
-    "start_char": 3054,
-    "end_char": 3062
+    "start_char": 3055,
+    "end_char": 3063
   },
   {
     "schema_version": "0.1.0",
@@ -2854,75 +2854,75 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfi:article:80:term-usage:5165-5173",
+    "id": "urn:lex-mx:federal:statute:lfi:article:80:term-usage:5166-5174",
     "provision_id": "urn:lex-mx:federal:statute:lfi:article:80",
     "term_id": "urn:lex-mx:federal:statute:lfi:term:comision",
     "span": "Comisión",
-    "start_char": 5165,
-    "end_char": 5173
+    "start_char": 5166,
+    "end_char": 5174
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfi:article:80:term-usage:5794-5802",
+    "id": "urn:lex-mx:federal:statute:lfi:article:80:term-usage:5795-5803",
     "provision_id": "urn:lex-mx:federal:statute:lfi:article:80",
     "term_id": "urn:lex-mx:federal:statute:lfi:term:comision",
     "span": "Comisión",
-    "start_char": 5794,
-    "end_char": 5802
+    "start_char": 5795,
+    "end_char": 5803
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfi:article:80:term-usage:6213-6221",
+    "id": "urn:lex-mx:federal:statute:lfi:article:80:term-usage:6214-6222",
     "provision_id": "urn:lex-mx:federal:statute:lfi:article:80",
     "term_id": "urn:lex-mx:federal:statute:lfi:term:comision",
     "span": "Comisión",
-    "start_char": 6213,
-    "end_char": 6221
+    "start_char": 6214,
+    "end_char": 6222
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfi:article:80:term-usage:6535-6543",
+    "id": "urn:lex-mx:federal:statute:lfi:article:80:term-usage:6536-6544",
     "provision_id": "urn:lex-mx:federal:statute:lfi:article:80",
     "term_id": "urn:lex-mx:federal:statute:lfi:term:comision",
     "span": "Comisión",
-    "start_char": 6535,
-    "end_char": 6543
+    "start_char": 6536,
+    "end_char": 6544
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfi:article:80:term-usage:6734-6742",
+    "id": "urn:lex-mx:federal:statute:lfi:article:80:term-usage:6735-6743",
     "provision_id": "urn:lex-mx:federal:statute:lfi:article:80",
     "term_id": "urn:lex-mx:federal:statute:lfi:term:comision",
     "span": "Comisión",
-    "start_char": 6734,
-    "end_char": 6742
+    "start_char": 6735,
+    "end_char": 6743
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfi:article:80:term-usage:8619-8627",
+    "id": "urn:lex-mx:federal:statute:lfi:article:80:term-usage:8621-8629",
     "provision_id": "urn:lex-mx:federal:statute:lfi:article:80",
     "term_id": "urn:lex-mx:federal:statute:lfi:term:comision",
     "span": "Comisión",
-    "start_char": 8619,
-    "end_char": 8627
+    "start_char": 8621,
+    "end_char": 8629
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfi:article:80:term-usage:9898-9925",
+    "id": "urn:lex-mx:federal:statute:lfi:article:80:term-usage:9900-9927",
     "provision_id": "urn:lex-mx:federal:statute:lfi:article:80",
     "term_id": "urn:lex-mx:federal:statute:lfi:term:activos-objeto-de-inversion",
     "span": "Activos Objeto de Inversión",
-    "start_char": 9898,
-    "end_char": 9925
+    "start_char": 9900,
+    "end_char": 9927
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfi:article:80:term-usage:10624-10632",
+    "id": "urn:lex-mx:federal:statute:lfi:article:80:term-usage:10626-10634",
     "provision_id": "urn:lex-mx:federal:statute:lfi:article:80",
     "term_id": "urn:lex-mx:federal:statute:lfi:term:comision",
     "span": "Comisión",
-    "start_char": 10624,
-    "end_char": 10632
+    "start_char": 10626,
+    "end_char": 10634
   },
   {
     "schema_version": "0.1.0",

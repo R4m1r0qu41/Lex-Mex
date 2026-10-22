@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFEA.pdf
 source_sha256: 910ba43ef1ae54b3b12fe325f65c81056191fde641c52a10ba709f0f1a39021f
 ---
 
+> Capítulo V
+
 # Artículo 23
 
 La Secretaría de Economía, el Servicio de Administración Tributaria y las demás Autoridades Certificadoras deberán remitir a la Secretaría una copia de las bases o convenios de colaboración que suscriban para la prestación de Servicios relacionados con la Firma Electrónica Avanzada.

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPIORPI.pdf
 source_sha256: 2e35228bd3100a3a137f313359833c4836f2b4b6d4e52e1ce4fe58a970cd768f
 ---
 
+> Capítulo II
+
 # Artículo 12
 
 Para el cumplimiento del objeto de esta [Ley](articulo-3.md), las autoridades tendrán las siguientes obligaciones:
@@ -30,7 +32,3 @@ a) Procurar un adecuado equilibrio regulatorio, que evite molestias o trámites 
 b) Tomar las medidas necesarias para facilitar el cumplimiento de esta Ley y mitigar su impacto económico, y
 
 c) Evitar que el sistema financiero sea utilizado para operaciones ilícitas.
-
-Capítulo III De las [Entidades Financieras](articulo-3.md) y de las [Actividades Vulnerables](articulo-3.md)
-
-Sección Primera De las Entidades Financieras

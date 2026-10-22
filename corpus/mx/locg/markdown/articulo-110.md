@@ -24,5 +24,3 @@ a) Encabezar y dirigir los servicios administrativos, a fin de que éstos se des
 b) Conducir las relaciones de trabajo establecidas con el personal de base de la Cámara; y
 
 c) Administrar los recursos humanos y materiales, así como los servicios generales, de informática, jurídicos y de seguridad de la Cámara.
-
-Sección Tercera De la Tesorería y la Contraloría

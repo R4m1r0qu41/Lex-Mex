@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAC.pdf
 source_sha256: 4dcf5277184d5f5c5cc1c8ae2dfa196134b472d883eb2806c7bac27cd77eda7d
 ---
 
+> Título Segundo · Capítulo III
+
 # Artículo 46
 
 Si una persona pasajera pretende transportar armas de fuego o artículos, materiales, sustancias y objetos peligrosos debe presentar a la autoridad competente la licencia o permiso correspondiente y hacer entrega de aquéllos a la persona concesionaria, asignataria o permisionaria previo inicio del vuelo, quien debe transportarlo en el compartimento de carga de la aeronave, cuando proceda, de conformidad con lo establecido en las normas oficiales mexicanas y las disposiciones técnico-administrativas correspondientes. El bien se debe devolver a la persona pasajera o usuaria en el aeródromo civil de destino.

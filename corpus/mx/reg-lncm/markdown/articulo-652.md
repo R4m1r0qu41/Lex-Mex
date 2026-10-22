@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Tercero · Capítulo IX
+
 # Artículo 652
 
 Las medidas de seguridad necesarias que deberá observar el prestador de servicios para el adecuado mantenimiento de la Embarcación, el equipo de seguridad y, en su caso, la [Unidad Adicional Recreativa](articulo-10.md), serán cuando menos, las siguientes:

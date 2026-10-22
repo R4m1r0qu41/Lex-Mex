@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDFS.pdf
 source_sha256: 2c75fd0eab3245aed43a4e1230dcd142b48959a1df09bdd4e70684935a505dd4
 ---
 
-> Título CUARTO
+> Título CUARTO · Capítulo I
 
 # Artículo 92 Bis
 
@@ -22,5 +22,3 @@ Los propietarios de los centros de almacenamiento y transformación de materias 
 La omisión en la presentación de dos informes semestrales, la [Secretaría](articulo-7.md) revocará la autorización de funcionamiento de los centros de almacenamiento y transformación de materias primas y productos forestales; la misma medida se aplicará para aquellos centros que proporcionen información falsa a la Secretaría.
 
 Artículo adicionado DOF 11-04-2022
-
-Sección Séptima Del Cambio de Uso de Suelo en Terrenos Forestales

@@ -13,12 +13,10 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAN_250814.pdf
 source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 ---
 
-> Título SEGUNDO
+> Título SEGUNDO · Capítulo I
 
 # Artículo 6o
 
 Además de lo previsto en los artículos [5](../../lan/markdown/articulo-5.md)o., y 6o., de la "[Ley](articulo-1o.md)", corresponde al Ejecutivo Federal decretar, por las causas de utilidad pública a que se refiere el artículo [7](../../lan/markdown/articulo-7.md)o., de la "Ley", la expropiación, la ocupación temporal, total o parcial de los bienes de propiedad privada o la limitación del dominio en los términos de la "Ley", de la Ley de Expropiación y de las demás disposiciones aplicables.
 
 Cuando se trate de bienes ejidales o comunales, se procederá en los términos de la Ley Agraria.
-
-Capítulo II Comisión Nacional del Agua

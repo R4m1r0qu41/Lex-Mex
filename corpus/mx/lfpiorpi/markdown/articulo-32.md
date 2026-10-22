@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPIORPI.pdf
 source_sha256: 2e35228bd3100a3a137f313359833c4836f2b4b6d4e52e1ce4fe58a970cd768f
 ---
 
+> Capítulo IV
+
 # Artículo 32
 
 Queda prohibido dar cumplimiento a obligaciones y, en general, liquidar o pagar, así como aceptar la liquidación o el pago, de actos u operaciones mediante el uso de monedas y billetes, en moneda nacional o divisas y [Metales Preciosos](articulo-3.md), aun cuando la liquidación o el pago se realice en efectivo por conducto de una [Entidad Financiera](articulo-3.md), en los supuestos siguientes:

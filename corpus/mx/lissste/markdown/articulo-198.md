@@ -28,5 +28,3 @@ III. De atención a jubilados, [Pensionados](articulo-6.md) y discapacitados;
 IV. Programas de fomento deportivo, y
 
 V. Los demás que acuerde la Junta Directiva, siempre que no se afecte la viabilidad financiera en el corto, mediano o largo plazo.
-
-Sección III Régimen Financiero

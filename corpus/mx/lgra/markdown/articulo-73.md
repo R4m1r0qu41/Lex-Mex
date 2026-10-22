@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGRA.pdf
 source_sha256: 1289ec6964e48c84990572ca6080ca05c9d6210e5b0ff5af6d8c9d935fc5fcc8
 ---
 
-> Título TERCERO
+> Título TERCERO · Capítulo IV
 
 # Artículo 73
 
@@ -26,5 +26,3 @@ Artículo reformado (publicado íntegro sin cambios) DOF 27-12-2022
 Artículo declarado inválido por Resolutivos de la SCJN a Acción de Inconstitucionalidad notificados para efectos legales el 08-05-2023
 
 Artículo que “recupera su vigencia con el texto que tenía al 27 de diciembre de 2022” por Engrose de sentencia de la SCJN a Acción de Inconstitucionalidad notificado el 31-05-2023 y publicado DOF 24-11-2023
-
-Capítulo V De la prescripción de la responsabilidad administrativa

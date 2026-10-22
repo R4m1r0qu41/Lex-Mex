@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAPP.pdf
 source_sha256: a4505a7bd41bc835f1def6fb030c42d8e74a2cc050d9c8fa08f91c9519e382bf
 ---
 
+> Capítulo Cuarto · Sección Primera
+
 # Artículo 40
 
 En los términos que señalen las bases, los actos del concurso podrán realizarse a través de medios electrónicos, con tecnologías que resguarden la autenticidad, confidencialidad e inviolabilidad de la información, siempre que tales tecnologías, con las características citadas, se encuentren certificadas por tercero especializado de reconocida experiencia que la convocante contrate.

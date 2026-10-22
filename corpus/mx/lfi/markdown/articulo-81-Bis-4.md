@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf
 source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 ---
 
+> Título IV · Capítulo Quinto
+
 # Artículo 81 Bis 4
 
 La [Comisión](articulo-2.md), a solicitud de la sociedad y previo acuerdo de su Junta de Gobierno, podrá revocar la autorización para operar como sociedad operadora de fondos de inversión, sociedad distribuidora de acciones de fondos de inversión o valuadora de acciones de fondos de inversión, siempre que se cumpla con lo siguiente:

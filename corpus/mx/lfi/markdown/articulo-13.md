@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf
 source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 ---
 
+> Título II · Capítulo Segundo
+
 # Artículo 13
 
 Los miembros del consejo de administración de la sociedad operadora de fondos de inversión que administre al fondo de inversión, tendrán la responsabilidad inherente a su mandato y la derivada de las obligaciones que la Ley General de Sociedades Mercantiles, esta Ley, los estatutos o los estatutos de los fondos de inversión, les imponen.

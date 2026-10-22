@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAPP.pdf
 source_sha256: a4505a7bd41bc835f1def6fb030c42d8e74a2cc050d9c8fa08f91c9519e382bf
 ---
 
+> Capítulo Tercero
+
 # Artículo 31
 
 Si la propuesta no solicitada es procedente y la dependencia o entidad decide celebrar el concurso, éste se realizará conforme a lo previsto en el capítulo cuarto de la presente [Ley](articulo-12.md) y las disposiciones siguientes: Párrafo reformado DOF 21-04-2016

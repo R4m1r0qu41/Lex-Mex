@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Segundo · Capítulo III
+
 # Artículo 96
 
 Se entenderá que existe error de concepto cuando en la inscripción se altere el contenido del documento de que se trate porque el registrador se hubiere formado un juicio equivocado del mismo, por una errónea calificación del documento o del acto en él consignado o por cualquier otra circunstancia de naturaleza análoga.

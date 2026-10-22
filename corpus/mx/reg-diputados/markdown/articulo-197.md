@@ -18,5 +18,3 @@ source_sha256: 6fa1d25c31c4d8c2cc8074208b10a2f3ff35fecce26c1cc03ba18117cfec80d1
 # Artículo 197
 
 1. Lo no previsto en el presente capítulo será resuelto de manera inapelable por la [Conferencia](articulo-2.md).
-
-Sección Décima Séptima Comparecencias en Comisiones

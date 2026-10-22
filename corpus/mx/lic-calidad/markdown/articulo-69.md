@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LICal_010720.pdf
 source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 ---
 
-> Título SEXTO
+> Título SEXTO · Capítulo II
 
 # Artículo 69
 
@@ -44,5 +44,3 @@ Cuando tales procedimientos involucran operaciones de medición se deberá conta
 Cuando a juicio de las Autoridades Normalizadoras se confirma que el Procedimiento de Evaluación de la Conformidad de la Norma Oficial Mexicana incluye apropiadamente la obligación de parte del productor de bienes, del fabricante de productos, o del suministrador de procesos y servicios, de responder adecuadamente por el desempeño de los mismos durante su permanencia en el mercado o que no se afecte algún objetivo legítimo de interés público, se podrá prever la auto declaración de conformidad por parte de los sujetos obligados como el esquema de Evaluación de la Conformidad. Para esto, los productores, fabricantes y los prestadores de servicios sujetos a Normas Oficiales Mexicanas deberán mantener sistemas de control de calidad compatibles con las normas aplicables. También estarán obligados a verificar sistemáticamente las especificaciones del producto o servicio y su proceso, utilizando equipo suficiente y adecuado de laboratorio y el método de prueba apropiado, así como llevar un control estadístico de la producción en forma tal, que objetivamente se aprecie el cumplimiento de dichas especificaciones.
 
 El Reglamento de esta Ley establecerá los términos según los cuales se podrá practicar el esquema de auto declaración en la Evaluación de la Conformidad respecto de las Normas Oficiales Mexicanas y de los [Estándares](articulo-4.md).
-
-Capítulo III De los Acuerdos y Arreglos de Reconocimiento Mutuo y Acuerdos de Equivalencia

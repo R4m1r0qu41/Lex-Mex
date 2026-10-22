@@ -1,0 +1,262 @@
+{
+  "head": "5eca03bc5085de423ae23b1f1519712604bd28e2",
+  "candidate_source_commit": "46be511cebcd374c5befb561d98ffa4ab4205f2e",
+  "source_bindings": {
+    "adapters/shared/_known-structural-debt.json": {
+      "current": "098fb2e9f01bc8260e7f16681ae8db62b56cb638a2ac0f37a6c8230e924f7532",
+      "candidate": "098fb2e9f01bc8260e7f16681ae8db62b56cb638a2ac0f37a6c8230e924f7532",
+      "equal": true
+    },
+    "crates/lex-db/src/contract.rs": {
+      "current": "8f25d178428e84b3615b27923f105c6d3acdc3df7d8c445052427cc91115fb43",
+      "candidate": "8f25d178428e84b3615b27923f105c6d3acdc3df7d8c445052427cc91115fb43",
+      "equal": true
+    },
+    "crates/lex-db/src/verify.rs": {
+      "current": "7226cb8945a74fa46fc66145e8b7f45eb5b9ad5ea4bdfbf4a296a33e3fdf662a",
+      "candidate": "7226cb8945a74fa46fc66145e8b7f45eb5b9ad5ea4bdfbf4a296a33e3fdf662a",
+      "equal": true
+    },
+    "crates/lex-db/tests/pinned_inputs.rs": {
+      "current": "5e3b3ac1620cf40bcc72c4ae734117d4ecc17c2a45081d8c82dcdbf00bbb5b53",
+      "candidate": "5e3b3ac1620cf40bcc72c4ae734117d4ecc17c2a45081d8c82dcdbf00bbb5b53",
+      "equal": true
+    },
+    "crates/lex-parse/src/diputados.rs": {
+      "current": "3d42c8187c783972a83d6e3a6419e44fe48995839b8c0b48113822bb61412dee",
+      "candidate": "3d42c8187c783972a83d6e3a6419e44fe48995839b8c0b48113822bb61412dee",
+      "equal": true
+    },
+    "schemas/structural-debt.schema.json": {
+      "current": "50bc126b435e945291f58141a45d79112c2bfcf1cbe23d7ca20fb193305691d4",
+      "candidate": "50bc126b435e945291f58141a45d79112c2bfcf1cbe23d7ca20fb193305691d4",
+      "equal": true
+    },
+    "fixtures/diputados/law-title-prose-is-not-wrapper-sample.txt": {
+      "current": "2b2e09b5ee94a82728b044f7ea415ff5901f382cbe18a8b08c0cbf38928f63c1",
+      "candidate": "2b2e09b5ee94a82728b044f7ea415ff5901f382cbe18a8b08c0cbf38928f63c1",
+      "equal": true
+    }
+  },
+  "artifacts": [
+    {
+      "tag": "a",
+      "db": "/Users/jr/Dev/lex-mex/derived/db/permanent-5eca-a/afdc5acf0b5017d73cd7b8e0b8f8fc5962914b56de26467e42b0c77fd2ef1974/corpus.sqlite",
+      "db_sha256": "5da6e800e4d3b362411c561d9ae67fbfe012abe3164fce30bbb8a21c9e249bf2",
+      "db_bytes": 482025472,
+      "manifest_sha256": "a61306327c7bb030ad6b50ebd03ecd083522732313fa116d09a01a6d76f582c1",
+      "release_id": "afdc5acf0b5017d73cd7b8e0b8f8fc5962914b56de26467e42b0c77fd2ef1974",
+      "manifest_db_sha256": "5da6e800e4d3b362411c561d9ae67fbfe012abe3164fce30bbb8a21c9e249bf2",
+      "manifest_logical_sha256": "8cc3736018bffae94f303d9cbfa378170c9ff0e2842ce708431f08d528b60359",
+      "spec_corpus": "5eca03bc5085de423ae23b1f1519712604bd28e2",
+      "spec_builder": "5eca03bc5085de423ae23b1f1519712604bd28e2"
+    },
+    {
+      "tag": "b",
+      "db": "/Users/jr/Dev/lex-mex/derived/db/permanent-5eca-b/afdc5acf0b5017d73cd7b8e0b8f8fc5962914b56de26467e42b0c77fd2ef1974/corpus.sqlite",
+      "db_sha256": "5da6e800e4d3b362411c561d9ae67fbfe012abe3164fce30bbb8a21c9e249bf2",
+      "db_bytes": 482025472,
+      "manifest_sha256": "a61306327c7bb030ad6b50ebd03ecd083522732313fa116d09a01a6d76f582c1",
+      "release_id": "afdc5acf0b5017d73cd7b8e0b8f8fc5962914b56de26467e42b0c77fd2ef1974",
+      "manifest_db_sha256": "5da6e800e4d3b362411c561d9ae67fbfe012abe3164fce30bbb8a21c9e249bf2",
+      "manifest_logical_sha256": "8cc3736018bffae94f303d9cbfa378170c9ff0e2842ce708431f08d528b60359",
+      "spec_corpus": "5eca03bc5085de423ae23b1f1519712604bd28e2",
+      "spec_builder": "5eca03bc5085de423ae23b1f1519712604bd28e2"
+    }
+  ],
+  "verify_logs": {
+    "a": {
+      "schema_version": "2",
+      "release_id": "afdc5acf0b5017d73cd7b8e0b8f8fc5962914b56de26467e42b0c77fd2ef1974",
+      "corpus_commit": "5eca03bc5085de423ae23b1f1519712604bd28e2",
+      "head_commit": "5eca03bc5085de423ae23b1f1519712604bd28e2",
+      "stale_input_paths": [],
+      "input_files": 4960,
+      "normalized_records": 208744,
+      "table_counts": {
+        "corpus_release": 1,
+        "coverage": 1872,
+        "coverage_accepted_gaps": 5,
+        "defined_terms": 5766,
+        "enactment_evidence": 99,
+        "evidence_artifacts": 1673,
+        "glossary_coverage": 468,
+        "input_files": 4960,
+        "instrument_reproducibility": 0,
+        "instruments": 468,
+        "known_structural_debt": 14,
+        "legal_operator_reviews": 16,
+        "outdated_reference_approvals": 17,
+        "provisions": 68341,
+        "reference_edges": 35930,
+        "reference_qualifiers": 12341,
+        "source_anchors": 68809,
+        "source_manifests": 498,
+        "standards_catalog": 32,
+        "term_usages": 97672
+      },
+      "fts_token_occurrences": 10002069,
+      "database_sha256": "5da6e800e4d3b362411c561d9ae67fbfe012abe3164fce30bbb8a21c9e249bf2",
+      "logical_content_sha256": "8cc3736018bffae94f303d9cbfa378170c9ff0e2842ce708431f08d528b60359"
+    },
+    "b": {
+      "schema_version": "2",
+      "release_id": "afdc5acf0b5017d73cd7b8e0b8f8fc5962914b56de26467e42b0c77fd2ef1974",
+      "corpus_commit": "5eca03bc5085de423ae23b1f1519712604bd28e2",
+      "head_commit": "5eca03bc5085de423ae23b1f1519712604bd28e2",
+      "stale_input_paths": [],
+      "input_files": 4960,
+      "normalized_records": 208744,
+      "table_counts": {
+        "corpus_release": 1,
+        "coverage": 1872,
+        "coverage_accepted_gaps": 5,
+        "defined_terms": 5766,
+        "enactment_evidence": 99,
+        "evidence_artifacts": 1673,
+        "glossary_coverage": 468,
+        "input_files": 4960,
+        "instrument_reproducibility": 0,
+        "instruments": 468,
+        "known_structural_debt": 14,
+        "legal_operator_reviews": 16,
+        "outdated_reference_approvals": 17,
+        "provisions": 68341,
+        "reference_edges": 35930,
+        "reference_qualifiers": 12341,
+        "source_anchors": 68809,
+        "source_manifests": 498,
+        "standards_catalog": 32,
+        "term_usages": 97672
+      },
+      "fts_token_occurrences": 10002069,
+      "database_sha256": "5da6e800e4d3b362411c561d9ae67fbfe012abe3164fce30bbb8a21c9e249bf2",
+      "logical_content_sha256": "8cc3736018bffae94f303d9cbfa378170c9ff0e2842ce708431f08d528b60359"
+    }
+  },
+  "goldens": {
+    "a": [
+      "G1 reg-lan parent law",
+      "G2 G4 approved outdated with independent notes",
+      "G3 unavailable history",
+      "G3 current target remains live",
+      "G5 LFTR missing citation",
+      "G5 repaired CPF is absent",
+      "G6 LGTOC separate article",
+      "G6 active LFD structural debt",
+      "G7 accent-insensitive complete hit set",
+      "G7 accent-insensitive reverse hit set",
+      "G7 baseline hit count",
+      "G8 exact Terdecies lookup",
+      "definition provenance",
+      "exact term usages",
+      "cross-instrument glossary usages",
+      "source provenance",
+      "analysis completeness remains explicit",
+      "standards excluded from provisions",
+      "G1 adapter parent authority",
+      "G1 source definition authority",
+      "G5 complete cited-but-missing inventory"
+    ],
+    "b": [
+      "G1 reg-lan parent law",
+      "G2 G4 approved outdated with independent notes",
+      "G3 unavailable history",
+      "G3 current target remains live",
+      "G5 LFTR missing citation",
+      "G5 repaired CPF is absent",
+      "G6 LGTOC separate article",
+      "G6 active LFD structural debt",
+      "G7 accent-insensitive complete hit set",
+      "G7 accent-insensitive reverse hit set",
+      "G7 baseline hit count",
+      "G8 exact Terdecies lookup",
+      "definition provenance",
+      "exact term usages",
+      "cross-instrument glossary usages",
+      "source provenance",
+      "analysis completeness remains explicit",
+      "standards excluded from provisions",
+      "G1 adapter parent authority",
+      "G1 source definition authority",
+      "G5 complete cited-but-missing inventory"
+    ]
+  },
+  "independent_verifier_receipts": {
+    "a": {
+      "schema_version": "2",
+      "release_id": "afdc5acf0b5017d73cd7b8e0b8f8fc5962914b56de26467e42b0c77fd2ef1974",
+      "corpus_commit": "5eca03bc5085de423ae23b1f1519712604bd28e2",
+      "head_commit": "5eca03bc5085de423ae23b1f1519712604bd28e2",
+      "stale_input_paths": [],
+      "input_files": 4960,
+      "normalized_records": 208744,
+      "table_counts": {
+        "corpus_release": 1,
+        "coverage": 1872,
+        "coverage_accepted_gaps": 5,
+        "defined_terms": 5766,
+        "enactment_evidence": 99,
+        "evidence_artifacts": 1673,
+        "glossary_coverage": 468,
+        "input_files": 4960,
+        "instrument_reproducibility": 0,
+        "instruments": 468,
+        "known_structural_debt": 14,
+        "legal_operator_reviews": 16,
+        "outdated_reference_approvals": 17,
+        "provisions": 68341,
+        "reference_edges": 35930,
+        "reference_qualifiers": 12341,
+        "source_anchors": 68809,
+        "source_manifests": 498,
+        "standards_catalog": 32,
+        "term_usages": 97672
+      },
+      "fts_token_occurrences": 10002069,
+      "database_sha256": "5da6e800e4d3b362411c561d9ae67fbfe012abe3164fce30bbb8a21c9e249bf2",
+      "logical_content_sha256": "8cc3736018bffae94f303d9cbfa378170c9ff0e2842ce708431f08d528b60359"
+    },
+    "b": {
+      "schema_version": "2",
+      "release_id": "afdc5acf0b5017d73cd7b8e0b8f8fc5962914b56de26467e42b0c77fd2ef1974",
+      "corpus_commit": "5eca03bc5085de423ae23b1f1519712604bd28e2",
+      "head_commit": "5eca03bc5085de423ae23b1f1519712604bd28e2",
+      "stale_input_paths": [],
+      "input_files": 4960,
+      "normalized_records": 208744,
+      "table_counts": {
+        "corpus_release": 1,
+        "coverage": 1872,
+        "coverage_accepted_gaps": 5,
+        "defined_terms": 5766,
+        "enactment_evidence": 99,
+        "evidence_artifacts": 1673,
+        "glossary_coverage": 468,
+        "input_files": 4960,
+        "instrument_reproducibility": 0,
+        "instruments": 468,
+        "known_structural_debt": 14,
+        "legal_operator_reviews": 16,
+        "outdated_reference_approvals": 17,
+        "provisions": 68341,
+        "reference_edges": 35930,
+        "reference_qualifiers": 12341,
+        "source_anchors": 68809,
+        "source_manifests": 498,
+        "standards_catalog": 32,
+        "term_usages": 97672
+      },
+      "fts_token_occurrences": 10002069,
+      "database_sha256": "5da6e800e4d3b362411c561d9ae67fbfe012abe3164fce30bbb8a21c9e249bf2",
+      "logical_content_sha256": "8cc3736018bffae94f303d9cbfa378170c9ff0e2842ce708431f08d528b60359"
+    }
+  },
+  "receipt_provenance": "Full verify receipts from Claude runs; Codex independently rehashed artifacts, checked bindings and reran goldens. Full verify not rerun by Codex in this acceptance turn.",
+  "specification_delta_from_candidate": [
+    "corpus_commit",
+    "builder_commit",
+    "source_commit_timestamp"
+  ],
+  "input_inventory_identical": true
+}

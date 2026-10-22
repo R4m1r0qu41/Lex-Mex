@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Tercero · Capítulo III
+
 # Artículo 285
 
 Para obtener los Certificados de Seguridad correspondientes se deberá acreditar la [Inspección](articulo-10.md) en seco de la Embarcación o Artefacto Naval, en los términos señalados en este Reglamento, anexando el plano que indique los puntos de calibración y mediciones obtenidas.

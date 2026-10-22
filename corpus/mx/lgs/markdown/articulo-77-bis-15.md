@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGS.pdf
 source_sha256: a2d3f947b369e4383f2f27a4e9bd819a3dba768ab9bae527e6388e30c1f9e06c
 ---
 
-> Título TERCERO BIS
+> Título TERCERO BIS · Capítulo III
 
 # Artículo 77 bis 15
 
@@ -29,7 +29,9 @@ I. La transferencia de los recursos en numerario que se realice directamente a l
 
 II. La Tesorería de la Federación, con cargo a los depósitos a la vista o a plazos a que se refiere este artículo, podrá realizar pagos a terceros por cuenta y orden de los gobiernos de las entidades federativas, quedando éstas obligadas a dar aviso de las disposiciones que realicen con cargo a estos depósitos a la tesorería de su entidad para los efectos contables y presupuestarios correspondientes, y
 
-III. Los recursos en especie serán pactados anualmente con los gobiernos de las entidades federativas y entregados a las mismas, por conducto de sus servicios estatales de salud, quedando estos últimos obligados a dar aviso de dicha entrega a la tesorería de su entidad para los efectos contables y presupuestarios correspondientes. Párrafo con fracciones reformado DOF 29-11-2019 La Secretaría de Salud establecerá precios de referencia a los que se deberán sujetar las entidades federativas que reciban los recursos en numerario para la adquisición de medicamentos.
+III. Los recursos en especie serán pactados anualmente con los gobiernos de las entidades federativas y entregados a las mismas, por conducto de sus servicios estatales de salud, quedando estos últimos obligados a dar aviso de dicha entrega a la tesorería de su entidad para los efectos contables y presupuestarios correspondientes. Párrafo con fracciones reformado DOF 29-11-2019
+
+La Secretaría de Salud establecerá precios de referencia a los que se deberán sujetar las entidades federativas que reciban los recursos en numerario para la adquisición de medicamentos.
 
 El control y la fiscalización del manejo de los recursos a que se refiere este Capítulo se realizará conforme a los términos establecidos en el Capítulo VII de este Título y demás disposiciones aplicables. Párrafo adicionado DOF 29-05-2023
 

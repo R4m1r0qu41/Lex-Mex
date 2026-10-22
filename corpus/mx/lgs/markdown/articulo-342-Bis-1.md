@@ -27,6 +27,8 @@ La distribución de sangre y sus componentes deberá ser equitativa y dar priori
 
 Se deberán realizar las pruebas necesarias que determine la Secretaría de Salud de acuerdo con los estándares internacionales de calidad y seguridad sanguínea a efecto de disminuir el riesgo de transmisión de enfermedades por transfusión. Párrafo adicionado DOF 20-04-2015
 
-La exportación de plasma residual para procesamiento industrial solo podrá realizarse cuando se haya garantizado el suministro nacional y de acuerdo con lo que establezca la Secretaría de Salud y las disposiciones jurídicas aplicables. Párrafo adicionado DOF 15-01-2026 La importación de plasma solo podrá realizarse cuando las unidades hayan cumplido en el país de origen con todos los requisitos establecidos en esta Ley, para garantizar la ausencia de marcadores de agentes infecciosos transmitidos por transfusión y las disposiciones jurídicas aplicables. Párrafo adicionado DOF 15-01-2026
+La exportación de plasma residual para procesamiento industrial solo podrá realizarse cuando se haya garantizado el suministro nacional y de acuerdo con lo que establezca la Secretaría de Salud y las disposiciones jurídicas aplicables. Párrafo adicionado DOF 15-01-2026
+
+La importación de plasma solo podrá realizarse cuando las unidades hayan cumplido en el país de origen con todos los requisitos establecidos en esta Ley, para garantizar la ausencia de marcadores de agentes infecciosos transmitidos por transfusión y las disposiciones jurídicas aplicables. Párrafo adicionado DOF 15-01-2026
 
 Artículo adicionado DOF 12-12-2011

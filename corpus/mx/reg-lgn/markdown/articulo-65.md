@@ -13,10 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGN_111220.pdf
 source_sha256: ea6e39560929f2e1998b2dabe0852fde0d684c69e5be49aab7f33433299bbeb0
 ---
 
-> Título SEGUNDO
+> Título SEGUNDO · Capítulo XI
 
 # Artículo 65
 
 A la Compañía de Servicios Especializados le corresponde organizar, coordinar y emplear los servicios especializados que la integran, en las áreas de análisis criminológico, investigación, plataformas de investigación criminal, seguridad de la información y análisis político, económico, social de la Coordinación de Unidad de Nivel Batallón.
-
-Capítulo XII Del Órgano Interno de Control

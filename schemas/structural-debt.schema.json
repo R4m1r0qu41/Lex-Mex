@@ -14,7 +14,10 @@
   ],
   "properties": {
     "schema_version": {
-      "const": "2"
+      "enum": [
+        "2",
+        "3"
+      ]
     },
     "source_corpus_commit": {
       "type": "string",
@@ -30,80 +33,7 @@
     "rows": {
       "type": "array",
       "items": {
-        "type": "object",
-        "additionalProperties": false,
-        "required": [
-          "instrument_id",
-          "kind",
-          "printed_label",
-          "heading_text",
-          "containing_provision_id",
-          "start_char",
-          "end_char",
-          "source_path",
-          "source_blob_oid",
-          "source_sha256",
-          "review_status",
-          "reviewer",
-          "reviewed_at",
-          "decision_reference"
-        ],
-        "properties": {
-          "instrument_id": {
-            "type": "string",
-            "minLength": 1
-          },
-          "kind": {
-            "const": "merged_heading"
-          },
-          "printed_label": {
-            "type": "string",
-            "minLength": 1
-          },
-          "heading_text": {
-            "type": "string",
-            "minLength": 1
-          },
-          "containing_provision_id": {
-            "type": "string",
-            "minLength": 1
-          },
-          "start_char": {
-            "type": "integer",
-            "minimum": 0
-          },
-          "end_char": {
-            "type": "integer",
-            "minimum": 0
-          },
-          "source_path": {
-            "type": "string",
-            "minLength": 1
-          },
-          "source_blob_oid": {
-            "type": "string",
-            "pattern": "^[a-f0-9]{40}$"
-          },
-          "source_sha256": {
-            "type": "string",
-            "pattern": "^[a-f0-9]{64}$"
-          },
-          "review_status": {
-            "const": "accepted"
-          },
-          "reviewer": {
-            "type": "string",
-            "minLength": 1
-          },
-          "reviewed_at": {
-            "type": "string",
-            "minLength": 1
-          },
-          "decision_reference": {
-            "type": "string",
-            "minLength": 1
-          }
-        }
+        "$ref": "#/$defs/debt_row"
       }
     },
     "review_source_path": {
@@ -140,6 +70,148 @@
           }
         }
       }
+    },
+    "retirements": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "row",
+          "resolved_at_commit",
+          "provision_id",
+          "source_path",
+          "source_blob_oid",
+          "source_sha256"
+        ],
+        "properties": {
+          "row": {
+            "$ref": "#/$defs/debt_row"
+          },
+          "resolved_at_commit": {
+            "type": "string",
+            "pattern": "^[a-f0-9]{40}$"
+          },
+          "provision_id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "source_path": {
+            "type": "string",
+            "minLength": 1
+          },
+          "source_blob_oid": {
+            "type": "string",
+            "pattern": "^[a-f0-9]{40}$"
+          },
+          "source_sha256": {
+            "type": "string",
+            "pattern": "^[a-f0-9]{64}$"
+          }
+        }
+      },
+      "minItems": 1
     }
-  }
+  },
+  "$defs": {
+    "debt_row": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "instrument_id",
+        "kind",
+        "printed_label",
+        "heading_text",
+        "containing_provision_id",
+        "start_char",
+        "end_char",
+        "source_path",
+        "source_blob_oid",
+        "source_sha256",
+        "review_status",
+        "reviewer",
+        "reviewed_at",
+        "decision_reference"
+      ],
+      "properties": {
+        "instrument_id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "kind": {
+          "const": "merged_heading"
+        },
+        "printed_label": {
+          "type": "string",
+          "minLength": 1
+        },
+        "heading_text": {
+          "type": "string",
+          "minLength": 1
+        },
+        "containing_provision_id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "start_char": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "end_char": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "source_path": {
+          "type": "string",
+          "minLength": 1
+        },
+        "source_blob_oid": {
+          "type": "string",
+          "pattern": "^[a-f0-9]{40}$"
+        },
+        "source_sha256": {
+          "type": "string",
+          "pattern": "^[a-f0-9]{64}$"
+        },
+        "review_status": {
+          "const": "accepted"
+        },
+        "reviewer": {
+          "type": "string",
+          "minLength": 1
+        },
+        "reviewed_at": {
+          "type": "string",
+          "minLength": 1
+        },
+        "decision_reference": {
+          "type": "string",
+          "minLength": 1
+        }
+      }
+    }
+  },
+  "allOf": [
+    {
+      "if": {
+        "properties": {
+          "schema_version": {
+            "const": "3"
+          }
+        }
+      },
+      "then": {
+        "required": [
+          "retirements"
+        ]
+      },
+      "else": {
+        "not": {
+          "required": [
+            "retirements"
+          ]
+        }
+      }
+    }
+  ]
 }

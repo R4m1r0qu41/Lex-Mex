@@ -28,5 +28,3 @@ b) Dirigir los trabajos de las áreas a él adscritas y acordar con los titulare
 c) Realizar estudios de carácter administrativo y financiero de la Cámara; y
 
 d) Cumplir las demás funciones que le confieren esta ley y los ordenamientos relativos a la actividad administrativa y financiera.
-
-Sección Cuarta De otros Organos Técnicos de la Cámara

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf
 source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 ---
 
+> Título IV · Capítulo Quinto
+
 # Artículo 87 Bis 3
 
 Las autorizaciones, revocaciones de autorizaciones solicitadas por el interesado o su representante, los actos que provengan de trámites promovidos a petición del interesado y demás actos distintos a los señalados en el artículo [87 Bis 2](articulo-87-Bis-2.md) de esta Ley, podrán notificarse mediante la entrega del oficio en el que conste el acto correspondiente, en las oficinas de la autoridad que realice la notificación, recabando en copia de dicho oficio la firma y nombre de la persona que la reciba.

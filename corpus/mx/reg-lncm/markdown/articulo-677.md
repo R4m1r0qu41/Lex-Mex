@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Tercero · Capítulo X
+
 # Artículo 677
 
 La [Dirección General](articulo-10.md) supervisará que en los planes de estudio que autorice a las Instituciones Educativas que impartan Educación Marítima Mercante, sin perjuicio de las facultades que correspondan a la Secretaría de Educación Pública, se dé especial relevancia al conocimiento ambiental en los siguientes rubros:
@@ -26,5 +28,3 @@ III. Las normas de naturaleza ambiental de la legislación marítima y portuaria
 IV. Las Normas Oficiales Mexicanas de carácter ambiental que incidan en el ámbito marítimo y portuario, y
 
 V. Los instrumentos internacionales y nacionales de naturaleza ambiental que recomiende el Comité, incluidos los Tratados Internacionales que se encuentren en proceso de ratificación.
-
-Sección III Normas Ambientales en Materia de Arribo y Despacho

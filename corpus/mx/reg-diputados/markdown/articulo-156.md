@@ -42,5 +42,3 @@ f) Clausura y convocatoria a la siguiente Reunión.
 V. Fecha en que se emite, y
 
 VI. Rúbrica del Presidente de la [Junta Directiva](articulo-2.md) o de la mayoría de los secretarios.
-
-Sección Séptima Tareas de las Comisiones Ordinarias

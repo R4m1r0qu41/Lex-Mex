@@ -13,12 +13,10 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LINS.pdf
 source_sha256: 40271b07f2d2236f7e4d722d2b61f35db2d82772543dcf4911097efe13697c5e
 ---
 
-> Título SEGUNDO
+> Título SEGUNDO · Capítulo II
 
 # Artículo 13
 
 La Coordinadora de Sector y las [Secretarías](articulo-2.md) de Hacienda y Crédito Público y de la Función Pública deberán racionalizar los requerimientos de información que demanden de los [Institutos Nacionales de Salud](articulo-2.md).
 
 Artículo reformado DOF 09-04-2012
-
-Capítulo III Órganos de administración

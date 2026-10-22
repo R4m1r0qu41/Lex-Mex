@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LNUF.pdf
 source_sha256: 0c11f4464286e7411713a80361a2e1ab15c4cc55bff80b4e6ee4a4333592d50c
 ---
 
+> Capítulo X
+
 # Artículo 40
 
 La capacitación que reciban los agentes considerará los estándares nacionales e internacionales en la materia y deberá incluir, al menos, los aspectos siguientes:

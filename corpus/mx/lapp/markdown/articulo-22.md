@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAPP.pdf
 source_sha256: a4505a7bd41bc835f1def6fb030c42d8e74a2cc050d9c8fa08f91c9519e382bf
 ---
 
+> Capítulo Segundo · Sección Segunda
+
 # Artículo 22
 
 Las dependencias y entidades de la Administración Pública Federal darán prioridad a los proyectos a desarrollarse mediante esquemas de asociación público-privada, en la valoración y trámites respecto del cumplimiento de los requisitos de las disposiciones de protección ambiental, asentamientos humanos, desarrollo urbano, construcción, uso de suelo y demás que resulten aplicables, en el ámbito federal.

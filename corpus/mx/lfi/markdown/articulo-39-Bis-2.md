@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf
 source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 ---
 
+> Título III · Capítulo Segundo
+
 # Artículo 39 Bis 2
 
 En todo momento, las sociedades operadoras de fondos de inversión se encontrarán obligadas a actuar conforme al interés de sus clientes, y deberán abstenerse de proporcionar recomendaciones en servicios de asesoría sin ajustarse a esta Ley o disposiciones de carácter general que de ella deriven o bien, actuar con conflictos de interés.

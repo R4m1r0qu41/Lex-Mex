@@ -121,6 +121,8 @@ pub struct DebtSeed {
     pub review_source_sha256: String,
     pub decision_sections: Vec<DecisionSection>,
     pub rows: Vec<DebtRow>,
+    #[serde(default, skip_serializing_if = "Vec::is_empty")]
+    pub retirements: Vec<DebtRetirement>,
 }
 
 #[derive(Debug, Serialize, Deserialize)]
@@ -150,6 +152,18 @@ pub struct DebtRow {
     pub decision_reference: String,
 }
 
+/// Resolved technical debt retains its original accepted row and pinned proof.
+#[derive(Debug, Serialize, Deserialize)]
+#[serde(deny_unknown_fields)]
+pub struct DebtRetirement {
+    pub row: DebtRow,
+    pub resolved_at_commit: String,
+    pub provision_id: String,
+    pub source_path: String,
+    pub source_blob_oid: String,
+    pub source_sha256: String,
+}
+
 pub fn validate_seed(git: &GitInput, bytes: &[u8]) -> Result<DebtSeed> {
     let value: Value = serde_json::from_slice(bytes)?;
     let schema: Value =
@@ -162,6 +176,7 @@ pub fn validate_seed(git: &GitInput, bytes: &[u8]) -> Result<DebtSeed> {
     let source = git.at(&seed.source_corpus_commit)?;
     validate_decision_sections(git, &source, &seed)?;
     validate_review_set(git, &source, &seed)?;
+    validate_retirements(git, &source, &seed)?;
     let mut identities = BTreeSet::new();
     for row in &seed.rows {
         ensure!(
@@ -209,6 +224,91 @@ pub fn validate_seed(git: &GitInput, bytes: &[u8]) -> Result<DebtSeed> {
         }
     }
     Ok(seed)
+}
+
+fn validate_retirements(git: &GitInput, original: &GitInput, seed: &DebtSeed) -> Result<()> {
+    for retired in &seed.retirements {
+        let row = &retired.row;
+        ensure!(
+            retired.source_path == row.source_path,
+            "retirement source path differs"
+        );
+        git.require_ancestor(&retired.resolved_at_commit)?;
+        let resolved = git.at(&retired.resolved_at_commit)?;
+        resolved.require_ancestor(&seed.source_corpus_commit)?;
+        ensure!(
+            retired.resolved_at_commit != seed.source_corpus_commit,
+            "retirement predates resolution"
+        );
+        let expected = format!(
+            "{}:article:{}",
+            row.instrument_id,
+            lex_parse::labels::canonical_slug(&row.printed_label)
+        );
+        ensure!(
+            retired.provision_id == expected,
+            "retired target differs from printed label"
+        );
+        let raw = original.read(&row.source_path)?;
+        ensure!(
+            digest(&raw) == row.source_sha256
+                && original.blob_oid(&row.source_path)? == row.source_blob_oid,
+            "retired original source differs"
+        );
+        let old: Vec<lex_core::Provision> = serde_json::from_slice(&raw)?;
+        ensure!(
+            !old.iter().any(|p| p.id == expected),
+            "retirement target already existed at acceptance"
+        );
+        let container = old
+            .iter()
+            .find(|p| p.id == row.containing_provision_id)
+            .context("retired historical container absent")?;
+        ensure!(
+            container.instrument_id == row.instrument_id
+                && row.start_char < row.end_char
+                && row.end_char <= container.text.chars().count(),
+            "retired historical span invalid"
+        );
+        ensure!(
+            container
+                .text
+                .chars()
+                .skip(row.start_char)
+                .take(row.end_char - row.start_char)
+                .collect::<String>()
+                == row.heading_text,
+            "retired historical span differs"
+        );
+        let raw = resolved.read(&retired.source_path)?;
+        ensure!(
+            digest(&raw) == retired.source_sha256
+                && resolved.blob_oid(&retired.source_path)? == retired.source_blob_oid,
+            "retirement resolution source differs"
+        );
+        for raw in [raw, git.read(&retired.source_path)?] {
+            let rows: Vec<lex_core::Provision> = serde_json::from_slice(&raw)?;
+            ensure!(
+                !rows
+                    .iter()
+                    .any(|p| p.id == row.containing_provision_id
+                        && p.text.contains(&row.heading_text)),
+                "retired heading remains embedded in its container"
+            );
+            let matches: Vec<_> = rows.iter().filter(|p| p.id == expected).collect();
+            ensure!(matches.len() == 1, "retirement target absent or duplicated");
+            let target = matches[0];
+            ensure!(
+                target.instrument_id == row.instrument_id
+                    && target.provision_type == lex_core::ProvisionType::Article
+                    && lex_parse::labels::canonical_slug(&target.number)
+                        == lex_parse::labels::canonical_slug(&row.printed_label)
+                    && !target.text.trim().is_empty(),
+                "retirement target owner/type/number/body differs"
+            );
+        }
+    }
+    Ok(())
 }
 
 /// Exact Markdown section bytes, including its heading and trailing whitespace.
@@ -340,10 +440,19 @@ fn validate_review_set(git: &GitInput, source: &GitInput, seed: &DebtSeed) -> Re
         );
     }
     ensure!(
-        expected.len() == seed.rows.len(),
+        expected.len() == seed.rows.len() + seed.retirements.len(),
         "seed does not contain exactly the accepted review rows"
     );
-    for row in &seed.rows {
+    let mut partition_identities = BTreeSet::new();
+    for row in seed
+        .rows
+        .iter()
+        .chain(seed.retirements.iter().map(|r| &r.row))
+    {
+        ensure!(
+            partition_identities.insert((&row.instrument_id, &row.printed_label)),
+            "duplicate active/retired identity"
+        );
         ensure!(
             expected.get(&(row.instrument_id.clone(), row.printed_label.clone())) == Some(row),
             "seed row differs from accepted review: {} {}",

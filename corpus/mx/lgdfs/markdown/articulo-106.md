@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDFS.pdf
 source_sha256: 2c75fd0eab3245aed43a4e1230dcd142b48959a1df09bdd4e70684935a505dd4
 ---
 
-> Título CUARTO
+> Título CUARTO · Capítulo III
 
 # Artículo 106
 
@@ -26,5 +26,3 @@ La [Secretaría](articulo-7.md) autorizará dichos programas y estudios regional
 La Comisión promoverá que los gobiernos de las Entidades Federativas se coordinen a efecto de participar en la elaboración de dichos programas y estudios y propiciará la participación de los interesados.
 
 Artículo reformado DOF 11-04-2022
-
-Capítulo IV De la Certificación Forestal y de las [Auditorías Técnicas Preventivas](articulo-7.md)

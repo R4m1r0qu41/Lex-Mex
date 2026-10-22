@@ -57,7 +57,9 @@ IV. Llevar a cabo los programas y acciones que en materia de salubridad local le
 
 V. Integrar una base de datos con información estadística local alimentada por los prestadores de servicios de atención a la salud, tanto públicos como privados, con información nominal de la prestación de sus servicios, que permita la evaluación del desempeño de los integrantes del Sistema Nacional de Salud, el intercambio de servicios y la planeación estratégica de las políticas, los criterios y las directrices en materia de salud; Fracción reformada DOF 15-01-2026
 
-VI. Vigilar, en la esfera de su competencia, el cumplimiento de esta Ley y demás disposiciones aplicables; Fracción reformada DOF 15-01-2026 VII. Promover la implementación y operación del intercambio de servicios de atención médica en sus entidades federativas, y Fracción adicionada DOF 15-01-2026
+VI. Vigilar, en la esfera de su competencia, el cumplimiento de esta Ley y demás disposiciones aplicables; Fracción reformada DOF 15-01-2026
+
+VII. Promover la implementación y operación del intercambio de servicios de atención médica en sus entidades federativas, y Fracción adicionada DOF 15-01-2026
 
 VIII. Las demás atribuciones específicas que se establezcan en esta Ley y demás disposiciones jurídicas aplicables. Fracción reformada y recorrida DOF 15-01-2026
 

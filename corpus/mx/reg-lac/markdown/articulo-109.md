@@ -13,11 +13,13 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAC.pdf
 source_sha256: 4dcf5277184d5f5c5cc1c8ae2dfa196134b472d883eb2806c7bac27cd77eda7d
 ---
 
-> Título TERCERO · Capítulo I BIS
+> Título Cuarto · Capítulo III
 
 # Artículo 109
 
-Toda persona concesionaria, asignataria y permisionaria debe: Párrafo reformado DOF 31-05-2023 I. Notificar a la Agencia Federal de Aviación Civil cualquier deficiencia que observe de las instalaciones y servicios en el curso de sus operaciones, dentro de las veinticuatro horas siguientes, contadas a partir de que observe dicha deficiencia; Fracción reformada DOF 21-01-2022, 31-05-2023
+Toda persona concesionaria, asignataria y permisionaria debe: Párrafo reformado DOF 31-05-2023
+
+I. Notificar a la Agencia Federal de Aviación Civil cualquier deficiencia que observe de las instalaciones y servicios en el curso de sus operaciones, dentro de las veinticuatro horas siguientes, contadas a partir de que observe dicha deficiencia; Fracción reformada DOF 21-01-2022, 31-05-2023
 
 II. Formular y modificar su manual general de operaciones, con base en lo establecido en las normas oficiales mexicanas correspondientes, el cual debe estar autorizado por la Agencia Federal de Aviación Civil; Fracción reformada DOF 21-01-2022, 31-05-2023
 

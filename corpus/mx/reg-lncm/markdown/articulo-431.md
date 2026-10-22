@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Tercero · Capítulo III
+
 # Artículo 431
 
 El plazo para resolver las solicitudes mencionadas en este Capítulo, que se presenten para realizar cualquiera de las actividades indicadas, no podrá exceder de treinta días hábiles, transcurrido el plazo citado sin que se resuelva lo que corresponda, se entenderá denegada la petición.

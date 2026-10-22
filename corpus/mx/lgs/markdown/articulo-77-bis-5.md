@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGS.pdf
 source_sha256: a2d3f947b369e4383f2f27a4e9bd819a3dba768ab9bae527e6388e30c1f9e06c
 ---
 
-> Título TERCERO BIS
+> Título TERCERO BIS · Capítulo I
 
 # Artículo 77 bis 5
 
@@ -53,7 +53,9 @@ XV. Se deroga. Fracción reformada DOF 04-06-2014. Derogada DOF 29-11-2019
 
 XVI. Se deroga. Fracción reformada DOF 04-06-2014. Derogada DOF 29-11-2019
 
-XVII. Se deroga. Fracción reformada DOF 04-06-2014, 29-11-2019. Derogada DOF 29-05-2023 B) Corresponde a los gobiernos de las entidades federativas, dentro de sus respectivas circunscripciones territoriales: Párrafo reformado DOF 04-06-2014
+XVII. Se deroga. Fracción reformada DOF 04-06-2014, 29-11-2019. Derogada DOF 29-05-2023
+
+B) Corresponde a los gobiernos de las entidades federativas, dentro de sus respectivas circunscripciones territoriales: Párrafo reformado DOF 04-06-2014
 
 I. Proveer los servicios de salud a que se refiere este Título en los términos previstos en la presente Ley, los reglamentos aplicables y las disposiciones que al efecto emita la Secretaría de Salud, garantizando la prestación gratuita de servicios públicos de salud, medicamentos y demás insumos asociados, al momento de requerir la atención, sin discriminación alguna, así como la infraestructura, personal, insumos y medicamentos necesarios para su oferta oportuna y de calidad; Fracción reformada DOF 04-06-2014, 29-11-2019, 29-05-2023
 

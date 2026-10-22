@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAC.pdf
 source_sha256: 4dcf5277184d5f5c5cc1c8ae2dfa196134b472d883eb2806c7bac27cd77eda7d
 ---
 
+> Título Segundo · Capítulo III
+
 # Artículo 43 Bis
 
 Las personas concesionarias, asignatarias y permisionarias de transporte aéreo deben asegurar que el equipaje que se transporte a bordo de una aeronave sea protegido contra interferencias no autorizadas, desde el momento de su inspección hasta la salida de la aeronave. Si se compromete la integridad del equipaje, éste volverá a inspeccionarse antes de ponerlo a bordo de la aeronave.

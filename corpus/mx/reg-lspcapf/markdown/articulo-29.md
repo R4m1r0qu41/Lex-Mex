@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSPCAPF.pdf
 source_sha256: b4a968d8e8c138ac2069f6afa0dc622178328df24f59cf58eddbab8efe4a7eff
 ---
 
+> Capítulo Décimo
+
 # Artículo 29
 
 Los procesos del Subsistema de Ingreso tienen como propósito atraer a los mejores candidatos para ocupar los puestos del Sistema, sustentado en el acceso por méritos y en la igualdad de oportunidades, con imparcialidad y a través de evaluaciones objetivas y transparentes.

@@ -39,7 +39,9 @@ IX. Observaciones del Titular del Poder Ejecutivo Federal enviadas a la Cámara;
 
 X. Minutas enviadas a la Cámara;
 
-XI. Proyectos de Acuerdo Parlamentario, de punto de acuerdo, de proposiciones protocolarias, y el contenido de los demás asuntos que se tratarán en el Pleno, en las comisiones y en los comités; Fracción reformada DOF 20-04-2011 XII. Declaratorias de publicidad de los dictámenes de las comisiones, así como de las iniciativas y minutas que pasan al Pleno por vencimiento de plazo;
+XI. Proyectos de Acuerdo Parlamentario, de punto de acuerdo, de proposiciones protocolarias, y el contenido de los demás asuntos que se tratarán en el Pleno, en las comisiones y en los comités; Fracción reformada DOF 20-04-2011
+
+XII. Declaratorias de publicidad de los dictámenes de las comisiones, así como de las iniciativas y minutas que pasan al Pleno por vencimiento de plazo;
 
 XIII. Dictámenes de las comisiones y los votos particulares que sobre los mismos se presenten;
 

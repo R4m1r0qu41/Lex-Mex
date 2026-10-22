@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPIORPI.pdf
 source_sha256: 2e35228bd3100a3a137f313359833c4836f2b4b6d4e52e1ce4fe58a970cd768f
 ---
 
+> Capítulo VI
+
 # Artículo 41
 
 Durante las investigaciones y el proceso penal federal se mantendrá el resguardo absoluto de la identidad y de cualquier dato personal que se obtenga derivado de la aplicación de la presente [Ley](articulo-3.md), especialmente por la presentación de [Avisos](articulo-3.md), en los términos que señala la Constitución Política de los Estados Unidos Mexicanos, para lo cual, la información de los actos y operaciones contenida en dichos Avisos, que sea necesario aportarse en las investigaciones correspondientes, se hará a través de los reportes que al efecto presente la [Secretaría](articulo-3.md).

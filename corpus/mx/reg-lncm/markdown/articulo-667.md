@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Tercero · Capítulo X
+
 # Artículo 667
 
 Este Capítulo tiene por objeto establecer las normas que garanticen el cumplimiento de los requerimientos fundamentales para prevenir la contaminación de las zonas marinas mexicanas por [Hidrocarburos](articulo-10.md), [Sustancias Nocivas Líquidas](articulo-10.md), aguas residuales y basuras generadas por los buques, Embarcaciones y Artefactos Navales que en ellas operan.

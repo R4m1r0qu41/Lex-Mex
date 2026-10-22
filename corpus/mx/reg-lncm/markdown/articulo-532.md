@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Tercero · Capítulo V
+
 # Artículo 532
 
 Siempre que el capitán de la Embarcación, el agente consignatario o el armador lo soliciten, el [Piloto de Puerto](articulo-10.md) permanecerá a bordo con derecho a alojamiento y alimentación y tendrá las mismas consideraciones que el capitán de la Embarcación.

@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFPC_191219.pdf
 source_sha256: 2587146ec169db7ba3623f0df1d9097a9a0ddb70b1c5acbc4f0414afa84f0b0c
 ---
 
-> Capítulo II
+> Capítulo II · Sección Primera
 
 # Artículo 15
 
@@ -28,5 +28,3 @@ III. El proveedor no comparezca o no desahogue algún requerimiento de informaci
 IV. El proveedor desacate la orden de suspensión de información o publicidad a que se refiere el artículo [35](../../lfpc/markdown/articulo-35.md), fracción I de la Ley, sin que medie causa justificada acreditada ante la Procuraduría, y
 
 V. Se obstaculicen o impidan las acciones de verificación de conformidad con el artículo [13](../../lfpc/markdown/articulo-13.md) de la Ley, así como el procedimiento administrativo de ejecución que ordene la Procuraduría. En cualquiera de los casos previstos en este artículo, deberá solicitarse apoyo a la autoridad de seguridad pública local o federal competentes, para ejecutar el arresto.
-
-Sección Segunda Medidas precautorias

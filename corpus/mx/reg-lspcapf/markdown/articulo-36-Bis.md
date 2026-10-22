@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSPCAPF.pdf
 source_sha256: b4a968d8e8c138ac2069f6afa0dc622178328df24f59cf58eddbab8efe4a7eff
 ---
 
+> Capítulo Décimo
+
 # Artículo 36 Bis
 
 Cuando una persona no cumpla con algún requisito establecido en la convocatoria, no podrá continuar participando en el proceso de selección, y se le deberá notificar el motivo de la eliminación de su participación y el fundamento de esta determinación.

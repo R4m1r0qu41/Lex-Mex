@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf
 source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 ---
 
+> Título IV · Capítulo Quinto
+
 # Artículo 87 Bis 7
 
 En el supuesto de que la persona encargada de realizar la notificación hiciere la búsqueda del interesado o su representante en el domicilio a que se refiere el primer párrafo del artículo [87 Bis 6](articulo-87-Bis-6.md) de esta Ley, y la persona con quien se entienda la diligencia niegue que es el domicilio de dicho interesado o su representante, quien realice la diligencia levantará acta para hacer constar tal circunstancia. Dicha acta deberá reunir, en lo conducente, los requisitos previstos en el penúltimo párrafo del artículo [87 Bis 6](articulo-87-Bis-6.md) del presente ordenamiento legal.

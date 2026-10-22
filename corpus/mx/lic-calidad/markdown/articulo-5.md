@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LICal_010720.pdf
 source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 ---
 
-> Título PRIMERO
+> Título PRIMERO · Capítulo II
 
 # Artículo 5
 
@@ -41,4 +41,4 @@ XI. Sostenibilidad. Las actividades de normalización, estandarización, acredit
 
 XII. Trazabilidad de las mediciones. Asegurar que la trazabilidad de las mediciones que se realicen en el país, se origine en los patrones nacionales de medida y en los materiales de referencia certificados, con el propósito de asegurar la confiabilidad y la uniformidad de las mediciones, así como la comparabilidad de las mismas. Requiere el establecimiento de una cadena ininterrumpida de calibraciones con patrones de medición y con incertidumbre de medición determinada.
 
-XIII. Inclusión. Al desarrollar actividades de normalización, estandarización, evaluación de la conformidad, acreditación y metrología, los integrantes del Sistema Nacional de Infraestructura de la Calidad, deberán observar las disposiciones en materia de igualdad sustantiva e inclusión para efectuar ajustes razonables y acciones afirmativas en favor de las personas con discapacidad. Capítulo III Aplicación y Métodos de Interpretación
+XIII. Inclusión. Al desarrollar actividades de normalización, estandarización, evaluación de la conformidad, acreditación y metrología, los integrantes del Sistema Nacional de Infraestructura de la Calidad, deberán observar las disposiciones en materia de igualdad sustantiva e inclusión para efectuar ajustes razonables y acciones afirmativas en favor de las personas con discapacidad.

@@ -13,8 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LNUF.pdf
 source_sha256: 0c11f4464286e7411713a80361a2e1ab15c4cc55bff80b4e6ee4a4333592d50c
 ---
 
+> Capítulo II
+
 # Artículo 8
 
 Los protocolos y procedimientos del uso de la fuerza deberán atender a la perspectiva de género, la protección de niñas, niños y adolescentes, así como la atención de situaciones de riesgo en el interior o en las inmediaciones de guarderías, escuelas, hospitales, templos, centros de reclusión y otros lugares en el que se congreguen personas ajenas a los agresores.
-
-Capítulo III Procedimientos del [Uso de la Fuerza](articulo-3.md)

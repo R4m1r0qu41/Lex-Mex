@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAPP.pdf
 source_sha256: a4505a7bd41bc835f1def6fb030c42d8e74a2cc050d9c8fa08f91c9519e382bf
 ---
 
+> Capítulo Sexto · Sección Primera
+
 # Artículo 88
 
 Las autorizaciones antes citadas que, en su caso, sea necesario otorgar, contendrán únicamente las condiciones mínimas indispensables que, conforme a las disposiciones que las regulan, permitan al desarrollador el uso de los bienes o la prestación de los servicios del proyecto.

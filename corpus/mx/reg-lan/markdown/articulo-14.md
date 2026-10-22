@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAN_250814.pdf
 source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 ---
 
-> Título SEGUNDO
+> Título SEGUNDO · Capítulo II
 
 # Artículo 14
 
@@ -46,5 +46,3 @@ XII. Presidir el Instituto Mexicano de Tecnología del Agua;
 XIII. Establecer y aplicar, una vez que haya sido sancionada por el Consejo Técnico, la forma en la que se distribuirán los fondos provenientes de las multas impuestas por "La Comisión", previstos en las leyes respectivas y en el presente "Reglamento"; XIV. Hacer el seguimiento de los acuerdos adoptados por el Consejo Técnico y proporcionarle información suficiente y oportuna sobre los proyectos de "La Comisión" cuya realización requiera de la coordinación y apoyo de las dependencias integrantes del propio Consejo, y
 
 XV. Las demás que le confiera la "Ley", otras disposiciones legales o reglamentarias o el Consejo Técnico.
-
-Capítulo III Consejos de Cuenca

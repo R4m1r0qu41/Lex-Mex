@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LNUF.pdf
 source_sha256: 0c11f4464286e7411713a80361a2e1ab15c4cc55bff80b4e6ee4a4333592d50c
 ---
 
+> Capítulo V
+
 # Artículo 20
 
-Las familias de los agentes contarán con atención médica, psicológica y social en aquellos casos en los que el agente pierda la vida, le sea imputado el uso excesivo de la fuerza o adquiera alguna discapacidad por el ejercicio de sus funciones, dando especial atención a sus familiares. Capítulo VI [Detenciones](articulo-3.md)
+Las familias de los agentes contarán con atención médica, psicológica y social en aquellos casos en los que el agente pierda la vida, le sea imputado el uso excesivo de la fuerza o adquiera alguna discapacidad por el ejercicio de sus funciones, dando especial atención a sus familiares.

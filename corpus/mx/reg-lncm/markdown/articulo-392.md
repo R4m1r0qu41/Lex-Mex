@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Tercero · Capítulo III
+
 # Artículo 392
 
 En [Embarcaciones de Pasaje](articulo-10.md) sólo podrán transportarse los siguientes explosivos:
@@ -26,5 +28,3 @@ III. Artículos explosivos comprendidos en el grupo de compatibilidad G, distint
 IV. Artículos explosivos comprendidos en el grupo de compatibilidad B, si la masa total no excede de cinco kilogramos por Embarcación.
 
 Para efectos de este artículo, se entiende por grupos de compatibilidad los que aparecen enlistados de la “A” a la “G” en el [Código IMDG](articulo-10.md), aprobado por la [OMI](articulo-10.md).
-
-Sección XV Gestión de la Seguridad

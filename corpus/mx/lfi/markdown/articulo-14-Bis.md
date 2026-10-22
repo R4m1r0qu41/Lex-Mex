@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf
 source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 ---
 
+> Título II · Capítulo Tercero
+
 # Artículo 14 Bis
 
 Los fondos de inversión deberán contar con el capital mínimo totalmente pagado que la [Comisión](articulo-2.md) establezca mediante disposiciones de carácter general para cada tipo de fondo de inversión. El capital social fijo estará representado por las acciones a que se refiere el artículo [14 Bis 1](articulo-14-Bis-1.md), primer párrafo de esta Ley, y en ningún caso podrá ser inferior al capital mínimo.

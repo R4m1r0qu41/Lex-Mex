@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAC.pdf
 source_sha256: 4dcf5277184d5f5c5cc1c8ae2dfa196134b472d883eb2806c7bac27cd77eda7d
 ---
 
-> Título TERCERO · Capítulo I BIS
+> Título Cuarto · Capítulo III
 
 # Artículo 110
 
@@ -41,7 +41,9 @@ X. Asegurarse que no comience la operación, a menos que se tenga conocimiento, 
 
 XI. Asegurarse que no se realice un vuelo en condiciones previstas de formación de hielo, a menos que la aeronave este certificada y equipada para solventar tales condiciones; Fracción adicionada DOF 31-05-2023
 
-XII. Asegurarse que una operación planeada en la que se esperen condiciones de formación de hielo en tierra, el despegue no se llevará a cabo a menos que la aeronave haya sido inspeccionada por el personal de la tripulación de vuelo, y de ser necesario, se haya realizado un tratamiento de deshielo y antihielo, para asegurar que tales contaminantes se han removido de la aeronave y se encuentre en condiciones de aeronavegabilidad antes del despegue; Fracción adicionada DOF 31-05-2023 XIII. Asegurarse de que toda aeronave llevará una cantidad de combustible utilizable suficiente para completar el vuelo planificado de manera segura y permitir desviaciones respecto de la operación prevista, de conformidad con las disposiciones técnico-administrativas correspondientes; Fracción adicionada DOF 31-05-2023
+XII. Asegurarse que una operación planeada en la que se esperen condiciones de formación de hielo en tierra, el despegue no se llevará a cabo a menos que la aeronave haya sido inspeccionada por el personal de la tripulación de vuelo, y de ser necesario, se haya realizado un tratamiento de deshielo y antihielo, para asegurar que tales contaminantes se han removido de la aeronave y se encuentre en condiciones de aeronavegabilidad antes del despegue; Fracción adicionada DOF 31-05-2023
+
+XIII. Asegurarse de que toda aeronave llevará una cantidad de combustible utilizable suficiente para completar el vuelo planificado de manera segura y permitir desviaciones respecto de la operación prevista, de conformidad con las disposiciones técnico-administrativas correspondientes; Fracción adicionada DOF 31-05-2023
 
 XIV. Asegurarse que tanto el personal técnico-aeronáutico como todo aquel empleado bajo su servicio, cuente con todos los elementos necesarios para cumplir con lo dispuesto en la Ley, este reglamento, normas oficiales mexicanas y disposiciones técnico-administrativas correspondientes, para la operación de los servicios, así como, las leyes y reglamentos de los países en los cuales se realice la operación; Fracción adicionada DOF 31-05-2023
 

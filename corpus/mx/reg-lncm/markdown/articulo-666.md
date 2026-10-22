@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Tercero · Capítulo IX
+
 # Artículo 666
 
 Los permisos se revocarán por cualquiera de las causas siguientes:
@@ -40,7 +42,3 @@ X. Operar en ruta, zona o lugar distintos a los autorizados, y
 XI. Incumplir de manera reiterada cualquier otra de las obligaciones establecidas en la [Ley](articulo-10.md), en este Reglamento o en el permiso.
 
 La Capitanía de Puerto procederá a revocar los permisos que otorgue dentro de su jurisdicción, cuando los titulares de dichos permisos incurran en cualquiera de las causas antes señaladas.
-
-Capítulo X Prevención de la Contaminación
-
-Sección I Aspectos Generales

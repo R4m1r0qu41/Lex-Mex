@@ -17,7 +17,9 @@ source_sha256: 4ff895e3a71cad0980a03360585d24750d7e165b6ea2537fc44c5c05f9142ce7
 
 # Artículo 127
 
-En caso de propuestas no solicitadas, presentadas en términos de lo dispuesto en el Capítulo Tercero de la Ley, el expediente incluirá los documentos siguientes: Párrafo reformado DOF 31-10-2014 I. La propuesta, con sus anexos, así como las declaraciones del propio promotor, mencionadas en el artículo [45](articulo-45.md) de este Reglamento;
+En caso de propuestas no solicitadas, presentadas en términos de lo dispuesto en el Capítulo Tercero de la Ley, el expediente incluirá los documentos siguientes: Párrafo reformado DOF 31-10-2014
+
+I. La propuesta, con sus anexos, así como las declaraciones del propio promotor, mencionadas en el artículo [45](articulo-45.md) de este Reglamento;
 
 II. La opinión de la dependencia o entidad federal sobre la propuesta recibida;
 

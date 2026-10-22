@@ -25,7 +25,7 @@ II. La Secretaría de Relaciones Exteriores;
 
 II Bis. La Secretaría de Marina; Fracción adicionada DOF 03-05-2023
 
-III. La Secretaría de Hacienda y Crédito Público, a través de la Unidad de Inteligencia Financiera, el Servicio de Administración Tributaria y la Agencia Nacional de Aduanas de México; LEY FEDERAL PARA EL CONTROL DE PRECURSORES QUÍMICOS, PRODUCTOS QUÍMICOS ESENCIALES Y MÁQUINAS PARA ELABORAR CÁPSULAS, TABLETAS Y/O COMPRIMIDOS Fracción reformada DOF 03-05-2023
+III. La Secretaría de Hacienda y Crédito Público, a través de la Unidad de Inteligencia Financiera, el Servicio de Administración Tributaria y la Agencia Nacional de Aduanas de México; Fracción reformada DOF 03-05-2023
 
 IV. La Secretaría de Economía; Fracción reformada DOF 09-04-2012
 

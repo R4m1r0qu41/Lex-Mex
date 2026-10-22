@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAC.pdf
 source_sha256: 4dcf5277184d5f5c5cc1c8ae2dfa196134b472d883eb2806c7bac27cd77eda7d
 ---
 
+> Título Segundo · Capítulo II
+
 # Artículo 30
 
 La persona permisionaria de servicio de transporte aéreo nacional e internacional no regular bajo la modalidad de fletamento, requiere contar con autorización de la Agencia Federal de Aviación Civil para realizar los vuelos o paquetes de vuelos, por lo que debe presentar solicitud por escrito, acompañada de: Párrafo reformado DOF 31-05-2023

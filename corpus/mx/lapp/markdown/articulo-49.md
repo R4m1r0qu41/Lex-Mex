@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAPP.pdf
 source_sha256: a4505a7bd41bc835f1def6fb030c42d8e74a2cc050d9c8fa08f91c9519e382bf
 ---
 
+> Capítulo Cuarto · Sección Tercera
+
 # Artículo 49
 
 Para facilitar el concurso, previo al acto de presentación y apertura de las propuestas, la convocante podrá efectuar el registro de participantes, así como realizar revisiones preliminares a la documentación distinta a la referida al importe de la oferta económica.

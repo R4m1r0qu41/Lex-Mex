@@ -32,7 +32,3 @@ VI. Balance de materia y energía en condiciones de cero carga de residuos, al o
 VII. Propuesta de manejo de residuos y efluentes del proceso.
 
 El protocolo de pruebas a que se refiere el presente artículo se desarrollará atendiendo a la propuesta del interesado junto con las recomendaciones que realice la Secretaría.
-
-Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintinueve días del mes de noviembre de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Francisco Gil Díaz.- Rúbrica.- El Secretario de Medio Ambiente y Recursos Naturales, José Luis Luege Tamargo.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Pedro Cerisola y Weber.- Rúbrica.- El Secretario de Salud, Julio Frenk Mora.- Rúbrica.
-
-62

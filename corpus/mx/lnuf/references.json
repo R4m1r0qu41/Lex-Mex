@@ -161,28 +161,5 @@
     "resolution_status": "resolved",
     "reference_form": "direct",
     "resolution_rule": "own_instrument_default"
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnuf:transitory:tercero:reference:490-492:89:direct",
-    "source_provision_id": "urn:lex-mx:federal:statute:lnuf:transitory:tercero",
-    "source_span": "89",
-    "start_char": 490,
-    "end_char": 492,
-    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
-    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:89",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 466,
-        "end_char": 476
-      }
-    ],
-    "basis": "express_cross_reference",
-    "confidence": 1.0,
-    "resolution_status": "resolved",
-    "reference_form": "direct",
-    "resolution_rule": "named_instrument"
   }
 ]

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LNUF.pdf
 source_sha256: 0c11f4464286e7411713a80361a2e1ab15c4cc55bff80b4e6ee4a4333592d50c
 ---
 
+> Capítulo VI
+
 # Artículo 21
 
 En el uso de la fuerza para la detención de una persona se atenderán los principios y procedimientos establecidos en esta [Ley](articulo-3.md), de acuerdo con las siguientes reglas:

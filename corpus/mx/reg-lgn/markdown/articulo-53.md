@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGN_111220.pdf
 source_sha256: ea6e39560929f2e1998b2dabe0852fde0d684c69e5be49aab7f33433299bbeb0
 ---
 
-> Título SEGUNDO
+> Título SEGUNDO · Capítulo VIII
 
 # Artículo 53
 
@@ -34,5 +34,3 @@ VI. Auxiliar a las unidades de la Institución en los procedimientos de licitaci
 VII. Requerir a los servidores públicos de la Institución, la documentación e información que requiera para el cumplimiento de sus atribuciones;
 
 VIII. Las demás que le confieran otras disposiciones jurídicas, así como aquellas funciones que le encomiende su superior.
-
-Capítulo IX De las Coordinaciones Territoriales

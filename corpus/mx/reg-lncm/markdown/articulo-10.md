@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Primero · Capítulo II
+
 # Artículo 10
 
 Sin perjuicio de las definiciones establecidas en el artículo 2 de la [Ley](articulo-10.md), para efectos del presente Reglamento se entenderá por:
@@ -202,7 +204,3 @@ XCVI. Zonas a Evitar. Medida de organización del tráfico que comprende una zon
 XCVII. Zonas de Navegación Costera. Medida de organización del tráfico que comprende una zona especificada entre la costa y el límite más próximo de un [Dispositivo de Separación del Tráfico](articulo-10.md), y
 
 XCVIII. Zonas de Precaución. Medida de organización del tráfico que comprende una zona claramente delimitada en la que los buques han de navegar con especial precaución y dentro de la cual se puede recomendar la dirección del tráfico.
-
-Capítulo III Régimen Administrativo de las Garantías y de los Seguros en el Comercio Marítimo
-
-Sección I Cartas de Garantía

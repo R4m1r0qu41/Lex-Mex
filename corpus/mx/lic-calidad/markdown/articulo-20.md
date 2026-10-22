@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LICal_010720.pdf
 source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 ---
 
-> Título SEGUNDO
+> Título SEGUNDO · Capítulo II
 
 # Artículo 20
 
@@ -24,5 +24,3 @@ I. Solicitar al pleno de la Comisión, por conducto del Secretariado Ejecutivo, 
 II. Solicitar al pleno de la Comisión por conducto del Secretariado Ejecutivo el análisis o el estudio de temas que incidan o afecten las actividades de normalización, estandarización, acreditación, evaluación de la conformidad o metrología, y
 
 III. Participar en los mecanismos, estrategias y cualquier otra actividad para el fortalecimiento y la difusión del [Sistema Nacional de Infraestructura de la Calidad](articulo-4.md) y de los trabajos de la Comisión.
-
-Sección Segunda Del Consejo Técnico

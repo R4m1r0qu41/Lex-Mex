@@ -13,10 +13,12 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPPI.pdf
 source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 ---
 
-> Título QUINTO
+> Título QUINTO · Capítulo II
 
 # Artículo 294
 
-El [Instituto](articulo-4.md) sancionará a la persona responsable acreditada que incumpla con las obligaciones a que se refiere el artículo [292](articulo-292.md) de esta [Ley](articulo-4.md), con: Párrafo reformado DOF 03-04-2026 I.- La amonestación por escrito, por única ocasión, bajo el apercibimiento de que, de reincidir en el incumplimiento de sus obligaciones, se cancelará la acreditación, y
+El [Instituto](articulo-4.md) sancionará a la persona responsable acreditada que incumpla con las obligaciones a que se refiere el artículo [292](articulo-292.md) de esta [Ley](articulo-4.md), con: Párrafo reformado DOF 03-04-2026
+
+I.- La amonestación por escrito, por única ocasión, bajo el apercibimiento de que, de reincidir en el incumplimiento de sus obligaciones, se cancelará la acreditación, y
 
 II.- La cancelación de la acreditación.

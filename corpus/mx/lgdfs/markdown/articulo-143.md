@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDFS.pdf
 source_sha256: 2c75fd0eab3245aed43a4e1230dcd142b48959a1df09bdd4e70684935a505dd4
 ---
 
-> Título SEXTO
+> Título SEXTO · Capítulo IV
 
 # Artículo 143
 
@@ -46,5 +46,3 @@ IX. Impulsar la investigación participativa con los silvicultores, productores,
 En la formulación y coordinación de la política de investigación forestal, la Comisión considerará las propuestas de otras entidades paraestatales, gobiernos de las entidades, consejos estatales de ciencia y tecnología, dependencias, institutos, instituciones de educación superior, así como de los sectores productivo e industrial.
 
 El Instituto Nacional de Investigaciones Forestales, Agrícolas y Pecuarias, se coordinará en lo conducente con la Comisión en el diseño de las políticas y programas de investigación y desarrollo tecnológico forestal que realice dicho Instituto, a fin de garantizar su congruencia con el Programa Nacional de Investigación y Desarrollo Tecnológico Forestal.
-
-Capítulo V De la Cultura, Educación y Capacitación Forestal

@@ -23,7 +23,9 @@ La Secretaría de Salud, las instituciones de salud y los gobiernos de las entid
 
 I. El desarrollo de actividades educativas, socioculturales y recreativas con carácter permanente que contribuyan a la salud mental y a la prevención de adicciones, preferentemente a grupos en situación de vulnerabilidad; Fracción reformada DOF 15-01-2013, 04-11-2015, 16-05-2022
 
-II. La difusión de las orientaciones para la promoción de la salud mental, así como el conocimiento y prevención de los trastornos mentales y por consumo de sustancias psicoactivas, y de adicciones; Fracción reformada DOF 16-05-2022 III. La realización de programas para la prevención y control del uso de sustancias psicoactivas y de adicciones; Fracción reformada DOF 16-05-2022
+II. La difusión de las orientaciones para la promoción de la salud mental, así como el conocimiento y prevención de los trastornos mentales y por consumo de sustancias psicoactivas, y de adicciones; Fracción reformada DOF 16-05-2022
+
+III. La realización de programas para la prevención y control del uso de sustancias psicoactivas y de adicciones; Fracción reformada DOF 16-05-2022
 
 IV. Las acciones y campañas de promoción de los derechos de la población, sobre salud mental y adicciones, así como de sensibilización para reducir el estigma y la discriminación, a fin de favorecer el acceso oportuno de la atención; Fracción reformada DOF 15-01-2013, 16-05-2022
 

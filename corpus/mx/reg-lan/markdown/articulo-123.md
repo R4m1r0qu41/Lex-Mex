@@ -13,10 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAN_250814.pdf
 source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 ---
 
-> Título SEXTO
+> Título SEXTO · Capítulo III
 
 # Artículo 123
 
 La coordinación en los estudios y programación que realicen la Comisión Federal de Electricidad y "[La Comisión](articulo-1o.md)", en los términos del artículo [78](../../lan/markdown/articulo-78.md) de la "[Ley](articulo-1o.md)", se realizará en el seno de su respectivo órgano de gobierno y consejo.
-
-Capítulo IV Uso en Otras Actividades Productivas

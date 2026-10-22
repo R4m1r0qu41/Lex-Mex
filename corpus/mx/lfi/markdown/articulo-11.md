@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf
 source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 ---
 
+> Título II · Capítulo Segundo
+
 # Artículo 11
 
 Las sociedades operadoras de fondos de inversión que proporcionen servicios de administración a los fondos de inversión, a través de su propio consejo de administración, en adición a las funciones inherentes que la Ley General de Sociedades Mercantiles encomienda a quien tiene a su cargo la administración de las sociedades y a aquellas previstas en esta Ley deberán, respecto de los fondos de inversión a los que les presten servicios, realizar las funciones siguientes:

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAPP.pdf
 source_sha256: a4505a7bd41bc835f1def6fb030c42d8e74a2cc050d9c8fa08f91c9519e382bf
 ---
 
+> Capítulo Cuarto · Sección Tercera
+
 # Artículo 51
 
 El plazo para la presentación de propuestas no podrá ser menor a veinte días hábiles, contados a partir de la fecha de publicación de la convocatoria.
@@ -24,5 +26,3 @@ En cada concurso, los concursantes sólo podrán presentar una propuesta, con su
 Iniciado el acto de presentación y apertura de propuestas, las ya presentadas no podrán ser retiradas o dejarse sin efecto por los concursantes.
 
 Para intervenir en el acto de presentación y apertura de las propuestas bastará que los participantes presenten un escrito en el que manifiesten, bajo protesta de decir verdad, que cuentan con las facultades suficientes para ello, sin que sea necesario que acrediten su personalidad.
-
-Sección Cuarta De la Evaluación de las Propuestas y Fallo del Concurso

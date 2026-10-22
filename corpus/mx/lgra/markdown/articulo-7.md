@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGRA.pdf
 source_sha256: 1289ec6964e48c84990572ca6080ca05c9d6210e5b0ff5af6d8c9d935fc5fcc8
 ---
 
-> Título PRIMERO
+> Título PRIMERO · Capítulo II
 
 # Artículo 7
 
@@ -44,5 +44,3 @@ XII. Abstenerse de intervenir o promover, por sí o por interpósita persona, en
 XIII. Abstenerse de realizar cualquier trato o promesa privada que comprometa al Estado mexicano. Fracción recorrida DOF 19-11-2019
 
 La separación de activos o intereses económicos a que se refiere la fracción XI de este artículo, deberá comprobarse mediante la exhibición de los instrumentos legales conducentes, mismos que deberán incluir una cláusula que garantice la vigencia de la separación durante el tiempo de ejercicio del cargo y hasta por un año posterior a haberse retirado del empleo, cargo o comisión. Párrafo adicionado DOF 19-11-2019
-
-Capítulo III Autoridades competentes para aplicar la presente Ley

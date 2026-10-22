@@ -33,6 +33,8 @@ IV. Si el documento digital o medio electrónico se encuentra en poder de un ter
 
 Para los efectos de este artículo, se estará a lo dispuesto en la Sección Quinta del presente Capítulo, relativo a la prueba pericial.
 
-V. Las partes y los miembros del Tribunal podrán hacer al o a los peritos designados las preguntas que juzguen convenientes. Fracción reformada DOF 01-05-2019 Para el desahogo de la prueba a que se refiere este artículo, el Tribunal en todo momento podrá asistirse de elementos humanos y tecnológicos necesarios para mejor proveer. Párrafo reformado DOF 01-05-2019
+V. Las partes y los miembros del Tribunal podrán hacer al o a los peritos designados las preguntas que juzguen convenientes. Fracción reformada DOF 01-05-2019
+
+Para el desahogo de la prueba a que se refiere este artículo, el Tribunal en todo momento podrá asistirse de elementos humanos y tecnológicos necesarios para mejor proveer. Párrafo reformado DOF 01-05-2019
 
 Artículo adicionado DOF 30-11-2012

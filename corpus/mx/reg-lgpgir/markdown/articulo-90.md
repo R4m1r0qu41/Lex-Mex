@@ -22,5 +22,3 @@ Las actividades de tratamiento de residuos peligrosos se sujetarán a los criter
 Los prestadores de servicios de tratamiento deberán monitorear los parámetros de sus procesos y registrarlos en la bitácora de operación que deberá estar disponible para consulta de la autoridad competente.
 
 Los microgeneradores de residuos que contengan agentes infecciosos que les confieran peligrosidad aplicarán las formas de tratamiento que estimen necesarias para neutralizar dichos residuos y disponer de ellos finalmente.
-
-Sección V Disposición final de residuos peligrosos

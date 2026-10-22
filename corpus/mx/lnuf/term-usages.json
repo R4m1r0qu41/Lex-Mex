@@ -64,42 +64,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnuf:article:8:term-usage:400-416",
-    "provision_id": "urn:lex-mx:federal:statute:lnuf:article:8",
-    "term_id": "urn:lex-mx:federal:statute:lnuf:term:uso-de-la-fuerza",
-    "span": "Uso de la Fuerza",
-    "start_char": 400,
-    "end_char": 416
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnuf:article:13:term-usage:488-504",
-    "provision_id": "urn:lex-mx:federal:statute:lnuf:article:13",
-    "term_id": "urn:lex-mx:federal:statute:lnuf:term:uso-de-la-fuerza",
-    "span": "Uso de la Fuerza",
-    "start_char": 488,
-    "end_char": 504
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnuf:article:16:term-usage:1117-1124",
-    "provision_id": "urn:lex-mx:federal:statute:lnuf:article:16",
-    "term_id": "urn:lex-mx:federal:statute:lnuf:term:agente",
-    "span": "Agentes",
-    "start_char": 1117,
-    "end_char": 1124
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnuf:article:20:term-usage:299-310",
-    "provision_id": "urn:lex-mx:federal:statute:lnuf:article:20",
-    "term_id": "urn:lex-mx:federal:statute:lnuf:term:detencion",
-    "span": "Detenciones",
-    "start_char": 299,
-    "end_char": 310
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lnuf:article:21:term-usage:122-125",
     "provision_id": "urn:lex-mx:federal:statute:lnuf:article:21",
     "term_id": "urn:lex-mx:federal:statute:lnuf:term:ley",
@@ -127,30 +91,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnuf:article:28:term-usage:225-241",
-    "provision_id": "urn:lex-mx:federal:statute:lnuf:article:28",
-    "term_id": "urn:lex-mx:federal:statute:lnuf:term:uso-de-la-fuerza",
-    "span": "Uso de la Fuerza",
-    "start_char": 225,
-    "end_char": 241
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lnuf:article:30:term-usage:152-155",
     "provision_id": "urn:lex-mx:federal:statute:lnuf:article:30",
     "term_id": "urn:lex-mx:federal:statute:lnuf:term:ley",
     "span": "Ley",
     "start_char": 152,
     "end_char": 155
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnuf:article:31:term-usage:663-679",
-    "provision_id": "urn:lex-mx:federal:statute:lnuf:article:31",
-    "term_id": "urn:lex-mx:federal:statute:lnuf:term:uso-de-la-fuerza",
-    "span": "Uso de la Fuerza",
-    "start_char": 663,
-    "end_char": 679
   },
   {
     "schema_version": "0.1.0",

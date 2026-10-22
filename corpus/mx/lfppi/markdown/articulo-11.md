@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPPI.pdf
 source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 ---
 
-> Título PRIMERO
+> Título PRIMERO · Capítulo I
 
 # Artículo 11
 
@@ -24,5 +24,3 @@ Para la determinación de los montos de las tarifas se deberán considerar, entr
 I.- Los costos en los que incurre el Instituto para la prestación de los servicios, incluyendo sus gastos de operación y el Índice Nacional de Precios al Consumidor. Los montos de las tarifas deberán permitir la recuperación de los costos, por lo menos, y
 
 II.- Su competitividad frente a las que aplican otras oficinas de propiedad industrial a nivel internacional.
-
-Capítulo II Reglas Generales

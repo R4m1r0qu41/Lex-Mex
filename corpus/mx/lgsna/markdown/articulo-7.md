@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSNA_200521.pdf
 source_sha256: 5edf7b5ad4dd65a9c97c02ec51f13499aa7ab5025f02ad6e9be3c948ff3cf185
 ---
 
-> Título SEGUNDO
+> Título SEGUNDO · Capítulo I
 
 # Artículo 7
 
@@ -26,5 +26,3 @@ II. El [Comité de Participación Ciudadana](articulo-3.md);
 III. El Comité Rector del [Sistema Nacional de Fiscalización](articulo-3.md), y
 
 IV. Los [Sistemas Locales](articulo-3.md), quienes concurrirán a través de sus representantes.
-
-Capítulo II Del Comité Coordinador

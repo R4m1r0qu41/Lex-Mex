@@ -54,5 +54,3 @@ Vl. Llevar el archivo de la comisión, con el apoyo y articulación de los servi
 Vll. Dirigir los trabajos de los asesores y del personal administrativo de apoyo a la Junta Directiva, y
 
 Vlll. Atender y dar cumplimiento a los acuerdos de la Junta Directiva y del pleno de las comisiones y comités. Numeral con fracciones adicionado DOF 25-03-2015
-
-Sección Cuarta Subcomisiones

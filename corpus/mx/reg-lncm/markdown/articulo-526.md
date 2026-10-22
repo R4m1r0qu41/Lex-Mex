@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
 source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 ---
 
+> Título Tercero · Capítulo V
+
 # Artículo 526
 
 Los capitanes de las Embarcaciones deberán parar o moderar las máquinas y maniobrar convenientemente a fin de facilitar al [Piloto de Puerto](articulo-10.md) embarcar o desembarcar. En caso de mal tiempo o de mar gruesa, deberán ejecutar lo que la pericia marinera indique para proteger la lancha del Piloto de Puerto en el momento de abordar o dejar la Embarcación y serán responsables de las averías o accidentes que aquélla o el piloto sufran por su error o negligencia.

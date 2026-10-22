@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGDFS.pdf
 source_sha256: a4dbcdb94d780332f0bda62246611dab5972e75bcb01df293df93a95cdd03530
 ---
 
-> Título SEGUNDO
+> Título SEGUNDO · Capítulo III
 
 # Artículo 17
 
@@ -58,5 +58,3 @@ b) Terrenos preferentemente forestales, caracterizados por carecer de Vegetació
 c) Terrenos forestales o preferentemente forestales con Degradación media, caracterizados por tener una cobertura de copa menor al veinte por ciento y mostrar evidencia de erosión severa, con presencia de canalillos;
 
 d) Terrenos forestales o preferentemente forestales con Degradación baja, caracterizados por tener una cobertura de copa inferior al veinte por ciento y mostrar evidencia de erosión laminar, y e) Terrenos forestales o preferentemente forestales degradados que se encuentren sometidos a tratamientos de recuperación, tales como Forestación, Reforestación o regeneración natural.
-
-Capítulo IV Registro Forestal Nacional

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf
 source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 ---
 
+> Título IV · Capítulo Segundo
+
 # Artículo 69
 
 Las acciones representativas del capital social de sociedades operadoras de fondos de inversión o distribuidoras de acciones de fondos de inversión Filiales, podrán ser enajenadas por una Institución Financiera del Exterior o por una Sociedad Controladora Filial, previa autorización de la [Comisión](articulo-2.md).

@@ -1,0 +1,409 @@
+{
+  "head": "46be511cebcd374c5befb561d98ffa4ab4205f2e",
+  "execution": "two independent fresh output roots, concurrent builds/verifications in the same environment",
+  "runs": [
+    {
+      "build": {
+        "exit_code": 0,
+        "elapsed_seconds": 227.49,
+        "stderr": "",
+        "report": {
+          "release_id": "539ab0a71e5a4d3793885c4b38e90af375471d20a643a91e60443a2796a5a9ba",
+          "directory": "/Users/jr/Dev/lex-mex/derived/db/heading-repair-a/539ab0a71e5a4d3793885c4b38e90af375471d20a643a91e60443a2796a5a9ba",
+          "database_sha256": "f1c8626f23123bfee54d1553245bac4e86f0e4699e22524ecfe2e7691ac151bc",
+          "input_files": 4960,
+          "table_counts": {
+            "coverage": 1872,
+            "coverage_accepted_gaps": 5,
+            "defined_terms": 5766,
+            "enactment_evidence": 99,
+            "evidence_artifacts": 1673,
+            "glossary_coverage": 468,
+            "input_files": 4960,
+            "instrument_reproducibility": 0,
+            "instruments": 468,
+            "known_structural_debt": 14,
+            "legal_operator_reviews": 16,
+            "outdated_reference_approvals": 17,
+            "provisions": 68341,
+            "reference_edges": 35930,
+            "reference_qualifiers": 12341,
+            "source_manifests": 498,
+            "standards_catalog": 32,
+            "term_usages": 97672
+          }
+        }
+      },
+      "verify": {
+        "exit_code": 0,
+        "elapsed_seconds": 161.95,
+        "stderr": "",
+        "report": {
+          "schema_version": "2",
+          "release_id": "539ab0a71e5a4d3793885c4b38e90af375471d20a643a91e60443a2796a5a9ba",
+          "corpus_commit": "46be511cebcd374c5befb561d98ffa4ab4205f2e",
+          "head_commit": "9a2df25298e4ac0ddc7ee8e98603339bf595136c",
+          "stale_input_paths": [
+            "adapters/shared/_known-structural-debt.json",
+            "docs/decisions.md",
+            "schemas/structural-debt.schema.json"
+          ],
+          "input_files": 4960,
+          "normalized_records": 208744,
+          "table_counts": {
+            "corpus_release": 1,
+            "coverage": 1872,
+            "coverage_accepted_gaps": 5,
+            "defined_terms": 5766,
+            "enactment_evidence": 99,
+            "evidence_artifacts": 1673,
+            "glossary_coverage": 468,
+            "input_files": 4960,
+            "instrument_reproducibility": 0,
+            "instruments": 468,
+            "known_structural_debt": 14,
+            "legal_operator_reviews": 16,
+            "outdated_reference_approvals": 17,
+            "provisions": 68341,
+            "reference_edges": 35930,
+            "reference_qualifiers": 12341,
+            "source_anchors": 68809,
+            "source_manifests": 498,
+            "standards_catalog": 32,
+            "term_usages": 97672
+          },
+          "fts_token_occurrences": 10002069,
+          "database_sha256": "f1c8626f23123bfee54d1553245bac4e86f0e4699e22524ecfe2e7691ac151bc",
+          "logical_content_sha256": "8cc3736018bffae94f303d9cbfa378170c9ff0e2842ce708431f08d528b60359"
+        }
+      },
+      "golden": {
+        "exit_code": 0,
+        "elapsed_seconds": 0.12,
+        "stderr": "",
+        "report": [
+          "G1 reg-lan parent law",
+          "G2 G4 approved outdated with independent notes",
+          "G3 unavailable history",
+          "G3 current target remains live",
+          "G5 LFTR missing citation",
+          "G5 repaired CPF is absent",
+          "G6 LGTOC separate article",
+          "G6 active LFD structural debt",
+          "G7 accent-insensitive complete hit set",
+          "G7 accent-insensitive reverse hit set",
+          "G7 baseline hit count",
+          "G8 exact Terdecies lookup",
+          "definition provenance",
+          "exact term usages",
+          "cross-instrument glossary usages",
+          "source provenance",
+          "analysis completeness remains explicit",
+          "standards excluded from provisions",
+          "G1 adapter parent authority",
+          "G1 source definition authority",
+          "G5 complete cited-but-missing inventory"
+        ]
+      },
+      "database_bytes": 482025472,
+      "manifest_sha256": "902f9777992d5a3ac7f463a29b3a0de0ed5749ce21b4c4e305df91099b6d2fb8",
+      "manifest_input_count": 4960,
+      "manifest_canonical_json_sha256": "45b89532c436b543cc1394149b3754e292344778963a5f2ff25ed3c47053ef79"
+    },
+    {
+      "build": {
+        "exit_code": 0,
+        "elapsed_seconds": 227.67,
+        "stderr": "",
+        "report": {
+          "release_id": "539ab0a71e5a4d3793885c4b38e90af375471d20a643a91e60443a2796a5a9ba",
+          "directory": "/Users/jr/Dev/lex-mex/derived/db/heading-repair-b/539ab0a71e5a4d3793885c4b38e90af375471d20a643a91e60443a2796a5a9ba",
+          "database_sha256": "f1c8626f23123bfee54d1553245bac4e86f0e4699e22524ecfe2e7691ac151bc",
+          "input_files": 4960,
+          "table_counts": {
+            "coverage": 1872,
+            "coverage_accepted_gaps": 5,
+            "defined_terms": 5766,
+            "enactment_evidence": 99,
+            "evidence_artifacts": 1673,
+            "glossary_coverage": 468,
+            "input_files": 4960,
+            "instrument_reproducibility": 0,
+            "instruments": 468,
+            "known_structural_debt": 14,
+            "legal_operator_reviews": 16,
+            "outdated_reference_approvals": 17,
+            "provisions": 68341,
+            "reference_edges": 35930,
+            "reference_qualifiers": 12341,
+            "source_manifests": 498,
+            "standards_catalog": 32,
+            "term_usages": 97672
+          }
+        }
+      },
+      "verify": {
+        "exit_code": 0,
+        "elapsed_seconds": 161.26,
+        "stderr": "",
+        "report": {
+          "schema_version": "2",
+          "release_id": "539ab0a71e5a4d3793885c4b38e90af375471d20a643a91e60443a2796a5a9ba",
+          "corpus_commit": "46be511cebcd374c5befb561d98ffa4ab4205f2e",
+          "head_commit": "9a2df25298e4ac0ddc7ee8e98603339bf595136c",
+          "stale_input_paths": [
+            "adapters/shared/_known-structural-debt.json",
+            "docs/decisions.md",
+            "schemas/structural-debt.schema.json"
+          ],
+          "input_files": 4960,
+          "normalized_records": 208744,
+          "table_counts": {
+            "corpus_release": 1,
+            "coverage": 1872,
+            "coverage_accepted_gaps": 5,
+            "defined_terms": 5766,
+            "enactment_evidence": 99,
+            "evidence_artifacts": 1673,
+            "glossary_coverage": 468,
+            "input_files": 4960,
+            "instrument_reproducibility": 0,
+            "instruments": 468,
+            "known_structural_debt": 14,
+            "legal_operator_reviews": 16,
+            "outdated_reference_approvals": 17,
+            "provisions": 68341,
+            "reference_edges": 35930,
+            "reference_qualifiers": 12341,
+            "source_anchors": 68809,
+            "source_manifests": 498,
+            "standards_catalog": 32,
+            "term_usages": 97672
+          },
+          "fts_token_occurrences": 10002069,
+          "database_sha256": "f1c8626f23123bfee54d1553245bac4e86f0e4699e22524ecfe2e7691ac151bc",
+          "logical_content_sha256": "8cc3736018bffae94f303d9cbfa378170c9ff0e2842ce708431f08d528b60359"
+        }
+      },
+      "golden": {
+        "exit_code": 0,
+        "elapsed_seconds": 0.13,
+        "stderr": "",
+        "report": [
+          "G1 reg-lan parent law",
+          "G2 G4 approved outdated with independent notes",
+          "G3 unavailable history",
+          "G3 current target remains live",
+          "G5 LFTR missing citation",
+          "G5 repaired CPF is absent",
+          "G6 LGTOC separate article",
+          "G6 active LFD structural debt",
+          "G7 accent-insensitive complete hit set",
+          "G7 accent-insensitive reverse hit set",
+          "G7 baseline hit count",
+          "G8 exact Terdecies lookup",
+          "definition provenance",
+          "exact term usages",
+          "cross-instrument glossary usages",
+          "source provenance",
+          "analysis completeness remains explicit",
+          "standards excluded from provisions",
+          "G1 adapter parent authority",
+          "G1 source definition authority",
+          "G5 complete cited-but-missing inventory"
+        ]
+      },
+      "database_bytes": 482025472,
+      "manifest_sha256": "902f9777992d5a3ac7f463a29b3a0de0ed5749ce21b4c4e305df91099b6d2fb8",
+      "manifest_input_count": 4960,
+      "manifest_canonical_json_sha256": "45b89532c436b543cc1394149b3754e292344778963a5f2ff25ed3c47053ef79"
+    }
+  ],
+  "manifest_identity": true,
+  "byte_identity": true,
+  "logical_identity": true,
+  "golden_identity": true,
+  "snapshot_kind": "unreferenced validation object; branch HEAD unchanged; not a published release",
+  "native_checks": {
+    "fmt": "pass",
+    "strict_clippy": "pass",
+    "workspace_tests": 419,
+    "cli_build": "pass"
+  },
+  "source_audit": {
+    "reparsed_instruments": 39,
+    "sources_and_extracted_text_hashes_verified": [
+      "lapp",
+      "lcm",
+      "lfcpq",
+      "lfda",
+      "lfi",
+      "lfpiorpi",
+      "lfppi",
+      "lfrcf",
+      "lft",
+      "lgdfs",
+      "lgmsv",
+      "lgra",
+      "lgs",
+      "lgsna",
+      "lic-calidad",
+      "linfonacot",
+      "lins",
+      "lissste",
+      "lnrd",
+      "lnuf",
+      "locg",
+      "lotfja",
+      "lsar",
+      "ltf",
+      "reg-diputados",
+      "reg-lac",
+      "reg-lan",
+      "reg-lapp",
+      "reg-lbogm",
+      "reg-lfea",
+      "reg-lfpc",
+      "reg-lgdfs",
+      "reg-lgn",
+      "reg-lgpgir",
+      "reg-lgs-mp",
+      "reg-lgs-mt",
+      "reg-lncm",
+      "reg-lspcapf",
+      "reg-ltf"
+    ],
+    "added_ids": [
+      "urn:lex-mx:federal:statute:lgs:article:192-quintus",
+      "urn:lex-mx:federal:statute:lgs:article:192-sextus",
+      "urn:lex-mx:federal:statute:lgs:article:60-decies",
+      "urn:lex-mx:federal:statute:lissste:transitory:cuadragesimo",
+      "urn:lex-mx:federal:statute:lissste:transitory:cuadragesimo-cuarto",
+      "urn:lex-mx:federal:statute:lissste:transitory:cuadragesimo-octavo",
+      "urn:lex-mx:federal:statute:lissste:transitory:cuadragesimo-primero",
+      "urn:lex-mx:federal:statute:lissste:transitory:cuadragesimo-quinto",
+      "urn:lex-mx:federal:statute:lissste:transitory:cuadragesimo-segundo",
+      "urn:lex-mx:federal:statute:lissste:transitory:cuadragesimo-septimo",
+      "urn:lex-mx:federal:statute:lissste:transitory:cuadragesimo-sexto",
+      "urn:lex-mx:federal:statute:lissste:transitory:cuadragesimo-tercero"
+    ],
+    "removed_ids": [],
+    "temporal_changes": [
+      {
+        "id": "urn:lex-mx:federal:regulation:reg-diputados:article:284",
+        "changed": {
+          "effective_from": [
+            null,
+            "2011-01-01"
+          ]
+        },
+        "new_review_status": "machine_accepted"
+      },
+      {
+        "id": "urn:lex-mx:federal:regulation:reg-lac:article:92",
+        "changed": {
+          "effective_from": [
+            null,
+            "1998-12-08"
+          ]
+        },
+        "new_review_status": "machine_accepted"
+      },
+      {
+        "id": "urn:lex-mx:federal:regulation:reg-lac:article:97",
+        "changed": {
+          "effective_from": [
+            null,
+            "1998-12-08"
+          ]
+        },
+        "new_review_status": "machine_accepted"
+      },
+      {
+        "id": "urn:lex-mx:federal:regulation:reg-lapp:article:15",
+        "changed": {
+          "effective_from": [
+            null,
+            "2012-11-06"
+          ]
+        },
+        "new_review_status": "machine_accepted"
+      },
+      {
+        "id": "urn:lex-mx:federal:statute:lcm:article:244",
+        "changed": {
+          "effective_from": [
+            null,
+            "2000-05-13"
+          ]
+        },
+        "new_review_status": "machine_accepted"
+      },
+      {
+        "id": "urn:lex-mx:federal:statute:lfda:article:114",
+        "changed": {
+          "effective_from": [
+            null,
+            "1997-03-24"
+          ]
+        },
+        "new_review_status": "machine_accepted"
+      },
+      {
+        "id": "urn:lex-mx:federal:statute:lfda:article:156",
+        "changed": {
+          "effective_from": [
+            null,
+            "1997-03-24"
+          ]
+        },
+        "new_review_status": "machine_accepted"
+      }
+    ],
+    "lawyer_reviewed_provisions_changed": [],
+    "lritf_unchanged": true
+  },
+  "private_e2e": {
+    "snapshot": "46be511cebcd374c5befb561d98ffa4ab4205f2e",
+    "stages": [
+      "parse",
+      "derive-temporal",
+      "validate",
+      "export"
+    ],
+    "canonical_diff_paths": 0,
+    "instruments": {
+      "locg": {
+        "provisions": 159,
+        "references": 41,
+        "validation_issues": 0
+      },
+      "lfcpq": {
+        "provisions": 35,
+        "references": 41,
+        "validation_issues": 0
+      },
+      "lsar": {
+        "provisions": 167,
+        "references": 90,
+        "validation_issues": 5,
+        "valid": true,
+        "warnings": "one existing suffix_order and four reviewed historical_superseded_reference_outdated warnings"
+      }
+    },
+    "required_validators": {
+      "lritf": "pass, zero issues",
+      "ifpe-dcg-2021": "pass, zero issues"
+    },
+    "db_check_seed_active_rows": 14
+  },
+  "repair_file_sha256": {
+    "adapters/shared/_known-structural-debt.json": "098fb2e9f01bc8260e7f16681ae8db62b56cb638a2ac0f37a6c8230e924f7532",
+    "crates/lex-db/src/contract.rs": "8f25d178428e84b3615b27923f105c6d3acdc3df7d8c445052427cc91115fb43",
+    "crates/lex-db/src/verify.rs": "7226cb8945a74fa46fc66145e8b7f45eb5b9ad5ea4bdfbf4a296a33e3fdf662a",
+    "crates/lex-db/tests/pinned_inputs.rs": "5e3b3ac1620cf40bcc72c4ae734117d4ecc17c2a45081d8c82dcdbf00bbb5b53",
+    "crates/lex-parse/src/diputados.rs": "3d42c8187c783972a83d6e3a6419e44fe48995839b8c0b48113822bb61412dee",
+    "schemas/structural-debt.schema.json": "50bc126b435e945291f58141a45d79112c2bfcf1cbe23d7ca20fb193305691d4",
+    "fixtures/diputados/law-title-prose-is-not-wrapper-sample.txt": "2b2e09b5ee94a82728b044f7ea415ff5901f382cbe18a8b08c0cbf38928f63c1"
+  }
+}

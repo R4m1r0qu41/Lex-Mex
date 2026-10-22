@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGRA.pdf
 source_sha256: 1289ec6964e48c84990572ca6080ca05c9d6210e5b0ff5af6d8c9d935fc5fcc8
 ---
 
-> Título PRIMERO
+> Título PRIMERO · Capítulo I
 
 # Artículo 5
 
@@ -28,5 +28,3 @@ III. Las demás actividades profesionales que realicen les permitan contar con e
 IV. El monto de los honorarios que se cubran por su participación en los órganos de gobierno no sean superiores a los que se paguen en empresas que realicen actividades similares en la República Mexicana, y
 
 V. Cuenten, al menos, con los mismos deberes de diligencia y lealtad aplicables a los consejeros independientes de las empresas productivas del Estado. En todo caso, serán responsables por los daños y perjuicios que llegaren a causar a la entidad, derivados de los actos, hechos u omisiones en que incurran, incluyendo el incumplimiento a dichos deberes.
-
-Capítulo II Principios y directrices que rigen la actuación de los Servidores Públicos

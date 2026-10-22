@@ -20,5 +20,3 @@ source_sha256: 12f09393a1951a91c3f57f579bf611b034edf1a5f78cdbfb828e23ff3a9acbf7
 Las empresas tendrán derecho a ejercitar ante el [Tribunal](articulo-3o.-Ter.md), las acciones que les correspondan en contra de los trabajadores por incumplimiento de las obligaciones que les impone este capítulo.
 
 Artículo reformado DOF 01-05-2019
-
-Capítulo III BIS De la Productividad, Formación y Capacitación de los Trabajadores Capítulo adicionado DOF 28-04-1978. Denominación reformada DOF 30-11-2012

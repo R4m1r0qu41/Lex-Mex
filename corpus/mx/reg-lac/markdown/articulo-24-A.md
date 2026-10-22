@@ -13,10 +13,10 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAC.pdf
 source_sha256: 4dcf5277184d5f5c5cc1c8ae2dfa196134b472d883eb2806c7bac27cd77eda7d
 ---
 
+> Título Segundo · Capítulo II
+
 # Artículo 24-A
 
 La [Secretaría](articulo-2.md) o la Agencia Federal de Aviación Civil podrán negar las solicitudes a que se refiere esta sección conforme a la demanda del servicio de transporte y para garantizar el mejor funcionamiento del espacio aéreo.
 
 Artículo adicionado DOF 05-10-2000. Reformado DOF 31-05-2023
-
-Sección segunda De los servicios sujetos a permiso

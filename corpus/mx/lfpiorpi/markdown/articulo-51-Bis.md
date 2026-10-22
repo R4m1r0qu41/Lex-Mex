@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPIORPI.pdf
 source_sha256: 2e35228bd3100a3a137f313359833c4836f2b4b6d4e52e1ce4fe58a970cd768f
 ---
 
+> Capítulo VI
+
 # Artículo 51 Bis
 
 Las dependencias y entidades de la Administración Pública Federal, local, municipal y de las demarcaciones de la Ciudad de México, así como los organismos constitucionales autónomos y empresas públicas del Estado proporcionarán a la [Secretaría](articulo-3.md), la información, datos, imágenes y documentación a la que tengan acceso y que les sea requerida en el ejercicio de sus atribuciones.

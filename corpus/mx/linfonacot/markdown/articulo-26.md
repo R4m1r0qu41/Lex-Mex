@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LIFNCT.pdf
 source_sha256: 78fb5069898e5e58096511208e3cfa308922eb1c5c68f68c4ecd80b20c6f422f
 ---
 
-> Capítulo IV
+> Capítulo IV · Sección II
 
 # Artículo 26
 
@@ -28,5 +28,3 @@ IV. El responsable del área de administración del [Instituto](articulo-4.md), 
 V. Un profesionista independiente con amplia experiencia en el área de recursos humanos.
 
 Salvo el caso del profesional independiente, los demás miembros del Comité contarán con sus respectivos suplentes, quienes serán preferentemente servidores públicos del nivel inmediato inferior.
-
-Sección III Del Director General

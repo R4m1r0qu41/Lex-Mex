@@ -929,29 +929,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:transitory:decimo-quinto:reference:465-467:89:direct",
-    "source_provision_id": "urn:lex-mx:federal:statute:lic-calidad:transitory:decimo-quinto",
-    "source_span": "89",
-    "start_char": 465,
-    "end_char": 467,
-    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
-    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:89",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 441,
-        "end_char": 451
-      }
-    ],
-    "basis": "express_cross_reference",
-    "confidence": 1.0,
-    "resolution_status": "resolved",
-    "reference_form": "direct",
-    "resolution_rule": "named_instrument"
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lic-calidad:transitory:decimo-segundo:reference:27-29:45:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lic-calidad:transitory:decimo-segundo",
     "source_span": "45",
