@@ -1,5 +1,9 @@
 # Four-instrument Reader — R0–R4 continuation receipt and corrected publication packet
 
+> **Superseded packages (R5, 2026-10-22).** Codex's review held publication for a 390px LIC Art. 193 deep-link
+> defect on the shared UI. The package IDs below (`f5a1937a…` and `709b09c4…`) are superseded by
+> `docs/four-instrument-reader-r5-receipt-2026-10-22.md`. The rest of this receipt stands as the R0–R4 record.
+
 2026-10-22. Executes the R0–R4 continuation of
 `docs/plans/four-instrument-reader-design-release.md` (received from Codex at SHA-256
 `14ffd7f6e9de821ac2e434c992c8bcef8ba604732d03bf710e9307da72be974a`). It supersedes the

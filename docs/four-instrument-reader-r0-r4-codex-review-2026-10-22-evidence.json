@@ -1,0 +1,2744 @@
+{
+  "verdict": "changes_requested",
+  "branch_head": "d87db82c082f3f0041070e52eb1636b1e46f98cf",
+  "mechanical_gate": {
+    "worktree_status": "clean",
+    "native_bindings": {
+      "crates/lex-cli/src/bundle.rs": {
+        "exists": true,
+        "equal": true,
+        "actual": "33c79bfbf8ecf1bc05d40a49616ba031d72e458f0049dccb06733935056a8578",
+        "claimed": "33c79bfbf8ecf1bc05d40a49616ba031d72e458f0049dccb06733935056a8578"
+      },
+      "crates/lex-cli/src/db.rs": {
+        "exists": true,
+        "equal": true,
+        "actual": "b6a606ad92c29ceed0fef1334c75ca3c0bd2179ef72ac34f49329ba6ae2e8f32",
+        "claimed": "b6a606ad92c29ceed0fef1334c75ca3c0bd2179ef72ac34f49329ba6ae2e8f32"
+      },
+      "crates/lex-cli/src/main.rs": {
+        "exists": true,
+        "equal": true,
+        "actual": "4a853cd234da0ac286ad1560bc707ba4934b671a9555d6e04863973a2e4a4823",
+        "claimed": "4a853cd234da0ac286ad1560bc707ba4934b671a9555d6e04863973a2e4a4823"
+      },
+      "crates/lex-cli/src/public_release.rs": {
+        "exists": true,
+        "equal": true,
+        "actual": "791b90e625c0a4f54ff1a5ccf12086726c7847cc24b507fc6196fcfac7edf3af",
+        "claimed": "791b90e625c0a4f54ff1a5ccf12086726c7847cc24b507fc6196fcfac7edf3af"
+      },
+      "crates/lex-cli/src/review_packets.rs": {
+        "exists": true,
+        "equal": true,
+        "actual": "6bda028c5ea312bfa99d678779230d74564e7e2a105fedcdb0c5159ed5878fa6",
+        "claimed": "6bda028c5ea312bfa99d678779230d74564e7e2a105fedcdb0c5159ed5878fa6"
+      },
+      "crates/lex-cli/src/standards.rs": {
+        "exists": true,
+        "equal": true,
+        "actual": "a5182342588727c1a5323488cbf4bf37103dd648a12a779dad82bc44a47f30e3",
+        "claimed": "a5182342588727c1a5323488cbf4bf37103dd648a12a779dad82bc44a47f30e3"
+      },
+      "crates/lex-cli/Cargo.toml": {
+        "exists": true,
+        "equal": true,
+        "actual": "6a409f210ff46484a65f42c9fbe04fe3e62953fcabc145932ead045326c7c691",
+        "claimed": "6a409f210ff46484a65f42c9fbe04fe3e62953fcabc145932ead045326c7c691"
+      },
+      "Cargo.lock": {
+        "exists": true,
+        "equal": true,
+        "actual": "14a9f6698abc77c29555e3b646aa0217026779e4a22c107407511c751c8e1d79",
+        "claimed": "14a9f6698abc77c29555e3b646aa0217026779e4a22c107407511c751c8e1d79"
+      },
+      "schemas/public-instrument-v1.schema.json": {
+        "exists": true,
+        "equal": true,
+        "actual": "aee6c797d72608b98660e9007962ee980bd6fcadde9bf7f1ed3bf50c7db24a31",
+        "claimed": "aee6c797d72608b98660e9007962ee980bd6fcadde9bf7f1ed3bf50c7db24a31"
+      },
+      "schemas/public-release-v1.schema.json": {
+        "exists": true,
+        "equal": true,
+        "actual": "c1c4e24f3d9afcfb2105e1ea16fa82f42a59073b0ae0000e3eed2e0c22a6b43e",
+        "claimed": "c1c4e24f3d9afcfb2105e1ea16fa82f42a59073b0ae0000e3eed2e0c22a6b43e"
+      }
+    },
+    "packages": {
+      "r4-preferred-a": {
+        "publication_id": "f5a1937aa7304375508a11dad427c6fea4d43ad74c567fb53e2fe7e85df00acf",
+        "release_id": "9626bfe45c4ebc95b47351fd20c1de86f9b4f54856aee1de6d408e5d8389991f",
+        "listed_files": 1790,
+        "all_hashes_sizes": true
+      },
+      "r4-preferred-b": {
+        "publication_id": "f5a1937aa7304375508a11dad427c6fea4d43ad74c567fb53e2fe7e85df00acf",
+        "release_id": "9626bfe45c4ebc95b47351fd20c1de86f9b4f54856aee1de6d408e5d8389991f",
+        "listed_files": 1790,
+        "all_hashes_sizes": true
+      },
+      "r4-fallback-a": {
+        "publication_id": "709b09c401f3f4176104def965d40a2b70a0114d0d1d38d6147b88db4566c004",
+        "release_id": "3c04016651e2fd4169632756e96ec19136136e1f42c4ed666070f23f20b30660",
+        "listed_files": 1784,
+        "all_hashes_sizes": true
+      },
+      "r4-fallback-b": {
+        "publication_id": "709b09c401f3f4176104def965d40a2b70a0114d0d1d38d6147b88db4566c004",
+        "release_id": "3c04016651e2fd4169632756e96ec19136136e1f42c4ed666070f23f20b30660",
+        "listed_files": 1784,
+        "all_hashes_sizes": true
+      }
+    },
+    "pair_identity": {
+      "r4-preferred-a=r4-preferred-b": true,
+      "r4-fallback-a=r4-fallback-b": true
+    },
+    "ui_equal_preferred": {
+      "index.html": true,
+      "reader-core.mjs": true,
+      "reader.css": true,
+      "reader.js": true
+    },
+    "browser": {
+      "preferred": {
+        "publication": "/Users/jr/Dev/lex-mex-reader-four/.work/r4-preferred-a",
+        "releaseId": "9626bfe45c4ebc95b47351fd20c1de86f9b4f54856aee1de6d408e5d8389991f",
+        "origin": "http://127.0.0.1:55550/lex-mex/",
+        "scrollAnchoring": true,
+        "results": [
+          {
+            "scenario": "reading-line crossing without observer change (scrollTop)",
+            "ok": true,
+            "pair": [
+              "Artículo 121",
+              "Artículo 122"
+            ],
+            "line": 107,
+            "constantMembership": true,
+            "crossed": true,
+            "start": {
+              "truth": "Artículo 121",
+              "ui": "Artículo 121",
+              "mismatches": []
+            },
+            "end": {
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            },
+            "immediateCopy": {
+              "copyExact": true,
+              "shareProvision": true
+            },
+            "copy": {
+              "copyExact": true,
+              "shareProvision": true
+            },
+            "laggingSteps": 0,
+            "trace": [
+              {
+                "top": 155,
+                "members": "287,288",
+                "truth": "Artículo 121",
+                "ui": "Artículo 121",
+                "mismatches": []
+              },
+              {
+                "top": 147,
+                "members": "287,288",
+                "truth": "Artículo 121",
+                "ui": "Artículo 121",
+                "mismatches": []
+              },
+              {
+                "top": 139,
+                "members": "287,288",
+                "truth": "Artículo 121",
+                "ui": "Artículo 121",
+                "mismatches": []
+              },
+              {
+                "top": 131,
+                "members": "287,288",
+                "truth": "Artículo 121",
+                "ui": "Artículo 121",
+                "mismatches": []
+              },
+              {
+                "top": 123,
+                "members": "287,288",
+                "truth": "Artículo 121",
+                "ui": "Artículo 121",
+                "mismatches": []
+              },
+              {
+                "top": 115,
+                "members": "287,288",
+                "truth": "Artículo 121",
+                "ui": "Artículo 121",
+                "mismatches": []
+              },
+              {
+                "top": 107,
+                "members": "287,288",
+                "truth": "Artículo 122",
+                "ui": "Artículo 122",
+                "mismatches": []
+              },
+              {
+                "top": 99,
+                "members": "287,288",
+                "truth": "Artículo 122",
+                "ui": "Artículo 122",
+                "mismatches": []
+              },
+              {
+                "top": 91,
+                "members": "287,288",
+                "truth": "Artículo 122",
+                "ui": "Artículo 122",
+                "mismatches": []
+              },
+              {
+                "top": 83,
+                "members": "287,288",
+                "truth": "Artículo 122",
+                "ui": "Artículo 122",
+                "mismatches": []
+              },
+              {
+                "top": 75,
+                "members": "287,288",
+                "truth": "Artículo 122",
+                "ui": "Artículo 122",
+                "mismatches": []
+              },
+              {
+                "top": 67,
+                "members": "287,288",
+                "truth": "Artículo 122",
+                "ui": "Artículo 122",
+                "mismatches": []
+              },
+              {
+                "top": 59,
+                "members": "287,288",
+                "truth": "Artículo 122",
+                "ui": "Artículo 122",
+                "mismatches": []
+              }
+            ]
+          },
+          {
+            "scenario": "reading-line crossing without observer change (wheel)",
+            "ok": true,
+            "pair": [
+              "Artículo 121",
+              "Artículo 122"
+            ],
+            "line": 107,
+            "constantMembership": true,
+            "crossed": true,
+            "start": {
+              "truth": "Artículo 121",
+              "ui": "Artículo 121",
+              "mismatches": []
+            },
+            "end": {
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            },
+            "immediateCopy": {
+              "copyExact": true,
+              "shareProvision": true
+            },
+            "copy": {
+              "copyExact": true,
+              "shareProvision": true
+            },
+            "laggingSteps": 0,
+            "trace": [
+              {
+                "top": 155,
+                "members": "287,288",
+                "truth": "Artículo 121",
+                "ui": "Artículo 121",
+                "mismatches": []
+              },
+              {
+                "top": 147,
+                "members": "287,288",
+                "truth": "Artículo 121",
+                "ui": "Artículo 121",
+                "mismatches": []
+              },
+              {
+                "top": 139,
+                "members": "287,288",
+                "truth": "Artículo 121",
+                "ui": "Artículo 121",
+                "mismatches": []
+              },
+              {
+                "top": 131,
+                "members": "287,288",
+                "truth": "Artículo 121",
+                "ui": "Artículo 121",
+                "mismatches": []
+              },
+              {
+                "top": 123,
+                "members": "287,288",
+                "truth": "Artículo 121",
+                "ui": "Artículo 121",
+                "mismatches": []
+              },
+              {
+                "top": 115,
+                "members": "287,288",
+                "truth": "Artículo 121",
+                "ui": "Artículo 121",
+                "mismatches": []
+              },
+              {
+                "top": 107,
+                "members": "287,288",
+                "truth": "Artículo 122",
+                "ui": "Artículo 122",
+                "mismatches": []
+              },
+              {
+                "top": 99,
+                "members": "287,288",
+                "truth": "Artículo 122",
+                "ui": "Artículo 122",
+                "mismatches": []
+              },
+              {
+                "top": 91,
+                "members": "287,288",
+                "truth": "Artículo 122",
+                "ui": "Artículo 122",
+                "mismatches": []
+              },
+              {
+                "top": 83,
+                "members": "287,288",
+                "truth": "Artículo 122",
+                "ui": "Artículo 122",
+                "mismatches": []
+              },
+              {
+                "top": 75,
+                "members": "287,288",
+                "truth": "Artículo 122",
+                "ui": "Artículo 122",
+                "mismatches": []
+              },
+              {
+                "top": 67,
+                "members": "287,288",
+                "truth": "Artículo 122",
+                "ui": "Artículo 122",
+                "mismatches": []
+              },
+              {
+                "top": 59,
+                "members": "287,288",
+                "truth": "Artículo 122",
+                "ui": "Artículo 122",
+                "mismatches": []
+              }
+            ]
+          },
+          {
+            "scenario": "short adjacent articles",
+            "ok": true,
+            "from": "Artículo 122 Bis",
+            "badSteps": [],
+            "end": {
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            }
+          },
+          {
+            "scenario": "long article tail",
+            "ok": true,
+            "article": "Artículo 122",
+            "badSteps": [],
+            "badCount": 0,
+            "end": {
+              "truth": "Artículo 122 Bis",
+              "ui": "Artículo 122 Bis",
+              "mismatches": []
+            },
+            "copy": {
+              "copyExact": true,
+              "shareProvision": true
+            }
+          },
+          {
+            "scenario": "resize across breakpoint",
+            "ok": true,
+            "wide": {
+              "truth": "Artículo 193",
+              "ui": "Artículo 193",
+              "mismatches": []
+            },
+            "narrow": {
+              "truth": "Artículo 194",
+              "ui": "Artículo 194",
+              "mismatches": []
+            },
+            "back": {
+              "truth": "Artículo 193",
+              "ui": "Artículo 193",
+              "mismatches": []
+            }
+          },
+          {
+            "scenario": "deep link lic Artículo 112 Quintus",
+            "ok": true,
+            "ui": "Artículo 112 Quintus",
+            "truth": "Artículo 112 Quintus",
+            "urlProvision": true,
+            "offsetBelowBar": 8
+          },
+          {
+            "scenario": "deep link lic Artículo 112 Sextus",
+            "ok": true,
+            "ui": "Artículo 112 Sextus",
+            "truth": "Artículo 112 Sextus",
+            "urlProvision": true,
+            "offsetBelowBar": 8
+          },
+          {
+            "scenario": "deep link lic Artículo 112 Séptimus",
+            "ok": true,
+            "ui": "Artículo 112 Séptimus",
+            "truth": "Artículo 112 Séptimus",
+            "urlProvision": true,
+            "offsetBelowBar": 8
+          },
+          {
+            "scenario": "deep link lic Artículo 193",
+            "ok": true,
+            "ui": "Artículo 193",
+            "truth": "Artículo 193",
+            "urlProvision": true,
+            "offsetBelowBar": 8
+          },
+          {
+            "scenario": "deep link lic VIGESIMO",
+            "ok": true,
+            "ui": "VIGESIMO",
+            "truth": "VIGESIMO",
+            "urlProvision": true,
+            "offsetBelowBar": 8
+          },
+          {
+            "scenario": "deep link lritf Artículo 4",
+            "ok": true,
+            "ui": "Artículo 4",
+            "truth": "Artículo 4",
+            "urlProvision": true,
+            "offsetBelowBar": 8
+          },
+          {
+            "scenario": "wheel during navigation lock",
+            "ok": true,
+            "end": {
+              "truth": "Artículo 50",
+              "ui": "Artículo 50",
+              "mismatches": []
+            },
+            "pushes": 1
+          },
+          {
+            "scenario": "index push, no trailing overwrite, back",
+            "ok": true,
+            "afterClick": "Artículo 46",
+            "pushes": 1,
+            "url": true,
+            "back": "Artículo 2o"
+          },
+          {
+            "scenario": "interrupted deep-link settle",
+            "ok": true,
+            "target": "Artículo 261",
+            "end": {
+              "truth": "Artículo 260",
+              "ui": "Artículo 260",
+              "mismatches": []
+            }
+          },
+          {
+            "scenario": "quick instrument switches",
+            "ok": true,
+            "ui": "Artículo 1",
+            "instrument": "itf-dcg-2018",
+            "pushes": [
+              "http://127.0.0.1:55550/lex-mex/?release=9626bfe45c4ebc95b47351fd20c1de86f9b4f54856aee1de6d408e5d8389991f&instrument=ifpe-dcg-2021&provision=urn%3Alex-mx%3Afederal%3Aregulation%3Aifpe-dcg-2021%3Aarticle%3A1",
+              "http://127.0.0.1:55550/lex-mex/?release=9626bfe45c4ebc95b47351fd20c1de86f9b4f54856aee1de6d408e5d8389991f&instrument=itf-dcg-2018&provision=urn%3Alex-mx%3Afederal%3Aregulation%3Aitf-dcg-2018%3Aarticle%3A1"
+            ],
+            "agree": {
+              "truth": "Artículo 1",
+              "ui": "Artículo 1",
+              "mismatches": []
+            }
+          },
+          {
+            "scenario": "narrow 390px deep link",
+            "ok": true,
+            "agree": {
+              "truth": "Artículo 193",
+              "ui": "Artículo 193",
+              "mismatches": []
+            },
+            "horizontalOverflow": false
+          },
+          {
+            "scenario": "search result navigation",
+            "ok": true,
+            "label": "Artículo 112",
+            "pushes": 1,
+            "agree": {
+              "truth": "Artículo 112",
+              "ui": "Artículo 112",
+              "mismatches": []
+            }
+          },
+          {
+            "scenario": "reference view and Volver",
+            "ok": true,
+            "source": "Artículo 2o",
+            "opened": true,
+            "scroll": [
+              630,
+              630,
+              630
+            ]
+          },
+          {
+            "scenario": "PDF offer without auto-follow",
+            "ok": true,
+            "followDisabled": true,
+            "pdfKept": true,
+            "offer": true,
+            "agree": {
+              "truth": "ANEXO 1",
+              "ui": "ANEXO 1",
+              "mismatches": []
+            }
+          },
+          {
+            "scenario": "wheel ending inside the navigation lock",
+            "ok": true,
+            "clicked": "Artículo 29 Bis 3",
+            "end": {
+              "truth": "Artículo 29 Bis 4",
+              "ui": "Artículo 29 Bis 4",
+              "mismatches": []
+            },
+            "copy": {
+              "copyExact": true,
+              "shareProvision": true
+            }
+          },
+          {
+            "scenario": "last provision deep link ifpe-dcg-2021 at 1440x3000",
+            "ok": true,
+            "ui": "Anexo 8",
+            "truth": "Anexo 8",
+            "urlProvision": true
+          },
+          {
+            "scenario": "last provision deep link itf-dcg-2018 at 1440x3000",
+            "ok": true,
+            "ui": "ANEXO 20",
+            "truth": "ANEXO 20",
+            "urlProvision": true
+          },
+          {
+            "scenario": "last provision deep link lic at 1440x3000",
+            "ok": true,
+            "ui": "VIGESIMO",
+            "truth": "VIGESIMO",
+            "urlProvision": true
+          },
+          {
+            "scenario": "last provision deep link lritf at 1440x3000",
+            "ok": true,
+            "ui": "DÉCIMA PRIMERA",
+            "truth": "DÉCIMA PRIMERA",
+            "urlProvision": true
+          },
+          {
+            "scenario": "last provision deep link ifpe-dcg-2021 at 390x844",
+            "ok": true,
+            "ui": "Anexo 8",
+            "truth": "Anexo 8",
+            "urlProvision": true
+          },
+          {
+            "scenario": "last provision deep link itf-dcg-2018 at 390x844",
+            "ok": true,
+            "ui": "ANEXO 20",
+            "truth": "ANEXO 20",
+            "urlProvision": true
+          },
+          {
+            "scenario": "last provision deep link lic at 390x844",
+            "ok": true,
+            "ui": "VIGESIMO",
+            "truth": "VIGESIMO",
+            "urlProvision": true
+          },
+          {
+            "scenario": "last provision deep link lritf at 390x844",
+            "ok": true,
+            "ui": "DÉCIMA PRIMERA",
+            "truth": "DÉCIMA PRIMERA",
+            "urlProvision": true
+          }
+        ],
+        "notApplicable": [],
+        "licLoadTimings": [
+          {
+            "wall_ms": 139,
+            "reader:first-chunk": 44,
+            "reader:flow-complete": 113
+          },
+          {
+            "wall_ms": 123,
+            "reader:first-chunk": 30,
+            "reader:flow-complete": 97
+          },
+          {
+            "wall_ms": 126,
+            "reader:first-chunk": 28,
+            "reader:flow-complete": 99
+          }
+        ],
+        "passed": 28,
+        "failed": 0
+      },
+      "fallback_first": {
+        "passed": 24,
+        "failed": 1,
+        "not_applicable": 3
+      },
+      "fallback_repeat": {
+        "publication": "/Users/jr/Dev/lex-mex-reader-four/.work/r4-fallback-a",
+        "releaseId": "3c04016651e2fd4169632756e96ec19136136e1f42c4ed666070f23f20b30660",
+        "origin": "http://127.0.0.1:55706/lex-mex/",
+        "scrollAnchoring": true,
+        "results": [
+          {
+            "scenario": "reading-line crossing without observer change (scrollTop)",
+            "ok": true,
+            "pair": [
+              "Artículo 121",
+              "Artículo 122"
+            ],
+            "line": 107,
+            "constantMembership": true,
+            "crossed": true,
+            "start": {
+              "truth": "Artículo 121",
+              "ui": "Artículo 121",
+              "mismatches": []
+            },
+            "end": {
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            },
+            "immediateCopy": {
+              "copyExact": true,
+              "shareProvision": true
+            },
+            "copy": {
+              "copyExact": true,
+              "shareProvision": true
+            },
+            "laggingSteps": 0,
+            "trace": [
+              {
+                "top": 155,
+                "members": "284,285",
+                "truth": "Artículo 121",
+                "ui": "Artículo 121",
+                "mismatches": []
+              },
+              {
+                "top": 147,
+                "members": "284,285",
+                "truth": "Artículo 121",
+                "ui": "Artículo 121",
+                "mismatches": []
+              },
+              {
+                "top": 139,
+                "members": "284,285",
+                "truth": "Artículo 121",
+                "ui": "Artículo 121",
+                "mismatches": []
+              },
+              {
+                "top": 131,
+                "members": "284,285",
+                "truth": "Artículo 121",
+                "ui": "Artículo 121",
+                "mismatches": []
+              },
+              {
+                "top": 123,
+                "members": "284,285",
+                "truth": "Artículo 121",
+                "ui": "Artículo 121",
+                "mismatches": []
+              },
+              {
+                "top": 115,
+                "members": "284,285",
+                "truth": "Artículo 121",
+                "ui": "Artículo 121",
+                "mismatches": []
+              },
+              {
+                "top": 107,
+                "members": "284,285",
+                "truth": "Artículo 122",
+                "ui": "Artículo 122",
+                "mismatches": []
+              },
+              {
+                "top": 99,
+                "members": "284,285",
+                "truth": "Artículo 122",
+                "ui": "Artículo 122",
+                "mismatches": []
+              },
+              {
+                "top": 91,
+                "members": "284,285",
+                "truth": "Artículo 122",
+                "ui": "Artículo 122",
+                "mismatches": []
+              },
+              {
+                "top": 83,
+                "members": "284,285",
+                "truth": "Artículo 122",
+                "ui": "Artículo 122",
+                "mismatches": []
+              },
+              {
+                "top": 75,
+                "members": "284,285",
+                "truth": "Artículo 122",
+                "ui": "Artículo 122",
+                "mismatches": []
+              },
+              {
+                "top": 67,
+                "members": "284,285",
+                "truth": "Artículo 122",
+                "ui": "Artículo 122",
+                "mismatches": []
+              },
+              {
+                "top": 59,
+                "members": "284,285",
+                "truth": "Artículo 122",
+                "ui": "Artículo 122",
+                "mismatches": []
+              }
+            ]
+          },
+          {
+            "scenario": "reading-line crossing without observer change (wheel)",
+            "ok": true,
+            "pair": [
+              "Artículo 121",
+              "Artículo 122"
+            ],
+            "line": 107,
+            "constantMembership": true,
+            "crossed": true,
+            "start": {
+              "truth": "Artículo 121",
+              "ui": "Artículo 121",
+              "mismatches": []
+            },
+            "end": {
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            },
+            "immediateCopy": {
+              "copyExact": true,
+              "shareProvision": true
+            },
+            "copy": {
+              "copyExact": true,
+              "shareProvision": true
+            },
+            "laggingSteps": 0,
+            "trace": [
+              {
+                "top": 155,
+                "members": "284,285",
+                "truth": "Artículo 121",
+                "ui": "Artículo 121",
+                "mismatches": []
+              },
+              {
+                "top": 147,
+                "members": "284,285",
+                "truth": "Artículo 121",
+                "ui": "Artículo 121",
+                "mismatches": []
+              },
+              {
+                "top": 139,
+                "members": "284,285",
+                "truth": "Artículo 121",
+                "ui": "Artículo 121",
+                "mismatches": []
+              },
+              {
+                "top": 131,
+                "members": "284,285",
+                "truth": "Artículo 121",
+                "ui": "Artículo 121",
+                "mismatches": []
+              },
+              {
+                "top": 123,
+                "members": "284,285",
+                "truth": "Artículo 121",
+                "ui": "Artículo 121",
+                "mismatches": []
+              },
+              {
+                "top": 115,
+                "members": "284,285",
+                "truth": "Artículo 121",
+                "ui": "Artículo 121",
+                "mismatches": []
+              },
+              {
+                "top": 107,
+                "members": "284,285",
+                "truth": "Artículo 122",
+                "ui": "Artículo 122",
+                "mismatches": []
+              },
+              {
+                "top": 99,
+                "members": "284,285",
+                "truth": "Artículo 122",
+                "ui": "Artículo 122",
+                "mismatches": []
+              },
+              {
+                "top": 91,
+                "members": "284,285",
+                "truth": "Artículo 122",
+                "ui": "Artículo 122",
+                "mismatches": []
+              },
+              {
+                "top": 83,
+                "members": "284,285",
+                "truth": "Artículo 122",
+                "ui": "Artículo 122",
+                "mismatches": []
+              },
+              {
+                "top": 75,
+                "members": "284,285",
+                "truth": "Artículo 122",
+                "ui": "Artículo 122",
+                "mismatches": []
+              },
+              {
+                "top": 67,
+                "members": "284,285",
+                "truth": "Artículo 122",
+                "ui": "Artículo 122",
+                "mismatches": []
+              },
+              {
+                "top": 59,
+                "members": "284,285",
+                "truth": "Artículo 122",
+                "ui": "Artículo 122",
+                "mismatches": []
+              }
+            ]
+          },
+          {
+            "scenario": "short adjacent articles",
+            "ok": true,
+            "from": "Artículo 122 Bis",
+            "badSteps": [],
+            "end": {
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            }
+          },
+          {
+            "scenario": "long article tail",
+            "ok": true,
+            "article": "Artículo 122",
+            "badSteps": [],
+            "badCount": 0,
+            "end": {
+              "truth": "Artículo 122 Bis",
+              "ui": "Artículo 122 Bis",
+              "mismatches": []
+            },
+            "copy": {
+              "copyExact": true,
+              "shareProvision": true
+            }
+          },
+          {
+            "scenario": "resize across breakpoint",
+            "ok": true,
+            "wide": {
+              "truth": "Artículo 193",
+              "ui": "Artículo 193",
+              "mismatches": []
+            },
+            "narrow": {
+              "truth": "Artículo 194",
+              "ui": "Artículo 194",
+              "mismatches": []
+            },
+            "back": {
+              "truth": "Artículo 193",
+              "ui": "Artículo 193",
+              "mismatches": []
+            }
+          },
+          {
+            "scenario": "deep link lic Artículo 193",
+            "ok": true,
+            "ui": "Artículo 193",
+            "truth": "Artículo 193",
+            "urlProvision": true,
+            "offsetBelowBar": 8
+          },
+          {
+            "scenario": "deep link lic VIGESIMO",
+            "ok": true,
+            "ui": "VIGESIMO",
+            "truth": "VIGESIMO",
+            "urlProvision": true,
+            "offsetBelowBar": 8
+          },
+          {
+            "scenario": "deep link lritf Artículo 4",
+            "ok": true,
+            "ui": "Artículo 4",
+            "truth": "Artículo 4",
+            "urlProvision": true,
+            "offsetBelowBar": 8
+          },
+          {
+            "scenario": "wheel during navigation lock",
+            "ok": true,
+            "end": {
+              "truth": "Artículo 50",
+              "ui": "Artículo 50",
+              "mismatches": []
+            },
+            "pushes": 1
+          },
+          {
+            "scenario": "index push, no trailing overwrite, back",
+            "ok": true,
+            "afterClick": "Artículo 46",
+            "pushes": 1,
+            "url": true,
+            "back": "Artículo 2o"
+          },
+          {
+            "scenario": "interrupted deep-link settle",
+            "ok": true,
+            "target": "Artículo 261",
+            "end": {
+              "truth": "Artículo 260",
+              "ui": "Artículo 260",
+              "mismatches": []
+            }
+          },
+          {
+            "scenario": "quick instrument switches",
+            "ok": true,
+            "ui": "Artículo 1",
+            "instrument": "itf-dcg-2018",
+            "pushes": [
+              "http://127.0.0.1:55706/lex-mex/?release=3c04016651e2fd4169632756e96ec19136136e1f42c4ed666070f23f20b30660&instrument=ifpe-dcg-2021&provision=urn%3Alex-mx%3Afederal%3Aregulation%3Aifpe-dcg-2021%3Aarticle%3A1",
+              "http://127.0.0.1:55706/lex-mex/?release=3c04016651e2fd4169632756e96ec19136136e1f42c4ed666070f23f20b30660&instrument=itf-dcg-2018&provision=urn%3Alex-mx%3Afederal%3Aregulation%3Aitf-dcg-2018%3Aarticle%3A1"
+            ],
+            "agree": {
+              "truth": "Artículo 1",
+              "ui": "Artículo 1",
+              "mismatches": []
+            }
+          },
+          {
+            "scenario": "narrow 390px deep link",
+            "ok": false,
+            "agree": {
+              "truth": "Artículo 191",
+              "ui": "Artículo 191",
+              "mismatches": []
+            },
+            "horizontalOverflow": false
+          },
+          {
+            "scenario": "search result navigation",
+            "ok": true,
+            "label": "Artículo 112",
+            "pushes": 1,
+            "agree": {
+              "truth": "Artículo 112",
+              "ui": "Artículo 112",
+              "mismatches": []
+            }
+          },
+          {
+            "scenario": "reference view and Volver",
+            "ok": true,
+            "source": "Artículo 2o",
+            "opened": true,
+            "scroll": [
+              630,
+              630,
+              630
+            ]
+          },
+          {
+            "scenario": "PDF offer without auto-follow",
+            "ok": true,
+            "followDisabled": true,
+            "pdfKept": true,
+            "offer": true,
+            "agree": {
+              "truth": "ANEXO 1",
+              "ui": "ANEXO 1",
+              "mismatches": []
+            }
+          },
+          {
+            "scenario": "wheel ending inside the navigation lock",
+            "ok": true,
+            "clicked": "Artículo 29 Bis 3",
+            "end": {
+              "truth": "Artículo 29 Bis 4",
+              "ui": "Artículo 29 Bis 4",
+              "mismatches": []
+            },
+            "copy": {
+              "copyExact": true,
+              "shareProvision": true
+            }
+          },
+          {
+            "scenario": "last provision deep link ifpe-dcg-2021 at 1440x3000",
+            "ok": true,
+            "ui": "Anexo 8",
+            "truth": "Anexo 8",
+            "urlProvision": true
+          },
+          {
+            "scenario": "last provision deep link itf-dcg-2018 at 1440x3000",
+            "ok": true,
+            "ui": "ANEXO 20",
+            "truth": "ANEXO 20",
+            "urlProvision": true
+          },
+          {
+            "scenario": "last provision deep link lic at 1440x3000",
+            "ok": true,
+            "ui": "VIGESIMO",
+            "truth": "VIGESIMO",
+            "urlProvision": true
+          },
+          {
+            "scenario": "last provision deep link lritf at 1440x3000",
+            "ok": true,
+            "ui": "DÉCIMA PRIMERA",
+            "truth": "DÉCIMA PRIMERA",
+            "urlProvision": true
+          },
+          {
+            "scenario": "last provision deep link ifpe-dcg-2021 at 390x844",
+            "ok": true,
+            "ui": "Anexo 8",
+            "truth": "Anexo 8",
+            "urlProvision": true
+          },
+          {
+            "scenario": "last provision deep link itf-dcg-2018 at 390x844",
+            "ok": true,
+            "ui": "ANEXO 20",
+            "truth": "ANEXO 20",
+            "urlProvision": true
+          },
+          {
+            "scenario": "last provision deep link lic at 390x844",
+            "ok": true,
+            "ui": "VIGESIMO",
+            "truth": "VIGESIMO",
+            "urlProvision": true
+          },
+          {
+            "scenario": "last provision deep link lritf at 390x844",
+            "ok": true,
+            "ui": "DÉCIMA PRIMERA",
+            "truth": "DÉCIMA PRIMERA",
+            "urlProvision": true
+          }
+        ],
+        "notApplicable": [
+          "deep link lic Artículo 112 Quintus: provision not in this release",
+          "deep link lic Artículo 112 Sextus: provision not in this release",
+          "deep link lic Artículo 112 Séptimus: provision not in this release"
+        ],
+        "licLoadTimings": [
+          {
+            "wall_ms": 136,
+            "reader:first-chunk": 41,
+            "reader:flow-complete": 111
+          },
+          {
+            "wall_ms": 126,
+            "reader:first-chunk": 29,
+            "reader:flow-complete": 102
+          },
+          {
+            "wall_ms": 118,
+            "reader:first-chunk": 26,
+            "reader:flow-complete": 95
+          }
+        ],
+        "passed": 24,
+        "failed": 1
+      }
+    }
+  },
+  "content_audit": {
+    "head": "d87db82c082f3f0041070e52eb1636b1e46f98cf",
+    "counts": {
+      "ifpe-dcg-2021": 71,
+      "itf-dcg-2018": 132,
+      "lic": 511,
+      "lritf": 156
+    },
+    "total_provisions": 870,
+    "reference_count": 1527,
+    "source_title_anchored_references": 3,
+    "reference_span_or_flag_mismatches": [],
+    "lic_511_id_text_canonical_parity": true,
+    "lic_old_new_public_hashes_match_audit": true,
+    "ifpe46_retarget_accepted": {
+      "basis": "express_cross_reference",
+      "end_char": 2109,
+      "id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:46:reference:2108-2109:9:direct",
+      "reference_form": "direct",
+      "resolution_status": "resolved",
+      "source_provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:46",
+      "source_span": "9",
+      "start_char": 2108,
+      "target_instrument_id": "urn:lex-mx:federal:regulation:itf-dcg-2018",
+      "target_provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:9",
+      "target_published": true
+    },
+    "lritf_identical_files": 314,
+    "identical_pdf_count": 32,
+    "full_preferred_pin_matches_package": true,
+    "merge_overlap_inventory": {
+      "docs/db-reader-lic-consolidated-review-2026-10-22.md": {
+        "main_sha256": "d2fd89ada2aeb9558a12711c024e75cddf7fb403477970ba4651b660cb822546",
+        "branch_sha256": "d2fd89ada2aeb9558a12711c024e75cddf7fb403477970ba4651b660cb822546",
+        "identical": true
+      },
+      "docs/four-instrument-reader-codex-review-2026-10-22.md": {
+        "main_sha256": "962235ce002634235f6ed087d376a32acc978c75b84ca31581c7672de8b39542",
+        "branch_sha256": "962235ce002634235f6ed087d376a32acc978c75b84ca31581c7672de8b39542",
+        "identical": true
+      },
+      "docs/four-instrument-reader-codex-review-2026-10-22-evidence.json": {
+        "main_sha256": "b1aac23504d58bf2a127d9815ebd0b07123887c70349a212fdfadfec83e67594",
+        "branch_sha256": "b1aac23504d58bf2a127d9815ebd0b07123887c70349a212fdfadfec83e67594",
+        "identical": true
+      },
+      "docs/lic-publication-source-audit-2026-10-22-evidence.json": {
+        "main_sha256": "01d10668b50d17e2bb409c48dc443487e93aa91b77cfd6d8d1a524e70ca067dc",
+        "branch_sha256": "01d10668b50d17e2bb409c48dc443487e93aa91b77cfd6d8d1a524e70ca067dc",
+        "identical": true
+      },
+      "docs/reader-publish-handoff-review-2026-10-22.md": {
+        "main_sha256": "dfa76bab93226553cd9933072ce97b9fc83524c1ded564ab1b8015cb929e7981",
+        "branch_sha256": "dfa76bab93226553cd9933072ce97b9fc83524c1ded564ab1b8015cb929e7981",
+        "identical": true
+      },
+      "docs/plans/four-instrument-reader-design-release.md": {
+        "main_sha256": "14ffd7f6e9de821ac2e434c992c8bcef8ba604732d03bf710e9307da72be974a",
+        "branch_sha256": "3c93fd22b3ae49e645e522ae66baec6f3e35b60c4021402a9faefe020df5946e",
+        "identical": false
+      }
+    }
+  },
+  "independent_browser": {
+    "preferred": {
+      "publication": "/Users/jr/Dev/lex-mex-reader-four/.work/r4-preferred-a",
+      "releaseId": "9626bfe45c4ebc95b47351fd20c1de86f9b4f54856aee1de6d408e5d8389991f",
+      "origin": "http://127.0.0.1:55550/lex-mex/",
+      "scrollAnchoring": true,
+      "results": [
+        {
+          "scenario": "reading-line crossing without observer change (scrollTop)",
+          "ok": true,
+          "pair": [
+            "Artículo 121",
+            "Artículo 122"
+          ],
+          "line": 107,
+          "constantMembership": true,
+          "crossed": true,
+          "start": {
+            "truth": "Artículo 121",
+            "ui": "Artículo 121",
+            "mismatches": []
+          },
+          "end": {
+            "truth": "Artículo 122",
+            "ui": "Artículo 122",
+            "mismatches": []
+          },
+          "immediateCopy": {
+            "copyExact": true,
+            "shareProvision": true
+          },
+          "copy": {
+            "copyExact": true,
+            "shareProvision": true
+          },
+          "laggingSteps": 0,
+          "trace": [
+            {
+              "top": 155,
+              "members": "287,288",
+              "truth": "Artículo 121",
+              "ui": "Artículo 121",
+              "mismatches": []
+            },
+            {
+              "top": 147,
+              "members": "287,288",
+              "truth": "Artículo 121",
+              "ui": "Artículo 121",
+              "mismatches": []
+            },
+            {
+              "top": 139,
+              "members": "287,288",
+              "truth": "Artículo 121",
+              "ui": "Artículo 121",
+              "mismatches": []
+            },
+            {
+              "top": 131,
+              "members": "287,288",
+              "truth": "Artículo 121",
+              "ui": "Artículo 121",
+              "mismatches": []
+            },
+            {
+              "top": 123,
+              "members": "287,288",
+              "truth": "Artículo 121",
+              "ui": "Artículo 121",
+              "mismatches": []
+            },
+            {
+              "top": 115,
+              "members": "287,288",
+              "truth": "Artículo 121",
+              "ui": "Artículo 121",
+              "mismatches": []
+            },
+            {
+              "top": 107,
+              "members": "287,288",
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            },
+            {
+              "top": 99,
+              "members": "287,288",
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            },
+            {
+              "top": 91,
+              "members": "287,288",
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            },
+            {
+              "top": 83,
+              "members": "287,288",
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            },
+            {
+              "top": 75,
+              "members": "287,288",
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            },
+            {
+              "top": 67,
+              "members": "287,288",
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            },
+            {
+              "top": 59,
+              "members": "287,288",
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            }
+          ]
+        },
+        {
+          "scenario": "reading-line crossing without observer change (wheel)",
+          "ok": true,
+          "pair": [
+            "Artículo 121",
+            "Artículo 122"
+          ],
+          "line": 107,
+          "constantMembership": true,
+          "crossed": true,
+          "start": {
+            "truth": "Artículo 121",
+            "ui": "Artículo 121",
+            "mismatches": []
+          },
+          "end": {
+            "truth": "Artículo 122",
+            "ui": "Artículo 122",
+            "mismatches": []
+          },
+          "immediateCopy": {
+            "copyExact": true,
+            "shareProvision": true
+          },
+          "copy": {
+            "copyExact": true,
+            "shareProvision": true
+          },
+          "laggingSteps": 0,
+          "trace": [
+            {
+              "top": 155,
+              "members": "287,288",
+              "truth": "Artículo 121",
+              "ui": "Artículo 121",
+              "mismatches": []
+            },
+            {
+              "top": 147,
+              "members": "287,288",
+              "truth": "Artículo 121",
+              "ui": "Artículo 121",
+              "mismatches": []
+            },
+            {
+              "top": 139,
+              "members": "287,288",
+              "truth": "Artículo 121",
+              "ui": "Artículo 121",
+              "mismatches": []
+            },
+            {
+              "top": 131,
+              "members": "287,288",
+              "truth": "Artículo 121",
+              "ui": "Artículo 121",
+              "mismatches": []
+            },
+            {
+              "top": 123,
+              "members": "287,288",
+              "truth": "Artículo 121",
+              "ui": "Artículo 121",
+              "mismatches": []
+            },
+            {
+              "top": 115,
+              "members": "287,288",
+              "truth": "Artículo 121",
+              "ui": "Artículo 121",
+              "mismatches": []
+            },
+            {
+              "top": 107,
+              "members": "287,288",
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            },
+            {
+              "top": 99,
+              "members": "287,288",
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            },
+            {
+              "top": 91,
+              "members": "287,288",
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            },
+            {
+              "top": 83,
+              "members": "287,288",
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            },
+            {
+              "top": 75,
+              "members": "287,288",
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            },
+            {
+              "top": 67,
+              "members": "287,288",
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            },
+            {
+              "top": 59,
+              "members": "287,288",
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            }
+          ]
+        },
+        {
+          "scenario": "short adjacent articles",
+          "ok": true,
+          "from": "Artículo 122 Bis",
+          "badSteps": [],
+          "end": {
+            "truth": "Artículo 122",
+            "ui": "Artículo 122",
+            "mismatches": []
+          }
+        },
+        {
+          "scenario": "long article tail",
+          "ok": true,
+          "article": "Artículo 122",
+          "badSteps": [],
+          "badCount": 0,
+          "end": {
+            "truth": "Artículo 122 Bis",
+            "ui": "Artículo 122 Bis",
+            "mismatches": []
+          },
+          "copy": {
+            "copyExact": true,
+            "shareProvision": true
+          }
+        },
+        {
+          "scenario": "resize across breakpoint",
+          "ok": true,
+          "wide": {
+            "truth": "Artículo 193",
+            "ui": "Artículo 193",
+            "mismatches": []
+          },
+          "narrow": {
+            "truth": "Artículo 194",
+            "ui": "Artículo 194",
+            "mismatches": []
+          },
+          "back": {
+            "truth": "Artículo 193",
+            "ui": "Artículo 193",
+            "mismatches": []
+          }
+        },
+        {
+          "scenario": "deep link lic Artículo 112 Quintus",
+          "ok": true,
+          "ui": "Artículo 112 Quintus",
+          "truth": "Artículo 112 Quintus",
+          "urlProvision": true,
+          "offsetBelowBar": 8
+        },
+        {
+          "scenario": "deep link lic Artículo 112 Sextus",
+          "ok": true,
+          "ui": "Artículo 112 Sextus",
+          "truth": "Artículo 112 Sextus",
+          "urlProvision": true,
+          "offsetBelowBar": 8
+        },
+        {
+          "scenario": "deep link lic Artículo 112 Séptimus",
+          "ok": true,
+          "ui": "Artículo 112 Séptimus",
+          "truth": "Artículo 112 Séptimus",
+          "urlProvision": true,
+          "offsetBelowBar": 8
+        },
+        {
+          "scenario": "deep link lic Artículo 193",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "urlProvision": true,
+          "offsetBelowBar": 8
+        },
+        {
+          "scenario": "deep link lic VIGESIMO",
+          "ok": true,
+          "ui": "VIGESIMO",
+          "truth": "VIGESIMO",
+          "urlProvision": true,
+          "offsetBelowBar": 8
+        },
+        {
+          "scenario": "deep link lritf Artículo 4",
+          "ok": true,
+          "ui": "Artículo 4",
+          "truth": "Artículo 4",
+          "urlProvision": true,
+          "offsetBelowBar": 8
+        },
+        {
+          "scenario": "wheel during navigation lock",
+          "ok": true,
+          "end": {
+            "truth": "Artículo 50",
+            "ui": "Artículo 50",
+            "mismatches": []
+          },
+          "pushes": 1
+        },
+        {
+          "scenario": "index push, no trailing overwrite, back",
+          "ok": true,
+          "afterClick": "Artículo 46",
+          "pushes": 1,
+          "url": true,
+          "back": "Artículo 2o"
+        },
+        {
+          "scenario": "interrupted deep-link settle",
+          "ok": true,
+          "target": "Artículo 261",
+          "end": {
+            "truth": "Artículo 260",
+            "ui": "Artículo 260",
+            "mismatches": []
+          }
+        },
+        {
+          "scenario": "quick instrument switches",
+          "ok": true,
+          "ui": "Artículo 1",
+          "instrument": "itf-dcg-2018",
+          "pushes": [
+            "http://127.0.0.1:55550/lex-mex/?release=9626bfe45c4ebc95b47351fd20c1de86f9b4f54856aee1de6d408e5d8389991f&instrument=ifpe-dcg-2021&provision=urn%3Alex-mx%3Afederal%3Aregulation%3Aifpe-dcg-2021%3Aarticle%3A1",
+            "http://127.0.0.1:55550/lex-mex/?release=9626bfe45c4ebc95b47351fd20c1de86f9b4f54856aee1de6d408e5d8389991f&instrument=itf-dcg-2018&provision=urn%3Alex-mx%3Afederal%3Aregulation%3Aitf-dcg-2018%3Aarticle%3A1"
+          ],
+          "agree": {
+            "truth": "Artículo 1",
+            "ui": "Artículo 1",
+            "mismatches": []
+          }
+        },
+        {
+          "scenario": "narrow 390px deep link",
+          "ok": true,
+          "agree": {
+            "truth": "Artículo 193",
+            "ui": "Artículo 193",
+            "mismatches": []
+          },
+          "horizontalOverflow": false
+        },
+        {
+          "scenario": "search result navigation",
+          "ok": true,
+          "label": "Artículo 112",
+          "pushes": 1,
+          "agree": {
+            "truth": "Artículo 112",
+            "ui": "Artículo 112",
+            "mismatches": []
+          }
+        },
+        {
+          "scenario": "reference view and Volver",
+          "ok": true,
+          "source": "Artículo 2o",
+          "opened": true,
+          "scroll": [
+            630,
+            630,
+            630
+          ]
+        },
+        {
+          "scenario": "PDF offer without auto-follow",
+          "ok": true,
+          "followDisabled": true,
+          "pdfKept": true,
+          "offer": true,
+          "agree": {
+            "truth": "ANEXO 1",
+            "ui": "ANEXO 1",
+            "mismatches": []
+          }
+        },
+        {
+          "scenario": "wheel ending inside the navigation lock",
+          "ok": true,
+          "clicked": "Artículo 29 Bis 3",
+          "end": {
+            "truth": "Artículo 29 Bis 4",
+            "ui": "Artículo 29 Bis 4",
+            "mismatches": []
+          },
+          "copy": {
+            "copyExact": true,
+            "shareProvision": true
+          }
+        },
+        {
+          "scenario": "last provision deep link ifpe-dcg-2021 at 1440x3000",
+          "ok": true,
+          "ui": "Anexo 8",
+          "truth": "Anexo 8",
+          "urlProvision": true
+        },
+        {
+          "scenario": "last provision deep link itf-dcg-2018 at 1440x3000",
+          "ok": true,
+          "ui": "ANEXO 20",
+          "truth": "ANEXO 20",
+          "urlProvision": true
+        },
+        {
+          "scenario": "last provision deep link lic at 1440x3000",
+          "ok": true,
+          "ui": "VIGESIMO",
+          "truth": "VIGESIMO",
+          "urlProvision": true
+        },
+        {
+          "scenario": "last provision deep link lritf at 1440x3000",
+          "ok": true,
+          "ui": "DÉCIMA PRIMERA",
+          "truth": "DÉCIMA PRIMERA",
+          "urlProvision": true
+        },
+        {
+          "scenario": "last provision deep link ifpe-dcg-2021 at 390x844",
+          "ok": true,
+          "ui": "Anexo 8",
+          "truth": "Anexo 8",
+          "urlProvision": true
+        },
+        {
+          "scenario": "last provision deep link itf-dcg-2018 at 390x844",
+          "ok": true,
+          "ui": "ANEXO 20",
+          "truth": "ANEXO 20",
+          "urlProvision": true
+        },
+        {
+          "scenario": "last provision deep link lic at 390x844",
+          "ok": true,
+          "ui": "VIGESIMO",
+          "truth": "VIGESIMO",
+          "urlProvision": true
+        },
+        {
+          "scenario": "last provision deep link lritf at 390x844",
+          "ok": true,
+          "ui": "DÉCIMA PRIMERA",
+          "truth": "DÉCIMA PRIMERA",
+          "urlProvision": true
+        }
+      ],
+      "notApplicable": [],
+      "licLoadTimings": [
+        {
+          "wall_ms": 139,
+          "reader:first-chunk": 44,
+          "reader:flow-complete": 113
+        },
+        {
+          "wall_ms": 123,
+          "reader:first-chunk": 30,
+          "reader:flow-complete": 97
+        },
+        {
+          "wall_ms": 126,
+          "reader:first-chunk": 28,
+          "reader:flow-complete": 99
+        }
+      ],
+      "passed": 28,
+      "failed": 0
+    },
+    "fallback_first": {
+      "publication": "/Users/jr/Dev/lex-mex-reader-four/.work/r4-fallback-a",
+      "releaseId": "3c04016651e2fd4169632756e96ec19136136e1f42c4ed666070f23f20b30660",
+      "origin": "http://127.0.0.1:55619/lex-mex/",
+      "scrollAnchoring": true,
+      "results": [
+        {
+          "scenario": "reading-line crossing without observer change (scrollTop)",
+          "ok": true,
+          "pair": [
+            "Artículo 121",
+            "Artículo 122"
+          ],
+          "line": 107,
+          "constantMembership": true,
+          "crossed": true,
+          "start": {
+            "truth": "Artículo 121",
+            "ui": "Artículo 121",
+            "mismatches": []
+          },
+          "end": {
+            "truth": "Artículo 122",
+            "ui": "Artículo 122",
+            "mismatches": []
+          },
+          "immediateCopy": {
+            "copyExact": true,
+            "shareProvision": true
+          },
+          "copy": {
+            "copyExact": true,
+            "shareProvision": true
+          },
+          "laggingSteps": 0,
+          "trace": [
+            {
+              "top": 155,
+              "members": "284,285",
+              "truth": "Artículo 121",
+              "ui": "Artículo 121",
+              "mismatches": []
+            },
+            {
+              "top": 147,
+              "members": "284,285",
+              "truth": "Artículo 121",
+              "ui": "Artículo 121",
+              "mismatches": []
+            },
+            {
+              "top": 139,
+              "members": "284,285",
+              "truth": "Artículo 121",
+              "ui": "Artículo 121",
+              "mismatches": []
+            },
+            {
+              "top": 131,
+              "members": "284,285",
+              "truth": "Artículo 121",
+              "ui": "Artículo 121",
+              "mismatches": []
+            },
+            {
+              "top": 123,
+              "members": "284,285",
+              "truth": "Artículo 121",
+              "ui": "Artículo 121",
+              "mismatches": []
+            },
+            {
+              "top": 115,
+              "members": "284,285",
+              "truth": "Artículo 121",
+              "ui": "Artículo 121",
+              "mismatches": []
+            },
+            {
+              "top": 107,
+              "members": "284,285",
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            },
+            {
+              "top": 99,
+              "members": "284,285",
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            },
+            {
+              "top": 91,
+              "members": "284,285",
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            },
+            {
+              "top": 83,
+              "members": "284,285",
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            },
+            {
+              "top": 75,
+              "members": "284,285",
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            },
+            {
+              "top": 67,
+              "members": "284,285",
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            },
+            {
+              "top": 59,
+              "members": "284,285",
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            }
+          ]
+        },
+        {
+          "scenario": "reading-line crossing without observer change (wheel)",
+          "ok": true,
+          "pair": [
+            "Artículo 121",
+            "Artículo 122"
+          ],
+          "line": 107,
+          "constantMembership": true,
+          "crossed": true,
+          "start": {
+            "truth": "Artículo 121",
+            "ui": "Artículo 121",
+            "mismatches": []
+          },
+          "end": {
+            "truth": "Artículo 122",
+            "ui": "Artículo 122",
+            "mismatches": []
+          },
+          "immediateCopy": {
+            "copyExact": true,
+            "shareProvision": true
+          },
+          "copy": {
+            "copyExact": true,
+            "shareProvision": true
+          },
+          "laggingSteps": 0,
+          "trace": [
+            {
+              "top": 155,
+              "members": "284,285",
+              "truth": "Artículo 121",
+              "ui": "Artículo 121",
+              "mismatches": []
+            },
+            {
+              "top": 147,
+              "members": "284,285",
+              "truth": "Artículo 121",
+              "ui": "Artículo 121",
+              "mismatches": []
+            },
+            {
+              "top": 139,
+              "members": "284,285",
+              "truth": "Artículo 121",
+              "ui": "Artículo 121",
+              "mismatches": []
+            },
+            {
+              "top": 131,
+              "members": "284,285",
+              "truth": "Artículo 121",
+              "ui": "Artículo 121",
+              "mismatches": []
+            },
+            {
+              "top": 123,
+              "members": "284,285",
+              "truth": "Artículo 121",
+              "ui": "Artículo 121",
+              "mismatches": []
+            },
+            {
+              "top": 115,
+              "members": "284,285",
+              "truth": "Artículo 121",
+              "ui": "Artículo 121",
+              "mismatches": []
+            },
+            {
+              "top": 107,
+              "members": "284,285",
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            },
+            {
+              "top": 99,
+              "members": "284,285",
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            },
+            {
+              "top": 91,
+              "members": "284,285",
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            },
+            {
+              "top": 83,
+              "members": "284,285",
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            },
+            {
+              "top": 75,
+              "members": "284,285",
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            },
+            {
+              "top": 67,
+              "members": "284,285",
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            },
+            {
+              "top": 59,
+              "members": "284,285",
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            }
+          ]
+        },
+        {
+          "scenario": "short adjacent articles",
+          "ok": true,
+          "from": "Artículo 122 Bis",
+          "badSteps": [],
+          "end": {
+            "truth": "Artículo 122",
+            "ui": "Artículo 122",
+            "mismatches": []
+          }
+        },
+        {
+          "scenario": "long article tail",
+          "ok": true,
+          "article": "Artículo 122",
+          "badSteps": [],
+          "badCount": 0,
+          "end": {
+            "truth": "Artículo 122 Bis",
+            "ui": "Artículo 122 Bis",
+            "mismatches": []
+          },
+          "copy": {
+            "copyExact": true,
+            "shareProvision": true
+          }
+        },
+        {
+          "scenario": "resize across breakpoint",
+          "ok": true,
+          "wide": {
+            "truth": "Artículo 193",
+            "ui": "Artículo 193",
+            "mismatches": []
+          },
+          "narrow": {
+            "truth": "Artículo 194",
+            "ui": "Artículo 194",
+            "mismatches": []
+          },
+          "back": {
+            "truth": "Artículo 193",
+            "ui": "Artículo 193",
+            "mismatches": []
+          }
+        },
+        {
+          "scenario": "deep link lic Artículo 193",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "urlProvision": true,
+          "offsetBelowBar": 8
+        },
+        {
+          "scenario": "deep link lic VIGESIMO",
+          "ok": true,
+          "ui": "VIGESIMO",
+          "truth": "VIGESIMO",
+          "urlProvision": true,
+          "offsetBelowBar": 8
+        },
+        {
+          "scenario": "deep link lritf Artículo 4",
+          "ok": true,
+          "ui": "Artículo 4",
+          "truth": "Artículo 4",
+          "urlProvision": true,
+          "offsetBelowBar": 8
+        },
+        {
+          "scenario": "wheel during navigation lock",
+          "ok": true,
+          "end": {
+            "truth": "Artículo 50",
+            "ui": "Artículo 50",
+            "mismatches": []
+          },
+          "pushes": 1
+        },
+        {
+          "scenario": "index push, no trailing overwrite, back",
+          "ok": true,
+          "afterClick": "Artículo 46",
+          "pushes": 1,
+          "url": true,
+          "back": "Artículo 2o"
+        },
+        {
+          "scenario": "interrupted deep-link settle",
+          "ok": true,
+          "target": "Artículo 261",
+          "end": {
+            "truth": "Artículo 260",
+            "ui": "Artículo 260",
+            "mismatches": []
+          }
+        },
+        {
+          "scenario": "quick instrument switches",
+          "ok": true,
+          "ui": "Artículo 1",
+          "instrument": "itf-dcg-2018",
+          "pushes": [
+            "http://127.0.0.1:55619/lex-mex/?release=3c04016651e2fd4169632756e96ec19136136e1f42c4ed666070f23f20b30660&instrument=ifpe-dcg-2021&provision=urn%3Alex-mx%3Afederal%3Aregulation%3Aifpe-dcg-2021%3Aarticle%3A1",
+            "http://127.0.0.1:55619/lex-mex/?release=3c04016651e2fd4169632756e96ec19136136e1f42c4ed666070f23f20b30660&instrument=itf-dcg-2018&provision=urn%3Alex-mx%3Afederal%3Aregulation%3Aitf-dcg-2018%3Aarticle%3A1"
+          ],
+          "agree": {
+            "truth": "Artículo 1",
+            "ui": "Artículo 1",
+            "mismatches": []
+          }
+        },
+        {
+          "scenario": "narrow 390px deep link",
+          "ok": false,
+          "agree": {
+            "truth": "Artículo 191",
+            "ui": "Artículo 191",
+            "mismatches": []
+          },
+          "horizontalOverflow": false
+        },
+        {
+          "scenario": "search result navigation",
+          "ok": true,
+          "label": "Artículo 112",
+          "pushes": 1,
+          "agree": {
+            "truth": "Artículo 112",
+            "ui": "Artículo 112",
+            "mismatches": []
+          }
+        },
+        {
+          "scenario": "reference view and Volver",
+          "ok": true,
+          "source": "Artículo 2o",
+          "opened": true,
+          "scroll": [
+            630,
+            630,
+            630
+          ]
+        },
+        {
+          "scenario": "PDF offer without auto-follow",
+          "ok": true,
+          "followDisabled": true,
+          "pdfKept": true,
+          "offer": true,
+          "agree": {
+            "truth": "ANEXO 1",
+            "ui": "ANEXO 1",
+            "mismatches": []
+          }
+        },
+        {
+          "scenario": "wheel ending inside the navigation lock",
+          "ok": true,
+          "clicked": "Artículo 29 Bis 3",
+          "end": {
+            "truth": "Artículo 29 Bis 4",
+            "ui": "Artículo 29 Bis 4",
+            "mismatches": []
+          },
+          "copy": {
+            "copyExact": true,
+            "shareProvision": true
+          }
+        },
+        {
+          "scenario": "last provision deep link ifpe-dcg-2021 at 1440x3000",
+          "ok": true,
+          "ui": "Anexo 8",
+          "truth": "Anexo 8",
+          "urlProvision": true
+        },
+        {
+          "scenario": "last provision deep link itf-dcg-2018 at 1440x3000",
+          "ok": true,
+          "ui": "ANEXO 20",
+          "truth": "ANEXO 20",
+          "urlProvision": true
+        },
+        {
+          "scenario": "last provision deep link lic at 1440x3000",
+          "ok": true,
+          "ui": "VIGESIMO",
+          "truth": "VIGESIMO",
+          "urlProvision": true
+        },
+        {
+          "scenario": "last provision deep link lritf at 1440x3000",
+          "ok": true,
+          "ui": "DÉCIMA PRIMERA",
+          "truth": "DÉCIMA PRIMERA",
+          "urlProvision": true
+        },
+        {
+          "scenario": "last provision deep link ifpe-dcg-2021 at 390x844",
+          "ok": true,
+          "ui": "Anexo 8",
+          "truth": "Anexo 8",
+          "urlProvision": true
+        },
+        {
+          "scenario": "last provision deep link itf-dcg-2018 at 390x844",
+          "ok": true,
+          "ui": "ANEXO 20",
+          "truth": "ANEXO 20",
+          "urlProvision": true
+        },
+        {
+          "scenario": "last provision deep link lic at 390x844",
+          "ok": true,
+          "ui": "VIGESIMO",
+          "truth": "VIGESIMO",
+          "urlProvision": true
+        },
+        {
+          "scenario": "last provision deep link lritf at 390x844",
+          "ok": true,
+          "ui": "DÉCIMA PRIMERA",
+          "truth": "DÉCIMA PRIMERA",
+          "urlProvision": true
+        }
+      ],
+      "notApplicable": [
+        "deep link lic Artículo 112 Quintus: provision not in this release",
+        "deep link lic Artículo 112 Sextus: provision not in this release",
+        "deep link lic Artículo 112 Séptimus: provision not in this release"
+      ],
+      "licLoadTimings": [
+        {
+          "wall_ms": 137,
+          "reader:first-chunk": 41,
+          "reader:flow-complete": 109
+        },
+        {
+          "wall_ms": 123,
+          "reader:first-chunk": 29,
+          "reader:flow-complete": 95
+        },
+        {
+          "wall_ms": 119,
+          "reader:first-chunk": 27,
+          "reader:flow-complete": 95
+        }
+      ],
+      "passed": 24,
+      "failed": 1
+    },
+    "fallback_repeat": {
+      "publication": "/Users/jr/Dev/lex-mex-reader-four/.work/r4-fallback-a",
+      "releaseId": "3c04016651e2fd4169632756e96ec19136136e1f42c4ed666070f23f20b30660",
+      "origin": "http://127.0.0.1:55706/lex-mex/",
+      "scrollAnchoring": true,
+      "results": [
+        {
+          "scenario": "reading-line crossing without observer change (scrollTop)",
+          "ok": true,
+          "pair": [
+            "Artículo 121",
+            "Artículo 122"
+          ],
+          "line": 107,
+          "constantMembership": true,
+          "crossed": true,
+          "start": {
+            "truth": "Artículo 121",
+            "ui": "Artículo 121",
+            "mismatches": []
+          },
+          "end": {
+            "truth": "Artículo 122",
+            "ui": "Artículo 122",
+            "mismatches": []
+          },
+          "immediateCopy": {
+            "copyExact": true,
+            "shareProvision": true
+          },
+          "copy": {
+            "copyExact": true,
+            "shareProvision": true
+          },
+          "laggingSteps": 0,
+          "trace": [
+            {
+              "top": 155,
+              "members": "284,285",
+              "truth": "Artículo 121",
+              "ui": "Artículo 121",
+              "mismatches": []
+            },
+            {
+              "top": 147,
+              "members": "284,285",
+              "truth": "Artículo 121",
+              "ui": "Artículo 121",
+              "mismatches": []
+            },
+            {
+              "top": 139,
+              "members": "284,285",
+              "truth": "Artículo 121",
+              "ui": "Artículo 121",
+              "mismatches": []
+            },
+            {
+              "top": 131,
+              "members": "284,285",
+              "truth": "Artículo 121",
+              "ui": "Artículo 121",
+              "mismatches": []
+            },
+            {
+              "top": 123,
+              "members": "284,285",
+              "truth": "Artículo 121",
+              "ui": "Artículo 121",
+              "mismatches": []
+            },
+            {
+              "top": 115,
+              "members": "284,285",
+              "truth": "Artículo 121",
+              "ui": "Artículo 121",
+              "mismatches": []
+            },
+            {
+              "top": 107,
+              "members": "284,285",
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            },
+            {
+              "top": 99,
+              "members": "284,285",
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            },
+            {
+              "top": 91,
+              "members": "284,285",
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            },
+            {
+              "top": 83,
+              "members": "284,285",
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            },
+            {
+              "top": 75,
+              "members": "284,285",
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            },
+            {
+              "top": 67,
+              "members": "284,285",
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            },
+            {
+              "top": 59,
+              "members": "284,285",
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            }
+          ]
+        },
+        {
+          "scenario": "reading-line crossing without observer change (wheel)",
+          "ok": true,
+          "pair": [
+            "Artículo 121",
+            "Artículo 122"
+          ],
+          "line": 107,
+          "constantMembership": true,
+          "crossed": true,
+          "start": {
+            "truth": "Artículo 121",
+            "ui": "Artículo 121",
+            "mismatches": []
+          },
+          "end": {
+            "truth": "Artículo 122",
+            "ui": "Artículo 122",
+            "mismatches": []
+          },
+          "immediateCopy": {
+            "copyExact": true,
+            "shareProvision": true
+          },
+          "copy": {
+            "copyExact": true,
+            "shareProvision": true
+          },
+          "laggingSteps": 0,
+          "trace": [
+            {
+              "top": 155,
+              "members": "284,285",
+              "truth": "Artículo 121",
+              "ui": "Artículo 121",
+              "mismatches": []
+            },
+            {
+              "top": 147,
+              "members": "284,285",
+              "truth": "Artículo 121",
+              "ui": "Artículo 121",
+              "mismatches": []
+            },
+            {
+              "top": 139,
+              "members": "284,285",
+              "truth": "Artículo 121",
+              "ui": "Artículo 121",
+              "mismatches": []
+            },
+            {
+              "top": 131,
+              "members": "284,285",
+              "truth": "Artículo 121",
+              "ui": "Artículo 121",
+              "mismatches": []
+            },
+            {
+              "top": 123,
+              "members": "284,285",
+              "truth": "Artículo 121",
+              "ui": "Artículo 121",
+              "mismatches": []
+            },
+            {
+              "top": 115,
+              "members": "284,285",
+              "truth": "Artículo 121",
+              "ui": "Artículo 121",
+              "mismatches": []
+            },
+            {
+              "top": 107,
+              "members": "284,285",
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            },
+            {
+              "top": 99,
+              "members": "284,285",
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            },
+            {
+              "top": 91,
+              "members": "284,285",
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            },
+            {
+              "top": 83,
+              "members": "284,285",
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            },
+            {
+              "top": 75,
+              "members": "284,285",
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            },
+            {
+              "top": 67,
+              "members": "284,285",
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            },
+            {
+              "top": 59,
+              "members": "284,285",
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            }
+          ]
+        },
+        {
+          "scenario": "short adjacent articles",
+          "ok": true,
+          "from": "Artículo 122 Bis",
+          "badSteps": [],
+          "end": {
+            "truth": "Artículo 122",
+            "ui": "Artículo 122",
+            "mismatches": []
+          }
+        },
+        {
+          "scenario": "long article tail",
+          "ok": true,
+          "article": "Artículo 122",
+          "badSteps": [],
+          "badCount": 0,
+          "end": {
+            "truth": "Artículo 122 Bis",
+            "ui": "Artículo 122 Bis",
+            "mismatches": []
+          },
+          "copy": {
+            "copyExact": true,
+            "shareProvision": true
+          }
+        },
+        {
+          "scenario": "resize across breakpoint",
+          "ok": true,
+          "wide": {
+            "truth": "Artículo 193",
+            "ui": "Artículo 193",
+            "mismatches": []
+          },
+          "narrow": {
+            "truth": "Artículo 194",
+            "ui": "Artículo 194",
+            "mismatches": []
+          },
+          "back": {
+            "truth": "Artículo 193",
+            "ui": "Artículo 193",
+            "mismatches": []
+          }
+        },
+        {
+          "scenario": "deep link lic Artículo 193",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "urlProvision": true,
+          "offsetBelowBar": 8
+        },
+        {
+          "scenario": "deep link lic VIGESIMO",
+          "ok": true,
+          "ui": "VIGESIMO",
+          "truth": "VIGESIMO",
+          "urlProvision": true,
+          "offsetBelowBar": 8
+        },
+        {
+          "scenario": "deep link lritf Artículo 4",
+          "ok": true,
+          "ui": "Artículo 4",
+          "truth": "Artículo 4",
+          "urlProvision": true,
+          "offsetBelowBar": 8
+        },
+        {
+          "scenario": "wheel during navigation lock",
+          "ok": true,
+          "end": {
+            "truth": "Artículo 50",
+            "ui": "Artículo 50",
+            "mismatches": []
+          },
+          "pushes": 1
+        },
+        {
+          "scenario": "index push, no trailing overwrite, back",
+          "ok": true,
+          "afterClick": "Artículo 46",
+          "pushes": 1,
+          "url": true,
+          "back": "Artículo 2o"
+        },
+        {
+          "scenario": "interrupted deep-link settle",
+          "ok": true,
+          "target": "Artículo 261",
+          "end": {
+            "truth": "Artículo 260",
+            "ui": "Artículo 260",
+            "mismatches": []
+          }
+        },
+        {
+          "scenario": "quick instrument switches",
+          "ok": true,
+          "ui": "Artículo 1",
+          "instrument": "itf-dcg-2018",
+          "pushes": [
+            "http://127.0.0.1:55706/lex-mex/?release=3c04016651e2fd4169632756e96ec19136136e1f42c4ed666070f23f20b30660&instrument=ifpe-dcg-2021&provision=urn%3Alex-mx%3Afederal%3Aregulation%3Aifpe-dcg-2021%3Aarticle%3A1",
+            "http://127.0.0.1:55706/lex-mex/?release=3c04016651e2fd4169632756e96ec19136136e1f42c4ed666070f23f20b30660&instrument=itf-dcg-2018&provision=urn%3Alex-mx%3Afederal%3Aregulation%3Aitf-dcg-2018%3Aarticle%3A1"
+          ],
+          "agree": {
+            "truth": "Artículo 1",
+            "ui": "Artículo 1",
+            "mismatches": []
+          }
+        },
+        {
+          "scenario": "narrow 390px deep link",
+          "ok": false,
+          "agree": {
+            "truth": "Artículo 191",
+            "ui": "Artículo 191",
+            "mismatches": []
+          },
+          "horizontalOverflow": false
+        },
+        {
+          "scenario": "search result navigation",
+          "ok": true,
+          "label": "Artículo 112",
+          "pushes": 1,
+          "agree": {
+            "truth": "Artículo 112",
+            "ui": "Artículo 112",
+            "mismatches": []
+          }
+        },
+        {
+          "scenario": "reference view and Volver",
+          "ok": true,
+          "source": "Artículo 2o",
+          "opened": true,
+          "scroll": [
+            630,
+            630,
+            630
+          ]
+        },
+        {
+          "scenario": "PDF offer without auto-follow",
+          "ok": true,
+          "followDisabled": true,
+          "pdfKept": true,
+          "offer": true,
+          "agree": {
+            "truth": "ANEXO 1",
+            "ui": "ANEXO 1",
+            "mismatches": []
+          }
+        },
+        {
+          "scenario": "wheel ending inside the navigation lock",
+          "ok": true,
+          "clicked": "Artículo 29 Bis 3",
+          "end": {
+            "truth": "Artículo 29 Bis 4",
+            "ui": "Artículo 29 Bis 4",
+            "mismatches": []
+          },
+          "copy": {
+            "copyExact": true,
+            "shareProvision": true
+          }
+        },
+        {
+          "scenario": "last provision deep link ifpe-dcg-2021 at 1440x3000",
+          "ok": true,
+          "ui": "Anexo 8",
+          "truth": "Anexo 8",
+          "urlProvision": true
+        },
+        {
+          "scenario": "last provision deep link itf-dcg-2018 at 1440x3000",
+          "ok": true,
+          "ui": "ANEXO 20",
+          "truth": "ANEXO 20",
+          "urlProvision": true
+        },
+        {
+          "scenario": "last provision deep link lic at 1440x3000",
+          "ok": true,
+          "ui": "VIGESIMO",
+          "truth": "VIGESIMO",
+          "urlProvision": true
+        },
+        {
+          "scenario": "last provision deep link lritf at 1440x3000",
+          "ok": true,
+          "ui": "DÉCIMA PRIMERA",
+          "truth": "DÉCIMA PRIMERA",
+          "urlProvision": true
+        },
+        {
+          "scenario": "last provision deep link ifpe-dcg-2021 at 390x844",
+          "ok": true,
+          "ui": "Anexo 8",
+          "truth": "Anexo 8",
+          "urlProvision": true
+        },
+        {
+          "scenario": "last provision deep link itf-dcg-2018 at 390x844",
+          "ok": true,
+          "ui": "ANEXO 20",
+          "truth": "ANEXO 20",
+          "urlProvision": true
+        },
+        {
+          "scenario": "last provision deep link lic at 390x844",
+          "ok": true,
+          "ui": "VIGESIMO",
+          "truth": "VIGESIMO",
+          "urlProvision": true
+        },
+        {
+          "scenario": "last provision deep link lritf at 390x844",
+          "ok": true,
+          "ui": "DÉCIMA PRIMERA",
+          "truth": "DÉCIMA PRIMERA",
+          "urlProvision": true
+        }
+      ],
+      "notApplicable": [
+        "deep link lic Artículo 112 Quintus: provision not in this release",
+        "deep link lic Artículo 112 Sextus: provision not in this release",
+        "deep link lic Artículo 112 Séptimus: provision not in this release"
+      ],
+      "licLoadTimings": [
+        {
+          "wall_ms": 136,
+          "reader:first-chunk": 41,
+          "reader:flow-complete": 111
+        },
+        {
+          "wall_ms": 126,
+          "reader:first-chunk": 29,
+          "reader:flow-complete": 102
+        },
+        {
+          "wall_ms": 118,
+          "reader:first-chunk": 26,
+          "reader:flow-complete": 95
+        }
+      ],
+      "passed": 24,
+      "failed": 1
+    }
+  },
+  "harness_sha256": "4f7c22361255fb68a237c9627a4b24c91e7da3ece88ba65828da2b9cfe89de58",
+  "scope": "Read-only review; Node and real headless Chrome harness independently executed on final package bytes. Native424test/validators and mutations reviewed from Claude evidence, not rerun."
+}

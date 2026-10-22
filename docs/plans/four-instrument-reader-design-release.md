@@ -322,34 +322,76 @@ when the selected release changed. Rehearse locally. Host writes/deploy, commits
 merge and push still require separate operator authorization after the concrete
 packet is ready. No publication occurs just because the technical hold is cleared.
 
-### R0–R4 outcome — 2026-10-22
+## R5 — Codex final review follow-up, 2026-10-22
 
-Executed in `/Users/jr/Dev/lex-mex-reader-four` by Claude Opus 5.5. This plan assigned Sonnet, so
-the executor is a routing deviation, recorded in the receipt. Receipt:
-`docs/four-instrument-reader-continuation-receipt-2026-10-22.md`; evidence:
-`docs/four-instrument-reader-continuation-evidence-2026-10-22.json`.
+R0–R4 are committed on Reader branch d87db82c0. This supersedes the resume-R0
+next action. Codex independently verified final packages,22Node tests, preferred
+28browser checks and content/pin parity. Fallback failed the same narrow390px
+LIC193 deep link twice: it landed on191. See
+`docs/four-instrument-reader-r0-r4-codex-review-2026-10-22.md` and evidence in
+the main workspace. The same UI serves legacy3c04 pinned URLs after preferred
+staging, so the backward-compatible landing must work. Database/LIC source
+fidelity and IFPE46→ITF9 correction remain accepted.
 
-- **R1.** The defect reproduced on `ship-a`. Repaired with a rAF reading-line scheduler, a
-  lock-expiry trailing pass, and a `100dvh` trailing spacer added after the fresh Opus review found a
-  tall-viewport rewrite. `reader/browser-check.mjs` passes 28/28 twice on the preferred package and
-  25/25 (3 N/A) on the fallback; the old bytes fail 7.
-- **R2.** The 9626 release matches the source audit exactly. Reference spans have 0 mismatches.
-  LRITF and the PDFs are byte-identical. Nothing new is held.
-- **R3.** Packages built twice and identical. Fail closed 6/6. Rehearsal: exact restore identical;
-  stage rollback leaves `releases/9626…`.
-- **R3 native gates.** 424 tests, fmt, clippy and both validators were rerun before commit; all
-  passed.
-- **Packages.** Preferred publication
-  `f5a1937aa7304375508a11dad427c6fea4d43ad74c567fb53e2fe7e85df00acf` over release 9626… (870
-  provisions). Fallback `709b09c401f3f4176104def965d40a2b70a0114d0d1d38d6147b88db4566c004` over
-  3c04…. Rollback to the deployed `407aa3dc…`.
-- **Pin delta.** The preferred option changes `release_id`, `publication_id`, `corpus_commit` and
-  `manifest_sha256`; the fallback changes only `publication_id`.
+1. Preserve/freeze current source and final packages; reproduce390px LIC193
+   fallback failure. Capture requested ID, selection/URL, target offset, loading/
+   settle/lock state and font readiness across navigation. Default anchoring
+   runs failed twice; do not dismiss as the disclosed no-anchoring limitation.
+2. Diagnose and repair explicit navigation stability around deferred layout and
+   font changes. External font swap is a hypothesis, not established cause.
+   Keep an explicit target stable until genuine user navigation/scroll intent;
+   preserve manual scrolling and passive no-push history. Do not simply weaken
+   the assertion or add a long test sleep. Add targeted event-level coverage
+   and retain evidence that the old final bytes fail. Do not change canonical
+   LIC text/temporal state or internal DB to fix UI geometry.
+3. Build both preferred870 and fallback867 package pairs with fixed UI; run
+  22Node tests and the full28/25browser scenarios on final bytes. Include a
+   new narrow193 trace and legacy-release query test under a preferred-staged
+   local directory containing both releases. Verify copy/share/index/label and
+   requested target, not merely internal agreement on the wrong article. Rerun
+   affected mutation proof if scheduler/lock behavior changes; broader mutation
+   repetition is unnecessary without an affected assumption.
+4. Reverify publication/manifest hashes, exact pairs, sourceUI bindings, public
+   content/source/reference parity, full pin delta and local rollback. Keep all
+   old failing receipts and immutable output roots. Native424 receipts may be
+   reused only with exact hash binding if native/schema/Cargo inputs unchanged.
+5. Fresh bounded advisor/code review and updated receipt/evidence/plan. State
+   new preferred/fallback IDs from actual files; supersede f5a1937a/709b09c4 as
+   appropriate. No commits/merge/push/host staging/deploy without authorization
+   current to that action; verify earlier local-commit authorization scope.
 
-No host write, deploy, push or merge occurred. The operator authorized local staged commits on this
-branch only.
+Exactly one current next action: Claude diagnoses/fixes R5 in the existing
+reader-four workspace and returns a frozen package/evidence for re-review.
+Do not restart the DB, LIC ingestion or original design implementation.
 
-Exactly one current next action: Codex re-reviews the continuation packet (handoff
-`2026-10-22-lex-mex-reader-r0-r4-continuation-review.md` in `pending/codex/`). The operator then
-chooses the preferred or fallback option and separately authorizes host staging, the pin change,
-deployment, and branch merge/push.
+### R5 outcome — 2026-10-22 (Claude Opus 5.5; routing deviation from Sonnet recorded)
+
+The 390px LIC 193 fallback defect reproduced. A trace (`.work/evidence/r5/trace-fallback-r4.json`) shows two causes:
+deferred-layout oscillation with a bounded settle, and a late font swap. Fonts are one cause, not the only one. The
+repair is in `reader/reader.js` only: an explicit navigation holds its target until reader scroll intent or the next
+navigation, with bounded realigning. Harness scenarios 16–26 cover target stability, intent, Copiar enlace, index,
+PageDown, touch, Volver, resize, first-provision entry, the resize storm, and legacy 3c04 links on a staged directory
+that holds both releases.
+
+Final packages:
+- preferred `fbcb4e98b64f5dd00c82a387ce04a35c93681f9d1b4d52ce1181ca55d22e7ea3` over 9626 (870 provisions);
+- fallback `4a3b2e2fa13871f7dbe0903e317b091cfc52091ad376c62f01f3b9b630dc742c` over 3c04.
+
+They supersede f5a1937a/709b09c4. Only reader.js and publication.json differ from R4.
+
+Results on the final harness:
+
+| Run | Result |
+| --- | --- |
+| Preferred | 56/0, twice |
+| Fallback | 53/0 plus 3 N/A, twice |
+| Legacy staged | 71/0 |
+| No anchoring | 56/0 |
+| Old R4 fallback | fails 25 |
+
+Package verification, fail-closed, pin delta and rehearsal all pass. Native inputs are unchanged. Six bounded Opus
+review rounds ran (R5–R10). See `docs/four-instrument-reader-r5-receipt-2026-10-22.md` and its evidence JSON.
+Nothing is committed for R5, staged to a host, deployed, merged or pushed.
+
+Exactly one current next action: Codex re-reviews the R5 packet. Operator decisions stay separate: local commit
+authorization for R5, the choice of option, host staging, the pin change, deployment, and merge/push.
