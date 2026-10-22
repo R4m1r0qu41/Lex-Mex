@@ -185,7 +185,7 @@ fn create_bundle(
     Ok(manifest)
 }
 
-fn normalized_slugs(requested: &[String]) -> Result<Vec<String>> {
+pub(super) fn normalized_slugs(requested: &[String]) -> Result<Vec<String>> {
     let mut seen = HashSet::new();
     let mut slugs = Vec::with_capacity(requested.len());
     for slug in requested {
@@ -404,7 +404,7 @@ fn collect_files(directory: &Path, relative: &Path, output: &mut Vec<PathBuf>) -
     Ok(())
 }
 
-fn git_provenance(root: &Path) -> Result<(String, String)> {
+pub(super) fn git_provenance(root: &Path) -> Result<(String, String)> {
     let output = Command::new("git")
         .args(["show", "-s", "--format=%H%n%cI", "HEAD"])
         .current_dir(root)
@@ -423,7 +423,7 @@ fn git_provenance(root: &Path) -> Result<(String, String)> {
     Ok((commit.to_owned(), commit_time.to_owned()))
 }
 
-fn ensure_selected_corpora_are_committed(root: &Path, slugs: &[String]) -> Result<()> {
+pub(super) fn ensure_selected_corpora_are_committed(root: &Path, slugs: &[String]) -> Result<()> {
     let normalized = normalized_slugs(slugs)?;
     let paths = normalized
         .iter()

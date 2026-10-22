@@ -1109,6 +1109,7 @@ dependencies = [
  "anyhow",
  "chrono",
  "clap",
+ "jsonschema",
  "lex-core",
  "lex-db",
  "lex-export",

@@ -39,6 +39,7 @@ use regex::Regex;
 
 mod bundle;
 mod db;
+mod public_release;
 mod review_packets;
 mod standards;
 
@@ -94,6 +95,11 @@ enum Command {
     Bundle {
         #[command(subcommand)]
         command: bundle::BundleCommand,
+    },
+    /// Build an allowlisted public release with exact text and optional verified PDFs.
+    PublicRelease {
+        #[command(subcommand)]
+        command: public_release::PublicReleaseCommand,
     },
     /// Compile and validate NOM/NMX records through their separate boundary.
     Standards {
@@ -414,6 +420,7 @@ fn dispatch(root: &Path, obsidian_vault: Option<&Path>, command: Command) -> Res
         }
         Command::Bundle { command } => bundle::run_bundle_command(root, command)?,
         Command::Db { command } => db::run(root, command)?,
+        Command::PublicRelease { command } => public_release::run(root, command)?,
         Command::Standards { command } => standards::run_standards_command(root, command)?,
         Command::AuditFurniture { pdf, json } => run_audit_furniture(root, &pdf, json)?,
         Command::Discover { source } => run_discover(root, &source)?,
@@ -4945,7 +4952,10 @@ fn run_review_resolve(
     Ok(())
 }
 
-fn run_validate(root: &Path, context: &InstrumentContext) -> Result<lex_core::ValidationReport> {
+fn validate_corpus_snapshot(
+    root: &Path,
+    context: &InstrumentContext,
+) -> Result<lex_core::ValidationReport> {
     let paths = &context.paths;
     let config = &context.config;
     let corpus = read_corpus(paths)?;
@@ -4984,6 +4994,12 @@ fn run_validate(root: &Path, context: &InstrumentContext) -> Result<lex_core::Va
         .map(|(slug, sibling)| (slug.as_str(), sibling))
         .collect();
     append_glossary_coverage_issues(&mut report, &corpus, &paths.corpus, context, &sibling_views)?;
+    Ok(report)
+}
+
+fn run_validate(root: &Path, context: &InstrumentContext) -> Result<lex_core::ValidationReport> {
+    let paths = &context.paths;
+    let report = validate_corpus_snapshot(root, context)?;
     write_validation(&report, &paths.corpus)?;
     println!(
         "validation: {}; {} articles, {} transitories, {} references, {} issues",

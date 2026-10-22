@@ -1,0 +1,188 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Public release manifest v1",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "builder_sha256",
+    "release_id",
+    "corpus_commit",
+    "committed_at",
+    "base_path",
+    "coverage",
+    "instruments",
+    "files"
+  ],
+  "properties": {
+    "schema_version": {
+      "const": "public-release-v1"
+    },
+    "builder_sha256": {
+      "type": "string",
+      "pattern": "^[a-f0-9]{64}$"
+    },
+    "release_id": {
+      "type": "string",
+      "pattern": "^[a-f0-9]{64}$"
+    },
+    "corpus_commit": {
+      "type": "string"
+    },
+    "committed_at": {
+      "type": "string"
+    },
+    "base_path": {
+      "type": "string"
+    },
+    "coverage": {
+      "const": "selected_partial"
+    },
+    "instruments": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "slug",
+          "id",
+          "title",
+          "short_name",
+          "provision_count",
+          "document_path",
+          "source",
+          "canonical_input_hashes",
+          "coverage"
+        ],
+        "properties": {
+          "slug": {
+            "type": "string"
+          },
+          "id": {
+            "type": "string"
+          },
+          "title": {
+            "type": "string"
+          },
+          "short_name": {
+            "type": "string"
+          },
+          "provision_count": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "document_path": {
+            "type": "string"
+          },
+          "source": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "source_sha256",
+              "extracted_text_sha256",
+              "publisher",
+              "official_url",
+              "retrieved_at",
+              "parser_version",
+              "schema_version",
+              "pdf_path",
+              "pdf_verified",
+              "last_successful_upstream_check"
+            ],
+            "properties": {
+              "source_sha256": {
+                "type": "string"
+              },
+              "publisher": {
+                "type": "string"
+              },
+              "official_url": {
+                "type": "string"
+              },
+              "retrieved_at": {
+                "type": "string"
+              },
+              "parser_version": {
+                "type": "string"
+              },
+              "schema_version": {
+                "type": "string"
+              },
+              "extracted_text_sha256": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "pdf_path": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "pdf_verified": {
+                "type": "boolean"
+              },
+              "last_successful_upstream_check": {
+                "type": "null"
+              }
+            }
+          },
+          "canonical_input_hashes": {
+            "type": "object",
+            "additionalProperties": {
+              "type": "string",
+              "pattern": "^[a-f0-9]{64}$"
+            }
+          },
+          "coverage": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "structured",
+              "references",
+              "historical_validity"
+            ],
+            "properties": {
+              "structured": {
+                "const": true
+              },
+              "references": {
+                "const": "express_with_disclosed_unresolved_targets"
+              },
+              "historical_validity": {
+                "const": "not_established"
+              }
+            }
+          }
+        }
+      }
+    },
+    "files": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "path",
+          "sha256",
+          "bytes"
+        ],
+        "properties": {
+          "path": {
+            "type": "string"
+          },
+          "sha256": {
+            "type": "string",
+            "pattern": "^[a-f0-9]{64}$"
+          },
+          "bytes": {
+            "type": "integer",
+            "minimum": 0
+          }
+        }
+      }
+    }
+  }
+}
