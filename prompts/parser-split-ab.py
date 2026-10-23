@@ -27,7 +27,8 @@ import subprocess
 import sys
 import time
 
-REPO = Path(__file__).resolve().parent.parent
+REPO = Path(os.environ.get("PARSER_SPLIT_REPO") or Path(__file__).resolve().parent.parent)
+FROZEN = os.environ.get("PARSER_SPLIT_FROZEN") == "1"
 WORK = REPO / ".work" / "parser-split"
 RUN_ROOT = Path(os.environ.get("PARSER_SPLIT_RUN_ROOT", WORK / "run-root"))
 INPUTS = WORK / "inputs"
@@ -36,6 +37,26 @@ DEFAULT_SOURCE_WORK = Path("/Users/jr/Dev/lex-mex/.work")
 
 # Offline stages for one instrument that has retained extracted text. The
 # pipeline command also fetches, so the stages it chains are replayed here.
+REQUIRED_COMMON = (
+    "kind",
+    "baseline",
+    "harness_sha256",
+    "harness_unchanged",
+    "harness_frozen_snapshot",
+    "harness_committed",
+    "binary_unchanged",
+    "final_corpus_tree_sha256",
+    "final_corpus_file_count",
+    "final_root_tree_sha256",
+    "pristine_corpus_digest",
+)
+REQUIRED_ROW_KEYS = ("slug", "stage", "argv", "exit", "stdout_sha256", "stderr_sha256", "corpus_tree_sha256")
+ROWS_WITH_WORK_TREE = {"parse", "temporal-request", "validate", "derive-temporal", "export-markdown", "extract", "audit-furniture"}
+REQUIRED_BY_KIND = {
+    "whole-corpus-sweep": ("pristine_head",),
+    "retained-replay": ("inputs_tree_sha256",),
+}
+
 RETAINED_STAGES = [
     ("parse", ["parse", "{slug}"]),
     ("temporal-request", ["analyze-temporal", "{slug}", "--provider", "none"]),
@@ -53,6 +74,13 @@ SWEEP_STAGES = [
 
 def sha256_bytes(data):
     return hashlib.sha256(data).hexdigest()
+
+
+# The harness identity is fixed when the process starts: the exact bytes loaded
+# here are hashed and snapshotted, and finish() records whether the file changed
+# while the run was in progress.
+_HARNESS_BYTES = Path(__file__).resolve().read_bytes()
+HARNESS_SHA256_AT_START = sha256_bytes(_HARNESS_BYTES)
 
 
 def sha256_file(path):
@@ -348,9 +376,18 @@ def finish(label, binary, kind, baseline, rows, trees, extra):
         "kind": kind,
         "binary": str(binary),
         "binary_sha256": sha256_file(binary),
+        "binary_unchanged": extra.get("binary_sha256_at_start") == sha256_file(binary),
         "baseline": baseline,
         "git_head": git("rev-parse", "HEAD"),
-        "harness_sha256": sha256_file(Path(__file__)),
+        "harness_sha256": HARNESS_SHA256_AT_START,
+        "harness_sha256_at_finish": sha256_file(Path(__file__).resolve()),
+        "harness_unchanged": sha256_file(Path(__file__).resolve()) == HARNESS_SHA256_AT_START,
+        "harness_frozen_snapshot": FROZEN and Path(__file__).resolve().parent.name == "harness-snapshots",
+        "harness_committed": harness_committed(_HARNESS_BYTES),
+        "harness_live_source_changed_during_run": Path(
+            os.environ.get("PARSER_SPLIT_LIVE_PATH") or __file__
+        ).read_bytes()
+        != _HARNESS_BYTES,
         "final_root_tree_sha256": digest_map(tree_map(RUN_ROOT, exclude=(".git",))),
         "rows": rows,
         "final_corpus_tree_sha256": digest_map(final_corpus),
@@ -361,6 +398,9 @@ def finish(label, binary, kind, baseline, rows, trees, extra):
     (WORK / f"trees-{label}.json").write_text(json.dumps(trees, sort_keys=True))
     failures = [r for r in rows if r["exit"] != 0]
     print(f"{label}: {len(rows)} commands, {len(failures)} nonzero; corpus digest {result['final_corpus_tree_sha256']}")
+    if not (result["harness_unchanged"] and result["binary_unchanged"]):
+        print(f"{label}: harness or binary changed while the run was in progress; evidence is not usable", file=sys.stderr)
+        sys.exit(3)
 
 
 def prepare(args, git_init=False):
@@ -370,10 +410,19 @@ def prepare(args, git_init=False):
     if logs.exists():
         sys.exit(f"refusing to overwrite {logs}; choose a fresh --label")
     logs.mkdir(parents=True)
+    snapshots = WORK / "harness-snapshots"
+    snapshots.mkdir(exist_ok=True)
+    snapshot = snapshots / f"{HARNESS_SHA256_AT_START}.py"
+    if not snapshot.exists():
+        snapshot.write_bytes(_HARNESS_BYTES)
     build_pristine_root(baseline, git_init)
     pristine = tree_map(RUN_ROOT, "corpus")
     tree_id = git("rev-parse", f"{baseline}:corpus")
-    return binary, baseline, logs, {"pristine_corpus_digest": digest_map(pristine), "baseline_corpus_git_tree": tree_id}
+    return binary, baseline, logs, {
+        "pristine_corpus_digest": digest_map(pristine),
+        "baseline_corpus_git_tree": tree_id,
+        "binary_sha256_at_start": sha256_file(binary),
+    }
 
 
 def cmd_replay(args):
@@ -483,7 +532,37 @@ def cmd_compare(args):
                     pb = tb.get(rb["slug"], {}).get(rb["stage"], {}).get(area, {})
                     entry["files"] = sorted(p for p in set(pa) | set(pb) if pa.get(p) != pb.get(p))
                 drift.append(entry)
+    # Evidence completeness is part of the comparison: a run missing a required
+    # field, in a different evidence format, or made by a different harness
+    # revision is not like-for-like, so by default it fails. Legacy results can
+    # be compared only with --allow-legacy-format, which reports the evidence as
+    # incomplete and never exits 0.
+    required = list(REQUIRED_COMMON)
     notes = []
+    for name, result in ((args.a, a), (args.b, b)):
+        for key in required + list(REQUIRED_BY_KIND.get(result.get("kind"), ())):
+            if key not in result:
+                notes.append({"run": name, "field": key, "why": "required evidence absent"})
+        for key in ("harness_unchanged", "binary_unchanged", "harness_frozen_snapshot", "harness_committed"):
+            if result.get(key) is False:
+                drift.append({"kind": "run-mutated", "run": name, "field": key})
+    # Every row must carry the full evidence set; a key missing from both rows of
+    # a pair would otherwise never be compared.
+    for name, result in ((args.a, a), (args.b, b)):
+        for index, row in enumerate(result["rows"]):
+            needed = list(REQUIRED_ROW_KEYS)
+            replay_row = result.get("kind") == "retained-replay" and row.get("stage") in ROWS_WITH_WORK_TREE
+            if replay_row or row.get("stage") in ("extract", "audit-furniture"):
+                needed.append("work_tree_sha256")
+            absent = [key for key in needed if key not in row]
+            if absent:
+                notes.append({"run": name, "row": index, "slug": row.get("slug"), "stage": row.get("stage"), "why": "row evidence absent", "fields": absent})
+    if a.get("kind") != b.get("kind"):
+        drift.append({"kind": "run-kind", "a": a.get("kind"), "b": b.get("kind")})
+    for key in sorted(set(a) ^ set(b)):
+        notes.append({"field": key, "why": "evidence format differs", "present_in": args.a if key in a else args.b})
+    if a.get("harness_sha256") and b.get("harness_sha256") and a["harness_sha256"] != b["harness_sha256"]:
+        notes.append({"field": "harness_sha256", "why": "runs made by different harness revisions"})
     for key in (
         "baseline",
         "pristine_head",
@@ -493,18 +572,22 @@ def cmd_compare(args):
         "pristine_corpus_digest",
         "inputs_tree_sha256",
     ):
-        if (key in a) != (key in b):
-            notes.append({"field": key, "present_in": args.a if key in a else args.b})
-        elif a.get(key) != b.get(key):
+        if key in a and key in b and a[key] != b[key]:
             drift.append({"kind": "run-field", "field": key, "a": a.get(key), "b": b.get(key)})
+    evidence_complete = not notes
+    if notes and not args.allow_legacy_format:
+        drift.extend({"kind": "incomplete-evidence", **note} for note in notes)
     summary = {
         "a": args.a,
         "b": args.b,
         "a_binary_sha256": a["binary_sha256"],
         "b_binary_sha256": b["binary_sha256"],
+        "comparator_harness_sha256": HARNESS_SHA256_AT_START,
         "a_harness_sha256": a.get("harness_sha256"),
         "b_harness_sha256": b.get("harness_sha256"),
         "rows_compared": len(a["rows"]),
+        "evidence_complete": evidence_complete,
+        "legacy_format_allowed": bool(args.allow_legacy_format),
         "notes": notes,
         "drift_count": len(drift),
         "drift": drift[:200],
@@ -513,10 +596,52 @@ def cmd_compare(args):
     print(json.dumps({k: v for k, v in summary.items() if k != "drift"}))
     for entry in drift[:20]:
         print("DRIFT", json.dumps(entry))
-    sys.exit(1 if drift else 0)
+    if drift:
+        sys.exit(1)
+    if not evidence_complete:
+        print("NO DRIFT BUT EVIDENCE INCOMPLETE (legacy format); not a pass", file=sys.stderr)
+        sys.exit(2)
+    sys.exit(0)
+
+
+def reexec_from_snapshot():
+    """Run the harness from a read-only, hash-named snapshot of itself.
+
+    The live file can then be edited freely without changing what executes. If a
+    snapshot for this hash already exists its content must match, otherwise the
+    run is refused.
+    """
+    if FROZEN:
+        return
+    snapshots = WORK / "harness-snapshots"
+    snapshots.mkdir(parents=True, exist_ok=True)
+    snapshot = snapshots / f"{HARNESS_SHA256_AT_START}.py"
+    if snapshot.exists():
+        if sha256_file(snapshot) != HARNESS_SHA256_AT_START:
+            sys.exit(f"refusing to run: snapshot {snapshot} does not match its name")
+    else:
+        snapshot.write_bytes(_HARNESS_BYTES)
+        snapshot.chmod(0o444)
+    env = dict(os.environ, PARSER_SPLIT_FROZEN="1", PARSER_SPLIT_REPO=str(REPO))
+    env["PARSER_SPLIT_LIVE_SHA256"] = HARNESS_SHA256_AT_START
+    env["PARSER_SPLIT_LIVE_PATH"] = str(Path(__file__).resolve())
+    os.execve(sys.executable, [sys.executable, str(snapshot), *sys.argv[1:]], env)
+
+
+def harness_committed(data):
+    """Whether these exact bytes are the harness blob committed at HEAD."""
+    try:
+        head = git("rev-parse", "HEAD:prompts/parser-split-ab.py")
+        blob = subprocess.run(
+            ["git", "-C", str(REPO), "hash-object", "--stdin"], input=data, capture_output=True, check=True
+        ).stdout.decode().strip()
+    except (subprocess.CalledProcessError, OSError):
+        return False
+    return head == blob
 
 
 def main():
+    reexec_from_snapshot()
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     sub = parser.add_subparsers(dest="command", required=True)
     sub.add_parser("inventory").set_defaults(func=cmd_inventory)
@@ -539,6 +664,11 @@ def main():
     compare = sub.add_parser("compare")
     compare.add_argument("a")
     compare.add_argument("b")
+    compare.add_argument(
+        "--allow-legacy-format",
+        action="store_true",
+        help="compare results from before the evidence fields were required; exits 2, never 0",
+    )
     compare.set_defaults(func=cmd_compare)
     args = parser.parse_args()
     args.func(args)
