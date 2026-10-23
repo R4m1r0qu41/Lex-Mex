@@ -473,6 +473,24 @@ fn changed_manifest_in_each_new_crate_is_rejected_with_its_path() {
 }
 
 #[test]
+fn newly_added_consumed_source_is_rejected_even_when_every_compiled_file_matches() {
+    let mut additions: Vec<String> = NEW_CRATES
+        .iter()
+        .map(|krate| format!("crates/{krate}/src/added_rule.rs"))
+        .collect();
+    additions.push("crates/lex-parse/src/added_rule.rs".to_owned());
+    additions.push("schemas/added.schema.json".to_owned());
+    for path in additions {
+        let message = builder_rejection(|root| save(root, &path, b"pub fn added() {}\n"));
+        assert!(
+            message.contains("unknown to the compiled binary"),
+            "{path}: {message}"
+        );
+        assert!(message.contains(&path), "{path}: {message}");
+    }
+}
+
+#[test]
 fn every_pinned_directory_has_a_rebuild_trigger_and_an_inventory() {
     // Cargo rebuild behaviour is separate from the stale-binary mismatches above:
     // those hold a binary fixed and vary the claimed commit; this checks that the

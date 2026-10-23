@@ -196,10 +196,9 @@ recorded above.
   them there adds no reverse dev-dependency.
 - **Provenance.** `lex-db/build.rs` pins the `lex-link` sources and manifest in
   addition to grammar and analysis, emits one directory list used for the
-  inventory and for directory-level `rerun-if-changed` triggers, and the
-  compiled-inventory check is covered by negative tests for a changed source in
-  each new crate (both through the inventory and through the hard-coded
-  `BUILDER_FILES` entry), a changed manifest in each new crate, an unchanged
-  control, and the rebuild trigger tested separately from stale-binary
-  mismatch. `lex-parse` stays pinned although `lex-db` no longer links it, as
-  the conservative choice.
+  inventory, the runtime check and directory-level `rerun-if-changed`
+  triggers, and `check_builder` now rejects a builder commit that holds a
+  `.rs` or `.json` file in a pinned directory that the binary did not compile.
+  Before this change only schemas had that inventory-equality check, despite a
+  comment describing it. `lex-parse` stays pinned although `lex-db` no longer
+  links it, as the conservative choice.
