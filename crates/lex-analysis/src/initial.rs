@@ -12,7 +12,8 @@ use regex::Regex;
 /// fractions starts `PartiallyRepealed` (see [`initial_repeals`]). A later
 /// temporal determination (reapplied from persisted results for analyzed
 /// instruments) overrides this initial state.
-pub(crate) fn initial_temporal_status(text: &str) -> lex_core::TemporalStatus {
+#[must_use]
+pub fn initial_temporal_status(text: &str) -> lex_core::TemporalStatus {
     if !initial_repeals(text).is_empty() {
         return lex_core::TemporalStatus::PartiallyRepealed;
     }
@@ -50,7 +51,8 @@ pub(crate) fn initial_temporal_status(text: &str) -> lex_core::TemporalStatus {
 /// recognised; a note that names another instrument or article, or that
 /// continues into prose, is left for review. The ordinals are the source's own
 /// statements about the text before the repeal.
-pub(crate) fn initial_repeals(text: &str) -> Vec<lex_core::ProvisionRepeal> {
+#[must_use]
+pub fn initial_repeals(text: &str) -> Vec<lex_core::ProvisionRepeal> {
     static NOTE: std::sync::LazyLock<Regex> = std::sync::LazyLock::new(|| {
         Regex::new(
             r"(?is)^\s*\(\s*se\s+derogan?\s+(?:el\s+|los\s+|la\s+|las\s+)?(?:(?P<list_before>[^()]*?)\s+(?P<scope_after>p[áa]rrafos?|fracci[óo]n(?:es)?)|(?P<scope_before>p[áa]rrafos?|fracci[óo]n(?:es)?)\s+(?P<list_after>[^()]*?))\s*(?:,?\s*inclusive)?\s*\)\s*(?:\.|\n|$)",
@@ -155,4 +157,69 @@ pub(crate) fn repeal_ordinals(list: &str, scope: lex_core::RepealScope) -> Optio
         }
     }
     (range_from.is_none() && !ordinals.is_empty()).then_some(ordinals)
+}
+
+#[cfg(test)]
+mod tests {
+
+    use lex_core::TemporalStatus;
+    use pretty_assertions::assert_eq;
+
+    use super::*;
+
+    #[test]
+    fn unanalyzed_temporal_status_is_unknown_except_for_an_explicit_repeal_note() {
+        assert_eq!(
+            initial_temporal_status("La presente Ley es de orden público."),
+            TemporalStatus::Unknown
+        );
+        assert_eq!(
+            initial_temporal_status(
+                "[Texto invalidado.] Artículo declarado inválido por sentencia de la SCJN."
+            ),
+            TemporalStatus::Unknown
+        );
+        assert_eq!(
+            initial_temporal_status("(Se deroga)."),
+            TemporalStatus::Repealed
+        );
+        assert_eq!(
+            initial_temporal_status("Se derogan los artículos 33, 33-A y 33-B de otra ley."),
+            TemporalStatus::Unknown
+        );
+        assert_eq!(
+            initial_temporal_status("Se deroga el artículo 27 de otra ley."),
+            TemporalStatus::Unknown
+        );
+    }
+
+    #[test]
+    fn repeal_marker_alone_on_its_line_is_a_repeal_but_a_sentence_is_not() {
+        // Diputados repealed articles: the marker is its own paragraph, followed
+        // by the retained amendment-history line (LACP, LGOAAC, CCOM).
+        for text in [
+            "Se deroga\n\nArtículo derogado DOF 13-08-2009",
+            "Se deroga\n\nArtículo reformado DOF 15-07-1993. Derogado DOF 10-01-2014",
+            "Derogado\n\nArtículo derogado DOF 10-01-2014",
+            "(Se deroga)\n\nArtículo derogado DOF 13-08-2009",
+            "Se deroga  \n\nArtículo derogado DOF 13-08-2009",
+        ] {
+            assert_eq!(
+                initial_temporal_status(text),
+                TemporalStatus::Repealed,
+                "{text:?}"
+            );
+        }
+        for text in [
+            "Se deroga el artículo 27 de otra ley.\n\nOtro párrafo.",
+            "Se deroga la Ley de otra materia publicada en 1990.",
+            "Derogado capítulo sexto de las sociedades.",
+        ] {
+            assert_eq!(
+                initial_temporal_status(text),
+                TemporalStatus::Unknown,
+                "{text:?}"
+            );
+        }
+    }
 }

@@ -26,7 +26,6 @@
 
 use std::sync::LazyLock;
 
-use crate::grammar::is_connector;
 pub use crate::usages::{
     extract_quoted_term_usages, extract_term_usages, extract_term_usages_with_lowercase,
 };
@@ -37,6 +36,7 @@ use lex_core::{
     ProvisionType, SCHEMA_VERSION, evidence_sha256, fraction_qualifier_rank,
     normalize_fraction_label,
 };
+use lex_grammar::is_connector;
 use regex::Regex;
 
 #[derive(Debug, Clone, Copy, PartialEq, Eq)]

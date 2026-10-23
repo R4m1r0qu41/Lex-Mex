@@ -40,6 +40,14 @@ const BUILDER_FILES: &[(&str, &[u8])] = &[
         include_bytes!("../../lex-core/src/lib.rs"),
     ),
     (
+        "crates/lex-analysis/src/lib.rs",
+        include_bytes!("../../lex-analysis/src/lib.rs"),
+    ),
+    (
+        "crates/lex-grammar/src/lib.rs",
+        include_bytes!("../../lex-grammar/src/lib.rs"),
+    ),
+    (
         "crates/lex-parse/src/lib.rs",
         include_bytes!("../../lex-parse/src/lib.rs"),
     ),

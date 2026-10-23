@@ -1,6 +1,8 @@
 [workspace]
 members = [
     "crates/lex-core",
+    "crates/lex-grammar",
+    "crates/lex-analysis",
     "crates/lex-source",
     "crates/lex-parse",
     "crates/lex-export",

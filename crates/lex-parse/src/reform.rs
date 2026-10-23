@@ -3,7 +3,7 @@
 use chrono::NaiveDate;
 use lex_core::TemporalEvidence;
 
-use crate::grammar::slug;
+use lex_grammar::slug;
 
 /// Build one reform-transitory `TemporalEvidence` item: the shared
 /// provision-ID and label convention every compiled/consolidated

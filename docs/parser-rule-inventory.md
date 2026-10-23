@@ -124,3 +124,51 @@ file or the parse options type.
   each other. The only edge that crosses the planned boundary the wrong way is
   `standard_validate` to `standard`, which is why that module is retained in
   parse.
+
+## 6. G2 status — grammar and analysis extracted
+
+Moved whole, with their tests where those tests build their own inputs:
+
+- **lex-grammar** (`crates/lex-grammar`): `labels` (GR-01, GR-02), the DOF and
+  Spanish date helpers (GR-04), `char_slice`, `collapse_whitespace`, `slug`
+  (GR-05) and `is_connector` (GR-03). Dependencies: `chrono`, `regex` only; no
+  project crate.
+- **lex-analysis** (`crates/lex-analysis`): `initial` (AN-01), `temporal_derive`
+  (AN-02), `validate` (AN-03) and `review` (AN-04), as separate modules.
+  Dependencies: `lex-core`, `lex-grammar`.
+- **lex-parse** keeps every public path through re-exports: `lex_parse::labels`
+  and `lex_parse::temporal_derive` are module re-exports, and the former
+  top-level functions are `pub use` of the analysis crate.
+
+Deliberate public-surface decisions at this boundary:
+
+- `initial_temporal_status` and `initial_repeals` are public because the parse
+  families call them at parse time with unchanged timing and inputs.
+- `validate_references` and `validate_reference` became public (generic over the
+  map and set hasher, as the workspace's pedantic lints require) because three
+  cross-stage tests drive them with edges produced by the parser and linker.
+  Those tests stay in lex-parse; they need the parser, so they cannot move into
+  analysis without a reverse dev-dependency.
+- Tests that build their own inputs moved with their code: eight chunks into
+  `lex-analysis::validate` (four tests and four fixture helpers:
+  `plain_article_number_reads_bare_ordinals_only`,
+  `partial_repeal_notes_are_classified_only_in_the_unambiguous_shape`,
+  `partial_repeal_and_condition_records_are_required_where_the_status_needs_them`,
+  `header_contamination_requires_standalone_page_furniture`, plus
+  `repeal_fixture_provision`, `repeal_codes`, `sample_repeal`,
+  `sample_condition`), two tests into `lex-analysis::initial`
+  (`unanalyzed_temporal_status_is_unknown_except_for_an_explicit_repeal_note`,
+  `repeal_marker_alone_on_its_line_is_a_repeal_but_a_sentence_is_not`) and one
+  test into lex-grammar (`latest_dof_date_reads_every_date_in_a_note_list`).
+  `repeal_codes` is a helper, not a test. The lex-parse test count fell from 283
+  to 238 and lex-grammar plus lex-analysis hold 17 and 28, so the sum is
+  unchanged (283).
+
+Measured production dependency graph after G2: grammar has no project
+dependency; analysis depends on core and grammar; parse depends on analysis,
+core and grammar. No edge points back from analysis or grammar to parse, link,
+cli, db or export.
+
+Remaining before G3: link (LK-01 to LK-07) still lives in lex-parse as the
+`references` and `usages` modules, and `standard_validate` stays in parse as
+recorded above.

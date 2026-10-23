@@ -3,7 +3,7 @@
 use anyhow::Result;
 use lex_core::{DefinedTerm, Provision, SCHEMA_VERSION, TermUsage};
 
-use crate::grammar::is_connector;
+use lex_grammar::is_connector;
 
 /// Extract every exact defined-term occurrence across the provisions.
 ///

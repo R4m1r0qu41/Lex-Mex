@@ -7,7 +7,9 @@ license.workspace = true
 [dependencies]
 anyhow.workspace = true
 chrono.workspace = true
+lex-analysis = { path = "../lex-analysis" }
 lex-core = { path = "../lex-core" }
+lex-grammar = { path = "../lex-grammar" }
 pdf-inspector = "=0.1.7"
 regex.workspace = true
 serde.workspace = true

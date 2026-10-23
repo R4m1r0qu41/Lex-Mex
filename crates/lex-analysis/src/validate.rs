@@ -9,9 +9,9 @@ use lex_core::{
 };
 use regex::Regex;
 
-use crate::grammar::char_slice;
 use crate::initial::initial_temporal_status;
-use crate::labels;
+use lex_grammar::char_slice;
+use lex_grammar::labels;
 
 /// Partial-repeal and conditional-commencement records must be present
 /// exactly where the status needs them, and a condition may only be marked met
@@ -647,12 +647,15 @@ fn validate_terms(
     }
 }
 
-pub(crate) fn validate_references(
+/// Validate every supplied reference edge of one instrument against its
+/// provisions and the known-target set, appending issues. Public so a
+/// cross-stage test can drive it with edges produced by the linker.
+pub fn validate_references<S: std::hash::BuildHasher>(
     instrument_id: &str,
     official_title: Option<&str>,
     provisions: &[Provision],
     references: &[ReferenceEdge],
-    external_targets: &HashSet<String>,
+    external_targets: &HashSet<String, S>,
     issues: &mut Vec<ValidationIssue>,
 ) {
     let provisions_by_id: HashMap<_, _> = provisions
@@ -679,12 +682,13 @@ pub(crate) fn validate_references(
     }
 }
 
-pub(crate) fn validate_reference(
+/// Validate one reference edge: span, target, qualifiers and resolution rule.
+pub fn validate_reference<S: std::hash::BuildHasher, T: std::hash::BuildHasher>(
     instrument_id: &str,
     official_title: Option<&str>,
     reference: &ReferenceEdge,
-    provisions_by_id: &HashMap<&str, &Provision>,
-    external_targets: &HashSet<String>,
+    provisions_by_id: &HashMap<&str, &Provision, S>,
+    external_targets: &HashSet<String, T>,
     issues: &mut Vec<ValidationIssue>,
 ) {
     let source_text = if reference.source_provision_id == instrument_id {
@@ -836,11 +840,11 @@ fn validate_reference_span(
     }
 }
 
-fn validate_reference_target(
+fn validate_reference_target<S: std::hash::BuildHasher, T: std::hash::BuildHasher>(
     instrument_id: &str,
     reference: &ReferenceEdge,
-    provisions_by_id: &HashMap<&str, &Provision>,
-    external_targets: &HashSet<String>,
+    provisions_by_id: &HashMap<&str, &Provision, S>,
+    external_targets: &HashSet<String, T>,
     issues: &mut Vec<ValidationIssue>,
 ) {
     let canonical_owner = reference
@@ -978,4 +982,240 @@ pub(crate) fn plain_article_number(number: &str) -> Option<u32> {
         return None;
     }
     digits.parse().ok()
+}
+
+#[cfg(test)]
+mod tests {
+
+    use chrono::NaiveDate;
+    use lex_core::{Provision, ProvisionType, TemporalStatus};
+    use pretty_assertions::assert_eq;
+
+    use super::*;
+    use crate::initial::initial_repeals;
+
+    #[test]
+    fn plain_article_number_reads_bare_ordinals_only() {
+        assert_eq!(super::plain_article_number("7"), Some(7));
+        assert_eq!(super::plain_article_number("9o"), Some(9));
+        assert_eq!(super::plain_article_number("1°"), Some(1));
+        assert_eq!(super::plain_article_number("2º"), Some(2));
+        assert_eq!(super::plain_article_number("1/o"), Some(1));
+        assert_eq!(super::plain_article_number("1,000"), Some(1000));
+        assert_eq!(super::plain_article_number("1,00"), None);
+        assert_eq!(super::plain_article_number("10"), Some(10));
+        assert_eq!(super::plain_article_number("1o-A"), None);
+        assert_eq!(super::plain_article_number("o"), None);
+        assert_eq!(super::plain_article_number("12-Bis"), None);
+    }
+
+    fn repeal_fixture_provision(
+        status: TemporalStatus,
+        repeals: Vec<lex_core::ProvisionRepeal>,
+        condition: Option<lex_core::CommencementCondition>,
+    ) -> Provision {
+        Provision {
+            numbering_basis: None,
+            schema_version: "0.1.0".to_owned(),
+            id: "urn:lex-mx:federal:statute:muestra:article:1".to_owned(),
+            instrument_id: "urn:lex-mx:federal:statute:muestra".to_owned(),
+            provision_type: ProvisionType::Article,
+            label: "Artículo 1".to_owned(),
+            number: "1".to_owned(),
+            heading_context: lex_core::HeadingContext {
+                libro: None,
+                title: None,
+                chapter: None,
+                section: None,
+                apartado: None,
+            },
+            text: "Texto.".to_owned(),
+            publication_date: Some(NaiveDate::from_ymd_opt(1990, 1, 1).unwrap()),
+            publication_period: None,
+            effective_from: None,
+            effective_to: None,
+            temporal_status: status,
+            temporal_basis: None,
+            temporal_confidence: None,
+            review_status: lex_core::ReviewStatus::MachineAccepted,
+            transitory_effects: Vec::new(),
+            amendment_marks: Vec::new(),
+            repeals,
+            commencement_condition: condition,
+        }
+    }
+
+    fn repeal_codes(provision: &Provision) -> Vec<String> {
+        let mut issues = Vec::new();
+        validate_repeals_and_condition(provision, &mut issues);
+        issues.into_iter().map(|issue| issue.code).collect()
+    }
+
+    fn sample_repeal() -> lex_core::ProvisionRepeal {
+        lex_core::ProvisionRepeal {
+            scope: lex_core::RepealScope::Paragraph,
+            ordinals: vec!["1".to_owned()],
+            cause: lex_core::RepealCause::Legislative,
+            dof_date: None,
+            renumbering: false,
+        }
+    }
+
+    fn sample_condition(
+        status: lex_core::ConditionStatus,
+        met_on: Option<NaiveDate>,
+        evidence: Option<&str>,
+    ) -> lex_core::CommencementCondition {
+        lex_core::CommencementCondition {
+            source_provision_id: "urn:lex-mx:federal:statute:muestra:transitory:tercero".to_owned(),
+            condition_text: "treinta días después de que se emitan las disposiciones".to_owned(),
+            authority: Some("CNBV".to_owned()),
+            condition_status: status,
+            met_on,
+            evidence: evidence.map(str::to_owned),
+        }
+    }
+
+    #[test]
+    fn partial_repeal_notes_are_classified_only_in_the_unambiguous_shape() {
+        let repeals = initial_repeals(
+            "(Se deroga el primer párrafo). Párrafo derogado DOF 15-06-2007\n\nTexto vigente.",
+        );
+        assert_eq!(repeals.len(), 1);
+        assert_eq!(repeals[0].scope, lex_core::RepealScope::Paragraph);
+        assert_eq!(repeals[0].ordinals, ["1"]);
+        assert_eq!(repeals[0].dof_date, NaiveDate::from_ymd_opt(2007, 6, 15));
+        assert!(!repeals[0].renumbering);
+        assert_eq!(
+            initial_temporal_status(
+                "(Se deroga primer párrafo). Párrafo derogado DOF 04-02-2004\n\nTexto."
+            ),
+            TemporalStatus::PartiallyRepealed
+        );
+
+        let listed = initial_repeals(
+            "(Se derogan los párrafos 1, 2 y 4, recorriéndose los subsecuentes)\n\nTexto.",
+        );
+        assert!(
+            listed.is_empty(),
+            "prose inside the note is left for review"
+        );
+
+        let range = initial_repeals("(Se derogan los párrafos segundo a cuarto)\n\nTexto.");
+        assert_eq!(range[0].ordinals, ["2", "3", "4"]);
+
+        let fractions = initial_repeals("(Se derogan las fracciones III y V)\n\nTexto.");
+        assert_eq!(fractions[0].scope, lex_core::RepealScope::Fraction);
+        assert_eq!(fractions[0].ordinals, ["III", "V"]);
+
+        for text in [
+            "Se deroga el primer párrafo del artículo 5 de otra ley.",
+            "(Se deroga el artículo 5 de la Ley Federal)",
+            "(Se deroga)",
+            "(Se deroga el texto del párrafo)",
+        ] {
+            assert!(initial_repeals(text).is_empty(), "{text:?}");
+        }
+    }
+
+    #[test]
+    fn partial_repeal_and_condition_records_are_required_where_the_status_needs_them() {
+        use lex_core::ConditionStatus::{Met, Unmet, Unverified};
+        let date = NaiveDate::from_ymd_opt(2024, 5, 1);
+
+        let found = repeal_codes(&repeal_fixture_provision(
+            TemporalStatus::PartiallyRepealed,
+            vec![sample_repeal()],
+            None,
+        ));
+        assert!(found.is_empty(), "{found:?}");
+        assert_eq!(
+            repeal_codes(&repeal_fixture_provision(
+                TemporalStatus::PartiallyRepealed,
+                vec![],
+                None
+            )),
+            ["partial_repeal_without_scope"]
+        );
+        assert_eq!(
+            repeal_codes(&repeal_fixture_provision(
+                TemporalStatus::Effective,
+                vec![sample_repeal()],
+                None
+            )),
+            ["repeals_on_unrepealed_provision"]
+        );
+
+        let found = repeal_codes(&repeal_fixture_provision(
+            TemporalStatus::ConditionalPending,
+            vec![],
+            Some(sample_condition(Unverified, None, None)),
+        ));
+        assert!(found.is_empty(), "{found:?}");
+        let found = repeal_codes(&repeal_fixture_provision(
+            TemporalStatus::ConditionalPending,
+            vec![],
+            Some(sample_condition(Unmet, None, None)),
+        ));
+        assert!(found.is_empty(), "{found:?}");
+        assert_eq!(
+            repeal_codes(&repeal_fixture_provision(
+                TemporalStatus::ConditionalPending,
+                vec![],
+                None
+            )),
+            ["conditional_without_condition"]
+        );
+        let found = repeal_codes(&repeal_fixture_provision(
+            TemporalStatus::Effective,
+            vec![],
+            Some(sample_condition(Met, date, Some("DOF 2024-05-01 acuerdo"))),
+        ));
+        assert!(found.is_empty(), "{found:?}");
+        assert_eq!(
+            repeal_codes(&repeal_fixture_provision(
+                TemporalStatus::ConditionalPending,
+                vec![],
+                Some(sample_condition(Met, date, Some("DOF")))
+            )),
+            ["met_condition_still_pending"]
+        );
+        assert_eq!(
+            repeal_codes(&repeal_fixture_provision(
+                TemporalStatus::Effective,
+                vec![],
+                Some(sample_condition(Met, None, None))
+            )),
+            ["met_condition_without_evidence"]
+        );
+        assert_eq!(
+            repeal_codes(&repeal_fixture_provision(
+                TemporalStatus::Effective,
+                vec![],
+                Some(sample_condition(Unverified, None, None))
+            )),
+            ["condition_on_wrong_status"]
+        );
+        assert_eq!(
+            repeal_codes(&repeal_fixture_provision(
+                TemporalStatus::ConditionalPending,
+                vec![],
+                Some(sample_condition(Unverified, date, None))
+            )),
+            ["unmet_condition_with_date"]
+        );
+    }
+
+    #[test]
+    fn header_contamination_requires_standalone_page_furniture() {
+        assert!(!contains_page_header_contamination(
+            "La Secretaría de Servicios Parlamentarios presta apoyo a la Cámara."
+        ));
+        assert!(contains_page_header_contamination(
+            "Texto anterior.\nSecretaría de Servicios Parlamentarios\nTexto posterior."
+        ));
+        assert!(contains_page_header_contamination(
+            "CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN\nSecretaría General"
+        ));
+    }
 }

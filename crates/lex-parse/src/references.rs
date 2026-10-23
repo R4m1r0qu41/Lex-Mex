@@ -13,8 +13,8 @@ use lex_core::{
 };
 use regex::Regex;
 
-use crate::grammar::{latest_dof_date, slug};
 use crate::labels;
+use lex_grammar::{latest_dof_date, slug};
 
 struct ReferencePatterns {
     article: Regex,

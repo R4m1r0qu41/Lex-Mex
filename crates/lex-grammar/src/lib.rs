@@ -1,4 +1,8 @@
-//! Lexical helpers shared across parsing, linking and analysis: ordinals, dates, character slicing.
+//! Lexical helpers shared across parsing, linking and analysis: article labels,
+//! Spanish dates, exact character slicing and connector words. Nothing here
+//! classifies legal meaning.
+
+pub mod labels;
 
 use chrono::NaiveDate;
 use regex::Regex;
@@ -8,7 +12,8 @@ static DOF_DATE: std::sync::LazyLock<Regex> = std::sync::LazyLock::new(|| {
 });
 
 /// Whether text carries any `DOF dd-mm-yyyy` amendment note, valid date or not.
-pub(crate) fn mentions_dof_date(text: &str) -> bool {
+#[must_use]
+pub fn mentions_dof_date(text: &str) -> bool {
     DOF_DATE.is_match(text)
 }
 
@@ -22,7 +27,8 @@ static DOF_DATE_RUN: std::sync::LazyLock<Regex> = std::sync::LazyLock::new(|| {
 static LIST_DATE: std::sync::LazyLock<Regex> =
     std::sync::LazyLock::new(|| Regex::new(r"(\d{2})-(\d{2})-(\d{4})").expect("static regex"));
 
-pub(crate) fn latest_dof_date(text: &str) -> Option<NaiveDate> {
+#[must_use]
+pub fn latest_dof_date(text: &str) -> Option<NaiveDate> {
     DOF_DATE_RUN
         .find_iter(text)
         .flat_map(|run| LIST_DATE.captures_iter(run.as_str()))
@@ -36,18 +42,21 @@ pub(crate) fn latest_dof_date(text: &str) -> Option<NaiveDate> {
         .max()
 }
 
-pub(crate) fn char_slice(value: &str, start: usize, end: usize) -> Option<String> {
+#[must_use]
+pub fn char_slice(value: &str, start: usize, end: usize) -> Option<String> {
     if start > end || end > value.chars().count() {
         return None;
     }
     Some(value.chars().skip(start).take(end - start).collect())
 }
 
-pub(crate) fn collapse_whitespace(value: &str) -> String {
+#[must_use]
+pub fn collapse_whitespace(value: &str) -> String {
     value.split_whitespace().collect::<Vec<_>>().join(" ")
 }
 
-pub(crate) fn slug(value: &str) -> String {
+#[must_use]
+pub fn slug(value: &str) -> String {
     value
         .to_lowercase()
         .replace('á', "a")
@@ -58,7 +67,8 @@ pub(crate) fn slug(value: &str) -> String {
         .replace(' ', "-")
 }
 
-pub(crate) fn spanish_date(day: &str, month: &str, year: &str) -> Option<NaiveDate> {
+#[must_use]
+pub fn spanish_date(day: &str, month: &str, year: &str) -> Option<NaiveDate> {
     let month = match month {
         "enero" => 1,
         "febrero" => 2,
@@ -77,9 +87,35 @@ pub(crate) fn spanish_date(day: &str, month: &str, year: &str) -> Option<NaiveDa
     NaiveDate::from_ymd_opt(year.parse().ok()?, month, day.parse().ok()?)
 }
 
-pub(crate) fn is_connector(word: &str) -> bool {
+#[must_use]
+pub fn is_connector(word: &str) -> bool {
     matches!(
         word.to_lowercase().as_str(),
         "de" | "del" | "la" | "el" | "los" | "las" | "y" | "o" | "en" | "a" | "una" | "un"
     )
+}
+
+#[cfg(test)]
+mod tests {
+    #[test]
+    fn latest_dof_date_reads_every_date_in_a_note_list() {
+        use crate::latest_dof_date;
+        use chrono::NaiveDate;
+        let single = "Artículo reformado DOF 10-01-2014";
+        assert_eq!(
+            latest_dof_date(single),
+            NaiveDate::from_ymd_opt(2014, 1, 10)
+        );
+        let listed =
+            "Cantidades actualizadas DOF 13-01-2016, 12-01-2017,\n   30-12-2024 y 28-12-2025";
+        assert_eq!(
+            latest_dof_date(listed),
+            NaiveDate::from_ymd_opt(2025, 12, 28)
+        );
+        let unrelated = "Fe de erratas DOF 10-01-2025; plazo de 01-02-2030";
+        assert_eq!(
+            latest_dof_date(unrelated),
+            NaiveDate::from_ymd_opt(2025, 1, 10)
+        );
+    }
 }

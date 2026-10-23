@@ -3,9 +3,7 @@ pub mod diputados;
 pub mod furniture_audit;
 pub mod html;
 pub mod itf;
-pub mod labels;
 pub mod standard;
-pub mod temporal_derive;
 pub mod terms;
 
 pub use dcg::parse_dcg;
@@ -16,6 +14,7 @@ pub use diputados::{
 pub use furniture_audit::{audit_pdf, find_admitted_furniture};
 pub use html::extract_html_text;
 pub use itf::{ItfDocument, parse_itf_dcg};
+pub use lex_grammar::labels;
 pub use standard::{
     StandardModificationTarget, parse_standard_clauses, parse_standard_modification_targets,
     parse_standard_supplements, parse_standard_transitories, strip_page_furniture,
@@ -33,285 +32,38 @@ pub use terms::{
 };
 
 mod extraction;
-mod grammar;
-mod initial;
 mod references;
 mod reform;
-mod review;
 mod standard_validate;
 mod usages;
-mod validate;
 pub use extraction::{Extraction, extract_doc, extract_pdf};
-#[cfg(test)]
-pub(crate) use grammar::latest_dof_date;
-pub(crate) use grammar::{collapse_whitespace, mentions_dof_date, slug, spanish_date};
-pub(crate) use initial::{initial_repeals, initial_temporal_status};
+pub use lex_analysis::temporal_derive;
+pub use lex_analysis::{
+    CorpusExpectations, CorpusView, apply_legal_operator_reviews,
+    apply_outdated_reference_approvals, validate_corpus, validate_lritf,
+};
+pub(crate) use lex_analysis::{initial_repeals, initial_temporal_status};
+pub(crate) use lex_grammar::{collapse_whitespace, slug, spanish_date};
 pub use references::{
     HistoricalTarget, InstrumentContextPolicy, ReferenceOptions, extract_internal_references,
     extract_references,
 };
 pub(crate) use reform::reform_evidence_item;
-pub use review::{apply_legal_operator_reviews, apply_outdated_reference_approvals};
-#[cfg(test)]
-pub(crate) use validate::plain_article_number;
-pub use validate::{CorpusExpectations, CorpusView, validate_corpus, validate_lritf};
-#[cfg(test)]
-pub(crate) use validate::{
-    contains_page_header_contamination, validate_reference, validate_references,
-    validate_repeals_and_condition,
-};
 
 #[cfg(test)]
 mod tests {
-    #[test]
-    fn plain_article_number_reads_bare_ordinals_only() {
-        assert_eq!(super::plain_article_number("7"), Some(7));
-        assert_eq!(super::plain_article_number("9o"), Some(9));
-        assert_eq!(super::plain_article_number("1°"), Some(1));
-        assert_eq!(super::plain_article_number("2º"), Some(2));
-        assert_eq!(super::plain_article_number("1/o"), Some(1));
-        assert_eq!(super::plain_article_number("1,000"), Some(1000));
-        assert_eq!(super::plain_article_number("1,00"), None);
-        assert_eq!(super::plain_article_number("10"), Some(10));
-        assert_eq!(super::plain_article_number("1o-A"), None);
-        assert_eq!(super::plain_article_number("o"), None);
-        assert_eq!(super::plain_article_number("12-Bis"), None);
-    }
-
-    fn repeal_fixture_provision(
-        status: TemporalStatus,
-        repeals: Vec<lex_core::ProvisionRepeal>,
-        condition: Option<lex_core::CommencementCondition>,
-    ) -> Provision {
-        Provision {
-            numbering_basis: None,
-            schema_version: "0.1.0".to_owned(),
-            id: "urn:lex-mx:federal:statute:muestra:article:1".to_owned(),
-            instrument_id: "urn:lex-mx:federal:statute:muestra".to_owned(),
-            provision_type: ProvisionType::Article,
-            label: "Artículo 1".to_owned(),
-            number: "1".to_owned(),
-            heading_context: lex_core::HeadingContext {
-                libro: None,
-                title: None,
-                chapter: None,
-                section: None,
-                apartado: None,
-            },
-            text: "Texto.".to_owned(),
-            publication_date: Some(NaiveDate::from_ymd_opt(1990, 1, 1).unwrap()),
-            publication_period: None,
-            effective_from: None,
-            effective_to: None,
-            temporal_status: status,
-            temporal_basis: None,
-            temporal_confidence: None,
-            review_status: lex_core::ReviewStatus::MachineAccepted,
-            transitory_effects: Vec::new(),
-            amendment_marks: Vec::new(),
-            repeals,
-            commencement_condition: condition,
-        }
-    }
-
-    fn repeal_codes(provision: &Provision) -> Vec<String> {
-        let mut issues = Vec::new();
-        validate_repeals_and_condition(provision, &mut issues);
-        issues.into_iter().map(|issue| issue.code).collect()
-    }
-
-    fn sample_repeal() -> lex_core::ProvisionRepeal {
-        lex_core::ProvisionRepeal {
-            scope: lex_core::RepealScope::Paragraph,
-            ordinals: vec!["1".to_owned()],
-            cause: lex_core::RepealCause::Legislative,
-            dof_date: None,
-            renumbering: false,
-        }
-    }
-
-    fn sample_condition(
-        status: lex_core::ConditionStatus,
-        met_on: Option<NaiveDate>,
-        evidence: Option<&str>,
-    ) -> lex_core::CommencementCondition {
-        lex_core::CommencementCondition {
-            source_provision_id: "urn:lex-mx:federal:statute:muestra:transitory:tercero".to_owned(),
-            condition_text: "treinta días después de que se emitan las disposiciones".to_owned(),
-            authority: Some("CNBV".to_owned()),
-            condition_status: status,
-            met_on,
-            evidence: evidence.map(str::to_owned),
-        }
-    }
-
-    #[test]
-    fn partial_repeal_notes_are_classified_only_in_the_unambiguous_shape() {
-        let repeals = initial_repeals(
-            "(Se deroga el primer párrafo). Párrafo derogado DOF 15-06-2007\n\nTexto vigente.",
-        );
-        assert_eq!(repeals.len(), 1);
-        assert_eq!(repeals[0].scope, lex_core::RepealScope::Paragraph);
-        assert_eq!(repeals[0].ordinals, ["1"]);
-        assert_eq!(repeals[0].dof_date, NaiveDate::from_ymd_opt(2007, 6, 15));
-        assert!(!repeals[0].renumbering);
-        assert_eq!(
-            initial_temporal_status(
-                "(Se deroga primer párrafo). Párrafo derogado DOF 04-02-2004\n\nTexto."
-            ),
-            TemporalStatus::PartiallyRepealed
-        );
-
-        let listed = initial_repeals(
-            "(Se derogan los párrafos 1, 2 y 4, recorriéndose los subsecuentes)\n\nTexto.",
-        );
-        assert!(
-            listed.is_empty(),
-            "prose inside the note is left for review"
-        );
-
-        let range = initial_repeals("(Se derogan los párrafos segundo a cuarto)\n\nTexto.");
-        assert_eq!(range[0].ordinals, ["2", "3", "4"]);
-
-        let fractions = initial_repeals("(Se derogan las fracciones III y V)\n\nTexto.");
-        assert_eq!(fractions[0].scope, lex_core::RepealScope::Fraction);
-        assert_eq!(fractions[0].ordinals, ["III", "V"]);
-
-        for text in [
-            "Se deroga el primer párrafo del artículo 5 de otra ley.",
-            "(Se deroga el artículo 5 de la Ley Federal)",
-            "(Se deroga)",
-            "(Se deroga el texto del párrafo)",
-        ] {
-            assert!(initial_repeals(text).is_empty(), "{text:?}");
-        }
-    }
-
-    #[test]
-    fn partial_repeal_and_condition_records_are_required_where_the_status_needs_them() {
-        use lex_core::ConditionStatus::{Met, Unmet, Unverified};
-        let date = NaiveDate::from_ymd_opt(2024, 5, 1);
-
-        let found = repeal_codes(&repeal_fixture_provision(
-            TemporalStatus::PartiallyRepealed,
-            vec![sample_repeal()],
-            None,
-        ));
-        assert!(found.is_empty(), "{found:?}");
-        assert_eq!(
-            repeal_codes(&repeal_fixture_provision(
-                TemporalStatus::PartiallyRepealed,
-                vec![],
-                None
-            )),
-            ["partial_repeal_without_scope"]
-        );
-        assert_eq!(
-            repeal_codes(&repeal_fixture_provision(
-                TemporalStatus::Effective,
-                vec![sample_repeal()],
-                None
-            )),
-            ["repeals_on_unrepealed_provision"]
-        );
-
-        let found = repeal_codes(&repeal_fixture_provision(
-            TemporalStatus::ConditionalPending,
-            vec![],
-            Some(sample_condition(Unverified, None, None)),
-        ));
-        assert!(found.is_empty(), "{found:?}");
-        let found = repeal_codes(&repeal_fixture_provision(
-            TemporalStatus::ConditionalPending,
-            vec![],
-            Some(sample_condition(Unmet, None, None)),
-        ));
-        assert!(found.is_empty(), "{found:?}");
-        assert_eq!(
-            repeal_codes(&repeal_fixture_provision(
-                TemporalStatus::ConditionalPending,
-                vec![],
-                None
-            )),
-            ["conditional_without_condition"]
-        );
-        let found = repeal_codes(&repeal_fixture_provision(
-            TemporalStatus::Effective,
-            vec![],
-            Some(sample_condition(Met, date, Some("DOF 2024-05-01 acuerdo"))),
-        ));
-        assert!(found.is_empty(), "{found:?}");
-        assert_eq!(
-            repeal_codes(&repeal_fixture_provision(
-                TemporalStatus::ConditionalPending,
-                vec![],
-                Some(sample_condition(Met, date, Some("DOF")))
-            )),
-            ["met_condition_still_pending"]
-        );
-        assert_eq!(
-            repeal_codes(&repeal_fixture_provision(
-                TemporalStatus::Effective,
-                vec![],
-                Some(sample_condition(Met, None, None))
-            )),
-            ["met_condition_without_evidence"]
-        );
-        assert_eq!(
-            repeal_codes(&repeal_fixture_provision(
-                TemporalStatus::Effective,
-                vec![],
-                Some(sample_condition(Unverified, None, None))
-            )),
-            ["condition_on_wrong_status"]
-        );
-        assert_eq!(
-            repeal_codes(&repeal_fixture_provision(
-                TemporalStatus::ConditionalPending,
-                vec![],
-                Some(sample_condition(Unverified, date, None))
-            )),
-            ["unmet_condition_with_date"]
-        );
-    }
-
-    #[test]
-    fn latest_dof_date_reads_every_date_in_a_note_list() {
-        use crate::latest_dof_date;
-        use chrono::NaiveDate;
-        let single = "Artículo reformado DOF 10-01-2014";
-        assert_eq!(
-            latest_dof_date(single),
-            NaiveDate::from_ymd_opt(2014, 1, 10)
-        );
-        let listed =
-            "Cantidades actualizadas DOF 13-01-2016, 12-01-2017,\n   30-12-2024 y 28-12-2025";
-        assert_eq!(
-            latest_dof_date(listed),
-            NaiveDate::from_ymd_opt(2025, 12, 28)
-        );
-        let unrelated = "Fe de erratas DOF 10-01-2025; plazo de 01-02-2030";
-        assert_eq!(
-            latest_dof_date(unrelated),
-            NaiveDate::from_ymd_opt(2025, 1, 10)
-        );
-    }
-
     use std::collections::HashSet;
 
     use chrono::NaiveDate;
     use lex_core::{
-        Provision, ProvisionType, ReferenceForm, ReferenceQualifierType, ReferenceResolutionStatus,
-        TemporalStatus,
+        Provision, ReferenceForm, ReferenceQualifierType, ReferenceResolutionStatus, TemporalStatus,
     };
     use pretty_assertions::assert_eq;
 
     use super::{
         CorpusExpectations, CorpusView, DiputadosOptions, HistoricalTarget,
-        InstrumentContextPolicy, ReferenceOptions, contains_page_header_contamination,
-        extract_internal_references, extract_references, extract_reform_evidence, initial_repeals,
-        initial_temporal_status, parse_dcg, parse_diputados, validate_corpus, validate_lritf,
-        validate_repeals_and_condition,
+        InstrumentContextPolicy, ReferenceOptions, extract_internal_references, extract_references,
+        extract_reform_evidence, parse_dcg, parse_diputados, validate_corpus, validate_lritf,
     };
 
     const FIXTURE: &str = include_str!("../../../fixtures/lritf/parser-sample.txt");
@@ -964,80 +716,11 @@ mod tests {
     }
 
     #[test]
-    fn header_contamination_requires_standalone_page_furniture() {
-        assert!(!contains_page_header_contamination(
-            "La Secretaría de Servicios Parlamentarios presta apoyo a la Cámara."
-        ));
-        assert!(contains_page_header_contamination(
-            "Texto anterior.\nSecretaría de Servicios Parlamentarios\nTexto posterior."
-        ));
-        assert!(contains_page_header_contamination(
-            "CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN\nSecretaría General"
-        ));
-    }
-
-    #[test]
     fn validates_expected_counts_and_order() {
         let date = NaiveDate::from_ymd_opt(2018, 3, 9).unwrap();
         let provisions = parse_lritf(FIXTURE, date).unwrap();
         let report = validate_lritf(&provisions, &[], 2, 2);
         assert!(report.valid, "{:?}", report.issues);
-    }
-
-    #[test]
-    fn unanalyzed_temporal_status_is_unknown_except_for_an_explicit_repeal_note() {
-        assert_eq!(
-            initial_temporal_status("La presente Ley es de orden público."),
-            TemporalStatus::Unknown
-        );
-        assert_eq!(
-            initial_temporal_status(
-                "[Texto invalidado.] Artículo declarado inválido por sentencia de la SCJN."
-            ),
-            TemporalStatus::Unknown
-        );
-        assert_eq!(
-            initial_temporal_status("(Se deroga)."),
-            TemporalStatus::Repealed
-        );
-        assert_eq!(
-            initial_temporal_status("Se derogan los artículos 33, 33-A y 33-B de otra ley."),
-            TemporalStatus::Unknown
-        );
-        assert_eq!(
-            initial_temporal_status("Se deroga el artículo 27 de otra ley."),
-            TemporalStatus::Unknown
-        );
-    }
-
-    #[test]
-    fn repeal_marker_alone_on_its_line_is_a_repeal_but_a_sentence_is_not() {
-        // Diputados repealed articles: the marker is its own paragraph, followed
-        // by the retained amendment-history line (LACP, LGOAAC, CCOM).
-        for text in [
-            "Se deroga\n\nArtículo derogado DOF 13-08-2009",
-            "Se deroga\n\nArtículo reformado DOF 15-07-1993. Derogado DOF 10-01-2014",
-            "Derogado\n\nArtículo derogado DOF 10-01-2014",
-            "(Se deroga)\n\nArtículo derogado DOF 13-08-2009",
-            "Se deroga  \n\nArtículo derogado DOF 13-08-2009",
-        ] {
-            assert_eq!(
-                initial_temporal_status(text),
-                TemporalStatus::Repealed,
-                "{text:?}"
-            );
-        }
-        for text in [
-            "Se deroga el artículo 27 de otra ley.\n\nOtro párrafo.",
-            "Se deroga la Ley de otra materia publicada en 1990.",
-            "Derogado capítulo sexto de las sociedades.",
-        ] {
-            assert_eq!(
-                initial_temporal_status(text),
-                TemporalStatus::Unknown,
-                "{text:?}"
-            );
-        }
     }
 
     #[test]
@@ -1559,7 +1242,10 @@ mod tests {
                 historical_targets: Vec::new(),
                 parent_instrument: Some(LAN.to_owned()),
             },
-            &known.iter().map(|id| (*id).to_owned()).collect(),
+            &known
+                .iter()
+                .map(|id| (*id).to_owned())
+                .collect::<HashSet<String>>(),
         )
         .unwrap()
     }
@@ -1681,12 +1367,15 @@ mod tests {
         .unwrap();
         let issues_for = |candidate: &lex_core::ReferenceEdge| {
             let mut issues = Vec::new();
-            super::validate_references(
+            lex_analysis::validate_references(
                 REG_LAN,
                 None,
                 &document.provisions,
                 std::slice::from_ref(candidate),
-                &known.iter().map(|id| (*id).to_owned()).collect(),
+                &known
+                    .iter()
+                    .map(|id| (*id).to_owned())
+                    .collect::<HashSet<String>>(),
                 &mut issues,
             );
             issues
@@ -2162,8 +1851,9 @@ Ciudad de México, a 1 de octubre de 2025.
             ReferenceResolutionStatus::Unresolved
         );
         let mut issues = Vec::new();
-        let by_id = doc.provisions.iter().map(|p| (p.id.as_str(), p)).collect();
-        super::validate_reference(
+        let by_id: std::collections::HashMap<&str, &Provision> =
+            doc.provisions.iter().map(|p| (p.id.as_str(), p)).collect();
+        lex_analysis::validate_reference(
             instrument_id,
             None,
             &stale,
@@ -2216,7 +1906,7 @@ Ciudad de México, a 1 de octubre de 2025.
             Some(&approval)
         );
         let mut issues = Vec::new();
-        super::validate_reference(
+        lex_analysis::validate_reference(
             instrument_id,
             None,
             approved,
@@ -2238,7 +1928,7 @@ Ciudad de México, a 1 de octubre de 2025.
         let mut other = stale.clone();
         other.target_provision_id = format!("{target}:article:999");
         let mut issues = Vec::new();
-        super::validate_reference(
+        lex_analysis::validate_reference(
             instrument_id,
             None,
             &other,
@@ -2259,7 +1949,7 @@ Ciudad de México, a 1 de octubre de 2025.
             .unwrap()
             .source_text_sha256 = "0".repeat(64);
         let mut issues = Vec::new();
-        super::validate_reference(
+        lex_analysis::validate_reference(
             instrument_id,
             None,
             &tampered,
@@ -2399,7 +2089,7 @@ Ciudad de México, a 1 de octubre de 2025.
         // a tampered hash, span, target or metadata is an error.
         let issues_for = |candidate: &lex_core::ReferenceEdge| {
             let mut issues = Vec::new();
-            super::validate_references(
+            lex_analysis::validate_references(
                 instrument_id,
                 None,
                 &doc.provisions,
@@ -2556,7 +2246,10 @@ Ciudad de México, a 1 de octubre de 2025.
                 historical_targets: Vec::new(),
                 parent_instrument: None,
             },
-            &known.iter().map(|id| (*id).to_owned()).collect(),
+            &known
+                .iter()
+                .map(|id| (*id).to_owned())
+                .collect::<HashSet<String>>(),
         )
         .unwrap()
     }

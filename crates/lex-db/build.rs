@@ -38,7 +38,9 @@ fn main() {
     let mut files = Vec::new();
     for dir in [
         "crates/lex-db/src",
+        "crates/lex-analysis/src",
         "crates/lex-core/src",
+        "crates/lex-grammar/src",
         "crates/lex-parse/src",
         "schemas",
         "fixtures/database",
@@ -46,14 +48,18 @@ fn main() {
         visit(&root, &root.join(dir), &mut files);
     }
     for file in [
+        "crates/lex-analysis/Cargo.toml",
         "crates/lex-core/Cargo.toml",
+        "crates/lex-grammar/Cargo.toml",
         "crates/lex-parse/Cargo.toml",
         "crates/lex-cli/src/db.rs",
     ] {
         files.push(file.into());
     }
     println!("cargo:rerun-if-changed=../../schemas");
+    println!("cargo:rerun-if-changed=../lex-analysis/src");
     println!("cargo:rerun-if-changed=../lex-core/src");
+    println!("cargo:rerun-if-changed=../lex-grammar/src");
     println!("cargo:rerun-if-changed=../lex-parse/src");
     let mut code = String::from("&[\n");
     for path in files {
