@@ -172,3 +172,34 @@ cli, db or export.
 Remaining before G3: link (LK-01 to LK-07) still lives in lex-parse as the
 `references` and `usages` modules, and `standard_validate` stays in parse as
 recorded above.
+
+## 7. G3 status — link extracted, consumers migrated, every source pinned
+
+- **lex-link** (`crates/lex-link`; `lex-core`, `lex-grammar`): `references`
+  (LK-01 to LK-06) and `usages` (LK-07), unchanged. `lex_parse::extract_references`,
+  `lex_parse::terms::extract_term_usages` and the other former paths remain valid
+  through re-exports.
+- **Consumers.** `lex-cli` imports citation and usage functions from `lex-link`,
+  validation, review application and temporal derivation from `lex-analysis`,
+  and `canonical_slug` from `lex-grammar`; it still imports source-family
+  parsing, extraction, furniture and glossary extraction from `lex-parse`.
+  `lex-db` no longer depends on `lex-parse`: it uses `lex-analysis` and
+  `lex-grammar`.
+- **Compatibility.** `crates/lex-cli/tests/lex_parse_api_compat.rs`, generated
+  from the baseline by `prompts/parser-split-api-fixture.py`, imports all 126
+  baseline public paths and compiles against both the baseline and the
+  candidate. A deliberately wrong path fails to compile, so the check is live.
+  It proves paths resolve, not signature shape.
+- **Link tests stay in lex-parse.** The citation regression tests build their
+  provisions by parsing fixtures (for example through `closure_references`), so
+  they are cross-stage tests. lex-parse depends forward on lex-link, so keeping
+  them there adds no reverse dev-dependency.
+- **Provenance.** `lex-db/build.rs` pins the `lex-link` sources and manifest in
+  addition to grammar and analysis, emits one directory list used for the
+  inventory and for directory-level `rerun-if-changed` triggers, and the
+  compiled-inventory check is covered by negative tests for a changed source in
+  each new crate (both through the inventory and through the hard-coded
+  `BUILDER_FILES` entry), a changed manifest in each new crate, an unchanged
+  control, and the rebuild trigger tested separately from stale-binary
+  mismatch. `lex-parse` stays pinned although `lex-db` no longer links it, as
+  the conservative choice.

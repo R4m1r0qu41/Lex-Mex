@@ -9,6 +9,15 @@ use std::{
 use anyhow::{Context, Result, bail};
 use chrono::{NaiveDate, Utc};
 use clap::{Parser, Subcommand, ValueEnum};
+use lex_analysis::{
+    CorpusExpectations, CorpusView, apply_legal_operator_reviews,
+    apply_outdated_reference_approvals,
+    temporal_derive::{
+        Commencement, derive_article_temporal_determinations, repair_article_dates,
+        repair_partial_repeals,
+    },
+    validate_corpus,
+};
 use lex_core::{
     Corpus, Instrument, InstrumentStatus, InstrumentType, ProvisionType, ReferenceResolutionStatus,
     ReviewItem, ReviewItemStatus, ReviewResolution, SCHEMA_VERSION, SourceManifest, StandardClause,
@@ -22,14 +31,15 @@ use lex_export::{
     LinkTargets, TermTargets, link_targets, term_targets, write_canonical, write_markdown,
     write_obsidian, write_validation,
 };
+use lex_link::{
+    HistoricalTarget, InstrumentContextPolicy, ReferenceOptions, extract_internal_references,
+    extract_quoted_term_usages, extract_references, extract_term_usages,
+    extract_term_usages_with_lowercase,
+};
 use lex_parse::{
-    Commencement, CorpusExpectations, CorpusView, DiputadosOptions, GlossaryStyle,
-    InstrumentContextPolicy, ReferenceOptions, audit_pdf, derive_article_temporal_determinations,
-    detect_glossary, extract_doc, extract_glossaries, extract_html_text,
-    extract_internal_references, extract_pdf, extract_quoted_term_usages, extract_references,
-    extract_term_usages, extract_term_usages_with_lowercase, find_admitted_furniture,
-    find_glossary_provision, invalidated_fractions, parse_dcg, parse_itf_dcg, repair_article_dates,
-    repair_partial_repeals, repeal_placeholders, unread_fractions, validate_corpus,
+    DiputadosOptions, GlossaryStyle, audit_pdf, detect_glossary, extract_doc, extract_glossaries,
+    extract_html_text, extract_pdf, find_admitted_furniture, find_glossary_provision,
+    invalidated_fractions, parse_dcg, parse_itf_dcg, repeal_placeholders, unread_fractions,
 };
 use lex_source::{
     SourceConfig, SourceFormat, discover, fetch, fetch_annex, fetch_formal, load_batch_manifest,
@@ -1662,7 +1672,7 @@ fn evaluate_expected_edges(
                 format!(
                     "{}:article:{}",
                     source.instrument_id,
-                    lex_parse::labels::canonical_slug(article)
+                    lex_grammar::labels::canonical_slug(article)
                 )
             });
             let resolved = source
@@ -3155,7 +3165,7 @@ fn extract_instrument_references(
         .iter()
         .filter(|external| external.historical_target_unavailable)
         .filter_map(|external| {
-            Some(lex_parse::HistoricalTarget {
+            Some(HistoricalTarget {
                 id: external.instrument_id.clone(),
                 successor_id: external.successor_instrument_id.clone()?,
                 until: NaiveDate::parse_from_str(external.historical_until.as_deref()?, "%Y-%m-%d")
@@ -3184,14 +3194,14 @@ fn extract_instrument_references(
         &options,
         &known_targets,
     )?;
-    lex_parse::apply_outdated_reference_approvals(
+    apply_outdated_reference_approvals(
         &mut references,
         provisions,
         &context.config.outdated_reference_approvals,
         &instrument.source_sha256,
         &known_targets,
     )?;
-    lex_parse::apply_legal_operator_reviews(
+    apply_legal_operator_reviews(
         &mut references,
         provisions,
         &context.config.legal_operator_reviews,
@@ -4546,7 +4556,7 @@ fn run_temporal_import(
     Ok(())
 }
 
-/// Deterministic, no-model temporal classification (`lex_parse::temporal_derive`).
+/// Deterministic, no-model temporal classification (`lex_analysis::temporal_derive`).
 /// Reports what it resolved or skipped and why; never fails the pipeline --
 /// a skipped instrument is an expected, common outcome, not an error.
 fn run_derive_command(

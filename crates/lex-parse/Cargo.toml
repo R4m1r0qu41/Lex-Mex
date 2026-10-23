@@ -10,6 +10,7 @@ chrono.workspace = true
 lex-analysis = { path = "../lex-analysis" }
 lex-core = { path = "../lex-core" }
 lex-grammar = { path = "../lex-grammar" }
+lex-link = { path = "../lex-link" }
 pdf-inspector = "=0.1.7"
 regex.workspace = true
 serde.workspace = true

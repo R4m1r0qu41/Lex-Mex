@@ -26,9 +26,6 @@
 
 use std::sync::LazyLock;
 
-pub use crate::usages::{
-    extract_quoted_term_usages, extract_term_usages, extract_term_usages_with_lowercase,
-};
 use anyhow::{Context, Result, bail};
 use lex_core::{
     Basis, DefinedTerm, FRACTION_QUALIFIER_PATTERN, GLOSSARY_STRATEGY_VERSION,
@@ -37,6 +34,9 @@ use lex_core::{
     normalize_fraction_label,
 };
 use lex_grammar::is_connector;
+pub use lex_link::usages::{
+    extract_quoted_term_usages, extract_term_usages, extract_term_usages_with_lowercase,
+};
 use regex::Regex;
 
 #[derive(Debug, Clone, Copy, PartialEq, Eq)]

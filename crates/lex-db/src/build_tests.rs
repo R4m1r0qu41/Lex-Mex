@@ -384,3 +384,116 @@ fn raw_glossary_null_is_not_erased_before_schema_validation() {
             .is_none()
     );
 }
+
+const COMPILED_INPUTS: &[(&str, &[u8])] = include!(concat!(env!("OUT_DIR"), "/builder_inputs.rs"));
+
+const NEW_CRATES: [&str; 3] = ["lex-grammar", "lex-analysis", "lex-link"];
+
+/// Commit a change on top of a faithful builder repository and return the
+/// reason `check_builder` gives for rejecting it.
+fn builder_rejection(change: impl FnOnce(&Path)) -> String {
+    let (temp, pinned) = repository();
+    let root = temp.path();
+    check_builder(&GitInput::new(root, &pinned).unwrap()).expect("control: unchanged builder");
+    change(root);
+    let changed = commit(root);
+    check_builder(&GitInput::new(root, &changed).unwrap())
+        .expect_err("a builder commit that differs from the compiled inputs must be rejected")
+        .to_string()
+}
+
+fn compiled_bytes(path: &str) -> Vec<u8> {
+    COMPILED_INPUTS
+        .iter()
+        .find(|(p, _)| *p == path)
+        .unwrap_or_else(|| panic!("{path} is not in the compiled inventory"))
+        .1
+        .to_vec()
+}
+
+#[test]
+fn unchanged_builder_commit_with_notes_is_accepted() {
+    let (temp, pinned) = repository();
+    let root = temp.path();
+    check_builder(&GitInput::new(root, &pinned).unwrap()).unwrap();
+    // Only Rust and JSON sources are pinned; a note beside them is not a source.
+    for krate in NEW_CRATES {
+        save(
+            root,
+            &format!("crates/{krate}/src/NOTES.md"),
+            b"not a source",
+        );
+    }
+    let noted = commit(root);
+    check_builder(&GitInput::new(root, &noted).unwrap()).unwrap();
+}
+
+#[test]
+fn changed_source_in_each_new_crate_is_rejected_with_its_path() {
+    let builder_files: Vec<&str> = BUILDER_FILES.iter().map(|(p, _)| *p).collect();
+    for krate in NEW_CRATES {
+        let prefix = format!("crates/{krate}/src/");
+        // A file only the compiled-inventory check covers, and the one
+        // hard-coded in BUILDER_FILES: each must be rejected for its own path.
+        let inventory_only = COMPILED_INPUTS
+            .iter()
+            .map(|(p, _)| *p)
+            .find(|p| p.starts_with(&prefix) && !builder_files.contains(p))
+            .unwrap_or_else(|| panic!("{krate} has no inventory-only source"));
+        let pinned_lib = format!("{prefix}lib.rs");
+        for (path, reason) in [
+            (
+                inventory_only.to_owned(),
+                "compiled dependency differs from builder commit",
+            ),
+            (pinned_lib, "executing builder differs from builder commit"),
+        ] {
+            let mut bytes = compiled_bytes(&path);
+            bytes.extend_from_slice(b"\n// tampered\n");
+            let message = builder_rejection(|root| save(root, &path, &bytes));
+            assert!(message.contains(reason), "{krate}: {message}");
+            assert!(message.contains(&path), "{krate}: {message}");
+        }
+    }
+}
+
+#[test]
+fn changed_manifest_in_each_new_crate_is_rejected_with_its_path() {
+    for krate in NEW_CRATES {
+        let path = format!("crates/{krate}/Cargo.toml");
+        let mut bytes = compiled_bytes(&path);
+        bytes.extend_from_slice(b"\n# tampered\n");
+        let message = builder_rejection(|root| save(root, &path, &bytes));
+        assert!(
+            message.contains("compiled dependency differs"),
+            "{krate}: {message}"
+        );
+        assert!(message.contains(&path), "{krate}: {message}");
+    }
+}
+
+#[test]
+fn every_pinned_directory_has_a_rebuild_trigger_and_an_inventory() {
+    // Cargo rebuild behaviour is separate from the stale-binary mismatches above:
+    // those hold a binary fixed and vary the claimed commit; this checks that the
+    // build script is told to rerun when a pinned directory gains a file.
+    let script = include_str!("../build.rs");
+    assert!(script.contains("for dir in dirs {") && script.contains("rerun-if-changed={}"));
+    let dirs: &[&str] = include!(concat!(env!("OUT_DIR"), "/builder_dirs.rs"));
+    for krate in NEW_CRATES {
+        let dir = format!("crates/{krate}/src");
+        assert!(
+            dirs.contains(&dir.as_str()),
+            "{dir} is not a pinned directory"
+        );
+        for file in [
+            format!("{dir}/lib.rs"),
+            format!("crates/{krate}/Cargo.toml"),
+        ] {
+            assert!(
+                COMPILED_INPUTS.iter().any(|(p, _)| *p == file),
+                "{file} is not in the compiled inventory"
+            );
+        }
+    }
+}

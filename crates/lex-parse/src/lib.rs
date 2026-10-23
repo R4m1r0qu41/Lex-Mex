@@ -32,10 +32,8 @@ pub use terms::{
 };
 
 mod extraction;
-mod references;
 mod reform;
 mod standard_validate;
-mod usages;
 pub use extraction::{Extraction, extract_doc, extract_pdf};
 pub use lex_analysis::temporal_derive;
 pub use lex_analysis::{
@@ -44,7 +42,7 @@ pub use lex_analysis::{
 };
 pub(crate) use lex_analysis::{initial_repeals, initial_temporal_status};
 pub(crate) use lex_grammar::{collapse_whitespace, slug, spanish_date};
-pub use references::{
+pub use lex_link::{
     HistoricalTarget, InstrumentContextPolicy, ReferenceOptions, extract_internal_references,
     extract_references,
 };
