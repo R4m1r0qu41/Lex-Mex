@@ -1,5 +1,5 @@
 import test from 'node:test';import assert from 'node:assert/strict';import {mkdtemp,writeFile,mkdir,rm} from 'node:fs/promises';import {tmpdir} from 'node:os';import {join} from 'node:path';
-import {normalize,searchDocuments,safeRelative,releaseId,referencesFor,navigation,selectionUrl,indexGroup,instrumentMarkdown,chunkOrder,activeIndex,historyMode,citation,articleCopy,followState,matchSummary,estimateHeight,sourceDecision} from './reader-core.mjs';import {createReaderServer} from './serve.mjs';
+import {normalize,searchDocuments,safeRelative,releaseId,referencesFor,navigation,selectionUrl,indexGroup,instrumentMarkdown,provisionMarkdown,headingPath,textScales,estimateMetrics,chunkOrder,activeIndex,historyMode,citation,articleCopy,followState,matchSummary,estimateHeight,sourceDecision} from './reader-core.mjs';import {createReaderServer} from './serve.mjs';
 const id='a'.repeat(64);const document={slug:'test',short_name:'LEY',provisions:[{id:'one',label:'Artículo 1',text:'Protección del crédito'},{id:'two',label:'Artículo 2 Bis',text:'Otra norma'}],references:[{source_provision_id:'one',target_provision_id:'two',resolution_status:'resolved'},{source_provision_id:'one',target_provision_id:'outside',resolution_status:'resolved'}]};
 test('search, neighbors and pinned share URLs preserve suffix identities',()=>{
   assert.equal(normalize('CRÉDITO'),'credito');assert.equal(searchDocuments([document],'credito')[0].provision.id,'one');assert.equal(searchDocuments([document],'2 bis')[0].provision.id,'two');assert.equal(navigation(document,'one').next.id,'two');
@@ -11,9 +11,22 @@ test('Markdown preserves exact Unicode, whitespace and literal markup across art
  const doc={official_title:'Norma de prueba',provisions:[{label:'Artículo 1',text},{label:'Anexo 1',text:'Última línea\n'}]};
  assert.equal(instrumentMarkdown(doc),'# Norma de prueba\n\n## Artículo 1\n\n'+text+'\n\n## Anexo 1\n\nÚltima línea\n');
  const p={provision_type:'article',heading_context:{title:'Título II',chapter:'Capítulo III'}};
- assert.equal(indexGroup({short_name:'LEY'},p),'Artículos · Título II · Capítulo III');
+ assert.equal(indexGroup({short_name:'LEY'},p),'Título II · Capítulo III');
  assert.equal(indexGroup({short_name:'LEY'},p,true),'LEY');
  assert.equal(indexGroup({}, {provision_type:'annex',heading_context:{}}),'Anexos');
+ assert.equal(indexGroup({},{provision_type:'article',heading_context:{title:null,chapter:null}}),'Artículos');
+ assert.equal(indexGroup({},{provision_type:'transitory',heading_context:{title:'Título II'}}),'Transitorios · Título II');
+ assert.equal(indexGroup({},{provision_type:'article',heading_context:{chapter:'Capítulo I',title:'Título QUINTO',section:'Sección Primera'}}),'Título QUINTO · Capítulo I');
+});
+test('heading path follows the hierarchy whatever the key order, and Markdown carries it with both exports',()=>{
+ assert.equal(headingPath({chapter:'Capítulo I',title:'Título QUINTO'}),'Título QUINTO · Capítulo I');
+ assert.equal(headingPath({apartado:'Apartado A',chapter:'Capítulo II',section:'Sección Primera',title:null}),'Capítulo II · Sección Primera · Apartado A');
+ assert.equal(headingPath(undefined),'');assert.equal(headingPath({title:'Título I'},['chapter']),'');
+ const a={label:'Artículo 103',text:'Uno.',heading_context:{chapter:'Capítulo I',title:'Título QUINTO'}},b={label:'Artículo 104',text:'Dos ñ.',heading_context:{title:'Título QUINTO',chapter:'Capítulo I'}};
+ const c={label:'Artículo 105',text:'Tres.',heading_context:{title:'Título QUINTO',chapter:'Capítulo II'}},d={label:'Transitorio',text:'Fin.',heading_context:{}};
+ // A heading line appears once per change of path; provisions without a heading stay at the top level.
+ assert.equal(instrumentMarkdown({official_title:'Ley',provisions:[a,b,c,d]}),'# Ley\n\n## Título QUINTO · Capítulo I\n\n### Artículo 103\n\nUno.\n\n### Artículo 104\n\nDos ñ.\n\n## Título QUINTO · Capítulo II\n\n### Artículo 105\n\nTres.\n\n## Transitorio\n\nFin.');
+ assert.equal(provisionMarkdown(b),'## Título QUINTO · Capítulo I\n\n### Artículo 104\n\nDos ñ.');assert.equal(provisionMarkdown(d),'## Transitorio\n\nFin.');
 });
 test('reject unsafe paths and unpinned release identities',()=>{for(const path of ['../secret','https://evil','/absolute','file%2fsecret','a\\b'])assert.throws(()=>safeRelative(path));assert.throws(()=>releaseId('latest'));assert.equal(safeRelative('mx/test/index.md'),'mx/test/index.md');});
 test('preview serves text and PDF byte ranges and rejects wrong routes and methods',async t=>{
@@ -44,6 +57,8 @@ test('only deliberate navigation adds history entries',()=>{
 test('article copy is the exact canonical body and citations name the consulted provision',()=>{
  const text='  Texto con\r\nsaltos\n\n y <literal> & espacios \u00a0finales  \n';assert.equal(articleCopy({text}),text);
  assert.equal(citation({short_name:'LRITF'},{label:'Artículo 4'}),'LRITF, artículo 4');assert.equal(citation({short_name:'LIC'},{label:'Artículo 112 Quintus'}),'LIC, artículo 112 Quintus');
+ assert.equal(citation({short_name:'LIC',official_title:'Ley de Instituciones de Crédito'},{label:'Artículo 104'},true),'Ley de Instituciones de Crédito, artículo 104');
+ assert.equal(citation({short_name:'LIC',official_title:'Ley de Instituciones de Crédito'},{label:'Artículo 104'},false),'LIC, artículo 104');
  assert.equal(matchSummary(1),'1 disposición coincidente');assert.equal(matchSummary(3),'3 disposiciones coincidentes');
 });
 test('PDF following is reported unavailable and never infers a page',()=>{
@@ -51,6 +66,12 @@ test('PDF following is reported unavailable and never infers a page',()=>{
 });
 test('placeholder height grows with body length and counts every paragraph line',()=>{
  assert.ok(estimateHeight({text:'x'.repeat(5000)})>estimateHeight({text:'x'.repeat(100)}));assert.equal(estimateHeight({text:'a\n\nb'}),estimateHeight({text:'a\nb\nc'}));assert.ok(estimateHeight({text:''})>0);
+});
+test('a smaller text scale estimates shorter placeholder heights, so unrendered articles are not over-reserved',()=>{
+ assert.equal(textScales.large,1);assert.ok(textScales.small<1&&textScales.small>0);
+ const large=estimateMetrics(textScales.large),small=estimateMetrics(textScales.small);assert.deepEqual(large,{charsPerLine:52,lineHeight:34});
+ assert.ok(small.charsPerLine>large.charsPerLine&&small.lineHeight<large.lineHeight);
+ const provision={text:'x'.repeat(4000)};assert.ok(estimateHeight(provision,small)<estimateHeight(provision,large));
 });
 test('passive scrolling never swaps the open PDF; deliberate navigation does',()=>{
  assert.equal(sourceDecision('entry',null,'a.pdf'),'swap');assert.equal(sourceDecision('scroll',{pdf:'a.pdf'},'a.pdf'),'keep');

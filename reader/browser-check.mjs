@@ -19,6 +19,9 @@ const probes=`(()=>{
   window.__errors=[];addEventListener('error',e=>window.__errors.push(String(e.message||e)));addEventListener('unhandledrejection',e=>window.__errors.push(String(e.reason)));
   window.__pushes=[];const push=history.pushState.bind(history);history.pushState=(...args)=>{window.__pushes.push(String(args[2]));return push(...args);};
   Object.defineProperty(navigator,'clipboard',{configurable:true,value:{writeText:async text=>{window.__copied=text;}}});
+  // Exports and the exact-text tab go through blob URLs; record them (and swallow window.open) so scenarios can read what the reader produced.
+  window.__blobs=[];{const create=URL.createObjectURL.bind(URL);URL.createObjectURL=blob=>{const href=create(blob);window.__blobs.push({href,type:blob.type,blob});return href;};}
+  window.__opened=[];window.open=(href,target)=>{window.__opened.push({href,target});return null;};
   const col=()=>document.getElementById('article');
   const nodes=()=>[...document.querySelectorAll('#flow > article.provision')];
   window.__probe={
@@ -351,6 +354,65 @@ export async function runChecks({publication,chrome=defaultChrome,anchoring=true
           &&movedTruth.id===moved.current&&moved.label===movedTruth.label&&moved.urlProvision===movedTruth.id&&movedCopy===movedTruth.text&&intentsAfterMove===0
           &&renav.label===p.label&&renavTruth.id===p.id&&renav.current===p.id&&renav.urlProvision===p.id&&renavCopy===p.text&&Math.abs(renavOffset-8)<=3&&renavIdle===0&&await b.page.eval(mark('reader:hold-recovery-exhausted'))===1,
           {pendingFill,stillPending,completion,requested:p.label,readingLine:truth.label,ui:ui.label,index:ui.current===truth.id,urlProvision:ui.urlProvision===truth.id,copyExact:copy===truth.text,notice,exhaustedMarks:exhausted,intentMarks:intents,scrollsWhileIdle:idle,afterReaderScroll:{truth:movedTruth.label,ui:moved.label,copyExact:movedCopy===movedTruth.text,intentMarks:intentsAfterMove},afterNewNavigation:{ui:renav.label,truth:renavTruth.label,copyExact:renavCopy===p.text,offsetBelowBar:renavOffset,scrollsWhileIdle:renavIdle}});
+      }finally{await b.close();}
+    }
+    // 28. View options and exports (R7): citation name toggle (remembered, shared with the hover window), exact article copy
+    // unchanged by it, heading path in the middle column, index group and both Markdown exports, the exact-text tab with its
+    // encoding stated, and the right-panel structure.
+    {
+      const b=await launch(chrome,{anchoring});const p=find('Artículo 104'),index=lic.indexOf(p),path=`${p.heading_context.title} · ${p.heading_context.chapter}`,title=instruments.lic.official_title;
+      const first=lic.find(q=>q.heading_context.title===p.heading_context.title&&q.heading_context.chapter===p.heading_context.chapter);try{ // the instrument export prints a heading once per path, before its first article
+        await b.page.viewport(1440,900);await b.page.send('Page.navigate',{url:at('lic',p.id)});await settle(b.page);
+        const short=await b.page.eval("__probe.copy('copy-citation')");await b.page.eval("document.getElementById('name-toggle').click()");
+        const full=await b.page.eval("__probe.copy('copy-citation')"),exact=await b.page.eval("__probe.copy('copy-text')");
+        await b.page.send('Page.navigate',{url:at('lic',p.id)});await settle(b.page);const remembered=await b.page.eval("__probe.copy('copy-citation')");
+        const source=lic.find(q=>instruments.lic.references.some(r=>r.source_provision_id===q.id&&r.resolution_status==='resolved'&&lic.some(t=>t.id===r.target_provision_id)));
+        await b.page.send('Page.navigate',{url:at('lic',source.id)});await settle(b.page);
+        const opened=await b.page.eval(`(()=>{const a=document.querySelector('#flow article[data-index="${lic.indexOf(source)}"] .article-text a');if(!a)return false;a.click();return !document.getElementById('comparison').hidden;})()`);
+        const heading=await b.page.eval("document.getElementById('comparison-title').textContent"),targetLabel=heading.split(' · ').slice(1).join(' · ');
+        const target=Object.values(instruments).flatMap(d=>d.provisions.map(q=>({q,d}))).find(({q,d})=>`${d.short_name} · ${q.label}`===heading);
+        const hoverCopy=await b.page.eval("__probe.copy('comparison-copy')"),hoverCite=await b.page.eval("__probe.copy('comparison-citation')");
+        await b.page.eval("document.getElementById('close-comparison').click()");await b.page.send('Page.navigate',{url:at('lic',p.id)});await settle(b.page);
+        await b.page.eval("document.getElementById('markdown-link').click()");const md=await b.page.eval("(async()=>window.__blobs.at(-1).blob.text())()");
+        await b.page.eval("document.getElementById('download-instrument').click()");const whole=await b.page.eval("(async()=>window.__blobs.at(-1).blob.text())()");
+        await b.page.eval("document.getElementById('text-link').click()");
+        const tab=await b.page.eval("(async()=>{const o=window.__opened.at(-1);const blob=window.__blobs.find(x=>x.href===o.href);return {type:blob.type,text:await blob.blob.text(),target:o.target,count:window.__opened.length};})()");
+        const group=await b.page.eval(`(()=>{let n=document.querySelector('#provision-list button[aria-current="true"]');while(n&&!n.classList.contains('group-heading'))n=n.previousElementSibling;return n?n.textContent:null;})()`);
+        const middle=await b.page.eval(`document.querySelector('#flow article[data-index="${index}"] .heading-context').textContent`);
+        const panel=await b.page.eval(`({verifyInside:Boolean(document.querySelector('.source-bottom details #verify-pdf')),reformVisible:!document.getElementById('reform-date').closest('details'),reform:document.getElementById('reform-date').textContent,agent:(a=>({target:a.target,rel:a.rel,text:a.textContent}))(document.getElementById('agent-index')),textLink:document.getElementById('text-link').target})`);
+        await b.page.eval("document.getElementById('name-toggle').click()");const back=await b.page.eval("__probe.copy('copy-citation')");
+        await errors(b.page,'view options');
+        record('view options and exports: citation toggle, hover copy, headings in index/middle/Markdown, exact-text tab, right panel',
+          short==='LIC, artículo 104'&&full===`${title}, artículo 104`&&exact===p.text&&remembered===full&&back===short&&opened&&target&&hoverCopy===target.q.text&&hoverCite===`${target.d.official_title}, ${target.q.label.charAt(0).toLowerCase()}${target.q.label.slice(1)}`
+          &&md===`## ${path}\n\n### ${p.label}\n\n${p.text}`&&whole.startsWith(`# ${title}\n\n`)&&whole.includes(`## ${path}\n\n### ${first.label}\n\n${first.text}`)&&whole.includes(`\n\n### ${p.label}\n\n${p.text}`)&&(whole.match(new RegExp(`\n## ${path.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')}\n`,'g'))||[]).length===1
+          &&tab.type==='text/plain;charset=utf-8'&&tab.text===p.text&&tab.target==='_blank'&&group===path&&middle===path
+          &&panel.verifyInside&&panel.reformVisible&&panel.reform.includes(instruments.lic.latest_reform_date)&&panel.agent.target==='_blank'&&panel.agent.text.includes('llms.txt')&&panel.textLink==='_blank',
+          {short,full,exact:exact===p.text,remembered:remembered===full,hover:{heading,copyExact:target?hoverCopy===target.q.text:null,cite:hoverCite},markdownStart:md.slice(0,80),wholeHasHeading:whole.includes(`## ${path}\n\n### ${first.label}`),firstInPath:first.label,tab:{type:tab.type,exact:tab.text===p.text,target:tab.target},group,middle,panel});
+      }finally{await b.close();}
+    }
+    // 29. Text size toggle (R7) at 390px with fonts blocked: the article at the reading line stays there (label, index, URL and
+    // exact copy agree with the physical reading line), no hold is exhausted, no correction loop runs, the preference
+    // survives a reload, and toggling back works the same.
+    {
+      const b=await launch(chrome,{anchoring,fonts:'blocked'});const p=find('Artículo 193'),index=lic.indexOf(p);try{
+        const size=()=>b.page.eval(`parseFloat(getComputedStyle(document.querySelector('#flow article[data-index="${index}"] .article-text')).fontSize)`);
+        const state=async(label,expectRatio,base)=>{
+          await sleep(1800);const ui=await b.page.eval('__probe.ui()'),truth=lic[await b.page.eval('__probe.truth()')],copy=await b.page.eval("__probe.copy('copy-text')");
+          const offset=Math.round(await b.page.eval(`__probe.top(${index})-document.getElementById('active-bar').offsetHeight`)),px=await size();
+          const exhausted=await b.page.eval(mark('reader:hold-exhausted'))+await b.page.eval(mark('reader:hold-recovery-exhausted')),intents=await b.page.eval(mark('reader:intent'));
+          const idleStart=await b.page.eval('window.__scrolls');await sleep(1500);const idle=await b.page.eval('window.__scrolls')-idleStart;
+          const ok=ui.label===p.label&&truth.id===p.id&&ui.current===p.id&&ui.urlProvision===p.id&&copy===p.text&&Math.abs(offset-8)<=3&&exhausted===0&&intents===0&&idle===0&&Math.abs(px/base-expectRatio)<0.02;
+          return {label,ok,ui:ui.label,truth:truth.label,copyExact:copy===p.text,offsetBelowBar:offset,fontPx:px,ratio:Math.round(px/base*100)/100,exhaustedMarks:exhausted,intentMarks:intents,scrollsWhileIdle:idle};
+        };
+        await b.page.viewport(390,844);await b.page.send('Page.navigate',{url:at('lic',p.id)});await settle(b.page);const base=await size();
+        const steps=[await state('large (start)',1,base)];
+        let settled=await b.page.eval(mark('reader:target-settled'));await b.page.eval("document.getElementById('size-toggle').click()");
+        await b.page.until(`${mark('reader:target-settled')}>${settled}`,10000);steps.push(await state('small',0.65,base));
+        await b.page.send('Page.navigate',{url:at('lic',p.id)});await settle(b.page);steps.push(await state('small after reload (remembered)',0.65,base));
+        settled=await b.page.eval(mark('reader:target-settled'));await b.page.eval("document.getElementById('size-toggle').click()");
+        await b.page.until(`${mark('reader:target-settled')}>${settled}`,10000);steps.push(await state('large again',1,base));
+        await errors(b.page,'text size toggle');
+        record('text size toggle at 390px keeps the reading-line article, is remembered, and reverses',steps.every(step=>step.ok),{steps});
       }finally{await b.close();}
     }
     // 25. Default entry (first provision, no provision in the URL) and a selector switch to another instrument's first

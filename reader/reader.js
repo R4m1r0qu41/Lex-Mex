@@ -1,9 +1,14 @@
-import {searchDocuments,safeRelative,releaseId,referencesFor,statusLabels,reviewLabels,selectionUrl,indexGroup,instrumentMarkdown,chunkOrder,activeIndex,historyMode,citation,articleCopy,followState,matchSummary,estimateHeight,sourceDecision} from './reader-core.mjs';
+import {searchDocuments,safeRelative,releaseId,referencesFor,statusLabels,reviewLabels,selectionUrl,indexGroup,instrumentMarkdown,provisionMarkdown,headingPath,textScales,estimateMetrics,chunkOrder,activeIndex,historyMode,citation,articleCopy,followState,matchSummary,estimateHeight,sourceDecision} from './reader-core.mjs';
 const $=id=>document.getElementById(id);
 const base=new URL(document.querySelector('meta[name="lex-mex-base"]').content,location.origin);
 const compact=matchMedia('(max-width: 1100px)');
 let release,manifest,documents=[],selected,comparison,origin,observer,flowToken=0,lockUntil=0,replaceTimer,userScrolled=false,settleTarget=null,loading=false,frame=0,trailing,held=null,realigns=0,nudges=0,recoveries=0,settledTimer,expectedTop=0;
 const flow={document:null,nodes:[],filled:new Set()};
+// View preferences live in this browser only; storage can be unavailable, and the Reader then uses the defaults.
+function pref(key,fallback){try{return localStorage.getItem(`lex-mex:${key}`)??fallback;}catch{return fallback;}}
+function savePref(key,value){try{localStorage.setItem(`lex-mex:${key}`,value);}catch{}}
+const prefs={size:textScales[pref('size','large')]?pref('size','large'):'large',fullName:pref('name','short')==='full'};
+document.documentElement.style.setProperty('--text-scale',String(textScales[prefs.size]));
 const state={pdfUrl:null,source:null,offer:null};
 function url(path){return new URL(safeRelative(path),base).href;}
 function inRelease(path){return url(`releases/${release}/${safeRelative(path)}`);}
@@ -102,8 +107,8 @@ function buildFlow(document_){
   flow.document=document_;flow.nodes=[];flow.filled=new Set();observer?.disconnect();cancelAnimationFrame(frame);frame=0;clearTimeout(trailing);$('flow').replaceChildren();
   observer=new IntersectionObserver(schedule,{root:$('article'),rootMargin:'0px 0px -50% 0px'});
   document_.provisions.forEach((provision,index)=>{
-    const node=element('article','provision');node.dataset.index=String(index);node.style.containIntrinsicSize=`auto ${estimateHeight(provision)}px`;node.setAttribute('aria-labelledby',`h-${index}`);
-    const heading=Object.values(provision.heading_context||{}).filter(Boolean).join(' · ');
+    const node=element('article','provision');node.dataset.index=String(index);node.style.containIntrinsicSize=`auto ${estimateHeight(provision,estimateMetrics(textScales[prefs.size]))}px`;node.setAttribute('aria-labelledby',`h-${index}`);
+    const heading=headingPath(provision.heading_context);
     if(heading)node.append(element('p','heading-context',heading));
     const title=element('h2','',provision.label);title.id=`h-${index}`;node.append(title);
     flow.nodes.push(node);$('flow').append(node);observer.observe(node);
@@ -212,6 +217,26 @@ function track(){
   if(index>=0&&index!==selected.index)activate(flow.document,index,'scroll');
 }
 
+// Type size changes every article's height while one is held, so it re-holds the article at the reading line through the
+// ordinary navigation path (go) after the placeholder sizes are recomputed for the new scale.
+function paintToggles(){
+  $('size-toggle').textContent=`Texto: ${prefs.size==='small'?'pequeño':'grande'}`;$('size-toggle').title='Cambiar el tamaño del texto';
+  $('name-toggle').textContent=`Ley: ${prefs.fullName?'completa':'abreviada'}`;$('name-toggle').title='Cambiar el nombre de la ley en Copiar cita';
+}
+function setSize(size){
+  prefs.size=size;savePref('size',size);document.documentElement.style.setProperty('--text-scale',String(textScales[size]));paintToggles();
+  const metrics=estimateMetrics(textScales[size]);flow.nodes.forEach((node,index)=>{node.style.containIntrinsicSize=`auto ${estimateHeight(flow.document.provisions[index],metrics)}px`;});
+  if(selected)go(selected.document,selected.provision,'resize');
+}
+function setFullName(full){prefs.fullName=full;savePref('name',full?'full':'short');paintToggles();}
+// The raw .txt keeps its URL for agents and modified clicks; a plain click opens the exact text with its encoding stated,
+// because a host may serve text/plain without a charset and browsers then guess Latin-1.
+function openExactText(text){
+  const href=URL.createObjectURL(new Blob([text],{type:'text/plain;charset=utf-8'}));
+  const tab=window.open(href,'_blank');if(tab)tab.opener=null;
+  setTimeout(()=>URL.revokeObjectURL(href),600000);
+}
+
 function activate(document_,index,trigger){
   const provision=document_.provisions[index];
   selected={document:document_,provision,index};
@@ -268,12 +293,15 @@ async function init(){
   $('release-tag').textContent=`Publicación ${release.slice(0,12)}`;$('manifest-link').href=inRelease('manifest.json');
   $('instrument').addEventListener('change',()=>{const document_=documents.find(d=>d.slug===$('instrument').value);$('search').value='';go(document_,document_.provisions[0],'instrument');});
   $('search').addEventListener('input',renderIndex);$('provision-list').addEventListener('keydown',indexKeys);
-  $('close-comparison').onclick=closeComparison;$('comparison-citation').onclick=()=>copy(citation(comparison.document,comparison.provision),'Cita copiada.','No se pudo copiar la cita.');
+  $('close-comparison').onclick=closeComparison;$('comparison-citation').onclick=()=>copy(citation(comparison.document,comparison.provision,prefs.fullName),'Cita copiada.','No se pudo copiar la cita.');
+  $('comparison-copy').onclick=()=>copy(articleCopy(comparison.provision),'Artículo copiado: texto exacto completo.','No se pudo copiar. Selecciona el texto o abre el artículo principal.');
   $('show-comparison').onclick=()=>{const target=comparison;closeComparison();go(target.document,target.provision,'reference');};
   $('share').onclick=()=>{const href=selectionUrl(location.href,release,selected.document,selected.provision).href;copy(href,'Enlace copiado con la publicación seleccionada.',href);};
   $('copy-text').onclick=()=>copy(articleCopy(selected.provision),'Artículo copiado: texto exacto completo.','No se pudo copiar. Selecciona el texto del artículo o descarga Texto exacto.');
-  $('copy-citation').onclick=()=>copy(citation(selected.document,selected.provision),'Cita copiada.','No se pudo copiar la cita.');
-  $('markdown-link').addEventListener('click',event=>{event.preventDefault();downloadMarkdown(selected.provision.text,`${selected.document.slug}-${selected.provision.markdown_path}`);});
+  $('copy-citation').onclick=()=>copy(citation(selected.document,selected.provision,prefs.fullName),'Cita copiada.','No se pudo copiar la cita.');
+  $('name-toggle').onclick=()=>setFullName(!prefs.fullName);$('size-toggle').onclick=()=>setSize(prefs.size==='small'?'large':'small');paintToggles();
+  $('markdown-link').addEventListener('click',event=>{event.preventDefault();downloadMarkdown(provisionMarkdown(selected.provision),`${selected.document.slug}-${selected.provision.markdown_path}`);});
+  $('text-link').addEventListener('click',event=>{if(event.button!==0||event.metaKey||event.ctrlKey||event.shiftKey||event.altKey)return;event.preventDefault();openExactText(selected.provision.text);});
   $('download-instrument').onclick=()=>downloadMarkdown(instrumentMarkdown(selected.document),`${selected.document.slug}.md`);
   $('about-open').onclick=()=>$('about-dialog').showModal();$('about-close').onclick=()=>$('about-dialog').close();
   $('index-open').onclick=event=>openSheet('index-sheet',event.currentTarget);$('source-open').onclick=event=>openSheet('source-sheet',event.currentTarget);

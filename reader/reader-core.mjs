@@ -18,14 +18,25 @@ export function navigation(document,id) {const index=document.provisions.findInd
 export function selectionUrl(current,release,document,provision) {const url=new URL(current);url.search='';url.searchParams.set('release',releaseId(release));url.searchParams.set('instrument',document.slug);url.searchParams.set('provision',provision.id);return url;}
 
 // Legal text remains literal UTF-8; presentation adds no escapes or links to it.
-export function instrumentMarkdown(document) {
-  return `# ${document.official_title}\n\n`+document.provisions.map(p=>`## ${p.label}\n\n${p.text}`).join('\n\n');
+/** Heading levels in hierarchy order; the JSON key order of `heading_context` is not meaningful. */
+export const headingLevels=['title','chapter','section','apartado'];
+export function headingPath(context,levels=headingLevels) {return levels.map(level=>(context||{})[level]).filter(Boolean).join(' · ');}
+/** One provision as Markdown: its heading path (when it differs from `previous`) above the label and the exact text. */
+export function provisionMarkdown(provision,previous='') {
+  const path=headingPath(provision.heading_context);
+  return `${path&&path!==previous?`## ${path}\n\n`:''}${path?'###':'##'} ${provision.label}\n\n${provision.text}`;
 }
+export function instrumentMarkdown(document) {
+  let previous='';
+  return `# ${document.official_title}\n\n`+document.provisions.map(p=>{const markdown=provisionMarkdown(p,previous);previous=headingPath(p.heading_context);return markdown;}).join('\n\n');
+}
+/** Articles under a heading are grouped by that heading alone; other kinds keep their name. */
 export function indexGroup(document,provision,searching=false) {
   if(searching)return document.short_name;
+  const path=headingPath(provision.heading_context,['title','chapter']);
+  if(provision.provision_type==='article'&&path)return path;
   const kind={article:'Artículos',transitory:'Transitorios',annex:'Anexos'}[provision.provision_type]||'Disposiciones';
-  const headings=provision.heading_context||{};
-  return [kind,headings.title,headings.chapter].filter(Boolean).join(' · ');
+  return [kind,path].filter(Boolean).join(' · ');
 }
 
 // Continuous-reading decisions are pure so they can be tested without a browser.
@@ -45,13 +56,17 @@ export function activeIndex(count,topOf,line) {
 }
 /** Passive scrolling must not add history entries; deliberate navigation does. */
 export function historyMode(trigger) {return ['index','reference','instrument','search'].includes(trigger)?'push':trigger==='popstate'?'none':'replace';}
-export function citation(document,provision) {const label=provision.label;return `${document.short_name}, ${label.charAt(0).toLowerCase()}${label.slice(1)}`;}
+/** `full` names the law by its official title instead of its abbreviation. */
+export function citation(document,provision,full=false) {const label=provision.label;return `${full?document.official_title:document.short_name}, ${label.charAt(0).toLowerCase()}${label.slice(1)}`;}
 /** The complete canonical body, never a rendering of it. */
 export function articleCopy(provision) {return provision.text;}
 /** PDF following stays unavailable: no page anchor has been verified against a retained PDF hash. */
 export function followState() {return {available:false,title:'Lectura independiente',note:'Sin anclaje verificado para este artículo. Navega por el PDF de forma independiente; conservamos su posición.'};}
 export function matchSummary(count) {return count===1?'1 disposición coincidente':`${count} disposiciones coincidentes`;}
 /** Placeholder height for a provision whose body is not yet laid out; real sizes replace it once rendered. */
+export const textScales={large:1,small:0.65};
+/** Estimate parameters for a text scale: a smaller type fits more characters per line and each line is shorter. */
+export function estimateMetrics(scale=1) {return {charsPerLine:Math.round(52/scale),lineHeight:34*scale};}
 export function estimateHeight(provision,{charsPerLine=52,lineHeight=34,chrome=260}={}) {
   const lines=String(provision.text).split('\n').reduce((sum,line)=>sum+Math.max(1,Math.ceil(line.length/charsPerLine)),0);
   return chrome+lines*lineHeight;
