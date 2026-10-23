@@ -8,6 +8,127 @@
   "frozen_binary_sha256": "5c4a3f29acb7e5a1de6766f011a9d48f387178c2f38a592cfb11f2aef03c7730",
   "worktree": "/Users/jr/Dev/lex-mex-parser-split"
  },
+ "binaries": {
+  "B": {
+   "sha256": "5c4a3f29acb7e5a1de6766f011a9d48f387178c2f38a592cfb11f2aef03c7730",
+   "source": "85c41f3898d86737766564fa8d3fd8f6d4ae74a3"
+  },
+  "C1": {
+   "sha256": "90cc26578cabf10a3fa8bf069e238834adff2a18fd8bb5530a839f8f2e0fa7bc",
+   "source": "07cfa5536 (clean tree)"
+  },
+  "C2": {
+   "sha256": "17b09ead9b58436ae453c71c3a1e290cd01b1ee382e40a847c258e9e05c077f1",
+   "source": "fd70e4370 (clean tree)"
+  },
+  "C3": {
+   "sha256": "31e21bc7c7afe31435486a942cad36de44db5dc6712c131f16eddbea83508235",
+   "source": "1250889ce (clean tree)"
+  }
+ },
+ "commits": {
+  "07cfa5536": "G1 candidate (lex-parse split into modules) = source of binary C1",
+  "1250889ce": "G3 candidate B (check_builder unknown-source rejection) = source of binary C3",
+  "5c074e21d": "G3 candidate A (lex-link, consumer migration, pinning, API fixture)",
+  "B_baseline": "85c41f3898d86737766564fa8d3fd8f6d4ae74a3",
+  "f1da6f1e7": "harness extension (supplement, whole-root digest, extra sweep steps)",
+  "fd70e4370": "G2 candidate (lex-grammar, lex-analysis) = source of binary C2",
+  "ff38d1882": "G0 tooling: plan, harness, evidence skeleton"
+ },
+ "coverage_resolution": {
+  "absent_inputs": 113,
+  "blocker_note": "106 instruments have no retained source anywhere searched; they are covered by the whole-corpus sweep (link, derive, validate, export) but not by parse replay. Full parse-replay coverage is therefore NOT claimed.",
+  "blockers": 106,
+  "families_absent": {
+   "diputados": 111,
+   "itf-dcg": 2
+  },
+  "no_adapter_standards": 32,
+  "recovered": 7,
+  "recovered_from": "/Users/jr/Dev/lex-mex/.work/parser-linker-fix-20261016/replay/<slug>/.work/<slug>/ (text and source both matched by hash)",
+  "recovered_slugs": [
+   "lcmopfih",
+   "lftr",
+   "lga",
+   "lgag",
+   "lif-2026",
+   "pef-2026",
+   "reg-lgs-insumos"
+  ],
+  "search": "sha256 match of extracted_text_sha256 and source_sha256 over 77,479 candidate files in main .work, .delta, experiments/github-distillation, lex-mex-db, lex-mex-reader, reader-four and reader-five .work (tool: .work/parser-split/tools/find_absent.py; result .work/parser-split/absent-search.json)",
+  "standards_covered_by": "sweep: standards validate and standards refresh for each NOM",
+  "supplement_inputs_tree_sha256": "45c5a23f6b4b59efb43aa727e9603b851507f0d57e2ab0197854d1c65dda0a29",
+  "supplement_replay_order": [
+   "lcmopfih",
+   "lftr",
+   "lga",
+   "lgag",
+   "lif-2026",
+   "pef-2026",
+   "reg-lgs-insumos"
+  ]
+ },
+ "date_inertness": {
+  "committed_corpus_scan": "no provision effective/start/end date or instrument publication date on or after 2026-10-01 in corpus/mx",
+  "reason": "derive-temporal reads today's UTC date",
+  "retained_B1_derive_outputs": "354 derive-temporal outputs scanned; latest resolved commencement 2026-01-20; none on or after 2026-10-01",
+  "sweep_outputs": "pending: scan sweep-B1 derive outputs once they exist"
+ },
+ "deferred_and_notes": [
+  "lex-parse remains pinned in the DB builder although lex-db no longer links it, so a change to lex-parse alone now changes DB builder identity (conservative choice)",
+  "validate_standard stays in lex-parse (re-runs recognition; see rule inventory PA-09)",
+  "link regression tests stay in lex-parse (they build provisions through parser fixtures; forward dependency, no reverse dev-dependency)",
+  "validate_reference and validate_references are public in lex-analysis for three cross-stage tests",
+  "import-temporal, review open/resolve, codex provider and standards compile are not reached by the harness: their callers use no moved symbol except through paths the harness already exercises (see CLI caller map in the rule inventory commit history and receipt)"
+ ],
+ "dependency_graph_g3": {
+  "lex-analysis": [
+   "lex-core",
+   "lex-grammar"
+  ],
+  "lex-cli": [
+   "lex-analysis",
+   "lex-core",
+   "lex-db",
+   "lex-export",
+   "lex-grammar",
+   "lex-link",
+   "lex-parse",
+   "lex-source"
+  ],
+  "lex-core": [],
+  "lex-db": [
+   "lex-analysis",
+   "lex-core",
+   "lex-grammar"
+  ],
+  "lex-export": [
+   "lex-core"
+  ],
+  "lex-grammar": [],
+  "lex-link": [
+   "lex-core",
+   "lex-grammar"
+  ],
+  "lex-parse": [
+   "lex-analysis",
+   "lex-core",
+   "lex-grammar",
+   "lex-link"
+  ],
+  "lex-source": [
+   "lex-core"
+  ],
+  "source": ".work/parser-split/dep-edges-g3.txt (cargo tree --edges normal,dev --depth 1)"
+ },
+ "found_defects": [
+  {
+   "disposition": "fixed in isolated commit 1250889ce with a negative test that fails when the check is disabled; operator may accept or revert independently",
+   "finding": "a builder commit holding an extra .rs or .json source file in a pinned directory passed provenance although a comment said unknown sources are rejected; only schemas had inventory equality",
+   "id": "D-001",
+   "where": "crates/lex-db/src/build.rs check_builder at baseline B"
+  }
+ ],
  "frozen_inputs": {
   "coverage_manifest": ".work/parser-split/coverage-manifest.json (ignored; hash-bound by inputs_tree_sha256 and replay_order)",
   "input_file_count": 1307,
@@ -26,15 +147,28 @@
  },
  "gates": {
   "G0": "IN_PROGRESS",
-  "G1": "NOT_STARTED",
-  "G2": "NOT_STARTED",
-  "G3": "NOT_STARTED",
+  "G1": "CANDIDATE_AB_PENDING",
+  "G2": "CANDIDATE_AB_PENDING",
+  "G3": "CANDIDATE_AB_PENDING",
   "G4": "NOT_STARTED",
   "G5": "NOT_STARTED"
  },
  "harness": {
-  "note": "retained replay B1 ran an earlier revision of this script whose replay code path is behaviour-identical to the committed one; later revisions add run-level fields (harness_sha256, final_root_tree_sha256, baseline default read from coverage-manifest.json).",
-  "path": "prompts/parser-split-ab.py"
+  "api_fixture": {
+   "compiles_against": [
+    "baseline 85c41f389 (own target dir, disposable archive root)",
+    "candidate"
+   ],
+   "file": "crates/lex-cli/tests/lex_parse_api_compat.rs",
+   "generator": "prompts/parser-split-api-fixture.py",
+   "limit": "proves paths resolve, not signature shape",
+   "negative_control": "a wrong path in a temporary test file failed with E0432 unresolved import",
+   "paths": 126
+  },
+  "caveat": "finish() records harness_sha256 when a run ends, not when it starts. The harness file was edited several times while the baseline runs were in progress (whole-root digest, baseline default, supplement mode, extra sweep steps); each running Python process keeps the revision it loaded at start. retained-B1 started on the earliest revision, before the whole-root digest and baseline-default edits, so result-retained-B1.json carries no harness_sha256 or final_root_tree_sha256; its replay path is the same code as in later revisions. retained-B2 and later runs record the hash of the file as it stood when they finished. Committed revisions are the two hashes above; no uncommitted edit is expected to be live once the last queued run starts (the file is frozen after commit f1da6f1e7).",
+  "path": "prompts/parser-split-ab.py",
+  "sha256_at_f1da6f1e7": "a9a034912b37f0ee99269894fc7df74e30c35bf71370a0d1a3b7ecaf2ed91bd5",
+  "sha256_at_ff38d1882": "f28c7aa40e701f17c142749253e9b3226771c67f1a88bfea2276979b9abdc73a"
  },
  "known_baseline_replay_validation_failures": {
   "note": "deterministic at B; expected to match exactly in C. Cause for the checked cases: adapter-frozen article counts or heading-leak holds recorded in docs/heading-leak-permanent-acceptance-2026-10-21.md; the committed corpus was not re-parsed for these.",
@@ -64,6 +198,60 @@
   "logs": ".work/parser-split/logs/baseline-{1-fmt,2-clippy,3-test}.log",
   "tracked_files_modified_by_tests": false
  },
+ "native_checks_by_tree": {
+  "G1_07cfa5536": {
+   "clippy": 0,
+   "fmt": 0,
+   "tests": {
+    "failed": 0,
+    "ignored": 0,
+    "passed": 419
+   },
+   "validate_ifpe_dcg_2021": "valid; 59 articles, 4 transitories, 115 references, 0 issues",
+   "validate_lritf": "valid; 145 articles, 11 transitories, 126 references, 0 issues"
+  },
+  "G2_fd70e4370": {
+   "clippy": 0,
+   "fmt": 0,
+   "tests": {
+    "failed": 0,
+    "ignored": 0,
+    "passed": 419,
+    "per_crate_units": {
+     "lex_analysis": 28,
+     "lex_grammar": 17,
+     "lex_parse": 238
+    }
+   },
+   "validate_ifpe_dcg_2021": "same",
+   "validate_lritf": "same"
+  },
+  "G3A_5c074e21d": {
+   "clippy": 0,
+   "fmt": 0,
+   "tests": {
+    "failed": 0,
+    "ignored": 0,
+    "passed": 424
+   },
+   "validate_ifpe_dcg_2021": "same",
+   "validate_lritf": "same"
+  },
+  "G3B_1250889ce": {
+   "clippy": 0,
+   "fmt": 0,
+   "tests": {
+    "failed": 0,
+    "ignored": 0,
+    "passed": 425
+   },
+   "validate_ifpe_dcg_2021": "same",
+   "validate_lritf": "same"
+  },
+  "timing_note": "fmt 0-1 s, clippy 3-17 s, tests 26-43 s wall per run, from the raw logs under .work/parser-split/logs/ and cargo 'Finished ... in' lines; the first G1/G2 mech runs did not time every command.",
+  "validation_source_note": "Validation figures are taken from the raw logs and the written validation.json files. Two mech hand-back summaries (G1 and G3) swapped the lritf and ifpe-dcg-2021 labels; the raw logs and files were checked and agree across every tree."
+ },
+ "next_action": "When retained-B2 finishes run: python3 prompts/parser-split-ab.py compare retained-B1 retained-B2 (G0 self-replay). Read each C compare as soon as it lands; stop the queued later runs on drift.",
  "open_items": [
   "113 retained inputs absent: search by extracted_text_sha256 in campaign/ocr-foundry/db .work trees",
   "CLI-to-symbol matrix extras: import-temporal, derive-temporal --repair-dates-only, link <slug>, db contract-probe",
@@ -71,11 +259,81 @@
   "whole-root digest comparison (field absent in B1; B2 onward)"
  ],
  "plan": "docs/plans/parser-responsibility-split.md",
+ "rebuild_trigger_manual_check": {
+  "commands": "cargo build -p lex-db -v | grep -c build-script-build (no change: 0); echo '// probe' > crates/lex-link/src/zz_probe.rs; cargo build -p lex-db -v | grep -c build-script-build (new file: 1); rm the file; rebuild (removal: 1)",
+  "result": "build script reruns when a pinned directory gains or loses a file"
+ },
+ "retained_B1": {
+  "binary": "B",
+  "explanations": {
+   "lfiiedb_parse": "its retained text does not match the committed manifest hash",
+   "oga_temporal_request": "exit 1 at baseline, not diagnosed",
+   "validate_failures": "six instruments at baseline: cjm, cub-dcg-2005, cucb-dcg-2004, laero, oaac-dcg-2009, scap-dcg-2012; cjm and laero fail adapter-frozen article counts (954 vs 952, 109 vs 100) tied to recorded heading-leak holds; the rest not individually diagnosed."
+  },
+  "final_corpus_tree_sha256": "08f0ca73fb81f3cea45f0096e256405422c39ba0b8432328a4adb121e5d0d7f4",
+  "git_head_recorded": "07cfa55362c4fa6e0b7e4024f045a701a4792391",
+  "nonzero_stages": [
+   {
+    "exit": 1,
+    "slug": "cjm",
+    "stage": "validate"
+   },
+   {
+    "exit": 1,
+    "slug": "cub-dcg-2005",
+    "stage": "validate"
+   },
+   {
+    "exit": 1,
+    "slug": "cucb-dcg-2004",
+    "stage": "validate"
+   },
+   {
+    "exit": 1,
+    "slug": "laero",
+    "stage": "validate"
+   },
+   {
+    "exit": 1,
+    "slug": "lfiiedb",
+    "stage": "parse"
+   },
+   {
+    "exit": 1,
+    "slug": "oaac-dcg-2009",
+    "stage": "validate"
+   },
+   {
+    "exit": 1,
+    "slug": "oga",
+    "stage": "temporal-request"
+   },
+   {
+    "exit": 1,
+    "slug": "scap-dcg-2012",
+    "stage": "validate"
+   }
+  ],
+  "rows": 1771,
+  "slugs": 355
+ },
  "runs": {
-  "retained_B1": "IN_PROGRESS",
-  "retained_B2": "QUEUED",
+  "order": "B1 B2 | S-B1 S-B2 | C1 replay, C1 sweep | supp B1 B2 C1 | C2 replay, sweep, supp | C3 replay, sweep, supp",
+  "retained_B1": "DONE exit 0",
+  "retained_B2": "IN_PROGRESS",
+  "retained_C1": "QUEUED",
+  "retained_C2": "QUEUED",
+  "retained_C3": "QUEUED",
+  "supp_B1": "QUEUED",
+  "supp_B2": "QUEUED",
+  "supp_C1": "QUEUED",
+  "supp_C2": "QUEUED",
+  "supp_C3": "QUEUED",
   "sweep_B1": "QUEUED",
-  "sweep_B2": "QUEUED"
+  "sweep_B2": "QUEUED",
+  "sweep_C1": "QUEUED",
+  "sweep_C2": "QUEUED",
+  "sweep_C3": "QUEUED"
  },
  "status": "IN_PROGRESS",
  "toolchain": {
