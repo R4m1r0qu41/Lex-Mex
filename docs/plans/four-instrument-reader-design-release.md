@@ -532,3 +532,26 @@ an old pinned 3c04 link) per `HANDOFF.md`. That repo's `AGENTS.md` requires oper
 past deploys went through the Sites helper from a temp directory, not from this checkout; this plan records the operator's
 intent for Codex to run them but is not itself the deploy authorization for the host repo commit, deployment or push.
 Re-verify the pin delta and the staged hashes first.
+
+
+### Host npm validation — 2026-10-22 (Codex direct execution)
+
+Reverified host pin equals R6 preferred staged descriptor and all1790 listed file sizes/hashes match; retained3c04 manifest exists. In `/Users/jr/Documents/4ll4/Webpage/LEG4L_L4BS`, Codex directly ran `npm test` (exit0,7/7 tests, including build) and then `npm run build` (exit0). Both prebuild verifiers pass1790 artifacts; both builds prepare32 verified PDFs. Non-failing warnings: Node DEP0205 module.register deprecation and Vinext unknown route classification. Git status unchanged: existing modified pin and unrelated untracked print-logo directory preserved. Prior mechanical run also passed; these are the operator-requested direct reruns. No source changes, commits, deployment or push. Exactly one current next action: obtain operator authorization for the desired host commit/deployment actions, then perform corresponding live acceptance checks.
+
+
+### R6 supplemental findings ruling — 2026-10-22
+
+Codex reviewed Claude's code-review findings and independently reproduced F1's combined-state defect on unchanged preferred8eb8d8b4: fault-injected loading=true plus terminal counters leaves visible191 but label/index/URL/copy193 despite unholding, notice and subsequent reader scroll. Natural stalled filling/cap frequency was not measured. This narrows the earlier post-fill acceptance and restores a technical publication hold for F1; both packages share affectedJS. F2 lifetime cap is the intended reviewed design; keep it. F3/F4 disclosed, F5–F7 nonblocking harness notes; separate-repository appendix not reviewed.
+
+Report: `docs/four-instrument-reader-r6-findings-codex-ruling-2026-10-22.md` and companion evidenceJSON with reproducible probe. Existing host pin commit7d61f95 remains intact; direct npm7/7/build results describe that existing package and do not cover a future repair. No source/package/host changes or commits by Codex in this ruling.
+
+Exactly one current next action (supersedes deployment next actions): owning implementer repairs F1, adds pending-loading terminal regression including filling completion and later navigation, and returns fresh package hashes/reports for focused re-review before restaging and deployment.
+
+
+### F1 repair completed — 2026-10-22 (Codex, uncommitted)
+
+Removed the redundant loading guard from track(); existing held/settle guards protect navigation. Real paused/resumed fill regression passes repaired bytes and discriminates old R6. Node22/22; full browser results: legacy:73pass/0fail/0NA, fallback:55pass/0fail/3NA, noanchor:58pass/0fail/0NA. Both A/B packages/hash lists verify; only reader.js/publication.json differ from R6. Preferred `2df70a8ab0f43571ed6ca1500ff4637e4de252ee1edc190befeda8b938b8f1d4`; fallback `21d4e3870bb0baf70c3761451ea053909364204529dad899d82406991c5b720a`.
+
+Report/evidence: `docs/four-instrument-reader-f1-repair-2026-10-22.md` and companion `-evidence.json`. Mechanical gates: fmt/clippy/workspace tests424 pass; LRITF145 articles/126 references and IFPE59 articles/115 references validate with0 issues. Mechanical agent ran fallback/legacy suites; parent ran no-anchoring suite. Corpus/PDF content unchanged. Source uncommitted; host remains at prior R6 pin7d61f95; no staging/deploy/push.
+
+Exactly one current next action: focused independent re-review of this new packet before restaging the already-selected preferred option.

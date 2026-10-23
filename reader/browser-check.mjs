@@ -302,10 +302,19 @@ export async function runChecks({publication,chrome=defaultChrome,anchoring=true
     // change leaves the held target off the reading line. No test hook is added to the shipped bytes. The hold must end:
     // one exhaustion mark, a visible notice, label/index/URL/copy agreeing with the reading line, no correction loop,
     // reader movement still tracked without intent, and a fresh explicit navigation holding and settling again.
-    {
+    for(const pendingFill of [false,true]){
       const b=await launch(chrome,{anchoring,fonts:'blocked'});const p=find('Artículo 193'),index=lic.indexOf(p);try{
         const sources=new Map();b.page.ws.addEventListener('message',event=>{const msg=JSON.parse(event.data);if(msg.method==='Debugger.scriptParsed'&&/\/reader\.js$/.test(msg.params.url))sources.set(msg.params.scriptId,msg.params.url);});
-        await b.page.viewport(390,844);await b.page.send('Page.navigate',{url:at('lic',p.id)});const settledFirst=await settle(b.page,15000);
+        // Pause the real fillAll zero-delay yield after its first chunk; leave all other timers running.
+        if(pendingFill)await b.page.send('Page.addScriptToEvaluateOnNewDocument',{source:`(()=>{
+          const original=setTimeout;let paused=true;const pending=[];
+          window.__resumeFill=()=>{paused=false;for(const run of pending.splice(0))run();};
+          window.setTimeout=(fn,delay,...args)=>paused&&delay===0?original(()=>pending.push(()=>fn(...args)),0):original(fn,delay,...args);
+        })();`});
+        await b.page.viewport(390,844);await b.page.send('Page.navigate',{url:at('lic',p.id)});
+        let settledFirst;
+        if(pendingFill){await b.page.until('window.__probe&&__probe.firstChunk()');await sleep(1000);settledFirst=await b.page.eval('!__probe.ready()');}
+        else settledFirst=await settle(b.page,15000);
         const before=await b.page.eval('__probe.ui()');
         await b.page.send('Debugger.enable');const [scriptId]=[...sources.keys()];
         const lines=(await b.page.send('Debugger.getScriptSource',{scriptId})).scriptSource.split('\n');const bodyLine=lines.findIndex(line=>line.startsWith('function keepHeld(){'))+1;
@@ -322,18 +331,26 @@ export async function runChecks({publication,chrome=defaultChrome,anchoring=true
         const idleStart=await b.page.eval('window.__scrolls');await sleep(1800);const idle=await b.page.eval('window.__scrolls')-idleStart;
         await b.page.eval('__probe.scrollBy(100)');await sleep(700);
         const movedTruth=lic[await b.page.eval('__probe.truth()')],moved=await b.page.eval('__probe.ui()'),movedCopy=await b.page.eval("__probe.copy('copy-text')"),intentsAfterMove=await b.page.eval(mark('reader:intent'));
+        const stillPending=pendingFill?await b.page.eval('!__probe.ready()'):true;
+        let completion={ok:true};
+        if(pendingFill){
+          const scrolls=await b.page.eval('window.__scrolls');await b.page.eval('__resumeFill();0');await b.page.until('__probe.ready()');await sleep(1000);
+          const completedTruth=lic[await b.page.eval('__probe.truth()')],completed=await b.page.eval('__probe.ui()'),completedCopy=await b.page.eval("__probe.copy('copy-text')");
+          const corrections=await b.page.eval('window.__scrolls')-scrolls;
+          completion={ok:completed.current===completedTruth.id&&completed.label===completedTruth.label&&completed.urlProvision===completedTruth.id&&completedCopy===completedTruth.text&&corrections===0,truth:completedTruth.label,ui:completed.label,copyExact:completedCopy===completedTruth.text,corrections};
+        }
         const settledMarks=await b.page.eval(mark('reader:target-settled'));
         await b.page.eval(`document.querySelector('#provision-list button[data-provision="${p.id}"]').click();0`);
-        await b.page.until(`${mark('reader:target-settled')}>${settledMarks}`,10000).catch(()=>{});await sleep(700);
+        await b.page.until(`${mark('reader:target-settled')}>${settledMarks}`,10000);await sleep(700);
         const renav=await b.page.eval('__probe.ui()'),renavTruth=lic[await b.page.eval('__probe.truth()')],renavCopy=await b.page.eval("__probe.copy('copy-text')");
         const renavOffset=Math.round(await b.page.eval(`__probe.top(${index})-document.getElementById('active-bar').offsetHeight`));
         const renavStart=await b.page.eval('window.__scrolls');await sleep(1800);const renavIdle=await b.page.eval('window.__scrolls')-renavStart;
         await errors(b.page,'terminal recovery cap');
-        record('terminal recovery cap (fault injection): unaligned hold ends with a notice, tracking resumes, new navigation re-holds',
-          settledFirst&&before.label===p.label&&truth.id!==p.id&&ui.label===truth.label&&ui.current===truth.id&&ui.urlProvision===truth.id&&copy===truth.text&&notice.visible&&notice.text.includes('No se pudo mantener')&&exhausted===1&&intents===0&&idle===0
+        record(`terminal recovery cap (fault injection, ${pendingFill?'fill pending then resumed':'fill complete'}): unaligned hold ends with a notice, tracking resumes, new navigation re-holds`,
+          stillPending&&completion.ok&&settledFirst&&before.label===p.label&&truth.id!==p.id&&ui.label===truth.label&&ui.current===truth.id&&ui.urlProvision===truth.id&&copy===truth.text&&notice.visible&&notice.text.includes('No se pudo mantener')&&exhausted===1&&intents===0&&idle===0
           &&movedTruth.id===moved.current&&moved.label===movedTruth.label&&moved.urlProvision===movedTruth.id&&movedCopy===movedTruth.text&&intentsAfterMove===0
           &&renav.label===p.label&&renavTruth.id===p.id&&renav.current===p.id&&renav.urlProvision===p.id&&renavCopy===p.text&&Math.abs(renavOffset-8)<=3&&renavIdle===0&&await b.page.eval(mark('reader:hold-recovery-exhausted'))===1,
-          {requested:p.label,readingLine:truth.label,ui:ui.label,index:ui.current===truth.id,urlProvision:ui.urlProvision===truth.id,copyExact:copy===truth.text,notice,exhaustedMarks:exhausted,intentMarks:intents,scrollsWhileIdle:idle,afterReaderScroll:{truth:movedTruth.label,ui:moved.label,copyExact:movedCopy===movedTruth.text,intentMarks:intentsAfterMove},afterNewNavigation:{ui:renav.label,truth:renavTruth.label,copyExact:renavCopy===p.text,offsetBelowBar:renavOffset,scrollsWhileIdle:renavIdle}});
+          {pendingFill,stillPending,completion,requested:p.label,readingLine:truth.label,ui:ui.label,index:ui.current===truth.id,urlProvision:ui.urlProvision===truth.id,copyExact:copy===truth.text,notice,exhaustedMarks:exhausted,intentMarks:intents,scrollsWhileIdle:idle,afterReaderScroll:{truth:movedTruth.label,ui:moved.label,copyExact:movedCopy===movedTruth.text,intentMarks:intentsAfterMove},afterNewNavigation:{ui:renav.label,truth:renavTruth.label,copyExact:renavCopy===p.text,offsetBelowBar:renavOffset,scrollsWhileIdle:renavIdle}});
       }finally{await b.close();}
     }
     // 25. Default entry (first provision, no provision in the URL) and a selector switch to another instrument's first

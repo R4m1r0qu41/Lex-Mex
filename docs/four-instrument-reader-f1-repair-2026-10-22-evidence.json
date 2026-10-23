@@ -1,0 +1,3422 @@
+{
+  "sources": {
+    "reader/reader.js": "5a9f16e0fb71c498def651d29641928ac33c881fe5f36203af5077df514649d2",
+    "reader/browser-check.mjs": "29e9a6c82e1cf3b8035cad2f0ef40c392cc076a613dd7a70f6a83766dc1085d6"
+  },
+  "packages": {
+    "preferred": {
+      "publication_id": "2df70a8ab0f43571ed6ca1500ff4637e4de252ee1edc190befeda8b938b8f1d4",
+      "a_equals_b": true,
+      "id_valid": true,
+      "bad_files": [],
+      "extras": [],
+      "r6_delta": [
+        "publication.json",
+        "reader.js"
+      ],
+      "files": 1791
+    },
+    "fallback": {
+      "publication_id": "21d4e3870bb0baf70c3761451ea053909364204529dad899d82406991c5b720a",
+      "a_equals_b": true,
+      "id_valid": true,
+      "bad_files": [],
+      "extras": [],
+      "r6_delta": [
+        "publication.json",
+        "reader.js"
+      ],
+      "files": 1785
+    }
+  },
+  "focused": [
+    {
+      "publication": "/Users/jr/Dev/lex-mex-reader-four/.work/f1-preferred-a",
+      "results": [
+        {
+          "scenario": "terminal recovery cap (fault injection, fill complete): unaligned hold ends with a notice, tracking resumes, new navigation re-holds",
+          "ok": true,
+          "pendingFill": false,
+          "stillPending": true,
+          "completion": {
+            "ok": true
+          },
+          "requested": "Artículo 193",
+          "readingLine": "Artículo 191",
+          "ui": "Artículo 191",
+          "index": true,
+          "urlProvision": true,
+          "copyExact": true,
+          "notice": {
+            "visible": true,
+            "text": "No se pudo mantener la posición solicitada; la selección sigue el texto visible."
+          },
+          "exhaustedMarks": 1,
+          "intentMarks": 0,
+          "scrollsWhileIdle": 0,
+          "afterReaderScroll": {
+            "truth": "Artículo 191",
+            "ui": "Artículo 191",
+            "copyExact": true,
+            "intentMarks": 0
+          },
+          "afterNewNavigation": {
+            "ui": "Artículo 193",
+            "truth": "Artículo 193",
+            "copyExact": true,
+            "offsetBelowBar": 8,
+            "scrollsWhileIdle": 0
+          }
+        },
+        {
+          "scenario": "terminal recovery cap (fault injection, fill pending then resumed): unaligned hold ends with a notice, tracking resumes, new navigation re-holds",
+          "ok": true,
+          "pendingFill": true,
+          "stillPending": true,
+          "completion": {
+            "ok": true,
+            "truth": "Artículo 191",
+            "ui": "Artículo 191",
+            "copyExact": true,
+            "corrections": 0
+          },
+          "requested": "Artículo 193",
+          "readingLine": "Artículo 191",
+          "ui": "Artículo 191",
+          "index": true,
+          "urlProvision": true,
+          "copyExact": true,
+          "notice": {
+            "visible": true,
+            "text": "No se pudo mantener la posición solicitada; la selección sigue el texto visible."
+          },
+          "exhaustedMarks": 1,
+          "intentMarks": 0,
+          "scrollsWhileIdle": 0,
+          "afterReaderScroll": {
+            "truth": "Artículo 191",
+            "ui": "Artículo 191",
+            "copyExact": true,
+            "intentMarks": 0
+          },
+          "afterNewNavigation": {
+            "ui": "Artículo 193",
+            "truth": "Artículo 193",
+            "copyExact": true,
+            "offsetBelowBar": 8,
+            "scrollsWhileIdle": 0
+          }
+        }
+      ],
+      "pageErrors": []
+    },
+    {
+      "publication": "/Users/jr/Dev/lex-mex-reader-four/.work/r11-preferred-a",
+      "results": [
+        {
+          "scenario": "terminal recovery cap (fault injection, fill complete): unaligned hold ends with a notice, tracking resumes, new navigation re-holds",
+          "ok": true,
+          "pendingFill": false,
+          "stillPending": true,
+          "completion": {
+            "ok": true
+          },
+          "requested": "Artículo 193",
+          "readingLine": "Artículo 191",
+          "ui": "Artículo 191",
+          "index": true,
+          "urlProvision": true,
+          "copyExact": true,
+          "notice": {
+            "visible": true,
+            "text": "No se pudo mantener la posición solicitada; la selección sigue el texto visible."
+          },
+          "exhaustedMarks": 1,
+          "intentMarks": 0,
+          "scrollsWhileIdle": 0,
+          "afterReaderScroll": {
+            "truth": "Artículo 191",
+            "ui": "Artículo 191",
+            "copyExact": true,
+            "intentMarks": 0
+          },
+          "afterNewNavigation": {
+            "ui": "Artículo 193",
+            "truth": "Artículo 193",
+            "copyExact": true,
+            "offsetBelowBar": 8,
+            "scrollsWhileIdle": 0
+          }
+        },
+        {
+          "scenario": "terminal recovery cap (fault injection, fill pending then resumed): unaligned hold ends with a notice, tracking resumes, new navigation re-holds",
+          "ok": false,
+          "pendingFill": true,
+          "stillPending": true,
+          "completion": {
+            "ok": true,
+            "truth": "Artículo 191",
+            "ui": "Artículo 191",
+            "copyExact": true,
+            "corrections": 0
+          },
+          "requested": "Artículo 193",
+          "readingLine": "Artículo 191",
+          "ui": "Artículo 193",
+          "index": false,
+          "urlProvision": false,
+          "copyExact": false,
+          "notice": {
+            "visible": true,
+            "text": "No se pudo mantener la posición solicitada; la selección sigue el texto visible."
+          },
+          "exhaustedMarks": 1,
+          "intentMarks": 0,
+          "scrollsWhileIdle": 0,
+          "afterReaderScroll": {
+            "truth": "Artículo 191",
+            "ui": "Artículo 193",
+            "copyExact": false,
+            "intentMarks": 0
+          },
+          "afterNewNavigation": {
+            "ui": "Artículo 193",
+            "truth": "Artículo 193",
+            "copyExact": true,
+            "offsetBelowBar": 8,
+            "scrollsWhileIdle": 0
+          }
+        }
+      ],
+      "pageErrors": []
+    }
+  ],
+  "focused_runner": "// Event-level browser regression for continuous reading. Drives a real headless Chrome over the DevTools\n// protocol (no dependencies) against a packaged publication, and checks that the active label, index,\n// exact copy body, share URL and replaced URL track the article at the reading line under real scroll\n// events. Kept out of `node --test reader/` on purpose: it needs Chrome, and a silent skip would weaken\n// that gate. Usage: node reader/browser-check.mjs --publication DIR [--chrome PATH] [--no-scroll-anchoring] [--legacy-release ID] [--out FILE]\nimport {spawn} from 'node:child_process';\nimport {mkdtemp,readFile,rm,writeFile} from 'node:fs/promises';\nimport {tmpdir} from 'node:os';\nimport {join,resolve} from 'node:path';\nimport {pathToFileURL} from 'node:url';\nimport {createReaderServer} from '/Users/jr/Dev/lex-mex-reader-four/reader/serve.mjs';\n\nconst sleep=ms=>new Promise(r=>setTimeout(r,ms));\nconst defaultChrome='/Applications/Google Chrome.app/Contents/MacOS/Google Chrome';\n\n// Page-side probes, installed before the reader runs. They read the DOM only; the shipped bytes are untouched.\nconst probes=`(()=>{\n  window.__scrolls=0;{const scrollTo=Element.prototype.scrollTo;Element.prototype.scrollTo=function(...args){window.__scrolls++;return scrollTo.apply(this,args);};}\n  window.__errors=[];addEventListener('error',e=>window.__errors.push(String(e.message||e)));addEventListener('unhandledrejection',e=>window.__errors.push(String(e.reason)));\n  window.__pushes=[];const push=history.pushState.bind(history);history.pushState=(...args)=>{window.__pushes.push(String(args[2]));return push(...args);};\n  Object.defineProperty(navigator,'clipboard',{configurable:true,value:{writeText:async text=>{window.__copied=text;}}});\n  const col=()=>document.getElementById('article');\n  const nodes=()=>[...document.querySelectorAll('#flow > article.provision')];\n  window.__probe={\n    line:()=>document.getElementById('active-bar').offsetHeight+24,\n    top:i=>nodes()[i].getBoundingClientRect().top-col().getBoundingClientRect().top,\n    height:i=>nodes()[i].getBoundingClientRect().height,\n    count:()=>nodes().length,\n    // The article whose top last crossed the reading line, computed from layout alone.\n    truth(){const line=this.line(),base=col().getBoundingClientRect().top;let best=0;for(const n of nodes()){if(n.getBoundingClientRect().top-base<=line)best=Number(n.dataset.index);else break;}return best;},\n    // Which articles intersect the observer root (upper half of the reading column's padding box).\n    membership(){const c=col(),r=c.getBoundingClientRect(),top=r.top+c.clientTop,bottom=top+c.clientHeight*0.5;return nodes().filter(n=>{const b=n.getBoundingClientRect();return b.bottom>top&&b.top<bottom;}).map(n=>Number(n.dataset.index));},\n    ui(){const current=document.querySelector('#provision-list button[aria-current=\"true\"]');const params=new URL(location.href).searchParams;return {label:document.getElementById('active-label').textContent,current:current?.dataset.provision??null,title:document.title,instrument:document.getElementById('instrument').value,pushes:window.__pushes.length,urlProvision:params.get('provision'),urlInstrument:params.get('instrument'),history:history.length};},\n    scrollBy(dy){col().scrollTop+=dy;},\n    ready:()=>performance.getEntriesByName('reader:flow-complete').length>0,\n    firstChunk:()=>performance.getEntriesByName('reader:first-chunk').length>0,\n    frames:()=>new Promise(r=>requestAnimationFrame(()=>requestAnimationFrame(r))),\n    async copy(id){window.__copied=undefined;document.getElementById(id).click();for(let i=0;i<50&&window.__copied===undefined;i++)await new Promise(r=>setTimeout(r,10));return window.__copied;}\n  };\n})();`;\n\nexport class Page {\n  constructor(ws){this.ws=ws;this.id=0;this.pending=new Map();ws.addEventListener('message',event=>{const msg=JSON.parse(event.data);if(msg.id&&this.pending.has(msg.id)){const {resolve,reject}=this.pending.get(msg.id);this.pending.delete(msg.id);msg.error?reject(new Error(msg.error.message)):resolve(msg.result);}});}\n  send(method,params={}){const id=++this.id;this.ws.send(JSON.stringify({id,method,params}));return new Promise((resolve,reject)=>this.pending.set(id,{resolve,reject}));}\n  async eval(expression){const result=await this.send('Runtime.evaluate',{expression,awaitPromise:true,returnByValue:true});if(result.exceptionDetails)throw new Error(result.exceptionDetails.exception?.description||result.exceptionDetails.text);return result.result.value;}\n  async until(expression,timeout=15000){const end=Date.now()+timeout;while(Date.now()<end){if(await this.eval(expression))return;await sleep(25);}throw new Error(`Timed out waiting for ${expression}`);}\n  wheel(x,y,deltaY){return this.send('Input.dispatchMouseEvent',{type:'mouseWheel',x,y,deltaX:0,deltaY});}\n  viewport(width,height){return this.send('Emulation.setDeviceMetricsOverride',{width,height,deviceScaleFactor:1,mobile:false});}\n}\n\nexport async function launch(chrome=defaultChrome,{anchoring=true,fonts='normal',smooth=false}={}){\n  const profile=await mkdtemp(join(tmpdir(),'lex-reader-chrome-'));\n  const child=spawn(chrome,['--headless=new','--remote-debugging-port=0',`--user-data-dir=${profile}`,...(smooth?[]:['--disable-smooth-scrolling']),'--no-first-run','--no-default-browser-check','--disable-background-timer-throttling','--disable-renderer-backgrounding','--window-size=1440,900','about:blank'],{stdio:'ignore'});\n  let port;for(let i=0;i<200&&!port;i++){try{port=(await readFile(join(profile,'DevToolsActivePort'),'utf8')).split('\\n')[0];}catch{await sleep(50);}}\n  if(!port)throw new Error('Chrome did not expose a DevTools port.');\n  const targets=await (await fetch(`http://127.0.0.1:${port}/json/list`)).json();const target=targets.find(t=>t.type==='page');\n  const ws=new WebSocket(target.webSocketDebuggerUrl);await new Promise((ok,fail)=>{ws.onopen=ok;ws.onerror=fail;});\n  const page=new Page(ws);await page.send('Page.enable');await page.send('Runtime.enable');await page.send('Page.addScriptToEvaluateOnNewDocument',{source:probes});\n  // Without scroll anchoring (as in browsers that lack it) layout shifts above the view no longer emit scroll events.\n  // Web fonts can be blocked or delayed to reproduce late layout shifts (the stylesheet imports Google Fonts).\n  const fontUrls=['*fonts.googleapis.com*','*fonts.gstatic.com*'];\n  if(fonts==='blocked'){await page.send('Network.enable');await page.send('Network.setBlockedURLs',{urls:fontUrls});}\n  else if(typeof fonts==='number'){await page.send('Fetch.enable',{patterns:fontUrls.map(urlPattern=>({urlPattern}))});ws.addEventListener('message',event=>{const msg=JSON.parse(event.data);if(msg.method==='Fetch.requestPaused')setTimeout(()=>page.send('Fetch.continueRequest',{requestId:msg.params.requestId}).catch(()=>{}),fonts);});}\n  if(!anchoring)await page.send('Page.addScriptToEvaluateOnNewDocument',{source:\"document.addEventListener('DOMContentLoaded',()=>document.head.append(Object.assign(document.createElement('style'),{textContent:'#article{overflow-anchor:none}'})));\"});\n  return {page,async close(){ws.close();child.kill();await sleep(200);await rm(profile,{recursive:true,force:true});}};\n}\n\n\nasync function focused(publication){const chrome=defaultChrome,anchoring=true;\n  publication=resolve(publication);\n  const releaseId=JSON.parse(await readFile(join(publication,'latest.json'),'utf8')).release_id;\n  const manifest=JSON.parse(await readFile(join(publication,'releases',releaseId,'manifest.json'),'utf8'));\n  const instruments={};for(const item of manifest.instruments)instruments[item.slug]=JSON.parse(await readFile(join(publication,'releases',releaseId,item.document_path),'utf8'));\n  const server=createReaderServer(publication);await new Promise(r=>server.listen(0,'127.0.0.1',r));\n  const origin=`http://127.0.0.1:${server.address().port}/lex-mex/`;\n  const browser=await launch(chrome,{anchoring});const page=browser.page;\n  const results=[],notApplicable=[],timings=[];\n  const record=(scenario,ok,detail)=>{results.push({scenario,ok,...detail});console.log(`${ok?'PASS':'FAIL'} ${scenario}${ok?'':' '+JSON.stringify(detail)}`);};\n  const at=(slug,provisionId='')=>`${origin}?release=${releaseId}&instrument=${slug}${provisionId?`&provision=${encodeURIComponent(provisionId)}`:''}`;\n  // Push counts come from a pushState wrapper; resetting history keeps back() inside each scenario.\n  // Scenarios start once an explicit target has settled (older builds have no such mark and get a bounded wait).\n  const mark=name=>`performance.getEntriesByName('${name}').length`;\n  const pageErrors=[],unsettled=[];\n  async function errors(p,where){const list=await p.eval('window.__errors||[]');if(list.length)pageErrors.push({where,list});}\n  async function settle(p=page,timeout=10000){await p.until('window.__probe&&__probe.ready()',20000);return p.until(`${mark('reader:target-settled')}>0`,timeout).then(()=>true,()=>false);}\n  async function open(href,{width=1440,height=900}={}){await page.viewport(width,height);await page.send('Page.navigate',{url:href});if(!await settle(page,3000))unsettled.push(href);await page.send('Page.resetNavigationHistory');await sleep(700);await errors(page,href);}\n  // Compares every UI surface with the article at the reading line.\n  async function agree(slug,{url=true}={}){\n    const truth=await page.eval('__probe.truth()'),ui=await page.eval('__probe.ui()'),p=instruments[slug].provisions[truth];\n    const mismatches=[];if(ui.label!==p.label)mismatches.push('label');if(ui.current!==p.id)mismatches.push('index');if(!ui.title.includes(p.label))mismatches.push('title');if(url&&ui.urlProvision!==p.id)mismatches.push('url');\n    return {truth:p.label,ui:ui.label,mismatches};\n  }\n  async function copies(slug){const truth=await page.eval('__probe.truth()'),p=instruments[slug].provisions[truth];const body=await page.eval(\"__probe.copy('copy-text')\");const share=await page.eval(\"__probe.copy('share')\");return {copyExact:body===p.text,shareProvision:new URL(share).searchParams.get('provision')===p.id};}\n  const centre=async()=>page.eval(\"(()=>{const r=document.getElementById('article').getBoundingClientRect();return {x:Math.round(r.left+r.width/2),y:Math.round(r.top+r.height*0.6)};})()\");\n  const lic=instruments.lic.provisions,find=label=>lic.find(p=>p.label===label);\n\ntry{\n    // 27. Terminal recovery-cap boundary (fault injection, NOT natural-storm coverage; scenario 26 is that). reader.js is a\n    // module, so a CDP breakpoint in keepHeld sets the lifetime counters to their spent values while a synthetic layout\n    // change leaves the held target off the reading line. No test hook is added to the shipped bytes. The hold must end:\n    // one exhaustion mark, a visible notice, label/index/URL/copy agreeing with the reading line, no correction loop,\n    // reader movement still tracked without intent, and a fresh explicit navigation holding and settling again.\n    for(const pendingFill of [false,true]){\n      const b=await launch(chrome,{anchoring,fonts:'blocked'});const p=find('Artículo 193'),index=lic.indexOf(p);try{\n        const sources=new Map();b.page.ws.addEventListener('message',event=>{const msg=JSON.parse(event.data);if(msg.method==='Debugger.scriptParsed'&&/\\/reader\\.js$/.test(msg.params.url))sources.set(msg.params.scriptId,msg.params.url);});\n        // Pause the real fillAll zero-delay yield after its first chunk; leave all other timers running.\n        if(pendingFill)await b.page.send('Page.addScriptToEvaluateOnNewDocument',{source:`(()=>{\n          const original=setTimeout;let paused=true;const pending=[];\n          window.__resumeFill=()=>{paused=false;for(const run of pending.splice(0))run();};\n          window.setTimeout=(fn,delay,...args)=>paused&&delay===0?original(()=>pending.push(()=>fn(...args)),0):original(fn,delay,...args);\n        })();`});\n        await b.page.viewport(390,844);await b.page.send('Page.navigate',{url:at('lic',p.id)});\n        let settledFirst;\n        if(pendingFill){await b.page.until('window.__probe&&__probe.firstChunk()');await sleep(1000);settledFirst=await b.page.eval('!__probe.ready()');}\n        else settledFirst=await settle(b.page,15000);\n        const before=await b.page.eval('__probe.ui()');\n        await b.page.send('Debugger.enable');const [scriptId]=[...sources.keys()];\n        const lines=(await b.page.send('Debugger.getScriptSource',{scriptId})).scriptSource.split('\\n');const bodyLine=lines.findIndex(line=>line.startsWith('function keepHeld(){'))+1;\n        const breakpoint=await b.page.send('Debugger.setBreakpointByUrl',{urlRegex:'/reader\\\\.js$',lineNumber:bodyLine});\n        const paused=new Promise((resolve,reject)=>{const handler=async event=>{const msg=JSON.parse(event.data);if(msg.method!=='Debugger.paused')return;b.page.ws.removeEventListener('message',handler);\n          try{await b.page.send('Debugger.evaluateOnCallFrame',{callFrameId:msg.params.callFrames[0].callFrameId,expression:'realigns=41;nudges=401;recoveries=30;settleTarget=null;0'});await b.page.send('Debugger.removeBreakpoint',{breakpointId:breakpoint.breakpointId});await b.page.send('Debugger.resume');resolve();}catch(error){reject(error);}};\n          b.page.ws.addEventListener('message',handler);});\n        await b.page.eval(\"document.querySelector('#flow article').style.paddingBottom='1400px';0\");\n        await Promise.race([paused,sleep(10000).then(()=>{throw new Error('keepHeld breakpoint never paused');})]);\n        await sleep(2000); // 700ms settled timer, then the URL replace delay\n        const notice=await b.page.eval(\"(()=>{const m=document.getElementById('message');return {visible:!m.hidden,text:m.textContent};})()\"); // read before Copiar replaces the message\n        const truth=lic[await b.page.eval('__probe.truth()')],ui=await b.page.eval('__probe.ui()'),copy=await b.page.eval(\"__probe.copy('copy-text')\");\n        const exhausted=await b.page.eval(mark('reader:hold-recovery-exhausted')),intents=await b.page.eval(mark('reader:intent'));\n        const idleStart=await b.page.eval('window.__scrolls');await sleep(1800);const idle=await b.page.eval('window.__scrolls')-idleStart;\n        await b.page.eval('__probe.scrollBy(100)');await sleep(700);\n        const movedTruth=lic[await b.page.eval('__probe.truth()')],moved=await b.page.eval('__probe.ui()'),movedCopy=await b.page.eval(\"__probe.copy('copy-text')\"),intentsAfterMove=await b.page.eval(mark('reader:intent'));\n        const stillPending=pendingFill?await b.page.eval('!__probe.ready()'):true;\n        let completion={ok:true};\n        if(pendingFill){\n          const scrolls=await b.page.eval('window.__scrolls');await b.page.eval('__resumeFill();0');await b.page.until('__probe.ready()');await sleep(1000);\n          const completedTruth=lic[await b.page.eval('__probe.truth()')],completed=await b.page.eval('__probe.ui()'),completedCopy=await b.page.eval(\"__probe.copy('copy-text')\");\n          const corrections=await b.page.eval('window.__scrolls')-scrolls;\n          completion={ok:completed.current===completedTruth.id&&completed.label===completedTruth.label&&completed.urlProvision===completedTruth.id&&completedCopy===completedTruth.text&&corrections===0,truth:completedTruth.label,ui:completed.label,copyExact:completedCopy===completedTruth.text,corrections};\n        }\n        const settledMarks=await b.page.eval(mark('reader:target-settled'));\n        await b.page.eval(`document.querySelector('#provision-list button[data-provision=\"${p.id}\"]').click();0`);\n        await b.page.until(`${mark('reader:target-settled')}>${settledMarks}`,10000);await sleep(700);\n        const renav=await b.page.eval('__probe.ui()'),renavTruth=lic[await b.page.eval('__probe.truth()')],renavCopy=await b.page.eval(\"__probe.copy('copy-text')\");\n        const renavOffset=Math.round(await b.page.eval(`__probe.top(${index})-document.getElementById('active-bar').offsetHeight`));\n        const renavStart=await b.page.eval('window.__scrolls');await sleep(1800);const renavIdle=await b.page.eval('window.__scrolls')-renavStart;\n        await errors(b.page,'terminal recovery cap');\n        record(`terminal recovery cap (fault injection, ${pendingFill?'fill pending then resumed':'fill complete'}): unaligned hold ends with a notice, tracking resumes, new navigation re-holds`,\n          stillPending&&completion.ok&&settledFirst&&before.label===p.label&&truth.id!==p.id&&ui.label===truth.label&&ui.current===truth.id&&ui.urlProvision===truth.id&&copy===truth.text&&notice.visible&&notice.text.includes('No se pudo mantener')&&exhausted===1&&intents===0&&idle===0\n          &&movedTruth.id===moved.current&&moved.label===movedTruth.label&&moved.urlProvision===movedTruth.id&&movedCopy===movedTruth.text&&intentsAfterMove===0\n          &&renav.label===p.label&&renavTruth.id===p.id&&renav.current===p.id&&renav.urlProvision===p.id&&renavCopy===p.text&&Math.abs(renavOffset-8)<=3&&renavIdle===0&&await b.page.eval(mark('reader:hold-recovery-exhausted'))===1,\n          {pendingFill,stillPending,completion,requested:p.label,readingLine:truth.label,ui:ui.label,index:ui.current===truth.id,urlProvision:ui.urlProvision===truth.id,copyExact:copy===truth.text,notice,exhaustedMarks:exhausted,intentMarks:intents,scrollsWhileIdle:idle,afterReaderScroll:{truth:movedTruth.label,ui:moved.label,copyExact:movedCopy===movedTruth.text,intentMarks:intentsAfterMove},afterNewNavigation:{ui:renav.label,truth:renavTruth.label,copyExact:renavCopy===p.text,offsetBelowBar:renavOffset,scrollsWhileIdle:renavIdle}});\n      }finally{await b.close();}\n    }\n\nreturn {publication,results,pageErrors};}finally{await browser.close();await new Promise(r=>server.close(r));}}\nconst reports=[];for(const n of [\"f1-preferred-a\",\"r11-preferred-a\"]){reports.push(await focused(\"/Users/jr/Dev/lex-mex-reader-four/.work/\"+n));}await writeFile(\"/tmp/f1-focused-results.json\",JSON.stringify(reports,null,2)+\"\\n\");",
+  "browser_reports": {
+    "legacy": {
+      "publication": "/Users/jr/Dev/lex-mex-reader-four/.work/f1-legacy-stage",
+      "releaseId": "9626bfe45c4ebc95b47351fd20c1de86f9b4f54856aee1de6d408e5d8389991f",
+      "origin": "http://127.0.0.1:62126/lex-mex/",
+      "scrollAnchoring": true,
+      "results": [
+        {
+          "scenario": "reading-line crossing without observer change (scrollTop)",
+          "ok": true,
+          "pair": [
+            "Artículo 121",
+            "Artículo 122"
+          ],
+          "line": 107,
+          "constantMembership": true,
+          "crossed": true,
+          "start": {
+            "truth": "Artículo 121",
+            "ui": "Artículo 121",
+            "mismatches": []
+          },
+          "end": {
+            "truth": "Artículo 122",
+            "ui": "Artículo 122",
+            "mismatches": []
+          },
+          "immediateCopy": {
+            "copyExact": true,
+            "shareProvision": true
+          },
+          "copy": {
+            "copyExact": true,
+            "shareProvision": true
+          },
+          "laggingSteps": 0,
+          "trace": [
+            {
+              "top": 155,
+              "members": "287,288",
+              "truth": "Artículo 121",
+              "ui": "Artículo 121",
+              "mismatches": []
+            },
+            {
+              "top": 147,
+              "members": "287,288",
+              "truth": "Artículo 121",
+              "ui": "Artículo 121",
+              "mismatches": []
+            },
+            {
+              "top": 139,
+              "members": "287,288",
+              "truth": "Artículo 121",
+              "ui": "Artículo 121",
+              "mismatches": []
+            },
+            {
+              "top": 131,
+              "members": "287,288",
+              "truth": "Artículo 121",
+              "ui": "Artículo 121",
+              "mismatches": []
+            },
+            {
+              "top": 123,
+              "members": "287,288",
+              "truth": "Artículo 121",
+              "ui": "Artículo 121",
+              "mismatches": []
+            },
+            {
+              "top": 115,
+              "members": "287,288",
+              "truth": "Artículo 121",
+              "ui": "Artículo 121",
+              "mismatches": []
+            },
+            {
+              "top": 107,
+              "members": "287,288",
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            },
+            {
+              "top": 99,
+              "members": "287,288",
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            },
+            {
+              "top": 91,
+              "members": "287,288",
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            },
+            {
+              "top": 83,
+              "members": "287,288",
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            },
+            {
+              "top": 75,
+              "members": "287,288",
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            },
+            {
+              "top": 67,
+              "members": "287,288",
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            },
+            {
+              "top": 59,
+              "members": "287,288",
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            }
+          ]
+        },
+        {
+          "scenario": "reading-line crossing without observer change (wheel)",
+          "ok": true,
+          "pair": [
+            "Artículo 121",
+            "Artículo 122"
+          ],
+          "line": 107,
+          "constantMembership": true,
+          "crossed": true,
+          "start": {
+            "truth": "Artículo 121",
+            "ui": "Artículo 121",
+            "mismatches": []
+          },
+          "end": {
+            "truth": "Artículo 122",
+            "ui": "Artículo 122",
+            "mismatches": []
+          },
+          "immediateCopy": {
+            "copyExact": true,
+            "shareProvision": true
+          },
+          "copy": {
+            "copyExact": true,
+            "shareProvision": true
+          },
+          "laggingSteps": 0,
+          "trace": [
+            {
+              "top": 155,
+              "members": "287,288",
+              "truth": "Artículo 121",
+              "ui": "Artículo 121",
+              "mismatches": []
+            },
+            {
+              "top": 147,
+              "members": "287,288",
+              "truth": "Artículo 121",
+              "ui": "Artículo 121",
+              "mismatches": []
+            },
+            {
+              "top": 139,
+              "members": "287,288",
+              "truth": "Artículo 121",
+              "ui": "Artículo 121",
+              "mismatches": []
+            },
+            {
+              "top": 131,
+              "members": "287,288",
+              "truth": "Artículo 121",
+              "ui": "Artículo 121",
+              "mismatches": []
+            },
+            {
+              "top": 123,
+              "members": "287,288",
+              "truth": "Artículo 121",
+              "ui": "Artículo 121",
+              "mismatches": []
+            },
+            {
+              "top": 115,
+              "members": "287,288",
+              "truth": "Artículo 121",
+              "ui": "Artículo 121",
+              "mismatches": []
+            },
+            {
+              "top": 107,
+              "members": "287,288",
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            },
+            {
+              "top": 99,
+              "members": "287,288",
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            },
+            {
+              "top": 91,
+              "members": "287,288",
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            },
+            {
+              "top": 83,
+              "members": "287,288",
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            },
+            {
+              "top": 75,
+              "members": "287,288",
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            },
+            {
+              "top": 67,
+              "members": "287,288",
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            },
+            {
+              "top": 59,
+              "members": "287,288",
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            }
+          ]
+        },
+        {
+          "scenario": "short adjacent articles",
+          "ok": true,
+          "from": "Artículo 122 Bis",
+          "badSteps": [],
+          "end": {
+            "truth": "Artículo 122",
+            "ui": "Artículo 122",
+            "mismatches": []
+          }
+        },
+        {
+          "scenario": "long article tail",
+          "ok": true,
+          "article": "Artículo 122",
+          "badSteps": [],
+          "badCount": 0,
+          "end": {
+            "truth": "Artículo 122 Bis",
+            "ui": "Artículo 122 Bis",
+            "mismatches": []
+          },
+          "copy": {
+            "copyExact": true,
+            "shareProvision": true
+          }
+        },
+        {
+          "scenario": "resize across breakpoint",
+          "ok": true,
+          "wide": {
+            "truth": "Artículo 193",
+            "ui": "Artículo 193",
+            "mismatches": []
+          },
+          "narrow": {
+            "truth": "Artículo 194",
+            "ui": "Artículo 194",
+            "mismatches": []
+          },
+          "back": {
+            "truth": "Artículo 193",
+            "ui": "Artículo 193",
+            "mismatches": []
+          }
+        },
+        {
+          "scenario": "deep link lic Artículo 112 Quintus",
+          "ok": true,
+          "ui": "Artículo 112 Quintus",
+          "truth": "Artículo 112 Quintus",
+          "urlProvision": true,
+          "offsetBelowBar": 8
+        },
+        {
+          "scenario": "deep link lic Artículo 112 Sextus",
+          "ok": true,
+          "ui": "Artículo 112 Sextus",
+          "truth": "Artículo 112 Sextus",
+          "urlProvision": true,
+          "offsetBelowBar": 8
+        },
+        {
+          "scenario": "deep link lic Artículo 112 Séptimus",
+          "ok": true,
+          "ui": "Artículo 112 Séptimus",
+          "truth": "Artículo 112 Séptimus",
+          "urlProvision": true,
+          "offsetBelowBar": 8
+        },
+        {
+          "scenario": "deep link lic Artículo 193",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "urlProvision": true,
+          "offsetBelowBar": 8
+        },
+        {
+          "scenario": "deep link lic VIGESIMO",
+          "ok": true,
+          "ui": "VIGESIMO",
+          "truth": "VIGESIMO",
+          "urlProvision": true,
+          "offsetBelowBar": 8
+        },
+        {
+          "scenario": "deep link lritf Artículo 4",
+          "ok": true,
+          "ui": "Artículo 4",
+          "truth": "Artículo 4",
+          "urlProvision": true,
+          "offsetBelowBar": 8
+        },
+        {
+          "scenario": "wheel during navigation lock",
+          "ok": true,
+          "end": {
+            "truth": "Artículo 50",
+            "ui": "Artículo 50",
+            "mismatches": []
+          },
+          "pushes": 1
+        },
+        {
+          "scenario": "index push, no trailing overwrite, back",
+          "ok": true,
+          "afterClick": "Artículo 46",
+          "pushes": 1,
+          "url": true,
+          "back": "Artículo 2o"
+        },
+        {
+          "scenario": "interrupted deep-link settle",
+          "ok": true,
+          "target": "Artículo 261",
+          "end": {
+            "truth": "Artículo 260",
+            "ui": "Artículo 260",
+            "mismatches": []
+          }
+        },
+        {
+          "scenario": "quick instrument switches",
+          "ok": true,
+          "ui": "Artículo 1",
+          "instrument": "itf-dcg-2018",
+          "pushes": [
+            "http://127.0.0.1:62126/lex-mex/?release=9626bfe45c4ebc95b47351fd20c1de86f9b4f54856aee1de6d408e5d8389991f&instrument=ifpe-dcg-2021&provision=urn%3Alex-mx%3Afederal%3Aregulation%3Aifpe-dcg-2021%3Aarticle%3A1",
+            "http://127.0.0.1:62126/lex-mex/?release=9626bfe45c4ebc95b47351fd20c1de86f9b4f54856aee1de6d408e5d8389991f&instrument=itf-dcg-2018&provision=urn%3Alex-mx%3Afederal%3Aregulation%3Aitf-dcg-2018%3Aarticle%3A1"
+          ],
+          "agree": {
+            "truth": "Artículo 1",
+            "ui": "Artículo 1",
+            "mismatches": []
+          }
+        },
+        {
+          "scenario": "narrow 390px deep link",
+          "ok": true,
+          "agree": {
+            "truth": "Artículo 193",
+            "ui": "Artículo 193",
+            "mismatches": []
+          },
+          "horizontalOverflow": false
+        },
+        {
+          "scenario": "search result navigation",
+          "ok": true,
+          "label": "Artículo 112",
+          "pushes": 1,
+          "agree": {
+            "truth": "Artículo 112",
+            "ui": "Artículo 112",
+            "mismatches": []
+          }
+        },
+        {
+          "scenario": "reference view and Volver",
+          "ok": true,
+          "source": "Artículo 2o",
+          "opened": true,
+          "scroll": [
+            630,
+            630,
+            630
+          ]
+        },
+        {
+          "scenario": "PDF offer without auto-follow",
+          "ok": true,
+          "followDisabled": true,
+          "pdfKept": true,
+          "offer": true,
+          "agree": {
+            "truth": "ANEXO 1",
+            "ui": "ANEXO 1",
+            "mismatches": []
+          }
+        },
+        {
+          "scenario": "wheel ending inside the navigation lock",
+          "ok": true,
+          "clicked": "Artículo 29 Bis 3",
+          "end": {
+            "truth": "Artículo 29 Bis 4",
+            "ui": "Artículo 29 Bis 4",
+            "mismatches": []
+          },
+          "copy": {
+            "copyExact": true,
+            "shareProvision": true
+          }
+        },
+        {
+          "scenario": "last provision deep link ifpe-dcg-2021 at 1440x3000",
+          "ok": true,
+          "ui": "Anexo 8",
+          "truth": "Anexo 8",
+          "urlProvision": true,
+          "intentMarks": 0
+        },
+        {
+          "scenario": "last provision deep link itf-dcg-2018 at 1440x3000",
+          "ok": true,
+          "ui": "ANEXO 20",
+          "truth": "ANEXO 20",
+          "urlProvision": true,
+          "intentMarks": 0
+        },
+        {
+          "scenario": "last provision deep link lic at 1440x3000",
+          "ok": true,
+          "ui": "VIGESIMO",
+          "truth": "VIGESIMO",
+          "urlProvision": true,
+          "intentMarks": 0
+        },
+        {
+          "scenario": "last provision deep link lritf at 1440x3000",
+          "ok": true,
+          "ui": "DÉCIMA PRIMERA",
+          "truth": "DÉCIMA PRIMERA",
+          "urlProvision": true,
+          "intentMarks": 0
+        },
+        {
+          "scenario": "last provision deep link ifpe-dcg-2021 at 390x844",
+          "ok": true,
+          "ui": "Anexo 8",
+          "truth": "Anexo 8",
+          "urlProvision": true,
+          "intentMarks": 0
+        },
+        {
+          "scenario": "last provision deep link itf-dcg-2018 at 390x844",
+          "ok": true,
+          "ui": "ANEXO 20",
+          "truth": "ANEXO 20",
+          "urlProvision": true,
+          "intentMarks": 0
+        },
+        {
+          "scenario": "last provision deep link lic at 390x844",
+          "ok": true,
+          "ui": "VIGESIMO",
+          "truth": "VIGESIMO",
+          "urlProvision": true,
+          "intentMarks": 0
+        },
+        {
+          "scenario": "last provision deep link lritf at 390x844",
+          "ok": true,
+          "ui": "DÉCIMA PRIMERA",
+          "truth": "DÉCIMA PRIMERA",
+          "urlProvision": true,
+          "intentMarks": 0
+        },
+        {
+          "scenario": "requested target stable lic Artículo 193 390px fonts=normal #1",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "urlProvision": true,
+          "copyExact": true,
+          "offsetBelowBar": 8,
+          "settled": true,
+          "settleMs": 2016,
+          "intentMarks": 0,
+          "exhausted": 0,
+          "paintedDriftAfterReady": {
+            "frames": 44,
+            "over50": 0,
+            "max": 0
+          }
+        },
+        {
+          "scenario": "requested target stable lic Artículo 193 390px fonts=normal #2",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "urlProvision": true,
+          "copyExact": true,
+          "offsetBelowBar": 8,
+          "settled": true,
+          "settleMs": 1671,
+          "intentMarks": 0,
+          "exhausted": 0,
+          "paintedDriftAfterReady": {
+            "frames": 61,
+            "over50": 0,
+            "max": 0
+          }
+        },
+        {
+          "scenario": "requested target stable lic Artículo 193 390px fonts=normal #3",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "urlProvision": true,
+          "copyExact": true,
+          "offsetBelowBar": 8,
+          "settled": true,
+          "settleMs": 1583,
+          "intentMarks": 0,
+          "exhausted": 0,
+          "paintedDriftAfterReady": {
+            "frames": 67,
+            "over50": 1,
+            "max": 133
+          }
+        },
+        {
+          "scenario": "requested target stable lic Artículo 193 390px fonts=1500 #1",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "urlProvision": true,
+          "copyExact": true,
+          "offsetBelowBar": 8,
+          "settled": true,
+          "settleMs": 6202,
+          "intentMarks": 0,
+          "exhausted": 0,
+          "paintedDriftAfterReady": {
+            "frames": 243,
+            "over50": 1,
+            "max": 133
+          }
+        },
+        {
+          "scenario": "requested target stable lic Artículo 193 390px fonts=1500 #2",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "urlProvision": true,
+          "copyExact": true,
+          "offsetBelowBar": 8,
+          "settled": true,
+          "settleMs": 6124,
+          "intentMarks": 0,
+          "exhausted": 0,
+          "paintedDriftAfterReady": {
+            "frames": 241,
+            "over50": 1,
+            "max": 133
+          }
+        },
+        {
+          "scenario": "requested target stable lic Artículo 193 390px fonts=1500 #3",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "urlProvision": true,
+          "copyExact": true,
+          "offsetBelowBar": 8,
+          "settled": true,
+          "settleMs": 6165,
+          "intentMarks": 0,
+          "exhausted": 0,
+          "paintedDriftAfterReady": {
+            "frames": 246,
+            "over50": 1,
+            "max": 133
+          }
+        },
+        {
+          "scenario": "requested target stable lic Artículo 193 390px fonts=blocked #1",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "urlProvision": true,
+          "copyExact": true,
+          "offsetBelowBar": 8,
+          "settled": true,
+          "settleMs": 927,
+          "intentMarks": 0,
+          "exhausted": 0,
+          "paintedDriftAfterReady": {
+            "frames": 46,
+            "over50": 0,
+            "max": 0
+          }
+        },
+        {
+          "scenario": "requested target stable lic Artículo 193 390px fonts=blocked #2",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "urlProvision": true,
+          "copyExact": true,
+          "offsetBelowBar": 8,
+          "settled": true,
+          "settleMs": 931,
+          "intentMarks": 0,
+          "exhausted": 0,
+          "paintedDriftAfterReady": {
+            "frames": 46,
+            "over50": 0,
+            "max": 0
+          }
+        },
+        {
+          "scenario": "requested target stable lic Artículo 193 390px fonts=blocked #3",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "urlProvision": true,
+          "copyExact": true,
+          "offsetBelowBar": 8,
+          "settled": true,
+          "settleMs": 929,
+          "intentMarks": 0,
+          "exhausted": 0,
+          "paintedDriftAfterReady": {
+            "frames": 47,
+            "over50": 0,
+            "max": 0
+          }
+        },
+        {
+          "scenario": "requested target stable lic Artículo 193 390px fonts=10000 #1",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "urlProvision": true,
+          "copyExact": true,
+          "offsetBelowBar": 8,
+          "settled": true,
+          "settleMs": 31751,
+          "intentMarks": 0,
+          "exhausted": 0,
+          "paintedDriftAfterReady": {
+            "frames": 1269,
+            "over50": 1,
+            "max": 133
+          }
+        },
+        {
+          "scenario": "requested target stable lic Artículo 193 1440px fonts=normal #1",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "urlProvision": true,
+          "copyExact": true,
+          "offsetBelowBar": 8,
+          "settled": true,
+          "settleMs": 1580,
+          "intentMarks": 0,
+          "exhausted": 0,
+          "paintedDriftAfterReady": {
+            "frames": 55,
+            "over50": 1,
+            "max": 68
+          }
+        },
+        {
+          "scenario": "requested target stable lic Artículo 193 1440px fonts=1500 #1",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "urlProvision": true,
+          "copyExact": true,
+          "offsetBelowBar": 8,
+          "settled": true,
+          "settleMs": 6145,
+          "intentMarks": 0,
+          "exhausted": 0,
+          "paintedDriftAfterReady": {
+            "frames": 242,
+            "over50": 1,
+            "max": 68
+          }
+        },
+        {
+          "scenario": "requested target stable lic Artículo 193 1440px fonts=blocked #1",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "urlProvision": true,
+          "copyExact": true,
+          "offsetBelowBar": 8,
+          "settled": true,
+          "settleMs": 938,
+          "intentMarks": 0,
+          "exhausted": 0,
+          "paintedDriftAfterReady": {
+            "frames": 48,
+            "over50": 0,
+            "max": 0
+          }
+        },
+        {
+          "scenario": "requested target stable lic Artículo 193 1440px fonts=10000 #1",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "urlProvision": true,
+          "copyExact": true,
+          "offsetBelowBar": 8,
+          "settled": true,
+          "settleMs": 31342,
+          "intentMarks": 0,
+          "exhausted": 0,
+          "paintedDriftAfterReady": {
+            "frames": 1250,
+            "over50": 1,
+            "max": 68
+          }
+        },
+        {
+          "scenario": "reader scroll during a held target is preserved",
+          "ok": true,
+          "ui": "Artículo 191",
+          "truth": "Artículo 191",
+          "url": true,
+          "intentMarks": 1,
+          "offsetBelowBar": 1049,
+          "fontsAtAction": "loading"
+        },
+        {
+          "scenario": "unattributed scroll during a held target ends the hold",
+          "ok": true,
+          "ui": "Artículo 191",
+          "truth": "Artículo 191",
+          "url": true,
+          "intentMarks": 1,
+          "offsetBelowBar": 989,
+          "fontsAtAction": "loading"
+        },
+        {
+          "scenario": "pressing Copiar enlace during a held target keeps the target",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "url": true,
+          "intentMarks": 0,
+          "offsetBelowBar": 8,
+          "fontsAtAction": "loading"
+        },
+        {
+          "scenario": "PageDown during a held target is intent and is kept",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "url": true,
+          "intentMarks": 1,
+          "offsetBelowBar": -648,
+          "fontsAtAction": "loading"
+        },
+        {
+          "scenario": "touch tap during a held target keeps the target",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "url": true,
+          "intentMarks": 0,
+          "offsetBelowBar": 8,
+          "fontsAtAction": "loading"
+        },
+        {
+          "scenario": "smooth-scrolling PageDown during a held target is intent and is kept",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "url": true,
+          "intentMarks": 1,
+          "offsetBelowBar": -648,
+          "fontsAtAction": "loading"
+        },
+        {
+          "scenario": "Volver after a reference opened during a held target returns to the target",
+          "ok": true,
+          "ui": "Artículo 66",
+          "truth": "Artículo 66",
+          "url": true,
+          "intentMarks": 0,
+          "offsetBelowBar": 8,
+          "fontsAtAction": "loading"
+        },
+        {
+          "scenario": "resize drag during a held target keeps it",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "intentMarks": 0,
+          "exhausted": 0
+        },
+        {
+          "scenario": "long resize storm: budget bounded, target realigned after quiet",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "offsetBelowBar": 8,
+          "exhaustedMarks": 1,
+          "scrollsWhileIdleAfterRecovery": 0,
+          "stormMs": 17133,
+          "intentMarks": 0
+        },
+        {
+          "scenario": "terminal recovery cap (fault injection, fill complete): unaligned hold ends with a notice, tracking resumes, new navigation re-holds",
+          "ok": true,
+          "pendingFill": false,
+          "stillPending": true,
+          "completion": {
+            "ok": true
+          },
+          "requested": "Artículo 193",
+          "readingLine": "Artículo 191",
+          "ui": "Artículo 191",
+          "index": true,
+          "urlProvision": true,
+          "copyExact": true,
+          "notice": {
+            "visible": true,
+            "text": "No se pudo mantener la posición solicitada; la selección sigue el texto visible."
+          },
+          "exhaustedMarks": 1,
+          "intentMarks": 0,
+          "scrollsWhileIdle": 0,
+          "afterReaderScroll": {
+            "truth": "Artículo 191",
+            "ui": "Artículo 191",
+            "copyExact": true,
+            "intentMarks": 0
+          },
+          "afterNewNavigation": {
+            "ui": "Artículo 193",
+            "truth": "Artículo 193",
+            "copyExact": true,
+            "offsetBelowBar": 8,
+            "scrollsWhileIdle": 0
+          }
+        },
+        {
+          "scenario": "terminal recovery cap (fault injection, fill pending then resumed): unaligned hold ends with a notice, tracking resumes, new navigation re-holds",
+          "ok": true,
+          "pendingFill": true,
+          "stillPending": true,
+          "completion": {
+            "ok": true,
+            "truth": "Artículo 191",
+            "ui": "Artículo 191",
+            "copyExact": true,
+            "corrections": 0
+          },
+          "requested": "Artículo 193",
+          "readingLine": "Artículo 191",
+          "ui": "Artículo 191",
+          "index": true,
+          "urlProvision": true,
+          "copyExact": true,
+          "notice": {
+            "visible": true,
+            "text": "No se pudo mantener la posición solicitada; la selección sigue el texto visible."
+          },
+          "exhaustedMarks": 1,
+          "intentMarks": 0,
+          "scrollsWhileIdle": 0,
+          "afterReaderScroll": {
+            "truth": "Artículo 191",
+            "ui": "Artículo 191",
+            "copyExact": true,
+            "intentMarks": 0
+          },
+          "afterNewNavigation": {
+            "ui": "Artículo 193",
+            "truth": "Artículo 193",
+            "copyExact": true,
+            "offsetBelowBar": 8,
+            "scrollsWhileIdle": 0
+          }
+        },
+        {
+          "scenario": "first-provision entry and instrument switch settle at 1440px",
+          "ok": true,
+          "entry": "Artículo 1o",
+          "settled": true,
+          "scrollsWhileIdle": 0,
+          "switched": "Artículo 1",
+          "settledMarks": 2,
+          "scrollsWhileIdleAfterSwitch": 0,
+          "totalScrollCalls": 6,
+          "exhausted": 0
+        },
+        {
+          "scenario": "first-provision entry and instrument switch settle at 390px",
+          "ok": true,
+          "entry": "Artículo 1o",
+          "settled": true,
+          "scrollsWhileIdle": 0,
+          "switched": "Artículo 1",
+          "settledMarks": 2,
+          "scrollsWhileIdleAfterSwitch": 0,
+          "totalScrollCalls": 6,
+          "exhausted": 0
+        },
+        {
+          "scenario": "index choice at 390px with late fonts holds, pushes once, back restores",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "pushes": 1,
+          "back": "Artículo 2o",
+          "backTruth": "Artículo 2o"
+        },
+        {
+          "scenario": "requested target stable lic Artículo 193 390px fonts=normal #1 (legacy release)",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "urlProvision": true,
+          "copyExact": true,
+          "offsetBelowBar": 8,
+          "settled": true,
+          "settleMs": 1708,
+          "intentMarks": 0,
+          "exhausted": 0,
+          "paintedDriftAfterReady": {
+            "frames": 65,
+            "over50": 1,
+            "max": 90
+          }
+        },
+        {
+          "scenario": "requested target stable lic Artículo 193 390px fonts=normal #2 (legacy release)",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "urlProvision": true,
+          "copyExact": true,
+          "offsetBelowBar": 8,
+          "settled": true,
+          "settleMs": 1664,
+          "intentMarks": 0,
+          "exhausted": 0,
+          "paintedDriftAfterReady": {
+            "frames": 62,
+            "over50": 1,
+            "max": 90
+          }
+        },
+        {
+          "scenario": "requested target stable lic Artículo 193 390px fonts=normal #3 (legacy release)",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "urlProvision": true,
+          "copyExact": true,
+          "offsetBelowBar": 8,
+          "settled": true,
+          "settleMs": 1704,
+          "intentMarks": 0,
+          "exhausted": 0,
+          "paintedDriftAfterReady": {
+            "frames": 63,
+            "over50": 1,
+            "max": 90
+          }
+        },
+        {
+          "scenario": "requested target stable lic Artículo 193 390px fonts=1500 #1 (legacy release)",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "urlProvision": true,
+          "copyExact": true,
+          "offsetBelowBar": 8,
+          "settled": true,
+          "settleMs": 6059,
+          "intentMarks": 0,
+          "exhausted": 0,
+          "paintedDriftAfterReady": {
+            "frames": 243,
+            "over50": 1,
+            "max": 90
+          }
+        },
+        {
+          "scenario": "requested target stable lic Artículo 193 390px fonts=1500 #2 (legacy release)",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "urlProvision": true,
+          "copyExact": true,
+          "offsetBelowBar": 8,
+          "settled": true,
+          "settleMs": 6094,
+          "intentMarks": 0,
+          "exhausted": 0,
+          "paintedDriftAfterReady": {
+            "frames": 243,
+            "over50": 1,
+            "max": 90
+          }
+        },
+        {
+          "scenario": "requested target stable lic Artículo 193 390px fonts=1500 #3 (legacy release)",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "urlProvision": true,
+          "copyExact": true,
+          "offsetBelowBar": 8,
+          "settled": true,
+          "settleMs": 6192,
+          "intentMarks": 0,
+          "exhausted": 0,
+          "paintedDriftAfterReady": {
+            "frames": 245,
+            "over50": 1,
+            "max": 90
+          }
+        },
+        {
+          "scenario": "requested target stable lic Artículo 193 390px fonts=blocked #1 (legacy release)",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "urlProvision": true,
+          "copyExact": true,
+          "offsetBelowBar": 8,
+          "settled": true,
+          "settleMs": 931,
+          "intentMarks": 0,
+          "exhausted": 0,
+          "paintedDriftAfterReady": {
+            "frames": 46,
+            "over50": 0,
+            "max": 0
+          }
+        },
+        {
+          "scenario": "requested target stable lic Artículo 193 390px fonts=blocked #2 (legacy release)",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "urlProvision": true,
+          "copyExact": true,
+          "offsetBelowBar": 8,
+          "settled": true,
+          "settleMs": 939,
+          "intentMarks": 0,
+          "exhausted": 0,
+          "paintedDriftAfterReady": {
+            "frames": 46,
+            "over50": 0,
+            "max": 0
+          }
+        },
+        {
+          "scenario": "requested target stable lic Artículo 193 390px fonts=blocked #3 (legacy release)",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "urlProvision": true,
+          "copyExact": true,
+          "offsetBelowBar": 8,
+          "settled": true,
+          "settleMs": 937,
+          "intentMarks": 0,
+          "exhausted": 0,
+          "paintedDriftAfterReady": {
+            "frames": 46,
+            "over50": 0,
+            "max": 0
+          }
+        },
+        {
+          "scenario": "requested target stable lic Artículo 193 390px fonts=10000 #1 (legacy release)",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "urlProvision": true,
+          "copyExact": true,
+          "offsetBelowBar": 8,
+          "settled": true,
+          "settleMs": 31530,
+          "intentMarks": 0,
+          "exhausted": 0,
+          "paintedDriftAfterReady": {
+            "frames": 1264,
+            "over50": 1,
+            "max": 90
+          }
+        },
+        {
+          "scenario": "requested target stable lic Artículo 193 1440px fonts=normal #1 (legacy release)",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "urlProvision": true,
+          "copyExact": true,
+          "offsetBelowBar": 8,
+          "settled": true,
+          "settleMs": 1880,
+          "intentMarks": 0,
+          "exhausted": 0,
+          "paintedDriftAfterReady": {
+            "frames": 61,
+            "over50": 1,
+            "max": 68
+          }
+        },
+        {
+          "scenario": "requested target stable lic Artículo 193 1440px fonts=1500 #1 (legacy release)",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "urlProvision": true,
+          "copyExact": true,
+          "offsetBelowBar": 8,
+          "settled": true,
+          "settleMs": 6108,
+          "intentMarks": 0,
+          "exhausted": 0,
+          "paintedDriftAfterReady": {
+            "frames": 242,
+            "over50": 1,
+            "max": 68
+          }
+        },
+        {
+          "scenario": "requested target stable lic Artículo 193 1440px fonts=blocked #1 (legacy release)",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "urlProvision": true,
+          "copyExact": true,
+          "offsetBelowBar": 8,
+          "settled": true,
+          "settleMs": 934,
+          "intentMarks": 0,
+          "exhausted": 0,
+          "paintedDriftAfterReady": {
+            "frames": 46,
+            "over50": 0,
+            "max": 0
+          }
+        },
+        {
+          "scenario": "requested target stable lic Artículo 193 1440px fonts=10000 #1 (legacy release)",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "urlProvision": true,
+          "copyExact": true,
+          "offsetBelowBar": 8,
+          "settled": true,
+          "settleMs": 31502,
+          "intentMarks": 0,
+          "exhausted": 0,
+          "paintedDriftAfterReady": {
+            "frames": 1261,
+            "over50": 1,
+            "max": 68
+          }
+        },
+        {
+          "scenario": "legacy release link keeps its pinned release",
+          "ok": true,
+          "tag": "Publicación 3c04016651e2",
+          "shareRelease": "3c04016651e2fd4169632756e96ec19136136e1f42c4ed666070f23f20b30660"
+        },
+        {
+          "scenario": "no page errors (exceptions, ResizeObserver loops)",
+          "ok": true,
+          "pageErrors": []
+        },
+        {
+          "scenario": "every opened page settles its explicit target",
+          "ok": true,
+          "unsettled": []
+        }
+      ],
+      "notApplicable": [],
+      "licLoadTimings": [
+        {
+          "wall_ms": 129,
+          "reader:first-chunk": 52,
+          "reader:flow-complete": 122
+        },
+        {
+          "wall_ms": 128,
+          "reader:first-chunk": 36,
+          "reader:flow-complete": 109
+        },
+        {
+          "wall_ms": 120,
+          "reader:first-chunk": 28,
+          "reader:flow-complete": 103
+        }
+      ],
+      "passed": 73,
+      "failed": 0
+    },
+    "fallback": {
+      "publication": "/Users/jr/Dev/lex-mex-reader-four/.work/f1-fallback-a",
+      "releaseId": "3c04016651e2fd4169632756e96ec19136136e1f42c4ed666070f23f20b30660",
+      "origin": "http://127.0.0.1:62059/lex-mex/",
+      "scrollAnchoring": true,
+      "results": [
+        {
+          "scenario": "reading-line crossing without observer change (scrollTop)",
+          "ok": true,
+          "pair": [
+            "Artículo 121",
+            "Artículo 122"
+          ],
+          "line": 107,
+          "constantMembership": true,
+          "crossed": true,
+          "start": {
+            "truth": "Artículo 121",
+            "ui": "Artículo 121",
+            "mismatches": []
+          },
+          "end": {
+            "truth": "Artículo 122",
+            "ui": "Artículo 122",
+            "mismatches": []
+          },
+          "immediateCopy": {
+            "copyExact": true,
+            "shareProvision": true
+          },
+          "copy": {
+            "copyExact": true,
+            "shareProvision": true
+          },
+          "laggingSteps": 0,
+          "trace": [
+            {
+              "top": 155,
+              "members": "284,285",
+              "truth": "Artículo 121",
+              "ui": "Artículo 121",
+              "mismatches": []
+            },
+            {
+              "top": 147,
+              "members": "284,285",
+              "truth": "Artículo 121",
+              "ui": "Artículo 121",
+              "mismatches": []
+            },
+            {
+              "top": 139,
+              "members": "284,285",
+              "truth": "Artículo 121",
+              "ui": "Artículo 121",
+              "mismatches": []
+            },
+            {
+              "top": 131,
+              "members": "284,285",
+              "truth": "Artículo 121",
+              "ui": "Artículo 121",
+              "mismatches": []
+            },
+            {
+              "top": 123,
+              "members": "284,285",
+              "truth": "Artículo 121",
+              "ui": "Artículo 121",
+              "mismatches": []
+            },
+            {
+              "top": 115,
+              "members": "284,285",
+              "truth": "Artículo 121",
+              "ui": "Artículo 121",
+              "mismatches": []
+            },
+            {
+              "top": 107,
+              "members": "284,285",
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            },
+            {
+              "top": 99,
+              "members": "284,285",
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            },
+            {
+              "top": 91,
+              "members": "284,285",
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            },
+            {
+              "top": 83,
+              "members": "284,285",
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            },
+            {
+              "top": 75,
+              "members": "284,285",
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            },
+            {
+              "top": 67,
+              "members": "284,285",
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            },
+            {
+              "top": 59,
+              "members": "284,285",
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            }
+          ]
+        },
+        {
+          "scenario": "reading-line crossing without observer change (wheel)",
+          "ok": true,
+          "pair": [
+            "Artículo 121",
+            "Artículo 122"
+          ],
+          "line": 107,
+          "constantMembership": true,
+          "crossed": true,
+          "start": {
+            "truth": "Artículo 121",
+            "ui": "Artículo 121",
+            "mismatches": []
+          },
+          "end": {
+            "truth": "Artículo 122",
+            "ui": "Artículo 122",
+            "mismatches": []
+          },
+          "immediateCopy": {
+            "copyExact": true,
+            "shareProvision": true
+          },
+          "copy": {
+            "copyExact": true,
+            "shareProvision": true
+          },
+          "laggingSteps": 0,
+          "trace": [
+            {
+              "top": 155,
+              "members": "284,285",
+              "truth": "Artículo 121",
+              "ui": "Artículo 121",
+              "mismatches": []
+            },
+            {
+              "top": 147,
+              "members": "284,285",
+              "truth": "Artículo 121",
+              "ui": "Artículo 121",
+              "mismatches": []
+            },
+            {
+              "top": 139,
+              "members": "284,285",
+              "truth": "Artículo 121",
+              "ui": "Artículo 121",
+              "mismatches": []
+            },
+            {
+              "top": 131,
+              "members": "284,285",
+              "truth": "Artículo 121",
+              "ui": "Artículo 121",
+              "mismatches": []
+            },
+            {
+              "top": 123,
+              "members": "284,285",
+              "truth": "Artículo 121",
+              "ui": "Artículo 121",
+              "mismatches": []
+            },
+            {
+              "top": 115,
+              "members": "284,285",
+              "truth": "Artículo 121",
+              "ui": "Artículo 121",
+              "mismatches": []
+            },
+            {
+              "top": 107,
+              "members": "284,285",
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            },
+            {
+              "top": 99,
+              "members": "284,285",
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            },
+            {
+              "top": 91,
+              "members": "284,285",
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            },
+            {
+              "top": 83,
+              "members": "284,285",
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            },
+            {
+              "top": 75,
+              "members": "284,285",
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            },
+            {
+              "top": 67,
+              "members": "284,285",
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            },
+            {
+              "top": 59,
+              "members": "284,285",
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            }
+          ]
+        },
+        {
+          "scenario": "short adjacent articles",
+          "ok": true,
+          "from": "Artículo 122 Bis",
+          "badSteps": [],
+          "end": {
+            "truth": "Artículo 122",
+            "ui": "Artículo 122",
+            "mismatches": []
+          }
+        },
+        {
+          "scenario": "long article tail",
+          "ok": true,
+          "article": "Artículo 122",
+          "badSteps": [],
+          "badCount": 0,
+          "end": {
+            "truth": "Artículo 122 Bis",
+            "ui": "Artículo 122 Bis",
+            "mismatches": []
+          },
+          "copy": {
+            "copyExact": true,
+            "shareProvision": true
+          }
+        },
+        {
+          "scenario": "resize across breakpoint",
+          "ok": true,
+          "wide": {
+            "truth": "Artículo 193",
+            "ui": "Artículo 193",
+            "mismatches": []
+          },
+          "narrow": {
+            "truth": "Artículo 194",
+            "ui": "Artículo 194",
+            "mismatches": []
+          },
+          "back": {
+            "truth": "Artículo 193",
+            "ui": "Artículo 193",
+            "mismatches": []
+          }
+        },
+        {
+          "scenario": "deep link lic Artículo 193",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "urlProvision": true,
+          "offsetBelowBar": 8
+        },
+        {
+          "scenario": "deep link lic VIGESIMO",
+          "ok": true,
+          "ui": "VIGESIMO",
+          "truth": "VIGESIMO",
+          "urlProvision": true,
+          "offsetBelowBar": 8
+        },
+        {
+          "scenario": "deep link lritf Artículo 4",
+          "ok": true,
+          "ui": "Artículo 4",
+          "truth": "Artículo 4",
+          "urlProvision": true,
+          "offsetBelowBar": 8
+        },
+        {
+          "scenario": "wheel during navigation lock",
+          "ok": true,
+          "end": {
+            "truth": "Artículo 50",
+            "ui": "Artículo 50",
+            "mismatches": []
+          },
+          "pushes": 1
+        },
+        {
+          "scenario": "index push, no trailing overwrite, back",
+          "ok": true,
+          "afterClick": "Artículo 46",
+          "pushes": 1,
+          "url": true,
+          "back": "Artículo 2o"
+        },
+        {
+          "scenario": "interrupted deep-link settle",
+          "ok": true,
+          "target": "Artículo 261",
+          "end": {
+            "truth": "Artículo 260",
+            "ui": "Artículo 260",
+            "mismatches": []
+          }
+        },
+        {
+          "scenario": "quick instrument switches",
+          "ok": true,
+          "ui": "Artículo 1",
+          "instrument": "itf-dcg-2018",
+          "pushes": [
+            "http://127.0.0.1:62059/lex-mex/?release=3c04016651e2fd4169632756e96ec19136136e1f42c4ed666070f23f20b30660&instrument=ifpe-dcg-2021&provision=urn%3Alex-mx%3Afederal%3Aregulation%3Aifpe-dcg-2021%3Aarticle%3A1",
+            "http://127.0.0.1:62059/lex-mex/?release=3c04016651e2fd4169632756e96ec19136136e1f42c4ed666070f23f20b30660&instrument=itf-dcg-2018&provision=urn%3Alex-mx%3Afederal%3Aregulation%3Aitf-dcg-2018%3Aarticle%3A1"
+          ],
+          "agree": {
+            "truth": "Artículo 1",
+            "ui": "Artículo 1",
+            "mismatches": []
+          }
+        },
+        {
+          "scenario": "narrow 390px deep link",
+          "ok": true,
+          "agree": {
+            "truth": "Artículo 193",
+            "ui": "Artículo 193",
+            "mismatches": []
+          },
+          "horizontalOverflow": false
+        },
+        {
+          "scenario": "search result navigation",
+          "ok": true,
+          "label": "Artículo 112",
+          "pushes": 1,
+          "agree": {
+            "truth": "Artículo 112",
+            "ui": "Artículo 112",
+            "mismatches": []
+          }
+        },
+        {
+          "scenario": "reference view and Volver",
+          "ok": true,
+          "source": "Artículo 2o",
+          "opened": true,
+          "scroll": [
+            630,
+            630,
+            630
+          ]
+        },
+        {
+          "scenario": "PDF offer without auto-follow",
+          "ok": true,
+          "followDisabled": true,
+          "pdfKept": true,
+          "offer": true,
+          "agree": {
+            "truth": "ANEXO 1",
+            "ui": "ANEXO 1",
+            "mismatches": []
+          }
+        },
+        {
+          "scenario": "wheel ending inside the navigation lock",
+          "ok": true,
+          "clicked": "Artículo 29 Bis 3",
+          "end": {
+            "truth": "Artículo 29 Bis 4",
+            "ui": "Artículo 29 Bis 4",
+            "mismatches": []
+          },
+          "copy": {
+            "copyExact": true,
+            "shareProvision": true
+          }
+        },
+        {
+          "scenario": "last provision deep link ifpe-dcg-2021 at 1440x3000",
+          "ok": true,
+          "ui": "Anexo 8",
+          "truth": "Anexo 8",
+          "urlProvision": true,
+          "intentMarks": 0
+        },
+        {
+          "scenario": "last provision deep link itf-dcg-2018 at 1440x3000",
+          "ok": true,
+          "ui": "ANEXO 20",
+          "truth": "ANEXO 20",
+          "urlProvision": true,
+          "intentMarks": 0
+        },
+        {
+          "scenario": "last provision deep link lic at 1440x3000",
+          "ok": true,
+          "ui": "VIGESIMO",
+          "truth": "VIGESIMO",
+          "urlProvision": true,
+          "intentMarks": 0
+        },
+        {
+          "scenario": "last provision deep link lritf at 1440x3000",
+          "ok": true,
+          "ui": "DÉCIMA PRIMERA",
+          "truth": "DÉCIMA PRIMERA",
+          "urlProvision": true,
+          "intentMarks": 0
+        },
+        {
+          "scenario": "last provision deep link ifpe-dcg-2021 at 390x844",
+          "ok": true,
+          "ui": "Anexo 8",
+          "truth": "Anexo 8",
+          "urlProvision": true,
+          "intentMarks": 0
+        },
+        {
+          "scenario": "last provision deep link itf-dcg-2018 at 390x844",
+          "ok": true,
+          "ui": "ANEXO 20",
+          "truth": "ANEXO 20",
+          "urlProvision": true,
+          "intentMarks": 0
+        },
+        {
+          "scenario": "last provision deep link lic at 390x844",
+          "ok": true,
+          "ui": "VIGESIMO",
+          "truth": "VIGESIMO",
+          "urlProvision": true,
+          "intentMarks": 0
+        },
+        {
+          "scenario": "last provision deep link lritf at 390x844",
+          "ok": true,
+          "ui": "DÉCIMA PRIMERA",
+          "truth": "DÉCIMA PRIMERA",
+          "urlProvision": true,
+          "intentMarks": 0
+        },
+        {
+          "scenario": "requested target stable lic Artículo 193 390px fonts=normal #1",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "urlProvision": true,
+          "copyExact": true,
+          "offsetBelowBar": 8,
+          "settled": true,
+          "settleMs": 1897,
+          "intentMarks": 0,
+          "exhausted": 0,
+          "paintedDriftAfterReady": {
+            "frames": 62,
+            "over50": 1,
+            "max": 90
+          }
+        },
+        {
+          "scenario": "requested target stable lic Artículo 193 390px fonts=normal #2",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "urlProvision": true,
+          "copyExact": true,
+          "offsetBelowBar": 8,
+          "settled": true,
+          "settleMs": 1896,
+          "intentMarks": 0,
+          "exhausted": 0,
+          "paintedDriftAfterReady": {
+            "frames": 63,
+            "over50": 1,
+            "max": 90
+          }
+        },
+        {
+          "scenario": "requested target stable lic Artículo 193 390px fonts=normal #3",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "urlProvision": true,
+          "copyExact": true,
+          "offsetBelowBar": 8,
+          "settled": true,
+          "settleMs": 1882,
+          "intentMarks": 0,
+          "exhausted": 0,
+          "paintedDriftAfterReady": {
+            "frames": 60,
+            "over50": 0,
+            "max": 0
+          }
+        },
+        {
+          "scenario": "requested target stable lic Artículo 193 390px fonts=1500 #1",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "urlProvision": true,
+          "copyExact": true,
+          "offsetBelowBar": 8,
+          "settled": true,
+          "settleMs": 6109,
+          "intentMarks": 0,
+          "exhausted": 0,
+          "paintedDriftAfterReady": {
+            "frames": 246,
+            "over50": 1,
+            "max": 90
+          }
+        },
+        {
+          "scenario": "requested target stable lic Artículo 193 390px fonts=1500 #2",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "urlProvision": true,
+          "copyExact": true,
+          "offsetBelowBar": 8,
+          "settled": true,
+          "settleMs": 6094,
+          "intentMarks": 0,
+          "exhausted": 0,
+          "paintedDriftAfterReady": {
+            "frames": 245,
+            "over50": 1,
+            "max": 90
+          }
+        },
+        {
+          "scenario": "requested target stable lic Artículo 193 390px fonts=1500 #3",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "urlProvision": true,
+          "copyExact": true,
+          "offsetBelowBar": 8,
+          "settled": true,
+          "settleMs": 6098,
+          "intentMarks": 0,
+          "exhausted": 0,
+          "paintedDriftAfterReady": {
+            "frames": 245,
+            "over50": 1,
+            "max": 90
+          }
+        },
+        {
+          "scenario": "requested target stable lic Artículo 193 390px fonts=blocked #1",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "urlProvision": true,
+          "copyExact": true,
+          "offsetBelowBar": 8,
+          "settled": true,
+          "settleMs": 951,
+          "intentMarks": 0,
+          "exhausted": 0,
+          "paintedDriftAfterReady": {
+            "frames": 47,
+            "over50": 0,
+            "max": 0
+          }
+        },
+        {
+          "scenario": "requested target stable lic Artículo 193 390px fonts=blocked #2",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "urlProvision": true,
+          "copyExact": true,
+          "offsetBelowBar": 8,
+          "settled": true,
+          "settleMs": 925,
+          "intentMarks": 0,
+          "exhausted": 0,
+          "paintedDriftAfterReady": {
+            "frames": 46,
+            "over50": 0,
+            "max": 0
+          }
+        },
+        {
+          "scenario": "requested target stable lic Artículo 193 390px fonts=blocked #3",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "urlProvision": true,
+          "copyExact": true,
+          "offsetBelowBar": 8,
+          "settled": true,
+          "settleMs": 918,
+          "intentMarks": 0,
+          "exhausted": 0,
+          "paintedDriftAfterReady": {
+            "frames": 46,
+            "over50": 0,
+            "max": 0
+          }
+        },
+        {
+          "scenario": "requested target stable lic Artículo 193 390px fonts=10000 #1",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "urlProvision": true,
+          "copyExact": true,
+          "offsetBelowBar": 8,
+          "settled": true,
+          "settleMs": 31540,
+          "intentMarks": 0,
+          "exhausted": 0,
+          "paintedDriftAfterReady": {
+            "frames": 1265,
+            "over50": 0,
+            "max": 0
+          }
+        },
+        {
+          "scenario": "requested target stable lic Artículo 193 1440px fonts=normal #1",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "urlProvision": true,
+          "copyExact": true,
+          "offsetBelowBar": 8,
+          "settled": true,
+          "settleMs": 1746,
+          "intentMarks": 0,
+          "exhausted": 0,
+          "paintedDriftAfterReady": {
+            "frames": 65,
+            "over50": 1,
+            "max": 68
+          }
+        },
+        {
+          "scenario": "requested target stable lic Artículo 193 1440px fonts=1500 #1",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "urlProvision": true,
+          "copyExact": true,
+          "offsetBelowBar": 8,
+          "settled": true,
+          "settleMs": 6076,
+          "intentMarks": 0,
+          "exhausted": 0,
+          "paintedDriftAfterReady": {
+            "frames": 241,
+            "over50": 1,
+            "max": 68
+          }
+        },
+        {
+          "scenario": "requested target stable lic Artículo 193 1440px fonts=blocked #1",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "urlProvision": true,
+          "copyExact": true,
+          "offsetBelowBar": 8,
+          "settled": true,
+          "settleMs": 932,
+          "intentMarks": 0,
+          "exhausted": 0,
+          "paintedDriftAfterReady": {
+            "frames": 47,
+            "over50": 0,
+            "max": 0
+          }
+        },
+        {
+          "scenario": "requested target stable lic Artículo 193 1440px fonts=10000 #1",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "urlProvision": true,
+          "copyExact": true,
+          "offsetBelowBar": 8,
+          "settled": true,
+          "settleMs": 31324,
+          "intentMarks": 0,
+          "exhausted": 0,
+          "paintedDriftAfterReady": {
+            "frames": 1250,
+            "over50": 1,
+            "max": 68
+          }
+        },
+        {
+          "scenario": "reader scroll during a held target is preserved",
+          "ok": true,
+          "ui": "Artículo 191",
+          "truth": "Artículo 191",
+          "url": true,
+          "intentMarks": 1,
+          "offsetBelowBar": 1028,
+          "fontsAtAction": "loading"
+        },
+        {
+          "scenario": "unattributed scroll during a held target ends the hold",
+          "ok": true,
+          "ui": "Artículo 191",
+          "truth": "Artículo 191",
+          "url": true,
+          "intentMarks": 1,
+          "offsetBelowBar": 968,
+          "fontsAtAction": "loading"
+        },
+        {
+          "scenario": "pressing Copiar enlace during a held target keeps the target",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "url": true,
+          "intentMarks": 0,
+          "offsetBelowBar": 8,
+          "fontsAtAction": "loading"
+        },
+        {
+          "scenario": "PageDown during a held target is intent and is kept",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "url": true,
+          "intentMarks": 1,
+          "offsetBelowBar": -626,
+          "fontsAtAction": "loading"
+        },
+        {
+          "scenario": "touch tap during a held target keeps the target",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "url": true,
+          "intentMarks": 0,
+          "offsetBelowBar": 8,
+          "fontsAtAction": "loading"
+        },
+        {
+          "scenario": "smooth-scrolling PageDown during a held target is intent and is kept",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "url": true,
+          "intentMarks": 1,
+          "offsetBelowBar": -626,
+          "fontsAtAction": "loading"
+        },
+        {
+          "scenario": "Volver after a reference opened during a held target returns to the target",
+          "ok": true,
+          "ui": "Artículo 66",
+          "truth": "Artículo 66",
+          "url": true,
+          "intentMarks": 0,
+          "offsetBelowBar": 8,
+          "fontsAtAction": "loading"
+        },
+        {
+          "scenario": "resize drag during a held target keeps it",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "intentMarks": 0,
+          "exhausted": 0
+        },
+        {
+          "scenario": "long resize storm: budget bounded, target realigned after quiet",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "offsetBelowBar": 8,
+          "exhaustedMarks": 1,
+          "scrollsWhileIdleAfterRecovery": 0,
+          "stormMs": 16996,
+          "intentMarks": 0
+        },
+        {
+          "scenario": "terminal recovery cap (fault injection, fill complete): unaligned hold ends with a notice, tracking resumes, new navigation re-holds",
+          "ok": true,
+          "pendingFill": false,
+          "stillPending": true,
+          "completion": {
+            "ok": true
+          },
+          "requested": "Artículo 193",
+          "readingLine": "Artículo 191",
+          "ui": "Artículo 191",
+          "index": true,
+          "urlProvision": true,
+          "copyExact": true,
+          "notice": {
+            "visible": true,
+            "text": "No se pudo mantener la posición solicitada; la selección sigue el texto visible."
+          },
+          "exhaustedMarks": 1,
+          "intentMarks": 0,
+          "scrollsWhileIdle": 0,
+          "afterReaderScroll": {
+            "truth": "Artículo 191",
+            "ui": "Artículo 191",
+            "copyExact": true,
+            "intentMarks": 0
+          },
+          "afterNewNavigation": {
+            "ui": "Artículo 193",
+            "truth": "Artículo 193",
+            "copyExact": true,
+            "offsetBelowBar": 8,
+            "scrollsWhileIdle": 0
+          }
+        },
+        {
+          "scenario": "terminal recovery cap (fault injection, fill pending then resumed): unaligned hold ends with a notice, tracking resumes, new navigation re-holds",
+          "ok": true,
+          "pendingFill": true,
+          "stillPending": true,
+          "completion": {
+            "ok": true,
+            "truth": "Artículo 194",
+            "ui": "Artículo 194",
+            "copyExact": true,
+            "corrections": 0
+          },
+          "requested": "Artículo 193",
+          "readingLine": "Artículo 194",
+          "ui": "Artículo 194",
+          "index": true,
+          "urlProvision": true,
+          "copyExact": true,
+          "notice": {
+            "visible": true,
+            "text": "No se pudo mantener la posición solicitada; la selección sigue el texto visible."
+          },
+          "exhaustedMarks": 1,
+          "intentMarks": 0,
+          "scrollsWhileIdle": 0,
+          "afterReaderScroll": {
+            "truth": "Artículo 194",
+            "ui": "Artículo 194",
+            "copyExact": true,
+            "intentMarks": 0
+          },
+          "afterNewNavigation": {
+            "ui": "Artículo 193",
+            "truth": "Artículo 193",
+            "copyExact": true,
+            "offsetBelowBar": 8,
+            "scrollsWhileIdle": 0
+          }
+        },
+        {
+          "scenario": "first-provision entry and instrument switch settle at 1440px",
+          "ok": true,
+          "entry": "Artículo 1o",
+          "settled": true,
+          "scrollsWhileIdle": 0,
+          "switched": "Artículo 1",
+          "settledMarks": 2,
+          "scrollsWhileIdleAfterSwitch": 0,
+          "totalScrollCalls": 6,
+          "exhausted": 0
+        },
+        {
+          "scenario": "first-provision entry and instrument switch settle at 390px",
+          "ok": true,
+          "entry": "Artículo 1o",
+          "settled": true,
+          "scrollsWhileIdle": 0,
+          "switched": "Artículo 1",
+          "settledMarks": 2,
+          "scrollsWhileIdleAfterSwitch": 0,
+          "totalScrollCalls": 6,
+          "exhausted": 0
+        },
+        {
+          "scenario": "index choice at 390px with late fonts holds, pushes once, back restores",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "pushes": 1,
+          "back": "Artículo 2o",
+          "backTruth": "Artículo 2o"
+        },
+        {
+          "scenario": "no page errors (exceptions, ResizeObserver loops)",
+          "ok": true,
+          "pageErrors": []
+        },
+        {
+          "scenario": "every opened page settles its explicit target",
+          "ok": true,
+          "unsettled": []
+        }
+      ],
+      "notApplicable": [
+        "deep link lic Artículo 112 Quintus: provision not in this release",
+        "deep link lic Artículo 112 Sextus: provision not in this release",
+        "deep link lic Artículo 112 Séptimus: provision not in this release"
+      ],
+      "licLoadTimings": [
+        {
+          "wall_ms": 141,
+          "reader:first-chunk": 45,
+          "reader:flow-complete": 123
+        },
+        {
+          "wall_ms": 126,
+          "reader:first-chunk": 29,
+          "reader:flow-complete": 99
+        },
+        {
+          "wall_ms": 120,
+          "reader:first-chunk": 28,
+          "reader:flow-complete": 97
+        }
+      ],
+      "passed": 55,
+      "failed": 0
+    },
+    "noanchor": {
+      "publication": "/Users/jr/Dev/lex-mex-reader-four/.work/f1-preferred-a",
+      "releaseId": "9626bfe45c4ebc95b47351fd20c1de86f9b4f54856aee1de6d408e5d8389991f",
+      "origin": "http://127.0.0.1:63784/lex-mex/",
+      "scrollAnchoring": false,
+      "results": [
+        {
+          "scenario": "reading-line crossing without observer change (scrollTop)",
+          "ok": true,
+          "pair": [
+            "Artículo 121",
+            "Artículo 122"
+          ],
+          "line": 107,
+          "constantMembership": true,
+          "crossed": true,
+          "start": {
+            "truth": "Artículo 121",
+            "ui": "Artículo 121",
+            "mismatches": []
+          },
+          "end": {
+            "truth": "Artículo 122",
+            "ui": "Artículo 122",
+            "mismatches": []
+          },
+          "immediateCopy": {
+            "copyExact": true,
+            "shareProvision": true
+          },
+          "copy": {
+            "copyExact": true,
+            "shareProvision": true
+          },
+          "laggingSteps": 0,
+          "trace": [
+            {
+              "top": 155,
+              "members": "287,288",
+              "truth": "Artículo 121",
+              "ui": "Artículo 121",
+              "mismatches": []
+            },
+            {
+              "top": 147,
+              "members": "287,288",
+              "truth": "Artículo 121",
+              "ui": "Artículo 121",
+              "mismatches": []
+            },
+            {
+              "top": 139,
+              "members": "287,288",
+              "truth": "Artículo 121",
+              "ui": "Artículo 121",
+              "mismatches": []
+            },
+            {
+              "top": 131,
+              "members": "287,288",
+              "truth": "Artículo 121",
+              "ui": "Artículo 121",
+              "mismatches": []
+            },
+            {
+              "top": 123,
+              "members": "287,288",
+              "truth": "Artículo 121",
+              "ui": "Artículo 121",
+              "mismatches": []
+            },
+            {
+              "top": 115,
+              "members": "287,288",
+              "truth": "Artículo 121",
+              "ui": "Artículo 121",
+              "mismatches": []
+            },
+            {
+              "top": 107,
+              "members": "287,288",
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            },
+            {
+              "top": 99,
+              "members": "287,288",
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            },
+            {
+              "top": 91,
+              "members": "287,288",
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            },
+            {
+              "top": 83,
+              "members": "287,288",
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            },
+            {
+              "top": 75,
+              "members": "287,288",
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            },
+            {
+              "top": 67,
+              "members": "287,288",
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            },
+            {
+              "top": 59,
+              "members": "287,288",
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            }
+          ]
+        },
+        {
+          "scenario": "reading-line crossing without observer change (wheel)",
+          "ok": true,
+          "pair": [
+            "Artículo 121",
+            "Artículo 122"
+          ],
+          "line": 107,
+          "constantMembership": true,
+          "crossed": true,
+          "start": {
+            "truth": "Artículo 121",
+            "ui": "Artículo 121",
+            "mismatches": []
+          },
+          "end": {
+            "truth": "Artículo 122",
+            "ui": "Artículo 122",
+            "mismatches": []
+          },
+          "immediateCopy": {
+            "copyExact": true,
+            "shareProvision": true
+          },
+          "copy": {
+            "copyExact": true,
+            "shareProvision": true
+          },
+          "laggingSteps": 0,
+          "trace": [
+            {
+              "top": 155,
+              "members": "287,288",
+              "truth": "Artículo 121",
+              "ui": "Artículo 121",
+              "mismatches": []
+            },
+            {
+              "top": 147,
+              "members": "287,288",
+              "truth": "Artículo 121",
+              "ui": "Artículo 121",
+              "mismatches": []
+            },
+            {
+              "top": 139,
+              "members": "287,288",
+              "truth": "Artículo 121",
+              "ui": "Artículo 121",
+              "mismatches": []
+            },
+            {
+              "top": 131,
+              "members": "287,288",
+              "truth": "Artículo 121",
+              "ui": "Artículo 121",
+              "mismatches": []
+            },
+            {
+              "top": 123,
+              "members": "287,288",
+              "truth": "Artículo 121",
+              "ui": "Artículo 121",
+              "mismatches": []
+            },
+            {
+              "top": 115,
+              "members": "287,288",
+              "truth": "Artículo 121",
+              "ui": "Artículo 121",
+              "mismatches": []
+            },
+            {
+              "top": 107,
+              "members": "287,288",
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            },
+            {
+              "top": 99,
+              "members": "287,288",
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            },
+            {
+              "top": 91,
+              "members": "287,288",
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            },
+            {
+              "top": 83,
+              "members": "287,288",
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            },
+            {
+              "top": 75,
+              "members": "287,288",
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            },
+            {
+              "top": 67,
+              "members": "287,288",
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            },
+            {
+              "top": 59,
+              "members": "287,288",
+              "truth": "Artículo 122",
+              "ui": "Artículo 122",
+              "mismatches": []
+            }
+          ]
+        },
+        {
+          "scenario": "short adjacent articles",
+          "ok": true,
+          "from": "Artículo 122 Bis",
+          "badSteps": [],
+          "end": {
+            "truth": "Artículo 122",
+            "ui": "Artículo 122",
+            "mismatches": []
+          }
+        },
+        {
+          "scenario": "long article tail",
+          "ok": true,
+          "article": "Artículo 122",
+          "badSteps": [],
+          "badCount": 0,
+          "end": {
+            "truth": "Artículo 122 Bis",
+            "ui": "Artículo 122 Bis",
+            "mismatches": []
+          },
+          "copy": {
+            "copyExact": true,
+            "shareProvision": true
+          }
+        },
+        {
+          "scenario": "resize across breakpoint",
+          "ok": true,
+          "wide": {
+            "truth": "Artículo 193",
+            "ui": "Artículo 193",
+            "mismatches": []
+          },
+          "narrow": {
+            "truth": "Artículo 194",
+            "ui": "Artículo 194",
+            "mismatches": []
+          },
+          "back": {
+            "truth": "Artículo 193",
+            "ui": "Artículo 193",
+            "mismatches": []
+          }
+        },
+        {
+          "scenario": "deep link lic Artículo 112 Quintus",
+          "ok": true,
+          "ui": "Artículo 112 Quintus",
+          "truth": "Artículo 112 Quintus",
+          "urlProvision": true,
+          "offsetBelowBar": 8
+        },
+        {
+          "scenario": "deep link lic Artículo 112 Sextus",
+          "ok": true,
+          "ui": "Artículo 112 Sextus",
+          "truth": "Artículo 112 Sextus",
+          "urlProvision": true,
+          "offsetBelowBar": 8
+        },
+        {
+          "scenario": "deep link lic Artículo 112 Séptimus",
+          "ok": true,
+          "ui": "Artículo 112 Séptimus",
+          "truth": "Artículo 112 Séptimus",
+          "urlProvision": true,
+          "offsetBelowBar": 8
+        },
+        {
+          "scenario": "deep link lic Artículo 193",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "urlProvision": true,
+          "offsetBelowBar": 8
+        },
+        {
+          "scenario": "deep link lic VIGESIMO",
+          "ok": true,
+          "ui": "VIGESIMO",
+          "truth": "VIGESIMO",
+          "urlProvision": true,
+          "offsetBelowBar": 8
+        },
+        {
+          "scenario": "deep link lritf Artículo 4",
+          "ok": true,
+          "ui": "Artículo 4",
+          "truth": "Artículo 4",
+          "urlProvision": true,
+          "offsetBelowBar": 8
+        },
+        {
+          "scenario": "wheel during navigation lock",
+          "ok": true,
+          "end": {
+            "truth": "Artículo 50",
+            "ui": "Artículo 50",
+            "mismatches": []
+          },
+          "pushes": 1
+        },
+        {
+          "scenario": "index push, no trailing overwrite, back",
+          "ok": true,
+          "afterClick": "Artículo 46",
+          "pushes": 1,
+          "url": true,
+          "back": "Artículo 2o"
+        },
+        {
+          "scenario": "interrupted deep-link settle",
+          "ok": true,
+          "target": "Artículo 261",
+          "end": {
+            "truth": "Artículo 260",
+            "ui": "Artículo 260",
+            "mismatches": []
+          }
+        },
+        {
+          "scenario": "quick instrument switches",
+          "ok": true,
+          "ui": "Artículo 1",
+          "instrument": "itf-dcg-2018",
+          "pushes": [
+            "http://127.0.0.1:63784/lex-mex/?release=9626bfe45c4ebc95b47351fd20c1de86f9b4f54856aee1de6d408e5d8389991f&instrument=ifpe-dcg-2021&provision=urn%3Alex-mx%3Afederal%3Aregulation%3Aifpe-dcg-2021%3Aarticle%3A1",
+            "http://127.0.0.1:63784/lex-mex/?release=9626bfe45c4ebc95b47351fd20c1de86f9b4f54856aee1de6d408e5d8389991f&instrument=itf-dcg-2018&provision=urn%3Alex-mx%3Afederal%3Aregulation%3Aitf-dcg-2018%3Aarticle%3A1"
+          ],
+          "agree": {
+            "truth": "Artículo 1",
+            "ui": "Artículo 1",
+            "mismatches": []
+          }
+        },
+        {
+          "scenario": "narrow 390px deep link",
+          "ok": true,
+          "agree": {
+            "truth": "Artículo 193",
+            "ui": "Artículo 193",
+            "mismatches": []
+          },
+          "horizontalOverflow": false
+        },
+        {
+          "scenario": "search result navigation",
+          "ok": true,
+          "label": "Artículo 112",
+          "pushes": 1,
+          "agree": {
+            "truth": "Artículo 112",
+            "ui": "Artículo 112",
+            "mismatches": []
+          }
+        },
+        {
+          "scenario": "reference view and Volver",
+          "ok": true,
+          "source": "Artículo 2o",
+          "opened": true,
+          "scroll": [
+            630,
+            630,
+            630
+          ]
+        },
+        {
+          "scenario": "PDF offer without auto-follow",
+          "ok": true,
+          "followDisabled": true,
+          "pdfKept": true,
+          "offer": true,
+          "agree": {
+            "truth": "ANEXO 1",
+            "ui": "ANEXO 1",
+            "mismatches": []
+          }
+        },
+        {
+          "scenario": "wheel ending inside the navigation lock",
+          "ok": true,
+          "clicked": "Artículo 29 Bis 3",
+          "end": {
+            "truth": "Artículo 29 Bis 4",
+            "ui": "Artículo 29 Bis 4",
+            "mismatches": []
+          },
+          "copy": {
+            "copyExact": true,
+            "shareProvision": true
+          }
+        },
+        {
+          "scenario": "last provision deep link ifpe-dcg-2021 at 1440x3000",
+          "ok": true,
+          "ui": "Anexo 8",
+          "truth": "Anexo 8",
+          "urlProvision": true,
+          "intentMarks": 0
+        },
+        {
+          "scenario": "last provision deep link itf-dcg-2018 at 1440x3000",
+          "ok": true,
+          "ui": "ANEXO 20",
+          "truth": "ANEXO 20",
+          "urlProvision": true,
+          "intentMarks": 0
+        },
+        {
+          "scenario": "last provision deep link lic at 1440x3000",
+          "ok": true,
+          "ui": "VIGESIMO",
+          "truth": "VIGESIMO",
+          "urlProvision": true,
+          "intentMarks": 0
+        },
+        {
+          "scenario": "last provision deep link lritf at 1440x3000",
+          "ok": true,
+          "ui": "DÉCIMA PRIMERA",
+          "truth": "DÉCIMA PRIMERA",
+          "urlProvision": true,
+          "intentMarks": 0
+        },
+        {
+          "scenario": "last provision deep link ifpe-dcg-2021 at 390x844",
+          "ok": true,
+          "ui": "Anexo 8",
+          "truth": "Anexo 8",
+          "urlProvision": true,
+          "intentMarks": 0
+        },
+        {
+          "scenario": "last provision deep link itf-dcg-2018 at 390x844",
+          "ok": true,
+          "ui": "ANEXO 20",
+          "truth": "ANEXO 20",
+          "urlProvision": true,
+          "intentMarks": 0
+        },
+        {
+          "scenario": "last provision deep link lic at 390x844",
+          "ok": true,
+          "ui": "VIGESIMO",
+          "truth": "VIGESIMO",
+          "urlProvision": true,
+          "intentMarks": 0
+        },
+        {
+          "scenario": "last provision deep link lritf at 390x844",
+          "ok": true,
+          "ui": "DÉCIMA PRIMERA",
+          "truth": "DÉCIMA PRIMERA",
+          "urlProvision": true,
+          "intentMarks": 0
+        },
+        {
+          "scenario": "requested target stable lic Artículo 193 390px fonts=normal #1",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "urlProvision": true,
+          "copyExact": true,
+          "offsetBelowBar": 8,
+          "settled": true,
+          "settleMs": 1859,
+          "intentMarks": 0,
+          "exhausted": 0,
+          "paintedDriftAfterReady": {
+            "frames": 62,
+            "over50": 1,
+            "max": 133
+          }
+        },
+        {
+          "scenario": "requested target stable lic Artículo 193 390px fonts=normal #2",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "urlProvision": true,
+          "copyExact": true,
+          "offsetBelowBar": 8,
+          "settled": true,
+          "settleMs": 1867,
+          "intentMarks": 0,
+          "exhausted": 0,
+          "paintedDriftAfterReady": {
+            "frames": 61,
+            "over50": 0,
+            "max": 0
+          }
+        },
+        {
+          "scenario": "requested target stable lic Artículo 193 390px fonts=normal #3",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "urlProvision": true,
+          "copyExact": true,
+          "offsetBelowBar": 8,
+          "settled": true,
+          "settleMs": 1886,
+          "intentMarks": 0,
+          "exhausted": 0,
+          "paintedDriftAfterReady": {
+            "frames": 62,
+            "over50": 1,
+            "max": 133
+          }
+        },
+        {
+          "scenario": "requested target stable lic Artículo 193 390px fonts=1500 #1",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "urlProvision": true,
+          "copyExact": true,
+          "offsetBelowBar": 8,
+          "settled": true,
+          "settleMs": 6018,
+          "intentMarks": 0,
+          "exhausted": 0,
+          "paintedDriftAfterReady": {
+            "frames": 239,
+            "over50": 0,
+            "max": 0
+          }
+        },
+        {
+          "scenario": "requested target stable lic Artículo 193 390px fonts=1500 #2",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "urlProvision": true,
+          "copyExact": true,
+          "offsetBelowBar": 8,
+          "settled": true,
+          "settleMs": 6105,
+          "intentMarks": 0,
+          "exhausted": 0,
+          "paintedDriftAfterReady": {
+            "frames": 242,
+            "over50": 0,
+            "max": 0
+          }
+        },
+        {
+          "scenario": "requested target stable lic Artículo 193 390px fonts=1500 #3",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "urlProvision": true,
+          "copyExact": true,
+          "offsetBelowBar": 8,
+          "settled": true,
+          "settleMs": 6121,
+          "intentMarks": 0,
+          "exhausted": 0,
+          "paintedDriftAfterReady": {
+            "frames": 241,
+            "over50": 1,
+            "max": 133
+          }
+        },
+        {
+          "scenario": "requested target stable lic Artículo 193 390px fonts=blocked #1",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "urlProvision": true,
+          "copyExact": true,
+          "offsetBelowBar": 8,
+          "settled": true,
+          "settleMs": 919,
+          "intentMarks": 0,
+          "exhausted": 0,
+          "paintedDriftAfterReady": {
+            "frames": 46,
+            "over50": 0,
+            "max": 0
+          }
+        },
+        {
+          "scenario": "requested target stable lic Artículo 193 390px fonts=blocked #2",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "urlProvision": true,
+          "copyExact": true,
+          "offsetBelowBar": 8,
+          "settled": true,
+          "settleMs": 916,
+          "intentMarks": 0,
+          "exhausted": 0,
+          "paintedDriftAfterReady": {
+            "frames": 45,
+            "over50": 0,
+            "max": 0
+          }
+        },
+        {
+          "scenario": "requested target stable lic Artículo 193 390px fonts=blocked #3",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "urlProvision": true,
+          "copyExact": true,
+          "offsetBelowBar": 8,
+          "settled": true,
+          "settleMs": 905,
+          "intentMarks": 0,
+          "exhausted": 0,
+          "paintedDriftAfterReady": {
+            "frames": 46,
+            "over50": 0,
+            "max": 0
+          }
+        },
+        {
+          "scenario": "requested target stable lic Artículo 193 390px fonts=10000 #1",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "urlProvision": true,
+          "copyExact": true,
+          "offsetBelowBar": 8,
+          "settled": true,
+          "settleMs": 31658,
+          "intentMarks": 0,
+          "exhausted": 0,
+          "paintedDriftAfterReady": {
+            "frames": 1270,
+            "over50": 1,
+            "max": 133
+          }
+        },
+        {
+          "scenario": "requested target stable lic Artículo 193 1440px fonts=normal #1",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "urlProvision": true,
+          "copyExact": true,
+          "offsetBelowBar": 8,
+          "settled": true,
+          "settleMs": 1816,
+          "intentMarks": 0,
+          "exhausted": 0,
+          "paintedDriftAfterReady": {
+            "frames": 58,
+            "over50": 1,
+            "max": 68
+          }
+        },
+        {
+          "scenario": "requested target stable lic Artículo 193 1440px fonts=1500 #1",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "urlProvision": true,
+          "copyExact": true,
+          "offsetBelowBar": 8,
+          "settled": true,
+          "settleMs": 6136,
+          "intentMarks": 0,
+          "exhausted": 0,
+          "paintedDriftAfterReady": {
+            "frames": 242,
+            "over50": 1,
+            "max": 68
+          }
+        },
+        {
+          "scenario": "requested target stable lic Artículo 193 1440px fonts=blocked #1",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "urlProvision": true,
+          "copyExact": true,
+          "offsetBelowBar": 8,
+          "settled": true,
+          "settleMs": 945,
+          "intentMarks": 0,
+          "exhausted": 0,
+          "paintedDriftAfterReady": {
+            "frames": 46,
+            "over50": 0,
+            "max": 0
+          }
+        },
+        {
+          "scenario": "requested target stable lic Artículo 193 1440px fonts=10000 #1",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "urlProvision": true,
+          "copyExact": true,
+          "offsetBelowBar": 8,
+          "settled": true,
+          "settleMs": 31561,
+          "intentMarks": 0,
+          "exhausted": 0,
+          "paintedDriftAfterReady": {
+            "frames": 1267,
+            "over50": 1,
+            "max": 68
+          }
+        },
+        {
+          "scenario": "reader scroll during a held target is preserved",
+          "ok": true,
+          "ui": "Artículo 191",
+          "truth": "Artículo 191",
+          "url": true,
+          "intentMarks": 1,
+          "offsetBelowBar": 1101,
+          "fontsAtAction": "loading"
+        },
+        {
+          "scenario": "unattributed scroll during a held target ends the hold",
+          "ok": true,
+          "ui": "Artículo 191",
+          "truth": "Artículo 191",
+          "url": true,
+          "intentMarks": 1,
+          "offsetBelowBar": 1041,
+          "fontsAtAction": "loading"
+        },
+        {
+          "scenario": "pressing Copiar enlace during a held target keeps the target",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "url": true,
+          "intentMarks": 0,
+          "offsetBelowBar": 8,
+          "fontsAtAction": "loading"
+        },
+        {
+          "scenario": "PageDown during a held target is intent and is kept",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "url": true,
+          "intentMarks": 1,
+          "offsetBelowBar": -493,
+          "fontsAtAction": "loading"
+        },
+        {
+          "scenario": "touch tap during a held target keeps the target",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "url": true,
+          "intentMarks": 0,
+          "offsetBelowBar": 8,
+          "fontsAtAction": "loading"
+        },
+        {
+          "scenario": "smooth-scrolling PageDown during a held target is intent and is kept",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "url": true,
+          "intentMarks": 1,
+          "offsetBelowBar": -493,
+          "fontsAtAction": "loading"
+        },
+        {
+          "scenario": "Volver after a reference opened during a held target returns to the target",
+          "ok": true,
+          "ui": "Artículo 66",
+          "truth": "Artículo 66",
+          "url": true,
+          "intentMarks": 0,
+          "offsetBelowBar": 8,
+          "fontsAtAction": "loading"
+        },
+        {
+          "scenario": "resize drag during a held target keeps it",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "intentMarks": 0,
+          "exhausted": 0
+        },
+        {
+          "scenario": "long resize storm: budget bounded, target realigned after quiet",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "offsetBelowBar": 8,
+          "exhaustedMarks": 1,
+          "scrollsWhileIdleAfterRecovery": 0,
+          "stormMs": 17355,
+          "intentMarks": 0
+        },
+        {
+          "scenario": "terminal recovery cap (fault injection, fill complete): unaligned hold ends with a notice, tracking resumes, new navigation re-holds",
+          "ok": true,
+          "pendingFill": false,
+          "stillPending": true,
+          "completion": {
+            "ok": true
+          },
+          "requested": "Artículo 193",
+          "readingLine": "Artículo 191",
+          "ui": "Artículo 191",
+          "index": true,
+          "urlProvision": true,
+          "copyExact": true,
+          "notice": {
+            "visible": true,
+            "text": "No se pudo mantener la posición solicitada; la selección sigue el texto visible."
+          },
+          "exhaustedMarks": 1,
+          "intentMarks": 0,
+          "scrollsWhileIdle": 0,
+          "afterReaderScroll": {
+            "truth": "Artículo 191",
+            "ui": "Artículo 191",
+            "copyExact": true,
+            "intentMarks": 0
+          },
+          "afterNewNavigation": {
+            "ui": "Artículo 193",
+            "truth": "Artículo 193",
+            "copyExact": true,
+            "offsetBelowBar": 8,
+            "scrollsWhileIdle": 0
+          }
+        },
+        {
+          "scenario": "terminal recovery cap (fault injection, fill pending then resumed): unaligned hold ends with a notice, tracking resumes, new navigation re-holds",
+          "ok": true,
+          "pendingFill": true,
+          "stillPending": true,
+          "completion": {
+            "ok": true,
+            "truth": "Artículo 191",
+            "ui": "Artículo 191",
+            "copyExact": true,
+            "corrections": 0
+          },
+          "requested": "Artículo 193",
+          "readingLine": "Artículo 191",
+          "ui": "Artículo 191",
+          "index": true,
+          "urlProvision": true,
+          "copyExact": true,
+          "notice": {
+            "visible": true,
+            "text": "No se pudo mantener la posición solicitada; la selección sigue el texto visible."
+          },
+          "exhaustedMarks": 1,
+          "intentMarks": 0,
+          "scrollsWhileIdle": 0,
+          "afterReaderScroll": {
+            "truth": "Artículo 191",
+            "ui": "Artículo 191",
+            "copyExact": true,
+            "intentMarks": 0
+          },
+          "afterNewNavigation": {
+            "ui": "Artículo 193",
+            "truth": "Artículo 193",
+            "copyExact": true,
+            "offsetBelowBar": 8,
+            "scrollsWhileIdle": 0
+          }
+        },
+        {
+          "scenario": "first-provision entry and instrument switch settle at 1440px",
+          "ok": true,
+          "entry": "Artículo 1o",
+          "settled": true,
+          "scrollsWhileIdle": 0,
+          "switched": "Artículo 1",
+          "settledMarks": 2,
+          "scrollsWhileIdleAfterSwitch": 0,
+          "totalScrollCalls": 6,
+          "exhausted": 0
+        },
+        {
+          "scenario": "first-provision entry and instrument switch settle at 390px",
+          "ok": true,
+          "entry": "Artículo 1o",
+          "settled": true,
+          "scrollsWhileIdle": 0,
+          "switched": "Artículo 1",
+          "settledMarks": 2,
+          "scrollsWhileIdleAfterSwitch": 0,
+          "totalScrollCalls": 6,
+          "exhausted": 0
+        },
+        {
+          "scenario": "index choice at 390px with late fonts holds, pushes once, back restores",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "pushes": 1,
+          "back": "Artículo 2o",
+          "backTruth": "Artículo 2o"
+        },
+        {
+          "scenario": "no page errors (exceptions, ResizeObserver loops)",
+          "ok": true,
+          "pageErrors": []
+        },
+        {
+          "scenario": "every opened page settles its explicit target",
+          "ok": true,
+          "unsettled": []
+        }
+      ],
+      "notApplicable": [],
+      "licLoadTimings": [
+        {
+          "wall_ms": 136,
+          "reader:first-chunk": 42,
+          "reader:flow-complete": 119
+        },
+        {
+          "wall_ms": 126,
+          "reader:first-chunk": 28,
+          "reader:flow-complete": 100
+        },
+        {
+          "wall_ms": 102,
+          "reader:first-chunk": 30,
+          "reader:flow-complete": 99
+        }
+      ],
+      "passed": 58,
+      "failed": 0
+    }
+  },
+  "report_hashes": {
+    "legacy": "f2024e41f78c19b3806ef1fe2509056b2d2a0eae562a78e6c26d392d70ebda97",
+    "fallback": "83d23840fec95bfb6a674beec807aefee338b987ebfdf1463016aa290a38bca2",
+    "noanchor": "d98d66c5eccf28d3c3a8816ac47a6c3e46bde436481b51bc88bedd2576e35c73"
+  },
+  "node_tests": "22/22 passed via mechanical agent",
+  "scope": "No host staging, pin changes, commits or deployment. Fallback/legacy full suites executed via mechanical agents; parent ran no-anchoring suite and focused regression/control.",
+  "required_commit_gates": {
+    "cargo fmt --check": "pass",
+    "cargo clippy --workspace --all-targets -- -D warnings": "pass",
+    "cargo test --workspace": "pass; suites 55,3,32,9,7,9,7,15,283,4; doc-tests0",
+    "cargo run --locked -p lex-cli -- validate lritf": "valid;145 articles,11 transitories,126 references,0 issues",
+    "cargo run --locked -p lex-cli -- validate ifpe-dcg-2021": "valid;59 articles,4 transitories,115 references,0 issues"
+  }
+}

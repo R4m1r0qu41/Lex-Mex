@@ -205,7 +205,8 @@ function track(){
   frame=0;clearTimeout(trailing);
   if(!flow.document||!selected||selected.document!==flow.document)return;
   const wait=lockUntil-performance.now();if(wait>0){trailing=setTimeout(schedule,wait);return;}
-  if(settleTarget!==null||(loading&&!userScrolled)||(held!==null&&!userScrolled))return;
+  // Holding/settling owns navigation during filling. Once released, track visible text even before filling ends.
+  if(settleTarget!==null||(held!==null&&!userScrolled))return;
   const column=$('article').getBoundingClientRect().top;
   const index=activeIndex(flow.nodes.length,i=>flow.nodes[i].getBoundingClientRect().top-column,barHeight()+24);
   if(index>=0&&index!==selected.index)activate(flow.document,index,'scroll');
