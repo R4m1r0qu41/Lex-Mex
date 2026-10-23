@@ -489,3 +489,46 @@ the no-false-selection contract rests on unholding, not on the toast.
 
 Exactly one current next action: Codex focused re-review of the R6 hashes and reports above. Commit, package choice,
 host staging, pin change, deployment, merge and push remain separate operator decisions. Unrelated untracked files preserved.
+
+
+### R6 focused Codex re-review — 2026-10-22
+
+Reviewed committed HEAD `256d1b410917d435b1e355c3b84a71d190f658bc`; the prior R6 “uncommitted” heading is historical. Both source hashes, all five final/discrimination report hashes, publication IDs, file sizes/hashes, manifests, A/B pairs and R5 package deltas verify. Preferred `8eb8d8b4…` and fallback `9afcaedb…` resolve the prior P2 terminal-cap finding. No new blocking finding in this focused scope.
+
+Independent scenario-27 Chrome rerun passes in all four recorded R6 configurations (preferred, fallback, legacy-staged, preferred without anchoring); the same check fails as expected on unchanged R5 fallback. Tracking/copy follow visible191, notice appears, no intent or idle correction loop, and new navigation settles193. Healthy aligned holds still do not expire; source resets counters on new hold. A replaceable toast is acceptable because correctness rests on unholding. Natural cap-exhaustion frequency remains unmeasured.
+
+Claude's full-suite totals remain attributed evidence, not independent Codex reruns. Fresh Node22/22 in the preceding turn covers identical source hashes; current diff check passes. Native/canonical checks not repeated for UI-only scope. Report and reproducible evidence: `docs/four-instrument-reader-r6-codex-review-2026-10-22.md` and companion `-evidence.json`. Pre-existing R5 untracked documents preserved; no source/package/host edits or Git publication actions by Codex.
+
+Exactly one current next action (supersedes prior R6 review request): operator selects preferred or fallback and authorizes the desired publication/integration actions. The technical R6 UI hold is cleared for these hashes; host staging, pin change, deployment, merge and push remain separate operator decisions.
+
+
+### R6 preferred package staged to the host — 2026-10-22 (operator-authorized: host staging and pin change only)
+
+Operator chose the **preferred** package after the R6 Codex review and authorized exactly two actions: staging to the host
+and the pin change. Done by Claude Sonnet 5.5:
+- Back-up before any write: `.work/host-backup-2026-10-22-r6/` (3572 files: `Lex-Mex-public`, `LEG4L-public-lex-mex`,
+  `lex-mex-release.json`).
+- Staged `.work/r11-preferred-a` (`8eb8d8b4fcfd09c7b9414263494789207de38ea1968b01103fbb010df2b65a6f`, release 9626bfe4, 870
+  provisions) with `reader/stage.mjs` to `/Users/jr/Documents/4ll4/Webpage/Lex-Mex/public`, then that directory to
+  `/Users/jr/Documents/4ll4/Webpage/LEG4L_L4BS/public/lex-mex`. Both stay gitignored in the host repo. Both still publish the
+  old 3c04 release next to 9626, so pinned 3c04 links keep their release.
+- Replaced `/Users/jr/Documents/4ll4/Webpage/LEG4L_L4BS/lex-mex-release.json` with the pin generated from the R6 package
+  (`.work/evidence/r5/r11-pin-preferred.json`): `release_id` 9626bfe4…, `publication_id` 8eb8d8b4…, `corpus_commit`
+  85c41f38…, `manifest_sha256` 8fb340f2…. The R5-era `proposed-pins-r10/preferred_870.json` was NOT used (it names the
+  superseded R5 id fbcb4e98…). Versus that file only `publication_id` differs.
+- Checks run: `diff -rq` package vs both staged directories (only the retained 3c04 release and a `.wrangler` folder
+  differ); host `node scripts/verify-lex-mex.mjs` → "Verified Lex-Mex 9626bfe45c4e (1790 artifacts)".
+- The pin file change in the host repo (`main`) is uncommitted there. No host commit, `npm test`, `npm run build`,
+  deployment, push or merge was run. The live site (`https://www.leg4ll4bs.com/lex-mex/`) is unchanged and still serves 3c04
+  under the old UI.
+
+Rollback: restore the three paths from the backup above (exact `diff -r` restore; it deletes the staged `releases/9626…`
+directory, which needs separate authorization), or stage `.work/baseline-unmodified-ui` into both destinations and restore the
+backed-up pin (non-destructive; keeps `releases/9626…`), then rebuild and redeploy if already deployed.
+
+Handoff for Codex: in `/Users/jr/Documents/4ll4/Webpage/LEG4L_L4BS` run `npm test` (it builds, then runs the rendered-HTML
+test) and `npm run build`; then deployment and live checks (`/lex-mex/`, an Art. 112 Quintus link, a PDF range request,
+an old pinned 3c04 link) per `HANDOFF.md`. That repo's `AGENTS.md` requires operator authorization to commit or deploy, and
+past deploys went through the Sites helper from a temp directory, not from this checkout; this plan records the operator's
+intent for Codex to run them but is not itself the deploy authorization for the host repo commit, deployment or push.
+Re-verify the pin delta and the staged hashes first.
