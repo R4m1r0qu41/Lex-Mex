@@ -31,6 +31,7 @@ REPO = Path(__file__).resolve().parent.parent
 WORK = REPO / ".work" / "parser-split"
 RUN_ROOT = Path(os.environ.get("PARSER_SPLIT_RUN_ROOT", WORK / "run-root"))
 INPUTS = WORK / "inputs"
+INPUTS_SUPP = WORK / "inputs-supplement"
 DEFAULT_SOURCE_WORK = Path("/Users/jr/Dev/lex-mex/.work")
 
 # Offline stages for one instrument that has retained extracted text. The
@@ -225,6 +226,44 @@ def cmd_freeze(args):
     print(f"froze {replayed}/{len(coverage)} slugs; {len(inputs_tree)} input files; digest {manifest['inputs_tree_sha256']}")
 
 
+def cmd_freeze_supplement(args):
+    """Freeze inputs recovered by hash from other local work trees (a recorded search)."""
+    found = json.loads(Path(args.search).read_text())["recovered"]
+    if INPUTS_SUPP.exists():
+        sys.exit(f"refusing to replace frozen inputs at {INPUTS_SUPP}")
+    INPUTS_SUPP.mkdir(parents=True)
+    rows = []
+    for slug, hits in sorted(found.items()):
+        text = next((Path(path) for kind, path in hits if kind == "text"), None)
+        if text is None:
+            rows.append({"slug": slug, "replayed": False, "reason": "only the source file matched by hash"})
+            continue
+        subprocess.run(["cp", "-cR", str(text.parent), str(INPUTS_SUPP / slug)], check=True)
+        manifest = json.loads((REPO / "corpus" / "mx" / slug / "source-manifest.json").read_text())
+        frozen = INPUTS_SUPP / slug / f"{slug}.txt"
+        rows.append(
+            {
+                "slug": slug,
+                "replayed": True,
+                "recovered_from": str(text.parent),
+                "retained_text_sha256": sha256_file(frozen),
+                "manifest_extracted_text_sha256": manifest.get("extracted_text_sha256"),
+                "text_matches_manifest": sha256_file(frozen) == manifest.get("extracted_text_sha256"),
+            }
+        )
+    tree = tree_map(INPUTS_SUPP)
+    out = {
+        "baseline": json.loads((WORK / "coverage-manifest.json").read_text())["baseline"],
+        "search": str(args.search),
+        "replay_order": [r["slug"] for r in rows if r["replayed"]],
+        "inputs_tree_sha256": digest_map(tree),
+        "input_file_count": len(tree),
+        "coverage": rows,
+    }
+    (WORK / "coverage-manifest-supplement.json").write_text(json.dumps(out, indent=1, sort_keys=True) + "\n")
+    print(f"froze {len(out['replay_order'])} supplementary slugs; digest {out['inputs_tree_sha256']}")
+
+
 # --------------------------------------------------------------------------
 # replay / sweep
 # --------------------------------------------------------------------------
@@ -339,11 +378,13 @@ def prepare(args, git_init=False):
 
 def cmd_replay(args):
     binary, baseline, logs, extra = prepare(args)
-    manifest = json.loads((WORK / "coverage-manifest.json").read_text())
+    inputs = INPUTS_SUPP if args.supplement else INPUTS
+    manifest_name = "coverage-manifest-supplement.json" if args.supplement else "coverage-manifest.json"
+    manifest = json.loads((WORK / manifest_name).read_text())
     slugs = pick(manifest["replay_order"], args)
     (RUN_ROOT / ".work").mkdir(exist_ok=True)
     for slug in slugs:
-        subprocess.run(["cp", "-cR", str(INPUTS / slug), str(RUN_ROOT / ".work" / slug)], check=True)
+        subprocess.run(["cp", "-cR", str(inputs / slug), str(RUN_ROOT / ".work" / slug)], check=True)
     extra["inputs_tree_sha256"] = manifest["inputs_tree_sha256"]
     trees = {}
     rows = run_stages(binary, RETAINED_STAGES, slugs, logs, trees, with_work=True)
@@ -409,6 +450,13 @@ def cmd_sweep(args):
                 trees.setdefault(slug, {}).setdefault(name, {}).update(work=work, corpus=corpus)
                 rows.append(row)
                 print(f"{slug} {name} exit={row['exit']} {row['elapsed_s']}s", flush=True)
+    # Final mutating steps for command paths the stages above do not reach.
+    # They run last so the main sweep stays on the pristine committed corpus.
+    g("link-lritf", ["link", "lritf"])
+    g("link-ifpe", ["link", "ifpe-dcg-2021"])
+    g("repair-dates-lritf", ["derive-temporal", "lritf", "--repair-dates-only"])
+    g("repair-dates-ccf", ["derive-temporal", "ccf", "--repair-dates-only"])
+    g("db-contract-probe", ["db", "contract-probe"])
     extra["finished_utc"] = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
     finish(args.label, binary, "whole-corpus-sweep", baseline, rows, trees, extra)
 
@@ -483,7 +531,11 @@ def main():
         run.add_argument("--only", help="comma-separated slugs")
         run.add_argument("--limit", type=int)
         run.add_argument("--skip-extract", action="store_true", help="sweep only: skip retained re-extraction")
+        run.add_argument("--supplement", action="store_true", help="replay only: use the hash-recovered supplementary inputs")
         run.set_defaults(func=func)
+    supp = sub.add_parser("freeze-supplement")
+    supp.add_argument("--search", required=True)
+    supp.set_defaults(func=cmd_freeze_supplement)
     compare = sub.add_parser("compare")
     compare.add_argument("a")
     compare.add_argument("b")
