@@ -9,7 +9,7 @@ nothing is accepted, merged, pushed or deployed.
 
 | Gate | Status | What exists | What is still required |
 | --- | --- | --- | --- |
-| G0 | IN PROGRESS | harness, frozen baseline B binary, B1 replay (1771 rows), coverage manifest, supplement set | B1 versus B2 self-replay, baseline sweeps S-B1 and S-B2, advisor acceptance of coverage |
+| G0 | IN PROGRESS | strict harness (17/17 self-test), frozen baseline B binary, coverage manifest, supplement set; B1 and B2 are legacy | strict B3 == B4 on retained, sweep and supplement runs, advisor acceptance of coverage |
 | G1 | candidate | commit `07cfa5536`, binary C1; advisor accepted the symbol and dependency map, comparator allowlist empty | C1 A/B exact |
 | G2 | candidate | commit `fd70e4370`, binary C2 | C2 A/B exact |
 | G3 | candidate | commits `5c074e21d` and `1250889ce`, binary C3 | C3 A/B exact, advisor review of the final map |
@@ -56,8 +56,39 @@ and per-tree native results are in the evidence file.
   has no relevant date on or after 2026-10-01, and the 354 B1 derive outputs
   resolve commencement dates no later than 2026-01-20, so the run date cannot
   change them. The same scan of the sweep outputs is still pending.
-- Self-replay: a one-instrument replay and a one-instrument sweep were each exact
-  across two runs. The full B1 versus B2 comparison is pending.
+- Self-replay. An earlier "B1 versus B2 exact" result came from a comparator
+  that treated a field missing on one side as a note, and B1 lacked the
+  whole-root digest and harness hash. That is legacy evidence and does not
+  satisfy G0. The harness now compares strictly (below) and the valid baseline
+  pair is the new **B3 and B4**; B2 versus B3 is run with `--allow-legacy-format`
+  as supplemental byte-level evidence only (expected exit 2). B1, B2 and the
+  killed partial sweep-B1 are legacy. G0 PASS needs strict B3 == B4 on the
+  retained, sweep and supplementary runs plus the passing self-test.
+
+### Evidence rules in force for every valid run
+
+- Comparison is strict by default. A required evidence field missing from one or
+  both results fails; formats must match; both runs must come from the same
+  harness revision; every row must carry its full evidence keys.
+- The harness takes its hash when the process starts, re-executes itself from a
+  read-only hash-named snapshot, and records whether the snapshot or the binary
+  changed during the run (exit 3), whether the harness is the committed blob,
+  and whether the live file changed. An edit to the live file is recorded but
+  not executed; a later run that picks up the edit has a different revision and
+  fails strict comparison.
+- `--allow-legacy-format` exists only for older results; it reports incomplete
+  evidence and exits 2, never 0. Every comparison file records the comparator's
+  own harness hash.
+- Acceptance self-test (`prompts/parser-split-ab-selftest.py`): 17 of 17 pass: an
+  unchanged control passes, and evidence missing from both or one result,
+  missing row keys, a changed executing snapshot and a run from an edited copy
+  all fail. Its first run failed three cases because the test launched harness
+  copies outside the repository without the documented repository variable; that
+  was a defect in the test, fixed in `73f42a983`.
+- Queue: one committed driver (`prompts/parser-split-queue.py`) runs B3, B4, then
+  C3, C2, C1 (each compared with B4) and stops at the first non-zero run or
+  comparison. C3, the final code, runs first so the decisive answer comes
+  earliest; every required run still happens.
 
 ## G1 — modules inside lex-parse (candidate)
 
@@ -130,6 +161,6 @@ Two `mech` hand-back summaries swapped the `lritf` and `ifpe-dcg-2021` labels
 
 ## Next action
 
-When retained-B2 finishes, compare it with retained-B1 (the G0 self-replay gate)
-and read each candidate comparison as soon as it lands; stop the queued later
-runs on any drift.
+Read `.work/parser-split/queue.log` as steps finish; the driver stops on any
+failure. After retained-B3 lands, run the legacy supplemental comparison against
+retained-B2.

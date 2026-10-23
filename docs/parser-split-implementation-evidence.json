@@ -146,7 +146,7 @@
   }
  },
  "gates": {
-  "G0": "IN_PROGRESS",
+  "G0": "IN_PROGRESS (needs strict B3 == B4 on retained, sweep and supplement runs, and the self-test, which has passed)",
   "G1": "CANDIDATE_AB_PENDING",
   "G2": "CANDIDATE_AB_PENDING",
   "G3": "CANDIDATE_AB_PENDING",
@@ -154,6 +154,21 @@
   "G5": "NOT_STARTED"
  },
  "harness": {
+  "acceptance_selftest": {
+   "cases": [
+    "control: unchanged pair compares exactly and all evidence flags are true",
+    "missing evidence from both results fails",
+    "missing evidence from one result fails",
+    "legacy flag exits 2, never 0",
+    "missing row key from both results fails",
+    "live edit mid-run does not change what executes, is recorded, and still compares exactly",
+    "a later run from the edited copy is not committed, has a different revision, and fails strict comparison",
+    "changing the executing snapshot mid-run fails the run with exit 3"
+   ],
+   "first_run": "failed 3 cases because the test launched out-of-repo harness copies without PARSER_SPLIT_REPO; fixed in the test (73f42a983), not in the harness",
+   "result": "17/17 checks passed (log .work/parser-split/logs/selftest-2.log)",
+   "script": "prompts/parser-split-ab-selftest.py"
+  },
   "api_fixture": {
    "compiles_against": [
     "baseline 85c41f389 (own target dir, disposable archive root)",
@@ -165,8 +180,22 @@
    "negative_control": "a wrong path in a temporary test file failed with E0432 unresolved import",
    "paths": 126
   },
-  "caveat": "finish() records harness_sha256 when a run ends, not when it starts. The harness file was edited several times while the baseline runs were in progress (whole-root digest, baseline default, supplement mode, extra sweep steps); each running Python process keeps the revision it loaded at start. retained-B1 started on the earliest revision, before the whole-root digest and baseline-default edits, so result-retained-B1.json carries no harness_sha256 or final_root_tree_sha256; its replay path is the same code as in later revisions. retained-B2 and later runs record the hash of the file as it stood when they finished. Committed revisions are the two hashes above; no uncommitted edit is expected to be live once the last queued run starts (the file is frozen after commit f1da6f1e7).",
+  "caveat": "Superseded for valid runs: from commit d05d98d3b the harness hash is taken when the process starts and the harness executes from a frozen read-only snapshot. The older finish-time hash applies only to the legacy runs B1 and B2.",
+  "evidence_rules": [
+   "compare is strict by default: a required field missing from one or both results fails",
+   "results must have identical field sets and the same harness revision",
+   "every row must carry slug, stage, argv, exit, stdout_sha256, stderr_sha256, corpus_tree_sha256 (and work_tree_sha256 for replay, extract and audit rows)",
+   "a run records harness_unchanged, harness_frozen_snapshot, harness_committed, binary_unchanged and whether the live source changed; a changed executing snapshot or binary makes the run exit 3",
+   "--allow-legacy-format compares older results, reports evidence_complete=false and exits 2, never 0",
+   "every compare file records the comparator's own harness hash"
+  ],
   "path": "prompts/parser-split-ab.py",
+  "revision_for_all_valid_runs": {
+   "commit": "d05d98d3b (self-test fix 73f42a983 changes only the self-test)",
+   "executes_from": ".work/parser-split/harness-snapshots/<sha256>.py (read-only, re-exec'd with PARSER_SPLIT_REPO)",
+   "git_blob": "9c329e0c4f973b8dcceb6c800cec69ea9a3fde4a",
+   "sha256": "fa321e4659694f9d6daa78820842d3a6e36f9bf8e5a60369c391d5eca014044e"
+  },
   "sha256_at_f1da6f1e7": "a9a034912b37f0ee99269894fc7df74e30c35bf71370a0d1a3b7ecaf2ed91bd5",
   "sha256_at_ff38d1882": "f28c7aa40e701f17c142749253e9b3226771c67f1a88bfea2276979b9abdc73a"
  },
@@ -178,6 +207,16 @@
    "cucb-dcg-2004",
    "laero"
   ]
+ },
+ "legacy_evidence": {
+  "earlier_self_replay_claim": "The earlier 'B1 versus B2 exact' result came from the lenient comparator, which treated a field missing on one side as a note. It is legacy and does not satisfy G0.",
+  "note": "Produced before the strict evidence rules; useful as supplemental byte-level evidence only, never as a gate pass.",
+  "runs": {
+   "retained-B1": "no harness_sha256, no whole-root digest",
+   "retained-B2": "whole-root digest present, harness hash recorded at finish, no frozen-snapshot or committed-blob fields",
+   "sweep-B1": "killed part-way and discarded; no result file"
+  },
+  "supplemental_check": "after retained-B3 lands, retained-B2 versus retained-B3 with --allow-legacy-format (expect exit 2: rows identical, evidence incomplete)"
  },
  "native_baseline_at_B": {
   "cargo clippy --workspace --all-targets -- -D warnings": {
@@ -251,7 +290,7 @@
   "timing_note": "fmt 0-1 s, clippy 3-17 s, tests 26-43 s wall per run, from the raw logs under .work/parser-split/logs/ and cargo 'Finished ... in' lines; the first G1/G2 mech runs did not time every command.",
   "validation_source_note": "Validation figures are taken from the raw logs and the written validation.json files. Two mech hand-back summaries (G1 and G3) swapped the lritf and ifpe-dcg-2021 labels; the raw logs and files were checked and agree across every tree."
  },
- "next_action": "When retained-B2 finishes run: python3 prompts/parser-split-ab.py compare retained-B1 retained-B2 (G0 self-replay). Read each C compare as soon as it lands; stop the queued later runs on drift.",
+ "next_action": "Read queue.log as steps finish; the driver stops on any failure. After retained-B3 lands run the legacy supplemental check against retained-B2. G0 PASS needs strict B3 == B4 on all three run kinds.",
  "open_items": [
   "113 retained inputs absent: search by extracted_text_sha256 in campaign/ocr-foundry/db .work trees",
   "CLI-to-symbol matrix extras: import-temporal, derive-temporal --repair-dates-only, link <slug>, db contract-probe",
@@ -318,22 +357,20 @@
   "slugs": 355
  },
  "runs": {
-  "order": "B1 B2 | S-B1 S-B2 | C1 replay, C1 sweep | supp B1 B2 C1 | C2 replay, sweep, supp | C3 replay, sweep, supp",
-  "retained_B1": "DONE exit 0",
-  "retained_B2": "IN_PROGRESS",
-  "retained_C1": "QUEUED",
-  "retained_C2": "QUEUED",
-  "retained_C3": "QUEUED",
-  "supp_B1": "QUEUED",
-  "supp_B2": "QUEUED",
-  "supp_C1": "QUEUED",
-  "supp_C2": "QUEUED",
-  "supp_C3": "QUEUED",
-  "sweep_B1": "QUEUED",
-  "sweep_B2": "QUEUED",
-  "sweep_C1": "QUEUED",
-  "sweep_C2": "QUEUED",
-  "sweep_C3": "QUEUED"
+  "B_baseline_binary": "B (5c4a3f29...)",
+  "candidates_compared_with": "B4 (B3 == B4 is proven first)",
+  "driver": "prompts/parser-split-queue.py (committed; do not edit the harness or the driver while it runs)",
+  "order": [
+   "retained B3, B4 + strict compare",
+   "sweep B3, B4 + strict compare",
+   "supp B3, B4 + strict compare",
+   "C3 retained, sweep, supp, each compared with B4",
+   "C2 retained, sweep, supp, each compared with B4",
+   "C1 retained, sweep, supp, each compared with B4"
+  ],
+  "state": ".work/parser-split/queue-state.json; log .work/parser-split/queue.log; stop marker queue-stopped.json",
+  "stop_rule": "stop at the first non-zero run exit (3 = harness or binary changed mid-run) or non-zero comparison exit (1 drift or missing evidence, 2 legacy format)",
+  "why_C3_first": "C3 is the final code; if it is exact the gate evidence is decisive, and C2 and C1 remain as bisection tools if it drifts. Every required run still happens."
  },
  "status": "IN_PROGRESS",
  "toolchain": {
