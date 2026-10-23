@@ -1,0 +1,91 @@
+{
+ "artifact": "parser-split-implementation-evidence",
+ "baseline": {
+  "B": "85c41f3898d86737766564fa8d3fd8f6d4ae74a3",
+  "branch": "refactor/parser-split",
+  "build": "CARGO_TARGET_DIR=.work/parser-split/target cargo build --locked --release -p lex-cli",
+  "frozen_binary": ".work/parser-split/bin/B/lex-mex",
+  "frozen_binary_sha256": "5c4a3f29acb7e5a1de6766f011a9d48f387178c2f38a592cfb11f2aef03c7730",
+  "worktree": "/Users/jr/Dev/lex-mex-parser-split"
+ },
+ "frozen_inputs": {
+  "coverage_manifest": ".work/parser-split/coverage-manifest.json (ignored; hash-bound by inputs_tree_sha256 and replay_order)",
+  "input_file_count": 1307,
+  "inputs_tree_sha256": "4ef1612d173a214c2944662dec48453b76e8271ba3361eae72eabf30c810de22",
+  "replayed_but_not_provenance_matched": [
+   "cub-dcg-2005",
+   "lfiiedb"
+  ],
+  "slugs_replayed": 355,
+  "slugs_total": 500,
+  "source_work": "/Users/jr/Dev/lex-mex/.work",
+  "unavailable": {
+   "no_adapter_nom_standards": 32,
+   "retained_text_absent": 113
+  }
+ },
+ "gates": {
+  "G0": "IN_PROGRESS",
+  "G1": "NOT_STARTED",
+  "G2": "NOT_STARTED",
+  "G3": "NOT_STARTED",
+  "G4": "NOT_STARTED",
+  "G5": "NOT_STARTED"
+ },
+ "harness": {
+  "note": "retained replay B1 ran an earlier revision of this script whose replay code path is behaviour-identical to the committed one; later revisions add run-level fields (harness_sha256, final_root_tree_sha256, baseline default read from coverage-manifest.json).",
+  "path": "prompts/parser-split-ab.py"
+ },
+ "known_baseline_replay_validation_failures": {
+  "note": "deterministic at B; expected to match exactly in C. Cause for the checked cases: adapter-frozen article counts or heading-leak holds recorded in docs/heading-leak-permanent-acceptance-2026-10-21.md; the committed corpus was not re-parsed for these.",
+  "observed_so_far": [
+   "cjm",
+   "cub-dcg-2005",
+   "cucb-dcg-2004",
+   "laero"
+  ]
+ },
+ "native_baseline_at_B": {
+  "cargo clippy --workspace --all-targets -- -D warnings": {
+   "exit": 0,
+   "seconds": 17
+  },
+  "cargo fmt --check": {
+   "exit": 0,
+   "seconds": 1
+  },
+  "cargo test --workspace": {
+   "exit": 0,
+   "failed": 0,
+   "ignored": 0,
+   "passed": 419,
+   "seconds": 43
+  },
+  "logs": ".work/parser-split/logs/baseline-{1-fmt,2-clippy,3-test}.log",
+  "tracked_files_modified_by_tests": false
+ },
+ "open_items": [
+  "113 retained inputs absent: search by extracted_text_sha256 in campaign/ocr-foundry/db .work trees",
+  "CLI-to-symbol matrix extras: import-temporal, derive-temporal --repair-dates-only, link <slug>, db contract-probe",
+  "derive-temporal today-date inertness check across B and C run dates",
+  "whole-root digest comparison (field absent in B1; B2 onward)"
+ ],
+ "plan": "docs/plans/parser-responsibility-split.md",
+ "runs": {
+  "retained_B1": "IN_PROGRESS",
+  "retained_B2": "QUEUED",
+  "sweep_B1": "QUEUED",
+  "sweep_B2": "QUEUED"
+ },
+ "status": "IN_PROGRESS",
+ "toolchain": {
+  "antiword": "not installed",
+  "cargo": "1.95.0 (f2d3ce0bd 2026-03-21)",
+  "pdf_inspector": "0.1.7",
+  "pdftotext": "26.09.0",
+  "rg": "15.2.0",
+  "rust_toolchain_toml": "stable + clippy, rustfmt",
+  "rustc": "1.95.0 (59807616e 2026-04-14)",
+  "textutil": "/usr/bin/textutil"
+ }
+}
