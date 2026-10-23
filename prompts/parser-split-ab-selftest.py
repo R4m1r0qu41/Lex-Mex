@@ -40,9 +40,11 @@ results = []
 
 def harness(args, script=HARNESS, background=False):
     command = [sys.executable, str(script), *args]
+    # A copy outside the repository must be told where the repository is.
+    env = ENV if script == HARNESS else {**ENV, "PARSER_SPLIT_REPO": str(REPO)}
     if background:
-        return subprocess.Popen(command, env=ENV, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
-    return subprocess.run(command, env=ENV, capture_output=True, text=True)
+        return subprocess.Popen(command, env=env, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
+    return subprocess.run(command, env=env, capture_output=True, text=True)
 
 
 def replay(label, script=HARNESS, background=False):
