@@ -8,6 +8,11 @@
   "resolution": "kept both, in Cargo's alphabetical order: jsonschema, then lex-analysis (the other new crates and lex-cli/Cargo.toml and main.rs merged automatically)"
  },
  "date": "2026-10-24",
+ "durable_integration_evidence": {
+  "contents": "native logs for P and R, the reader exporter/package logs, the DB verify and golden outputs, the integration self-test and plan-fidelity logs, the preservation inventory, and path-to-SHA-256 tree digests of the four release and four package trees (all release digests equal, all package digests equal); the trees themselves are not kept",
+  "dir": ".work/parser-reader-integration/ (ignored, in the main worktree)",
+  "manifest": "hash-manifest.json, SHA-256 f7b9240463d3120504c5831315383433c8034b5d082038db502c5e305d0fbc04"
+ },
  "handoff_records": {
   "execution_plan_bound": {
    "path": "docs/plans/parser-reader-integration.md",
@@ -51,6 +56,7 @@
   "no independent review of P and R yet",
   "the parser and reader merges were promoted before an independent review of P and R (the plan wanted Codex's review first; the operator's instruction came first)"
  ],
+ "next_action": "Independent P/R audit (Codex) of the pushed commits; R7 candidate is a separate, local-only follow-up; fixing the CI clippy lint is a separate change if wanted.",
  "p_gates": {
   "diffs_B_to_P": "corpus, schemas, adapters, fixtures and docs/decisions.md: empty; nothing changed outside crates, docs, prompts, Cargo.toml and Cargo.lock; production (crates, Cargo.toml, Cargo.lock) differs from C by nothing",
   "native_in_disposable_clone_at_P": {
@@ -397,6 +403,23 @@
   "R7 stays a separate branch; a later R7 release needs its own sync of main",
   "remote push and deployment need separate explicit authorization"
  ],
+ "push": {
+  "ci": {
+   "deploy": "the workflow has read-only permissions and no deploy job",
+   "result": "FAILED at the Clippy step with clippy::assert_is_empty at crates/lex-db/src/build_tests.rs:237. This is the same failure CI shows at the baseline: runs 39731598118 (B), 39548705365 and 39087400377 were already red. CI installs 'stable' (clippy for Rust 1.99.0 flags assert!(x.is_empty())); the local toolchain is 1.95. B has 35 such assertions and P adds none (35 both). The merge did not cause it, and I did not change lint code (out of scope: no behaviour change). Because Clippy fails first, CI never reached the tests or the validators, so there is no Linux test result for this code.",
+   "run": "40126862221 (CI on main, push of 0642bbea1)"
+  },
+  "deployment": "none; nothing was staged to a host, published or deployed",
+  "not_pushed": "feat/reader-tweaks-r7, refactor/parser-split, the integration/* branches; no tags; no force",
+  "pre_push_checks": "R is exactly the union of both sides for the three files both sides touched (Cargo.lock, crates/lex-cli/Cargo.toml, crates/lex-cli/src/main.rs): the lines in R relative to b9b8 all come from the parser side and the lines relative to P all come from the reader side; secret-shaped scan of the added lines in both push ranges found only the Spanish word 'Secretar\u00eda' and a Node test path string (no credentials); no binary entries; origin/main was still 85c41f389 and the reader branch absent on the remote.",
+  "pushed": [
+   "main 85c41f389..0642bbea1877960b1a32bdce1ae90c274e479027 (fast-forward)",
+   "feat/four-instrument-reader-design -> new remote branch at f11beebce06b90a2d590acab80078b09fbd254c4"
+  ],
+  "remote_after": "ls-remote: main 0642bbea1877960b1a32bdce1ae90c274e479027; feat/four-instrument-reader-design f11beebce06b90a2d590acab80078b09fbd254c4",
+  "review_tier": "The pre-push P/R review was by the advisor (Opus 5.5), which shares the executor's model family and is not independent. Codex's status report asked for an independent review before any push; the operator chose advisor review then push. The independent audit is still open.",
+  "when": "2026-10-24, on the operator's instruction (advisor review, then push)"
+ },
  "r7": "remains unmerged and unpublished by this task; no R7 file is in main or the reader branch; R7 now lacks the parser split, so a future R7 release needs main merged into it first",
  "r_gates": {
   "exporter_package_parity": {
@@ -418,6 +441,6 @@
   "node_tests": "node --test reader/ at R: 22 tests, 22 pass, 0 fail (the b9b8 inventory; R7's 24 were not imported)",
   "reader_source": "git diff b9b8be012..R over reader/ is empty (UI source byte-identical to the published b9b8 source); parser, db, grammar, analysis and link crate sources equal P"
  },
- "status": "PROMOTED_LOCALLY_NOT_PUSHED",
+ "status": "PROMOTED_AND_PUSHED",
  "tips_at_candidate_build_historical": "HISTORICAL (checked right after the candidate merges, before promotion): main 85c41f389; refactor/parser-split 11a3a9095; feat/four-instrument-reader-design b9b8be012; feat/reader-tweaks-r7 162128517 (checked after the merges; origin/main equals main). After promotion main is P (then the docs commit) and the reader branch is R; see 'promotion'."
 }

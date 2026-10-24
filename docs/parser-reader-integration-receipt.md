@@ -1,7 +1,7 @@
 # Parser and reader integration receipt, 2026-10-24
 
 Executes I0–I3 of [the integration plan](plans/parser-reader-integration.md). Machine evidence:
-`parser-reader-integration-evidence.json`. Status: **promoted locally (fast-forwards to the tested candidates); not pushed, published or deployed.**
+`parser-reader-integration-evidence.json`. Status: **promoted and pushed (`main` and the reader branch); not published or deployed.**
 
 ## Scope and authority
 
@@ -86,6 +86,30 @@ follows P on main.
 
 **R7** stays separate and unpublished: no R7 file is in main or the reader branch. It now lacks the parser split, so a
 future R7 release needs main merged into it first. Push and deployment still need separate authorization.
+
+## Push (2026-10-24)
+
+Before the push: R is exactly the union of both sides for the three files both touched (`Cargo.lock`,
+`crates/lex-cli/Cargo.toml`, `crates/lex-cli/src/main.rs`); a credential-shaped scan of both push ranges found only the
+Spanish word "Secretaría" and a Node test path string, and no binary files; `origin/main` was still `85c41f389` and the
+reader branch was absent. Pushed with no force and no tags: `main` `85c41f389..0642bbea1` (fast-forward) and
+`feat/four-instrument-reader-design` as a new remote branch at `f11beebce`. `feat/reader-tweaks-r7`,
+`refactor/parser-split` and the `integration/*` branches were not pushed.
+
+**CI is red, and it was red before this change.** Run `40126862221` (push of `0642bbea1`) failed at the Clippy step
+with `clippy::assert_is_empty` at `crates/lex-db/src/build_tests.rs:237`, exactly as runs at the baseline did
+(`39731598118` at B and two earlier). CI installs `stable` (clippy for Rust 1.99.0); my local toolchain is 1.95. B has
+35 `assert!(…is_empty())` calls and P adds none. The merge did not cause it and I did not change lint code (out of scope
+for a behaviour-preserving integration). Clippy fails first, so CI never ran the tests or validators: there is no Linux
+test result for this code. The workflow has read-only permissions and no deploy job.
+
+**Review tier:** the pre-push review was by the advisor (Opus 5.5), the executor's own model family, not independent.
+Codex's status report asked for an independent review before any push; the operator chose advisor review, then push.
+The independent audit is still open. Nothing was published or deployed.
+
+Raw integration receipts (native, exporter and package logs, DB verify and golden outputs, self-test logs, the
+preservation inventory, and tree digests for the four releases and four packages) are kept in the ignored
+`.work/parser-reader-integration/`, bound by `hash-manifest.json` (SHA-256 `f7b92404…`).
 
 ## Handoff records
 
