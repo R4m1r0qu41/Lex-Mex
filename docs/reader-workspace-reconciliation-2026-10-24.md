@@ -39,6 +39,18 @@ Blob-ancestry check of every file they touch against `0661d5ef0` (R7):
 agent pages and a different `llms.txt` to any package built from it. **Never build or stage a publication from it**; the
 reviewed R7 package comes only from the R7 line.
 
+## Workspace move and main rehearsal (done locally)
+
+- The workspace was moved with a plain `git switch -c feat/public-reader-r7 d607864d2` (no reset or clean). Its three leftover
+  items clashed with files R7 already tracks (`AGENTS.md`, `CODEX.md`) and were set aside, not discarded: stash
+  `82c724ae4220ac2a5cdbb89abff4f179a9c0461b` ("reader-reconcile-2026-10-24-leftovers"; `AGENTS.md` change, untracked
+  `CODEX.md` and the two `nota-viabilidad` deletions), also held in the off-repo backup. The workspace is now clean.
+- Rehearsal of R7 into `main`: branch `integration/r7-into-main-2026-10-24` (worktree `/Users/jr/Dev/lex-mex-r7-main`),
+  `976040a2f`, a normal merge of this docs branch into local `main` `64ac9a6e9`. Single conflict, `PLANS.md` active index,
+  resolved by keeping both sides. Versus R7 `0661d5ef0` the merge differs only in documents (24 `docs/` files plus
+  `PLANS.md`); `reader/`, `crates/`, `schemas/`, `adapters/` and `corpus/` are byte-identical to the reviewed R7, so the
+  R7 gates and package carry over. `main`, `origin/main` and the published-reader branch tip were not moved.
+
 ## Open
 
 Moving the permanent workspace onto the R7 line, merging R7 into `main` and the published-reader branch, and publication are
