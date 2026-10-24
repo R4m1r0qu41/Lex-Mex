@@ -135,6 +135,21 @@ crate through both the inventory path and the hard-coded `BUILDER_FILES` entry, 
 changed manifest in each new crate, and unchanged controls. Stale-binary
 mismatch and the cargo rebuild trigger are tested separately.
 
+## Known tooling defects awaiting repair (R-001)
+
+Codex found that an interrupted run cannot restart under the same label: the
+harness refuses when `logs-<label>` already exists. The driver also opens each
+step's output and comparison files in write mode, so a same-label resume would
+truncate the interrupted attempt's stdout record. Nothing is changed while the
+queue runs: the harness and driver stay as committed, no log is deleted, and the
+queue is not restarted. If it stops unexpectedly, the partial artifacts stay in
+place, the failed step is run by hand with the same committed harness under a
+fresh attempt label (for example `<label>-a2`), comparisons use explicit labels
+strictly, both attempts are recorded, and an interrupted attempt is never gate
+evidence. The repair (an explicit attempt mode, non-truncating per-attempt
+output, matching self-test cases) happens after the queue finishes; because it
+changes the harness revision it will not be mixed with this queue's evidence.
+
 ## Found defects
 
 - **D-001 (baseline).** `check_builder` accepted a builder commit that adds a

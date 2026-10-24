@@ -81,6 +81,33 @@
   "validate_reference and validate_references are public in lex-analysis for three cross-stage tests",
   "import-temporal, review open/resolve, codex provider and standards compile are not reached by the harness: their callers use no moved symbol except through paths the harness already exercises (see CLI caller map in the rule inventory commit history and receipt)"
  ],
+ "deferred_repairs": [
+  {
+   "constraints_until_queue_ends": [
+    "do not edit prompts/parser-split-ab.py or prompts/parser-split-queue.py (any edit changes the harness revision and fails strict comparison with the running queue's runs)",
+    "do not delete or move logs-<label>, <label>.out, queue-state.json, queue-stopped.json or queue.log",
+    "do not restart the queue"
+   ],
+   "finding": "A run interrupted part-way cannot be restarted with the same label: prompts/parser-split-ab.py prepare() refuses when logs-<label> already exists ('refusing to overwrite ... choose a fresh --label').",
+   "id": "R-001",
+   "if_the_queue_stops_unexpectedly": [
+    "leave every partial artifact in place as evidence",
+    "do not use the driver's resume",
+    "run the failed step by hand with the same committed harness (unchanged file, so the same frozen snapshot) and a fresh attempt label such as <label>-a2, with the same binary and --baseline arguments",
+    "compare with explicit labels, strictly, against the same counterpart; record both attempts and why the first stopped in this file",
+    "a result from an interrupted attempt is never used as gate evidence"
+   ],
+   "note": "The repair changes the harness revision, so it must not be used to produce evidence that is compared with this queue's runs; if the repaired harness is ever used for gate evidence the affected runs are repeated under it.",
+   "related_finding": "prompts/parser-split-queue.py opens <label>.out and compare-<a>-vs-<b>.out in write mode, so resuming a stopped step under its original label would truncate the interrupted attempt's stdout record even before the harness refuses; the driver's resume therefore cannot recover an interrupted run.",
+   "repair_after_queue": [
+    "harness: an explicit attempt mode that archives or refuses an interrupted log directory without deleting it, instead of a bare refusal",
+    "driver: unique per-attempt output files opened without truncation, attempt number kept in queue-state.json, labels carrying the attempt",
+    "self-test cases: a restart with the same label is handled without losing the interrupted attempt's evidence"
+   ],
+   "reported_by": "Codex review",
+   "status": "RECORDED; repair only after the current queue finishes"
+  }
+ ],
  "dependency_graph_g3": {
   "lex-analysis": [
    "lex-core",
