@@ -51,6 +51,14 @@ secrets, transcripts, hidden reasoning, or mutable copies of external state.
 
 ### Active
 
+- [`docs/plans/parser-reader-integration.md`](docs/plans/parser-reader-integration.md)
+  — Prepare normal-merge parser/main and published-reader sync candidates; keep
+  R7 separate, verify native/DB/export/package parity, then operator promotion.
+
+- [`docs/plans/parser-responsibility-split.md`](docs/plans/parser-responsibility-split.md)
+  — Behavior-preserving four-crate parser split; Sonnet 5.5 execution, Opus 5.5
+  advice, exact replay/provenance/DB gates and subsequent Codex audit. Planning only.
+
 - [`docs/plans/scjn-invalidity-registry-integration.md`](docs/plans/scjn-invalidity-registry-integration.md)
   — Deferred SCJN registry extraction, separate search and reviewed provision links;
   evidence-only in the current database build.

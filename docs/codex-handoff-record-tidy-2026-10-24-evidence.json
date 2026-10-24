@@ -1,0 +1,311 @@
+{
+  "artifact": "codex-lex-mex-handoff-record-tidy",
+  "date": "2026-10-24",
+  "scope": "Only16 Lex-Mex incoming Codex requests; no other project/provider pending queue changed",
+  "records": [
+    {
+      "name": "2026-10-19-lex-mex-glossary-exception-profiles-batch-1.md",
+      "source": "/Users/jr/Vaults/Agent_Vault/AI/60_Evaluations/provider-handoffs/pending/codex/2026-10-19-lex-mex-glossary-exception-profiles-batch-1.md",
+      "destination": "/Users/jr/Vaults/Agent_Vault/AI/60_Evaluations/provider-handoffs/resolved/2026-10-19-lex-mex-glossary-exception-profiles-batch-1.md",
+      "resolution": "superseded_by_later_review",
+      "sources": [
+        "/Users/jr/Dev/lex-mex/docs/parser-sweep-review-2026-10-19.md",
+        "/Users/jr/Dev/lex-mex/docs/heading-leak-permanent-acceptance-2026-10-21.md"
+      ],
+      "note": "This old source snapshot is superseded by the reviewed later corpus/DB baseline. This is administrative retirement, not fresh acceptance of every profile or a waiver of glossary/source holds.",
+      "original_sha256": "98615c9af5112a4ea92a0ba5349d5176b61fb65e00bf0cc1ce0bb679af2b15d7",
+      "resolved_sha256": "8bebbb0a1deacab8c57a5f24afdbb0ca79e6687806c2336fa7a4d9794c43d9c6",
+      "source_report_sha256": {
+        "/Users/jr/Dev/lex-mex/docs/parser-sweep-review-2026-10-19.md": "6bd0027669eb3cf8b5459defe79dc64f7bbe48018f469c91803830fd7914f7df",
+        "/Users/jr/Dev/lex-mex/docs/heading-leak-permanent-acceptance-2026-10-21.md": "adabaa0302b129344b1316297304e86a97d4dea08ad2a05379990a01b4a4ebd7"
+      }
+    },
+    {
+      "name": "2026-10-19-lex-mex-parser-defect-sweep.md",
+      "source": "/Users/jr/Vaults/Agent_Vault/AI/60_Evaluations/provider-handoffs/pending/codex/2026-10-19-lex-mex-parser-defect-sweep.md",
+      "destination": "/Users/jr/Vaults/Agent_Vault/AI/60_Evaluations/provider-handoffs/resolved/2026-10-19-lex-mex-parser-defect-sweep.md",
+      "resolution": "review_completed_with_recorded_findings",
+      "sources": [
+        "/Users/jr/Dev/lex-mex/docs/parser-sweep-review-2026-10-19.md"
+      ],
+      "note": "The named Codex review exists; its findings and limitations remain in that report. Closing the request does not declare every parser defect fixed.",
+      "original_sha256": "1e1744d1a7c92ed0625c0bdc5ee7a1649db42822d5cd3c779fb123ac93e11333",
+      "resolved_sha256": "296bde26d9b50bc2112e954ea5377c4fbaa0a5284667c463aab83ae3a9622656",
+      "source_report_sha256": {
+        "/Users/jr/Dev/lex-mex/docs/parser-sweep-review-2026-10-19.md": "6bd0027669eb3cf8b5459defe79dc64f7bbe48018f469c91803830fd7914f7df"
+      }
+    },
+    {
+      "name": "2026-10-20-lex-mex-batch-fixes-and-rulings-review.md",
+      "source": "/Users/jr/Vaults/Agent_Vault/AI/60_Evaluations/provider-handoffs/pending/codex/2026-10-20-lex-mex-batch-fixes-and-rulings-review.md",
+      "destination": "/Users/jr/Vaults/Agent_Vault/AI/60_Evaluations/provider-handoffs/resolved/2026-10-20-lex-mex-batch-fixes-and-rulings-review.md",
+      "resolution": "review_completed_superseded",
+      "sources": [
+        "/Users/jr/Dev/lex-mex-db/docs/batch-fixes-and-rulings-review-2026-10-20.md",
+        "/Users/jr/Dev/lex-mex-db/docs/integrated-main-review-2026-10-20.md"
+      ],
+      "note": "The findings were followed by exact-commit integrated-main acceptance. Earlier branch snapshots are historical; no legal hold or ruling is newly decided.",
+      "original_sha256": "74c80661e3d999d1314c9d35c56acc5f33ec23418479a74746ccbcc76ca76889",
+      "resolved_sha256": "08858d867f912ac939b9e76b224e58dd9f2b89498572abb56a9829bd5e892f8c",
+      "source_report_sha256": {
+        "/Users/jr/Dev/lex-mex-db/docs/batch-fixes-and-rulings-review-2026-10-20.md": "43556a14f7da5a02bb807040260d105adb02335ad287094b65a680344a94a4bd",
+        "/Users/jr/Dev/lex-mex-db/docs/integrated-main-review-2026-10-20.md": "ca28043f3ce44e7531669426f5ba68c2ddc8a72f511f17770155294fdb7404ed"
+      }
+    },
+    {
+      "name": "2026-10-20-lex-mex-db-merge-and-parser-batch.md",
+      "source": "/Users/jr/Vaults/Agent_Vault/AI/60_Evaluations/provider-handoffs/pending/codex/2026-10-20-lex-mex-db-merge-and-parser-batch.md",
+      "destination": "/Users/jr/Vaults/Agent_Vault/AI/60_Evaluations/provider-handoffs/resolved/2026-10-20-lex-mex-db-merge-and-parser-batch.md",
+      "resolution": "completed_historical_integration",
+      "sources": [
+        "/Users/jr/Dev/lex-mex/docs/sqlite-m4-reproducibility-2026-10-20.md",
+        "/Users/jr/Dev/lex-mex-db/docs/integrated-main-review-2026-10-20.md"
+      ],
+      "note": "The M4 report is committed and the DB/batch/rulings integration has its own accepted report; this old execution request is no longer current.",
+      "original_sha256": "974f24fdbd2e92fbbc056acf3d06838004e0afeff4fb4325a593e67c471f32ba",
+      "resolved_sha256": "b43e337aa067e7ce074d29183a60ebb912d4eed553bcaf101230df9b2c7c3396",
+      "source_report_sha256": {
+        "/Users/jr/Dev/lex-mex/docs/sqlite-m4-reproducibility-2026-10-20.md": "23773c5c86b65a58604084849ade657c1a54326ce6f286b4b4cd6a790e86031b",
+        "/Users/jr/Dev/lex-mex-db/docs/integrated-main-review-2026-10-20.md": "ca28043f3ce44e7531669426f5ba68c2ddc8a72f511f17770155294fdb7404ed"
+      }
+    },
+    {
+      "name": "2026-10-20-lex-mex-integrated-main-review.md",
+      "source": "/Users/jr/Vaults/Agent_Vault/AI/60_Evaluations/provider-handoffs/pending/codex/2026-10-20-lex-mex-integrated-main-review.md",
+      "destination": "/Users/jr/Vaults/Agent_Vault/AI/60_Evaluations/provider-handoffs/resolved/2026-10-20-lex-mex-integrated-main-review.md",
+      "resolution": "review_completed_accepted_exact_historical_commit",
+      "sources": [
+        "/Users/jr/Dev/lex-mex-db/docs/integrated-main-review-2026-10-20.md"
+      ],
+      "note": "Accepted exact historical commit e718da2e5 in the cited report. That acceptance does not approve later P/R integration commits.",
+      "original_sha256": "e95f9c127259fe2b44e0ac3611bc2b1be46f6d41ce50d47ec64b41873b33b8e6",
+      "resolved_sha256": "4731ef9ebb919f603511e2409add48fa1d6271ce2dc51e60fc1951aa4b8279b0",
+      "source_report_sha256": {
+        "/Users/jr/Dev/lex-mex-db/docs/integrated-main-review-2026-10-20.md": "ca28043f3ce44e7531669426f5ba68c2ddc8a72f511f17770155294fdb7404ed"
+      }
+    },
+    {
+      "name": "2026-10-20-lex-mex-m2-review.md",
+      "source": "/Users/jr/Vaults/Agent_Vault/AI/60_Evaluations/provider-handoffs/pending/codex/2026-10-20-lex-mex-m2-review.md",
+      "destination": "/Users/jr/Vaults/Agent_Vault/AI/60_Evaluations/provider-handoffs/resolved/2026-10-20-lex-mex-m2-review.md",
+      "resolution": "superseded_by_accepted_database_milestone",
+      "sources": [
+        "/Users/jr/Dev/lex-mex/docs/sqlite-m2-builder-2026-10-20.md",
+        "/Users/jr/Dev/lex-mex/docs/sqlite-m3-review-repairs-2026-10-20.md",
+        "/Users/jr/Dev/lex-mex/docs/heading-leak-permanent-acceptance-2026-10-21.md"
+      ],
+      "note": "Preserve the original M2 findings as history; the later accepted verifier/permanent database baseline supersedes this request. No fresh independent M2 rerun was done for cleanup.",
+      "original_sha256": "02fe73aa54e1f6e29ab0afbbe780a14e964ba51b707e733dbd6c6a47c6755fd2",
+      "resolved_sha256": "844d1bf6301c3edc40665b8bd8a6e5dd04d117ff4f6626bf7b4db9d628722de7",
+      "source_report_sha256": {
+        "/Users/jr/Dev/lex-mex/docs/sqlite-m2-builder-2026-10-20.md": "bff9c6de408bb7c99d568efbfef67a92fab3f7049aa85655102b36819ac63670",
+        "/Users/jr/Dev/lex-mex/docs/sqlite-m3-review-repairs-2026-10-20.md": "b22444b0d2290142254fd07dc041b70ea4c72a90c99574bb107fb8a146bd9bf9",
+        "/Users/jr/Dev/lex-mex/docs/heading-leak-permanent-acceptance-2026-10-21.md": "adabaa0302b129344b1316297304e86a97d4dea08ad2a05379990a01b4a4ebd7"
+      }
+    },
+    {
+      "name": "2026-10-20-lex-mex-m2-upstream-repair.md",
+      "source": "/Users/jr/Vaults/Agent_Vault/AI/60_Evaluations/provider-handoffs/pending/codex/2026-10-20-lex-mex-m2-upstream-repair.md",
+      "destination": "/Users/jr/Vaults/Agent_Vault/AI/60_Evaluations/provider-handoffs/resolved/2026-10-20-lex-mex-m2-upstream-repair.md",
+      "resolution": "review_completed_historical_repair",
+      "sources": [
+        "/Users/jr/Dev/lex-mex/docs/sqlite-m2-upstream-integration-2026-10-20.md",
+        "/Users/jr/Dev/lex-mex/docs/heading-leak-permanent-acceptance-2026-10-21.md"
+      ],
+      "note": "Upstream repair/integration evidence and a later permanent database acceptance exist; original outstanding defects are not silently waived.",
+      "original_sha256": "c3991f87964b54fba6d065256d16e1734a62f376766173891ba6810cc803ffd8",
+      "resolved_sha256": "1766be0c60c56e7cec954b57b8855e73ed256039ad3cf7c983250fcf3d583aa7",
+      "source_report_sha256": {
+        "/Users/jr/Dev/lex-mex/docs/sqlite-m2-upstream-integration-2026-10-20.md": "6ce3cd90fb5190911596592e7212490c54430e6cdda294e4bc95db927a25b5d5",
+        "/Users/jr/Dev/lex-mex/docs/heading-leak-permanent-acceptance-2026-10-21.md": "adabaa0302b129344b1316297304e86a97d4dea08ad2a05379990a01b4a4ebd7"
+      }
+    },
+    {
+      "name": "2026-10-20-lex-mex-m3-review.md",
+      "source": "/Users/jr/Vaults/Agent_Vault/AI/60_Evaluations/provider-handoffs/pending/codex/2026-10-20-lex-mex-m3-review.md",
+      "destination": "/Users/jr/Vaults/Agent_Vault/AI/60_Evaluations/provider-handoffs/resolved/2026-10-20-lex-mex-m3-review.md",
+      "resolution": "review_completed_followed_by_repairs",
+      "sources": [
+        "/Users/jr/Dev/lex-mex/docs/sqlite-m3-verifier-2026-10-20.md",
+        "/Users/jr/Dev/lex-mex/docs/sqlite-m3-review-repairs-2026-10-20.md"
+      ],
+      "note": "The original uncommitted verifier snapshot received a review and subsequent repairs. Preserve those verdicts; this is not acceptance of the old uncommitted bytes.",
+      "original_sha256": "5e5a032818b4e430c0675003a85f5c4c9f4b24798fc18e2194305c08371d1578",
+      "resolved_sha256": "1c0944476c292d6d72b090041116dcb7ce6a77747c0358d60dfe1f288d911c07",
+      "source_report_sha256": {
+        "/Users/jr/Dev/lex-mex/docs/sqlite-m3-verifier-2026-10-20.md": "056e5ad98c81fd624661ee2a54cdda94690d71ac5fd8a8284965153f2b4bd976",
+        "/Users/jr/Dev/lex-mex/docs/sqlite-m3-review-repairs-2026-10-20.md": "b22444b0d2290142254fd07dc041b70ea4c72a90c99574bb107fb8a146bd9bf9"
+      }
+    },
+    {
+      "name": "2026-10-20-lex-mex-m4-review.md",
+      "source": "/Users/jr/Vaults/Agent_Vault/AI/60_Evaluations/provider-handoffs/pending/codex/2026-10-20-lex-mex-m4-review.md",
+      "destination": "/Users/jr/Vaults/Agent_Vault/AI/60_Evaluations/provider-handoffs/resolved/2026-10-20-lex-mex-m4-review.md",
+      "resolution": "review_completed_historical_milestone",
+      "sources": [
+        "/Users/jr/Dev/lex-mex/docs/sqlite-m3-review-repairs-2026-10-20.md",
+        "/Users/jr/Dev/lex-mex/docs/sqlite-m4-reproducibility-2026-10-20.md",
+        "/Users/jr/Dev/lex-mex/docs/heading-leak-permanent-acceptance-2026-10-21.md"
+      ],
+      "note": "M3 repair and M4/permanent acceptance evidence supersede this historical request.",
+      "original_sha256": "18a8c015c86be63eee603e54d6d0460e17bee4eb9a0f935c69e9c873ca7fd8f4",
+      "resolved_sha256": "830cd5378ad4668cd0122819de28a36a591e5992189f3034cd90a40d0e8b192b",
+      "source_report_sha256": {
+        "/Users/jr/Dev/lex-mex/docs/sqlite-m3-review-repairs-2026-10-20.md": "b22444b0d2290142254fd07dc041b70ea4c72a90c99574bb107fb8a146bd9bf9",
+        "/Users/jr/Dev/lex-mex/docs/sqlite-m4-reproducibility-2026-10-20.md": "23773c5c86b65a58604084849ade657c1a54326ce6f286b4b4cd6a790e86031b",
+        "/Users/jr/Dev/lex-mex/docs/heading-leak-permanent-acceptance-2026-10-21.md": "adabaa0302b129344b1316297304e86a97d4dea08ad2a05379990a01b4a4ebd7"
+      }
+    },
+    {
+      "name": "2026-10-20-lex-mex-parser-batch-review.md",
+      "source": "/Users/jr/Vaults/Agent_Vault/AI/60_Evaluations/provider-handoffs/pending/codex/2026-10-20-lex-mex-parser-batch-review.md",
+      "destination": "/Users/jr/Vaults/Agent_Vault/AI/60_Evaluations/provider-handoffs/resolved/2026-10-20-lex-mex-parser-batch-review.md",
+      "resolution": "review_completed_changes_requested_superseded",
+      "sources": [
+        "/Users/jr/Dev/lex-mex-db/docs/parser-batch-review-2026-10-20.md",
+        "/Users/jr/Dev/lex-mex-db/docs/integrated-main-review-2026-10-20.md"
+      ],
+      "note": "The batch review raised findings; later integrated-main acceptance is separate evidence. Do not read resolved status as acceptance of the originally reviewed batch.",
+      "original_sha256": "05a52d18159d3692526b8f300eec17b05ce3b0bb01fff6b4bd60461f3a782c56",
+      "resolved_sha256": "272b9a7d6f70568963e0189d1fcbc55d20f04e7079f69e85ba658db9c4ce376e",
+      "source_report_sha256": {
+        "/Users/jr/Dev/lex-mex-db/docs/parser-batch-review-2026-10-20.md": "8060263249e971b54a3ded134e6fc15a6845a14f4495b447e9d25dd5e7329b9f",
+        "/Users/jr/Dev/lex-mex-db/docs/integrated-main-review-2026-10-20.md": "ca28043f3ce44e7531669426f5ba68c2ddc8a72f511f17770155294fdb7404ed"
+      }
+    },
+    {
+      "name": "2026-10-20-lex-mex-sqlite-m1-repair-acceptance.md",
+      "source": "/Users/jr/Vaults/Agent_Vault/AI/60_Evaluations/provider-handoffs/pending/codex/2026-10-20-lex-mex-sqlite-m1-repair-acceptance.md",
+      "destination": "/Users/jr/Vaults/Agent_Vault/AI/60_Evaluations/provider-handoffs/resolved/2026-10-20-lex-mex-sqlite-m1-repair-acceptance.md",
+      "resolution": "review_completed_historical_repair",
+      "sources": [
+        "/Users/jr/Dev/lex-mex/docs/sqlite-m1-review-response-2026-10-20.md",
+        "/Users/jr/Dev/lex-mex/docs/heading-leak-permanent-acceptance-2026-10-21.md"
+      ],
+      "note": "The repaired M1 boundary and subsequent accepted DB are recorded; legal-review history and original seed provenance remain unchanged.",
+      "original_sha256": "a7369d319902aadc64cd965f053d3f61ed9987877eb6140d215ef7607e296f6f",
+      "resolved_sha256": "c9af4af13897bb28e9a6b62db2ea19e6de46ce2377e8541d5ed515fd35683e3c",
+      "source_report_sha256": {
+        "/Users/jr/Dev/lex-mex/docs/sqlite-m1-review-response-2026-10-20.md": "ddb47eaa319d24db8e74e267acca6c8c97c7287dc446e3572f3f97f9d2589a21",
+        "/Users/jr/Dev/lex-mex/docs/heading-leak-permanent-acceptance-2026-10-21.md": "adabaa0302b129344b1316297304e86a97d4dea08ad2a05379990a01b4a4ebd7"
+      }
+    },
+    {
+      "name": "2026-10-20-lex-mex-sqlite-m1-review.md",
+      "source": "/Users/jr/Vaults/Agent_Vault/AI/60_Evaluations/provider-handoffs/pending/codex/2026-10-20-lex-mex-sqlite-m1-review.md",
+      "destination": "/Users/jr/Vaults/Agent_Vault/AI/60_Evaluations/provider-handoffs/resolved/2026-10-20-lex-mex-sqlite-m1-review.md",
+      "resolution": "review_completed_changes_repaired",
+      "sources": [
+        "/Users/jr/Dev/lex-mex/docs/sqlite-m1-review-2026-10-20.md",
+        "/Users/jr/Dev/lex-mex/docs/sqlite-m1-review-response-2026-10-20.md"
+      ],
+      "note": "Original M1 review and repair response exist. Old findings remain historical; no acceptance is fabricated for the original defective snapshot.",
+      "original_sha256": "beb6b8991dfad32ee373a4a6c657ae7676b4c5310139fd33ab27724c2f8ac7e4",
+      "resolved_sha256": "2b4e2f64ecda144a6b7cbff2bff50865e672bc22c822836b0815055319a5dcca",
+      "source_report_sha256": {
+        "/Users/jr/Dev/lex-mex/docs/sqlite-m1-review-2026-10-20.md": "437753c35a34434fec7273055d4eb967a8caa12d50bdeb8bee079fe3c2bd107e",
+        "/Users/jr/Dev/lex-mex/docs/sqlite-m1-review-response-2026-10-20.md": "ddb47eaa319d24db8e74e267acca6c8c97c7287dc446e3572f3f97f9d2589a21"
+      }
+    },
+    {
+      "name": "2026-10-21-lex-mex-heading-leak-commit-acceptance.md",
+      "source": "/Users/jr/Vaults/Agent_Vault/AI/60_Evaluations/provider-handoffs/pending/codex/2026-10-21-lex-mex-heading-leak-commit-acceptance.md",
+      "destination": "/Users/jr/Vaults/Agent_Vault/AI/60_Evaluations/provider-handoffs/resolved/2026-10-21-lex-mex-heading-leak-commit-acceptance.md",
+      "resolution": "review_completed_accepted_historical_commit",
+      "sources": [
+        "/Users/jr/Dev/lex-mex/docs/heading-leak-permanent-acceptance-2026-10-21.md"
+      ],
+      "note": "The cited acceptance explicitly resolves both October21 heading-leak requests at permanent commit5eca03bc5.",
+      "original_sha256": "24cc7cb0006a5aedb6bc97b119d2285cbc5ebaa0730cd78f37cb8b489508e8d2",
+      "resolved_sha256": "88575e143d281e0397a2f5d98b62d89c4588f5a5a70098e02bb2cc605cd9d43c",
+      "source_report_sha256": {
+        "/Users/jr/Dev/lex-mex/docs/heading-leak-permanent-acceptance-2026-10-21.md": "adabaa0302b129344b1316297304e86a97d4dea08ad2a05379990a01b4a4ebd7"
+      }
+    },
+    {
+      "name": "2026-10-21-lex-mex-heading-leak-refetch-review.md",
+      "source": "/Users/jr/Vaults/Agent_Vault/AI/60_Evaluations/provider-handoffs/pending/codex/2026-10-21-lex-mex-heading-leak-refetch-review.md",
+      "destination": "/Users/jr/Vaults/Agent_Vault/AI/60_Evaluations/provider-handoffs/resolved/2026-10-21-lex-mex-heading-leak-refetch-review.md",
+      "resolution": "review_completed_repair_and_acceptance",
+      "sources": [
+        "/Users/jr/Dev/lex-mex/docs/heading-leak-refetch-review-and-repair-2026-10-21.md",
+        "/Users/jr/Dev/lex-mex/docs/heading-leak-permanent-acceptance-2026-10-21.md"
+      ],
+      "note": "The repair review and permanent acceptance explicitly resolve this source/refetch and seed-retirement request. Recorded legal holds remain.",
+      "original_sha256": "37f25dd9a6368bd982b2e599aae9246e5dac99d0e7d4fa5acd72953ce9132cdd",
+      "resolved_sha256": "2698404fab9bc705ab0719560e0e882824089aa1bdeed8d81942e7442ecf2e94",
+      "source_report_sha256": {
+        "/Users/jr/Dev/lex-mex/docs/heading-leak-refetch-review-and-repair-2026-10-21.md": "48f46ae51faf19aacd173a2c3029406f191557932449901b3c9eb8767b60033f",
+        "/Users/jr/Dev/lex-mex/docs/heading-leak-permanent-acceptance-2026-10-21.md": "adabaa0302b129344b1316297304e86a97d4dea08ad2a05379990a01b4a4ebd7"
+      }
+    },
+    {
+      "name": "2026-10-21-lex-mex-reader-publish-handoff.md",
+      "source": "/Users/jr/Vaults/Agent_Vault/AI/60_Evaluations/provider-handoffs/pending/codex/2026-10-21-lex-mex-reader-publish-handoff.md",
+      "destination": "/Users/jr/Vaults/Agent_Vault/AI/60_Evaluations/provider-handoffs/resolved/2026-10-21-lex-mex-reader-publish-handoff.md",
+      "resolution": "navigation_review_completed_superseded",
+      "sources": [
+        "/Users/jr/Dev/lex-mex/docs/reader-publish-handoff-review-2026-10-22.md",
+        "/Users/jr/Dev/lex-mex/docs/parser-reader-integration-status-2026-10-24.md"
+      ],
+      "note": "The navigation packet was reviewed; later four-instrument work and local integration supersede its stale source state. Full-corpus public-site work remains a separate unbuilt scope; no new publish permission is granted.",
+      "original_sha256": "903784b69e7d15679e691a92e513740323136eb66095150a81b9c549c382d76e",
+      "resolved_sha256": "8bb62627e6b4329f75a5a0af57e475b88ab1273e978490ebd0061c410a00a168",
+      "source_report_sha256": {
+        "/Users/jr/Dev/lex-mex/docs/reader-publish-handoff-review-2026-10-22.md": "dfa76bab93226553cd9933072ce97b9fc83524c1ded564ab1b8015cb929e7981",
+        "/Users/jr/Dev/lex-mex/docs/parser-reader-integration-status-2026-10-24.md": "3ac6bff9dbbe63b62dc5caa313625594e8b8aed171562295889af4b39ccc5196"
+      }
+    },
+    {
+      "name": "2026-10-22-lex-mex-reader-r5-re-review.md",
+      "source": "/Users/jr/Vaults/Agent_Vault/AI/60_Evaluations/provider-handoffs/pending/codex/2026-10-22-lex-mex-reader-r5-re-review.md",
+      "destination": "/Users/jr/Vaults/Agent_Vault/AI/60_Evaluations/provider-handoffs/resolved/2026-10-22-lex-mex-reader-r5-re-review.md",
+      "resolution": "review_completed_changes_requested_superseded",
+      "sources": [
+        "/Users/jr/Dev/lex-mex-reader-four/docs/four-instrument-reader-r5-codex-review-2026-10-22.md",
+        "/Users/jr/Dev/lex-mex-reader-four/docs/four-instrument-reader-r6-findings-codex-ruling-2026-10-22.md",
+        "/Users/jr/Dev/lex-mex/docs/parser-split-tooling-followup-review-2026-10-24.md"
+      ],
+      "note": "R5 received changes-requested; later recovery repairs and the accepted b9b8 reader supersede it. Original R5 bytes are NOT newly accepted by this administrative closure.",
+      "original_sha256": "9f97b4ab293aff3c983cd5b36f2bd2c31f5ea421255145f2c3758d591586bab4",
+      "resolved_sha256": "cf70565fdeb70ea0d714dbd756be07cab01b499df44519218d40e6c4c59e82cd",
+      "source_report_sha256": {
+        "/Users/jr/Dev/lex-mex-reader-four/docs/four-instrument-reader-r5-codex-review-2026-10-22.md": "e4d8a2b8c6d8c46145536c89b40e41f536d85da6ed285ce542be515b754f3ac6",
+        "/Users/jr/Dev/lex-mex-reader-four/docs/four-instrument-reader-r6-findings-codex-ruling-2026-10-22.md": "16d5e5e99ee3d934afe6e9c065798a406e28d303901911394ce4e04f52a2570e",
+        "/Users/jr/Dev/lex-mex/docs/parser-split-tooling-followup-review-2026-10-24.md": "c0e8c1e3ccf7e9bada771da12bca25c6d6bce9be631ab93769f62bd8e2db8917"
+      }
+    }
+  ],
+  "current_open_record": "/Users/jr/Vaults/Agent_Vault/AI/60_Evaluations/provider-handoffs/pending/codex/2026-10-24-lex-mex-post-integration-independent-review.md",
+  "current_open_sha256": "b34b058546ec9b0d4f46205df7eee9d8f31ca21777b1bafcb61b814857ab1f1c",
+  "receipt_normalization": {
+    "path": "/Users/jr/Vaults/Agent_Vault/AI/60_Evaluations/session-summaries/lex-mex/2026-10-24.md",
+    "original_sha256": "0ce140c913947b2d395e4093f03ebaed88acbf67a28442800d1196d1cc19fdff",
+    "backup": "/Users/jr/Dev/lex-mex/.work/handoff-record-tidy-20261024/lex-mex-day-before.md",
+    "method": "canonical daily metadata/H1; prior entries retained as one explicitly keyed aggregate; original exact bytes backed up",
+    "normalized_snapshot_sha256": "1d34da87ae6125518ab63f540bdfce5729d6440cfa5ad39a77b5f0b820b6115a",
+    "sha256_after_cleanup_entry": "3be291853e1e96c7de667c6dcd3f763ab525a2ba0db883467f1f7603b0b6c9b5"
+  },
+  "backup_directory": "/Users/jr/Dev/lex-mex/.work/handoff-record-tidy-20261024",
+  "claude_queue": "untouched; user will ask Claude to reconcile its side",
+  "not_done": [
+    "No new technical or legal acceptance",
+    "No commit/push/deploy",
+    "No AgentOS software or policy modification"
+  ],
+  "agentos_note": "/Users/jr/Dev/AgentOS/docs/reports/2026-10-24-lex-mex-handoff-lifecycle-observations-codex.md",
+  "agentos_native_session": "codex-68b66e6952b3930ba33a06d4",
+  "agentos_note_sha256": "e979e27b86ffe834ee6946a4ead539aa63d3599cc9ca21b037331346c0493fe1",
+  "verification": {
+    "record_body_hash_path_checks": "PASS",
+    "git_diff_check_lex_mex": 0,
+    "git_diff_check_agentos": 0,
+    "agentos_native_verify": {
+      "exit": 1,
+      "status": "rejected",
+      "reason": "required_content_or_workspace_drift",
+      "preexisting_navigation": "Initial discovery already reported this and receipt_uncommitted on grok-gemini-onboarding before new note write",
+      "repair_performed": false
+    }
+  }
+}

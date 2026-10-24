@@ -1,0 +1,461 @@
+{
+  "artifact": "parser-split-ab-codex-review",
+  "date": "2026-10-24",
+  "reviewed_commit": "b3c7e961fcfbc9390d24ae8cd75958bc57243942",
+  "tested_production_commit": "1250889ce",
+  "verdict": "A/B parity verified for covered inputs; full parser split acceptance pending",
+  "checks": {
+    "runs": 15,
+    "comparisons_independently_recomputed": 12,
+    "command_rows": 22330,
+    "raw_stream_files_hashed": 44660,
+    "queue_steps_rc0": 27,
+    "protected_git_trees_unchanged": true,
+    "production_unchanged_since_tested_commit": true,
+    "diff_check": "PASS",
+    "cargo_rerun": false
+  },
+  "frozen_inputs_rehashed": {
+    "inputs": {
+      "sha256": "4ef1612d173a214c2944662dec48453b76e8271ba3361eae72eabf30c810de22",
+      "file_count": 1307,
+      "manifest_sha256": "8893e33b20a90ba10b0da2f684158d951b72153acf21f1757fc35eb8dbd608d3"
+    },
+    "inputs-supplement": {
+      "sha256": "45c5a23f6b4b59efb43aa727e9603b851507f0d57e2ab0197854d1c65dda0a29",
+      "file_count": 21,
+      "manifest_sha256": "efe68af8c7f9028ceb630bc20915c63dd8c0982b914631ad2bf4d1ba2e0a5971"
+    }
+  },
+  "runs": {
+    "retained-B3": {
+      "result_sha256": "ef2078c18c8ec098622780899c8547c965bc3b3d94d1986c06b76e6778070e32",
+      "trees_sha256": "9ba65728359def14950fb055d0c36adc202d87a5c080d319efbda05d3ea9c4c5",
+      "binary_sha256": "5c4a3f29acb7e5a1de6766f011a9d48f387178c2f38a592cfb11f2aef03c7730",
+      "rows": 1771,
+      "nonzero_stages": [
+        {
+          "slug": "cjm",
+          "stage": "validate",
+          "exit": 1
+        },
+        {
+          "slug": "cub-dcg-2005",
+          "stage": "validate",
+          "exit": 1
+        },
+        {
+          "slug": "cucb-dcg-2004",
+          "stage": "validate",
+          "exit": 1
+        },
+        {
+          "slug": "laero",
+          "stage": "validate",
+          "exit": 1
+        },
+        {
+          "slug": "lfiiedb",
+          "stage": "parse",
+          "exit": 1
+        },
+        {
+          "slug": "oaac-dcg-2009",
+          "stage": "validate",
+          "exit": 1
+        },
+        {
+          "slug": "oga",
+          "stage": "temporal-request",
+          "exit": 1
+        },
+        {
+          "slug": "scap-dcg-2012",
+          "stage": "validate",
+          "exit": 1
+        }
+      ],
+      "final_root_tree_sha256": "009366407bc0deb61c8f7c4c8ab612aec2ee8cee581599411ea72709d86b0930",
+      "final_corpus_tree_sha256": "08f0ca73fb81f3cea45f0096e256405422c39ba0b8432328a4adb121e5d0d7f4"
+    },
+    "retained-B4": {
+      "result_sha256": "f1a87fc53e2bcee35bf2cc0e92244235a9dc3a6ccda7846a588cbe2bf3eb4f7d",
+      "trees_sha256": "9ba65728359def14950fb055d0c36adc202d87a5c080d319efbda05d3ea9c4c5",
+      "binary_sha256": "5c4a3f29acb7e5a1de6766f011a9d48f387178c2f38a592cfb11f2aef03c7730",
+      "rows": 1771,
+      "nonzero_stages": [
+        {
+          "slug": "cjm",
+          "stage": "validate",
+          "exit": 1
+        },
+        {
+          "slug": "cub-dcg-2005",
+          "stage": "validate",
+          "exit": 1
+        },
+        {
+          "slug": "cucb-dcg-2004",
+          "stage": "validate",
+          "exit": 1
+        },
+        {
+          "slug": "laero",
+          "stage": "validate",
+          "exit": 1
+        },
+        {
+          "slug": "lfiiedb",
+          "stage": "parse",
+          "exit": 1
+        },
+        {
+          "slug": "oaac-dcg-2009",
+          "stage": "validate",
+          "exit": 1
+        },
+        {
+          "slug": "oga",
+          "stage": "temporal-request",
+          "exit": 1
+        },
+        {
+          "slug": "scap-dcg-2012",
+          "stage": "validate",
+          "exit": 1
+        }
+      ],
+      "final_root_tree_sha256": "009366407bc0deb61c8f7c4c8ab612aec2ee8cee581599411ea72709d86b0930",
+      "final_corpus_tree_sha256": "08f0ca73fb81f3cea45f0096e256405422c39ba0b8432328a4adb121e5d0d7f4"
+    },
+    "retained-C3": {
+      "result_sha256": "b0229e8f303d6fbe608fc6a68e55734a23187f1bd885c1209ebf026616ec0dfa",
+      "trees_sha256": "9ba65728359def14950fb055d0c36adc202d87a5c080d319efbda05d3ea9c4c5",
+      "binary_sha256": "31e21bc7c7afe31435486a942cad36de44db5dc6712c131f16eddbea83508235",
+      "rows": 1771,
+      "nonzero_stages": [
+        {
+          "slug": "cjm",
+          "stage": "validate",
+          "exit": 1
+        },
+        {
+          "slug": "cub-dcg-2005",
+          "stage": "validate",
+          "exit": 1
+        },
+        {
+          "slug": "cucb-dcg-2004",
+          "stage": "validate",
+          "exit": 1
+        },
+        {
+          "slug": "laero",
+          "stage": "validate",
+          "exit": 1
+        },
+        {
+          "slug": "lfiiedb",
+          "stage": "parse",
+          "exit": 1
+        },
+        {
+          "slug": "oaac-dcg-2009",
+          "stage": "validate",
+          "exit": 1
+        },
+        {
+          "slug": "oga",
+          "stage": "temporal-request",
+          "exit": 1
+        },
+        {
+          "slug": "scap-dcg-2012",
+          "stage": "validate",
+          "exit": 1
+        }
+      ],
+      "final_root_tree_sha256": "009366407bc0deb61c8f7c4c8ab612aec2ee8cee581599411ea72709d86b0930",
+      "final_corpus_tree_sha256": "08f0ca73fb81f3cea45f0096e256405422c39ba0b8432328a4adb121e5d0d7f4"
+    },
+    "retained-C2": {
+      "result_sha256": "93576fda1541729f23fb08a5b098ba7d125631a81a7c75821eaf98aa37bf2545",
+      "trees_sha256": "9ba65728359def14950fb055d0c36adc202d87a5c080d319efbda05d3ea9c4c5",
+      "binary_sha256": "17b09ead9b58436ae453c71c3a1e290cd01b1ee382e40a847c258e9e05c077f1",
+      "rows": 1771,
+      "nonzero_stages": [
+        {
+          "slug": "cjm",
+          "stage": "validate",
+          "exit": 1
+        },
+        {
+          "slug": "cub-dcg-2005",
+          "stage": "validate",
+          "exit": 1
+        },
+        {
+          "slug": "cucb-dcg-2004",
+          "stage": "validate",
+          "exit": 1
+        },
+        {
+          "slug": "laero",
+          "stage": "validate",
+          "exit": 1
+        },
+        {
+          "slug": "lfiiedb",
+          "stage": "parse",
+          "exit": 1
+        },
+        {
+          "slug": "oaac-dcg-2009",
+          "stage": "validate",
+          "exit": 1
+        },
+        {
+          "slug": "oga",
+          "stage": "temporal-request",
+          "exit": 1
+        },
+        {
+          "slug": "scap-dcg-2012",
+          "stage": "validate",
+          "exit": 1
+        }
+      ],
+      "final_root_tree_sha256": "009366407bc0deb61c8f7c4c8ab612aec2ee8cee581599411ea72709d86b0930",
+      "final_corpus_tree_sha256": "08f0ca73fb81f3cea45f0096e256405422c39ba0b8432328a4adb121e5d0d7f4"
+    },
+    "retained-C1": {
+      "result_sha256": "b4fb127819d5c9b329c9c9be4f84fca444c7975ffb6e924239cda6c9d6c17541",
+      "trees_sha256": "9ba65728359def14950fb055d0c36adc202d87a5c080d319efbda05d3ea9c4c5",
+      "binary_sha256": "90cc26578cabf10a3fa8bf069e238834adff2a18fd8bb5530a839f8f2e0fa7bc",
+      "rows": 1771,
+      "nonzero_stages": [
+        {
+          "slug": "cjm",
+          "stage": "validate",
+          "exit": 1
+        },
+        {
+          "slug": "cub-dcg-2005",
+          "stage": "validate",
+          "exit": 1
+        },
+        {
+          "slug": "cucb-dcg-2004",
+          "stage": "validate",
+          "exit": 1
+        },
+        {
+          "slug": "laero",
+          "stage": "validate",
+          "exit": 1
+        },
+        {
+          "slug": "lfiiedb",
+          "stage": "parse",
+          "exit": 1
+        },
+        {
+          "slug": "oaac-dcg-2009",
+          "stage": "validate",
+          "exit": 1
+        },
+        {
+          "slug": "oga",
+          "stage": "temporal-request",
+          "exit": 1
+        },
+        {
+          "slug": "scap-dcg-2012",
+          "stage": "validate",
+          "exit": 1
+        }
+      ],
+      "final_root_tree_sha256": "009366407bc0deb61c8f7c4c8ab612aec2ee8cee581599411ea72709d86b0930",
+      "final_corpus_tree_sha256": "08f0ca73fb81f3cea45f0096e256405422c39ba0b8432328a4adb121e5d0d7f4"
+    },
+    "sweep-B3": {
+      "result_sha256": "f090fc1af19825f3e5bbc17ab289b97d8863055231364b3aac42a874548d4a4f",
+      "trees_sha256": "836838953948d149016123c72c60574d1293919cf596810f3bf665b09fcc9202",
+      "binary_sha256": "5c4a3f29acb7e5a1de6766f011a9d48f387178c2f38a592cfb11f2aef03c7730",
+      "rows": 2660,
+      "nonzero_stages": [],
+      "final_root_tree_sha256": "891d4f879950d6503e9833f1973bce54f098b052beac4c9a3f2ec95f09f24994",
+      "final_corpus_tree_sha256": "8349dee2eecb4b29f8600442c9e3df7f29caee97505539ed7f9a5042c5de9a96"
+    },
+    "sweep-B4": {
+      "result_sha256": "b9208646247af4dafa524dc2e816ad21fbebe38ddc0650399ceff455f9ba6cf0",
+      "trees_sha256": "836838953948d149016123c72c60574d1293919cf596810f3bf665b09fcc9202",
+      "binary_sha256": "5c4a3f29acb7e5a1de6766f011a9d48f387178c2f38a592cfb11f2aef03c7730",
+      "rows": 2660,
+      "nonzero_stages": [],
+      "final_root_tree_sha256": "891d4f879950d6503e9833f1973bce54f098b052beac4c9a3f2ec95f09f24994",
+      "final_corpus_tree_sha256": "8349dee2eecb4b29f8600442c9e3df7f29caee97505539ed7f9a5042c5de9a96"
+    },
+    "sweep-C3": {
+      "result_sha256": "0c936158f8f6b183a03fac4c2f78a5747c1edf82be0c699993fc69fbdd98a990",
+      "trees_sha256": "836838953948d149016123c72c60574d1293919cf596810f3bf665b09fcc9202",
+      "binary_sha256": "31e21bc7c7afe31435486a942cad36de44db5dc6712c131f16eddbea83508235",
+      "rows": 2660,
+      "nonzero_stages": [],
+      "final_root_tree_sha256": "891d4f879950d6503e9833f1973bce54f098b052beac4c9a3f2ec95f09f24994",
+      "final_corpus_tree_sha256": "8349dee2eecb4b29f8600442c9e3df7f29caee97505539ed7f9a5042c5de9a96"
+    },
+    "sweep-C2": {
+      "result_sha256": "62cf1af5f642c94ad6466a866f3e9c0bbc3ef7665d1b821d5f251647d3c5644f",
+      "trees_sha256": "836838953948d149016123c72c60574d1293919cf596810f3bf665b09fcc9202",
+      "binary_sha256": "17b09ead9b58436ae453c71c3a1e290cd01b1ee382e40a847c258e9e05c077f1",
+      "rows": 2660,
+      "nonzero_stages": [],
+      "final_root_tree_sha256": "891d4f879950d6503e9833f1973bce54f098b052beac4c9a3f2ec95f09f24994",
+      "final_corpus_tree_sha256": "8349dee2eecb4b29f8600442c9e3df7f29caee97505539ed7f9a5042c5de9a96"
+    },
+    "sweep-C1": {
+      "result_sha256": "bba1e823154e086b1b43399e97948aa13babb1327791950b897eb23185c7d7e4",
+      "trees_sha256": "836838953948d149016123c72c60574d1293919cf596810f3bf665b09fcc9202",
+      "binary_sha256": "90cc26578cabf10a3fa8bf069e238834adff2a18fd8bb5530a839f8f2e0fa7bc",
+      "rows": 2660,
+      "nonzero_stages": [],
+      "final_root_tree_sha256": "891d4f879950d6503e9833f1973bce54f098b052beac4c9a3f2ec95f09f24994",
+      "final_corpus_tree_sha256": "8349dee2eecb4b29f8600442c9e3df7f29caee97505539ed7f9a5042c5de9a96"
+    },
+    "supp-B3": {
+      "result_sha256": "e74b83143b269d6b67d679588528661a27e36100a20daf02d427e0059a4f7902",
+      "trees_sha256": "c89da14a0c5275893be7b03bf5b2c5243c05e37dccdbbdbd1e474c335e624c1d",
+      "binary_sha256": "5c4a3f29acb7e5a1de6766f011a9d48f387178c2f38a592cfb11f2aef03c7730",
+      "rows": 35,
+      "nonzero_stages": [
+        {
+          "slug": "lftr",
+          "stage": "validate",
+          "exit": 1
+        }
+      ],
+      "final_root_tree_sha256": "2657a292bb1fca66fbc72d34ae84039f6da44318563198254840602f3dac29df",
+      "final_corpus_tree_sha256": "a47619a8d1ed3942f43fe5b64d89cefa8251a84c15f2a7f5dc8c77a6c4da9335"
+    },
+    "supp-B4": {
+      "result_sha256": "cb5baf5adf798ea31145398a31d5082b8fe5ce69921ee859d330c154e0fcb59d",
+      "trees_sha256": "c89da14a0c5275893be7b03bf5b2c5243c05e37dccdbbdbd1e474c335e624c1d",
+      "binary_sha256": "5c4a3f29acb7e5a1de6766f011a9d48f387178c2f38a592cfb11f2aef03c7730",
+      "rows": 35,
+      "nonzero_stages": [
+        {
+          "slug": "lftr",
+          "stage": "validate",
+          "exit": 1
+        }
+      ],
+      "final_root_tree_sha256": "2657a292bb1fca66fbc72d34ae84039f6da44318563198254840602f3dac29df",
+      "final_corpus_tree_sha256": "a47619a8d1ed3942f43fe5b64d89cefa8251a84c15f2a7f5dc8c77a6c4da9335"
+    },
+    "supp-C3": {
+      "result_sha256": "8205c534f04417023bc3848194e69b63a1a0a13550276ae114064d376315803e",
+      "trees_sha256": "c89da14a0c5275893be7b03bf5b2c5243c05e37dccdbbdbd1e474c335e624c1d",
+      "binary_sha256": "31e21bc7c7afe31435486a942cad36de44db5dc6712c131f16eddbea83508235",
+      "rows": 35,
+      "nonzero_stages": [
+        {
+          "slug": "lftr",
+          "stage": "validate",
+          "exit": 1
+        }
+      ],
+      "final_root_tree_sha256": "2657a292bb1fca66fbc72d34ae84039f6da44318563198254840602f3dac29df",
+      "final_corpus_tree_sha256": "a47619a8d1ed3942f43fe5b64d89cefa8251a84c15f2a7f5dc8c77a6c4da9335"
+    },
+    "supp-C2": {
+      "result_sha256": "b043410a88d960a2307ad1cfa3fd5d7e069bdd7b347d28463eb5b1f4684b88a9",
+      "trees_sha256": "c89da14a0c5275893be7b03bf5b2c5243c05e37dccdbbdbd1e474c335e624c1d",
+      "binary_sha256": "17b09ead9b58436ae453c71c3a1e290cd01b1ee382e40a847c258e9e05c077f1",
+      "rows": 35,
+      "nonzero_stages": [
+        {
+          "slug": "lftr",
+          "stage": "validate",
+          "exit": 1
+        }
+      ],
+      "final_root_tree_sha256": "2657a292bb1fca66fbc72d34ae84039f6da44318563198254840602f3dac29df",
+      "final_corpus_tree_sha256": "a47619a8d1ed3942f43fe5b64d89cefa8251a84c15f2a7f5dc8c77a6c4da9335"
+    },
+    "supp-C1": {
+      "result_sha256": "333755fc3f1249ecda892d95ca138c4a39488386f2dd4135b6b89ea6f3a23994",
+      "trees_sha256": "c89da14a0c5275893be7b03bf5b2c5243c05e37dccdbbdbd1e474c335e624c1d",
+      "binary_sha256": "90cc26578cabf10a3fa8bf069e238834adff2a18fd8bb5530a839f8f2e0fa7bc",
+      "rows": 35,
+      "nonzero_stages": [
+        {
+          "slug": "lftr",
+          "stage": "validate",
+          "exit": 1
+        }
+      ],
+      "final_root_tree_sha256": "2657a292bb1fca66fbc72d34ae84039f6da44318563198254840602f3dac29df",
+      "final_corpus_tree_sha256": "a47619a8d1ed3942f43fe5b64d89cefa8251a84c15f2a7f5dc8c77a6c4da9335"
+    }
+  },
+  "comparisons": {
+    "compare-retained-B3-vs-retained-B4.json": {
+      "sha256": "aabe2d43c731aa6cf9709eb255ee80fd7596cdb0d18d6ec74574872a9970e30f",
+      "independent_row_and_tree_equality": true
+    },
+    "compare-retained-B4-vs-retained-C3.json": {
+      "sha256": "ba0729ef530bd3d243ceb07603fa35cde13e16c04375c7c7fc13e74f6fef58d6",
+      "independent_row_and_tree_equality": true
+    },
+    "compare-retained-B4-vs-retained-C2.json": {
+      "sha256": "8f0b232ac67a6047b026d613285632655a405c4eddb058b8111d03887febf506",
+      "independent_row_and_tree_equality": true
+    },
+    "compare-retained-B4-vs-retained-C1.json": {
+      "sha256": "1b00c036a9feb796ff40a2008c68270f9f024bdc0d5dee04efe2424c85be6ee4",
+      "independent_row_and_tree_equality": true
+    },
+    "compare-sweep-B3-vs-sweep-B4.json": {
+      "sha256": "ffd01a1ef1aff0d4a3c0d0ca023fc785373c741c6bd010d4e4a299c8dd3d2cae",
+      "independent_row_and_tree_equality": true
+    },
+    "compare-sweep-B4-vs-sweep-C3.json": {
+      "sha256": "bd9acaae001b82171e4b05cc1f42d87424e5274d042de62a1c4ae8d7428655da",
+      "independent_row_and_tree_equality": true
+    },
+    "compare-sweep-B4-vs-sweep-C2.json": {
+      "sha256": "af3a4689d29e5919e3e2b8bc2876931a757b495cb16760eaf3e0a01b652125bb",
+      "independent_row_and_tree_equality": true
+    },
+    "compare-sweep-B4-vs-sweep-C1.json": {
+      "sha256": "e3d2a7224ae8d99b1f85cebedc7405d1c48c5954beaec5a4214634367c4a7e13",
+      "independent_row_and_tree_equality": true
+    },
+    "compare-supp-B3-vs-supp-B4.json": {
+      "sha256": "5ae0b37ee9634eb8cf4dd41ad190bb160a12f05557e47052af7534a443c7ac4d",
+      "independent_row_and_tree_equality": true
+    },
+    "compare-supp-B4-vs-supp-C3.json": {
+      "sha256": "0f757862c145c9b6d9cc49934db855608fead7a5a3d9bb6ac8136bb54b5fb0ec",
+      "independent_row_and_tree_equality": true
+    },
+    "compare-supp-B4-vs-supp-C2.json": {
+      "sha256": "ee83484c7c368c901b543bb346b4194e2a511b3ba696bcd6f7864030c4de0e53",
+      "independent_row_and_tree_equality": true
+    },
+    "compare-supp-B4-vs-supp-C1.json": {
+      "sha256": "eb95c187ad9e3ead879a5cc8af0bc2d82f498676d7e7b95fb9675666ef728067",
+      "independent_row_and_tree_equality": true
+    }
+  },
+  "limits": [
+    "106 instruments lack retained parse inputs",
+    "cub-dcg-2005 and lfiiedb retained inputs do not match canonical provenance",
+    "8 retained and 1 supplementary nonzero stages reproduce baseline",
+    "Stage tree maps and recorded final root digests compared; historical root contents are not independently reconstructible from retained hashes alone",
+    "Date invariance established only by observed equality in tested time window, not for all dates",
+    "G4 DB parity and G5 final review outstanding",
+    "R-001 restart repair deferred"
+  ]
+}
