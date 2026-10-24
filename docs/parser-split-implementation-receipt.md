@@ -278,10 +278,67 @@ passes.
   `ignored_artifact_sha256` in the evidence file.
 
 **Reproducing the gate evidence.** The gate runs used harness blob `9c329e0c`
-(commit `d05d98d3b`). HEAD carries the repaired blob `24c9534b`. A replay with the
-HEAD harness will fail a strict comparison with the gate runs on revision alone;
+(commit `d05d98d3b`). Later commits carry other blobs (`24c9534b`, then `321a651c`
+at HEAD). A replay with the HEAD harness will fail a strict comparison with the gate runs on revision alone;
 that is not drift. Use the harness from `d05d98d3b`, or compare new-revision runs
 only with each other.
+
+## Post-audit work (after Codex's audit of `9ad15ec98`)
+
+Codex accepted the refactor, accepted D-001 and raised two nonblocking tooling
+findings. Everything below came after that audit and is tooling or evidence only;
+no production code changed, and none of it has had independent review.
+
+- **A-001 fixed** (`77e54d13f`): the G4 wrappers keep every exit code, run all
+  steps and exit non-zero on any failure; the compare tool exits 1 on a parity
+  failure. `parser-split-g4-selftest.py` injects a failure at each command and
+  passes 16 of 16; the old wrappers fail 8 of those 16.
+- **A-002 fixed** (`77e54d13f`): results and state are written atomically; a
+  result the run marked unusable (exit 3) is archived with its logs and trees and
+  the label runs again; a usable result is never replaced; `verify-result` and the
+  driver record a verified existing result as done instead of rerunning it. The
+  harness self-test passes 41 of 41 on this third harness revision (blob
+  `321a651c`), and the 54 hash-bound artifacts were identical before and after it.
+- **Incident (executor error, disclosed).** On 2026-10-24 at about 11:26 CST a
+  mutation check ran the old G4 wrappers, which hard-code the real work paths and
+  ignore the self-test's overrides, with a fake `cargo` on PATH. That overwrote
+  the five native logs and truncated `cand-a.json` and `cand-b.json`. The
+  candidate databases were not touched (the builder refused to overwrite them;
+  SHA-256 still `483264b7`). I rebuilt the two JSON files and regenerated the
+  logs. `cand-a.json`, `cand-b.json`, `native-fmt.log` and
+  `native-validate-ifpe-dcg-2021.log` are byte-identical to the originals Codex
+  hashed. `native-clippy.log`, `native-test.log` and `native-validate-lritf.log`
+  differ in bytes (cargo timing lines) but show the same results (425 passed;
+  lritf 145/11/126; ifpe-dcg-2021 59/4/115). So Codex's native-log check was made
+  against originals that no longer exist for those three; the rerun reproduces
+  the same results, not the same bytes. The damaged copies are kept in
+  `g4-out/clobbered-2026-10-24/`, and the original hashes stay in the evidence
+  file beside the new ones. The G4 evidence came from the wrappers in `d8d197867`;
+  the fixed wrappers differ only in exit-code handling and env overrides.
+- **Gate evidence harness.** Every gate run used blob `9c329e0c`. The later
+  blobs, `24c9534b` (R-001) and `321a651c` (A-001/A-002), produced none; reproduce
+  with the harness from `d05d98d3b`.
+
+## Reader integration check (exporter build and package verification)
+
+Run on a disposable local integration candidate, not on any operator branch:
+merge commit `f8909420…` with parents reader R7 `162128517` and
+`refactor/parser-split` `77e54d13f`. **Assumption:** no commit was named and the
+reader docs do not pin one deployed commit, so I used the newest reader tip (R7,
+Codex found no blocking issue, not recorded as published); repeat with another
+base if the deployed UI is older. One conflict, in `Cargo.lock` only (the `lex-cli`
+dependency list: the reader added `jsonschema`, the split added `lex-analysis`);
+both lines were kept in order, and `cargo build --locked` confirms the lockfile.
+`main.rs` and the manifests merged automatically.
+
+Results: both binaries build `--locked`; `node --test reader/` 24 of 24; the
+exporter, run twice with the merged binary and twice with the R7-only binary from
+one root, gives four byte-identical releases (1785 files), and `package.mjs` gives
+four byte-identical packages. Against the deployed preferred release, only
+`release_id`, `corpus_commit` and `committed_at` differ (they come from the root's
+HEAD commit); all 1782 listed files have identical paths and hashes, and the
+package UI files match the deployed R7 package. The R5/R7 browser and mutation
+campaigns were not rerun.
 
 ## Tooling defect R-001 (repaired after the queue)
 
