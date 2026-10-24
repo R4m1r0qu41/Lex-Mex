@@ -1,0 +1,134 @@
+{
+ "schema": "four-instrument-baseline-comparison-v1",
+ "date": "2026-10-22",
+ "retained": {
+  "release_id": "3c04016651e2fd4169632756e96ec19136136e1f42c4ed666070f23f20b30660",
+  "corpus_commit": "9e990e09995718a77865993b24c5f8c8e7167b42",
+  "publication_id": "407aa3dc658a274ac712e9494045a4c97724e5df0686de4e0513bf1af039470f",
+  "provisions": 867
+ },
+ "main_baseline": {
+  "release_id": "9626bfe45c4ebc95b47351fd20c1de86f9b4f54856aee1de6d408e5d8389991f",
+  "corpus_commit": "85c41f3898d86737766564fa8d3fd8f6d4ae74a3",
+  "provisions": 870,
+  "two_builds_identical": true
+ },
+ "disposition": "HELD: LIC public text differs; ready package uses retained release. No JRH approval inferred.",
+ "instruments": {
+  "ifpe-dcg-2021": {
+   "provisions_old": 71,
+   "provisions_new": 71,
+   "added": [],
+   "removed": [],
+   "text_changed": 0,
+   "meta_changed_fields": {},
+   "references": {
+    "old": 113,
+    "new": 115
+   },
+   "instrument_fields_changed": {}
+  },
+  "itf-dcg-2018": {
+   "provisions_old": 132,
+   "provisions_new": 132,
+   "added": [],
+   "removed": [],
+   "text_changed": 0,
+   "meta_changed_fields": {},
+   "references": {
+    "old": 144,
+    "new": 149
+   },
+   "instrument_fields_changed": {}
+  },
+  "lic": {
+   "provisions_old": 508,
+   "provisions_new": 511,
+   "added": [
+    "112-quintus",
+    "112-septimus",
+    "112-sextus"
+   ],
+   "removed": [],
+   "text_changed": 26,
+   "meta_changed_fields": {
+    "text": 26,
+    "text_sha256": 26,
+    "heading_context": 248
+   },
+   "references": {
+    "old": 1049,
+    "new": 1137
+   },
+   "instrument_fields_changed": {}
+  },
+  "lritf": {
+   "provisions_old": 156,
+   "provisions_new": 156,
+   "added": [],
+   "removed": [],
+   "text_changed": 0,
+   "meta_changed_fields": {},
+   "references": {
+    "old": 126,
+    "new": 126
+   },
+   "instrument_fields_changed": {}
+  }
+ },
+ "lic_text_change_classes": {
+  "paragraph_break_normalisation": 15,
+  "truncated_editorial_note_restored_and_break_normalised": 1,
+  "leaked_heading_removed": 8,
+  "split_into_112_quintus_sextus_septimus": 1,
+  "signature_block_removed_from_transitory": 1
+ },
+ "lic_text_change_by_provision": {
+  "103": "paragraph_break_normalisation",
+  "106": "paragraph_break_normalisation",
+  "107-bis": "paragraph_break_normalisation",
+  "108-bis": "truncated_editorial_note_restored_and_break_normalised",
+  "108-bis-1": "paragraph_break_normalisation",
+  "109-bis-8": "leaked_heading_removed",
+  "110-bis-1": "leaked_heading_removed",
+  "110-bis-14": "leaked_heading_removed",
+  "110-bis-2": "paragraph_break_normalisation",
+  "112": "paragraph_break_normalisation",
+  "112-quater": "split_into_112_quintus_sextus_septimus",
+  "115": "paragraph_break_normalisation",
+  "150": "leaked_heading_removed",
+  "155": "leaked_heading_removed",
+  "220": "leaked_heading_removed",
+  "224": "leaked_heading_removed",
+  "261": "paragraph_break_normalisation",
+  "42": "paragraph_break_normalisation",
+  "45-i": "paragraph_break_normalisation",
+  "45-k": "paragraph_break_normalisation",
+  "45-n": "leaked_heading_removed",
+  "62": "paragraph_break_normalisation",
+  "66": "paragraph_break_normalisation",
+  "73": "paragraph_break_normalisation",
+  "75": "paragraph_break_normalisation",
+  "vigesimo": "signature_block_removed_from_transitory"
+ },
+ "lic_heading_context": "124 provisions changed chapter; 124 gained apartado",
+ "unchanged_for_all_shared_provisions": [
+  "effective_from",
+  "effective_to",
+  "review_status",
+  "temporal status",
+  "source digests",
+  "repeals",
+  "commencement_condition"
+ ],
+ "pdf_page_null": {
+  "retained": "867/867",
+  "main": "870/870"
+ },
+ "lritf": "byte-identical provisions and references",
+ "disposition_superseded": {
+  "date": "2026-10-22",
+  "by": "docs/four-instrument-reader-continuation-receipt-2026-10-22.md",
+  "note": "Source-fidelity technical hold cleared for the exact audited LIC bytes (docs/lic-publication-source-audit-2026-10-22-evidence.json); 9626 release is the preferred candidate. No legal-review row, commencement date or validity claim changed; operator still authorizes publication."
+ }
+}

@@ -1,0 +1,401 @@
+{
+ "schema": "four-instrument-reader-evidence-v2",
+ "date": "2026-10-22",
+ "branch": "feat/four-instrument-reader-design",
+ "base_commit": "85c41f3898d86737766564fa8d3fd8f6d4ae74a3",
+ "committed": false,
+ "worktree": "/Users/jr/Dev/lex-mex-reader-four",
+ "plan": {
+  "path": "docs/plans/four-instrument-reader-design-release.md",
+  "sha256_original": "d067c29da94c1e4a72625b667a282bdde7eef2a1c23980105f366547dcbdb847",
+  "sha256_with_checkpoint": "4f41456d1a9538e50a8c9295d924da4dca0827ee378f8f9755b0930e25cb1a85"
+ },
+ "review_tiers": {
+  "code": "Claude Sonnet 5.5",
+  "deterministic_gates": "mech (Haiku)",
+  "advisor": "Opus 5.5 consulted four times; it reads this transcript, so not independent",
+  "codex_review": "none yet; main.rs conflict resolution unreviewed by a second provider"
+ },
+ "ready_package": {
+  "publication_id": "0b797aa6d57e744a3e27a5cedda62db926e3c6dc36fa560fae1ecca874b9a09d",
+  "release_id": "3c04016651e2fd4169632756e96ec19136136e1f42c4ed666070f23f20b30660",
+  "corpus_commit": "9e990e09995718a77865993b24c5f8c8e7167b42",
+  "manifest_sha256": "c2b22653d7a0b68edc1f29d2b2554fc45eb4a595f5be91f0b96868f2128aedc7",
+  "files": 1784,
+  "built_twice_identical": true,
+  "artifact_roots": [
+   ".work/ship-a",
+   ".work/ship-b"
+  ],
+  "browser_checks_ran_on": ".work/ship-a bytes"
+ },
+ "host_pin_current": {
+  "schema_version": "reader-publication-v1",
+  "release_id": "3c04016651e2fd4169632756e96ec19136136e1f42c4ed666070f23f20b30660",
+  "publication_id": "407aa3dc658a274ac712e9494045a4c97724e5df0686de4e0513bf1af039470f",
+  "corpus_commit": "9e990e09995718a77865993b24c5f8c8e7167b42",
+  "manifest_sha256": "c2b22653d7a0b68edc1f29d2b2554fc45eb4a595f5be91f0b96868f2128aedc7"
+ },
+ "pin_delta": {
+  "publication_id": {
+   "from": "407aa3dc658a274ac712e9494045a4c97724e5df0686de4e0513bf1af039470f",
+   "to": "0b797aa6d57e744a3e27a5cedda62db926e3c6dc36fa560fae1ecca874b9a09d"
+  },
+  "unchanged": [
+   "schema_version",
+   "release_id",
+   "corpus_commit",
+   "manifest_sha256"
+  ]
+ },
+ "deployed_ui_reproduced": {
+  "publication_id": "407aa3dc658a274ac712e9494045a4c97724e5df0686de4e0513bf1af039470f",
+  "matches_host_pin": true,
+  "ui_source": "Reader HEAD f5330c3e9 committed files, unmodified packager",
+  "artifact_root": ".work/baseline-unmodified-ui"
+ },
+ "ui_files_changed_vs_deployed": [
+  "index.html",
+  "reader-core.mjs",
+  "reader.css",
+  "reader.js"
+ ],
+ "release_files_changed_vs_deployed": [],
+ "ui_asset_hashes": {
+  "index.html": "44c509a43cf594f19e11a1af4494e5126c8173d4530742f7e3f7646b77a5f895",
+  "reader.css": "1ecdefa5d03d8bcc527cbbef2d8b9cd207cedb52fa35dc202927322dbb642e36",
+  "reader.js": "3ce97880a1166ad02548d37967d972d6f6a625a06fdd36d1a43857f08822a6aa",
+  "reader-core.mjs": "6e6075e98fa24becf11ca355e03d5a44025439440ee6a433959b8733f3c12630",
+  "lex-mex.svg": "ba8be0de5a75cf9773f4ea25ac3665773e1ba74a4b4d22185c11ff7b0aaaaf6c"
+ },
+ "validation": {
+  "cargo_fmt": "exit 0",
+  "clippy_workspace_all_targets_D_warnings": "exit 0",
+  "cargo_test_locked_workspace": {
+   "exit": 0,
+   "passed": 424,
+   "failed": 0,
+   "ignored": 0,
+   "note": "main baseline 419; +5 public_release tests"
+  },
+  "cargo_build_locked_lex_cli": "exit 0",
+  "node_test_reader": {
+   "exit": 0,
+   "tests": 22,
+   "pass": 22,
+   "fail": 0,
+   "note": "rerun after last Reader edit"
+  },
+  "validators_in_disposable_clone": {
+   "lritf": "valid; 145 articles, 11 transitories, 126 references, 0 issues",
+   "ifpe-dcg-2021": "valid; 59 articles, 4 transitories, 115 references, 0 issues",
+   "git_status_after": "clean",
+   "clone_head": "85c41f389"
+  },
+  "rust_unchanged_since_gate": true,
+  "public_field_allowlist": "exporter validates shipped instrument/manifest against schemas with additionalProperties:false at build time (public_release.rs validate_schema)"
+ },
+ "package_checks_on_ship_a": {
+  "receipt_vs_disk": "1785 listed = 1785 on disk",
+  "forbidden_paths": [],
+  "private_denylist_hits": [],
+  "pdfs": "32 present, 32 name==sha256, 32 referenced",
+  "provision_files": "1734 checked, 0 missing",
+  "routes": "assets and llms.txt links 200",
+  "agent_route_404": true,
+  "fail_closed": {
+   "tampered_file": "Publication file mismatch",
+   "forbidden_agent_path": "Non-public path",
+   "invalid_release_id": "Identificador de publicación inválido",
+   "destination_written": false
+  },
+  "staging_rehearsal": "407aa3dc -> 0b797aa6 -> 407aa3dc, 1784 files verified against receipt each time, 0 mismatches"
+ },
+ "browser": {
+  "environment": "Chrome via local extension; indicative only; no budget claimed",
+  "lic_clean_loads_ms": {
+   "shipped_bytes": {
+    "first_chunk": [
+     139,
+     146,
+     148
+    ],
+    "flow_complete": [
+     301,
+     315,
+     320
+    ]
+   },
+   "instrumented_copy_of_same_code_flow_complete": 332,
+   "previous_build_flow_complete": 318
+  },
+  "unexplained_slow_loads_ms": [
+   3885,
+   4327,
+   5340
+  ],
+  "slow_load_note": "after heavy tab activity or window resize; cause not isolated",
+  "lic_dom_nodes": 10415,
+  "lic_relayout_ms": {
+   "with_content_visibility": 2.5,
+   "without": "74-86"
+  },
+  "landing_offset_px": 8,
+  "passive_scroll_history_entries_added": 0,
+  "dom_text_vs_json_mismatches_lic": 0,
+  "overflow_x": false,
+  "history_length_note": "saturated at Chrome 50-entry cap in a long-lived tab; push confirmed via back/forward"
+ },
+ "pdf_pane": {
+  "ifpe_source_switches_top_to_bottom": 8,
+  "itf_source_switches_top_to_bottom": 20,
+  "passive_scroll_keeps_open_pdf": true,
+  "offer_shown": true,
+  "deliberate_navigation_swaps": true,
+  "verification_uses_loaded_document": true,
+  "rollback_backup_root": ".work/host-backup-2026-10-22 in the worktree (outside served trees and outside the Git tree at /Users/jr/Documents/4ll4; .work/ is ignored)"
+ },
+ "screenshots": {
+  "root": ".work/evidence/screenshots (ignored)",
+  "files": [
+   "desktop-1440-scaled-0.8-lritf-article4.jpg",
+   "mobile-390-deeplinks-lic-193-and-vigesimo.jpg",
+   "narrow-528-index-sheet.jpg",
+   "narrow-528-reading.jpg",
+   "narrow-528-source-sheet.jpg"
+  ]
+ },
+ "transfer_manifest": [
+  {
+   "path": "crates/lex-cli/src/public_release.rs",
+   "source_commit": "f5330c3e9ef8c087a1551b9e85c3c7233a4fa595",
+   "source_blob": "5bb1a1fad24d15bff4d1dc2df4e5b16bd9d1e916",
+   "sha256": "791b90e625c0a4f54ff1a5ccf12086726c7847cc24b507fc6196fcfac7edf3af"
+  },
+  {
+   "path": "schemas/public-instrument-v1.schema.json",
+   "source_commit": "f5330c3e9ef8c087a1551b9e85c3c7233a4fa595",
+   "source_blob": "c42b2fe98f41212e41bb2970f305dd7aafc052c1",
+   "sha256": "aee6c797d72608b98660e9007962ee980bd6fcadde9bf7f1ed3bf50c7db24a31"
+  },
+  {
+   "path": "schemas/public-release-v1.schema.json",
+   "source_commit": "f5330c3e9ef8c087a1551b9e85c3c7233a4fa595",
+   "source_blob": "e73a59e4c93aeaca415bcbc4df5a2034ec307bdf",
+   "sha256": "c1c4e24f3d9afcfb2105e1ea16fa82f42a59073b0ae0000e3eed2e0c22a6b43e"
+  },
+  {
+   "path": "reader/README.md",
+   "source_commit": "f5330c3e9ef8c087a1551b9e85c3c7233a4fa595",
+   "source_blob": "512bc775c5b90a61859a3cbd61f8d76e0e62e622",
+   "sha256": "040c739359919bbd920f45dbc1fd244cf3350db25e00e0a4548fbc1b14a68028"
+  },
+  {
+   "path": "reader/index.html",
+   "source_commit": "f5330c3e9ef8c087a1551b9e85c3c7233a4fa595",
+   "source_blob": "429bfab0ec6fb647100178efb2e6b1d7373d8e04",
+   "sha256": "827fbd3795b8835875db16c010a934eab682b4e83619a509b037d483c56cf112"
+  },
+  {
+   "path": "reader/lex-mex.svg",
+   "source_commit": "f5330c3e9ef8c087a1551b9e85c3c7233a4fa595",
+   "source_blob": "e623ccb3266cfedf59df40107640f524a390b6e8",
+   "sha256": "ba8be0de5a75cf9773f4ea25ac3665773e1ba74a4b4d22185c11ff7b0aaaaf6c"
+  },
+  {
+   "path": "reader/package.mjs",
+   "source_commit": "f5330c3e9ef8c087a1551b9e85c3c7233a4fa595",
+   "source_blob": "8c345170ab5c45c10842583d8ee3c1e2c0cfd016",
+   "sha256": "629b35f1f77a3066f92496d397da6c600536aa511137a94d58002fc4c6d4435a"
+  },
+  {
+   "path": "reader/package.test.mjs",
+   "source_commit": "f5330c3e9ef8c087a1551b9e85c3c7233a4fa595",
+   "source_blob": "0dd59dfdeb50614579d69d90d8d748347920a30c",
+   "sha256": "89ba5b215a24dfd388c055dbce529a8b8ac4f35bdbbba075b504a6753fb01986"
+  },
+  {
+   "path": "reader/reader-core.mjs",
+   "source_commit": "f5330c3e9ef8c087a1551b9e85c3c7233a4fa595",
+   "source_blob": "4a2c764dd79960a238ffe708d17d1e39d1115126",
+   "sha256": "8f74966aa9b960d0fb198a83c58debc40cd3cab679b1a446432917083381c3f4"
+  },
+  {
+   "path": "reader/reader.css",
+   "source_commit": "f5330c3e9ef8c087a1551b9e85c3c7233a4fa595",
+   "source_blob": "06c03de4ce1e9a48a9413ad73935b4b90ff32731",
+   "sha256": "8a4ec300f71b7d9fa379b4e246c6692b9d4ac176a466fad8802fc4f156f88d87"
+  },
+  {
+   "path": "reader/reader.js",
+   "source_commit": "f5330c3e9ef8c087a1551b9e85c3c7233a4fa595",
+   "source_blob": "0a365b5871228eb520e9558289d75cce0771c456",
+   "sha256": "1c32864a89a89d27cb208a3b9a1ef429f239fb09fce5610d57dbd7761d0584ca"
+  },
+  {
+   "path": "reader/reader.test.mjs",
+   "source_commit": "f5330c3e9ef8c087a1551b9e85c3c7233a4fa595",
+   "source_blob": "e1bf99109cc236efbe6dae9c22d52c2a12a4680d",
+   "sha256": "cf778ffcdffe5369fc09121c9a6b812cb1707d62058328572cb310fc717281df"
+  },
+  {
+   "path": "reader/serve.mjs",
+   "source_commit": "f5330c3e9ef8c087a1551b9e85c3c7233a4fa595",
+   "source_blob": "c19b895ca7a31911c24ff6829b4cf0d985b129f2",
+   "sha256": "75fd7b945a0dd194581f9f4d2e8519d3f03a9c12e7d14aa2a2fddd83125979d6"
+  },
+  {
+   "path": "reader/stage.mjs",
+   "source_commit": "f5330c3e9ef8c087a1551b9e85c3c7233a4fa595",
+   "source_blob": "2e5369236dd6cc0e6ec0ed83be709de378cfe469",
+   "sha256": "5f2d69af83018616e7a95a8f4aa508ec769b0a629492bd9901ec5e768cfde093"
+  },
+  {
+   "path": "reader/stage.test.mjs",
+   "source_commit": "f5330c3e9ef8c087a1551b9e85c3c7233a4fa595",
+   "source_blob": "dce7dbb76f9d73346b39cc6bbedf25def716d0b8",
+   "sha256": "ff15684ee300b28884c3d2e8c31f16d5ce7550949d8e0b19198c9fc8bc1a42f7"
+  }
+ ],
+ "changed_files": [
+  {
+   "path": "Cargo.lock",
+   "status": "modified",
+   "sha256": "14a9f6698abc77c29555e3b646aa0217026779e4a22c107407511c751c8e1d79"
+  },
+  {
+   "path": "PLANS.md",
+   "status": "modified",
+   "sha256": "83163e4f9a41a1ef257837b1a77ecf5259905f8a1b5a6944f75251edc65909c7"
+  },
+  {
+   "path": "crates/lex-cli/Cargo.toml",
+   "status": "modified",
+   "sha256": "6a409f210ff46484a65f42c9fbe04fe3e62953fcabc145932ead045326c7c691"
+  },
+  {
+   "path": "crates/lex-cli/src/bundle.rs",
+   "status": "modified",
+   "sha256": "33c79bfbf8ecf1bc05d40a49616ba031d72e458f0049dccb06733935056a8578"
+  },
+  {
+   "path": "crates/lex-cli/src/main.rs",
+   "status": "modified",
+   "sha256": "4a853cd234da0ac286ad1560bc707ba4934b671a9555d6e04863973a2e4a4823"
+  },
+  {
+   "path": "crates/lex-cli/src/public_release.rs",
+   "status": "new",
+   "sha256": "791b90e625c0a4f54ff1a5ccf12086726c7847cc24b507fc6196fcfac7edf3af"
+  },
+  {
+   "path": "docs/four-instrument-reader-baseline-comparison-2026-10-22.json",
+   "status": "new",
+   "sha256": "16a43f9f108aceeec12c29636df42e35e0618842592cb6cc98b5886790436c44"
+  },
+  {
+   "path": "docs/four-instrument-reader-implementation-receipt-2026-10-22.md",
+   "status": "new",
+   "sha256": "6e62a481e52dfd57ef29df511bd1b1a07b07459383283a4511cf008bee9b4439"
+  },
+  {
+   "path": "docs/plans/four-instrument-reader-design-release.md",
+   "status": "new",
+   "sha256": "4f41456d1a9538e50a8c9295d924da4dca0827ee378f8f9755b0930e25cb1a85"
+  },
+  {
+   "path": "docs/reader-publish-handoff-review-2026-10-22.md",
+   "status": "new",
+   "sha256": "dfa76bab93226553cd9933072ce97b9fc83524c1ded564ab1b8015cb929e7981"
+  },
+  {
+   "path": "reader/README.md",
+   "status": "new",
+   "sha256": "e6dbe83d81d81067d5b3503e3d1ec0ec8a7bc3b4fee32d834d023679c5edb78b"
+  },
+  {
+   "path": "reader/index.html",
+   "status": "new",
+   "sha256": "44c509a43cf594f19e11a1af4494e5126c8173d4530742f7e3f7646b77a5f895"
+  },
+  {
+   "path": "reader/lex-mex.svg",
+   "status": "new",
+   "sha256": "ba8be0de5a75cf9773f4ea25ac3665773e1ba74a4b4d22185c11ff7b0aaaaf6c"
+  },
+  {
+   "path": "reader/package.mjs",
+   "status": "new",
+   "sha256": "629b35f1f77a3066f92496d397da6c600536aa511137a94d58002fc4c6d4435a"
+  },
+  {
+   "path": "reader/package.test.mjs",
+   "status": "new",
+   "sha256": "7a1fd24c91b66421c25bf4674082c7cfc10ffe62b20674ac7c432ea3760f0fc5"
+  },
+  {
+   "path": "reader/reader-core.mjs",
+   "status": "new",
+   "sha256": "6e6075e98fa24becf11ca355e03d5a44025439440ee6a433959b8733f3c12630"
+  },
+  {
+   "path": "reader/reader.css",
+   "status": "new",
+   "sha256": "1ecdefa5d03d8bcc527cbbef2d8b9cd207cedb52fa35dc202927322dbb642e36"
+  },
+  {
+   "path": "reader/reader.js",
+   "status": "new",
+   "sha256": "3ce97880a1166ad02548d37967d972d6f6a625a06fdd36d1a43857f08822a6aa"
+  },
+  {
+   "path": "reader/reader.test.mjs",
+   "status": "new",
+   "sha256": "58a2f26a7b6470154457dd9ae317b27864d22d5ee03150c965a8c828298feef4"
+  },
+  {
+   "path": "reader/serve.mjs",
+   "status": "new",
+   "sha256": "75fd7b945a0dd194581f9f4d2e8519d3f03a9c12e7d14aa2a2fddd83125979d6"
+  },
+  {
+   "path": "reader/stage.mjs",
+   "status": "new",
+   "sha256": "5f2d69af83018616e7a95a8f4aa508ec769b0a629492bd9901ec5e768cfde093"
+  },
+  {
+   "path": "reader/stage.test.mjs",
+   "status": "new",
+   "sha256": "b8f61f28d5e5c4733ee2ff613b608283de51e398b469f03cf4581421feab5a16"
+  },
+  {
+   "path": "schemas/public-instrument-v1.schema.json",
+   "status": "new",
+   "sha256": "aee6c797d72608b98660e9007962ee980bd6fcadde9bf7f1ed3bf50c7db24a31"
+  },
+  {
+   "path": "schemas/public-release-v1.schema.json",
+   "status": "new",
+   "sha256": "c1c4e24f3d9afcfb2105e1ea16fa82f42a59073b0ae0000e3eed2e0c22a6b43e"
+  }
+ ],
+ "changed_files_note": "excludes this evidence file itself; generated as the final write",
+ "consultations": [
+  {
+   "when": "after M1, before M2",
+   "result": "confirmed retained-release disposition and content-visibility architecture; added reproduction, transfer manifest, comparison artifact"
+  },
+  {
+   "when": "before completion",
+   "result": "found PDF reload on passive scroll, checks not on shipped bytes, mislabelled 1440 screenshot, missing allowlist evidence, continuity gaps; all fixed"
+  },
+  {
+   "when": "after Stop-hook objection",
+   "result": "found backup command inside host public/ tree would be published; moved outside served tree"
+  },
+  {
+   "when": "final sign-off",
+   "result": "signed off; required receipt wording to match the consultation table and the backup path to leave the Git tree"
+  }
+ ]
+}

@@ -1,0 +1,1003 @@
+{
+ "schema": "four-instrument-reader-r5-evidence-v1",
+ "superseded_builds": "r5-* through r9-* intermediate builds and the first r10 batch on harness 643d628c",
+ "date": "2026-10-22",
+ "worktree": "/Users/jr/Dev/lex-mex-reader-four",
+ "branch": "feat/four-instrument-reader-design",
+ "base_head": "d87db82c082f3f0041070e52eb1636b1e46f98cf",
+ "plan": {
+  "received_from_codex_sha256": "f0b27d845696f8103990dc878b02a8db90529d190c378f04ae4f442bd7706c38",
+  "after_r5_checkpoint_sha256": "ae78f0a79cce2ebbd2d67386cb6ae18afb8472c6caa4bc78bac69568d0717e02"
+ },
+ "review_inputs": {
+  "docs/four-instrument-reader-r0-r4-codex-review-2026-10-22.md": "8bfae890cbdbc11c64cfb2e0906ebe50b040384284591c4d7d351484d99cf9a0",
+  "docs/four-instrument-reader-r0-r4-codex-review-2026-10-22-evidence.json": "2c232e6f945f6af468b0f3cd37ae5d4fc51b923c1c78b17cd10c584d1a1868b0"
+ },
+ "executor": "Claude Opus 5.5 (plan names Sonnet; routing deviation recorded)",
+ "diagnosis": {
+  "trace_file": ".work/evidence/r5/trace-fallback-r4.json",
+  "package": ".work/r4-fallback-a",
+  "viewport": "390x844",
+  "target": "LIC Artículo 193",
+  "runs": [
+   {
+    "mode": "normal",
+    "rep": 0,
+    "ok": false,
+    "final": {
+     "label": "Artículo 192",
+     "truth": "Artículo 192",
+     "off": 38,
+     "fonts": "loaded"
+    }
+   },
+   {
+    "mode": "normal",
+    "rep": 1,
+    "ok": false,
+    "final": {
+     "label": "Artículo 192",
+     "truth": "Artículo 192",
+     "off": 38,
+     "fonts": "loaded"
+    }
+   },
+   {
+    "mode": "normal",
+    "rep": 2,
+    "ok": false,
+    "final": {
+     "label": "Artículo 191",
+     "truth": "Artículo 191",
+     "off": 2587,
+     "fonts": "loaded"
+    }
+   },
+   {
+    "mode": "fonts-blocked",
+    "rep": 0,
+    "ok": false,
+    "final": {
+     "label": "Artículo 191",
+     "truth": "Artículo 191",
+     "off": 2527,
+     "fonts": "loaded"
+    }
+   },
+   {
+    "mode": "fonts-blocked",
+    "rep": 1,
+    "ok": true,
+    "final": {
+     "label": "Artículo 193",
+     "truth": "Artículo 193",
+     "off": 8,
+     "fonts": "loaded"
+    }
+   },
+   {
+    "mode": "fonts-blocked",
+    "rep": 2,
+    "ok": true,
+    "final": {
+     "label": "Artículo 193",
+     "truth": "Artículo 193",
+     "off": 8,
+     "fonts": "loaded"
+    }
+   },
+   {
+    "mode": "fonts-delay-1500",
+    "rep": 0,
+    "ok": false,
+    "final": {
+     "label": "Artículo 192",
+     "truth": "Artículo 192",
+     "off": 38,
+     "fonts": "loaded"
+    }
+   },
+   {
+    "mode": "fonts-delay-1500",
+    "rep": 1,
+    "ok": false,
+    "final": {
+     "label": "Artículo 192",
+     "truth": "Artículo 192",
+     "off": 38,
+     "fonts": "loaded"
+    }
+   },
+   {
+    "mode": "fonts-delay-1500",
+    "rep": 2,
+    "ok": false,
+    "final": {
+     "label": "Artículo 191",
+     "truth": "Artículo 191",
+     "off": 2587,
+     "fonts": "loaded"
+    }
+   },
+   {
+    "mode": "fonts-delay-4000",
+    "rep": 0,
+    "ok": true,
+    "final": {
+     "label": "Artículo 193",
+     "truth": "Artículo 193",
+     "off": 8,
+     "fonts": "loading"
+    }
+   },
+   {
+    "mode": "fonts-delay-4000",
+    "rep": 1,
+    "ok": true,
+    "final": {
+     "label": "Artículo 193",
+     "truth": "Artículo 193",
+     "off": 8,
+     "fonts": "loading"
+    }
+   },
+   {
+    "mode": "fonts-delay-4000",
+    "rep": 2,
+    "ok": true,
+    "final": {
+     "label": "Artículo 193",
+     "truth": "Artículo 193",
+     "off": 8,
+     "fonts": "loading"
+    }
+   }
+  ],
+  "mechanism": "At narrow width, estimated heights of unrendered articles are far off, so after the jump the target oscillated by about ±2,500px as neighbours rendered; the bounded settle (6 × ~60ms) could end misaligned, or a later web-font swap moved an aligned target by 30px; the R1 trailing pass then truthfully selected the article at the line (191/192). Fonts are one cause, not the only one (fonts blocked still failed 1/3)."
+ },
+ "repair": {
+  "reader/reader.js": "2ab4d37360a233e63c833f163b9bf8c2256cb4ece82e412b61591830a954a57d",
+  "summary": "An explicit navigation holds its target at the reading line until reader intent or the next explicit navigation. While held: browser scroll anchoring is off on the column; a ResizeObserver on #flow, #active-bar and #load-status, font loadingdone and each settle end realign synchronously against the reachable position (drift); intent is only the column leaving the position this code last set (bottom-edge clamp excepted), checked on scroll, before every realign and settle retry; passive tracking does not reassign the selection. Bounds: 40 chains + 400 immediate corrections (reset when aligned); after a spent budget one more chain per 700ms quiet spell, at most 30 per hold; exhaustion is marked (reader:hold-exhausted, reader:hold-recovery-exhausted) and never ends the hold. Volver realigns a held target; a stale fill only realigns the target still held. There is no release timer: the hold has no time limit."
+ },
+ "superseded_first_r10_batch": {
+  "harness_sha256": "643d628cdd5d7b644db72d76179631dd07a8496ef3085bb9ddaa40edfe7478c8",
+  "dir": ".work/evidence/r5/superseded-harness-643d628c/",
+  "preferred": "run1 55/1 (storm exhaustedMarks 0, target aligned), run2 56/0, no-anchoring 55/1 (same)",
+  "fallback": "53/0+3 N/A twice",
+  "legacy_staged": "71/0",
+  "mutation_difference": "no-load-status-observe was killed (storm) on the 300-step harness and survives on the 800-step harness"
+ },
+ "harness": {
+  "path": "reader/browser-check.mjs",
+  "sha256": "c647db43fd96024ca24b931f6b1e9e4c9cf2aca154e71356ef3819106fcfe79c",
+  "new_scenarios": [
+   "16 requested-target stability matrix: LIC 193 at 390px fonts normal/1500ms/blocked ×3 and 10000ms ×1; 1440px all four modes",
+   "17 wheel during a held target is preserved",
+   "18 legacy release on staged directory with both releases (--legacy-release)",
+   "19 unattributed scrollBy ends the hold",
+   "20 trusted Copiar enlace click keeps the target",
+   "21 index choice at 390px via trusted clicks, one push, back restores",
+   "22 real PageDown (normal and smooth) is intent and is kept",
+   "23 2px touch tap keeps the target; Volver on a linked target returns to it",
+   "24 resize drag keeps the target",
+   "25 first-provision entry and instrument switch settle at 1440 and 390 with 0 idle scrollTo calls",
+   "26 800-step paced resize storm exhausts the budget, then the target realigns in a quiet spell with 0 idle scrollTo calls",
+   "final: no page errors; every opened page settles its explicit target"
+  ],
+  "storm_lengthened": "300→800 steps after the first r10 batch (harness 643d628c) failed the storm on 2 of 3 preferred runs with exhaustedMarks 0 and the target aligned; standalone timing put exhaustion at 5.3–6.2s of a 6.7s storm; superseded results kept in .work/evidence/r5/superseded-harness-643d628c/",
+  "comparison_on_final_harness": {
+   "r10-fallback-a": {
+    "passed": 53,
+    "failed": 0,
+    "not_applicable": [
+     "deep link lic Artículo 112 Quintus: provision not in this release",
+     "deep link lic Artículo 112 Sextus: provision not in this release",
+     "deep link lic Artículo 112 Séptimus: provision not in this release"
+    ],
+    "failed_scenarios": [],
+    "scroll_anchoring": true,
+    "lic_load_timings_ms": [
+     {
+      "wall_ms": 110,
+      "reader:first-chunk": 39,
+      "reader:flow-complete": 107
+     },
+     {
+      "wall_ms": 126,
+      "reader:first-chunk": 30,
+      "reader:flow-complete": 99
+     },
+     {
+      "wall_ms": 121,
+      "reader:first-chunk": 27,
+      "reader:flow-complete": 97
+     }
+    ]
+   },
+   "r8-fallback-a": {
+    "passed": 52,
+    "failed": 1,
+    "not_applicable": [
+     "deep link lic Artículo 112 Quintus: provision not in this release",
+     "deep link lic Artículo 112 Sextus: provision not in this release",
+     "deep link lic Artículo 112 Séptimus: provision not in this release"
+    ],
+    "failed_scenarios": [
+     "long resize storm: budget bounded, target realigned after quiet"
+    ],
+    "scroll_anchoring": true,
+    "lic_load_timings_ms": [
+     {
+      "wall_ms": 128,
+      "reader:first-chunk": 39,
+      "reader:flow-complete": 110
+     },
+     {
+      "wall_ms": 124,
+      "reader:first-chunk": 29,
+      "reader:flow-complete": 96
+     },
+     {
+      "wall_ms": 121,
+      "reader:first-chunk": 27,
+      "reader:flow-complete": 98
+     }
+    ]
+   },
+   "r4-fallback-a": {
+    "passed": 28,
+    "failed": 25,
+    "not_applicable": [
+     "deep link lic Artículo 112 Quintus: provision not in this release",
+     "deep link lic Artículo 112 Sextus: provision not in this release",
+     "deep link lic Artículo 112 Séptimus: provision not in this release"
+    ],
+    "failed_scenarios": [
+     "requested target stable lic Artículo 193 390px fonts=normal #1",
+     "requested target stable lic Artículo 193 390px fonts=normal #2",
+     "requested target stable lic Artículo 193 390px fonts=normal #3",
+     "requested target stable lic Artículo 193 390px fonts=1500 #1",
+     "requested target stable lic Artículo 193 390px fonts=1500 #2",
+     "requested target stable lic Artículo 193 390px fonts=1500 #3",
+     "requested target stable lic Artículo 193 390px fonts=blocked #1",
+     "requested target stable lic Artículo 193 390px fonts=blocked #2",
+     "requested target stable lic Artículo 193 390px fonts=blocked #3",
+     "requested target stable lic Artículo 193 390px fonts=10000 #1",
+     "requested target stable lic Artículo 193 1440px fonts=normal #1",
+     "requested target stable lic Artículo 193 1440px fonts=1500 #1",
+     "requested target stable lic Artículo 193 1440px fonts=blocked #1",
+     "requested target stable lic Artículo 193 1440px fonts=10000 #1",
+     "unattributed scroll during a held target ends the hold",
+     "pressing Copiar enlace during a held target keeps the target",
+     "PageDown during a held target is intent and is kept",
+     "touch tap during a held target keeps the target",
+     "smooth-scrolling PageDown during a held target is intent and is kept",
+     "Volver after a reference opened during a held target returns to the target",
+     "long resize storm: budget bounded, target realigned after quiet",
+     "first-provision entry and instrument switch settle at 1440px",
+     "first-provision entry and instrument switch settle at 390px",
+     "index choice at 390px with late fonts holds, pushes once, back restores",
+     "every opened page settles its explicit target"
+    ],
+    "scroll_anchoring": true,
+    "lic_load_timings_ms": [
+     {
+      "wall_ms": 107,
+      "reader:first-chunk": 36,
+      "reader:flow-complete": 105
+     },
+     {
+      "wall_ms": 99,
+      "reader:first-chunk": 27,
+      "reader:flow-complete": 95
+     },
+     {
+      "wall_ms": 102,
+      "reader:first-chunk": 29,
+      "reader:flow-complete": 95
+     }
+    ]
+   }
+  },
+  "final": {
+   "preferred_run1": {
+    "passed": 56,
+    "failed": 0,
+    "not_applicable": [],
+    "failed_scenarios": [],
+    "scroll_anchoring": true,
+    "lic_load_timings_ms": [
+     {
+      "wall_ms": 134,
+      "reader:first-chunk": 39,
+      "reader:flow-complete": 110
+     },
+     {
+      "wall_ms": 124,
+      "reader:first-chunk": 30,
+      "reader:flow-complete": 99
+     },
+     {
+      "wall_ms": 122,
+      "reader:first-chunk": 29,
+      "reader:flow-complete": 99
+     }
+    ]
+   },
+   "preferred_run2": {
+    "passed": 56,
+    "failed": 0,
+    "not_applicable": [],
+    "failed_scenarios": [],
+    "scroll_anchoring": true,
+    "lic_load_timings_ms": [
+     {
+      "wall_ms": 133,
+      "reader:first-chunk": 40,
+      "reader:flow-complete": 108
+     },
+     {
+      "wall_ms": 122,
+      "reader:first-chunk": 29,
+      "reader:flow-complete": 97
+     },
+     {
+      "wall_ms": 122,
+      "reader:first-chunk": 29,
+      "reader:flow-complete": 99
+     }
+    ]
+   },
+   "fallback_run1": {
+    "passed": 53,
+    "failed": 0,
+    "not_applicable": [
+     "deep link lic Artículo 112 Quintus: provision not in this release",
+     "deep link lic Artículo 112 Sextus: provision not in this release",
+     "deep link lic Artículo 112 Séptimus: provision not in this release"
+    ],
+    "failed_scenarios": [],
+    "scroll_anchoring": true,
+    "lic_load_timings_ms": [
+     {
+      "wall_ms": 110,
+      "reader:first-chunk": 36,
+      "reader:flow-complete": 108
+     },
+     {
+      "wall_ms": 124,
+      "reader:first-chunk": 28,
+      "reader:flow-complete": 97
+     },
+     {
+      "wall_ms": 97,
+      "reader:first-chunk": 27,
+      "reader:flow-complete": 95
+     }
+    ]
+   },
+   "fallback_run2": {
+    "passed": 53,
+    "failed": 0,
+    "not_applicable": [
+     "deep link lic Artículo 112 Quintus: provision not in this release",
+     "deep link lic Artículo 112 Sextus: provision not in this release",
+     "deep link lic Artículo 112 Séptimus: provision not in this release"
+    ],
+    "failed_scenarios": [],
+    "scroll_anchoring": true,
+    "lic_load_timings_ms": [
+     {
+      "wall_ms": 143,
+      "reader:first-chunk": 37,
+      "reader:flow-complete": 118
+     },
+     {
+      "wall_ms": 133,
+      "reader:first-chunk": 31,
+      "reader:flow-complete": 109
+     },
+     {
+      "wall_ms": 129,
+      "reader:first-chunk": 30,
+      "reader:flow-complete": 105
+     }
+    ]
+   },
+   "legacy_staged": {
+    "passed": 71,
+    "failed": 0,
+    "not_applicable": [],
+    "failed_scenarios": [],
+    "scroll_anchoring": true,
+    "lic_load_timings_ms": [
+     {
+      "wall_ms": 133,
+      "reader:first-chunk": 38,
+      "reader:flow-complete": 111
+     },
+     {
+      "wall_ms": 124,
+      "reader:first-chunk": 29,
+      "reader:flow-complete": 101
+     },
+     {
+      "wall_ms": 123,
+      "reader:first-chunk": 27,
+      "reader:flow-complete": 96
+     }
+    ]
+   },
+   "preferred_no_scroll_anchoring": {
+    "passed": 56,
+    "failed": 0,
+    "not_applicable": [],
+    "failed_scenarios": [],
+    "scroll_anchoring": false,
+    "lic_load_timings_ms": [
+     {
+      "wall_ms": 130,
+      "reader:first-chunk": 36,
+      "reader:flow-complete": 104
+     },
+     {
+      "wall_ms": 102,
+      "reader:first-chunk": 29,
+      "reader:flow-complete": 98
+     },
+     {
+      "wall_ms": 122,
+      "reader:first-chunk": 28,
+      "reader:flow-complete": 97
+     }
+    ]
+   }
+  },
+  "legacy_stage_dir": ".work/r10-legacy-stage (baseline 407aa3dc staged, then preferred r10; contains releases 3c04 and 9626)"
+ },
+ "mutation_run": {
+  "no-lock-expiry-timer": {
+   "exit": 1,
+   "failed": [
+    "interrupted deep-link settle",
+    "wheel ending inside the navigation lock"
+   ]
+  },
+  "no-scroll-listener": {
+   "exit": 1,
+   "failed": [
+    "reading-line crossing without observer change (scrollTop)",
+    "reading-line crossing without observer change (wheel)",
+    "long article tail",
+    "PDF offer without auto-follow"
+   ]
+  },
+  "no-hold": {
+   "exit": 1,
+   "failed": [
+    "narrow 390px deep link",
+    "wheel ending inside the navigation lock",
+    "requested target stable lic Artículo 193 390px fonts=normal #1",
+    "requested target stable lic Artículo 193 390px fonts=normal #2",
+    "requested target stable lic Artículo 193 390px fonts=normal #3",
+    "requested target stable lic Artículo 193 390px fonts=1500 #1",
+    "requested target stable lic Artículo 193 390px fonts=1500 #2",
+    "requested target stable lic Artículo 193 390px fonts=1500 #3",
+    "requested target stable lic Artículo 193 390px fonts=blocked #1",
+    "requested target stable lic Artículo 193 390px fonts=blocked #2",
+    "requested target stable lic Artículo 193 390px fonts=blocked #3",
+    "requested target stable lic Artículo 193 390px fonts=10000 #1",
+    "requested target stable lic Artículo 193 1440px fonts=normal #1",
+    "requested target stable lic Artículo 193 1440px fonts=1500 #1",
+    "requested target stable lic Artículo 193 1440px fonts=blocked #1",
+    "requested target stable lic Artículo 193 1440px fonts=10000 #1",
+    "unattributed scroll during a held target ends the hold",
+    "pressing Copiar enlace during a held target keeps the target",
+    "PageDown during a held target is intent and is kept",
+    "touch tap during a held target keeps the target",
+    "smooth-scrolling PageDown during a held target is intent and is kept",
+    "Volver after a reference opened during a held target returns to the target",
+    "resize drag during a held target keeps it",
+    "long resize storm: budget bounded, target realigned after quiet",
+    "first-provision entry and instrument switch settle at 1440px",
+    "first-provision entry and instrument switch settle at 390px",
+    "index choice at 390px with late fonts holds, pushes once, back restores",
+    "every opened page settles its explicit target"
+   ]
+  },
+  "no-hold-suppression": {
+   "exit": 0,
+   "failed": []
+  },
+  "no-layout-observer": {
+   "exit": 1,
+   "failed": [
+    "deep link lritf Artículo 4",
+    "long resize storm: budget bounded, target realigned after quiet",
+    "every opened page settles its explicit target"
+   ]
+  },
+  "no-load-status-observe": {
+   "exit": 0,
+   "failed": []
+  },
+  "no-fonts-listener": {
+   "exit": 0,
+   "failed": []
+  },
+  "no-settle-keepheld": {
+   "exit": 0,
+   "failed": []
+  },
+  "no-movement-intent": {
+   "exit": 1,
+   "failed": [
+    "reading-line crossing without observer change (scrollTop)",
+    "reading-line crossing without observer change (wheel)",
+    "long article tail",
+    "interrupted deep-link settle",
+    "PDF offer without auto-follow",
+    "wheel ending inside the navigation lock",
+    "reader scroll during a held target is preserved",
+    "unattributed scroll during a held target ends the hold",
+    "PageDown during a held target is intent and is kept",
+    "smooth-scrolling PageDown during a held target is intent and is kept"
+   ]
+  },
+  "no-clamp-exception": {
+   "exit": 1,
+   "failed": [
+    "last provision deep link itf-dcg-2018 at 1440x3000",
+    "every opened page settles its explicit target"
+   ]
+  },
+  "keep-browser-anchoring-while-held": {
+   "exit": 1,
+   "failed": [
+    "deep link lic Artículo 193",
+    "deep link lic VIGESIMO",
+    "deep link lritf Artículo 4",
+    "narrow 390px deep link",
+    "last provision deep link ifpe-dcg-2021 at 1440x3000",
+    "last provision deep link itf-dcg-2018 at 1440x3000",
+    "last provision deep link lic at 1440x3000",
+    "last provision deep link lritf at 1440x3000",
+    "last provision deep link ifpe-dcg-2021 at 390x844",
+    "last provision deep link itf-dcg-2018 at 390x844",
+    "last provision deep link lic at 390x844",
+    "last provision deep link lritf at 390x844",
+    "requested target stable lic Artículo 193 390px fonts=normal #1",
+    "requested target stable lic Artículo 193 390px fonts=normal #2",
+    "requested target stable lic Artículo 193 390px fonts=normal #3",
+    "requested target stable lic Artículo 193 390px fonts=1500 #1",
+    "requested target stable lic Artículo 193 390px fonts=1500 #2",
+    "requested target stable lic Artículo 193 390px fonts=1500 #3",
+    "requested target stable lic Artículo 193 390px fonts=blocked #1",
+    "requested target stable lic Artículo 193 390px fonts=blocked #2",
+    "requested target stable lic Artículo 193 390px fonts=blocked #3",
+    "requested target stable lic Artículo 193 390px fonts=10000 #1",
+    "requested target stable lic Artículo 193 1440px fonts=normal #1",
+    "requested target stable lic Artículo 193 1440px fonts=1500 #1",
+    "requested target stable lic Artículo 193 1440px fonts=blocked #1",
+    "requested target stable lic Artículo 193 1440px fonts=10000 #1",
+    "pressing Copiar enlace during a held target keeps the target",
+    "touch tap during a held target keeps the target",
+    "Volver after a reference opened during a held target returns to the target",
+    "resize drag during a held target keeps it",
+    "long resize storm: budget bounded, target realigned after quiet",
+    "first-provision entry and instrument switch settle at 1440px",
+    "first-provision entry and instrument switch settle at 390px",
+    "index choice at 390px with late fonts holds, pushes once, back restores",
+    "every opened page settles its explicit target"
+   ]
+  },
+  "volver-restores-stale-position": {
+   "exit": 1,
+   "failed": [
+    "Volver after a reference opened during a held target returns to the target"
+   ]
+  },
+  "no-reachable-alignment": {
+   "exit": 1,
+   "failed": [
+    "first-provision entry and instrument switch settle at 1440px",
+    "first-provision entry and instrument switch settle at 390px"
+   ]
+  },
+  "no-immediate-nudge": {
+   "exit": 1,
+   "failed": [
+    "requested target stable lic Artículo 193 390px fonts=normal #1",
+    "requested target stable lic Artículo 193 390px fonts=normal #2",
+    "requested target stable lic Artículo 193 390px fonts=normal #3",
+    "requested target stable lic Artículo 193 390px fonts=1500 #1",
+    "requested target stable lic Artículo 193 390px fonts=1500 #2",
+    "requested target stable lic Artículo 193 390px fonts=1500 #3",
+    "requested target stable lic Artículo 193 390px fonts=blocked #1",
+    "requested target stable lic Artículo 193 390px fonts=blocked #2",
+    "requested target stable lic Artículo 193 390px fonts=blocked #3",
+    "requested target stable lic Artículo 193 390px fonts=10000 #1",
+    "requested target stable lic Artículo 193 1440px fonts=normal #1",
+    "requested target stable lic Artículo 193 1440px fonts=1500 #1",
+    "requested target stable lic Artículo 193 1440px fonts=blocked #1",
+    "requested target stable lic Artículo 193 1440px fonts=10000 #1",
+    "resize drag during a held target keeps it"
+   ]
+  },
+  "no-quiet-recovery": {
+   "exit": 1,
+   "failed": [
+    "long resize storm: budget bounded, target realigned after quiet"
+   ]
+  },
+  "no-fillall-target-guard": {
+   "exit": 0,
+   "failed": []
+  },
+  "no-reader-check-before-retry": {
+   "exit": 0,
+   "failed": []
+  }
+ },
+ "node_test_reader": {
+  "tests": 22,
+  "pass": 22,
+  "fail": 0
+ },
+ "native_inputs_unchanged_since_424_test_receipt": true,
+ "packages": {
+  "preferred": {
+   "dirs": [
+    ".work/r10-preferred-a",
+    ".work/r10-preferred-b"
+   ],
+   "identical": true,
+   "receipt": {
+    "schema_version": "reader-publication-v1",
+    "release_id": "9626bfe45c4ebc95b47351fd20c1de86f9b4f54856aee1de6d408e5d8389991f",
+    "corpus_commit": "85c41f3898d86737766564fa8d3fd8f6d4ae74a3",
+    "base_path": "/lex-mex/",
+    "manifest_sha256": "8fb340f2f249f40fc9474d7a035b0d06c3f6bc4b0cc975099f79c214a13b6713",
+    "publication_id": "fbcb4e98b64f5dd00c82a387ce04a35c93681f9d1b4d52ce1181ca55d22e7ea3",
+    "files": 1790
+   },
+   "publication_json_sha256": "07a70bdc73267c3acbf6750c31e5d03c90d3a29d02b749e31ee54ac6150f3a1f"
+  },
+  "fallback": {
+   "dirs": [
+    ".work/r10-fallback-a",
+    ".work/r10-fallback-b"
+   ],
+   "identical": true,
+   "receipt": {
+    "schema_version": "reader-publication-v1",
+    "release_id": "3c04016651e2fd4169632756e96ec19136136e1f42c4ed666070f23f20b30660",
+    "corpus_commit": "9e990e09995718a77865993b24c5f8c8e7167b42",
+    "base_path": "/lex-mex/",
+    "manifest_sha256": "c2b22653d7a0b68edc1f29d2b2554fc45eb4a595f5be91f0b96868f2128aedc7",
+    "publication_id": "4a3b2e2fa13871f7dbe0903e317b091cfc52091ad376c62f01f3b9b630dc742c",
+    "files": 1784
+   },
+   "publication_json_sha256": "75ae9ac3092d0fc813ef9f39f8bdeae84ce56f87e5a83421a0a5b00a5b841e9b"
+  },
+  "files_differing_from_r4_packages": [
+   "reader.js",
+   "publication.json"
+  ],
+  "superseded": {
+   "preferred": "f5a1937a…",
+   "fallback": "709b09c4…"
+  }
+ },
+ "package_verification": {
+  "preferred": {
+   "receipt_vs_disk": {
+    "listed": 1791,
+    "on_disk": 1791,
+    "extra_on_disk": [],
+    "missing": []
+   },
+   "forbidden_paths": [],
+   "denylist_hits": [],
+   "pdfs": {
+    "count": 32,
+    "name_hash_mismatch": 0,
+    "referenced_by_provisions": 32,
+    "all_referenced_present": true
+   },
+   "routes": {
+    "checked": 6
+   },
+   "provision_files": {
+    "checked": 1740,
+    "missing": 0
+   },
+   "mime": {
+    "reader.js": "text/javascript; charset=utf-8",
+    "reader-core.mjs": "text/javascript; charset=utf-8",
+    "reader.css": "text/css; charset=utf-8",
+    "llms.txt": "text/plain; charset=utf-8",
+    "latest.json": "application/json; charset=utf-8"
+   },
+   "bad_route_404": 404
+  },
+  "fallback": {
+   "receipt_vs_disk": {
+    "listed": 1785,
+    "on_disk": 1785,
+    "extra_on_disk": [],
+    "missing": []
+   },
+   "forbidden_paths": [],
+   "denylist_hits": [],
+   "pdfs": {
+    "count": 32,
+    "name_hash_mismatch": 0,
+    "referenced_by_provisions": 32,
+    "all_referenced_present": true
+   },
+   "routes": {
+    "checked": 6
+   },
+   "provision_files": {
+    "checked": 1734,
+    "missing": 0
+   },
+   "mime": {
+    "reader.js": "text/javascript; charset=utf-8",
+    "reader-core.mjs": "text/javascript; charset=utf-8",
+    "reader.css": "text/css; charset=utf-8",
+    "llms.txt": "text/plain; charset=utf-8",
+    "latest.json": "application/json; charset=utf-8"
+   },
+   "bad_route_404": 404
+  }
+ },
+ "fail_closed": {
+  "tampered-reader-js": {
+   "refused": true,
+   "error": "Publication file mismatch: reader.js",
+   "destination_written": false
+  },
+  "tampered-lic-provision": {
+   "refused": true,
+   "error": "Publication file mismatch: releases/9626bfe45c4ebc95b47351fd20c1de86f9b4f54856aee1de6d408e5d8389991f/mx/lic/provision-00d27e53b10cb36f1bb43fc96bf09e24dc3eee13dd5e2df283b73928e824ff86.md",
+   "destination_written": false
+  },
+  "agent-route-resealed": {
+   "refused": true,
+   "error": "Non-public path: agents/bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb/catalog-1.html",
+   "destination_written": false
+  },
+  "private-review-file-resealed": {
+   "refused": true,
+   "error": "Non-public path: releases/9626bfe45c4ebc95b47351fd20c1de86f9b4f54856aee1de6d408e5d8389991f/review-queue.json",
+   "destination_written": false
+  },
+  "invalid-release-id": {
+   "refused": true,
+   "error": "Identificador de publicación inválido",
+   "destination_written": false
+  },
+  "receipt-digest-mismatch": {
+   "refused": true,
+   "error": "Publication receipt digest mismatch.",
+   "destination_written": false
+  }
+ },
+ "rehearsal": [
+  "--- pre-state: deployed publication",
+  "stage[baseline-unmodified-ui] exit=0",
+  "Verified Lex-Mex 3c04016651e2 (1784 artifacts).",
+  "verify[rollback_deployed] exit=0",
+  "--- preferred 870",
+  "stage[r10-preferred-a] exit=0",
+  "Verified Lex-Mex 9626bfe45c4e (1790 artifacts).",
+  "verify[preferred_870] exit=0",
+  "  verify with OLD pin must fail:",
+  "Error: Staged Lex-Mex publication differs from the reviewed release pin.",
+  "verify[rollback_deployed] exit=1",
+  "--- rollback A (stage deployed back)",
+  "stage[baseline-unmodified-ui] exit=0",
+  "Verified Lex-Mex 3c04016651e2 (1784 artifacts).",
+  "verify[rollback_deployed] exit=0",
+  "  diff vs pre (A):",
+  "1783",
+  "1783 releases/9626bfe45c4ebc95b47351fd20c1de86f9b4f54856aee1de6d408e5d8389991f",
+  "  lines removed vs pre (A): 0",
+  "--- rollback B (exact directory restore from backup)",
+  "Verified Lex-Mex 3c04016651e2 (1784 artifacts).",
+  "verify[restored] exit=0",
+  "exact restore: identical to pre-state (diff -r)",
+  "exact restore tree hash list equal (A)",
+  "--- fallback 867 then stage rollback",
+  "stage[r10-fallback-a] exit=0",
+  "Verified Lex-Mex 3c04016651e2 (1784 artifacts).",
+  "verify[fallback_867] exit=0",
+  "stage[baseline-unmodified-ui] exit=0",
+  "Verified Lex-Mex 3c04016651e2 (1784 artifacts).",
+  "verify[rollback_deployed] exit=0",
+  "fallback stage-rollback: identical to pre-state"
+ ],
+ "pin": {
+  "host_pin_path": "/Users/jr/Documents/4ll4/Webpage/LEG4L_L4BS/lex-mex-release.json",
+  "current": {
+   "schema_version": "reader-publication-v1",
+   "release_id": "3c04016651e2fd4169632756e96ec19136136e1f42c4ed666070f23f20b30660",
+   "publication_id": "407aa3dc658a274ac712e9494045a4c97724e5df0686de4e0513bf1af039470f",
+   "corpus_commit": "9e990e09995718a77865993b24c5f8c8e7167b42",
+   "manifest_sha256": "c2b22653d7a0b68edc1f29d2b2554fc45eb4a595f5be91f0b96868f2128aedc7"
+  },
+  "options": {
+   "preferred_870": {
+    "package": ".work/r10-preferred-a",
+    "pin": {
+     "schema_version": "reader-publication-v1",
+     "release_id": "9626bfe45c4ebc95b47351fd20c1de86f9b4f54856aee1de6d408e5d8389991f",
+     "publication_id": "fbcb4e98b64f5dd00c82a387ce04a35c93681f9d1b4d52ce1181ca55d22e7ea3",
+     "corpus_commit": "85c41f3898d86737766564fa8d3fd8f6d4ae74a3",
+     "manifest_sha256": "8fb340f2f249f40fc9474d7a035b0d06c3f6bc4b0cc975099f79c214a13b6713"
+    },
+    "delta": {
+     "release_id": {
+      "from": "3c04016651e2fd4169632756e96ec19136136e1f42c4ed666070f23f20b30660",
+      "to": "9626bfe45c4ebc95b47351fd20c1de86f9b4f54856aee1de6d408e5d8389991f"
+     },
+     "publication_id": {
+      "from": "407aa3dc658a274ac712e9494045a4c97724e5df0686de4e0513bf1af039470f",
+      "to": "fbcb4e98b64f5dd00c82a387ce04a35c93681f9d1b4d52ce1181ca55d22e7ea3"
+     },
+     "corpus_commit": {
+      "from": "9e990e09995718a77865993b24c5f8c8e7167b42",
+      "to": "85c41f3898d86737766564fa8d3fd8f6d4ae74a3"
+     },
+     "manifest_sha256": {
+      "from": "c2b22653d7a0b68edc1f29d2b2554fc45eb4a595f5be91f0b96868f2128aedc7",
+      "to": "8fb340f2f249f40fc9474d7a035b0d06c3f6bc4b0cc975099f79c214a13b6713"
+     }
+    },
+    "unchanged": [
+     "schema_version"
+    ],
+    "files": 1790
+   },
+   "fallback_867": {
+    "package": ".work/r10-fallback-a",
+    "pin": {
+     "schema_version": "reader-publication-v1",
+     "release_id": "3c04016651e2fd4169632756e96ec19136136e1f42c4ed666070f23f20b30660",
+     "publication_id": "4a3b2e2fa13871f7dbe0903e317b091cfc52091ad376c62f01f3b9b630dc742c",
+     "corpus_commit": "9e990e09995718a77865993b24c5f8c8e7167b42",
+     "manifest_sha256": "c2b22653d7a0b68edc1f29d2b2554fc45eb4a595f5be91f0b96868f2128aedc7"
+    },
+    "delta": {
+     "publication_id": {
+      "from": "407aa3dc658a274ac712e9494045a4c97724e5df0686de4e0513bf1af039470f",
+      "to": "4a3b2e2fa13871f7dbe0903e317b091cfc52091ad376c62f01f3b9b630dc742c"
+     }
+    },
+    "unchanged": [
+     "schema_version",
+     "release_id",
+     "corpus_commit",
+     "manifest_sha256"
+    ],
+    "files": 1784
+   },
+   "rollback_deployed": {
+    "package": ".work/baseline-unmodified-ui",
+    "pin": {
+     "schema_version": "reader-publication-v1",
+     "release_id": "3c04016651e2fd4169632756e96ec19136136e1f42c4ed666070f23f20b30660",
+     "publication_id": "407aa3dc658a274ac712e9494045a4c97724e5df0686de4e0513bf1af039470f",
+     "corpus_commit": "9e990e09995718a77865993b24c5f8c8e7167b42",
+     "manifest_sha256": "c2b22653d7a0b68edc1f29d2b2554fc45eb4a595f5be91f0b96868f2128aedc7"
+    },
+    "delta": {},
+    "unchanged": [
+     "schema_version",
+     "release_id",
+     "publication_id",
+     "corpus_commit",
+     "manifest_sha256"
+    ],
+    "files": 1784
+   }
+  }
+ },
+ "review_rounds": [
+  {
+   "round": "R5",
+   "packet": ".work/evidence/r5-review-packet.md",
+   "packet_sha256": "0ff3b9837498dc308dd28a8bbf3a9939f1d8ea02cb7dec9febd2194dec84024b",
+   "reviewer": "fresh bounded Claude Opus verifier (same model family; not independent of Claude)",
+   "verdict": "partial"
+  },
+  {
+   "round": "R6",
+   "packet": ".work/evidence/r6-review-packet.md",
+   "packet_sha256": "bd86f19e3e4fe32aec82d18433ed38e4e0eeb893258471e3c4d20ee7bcbeb105",
+   "reviewer": "fresh bounded Claude Opus verifier (same model family; not independent of Claude)",
+   "verdict": "partial"
+  },
+  {
+   "round": "R7",
+   "packet": ".work/evidence/r7-review-packet.md",
+   "packet_sha256": "834c2baaa99f7e14a985a8af28b42ca51d00eb6616c295ae9639549c9f2fc078",
+   "reviewer": "fresh bounded Claude Opus verifier (same model family; not independent of Claude)",
+   "verdict": "not ready"
+  },
+  {
+   "round": "R8",
+   "packet": ".work/evidence/r8-review-packet.md",
+   "packet_sha256": "305fe6827346b9b5fafc99cf545a601c1f30e8a96042d51d9e6ab7c6e96e9845",
+   "reviewer": "fresh bounded Claude Opus verifier (same model family; not independent of Claude)",
+   "verdict": "partial"
+  },
+  {
+   "round": "R9",
+   "packet": ".work/evidence/r9-review-packet.md",
+   "packet_sha256": "5a9e761b49bdbb41b8f764d350b1ce07ffd928fa9a764a9929dc585714e5f8ed",
+   "reviewer": "fresh bounded Claude Opus verifier (same model family; not independent of Claude)",
+   "verdict": "partial (no code blocker)"
+  },
+  {
+   "round": "R10",
+   "packet": ".work/evidence/r10-review-packet.md",
+   "packet_sha256": "068c12d2218cabd4247e2e4cafb7cb1ebb39da5a23ed51f71fa830919c1773d3",
+   "reviewer": "fresh bounded Claude Opus verifier (same model family; not independent of Claude)",
+   "verdict": "code ready; scenario 26 partly proven (exhaustion timing not asserted; 30-recovery cap untested; open choice to end hold at cap); requested mutation rerun on final harness"
+  }
+ ],
+ "final_bytes_reviewed_by": "none yet; Codex is the next independent reviewer",
+ "changed_files": [
+  {
+   "path": "docs/four-instrument-reader-continuation-receipt-2026-10-22.md",
+   "status": "M",
+   "sha256": "0fb7681983296fe6c1264d9b2157534a1bcec82ba2e3f4b11ac8ff32a98bf6a2"
+  },
+  {
+   "path": "docs/plans/four-instrument-reader-design-release.md",
+   "status": "M",
+   "sha256": "ae78f0a79cce2ebbd2d67386cb6ae18afb8472c6caa4bc78bac69568d0717e02"
+  },
+  {
+   "path": "reader/browser-check.mjs",
+   "status": "M",
+   "sha256": "c647db43fd96024ca24b931f6b1e9e4c9cf2aca154e71356ef3819106fcfe79c"
+  },
+  {
+   "path": "reader/reader.js",
+   "status": "M",
+   "sha256": "2ab4d37360a233e63c833f163b9bf8c2256cb4ece82e412b61591830a954a57d"
+  },
+  {
+   "path": "docs/four-instrument-reader-r0-r4-codex-review-2026-10-22-evidence.json",
+   "status": "??",
+   "sha256": "2c232e6f945f6af468b0f3cd37ae5d4fc51b923c1c78b17cd10c584d1a1868b0"
+  },
+  {
+   "path": "docs/four-instrument-reader-r0-r4-codex-review-2026-10-22.md",
+   "status": "??",
+   "sha256": "8bfae890cbdbc11c64cfb2e0906ebe50b040384284591c4d7d351484d99cf9a0"
+  },
+  {
+   "path": "docs/four-instrument-reader-r5-receipt-2026-10-22.md",
+   "status": "??",
+   "sha256": "57d70ac38a118c450deb70d7e9f5ef977452e3cdcbb1bfef14bb9e1156a3517e"
+  }
+ ],
+ "screenshots_dir": ".work/evidence/screenshots-r10",
+ "screenshots": [
+  "r10-fallback-a-desktop-1440-lic-108-bis.png",
+  "r10-fallback-a-desktop-1440-lic-112-quintus.png",
+  "r10-fallback-a-desktop-1440-lic-122-crossed-reading-line.png",
+  "r10-fallback-a-mobile-390-lic-193.png",
+  "r10-fallback-a-narrow-900-ifpe.png",
+  "r10-preferred-a-desktop-1440-lic-108-bis.png",
+  "r10-preferred-a-desktop-1440-lic-112-quintus.png",
+  "r10-preferred-a-desktop-1440-lic-122-crossed-reading-line.png",
+  "r10-preferred-a-mobile-390-lic-193.png",
+  "r10-preferred-a-narrow-900-ifpe.png"
+ ]
+}

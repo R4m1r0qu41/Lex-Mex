@@ -1,0 +1,251 @@
+{
+  "source_sha256": "98225a423eaa3dc47c9ec4ddb49ef8b188ed7f8e7e9ef17323a1c33e47e4284d",
+  "extracted_text_sha256": "6ec122ec76d92e48e959d56937117da5c216ae06f420ef74e307cf0db5fe98b5",
+  "old_public_file_sha256": "f21c70d7dc34244ccb723dff3fb31a13bcdcf4eaffab1de552a6107475e9483e",
+  "new_public_file_sha256": "ca06f9f25838ace9e83c38a60fb0cb415eaf4effca0eeaeda5b3a4935259e0a6",
+  "old_count": 508,
+  "new_count": 511,
+  "added_ids": [
+    "urn:lex-mx:federal:statute:lic:article:112-quintus",
+    "urn:lex-mx:federal:statute:lic:article:112-septimus",
+    "urn:lex-mx:federal:statute:lic:article:112-sextus"
+  ],
+  "removed_ids": [],
+  "changed_rows": [
+    {
+      "id": "urn:lex-mx:federal:statute:lic:article:103",
+      "class": "paragraph_break_normalisation",
+      "old_sha256": "f9ca91d5bd43c0fd8e8ee5f85d3804fb7050faa1f6ff974d89d838cfab3e1f3c",
+      "new_sha256": "2d726f75535e6edc11774e79ea3091aa3da36603e04ba5c79c88485c2b0c4bfa",
+      "whitespace_only": true
+    },
+    {
+      "id": "urn:lex-mx:federal:statute:lic:article:106",
+      "class": "paragraph_break_normalisation",
+      "old_sha256": "17cfea58ca31a8bb1b829de1a900bf077b00ea54acf533c8e7f03eaf5b06d29c",
+      "new_sha256": "5eb514a08096cf645028ff3343b3c94dbd1260029a5526c850c7a1356e084d45",
+      "whitespace_only": true
+    },
+    {
+      "id": "urn:lex-mx:federal:statute:lic:article:107-bis",
+      "class": "paragraph_break_normalisation",
+      "old_sha256": "d515af844dad09867a0da4ef7db079ba073bb0f991ebb6c80294d603deb2302c",
+      "new_sha256": "2a7664c6712e2016f851e3904a4a01f43225cb67ec34b64eb427a8160af61a42",
+      "whitespace_only": true
+    },
+    {
+      "id": "urn:lex-mx:federal:statute:lic:article:108-bis",
+      "class": "truncated_editorial_note_restored_and_break_normalised",
+      "old_sha256": "c0218e37f7f7d0caa7e5a69545cd0ed85557a4c935c2ad1a6ac7573cfbdf06c9",
+      "new_sha256": "eaeee3615afb4054a98c2dd6194c6ede06ae65067b2bded8b2567e3cf532174d",
+      "restored": "Artículo Décimo Primero del citado Decreto.",
+      "matches_old_plus_exact_source_tail": true,
+      "restored_in_source": true
+    },
+    {
+      "id": "urn:lex-mx:federal:statute:lic:article:108-bis-1",
+      "class": "paragraph_break_normalisation",
+      "old_sha256": "f07cfbc1284cf5d0172fbbfadc77b1eb68e2582e5888cddfa8fc276f89f82314",
+      "new_sha256": "037692bab54624074113e2f7f9626a5f2ebd6ecccf7bd72156b1ac299205df31",
+      "whitespace_only": true
+    },
+    {
+      "id": "urn:lex-mx:federal:statute:lic:article:109-bis-8",
+      "class": "leaked_heading_removed",
+      "old_sha256": "f7861559769fb856379ed8c650d6d29753ce32308a79cb6e752916660b81f0b5",
+      "new_sha256": "c129f9daa55f50d89d837a0507413870d19024fbdab8a56d5e07c223f6964f92",
+      "removed": "Capítulo II Bis De los programas de autocorrección Capítulo adicionado DOF 10-01-2014",
+      "removed_found_in_retained_source": true
+    },
+    {
+      "id": "urn:lex-mx:federal:statute:lic:article:110-bis-1",
+      "class": "leaked_heading_removed",
+      "old_sha256": "f465b8a942ea90a9496a4b2fbd27a9507c5df75c0d4f7cf48155bdaaa34c70e5",
+      "new_sha256": "7b4dd3b4af09b38d122e224fe4340b3a1940570a6a130bcf9a103f7252ab2195",
+      "removed": "Capítulo III De las Notificaciones Capítulo adicionado DOF 06-02-2008",
+      "removed_found_in_retained_source": true
+    },
+    {
+      "id": "urn:lex-mx:federal:statute:lic:article:110-bis-14",
+      "class": "leaked_heading_removed",
+      "old_sha256": "01ce9c461e02b24395511d9be3ce7e9873c796c7da6313415af4312776b69f74",
+      "new_sha256": "a0f0037bf5f50d7492da6fea4407f3fb17e7066a821157010858ef24039f41ca",
+      "removed": "Capítulo IV De los Delitos Capítulo reubicado DOF 06-02-2008 (se recorre, antes Capítulo III)",
+      "removed_found_in_retained_source": true
+    },
+    {
+      "id": "urn:lex-mx:federal:statute:lic:article:110-bis-2",
+      "class": "paragraph_break_normalisation",
+      "old_sha256": "f7e9ad243500f9a3da0457cfa8eaee822b381b853a3f708f8bb882b11af71149",
+      "new_sha256": "5c0b35da76f452eb9a36b6a6150d6f0a08bb7a6c77229916d70851aaa4d54fe7",
+      "whitespace_only": true
+    },
+    {
+      "id": "urn:lex-mx:federal:statute:lic:article:112",
+      "class": "paragraph_break_normalisation",
+      "old_sha256": "718b86ed34720e5e5ac17948a73491cd9e1200f013bf8b2f3b435ec98f22f918",
+      "new_sha256": "19ae379b24c7ce6ed7bbd914c036742c9889595a5ec00d3a60824b58f3d6cb03",
+      "whitespace_only": true
+    },
+    {
+      "id": "urn:lex-mx:federal:statute:lic:article:112-quater",
+      "class": "split_into_112_quintus_sextus_septimus",
+      "old_sha256": "10c1634f398e459f8d72ba9f9d0808f5078211a4a36a90a868ee2dd43fda7329",
+      "new_sha256": "207f1615dffd8561fbb7bd8d7d80215e4801f11557d558ce7e9f2cf6cfa3e598",
+      "old_starts_with_new": true,
+      "split_bodies_already_present": {
+        "112-quintus": true,
+        "112-sextus": true,
+        "112-septimus": true
+      }
+    },
+    {
+      "id": "urn:lex-mx:federal:statute:lic:article:115",
+      "class": "paragraph_break_normalisation",
+      "old_sha256": "82c5a3f51d16cdd68b71640407d2f4038d564ff731c2990abfd2556d68d0b3ef",
+      "new_sha256": "da92d6f78447c60fb2a07c1fceaa8daae088d6049b14da30c5197e4ad33e1af6",
+      "whitespace_only": true
+    },
+    {
+      "id": "urn:lex-mx:federal:statute:lic:article:150",
+      "class": "leaked_heading_removed",
+      "old_sha256": "2ee2aca07dfa1cb48e0738a944bbb83f2afd43bdabcbf6b02afa4c2c1cca1e59",
+      "new_sha256": "31367c5fb396a9ce5518e0fcd0d41259303bf7ed4f29d5fd2e9a789f7f6395ab",
+      "removed": "Apartado B Del Saneamiento Financiero de las Instituciones de Banca Múltiple Mediante Apoyos Apartado adicionado DOF 10-01-2014",
+      "removed_found_in_retained_source": true
+    },
+    {
+      "id": "urn:lex-mx:federal:statute:lic:article:155",
+      "class": "leaked_heading_removed",
+      "old_sha256": "967d9413bd23cb5bc8beecc701545ccd98be55dbeeaad46f97620c24000f4211",
+      "new_sha256": "ae3636f8a53ed98f8ad0279d6456efd0d8257a01fc414057cb0087eaa2b889e4",
+      "removed": "Apartado C Del Saneamiento Financiero de las Instituciones de Banca Múltiple Mediante Créditos Apartado adicionado DOF 10-01-2014",
+      "removed_found_in_retained_source": true
+    },
+    {
+      "id": "urn:lex-mx:federal:statute:lic:article:220",
+      "class": "leaked_heading_removed",
+      "old_sha256": "2c58ab601be79dd57917af475d7a2f04d7ddfbc2a6b6611b11efdb4dc59eafb5",
+      "new_sha256": "7a6bac5faaecf57a36778c48c5d86f999de3b376c5606d87518d13db8d780e8f",
+      "removed": "Apartado B De la Disolución y Liquidación Convencional de las Instituciones de Banca Múltiple Apartado adicionado DOF 10-01-2014",
+      "removed_found_in_retained_source": true
+    },
+    {
+      "id": "urn:lex-mx:federal:statute:lic:article:224",
+      "class": "leaked_heading_removed",
+      "old_sha256": "fd1419715dfa1de08899794d3a165757351e6bcc4f44f187449d210d3c91ae9b",
+      "new_sha256": "55506b318fff139c334f47394364e4095b396ec5302c28e2352ad1d53a2b7608",
+      "removed": "Apartado C De la Liquidación Judicial de las Instituciones de Banca Múltiple Apartado adicionado DOF 10-01-2014",
+      "removed_found_in_retained_source": true
+    },
+    {
+      "id": "urn:lex-mx:federal:statute:lic:article:261",
+      "class": "paragraph_break_normalisation",
+      "old_sha256": "64daf5a7cc8b496574d91a19713be7ad11051eb7d122e5d10b9e141bcaab8161",
+      "new_sha256": "9021f962a1aad2aae285e1861df9d84fce4954adbd8ec7e61e17c005037d95b9",
+      "whitespace_only": true
+    },
+    {
+      "id": "urn:lex-mx:federal:statute:lic:article:42",
+      "class": "paragraph_break_normalisation",
+      "old_sha256": "f177ef7d7c676b87ddc0e12c42bfb37184be44c90893426c68d41d7e7408a2a4",
+      "new_sha256": "89389df90393a87b7d187704c466a9962dd53138e036e58dc64caa8d9f7ea93d",
+      "whitespace_only": true
+    },
+    {
+      "id": "urn:lex-mx:federal:statute:lic:article:45-i",
+      "class": "paragraph_break_normalisation",
+      "old_sha256": "a45a5e01c36c66bdc27dd29c5ce7e0fb40daca88e0e24b9b9af480caf536f7a7",
+      "new_sha256": "fe5fc370bcf30e0cf4af8996538400938f2fc305f7127320aff053cfd19c121a",
+      "whitespace_only": true
+    },
+    {
+      "id": "urn:lex-mx:federal:statute:lic:article:45-k",
+      "class": "paragraph_break_normalisation",
+      "old_sha256": "b3a33af03785bec61fc59f2a191b37750c173669bc99a1d569468bdd9e369f35",
+      "new_sha256": "8a4b4ae419b5c35d449159b1be3b7c22518e7c0cd5cdbc63533d3d98e3c8d10a",
+      "whitespace_only": true
+    },
+    {
+      "id": "urn:lex-mx:federal:statute:lic:article:45-n",
+      "class": "leaked_heading_removed",
+      "old_sha256": "cc4b149cb63fa94d84bb74fd33b0491aab300ff6535032d4d9d8c845799b9f74",
+      "new_sha256": "67572dc0a4451975e8fe9a8531249535cdf41a33c8ae95717b12f243010993e5",
+      "removed": "Capítulo IV De las instituciones de banca múltiple que tengan vínculos de negocio o patrimoniales con personas morales que realicen actividades empresariales Capítulo adicionado DOF 01-02-2008",
+      "removed_found_in_retained_source": true
+    },
+    {
+      "id": "urn:lex-mx:federal:statute:lic:article:62",
+      "class": "paragraph_break_normalisation",
+      "old_sha256": "0d69e3449c82eec5998fa09036c392dabeb450b44aae56fd2fcebe7eb5c5e89b",
+      "new_sha256": "a409d2abc8a6bca4e5646253371ebc9f9d04581617a7055ff600600c11508231",
+      "whitespace_only": true
+    },
+    {
+      "id": "urn:lex-mx:federal:statute:lic:article:66",
+      "class": "paragraph_break_normalisation",
+      "old_sha256": "2bbcc4deea5fb44927b34623180165faf8f702bdce2672c6425bb606718d9057",
+      "new_sha256": "f40e41e0363589d0590b4b3754597f2a84bac41e364d99fdebfe2aa876787287",
+      "whitespace_only": true
+    },
+    {
+      "id": "urn:lex-mx:federal:statute:lic:article:73",
+      "class": "paragraph_break_normalisation",
+      "old_sha256": "dd52c01204d4dcf8b26417fc67feacbd15b146339a56e2d4324e08a043f0cccc",
+      "new_sha256": "9a1f55dc1dce33748eda3c8c0b4a7e872d776da490b8193ed1a69a3c2eb072de",
+      "whitespace_only": true
+    },
+    {
+      "id": "urn:lex-mx:federal:statute:lic:article:75",
+      "class": "paragraph_break_normalisation",
+      "old_sha256": "5514df53008194671d2bafa8ae1f1dcbdbd597058449e4399c04309ef2739e5b",
+      "new_sha256": "e1b5f01ff12cc8252e853194d5c1a15cf7d85123f2054a52e47f7ebe81934842",
+      "whitespace_only": true
+    },
+    {
+      "id": "urn:lex-mx:federal:statute:lic:transitory:vigesimo",
+      "class": "signature_block_removed_from_transitory",
+      "old_sha256": "1f25f3e70e1aaf2aed934d3da35b031ff7584c784f8c2b37fd60194bf7e6c261",
+      "new_sha256": "38adf6fa1e39afd5499182dbe5c5588227af313fbaa9f48ed58bdf09f2f166de",
+      "removed": "México, D.F., 14 de julio de 1990.- Dip. Humberto Roque Villanueva, Presidente.- Sen. Enrique Burgos García, Presidente.- Dip. Hilda Anderson Nevárez de Rojas, Secretario.- Sen. José Joaquín González Castro, Secretario.- Rúbricas.\"\n\nEn cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto, en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los dieciséis días del mes de julio de mil novecientos noventa.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, Fernando Gutiérrez Barrios.- Rúbrica.",
+      "removed_found_in_source": true
+    }
+  ],
+  "class_counts": {
+    "paragraph_break_normalisation": 15,
+    "truncated_editorial_note_restored_and_break_normalised": 1,
+    "leaked_heading_removed": 8,
+    "split_into_112_quintus_sextus_septimus": 1,
+    "signature_block_removed_from_transitory": 1
+  },
+  "heading_context_changes": {
+    "provisions": 248,
+    "chapter": 124,
+    "apartado": 124
+  },
+  "shared_source_temporal_review_changes": [],
+  "new_article_states": [
+    {
+      "id": "urn:lex-mx:federal:statute:lic:article:112-quintus",
+      "temporal_status": "effective",
+      "review_status": "machine_accepted",
+      "effective_from": null
+    },
+    {
+      "id": "urn:lex-mx:federal:statute:lic:article:112-septimus",
+      "temporal_status": "effective",
+      "review_status": "machine_accepted",
+      "effective_from": null
+    },
+    {
+      "id": "urn:lex-mx:federal:statute:lic:article:112-sextus",
+      "temporal_status": "effective",
+      "review_status": "machine_accepted",
+      "effective_from": null
+    }
+  ],
+  "current_canonical_id_text_parity": true,
+  "accepted_db_id_text_parity": true,
+  "db_lic_count": 511,
+  "db_release_id": "afdc5acf0b5017d73cd7b8e0b8f8fc5962914b56de26467e42b0c77fd2ef1974"
+}

@@ -59,6 +59,9 @@ secrets, transcripts, hidden reasoning, or mutable copies of external state.
   — Behavior-preserving four-crate parser split; Sonnet 5.5 execution, Opus 5.5
   advice, exact replay/provenance/DB gates and subsequent Codex audit. Planning only.
 
+- [`docs/plans/four-instrument-reader-design-release.md`](docs/plans/four-instrument-reader-design-release.md)
+  — Implement approved Reader Revision 02 for four instruments; R0–R4 continuation done (active tracking repaired, source-verified 870-provision candidate, full pin delta); awaiting Codex re-review and operator publication decision.
+
 - [`docs/plans/scjn-invalidity-registry-integration.md`](docs/plans/scjn-invalidity-registry-integration.md)
   — Deferred SCJN registry extraction, separate search and reviewed provision links;
   evidence-only in the current database build.
@@ -87,6 +90,17 @@ secrets, transcripts, hidden reasoning, or mutable copies of external state.
   Codex review remain; the SQLite database is decided but not built.
 - [`docs/plans/nested-public-reader.md`](docs/plans/nested-public-reader.md)
   — Publish discoverable text and a source-backed nested reader with shared MCP access.
+
+- [`docs/plans/reader-usability-and-medium-identity.md`](docs/plans/reader-usability-and-medium-identity.md)
+  — Medium identity and reader usability delivered; producer matches accepted
+  version23 and preserves the main-site square-monogram favicon.
+
+- [`docs/plans/reader-logo-exploration.md`](docs/plans/reader-logo-exploration.md)
+  — Lowercase Medium selected and installed; alternate logo references preserved.
+
+- [`docs/plans/reader-brand-alignment.md`](docs/plans/reader-brand-alignment.md)
+  — Align reader code, editable Figma components/screens and the generated UI
+  publication with LEG4L L4BS brand pages 00–05.
 
 - [`docs/plans/maximasa-legal-integration.md`](docs/plans/maximasa-legal-integration.md)
   — Use the selected federal corpus in Maximasa's compliance module, close

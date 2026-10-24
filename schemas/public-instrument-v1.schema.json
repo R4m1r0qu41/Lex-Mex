@@ -1,0 +1,451 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Allowlisted public instrument v1",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "slug",
+    "id",
+    "official_title",
+    "short_name",
+    "publication_date",
+    "latest_reform_date",
+    "source",
+    "provisions",
+    "references",
+    "temporal_effects_included"
+  ],
+  "properties": {
+    "schema_version": {
+      "const": "public-instrument-v1"
+    },
+    "slug": {
+      "type": "string"
+    },
+    "id": {
+      "type": "string"
+    },
+    "official_title": {
+      "type": "string"
+    },
+    "short_name": {
+      "type": "string"
+    },
+    "publication_date": {
+      "type": "string"
+    },
+    "latest_reform_date": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "source": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "source_sha256",
+        "extracted_text_sha256",
+        "publisher",
+        "official_url",
+        "retrieved_at",
+        "parser_version",
+        "schema_version",
+        "pdf_path",
+        "pdf_verified",
+        "last_successful_upstream_check"
+      ],
+      "properties": {
+        "source_sha256": {
+          "type": "string"
+        },
+        "publisher": {
+          "type": "string"
+        },
+        "official_url": {
+          "type": "string"
+        },
+        "retrieved_at": {
+          "type": "string"
+        },
+        "parser_version": {
+          "type": "string"
+        },
+        "schema_version": {
+          "type": "string"
+        },
+        "extracted_text_sha256": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "pdf_path": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "pdf_verified": {
+          "type": "boolean"
+        },
+        "last_successful_upstream_check": {
+          "type": "null"
+        }
+      }
+    },
+    "provisions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "id",
+          "label",
+          "number",
+          "provision_type",
+          "heading_context",
+          "text",
+          "text_sha256",
+          "publication_date",
+          "effective_from",
+          "effective_to",
+          "temporal_status",
+          "temporal_basis",
+          "review_status",
+          "repeals",
+          "commencement_condition",
+          "markdown_path",
+          "text_path",
+          "pdf_page",
+          "source"
+        ],
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "label": {
+            "type": "string"
+          },
+          "number": {
+            "type": "string"
+          },
+          "provision_type": {
+            "enum": [
+              "article",
+              "transitory",
+              "annex"
+            ]
+          },
+          "heading_context": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "title",
+              "chapter"
+            ],
+            "properties": {
+              "libro": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "title": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "chapter": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "section": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "apartado": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              }
+            }
+          },
+          "text": {
+            "type": "string"
+          },
+          "text_sha256": {
+            "type": "string"
+          },
+          "publication_date": {
+            "type": "string"
+          },
+          "effective_from": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "effective_to": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "temporal_status": {
+            "enum": [
+              "unknown",
+              "published_not_effective",
+              "effective",
+              "future_effective",
+              "partially_effective",
+              "conditionally_effective",
+              "repealed",
+              "partially_repealed",
+              "conditional_pending",
+              "repealed_with_survival",
+              "superseded",
+              "temporarily_applicable",
+              "pending_consolidation"
+            ]
+          },
+          "temporal_basis": {
+            "enum": [
+              null,
+              "source_text",
+              "express_cross_reference",
+              "express_definition",
+              "deterministic_rule",
+              "llm_inference",
+              "lawyer_verified"
+            ]
+          },
+          "review_status": {
+            "enum": [
+              "not_analyzed",
+              "machine_accepted",
+              "review_required",
+              "lawyer_verified"
+            ]
+          },
+          "repeals": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "scope",
+                "ordinals",
+                "cause",
+                "renumbering"
+              ],
+              "properties": {
+                "scope": {
+                  "enum": [
+                    "paragraph",
+                    "fraction",
+                    "inciso",
+                    "other"
+                  ]
+                },
+                "ordinals": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "cause": {
+                  "enum": [
+                    "legislative",
+                    "judicial"
+                  ]
+                },
+                "dof_date": {
+                  "type": "string"
+                },
+                "renumbering": {
+                  "type": "boolean"
+                }
+              }
+            }
+          },
+          "commencement_condition": {
+            "anyOf": [
+              {
+                "type": "null"
+              },
+              {
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                  "source_provision_id",
+                  "condition_text",
+                  "authority",
+                  "condition_status",
+                  "met_on"
+                ],
+                "properties": {
+                  "source_provision_id": {
+                    "type": "string"
+                  },
+                  "condition_text": {
+                    "type": "string"
+                  },
+                  "authority": {
+                    "type": [
+                      "string",
+                      "null"
+                    ]
+                  },
+                  "condition_status": {
+                    "enum": [
+                      "unverified",
+                      "met",
+                      "unmet"
+                    ]
+                  },
+                  "met_on": {
+                    "type": [
+                      "string",
+                      "null"
+                    ]
+                  }
+                }
+              }
+            ]
+          },
+          "markdown_path": {
+            "type": "string"
+          },
+          "text_path": {
+            "type": "string"
+          },
+          "pdf_page": {
+            "type": "null"
+          },
+          "source": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "source_sha256",
+              "extracted_text_sha256",
+              "publisher",
+              "official_url",
+              "retrieved_at",
+              "parser_version",
+              "schema_version",
+              "pdf_path",
+              "pdf_verified",
+              "last_successful_upstream_check"
+            ],
+            "properties": {
+              "source_sha256": {
+                "type": "string"
+              },
+              "publisher": {
+                "type": "string"
+              },
+              "official_url": {
+                "type": "string"
+              },
+              "retrieved_at": {
+                "type": "string"
+              },
+              "parser_version": {
+                "type": "string"
+              },
+              "schema_version": {
+                "type": "string"
+              },
+              "extracted_text_sha256": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "pdf_path": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "pdf_verified": {
+                "type": "boolean"
+              },
+              "last_successful_upstream_check": {
+                "type": "null"
+              }
+            }
+          }
+        }
+      }
+    },
+    "references": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "id",
+          "source_provision_id",
+          "source_span",
+          "start_char",
+          "end_char",
+          "target_instrument_id",
+          "target_provision_id",
+          "resolution_status",
+          "reference_form",
+          "basis",
+          "target_published"
+        ],
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "source_provision_id": {
+            "type": "string"
+          },
+          "source_span": {
+            "type": "string"
+          },
+          "start_char": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "end_char": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "target_instrument_id": {
+            "type": "string"
+          },
+          "target_provision_id": {
+            "type": "string"
+          },
+          "resolution_status": {
+            "type": "string"
+          },
+          "reference_form": {
+            "type": "string"
+          },
+          "basis": {
+            "type": "string"
+          },
+          "target_published": {
+            "type": "boolean"
+          }
+        }
+      }
+    },
+    "temporal_effects_included": {
+      "const": false
+    }
+  }
+}

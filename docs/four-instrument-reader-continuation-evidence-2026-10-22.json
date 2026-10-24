@@ -1,0 +1,1588 @@
+{
+ "schema": "four-instrument-reader-continuation-evidence-v1",
+ "date": "2026-10-22",
+ "worktree": "/Users/jr/Dev/lex-mex-reader-four",
+ "branch": "feat/four-instrument-reader-design",
+ "base_commit": "85c41f3898d86737766564fa8d3fd8f6d4ae74a3",
+ "plan": {
+  "path": "docs/plans/four-instrument-reader-design-release.md",
+  "sha256_received_from_codex": "14ffd7f6e9de821ac2e434c992c8bcef8ba604732d03bf710e9307da72be974a",
+  "sha256_after_checkpoint": "3c93fd22b3ae49e645e522ae66baec6f3e35b60c4021402a9faefe020df5946e",
+  "main_workspace_copy_unchanged_at": "14ffd7f6e9de821ac2e434c992c8bcef8ba604732d03bf710e9307da72be974a"
+ },
+ "review_tiers": {
+  "executor": "Claude Opus 5.5 (session model). The handoff assigned execution to Sonnet 5.5; this run was executed by Opus 5.5 — routing deviation recorded, not hidden.",
+  "advisor": "Opus advisor consulted once before R1 (reads this transcript; not independent)",
+  "fresh_review": "separate Opus verifier agent with a bounded file packet (.work/evidence/r4-review-packet.md); not a Codex review",
+  "codex": "not yet; requested via provider handoff"
+ },
+ "review_inputs": {
+  "docs/db-reader-lic-consolidated-review-2026-10-22.md": "d2fd89ada2aeb9558a12711c024e75cddf7fb403477970ba4651b660cb822546",
+  "docs/four-instrument-reader-codex-review-2026-10-22.md": "962235ce002634235f6ed087d376a32acc978c75b84ca31581c7672de8b39542",
+  "docs/four-instrument-reader-codex-review-2026-10-22-evidence.json": "b1aac23504d58bf2a127d9815ebd0b07123887c70349a212fdfadfec83e67594",
+  "docs/lic-publication-source-audit-2026-10-22-evidence.json": "01d10668b50d17e2bb409c48dc443487e93aa91b77cfd6d8d1a524e70ca067dc"
+ },
+ "r0": {
+  "native_inputs_identical_to_424_test_receipt": true,
+  "native_input_sha256": {
+   "crates/lex-cli/src/bundle.rs": "33c79bfbf8ecf1bc05d40a49616ba031d72e458f0049dccb06733935056a8578",
+   "crates/lex-cli/src/db.rs": "b6a606ad92c29ceed0fef1334c75ca3c0bd2179ef72ac34f49329ba6ae2e8f32",
+   "crates/lex-cli/src/main.rs": "4a853cd234da0ac286ad1560bc707ba4934b671a9555d6e04863973a2e4a4823",
+   "crates/lex-cli/src/public_release.rs": "791b90e625c0a4f54ff1a5ccf12086726c7847cc24b507fc6196fcfac7edf3af",
+   "crates/lex-cli/src/review_packets.rs": "6bda028c5ea312bfa99d678779230d74564e7e2a105fedcdb0c5159ed5878fa6",
+   "crates/lex-cli/src/standards.rs": "a5182342588727c1a5323488cbf4bf37103dd648a12a779dad82bc44a47f30e3",
+   "crates/lex-cli/Cargo.toml": "6a409f210ff46484a65f42c9fbe04fe3e62953fcabc145932ead045326c7c691",
+   "Cargo.lock": "14a9f6698abc77c29555e3b646aa0217026779e4a22c107407511c751c8e1d79",
+   "schemas/public-instrument-v1.schema.json": "aee6c797d72608b98660e9007962ee980bd6fcadde9bf7f1ed3bf50c7db24a31",
+   "schemas/public-release-v1.schema.json": "c1c4e24f3d9afcfb2105e1ea16fa82f42a59073b0ae0000e3eed2e0c22a6b43e"
+  },
+  "preferred_release_builder_sha256": "791b90e625c0a4f54ff1a5ccf12086726c7847cc24b507fc6196fcfac7edf3af",
+  "public_release_rs_sha256": "791b90e625c0a4f54ff1a5ccf12086726c7847cc24b507fc6196fcfac7edf3af",
+  "release_main_a_equals_b": true,
+  "canonical_input_hash_mismatches_vs_85c41f389": 0,
+  "manifest_file_mismatches": 0,
+  "lic_public_vs_canonical": {
+   "count": 511,
+   "id_set_equal": true,
+   "order_equal": true,
+   "text_mismatches": 0
+  },
+  "preserved_untouched": [
+   ".work/ship-a",
+   ".work/ship-b",
+   ".work/baseline-unmodified-ui",
+   ".work/release-main-a",
+   ".work/release-main-b"
+  ],
+  "ship_a_publication_json_sha256": "37483a025b001532f1f5d941eab1caeead1e4ee2b771fc7c2bbeb6dd04612cd1"
+ },
+ "r1": {
+  "defect_reproduced_on_old_shipped_bytes": {
+   "package": ".work/ship-a (publication 0b797aa6…)",
+   "result_first_harness": {
+    "passed": 11,
+    "failed": 5,
+    "not_applicable": [
+     "deep link lic Artículo 112 Quintus: provision not in this release",
+     "deep link lic Artículo 112 Sextus: provision not in this release",
+     "deep link lic Artículo 112 Séptimus: provision not in this release"
+    ],
+    "failed_scenarios": [
+     "reading-line crossing without observer change (scrollTop)",
+     "reading-line crossing without observer change (wheel)",
+     "long article tail",
+     "interrupted deep-link settle",
+     "PDF offer without auto-follow"
+    ],
+    "lic_load_timings_ms": [
+     {
+      "wall_ms": 148,
+      "reader:first-chunk": 49,
+      "reader:flow-complete": 122
+     },
+     {
+      "wall_ms": 123,
+      "reader:first-chunk": 30,
+      "reader:flow-complete": 104
+     },
+     {
+      "wall_ms": 99,
+      "reader:first-chunk": 29,
+      "reader:flow-complete": 97
+     }
+    ]
+   },
+   "result_final_harness": {
+    "passed": 18,
+    "failed": 7,
+    "not_applicable": [
+     "deep link lic Artículo 112 Quintus: provision not in this release",
+     "deep link lic Artículo 112 Sextus: provision not in this release",
+     "deep link lic Artículo 112 Séptimus: provision not in this release"
+    ],
+    "failed_scenarios": [
+     "reading-line crossing without observer change (scrollTop)",
+     "reading-line crossing without observer change (wheel)",
+     "long article tail",
+     "interrupted deep-link settle",
+     "PDF offer without auto-follow",
+     "wheel ending inside the navigation lock",
+     "last provision deep link lritf at 1440x3000"
+    ],
+    "lic_load_timings_ms": [
+     {
+      "wall_ms": 132,
+      "reader:first-chunk": 42,
+      "reader:flow-complete": 113
+     },
+     {
+      "wall_ms": 125,
+      "reader:first-chunk": 29,
+      "reader:flow-complete": 99
+     },
+     {
+      "wall_ms": 123,
+      "reader:first-chunk": 28,
+      "reader:flow-complete": 95
+     }
+    ]
+   },
+   "constant_membership_crossing": {
+    "pair": [
+     "Artículo 121",
+     "Artículo 122"
+    ],
+    "reading_line_px": 107,
+    "membership_constant": true,
+    "end": {
+     "truth": "Artículo 122",
+     "ui": "Artículo 121",
+     "mismatches": [
+      "label",
+      "index",
+      "title",
+      "url"
+     ]
+    },
+    "copy_exact_after_crossing": false,
+    "share_names_article_at_line": false
+   }
+  },
+  "repair": {
+   "reader/reader.js": "681ef5b3ebf2da2f449ad9e7d4f852d8b5bcf130feefe3caaa406b321f02fb9b",
+   "reader/reader-core.mjs": "04045dee1f84c82e5042543bbcaeef065d595b3cd5a0eb8bf696d640d4e1dac8",
+   "reader/reader.css": "e40c1e26004429fc8b1851a28fbcc3099d3934cc7cdc5c0733924cee71c38f1a",
+   "summary": "one requestAnimationFrame pass (schedule/track) fed by scroll, IntersectionObserver, resize, breakpoint change and chunk fill; binary search over article tops (activeIndex) instead of observer membership; trailing pass when the navigation lock expires, when settle ends and when loading ends; pending frame/timer cancelled on flow rebuild; passes skipped while settle/lock/loading suppression applies"
+  },
+  "harness": {
+   "path": "reader/browser-check.mjs",
+   "sha256": "4f7c22361255fb68a237c9627a4b24c91e7da3ece88ba65828da2b9cfe89de58",
+   "command": "node reader/browser-check.mjs --publication <package> --out <json>",
+   "final_preferred_run1": {
+    "passed": 28,
+    "failed": 0,
+    "not_applicable": [],
+    "failed_scenarios": [],
+    "lic_load_timings_ms": [
+     {
+      "wall_ms": 130,
+      "reader:first-chunk": 38,
+      "reader:flow-complete": 110
+     },
+     {
+      "wall_ms": 121,
+      "reader:first-chunk": 28,
+      "reader:flow-complete": 97
+     },
+     {
+      "wall_ms": 122,
+      "reader:first-chunk": 28,
+      "reader:flow-complete": 96
+     }
+    ]
+   },
+   "final_preferred_run2": {
+    "passed": 28,
+    "failed": 0,
+    "not_applicable": [],
+    "failed_scenarios": [],
+    "lic_load_timings_ms": [
+     {
+      "wall_ms": 135,
+      "reader:first-chunk": 38,
+      "reader:flow-complete": 109
+     },
+     {
+      "wall_ms": 97,
+      "reader:first-chunk": 27,
+      "reader:flow-complete": 95
+     },
+     {
+      "wall_ms": 119,
+      "reader:first-chunk": 28,
+      "reader:flow-complete": 94
+     }
+    ]
+   },
+   "final_fallback": {
+    "passed": 25,
+    "failed": 0,
+    "not_applicable": [
+     "deep link lic Artículo 112 Quintus: provision not in this release",
+     "deep link lic Artículo 112 Sextus: provision not in this release",
+     "deep link lic Artículo 112 Séptimus: provision not in this release"
+    ],
+    "failed_scenarios": [],
+    "lic_load_timings_ms": [
+     {
+      "wall_ms": 141,
+      "reader:first-chunk": 41,
+      "reader:flow-complete": 114
+     },
+     {
+      "wall_ms": 103,
+      "reader:first-chunk": 31,
+      "reader:flow-complete": 100
+     },
+     {
+      "wall_ms": 98,
+      "reader:first-chunk": 27,
+      "reader:flow-complete": 95
+     }
+    ]
+   },
+   "superseded_r3_build_on_r4_harness": {
+    "passed": 26,
+    "failed": 2,
+    "not_applicable": [],
+    "failed_scenarios": [
+     "last provision deep link lic at 1440x3000",
+     "last provision deep link lritf at 1440x3000"
+    ],
+    "lic_load_timings_ms": [
+     {
+      "wall_ms": 126,
+      "reader:first-chunk": 38,
+      "reader:flow-complete": 109
+     },
+     {
+      "wall_ms": 124,
+      "reader:first-chunk": 29,
+      "reader:flow-complete": 101
+     },
+     {
+      "wall_ms": 117,
+      "reader:first-chunk": 26,
+      "reader:flow-complete": 93
+     }
+    ]
+   },
+   "no_scroll_anchoring": {
+    "final_preferred": {
+     "passed": 26,
+     "failed": 2,
+     "not_applicable": [],
+     "failed_scenarios": [
+      "deep link lic Artículo 112 Quintus",
+      "deep link lritf Artículo 4"
+     ],
+     "lic_load_timings_ms": [
+      {
+       "wall_ms": 133,
+       "reader:first-chunk": 42,
+       "reader:flow-complete": 115
+      },
+      {
+       "wall_ms": 122,
+       "reader:first-chunk": 28,
+       "reader:flow-complete": 95
+      },
+      {
+       "wall_ms": 118,
+       "reader:first-chunk": 26,
+       "reader:flow-complete": 94
+      }
+     ]
+    },
+    "old_ship_a": {
+     "passed": 18,
+     "failed": 7,
+     "not_applicable": [
+      "deep link lic Artículo 112 Quintus: provision not in this release",
+      "deep link lic Artículo 112 Sextus: provision not in this release",
+      "deep link lic Artículo 112 Séptimus: provision not in this release"
+     ],
+     "failed_scenarios": [
+      "reading-line crossing without observer change (scrollTop)",
+      "reading-line crossing without observer change (wheel)",
+      "long article tail",
+      "deep link lritf Artículo 4",
+      "PDF offer without auto-follow",
+      "wheel ending inside the navigation lock",
+      "last provision deep link lritf at 1440x3000"
+     ],
+     "lic_load_timings_ms": [
+      {
+       "wall_ms": 137,
+       "reader:first-chunk": 42,
+       "reader:flow-complete": 110
+      },
+      {
+       "wall_ms": 129,
+       "reader:first-chunk": 30,
+       "reader:flow-complete": 106
+      },
+      {
+       "wall_ms": 124,
+       "reader:first-chunk": 30,
+       "reader:flow-complete": 100
+      }
+     ]
+    }
+   }
+  },
+  "mutation_run": {
+   "with_scroll_anchoring": {
+    "no-lock-expiry-timer": {
+     "exit": 1,
+     "failed": [
+      "interrupted deep-link settle",
+      "wheel ending inside the navigation lock"
+     ]
+    },
+    "no-resize-listener": {
+     "exit": 0,
+     "failed": []
+    },
+    "no-breakpoint-schedule": {
+     "exit": 0,
+     "failed": []
+    },
+    "no-settle-end-pass": {
+     "exit": 0,
+     "failed": []
+    },
+    "no-loading-end-pass": {
+     "exit": 0,
+     "failed": []
+    },
+    "no-chunk-pass": {
+     "exit": 0,
+     "failed": []
+    },
+    "no-scroll-listener": {
+     "exit": 1,
+     "failed": [
+      "reading-line crossing without observer change (scrollTop)",
+      "reading-line crossing without observer change (wheel)",
+      "long article tail",
+      "PDF offer without auto-follow"
+     ]
+    },
+    "no-observer-feed": {
+     "exit": 0,
+     "failed": []
+    }
+   },
+   "without_scroll_anchoring": {
+    "baseline-fixed": {
+     "exit": 1,
+     "failed": [
+      "deep link lritf Artículo 4"
+     ]
+    },
+    "no-resize-listener": {
+     "exit": 1,
+     "failed": [
+      "deep link lritf Artículo 4"
+     ]
+    },
+    "no-breakpoint-schedule": {
+     "exit": 1,
+     "failed": [
+      "deep link lic Artículo 112 Séptimus",
+      "deep link lritf Artículo 4"
+     ]
+    },
+    "no-settle-end-pass": {
+     "exit": 1,
+     "failed": [
+      "deep link lic Artículo 112 Séptimus"
+     ]
+    },
+    "no-loading-end-pass": {
+     "exit": 1,
+     "failed": [
+      "deep link lic Artículo 112 Séptimus"
+     ]
+    },
+    "no-chunk-pass": {
+     "exit": 0,
+     "failed": []
+    },
+    "no-observer-feed": {
+     "exit": 1,
+     "failed": [
+      "deep link lritf Artículo 4"
+     ]
+    },
+    "no-lock-expiry-timer": {
+     "exit": 1,
+     "failed": [
+      "wheel ending inside the navigation lock"
+     ]
+    },
+    "no-scroll-listener": {
+     "exit": 1,
+     "failed": [
+      "reading-line crossing without observer change (scrollTop)",
+      "reading-line crossing without observer change (wheel)",
+      "long article tail",
+      "deep link lic Artículo 112 Séptimus",
+      "deep link lritf Artículo 4",
+      "PDF offer without auto-follow"
+     ]
+    }
+   },
+   "interpretation": "scroll listener and lock-expiry timer are load-bearing; resize, breakpoint, settle-end, loading-end, chunk and observer hooks show no attributable failure and are kept as plan-required defense in depth, not claimed as tested"
+  },
+  "node_test_reader": {
+   "tests": 22,
+   "pass": 22,
+   "fail": 0
+  }
+ },
+ "r2": {
+  "retained_release": "3c04016651e2fd4169632756e96ec19136136e1f42c4ed666070f23f20b30660",
+  "retained_input": "/Users/jr/Dev/lex-mex-reader/.work/public-release-v2",
+  "preferred_release": "9626bfe45c4ebc95b47351fd20c1de86f9b4f54856aee1de6d408e5d8389991f",
+  "preferred_input": "/Users/jr/Dev/lex-mex-reader-four/.work/release-main-a",
+  "file_inventory": {
+   "retained": 1777,
+   "preferred": 1783,
+   "identical": 1662,
+   "changed": 115,
+   "added": 6,
+   "removed": 0
+  },
+  "changed_non_provision_files": [
+   "coverage.json",
+   "manifest.json",
+   "mx/ifpe-dcg-2021/instrument.json",
+   "mx/itf-dcg-2018/instrument.json",
+   "mx/lic/index.md",
+   "mx/lic/instrument.json"
+  ],
+  "added_non_provision_files": [],
+  "removed_non_provision_files": [],
+  "provision_files": {
+   "removed_txt_ids": 0,
+   "added_txt_ids": 3,
+   "removed_md_ids": 0,
+   "added_md_ids": 3,
+   "instruments_touched": [
+    "ifpe-dcg-2021",
+    "itf-dcg-2018",
+    "lic"
+   ]
+  },
+  "instruments": {
+   "ifpe-dcg-2021": {
+    "top_level_changed": {},
+    "provisions": {
+     "old": 71,
+     "new": 71,
+     "added": [],
+     "removed": []
+    },
+    "shared_field_changes": {},
+    "text_changed_ids": [],
+    "order_preserved_for_shared": true,
+    "references": {
+     "old": 113,
+     "new": 115,
+     "added": 2,
+     "removed": 0,
+     "changed_same_id": 1
+    },
+    "reference_validation": {
+     "span_mismatches": [],
+     "not_attached_to_a_published_provision": [
+      "urn:lex-mx:federal:regulation:ifpe-dcg-2021:reference:107-109:48:direct",
+      "urn:lex-mx:federal:regulation:ifpe-dcg-2021:reference:128-130:54:direct",
+      "urn:lex-mx:federal:regulation:ifpe-dcg-2021:reference:150-152:56:direct"
+     ],
+     "published_flag_inconsistent": [],
+     "status_counts": {
+      "resolved": 115
+     },
+     "linked_in_reader": 110,
+     "resolved_outside_selection_shown_unavailable": [
+      "urn:lex-mx:federal:regulation:ifpe-dcg-2021:annex:8:reference:2950-2952:89:direct",
+      "urn:lex-mx:federal:regulation:ifpe-dcg-2021:annex:8:reference:3946-3948:89:direct"
+     ]
+    }
+   },
+   "itf-dcg-2018": {
+    "top_level_changed": {},
+    "provisions": {
+     "old": 132,
+     "new": 132,
+     "added": [],
+     "removed": []
+    },
+    "shared_field_changes": {},
+    "text_changed_ids": [],
+    "order_preserved_for_shared": true,
+    "references": {
+     "old": 144,
+     "new": 149,
+     "added": 5,
+     "removed": 0,
+     "changed_same_id": 0
+    },
+    "reference_validation": {
+     "span_mismatches": [],
+     "not_attached_to_a_published_provision": [],
+     "published_flag_inconsistent": [],
+     "status_counts": {
+      "resolved": 149
+     },
+     "linked_in_reader": 144,
+     "resolved_outside_selection_shown_unavailable": [
+      "urn:lex-mx:federal:regulation:itf-dcg-2018:annex:4:reference:3703-3706:262:direct",
+      "urn:lex-mx:federal:regulation:itf-dcg-2018:annex:4:reference:16764-16767:262:direct",
+      "urn:lex-mx:federal:regulation:itf-dcg-2018:article:2:reference:12137-12143:36-bis:direct",
+      "urn:lex-mx:federal:regulation:itf-dcg-2018:article:5:reference:3332-3334:28:direct",
+      "urn:lex-mx:federal:regulation:itf-dcg-2018:article:95:reference:419-422:172:direct"
+     ]
+    }
+   },
+   "lic": {
+    "top_level_changed": {},
+    "provisions": {
+     "old": 508,
+     "new": 511,
+     "added": [
+      "urn:lex-mx:federal:statute:lic:article:112-quintus",
+      "urn:lex-mx:federal:statute:lic:article:112-septimus",
+      "urn:lex-mx:federal:statute:lic:article:112-sextus"
+     ],
+     "removed": []
+    },
+    "shared_field_changes": {
+     "heading_context": 248,
+     "text": 26,
+     "text_sha256": 26
+    },
+    "text_changed_ids": [
+     "urn:lex-mx:federal:statute:lic:article:103",
+     "urn:lex-mx:federal:statute:lic:article:106",
+     "urn:lex-mx:federal:statute:lic:article:107-bis",
+     "urn:lex-mx:federal:statute:lic:article:108-bis",
+     "urn:lex-mx:federal:statute:lic:article:108-bis-1",
+     "urn:lex-mx:federal:statute:lic:article:109-bis-8",
+     "urn:lex-mx:federal:statute:lic:article:110-bis-1",
+     "urn:lex-mx:federal:statute:lic:article:110-bis-14",
+     "urn:lex-mx:federal:statute:lic:article:110-bis-2",
+     "urn:lex-mx:federal:statute:lic:article:112",
+     "urn:lex-mx:federal:statute:lic:article:112-quater",
+     "urn:lex-mx:federal:statute:lic:article:115",
+     "urn:lex-mx:federal:statute:lic:article:150",
+     "urn:lex-mx:federal:statute:lic:article:155",
+     "urn:lex-mx:federal:statute:lic:article:220",
+     "urn:lex-mx:federal:statute:lic:article:224",
+     "urn:lex-mx:federal:statute:lic:article:261",
+     "urn:lex-mx:federal:statute:lic:article:42",
+     "urn:lex-mx:federal:statute:lic:article:45-i",
+     "urn:lex-mx:federal:statute:lic:article:45-k",
+     "urn:lex-mx:federal:statute:lic:article:45-n",
+     "urn:lex-mx:federal:statute:lic:article:62",
+     "urn:lex-mx:federal:statute:lic:article:66",
+     "urn:lex-mx:federal:statute:lic:article:73",
+     "urn:lex-mx:federal:statute:lic:article:75",
+     "urn:lex-mx:federal:statute:lic:transitory:vigesimo"
+    ],
+    "order_preserved_for_shared": true,
+    "references": {
+     "old": 1049,
+     "new": 1137,
+     "added": 129,
+     "removed": 41,
+     "changed_same_id": 0
+    },
+    "reference_validation": {
+     "span_mismatches": [],
+     "not_attached_to_a_published_provision": [],
+     "published_flag_inconsistent": [],
+     "status_counts": {
+      "resolved": 1135,
+      "historical_superseded_reference_outdated": 2
+     },
+     "linked_in_reader": 1051,
+     "resolved_outside_selection_shown_unavailable": [
+      "urn:lex-mx:federal:statute:lic:article:101:reference:1083-1086:177:direct",
+      "urn:lex-mx:federal:statute:lic:article:105:reference:633-636:123:direct",
+      "urn:lex-mx:federal:statute:lic:article:106:reference:5713-5716:391:direct",
+      "urn:lex-mx:federal:statute:lic:article:110-bis-2:reference:1778-1779:5:direct",
+      "urn:lex-mx:federal:statute:lic:article:115:reference:1560-1563:139:direct",
+      "urn:lex-mx:federal:statute:lic:article:115-bis:reference:394-397:139:direct",
+      "urn:lex-mx:federal:statute:lic:article:115-bis:reference:400-407:148-bis:direct",
+      "urn:lex-mx:federal:statute:lic:article:116-bis:reference:571-574:102:direct",
+      "urn:lex-mx:federal:statute:lic:article:123:reference:1379-1380:6:direct",
+      "urn:lex-mx:federal:statute:lic:article:125:reference:136-138:12:direct",
+      "urn:lex-mx:federal:statute:lic:article:144:reference:851-853:17:direct",
+      "urn:lex-mx:federal:statute:lic:article:146:reference:769-772:129:direct",
+      "urn:lex-mx:federal:statute:lic:article:148:reference:2370-2372:10:direct",
+      "urn:lex-mx:federal:statute:lic:article:148:reference:3316-3318:75:direct",
+      "urn:lex-mx:federal:statute:lic:article:16:reference:769-772:173:direct",
+      "urn:lex-mx:federal:statute:lic:article:175:reference:3202-3204:11:direct",
+      "urn:lex-mx:federal:statute:lic:article:18:reference:137-140:128:direct",
+      "urn:lex-mx:federal:statute:lic:article:18:reference:143-146:129:direct",
+      "urn:lex-mx:federal:statute:lic:article:180:reference:292-295:123:direct",
+      "urn:lex-mx:federal:statute:lic:article:180:reference:540-541:6:direct",
+      "urn:lex-mx:federal:statute:lic:article:180:reference:786-787:6:direct",
+      "urn:lex-mx:federal:statute:lic:article:180:reference:1339-1342:123:direct",
+      "urn:lex-mx:federal:statute:lic:article:186:reference:379-380:6:direct",
+      "urn:lex-mx:federal:statute:lic:article:187:reference:301-302:6:direct",
+      "urn:lex-mx:federal:statute:lic:article:187:reference:953-955:11:direct",
+      "urn:lex-mx:federal:statute:lic:article:187:reference:1264-1266:17:direct",
+      "urn:lex-mx:federal:statute:lic:article:188:reference:303-304:6:direct",
+      "urn:lex-mx:federal:statute:lic:article:189:reference:1115-1117:11:direct",
+      "urn:lex-mx:federal:statute:lic:article:189:reference:1619-1621:11:direct",
+      "urn:lex-mx:federal:statute:lic:article:191:reference:871-872:6:direct",
+      "urn:lex-mx:federal:statute:lic:article:191:reference:2115-2116:6:direct",
+      "urn:lex-mx:federal:statute:lic:article:197:reference:1238-1240:45:direct",
+      "urn:lex-mx:federal:statute:lic:article:198:reference:1112-1114:11:direct",
+      "urn:lex-mx:federal:statute:lic:article:198:reference:1956-1957:4:direct",
+      "urn:lex-mx:federal:statute:lic:article:198:reference:5512-5514:45:direct",
+      "urn:lex-mx:federal:statute:lic:article:199:reference:136-137:5:direct",
+      "urn:lex-mx:federal:statute:lic:article:203:reference:1120-1121:2:direct",
+      "urn:lex-mx:federal:statute:lic:article:213:reference:54-55:5:direct",
+      "urn:lex-mx:federal:statute:lic:article:216:reference:891-894:247:direct",
+      "urn:lex-mx:federal:statute:lic:article:232:reference:1811-1814:123:direct",
+      "urn:lex-mx:federal:statute:lic:article:241:reference:306-309:123:direct",
+      "urn:lex-mx:federal:statute:lic:article:241:reference:554-555:6:direct",
+      "urn:lex-mx:federal:statute:lic:article:241:reference:800-801:6:direct",
+      "urn:lex-mx:federal:statute:lic:article:241:reference:3304-3305:6:direct",
+      "urn:lex-mx:federal:statute:lic:article:242:reference:209-212:123:direct",
+      "urn:lex-mx:federal:statute:lic:article:250:reference:192-195:123:direct",
+      "urn:lex-mx:federal:statute:lic:article:27:reference:3389-3391:10:direct",
+      "urn:lex-mx:federal:statute:lic:article:27-bis-1:reference:1672-1674:20:direct",
+      "urn:lex-mx:federal:statute:lic:article:27-bis-1:reference:2238-2240:60:direct",
+      "urn:lex-mx:federal:statute:lic:article:27-bis-5:reference:900-903:233:direct",
+      "urn:lex-mx:federal:statute:lic:article:27-bis-6:reference:46-49:232:direct",
+      "urn:lex-mx:federal:statute:lic:article:29-bis-13:reference:1930-1932:63:direct",
+      "urn:lex-mx:federal:statute:lic:article:29-bis-6:reference:1693-1695:10:direct",
+      "urn:lex-mx:federal:statute:lic:article:29-bis-6:reference:2009-2011:45:direct",
+      "urn:lex-mx:federal:statute:lic:article:29-bis-6:reference:2014-2016:46:direct",
+      "urn:lex-mx:federal:statute:lic:article:29-bis-8:reference:792-794:76:direct",
+      "urn:lex-mx:federal:statute:lic:article:30:reference:1834-1836:30:direct",
+      "urn:lex-mx:federal:statute:lic:article:42:reference:3063-3065:31:direct",
+      "urn:lex-mx:federal:statute:lic:article:42:reference:4409-4411:37:direct",
+      "urn:lex-mx:federal:statute:lic:article:42:reference:7300-7303:123:direct",
+      "urn:lex-mx:federal:statute:lic:article:43-bis:reference:1366-1368:66:direct",
+      "urn:lex-mx:federal:statute:lic:article:44-bis-1:reference:243-245:37:direct",
+      "urn:lex-mx:federal:statute:lic:article:44-bis-1:reference:1117-1119:37:direct",
+      "urn:lex-mx:federal:statute:lic:article:45-p:reference:269-271:16:direct",
+      "urn:lex-mx:federal:statute:lic:article:45-p:reference:528-529:8:direct",
+      "urn:lex-mx:federal:statute:lic:article:46-bis-6:reference:2926-2928:15:direct",
+      "urn:lex-mx:federal:statute:lic:article:47:reference:566-568:37:direct",
+      "urn:lex-mx:federal:statute:lic:article:48-bis-1:reference:2991-2993:64:direct",
+      "urn:lex-mx:federal:statute:lic:article:48-bis-1:reference:2996-2998:65:direct",
+      "urn:lex-mx:federal:statute:lic:article:48-bis-1:reference:3307-3309:65:direct",
+      "urn:lex-mx:federal:statute:lic:article:48-bis-1:reference:3417-3419:66:direct",
+      "urn:lex-mx:federal:statute:lic:article:48-bis-1:reference:3422-3424:67:direct",
+      "urn:lex-mx:federal:statute:lic:article:66:reference:1203-1206:329:direct",
+      "urn:lex-mx:federal:statute:lic:article:66:reference:1547-1550:323:direct",
+      "urn:lex-mx:federal:statute:lic:article:67:reference:1817-1820:214:direct",
+      "urn:lex-mx:federal:statute:lic:article:84:reference:949-952:385:direct",
+      "urn:lex-mx:federal:statute:lic:article:85:reference:286-289:394:direct",
+      "urn:lex-mx:federal:statute:lic:article:85-bis:reference:149-152:395:direct",
+      "urn:lex-mx:federal:statute:lic:article:85-bis:reference:764-767:395:direct",
+      "urn:lex-mx:federal:statute:lic:article:85-bis-1:reference:354-357:393:direct",
+      "urn:lex-mx:federal:statute:lic:article:89:reference:1516-1518:31:direct",
+      "urn:lex-mx:federal:statute:lic:article:90:reference:821-825:2554:direct",
+      "urn:lex-mx:federal:statute:lic:transitory:decimoseptimo:reference:167-169:81:direct",
+      "urn:lex-mx:federal:statute:lic:transitory:vigesimo:reference:77-79:25:direct"
+     ]
+    }
+   },
+   "lritf": {
+    "top_level_changed": {},
+    "provisions": {
+     "old": 156,
+     "new": 156,
+     "added": [],
+     "removed": []
+    },
+    "shared_field_changes": {},
+    "text_changed_ids": [],
+    "order_preserved_for_shared": true,
+    "references": {
+     "old": 126,
+     "new": 126,
+     "added": 0,
+     "removed": 0,
+     "changed_same_id": 0
+    },
+    "reference_validation": {
+     "span_mismatches": [],
+     "not_attached_to_a_published_provision": [],
+     "published_flag_inconsistent": [],
+     "status_counts": {
+      "resolved": 126
+     },
+     "linked_in_reader": 126,
+     "resolved_outside_selection_shown_unavailable": []
+    }
+   }
+  },
+  "lic_vs_audit": {
+   "text_changed_ids_equal_audit": true,
+   "audit_count": 26,
+   "observed_count": 26,
+   "added_equal_audit": true,
+   "removed_none": true,
+   "heading_context_changes": 248,
+   "audit_heading_context": 248,
+   "new_public_file_sha256_matches_audit": true,
+   "old_public_file_sha256_matches_audit": true,
+   "shared_fields_changed_other_than_text_heading_paths": {
+    "text_sha256": 26
+   }
+  },
+  "lic_specific": {
+   "112_quater_no_longer_contains_split_bodies": true,
+   "split_bodies_were_inside_old_112_quater": true,
+   "108_bis_contains_restored_tail": true,
+   "new_112_states": {
+    "112-quintus": {
+     "label": "Artículo 112 Quintus",
+     "temporal_status": "effective",
+     "review_status": "machine_accepted",
+     "effective_from": null,
+     "effective_to": null
+    },
+    "112-sextus": {
+     "label": "Artículo 112 Sextus",
+     "temporal_status": "effective",
+     "review_status": "machine_accepted",
+     "effective_from": null,
+     "effective_to": null
+    },
+    "112-septimus": {
+     "label": "Artículo 112 Séptimus",
+     "temporal_status": "effective",
+     "review_status": "machine_accepted",
+     "effective_from": null,
+     "effective_to": null
+    }
+   },
+   "vigesimo": [
+    {
+     "id": "urn:lex-mx:federal:statute:lic:transitory:vigesimo",
+     "label": "VIGESIMO",
+     "old_len": 1052,
+     "new_len": 358,
+     "new_tail": "idad social a la prestación del servicio de banca y crédito, en los términos de esta Ley de las autorizaciones que con sujeción a la misma se expidan al efecto."
+    }
+   ]
+  },
+  "lritf_public_bytes": {
+   "files": 314,
+   "identical": true,
+   "same_file_set": true
+  },
+  "sources": {
+   "retained": true,
+   "count": 32,
+   "all_identical": true,
+   "names_equal_sha256": true
+  },
+  "changed_provision_file_classes": {
+   "ifpe-dcg-2021_md_other": 2,
+   "itf-dcg-2018_md_other": 4,
+   "lic_md_text_changed": 26,
+   "lic_txt_text_changed": 26,
+   "lic_md_other": 51
+  },
+  "changed_provision_files_not_text_changes": [
+   {
+    "path": "mx/ifpe-dcg-2021/provision-52d822c0470a1c911ce3fca4d9130b39c3eea59ae929709308b60ec1eb36dc0f.md",
+    "id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:annex:8",
+    "kind": "md"
+   },
+   {
+    "path": "mx/ifpe-dcg-2021/provision-df76b20961a23d3d7256501a052c349c10f52e26f5fab1168fa01b618308d07c.md",
+    "id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:46",
+    "kind": "md"
+   },
+   {
+    "path": "mx/itf-dcg-2018/provision-4c062172f2c31eb6f99925d2011e81b43541214dc5be4692712c91a091116eeb.md",
+    "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:95",
+    "kind": "md"
+   },
+   {
+    "path": "mx/itf-dcg-2018/provision-7674958a27585238d061f6056869d04b9f8a2703cca75709fc7ee2e313f2a894.md",
+    "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:2",
+    "kind": "md"
+   },
+   {
+    "path": "mx/itf-dcg-2018/provision-935fdf118f77922090a2e2bca84e9f385e18169fa41f3b498b98102deeae3819.md",
+    "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:5",
+    "kind": "md"
+   },
+   {
+    "path": "mx/itf-dcg-2018/provision-c4a1c9fcc93ba1cfb4d9f082ca5f559a3a39d48375c4b1f8ba916a73ae9b75d1.md",
+    "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:annex:4",
+    "kind": "md"
+   },
+   {
+    "path": "mx/lic/provision-0501ce3f551c7e75071059d562c2fa0ccb7345769429b60be5f69f93c1b5f9cb.md",
+    "id": "urn:lex-mx:federal:statute:lic:article:85-bis",
+    "kind": "md"
+   },
+   {
+    "path": "mx/lic/provision-09f1c2915dafc1f9d194f57e0b132c4f0f4945d03b700f70aeba9d2b5b1faf61.md",
+    "id": "urn:lex-mx:federal:statute:lic:article:186",
+    "kind": "md"
+   },
+   {
+    "path": "mx/lic/provision-20ab5bcf86c3de43faa182d62410d810c04d6ba11bdac133df9847df27bad7df.md",
+    "id": "urn:lex-mx:federal:statute:lic:article:125",
+    "kind": "md"
+   },
+   {
+    "path": "mx/lic/provision-2262f5ecc6b396659baad50ad41faeda16504894c4096816b96ccbae0abee888.md",
+    "id": "urn:lex-mx:federal:statute:lic:article:29-bis-8",
+    "kind": "md"
+   },
+   {
+    "path": "mx/lic/provision-22cc418e123c2b56febe1f1adc87c5a98e82e1935290be1027fcd00da3fd7846.md",
+    "id": "urn:lex-mx:federal:statute:lic:article:123",
+    "kind": "md"
+   },
+   {
+    "path": "mx/lic/provision-25865e748bd3be5ed602f68babd9f1b1f2223734e6f482ce42c3540f64344838.md",
+    "id": "urn:lex-mx:federal:statute:lic:article:16",
+    "kind": "md"
+   },
+   {
+    "path": "mx/lic/provision-262241046e701d118a91c2e40731afc4c756b3d9f01dae26e6e87e61ebae92c3.md",
+    "id": "urn:lex-mx:federal:statute:lic:article:27-bis-5",
+    "kind": "md"
+   },
+   {
+    "path": "mx/lic/provision-27d3a81474ac8e42ea2abea467a91ee9d22d9cdf1eedf7748c9bf5b759c59769.md",
+    "id": "urn:lex-mx:federal:statute:lic:transitory:decimoseptimo",
+    "kind": "md"
+   },
+   {
+    "path": "mx/lic/provision-2dc5eb2915cd52db488cb43d3d9dc9ac356282c9513d4e0e99cebaf9bef71599.md",
+    "id": "urn:lex-mx:federal:statute:lic:article:44-bis-1",
+    "kind": "md"
+   },
+   {
+    "path": "mx/lic/provision-32035abeea332ee88c782728aeb6a9325ff7e766b66de07024bda8f850ba53f0.md",
+    "id": "urn:lex-mx:federal:statute:lic:article:191",
+    "kind": "md"
+   },
+   {
+    "path": "mx/lic/provision-345ebd264fd4c298a2bf71916ec1728874f54551d1a1d314e8ce45ec059226a9.md",
+    "id": "urn:lex-mx:federal:statute:lic:article:101",
+    "kind": "md"
+   },
+   {
+    "path": "mx/lic/provision-37dded2ed113667e14f5617d3faca7f2ec8df7b0e6aa7ca3d6512b41f38c2ad8.md",
+    "id": "urn:lex-mx:federal:statute:lic:article:30",
+    "kind": "md"
+   },
+   {
+    "path": "mx/lic/provision-38e8bfad3cfa2530f23994a7e91f77aa83712bcd9dd5d47bc664058a4df9b9da.md",
+    "id": "urn:lex-mx:federal:statute:lic:article:146",
+    "kind": "md"
+   },
+   {
+    "path": "mx/lic/provision-3a01259176b2cba58f1e07c84e14e9ac45472a70b2719b16c8f497cdd304abc4.md",
+    "id": "urn:lex-mx:federal:statute:lic:article:47",
+    "kind": "md"
+   },
+   {
+    "path": "mx/lic/provision-3ed88f919630252e4666330652c5cc21aaab53b5b242733cefadf2620af70e33.md",
+    "id": "urn:lex-mx:federal:statute:lic:article:198",
+    "kind": "md"
+   },
+   {
+    "path": "mx/lic/provision-4133dd3904a21c790039c4bdc1113e749701ca30eebb7a55fdfaf148edca1f48.md",
+    "id": "urn:lex-mx:federal:statute:lic:article:199",
+    "kind": "md"
+   },
+   {
+    "path": "mx/lic/provision-4ea589db4bf5b01618b1ebaaf1c49ffc7784478363ba3b94eb97b1de4f50828a.md",
+    "id": "urn:lex-mx:federal:statute:lic:article:67",
+    "kind": "md"
+   },
+   {
+    "path": "mx/lic/provision-4ea6534eb5ad5998fac40ee280d073b3eb1e8e332c0fc74dac571cca9b954d5f.md",
+    "id": "urn:lex-mx:federal:statute:lic:article:85-bis-1",
+    "kind": "md"
+   },
+   {
+    "path": "mx/lic/provision-5521fd943d35c6075638c0dfa5e261691b605e33fc5637f0950928e7472a23e9.md",
+    "id": "urn:lex-mx:federal:statute:lic:article:194",
+    "kind": "md"
+   },
+   {
+    "path": "mx/lic/provision-5581be79f162f953e5bb276e6cdc306c9edc481ef1180228244789e1d56fbc03.md",
+    "id": "urn:lex-mx:federal:statute:lic:article:84",
+    "kind": "md"
+   },
+   {
+    "path": "mx/lic/provision-5b3268aed5a1adf9087f7c482742db18749f50defa85aefcf3c008a4d5375fde.md",
+    "id": "urn:lex-mx:federal:statute:lic:article:189",
+    "kind": "md"
+   },
+   {
+    "path": "mx/lic/provision-67720e082f58c18ea976ec83dc6018638e5f8190a914e32f5095b376a71c5350.md",
+    "id": "urn:lex-mx:federal:statute:lic:article:197",
+    "kind": "md"
+   },
+   {
+    "path": "mx/lic/provision-6c6326c3f20a3f006e673b63b0f1cc8f8a0809f7ec4a3f7163d46e158c86e24e.md",
+    "id": "urn:lex-mx:federal:statute:lic:article:116-bis",
+    "kind": "md"
+   },
+   {
+    "path": "mx/lic/provision-6d86df04595df96e34f4a766f3a632c4e8c3d6048886f2a4ff0c6080a2b3d642.md",
+    "id": "urn:lex-mx:federal:statute:lic:article:241",
+    "kind": "md"
+   },
+   {
+    "path": "mx/lic/provision-719ce1044287498fe250c69324c18fa9bd3ee68f95ed85248f2c2bf175b916e1.md",
+    "id": "urn:lex-mx:federal:statute:lic:article:242",
+    "kind": "md"
+   },
+   {
+    "path": "mx/lic/provision-7b90b782fb077168562c58a163c73db2d2f009c8e7e789683bbe7f5808658066.md",
+    "id": "urn:lex-mx:federal:statute:lic:article:46-bis-6",
+    "kind": "md"
+   },
+   {
+    "path": "mx/lic/provision-843c12c18dddb917443b7624b16117612760427ee1b6647c6789e3aa662cc481.md",
+    "id": "urn:lex-mx:federal:statute:lic:article:43-bis",
+    "kind": "md"
+   },
+   {
+    "path": "mx/lic/provision-8c015733da4006384914e05da88c88f977831bec0a9471c7d3b5f0851fa035bc.md",
+    "id": "urn:lex-mx:federal:statute:lic:article:203",
+    "kind": "md"
+   },
+   {
+    "path": "mx/lic/provision-8d5e940a32918eba70da18ce8c8610948398ba3476aea9d22e0521cf97bc2c29.md",
+    "id": "urn:lex-mx:federal:statute:lic:article:148",
+    "kind": "md"
+   },
+   {
+    "path": "mx/lic/provision-96f7d2a1d0302867e964d6faa85f5b0f88c070726bcb856d35d9873c627c6e57.md",
+    "id": "urn:lex-mx:federal:statute:lic:article:180",
+    "kind": "md"
+   },
+   {
+    "path": "mx/lic/provision-9b4d39b00d9e927d453ca9154eecb28a1d0268de1458bfb23fc5b2769b37e5ab.md",
+    "id": "urn:lex-mx:federal:statute:lic:article:18",
+    "kind": "md"
+   },
+   {
+    "path": "mx/lic/provision-9c48155ce6669c5399712e3bcb893ea809f0274a3301237e6355e4ec61e6d66c.md",
+    "id": "urn:lex-mx:federal:statute:lic:article:188",
+    "kind": "md"
+   },
+   {
+    "path": "mx/lic/provision-a157a4783f1e425ccae6da2cfcf2b9fc6698384b8ad714796635eed67094d31c.md",
+    "id": "urn:lex-mx:federal:statute:lic:article:27-bis-6",
+    "kind": "md"
+   },
+   {
+    "path": "mx/lic/provision-a98041aef54b4e145fddd772bdc4486dd70be017dc560d90d25c3f6291552fe2.md",
+    "id": "urn:lex-mx:federal:statute:lic:article:175",
+    "kind": "md"
+   },
+   {
+    "path": "mx/lic/provision-acd2011ea51dd67faf1cf3c55c3b5cfc2e56c62f407cdf6e806240253ffba3be.md",
+    "id": "urn:lex-mx:federal:statute:lic:article:27",
+    "kind": "md"
+   },
+   {
+    "path": "mx/lic/provision-b0aef8059e04c7bfb0a23e7cd22bf3d6be0391cba15520399dda75286450e6a4.md",
+    "id": "urn:lex-mx:federal:statute:lic:article:90",
+    "kind": "md"
+   },
+   {
+    "path": "mx/lic/provision-b499d52a4ac3734649a5f8df3c20491e777583c5006eb26a725ef9dd87686868.md",
+    "id": "urn:lex-mx:federal:statute:lic:article:85",
+    "kind": "md"
+   },
+   {
+    "path": "mx/lic/provision-b7d49f49a7b9d52eee4510de130d1c3ecb51d23fc52350f8e93b1d7b0a5d73d1.md",
+    "id": "urn:lex-mx:federal:statute:lic:article:48-bis-1",
+    "kind": "md"
+   },
+   {
+    "path": "mx/lic/provision-b9b746ec13889b9808af8a2310347f13922a3f91028db3b79d02629ee391d9c6.md",
+    "id": "urn:lex-mx:federal:statute:lic:article:89",
+    "kind": "md"
+   },
+   {
+    "path": "mx/lic/provision-c9511be66c56bbedbbc30e5306591c69a2f4474877598b33e20b26e1c86cc31f.md",
+    "id": "urn:lex-mx:federal:statute:lic:article:45-p",
+    "kind": "md"
+   },
+   {
+    "path": "mx/lic/provision-cd1e79c98de4f4b4657b6a2fbc617a9aff14203737c1de7a878859b7052ded5b.md",
+    "id": "urn:lex-mx:federal:statute:lic:article:216",
+    "kind": "md"
+   },
+   {
+    "path": "mx/lic/provision-d34e6c2179f073d6975f56c28613b8823d507545dba463a42cc135858178f2ef.md",
+    "id": "urn:lex-mx:federal:statute:lic:article:27-bis-1",
+    "kind": "md"
+   },
+   {
+    "path": "mx/lic/provision-db4fab2894cbd0db827bcf527c3d506c3d2e9826c3b83356b4cd605b5dbc1aae.md",
+    "id": "urn:lex-mx:federal:statute:lic:article:187",
+    "kind": "md"
+   },
+   {
+    "path": "mx/lic/provision-e34cd0caf96a7adbe73d05515c57ffca5b1f650cbd20472f1c175eecddf2261d.md",
+    "id": "urn:lex-mx:federal:statute:lic:article:105",
+    "kind": "md"
+   },
+   {
+    "path": "mx/lic/provision-e512efa4d9e6f60dc0402f797bc8a888186b6ecdce2d88f3fac8393cb76c650f.md",
+    "id": "urn:lex-mx:federal:statute:lic:article:213",
+    "kind": "md"
+   },
+   {
+    "path": "mx/lic/provision-e7dfba0fea75f616e25574f08b1a54ef1825dec6d9aa8df37241079a3d508cf7.md",
+    "id": "urn:lex-mx:federal:statute:lic:article:232",
+    "kind": "md"
+   },
+   {
+    "path": "mx/lic/provision-ec65b48bf5f16abcede4dc01f1d80a587ac52865f89fddd8ec80d92497aa2bde.md",
+    "id": "urn:lex-mx:federal:statute:lic:article:29-bis-13",
+    "kind": "md"
+   },
+   {
+    "path": "mx/lic/provision-f6647aa9993269ba9319b7ab509fb9ea983a2aa4d35a82c85ea6870c685cf736.md",
+    "id": "urn:lex-mx:federal:statute:lic:article:29-bis-6",
+    "kind": "md"
+   },
+   {
+    "path": "mx/lic/provision-f933b156ba69f9030d89ead6ee060fa263f6ee653bc3055ec18695455d07b626.md",
+    "id": "urn:lex-mx:federal:statute:lic:article:250",
+    "kind": "md"
+   },
+   {
+    "path": "mx/lic/provision-fa2802792357b7d3254466969625bf33a3f799e181106f5fb88687d554432b5e.md",
+    "id": "urn:lex-mx:federal:statute:lic:article:115-bis",
+    "kind": "md"
+   },
+   {
+    "path": "mx/lic/provision-fe4bf49461f5d5d5e73d626ca68ed85e9664064c457a0047f2ff0e427c90355f.md",
+    "id": "urn:lex-mx:federal:statute:lic:article:144",
+    "kind": "md"
+   }
+  ],
+  "ifpe_reference_changed_same_id": [
+   {
+    "id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:46:reference:2108-2109:9:direct",
+    "fields": {
+     "target_instrument_id": {
+      "from": "urn:lex-mx:federal:regulation:ifpe-dcg-2021",
+      "to": "urn:lex-mx:federal:regulation:itf-dcg-2018"
+     },
+     "target_provision_id": {
+      "from": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:9",
+      "to": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:9"
+     }
+    }
+   }
+  ],
+  "lic_reference_changes": {
+   "removed_from_text_changed_sources": 41,
+   "removed_other": 0,
+   "added_from_text_changed_or_new_sources": 51,
+   "added_other": 78,
+   "non_resolved_statuses_new": [
+    {
+     "id": "urn:lex-mx:federal:statute:lic:article:187:reference:3351-3357:28-bis:direct",
+     "status": "historical_superseded_reference_outdated",
+     "span": "28 Bis"
+    },
+    {
+     "id": "urn:lex-mx:federal:statute:lic:article:194:reference:4292-4298:31-bis:direct",
+     "status": "historical_superseded_reference_outdated",
+     "span": "31 bis"
+    }
+   ],
+   "non_resolved_statuses_old": []
+  },
+  "changed_provision_files_not_text_changes_note": "all 57 are reference-list lines in provision Markdown (56 newly listed outside-selection references, 1 IFPE art. 46 retarget to ITF art. 9 confirmed by source context); no body text changed"
+ },
+ "r3": {
+  "packages": {
+   "preferred": {
+    "dirs": [
+     ".work/r4-preferred-a",
+     ".work/r4-preferred-b"
+    ],
+    "identical": true,
+    "input": ".work/release-main-a",
+    "receipt": {
+     "schema_version": "reader-publication-v1",
+     "release_id": "9626bfe45c4ebc95b47351fd20c1de86f9b4f54856aee1de6d408e5d8389991f",
+     "corpus_commit": "85c41f3898d86737766564fa8d3fd8f6d4ae74a3",
+     "base_path": "/lex-mex/",
+     "manifest_sha256": "8fb340f2f249f40fc9474d7a035b0d06c3f6bc4b0cc975099f79c214a13b6713",
+     "publication_id": "f5a1937aa7304375508a11dad427c6fea4d43ad74c567fb53e2fe7e85df00acf",
+     "files": 1790
+    },
+    "publication_json_sha256": "23215976c049c42b9c002c969fbeb40052ff750c813700d58914136da4758c4d"
+   },
+   "fallback": {
+    "dirs": [
+     ".work/r4-fallback-a",
+     ".work/r4-fallback-b"
+    ],
+    "identical": true,
+    "input": "/Users/jr/Dev/lex-mex-reader/.work/public-release-v2 (read only)",
+    "receipt": {
+     "schema_version": "reader-publication-v1",
+     "release_id": "3c04016651e2fd4169632756e96ec19136136e1f42c4ed666070f23f20b30660",
+     "corpus_commit": "9e990e09995718a77865993b24c5f8c8e7167b42",
+     "base_path": "/lex-mex/",
+     "manifest_sha256": "c2b22653d7a0b68edc1f29d2b2554fc45eb4a595f5be91f0b96868f2128aedc7",
+     "publication_id": "709b09c401f3f4176104def965d40a2b70a0114d0d1d38d6147b88db4566c004",
+     "files": 1784
+    },
+    "publication_json_sha256": "73a87c1d0507dd053661c242d14765aeca3db6193f823539ca8feb37bc83b9af"
+   },
+   "rollback_deployed": {
+    "dir": ".work/baseline-unmodified-ui",
+    "receipt": {
+     "schema_version": "reader-publication-v1",
+     "release_id": "3c04016651e2fd4169632756e96ec19136136e1f42c4ed666070f23f20b30660",
+     "corpus_commit": "9e990e09995718a77865993b24c5f8c8e7167b42",
+     "base_path": "/lex-mex/",
+     "manifest_sha256": "c2b22653d7a0b68edc1f29d2b2554fc45eb4a595f5be91f0b96868f2128aedc7",
+     "publication_id": "407aa3dc658a274ac712e9494045a4c97724e5df0686de4e0513bf1af039470f",
+     "files": 1784
+    }
+   }
+  },
+  "package_verification": {
+   "preferred": {
+    "receipt_vs_disk": {
+     "listed": 1791,
+     "on_disk": 1791,
+     "extra_on_disk": [],
+     "missing": []
+    },
+    "forbidden_paths": [],
+    "denylist_hits": [],
+    "pdfs": {
+     "count": 32,
+     "name_hash_mismatch": 0,
+     "referenced_by_provisions": 32,
+     "all_referenced_present": true
+    },
+    "routes": {
+     "checked": 6
+    },
+    "provision_files": {
+     "checked": 1740,
+     "missing": 0
+    },
+    "mime": {
+     "reader.js": "text/javascript; charset=utf-8",
+     "reader-core.mjs": "text/javascript; charset=utf-8",
+     "reader.css": "text/css; charset=utf-8",
+     "llms.txt": "text/plain; charset=utf-8",
+     "latest.json": "application/json; charset=utf-8"
+    },
+    "bad_route_404": 404
+   },
+   "fallback": {
+    "receipt_vs_disk": {
+     "listed": 1785,
+     "on_disk": 1785,
+     "extra_on_disk": [],
+     "missing": []
+    },
+    "forbidden_paths": [],
+    "denylist_hits": [],
+    "pdfs": {
+     "count": 32,
+     "name_hash_mismatch": 0,
+     "referenced_by_provisions": 32,
+     "all_referenced_present": true
+    },
+    "routes": {
+     "checked": 6
+    },
+    "provision_files": {
+     "checked": 1734,
+     "missing": 0
+    },
+    "mime": {
+     "reader.js": "text/javascript; charset=utf-8",
+     "reader-core.mjs": "text/javascript; charset=utf-8",
+     "reader.css": "text/css; charset=utf-8",
+     "llms.txt": "text/plain; charset=utf-8",
+     "latest.json": "application/json; charset=utf-8"
+    },
+    "bad_route_404": 404
+   }
+  },
+  "fail_closed": {
+   "tampered-reader-js": {
+    "refused": true,
+    "error": "Publication file mismatch: reader.js",
+    "destination_written": false
+   },
+   "tampered-lic-provision": {
+    "refused": true,
+    "error": "Publication file mismatch: releases/9626bfe45c4ebc95b47351fd20c1de86f9b4f54856aee1de6d408e5d8389991f/mx/lic/provision-00d27e53b10cb36f1bb43fc96bf09e24dc3eee13dd5e2df283b73928e824ff86.md",
+    "destination_written": false
+   },
+   "agent-route-resealed": {
+    "refused": true,
+    "error": "Non-public path: agents/bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb/catalog-1.html",
+    "destination_written": false
+   },
+   "private-review-file-resealed": {
+    "refused": true,
+    "error": "Non-public path: releases/9626bfe45c4ebc95b47351fd20c1de86f9b4f54856aee1de6d408e5d8389991f/review-queue.json",
+    "destination_written": false
+   },
+   "invalid-release-id": {
+    "refused": true,
+    "error": "Identificador de publicación inválido",
+    "destination_written": false
+   },
+   "receipt-digest-mismatch": {
+    "refused": true,
+    "error": "Publication receipt digest mismatch.",
+    "destination_written": false
+   }
+  },
+  "rehearsal_log": ".work/evidence/r4-rehearsal.log",
+  "rehearsal": [
+   "--- pre-state: deployed publication",
+   "stage[baseline-unmodified-ui] exit=0",
+   "Verified Lex-Mex 3c04016651e2 (1784 artifacts).",
+   "verify[rollback_deployed] exit=0",
+   "--- preferred 870",
+   "stage[r4-preferred-a] exit=0",
+   "Verified Lex-Mex 9626bfe45c4e (1790 artifacts).",
+   "verify[preferred_870] exit=0",
+   "  verify with OLD pin must fail:",
+   "if(receipt.publication_id!==pin.publication_id||receipt.release_id!==pin.release_id)throw Error(\"Staged Lex-Mex publication differs from the reviewed release pin.\");",
+   "Error: Staged Lex-Mex publication differs from the reviewed release pin.",
+   "verify[rollback_deployed] exit=1",
+   "--- rollback A (stage deployed back)",
+   "stage[baseline-unmodified-ui] exit=0",
+   "Verified Lex-Mex 3c04016651e2 (1784 artifacts).",
+   "verify[rollback_deployed] exit=0",
+   "  diff vs pre (A):",
+   "1783",
+   "1783 releases/9626bfe45c4ebc95b47351fd20c1de86f9b4f54856aee1de6d408e5d8389991f",
+   "  lines removed vs pre (A): 0",
+   "--- rollback B (exact directory restore from backup)",
+   "Verified Lex-Mex 3c04016651e2 (1784 artifacts).",
+   "verify[restored] exit=0",
+   "exact restore: identical to pre-state (diff -r)",
+   "exact restore tree hash list equal (A)",
+   "--- fallback 867 then stage rollback",
+   "stage[r4-fallback-a] exit=0",
+   "Verified Lex-Mex 3c04016651e2 (1784 artifacts).",
+   "verify[fallback_867] exit=0",
+   "stage[baseline-unmodified-ui] exit=0",
+   "Verified Lex-Mex 3c04016651e2 (1784 artifacts).",
+   "verify[rollback_deployed] exit=0",
+   "fallback stage-rollback: identical to pre-state"
+  ],
+  "pin": {
+   "host_pin_path": "/Users/jr/Documents/4ll4/Webpage/LEG4L_L4BS/lex-mex-release.json",
+   "current": {
+    "schema_version": "reader-publication-v1",
+    "release_id": "3c04016651e2fd4169632756e96ec19136136e1f42c4ed666070f23f20b30660",
+    "publication_id": "407aa3dc658a274ac712e9494045a4c97724e5df0686de4e0513bf1af039470f",
+    "corpus_commit": "9e990e09995718a77865993b24c5f8c8e7167b42",
+    "manifest_sha256": "c2b22653d7a0b68edc1f29d2b2554fc45eb4a595f5be91f0b96868f2128aedc7"
+   },
+   "options": {
+    "preferred_870": {
+     "package": ".work/r4-preferred-a",
+     "pin": {
+      "schema_version": "reader-publication-v1",
+      "release_id": "9626bfe45c4ebc95b47351fd20c1de86f9b4f54856aee1de6d408e5d8389991f",
+      "publication_id": "f5a1937aa7304375508a11dad427c6fea4d43ad74c567fb53e2fe7e85df00acf",
+      "corpus_commit": "85c41f3898d86737766564fa8d3fd8f6d4ae74a3",
+      "manifest_sha256": "8fb340f2f249f40fc9474d7a035b0d06c3f6bc4b0cc975099f79c214a13b6713"
+     },
+     "delta": {
+      "release_id": {
+       "from": "3c04016651e2fd4169632756e96ec19136136e1f42c4ed666070f23f20b30660",
+       "to": "9626bfe45c4ebc95b47351fd20c1de86f9b4f54856aee1de6d408e5d8389991f"
+      },
+      "publication_id": {
+       "from": "407aa3dc658a274ac712e9494045a4c97724e5df0686de4e0513bf1af039470f",
+       "to": "f5a1937aa7304375508a11dad427c6fea4d43ad74c567fb53e2fe7e85df00acf"
+      },
+      "corpus_commit": {
+       "from": "9e990e09995718a77865993b24c5f8c8e7167b42",
+       "to": "85c41f3898d86737766564fa8d3fd8f6d4ae74a3"
+      },
+      "manifest_sha256": {
+       "from": "c2b22653d7a0b68edc1f29d2b2554fc45eb4a595f5be91f0b96868f2128aedc7",
+       "to": "8fb340f2f249f40fc9474d7a035b0d06c3f6bc4b0cc975099f79c214a13b6713"
+      }
+     },
+     "unchanged": [
+      "schema_version"
+     ],
+     "files": 1790
+    },
+    "fallback_867": {
+     "package": ".work/r4-fallback-a",
+     "pin": {
+      "schema_version": "reader-publication-v1",
+      "release_id": "3c04016651e2fd4169632756e96ec19136136e1f42c4ed666070f23f20b30660",
+      "publication_id": "709b09c401f3f4176104def965d40a2b70a0114d0d1d38d6147b88db4566c004",
+      "corpus_commit": "9e990e09995718a77865993b24c5f8c8e7167b42",
+      "manifest_sha256": "c2b22653d7a0b68edc1f29d2b2554fc45eb4a595f5be91f0b96868f2128aedc7"
+     },
+     "delta": {
+      "publication_id": {
+       "from": "407aa3dc658a274ac712e9494045a4c97724e5df0686de4e0513bf1af039470f",
+       "to": "709b09c401f3f4176104def965d40a2b70a0114d0d1d38d6147b88db4566c004"
+      }
+     },
+     "unchanged": [
+      "schema_version",
+      "release_id",
+      "corpus_commit",
+      "manifest_sha256"
+     ],
+     "files": 1784
+    },
+    "rollback_deployed": {
+     "package": ".work/baseline-unmodified-ui",
+     "pin": {
+      "schema_version": "reader-publication-v1",
+      "release_id": "3c04016651e2fd4169632756e96ec19136136e1f42c4ed666070f23f20b30660",
+      "publication_id": "407aa3dc658a274ac712e9494045a4c97724e5df0686de4e0513bf1af039470f",
+      "corpus_commit": "9e990e09995718a77865993b24c5f8c8e7167b42",
+      "manifest_sha256": "c2b22653d7a0b68edc1f29d2b2554fc45eb4a595f5be91f0b96868f2128aedc7"
+     },
+     "delta": {},
+     "unchanged": [
+      "schema_version",
+      "release_id",
+      "publication_id",
+      "corpus_commit",
+      "manifest_sha256"
+     ],
+     "files": 1784
+    }
+   }
+  },
+  "screenshots": [
+   "r4-fallback-a-desktop-1440-lic-108-bis.png",
+   "r4-fallback-a-desktop-1440-lic-112-quintus.png",
+   "r4-fallback-a-desktop-1440-lic-122-crossed-reading-line.png",
+   "r4-fallback-a-mobile-390-lic-193.png",
+   "r4-fallback-a-narrow-900-ifpe.png",
+   "r4-preferred-a-desktop-1440-lic-108-bis.png",
+   "r4-preferred-a-desktop-1440-lic-112-quintus.png",
+   "r4-preferred-a-desktop-1440-lic-122-crossed-reading-line.png",
+   "r4-preferred-a-mobile-390-lic-193.png",
+   "r4-preferred-a-narrow-900-ifpe.png"
+  ]
+ },
+ "r4": {
+  "reviewer": "separate Opus verifier agent, bounded packet .work/evidence/r4-review-packet.md, no transcript",
+  "verdict": "PARTIAL - ready for Codex/operator review; no blocker",
+  "findings": [
+   {
+    "n": 1,
+    "severity": "medium",
+    "summary": "several new scheduling paths had no test failing on old bytes",
+    "disposition": "added lock-expiry and last-provision scenarios; mutation runs with and without scroll anchoring; scroll listener and lock timer proven; six surviving hooks disclosed as defense in depth"
+   },
+   {
+    "n": 2,
+    "severity": "low-medium",
+    "summary": "trailing pass could rewrite an explicit navigation when the last provision cannot reach the reading line on tall viewports",
+    "disposition": "reproduced at 1440x3000 on the r3 build; fixed with .flow padding-bottom 100dvh; packages rebuilt; all checks rerun"
+   },
+   {
+    "n": 3,
+    "severity": "low",
+    "summary": "non-destructive rollback is not a restore and the host verifier cannot tell",
+    "disposition": "exact directory restore made the default rollback for the 870 option; verifier limitation stated"
+   },
+   {
+    "n": 4,
+    "severity": "low",
+    "summary": "old implementation receipt proposal stale and actionable",
+    "disposition": "supersession banner added"
+   },
+   {
+    "n": 5,
+    "severity": "info",
+    "summary": "IFPE art. 46 retarget, duplicate reference lines, historical reference label, pre-existing pointerdown settle interruption",
+    "disposition": "disclosed in holds; Codex asked to confirm the retarget"
+   }
+  ]
+ },
+ "changed_files": [
+  {
+   "path": "Cargo.lock",
+   "status": "M",
+   "sha256": "14a9f6698abc77c29555e3b646aa0217026779e4a22c107407511c751c8e1d79"
+  },
+  {
+   "path": "PLANS.md",
+   "status": "M",
+   "sha256": "5a30ad5d2a29fbc007ec9d1b149a4e04e2fb3e76b726802bf0c6dd48aaffa9b2"
+  },
+  {
+   "path": "crates/lex-cli/Cargo.toml",
+   "status": "M",
+   "sha256": "6a409f210ff46484a65f42c9fbe04fe3e62953fcabc145932ead045326c7c691"
+  },
+  {
+   "path": "crates/lex-cli/src/bundle.rs",
+   "status": "M",
+   "sha256": "33c79bfbf8ecf1bc05d40a49616ba031d72e458f0049dccb06733935056a8578"
+  },
+  {
+   "path": "crates/lex-cli/src/main.rs",
+   "status": "M",
+   "sha256": "4a853cd234da0ac286ad1560bc707ba4934b671a9555d6e04863973a2e4a4823"
+  },
+  {
+   "path": "crates/lex-cli/src/public_release.rs",
+   "status": "??",
+   "sha256": "791b90e625c0a4f54ff1a5ccf12086726c7847cc24b507fc6196fcfac7edf3af"
+  },
+  {
+   "path": "docs/db-reader-lic-consolidated-review-2026-10-22.md",
+   "status": "??",
+   "sha256": "d2fd89ada2aeb9558a12711c024e75cddf7fb403477970ba4651b660cb822546"
+  },
+  {
+   "path": "docs/four-instrument-reader-baseline-comparison-2026-10-22.json",
+   "status": "??",
+   "sha256": "34b171cf85cafb188bfc0f912f26dd14433162bc84e69615fd594cb2a1124ef8"
+  },
+  {
+   "path": "docs/four-instrument-reader-codex-review-2026-10-22-evidence.json",
+   "status": "??",
+   "sha256": "b1aac23504d58bf2a127d9815ebd0b07123887c70349a212fdfadfec83e67594"
+  },
+  {
+   "path": "docs/four-instrument-reader-codex-review-2026-10-22.md",
+   "status": "??",
+   "sha256": "962235ce002634235f6ed087d376a32acc978c75b84ca31581c7672de8b39542"
+  },
+  {
+   "path": "docs/four-instrument-reader-continuation-receipt-2026-10-22.md",
+   "status": "??",
+   "sha256": "85ba47ab0215af39b75248fa27f405878b99e1f5f36a01df80653d320c82847e"
+  },
+  {
+   "path": "docs/four-instrument-reader-evidence-2026-10-22.json",
+   "status": "??",
+   "sha256": "2976931eefc05ed6b92a776595c70807a17eec3c038c9783320bb67d9d4cfdda"
+  },
+  {
+   "path": "docs/four-instrument-reader-implementation-receipt-2026-10-22.md",
+   "status": "??",
+   "sha256": "d8a4d810a38505ee42e624626241b16bb8df4a7589428110666b0ee51d303d5f"
+  },
+  {
+   "path": "docs/lic-publication-source-audit-2026-10-22-evidence.json",
+   "status": "??",
+   "sha256": "01d10668b50d17e2bb409c48dc443487e93aa91b77cfd6d8d1a524e70ca067dc"
+  },
+  {
+   "path": "docs/plans/four-instrument-reader-design-release.md",
+   "status": "??",
+   "sha256": "3c93fd22b3ae49e645e522ae66baec6f3e35b60c4021402a9faefe020df5946e"
+  },
+  {
+   "path": "docs/reader-publish-handoff-review-2026-10-22.md",
+   "status": "??",
+   "sha256": "dfa76bab93226553cd9933072ce97b9fc83524c1ded564ab1b8015cb929e7981"
+  },
+  {
+   "path": "reader/README.md",
+   "status": "??",
+   "sha256": "52c738ba5fb439f86d8cacdf813d1864c9c67454141031a5a6e86f3c3d908df3"
+  },
+  {
+   "path": "reader/browser-check.mjs",
+   "status": "??",
+   "sha256": "4f7c22361255fb68a237c9627a4b24c91e7da3ece88ba65828da2b9cfe89de58"
+  },
+  {
+   "path": "reader/index.html",
+   "status": "??",
+   "sha256": "44c509a43cf594f19e11a1af4494e5126c8173d4530742f7e3f7646b77a5f895"
+  },
+  {
+   "path": "reader/lex-mex.svg",
+   "status": "??",
+   "sha256": "ba8be0de5a75cf9773f4ea25ac3665773e1ba74a4b4d22185c11ff7b0aaaaf6c"
+  },
+  {
+   "path": "reader/package.mjs",
+   "status": "??",
+   "sha256": "629b35f1f77a3066f92496d397da6c600536aa511137a94d58002fc4c6d4435a"
+  },
+  {
+   "path": "reader/package.test.mjs",
+   "status": "??",
+   "sha256": "7a1fd24c91b66421c25bf4674082c7cfc10ffe62b20674ac7c432ea3760f0fc5"
+  },
+  {
+   "path": "reader/reader-core.mjs",
+   "status": "??",
+   "sha256": "04045dee1f84c82e5042543bbcaeef065d595b3cd5a0eb8bf696d640d4e1dac8"
+  },
+  {
+   "path": "reader/reader.css",
+   "status": "??",
+   "sha256": "e40c1e26004429fc8b1851a28fbcc3099d3934cc7cdc5c0733924cee71c38f1a"
+  },
+  {
+   "path": "reader/reader.js",
+   "status": "??",
+   "sha256": "681ef5b3ebf2da2f449ad9e7d4f852d8b5bcf130feefe3caaa406b321f02fb9b"
+  },
+  {
+   "path": "reader/reader.test.mjs",
+   "status": "??",
+   "sha256": "bfac77a327b4b5b849e8882d3fc238c3ab2afdfa622bd7af84b1602f7356046e"
+  },
+  {
+   "path": "reader/serve.mjs",
+   "status": "??",
+   "sha256": "75fd7b945a0dd194581f9f4d2e8519d3f03a9c12e7d14aa2a2fddd83125979d6"
+  },
+  {
+   "path": "reader/stage.mjs",
+   "status": "??",
+   "sha256": "5f2d69af83018616e7a95a8f4aa508ec769b0a629492bd9901ec5e768cfde093"
+  },
+  {
+   "path": "reader/stage.test.mjs",
+   "status": "??",
+   "sha256": "b8f61f28d5e5c4733ee2ff613b608283de51e398b469f03cf4581421feab5a16"
+  },
+  {
+   "path": "schemas/public-instrument-v1.schema.json",
+   "status": "??",
+   "sha256": "aee6c797d72608b98660e9007962ee980bd6fcadde9bf7f1ed3bf50c7db24a31"
+  },
+  {
+   "path": "schemas/public-release-v1.schema.json",
+   "status": "??",
+   "sha256": "c1c4e24f3d9afcfb2105e1ea16fa82f42a59073b0ae0000e3eed2e0c22a6b43e"
+  }
+ ]
+}

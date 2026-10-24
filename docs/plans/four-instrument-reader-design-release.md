@@ -1,0 +1,557 @@
+# Four-instrument Reader design release — single-run execution plan
+
+2026-10-22. Owner: Claude Sonnet5.5; Opus5.5 advisor on call. Operator approved
+this bounded implementation after Codex's Reader handoff review. This is an
+execution plan, not a report of completed implementation.
+
+## Goal and observable finish
+
+Deliver one reproducible, locally reviewable Reader package implementing the
+approved Revision02 design for exactly `lritf, ifpe-dcg-2021, itf-dcg-2018, lic`.
+Produce source-backed release comparison, implementation, verification receipts,
+responsive screenshots, and a final publication/rollback packet. Complete all
+local work in one sustained goal run; do not stop after a plan or first passing
+test. The finish is **ready for operator review and host deployment**, not live
+publication. No host modification/deploy, Git commit/push/merge, corpus legal
+resolution or external write is authorized by this plan. Obtain any later
+commit/deploy authorization only after the concrete package is reviewable.
+
+Suggested goal text: “Execute docs/plans/four-instrument-reader-design-release.md
+to completion: integrate approved Revision02 into a verified four-instrument
+Reader package, preserve unrelated work, and deliver the complete local
+publication and rollback evidence. Use Sonnet5.5 as owner and Opus5.5 on call.
+Stop only at the defined acceptance boundary or a documented external/legal
+blocker; do not deploy or commit without separate authorization.”
+
+## Authority, baseline and bounded context
+
+Initial main: `85c41f3898d86737766564fa8d3fd8f6d4ae74a3`, pushed and verified.
+Reader: `/Users/jr/Dev/lex-mex-reader`, branch feat/public-reader at
+`f5330c3e9ef8c087a1551b9e85c3c7233a4fa595`,43 dirty entries at review.
+It is the permanent online presentation workspace; never remove/reset/clean it.
+Verify current Git drift and active writers before starting. Canonical data,
+accepted decisions and native checks outrank this plan. Read local AGENTS.md,
+provider instructions and PLANS.md in every worktree actually used.
+
+Read only these task sources initially, then follow specific implementation links:
+- `docs/reader-publish-handoff-review-2026-10-22.md` (main)
+- `docs/heading-leak-permanent-acceptance-2026-10-21.md` (main)
+- Reader `reader/README.md`, `reader/{index.html,reader.js,reader.css,reader-core.mjs,package.mjs,stage.mjs}`
+- Reader `docs/plans/continuous-reader-and-agent-query.md`
+- Reader `docs/plans/database-backed-agent-access.md` for exclusions only
+- Incoming handoff `2026-10-21-lex-mex-reader-publish-handoff.md`
+
+Accepted design: Figma ar2bES9p6jeUBY0w3E4eDY, approved board160:570
+(Revision02). Inspect that board and required components with applicable Figma
+skills before implementing; preserve existing designs. Research-tools board
+246:438 is not approved for implementation here. Do not import its Cmd-hover
+floating articles, session tray or article-reform footer. No Figma write needed.
+
+## Settled scope and routine defaults
+
+- Implement approved Revision02 over the four-instrument public release;
+  full-corpus DB integration and new agent/query service are excluded.
+- Use accepted main85c41f389 as the canonical comparison/build baseline; do not
+  refresh sources or derive/rewrite LRITF or other canonical legal records.
+- Exclude experimental static `agents/<id>/` generation and query-preview/service
+  from this publication path. Preserve their code/drafts separately. Update
+  packager/stager allowlists and llms/navigation consistently so no dead routes
+  or experimental discovery promises ship. Keep existing supported canonical
+  Markdown/text discovery if its packaged routes verify. This is the proposed
+  exclusion accepted as the conservative four-instrument scope; document it.
+- Continuous text, active article/index tracking, exact article copying, direct
+  provision links and responsive layout are core. Existing source/PDF viewing
+  remains. Ship PDF-follow disabled/unavailable unless exact article-to-PDF
+  anchors can be verified against retained PDF hashes within this run; never
+  infer page positions from article number or label occurrence alone. Clearly
+  label unavailable controls. No research-tool footer or unverified reform date.
+- Use local retained official sources with verified hashes. No new acquisition
+  without a separate provenance review. No claim of current legal validity.
+- Do not require a DB server or the internal482MB SQLite release for this
+  four-instrument site. Preserve public-data exclusion and partial coverage.
+
+## Work isolation and preservation
+
+Inventory Reader dirty paths, hashes and owners before edits. Preserve unrelated
+tracked deletions (`nota-viabilidad-comites-banca-multiple.*`), provider files,
+assessment/prompts and query experiments. Do not merge the Reader branch wholesale.
+Use an operator-created isolated integration worktree based on accepted main
+per local concurrent-writer rules. If none exists, prepare its exact requested
+path/branch and request creation; meanwhile perform bounded read-only inventory
+and design review. Never silently share another writer's mutable checkout.
+An already isolated operator-provided workspace is sufficient; do not ask again.
+
+Transfer only reviewed Reader implementation/support files into integration,
+with a path manifest and source hashes. Preserve attribution and local rules;
+no broad recursive copy. Select an integration branch name and private
+CARGO_TARGET_DIR/output roots so active DB/Reader jobs cannot collide.
+All new package directories must be unique, ignored and outside their input
+release. Existing release/publication files remain immutable.
+
+## Execution milestones
+
+### M0 — Baseline, design and source inventory
+
+Record Git commit/status, chosen writer/worktree, design board, source/package
+locations and tool versions. Read current host pin and retained release from
+known files read-only; the handoff's pin may have drifted. No host enumeration.
+Known retained release: Reader `.work/public-release-v2`, release3c04016651e2fd4169632756e96ec19136136e1f42c4ed666070f23f20b30660.
+Known host pin is under `/Users/jr/Documents/4ll4/Webpage/LEG4L_L4BS/lex-mex-release.json`;
+read host-local instructions before later host work, which is excluded here.
+Identify only required retained source PDFs from the release/source store.
+Do not preload corpus or unrelated vault contents.
+
+### M1 — Public release parity and content disposition
+
+Build the explicit four-instrument public release from the accepted baseline
+using its actual current CLI help; README example is:
+`cargo run --locked -p lex-cli -- public-release build --instrument lritf,ifpe-dcg-2021,itf-dcg-2018,lic --source-store <verified-store> --output <new-release-dir> --base-path /lex-mex/`.
+Review the exporter/version compatibility before copying older Reader tooling.
+Compare old/new public provision IDs, exact text/source digests, references,
+terms if exported, temporal classifications and exposed review qualifications.
+Classify all changes; no aggregate “unchanged” claim based on counts alone.
+
+If public text, temporal or review facts differ, finish the comparison and
+continue UI development on the retained approved release. Do not block all
+implementation waiting for a legal-content ruling. Report the baseline update
+as a separate held publication option for the operator. Default deliverable in
+that case is a new UI publication over the retained release, with its original
+corpus identity. Never infer JRH approval or silently replace legal content.
+If no such changes require review, the newly verified baseline may be used;
+record release identity and exact content disposition explicitly.
+
+### M2 — Implement approved design and packaging boundary
+
+Implement continuous instrument reading with one logical text scroll, stable
+article anchors, selection/index tracking, direct-link/history behavior, exact
+body copy and responsive source/PDF panes. Manual PDF scrolling must not be
+hijacked; unavailable follow must remain honest. Preserve display of out-of-
+release citations as unavailable, and source/release identity on relevant views.
+Measure LIC (largest selected instrument) render/navigation; avoid eager DOM
+work that blocks interaction. Do not expand the instrument set to test scale.
+
+Remove experimental-agent output from this publication path without deleting
+its unrelated work. Repair package/stage discovery references and add meaningful
+regressions proving excluded/private files cannot ship. Query-preview defects
+need not be repaired because that surface is excluded; any code path actually
+reused in the release must be reviewed and repaired before shipping.
+Use semantic controls, keyboard navigation, readable focus and empty/loading/
+error states. Avoid invented dates or legal summaries. No new design invention
+when approved components provide the answer.
+
+### M3 — Verification and reproducible review package
+
+Delegate deterministic checks to the local mechanical tier where required;
+Sonnet owns diagnosis, scope and fixes. Native code/canonical-boundary changes
+require fmt, strict workspace Clippy, locked workspace tests, LRITF and IFPE
+validators. Run write-capable validators only in isolated disposable snapshots;
+inspect canonical/queue/export diffs and expect no unintended changes.
+Run `node --test reader/` and meaningful added behavior/privacy tests. Use
+current main's test baseline; do not claim the old228-test Reader gate covers
+integrated419-test main. Record exact counts, commands, exits and limitations.
+
+Build publication twice from the same chosen input/UI; compare immutable
+publication IDs and content digests. Use package/stage verification in an
+isolated local staging directory, never the host. Tampered digest, forbidden
+private artifact and invalid publication must fail closed. Verify complete
+routes/relative assets, canonical discovery and direct links under `/lex-mex/`.
+
+Browser-check desktop and narrow/mobile layouts on the local served package:
+all four instruments, long LIC navigation, back/forward/deep links, full article
+copy boundaries, reference navigation, unavailable external targets, source PDF
+and disabled follow behavior. Record representative screenshots and measured
+render/navigation observations, without claiming formal performance budgets
+unless measured. Private-data denylist checks must supplement, not replace,
+explicit public-field allowlisting. Confirm no fixtures silently replace real
+release data. Source digests and retained PDF identity must verify.
+
+### M4 — Reviewable publication packet and handoff
+
+Write implementation receipt, baseline comparison (machine-readable plus human
+summary), selected release/publication IDs and hashes, validation evidence,
+screenshots, exact changed-file manifest, unresolved holds and rollback paths
+under repository docs. Keep large generated packages/screenshots in ignored
+artifact roots with reproducible commands; do not commit PDFs/DBs or private
+vault material. Update this task plan, project receipt, rolling context and
+active-run capsule explicitly. Bind capsule to plan path/digest. Do not mark
+success until the final package is locally reviewable and all required gates
+pass, or clearly name the external/legal blocker and completed independent work.
+
+Provide the exact host staging commands, pin delta and rollback procedure as a
+proposal. Do not run them. If publication differs legally, make the retained-
+content UI package the ready option and the new-content version a held option.
+Present a concrete commit/deploy request only after this packet exists.
+
+## Opus advisor and stop rules
+
+Sonnet5.5 owns execution. Consult Opus5.5 read-only at: an unclear source/UI
+boundary, a proposed canonical/export schema change, ambiguous legal/public
+content diff, architectural compatibility conflict, repeated substantive test
+failure, or final independent readiness review. Supply a bounded question,
+relevant diff and evidence; Sonnet integrates the advice. Do not invoke another
+provider from Codex. Within Claude use its authorized advisor mechanism.
+
+Do not escalate routine styling, path selection, tests or formatter work.
+Advisor cannot grant operator/JRH approval. Stop dependent work for missing
+approved design access, absent verified sources, active-writer conflict,
+private-data leakage or unclassified source change; continue other safe local
+milestones. Never hide failure by weakening validation or dropping fixtures.
+
+Recovery: preserve original immutable package and host pin; abandon only the
+new isolated output on failure. Revert only owned scoped changes if necessary;
+never reset the permanent Reader workspace. No cleanup without specific authority.
+
+## Current checkpoint — implementation reviewed, 2026-10-22
+
+M0–M4 executed by Sonnet in the operator-created isolated worktree
+`/Users/jr/Dev/lex-mex-reader-four`, branch `feat/four-instrument-reader-design`
+at main85c41f389 plus uncommitted implementation. Do not restart from M0 or
+copy the permanent Reader again. Preserve all existing implementation and ignored
+outputs. Verify drift and sole writer before editing. The original packet is
+`docs/four-instrument-reader-implementation-receipt-2026-10-22.md` in that worktree.
+
+Read the main-workspace review `docs/db-reader-lic-consolidated-review-2026-10-22.md`,
+`docs/four-instrument-reader-codex-review-2026-10-22.md` and
+`docs/lic-publication-source-audit-2026-10-22-evidence.json`. They are currently
+uncommitted in `/Users/jr/Dev/lex-mex`; copy only these named review inputs and
+this updated plan into the integration worktree as needed. Preserve their hashes.
+This continuation supersedes the earlier M1 blanket LIC hold and pending-M0 next
+action. Full-corpus/experimental-agent/research-feature exclusions still apply.
+
+### R0 — Verify review baseline and preserve release artifacts
+
+Confirm main85c41f389 and integrated worktree identity; hash current reader.js,
+reader-core.mjs and publication receipts. Preserve ship-a/b, baseline-unmodified-ui
+and release-main-a/b. Old ready publication0b797aa6 is review baseline, not final
+approved deploy. No cleanup. Read explicit source-audit evidence; verify the
+511 LIC IDs/bodies match accepted main and the accepted DB if using its candidate.
+No new source fetch, corpus parse, temporal derivation or legal-review write.
+
+### R1 — Fix event-driven active selection
+
+First reproduce the reviewer scenario in a real local browser on current shipped
+bytes: two consecutive articles remain in the observer's upper-half root while
+the next heading crosses barHeight()+24. Inspect active label/sidebar, exact copy
+body and selected share URL; they must track the article at that line. If the
+finding does not reproduce, supply event trace/geometry and explain the code path
+that forces an update before dismissing it. Do not weaken the requirement.
+
+Separate observer candidate membership from reading-line position. Recompute on
+scroll through one requestAnimationFrame scheduler; schedule a trailing update
+when settle/loading suppression ends, without racing explicit navigation. Keep
+passive history as replace, deliberate navigation as push, and PDF auto-follow
+disabled. Test movement without any IO entry/exit, short adjacent articles, long
+article tail, resize, deep-link settle, interrupted settle and quick instrument
+switches. A helper-only test is insufficient: include an event-level browser
+regression and final package browser evidence. Use the smallest reliable repair.
+
+### R2 — Advance the public LIC candidate safely
+
+Source fidelity is technically cleared for the exact current-main differences:
+15 whitespace-only,8 misplaced headings,112 Quáter split into3 source-printed
+articles,108 Bis source-note completion and Vigésimo signature exclusion. These
+were accepted canonical repairs from9441b7976. Do not solicit another JRH ruling
+for these same deterministic facts or infer approval of legal validity.
+
+Build/verify the preferred four-instrument current-main release, total870:
+LIC511, IFPE71, ITF132, LRITF156. Existing release-main-a/b can be reused only
+with file/digest/input parity. All shared temporal/review/source fields must
+remain exactly as in the audited candidate. New112 articles retain their
+recorded machine classifications and unknown effective dates. No invented
+commencement, reform date, or reviewed status.
+
+Validate all selected public reference spans and resolved targets; outside-
+selection targets must remain qualified. Verify direct URLs to112 Quintus,
+Sextus and Septimus find those articles, not the first article fallback. Verify
+112 Quáter no longer duplicates their bodies,108 Bis includes the exact source
+note tail, and Vigésimo excludes signatures from article copy. Confirm LRITF
+public record bytes remain identical to the retained release. Keep a retained-
+content package as fallback; never overwrite baseline releases. Update the
+baseline comparison and publication proposal to reflect technical clearance.
+
+If any difference falls outside the evidence list, hold only that content update
+and continue R1/UI over the retained release. Document the new discrepancy
+precisely; do not invent legal approval to meet the goal.
+
+### R3 — Final package and integrated verification
+
+Build the preferred package twice from the fixed UI and verified current-main
+release. Verify all bytes, release/publication IDs, public allowlists and source
+PDF hashes. Also create or retain a verified retained-content fallback using
+fixed UI if practical; original deployed publication remains rollback target.
+No expected publication ID should be hard-coded from the obsolete ship-a.
+
+Run node --test reader/, updated event/browser regression, package/stage tamper
+and private-field exclusions, local staging/rollback rehearsal and final browser
+checks. Test each new LIC direct link, exact article copy, index/read-line identity,
+references, release query, back/forward, search, narrow layouts and PDF offer.
+Measure representative LIC loads; report slow outliers without declaring them
+solved by clean-load averages. Investigate a consistent foreground stall; do
+not make a flaky timer assertion the only acceptance gate.
+
+Native Rust code at the original receipt passed424tests; Codex did not rerun it.
+If Rust/schema/Cargo inputs remain byte-identical to that tested state, preserve
+those receipts and explicitly bind hashes instead of claiming a new run. If any
+change, run required fmt/strictClippy/lockedworkspace tests and isolated LRITF/
+IFPE validators again; record real counts. No canonical/queue/output drift.
+Public schemas/Cargo changes can affect a future DB input/build identity: run
+workspace DB tests as part of changed native gates, but do not rebuild accepted
+internal DB releases solely to publish this static four-instrument UI. Any new
+DB release claim requires a separate actual pinned build/verify/golden gate.
+
+### R4 — Fresh review and corrected publication packet
+
+Consult Opus5.5 in a fresh bounded context using diff, acceptance criteria,
+source audit and actual final receipts, not only the builder's transcript.
+Ask it to challenge R1 event delivery, copy/URL correctness, LIC/source parity,
+public data exclusion, actual shipped-byte tests and rollback. Sonnet integrates
+findings and reruns affected checks. Request Codex final re-review from this
+new packet; neither advisor can grant operator publication authority.
+
+Update implementation/evidence documents, plan and continuity. Include an exact
+source change manifest excluding unrelated work. The old proposal changes only
+publication_id; that is no longer correct for the preferred870-provision release.
+Compute the complete pin delta from actual final files: publication_id,
+release_id, corpus_commit, manifest_sha256 and any other differing host fields.
+For retained-content fallback only publication_id may change if verified.
+
+Keep the backed-up deployed pin in the non-served ignored backup directory along
+with both host destination backups. Rollback must restore the original complete
+pin and deployed package, including latest.json; do not only revert publication_id
+when the selected release changed. Rehearse locally. Host writes/deploy, commits,
+merge and push still require separate operator authorization after the concrete
+packet is ready. No publication occurs just because the technical hold is cleared.
+
+## R5 — Codex final review follow-up, 2026-10-22
+
+R0–R4 are committed on Reader branch d87db82c0. This supersedes the resume-R0
+next action. Codex independently verified final packages,22Node tests, preferred
+28browser checks and content/pin parity. Fallback failed the same narrow390px
+LIC193 deep link twice: it landed on191. See
+`docs/four-instrument-reader-r0-r4-codex-review-2026-10-22.md` and evidence in
+the main workspace. The same UI serves legacy3c04 pinned URLs after preferred
+staging, so the backward-compatible landing must work. Database/LIC source
+fidelity and IFPE46→ITF9 correction remain accepted.
+
+1. Preserve/freeze current source and final packages; reproduce390px LIC193
+   fallback failure. Capture requested ID, selection/URL, target offset, loading/
+   settle/lock state and font readiness across navigation. Default anchoring
+   runs failed twice; do not dismiss as the disclosed no-anchoring limitation.
+2. Diagnose and repair explicit navigation stability around deferred layout and
+   font changes. External font swap is a hypothesis, not established cause.
+   Keep an explicit target stable until genuine user navigation/scroll intent;
+   preserve manual scrolling and passive no-push history. Do not simply weaken
+   the assertion or add a long test sleep. Add targeted event-level coverage
+   and retain evidence that the old final bytes fail. Do not change canonical
+   LIC text/temporal state or internal DB to fix UI geometry.
+3. Build both preferred870 and fallback867 package pairs with fixed UI; run
+  22Node tests and the full28/25browser scenarios on final bytes. Include a
+   new narrow193 trace and legacy-release query test under a preferred-staged
+   local directory containing both releases. Verify copy/share/index/label and
+   requested target, not merely internal agreement on the wrong article. Rerun
+   affected mutation proof if scheduler/lock behavior changes; broader mutation
+   repetition is unnecessary without an affected assumption.
+4. Reverify publication/manifest hashes, exact pairs, sourceUI bindings, public
+   content/source/reference parity, full pin delta and local rollback. Keep all
+   old failing receipts and immutable output roots. Native424 receipts may be
+   reused only with exact hash binding if native/schema/Cargo inputs unchanged.
+5. Fresh bounded advisor/code review and updated receipt/evidence/plan. State
+   new preferred/fallback IDs from actual files; supersede f5a1937a/709b09c4 as
+   appropriate. No commits/merge/push/host staging/deploy without authorization
+   current to that action; verify earlier local-commit authorization scope.
+
+Exactly one current next action: Claude diagnoses/fixes R5 in the existing
+reader-four workspace and returns a frozen package/evidence for re-review.
+Do not restart the DB, LIC ingestion or original design implementation.
+
+### R5 outcome — 2026-10-22 (Claude Opus 5.5; routing deviation from Sonnet recorded)
+
+The 390px LIC 193 fallback defect reproduced. A trace (`.work/evidence/r5/trace-fallback-r4.json`) shows two causes:
+deferred-layout oscillation with a bounded settle, and a late font swap. Fonts are one cause, not the only one. The
+repair is in `reader/reader.js` only: an explicit navigation holds its target until reader scroll intent or the next
+navigation, with bounded realigning. Harness scenarios 16–26 cover target stability, intent, Copiar enlace, index,
+PageDown, touch, Volver, resize, first-provision entry, the resize storm, and legacy 3c04 links on a staged directory
+that holds both releases.
+
+Final packages:
+- preferred `fbcb4e98b64f5dd00c82a387ce04a35c93681f9d1b4d52ce1181ca55d22e7ea3` over 9626 (870 provisions);
+- fallback `4a3b2e2fa13871f7dbe0903e317b091cfc52091ad376c62f01f3b9b630dc742c` over 3c04.
+
+They supersede f5a1937a/709b09c4. Only reader.js and publication.json differ from R4.
+
+Results on the final harness:
+
+| Run | Result |
+| --- | --- |
+| Preferred | 56/0, twice |
+| Fallback | 53/0 plus 3 N/A, twice |
+| Legacy staged | 71/0 |
+| No anchoring | 56/0 |
+| Old R4 fallback | fails 25 |
+
+Package verification, fail-closed, pin delta and rehearsal all pass. Native inputs are unchanged. Six bounded Opus
+review rounds ran (R5–R10). See `docs/four-instrument-reader-r5-receipt-2026-10-22.md` and its evidence JSON.
+Nothing is committed for R5, staged to a host, deployed, merged or pushed.
+
+Exactly one current next action: Codex re-reviews the R5 packet. Operator decisions stay separate: local commit
+authorization for R5, the choice of option, host staging, the pin change, deployment, and merge/push.
+
+
+### R5 independent Codex re-review — 2026-10-22
+
+Reviewed clean HEAD ca58f5879 (repair b8c344b97); the local commits supersede
+prior uncommitted status wording. Preferred fbcb4e98 and fallback 4a3b2e2f
+A/B pairs, all package-file hashes and manifest/descriptor IDs verify. Only UI
+JS and publication receipts differ from accepted R4 packages; native/canonical
+inputs are unchanged. Independent Node22/22 and targeted legacy193 checks4/4
+pass. The full preferred browser attempt was reviewer-terminated after43PASS
+lines, about178s total, without final JSON; do not count it as56/0. Full fallback
+was not attempted after that stop. Isolated touch-next scenario passes.
+
+One P2 blocker remains in both packages: after lifetime recovery exhaustion,
+keep-held suppresses passive selection indefinitely even with a misaligned
+target. Independent CDP counter fault injection on unchanged shipped fallback
+bytes plus a synthetic layout shift leaves visibleLIC191 while label/index/URL
+and copy identify193. This proves the terminal branch, not natural frequency of
+30 exhausting storms. Ending an unaligned hold at the terminal cap, resuming
+tracking and visibly reporting failure is required; no expiry timer is required
+for a healthy aligned hold. Add bounded terminal-cap/new-navigation regression.
+
+Report: docs/four-instrument-reader-r5-codex-review-2026-10-22.md, companion
+-evidence.json. Content/source baselines remain accepted; no DB/corpus repair
+requested. No source/package/host changes, commit, push, merge or deployment by
+Codex. Existing state preserved.
+
+Exactly one current next action (supersedes earlier R5 next actions): owning
+implementer addresses terminal recovery-cap behavior and returns fresh package
+hashes plus completed preferred/fallback/legacy browser evidence for focused
+re-review. Package choice and publication/integration permissions remain
+operator decisions.
+
+
+### R6 terminal recovery-cap repair — 2026-10-22 (Claude Sonnet 5.5; uncommitted)
+
+Addresses the single P2 in `docs/four-instrument-reader-r5-codex-review-2026-10-22.md`. Source change is
+`reader/reader.js` only (`settled()` terminal branch): when the 30 lifetime recovery chains are spent and the target is
+still off the reading line, the hold now ends (`unhold()`), `reader:hold-recovery-exhausted` is marked once, passive
+tracking resumes, and the notice "No se pudo mantener la posición solicitada; la selección sigue el texto visible."
+shows. It is not routed through `intent()`, so no `reader:intent` mark is emitted. A healthy aligned hold is unchanged and
+never expires; `go()` still starts a fresh hold with reset counters. The header comment that said spending budgets never
+ends the hold is rewritten.
+
+Regression: harness scenario 27 in `reader/browser-check.mjs`, labelled a fault-injection boundary test (not natural-storm
+coverage; scenario 26 is that). A CDP breakpoint in `keepHeld` (line found from the served source, no test hook in the
+shipped bytes) sets the spent counters after `reader:target-settled`; synthetic padding then displaces LIC 193 at 390px with
+fonts blocked. Asserted: exhaustion mark once; notice visible; label/index/URL/copy equal the reading-line article
+(191; the document title is not asserted); zero intent marks; no `scrollTo` calls over 1.8s idle; a 100px reader scroll leaves the selection consistent (it stays on 191, so this shows consistency, not a change;
+passive tracking resuming is shown by the 193→191 switch after the unhold); an index-button
+navigation to 193 re-holds, settles at 8px below the bar, copies exactly and stays idle. The first dev run failed only on
+the notice assertion (harness read it after Copiar had replaced the message); the read was moved earlier.
+Limits: the counters are injected, so the natural frequency of 30 exhausting storms stays unmeasured, and the new-navigation
+check observes re-holding rather than reading the reset counters.
+
+Hashes: `reader/reader.js` `68344a3001803e3282c135259383d07f1ad3225f7e934c5f71476d4b2879a28a`;
+`reader/browser-check.mjs` `954951a3a292af81eda17304e9ba076574edf0004d24c7e5d8d64fd8f89f35f9`.
+Packages (ignored; `.work/r11-*`, A=B byte-identical): preferred
+`8eb8d8b4fcfd09c7b9414263494789207de38ea1968b01103fbb010df2b65a6f` over 9626 (1790 listed, 1791 on disk incl.
+`publication.json`, 0 bad hashes); fallback `9afcaedbd7aad277cdd4d0c63ee0a019675cf0b933454b2594d1dfa299b2a30a` over 3c04
+(1784/1785, 0 bad). Versus R5 (`fbcb4e98`, `4a3b2e2f`) only `reader.js` and `publication.json` differ. Native, schema, Cargo
+and corpus are untouched; no Rust gates rerun.
+
+Checks run: `node --test reader/` 22/22. Full harness through `mech`, one pass each, wall times 13:03–13:26:
+preferred 57/0 (5m18s), fallback 54/0 + 3 N/A (112 Quintus/Sextus/Séptimus absent from 3c04; 5m11s), legacy 3c04 links on a
+preferred-staged directory `.work/r11-legacy-stage` 72/0 (7m14s), preferred no-anchoring 57/0 (5m20s). Scenario 27 and
+scenario 26 pass in all four; no run stalled. Reports: `.work/evidence/r5/r11-final-{preferred-1,fallback-1,legacy-staged,preferred-noanchor}.json`.
+Not rerun: mutation campaign, Safari/Firefox/real-device, fail-closed and rehearsal receipts (UI-only change, not requested).
+`git diff --check` passes.
+
+Evidence bindings (SHA-256 of the reports in ignored `.work/evidence/r5/`): `r11-final-preferred-1.json`
+`1a5c70effc88598602673606ab7c90ff9cae2b667975e5473f15a6a0fcd88d91`; `r11-final-fallback-1.json`
+`0464a2a712afad7d1568957b0fbbb995662c4912319a1710b356ac5c1d7ef886`; `r11-final-legacy-staged.json`
+`6441fa611056723deaeed66106ad417fffc7ce1895fd5ee8b01de97a5305c297`; `r11-final-preferred-noanchor.json`
+`9c9523cabe7350682f633720ceef282c2377df722c06ae7a563684db43c4b5da`. The fallback package was rebuilt with
+`.work/r10-fallback-a` (the R5 fallback package) as release input and the preferred one from `.work/release-main-a`;
+`diff -rq` against the R5 packages shows only `reader.js` and `publication.json` differ in both. The legacy directory
+was built by copying `.work/baseline-unmodified-ui` (deployed 3c04) and running `reader/stage.mjs` with the R6 preferred
+package; its `reader.js` equals the package's.
+
+Discrimination check: the final harness run against the unchanged R5 fallback package `.work/r10-fallback-a` gives 53 passed,
+1 failed, 3 N/A. The only failure is scenario 27: the requested article 193 stays in label/index/URL/copy while the reading
+line is on 191, no notice appears, and the 100px reader scroll then records a `reader:intent` mark. No other scenario fails.
+Report `.work/evidence/r5/r11-harness-on-r10-fallback-a.json` SHA-256 `37b480c8501f73b50ce4e396c504d27082e1a76a5956db71d38c29f78fea68a6`.
+
+Provenance: `docs/reader-r5-account-switch-2026-10-22.md` (written during the work, by the Codex side) describes the
+uncommitted `reader.js`/`browser-check.mjs` edits as of unknown author. Their snapshot hashes equal the R6 hashes above;
+they are this repair, so no other writer's edits were found. That note was not modified.
+
+Unresolved risks for Codex to judge: the notice is a 5.5s status toast that a later message (for example Copiar) replaces;
+the no-false-selection contract rests on unholding, not on the toast.
+
+Exactly one current next action: Codex focused re-review of the R6 hashes and reports above. Commit, package choice,
+host staging, pin change, deployment, merge and push remain separate operator decisions. Unrelated untracked files preserved.
+
+
+### R6 focused Codex re-review — 2026-10-22
+
+Reviewed committed HEAD `256d1b410917d435b1e355c3b84a71d190f658bc`; the prior R6 “uncommitted” heading is historical. Both source hashes, all five final/discrimination report hashes, publication IDs, file sizes/hashes, manifests, A/B pairs and R5 package deltas verify. Preferred `8eb8d8b4…` and fallback `9afcaedb…` resolve the prior P2 terminal-cap finding. No new blocking finding in this focused scope.
+
+Independent scenario-27 Chrome rerun passes in all four recorded R6 configurations (preferred, fallback, legacy-staged, preferred without anchoring); the same check fails as expected on unchanged R5 fallback. Tracking/copy follow visible191, notice appears, no intent or idle correction loop, and new navigation settles193. Healthy aligned holds still do not expire; source resets counters on new hold. A replaceable toast is acceptable because correctness rests on unholding. Natural cap-exhaustion frequency remains unmeasured.
+
+Claude's full-suite totals remain attributed evidence, not independent Codex reruns. Fresh Node22/22 in the preceding turn covers identical source hashes; current diff check passes. Native/canonical checks not repeated for UI-only scope. Report and reproducible evidence: `docs/four-instrument-reader-r6-codex-review-2026-10-22.md` and companion `-evidence.json`. Pre-existing R5 untracked documents preserved; no source/package/host edits or Git publication actions by Codex.
+
+Exactly one current next action (supersedes prior R6 review request): operator selects preferred or fallback and authorizes the desired publication/integration actions. The technical R6 UI hold is cleared for these hashes; host staging, pin change, deployment, merge and push remain separate operator decisions.
+
+
+### R6 preferred package staged to the host — 2026-10-22 (operator-authorized: host staging and pin change only)
+
+Operator chose the **preferred** package after the R6 Codex review and authorized exactly two actions: staging to the host
+and the pin change. Done by Claude Sonnet 5.5:
+- Back-up before any write: `.work/host-backup-2026-10-22-r6/` (3572 files: `Lex-Mex-public`, `LEG4L-public-lex-mex`,
+  `lex-mex-release.json`).
+- Staged `.work/r11-preferred-a` (`8eb8d8b4fcfd09c7b9414263494789207de38ea1968b01103fbb010df2b65a6f`, release 9626bfe4, 870
+  provisions) with `reader/stage.mjs` to `/Users/jr/Documents/4ll4/Webpage/Lex-Mex/public`, then that directory to
+  `/Users/jr/Documents/4ll4/Webpage/LEG4L_L4BS/public/lex-mex`. Both stay gitignored in the host repo. Both still publish the
+  old 3c04 release next to 9626, so pinned 3c04 links keep their release.
+- Replaced `/Users/jr/Documents/4ll4/Webpage/LEG4L_L4BS/lex-mex-release.json` with the pin generated from the R6 package
+  (`.work/evidence/r5/r11-pin-preferred.json`): `release_id` 9626bfe4…, `publication_id` 8eb8d8b4…, `corpus_commit`
+  85c41f38…, `manifest_sha256` 8fb340f2…. The R5-era `proposed-pins-r10/preferred_870.json` was NOT used (it names the
+  superseded R5 id fbcb4e98…). Versus that file only `publication_id` differs.
+- Checks run: `diff -rq` package vs both staged directories (only the retained 3c04 release and a `.wrangler` folder
+  differ); host `node scripts/verify-lex-mex.mjs` → "Verified Lex-Mex 9626bfe45c4e (1790 artifacts)".
+- The pin file change in the host repo (`main`) is uncommitted there. No host commit, `npm test`, `npm run build`,
+  deployment, push or merge was run. The live site (`https://www.leg4ll4bs.com/lex-mex/`) is unchanged and still serves 3c04
+  under the old UI.
+
+Rollback: restore the three paths from the backup above (exact `diff -r` restore; it deletes the staged `releases/9626…`
+directory, which needs separate authorization), or stage `.work/baseline-unmodified-ui` into both destinations and restore the
+backed-up pin (non-destructive; keeps `releases/9626…`), then rebuild and redeploy if already deployed.
+
+Handoff for Codex: in `/Users/jr/Documents/4ll4/Webpage/LEG4L_L4BS` run `npm test` (it builds, then runs the rendered-HTML
+test) and `npm run build`; then deployment and live checks (`/lex-mex/`, an Art. 112 Quintus link, a PDF range request,
+an old pinned 3c04 link) per `HANDOFF.md`. That repo's `AGENTS.md` requires operator authorization to commit or deploy, and
+past deploys went through the Sites helper from a temp directory, not from this checkout; this plan records the operator's
+intent for Codex to run them but is not itself the deploy authorization for the host repo commit, deployment or push.
+Re-verify the pin delta and the staged hashes first.
+
+
+### Host npm validation — 2026-10-22 (Codex direct execution)
+
+Reverified host pin equals R6 preferred staged descriptor and all1790 listed file sizes/hashes match; retained3c04 manifest exists. In `/Users/jr/Documents/4ll4/Webpage/LEG4L_L4BS`, Codex directly ran `npm test` (exit0,7/7 tests, including build) and then `npm run build` (exit0). Both prebuild verifiers pass1790 artifacts; both builds prepare32 verified PDFs. Non-failing warnings: Node DEP0205 module.register deprecation and Vinext unknown route classification. Git status unchanged: existing modified pin and unrelated untracked print-logo directory preserved. Prior mechanical run also passed; these are the operator-requested direct reruns. No source changes, commits, deployment or push. Exactly one current next action: obtain operator authorization for the desired host commit/deployment actions, then perform corresponding live acceptance checks.
+
+
+### R6 supplemental findings ruling — 2026-10-22
+
+Codex reviewed Claude's code-review findings and independently reproduced F1's combined-state defect on unchanged preferred8eb8d8b4: fault-injected loading=true plus terminal counters leaves visible191 but label/index/URL/copy193 despite unholding, notice and subsequent reader scroll. Natural stalled filling/cap frequency was not measured. This narrows the earlier post-fill acceptance and restores a technical publication hold for F1; both packages share affectedJS. F2 lifetime cap is the intended reviewed design; keep it. F3/F4 disclosed, F5–F7 nonblocking harness notes; separate-repository appendix not reviewed.
+
+Report: `docs/four-instrument-reader-r6-findings-codex-ruling-2026-10-22.md` and companion evidenceJSON with reproducible probe. Existing host pin commit7d61f95 remains intact; direct npm7/7/build results describe that existing package and do not cover a future repair. No source/package/host changes or commits by Codex in this ruling.
+
+Exactly one current next action (supersedes deployment next actions): owning implementer repairs F1, adds pending-loading terminal regression including filling completion and later navigation, and returns fresh package hashes/reports for focused re-review before restaging and deployment.
+
+
+### F1 repair completed — 2026-10-22 (Codex, uncommitted)
+
+Removed the redundant loading guard from track(); existing held/settle guards protect navigation. Real paused/resumed fill regression passes repaired bytes and discriminates old R6. Node22/22; full browser results: legacy:73pass/0fail/0NA, fallback:55pass/0fail/3NA, noanchor:58pass/0fail/0NA. Both A/B packages/hash lists verify; only reader.js/publication.json differ from R6. Preferred `2df70a8ab0f43571ed6ca1500ff4637e4de252ee1edc190befeda8b938b8f1d4`; fallback `21d4e3870bb0baf70c3761451ea053909364204529dad899d82406991c5b720a`.
+
+Report/evidence: `docs/four-instrument-reader-f1-repair-2026-10-22.md` and companion `-evidence.json`. Mechanical gates: fmt/clippy/workspace tests424 pass; LRITF145 articles/126 references and IFPE59 articles/115 references validate with0 issues. Mechanical agent ran fallback/legacy suites; parent ran no-anchoring suite. Corpus/PDF content unchanged. Source uncommitted; host remains at prior R6 pin7d61f95; no staging/deploy/push.
+
+Exactly one current next action: focused independent re-review of this new packet before restaging the already-selected preferred option.
