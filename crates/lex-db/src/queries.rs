@@ -49,7 +49,7 @@ impl Reader {
             let mut cursor = stmt.query([owner])?;
             while let Some(row) = cursor.next()? {
                 let printed: String = row.get(0)?;
-                if lex_parse::labels::canonical_slug(&printed) == label {
+                if lex_grammar::labels::canonical_slug(&printed) == label {
                     qualifications.push(json!({"kind":"not_separately_parsed","printed_label":printed,"evidence":serde_json::from_str::<Value>(&row.get::<_,String>(1)?)?,"input_path":row.get::<_,String>(2)?,"source_pointer":row.get::<_,String>(3)?}));
                 }
             }

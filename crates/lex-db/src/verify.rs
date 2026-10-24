@@ -432,7 +432,7 @@ fn retirement_proof(
     let target = format!(
         "{}:article:{}",
         owner,
-        lex_parse::labels::canonical_slug(&retirement_text(row, "printed_label")?)
+        lex_grammar::labels::canonical_slug(&retirement_text(row, "printed_label")?)
     );
     ensure!(
         target == retirement_text(retirement, "provision_id")?,
@@ -493,8 +493,8 @@ fn retirement_proof(
         ensure!(
             found[0]["instrument_id"] == owner
                 && found[0]["provision_type"] == "article"
-                && lex_parse::labels::canonical_slug(&retirement_text(found[0], "number")?)
-                    == lex_parse::labels::canonical_slug(&retirement_text(row, "printed_label")?)
+                && lex_grammar::labels::canonical_slug(&retirement_text(found[0], "number")?)
+                    == lex_grammar::labels::canonical_slug(&retirement_text(row, "printed_label")?)
                 && !retirement_text(found[0], "text")?.trim().is_empty(),
             "retirement target differs"
         );

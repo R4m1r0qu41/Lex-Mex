@@ -36,25 +36,34 @@ fn main() {
     );
     let root = std::path::PathBuf::from(std::env::var("CARGO_MANIFEST_DIR").unwrap()).join("../..");
     let mut files = Vec::new();
-    for dir in [
+    let dirs = [
         "crates/lex-db/src",
+        "crates/lex-analysis/src",
         "crates/lex-core/src",
+        "crates/lex-grammar/src",
+        "crates/lex-link/src",
         "crates/lex-parse/src",
         "schemas",
         "fixtures/database",
-    ] {
+    ];
+    for dir in dirs {
         visit(&root, &root.join(dir), &mut files);
     }
     for file in [
+        "crates/lex-analysis/Cargo.toml",
         "crates/lex-core/Cargo.toml",
+        "crates/lex-grammar/Cargo.toml",
+        "crates/lex-link/Cargo.toml",
         "crates/lex-parse/Cargo.toml",
         "crates/lex-cli/src/db.rs",
     ] {
         files.push(file.into());
     }
-    println!("cargo:rerun-if-changed=../../schemas");
-    println!("cargo:rerun-if-changed=../lex-core/src");
-    println!("cargo:rerun-if-changed=../lex-parse/src");
+    // Directory-level triggers: adding a file to a pinned directory reruns
+    // this script, not only editing a file already in the inventory.
+    for dir in dirs {
+        println!("cargo:rerun-if-changed={}", root.join(dir).display());
+    }
     let mut code = String::from("&[\n");
     for path in files {
         let full = root.join(&path).canonicalize().unwrap();
@@ -70,6 +79,16 @@ fn main() {
     std::fs::write(
         std::path::PathBuf::from(std::env::var("OUT_DIR").unwrap()).join("builder_inputs.rs"),
         code,
+    )
+    .unwrap();
+    let listed = dirs
+        .iter()
+        .map(|dir| format!("{dir:?}"))
+        .collect::<Vec<_>>()
+        .join(", ");
+    std::fs::write(
+        std::path::PathBuf::from(std::env::var("OUT_DIR").unwrap()).join("builder_dirs.rs"),
+        format!("&[{listed}]"),
     )
     .unwrap();
     println!("cargo:rerun-if-changed=build.rs");
