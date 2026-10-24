@@ -1,6 +1,15 @@
 {
  "artifact": "parser-reader-integration-evidence",
  "authority": "Operator instruction 2026-10-24: normal-merge the parser into main; sync updated main into the published reader branch at b9b8be012; keep R7's unpublished UI changes separate. Candidates P and R were built and verified first; both real branches were then fast-forwarded to those exact tested commits. Nothing was pushed, published or deployed.",
+ "clippy_lint_fix": {
+  "builder_identity": "the fix touches crates/lex-db/src/build_tests.rs, a pinned builder directory, so builder identity at the new main differs from P; the accepted DB still truthfully names builder C and needs no rebuild",
+  "fix": "two test assertions became assert_eq!(x, Vec::<String>::new()): crates/lex-db/src/build_tests.rs and crates/lex-cli/src/main.rs (test code only). Commit ce4bde27c on main (cherry-picked with -x from 0661d5ef0 on the R7 branch).",
+  "not_changed": "the pushed reader branch f11beebce still has both lints (a PR from it would go red; it gets the fix at its next main sync); rust-toolchain.toml still says stable, so the next stable bump can turn CI red again; pinning to 1.99.0 is a repo policy change left to the operator",
+  "problem": "CI (rust-toolchain.toml channel = stable) installs Rust 1.99.0, whose clippy flags assert!(x.is_empty()) (clippy::assert_is_empty). Local toolchain was 1.95.0. CI was red at the baseline and stayed red after the push (run 40126862221).",
+  "receipts": ".work/parser-reader-integration/lint/ (ignored), hash-manifest.json SHA-256 d0835bbe95c7b4b5f1df65758dfc215f2cbef8aa24a1415d378d0cc3585ffee4",
+  "scope": "clippy 1.99.0 with --keep-going over the whole workspace found exactly these two lints on main and on the R7 candidate (the earlier count of 35 occurrences of the assertion pattern was the pattern, not the lint)",
+  "verification": "in a disposable clone, with toolchain 1.99.0 and the same steps as CI: fmt, clippy -D warnings, cargo test --locked --workspace (425 passed, 0 failed), validate lritf (145/11/126/0), validate ifpe-dcg-2021 (59/4/115/0), all exit 0; clippy also clean on 1.95.0; on the R7 candidate clippy is clean on both. main's tree equals the tree that was verified."
+ },
  "conflict_resolution_R": {
   "check": "cargo build --locked -p lex-cli at R exits 0 (a lockfile that disagrees with the manifests fails under --locked)",
   "file": "Cargo.lock",
@@ -433,13 +442,28 @@
    "node_tests": "node --test reader/: 24 tests, 24 pass (R7's inventory)",
    "ui_hashes": "the packaged index.html, reader.js, reader-core.mjs and reader.css equal the source SHA-256s in R7's tweaks receipt; all five UI assets are byte-identical to the R7 preferred package built earlier in reader-five"
   },
+  "libro_fix": {
+   "browser_check_gap": "reader/browser-check.mjs lines 363-364 build the expected export path as title then chapter; it would mis-predict for a codigo with Libros, so update it when such a code enters the reader",
+   "change": "headingLevels starts with libro; a new indexLevels (libro, title, chapter) feeds indexGroup. This also changes indexGroup, which goes beyond Codex's P3 (headingPath only) but is the same omission: two Libros repeating a T\u00edtulo name would otherwise share an index group.",
+   "commit": "a21459733 (receipt note a6c5db727)",
+   "equivalence": "old and new heading code give identical headingPath, indexGroup (both modes), provisionMarkdown and instrumentMarkdown for all 870 provisions of the four preferred instruments (none has a Libro)",
+   "not_run": "no browser harness on the rebuilt package. The equivalence check is enough to move the local branch, not to publish: before any restage or pin change, run the preferred browser harness once on the rebuilt package",
+   "package": "rebuilt preferred package (A and B identical): only reader-core.mjs and publication.json differ from the pre-fix R7 package; reader-core.mjs is now f5f5d013..., publication 0d142a9a...",
+   "tests": "node --test reader/ 25 of 25; the new fixture test fails without the change (24 of 25)"
+  },
   "not_run": "no browser or mutation campaign (UI bytes unchanged from R7's reviewed packages); no host staging, pin change, publication or deployment; promoting, restaging and publishing R7 each need their own instruction",
   "open_item": "Codex's R7 review P3 is still open: headingPath in reader/reader-core.mjs omits the Libro level; nonblocking for the four preferred instruments (no nonempty libro) but needs a fix with a fixture before the reader covers codes that use Libro",
   "parents": [
    "162128517576b043a389f753578c5cabb4540898 (R7, unpublished UI)",
    "f11beebce06b90a2d590acab80078b09fbd254c4 (R, the parser-synced published reader)"
   ],
-  "status": "LOCAL CANDIDATE ONLY: not promoted, not pushed; feat/reader-tweaks-r7 and the reader-five worktree (2 untracked Codex review files) were not touched"
+  "promotion": {
+   "not_pushed": "R7 is unpublished UI and the only push instruction covered P/R; origin has no R7 branch",
+   "rechecks": "R7 tip was still 162128517; the final commit descends from it; reader-five's 2 untracked files byte-identical to the inventory before and after, and none collides with the new tree; no registered worktree other than reader-five has the branch checked out",
+   "result": "feat/reader-tweaks-r7: 162128517 -> 0661d5ef0ff61517287c4de0437b90f6bb60ffcc by git merge --ff-only; the tree equals the verified candidate's tree",
+   "when": "2026-10-24, on the operator's instruction 'go for R7'"
+  },
+  "status": "PROMOTED LOCALLY (feat/reader-tweaks-r7 fast-forwarded in the reader-five worktree); NOT pushed, restaged, pinned or deployed"
  },
  "r_gates": {
   "exporter_package_parity": {
@@ -461,6 +485,7 @@
   "node_tests": "node --test reader/ at R: 22 tests, 22 pass, 0 fail (the b9b8 inventory; R7's 24 were not imported)",
   "reader_source": "git diff b9b8be012..R over reader/ is empty (UI source byte-identical to the published b9b8 source); parser, db, grammar, analysis and link crate sources equal P"
  },
+ "review_tier_note": "The ongoing independent Codex audit is bound to P/R. The Libro fix (a21459733), the lint fix (0661d5ef0 / ce4bde27c) and the R7 promotion have had advisor review only.",
  "status": "PROMOTED_AND_PUSHED",
  "tips_at_candidate_build_historical": "HISTORICAL (checked right after the candidate merges, before promotion): main 85c41f389; refactor/parser-split 11a3a9095; feat/four-instrument-reader-design b9b8be012; feat/reader-tweaks-r7 162128517 (checked after the merges; origin/main equals main). After promotion main is P (then the docs commit) and the reader branch is R; see 'promotion'."
 }

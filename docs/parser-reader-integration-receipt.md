@@ -1,7 +1,7 @@
 # Parser and reader integration receipt, 2026-10-24
 
 Executes I0–I3 of [the integration plan](plans/parser-reader-integration.md). Machine evidence:
-`parser-reader-integration-evidence.json`. Status: **promoted and pushed (`main` and the reader branch); not published or deployed.**
+`parser-reader-integration-evidence.json`. Status: **promoted and pushed (`main` and the reader branch); R7 promoted locally only; nothing published or deployed.**
 
 ## Scope and authority
 
@@ -111,19 +111,39 @@ Raw integration receipts (native, exporter and package logs, DB verify and golde
 preservation inventory, and tree digests for the four releases and four packages) are kept in the ignored
 `.work/parser-reader-integration/`, bound by `hash-manifest.json` (SHA-256 `f7b92404…`).
 
-## R7 candidate (local only)
+## R7 (promoted locally), Libro fix and CI lint fix
 
-Started per the operator's "start with R7". A normal merge of R (`f11beebce`) into R7 (`162128517`) on a new local branch,
-`integration/r7-parser-sync-2026-10-24`, gives `d2ab64d61ecfe103cc2a2980c5d04ed63c20bb7a` with no conflicts. `reader/`
-equals R7 byte for byte, and crates and Cargo files equal R. Gates in a disposable clone: fmt and clippy clean; 430 Rust
-tests; both validations valid; `--locked` builds for the candidate and for R7 alone; `node --test reader/` 24 of 24
-(R7's inventory); four releases and four packages (R7-only and candidate binaries, two builds each) byte-identical; the
-packaged UI files equal the source hashes in R7's tweaks receipt; against release `9626bfe4` only the commit-derived
-fields differ and all 1782 listed files match. No browser campaign was needed (UI bytes unchanged from R7's reviewed
-packages). **Not promoted, not pushed, nothing restaged or deployed**: `feat/reader-tweaks-r7` and the reader-five
-worktree were not touched. Codex's R7 review P3 (`headingPath` omits the Libro level) is still open and needs a fix with a
-fixture before the reader covers codes that use Libro. Raw receipts: `.work/parser-reader-integration/r7/`
-(`hash-manifest.json`, SHA-256 `2dd60b92101b5a38c0608e44c868e44fcabaeb0c537a006a44260c4a9f26a824`).
+**R7.** The updated reader was merged into R7 (`d2ab64d61`, clean), the Libro fix and a lint fix were added, and
+`feat/reader-tweaks-r7` was fast-forwarded from `162128517` to `0661d5ef0ff61517287c4de0437b90f6bb60ffcc` in the
+reader-five worktree (rechecks first: tip unchanged, ancestry, its 2 untracked files byte-identical before and after and
+not colliding). Gates at the merge: 430 Rust tests, both validations, `--locked` builds, `node --test reader/`, and four
+releases and four packages byte-identical between R7-only and merged binaries; against release `9626bfe4` only the
+commit-derived fields differ. **Local only: not pushed, restaged, pinned or deployed.**
+
+**Libro fix** (`a21459733`). `headingLevels` now starts with `libro`, and a new `indexLevels` (Libro, Título, Capítulo)
+feeds the index grouping. The index change goes beyond Codex's P3 (which named only `headingPath`) but is the same
+omission: two Libros repeating a Título name would otherwise share an index group. New fixture test (25 of 25; it fails
+without the change). Old and new heading code give identical output for all 870 provisions of the four preferred
+instruments (none has a Libro). The rebuilt package differs from the pre-fix R7 package only in `reader-core.mjs` and
+`publication.json`. **No browser harness was run on it:** the equivalence check is enough to move the local branch, not to
+publish; run the preferred browser harness once on the rebuilt package before any restage or pin change. Also,
+`browser-check.mjs` (lines 363-364) predicts the export path as Título then Capítulo and would mis-predict for a código
+with Libros; update it when such a code enters the reader.
+
+**CI clippy lint** (`ce4bde27c` on main, cherry-picked with `-x` from `0661d5ef0`). CI installs `stable` (Rust 1.99.0,
+clippy flags `assert!(x.is_empty())`); my toolchain was 1.95.0. Clippy 1.99.0 over the whole workspace, with
+`--keep-going`, found exactly two lint sites, on main and on the R7 candidate (the earlier "35" counted the assertion
+pattern, not the lint). Both became `assert_eq!(x, Vec::<String>::new())` (test code only). In a disposable clone with
+toolchain 1.99.0 and CI's steps: fmt, clippy `-D warnings`, 425 tests, `validate lritf` and `validate ifpe-dcg-2021` all
+pass; clippy is also clean on 1.95.0; main's tree equals the verified tree. Not changed: the pushed reader branch
+`f11beebce` still has both lints (a PR from it would go red; it gets the fix at its next main sync), and
+`rust-toolchain.toml` still says `stable`, so a future stable bump can turn CI red again (pinning to `1.99.0` is a repo
+policy change for the operator). The fix touches `crates/lex-db/src/build_tests.rs`, a pinned builder directory, so builder
+identity at the new main differs from P; the accepted DB still truthfully names builder C and needs no rebuild. Receipts:
+`.work/parser-reader-integration/lint/` (`hash-manifest.json` SHA-256 `d0835bbe...`).
+
+**Review tier:** the ongoing independent Codex audit is bound to P/R. The Libro fix, the lint fix and the R7 promotion have
+had advisor review only.
 
 ## Handoff records
 
