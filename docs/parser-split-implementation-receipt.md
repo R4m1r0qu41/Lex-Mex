@@ -2,23 +2,32 @@
 
 Living narrative for [the execution plan](plans/parser-responsibility-split.md);
 machine evidence is in `parser-split-implementation-evidence.json`. Status:
-**IN PROGRESS**. G1, G2 and G3 are candidates awaiting their A/B comparisons;
-nothing is accepted, merged, pushed or deployed.
+**IN PROGRESS**. The strict A/B queue finished: C1, C2 and C3 each match the
+baseline exactly, awaiting advisor review; nothing is accepted, merged, pushed or
+deployed.
 
 ## Where things stand
 
 | Gate | Status | What exists | What is still required |
 | --- | --- | --- | --- |
-| G0 | IN PROGRESS | strict harness (17/17 self-test), frozen baseline B binary, coverage manifest, supplement set; B1 and B2 are legacy | strict B3 == B4 on retained, sweep and supplement runs, advisor acceptance of coverage |
-| G1 | candidate | commit `07cfa5536`, binary C1; advisor accepted the symbol and dependency map, comparator allowlist empty | C1 A/B exact |
-| G2 | candidate | commit `fd70e4370`, binary C2 | C2 A/B exact |
-| G3 | candidate | commits `5c074e21d` and `1250889ce`, binary C3 | C3 A/B exact, advisor review of the final map |
+| G0 | baseline pair exact | strict harness (17/17 self-test), strict B3 == B4 on retained, sweep and supplement; B1 and B2 are legacy | advisor acceptance of coverage (106 parse-replay blockers) and the date-inertness record |
+| G1 | A/B exact | commit `07cfa5536`, binary C1; C1 == B4 on all three run kinds; advisor accepted the symbol and dependency map | advisor gate decision |
+| G2 | A/B exact | commit `fd70e4370`, binary C2; C2 == B4 on all three run kinds | advisor gate decision |
+| G3 | A/B exact | commits `5c074e21d` and `1250889ce`, binary C3; C3 == B4 on all three run kinds | advisor review of the final map |
 | G4 | not started | none | DB builds, verify, goldens, B/B versus B/C parity |
 | G5 | not started | none | advisor final pass, commit-bound Codex handoff |
 
 Commits on `refactor/parser-split` (baseline B = `85c41f389`): `ff38d1882`,
-`07cfa5536`, `f1da6f1e7`, `fd70e4370`, `5c074e21d`, `1250889ce`. Binary hashes
-and per-tree native results are in the evidence file.
+`07cfa5536`, `f1da6f1e7`, `fd70e4370`, `5c074e21d`, `1250889ce` (the code under
+test, binary C3), then `c4439068e`, `d05d98d3b`, `73f42a983`, `ad1c8382a` and
+`366cef07f` (docs, harness, self-test and driver only). `git diff
+1250889ce..366cef07f` over crates, manifests, lock, toolchain, schemas, database
+fixtures and adapters is empty, so HEAD production code equals C3's source. Binary
+hashes and per-tree native results are in the evidence file.
+
+G0 pass wording (plan): "Unavailable retained inputs must be resolved or
+explicitly returned as a coverage blocker; do not call reduced coverage full
+acceptance." 106 are returned as blockers here; this is not full coverage.
 
 ## G0 — isolation, reproducible baseline and replay coverage
 
@@ -31,13 +40,16 @@ and per-tree native results are in the evidence file.
   whole-corpus sweep through one frozen binary, rebuilding a disposable root from
   `git archive B` at one fixed path with a scrubbed environment, so no
   normalization is needed. Comparison is byte-exact; the comparator allowlist is
-  empty. The harness hash is recorded when a run ends, not when it starts (see
-  the caveat in the evidence file).
+  empty. The harness hash is taken at process start for every valid run; only the
+  legacy runs B1 and B2 recorded it at the end (see the evidence rules below).
 - Retained replay B1 finished: 1771 rows over 355 instruments. Baseline facts the
   candidates must reproduce exactly: `validate` exits non-zero for `cjm`,
   `cub-dcg-2005`, `cucb-dcg-2004`, `laero`, `oaac-dcg-2009` and `scap-dcg-2012`;
   `lfiiedb` fails at `parse` (its retained text does not match the committed
-  manifest hash); `oga` fails at the temporal-request stage. `cjm` and `laero`
+  manifest hash); `oga` fails at the temporal-request stage. In the supplementary set,
+  `lftr` fails `validate` (327 articles, 0 transitories, 106 references, 2 issues;
+  cause not diagnosed). All of these are pre-existing and reproduced identically
+  by every run; none was fixed here. `cjm` and `laero`
   fail adapter-frozen article counts (954 versus 952 and 109 versus 100), tied
   to the heading-leak holds recorded in
   `docs/heading-leak-permanent-acceptance-2026-10-21.md`. The other causes were
@@ -52,10 +64,19 @@ and per-tree native results are in the evidence file.
   absent were 111 `diputados`-family and 2 `itf-dcg`; those families are replayed
   through 346 and 7 other instruments, but no claim of complete parse coverage is
   made. `cub-dcg-2005` and `lfiiedb` are replayed but not provenance-matched.
-- Date inertness: `derive-temporal` reads today's UTC date. The committed corpus
-  has no relevant date on or after 2026-10-01, and the 354 B1 derive outputs
-  resolve commencement dates no later than 2026-01-20, so the run date cannot
-  change them. The same scan of the sweep outputs is still pending.
+- Date inertness: `derive-temporal` reads today's UTC date. The 354 B1 derive
+  outputs resolve commencement dates no later than 2026-01-20. An earlier note
+  here said the committed corpus has no date on or after 2026-10-01; that was too
+  broad. `corpus/mx/lritf/temporal-analysis-result.json` holds two `end_condition`
+  fixed dates of 2027-04-01 (a model-proposed fallback for staged commencement,
+  not a derived commencement). Every strict run happened between 2026-10-23T23:42Z
+  and 2026-10-24T10:35Z, so that date was in the future for all of them and the run
+  date cannot change classification among B3..C1. The scan covered ISO date values
+  in committed JSON only, not dates written in Spanish inside transitory text, and
+  shows inertness for these run dates only. B and C ran in the same window on the
+  same clock, so date dependence could produce false drift but could not hide a
+  real difference. The sweep derive outputs were not
+  scanned separately (their stdout carries no dates and the roots are not kept).
 - Self-replay. An earlier "B1 versus B2 exact" result came from a comparator
   that treated a field missing on one side as a note, and B1 lacked the
   whole-root digest and harness hash. That is legacy evidence and does not
@@ -85,10 +106,32 @@ and per-tree native results are in the evidence file.
   all fail. Its first run failed three cases because the test launched harness
   copies outside the repository without the documented repository variable; that
   was a defect in the test, fixed in `73f42a983`.
-- Queue: one committed driver (`prompts/parser-split-queue.py`) runs B3, B4, then
+- Queue: one committed driver (`prompts/parser-split-queue.py`) ran B3, B4, then
   C3, C2, C1 (each compared with B4) and stops at the first non-zero run or
-  comparison. C3, the final code, runs first so the decisive answer comes
-  earliest; every required run still happens.
+  comparison. C3, the final code, ran first so the decisive answer came
+  earliest; every required run still happened.
+
+### Strict A/B result (queue complete 2026-10-24T10:35:33Z)
+
+27 of 27 steps exited 0 with no stop marker. The harness blob (`9c329e0c`) and
+driver blob (`0c3a762c`) were unchanged throughout. Every one of the 15 runs
+reports the harness unchanged, run from the frozen snapshot, committed, binary
+unchanged and live source not changed during the run. All 12 strict comparisons
+report 0 drift, complete evidence, no legacy flag and the same harness revision on
+both sides.
+
+| Kind | Rows | Non-zero stages | Corpus tree (all five runs) | Root tree (all five runs) |
+| --- | --- | --- | --- | --- |
+| retained | 1771 | 8 | `08f0ca73fb81…` | `009366407bc0…` |
+| sweep | 2660 | 0 | `8349dee2eecb…` | `891d4f879950…` |
+| supplement | 35 | 1 | `a47619a8d1ed…` | `2657a292bb1f…` |
+
+Pairs: B3 vs B4 (baseline self-replay, binary `5c4a3f29`), then B4 vs C3
+(`31e21bc7`), C2 (`17b09ead`) and C1 (`90cc2657`) for each kind. `retained-B2` vs
+`retained-B3` with `--allow-legacy-format` exits 2 (1771 rows, drift 0, evidence
+incomplete); it is supplemental only. This shows identical output for the 355
+replayable instruments, the 32 standards and the 7 recovered inputs; it says
+nothing about the 106 instruments with no retained source.
 
 ## G1 — modules inside lex-parse (candidate)
 
@@ -135,6 +178,13 @@ crate through both the inventory path and the hard-coded `BUILDER_FILES` entry, 
 changed manifest in each new crate, and unchanged controls. Stale-binary
 mismatch and the cargo rebuild trigger are tested separately.
 
+Dependency audit against the plan's ownership table (measured with `cargo tree`):
+grammar has no project dependency; analysis and link depend on core and grammar
+only; parse depends on core, grammar, analysis and link (initial evidence plus the
+compatibility facade); db depends on analysis, core and grammar; no crate in
+analysis, link or grammar depends on parse, CLI, DB or export. This matches the
+table.
+
 ## Known tooling defects awaiting repair (R-001)
 
 Codex found that an interrupted run cannot restart under the same label: the
@@ -176,6 +226,6 @@ Two `mech` hand-back summaries swapped the `lritf` and `ifpe-dcg-2021` labels
 
 ## Next action
 
-Read `.work/parser-split/queue.log` as steps finish; the driver stops on any
-failure. After retained-B3 lands, run the legacy supplemental comparison against
-retained-B2.
+Advisor review of G0 coverage and the A/B result, then commit this record. Next
+are G4 (DB builds and parity) and G5. The R-001 repair is separate and changes the
+harness revision.

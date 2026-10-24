@@ -26,11 +26,17 @@
    "source": "1250889ce (clean tree)"
   }
  },
+ "c3_covers_head": "git diff 1250889ce..366cef07f over crates, Cargo.toml, Cargo.lock, rust-toolchain*, schemas, fixtures/database and adapters is empty: HEAD production code equals the source of binary C3. Commits after 1250889ce touch only docs, prompts (harness, driver, self-test, API fixture generator) and receipts.",
  "commits": {
   "07cfa5536": "G1 candidate (lex-parse split into modules) = source of binary C1",
   "1250889ce": "G3 candidate B (check_builder unknown-source rejection) = source of binary C3",
+  "366cef07f": "R-001 recorded for repair",
   "5c074e21d": "G3 candidate A (lex-link, consumer migration, pinning, API fixture)",
+  "73f42a983": "self-test fix (out-of-repo harness copies need PARSER_SPLIT_REPO)",
   "B_baseline": "85c41f3898d86737766564fa8d3fd8f6d4ae74a3",
+  "ad1c8382a": "record correction",
+  "c4439068e": "receipt and evidence update",
+  "d05d98d3b": "strict harness, self-test, driver",
   "f1da6f1e7": "harness extension (supplement, whole-root digest, extra sweep steps)",
   "fd70e4370": "G2 candidate (lex-grammar, lex-analysis) = source of binary C2",
   "ff38d1882": "G0 tooling: plan, harness, evidence skeleton"
@@ -69,10 +75,13 @@
   ]
  },
  "date_inertness": {
-  "committed_corpus_scan": "no provision effective/start/end date or instrument publication date on or after 2026-10-01 in corpus/mx",
+  "committed_corpus_scan": "CORRECTED. Scan of committed corpus JSON for date fields on or after 2026-10-01 found one file: corpus/mx/lritf/temporal-analysis-result.json holds two end_condition fixed_date values of 2027-04-01 (staged_commencement fallback, model-proposed, not a derived commencement). No other hit.",
+  "limit": "this shows inertness for the run dates used, not for arbitrary future dates (for example after 2027-04-01)",
   "reason": "derive-temporal reads today's UTC date",
-  "retained_B1_derive_outputs": "354 derive-temporal outputs scanned; latest resolved commencement 2026-01-20; none on or after 2026-10-01",
-  "sweep_outputs": "pending: scan sweep-B1 derive outputs once they exist"
+  "retained_B1_derive_outputs": "354 derive-temporal outputs scanned earlier; latest resolved commencement 2026-01-20",
+  "run_dates": "all strict runs executed between 2026-10-23T23:42Z and 2026-10-24T10:35Z; the only ISO date value after 2026-10-01 in committed JSON is 2027-04-01 (not a derived commencement); the scan did not cover dates written in Spanish inside transitory text",
+  "sweep_outputs": "not separately scanned: the sweep derive-temporal stdout carries no dates and the disposable roots are not retained; byte-identical results across runs that straddle UTC midnight are the supporting evidence",
+  "why_it_cannot_hide_drift": "B and C ran in the same window on the same clock, so date dependence could create false drift but cannot hide a real difference; it is a reproducibility question, not a threat to the gate verdict"
  },
  "deferred_and_notes": [
   "lex-parse remains pinned in the DB builder although lex-db no longer links it, so a change to lex-parse alone now changes DB builder identity (conservative choice)",
@@ -173,10 +182,10 @@
   }
  },
  "gates": {
-  "G0": "IN_PROGRESS (needs strict B3 == B4 on retained, sweep and supplement runs, and the self-test, which has passed)",
-  "G1": "CANDIDATE_AB_PENDING",
-  "G2": "CANDIDATE_AB_PENDING",
-  "G3": "CANDIDATE_AB_PENDING",
+  "G0": "BASELINE_PAIR_EXACT; plan PASS wording allows unavailable retained inputs to be 'explicitly returned as a coverage blocker' while forbidding calling reduced coverage full acceptance: 106 blockers returned, no claim of full coverage",
+  "G1": "AB_EXACT_PENDING_ADVISOR (C1 == B4 on retained, sweep and supplement; strict compare, empty allowlist)",
+  "G2": "AB_EXACT_PENDING_ADVISOR (C2 == B4 on retained, sweep and supplement; strict compare, empty allowlist)",
+  "G3": "AB_EXACT_PENDING_ADVISOR (C3 == B4 on retained, sweep and supplement; strict compare, empty allowlist)",
   "G4": "NOT_STARTED",
   "G5": "NOT_STARTED"
  },
@@ -207,7 +216,7 @@
    "negative_control": "a wrong path in a temporary test file failed with E0432 unresolved import",
    "paths": 126
   },
-  "caveat": "Superseded for valid runs: from commit d05d98d3b the harness hash is taken when the process starts and the harness executes from a frozen read-only snapshot. The older finish-time hash applies only to the legacy runs B1 and B2.",
+  "caveat": "Applies only to the legacy runs B1 and B2, whose harness hash was recorded when the run ended. For every valid run (from commit d05d98d3b) the hash is taken at process start and the harness executes from a frozen read-only snapshot.",
   "evidence_rules": [
    "compare is strict by default: a required field missing from one or both results fails",
    "results must have identical field sets and the same harness revision",
@@ -227,12 +236,19 @@
   "sha256_at_ff38d1882": "f28c7aa40e701f17c142749253e9b3226771c67f1a88bfea2276979b9abdc73a"
  },
  "known_baseline_replay_validation_failures": {
-  "note": "deterministic at B; expected to match exactly in C. Cause for the checked cases: adapter-frozen article counts or heading-leak holds recorded in docs/heading-leak-permanent-acceptance-2026-10-21.md; the committed corpus was not re-parsed for these.",
-  "observed_so_far": [
-   "cjm",
-   "cub-dcg-2005",
-   "cucb-dcg-2004",
-   "laero"
+  "note": "Deterministic at B and reproduced exactly by B3, B4, C1, C2 and C3. Cause for the checked cases: adapter-frozen article counts or heading-leak holds recorded in docs/heading-leak-permanent-acceptance-2026-10-21.md; the other causes were not diagnosed and the committed corpus was not re-parsed for them. Pre-existing; not fixed here.",
+  "retained_nonzero_stages": [
+   "cjm validate",
+   "cub-dcg-2005 validate",
+   "cucb-dcg-2004 validate",
+   "laero validate",
+   "lfiiedb parse (retained text does not match the committed manifest hash)",
+   "oaac-dcg-2009 validate",
+   "oga temporal-request",
+   "scap-dcg-2012 validate"
+  ],
+  "supplement_nonzero_stages": [
+   "lftr validate: 'corpus validation failed'; validation: invalid; 327 articles, 0 transitories, 106 references, 2 issues (cause not diagnosed)"
   ]
  },
  "legacy_evidence": {
@@ -317,12 +333,10 @@
   "timing_note": "fmt 0-1 s, clippy 3-17 s, tests 26-43 s wall per run, from the raw logs under .work/parser-split/logs/ and cargo 'Finished ... in' lines; the first G1/G2 mech runs did not time every command.",
   "validation_source_note": "Validation figures are taken from the raw logs and the written validation.json files. Two mech hand-back summaries (G1 and G3) swapped the lritf and ifpe-dcg-2021 labels; the raw logs and files were checked and agree across every tree."
  },
- "next_action": "Read queue.log as steps finish; the driver stops on any failure. After retained-B3 lands run the legacy supplemental check against retained-B2. G0 PASS needs strict B3 == B4 on all three run kinds.",
+ "next_action": "Advisor review of G0 coverage and the A/B result, then commit this evidence. Then G4 DB builds and parity, then G5 final read-only pass and commit-bound Codex handoff. R-001 repair is separate and changes the harness revision.",
  "open_items": [
-  "113 retained inputs absent: search by extracted_text_sha256 in campaign/ocr-foundry/db .work trees",
-  "CLI-to-symbol matrix extras: import-temporal, derive-temporal --repair-dates-only, link <slug>, db contract-probe",
-  "derive-temporal today-date inertness check across B and C run dates",
-  "whole-root digest comparison (field absent in B1; B2 onward)"
+  "G4: B/C DB builds (corpus_commit=B, builder_commit=1250889ce), verify, goldens, parity with the B/B release",
+  "R-001 repair after this queue (task recorded; harness and driver untouched)"
  ],
  "plan": "docs/plans/parser-responsibility-split.md",
  "rebuild_trigger_manual_check": {
@@ -395,7 +409,39 @@
    "C2 retained, sweep, supp, each compared with B4",
    "C1 retained, sweep, supp, each compared with B4"
   ],
-  "state": ".work/parser-split/queue-state.json; log .work/parser-split/queue.log; stop marker queue-stopped.json",
+  "results": {
+   "binaries": {
+    "B3_B4": "5c4a3f29",
+    "C1": "90cc2657",
+    "C2": "17b09ead",
+    "C3": "31e21bc7"
+   },
+   "comparison": "every strict compare rc=0, evidence_complete=true, legacy_format_allowed=false, notes=[], drift_count=0, same harness revision fa321e46 on both sides",
+   "final_corpus_tree_sha256_identical_across_B3_B4_C3_C2_C1": {
+    "retained": "08f0ca73fb81...",
+    "supp": "a47619a8d1ed...",
+    "sweep": "8349dee2eecb..."
+   },
+   "final_root_tree_sha256_identical_across_runs": {
+    "retained": "009366407bc0...",
+    "supp": "2657a292bb1f...",
+    "sweep": "891d4f879950..."
+   },
+   "legacy_supplemental": "retained-B2 vs retained-B3 --allow-legacy-format: rc=2, 1771 rows, drift 0, evidence incomplete (not a pass)",
+   "nonzero_stage_counts_identical_across_runs": {
+    "retained": 8,
+    "supp": 1,
+    "sweep": 0
+   },
+   "rows_per_kind": {
+    "retained": 1771,
+    "supp": 35,
+    "sweep": 2660
+   },
+   "run_flags": "all 15 runs: harness_unchanged, harness_frozen_snapshot, harness_committed, binary_unchanged True; harness_live_source_changed_during_run False",
+   "what_this_does_not_show": "parse behaviour for the 106 instruments with no retained source; native and API-path checks are separate evidence"
+  },
+  "state": "QUEUE COMPLETE 2026-10-24T10:35:33Z: 27 of 27 steps rc=0, no queue-stopped.json, harness blob 9c329e0c and driver blob 0c3a762c unchanged throughout. Files: .work/parser-split/queue.log, queue-state.json, result-<kind>-<label>.json, compare-<a>-vs-<b>.json",
   "stop_rule": "stop at the first non-zero run exit (3 = harness or binary changed mid-run) or non-zero comparison exit (1 drift or missing evidence, 2 legacy format)",
   "why_C3_first": "C3 is the final code; if it is exact the gate evidence is decisive, and C2 and C1 remain as bisection tools if it drifts. Every required run still happens."
  },
