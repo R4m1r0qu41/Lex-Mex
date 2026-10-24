@@ -125,3 +125,19 @@ Questions for Codex: (a) is small text at 0.65 acceptable or should it be exactl
 now carrying `## path` and `### Artículo N` headings; (c) any blocker before the operator considers restaging.
 
 Not authorized and not done: restaging, pin change, host `npm test`/`npm run build`, deployment, push, merge.
+
+## Follow-up 2026-10-24: Libro in the heading path (Codex R7 review P3)
+
+`headingLevels` now starts with `libro` and the index groups by Libro, Título and Capítulo (`indexLevels`), so a código with
+two Libros that repeat a Título name keeps them apart in the middle column, both Markdown exports and the index. Commit
+`a21459733` on the integration branch. A fixture test covers Libro ordering, empty and null Libros, separate headings and
+separate index groups; it fails without the change (24 of 25 pass), and `node --test reader/` passes 25 of 25.
+
+Data-level check: the old and new heading code produce identical `headingPath`, `indexGroup` (both modes),
+`provisionMarkdown` and `instrumentMarkdown` for all 870 provisions of the four preferred instruments (none has a Libro), so
+the rendered output for them is unchanged. No browser campaign was rerun on that basis.
+
+Changed source (SHA-256, supersedes the R7 values above): `reader/reader-core.mjs` `f5f5d013e1f476459f6f3a6cc88d32d0b04f6ddae0c32015d23f0d6119f33a36`; `reader/reader.test.mjs`
+`72fb7ae1a81622f533b3b0989fcd18259eb89b37ed81970ae317cc919deb1ca6`. The other packaged UI files are unchanged (`index.html`, `reader.js`, `reader.css`). Rebuilt preferred package
+over release `c305db4a…` (A and B byte-identical): publication `0d142a9a88b049dcf6623e599783a862fdb839c01e2221a56e62997b39b4e3f0`; versus the pre-fix R7 package only
+`reader-core.mjs` and `publication.json` differ. This is a local verification only: nothing is restaged, pinned or deployed.
