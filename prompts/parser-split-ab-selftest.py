@@ -31,6 +31,13 @@ Cases:
                    logs, byte-identical, and the label runs again
   result-no-logs   a usable result without a logs directory is refused, not
                    overwritten, even with --archive-interrupted
+  completeness     verify-result rejects empty tree maps and log directories,
+                   a missing or empty rows list, a missing work-tree digest, a
+                   tampered stage tree, a tampered log and a dropped row; it
+                   accepts an intentional stop after a failed parse and a result
+                   whose recorded scope is exactly the requested one
+  subset-as-full   a run restricted with --only is rejected when the full scope
+                   was requested, by verify-result and by the driver
   driver-reconcile the driver records a verified existing result as done without
                    rerunning, and rejects an unusable one; its state write is atomic
 """
@@ -202,8 +209,9 @@ def main():
         check("restart-finished: finished label refused even with the flag", done.returncode != 0 and "finished result" in done.stderr + done.stdout)
 
         # verify-result and result-present recovery (A-002)
-        def verify(label, binary=BINARY):
-            return harness(["verify-result", "--run-kind", "replay", "--binary", str(binary), "--label", label, "--baseline", load(label)["baseline"]]).returncode
+        def verify(label, binary=BINARY, only="ccf"):
+            tail = ["--only", only] if only else []
+            return harness(["verify-result", "--run-kind", "replay", "--binary", str(binary), "--label", label, "--baseline", load(label)["baseline"], *tail]).returncode
         check("verify-result: a clean result is accepted", verify("selftest-restart") == 0)
         check("verify-result: a different binary is rejected", verify("selftest-restart", WORK / "bin" / "C3" / "lex-mex") == 1)
         shutil.copy(WORK / "trees-selftest-restart.json", WORK / "trees-selftest-restart.keep")
@@ -230,6 +238,64 @@ def main():
         done = replay("selftest-nologs", extra=["--archive-interrupted"])
         check("result-no-logs: usable result refused, not overwritten", done.returncode != 0 and (WORK / "result-selftest-nologs.json").read_bytes() == (WORK / "result-selftest-restart.json").read_bytes())
 
+        # completeness and scope (A-002 follow-up)
+        check("subset-as-full: a --only run is rejected when the full scope is requested", verify("selftest-restart", only=None) == 1)
+
+        def clone_run(src, dst, mutate_result=None, mutate_trees=None, mutate_logs=None):
+            result = load(src)
+            result["label"] = dst
+            if mutate_result:
+                mutate_result(result)
+            trees = json.loads((WORK / f"trees-{src}.json").read_text())
+            if mutate_trees:
+                trees = mutate_trees(trees)
+            (WORK / f"result-{dst}.json").write_text(json.dumps(result, indent=1, sort_keys=True))
+            (WORK / f"trees-{dst}.json").write_text(json.dumps(trees, sort_keys=True))
+            shutil.copytree(WORK / f"logs-{src}", WORK / f"logs-{dst}")
+            if mutate_logs:
+                mutate_logs(WORK / f"logs-{dst}")
+            return dst
+
+        def empty_logs(logs):
+            for path in logs.iterdir():
+                path.unlink()
+
+        def tamper_log(logs):
+            target = sorted(logs.glob("*.stdout"))[0]
+            target.write_text(target.read_text() + "tampered\n")
+
+        def drop_work_key(result):
+            result["rows"][0].pop("work_tree_sha256", None)
+
+        def break_tree(trees):
+            slug = sorted(trees)[0]
+            stage = sorted(trees[slug])[0]
+            trees[slug][stage]["corpus"] = {"tampered": "x"}
+            return trees
+
+        def drop_row(result):
+            result["rows"].pop(1)
+
+        cases = (
+            ("empty tree maps and empty log directory", dict(mutate_trees=lambda t: {}, mutate_logs=empty_logs)),
+            ("rows key absent", dict(mutate_result=lambda r: r.pop("rows"))),
+            ("rows empty", dict(mutate_result=lambda r: r.update(rows=[]))),
+            ("work-tree digest absent from a row", dict(mutate_result=drop_work_key)),
+            ("a stage tree that does not match its digest", dict(mutate_trees=break_tree)),
+            ("a log that does not match its hash", dict(mutate_logs=tamper_log)),
+            ("a dropped row (missing stage)", dict(mutate_result=drop_row)),
+        )
+        for index, (title, mutation) in enumerate(cases):
+            name = clone_run("selftest-restart", f"selftest-bad{index}", **mutation)
+            check(f"completeness: {title} is rejected", verify(name) == 1)
+        check("completeness: the unmutated control with exactly the requested scope is accepted", verify(clone_run("selftest-restart", "selftest-good")) == 0)
+        done = harness(["replay", "--binary", str(BINARY), "--label", "selftest-parsefail", "--only", "lfiiedb"])
+        check("completeness: the parse-failure run completes", done.returncode == 0, done.stderr[-200:])
+        if done.returncode == 0:
+            rows = load("selftest-parsefail")["rows"]
+            check("completeness: parse failed and later stages were skipped (the baseline fact)", len(rows) == 1 and rows[0]["stage"] == "parse" and rows[0]["exit"] != 0)
+            check("completeness: an intentional stop after a failed parse is accepted", verify("selftest-parsefail", only="lfiiedb") == 0)
+
         # driver never truncates an earlier attempt's output
         import importlib.util
         spec = importlib.util.spec_from_file_location("queue_driver", REPO / "prompts" / "parser-split-queue.py")
@@ -248,14 +314,15 @@ def main():
             # driver reconciles a finished-but-unrecorded result
             driver.BASELINE = load("selftest-restart")["baseline"]
             driver.LOG = Path(tmp) / "queue.log"  # keep the real queue log out of the test
-            check("driver-reconcile: a verified result is accepted without a rerun", driver.reconcile("retained", "selftest-restart", "B", []) is True)
+            check("driver-reconcile: a verified result is accepted without a rerun", driver.reconcile("retained", "selftest-restart", "B", ["--only", "ccf"]) is True)
+            check("subset-as-full: the driver rejects a --only result for the full scope", driver.reconcile("retained", "selftest-restart", "B", []) is False)
             bad = load("selftest-restart")
             bad["harness_unchanged"] = False
             bad["label"] = "selftest-nologs-bad"  # the flag must be the only defect
             (WORK / "result-selftest-nologs-bad.json").write_text(json.dumps(bad, indent=1, sort_keys=True))
             shutil.copy(WORK / "trees-selftest-restart.json", WORK / "trees-selftest-nologs-bad.json")
             (WORK / "logs-selftest-nologs-bad").mkdir()
-            check("driver-reconcile: an unusable existing result is rejected", driver.reconcile("retained", "selftest-nologs-bad", "B", []) is False)
+            check("driver-reconcile: an unusable existing result is rejected", driver.reconcile("retained", "selftest-nologs-bad", "B", ["--only", "ccf"]) is False)
             driver.STATE = Path(tmp) / "queue-state.json"
             driver.write_state({"done": ["x"]})
             check("driver-reconcile: state write is atomic and complete", json.loads(driver.STATE.read_text()) == {"done": ["x"]} and not list(Path(tmp).glob("*.tmp")))

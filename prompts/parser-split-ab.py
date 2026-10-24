@@ -49,6 +49,7 @@ REQUIRED_COMMON = (
     "final_corpus_file_count",
     "final_root_tree_sha256",
     "pristine_corpus_digest",
+    "scope",
 )
 REQUIRED_ROW_KEYS = ("slug", "stage", "argv", "exit", "stdout_sha256", "stderr_sha256", "corpus_tree_sha256")
 ROWS_WITH_WORK_TREE = {"parse", "temporal-request", "validate", "derive-temporal", "export-markdown", "extract", "audit-furniture"}
@@ -320,6 +321,123 @@ def build_pristine_root(baseline, git_init=False):
             subprocess.run(["git", *argv], cwd=RUN_ROOT, env=fixed, check=True, capture_output=True)
 
 
+# The whole-corpus steps that run outside the per-slug stage loops, in order. cmd_sweep
+# runs exactly these (head, then standards, per-slug stages, extraction, tail).
+SWEEP_HEAD = ("bundle-canonical", "bundle-markdown", "link-all", "instruments", "path", "search",
+              "review-list", "review-legacy", "review-packets-generate", "review-packets-list")
+SWEEP_TAIL = ("link-lritf", "link-ifpe", "repair-dates-lritf", "repair-dates-ccf", "db-contract-probe")
+STANDARDS_STAGES = ("standards-validate", "standards-refresh")
+
+
+def options_of(args):
+    return {
+        "supplement": bool(getattr(args, "supplement", False)),
+        "only": getattr(args, "only", None),
+        "limit": getattr(args, "limit", None),
+        "skip_extract": bool(getattr(args, "skip_extract", False)),
+    }
+
+
+def pick(slugs, args):
+    if args.only:
+        wanted = args.only.split(",")
+        slugs = [s for s in slugs if s in wanted]
+    if args.limit:
+        slugs = slugs[: args.limit]
+    return slugs
+
+
+def replay_scope(args):
+    name = "coverage-manifest-supplement.json" if args.supplement else "coverage-manifest.json"
+    manifest = json.loads((WORK / name).read_text())
+    return {"command": "replay", "options": options_of(args), "slugs": pick(manifest["replay_order"], args),
+            "stages": [stage for stage, _ in RETAINED_STAGES]}
+
+
+def sweep_scope(args):
+    adapters = adapter_rows()
+    scope = {"command": "sweep", "options": options_of(args),
+             "standards": [s for s in committed_slugs() if s not in adapters],
+             "slugs": pick([s for s in committed_slugs() if s in adapters], args),
+             "stages": [stage for stage, _ in SWEEP_STAGES], "retained": []}
+    if not args.skip_extract:
+        manifest = json.loads((WORK / "coverage-manifest.json").read_text())
+        scope["retained"] = [{"slug": slug, "pdf": (INPUTS / slug / f"{slug}.pdf").exists()}
+                             for slug in pick(manifest["replay_order"], args)]
+    return scope
+
+
+def plan_from_scope(scope):
+    """Ordered expected rows: (slug, [stages], origin, may_stop_after_failed_parse)."""
+    plan = []
+    if scope["command"] == "replay":
+        plan += [(slug, scope["stages"], "replay", True) for slug in scope["slugs"]]
+        return plan
+    plan += [("*", [stage], "global", False) for stage in SWEEP_HEAD]
+    for slug in scope["standards"]:
+        plan += [(slug, [stage], "global", False) for stage in STANDARDS_STAGES]
+    plan += [(slug, scope["stages"], "sweep", True) for slug in scope["slugs"]]
+    for entry in scope["retained"]:
+        plan.append((entry["slug"], ["extract"], "work", False))
+        if entry["pdf"]:
+            plan.append((entry["slug"], ["audit-furniture"], "work", False))
+    plan += [("*", [stage], "global", False) for stage in SWEEP_TAIL]
+    return plan
+
+
+GLOBAL_KEYS = ("out_tree_sha256", "packets_tree_sha256")
+
+
+def evidence_problem(result, trees, logs, scope):
+    """Why a result's rows, stage trees or logs are incomplete for the given scope, or None."""
+    rows = result.get("rows")
+    if not isinstance(rows, list) or not rows:
+        return "rows missing or empty"
+    if not isinstance(trees, dict):
+        return "trees file is not a map"
+    position = 0
+    for slug, stages, origin, may_stop in plan_from_scope(scope):
+        taken = 0
+        while taken < len(stages) and position < len(rows) and rows[position].get("slug") == slug and rows[position].get("stage") == stages[taken]:
+            row = rows[position]
+            if not isinstance(row, dict):
+                return f"row {position} is not a map"
+            needed = list(REQUIRED_ROW_KEYS)
+            if origin in ("replay", "work"):
+                needed.append("work_tree_sha256")
+            if origin == "global":
+                needed += GLOBAL_KEYS
+            absent = [key for key in needed if key not in row]
+            if absent:
+                return f"row {slug}/{row.get('stage')} lacks {absent}"
+            for stream in ("stdout", "stderr"):
+                path = logs / f"{slug}.{row['stage']}.{stream}"
+                if not path.is_file():
+                    return f"log {path.name} missing"
+                if sha256_file(path) != row[f"{stream}_sha256"]:
+                    return f"log {path.name} does not match its recorded hash"
+            if origin != "global":
+                recorded = trees.get(slug, {}).get(row["stage"], {})
+                for area, key in (("corpus", "corpus_tree_sha256"), ("work", "work_tree_sha256")):
+                    if area == "work" and origin == "sweep":
+                        continue
+                    saved = recorded.get(area)
+                    if not isinstance(saved, dict) or not saved:
+                        return f"stage tree {slug}/{row['stage']}/{area} missing or empty"
+                    if digest_map(saved) != row[key]:
+                        return f"stage tree {slug}/{row['stage']}/{area} does not match its digest"
+            position += 1
+            taken += 1
+            if may_stop and row["stage"] == "parse" and row["exit"] != 0:
+                taken = len(stages)  # later stages are intentionally skipped after a failed parse
+                break
+        if taken < len(stages):
+            return f"expected stage {stages[taken]} for {slug} is missing or out of order"
+    if position != len(rows):
+        return f"{len(rows) - position} unexpected extra rows"
+    return None
+
+
 def run_command(binary, argv, logs, tag):
     started = time.monotonic()
     result = subprocess.run(
@@ -338,15 +456,6 @@ def run_command(binary, argv, logs, tag):
         "stderr_sha256": sha256_bytes(result.stderr),
         "elapsed_s": round(elapsed, 3),
     }
-
-
-def pick(slugs, args):
-    if args.only:
-        wanted = args.only.split(",")
-        slugs = [s for s in slugs if s in wanted]
-    if args.limit:
-        slugs = slugs[: args.limit]
-    return slugs
 
 
 def run_stages(binary, stages, slugs, logs, trees, with_work):
@@ -488,17 +597,18 @@ def result_problem(args):
         return "made by a different binary"
     if result["baseline"] != args.baseline:
         return "different baseline"
-    for row in result.get("rows", []):
-        missing = [key for key in REQUIRED_ROW_KEYS if key not in row]
-        if missing:
-            return f"row {row.get('slug')}/{row.get('stage')} lacks {missing}"
     if expected == "retained-replay":
         name = "coverage-manifest-supplement.json" if args.supplement else "coverage-manifest.json"
         if result["inputs_tree_sha256"] != json.loads((WORK / name).read_text())["inputs_tree_sha256"]:
             return "different frozen inputs"
-    if not (WORK / f"logs-{args.label}").is_dir():
+    logs = WORK / f"logs-{args.label}"
+    if not logs.is_dir():
         return "logs directory missing"
-    return None
+    # The run must have covered exactly the scope the queue asked for, not a subset.
+    requested = replay_scope(args) if args.run_kind == "replay" else sweep_scope(args)
+    if result["scope"] != requested:
+        return "recorded scope differs from the requested scope (a subset or different options)"
+    return evidence_problem(result, json.loads(trees_path.read_text()), logs, requested)
 
 
 def cmd_verify_result(args):
@@ -541,7 +651,9 @@ def cmd_replay(args):
     inputs = INPUTS_SUPP if args.supplement else INPUTS
     manifest_name = "coverage-manifest-supplement.json" if args.supplement else "coverage-manifest.json"
     manifest = json.loads((WORK / manifest_name).read_text())
-    slugs = pick(manifest["replay_order"], args)
+    scope = replay_scope(args)
+    slugs = scope["slugs"]
+    extra["scope"] = scope
     (RUN_ROOT / ".work").mkdir(exist_ok=True)
     for slug in slugs:
         subprocess.run(["cp", "-cR", str(inputs / slug), str(RUN_ROOT / ".work" / slug)], check=True)
@@ -566,6 +678,8 @@ def cmd_sweep(args):
         ["git", "rev-parse", "HEAD"], cwd=RUN_ROOT, capture_output=True, text=True
     ).stdout.strip()
     extra["started_utc"] = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
+    scope = sweep_scope(args)
+    extra["scope"] = scope
     out = RUN_ROOT / ".out"
     out.mkdir()
     trees = {}
@@ -582,17 +696,14 @@ def cmd_sweep(args):
     g("review-legacy", ["review", "legacy", "--all-instruments"])
     g("review-packets-generate", ["review-packets", "generate"])
     g("review-packets-list", ["review-packets", "list"])
-    adapters = adapter_rows()
-    standards = [s for s in committed_slugs() if s not in adapters]
-    for slug in standards:
+    for slug in scope["standards"]:
         for stage, argv in (("standards-validate", ["standards", "validate", slug]), ("standards-refresh", ["standards", "refresh", slug])):
             global_step(binary, logs, rows, slug, stage, argv)
-    slugs = pick([s for s in committed_slugs() if s in adapters], args)
-    rows.extend(run_stages(binary, SWEEP_STAGES, slugs, logs, trees, with_work=False))
+    rows.extend(run_stages(binary, SWEEP_STAGES, scope["slugs"], logs, trees, with_work=False))
     # Re-extraction from retained sources runs last: it rewrites manifests.
     if not args.skip_extract:
         manifest = json.loads((WORK / "coverage-manifest.json").read_text())
-        retained = pick(manifest["replay_order"], args)
+        retained = [entry["slug"] for entry in scope["retained"]]
         (RUN_ROOT / ".work").mkdir(exist_ok=True)
         for slug in retained:
             subprocess.run(["cp", "-cR", str(INPUTS / slug), str(RUN_ROOT / ".work" / slug)], check=True)
@@ -670,6 +781,8 @@ def cmd_compare(args):
                 notes.append({"run": name, "row": index, "slug": row.get("slug"), "stage": row.get("stage"), "why": "row evidence absent", "fields": absent})
     if a.get("kind") != b.get("kind"):
         drift.append({"kind": "run-kind", "a": a.get("kind"), "b": b.get("kind")})
+    if "scope" in a and "scope" in b and a["scope"] != b["scope"]:
+        drift.append({"kind": "run-scope", "a": a["scope"].get("options"), "b": b["scope"].get("options")})
     for key in sorted(set(a) ^ set(b)):
         notes.append({"field": key, "why": "evidence format differs", "present_in": args.a if key in a else args.b})
     if a.get("harness_sha256") and b.get("harness_sha256") and a["harness_sha256"] != b["harness_sha256"]:
@@ -780,6 +893,9 @@ def main():
     verify.add_argument("--label", required=True)
     verify.add_argument("--baseline", required=True)
     verify.add_argument("--supplement", action="store_true")
+    verify.add_argument("--only")
+    verify.add_argument("--limit", type=int)
+    verify.add_argument("--skip-extract", action="store_true")
     verify.set_defaults(func=cmd_verify_result)
     supp = sub.add_parser("freeze-supplement")
     supp.add_argument("--search", required=True)
