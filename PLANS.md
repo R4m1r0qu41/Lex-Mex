@@ -83,6 +83,17 @@ secrets, transcripts, hidden reasoning, or mutable copies of external state.
 - [`docs/plans/nested-public-reader.md`](docs/plans/nested-public-reader.md)
   — Publish discoverable text and a source-backed nested reader with shared MCP access.
 
+- [`docs/plans/reader-usability-and-medium-identity.md`](docs/plans/reader-usability-and-medium-identity.md)
+  — Medium identity and reader usability delivered; producer matches accepted
+  version23 and preserves the main-site square-monogram favicon.
+
+- [`docs/plans/reader-logo-exploration.md`](docs/plans/reader-logo-exploration.md)
+  — Lowercase Medium selected and installed; alternate logo references preserved.
+
+- [`docs/plans/reader-brand-alignment.md`](docs/plans/reader-brand-alignment.md)
+  — Align reader code, editable Figma components/screens and the generated UI
+  publication with LEG4L L4BS brand pages 00–05.
+
 - [`docs/plans/maximasa-legal-integration.md`](docs/plans/maximasa-legal-integration.md)
   — Use the selected federal corpus in Maximasa's compliance module, close
   missing-instrument coverage, and design a standards-capable NOM/NMX boundary.
