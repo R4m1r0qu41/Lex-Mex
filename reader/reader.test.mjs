@@ -18,6 +18,22 @@ test('Markdown preserves exact Unicode, whitespace and literal markup across art
  assert.equal(indexGroup({},{provision_type:'transitory',heading_context:{title:'Título II'}}),'Transitorios · Título II');
  assert.equal(indexGroup({},{provision_type:'article',heading_context:{chapter:'Capítulo I',title:'Título QUINTO',section:'Sección Primera'}}),'Título QUINTO · Capítulo I');
 });
+test('a Libro leads the heading path, the exports and the index group, and absent Libros change nothing',()=>{
+ const libro1={libro:'LIBRO PRIMERO',title:'Título I',chapter:'Capítulo I'},libro2={chapter:'Capítulo I',title:'Título I',libro:'LIBRO SEGUNDO'};
+ assert.equal(headingPath(libro1),'LIBRO PRIMERO · Título I · Capítulo I');
+ assert.equal(headingPath(libro2),'LIBRO SEGUNDO · Título I · Capítulo I');
+ assert.equal(headingPath({libro:null,title:'Título I'}),'Título I');assert.equal(headingPath({libro:'',title:'Título I'}),'Título I');
+ assert.equal(headingPath({libro:'LIBRO PRIMERO',title:'Título I',section:'Sección Primera',apartado:'Apartado A',chapter:'Capítulo I'}),'LIBRO PRIMERO · Título I · Capítulo I · Sección Primera · Apartado A');
+ const a={label:'Artículo 1',text:'Uno.',provision_type:'article',heading_context:libro1},b={label:'Artículo 2',text:'Dos.',provision_type:'article',heading_context:libro2};
+ // Same Título and Capítulo under two Libros: separate headings in the instrument export and separate index groups.
+ assert.equal(instrumentMarkdown({official_title:'Código',provisions:[a,b]}),'# Código\n\n## LIBRO PRIMERO · Título I · Capítulo I\n\n### Artículo 1\n\nUno.\n\n## LIBRO SEGUNDO · Título I · Capítulo I\n\n### Artículo 2\n\nDos.');
+ assert.equal(provisionMarkdown(b),'## LIBRO SEGUNDO · Título I · Capítulo I\n\n### Artículo 2\n\nDos.');
+ assert.notEqual(indexGroup({},a),indexGroup({},b));assert.equal(indexGroup({},b),'LIBRO SEGUNDO · Título I · Capítulo I');
+ assert.equal(indexGroup({},{provision_type:'transitory',heading_context:{libro:'LIBRO SEGUNDO',title:'Título II'}}),'Transitorios · LIBRO SEGUNDO · Título II');
+ // Instruments without a Libro keep exactly the earlier output.
+ assert.equal(headingPath({title:'Título QUINTO',chapter:'Capítulo I'}),'Título QUINTO · Capítulo I');
+ assert.equal(indexGroup({},{provision_type:'article',heading_context:{chapter:'Capítulo I',title:'Título QUINTO'}}),'Título QUINTO · Capítulo I');
+});
 test('heading path follows the hierarchy whatever the key order, and Markdown carries it with both exports',()=>{
  assert.equal(headingPath({chapter:'Capítulo I',title:'Título QUINTO'}),'Título QUINTO · Capítulo I');
  assert.equal(headingPath({apartado:'Apartado A',chapter:'Capítulo II',section:'Sección Primera',title:null}),'Capítulo II · Sección Primera · Apartado A');

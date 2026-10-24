@@ -19,7 +19,9 @@ export function selectionUrl(current,release,document,provision) {const url=new 
 
 // Legal text remains literal UTF-8; presentation adds no escapes or links to it.
 /** Heading levels in hierarchy order; the JSON key order of `heading_context` is not meaningful. */
-export const headingLevels=['title','chapter','section','apartado'];
+export const headingLevels=['libro','title','chapter','section','apartado'];
+/** The index groups articles by Libro, Título and Capítulo, so two Libros that repeat a Título name stay apart. */
+export const indexLevels=['libro','title','chapter'];
 export function headingPath(context,levels=headingLevels) {return levels.map(level=>(context||{})[level]).filter(Boolean).join(' · ');}
 /** One provision as Markdown: its heading path (when it differs from `previous`) above the label and the exact text. */
 export function provisionMarkdown(provision,previous='') {
@@ -33,7 +35,7 @@ export function instrumentMarkdown(document) {
 /** Articles under a heading are grouped by that heading alone; other kinds keep their name. */
 export function indexGroup(document,provision,searching=false) {
   if(searching)return document.short_name;
-  const path=headingPath(provision.heading_context,['title','chapter']);
+  const path=headingPath(provision.heading_context,indexLevels);
   if(provision.provision_type==='article'&&path)return path;
   const kind={article:'Artículos',transitory:'Transitorios',annex:'Anexos'}[provision.provision_type]||'Disposiciones';
   return [kind,path].filter(Boolean).join(' · ');
