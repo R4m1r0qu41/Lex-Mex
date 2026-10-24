@@ -217,7 +217,7 @@ pub fn validate_seed(git: &GitInput, bytes: &[u8]) -> Result<DebtSeed> {
         let target = format!(
             "{}:article:{}",
             row.instrument_id,
-            lex_parse::labels::canonical_slug(&row.printed_label)
+            lex_grammar::labels::canonical_slug(&row.printed_label)
         );
         if provisions.iter().any(|p| p.id == target) {
             bail!("resolved debt still in seed: {target}");
@@ -243,7 +243,7 @@ fn validate_retirements(git: &GitInput, original: &GitInput, seed: &DebtSeed) ->
         let expected = format!(
             "{}:article:{}",
             row.instrument_id,
-            lex_parse::labels::canonical_slug(&row.printed_label)
+            lex_grammar::labels::canonical_slug(&row.printed_label)
         );
         ensure!(
             retired.provision_id == expected,
@@ -301,8 +301,8 @@ fn validate_retirements(git: &GitInput, original: &GitInput, seed: &DebtSeed) ->
             ensure!(
                 target.instrument_id == row.instrument_id
                     && target.provision_type == lex_core::ProvisionType::Article
-                    && lex_parse::labels::canonical_slug(&target.number)
-                        == lex_parse::labels::canonical_slug(&row.printed_label)
+                    && lex_grammar::labels::canonical_slug(&target.number)
+                        == lex_grammar::labels::canonical_slug(&row.printed_label)
                     && !target.text.trim().is_empty(),
                 "retirement target owner/type/number/body differs"
             );

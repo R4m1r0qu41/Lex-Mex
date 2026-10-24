@@ -40,6 +40,18 @@ const BUILDER_FILES: &[(&str, &[u8])] = &[
         include_bytes!("../../lex-core/src/lib.rs"),
     ),
     (
+        "crates/lex-analysis/src/lib.rs",
+        include_bytes!("../../lex-analysis/src/lib.rs"),
+    ),
+    (
+        "crates/lex-grammar/src/lib.rs",
+        include_bytes!("../../lex-grammar/src/lib.rs"),
+    ),
+    (
+        "crates/lex-link/src/lib.rs",
+        include_bytes!("../../lex-link/src/lib.rs"),
+    ),
+    (
         "crates/lex-parse/src/lib.rs",
         include_bytes!("../../lex-parse/src/lib.rs"),
     ),
@@ -64,10 +76,29 @@ pub fn check_builder(git: &GitInput) -> Result<()> {
     // All source/schema files must match the pinned builder, including modules
     // called by shared validators; source files unknown to this binary are not
     // accepted as provenance either. Inventory is embedded at compile time below.
+    let mut compiled = std::collections::BTreeSet::new();
     for (path, bytes) in include!(concat!(env!("OUT_DIR"), "/builder_inputs.rs")) {
         ensure!(
             git.read(path)? == *bytes,
             "compiled dependency differs from builder commit: {path}"
+        );
+        compiled.insert(*path);
+    }
+    // A source file the builder commit holds in a pinned directory but this
+    // binary did not compile is a different builder, even when every compiled
+    // file matches: adding a module changes what the commit would build.
+    let dirs: &[&str] = include!(concat!(env!("OUT_DIR"), "/builder_dirs.rs"));
+    for path in git.paths()? {
+        let pinned = dirs.iter().any(|dir| {
+            path.strip_prefix(dir)
+                .is_some_and(|rest| rest.starts_with('/'))
+        });
+        let source = Path::new(&path)
+            .extension()
+            .is_some_and(|e| e == "rs" || e == "json");
+        ensure!(
+            !pinned || !source || compiled.contains(path.as_str()),
+            "builder commit holds a source file unknown to the compiled binary: {path}"
         );
     }
     Ok(())
