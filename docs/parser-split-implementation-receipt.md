@@ -278,8 +278,8 @@ passes.
   `ignored_artifact_sha256` in the evidence file.
 
 **Reproducing the gate evidence.** The gate runs used harness blob `9c329e0c`
-(commit `d05d98d3b`). Later commits carry other blobs (`24c9534b`, then `321a651c`
-at HEAD). A replay with the HEAD harness will fail a strict comparison with the gate runs on revision alone;
+(commit `d05d98d3b`). Later commits carry other blobs (`24c9534b`, `321a651c`, then
+`1674a448` at HEAD). A replay with the HEAD harness will fail a strict comparison with the gate runs on revision alone;
 that is not drift. Use the harness from `d05d98d3b`, or compare new-revision runs
 only with each other.
 
@@ -299,6 +299,21 @@ no production code changed, and none of it has had independent review.
   driver record a verified existing result as done instead of rerunning it. The
   harness self-test passes 41 of 41 on this third harness revision (blob
   `321a651c`), and the 54 hash-bound artifacts were identical before and after it.
+- **A-002 follow-up** (`4d98f72c2`, Codex's pre-merge review): the verifier had
+  accepted empty tree maps and log directories, a missing or empty rows list,
+  missing work-tree digests, and a `--only` run as a full run. Results now record
+  their scope; `verify-result` recomputes the requested scope and rejects a
+  mismatch, checks the rows against the expected ordered plan (an intentional stop
+  after a failed parse is allowed), the per-row evidence keys, every log hash and
+  every saved stage tree. The self-test passes 54 of 54 in an isolated scratch
+  clone, with the 54 live artifacts hashed before and after (unchanged). The
+  plan check `parser-split-ab-plan-fidelity.py` accepts all 15 real gate results.
+  Known gaps: extra trees entries and extra log files are not rejected, and scope
+  is recomputed from the live corpus listing, so a changed listing fails closed.
+  Comparator note: the HEAD comparator requires the scope field, so it rejects the
+  gate results (`compare retained-B3 retained-B4` exits 1 on `scope` absent and a
+  different harness revision); reproduce gate comparisons with the harness from
+  `d05d98d3b`. Codex closes A-002, not me.
 - **Incident (executor error, disclosed).** On 2026-10-24 at about 11:26 CST a
   mutation check ran the old G4 wrappers, which hard-code the real work paths and
   ignore the self-test's overrides, with a fake `cargo` on PATH. That overwrote
@@ -323,10 +338,13 @@ no production code changed, and none of it has had independent review.
 
 Run on a disposable local integration candidate, not on any operator branch:
 merge commit `f8909420…` with parents reader R7 `162128517` and
-`refactor/parser-split` `77e54d13f`. **Assumption:** no commit was named and the
-reader docs do not pin one deployed commit, so I used the newest reader tip (R7,
-Codex found no blocking issue, not recorded as published); repeat with another
-base if the deployed UI is older. One conflict, in `Cargo.lock` only (the `lex-cli`
+`refactor/parser-split` `77e54d13f`. I used the newest reader tip (R7) as the
+base. **Correction (Codex follow-up review):** R7 is not the deployed UI. The local
+publication pin is `2df70a8a` (release `9626bfe4`) and its UI source matches
+`b9b8be012`, not R7; R7 differs from `b9b8be012` in UI only, so the exporter
+comparison also applies to the published reader, and Codex reproduced all five
+published UI assets by repackaging the merged release with the `b9b8` UI. This
+checked the local pin and directories, not the live site. One conflict, in `Cargo.lock` only (the `lex-cli`
 dependency list: the reader added `jsonschema`, the split added `lex-analysis`);
 both lines were kept in order, and `cargo build --locked` confirms the lockfile.
 `main.rs` and the manifests merged automatically.
@@ -337,7 +355,7 @@ one root, gives four byte-identical releases (1785 files), and `package.mjs` giv
 four byte-identical packages. Against the deployed preferred release, only
 `release_id`, `corpus_commit` and `committed_at` differ (they come from the root's
 HEAD commit); all 1782 listed files have identical paths and hashes, and the
-package UI files match the deployed R7 package. The R5/R7 browser and mutation
+package UI files match the R7 package I built (not the deployed one; see the correction above). The R5/R7 browser and mutation
 campaigns were not rerun.
 
 ## Tooling defect R-001 (repaired after the queue)

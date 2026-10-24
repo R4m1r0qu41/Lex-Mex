@@ -364,7 +364,7 @@
    "commit": "d05d98d3b (self-test fix 73f42a983 changes only the self-test)",
    "executes_from": ".work/parser-split/harness-snapshots/<sha256>.py (read-only, re-exec'd with PARSER_SPLIT_REPO)",
    "git_blob": "9c329e0c4f973b8dcceb6c800cec69ea9a3fde4a",
-   "note": "Every gate run used blob 9c329e0c. R-001 (e09aec70d) moved the harness to 24c9534b and A-001/A-002 (77e54d13f) to 321a651c; neither revision produced gate evidence.",
+   "note": "Every gate run used blob 9c329e0c. Later blobs (24c9534b R-001, 321a651c A-001/A-002, 1674a448 A-002 follow-up) produced no gate evidence.",
    "sha256": "fa321e4659694f9d6daa78820842d3a6e36f9bf8e5a60369c391d5eca014044e"
   },
   "sha256_at_f1da6f1e7": "a9a034912b37f0ee99269894fc7df74e30c35bf71370a0d1a3b7ecaf2ed91bd5",
@@ -591,16 +591,16 @@
   "timing_note": "fmt 0-1 s, clippy 3-17 s, tests 26-43 s wall per run, from the raw logs under .work/parser-split/logs/ and cargo 'Finished ... in' lines; the first G1/G2 mech runs did not time every command.",
   "validation_source_note": "Validation figures are taken from the raw logs and the written validation.json files. Two mech hand-back summaries (G1 and G3) swapped the lritf and ifpe-dcg-2021 labels; the raw logs and files were checked and agree across every tree."
  },
- "next_action": "Operator: choose integration timing and the reader base commit; Codex review of the post-audit tooling commits (e09aec70d onward) if wanted; no merge, push or deployment has happened.",
+ "next_action": "Codex reviews the A-002 follow-up (commit-bound handoff) and closes A-002 if satisfied; operator chooses integration timing; no merge, push or deployment has happened.",
  "open_items": [],
  "plan": "docs/plans/parser-responsibility-split.md",
  "reader_integration_check": {
-  "base_choice": "reader tip feat/reader-tweaks-r7 at 162128517576b043a389f753578c5cabb4540898 (newest reader commit, includes feat/four-instrument-reader-design; Codex found no blocking issue in its R7 packages; not recorded as published). ASSUMPTION: the operator did not name a commit, and the reader docs do not pin a single deployed commit; if the deployed UI is an earlier reader commit, repeat with that base",
+  "base_choice": "reader tip feat/reader-tweaks-r7 at 162128517576b043a389f753578c5cabb4540898 (newest reader commit; includes feat/four-instrument-reader-design). CORRECTION from Codex's follow-up review (docs/parser-split-tooling-followup-review-2026-10-24.md on main): R7 is not the deployed UI. The locally recorded publication pin is 2df70a8a... (release 9626bfe4...), and both local host publication directories have UI source matching b9b8be012c0a19b50e75acd922c38a19385faded, not R7. R7 differs from b9b8be012 in UI only (no Rust, Cargo or exporter change), so the exporter comparison applies to the locally published reader's exporter as well; Codex repackaged the merged release with the exact b9b8 UI source and all five packaged UI files match the local publication bytes. This inspected the local publication pin and directories, not the live site.",
   "candidate": "disposable clone .work/parser-split/reader-integration; detached merge commit f890942001f45ce65017653911903443fe2228b2, parents 162128517576b043a389f753578c5cabb4540898 (reader R7) and 77e54d13f42bdf3a3189ff5921f592bad0449f38 (refactor/parser-split). No branch in the operator's repositories moved; nothing pushed.",
   "conflicts": "one conflicting hunk, in Cargo.lock only: the lex-cli dependency list, where the reader side added jsonschema and the parser-split side added lex-analysis. Both lines were kept in alphabetical order (jsonschema, lex-analysis). crates/lex-cli/Cargo.toml and crates/lex-cli/src/main.rs merged automatically. The resolution is checked by cargo build --locked, which fails on a lockfile that disagrees with the manifests.",
   "logs": ".work/parser-split/reader-out/*.log and logs/reader-integration-run.log; script .work/parser-split/tools/reader_integration.sh (not committed)",
   "results": {
-   "against_deployed_preferred_package": "the candidate release manifest differs from the deployed preferred release (9626bfe4..., corpus_commit 85c41f389) only in release_id, corpus_commit and committed_at, which come from the root's HEAD commit; its 1782 listed files have an identical path and SHA-256 map, instruments sections and builder_sha256 are equal, and the package UI files index.html, reader.js, reader.css, reader-core.mjs and lex-mex.svg are byte-identical to the deployed R7 package. llms.txt, latest.json and the release directory name differ because they embed the release id.",
+   "against_deployed_preferred_package": "the candidate release manifest differs from the locally published preferred release (9626bfe4..., corpus_commit 85c41f389) only in release_id, corpus_commit and committed_at, which come from the root's HEAD commit; its 1782 listed files have an identical path and SHA-256 map, instruments sections and builder_sha256 are equal. The package UI files index.html, reader.js, reader.css, reader-core.mjs and lex-mex.svg are byte-identical to the R7 package built in reader-five (which was not deployed); Codex separately matched them to the published b9b8be012 UI by repackaging with that source. llms.txt, latest.json and the release directory name differ because they embed the release id.",
    "build_merged": "cargo build --locked -p lex-cli exit 0",
    "build_r7": "cargo build --locked -p lex-cli at R7 alone, exit 0",
    "exporter": "public-release build for lritf, ifpe-dcg-2021, itf-dcg-2018, lic with the retained PDF store, run twice with the merged binary and twice with the R7-only binary from the same root: all four releases (1785 files each) are byte-identical",
@@ -730,7 +730,23 @@
  "tooling_repairs_after_audit": {
   "A-001": "fixed in 77e54d13f: both wrappers keep every exit code, run all steps and exit non-zero on any failure; the compare tool exits 1 on a parity failure; prompts/parser-split-g4-selftest.py injects a failure at each command (16/16; the old wrappers fail 8 of 16)",
   "A-002": "fixed in 77e54d13f: atomic result and state writes; an unusable result (exit 3) is archived with its logs and trees; verify-result and driver reconcile of a verified existing result; a usable result is never replaced",
-  "harness_blob": "321a651c211cbc21d300dec531dc57af3396ff3b (sha256 8dc94eeca26431a7b9d6ee8eb717d7ef9cf041e73b9fe34b3f290162ade0f362)",
+  "A-002_followup": {
+   "closure": "not claimed; Codex closes A-002",
+   "comparator_note": "the HEAD comparator requires the new scope field and a matching harness revision, so it rejects the gate results: compare retained-B3 retained-B4 with the 4d98f72c2 harness exits 1 (scope absent; different harness revision), where the gate-revision comparator returned 0. Reproduce gate comparisons with the harness from d05d98d3b (blob 9c329e0c); the committed gate comparison files are unchanged.",
+   "fixed_in": "4d98f72c2",
+   "gate_artifacts": "gate harness 9c329e0c and every gate artifact are unchanged; the repaired harness produced no gate evidence",
+   "harness_blob": "1674a4486efe09cb017760e3f647d1e760fee231 (sha256 da4fb46b3320e08c16ee0971ce711e1ece35a254ceeabe4a5c1c4cf5a9015cfb)",
+   "known_gaps": [
+    "evidence_problem does not reject extra entries in the trees map or extra files in the logs directory",
+    "scope is recomputed from the live corpus/mx and adapters at verify time, so a changed corpus listing makes verification fail closed (a safe failure)"
+   ],
+   "new_cases": "the four probes (empty trees and logs, rows absent, rows empty, work-tree digest absent), a tampered stage tree, a tampered log, a dropped row, subset-as-full (harness and driver), an exact-scope positive control, and the baseline parse-failure run (lfiiedb) accepted with its intentional stop",
+   "plan_fidelity": "prompts/parser-split-ab-plan-fidelity.py: the expected-plan and completeness logic accepts all 15 real gate results (retained, sweep and supp x B3, B4, C3, C2, C1; 1771, 2660 and 35 rows), rc 0; scope sizes: retained 355 slugs, supp 7, sweep 32 standards + 468 adapter slugs + 355 retained",
+   "selftest": "54/54 in an isolated scratch clone at 4d98f72c2 (copies of bin/B and bin/C3, the manifest, a read-only symlink to the inputs; log SHA-256 6a6d16f0606a2de49a7eec57598c4b2b1739f227d7b3a10ba215d05a89844747); the 54 live hash-bound artifacts were hashed before and after and are unchanged",
+   "source": "Codex pre-merge review docs/parser-split-tooling-followup-review-2026-10-24.md (on main) and handoff 2026-10-24-lex-mex-parser-a002-completeness-followup.md: result_problem accepted empty trees and logs, a missing or empty rows list, missing work-tree digests, and a --only run as a full run",
+   "what": "results record their scope; verify-result recomputes the requested scope and rejects a mismatch, checks rows against the expected ordered plan (intentional stop after a failed parse allowed), per-row evidence keys, every stdout/stderr log hash, and every saved stage tree (nonempty, matching its digest); compare flags differing scopes; atomic writes, usable-result preservation and unusable-result archival unchanged"
+  },
+  "harness_blob": "current HEAD harness blob 1674a4486efe09cb017760e3f647d1e760fee231; 321a651c (A-001/A-002, earlier) and 24c9534b (R-001) are superseded",
   "review_coverage": "commits e09aec70d onward came after Codex's audit of 9ad15ec98 and are tooling only, with no independent review; no production code changed",
   "selftest": "41/41 on the third harness revision (log .work/parser-split/logs/selftest-4.log); the 54 bound artifacts were hashed before and after and are unchanged by it"
  }
