@@ -14,7 +14,7 @@ deployed.
 | G1 | A/B exact | commit `07cfa5536`, binary C1; C1 == B4 on all three run kinds; advisor accepted the symbol and dependency map | advisor gate decision |
 | G2 | A/B exact | commit `fd70e4370`, binary C2; C2 == B4 on all three run kinds | advisor gate decision |
 | G3 | A/B exact | commits `5c074e21d` and `1250889ce`, binary C3; C3 == B4 on all three run kinds | advisor review of the final map |
-| G4 | not started | none | DB builds, verify, goldens, B/B versus B/C parity |
+| G4 | checks met | native at C, B/B baseline, two B/C builds, verify, 21 goldens, row parity | advisor gate decision |
 | G5 | not started | none | advisor final pass, commit-bound Codex handoff |
 
 Commits on `refactor/parser-split` (baseline B = `85c41f389`): `ff38d1882`,
@@ -184,6 +184,41 @@ only; parse depends on core, grammar, analysis and link (initial evidence plus t
 compatibility facade); db depends on analysis, core and grammar; no crate in
 analysis, link or grammar depends on parse, CLI, DB or export. This matches the
 table.
+
+## G4 — native checks, DB builds and parity (C = `1250889ce`)
+
+Native commands ran in a disposable clone at C and left it clean: fmt and clippy
+clean; `cargo test --workspace` 425 passed, 0 failed, 0 ignored; `validate lritf`
+valid (145 articles, 11 transitories, 126 references, 0 issues);
+`validate ifpe-dcg-2021` valid (59, 4, 115, 0 issues). Figures are from the raw
+logs. The corpus tree, schemas, adapters, fixtures and decision docs are
+byte-identical to B (empty diff); only manifests, crates, docs and prompts changed.
+
+Builds used one disposable root, corpus_commit B, and the frozen binaries:
+baseline B/B (release `2ba8d0f9`, database `27f7599c`) and two B/C builds with
+builder_commit C (release `0ea9c945`, database `483264b7`). `db verify` passed on
+all three with no stale inputs (4960 input files, 208,744 normalized records), all
+21 golden queries pass on each, `PRAGMA integrity_check` is ok and
+`PRAGMA foreign_key_check` returns no rows on each, the schema (`sqlite_master`,
+78 objects) is equal, and the logical content digest is `8cc37360…` on all three.
+Golden definitions, the debt seed and schemas have an empty diff from B. A row-level comparison of every table
+(`g4_compare.py`, keyed row hashes) shows B/B equal to B/C in every table except
+`corpus_release`, whose specification column differs only in `builder_commit` and
+`cargo_lock_sha256` (checked on the stored column, not inferred from the manifest).
+
+Enumerated B-to-C differences, and nothing else: release id; physical database
+hash; `specification.builder_commit` (B to `1250889ce`);
+`specification.cargo_lock_sha256` (the lockfile now lists three more crates). The
+two B/C builds are identical in release id, database bytes and manifest bytes;
+their `verification.json` differs only in the recorded output directory path.
+
+The plan's "inspect ... for each source family plus all differing records" maps to
+the byte-exact A/B with an empty allowlist: no record differs, so none is left to
+inspect. The commands are committed as `prompts/parser-split-g4-candidate.sh`,
+`prompts/parser-split-g4-native.sh` and `prompts/parser-split-g4-compare.py`.
+
+Not run here, as the plan says: the reader UI integration check (exporter build
+and package verification) belongs to the integration commit.
 
 ## Known tooling defects awaiting repair (R-001)
 

@@ -181,12 +181,58 @@
    "retained_text_absent": 113
   }
  },
+ "g4": {
+  "artifacts": "Outputs in .work/parser-split/g4-out (baseline-bb*, cand-a*, cand-b*, compare-bb-vs-ca.json, compare-bb-vs-cb.json, native-*.log, ignored). Commands committed as prompts/parser-split-g4-candidate.sh, prompts/parser-split-g4-native.sh and prompts/parser-split-g4-compare.py; they hard-code the operator worktree paths under /Users/jr/Dev/lex-mex-parser-split/.work/parser-split",
+  "builds": {
+   "baseline_B_B": {
+    "binary": "B",
+    "builder_commit": "85c41f3898d86737766564fa8d3fd8f6d4ae74a3",
+    "corpus_commit": "85c41f3898d86737766564fa8d3fd8f6d4ae74a3",
+    "database_sha256": "27f7599ccba5f08b4be93241ebd45b29046c0ad9a86bb9496c9a0d818ce29d2f",
+    "release_id": "2ba8d0f98ec4a5c784e1d093adec3fe1532b6c3f7a9b64d686d65d3da92b185a"
+   },
+   "candidate_B_C_a_and_b": {
+    "binary": "C3 (31e21bc7)",
+    "builder_commit": "1250889ce10b8ba910a5f5ca5f232fd5752e79df",
+    "corpus_commit": "85c41f3898d86737766564fa8d3fd8f6d4ae74a3",
+    "database_sha256": "483264b74cb8f4ffe25917e3876a4a5672cfdf82bce8b940e8b9f527191a9060",
+    "release_id": "0ea9c945cc71bdc6f2d0e4a35c83f1533734f3ee14bade89497dfbfb7df1afe2"
+   },
+   "root": ".work/parser-split/g4-root (disposable --no-hardlinks clone, recorded head_commit c4439068e, same root for all three builds)"
+  },
+  "coverage_mapping": "The plan's 'inspect source manifest, validation report, canonical diff, review queue and Markdown for each source family plus all differing records' maps to the byte-exact strict A/B (retained, sweep, supplement) with an empty allowlist and 0 drift: there is no differing record to inspect",
+  "enumerated_B_to_C_differences": [
+   "release_id (derived from specification and database content)",
+   "database_sha256 (physical bytes, follows from the specification row)",
+   "specification.builder_commit: B -> 1250889ce",
+   "specification.cargo_lock_sha256: lockfile now lists lex-grammar, lex-analysis, lex-link",
+   "corpus_release.id and corpus_release.specification (the same two specification fields)"
+  ],
+  "frozen_inputs_unchanged": "git diff B..HEAD over corpus, schemas, adapters, fixtures and decision docs is empty; only Cargo.toml/Cargo.lock (new crates), crates, docs and prompts changed",
+  "golden_queries": "21 of 21 pass on each of the three releases (the command prints the passing query names; the lists are equal); fixtures/database/golden-queries.json, adapters/shared/_known-structural-debt.json, schemas and the structural-debt docs have an empty diff B..C, and the crates/lex-db changes contain no golden or debt-expectation edit",
+  "independent_verify": "db verify exit 0 on B/B, B/C-a and B/C-b; stale_input_paths empty; input_files 4960; normalized_records 208744",
+  "integrity_and_schema": "PRAGMA integrity_check = ok and PRAGMA foreign_key_check = 0 rows on B/B, B/C-a and B/C-b (opened read-only; db verify also runs both, crates/lex-db/src/verify.rs:554-558). sqlite_master (type, name, tbl_name, sql; 78 objects) is equal for B/B vs B/C and for C-a vs C-b. The corpus_release.specification column differs B/B vs B/C only in builder_commit and cargo_lock_sha256; C-a and C-b specifications are equal",
+  "logical_parity": "logical_content_sha256 8cc3736018bffae94f303d9cbfa378170c9ff0e2842ce708431f08d528b60359 on B/B, B/C-a and B/C-b",
+  "native_at_C": {
+   "cargo clippy --workspace --all-targets -- -D warnings": "exit 0",
+   "cargo fmt --check": "exit 0",
+   "cargo test --workspace": "exit 0; 425 passed, 0 failed, 0 ignored (summed from native-test.log)",
+   "logs": ".work/parser-split/g4-out/native-*.log",
+   "validate ifpe-dcg-2021": "valid; 59 articles, 4 transitories, 115 references, 0 issues",
+   "validate lritf": "valid; 145 articles, 11 transitories, 126 references, 0 issues",
+   "where": "disposable clone .work/parser-split/g4-native checked out at C, own target dir; clean afterwards (validators changed no files)"
+  },
+  "not_done": "reader UI integration check (exporter build, package verification) is an integration requirement on the integration commit, not run here",
+  "repeat_C_builds": "candidate a and b: identical release_id, database_sha256, corpus.sqlite bytes, manifest.json bytes and verify output; verification.json differs only in its recorded output-directory path (candidate-a vs candidate-b)",
+  "row_parity": "tools/g4_compare.py hashes every row of every non-shadow table in key order: 20 of the 21 compared tables are equal (367,323 rows, provisions_fts content included) for B/B vs B/C-a and B/B vs B/C-b (instruments, provisions, reference_edges, reference_qualifiers, defined_terms, term_usages, coverage, known_structural_debt, legal_operator_reviews, outdated_reference_approvals and the rest) except corpus_release, which differs only in id and the two specification fields below. FTS shadow tables are physical, not compared; provisions_fts content is compared",
+  "tested_code_C": "1250889ce10b8ba910a5f5ca5f232fd5752e79df (HEAD production code is identical; later commits are docs, prompts and receipts only)"
+ },
  "gates": {
   "G0": "BASELINE_PAIR_EXACT; plan PASS wording allows unavailable retained inputs to be 'explicitly returned as a coverage blocker' while forbidding calling reduced coverage full acceptance: 106 blockers returned, no claim of full coverage",
   "G1": "AB_EXACT_PENDING_ADVISOR (C1 == B4 on retained, sweep and supplement; strict compare, empty allowlist)",
   "G2": "AB_EXACT_PENDING_ADVISOR (C2 == B4 on retained, sweep and supplement; strict compare, empty allowlist)",
   "G3": "AB_EXACT_PENDING_ADVISOR (C3 == B4 on retained, sweep and supplement; strict compare, empty allowlist)",
-  "G4": "NOT_STARTED",
+  "G4": "PASS_PENDING_ADVISOR (all plan checks met; see g4)",
   "G5": "NOT_STARTED"
  },
  "harness": {
@@ -333,9 +379,8 @@
   "timing_note": "fmt 0-1 s, clippy 3-17 s, tests 26-43 s wall per run, from the raw logs under .work/parser-split/logs/ and cargo 'Finished ... in' lines; the first G1/G2 mech runs did not time every command.",
   "validation_source_note": "Validation figures are taken from the raw logs and the written validation.json files. Two mech hand-back summaries (G1 and G3) swapped the lritf and ifpe-dcg-2021 labels; the raw logs and files were checked and agree across every tree."
  },
- "next_action": "Advisor review of G0 coverage and the A/B result, then commit this evidence. Then G4 DB builds and parity, then G5 final read-only pass and commit-bound Codex handoff. R-001 repair is separate and changes the harness revision.",
+ "next_action": "G5: bounded Opus read-only final pass (rule inventory, graph boundaries, review preservation, comparator blind spots, builder pinning), fix in-scope findings, then a commit-bound pending/codex handoff. R-001 repair is a separate later commit.",
  "open_items": [
-  "G4: B/C DB builds (corpus_commit=B, builder_commit=1250889ce), verify, goldens, parity with the B/B release",
   "R-001 repair after this queue (task recorded; harness and driver untouched)"
  ],
  "plan": "docs/plans/parser-responsibility-split.md",
