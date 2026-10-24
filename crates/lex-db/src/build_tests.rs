@@ -234,7 +234,7 @@ fn independent_verifier_and_queries_cover_all_synthetic_record_groups() {
     let before = fs::read(&database).unwrap();
     let verified = crate::verify::verify(root, &database, &manifest, &pinned).unwrap();
     assert_eq!(verified.normalized_records, 12);
-    assert!(verified.stale_input_paths.is_empty());
+    assert_eq!(verified.stale_input_paths, Vec::<String>::new());
     assert!(verified.fts_token_occurrences > 0);
     assert_eq!(before, fs::read(&database).unwrap());
     let reader = crate::queries::Reader::open(&database).unwrap();

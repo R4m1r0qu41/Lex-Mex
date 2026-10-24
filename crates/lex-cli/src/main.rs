@@ -6630,7 +6630,7 @@ mod tests {
         assert!(in_vault);
         // Closing again changes nothing and refreshes nothing.
         let again = run_batch_closure(root, &["aguas".to_owned()], &[], Some(&vault)).unwrap();
-        assert!(again.glossary_refreshed.is_empty());
+        assert_eq!(again.glossary_refreshed, Vec::<String>::new());
         assert_eq!(
             serde_json::to_value(&rota(root).term_usages).unwrap(),
             serde_json::to_value(&refreshed.term_usages).unwrap()
