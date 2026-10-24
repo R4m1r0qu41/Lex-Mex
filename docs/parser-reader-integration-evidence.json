@@ -421,6 +421,26 @@
   "when": "2026-10-24, on the operator's instruction (advisor review, then push)"
  },
  "r7": "remains unmerged and unpublished by this task; no R7 file is in main or the reader branch; R7 now lacks the parser split, so a future R7 release needs main merged into it first",
+ "r7_candidate": {
+  "commit": "d2ab64d61ecfe103cc2a2980c5d04ed63c20bb7a on integration/r7-parser-sync-2026-10-24 (in the parser worktree), a normal merge, no conflicts",
+  "contents": "reader/ equals R7 byte for byte; crates, Cargo.toml and Cargo.lock equal R; over R it adds only R7's UI files (reader/README.md, browser-check.mjs, index.html, reader-core.mjs, reader.css, reader.js, reader.test.mjs) and its tweaks receipt. main's two docs-only commits are not in it.",
+  "durable_receipts": ".work/parser-reader-integration/r7/ (ignored), hash-manifest.json SHA-256 2dd60b92101b5a38c0608e44c868e44fcabaeb0c537a006a44260c4a9f26a824",
+  "gates": {
+   "content_vs_release_9626bfe4": "the release manifest differs only in release_id, corpus_commit and committed_at; 1782 listed files identical in path, hash, size and bytes; after normalising the release-id name only latest.json, llms.txt, publication.json and the release manifest differ",
+   "exporter_package_parity": "R7-only and candidate binaries, twice each from one root with the retained PDF store: all four release trees (1785 files) and all four package trees (1791 files) byte-identical",
+   "locked_builds": "cargo build --locked -p lex-cli exit 0 for the candidate and for R7 alone",
+   "native_in_disposable_clone": "fmt and clippy clean; cargo test --workspace 430 passed, 0 failed, 0 ignored; validate lritf 145/11/126/0; validate ifpe-dcg-2021 59/4/115/0; clone clean afterwards",
+   "node_tests": "node --test reader/: 24 tests, 24 pass (R7's inventory)",
+   "ui_hashes": "the packaged index.html, reader.js, reader-core.mjs and reader.css equal the source SHA-256s in R7's tweaks receipt; all five UI assets are byte-identical to the R7 preferred package built earlier in reader-five"
+  },
+  "not_run": "no browser or mutation campaign (UI bytes unchanged from R7's reviewed packages); no host staging, pin change, publication or deployment; promoting, restaging and publishing R7 each need their own instruction",
+  "open_item": "Codex's R7 review P3 is still open: headingPath in reader/reader-core.mjs omits the Libro level; nonblocking for the four preferred instruments (no nonempty libro) but needs a fix with a fixture before the reader covers codes that use Libro",
+  "parents": [
+   "162128517576b043a389f753578c5cabb4540898 (R7, unpublished UI)",
+   "f11beebce06b90a2d590acab80078b09fbd254c4 (R, the parser-synced published reader)"
+  ],
+  "status": "LOCAL CANDIDATE ONLY: not promoted, not pushed; feat/reader-tweaks-r7 and the reader-five worktree (2 untracked Codex review files) were not touched"
+ },
  "r_gates": {
   "exporter_package_parity": {
    "against_accepted_local_publication": "compared with reader-four .work/f1-preferred-a (publication 2df70a8a..., release 9626bfe4..., corpus_commit 85c41f389): the release manifest differs only in release_id, corpus_commit and committed_at; all 1782 listed files have an identical path, hash and size and identical actual bytes; the five UI assets (index.html, reader.js, reader.css, reader-core.mjs, lex-mex.svg) are byte-identical; after normalising the release-id directory name, only latest.json, llms.txt, publication.json and releases/<id>/manifest.json differ, all of which embed the release id or commit",

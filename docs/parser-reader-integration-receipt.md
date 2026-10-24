@@ -111,6 +111,20 @@ Raw integration receipts (native, exporter and package logs, DB verify and golde
 preservation inventory, and tree digests for the four releases and four packages) are kept in the ignored
 `.work/parser-reader-integration/`, bound by `hash-manifest.json` (SHA-256 `f7b92404…`).
 
+## R7 candidate (local only)
+
+Started per the operator's "start with R7". A normal merge of R (`f11beebce`) into R7 (`162128517`) on a new local branch,
+`integration/r7-parser-sync-2026-10-24`, gives `d2ab64d61ecfe103cc2a2980c5d04ed63c20bb7a` with no conflicts. `reader/`
+equals R7 byte for byte, and crates and Cargo files equal R. Gates in a disposable clone: fmt and clippy clean; 430 Rust
+tests; both validations valid; `--locked` builds for the candidate and for R7 alone; `node --test reader/` 24 of 24
+(R7's inventory); four releases and four packages (R7-only and candidate binaries, two builds each) byte-identical; the
+packaged UI files equal the source hashes in R7's tweaks receipt; against release `9626bfe4` only the commit-derived
+fields differ and all 1782 listed files match. No browser campaign was needed (UI bytes unchanged from R7's reviewed
+packages). **Not promoted, not pushed, nothing restaged or deployed**: `feat/reader-tweaks-r7` and the reader-five
+worktree were not touched. Codex's R7 review P3 (`headingPath` omits the Libro level) is still open and needs a fix with a
+fixture before the reader covers codes that use Libro. Raw receipts: `.work/parser-reader-integration/r7/`
+(`hash-manifest.json`, SHA-256 `2dd60b92101b5a38c0608e44c868e44fcabaeb0c537a006a44260c4a9f26a824`).
+
 ## Handoff records
 
 Codex's status report (`parser-reader-integration-status-2026-10-24.md`, untracked on main) noticed a gap in these
