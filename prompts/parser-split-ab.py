@@ -403,12 +403,41 @@ def finish(label, binary, kind, baseline, rows, trees, extra):
         sys.exit(3)
 
 
+def archive_interrupted(label, logs):
+    """Move an interrupted attempt's logs aside so the label can run again.
+
+    Nothing is deleted or overwritten: the old directory is renamed, the move is
+    recorded in attempts-<label>.json, and a label that already has a finished
+    result is refused (an interrupted run never produced one).
+    """
+    if (WORK / f"result-{label}.json").exists():
+        sys.exit(f"refusing: {label} already has a finished result; choose a fresh --label")
+    stamp = time.strftime("%Y%m%dT%H%M%SZ", time.gmtime())
+    target = WORK / f"{logs.name}.interrupted-{stamp}"
+    counter = 1
+    while target.exists():
+        counter += 1
+        target = WORK / f"{logs.name}.interrupted-{stamp}-{counter}"
+    files = sum(1 for path in logs.rglob("*") if path.is_file())
+    logs.rename(target)
+    record = WORK / f"attempts-{label}.json"
+    history = json.loads(record.read_text()) if record.exists() else []
+    history.append({"archived_to": target.name, "files": files, "utc": stamp})
+    record.write_text(json.dumps(history, indent=1) + "\n")
+    print(f"{label}: archived interrupted attempt ({files} files) to {target.name}", flush=True)
+
+
 def prepare(args, git_init=False):
     binary = Path(args.binary).resolve()
     baseline = args.baseline or json.loads((WORK / "coverage-manifest.json").read_text())["baseline"]
     logs = WORK / f"logs-{args.label}"
     if logs.exists():
-        sys.exit(f"refusing to overwrite {logs}; choose a fresh --label")
+        if not args.archive_interrupted:
+            sys.exit(
+                f"refusing to overwrite {logs}; choose a fresh --label, or pass "
+                "--archive-interrupted to move an interrupted attempt aside"
+            )
+        archive_interrupted(args.label, logs)
     logs.mkdir(parents=True)
     snapshots = WORK / "harness-snapshots"
     snapshots.mkdir(exist_ok=True)
@@ -657,6 +686,11 @@ def main():
         run.add_argument("--limit", type=int)
         run.add_argument("--skip-extract", action="store_true", help="sweep only: skip retained re-extraction")
         run.add_argument("--supplement", action="store_true", help="replay only: use the hash-recovered supplementary inputs")
+        run.add_argument(
+            "--archive-interrupted",
+            action="store_true",
+            help="if logs-<label> exists from an interrupted run, rename it aside and run again; never touches a finished label",
+        )
         run.set_defaults(func=func)
     supp = sub.add_parser("freeze-supplement")
     supp.add_argument("--search", required=True)

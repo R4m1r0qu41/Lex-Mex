@@ -18,6 +18,13 @@ Cases:
                    harness revision and is not committed, so it fails a strict
                    comparison with the control (rc 1)
   snapshot-tamper  changing the executing snapshot mid-run fails the run (rc 3)
+  restart-refused  an existing logs-<label> without --archive-interrupted is
+                   refused and left byte-identical
+  restart-archive  with --archive-interrupted the interrupted logs are renamed
+                   aside intact, the attempt is recorded, and the label runs
+  restart-finished a label with a finished result is refused even with the flag
+  driver-outputs   the queue driver never reuses (truncates) an existing output
+                   file name
 """
 import json
 import os
@@ -47,8 +54,8 @@ def harness(args, script=HARNESS, background=False):
     return subprocess.run(command, env=env, capture_output=True, text=True)
 
 
-def replay(label, script=HARNESS, background=False):
-    args = ["replay", "--binary", str(BINARY), "--label", label, "--only", "ccf"]
+def replay(label, script=HARNESS, background=False, extra=()):
+    args = ["replay", "--binary", str(BINARY), "--label", label, "--only", "ccf", *extra]
     return harness(args, script, background)
 
 
@@ -165,6 +172,41 @@ def main():
             if (WORK / "result-selftest-tamper.json").exists():
                 check("snapshot-tamper: result marks the harness changed", load("selftest-tamper")["harness_unchanged"] is False)
             snapshot.unlink(missing_ok=True)
+
+        # same-label restart (R-001)
+        interrupted = WORK / "logs-selftest-restart"
+        interrupted.mkdir()
+        (interrupted / "ccf.parse.stdout").write_text("partial evidence from an interrupted attempt\n")
+        before = sorted((p.name, p.read_bytes()) for p in interrupted.iterdir())
+        done = replay("selftest-restart")
+        check("restart-refused: existing logs without the flag fail", done.returncode != 0 and "--archive-interrupted" in done.stderr + done.stdout)
+        check("restart-refused: logs left byte-identical", sorted((p.name, p.read_bytes()) for p in interrupted.iterdir()) == before)
+        done = replay("selftest-restart", extra=["--archive-interrupted"])
+        check("restart-archive: label runs again", done.returncode == 0, done.stderr[-200:])
+        moved = list(WORK.glob("logs-selftest-restart.interrupted-*"))
+        check("restart-archive: interrupted logs kept intact", len(moved) == 1 and sorted((p.name, p.read_bytes()) for p in moved[0].iterdir()) == before)
+        record = WORK / "attempts-selftest-restart.json"
+        check("restart-archive: attempt recorded", record.exists() and len(json.loads(record.read_text())) == 1)
+        if done.returncode == 0:
+            check("restart-archive: new run is clean evidence", all(load("selftest-restart")[k] for k in ("harness_unchanged", "harness_committed", "binary_unchanged")))
+            check("restart-archive: restarted run compares exactly with the control", compare("selftest-a", "selftest-restart") == 0)
+        done = replay("selftest-restart", extra=["--archive-interrupted"])
+        check("restart-finished: finished label refused even with the flag", done.returncode != 0 and "finished result" in done.stderr + done.stdout)
+
+        # driver never truncates an earlier attempt's output
+        import importlib.util
+        spec = importlib.util.spec_from_file_location("queue_driver", REPO / "prompts" / "parser-split-queue.py")
+        driver = importlib.util.module_from_spec(spec)
+        spec.loader.exec_module(driver)
+        with tempfile.TemporaryDirectory() as tmp:
+            first = Path(tmp) / "label.out"
+            check("driver-outputs: fresh name is used as is", driver.unused_path(first) == first)
+            first.write_text("attempt one")
+            second = driver.unused_path(first)
+            second.write_text("attempt two")
+            third = driver.unused_path(first)
+            check("driver-outputs: later attempts get their own names", second.name == "label.attempt-2.out" and third.name == "label.attempt-3.out")
+            check("driver-outputs: earlier output untouched", first.read_text() == "attempt one")
     finally:
         cleanup()
     failed = [name for name, ok in results if not ok]
