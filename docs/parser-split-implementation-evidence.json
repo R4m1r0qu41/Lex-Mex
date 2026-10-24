@@ -1,0 +1,753 @@
+{
+ "artifact": "parser-split-implementation-evidence",
+ "baseline": {
+  "B": "85c41f3898d86737766564fa8d3fd8f6d4ae74a3",
+  "branch": "refactor/parser-split",
+  "build": "CARGO_TARGET_DIR=.work/parser-split/target cargo build --locked --release -p lex-cli",
+  "frozen_binary": ".work/parser-split/bin/B/lex-mex",
+  "frozen_binary_sha256": "5c4a3f29acb7e5a1de6766f011a9d48f387178c2f38a592cfb11f2aef03c7730",
+  "worktree": "/Users/jr/Dev/lex-mex-parser-split"
+ },
+ "binaries": {
+  "B": {
+   "sha256": "5c4a3f29acb7e5a1de6766f011a9d48f387178c2f38a592cfb11f2aef03c7730",
+   "source": "85c41f3898d86737766564fa8d3fd8f6d4ae74a3"
+  },
+  "C1": {
+   "sha256": "90cc26578cabf10a3fa8bf069e238834adff2a18fd8bb5530a839f8f2e0fa7bc",
+   "source": "07cfa5536 (clean tree)"
+  },
+  "C2": {
+   "sha256": "17b09ead9b58436ae453c71c3a1e290cd01b1ee382e40a847c258e9e05c077f1",
+   "source": "fd70e4370 (clean tree)"
+  },
+  "C3": {
+   "sha256": "31e21bc7c7afe31435486a942cad36de44db5dc6712c131f16eddbea83508235",
+   "source": "1250889ce (clean tree)"
+  }
+ },
+ "c3_covers_head": "git diff 1250889ce..366cef07f over crates, Cargo.toml, Cargo.lock, rust-toolchain*, schemas, fixtures/database and adapters is empty: HEAD production code equals the source of binary C3. Commits after 1250889ce touch only docs, prompts (harness, driver, self-test, API fixture generator) and receipts.",
+ "commits": {
+  "07cfa5536": "G1 candidate (lex-parse split into modules) = source of binary C1",
+  "1250889ce": "G3 candidate B (check_builder unknown-source rejection) = source of binary C3",
+  "366cef07f": "R-001 recorded for repair",
+  "5c074e21d": "G3 candidate A (lex-link, consumer migration, pinning, API fixture)",
+  "73f42a983": "self-test fix (out-of-repo harness copies need PARSER_SPLIT_REPO)",
+  "B_baseline": "85c41f3898d86737766564fa8d3fd8f6d4ae74a3",
+  "ad1c8382a": "record correction",
+  "c4439068e": "receipt and evidence update",
+  "d05d98d3b": "strict harness, self-test, driver",
+  "f1da6f1e7": "harness extension (supplement, whole-root digest, extra sweep steps)",
+  "fd70e4370": "G2 candidate (lex-grammar, lex-analysis) = source of binary C2",
+  "ff38d1882": "G0 tooling: plan, harness, evidence skeleton"
+ },
+ "coverage_resolution": {
+  "absent_inputs": 113,
+  "blocker_note": "106 instruments have no retained source anywhere searched; they are covered by the whole-corpus sweep (link, derive, validate, export) but not by parse replay. Full parse-replay coverage is therefore NOT claimed.",
+  "blockers": 106,
+  "families_absent": {
+   "diputados": 111,
+   "itf-dcg": 2
+  },
+  "no_adapter_standards": 32,
+  "recovered": 7,
+  "recovered_from": "/Users/jr/Dev/lex-mex/.work/parser-linker-fix-20261016/replay/<slug>/.work/<slug>/ (text and source both matched by hash)",
+  "recovered_slugs": [
+   "lcmopfih",
+   "lftr",
+   "lga",
+   "lgag",
+   "lif-2026",
+   "pef-2026",
+   "reg-lgs-insumos"
+  ],
+  "search": "sha256 match of extracted_text_sha256 and source_sha256 over 77,479 candidate files in main .work, .delta, experiments/github-distillation, lex-mex-db, lex-mex-reader, reader-four and reader-five .work (tool: .work/parser-split/tools/find_absent.py; result .work/parser-split/absent-search.json)",
+  "standards_covered_by": "sweep: standards validate and standards refresh for each NOM",
+  "supplement_inputs_tree_sha256": "45c5a23f6b4b59efb43aa727e9603b851507f0d57e2ab0197854d1c65dda0a29",
+  "supplement_replay_order": [
+   "lcmopfih",
+   "lftr",
+   "lga",
+   "lgag",
+   "lif-2026",
+   "pef-2026",
+   "reg-lgs-insumos"
+  ]
+ },
+ "date_inertness": {
+  "committed_corpus_scan": "CORRECTED. Scan of committed corpus JSON for date fields on or after 2026-10-01 found one file: corpus/mx/lritf/temporal-analysis-result.json holds two end_condition fixed_date values of 2027-04-01 (staged_commencement fallback, model-proposed, not a derived commencement). No other hit.",
+  "limit": "this shows inertness for the run dates used, not for arbitrary future dates (for example after 2027-04-01)",
+  "reason": "derive-temporal reads today's UTC date",
+  "retained_B1_derive_outputs": "354 derive-temporal outputs scanned earlier; latest resolved commencement 2026-01-20",
+  "run_dates": "all strict runs executed between 2026-10-23T23:42Z and 2026-10-24T10:35Z; the only ISO date value after 2026-10-01 in committed JSON is 2027-04-01 (not a derived commencement); the scan did not cover dates written in Spanish inside transitory text",
+  "sweep_outputs": "not separately scanned: the sweep derive-temporal stdout carries no dates and the disposable roots are not retained; byte-identical results across runs that straddle UTC midnight are the supporting evidence",
+  "why_it_cannot_hide_drift": "B and C ran in the same window on the same clock, so date dependence could create false drift but cannot hide a real difference; it is a reproducibility question, not a threat to the gate verdict"
+ },
+ "deferred_and_notes": [
+  "lex-parse remains pinned in the DB builder although lex-db no longer links it, so a change to lex-parse alone now changes DB builder identity (conservative choice)",
+  "validate_standard stays in lex-parse (re-runs recognition; see rule inventory PA-09)",
+  "link regression tests stay in lex-parse (they build provisions through parser fixtures; forward dependency, no reverse dev-dependency)",
+  "validate_reference and validate_references are public in lex-analysis for three cross-stage tests",
+  "import-temporal, review open/resolve, codex provider and standards compile are not reached by the harness: their callers use no moved symbol except through paths the harness already exercises (see CLI caller map in the rule inventory commit history and receipt)"
+ ],
+ "deferred_repairs": [
+  {
+   "constraints_until_queue_ends": [
+    "do not edit prompts/parser-split-ab.py or prompts/parser-split-queue.py (any edit changes the harness revision and fails strict comparison with the running queue's runs)",
+    "do not delete or move logs-<label>, <label>.out, queue-state.json, queue-stopped.json or queue.log",
+    "do not restart the queue"
+   ],
+   "finding": "A run interrupted part-way cannot be restarted with the same label: prompts/parser-split-ab.py prepare() refuses when logs-<label> already exists ('refusing to overwrite ... choose a fresh --label').",
+   "id": "R-001",
+   "if_the_queue_stops_unexpectedly": [
+    "leave every partial artifact in place as evidence",
+    "do not use the driver's resume",
+    "run the failed step by hand with the same committed harness (unchanged file, so the same frozen snapshot) and a fresh attempt label such as <label>-a2, with the same binary and --baseline arguments",
+    "compare with explicit labels, strictly, against the same counterpart; record both attempts and why the first stopped in this file",
+    "a result from an interrupted attempt is never used as gate evidence"
+   ],
+   "note": "The repair changes the harness revision, so it must not be used to produce evidence that is compared with this queue's runs; if the repaired harness is ever used for gate evidence the affected runs are repeated under it.",
+   "related_finding": "prompts/parser-split-queue.py opens <label>.out and compare-<a>-vs-<b>.out in write mode, so resuming a stopped step under its original label would truncate the interrupted attempt's stdout record even before the harness refuses; the driver's resume therefore cannot recover an interrupted run.",
+   "repair_after_queue": [
+    "harness: an explicit attempt mode that archives or refuses an interrupted log directory without deleting it, instead of a bare refusal",
+    "driver: unique per-attempt output files opened without truncation, attempt number kept in queue-state.json, labels carrying the attempt",
+    "self-test cases: a restart with the same label is handled without losing the interrupted attempt's evidence"
+   ],
+   "repair_result": "harness --archive-interrupted (rename aside, record in attempts-<label>.json, refuse a label with a finished result); driver: per-attempt output names, stop marker not overwritten, attempts counted in queue-state.json, resumed runs pass the flag; 11 new self-test checks",
+   "reported_by": "Codex review",
+   "status": "REPAIRED in e09aec70d after the queue finished; the repaired harness was not used for gate evidence"
+  }
+ ],
+ "dependency_graph_g3": {
+  "lex-analysis": [
+   "lex-core",
+   "lex-grammar"
+  ],
+  "lex-cli": [
+   "lex-analysis",
+   "lex-core",
+   "lex-db",
+   "lex-export",
+   "lex-grammar",
+   "lex-link",
+   "lex-parse",
+   "lex-source"
+  ],
+  "lex-core": [],
+  "lex-db": [
+   "lex-analysis",
+   "lex-core",
+   "lex-grammar"
+  ],
+  "lex-export": [
+   "lex-core"
+  ],
+  "lex-grammar": [],
+  "lex-link": [
+   "lex-core",
+   "lex-grammar"
+  ],
+  "lex-parse": [
+   "lex-analysis",
+   "lex-core",
+   "lex-grammar",
+   "lex-link"
+  ],
+  "lex-source": [
+   "lex-core"
+  ],
+  "source": ".work/parser-split/dep-edges-g3.txt (cargo tree --edges normal,dev --depth 1)"
+ },
+ "found_defects": [
+  {
+   "disposition": "fixed in isolated commit 1250889ce with a negative test that fails when the check is disabled; operator may accept or revert independently",
+   "finding": "a builder commit holding an extra .rs or .json source file in a pinned directory passed provenance although a comment said unknown sources are rejected; only schemas had inventory equality",
+   "id": "D-001",
+   "where": "crates/lex-db/src/build.rs check_builder at baseline B"
+  }
+ ],
+ "frozen_inputs": {
+  "coverage_manifest": ".work/parser-split/coverage-manifest.json (ignored; hash-bound by inputs_tree_sha256 and replay_order)",
+  "input_file_count": 1307,
+  "inputs_tree_sha256": "4ef1612d173a214c2944662dec48453b76e8271ba3361eae72eabf30c810de22",
+  "replayed_but_not_provenance_matched": [
+   "cub-dcg-2005",
+   "lfiiedb"
+  ],
+  "slugs_replayed": 355,
+  "slugs_total": 500,
+  "source_work": "/Users/jr/Dev/lex-mex/.work",
+  "unavailable": {
+   "no_adapter_nom_standards": 32,
+   "retained_text_absent": 113
+  }
+ },
+ "g4": {
+  "artifacts": "Outputs in .work/parser-split/g4-out (baseline-bb*, cand-a*, cand-b*, compare-bb-vs-ca.json, compare-bb-vs-cb.json, native-*.log, ignored). Commands committed as prompts/parser-split-g4-candidate.sh, prompts/parser-split-g4-native.sh and prompts/parser-split-g4-compare.py; they hard-code the operator worktree paths under /Users/jr/Dev/lex-mex-parser-split/.work/parser-split",
+  "builds": {
+   "baseline_B_B": {
+    "binary": "B",
+    "builder_commit": "85c41f3898d86737766564fa8d3fd8f6d4ae74a3",
+    "corpus_commit": "85c41f3898d86737766564fa8d3fd8f6d4ae74a3",
+    "database_sha256": "27f7599ccba5f08b4be93241ebd45b29046c0ad9a86bb9496c9a0d818ce29d2f",
+    "release_id": "2ba8d0f98ec4a5c784e1d093adec3fe1532b6c3f7a9b64d686d65d3da92b185a"
+   },
+   "candidate_B_C_a_and_b": {
+    "binary": "C3 (31e21bc7)",
+    "builder_commit": "1250889ce10b8ba910a5f5ca5f232fd5752e79df",
+    "corpus_commit": "85c41f3898d86737766564fa8d3fd8f6d4ae74a3",
+    "database_sha256": "483264b74cb8f4ffe25917e3876a4a5672cfdf82bce8b940e8b9f527191a9060",
+    "release_id": "0ea9c945cc71bdc6f2d0e4a35c83f1533734f3ee14bade89497dfbfb7df1afe2"
+   },
+   "root": ".work/parser-split/g4-root (disposable --no-hardlinks clone, recorded head_commit c4439068e, same root for all three builds)"
+  },
+  "coverage_mapping": "The plan's 'inspect source manifest, validation report, canonical diff, review queue and Markdown for each source family plus all differing records' maps to the byte-exact strict A/B (retained, sweep, supplement) with an empty allowlist and 0 drift: there is no differing record to inspect",
+  "enumerated_B_to_C_differences": [
+   "release_id (derived from specification and database content)",
+   "database_sha256 (physical bytes, follows from the specification row)",
+   "specification.builder_commit: B -> 1250889ce",
+   "specification.cargo_lock_sha256: lockfile now lists lex-grammar, lex-analysis, lex-link",
+   "corpus_release.id and corpus_release.specification (the same two specification fields)"
+  ],
+  "frozen_inputs_unchanged": "git diff B..HEAD over corpus, schemas, adapters, fixtures and decision docs is empty; only Cargo.toml/Cargo.lock (new crates), crates, docs and prompts changed",
+  "golden_queries": "21 of 21 pass on each of the three releases (the command prints the passing query names; the lists are equal); fixtures/database/golden-queries.json, adapters/shared/_known-structural-debt.json, schemas and the structural-debt docs have an empty diff B..C, and the crates/lex-db changes contain no golden or debt-expectation edit",
+  "independent_verify": "db verify exit 0 on B/B, B/C-a and B/C-b; stale_input_paths empty; input_files 4960; normalized_records 208744",
+  "integrity_and_schema": "PRAGMA integrity_check = ok and PRAGMA foreign_key_check = 0 rows on B/B, B/C-a and B/C-b (opened read-only; db verify also runs both, crates/lex-db/src/verify.rs:554-558). sqlite_master (type, name, tbl_name, sql; 78 objects) is equal for B/B vs B/C and for C-a vs C-b. The corpus_release.specification column differs B/B vs B/C only in builder_commit and cargo_lock_sha256; C-a and C-b specifications are equal",
+  "logical_parity": "logical_content_sha256 8cc3736018bffae94f303d9cbfa378170c9ff0e2842ce708431f08d528b60359 on B/B, B/C-a and B/C-b",
+  "native_at_C": {
+   "cargo clippy --workspace --all-targets -- -D warnings": "exit 0",
+   "cargo fmt --check": "exit 0",
+   "cargo test --workspace": "exit 0; 425 passed, 0 failed, 0 ignored (summed from native-test.log)",
+   "logs": ".work/parser-split/g4-out/native-*.log",
+   "validate ifpe-dcg-2021": "valid; 59 articles, 4 transitories, 115 references, 0 issues",
+   "validate lritf": "valid; 145 articles, 11 transitories, 126 references, 0 issues",
+   "where": "disposable clone .work/parser-split/g4-native checked out at C, own target dir; clean afterwards (validators changed no files)"
+  },
+  "not_done": "reader UI integration check (exporter build, package verification) is an integration requirement on the integration commit, not run here",
+  "repeat_C_builds": "candidate a and b: identical release_id, database_sha256, corpus.sqlite bytes, manifest.json bytes and verify output; verification.json differs only in its recorded output-directory path (candidate-a vs candidate-b)",
+  "row_parity": "tools/g4_compare.py hashes every row of every non-shadow table in key order: 20 of the 21 compared tables are equal (367,323 rows, provisions_fts content included) for B/B vs B/C-a and B/B vs B/C-b (instruments, provisions, reference_edges, reference_qualifiers, defined_terms, term_usages, coverage, known_structural_debt, legal_operator_reviews, outdated_reference_approvals and the rest) except corpus_release, which differs only in id and the two specification fields below. FTS shadow tables are physical, not compared; provisions_fts content is compared",
+  "tested_code_C": "1250889ce10b8ba910a5f5ca5f232fd5752e79df (HEAD production code is identical; later commits are docs, prompts and receipts only)"
+ },
+ "g5": {
+  "builder_pinning": "root Cargo.toml and Cargo.lock are in BUILDER_FILES (crates/lex-db/src/build.rs:20-21); the other lex-db changes (verify, contract, queries, validation) are only import and path renames to lex_grammar and lex_analysis",
+  "caller_map_undriven_commands": [
+   {
+    "command": "import-temporal",
+    "driven_stage": "none (not driven); no moved symbol, so unchanged code path",
+    "moved_symbols_reached": "none directly (handler run_temporal_import and republish_exports use lex-core and lex-export)"
+   },
+   {
+    "command": "review open / review resolve",
+    "driven_stage": "none (not driven); no moved symbol",
+    "moved_symbols_reached": "none directly (run_review_command uses lex-core)"
+   },
+   {
+    "command": "analyze-temporal --provider codex",
+    "driven_stage": "analyze-temporal with provider none (temporal-request stage); codex provider itself not driven, no moved symbol",
+    "moved_symbols_reached": "none directly; run_temporal_request and run_codex_temporal use lex-core routing"
+   },
+   {
+    "command": "standards compile",
+    "driven_stage": "standards validate and refresh for 32 NOMs (same lex-parse functions); compile itself not driven",
+    "moved_symbols_reached": "none (standards.rs imports parse_standard_clauses, parse_standard_supplements, parse_standard_transitories, strip_page_furniture, validate_standard from lex-parse; none moved to another crate)"
+   },
+   {
+    "command": "pipeline",
+    "driven_stage": "orchestration not driven as one command; each component is driven by the validate and derive-temporal stages",
+    "moved_symbols_reached": "validate_corpus and the derive-temporal functions via run_validate and run_temporal_derive"
+   },
+   {
+    "command": "batch run / batch closure",
+    "driven_stage": "not driven by the harness; the same functions are driven by link --all, validate and derive-temporal; run_batch_closure is exercised by lex-cli unit tests that pass at C",
+    "moved_symbols_reached": "extract_references, extract_term_usages, validate_corpus via propose_references, refresh_linked_terms, classify_closure, run_batch_instrument"
+   }
+  ],
+  "dev_dependency_graph": "dev-dependencies of lex-grammar (none), lex-analysis (pretty_assertions), lex-link (pretty_assertions) have no project edge; no edge from grammar, analysis or link to parse, CLI, DB or export",
+  "driven_command_map": [
+   {
+    "command": "parse",
+    "moved": "initial_temporal_status, initial_repeals (lex-analysis), grammar helpers, links_for_parsed_instrument -> lex-link",
+    "stage": "parse (retained + sweep)"
+   },
+   {
+    "command": "link / link --all",
+    "moved": "extract_references, extract_term_usages*, apply_* reviews (lex-link, lex-analysis)",
+    "stage": "link-all, link-lritf, link-ifpe"
+   },
+   {
+    "command": "validate",
+    "moved": "validate_corpus (lex-analysis)",
+    "stage": "validate"
+   },
+   {
+    "command": "derive-temporal [--repair-dates-only]",
+    "moved": "temporal_derive::* (lex-analysis)",
+    "stage": "derive-temporal per slug; repair-dates-lritf, repair-dates-ccf"
+   },
+   {
+    "command": "db project / verify / golden-queries / contract-probe",
+    "moved": "validate_corpus, canonical_slug (lex-db imports)",
+    "stage": "G4 builds; db-contract-probe in the sweep"
+   }
+  ],
+  "facade_no_copied_logic": "Same-name functions in lex-parse and the moved crates: collapse_whitespace and slug in dcg.rs and slug in terms.rs exist at B as private helpers (dcg.rs:678, 682; terms.rs:1973) and are unchanged; no function was copied into the facade",
+  "harness_revision_for_reproduction": "gate evidence used harness blob 9c329e0c (commit d05d98d3b); HEAD carries blob 24c9534b. A replay with the HEAD harness fails strict comparison with the gate runs on revision alone, which is not drift; reproduce with the harness from d05d98d3b or compare new-revision runs only with each other",
+  "inventory_resolution": "26 rule rows (GR-01..PA-09); 187 backticked symbols resolve in crates at HEAD; the one non-literal token resolve_commencement* matches two functions in lex-analysis temporal_derive.rs",
+  "pass": "bounded advisor (Opus 5.5) read-only final pass; also serves as the G3 coupling and provenance review, which ran after G4 because the operator started G4 first after Codex's OK. No provenance change followed, so C is unchanged and G4 stands.",
+  "review_preservation": {
+   "callers": "lex-cli main.rs extract_instrument_references (reached by relink_instrument, links_for_parsed_instrument, propose_references)",
+   "driven_by": "harness stages parse, link --all, link lritf, link ifpe-dcg-2021 (zero drift B4 vs C1/C2/C3); DB tables legal_operator_reviews (16 rows) and outdated_reference_approvals (17 rows) equal row for row, payloads included, B/B vs B/C",
+   "limit": "legal-operator reviews are not enumerated here by decision value; the fixtures pin the fail-closed shapes",
+   "temporal review queue": "review open/resolve and import-temporal use lex-core only (resolve_temporal_review, parse_temporal_model_response); nothing in them moved",
+   "tests": "the fixture tests that exercise approval, mismatch, overwrite refusal and no-match failure stay in lex-parse (they build provisions through parser fixtures) and pass at C, calling the functions through the lex_parse facade (lex-parse/src/lib.rs); cargo test -p lex-analysis has no test for them",
+   "what_moved": "apply_outdated_reference_approvals and apply_legal_operator_reviews (AN-04), byte-identical bodies in lex-analysis/src/review.rs; they attach reviews to extracted edges or fail closed (exact-one-edge match, no overwrite); there is no rejected/unresolved enum in these functions"
+  },
+  "test_identity": "cargo test --workspace -- --list at B and at C: 419 vs 425 tests; every B test name is present at C (six moved from lex-parse to lex-analysis with only the module prefix changed: initial::tests::repeal_marker_alone_on_its_line_is_a_repeal_but_a_sentence_is_not, initial::tests::unanalyzed_temporal_status_is_unknown_except_for_an_explicit_repeal_note, validate::tests::header_contamination_requires_standalone_page_furniture, validate::tests::partial_repeal_and_condition_records_are_required_where_the_status_needs_them, validate::tests::partial_repeal_notes_are_classified_only_in_the_unambiguous_shape, validate::tests::plain_article_number_reads_bare_ordinals_only); the six new tests are the five lex-db provenance tests (changed_manifest_in_each_new_crate_is_rejected_with_its_path, changed_source_in_each_new_crate_is_rejected_with_its_path, every_pinned_directory_has_a_rebuild_trigger_and_an_inventory, newly_added_consumed_source_is_rejected_even_when_every_compiled_file_matches, unchanged_builder_commit_with_notes_is_accepted) and lex_parse_public_paths_resolve",
+  "validate_reference_visibility": "validate_reference and validate_references were private at B (lib.rs:2417, 2449) and are not among the 126 baseline public items, so no baseline-public signature changed"
+ },
+ "gates": {
+  "G0": "BASELINE_PAIR_EXACT; plan PASS wording allows unavailable retained inputs to be 'explicitly returned as a coverage blocker' while forbidding calling reduced coverage full acceptance: 106 blockers returned, no claim of full coverage",
+  "G1": "AB_EXACT_PENDING_ADVISOR (C1 == B4 on retained, sweep and supplement; strict compare, empty allowlist)",
+  "G2": "AB_EXACT_PENDING_ADVISOR (C2 == B4 on retained, sweep and supplement; strict compare, empty allowlist)",
+  "G3": "AB_EXACT_PENDING_ADVISOR (C3 == B4 on retained, sweep and supplement; strict compare, empty allowlist)",
+  "G4": "PASS_PENDING_ADVISOR (all plan checks met; see g4)",
+  "G5": "IN_PROGRESS (advisor pass done, records written; handoff pending)"
+ },
+ "harness": {
+  "acceptance_selftest": {
+   "cases": [
+    "control: unchanged pair compares exactly and all evidence flags are true",
+    "missing evidence from both results fails",
+    "missing evidence from one result fails",
+    "legacy flag exits 2, never 0",
+    "missing row key from both results fails",
+    "live edit mid-run does not change what executes, is recorded, and still compares exactly",
+    "a later run from the edited copy is not committed, has a different revision, and fails strict comparison",
+    "changing the executing snapshot mid-run fails the run with exit 3",
+    "restart-refused: existing logs without --archive-interrupted are refused and left byte-identical",
+    "restart-archive: with the flag the interrupted logs are kept intact under a renamed directory, the attempt is recorded, and the label runs and compares exactly with the control",
+    "restart-finished: a label with a finished result is refused even with the flag",
+    "driver-outputs: the queue driver never reuses an existing output name"
+   ],
+   "first_run": "failed 3 cases because the test launched out-of-repo harness copies without PARSER_SPLIT_REPO; fixed in the test (73f42a983), not in the harness",
+   "result": "28/28 checks passed on the repaired harness e09aec70d (log .work/parser-split/logs/selftest-3.log); the earlier 17/17 (selftest-2.log) was on the revision that produced the gate evidence",
+   "script": "prompts/parser-split-ab-selftest.py"
+  },
+  "api_fixture": {
+   "compiles_against": [
+    "baseline 85c41f389 (own target dir, disposable archive root)",
+    "candidate"
+   ],
+   "file": "crates/lex-cli/tests/lex_parse_api_compat.rs",
+   "generator": "prompts/parser-split-api-fixture.py",
+   "limit": "proves paths resolve, not signature shape",
+   "negative_control": "a wrong path in a temporary test file failed with E0432 unresolved import",
+   "paths": 126
+  },
+  "caveat": "Applies only to the legacy runs B1 and B2, whose harness hash was recorded when the run ended. For every valid run (from commit d05d98d3b) the hash is taken at process start and the harness executes from a frozen read-only snapshot.",
+  "evidence_rules": [
+   "compare is strict by default: a required field missing from one or both results fails",
+   "results must have identical field sets and the same harness revision",
+   "every row must carry slug, stage, argv, exit, stdout_sha256, stderr_sha256, corpus_tree_sha256 (and work_tree_sha256 for replay, extract and audit rows)",
+   "a run records harness_unchanged, harness_frozen_snapshot, harness_committed, binary_unchanged and whether the live source changed; a changed executing snapshot or binary makes the run exit 3",
+   "--allow-legacy-format compares older results, reports evidence_complete=false and exits 2, never 0",
+   "every compare file records the comparator's own harness hash"
+  ],
+  "g5_harness_revision_for_reproduction": "replay with the harness from d05d98d3b (blob 9c329e0c), or compare only runs made by the same later revision",
+  "path": "prompts/parser-split-ab.py",
+  "repaired_revision": {
+   "commit": "e09aec70d",
+   "git_blob": "24c9534bd65d761b96501899a48bd27b06456c55",
+   "purpose": "R-001 only (--archive-interrupted); no change to what a run records or compares"
+  },
+  "revision_for_all_valid_runs": {
+   "commit": "d05d98d3b (self-test fix 73f42a983 changes only the self-test)",
+   "executes_from": ".work/parser-split/harness-snapshots/<sha256>.py (read-only, re-exec'd with PARSER_SPLIT_REPO)",
+   "git_blob": "9c329e0c4f973b8dcceb6c800cec69ea9a3fde4a",
+   "note": "Every gate run used blob 9c329e0c. Later blobs (24c9534b R-001, 321a651c A-001/A-002, 1674a448 A-002 follow-up) produced no gate evidence.",
+   "sha256": "fa321e4659694f9d6daa78820842d3a6e36f9bf8e5a60369c391d5eca014044e"
+  },
+  "sha256_at_f1da6f1e7": "a9a034912b37f0ee99269894fc7df74e30c35bf71370a0d1a3b7ecaf2ed91bd5",
+  "sha256_at_ff38d1882": "f28c7aa40e701f17c142749253e9b3226771c67f1a88bfea2276979b9abdc73a"
+ },
+ "ignored_artifact_sha256": {
+  "files": {
+   "api-inventory.json": "4a70a37049ad48cfa711de581cda49b31463556b98f232ab34b2a07e4a050a3c",
+   "bin/B/lex-mex": "5c4a3f29acb7e5a1de6766f011a9d48f387178c2f38a592cfb11f2aef03c7730",
+   "bin/C1/lex-mex": "90cc26578cabf10a3fa8bf069e238834adff2a18fd8bb5530a839f8f2e0fa7bc",
+   "bin/C2/lex-mex": "17b09ead9b58436ae453c71c3a1e290cd01b1ee382e40a847c258e9e05c077f1",
+   "bin/C3/lex-mex": "31e21bc7c7afe31435486a942cad36de44db5dc6712c131f16eddbea83508235",
+   "compare-retained-B2-vs-retained-B3.json": "8b9a1aa9615a359b5de7282f9862e26163e22e6b371dd403a970c2797becc9a6",
+   "compare-retained-B3-vs-retained-B4.json": "aabe2d43c731aa6cf9709eb255ee80fd7596cdb0d18d6ec74574872a9970e30f",
+   "compare-retained-B4-vs-retained-C1.json": "1b00c036a9feb796ff40a2008c68270f9f024bdc0d5dee04efe2424c85be6ee4",
+   "compare-retained-B4-vs-retained-C2.json": "8f0b232ac67a6047b026d613285632655a405c4eddb058b8111d03887febf506",
+   "compare-retained-B4-vs-retained-C3.json": "ba0729ef530bd3d243ceb07603fa35cde13e16c04375c7c7fc13e74f6fef58d6",
+   "compare-supp-B3-vs-supp-B4.json": "5ae0b37ee9634eb8cf4dd41ad190bb160a12f05557e47052af7534a443c7ac4d",
+   "compare-supp-B4-vs-supp-C1.json": "eb95c187ad9e3ead879a5cc8af0bc2d82f498676d7e7b95fb9675666ef728067",
+   "compare-supp-B4-vs-supp-C2.json": "ee83484c7c368c901b543bb346b4194e2a511b3ba696bcd6f7864030c4de0e53",
+   "compare-supp-B4-vs-supp-C3.json": "0f757862c145c9b6d9cc49934db855608fead7a5a3d9bb6ac8136bb54b5fb0ec",
+   "compare-sweep-B3-vs-sweep-B4.json": "ffd01a1ef1aff0d4a3c0d0ca023fc785373c741c6bd010d4e4a299c8dd3d2cae",
+   "compare-sweep-B4-vs-sweep-C1.json": "e3d2a7224ae8d99b1f85cebedc7405d1c48c5954beaec5a4214634367c4a7e13",
+   "compare-sweep-B4-vs-sweep-C2.json": "af3a4689d29e5919e3e2b8bc2876931a757b495cb16760eaf3e0a01b652125bb",
+   "compare-sweep-B4-vs-sweep-C3.json": "bd9acaae001b82171e4b05cc1f42d87424e5274d042de62a1c4ae8d7428655da",
+   "coverage-manifest-supplement.json": "efe68af8c7f9028ceb630bc20915c63dd8c0982b914631ad2bf4d1ba2e0a5971",
+   "coverage-manifest.json": "8893e33b20a90ba10b0da2f684158d951b72153acf21f1757fc35eb8dbd608d3",
+   "g4-out/baseline-bb-golden.json": "3ddc9eecbcddbcb0ea918672b48253dd65b07df3986c384e08be8ab713006140",
+   "g4-out/baseline-bb-verify.json": "e3e9db382c686c0e548ea863624ef8f983999b1536a7898d96e8e23e6817e870",
+   "g4-out/baseline-bb.json": "408b9e6e51d2d434808aca5c15f63537eb796061f51efe58ace0b8b6feb97e68",
+   "g4-out/cand-a-golden.json": "3ddc9eecbcddbcb0ea918672b48253dd65b07df3986c384e08be8ab713006140",
+   "g4-out/cand-a-verify.json": "91dbd6641c691ee6b7515975e2c10207954ead584f32dce8d62b29dff4eefa2e",
+   "g4-out/cand-a.json": "4a7a8c147ae5625fffc87c2ee7e94bdd9b346611c892cf2ce25d81cba128558d",
+   "g4-out/cand-b-golden.json": "3ddc9eecbcddbcb0ea918672b48253dd65b07df3986c384e08be8ab713006140",
+   "g4-out/cand-b-verify.json": "91dbd6641c691ee6b7515975e2c10207954ead584f32dce8d62b29dff4eefa2e",
+   "g4-out/cand-b.json": "80186da6c168519dfac7e5e0137b2b401c7c474acb38e23e494f933cbccc7a2b",
+   "g4-out/compare-bb-vs-ca.json": "106e8983bfe0bd6dd08bde85b51619927a7068c3dc459c6e9e712b84c0c9ae14",
+   "g4-out/compare-bb-vs-cb.json": "5e4d3dcde4c3b65be2d9cc05a980a1765b4f591da400cc999e9b4ca31457f12a",
+   "g4-out/native-clippy.log": "c4ed1d238b26c0750712913f38226a3ec2d492d683309f199c31d9d6bd54b806",
+   "g4-out/native-fmt.log": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "g4-out/native-test.log": "874d752929e8f6db680d0be893179c53f669869675fc346dcf7943977769c9fd",
+   "g4-out/native-validate-ifpe-dcg-2021.log": "dafbf7b25ee5ce5489fd9e4e6be701d3d1a7e83bfc375dcbcfd70f93d5434d11",
+   "g4-out/native-validate-lritf.log": "dd92e9974dd9472674c11c8b97186bc303bd5561571672d7ed980c36540ededf",
+   "g4-out/testlist-base.raw": "c61a737394cbc6b51e6c04eda9a1822410d28777fef70beadfc48e069a12767c",
+   "g4-out/testlist-native.raw": "ef3378c2e5292d2552d420c48020b3a164c8fa67e6eae30b9f9c4299b3e675d7",
+   "logs/selftest-3.log": "132091b5801abf2fdf8d1b227dea8fc5c934147db835f0313ff2796172018e59",
+   "result-retained-B3.json": "ef2078c18c8ec098622780899c8547c965bc3b3d94d1986c06b76e6778070e32",
+   "result-retained-B4.json": "f1a87fc53e2bcee35bf2cc0e92244235a9dc3a6ccda7846a588cbe2bf3eb4f7d",
+   "result-retained-C1.json": "b4fb127819d5c9b329c9c9be4f84fca444c7975ffb6e924239cda6c9d6c17541",
+   "result-retained-C2.json": "93576fda1541729f23fb08a5b098ba7d125631a81a7c75821eaf98aa37bf2545",
+   "result-retained-C3.json": "b0229e8f303d6fbe608fc6a68e55734a23187f1bd885c1209ebf026616ec0dfa",
+   "result-supp-B3.json": "e74b83143b269d6b67d679588528661a27e36100a20daf02d427e0059a4f7902",
+   "result-supp-B4.json": "cb5baf5adf798ea31145398a31d5082b8fe5ce69921ee859d330c154e0fcb59d",
+   "result-supp-C1.json": "333755fc3f1249ecda892d95ca138c4a39488386f2dd4135b6b89ea6f3a23994",
+   "result-supp-C2.json": "b043410a88d960a2307ad1cfa3fd5d7e069bdd7b347d28463eb5b1f4684b88a9",
+   "result-supp-C3.json": "8205c534f04417023bc3848194e69b63a1a0a13550276ae114064d376315803e",
+   "result-sweep-B3.json": "f090fc1af19825f3e5bbc17ab289b97d8863055231364b3aac42a874548d4a4f",
+   "result-sweep-B4.json": "b9208646247af4dafa524dc2e816ad21fbebe38ddc0650399ceff455f9ba6cf0",
+   "result-sweep-C1.json": "bba1e823154e086b1b43399e97948aa13babb1327791950b897eb23185c7d7e4",
+   "result-sweep-C2.json": "62cf1af5f642c94ad6466a866f3e9c0bbc3ef7665d1b821d5f251647d3c5644f",
+   "result-sweep-C3.json": "0c936158f8f6b183a03fac4c2f78a5747c1edf82be0c699993fc69fbdd98a990"
+  },
+  "note": "These files live in ignored .work/parser-split/ in the operator worktree; the hashes bind the commit-bound handoff to their contents. Legacy runs (B1, B2) and scratch compares are excluded."
+ },
+ "incident_2026_10_24_clobbered_evidence": {
+  "affected_files": [
+   "g4-out/native-fmt.log",
+   "g4-out/native-clippy.log",
+   "g4-out/native-test.log",
+   "g4-out/native-validate-lritf.log",
+   "g4-out/native-validate-ifpe-dcg-2021.log",
+   "g4-out/cand-a.json",
+   "g4-out/cand-b.json",
+   "g4-out/cand-a.err",
+   "g4-out/cand-b.err"
+  ],
+  "cause": "To prove the new self-test fails against the old wrappers, the executor ran the old G4 wrapper scripts. They hard-code the real work paths and ignore the self-test's overrides, and the self-test had put a fake cargo on PATH. The old native wrapper therefore ran the fake cargo inside the real g4-native clone and overwrote the five native logs; the old candidate wrapper truncated cand-a.json and cand-b.json (and wrote cand-a.err) before the real builder refused to overwrite the existing releases. The process was killed within about two minutes.",
+  "damaged_copies_kept_at": ".work/parser-split/g4-out/clobbered-2026-10-24/",
+  "not_affected": "the two candidate databases (builder refused to overwrite: release already exists; SHA-256 still 483264b7...), baseline outputs, verify and golden outputs, all run and compare files, binaries. The 54-file hash set was recomputed afterwards: only the three native logs below differ from the originals recorded by the executor and by Codex.",
+  "original_hashes": "unchanged in ignored_artifact_sha256 above; Codex's claim 3 was checked against originals that no longer exist for three logs, and the rerun reproduces the same results but not the same bytes",
+  "recovery": {
+   "g4-out/cand-a.json": {
+    "byte_identical_to_original": true,
+    "current_sha256": "4a7a8c147ae5625fffc87c2ee7e94bdd9b346611c892cf2ce25d81cba128558d",
+    "how": "rebuilt from the intact release and matched the audited hash",
+    "original_sha256": "4a7a8c147ae5625fffc87c2ee7e94bdd9b346611c892cf2ce25d81cba128558d"
+   },
+   "g4-out/cand-b.json": {
+    "byte_identical_to_original": true,
+    "current_sha256": "80186da6c168519dfac7e5e0137b2b401c7c474acb38e23e494f933cbccc7a2b",
+    "how": "rebuilt from the intact release and matched the audited hash",
+    "original_sha256": "80186da6c168519dfac7e5e0137b2b401c7c474acb38e23e494f933cbccc7a2b"
+   },
+   "g4-out/native-clippy.log": {
+    "byte_identical_to_original": false,
+    "current_sha256": "bcb74884a78099501f6bfc31de29d15aae4eb48dcd18d5c99bdde44d75b90089",
+    "how": "regenerated by a fresh run of prompts/parser-split-g4-native.sh at C (1250889ce)",
+    "original_sha256": "c4ed1d238b26c0750712913f38226a3ec2d492d683309f199c31d9d6bd54b806"
+   },
+   "g4-out/native-fmt.log": {
+    "byte_identical_to_original": true,
+    "current_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "how": "regenerated by a fresh run of prompts/parser-split-g4-native.sh at C (1250889ce)",
+    "original_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   },
+   "g4-out/native-test.log": {
+    "byte_identical_to_original": false,
+    "current_sha256": "b3af21d47c149f28699ab990b9aaab3494ee49c56be0bf8ad6da249bd6c57b5e",
+    "how": "regenerated by a fresh run of prompts/parser-split-g4-native.sh at C (1250889ce)",
+    "original_sha256": "874d752929e8f6db680d0be893179c53f669869675fc346dcf7943977769c9fd"
+   },
+   "g4-out/native-validate-ifpe-dcg-2021.log": {
+    "byte_identical_to_original": true,
+    "current_sha256": "dafbf7b25ee5ce5489fd9e4e6be701d3d1a7e83bfc375dcbcfd70f93d5434d11",
+    "how": "regenerated by a fresh run of prompts/parser-split-g4-native.sh at C (1250889ce)",
+    "original_sha256": "dafbf7b25ee5ce5489fd9e4e6be701d3d1a7e83bfc375dcbcfd70f93d5434d11"
+   },
+   "g4-out/native-validate-lritf.log": {
+    "byte_identical_to_original": false,
+    "current_sha256": "2f7b8f589ef46087c750794bb08f220a4f31128a0b563803364e7f89933b530d",
+    "how": "regenerated by a fresh run of prompts/parser-split-g4-native.sh at C (1250889ce)",
+    "original_sha256": "dd92e9974dd9472674c11c8b97186bc303bd5561571672d7ed980c36540ededf"
+   }
+  },
+  "result": "cand-a.json, cand-b.json, native-fmt.log and native-validate-ifpe-dcg-2021.log are byte-identical to the originals (SHA-256 equal to the hashes recorded before the incident and checked by Codex). native-clippy.log, native-test.log and native-validate-lritf.log differ in bytes (cargo timing lines) but were regenerated at C and show the same figures: fmt, clippy clean; 425 passed, 0 failed, 0 ignored; lritf 145/11/126/0; ifpe-dcg-2021 59/4/115/0.",
+  "when": "2026-10-24 about 11:26-11:28 CST (a mutation check run by the executor)",
+  "wrapper_versions": "the G4 evidence was produced by the wrappers committed in d8d197867; the fixed wrappers (77e54d13f) differ only in how they propagate exit codes and in env overrides"
+ },
+ "known_baseline_replay_validation_failures": {
+  "note": "Deterministic at B and reproduced exactly by B3, B4, C1, C2 and C3. Cause for the checked cases: adapter-frozen article counts or heading-leak holds recorded in docs/heading-leak-permanent-acceptance-2026-10-21.md; the other causes were not diagnosed and the committed corpus was not re-parsed for them. Pre-existing; not fixed here.",
+  "retained_nonzero_stages": [
+   "cjm validate",
+   "cub-dcg-2005 validate",
+   "cucb-dcg-2004 validate",
+   "laero validate",
+   "lfiiedb parse (retained text does not match the committed manifest hash)",
+   "oaac-dcg-2009 validate",
+   "oga temporal-request",
+   "scap-dcg-2012 validate"
+  ],
+  "supplement_nonzero_stages": [
+   "lftr validate: 'corpus validation failed'; validation: invalid; 327 articles, 0 transitories, 106 references, 2 issues (cause not diagnosed)"
+  ]
+ },
+ "legacy_evidence": {
+  "earlier_self_replay_claim": "The earlier 'B1 versus B2 exact' result came from the lenient comparator, which treated a field missing on one side as a note. It is legacy and does not satisfy G0.",
+  "note": "Produced before the strict evidence rules; useful as supplemental byte-level evidence only, never as a gate pass.",
+  "runs": {
+   "retained-B1": "no harness_sha256, no whole-root digest",
+   "retained-B2": "whole-root digest present, harness hash recorded at finish, no frozen-snapshot or committed-blob fields",
+   "sweep-B1": "killed part-way and discarded; no result file"
+  },
+  "supplemental_check": "after retained-B3 lands, retained-B2 versus retained-B3 with --allow-legacy-format (expect exit 2: rows identical, evidence incomplete)"
+ },
+ "native_baseline_at_B": {
+  "cargo clippy --workspace --all-targets -- -D warnings": {
+   "exit": 0,
+   "seconds": 17
+  },
+  "cargo fmt --check": {
+   "exit": 0,
+   "seconds": 1
+  },
+  "cargo test --workspace": {
+   "exit": 0,
+   "failed": 0,
+   "ignored": 0,
+   "passed": 419,
+   "seconds": 43
+  },
+  "logs": ".work/parser-split/logs/baseline-{1-fmt,2-clippy,3-test}.log",
+  "tracked_files_modified_by_tests": false
+ },
+ "native_checks_by_tree": {
+  "G1_07cfa5536": {
+   "clippy": 0,
+   "fmt": 0,
+   "tests": {
+    "failed": 0,
+    "ignored": 0,
+    "passed": 419
+   },
+   "validate_ifpe_dcg_2021": "valid; 59 articles, 4 transitories, 115 references, 0 issues",
+   "validate_lritf": "valid; 145 articles, 11 transitories, 126 references, 0 issues"
+  },
+  "G2_fd70e4370": {
+   "clippy": 0,
+   "fmt": 0,
+   "tests": {
+    "failed": 0,
+    "ignored": 0,
+    "passed": 419,
+    "per_crate_units": {
+     "lex_analysis": 28,
+     "lex_grammar": 17,
+     "lex_parse": 238
+    }
+   },
+   "validate_ifpe_dcg_2021": "same",
+   "validate_lritf": "same"
+  },
+  "G3A_5c074e21d": {
+   "clippy": 0,
+   "fmt": 0,
+   "tests": {
+    "failed": 0,
+    "ignored": 0,
+    "passed": 424
+   },
+   "validate_ifpe_dcg_2021": "same",
+   "validate_lritf": "same"
+  },
+  "G3B_1250889ce": {
+   "clippy": 0,
+   "fmt": 0,
+   "tests": {
+    "failed": 0,
+    "ignored": 0,
+    "passed": 425
+   },
+   "validate_ifpe_dcg_2021": "same",
+   "validate_lritf": "same"
+  },
+  "timing_note": "fmt 0-1 s, clippy 3-17 s, tests 26-43 s wall per run, from the raw logs under .work/parser-split/logs/ and cargo 'Finished ... in' lines; the first G1/G2 mech runs did not time every command.",
+  "validation_source_note": "Validation figures are taken from the raw logs and the written validation.json files. Two mech hand-back summaries (G1 and G3) swapped the lritf and ifpe-dcg-2021 labels; the raw logs and files were checked and agree across every tree."
+ },
+ "next_action": "Codex reviews the A-002 follow-up (commit-bound handoff) and closes A-002 if satisfied; operator chooses integration timing; no merge, push or deployment has happened.",
+ "open_items": [],
+ "plan": "docs/plans/parser-responsibility-split.md",
+ "reader_integration_check": {
+  "base_choice": "reader tip feat/reader-tweaks-r7 at 162128517576b043a389f753578c5cabb4540898 (newest reader commit; includes feat/four-instrument-reader-design). CORRECTION from Codex's follow-up review (docs/parser-split-tooling-followup-review-2026-10-24.md on main): R7 is not the deployed UI. The locally recorded publication pin is 2df70a8a... (release 9626bfe4...), and both local host publication directories have UI source matching b9b8be012c0a19b50e75acd922c38a19385faded, not R7. R7 differs from b9b8be012 in UI only (no Rust, Cargo or exporter change), so the exporter comparison applies to the locally published reader's exporter as well; Codex repackaged the merged release with the exact b9b8 UI source and all five packaged UI files match the local publication bytes. This inspected the local publication pin and directories, not the live site.",
+  "candidate": "disposable clone .work/parser-split/reader-integration; detached merge commit f890942001f45ce65017653911903443fe2228b2, parents 162128517576b043a389f753578c5cabb4540898 (reader R7) and 77e54d13f42bdf3a3189ff5921f592bad0449f38 (refactor/parser-split). No branch in the operator's repositories moved; nothing pushed.",
+  "conflicts": "one conflicting hunk, in Cargo.lock only: the lex-cli dependency list, where the reader side added jsonschema and the parser-split side added lex-analysis. Both lines were kept in alphabetical order (jsonschema, lex-analysis). crates/lex-cli/Cargo.toml and crates/lex-cli/src/main.rs merged automatically. The resolution is checked by cargo build --locked, which fails on a lockfile that disagrees with the manifests.",
+  "logs": ".work/parser-split/reader-out/*.log and logs/reader-integration-run.log; script .work/parser-split/tools/reader_integration.sh (not committed)",
+  "results": {
+   "against_deployed_preferred_package": "the candidate release manifest differs from the locally published preferred release (9626bfe4..., corpus_commit 85c41f389) only in release_id, corpus_commit and committed_at, which come from the root's HEAD commit; its 1782 listed files have an identical path and SHA-256 map, instruments sections and builder_sha256 are equal. The package UI files index.html, reader.js, reader.css, reader-core.mjs and lex-mex.svg are byte-identical to the R7 package built in reader-five (which was not deployed); Codex separately matched them to the published b9b8be012 UI by repackaging with that source. llms.txt, latest.json and the release directory name differ because they embed the release id.",
+   "build_merged": "cargo build --locked -p lex-cli exit 0",
+   "build_r7": "cargo build --locked -p lex-cli at R7 alone, exit 0",
+   "exporter": "public-release build for lritf, ifpe-dcg-2021, itf-dcg-2018, lic with the retained PDF store, run twice with the merged binary and twice with the R7-only binary from the same root: all four releases (1785 files each) are byte-identical",
+   "node_tests": "node --test reader/: 24 tests, 24 pass, 0 fail",
+   "package": "reader/package.mjs over each release: all four packages byte-identical",
+   "why_release_id_differs": "public-release build records the root's HEAD commit and its date in the release, so a build at any other commit has a different release id by construction; the like-for-like comparison is R7-only versus merged binary from one root, which is byte-identical"
+  },
+  "what": "exporter build and package verification on a local integration candidate, as the plan's G4 text requires; the R5/R7 mutation and browser campaigns were not rerun"
+ },
+ "rebuild_trigger_manual_check": {
+  "commands": "cargo build -p lex-db -v | grep -c build-script-build (no change: 0); echo '// probe' > crates/lex-link/src/zz_probe.rs; cargo build -p lex-db -v | grep -c build-script-build (new file: 1); rm the file; rebuild (removal: 1)",
+  "result": "build script reruns when a pinned directory gains or loses a file"
+ },
+ "retained_B1": {
+  "binary": "B",
+  "explanations": {
+   "lfiiedb_parse": "its retained text does not match the committed manifest hash",
+   "oga_temporal_request": "exit 1 at baseline, not diagnosed",
+   "validate_failures": "six instruments at baseline: cjm, cub-dcg-2005, cucb-dcg-2004, laero, oaac-dcg-2009, scap-dcg-2012; cjm and laero fail adapter-frozen article counts (954 vs 952, 109 vs 100) tied to recorded heading-leak holds; the rest not individually diagnosed."
+  },
+  "final_corpus_tree_sha256": "08f0ca73fb81f3cea45f0096e256405422c39ba0b8432328a4adb121e5d0d7f4",
+  "git_head_recorded": "07cfa55362c4fa6e0b7e4024f045a701a4792391",
+  "nonzero_stages": [
+   {
+    "exit": 1,
+    "slug": "cjm",
+    "stage": "validate"
+   },
+   {
+    "exit": 1,
+    "slug": "cub-dcg-2005",
+    "stage": "validate"
+   },
+   {
+    "exit": 1,
+    "slug": "cucb-dcg-2004",
+    "stage": "validate"
+   },
+   {
+    "exit": 1,
+    "slug": "laero",
+    "stage": "validate"
+   },
+   {
+    "exit": 1,
+    "slug": "lfiiedb",
+    "stage": "parse"
+   },
+   {
+    "exit": 1,
+    "slug": "oaac-dcg-2009",
+    "stage": "validate"
+   },
+   {
+    "exit": 1,
+    "slug": "oga",
+    "stage": "temporal-request"
+   },
+   {
+    "exit": 1,
+    "slug": "scap-dcg-2012",
+    "stage": "validate"
+   }
+  ],
+  "rows": 1771,
+  "slugs": 355
+ },
+ "runs": {
+  "B_baseline_binary": "B (5c4a3f29...)",
+  "candidates_compared_with": "B4 (B3 == B4 is proven first)",
+  "driver": "prompts/parser-split-queue.py (committed; do not edit the harness or the driver while it runs)",
+  "order": [
+   "retained B3, B4 + strict compare",
+   "sweep B3, B4 + strict compare",
+   "supp B3, B4 + strict compare",
+   "C3 retained, sweep, supp, each compared with B4",
+   "C2 retained, sweep, supp, each compared with B4",
+   "C1 retained, sweep, supp, each compared with B4"
+  ],
+  "results": {
+   "binaries": {
+    "B3_B4": "5c4a3f29",
+    "C1": "90cc2657",
+    "C2": "17b09ead",
+    "C3": "31e21bc7"
+   },
+   "comparison": "every strict compare rc=0, evidence_complete=true, legacy_format_allowed=false, notes=[], drift_count=0, same harness revision fa321e46 on both sides",
+   "final_corpus_tree_sha256_identical_across_B3_B4_C3_C2_C1": {
+    "retained": "08f0ca73fb81...",
+    "supp": "a47619a8d1ed...",
+    "sweep": "8349dee2eecb..."
+   },
+   "final_root_tree_sha256_identical_across_runs": {
+    "retained": "009366407bc0...",
+    "supp": "2657a292bb1f...",
+    "sweep": "891d4f879950..."
+   },
+   "legacy_supplemental": "retained-B2 vs retained-B3 --allow-legacy-format: rc=2, 1771 rows, drift 0, evidence incomplete (not a pass)",
+   "nonzero_stage_counts_identical_across_runs": {
+    "retained": 8,
+    "supp": 1,
+    "sweep": 0
+   },
+   "rows_per_kind": {
+    "retained": 1771,
+    "supp": 35,
+    "sweep": 2660
+   },
+   "run_flags": "all 15 runs: harness_unchanged, harness_frozen_snapshot, harness_committed, binary_unchanged True; harness_live_source_changed_during_run False",
+   "what_this_does_not_show": "parse behaviour for the 106 instruments with no retained source; native and API-path checks are separate evidence"
+  },
+  "state": "QUEUE COMPLETE 2026-10-24T10:35:33Z: 27 of 27 steps rc=0, no queue-stopped.json, harness blob 9c329e0c and driver blob 0c3a762c unchanged throughout. Files: .work/parser-split/queue.log, queue-state.json, result-<kind>-<label>.json, compare-<a>-vs-<b>.json",
+  "stop_rule": "stop at the first non-zero run exit (3 = harness or binary changed mid-run) or non-zero comparison exit (1 drift or missing evidence, 2 legacy format)",
+  "why_C3_first": "C3 is the final code; if it is exact the gate evidence is decisive, and C2 and C1 remain as bisection tools if it drifts. Every required run still happens."
+ },
+ "status": "IN_PROGRESS",
+ "toolchain": {
+  "antiword": "not installed",
+  "cargo": "1.95.0 (f2d3ce0bd 2026-03-21)",
+  "pdf_inspector": "0.1.7",
+  "pdftotext": "26.09.0",
+  "rg": "15.2.0",
+  "rust_toolchain_toml": "stable + clippy, rustfmt",
+  "rustc": "1.95.0 (59807616e 2026-04-14)",
+  "textutil": "/usr/bin/textutil"
+ },
+ "tooling_repairs_after_audit": {
+  "A-001": "fixed in 77e54d13f: both wrappers keep every exit code, run all steps and exit non-zero on any failure; the compare tool exits 1 on a parity failure; prompts/parser-split-g4-selftest.py injects a failure at each command (16/16; the old wrappers fail 8 of 16)",
+  "A-002": "fixed in 77e54d13f: atomic result and state writes; an unusable result (exit 3) is archived with its logs and trees; verify-result and driver reconcile of a verified existing result; a usable result is never replaced",
+  "A-002_followup": {
+   "closure": "not claimed; Codex closes A-002",
+   "comparator_note": "the HEAD comparator requires the new scope field and a matching harness revision, so it rejects the gate results: compare retained-B3 retained-B4 with the 4d98f72c2 harness exits 1 (scope absent; different harness revision), where the gate-revision comparator returned 0. Reproduce gate comparisons with the harness from d05d98d3b (blob 9c329e0c); the committed gate comparison files are unchanged.",
+   "fixed_in": "4d98f72c2",
+   "gate_artifacts": "gate harness 9c329e0c and every gate artifact are unchanged; the repaired harness produced no gate evidence",
+   "harness_blob": "1674a4486efe09cb017760e3f647d1e760fee231 (sha256 da4fb46b3320e08c16ee0971ce711e1ece35a254ceeabe4a5c1c4cf5a9015cfb)",
+   "known_gaps": [
+    "evidence_problem does not reject extra entries in the trees map or extra files in the logs directory",
+    "scope is recomputed from the live corpus/mx and adapters at verify time, so a changed corpus listing makes verification fail closed (a safe failure)"
+   ],
+   "new_cases": "the four probes (empty trees and logs, rows absent, rows empty, work-tree digest absent), a tampered stage tree, a tampered log, a dropped row, subset-as-full (harness and driver), an exact-scope positive control, and the baseline parse-failure run (lfiiedb) accepted with its intentional stop",
+   "plan_fidelity": "prompts/parser-split-ab-plan-fidelity.py: the expected-plan and completeness logic accepts all 15 real gate results (retained, sweep and supp x B3, B4, C3, C2, C1; 1771, 2660 and 35 rows), rc 0; scope sizes: retained 355 slugs, supp 7, sweep 32 standards + 468 adapter slugs + 355 retained",
+   "selftest": "54/54 in an isolated scratch clone at 4d98f72c2 (copies of bin/B and bin/C3, the manifest, a read-only symlink to the inputs; log SHA-256 6a6d16f0606a2de49a7eec57598c4b2b1739f227d7b3a10ba215d05a89844747); the 54 live hash-bound artifacts were hashed before and after and are unchanged",
+   "source": "Codex pre-merge review docs/parser-split-tooling-followup-review-2026-10-24.md (on main) and handoff 2026-10-24-lex-mex-parser-a002-completeness-followup.md: result_problem accepted empty trees and logs, a missing or empty rows list, missing work-tree digests, and a --only run as a full run",
+   "what": "results record their scope; verify-result recomputes the requested scope and rejects a mismatch, checks rows against the expected ordered plan (intentional stop after a failed parse allowed), per-row evidence keys, every stdout/stderr log hash, and every saved stage tree (nonempty, matching its digest); compare flags differing scopes; atomic writes, usable-result preservation and unusable-result archival unchanged"
+  },
+  "harness_blob": "current HEAD harness blob 1674a4486efe09cb017760e3f647d1e760fee231; 321a651c (A-001/A-002, earlier) and 24c9534b (R-001) are superseded",
+  "review_coverage": "commits e09aec70d onward came after Codex's audit of 9ad15ec98 and are tooling only, with no independent review; no production code changed",
+  "selftest": "41/41 on the third harness revision (log .work/parser-split/logs/selftest-4.log); the 54 bound artifacts were hashed before and after and are unchanged by it"
+ }
+}

@@ -219,7 +219,7 @@ pub fn derive_article_temporal_determinations(
             && provision.review_status == ReviewStatus::NotAnalyzed
             && provision.temporal_status == TemporalStatus::PartiallyRepealed
             && !provision.repeals.is_empty()
-            && crate::initial_repeals(&provision.text) == provision.repeals
+            && crate::initial::initial_repeals(&provision.text) == provision.repeals
         {
             determinations.push(determination(
                 provision,
@@ -290,7 +290,7 @@ pub fn derive_article_temporal_determinations(
 /// Whether an article's own text or footnote legend shows it was amended
 /// after the instrument's enactment.
 fn has_amendment_evidence(provision: &Provision) -> bool {
-    !provision.amendment_marks.is_empty() || crate::mentions_dof_date(&provision.text)
+    !provision.amendment_marks.is_empty() || lex_grammar::mentions_dof_date(&provision.text)
 }
 
 /// Repair article start dates written by earlier versions of the rule: an
@@ -342,7 +342,7 @@ pub fn repair_article_dates(instrument: &Instrument, provisions: &mut [Provision
 /// Reclassify committed articles that an earlier parser stored as wholly
 /// `Repealed` although their opening note repeals only named paragraphs or
 /// fractions (`(Se deroga el primer párrafo)`). Only machine-accepted
-/// deterministic articles whose note [`crate::initial_repeals`] recognises are
+/// deterministic articles whose note [`crate::initial::initial_repeals`] recognises are
 /// touched; the rest of the article text stays in force. Returns how many
 /// provisions changed.
 #[must_use]
@@ -354,7 +354,7 @@ pub fn repair_partial_repeals(provisions: &mut [Provision]) -> usize {
             && provision.review_status == ReviewStatus::MachineAccepted
             && provision.repeals.is_empty()
         {
-            let repeals = crate::initial_repeals(&provision.text);
+            let repeals = crate::initial::initial_repeals(&provision.text);
             if !repeals.is_empty() {
                 provision.temporal_status = TemporalStatus::PartiallyRepealed;
                 provision.repeals = repeals;
@@ -745,7 +745,7 @@ mod tests {
             "(Se deroga el primer párrafo). Párrafo derogado DOF 15-06-2007\n\nTexto vigente.";
         let mut partial = article("16", text);
         partial.temporal_status = TemporalStatus::PartiallyRepealed;
-        partial.repeals = crate::initial_repeals(text);
+        partial.repeals = crate::initial::initial_repeals(text);
         let mut widened = partial.clone();
         widened.id.push_str("-widened");
         widened.repeals[0].ordinals.push("2".to_owned());
@@ -772,7 +772,7 @@ mod tests {
         lex_core::apply_temporal_determinations(&mut provisions, &outcome.determinations);
         assert_eq!(provisions[0].review_status, ReviewStatus::MachineAccepted);
         assert_eq!(provisions[0].temporal_basis, Some(Basis::DeterministicRule));
-        assert_eq!(provisions[0].repeals, crate::initial_repeals(text));
+        assert_eq!(provisions[0].repeals, crate::initial::initial_repeals(text));
         // Deriving again changes nothing: the article is no longer untouched.
         let again = derive_article_temporal_determinations(&inst, &provisions, date(2026, 1, 1));
         assert!(again.determinations.is_empty());

@@ -12,9 +12,12 @@ path = "src/main.rs"
 anyhow.workspace = true
 chrono.workspace = true
 clap.workspace = true
+lex-analysis = { path = "../lex-analysis" }
 lex-core = { path = "../lex-core" }
 lex-db = { path = "../lex-db" }
 lex-export = { path = "../lex-export" }
+lex-grammar = { path = "../lex-grammar" }
+lex-link = { path = "../lex-link" }
 lex-parse = { path = "../lex-parse" }
 lex-source = { path = "../lex-source" }
 regex.workspace = true

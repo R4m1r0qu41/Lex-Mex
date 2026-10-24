@@ -1,8 +1,8 @@
 //! Read-only build gates over the complete pinned snapshot.
 use crate::input::Snapshot;
 use anyhow::{Context, Result, ensure};
+use lex_analysis::{CorpusExpectations, CorpusView, validate_corpus};
 use lex_core::{Corpus, GlossaryCoverage, Severity};
-use lex_parse::{CorpusExpectations, CorpusView, validate_corpus};
 use serde::de::DeserializeOwned;
 use serde_json::Value;
 use std::collections::{BTreeMap, HashSet};

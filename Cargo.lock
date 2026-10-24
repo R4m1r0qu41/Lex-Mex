@@ -1103,6 +1103,18 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "20870f649af7073d53e38067b2a84312175d56ea15217e1b15bc83506ec50afb"
 
 [[package]]
+name = "lex-analysis"
+version = "0.1.0"
+dependencies = [
+ "anyhow",
+ "chrono",
+ "lex-core",
+ "lex-grammar",
+ "pretty_assertions",
+ "regex",
+]
+
+[[package]]
 name = "lex-cli"
 version = "0.1.0"
 dependencies = [
@@ -1110,9 +1122,12 @@ dependencies = [
  "chrono",
  "clap",
  "jsonschema",
+ "lex-analysis",
  "lex-core",
  "lex-db",
  "lex-export",
+ "lex-grammar",
+ "lex-link",
  "lex-parse",
  "lex-source",
  "regex",
@@ -1141,8 +1156,9 @@ version = "0.1.0"
 dependencies = [
  "anyhow",
  "jsonschema",
+ "lex-analysis",
  "lex-core",
- "lex-parse",
+ "lex-grammar",
  "rusqlite",
  "serde",
  "serde_json",
@@ -1164,12 +1180,35 @@ dependencies = [
 ]
 
 [[package]]
-name = "lex-parse"
+name = "lex-grammar"
+version = "0.1.0"
+dependencies = [
+ "chrono",
+ "regex",
+]
+
+[[package]]
+name = "lex-link"
 version = "0.1.0"
 dependencies = [
  "anyhow",
  "chrono",
  "lex-core",
+ "lex-grammar",
+ "pretty_assertions",
+ "regex",
+]
+
+[[package]]
+name = "lex-parse"
+version = "0.1.0"
+dependencies = [
+ "anyhow",
+ "chrono",
+ "lex-analysis",
+ "lex-core",
+ "lex-grammar",
+ "lex-link",
  "pdf-inspector",
  "pretty_assertions",
  "regex",
