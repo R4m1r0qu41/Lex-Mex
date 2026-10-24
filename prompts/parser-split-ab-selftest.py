@@ -25,6 +25,14 @@ Cases:
   restart-finished a label with a finished result is refused even with the flag
   driver-outputs   the queue driver never reuses (truncates) an existing output
                    file name
+  verify-result    verify-result accepts a clean result and rejects one with a
+                   different binary, a missing trees file or a changed-run flag
+  unusable-result  a result the run marked unusable (exit 3) is archived with its
+                   logs, byte-identical, and the label runs again
+  result-no-logs   a usable result without a logs directory is refused, not
+                   overwritten, even with --archive-interrupted
+  driver-reconcile the driver records a verified existing result as done without
+                   rerunning, and rejects an unusable one; its state write is atomic
 """
 import json
 import os
@@ -193,6 +201,35 @@ def main():
         done = replay("selftest-restart", extra=["--archive-interrupted"])
         check("restart-finished: finished label refused even with the flag", done.returncode != 0 and "finished result" in done.stderr + done.stdout)
 
+        # verify-result and result-present recovery (A-002)
+        def verify(label, binary=BINARY):
+            return harness(["verify-result", "--run-kind", "replay", "--binary", str(binary), "--label", label, "--baseline", load(label)["baseline"]]).returncode
+        check("verify-result: a clean result is accepted", verify("selftest-restart") == 0)
+        check("verify-result: a different binary is rejected", verify("selftest-restart", WORK / "bin" / "C3" / "lex-mex") == 1)
+        shutil.copy(WORK / "trees-selftest-restart.json", WORK / "trees-selftest-restart.keep")
+        (WORK / "trees-selftest-restart.json").unlink()
+        check("verify-result: a missing trees file is rejected", verify("selftest-restart") == 1)
+        shutil.move(WORK / "trees-selftest-restart.keep", WORK / "trees-selftest-restart.json")
+        marked = load("selftest-restart")
+        marked["binary_unchanged"] = False
+        (WORK / "result-selftest-unusable.json").write_text(json.dumps(marked, indent=1, sort_keys=True))
+        shutil.copy(WORK / "trees-selftest-restart.json", WORK / "trees-selftest-unusable.json")
+        (WORK / "logs-selftest-unusable").mkdir()
+        (WORK / "logs-selftest-unusable" / "ccf.parse.stdout").write_text("log of a run that exited 3\n")
+        before_result = (WORK / "result-selftest-unusable.json").read_bytes()
+        done = replay("selftest-unusable")
+        check("unusable-result: refused without the flag", done.returncode != 0)
+        done = replay("selftest-unusable", extra=["--archive-interrupted"])
+        check("unusable-result: label runs again with the flag", done.returncode == 0, done.stderr[-200:])
+        kept = list(WORK.glob("result-selftest-unusable.json.interrupted-*"))
+        check("unusable-result: old result kept byte-identical", len(kept) == 1 and kept[0].read_bytes() == before_result)
+        check("unusable-result: old logs and trees kept", len(list(WORK.glob("logs-selftest-unusable.interrupted-*"))) == 1 and len(list(WORK.glob("trees-selftest-unusable.json.interrupted-*"))) == 1)
+        check("unusable-result: attempt records the result", json.loads((WORK / "attempts-selftest-unusable.json").read_text())[0]["had_result"] is True)
+        check("unusable-result: new result is clean", load("selftest-unusable")["binary_unchanged"] is True)
+        shutil.copy(WORK / "result-selftest-restart.json", WORK / "result-selftest-nologs.json")
+        done = replay("selftest-nologs", extra=["--archive-interrupted"])
+        check("result-no-logs: usable result refused, not overwritten", done.returncode != 0 and (WORK / "result-selftest-nologs.json").read_bytes() == (WORK / "result-selftest-restart.json").read_bytes())
+
         # driver never truncates an earlier attempt's output
         import importlib.util
         spec = importlib.util.spec_from_file_location("queue_driver", REPO / "prompts" / "parser-split-queue.py")
@@ -207,6 +244,21 @@ def main():
             third = driver.unused_path(first)
             check("driver-outputs: later attempts get their own names", second.name == "label.attempt-2.out" and third.name == "label.attempt-3.out")
             check("driver-outputs: earlier output untouched", first.read_text() == "attempt one")
+
+            # driver reconciles a finished-but-unrecorded result
+            driver.BASELINE = load("selftest-restart")["baseline"]
+            driver.LOG = Path(tmp) / "queue.log"  # keep the real queue log out of the test
+            check("driver-reconcile: a verified result is accepted without a rerun", driver.reconcile("retained", "selftest-restart", "B", []) is True)
+            bad = load("selftest-restart")
+            bad["harness_unchanged"] = False
+            bad["label"] = "selftest-nologs-bad"  # the flag must be the only defect
+            (WORK / "result-selftest-nologs-bad.json").write_text(json.dumps(bad, indent=1, sort_keys=True))
+            shutil.copy(WORK / "trees-selftest-restart.json", WORK / "trees-selftest-nologs-bad.json")
+            (WORK / "logs-selftest-nologs-bad").mkdir()
+            check("driver-reconcile: an unusable existing result is rejected", driver.reconcile("retained", "selftest-nologs-bad", "B", []) is False)
+            driver.STATE = Path(tmp) / "queue-state.json"
+            driver.write_state({"done": ["x"]})
+            check("driver-reconcile: state write is atomic and complete", json.loads(driver.STATE.read_text()) == {"done": ["x"]} and not list(Path(tmp).glob("*.tmp")))
     finally:
         cleanup()
     failed = [name for name, ok in results if not ok]

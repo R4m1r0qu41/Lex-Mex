@@ -369,6 +369,12 @@ def run_stages(binary, stages, slugs, logs, trees, with_work):
     return rows
 
 
+def write_atomic(path, text):
+    temporary = path.with_name(path.name + ".tmp")
+    temporary.write_text(text)
+    os.replace(temporary, path)
+
+
 def finish(label, binary, kind, baseline, rows, trees, extra):
     final_corpus = tree_map(RUN_ROOT, "corpus/mx")
     result = {
@@ -394,8 +400,10 @@ def finish(label, binary, kind, baseline, rows, trees, extra):
         "final_corpus_file_count": len(final_corpus),
         **extra,
     }
-    (WORK / f"result-{label}.json").write_text(json.dumps(result, indent=1, sort_keys=True) + "\n")
-    (WORK / f"trees-{label}.json").write_text(json.dumps(trees, sort_keys=True))
+    # Trees first, result last, each replaced atomically: a result file on disk is
+    # always complete, and its presence means the trees file exists.
+    write_atomic(WORK / f"trees-{label}.json", json.dumps(trees, sort_keys=True))
+    write_atomic(WORK / f"result-{label}.json", json.dumps(result, indent=1, sort_keys=True) + "\n")
     failures = [r for r in rows if r["exit"] != 0]
     print(f"{label}: {len(rows)} commands, {len(failures)} nonzero; corpus digest {result['final_corpus_tree_sha256']}")
     if not (result["harness_unchanged"] and result["binary_unchanged"]):
@@ -404,37 +412,111 @@ def finish(label, binary, kind, baseline, rows, trees, extra):
 
 
 def archive_interrupted(label, logs):
-    """Move an interrupted attempt's logs aside so the label can run again.
+    """Move an interrupted attempt aside so the label can run again.
 
-    Nothing is deleted or overwritten: the old directory is renamed, the move is
-    recorded in attempts-<label>.json, and a label that already has a finished
-    result is refused (an interrupted run never produced one).
+    Nothing is deleted or overwritten: the old logs (and, for an unusable result,
+    the result and trees files) are renamed, and the move is recorded in
+    attempts-<label>.json. A label whose result is usable evidence is refused:
+    the driver reconciles such a result with verify-result, or a fresh label is
+    chosen. A result is unusable only when the run itself reported that the
+    harness or binary changed while it ran (exit 3).
     """
-    if (WORK / f"result-{label}.json").exists():
-        sys.exit(f"refusing: {label} already has a finished result; choose a fresh --label")
+    result_path = WORK / f"result-{label}.json"
+    moved_result = []
+    if result_path.exists():
+        try:
+            existing = json.loads(result_path.read_text())
+        except ValueError:
+            existing = {}
+        if existing.get("harness_unchanged") is True and existing.get("binary_unchanged") is True:
+            sys.exit(
+                f"refusing: {label} already has a usable finished result; reconcile it "
+                "(verify-result) or choose a fresh --label"
+            )
+        moved_result = [result_path, WORK / f"trees-{label}.json"]
     stamp = time.strftime("%Y%m%dT%H%M%SZ", time.gmtime())
-    target = WORK / f"{logs.name}.interrupted-{stamp}"
+    suffix = f".interrupted-{stamp}"
     counter = 1
-    while target.exists():
+    while (WORK / f"{logs.name}{suffix}").exists() or any(
+        path.with_name(path.name + suffix).exists() for path in moved_result
+    ):
         counter += 1
-        target = WORK / f"{logs.name}.interrupted-{stamp}-{counter}"
-    files = sum(1 for path in logs.rglob("*") if path.is_file())
-    logs.rename(target)
+        suffix = f".interrupted-{stamp}-{counter}"
+    files = sum(1 for path in logs.rglob("*") if path.is_file()) if logs.exists() else 0
+    target = WORK / f"{logs.name}{suffix}"
+    archived = []
+    if logs.exists():
+        logs.rename(target)
+        archived.append(target.name)
+    for path in moved_result:
+        if path.exists():
+            path.rename(path.with_name(path.name + suffix))
+            archived.append(path.name + suffix)
     record = WORK / f"attempts-{label}.json"
     history = json.loads(record.read_text()) if record.exists() else []
-    history.append({"archived_to": target.name, "files": files, "utc": stamp})
-    record.write_text(json.dumps(history, indent=1) + "\n")
-    print(f"{label}: archived interrupted attempt ({files} files) to {target.name}", flush=True)
+    history.append({"archived_to": archived, "files": files, "utc": stamp, "had_result": bool(moved_result)})
+    write_atomic(record, json.dumps(history, indent=1) + "\n")
+    print(f"{label}: archived interrupted attempt ({files} log files) to {', '.join(archived)}", flush=True)
+
+
+def result_problem(args):
+    """Why result-<label>.json is not a complete, clean result of this exact run, or None."""
+    result_path, trees_path = WORK / f"result-{args.label}.json", WORK / f"trees-{args.label}.json"
+    if not result_path.exists() or not trees_path.exists():
+        return "result or trees file missing"
+    try:
+        result = json.loads(result_path.read_text())
+        json.loads(trees_path.read_text())
+    except ValueError as error:
+        return f"unreadable: {error}"
+    expected = "retained-replay" if args.run_kind == "replay" else "whole-corpus-sweep"
+    if result.get("kind") != expected:
+        return f"kind {result.get('kind')!r}, expected {expected!r}"
+    if result.get("label") != args.label:
+        return "label does not match"
+    for key in list(REQUIRED_COMMON) + list(REQUIRED_BY_KIND[expected]):
+        if key not in result:
+            return f"required evidence {key} absent"
+    for key in ("harness_unchanged", "binary_unchanged", "harness_frozen_snapshot", "harness_committed"):
+        if result[key] is not True:
+            return f"{key} is not true"
+    if result.get("harness_live_source_changed_during_run") is not False:
+        return "live harness source changed during the run"
+    if result["harness_sha256"] != HARNESS_SHA256_AT_START:
+        return "made by a different harness revision"
+    if result.get("binary_sha256") != sha256_file(Path(args.binary).resolve()):
+        return "made by a different binary"
+    if result["baseline"] != args.baseline:
+        return "different baseline"
+    for row in result.get("rows", []):
+        missing = [key for key in REQUIRED_ROW_KEYS if key not in row]
+        if missing:
+            return f"row {row.get('slug')}/{row.get('stage')} lacks {missing}"
+    if expected == "retained-replay":
+        name = "coverage-manifest-supplement.json" if args.supplement else "coverage-manifest.json"
+        if result["inputs_tree_sha256"] != json.loads((WORK / name).read_text())["inputs_tree_sha256"]:
+            return "different frozen inputs"
+    if not (WORK / f"logs-{args.label}").is_dir():
+        return "logs directory missing"
+    return None
+
+
+def cmd_verify_result(args):
+    problem = result_problem(args)
+    if problem:
+        print(f"{args.label}: result not reconcilable: {problem}", file=sys.stderr)
+        sys.exit(1)
+    print(f"{args.label}: result is complete and clean for this harness revision, binary and inputs")
 
 
 def prepare(args, git_init=False):
     binary = Path(args.binary).resolve()
     baseline = args.baseline or json.loads((WORK / "coverage-manifest.json").read_text())["baseline"]
     logs = WORK / f"logs-{args.label}"
-    if logs.exists():
+    if logs.exists() or (WORK / f"result-{args.label}.json").exists():
         if not args.archive_interrupted:
             sys.exit(
-                f"refusing to overwrite {logs}; choose a fresh --label, or pass "
+                f"refusing to overwrite {logs} or its result; choose a fresh --label, or pass "
                 "--archive-interrupted to move an interrupted attempt aside"
             )
         archive_interrupted(args.label, logs)
@@ -692,6 +774,13 @@ def main():
             help="if logs-<label> exists from an interrupted run, rename it aside and run again; never touches a finished label",
         )
         run.set_defaults(func=func)
+    verify = sub.add_parser("verify-result", help="exit 0 only if result-<label>.json is complete and clean for this harness, binary and inputs")
+    verify.add_argument("--run-kind", choices=("replay", "sweep"), required=True)
+    verify.add_argument("--binary", required=True)
+    verify.add_argument("--label", required=True)
+    verify.add_argument("--baseline", required=True)
+    verify.add_argument("--supplement", action="store_true")
+    verify.set_defaults(func=cmd_verify_result)
     supp = sub.add_parser("freeze-supplement")
     supp.add_argument("--search", required=True)
     supp.set_defaults(func=cmd_freeze_supplement)

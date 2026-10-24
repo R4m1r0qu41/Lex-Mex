@@ -10,6 +10,12 @@ queue-state.json, so a stopped queue resumes at the failing step. A resumed step
 runs again under its own label: the harness moves the interrupted attempt's logs
 aside (--archive-interrupted), and every attempt's stdout goes to its own file
 (<label>.out, then <label>.attempt-2.out, ...), so no earlier record is lost.
+If the driver stopped after a run finished but before recording it, the resume
+asks the harness to verify the result (verify-result: complete, clean, same
+harness revision, binary and inputs) and records it as done without rerunning;
+a result the run itself marked unusable (exit 3) is archived with its logs and
+the step runs again; any other result already on disk stops the queue for an
+explicit decision. State and the stop marker are written atomically.
 
 Order: the new baseline pair B3/B4 (retained, sweep, supplement), each pair
 compared strictly; then the candidates, C3 first because it is the final code,
@@ -18,6 +24,7 @@ harness or this driver while the queue runs: any run made from a different
 harness revision fails the strict comparison.
 """
 import json
+import os
 from pathlib import Path
 import subprocess
 import sys
@@ -56,6 +63,30 @@ def unused_path(path):
     return candidate
 
 
+def write_state(state):
+    temporary = STATE.with_name(STATE.name + ".tmp")
+    temporary.write_text(json.dumps(state, indent=1))
+    os.replace(temporary, STATE)
+
+
+def harness_args(kind, label, binary, extra):
+    harness_kind = {"retained": "replay", "sweep": "sweep", "supp": "replay"}[kind]
+    return harness_kind, ["--binary", str(WORK / "bin" / binary / "lex-mex"), "--label", label, "--baseline", BASELINE, *extra]
+
+
+def reconcile(kind, label, binary, extra):
+    """True when a finished result already on disk is verified clean for this run."""
+    if not (WORK / f"result-{label}.json").exists():
+        return False
+    harness_kind, tail = harness_args(kind, label, binary, extra)
+    done = subprocess.run(
+        [sys.executable, str(HARNESS), "verify-result", "--run-kind", harness_kind, *tail],
+        capture_output=True, text=True,
+    )
+    say(f"RECONCILE {label}: rc={done.returncode} {(done.stdout + done.stderr).strip()}")
+    return done.returncode == 0
+
+
 def say(text):
     line = f"{time.strftime('%Y-%m-%dT%H:%M:%SZ', time.gmtime())} {text}"
     print(line, flush=True)
@@ -64,12 +95,8 @@ def say(text):
 
 
 def run_command(kind, label, binary, extra):
-    harness_kind = {"retained": "replay", "sweep": "sweep", "supp": "replay"}[kind]
-    command = [
-        sys.executable, str(HARNESS), harness_kind,
-        "--binary", str(WORK / "bin" / binary / "lex-mex"),
-        "--label", label, "--baseline", BASELINE, "--archive-interrupted", *extra,
-    ]
+    harness_kind, tail = harness_args(kind, label, binary, extra)
+    command = [sys.executable, str(HARNESS), harness_kind, *tail, "--archive-interrupted"]
     out = unused_path(WORK / f"{label}.out")
     with out.open("w") as handle:
         return subprocess.run(command, stdout=handle, stderr=subprocess.STDOUT).returncode
@@ -83,8 +110,13 @@ def main():
             continue
         attempts = state.setdefault("attempts", {})
         attempts[name] = attempts.get(name, 0) + 1
-        STATE.write_text(json.dumps(state, indent=1))
+        write_state(state)
         say(f"START {name} (attempt {attempts[name]})")
+        if action == "run" and reconcile(kind, first, second, extra):
+            say(f"END   {name} rc=0 (reconciled an existing verified result; not rerun)")
+            state["done"].append(name)
+            write_state(state)
+            continue
         if action == "run":
             code = run_command(kind, first, second, extra)
         else:
@@ -96,11 +128,13 @@ def main():
                 ).returncode
         say(f"END   {name} rc={code}")
         if code != 0:
-            unused_path(WORK / "queue-stopped.json").write_text(json.dumps({"step": name, "rc": code}))
+            stopped = unused_path(WORK / "queue-stopped.json")
+            stopped.with_name(stopped.name + ".tmp").write_text(json.dumps({"step": name, "rc": code}))
+            os.replace(stopped.with_name(stopped.name + ".tmp"), stopped)
             say(f"STOP at {name}: non-zero exit {code}")
             sys.exit(code)
         state["done"].append(name)
-        STATE.write_text(json.dumps(state, indent=1))
+        write_state(state)
     say("QUEUE COMPLETE: every run succeeded and every comparison was exact")
 
 
