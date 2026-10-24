@@ -23,8 +23,8 @@ P has no conflicts and its tree equals the parser tip's tree. R has one conflict
 both in Cargo's order (`jsonschema`, then `lex-analysis`); `cargo build --locked` at R confirms the lockfile.
 `crates/lex-cli/Cargo.toml` and `main.rs` merged automatically. Source ancestry is preserved (no squash, no rebase).
 
-Unmoved: `main` `85c41f389`, `refactor/parser-split` `11a3a9095`, `feat/four-instrument-reader-design`
-`b9b8be012`, `feat/reader-tweaks-r7` `162128517`. R7 is not in P or R.
+Historical (tips right after the candidate merges, before promotion; the current state is in the Promotion section): `main` `85c41f389`, `refactor/parser-split` `11a3a9095`, `feat/four-instrument-reader-design`
+`b9b8be012`, `feat/reader-tweaks-r7` `162128517`. R7 is not in P or R (still true).
 
 ## P gates
 
@@ -86,6 +86,16 @@ follows P on main.
 
 **R7** stays separate and unpublished: no R7 file is in main or the reader branch. It now lacks the parser split, so a
 future R7 release needs main merged into it first. Push and deployment still need separate authorization.
+
+## Handoff records
+
+Codex's status report (`parser-reader-integration-status-2026-10-24.md`, untracked on main) noticed a gap in these
+records: the earlier Codex-to-Claude integration request was still marked pending, there was no fresh P/R Codex
+handoff, and this receipt kept pre-promotion wording ("Unmoved", `tips_unmoved`, `promotion_procedure_not_run`).
+Codex will place its own report. Tidied here: the request is resolved in the vault with a Resolution section, the
+stale fields are labelled historical, and Codex's execution plan is bound by SHA-256 (`f257f01e9a62414cbe7a582f39c41c29c5bfc0f26cf9c0fa0e29368b356ed151`; it stays
+untracked and Codex-owned). I did not write a new P/R Codex handoff; the independent P/R review is Codex's to
+schedule.
 
 ## Limits
 

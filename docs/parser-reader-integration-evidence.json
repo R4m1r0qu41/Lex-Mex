@@ -8,6 +8,15 @@
   "resolution": "kept both, in Cargo's alphabetical order: jsonschema, then lex-analysis (the other new crates and lex-cli/Cargo.toml and main.rs merged automatically)"
  },
  "date": "2026-10-24",
+ "handoff_records": {
+  "execution_plan_bound": {
+   "path": "docs/plans/parser-reader-integration.md",
+   "sha256": "f257f01e9a62414cbe7a582f39c41c29c5bfc0f26cf9c0fa0e29368b356ed151",
+   "status": "untracked in main (Codex-owned), not committed or modified by Claude"
+  },
+  "note": "Codex's integration status report (docs/parser-reader-integration-status-2026-10-24.md, untracked on main, SHA-256 3ac6bff9dbbe63b62dc5caa313625594e8b8aed171562295889af4b39ccc5196) noticed a gap in the handoff records: the earlier Codex-to-Claude integration request was still marked pending, there was no fresh P/R Codex handoff, and this record kept stale pre-promotion wording. Codex will place its own report. Claude's part: the request is now resolved in the vault with a Resolution section, the stale fields above are labelled historical, and the plan Codex prepared is bound by digest below. Claude did not write a new P/R Codex handoff; the independent P/R review is Codex's to schedule.",
+  "resolved_request": "pending/claude/2026-10-24-lex-mex-parser-reader-integration.md moved to resolved/"
+ },
  "identities": {
   "B_main": "85c41f3898d86737766564fa8d3fd8f6d4ae74a3",
   "P_parser_to_main": {
@@ -380,7 +389,8 @@
   "unchanged": "refactor/parser-split 11a3a9095; feat/reader-tweaks-r7 162128517; origin/main 85c41f389 (no push)",
   "when": "2026-10-24 (after the verification above)"
  },
- "promotion_procedure_not_run": [
+ "promotion_procedure_historical": [
+  "HISTORICAL PLAN, now executed: see 'promotion' for what was done",
   "recheck tips (main, reader branch), writer ownership and untracked collisions",
   "main: back up the one colliding untracked file to .work/integration-backups/<unique>/ with a path and SHA-256 manifest and verify the bytes, move only that path aside, then git merge --ff-only to the reviewed candidate (P, or D if the docs commit is wanted)",
   "reader-four: git merge --ff-only R in that worktree after rechecking its 9 dirty entries for collisions (none today)",
@@ -409,5 +419,5 @@
   "reader_source": "git diff b9b8be012..R over reader/ is empty (UI source byte-identical to the published b9b8 source); parser, db, grammar, analysis and link crate sources equal P"
  },
  "status": "PROMOTED_LOCALLY_NOT_PUSHED",
- "tips_unmoved": "main 85c41f389; refactor/parser-split 11a3a9095; feat/four-instrument-reader-design b9b8be012; feat/reader-tweaks-r7 162128517 (checked after the merges; origin/main equals main)"
+ "tips_at_candidate_build_historical": "HISTORICAL (checked right after the candidate merges, before promotion): main 85c41f389; refactor/parser-split 11a3a9095; feat/four-instrument-reader-design b9b8be012; feat/reader-tweaks-r7 162128517 (checked after the merges; origin/main equals main). After promotion main is P (then the docs commit) and the reader branch is R; see 'promotion'."
 }
