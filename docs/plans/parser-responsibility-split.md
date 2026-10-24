@@ -293,6 +293,11 @@ permission or model availability gets a precise blocker and resumable receipt.
 
 ## Outcome / retrospective
 
-Planning only. Gates G0–G5 are NOT RUN. No runtime behavior, corpus, database or
-reader changed. The historical consolidation audit remains historical; this
+Execution status (updated by the executor): G0–G4 executed on branch
+`refactor/parser-split`; G5 handoff is the last step. The living record is
+`docs/parser-split-implementation-receipt.md` with machine evidence in
+`docs/parser-split-implementation-evidence.json`. Nothing is merged, pushed or
+deployed. The sentence that follows is the original planning-time statement:
+planning only, gates NOT RUN. No runtime behavior, corpus, database or
+reader changed at planning time. The historical consolidation audit remains historical; this
 file is the living execution plan for the parser split.

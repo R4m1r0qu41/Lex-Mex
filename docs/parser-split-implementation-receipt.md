@@ -220,6 +220,69 @@ inspect. The commands are committed as `prompts/parser-split-g4-candidate.sh`,
 Not run here, as the plan says: the reader UI integration check (exporter build
 and package verification) belongs to the integration commit.
 
+## G5 — final read-only pass (advisor, Opus 5.5) and dispositions
+
+This pass also serves as the G3 review of remaining coupling and provenance. The
+plan placed that review before the final acceptance builds; the operator started
+G4 first after Codex's OK, and nothing in this pass changed C, so G4 stands. Every
+finding below was closed with a measurement or is recorded as a limit; none is
+waived.
+
+**Review preservation.** The "audited-review application" code (AN-04) is
+`apply_outdated_reference_approvals` and `apply_legal_operator_reviews`, moved
+byte-identical to `lex-analysis/src/review.rs`. They attach a review to exactly one
+extracted edge, refuse to overwrite and fail closed on no match; they have no
+rejected or unresolved state. Their one CLI caller path is
+`extract_instrument_references`, driven by the parse, `link --all`, `link lritf`
+and `link ifpe-dcg-2021` stages with zero drift, and the `legal_operator_reviews`
+(16) and `outdated_reference_approvals` (17) tables are equal row for row, payloads
+included. The fixture tests for approval, mismatch and overwrite refusal stay in
+`lex-parse` and pass at C; `lex-analysis` has no tests of its own for these two
+functions. The temporal review queue (`review open/resolve`, `import-temporal`)
+uses `lex-core` only and nothing in it moved.
+
+**Commands the harness does not drive** (moved symbols they reach, and the stage
+that drives the same symbols):
+
+| Command | Moved symbols reached at C | Driven stage |
+| --- | --- | --- |
+| `import-temporal` | none directly | none; no moved symbol |
+| `review open` / `review resolve` | none directly | none; no moved symbol |
+| `analyze-temporal --provider codex` | none directly | provider none: `temporal-request` stage |
+| `standards compile` | none (the `lex-parse` standards functions stay in `lex-parse`) | `standards validate` and `refresh` for 32 NOMs |
+| `pipeline` | `validate_corpus`, derive-temporal functions | each component stage; the orchestration is not driven as one command |
+| `batch run` / `batch closure` | `extract_references`, `extract_term_usages*`, `validate_corpus` | the same functions via `link --all`, `validate`, `derive-temporal`; `run_batch_closure` is covered by `lex-cli` unit tests that pass at C |
+
+The driven commands (parse, link, validate, derive-temporal, db) and their stages
+are in the evidence file. The undriven rows are explicit coverage limits, not
+passes.
+
+**Other checks.**
+- Test identity: `cargo test --workspace -- --list` at B and at C gives 419 and
+  425 tests. Every B test name exists at C: six moved from `lex-parse` to
+  `lex-analysis` with only the module prefix changed. The six new tests are the
+  five `lex-db` provenance tests and `lex_parse_public_paths_resolve`.
+- Dev dependencies: grammar has none; analysis and link use only
+  `pretty_assertions`. No edge from grammar, analysis or link to parse, CLI, DB or
+  export, in production or dev.
+- Facade: no function was copied. `collapse_whitespace` and `slug` in
+  `dcg.rs`/`terms.rs` are private helpers that exist unchanged at B.
+- Builder pinning: root `Cargo.toml` and `Cargo.lock` are in `BUILDER_FILES`; the
+  other `lex-db` changes are import and path renames only.
+- `validate_reference` and `validate_references` were private at B and are not in
+  the 126 baseline public items, so no baseline-public signature changed. The
+  compile fixture still proves paths, not signatures.
+- Inventory: 26 rule rows; 187 backticked symbols resolve in the crates at HEAD.
+- Ignored evidence (15 result files, 12 strict comparisons plus the legacy B2
+  comparison, the G4 outputs, the frozen binaries) is bound by SHA-256 in
+  `ignored_artifact_sha256` in the evidence file.
+
+**Reproducing the gate evidence.** The gate runs used harness blob `9c329e0c`
+(commit `d05d98d3b`). HEAD carries the repaired blob `24c9534b`. A replay with the
+HEAD harness will fail a strict comparison with the gate runs on revision alone;
+that is not drift. Use the harness from `d05d98d3b`, or compare new-revision runs
+only with each other.
+
 ## Tooling defect R-001 (repaired after the queue)
 
 Codex found that an interrupted run could not restart under the same label: the

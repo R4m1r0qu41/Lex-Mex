@@ -228,13 +228,90 @@
   "row_parity": "tools/g4_compare.py hashes every row of every non-shadow table in key order: 20 of the 21 compared tables are equal (367,323 rows, provisions_fts content included) for B/B vs B/C-a and B/B vs B/C-b (instruments, provisions, reference_edges, reference_qualifiers, defined_terms, term_usages, coverage, known_structural_debt, legal_operator_reviews, outdated_reference_approvals and the rest) except corpus_release, which differs only in id and the two specification fields below. FTS shadow tables are physical, not compared; provisions_fts content is compared",
   "tested_code_C": "1250889ce10b8ba910a5f5ca5f232fd5752e79df (HEAD production code is identical; later commits are docs, prompts and receipts only)"
  },
+ "g5": {
+  "builder_pinning": "root Cargo.toml and Cargo.lock are in BUILDER_FILES (crates/lex-db/src/build.rs:20-21); the other lex-db changes (verify, contract, queries, validation) are only import and path renames to lex_grammar and lex_analysis",
+  "caller_map_undriven_commands": [
+   {
+    "command": "import-temporal",
+    "driven_stage": "none (not driven); no moved symbol, so unchanged code path",
+    "moved_symbols_reached": "none directly (handler run_temporal_import and republish_exports use lex-core and lex-export)"
+   },
+   {
+    "command": "review open / review resolve",
+    "driven_stage": "none (not driven); no moved symbol",
+    "moved_symbols_reached": "none directly (run_review_command uses lex-core)"
+   },
+   {
+    "command": "analyze-temporal --provider codex",
+    "driven_stage": "analyze-temporal with provider none (temporal-request stage); codex provider itself not driven, no moved symbol",
+    "moved_symbols_reached": "none directly; run_temporal_request and run_codex_temporal use lex-core routing"
+   },
+   {
+    "command": "standards compile",
+    "driven_stage": "standards validate and refresh for 32 NOMs (same lex-parse functions); compile itself not driven",
+    "moved_symbols_reached": "none (standards.rs imports parse_standard_clauses, parse_standard_supplements, parse_standard_transitories, strip_page_furniture, validate_standard from lex-parse; none moved to another crate)"
+   },
+   {
+    "command": "pipeline",
+    "driven_stage": "orchestration not driven as one command; each component is driven by the validate and derive-temporal stages",
+    "moved_symbols_reached": "validate_corpus and the derive-temporal functions via run_validate and run_temporal_derive"
+   },
+   {
+    "command": "batch run / batch closure",
+    "driven_stage": "not driven by the harness; the same functions are driven by link --all, validate and derive-temporal; run_batch_closure is exercised by lex-cli unit tests that pass at C",
+    "moved_symbols_reached": "extract_references, extract_term_usages, validate_corpus via propose_references, refresh_linked_terms, classify_closure, run_batch_instrument"
+   }
+  ],
+  "dev_dependency_graph": "dev-dependencies of lex-grammar (none), lex-analysis (pretty_assertions), lex-link (pretty_assertions) have no project edge; no edge from grammar, analysis or link to parse, CLI, DB or export",
+  "driven_command_map": [
+   {
+    "command": "parse",
+    "moved": "initial_temporal_status, initial_repeals (lex-analysis), grammar helpers, links_for_parsed_instrument -> lex-link",
+    "stage": "parse (retained + sweep)"
+   },
+   {
+    "command": "link / link --all",
+    "moved": "extract_references, extract_term_usages*, apply_* reviews (lex-link, lex-analysis)",
+    "stage": "link-all, link-lritf, link-ifpe"
+   },
+   {
+    "command": "validate",
+    "moved": "validate_corpus (lex-analysis)",
+    "stage": "validate"
+   },
+   {
+    "command": "derive-temporal [--repair-dates-only]",
+    "moved": "temporal_derive::* (lex-analysis)",
+    "stage": "derive-temporal per slug; repair-dates-lritf, repair-dates-ccf"
+   },
+   {
+    "command": "db project / verify / golden-queries / contract-probe",
+    "moved": "validate_corpus, canonical_slug (lex-db imports)",
+    "stage": "G4 builds; db-contract-probe in the sweep"
+   }
+  ],
+  "facade_no_copied_logic": "Same-name functions in lex-parse and the moved crates: collapse_whitespace and slug in dcg.rs and slug in terms.rs exist at B as private helpers (dcg.rs:678, 682; terms.rs:1973) and are unchanged; no function was copied into the facade",
+  "harness_revision_for_reproduction": "gate evidence used harness blob 9c329e0c (commit d05d98d3b); HEAD carries blob 24c9534b. A replay with the HEAD harness fails strict comparison with the gate runs on revision alone, which is not drift; reproduce with the harness from d05d98d3b or compare new-revision runs only with each other",
+  "inventory_resolution": "26 rule rows (GR-01..PA-09); 187 backticked symbols resolve in crates at HEAD; the one non-literal token resolve_commencement* matches two functions in lex-analysis temporal_derive.rs",
+  "pass": "bounded advisor (Opus 5.5) read-only final pass; also serves as the G3 coupling and provenance review, which ran after G4 because the operator started G4 first after Codex's OK. No provenance change followed, so C is unchanged and G4 stands.",
+  "review_preservation": {
+   "callers": "lex-cli main.rs extract_instrument_references (reached by relink_instrument, links_for_parsed_instrument, propose_references)",
+   "driven_by": "harness stages parse, link --all, link lritf, link ifpe-dcg-2021 (zero drift B4 vs C1/C2/C3); DB tables legal_operator_reviews (16 rows) and outdated_reference_approvals (17 rows) equal row for row, payloads included, B/B vs B/C",
+   "limit": "legal-operator reviews are not enumerated here by decision value; the fixtures pin the fail-closed shapes",
+   "temporal review queue": "review open/resolve and import-temporal use lex-core only (resolve_temporal_review, parse_temporal_model_response); nothing in them moved",
+   "tests": "the fixture tests that exercise approval, mismatch, overwrite refusal and no-match failure stay in lex-parse (they build provisions through parser fixtures) and pass at C, calling the functions through the lex_parse facade (lex-parse/src/lib.rs); cargo test -p lex-analysis has no test for them",
+   "what_moved": "apply_outdated_reference_approvals and apply_legal_operator_reviews (AN-04), byte-identical bodies in lex-analysis/src/review.rs; they attach reviews to extracted edges or fail closed (exact-one-edge match, no overwrite); there is no rejected/unresolved enum in these functions"
+  },
+  "test_identity": "cargo test --workspace -- --list at B and at C: 419 vs 425 tests; every B test name is present at C (six moved from lex-parse to lex-analysis with only the module prefix changed: initial::tests::repeal_marker_alone_on_its_line_is_a_repeal_but_a_sentence_is_not, initial::tests::unanalyzed_temporal_status_is_unknown_except_for_an_explicit_repeal_note, validate::tests::header_contamination_requires_standalone_page_furniture, validate::tests::partial_repeal_and_condition_records_are_required_where_the_status_needs_them, validate::tests::partial_repeal_notes_are_classified_only_in_the_unambiguous_shape, validate::tests::plain_article_number_reads_bare_ordinals_only); the six new tests are the five lex-db provenance tests (changed_manifest_in_each_new_crate_is_rejected_with_its_path, changed_source_in_each_new_crate_is_rejected_with_its_path, every_pinned_directory_has_a_rebuild_trigger_and_an_inventory, newly_added_consumed_source_is_rejected_even_when_every_compiled_file_matches, unchanged_builder_commit_with_notes_is_accepted) and lex_parse_public_paths_resolve",
+  "validate_reference_visibility": "validate_reference and validate_references were private at B (lib.rs:2417, 2449) and are not among the 126 baseline public items, so no baseline-public signature changed"
+ },
  "gates": {
   "G0": "BASELINE_PAIR_EXACT; plan PASS wording allows unavailable retained inputs to be 'explicitly returned as a coverage blocker' while forbidding calling reduced coverage full acceptance: 106 blockers returned, no claim of full coverage",
   "G1": "AB_EXACT_PENDING_ADVISOR (C1 == B4 on retained, sweep and supplement; strict compare, empty allowlist)",
   "G2": "AB_EXACT_PENDING_ADVISOR (C2 == B4 on retained, sweep and supplement; strict compare, empty allowlist)",
   "G3": "AB_EXACT_PENDING_ADVISOR (C3 == B4 on retained, sweep and supplement; strict compare, empty allowlist)",
   "G4": "PASS_PENDING_ADVISOR (all plan checks met; see g4)",
-  "G5": "NOT_STARTED"
+  "G5": "IN_PROGRESS (advisor pass done, records written; handoff pending)"
  },
  "harness": {
   "acceptance_selftest": {
@@ -291,6 +368,65 @@
   },
   "sha256_at_f1da6f1e7": "a9a034912b37f0ee99269894fc7df74e30c35bf71370a0d1a3b7ecaf2ed91bd5",
   "sha256_at_ff38d1882": "f28c7aa40e701f17c142749253e9b3226771c67f1a88bfea2276979b9abdc73a"
+ },
+ "ignored_artifact_sha256": {
+  "files": {
+   "api-inventory.json": "4a70a37049ad48cfa711de581cda49b31463556b98f232ab34b2a07e4a050a3c",
+   "bin/B/lex-mex": "5c4a3f29acb7e5a1de6766f011a9d48f387178c2f38a592cfb11f2aef03c7730",
+   "bin/C1/lex-mex": "90cc26578cabf10a3fa8bf069e238834adff2a18fd8bb5530a839f8f2e0fa7bc",
+   "bin/C2/lex-mex": "17b09ead9b58436ae453c71c3a1e290cd01b1ee382e40a847c258e9e05c077f1",
+   "bin/C3/lex-mex": "31e21bc7c7afe31435486a942cad36de44db5dc6712c131f16eddbea83508235",
+   "compare-retained-B2-vs-retained-B3.json": "8b9a1aa9615a359b5de7282f9862e26163e22e6b371dd403a970c2797becc9a6",
+   "compare-retained-B3-vs-retained-B4.json": "aabe2d43c731aa6cf9709eb255ee80fd7596cdb0d18d6ec74574872a9970e30f",
+   "compare-retained-B4-vs-retained-C1.json": "1b00c036a9feb796ff40a2008c68270f9f024bdc0d5dee04efe2424c85be6ee4",
+   "compare-retained-B4-vs-retained-C2.json": "8f0b232ac67a6047b026d613285632655a405c4eddb058b8111d03887febf506",
+   "compare-retained-B4-vs-retained-C3.json": "ba0729ef530bd3d243ceb07603fa35cde13e16c04375c7c7fc13e74f6fef58d6",
+   "compare-supp-B3-vs-supp-B4.json": "5ae0b37ee9634eb8cf4dd41ad190bb160a12f05557e47052af7534a443c7ac4d",
+   "compare-supp-B4-vs-supp-C1.json": "eb95c187ad9e3ead879a5cc8af0bc2d82f498676d7e7b95fb9675666ef728067",
+   "compare-supp-B4-vs-supp-C2.json": "ee83484c7c368c901b543bb346b4194e2a511b3ba696bcd6f7864030c4de0e53",
+   "compare-supp-B4-vs-supp-C3.json": "0f757862c145c9b6d9cc49934db855608fead7a5a3d9bb6ac8136bb54b5fb0ec",
+   "compare-sweep-B3-vs-sweep-B4.json": "ffd01a1ef1aff0d4a3c0d0ca023fc785373c741c6bd010d4e4a299c8dd3d2cae",
+   "compare-sweep-B4-vs-sweep-C1.json": "e3d2a7224ae8d99b1f85cebedc7405d1c48c5954beaec5a4214634367c4a7e13",
+   "compare-sweep-B4-vs-sweep-C2.json": "af3a4689d29e5919e3e2b8bc2876931a757b495cb16760eaf3e0a01b652125bb",
+   "compare-sweep-B4-vs-sweep-C3.json": "bd9acaae001b82171e4b05cc1f42d87424e5274d042de62a1c4ae8d7428655da",
+   "coverage-manifest-supplement.json": "efe68af8c7f9028ceb630bc20915c63dd8c0982b914631ad2bf4d1ba2e0a5971",
+   "coverage-manifest.json": "8893e33b20a90ba10b0da2f684158d951b72153acf21f1757fc35eb8dbd608d3",
+   "g4-out/baseline-bb-golden.json": "3ddc9eecbcddbcb0ea918672b48253dd65b07df3986c384e08be8ab713006140",
+   "g4-out/baseline-bb-verify.json": "e3e9db382c686c0e548ea863624ef8f983999b1536a7898d96e8e23e6817e870",
+   "g4-out/baseline-bb.json": "408b9e6e51d2d434808aca5c15f63537eb796061f51efe58ace0b8b6feb97e68",
+   "g4-out/cand-a-golden.json": "3ddc9eecbcddbcb0ea918672b48253dd65b07df3986c384e08be8ab713006140",
+   "g4-out/cand-a-verify.json": "91dbd6641c691ee6b7515975e2c10207954ead584f32dce8d62b29dff4eefa2e",
+   "g4-out/cand-a.json": "4a7a8c147ae5625fffc87c2ee7e94bdd9b346611c892cf2ce25d81cba128558d",
+   "g4-out/cand-b-golden.json": "3ddc9eecbcddbcb0ea918672b48253dd65b07df3986c384e08be8ab713006140",
+   "g4-out/cand-b-verify.json": "91dbd6641c691ee6b7515975e2c10207954ead584f32dce8d62b29dff4eefa2e",
+   "g4-out/cand-b.json": "80186da6c168519dfac7e5e0137b2b401c7c474acb38e23e494f933cbccc7a2b",
+   "g4-out/compare-bb-vs-ca.json": "106e8983bfe0bd6dd08bde85b51619927a7068c3dc459c6e9e712b84c0c9ae14",
+   "g4-out/compare-bb-vs-cb.json": "5e4d3dcde4c3b65be2d9cc05a980a1765b4f591da400cc999e9b4ca31457f12a",
+   "g4-out/native-clippy.log": "c4ed1d238b26c0750712913f38226a3ec2d492d683309f199c31d9d6bd54b806",
+   "g4-out/native-fmt.log": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "g4-out/native-test.log": "874d752929e8f6db680d0be893179c53f669869675fc346dcf7943977769c9fd",
+   "g4-out/native-validate-ifpe-dcg-2021.log": "dafbf7b25ee5ce5489fd9e4e6be701d3d1a7e83bfc375dcbcfd70f93d5434d11",
+   "g4-out/native-validate-lritf.log": "dd92e9974dd9472674c11c8b97186bc303bd5561571672d7ed980c36540ededf",
+   "g4-out/testlist-base.raw": "c61a737394cbc6b51e6c04eda9a1822410d28777fef70beadfc48e069a12767c",
+   "g4-out/testlist-native.raw": "ef3378c2e5292d2552d420c48020b3a164c8fa67e6eae30b9f9c4299b3e675d7",
+   "logs/selftest-3.log": "132091b5801abf2fdf8d1b227dea8fc5c934147db835f0313ff2796172018e59",
+   "result-retained-B3.json": "ef2078c18c8ec098622780899c8547c965bc3b3d94d1986c06b76e6778070e32",
+   "result-retained-B4.json": "f1a87fc53e2bcee35bf2cc0e92244235a9dc3a6ccda7846a588cbe2bf3eb4f7d",
+   "result-retained-C1.json": "b4fb127819d5c9b329c9c9be4f84fca444c7975ffb6e924239cda6c9d6c17541",
+   "result-retained-C2.json": "93576fda1541729f23fb08a5b098ba7d125631a81a7c75821eaf98aa37bf2545",
+   "result-retained-C3.json": "b0229e8f303d6fbe608fc6a68e55734a23187f1bd885c1209ebf026616ec0dfa",
+   "result-supp-B3.json": "e74b83143b269d6b67d679588528661a27e36100a20daf02d427e0059a4f7902",
+   "result-supp-B4.json": "cb5baf5adf798ea31145398a31d5082b8fe5ce69921ee859d330c154e0fcb59d",
+   "result-supp-C1.json": "333755fc3f1249ecda892d95ca138c4a39488386f2dd4135b6b89ea6f3a23994",
+   "result-supp-C2.json": "b043410a88d960a2307ad1cfa3fd5d7e069bdd7b347d28463eb5b1f4684b88a9",
+   "result-supp-C3.json": "8205c534f04417023bc3848194e69b63a1a0a13550276ae114064d376315803e",
+   "result-sweep-B3.json": "f090fc1af19825f3e5bbc17ab289b97d8863055231364b3aac42a874548d4a4f",
+   "result-sweep-B4.json": "b9208646247af4dafa524dc2e816ad21fbebe38ddc0650399ceff455f9ba6cf0",
+   "result-sweep-C1.json": "bba1e823154e086b1b43399e97948aa13babb1327791950b897eb23185c7d7e4",
+   "result-sweep-C2.json": "62cf1af5f642c94ad6466a866f3e9c0bbc3ef7665d1b821d5f251647d3c5644f",
+   "result-sweep-C3.json": "0c936158f8f6b183a03fac4c2f78a5747c1edf82be0c699993fc69fbdd98a990"
+  },
+  "note": "These files live in ignored .work/parser-split/ in the operator worktree; the hashes bind the commit-bound handoff to their contents. Legacy runs (B1, B2) and scratch compares are excluded."
  },
  "known_baseline_replay_validation_failures": {
   "note": "Deterministic at B and reproduced exactly by B3, B4, C1, C2 and C3. Cause for the checked cases: adapter-frozen article counts or heading-leak holds recorded in docs/heading-leak-permanent-acceptance-2026-10-21.md; the other causes were not diagnosed and the committed corpus was not re-parsed for them. Pre-existing; not fixed here.",
