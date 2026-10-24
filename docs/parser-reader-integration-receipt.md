@@ -142,6 +142,10 @@ policy change for the operator). The fix touches `crates/lex-db/src/build_tests.
 identity at the new main differs from P; the accepted DB still truthfully names builder C and needs no rebuild. Receipts:
 `.work/parser-reader-integration/lint/` (`hash-manifest.json` SHA-256 `d0835bbe...`).
 
+**CI result:** run `40135390902` (push of `e134da766`) passed every step on Linux with Rust 1.99.0 (format, Clippy, tests,
+`validate lritf`, `validate ifpe-dcg-2021`): the first green CI on main since at least 2026-10-18, and the first Linux run
+of the tests and validators for this code. `main` was pushed as a fast-forward (`d31e76b08..e134da766`); R7 was not pushed.
+
 **Review tier:** the ongoing independent Codex audit is bound to P/R. The Libro fix, the lint fix and the R7 promotion have
 had advisor review only.
 

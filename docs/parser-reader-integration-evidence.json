@@ -3,6 +3,7 @@
  "authority": "Operator instruction 2026-10-24: normal-merge the parser into main; sync updated main into the published reader branch at b9b8be012; keep R7's unpublished UI changes separate. Candidates P and R were built and verified first; both real branches were then fast-forwarded to those exact tested commits. Nothing was pushed, published or deployed.",
  "clippy_lint_fix": {
   "builder_identity": "the fix touches crates/lex-db/src/build_tests.rs, a pinned builder directory, so builder identity at the new main differs from P; the accepted DB still truthfully names builder C and needs no rebuild",
+  "ci_result": "CI run 40135390902 (push of e134da766, 2026-10-24): SUCCESS. Every step passed on Linux with Rust 1.99.0: format, Clippy, tests, validate lritf and validate ifpe-dcg-2021. This is the first green CI on main since at least run 39087400377 (2026-10-18), and the first Linux run of the tests and validators for this code.",
   "fix": "two test assertions became assert_eq!(x, Vec::<String>::new()): crates/lex-db/src/build_tests.rs and crates/lex-cli/src/main.rs (test code only). Commit ce4bde27c on main (cherry-picked with -x from 0661d5ef0 on the R7 branch).",
   "not_changed": "the pushed reader branch f11beebce still has both lints (a PR from it would go red; it gets the fix at its next main sync); rust-toolchain.toml still says stable, so the next stable bump can turn CI red again; pinning to 1.99.0 is a repo policy change left to the operator",
   "problem": "CI (rust-toolchain.toml channel = stable) installs Rust 1.99.0, whose clippy flags assert!(x.is_empty()) (clippy::assert_is_empty). Local toolchain was 1.95.0. CI was red at the baseline and stayed red after the push (run 40126862221).",
@@ -419,6 +420,7 @@
    "run": "40126862221 (CI on main, push of 0642bbea1)"
   },
   "deployment": "none; nothing was staged to a host, published or deployed",
+  "followup": "main was pushed again as a fast-forward (d31e76b08..e134da766) carrying the R7 records and the lint fix; this record is a docs-only commit after it.",
   "not_pushed": "feat/reader-tweaks-r7, refactor/parser-split, the integration/* branches; no tags; no force",
   "pre_push_checks": "R is exactly the union of both sides for the three files both sides touched (Cargo.lock, crates/lex-cli/Cargo.toml, crates/lex-cli/src/main.rs): the lines in R relative to b9b8 all come from the parser side and the lines relative to P all come from the reader side; secret-shaped scan of the added lines in both push ranges found only the Spanish word 'Secretar\u00eda' and a Node test path string (no credentials); no binary entries; origin/main was still 85c41f389 and the reader branch absent on the remote.",
   "pushed": [
