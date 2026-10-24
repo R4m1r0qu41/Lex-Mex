@@ -1,0 +1,413 @@
+{
+ "artifact": "parser-reader-integration-evidence",
+ "authority": "Operator instruction 2026-10-24: normal-merge the parser into main; sync updated main into the published reader branch at b9b8be012; keep R7's unpublished UI changes separate. Candidates P and R were built and verified first; both real branches were then fast-forwarded to those exact tested commits. Nothing was pushed, published or deployed.",
+ "conflict_resolution_R": {
+  "check": "cargo build --locked -p lex-cli at R exits 0 (a lockfile that disagrees with the manifests fails under --locked)",
+  "file": "Cargo.lock",
+  "hunk": "lex-cli dependencies: HEAD side (reader) added jsonschema, incoming side (parser) added lex-analysis",
+  "resolution": "kept both, in Cargo's alphabetical order: jsonschema, then lex-analysis (the other new crates and lex-cli/Cargo.toml and main.rs merged automatically)"
+ },
+ "date": "2026-10-24",
+ "identities": {
+  "B_main": "85c41f3898d86737766564fa8d3fd8f6d4ae74a3",
+  "P_parser_to_main": {
+   "branch": "integration/parser-main-2026-10-24",
+   "commit": "88310a8b310f53dff0125f59df323cdab7d7e42a",
+   "conflicts": "none; tree equals the parser tip's tree",
+   "parents": [
+    "85c41f3898d86737766564fa8d3fd8f6d4ae74a3",
+    "11a3a90952aa05beeb9db62be095c6b54da6bbad"
+   ]
+  },
+  "R7_deferred": "162128517576b043a389f753578c5cabb4540898 (feat/reader-tweaks-r7, unmoved, not merged anywhere)",
+  "R_reader_sync": {
+   "branch": "integration/published-reader-parser-2026-10-24",
+   "commit": "f11beebce06b90a2d590acab80078b09fbd254c4",
+   "conflicts": "one hunk, Cargo.lock only",
+   "parents": [
+    "b9b8be012c0a19b50e75acd922c38a19385faded",
+    "88310a8b310f53dff0125f59df323cdab7d7e42a"
+   ]
+  },
+  "docs_commit_D": "the commit that adds this file on integration/parser-main-2026-10-24 (child of P, docs only); see the handoff for its SHA",
+  "parser_tip": "11a3a90952aa05beeb9db62be095c6b54da6bbad (refactor/parser-split, unmoved)",
+  "published_reader_b9b8": "b9b8be012c0a19b50e75acd922c38a19385faded (feat/four-instrument-reader-design, unmoved)",
+  "tested_production_C": "1250889ce10b8ba910a5f5ca5f232fd5752e79df"
+ },
+ "limits": [
+  "106 of 500 instruments have no retained source (not full parse coverage; unchanged)",
+  "the API compile fixture proves paths, not signatures",
+  "the existing DB names builder C; a P-pinned DB is a separate release if wanted",
+  "P and R inherit the parser audit's known limits recorded in docs/parser-split-implementation-receipt.md",
+  "no independent review of P and R yet",
+  "the parser and reader merges were promoted before an independent review of P and R (the plan wanted Codex's review first; the operator's instruction came first)"
+ ],
+ "p_gates": {
+  "diffs_B_to_P": "corpus, schemas, adapters, fixtures and docs/decisions.md: empty; nothing changed outside crates, docs, prompts, Cargo.toml and Cargo.lock; production (crates, Cargo.toml, Cargo.lock) differs from C by nothing",
+  "native_in_disposable_clone_at_P": {
+   "cargo test --workspace": "exit 0; 425 passed, 0 failed, 0 ignored",
+   "clippy -D warnings": "exit 0",
+   "clone_clean_after": true,
+   "fmt": "exit 0",
+   "validate ifpe-dcg-2021": "valid; 59 articles, 4 transitories, 115 references, 0 issues",
+   "validate lritf": "valid; 145 articles, 11 transitories, 126 references, 0 issues"
+  },
+  "read_only_db_check": "the P binary ran db verify (exit 0) and db golden-queries (21 of 21, exit 0) on the existing accepted candidate DB (release 0ea9c945..., database SHA-256 483264b7..., unchanged afterwards); verify output equals the earlier C3-binary output (logical content digest 8cc3736018bf..., no stale inputs). No projection was rebuilt: that DB truthfully names builder C.",
+  "tooling_selftests_in_isolated_scratch_at_P": {
+   "g4_wrappers": "16/16 (log SHA-256 87c0c4a3b790662e...)",
+   "harness": "54/54 (log SHA-256 549fe2eed81682c0...)",
+   "live_artifact_guard": "the 54 hash-bound artifacts were hashed before and after: unchanged; 51 match the originals and the 3 regenerated native logs match their disclosed recovery hashes (the incident record is intact)",
+   "plan_fidelity": "15/15 real gate results, rc 0 (read-only)"
+  }
+ },
+ "plan": "docs/plans/parser-reader-integration.md",
+ "preservation": {
+  "collisions_for_promotion": "The only untracked collision is docs/plans/parser-responsibility-split.md in main, byte-identical to its first committed version (ff38d1882) and superseded by the progressed plan in P. PLANS.md and docs/plans/four-instrument-reader-design-release.md are tracked-modified in main and reader-four and are not changed by P or R, so they do not collide. reader-five has no collision.",
+  "inventory": {
+   "main": [
+    {
+     "collides_with_candidate": {
+      "P": true
+     },
+     "path": "PLANS.md",
+     "sha256": "37b6524618a75b77feaed342a3969cf32fbd12f105a060a918a497d756804f9a",
+     "status": "M"
+    },
+    {
+     "collides_with_candidate": {
+      "P": false
+     },
+     "path": "docs/claude-reader-handoff-heartbeat.md",
+     "sha256": "aeb469933fca0cd9ad31187a028f0d1d918445efdfd9b60130c832ade354f969",
+     "status": "??"
+    },
+    {
+     "collides_with_candidate": {
+      "P": false
+     },
+     "path": "docs/db-reader-lic-consolidated-review-2026-10-22.md",
+     "sha256": "d2fd89ada2aeb9558a12711c024e75cddf7fb403477970ba4651b660cb822546",
+     "status": "??"
+    },
+    {
+     "collides_with_candidate": {
+      "P": false
+     },
+     "path": "docs/four-instrument-reader-codex-review-2026-10-22-evidence.json",
+     "sha256": "b1aac23504d58bf2a127d9815ebd0b07123887c70349a212fdfadfec83e67594",
+     "status": "??"
+    },
+    {
+     "collides_with_candidate": {
+      "P": false
+     },
+     "path": "docs/four-instrument-reader-codex-review-2026-10-22.md",
+     "sha256": "962235ce002634235f6ed087d376a32acc978c75b84ca31581c7672de8b39542",
+     "status": "??"
+    },
+    {
+     "collides_with_candidate": {
+      "P": false
+     },
+     "path": "docs/four-instrument-reader-continuation-review-2026-10-22-evidence.json",
+     "sha256": "353bbb6b825be723e5dfd9a3714951321a1a5f4c755ae9989d30d38832cb927c",
+     "status": "??"
+    },
+    {
+     "collides_with_candidate": {
+      "P": false
+     },
+     "path": "docs/four-instrument-reader-continuation-review-2026-10-22.md",
+     "sha256": "824eeeda8804871ed1eec1cd85d74c2f9f40e0cb9890ff7bd1659114d2d8853f",
+     "status": "??"
+    },
+    {
+     "collides_with_candidate": {
+      "P": false
+     },
+     "path": "docs/four-instrument-reader-r0-r4-codex-review-2026-10-22-evidence.json",
+     "sha256": "2c232e6f945f6af468b0f3cd37ae5d4fc51b923c1c78b17cd10c584d1a1868b0",
+     "status": "??"
+    },
+    {
+     "collides_with_candidate": {
+      "P": false
+     },
+     "path": "docs/four-instrument-reader-r0-r4-codex-review-2026-10-22.md",
+     "sha256": "8bfae890cbdbc11c64cfb2e0906ebe50b040384284591c4d7d351484d99cf9a0",
+     "status": "??"
+    },
+    {
+     "collides_with_candidate": {
+      "P": false
+     },
+     "path": "docs/grok-db-suggestions.md",
+     "sha256": "3ceab7b1cb11280fd8ff62cc25146d0f89eb1b73eea2d1d8d685307eb5e732d8",
+     "status": "??"
+    },
+    {
+     "collides_with_candidate": {
+      "P": false
+     },
+     "path": "docs/grok_gemini_db_suggestions.md",
+     "sha256": "6b0cf9887d3875871388a8b3fa68ccf5ee94728c958d68d56602fb2983845e8f",
+     "status": "??"
+    },
+    {
+     "collides_with_candidate": {
+      "P": false
+     },
+     "path": "docs/lic-publication-source-audit-2026-10-22-evidence.json",
+     "sha256": "01d10668b50d17e2bb409c48dc443487e93aa91b77cfd6d8d1a524e70ca067dc",
+     "status": "??"
+    },
+    {
+     "collides_with_candidate": {
+      "P": false
+     },
+     "path": "docs/parser-a002-completeness-final-review-2026-10-24-evidence.json",
+     "sha256": "d006fd23a639d7b69542ca403e25e13c4ba9b1acae4431c11d32b0758539c5b3",
+     "status": "??"
+    },
+    {
+     "collides_with_candidate": {
+      "P": false
+     },
+     "path": "docs/parser-a002-completeness-final-review-2026-10-24.md",
+     "sha256": "84ca027e76b44561a0bad7107bf89101731473cea3988123f1f58f923d0a96bd",
+     "status": "??"
+    },
+    {
+     "collides_with_candidate": {
+      "P": false
+     },
+     "path": "docs/parser-split-ab-codex-review-2026-10-24-evidence.json",
+     "sha256": "c95624069412421e3c922a79921857c88d219f5e4bbbbfb70cf2971b0209c051",
+     "status": "??"
+    },
+    {
+     "collides_with_candidate": {
+      "P": false
+     },
+     "path": "docs/parser-split-ab-codex-review-2026-10-24.md",
+     "sha256": "6adfc14016a91721c29a767badabc6203f17c0639f2ba9d0fefb82e855361976",
+     "status": "??"
+    },
+    {
+     "collides_with_candidate": {
+      "P": false
+     },
+     "path": "docs/parser-split-independent-audit-2026-10-24-evidence.json",
+     "sha256": "ad66bb32d34dee2744ff73da15393d138bc276c76e45e9d38f4dbbab7282935f",
+     "status": "??"
+    },
+    {
+     "collides_with_candidate": {
+      "P": false
+     },
+     "path": "docs/parser-split-independent-audit-2026-10-24.md",
+     "sha256": "2878908b7b246a15023abfbbeaf03832410f3445baf054aac9bde1be256361a3",
+     "status": "??"
+    },
+    {
+     "collides_with_candidate": {
+      "P": false
+     },
+     "path": "docs/parser-split-tooling-followup-review-2026-10-24-evidence.json",
+     "sha256": "72b07d3b7280c1e922a5d956fd96140e357b134dca01e085f9eb18c39ee6eaf5",
+     "status": "??"
+    },
+    {
+     "collides_with_candidate": {
+      "P": false
+     },
+     "path": "docs/parser-split-tooling-followup-review-2026-10-24.md",
+     "sha256": "c0e8c1e3ccf7e9bada771da12bca25c6d6bce9be631ab93769f62bd8e2db8917",
+     "status": "??"
+    },
+    {
+     "collides_with_candidate": {
+      "P": false
+     },
+     "path": "docs/plans/four-instrument-reader-design-release.md",
+     "sha256": "f0b27d845696f8103990dc878b02a8db90529d190c378f04ae4f442bd7706c38",
+     "status": "??"
+    },
+    {
+     "collides_with_candidate": {
+      "P": false
+     },
+     "path": "docs/plans/parser-reader-integration.md",
+     "sha256": "f257f01e9a62414cbe7a582f39c41c29c5bfc0f26cf9c0fa0e29368b356ed151",
+     "status": "??"
+    },
+    {
+     "collides_with_candidate": {
+      "P": true
+     },
+     "path": "docs/plans/parser-responsibility-split.md",
+     "sha256": "c5cbcc47364d838f7672357c840448a434f78bae98ef1e72ffed340c726b0aea",
+     "status": "??"
+    },
+    {
+     "collides_with_candidate": {
+      "P": false
+     },
+     "path": "docs/reader-publish-handoff-review-2026-10-22.md",
+     "sha256": "dfa76bab93226553cd9933072ce97b9fc83524c1ded564ab1b8015cb929e7981",
+     "status": "??"
+    },
+    {
+     "collides_with_candidate": {
+      "P": false
+     },
+     "path": "prompts/adr-citation-grammar-and-tickets.md",
+     "sha256": "d6012009c801178c4b3f49f830c874f024f1c0f46ef8bca207d3030604d1b592",
+     "status": "??"
+    }
+   ],
+   "reader-five": [
+    {
+     "collides_with_candidate": {
+      "R": false
+     },
+     "path": "docs/four-instrument-reader-r7-codex-review-2026-10-23-evidence.json",
+     "sha256": "eeb5a27d5cba2adfd657c0e14c383f1faec986f835a386cdc68b1f87b5e058bd",
+     "status": "??"
+    },
+    {
+     "collides_with_candidate": {
+      "R": false
+     },
+     "path": "docs/four-instrument-reader-r7-codex-review-2026-10-23.md",
+     "sha256": "ac6611474ceafe5782b156896f61ab6fd156c3c4f2f6bc7f3f8b49bf660e4e8f",
+     "status": "??"
+    }
+   ],
+   "reader-four": [
+    {
+     "collides_with_candidate": {
+      "R": true
+     },
+     "path": "docs/plans/four-instrument-reader-design-release.md",
+     "sha256": "889ae01d0471b1d0de2acdeac6e97b58e1ccd6bbc45b7dd7321847e31d9f53da",
+     "status": "M"
+    },
+    {
+     "collides_with_candidate": {
+      "R": false
+     },
+     "path": "docs/four-instrument-reader-r5-codex-review-2026-10-22-evidence.json",
+     "sha256": "2790e7a7f26ce23cc7f848b1a2b5b697cb553983e95e1d327621e10585b87f24",
+     "status": "??"
+    },
+    {
+     "collides_with_candidate": {
+      "R": false
+     },
+     "path": "docs/four-instrument-reader-r5-codex-review-2026-10-22.md",
+     "sha256": "e4d8a2b8c6d8c46145536c89b40e41f536d85da6ed285ce542be515b754f3ac6",
+     "status": "??"
+    },
+    {
+     "collides_with_candidate": {
+      "R": false
+     },
+     "path": "docs/four-instrument-reader-r6-code-review-findings-2026-10-22.md",
+     "sha256": "7b3aadbd7ef8276fb6755fba54c831c7c4e1384c0eb1c1152d240a47b9f6205c",
+     "status": "??"
+    },
+    {
+     "collides_with_candidate": {
+      "R": false
+     },
+     "path": "docs/four-instrument-reader-r6-codex-review-2026-10-22-evidence.json",
+     "sha256": "51b4d6fdd689e2232bc5dbcb0530fc93382fa34e77e9cc863011ebbc4af864bb",
+     "status": "??"
+    },
+    {
+     "collides_with_candidate": {
+      "R": false
+     },
+     "path": "docs/four-instrument-reader-r6-codex-review-2026-10-22.md",
+     "sha256": "a0d05fc247e4e2b02fb4c259ae897df93d78e361603bdef36fe28ce07e1f10e4",
+     "status": "??"
+    },
+    {
+     "collides_with_candidate": {
+      "R": false
+     },
+     "path": "docs/four-instrument-reader-r6-findings-codex-ruling-2026-10-22-evidence.json",
+     "sha256": "1760c3619d75ba4b8f35c69e1aac3f8284f4df207d3f956c4ab2d84c2bab98d9",
+     "status": "??"
+    },
+    {
+     "collides_with_candidate": {
+      "R": false
+     },
+     "path": "docs/four-instrument-reader-r6-findings-codex-ruling-2026-10-22.md",
+     "sha256": "16d5e5e99ee3d934afe6e9c065798a406e28d303901911394ce4e04f52a2570e",
+     "status": "??"
+    },
+    {
+     "collides_with_candidate": {
+      "R": false
+     },
+     "path": "docs/reader-r5-account-switch-2026-10-22.md",
+     "sha256": "d1db193d62d7862cdeffb5cab4559c4f63036442b506b343bc20ca38f57e3c1e",
+     "status": "??"
+    }
+   ]
+  },
+  "unrelated_state": "main: 25 dirty entries hashed above, untouched; reader-four: 9, untouched; reader-five: 2, untouched; the parser worktree is now on integration/parser-main-2026-10-24 (refactor/parser-split still at 11a3a9095); no stash, reset, clean, bulk stage or deletion"
+ },
+ "promotion": {
+  "after": "re-hashed after promotion: main 24 entries (the moved plan excluded), reader-four 9, reader-five 2: all byte-identical to the pre-promotion inventory; PLANS.md's local modification survives",
+  "docs_commit": "the receipt and this file are committed on main as one docs-only commit after P; the reader branch lacks that commit (it sits at R)",
+  "forbidden_and_not_used": "no --no-ff in the promotion, no reset, no force, no push, no stash, no clean, no deletion",
+  "main": "git merge --ff-only 88310a8b3 (P): main was 85c41f389, now 88310a8b310f53dff0125f59df323cdab7d7e42a; the tree equals P's tree",
+  "moved_aside": {
+   "backup_dir": ".work/integration-backups/parser-main-20261024T192127Z/ (ignored, in the main worktree)",
+   "manifest": ".work/integration-backups/parser-main-20261024T192127Z/manifest.json",
+   "manifest_sha256": "3c9776df3fefc9c5bd7cb2bc3306535de7edd4ccc2af25fed1a1a1c1f853f9a4",
+   "method": "mv after copying nothing: the file was moved, its hash was verified equal before and after; no deletion",
+   "path": "docs/plans/parser-responsibility-split.md",
+   "sha256_before_and_in_backup": "c5cbcc47364d838f7672357c840448a434f78bae98ef1e72ffed340c726b0aea",
+   "why": "untracked planning copy, byte-identical to its first committed version ff38d1882, collided with the tracked progressed plan"
+  },
+  "reader": "git merge --ff-only f11beebce (R) in the reader-four worktree: feat/four-instrument-reader-design was b9b8be012, now f11beebce06b90a2d590acab80078b09fbd254c4; the tree equals R's tree. R's second parent is P, so main is synced into the reader at P",
+  "rechecks_before": "tips of main, refactor/parser-split, the reader branch and R7 as expected; main is an ancestor of P and the reader branch an ancestor of R; every dirty entry in main (25), reader-four (9) and reader-five (2) byte-identical to the preservation inventory; tracked-modified PLANS.md and the reader design-release plan unchanged by P and R; .work ignored in main",
+  "unchanged": "refactor/parser-split 11a3a9095; feat/reader-tweaks-r7 162128517; origin/main 85c41f389 (no push)",
+  "when": "2026-10-24 (after the verification above)"
+ },
+ "promotion_procedure_not_run": [
+  "recheck tips (main, reader branch), writer ownership and untracked collisions",
+  "main: back up the one colliding untracked file to .work/integration-backups/<unique>/ with a path and SHA-256 manifest and verify the bytes, move only that path aside, then git merge --ff-only to the reviewed candidate (P, or D if the docs commit is wanted)",
+  "reader-four: git merge --ff-only R in that worktree after rechecking its 9 dirty entries for collisions (none today)",
+  "R7 stays a separate branch; a later R7 release needs its own sync of main",
+  "remote push and deployment need separate explicit authorization"
+ ],
+ "r7": "remains unmerged and unpublished by this task; no R7 file is in main or the reader branch; R7 now lacks the parser split, so a future R7 release needs main merged into it first",
+ "r_gates": {
+  "exporter_package_parity": {
+   "against_accepted_local_publication": "compared with reader-four .work/f1-preferred-a (publication 2df70a8a..., release 9626bfe4..., corpus_commit 85c41f389): the release manifest differs only in release_id, corpus_commit and committed_at; all 1782 listed files have an identical path, hash and size and identical actual bytes; the five UI assets (index.html, reader.js, reader.css, reader-core.mjs, lex-mex.svg) are byte-identical; after normalising the release-id directory name, only latest.json, llms.txt, publication.json and releases/<id>/manifest.json differ, all of which embed the release id or commit",
+   "binaries": "b9b8-only and R binaries, each built --locked from its exact commit in its own clone and target directory",
+   "builds": "public-release build for lritf, ifpe-dcg-2021, itf-dcg-2018 and lic from one fixed root (the R clone) with the retained PDF store, twice per binary into fresh outputs; reader/package.mjs over each",
+   "result": "all four release trees (1785 files) and all four package trees (1791 files) are byte-identical, compared by path and SHA-256",
+   "scope": "local publication directories only; the live site was not queried; no browser or mutation campaign (UI and content bytes are identical); no host staging, publication or deployment"
+  },
+  "native_in_disposable_clone_at_R": {
+   "cargo build --locked -p lex-cli": "exit 0",
+   "cargo test --workspace": "exit 0; 430 passed, 0 failed, 0 ignored (425 plus the 5 public-release exporter tests the reader branch adds)",
+   "clippy -D warnings": "exit 0",
+   "clone_clean_after": true,
+   "fmt": "exit 0",
+   "validate ifpe-dcg-2021": "valid; 59/4/115/0",
+   "validate lritf": "valid; 145/11/126/0"
+  },
+  "node_tests": "node --test reader/ at R: 22 tests, 22 pass, 0 fail (the b9b8 inventory; R7's 24 were not imported)",
+  "reader_source": "git diff b9b8be012..R over reader/ is empty (UI source byte-identical to the published b9b8 source); parser, db, grammar, analysis and link crate sources equal P"
+ },
+ "status": "PROMOTED_LOCALLY_NOT_PUSHED",
+ "tips_unmoved": "main 85c41f389; refactor/parser-split 11a3a9095; feat/four-instrument-reader-design b9b8be012; feat/reader-tweaks-r7 162128517 (checked after the merges; origin/main equals main)"
+}
