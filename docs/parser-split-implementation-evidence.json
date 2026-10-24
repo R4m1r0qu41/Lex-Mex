@@ -113,8 +113,9 @@
     "driver: unique per-attempt output files opened without truncation, attempt number kept in queue-state.json, labels carrying the attempt",
     "self-test cases: a restart with the same label is handled without losing the interrupted attempt's evidence"
    ],
+   "repair_result": "harness --archive-interrupted (rename aside, record in attempts-<label>.json, refuse a label with a finished result); driver: per-attempt output names, stop marker not overwritten, attempts counted in queue-state.json, resumed runs pass the flag; 11 new self-test checks",
    "reported_by": "Codex review",
-   "status": "RECORDED; repair only after the current queue finishes"
+   "status": "REPAIRED in e09aec70d after the queue finished; the repaired harness was not used for gate evidence"
   }
  ],
  "dependency_graph_g3": {
@@ -245,10 +246,14 @@
     "missing row key from both results fails",
     "live edit mid-run does not change what executes, is recorded, and still compares exactly",
     "a later run from the edited copy is not committed, has a different revision, and fails strict comparison",
-    "changing the executing snapshot mid-run fails the run with exit 3"
+    "changing the executing snapshot mid-run fails the run with exit 3",
+    "restart-refused: existing logs without --archive-interrupted are refused and left byte-identical",
+    "restart-archive: with the flag the interrupted logs are kept intact under a renamed directory, the attempt is recorded, and the label runs and compares exactly with the control",
+    "restart-finished: a label with a finished result is refused even with the flag",
+    "driver-outputs: the queue driver never reuses an existing output name"
    ],
    "first_run": "failed 3 cases because the test launched out-of-repo harness copies without PARSER_SPLIT_REPO; fixed in the test (73f42a983), not in the harness",
-   "result": "17/17 checks passed (log .work/parser-split/logs/selftest-2.log)",
+   "result": "28/28 checks passed on the repaired harness e09aec70d (log .work/parser-split/logs/selftest-3.log); the earlier 17/17 (selftest-2.log) was on the revision that produced the gate evidence",
    "script": "prompts/parser-split-ab-selftest.py"
   },
   "api_fixture": {
@@ -272,10 +277,16 @@
    "every compare file records the comparator's own harness hash"
   ],
   "path": "prompts/parser-split-ab.py",
+  "repaired_revision": {
+   "commit": "e09aec70d",
+   "git_blob": "24c9534bd65d761b96501899a48bd27b06456c55",
+   "purpose": "R-001 only (--archive-interrupted); no change to what a run records or compares"
+  },
   "revision_for_all_valid_runs": {
    "commit": "d05d98d3b (self-test fix 73f42a983 changes only the self-test)",
    "executes_from": ".work/parser-split/harness-snapshots/<sha256>.py (read-only, re-exec'd with PARSER_SPLIT_REPO)",
    "git_blob": "9c329e0c4f973b8dcceb6c800cec69ea9a3fde4a",
+   "note": "Every gate run (B3, B4, C3, C2, C1; retained, sweep, supplement) used this revision. The R-001 repair (e09aec70d) changed the harness to blob 24c9534bd65d761b96501899a48bd27b06456c55; the repaired harness produced no gate evidence.",
    "sha256": "fa321e4659694f9d6daa78820842d3a6e36f9bf8e5a60369c391d5eca014044e"
   },
   "sha256_at_f1da6f1e7": "a9a034912b37f0ee99269894fc7df74e30c35bf71370a0d1a3b7ecaf2ed91bd5",
@@ -379,10 +390,8 @@
   "timing_note": "fmt 0-1 s, clippy 3-17 s, tests 26-43 s wall per run, from the raw logs under .work/parser-split/logs/ and cargo 'Finished ... in' lines; the first G1/G2 mech runs did not time every command.",
   "validation_source_note": "Validation figures are taken from the raw logs and the written validation.json files. Two mech hand-back summaries (G1 and G3) swapped the lritf and ifpe-dcg-2021 labels; the raw logs and files were checked and agree across every tree."
  },
- "next_action": "G5: bounded Opus read-only final pass (rule inventory, graph boundaries, review preservation, comparator blind spots, builder pinning), fix in-scope findings, then a commit-bound pending/codex handoff. R-001 repair is a separate later commit.",
- "open_items": [
-  "R-001 repair after this queue (task recorded; harness and driver untouched)"
- ],
+ "next_action": "G5: bounded Opus read-only final pass, fix in-scope findings, then a commit-bound pending/codex handoff.",
+ "open_items": [],
  "plan": "docs/plans/parser-responsibility-split.md",
  "rebuild_trigger_manual_check": {
   "commands": "cargo build -p lex-db -v | grep -c build-script-build (no change: 0); echo '// probe' > crates/lex-link/src/zz_probe.rs; cargo build -p lex-db -v | grep -c build-script-build (new file: 1); rm the file; rebuild (removal: 1)",

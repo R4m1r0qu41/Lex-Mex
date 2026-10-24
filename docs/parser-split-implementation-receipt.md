@@ -220,20 +220,20 @@ inspect. The commands are committed as `prompts/parser-split-g4-candidate.sh`,
 Not run here, as the plan says: the reader UI integration check (exporter build
 and package verification) belongs to the integration commit.
 
-## Known tooling defects awaiting repair (R-001)
+## Tooling defect R-001 (repaired after the queue)
 
-Codex found that an interrupted run cannot restart under the same label: the
-harness refuses when `logs-<label>` already exists. The driver also opens each
-step's output and comparison files in write mode, so a same-label resume would
-truncate the interrupted attempt's stdout record. Nothing is changed while the
-queue runs: the harness and driver stay as committed, no log is deleted, and the
-queue is not restarted. If it stops unexpectedly, the partial artifacts stay in
-place, the failed step is run by hand with the same committed harness under a
-fresh attempt label (for example `<label>-a2`), comparisons use explicit labels
-strictly, both attempts are recorded, and an interrupted attempt is never gate
-evidence. The repair (an explicit attempt mode, non-truncating per-attempt
-output, matching self-test cases) happens after the queue finishes; because it
-changes the harness revision it will not be mixed with this queue's evidence.
+Codex found that an interrupted run could not restart under the same label: the
+harness refused because `logs-<label>` existed, and the driver opened each step's
+output in write mode, so a same-label resume would also have truncated the
+interrupted attempt's record. Nothing was changed while the queue ran. After it
+finished the repair landed in `e09aec70d`: `--archive-interrupted` renames the
+interrupted logs aside (never deleting them, and refusing a label that has a
+finished result) and records the move in `attempts-<label>.json`; the driver gives
+every attempt its own output file, keeps the stop marker, and counts attempts in
+`queue-state.json`. The self-test gained four case groups and passes 28 of 28 on
+the repaired harness. The repair changed the harness revision, so **every gate
+run above used harness `fa321e46…` (blob `9c329e0c`), and the repaired harness
+(blob `24c9534b`) produced no gate evidence.**
 
 ## Found defects
 
@@ -261,6 +261,5 @@ Two `mech` hand-back summaries swapped the `lritf` and `ifpe-dcg-2021` labels
 
 ## Next action
 
-Advisor review of G0 coverage and the A/B result, then commit this record. Next
-are G4 (DB builds and parity) and G5. The R-001 repair is separate and changes the
-harness revision.
+G5: bounded Opus read-only final pass, fixes for in-scope findings, then the
+commit-bound Codex handoff.
