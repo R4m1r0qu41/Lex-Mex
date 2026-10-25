@@ -11,13 +11,13 @@ temporal_status: effective
 review_status: machine_accepted
 amendment_marks: [46]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título QUINTO · Capítulo X
 
 # Artículo 316
 
-Las Instituciones deberán solicitar a sus Usuarios que confirmen la celebración de una Operación Monetaria, previo a que se ejecute, haciendo explícita la información suficiente para darle certeza al Usuario de la operación que se realiza.
+Las Instituciones deberán solicitar a sus [Usuarios](articulo-1.md) que confirmen la celebración de una [Operación Monetaria](articulo-1.md), previo a que se ejecute, haciendo explícita la información suficiente para darle certeza al Usuario de la operación que se realiza.
 
-Se exceptúa de lo anterior a los servicios de Banca Electrónica ofrecidos a través de Terminales Punto de Venta.
+Se exceptúa de lo anterior a los servicios de [Banca Electrónica](articulo-1.md) ofrecidos a través de Terminales Punto de Venta.

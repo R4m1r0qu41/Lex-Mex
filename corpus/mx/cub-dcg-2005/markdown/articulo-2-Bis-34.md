@@ -11,14 +11,14 @@ temporal_status: effective
 review_status: machine_accepted
 amendment_marks: [50]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título PRIMERO · Capítulo III
 
 # Artículo 2 Bis 34
 
-Las Instituciones cuyas Operaciones cuenten con garantías reales admisibles y apliquen el método simple a éstas, conforme a lo señalado en el presente apartado, podrán sustituir el porcentaje de ponderación por riesgo de crédito del deudor de la operación de que se trate, por el porcentaje de ponderación que corresponda a las garantías reales relativas a dicha operación. Tratándose del importe expuesto de la Operación (la parte no cubierta por las garantías), se le deberá asignar el porcentaje de ponderación por riesgo de crédito que corresponda al deudor de esa operación.
+Las Instituciones cuyas [Operaciones](articulo-1.md) cuenten con garantías reales admisibles y apliquen el método simple a éstas, conforme a lo señalado en el presente apartado, podrán sustituir el porcentaje de ponderación por riesgo de crédito del deudor de la operación de que se trate, por el porcentaje de ponderación que corresponda a las garantías reales relativas a dicha operación. Tratándose del importe expuesto de la Operación (la parte no cubierta por las garantías), se le deberá asignar el porcentaje de ponderación por riesgo de crédito que corresponda al deudor de esa operación.
 
 Para ser reconocidos con fines de cobertura de riesgo de crédito, los instrumentos que actúen como garantías reales de una exposición determinada deberán como mínimo cumplir con lo siguiente:
 

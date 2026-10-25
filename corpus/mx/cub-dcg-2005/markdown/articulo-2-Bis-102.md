@@ -9,32 +9,30 @@ aliases: ["DCG-CUB-2005 — Artículo 2 Bis 102"]
 generated: true
 temporal_status: effective
 review_status: machine_accepted
-amendment_marks: [50]
+amendment_marks: [50,104,105,161]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título PRIMERO · Capítulo IV
 
 # Artículo 2 Bis 102
 
-En las Operaciones en moneda nacional con tasa de interés nominal o rendimiento referido a ésta, las Instituciones deberán ajustarse a lo siguiente:
+En las [Operaciones](articulo-1.md) en moneda nacional con tasa de interés nominal o rendimiento referido a ésta, las Instituciones deberán ajustarse a lo siguiente:
 
 I. Por lo que se refiere a los plazos, éste se determinará por cada operación, conforme a:
 
 a) Tratándose de Operaciones a tasa fija, se considerará el número de días naturales que haya entre el último día del mes que se esté computando y la fecha de vencimiento del título o contrato o, en su caso, la del Instrumento Subyacente.
 
-Para el caso de títulos de deuda con cupones a tasa fija, créditos hipotecarios para vivienda (104)
+Para el caso de títulos de deuda con cupones a tasa fija, créditos hipotecarios para vivienda a tasa fija, e instrumentos derivados que generen posiciones equivalentes a títulos de tasa fija, el plazo del instrumento podrá ser sustituido por la "Duración", la que se calculará conforme los lineamientos previstos en el Anexo 1-N de las presentes disposiciones. Asimismo, dicha sustitución podrá realizarse respecto de créditos al consumo que cumplan con todas las características siguientes:
 
-a tasa fija, e instrumentos derivados que generen posiciones equivalentes a títulos de tasa fija, el plazo del instrumento podrá ser sustituido por la "Duración", la que se calculará conforme los lineamientos previstos en el Anexo 1-N de las presentes disposiciones. Asimismo, dicha sustitución podrá realizarse respecto de créditos al consumo que cumplan con todas las características siguientes:
+1. Ser créditos personales o para la adquisición de bienes de consumo duradero, conocidos como ABCD (incluyendo el crédito automotriz).
 
-(104) 1. Ser créditos personales o para la adquisición de bienes de consumo duradero, conocidos como ABCD (incluyendo el crédito automotriz).
+2. Ser no revolventes.
 
-(104) 2. Ser no revolventes.
+3. Contar con un esquema de pagos fijos durante la vida del crédito y que dicho esquema no se modifique respecto de las condiciones originales.
 
-(104) 3. Contar con un esquema de pagos fijos durante la vida del crédito y que dicho esquema no se modifique respecto de las condiciones originales.
-
-(105) En ningún caso el plazo de los créditos conocidos como de nómina podrá ser sustituido por la “Duración”.
+En ningún caso el plazo de los créditos conocidos como de nómina podrá ser sustituido por la “Duración”.
 
 Para los instrumentos que tengan la opción de la sustitución mencionada, la Institución deberá aplicar el criterio elegido de forma consistente, por lo menos durante doce meses consecutivos a partir de aquél en el que se ejerza la opción de la sustitución mencionada.
 
@@ -64,7 +62,7 @@ c) Se entenderá que las posiciones activas y pasivas descritas en los numerales
 
 d) Cada operación o la parte no compensada conforme a lo establecido en el inciso a) anterior, se asignará, dependiendo del plazo que se determine conforme a la fracción I del presente artículo, a alguna de las bandas que se indican en el cuadro siguiente:
 
-(161) Tasa de interés nominal en moneda nacional
+Tasa de interés nominal en moneda nacional
 
 Coeficiente de Cargo por Riesgo de Zona Bandas Plazo por vencer Mercado (Porcentaje) 1 1 De 1 a 7 días 0.02% 2 De 8 a 31 días 0.10% 3 De 32 a 92 días 0.31% 4 De 93 a 184 días 0.64% 2 5 De 185 a 366 días 1.25% 6 De 367 a 731 días 2.43% 7 De 732 a 1,096 días 4.02% 3 8 De 1,097 a 1,461 días 5.61% 9 De 1,462 a 1,827 días 7.03% 10 De 1,828 a 2,557 días 9.25% 11 De 2,558 a 3,653 días 13.92% 12 De 3,654 a 5,479 días 19.86% 13 De 5,480 a 7,305 días 22.90% 14 Más de 7,306 días 26.10%
 
@@ -90,8 +88,8 @@ Al monto compensado, en valor absoluto, de las "posiciones ponderadas netas de l
 
 Al monto compensado, en valor absoluto, de las "posiciones ponderadas netas de las bandas", entre zonas, en los términos del numeral 1 anterior, se le aplicará el 40 por ciento si se trata de compensación entre zonas contiguas y el 100 por ciento si se trata de compensación entre zonas separadas. La suma de los resultados así obtenidos será el requerimiento de capital por compensación entre zonas.
 
-g) Las Operaciones con títulos de deuda inscritos en el Registro Nacional de Valores, que se encuentren denominados en moneda nacional y cuya tasa de rendimiento se componga de una sobretasa y una tasa revisable, esta última referida a alguna tasa de interés nominal en moneda nacional, tendrán adicionalmente un requerimiento de capital por riesgo de mercado por sobretasa. Para estos efectos, se exceptúan aquellos títulos de deuda inscritos en el Registro Nacional de Valores emitidos por la propia Institución. Para calcular el capital requerido por este tipo de Operaciones se aplicará el mismo procedimiento indicado en el presente artículo, utilizando al efecto el cuadro siguiente, considerando que el plazo de dichos títulos es igual al número de días naturales que haya entre el último día del mes que se esté computando y la fecha de vencimiento de tales títulos.
+g) Las Operaciones con títulos de deuda inscritos en el [Registro](articulo-1.md) Nacional de Valores, que se encuentren denominados en moneda nacional y cuya tasa de rendimiento se componga de una sobretasa y una tasa revisable, esta última referida a alguna tasa de interés nominal en moneda nacional, tendrán adicionalmente un requerimiento de capital por riesgo de mercado por sobretasa. Para estos efectos, se exceptúan aquellos títulos de deuda inscritos en el Registro Nacional de Valores emitidos por la propia Institución. Para calcular el capital requerido por este tipo de Operaciones se aplicará el mismo procedimiento indicado en el presente artículo, utilizando al efecto el cuadro siguiente, considerando que el plazo de dichos títulos es igual al número de días naturales que haya entre el último día del mes que se esté computando y la fecha de vencimiento de tales títulos.
 
-(161) Tasa de interés nominal en moneda nacional (Sobretasa)
+Tasa de interés nominal en moneda nacional (Sobretasa)
 
 Zona Bandas Plazo por vencer Coeficiente de Cargo por Riesgo de Mercado (Porcentaje) 1 1 De 1 a 7 días 0.00% 2 De 8 a 31 días 0.01% 3 De 32 a 92 días 0.02% 4 De 93 a 184 días 0.03% 2 5 De 185 a 366 días 0.05% 6 De 367 a 731 días 0.08% 7 De 732 a 1,096 días 0.23% 3 8 De 1,097 a 1,461 días 0.39% 9 De 1,462 a 1,827 días 0.50% 10 De 1,828 a 2,557 días 0.66% 11 De 2,558 a 3,653 días 0.75% 12 De 3,654 a 5,479 días 0.90% 13 De 5,480 a 7,305 días 1.09% 14 Más de 7,306 días 1.20%

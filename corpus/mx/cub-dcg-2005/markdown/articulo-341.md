@@ -9,9 +9,9 @@ aliases: ["DCG-CUB-2005 — Artículo 341"]
 generated: true
 temporal_status: effective
 review_status: machine_accepted
-amendment_marks: [43]
+amendment_marks: [43,150]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título QUINTO · Capítulo XIII
@@ -20,7 +20,7 @@ source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
 
 Las Sucursales Tipo B deberán contar con las medidas concretas de seguridad y protección siguientes:
 
-(150) I. Sistema de grabación local de imágenes, las cuales deberán conservarse durante un plazo de dos meses, que incluya cámaras al menos en el Patio de la Sucursal y en el área específica en la que se realizan las operaciones con el Público Usuario, así como, en su caso, en el acceso principal a la Sucursal, y que contemple además, el envío de dichas imágenes a la Central de Alarmas.
+I. Sistema de grabación local de imágenes, las cuales deberán conservarse durante un plazo de dos meses, que incluya cámaras al menos en el [Patio de la Sucursal](articulo-1.md) y en el área específica en la que se realizan las operaciones con el [Público Usuario](articulo-1.md), así como, en su caso, en el acceso principal a la Sucursal, y que contemple además, el envío de dichas imágenes a la [Central de Alarmas](articulo-1.md).
 
 II. Sistema de alarma local respecto de intrusión, incendio, asalto, o ataque al dispositivo blindado y área de resguardo de efectivo y valores, según sea el caso, y que contemple además, el envío de las señales correspondientes a la Central de Alarmas. Este sistema deberá contar con respaldo de energía eléctrica.
 

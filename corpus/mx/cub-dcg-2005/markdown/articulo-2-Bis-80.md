@@ -9,22 +9,18 @@ aliases: ["DCG-CUB-2005 — Artículo 2 Bis 80"]
 generated: true
 temporal_status: effective
 review_status: machine_accepted
-amendment_marks: [50]
+amendment_marks: [50,274]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título PRIMERO · Capítulo III
 
 # Artículo 2 Bis 80
 
-Las Instituciones que adopten un Modelo basado en calificaciones internas con (274)
+Las Instituciones que adopten un [Modelo basado en calificaciones internas](articulo-1.md) con enfoque básico, deberán utilizar un Plazo Efectivo o de Vencimiento de 2.5 años para sus operaciones clasificadas en los grupos a que se refieren las fracciones I, II y III del Artículo [2 Bis 69](articulo-2-Bis-69.md) de las presentes disposiciones, con excepción de las operaciones de reporto y préstamo de valores, para las cuales deberán emplear un Plazo Efectivo o de Vencimiento de 6 meses.
 
-enfoque básico, deberán utilizar un Plazo Efectivo o de Vencimiento de 2.5 años para sus operaciones clasificadas en los grupos a que se refieren las fracciones I, II y III del Artículo [2 Bis 69](articulo-2-Bis-69.md) de las presentes disposiciones, con excepción de las operaciones de reporto y préstamo de valores, para las cuales deberán emplear un Plazo Efectivo o de Vencimiento de 6 meses.
-
-En todo caso, las Instituciones que adopten un Modelo basado en calificaciones internas con enfoque (274)
-
-avanzado, para la determinación de sus Operaciones Sujetas a Riesgo de Crédito con las personas a las que se refiere la fracción I del Artículo [2 Bis 69](articulo-2-Bis-69.md) de las presentes disposiciones, deberán medir el Plazo Efectivo o de Vencimiento para cada posición conforme a lo previsto por el presente artículo, de acuerdo con lo siguiente:
+En todo caso, las Instituciones que adopten un Modelo basado en calificaciones internas con enfoque avanzado, para la determinación de sus [Operaciones Sujetas a Riesgo de Crédito](articulo-1.md) con las personas a las que se refiere la fracción I del Artículo [2 Bis 69](articulo-2-Bis-69.md) de las presentes disposiciones, deberán medir el Plazo Efectivo o de Vencimiento para cada posición conforme a lo previsto por el presente artículo, de acuerdo con lo siguiente:
 
 I. Para un instrumento sujeto a una determinada estructura de flujos de efectivo, el Plazo Efectivo o de Vencimiento se define como:
 

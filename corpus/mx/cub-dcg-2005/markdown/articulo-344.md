@@ -11,16 +11,16 @@ temporal_status: effective
 review_status: machine_accepted
 amendment_marks: [43]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título QUINTO · Capítulo XIII
 
 # Artículo 344
 
-La Comisión supervisará el debido cumplimiento de lo dispuesto en el presente Capítulo a través de visitas de inspección que practique a las Instituciones.
+La [Comisión](articulo-1.md) supervisará el debido cumplimiento de lo dispuesto en el presente Capítulo a través de visitas de inspección que practique a las Instituciones.
 
-En las referidas visitas de inspección, la Comisión se allegará de la información que considere necesaria respecto de las Oficinas Bancarias establecidas en el territorio nacional.
+En las referidas visitas de inspección, la Comisión se allegará de la información que considere necesaria respecto de las [Oficinas Bancarias](articulo-1.md) establecidas en el territorio nacional.
 
 Las Instituciones deberán brindar a la Comisión el apoyo necesario, incluyendo el dictamen de expertos independientes que evalúen, a costa de dichas Instituciones, los sistemas de vigilancia y alarma, informáticos, de comunicación y de grabación de imágenes.
 

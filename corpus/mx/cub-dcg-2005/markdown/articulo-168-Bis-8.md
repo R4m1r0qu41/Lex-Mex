@@ -11,13 +11,13 @@ temporal_status: effective
 review_status: machine_accepted
 amendment_marks: [76]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título SEGUNDO · Capítulo VI
 
 # Artículo 168 Bis 8
 
-Las instituciones de banca múltiple podrán asignar las funciones atribuidas al Comité de Remuneración de conformidad con la presente sección, al comité de riesgos, siempre y cuando, al menos uno de los miembros del consejo de administración que lo integren sea independiente, y otro cuente con amplia experiencia en administración de riesgos o control interno.
+Las instituciones de banca múltiple podrán asignar las funciones atribuidas al [Comité de Remuneración](articulo-1.md) de conformidad con la presente sección, al comité de riesgos, siempre y cuando, al menos uno de los miembros del consejo de administración que lo integren sea independiente, y otro cuente con amplia experiencia en administración de riesgos o control interno.
 
-Adicionalmente, cuando el comité de riesgos discuta los temas que le corresponderían al Comité de Remuneración, deberán ser invitados a sus sesiones, un representante del área de recursos humanos y un representante del área encargada de la planeación financiera o la elaboración del presupuesto de la institución de banca múltiple, quienes podrán participar con voz y voto únicamente en los temas referentes al Sistema de Remuneración.
+Adicionalmente, cuando el comité de riesgos discuta los temas que le corresponderían al Comité de Remuneración, deberán ser invitados a sus sesiones, un representante del área de recursos humanos y un representante del área encargada de la planeación financiera o la elaboración del presupuesto de la institución de banca múltiple, quienes podrán participar con voz y voto únicamente en los temas referentes al [Sistema de Remuneración](articulo-1.md).

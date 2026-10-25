@@ -10,14 +10,14 @@ generated: true
 temporal_status: effective
 review_status: machine_accepted
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título SEGUNDO · Capítulo II
 
 # Artículo 48
 
-Los expedientes de cada crédito integrados conforme a las presentes disposiciones, podrán mantenerse en papel o mediante archivos electrónicos, Grabados o Microfilmados, siempre y cuando estén en todo momento disponibles para consulta del personal de las instituciones debidamente facultado, así como de la Comisión.
+Los expedientes de cada crédito integrados conforme a las presentes disposiciones, podrán mantenerse en papel o mediante archivos electrónicos, Grabados o Microfilmados, siempre y cuando estén en todo momento disponibles para consulta del personal de las instituciones debidamente facultado, así como de la [Comisión](articulo-1.md).
 
 Cuando la documentación que obre en papel no se integre a los expedientes de crédito por razones de seguridad o, en su caso, no forme parte de los mismos por constar en medios electrónicos o digitalizados que deriven de la operación y de la prestación de servicios bancarios a través de sistemas automatizados conforme a las disposiciones legales y administrativas aplicables, las Instituciones a través del personal responsable de integrar y actualizar dichos expedientes, deberán anexar a éstos una constancia que indique el lugar físico de resguardo o la dirección electrónica en donde se encuentren tales documentos o instrumentos.
 

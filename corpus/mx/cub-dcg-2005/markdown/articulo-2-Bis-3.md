@@ -11,14 +11,14 @@ temporal_status: effective
 review_status: machine_accepted
 amendment_marks: [50]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título PRIMERO · Capítulo I
 
 # Artículo 2 Bis 3
 
-Las Operaciones de las entidades financieras del exterior a que se refiere el segundo párrafo del Artículo 89 de la Ley, para todos los efectos de lo dispuesto en el Artículo 73 de la mencionada Ley se considerarán como realizadas por la propia Institución.
+Las [Operaciones](articulo-1.md) de las entidades financieras del exterior a que se refiere el segundo párrafo del Artículo 89 de la [Ley](articulo-1.md), para todos los efectos de lo dispuesto en el Artículo 73 de la mencionada Ley se considerarán como realizadas por la propia Institución.
 
 Asimismo, las Operaciones de estas entidades del exterior, para efectos de lo previsto en el presente título, se considerarán conforme a lo siguiente:
 

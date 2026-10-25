@@ -10,20 +10,20 @@ generated: true
 temporal_status: effective
 review_status: machine_accepted
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título QUINTO · Capítulo IX
 
 # Artículo 304
 
-Las Instituciones deberán contar con políticas internas que tengan por objeto establecer lineamientos y procedimientos relativos al manejo y, en su caso, destrucción de libros, registros, documentos y demás información relativa a su contabilidad, que hayan sido o vayan a ser objeto de Microfilmación o Grabación. Dichas políticas deberán ser elaboradas por el Comité de Auditoría y cumplir con lo previsto por el Capítulo VI del Título Segundo de las presentes disposiciones.
+Las Instituciones deberán contar con políticas internas que tengan por objeto establecer lineamientos y procedimientos relativos al manejo y, en su caso, destrucción de libros, registros, documentos y demás información relativa a su contabilidad, que hayan sido o vayan a ser objeto de [Microfilmación](articulo-1.md) o [Grabación](articulo-1.md). Dichas políticas deberán ser elaboradas por el [Comité de Auditoría](articulo-1.md) y cumplir con lo previsto por el Capítulo VI del Título Segundo de las presentes disposiciones.
 
 Adicionalmente, al elaborar los lineamientos y procedimientos a que se refiere este artículo, las Instituciones deberán prever supuestos para:
 
 I. Garantizar el adecuado manejo y control de los documentos que contengan la información confidencial de los clientes, a fin de asegurar que exclusivamente accedan a ella las personas que por sus funciones deban conocerla, con independencia de que sea objeto o no de los procesos de Microfilmación o Grabación a que se refiere el presente capítulo.
 
-II. Cumplir, en todo momento, con las disposiciones aplicables en materia de secreto bancario y fiduciario respecto de la información relativa a las operaciones activas, pasivas y de servicios de sus clientes de conformidad con los Artículos 117 y 118 de la Ley, estableciendo controles estrictos para evitar la sustracción de información relacionada con los libros, registros y documentos en general.
+II. Cumplir, en todo momento, con las disposiciones aplicables en materia de secreto bancario y fiduciario respecto de la información relativa a las operaciones activas, pasivas y de servicios de sus clientes de conformidad con los Artículos 117 y 118 de la [Ley](articulo-1.md), estableciendo controles estrictos para evitar la sustracción de información relacionada con los libros, registros y documentos en general.
 
 III. Evitar proporcionar a terceras personas, información que las Instituciones obtengan con motivo de la celebración de operaciones con sus clientes, para la comercialización de productos o servicios por parte de dichas personas, salvo que cuenten con el consentimiento expreso de sus clientes, atento a lo dispuesto en el Artículo 106 fracción XX de la Ley.
 

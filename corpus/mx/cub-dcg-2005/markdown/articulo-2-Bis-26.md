@@ -11,14 +11,14 @@ temporal_status: effective
 review_status: machine_accepted
 amendment_marks: [50]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título PRIMERO · Capítulo III
 
 # Artículo 2 Bis 26
 
-La ponderación por riesgo aplicable a las Operaciones que cuenten con una Calificación específica, independiente a la del respectivo acreditado o emisor, será la que corresponda a la Calificación de la Operación de que se trate conforme al Anexo 1-B. Al respecto, de no existir una Calificación específica para la Operación, deberán utilizarse los principios siguientes:
+La ponderación por riesgo aplicable a las [Operaciones](articulo-1.md) que cuenten con una [Calificación](articulo-1.md) específica, independiente a la del respectivo acreditado o emisor, será la que corresponda a la Calificación de la Operación de que se trate conforme al Anexo 1-B. Al respecto, de no existir una Calificación específica para la Operación, deberán utilizarse los principios siguientes:
 
 I. Cuando se disponga de una Calificación específica para otro crédito o título de deuda del mismo acreditado o emisor, se podrá utilizar dicha Calificación, si la Operación no calificada pudiera considerarse en todos sus aspectos como similar o preferente con respecto a la Operación calificada.
 

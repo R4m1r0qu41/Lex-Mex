@@ -9,24 +9,21 @@ aliases: ["DCG-CUB-2005 — Artículo 316 Bis 8"]
 generated: true
 temporal_status: effective
 review_status: machine_accepted
+amendment_marks: [128,150]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título QUINTO · Capítulo X
 
 # Artículo 316 Bis 8
 
-Las Instituciones que ofrezcan servicios de Banca Electrónica a través de Cajeros (150)
+Las Instituciones que ofrezcan servicios de [Banca Electrónica](articulo-1.md) a través de [Cajeros Automáticos](articulo-1.md) y Terminales Punto de Venta, ya sean propios o de terceros que contraten dichas Instituciones, deberán asegurarse que estos cuenten con lectores que permitan obtener la información de las Tarjetas Bancarias con Circuito Integrado, en el entendido de que la información deberá ser leída directamente del propio circuito o chip.
 
-Automáticos y Terminales Punto de Venta, ya sean propios o de terceros que contraten dichas Instituciones, deberán asegurarse que estos cuenten con lectores que permitan obtener la información de las Tarjetas Bancarias con Circuito Integrado, en el entendido de que la información deberá ser leída directamente del propio circuito o chip.
+Se exceptúa de lo dispuesto por el párrafo anterior, a:
 
-(128) Se exceptúa de lo dispuesto por el párrafo anterior, a:
+I. Los dispositivos que se encuentren conectados a teléfonos móviles y funcionen de manera similar a las Terminales Punto de Venta.
 
-(128) I. Los dispositivos que se encuentren conectados a teléfonos móviles y funcionen de manera similar a las Terminales Punto de Venta.
+II. Las Terminales Punto de Venta en las que únicamente se acepten tarjetas emitidas por la Institución adquirente.
 
-(128) II. Las Terminales Punto de Venta en las que únicamente se acepten tarjetas emitidas por la Institución adquirente.
-
-En todo caso, las Instituciones deberán dar cumplimiento a lo dispuesto por el cuarto párrafo de la (128)
-
-fracción III del Artículo [310](articulo-310.md) de las presentes disposiciones
+En todo caso, las Instituciones deberán dar cumplimiento a lo dispuesto por el cuarto párrafo de la fracción III del Artículo [310](articulo-310.md) de las presentes disposiciones

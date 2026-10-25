@@ -9,14 +9,13 @@ aliases: ["DCG-CUB-2005 — Artículo 284"]
 generated: true
 temporal_status: effective
 review_status: machine_accepted
+amendment_marks: [214]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título QUINTO · Capítulo VII
 
 # Artículo 284
 
-El comité técnico, en ningún caso podrá establecer como valores objeto de inversión (214)
-
-de los fideicomisos, los valores que tengan en propiedad o en administración las entidades y sociedades pertenecientes al grupo financiero del que, en su caso, forme parte la Institución. Se exceptúan de la prohibición anterior, a las acciones de fondos de inversión de renta variable o en instrumentos de deuda y a las acciones listadas en las Bolsas, siempre que en este último caso las operaciones respectivas se celebren o registren en dichas Bolsas de conformidad con las disposiciones aplicables.
+El comité técnico, en ningún caso podrá establecer como valores objeto de inversión de los fideicomisos, los valores que tengan en propiedad o en administración las entidades y sociedades pertenecientes al grupo financiero del que, en su caso, forme parte la Institución. Se exceptúan de la prohibición anterior, a las acciones de fondos de inversión de renta variable o en instrumentos de deuda y a las acciones listadas en las [Bolsas](articulo-1.md), siempre que en este último caso las operaciones respectivas se celebren o registren en dichas Bolsas de conformidad con las disposiciones aplicables.

@@ -10,7 +10,7 @@ generated: true
 temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 # NOVENO
@@ -29,4 +29,4 @@ II. Los FINANCIAMIENTOS otorgados exclusivamente a instituciones de banca múlti
 
 III. Los FINANCIAMIENTOS otorgados a las entidades y organismos integrantes de la Administración Pública Federal paraestatal, incluidos los fideicomisos públicos, deberán sujetarse al límite máximo del 100% del capital básico de la institución acreditante.”
 
-4 A continuación se transcribe la disposición Cuarta Transitoria de las Reglas: CUARTA.- Las instituciones de crédito que a la entrada en vigor de las presentes Reglas, mantengan FINANCIAMIENTOS que excedan los límites máximos de FINANCIAMIENTO que resulten de la aplicación del artículo [4](articulo-4.md) de estas mismas Reglas, deberán informarlo a la Vicepresidencia de la Comisión Nacional Bancaria y de Valores encargada de su supervisión, a más tardar dentro de los 30 días hábiles siguientes a la fecha de entrada en vigor de las presentes Reglas y podrán mantenerlos hasta su vencimiento, sin que al efecto puedan incrementarlos en su monto, salvo que deriven de la capitalización de intereses. Los FINANCIAMIENTOS cuyo plazo de vencimiento ocurra dentro del año siguiente a la fecha de entrada en vigor de las presentes Reglas, podrán renovarse por un periodo de hasta 180 días.” 2003 y publicadas en el Diario Oficial de la Federación el 30 de abril de 2003 5, continuará vigente hasta la conclusión del término ahí previsto.
+4 A continuación se transcribe la disposición Cuarta Transitoria de las Reglas: CUARTA.- Las instituciones de crédito que a la entrada en vigor de las presentes Reglas, mantengan FINANCIAMIENTOS que excedan los límites máximos de FINANCIAMIENTO que resulten de la aplicación del artículo [4](articulo-4.md) de estas mismas Reglas, deberán informarlo a la Vicepresidencia de la [Comisión](articulo-1.md) Nacional Bancaria y de Valores encargada de su supervisión, a más tardar dentro de los 30 días hábiles siguientes a la fecha de entrada en vigor de las presentes Reglas y podrán mantenerlos hasta su vencimiento, sin que al efecto puedan incrementarlos en su monto, salvo que deriven de la capitalización de intereses. Los FINANCIAMIENTOS cuyo plazo de vencimiento ocurra dentro del año siguiente a la fecha de entrada en vigor de las presentes Reglas, podrán renovarse por un periodo de hasta 180 días.” 2003 y publicadas en el Diario Oficial de la Federación el 30 de abril de 2003 5, continuará vigente hasta la conclusión del término ahí previsto.

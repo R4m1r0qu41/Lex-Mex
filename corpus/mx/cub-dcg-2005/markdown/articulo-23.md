@@ -9,8 +9,9 @@ aliases: ["DCG-CUB-2005 — Artículo 23"]
 generated: true
 temporal_status: effective
 review_status: machine_accepted
+amendment_marks: [274]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título SEGUNDO · Capítulo I
@@ -19,10 +20,6 @@ source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
 
 Las Instituciones deberán ejercer un control efectivo sobre los créditos otorgados a partir de la información recabada en el seguimiento, incluyendo al efecto en su manual de crédito, un sistema de clasificación crediticia que indique aquellas acciones generales que se derivarán de situaciones previamente definidas.
 
-Este sistema de clasificación indicará el tratamiento que se le dará a los créditos, las áreas o (274)
+Este sistema de clasificación indicará el tratamiento que se le dará a los créditos, las áreas o funcionarios responsables de dichas acciones, así como los objetivos en tiempo y resultados que deriven en un cambio en la clasificación. Dicha clasificación, al menos deberá apegarse a lo establecido en el Capítulo V Bis y V Bis 1 del Título Segundo de las presentes disposiciones y deberá ser aplicada consistentemente para todos los créditos.
 
-funcionarios responsables de dichas acciones, así como los objetivos en tiempo y resultados que deriven en un cambio en la clasificación. Dicha clasificación, al menos deberá apegarse a lo establecido en el Capítulo V Bis y V Bis 1 del Título Segundo de las presentes disposiciones y deberá ser aplicada consistentemente para todos los créditos.
-
-Los créditos que, como resultado del seguimiento permanente o por haber caído en cartera con (274)
-
-riesgo de crédito etapa 3, previsiblemente tendrán problemas de recuperación, deberán ser objeto de una evaluación detallada, con el fin de determinar oportunamente la posibilidad de establecer nuevos términos y condiciones que incrementen su probabilidad de recuperación.
+Los créditos que, como resultado del seguimiento permanente o por haber caído en cartera con riesgo de crédito etapa 3, previsiblemente tendrán problemas de recuperación, deberán ser objeto de una evaluación detallada, con el fin de determinar oportunamente la posibilidad de establecer nuevos términos y condiciones que incrementen su probabilidad de recuperación.

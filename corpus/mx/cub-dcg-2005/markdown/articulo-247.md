@@ -9,8 +9,9 @@ aliases: ["DCG-CUB-2005 — Artículo 247"]
 generated: true
 temporal_status: effective
 review_status: machine_accepted
+amendment_marks: [135]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título QUINTO · Capítulo IV
@@ -27,6 +28,4 @@ III. Maquinaria y equipo.
 
 IV. Agropecuarios.
 
-La valuación bancaria de los Créditos Hipotecarios de Vivienda, deberá sujetarse a lo que en dicha (135)
-
-materia establece la Ley de Transparencia y de Fomento a la Competencia en el Crédito Garantizado y las disposiciones que de dicha ley emanen, por lo que no les resultará aplicable lo señalado en el Anexo 42 de las presentes disposiciones.
+La valuación bancaria de los Créditos Hipotecarios de Vivienda, deberá sujetarse a lo que en dicha materia establece la Ley de Transparencia y de Fomento a la Competencia en el Crédito Garantizado y las disposiciones que de dicha ley emanen, por lo que no les resultará aplicable lo señalado en el Anexo 42 de las presentes disposiciones.

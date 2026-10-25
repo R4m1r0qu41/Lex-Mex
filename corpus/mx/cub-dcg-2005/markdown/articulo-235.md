@@ -10,16 +10,16 @@ generated: true
 temporal_status: effective
 review_status: machine_accepted
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título QUINTO · Capítulo I
 
 # Artículo 235
 
-Tratándose de instituciones de banca múltiple que hayan sido clasificadas en la categoría IV a que se refiere el Artículo [220](articulo-220.md) de las presentes disposiciones, la Comisión podrá ordenar la aplicación de las Medidas Correctivas Especiales Adicionales siguientes:
+Tratándose de instituciones de banca múltiple que hayan sido clasificadas en la categoría IV a que se refiere el Artículo [220](articulo-220.md) de las presentes disposiciones, la [Comisión](articulo-1.md) podrá ordenar la aplicación de las [Medidas Correctivas Especiales Adicionales](articulo-1.md) siguientes:
 
-I. Sustituir funcionarios, consejeros, comisarios o auditores externos, para lo cual podrá nombrar la propia institución de banca múltiple a las personas que ocuparán los cargos respectivos. Lo anterior es sin perjuicio de las facultades de la Comisión previstas en el Artículo 25 de la Ley para determinar la remoción o suspensión de los miembros del Consejo, directores generales, comisarios, directores y gerentes, delegados fiduciarios y demás funcionarios que puedan obligar con su firma a la institución de banca múltiple.
+I. Sustituir funcionarios, consejeros, comisarios o auditores externos, para lo cual podrá nombrar la propia institución de banca múltiple a las personas que ocuparán los cargos respectivos. Lo anterior es sin perjuicio de las facultades de la Comisión previstas en el Artículo 25 de la [Ley](articulo-1.md) para determinar la remoción o suspensión de los miembros del [Consejo](articulo-1.md), directores generales, comisarios, directores y gerentes, delegados fiduciarios y demás funcionarios que puedan obligar con su firma a la institución de banca múltiple.
 
 La Comisión notificará por escrito a la institución de banca múltiple la adopción de la Medida Correctiva Especial Adicional, señalando el plazo en el que deberá informar por escrito los nombres de los funcionarios, consejeros, comisarios o auditores externos, que habrán de sustituir a los funcionarios, consejeros, comisarios o auditores externos removidos.
 

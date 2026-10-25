@@ -9,22 +9,21 @@ aliases: ["DCG-CUB-2005 — Artículo 139 Bis"]
 generated: true
 temporal_status: effective
 review_status: machine_accepted
+amendment_marks: [275]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título SEGUNDO · Capítulo V
 
 # Artículo 139 Bis
 
-Las Instituciones para efectos de determinar la estimación preventiva para riesgos crediticios, podrán utilizar una Metodología Interna de reservas basada en la NIF C-16, eligiendo alguno de los dos enfoques siguientes:
+Las Instituciones para efectos de determinar la estimación preventiva para riesgos crediticios, podrán utilizar una [Metodología Interna de reservas basada en la NIF C-16](articulo-1.md), eligiendo alguno de los dos enfoques siguientes:
 
-(275) I. Básico, en el cual las Instituciones deberán calcular su propia Probabilidad de Incumplimiento de sus posiciones sujetas a riesgo de crédito y utilizar los parámetros de Severidad de la Pérdida en caso de Incumplimiento y la Exposición al Incumplimiento establecidos en el Capítulo V Bis.
+I. Básico, en el cual las Instituciones deberán calcular su propia Probabilidad de Incumplimiento de sus posiciones sujetas a riesgo de crédito y utilizar los parámetros de [Severidad de la Pérdida](articulo-1.md) en caso de Incumplimiento y la Exposición al Incumplimiento establecidos en el Capítulo V Bis.
 
-(275) II. Avanzado, en el que las Instituciones deberán estimar la Probabilidad de Incumplimiento, la Severidad de la Pérdida en caso de Incumplimiento y la Exposición al Incumplimiento.
+II. Avanzado, en el que las Instituciones deberán estimar la Probabilidad de Incumplimiento, la Severidad de la Pérdida en caso de Incumplimiento y la Exposición al Incumplimiento.
 
-(275) Las Instituciones podrán utilizar una Metodología Interna de reservas basada en la NIF C-16 con enfoque básico o avanzado tratándose de la Cartera de Crédito Comercial. Para el caso de la Cartera de Crédito de Consumo e Hipotecaria de Vivienda, las Instituciones solamente podrán utilizar una Metodología Interna de reservas basada en la NIF C-16 con enfoque avanzado.
+Las Instituciones podrán utilizar una Metodología Interna de reservas basada en la NIF C-16 con enfoque básico o avanzado tratándose de la Cartera de Crédito Comercial. Para el caso de la Cartera de Crédito de Consumo e Hipotecaria de Vivienda, las Instituciones solamente podrán utilizar una Metodología Interna de reservas basada en la NIF C-16 con enfoque avanzado.
 
-(275) Los créditos pertenecientes a carteras que no estén comprendidas en las Carteras Modelables relevantes se calificarán conforme a la Metodología General Estándar contenida en el Capítulo V Bis del Título Segundo de las presentes disposiciones.
-
-(275)
+Los créditos pertenecientes a carteras que no estén comprendidas en las [Carteras Modelables](articulo-1.md) relevantes se calificarán conforme a la Metodología General Estándar contenida en el Capítulo V Bis del Título Segundo de las presentes disposiciones.

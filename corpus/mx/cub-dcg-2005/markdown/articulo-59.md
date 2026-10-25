@@ -9,24 +9,22 @@ aliases: ["DCG-CUB-2005 — Artículo 59"]
 generated: true
 temporal_status: effective
 review_status: machine_accepted
-amendment_marks: [33]
+amendment_marks: [33,318]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título SEGUNDO · Capítulo III
 
 # Artículo 59
 
-La Comisión podrá establecer para cada Institución límites máximos inferiores a los (318)
+La [Comisión](articulo-1.md) podrá establecer para cada Institución límites máximos inferiores a los establecidos en el Artículo [54](articulo-54.md) de las presentes disposiciones cuando, a su juicio, exista una inadecuada [Administración Integral de Riesgos](articulo-1.md) o el [Sistema de Control Interno](articulo-1.md) presente deficiencias, tomando en cuenta la gravedad de la infracción a las disposiciones aplicables previstas en el Título Segundo, Capítulos IV y VI de estas disposiciones.
 
-establecidos en el Artículo [54](articulo-54.md) de las presentes disposiciones cuando, a su juicio, exista una inadecuada Administración Integral de Riesgos o el Sistema de Control Interno presente deficiencias, tomando en cuenta la gravedad de la infracción a las disposiciones aplicables previstas en el Título Segundo, Capítulos IV y VI de estas disposiciones.
+Asimismo, la Comisión podrá autorizar a instituciones de banca de desarrollo que cuenten con la garantía expresa del Gobierno Federal para el cumplimiento de sus obligaciones, límites temporales de [Financiamiento](articulo-1.md) superiores a los que se refiere la presente sección, cuando el destino de los Financiamientos sea apoyar programas nacionales de financiamiento del desarrollo y de fomento, creados por el propio Gobierno Federal para promover y financiar actividades, sectores o mercados objetivo específicos.
 
-Asimismo, la Comisión podrá autorizar a instituciones de banca de desarrollo que cuenten con la garantía expresa del Gobierno Federal para el cumplimiento de sus obligaciones, límites temporales de Financiamiento superiores a los que se refiere la presente sección, cuando el destino de los Financiamientos sea apoyar programas nacionales de financiamiento del desarrollo y de fomento, creados por el propio Gobierno Federal para promover y financiar actividades, sectores o mercados objetivo específicos.
+La solicitud de autorización a que se refiere en el párrafo anterior, deberá presentarse a la Comisión por conducto del director general de la institución de banca de desarrollo de que se trate, previa aprobación de su [Consejo](articulo-1.md), y deberá incluir lo siguiente:
 
-La solicitud de autorización a que se refiere en el párrafo anterior, deberá presentarse a la Comisión por conducto del director general de la institución de banca de desarrollo de que se trate, previa aprobación de su Consejo, y deberá incluir lo siguiente:
-
-I. Las características, términos y condiciones de la o las operaciones que integren el Riesgo Común respecto de las cuales se solicite la autorización respectiva y el dictamen y estudio que soporten la viabilidad y adecuada cobertura o garantía de dichas operaciones.
+I. Las características, términos y condiciones de la o las operaciones que integren el [Riesgo Común](articulo-1.md) respecto de las cuales se solicite la autorización respectiva y el dictamen y estudio que soporten la viabilidad y adecuada cobertura o garantía de dichas operaciones.
 
 II. Un plan que contenga las medidas que tomará la Institución, a fin de cumplir nuevamente con lo previsto en el Artículo [54](articulo-54.md).
 

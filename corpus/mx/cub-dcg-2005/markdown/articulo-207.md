@@ -9,15 +9,16 @@ aliases: ["DCG-CUB-2005 — Artículo 207"]
 generated: true
 temporal_status: effective
 review_status: machine_accepted
+amendment_marks: [328,332,343,355,360,395]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
-> Título SEGUNDO · Capítulo I
+> Título TERCERO · Capítulo I
 
 # Artículo 207
 
-Las Instituciones deberán proporcionar a la Comisión, con la periodicidad establecida en los artículos siguientes, la información que se adjunta a las presentes disposiciones como Anexo 36, la cual se identifica con las series y reportes que a continuación se relacionan:
+Las Instituciones deberán proporcionar a la [Comisión](articulo-1.md), con la periodicidad establecida en los artículos siguientes, la información que se adjunta a las presentes disposiciones como Anexo 36, la cual se identifica con las series y reportes que a continuación se relacionan:
 
 Serie R01 Catálogo mínimo
 
@@ -35,7 +36,7 @@ Situación financiera
 
 A-0411 Cartera por tipo de crédito, saldo promedio, intereses y comisiones
 
-A-0417 Calificación de la cartera de crédito y estimación preventiva para riesgos crediticios
+A-0417 [Calificación](articulo-1.md) de la cartera de crédito y estimación preventiva para riesgos crediticios
 
 A-0419 Movimientos en la estimación preventiva para riesgos crediticios
 
@@ -45,7 +46,9 @@ A-0424 Movimientos en cartera con riesgo de crédito etapas 1 y 2
 
 Cartera comercial
 
-Información detallada (Metodología de calificación de cartera Anexos 18 a 22) C-0430 Alta de créditos comerciales a cargo de entidades federativas y municipios, entidades financieras, personas morales y físicas con actividad empresarial, gobierno federal, organismos descentralizados federales, estatales y municipales, empresas productivas del estado y créditos otorgados a proyectos de inversión o activos con fuente de pago propia
+Información detallada (Metodología de calificación de cartera Anexos 18 a 22)
+
+C-0430 Alta de créditos comerciales a cargo de entidades federativas y municipios, entidades financieras, personas morales y físicas con actividad empresarial, gobierno federal, organismos descentralizados federales, estatales y municipales, empresas productivas del estado y créditos otorgados a proyectos de inversión o activos con fuente de pago propia
 
 C-0431 Seguimiento de créditos comerciales a cargo de entidades federativas y municipios, entidades financieras, personas morales y físicas con actividad empresarial, gobierno federal, organismos descentralizados federales, estatales y municipales, empresas productivas del estado y créditos otorgados a proyectos de inversión o activos con fuente de pago propia
 
@@ -53,7 +56,7 @@ C-0432 Baja de créditos comerciales a cargo de entidades federativas y municipi
 
 C-0433 Reservas de créditos comerciales a cargo de entidades federativas y municipios, entidades financieras, personas morales y físicas con actividad empresarial, gobierno federal, organismos descentralizados federales, estatales y municipales y empresas productivas del Estado
 
-C-0434 Severidad de la Pérdida de créditos comerciales a cargo de entidades federativas y municipios, entidades financieras, personas morales y físicas con actividad empresarial, gobierno federal, organismos descentralizados federales, estatales y municipales y empresas productivas del Estado
+C-0434 [Severidad de la Pérdida](articulo-1.md) de créditos comerciales a cargo de entidades federativas y municipios, entidades financieras, personas morales y físicas con actividad empresarial, gobierno federal, organismos descentralizados federales, estatales y municipales y empresas productivas del Estado
 
 C-0435 Probabilidad de Incumplimiento de créditos comerciales a cargo de entidades federativas y municipios
 
@@ -67,13 +70,15 @@ C-0439 Método de calificación y provisionamiento aplicable a los créditos com
 
 C-0440 Garantías de créditos comerciales
 
-(328) C-0441 Datos de acreditados de créditos comerciales a cargo de entidades financieras y personas morales
+C-0441 Datos de acreditados de créditos comerciales a cargo de entidades financieras y personas morales
 
 Información detallada de garantías de segundo piso
 
 C-0447 Seguimiento de garantías
 
-Cartera a la vivienda H-0491 Altas de créditos a la vivienda
+Cartera a la vivienda
+
+H-0491 Altas de créditos a la vivienda
 
 H-0492 Seguimiento de créditos a la vivienda
 
@@ -93,11 +98,9 @@ Serie R08 Captación
 
 A-0811 Captación tradicional y préstamos interbancarios y de otros organismos
 
-(395) A-0815 Derogado
+A-0815 Derogado
 
-(395) A-0816 Derogado
-
-(395) A-0819 Derogado
+A-0816 Derogado A-0819 Derogado
 
 Serie R10 Reclasificaciones
 
@@ -127,11 +130,13 @@ Serie R14 Información cualitativa
 
 A-1411 Integración accionaria
 
-A-1412 Funcionarios, empleados, jubilados, personal por honorarios y sucursales Serie R15 Operaciones por servicio
+A-1412 Funcionarios, empleados, jubilados, personal por honorarios y sucursales
 
-B-1522 Usuarios no clientes de los medios electrónicos de la institución
+Serie R15 [Operaciones](articulo-1.md) por servicio
 
-B-1523 Operaciones de clientes por servicios de Banca Electrónica
+B-1522 [Usuarios](articulo-1.md) no clientes de los medios electrónicos de la institución
+
+B-1523 Operaciones de clientes por servicios de [Banca Electrónica](articulo-1.md)
 
 B-1524 Clientes por servicio de Banca Electrónica
 
@@ -149,9 +154,7 @@ B-2421 Información de Operaciones referentes a productos de captación
 
 B-2422 Información de Operaciones referentes a sucursales, tarjetas de crédito y otras variables operativas
 
-B-2423 Titulares garantizados por el IPAB
-
-C-2431 Información de Operaciones con partes relacionadas
+B-2423 Titulares garantizados por el [IPAB](articulo-1.md) C-2431 Información de Operaciones con partes relacionadas
 
 D-2441 Información general sobre el uso de servicios financieros
 
@@ -167,7 +170,7 @@ E-2452 Número de Operaciones de cada producto o servicio por zona geográfica
 
 Serie R26 Información por comisionistas
 
-A-2610 Altas y bajas de Administradores de Comisionistas
+A-2610 Altas y bajas de [Administradores de Comisionistas](articulo-1.md)
 
 A-2611 Altas y bajas de comisionistas
 
@@ -175,17 +178,19 @@ B-2612 Altas y bajas de módulos o establecimientos de comisionistas
 
 C-2613 Seguimiento de Operaciones de comisionistas
 
-(360) Serie R27 Reclamaciones
+Serie R27 Reclamaciones
 
-(360) A-2701 Reclamaciones
+A-2701 Reclamaciones
 
-Serie R28 Información de Riesgo Operacional
+Serie R28 Información de [Riesgo Operacional](articulo-1.md)
 
 A-2811 Eventos de pérdida por Riesgo Operacional
 
-A-2812 Estimación de niveles de Riesgo Operacional A-2813 Actualización de eventos de pérdida por Riesgo Operacional
+A-2812 Estimación de niveles de Riesgo Operacional
 
-(355) A-2815 Derogado
+A-2813 Actualización de eventos de pérdida por Riesgo Operacional
+
+A-2815 Derogado
 
 Serie R29 Aseguramientos, transferencias y desbloqueos de cuentas
 
@@ -195,18 +200,16 @@ Serie R32 Conciliaciones
 
 A-3211 Conciliación contable fiscal
 
-Serie 34 Razón de Apalancamiento
+Serie 34 [Razón de Apalancamiento](articulo-1.md)
 
 A-3401 Cálculo de la Razón de Apalancamiento
 
-Serie R35 Grandes Exposiciones
+Serie R35 [Grandes Exposiciones](articulo-1.md)
 
 A-3511 Operaciones de Grandes Exposiciones
 
-(332) Serie R36 Pagos anticipados y Cargos diferidos
+Serie R36 Pagos anticipados y Cargos diferidos
 
-(343) A-3601 Erogaciones o gastos cuyo reconocimiento se difiera en el tiempo
+A-3601 Erogaciones o gastos cuyo reconocimiento se difiera en el tiempo Las Instituciones requerirán de la previa autorización de la Comisión para la apertura de nuevos conceptos o niveles que no se encuentren contemplados en las series que correspondan exclusivamente para el envío de información de las nuevas operaciones que les sean autorizadas al efecto por la [Secretaría](articulo-1.md), en términos de la legislación relativa, para lo cual solicitarán la referida autorización mediante escrito libre dentro de los quince días hábiles siguientes a la autorización hecha por la Secretaría. Asimismo, en caso de que por cambios en la normativa aplicable se requiera establecer conceptos o niveles adicionales a los previstos en las presentes disposiciones, la Comisión hará del conocimiento de las Instituciones la apertura de los nuevos conceptos o niveles respectivos.
 
-Las Instituciones requerirán de la previa autorización de la Comisión para la apertura de nuevos conceptos o niveles que no se encuentren contemplados en las series que correspondan exclusivamente para el envío de información de las nuevas operaciones que les sean autorizadas al efecto por la Secretaría, en términos de la legislación relativa, para lo cual solicitarán la referida autorización mediante escrito libre dentro de los quince días hábiles siguientes a la autorización hecha por la Secretaría. Asimismo, en caso de que por cambios en la normativa aplicable se requiera establecer conceptos o niveles adicionales a los previstos en las presentes disposiciones, la Comisión hará del conocimiento de las Instituciones la apertura de los nuevos conceptos o niveles respectivos.
-
-En los dos casos previstos en el párrafo anterior la Comisión, a través del SITI, notificará a la Institución el mecanismo de registro y envío de la información correspondiente.
+En los dos casos previstos en el párrafo anterior la Comisión, a través del [SITI](articulo-1.md), notificará a la Institución el mecanismo de registro y envío de la información correspondiente.

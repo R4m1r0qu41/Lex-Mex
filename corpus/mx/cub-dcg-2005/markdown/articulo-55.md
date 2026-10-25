@@ -10,11 +10,11 @@ generated: true
 temporal_status: effective
 review_status: machine_accepted
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título SEGUNDO · Capítulo III
 
 # Artículo 55
 
-Los Financiamientos que otorguen las instituciones de banca de desarrollo a intermediarios financieros, para que se destinen a la contratación de créditos de conformidad con los programas que para la canalización de dichos recursos expidan las instituciones de banca de desarrollo, con independencia de que aquéllas establezcan o no una relación jurídica con los acreditados finales, recayendo el riesgo de crédito preponderantemente en los referidos intermediarios, estarán sujetos al límite máximo del 100% del capital básico de la institución de banca de desarrollo acreditante.
+Los [Financiamientos](articulo-1.md) que otorguen las instituciones de banca de desarrollo a intermediarios financieros, para que se destinen a la contratación de créditos de conformidad con los programas que para la canalización de dichos recursos expidan las instituciones de banca de desarrollo, con independencia de que aquéllas establezcan o no una relación jurídica con los acreditados finales, recayendo el riesgo de crédito preponderantemente en los referidos intermediarios, estarán sujetos al límite máximo del 100% del capital básico de la institución de banca de desarrollo acreditante.

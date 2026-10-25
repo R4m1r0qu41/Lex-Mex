@@ -9,19 +9,18 @@ aliases: ["DCG-CUB-2005 — Artículo 2 Bis 85"]
 generated: true
 temporal_status: effective
 review_status: machine_accepted
+amendment_marks: [161]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título PRIMERO · Capítulo III
 
 # Artículo 2 Bis 85
 
-Tratándose de las Operaciones Sujetas a Riesgo de Crédito a las que se refiere la (161)
+Tratándose de las [Operaciones Sujetas a Riesgo de Crédito](articulo-1.md) a las que se refiere la fracción II del Artículo [2 Bis 17](articulo-2-Bis-17.md) de las presentes disposiciones, que se encuentren sin incumplimiento y que estén total o parcialmente garantizadas mediante garantía hipotecaria sobre viviendas residenciales, los activos ponderados por riesgo de crédito se determinarán de conformidad con el procedimiento siguiente:
 
-fracción II del Artículo [2 Bis 17](articulo-2-Bis-17.md) de las presentes disposiciones, que se encuentren sin incumplimiento y que estén total o parcialmente garantizadas mediante garantía hipotecaria sobre viviendas residenciales, los activos ponderados por riesgo de crédito se determinarán de conformidad con el procedimiento siguiente:
-
-𝐴𝑃𝑅𝐶 = 1.06 × 𝑃𝑅𝐶𝑅𝐶 × 12.5 × 𝐸𝐼 (161) El ponderador del requerimiento de capital por riesgo de crédito se define como:
+𝐴𝑃𝑅𝐶 = 1.06 × 𝑃𝑅𝐶𝑅𝐶 × 12.5 × 𝐸𝐼 El ponderador del requerimiento de capital por riesgo de crédito se define como:
 
    R  0.5  ___  PRCRC =  SP  N (1 − R )  G (PI ) +    G(0.999) − PI  SP −0.5
 

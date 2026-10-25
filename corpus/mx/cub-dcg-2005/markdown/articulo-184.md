@@ -10,10 +10,10 @@ generated: true
 temporal_status: effective
 review_status: machine_accepted
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
-> Título SEGUNDO · Capítulo II
+> Título TERCERO · Capítulo II
 
 # Artículo 184
 
@@ -23,4 +23,4 @@ Las Instituciones, al difundir a través de la página electrónica en la red mu
 
 El plazo por el que se debe mantener la información a que se refiere el Artículo183 de las presentes disposiciones y el párrafo que precede, será independiente al que en términos de las disposiciones legales aplicables, las Instituciones deban observar.
 
-Las Instituciones que formen parte de un grupo financiero, no estarán obligadas a difundir la información señalada en el Artículo [180](articulo-180.md), fracción I, de las presentes disposiciones y la actualización a que se refiere el penúltimo párrafo del Artículo [181](articulo-181.md) de las presentes disposiciones, así como la contenida en las fracciones del referido Artículo [181](articulo-181.md), siempre que la sociedad controladora del grupo financiero al que la propia Institución pertenezca, elabore y difunda el que le corresponda a dicha sociedad, en cumplimiento de las disposiciones que en esa materia haya expedido la Comisión.
+Las Instituciones que formen parte de un grupo financiero, no estarán obligadas a difundir la información señalada en el Artículo [180](articulo-180.md), fracción I, de las presentes disposiciones y la actualización a que se refiere el penúltimo párrafo del Artículo [181](articulo-181.md) de las presentes disposiciones, así como la contenida en las fracciones del referido Artículo [181](articulo-181.md), siempre que la sociedad controladora del grupo financiero al que la propia Institución pertenezca, elabore y difunda el que le corresponda a dicha sociedad, en cumplimiento de las disposiciones que en esa materia haya expedido la [Comisión](articulo-1.md).

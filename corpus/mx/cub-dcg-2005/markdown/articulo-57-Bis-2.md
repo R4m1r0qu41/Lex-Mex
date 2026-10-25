@@ -9,8 +9,9 @@ aliases: ["DCG-CUB-2005 — Artículo 57 Bis 2"]
 generated: true
 temporal_status: effective
 review_status: machine_accepted
+amendment_marks: [365]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título SEGUNDO · Capítulo III
@@ -21,9 +22,9 @@ A menos que se especifique lo contrario, para efectos del cálculo de los límit
 
 Conforme a lo anterior, en el cómputo de los límites antes referidos, las Instituciones deberán cumplir con lo siguiente:
 
-I. El valor de sus Financiamientos con una contraparte o grupo de contrapartes que pueden considerarse como Riesgo Común, será reducido por el monto de la garantía real financiera o personal elegible que sea reconocida para efectos de mitigación del requerimiento de capital por riesgo de crédito, de conformidad con lo siguiente:
+I. El valor de sus [Financiamientos](articulo-1.md) con una contraparte o grupo de contrapartes que pueden considerarse como [Riesgo Común](articulo-1.md), será reducido por el monto de la garantía real financiera o personal elegible que sea reconocida para efectos de mitigación del requerimiento de capital por riesgo de crédito, de conformidad con lo siguiente:
 
-a) La parte del saldo del Financiamiento cubierta por el garante o el proveedor de la protección, tratándose de garantías personales, Seguros de Créditos o derivados crediticios que sean reconocidos para mitigar los requerimientos de capital conforme a lo dispuesto en el párrafo anterior.
+a) La parte del saldo del Financiamiento cubierta por el garante o el proveedor de la protección, tratándose de garantías personales, [Seguros de Créditos](articulo-1.md) o derivados crediticios que sean reconocidos para mitigar los requerimientos de capital conforme a lo dispuesto en el párrafo anterior.
 
 b) El valor de la parte del Financiamiento que está garantizado por el valor de mercado reconocido de la garantía real financiera, cuando la Institución utilice el enfoque simple para efectos de los requerimientos de capital en función del riesgo de crédito.
 

@@ -11,7 +11,7 @@ temporal_status: effective
 review_status: machine_accepted
 amendment_marks: [50]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título PRIMERO · Capítulo III
@@ -24,4 +24,4 @@ I. La garantía de la entidad soberana cubra todo el riesgo de crédito para dic
 
 II. Tanto la garantía original como la garantía otorgada por una entidad soberana cumplan todos los requisitos mínimos para garantías personales, sin que ello implique que la garantía deba ser directa o explícita respecto al crédito original.
 
-III. Se compruebe ante la Comisión, la inexistencia de pruebas históricas que indiquen que la cobertura de la garantía soberana indirecta sea menos eficaz que una garantía soberana directa.
+III. Se compruebe ante la [Comisión](articulo-1.md), la inexistencia de pruebas históricas que indiquen que la cobertura de la garantía soberana indirecta sea menos eficaz que una garantía soberana directa.

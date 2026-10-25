@@ -11,15 +11,15 @@ temporal_status: effective
 review_status: machine_accepted
 amendment_marks: [50]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título PRIMERO · Capítulo III
 
 # Artículo 2 Bis 11
 
-Las Instituciones para determinar su requerimiento de capital por riesgo de crédito conforme al Método Estándar, deberán clasificar sus Operaciones Sujetas a Riesgo de Crédito en alguno de los grupos que se indican en el Apartado B de la presente Sección, de acuerdo al emisor o contraparte de la Operación o, en su caso, al tipo de crédito de que se trate.
+Las Instituciones para determinar su requerimiento de capital por riesgo de crédito conforme al [Método Estándar](articulo-1.md), deberán clasificar sus [Operaciones Sujetas a Riesgo de Crédito](articulo-1.md) en alguno de los grupos que se indican en el Apartado B de la presente Sección, de acuerdo al emisor o contraparte de la [Operación](articulo-1.md) o, en su caso, al tipo de crédito de que se trate.
 
-El presente título establece los Grados de Riesgo asociados a las distintas Calificaciones proporcionadas por las Instituciones Calificadoras. Para tales efectos, el Anexo 1-B señala la correspondencia, de las Calificaciones posibles tanto para el mercado global como para el mercado mexicano.
+El presente título establece los Grados de Riesgo asociados a las distintas [Calificaciones](articulo-1.md) proporcionadas por las [Instituciones Calificadoras](articulo-1.md). Para tales efectos, el Anexo 1-B señala la correspondencia, de las Calificaciones posibles tanto para el mercado global como para el mercado mexicano.
 
-La Comisión dará a conocer en la red electrónica mundial denominada Internet en el sitio http://www.cnbv.gob.mx, las actualizaciones que se hagan de la correspondencia entre las Calificaciones proporcionadas por las Instituciones Calificadoras y los Grados de Riesgo a los que se refiere el Anexo 1- B. Asimismo, la Comisión dará a conocer en dicho medio, los Grados de Riesgo relativos a las Calificaciones de aquellas Instituciones Calificadoras que sean autorizadas por la Comisión con posterioridad a la emisión de las presentes disposiciones y que, a su juicio puedan ser empleadas para fines del presente título.
+La [Comisión](articulo-1.md) dará a conocer en la red electrónica mundial denominada Internet en el sitio http://www.cnbv.gob.mx, las actualizaciones que se hagan de la correspondencia entre las Calificaciones proporcionadas por las Instituciones Calificadoras y los Grados de Riesgo a los que se refiere el Anexo 1- B. Asimismo, la Comisión dará a conocer en dicho medio, los Grados de Riesgo relativos a las Calificaciones de aquellas Instituciones Calificadoras que sean autorizadas por la Comisión con posterioridad a la emisión de las presentes disposiciones y que, a su juicio puedan ser empleadas para fines del presente título.

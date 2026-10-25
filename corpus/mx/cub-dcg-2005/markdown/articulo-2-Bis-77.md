@@ -9,25 +9,21 @@ aliases: ["DCG-CUB-2005 — Artículo 2 Bis 77"]
 generated: true
 temporal_status: effective
 review_status: machine_accepted
-amendment_marks: [50]
+amendment_marks: [50,130,274]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título PRIMERO · Capítulo III
 
 # Artículo 2 Bis 77
 
-La metodología para determinar la Severidad de la Pérdida efectiva de una (274)
+La metodología para determinar la [Severidad de la Pérdida](articulo-1.md) efectiva de una operación, tratándose de Instituciones que hayan tomado tanto una garantía real admisible, como otra garantía real no financiera elegible por el [Modelo basado en calificaciones internas](articulo-1.md), deberá ser consistente con el [Método Estándar](articulo-1.md) y tomar en cuenta los lineamientos siguientes:
 
-operación, tratándose de Instituciones que hayan tomado tanto una garantía real admisible, como otra garantía real no financiera elegible por el Modelo basado en calificaciones internas, deberá ser consistente con el Método Estándar y tomar en cuenta los lineamientos siguientes:
+I. Las Instituciones que hayan obtenido distintas formas de cobertura de riesgo de crédito, deberán subdividir el valor ajustado de la posición en diferentes porciones, cada una asociada a un tipo de cobertura de riesgo de crédito única. Para ello, las Instituciones deberán dividir, en su caso, la posición en la porción cubierta por la garantía real financiera admisible, la porción cubierta por los derechos de cobro, la porción cubierta por bienes inmuebles, la porción cubierta por otras garantías reales no financieras y la porción sin cobertura.
 
-(130) I. Las Instituciones que hayan obtenido distintas formas de cobertura de riesgo de crédito, deberán subdividir el valor ajustado de la posición en diferentes porciones, cada una asociada a un tipo de cobertura de riesgo de crédito única. Para ello, las Instituciones deberán dividir, en su caso, la posición en la porción cubierta por la garantía real financiera admisible, la porción cubierta por los derechos de cobro, la porción cubierta por bienes inmuebles, la porción cubierta por otras garantías reales no financieras y la porción sin cobertura.
+La porción cubierta por garantías reales financieras admisibles y su SPi* correspondiente, se determinarán conforme a los Artículos [2 Bis 37](articulo-2-Bis-37.md) y [2 Bis 74](articulo-2-Bis-74.md) de las presentes disposiciones, en tanto las porciones cubiertas por los derechos de cobro, los bienes inmuebles, otras garantías reales no financieras y la porción expuesta sin cobertura, así como sus SPi** relacionadas, se determinarán conforme a la fracción III del Artículo [2 Bis 76](articulo-2-Bis-76.md) anterior.
 
-La porción cubierta por garantías reales financieras admisibles y su SPi* correspondiente, se (130)
-
-determinarán conforme a los Artículos [2 Bis 37](articulo-2-Bis-37.md) y [2 Bis 74](articulo-2-Bis-74.md) de las presentes disposiciones, en tanto las porciones cubiertas por los derechos de cobro, los bienes inmuebles, otras garantías reales no financieras y la porción expuesta sin cobertura, así como sus SPi** relacionadas, se determinarán conforme a la fracción III del Artículo [2 Bis 76](articulo-2-Bis-76.md) anterior.
-
-(130) II. Una vez reconocida la cobertura de las garantías reales financieras y no financieras admisibles, a la porción restante se le asignará la SPi** de conformidad con el inciso f), fracción III, del Artículo [2 Bis 76](articulo-2-Bis-76.md) anterior, cuando la razón de la suma de los valores de las diferentes garantías reales no financieras, entre el valor de la EIEi, se encuentre por debajo de un nivel de 25%. En caso contrario, las porciones cubiertas conservaran la SPi** obtenida conforme a la fracción I anterior.
+II. Una vez reconocida la cobertura de las garantías reales financieras y no financieras admisibles, a la porción restante se le asignará la SPi** de conformidad con el inciso f), fracción III, del Artículo [2 Bis 76](articulo-2-Bis-76.md) anterior, cuando la razón de la suma de los valores de las diferentes garantías reales no financieras, entre el valor de la EIEi, se encuentre por debajo de un nivel de 25%. En caso contrario, las porciones cubiertas conservaran la SPi** obtenida conforme a la fracción I anterior.
 
 III. Los activos ponderados por riesgo, deberán calcularse por separado para cada porción cubierta plenamente.

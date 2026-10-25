@@ -10,11 +10,11 @@ generated: true
 temporal_status: effective
 review_status: machine_accepted
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título SEGUNDO · Capítulo I
 
 # Artículo 16
 
-La aprobación de créditos será responsabilidad del Consejo, el cual podrá delegar dicha función en los comités y, en su caso, en los funcionarios de la Institución que al efecto determine. En el manual de crédito se deberán contener las facultades que se otorguen a los citados comités y funcionarios en materia de aprobación de créditos, así como, en su caso, la estructura y funcionamiento de los comités.
+La aprobación de créditos será responsabilidad del [Consejo](articulo-1.md), el cual podrá delegar dicha función en los comités y, en su caso, en los funcionarios de la Institución que al efecto determine. En el manual de crédito se deberán contener las facultades que se otorguen a los citados comités y funcionarios en materia de aprobación de créditos, así como, en su caso, la estructura y funcionamiento de los comités.

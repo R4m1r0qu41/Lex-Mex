@@ -11,13 +11,13 @@ temporal_status: effective
 review_status: machine_accepted
 amendment_marks: [43]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título QUINTO · Capítulo XIII
 
 # Artículo 349
 
-Las Instituciones deberán contar con una Unidad Especializada en materia de seguridad y protección, la cual, en coordinación con las áreas correspondientes, establecerá los lineamientos a que deberá sujetarse la selección y reclutamiento de los empleados, factores o dependientes de sus Oficinas Bancarias o de quienes presten servicios en ellas. En todo caso, los citados lineamientos incluirán lo relativo a la capacitación permanente sobre el control de acceso a las Oficinas Bancarias y áreas restringidas, el manejo de los dispositivos de protección y la conducta que se deberá asumir en caso de Siniestro. Asimismo, las Unidades Especializadas deberán coordinarse con las Sociedades de Apoyo que, en su caso, constituyan las Instituciones de que se trate.
+Las Instituciones deberán contar con una [Unidad Especializada](articulo-1.md) en materia de seguridad y protección, la cual, en coordinación con las áreas correspondientes, establecerá los lineamientos a que deberá sujetarse la selección y reclutamiento de los empleados, factores o dependientes de sus [Oficinas Bancarias](articulo-1.md) o de quienes presten servicios en ellas. En todo caso, los citados lineamientos incluirán lo relativo a la capacitación permanente sobre el control de acceso a las Oficinas Bancarias y áreas restringidas, el manejo de los dispositivos de protección y la conducta que se deberá asumir en caso de [Siniestro](articulo-1.md). Asimismo, las Unidades Especializadas deberán coordinarse con las Sociedades de Apoyo que, en su caso, constituyan las Instituciones de que se trate.
 
 Las Instituciones que contraten personal de seguridad y protección bancaria deberán sujetarse a lo dispuesto en el presente Capítulo así como a las disposiciones legales aplicables, con el objeto de propiciar la seguridad en las Oficinas Bancarias.
