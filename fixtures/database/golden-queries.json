@@ -94,17 +94,16 @@
       ]
     },
     {
-      "name": "G6 active LFD structural debt",
-      "sql": "SELECT json_extract(extras,'$.containing_provision_id'),json_extract(extras,'$.start_char'),json_extract(extras,'$.end_char') FROM known_structural_debt WHERE instrument_id=?1 AND printed_label=?2",
+      "name": "G6 retired LFD heading is a standalone article and no LFD debt is active",
+      "sql": "SELECT (SELECT count(*) FROM provisions WHERE id=?1),(SELECT count(*) FROM known_structural_debt WHERE instrument_id=?2)",
       "parameters": [
-        "urn:lex-mx:federal:statute:lfd",
-        "257 Sextus"
+        "urn:lex-mx:federal:statute:lfd:article:257-sextus",
+        "urn:lex-mx:federal:statute:lfd"
       ],
       "expected": [
         [
-          "urn:lex-mx:federal:statute:lfd:article:257-quintus",
-          100,
-          121
+          1,
+          0
         ]
       ]
     },
@@ -259,8 +258,8 @@
       "parameters": [],
       "expected": [
         [
-          6,
-          17
+          2,
+          4
         ]
       ]
     }
