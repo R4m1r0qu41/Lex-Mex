@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAero.pdf
 source_sha256: c78882a0177403ee04cd38dd09fa1657dc221b7f6827ddacf251c699ede867e4
 ---
 
-> Capítulo III
+> Capítulo III · Sección primera
 
 # Artículo 12
 

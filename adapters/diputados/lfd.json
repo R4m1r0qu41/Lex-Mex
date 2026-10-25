@@ -10,7 +10,7 @@
   "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfd.htm",
   "publisher": "Cámara de Diputados del H. Congreso de la Unión",
   "publication_date": "1981-12-31",
-  "expected_articles": 784,
+  "expected_articles": 787,
   "expected_transitories": 9,
   "count_baseline": {
     "provenance": "machine-proposed",

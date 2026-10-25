@@ -20,15 +20,3 @@ source_sha256: 64b08a1ff8e5c71759acf550cf9c8df7eb343ea679a2c2663d0eef3db19f10df
 (Se deroga)
 
 Artículo adicionado DOF 13-11-2008. Reformado DOF 27-11-2009. Derogado DOF 11-08-2014
-
-Artículo [257](articulo-257.md) Sextus. (Se deroga)
-
-Artículo adicionado DOF 13-11-2008. Reformado DOF 27-11-2009. Derogado DOF 11-08-2014
-
-Artículo [257](articulo-257.md) Séptimus. (Se deroga)
-
-Artículo adicionado DOF 27-11-2009. Derogado DOF 11-08-2014
-
-Artículo [257](articulo-257.md) Octavus. (Se deroga)
-
-Artículo adicionado DOF 27-11-2009. Derogado DOF 11-08-2014

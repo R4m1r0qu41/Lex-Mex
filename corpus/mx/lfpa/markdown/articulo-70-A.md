@@ -29,7 +29,9 @@ IV. (Se deroga) Fracción derogada DOF 18-05-2018
 
 V. (Se deroga) Fracción derogada DOF 18-05-2018
 
-VI. (Se deroga) Fracción derogada DOF 18-05-2018 VII. (Se deroga) Fracción derogada DOF 18-05-2018
+VI. (Se deroga) Fracción derogada DOF 18-05-2018
+
+VII. (Se deroga) Fracción derogada DOF 18-05-2018
 
 VIII. (Se deroga) Fracción derogada DOF 18-05-2018
 
