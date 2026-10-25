@@ -1,0 +1,404 @@
+{
+ "date": "2026-10-25",
+ "head": "e3ad94ee3bf6e5a5ec34274ad77af10ce88bcf1d",
+ "review_tier": "advisor only (same model family); no independent review yet",
+ "committed_or_applied": "nothing: no commit, no corpus change; parser candidate uncommitted",
+ "worktree": {
+  "path": "/Users/jr/Dev/lex-mex-parser-repair",
+  "branch": "repair/itf-dcg-heading-separator-2026-10-25",
+  "base": "e3ad94ee3bf6e5a5ec34274ad77af10ce88bcf1d"
+ },
+ "candidate": {
+  "file": "crates/lex-parse/src/itf.rs",
+  "itf_rs_sha256": "49b957822b8426d6add33477441ae12e31c72cd6b330493c23b87ff0db3d6570",
+  "patch": ".work/parser-repair-20261025/parser-candidate.patch",
+  "patch_sha256": "eac9ff5b33627b94c8ae86cb3541868e050f81444484226521d5f9b560e0f1c4",
+  "regex_old": "\\s*\\.-\\s*(.*)$",
+  "regex_new": "\\s*\\.?\\s*[-–]\\s*(.*)$",
+  "edits": [
+   "crates/lex-parse/src/itf.rs: article-heading separator",
+   "crates/lex-parse/src/diputados.rs line 2057: reform-evidence publication regex accepts publicados/publicadas"
+  ],
+  "diputados_rs_sha256": "36c8af8c4062cd9d8b50f310c8fd650061efcb57e04272625d991ea13a6243f1",
+  "superseded_patch": ".work/parser-repair-20261025/itf-separator-candidate.patch"
+ },
+ "binaries": {
+  "B": "5c4a3f29acb7e5a1de6766f011a9d48f387178c2f38a592cfb11f2aef03c7730",
+  "C3": "31e21bc7c7afe31435486a942cad36de44db5dc6712c131f16eddbea83508235",
+  "candidate": "cb575827894ba8e58717c481ce60d1721d25210e1800b1da1361b1db828c165a"
+ },
+ "checks": {
+  "cargo_fmt_check": "pass",
+  "clippy_strict_workspace_all_targets": "pass on local 1.95 (mech) and +1.99.0",
+  "cargo_test_workspace": "434 passed, 0 failed, 0 ignored (430 plus 4 new), via mech",
+  "positive_test_on_old_regex": "FAILED as required",
+  "negative_test_on_old_regex": "passed (adds no false match)",
+  "exit_status_capture": "mech runs could not capture script exit status under zsh; printed results are the evidence",
+  "not_run": [
+   "locked LRITF/IFPE validators",
+   "DB verify and 21 goldens"
+  ],
+  "new_tests_on_old_code": "itf positive and diputados plural-note tests fail on the old regex; itf negative passes on both; diputados citation test fails on old (no date)"
+ },
+ "replay_others": {
+  "cjm": {
+   "exact_pair": true,
+   "exits_B": [
+    0,
+    1
+   ],
+   "exits_C3": [
+    0,
+    1
+   ],
+   "replay_issue_codes": [
+    "article_count_exact"
+   ],
+   "committed_counts": [
+    952,
+    4,
+    103
+   ]
+  },
+  "cucb-dcg-2004": {
+   "exact_pair": true,
+   "exits_B": [
+    0,
+    1
+   ],
+   "exits_C3": [
+    0,
+    1
+   ],
+   "replay_issue_codes": [
+    "counts_not_frozen",
+    "unresolved_internal_reference"
+   ],
+   "committed_counts": [
+    337,
+    8,
+    375
+   ]
+  },
+  "laero": {
+   "exact_pair": true,
+   "exits_B": [
+    0,
+    1
+   ],
+   "exits_C3": [
+    0,
+    1
+   ],
+   "replay_issue_codes": [
+    "article_count_exact"
+   ],
+   "committed_counts": [
+    100,
+    7,
+    36
+   ]
+  },
+  "oaac-dcg-2009": {
+   "exact_pair": true,
+   "exits_B": [
+    0,
+    1
+   ],
+   "exits_C3": [
+    0,
+    1
+   ],
+   "replay_issue_codes": [
+    "article_gap",
+    "counts_not_frozen",
+    "unresolved_internal_reference"
+   ],
+   "committed_counts": [
+    295,
+    8,
+    340
+   ]
+  },
+  "oga": {
+   "exact_pair": true,
+   "exits_B": [
+    0,
+    1,
+    0
+   ],
+   "exits_C3": [
+    0,
+    1,
+    0
+   ],
+   "replay_issue_codes": [],
+   "committed_counts": [
+    1868,
+    1,
+    80
+   ]
+  },
+  "scap-dcg-2012": {
+   "exact_pair": true,
+   "exits_B": [
+    0,
+    1
+   ],
+   "exits_C3": [
+    0,
+    1
+   ],
+   "replay_issue_codes": [
+    "unknown_amendment_mark"
+   ],
+   "committed_counts": [
+    382,
+    10,
+    351
+   ]
+  },
+  "lftr": {
+   "exact_pair": true,
+   "exits_B": [
+    1,
+    1
+   ],
+   "exits_C3": [
+    1,
+    1
+   ],
+   "replay_issue_codes": [],
+   "committed_counts": [
+    324,
+    0,
+    106
+   ]
+  }
+ },
+ "ab_candidate_vs_C3": {
+  "cub-dcg-2005": {
+   "input_exact": false,
+   "exits_C3": [
+    0,
+    1
+   ],
+   "exits_candidate": [
+    0,
+    1
+   ],
+   "files_compared": 11,
+   "changed_files": [
+    "corpus/mx/cub-dcg-2005/glossary-coverage.json",
+    "corpus/mx/cub-dcg-2005/provisions.json",
+    "corpus/mx/cub-dcg-2005/references.json",
+    "corpus/mx/cub-dcg-2005/term-usages.json",
+    "corpus/mx/cub-dcg-2005/validation.json"
+   ]
+  },
+  "cucb-dcg-2004": {
+   "input_exact": true,
+   "exits_C3": [
+    0,
+    1
+   ],
+   "exits_candidate": [
+    0,
+    0
+   ],
+   "files_compared": 11,
+   "changed_files": [
+    "corpus/mx/cucb-dcg-2004/provisions.json",
+    "corpus/mx/cucb-dcg-2004/references.json",
+    "corpus/mx/cucb-dcg-2004/term-usages.json",
+    "corpus/mx/cucb-dcg-2004/validation.json"
+   ]
+  },
+  "oaac-dcg-2009": {
+   "input_exact": true,
+   "exits_C3": [
+    0,
+    1
+   ],
+   "exits_candidate": [
+    0,
+    0
+   ],
+   "files_compared": 11,
+   "changed_files": [
+    "corpus/mx/oaac-dcg-2009/glossary-coverage.json",
+    "corpus/mx/oaac-dcg-2009/provisions.json",
+    "corpus/mx/oaac-dcg-2009/references.json",
+    "corpus/mx/oaac-dcg-2009/term-usages.json",
+    "corpus/mx/oaac-dcg-2009/validation.json"
+   ]
+  },
+  "scap-dcg-2012": {
+   "input_exact": true,
+   "exits_C3": [
+    0,
+    1
+   ],
+   "exits_candidate": [
+    0,
+    1
+   ],
+   "files_compared": 11,
+   "changed_files": []
+  },
+  "cue-dcg-2003": {
+   "input_exact": true,
+   "exits_C3": [
+    0,
+    0
+   ],
+   "exits_candidate": [
+    0,
+    0
+   ],
+   "files_compared": 11,
+   "changed_files": []
+  },
+  "fi-dcg-2014": {
+   "input_exact": true,
+   "exits_C3": [
+    0,
+    0
+   ],
+   "exits_candidate": [
+    0,
+    0
+   ],
+   "files_compared": 11,
+   "changed_files": []
+  },
+  "itf-dcg-2018": {
+   "input_exact": true,
+   "exits_C3": [
+    0,
+    0
+   ],
+   "exits_candidate": [
+    0,
+    0
+   ],
+   "files_compared": 11,
+   "changed_files": []
+  }
+ },
+ "provisions_added": {
+  "cub-dcg-2005 (new edition)": [
+   "140",
+   "175-bis-4",
+   "319-bis",
+   "319-bis-1",
+   "319-bis-2",
+   "319-bis-3",
+   "319-bis-5"
+  ],
+  "cucb-dcg-2004": [
+   "117-bis-5"
+  ],
+  "oaac-dcg-2009": [
+   "12-bis",
+   "105-bis",
+   "106"
+  ]
+ },
+ "provisions_removed": [],
+ "cub_input": {
+  "retained_pdf_sha256": "c41084b31061b6601af9f41cd6f08db5a8a98a8f44ecbdbd2bd601746f7def48",
+  "retained_txt_sha256": "c35fe56978e845192f91bed559d6add337dba49d3d15819ce17bafd6cf78c1b9",
+  "manifest_pdf_sha256": "f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b",
+  "status": "changed edition; baseline pair not located"
+ },
+ "open": [
+  "lrascap second guard (ordinal collision across enactment layers)",
+  "five changed editions not admitted",
+  "reparse/retire authorization for the stale-count group",
+  "LRITF/IFPE validators and DB verify not run",
+  "servinv-dcg-2013 and socap-sofipo-dcg-2006 covered by unit tests only for the itf edit"
+ ],
+ "legal_decisions_changed": 0,
+ "corpus_files_changed": 0,
+ "tools": {
+  "replay_script": ".work/parser-repair-20261025/replay-others.py",
+  "replay_script_sha256": "0abbc30480d482d3ec629b2291f72ba57aa003d232cb49732460fcd454e91579",
+  "ab_script": ".work/parser-repair-20261025/ab-itf.py",
+  "ab_script_sha256": "6f7a7bdebb31eb88a8f1ee9ca958690ac03644acee684d326b4d035c962bd5e9",
+  "replay_result_sha256": "c30dea0591ca2cce0f79129f5adac19960c826385fd95c6445282a34f931ea07",
+  "ab_result_sha256": "0a1f6328bbfc909db8561eb6f6e5e04b9a40a5296ef7adef81c2a0b9d658ee09",
+  "replay_all_sha256": "8026cb0b1c4455eae6d7a463dabd68b2163c5ad81d12bc6abdaed92c5ac1e452",
+  "acquire_sha256": "9d13bc13f33a4955b91239d0d8cd317be3bc24e2b66c6c6828849382475f78f6"
+ },
+ "acquisition": {
+  "dir": ".work/parser-repair-20261025/acquisition",
+  "tool": "pdftotext version 26.09.0",
+  "summary": {
+   "exact_pair_recovered": 102,
+   "changed_edition": 5
+  },
+  "changed_edition": [
+   "ligie",
+   "reg-laero",
+   "reg-lfda",
+   "socap-sofipo-dcg-2006",
+   "cub-dcg-2005"
+  ],
+  "summary_sha256": "b2b370990b854afb5abd886888bdbe7157a779335dff8cf0dae6c2ac861cffe5",
+  "note": "every URL fetched once, sequentially, into a new directory; nothing under corpus/ or existing .work written; 'lfiiedb' recovered earlier"
+ },
+ "replay_recovered_102": {
+  "B_vs_C3_identical": 102,
+  "candidate_vs_C3_identical": 101,
+  "candidate_difference": "lscs fails closed at C3, parses at candidate",
+  "clean_bare_root": 61,
+  "clean_with_context_staged": 34,
+  "stale_count_validate_failures": [
+   "lfd",
+   "lfdo",
+   "lfpa"
+  ],
+  "parser_fail_closed": [
+   "lscs (fixed by candidate)",
+   "lrascap (diagnosed, two nested guards, not fixed)"
+  ],
+  "result_files": [
+   ".work/parser-repair-20261025/replay-all-result.json",
+   ".work/parser-repair-20261025/replay-ctx-result.json"
+  ],
+  "result_sha256": {
+   "replay-all": "300674bac0b9234d59eeeea7f4b71eeafe6da14cc34395a9e583cffc3c3b7e2d",
+   "replay-ctx": "5bbe9c6cfc1adbc18926a5d49a65d6389c6b629db1c10ce792490facbca8d1f0"
+  }
+ },
+ "r1_replay": {
+  "baseline_parser_already_splits": {
+   "lfd": [
+    "257-sextus",
+    "257-septimus",
+    "257-octavus"
+   ],
+   "lfdo": [
+    "12-quintus"
+   ],
+   "lfpa": [
+    "69-c-bis"
+   ],
+   "laero": [
+    "73-decies..73-octodecies (9)"
+   ],
+   "cjm": [
+    "30-sextus",
+    "30-septimus"
+   ],
+   "lftr": [
+    "180-quintes",
+    "180-sextus",
+    "180-septimus"
+   ]
+  },
+  "corpus_changed": 0,
+  "retirement_seeds_written": 0
+ }
+}
