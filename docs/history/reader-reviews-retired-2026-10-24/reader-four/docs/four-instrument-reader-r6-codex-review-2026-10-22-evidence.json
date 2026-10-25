@@ -1,0 +1,510 @@
+{
+  "head": "256d1b410917d435b1e355c3b84a71d190f658bc",
+  "sources": {
+    "reader/reader.js": "68344a3001803e3282c135259383d07f1ad3225f7e934c5f71476d4b2879a28a",
+    "reader/browser-check.mjs": "954951a3a292af81eda17304e9ba076574edf0004d24c7e5d8d64fd8f89f35f9"
+  },
+  "packages": {
+    "preferred": {
+      "publication_id": "8eb8d8b4fcfd09c7b9414263494789207de38ea1968b01103fbb010df2b65a6f",
+      "id_valid": true,
+      "listed": 1790,
+      "disk": 1791,
+      "bad_files": [],
+      "extra_files": [],
+      "a_equals_b": true,
+      "r5_delta": [
+        "publication.json",
+        "reader.js"
+      ],
+      "source_equals_shipped": true,
+      "manifest_hash_valid": true
+    },
+    "fallback": {
+      "publication_id": "9afcaedbd7aad277cdd4d0c63ee0a019675cf0b933454b2594d1dfa299b2a30a",
+      "id_valid": true,
+      "listed": 1784,
+      "disk": 1785,
+      "bad_files": [],
+      "extra_files": [],
+      "a_equals_b": true,
+      "r5_delta": [
+        "publication.json",
+        "reader.js"
+      ],
+      "source_equals_shipped": true,
+      "manifest_hash_valid": true
+    }
+  },
+  "reports": {
+    ".work/evidence/r5/r11-final-fallback-1.json": {
+      "sha256": "0464a2a712afad7d1568957b0fbbb995662c4912319a1710b356ac5c1d7ef886",
+      "passed": 54,
+      "failed": 0,
+      "not_applicable": [
+        "deep link lic Artículo 112 Quintus: provision not in this release",
+        "deep link lic Artículo 112 Sextus: provision not in this release",
+        "deep link lic Artículo 112 Séptimus: provision not in this release"
+      ],
+      "actual_passed": 54,
+      "actual_failed": 0,
+      "terminal": [
+        {
+          "scenario": "terminal recovery cap (fault injection): unaligned hold ends with a notice, tracking resumes, new navigation re-holds",
+          "ok": true,
+          "requested": "Artículo 193",
+          "readingLine": "Artículo 191",
+          "ui": "Artículo 191",
+          "index": true,
+          "urlProvision": true,
+          "copyExact": true,
+          "notice": {
+            "visible": true,
+            "text": "No se pudo mantener la posición solicitada; la selección sigue el texto visible."
+          },
+          "exhaustedMarks": 1,
+          "intentMarks": 0,
+          "scrollsWhileIdle": 0,
+          "afterReaderScroll": {
+            "truth": "Artículo 191",
+            "ui": "Artículo 191",
+            "copyExact": true,
+            "intentMarks": 0
+          },
+          "afterNewNavigation": {
+            "ui": "Artículo 193",
+            "truth": "Artículo 193",
+            "copyExact": true,
+            "offsetBelowBar": 8,
+            "scrollsWhileIdle": 0
+          }
+        }
+      ],
+      "storm": [
+        {
+          "scenario": "long resize storm: budget bounded, target realigned after quiet",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "offsetBelowBar": 8,
+          "exhaustedMarks": 1,
+          "scrollsWhileIdleAfterRecovery": 0,
+          "stormMs": 17645,
+          "intentMarks": 0
+        }
+      ]
+    },
+    ".work/evidence/r5/r11-final-legacy-staged.json": {
+      "sha256": "6441fa611056723deaeed66106ad417fffc7ce1895fd5ee8b01de97a5305c297",
+      "passed": 72,
+      "failed": 0,
+      "not_applicable": [],
+      "actual_passed": 72,
+      "actual_failed": 0,
+      "terminal": [
+        {
+          "scenario": "terminal recovery cap (fault injection): unaligned hold ends with a notice, tracking resumes, new navigation re-holds",
+          "ok": true,
+          "requested": "Artículo 193",
+          "readingLine": "Artículo 191",
+          "ui": "Artículo 191",
+          "index": true,
+          "urlProvision": true,
+          "copyExact": true,
+          "notice": {
+            "visible": true,
+            "text": "No se pudo mantener la posición solicitada; la selección sigue el texto visible."
+          },
+          "exhaustedMarks": 1,
+          "intentMarks": 0,
+          "scrollsWhileIdle": 0,
+          "afterReaderScroll": {
+            "truth": "Artículo 191",
+            "ui": "Artículo 191",
+            "copyExact": true,
+            "intentMarks": 0
+          },
+          "afterNewNavigation": {
+            "ui": "Artículo 193",
+            "truth": "Artículo 193",
+            "copyExact": true,
+            "offsetBelowBar": 8,
+            "scrollsWhileIdle": 0
+          }
+        }
+      ],
+      "storm": [
+        {
+          "scenario": "long resize storm: budget bounded, target realigned after quiet",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "offsetBelowBar": 8,
+          "exhaustedMarks": 1,
+          "scrollsWhileIdleAfterRecovery": 0,
+          "stormMs": 17225,
+          "intentMarks": 0
+        }
+      ]
+    },
+    ".work/evidence/r5/r11-final-preferred-1.json": {
+      "sha256": "1a5c70effc88598602673606ab7c90ff9cae2b667975e5473f15a6a0fcd88d91",
+      "passed": 57,
+      "failed": 0,
+      "not_applicable": [],
+      "actual_passed": 57,
+      "actual_failed": 0,
+      "terminal": [
+        {
+          "scenario": "terminal recovery cap (fault injection): unaligned hold ends with a notice, tracking resumes, new navigation re-holds",
+          "ok": true,
+          "requested": "Artículo 193",
+          "readingLine": "Artículo 191",
+          "ui": "Artículo 191",
+          "index": true,
+          "urlProvision": true,
+          "copyExact": true,
+          "notice": {
+            "visible": true,
+            "text": "No se pudo mantener la posición solicitada; la selección sigue el texto visible."
+          },
+          "exhaustedMarks": 1,
+          "intentMarks": 0,
+          "scrollsWhileIdle": 0,
+          "afterReaderScroll": {
+            "truth": "Artículo 191",
+            "ui": "Artículo 191",
+            "copyExact": true,
+            "intentMarks": 0
+          },
+          "afterNewNavigation": {
+            "ui": "Artículo 193",
+            "truth": "Artículo 193",
+            "copyExact": true,
+            "offsetBelowBar": 8,
+            "scrollsWhileIdle": 0
+          }
+        }
+      ],
+      "storm": [
+        {
+          "scenario": "long resize storm: budget bounded, target realigned after quiet",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "offsetBelowBar": 8,
+          "exhaustedMarks": 1,
+          "scrollsWhileIdleAfterRecovery": 0,
+          "stormMs": 17818,
+          "intentMarks": 0
+        }
+      ]
+    },
+    ".work/evidence/r5/r11-final-preferred-noanchor.json": {
+      "sha256": "9c9523cabe7350682f633720ceef282c2377df722c06ae7a563684db43c4b5da",
+      "passed": 57,
+      "failed": 0,
+      "not_applicable": [],
+      "actual_passed": 57,
+      "actual_failed": 0,
+      "terminal": [
+        {
+          "scenario": "terminal recovery cap (fault injection): unaligned hold ends with a notice, tracking resumes, new navigation re-holds",
+          "ok": true,
+          "requested": "Artículo 193",
+          "readingLine": "Artículo 191",
+          "ui": "Artículo 191",
+          "index": true,
+          "urlProvision": true,
+          "copyExact": true,
+          "notice": {
+            "visible": true,
+            "text": "No se pudo mantener la posición solicitada; la selección sigue el texto visible."
+          },
+          "exhaustedMarks": 1,
+          "intentMarks": 0,
+          "scrollsWhileIdle": 0,
+          "afterReaderScroll": {
+            "truth": "Artículo 191",
+            "ui": "Artículo 191",
+            "copyExact": true,
+            "intentMarks": 0
+          },
+          "afterNewNavigation": {
+            "ui": "Artículo 193",
+            "truth": "Artículo 193",
+            "copyExact": true,
+            "offsetBelowBar": 8,
+            "scrollsWhileIdle": 0
+          }
+        }
+      ],
+      "storm": [
+        {
+          "scenario": "long resize storm: budget bounded, target realigned after quiet",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "offsetBelowBar": 8,
+          "exhaustedMarks": 1,
+          "scrollsWhileIdleAfterRecovery": 0,
+          "stormMs": 17466,
+          "intentMarks": 0
+        }
+      ]
+    },
+    ".work/evidence/r5/r11-harness-on-r10-fallback-a.json": {
+      "sha256": "37b480c8501f73b50ce4e396c504d27082e1a76a5956db71d38c29f78fea68a6",
+      "passed": 53,
+      "failed": 1,
+      "not_applicable": [
+        "deep link lic Artículo 112 Quintus: provision not in this release",
+        "deep link lic Artículo 112 Sextus: provision not in this release",
+        "deep link lic Artículo 112 Séptimus: provision not in this release"
+      ],
+      "actual_passed": 53,
+      "actual_failed": 1,
+      "terminal": [
+        {
+          "scenario": "terminal recovery cap (fault injection): unaligned hold ends with a notice, tracking resumes, new navigation re-holds",
+          "ok": false,
+          "requested": "Artículo 193",
+          "readingLine": "Artículo 191",
+          "ui": "Artículo 193",
+          "index": false,
+          "urlProvision": false,
+          "copyExact": false,
+          "notice": {
+            "visible": false,
+            "text": ""
+          },
+          "exhaustedMarks": 1,
+          "intentMarks": 0,
+          "scrollsWhileIdle": 0,
+          "afterReaderScroll": {
+            "truth": "Artículo 191",
+            "ui": "Artículo 191",
+            "copyExact": true,
+            "intentMarks": 1
+          },
+          "afterNewNavigation": {
+            "ui": "Artículo 193",
+            "truth": "Artículo 193",
+            "copyExact": true,
+            "offsetBelowBar": 8,
+            "scrollsWhileIdle": 0
+          }
+        }
+      ],
+      "storm": [
+        {
+          "scenario": "long resize storm: budget bounded, target realigned after quiet",
+          "ok": true,
+          "ui": "Artículo 193",
+          "truth": "Artículo 193",
+          "offsetBelowBar": 8,
+          "exhaustedMarks": 1,
+          "scrollsWhileIdleAfterRecovery": 0,
+          "stormMs": 17709,
+          "intentMarks": 0
+        }
+      ]
+    }
+  },
+  "independent_focused_runs": [
+    {
+      "publication": "/Users/jr/Dev/lex-mex-reader-four/.work/r11-preferred-a",
+      "releaseId": "9626bfe45c4ebc95b47351fd20c1de86f9b4f54856aee1de6d408e5d8389991f",
+      "anchoring": true,
+      "results": [
+        {
+          "scenario": "terminal recovery cap (fault injection): unaligned hold ends with a notice, tracking resumes, new navigation re-holds",
+          "ok": true,
+          "requested": "Artículo 193",
+          "readingLine": "Artículo 191",
+          "ui": "Artículo 191",
+          "index": true,
+          "urlProvision": true,
+          "copyExact": true,
+          "notice": {
+            "visible": true,
+            "text": "No se pudo mantener la posición solicitada; la selección sigue el texto visible."
+          },
+          "exhaustedMarks": 1,
+          "intentMarks": 0,
+          "scrollsWhileIdle": 0,
+          "afterReaderScroll": {
+            "truth": "Artículo 191",
+            "ui": "Artículo 191",
+            "copyExact": true,
+            "intentMarks": 0
+          },
+          "afterNewNavigation": {
+            "ui": "Artículo 193",
+            "truth": "Artículo 193",
+            "copyExact": true,
+            "offsetBelowBar": 8,
+            "scrollsWhileIdle": 0
+          }
+        }
+      ],
+      "pageErrors": []
+    },
+    {
+      "publication": "/Users/jr/Dev/lex-mex-reader-four/.work/r11-fallback-a",
+      "releaseId": "3c04016651e2fd4169632756e96ec19136136e1f42c4ed666070f23f20b30660",
+      "anchoring": true,
+      "results": [
+        {
+          "scenario": "terminal recovery cap (fault injection): unaligned hold ends with a notice, tracking resumes, new navigation re-holds",
+          "ok": true,
+          "requested": "Artículo 193",
+          "readingLine": "Artículo 191",
+          "ui": "Artículo 191",
+          "index": true,
+          "urlProvision": true,
+          "copyExact": true,
+          "notice": {
+            "visible": true,
+            "text": "No se pudo mantener la posición solicitada; la selección sigue el texto visible."
+          },
+          "exhaustedMarks": 1,
+          "intentMarks": 0,
+          "scrollsWhileIdle": 0,
+          "afterReaderScroll": {
+            "truth": "Artículo 191",
+            "ui": "Artículo 191",
+            "copyExact": true,
+            "intentMarks": 0
+          },
+          "afterNewNavigation": {
+            "ui": "Artículo 193",
+            "truth": "Artículo 193",
+            "copyExact": true,
+            "offsetBelowBar": 8,
+            "scrollsWhileIdle": 0
+          }
+        }
+      ],
+      "pageErrors": []
+    },
+    {
+      "publication": "/Users/jr/Dev/lex-mex-reader-four/.work/r11-legacy-stage",
+      "releaseId": "9626bfe45c4ebc95b47351fd20c1de86f9b4f54856aee1de6d408e5d8389991f",
+      "anchoring": true,
+      "results": [
+        {
+          "scenario": "terminal recovery cap (fault injection): unaligned hold ends with a notice, tracking resumes, new navigation re-holds",
+          "ok": true,
+          "requested": "Artículo 193",
+          "readingLine": "Artículo 191",
+          "ui": "Artículo 191",
+          "index": true,
+          "urlProvision": true,
+          "copyExact": true,
+          "notice": {
+            "visible": true,
+            "text": "No se pudo mantener la posición solicitada; la selección sigue el texto visible."
+          },
+          "exhaustedMarks": 1,
+          "intentMarks": 0,
+          "scrollsWhileIdle": 0,
+          "afterReaderScroll": {
+            "truth": "Artículo 191",
+            "ui": "Artículo 191",
+            "copyExact": true,
+            "intentMarks": 0
+          },
+          "afterNewNavigation": {
+            "ui": "Artículo 193",
+            "truth": "Artículo 193",
+            "copyExact": true,
+            "offsetBelowBar": 8,
+            "scrollsWhileIdle": 0
+          }
+        }
+      ],
+      "pageErrors": []
+    },
+    {
+      "publication": "/Users/jr/Dev/lex-mex-reader-four/.work/r11-preferred-a",
+      "releaseId": "9626bfe45c4ebc95b47351fd20c1de86f9b4f54856aee1de6d408e5d8389991f",
+      "anchoring": false,
+      "results": [
+        {
+          "scenario": "terminal recovery cap (fault injection): unaligned hold ends with a notice, tracking resumes, new navigation re-holds",
+          "ok": true,
+          "requested": "Artículo 193",
+          "readingLine": "Artículo 191",
+          "ui": "Artículo 191",
+          "index": true,
+          "urlProvision": true,
+          "copyExact": true,
+          "notice": {
+            "visible": true,
+            "text": "No se pudo mantener la posición solicitada; la selección sigue el texto visible."
+          },
+          "exhaustedMarks": 1,
+          "intentMarks": 0,
+          "scrollsWhileIdle": 0,
+          "afterReaderScroll": {
+            "truth": "Artículo 191",
+            "ui": "Artículo 191",
+            "copyExact": true,
+            "intentMarks": 0
+          },
+          "afterNewNavigation": {
+            "ui": "Artículo 193",
+            "truth": "Artículo 193",
+            "copyExact": true,
+            "offsetBelowBar": 8,
+            "scrollsWhileIdle": 0
+          }
+        }
+      ],
+      "pageErrors": []
+    },
+    {
+      "publication": "/Users/jr/Dev/lex-mex-reader-four/.work/r10-fallback-a",
+      "releaseId": "3c04016651e2fd4169632756e96ec19136136e1f42c4ed666070f23f20b30660",
+      "anchoring": true,
+      "results": [
+        {
+          "scenario": "terminal recovery cap (fault injection): unaligned hold ends with a notice, tracking resumes, new navigation re-holds",
+          "ok": false,
+          "requested": "Artículo 193",
+          "readingLine": "Artículo 191",
+          "ui": "Artículo 193",
+          "index": false,
+          "urlProvision": false,
+          "copyExact": false,
+          "notice": {
+            "visible": false,
+            "text": ""
+          },
+          "exhaustedMarks": 1,
+          "intentMarks": 0,
+          "scrollsWhileIdle": 0,
+          "afterReaderScroll": {
+            "truth": "Artículo 191",
+            "ui": "Artículo 191",
+            "copyExact": true,
+            "intentMarks": 1
+          },
+          "afterNewNavigation": {
+            "ui": "Artículo 193",
+            "truth": "Artículo 193",
+            "copyExact": true,
+            "offsetBelowBar": 8,
+            "scrollsWhileIdle": 0
+          }
+        }
+      ],
+      "pageErrors": []
+    }
+  ],
+  "focused_runner_source": "// Event-level browser regression for continuous reading. Drives a real headless Chrome over the DevTools\n// protocol (no dependencies) against a packaged publication, and checks that the active label, index,\n// exact copy body, share URL and replaced URL track the article at the reading line under real scroll\n// events. Kept out of `node --test reader/` on purpose: it needs Chrome, and a silent skip would weaken\n// that gate. Usage: node reader/browser-check.mjs --publication DIR [--chrome PATH] [--no-scroll-anchoring] [--legacy-release ID] [--out FILE]\nimport {spawn} from 'node:child_process';\nimport {mkdtemp,readFile,rm,writeFile} from 'node:fs/promises';\nimport {tmpdir} from 'node:os';\nimport {join,resolve} from 'node:path';\nimport {pathToFileURL} from 'node:url';\nimport {createReaderServer} from '/Users/jr/Dev/lex-mex-reader-four/reader/serve.mjs';\n\nconst sleep=ms=>new Promise(r=>setTimeout(r,ms));\nconst defaultChrome='/Applications/Google Chrome.app/Contents/MacOS/Google Chrome';\n\n// Page-side probes, installed before the reader runs. They read the DOM only; the shipped bytes are untouched.\nconst probes=`(()=>{\n  window.__scrolls=0;{const scrollTo=Element.prototype.scrollTo;Element.prototype.scrollTo=function(...args){window.__scrolls++;return scrollTo.apply(this,args);};}\n  window.__errors=[];addEventListener('error',e=>window.__errors.push(String(e.message||e)));addEventListener('unhandledrejection',e=>window.__errors.push(String(e.reason)));\n  window.__pushes=[];const push=history.pushState.bind(history);history.pushState=(...args)=>{window.__pushes.push(String(args[2]));return push(...args);};\n  Object.defineProperty(navigator,'clipboard',{configurable:true,value:{writeText:async text=>{window.__copied=text;}}});\n  const col=()=>document.getElementById('article');\n  const nodes=()=>[...document.querySelectorAll('#flow > article.provision')];\n  window.__probe={\n    line:()=>document.getElementById('active-bar').offsetHeight+24,\n    top:i=>nodes()[i].getBoundingClientRect().top-col().getBoundingClientRect().top,\n    height:i=>nodes()[i].getBoundingClientRect().height,\n    count:()=>nodes().length,\n    // The article whose top last crossed the reading line, computed from layout alone.\n    truth(){const line=this.line(),base=col().getBoundingClientRect().top;let best=0;for(const n of nodes()){if(n.getBoundingClientRect().top-base<=line)best=Number(n.dataset.index);else break;}return best;},\n    // Which articles intersect the observer root (upper half of the reading column's padding box).\n    membership(){const c=col(),r=c.getBoundingClientRect(),top=r.top+c.clientTop,bottom=top+c.clientHeight*0.5;return nodes().filter(n=>{const b=n.getBoundingClientRect();return b.bottom>top&&b.top<bottom;}).map(n=>Number(n.dataset.index));},\n    ui(){const current=document.querySelector('#provision-list button[aria-current=\"true\"]');const params=new URL(location.href).searchParams;return {label:document.getElementById('active-label').textContent,current:current?.dataset.provision??null,title:document.title,instrument:document.getElementById('instrument').value,pushes:window.__pushes.length,urlProvision:params.get('provision'),urlInstrument:params.get('instrument'),history:history.length};},\n    scrollBy(dy){col().scrollTop+=dy;},\n    ready:()=>performance.getEntriesByName('reader:flow-complete').length>0,\n    firstChunk:()=>performance.getEntriesByName('reader:first-chunk').length>0,\n    frames:()=>new Promise(r=>requestAnimationFrame(()=>requestAnimationFrame(r))),\n    async copy(id){window.__copied=undefined;document.getElementById(id).click();for(let i=0;i<50&&window.__copied===undefined;i++)await new Promise(r=>setTimeout(r,10));return window.__copied;}\n  };\n})();`;\n\nexport class Page {\n  constructor(ws){this.ws=ws;this.id=0;this.pending=new Map();ws.addEventListener('message',event=>{const msg=JSON.parse(event.data);if(msg.id&&this.pending.has(msg.id)){const {resolve,reject}=this.pending.get(msg.id);this.pending.delete(msg.id);msg.error?reject(new Error(msg.error.message)):resolve(msg.result);}});}\n  send(method,params={}){const id=++this.id;this.ws.send(JSON.stringify({id,method,params}));return new Promise((resolve,reject)=>this.pending.set(id,{resolve,reject}));}\n  async eval(expression){const result=await this.send('Runtime.evaluate',{expression,awaitPromise:true,returnByValue:true});if(result.exceptionDetails)throw new Error(result.exceptionDetails.exception?.description||result.exceptionDetails.text);return result.result.value;}\n  async until(expression,timeout=15000){const end=Date.now()+timeout;while(Date.now()<end){if(await this.eval(expression))return;await sleep(25);}throw new Error(`Timed out waiting for ${expression}`);}\n  wheel(x,y,deltaY){return this.send('Input.dispatchMouseEvent',{type:'mouseWheel',x,y,deltaX:0,deltaY});}\n  viewport(width,height){return this.send('Emulation.setDeviceMetricsOverride',{width,height,deviceScaleFactor:1,mobile:false});}\n}\n\nexport async function launch(chrome=defaultChrome,{anchoring=true,fonts='normal',smooth=false}={}){\n  const profile=await mkdtemp(join(tmpdir(),'lex-reader-chrome-'));\n  const child=spawn(chrome,['--headless=new','--remote-debugging-port=0',`--user-data-dir=${profile}`,...(smooth?[]:['--disable-smooth-scrolling']),'--no-first-run','--no-default-browser-check','--disable-background-timer-throttling','--disable-renderer-backgrounding','--window-size=1440,900','about:blank'],{stdio:'ignore'});\n  let port;for(let i=0;i<200&&!port;i++){try{port=(await readFile(join(profile,'DevToolsActivePort'),'utf8')).split('\\n')[0];}catch{await sleep(50);}}\n  if(!port)throw new Error('Chrome did not expose a DevTools port.');\n  const targets=await (await fetch(`http://127.0.0.1:${port}/json/list`)).json();const target=targets.find(t=>t.type==='page');\n  const ws=new WebSocket(target.webSocketDebuggerUrl);await new Promise((ok,fail)=>{ws.onopen=ok;ws.onerror=fail;});\n  const page=new Page(ws);await page.send('Page.enable');await page.send('Runtime.enable');await page.send('Page.addScriptToEvaluateOnNewDocument',{source:probes});\n  // Without scroll anchoring (as in browsers that lack it) layout shifts above the view no longer emit scroll events.\n  // Web fonts can be blocked or delayed to reproduce late layout shifts (the stylesheet imports Google Fonts).\n  const fontUrls=['*fonts.googleapis.com*','*fonts.gstatic.com*'];\n  if(fonts==='blocked'){await page.send('Network.enable');await page.send('Network.setBlockedURLs',{urls:fontUrls});}\n  else if(typeof fonts==='number'){await page.send('Fetch.enable',{patterns:fontUrls.map(urlPattern=>({urlPattern}))});ws.addEventListener('message',event=>{const msg=JSON.parse(event.data);if(msg.method==='Fetch.requestPaused')setTimeout(()=>page.send('Fetch.continueRequest',{requestId:msg.params.requestId}).catch(()=>{}),fonts);});}\n  if(!anchoring)await page.send('Page.addScriptToEvaluateOnNewDocument',{source:\"document.addEventListener('DOMContentLoaded',()=>document.head.append(Object.assign(document.createElement('style'),{textContent:'#article{overflow-anchor:none}'})));\"});\n  return {page,async close(){ws.close();child.kill();await sleep(200);await rm(profile,{recursive:true,force:true});}};\n}\n\n\nasync function focused(publication,anchoring=true){\nconst chrome=defaultChrome;\n  publication=resolve(publication);\n  const releaseId=JSON.parse(await readFile(join(publication,'latest.json'),'utf8')).release_id;\n  const manifest=JSON.parse(await readFile(join(publication,'releases',releaseId,'manifest.json'),'utf8'));\n  const instruments={};for(const item of manifest.instruments)instruments[item.slug]=JSON.parse(await readFile(join(publication,'releases',releaseId,item.document_path),'utf8'));\n  const server=createReaderServer(publication);await new Promise(r=>server.listen(0,'127.0.0.1',r));\n  const origin=`http://127.0.0.1:${server.address().port}/lex-mex/`;\n  const browser=await launch(chrome,{anchoring});const page=browser.page;\n  const results=[],notApplicable=[],timings=[];\n  const record=(scenario,ok,detail)=>{results.push({scenario,ok,...detail});console.log(`${ok?'PASS':'FAIL'} ${scenario}${ok?'':' '+JSON.stringify(detail)}`);};\n  const at=(slug,provisionId='')=>`${origin}?release=${releaseId}&instrument=${slug}${provisionId?`&provision=${encodeURIComponent(provisionId)}`:''}`;\n  // Push counts come from a pushState wrapper; resetting history keeps back() inside each scenario.\n  // Scenarios start once an explicit target has settled (older builds have no such mark and get a bounded wait).\n  const mark=name=>`performance.getEntriesByName('${name}').length`;\n  const pageErrors=[],unsettled=[];\n  async function errors(p,where){const list=await p.eval('window.__errors||[]');if(list.length)pageErrors.push({where,list});}\n  async function settle(p=page,timeout=10000){await p.until('window.__probe&&__probe.ready()',20000);return p.until(`${mark('reader:target-settled')}>0`,timeout).then(()=>true,()=>false);}\n  async function open(href,{width=1440,height=900}={}){await page.viewport(width,height);await page.send('Page.navigate',{url:href});if(!await settle(page,3000))unsettled.push(href);await page.send('Page.resetNavigationHistory');await sleep(700);await errors(page,href);}\n  // Compares every UI surface with the article at the reading line.\n  async function agree(slug,{url=true}={}){\n    const truth=await page.eval('__probe.truth()'),ui=await page.eval('__probe.ui()'),p=instruments[slug].provisions[truth];\n    const mismatches=[];if(ui.label!==p.label)mismatches.push('label');if(ui.current!==p.id)mismatches.push('index');if(!ui.title.includes(p.label))mismatches.push('title');if(url&&ui.urlProvision!==p.id)mismatches.push('url');\n    return {truth:p.label,ui:ui.label,mismatches};\n  }\n  async function copies(slug){const truth=await page.eval('__probe.truth()'),p=instruments[slug].provisions[truth];const body=await page.eval(\"__probe.copy('copy-text')\");const share=await page.eval(\"__probe.copy('share')\");return {copyExact:body===p.text,shareProvision:new URL(share).searchParams.get('provision')===p.id};}\n  const centre=async()=>page.eval(\"(()=>{const r=document.getElementById('article').getBoundingClientRect();return {x:Math.round(r.left+r.width/2),y:Math.round(r.top+r.height*0.6)};})()\");\n  const lic=instruments.lic.provisions,find=label=>lic.find(p=>p.label===label);\n\ntry{\n    // 27. Terminal recovery-cap boundary (fault injection, NOT natural-storm coverage; scenario 26 is that). reader.js is a\n    // module, so a CDP breakpoint in keepHeld sets the lifetime counters to their spent values while a synthetic layout\n    // change leaves the held target off the reading line. No test hook is added to the shipped bytes. The hold must end:\n    // one exhaustion mark, a visible notice, label/index/URL/copy agreeing with the reading line, no correction loop,\n    // reader movement still tracked without intent, and a fresh explicit navigation holding and settling again.\n    {\n      const b=await launch(chrome,{anchoring,fonts:'blocked'});const p=find('Artículo 193'),index=lic.indexOf(p);try{\n        const sources=new Map();b.page.ws.addEventListener('message',event=>{const msg=JSON.parse(event.data);if(msg.method==='Debugger.scriptParsed'&&/\\/reader\\.js$/.test(msg.params.url))sources.set(msg.params.scriptId,msg.params.url);});\n        await b.page.viewport(390,844);await b.page.send('Page.navigate',{url:at('lic',p.id)});const settledFirst=await settle(b.page,15000);\n        const before=await b.page.eval('__probe.ui()');\n        await b.page.send('Debugger.enable');const [scriptId]=[...sources.keys()];\n        const lines=(await b.page.send('Debugger.getScriptSource',{scriptId})).scriptSource.split('\\n');const bodyLine=lines.findIndex(line=>line.startsWith('function keepHeld(){'))+1;\n        const breakpoint=await b.page.send('Debugger.setBreakpointByUrl',{urlRegex:'/reader\\\\.js$',lineNumber:bodyLine});\n        const paused=new Promise((resolve,reject)=>{const handler=async event=>{const msg=JSON.parse(event.data);if(msg.method!=='Debugger.paused')return;b.page.ws.removeEventListener('message',handler);\n          try{await b.page.send('Debugger.evaluateOnCallFrame',{callFrameId:msg.params.callFrames[0].callFrameId,expression:'realigns=41;nudges=401;recoveries=30;settleTarget=null;0'});await b.page.send('Debugger.removeBreakpoint',{breakpointId:breakpoint.breakpointId});await b.page.send('Debugger.resume');resolve();}catch(error){reject(error);}};\n          b.page.ws.addEventListener('message',handler);});\n        await b.page.eval(\"document.querySelector('#flow article').style.paddingBottom='1400px';0\");\n        await Promise.race([paused,sleep(10000).then(()=>{throw new Error('keepHeld breakpoint never paused');})]);\n        await sleep(2000); // 700ms settled timer, then the URL replace delay\n        const notice=await b.page.eval(\"(()=>{const m=document.getElementById('message');return {visible:!m.hidden,text:m.textContent};})()\"); // read before Copiar replaces the message\n        const truth=lic[await b.page.eval('__probe.truth()')],ui=await b.page.eval('__probe.ui()'),copy=await b.page.eval(\"__probe.copy('copy-text')\");\n        const exhausted=await b.page.eval(mark('reader:hold-recovery-exhausted')),intents=await b.page.eval(mark('reader:intent'));\n        const idleStart=await b.page.eval('window.__scrolls');await sleep(1800);const idle=await b.page.eval('window.__scrolls')-idleStart;\n        await b.page.eval('__probe.scrollBy(100)');await sleep(700);\n        const movedTruth=lic[await b.page.eval('__probe.truth()')],moved=await b.page.eval('__probe.ui()'),movedCopy=await b.page.eval(\"__probe.copy('copy-text')\"),intentsAfterMove=await b.page.eval(mark('reader:intent'));\n        const settledMarks=await b.page.eval(mark('reader:target-settled'));\n        await b.page.eval(`document.querySelector('#provision-list button[data-provision=\"${p.id}\"]').click();0`);\n        await b.page.until(`${mark('reader:target-settled')}>${settledMarks}`,10000).catch(()=>{});await sleep(700);\n        const renav=await b.page.eval('__probe.ui()'),renavTruth=lic[await b.page.eval('__probe.truth()')],renavCopy=await b.page.eval(\"__probe.copy('copy-text')\");\n        const renavOffset=Math.round(await b.page.eval(`__probe.top(${index})-document.getElementById('active-bar').offsetHeight`));\n        const renavStart=await b.page.eval('window.__scrolls');await sleep(1800);const renavIdle=await b.page.eval('window.__scrolls')-renavStart;\n        await errors(b.page,'terminal recovery cap');\n        record('terminal recovery cap (fault injection): unaligned hold ends with a notice, tracking resumes, new navigation re-holds',\n          settledFirst&&before.label===p.label&&truth.id!==p.id&&ui.label===truth.label&&ui.current===truth.id&&ui.urlProvision===truth.id&&copy===truth.text&&notice.visible&&notice.text.includes('No se pudo mantener')&&exhausted===1&&intents===0&&idle===0\n          &&movedTruth.id===moved.current&&moved.label===movedTruth.label&&moved.urlProvision===movedTruth.id&&movedCopy===movedTruth.text&&intentsAfterMove===0\n          &&renav.label===p.label&&renavTruth.id===p.id&&renav.current===p.id&&renav.urlProvision===p.id&&renavCopy===p.text&&Math.abs(renavOffset-8)<=3&&renavIdle===0&&await b.page.eval(mark('reader:hold-recovery-exhausted'))===1,\n          {requested:p.label,readingLine:truth.label,ui:ui.label,index:ui.current===truth.id,urlProvision:ui.urlProvision===truth.id,copyExact:copy===truth.text,notice,exhaustedMarks:exhausted,intentMarks:intents,scrollsWhileIdle:idle,afterReaderScroll:{truth:movedTruth.label,ui:moved.label,copyExact:movedCopy===movedTruth.text,intentMarks:intentsAfterMove},afterNewNavigation:{ui:renav.label,truth:renavTruth.label,copyExact:renavCopy===p.text,offsetBelowBar:renavOffset,scrollsWhileIdle:renavIdle}});\n      }finally{await b.close();}\n    }\n\nreturn {publication,releaseId,anchoring,results,pageErrors};\n}finally{await browser.close();await new Promise(r=>server.close(r));}\n}\nconst reports=[];for(const [name,anchoring] of [[\"r11-preferred-a\",true],[\"r11-fallback-a\",true],[\"r11-legacy-stage\",true],[\"r11-preferred-a\",false],[\"r10-fallback-a\",true]]){reports.push(await focused(\"/Users/jr/Dev/lex-mex-reader-four/.work/\"+name,anchoring));}\nawait writeFile(\"/tmp/reader-r6-codex-focused-results.json\",JSON.stringify(reports,null,2)+\"\\n\");\n",
+  "full_browser_runs": "Attributed Claude evidence only; not independently rerun in full.",
+  "node_tests": "22/22 passed in preceding turn on identical source hashes; first sandbox loopback EPERM cleared by elevated rerun.",
+  "git_diff_check": "Pass in current turn via mechanical agent."
+}

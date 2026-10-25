@@ -1,0 +1,13 @@
+{
+  "head": "0661d5ef0ff61517287c4de0437b90f6bb60ffcc",
+  "branch": "feat/reader-tweaks-r7",
+  "status_before": "?? docs/four-instrument-reader-r7-codex-review-2026-10-23-evidence.json\n?? docs/four-instrument-reader-r7-codex-review-2026-10-23.md\n",
+  "untracked": {
+    "docs/four-instrument-reader-r7-codex-review-2026-10-23-evidence.json": "eeb5a27d5cba2adfd657c0e14c383f1faec986f835a386cdc68b1f87b5e058bd",
+    "docs/four-instrument-reader-r7-codex-review-2026-10-23.md": "ac6611474ceafe5782b156896f61ab6fd156c3c4f2f6bc7f3f8b49bf660e4e8f"
+  },
+  "dirty_tracked": {},
+  "ignored_moved": [
+    ".work"
+  ]
+}

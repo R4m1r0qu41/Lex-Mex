@@ -1,0 +1,114 @@
+{
+  "branch": "feat/public-query",
+  "head": "d2170f9fd7ff8ea179512e496f22fffa2c9ddc1c",
+  "node_tests": {
+    "passed": 29,
+    "failed": 0,
+    "stdout": "✔ bounded guides preserve exact escaped article text, citations, sources and immutable release bytes (12.217417ms)\n✔ inconsistent exact text and unverified document paths fail closed (0.396084ms)\n✔ large provision counts remain paginated instead of creating one unbounded guide (202.595125ms)\n✔ package contains only publication assets with reproducible descriptor and refuses overwrite (51.183542ms)\n✔ tampered release file is rejected without publication output (11.110375ms)\n✔ private canonical artifacts cannot pass the public file allowlist (5.309292ms)\n✔ versioned transport fixtures stay in sync with the Rust/schema acceptance inputs (10.57525ms)\n✔ homepage discovery and browse reach exact article through ordinary HTML links (2.561708ms)\n✔ empty search is explicit and preserves the query in a usable search form (1.191041ms)\n✔ HTML and JSON preserve Unicode, literal markup, digest and qualified source metadata (0.292875ms)\n✔ literal accent-insensitive fixture search is scoped and pages bind to query and release (10.479125ms)\n✔ invalid input, missing material, unavailable backend and stale release stay distinct (1.219959ms)\n✔ private fields, tampered article text and identity substitutions fail closed (0.502125ms)\n✔ historical references remain unlinked and do not turn into live targets (0.363166ms)\n✔ long bodies are never silently truncated and oversized responses fail explicitly (38.438041ms)\n✔ HTML protects carriage returns from parser newline normalization (0.4425ms)\n✔ actual local HTTP preserves HTML MIME, bytes, HEAD and real missing status (15.219833ms)\n✔ retained loader verifies public artifacts and returns real-mode bounded results without private extras (48.767708ms)\n✔ tampered public artifact and unsupported effects stop the retained bridge (21.019459ms)\n✔ search, neighbors and pinned share URLs preserve suffix identities (0.592ms)\n✔ relations distinguish published from excluded targets (0.078292ms)\n✔ Markdown preserves exact Unicode, whitespace and literal markup across article and annex boundaries (0.081291ms)\n✔ reject unsafe paths and unpinned release identities (0.146333ms)\n✔ preview serves text and PDF byte ranges and rejects wrong routes and methods (42.753292ms)\n✔ staging advances current release and preserves old pinned text, and is repeatable (85.854041ms)\n✔ changed immutable files block staging without changing current pointer (14.211542ms)\n✔ tampered input and symlink destinations are rejected before publication (7.880666ms)\n✔ concurrent stage lock prevents publication changes (5.599416ms)\n✔ additive agent pages are staged and protected from immutable collisions (10.54975ms)\nℹ tests 29\nℹ suites 0\nℹ pass 29\nℹ fail 0\nℹ cancelled 0\nℹ skipped 0\nℹ todo 0\nℹ duration_ms 305.299042\n"
+  },
+  "probes": [
+    {
+      "name": "null cursor",
+      "status": 503,
+      "body": {
+        "schema_version": "public-retrieval-v1",
+        "release": {
+          "id": "d87a0f6836954e1d876babb994b2408aaa8034ba14571fe03190f1bc204f7fe4",
+          "corpus_commit": "0000000000000000000000000000000000000000",
+          "fixture": true
+        },
+        "result": {
+          "kind": "error",
+          "data": {
+            "code": "unavailable",
+            "message": "No se pudo completar la consulta; no es evidencia de ausencia normativa."
+          }
+        }
+      }
+    },
+    {
+      "name": "normalizes empty",
+      "status": 200,
+      "body": {
+        "schema_version": "public-retrieval-v1",
+        "release": {
+          "id": "d87a0f6836954e1d876babb994b2408aaa8034ba14571fe03190f1bc204f7fe4",
+          "corpus_commit": "0000000000000000000000000000000000000000",
+          "fixture": true
+        },
+        "result": {
+          "kind": "search",
+          "data": {
+            "items": [
+              {
+                "id": "urn:lex-mx:fixture:norma-demo:article:2-bis",
+                "instrument": {
+                  "slug": "norma-demo",
+                  "id": "urn:lex-mx:fixture:norma-demo",
+                  "title": "Norma sintética para pruebas de transporte — NO ES LEY",
+                  "short_name": "DEMO"
+                },
+                "provision_type": "article",
+                "number": "2-bis",
+                "label": "Artículo 2 Bis",
+                "excerpt": "Texto de prueba con acentos: obligación, obligación. Literal <script>no ejecutar</script> & espacios.\n\n  Segunda línea."
+              },
+              {
+                "id": "urn:lex-mx:fixture:norma-demo:article:1",
+                "instrument": {
+                  "slug": "norma-demo",
+                  "id": "urn:lex-mx:fixture:norma-demo",
+                  "title": "Norma sintética para pruebas de transporte — NO ES LEY",
+                  "short_name": "DEMO"
+                },
+                "provision_type": "article",
+                "number": "1",
+                "label": "Artículo 1",
+                "excerpt": "Texto sintético: las cuentas de prueba conservan recursos identificados. No establece obligaciones legales."
+              },
+              {
+                "id": "urn:lex-mx:fixture:norma-demo:transitory:1",
+                "instrument": {
+                  "slug": "norma-demo",
+                  "id": "urn:lex-mx:fixture:norma-demo",
+                  "title": "Norma sintética para pruebas de transporte — NO ES LEY",
+                  "short_name": "DEMO"
+                },
+                "provision_type": "transitory",
+                "number": "1",
+                "label": "Transitorio 1",
+                "excerpt": "Texto sintético transitorio. No confundir con el Artículo 1."
+              },
+              {
+                "id": "urn:lex-mx:fixture:norma-demo:annex:1",
+                "instrument": {
+                  "slug": "norma-demo",
+                  "id": "urn:lex-mx:fixture:norma-demo",
+                  "title": "Norma sintética para pruebas de transporte — NO ES LEY",
+                  "short_name": "DEMO"
+                },
+                "provision_type": "annex",
+                "number": "1",
+                "label": "Anexo 1",
+                "excerpt": "Texto sintético de anexo. No confundir con artículo ni transitorio."
+              }
+            ],
+            "next_cursor": null,
+            "query": "́"
+          }
+        }
+      }
+    },
+    {
+      "name": "HTML exact text",
+      "same": false,
+      "original": "\"\\námbito\\r\\nsegunda línea\"",
+      "seen": "\"ámbito\\nsegunda línea\"",
+      "advertised": "e4fe25cea4f1a404e8b673ad53060d8e813d0de5bfd14ea1940041ff246f478c",
+      "seen_sha256": "993a6447d2fa30597f939cfffb9a1b28b454b7e7527de2c7c0375ddf703c000c",
+      "http_source_accepted": true
+    }
+  ],
+  "probe_source": "import {readFile,writeFile} from 'node:fs/promises';\nimport {createHash} from 'node:crypto';\nimport {fixtureAdapter} from './reader/query-fixture.mjs';\nimport {handlePublicQuery} from './reader/query-http.mjs';\nimport {agentPages} from './reader/agent-pages.mjs';\nimport {launch} from '/Users/jr/Dev/lex-mex-reader/reader/browser-check.mjs';\nconst fixture=JSON.parse(await readFile(new URL('./reader/fixtures/public-query-v1.json',import.meta.url),'utf8')),adapter=fixtureAdapter(fixture),base=`https://test/lex-mex/api/r/${fixture.release.id}/`;\nconst results=[];\nfor(const [name,path] of [['null cursor',`instruments?cursor=${Buffer.from('null').toString('base64url')}`],['normalizes empty',`search?q=${encodeURIComponent('\\u0301')}`]]){const r=await handlePublicQuery(new Request(base+path),adapter);results.push({name,status:r.status,body:await r.json()});}\nconst sha=b=>createHash('sha256').update(b).digest('hex'),release='a'.repeat(64),source={official_url:'http://example.invalid/source.pdf',publisher:'synthetic',source_sha256:'b'.repeat(64),retrieved_at:'2026-10-24'},text='\\námbito\\r\\nsegunda línea';\nconst p={id:'urn:test:article:1',label:'Artículo1',text,text_sha256:sha(text),text_path:'p.txt',markdown_path:'p.md',source,heading_context:{},temporal_status:'unknown'};\nconst doc={id:'urn:test',slug:'test',short_name:'TEST',official_title:'Synthetic',latest_reform_date:null,source,provisions:[p]},manifest={release_id:release,base_path:'/lex-mex/',instruments:[{id:doc.id,slug:'test',document_path:'mx/test/instrument.json'}]},content=new Map([[`releases/${release}/mx/test/instrument.json`,Buffer.from(JSON.stringify(doc))]]);\ncontent.set(`releases/${release}/manifest.json`,Buffer.from('{}'));content.set(`releases/${release}/mx/test/p.txt`,Buffer.from(text));content.set(`releases/${release}/mx/test/p.md`,Buffer.from('Markdown'));\nconst pages=agentPages(manifest,content),html=[...pages.files].find(([path])=>path.endsWith('/'+sha(p.id)+'.html'))[1].toString();\nconst b=await launch();try{await b.page.send('Page.navigate',{url:'data:text/html;charset=utf-8,'+encodeURIComponent(html)});await b.page.until('Boolean(document.querySelector(\"pre\"))');const seen=await b.page.eval('document.querySelector(\"pre\").textContent');results.push({name:'HTML exact text',same:seen===text,original:JSON.stringify(text),seen:JSON.stringify(seen),advertised:sha(text),seen_sha256:sha(seen),http_source_accepted:html.includes('http://example.invalid/source.pdf')});}finally{await b.close();}\nawait writeFile('/tmp/public-query-review-probes.json',JSON.stringify(results,null,2)+'\\n');console.log(JSON.stringify(results,null,2));\n",
+  "scope": "Read-only branch export in /tmp, no new registered query worktree. No source repair, merge or publication."
+}
