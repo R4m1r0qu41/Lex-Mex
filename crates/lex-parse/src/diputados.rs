@@ -2054,7 +2054,7 @@ pub fn extract_reform_evidence(
     let headings = HeadingPatterns::new()?;
     let ordinals = transitory_ordinals();
     let publication_re = Regex::new(
-        r"(?i)publicad[oa] en (?:el|la) (?:Diario Oficial de la Federación|DOF) (?:el )?(\d{1,2})[oº]? de ([a-zá-úñ]+) (?:de )?(\d{4})",
+        r"(?i)publicad(?:o|a|os|as) en (?:el|la) (?:Diario Oficial de la Federación|DOF) (?:el )?(\d{1,2})[oº]? de ([a-zá-úñ]+) (?:de )?(\d{4})",
     )?;
     // An appendix title of any form followed by its publication note, in
     // one block (cff: `VIGESIMA Cuarta Resolución de Modificaciones a la
@@ -3906,6 +3906,52 @@ mod tests {
             super::extract_dof_publication("El contrato surtirá efectos el 6 de mayo de 1972.")
                 .is_none()
         );
+    }
+
+    #[test]
+    fn plural_publication_note_dates_a_reform_decree_heading() {
+        // LSCS heads its 1966 decree `REFORMAS a la Ley …` with the note
+        // `Publicadas en el Diario Oficial de la Federación el 5 de enero de
+        // 1966` (plural). Only the singular note was read, so its
+        // transitories had no date and the whole parse failed closed.
+        let source = "ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA\n\n\
+                      REFORMAS a la Ley de Prueba.\n\
+                      Publicadas en el Diario Oficial de la Federación el 5 de enero de 1966\n\n\
+                      ARTICULO PRIMERO.- Se reforma el artículo 35 de la Ley.\n\n\
+                      TRANSITORIOS\n\n\
+                      ARTICULO PRIMERO.- Se derogan las disposiciones que se opongan.\n";
+        let evidence = super::extract_reform_evidence(
+            source,
+            &options("urn:lex-mx:federal:statute:sample", "Ley de Prueba"),
+        )
+        .expect("plural note dates the decree");
+        assert_eq!(evidence.len(), 1);
+        assert_eq!(
+            evidence[0].text,
+            "Se derogan las disposiciones que se opongan."
+        );
+        assert!(evidence[0].provision_id.contains("1966-01-05"));
+    }
+
+    #[test]
+    fn plural_citation_in_an_operative_article_does_not_redate_the_decree() {
+        // The decree's own date is already set by its heading note; a later
+        // operative article quoting other decrees (`decretos publicados en
+        // el Diario Oficial … el 9 de mayo de 1990`) must not replace it.
+        let source = "ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA\n\n\
+                      REFORMAS a la Ley de Prueba.\n\
+                      Publicadas en el Diario Oficial de la Federación el 5 de enero de 1966\n\n\
+                      ARTICULO PRIMERO.- Conforme a los decretos publicados en el Diario Oficial de la Federación el 9 de mayo de 1990.\n\n\
+                      TRANSITORIOS\n\n\
+                      ARTICULO PRIMERO.- Se derogan las disposiciones que se opongan.\n";
+        let evidence = super::extract_reform_evidence(
+            source,
+            &options("urn:lex-mx:federal:statute:sample", "Ley de Prueba"),
+        )
+        .expect("heading date is kept");
+        assert_eq!(evidence.len(), 1);
+        assert!(evidence[0].provision_id.contains("1966-01-05"));
+        assert!(!evidence[0].provision_id.contains("1990"));
     }
 
     #[test]
