@@ -10,7 +10,7 @@ generated: true
 temporal_status: effective
 review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFDA.pdf
-source_sha256: 2beb1a3a5c23de93f1588ce6d4e4c209e73a8d747f19e3165706f38abcee8fe3
+source_sha256: 77ea253060400b44a671ceaa2f797ab7566be72239d6d4f3f63958b43319cd2a
 ---
 
 > Título XI · Capítulo II
@@ -27,4 +27,6 @@ III. Cuando de la información proporcionada o de la visita de inspección que s
 
 IV. Las auditorías se llevarán a cabo en días y horas hábiles y serán practicadas, a cargo de la sociedad, por las personas autorizadas por el Instituto el que en casos justificados podrá autorizar que se practiquen en días y horas inhábiles;
 
-V. Las personas que atiendan la auditoría por parte de la sociedad deberán brindar todo tipo de facilidades y proporcionar los libros y demás documentación que se les requiera, con motivo de la diligencia, y VI. Concluida la auditoría, las personas comisionadas, elaborarán un informe sobre los resultados que se deriven de la diligencia, que será evaluado por el Instituto a fin de determinar las medidas que procedan conforme a las disposiciones legales aplicables.
+V. Las personas que atiendan la auditoría por parte de la sociedad deberán brindar todo tipo de facilidades y proporcionar los libros y demás documentación que se les requiera, con motivo de la diligencia, y
+
+VI. Concluida la auditoría, las personas comisionadas, elaborarán un informe sobre los resultados que se deriven de la diligencia, que será evaluado por el Instituto a fin de determinar las medidas que procedan conforme a las disposiciones legales aplicables.

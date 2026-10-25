@@ -10,7 +10,7 @@ generated: true
 temporal_status: effective
 review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFDA.pdf
-source_sha256: 2beb1a3a5c23de93f1588ce6d4e4c209e73a8d747f19e3165706f38abcee8fe3
+source_sha256: 77ea253060400b44a671ceaa2f797ab7566be72239d6d4f3f63958b43319cd2a
 ---
 
 > Título V · Capítulo I
@@ -19,9 +19,7 @@ source_sha256: 2beb1a3a5c23de93f1588ce6d4e4c209e73a8d747f19e3165706f38abcee8fe3
 
 El procedimiento ante el [Instituto](articulo-2o.md) se tramitará conforme a las siguientes bases:
 
-I. Se emplazará personalmente al titular de los derechos patrimoniales de la obra sobre la cual se pretenda autorizar la publicación o traducción, informándole el inicio del procedimiento;
-
-II. El interesado contará con un plazo de quince días para manifestar lo que a su derecho convenga y adjuntar pruebas que obren en su poder, y
+I. Se emplazará personalmente al titular de los derechos patrimoniales de la obra sobre la cual se pretenda autorizar la publicación o traducción, informándole el inicio del procedimiento; II. El interesado contará con un plazo de quince días para manifestar lo que a su derecho convenga y adjuntar pruebas que obren en su poder, y
 
 III. Una vez integrado el expediente, el Instituto, previo estudio del mismo, deberá emitir un dictamen sobre la procedencia de la autorización.
 

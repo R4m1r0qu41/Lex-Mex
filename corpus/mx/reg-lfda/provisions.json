@@ -862,6 +862,174 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfda:article:37-bis",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfda",
+    "provision_type": "article",
+    "label": "Artículo 37 Bis",
+    "number": "37 Bis",
+    "heading_context": {
+      "title": "Título IV",
+      "chapter": "Capítulo V"
+    },
+    "text": "La protección referida en el artículo 114 Bis de la Ley, respecto a las medidas tecnológicas de protección efectiva y a la información sobre la gestión de derechos, será independiente de la otorgada a los derechos de autor y derechos conexos.\n\nNo constituirán elusiones a las medidas tecnológicas de protección o a la información sobre la gestión de derechos, aquellos casos en los que el contenido o material relacionado con estas, no sea objeto de protección conforme a la Ley.\n\nArtículo adicionado DOF 24-09-2026",
+    "publication_date": "1998-05-22",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfda:article:37-ter",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfda",
+    "provision_type": "article",
+    "label": "Artículo 37 Ter",
+    "number": "37 Ter",
+    "heading_context": {
+      "title": "Título IV",
+      "chapter": "Capítulo V"
+    },
+    "text": "Para efectos de los artículos 114 Septies, 114 Octies y 232 Quinquies de la Ley, se entenderá por “material” o “materiales”, “contenido” o “contenidos”:\n\nI. Las obras señaladas en el artículo 13 de la Ley;\n\nII. Las interpretaciones o ejecuciones; III. Las ediciones;\n\nIV. Los fonogramas o videogramas;\n\nV. Las emisiones;\n\nVI. La imagen, incluida la voz, de las personas artistas intérpretes o ejecutantes a que se refiere el artículo 87 de la Ley, y\n\nVII. Los otros derechos de propiedad intelectual tutelados por la Ley.\n\nArtículo adicionado DOF 24-09-2026",
+    "publication_date": "1998-05-22",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfda:article:37-quater",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfda",
+    "provision_type": "article",
+    "label": "Artículo 37 Quáter",
+    "number": "37 Quáter",
+    "heading_context": {
+      "title": "Título IV",
+      "chapter": "Capítulo V"
+    },
+    "text": "El aviso a que se refiere el artículo 114 Octies, fracción III, de la Ley, deberá contener, además, la información siguiente:\n\nI. La ubicación electrónica que identifique el sitio en el que se encuentra el contenido o material que se reclama por no tener autorización o afectar cualquiera de los derechos tutelados por la Ley, el cual deberá encontrarse a disposición en el sitio de internet o como parte del servicio ofrecido por el Proveedor de Servicios en Línea;\n\nII. Una breve descripción de los hechos que se estiman violan o afectan los derechos tutelados en la Ley;\n\nIII. Nombre completo de la persona que presenta el aviso, manifestando si lo hace como titular del derecho de autor, derecho conexo u otro derecho de propiedad intelectual protegido por la Ley o en representación de una persona tercera, en cuyo caso, se deberá indicar el nombre completo de la persona representante, así como el nombre completo de la persona física o la denominación o razón social de la persona moral que representa;\n\nIV. Información que permita al Proveedor de Servicios en Línea ponerse en contacto con la persona que presenta el aviso, como un número de teléfono o dirección de correo electrónico y una dirección de correo electrónico alterna, en caso de contar con ella;\n\nV. Domicilio de la persona que presenta el aviso;\n\nVI. Declaración bajo protesta de decir verdad que la información del aviso es verídica, que tiene conocimiento de buena fe que el uso del contenido o material objeto del aviso no está autorizado y que la persona que presenta el aviso es la legítima titular del derecho de autor, derecho conexo u otro derecho de propiedad intelectual protegido por la Ley o que es representante autorizada por la persona titular, y\n\nVII. Manifestación expresa de que se conoce la sanción aplicable conforme al artículo 232 Quinquies de la Ley en caso de presentar un aviso con información falsa.\n\nArtículo adicionado DOF 24-09-2026",
+    "publication_date": "1998-05-22",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfda:article:37-quinquies",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfda",
+    "provision_type": "article",
+    "label": "Artículo 37 Quinquies",
+    "number": "37 Quinquies",
+    "heading_context": {
+      "title": "Título IV",
+      "chapter": "Capítulo V"
+    },
+    "text": "Los Proveedores de Servicios en Línea no podrán condicionar la adopción de lo dispuesto en el Artículo 114 Octies, fracción II de la Ley, a la presentación de certificados de registro, títulos o cualquiera otra documentación a cargo de la persona titular del derecho de autor, derecho conexo u otro derecho de propiedad intelectual protegido por la Ley o de la persona que presente el aviso. Lo dispuesto en el presente artículo no será aplicable para el caso del contra-aviso.\n\nArtículo adicionado DOF 24-09-2026",
+    "publication_date": "1998-05-22",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfda:article:37-sexies",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfda",
+    "provision_type": "article",
+    "label": "Artículo 37 Sexies",
+    "number": "37 Sexies",
+    "heading_context": {
+      "title": "Título IV",
+      "chapter": "Capítulo V"
+    },
+    "text": "Los Proveedores de Servicios en Línea a que se refieren los artículos 114 Septies, fracción II, y 114 Octies, fracción II de la Ley, pondrán a disposición de las personas usuarias, de forma clara y accesible, el formulario que podrá ser presentado por la persona titular del derecho de autor, derecho conexo u otro derecho de propiedad intelectual protegido por la Ley, o por la persona autorizada, el cual contendrá, además de los requisitos señalados en el artículo 37 Quáter de este Reglamento, información suficiente para recibir avisos de las personas titulares de dichos derechos, incluyendo una dirección de correo electrónico alterna, en caso de contar con ella.\n\nArtículo adicionado DOF 24-09-2026",
+    "publication_date": "1998-05-22",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfda:article:37-septies",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfda",
+    "provision_type": "article",
+    "label": "Artículo 37 Septies",
+    "number": "37 Septies",
+    "heading_context": {
+      "title": "Título IV",
+      "chapter": "Capítulo V"
+    },
+    "text": "El contra-aviso a que se refiere el artículo 114 Octies, fracción III de la Ley, deberá incluir, además de lo dispuesto en dicha fracción, la información siguiente:\n\nI. Nombre completo de la persona que presenta el contra-aviso, manifestando si lo hace como titular del derecho de autor, derecho conexo u otro derecho de propiedad intelectual protegido por la Ley o en representación de una persona tercera, en cuyo caso, se deberá indicar el nombre completo de la persona representante, así como el nombre completo de la persona física o la denominación o razón social de la persona moral que representa;\n\nII. Información que permita al Proveedor de Servicios en Línea ponerse en contacto con la persona que presenta el contra-aviso, como un número de teléfono o dirección de correo electrónico y una dirección de correo electrónico alterna, en caso de contar con ella;\n\nIII. Domicilio de la persona que presenta el contra-aviso;\n\nIV. Convenio, contrato, licencia de uso o cualquier otro documento por el cual se transmitan derechos patrimoniales que establezca la Ley, para demostrar la titularidad o la autorización con la que cuenta o, en su caso, declarar bajo protesta de decir verdad que el uso del contenido o material se encuentra justificado conforme a las limitaciones o excepciones a los derechos protegidos por la Ley, o que está en el dominio público, y\n\nV.- Manifestación expresa de que se conoce la sanción aplicable conforme al artículo 232 Quinquies de la Ley en caso de presentar un contra-aviso con información falsa.\n\nEn ningún caso, el Proveedor de Servicios en Línea quedará obligado a validar la autenticidad o idoneidad de la documentación exhibida por la persona que hubiere presentado el contra-aviso.\n\nLa remoción o restauración del contenido o material por parte del Proveedor de Servicios en Línea no constituye una validación de la documentación exhibida por cualquiera de las partes.\n\nArtículo adicionado DOF 24-09-2026",
+    "publication_date": "1998-05-22",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfda:article:37-octies",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfda",
+    "provision_type": "article",
+    "label": "Artículo 37 Octies",
+    "number": "37 Octies",
+    "heading_context": {
+      "title": "Título IV",
+      "chapter": "Capítulo V"
+    },
+    "text": "El Proveedor de Servicios en Línea que reciba un contra-aviso notificará inmediatamente a la persona que haya presentado el aviso original y proporcionará una copia de dicho contra-aviso.\n\nArtículo adicionado DOF 24-09-2026",
+    "publication_date": "1998-05-22",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfda:article:37-nonies",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfda",
+    "provision_type": "article",
+    "label": "Artículo 37 Nonies",
+    "number": "37 Nonies",
+    "heading_context": {
+      "title": "Título IV",
+      "chapter": "Capítulo V"
+    },
+    "text": "El Proveedor de Servicios en Línea que reciba un contra-aviso, y una vez satisfechos todos los requisitos previstos en el presente Reglamento, habilitará el contenido o material objeto del contra-aviso dentro de un periodo de diez a quince días hábiles siguientes a la fecha en que haya recibido el contra-aviso correspondiente.\n\nEl Proveedor de Servicios en Línea deberá abstenerse de habilitar el contenido o material objeto del contra-aviso o, en caso de que haya sido habilitado, deberá remover, retirar, eliminar o inhabilitar de nuevo el contenido objeto del contra-aviso, si la persona que realizó el aviso original presenta documentación con la que acredite que inició un procedimiento judicial o administrativo, una denuncia penal o un mecanismo alternativo de solución de controversias en un plazo no mayor a quince días hábiles a partir de la fecha en el que el Proveedor de Servicios en Línea haya informado sobre el contra- aviso a la persona quien presentó el aviso original.\n\nArtículo adicionado DOF 24-09-2026",
+    "publication_date": "1998-05-22",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lfda:article:38",
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lfda",
     "provision_type": "article",
@@ -892,7 +1060,7 @@
       "title": "Título V",
       "chapter": "Capítulo I"
     },
-    "text": "La declaratoria de limitación del derecho de autor por causa de utilidad pública procederá cuando, a juicio del Ejecutivo Federal, concurran las siguientes circunstancias:\n\nI. Que la obra o sus copias sean necesarias para el adelanto de la ciencia, la cultura y la educación nacionales según el dictamen que expida el Instituto; II. Que la obra no cuente con editor o titular de los derechos patrimoniales de autor identificado, o que existiendo éste, se niegue sin causa justificada a reproducir y publicar la obra, y\n\nIII. Que no exista una obra sucedánea para el adelanto de la rama de la ciencia, la cultura o la educación nacionales de que se trate.",
+    "text": "La declaratoria de limitación del derecho de autor por causa de utilidad pública procederá cuando, a juicio del Ejecutivo Federal, concurran las siguientes circunstancias:\n\nI. Que la obra o sus copias sean necesarias para el adelanto de la ciencia, la cultura y la educación nacionales según el dictamen que expida el Instituto;\n\nII. Que la obra no cuente con editor o titular de los derechos patrimoniales de autor identificado, o que existiendo éste, se niegue sin causa justificada a reproducir y publicar la obra, y\n\nIII. Que no exista una obra sucedánea para el adelanto de la rama de la ciencia, la cultura o la educación nacionales de que se trate.",
     "publication_date": "1998-05-22",
     "effective_from": "1998-05-23",
     "effective_to": null,
@@ -934,7 +1102,7 @@
       "title": "Título V",
       "chapter": "Capítulo I"
     },
-    "text": "El procedimiento ante el Instituto se tramitará conforme a las siguientes bases:\n\nI. Se emplazará personalmente al titular de los derechos patrimoniales de la obra sobre la cual se pretenda autorizar la publicación o traducción, informándole el inicio del procedimiento;\n\nII. El interesado contará con un plazo de quince días para manifestar lo que a su derecho convenga y adjuntar pruebas que obren en su poder, y\n\nIII. Una vez integrado el expediente, el Instituto, previo estudio del mismo, deberá emitir un dictamen sobre la procedencia de la autorización.\n\nEn caso de ignorarse el domicilio del titular de los derechos patrimoniales, surtirá efectos de notificación personal una publicación del oficio de inicio del procedimiento en el Diario Oficial.",
+    "text": "El procedimiento ante el Instituto se tramitará conforme a las siguientes bases:\n\nI. Se emplazará personalmente al titular de los derechos patrimoniales de la obra sobre la cual se pretenda autorizar la publicación o traducción, informándole el inicio del procedimiento; II. El interesado contará con un plazo de quince días para manifestar lo que a su derecho convenga y adjuntar pruebas que obren en su poder, y\n\nIII. Una vez integrado el expediente, el Instituto, previo estudio del mismo, deberá emitir un dictamen sobre la procedencia de la autorización.\n\nEn caso de ignorarse el domicilio del titular de los derechos patrimoniales, surtirá efectos de notificación personal una publicación del oficio de inicio del procedimiento en el Diario Oficial.",
     "publication_date": "1998-05-22",
     "effective_from": "1998-05-23",
     "effective_to": null,
@@ -976,7 +1144,7 @@
       "title": "Título V",
       "chapter": "Capítulo I"
     },
-    "text": "El Ejecutivo Federal, considerando los resultados del dictamen, podrá expedir el Decreto por el que se declare la limitación al derecho patrimonial por causa de utilidad pública, el cual se publicará en el Diario Oficial. Este Decreto contendrá, entre otros:\n\nI. El título de la obra; II. El nombre del titular de los derechos morales, así como el de los patrimoniales, si es el caso;\n\nIII. El número de ediciones y de ejemplares autorizados, su precio, así como el uso o destino de los mismos, y\n\nIV. La remuneración compensatoria en favor del titular de derechos patrimoniales, la cual no podrá ser inferior a la que para la clase de edición y de obra de que se trate sea común pagar en el mercado.\n\nEl Decreto que autoriza la edición o traducción de la obra se sujetará a las disposiciones de los tratados y convenios internacionales en materia de derechos de autor y derechos conexos suscritos y ratificados por México.",
+    "text": "El Ejecutivo Federal, considerando los resultados del dictamen, podrá expedir el Decreto por el que se declare la limitación al derecho patrimonial por causa de utilidad pública, el cual se publicará en el Diario Oficial. Este Decreto contendrá, entre otros:\n\nI. El título de la obra;\n\nII. El nombre del titular de los derechos morales, así como el de los patrimoniales, si es el caso;\n\nIII. El número de ediciones y de ejemplares autorizados, su precio, así como el uso o destino de los mismos, y\n\nIV. La remuneración compensatoria en favor del titular de derechos patrimoniales, la cual no podrá ser inferior a la que para la clase de edición y de obra de que se trate sea común pagar en el mercado.\n\nEl Decreto que autoriza la edición o traducción de la obra se sujetará a las disposiciones de los tratados y convenios internacionales en materia de derechos de autor y derechos conexos suscritos y ratificados por México.",
     "publication_date": "1998-05-22",
     "effective_from": "1998-05-23",
     "effective_to": null,
@@ -1081,7 +1249,7 @@
       "title": "Título VI",
       "chapter": "Capítulo ÚNICO"
     },
-    "text": "Las obras literarias o artísticas de arte popular o artesanal cuyo autor no sea identificable, podrán ser:\n\nI. Expresiones verbales, tales como cuentos populares, leyendas, tradiciones, poesía popular y otras similares;\n\nII. Expresiones musicales, tales como canciones, ritmos y música instrumental populares;\n\nIII. Expresiones corporales, tales como danzas y rituales;\n\nIV. Expresiones tangibles tales como: a) Las obras de arte popular o artesanal tradicional, ya sean obras pictóricas o en dibujo, tallas en madera, escultura, alfarería, terracota, mosaico, ebanistería, forja, joyería, cestería, vidrio, lapidaria, metalistería, talabartería, así como los vestidos típicos, hilados, textiles, labores de punto, tapices y sus similares;\n\nb) Los instrumentos musicales populares o tradicionales, y\n\nc) La arquitectura propia de cada etnia o comunidad, y\n\nV. Cualquier expresión originaria que constituya una obra literaria o artística o de arte popular o artesanal que pueda ser atribuida a una comunidad o etnia originada o arraigada en la República Mexicana.",
+    "text": "Las obras literarias o artísticas de arte popular o artesanal cuyo autor no sea identificable, podrán ser:\n\nI. Expresiones verbales, tales como cuentos populares, leyendas, tradiciones, poesía popular y otras similares;\n\nII. Expresiones musicales, tales como canciones, ritmos y música instrumental populares;\n\nIII. Expresiones corporales, tales como danzas y rituales;\n\nIV. Expresiones tangibles tales como:\n\na) Las obras de arte popular o artesanal tradicional, ya sean obras pictóricas o en dibujo, tallas en madera, escultura, alfarería, terracota, mosaico, ebanistería, forja, joyería, cestería, vidrio, lapidaria, metalistería, talabartería, así como los vestidos típicos, hilados, textiles, labores de punto, tapices y sus similares;\n\nb) Los instrumentos musicales populares o tradicionales, y\n\nc) La arquitectura propia de cada etnia o comunidad, y\n\nV. Cualquier expresión originaria que constituya una obra literaria o artística o de arte popular o artesanal que pueda ser atribuida a una comunidad o etnia originada o arraigada en la República Mexicana.",
     "publication_date": "1998-05-22",
     "effective_from": "1998-05-23",
     "effective_to": null,
@@ -1270,7 +1438,7 @@
       "title": "Título VIII",
       "chapter": "Capítulo II"
     },
-    "text": "En el Registro se podrán inscribir, además de lo previsto en el artículo 163 de la Ley:\n\nI. Los poderes otorgados conforme a la Ley y a este Reglamento;\n\nII. Los contratos que celebren las sociedades con los usuarios y los de representación que tengan con otras de la misma naturaleza;\n\nIII. Las actas y documentos mediante los que la sociedad designe a sus órganos de administración y de vigilancia, sus administradores y apoderados; IV. Los testimonios de las escrituras notariales de la constitución o modificación de la sociedad, y\n\nV. Los videogramas, fonogramas y libros.\n\nVI. Las resoluciones judiciales o administrativas que en cualquier forma confirmen, modifiquen o extingan la titularidad de los derechos de autor o de los derechos conexos.",
+    "text": "En el Registro se podrán inscribir, además de lo previsto en el artículo 163 de la Ley:\n\nI. Los poderes otorgados conforme a la Ley y a este Reglamento;\n\nII. Los contratos que celebren las sociedades con los usuarios y los de representación que tengan con otras de la misma naturaleza;\n\nIII. Las actas y documentos mediante los que la sociedad designe a sus órganos de administración y de vigilancia, sus administradores y apoderados;\n\nIV. Los testimonios de las escrituras notariales de la constitución o modificación de la sociedad, y\n\nV. Los videogramas, fonogramas y libros.\n\nVI. Las resoluciones judiciales o administrativas que en cualquier forma confirmen, modifiquen o extingan la titularidad de los derechos de autor o de los derechos conexos.",
     "publication_date": "1998-05-22",
     "effective_from": "1998-05-23",
     "effective_to": null,
@@ -1396,7 +1564,7 @@
       "title": "Título VIII",
       "chapter": "Capítulo II"
     },
-    "text": "Cuando por pérdida, destrucción o mutilación del original sea imposible la expedición de copias certificadas, procederá, a solicitud del autor, del titular de los derechos patrimoniales o de autoridad competente, la expedición de un duplicado del certificado de inscripción o de la constancia de registro.\n\nEl duplicado se realizará de acuerdo con los datos, documentos e informes que dieron origen a la inscripción.",
+    "text": "Cuando por pérdida, destrucción o mutilación del original sea imposible la expedición de copias certificadas, procederá, a solicitud del autor, del titular de los derechos patrimoniales o de autoridad competente, la expedición de un duplicado del certificado de inscripción o de la constancia de registro. El duplicado se realizará de acuerdo con los datos, documentos e informes que dieron origen a la inscripción.",
     "publication_date": "1998-05-22",
     "effective_from": "1998-05-23",
     "effective_to": null,
@@ -1417,7 +1585,7 @@
       "title": "Título VIII",
       "chapter": "Capítulo II"
     },
-    "text": "Los certificados de registro deberán mencionar, por lo menos:\n\nI. Tipo de certificado de que se trate;\n\nII. Número de inscripción;\n\nIII. Fundamentos legales que motiven la inscripción;\n\nIV. Fecha en que se emite el certificado;\n\nV. Tratándose de contratos, convenios y poderes, nombre de las partes, carácter con que se ostentan y el objeto del contrato;\n\nVI. Cargo del funcionario autorizado para firmar el certificado, y VII. Nombre y firma autógrafa del funcionario autorizado para tal efecto.",
+    "text": "Los certificados de registro deberán mencionar, por lo menos:\n\nI. Tipo de certificado de que se trate;\n\nII. Número de inscripción;\n\nIII. Fundamentos legales que motiven la inscripción;\n\nIV. Fecha en que se emite el certificado;\n\nV. Tratándose de contratos, convenios y poderes, nombre de las partes, carácter con que se ostentan y el objeto del contrato;\n\nVI. Cargo del funcionario autorizado para firmar el certificado, y\n\nVII. Nombre y firma autógrafa del funcionario autorizado para tal efecto.",
     "publication_date": "1998-05-22",
     "effective_from": "1998-05-23",
     "effective_to": null,
@@ -1480,7 +1648,7 @@
       "title": "Título VIII",
       "chapter": "Capítulo II"
     },
-    "text": "Procederá la anotación marginal cuando a petición del autor o titular de los derechos patrimoniales, se requiera:\n\nI. Modificar el título de la obra;\n\nII. Hacer mención de un autor o colaborador omitido en la solicitud de registro;\n\nIII. Señalar al titular de los derechos patrimoniales o agregar al titular omitido en la solicitud de registro;\n\nIV. Modificar la vigencia establecida en el contrato;\n\nV. Cambiar la denominación o razón social del titular del derecho patrimonial de autor y del mandante en el caso de la inscripción de un poder;\n\nVI. Cambiar la denominación de la Sociedad, previa autorización que emita el Instituto;\n\nVII. Revocar el poder otorgado;\n\nVIII. Aclarar si la obra es primigenia o derivada;\n\nIX. Manifestar la fusión de personas morales titulares de los derechos patrimoniales de autor;\n\nX. Modificar los estatutos de las Sociedades;\n\nXI. Suprimir un nombre que por error se haya manifestado como autor, colaborador, titular o parte en el certificado de registro, y\n\nXII. Las demás que por analogía puedan incluirse. Cuando se trate de modificaciones sobre los datos registrados que se indican en las fracciones I, II, III, IV, VIII y XI sólo podrán realizarse con el consentimiento de todos los interesados en el registro. Asimismo, sólo podrán modificarse conceptos o datos de fondo cuando exista el consentimiento de todos los interesados en el registro.\n\nA falta del consentimiento unánime de los interesados la anotación marginal sólo podrá efectuarse por resolución judicial.\n\nLa anotación marginal surtirá efectos a partir de la fecha de su inscripción.",
+    "text": "Procederá la anotación marginal cuando a petición del autor o titular de los derechos patrimoniales, se requiera:\n\nI. Modificar el título de la obra;\n\nII. Hacer mención de un autor o colaborador omitido en la solicitud de registro;\n\nIII. Señalar al titular de los derechos patrimoniales o agregar al titular omitido en la solicitud de registro;\n\nIV. Modificar la vigencia establecida en el contrato;\n\nV. Cambiar la denominación o razón social del titular del derecho patrimonial de autor y del mandante en el caso de la inscripción de un poder;\n\nVI. Cambiar la denominación de la Sociedad, previa autorización que emita el Instituto;\n\nVII. Revocar el poder otorgado;\n\nVIII. Aclarar si la obra es primigenia o derivada;\n\nIX. Manifestar la fusión de personas morales titulares de los derechos patrimoniales de autor; X. Modificar los estatutos de las Sociedades;\n\nXI. Suprimir un nombre que por error se haya manifestado como autor, colaborador, titular o parte en el certificado de registro, y\n\nXII. Las demás que por analogía puedan incluirse. Cuando se trate de modificaciones sobre los datos registrados que se indican en las fracciones I, II, III, IV, VIII y XI sólo podrán realizarse con el consentimiento de todos los interesados en el registro. Asimismo, sólo podrán modificarse conceptos o datos de fondo cuando exista el consentimiento de todos los interesados en el registro.\n\nA falta del consentimiento unánime de los interesados la anotación marginal sólo podrá efectuarse por resolución judicial.\n\nLa anotación marginal surtirá efectos a partir de la fecha de su inscripción.",
     "publication_date": "1998-05-22",
     "effective_from": "1998-05-23",
     "effective_to": null,
@@ -1585,7 +1753,7 @@
       "title": "Título VIII",
       "chapter": "Capítulo III"
     },
-    "text": "Para los efectos del Inciso b) de la fracción I del artículo 188 de la Ley se entiende por genérico:\n\nI. Las palabras indicativas o que en el lenguaje común se emplean para designar tanto a las especies como al género en el cual se pretenda obtener la reserva, de conformidad con el artículo 173 de la Ley;\n\nII. Las palabras descriptivas del género en el cual se solicite la reserva;\n\nIII. Los nombres o denominaciones de las ramas generales del conocimiento;\n\nIV. Los nombres o denominaciones de los deportes o competencias deportivas, cuando pretendan aplicarse a publicaciones periódicas, difusiones periódicas o promociones publicitarias, y\n\nV. Los artículos, las preposiciones y las conjunciones.",
+    "text": "Para los efectos del Inciso b) de la fracción I del artículo 188 de la Ley se entiende por genérico:\n\nI. Las palabras indicativas o que en el lenguaje común se emplean para designar tanto a las especies como al género en el cual se pretenda obtener la reserva, de conformidad con el artículo 173 de la Ley; II. Las palabras descriptivas del género en el cual se solicite la reserva;\n\nIII. Los nombres o denominaciones de las ramas generales del conocimiento;\n\nIV. Los nombres o denominaciones de los deportes o competencias deportivas, cuando pretendan aplicarse a publicaciones periódicas, difusiones periódicas o promociones publicitarias, y\n\nV. Los artículos, las preposiciones y las conjunciones.",
     "publication_date": "1998-05-22",
     "effective_from": "1998-05-23",
     "effective_to": null,
@@ -1774,7 +1942,7 @@
       "title": "Título VIII",
       "chapter": "Capítulo III"
     },
-    "text": "Admitida la solicitud de declaración administrativa de nulidad o cancelación, el Instituto notificará al titular afectado, concediéndole un plazo de 15 días para que manifieste por escrito lo que a su derecho convenga, oponga excepciones y defensas y presente pruebas. La notificación se realizará en el domicilio indicado en la solicitud de reserva respectiva o en el último que se haya manifestado, según constancia que exista en el expediente.",
+    "text": "Admitida la solicitud de declaración administrativa de nulidad o cancelación, el Instituto notificará al titular afectado, concediéndole un plazo de 15 días para que manifieste por escrito lo que a su derecho convenga, oponga excepciones y defensas y presente pruebas.\n\nLa notificación se realizará en el domicilio indicado en la solicitud de reserva respectiva o en el último que se haya manifestado, según constancia que exista en el expediente.",
     "publication_date": "1998-05-22",
     "effective_from": "1998-05-23",
     "effective_to": null,
@@ -1942,7 +2110,7 @@
       "title": "Título IX",
       "chapter": "Capítulo I"
     },
-    "text": "El Instituto deberá:\n\nI. Asignar los prefijos a cada editor, para el caso del Número Internacional Normalizado del Libro;\n\nII. Validar el contenido de la ficha catalográfica que le proporcione el editor o solicitante;\n\nIII. Validar los Números Internacionales Normalizados del Libro y los Números Internacionales Normalizados para Publicaciones Periódicas que otorgue;\n\nIV. Mantener los archivos maestros;\n\nV. Enviar cada año a la Agencia Internacional del Número Internacional Normalizado del Libro, una lista actualizada de los editores nacionales, y VI. Enviar cada año al Centro Internacional del Sistema de Publicaciones Periódicas una lista actualizada de los Números Internacionales Normalizados para Publicaciones Periódicas otorgados por el Instituto.",
+    "text": "El Instituto deberá:\n\nI. Asignar los prefijos a cada editor, para el caso del Número Internacional Normalizado del Libro;\n\nII. Validar el contenido de la ficha catalográfica que le proporcione el editor o solicitante;\n\nIII. Validar los Números Internacionales Normalizados del Libro y los Números Internacionales Normalizados para Publicaciones Periódicas que otorgue;\n\nIV. Mantener los archivos maestros;\n\nV. Enviar cada año a la Agencia Internacional del Número Internacional Normalizado del Libro, una lista actualizada de los editores nacionales, y\n\nVI. Enviar cada año al Centro Internacional del Sistema de Publicaciones Periódicas una lista actualizada de los Números Internacionales Normalizados para Publicaciones Periódicas otorgados por el Instituto.",
     "publication_date": "1998-05-22",
     "effective_from": "1998-05-23",
     "effective_to": null,
@@ -2047,7 +2215,7 @@
       "title": "Título IX",
       "chapter": "Capítulo II"
     },
-    "text": "El Número Internacional Normalizado del Libro consta de:\n\nI. Identificador de grupo: señala al país donde se hace la edición;\n\nII. Prefijo de editor: designa a cada editor en lo particular; III. Identificador de título: se otorga a cada título en particular o a la edición de un título publicado por un editor determinado, y\n\nIV. Dígito de control: último dígito del Número Internacional Normalizado del Libro, que se obtiene como resultado de un cálculo derivado de los demás dígitos a fin de comprobar la correcta asignación del número en su conjunto.\n\nEl identificador del grupo es el acordado con la entidad internacional encargada del Número Internacional Normalizado del Libro.\n\nEl conjunto de dígitos debe ir precedido por las siglas ISBN.",
+    "text": "El Número Internacional Normalizado del Libro consta de:\n\nI. Identificador de grupo: señala al país donde se hace la edición;\n\nII. Prefijo de editor: designa a cada editor en lo particular;\n\nIII. Identificador de título: se otorga a cada título en particular o a la edición de un título publicado por un editor determinado, y\n\nIV. Dígito de control: último dígito del Número Internacional Normalizado del Libro, que se obtiene como resultado de un cálculo derivado de los demás dígitos a fin de comprobar la correcta asignación del número en su conjunto.\n\nEl identificador del grupo es el acordado con la entidad internacional encargada del Número Internacional Normalizado del Libro.\n\nEl conjunto de dígitos debe ir precedido por las siglas ISBN.",
     "publication_date": "1998-05-22",
     "effective_from": "1998-05-23",
     "effective_to": null,
@@ -2236,7 +2404,7 @@
       "title": "Título X",
       "chapter": "Capítulo ÚNICO"
     },
-    "text": "El Instituto, como autoridad administrativa en materia de derechos de autor, tendrá las siguientes facultades:\n\nI. Proteger el derecho de autor y los derechos conexos en los términos de la legislación nacional y de los convenios y tratados internacionales suscritos y ratificados por México;\n\nII. Promover la creación de obras del ingenio mediante la realización de concursos, certámenes o exposiciones y el otorgamiento de premios y reconocimientos que estimulen la actividad creadora de los autores;\n\nIII. Promover la cooperación internacional, mediante el intercambio de experiencias administrativas y jurídicas con instituciones encargadas del registro y protección legal de los derechos de autor y de los derechos conexos;\n\nIV. Llevar, vigilar y conservar el Registro;\n\nV. Conservar y resguardar el acervo cultural depositado en el Registro;\n\nVI. Coordinar con las diversas instituciones públicas y privadas, nacionales, extranjeras e internacionales, acciones que tengan por objeto el fomento y protección de los derechos de autor y de los derechos conexos, el auspicio y desarrollo de creaciones culturales, así como la difusión de las culturas populares;\n\nVII. Proporcionar la información y la cooperación técnica y jurídica que le sea requerida por autoridades federales;\n\nVIII. Propiciar la participación de la industria cultural en el desarrollo y protección de los derechos de autor y de los derechos conexos;\n\nIX. Recibir las solicitudes y, en su caso, otorgar reservas;\n\nX. Substanciar las declaraciones administrativas de cancelación y nulidad;\n\nXI. Intervenir en los conflictos que se susciten sobre derechos protegidos por la Ley, de conformidad con los procedimientos de avenencia y arbitraje que la misma establece;\n\nXII. Designar peritos cuando se le solicite conforme a la Ley;\n\nXIII. Emitir los dictámenes técnicos que le sean requeridos por el Poder Judicial, por el Ministerio Público de la Federación o por un grupo arbitral;\n\nXIV. Substanciar y resolver el recurso de revisión;\n\nXV. Difundir y dar servicio al público en materia del derecho de autor y derechos conexos;\n\nXVI. Difundir las obras de arte popular y artesanal;\n\nXVII. Participar en la formación de recursos humanos especializados a través de la formulación y ejecución de programas de capacitación;\n\nXVIII. Autorizar y revocar, cuando proceda, la operación de sociedades;\n\nXIX. Colaborar y apoyar las negociaciones sobre los aspectos sustantivos del derecho de autor y los derechos conexos en los tratados y convenios internacionales que contengan disposiciones sobre la materia;\n\nXX. Participar, en coordinación con las áreas competentes de la Secretaría, en las negociaciones administrativas que correspondan al ámbito de sus atribuciones, y\n\nXXI. Las demás que le otorguen la Ley y este Reglamento.\n\nEl Instituto podrá expedir aclaraciones e interpretaciones a solicitud de autoridad competente y brindar orientación a los particulares cuando se trate de consultas sobre la aplicación administrativa de la Ley y este Reglamento; sin embargo, si la contestación a las consultas planteadas implica la resolución del fondo de un posible conflicto entre particulares, la interpretación de las disposiciones de la Ley y este Reglamento será competencia de los tribunales federales.",
+    "text": "El Instituto, como autoridad administrativa en materia de derechos de autor, tendrá las siguientes facultades:\n\nI. Proteger el derecho de autor y los derechos conexos en los términos de la legislación nacional y de los convenios y tratados internacionales suscritos y ratificados por México; II. Promover la creación de obras del ingenio mediante la realización de concursos, certámenes o exposiciones y el otorgamiento de premios y reconocimientos que estimulen la actividad creadora de los autores;\n\nIII. Promover la cooperación internacional, mediante el intercambio de experiencias administrativas y jurídicas con instituciones encargadas del registro y protección legal de los derechos de autor y de los derechos conexos;\n\nIV. Llevar, vigilar y conservar el Registro;\n\nV. Conservar y resguardar el acervo cultural depositado en el Registro;\n\nVI. Coordinar con las diversas instituciones públicas y privadas, nacionales, extranjeras e internacionales, acciones que tengan por objeto el fomento y protección de los derechos de autor y de los derechos conexos, el auspicio y desarrollo de creaciones culturales, así como la difusión de las culturas populares;\n\nVII. Proporcionar la información y la cooperación técnica y jurídica que le sea requerida por autoridades federales;\n\nVIII. Propiciar la participación de la industria cultural en el desarrollo y protección de los derechos de autor y de los derechos conexos;\n\nIX. Recibir las solicitudes y, en su caso, otorgar reservas;\n\nX. Substanciar las declaraciones administrativas de cancelación y nulidad;\n\nXI. Intervenir en los conflictos que se susciten sobre derechos protegidos por la Ley, de conformidad con los procedimientos de avenencia y arbitraje que la misma establece;\n\nXII. Designar peritos cuando se le solicite conforme a la Ley;\n\nXIII. Emitir los dictámenes técnicos que le sean requeridos por el Poder Judicial, por el Ministerio Público de la Federación o por un grupo arbitral;\n\nXIV. Substanciar y resolver el recurso de revisión;\n\nXV. Difundir y dar servicio al público en materia del derecho de autor y derechos conexos;\n\nXVI. Difundir las obras de arte popular y artesanal;\n\nXVII. Participar en la formación de recursos humanos especializados a través de la formulación y ejecución de programas de capacitación;\n\nXVIII. Autorizar y revocar, cuando proceda, la operación de sociedades;\n\nXIX. Colaborar y apoyar las negociaciones sobre los aspectos sustantivos del derecho de autor y los derechos conexos en los tratados y convenios internacionales que contengan disposiciones sobre la materia;\n\nXX. Participar, en coordinación con las áreas competentes de la Secretaría, en las negociaciones administrativas que correspondan al ámbito de sus atribuciones, y XXI. Las demás que le otorguen la Ley y este Reglamento.\n\nEl Instituto podrá expedir aclaraciones e interpretaciones a solicitud de autoridad competente y brindar orientación a los particulares cuando se trate de consultas sobre la aplicación administrativa de la Ley y este Reglamento; sin embargo, si la contestación a las consultas planteadas implica la resolución del fondo de un posible conflicto entre particulares, la interpretación de las disposiciones de la Ley y este Reglamento será competencia de los tribunales federales.",
     "publication_date": "1998-05-22",
     "effective_from": "1998-05-23",
     "effective_to": null,
@@ -2341,7 +2509,7 @@
       "title": "Título XI",
       "chapter": "Capítulo I"
     },
-    "text": "Los apoderados o la sociedad, según el caso, únicamente podrán ejercitar aquellos derechos cuya administración o gestión se les hubiere expresamente conferido.\n\nEn caso de omisión respecto de alguna de las modalidades de explotación en el poder otorgado a la sociedad o al apoderado, su ejercicio estará reservado en favor del autor o del titular del derecho.",
+    "text": "Los apoderados o la sociedad, según el caso, únicamente podrán ejercitar aquellos derechos cuya administración o gestión se les hubiere expresamente conferido. En caso de omisión respecto de alguna de las modalidades de explotación en el poder otorgado a la sociedad o al apoderado, su ejercicio estará reservado en favor del autor o del titular del derecho.",
     "publication_date": "1998-05-22",
     "effective_from": "1998-05-23",
     "effective_to": null,
@@ -2551,7 +2719,7 @@
       "title": "Título XI",
       "chapter": "Capítulo II"
     },
-    "text": "El Instituto autorizará las sociedades que podrán operar para defender los derechos y prerrogativas de los autores o titulares de derechos conexos y sus causahabientes, de acuerdo con lo siguiente:\n\nI. Por rama o categoría de creación de obras;\n\nII. Por categoría de titulares de derechos conexos, y III. Por modalidad de explotación, cuando concurran en su titularidad varias categorías de creación de obras o de titulares de derechos conexos, y siempre que la naturaleza de los derechos encomendados a su gestión así lo justifique.",
+    "text": "El Instituto autorizará las sociedades que podrán operar para defender los derechos y prerrogativas de los autores o titulares de derechos conexos y sus causahabientes, de acuerdo con lo siguiente:\n\nI. Por rama o categoría de creación de obras;\n\nII. Por categoría de titulares de derechos conexos, y\n\nIII. Por modalidad de explotación, cuando concurran en su titularidad varias categorías de creación de obras o de titulares de derechos conexos, y siempre que la naturaleza de los derechos encomendados a su gestión así lo justifique.",
     "publication_date": "1998-05-22",
     "effective_from": "1998-05-23",
     "effective_to": null,
@@ -2614,7 +2782,7 @@
       "title": "Título XI",
       "chapter": "Capítulo II"
     },
-    "text": "El interesado, una vez otorgada la autorización deberá, en un plazo no mayor de treinta días, acudir ante notario público para protocolizar el acta constitutiva. Una vez obtenida la protocolización, deberá inscribir el acta y los estatutos de la sociedad en el Registro dentro de un plazo igual. Transcurridos los plazos señalados sin que se hubieran realizado las acciones previstas, la autorización de operación de la sociedad se considerará caduca.\n\nPresentada la solicitud, el Registro contará con un plazo de treinta días para realizar la inscripción.",
+    "text": "El interesado, una vez otorgada la autorización deberá, en un plazo no mayor de treinta días, acudir ante notario público para protocolizar el acta constitutiva. Una vez obtenida la protocolización, deberá inscribir el acta y los estatutos de la sociedad en el Registro dentro de un plazo igual. Transcurridos los plazos señalados sin que se hubieran realizado las acciones previstas, la autorización de operación de la sociedad se considerará caduca. Presentada la solicitud, el Registro contará con un plazo de treinta días para realizar la inscripción.",
     "publication_date": "1998-05-22",
     "effective_from": "1998-05-23",
     "effective_to": null,
@@ -2635,7 +2803,7 @@
       "title": "Título XI",
       "chapter": "Capítulo II"
     },
-    "text": "Los estatutos de la sociedad serán propuestos libremente por la asamblea pero en todo caso deberán apegarse a lo establecido por la Ley y contener las normas que regulen:\n\nI. La duración de la sociedad;\n\nII. La administración de socios;\n\nIII. La exclusión de socios, y IV. La disolución de la sociedad.",
+    "text": "Los estatutos de la sociedad serán propuestos libremente por la asamblea pero en todo caso deberán apegarse a lo establecido por la Ley y contener las normas que regulen:\n\nI. La duración de la sociedad;\n\nII. La administración de socios;\n\nIII. La exclusión de socios, y\n\nIV. La disolución de la sociedad.",
     "publication_date": "1998-05-22",
     "effective_from": "1998-05-23",
     "effective_to": null,
@@ -2887,7 +3055,7 @@
       "title": "Título XI",
       "chapter": "Capítulo II"
     },
-    "text": "Las solicitudes de informes, inspecciones y auditorías a que se refiere el artículo 207 de la Ley, se sujetarán a las formalidades siguientes:\n\nI. Los informes requeridos por el Instituto al órgano de administración de la sociedad, deberán rendirse en un plazo que no excederá de treinta días; en los supuestos previstos en el artículo 194 de la Ley, el plazo será de tres meses;\n\nII. El Instituto podrá realizar visitas de inspección para verificar el cumplimiento por parte de la sociedad de las obligaciones que establecen la Ley, este Reglamento y sus estatutos;\n\nIII. Cuando de la información proporcionada o de la visita de inspección que se practique, se desprendan probables violaciones en el manejo y distribución de los recursos de la sociedad o los de sus miembros, el Instituto podrá ordenar auditorías, mediante acuerdo por escrito, a fin de verificar la situación financiera y contable de la sociedad;\n\nIV. Las auditorías se llevarán a cabo en días y horas hábiles y serán practicadas, a cargo de la sociedad, por las personas autorizadas por el Instituto el que en casos justificados podrá autorizar que se practiquen en días y horas inhábiles;\n\nV. Las personas que atiendan la auditoría por parte de la sociedad deberán brindar todo tipo de facilidades y proporcionar los libros y demás documentación que se les requiera, con motivo de la diligencia, y VI. Concluida la auditoría, las personas comisionadas, elaborarán un informe sobre los resultados que se deriven de la diligencia, que será evaluado por el Instituto a fin de determinar las medidas que procedan conforme a las disposiciones legales aplicables.",
+    "text": "Las solicitudes de informes, inspecciones y auditorías a que se refiere el artículo 207 de la Ley, se sujetarán a las formalidades siguientes:\n\nI. Los informes requeridos por el Instituto al órgano de administración de la sociedad, deberán rendirse en un plazo que no excederá de treinta días; en los supuestos previstos en el artículo 194 de la Ley, el plazo será de tres meses;\n\nII. El Instituto podrá realizar visitas de inspección para verificar el cumplimiento por parte de la sociedad de las obligaciones que establecen la Ley, este Reglamento y sus estatutos;\n\nIII. Cuando de la información proporcionada o de la visita de inspección que se practique, se desprendan probables violaciones en el manejo y distribución de los recursos de la sociedad o los de sus miembros, el Instituto podrá ordenar auditorías, mediante acuerdo por escrito, a fin de verificar la situación financiera y contable de la sociedad;\n\nIV. Las auditorías se llevarán a cabo en días y horas hábiles y serán practicadas, a cargo de la sociedad, por las personas autorizadas por el Instituto el que en casos justificados podrá autorizar que se practiquen en días y horas inhábiles;\n\nV. Las personas que atiendan la auditoría por parte de la sociedad deberán brindar todo tipo de facilidades y proporcionar los libros y demás documentación que se les requiera, con motivo de la diligencia, y\n\nVI. Concluida la auditoría, las personas comisionadas, elaborarán un informe sobre los resultados que se deriven de la diligencia, que será evaluado por el Instituto a fin de determinar las medidas que procedan conforme a las disposiciones legales aplicables.",
     "publication_date": "1998-05-22",
     "effective_from": "1998-05-23",
     "effective_to": null,
@@ -2992,7 +3160,7 @@
       "title": "Título XII",
       "chapter": "Capítulo II"
     },
-    "text": "El procedimiento administrativo de avenencia se iniciará ante el Instituto, mediante un escrito que contenga:\n\nI. Nombre del solicitante o, en su caso, el de su representante;\n\nII. Domicilio para oír y recibir notificaciones;\n\nIII. Nombre y domicilio de la persona o personas contra las cuales se promueve la queja, o los de sus representantes;\n\nIV. Relación sucinta de los hechos que han motivado la presentación de la queja, redactados en términos claros y precisos;\n\nV. Documentos necesarios para acreditar la personalidad del promovente;\n\nVI. Copia de traslado del escrito inicial y sus anexos para cada una de las personas contra las cuales se presente la queja;\n\nVII. Copia del comprobante de pago de derechos relativo, y\n\nVIII. Fecha y firma.",
+    "text": "El procedimiento administrativo de avenencia se iniciará ante el Instituto, mediante un escrito que contenga:\n\nI. Nombre del solicitante o, en su caso, el de su representante;\n\nII. Domicilio para oír y recibir notificaciones;\n\nIII. Nombre y domicilio de la persona o personas contra las cuales se promueve la queja, o los de sus representantes;\n\nIV. Relación sucinta de los hechos que han motivado la presentación de la queja, redactados en términos claros y precisos; V. Documentos necesarios para acreditar la personalidad del promovente;\n\nVI. Copia de traslado del escrito inicial y sus anexos para cada una de las personas contra las cuales se presente la queja;\n\nVII. Copia del comprobante de pago de derechos relativo, y\n\nVIII. Fecha y firma.",
     "publication_date": "1998-05-22",
     "effective_from": "1998-05-23",
     "effective_to": null,
@@ -3370,7 +3538,7 @@
       "title": "Título XIII",
       "chapter": "Capítulo I"
     },
-    "text": "El escrito de queja deberá presentarse ante el Instituto y contener:\n\nI. Nombre del promovente y, en su caso, el de su representante;\n\nII. Domicilio para oír y recibir notificaciones;\n\nIII. Nombre y domicilio del probable infractor, en su caso;\n\nIV. Descripción de la violación a la Ley o a este Reglamento; V. Relación sucinta de los hechos que han dado motivo a la presentación de la queja, redactados en términos claros y precisos;\n\nVI. Derecho aplicable al caso;\n\nVII. Documentos que acrediten la personalidad del promovente;\n\nVIII. Documentos en los que se funde la queja y las pruebas relativas;\n\nIX. Comprobante de pago de derechos, y\n\nX. Fecha y firma.\n\nPresentada la queja, el Instituto contará con un plazo de quince días para admitirla o desecharla.",
+    "text": "El escrito de queja deberá presentarse ante el Instituto y contener: I. Nombre del promovente y, en su caso, el de su representante;\n\nII. Domicilio para oír y recibir notificaciones;\n\nIII. Nombre y domicilio del probable infractor, en su caso;\n\nIV. Descripción de la violación a la Ley o a este Reglamento;\n\nV. Relación sucinta de los hechos que han dado motivo a la presentación de la queja, redactados en términos claros y precisos;\n\nVI. Derecho aplicable al caso;\n\nVII. Documentos que acrediten la personalidad del promovente;\n\nVIII. Documentos en los que se funde la queja y las pruebas relativas;\n\nIX. Comprobante de pago de derechos, y\n\nX. Fecha y firma.\n\nPresentada la queja, el Instituto contará con un plazo de quince días para admitirla o desecharla.",
     "publication_date": "1998-05-22",
     "effective_from": "1998-05-23",
     "effective_to": null,
@@ -3580,7 +3748,7 @@
       "title": "Título XIII",
       "chapter": "Capítulo III"
     },
-    "text": "La solicitud para iniciar el procedimiento para el establecimiento de tarifas para el pago de regalías deberá contener:\n\nI. Nombre y domicilio de la sociedad que promueve la solicitud o, en su caso, el de la cámara, grupo o asociación de usuarios, así como el de quien promueve en su nombre y los documentos con que acredite su personalidad;\n\nII. Nombre y domicilio de la cámara, grupo o asociación de usuarios o, en su caso, el de la sociedad o sociedades a quienes resultaría aplicable la tarifa;\n\nIII. Forma de explotación, así como la clase de establecimientos para los cuales resultará aplicable la tarifa, y\n\nIV. Consideraciones de hecho y de derecho en que funda la tarifa propuesta, misma que deberá: Párrafo reformado DOF 14-09-2005\n\na) Basarse en criterios objetivos y determinables mediante una simple operación aritmética;\n\nb) En caso de formas de explotación en las que participen diversas clases de titulares de derechos de autor y derechos conexos, establecer la participación que cada clase de titulares tendrá sobre la tarifa global, y c) Enunciar los elementos, criterios objetivos o, en su caso, prácticas establecidas que justifiquen el cálculo del pago que deberán hacer las distintas categorías de usuarios a quienes resulte aplicable la tarifa, y Inciso reformado DOF 14-09-2005\n\nV. Detallar el sistema o forma en que se repartirán a los socios o agremiados las cantidades que recaude la sociedad o, en su caso, la cámara, grupo o asociación de usuarios que se beneficia con la tarifa. Fracción adicionada DOF 14-09-2005",
+    "text": "La solicitud para iniciar el procedimiento para el establecimiento de tarifas para el pago de regalías deberá contener:\n\nI. Nombre y domicilio de la sociedad que promueve la solicitud o, en su caso, el de la cámara, grupo o asociación de usuarios, así como el de quien promueve en su nombre y los documentos con que acredite su personalidad;\n\nII. Nombre y domicilio de la cámara, grupo o asociación de usuarios o, en su caso, el de la sociedad o sociedades a quienes resultaría aplicable la tarifa;\n\nIII. Forma de explotación, así como la clase de establecimientos para los cuales resultará aplicable la tarifa, y IV. Consideraciones de hecho y de derecho en que funda la tarifa propuesta, misma que deberá: Párrafo reformado DOF 14-09-2005\n\na) Basarse en criterios objetivos y determinables mediante una simple operación aritmética;\n\nb) En caso de formas de explotación en las que participen diversas clases de titulares de derechos de autor y derechos conexos, establecer la participación que cada clase de titulares tendrá sobre la tarifa global, y\n\nc) Enunciar los elementos, criterios objetivos o, en su caso, prácticas establecidas que justifiquen el cálculo del pago que deberán hacer las distintas categorías de usuarios a quienes resulte aplicable la tarifa, y Inciso reformado DOF 14-09-2005\n\nV. Detallar el sistema o forma en que se repartirán a los socios o agremiados las cantidades que recaude la sociedad o, en su caso, la cámara, grupo o asociación de usuarios que se beneficia con la tarifa. Fracción adicionada DOF 14-09-2005",
     "publication_date": "1998-05-22",
     "effective_from": null,
     "effective_to": null,
@@ -4063,7 +4231,7 @@
       "title": null,
       "chapter": null
     },
-    "text": "Los profesionistas que pretendan fungir como árbitros y hayan prestado sus servicios en las sociedades de autores constituidas conforme a la Ley anterior, no podrán hacerlo hasta que fenezca el plazo que la Ley vigente establece para quienes lo hacen o han hecho en las sociedades de gestión colectiva.\n\nDado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los quince días del mes de mayo de mil novecientos noventa y ocho.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Educación Pública, Miguel Limón Rojas.- Rúbrica.- El Secretario de Comercio y Fomento Industrial, Herminio Blanco Mendoza.- Rúbrica.",
+    "text": "Los profesionistas que pretendan fungir como árbitros y hayan prestado sus servicios en las sociedades de autores constituidas conforme a la Ley anterior, no podrán hacerlo hasta que fenezca el plazo que la Ley vigente establece para quienes lo hacen o han hecho en las sociedades de gestión colectiva.",
     "publication_date": "1998-05-22",
     "effective_from": null,
     "effective_to": null,
