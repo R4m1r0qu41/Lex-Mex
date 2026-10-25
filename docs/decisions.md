@@ -1,6 +1,6 @@
 # Architecture decisions
 
-## 2026-10-25 — Post-split corpus repair: DCG heading separator, 14 debt rows retired, five editions
+## 2026-10-25 — Post-split corpus repair: DCG heading separator, 14 debt rows retired, four of five editions
 
 Operator instruction of 2026-10-25: commit the R0 parser repairs, reparse the R1 instruments
 and `cucb`/`oaac`, re-ingest the five changed editions, and inspect `lscs` carefully. Local
@@ -21,7 +21,7 @@ records pin commit SHAs, so never rebase or squash it). Nothing is merged or pus
 - **cucb and oaac** reparse (`050660b5a`) also brings in the margin-number removal and the
   legend fix that were held for them. Amended articles now leave `effective_from` unset under
   the deterministic rule (35 and 22 provisions). Their two entries are removed from the closure
-  accepted-gaps record; the three remaining rejections (`cub-dcg-2005`, `lftr`,
+  accepted-gaps record; `cub-dcg-2005` follows below, so the two remaining rejections (`lftr`,
   `socap-sofipo-dcg-2006`) equal the record exactly.
 - **lscs** (`600ea9a60`): 16 reform transitories of six decrees (3, 1, 5, 2, 2, 3), hand-checked
   against the appendix. This is extracted evidence, not a finding that each transitory governs
@@ -30,18 +30,25 @@ records pin commit SHAs, so never rebase or squash it). Nothing is merged or pus
 - **Editions.** Re-ingested by the pipeline, hashes equal to the acquisition: `reg-laero`
   (`c0b938181`), `reg-lfda` (`b9f49d9d6`; +8 articles, frozen count 188 to 196), `ligie`
   (`ef28b9619`; the publisher header still reads Última Reforma DOF 29-12-2025 while the text
-  marks decrees to 13-10-2026, so `latest_reform_date` trails). **Held, not ingested:**
-  `cub-dcg-2005` (the current edition's legend repeats markers 325 and 326) and
-  `socap-sofipo-dcg-2006` (its legend omits entry 91 although the text uses mark (91)). Both are
-  source defects; `duplicate_amendment_marker` and `unknown_amendment_mark` stay errors. Attempts
-  are preserved under `.work/parser-repair-20261025/`.
+  marks decrees to 13-10-2026, so `latest_reform_date` trails).
+- **Validator rule for a repeated legend entry** (`7df6203fe`). The current CUB edition prints legend
+  markers 325 and 326 twice with identical text. A repeat with identical text (whitespace
+  normalized) is read once and disclosed as the warning `duplicate_amendment_marker_identical`; a repeat
+  that differs stays the error `duplicate_amendment_marker`, and a mark with no legend entry stays
+  `unknown_amendment_mark`. This is a change at a trusted boundary and a separate commit: revert it to
+  restore the strict rule. `cub-dcg-2005` is re-ingested under it (`5399d1762`): 7 recovered articles,
+  454 margin-number removals, 19 substantive updates from the resolutions of 2026-07-14 and
+  2026-09-01, one provision `effective` to `repealed`; its closure accepted-gap record is removed.
+  **Held, not ingested:** `socap-sofipo-dcg-2006`, whose legend omits entry 91 although the text uses
+  mark (91); a missing entry cannot be invented and `unknown_amendment_mark` stays an error. The attempt
+  is preserved under `.work/parser-repair-20261025/`.
 - **Goldens not edited.** `db golden-queries` now fails two of 21: `G6 active LFD structural
   debt` (the row is retired) and `G5 complete cited-but-missing inventory` (6 instruments and
-  17 references became 4 and 13, exactly the cucb and oaac references now resolved). The other
+  17 references became 2 and 4: only `lftr` and `socap` remain, the cucb, oaac and cub references now resolve). The other
   19 pass against the new database. Proposed replacements are in the corpus record; changing an
   acceptance fixture needs an explicit decision.
-- **Database.** Two fresh projections from `ef28b9619` are byte-identical and pass `db verify`
-  (release `bb8a77dd…`, 68,367 provisions, 35,944 edges, 5,789 terms, 97,996 usages).
+- **Database.** Two fresh projections from `5399d1762` are byte-identical and pass `db verify`
+  (release `3c67a66b…`, 68,374 provisions, 36,073 edges, 5,985 terms, 102,278 usages, 0 active debt rows).
 
 ## 2026-10-21 — Resolved structural debt retains accepted history; seed version 3
 

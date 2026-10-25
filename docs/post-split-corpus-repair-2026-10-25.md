@@ -19,6 +19,9 @@ The decision is recorded in `docs/decisions.md` under 2026-10-25.
 | `c0b938181` | Re-ingest `reg-laero` |
 | `b9f49d9d6` | Re-ingest `reg-lfda` (frozen count 188 to 196) |
 | `ef28b9619` | Re-ingest `ligie` |
+| `223700bf9` | Record the corpus repair (decision, status, this record) |
+| `7df6203fe` | Validator: an identical repeated legend entry is a warning (revertible) |
+| `5399d1762` | Re-ingest `cub-dcg-2005`; remove its closure accepted-gap record |
 
 Built and run with the binary from `dabeb0029` (SHA-256 `cb575827…`); `crates/` is unchanged since.
 
@@ -50,29 +53,35 @@ Built and run with the binary from `dabeb0029` (SHA-256 `cb575827…`); `crates/
   publisher header still says Última Reforma 29-12-2025, so `latest_reform_date` trails the newest
   decree. None of the three had review or audited state.
 
-## Held editions (not ingested)
+## cub-dcg-2005 and the held edition
 
-| Instrument | Fetched edition | Blocker | Why not forced |
-| --- | --- | --- | --- |
-| `cub-dcg-2005` | `b03eb544…` (6,159,458 bytes), equals the acquisition hash | Legend repeats markers 325 and 326 with identical text (source lines 46381 to 46389) | `duplicate_amendment_marker` is correct by default. Admitting it means choosing a disclosed rule for identical duplicates (collapse with a warning, parser and validator and a DB uniqueness check). Everything else parses: 712 articles, gaps `139 Bis 7→141` closed, `249→251` stays. |
-| `socap-sofipo-dcg-2006` | `784be7c5…` (3,670,327 bytes) | The legend jumps from 90) to 92); the text uses mark (91) six times | A missing legend entry cannot be invented. |
+**cub-dcg-2005** was first held because its current edition (`b03eb544…`, 6,159,458 bytes, equal to the acquisition hash)
+prints legend markers 325 and 326 twice with identical text. Following your instruction to re-ingest all five, `7df6203fe`
+adds a narrow rule: an identical repeat is read once and disclosed as `duplicate_amendment_marker_identical`; a differing
+repeat stays an error and a missing entry stays an error. It is a validator change at a trusted boundary in its own commit;
+revert it to restore the strict rule. Under it, `5399d1762` re-ingests `cub`: 722 provisions (712 articles, 10 transitories);
+recovers `140`, `175 Bis 4` and the `319 Bis` family; 474 text changes, of which 454 are margin-number removals, 1 whitespace
+and 19 substantive updates of the resolutions of 2026-07-14 and 2026-09-01 (latest reform 2026-07-03 to 2026-09-01); one
+provision moves `effective` to `repealed`; no review state existed; two disclosed warnings; the gaps `139 Bis 7→141` close
+and `249→251` stays.
 
-Both attempts are kept under `.work/parser-repair-20261025/cub-attempt-1` and `socap-attempt-1`;
-the corpus tree was restored to the committed state.
+**socap-sofipo-dcg-2006** stays **held** (`784be7c5…`, 3,670,327 bytes): its legend jumps from 90) to 92) while the text uses
+mark (91) six times. A missing legend entry cannot be invented, so `unknown_amendment_mark` stays an error. The attempt is kept
+under `.work/parser-repair-20261025/socap-attempt-1`; the tree was restored to the committed state.
 
 ## Checks run
 
 - Locked `validate lritf` and `validate ifpe-dcg-2021`: valid, 0 issues (145/11/126 and 59/4/115).
   First time run on this branch.
-- fmt, clippy (1.95 default and 1.99.0), 434 workspace tests: pass.
-- Touched instruments validate (`lfd` 1, `cucb` 2, `oaac` 3 warnings; no errors).
-- `link --all` on a copy-on-write clone: exit 0, 0 instruments relinked, 35,944 edges unchanged,
-  the 3 rejections equal the recorded accepted gaps. The per-instrument link did not move any
+- fmt, clippy (1.95 default and 1.99.0), 436 workspace tests (434 plus two validator tests): pass.
+- All 11 touched instruments validate (warnings only: `lfd` 1, `cucb` 2, `oaac` 3, `cub` 5 including the two disclosed repeats).
+- `link --all` on a copy-on-write clone: exit 0, 0 instruments relinked, 36,073 edges unchanged,
+  the 2 rejections (`lftr`, `socap-sofipo-dcg-2006`) equal the recorded accepted gaps. The per-instrument link did not move any
   other instrument's edge.
-- Two fresh `db project` runs from `ef28b9619`: byte-identical database and manifest (release
-  `bb8a77dd…`, database `ce47d1ba…`, logical `4af42668…`); both pass `db verify`.
-  Census: 68,367 provisions (+26: 14 splits, 1 cucb, 3 oaac, 8 reg-lfda), 35,944 edges, 5,789 terms,
-  97,996 usages, 0 active and 17 retired debt rows.
+- Two fresh `db project` runs from `5399d1762`: byte-identical database and manifest (release
+  `3c67a66b…`, database `2417cca3…`, logical `673379d4…`); both pass `db verify`.
+  Census: 68,374 provisions (+33 over the accepted 68,341: 14 splits, 1 cucb, 3 oaac, 8 reg-lfda, 7 cub), 36,073 edges,
+  5,985 terms, 102,278 usages, 0 active and 17 retired debt rows.
 
 ## Golden queries: 19 of 21 pass; two need a decision
 
@@ -81,12 +90,12 @@ Not edited, per the plan. Both differences are exactly explained:
 | Golden | Now | Proposed replacement |
 | --- | --- | --- |
 | `G6 active LFD structural debt` | the row is retired, so the query returns no rows | a count of 1 for `lfd:article:257-sextus` in `provisions`, like `G6 LGTOC separate article` |
-| `G5 complete cited-but-missing inventory` | `[[4, 13]]`, was `[[6, 17]]` | expect `[[4, 13]]` (cucb 117 Bis 5 and the oaac 105 Bis references resolved) |
+| `G5 complete cited-but-missing inventory` | `[[2, 4]]`, was `[[6, 17]]` | expect `[[2, 4]]` (the cucb, oaac and cub references resolved; only `lftr` and `socap` remain) |
 
 `db golden-queries` fails until these are decided.
 
 ## Not done
 
-`cjm` (+2) and `lftr` (+3) were out of this instruction; R2 (temporal queue), the R3 remainder
+`socap-sofipo-dcg-2006` is held. `cjm` (+2) and `lftr` (+3) were out of this instruction; R2 (temporal queue), the R3 remainder
 (database-backed serving, output bounds, benchmark) and independent review are open. DuckDB is
 being tested elsewhere and is not part of this record.

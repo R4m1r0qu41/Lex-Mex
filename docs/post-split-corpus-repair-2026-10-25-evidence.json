@@ -13,19 +13,22 @@
   "lscs": "600ea9a60d34444c54bbfd0950f9186c88a95cb6",
   "reg_laero": "c0b938181",
   "reg_lfda": "b9f49d9d6",
-  "ligie": "ef28b9619"
+  "ligie": "ef28b9619",
+  "docs": "223700bf9",
+  "validator_identical_legend_repeat": "7df6203fe",
+  "cub": "5399d1762"
  },
- "tip_for_db": "ef28b96196c84765714bffb1f595c9c04163b886",
+ "tip_for_db": "5399d1762ad97f53898f3e346d0a424b210e5f5a",
  "db": {
-  "release_id": "bb8a77dd80b19e8e8e620e995829ba178124e06958705267ee7a841cec059bfa",
-  "database_sha256": "ce47d1bae8d660b2ad9dd42036070ee3a5c2395fb28fc9b2801a0d959fbc5a35",
-  "logical_content_sha256": "4af42668a4c08aad5fb3c99ce094b92c528f4d2af53e6747228cfc658aaf1c0d",
+  "release_id": "3c67a66bec752d6a280391bc13434b42709a733f3322d4cb3f68011d95063fbe",
+  "database_sha256": "2417cca3f6f75489432bea7016f7ee5f26f0e00cac9311ea36f9450ccc1c95c0",
+  "logical_content_sha256": "673379d418954eb9f8e33aba6320ca4ad8a6b0d25955c124a53162e8d5b637c0",
   "two_projections_identical": true,
   "verify": "pass",
-  "provisions": 68367,
-  "edges": 35944,
-  "terms": 5789,
-  "usages": 97996,
+  "provisions": 68374,
+  "edges": 36073,
+  "terms": 5985,
+  "usages": 102278,
   "active_debt": 0,
   "retired_debt": 17
  },
@@ -35,18 +38,26 @@
    "G6 active LFD structural debt",
    "G5 complete cited-but-missing inventory"
   ],
-  "edited": false
+  "edited": false,
+  "expected_after_change": {
+   "G5 complete cited-but-missing inventory": [
+    [
+     2,
+     4
+    ]
+   ],
+   "G6 active LFD structural debt": "retired; replace with a standalone-article count"
+  }
  },
  "checks": {
   "validate_lritf": "valid 145/11/126 0 issues",
   "validate_ifpe": "valid 59/4/115 0 issues",
-  "workspace_tests": "434 passed",
+  "workspace_tests": "436 passed",
   "fmt": "pass",
   "clippy": "pass 1.95 and 1.99.0",
-  "link_all": "exit 0; 0 relinked; 3 rejections equal recorded gaps"
+  "link_all": "exit 0; 0 relinked; 2 rejections equal recorded gaps (lftr, socap)"
  },
  "held": {
-  "cub-dcg-2005": "legend repeats markers 325 and 326",
   "socap-sofipo-dcg-2006": "legend omits entry 91; mark (91) used"
  },
  "lscs": {
@@ -62,5 +73,20 @@
   "committed_items_preserved": true,
   "article_207": "repealed(deterministic) -> unknown"
  },
- "legal_review_decisions_changed": 0
+ "legal_review_decisions_changed": 0,
+ "cub": {
+  "ingested": true,
+  "validator_rule": "identical repeated legend entry is a warning; differing stays an error",
+  "text_changes": {
+   "margin_marks_only": 454,
+   "whitespace": 1,
+   "substantive": 19
+  },
+  "articles_recovered": 7,
+  "temporal": "1 effective to repealed",
+  "reform_dates_new": [
+   "2026-07-14",
+   "2026-09-01"
+  ]
+ }
 }
