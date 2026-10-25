@@ -1,0 +1,69 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Public query binding v1",
+  "description": "Verified binding between one accepted SQLite release and one public release selection. The adapter refuses to serve when the database bytes, selected canonical inputs or provision texts differ.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schema_version", "projection_version", "database", "public_release", "instruments"],
+  "properties": {
+    "schema_version": {"const": "public-query-binding-v1"},
+    "projection_version": {"const": "public-query-v1"},
+    "database": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["release_id", "database_sha256", "logical_content_sha256", "manifest_sha256", "manifest_schema_version", "corpus_commit", "builder_commit"],
+      "properties": {
+        "release_id": {"$ref": "#/$defs/sha256"},
+        "database_sha256": {"$ref": "#/$defs/sha256"},
+        "logical_content_sha256": {"$ref": "#/$defs/sha256"},
+        "manifest_sha256": {"$ref": "#/$defs/sha256"},
+        "manifest_schema_version": {"type": "string", "minLength": 1, "maxLength": 16},
+        "corpus_commit": {"$ref": "#/$defs/commit"},
+        "builder_commit": {"$ref": "#/$defs/commit"}
+      }
+    },
+    "public_release": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["release_id", "manifest_sha256", "corpus_commit", "base_path"],
+      "properties": {
+        "release_id": {"$ref": "#/$defs/sha256"},
+        "manifest_sha256": {"$ref": "#/$defs/sha256"},
+        "corpus_commit": {"$ref": "#/$defs/commit"},
+        "base_path": {"type": "string", "pattern": "^/([A-Za-z0-9_-]+/)*$", "maxLength": 256}
+      }
+    },
+    "instruments": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 64,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["slug", "id", "canonical_input_hashes", "provision_count", "reference_count", "provisions_sha256", "annex_sources"],
+        "properties": {
+          "slug": {"type": "string", "pattern": "^[a-z0-9][a-z0-9-]{0,79}$"},
+          "id": {"type": "string", "pattern": "^urn:lex-mx:", "maxLength": 256},
+          "canonical_input_hashes": {
+            "type": "object",
+            "required": ["instrument.json", "provisions.json", "references.json"],
+            "propertyNames": {"pattern": "^[a-z-]+\\.json$"},
+            "additionalProperties": {"$ref": "#/$defs/sha256"}
+          },
+          "provision_count": {"type": "integer", "minimum": 1},
+          "reference_count": {"type": "integer", "minimum": 0},
+          "provisions_sha256": {"$ref": "#/$defs/sha256"},
+          "annex_sources": {
+            "type": "object",
+            "propertyNames": {"pattern": "^[A-Za-z0-9-]{1,32}$"},
+            "additionalProperties": {"$ref": "#/$defs/sha256"}
+          }
+        }
+      }
+    }
+  },
+  "$defs": {
+    "sha256": {"type": "string", "pattern": "^[a-f0-9]{64}$"},
+    "commit": {"type": "string", "pattern": "^[a-f0-9]{40}$"}
+  }
+}

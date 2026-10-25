@@ -51,6 +51,10 @@ secrets, transcripts, hidden reasoning, or mutable copies of external state.
 
 ### Active
 
+- [`docs/plans/database-agent-query-integration.md`](docs/plans/database-agent-query-integration.md)
+  — Accepted SQLite projection to bounded public retrieval. D0–D3 accepted
+  (Codex 2026-10-25); D4 backend runtime open, adapter local.
+
 - [`docs/plans/four-instrument-reader-design-release.md`](docs/plans/four-instrument-reader-design-release.md)
   — Implement approved Reader Revision 02 for four instruments; R0–R4 continuation done (active tracking repaired, source-verified 870-provision candidate, full pin delta); awaiting Codex re-review and operator publication decision.
 
