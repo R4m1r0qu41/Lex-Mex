@@ -10,8 +10,10 @@ generated: true
 temporal_status: effective
 review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAero.pdf
-source_sha256: ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776
+source_sha256: e91348de8667fa8105d03a2ee6fb7a9413a11174a4877c9c1c7272aee5874c3a
 ---
+
+> Capítulo Único
 
 # Artículo 172
 
@@ -19,9 +21,7 @@ Son atribuciones de la comisión coordinadora de autoridades del aeródromo, ent
 
 I. Emitir recomendaciones para la solución de conflictos y quejas entre las autoridades;
 
-II. Elaborar y ejecutar los mecanismos de simplificación y facilitación de procedimientos y trámites, para lo cual deberán atender a lo dispuesto en los tratados internacionales;
-
-III. Proponer a la [Secretaría](articulo-2.md) las áreas e instalaciones en las cuales deban realizar sus actividades para que ejerzan sus funciones las autoridades adscritas al aeródromo civil;
+II. Elaborar y ejecutar los mecanismos de simplificación y facilitación de procedimientos y trámites, para lo cual deberán atender a lo dispuesto en los tratados internacionales; III. Proponer a la [Secretaría](articulo-2.md) las áreas e instalaciones en las cuales deban realizar sus actividades para que ejerzan sus funciones las autoridades adscritas al aeródromo civil;
 
 IV. Conocer las denuncias y quejas que le presente el presidente del comité de operación y horarios respecto del desempeño de las funciones de las autoridades civiles y militares que estén adscritas al aeródromo civil, para que emitan recomendación y, en su caso, informen del hecho al superior jerárquico del presunto implicado o a la autoridad competente, y aporten los elementos de prueba con que se cuenten, a fin de que sean éstas las que determinen lo conducente conforme a derecho;
 

@@ -10,8 +10,10 @@ generated: true
 temporal_status: effective
 review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAero.pdf
-source_sha256: ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776
+source_sha256: e91348de8667fa8105d03a2ee6fb7a9413a11174a4877c9c1c7272aee5874c3a
 ---
+
+> Capítulo Único
 
 # Artículo 169
 
@@ -29,9 +31,7 @@ V. Integrar el reporte del resultado de las verificaciones que realice, para que
 
 VI. Ordenar la emisión de las NOTAM que corresponda;
 
-VII. Presidir el comité local de seguridad aeroportuaria y la comisión coordinadora de autoridades;
-
-VIII. Ordenar de manera temporal la suspensión total o parcial de las operaciones del aeródromo civil cuando en términos de la Ley y este Reglamento resulte procedente;
+VII. Presidir el comité local de seguridad aeroportuaria y la comisión coordinadora de autoridades; VIII. Ordenar de manera temporal la suspensión total o parcial de las operaciones del aeródromo civil cuando en términos de la Ley y este Reglamento resulte procedente;
 
 IX. Ordenar las medidas conducentes para que se realice la investigación de todo incidente o accidente que involucre aeronaves, vehículos terrestres o personas dentro de los límites de los aeródromos de su jurisdicción, y
 

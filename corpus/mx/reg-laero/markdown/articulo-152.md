@@ -10,8 +10,10 @@ generated: true
 temporal_status: effective
 review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAero.pdf
-source_sha256: ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776
+source_sha256: e91348de8667fa8105d03a2ee6fb7a9413a11174a4877c9c1c7272aee5874c3a
 ---
+
+> Capítulo Único
 
 # Artículo 152
 
@@ -21,9 +23,7 @@ I. Los dispositivos de protección y control de accesos a las zonas restringida 
 
 II. Las medidas de acceso y de control del movimiento de personas y vehículos en las zonas restringidas;
 
-III. La revisión de los pasajeros y su equipaje de mano, antes del ingreso al área estéril;
-
-IV. En su caso, la revisión de equipaje facturado, no acompañado, no reclamado o en transferencia, considerando los procedimientos necesarios para las excepciones que procedan y, en su caso, revisiones a pasajeros de llegada en vuelos internacionales, conforme al plan de contingencia;
+III. La revisión de los pasajeros y su equipaje de mano, antes del ingreso al área estéril; IV. En su caso, la revisión de equipaje facturado, no acompañado, no reclamado o en transferencia, considerando los procedimientos necesarios para las excepciones que procedan y, en su caso, revisiones a pasajeros de llegada en vuelos internacionales, conforme al plan de contingencia;
 
 V. La revisión o, en su caso, el control de pasajeros en tránsito o en transferencia en las áreas destinadas para tal fin;
 
@@ -39,7 +39,9 @@ X. El plan de contingencias, el cual deberá contemplar las medidas y procedimie
 
 XI. El plan de emergencia, el cual deberá contemplar las medidas y procedimientos para hacer frente a incidentes, accidentes y fenómenos naturales, así como a actos de interferencia ilícita;
 
-XII. Las acciones para la difusión de las medidas de seguridad que se adopten en el aeródromo; XIII. Los requisitos mínimos para la capacitación y adiestramiento relativo a las medidas de seguridad, atendiendo a las actividades y funciones que se realicen dentro del aeródromo civil;
+XII. Las acciones para la difusión de las medidas de seguridad que se adopten en el aeródromo;
+
+XIII. Los requisitos mínimos para la capacitación y adiestramiento relativo a las medidas de seguridad, atendiendo a las actividades y funciones que se realicen dentro del aeródromo civil;
 
 XIV. Los criterios y lineamientos de evaluación de la eficacia de las medidas de seguridad y de sus modificaciones o mejoras;
 

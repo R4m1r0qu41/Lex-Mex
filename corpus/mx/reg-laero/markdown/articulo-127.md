@@ -10,8 +10,10 @@ generated: true
 temporal_status: effective
 review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAero.pdf
-source_sha256: ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776
+source_sha256: e91348de8667fa8105d03a2ee6fb7a9413a11174a4877c9c1c7272aee5874c3a
 ---
+
+> Capítulo IV
 
 # Artículo 127
 
@@ -19,7 +21,9 @@ Las reglas de operación de cada aeródromo de servicio al público o de servici
 
 I. Respecto de la administración:
 
-a) La dirección postal, telegráfica, dirección de red fija aeronáutica (AFTN) números telefónicos, fax y clave de correo electrónico del administrador aeroportuario dentro del aeródromo civil; b) El organigrama general del concesionario o permisionario relativo al aeródromo civil, y
+a) La dirección postal, telegráfica, dirección de red fija aeronáutica (AFTN) números telefónicos, fax y clave de correo electrónico del administrador aeroportuario dentro del aeródromo civil;
+
+b) El organigrama general del concesionario o permisionario relativo al aeródromo civil, y
 
 c) El directorio telefónico de las áreas operativas;
 
@@ -33,9 +37,7 @@ c) Los procedimientos necesarios para la prestación segura y eficiente de cada 
 
 d) Los requisitos de contratación de terceros para la prestación de los servicios aeroportuarios y complementarios;
 
-e) Obligaciones y responsabilidades del administrador, prestador de servicio y usuario, y
-
-f) Procedimiento para la atención de quejas, conflictos y reclamaciones entre el administrador, los usuarios y prestadores de servicios;
+e) Obligaciones y responsabilidades del administrador, prestador de servicio y usuario, y f) Procedimiento para la atención de quejas, conflictos y reclamaciones entre el administrador, los usuarios y prestadores de servicios;
 
 III. Los lineamientos para la asignación de horarios de aterrizaje y despegue, así como de posiciones;
 
@@ -55,7 +57,9 @@ VII. Los procedimientos a seguirse para el movimiento de personas, aeronaves y v
 
 a) Las zonas restringidas;
 
-b) El área de circunscripción del aeródromo, y c) La expedición de la identificación de acceso a las zonas restringidas de personas y vehículos;
+b) El área de circunscripción del aeródromo, y
+
+c) La expedición de la identificación de acceso a las zonas restringidas de personas y vehículos;
 
 VIII. Las condiciones para la prestación de servicios comerciales;
 

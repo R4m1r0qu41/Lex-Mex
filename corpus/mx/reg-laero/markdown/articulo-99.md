@@ -10,8 +10,10 @@ generated: true
 temporal_status: effective
 review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAero.pdf
-source_sha256: ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776
+source_sha256: e91348de8667fa8105d03a2ee6fb7a9413a11174a4877c9c1c7272aee5874c3a
 ---
+
+> Capítulo IV
 
 # Artículo 99
 
@@ -19,13 +21,13 @@ La persona concesionaria del aeródromo en condiciones de saturación debe conta
 
 La coordinación de horarios es una instancia funcional, técnica e independiente de la administradora aeroportuaria y de los integrantes del comité de operación y horarios, incluidas a las personas transportistas aéreas. Su actuación debe ser imparcial, transparente y no discriminatoria en el desempeño de sus funciones. La toma de sus determinaciones debe realizarse con absoluta autonomía e independencia, por lo que tiene acceso a la información relevante que requiera para el ejercicio de sus funciones, de conformidad con las mejores prácticas de gobierno corporativo. Párrafo reformado DOF 29-08-2025
 
-El coordinador de horarios efectuará las funciones siguientes:
+La persona coordinadora de horarios tiene las funciones siguientes: Párrafo reformado DOF 09-06-2026
 
-I. Supervisar, evaluar, calificar y determinar la ocupación y cumplimiento de los horarios de aterrizaje y despegue, para lo cual puede tomar en consideración las opiniones emitidas por el subcomité de demoras y por el subcomité de coordinación y supervisión de horarios, de conformidad con las mejores prácticas internacionales; Fracción reformada DOF 29-08-2025
+I. Supervisar, evaluar, calificar y determinar la ocupación y los casos de uso indebido de los horarios de aterrizaje y despegue, para lo cual puede tomar en consideración las opiniones emitidas por el subcomité de demoras y por el subcomité de coordinación y supervisión de horarios, de conformidad con las mejores prácticas internacionales; Fracción reformada DOF 29-08-2025, 09-06-2026
 
 II. Informar en los términos que determinen las bases generales referidas en el artículo [96 Bis](articulo-96-Bis.md) de este Reglamento, lo siguiente:
 
-a) Las series de horarios que estén por debajo del porcentaje mínimo de ocupación del 80% durante la temporada y sin demoras imputables dentro de los 15 minutos respecto al horario asignado; Inciso reformado DOF 29-08-2025
+a) Las series de horarios que estén por debajo del porcentaje de ocupación mínimo del 80% del tiempo en el periodo asignado en la temporada en curso; Inciso reformado DOF 29-08-2025, 09-06-2026
 
 b) Derogado Inciso derogado DOF 29-08-2025
 
@@ -35,7 +37,7 @@ d) La evaluación de la ocupación de los horarios de aterrizaje y despegue, y
 
 e) El detalle y la lista de horarios de aterrizaje y despegue con prioridad histórica;
 
-III. Identificar cada operación efectuada por los transportistas aéreos;
+III. Identificar cada operación efectuada por las personas transportistas aéreas; Fracción reformada DOF 09-06-2026
 
 IV. Atender las diferencias que reporten las personas transportistas aéreas respecto de la información acerca de sus horarios de aterrizaje y despegue con prioridad histórica; Fracción reformada DOF 29-08-2025
 

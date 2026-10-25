@@ -10,8 +10,10 @@ generated: true
 temporal_status: effective
 review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAero.pdf
-source_sha256: ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776
+source_sha256: e91348de8667fa8105d03a2ee6fb7a9413a11174a4877c9c1c7272aee5874c3a
 ---
+
+> Capítulo IV
 
 # Artículo 132 Quinquies
 
@@ -23,12 +25,8 @@ II. La persona coordinadora de horarios, como representante de la Agencia Federa
 
 III. Los representantes de las personas transportistas aéreas que cuenten con horarios de aterrizaje y despegue asignados en el aeropuerto, y
 
-IV. Un representante del órgano u organismo prestador de los servicios a la navegación aérea.
-
-Las reuniones del subcomité de coordinación y supervisión de horarios deben realizarse conforme a lo establecido en las bases generales para la asignación de horarios de aterrizaje y despegue para aeropuertos en condiciones de saturación.
+IV. Un representante del órgano u organismo prestador de los servicios a la navegación aérea. Las reuniones del subcomité de coordinación y supervisión de horarios deben realizarse conforme a lo establecido en las bases generales para la asignación de horarios de aterrizaje y despegue para aeropuertos en condiciones de saturación.
 
 Artículo adicionado DOF 29-08-2025
 
 Título Séptimo De las tarifas
-
-Capítulo Único

@@ -10,8 +10,10 @@ generated: true
 temporal_status: effective
 review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAero.pdf
-source_sha256: ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776
+source_sha256: e91348de8667fa8105d03a2ee6fb7a9413a11174a4877c9c1c7272aee5874c3a
 ---
+
+> Capítulo Único
 
 # Artículo 163
 
@@ -21,9 +23,7 @@ I. Elaborar y aprobar el Programa Nacional de Seguridad Aeroportuaria que debe e
 
 II. Determinar los lineamientos y reglas de coordinación entre las diferentes autoridades adscritas al aeródromo en el desarrollo de sus funciones y, en su caso, con cualquier otra autoridad federal, estatal o municipal que se requiera;
 
-III. Señalar los lineamientos y reglas de coordinación entre las autoridades mencionadas en la fracción anterior, para la constitución y funcionamiento de los centros operativos de emergencia;
-
-IV. Determinar las acciones y aplicar medidas a seguir cuando se presente una contingencia o emergencia, conforme a las disposiciones aplicables;
+III. Señalar los lineamientos y reglas de coordinación entre las autoridades mencionadas en la fracción anterior, para la constitución y funcionamiento de los centros operativos de emergencia; IV. Determinar las acciones y aplicar medidas a seguir cuando se presente una contingencia o emergencia, conforme a las disposiciones aplicables;
 
 V. Expedir su reglamento interno;
 
