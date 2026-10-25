@@ -5,7 +5,7 @@
 - **Committed instruments:** 468 (`corpus/mx/*/instrument.json`): 467 pushed, plus `reg-pmimss`, admitted locally on 2026-10-18 by operator request as a test case; local `main` is ahead of `origin/main` (`83e03a4e5`), unpushed. The 32 further `corpus/mx` directories are NOM standards, a separate boundary
 - **Federal structural first pass:** structurally complete. 452 of 453 current Cámara laws and regulations are in the corpus; the one gap is `egdf`, excluded by operator decision ([coverage audit](federal-coverage-audit-2026-10-16.md)). `reg-pmimss` (Reglamento de Prestaciones Médicas del IMSS) comes from the Cámara other-regulations index and is outside that count
 - **Deferred:** three DCGs (`consar-cuf-dcg-2018`, `cusf-dcg-2014`, `pld-lic115-dcg-2009`), outside the Cámara universe
-- **Closure gate:** `lex-mex link --all` exits 0 only when its rejections equal the recorded accepted gaps (`adapters/diputados/_closure-accepted-gaps.json`: `lftr` and four held DCGs; `cpf`, `lgs` and `lmv` resolved by the 2026-10-19 reparse); anything new, changed or resolved exits 1. An instrument rejected with exactly its accepted gap still takes a glossary-only refresh (terms, usages, coverage, Markdown; references untouched), and one whose persisted terms no longer reproduce fails the closure (2026-10-19). `link <slug>` refuses to change protected historical or approved edges unless `--migrate-protected` is passed for a recorded operator migration.
+- **Closure gate:** `lex-mex link --all` exits 0 only when its rejections equal the recorded accepted gaps (`adapters/diputados/_closure-accepted-gaps.json`: `lftr`, `cub-dcg-2005` and `socap-sofipo-dcg-2006` after the 2026-10-25 repair, which resolved `cucb-dcg-2004` and `oaac-dcg-2009`; `cpf`, `lgs` and `lmv` resolved by the 2026-10-19 reparse); anything new, changed or resolved exits 1. An instrument rejected with exactly its accepted gap still takes a glossary-only refresh (terms, usages, coverage, Markdown; references untouched), and one whose persisted terms no longer reproduce fails the closure (2026-10-19). `link <slug>` refuses to change protected historical or approved edges unless `--migrate-protected` is passed for a recorded operator migration.
 - **Next checkpoint:** corpus-wide relink and the parser/linker repair are landed locally (unpushed). Federal laws and regulations are in maintenance mode. Open: Codex technical review; JRH on `lgdnna` Article 157 and `lrsic`; EGDF recording (operator reviewing); 8 held instruments (`cpf`, `lgs`, `lmv` target-side suffix parser gaps; `lftr` embedded invalidated articles; four DCGs for a DCG pass); DCGs. The derived SQLite database plan is adopted ([plan](plans/sqlite-corpus-database.md)); its prerequisite, the per-edge `resolution_rule`, has landed. M1 contract implementation is validated in the dedicated DB worktree ([report](sqlite-m1-implementation-2026-10-20.md)); M2 full-corpus builder and M3 independent release verification remain. No full corpus database artifact exists yet. `lfiiedb` modeling remains open
 - **Legal and temporal review:** none run on the 2026-10-15 admissions; provisions are `not_analyzed`
 
@@ -28,6 +28,25 @@ baselines for the new adapters are unfrozen observations, not reviewed
 source counts. Existing instruments have not been reverse-relinked. No
 temporal model ran. The final native gate passed (265 tests, LRITF and
 IFPE validation).
+
+## Current corpus totals (2026-10-25, after the post-split corpus repair)
+
+Computed by script from the committed JSON on branch `repair/itf-dcg-heading-separator-2026-10-25`
+(local, unmerged). They supersede the 2026-10-19 table below for the rows listed.
+
+| Measure | Count |
+|---|---:|
+| Instruments | 468 |
+| Articles / original transitories / annexes | 64,852 / 3,485 / 30 |
+| Reference edges | 35,944 |
+| Provisions with temporal status `unknown` | 46,742 |
+| Database projection (release `bb8a77dd…`): provisions / terms / term usages | 68,367 / 5,789 / 97,996 |
+| Known structural debt, active / retired | 0 / 17 |
+| Closure accepted gaps | 3 (`cub-dcg-2005`, `lftr`, `socap-sofipo-dcg-2006`) |
+
+Open: `cub-dcg-2005` and `socap-sofipo-dcg-2006` current editions are held (legend defects in the
+source); two database golden queries need an explicit decision; Codex review of this branch.
+See [the corpus repair record](post-split-corpus-repair-2026-10-25.md).
 
 ## Current corpus totals (2026-10-19, after the glossary reparses and coverage records)
 

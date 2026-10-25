@@ -1,0 +1,66 @@
+{
+ "date": "2026-10-25",
+ "branch": "repair/itf-dcg-heading-separator-2026-10-25",
+ "pushed": false,
+ "merged": false,
+ "review_tier": "advisor only; no independent review",
+ "binary_sha256": "cb575827894ba8e58717c481ce60d1721d25210e1800b1da1361b1db828c165a",
+ "commits": {
+  "parser": "dabeb00290c8684f05811be10de9578818f76329",
+  "r1_four": "47eabbb21ab5043945a928cdbf17202db9d265be",
+  "cucb_oaac": "050660b5a11153c55460e8b4d3769f53121796c2",
+  "retirements": "730a8b16cfbe2bc5387b446dc525b7f8d663437c",
+  "lscs": "600ea9a60d34444c54bbfd0950f9186c88a95cb6",
+  "reg_laero": "c0b938181",
+  "reg_lfda": "b9f49d9d6",
+  "ligie": "ef28b9619"
+ },
+ "tip_for_db": "ef28b96196c84765714bffb1f595c9c04163b886",
+ "db": {
+  "release_id": "bb8a77dd80b19e8e8e620e995829ba178124e06958705267ee7a841cec059bfa",
+  "database_sha256": "ce47d1bae8d660b2ad9dd42036070ee3a5c2395fb28fc9b2801a0d959fbc5a35",
+  "logical_content_sha256": "4af42668a4c08aad5fb3c99ce094b92c528f4d2af53e6747228cfc658aaf1c0d",
+  "two_projections_identical": true,
+  "verify": "pass",
+  "provisions": 68367,
+  "edges": 35944,
+  "terms": 5789,
+  "usages": 97996,
+  "active_debt": 0,
+  "retired_debt": 17
+ },
+ "goldens": {
+  "pass": 19,
+  "fail": [
+   "G6 active LFD structural debt",
+   "G5 complete cited-but-missing inventory"
+  ],
+  "edited": false
+ },
+ "checks": {
+  "validate_lritf": "valid 145/11/126 0 issues",
+  "validate_ifpe": "valid 59/4/115 0 issues",
+  "workspace_tests": "434 passed",
+  "fmt": "pass",
+  "clippy": "pass 1.95 and 1.99.0",
+  "link_all": "exit 0; 0 relinked; 3 rejections equal recorded gaps"
+ },
+ "held": {
+  "cub-dcg-2005": "legend repeats markers 325 and 326",
+  "socap-sofipo-dcg-2006": "legend omits entry 91; mark (91) used"
+ },
+ "lscs": {
+  "reform_transitories": 16,
+  "by_decree": {
+   "1966-01-05": 3,
+   "2002-01-02": 1,
+   "2006-04-24": 5,
+   "2009-05-06": 2,
+   "2012-04-09": 2,
+   "2013-04-04": 3
+  },
+  "committed_items_preserved": true,
+  "article_207": "repealed(deterministic) -> unknown"
+ },
+ "legal_review_decisions_changed": 0
+}

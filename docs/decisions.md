@@ -1,5 +1,48 @@
 # Architecture decisions
 
+## 2026-10-25 — Post-split corpus repair: DCG heading separator, 14 debt rows retired, five editions
+
+Operator instruction of 2026-10-25: commit the R0 parser repairs, reparse the R1 instruments
+and `cucb`/`oaac`, re-ingest the five changed editions, and inspect `lscs` carefully. Local
+branch `repair/itf-dcg-heading-separator-2026-10-25`, normal history only (the retirement
+records pin commit SHAs, so never rebase or squash it). Nothing is merged or pushed.
+
+- **Parser.** The `itf-dcg` article heading accepts `Artículo 105 Bis. - `, `117 Bis 5- ` and
+  `319 Bis. – ` (period and spaces optional, hyphen or en dash); a reform-decree publication
+  note also accepts the plural `Publicadas/Publicados`. These recovered `117 Bis 5` (cucb) and
+  `12 Bis`, `105 Bis`, `106` (oaac). Commit `dabeb0029`. Across the 102 recovered instruments
+  the refactored binary and the baseline binary are byte-identical; the candidate differs only
+  on `lscs`.
+- **R1.** The baseline parser already split all 14 accepted merged headings; the committed
+  records predated it. `laero`, `lfd`, `lfdo`, `lfpa` were reparsed from the exact recovered
+  official sources (`47eabbb21`) and the 14 rows moved to retirements (`730a8b16c`). Active plus
+  retired is still the accepted 17; `db inspect-inputs` reports 0 active rows. Frozen counts
+  100/784/56/118 became 109/787/57/119.
+- **cucb and oaac** reparse (`050660b5a`) also brings in the margin-number removal and the
+  legend fix that were held for them. Amended articles now leave `effective_from` unset under
+  the deterministic rule (35 and 22 provisions). Their two entries are removed from the closure
+  accepted-gaps record; the three remaining rejections (`cub-dcg-2005`, `lftr`,
+  `socap-sofipo-dcg-2006`) equal the record exactly.
+- **lscs** (`600ea9a60`): 16 reform transitories of six decrees (3, 1, 5, 2, 2, 3), hand-checked
+  against the appendix. This is extracted evidence, not a finding that each transitory governs
+  LSCS (the 2006 and 2013 decrees amend or issue other laws); that is temporal review. Article
+  207 changes from `repealed` (deterministic, 1.0) to `unknown`: it repeals other law, not itself.
+- **Editions.** Re-ingested by the pipeline, hashes equal to the acquisition: `reg-laero`
+  (`c0b938181`), `reg-lfda` (`b9f49d9d6`; +8 articles, frozen count 188 to 196), `ligie`
+  (`ef28b9619`; the publisher header still reads Última Reforma DOF 29-12-2025 while the text
+  marks decrees to 13-10-2026, so `latest_reform_date` trails). **Held, not ingested:**
+  `cub-dcg-2005` (the current edition's legend repeats markers 325 and 326) and
+  `socap-sofipo-dcg-2006` (its legend omits entry 91 although the text uses mark (91)). Both are
+  source defects; `duplicate_amendment_marker` and `unknown_amendment_mark` stay errors. Attempts
+  are preserved under `.work/parser-repair-20261025/`.
+- **Goldens not edited.** `db golden-queries` now fails two of 21: `G6 active LFD structural
+  debt` (the row is retired) and `G5 complete cited-but-missing inventory` (6 instruments and
+  17 references became 4 and 13, exactly the cucb and oaac references now resolved). The other
+  19 pass against the new database. Proposed replacements are in the corpus record; changing an
+  acceptance fixture needs an explicit decision.
+- **Database.** Two fresh projections from `ef28b9619` are byte-identical and pass `db verify`
+  (release `bb8a77dd…`, 68,367 provisions, 35,944 edges, 5,789 terms, 97,996 usages).
+
 ## 2026-10-21 — Resolved structural debt retains accepted history; seed version 3
 
 Three operator-accepted LGS headings are standalone provisions at
