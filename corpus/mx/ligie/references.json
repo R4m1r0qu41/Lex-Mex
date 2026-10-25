@@ -1,35 +1,6 @@
 [
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ligie:article:1:reference:1635491-1635492:2:direct",
-    "source_provision_id": "urn:lex-mx:federal:statute:ligie:article:1",
-    "source_span": "2",
-    "start_char": 1635491,
-    "end_char": 1635492,
-    "target_instrument_id": "urn:lex-mx:federal:statute:ligie",
-    "target_provision_id": "urn:lex-mx:federal:statute:ligie:article:2",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción II",
-        "start_char": 1635495,
-        "end_char": 1635506
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso d",
-        "start_char": 1635533,
-        "end_char": 1635541
-      }
-    ],
-    "basis": "express_cross_reference",
-    "confidence": 1.0,
-    "resolution_status": "resolved",
-    "reference_form": "direct",
-    "resolution_rule": "own_instrument_marker"
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:ligie:article:2:reference:4690-4691:1:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:ligie:article:2",
     "source_span": "1",
@@ -94,29 +65,6 @@
         "text": "fracción III",
         "start_char": 9549,
         "end_char": 9561
-      }
-    ],
-    "basis": "express_cross_reference",
-    "confidence": 1.0,
-    "resolution_status": "resolved",
-    "reference_form": "direct",
-    "resolution_rule": "named_instrument"
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ligie:transitory:septimo:reference:536-538:89:direct",
-    "source_provision_id": "urn:lex-mx:federal:statute:ligie:transitory:septimo",
-    "source_span": "89",
-    "start_char": 536,
-    "end_char": 538,
-    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
-    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:89",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 512,
-        "end_char": 522
       }
     ],
     "basis": "express_cross_reference",

@@ -10,10 +10,10 @@
   "formal_publication_source": "dof",
   "publication_date": "2022-06-07",
   "latest_reform_date": "2025-12-29",
-  "retrieved_at": "2026-07-12T07:43:07.800847Z",
+  "retrieved_at": "2026-10-25T09:19:31.493779Z",
   "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIGIE_2022.pdf",
-  "source_sha256": "a7688a47c8283f327b943e06ed948782feba2f5a0e16fe796d50d8340ce40ece",
-  "extracted_text_sha256": "426414f85860efb0c92e70c3a15c13194bf1b66481a4b2254af6b1de29db958f",
+  "source_sha256": "955510d7ea82cf42d18c72e3146f999af254c0fda5eda3f12a1fd1c10e9864ce",
+  "extracted_text_sha256": "791032fa76bb36a7c3b81b2599e7c309a91ea36bc23390eafeb74508b1f4fd2d",
   "parser_version": "0.1.0",
   "status": "in_force"
 }
