@@ -16,3 +16,8 @@ Worktree removal was performed only after verifying the spike worktree, unchange
 The separate pending `2026-10-24-lex-mex-post-integration-independent-review.md` is not resolved by retiring these historical UI snapshots. It remains an administrative P/R evidence-packet review queue. No other provider handoff was silently closed.
 
 Current workspaces: permanent `/Users/jr/Dev/lex-mex-reader` remains unchanged with its pre-existing handoff documentation edits; windowed spike has its own clean worktree; `feat/public-query` remains preserved without an added worktree and has a new review report/evidence on main. No source edits, branch deletion, push or deployment in this retirement task.
+
+
+## Later disk cleanup (operator requested, same day)
+
+The initially moved bulk ignored .work/target roots have now been compacted and deleted; they are no longer at the old archive paths. The10 review documents, dirty-plan originals/encoded patch and status manifests remain. Unique raw evidence is hash-addressed and compressed under main/.work/retained-reader-parser-evidence-2026-10-24. See ../../reader-parser-worktree-cleanup-2026-10-24.md for exact deletions, recovery mapping and the removal of the unused windowed/parser worktrees.
