@@ -1,0 +1,579 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Public retrieval transport v1 (fixture phase)",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "release",
+    "result"
+  ],
+  "properties": {
+    "schema_version": {
+      "const": "public-retrieval-v1"
+    },
+    "release": {
+      "$ref": "#/$defs/release"
+    },
+    "result": {
+      "oneOf": [
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "kind",
+            "data"
+          ],
+          "properties": {
+            "kind": {
+              "const": "catalog"
+            },
+            "data": {
+              "$ref": "#/$defs/catalog"
+            }
+          }
+        },
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "kind",
+            "data"
+          ],
+          "properties": {
+            "kind": {
+              "const": "search"
+            },
+            "data": {
+              "$ref": "#/$defs/search"
+            }
+          }
+        },
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "kind",
+            "data"
+          ],
+          "properties": {
+            "kind": {
+              "const": "article"
+            },
+            "data": {
+              "$ref": "#/$defs/article_result"
+            }
+          }
+        },
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "kind",
+            "data"
+          ],
+          "properties": {
+            "kind": {
+              "const": "references"
+            },
+            "data": {
+              "$ref": "#/$defs/references"
+            }
+          }
+        },
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "kind",
+            "data"
+          ],
+          "properties": {
+            "kind": {
+              "const": "coverage"
+            },
+            "data": {
+              "$ref": "#/$defs/coverage"
+            }
+          }
+        },
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "kind",
+            "data"
+          ],
+          "properties": {
+            "kind": {
+              "const": "error"
+            },
+            "data": {
+              "$ref": "#/$defs/error"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "$defs": {
+    "release": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "corpus_commit",
+        "fixture"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^[a-f0-9]{64}$"
+        },
+        "corpus_commit": {
+          "type": "string",
+          "pattern": "^[a-f0-9]{40,64}$"
+        },
+        "fixture": {
+          "type": "boolean"
+        }
+      }
+    },
+    "instrument": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "slug",
+        "id",
+        "title",
+        "short_name"
+      ],
+      "properties": {
+        "slug": {
+          "type": "string",
+          "pattern": "^[a-z0-9-]{1,80}$"
+        },
+        "id": {
+          "type": "string",
+          "maxLength": 512
+        },
+        "title": {
+          "type": "string",
+          "maxLength": 1024
+        },
+        "short_name": {
+          "type": "string",
+          "maxLength": 80
+        }
+      }
+    },
+    "source": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "official_url",
+        "publisher",
+        "retrieved_at",
+        "source_sha256",
+        "recorded_reform_date"
+      ],
+      "properties": {
+        "official_url": {
+          "type": "string",
+          "maxLength": 2048,
+          "pattern": "^https?://"
+        },
+        "publisher": {
+          "type": "string",
+          "maxLength": 512
+        },
+        "retrieved_at": {
+          "type": "string",
+          "maxLength": 80
+        },
+        "source_sha256": {
+          "type": "string",
+          "pattern": "^[a-f0-9]{64}$"
+        },
+        "recorded_reform_date": {
+          "anyOf": [
+            {
+              "type": "null"
+            },
+            {
+              "type": "string",
+              "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$"
+            }
+          ]
+        }
+      }
+    },
+    "article": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "instrument",
+        "provision_type",
+        "number",
+        "label",
+        "text",
+        "text_sha256",
+        "source",
+        "temporal_status",
+        "review_status"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "maxLength": 512
+        },
+        "instrument": {
+          "$ref": "#/$defs/instrument"
+        },
+        "provision_type": {
+          "enum": [
+            "article",
+            "transitory",
+            "annex"
+          ]
+        },
+        "number": {
+          "type": "string",
+          "pattern": "^[a-z0-9-]{1,80}$"
+        },
+        "label": {
+          "type": "string",
+          "maxLength": 160
+        },
+        "text": {
+          "type": "string",
+          "maxLength": 10000000
+        },
+        "text_sha256": {
+          "type": "string",
+          "pattern": "^[a-f0-9]{64}$"
+        },
+        "source": {
+          "$ref": "#/$defs/source"
+        },
+        "temporal_status": {
+          "type": "string",
+          "maxLength": 80
+        },
+        "review_status": {
+          "type": "string",
+          "maxLength": 80
+        }
+      }
+    },
+    "hit": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "instrument",
+        "provision_type",
+        "number",
+        "label",
+        "excerpt"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "maxLength": 512
+        },
+        "instrument": {
+          "$ref": "#/$defs/instrument"
+        },
+        "provision_type": {
+          "enum": [
+            "article",
+            "transitory",
+            "annex"
+          ]
+        },
+        "number": {
+          "type": "string",
+          "pattern": "^[a-z0-9-]{1,80}$"
+        },
+        "label": {
+          "type": "string",
+          "maxLength": 160
+        },
+        "excerpt": {
+          "type": "string",
+          "maxLength": 240
+        }
+      }
+    },
+    "target": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "slug",
+        "provision_type",
+        "number"
+      ],
+      "properties": {
+        "slug": {
+          "type": "string",
+          "pattern": "^[a-z0-9-]{1,80}$"
+        },
+        "provision_type": {
+          "enum": [
+            "article",
+            "transitory",
+            "annex"
+          ]
+        },
+        "number": {
+          "type": "string",
+          "pattern": "^[a-z0-9-]{1,80}$"
+        }
+      }
+    },
+    "edge": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "target_id",
+        "target",
+        "source_span",
+        "resolution_status",
+        "resolution_rule",
+        "qualifiers"
+      ],
+      "properties": {
+        "target_id": {
+          "type": "string",
+          "maxLength": 512
+        },
+        "target": {
+          "anyOf": [
+            {
+              "type": "null"
+            },
+            {
+              "$ref": "#/$defs/target"
+            }
+          ]
+        },
+        "source_span": {
+          "type": "string",
+          "maxLength": 512
+        },
+        "resolution_status": {
+          "enum": [
+            "resolved",
+            "unresolved",
+            "historical_target_unavailable",
+            "historical_superseded_reference_outdated"
+          ]
+        },
+        "resolution_rule": {
+          "anyOf": [
+            {
+              "type": "null"
+            },
+            {
+              "type": "string",
+              "maxLength": 80
+            }
+          ]
+        },
+        "qualifiers": {
+          "type": "array",
+          "maxItems": 100,
+          "items": {
+            "$ref": "#/$defs/qualifier"
+          }
+        }
+      },
+      "allOf": [
+        {
+          "if": {
+            "properties": {
+              "resolution_status": {
+                "not": {
+                  "const": "resolved"
+                }
+              }
+            }
+          },
+          "then": {
+            "properties": {
+              "target": {
+                "type": "null"
+              }
+            }
+          }
+        }
+      ]
+    },
+    "catalog": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "items",
+        "next_cursor"
+      ],
+      "properties": {
+        "items": {
+          "type": "array",
+          "maxItems": 10,
+          "items": {
+            "$ref": "#/$defs/instrument"
+          }
+        },
+        "next_cursor": {
+          "anyOf": [
+            {
+              "type": "null"
+            },
+            {
+              "type": "string",
+              "maxLength": 1024,
+              "pattern": "^[A-Za-z0-9_-]+$"
+            }
+          ]
+        }
+      }
+    },
+    "search": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "query",
+        "items",
+        "next_cursor"
+      ],
+      "properties": {
+        "query": {
+          "type": "string",
+          "maxLength": 256
+        },
+        "items": {
+          "type": "array",
+          "maxItems": 10,
+          "items": {
+            "$ref": "#/$defs/hit"
+          }
+        },
+        "next_cursor": {
+          "anyOf": [
+            {
+              "type": "null"
+            },
+            {
+              "type": "string",
+              "maxLength": 1024,
+              "pattern": "^[A-Za-z0-9_-]+$"
+            }
+          ]
+        }
+      }
+    },
+    "references": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "items",
+        "next_cursor"
+      ],
+      "properties": {
+        "items": {
+          "type": "array",
+          "maxItems": 10,
+          "items": {
+            "$ref": "#/$defs/edge"
+          }
+        },
+        "next_cursor": {
+          "anyOf": [
+            {
+              "type": "null"
+            },
+            {
+              "type": "string",
+              "maxLength": 1024,
+              "pattern": "^[A-Za-z0-9_-]+$"
+            }
+          ]
+        }
+      }
+    },
+    "article_result": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "provision"
+      ],
+      "properties": {
+        "provision": {
+          "$ref": "#/$defs/article"
+        }
+      }
+    },
+    "coverage": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "scope",
+        "notice"
+      ],
+      "properties": {
+        "scope": {
+          "const": "selected_partial"
+        },
+        "notice": {
+          "type": "string",
+          "maxLength": 2048
+        }
+      }
+    },
+    "error": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "code",
+        "message"
+      ],
+      "properties": {
+        "code": {
+          "enum": [
+            "bad_request",
+            "not_found",
+            "unavailable",
+            "response_too_large"
+          ]
+        },
+        "message": {
+          "type": "string",
+          "maxLength": 512
+        }
+      }
+    },
+    "qualifier": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "type",
+        "text"
+      ],
+      "properties": {
+        "type": {
+          "enum": [
+            "fraction",
+            "paragraph",
+            "subsection"
+          ]
+        },
+        "text": {
+          "type": "string",
+          "maxLength": 512
+        }
+      }
+    }
+  }
+}
