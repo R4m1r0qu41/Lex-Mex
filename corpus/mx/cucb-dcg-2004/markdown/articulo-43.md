@@ -20,5 +20,3 @@ source_sha256: 98762f18214a47011d5f4f3d4eb63bf776be8e1528cc08888adaf47fe2829e85
 Las ventas en corto son aquéllas en las que el vendedor asegura la entrega de los valores objeto de la venta, con otros valores de la misma especie y calidad, obtenidos mediante la concertación de una operación de préstamo de valores.
 
 Las casas de bolsa, previo a la celebración de una venta en corto, deberán cerciorarse de que existan valores de la misma especie y calidad disponibles en el mercado para llevar a cabo el préstamo correspondiente.
-
-(108)

@@ -9,7 +9,7 @@ aliases: ["DCG-CUCB-2004 — Artículo 27"]
 generated: true
 temporal_status: effective
 review_status: machine_accepted
-amendment_marks: [72,74]
+amendment_marks: [72,74,108]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20casas%20de%20bolsa.pdf
 source_sha256: 98762f18214a47011d5f4f3d4eb63bf776be8e1528cc08888adaf47fe2829e85
 ---
@@ -18,19 +18,17 @@ source_sha256: 98762f18214a47011d5f4f3d4eb63bf776be8e1528cc08888adaf47fe2829e85
 
 # Artículo 27
 
-Las operaciones con Valores que las casas de bolsa celebren en el mercado secundario (108)
+Las operaciones con [Valores](articulo-1.md) que las casas de bolsa celebren en el mercado secundario nacional se llevarán a cabo conforme a lo siguiente:
 
-nacional se llevarán a cabo conforme a lo siguiente:
+I. Las acciones; certificados de aportación patrimonial; certificados de participación ordinarios sobre acciones o títulos representativos de dos o más acciones de una o más series accionarias de una misma Emisora o Emisora simplificada; obligaciones convertibles en acciones; títulos opcionales, así como certificados bursátiles fiduciarios de desarrollo, inmobiliarios, indizados, de proyectos de inversión y de inversión en energía e infraestructura inscritos en el [Registro](articulo-1.md), se negociarán en las bolsas.
 
-(108) I. Las acciones; certificados de aportación patrimonial; certificados de participación ordinarios sobre acciones o títulos representativos de dos o más acciones de una o más series accionarias de una misma Emisora o Emisora simplificada; obligaciones convertibles en acciones; títulos opcionales, así como certificados bursátiles fiduciarios de desarrollo, inmobiliarios, indizados, de proyectos de inversión y de inversión en energía e infraestructura inscritos en el Registro, se negociarán en las bolsas.
+II. Los Valores representativos de una deuda a cargo de la Emisora o Emisora simplificada inscritos en el Registro, tales como obligaciones no susceptibles de convertirse en acciones, bonos, pagarés, letras de cambio, certificados de participación ordinarios sobre bienes distintos a acciones, certificados bursátiles distintos de los señalados en la fracción anterior, títulos bancarios, valores gubernamentales o instrumentos que se asimilen en su régimen de operación a estos últimos, así como acciones representativas del capital social de fondos de inversión de renta variable y de instrumentos de deuda podrán negociarse fuera de las bolsas de valores. Los Valores de deuda podrán negociarse a través de sociedades que administran sistemas para facilitar operaciones con Valores.
 
-(108) II. Los Valores representativos de una deuda a cargo de la Emisora o Emisora simplificada inscritos en el Registro, tales como obligaciones no susceptibles de convertirse en acciones, bonos, pagarés, letras de cambio, certificados de participación ordinarios sobre bienes distintos a acciones, certificados bursátiles distintos de los señalados en la fracción anterior, títulos bancarios, valores gubernamentales o instrumentos que se asimilen en su régimen de operación a estos últimos, así como acciones representativas del capital social de fondos de inversión de renta variable y de instrumentos de deuda podrán negociarse fuera de las bolsas de valores. Los Valores de deuda podrán negociarse a través de sociedades que administran sistemas para facilitar operaciones con Valores.
+III. Los Valores listados en el sistema internacional de cotizaciones se negociarán a través de los mecanismos que al efecto establezcan las bolsas de valores.
 
-(108) III. Los Valores listados en el sistema internacional de cotizaciones se negociarán a través de los mecanismos que al efecto establezcan las bolsas de valores.
+IV. Las acciones representativas del capital social de fondos de inversión de renta variable y de instrumentos de deuda podrán negociarse en plataformas de negociación de fondos de inversión y las acciones emitidas por fondos de inversión de capitales y por fondos de inversión de objeto limitado, no están sujetas al requisito de listado y negociación en alguna bolsa de valores y, por tanto, se negociarán fuera de estas, salvo que se hubiera optado por su inscripción en el Registro bajo el régimen aplicable a las Emisoras, en cuyo caso se negociarán precisamente en las bolsas.
 
-(108) IV. Las acciones representativas del capital social de fondos de inversión de renta variable y de instrumentos de deuda podrán negociarse en plataformas de negociación de fondos de inversión y las acciones emitidas por fondos de inversión de capitales y por fondos de inversión de objeto limitado, no están sujetas al requisito de listado y negociación en alguna bolsa de valores y, por tanto, se negociarán fuera de estas, salvo que se hubiera optado por su inscripción en el Registro bajo el régimen aplicable a las Emisoras, en cuyo caso se negociarán precisamente en las bolsas.
-
-(108) V. Los Valores emitidos o garantizados por el Gobierno Federal o por el Banco de México, y los Valores representativos de un pasivo a cargo de instituciones de crédito a plazo igual o menor a un año, inscritos en el Registro, podrán negociarse fuera de bolsa.
+V. Los Valores emitidos o garantizados por el Gobierno Federal o por el Banco de México, y los Valores representativos de un pasivo a cargo de instituciones de crédito a plazo igual o menor a un año, inscritos en el Registro, podrán negociarse fuera de bolsa.
 
 VI. Las transmisiones de acciones derivadas del ejercicio previo a la fecha de vencimiento y de liquidación al vencimiento de los contratos de derivados sobre acciones cotizados en bolsas de derivados, podrán realizarse fuera de las bolsas de valores, siempre que se cumpla con lo siguiente:
 

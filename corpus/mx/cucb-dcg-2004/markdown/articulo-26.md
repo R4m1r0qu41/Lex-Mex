@@ -17,7 +17,7 @@ source_sha256: 98762f18214a47011d5f4f3d4eb63bf776be8e1528cc08888adaf47fe2829e85
 
 # Artículo 26
 
-Las casas de bolsa que actúen como representantes comunes de obligacionistas o tenedores de valores, en términos de lo establecido en la Ley y disposiciones de carácter general que emanen de ella, deberán contar con mecanismos y procedimientos para el efectivo control del acceso a la información generada como resultado de su actuación, debiendo incluir, cuando menos:
+Las casas de bolsa que actúen como representantes comunes de obligacionistas o tenedores de valores, en términos de lo establecido en la [Ley](articulo-1.md) y disposiciones de carácter general que emanen de ella, deberán contar con mecanismos y procedimientos para el efectivo control del acceso a la información generada como resultado de su actuación, debiendo incluir, cuando menos:
 
 I. La separación física o el acceso restringido a las áreas en que se desempeñen las actividades de representación común, así como de los archivos correspondientes.
 

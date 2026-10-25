@@ -18,4 +18,4 @@ source_sha256: 98762f18214a47011d5f4f3d4eb63bf776be8e1528cc08888adaf47fe2829e85
 
 # Artículo 212 Bis 2
 
-El consejo de administración, director general, directivos con la jerarquía inmediata inferior a la del director general, comisarios y demás órganos sociales de las casas de bolsa se encontrarán obligados a conservar evidencia del cumplimiento de las obligaciones que la Ley y las presentes disposiciones le imponen, conforme a los plazos establecidos en las disposiciones legales y administrativas aplicables, así como a las políticas de la propia casa de bolsa.
+El consejo de administración, director general, directivos con la jerarquía inmediata inferior a la del director general, comisarios y demás órganos sociales de las casas de bolsa se encontrarán obligados a conservar evidencia del cumplimiento de las obligaciones que la [Ley](articulo-1.md) y las presentes disposiciones le imponen, conforme a los plazos establecidos en las disposiciones legales y administrativas aplicables, así como a las políticas de la propia casa de bolsa.

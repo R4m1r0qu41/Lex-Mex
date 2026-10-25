@@ -18,7 +18,7 @@ source_sha256: 98762f18214a47011d5f4f3d4eb63bf776be8e1528cc08888adaf47fe2829e85
 
 # Artículo 52
 
-Las casas de bolsa al realizar actividades de intermediación en mercados del exterior conforme a la Ley, deberán circunscribir sus operaciones y servicios a valores susceptibles de ser listados en el sistema internacional de cotizaciones, así como a acciones representativas del capital social de personas morales no inscritas en el Registro. Lo anterior, sin perjuicio de lo establecido en el artículo 9, segundo y tercer párrafos de la Ley.
+Las casas de bolsa al realizar actividades de intermediación en mercados del exterior conforme a la [Ley](articulo-1.md), deberán circunscribir sus operaciones y servicios a valores susceptibles de ser listados en el sistema internacional de cotizaciones, así como a acciones representativas del capital social de personas morales no inscritas en el [Registro](articulo-1.md). Lo anterior, sin perjuicio de lo establecido en el artículo 9, segundo y tercer párrafos de la Ley.
 
 I. Derogada.
 

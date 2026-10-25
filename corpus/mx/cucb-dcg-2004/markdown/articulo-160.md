@@ -56,7 +56,7 @@ RC = DF - G
 
 donde:
 
-G Valor de las garantías recibidas (específicas de la operación de que se trate, o la parte proporcional que le corresponda) y/o importe de las liquidaciones recibidas al día de que se trate respecto de DF.
+G [Valor](articulo-1.md) de las garantías recibidas (específicas de la operación de que se trate, o la parte proporcional que le corresponda) y/o importe de las liquidaciones recibidas al día de que se trate respecto de DF.
 
 DF = DP * N
 
@@ -90,7 +90,7 @@ V. Créditos y valores a cargo de entidades estatales y municipales:
 
 Los créditos y valores a cargo de estados y municipios, incluyendo los correspondientes al Distrito Federal o de sus organismos descentralizados, tendrán porcentajes de ponderación por riesgo de crédito conforme a lo siguiente:
 
-a) El veinte por ciento si se encuentran registrados ante la Unidad de Crédito Público de la Secretaría; cuentan con calificaciones de al menos dos instituciones calificadoras de valores autorizadas por la [Comisión](articulo-1.md), y la calificación otorgada al estado, municipio u organismo descentralizado de que se trate es no menor a la segunda categoría de calificación siguiente inferior a la calificación otorgada al Gobierno Federal, según la escala que corresponda: corto plazo o largo plazo, y deuda en pesos o deuda en moneda extranjera.
+a) El veinte por ciento si se encuentran registrados ante la Unidad de Crédito Público de la [Secretaría](articulo-1.md); cuentan con calificaciones de al menos dos instituciones calificadoras de valores autorizadas por la [Comisión](articulo-1.md), y la calificación otorgada al estado, municipio u organismo descentralizado de que se trate es no menor a la segunda categoría de calificación siguiente inferior a la calificación otorgada al Gobierno Federal, según la escala que corresponda: corto plazo o largo plazo, y deuda en pesos o deuda en moneda extranjera.
 
 b) El cincuenta por ciento si se encuentran registrados ante la Unidad de Crédito Público de la Secretaría; cuentan con calificaciones de al menos dos instituciones calificadoras de valores autorizadas por la Comisión, y la calificación otorgada al estado, municipio u organismo descentralizado de que se trate se encuentre en la tercera o cuarta categoría de calificación siguiente inferior a la calificación otorgada al Gobierno Federal, según la escala que corresponda: corto plazo o largo plazo y, deuda en pesos o deuda en moneda extranjera.
 

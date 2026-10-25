@@ -9,7 +9,7 @@ aliases: ["DCG-OAAC-2009 — Artículo 87"]
 generated: true
 temporal_status: effective
 review_status: machine_accepted
-amendment_marks: [8,57,93,95]
+amendment_marks: [8,57,93,95,105]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20los%20almacenes%20generales%20de%20dep%C3%B3sito%2C%20casas%20de%20cambio%2C%20uniones%20de%20cr%C3%A9dito%20y%20sociedades%20financieras%20de%20objeto%20m%C3%BAltiple%20reguladas.pdf
 source_sha256: 8ac502b97188bd6e795781e9821be6e62ccdd8050cdd3be74aab52a888e67939
 ---
@@ -20,11 +20,11 @@ source_sha256: 8ac502b97188bd6e795781e9821be6e62ccdd8050cdd3be74aab52a888e67939
 
 Para efectos del presente capítulo, se entenderá por:
 
-(105) I. Bienes Adjudicados: bienes muebles (equipo, valores, derechos, cartera de crédito, entre otros) e inmuebles que, como consecuencia de una cuenta, derecho o partida incobrable, las uniones de crédito:
+I. Bienes Adjudicados: bienes muebles (equipo, valores, derechos, cartera de crédito, entre otros) e inmuebles que, como consecuencia de una cuenta, derecho o partida incobrable, las uniones de crédito:
 
-(105) a) adquieran mediante adjudicación judicial, o
+a) adquieran mediante adjudicación judicial, o
 
-(105) b) reciban mediante dación en pago.
+b) reciban mediante dación en pago.
 
 II. Calificación Aplicable a la Calidad Crediticia del Deudor: a la que corresponda a un deudor cuyos créditos se consideren como parte de la Cartera Crediticia Comercial y que se obtenga del procedimiento de calificación del riesgo financiero, así como de la experiencia de pago, conforme a la metodología prevista para dicha cartera, en las presentes disposiciones.
 

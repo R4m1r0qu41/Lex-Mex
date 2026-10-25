@@ -9,7 +9,7 @@ aliases: ["DCG-CUCB-2004 — Artículo 202"]
 generated: true
 temporal_status: effective
 review_status: machine_accepted
-amendment_marks: [61,72,74]
+amendment_marks: [61,72,74,100]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20casas%20de%20bolsa.pdf
 source_sha256: 98762f18214a47011d5f4f3d4eb63bf776be8e1528cc08888adaf47fe2829e85
 ---
@@ -22,17 +22,13 @@ Las casas de bolsa presentarán la información a que se refiere el [artículo a
 
 I. Mensualmente:
 
-La información relativa a las series R01, R05, R07, R10, R12, R13, exclusivamente por lo que se (100)
-
-refiere a los reportes B-1321 y B-1322, R14 y R18, dentro de los veinte días naturales siguientes al de su fecha de cierre de mes.
+La información relativa a las series R01, R05, R07, R10, R12, R13, exclusivamente por lo que se refiere a los reportes B-1321 y B-1322, R14 y R18, dentro de los veinte días naturales siguientes al de su fecha de cierre de mes.
 
 Los reportes B-1321 y B-1322 de la serie R13 deberán remitirse debidamente suscritos por los directivos y personas a que se refiere el artículo [179](articulo-179.md), a la [Comisión](articulo-1.md) dentro del mes inmediato siguiente. Lo anterior, sin perjuicio de la obligación que tienen las casas de bolsa de realizar el envío de dichos reportes conforme a lo señalado en el artículo [204](articulo-204.md) siguiente.
 
 II. Trimestralmente:
 
-La información relativa a la serie R13, exclusivamente por lo que se refiere a los reportes A- (100)
-
-1311 y A-1316, deberá proporcionarse dentro de los veinte días naturales siguientes al de su fecha.
+La información relativa a la serie R13, exclusivamente por lo que se refiere a los reportes A- 1311 y A-1316, deberá proporcionarse dentro de los veinte días naturales siguientes al de su fecha.
 
 III. Diariamente, la información relativa a la serie R03 de la siguiente forma:
 

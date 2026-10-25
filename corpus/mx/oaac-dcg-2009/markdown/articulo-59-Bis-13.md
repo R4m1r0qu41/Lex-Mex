@@ -9,6 +9,7 @@ aliases: ["DCG-OAAC-2009 — Artículo 59 Bis 13"]
 generated: true
 temporal_status: effective
 review_status: machine_accepted
+amendment_marks: [104]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20los%20almacenes%20generales%20de%20dep%C3%B3sito%2C%20casas%20de%20cambio%2C%20uniones%20de%20cr%C3%A9dito%20y%20sociedades%20financieras%20de%20objeto%20m%C3%BAltiple%20reguladas.pdf
 source_sha256: 8ac502b97188bd6e795781e9821be6e62ccdd8050cdd3be74aab52a888e67939
 ---
@@ -17,14 +18,10 @@ source_sha256: 8ac502b97188bd6e795781e9821be6e62ccdd8050cdd3be74aab52a888e67939
 
 # Artículo 59 Bis 13
 
-Los almacenes generales de depósito deberán cerciorarse de que la bodega o (104)
+Los almacenes generales de depósito deberán cerciorarse de que la bodega o local arrendado o en comodato:
 
-local arrendado o en comodato:
+I. Cuente con acceso directo a la vía pública y sea independiente del resto de las construcciones que se localicen en el mismo inmueble
 
-(104) I. Cuente con acceso directo a la vía pública y sea independiente del resto de las construcciones que se localicen en el mismo inmueble
+II. Tenga las condiciones físicas necesarias que aseguren la conservación de las mercancías sujetas a depósito.
 
-(104) II. Tenga las condiciones físicas necesarias que aseguren la conservación de las mercancías sujetas a depósito.
-
-El área física del inmueble arrendado o en comodato en todo momento, deberá coincidir con las (104)
-
-características y condiciones que se encuentran contenidas en el contrato de arrendamiento o comodato vigente.
+El área física del inmueble arrendado o en comodato en todo momento, deberá coincidir con las características y condiciones que se encuentran contenidas en el contrato de arrendamiento o comodato vigente.

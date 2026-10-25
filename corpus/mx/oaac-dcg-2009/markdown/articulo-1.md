@@ -9,7 +9,7 @@ aliases: ["DCG-OAAC-2009 — Artículo 1"]
 generated: true
 temporal_status: effective
 review_status: machine_accepted
-amendment_marks: [18,24,25,26,56,61,63,70,75,76,93]
+amendment_marks: [18,24,25,26,56,61,63,70,75,76,93,105,106]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20los%20almacenes%20generales%20de%20dep%C3%B3sito%2C%20casas%20de%20cambio%2C%20uniones%20de%20cr%C3%A9dito%20y%20sociedades%20financieras%20de%20objeto%20m%C3%BAltiple%20reguladas.pdf
 source_sha256: 8ac502b97188bd6e795781e9821be6e62ccdd8050cdd3be74aab52a888e67939
 ---
@@ -22,7 +22,7 @@ Para efectos de las presentes disposiciones, se entenderá por:
 
 I. Actividad Crediticia: a la colocación de recursos de la unión de crédito entre sus socios mediante operaciones de [Descuento](articulo-1.md), crédito, préstamo, aval o cualquier otra que facilite el acceso al crédito de estos, y que generen o puedan generar un derecho de crédito a favor de la unión de crédito, respecto de las cuales exista un riesgo de incumplimiento.
 
-(105) II. Administración Integral de Riesgos: al proceso aplicado sistemáticamente por las uniones de crédito para identificar, analizar, medir, vigilar, limitar, controlar, revelar y dar tratamiento a los distintos riesgos a los que se encuentran expuestas tanto ellas como sus subsidiarias financieras.
+II. Administración Integral de Riesgos: al proceso aplicado sistemáticamente por las uniones de crédito para identificar, analizar, medir, vigilar, limitar, controlar, revelar y dar tratamiento a los distintos riesgos a los que se encuentran expuestas tanto ellas como sus subsidiarias financieras.
 
 (94)17
 
@@ -60,7 +60,7 @@ b) Mantener la titularidad de derechos que permitan, directa o indirectamente, e
 
 c) Dirigir, directa o indirectamente, la administración, la estrategia o las principales políticas de una persona moral, ya sea a través de la propiedad de valores, por contrato o de cualquier otra forma.
 
-(106) XIV Bis. Convenio Judicial: al acuerdo por escrito, que tiene el carácter de cosa juzgada conforme a lo establecido en los artículos [354](../../cfpc/markdown/articulo-354.md) a [357](../../cfpc/markdown/articulo-357.md) del Código Federal de Procedimientos Civiles, que celebran las partes en un proceso judicial para finalizar la controversia.
+XIV Bis. Convenio Judicial: al acuerdo por escrito, que tiene el carácter de cosa juzgada conforme a lo establecido en los artículos [354](../../cfpc/markdown/articulo-354.md) a [357](../../cfpc/markdown/articulo-357.md) del Código Federal de Procedimientos Civiles, que celebran las partes en un proceso judicial para finalizar la controversia.
 
 XV. Depositante habilitado: a la persona física o moral que tenga en propiedad, arrendamiento o comodato, bodegas o locales, respecto de los cuales celebre un contrato de habilitación con un almacén general de depósito, en términos del primer párrafo del Artículo [16](articulo-16.md) de la [LGOAAC](articulo-1.md).
 
@@ -100,17 +100,15 @@ e) Los fondos líquidos del fideicomiso son invertidos en instrumentos de deuda 
 
 f) El importe efectivamente garantizado por el fideicomiso sea menor a su patrimonio.
 
-(106) XXIV Bis. Firma Electrónica Avanzada o Fiable: a la firma electrónica avanzada o fiable a que se refiere el Código de Comercio.
+XXIV Bis. Firma Electrónica Avanzada o Fiable: a la firma electrónica avanzada o fiable a que se refiere el Código de Comercio.
 
 XXV. Financiamiento: a todo acto o contrato que implique la realización de una operación activa, directa o contingente, mediante el otorgamiento, reestructuración, renovación o modificación de préstamos o créditos, quedando también incluidas las inversiones en acciones o valores, que no deban restarse del capital neto de la unión de que se trate.
 
 Las operaciones financieras derivadas concertadas por las uniones de crédito en mercados reconocidos por las autoridades financieras del país, cuyo cumplimiento corresponda a una contraparte central, quedarán excluidos de lo señalado en el párrafo anterior.
 
-(106) Asimismo, las inversiones en títulos bancarios realizadas por las uniones de crédito en instituciones de crédito, así como las inversiones en valores de sociedades de inversión en instrumentos de deuda, no se computarán para el límite máximo de Financiamiento cuando el emisor del instrumento financiero o el propio instrumento cuente con una calificación igual o superior a 'AA-' en escala local o su equivalente en escala global, otorgada por una [Institución Calificadora](articulo-1.md) de Valores. Las uniones deberán establecer en sus manuales, la forma en que elegirán la calificación de las inversiones realizadas a que se refiere este párrafo, cuando se cuente con calificación del emisor y del instrumento.
+Asimismo, las inversiones en títulos bancarios realizadas por las uniones de crédito en instituciones de crédito, así como las inversiones en valores de sociedades de inversión en instrumentos de deuda, no se computarán para el límite máximo de Financiamiento cuando el emisor del instrumento financiero o el propio instrumento cuente con una calificación igual o superior a 'AA-' en escala local o su equivalente en escala global, otorgada por una [Institución Calificadora](articulo-1.md) de Valores. Las uniones deberán establecer en sus manuales, la forma en que elegirán la calificación de las inversiones realizadas a que se refiere este párrafo, cuando se cuente con calificación del emisor y del instrumento.
 
-Adicionalmente, las inversiones en Valores Gubernamentales realizadas por las Uniones de (106)
-
-Crédito no serán consideradas dentro del mencionado límite, con independencia de la contraparte con la que se efectúe la operación.
+Adicionalmente, las inversiones en Valores Gubernamentales realizadas por las Uniones de Crédito no serán consideradas dentro del mencionado límite, con independencia de la contraparte con la que se efectúe la operación.
 
 XXV Bis. Grado de Inversión: a la calificación otorgada por alguna Institución Calificadora que se ubique dentro de los grados de riesgo 2 y 3 en escala global tratándose de largo plazo, y grado de riesgo 3 en escala global tratándose de corto plazo, conforme a lo establecido en las tablas correspondientes para corto y largo plazo del Anexo 34 de las presentes disposiciones. 20
 
@@ -226,9 +224,9 @@ LI. Sociedades Inmobiliarias: a aquellas personas morales en cuyo capital partic
 
 LII. SITI: al Sistema Interinstitucional de Transferencia de Información, el cual es propiedad de la Comisión y es el medio oficial para el envío y recepción de información a que se refieren estas disposiciones.
 
-(106) LII Bis: Sociedad de Información Crediticia, en singular o plural, a las sociedades a que se refiere la Ley para Regular las Sociedades de Información Crediticia.
+LII Bis: Sociedad de Información Crediticia, en singular o plural, a las sociedades a que se refiere la Ley para Regular las Sociedades de Información Crediticia.
 
-(106) LII Bis 1: Socio, en singular o plural, a las personas que participen en el capital social de las uniones de crédito de conformidad con el artículo [21](articulo-21.md) de la LUC.
+LII Bis 1: Socio, en singular o plural, a las personas que participen en el capital social de las uniones de crédito de conformidad con el artículo [21](articulo-21.md) de la LUC.
 
 23 Fracción adicionada mediante Resolución publicada en el Diario Oficial de la Federación el 25 de abril de 2024, que entrará en vigor el 1 de enero de 2027.
 

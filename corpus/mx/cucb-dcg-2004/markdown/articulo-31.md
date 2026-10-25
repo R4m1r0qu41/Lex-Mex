@@ -9,7 +9,7 @@ aliases: ["DCG-CUCB-2004 — Artículo 31"]
 generated: true
 temporal_status: effective
 review_status: machine_accepted
-amendment_marks: [18,72,74]
+amendment_marks: [18,72,74,108]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20casas%20de%20bolsa.pdf
 source_sha256: 98762f18214a47011d5f4f3d4eb63bf776be8e1528cc08888adaf47fe2829e85
 ---
@@ -18,19 +18,17 @@ source_sha256: 98762f18214a47011d5f4f3d4eb63bf776be8e1528cc08888adaf47fe2829e85
 
 # Artículo 31
 
-El mercado de valores de renta variable se conformará por los siguientes Valores inscritos (108)
-
-en el Registro:
+El mercado de valores de renta variable se conformará por los siguientes [Valores](articulo-1.md) inscritos en el [Registro](articulo-1.md):
 
 I. Las acciones.
 
-(108) II. Los certificados de participación ordinarios sobre acciones o títulos representativos de dos o más acciones de una o más series accionarias de una misma Emisora o Emisora simplificada.
+II. Los certificados de participación ordinarios sobre acciones o títulos representativos de dos o más acciones de una o más series accionarias de una misma Emisora o Emisora simplificada.
 
 III. Los certificados de aportación patrimonial y certificados bursátiles fiduciarios representativos de una parte alícuota del patrimonio afecto al fideicomiso de que se trate.
 
 IV. Las obligaciones convertibles en acciones y títulos opcionales.
 
-(108) V. Los Valores extranjeros representativos del capital social de personas morales.
+V. Los Valores extranjeros representativos del capital social de personas morales.
 
 VI. Certificados bursátiles fiduciarios de desarrollo, inmobiliarios, indizados, en energía e infraestructura o de proyectos de inversión.
 

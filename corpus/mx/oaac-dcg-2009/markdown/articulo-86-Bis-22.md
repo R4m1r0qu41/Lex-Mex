@@ -18,4 +18,4 @@ source_sha256: 8ac502b97188bd6e795781e9821be6e62ccdd8050cdd3be74aab52a888e67939
 
 # Artículo 86 Bis 22
 
-Las uniones de crédito deberán llevar a cabo la administración del riesgo crediticio, apegándose a la Administración Integral de Riesgos que estas definan.
+Las uniones de crédito deberán llevar a cabo la administración del riesgo crediticio, apegándose a la [Administración Integral de Riesgos](articulo-1.md) que estas definan.

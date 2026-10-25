@@ -18,7 +18,7 @@ source_sha256: 98762f18214a47011d5f4f3d4eb63bf776be8e1528cc08888adaf47fe2829e85
 
 # Artículo 9
 
-Las casas de bolsa únicamente podrán cubrir comisiones por manejo de cuenta a sus apoderados autorizados para operar con el público, así como al director de promoción o su equivalente, y demás directores que por sus funciones atiendan a clientes, siempre y cuando se apeguen a lo dispuesto en la Ley.
+Las casas de bolsa únicamente podrán cubrir comisiones por manejo de cuenta a sus apoderados autorizados para operar con el público, así como al director de promoción o su equivalente, y demás directores que por sus funciones atiendan a clientes, siempre y cuando se apeguen a lo dispuesto en la [Ley](articulo-1.md).
 
 Los operadores de bolsa no deberán celebrar operaciones con el público, ni recibir remuneración alguna por concepto de comisión por manejo de cuentas específicas de clientes, salvo que al contar adicionalmente con la autorización de apoderado, ejecuten órdenes de inversionistas institucionales, en el sistema de recepción y asignación de la casa de bolsa.
 

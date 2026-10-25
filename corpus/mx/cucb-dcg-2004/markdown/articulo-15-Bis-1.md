@@ -9,6 +9,7 @@ aliases: ["DCG-CUCB-2004 — Artículo 15 Bis 1"]
 generated: true
 temporal_status: effective
 review_status: machine_accepted
+amendment_marks: [108]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20casas%20de%20bolsa.pdf
 source_sha256: 98762f18214a47011d5f4f3d4eb63bf776be8e1528cc08888adaf47fe2829e85
 ---
@@ -17,6 +18,4 @@ source_sha256: 98762f18214a47011d5f4f3d4eb63bf776be8e1528cc08888adaf47fe2829e85
 
 # Artículo 15 Bis 1
 
-Las casas de bolsa que participen como Líderes colocadores o Intermediarios (108)
-
-colocadores en una Oferta pública de instrumentos de deuda estarán obligadas a proporcionar a los proveedores de precios autorizados por la [Comisión](articulo-1.md), el día en que se realice la determinación del precio de los Valores, la información necesaria para calcular el precio actualizado de valuación, debiendo guardar evidencia de ello.
+Las casas de bolsa que participen como [Líderes colocadores](articulo-1.md) o [Intermediarios colocadores](articulo-1.md) en una Oferta pública de instrumentos de deuda estarán obligadas a proporcionar a los proveedores de precios autorizados por la [Comisión](articulo-1.md), el día en que se realice la determinación del precio de los [Valores](articulo-1.md), la información necesaria para calcular el precio actualizado de valuación, debiendo guardar evidencia de ello.

@@ -17,26 +17,10 @@
       ]
     },
     {
-      "slug": "cucb-dcg-2004",
-      "reason": "Held for the operator DCG pass (Bis N headings are not parsed in the DCGs); the cited target is absent from the committed text.",
-      "errors": [
-        "unresolved_internal_reference: internal reference target does not exist: urn:lex-mx:federal:regulation:cucb-dcg-2004:article:117-bis-5"
-      ]
-    },
-    {
       "slug": "lftr",
       "reason": "Cites LGTAIP article 180 Bis, which is absent from the committed LGTAIP; the operator could not find the reference in either law (held-instruments review: unverified).",
       "errors": [
         "unresolved_internal_reference: cross-instrument reference target does not exist: urn:lex-mx:federal:statute:lgtaip:article:180-bis"
-      ]
-    },
-    {
-      "slug": "oaac-dcg-2009",
-      "reason": "Held for the operator DCG pass (Bis N headings are not parsed in the DCGs); the cited target is absent from the committed text.",
-      "errors": [
-        "unresolved_internal_reference: internal reference target does not exist: urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105-bis",
-        "unresolved_internal_reference: internal reference target does not exist: urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105-bis",
-        "unresolved_internal_reference: internal reference target does not exist: urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105-bis"
       ]
     },
     {

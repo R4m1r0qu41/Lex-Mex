@@ -20,7 +20,7 @@ source_sha256: 98762f18214a47011d5f4f3d4eb63bf776be8e1528cc08888adaf47fe2829e85
 
 Tratándose de casas de bolsa que hayan sido clasificadas en la categoría IV a que se refiere el artículo [204 Bis 12](articulo-204-Bis-12.md) de las presentes disposiciones, la [Comisión](articulo-1.md) podrá ordenar la aplicación de las medidas correctivas especiales adicionales siguientes:
 
-I. Sustituir funcionarios, consejeros, comisarios o auditores externos, para lo cual podrá nombrar la propia casa de bolsa a las personas que ocuparán los cargos respectivos. Lo anterior es sin perjuicio de las facultades de la Comisión previstas en el artículo 393 de la Ley para determinar la remoción o suspensión de los miembros del consejo de administración, directores generales, comisarios, directores y gerentes, delegados fiduciarios y demás funcionarios que puedan obligar con su firma a la casa de bolsa.
+I. Sustituir funcionarios, consejeros, comisarios o auditores externos, para lo cual podrá nombrar la propia casa de bolsa a las personas que ocuparán los cargos respectivos. Lo anterior es sin perjuicio de las facultades de la Comisión previstas en el artículo 393 de la [Ley](articulo-1.md) para determinar la remoción o suspensión de los miembros del consejo de administración, directores generales, comisarios, directores y gerentes, delegados fiduciarios y demás funcionarios que puedan obligar con su firma a la casa de bolsa.
 
 La Comisión notificará por escrito a casa de bolsa la adopción de la medida correctiva especial adicional, señalando el plazo en el que deberá informar por escrito los nombres de los funcionarios, consejeros, comisarios o auditores externos, que habrán de sustituir a los funcionarios, consejeros, comisarios o auditores externos removidos.
 

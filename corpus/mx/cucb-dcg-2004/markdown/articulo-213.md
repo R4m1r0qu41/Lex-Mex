@@ -9,7 +9,7 @@ aliases: ["DCG-CUCB-2004 — Artículo 213"]
 generated: true
 temporal_status: effective
 review_status: machine_accepted
-amendment_marks: [56,72,85]
+amendment_marks: [56,72,85,108,109]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20casas%20de%20bolsa.pdf
 source_sha256: 98762f18214a47011d5f4f3d4eb63bf776be8e1528cc08888adaf47fe2829e85
 ---
@@ -18,9 +18,7 @@ source_sha256: 98762f18214a47011d5f4f3d4eb63bf776be8e1528cc08888adaf47fe2829e85
 
 # Artículo 213
 
-Las casas de bolsa, sin perjuicio de lo dispuesto en las presentes disposiciones, estarán (108)
-
-sujetas en lo conducente a las disposiciones de carácter general expedidas por la [Comisión](articulo-1.md), y en su caso a sus modificaciones, que a continuación se relacionan.
+Las casas de bolsa, sin perjuicio de lo dispuesto en las presentes disposiciones, estarán sujetas en lo conducente a las disposiciones de carácter general expedidas por la [Comisión](articulo-1.md), y en su caso a sus modificaciones, que a continuación se relacionan.
 
 I. “Reglas a las que habrán de sujetarse los participantes del mercado de contratos de derivados”, publicadas en el Diario Oficial de la Federación el 31 de diciembre de 1996 y sus respectivas modificaciones.
 
@@ -44,9 +42,9 @@ X. “Disposiciones de carácter general que señalan los días del año, en que
 
 XI. Disposiciones de carácter general aplicables a las entidades y emisoras supervisadas por la Comisión Nacional Bancaria y de Valores que contraten servicios de auditoría externa de estados financieros básicos” y sus respectivas modificaciones.
 
-(108) XII. Disposiciones de carácter general aplicables a las emisoras simplificadas y los Valores objeto de inscripción simplificada.
+XII. Disposiciones de carácter general aplicables a las emisoras simplificadas y los [Valores](articulo-1.md) objeto de inscripción simplificada.
 
-(109) XIII. Las demás que expida la Comisión con posterioridad a estas disposiciones, que resulten aplicables a las casas de bolsa.
+XIII. Las demás que expida la Comisión con posterioridad a estas disposiciones, que resulten aplicables a las casas de bolsa.
 
 Adicionalmente, las casas de bolsa que de conformidad con lo establecido en el artículo [40](../../lfi/markdown/articulo-40.md), tercer párrafo de la Ley de Fondos de Inversión, proporcionen de manera directa a fondos de inversión servicios de distribución de acciones, deberán ajustarse a las disposiciones de carácter general expedidas en esa materia por la Comisión.
 

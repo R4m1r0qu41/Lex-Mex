@@ -9,7 +9,7 @@ aliases: ["DCG-CUCB-2004 — Artículo 169 Bis 11"]
 generated: true
 temporal_status: effective
 review_status: machine_accepted
-amendment_marks: [8,34,72]
+amendment_marks: [8,34,72,100]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20casas%20de%20bolsa.pdf
 source_sha256: 98762f18214a47011d5f4f3d4eb63bf776be8e1528cc08888adaf47fe2829e85
 ---
@@ -28,8 +28,6 @@ III. Los aspectos significativos del sistema de remuneración que pudieran afect
 
 En adición a lo anterior, en el supuesto de que las casas de bolsa asignen al comité de riesgos las funciones que le corresponden al comité de remuneración, en términos del artículo [169 Bis 9](articulo-169-Bis-9.md) de las presentes disposiciones, el comité de auditoría deberá elaborar y presentar al consejo de administración un reporte anual sobre el desempeño del sistema de remuneración conforme a lo establecido en el artículo [169 Bis 8](articulo-169-Bis-8.md) de estas disposiciones.
 
-Título Sexto (100)
+Título Sexto De la contabilidad, de la valuación de [Valores](articulo-1.md) y demás instrumentos financieros, información financiera y su revelación
 
-(100) De la contabilidad, de la valuación de Valores y demás instrumentos financieros, información financiera y su revelación
-
-Capítulo Primero De los Criterios contables y de la valuación de Valores y demás instrumentos financieros
+Capítulo Primero De los [Criterios contables](articulo-1.md) y de la valuación de Valores y demás instrumentos financieros

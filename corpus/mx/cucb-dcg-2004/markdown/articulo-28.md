@@ -18,7 +18,7 @@ source_sha256: 98762f18214a47011d5f4f3d4eb63bf776be8e1528cc08888adaf47fe2829e85
 
 # Artículo 28
 
-Las casas de bolsa que celebren operaciones con valores extranjeros que estén inscritos en el Registro, se llevarán a cabo conforme a lo siguiente:
+Las casas de bolsa que celebren operaciones con valores extranjeros que estén inscritos en el [Registro](articulo-1.md), se llevarán a cabo conforme a lo siguiente:
 
 I. Los valores extranjeros representativos del capital social de sus emisoras, se negociarán en bolsa.
 

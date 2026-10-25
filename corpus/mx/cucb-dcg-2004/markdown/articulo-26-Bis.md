@@ -9,6 +9,7 @@ aliases: ["DCG-CUCB-2004 — Artículo 26 Bis"]
 generated: true
 temporal_status: effective
 review_status: machine_accepted
+amendment_marks: [109]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20casas%20de%20bolsa.pdf
 source_sha256: 98762f18214a47011d5f4f3d4eb63bf776be8e1528cc08888adaf47fe2829e85
 ---
@@ -17,12 +18,8 @@ source_sha256: 98762f18214a47011d5f4f3d4eb63bf776be8e1528cc08888adaf47fe2829e85
 
 # Artículo 26 Bis
 
-Las casas de bolsa que actúen como Líderes colocadores o Intermediarios colocadores (109)
+Las casas de bolsa que actúen como [Líderes colocadores](articulo-1.md) o [Intermediarios colocadores](articulo-1.md) en Ofertas públicas de Emisoras simplificadas deberán incluir en sus manuales la información y documentación que serán requeridas a las Emisoras simplificadas y los [Valores](articulo-1.md) objeto de Inscripción simplificada, incluyendo como mínimo lo establecido en las Disposiciones de carácter general aplicables a las emisoras simplificadas y los Valores objeto de inscripción simplificada.
 
-en Ofertas públicas de Emisoras simplificadas deberán incluir en sus manuales la información y documentación que serán requeridas a las Emisoras simplificadas y los Valores objeto de Inscripción simplificada, incluyendo como mínimo lo establecido en las Disposiciones de carácter general aplicables a las emisoras simplificadas y los Valores objeto de inscripción simplificada.
-
-Las casas de bolsa deberán dar a conocer a través de su página de Internet los requisitos y procedimientos (109)
-
-para la Inscripción simplificada.
+Las casas de bolsa deberán dar a conocer a través de su página de Internet los requisitos y procedimientos para la Inscripción simplificada.
 
 Capítulo Segundo Del mercado secundario

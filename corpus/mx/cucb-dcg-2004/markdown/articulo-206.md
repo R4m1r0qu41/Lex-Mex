@@ -24,7 +24,7 @@ I. Los prestadores de servicios con los que contraten siempre actuarán a nombre
 
 Asimismo, en ningún caso, dichos prestadores de servicios podrán llevar a cabo aperturas de cuentas fuera de las oficinas o módulos de la casa de bolsa de que se trate.
 
-II. Contar con un informe en el que se especifiquen los procesos operativos, tecnológicos o de administración de bases de datos de las casas de bolsa, objeto de los servicios a contratar, acorde con lo previstos en la fracción I del artículo 220 de la Ley, así como los efectos que pudieran producirse en una o más operaciones que realicen las casas de bolsa de conformidad con lo previsto por el artículo [206 Bis](articulo-206-Bis.md) siguiente.
+II. Contar con un informe en el que se especifiquen los procesos operativos, tecnológicos o de administración de bases de datos de las casas de bolsa, objeto de los servicios a contratar, acorde con lo previstos en la fracción I del artículo 220 de la [Ley](articulo-1.md), así como los efectos que pudieran producirse en una o más operaciones que realicen las casas de bolsa de conformidad con lo previsto por el artículo [206 Bis](articulo-206-Bis.md) siguiente.
 
 III. Prever en el contrato de prestación de servicios respectivo o bien, en algún otro documento en el que conste la aceptación incondicional de quien proporcione el servicio, para:
 
