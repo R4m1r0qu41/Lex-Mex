@@ -110,3 +110,20 @@ Revised "Not done": the database-backed adapter, output bounds on search, tests 
 the *candidate* projection. Still open: static agent-page output bounds (one file per distinct term), an acceptance
 rerun against the *accepted* release and its goldens (two goldens differ on the candidate, see the corpus record),
 the transport routes in a deployment, and **independent audit** before any integration or publication.
+
+## Update — committed locally, and rerun against the accepted release
+
+Committed on the local branch `repair/public-query-contract-2026-10-25` as `145bcfca1` (from main `e3ad94ee3`; not merged or
+published; no independent review).
+
+**Accepted-release rerun.** The accepted-equivalent database (release `0ea9c945…`, physical SHA-256 `483264b7…`, 68,341
+provisions, 14 active debt rows) was restored from the retained evidence archive into
+`.work/parser-repair-20261025/accepted-db/` (read-only copy; hash verified against the manifest) and the same tests and benchmark
+were run on it. **14 of 15 tests pass.** The one failure is expected: `lfd` `257-sextus` is a standalone provision only after
+the R1 reparse; in the accepted release it is still an active debt row. The 2,134-hit `obligación` oracle, the 68 non-URL-safe
+ids, pagination bounds, malformed requests, exact text, budgets and historical citations hold on both databases.
+Benchmark on the accepted release (peak memory 75 MB, candidate 78 MB): rare tokens 0.4 ms, phrase 0.8 ms, accented 5.4 ms,
+`ley` 50 ms, the stop-word `de` 124 ms median and 201 ms cold, deepest reachable page 69 ms; every response is at most 5.4 KB.
+The adapter therefore serves both releases, and the numbers do not depend on the repair.
+
+Still open for R3: static agent-page output bounds, a decision on capping common-token cost, and the independent audit.
