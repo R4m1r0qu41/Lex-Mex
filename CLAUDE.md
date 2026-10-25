@@ -47,7 +47,7 @@ COMMANDS
 ```bash
 cargo run --locked -p lex-cli -- pipeline lritf     # full deterministic pipeline
 cargo run --locked -p lex-cli -- validate lritf     # validation only
-cargo run --locked -p lex-cli -- analyze-temporal lritf --provider codex --model gpt-5.5
+cargo run --locked -p lex-cli -- analyze-temporal lritf --provider codex --model gpt-6.1-sol
 cargo run --locked -p lex-cli -- review list        # pending legal reviews
 ```
 Individual stages (`discover`, `fetch`, `extract`, `parse`, `link`, `validate`,

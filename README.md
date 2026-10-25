@@ -173,7 +173,7 @@ response hashes:
 
 ```bash
 cargo run --locked -p lex-cli -- analyze-temporal lritf \
-  --provider codex --model gpt-5.5
+  --provider codex --model gpt-6.1-sol
 ```
 
 The complete network-and-model cycle is:
@@ -181,7 +181,7 @@ The complete network-and-model cycle is:
 ```bash
 LEX_MEX_OBSIDIAN_VAULT="$HOME/Vaults/Lex-Mex" \
   cargo run --locked -p lex-cli -- pipeline lritf \
-  --temporal-provider codex --temporal-model gpt-5.5
+  --temporal-provider codex --temporal-model gpt-6.1-sol
 ```
 
 Provider-neutral responses can enter through the same deterministic boundary:
