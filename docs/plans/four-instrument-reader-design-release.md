@@ -555,3 +555,19 @@ Removed the redundant loading guard from track(); existing held/settle guards pr
 Report/evidence: `docs/four-instrument-reader-f1-repair-2026-10-22.md` and companion `-evidence.json`. Mechanical gates: fmt/clippy/workspace tests424 pass; LRITF145 articles/126 references and IFPE59 articles/115 references validate with0 issues. Mechanical agent ran fallback/legacy suites; parent ran no-anchoring suite. Corpus/PDF content unchanged. Source uncommitted; host remains at prior R6 pin7d61f95; no staging/deploy/push.
 
 Exactly one current next action: focused independent re-review of this new packet before restaging the already-selected preferred option.
+
+
+### R7 post-reconciliation readiness — 2026-10-24
+
+Permanent Reader0baaefec9 is clean at entry and production-byte-identical to accepted0661d5ef0 and main rehearsal976040a2f. Libro fix is present. Main64ac9a6e9/published-readerf11beebce have NOT been advanced to R7; distinguish this from the completed rehearsal. No new code blocker found. Fresh Node25/25, exact package reproduction0d142a9a/releasec305, all1790 hashes and1782 immutable-row parity pass. Preserved accepted native430/browser60/0 evidence applies by source parity, not a new rerun. Local stage/re-stage rehearsal retains3c04+9626+c305. Isolated host preflight at38960ce: verify1790, npm7/7/build pass,32PDFs. Actual host untouched.
+
+Current handoff and full evidence: `docs/reader-r7-webpage-handoff-2026-10-24.md` and companion evidenceJSON. Exact ready package and proposed pin live in `.work/r7-webpage-readiness/`. Earlier task next actions in this historical plan are superseded by this checkpoint. The old discovery-experiment capsule is stale after workspace reconciliation and was preserved, not used as R7 authority.
+
+Exactly one current next action: operator/receiver resolves intended stable-branch promotion and invokes the webpage publication sequence from this handoff. No publication/push/merge performed here.
+
+
+### R7 promoted to main — 2026-10-24 (operator authorized)
+
+Main was advanced from64ac9a6e9 to reviewed merge976040a2f (normal merge parents64ac9a6e9/d607864d2). Production trees match accepted0661 byte for byte. Eight overlapping untracked main files were hash-preserved, including the different older plan; all16 original untracked hashes recorded under `.work/r7-webpage-readiness/main-untracked-preserved`. Unrelated noncolliding files remain in place. Main integration is now complete locally; published-reader branchf11be remains unchanged. Package remains0d142a9a/c305; no identity-only re-export.
+
+Exactly one current next action: owner-account webpage session follows `docs/reader-r7-webpage-handoff-2026-10-24.md` to stage/pin/test/build/publish existing Site. No host changes, push or deployment from this merge task.

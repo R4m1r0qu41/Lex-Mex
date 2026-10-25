@@ -1,0 +1,142 @@
+{
+  "source": {
+    "repo": "/Users/jr/Dev/lex-mex-reader",
+    "head": "0baaefec9e01c34202647c1495f5299d15af54e7",
+    "worktree_clean": true,
+    "git_diff_check": "pass",
+    "source_diff_against_0661d5ef0": {
+      "empty": true,
+      "exit": 0
+    },
+    "node_test_reader": {
+      "sandbox": "EPERM loopback",
+      "escalated": "pass",
+      "tests": 25,
+      "passed": 25,
+      "failed": 0
+    },
+    "package": {
+      "publication_id": "0d142a9a88b049dcf6623e599783a862fdb839c01e2221a56e62997b39b4e3f0",
+      "release_id": "c305db4a3cfb408b76c13431e26beda72d5ce665046c95783fab36507354c969",
+      "descriptor_id_valid": true,
+      "descriptor_files": 1790,
+      "disk_files": 1791,
+      "descriptor_hash_size_errors": 0,
+      "latest_release_matches_descriptor": true,
+      "source_asset_matches": {
+        "index.html": true,
+        "reader.js": true,
+        "reader.css": true,
+        "reader-core.mjs": true,
+        "lex-mex.svg": true
+      }
+    },
+    "browser_preferred_report": {
+      "results": 60,
+      "passed": 60,
+      "failed": 0,
+      "not_applicable": 0
+    },
+    "gate_logs": {
+      "fmt": "pass",
+      "clippy": "finished successfully",
+      "tests": "all test result: ok",
+      "lritf": "valid; 145 articles, 11 transitories, 126 references, 0 issues",
+      "ifpe_dcg_2021": "valid; 59 articles, 4 transitories, 115 references, 0 issues",
+      "node_loopback": "25 passed, 0 failed"
+    },
+    "overall": "pass"
+  },
+  "rebuilt_publication": "0d142a9a88b049dcf6623e599783a862fdb839c01e2221a56e62997b39b4e3f0",
+  "proposed_pin": {
+    "schema_version": "reader-publication-v1",
+    "release_id": "c305db4a3cfb408b76c13431e26beda72d5ce665046c95783fab36507354c969",
+    "publication_id": "0d142a9a88b049dcf6623e599783a862fdb839c01e2221a56e62997b39b4e3f0",
+    "corpus_commit": "d2ab64d61ecfe103cc2a2980c5d04ed63c20bb7a",
+    "manifest_sha256": "e3c8b096b41e5cdb231172def8cc6cd3f7d2b9a84613456d06933b28b969dec9"
+  },
+  "host_preflight": {
+    "directory": "/tmp/r7-webpage-preflight-20261024",
+    "host_base": "38960ce",
+    "verify": 1790,
+    "npm_test_passed": 7,
+    "npm_build": "pass",
+    "pdfs": 32
+  },
+  "host_test_log": "Verified Lex-Mex c305db4a3cfb (1790 artifacts).\n\n> leg4ll4bs-launch-site@0.1.0 test\n> npm run build && node --test tests/rendered-html.test.mjs\n\n\n> leg4ll4bs-launch-site@0.1.0 prebuild\n> node scripts/verify-lex-mex.mjs\n\nVerified Lex-Mex c305db4a3cfb (1790 artifacts).\n\n> leg4ll4bs-launch-site@0.1.0 build\n> WRANGLER_LOG_PATH=.wrangler/wrangler.log vinext build && node scripts/prepare-lex-mex-pdfs.mjs\n\n\n  vinext build  (Vite 8.0.13)\n\n(node:70314) [DEP0205] DeprecationWarning: `module.register()` is deprecated. Use `module.registerHooks()` instead.\n(Use `node --trace-deprecation ...` to show where the warning was created)\n[1/5] analyze client references...\n\u001b[2K\ntransforming...\u2713 144 modules transformed.\nrendering chunks...\n\u2713 built in 316ms\n[2/5] analyze server references...\n\u001b[2K\ntransforming...\u2713 61 modules transformed.\nrendering chunks...\n\u2713 built in 29ms\n[3/5] build rsc environment...\n\u001b[2K\ntransforming...\u2713 150 modules transformed.\nrendering chunks...\ncomputing gzip size...\n\u2713 built in 272ms\n[4/5] build client environment...\n\u001b[2K\ntransforming...\u2713 69 modules transformed.\nrendering chunks...\ncomputing gzip size...\n\u2713 built in 1.03s\n[5/5] build ssr environment...\n\u001b[2K\ntransforming...\u2713 67 modules transformed.\nrendering chunks...\ncomputing gzip size...\n\u2713 built in 97ms\n\u001b[0m\n  Route (app)\n  \u250c ? /       \n  \u251c ? /en     \n  \u251c ? /es     \n  \u2514 \u03bb /lex-mex\n\n  \u03bb API  ? Unknown\n\n  ? Some routes could not be classified. vinext currently uses static analysis\n    and cannot detect dynamic API usage (headers(), cookies(), etc.) at build time.\n    Automatic classification will be improved in a future release.\n\n  Build complete. Run `vinext start` to start the production server.\n\nPrepared 32 verified PDFs for Sites range serving.\n\u2714 serves authored Spanish as the canonical default route (42.648125ms)\n\u2714 serves authored English at its self-canonical route (17.4985ms)\n\u2714 permanently redirects the former Spanish route to the default (11.213625ms)\n\u2714 publishes localized discovery and social-preview files (1.398ms)\n\u2714 keeps the revised hero and tri-section responsive (0.443208ms)\n\u2714 routes the nested reader without losing the pinned selection (27.547125ms)\n\u2714 serves retained PDF bytes, ranges, validators and HEAD through the Worker (16.193167ms)\n\u2139 tests 7\n\u2139 suites 0\n\u2139 pass 7\n\u2139 fail 0\n\u2139 cancelled 0\n\u2139 skipped 0\n\u2139 todo 0\n\u2139 duration_ms 150.079458\n",
+  "host_build_log": "\n> leg4ll4bs-launch-site@0.1.0 prebuild\n> node scripts/verify-lex-mex.mjs\n\nVerified Lex-Mex c305db4a3cfb (1790 artifacts).\n\n> leg4ll4bs-launch-site@0.1.0 build\n> WRANGLER_LOG_PATH=.wrangler/wrangler.log vinext build && node scripts/prepare-lex-mex-pdfs.mjs\n\n\n  vinext build  (Vite 8.0.13)\n\n(node:70354) [DEP0205] DeprecationWarning: `module.register()` is deprecated. Use `module.registerHooks()` instead.\n(Use `node --trace-deprecation ...` to show where the warning was created)\n[1/5] analyze client references...\n\u001b[2K\ntransforming...\u2713 144 modules transformed.\nrendering chunks...\n\u2713 built in 211ms\n[2/5] analyze server references...\n\u001b[2K\ntransforming...\u2713 61 modules transformed.\nrendering chunks...\n\u2713 built in 25ms\n[3/5] build rsc environment...\n\u001b[2K\ntransforming...\u2713 150 modules transformed.\nrendering chunks...\ncomputing gzip size...\n\u2713 built in 250ms\n[4/5] build client environment...\n\u001b[2K\ntransforming...\u2713 69 modules transformed.\nrendering chunks...\ncomputing gzip size...\n\u2713 built in 825ms\n[5/5] build ssr environment...\n\u001b[2K\ntransforming...\u2713 67 modules transformed.\nrendering chunks...\ncomputing gzip size...\n\u2713 built in 105ms\n\u001b[0m\n  Route (app)\n  \u250c ? /       \n  \u251c ? /en     \n  \u251c ? /es     \n  \u2514 \u03bb /lex-mex\n\n  \u03bb API  ? Unknown\n\n  ? Some routes could not be classified. vinext currently uses static analysis\n    and cannot detect dynamic API usage (headers(), cookies(), etc.) at build time.\n    Automatic classification will be improved in a future release.\n\n  Build complete. Run `vinext start` to start the production server.\n\nPrepared 32 verified PDFs for Sites range serving.\n",
+  "rehearsal": {
+    "f1_then_r7_restage_pass": true,
+    "retained_manifests": [
+      "9626bfe45c4ebc95b47351fd20c1de86f9b4f54856aee1de6d408e5d8389991f",
+      "c305db4a3cfb408b76c13431e26beda72d5ce665046c95783fab36507354c969",
+      "3c04016651e2fd4169632756e96ec19136136e1f42c4ed666070f23f20b30660"
+    ]
+  },
+  "content_parity": {
+    "listed_rows": 1782,
+    "differences": 0,
+    "manifest_metadata_only": [
+      "corpus_commit",
+      "release_id",
+      "committed_at"
+    ]
+  },
+  "branch_state": {
+    "permanent": "0baaefec9e01c34202647c1495f5299d15af54e7",
+    "reviewed_code": "0661d5ef0ff61517287c4de0437b90f6bb60ffcc",
+    "main": "976040a2f0c54cc22b4e3c58ed600dc101529460",
+    "published_reader": "f11beebce",
+    "main_merge_rehearsal": "976040a2f",
+    "r7_promoted_to_main": true,
+    "r7_promoted_to_published_reader": false
+  },
+  "main_promotion": {
+    "from": "64ac9a6e9368dcb02bf1a0cf438358f930ad1602",
+    "to": "976040a2f0c54cc22b4e3c58ed600dc101529460",
+    "method": "fast-forward to prepared normal merge",
+    "post_promotion_production_parity_0661": true,
+    "preservation": [
+      {
+        "path": "docs/db-reader-lic-consolidated-review-2026-10-22.md",
+        "same": true,
+        "sha256": "d2fd89ada2aeb9558a12711c024e75cddf7fb403477970ba4651b660cb822546"
+      },
+      {
+        "path": "docs/four-instrument-reader-codex-review-2026-10-22-evidence.json",
+        "same": true,
+        "sha256": "b1aac23504d58bf2a127d9815ebd0b07123887c70349a212fdfadfec83e67594"
+      },
+      {
+        "path": "docs/four-instrument-reader-codex-review-2026-10-22.md",
+        "same": true,
+        "sha256": "962235ce002634235f6ed087d376a32acc978c75b84ca31581c7672de8b39542"
+      },
+      {
+        "path": "docs/four-instrument-reader-r0-r4-codex-review-2026-10-22-evidence.json",
+        "same": true,
+        "sha256": "2c232e6f945f6af468b0f3cd37ae5d4fc51b923c1c78b17cd10c584d1a1868b0"
+      },
+      {
+        "path": "docs/four-instrument-reader-r0-r4-codex-review-2026-10-22.md",
+        "same": true,
+        "sha256": "8bfae890cbdbc11c64cfb2e0906ebe50b040384284591c4d7d351484d99cf9a0"
+      },
+      {
+        "path": "docs/lic-publication-source-audit-2026-10-22-evidence.json",
+        "same": true,
+        "sha256": "01d10668b50d17e2bb409c48dc443487e93aa91b77cfd6d8d1a524e70ca067dc"
+      },
+      {
+        "path": "docs/plans/four-instrument-reader-design-release.md",
+        "same": false,
+        "sha256": "f0b27d845696f8103990dc878b02a8db90529d190c378f04ae4f442bd7706c38"
+      },
+      {
+        "path": "docs/reader-publish-handoff-review-2026-10-22.md",
+        "same": true,
+        "sha256": "dfa76bab93226553cd9933072ce97b9fc83524c1ded564ab1b8015cb929e7981"
+      }
+    ]
+  }
+}
