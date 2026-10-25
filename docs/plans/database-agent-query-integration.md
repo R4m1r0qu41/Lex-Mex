@@ -216,6 +216,13 @@ Implementation proposals awaiting operator ratification (not settled policy):
   is accepted at EOF. One CR before LF is part of the delimiter and is not
   counted.
 
+Ratification, 2026-10-25: the operator directed that the recommended solutions
+be taken. The nine proposals above are ratified as written (engineering policy
+only; no legal acceptance is implied). D4 stays at host-handoff option 1,
+local or agent-side only: no paid runtime, API route, container, D1/R2 or
+public DB download is chosen. Branch placement stays on `feat/public-reader-r7`
+(code paths identical to main); no push or merge was performed or authorized.
+
 ## Current checkpoint and next action
 
 2026-10-25: Implemented D0–D4 as recorded above, uncommitted on
