@@ -7,8 +7,8 @@ provision_type: article
 number: "32"
 aliases: ["REG-LAGRA-MCDETS — Artículo 32"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAgra_MCDETS.pdf
 source_sha256: 70dc1863cee2a88911e43cefb51d1c2007e550a2a46f9e11d5569c1525667cfd
 ---

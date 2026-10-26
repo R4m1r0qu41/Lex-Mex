@@ -7,8 +7,8 @@ provision_type: article
 number: "11"
 aliases: ["LFLL — Artículo 11"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFLL.pdf
 source_sha256: 1e1d42f23bc87d8b6c3d094e5b49b4a1cf14cb984956590f7d0b708485fef3fd
 ---

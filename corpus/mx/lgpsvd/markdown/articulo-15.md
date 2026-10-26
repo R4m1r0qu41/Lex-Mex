@@ -7,8 +7,8 @@ provision_type: article
 number: "15"
 aliases: ["LGPSVD — Artículo 15"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPSVD_040521.pdf
 source_sha256: 2d9d70a5bf906056c4a570d1ec3edf669b1ca2aa9b5a6b335b42b895447740ab
 ---

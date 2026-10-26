@@ -7,8 +7,8 @@ provision_type: article
 number: "17"
 aliases: ["LIMJ — Artículo 17"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LIMJ.pdf
 source_sha256: 326dc072878ee5db7b8e588c3abf36a993d286beadaf90c19c6bf88732d95db5
 ---

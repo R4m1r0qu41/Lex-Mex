@@ -7,8 +7,8 @@ provision_type: article
 number: "15"
 aliases: ["REG-LGAPPCEA — Artículo 15"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGAPPCEA.pdf
 source_sha256: 066103556290f57dca17504bd178aeb645dff97b3a5e05bf4925e9353204e064
 ---

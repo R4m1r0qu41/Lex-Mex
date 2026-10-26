@@ -7,8 +7,8 @@ provision_type: article
 number: "5"
 aliases: ["LDCMPME — Artículo 5"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LDCMPME.pdf
 source_sha256: 4933abadd27d345e7a5c1754af10ed429fd148b709b4a78d4f42447b5fcd546d
 ---

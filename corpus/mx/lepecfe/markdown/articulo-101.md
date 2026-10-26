@@ -7,8 +7,8 @@ provision_type: article
 number: "101"
 aliases: ["LEPECFE — Artículo 101"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LEPECFE.pdf
 source_sha256: 6e45ab84a076cbd9cfd5fbd8abbe5f2d88fbd767229f21f5e7327aaf692b22a5
 ---

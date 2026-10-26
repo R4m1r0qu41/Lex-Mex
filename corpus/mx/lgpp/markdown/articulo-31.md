@@ -7,8 +7,8 @@ provision_type: article
 number: "31"
 aliases: ["LGPP — Artículo 31"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPP.pdf
 source_sha256: 9163f0826f44c965b6d478e69c2bf0deb8795108104c3d7dddf6d11e511199b3
 ---

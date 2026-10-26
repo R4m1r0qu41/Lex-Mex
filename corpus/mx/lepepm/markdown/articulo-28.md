@@ -7,8 +7,8 @@ provision_type: article
 number: "28"
 aliases: ["LEPEPM — Artículo 28"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LEPEPM.pdf
 source_sha256: e090d2278f98a33ce43b69070c3bbbec5e3b7177f0ffdbee8d4c9bf29c36c317
 ---

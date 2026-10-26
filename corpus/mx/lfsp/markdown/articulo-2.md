@@ -7,8 +7,8 @@ provision_type: article
 number: "2"
 aliases: ["LFSP — Artículo 2"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFSP.pdf
 source_sha256: 08a1e07c7b82309ac734f7905b7457f059141336731e7b9047042f5bd84aac69
 ---

@@ -7,8 +7,8 @@ provision_type: article
 number: "98"
 aliases: ["LDSCA — Artículo 98"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LDSCA.pdf
 source_sha256: 3ae8175ed89c2729e71551aac6ef879dfdd3da40cc03bae6784d61951c2c284d
 ---

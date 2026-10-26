@@ -7,8 +7,8 @@ provision_type: article
 number: "16"
 aliases: ["REG-LPO — Artículo 16"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LPO.pdf
 source_sha256: 931a461822618f46f4c830890fe77f07bca22c1161f03a2ce5e70106a43f8557
 ---

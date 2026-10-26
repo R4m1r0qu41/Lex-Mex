@@ -7,8 +7,8 @@ provision_type: article
 number: "27"
 aliases: ["LOTA — Artículo 27"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/159.pdf
 source_sha256: dd4e6e24f201a4e6b37919dc0461523bdb4f74e7c4852815f51bfd576c990296
 ---

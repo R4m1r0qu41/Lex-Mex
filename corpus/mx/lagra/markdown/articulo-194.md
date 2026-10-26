@@ -7,8 +7,8 @@ provision_type: article
 number: "194"
 aliases: ["LAGRA — Artículo 194"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAgra.pdf
 source_sha256: 7fa6151d65442b7beeb14e032ba54cbcaf4a8140606f152acb988bc554978550
 ---

@@ -7,8 +7,8 @@ provision_type: article
 number: "8"
 aliases: ["REG-LUPDECR — Artículo 8"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LUPDECR.pdf
 source_sha256: 9900df5fd57ee1fb485d421861b2fd4d8bff61f389275c834b954320c08c46ae
 ---

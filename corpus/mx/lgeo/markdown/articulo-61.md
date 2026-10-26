@@ -7,8 +7,8 @@ provision_type: article
 number: "61"
 aliases: ["LGEO — Artículo 61"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGeo.pdf
 source_sha256: 67309bf186af42de0f9e98010d38c89598676faea7f2b558ac9c9e6736d64d35
 ---

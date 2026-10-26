@@ -7,8 +7,8 @@ provision_type: article
 number: "5"
 aliases: ["REG-LEN — Artículo 5"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LEN_270120.pdf
 source_sha256: 01a9b609397e354014b0511a81438ad96ddba6e85157f82ff4d778e5979ca795
 ---

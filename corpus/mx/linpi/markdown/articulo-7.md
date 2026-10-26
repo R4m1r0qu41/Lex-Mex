@@ -7,8 +7,8 @@ provision_type: article
 number: "7"
 aliases: ["LINPI — Artículo 7"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LINPI.pdf
 source_sha256: f9c395f4ea69c08016d20173667f4c2dd5de0b2898bb119d806e8274dca6dd98
 ---

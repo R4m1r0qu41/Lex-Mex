@@ -7,8 +7,8 @@ provision_type: article
 number: "15"
 aliases: ["LFZEE — Artículo 15"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFZEE.pdf
 source_sha256: a4e37974114bed9b3882be9b609e1a2b3fffcad3834b03c9729ad6528ad06a5e
 ---

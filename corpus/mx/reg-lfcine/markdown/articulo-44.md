@@ -7,8 +7,8 @@ provision_type: article
 number: "44"
 aliases: ["REG-LFCINE — Artículo 44"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFCine.pdf
 source_sha256: f3f010bc7f5a510b084b5d43ef56a567e9b02b2083c36e50a9d0e8955af28cd6
 ---

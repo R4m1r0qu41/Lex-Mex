@@ -7,8 +7,8 @@ provision_type: article
 number: "59"
 aliases: ["LGSCMM — Artículo 59"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSCMM_300919.pdf
 source_sha256: 40a949085c5ebbc522c1145f4a48fd04c4d1dc0c18592fd3a665b8d0dabeef87
 ---

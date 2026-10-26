@@ -7,8 +7,8 @@ provision_type: article
 number: "42"
 aliases: ["LGAG — Artículo 42"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAg.pdf
 source_sha256: 025de5f30e5b2b422e8654f9470ddefda03486c72a732489146cfe09065d5409
 ---
