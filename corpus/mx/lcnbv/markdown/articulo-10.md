@@ -7,8 +7,8 @@ provision_type: article
 number: "10"
 aliases: ["LCNBV — Artículo 10"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LCNBV.pdf
 source_sha256: b3b4605f2abb4d33a705c6f5569ba5eaa45a41158305ac588ad4e275705798d8
 ---
