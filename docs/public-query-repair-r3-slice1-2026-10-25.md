@@ -127,3 +127,19 @@ Benchmark on the accepted release (peak memory 75 MB, candidate 78 MB): rare tok
 The adapter therefore serves both releases, and the numbers do not depend on the repair.
 
 Still open for R3: static agent-page output bounds, a decision on capping common-token cost, and the independent audit.
+
+## Update — static term-page budget, and the common-token cost position
+
+**Term pages.** `agentPages` wrote one file per distinct corpus word. It now keeps the `maxTermPages` most frequent words (constant
+`MAX_TERM_PAGES = 5000`; ties alphabetical, so the selection is deterministic), says so on the catalog page ("las N palabras más
+frecuentes de M") and points other words to search. On the current release there are **45,739** distinct candidate words; the top
+5,000 cover **89.1%** of word-in-provision postings but only words found in at least **83** provisions, so the rare, specific tail
+has no static page and must use the search endpoint. 15,000 words would reach terms found in at least 10 provisions but roughly
+triple the static output. The limit is one named constant and a parameter; the choice stays yours. Committed on the R3 branch
+(see its log); tests: a controlled-frequency fixture for selection, ties, disclosure and validation, and a large-corpus bound.
+
+**Common-token search cost.** No cap was added. The measured worst case is the stop-word `de` at about 0.2 s cold and 0.13 s
+median on this machine (peak memory 75 to 78 MB), with every response at most 5.4 KB; output is bounded by the depth cap, and time
+follows the matched set. The plan asks for measured limits, not a promise, and these are recorded above. A cap (candidate limit,
+stop-word list, or a hit threshold for single tokens) would change which results rank, so it is deliberately not done without a
+product decision.
