@@ -53,3 +53,33 @@ test('official source URLs follow the shared policy: recorded http and https lin
  assert.doesNotThrow(()=>render('https://www.example.org/recorded.pdf'));
  for(const bad of ['https://user:secret@example.org/a.pdf','ftp://example.org/a.pdf','javascript:alert(1)','//example.org/a.pdf'])assert.throws(()=>render(bad),/Invalid official source URL/,bad);
 });
+
+function wordFixture(n,textOf){
+ const f=fixture(n);
+ f.doc.provisions.forEach((p,i)=>{p.text=textOf(i);p.text_sha256=sha(Buffer.from(p.text));f.content.set(f.prefix+'mx/test/'+p.text_path,Buffer.from(p.text));});
+ f.content.set(f.prefix+'mx/test/instrument.json',Buffer.from(JSON.stringify(f.doc)));return f;
+}
+test('static term pages obey a corpus-wide budget, keep the most frequent words, and disclose it',()=>{
+ // comun in all 12 provisions, medio in the even 6, tercio in every third (4), raroa/raroc once each
+ const {manifest,content}=wordFixture(12,i=>`comun ${i%2===0?'medio':''} ${i%3===0?'tercio':''} ${i===1?'raroa':''} ${i===2?'raroc':''}`);
+ const termFiles=out=>[...out.files].filter(([p])=>p.includes('/terms/')).map(([p])=>p.split('/terms/')[1]);
+ const all=termFiles(agentPages(manifest,content,{maxTermPages:1_000_000}));
+ assert.deepEqual(all.sort(),['comun.html','medio.html','raroa.html','raroc.html','tercio.html']);
+ const small=agentPages(manifest,content,{maxTermPages:3});
+ // most frequent first: comun (12), medio (6), tercio (4)
+ assert.deepEqual(termFiles(small).sort(),['comun.html','medio.html','tercio.html']);
+ // deterministic selection and file set
+ assert.deepEqual([...agentPages(manifest,content,{maxTermPages:3}).files].map(([p])=>p),[...small.files].map(([p])=>p));
+ // a tie is broken alphabetically: budget 4 keeps raroa, not raroc
+ assert.deepEqual(termFiles(agentPages(manifest,content,{maxTermPages:4})).sort(),['comun.html','medio.html','raroa.html','tercio.html']);
+ const catalog=[...small.files].find(([p])=>p.endsWith('/catalog-1.html'))[1].toString();
+ assert.match(catalog,/las 3 palabras más frecuentes de 5/);
+ assert.equal(termFiles(agentPages(manifest,content,{maxTermPages:0})).length,0);
+ assert.throws(()=>agentPages(manifest,content,{maxTermPages:-1}),/Invalid term page budget/);
+ assert.throws(()=>agentPages(manifest,content,{maxTermPages:1.5}),/Invalid term page budget/);
+});
+test('the default term budget bounds a large corpus',()=>{
+ const {manifest,content}=fixture(10001);
+ const out=agentPages(manifest,content);
+ assert.ok([...out.files].filter(([p])=>p.includes('/terms/')).length<=5000);
+});

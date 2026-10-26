@@ -6,6 +6,10 @@ const sha=b=>createHash('sha256').update(b).digest('hex');
 const escape=s=>String(s??'').replace(/[&<>"'\r]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;','\r':'&#13;'}[c]));
 const limit=25;
 const candidateLimit=20;
+// Corpus-wide budget for static term pages: one file per distinct word is unbounded, so only the most
+// frequent words get a page (count, then alphabetical, for a deterministic selection). Other words are
+// answered by the search endpoint, never by a missing page being read as absence.
+export const MAX_TERM_PAGES=5000;
 const stop=new Set('para como este esta estos estas entre sobre desde hasta cuando donde mismo misma todos todas cada sera seran sido sean sean debe deben debera deberan podra podran dichos dichas dicho dicha mediante conforme articulo articulos fraccion fracciones parrafo parrafos primero segundo tercero anterior anteriores siguiente siguientes caso casos efectos dispuesto presente presentes previsto previstas previstos quienes cualquier cuales otros otras otra otro tanto forma menos parte partes dentro fuera antes despues mismo mexico mexicanos general disposiciones disposicion institucion instituciones'.split(' '));
 const termOf=s=>s.toLowerCase().normalize('NFD').replace(/\p{M}/gu,'');
 const warning='Colección parcial. La fecha de reforma es la registrada en la fuente recuperada; no acredita vigencia actual ni aplicabilidad histórica. No hay registro de última comprobación con la fuente oficial. No es asesoría jurídica.';
@@ -18,7 +22,7 @@ const navigation=(paths,current)=>`<nav>${current>0?link(paths[current-1],'Anter
 
 // A presentation-only view over public documents already verified by the packager.
 // Its independent content ID avoids changing an existing canonical release.
-export function agentPages(manifest,content){
+export function agentPages(manifest,content,{maxTermPages=MAX_TERM_PAGES}={}){
   const release=releaseId(manifest.release_id),base=manifest.base_path;
   const releasePath=`releases/${release}/`;
   const docs=manifest.instruments.map(item=>{
@@ -43,13 +47,16 @@ export function agentPages(manifest,content){
       entry.hits.sort((a,b)=>b.score-a.score||a.id.localeCompare(b.id,'en'));if(entry.hits.length>candidateLimit)entry.hits.length=candidateLimit;
     }
   }}
-  for(const [term,{count,hits}] of [...terms].sort(([a],[b])=>a.localeCompare(b,'en'))){
+  if(!Number.isSafeInteger(maxTermPages)||maxTermPages<0)throw Error('Invalid term page budget');
+  const totalTerms=terms.size;
+  const kept=new Map([...terms].sort(([a,x],[b,y])=>y.count-x.count||a.localeCompare(b,'en')).slice(0,maxTermPages));
+  for(const [term,{count,hits}] of [...kept].sort(([a],[b])=>a.localeCompare(b,'en'))){
     files.set(`terms/${term}.html`,page(`Coincidencias literales: ${term}`,`${link('../catalog-1.html','Instrumentos')}<p>Hasta ${candidateLimit} candidatos de ${count} disposiciones con esta palabra (mayúsculas y acentos normalizados; sin sinónimos ni búsqueda semántica). Orden mecánico por frecuencia dividida por raíz de longitud. Resultados no exhaustivos: una ausencia aquí no demuestra ausencia normativa. Lea el artículo completo y sus referencias; otras normas fuera de la selección pueden aplicar.</p><ul>${hits.map(hit=>{const start=Math.max(0,hit.index-100),end=Math.min(hit.text.length,hit.index+300);return `<li>${link(`../${hit.slug}/${sha(hit.id)}.html`,`${hit.short} — ${hit.label}`)}<blockquote>${start?'[…] ':''}${escape(hit.text.slice(start,end))}${end<hit.text.length?' […]':''}</blockquote></li>`;}).join('')}</ul>`));
   }
   const catalogPages=chunks(docs).map((_,i)=>`catalog-${i+1}.html`);
   for(const [i,group] of chunks(docs).entries()){
-    const examples=[...new Set(group.flatMap(({doc})=>(doc.official_title.match(/\p{L}+/gu)||[]).map(termOf)))].filter(term=>terms.has(term)).slice(0,5);
-    files.set(catalogPages[i],page('Instrumentos publicados',`<p>Publicación canónica: <code>${release}</code>. ${warning}</p><p>Para preguntas temáticas: solicite <code>terms/palabra.html</code> relativo a este directorio (una palabra española, minúsculas, sin acentos; mínimo 4 letras). Ejemplos: ${examples.map(term=>link(`terms/${term}.html`,term)).join(' · ')}. Hasta 20 candidatos con fragmentos exactos; no exhaustivos. Pruebe varias palabras específicas, sin asumir que una coincidencia resuelve la cuestión jurídica. Una ruta de término ausente indica que no existe ese índice literal, no que no exista una norma.</p><p>Para leer una norma: consulte su guía por capítulos y fragmentos exactos antes de abrir artículos. No descargue la colección completa ni el manifiesto de integridad para responder una consulta.</p><ul>${group.map(({doc,item})=>`<li>${link(`${item.slug}/guide-1.html`,`${doc.short_name} — ${doc.official_title}`)}. Reforma registrada: ${escape(doc.latest_reform_date||'no disponible')}; ${doc.provisions.length} disposiciones.</li>`).join('')}</ul>${navigation(catalogPages,i)}<p>${link(base+releasePath+'manifest.json',`Manifiesto de integridad (${content.get(releasePath+'manifest.json').length} bytes; solo para verificar archivos)`)}</p>`));
+    const examples=[...new Set(group.flatMap(({doc})=>(doc.official_title.match(/\p{L}+/gu)||[]).map(termOf)))].filter(term=>kept.has(term)).slice(0,5);
+    files.set(catalogPages[i],page('Instrumentos publicados',`<p>Publicación canónica: <code>${release}</code>. ${warning}</p><p>Para preguntas temáticas: solicite <code>terms/palabra.html</code> relativo a este directorio (una palabra española, minúsculas, sin acentos; mínimo 4 letras). Ejemplos: ${examples.map(term=>link(`terms/${term}.html`,term)).join(' · ')}. Hasta 20 candidatos con fragmentos exactos; no exhaustivos. Pruebe varias palabras específicas, sin asumir que una coincidencia resuelve la cuestión jurídica. Hay páginas de término para las ${kept.size} palabras más frecuentes de ${totalTerms}; una ruta de término ausente indica que no existe ese índice literal, no que no exista una norma.</p><p>Para leer una norma: consulte su guía por capítulos y fragmentos exactos antes de abrir artículos. No descargue la colección completa ni el manifiesto de integridad para responder una consulta.</p><ul>${group.map(({doc,item})=>`<li>${link(`${item.slug}/guide-1.html`,`${doc.short_name} — ${doc.official_title}`)}. Reforma registrada: ${escape(doc.latest_reform_date||'no disponible')}; ${doc.provisions.length} disposiciones.</li>`).join('')}</ul>${navigation(catalogPages,i)}<p>${link(base+releasePath+'manifest.json',`Manifiesto de integridad (${content.get(releasePath+'manifest.json').length} bytes; solo para verificar archivos)`)}</p>`));
   }
   const seen=new Set();
   for(const {item,doc} of docs){
