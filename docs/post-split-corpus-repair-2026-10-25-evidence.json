@@ -16,46 +16,44 @@
   "ligie": "ef28b9619",
   "docs": "223700bf9",
   "validator_identical_legend_repeat": "7df6203fe",
-  "cub": "5399d1762"
+  "cub": "5399d1762",
+  "goldens": "18f8e50ca",
+  "lrascap_parser": "d6a28e6a7",
+  "lrascap_corpus": "e71a2f025",
+  "temporal_day_after_publication": "6454d66de",
+  "temporal_relative_days": "5ada66f48",
+  "temporal_same_day": "e28d08875",
+  "temporal_literal_date": "bcd17a4e4"
  },
- "tip_for_db": "5399d1762ad97f53898f3e346d0a424b210e5f5a",
+ "tip_for_db": "bcd17a4e406e92949cbc5decd2f655623621a6e2",
  "db": {
-  "release_id": "3c67a66bec752d6a280391bc13434b42709a733f3322d4cb3f68011d95063fbe",
-  "database_sha256": "2417cca3f6f75489432bea7016f7ee5f26f0e00cac9311ea36f9450ccc1c95c0",
-  "logical_content_sha256": "673379d418954eb9f8e33aba6320ca4ad8a6b0d25955c124a53162e8d5b637c0",
+  "release_id": "caead5ed59fe23fe0acdc260511d3576d126f154f4ce39987fe4c1e0d30f2a8c",
+  "database_sha256": "8ec847d9de9708eb61be414b57268dcb2ef991e99b902fbc709f88135d562a06",
+  "logical_content_sha256": "42cfc2e3b8d55c2729c161d45a415954a280029b41250ce08355a0276cb5e1ce",
   "two_projections_identical": true,
   "verify": "pass",
-  "provisions": 68374,
-  "edges": 36073,
+  "provisions": 68395,
+  "edges": 36077,
   "terms": 5985,
-  "usages": 102278,
+  "usages": 102282,
   "active_debt": 0,
   "retired_debt": 17
  },
  "goldens": {
-  "pass": 19,
-  "fail": [
-   "G6 active LFD structural debt",
-   "G5 complete cited-but-missing inventory"
-  ],
-  "edited": false,
-  "expected_after_change": {
-   "G5 complete cited-but-missing inventory": [
-    [
-     2,
-     4
-    ]
-   ],
-   "G6 active LFD structural debt": "retired; replace with a standalone-article count"
-  }
+  "pass": 21,
+  "fail": [],
+  "edited": true,
+  "edited_by": "operator approval 2026-10-25",
+  "commit": "18f8e50ca"
  },
  "checks": {
   "validate_lritf": "valid 145/11/126 0 issues",
   "validate_ifpe": "valid 59/4/115 0 issues",
-  "workspace_tests": "436 passed",
+  "workspace_tests": "439 passed",
   "fmt": "pass",
   "clippy": "pass 1.95 and 1.99.0",
-  "link_all": "exit 0; 0 relinked; 2 rejections equal recorded gaps (lftr, socap)"
+  "link_all": "exit 0; 0 relinked; 2 rejections equal recorded gaps (lftr, socap)",
+  "touched_instruments_valid": 12
  },
  "held": {
   "socap-sofipo-dcg-2006": "legend omits entry 91; mark (91) used"
@@ -88,5 +86,27 @@
    "2026-07-14",
    "2026-09-01"
   ]
+ },
+ "lrascap": {
+  "transitories": 21,
+  "law_layer": 15,
+  "decree_layer": 6,
+  "article_132_chars": "39289 to 423",
+  "id_scheme": "layer-qualified"
+ },
+ "temporal_derivation": {
+  "instruments": 166,
+  "groups": {
+   "day_after_publication": 143,
+   "relative_days": 17,
+   "same_day_as_publication": 3,
+   "literal_date": 3
+  },
+  "provisions_total": 13337,
+  "provisions_changed": 12211,
+  "transition": "unknown to effective, basis deterministic_rule, review machine_accepted",
+  "id_or_text_changes": 0,
+  "binary": "ce6d33d3 (from d6a28e6a7)",
+  "not_touched": "74 skipped + 6 no-ordinary-transitories"
  }
 }

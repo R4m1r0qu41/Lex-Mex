@@ -1,6 +1,6 @@
 # Architecture decisions
 
-## 2026-10-25 — Post-split corpus repair: DCG heading separator, 14 debt rows retired, four of five editions
+## 2026-10-25 — Post-split corpus repair: DCG heading separator, 14 debt rows retired, four of five editions, lrascap, temporal derivation
 
 Operator instruction of 2026-10-25: commit the R0 parser repairs, reparse the R1 instruments
 and `cucb`/`oaac`, re-ingest the five changed editions, and inspect `lscs` carefully. Local
@@ -42,13 +42,25 @@ records pin commit SHAs, so never rebase or squash it). Nothing is merged or pus
   **Held, not ingested:** `socap-sofipo-dcg-2006`, whose legend omits entry 91 although the text uses
   mark (91); a missing entry cannot be invented and `unknown_amendment_mark` stays an error. The attempt
   is preserved under `.work/parser-repair-20261025/`.
-- **Goldens not edited.** `db golden-queries` now fails two of 21: `G6 active LFD structural
-  debt` (the row is retired) and `G5 complete cited-but-missing inventory` (6 instruments and
-  17 references became 2 and 4: only `lftr` and `socap` remain, the cucb, oaac and cub references now resolve). The other
-  19 pass against the new database. Proposed replacements are in the corpus record; changing an
-  acceptance fixture needs an explicit decision.
-- **Database.** Two fresh projections from `5399d1762` are byte-identical and pass `db verify`
-  (release `3c67a66b…`, 68,374 provisions, 36,073 edges, 5,985 terms, 102,278 usages, 0 active debt rows).
+- **lrascap** (`d6a28e6a7`, `e71a2f025`). Operator decision: layer-qualified identifiers. Inside an omnibus
+  enactment the two headed transitory sections (`TRANSITORIOS DEL ARTÍCULO PRIMERO`, `TRANSITORIOS DEL
+  DECRETO`) repeat the same ordinals, so each section's provisions carry their layer in the id
+  (`transitory:articulo-primero-primero`, `transitory:decreto-primero`) and in the label. Unheaded omnibus
+  laws are unchanged. A header-like line no longer interrupts an unfinished sentence (a page break had left
+  "Artículo transitorio." alone and ended the section). `lrascap` now has 21 transitories (15 + 6) and
+  article 132 drops from 39,289 to 423 characters.
+- **Goldens edited by operator approval** (`18f8e50ca`). `G6 active LFD structural debt` becomes a
+  standalone-article check for `lfd` 257-sextus plus "no LFD debt is active"; `G5 complete cited-but-missing
+  inventory` becomes `[[2, 4]]` (only `lftr` and `socap` remain). The other 19 are unchanged; all 21 pass.
+- **Deterministic temporal derivation, operator-approved** (`6454d66de`, `5ada66f48`, `e28d08875`,
+  `bcd17a4e4`). The existing commencement rule was applied to the 166 instruments that already resolve:
+  143 day after publication, 17 relative days, 3 same day, 3 literal date. 12,211 of 13,337 provisions move
+  from `unknown` to `effective` with basis `deterministic_rule` and review status `machine_accepted`; no id,
+  text or other file changes. This is a rule output, not legal review. The 74 instruments the rule skips and
+  the 6 without ordinary transitories are untouched.
+- **Database.** Two fresh projections from `bcd17a4e4` are byte-identical and pass `db verify` and all 21
+  goldens (release `caead5ed…`, 68,395 provisions, 36,077 edges, 5,985 terms, 102,282 usages, 0 active
+  debt rows).
 
 ## 2026-10-21 — Resolved structural debt retains accepted history; seed version 3
 

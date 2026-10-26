@@ -22,8 +22,13 @@ The decision is recorded in `docs/decisions.md` under 2026-10-25.
 | `223700bf9` | Record the corpus repair (decision, status, this record) |
 | `7df6203fe` | Validator: an identical repeated legend entry is a warning (revertible) |
 | `5399d1762` | Re-ingest `cub-dcg-2005`; remove its closure accepted-gap record |
+| `28b40d26f` | Record update for cub and the validator rule |
+| `18f8e50ca` | Goldens G5 and G6 updated (operator-approved) |
+| `d6a28e6a7` | Parser: layer-qualified ids for headed omnibus transitory sections; sentence-interruption rule |
+| `e71a2f025` | Reparse `lrascap` (21 transitories) |
+| `6454d66de`, `5ada66f48`, `e28d08875`, `bcd17a4e4` | Deterministic commencement rule applied to 143, 17, 3 and 3 instruments |
 
-Built and run with the binary from `dabeb0029` (SHA-256 `cb575827…`); `crates/` is unchanged since.
+Corpus commits up to `ligie` were built with the binary from `dabeb0029` (SHA-256 `cb575827…`); `cub` with the one from `7df6203fe`; `lrascap` with the one from `d6a28e6a7`; the temporal groups with frozen binary `ce6d33d3…` (from `d6a28e6a7`).
 
 ## What changed in the corpus
 
@@ -83,7 +88,7 @@ under `.work/parser-repair-20261025/socap-attempt-1`; the tree was restored to t
   Census: 68,374 provisions (+33 over the accepted 68,341: 14 splits, 1 cucb, 3 oaac, 8 reg-lfda, 7 cub), 36,073 edges,
   5,985 terms, 102,278 usages, 0 active and 17 retired debt rows.
 
-## Golden queries: 19 of 21 pass; two need a decision
+## Golden queries (superseded: updated on 2026-10-25, all 21 pass)
 
 Not edited, per the plan. Both differences are exactly explained:
 
@@ -93,6 +98,28 @@ Not edited, per the plan. Both differences are exactly explained:
 | `G5 complete cited-but-missing inventory` | `[[2, 4]]`, was `[[6, 17]]` | expect `[[2, 4]]` (the cucb, oaac and cub references resolved; only `lftr` and `socap` remain) |
 
 `db golden-queries` fails until these are decided.
+
+## Later in the same session (operator decisions of 2026-10-25)
+
+- **Goldens.** G6 and G5 were updated as approved (`18f8e50ca`); all 21 goldens now pass on the current release.
+- **lrascap.** Layer-qualified ids (`d6a28e6a7`) and the reparse (`e71a2f025`): 144 articles, 21 transitories (15 from the law's
+  `TRANSITORIOS DEL ARTÍCULO PRIMERO` and 6 from the overall decree's `TRANSITORIOS DEL DECRETO`, whose sixth, SEXTO, was checked
+  in the source), article 132 from 39,289 to 423 characters, `expected_transitories` 0 to 21. Over the 102 recovered instruments the new
+  binary differs from the refactored one only on `lscs` and `lrascap`, both of which failed closed before; B and C3 are identical on
+  all 102.
+- **Temporal derivation.** The existing deterministic commencement rule was applied to the 166 instruments that already resolve
+  (143 day after publication, 17 relative days, 3 same day, 3 literal date), in four commits. 12,211 of 13,337 provisions move
+  from `unknown` to `effective`, basis `deterministic_rule`, review status `machine_accepted`; there are no id or text changes and the
+  only non-Markdown file changed per instrument is `provisions.json`. Rule output, not legal review. The 74 skipped and 6
+  no-transitory instruments are untouched.
+
+## Final gate at `bcd17a4e4`
+
+fmt, clippy (default), 439 workspace tests, both locked validators valid (145/11/126 and 59/4/115), all 12 touched instruments
+valid, `link --all` on a clone exit 0 with 0 relinked (36,077 edges) and only `lftr` and `socap` rejected (the recorded gaps),
+two fresh projections byte-identical (release `caead5ed…`, database `8ec847d9…`, logical `42cfc2e3…`) passing `db verify`
+and all 21 goldens. Census: 68,395 provisions, 36,077 edges, 5,985 terms, 102,282 usages, 0 active and 17 retired debt rows.
+The mech run's wall time was inflated by a machine pause; the outputs are unaffected.
 
 ## Not done
 

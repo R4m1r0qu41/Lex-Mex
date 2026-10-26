@@ -37,14 +37,14 @@ Computed by script from the committed JSON on branch `repair/itf-dcg-heading-sep
 | Measure | Count |
 |---|---:|
 | Instruments | 468 |
-| Articles / original transitories / annexes | 64,859 / 3,485 / 30 |
-| Reference edges | 36,073 |
-| Provisions with temporal status `unknown` | 46,742 |
-| Database projection (release `3c67a66b…`): provisions / terms / term usages | 68,374 / 5,985 / 102,278 |
+| Articles / original transitories / annexes | 64,859 / 3,506 / 30 |
+| Reference edges | 36,077 |
+| Provisions with temporal status `unknown` / `effective` | 34,552 / 28,290 |
+| Database projection (release `caead5ed…`): provisions / terms / term usages | 68,395 / 5,985 / 102,282 |
 | Known structural debt, active / retired | 0 / 17 |
 | Closure accepted gaps | 2 (`lftr`, `socap-sofipo-dcg-2006`) |
 
-Open: the `socap-sofipo-dcg-2006` current edition is held (its source legend omits entry 91); two database golden queries need an explicit decision; Codex review of this branch.
+Open: the `socap-sofipo-dcg-2006` current edition is held (its source legend omits entry 91); Codex review of this branch. The 74 instruments `derive-temporal` skips are queued (see the R2 queue).
 See [the corpus repair record](post-split-corpus-repair-2026-10-25.md).
 
 ## Current corpus totals (2026-10-19, after the glossary reparses and coverage records)
