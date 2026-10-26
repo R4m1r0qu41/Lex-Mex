@@ -121,6 +121,23 @@ two fresh projections byte-identical (release `caead5ed…`, database `8ec847d9�
 and all 21 goldens. Census: 68,395 provisions, 36,077 edges, 5,985 terms, 102,282 usages, 0 active and 17 retired debt rows.
 The mech run's wall time was inflated by a machine pause; the outputs are unaffected.
 
+## Audited legal state is preserved (the R2 gate)
+
+The accepted-equivalent database (release `0ea9c945…`) and the final one (release `caead5ed…`) were compared table by table:
+
+- **16 legal operator reviews and 17 outdated-reference approvals:** payloads byte-identical, same edge ids, and the edges they
+  attach to keep their source, target and resolution status. Reviewer, date, rationale and source live in those payloads and are unchanged.
+- **The three provisions with a human or open review state** (`lritf` transitory Séptima and `ifpe-dcg-2021` transitory Cuarto,
+  `lawyer_verified`; `itf-dcg-2018` transitory Séptimo, `review_required` with basis `llm_inference`): status, temporal status, basis
+  and date identical.
+- **All 22 provisions whose temporal basis is not the deterministic rule** (2 `lawyer_verified`, 20 `llm_inference`): none changed
+  or went missing.
+- What did change is deterministic: `unknown` to `effective` with basis `deterministic_rule` for 12,211 provisions in the 166
+  approved instruments, plus the reparse effects described above (for example article 207 of `lscs`, `repealed` to `unknown`, and
+  `effective_from` unset for amended articles in `cucb`, `oaac`). None of these overwrote an audited or imported decision.
+
+Raw comparison: `.work/parser-repair-20261025/audited-state-comparison.json`.
+
 ## Not done
 
 `socap-sofipo-dcg-2006` is held. `cjm` (+2) and `lftr` (+3) were out of this instruction; R2 (temporal queue), the R3 remainder

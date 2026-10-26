@@ -108,5 +108,15 @@
   "id_or_text_changes": 0,
   "binary": "ce6d33d3 (from d6a28e6a7)",
   "not_touched": "74 skipped + 6 no-ordinary-transitories"
+ },
+ "audited_state_preserved": {
+  "legal_operator_reviews": "16 identical",
+  "outdated_reference_approvals": "17 identical",
+  "review_or_lawyer_provisions": "3 identical",
+  "non_deterministic_basis_provisions": "22 unchanged",
+  "compared": [
+   "release 0ea9c945 (accepted-equivalent)",
+   "release caead5ed (final)"
+  ]
  }
 }
