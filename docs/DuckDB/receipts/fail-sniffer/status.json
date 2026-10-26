@@ -1,0 +1,5 @@
+{
+  "status": "failed",
+  "error": "Command '['/Users/jr/Dev/lex-mex/.delta/worktrees/fvbw6mtsz0er/Lex-Mex/.work/duckdb-venv/bin/python', '/Users/jr/Dev/lex-mex/.delta/worktrees/fvbw6mtsz0er/Lex-Mex/prompts/duckdb-bounded-benchmark.py', '--worker', 'duckdb', '--output', '/Users/jr/Dev/lex-mex/.delta/worktrees/fvbw6mtsz0er/Lex-Mex/.work/duckdb-benchmark-01']' returned non-zero exit status 1.",
+  "source_unchanged": true
+}

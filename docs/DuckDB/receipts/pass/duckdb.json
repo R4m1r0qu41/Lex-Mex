@@ -1,0 +1,59 @@
+{
+  "version": "1.4.3",
+  "table_counts": {
+    "instruments": 468,
+    "provisions": 68341,
+    "reference_edges": 35930,
+    "defined_terms": 5766,
+    "term_usages": 97672
+  },
+  "queries": {
+    "provision_volume": {
+      "row_count": 468,
+      "result_sha256": "081481b79a32acd053291686fd96ebd62b618f1dd20e963a8437a2594b38c85d",
+      "first_in_process_seconds": 0.021575416903942823,
+      "warm_seconds": [
+        0.010550500359386206,
+        0.009913334157317877,
+        0.009678541216999292
+      ],
+      "warm_median_seconds": 0.009913334157317877
+    },
+    "citation_destinations": {
+      "row_count": 466,
+      "result_sha256": "47a045296f70634defd452f941a28bb2aebad8ce8efdf9b0730c4faff705ac17",
+      "first_in_process_seconds": 0.0007002502679824829,
+      "warm_seconds": [
+        0.0005855411291122437,
+        0.0005545420572161674,
+        0.0005442500114440918
+      ],
+      "warm_median_seconds": 0.0005545420572161674
+    },
+    "term_usage_by_owner": {
+      "row_count": 304,
+      "result_sha256": "1904681011f9eb320d3a67c392228b1728106a9eb5b61c3c4a2f716176adc641",
+      "first_in_process_seconds": 0.0035742907784879208,
+      "warm_seconds": [
+        0.002720416057854891,
+        0.00269295834004879,
+        0.0027108746580779552
+      ],
+      "warm_median_seconds": 0.0027108746580779552
+    },
+    "citation_origin_destination": {
+      "row_count": 1684,
+      "result_sha256": "59a64965269aed8eae79ff57b356052767fed76e59906923a447f4073f01d773",
+      "first_in_process_seconds": 0.004895416088402271,
+      "warm_seconds": [
+        0.004741709213703871,
+        0.0045315418392419815,
+        0.004571207799017429
+      ],
+      "warm_median_seconds": 0.004571207799017429
+    }
+  },
+  "import_seconds": 0.2520667500793934,
+  "worker_wall_seconds": 0.398504083044827,
+  "process_peak_rss_bytes": 279035904
+}

@@ -1,0 +1,151 @@
+{
+  "status": "pass",
+  "query_parity": true,
+  "source": "/Users/jr/Dev/lex-mex/derived/db/permanent-5eca-a/afdc5acf0b5017d73cd7b8e0b8f8fc5962914b56de26467e42b0c77fd2ef1974/corpus.sqlite",
+  "manifest_sha256": "a61306327c7bb030ad6b50ebd03ecd083522732313fa116d09a01a6d76f582c1",
+  "database_sha256": "5da6e800e4d3b362411c561d9ae67fbfe012abe3164fce30bbb8a21c9e249bf2",
+  "release_id": "afdc5acf0b5017d73cd7b8e0b8f8fc5962914b56de26467e42b0c77fd2ef1974",
+  "logical_content_sha256": "8cc3736018bffae94f303d9cbfa378170c9ff0e2842ce708431f08d528b60359",
+  "python": "3.14.7 (main, Aug  5 2026, 10:29:49) [Clang 21.0.0 (clang-2100.1.1.101)]",
+  "platform": "macOS-26.5.1-arm64-arm-64bit-Mach-O",
+  "driver_sha256": "c3bed3db5c3ad0668ead374b7e1dfd05b2a9a7bfd515aa2b8e0f6998a88ca088",
+  "dependency_pin_sha256": "201b0fb013906656a17fdbdb5e2de992d89de8f49a11cf0e6311b821380822bb",
+  "queries": {
+    "provision_volume": "SELECT instrument_id, COUNT(*), SUM(LENGTH(text))\n        FROM provisions GROUP BY instrument_id ORDER BY instrument_id",
+    "citation_destinations": "SELECT target_instrument_id, resolution_status, COUNT(*)\n        FROM reference_edges GROUP BY target_instrument_id, resolution_status\n        ORDER BY target_instrument_id, resolution_status",
+    "term_usage_by_owner": "SELECT d.instrument_id, COUNT(*)\n        FROM term_usages u JOIN defined_terms d ON u.term_id=d.id\n        GROUP BY d.instrument_id ORDER BY d.instrument_id",
+    "citation_origin_destination": "SELECT p.instrument_id, e.target_instrument_id, COUNT(*)\n        FROM reference_edges e JOIN provisions p ON e.source_provision_id=p.id\n        GROUP BY p.instrument_id,e.target_instrument_id\n        ORDER BY p.instrument_id,e.target_instrument_id"
+  },
+  "export_seconds": 0.8218473750166595,
+  "engines": {
+    "sqlite": {
+      "version": "3.53.4",
+      "table_counts": {
+        "instruments": 468,
+        "provisions": 68341,
+        "reference_edges": 35930,
+        "defined_terms": 5766,
+        "term_usages": 97672
+      },
+      "queries": {
+        "provision_volume": {
+          "row_count": 468,
+          "result_sha256": "081481b79a32acd053291686fd96ebd62b618f1dd20e963a8437a2594b38c85d",
+          "first_in_process_seconds": 0.060517375357449055,
+          "warm_seconds": [
+            0.057361042127013206,
+            0.05755291599780321,
+            0.05770104192197323
+          ],
+          "warm_median_seconds": 0.05755291599780321
+        },
+        "citation_destinations": {
+          "row_count": 466,
+          "result_sha256": "47a045296f70634defd452f941a28bb2aebad8ce8efdf9b0730c4faff705ac17",
+          "first_in_process_seconds": 0.011248624883592129,
+          "warm_seconds": [
+            0.011144749820232391,
+            0.011220042128115892,
+            0.011272333096712828
+          ],
+          "warm_median_seconds": 0.011220042128115892
+        },
+        "term_usage_by_owner": {
+          "row_count": 304,
+          "result_sha256": "1904681011f9eb320d3a67c392228b1728106a9eb5b61c3c4a2f716176adc641",
+          "first_in_process_seconds": 0.005666458047926426,
+          "warm_seconds": [
+            0.006115875206887722,
+            0.005334333050996065,
+            0.005411333404481411
+          ],
+          "warm_median_seconds": 0.005411333404481411
+        },
+        "citation_origin_destination": {
+          "row_count": 1684,
+          "result_sha256": "59a64965269aed8eae79ff57b356052767fed76e59906923a447f4073f01d773",
+          "first_in_process_seconds": 0.028371917083859444,
+          "warm_seconds": [
+            0.028219417203217745,
+            0.02846308285370469,
+            0.028527291025966406
+          ],
+          "warm_median_seconds": 0.02846308285370469
+        }
+      },
+      "import_seconds": 0.0,
+      "worker_wall_seconds": 0.4305187496356666,
+      "process_peak_rss_bytes": 37371904
+    },
+    "duckdb": {
+      "version": "1.4.3",
+      "table_counts": {
+        "instruments": 468,
+        "provisions": 68341,
+        "reference_edges": 35930,
+        "defined_terms": 5766,
+        "term_usages": 97672
+      },
+      "queries": {
+        "provision_volume": {
+          "row_count": 468,
+          "result_sha256": "081481b79a32acd053291686fd96ebd62b618f1dd20e963a8437a2594b38c85d",
+          "first_in_process_seconds": 0.021575416903942823,
+          "warm_seconds": [
+            0.010550500359386206,
+            0.009913334157317877,
+            0.009678541216999292
+          ],
+          "warm_median_seconds": 0.009913334157317877
+        },
+        "citation_destinations": {
+          "row_count": 466,
+          "result_sha256": "47a045296f70634defd452f941a28bb2aebad8ce8efdf9b0730c4faff705ac17",
+          "first_in_process_seconds": 0.0007002502679824829,
+          "warm_seconds": [
+            0.0005855411291122437,
+            0.0005545420572161674,
+            0.0005442500114440918
+          ],
+          "warm_median_seconds": 0.0005545420572161674
+        },
+        "term_usage_by_owner": {
+          "row_count": 304,
+          "result_sha256": "1904681011f9eb320d3a67c392228b1728106a9eb5b61c3c4a2f716176adc641",
+          "first_in_process_seconds": 0.0035742907784879208,
+          "warm_seconds": [
+            0.002720416057854891,
+            0.00269295834004879,
+            0.0027108746580779552
+          ],
+          "warm_median_seconds": 0.0027108746580779552
+        },
+        "citation_origin_destination": {
+          "row_count": 1684,
+          "result_sha256": "59a64965269aed8eae79ff57b356052767fed76e59906923a447f4073f01d773",
+          "first_in_process_seconds": 0.004895416088402271,
+          "warm_seconds": [
+            0.004741709213703871,
+            0.0045315418392419815,
+            0.004571207799017429
+          ],
+          "warm_median_seconds": 0.004571207799017429
+        }
+      },
+      "import_seconds": 0.2520667500793934,
+      "worker_wall_seconds": 0.398504083044827,
+      "process_peak_rss_bytes": 279035904
+    }
+  },
+  "sqlite_bytes": 482025472,
+  "duckdb_bytes": 100151296,
+  "wall_seconds": 2.4941397923976183,
+  "limitations": [
+    "First query is not OS-cold; source copy/export warms filesystem cache",
+    "SQLite uses existing indexes; DuckDB stores only five selected table projections",
+    "Footprints are different projections, not compression ratios",
+    "RSS includes engine/import;256MB is DuckDB buffer limit, not total process cap",
+    "No FTS, legal inference, temporal derivation or serving benchmark"
+  ],
+  "worktree_head": "a07a93f31a726c70adecd0fba53c84b3105f2e10"
+}
