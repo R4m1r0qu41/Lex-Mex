@@ -143,3 +143,24 @@ median on this machine (peak memory 75 to 78 MB), with every response at most 5.
 follows the matched set. The plan asks for measured limits, not a promise, and these are recorded above. A cap (candidate limit,
 stop-word list, or a hit threshold for single tokens) would change which results rank, so it is deliberately not done without a
 product decision.
+
+## Update — independent review findings R-002 to R-004 fixed (2026-10-26)
+
+Codex reviewed query tip `134e4e381` and found three adapter defects, all reproduced on the final database. Fixed on the same branch
+in `b3e562d88`, with a rare-word disclosure note in `615578206` (branch tip):
+
+- **R-002 (P2).** A resolved reference whose target has no public route (an ordinal sign such as `lft:transitory:9º`) made the whole
+  references page a 503. The edge now keeps its exact canonical `target_id`, status, span and qualifiers with a **null target**, which
+  the schema and both contracts already allow; no id is normalized and no edge is dropped. A resolved target in an unknown instrument
+  stays an error. A Rust contract test covers a resolved edge with a null target. `mx/lft/transitory/10/references` now answers 200.
+- **R-003 (P2).** Normal pagination overran the depth cap (limit 7 over `obligación` returned 1,001 results over 143 pages). The last
+  page is cut to the remaining depth, so any page size ends at exactly 1,000 results (limit 7 now gives 143 pages ending in 6 items).
+  The depth is a validated option (default `MAX_DEPTH`) so the cap is testable on a small fixture.
+- **R-004 (P3).** A search with an unknown instrument skipped cursor validation and returned 200 for a null cursor. The request is
+  validated before the empty-result shortcut; the real route now returns 400.
+
+Regression tests use a portable fixture projection (synthetic data, real table shapes: `reader/query-sqlite-fixture.mjs`) and the three
+real-database cases the reviewer ran (gated on `LEX_MEX_QUERY_DB`). Seven of the eight new tests fail on the previous adapter.
+Checks: fmt; clippy 1.95 and 1.99.0; **435 Rust tests**; **71 of 71 Node tests** on the final release `d82f53c0…` (53 pass and 18 skip
+without a database). Codex's note that the 5,000-term default omits rare legal terms is now disclosed on the catalog page.
+Still open: independent re-review, and the product decision on common-token search cost (recorded as measured limits).
