@@ -799,6 +799,19 @@ fn enactment_layer_header(block: &str) -> Option<EnactmentLayer> {
     })
 }
 
+/// The tail of a sentence that a page break left on its own line: the
+/// mixed-case words `Artículo transitorio` (the end of "… este Artículo
+/// transitorio."). An all-capitals or bare section header never matches.
+fn is_sentence_tail_fragment(block: &str) -> bool {
+    matches!(
+        block.trim().trim_end_matches(['.', ':']).trim_end(),
+        "Artículo transitorio"
+            | "Articulo transitorio"
+            | "Artículos transitorios"
+            | "Articulos transitorios"
+    )
+}
+
 /// Whether a block ends with sentence-final punctuation or a closing quote or bracket.
 fn ends_sentence(text: &str) -> bool {
     text.trim_end().chars().next_back().is_some_and(|c| {
@@ -1688,9 +1701,12 @@ pub fn parse_diputados_publication(
         };
         // A page break can leave the tail of a sentence on its own line
         // (LRASCAP: `… a que se refiere el presente` then `Artículo
-        // transitorio.`). A header cannot interrupt an unfinished sentence, so
-        // that line stays text of the provision being read.
-        let interrupts_sentence = in_statute_transitories
+        // transitorio.`). Only that mixed-case fragment, after a body that has
+        // not ended its sentence, stays text of the provision being read; any
+        // other header spelling (`TRANSITORIOS`, `ARTÍCULO TRANSITORIO`, …)
+        // keeps closing the section whatever the body's last character is.
+        let interrupts_sentence = is_sentence_tail_fragment(&block)
+            && in_statute_transitories
             && !pending_overall_decree_transitory
             && current
                 .as_ref()
@@ -2754,6 +2770,84 @@ mod tests {
         // a terminated sentence followed by the same line is still a header
         assert!(super::ends_sentence("Texto terminado."));
         assert!(!super::ends_sentence("a que se refiere el presente"));
+    }
+
+    fn transitory_ids(source: &str, id: &str) -> Vec<String> {
+        parse_diputados(
+            source,
+            &options(id, "Ley de Prueba"),
+            NaiveDate::from_ymd_opt(2009, 8, 13).expect("valid date"),
+        )
+        .expect("parses")
+        .provisions
+        .iter()
+        .map(|p| p.id.rsplit(':').next().unwrap().to_owned())
+        .collect()
+    }
+
+    #[test]
+    fn a_standalone_transitorios_header_closes_the_section_whatever_the_body_ends_with() {
+        // Review finding R-001: the page-break exception must not swallow a real header.
+        let unpunctuated = "LEY DE PRUEBA\n\nArtículo 1.- Norma principal.\n\nTRANSITORIOS\n\nPRIMERO.- Texto sin punto\n\nTRANSITORIOS\n\nSEGUNDO.- Texto de otra sección.\n";
+        let punctuated = unpunctuated.replace("Texto sin punto", "Texto con punto.");
+        for source in [unpunctuated.to_owned(), punctuated] {
+            assert_eq!(
+                transitory_ids(&source, "urn:lex-mx:federal:statute:muestra"),
+                ["1", "primero"],
+                "{source}"
+            );
+        }
+        let document = parse_diputados(
+            unpunctuated,
+            &options("urn:lex-mx:federal:statute:muestra", "Ley de Prueba"),
+            NaiveDate::from_ymd_opt(2009, 8, 13).expect("valid date"),
+        )
+        .unwrap();
+        let primero = document
+            .provisions
+            .iter()
+            .find(|p| p.id.ends_with(":transitory:primero"))
+            .unwrap();
+        assert_eq!(primero.text, "Texto sin punto");
+        // an all-capitals singular header is also a header after an unpunctuated body
+        let singular = "LEY DE PRUEBA\n\nArtículo 1.- Norma principal.\n\nTRANSITORIOS\n\nPRIMERO.- Texto sin punto\n\nARTÍCULO TRANSITORIO.\n\nSEGUNDO.- Otra sección.\n";
+        assert_eq!(
+            transitory_ids(singular, "urn:lex-mx:federal:statute:muestra"),
+            ["1", "primero"]
+        );
+    }
+
+    #[test]
+    fn the_page_break_fragment_exception_is_limited_to_the_mixed_case_words() {
+        assert!(super::is_sentence_tail_fragment("Artículo transitorio."));
+        assert!(super::is_sentence_tail_fragment("Artículos transitorios"));
+        for header in [
+            "TRANSITORIOS",
+            "Transitorios.",
+            "ARTÍCULO TRANSITORIO.",
+            "Artículo Transitorio.",
+            "TRANSITORIO",
+        ] {
+            assert!(!super::is_sentence_tail_fragment(header), "{header}");
+        }
+    }
+
+    #[test]
+    fn an_unpunctuated_law_transitory_still_hands_over_to_the_overall_decree_in_an_omnibus_enactment()
+     {
+        let source = include_str!("../../../fixtures/diputados/headed-omnibus-layers-sample.txt")
+            .replace("dentro de noventa días.", "dentro de noventa días");
+        assert_eq!(
+            transitory_ids(&source, "urn:lex-mx:federal:statute:sample"),
+            [
+                "1",
+                "2",
+                "articulo-primero-primero",
+                "articulo-primero-segundo",
+                "decreto-primero",
+                "decreto-segundo"
+            ]
+        );
     }
 
     #[test]
