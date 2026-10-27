@@ -121,6 +121,15 @@ two fresh projections byte-identical (release `caead5ed…`, database `8ec847d9�
 and all 21 goldens. Census: 68,395 provisions, 36,077 edges, 5,985 terms, 102,282 usages, 0 active and 17 retired debt rows.
 The mech run's wall time was inflated by a machine pause; the outputs are unaffected.
 
+## Disclosure: amended-article start dates cleared (independent review, 2026-10-26)
+
+Besides the headline status changes, the reparses and re-ingestions clear `effective_from` on amended articles: when an article
+carries an amendment mark, the deterministic rule leaves its start date unset instead of asserting the original commencement.
+Exact counts of provisions that had a start date in the baseline and have none now: **`cub-dcg-2005` 281**, `cucb-dcg-2004` 35,
+`oaac-dcg-2009` 22 and **`reg-laero` 3** (341 in all). These are not legal rulings: they remove a date the rule can no longer
+justify for an amended article, and the amendment itself is recorded in the amendment evidence. The status transitions are
+separate (`cub`: one `effective` to `repealed`). No audited or imported decision was among them.
+
 ## Audited legal state is preserved (the R2 gate)
 
 The accepted-equivalent database (release `0ea9c945…`) and the final one (release `caead5ed…`) were compared table by table:

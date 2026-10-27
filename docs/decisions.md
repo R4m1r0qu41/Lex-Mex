@@ -52,6 +52,8 @@ records pin commit SHAs, so never rebase or squash it). Nothing is merged or pus
 - **Goldens edited by operator approval** (`18f8e50ca`). `G6 active LFD structural debt` becomes a
   standalone-article check for `lfd` 257-sextus plus "no LFD debt is active"; `G5 complete cited-but-missing
   inventory` becomes `[[2, 4]]` (only `lftr` and `socap` remain). The other 19 are unchanged; all 21 pass.
+- **Start-date clearances (disclosed after independent review).** Reparsed amended articles leave `effective_from` unset: `cub-dcg-2005` 281,
+  `cucb-dcg-2004` 35, `oaac-dcg-2009` 22, `reg-laero` 3 (341 in all). A conservative rule output, not a legal ruling.
 - **Deterministic temporal derivation, operator-approved** (`6454d66de`, `5ada66f48`, `e28d08875`,
   `bcd17a4e4`). The existing commencement rule was applied to the 166 instruments that already resolve:
   143 day after publication, 17 relative days, 3 same day, 3 literal date. 12,211 of 13,337 provisions move
