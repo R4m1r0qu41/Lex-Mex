@@ -4739,6 +4739,13 @@ fn run_temporal_derive(context: &InstrumentContext, repair_dates_only: bool) -> 
                 "temporal derive: commencement resolved via {pattern} ({effective_from}); {repealed} repealed, {commenced} classified from commencement"
             );
         }
+        Some(Commencement::Bounded {
+            latest, pattern, ..
+        }) => {
+            println!(
+                "temporal derive: commencement bounded via {pattern} (no later than {latest}); {repealed} repealed, {commenced} classified from commencement"
+            );
+        }
         Some(Commencement::Skipped { reason, .. }) => {
             println!(
                 "temporal derive: commencement skipped ({}: {}); {repealed} repealed, 0 classified from commencement",
