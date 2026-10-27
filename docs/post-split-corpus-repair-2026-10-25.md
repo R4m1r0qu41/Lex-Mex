@@ -160,10 +160,22 @@ Gate at `3cbba683e` (builder and corpus identity both this commit, because the p
 fmt, clippy, **442 workspace tests**, both locked validators valid, all 12 touched instruments valid, `link --all` on a clone exit 0
 with 0 relinked and only `lftr` and `socap` rejected, two fresh projections byte-identical (release `d82f53c0…`, database
 `17ca152b…`) passing `db verify` and all 21 goldens. Census unchanged: 68,395 provisions, 36,077 edges, 102,282 usages, 0 active debt
-rows. The logical digest differs from the earlier release only because the builder identity is part of the release provenance.
+rows. The logical digest differs from the earlier release (`e3f0d112…` against `42cfc2e3…`) because the stored bytes of `docs/decisions.md`, which the database records as an input file, changed; the canonical corpus is byte-identical. Builder and release identity separately change the release id and the physical file hash, not the logical digest (see the correction below).
 
 ## Not done
 
 `socap-sofipo-dcg-2006` is held. `cjm` (+2) and `lftr` (+3) were out of this instruction; R2 (temporal queue), the R3 remainder
 (database-backed serving, output bounds, benchmark) and independent review are open. DuckDB is
 being tested elsewhere and is not part of this record.
+
+## Correction R-005 (wording only, 2026-10-27)
+
+Codex's bounded re-review (`docs/post-split-bounded-re-review-2026-10-27.md`) accepted the R-001 to R-004 fixes and found one
+non-blocking error in this record. An earlier sentence said the logical digest changed between releases `caead5ed…` and `d82f53c0…`
+"because the builder identity is part of the release provenance". That is wrong: the logical digest excludes the `corpus_release`
+table. Codex recomputed the new digest (`e3f0d112…`) and showed that substituting only the `input_files` row for `docs/decisions.md` with
+its bytes at `bcd17a4e4` restores the old digest (`42cfc2e3…`) exactly. The changed decision-document evidence (the 2026-10-25 entry
+edited between the two commits) explains the logical-digest change; builder and release identity affect the release id and the physical
+provenance separately. The digest policy, the canonical data and every historical accepted decision text are unchanged. This is a
+documentation correction in a docs-only commit; it is not part of the tested source (the tested parser tip is `b38d1f33d`, the query tip
+`615578206`) and needs no new code audit.
