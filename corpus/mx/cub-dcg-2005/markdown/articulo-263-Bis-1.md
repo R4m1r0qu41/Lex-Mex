@@ -9,14 +9,13 @@ aliases: ["DCG-CUB-2005 — Artículo 263 Bis 1"]
 generated: true
 temporal_status: effective
 review_status: machine_accepted
+amendment_marks: [264]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título QUINTO · Capítulo V
 
 # Artículo 263 Bis 1
 
-Las Instituciones al registrar en su Sistema de Recepción y Asignación las Órdenes (264)
-
-que reciban de sus clientes y, en su caso, sus modificaciones, en términos del tercer y cuarto párrafos del Artículo [262](articulo-262.md) de estas disposiciones, deberán asentar fielmente el nombre del cliente y su número de contrato, detallando si es un cliente que puede girar instrucciones a la mesa, folio secuencial según su recepción, fecha y hora exacta de recepción de cada instrucción, así como si la instrucción se giró al libro o a la mesa. Estos datos no podrán ser alterados o modificados por motivo o circunstancia algunos. Tratándose de instrucciones giradas de forma verbal, deberán contar con la confirmación de la instrucción por parte del cliente de manera escrita o por algún medio electrónico o telefónico el mismo día en que se reciba.
+Las Instituciones al registrar en su [Sistema de Recepción y Asignación](articulo-1.md) las Órdenes que reciban de sus clientes y, en su caso, sus modificaciones, en términos del tercer y cuarto párrafos del Artículo [262](articulo-262.md) de estas disposiciones, deberán asentar fielmente el nombre del cliente y su número de contrato, detallando si es un cliente que puede girar instrucciones a la mesa, folio secuencial según su recepción, fecha y hora exacta de recepción de cada instrucción, así como si la instrucción se giró al libro o a la mesa. Estos datos no podrán ser alterados o modificados por motivo o circunstancia algunos. Tratándose de instrucciones giradas de forma verbal, deberán contar con la confirmación de la instrucción por parte del cliente de manera escrita o por algún medio electrónico o telefónico el mismo día en que se reciba.

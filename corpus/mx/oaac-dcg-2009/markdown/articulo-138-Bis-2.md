@@ -9,7 +9,7 @@ aliases: ["DCG-OAAC-2009 — Artículo 138 Bis 2"]
 generated: true
 temporal_status: effective
 review_status: machine_accepted
-amendment_marks: [56]
+amendment_marks: [56,105]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20los%20almacenes%20generales%20de%20dep%C3%B3sito%2C%20casas%20de%20cambio%2C%20uniones%20de%20cr%C3%A9dito%20y%20sociedades%20financieras%20de%20objeto%20m%C3%BAltiple%20reguladas.pdf
 source_sha256: 8ac502b97188bd6e795781e9821be6e62ccdd8050cdd3be74aab52a888e67939
 ---
@@ -32,9 +32,7 @@ V. Plan general de funcionamiento de la Empresa de Servicios o Sociedad Inmobili
 
 Tratándose de Empresas de Servicios, deberán incluirse los mecanismos de seguridad y confidencialidad que se requieran, dependiendo del tipo de servicios que vayan a prestar a las uniones de crédito.
 
-En todo caso, el plan general de funcionamiento deberá prever un plan de contingencias para (105)
-
-que, en caso de presentarse problemas operativos, no afecten el correcto funcionamiento de la unión o uniones de crédito, o los Socios de estas, que inviertan en su capital social, incluyendo los procedimientos de contingencia en caso de desastres naturales.
+En todo caso, el plan general de funcionamiento deberá prever un plan de contingencias para que, en caso de presentarse problemas operativos, no afecten el correcto funcionamiento de la unión o uniones de crédito, o los Socios de estas, que inviertan en su capital social, incluyendo los procedimientos de contingencia en caso de desastres naturales.
 
 VI. Copia certificada por el secretario del [Consejo](articulo-1.md), del acuerdo adoptado por el órgano de gobierno que corresponda, en el que conste la aprobación relativa a la inversión en la Empresa de Servicios o Sociedad Inmobiliaria de que se trate.
 
@@ -60,7 +58,7 @@ c) En caso que los servicios se refieran a la utilización de Infraestructura Te
 
 d) Las evaluaciones realizadas por la unión de crédito para determinar la medida en que los servicios a prestar por las Empresas de Servicios pudieran afectar cualitativa o cuantitativamente las operaciones que realice la unión de crédito, tomando en cuenta lo siguiente:
 
-(105) i. La capacidad de la unión de crédito para, en caso de contingencia, mantener la continuidad operativa y la realización de operaciones y servicios con sus Socios.
+i. La capacidad de la unión de crédito para, en caso de contingencia, mantener la continuidad operativa y la realización de operaciones y servicios con sus Socios.
 
 ii. La complejidad y tiempo requerido para encontrar un tercero que, en su caso, sustituya a la Empresa de Servicios.
 
@@ -70,6 +68,6 @@ iv. La habilidad de la unión de crédito para mantener controles internos aprop
 
 v. El impacto que la suspensión del servicio tendría en las finanzas, reputación y operaciones de la unión de crédito.
 
-(105) vi. La vulnerabilidad de la información relativa a los Socios.
+vi. La vulnerabilidad de la información relativa a los Socios.
 
 e) Las medidas que implementarán las uniones de crédito en los supuestos anteriores.

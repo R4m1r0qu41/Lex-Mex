@@ -7,8 +7,8 @@ provision_type: article
 number: "14"
 aliases: ["LCACSAM — Artículo 14"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/268.pdf
 source_sha256: e56b3fe80514e68891aee1c7ad316374b7b6d21ab2b8ce55c53b3ae83a535248
 ---

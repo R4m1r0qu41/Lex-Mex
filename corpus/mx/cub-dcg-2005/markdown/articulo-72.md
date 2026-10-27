@@ -10,11 +10,11 @@ generated: true
 temporal_status: effective
 review_status: machine_accepted
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título SEGUNDO · Capítulo IV
 
 # Artículo 72
 
-El comité de riesgos previa aprobación del Consejo podrá, de acuerdo con los objetivos, lineamientos y políticas para la Administración Integral de Riesgos, ajustar o autorizar de manera excepcional que se excedan los Límites Específicos de Exposición al Riesgo, cuando las condiciones y el entorno de la Institución así lo requieran. En los mismos términos, el comité podrá solicitar al Consejo el ajuste o la autorización para que se excedan excepcionalmente los Límites Globales de Exposición al Riesgo.
+El comité de riesgos previa aprobación del [Consejo](articulo-1.md) podrá, de acuerdo con los objetivos, lineamientos y políticas para la [Administración Integral de Riesgos](articulo-1.md), ajustar o autorizar de manera excepcional que se excedan los Límites Específicos de Exposición al Riesgo, cuando las condiciones y el entorno de la Institución así lo requieran. En los mismos términos, el comité podrá solicitar al Consejo el ajuste o la autorización para que se excedan excepcionalmente los Límites Globales de Exposición al Riesgo.

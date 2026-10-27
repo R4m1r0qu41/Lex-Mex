@@ -10,7 +10,7 @@ generated: true
 temporal_status: effective
 review_status: machine_accepted
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título SEGUNDO · Capítulo III
@@ -19,6 +19,6 @@ source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
 
 Las Instituciones al captar recursos del público, deberán diversificar sus riesgos, procurando una adecuada integración de sus pasivos, en función de la colocación de los recursos captados.
 
-Asimismo, cuando en las Instituciones se constituyan depósitos o reciban préstamos de sus clientes o capten recursos de una persona o grupos de personas que se consideren como una misma, que representen en una o más operaciones pasivas a cargo de dichas Instituciones más del 100% de su capital básico, deberán dar aviso a la Comisión al día hábil siguiente a que se actualice dicho supuesto.
+Asimismo, cuando en las Instituciones se constituyan depósitos o reciban préstamos de sus clientes o capten recursos de una persona o grupos de personas que se consideren como una misma, que representen en una o más operaciones pasivas a cargo de dichas Instituciones más del 100% de su capital básico, deberán dar aviso a la [Comisión](articulo-1.md) al día hábil siguiente a que se actualice dicho supuesto.
 
 Para efectuar el referido cómputo, las Instituciones considerarán el pasivo que, en su caso, resulte de aplicar las normas procedimentales que para la conversión del riesgo crediticio entre operaciones activas y pasivas del mismo tipo, se encuentran referidas en el Artículo [57](articulo-57.md) de las presentes disposiciones.

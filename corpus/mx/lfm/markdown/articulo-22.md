@@ -7,8 +7,8 @@ provision_type: article
 number: "22"
 aliases: ["LFM — Artículo 22"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/124.pdf
 source_sha256: 8d9eac4d6509cf79f1755895a3e93d6268d423ab101ab08c6fd734f55a5a7818
 ---

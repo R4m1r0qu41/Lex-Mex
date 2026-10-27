@@ -7,8 +7,8 @@ provision_type: article
 number: "18"
 aliases: ["LCPRO — Artículo 18"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/238.pdf
 source_sha256: 632a042503f2cbca50f9247a0ba9d5df58135381d91bbe8784ff4f5dbda017ea
 ---

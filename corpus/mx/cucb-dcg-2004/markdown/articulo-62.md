@@ -24,7 +24,7 @@ I. Al libro, aquellas que se giran para su transmisión inmediata a las bolsas d
 
 II. A la mesa, aquellas instrucciones que tienen por objeto ser administradas por las mesas de operación de las casas de bolsa, a través de sus operadores de bolsa.
 
-Tratándose de clientes que no sean considerados como elegibles para girar instrucciones a la mesa, las casas de bolsa únicamente podrán registrar órdenes que se deriven de instrucciones al libro cuando se trate de valores de renta variable inscritos en el Registro. Para el caso de valores listados en el sistema internacional de cotizaciones, las casas de bolsa podrán administrar en su mesa de operación las instrucciones de sus clientes que versen sobre este tipo de valores.
+Tratándose de clientes que no sean considerados como elegibles para girar instrucciones a la mesa, las casas de bolsa únicamente podrán registrar órdenes que se deriven de instrucciones al libro cuando se trate de valores de renta variable inscritos en el [Registro](articulo-1.md). Para el caso de valores listados en el sistema internacional de cotizaciones, las casas de bolsa podrán administrar en su mesa de operación las instrucciones de sus clientes que versen sobre este tipo de valores.
 
 Las instrucciones que las casas de bolsa reciban de sus clientes serán ingresadas como órdenes en forma inmediata al sistema de recepción y asignación en los mismos términos en que hayan sido giradas con independencia del medio a través del cual se instruyó. Una vez registradas en dicho sistema, adquirirán el carácter de órdenes y deberán transmitirse al sistema electrónico de negociación de la bolsa de valores correspondiente conforme a lo previsto en las presentes disposiciones.
 

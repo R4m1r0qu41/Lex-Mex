@@ -9,42 +9,39 @@ aliases: ["DCG-CUB-2005 — Artículo 354 Bis"]
 generated: true
 temporal_status: effective
 review_status: machine_accepted
+amendment_marks: [170]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título QUINTO · Capítulo XIV
 
 # Artículo 354 Bis
 
-Las Instituciones que pretendan obtener la autorización para invertir en títulos (170)
+Las Instituciones que pretendan obtener la autorización para invertir en títulos representativos del capital social de las [Empresas de Servicios](articulo-1.md) y Sociedades Inmobiliarias, deberán presentar a la [Comisión](articulo-1.md) la información y documentación siguiente:
 
-representativos del capital social de las Empresas de Servicios y Sociedades Inmobiliarias, deberán presentar a la Comisión la información y documentación siguiente:
+I. Solicitud, en formato libre, suscrita por su representante legal, acompañada de los documentos que acrediten su personalidad;
 
-(170) I. Solicitud, en formato libre, suscrita por su representante legal, acompañada de los documentos que acrediten su personalidad;
+II. Copia certificada de los estatutos sociales de la Empresa de Servicios o Sociedad Inmobiliaria en la que pretenda invertir. Tratándose de Empresas de Servicios o Sociedades Inmobiliarias que aún no se hayan constituido, deberá presentarse el proyecto de estatutos sociales;
 
-(170) II. Copia certificada de los estatutos sociales de la Empresa de Servicios o Sociedad Inmobiliaria en la que pretenda invertir. Tratándose de Empresas de Servicios o Sociedades Inmobiliarias que aún no se hayan constituido, deberá presentarse el proyecto de estatutos sociales;
+III. Relación de accionistas de la Empresa de Servicios o Sociedad Inmobiliaria de que se trate y el porcentaje de tenencia accionaria de cada uno;
 
-(170) III. Relación de accionistas de la Empresa de Servicios o Sociedad Inmobiliaria de que se trate y el porcentaje de tenencia accionaria de cada uno;
+IV. Datos del director general o equivalente, así como de los directivos de las dos jerarquías inmediatas inferiores a este de la Empresa de Servicios o Sociedad Inmobiliaria en la que pretenda invertir;
 
-(170) IV. Datos del director general o equivalente, así como de los directivos de las dos jerarquías inmediatas inferiores a este de la Empresa de Servicios o Sociedad Inmobiliaria en la que pretenda invertir;
+V. Plan general de funcionamiento de la Empresa de Servicios o Sociedad Inmobiliaria. Tratándose de Empresas de Servicios, deberán incluirse los mecanismos de seguridad y confidencialidad que se requieran, dependiendo del tipo de servicios que vayan a prestar a las Instituciones.
 
-(170) V. Plan general de funcionamiento de la Empresa de Servicios o Sociedad Inmobiliaria. Tratándose de Empresas de Servicios, deberán incluirse los mecanismos de seguridad y confidencialidad que se requieran, dependiendo del tipo de servicios que vayan a prestar a las Instituciones.
+En todo caso, el plan general de funcionamiento deberá prever un plan de contingencias para que, en caso de presentarse problemas operativos, no afecten el correcto funcionamiento de la Institución o Instituciones que inviertan en su capital social;
 
-En todo caso, el plan general de funcionamiento deberá prever un plan de contingencias para (170)
+VI. Copia certificada por el secretario del consejo de administración de la Institución, del acuerdo adoptado por el órgano de gobierno que corresponda, en el que conste la aprobación relativa a la inversión en la Empresa de Servicios o Sociedad Inmobiliaria de que se trate;
 
-que, en caso de presentarse problemas operativos, no afecten el correcto funcionamiento de la Institución o Instituciones que inviertan en su capital social;
+VII. Monto de la inversión que pretende realizar y el porcentaje que representaría su participación en el capital social de la Empresa de Servicios o Sociedad Inmobiliaria de que se trate, especificando, en su caso, la serie, clase y valor nominal de las acciones;
 
-(170) VI. Copia certificada por el secretario del consejo de administración de la Institución, del acuerdo adoptado por el órgano de gobierno que corresponda, en el que conste la aprobación relativa a la inversión en la Empresa de Servicios o Sociedad Inmobiliaria de que se trate;
+VIII. Tratándose de Empresas de Servicios, la indicación de si se trata de una Empresa de Servicios Exclusiva o una Empresa de Servicios Genérica;
 
-(170) VII. Monto de la inversión que pretende realizar y el porcentaje que representaría su participación en el capital social de la Empresa de Servicios o Sociedad Inmobiliaria de que se trate, especificando, en su caso, la serie, clase y valor nominal de las acciones;
+IX. Justificación de la viabilidad económica y operativa, por un periodo mínimo de tres años, sobre la participación en el capital social de la Empresa de Servicios o Sociedad Inmobiliaria en la que pretenda invertir y, en su caso, la necesidad de la prestación de los servicios respectivos;
 
-(170) VIII. Tratándose de Empresas de Servicios, la indicación de si se trata de una Empresa de Servicios Exclusiva o una Empresa de Servicios Genérica;
+X. Estados financieros proforma de la Institución de que se trate relativos a los tres últimos ejercicios sociales o desde la fecha de constitución de la Institución, cuando esta sea menor a 3 años, que reflejen su participación en el capital social de la empresa en la que pretenda invertir;
 
-(170) IX. Justificación de la viabilidad económica y operativa, por un periodo mínimo de tres años, sobre la participación en el capital social de la Empresa de Servicios o Sociedad Inmobiliaria en la que pretenda invertir y, en su caso, la necesidad de la prestación de los servicios respectivos;
+XI. Lugar en donde se ubica o se ubicará el principal asiento de la administración de la Empresa de Servicios o Sociedad Inmobiliaria y, en su caso, las demás oficinas, y
 
-(170) X. Estados financieros proforma de la Institución de que se trate relativos a los tres últimos ejercicios sociales o desde la fecha de constitución de la Institución, cuando esta sea menor a 3 años, que reflejen su participación en el capital social de la empresa en la que pretenda invertir;
-
-(170) XI. Lugar en donde se ubica o se ubicará el principal asiento de la administración de la Empresa de Servicios o Sociedad Inmobiliaria y, en su caso, las demás oficinas, y
-
-(170) XII. Proyectos de contratos en los cuales se estipulen los derechos y obligaciones de la o las Instituciones, así como de la Empresa de Servicios o de la Sociedad Inmobiliaria de que se trate.
+XII. Proyectos de contratos en los cuales se estipulen los derechos y obligaciones de la o las Instituciones, así como de la Empresa de Servicios o de la Sociedad Inmobiliaria de que se trate.

@@ -9,23 +9,23 @@ aliases: ["DCG-CUB-2005 — Artículo 271"]
 generated: true
 temporal_status: effective
 review_status: machine_accepted
-amendment_marks: [60]
+amendment_marks: [60,266]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título QUINTO · Capítulo V
 
 # Artículo 271
 
-En caso de Órdenes insatisfechas, las Instituciones capturarán en el Sistema de Recepción y Asignación al final de cada sesión bursátil, cuando menos, los datos siguientes:
+En caso de Órdenes insatisfechas, las Instituciones capturarán en el [Sistema de Recepción y Asignación](articulo-1.md) al final de cada sesión bursátil, cuando menos, los datos siguientes:
 
-(266) I. Derogada.
+I. Derogada.
 
-II. La mención de ser Orden insatisfecha.
+II. La mención de ser [Orden](articulo-1.md) insatisfecha.
 
 III. En caso de ejecución parcial, los registros de la asignación de la operación, así como de la porción no satisfecha de la Orden.
 
-(266) IV. Derogada.
+IV. Derogada.
 
 En caso de que el Sistema de Recepción y Asignación contenga de manera automática los datos antes señalados, las Instituciones no se encontrarán obligadas a capturarlos.

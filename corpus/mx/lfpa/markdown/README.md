@@ -80,6 +80,7 @@ Fuente operativa: [camara_de_diputados](https://www.diputados.gob.mx/LeyesBiblio
 - [Artículo 69-A](articulo-69-A.md)
 - [Artículo 69-B](articulo-69-B.md)
 - [Artículo 69-C](articulo-69-C.md)
+- [Artículo 69-C Bis](articulo-69-C-Bis.md)
 - [Artículo 69-D](articulo-69-D.md)
 - [Artículo 69-E](articulo-69-E.md)
 - [Artículo 69-F](articulo-69-F.md)

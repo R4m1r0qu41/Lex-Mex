@@ -7,8 +7,8 @@ provision_type: article
 number: "26"
 aliases: ["LPEAM — Artículo 26"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LPEAM.pdf
 source_sha256: 91c9521ab87e22ff0a199a3a017e0d22449cdf59dfc788f6e550a1833717f2df
 ---

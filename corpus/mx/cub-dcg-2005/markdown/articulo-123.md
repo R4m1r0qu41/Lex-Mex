@@ -9,21 +9,20 @@ aliases: ["DCG-CUB-2005 — Artículo 123"]
 generated: true
 temporal_status: effective
 review_status: machine_accepted
+amendment_marks: [130,132]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título SEGUNDO · Capítulo V
 
 # Artículo 123
 
-Las instituciones de banca de desarrollo que otorguen garantías personales conforme (130)
+Las instituciones de banca de desarrollo que otorguen garantías personales conforme a su régimen autorizado y que, a su vez, cuenten con una contragarantía de primeras pérdidas otorgada por un [Fideicomiso de Contragarantía](articulo-1.md), deberán identificar la porción contragarantizada de su exposición.
 
-a su régimen autorizado y que, a su vez, cuenten con una contragarantía de primeras pérdidas otorgada por un Fideicomiso de Contragarantía, deberán identificar la porción contragarantizada de su exposición.
+I. La porción contragarantizada se calculará aplicando la fórmula siguiente:
 
-(130) I. La porción contragarantizada se calculará aplicando la fórmula siguiente:
-
-(130) Donde:
+Donde:
 
 %CGar = Porción del portafolio cubierta por la contragarantía de primeras pérdidas.
 
@@ -31,9 +30,9 @@ MCG = Monto del Fideicomiso de Contragarantía destinado a cubrir la garantía o
 
 RPG = Monto de reservas requerido para el portafolio garantizado, ya sea que se trate de un Esquema de Cobertura en Paso y Medida o Primeras Pérdidas.
 
-(130) II. Las reservas preventivas requeridas para el portafolio de créditos contragarantizado se calcularán aplicando la expresión siguiente:
+II. Las reservas preventivas requeridas para el portafolio de créditos contragarantizado se calcularán aplicando la expresión siguiente:
 
-(130) Donde:
+Donde:
 
 RPCG = Monto de reservas a constituir para el portafolio contragarantizado.
 
@@ -43,16 +42,14 @@ MCG = Monto del Fideicomiso de Contragarantía destinado a cubrir la garantía o
 
 El tratamiento al que se refiere el presente artículo podrá ser aplicado para créditos individuales sustituyendo los montos y porcentajes que correspondan al portafolio garantizado por los correspondientes a un crédito.
 
-(132) III. Derogada.
+III. Derogada.
 
-(132) IV. Derogada.
+IV. Derogada.
 
-(132) V. Derogada.
+V. Derogada.
 
-(132) VI. Derogada.
+VI. Derogada.
 
-(132) Penúltimo párrafo.- Derogado.
+Penúltimo párrafo.- Derogado.
 
-(132) Último párrafo.- Derogado.
-
-(139)
+Último párrafo.- Derogado.

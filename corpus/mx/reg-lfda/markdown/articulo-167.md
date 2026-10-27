@@ -10,7 +10,7 @@ generated: true
 temporal_status: effective
 review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFDA.pdf
-source_sha256: 2beb1a3a5c23de93f1588ce6d4e4c209e73a8d747f19e3165706f38abcee8fe3
+source_sha256: 77ea253060400b44a671ceaa2f797ab7566be72239d6d4f3f63958b43319cd2a
 ---
 
 > Título XIII · Capítulo III
@@ -23,12 +23,12 @@ I. Nombre y domicilio de la sociedad que promueve la solicitud o, en su caso, el
 
 II. Nombre y domicilio de la cámara, grupo o asociación de usuarios o, en su caso, el de la sociedad o sociedades a quienes resultaría aplicable la tarifa;
 
-III. Forma de explotación, así como la clase de establecimientos para los cuales resultará aplicable la tarifa, y
-
-IV. Consideraciones de hecho y de derecho en que funda la tarifa propuesta, misma que deberá: Párrafo reformado DOF 14-09-2005
+III. Forma de explotación, así como la clase de establecimientos para los cuales resultará aplicable la tarifa, y IV. Consideraciones de hecho y de derecho en que funda la tarifa propuesta, misma que deberá: Párrafo reformado DOF 14-09-2005
 
 a) Basarse en criterios objetivos y determinables mediante una simple operación aritmética;
 
-b) En caso de formas de explotación en las que participen diversas clases de titulares de derechos de autor y derechos conexos, establecer la participación que cada clase de titulares tendrá sobre la tarifa global, y c) Enunciar los elementos, criterios objetivos o, en su caso, prácticas establecidas que justifiquen el cálculo del pago que deberán hacer las distintas categorías de usuarios a quienes resulte aplicable la tarifa, y Inciso reformado DOF 14-09-2005
+b) En caso de formas de explotación en las que participen diversas clases de titulares de derechos de autor y derechos conexos, establecer la participación que cada clase de titulares tendrá sobre la tarifa global, y
+
+c) Enunciar los elementos, criterios objetivos o, en su caso, prácticas establecidas que justifiquen el cálculo del pago que deberán hacer las distintas categorías de usuarios a quienes resulte aplicable la tarifa, y Inciso reformado DOF 14-09-2005
 
 V. Detallar el sistema o forma en que se repartirán a los socios o agremiados las cantidades que recaude la sociedad o, en su caso, la cámara, grupo o asociación de usuarios que se beneficia con la tarifa. Fracción adicionada DOF 14-09-2005

@@ -10,8 +10,10 @@ generated: true
 temporal_status: effective
 review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAero.pdf
-source_sha256: ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776
+source_sha256: e91348de8667fa8105d03a2ee6fb7a9413a11174a4877c9c1c7272aee5874c3a
 ---
+
+> Capítulo IV
 
 # Artículo 132 Ter
 
@@ -25,7 +27,9 @@ III. Un representante del órgano u organismo que presta los servicios a la nave
 
 Los integrantes del subcomité de demoras nombrarán a un suplente con voz y voto.
 
-El subcomité de demoras sesionará de forma ordinaria por lo menos dos veces al mes y en forma extraordinaria las veces que a juicio de su presidente se requiera. El subcomité de demoras deberá sesionar con la presencia de todos sus integrantes o sus suplentes para que sean válidas.
+El subcomité de demoras sesionará de forma ordinaria por lo menos dos veces al mes y en forma extraordinaria las veces que a juicio de su presidente se requiera.
+
+El subcomité de demoras deberá sesionar con la presencia de todos sus integrantes o sus suplentes para que sean válidas.
 
 Las decisiones del subcomité de demoras se tomarán por mayoría de votos que emitan los integrantes.
 

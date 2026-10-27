@@ -316,6 +316,195 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfda:article:37-bis:term-usage:52-55",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfda:article:37-bis",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfda:term:ley",
+    "span": "Ley",
+    "start_char": 52,
+    "end_char": 55
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfda:article:37-bis:term-usage:475-478",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfda:article:37-bis",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfda:term:ley",
+    "span": "Ley",
+    "start_char": 475,
+    "end_char": 478
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfda:article:37-ter:term-usage:76-79",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfda:article:37-ter",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfda:term:ley",
+    "span": "Ley",
+    "start_char": 76,
+    "end_char": 79
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfda:article:37-ter:term-usage:201-204",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfda:article:37-ter",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfda:term:ley",
+    "span": "Ley",
+    "start_char": 201,
+    "end_char": 204
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfda:article:37-ter:term-usage:443-446",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfda:article:37-ter",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfda:term:ley",
+    "span": "Ley",
+    "start_char": 443,
+    "end_char": 446
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfda:article:37-ter:term-usage:517-520",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfda:article:37-ter",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfda:term:ley",
+    "span": "Ley",
+    "start_char": 517,
+    "end_char": 520
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfda:article:37-quater:term-usage:70-73",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfda:article:37-quater",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfda:term:ley",
+    "span": "Ley",
+    "start_char": 70,
+    "end_char": 73
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfda:article:37-quater:term-usage:322-325",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfda:article:37-quater",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfda:term:ley",
+    "span": "Ley",
+    "start_char": 322,
+    "end_char": 325
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfda:article:37-quater:term-usage:569-572",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfda:article:37-quater",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfda:term:ley",
+    "span": "Ley",
+    "start_char": 569,
+    "end_char": 572
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfda:article:37-quater:term-usage:764-767",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfda:article:37-quater",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfda:term:ley",
+    "span": "Ley",
+    "start_char": 764,
+    "end_char": 767
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfda:article:37-quater:term-usage:1671-1674",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfda:article:37-quater",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfda:term:ley",
+    "span": "Ley",
+    "start_char": 1671,
+    "end_char": 1674
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfda:article:37-quater:term-usage:1842-1845",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfda:article:37-quater",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfda:term:ley",
+    "span": "Ley",
+    "start_char": 1842,
+    "end_char": 1845
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfda:article:37-quinquies:term-usage:133-136",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfda:article:37-quinquies",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfda:term:ley",
+    "span": "Ley",
+    "start_char": 133,
+    "end_char": 136
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfda:article:37-quinquies:term-usage:349-352",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfda:article:37-quinquies",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfda:term:ley",
+    "span": "Ley",
+    "start_char": 349,
+    "end_char": 352
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfda:article:37-sexies:term-usage:128-131",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfda:article:37-sexies",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfda:term:ley",
+    "span": "Ley",
+    "start_char": 128,
+    "end_char": 131
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfda:article:37-sexies:term-usage:365-368",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfda:article:37-sexies",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfda:term:ley",
+    "span": "Ley",
+    "start_char": 365,
+    "end_char": 368
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfda:article:37-septies:term-usage:76-79",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfda:article:37-septies",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfda:term:ley",
+    "span": "Ley",
+    "start_char": 76,
+    "end_char": 79
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfda:article:37-septies:term-usage:360-363",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfda:article:37-septies",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfda:term:ley",
+    "span": "Ley",
+    "start_char": 360,
+    "end_char": 363
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfda:article:37-septies:term-usage:1066-1069",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfda:article:37-septies",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfda:term:ley",
+    "span": "Ley",
+    "start_char": 1066,
+    "end_char": 1069
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfda:article:37-septies:term-usage:1327-1330",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfda:article:37-septies",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfda:term:ley",
+    "span": "Ley",
+    "start_char": 1327,
+    "end_char": 1330
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfda:article:37-septies:term-usage:1474-1477",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfda:article:37-septies",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfda:term:ley",
+    "span": "Ley",
+    "start_char": 1474,
+    "end_char": 1477
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lfda:article:38:term-usage:85-88",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfda:article:38",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfda:term:ley",
@@ -406,21 +595,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfda:article:41:term-usage:457-466",
+    "id": "urn:lex-mx:federal:regulation:reg-lfda:article:41:term-usage:456-465",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfda:article:41",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfda:term:instituto",
     "span": "Instituto",
-    "start_char": 457,
-    "end_char": 466
+    "start_char": 456,
+    "end_char": 465
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfda:article:41:term-usage:741-755",
+    "id": "urn:lex-mx:federal:regulation:reg-lfda:article:41:term-usage:740-754",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfda:article:41",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfda:term:diario-oficial",
     "span": "Diario Oficial",
-    "start_char": 741,
-    "end_char": 755
+    "start_char": 740,
+    "end_char": 754
   },
   {
     "schema_version": "0.1.0",
@@ -649,12 +838,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfda:article:67:term-usage:850-860",
+    "id": "urn:lex-mx:federal:regulation:reg-lfda:article:67:term-usage:849-859",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfda:article:67",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfda:term:sociedades",
     "span": "Sociedades",
-    "start_char": 850,
-    "end_char": 860
+    "start_char": 849,
+    "end_char": 859
   },
   {
     "schema_version": "0.1.0",
@@ -856,12 +1045,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfda:article:89:term-usage:750-759",
+    "id": "urn:lex-mx:federal:regulation:reg-lfda:article:89:term-usage:751-760",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfda:article:89",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfda:term:instituto",
     "span": "Instituto",
-    "start_char": 750,
-    "end_char": 759
+    "start_char": 751,
+    "end_char": 760
   },
   {
     "schema_version": "0.1.0",
@@ -910,84 +1099,84 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfda:article:103:term-usage:764-772",
+    "id": "urn:lex-mx:federal:regulation:reg-lfda:article:103:term-usage:763-771",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfda:article:103",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfda:term:registro",
     "span": "Registro",
-    "start_char": 764,
-    "end_char": 772
+    "start_char": 763,
+    "end_char": 771
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfda:article:103:term-usage:837-845",
+    "id": "urn:lex-mx:federal:regulation:reg-lfda:article:103:term-usage:836-844",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfda:article:103",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfda:term:registro",
     "span": "Registro",
-    "start_char": 837,
-    "end_char": 845
+    "start_char": 836,
+    "end_char": 844
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfda:article:103:term-usage:1643-1646",
+    "id": "urn:lex-mx:federal:regulation:reg-lfda:article:103:term-usage:1642-1645",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfda:article:103",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfda:term:ley",
     "span": "Ley",
-    "start_char": 1643,
-    "end_char": 1646
+    "start_char": 1642,
+    "end_char": 1645
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfda:article:103:term-usage:1794-1797",
+    "id": "urn:lex-mx:federal:regulation:reg-lfda:article:103:term-usage:1793-1796",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfda:article:103",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfda:term:ley",
     "span": "Ley",
-    "start_char": 1794,
-    "end_char": 1797
+    "start_char": 1793,
+    "end_char": 1796
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfda:article:103:term-usage:2634-2644",
+    "id": "urn:lex-mx:federal:regulation:reg-lfda:article:103:term-usage:2633-2643",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfda:article:103",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfda:term:secretaria",
     "span": "Secretaría",
-    "start_char": 2634,
-    "end_char": 2644
+    "start_char": 2633,
+    "end_char": 2643
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfda:article:103:term-usage:2768-2771",
+    "id": "urn:lex-mx:federal:regulation:reg-lfda:article:103:term-usage:2766-2769",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfda:article:103",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfda:term:ley",
     "span": "Ley",
-    "start_char": 2768,
-    "end_char": 2771
+    "start_char": 2766,
+    "end_char": 2769
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfda:article:103:term-usage:2795-2804",
+    "id": "urn:lex-mx:federal:regulation:reg-lfda:article:103:term-usage:2793-2802",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfda:article:103",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfda:term:instituto",
     "span": "Instituto",
-    "start_char": 2795,
-    "end_char": 2804
+    "start_char": 2793,
+    "end_char": 2802
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfda:article:103:term-usage:2998-3001",
+    "id": "urn:lex-mx:federal:regulation:reg-lfda:article:103:term-usage:2996-2999",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfda:article:103",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfda:term:ley",
     "span": "Ley",
-    "start_char": 2998,
-    "end_char": 3001
+    "start_char": 2996,
+    "end_char": 2999
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfda:article:103:term-usage:3201-3204",
+    "id": "urn:lex-mx:federal:regulation:reg-lfda:article:103:term-usage:3199-3202",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfda:article:103",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfda:term:ley",
     "span": "Ley",
-    "start_char": 3201,
-    "end_char": 3204
+    "start_char": 3199,
+    "end_char": 3202
   },
   {
     "schema_version": "0.1.0",
@@ -1297,12 +1486,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfda:article:121:term-usage:481-489",
+    "id": "urn:lex-mx:federal:regulation:reg-lfda:article:121:term-usage:480-488",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfda:article:121",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfda:term:registro",
     "span": "Registro",
-    "start_char": 481,
-    "end_char": 489
+    "start_char": 480,
+    "end_char": 488
   },
   {
     "schema_version": "0.1.0",
@@ -1477,12 +1666,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfda:article:134:term-usage:1525-1534",
+    "id": "urn:lex-mx:federal:regulation:reg-lfda:article:134:term-usage:1526-1535",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfda:article:134",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfda:term:instituto",
     "span": "Instituto",
-    "start_char": 1525,
-    "end_char": 1534
+    "start_char": 1526,
+    "end_char": 1535
   },
   {
     "schema_version": "0.1.0",
@@ -1702,12 +1891,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfda:article:157:term-usage:283-286",
+    "id": "urn:lex-mx:federal:regulation:reg-lfda:article:157:term-usage:282-285",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfda:article:157",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfda:term:ley",
     "span": "Ley",
-    "start_char": 283,
-    "end_char": 286
+    "start_char": 282,
+    "end_char": 285
   },
   {
     "schema_version": "0.1.0",
@@ -2158,23 +2347,5 @@
     "span": "Ley",
     "start_char": 207,
     "end_char": 210
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfda:transitory:sexto:term-usage:512-522",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfda:transitory:sexto",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfda:term:secretario",
-    "span": "Secretario",
-    "start_char": 512,
-    "end_char": 522
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfda:transitory:sexto:term-usage:579-589",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfda:transitory:sexto",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfda:term:secretario",
-    "span": "Secretario",
-    "start_char": 579,
-    "end_char": 589
   }
 ]

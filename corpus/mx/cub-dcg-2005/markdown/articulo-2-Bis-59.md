@@ -11,11 +11,11 @@ temporal_status: effective
 review_status: machine_accepted
 amendment_marks: [50]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título PRIMERO · Capítulo III
 
 # Artículo 2 Bis 59
 
-Una Amortización Anticipada se considerará como no comprometida cuando pueda ser cancelada incondicionalmente por parte de la Institución Originadora de Esquemas de Bursatilización sin aviso. En caso de que esto último no sea posible, es decir cuando la institución originadora únicamente pueda cancelar el esquema de Amortización Anticipada una vez cumplidas las condiciones previamente pactadas con los inversionistas, dicho esquema de Amortización Anticipada se considerará como comprometido.
+Una Amortización Anticipada se considerará como no comprometida cuando pueda ser cancelada incondicionalmente por parte de la [Institución Originadora de Esquemas de Bursatilización](articulo-1.md) sin aviso. En caso de que esto último no sea posible, es decir cuando la institución originadora únicamente pueda cancelar el esquema de Amortización Anticipada una vez cumplidas las condiciones previamente pactadas con los inversionistas, dicho esquema de Amortización Anticipada se considerará como comprometido.

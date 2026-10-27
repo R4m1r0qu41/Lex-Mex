@@ -9,16 +9,15 @@ aliases: ["DCG-CUB-2005 — Artículo 11"]
 generated: true
 temporal_status: effective
 review_status: machine_accepted
+amendment_marks: [259]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título SEGUNDO · Capítulo I
 
 # Artículo 11
 
-Las Instituciones en el desarrollo de la Actividad Crediticia, deberán contar para cada una (259)
+Las Instituciones en el desarrollo de la [Actividad Crediticia](articulo-1.md), deberán contar para cada una de las etapas, con procesos, personal adecuado e [Infraestructura Tecnológica](articulo-1.md) que permitan el logro de sus objetivos en materia de crédito, ajustándose a las presentes disposiciones, así como a las metodologías, modelos, políticas y procedimientos establecidos en su manual de crédito.
 
-de las etapas, con procesos, personal adecuado e Infraestructura Tecnológica que permitan el logro de sus objetivos en materia de crédito, ajustándose a las presentes disposiciones, así como a las metodologías, modelos, políticas y procedimientos establecidos en su manual de crédito.
-
-El director general, deberá asegurarse que la infraestructura de apoyo que se tenga para el ejercicio de crédito que otorgue la Institución, no contravenga en ningún momento los objetivos, lineamientos y políticas aprobados por el Consejo.
+El director general, deberá asegurarse que la infraestructura de apoyo que se tenga para el ejercicio de crédito que otorgue la Institución, no contravenga en ningún momento los objetivos, lineamientos y políticas aprobados por el [Consejo](articulo-1.md).

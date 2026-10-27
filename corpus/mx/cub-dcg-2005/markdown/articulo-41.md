@@ -9,8 +9,9 @@ aliases: ["DCG-CUB-2005 — Artículo 41"]
 generated: true
 temporal_status: effective
 review_status: machine_accepted
+amendment_marks: [146,205]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título SEGUNDO · Capítulo I
@@ -21,8 +22,8 @@ Las Instituciones quedarán exceptuadas de lo previsto en el Artículo [39](arti
 
 I. Créditos cuyos solicitantes tengan relación laboral con la Institución acreditante y otorguen su consentimiento irrevocable para que el pago se realice mediante deducciones que se efectúen a su salario. Se incluyen en este supuesto, los créditos que otorgue el Banco Nacional del Ejército, Fuerza Aérea y Armada.
 
-(205) II. Créditos cuyo importe en moneda nacional no exceda el equivalente a 1,000 UDIs al momento de ser otorgados o bien, se encuentren denominados en dicha unidad hasta por el mismo monto, así como créditos cuyo importe en moneda nacional sea superior al equivalente a 1,000 UDIs y hasta el equivalente a 1,500 UDIs, en este último caso siempre que se trate del primer crédito que la Institución otorgue al cliente.
+II. Créditos cuyo importe en moneda nacional no exceda el equivalente a 1,000 UDIs al momento de ser otorgados o bien, se encuentren denominados en dicha unidad hasta por el mismo monto, así como créditos cuyo importe en moneda nacional sea superior al equivalente a 1,000 UDIs y hasta el equivalente a 1,500 UDIs, en este último caso siempre que se trate del primer crédito que la Institución otorgue al cliente.
 
 III. Créditos otorgados a bancos mexicanos o de primer orden establecidos en el extranjero.
 
-(146) IV. Créditos directos o de segundo piso que otorguen las instituciones de banca de desarrollo, al amparo de programas de apoyo instrumentados por el Gobierno Federal, ante emergencias o desastres naturales.
+IV. Créditos directos o de segundo piso que otorguen las instituciones de banca de desarrollo, al amparo de programas de apoyo instrumentados por el Gobierno Federal, ante emergencias o desastres naturales.

@@ -11,17 +11,17 @@ temporal_status: effective
 review_status: machine_accepted
 amendment_marks: [50]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título PRIMERO · Capítulo III
 
 # Artículo 2 Bis 10
 
-Las Instituciones para calcular el requerimiento de capital por su exposición al riesgo de crédito de cada una de las Operaciones Sujetas a Riesgo de Crédito, deberán utilizar:
+Las Instituciones para calcular el requerimiento de capital por su exposición al riesgo de crédito de cada una de las [Operaciones Sujetas a Riesgo de Crédito](articulo-1.md), deberán utilizar:
 
-I. El Método Estándar indicado en la Sección Segunda del presente capítulo.
+I. El [Método Estándar](articulo-1.md) indicado en la Sección Segunda del presente capítulo.
 
-II. Alguno de los métodos basados en calificaciones internas, básico o avanzado, siempre y cuando obtengan autorización previa de la Comisión para el efecto, quien la podrá otorgar una vez que la Institución haya cumplido con los requisitos a que se refiere la Sección Tercera del presente capítulo.
+II. Alguno de los métodos basados en calificaciones internas, básico o avanzado, siempre y cuando obtengan autorización previa de la [Comisión](articulo-1.md) para el efecto, quien la podrá otorgar una vez que la Institución haya cumplido con los requisitos a que se refiere la Sección Tercera del presente capítulo.
 
 En todo caso, una vez autorizado el uso del método basado en calificaciones internas, básico o avanzado, para un tipo de cartera en particular, las Instituciones no podrán utilizar otro método, salvo cuando la Comisión así se los autorice o así lo determine.

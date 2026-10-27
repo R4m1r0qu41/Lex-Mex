@@ -18,7 +18,7 @@ source_sha256: 98762f18214a47011d5f4f3d4eb63bf776be8e1528cc08888adaf47fe2829e85
 
 # Artículo 204 Bis 15
 
-La [Comisión](articulo-1.md) únicamente podrá establecer las medidas correctivas especiales adicionales señaladas expresamente en la Ley y en las presentes disposiciones.
+La [Comisión](articulo-1.md) únicamente podrá establecer las medidas correctivas especiales adicionales señaladas expresamente en la [Ley](articulo-1.md) y en las presentes disposiciones.
 
 La Comisión podrá aplicar a las casas de bolsa que hayan sido clasificadas en la categoría II a que se refiere el artículo [204 Bis 7](articulo-204-Bis-7.md) de las presentes disposiciones, cualesquiera de las medidas correctivas especiales adicionales establecidas en el artículo [204 Bis 16](articulo-204-Bis-16.md) de las presentes disposiciones.
 

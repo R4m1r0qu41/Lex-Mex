@@ -1,1 +1,27 @@
-[]
+[
+  {
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfda:amendment:2005-09-14:transitory:primero",
+    "label": "Transitorio PRIMERO — Decreto DOF 2005-09-14",
+    "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfda:amendment:2005-09-14:transitory:segundo",
+    "label": "Transitorio SEGUNDO — Decreto DOF 2005-09-14",
+    "text": "Se derogan todas aquellas disposiciones que se opongan al presente Decreto."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfda:amendment:2026-09-24:transitory:primero",
+    "label": "Transitorio Primero — Decreto DOF 2026-09-24",
+    "text": "El presente Decreto entrará en vigor a los noventa días hábiles siguientes a su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfda:amendment:2026-09-24:transitory:segundo",
+    "label": "Transitorio Segundo — Decreto DOF 2026-09-24",
+    "text": "Los avisos y contra-avisos presentados con anterioridad a la entrada en vigor del presente Decreto se sustanciarán conforme a las disposiciones vigentes al momento de su presentación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfda:amendment:2026-09-24:transitory:tercero",
+    "label": "Transitorio Tercero — Decreto DOF 2026-09-24",
+    "text": "Las erogaciones que se generen con motivo de la entrada en vigor e implementación del presente Decreto deberán efectuarse con cargo al presupuesto autorizado de los ejecutores de gasto correspondientes, por lo que no se incrementará su presupuesto regularizable de gasto de operación y de servicios personales, y no se autorizarán recursos adicionales para el ejercicio fiscal ni en subsecuentes."
+  }
+]

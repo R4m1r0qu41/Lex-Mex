@@ -43,13 +43,3 @@ Cuando conforme a los criterios de contabilidad aplicables a los almacenes gener
 La información señalada en la fracción I anterior, deberá ser entregada a través de imágenes de formato digital, en medios ópticos o magnéticos a la [Comisión](articulo-1.md) dentro de los 30 días naturales siguientes a la aprobación del Consejo, con excepción de las modificaciones a los Modelos de Valuación Internos que deberán ser entregados a la Comisión dentro de los 2 días naturales siguientes a su aprobación.
 
 La Comisión tendrá la facultad de veto respecto de los Modelos de Valuación Internos, así como sobre las modificaciones a los propios modelos o a los insumos utilizados para la determinación del Precio Actualizado para Valuación, dentro de un plazo de 10 días hábiles contados a partir de la fecha de recepción de la información a que se refiere el párrafo anterior. Asimismo, la información a que se refiere el presente artículo deberá quedar debidamente documentada y puesta a disposición de la Comisión cuando esta la requiera.
-
-Artículo 12 Bis. - Los almacenes generales de depósito y las casas de cambio deberán establecer y mantener adecuados sistemas y controles para demostrar que sus valuaciones son prudentes y confiables, así como documentar las políticas y procedimientos utilizados en la valuación de sus posiciones, incluyendo dentro de la documentación referida, al menos lo siguiente:
-
-I. Las responsabilidades de las diversas áreas involucradas en el proceso de valuación, las cuales deberán estar claramente definidas y estipuladas.
-
-II. Las directrices para el uso de las metodologías de estimación de las variables que no sean proporcionadas directamente por el Proveedor de Precios de la Institución a que se refiere el inciso b), fracción I del artículo 12.
-
-III. La hora en la que se determina el precio de cierre de las posiciones.
-
-IV. Cualquier procedimiento de verificación contenido en el presente Apartado.

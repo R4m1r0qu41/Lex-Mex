@@ -7,8 +7,8 @@ provision_type: article
 number: "25"
 aliases: ["REG-LDRS-MOIRSSE — Artículo 25"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LDRS_MOIRSSE.pdf
 source_sha256: 4da07bf61648a9d04725e2d49db4d867b7882c9bf2ed5d794bde76b64491cddf
 ---

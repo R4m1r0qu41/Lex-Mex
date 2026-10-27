@@ -9,9 +9,9 @@ aliases: ["DCG-CUB-2005 — Artículo 263 Bis 2"]
 generated: true
 temporal_status: effective
 review_status: machine_accepted
-amendment_marks: [61]
+amendment_marks: [61,265]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título QUINTO · Capítulo V
@@ -26,10 +26,8 @@ II. Que quien la gire tenga facultad para ello.
 
 III. Que el correspondiente contrato de depósito y administración de valores se encuentre vigente.
 
-IV. Que pueda ser registrada como Orden conforme a los manuales del Sistema de Recepción y Asignación a que se refiere el Artículo [259](articulo-259.md) de las presentes disposiciones.
+IV. Que pueda ser registrada como [Orden](articulo-1.md) conforme a los manuales del [Sistema de Recepción y Asignación](articulo-1.md) a que se refiere el Artículo [259](articulo-259.md) de las presentes disposiciones.
 
-Asimismo, las Instituciones se encontrarán obligadas a verificar lo señalado en las fracciones (265)
-
-anteriores respecto de instrucciones giradas por sus clientes que cuenten con canales de acceso electrónico directo a que hace referencia el Artículo [263 Bis 4](articulo-263-Bis-4.md) de las presentes disposiciones.
+Asimismo, las Instituciones se encontrarán obligadas a verificar lo señalado en las fracciones anteriores respecto de instrucciones giradas por sus clientes que cuenten con canales de acceso electrónico directo a que hace referencia el Artículo [263 Bis 4](articulo-263-Bis-4.md) de las presentes disposiciones.
 
 Las Instituciones deberán rechazar las instrucciones que no cumplan con los requisitos antes mencionados, sin que por ello incurran en responsabilidad alguna.

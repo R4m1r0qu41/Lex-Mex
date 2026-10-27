@@ -18,7 +18,7 @@ source_sha256: 98762f18214a47011d5f4f3d4eb63bf776be8e1528cc08888adaf47fe2829e85
 
 # Artículo 12 Bis 1
 
-La escisión de las casas de bolsa deberá ser autorizada por la [Comisión](articulo-1.md) en términos de lo previsto en el artículo 134 de la Ley. Para tal efecto, deberá presentarse, en adición a lo previsto en dicho artículo, la información siguiente:
+La escisión de las casas de bolsa deberá ser autorizada por la [Comisión](articulo-1.md) en términos de lo previsto en el artículo 134 de la [Ley](articulo-1.md). Para tal efecto, deberá presentarse, en adición a lo previsto en dicho artículo, la información siguiente:
 
 I. La solicitud, en formato libre, suscrita por los representantes legales de la casa de bolsa, adjuntando los documentos que acrediten su personalidad, debiendo señalar domicilio y designar personas para oír y recibir notificaciones.
 

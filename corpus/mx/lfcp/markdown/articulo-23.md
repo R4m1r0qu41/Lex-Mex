@@ -7,8 +7,8 @@ provision_type: article
 number: "23"
 aliases: ["LFCP — Artículo 23"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/105.pdf
 source_sha256: 471480d2f55997cdb7b7d372e4f1e1c9a7c72c34cbb1e4186299dc35ad6e2535
 ---

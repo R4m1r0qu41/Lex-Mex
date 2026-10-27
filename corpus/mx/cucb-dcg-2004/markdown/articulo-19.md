@@ -9,6 +9,7 @@ aliases: ["DCG-CUCB-2004 — Artículo 19"]
 generated: true
 temporal_status: effective
 review_status: machine_accepted
+amendment_marks: [108]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20casas%20de%20bolsa.pdf
 source_sha256: 98762f18214a47011d5f4f3d4eb63bf776be8e1528cc08888adaf47fe2829e85
 ---
@@ -17,6 +18,4 @@ source_sha256: 98762f18214a47011d5f4f3d4eb63bf776be8e1528cc08888adaf47fe2829e85
 
 # Artículo 19
 
-El Líder colocador o Intermediario colocador de una Oferta pública de Valores podrá (108)
-
-proceder a la Sobreasignación de los Valores objeto de la oferta, siempre que así se prevea en el contrato de colocación correspondiente suscrito con la Emisora o Emisora simplificada.
+El [Líder colocador](articulo-1.md) o [Intermediario colocador](articulo-1.md) de una Oferta pública de [Valores](articulo-1.md) podrá proceder a la [Sobreasignación](articulo-1.md) de los Valores objeto de la oferta, siempre que así se prevea en el contrato de colocación correspondiente suscrito con la Emisora o Emisora simplificada.

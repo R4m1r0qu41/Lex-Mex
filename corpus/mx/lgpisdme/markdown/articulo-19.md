@@ -7,8 +7,8 @@ provision_type: article
 number: "19"
 aliases: ["LGPISDME — Artículo 19"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPISDME.pdf
 source_sha256: 5d22df1b22454fe1fe5354c0d9d4cec71d1d7ded3549072c340c36cb3ea3a624
 ---

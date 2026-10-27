@@ -7,8 +7,8 @@ provision_type: article
 number: "4o"
 aliases: ["LAMNI — Artículo 4o"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/19.pdf
 source_sha256: 0aeca4ad89610cce814bff87e60d5cc1552f1cab232b798cf3b4da00d243d195
 ---

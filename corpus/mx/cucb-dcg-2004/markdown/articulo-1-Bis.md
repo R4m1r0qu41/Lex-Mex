@@ -18,7 +18,7 @@ source_sha256: 98762f18214a47011d5f4f3d4eb63bf776be8e1528cc08888adaf47fe2829e85
 
 # Artículo 1 Bis
 
-Las personas que pretendan obtener la autorización para organizarse y operar como casas de bolsa, en términos de lo señalado en el artículo 114 de la Ley, deberán presentar, en relación con lo previsto en el artículo [115](articulo-115.md) de dicho ordenamiento legal, la documentación siguiente:
+Las personas que pretendan obtener la autorización para organizarse y operar como casas de bolsa, en términos de lo señalado en el artículo 114 de la [Ley](articulo-1.md), deberán presentar, en relación con lo previsto en el artículo [115](articulo-115.md) de dicho ordenamiento legal, la documentación siguiente:
 
 I. La solicitud, en formato libre, suscrita por las personas que habrán de participar como accionistas de la casa de bolsa o por sus representantes legales, en cuyo caso deberán adjuntar los documentos que acrediten su personalidad, debiendo designar un representante común y señalar domicilio para oír y recibir notificaciones.
 

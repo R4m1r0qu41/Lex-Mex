@@ -8,10 +8,11 @@
   "glossaries": [
     {
       "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
-      "provision_text_sha256": "3eb990ae3b7969b9bceac4d0e89bef78e890d1923977d42b57a0bd4dd29c2604",
+      "provision_text_sha256": "920c6a191ce9c9831da404b81cc7ba6fcf7ca4ae98885f13570fa054972441bc",
       "method": "established_pass",
       "fractions": [
         "I",
+        "II",
         "III",
         "IV",
         "V",
@@ -24,6 +25,7 @@
         "XII",
         "XIII",
         "XIV",
+        "XIV Bis",
         "XV",
         "XVI",
         "XVIII",
@@ -34,6 +36,7 @@
         "XXIII",
         "XXIII Bis",
         "XXIV",
+        "XXIV Bis",
         "XXV",
         "XXV Bis",
         "XXVI",
@@ -72,10 +75,10 @@
         "LVII"
       ],
       "unread_fractions": [],
-      "term_count": 59
+      "term_count": 62
     }
   ],
   "imports": [],
-  "term_count": 59,
-  "usage_count": 942
+  "term_count": 62,
+  "usage_count": 952
 }

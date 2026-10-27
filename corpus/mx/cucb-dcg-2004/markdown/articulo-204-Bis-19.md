@@ -18,6 +18,6 @@ source_sha256: 98762f18214a47011d5f4f3d4eb63bf776be8e1528cc08888adaf47fe2829e85
 
 # Artículo 204 Bis 19
 
-La aplicación de las disposiciones del presente capítulo, así como de las medidas correctivas, es sin perjuicio de las facultades que se le atribuyen a la [Comisión](articulo-1.md) en la Ley, incluyendo de manera enunciativa más no limitativa, las señaladas en los artículos 141 y 356 de la Ley.
+La aplicación de las disposiciones del presente capítulo, así como de las medidas correctivas, es sin perjuicio de las facultades que se le atribuyen a la [Comisión](articulo-1.md) en la [Ley](articulo-1.md), incluyendo de manera enunciativa más no limitativa, las señaladas en los artículos 141 y 356 de la Ley.
 
 Lo anterior, sin perjuicio de que conforme a lo dispuesto por el artículo 392 de la Ley, el incumplimiento de las medidas correctivas a que se refieren las presentes disposiciones, será sancionado en términos de lo previsto por el citado artículo.

@@ -10,12 +10,16 @@ generated: true
 temporal_status: effective
 review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAero.pdf
-source_sha256: ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776
+source_sha256: e91348de8667fa8105d03a2ee6fb7a9413a11174a4877c9c1c7272aee5874c3a
 ---
+
+> Capítulo Único
 
 # Artículo 171
 
-En todo aeródromo civil en donde se encuentren adscritas dos o más autoridades civiles o militares, se debe integrar una comisión coordinadora de autoridades. La comisión coordinadora de autoridades estará integrada por los representantes que designe cada autoridad civil o militar adscrita al propio aeródromo. Dicha comisión puede invitar a los representantes de otras dependencias o entidades de la administración pública federal o estatal que tengan relación con los asuntos a tratar así como, de estimarlo oportuno, al administrador aeroportuario.
+En todo aeródromo civil en donde se encuentren adscritas dos o más autoridades civiles o militares, se debe integrar una comisión coordinadora de autoridades.
+
+La comisión coordinadora de autoridades estará integrada por los representantes que designe cada autoridad civil o militar adscrita al propio aeródromo. Dicha comisión puede invitar a los representantes de otras dependencias o entidades de la administración pública federal o estatal que tengan relación con los asuntos a tratar así como, de estimarlo oportuno, al administrador aeroportuario.
 
 Dicha comisión será presidida por el comandante de aeródromo, el representante de la [Secretaría](articulo-2.md) de Contraloría y Desarrollo Administrativo, actuará como secretario técnico de la misma. El comandante de aeródromo deberá convocar a las autoridades para la integración de la misma, dentro de los quince días naturales siguientes al inicio de operaciones del aeródromo y deberá sesionar por lo menos una vez al mes.
 

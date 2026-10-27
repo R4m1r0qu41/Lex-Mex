@@ -18,7 +18,7 @@ source_sha256: 98762f18214a47011d5f4f3d4eb63bf776be8e1528cc08888adaf47fe2829e85
 
 # Artículo 209
 
-Las casas de bolsa que pretendan obtener la autorización a que se refiere el tercer párrafo del artículo 215 de la Ley, deberán presentar a la [Comisión](articulo-1.md) la información siguiente:
+Las casas de bolsa que pretendan obtener la autorización a que se refiere el tercer párrafo del artículo 215 de la [Ley](articulo-1.md), deberán presentar a la [Comisión](articulo-1.md) la información siguiente:
 
 I. La solicitud, en formato libre, suscrita por el representante legal, acompañada de los documentos que acrediten su personalidad y señalar domicilio para oír y recibir notificaciones.
 

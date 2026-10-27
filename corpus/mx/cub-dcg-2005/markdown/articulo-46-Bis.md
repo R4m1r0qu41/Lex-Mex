@@ -9,22 +9,17 @@ aliases: ["DCG-CUB-2005 — Artículo 46 Bis"]
 generated: true
 temporal_status: effective
 review_status: machine_accepted
+amendment_marks: [227]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título SEGUNDO · Capítulo II
 
 # Artículo 46 Bis
 
-Las Instituciones deberán enviar a la Comisión a más tardar el último día hábil del (227)
+Las Instituciones deberán enviar a la [Comisión](articulo-1.md) a más tardar el último día hábil del mes de enero de cada año, el documento en el que conste que la oferta irrevocable realizada por la Institución correspondiente fue la que representó las mejores condiciones de mercado para los entes públicos acreditados en términos de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios durante el año inmediato anterior.
 
-mes de enero de cada año, el documento en el que conste que la oferta irrevocable realizada por la Institución correspondiente fue la que representó las mejores condiciones de mercado para los entes públicos acreditados en términos de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios durante el año inmediato anterior.
+Dicho documento será aquel que el propio acreditado haya publicado en términos de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y que contenga el resultado del análisis comparativo de las propuestas de las Instituciones a que se refiere el párrafo final del artículo 26 de la citada ley.
 
-Dicho documento será aquel que el propio acreditado haya publicado en términos de la Ley de (227)
-
-Disciplina Financiera de las Entidades Federativas y los Municipios, y que contenga el resultado del análisis comparativo de las propuestas de las Instituciones a que se refiere el párrafo final del artículo 26 de la citada ley.
-
-Lo anterior a fin de que la propia Comisión lo remita a la Comisión Federal de Competencia (227)
-
-Económica, para los efectos a que haya lugar.
+Lo anterior a fin de que la propia Comisión lo remita a la Comisión Federal de Competencia Económica, para los efectos a que haya lugar.

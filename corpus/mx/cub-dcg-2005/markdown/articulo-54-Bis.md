@@ -9,14 +9,13 @@ aliases: ["DCG-CUB-2005 — Artículo 54 Bis"]
 generated: true
 temporal_status: effective
 review_status: machine_accepted
+amendment_marks: [319]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título SEGUNDO · Capítulo III
 
 # Artículo 54 Bis
 
-Para efectos de la presente sección y para efectuar el cómputo de los límites (319)
-
-máximos aplicables, las Instituciones utilizarán el importe de la parte básica de sus respectivos Capitales Netos, conforme a lo indicado en el Artículo [2 Bis 6](articulo-2-Bis-6.md) de las presentes disposiciones, que corresponda al cierre del tercer mes anterior al de la fecha en que se realice dicho cómputo.
+Para efectos de la presente sección y para efectuar el cómputo de los límites máximos aplicables, las Instituciones utilizarán el importe de la parte básica de sus respectivos [Capitales Netos](articulo-1.md), conforme a lo indicado en el Artículo [2 Bis 6](articulo-2-Bis-6.md) de las presentes disposiciones, que corresponda al cierre del tercer mes anterior al de la fecha en que se realice dicho cómputo.

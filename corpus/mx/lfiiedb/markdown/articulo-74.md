@@ -7,8 +7,8 @@ provision_type: article
 number: "74"
 aliases: ["LFIIEDB — Artículo 74"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://dof.gob.mx/abrirPDF.php?anio=2026&archivo=09042026-VES.pdf&repo=
 source_sha256: 7679afbbf32749e0c0bacab72644d41fc6ccdeeab3a2f25dfae8d26a065de01e
 ---

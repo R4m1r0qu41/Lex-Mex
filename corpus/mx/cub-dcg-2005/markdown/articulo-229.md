@@ -9,18 +9,15 @@ aliases: ["DCG-CUB-2005 — Artículo 229"]
 generated: true
 temporal_status: effective
 review_status: machine_accepted
+amendment_marks: [113]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título QUINTO · Capítulo I
 
 # Artículo 229
 
-A las instituciones de banca múltiple que hayan sido clasificadas en la categoría IV, les (113)
+A las instituciones de banca múltiple que hayan sido clasificadas en la categoría IV, les serán aplicables las [Medidas Correctivas Mínimas](articulo-1.md) establecidas en las fracciones I y IV del Artículo [225](articulo-225.md), así como las establecidas en los Artículos [226](articulo-226.md), [227](articulo-227.md) y [228](articulo-228.md) de las presentes disposiciones.
 
-serán aplicables las Medidas Correctivas Mínimas establecidas en las fracciones I y IV del Artículo [225](articulo-225.md), así como las establecidas en los Artículos [226](articulo-226.md), [227](articulo-227.md) y [228](articulo-228.md) de las presentes disposiciones.
-
-Asimismo, no podrán llevar a cabo nuevas inversiones en activos no financieros, abrir sucursales o (113)
-
-realizar nuevas actividades distintas a las operaciones que habitualmente realiza la institución de banca múltiple como parte de su operación ordinaria.
+Asimismo, no podrán llevar a cabo nuevas inversiones en activos no financieros, abrir sucursales o realizar nuevas actividades distintas a las operaciones que habitualmente realiza la institución de banca múltiple como parte de su operación ordinaria.

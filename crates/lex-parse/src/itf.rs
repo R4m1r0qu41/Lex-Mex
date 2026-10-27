@@ -129,9 +129,14 @@ fn parse_main_text(
     // abbreviation (`Artículo 1o.-` … `9o.-`, also `º`/`°`); the ordinal is
     // dropped so the canonical number matches the plain form (`1o` → `1`,
     // as `8 ≡ 8o`). Group 1 is the digits, group 2 any ` Bis[ N]` tail
-    // (possibly empty), group 3 the heading remainder.
+    // (possibly empty), group 3 the heading remainder. The separator is a
+    // period and a hyphen or en dash, with the period and the spaces around
+    // the dash optional: retained sources write `Artículo 105 Bis. - `,
+    // `Artículo 117 Bis 5- ` and `Artículo 319 Bis. – ` as well as the
+    // joined `.-`. A body reference at a line start (`Artículo 319 Bis,
+    // que …`) has no dash after the number and does not match.
     let article_re =
-        Regex::new(r"^Artículo\s+(\d+)(?:o|º|°)?((?:\s+Bis(?:\s+\d+)?)?)\s*\.-\s*(.*)$")?;
+        Regex::new(r"^Artículo\s+(\d+)(?:o|º|°)?((?:\s+Bis(?:\s+\d+)?)?)\s*\.?\s*[-–]\s*(.*)$")?;
     // A transitorios-section heading appears across CNBV vintages in
     // masculine plural (`TRANSITORIOS`), masculine singular (`TRANSITORIO`,
     // for a single-article modifying resolution), and the feminine
@@ -891,6 +896,74 @@ mod tests {
                 .iter()
                 .any(|item| item.id.ends_with(":article:1"))
         );
+    }
+
+    #[test]
+    fn heading_separators_seen_in_retained_sources_open_an_article() {
+        // Retained DCG sources: `Artículo 105 Bis. - ` and `Artículo 106- `
+        // (OAAC), `Artículo 117 Bis 5- ` (CUCB) and, in a newer CUB edition,
+        // `Artículo 319 Bis. – ` with an en dash. Each was merged into the
+        // article before it while the separator had to be a joined `.-`.
+        let raw = "Artículo 104.- Anterior.\n\
+                   Artículo 105 Bis. - Diversificación de riesgos.\n\
+                   Artículo 106- Objeto del Capítulo.\n\
+                   Artículo 117 Bis 5- Filiales.\n\
+                   Artículo 319 Bis. – Comisionistas de base tecnológica.\n\
+                   TRANSITORIOS\n\
+                   PRIMERO.- Entra en vigor.\n\
+                   REFERENCIAS\n\
+                   1)    Reformado mediante Resolución.\n";
+        let document = parse_itf_dcg(
+            raw,
+            &[],
+            ITF_ID,
+            NaiveDate::from_ymd_opt(2003, 3, 19).unwrap(),
+        )
+        .expect("separator variants parse");
+        let numbers: Vec<_> = document
+            .provisions
+            .iter()
+            .filter(|item| item.provision_type == ProvisionType::Article)
+            .map(|item| item.number.as_str())
+            .collect();
+        assert_eq!(numbers, ["104", "105 Bis", "106", "117 Bis 5", "319 Bis"]);
+        let article_104 = document
+            .provisions
+            .iter()
+            .find(|item| item.id.ends_with(":article:104"))
+            .expect("article 104");
+        assert_eq!(article_104.text, "Anterior.");
+    }
+
+    #[test]
+    fn body_references_at_a_line_start_do_not_open_an_article() {
+        // Real line-start body references from the same CUB text: a comma,
+        // a preposition or a range after the number is not a heading
+        // separator, so the lines stay inside article 318.
+        let raw = "Artículo 318.- Texto inicial\n\
+                   Artículo 319 Bis, que tengan a su cargo ejecutar los procesos\n\
+                   Artículo 319 Bis de estas Disposiciones, la identificación\n\
+                   Artículo 319 Bis a través de la Infraestructura Tecnológica\n\
+                   Artículos 319 Bis a 319 Bis 5 de estas Disposiciones\n\
+                   Artículo 319 Bis 2 el cual deberá mandarse\n\
+                   TRANSITORIOS\n\
+                   PRIMERO.- Entra en vigor.\n\
+                   REFERENCIAS\n\
+                   1)    Reformado mediante Resolución.\n";
+        let document = parse_itf_dcg(
+            raw,
+            &[],
+            ITF_ID,
+            NaiveDate::from_ymd_opt(2003, 3, 19).unwrap(),
+        )
+        .expect("body references parse");
+        let numbers: Vec<_> = document
+            .provisions
+            .iter()
+            .filter(|item| item.provision_type == ProvisionType::Article)
+            .map(|item| item.number.as_str())
+            .collect();
+        assert_eq!(numbers, ["318"]);
     }
 
     #[test]

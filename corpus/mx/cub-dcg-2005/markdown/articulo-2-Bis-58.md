@@ -11,7 +11,7 @@ temporal_status: effective
 review_status: machine_accepted
 amendment_marks: [50]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título PRIMERO · Capítulo III
@@ -20,7 +20,7 @@ source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
 
 Para reconocer una Amortización Anticipada como controlada, deberá cumplirse con lo siguiente:
 
-I. La Institución Originadora de Esquemas de Bursatilización deberá contar con un plan adecuado de capital y liquidez con objeto de garantizar que dispone de los recursos suficientes para hacer frente a la Amortización Anticipada.
+I. La [Institución Originadora de Esquemas de Bursatilización](articulo-1.md) deberá contar con un plan adecuado de capital y liquidez con objeto de garantizar que dispone de los recursos suficientes para hacer frente a la Amortización Anticipada.
 
 II. La Institución Originadora de Esquemas de Bursatilización deberá establecer un período de amortización que sea suficiente para que cuando menos el 90 por ciento de la deuda total pendiente de vencimiento al inicio del periodo de Amortización Anticipada ya hubiera sido reembolsada o reconocida en situación de incumplimiento.
 

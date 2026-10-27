@@ -7,8 +7,8 @@ provision_type: article
 number: "41"
 aliases: ["LPO — Artículo 41"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LPO.pdf
 source_sha256: 2c0605e891e16c74283ed14d0adf749dba4cab1ad67909a2a5934f8e38b641a6
 ---

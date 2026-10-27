@@ -9,6 +9,7 @@ aliases: ["DCG-CUCB-2004 — Artículo 172"]
 generated: true
 temporal_status: effective
 review_status: machine_accepted
+amendment_marks: [100,101]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20casas%20de%20bolsa.pdf
 source_sha256: 98762f18214a47011d5f4f3d4eb63bf776be8e1528cc08888adaf47fe2829e85
 ---
@@ -17,6 +18,4 @@ source_sha256: 98762f18214a47011d5f4f3d4eb63bf776be8e1528cc08888adaf47fe2829e85
 
 # Artículo 172
 
-Las disposiciones previstas en esta Sección tienen por objeto establecer los requisitos que deberán seguir las casas de bolsa en materia de valuación de los Valores y demás instrumentos financieros que formen parte de su estado de situación financiera.
-
-(100)
+Las disposiciones previstas en esta Sección tienen por objeto establecer los requisitos que deberán seguir las casas de bolsa en materia de valuación de los [Valores](articulo-1.md) y demás instrumentos financieros que formen parte de su estado de situación financiera.

@@ -10,7 +10,7 @@ generated: true
 temporal_status: effective
 review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFDA.pdf
-source_sha256: 2beb1a3a5c23de93f1588ce6d4e4c209e73a8d747f19e3165706f38abcee8fe3
+source_sha256: 77ea253060400b44a671ceaa2f797ab7566be72239d6d4f3f63958b43319cd2a
 ---
 
 > Título VIII · Capítulo II
@@ -35,9 +35,7 @@ VII. Revocar el poder otorgado;
 
 VIII. Aclarar si la obra es primigenia o derivada;
 
-IX. Manifestar la fusión de personas morales titulares de los derechos patrimoniales de autor;
-
-X. Modificar los estatutos de las Sociedades;
+IX. Manifestar la fusión de personas morales titulares de los derechos patrimoniales de autor; X. Modificar los estatutos de las Sociedades;
 
 XI. Suprimir un nombre que por error se haya manifestado como autor, colaborador, titular o parte en el certificado de registro, y
 

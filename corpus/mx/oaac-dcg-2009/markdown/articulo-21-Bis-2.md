@@ -18,13 +18,13 @@ source_sha256: 8ac502b97188bd6e795781e9821be6e62ccdd8050cdd3be74aab52a888e67939
 
 # Artículo 21 Bis 2
 
-Los almacenes generales de depósito y las casas de cambio, en la difusión de la información a que se refieren los artículos [21 Bis](articulo-21-Bis.md) y [21 Bis](articulo-21-Bis.md)[1](articulo-1.md) de estas disposiciones, deberán acompañar:
+Los almacenes generales de depósito y las casas de cambio, en la difusión de la información a que se refieren los artículos [21 Bis](articulo-21-Bis.md) y [21](articulo-21.md) Bis1 de estas disposiciones, deberán acompañar:
 
 I. La revelación de la información que la [Comisión](articulo-1.md) les hubiere solicitado, en la emisión o autorización, en su caso, de criterios o registros contables especiales con base en los criterios contables para dichas entidades.
 
 II. Tratándose de almacenes generales de depósito, la explicación detallada sobre las principales diferencias entre el tratamiento contable aplicado para efectos de la elaboración de los estados financieros a que se refiere el Artículo [21](articulo-21.md) de las presentes disposiciones y el utilizado para la determinación de las cifras respecto de los mismos conceptos que, en su caso, reporten las Filiales a las instituciones financieras del exterior que las controlen, así como el efecto de cada una de dichas diferencias en el resultado neto de la Filial, hecho público por parte de la propia institución financiera del exterior que la controle.
 
-III. Para el caso de los almacenes generales de depósito, el nivel en que se encuentre clasificado dicho almacén y su monto de capital mínimo suscrito y pagado que le corresponda conforme a lo señalado en los Artículos [12](articulo-12.md) y 12 Bis de la [LGOAAC](articulo-1.md).
+III. Para el caso de los almacenes generales de depósito, el nivel en que se encuentre clasificado dicho almacén y su monto de capital mínimo suscrito y pagado que le corresponda conforme a lo señalado en los Artículos [12](articulo-12.md) y [12 Bis](articulo-12-Bis.md) de la [LGOAAC](articulo-1.md).
 
 IV. Los indicadores financieros que provean elementos de juicio relevantes para la evaluación de la solvencia, liquidez, eficiencia operativa, riesgo financiero y rentabilidad de las entidades financieras, señalando las fórmulas utilizadas para efecto de su determinación, las cuales deberán ser consistentes con las contenidas en los indicadores financieros publicados en la página de Internet de la Comisión.
 

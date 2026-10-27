@@ -9,14 +9,13 @@ aliases: ["DCG-CUB-2005 — Artículo 321 Bis 3"]
 generated: true
 temporal_status: effective
 review_status: machine_accepted
+amendment_marks: [301]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título QUINTO · Capítulo XI
 
 # Artículo 321 Bis 3
 
-Las Instituciones deberán elaborar un informe anual respecto de la evolución que (301)
-
-guarda su plan estratégico de negocios, el cual contendrá información cualitativa y cuantitativa respecto de los resultados obtenidos en dicho periodo. Asimismo, deberá incluirse una comparación con las estimaciones presentadas en el plan estratégico remitido a la Comisión para su autorización, respecto de las operaciones que la Institución realice a través de comisionistas, así como un reporte detallado sobre las contingencias que, en su caso, se hubieren presentado respecto de la prestación de los servicios de los comisionistas a que se refiere la presente Sección Segunda de este Capítulo XI. El referido informe deberá ser entregado a la vicepresidencia de la Comisión encargada de su supervisión en el transcurso del primer trimestre de cada año.
+Las Instituciones deberán elaborar un informe anual respecto de la evolución que guarda su plan estratégico de negocios, el cual contendrá información cualitativa y cuantitativa respecto de los resultados obtenidos en dicho periodo. Asimismo, deberá incluirse una comparación con las estimaciones presentadas en el plan estratégico remitido a la [Comisión](articulo-1.md) para su autorización, respecto de las operaciones que la Institución realice a través de comisionistas, así como un reporte detallado sobre las contingencias que, en su caso, se hubieren presentado respecto de la prestación de los servicios de los comisionistas a que se refiere la presente Sección Segunda de este Capítulo XI. El referido informe deberá ser entregado a la vicepresidencia de la Comisión encargada de su supervisión en el transcurso del primer trimestre de cada año.

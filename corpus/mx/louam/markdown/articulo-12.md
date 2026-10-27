@@ -7,8 +7,8 @@ provision_type: article
 number: "12"
 aliases: ["LOUAM — Artículo 12"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/157.pdf
 source_sha256: 8ed0956913d72410d20164fbb17b641a0b3bde532788035b8f0898d18481ac40
 ---

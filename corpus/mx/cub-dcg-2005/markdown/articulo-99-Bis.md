@@ -9,27 +9,22 @@ aliases: ["DCG-CUB-2005 — Artículo 99 Bis"]
 generated: true
 temporal_status: effective
 review_status: machine_accepted
+amendment_marks: [274,310]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título SEGUNDO · Capítulo V
 
 # Artículo 99 Bis
 
-Las Instituciones deberán constituir reservas preventivas para cada uno de los (274)
+Las Instituciones deberán constituir reservas preventivas para cada uno de los créditos de la cartera, cuyo monto será igual al producto de la Probabilidad de Incumplimiento, la [Severidad de la Pérdida](articulo-1.md) y la Exposición al Incumplimiento correspondientes.
 
-créditos de la cartera, cuyo monto será igual al producto de la Probabilidad de Incumplimiento, la Severidad de la Pérdida y la Exposición al Incumplimiento correspondientes.
+I. Para aquellos créditos clasificados en etapa 1 y 3 de acuerdo al Artículo [99](articulo-99.md) de las presentes disposiciones.
 
-(274) I. Para aquellos créditos clasificados en etapa 1 y 3 de acuerdo al Artículo [99](articulo-99.md) de las presentes disposiciones.
+Las reservas a constituir por cada crédito, serán el resultado de multiplicar la Probabilidad de Incumplimiento por la Severidad de la Pérdida por la Exposición al Incumplimiento.
 
-Las reservas a constituir por cada crédito, serán el resultado de multiplicar la Probabilidad de (274)
-
-Incumplimiento por la Severidad de la Pérdida por la Exposición al Incumplimiento.
-
-(310) (310) En donde:
-
-(310)
+En donde:
 
 Reservas = Monto de reservas a constituir para el i-ésimo crédito que se Etapa 1 o 3ἱ encuentre en etapa 1 o 3 según corresponda.
 
@@ -43,25 +38,19 @@ En caso de no contar con información del sexo del acreditado, o bien, si el sex
 
 = Exposición al Incumplimiento del i-ésimo crédito
 
-(274) II. Para aquellos créditos clasificados en etapa 2 de acuerdo al Artículo [99](articulo-99.md) de las presentes disposiciones.
+II. Para aquellos créditos clasificados en etapa 2 de acuerdo al Artículo [99](articulo-99.md) de las presentes disposiciones.
 
-(274) a) Estimación de reservas para la vida completa de créditos con pago de capital e intereses periódicos.
+a) Estimación de reservas para la vida completa de créditos con pago de capital e intereses periódicos.
 
-(274)
+𝑃𝐼𝑖 × 𝑆𝑃𝑖 × 𝐸𝐼𝑖 1 − 1 − 𝑃𝐼𝑖 + 𝑃𝑟𝑒 𝑛 𝑃𝐼𝑖 × 𝑆𝑃𝑖 × 𝑃𝐴𝐺𝑂𝑖 1 − 1 − 𝑃𝐼𝑖 + 𝑃𝑟𝑒 𝑛 𝑅𝑒𝑠𝑒𝑟𝑣𝑎𝑠 𝑉𝑖𝑑𝑎 𝐶𝑜𝑚𝑝𝑙𝑒𝑡𝑎𝑖 = ∗[ ]− ∗[ ] 1 + 𝑟𝑖 𝑃𝐼𝑖 + 𝑃𝑟𝑒 𝑟𝑖 1 + 𝑟𝑖 𝑃𝐼𝑖 + 𝑃𝑟𝑒 𝑃𝐼𝑖 × 𝑆𝑃𝑖 × 𝑃𝐴𝐺𝑂𝑖 1 − 𝑃𝐼𝑖 + 𝑃𝑟𝑒 𝑛 + ∗ [1 − ( ) ] 𝑟𝑖 𝑟𝑖 + 𝑃𝐼𝑖 + 𝑃𝑟𝑒 1 + 𝑟𝑖
 
-𝑃𝐼𝑖 × 𝑆𝑃𝑖 × 𝐸𝐼𝑖 1 − 1 − 𝑃𝐼𝑖 + 𝑃𝑟𝑒 𝑛 𝑃𝐼𝑖 × 𝑆𝑃𝑖 × 𝑃𝐴𝐺𝑂𝑖 1 − 1 − 𝑃𝐼𝑖 + 𝑃𝑟𝑒 𝑛 𝑅𝑒𝑠𝑒𝑟𝑣𝑎𝑠 𝑉𝑖𝑑𝑎 𝐶𝑜𝑚𝑝𝑙𝑒𝑡𝑎𝑖 = ∗[ ]− ∗[ ] 1 + 𝑟𝑖 𝑃𝐼𝑖 + 𝑃𝑟𝑒 𝑟𝑖 1 + 𝑟𝑖 𝑃𝐼𝑖 + 𝑃𝑟𝑒 𝑛 𝑃𝐼𝑖 × 𝑆𝑃𝑖 × 𝑃𝐴𝐺𝑂𝑖 1 − 𝑃𝐼𝑖 + 𝑃𝑟𝑒 + ∗ [1 − ( ) ] 𝑟𝑖 𝑟𝑖 + 𝑃𝐼𝑖 + 𝑃𝑟𝑒 1 + 𝑟𝑖
+b) Estimación de reservas para la vida completa de créditos con una sola amortización al vencimiento de capital e intereses o una sola amortización de capital al vencimiento y pago periódico de intereses.
 
-(274) b) Estimación de reservas para la vida completa de créditos con una sola amortización al vencimiento de capital e intereses o una sola amortización de capital al vencimiento y pago periódico de intereses.
-
-𝑃𝐼𝑖 × 𝑆𝑃𝑖 × 𝐸𝐼𝑖 1 − 𝑃𝐼𝑖 + 𝑃𝑟𝑒 𝑛 𝑅𝑒𝑠𝑒𝑟𝑣𝑎𝑠 𝑉𝑖𝑑𝑎 𝐶𝑜𝑚𝑝𝑙𝑒𝑡𝑎𝑖 = ∗ [1 − ( ) ] 𝑟𝑖 + 𝑃𝐼𝑖 + 𝑃𝑟𝑒 1 + 𝑟𝑖 (274) En donde:
-
-(274)
+𝑃𝐼𝑖 × 𝑆𝑃𝑖 × 𝐸𝐼𝑖 1 − 𝑃𝐼𝑖 + 𝑃𝑟𝑒 𝑛 𝑅𝑒𝑠𝑒𝑟𝑣𝑎𝑠 𝑉𝑖𝑑𝑎 𝐶𝑜𝑚𝑝𝑙𝑒𝑡𝑎𝑖 = ∗ [1 − ( ) ] 𝑟𝑖 + 𝑃𝐼𝑖 + 𝑃𝑟𝑒 1 + 𝑟𝑖 En donde:
 
 𝑅𝑒𝑠𝑒𝑟𝑣𝑎𝑠 𝑉𝑖𝑑𝑎 𝐶𝑜𝑚𝑝𝑙𝑒𝑡𝑎𝑖 = Monto de reservas a constituir para el i-ésimo crédito en etapa 2. 𝑃𝐼𝑖 = Probabilidad de Incumplimiento del i-ésimo. 𝑆𝑃𝑖 = Severidad de la Pérdida del i-ésimo crédito. 𝐸𝐼𝑖𝑋 = Exposición al Incumplimiento del i-ésimo crédito. 𝑃𝑟𝑒 = Tasa anual de prepago, la cual tendrá un valor de 6.9% y tendrá que cumplir la siguiente restricción:
 
-𝑃𝑟𝑒 + 𝑃𝐼𝑖 = min 𝑃𝑟𝑒 + 𝑃𝐼𝑖 , 99.9%
-
-𝑟𝑖 = Tasa de interés anual del i-ésimo crédito cobrada al cliente.
+𝑃𝑟𝑒 + 𝑃𝐼𝑖 = min 𝑃𝑟𝑒 + 𝑃𝐼𝑖 , 99.9% 𝑟𝑖 = Tasa de interés anual del i-ésimo crédito cobrada al cliente.
 
 El valor de esta variable deberá estar expresado a cinco decimales y siempre ser mayor a cero.
 
@@ -75,12 +64,8 @@ El valor de esta variable deberá estar expresado a cinco decimales. 𝑃𝐴�
 
 1 − 1 + 𝑟𝑖 −1 𝑃𝐴𝐺𝑂𝑖 = 𝐸𝐼𝑖 × 1 + 𝑟𝑖 ∗ 1 − 1 + 𝑟𝑖 −𝑛
 
-Los cálculos requeridos para obtener las reservas para la vida completa de los créditos deberán (274)
+Los cálculos requeridos para obtener las reservas para la vida completa de los créditos deberán realizarse considerando cuatro decimales.
 
-realizarse considerando cuatro decimales.
-
-(274) El monto de reservas para los créditos en etapa 2 será el resultado de:
-
-(274)
+El monto de reservas para los créditos en etapa 2 será el resultado de:
 
 𝑅𝑒𝑠𝑒𝑟𝑣𝑎𝑠 𝐸𝑡𝑎𝑝𝑎 2𝑖 = 𝑀𝑎𝑥 𝑅𝑒𝑠𝑒𝑟𝑣𝑎𝑠 𝑉𝑖𝑑𝑎 𝐶𝑜𝑚𝑝𝑙𝑒𝑡𝑎𝑖 , 𝑃𝐼𝑖 × 𝑆𝑃𝑖 × 𝐸𝐼𝑖

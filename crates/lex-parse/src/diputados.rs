@@ -756,6 +756,72 @@ fn is_omnibus_enactment_title(block: &str) -> bool {
             .any(|action| title.contains(action))
 }
 
+/// Headed transitory sections of an omnibus enactment: `TRANSITORIOS DEL
+/// ARTÍCULO PRIMERO` holds the law's own transitories and `TRANSITORIOS DEL
+/// DECRETO` the overall decree's. Their ordinals repeat (PRIMERO, SEGUNDO, …),
+/// so each section's provisions carry its layer in the identifier. Used only
+/// inside an omnibus enactment (see `is_omnibus_enactment_title`).
+fn enactment_layer_header(block: &str) -> Option<EnactmentLayer> {
+    let upper = collapse_whitespace(&block.to_uppercase());
+    let upper = upper.trim_end_matches([':', '.']).trim_end();
+    if upper == "TRANSITORIOS DEL DECRETO" {
+        return Some(EnactmentLayer {
+            key: "decreto".to_owned(),
+            title: "Decreto".to_owned(),
+        });
+    }
+    let rest = upper
+        .strip_prefix("TRANSITORIOS DEL ARTÍCULO ")
+        .or_else(|| upper.strip_prefix("TRANSITORIOS DEL ARTICULO "))?;
+    let words: Vec<&str> = rest.split(' ').collect();
+    if words.is_empty()
+        || words.len() > 3
+        || words
+            .iter()
+            .any(|w| w.is_empty() || !w.chars().all(char::is_alphabetic))
+    {
+        return None;
+    }
+    Some(EnactmentLayer {
+        key: format!("articulo-{}", slug(rest)),
+        title: format!(
+            "Artículo {}",
+            words
+                .iter()
+                .map(|w| {
+                    let mut c = w.chars();
+                    c.next()
+                        .map_or_else(String::new, |f| f.to_string() + &c.as_str().to_lowercase())
+                })
+                .collect::<Vec<_>>()
+                .join(" ")
+        ),
+    })
+}
+
+/// The tail of a sentence that a page break left on its own line: the
+/// mixed-case words `Artículo transitorio` (the end of "… este Artículo
+/// transitorio."). An all-capitals or bare section header never matches.
+fn is_sentence_tail_fragment(block: &str) -> bool {
+    matches!(
+        block.trim().trim_end_matches(['.', ':']).trim_end(),
+        "Artículo transitorio"
+            | "Articulo transitorio"
+            | "Artículos transitorios"
+            | "Articulos transitorios"
+    )
+}
+
+/// Whether a block ends with sentence-final punctuation or a closing quote or bracket.
+fn ends_sentence(text: &str) -> bool {
+    text.trim_end().chars().next_back().is_some_and(|c| {
+        matches!(
+            c,
+            '.' | ':' | ';' | '?' | '!' | '…' | ')' | ']' | '"' | '”' | '»'
+        )
+    })
+}
+
 fn is_immediate_structural(
     line: &str,
     options: &DiputadosOptions,
@@ -1022,6 +1088,18 @@ struct ProvisionBuilder {
     heading: HeadingContext,
     blocks: Vec<String>,
     implicit_singleton: bool,
+    /// Layer of an omnibus enactment whose headed transitory sections repeat
+    /// the same ordinals (`articulo-primero`, `decreto`); `None` elsewhere.
+    layer: Option<EnactmentLayer>,
+}
+
+/// One headed transitory section of an omnibus enactment.
+#[derive(Clone, PartialEq, Eq)]
+struct EnactmentLayer {
+    /// Identifier prefix, for example `decreto`.
+    key: String,
+    /// Display name used in the label, for example `Decreto`.
+    title: String,
 }
 
 impl ProvisionBuilder {
@@ -1034,6 +1112,7 @@ impl ProvisionBuilder {
             heading,
             blocks: Vec::new(),
             implicit_singleton: false,
+            layer: None,
         };
         builder.push_block(first_block);
         builder
@@ -1053,6 +1132,7 @@ impl ProvisionBuilder {
             },
             blocks: Vec::new(),
             implicit_singleton: false,
+            layer: None,
         };
         builder.push_block(first_block);
         builder
@@ -1072,7 +1152,16 @@ impl ProvisionBuilder {
             },
             blocks: Vec::new(),
             implicit_singleton: false,
+            layer: None,
         }
+    }
+
+    fn in_layer(mut self, layer: Option<&EnactmentLayer>) -> Self {
+        if let Some(layer) = layer {
+            self.label = format!("{} ({})", self.number, layer.title);
+            self.layer = Some(layer.clone());
+        }
+        self
     }
 
     fn push_block(&mut self, value: &str) {
@@ -1092,7 +1181,13 @@ impl ProvisionBuilder {
             // Ordinal marks carry no identity: article "2o" is canonical
             // id ":article:2", so a citation of bare "2" resolves to it.
             ProvisionType::Article => ("article", labels::canonical_slug(&self.number)),
-            ProvisionType::Transitory => ("transitory", slug(&self.number)),
+            ProvisionType::Transitory => (
+                "transitory",
+                match &self.layer {
+                    Some(layer) => format!("{}-{}", layer.key, slug(&self.number)),
+                    None => slug(&self.number),
+                },
+            ),
             ProvisionType::Annex => ("annex", slug(&self.number)),
         };
         let text = self.blocks.join("\n\n");
@@ -1488,6 +1583,7 @@ pub fn parse_diputados_publication(
         .take(80)
         .any(|block| is_omnibus_enactment_title(block));
     let mut pending_overall_decree_transitory = false;
+    let mut current_layer: Option<EnactmentLayer> = None;
     let mut enactment_layer_ordinals: std::collections::HashSet<String> =
         std::collections::HashSet::new();
     let mut last_article_base: Option<u64> = None;
@@ -1598,7 +1694,26 @@ pub fn parse_diputados_publication(
             // Source signatures stay in acquisition bytes, not in a provision.
             continue;
         }
-        if is_transitory_section_header(&block) {
+        let layer_header = if omnibus_enactment {
+            enactment_layer_header(&block)
+        } else {
+            None
+        };
+        // A page break can leave the tail of a sentence on its own line
+        // (LRASCAP: `… a que se refiere el presente` then `Artículo
+        // transitorio.`). Only that mixed-case fragment, after a body that has
+        // not ended its sentence, stays text of the provision being read; any
+        // other header spelling (`TRANSITORIOS`, `ARTÍCULO TRANSITORIO`, …)
+        // keeps closing the section whatever the body's last character is.
+        let interrupts_sentence = is_sentence_tail_fragment(&block)
+            && in_statute_transitories
+            && !pending_overall_decree_transitory
+            && current
+                .as_ref()
+                .and_then(|builder| builder.blocks.last())
+                .is_some_and(|last| !ends_sentence(last));
+        if (is_transitory_section_header(&block) && !interrupts_sentence) || layer_header.is_some()
+        {
             // A statute has a single transitory section; a second header
             // is a reform decree's, so its transitorios (repeating
             // PRIMERO, SEGUNDO, …) do not belong to the instrument. The
@@ -1610,10 +1725,12 @@ pub fn parse_diputados_publication(
                 if pending_overall_decree_transitory {
                     pending_overall_decree_transitory = false;
                     enactment_layer_ordinals = std::mem::take(&mut seen_ordinals);
+                    current_layer = layer_header;
                     continue;
                 }
                 break;
             }
+            current_layer = layer_header;
             if let Some(builder) = current.take() {
                 provisions.push(builder.finish(
                     &options.instrument_id,
@@ -1678,7 +1795,9 @@ pub fn parse_diputados_publication(
                 // A repeated ordinal starts a reform decree's transitorios
                 // (unmarked by a header); the instrument's own transitorios
                 // are unique, so stop rather than duplicate them.
-                if enactment_layer_ordinals.contains(&ordinal.to_uppercase()) {
+                if current_layer.is_none()
+                    && enactment_layer_ordinals.contains(&ordinal.to_uppercase())
+                {
                     bail!(
                         "{}: overall decree transitory {ordinal} repeats an ordinal already used by the law's own transitories",
                         options.instrument_id
@@ -1694,7 +1813,9 @@ pub fn parse_diputados_publication(
                         publication_period,
                     ));
                 }
-                current = Some(ProvisionBuilder::transitory(ordinal, body));
+                current = Some(
+                    ProvisionBuilder::transitory(ordinal, body).in_layer(current_layer.as_ref()),
+                );
                 continue;
             }
             // Some regulations number the original transitory section I, II,
@@ -2054,7 +2175,7 @@ pub fn extract_reform_evidence(
     let headings = HeadingPatterns::new()?;
     let ordinals = transitory_ordinals();
     let publication_re = Regex::new(
-        r"(?i)publicad[oa] en (?:el|la) (?:Diario Oficial de la Federación|DOF) (?:el )?(\d{1,2})[oº]? de ([a-zá-úñ]+) (?:de )?(\d{4})",
+        r"(?i)publicad(?:o|a|os|as) en (?:el|la) (?:Diario Oficial de la Federación|DOF) (?:el )?(\d{1,2})[oº]? de ([a-zá-úñ]+) (?:de )?(\d{4})",
     )?;
     // An appendix title of any form followed by its publication note, in
     // one block (cff: `VIGESIMA Cuarta Resolución de Modificaciones a la
@@ -2572,6 +2693,184 @@ mod tests {
                 .text
                 .contains("El presente Decreto entrará en vigor al día siguiente.")
         }));
+    }
+
+    #[test]
+    fn headed_layers_of_an_omnibus_enactment_keep_repeated_ordinals_apart() {
+        // LRASCAP: the law's transitories (`TRANSITORIOS DEL ARTÍCULO PRIMERO`) and
+        // the overall decree's (`TRANSITORIOS DEL DECRETO`) both start at PRIMERO.
+        // Each section's provisions carry their layer in the identifier.
+        let document = parse_diputados(
+            include_str!("../../../fixtures/diputados/headed-omnibus-layers-sample.txt"),
+            &options(
+                "urn:lex-mx:federal:statute:sample",
+                "Ley para Regular las Actividades de las Sociedades de Prueba",
+            ),
+            NaiveDate::from_ymd_opt(2009, 8, 13).expect("valid date"),
+        )
+        .expect("headed omnibus layers parse");
+        let ids: Vec<&str> = document
+            .provisions
+            .iter()
+            .filter(|p| p.provision_type == ProvisionType::Transitory)
+            .map(|p| p.id.rsplit(':').next().unwrap())
+            .collect();
+        assert_eq!(
+            ids,
+            [
+                "articulo-primero-primero",
+                "articulo-primero-segundo",
+                "decreto-primero",
+                "decreto-segundo"
+            ]
+        );
+        let labels: Vec<&str> = document
+            .provisions
+            .iter()
+            .filter(|p| p.provision_type == ProvisionType::Transitory)
+            .map(|p| p.label.as_str())
+            .collect();
+        assert_eq!(labels[0], "PRIMERO (Artículo Primero)");
+        assert_eq!(labels[2], "PRIMERO (Decreto)");
+        // article 2 is not swallowed by the transitory block
+        let article_2 = document
+            .provisions
+            .iter()
+            .find(|p| p.id.ends_with(":article:2"))
+            .unwrap();
+        assert_eq!(
+            article_2.text,
+            "Las notificaciones surtirán efectos al día hábil siguiente."
+        );
+    }
+
+    #[test]
+    fn a_page_break_fragment_that_looks_like_a_header_stays_inside_the_unfinished_sentence() {
+        let document = parse_diputados(
+            include_str!("../../../fixtures/diputados/headed-omnibus-layers-sample.txt"),
+            &options(
+                "urn:lex-mx:federal:statute:sample",
+                "Ley para Regular las Actividades de las Sociedades de Prueba",
+            ),
+            NaiveDate::from_ymd_opt(2009, 8, 13).expect("valid date"),
+        )
+        .expect("fragment parses");
+        let first = document
+            .provisions
+            .iter()
+            .find(|p| p.id.ends_with(":transitory:articulo-primero-primero"))
+            .unwrap();
+        assert!(
+            first
+                .text
+                .ends_with("en el presente\n\nArtículo transitorio."),
+            "{}",
+            first.text
+        );
+        // a terminated sentence followed by the same line is still a header
+        assert!(super::ends_sentence("Texto terminado."));
+        assert!(!super::ends_sentence("a que se refiere el presente"));
+    }
+
+    fn transitory_ids(source: &str, id: &str) -> Vec<String> {
+        parse_diputados(
+            source,
+            &options(id, "Ley de Prueba"),
+            NaiveDate::from_ymd_opt(2009, 8, 13).expect("valid date"),
+        )
+        .expect("parses")
+        .provisions
+        .iter()
+        .map(|p| p.id.rsplit(':').next().unwrap().to_owned())
+        .collect()
+    }
+
+    #[test]
+    fn a_standalone_transitorios_header_closes_the_section_whatever_the_body_ends_with() {
+        // Review finding R-001: the page-break exception must not swallow a real header.
+        let unpunctuated = "LEY DE PRUEBA\n\nArtículo 1.- Norma principal.\n\nTRANSITORIOS\n\nPRIMERO.- Texto sin punto\n\nTRANSITORIOS\n\nSEGUNDO.- Texto de otra sección.\n";
+        let punctuated = unpunctuated.replace("Texto sin punto", "Texto con punto.");
+        for source in [unpunctuated.to_owned(), punctuated] {
+            assert_eq!(
+                transitory_ids(&source, "urn:lex-mx:federal:statute:muestra"),
+                ["1", "primero"],
+                "{source}"
+            );
+        }
+        let document = parse_diputados(
+            unpunctuated,
+            &options("urn:lex-mx:federal:statute:muestra", "Ley de Prueba"),
+            NaiveDate::from_ymd_opt(2009, 8, 13).expect("valid date"),
+        )
+        .unwrap();
+        let primero = document
+            .provisions
+            .iter()
+            .find(|p| p.id.ends_with(":transitory:primero"))
+            .unwrap();
+        assert_eq!(primero.text, "Texto sin punto");
+        // an all-capitals singular header is also a header after an unpunctuated body
+        let singular = "LEY DE PRUEBA\n\nArtículo 1.- Norma principal.\n\nTRANSITORIOS\n\nPRIMERO.- Texto sin punto\n\nARTÍCULO TRANSITORIO.\n\nSEGUNDO.- Otra sección.\n";
+        assert_eq!(
+            transitory_ids(singular, "urn:lex-mx:federal:statute:muestra"),
+            ["1", "primero"]
+        );
+    }
+
+    #[test]
+    fn the_page_break_fragment_exception_is_limited_to_the_mixed_case_words() {
+        assert!(super::is_sentence_tail_fragment("Artículo transitorio."));
+        assert!(super::is_sentence_tail_fragment("Artículos transitorios"));
+        for header in [
+            "TRANSITORIOS",
+            "Transitorios.",
+            "ARTÍCULO TRANSITORIO.",
+            "Artículo Transitorio.",
+            "TRANSITORIO",
+        ] {
+            assert!(!super::is_sentence_tail_fragment(header), "{header}");
+        }
+    }
+
+    #[test]
+    fn an_unpunctuated_law_transitory_still_hands_over_to_the_overall_decree_in_an_omnibus_enactment()
+     {
+        let source = include_str!("../../../fixtures/diputados/headed-omnibus-layers-sample.txt")
+            .replace("dentro de noventa días.", "dentro de noventa días");
+        assert_eq!(
+            transitory_ids(&source, "urn:lex-mx:federal:statute:sample"),
+            [
+                "1",
+                "2",
+                "articulo-primero-primero",
+                "articulo-primero-segundo",
+                "decreto-primero",
+                "decreto-segundo"
+            ]
+        );
+    }
+
+    #[test]
+    fn enactment_layer_headers_are_recognised_exactly() {
+        let law = super::enactment_layer_header("TRANSITORIOS DEL ARTÍCULO PRIMERO").unwrap();
+        assert_eq!(
+            (law.key.as_str(), law.title.as_str()),
+            ("articulo-primero", "Artículo Primero")
+        );
+        let decree = super::enactment_layer_header("TRANSITORIOS DEL DECRETO").unwrap();
+        assert_eq!(decree.key, "decreto");
+        assert!(super::enactment_layer_header("TRANSITORIOS DEL ARTICULO PRIMERO:").is_some());
+        for not_a_header in [
+            "TRANSITORIOS",
+            "TRANSITORIOS DEL DECRETO POR EL QUE SE REFORMA LA LEY",
+            "Los transitorios del decreto",
+            "TRANSITORIOS DEL ARTÍCULO PRIMERO DEL DECRETO POR EL QUE SE REFORMAN",
+        ] {
+            assert!(
+                super::enactment_layer_header(not_a_header).is_none(),
+                "{not_a_header}"
+            );
+        }
     }
 
     #[test]
@@ -3906,6 +4205,52 @@ mod tests {
             super::extract_dof_publication("El contrato surtirá efectos el 6 de mayo de 1972.")
                 .is_none()
         );
+    }
+
+    #[test]
+    fn plural_publication_note_dates_a_reform_decree_heading() {
+        // LSCS heads its 1966 decree `REFORMAS a la Ley …` with the note
+        // `Publicadas en el Diario Oficial de la Federación el 5 de enero de
+        // 1966` (plural). Only the singular note was read, so its
+        // transitories had no date and the whole parse failed closed.
+        let source = "ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA\n\n\
+                      REFORMAS a la Ley de Prueba.\n\
+                      Publicadas en el Diario Oficial de la Federación el 5 de enero de 1966\n\n\
+                      ARTICULO PRIMERO.- Se reforma el artículo 35 de la Ley.\n\n\
+                      TRANSITORIOS\n\n\
+                      ARTICULO PRIMERO.- Se derogan las disposiciones que se opongan.\n";
+        let evidence = super::extract_reform_evidence(
+            source,
+            &options("urn:lex-mx:federal:statute:sample", "Ley de Prueba"),
+        )
+        .expect("plural note dates the decree");
+        assert_eq!(evidence.len(), 1);
+        assert_eq!(
+            evidence[0].text,
+            "Se derogan las disposiciones que se opongan."
+        );
+        assert!(evidence[0].provision_id.contains("1966-01-05"));
+    }
+
+    #[test]
+    fn plural_citation_in_an_operative_article_does_not_redate_the_decree() {
+        // The decree's own date is already set by its heading note; a later
+        // operative article quoting other decrees (`decretos publicados en
+        // el Diario Oficial … el 9 de mayo de 1990`) must not replace it.
+        let source = "ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA\n\n\
+                      REFORMAS a la Ley de Prueba.\n\
+                      Publicadas en el Diario Oficial de la Federación el 5 de enero de 1966\n\n\
+                      ARTICULO PRIMERO.- Conforme a los decretos publicados en el Diario Oficial de la Federación el 9 de mayo de 1990.\n\n\
+                      TRANSITORIOS\n\n\
+                      ARTICULO PRIMERO.- Se derogan las disposiciones que se opongan.\n";
+        let evidence = super::extract_reform_evidence(
+            source,
+            &options("urn:lex-mx:federal:statute:sample", "Ley de Prueba"),
+        )
+        .expect("heading date is kept");
+        assert_eq!(evidence.len(), 1);
+        assert!(evidence[0].provision_id.contains("1966-01-05"));
+        assert!(!evidence[0].provision_id.contains("1990"));
     }
 
     #[test]

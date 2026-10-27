@@ -9,20 +9,19 @@ aliases: ["DCG-CUB-2005 — Artículo 207 Bis"]
 generated: true
 temporal_status: effective
 review_status: machine_accepted
+amendment_marks: [230]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
-> Título SEGUNDO · Capítulo I
+> Título TERCERO · Capítulo I
 
 # Artículo 207 Bis
 
-Las Institciones deberán clasificar mensualmente el tipo de cuentas de ahorro o (230)
+Las Institciones deberán clasificar mensualmente el tipo de cuentas de ahorro o depósito que mantengan abiertas para efectos del llenado del reporte B-2421 de la serie R24 a que alude el Artículo [207](articulo-207.md) anterior, conforme a lo siguiente:
 
-depósito que mantengan abiertas para efectos del llenado del reporte B-2421 de la serie R24 a que alude el Artículo [207](articulo-207.md) anterior, conforme a lo siguiente:
+I. “Cuentas con saldo sin movimiento”, si tienen un saldo mayor a mil pesos, tratándose de cuentas denominadas en moneda nacional, o mayor al equivalente en moneda nacional a cien dólares de los Estados Unidos de América, tratándose de cuentas denominadas en moneda extranjera, y durante el propio mes al que corresponda la información y en los dos meses inmediatos anteriores, no hayan registrado algún movimiento propiciado por el cliente.
 
-(230) I. “Cuentas con saldo sin movimiento”, si tienen un saldo mayor a mil pesos, tratándose de cuentas denominadas en moneda nacional, o mayor al equivalente en moneda nacional a cien dólares de los Estados Unidos de América, tratándose de cuentas denominadas en moneda extranjera, y durante el propio mes al que corresponda la información y en los dos meses inmediatos anteriores, no hayan registrado algún movimiento propiciado por el cliente.
+II. “Cuentas activas”, si durante el mes al que corresponda la información y en los dos meses inmediatos anteriores, hayan registrado algún movimiento propiciado por el cliente, con independencia del saldo.
 
-(230) II. “Cuentas activas”, si durante el mes al que corresponda la información y en los dos meses inmediatos anteriores, hayan registrado algún movimiento propiciado por el cliente, con independencia del saldo.
-
-(230) III. “Cuentas no activas”, si tienen un saldo menor a mil pesos, tratándose de cuentas denominadas en moneda nacional, o menor al equivalente en moneda nacional a cien dólares de los Estados Unidos de América, tratándose de cuentas denominadas en moneda extranjera, y durante el mes al que corresponda la información, así como en los dos meses inmediatos anteriores, no hayan registrado algún movimiento propiciado por el cliente.
+III. “Cuentas no activas”, si tienen un saldo menor a mil pesos, tratándose de cuentas denominadas en moneda nacional, o menor al equivalente en moneda nacional a cien dólares de los Estados Unidos de América, tratándose de cuentas denominadas en moneda extranjera, y durante el mes al que corresponda la información, así como en los dos meses inmediatos anteriores, no hayan registrado algún movimiento propiciado por el cliente.

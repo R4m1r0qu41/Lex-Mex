@@ -9,19 +9,18 @@ aliases: ["DCG-CUB-2005 — Artículo 57"]
 generated: true
 temporal_status: effective
 review_status: machine_accepted
+amendment_marks: [318]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título SEGUNDO · Capítulo III
 
 # Artículo 57
 
-Las Instituciones, para efectos del cómputo de los límites máximos a los que se (318)
+Las Instituciones, para efectos del cómputo de los límites máximos a los que se encuentran sujetas en términos de la presente sección, determinarán el valor del [Financiamiento](articulo-1.md) como el importe positivo que resulte de restar al valor de exposición determinado, en su caso mediante el procedimiento aplicable para obtener su valor de conversión a riesgo crediticio, las técnicas de cobertura de riesgo de crédito reconocidas en el Artículo [57 Bis 2](articulo-57-Bis-2.md) de las presentes disposiciones. Para efectos de lo anterior, las Instituciones deberán considerar lo siguiente:
 
-encuentran sujetas en términos de la presente sección, determinarán el valor del Financiamiento como el importe positivo que resulte de restar al valor de exposición determinado, en su caso mediante el procedimiento aplicable para obtener su valor de conversión a riesgo crediticio, las técnicas de cobertura de riesgo de crédito reconocidas en el Artículo [57 Bis 2](articulo-57-Bis-2.md) de las presentes disposiciones. Para efectos de lo anterior, las Instituciones deberán considerar lo siguiente:
-
-I. Tratándose de Operaciones activas directas, el valor contable de la exposición determinado conforme a los Criterios Contables, sin restar reservas, estimaciones y depreciaciones, excepto por los tratamientos que se señalan en los Artículos [57 Bis](articulo-57-Bis.md) a [57 Bis 1](articulo-57-Bis-1.md) de las presentes disposiciones.
+I. Tratándose de [Operaciones](articulo-1.md) activas directas, el valor contable de la exposición determinado conforme a los [Criterios Contables](articulo-1.md), sin restar reservas, estimaciones y depreciaciones, excepto por los tratamientos que se señalan en los Artículos [57 Bis](articulo-57-Bis.md) a [57 Bis 1](articulo-57-Bis-1.md) de las presentes disposiciones.
 
 II. Los Financiamientos de las Operaciones señaladas en el Artículo [2 Bis 22](articulo-2-Bis-22.md) de las presentes disposiciones, se determinarán como el importe positivo que resulte de aplicar las normas procedimentales para la conversión a riesgo de crédito, contenidas en el referido artículo.
 
@@ -39,6 +38,6 @@ Asimismo, para determinar las posiciones netas a favor de una Institución por O
 
 En todo caso, los depósitos en efectivo otorgados como garantías en operaciones con derivados deberán considerarse dentro del concepto de Financiamiento.
 
-Las exposiciones frente a una contraparte que sean deducidas del Capital Fundamental no deberán incluirse en el cálculo de los límites a que se refiere la presente sección.
+Las exposiciones frente a una contraparte que sean deducidas del [Capital Fundamental](articulo-1.md) no deberán incluirse en el cálculo de los límites a que se refiere la presente sección.
 
 En el caso que, derivado de la compensación de Operaciones realizada, en términos del Título Primero Bis, Capítulo III de las presentes disposiciones, el saldo neto sea un importe negativo, dicho saldo no será considerado en el cálculo de los límites de la presente sección.

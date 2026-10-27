@@ -11,11 +11,11 @@ temporal_status: effective
 review_status: machine_accepted
 amendment_marks: [50]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título PRIMERO · Capítulo III
 
 # Artículo 2 Bis 29
 
-Sin perjuicio de lo establecido en el presente apartado, las Instituciones podrán calcular el requerimiento de capital por sus Operaciones sujetas a riesgo de crédito utilizando algunos de los métodos basados en calificaciones internas señalados en la Sección Tercera del presente capítulo, siempre y cuando demuestren a la Comisión que cumplen con los requisitos mínimos para su uso.
+Sin perjuicio de lo establecido en el presente apartado, las Instituciones podrán calcular el requerimiento de capital por sus [Operaciones](articulo-1.md) sujetas a riesgo de crédito utilizando algunos de los métodos basados en calificaciones internas señalados en la Sección Tercera del presente capítulo, siempre y cuando demuestren a la [Comisión](articulo-1.md) que cumplen con los requisitos mínimos para su uso.

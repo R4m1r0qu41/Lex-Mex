@@ -7,8 +7,8 @@ provision_type: article
 number: "37"
 aliases: ["LRAM — Artículo 37"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LRAM.pdf
 source_sha256: d0b2beb3d2e66847880d4c4270b4af4df1db63b22d6e5ac93883eca832652d6c
 ---

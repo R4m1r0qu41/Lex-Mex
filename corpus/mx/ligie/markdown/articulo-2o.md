@@ -10,7 +10,7 @@ generated: true
 temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LIGIE_2022.pdf
-source_sha256: a7688a47c8283f327b943e06ed948782feba2f5a0e16fe796d50d8340ce40ece
+source_sha256: 955510d7ea82cf42d18c72e3146f999af254c0fda5eda3f12a1fd1c10e9864ce
 ---
 
 # Artículo 2o

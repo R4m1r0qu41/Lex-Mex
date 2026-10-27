@@ -10,7 +10,7 @@ generated: true
 temporal_status: effective
 review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFDA.pdf
-source_sha256: 2beb1a3a5c23de93f1588ce6d4e4c209e73a8d747f19e3165706f38abcee8fe3
+source_sha256: 77ea253060400b44a671ceaa2f797ab7566be72239d6d4f3f63958b43319cd2a
 ---
 
 > Título VIII · Capítulo II
@@ -23,7 +23,9 @@ I. Los poderes otorgados conforme a la Ley y a este Reglamento;
 
 II. Los contratos que celebren las sociedades con los usuarios y los de representación que tengan con otras de la misma naturaleza;
 
-III. Las actas y documentos mediante los que la sociedad designe a sus órganos de administración y de vigilancia, sus administradores y apoderados; IV. Los testimonios de las escrituras notariales de la constitución o modificación de la sociedad, y
+III. Las actas y documentos mediante los que la sociedad designe a sus órganos de administración y de vigilancia, sus administradores y apoderados;
+
+IV. Los testimonios de las escrituras notariales de la constitución o modificación de la sociedad, y
 
 V. Los videogramas, fonogramas y libros.
 

@@ -7,8 +7,8 @@ provision_type: article
 number: "27"
 aliases: ["LRCDN — Artículo 27"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LRCDN.pdf
 source_sha256: d505184709bf8fd04c4d24b188d1fa19f86acac51b462c6c4fb63482588ec40e
 ---

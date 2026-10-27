@@ -15,6 +15,6 @@ source_sha256: 98762f18214a47011d5f4f3d4eb63bf776be8e1528cc08888adaf47fe2829e85
 
 # CUARTO
 
-Las circulares 10-44, 10-82 y 10-161 que aluden a las operaciones análogas o complementarias autorizadas por la Secretaría mediante disposiciones de carácter general continuarán en vigor hasta en tanto dicha dependencia no revoque o derogue los actos administrativos que les dieron origen y que fueron dados a conocer por la [Comisión](articulo-1.md) a solicitud de la propia Secretaría.
+Las circulares 10-44, 10-82 y 10-161 que aluden a las operaciones análogas o complementarias autorizadas por la [Secretaría](articulo-1.md) mediante disposiciones de carácter general continuarán en vigor hasta en tanto dicha dependencia no revoque o derogue los actos administrativos que les dieron origen y que fueron dados a conocer por la [Comisión](articulo-1.md) a solicitud de la propia Secretaría.
 
 Hasta en tanto el Banco de México no expida las disposiciones de carácter general relativas a operaciones celebradas con metales amonedados, autorizadas por la Secretaría como análogas o complementarias, según se señala en la Circular 10-44, no podrán celebrar tales operaciones.

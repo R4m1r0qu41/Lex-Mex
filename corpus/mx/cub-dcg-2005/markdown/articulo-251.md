@@ -9,8 +9,9 @@ aliases: ["DCG-CUB-2005 — Artículo 251"]
 generated: true
 temporal_status: effective
 review_status: machine_accepted
+amendment_marks: [135]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título QUINTO · Capítulo IV
@@ -19,6 +20,4 @@ source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
 
 Cada Institución tendrá un padrón de valuadores para la prestación del servicio de avalúos, cuya integración responda a un riguroso procedimiento de selección que esté basado en altos requerimientos técnicos y éticos, así como controles que permitan la evaluación permanente del desempeño de las personas que estén incorporadas al padrón.
 
-Tratándose de Créditos Hipotecarios de Vivienda, las Instituciones que cuenten con una unidad de (135)
-
-valuación propia, deberán verificar que los valuadores que inscriban en su padrón, cumplan con los requisitos previstos por la Ley de Transparencia y de Fomento a la Competencia en el Crédito Garantizado y las disposiciones que de dicha ley emanen.
+Tratándose de Créditos Hipotecarios de Vivienda, las Instituciones que cuenten con una unidad de valuación propia, deberán verificar que los valuadores que inscriban en su padrón, cumplan con los requisitos previstos por la Ley de Transparencia y de Fomento a la Competencia en el Crédito Garantizado y las disposiciones que de dicha ley emanen.

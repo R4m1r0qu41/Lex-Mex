@@ -10,7 +10,7 @@ generated: true
 temporal_status: effective
 review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFDA.pdf
-source_sha256: 2beb1a3a5c23de93f1588ce6d4e4c209e73a8d747f19e3165706f38abcee8fe3
+source_sha256: 77ea253060400b44a671ceaa2f797ab7566be72239d6d4f3f63958b43319cd2a
 ---
 
 > Título IX · Capítulo I
@@ -27,4 +27,6 @@ III. Validar los Números Internacionales Normalizados del Libro y los Números 
 
 IV. Mantener los archivos maestros;
 
-V. Enviar cada año a la Agencia Internacional del Número Internacional Normalizado del Libro, una lista actualizada de los editores nacionales, y VI. Enviar cada año al Centro Internacional del Sistema de Publicaciones Periódicas una lista actualizada de los Números Internacionales Normalizados para Publicaciones Periódicas otorgados por el Instituto.
+V. Enviar cada año a la Agencia Internacional del Número Internacional Normalizado del Libro, una lista actualizada de los editores nacionales, y
+
+VI. Enviar cada año al Centro Internacional del Sistema de Publicaciones Periódicas una lista actualizada de los Números Internacionales Normalizados para Publicaciones Periódicas otorgados por el Instituto.

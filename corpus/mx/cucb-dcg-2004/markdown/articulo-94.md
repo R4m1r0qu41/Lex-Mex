@@ -18,7 +18,7 @@ source_sha256: 98762f18214a47011d5f4f3d4eb63bf776be8e1528cc08888adaf47fe2829e85
 
 # Artículo 94
 
-El mercado de valores de deuda se conformará por los valores siguientes inscritos en el Registro:
+El mercado de valores de deuda se conformará por los valores siguientes inscritos en el [Registro](articulo-1.md):
 
 I. Los bonos, certificados y títulos de crédito o documentos que representen un pasivo u obligación de pagar una suma de dinero, así como las letras de cambio, pagarés y demás títulos de crédito, que se emitan en todos los casos señalados en serie o en masa.
 

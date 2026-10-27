@@ -9,9 +9,9 @@ aliases: ["DCG-CUB-2005 — Artículo 249"]
 generated: true
 temporal_status: effective
 review_status: machine_accepted
-amendment_marks: [2]
+amendment_marks: [2,134,135]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título QUINTO · Capítulo IV
@@ -22,14 +22,8 @@ Las Instituciones deberán tener manuales de valuación que cumplan con lo seña
 
 Adicionalmente, los citados manuales de valuación deberán contener, en lo conducente, las políticas, procedimientos, terminología y demás disposiciones aplicables en la formulación de avalúos digitales, de conformidad con lo establecido por los Artículos [253 Bis](articulo-253-Bis.md) y [255 Bis](articulo-255-Bis.md) de las presentes disposiciones.
 
-Tratándose de créditos hipotecarios de vivienda, los manuales a que se refiere el presente artículo, (135)
+Tratándose de créditos hipotecarios de vivienda, los manuales a que se refiere el presente artículo, deberán apegarse a lo dispuesto por la Ley de Transparencia y de Fomento a la Competencia en el Crédito Garantizado y las disposiciones que de dicha ley emanen.
 
-deberán apegarse a lo dispuesto por la Ley de Transparencia y de Fomento a la Competencia en el Crédito Garantizado y las disposiciones que de dicha ley emanen.
+Artículo 250 Las Instituciones, tratándose de avalúos relativos a inmuebles que garanticen el otorgamiento de créditos hipotecarios de vivienda, deberán prestar el servicio de avalúo correspondiente a través de unidades de valuación que cumplan con lo dispuesto en la Ley de Transparencia y de Fomento a la Competencia en el Crédito Garantizado y en las disposiciones que de dicha ley emanen, las cuales deberán ser independientes en la formulación de sus dictámenes tanto de las unidades de bienes adjudicados y de daciones en pago de la Institución, como de las unidades que se mencionan en el segundo párrafo de este artículo. En caso de que las Instituciones cuenten con una unidad de valuación propia, o bien, participen en el capital social de alguna, de manera directa o indirecta, dichas unidades deberán depender directamente de la unidad para la [Administración Integral de Riesgos](articulo-1.md) de la propia Institución o, en su defecto, de alguna unidad de control ajena a las Unidades de Negocio de la Institución, con el fin de evitar posibles conflictos de interés.
 
-Artículo 250 Las Instituciones, tratándose de avalúos relativos a inmuebles que garanticen el (134)
-
-otorgamiento de créditos hipotecarios de vivienda, deberán prestar el servicio de avalúo correspondiente a través de unidades de valuación que cumplan con lo dispuesto en la Ley de Transparencia y de Fomento a la Competencia en el Crédito Garantizado y en las disposiciones que de dicha ley emanen, las cuales deberán ser independientes en la formulación de sus dictámenes tanto de las unidades de bienes adjudicados y de daciones en pago de la Institución, como de las unidades que se mencionan en el segundo párrafo de este artículo. En caso de que las Instituciones cuenten con una unidad de valuación propia, o bien, participen en el capital social de alguna, de manera directa o indirecta, dichas unidades deberán depender directamente de la unidad para la Administración Integral de Riesgos de la propia Institución o, en su defecto, de alguna unidad de control ajena a las Unidades de Negocio de la Institución, con el fin de evitar posibles conflictos de interés.
-
-Para la prestación del servicio de avalúos en supuestos distintos a los contemplados en el párrafo que (134)
-
-antecede, las Instituciones deberán contar con una unidad administrativa responsable que esté técnicamente capacitada para su realización, la cual deberá ser Independiente en la formulación de sus dictámenes, de las unidades de crédito, de recuperación de crédito, de comercialización y de las Unidades de Negocio que representen conflicto de interés.
+Para la prestación del servicio de avalúos en supuestos distintos a los contemplados en el párrafo que antecede, las Instituciones deberán contar con una unidad administrativa responsable que esté técnicamente capacitada para su realización, la cual deberá ser [Independiente](articulo-1.md) en la formulación de sus dictámenes, de las unidades de crédito, de recuperación de crédito, de comercialización y de las Unidades de Negocio que representen conflicto de interés.

@@ -9,18 +9,16 @@ aliases: ["DCG-CUB-2005 — Artículo 292"]
 generated: true
 temporal_status: effective
 review_status: machine_accepted
-amendment_marks: [57]
+amendment_marks: [57,219]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título QUINTO · Capítulo VIII
 
 # Artículo 292
 
-Las Instituciones al abrir cuentas de las dependencias y entidades de la Administración (219)
-
-Pública Federal, deberán verificar que estas cuenten con autorización de la Tesorería de la Federación para tal efecto, conforme a lo dispuesto por la Ley de Tesorería de la Federación y demás disposiciones jurídicas aplicables.
+Las Instituciones al abrir cuentas de las dependencias y entidades de la Administración Pública Federal, deberán verificar que estas cuenten con autorización de la Tesorería de la Federación para tal efecto, conforme a lo dispuesto por la Ley de Tesorería de la Federación y demás disposiciones jurídicas aplicables.
 
 Las Instituciones, de conformidad con los requisitos establecidos en los “Lineamientos que tienen por objeto regular el Sistema de Cuenta Unica de Tesorería, así como establecer las excepciones procedentes”, publicados en el Diario Oficial de la Federación el 24 de diciembre de 2009, o los que los sustituyan, deberán establecer en los contratos relativos a las cuentas a que se refiere el presente artículo, entre otros aspectos, los siguientes:
 

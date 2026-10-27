@@ -18,7 +18,7 @@ source_sha256: 98762f18214a47011d5f4f3d4eb63bf776be8e1528cc08888adaf47fe2829e85
 
 # Artículo 165
 
-Las operaciones de las subsidiarias del exterior a que se refiere la Ley, para efectos de lo previsto en el presente capítulo, se capitalizarán conforme a lo siguiente:
+Las operaciones de las subsidiarias del exterior a que se refiere la [Ley](articulo-1.md), para efectos de lo previsto en el presente capítulo, se capitalizarán conforme a lo siguiente:
 
 I. Se efectuará un cómputo de requerimientos de capital para cada subsidiaria del exterior, aplicando lo dispuesto en el presente capítulo, al total de las operaciones de éstas.
 

@@ -7,8 +7,8 @@ provision_type: article
 number: "3°"
 aliases: ["LOUNAM — Artículo 3°"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/158.pdf
 source_sha256: 06af411aa75ed36bd698842d9c2d7f04c7a72e5797718d3aabbd0f89a1d25f9b
 ---

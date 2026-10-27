@@ -1,0 +1,146 @@
+{
+ "date": "2026-10-25",
+ "branch": "repair/itf-dcg-heading-separator-2026-10-25",
+ "pushed": false,
+ "merged": false,
+ "review_tier": "advisor only; no independent review",
+ "binary_sha256": "cb575827894ba8e58717c481ce60d1721d25210e1800b1da1361b1db828c165a",
+ "commits": {
+  "parser": "dabeb00290c8684f05811be10de9578818f76329",
+  "r1_four": "47eabbb21ab5043945a928cdbf17202db9d265be",
+  "cucb_oaac": "050660b5a11153c55460e8b4d3769f53121796c2",
+  "retirements": "730a8b16cfbe2bc5387b446dc525b7f8d663437c",
+  "lscs": "600ea9a60d34444c54bbfd0950f9186c88a95cb6",
+  "reg_laero": "c0b938181",
+  "reg_lfda": "b9f49d9d6",
+  "ligie": "ef28b9619",
+  "docs": "223700bf9",
+  "validator_identical_legend_repeat": "7df6203fe",
+  "cub": "5399d1762",
+  "goldens": "18f8e50ca",
+  "lrascap_parser": "d6a28e6a7",
+  "lrascap_corpus": "e71a2f025",
+  "temporal_day_after_publication": "6454d66de",
+  "temporal_relative_days": "5ada66f48",
+  "temporal_same_day": "e28d08875",
+  "temporal_literal_date": "bcd17a4e4",
+  "review_fix_R001": "cf43ae1b4"
+ },
+ "tip_for_db": "3cbba683e7cea174600ee197f813d6fa15675083",
+ "db": {
+  "release_id": "d82f53c073a53960d18f56c323d720ebce84dddcc2f70da949fa0ba25687539d",
+  "database_sha256": "17ca152be7300a54f1b11853ee01f6d1cbe6081b558523d75e444b5ea5b6a6bf",
+  "logical_content_sha256": "e3f0d112f2206cbea3d9b144c3ae1a31c3021f44700f6f37eac0371d23a03b3a",
+  "two_projections_identical": true,
+  "verify": "pass",
+  "provisions": 68395,
+  "edges": 36077,
+  "terms": 5985,
+  "usages": 102282,
+  "active_debt": 0,
+  "retired_debt": 17
+ },
+ "goldens": {
+  "pass": 21,
+  "fail": [],
+  "edited": true,
+  "edited_by": "operator approval 2026-10-25",
+  "commit": "18f8e50ca"
+ },
+ "checks": {
+  "validate_lritf": "valid 145/11/126 0 issues",
+  "validate_ifpe": "valid 59/4/115 0 issues",
+  "workspace_tests": "442 passed (after R-001 fix)",
+  "fmt": "pass",
+  "clippy": "pass 1.95 and 1.99.0",
+  "link_all": "exit 0; 0 relinked; 2 rejections equal recorded gaps (lftr, socap)",
+  "touched_instruments_valid": 12,
+  "gate_tip": "3cbba683e"
+ },
+ "held": {
+  "socap-sofipo-dcg-2006": "legend omits entry 91; mark (91) used"
+ },
+ "lscs": {
+  "reform_transitories": 16,
+  "by_decree": {
+   "1966-01-05": 3,
+   "2002-01-02": 1,
+   "2006-04-24": 5,
+   "2009-05-06": 2,
+   "2012-04-09": 2,
+   "2013-04-04": 3
+  },
+  "committed_items_preserved": true,
+  "article_207": "repealed(deterministic) -> unknown"
+ },
+ "legal_review_decisions_changed": 0,
+ "cub": {
+  "ingested": true,
+  "validator_rule": "identical repeated legend entry is a warning; differing stays an error",
+  "text_changes": {
+   "margin_marks_only": 454,
+   "whitespace": 1,
+   "substantive": 19
+  },
+  "articles_recovered": 7,
+  "temporal": "1 effective to repealed",
+  "reform_dates_new": [
+   "2026-07-14",
+   "2026-09-01"
+  ]
+ },
+ "lrascap": {
+  "transitories": 21,
+  "law_layer": 15,
+  "decree_layer": 6,
+  "article_132_chars": "39289 to 423",
+  "id_scheme": "layer-qualified"
+ },
+ "temporal_derivation": {
+  "instruments": 166,
+  "groups": {
+   "day_after_publication": 143,
+   "relative_days": 17,
+   "same_day_as_publication": 3,
+   "literal_date": 3
+  },
+  "provisions_total": 13337,
+  "provisions_changed": 12211,
+  "transition": "unknown to effective, basis deterministic_rule, review machine_accepted",
+  "id_or_text_changes": 0,
+  "binary": "ce6d33d3 (from d6a28e6a7)",
+  "not_touched": "74 skipped + 6 no-ordinary-transitories"
+ },
+ "audited_state_preserved": {
+  "legal_operator_reviews": "16 identical",
+  "outdated_reference_approvals": "17 identical",
+  "review_or_lawyer_provisions": "3 identical",
+  "non_deterministic_basis_provisions": "22 unchanged",
+  "compared": [
+   "release 0ea9c945 (accepted-equivalent)",
+   "release caead5ed (final)"
+  ]
+ },
+ "effective_from_cleared": {
+  "cub-dcg-2005": 281,
+  "cucb-dcg-2004": 35,
+  "oaac-dcg-2009": 22,
+  "reg-laero": 3,
+  "total": 341,
+  "note": "amended articles; rule output, not a legal ruling"
+ },
+ "independent_review": {
+  "report": "docs/post-split-independent-review-2026-10-26.md (main)",
+  "verdict": "hold integration; four bounded repairs",
+  "reviewed_tips": {
+   "parser": "6a5121964",
+   "corpus": "bcd17a4e4",
+   "query": "134e4e381"
+  }
+ },
+ "review_response": {
+  "R-001": "fixed cf43ae1b4",
+  "R-002_R-003_R-004": "fixed b3e562d88 on the public-query branch",
+  "disclosure": "3cbba683e"
+ }
+}

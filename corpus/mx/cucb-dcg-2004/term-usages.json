@@ -1,6 +1,15 @@
 [
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1:term-usage:91-94",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 91,
+    "end_char": 94
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1:term-usage:1055-1063",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
@@ -10,12 +19,291 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1:term-usage:6286-6294",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1:term-usage:2186-2189",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 2186,
+    "end_char": 2189
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1:term-usage:2956-2959",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 2956,
+    "end_char": 2959
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1:term-usage:3079-3082",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 3079,
+    "end_char": 3082
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1:term-usage:4701-4704",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 4701,
+    "end_char": 4704
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1:term-usage:5676-5679",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 5676,
+    "end_char": 5679
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1:term-usage:5987-6002",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:lider-colocador",
+    "span": "Líder colocador",
+    "start_char": 5987,
+    "end_char": 6002
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1:term-usage:6005-6028",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:intermediario-colocador",
+    "span": "Intermediario colocador",
+    "start_char": 6005,
+    "end_char": 6028
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1:term-usage:6074-6081",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:valores",
+    "span": "Valores",
+    "start_char": 6074,
+    "end_char": 6081
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1:term-usage:6268-6276",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
     "span": "Comisión",
-    "start_char": 6286,
-    "end_char": 6294
+    "start_char": 6268,
+    "end_char": 6276
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1:term-usage:6737-6752",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:lider-colocador",
+    "span": "Líder colocador",
+    "start_char": 6737,
+    "end_char": 6752
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1:term-usage:6755-6778",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:intermediario-colocador",
+    "span": "Intermediario colocador",
+    "start_char": 6755,
+    "end_char": 6778
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1:term-usage:6907-6914",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:valores",
+    "span": "Valores",
+    "start_char": 6907,
+    "end_char": 6914
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1:term-usage:7025-7032",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:valores",
+    "span": "Valores",
+    "start_char": 7025,
+    "end_char": 7032
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1:term-usage:7050-7065",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:sobreasignacion",
+    "span": "Sobreasignación",
+    "start_char": 7050,
+    "end_char": 7065
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1:term-usage:9262-9265",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 9262,
+    "end_char": 9265
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1:term-usage:9415-9422",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:valores",
+    "span": "Valores",
+    "start_char": 9415,
+    "end_char": 9422
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1:term-usage:9717-9724",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:valores",
+    "span": "Valores",
+    "start_char": 9717,
+    "end_char": 9724
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1:term-usage:10091-10098",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:valores",
+    "span": "Valores",
+    "start_char": 10091,
+    "end_char": 10098
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1:term-usage:10277-10280",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 10277,
+    "end_char": 10280
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1:term-usage:10491-10498",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:valores",
+    "span": "Valores",
+    "start_char": 10491,
+    "end_char": 10498
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1:term-usage:10581-10584",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 10581,
+    "end_char": 10584
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1:term-usage:10752-10755",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 10752,
+    "end_char": 10755
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1:term-usage:14715-14722",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:valores",
+    "span": "Valores",
+    "start_char": 14715,
+    "end_char": 14722
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1:term-usage:14737-14752",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:lider-colocador",
+    "span": "Líder colocador",
+    "start_char": 14737,
+    "end_char": 14752
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1:term-usage:14755-14778",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:intermediario-colocador",
+    "span": "Intermediario colocador",
+    "start_char": 14755,
+    "end_char": 14778
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1:term-usage:14826-14833",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:valores",
+    "span": "Valores",
+    "start_char": 14826,
+    "end_char": 14833
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1:term-usage:14850-14858",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:registro",
+    "span": "Registro",
+    "start_char": 14850,
+    "end_char": 14858
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1:term-usage:14913-14916",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 14913,
+    "end_char": 14916
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1-bis:term-usage:150-153",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 150,
+    "end_char": 153
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1-bis:term-usage:739-742",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 739,
+    "end_char": 742
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1-bis:term-usage:899-902",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 899,
+    "end_char": 902
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1-bis:term-usage:1322-1325",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 1322,
+    "end_char": 1325
   },
   {
     "schema_version": "0.1.0",
@@ -25,6 +313,15 @@
     "span": "Comisión",
     "start_char": 2450,
     "end_char": 2458
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1-bis:term-usage:3376-3379",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 3376,
+    "end_char": 3379
   },
   {
     "schema_version": "0.1.0",
@@ -73,12 +370,57 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1-bis:term-usage:6826-6829",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 6826,
+    "end_char": 6829
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:2:term-usage:76-79",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 76,
+    "end_char": 79
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:2:term-usage:356-364",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:2",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
     "span": "Comisión",
     "start_char": 356,
     "end_char": 364
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:2:term-usage:480-488",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:registro",
+    "span": "Registro",
+    "start_char": 480,
+    "end_char": 488
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:2:term-usage:563-566",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 563,
+    "end_char": 566
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:2:term-usage:1766-1769",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 1766,
+    "end_char": 1769
   },
   {
     "schema_version": "0.1.0",
@@ -109,6 +451,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:2-bis:term-usage:133-136",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:2-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 133,
+    "end_char": 136
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:2-bis:term-usage:325-333",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:2-bis",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
@@ -127,12 +478,102 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:9:term-usage:296-299",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 296,
+    "end_char": 299
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:10:term-usage:363-366",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 363,
+    "end_char": 366
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:10:term-usage:970-973",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 970,
+    "end_char": 973
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:10:term-usage:1310-1313",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 1310,
+    "end_char": 1313
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:10:term-usage:1439-1442",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 1439,
+    "end_char": 1442
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:10:term-usage:1807-1810",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 1807,
+    "end_char": 1810
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:10:term-usage:2537-2540",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 2537,
+    "end_char": 2540
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:10:term-usage:3213-3216",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 3213,
+    "end_char": 3216
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:11:term-usage:349-357",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:11",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
     "span": "Comisión",
     "start_char": 349,
     "end_char": 357
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:11:term-usage:477-480",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 477,
+    "end_char": 480
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:11:term-usage:1131-1134",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 1131,
+    "end_char": 1134
   },
   {
     "schema_version": "0.1.0",
@@ -154,12 +595,30 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:11:term-usage:2398-2408",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2398,
+    "end_char": 2408
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:11:term-usage:2561-2569",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:11",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
     "span": "Comisión",
     "start_char": 2561,
     "end_char": 2569
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:11:term-usage:2619-2629",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2619,
+    "end_char": 2629
   },
   {
     "schema_version": "0.1.0",
@@ -190,6 +649,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:12-bis:term-usage:176-179",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:12-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 176,
+    "end_char": 179
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:12-bis-1:term-usage:63-71",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:12-bis-1",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
@@ -199,39 +667,1074 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15-bis:term-usage:1591-1599",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:12-bis-1:term-usage:124-127",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:12-bis-1",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 124,
+    "end_char": 127
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:13:term-usage:64-71",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:13",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:valores",
+    "span": "Valores",
+    "start_char": 64,
+    "end_char": 71
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:13:term-usage:549-552",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:13",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 549,
+    "end_char": 552
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:13:term-usage:862-877",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:13",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:sobreasignacion",
+    "span": "Sobreasignación",
+    "start_char": 862,
+    "end_char": 877
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:13:term-usage:881-888",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:13",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:valores",
+    "span": "Valores",
+    "start_char": 881,
+    "end_char": 888
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:13:term-usage:891-905",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:13",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:estabilizacion",
+    "span": "Estabilización",
+    "start_char": 891,
+    "end_char": 905
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:14:term-usage:3-26",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:intermediario-colocador",
+    "span": "Intermediario colocador",
+    "start_char": 3,
+    "end_char": 26
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:14:term-usage:32-47",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:lider-colocador",
+    "span": "Líder colocador",
+    "start_char": 32,
+    "end_char": 47
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15:term-usage:42-57",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:lider-colocador",
+    "span": "Líder colocador",
+    "start_char": 42,
+    "end_char": 57
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15:term-usage:65-88",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:intermediario-colocador",
+    "span": "Intermediario colocador",
+    "start_char": 65,
+    "end_char": 88
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15:term-usage:124-131",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:valores",
+    "span": "Valores",
+    "start_char": 124,
+    "end_char": 131
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15:term-usage:607-615",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:registro",
+    "span": "Registro",
+    "start_char": 607,
+    "end_char": 615
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15:term-usage:696-699",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 696,
+    "end_char": 699
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15:term-usage:1460-1475",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:lider-colocador",
+    "span": "Líder colocador",
+    "start_char": 1460,
+    "end_char": 1475
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15:term-usage:1478-1501",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:intermediario-colocador",
+    "span": "Intermediario colocador",
+    "start_char": 1478,
+    "end_char": 1501
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15-bis:term-usage:39-58",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:lider-colocador",
+    "span": "Líderes colocadores",
+    "start_char": 39,
+    "end_char": 58
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15-bis:term-usage:61-87",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:intermediario-colocador",
+    "span": "Intermediarios colocadores",
+    "start_char": 61,
+    "end_char": 87
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15-bis:term-usage:113-120",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:valores",
+    "span": "Valores",
+    "start_char": 113,
+    "end_char": 120
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15-bis:term-usage:247-250",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 247,
+    "end_char": 250
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15-bis:term-usage:649-656",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:valores",
+    "span": "Valores",
+    "start_char": 649,
+    "end_char": 656
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15-bis:term-usage:879-882",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 879,
+    "end_char": 882
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15-bis:term-usage:1037-1044",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:valores",
+    "span": "Valores",
+    "start_char": 1037,
+    "end_char": 1044
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15-bis:term-usage:1105-1124",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:lider-colocador",
+    "span": "Líderes colocadores",
+    "start_char": 1105,
+    "end_char": 1124
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15-bis:term-usage:1127-1153",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:intermediario-colocador",
+    "span": "Intermediarios colocadores",
+    "start_char": 1127,
+    "end_char": 1153
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15-bis:term-usage:1579-1587",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15-bis",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
     "span": "Comisión",
-    "start_char": 1591,
-    "end_char": 1599
+    "start_char": 1579,
+    "end_char": 1587
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15-bis-1:term-usage:223-231",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15-bis:term-usage:1606-1625",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:lider-colocador",
+    "span": "Líderes colocadores",
+    "start_char": 1606,
+    "end_char": 1625
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15-bis:term-usage:1628-1654",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:intermediario-colocador",
+    "span": "Intermediarios colocadores",
+    "start_char": 1628,
+    "end_char": 1654
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15-bis:term-usage:1935-1950",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:lider-colocador",
+    "span": "Líder colocador",
+    "start_char": 1935,
+    "end_char": 1950
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15-bis:term-usage:1952-1975",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:intermediario-colocador",
+    "span": "Intermediario colocador",
+    "start_char": 1952,
+    "end_char": 1975
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15-bis:term-usage:2243-2246",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 2243,
+    "end_char": 2246
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15-bis:term-usage:2311-2318",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:valores",
+    "span": "Valores",
+    "start_char": 2311,
+    "end_char": 2318
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15-bis:term-usage:2499-2506",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:valores",
+    "span": "Valores",
+    "start_char": 2499,
+    "end_char": 2506
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15-bis:term-usage:2707-2714",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:valores",
+    "span": "Valores",
+    "start_char": 2707,
+    "end_char": 2714
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15-bis:term-usage:2998-3001",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 2998,
+    "end_char": 3001
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15-bis:term-usage:3233-3240",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:valores",
+    "span": "Valores",
+    "start_char": 3233,
+    "end_char": 3240
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15-bis:term-usage:3310-3317",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:valores",
+    "span": "Valores",
+    "start_char": 3310,
+    "end_char": 3317
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15-bis:term-usage:3378-3385",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:valores",
+    "span": "Valores",
+    "start_char": 3378,
+    "end_char": 3385
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15-bis:term-usage:3415-3422",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:valores",
+    "span": "Valores",
+    "start_char": 3415,
+    "end_char": 3422
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15-bis:term-usage:3469-3495",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:intermediario-colocador",
+    "span": "Intermediarios colocadores",
+    "start_char": 3469,
+    "end_char": 3495
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15-bis:term-usage:3609-3624",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:lider-colocador",
+    "span": "Líder colocador",
+    "start_char": 3609,
+    "end_char": 3624
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15-bis:term-usage:3903-3918",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:lider-colocador",
+    "span": "Líder colocador",
+    "start_char": 3903,
+    "end_char": 3918
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15-bis:term-usage:3927-3953",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:intermediario-colocador",
+    "span": "Intermediarios colocadores",
+    "start_char": 3927,
+    "end_char": 3953
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15-bis:term-usage:4028-4043",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:lider-colocador",
+    "span": "Líder colocador",
+    "start_char": 4028,
+    "end_char": 4043
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15-bis:term-usage:4077-4103",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:intermediario-colocador",
+    "span": "Intermediarios colocadores",
+    "start_char": 4077,
+    "end_char": 4103
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15-bis-1:term-usage:39-58",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15-bis-1",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:lider-colocador",
+    "span": "Líderes colocadores",
+    "start_char": 39,
+    "end_char": 58
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15-bis-1:term-usage:61-87",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15-bis-1",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:intermediario-colocador",
+    "span": "Intermediarios colocadores",
+    "start_char": 61,
+    "end_char": 87
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15-bis-1:term-usage:216-224",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15-bis-1",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
     "span": "Comisión",
-    "start_char": 223,
-    "end_char": 231
+    "start_char": 216,
+    "end_char": 224
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:21:term-usage:340-348",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15-bis-1:term-usage:286-293",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15-bis-1",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:valores",
+    "span": "Valores",
+    "start_char": 286,
+    "end_char": 293
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:16:term-usage:143-166",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:16",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:intermediario-colocador",
+    "span": "Intermediario colocador",
+    "start_char": 143,
+    "end_char": 166
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:16:term-usage:172-187",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:16",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:lider-colocador",
+    "span": "Líder colocador",
+    "start_char": 172,
+    "end_char": 187
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:16:term-usage:271-278",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:16",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:valores",
+    "span": "Valores",
+    "start_char": 271,
+    "end_char": 278
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:16:term-usage:851-874",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:16",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:intermediario-colocador",
+    "span": "Intermediario colocador",
+    "start_char": 851,
+    "end_char": 874
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:16:term-usage:880-895",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:16",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:lider-colocador",
+    "span": "Líder colocador",
+    "start_char": 880,
+    "end_char": 895
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:17:term-usage:60-67",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:17",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:valores",
+    "span": "Valores",
+    "start_char": 60,
+    "end_char": 67
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:17:term-usage:261-276",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:17",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:lider-colocador",
+    "span": "Líder colocador",
+    "start_char": 261,
+    "end_char": 276
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:17:term-usage:291-306",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:17",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:lider-colocador",
+    "span": "Líder colocador",
+    "start_char": 291,
+    "end_char": 306
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:17:term-usage:520-546",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:17",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:intermediario-colocador",
+    "span": "Intermediarios colocadores",
+    "start_char": 520,
+    "end_char": 546
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:17:term-usage:580-595",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:17",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:lider-colocador",
+    "span": "Líder colocador",
+    "start_char": 580,
+    "end_char": 595
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:17:term-usage:710-725",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:17",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:lider-colocador",
+    "span": "Líder colocador",
+    "start_char": 710,
+    "end_char": 725
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:17:term-usage:942-957",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:17",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:lider-colocador",
+    "span": "Líder colocador",
+    "start_char": 942,
+    "end_char": 957
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:17-bis:term-usage:3-18",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:17-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:lider-colocador",
+    "span": "Líder colocador",
+    "start_char": 3,
+    "end_char": 18
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:17-bis:term-usage:21-44",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:17-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:intermediario-colocador",
+    "span": "Intermediario colocador",
+    "start_char": 21,
+    "end_char": 44
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:17-bis:term-usage:88-107",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:17-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:formador-de-mercado",
+    "span": "Formador de mercado",
+    "start_char": 88,
+    "end_char": 107
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:17-bis:term-usage:115-122",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:17-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:valores",
+    "span": "Valores",
+    "start_char": 115,
+    "end_char": 122
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:17-bis:term-usage:410-424",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:17-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:estabilizacion",
+    "span": "Estabilización",
+    "start_char": 410,
+    "end_char": 424
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:18:term-usage:3-18",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:18",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:lider-colocador",
+    "span": "Líder colocador",
+    "start_char": 3,
+    "end_char": 18
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:18:term-usage:21-44",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:18",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:intermediario-colocador",
+    "span": "Intermediario colocador",
+    "start_char": 21,
+    "end_char": 44
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:19:term-usage:3-18",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:19",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:lider-colocador",
+    "span": "Líder colocador",
+    "start_char": 3,
+    "end_char": 18
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:19:term-usage:21-44",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:19",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:intermediario-colocador",
+    "span": "Intermediario colocador",
+    "start_char": 21,
+    "end_char": 44
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:19:term-usage:70-77",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:19",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:valores",
+    "span": "Valores",
+    "start_char": 70,
+    "end_char": 77
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:19:term-usage:98-113",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:19",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:sobreasignacion",
+    "span": "Sobreasignación",
+    "start_char": 98,
+    "end_char": 113
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:19:term-usage:121-128",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:19",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:valores",
+    "span": "Valores",
+    "start_char": 121,
+    "end_char": 128
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:20:term-usage:49-64",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:sobreasignacion",
+    "span": "Sobreasignación",
+    "start_char": 49,
+    "end_char": 64
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:20:term-usage:205-212",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:valores",
+    "span": "Valores",
+    "start_char": 205,
+    "end_char": 212
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:20:term-usage:316-331",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:lider-colocador",
+    "span": "Líder colocador",
+    "start_char": 316,
+    "end_char": 331
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:20:term-usage:334-357",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:intermediario-colocador",
+    "span": "Intermediario colocador",
+    "start_char": 334,
+    "end_char": 357
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:21:term-usage:32-47",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:21",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:sobreasignacion",
+    "span": "Sobreasignación",
+    "start_char": 32,
+    "end_char": 47
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:21:term-usage:176-191",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:21",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:lider-colocador",
+    "span": "Líder colocador",
+    "start_char": 176,
+    "end_char": 191
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:21:term-usage:194-217",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:21",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:intermediario-colocador",
+    "span": "Intermediario colocador",
+    "start_char": 194,
+    "end_char": 217
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:21:term-usage:333-341",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:21",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
     "span": "Comisión",
-    "start_char": 340,
-    "end_char": 348
+    "start_char": 333,
+    "end_char": 341
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:27:term-usage:3726-3734",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:22:term-usage:3-18",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:22",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:lider-colocador",
+    "span": "Líder colocador",
+    "start_char": 3,
+    "end_char": 18
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:22:term-usage:113-136",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:22",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:intermediario-colocador",
+    "span": "Intermediario colocador",
+    "start_char": 113,
+    "end_char": 136
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:22:term-usage:168-182",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:22",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:estabilizacion",
+    "span": "Estabilización",
+    "start_char": 168,
+    "end_char": 182
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:23:term-usage:3-18",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:lider-colocador",
+    "span": "Líder colocador",
+    "start_char": 3,
+    "end_char": 18
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:23:term-usage:21-44",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:intermediario-colocador",
+    "span": "Intermediario colocador",
+    "start_char": 21,
+    "end_char": 44
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:23:term-usage:179-193",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:estabilizacion",
+    "span": "Estabilización",
+    "start_char": 179,
+    "end_char": 193
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:24:term-usage:19-33",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:estabilizacion",
+    "span": "Estabilización",
+    "start_char": 19,
+    "end_char": 33
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:24:term-usage:365-380",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:lider-colocador",
+    "span": "Líder colocador",
+    "start_char": 365,
+    "end_char": 380
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:24:term-usage:383-406",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:intermediario-colocador",
+    "span": "Intermediario colocador",
+    "start_char": 383,
+    "end_char": 406
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:24:term-usage:495-509",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:estabilizacion",
+    "span": "Estabilización",
+    "start_char": 495,
+    "end_char": 509
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:25:term-usage:3-18",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:lider-colocador",
+    "span": "Líder colocador",
+    "start_char": 3,
+    "end_char": 18
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:25:term-usage:21-44",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:intermediario-colocador",
+    "span": "Intermediario colocador",
+    "start_char": 21,
+    "end_char": 44
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:25:term-usage:72-86",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:estabilizacion",
+    "span": "Estabilización",
+    "start_char": 72,
+    "end_char": 86
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:25:term-usage:448-463",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:lider-colocador",
+    "span": "Líder colocador",
+    "start_char": 448,
+    "end_char": 463
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:25:term-usage:466-489",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:intermediario-colocador",
+    "span": "Intermediario colocador",
+    "start_char": 466,
+    "end_char": 489
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:25:term-usage:603-606",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 603,
+    "end_char": 606
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:25:term-usage:717-731",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:estabilizacion",
+    "span": "Estabilización",
+    "start_char": 717,
+    "end_char": 731
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:26:term-usage:137-140",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 137,
+    "end_char": 140
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:26-bis:term-usage:35-54",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:26-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:lider-colocador",
+    "span": "Líderes colocadores",
+    "start_char": 35,
+    "end_char": 54
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:26-bis:term-usage:57-83",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:26-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:intermediario-colocador",
+    "span": "Intermediarios colocadores",
+    "start_char": 57,
+    "end_char": 83
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:26-bis:term-usage:249-256",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:26-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:valores",
+    "span": "Valores",
+    "start_char": 249,
+    "end_char": 256
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:26-bis:term-usage:418-425",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:26-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:valores",
+    "span": "Valores",
+    "start_char": 418,
+    "end_char": 425
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:27:term-usage:20-27",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:valores",
+    "span": "Valores",
+    "start_char": 20,
+    "end_char": 27
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:27:term-usage:608-616",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:registro",
+    "span": "Registro",
+    "start_char": 608,
+    "end_char": 616
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:27:term-usage:656-663",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:valores",
+    "span": "Valores",
+    "start_char": 656,
+    "end_char": 663
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:27:term-usage:754-762",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:registro",
+    "span": "Registro",
+    "start_char": 754,
+    "end_char": 762
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:27:term-usage:1311-1318",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:valores",
+    "span": "Valores",
+    "start_char": 1311,
+    "end_char": 1318
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:27:term-usage:1425-1432",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:valores",
+    "span": "Valores",
+    "start_char": 1425,
+    "end_char": 1432
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:27:term-usage:1444-1451",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:valores",
+    "span": "Valores",
+    "start_char": 1444,
+    "end_char": 1451
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:27:term-usage:2073-2081",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:registro",
+    "span": "Registro",
+    "start_char": 2073,
+    "end_char": 2081
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:27:term-usage:2187-2194",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:valores",
+    "span": "Valores",
+    "start_char": 2187,
+    "end_char": 2194
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:27:term-usage:2275-2282",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:valores",
+    "span": "Valores",
+    "start_char": 2275,
+    "end_char": 2282
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:27:term-usage:2396-2404",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:registro",
+    "span": "Registro",
+    "start_char": 2396,
+    "end_char": 2404
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:27:term-usage:3689-3697",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:27",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
     "span": "Comisión",
-    "start_char": 3726,
-    "end_char": 3734
+    "start_char": 3689,
+    "end_char": 3697
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:27:term-usage:4436-4443",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:valores",
+    "span": "Valores",
+    "start_char": 4436,
+    "end_char": 4443
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:28:term-usage:94-102",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:28",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:registro",
+    "span": "Registro",
+    "start_char": 94,
+    "end_char": 102
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:31:term-usage:73-80",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:31",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:valores",
+    "span": "Valores",
+    "start_char": 73,
+    "end_char": 80
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:31:term-usage:97-105",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:31",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:registro",
+    "span": "Registro",
+    "start_char": 97,
+    "end_char": 105
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:31:term-usage:571-578",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:31",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:valores",
+    "span": "Valores",
+    "start_char": 571,
+    "end_char": 578
   },
   {
     "schema_version": "0.1.0",
@@ -253,12 +1756,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:47:term-usage:794-813",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:44:term-usage:909-916",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:44",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:valores",
+    "span": "Valores",
+    "start_char": 909,
+    "end_char": 916
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:47:term-usage:780-799",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:47",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:formador-de-mercado",
     "span": "Formador de mercado",
-    "start_char": 794,
-    "end_char": 813
+    "start_char": 780,
+    "end_char": 799
   },
   {
     "schema_version": "0.1.0",
@@ -268,6 +1780,51 @@
     "span": "Comisión",
     "start_char": 475,
     "end_char": 483
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:50:term-usage:448-456",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:50",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:registro",
+    "span": "Registro",
+    "start_char": 448,
+    "end_char": 456
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:52:term-usage:100-103",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:52",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 100,
+    "end_char": 103
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:52:term-usage:333-341",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:52",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:registro",
+    "span": "Registro",
+    "start_char": 333,
+    "end_char": 341
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:52:term-usage:438-441",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:52",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 438,
+    "end_char": 441
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:53:term-usage:187-190",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:53",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 187,
+    "end_char": 190
   },
   {
     "schema_version": "0.1.0",
@@ -289,6 +1846,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:58:term-usage:802-805",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:58",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 802,
+    "end_char": 805
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:59:term-usage:3793-3801",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:59",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
@@ -298,48 +1864,120 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:63:term-usage:3441-3449",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:61:term-usage:1871-1898",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:61",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:inversionista-institucional",
+    "span": "Inversionista institucional",
+    "start_char": 1871,
+    "end_char": 1898
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:62:term-usage:783-791",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:62",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:registro",
+    "span": "Registro",
+    "start_char": 783,
+    "end_char": 791
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:63:term-usage:586-593",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:63",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:valores",
+    "span": "Valores",
+    "start_char": 586,
+    "end_char": 593
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:63:term-usage:651-658",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:63",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:valores",
+    "span": "Valores",
+    "start_char": 651,
+    "end_char": 658
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:63:term-usage:2243-2251",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:63",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:registro",
+    "span": "Registro",
+    "start_char": 2243,
+    "end_char": 2251
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:63:term-usage:2262-2269",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:63",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:valores",
+    "span": "Valores",
+    "start_char": 2262,
+    "end_char": 2269
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:63:term-usage:3429-3437",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:63",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
     "span": "Comisión",
-    "start_char": 3441,
-    "end_char": 3449
+    "start_char": 3429,
+    "end_char": 3437
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:63:term-usage:3522-3530",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:63:term-usage:3510-3518",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:63",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
     "span": "Comisión",
-    "start_char": 3522,
-    "end_char": 3530
+    "start_char": 3510,
+    "end_char": 3518
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:70:term-usage:129-148",
-    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:70",
-    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:formador-de-mercado",
-    "span": "Formador de mercado",
-    "start_char": 129,
-    "end_char": 148
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:63:term-usage:5596-5626",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:63",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:inversionista-institucional",
+    "span": "Inversionistas institucionales",
+    "start_char": 5596,
+    "end_char": 5626
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:70:term-usage:289-308",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:70:term-usage:122-141",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:70",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:formador-de-mercado",
     "span": "Formador de mercado",
-    "start_char": 289,
-    "end_char": 308
+    "start_char": 122,
+    "end_char": 141
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:70:term-usage:887-906",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:70:term-usage:275-294",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:70",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:formador-de-mercado",
     "span": "Formador de mercado",
-    "start_char": 887,
-    "end_char": 906
+    "start_char": 275,
+    "end_char": 294
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:70:term-usage:873-892",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:70",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:formador-de-mercado",
+    "span": "Formador de mercado",
+    "start_char": 873,
+    "end_char": 892
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:87:term-usage:591-594",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:87",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 591,
+    "end_char": 594
   },
   {
     "schema_version": "0.1.0",
@@ -349,6 +1987,24 @@
     "span": "Comisión",
     "start_char": 3824,
     "end_char": 3832
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:87:term-usage:4032-4035",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:87",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 4032,
+    "end_char": 4035
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:87:term-usage:4672-4675",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:87",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 4672,
+    "end_char": 4675
   },
   {
     "schema_version": "0.1.0",
@@ -370,12 +2026,48 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:107:term-usage:2149-2168",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:94:term-usage:88-96",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:94",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:registro",
+    "span": "Registro",
+    "start_char": 88,
+    "end_char": 96
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:106:term-usage:784-787",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:106",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 784,
+    "end_char": 787
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:107:term-usage:2143-2162",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:107",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comite-de-auditoria",
     "span": "Comité de auditoría",
-    "start_char": 2149,
-    "end_char": 2168
+    "start_char": 2143,
+    "end_char": 2162
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:108:term-usage:746-749",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:108",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 746,
+    "end_char": 749
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:114:term-usage:1058-1061",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:114",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 1058,
+    "end_char": 1061
   },
   {
     "schema_version": "0.1.0",
@@ -406,30 +2098,93 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:117-bis-3:term-usage:4518-4526",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:117-bis-3:term-usage:4505-4513",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:117-bis-3",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
     "span": "Comisión",
-    "start_char": 4518,
-    "end_char": 4526
+    "start_char": 4505,
+    "end_char": 4513
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:117-bis-3:term-usage:4662-4670",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:117-bis-3:term-usage:4649-4657",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:117-bis-3",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
     "span": "Comisión",
-    "start_char": 4662,
-    "end_char": 4670
+    "start_char": 4649,
+    "end_char": 4657
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:117-bis-4:term-usage:1487-1495",
-    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:117-bis-4",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:117-bis-5:term-usage:530-538",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:117-bis-5",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
     "span": "Comisión",
-    "start_char": 1487,
-    "end_char": 1495
+    "start_char": 530,
+    "end_char": 538
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:117-bis-7:term-usage:6020-6050",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:117-bis-7",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:inversionista-institucional",
+    "span": "Inversionistas institucionales",
+    "start_char": 6020,
+    "end_char": 6050
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:117-bis-7:term-usage:6169-6176",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:117-bis-7",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:valores",
+    "span": "Valores",
+    "start_char": 6169,
+    "end_char": 6176
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:117-bis-7:term-usage:6239-6269",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:117-bis-7",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:inversionista-institucional",
+    "span": "Inversionistas institucionales",
+    "start_char": 6239,
+    "end_char": 6269
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:117-bis-7:term-usage:6425-6432",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:117-bis-7",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:valores",
+    "span": "Valores",
+    "start_char": 6425,
+    "end_char": 6432
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:117-bis-7:term-usage:6471-6478",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:117-bis-7",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:valores",
+    "span": "Valores",
+    "start_char": 6471,
+    "end_char": 6478
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:117-bis-7:term-usage:6530-6560",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:117-bis-7",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:inversionista-institucional",
+    "span": "Inversionistas institucionales",
+    "start_char": 6530,
+    "end_char": 6560
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:117-bis-7:term-usage:12706-12709",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:117-bis-7",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 12706,
+    "end_char": 12709
   },
   {
     "schema_version": "0.1.0",
@@ -529,6 +2284,15 @@
     "span": "Comisión",
     "start_char": 768,
     "end_char": 776
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:120-bis-6:term-usage:623-626",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:120-bis-6",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 623,
+    "end_char": 626
   },
   {
     "schema_version": "0.1.0",
@@ -649,6 +2413,51 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:146:term-usage:249-257",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:146",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:registro",
+    "span": "Registro",
+    "start_char": 249,
+    "end_char": 257
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:146:term-usage:913-916",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:146",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 913,
+    "end_char": 916
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:148:term-usage:526-533",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:148",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:valores",
+    "span": "Valores",
+    "start_char": 526,
+    "end_char": 533
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:148:term-usage:621-628",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:148",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:valores",
+    "span": "Valores",
+    "start_char": 621,
+    "end_char": 628
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:148:term-usage:679-686",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:148",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:valores",
+    "span": "Valores",
+    "start_char": 679,
+    "end_char": 686
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:148:term-usage:894-902",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:148",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
@@ -658,12 +2467,66 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:148:term-usage:1165-1172",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:148",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:valores",
+    "span": "Valores",
+    "start_char": 1165,
+    "end_char": 1172
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:148:term-usage:1260-1267",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:148",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:valores",
+    "span": "Valores",
+    "start_char": 1260,
+    "end_char": 1267
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:148:term-usage:1318-1325",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:148",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:valores",
+    "span": "Valores",
+    "start_char": 1318,
+    "end_char": 1325
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:148:term-usage:1519-1527",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:148",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
     "span": "Comisión",
     "start_char": 1519,
     "end_char": 1527
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:148:term-usage:2125-2132",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:148",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:valores",
+    "span": "Valores",
+    "start_char": 2125,
+    "end_char": 2132
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:148:term-usage:2220-2227",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:148",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:valores",
+    "span": "Valores",
+    "start_char": 2220,
+    "end_char": 2227
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:148:term-usage:2278-2285",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:148",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:valores",
+    "span": "Valores",
+    "start_char": 2278,
+    "end_char": 2285
   },
   {
     "schema_version": "0.1.0",
@@ -682,6 +2545,24 @@
     "span": "Comisión",
     "start_char": 238,
     "end_char": 246
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:152-bis:term-usage:53-61",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:152-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:registro",
+    "span": "Registro",
+    "start_char": 53,
+    "end_char": 61
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:152-bis:term-usage:427-435",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:152-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:registro",
+    "span": "Registro",
+    "start_char": 427,
+    "end_char": 435
   },
   {
     "schema_version": "0.1.0",
@@ -721,12 +2602,30 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:159:term-usage:1461-1471",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:159",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1461,
+    "end_char": 1471
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:159:term-usage:1738-1748",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:159",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
     "span": "Comisiones",
     "start_char": 1738,
     "end_char": 1748
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:159:term-usage:1752-1759",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:159",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:valores",
+    "span": "Valores",
+    "start_char": 1752,
+    "end_char": 1759
   },
   {
     "schema_version": "0.1.0",
@@ -766,12 +2665,39 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:160:term-usage:1564-1569",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:160",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:valores",
+    "span": "Valor",
+    "start_char": 1564,
+    "end_char": 1569
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:160:term-usage:5878-5888",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:160",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 5878,
+    "end_char": 5888
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:160:term-usage:5991-5999",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:160",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
     "span": "Comisión",
     "start_char": 5991,
     "end_char": 5999
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:160:term-usage:6415-6425",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:160",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 6415,
+    "end_char": 6425
   },
   {
     "schema_version": "0.1.0",
@@ -784,12 +2710,30 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:160:term-usage:6967-6977",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:160",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 6967,
+    "end_char": 6977
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:160:term-usage:7080-7088",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:160",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
     "span": "Comisión",
     "start_char": 7080,
     "end_char": 7088
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:160:term-usage:7524-7534",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:160",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 7524,
+    "end_char": 7534
   },
   {
     "schema_version": "0.1.0",
@@ -817,6 +2761,15 @@
     "span": "Comisiones",
     "start_char": 2771,
     "end_char": 2781
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:161:term-usage:2785-2792",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:161",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:valores",
+    "span": "Valores",
+    "start_char": 2785,
+    "end_char": 2792
   },
   {
     "schema_version": "0.1.0",
@@ -883,12 +2836,57 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:161-bis-1:term-usage:1217-1224",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:161-bis-1",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:valores",
+    "span": "Valores",
+    "start_char": 1217,
+    "end_char": 1224
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:162-bis:term-usage:884-887",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:162-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 884,
+    "end_char": 887
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:162-bis:term-usage:3641-3648",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:162-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:valores",
+    "span": "Valores",
+    "start_char": 3641,
+    "end_char": 3648
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:162-bis:term-usage:6414-6417",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:162-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 6414,
+    "end_char": 6417
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:163:term-usage:1942-1950",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:163",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
     "span": "Comisión",
     "start_char": 1942,
     "end_char": 1950
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:165:term-usage:69-72",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:165",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 69,
+    "end_char": 72
   },
   {
     "schema_version": "0.1.0",
@@ -1027,12 +3025,48 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:170:term-usage:1757-1765",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:169-bis-11:term-usage:1331-1338",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:169-bis-11",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:valores",
+    "span": "Valores",
+    "start_char": 1331,
+    "end_char": 1338
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:169-bis-11:term-usage:1437-1456",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:169-bis-11",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:criterios-contables",
+    "span": "Criterios contables",
+    "start_char": 1437,
+    "end_char": 1456
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:169-bis-11:term-usage:1478-1485",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:169-bis-11",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:valores",
+    "span": "Valores",
+    "start_char": 1478,
+    "end_char": 1485
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:170:term-usage:38-57",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:170",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:criterios-contables",
+    "span": "Criterios contables",
+    "start_char": 38,
+    "end_char": 57
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:170:term-usage:1685-1693",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:170",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
     "span": "Comisión",
-    "start_char": 1757,
-    "end_char": 1765
+    "start_char": 1685,
+    "end_char": 1693
   },
   {
     "schema_version": "0.1.0",
@@ -1045,66 +3079,75 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171:term-usage:423-431",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171:term-usage:416-424",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
     "span": "Comisión",
-    "start_char": 423,
-    "end_char": 431
+    "start_char": 416,
+    "end_char": 424
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171:term-usage:1723-1731",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171:term-usage:855-863",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
     "span": "Comisión",
-    "start_char": 1723,
-    "end_char": 1731
+    "start_char": 855,
+    "end_char": 863
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171:term-usage:1869-1904",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171:term-usage:1678-1686",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 1678,
+    "end_char": 1686
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171:term-usage:1817-1852",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:firma-electronica-avanzada-o-fiable",
     "span": "Firma Electrónica Avanzada o Fiable",
-    "start_char": 1869,
-    "end_char": 1904
+    "start_char": 1817,
+    "end_char": 1852
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171:term-usage:2052-2060",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171:term-usage:2000-2008",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
     "span": "Comisión",
-    "start_char": 2052,
-    "end_char": 2060
+    "start_char": 2000,
+    "end_char": 2008
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171:term-usage:2110-2118",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171:term-usage:2058-2066",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
     "span": "Comisión",
-    "start_char": 2110,
-    "end_char": 2118
+    "start_char": 2058,
+    "end_char": 2066
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171:term-usage:2521-2529",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171:term-usage:2462-2470",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
     "span": "Comisión",
-    "start_char": 2521,
-    "end_char": 2529
+    "start_char": 2462,
+    "end_char": 2470
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171:term-usage:2870-2878",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171:term-usage:2804-2812",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
     "span": "Comisión",
-    "start_char": 2870,
-    "end_char": 2878
+    "start_char": 2804,
+    "end_char": 2812
   },
   {
     "schema_version": "0.1.0",
@@ -1117,48 +3160,48 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171-bis:term-usage:232-240",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171-bis:term-usage:225-233",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171-bis",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
     "span": "Comisión",
-    "start_char": 232,
-    "end_char": 240
+    "start_char": 225,
+    "end_char": 233
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171-bis:term-usage:766-774",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171-bis:term-usage:752-760",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171-bis",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
     "span": "Comisión",
-    "start_char": 766,
-    "end_char": 774
+    "start_char": 752,
+    "end_char": 760
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171-bis:term-usage:905-940",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171-bis:term-usage:891-926",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171-bis",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:firma-electronica-avanzada-o-fiable",
     "span": "Firma Electrónica Avanzada o Fiable",
-    "start_char": 905,
-    "end_char": 940
+    "start_char": 891,
+    "end_char": 926
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171-bis:term-usage:2790-2798",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171-bis:term-usage:2728-2736",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171-bis",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
     "span": "Comisión",
-    "start_char": 2790,
-    "end_char": 2798
+    "start_char": 2728,
+    "end_char": 2736
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171-bis:term-usage:3201-3209",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171-bis:term-usage:3132-3140",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171-bis",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
     "span": "Comisión",
-    "start_char": 3201,
-    "end_char": 3209
+    "start_char": 3132,
+    "end_char": 3140
   },
   {
     "schema_version": "0.1.0",
@@ -1171,93 +3214,237 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171-bis-1:term-usage:511-519",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171-bis-1:term-usage:498-506",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171-bis-1",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
     "span": "Comisión",
-    "start_char": 511,
-    "end_char": 519
+    "start_char": 498,
+    "end_char": 506
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171-bis-1:term-usage:1620-1628",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171-bis-1:term-usage:1577-1585",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171-bis-1",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
     "span": "Comisión",
-    "start_char": 1620,
-    "end_char": 1628
+    "start_char": 1577,
+    "end_char": 1585
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171-bis-1:term-usage:1882-1890",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171-bis-1:term-usage:1832-1840",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171-bis-1",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
     "span": "Comisión",
-    "start_char": 1882,
-    "end_char": 1890
+    "start_char": 1832,
+    "end_char": 1840
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171-bis-1:term-usage:2406-2414",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171-bis-1:term-usage:2349-2357",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171-bis-1",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
     "span": "Comisión",
-    "start_char": 2406,
-    "end_char": 2414
+    "start_char": 2349,
+    "end_char": 2357
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:173:term-usage:1601-1609",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:172:term-usage:157-164",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:172",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:valores",
+    "span": "Valores",
+    "start_char": 157,
+    "end_char": 164
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:173:term-usage:151-158",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:173",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:valores",
+    "span": "Valores",
+    "start_char": 151,
+    "end_char": 158
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:173:term-usage:404-411",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:173",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:valores",
+    "span": "Valores",
+    "start_char": 404,
+    "end_char": 411
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:173:term-usage:603-610",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:173",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:valores",
+    "span": "Valores",
+    "start_char": 603,
+    "end_char": 610
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:173:term-usage:1312-1319",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:173",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:valores",
+    "span": "Valores",
+    "start_char": 1312,
+    "end_char": 1319
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:173:term-usage:1559-1567",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:173",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
     "span": "Comisión",
-    "start_char": 1601,
-    "end_char": 1609
+    "start_char": 1559,
+    "end_char": 1567
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:174-bis-1:term-usage:3171-3179",
-    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:174-bis-1",
-    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
-    "span": "Comisión",
-    "start_char": 3171,
-    "end_char": 3179
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:173:term-usage:1616-1619",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:173",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 1616,
+    "end_char": 1619
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:174-bis-1:term-usage:3716-3724",
-    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:174-bis-1",
-    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
-    "span": "Comisión",
-    "start_char": 3716,
-    "end_char": 3724
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:174:term-usage:76-83",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:174",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:valores",
+    "span": "Valores",
+    "start_char": 76,
+    "end_char": 83
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:174-bis-1:term-usage:3910-3918",
-    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:174-bis-1",
-    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
-    "span": "Comisión",
-    "start_char": 3910,
-    "end_char": 3918
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:174:term-usage:533-541",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:174",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:registro",
+    "span": "Registro",
+    "start_char": 533,
+    "end_char": 541
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:174-bis-1:term-usage:3988-3996",
-    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:174-bis-1",
-    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
-    "span": "Comisión",
-    "start_char": 3988,
-    "end_char": 3996
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:174:term-usage:544-551",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:174",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:valores",
+    "span": "Valores",
+    "start_char": 544,
+    "end_char": 551
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:174-bis-1:term-usage:4482-4490",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:174:term-usage:1218-1225",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:174",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:valores",
+    "span": "Valores",
+    "start_char": 1218,
+    "end_char": 1225
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:174-bis:term-usage:156-163",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:174-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:valores",
+    "span": "Valores",
+    "start_char": 156,
+    "end_char": 163
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:174-bis-1:term-usage:87-94",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:174-bis-1",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:valores",
+    "span": "Valores",
+    "start_char": 87,
+    "end_char": 94
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:174-bis-1:term-usage:693-700",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:174-bis-1",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:valores",
+    "span": "Valores",
+    "start_char": 693,
+    "end_char": 700
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:174-bis-1:term-usage:1599-1606",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:174-bis-1",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:valores",
+    "span": "Valores",
+    "start_char": 1599,
+    "end_char": 1606
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:174-bis-1:term-usage:3074-3093",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:174-bis-1",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:criterios-contables",
+    "span": "Criterios contables",
+    "start_char": 3074,
+    "end_char": 3093
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:174-bis-1:term-usage:3111-3119",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:174-bis-1",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
     "span": "Comisión",
-    "start_char": 4482,
-    "end_char": 4490
+    "start_char": 3111,
+    "end_char": 3119
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:174-bis-1:term-usage:3318-3337",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:174-bis-1",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:criterios-contables",
+    "span": "Criterios contables",
+    "start_char": 3318,
+    "end_char": 3337
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:174-bis-1:term-usage:3650-3658",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:174-bis-1",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 3650,
+    "end_char": 3658
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:174-bis-1:term-usage:3844-3852",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:174-bis-1",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 3844,
+    "end_char": 3852
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:174-bis-1:term-usage:3916-3924",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:174-bis-1",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 3916,
+    "end_char": 3924
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:174-bis-1:term-usage:4410-4418",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:174-bis-1",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 4410,
+    "end_char": 4418
   },
   {
     "schema_version": "0.1.0",
@@ -1270,165 +3457,237 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:177:term-usage:312-320",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:177:term-usage:299-307",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:177",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
     "span": "Comisión",
-    "start_char": 312,
-    "end_char": 320
+    "start_char": 299,
+    "end_char": 307
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:177:term-usage:1142-1150",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:177:term-usage:442-445",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:177",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 442,
+    "end_char": 445
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:177:term-usage:1109-1117",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:177",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
     "span": "Comisión",
-    "start_char": 1142,
-    "end_char": 1150
+    "start_char": 1109,
+    "end_char": 1117
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:177:term-usage:2041-2049",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:177:term-usage:1252-1255",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:177",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 1252,
+    "end_char": 1255
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:177:term-usage:1988-1996",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:177",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
     "span": "Comisión",
-    "start_char": 2041,
-    "end_char": 2049
+    "start_char": 1988,
+    "end_char": 1996
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:177:term-usage:2954-2962",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:177:term-usage:2131-2134",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:177",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 2131,
+    "end_char": 2134
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:177:term-usage:2881-2889",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:177",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
     "span": "Comisión",
-    "start_char": 2954,
-    "end_char": 2962
+    "start_char": 2881,
+    "end_char": 2889
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:177:term-usage:4525-4533",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:177:term-usage:3024-3027",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:177",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 3024,
+    "end_char": 3027
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:177:term-usage:4432-4440",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:177",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
     "span": "Comisión",
-    "start_char": 4525,
-    "end_char": 4533
+    "start_char": 4432,
+    "end_char": 4440
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:177:term-usage:4717-4725",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:177:term-usage:4624-4632",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:177",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
     "span": "Comisión",
-    "start_char": 4717,
-    "end_char": 4725
+    "start_char": 4624,
+    "end_char": 4632
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:180:term-usage:3396-3415",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:180:term-usage:2170-2177",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:180",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:valores",
+    "span": "Valores",
+    "start_char": 2170,
+    "end_char": 2177
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:180:term-usage:3317-3336",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:180",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:capital-fundamental",
     "span": "Capital fundamental",
-    "start_char": 3396,
-    "end_char": 3415
+    "start_char": 3317,
+    "end_char": 3336
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:180:term-usage:3426-3469",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:180:term-usage:3347-3390",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:180",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:activos-ponderados-sujetos-a-riesgo-totales",
     "span": "Activos ponderados sujetos a riesgo totales",
-    "start_char": 3426,
-    "end_char": 3469
+    "start_char": 3347,
+    "end_char": 3390
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:180:term-usage:3575-3618",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:180:term-usage:3496-3539",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:180",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:activos-ponderados-sujetos-a-riesgo-totales",
     "span": "Activos ponderados sujetos a riesgo totales",
-    "start_char": 3575,
-    "end_char": 3618
+    "start_char": 3496,
+    "end_char": 3539
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:180:term-usage:3746-3758",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:180:term-usage:3661-3673",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:180",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:capital-neto",
     "span": "Capital neto",
-    "start_char": 3746,
-    "end_char": 3758
+    "start_char": 3661,
+    "end_char": 3673
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:180:term-usage:3796-3815",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:180:term-usage:3711-3730",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:180",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:capital-fundamental",
     "span": "Capital fundamental",
-    "start_char": 3796,
-    "end_char": 3815
+    "start_char": 3711,
+    "end_char": 3730
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:180:term-usage:3818-3847",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:180:term-usage:3733-3762",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:180",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:capital-basico-no-fundamental",
     "span": "Capital básico no fundamental",
-    "start_char": 3818,
-    "end_char": 3847
+    "start_char": 3733,
+    "end_char": 3762
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:180:term-usage:3977-4020",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:180:term-usage:3886-3929",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:180",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:activos-ponderados-sujetos-a-riesgo-totales",
     "span": "Activos ponderados sujetos a riesgo totales",
-    "start_char": 3977,
-    "end_char": 4020
+    "start_char": 3886,
+    "end_char": 3929
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:180:term-usage:4201-4213",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:180:term-usage:4104-4116",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:180",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:capital-neto",
     "span": "Capital neto",
-    "start_char": 4201,
-    "end_char": 4213
+    "start_char": 4104,
+    "end_char": 4116
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:180:term-usage:4340-4348",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:180:term-usage:4237-4245",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:180",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
     "span": "Comisión",
-    "start_char": 4340,
-    "end_char": 4348
+    "start_char": 4237,
+    "end_char": 4245
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:180:term-usage:4612-4620",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:180:term-usage:4310-4329",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:180",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:criterios-contables",
+    "span": "Criterios contables",
+    "start_char": 4310,
+    "end_char": 4329
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:180:term-usage:4503-4511",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:180",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
     "span": "Comisión",
-    "start_char": 4612,
-    "end_char": 4620
+    "start_char": 4503,
+    "end_char": 4511
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:180:term-usage:5201-5209",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:180:term-usage:4671-4690",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:180",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:criterios-contables",
+    "span": "Criterios contables",
+    "start_char": 4671,
+    "end_char": 4690
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:180:term-usage:5086-5094",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:180",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
     "span": "Comisión",
-    "start_char": 5201,
-    "end_char": 5209
+    "start_char": 5086,
+    "end_char": 5094
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:180:term-usage:6671-6683",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:180:term-usage:6529-6541",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:180",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:capital-neto",
     "span": "Capital neto",
-    "start_char": 6671,
-    "end_char": 6683
+    "start_char": 6529,
+    "end_char": 6541
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:180:term-usage:6677-6680",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:180",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 6677,
+    "end_char": 6680
   },
   {
     "schema_version": "0.1.0",
@@ -1468,12 +3727,30 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:183:term-usage:947-950",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:183",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 947,
+    "end_char": 950
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:185:term-usage:313-321",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:185",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
     "span": "Comisión",
     "start_char": 313,
     "end_char": 321
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:185:term-usage:378-381",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:185",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 378,
+    "end_char": 381
   },
   {
     "schema_version": "0.1.0",
@@ -1486,6 +3763,24 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:185:term-usage:2735-2738",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:185",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 2735,
+    "end_char": 2738
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:186:term-usage:1164-1167",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:186",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 1164,
+    "end_char": 1167
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:201:term-usage:45-53",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:201",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
@@ -1495,39 +3790,48 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:201:term-usage:1533-1541",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:201:term-usage:1485-1493",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:201",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
     "span": "Comisión",
-    "start_char": 1533,
-    "end_char": 1541
+    "start_char": 1485,
+    "end_char": 1493
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:201:term-usage:1989-1997",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:201:term-usage:1719-1729",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:201",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1719,
+    "end_char": 1729
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:201:term-usage:1941-1949",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:201",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
     "span": "Comisión",
-    "start_char": 1989,
-    "end_char": 1997
+    "start_char": 1941,
+    "end_char": 1949
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:201:term-usage:2156-2164",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:201:term-usage:2108-2116",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:201",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
     "span": "Comisión",
-    "start_char": 2156,
-    "end_char": 2164
+    "start_char": 2108,
+    "end_char": 2116
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:202:term-usage:543-551",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:202:term-usage:536-544",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:202",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
     "span": "Comisión",
-    "start_char": 543,
-    "end_char": 551
+    "start_char": 536,
+    "end_char": 544
   },
   {
     "schema_version": "0.1.0",
@@ -1738,6 +4042,24 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-7:term-usage:4397-4400",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-7",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 4397,
+    "end_char": 4400
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-7:term-usage:5241-5244",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-7",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 5241,
+    "end_char": 5244
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-8:term-usage:89-97",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-8",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
@@ -1810,12 +4132,39 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-9:term-usage:933-936",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-9",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 933,
+    "end_char": 936
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-9:term-usage:1278-1281",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-9",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 1278,
+    "end_char": 1281
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-9:term-usage:2480-2488",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-9",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
     "span": "Comisión",
     "start_char": 2480,
     "end_char": 2488
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-9:term-usage:3696-3699",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-9",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 3696,
+    "end_char": 3699
   },
   {
     "schema_version": "0.1.0",
@@ -1954,6 +4303,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-15:term-usage:116-119",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-15",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 116,
+    "end_char": 119
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-15:term-usage:158-166",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-15",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
@@ -2080,6 +4438,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-17:term-usage:662-665",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-17",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 662,
+    "end_char": 665
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-17:term-usage:1167-1175",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-17",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
@@ -2113,6 +4480,15 @@
     "span": "Comisión",
     "start_char": 479,
     "end_char": 487
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-18:term-usage:523-526",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-18",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 523,
+    "end_char": 526
   },
   {
     "schema_version": "0.1.0",
@@ -2152,6 +4528,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-18:term-usage:1968-1971",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-18",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 1968,
+    "end_char": 1971
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-19:term-usage:155-163",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-19",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
@@ -2161,12 +4546,48 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-19:term-usage:170-173",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-19",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 170,
+    "end_char": 173
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-19:term-usage:274-277",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-19",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 274,
+    "end_char": 277
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-19:term-usage:364-367",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-19",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 364,
+    "end_char": 367
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-20:term-usage:3-11",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-20",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
     "span": "Comisión",
     "start_char": 3,
     "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-21:term-usage:141-144",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-21",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 141,
+    "end_char": 144
   },
   {
     "schema_version": "0.1.0",
@@ -2188,6 +4609,24 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:205:term-usage:283-286",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:205",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 283,
+    "end_char": 286
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:205:term-usage:662-665",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:205",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 662,
+    "end_char": 665
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:205:term-usage:854-862",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:205",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
@@ -2197,12 +4636,30 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:206:term-usage:931-934",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:206",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 931,
+    "end_char": 934
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:206:term-usage:1381-1389",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:206",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
     "span": "Comisión",
     "start_char": 1381,
     "end_char": 1389
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:206:term-usage:1617-1620",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:206",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 1617,
+    "end_char": 1620
   },
   {
     "schema_version": "0.1.0",
@@ -2251,12 +4708,39 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:206:term-usage:3029-3032",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:206",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 3029,
+    "end_char": 3032
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:206:term-usage:3952-3955",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:206",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 3952,
+    "end_char": 3955
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:206:term-usage:4257-4265",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:206",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
     "span": "Comisión",
     "start_char": 4257,
     "end_char": 4265
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:206:term-usage:4596-4599",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:206",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 4596,
+    "end_char": 4599
   },
   {
     "schema_version": "0.1.0",
@@ -2302,6 +4786,24 @@
     "span": "Comisión",
     "start_char": 2716,
     "end_char": 2724
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:206-bis:term-usage:2915-2918",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:206-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 2915,
+    "end_char": 2918
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:206-bis-1:term-usage:250-253",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:206-bis-1",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 250,
+    "end_char": 253
   },
   {
     "schema_version": "0.1.0",
@@ -2413,6 +4915,24 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:207:term-usage:537-540",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:207",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 537,
+    "end_char": 540
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:208:term-usage:115-118",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:208",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 115,
+    "end_char": 118
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:208:term-usage:143-151",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:208",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
@@ -2431,12 +4951,30 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:209:term-usage:115-118",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:209",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 115,
+    "end_char": 118
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:209:term-usage:143-151",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:209",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
     "span": "Comisión",
     "start_char": 143,
     "end_char": 151
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:212:term-usage:1434-1437",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:212",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 1434,
+    "end_char": 1437
   },
   {
     "schema_version": "0.1.0",
@@ -2476,48 +5014,75 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:213:term-usage:179-187",
-    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:213",
-    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
-    "span": "Comisión",
-    "start_char": 179,
-    "end_char": 187
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:212-bis-1:term-usage:2780-2783",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:212-bis-1",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 2780,
+    "end_char": 2783
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:213:term-usage:2616-2624",
-    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:213",
-    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
-    "span": "Comisión",
-    "start_char": 2616,
-    "end_char": 2624
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:212-bis-2:term-usage:271-274",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:212-bis-2",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 271,
+    "end_char": 274
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:213:term-usage:2853-2861",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:213:term-usage:172-180",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:213",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
     "span": "Comisión",
-    "start_char": 2853,
-    "end_char": 2861
+    "start_char": 172,
+    "end_char": 180
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:213:term-usage:3177-3185",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:213:term-usage:2609-2617",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:213",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
     "span": "Comisión",
-    "start_char": 3177,
-    "end_char": 3185
+    "start_char": 2609,
+    "end_char": 2617
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:213:term-usage:3597-3605",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:213:term-usage:2846-2854",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:213",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
     "span": "Comisión",
-    "start_char": 3597,
-    "end_char": 3605
+    "start_char": 2846,
+    "end_char": 2854
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:213:term-usage:3083-3090",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:213",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:valores",
+    "span": "Valores",
+    "start_char": 3083,
+    "end_char": 3090
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:213:term-usage:3158-3166",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:213",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 3158,
+    "end_char": 3166
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:213:term-usage:3578-3586",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:213",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 3578,
+    "end_char": 3586
   },
   {
     "schema_version": "0.1.0",
@@ -2548,21 +5113,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:216:term-usage:1901-1909",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:216:term-usage:964-967",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:216",
-    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
-    "span": "Comisión",
-    "start_char": 1901,
-    "end_char": 1909
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "span": "Ley",
+    "start_char": 964,
+    "end_char": 967
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:216:term-usage:2097-2105",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:216:term-usage:1895-1903",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:216",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
     "span": "Comisión",
-    "start_char": 2097,
-    "end_char": 2105
+    "start_char": 1895,
+    "end_char": 1903
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:216:term-usage:2091-2099",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:216",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 2091,
+    "end_char": 2099
   },
   {
     "schema_version": "0.1.0",
@@ -2620,6 +5194,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:transitory:segundo:term-usage:157-164",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:valores",
+    "span": "Valores",
+    "start_char": 157,
+    "end_char": 164
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:transitory:segundo:term-usage:181-189",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:transitory:segundo",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
@@ -2638,12 +5221,48 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:transitory:segundo:term-usage:649-659",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 649,
+    "end_char": 659
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:transitory:cuarto:term-usage:112-122",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 112,
+    "end_char": 122
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:transitory:cuarto:term-usage:325-333",
     "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:transitory:cuarto",
     "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
     "span": "Comisión",
     "start_char": 325,
     "end_char": 333
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:transitory:cuarto:term-usage:359-369",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 359,
+    "end_char": 369
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:transitory:cuarto:term-usage:532-542",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 532,
+    "end_char": 542
   },
   {
     "schema_version": "0.1.0",

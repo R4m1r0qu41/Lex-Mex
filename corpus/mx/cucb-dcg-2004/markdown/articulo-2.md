@@ -18,9 +18,9 @@ source_sha256: 98762f18214a47011d5f4f3d4eb63bf776be8e1528cc08888adaf47fe2829e85
 
 # Artículo 2
 
-Las casas de bolsa, en cumplimiento de lo previsto en el artículo 116 de la Ley, con al menos treinta días hábiles de anticipación al inicio de sus operaciones o de la realización de una o más de las actividades o servicios previstos en artículo [171](articulo-171.md) del citado ordenamiento legal que incorporen con posterioridad a su objeto social, deberán acreditar a la [Comisión](articulo-1.md), según sea el caso, lo siguiente:
+Las casas de bolsa, en cumplimiento de lo previsto en el artículo 116 de la [Ley](articulo-1.md), con al menos treinta días hábiles de anticipación al inicio de sus operaciones o de la realización de una o más de las actividades o servicios previstos en artículo [171](articulo-171.md) del citado ordenamiento legal que incorporen con posterioridad a su objeto social, deberán acreditar a la [Comisión](articulo-1.md), según sea el caso, lo siguiente:
 
-I. La constitución de la sociedad proporcionando los datos de inscripción en el Registro Público de Comercio, de conformidad con el artículo 153, fracción I de la Ley.
+I. La constitución de la sociedad proporcionando los datos de inscripción en el [Registro](articulo-1.md) Público de Comercio, de conformidad con el artículo 153, fracción I de la Ley.
 
 II. Tener debidamente aprobados por su consejo de administración:
 

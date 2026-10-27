@@ -7,8 +7,8 @@ provision_type: article
 number: "31"
 aliases: ["LNETB — Artículo 31"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LNETB.pdf
 source_sha256: 193ffb402e2decb38aac42ad136c90b9a944a097b4f9b94b6e161ca1bd30f839
 ---

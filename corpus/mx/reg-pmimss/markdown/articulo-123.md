@@ -7,8 +7,8 @@ provision_type: article
 number: "123"
 aliases: ["RPMIMSS — Artículo 123"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regla/n29.pdf
 source_sha256: 2031b8a0cffc7dd2c9a3012644baea0ccd914029b6bf46ae3ca73f46f78dd735
 ---
