@@ -26,11 +26,11 @@
   "temporal_literal_date": "bcd17a4e4",
   "review_fix_R001": "cf43ae1b4"
  },
- "tip_for_db": "bcd17a4e406e92949cbc5decd2f655623621a6e2",
+ "tip_for_db": "3cbba683e7cea174600ee197f813d6fa15675083",
  "db": {
-  "release_id": "caead5ed59fe23fe0acdc260511d3576d126f154f4ce39987fe4c1e0d30f2a8c",
-  "database_sha256": "8ec847d9de9708eb61be414b57268dcb2ef991e99b902fbc709f88135d562a06",
-  "logical_content_sha256": "42cfc2e3b8d55c2729c161d45a415954a280029b41250ce08355a0276cb5e1ce",
+  "release_id": "d82f53c073a53960d18f56c323d720ebce84dddcc2f70da949fa0ba25687539d",
+  "database_sha256": "17ca152be7300a54f1b11853ee01f6d1cbe6081b558523d75e444b5ea5b6a6bf",
+  "logical_content_sha256": "e3f0d112f2206cbea3d9b144c3ae1a31c3021f44700f6f37eac0371d23a03b3a",
   "two_projections_identical": true,
   "verify": "pass",
   "provisions": 68395,
@@ -50,11 +50,12 @@
  "checks": {
   "validate_lritf": "valid 145/11/126 0 issues",
   "validate_ifpe": "valid 59/4/115 0 issues",
-  "workspace_tests": "439 passed",
+  "workspace_tests": "442 passed (after R-001 fix)",
   "fmt": "pass",
   "clippy": "pass 1.95 and 1.99.0",
   "link_all": "exit 0; 0 relinked; 2 rejections equal recorded gaps (lftr, socap)",
-  "touched_instruments_valid": 12
+  "touched_instruments_valid": 12,
+  "gate_tip": "3cbba683e"
  },
  "held": {
   "socap-sofipo-dcg-2006": "legend omits entry 91; mark (91) used"
@@ -127,5 +128,19 @@
   "reg-laero": 3,
   "total": 341,
   "note": "amended articles; rule output, not a legal ruling"
+ },
+ "independent_review": {
+  "report": "docs/post-split-independent-review-2026-10-26.md (main)",
+  "verdict": "hold integration; four bounded repairs",
+  "reviewed_tips": {
+   "parser": "6a5121964",
+   "corpus": "bcd17a4e4",
+   "query": "134e4e381"
+  }
+ },
+ "review_response": {
+  "R-001": "fixed cf43ae1b4",
+  "R-002_R-003_R-004": "fixed b3e562d88 on the public-query branch",
+  "disclosure": "3cbba683e"
  }
 }

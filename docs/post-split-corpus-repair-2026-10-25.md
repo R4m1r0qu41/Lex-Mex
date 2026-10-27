@@ -147,6 +147,21 @@ The accepted-equivalent database (release `0ea9c945…`) and the final one (rele
 
 Raw comparison: `.work/parser-repair-20261025/audited-state-comparison.json`.
 
+## Response to the independent review (2026-10-26)
+
+Codex reviewed `6a5121964` (verdict: hold integration, not a rejection). Parser finding **R-001 (P1)**: the sentence-interruption rule
+in `d6a28e6a7` suppressed any transitory section header after an unpunctuated body, so a real standalone `TRANSITORIOS` became body
+text. Fixed in `cf43ae1b4`: the exception now applies only to the mixed-case fragment `Artículo transitorio`; the review's synthetic
+input is a regression that fails on the old predicate; `lrascap` reparses byte-identically to its committed record; B equals C3 on all
+102 recovered instruments and the binary differs from C3 only on `lscs` and `lrascap`. Query findings R-002 to R-004 are fixed on the
+public-query branch (see the R3 record). The start-date clearances Codex asked to see disclosed are in the section above.
+
+Gate at `3cbba683e` (builder and corpus identity both this commit, because the parser change alters pinned builder sources):
+fmt, clippy, **442 workspace tests**, both locked validators valid, all 12 touched instruments valid, `link --all` on a clone exit 0
+with 0 relinked and only `lftr` and `socap` rejected, two fresh projections byte-identical (release `d82f53c0…`, database
+`17ca152b…`) passing `db verify` and all 21 goldens. Census unchanged: 68,395 provisions, 36,077 edges, 102,282 usages, 0 active debt
+rows. The logical digest differs from the earlier release only because the builder identity is part of the release provenance.
+
 ## Not done
 
 `socap-sofipo-dcg-2006` is held. `cjm` (+2) and `lftr` (+3) were out of this instruction; R2 (temporal queue), the R3 remainder
