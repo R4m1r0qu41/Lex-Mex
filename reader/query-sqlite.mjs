@@ -15,6 +15,7 @@ import {hash,normalize,MAX_RESULTS,checkRelease} from './query-contract.mjs';
 export const MAX_DEPTH=1000;
 export const MAX_TOKENS=12;
 const TYPE=/:(article|transitory|annex):([a-z0-9-]{1,80})$/;
+const LOOSE_TYPE=/:(article|transitory|annex):[^:]+$/;
 const bad=m=>{throw Error(m);};
 // A provision is addressable only when its id ends in a URL-safe number (the public route is [a-z0-9-]{1,80}).
 // Ordinal signs such as `transitory:1º` are not; those provisions are counted in the coverage notice, never guessed.
@@ -29,7 +30,8 @@ function excerpt(text,first){
   return cps.slice(start,start+160).join('');
 }
 
-export function sqliteAdapter(path,{notice}={}){
+export function sqliteAdapter(path,{notice,maxDepth=MAX_DEPTH}={}){
+  if(!Number.isSafeInteger(maxDepth)||maxDepth<1||maxDepth>MAX_DEPTH)bad('Invalid depth');
   const db=new DatabaseSync(path,{readOnly:true});db.exec('PRAGMA query_only=ON');
   const spec=db.prepare('SELECT id,specification FROM corpus_release').all();
   if(spec.length!==1)bad('Unexpected release table');
@@ -55,26 +57,28 @@ export function sqliteAdapter(path,{notice}={}){
   const hit=(row,first='')=>({id:row.id,instrument:instrumentById(row.instrument_id),provision_type:row.provision_type,number:numberOf(row.id),label:row.label,excerpt:excerpt(row.text,first)});
   function page(binding,limit,token){
     const scope=hash(JSON.stringify([release.id,...binding]));let offset=0;
-    if(token){let d;try{d=JSON.parse(Buffer.from(token,'base64url').toString());}catch{bad('Invalid cursor');}
-      if(!d||typeof d!=='object'||Array.isArray(d)||d.scope!==scope||!Number.isSafeInteger(d.offset)||d.offset<0||d.offset>=MAX_DEPTH)bad('Invalid cursor');offset=d.offset;}
     if(!Number.isSafeInteger(limit)||limit<1||limit>MAX_RESULTS)bad('Invalid limit');
-    return {offset,limit,finish(rows){const more=rows.length>limit&&offset+limit<MAX_DEPTH;
-      return {rows:rows.slice(0,limit),next_cursor:more?Buffer.from(JSON.stringify({scope,offset:offset+limit})).toString('base64url'):null};}};
+    if(token){let d;try{d=JSON.parse(Buffer.from(token,'base64url').toString());}catch{bad('Invalid cursor');}
+      if(!d||typeof d!=='object'||Array.isArray(d)||d.scope!==scope||!Number.isSafeInteger(d.offset)||d.offset<0||d.offset>=maxDepth)bad('Invalid cursor');offset=d.offset;}
+    // The last page is cut to the remaining depth, so a walk of any page size ends at maxDepth results at most.
+    const take=Math.min(limit,maxDepth-offset);
+    return {offset,take,finish(rows){const more=rows.length>take&&offset+take<maxDepth;
+      return {rows:rows.slice(0,take),next_cursor:more?Buffer.from(JSON.stringify({scope,offset:offset+take})).toString('base64url'):null};}};
   }
   return {
     release,notice,
     close(){db.close();},
-    async catalog({limit,cursor}){const p=page(['catalog'],limit,cursor);const r=p.finish(q.catalog.all(p.limit+1,p.offset));return {items:r.rows.map(instrument),next_cursor:r.next_cursor};},
+    async catalog({limit,cursor}){const p=page(['catalog'],limit,cursor);const r=p.finish(q.catalog.all(p.take+1,p.offset));return {items:r.rows.map(instrument),next_cursor:r.next_cursor};},
     async search({query,instrument:slug,limit,cursor}){
       const t=tokens(query),match='"'+t.join(' ')+'"';
-      let inst=null;if(slug){inst=q.bySlug.get(slug);if(!inst)return {items:[],next_cursor:null,query};}
       const p=page(['search',query,slug??null],limit,cursor);
-      const rows=inst?q.searchIn.all(match,inst.id,p.limit+1,p.offset):q.search.all(match,p.limit+1,p.offset);
+      let inst=null;if(slug){inst=q.bySlug.get(slug);if(!inst)return {items:[],next_cursor:null,query};}
+      const rows=inst?q.searchIn.all(match,inst.id,p.take+1,p.offset):q.search.all(match,p.take+1,p.offset);
       const r=p.finish(rows);return {items:r.rows.map(row=>hit(row,t[0])),next_cursor:r.next_cursor,query};
     },
     async index({slug,limit,cursor}){
       const inst=q.bySlug.get(slug);const p=page(['index',slug],limit,cursor);
-      const r=p.finish(inst?q.index.all(inst.id,p.limit+1,p.offset):[]);return {items:r.rows.map(row=>hit(row)),next_cursor:r.next_cursor,query:`Índice de ${slug}`};
+      const r=p.finish(inst?q.index.all(inst.id,p.take+1,p.offset):[]);return {items:r.rows.map(row=>hit(row)),next_cursor:r.next_cursor,query:`Índice de ${slug}`};
     },
     async lookup({slug,type,number}){
       const inst=q.bySlug.get(slug);if(!inst)return null;
@@ -86,10 +90,14 @@ export function sqliteAdapter(path,{notice}={}){
         temporal_status:String(row.temporal_status??'unknown'),review_status:String(row.review_status??'not_analyzed')};
     },
     async references({id,limit,cursor}){
-      const p=page(['references',id],limit,cursor);const r=p.finish(q.edges.all(id,p.limit+1,p.offset));
+      const p=page(['references',id],limit,cursor);const r=p.finish(q.edges.all(id,p.take+1,p.offset));
       return {items:r.rows.map(e=>{
         const resolved=e.resolution_status==='resolved';let target=null;
-        if(resolved){const m=TYPE.exec(e.target_provision_id),slugRow=q.byId.get(e.target_instrument_id);if(m&&slugRow)target={slug:slugRow.slug,provision_type:m[1],number:m[2]};else bad('Unresolvable edge target');}
+        // A resolved target keeps its exact canonical id and status. If its number has no public route (an ordinal sign
+        // such as `9º`), `target` is null: the edge is neither dropped nor given an invented normalized id.
+        if(resolved){const m=TYPE.exec(e.target_provision_id),slugRow=q.byId.get(e.target_instrument_id);
+          if(!slugRow||!LOOSE_TYPE.test(e.target_provision_id))bad('Unresolvable edge target');
+          if(m)target={slug:slugRow.slug,provision_type:m[1],number:m[2]};}
         return {target_id:e.target_provision_id,target,source_span:String(e.source_span??''),resolution_status:e.resolution_status,resolution_rule:e.resolution_rule??null,qualifiers:q.qualifiers.all(e.id).map(x=>({type:x.type,text:x.text}))};
       }),next_cursor:r.next_cursor};
     },

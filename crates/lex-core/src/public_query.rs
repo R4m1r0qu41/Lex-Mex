@@ -214,6 +214,19 @@ mod tests {
         }
     }
     #[test]
+    fn a_resolved_reference_may_have_no_public_route_target() {
+        // Review finding R-002: a canonical target whose number has no public route
+        // keeps its exact id and `resolved` status with a null target.
+        let mut response = fixture_response();
+        response["result"] = serde_json::json!({"kind":"references","data":{"items":[
+            {"target_id":"urn:lex-mx:federal:statute:lft:transitory:9º","target":null,
+             "source_span":"transitorio 9º","resolution_status":"resolved","resolution_rule":null,"qualifiers":[]},
+            {"target_id":"urn:lex-mx:federal:statute:lft:article:3","target":{"slug":"lft","provision_type":"article","number":"3"},
+             "source_span":"artículo 3","resolution_status":"resolved","resolution_rule":null,"qualifiers":[]}
+        ],"next_cursor":null}});
+        validate_response(&serde_json::to_vec(&response).unwrap()).unwrap();
+    }
+    #[test]
     fn rejects_private_fields_tampering_and_live_historical_target() {
         let mut response = fixture_response();
         response["result"]["data"]["provision"]["operator_note"] = serde_json::json!("private");
