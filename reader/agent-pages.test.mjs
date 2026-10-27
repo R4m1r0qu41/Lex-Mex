@@ -74,6 +74,7 @@ test('static term pages obey a corpus-wide budget, keep the most frequent words,
  assert.deepEqual(termFiles(agentPages(manifest,content,{maxTermPages:4})).sort(),['comun.html','medio.html','raroa.html','tercio.html']);
  const catalog=[...small.files].find(([p])=>p.endsWith('/catalog-1.html'))[1].toString();
  assert.match(catalog,/las 3 palabras más frecuentes de 5/);
+ assert.match(catalog,/palabras raras, que suelen ser las más específicas, no tienen página de término: use la búsqueda/);
  assert.equal(termFiles(agentPages(manifest,content,{maxTermPages:0})).length,0);
  assert.throws(()=>agentPages(manifest,content,{maxTermPages:-1}),/Invalid term page budget/);
  assert.throws(()=>agentPages(manifest,content,{maxTermPages:1.5}),/Invalid term page budget/);
