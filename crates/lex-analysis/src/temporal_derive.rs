@@ -257,29 +257,7 @@ pub fn derive_article_temporal_determinations(
         };
     }
     let commencement = resolve_commencement(&ordinary_transitories, publication_date);
-    let rule_b: Option<(TemporalStatus, Option<NaiveDate>, String)> = match &commencement {
-        Commencement::Resolved { effective_from, .. } => Some((
-            if *effective_from > today {
-                TemporalStatus::FutureEffective
-            } else {
-                TemporalStatus::Effective
-            },
-            Some(*effective_from),
-            format!("instrument's own commencement clause resolves to {effective_from}"),
-        )),
-        // Certain only once the latest possible date has passed; the start
-        // date itself is not asserted.
-        Commencement::Bounded {
-            latest, pattern, ..
-        } if *latest <= today => Some((
-            TemporalStatus::Effective,
-            None,
-            format!(
-                "instrument's own commencement clause ({pattern}) takes effect no later than {latest}; the exact date is not computed"
-            ),
-        )),
-        _ => None,
-    };
+    let rule_b = commencement_verdict(&commencement, today);
     if let Some((status, start, reason)) = rule_b {
         for provision in provisions {
             if provision.provision_type != ProvisionType::Article
@@ -310,6 +288,38 @@ pub fn derive_article_temporal_determinations(
     DerivationOutcome {
         determinations,
         commencement: Some(commencement),
+    }
+}
+
+/// What an instrument's commencement means for its untouched articles: the
+/// status, the start date to record (if any) and the evidence line, or `None`
+/// when the commencement cannot be decided yet.
+fn commencement_verdict(
+    commencement: &Commencement,
+    today: NaiveDate,
+) -> Option<(TemporalStatus, Option<NaiveDate>, String)> {
+    match commencement {
+        Commencement::Resolved { effective_from, .. } => Some((
+            if *effective_from > today {
+                TemporalStatus::FutureEffective
+            } else {
+                TemporalStatus::Effective
+            },
+            Some(*effective_from),
+            format!("instrument's own commencement clause resolves to {effective_from}"),
+        )),
+        // Certain only once the latest possible date has passed; the start
+        // date itself is not asserted.
+        Commencement::Bounded {
+            latest, pattern, ..
+        } if *latest <= today => Some((
+            TemporalStatus::Effective,
+            None,
+            format!(
+                "instrument's own commencement clause ({pattern}) takes effect no later than {latest}; the exact date is not computed"
+            ),
+        )),
+        _ => None,
     }
 }
 
