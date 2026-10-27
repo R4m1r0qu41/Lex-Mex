@@ -2,6 +2,7 @@ use chrono::{DateTime, NaiveDate, Utc};
 use serde::{Deserialize, Serialize};
 use url::Url;
 
+pub mod public_query;
 mod temporal;
 
 pub use temporal::{
