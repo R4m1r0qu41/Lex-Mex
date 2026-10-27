@@ -1,7 +1,6 @@
 # Post-split integration readiness — 2026-10-27
 
-**Ready for an operator-authorized normal merge. Nothing here is merged, pushed or published, and Codex's acceptance is not a
-merge or deployment authorization.** Codex's bounded re-review
+**Integrated locally on 2026-10-27 (normal merges, no push, no publication). The sections below were written before the merge and are kept as the plan; see "Integration result" at the end.** Codex's acceptance is not a deployment authorization. Codex's bounded re-review
 ([report](post-split-bounded-re-review-2026-10-27.md), [evidence](post-split-bounded-re-review-2026-10-27-evidence.json))
 accepts the R-001 to R-004 fixes with no blocking finding; the one non-blocking note (R-005, a wrong explanation of the logical-digest
 change) is corrected in a docs-only commit.
@@ -49,3 +48,26 @@ so builder and corpus identity are the merge commit for the database build):
   case about 0.2 s cold); the serving and deployment task is separate.
 - No audited legal state changed (16 reviews, 17 approvals and the 3 protected provisions are identical across the accepted and final
   databases); the 12,211 temporal transitions and the 341 start-date clearances are rule outputs, not legal rulings.
+
+## Integration result (2026-10-27)
+
+**Basis.** The operator's earlier answer to the merge question was "wait for Codex review, then merge normally" with no push. Codex's
+bounded re-review accepted the fixes, so the merge was made, on a separate integration branch first and promoted only after the
+merged-result checks passed.
+
+- **Merge.** `integration/post-split-2026-10-27` in `/Users/jr/Dev/lex-mex-integration`: parser branch `440e1771d`, then query branch
+  `dbc88a314`, both normal `--no-ff` merges of the accepted tips (`773c53f2d`, `615578206`); no rebase, squash or fast-forward. `main` was
+  then fast-forwarded to exactly `dbc88a314` (the tested merge commit). **Not pushed:** `origin/main` is still `a07a93f31`.
+- **Checks of the actual merged result** (builder and corpus identity both the merge commit; mech scripts, exit statuses not captured under
+  zsh, printed results are the evidence): fmt; clippy 1.95; **447 workspace tests** (442 plus 5 from the query branch); both locked validators
+  valid (145/11/126 and 59/4/115); all 12 touched instruments valid; `link --all` on a clone exit 0, 0 relinked, 36,077 edges, only `lftr`
+  and `socap-sofipo-dcg-2006` rejected; two fresh projections byte-identical (release `053b4571…`, database `9be77f60…`, logical `57dacbc5…`)
+  passing `db verify` and all 21 goldens; census 68,395 provisions, 36,077 edges, 102,282 usages, 0 active debt rows; `node --test reader/`
+  71 of 71 on that database (53 pass, 18 skip without one); `db inspect-inputs` at the merge commit reports 0 active debt rows; ancestors
+  `47eabbb21`, `bcd17a4e4`, `6505baf57`, `cf43ae1b4`, `b3e562d88` all on the merged history. The database has one more input file (4,963
+  against 4,962) because the merged tree carries the added review and integration documents, which is why the logical digest differs from
+  `e3f0d112…` (the R-005 explanation).
+- **Preserved.** The other writer's uncommitted edits in the main checkout (`PLANS.md`, two plan files, DuckDB drafts) are unchanged; the
+  repair and query worktrees and their branches are intact.
+- **Still open, unchanged by the merge:** nothing is pushed, served or published; `socap-sofipo-dcg-2006` stays held; the 74 skipped and 6
+  no-transitory instruments stay queued; the common-token search-cost cap is a product decision; the serving and deployment task is separate.
