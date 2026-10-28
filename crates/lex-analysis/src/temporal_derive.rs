@@ -1322,6 +1322,7 @@ mod tests {
             ("conditional month", format!("{month}, siempre y cuando se haya expedido el reglamento correspondiente.")),
             ("negated month", "La presente Ley no entrará en vigor un mes después de su publicación en el Diario Oficial de la Federación.".to_owned()),
             ("negated business day", "La presente Ley no entrará en vigor a los treinta días hábiles siguientes de su publicación en el Diario Oficial de la Federación.".to_owned()),
+            ("negated calendar-day count", "La presente Ley no entrará en vigor a los treinta días siguientes de su publicación en el Diario Oficial de la Federación.".to_owned()),
             ("ligie: runs from an authority's determination", "El presente Decreto entrará en vigor a los diez días hábiles siguientes a aquél en el que el Servicio de Administración Tributaria determine que los sistemas se encuentran listos para operar.".to_owned()),
             ("reg-lfppi: a second commencement event", "El presente Decreto entrará en vigor a los sesenta días hábiles siguientes al de su publicación en el Diario Oficial de la Federación. El procedimiento en línea del Capítulo VII entrará en vigor al día siguiente al que se publique el acuerdo.".to_owned()),
             ("lfdc: a further sentence after the clause", format!("{month}. Las autoridades fiscales realizarán una campaña masiva para difundir las nuevas disposiciones.")),
